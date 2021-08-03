@@ -1,8 +1,11 @@
 +++
-title = "On The Current Colonial Consternation Contra Classicalxa0Studies"
-date = "February 21, 2021"
+title = "On The Current Colonial Consternation Contra Classical Studies"
+date = "2021-02-21"
+upstream_url = "https://aryaakasha.com/2021/02/21/on-the-current-colonial-consternation-contra-classical-studies/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/02/21/on-the-current-colonial-consternation-contra-classical-studies/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/02/image001sized.jpg?w=720)
 
 And so we come to it again. The periodic turning of the wheel wherein

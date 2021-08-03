@@ -1,7 +1,11 @@
 +++
 title = "The fourth story"
+date = "2014-08-03"
+upstream_url = "https://manasataramgini.wordpress.com/2014/08/03/the-fourth-story/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/08/03/the-fourth-story/).
+
 Some stories are written for the readers, some are written for the
 writers, some due to imagination running wild, some due to perverse
 inspiration, or some combination of some or all of these.
@@ -125,15 +129,15 @@ structure. Now it was a peculiar structure with a giant gopura featuring
 images from the new testament and an imposing dhvajastaMbha – it looked
 almost like a Hindu temple but for the giant pretA\~Nka on the top of he
 gopura and the staMbha. Written on the gateway arch in ornate nAgarI
-script were the words: “*kristudevaH paramo devaH | kristudharmaH paramo
-dharamaH | Arogya-svAmine vai namo namaH ||*”  
-Vidrum was shocked. He blurted out aloud: “What the \#%\*@\! When did
-they make the pretAlAya like this?”  
+script were the words: “*kristudevaH paramo devaH \| kristudharmaH
+paramo dharamaH \| Arogya-svAmine vai namo namaH \|\|*”  
+Vidrum was shocked. He blurted out aloud: “What the #%\*@! When did they
+make the pretAlAya like this?”  
 Meghana: “So what is wrong? See they are using our architecture and even
-Sanskrit\!”  
-V: “Nonsense\! This is a ploy to entice and entrap foolish Hindus.”  
+Sanskrit!”  
+V: “Nonsense! This is a ploy to entice and entrap foolish Hindus.”  
 M: “Don’t get worked up. I am sure all those extremist websites Somakhya
-and Sharvamanyu keep feeding you with are having their effects. Come on,
+and Sharvamanyu keep feeding you with arehaving their effects. Come on,
 they were being so conscious of adopting Indian traditions and you are
 seeing just the opposite. Are they not being so respectful…”
 
@@ -168,7 +172,7 @@ S: “What happened?”
 V: “You must hear this. Recently Meghana has been magnetically attracted
 towards this godman called shrI-108-vasudhaiva-kuTuMbakaM-bAbA-jI, whom
 she refers to as ‘shrI-108-vAsudev-kuTuMbak-bAbAjI’.”  
-S: “Who \#%\*@ is that ?”  
+S: “Who #%\*@ is that ?”  
 V: “Listen. She came to know of him from a pamphlet handed over to her
 by a pretasAdhaka at that monstrous pretAlaya situated at the St.
 Vincent’s circle. I have been trying to get her off this delusion but it
@@ -185,18 +189,17 @@ calling that the nayA-al-Kaʿbah (the new al-Kaʿbah). There was a large
 gathering at his lecture-hall. He began by chanting pieces from various
 religious texts and stated that lineage of prophets has not ended and he
 is the latest who would reveal the sole truth, which he termed
-‘advaita’, which will bring together the teachings of the
-upaniShat-s, Zoroaster, Moshe, Jesus Christ, and Mohammad. He added that
-all rituals were futile and only the truth he was going to make known
-was the basis of ultimate liberation. His secretary, Daniel Cooper from
-Australia added that S108VKBji’s message was no different from the
-sermon of Jesus on the mount. Thus, it went on for more than an hour
-like a monstrous teratoma of religion replete with narrations of the
-world-unifying visions of S108VKBji and blatantly staged miracles such
-as regurgitations of metal ellipsoids, which were called
-shiva-li\~Nga-s, as also of crucifixes, Bibles and Korans from the maw
-of S108VKBji.”  
-S: “Ghastly\!”  
+‘advaita’, which will bring together the teachings of the upaniShat-s,
+Zoroaster, Moshe, Jesus Christ, and Mohammad. He added that all rituals
+were futile and only the truth he was going to make known was the basis
+of ultimate liberation. His secretary, Daniel Cooper from Australia
+added that S108VKBji’s message was no different from the sermon of Jesus
+on the mount. Thus, it went on for more than an hour like a monstrous
+teratoma of religion replete with narrations of the world-unifying
+visions of S108VKBji and blatantly staged miracles such as
+regurgitations of metal ellipsoids, which were called shiva-li\~Nga-s,
+as also of crucifixes, Bibles and Korans from the maw of S108VKBji.”  
+S: “Ghastly!”  
 V: “Then he paused saying ‘sherbet’ and ‘bhog’ would served followed by
 saMgIt. I could take it no longer and told Meghana that I was not going
 to suffer such lunacy lightly. She went nuclear, and I left her and came
@@ -246,7 +249,7 @@ heated Mr. al Kabir and his men are supposed to have attacked S108VKBji
 and his followers and committed arson on his Ashram. The nayA-al-Kaʿbah
 structure was apparently completely demolished by the black t-shirt
 activists. In the clash that ensued S108VKBji was beheaded and his
-headless corpse was hoisted on to a lamp post outside the Ashram. In the
+headless corpse was hoisted on toa lamp post outside the Ashram. In the
 assault and stampede that followed 55 people are supposed to have been
 killed….
 
@@ -265,7 +268,7 @@ than sorry.
 ◊◊◊◊◊◊◊
 
 A few days later Somakhya received a message from Lootika:  
-prIya somAkhya\! sarvaM saukhyaM vA? indra-trAtaM bhava\!  
+prIya somAkhya! sarvaM saukhyaM vA? indra-trAtaM bhava!  
 My sister was part of the autopsy team of S108VKBji. His story is an
 interesting one. He was apparently an officer in the Indian Army who had
 sustained a grievous head injury during the Han attack on Sikkim in the
@@ -286,11 +289,12 @@ than half the patients receiving this experimental treatment report
 unusual neurological sequelae, raising questions about whether this
 approach might be the best thing to go forward with. More when I see you
 in person  
-bahu modasva\!  
-lUtikA |
+bahu modasva!  
+lUtikA \|
 
 Somakhya responded:  
-prIye lUtike\!  
-avashyam asya pAShaNDasya nigUDhaM rahasyam uchChinatsi \!  
+prIye lUtike!  
+avashyam asya pAShaNDasya nigUDhaM rahasyam uchChinatsi !  
 tava UrNa-jAle aryamaMstrAtaM bhava,  
-somAkhya |
+somAkhya \|
+

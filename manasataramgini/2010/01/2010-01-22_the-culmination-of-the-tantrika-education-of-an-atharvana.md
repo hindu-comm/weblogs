@@ -1,7 +1,11 @@
 +++
 title = "The culmination of the tAntrika education of an AtharvaNa"
+date = "2010-01-22"
+upstream_url = "https://manasataramgini.wordpress.com/2010/01/22/the-culmination-of-the-tantrika-education-of-an-atharvana/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/01/22/the-culmination-of-the-tantrika-education-of-an-atharvana/).
+
 After having changed his yaj\~nopavIta, the dvija who has studied the
 shruti of the bhR^igu-s and the a\~Ngiras goes to the preceptor to
 unlock the great secret of the tantra. He recites the triShaptIya which
@@ -19,55 +23,55 @@ mahA-kubjIshAna maNDala, which is more complex in its construction than
 even the shrI-chakra, and the mahA-pratya\~NgirA chakra.
 
 Then the preceptor asks him to recite the kubjikA sUkta:  
-shanno devI…abhi sravantu naH ||
+shanno devI…abhi sravantu naH \|\|
 
-kubjikA parameShThinI vAgdevI brahma-saMshritA |  
-yayaiva sasR^ije ghoraM tayaiva shAntir astu naH ||  
-idaM yat parameShThinaM mano vAM brahma-saMshritam |  
-yenaiva sasR^ije ghoraM tenaiva shAntir astu naH ||  
+kubjikA parameShThinI vAgdevI brahma-saMshritA \|  
+yayaiva sasR^ije ghoraM tayaiva shAntir astu naH \|\|  
+idaM yat parameShThinaM mano vAM brahma-saMshritaM \|  
+yenaiva sasR^ije ghoraM tenaiva shAntir astu naH \|\|  
 imAni yAni pa\~nchendriyAni manaH ShaShThAni me hR^idi brahmaNa
-saMshR^itAni |  
-yaireva sasR^ije ghoraM taireva shAntir astu naH ||  
-aShTAviMshAni shivAni shagmAni saha yogaM bhajantu me |  
+saMshR^itAni \|  
+yaireva sasR^ije ghoraM taireva shAntir astu naH \|\|  
+aShTAviMshAni shivAni shagmAni saha yogaM bhajantu me \|  
 yogaM prapadye kShemaM cha kShemaM prapadye yogaM cha namo
-.ahorAtrAbhyAm astu ||
+.ahorAtrAbhyAm astu \|\|
 
 Then he goes to the karNamoTa tree, the kula vR^ikSha, and recites the
 mAdhavI vidyA to worship kubjikA there in:  
-madhuman mUlaM madhumad agramAsAM madhuman madhyaM vIrudhAM babhUva |  
+madhuman mUlaM madhumad agramAsAM madhuman madhyaM vIrudhAM babhUva \|  
 madhumat parNaM madhumat puShpamAsAm madhoH saMbhaktA amR^itaM ghR^itam
-annaM duhutAM kubjikAtmakam ||
+annaM duhutAM kubjikAtmakaM \|\|
 
 Then he focuses on his breath and invokes viShNu there in and kubjikA
 emerging as the power of his mAyA:  
-ajapA vaiShNavI mAyA japyena sAjitA parA |  
-kubjikA brahmavidyA sA yA vedair upagIyate ||  
-anAkhyeyam idaM guhyaM yogI-kesha-samaM nibham |  
-haMsasya gativistAraM bhukti-mukti-phala-pradam ||
+ajapA vaiShNavI mAyA japyena sAjitA parA \|  
+kubjikA brahmavidyA sA yA vedair upagIyate \|\|  
+anAkhyeyam idaM guhyaM yogI-kesha-samaM nibhaM \|  
+haMsasya gativistAraM bhukti-mukti-phala-pradaM \|\|
 
 Then he perceives his oneness with indra, viShNu, prajApati and the
 whole universe and utters:  
-tvam indras tvaM mahendras tvaM lokas tvaM prajApatiH |  
+tvam indras tvaM mahendras tvaM lokas tvaM prajApatiH \|  
 tubhyaM yaj\~no vijAyate tubhyaM juhvati juhvatas taved viShNo bahudhA
-vIryANi ||  
+vIryANi \|\|  
 Then the preceptor gives him the two kUTa-s and decodes them for him:  
 prAneshaH sugrIvaH saMvartako vaikuNTho dharA tridhAtur vahnir vyApako
-mahAvidyeshvarI saMyutam | This is the kUTa of kubjIshAna.  
+mahAvidyeshvarI saMyutaM \| This is the kUTa of kubjIshAna.  
 sahajaH paramAtmA nR^isiMhaM kAlarudraM khaDgI sha\~NkaraM vahnivarNaM
-chAMuNDA tUrya-svara-bhUShitaM nAda-bindu-yutam | This is the kUTa of
+chAMuNDA tUrya-svara-bhUShitaM nAda-bindu-yutaM \| This is the kUTa of
 mahApratya\~NgirA.
 
 Then he gives him the mantra weapon with which he battles abhichAra:  
-chakShuSho hete manaso hete brahmaNo hete tapasash-cha hete ||  
+chakShuSho hete manaso hete brahmaNo hete tapasash-cha hete \|\|  
 He also gives him the brahmaNa parimara mantra for the same purpose.  
 Then he gives him the para-kAya-praveshaNa mantra of the bhR^igu-s:  
 taM tvA prapadye taM tvA pravishAmi sarvaguH sarva-puruShaH sarvAtmA
-sarva-tanUH saha yanme .asti tena ||  
+sarva-tanUH saha yanme .asti tena \|\|  
 If appropriately initiated he can even animate a dreadful vetAla with
 this mantra.  
 Then he gives him the mantra of atharvaNa-bhadra-kAlI:  
-kAlI karAlI cha manojavA cha sulohitA yA cha sudhUmravarNA |  
-sphuli\~NginI vishvaruchI cha devI lelAyamAnA ||
+kAlI karAlI cha manojavA cha sulohitA yA cha sudhUmravarNA \|  
+sphuli\~NginI vishvaruchI cha devI lelAyamAnA \|\|
 
 Then he gives him the pUrNa-dIkSha with all the pratya\~NgirA mantra-s
 at pinnacle including the 9-syllabled mantra siddhilakShmI and the deva
@@ -85,3 +89,4 @@ they invoke the great goddess with her secret mantra with the 4 special
 bhakti-s. Then he recites pratya\~NgirA sUkta. With this he becomes the
 master of the pratya\~NgirA lore — even if dhUmAvatI or bagalAmukhI were
 deployed against him he will back-hurl them.\]
+

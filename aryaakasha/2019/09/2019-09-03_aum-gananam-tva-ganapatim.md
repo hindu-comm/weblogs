@@ -1,8 +1,11 @@
 +++
 title = "Aum Gananam Tva Ganapatim…"
-date = "September 3, 2019"
+date = "2019-09-03"
+upstream_url = "https://aryaakasha.com/2019/09/03/aum-gananam-tva-ganapatim/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/09/03/aum-gananam-tva-ganapatim/).
+
 ![69474847_10162220229130574_6755708764600401920_n](https://aryaakasha.files.wordpress.com/2019/09/69474847_10162220229130574_6755708764600401920_n.jpg?w=676)
 
 Ganesh Chaturthi began yesterday, and as one should properly expect,

@@ -1,30 +1,26 @@
 +++
 title = "shrIvidyA beyond the pa~nchadashI and classical phase"
+date = "2006-07-23"
+upstream_url = "https://manasataramgini.wordpress.com/2006/07/23/shrividya-beyond-the-panchadashi-and-classical-phase/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/07/23/shrividya-beyond-the-panchadashi-and-classical-phase/).
+
 Not much is remembered of the shrI-kula traditions before the universal
 sweep by the pa\~nchadashI and structurally related mantras, like manu
 vidyA or skanda vidyA. These may be termed the classical shrIvidyA
 mantras and examples include:  
-
-## The manmatha vidyA or kAdi vidyA:  
-
-ka e I la hrIm | ha sa ka ha la hrIm | sa ka la hrIM  
-
+The manmatha vidyA or kAdi vidyA:  
+ka e I la hrIM \| ha sa ka ha la hrIM \| sa ka la hrIM  
 This celebrated mantra is seen even in tiru-mantiraM of sundaranAtha
 (tirumUlar) the celebrated siddha who migrated from Kashmir to the
 drAviDa desha.  
-
-## The lopAmudra vidyA or the hAdi vidyA:  
-
-ha sa ka la hrIm | ha sa ka ha la hrIm | sa ka la hrIM  
-
-## The skanda vidyA (with 18 syllables):  
-ha sa ka la hrIm | ha sa ka sa ka la hrIm | sa ha ka ha ka hrIm |  
-
-## The manu vidyA (with 18 syllables):  
-ka ha e I la hrIm | ha ka e I la hrIm | sa ka e I la hrIM  
-
+The lopAmudra vidyA or the hAdi vidyA:  
+ha sa ka la hrIM \| ha sa ka ha la hrIM \| sa ka la hrIM  
+The skanda vidyA (with 18 syllables):  
+ha sa ka la hrIM \| ha sa ka sa ka la hrIM \| sa ha ka ha ka hrIM \|  
+The manu vidyA (with 18 syllables):  
+ka ha e I la hrIM \| ha ka e I la hrIM \| sa ka e I la hrIM  
 Now even within the classic mantras mainly the kAdimata and to a smaller
 extant the hAdimata dominate.
 
@@ -44,3 +40,4 @@ It appears that sundaranAtha (tirumUlar) appears to have been aware of
 these parallel forms as he mentions a shakti-pIThaM tripurA chakra,
 which from the sketchy details seems to be chakra that goes along with
 the above version.
+

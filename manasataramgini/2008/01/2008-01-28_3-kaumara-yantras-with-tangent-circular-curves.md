@@ -1,11 +1,15 @@
 +++
 title = "3 kaumAra yantras with tangent circular curves"
+date = "2008-01-28"
+upstream_url = "https://manasataramgini.wordpress.com/2008/01/28/3-kaumara-yantras-with-tangent-circular-curves/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/01/28/3-kaumara-yantras-with-tangent-circular-curves/).
+
 [![](https://i1.wp.com/bp1.blogger.com/_hjuA1bE0hBw/R54jTVPQosI/AAAAAAAAAB8/4roD8EDG2aE/s320/kumAra_vRiddhi.png)](http://bp1.blogger.com/_hjuA1bE0hBw/R54jTVPQosI/AAAAAAAAAB8/4roD8EDG2aE/s1600-h/kumAra_vRiddhi.png)  
 The vR^iddhi chakra (a star formed with 2 smooth fixed-with curves)
 
- 
+
 
 ![](https://i0.wp.com/bp2.blogger.com/_hjuA1bE0hBw/R54jTlPQotI/AAAAAAAAACE/WP9O1tiFul4/s320/kumAra_jaya.png)
 

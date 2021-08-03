@@ -1,8 +1,11 @@
 +++
-title = "shukrAchArya’s gadyam to shiva (from the shivaxa0purANa)"
+title = "shukrAchArya’s gadyam to shiva (from the shiva purANa)"
 date = "2019-07-25"
+upstream_url = "https://padmavajra.net/2019/07/25/shukracharyas-gadyam-to-shiva-from-the-shiva-purana/"
 
 +++
+Source: [here](https://padmavajra.net/2019/07/25/shukracharyas-gadyam-to-shiva-from-the-shiva-purana/).
+
 … Which was composed when he was trapped in His body. He was released
 through mahAdeva’s shukra.
 

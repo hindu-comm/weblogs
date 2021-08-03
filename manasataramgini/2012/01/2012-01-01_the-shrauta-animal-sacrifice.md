@@ -1,7 +1,11 @@
 +++
 title = "The shrauta animal sacrifice"
+date = "2012-01-01"
+upstream_url = "https://manasataramgini.wordpress.com/2012/01/01/the-shrauta-animal-sacrifice/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/01/01/the-shrauta-animal-sacrifice/).
+
 The shrauta animal sacrifice is a tradition of great importance in the
 development of Hindu science because it was here that they first learned
 their anatomy. This knowledge was to come of good use in their medical
@@ -34,7 +38,7 @@ that it was probably always present. We suspect that the brAhmaNa-s omit
 it for reasons of economy of learning associated with oral traditions.
 In support of this we would point out the specific calls of the adhvaryu
 such as: “indrAgnibhyAM chAgasya vapAyA medaso .avadIyamAnasyA .anubrUhi
-|” and “indrAgnibhyAM chAgasya vapAm medaH prasthitaM preShya |” In
+\|” and “indrAgnibhyAM chAgasya vapAm medaH prasthitaM preShya \|” In
 response to which in our version of the taittirIya tradition the
 maitravaruNa recites the RV mantra: “A bharataM shikShaM vajrabAhU…” and
 then the hotar recites the mantra: “upo ha yad vidathaM vAjino gUr…”.
@@ -193,11 +197,11 @@ triplicating the last mantra. The adhvaryu then offers ghee in the fire
 with “agnAv agnish charati…” Then he lassos the ram with a lasso with a
 two-stranded rope while reciting R^itasya tvA… and ties it to the rope
 wound round the yUpa with the mantra “dharSha mAnuShAN”. Uttering
-“adbhyas tvau…” he sprinkles the animal with water. Then he gives it
-its last drink with “apAm perur asi” and sprinkles its rear “svAttaM
-chit sad evaGM…” Then taking a samidh the adhvaryu gives a call to the
-hotar to recite the 17-fold sAmidhenI (additional varuNa mantra inserted
-for vasiShTha-s and kShatriya-s). As he does so the adhvaryu places one
+“adbhyas tvau…” he sprinkles the animal with water. Then he gives it its
+last drink with “apAm perur asi” and sprinkles its rear “svAttaM chit
+sad evaGM…” Then taking a samidh the adhvaryu gives a call to the hotar
+to recite the 17-fold sAmidhenI (additional varuNa mantra inserted for
+vasiShTha-s and kShatriya-s). As he does so the adhvaryu places one
 samidh per sAmidhenI and keeps one final samidh aside. He then fans the
 fire into a blaze and pours an AghAra libation of ghee with the darvI.
 Then he pours a second AghAra with the sruva and sruch. The hotar then
@@ -210,3 +214,4 @@ the maitrAvaruNa and gives him his daNDa with the appropriate mantra-s.
 
 Here concludes the first part of the account for now… We might resume
 later when we get a chance.
+

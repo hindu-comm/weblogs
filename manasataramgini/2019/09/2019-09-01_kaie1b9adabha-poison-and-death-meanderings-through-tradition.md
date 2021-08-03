@@ -1,16 +1,20 @@
 +++
 title = "Kaiṭabha, poison and death: meanderings through tradition"
+date = "2019-09-01"
+upstream_url = "https://manasataramgini.wordpress.com/2019/09/01/kai%e1%b9%adabha-poison-and-death-meanderings-through-tradition/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2019/09/01/kai%e1%b9%adabha-poison-and-death-meanderings-through-tradition/).
+
 For better reading try [PDF
 version](https://manasataramgini.files.wordpress.com/2019/09/prajapati_poison.pdf)
 
 The medical Suśruta-saṃhitā, kalpasthāna, chapter 3 contains an unusual
 mythologem about the origin of poison. It clearly belongs to the
-Prājāpatya tradition and presents some unusual features. It presented
-in full below:
+Prājāpatya tradition and presents some unusual features. It presented in
+full below:
 
-prajām imām ātma-yoner brahmaṇaḥ sṛjataḥ kila |  
+prajām imām ātma-yoner brahmaṇaḥ sṛjataḥ kila \|  
 akarod asuro vighnaṃ kaiṭabho nāma darpitaḥ ॥  
 tasya kruddhasya vai vaktrād brahmaṇas tejaso nidheḥ ।  
 krodho vigrahavān bhūtvā nipapāta+atidāruṇaḥ ॥  
@@ -42,17 +46,17 @@ associates with.
 
 We shall use this myth as a foundation to discuss to the following
 points:  
-1\) Here the demon Kaiṭabha is seen independently of his usual partner
+1) Here the demon Kaiṭabha is seen independently of his usual partner
 Madhu. Moreover, he is killed by the embodied wrath of Brahman rather
 than by Viṣṇu as in the paurāṇika records that have come down to us. Is
 this an unusual fossilization in a medical text of an old Prājāpatya
 tradition where Prajāpati killed Kaiṭabha by himself, which was then
 appropriated for Viṣṇu by his special votaries, or was it taken from
-Viṣṇu for Prajāpati by Brahma-sādhāka-s? It is tempting to propose
-the former due to the brāhmaṇa-like form of the narrative with a
-“folk-etymology” for viṣa, the ascendancy of Prajāpati in the late
-Vedic and epic period, which are coeval with the earliest layers of the
-two great medical saṃhitā-s, and a resemblance to some epic Prājāpatya
+Viṣṇu for Prajāpati by Brahma-sādhāka-s? It is tempting to propose the
+former due to the brāhmaṇa-like form of the narrative with a
+“folk-etymology” for viṣa, the ascendancy of Prajāpati in the late Vedic
+and epic period, which are coeval with the earliest layers of the two
+great medical saṃhitā-s, and a resemblance to some epic Prājāpatya
 narratives. For example, in the Mahābhārata Brahman creates seductive
 women to commit to lust men, who are on the path of becoming gods by
 observing dharma. However, the closest to this is the narrative of the
@@ -107,7 +111,7 @@ but it was disease and conflict between themselves.
 But before concluding, Nārada utters a remarkable verse which we shall
 take a detour to examine:
 
-vāyur bhīmo bhīmanādo mahaujā   
+vāyur bhīmo bhīmanādo mahaujā  
 bhettā dehān prāṇināṃ sarvago ‘sau ।  
 naivāvṛttiṃ nānuvṛttiṃ kadā cit  
 prāpnoty ugro ‘nantatejā viśiṣṭaḥ ॥  
@@ -160,8 +164,8 @@ potential of natural law. That brahma then manifests as a puruṣa termed
 the Aniruddha (the generator vyūha of Pañcarātra) with the triple
 guṇa-s. He is equivalent to the pradhāna of Sāṃkhya and possessed of
 knowledge \[of manifesting the universe\] he is also known as the
-Viṣvaksena. The Aniruddha generating a realm of primal fluid rests
-upon it in yoga-nidrā. In that state he contemplates the creation of the
+Viṣvaksena. The Aniruddha generating a realm of primal fluid rests upon
+it in yoga-nidrā. In that state he contemplates the creation of the
 wondrous universe with diverse properties and in the process reflects on
 his on great qualities. This self-consciousness (ahamkāra) results in a
 blazing 1000-petaled lotus emerging from the Aniruddha and from that
@@ -195,9 +199,9 @@ person who had retrieved the Veda-s, wondered aloud who that being was,
 desiring to battle him. This awakened the god, who taking on his
 Aśvaśiras form fought and slew both Madhu and Kaiṭabha. Thus, having
 restored the Veda to Brahman and having slain the obstructing demons
-Viṣṇu vanished letting Brahman to proceed with his act of creation.
-The krama of worship this god Hayaśiras was acquired by the Pāñcāla
-monarch from Rāma (the Bhārgava).
+Viṣṇu vanished letting Brahman to proceed with his act of creation. The
+krama of worship this god Hayaśiras was acquired by the Pāñcāla monarch
+from Rāma (the Bhārgava).
 
 Thus, in this early Pāñcarātrika account the agent of Kaiṭabha’s
 destruction is Viṣṇu in his Hayagrīva form. However, here he is coupled
@@ -221,7 +225,7 @@ Māgha in his Śiśupāla-vadha states:
 
 matkuṇāv iva purā pariplavau sindhunātha-śayane niṣeduṣaḥ ।  
 gacchataḥ sma madhu-kaiṭabhau vibhor yasya naidra-sukha-vighnatāṃ kṣaṇam
-॥   
+॥  
 Formerly, swimming like bugs Madhu and Kaiṭabha had proceeded to afflict
 the lord of the ocean in his bed. They interrupted the pleasure of the
 god’s sleep but just for a moment.
@@ -269,20 +273,20 @@ oṣadhīr vā imā rudrā viṣeṇāñjaṃs tāḥ paśavo nāliśanta te dev
 prajāpatim evopādhāvan sa prajāpatir abravīd vāryaṃ vṛṇai bhāgo me ‘stv
 iti vṛṇīṣvety abruvant so ‘bravīn maddevatyaiva samidasad iti tasmāt
 prājāpatyā samid deveṣu hy asyaiṣā vāryavṛtā dve samidhau kārye dve hy
-āhutī ekaiva kāryaiko hi prajāpatir ekadhā khalu vai samiddha uta
-bahvīr āhutayo hūyante tā agninānvavākarot tā asvadayat tāḥ punarṇavā
+āhutī ekaiva kāryaiko hi prajāpatir ekadhā khalu vai samiddha uta bahvīr
+āhutayo hūyante tā agninānvavākarot tā asvadayat tāḥ punarṇavā
 ajāyantaitarhi khalu vā agnihotriṇe darśapūrṇamāsine sarvā oṣadhayaḥ
 svadante yat samidham ādadhāti sarvā evāsmā oṣadhīḥ svadhayām akaḥ ॥  
 These plants being smeared with poison by Rudra (unusual MS saṃdhi) were
 not eaten by the animals. As the deva-s then ran to Prajāpati, he,
-Prajāpati, chose a boon: “May there be a \[ritual\] share for me”.
-\[The gods said\] choose. He \[P\] said: “May the fire-stick be
-\[offered\] with me as the deity.” Therefore the Prājāpatya fire-stick
-\[is offered\], for it was boon chosen from the gods by him. Should
-there be two fire-sticks in the ritual as there are two offerings? One
-indeed is the ritual action \[offering the fire-stick\] for Prajāpati is
-verily one. Thus, just one fold is the offering of the fire stick even
-though many oblations \[of ghee\] are offered. Those \[plants\] are
+Prajāpati, chose a boon: “May there be a \[ritual\] share for me”. \[The
+gods said\] choose. He \[P\] said: “May the fire-stick be \[offered\]
+with me as the deity.” Therefore the Prājāpatya fire-stick \[is
+offered\], for it was boon chosen from the gods by him. Should there be
+two fire-sticks in the ritual as there are two offerings? One indeed is
+the ritual action \[offering the fire-stick\] for Prajāpati is verily
+one. Thus, just one fold is the offering of the fire stick even though
+many oblations \[of ghee\] are offered. Those \[plants\] are
 successively strewn by Agni. They were made palatable. They were born
 anew again. Now indeed, when the ritualist who performs Agnihotra or the
 New- and Full-moon rituals offers \[Prajāpati’s\] fire-stick all plants
@@ -347,3 +351,4 @@ Prajāpati. Hence, lurking behind the mysterious embodied wrath of
 Brahman, which became the poison of Suśruta, we suspect that there is an
 implicit allusion to none other than Rudra, whose wrath elsewhere in the
 medical saṃhitā-s is seen as the originator of diseases.
+

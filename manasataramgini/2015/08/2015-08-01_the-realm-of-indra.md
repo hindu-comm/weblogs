@@ -1,7 +1,11 @@
 +++
 title = "The realm of indra"
+date = "2015-08-01"
+upstream_url = "https://manasataramgini.wordpress.com/2015/08/01/the-realm-of-indra/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/08/01/the-realm-of-indra/).
+
 A version of this article was published earlier at [India
 Facts](http://indiafacts.co.in/the-realm-of-indra/)
 
@@ -14,9 +18,9 @@ of his ārya worshipers who offer him rituals – in this form he is
 typically called Indra or Maghavan or Vṛtrahan. In his atmospheric form
 he is Parjanya, who abundantly pours down life-giving rain. In his
 celestial manifestation in the high heavens he is Dyaus. Already in the
-Ṛgveda, the earliest surviving Indo-Aryan text, under the name Indra
-he comprehensively encompasses all three functions. Yet, the old memory
-of tripartation is still seen as both Parjanya and Dyaus are retained as
+Ṛgveda, the earliest surviving Indo-Aryan text, under the name Indra he
+comprehensively encompasses all three functions. Yet, the old memory of
+tripartation is still seen as both Parjanya and Dyaus are retained as
 distinct devatā-s with specific functions in the atmospheric and
 celestial domains. By the time of the Mahābhārata, Parjanya has already
 mostly merged into Indra and lost his distinctness and Dyaus is only
@@ -59,45 +63,45 @@ Nārada. On account of it being one of those pieces from the great epic
 plainly retaining the ancient preeminence of Indra we present it below
 in full (Mbh 2.7.1-26ab):
 
-śakrasya tu sabhā divyā bhāsvarā karmabhir jitā |  
-svayaṃ śakreṇa kauravya nirmita+arka-samaprabhā ||
+śakrasya tu sabhā divyā bhāsvarā karmabhir jitā \|  
+svayaṃ śakreṇa kauravya nirmita+arka-samaprabhā \|\|
 
 Indeed, the divine and radiant assembly hall of Śakra was achieved by
 his own deeds. O Kauravya, with splendor like that of the sun, it was
 built by Śakra himself.
 
-vistīrṇā yojana-śataṃ śatam adhyardham āyatā |  
-vaihāyasī kāma-gamā pañca-yojanam ucchritā ||
+vistīrṇā yojana-śataṃ śatam adhyardham āyatā \|  
+vaihāyasī kāma-gamā pañca-yojanam ucchritā \|\|
 
 It is laid out as a rectangle, 100 yojanas in breadth, 150 yojana-s in
 length and 5 yojana-s in height. It is suspended space and can go
 anywhere at will.
 
-jarā-śoka-klamāpetā nirātaṅkā śivā śubhā |  
-veśmāsanavatī ramyā divya-pādapa-śobhitā ||
+jarā-śoka-klamāpetā nirātaṅkā śivā śubhā \|  
+veśmāsanavatī ramyā divya-pādapa-śobhitā \|\|
 
 Driving away weakness of age and anguish, free from affliction,
 benevolent and auspicious is provided with chambers and seats and
 decorated with divine trees.
 
-tasyāṃ deveśvaraḥ pārtha sabhāyāṃ paramāsane |  
-āste śacyā mahendrāṇyā śriyā lakṣmyā ca bhārata ||
+tasyāṃ deveśvaraḥ pārtha sabhāyāṃ paramāsane \|  
+āste śacyā mahendrāṇyā śriyā lakṣmyā ca bhārata \|\|
 
 O Pārtha, in that assembly hall, on the foremost of thrones sits the
 lord of the gods with Śacī, who, O Bhārata, is the the great Indrāṇī
 \[also known as\] Śrī and Lakṣmī.
 
-bibhrad vapur anirdeśyaṃ kirīṭī lohita+aṅgadaḥ |  
-virajo’mbaraś citramālyo hrī-kīrti-dyutibhiḥ saha ||
+bibhrad vapur anirdeśyaṃ kirīṭī lohita+aṅgadaḥ \|  
+virajo’mbaraś citramālyo hrī-kīrti-dyutibhiḥ saha \|\|
 
 Bearing an indescribable form, crowned, and with ruby-red bracelets,
 wearing pure attire, with beautiful garlands, \[he sits\] accompanied by
 the goddesses of modesty, fame, and majesty.
 
-tasyām upāsate nityaṃ mahātmānaṃ śatakratum |  
-marutaḥ sarvato rājan sarve ca gṛhamedhinaḥ |  
-siddhā devarṣayaś caiva sādhyā devagaṇās tathā |  
-marutvantaś ca sahitā bhāsvanto hemamālinaḥ || \[double anuṣṭubh\]
+tasyām upāsate nityaṃ mahātmānaṃ śatakratum \|  
+marutaḥ sarvato rājan sarve ca gṛhamedhinaḥ \|  
+siddhā devarṣayaś caiva sādhyā devagaṇās tathā \|  
+marutvantaś ca sahitā bhāsvanto hemamālinaḥ \|\| \[double anuṣṭubh\]
 
 O king, in that hall, the with Marut-s all around, all of whom are the
 receivers of the offerings in the gṛhamedha ritual, the siddha-s,
@@ -105,70 +109,70 @@ devarṣi-s, sādhya-s, hosts of gods, all accompanied by the Marut-s and
 shining forth with golden garlands continually worship the mighty one,
 the god of a hundred acts.
 
-ete sānucarāḥ sarve divyarūpāḥ svalaṃkṛtāḥ |  
-upāsate mahātmānaṃ devarājam ariṃdamam ||
+ete sānucarāḥ sarve divyarūpāḥ svalaṃkṛtāḥ \|  
+upāsate mahātmānaṃ devarājam ariṃdamam \|\|
 
 These, his attendants, of divine form and well-ornamented, worship the
 great soul, the king of the gods, the crusher of foes.
 
-tathā devarṣayaḥ sarve pārtha śakram upāsate |  
-amalā dhūta-pāpmāno dīpyamānā ivāgnayaḥ |  
-tejasvinaḥ somayujo vipāpā vigata-klamāḥ ||
+tathā devarṣayaḥ sarve pārtha śakram upāsate \|  
+amalā dhūta-pāpmāno dīpyamānā ivāgnayaḥ \|  
+tejasvinaḥ somayujo vipāpā vigata-klamāḥ \|\|
 
 Then, O Pārtha, all the devarṣi-s, clean, rid of their evil, blazing
 like fires, full of luster, united with soma, sinless, having overcome
 all weakness, worship Śakra
 
-parāśaraḥ parvataś ca tathā sāvarṇigālavau |  
-ekataś ca dvitaś caiva tritaś caiva mahāmuniḥ |  
-śaṅkhaś ca likhitaś caiva tathā gauraśirā muniḥ || \[3-footed
+parāśaraḥ parvataś ca tathā sāvarṇigālavau \|  
+ekataś ca dvitaś caiva tritaś caiva mahāmuniḥ \|  
+śaṅkhaś ca likhitaś caiva tathā gauraśirā muniḥ \|\| \[3-footed
 anuṣṭubh\]  
-durvāsāś ca dīrghatamā yājñavalkyo ‘tha bhālukiḥ |  
-uddālakaḥ śvetaketus tathā śāṭyāyanaḥ prabhuḥ ||  
-haviṣmāṃś ca gaviṣṭhaś ca hariścandraś ca pārthivaḥ |  
-hṛdyaś codaraśāṇḍilyaḥ pārāśaryaḥ kṛṣīvalaḥ ||  
-vātaskandho viśākhaś ca vidhātā kāla eva ca |  
-anantadantas tvaṣṭā ca viśvakarmā ca tumburuḥ ||  
-ayonijā yonijāś ca vāyubhakṣā hutāśinaḥ |  
-īśānaṃ sarvalokasya vajriṇaṃ samupāsate ||
+durvāsāś ca dīrghatamā yājñavalkyo ‘tha bhālukiḥ \|  
+uddālakaḥ śvetaketus tathā śāṭyāyanaḥ prabhuḥ \|\|  
+haviṣmāṃś ca gaviṣṭhaś ca hariścandraś ca pārthivaḥ \|  
+hṛdyaś codaraśāṇḍilyaḥ pārāśaryaḥ kṛṣīvalaḥ \|\|  
+vātaskandho viśākhaś ca vidhātā kāla eva ca \|  
+anantadantas tvaṣṭā ca viśvakarmā ca tumburuḥ \|\|  
+ayonijā yonijāś ca vāyubhakṣā hutāśinaḥ \|  
+īśānaṃ sarvalokasya vajriṇaṃ samupāsate \|\|
 
 Parāśara, Parvata, Sāvarṇi, Gālava, Ekata, Dvita, Trita the great sages,
 Śaṅkha, Likhita the white-headed sage, Durvāsas, Dīrghatamas,
 Yājñavalkya,Bhāluki, Uddālaka, Śvetaketu, master Śāṭyāyana, Haviṣmānt,
 Gaviṣṭha, king Hariścandra, Hṛdya, Udara-śāṇḍilya, Kṛṣīvala the
-Pārāśaryaḥ, Vātaskandha, Viśākha, Vidhātā, Kāla, Anantadanta, Tvaṣṭṛ
-the divine architect, Tumburu, those not born from wombs and those born
-from wombs, those who feed off air and those who feed of fire, together
+Pārāśaryaḥ, Vātaskandha, Viśākha, Vidhātā, Kāla, Anantadanta, Tvaṣṭṛ the
+divine architect, Tumburu, those not born from wombs and those born from
+wombs, those who feed off air and those who feed of fire, together
 worship the wielder of the Vajra weapon, the supreme lord of all the
 worlds.
 
-sahadevaḥ sunīthaś ca vālmīkiś ca mahātapāḥ |  
-samīkaḥ satyavāṃś caiva pracetāḥ satyasaṃgaraḥ ||  
-medhātithir vāmadevaḥ pulastyaḥ pulahaḥ kratuḥ |  
-maruttaś ca marīciś ca sthāṇuś cātrir mahātapāḥ ||  
-kakṣīvān gautamas tārkṣyas tathā vaiśvānaro muniḥ |  
-muniḥ kālakavṛkṣīya āśrāvyo ‘tha hiraṇyadaḥ |  
-saṃvarto devahavyaś ca viṣvaksenaś ca vīryavān |  
-kaṇvaḥ kātyāyano rājan gārgyaḥ kauśika eva tu || \[double anuṣṭubh\]
+sahadevaḥ sunīthaś ca vālmīkiś ca mahātapāḥ \|  
+samīkaḥ satyavāṃś caiva pracetāḥ satyasaṃgaraḥ \|\|  
+medhātithir vāmadevaḥ pulastyaḥ pulahaḥ kratuḥ \|  
+maruttaś ca marīciś ca sthāṇuś cātrir mahātapāḥ \|\|  
+kakṣīvān gautamas tārkṣyas tathā vaiśvānaro muniḥ \|  
+muniḥ kālakavṛkṣīya āśrāvyo ‘tha hiraṇyadaḥ \|  
+saṃvarto devahavyaś ca viṣvaksenaś ca vīryavān \|  
+kaṇvaḥ kātyāyano rājan gārgyaḥ kauśika eva tu \|\| \[double anuṣṭubh\]
 
 O king, Sahadeva, Sunītha, Vālmīki of great asceticism, Samīka,
 Satyavān, the Praceta-s who are epitomes of truthfulness, Medhātithi,
-Vāmadeva, Pulastya, Pulaha, Kratu, Marutta, Marīci, Sthāṇu and Atri,
-all of great asceticism, Kakṣīvān, Gautama, Tārkṣya, the fire sage, sage
+Vāmadeva, Pulastya, Pulaha, Kratu, Marutta, Marīci, Sthāṇu and Atri, all
+of great asceticism, Kakṣīvān, Gautama, Tārkṣya, the fire sage, sage
 Kālakavṛkṣīya, Āśrāvya, Hiraṇyada, Saṃvarta, Devahavya, Viṣvaksena of
 great virility, Kaṇva, Kātyāyana, Gārgya and also Kauśika \[are all
 attending to Indra\]
 
-divyā āpas tathauṣadhyaḥ śraddhā medhā sarasvatī |  
-artho dharmaś ca kāmaś ca vidyutaś cāpi pāṇḍava ||  
-jalavāhās tathā meghā vāyavaḥ stanayitnavaḥ |  
-prācī dig yajñavāhāś ca pāvakāḥ saptaviṃśatiḥ ||  
-agnīṣomau tathendrāgnī mitro ‘tha savitāryamā |  
-bhago viśve ca sādhyāś ca śukro manthī ca bhārata |  
-sarveṣāṃ marutāṃ mānyā guruḥ śukras tathaiva ca |  
-viśvāvasuś citrasenaḥ sumanas taruṇas tathā || \[double anuṣṭubh\]  
-yajñāś ca dakṣiṇāś caiva grahāḥ stobhāś ca sarvaśaḥ |  
-yajñavāhāś ca ye mantrāḥ sarve tatra samāsate ||
+divyā āpas tathauṣadhyaḥ śraddhā medhā sarasvatī \|  
+artho dharmaś ca kāmaś ca vidyutaś cāpi pāṇḍava \|\|  
+jalavāhās tathā meghā vāyavaḥ stanayitnavaḥ \|  
+prācī dig yajñavāhāś ca pāvakāḥ saptaviṃśatiḥ \|\|  
+agnīṣomau tathendrāgnī mitro ‘tha savitāryamā \|  
+bhago viśve ca sādhyāś ca śukro manthī ca bhārata \|  
+sarveṣāṃ marutāṃ mānyā guruḥ śukras tathaiva ca \|  
+viśvāvasuś citrasenaḥ sumanas taruṇas tathā \|\| \[double anuṣṭubh\]  
+yajñāś ca dakṣiṇāś caiva grahāḥ stobhāś ca sarvaśaḥ \|  
+yajñavāhāś ca ye mantrāḥ sarve tatra samāsate \|\|
 
 O Pāṇḍava, the celestial waters, plants, the goddesses Śraddhā, Medhā
 and Sarasvatī, artha, dharma and kāma, lightning, monsoon clouds, other
@@ -181,31 +185,31 @@ Citrasena, Sumana, Taruṇa, the rituals, the ritual-fee, the soma-cups,
 the magical vocalization of the Sāman chants, the ritual fires, all the
 mantra-s attend to Indra therein \[in his assembly\].
 
-tathaiva+apsaraso rājan gandharvāś ca manoramāḥ |  
-nṛtya-vāditra-gītaiś ca hāsyaiś ca vividhair api |  
-ramayanti sma nṛpate devarājaṃ śatakratum || \[3-footed anuṣṭubh\]
+tathaiva+apsaraso rājan gandharvāś ca manoramāḥ \|  
+nṛtya-vāditra-gītaiś ca hāsyaiś ca vividhair api \|  
+ramayanti sma nṛpate devarājaṃ śatakratum \|\| \[3-footed anuṣṭubh\]
 
 Then O King, the enchanting Apsaras-es and Gandharva-s, by means of
 various dances, instrumental and vocal music, and comedies gladden the
 king of the gods, the performer of a hundred acts.
 
-stutibhir maṅgalaiś caiva stuvantaḥ karmabhis tathā |  
-vikramaiś ca mahātmānaṃ vala-vṛtra-niṣūdanam ||  
-brahma-rājarṣayaḥ sarve sarve devarṣayas tathā |  
-vimānair vividhair divyair bhrājamānair ivāgnibhiḥ ||  
-sragviṇo bhūṣitāś cānye yānti cāyānti cāpare |  
-bṛhaspatiś ca śukraś ca tasyām āyayatuḥ saha ||
+stutibhir maṅgalaiś caiva stuvantaḥ karmabhis tathā \|  
+vikramaiś ca mahātmānaṃ vala-vṛtra-niṣūdanam \|\|  
+brahma-rājarṣayaḥ sarve sarve devarṣayas tathā \|  
+vimānair vividhair divyair bhrājamānair ivāgnibhiḥ \|\|  
+sragviṇo bhūṣitāś cānye yānti cāyānti cāpare \|  
+bṛhaspatiś ca śukraś ca tasyām āyayatuḥ saha \|\|
 
 In addition to the above, all the brāhmaṇa sages, the sage-kings and
 divine sages, adorned with garlands, come and go in their diverse,
 flying machines which blaze forth like celestial fires, praising the
 great one, the destroyer of Vala and Vṛtra, with auspicious praises, by
-rituals and acts of valor. Bṛhaspati and Śukra had gone there together\!
+rituals and acts of valor. Bṛhaspati and Śukra had gone there together!
 
-ete cānye ca bahavo yatātmāno yatavratāḥ |  
-vimānaiś candra-saṃkāśaiḥ somavat priyadarśanāḥ |  
-brahmaṇo vacanād rājan bhṛguḥ saptarṣayas tathā ||  
-eṣā sabhā mayā rājan dṛṣṭā puṣkaramālinī |
+ete cānye ca bahavo yatātmāno yatavratāḥ \|  
+vimānaiś candra-saṃkāśaiḥ somavat priyadarśanāḥ \|  
+brahmaṇo vacanād rājan bhṛguḥ saptarṣayas tathā \|\|  
+eṣā sabhā mayā rājan dṛṣṭā puṣkaramālinī \|
 
 O king, many other self-restrained souls, firmly observant of ritual
 vows, Bhṛgu and the seven sages \[go forth\] upon recitation of mantra-s
@@ -214,18 +218,18 @@ beautiful as moons. O King, this assembly hall of Indra, the
 Puṣkaramālinī was \[thus\] seen by me (i.e. Nārada).
 
 Notes  
-1\) The motif of an assembly hall of the great Indra-like deity is
-likely an ancestral Indo-European one. We encounter it in the Germanic
-world in the form Valhalla of Odin or Bilskirnir of Thor; both are
-described as celestial halls of enormous size. The meaning of the latter
-is lightning-streak, which relates it directly to the hall of Indra.
-Just as Indra’s hall endowed with several chambers (veśman), the
-Bilskirnir is said to have 540 rooms (a number related to the precession
-of earth’s axis), where he is said to hold court with his wife the
-goddess Sif (parallel to Indrāṇī). Just like Indra’s realm, Odin vast
-hall the Valhalla is said to welcome extraordinary individuals (not the
-common dead) who proceed there due their valor in battle. Indeed
-memorial stones depicting the ascent of fallen heroes to Valhalla of the
+1) The motif of an assembly hall of the great Indra-like deity is likely
+an ancestral Indo-European one. We encounter it in the Germanic world in
+the form Valhalla of Odin or Bilskirnir of Thor; both are described as
+celestial halls of enormous size. The meaning of the latter is
+lightning-streak, which relates it directly to the hall of Indra. Just
+as Indra’s hall endowed with several chambers (veśman), the Bilskirnir
+is said to have 540 rooms (a number related to the precession of earth’s
+axis), where he is said to hold court with his wife the goddess Sif
+(parallel to Indrāṇī). Just like Indra’s realm, Odin vast hall the
+Valhalla is said to welcome extraordinary individuals (not the common
+dead) who proceed there due their valor in battle. Indeed memorial
+stones depicting the ascent of fallen heroes to Valhalla of the
 Indra-realm, with beckoning Valkyries or Aparas-es are seen respectively
 in the Nordic and Indic world. The Valhalla, like Indra’s hall, is said
 have divine trees (Glasir and Læraðr are named in particular) and is
@@ -304,3 +308,4 @@ by which the Deva-s overthrew Śanda and Marka, two partisans of the
 Asura-s and Rakṣa-s, who tried to steal the Soma. Also mentioned are the
 stobha-s, which are magical vocalizations of the Sāman chants (au ho vā,
 iḍā etc).
+

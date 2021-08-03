@@ -1,7 +1,11 @@
 +++
 title = "The guNa-s of sAMkhya as physical concepts"
+date = "2008-01-25"
+upstream_url = "https://manasataramgini.wordpress.com/2008/01/25/the-guna-s-of-samkhya-as-physical-concepts/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/01/25/the-guna-s-of-samkhya-as-physical-concepts/).
+
 See also:  
 [Elements of sAMkhyan theories of atomism and consciousness in early
 Hindu
@@ -44,10 +48,10 @@ the context of a sAMkhyan conservation principle guNa-s. In its
 formulation this principle resembles the modern physical conservation
 principle of mass/energy. This is provided by the vyAsa bhAShya in the
 commentary on sUtra 2.19 of pata\~njali:  
-visheSha-avisheSha li\~Nga mAtra-ali\~NgAni guNa-parvan ||  
-VB: guNAstu sarva dharmAnupAtino na pratyastam ayante na+upajAyante |
+visheSha-avisheSha li\~Nga mAtra-ali\~NgAni guNa-parvan \|\|  
+VB: guNAstu sarva dharmAnupAtino na pratyastam ayante na+upajAyante \|
 vyaktibhir eva-atIta-anAgatavyaya-AgamavatIbhir guNa-anvayinIbhir
-upajananaapAyadharmakA iva pratyavabhAsante |  
+upajananaapAyadharmakA iva pratyavabhAsante \|  
 “Though guNa-s go through all kinds of transformations/evolution
 (\*anupAt) they are neither destroyed nor created. They appear to as if
 they had properties that come into being and disappear on account of the
@@ -82,3 +86,4 @@ As far as I know the saMkhya statement is the most sophisticated
 statement of the conservation principle in the ancient world. Amongst
 the Greek equivalents of the Hindus Thales had a conservation principle
 but it was much less sophisticated as far as I can see.
+

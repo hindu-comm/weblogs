@@ -1,8 +1,11 @@
 +++
-title = "DE-MIST-IFYING PARJANYA – DISTANCINGxa0PERKWUNOS"
-date = "May 23, 2020"
+title = "DE-MIST-IFYING PARJANYA – DISTANCING PERKWUNOS"
+date = "2020-05-23"
+upstream_url = "https://aryaakasha.com/2020/05/23/de-mist-ifying-parjanya-distancing-perkwunos/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/05/23/de-mist-ifying-parjanya-distancing-perkwunos/).
+
 
 
 ``` wp-block-preformatted

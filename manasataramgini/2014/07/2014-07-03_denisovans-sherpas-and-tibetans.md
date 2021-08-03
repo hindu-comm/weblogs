@@ -1,18 +1,22 @@
 +++
 title = "Denisovans, Sherpas and Tibetans"
+date = "2014-07-03"
+upstream_url = "https://manasataramgini.wordpress.com/2014/07/03/denisovans-sherpas-and-tibetans/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/07/03/denisovans-sherpas-and-tibetans/).
+
 [![](https://lh5.googleusercontent.com/-pROy10QSE7o/U7UACC9jxcI/AAAAAAAAC9M/2E9kS9PZztI/s800/tibetan_denisovan.jpg)](https://picasaweb.google.com/lh/photo/DN7tPzT-gCynZxe8qC1sDNMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
-Many years ago we discovered that EGLN1 and its orthologs were  iron and
+Many years ago we discovered that EGLN1 and its orthologs wereiron and
 2-oxoglutarate-dependent dioxygenase that hydroxylated prolines. About 8
 months after we had published a paper detailing this discovery a band of
 mlechCha-s led by an English robber-baron said essentially the same
 thing, as though it was a new discovery, while failing to cite us
-entirely – iti mlechChAnAM mlechChatvam | But this EGLN1 was destined to
-have a long and interesting career at the foundation of many an
+entirely – iti mlechChAnAM mlechChatvaM \| But this EGLN1 was destined
+to have a long and interesting career at the foundation of many an
 interesting discovery. Years later, studies on the genetic adaptations
-that help Tibetans thrive at high altitudes revealed a role for EGLN1
+that help Tibetans thrive at high altitudes revealed a role forEGLN1
 and another gene EPAS1, which had also crossed our path. The latter
 protein had a domain which we were among the first to characterize and
 discover to be a binder of small molecule ligands. The recovery of these
@@ -90,3 +94,4 @@ In conclusion, one could see this acquisition of archaic alleles by
 *Homo sapiens* as a parallel to how bacteria acquire various genes
 through lateral transfer to rapidly gain new adaptations such as
 antibiotic resistance.
+

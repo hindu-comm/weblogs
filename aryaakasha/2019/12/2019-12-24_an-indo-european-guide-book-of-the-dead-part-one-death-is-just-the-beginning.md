@@ -1,8 +1,11 @@
 +++
-title = "AN INDO-EUROPEAN GUIDE-BOOK OF THE DEAD – Part One: Death Is Just Thexa0Beginning"
-date = "December 24, 2019"
+title = "AN INDO-EUROPEAN GUIDE-BOOK OF THE DEAD – Part One: Death Is Just The Beginning"
+date = "2019-12-24"
+upstream_url = "https://aryaakasha.com/2019/12/24/an-indo-european-guide-book-of-the-dead-part-one-death-is-just-the-beginning/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/12/24/an-indo-european-guide-book-of-the-dead-part-one-death-is-just-the-beginning/).
+
 ![](https://aryaakasha.files.wordpress.com/2019/12/79938815_10162725939690574_2453772544860225536_n.jpg?w=843)
 
 The nature of many an Indo-European sacred text about the Afterlife, the

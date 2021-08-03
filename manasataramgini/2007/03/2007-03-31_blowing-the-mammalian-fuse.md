@@ -1,7 +1,11 @@
 +++
 title = "Blowing the mammalian fuse"
+date = "2007-03-31"
+upstream_url = "https://manasataramgini.wordpress.com/2007/03/31/blowing-the-mammalian-fuse/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/03/31/blowing-the-mammalian-fuse/).
+
 Since the time of manu we have tried to understand the relationships
 between organisms. But even after realization of the modern evolutionary
 theory we failed completely achieve this goal. Many of us are chipping
@@ -12,21 +16,21 @@ obvious of relationships. This is true even within vertebrates and this
 ever truer the further back we go into time. See the following cases
 where molecular phylogenies came into action to bring order in the
 gloom.  
-1\) The hagfishes and lampreys were thought to represent
-non-monophyletic successive outgroups to the gnathostome vertebrates.
-But MPs showed that the agnathans form an unequivocal monophyletic
-lineage with several shared features.  
-2\) Turtles were generally thought to be anapsids with the exception of
+1) The hagfishes and lampreys were thought to represent non-monophyletic
+successive outgroups to the gnathostome vertebrates. But MPs showed that
+the agnathans form an unequivocal monophyletic lineage with several
+shared features.  
+2) Turtles were generally thought to be anapsids with the exception of
 Rieppel’s work. Even that did not place them in a precise location in
 diapsids. Molecular phylogeny nailed their archosauromorph affinities
 inside diapsida.  
-3\) The false gharial Tomistoma was consistently placed away from the
+3) The false gharial Tomistoma was consistently placed away from the
 true gharials in morphological analysis, but MPs showed that they were
 after all sister taxa just as they appear to be to a casual observer.  
-4\) Finally, the relationships that largely eluded morphological
-analysis amongst placental mammals were uncovered by MPs: the
-hippo-whale sister group relationship and the monophyly of afrotheria
-that not a single paleontologist had even suspected.
+4) Finally, the relationships that largely eluded morphological analysis
+amongst placental mammals were uncovered by MPs: the hippo-whale sister
+group relationship and the monophyly of afrotheria that not a single
+paleontologist had even suspected.
 
 The big lesson from this that must be remembered for the coming
 discussion is that morphological analyses are really prone to problems
@@ -38,11 +42,11 @@ phylogenies by recoding their data.
 
 Molecular phylogenies suggest that the extant placental mammals show 4
 major evolutionary
-[assemblages](http://manasataramgini.wordpress.com/2006/03/some-musings-on-xenarthran-and.html):
+[assemblages](http://manollasa.blogspot.com/2006/03/some-musings-on-xenarthran-and.html):
 1) Afrotheria- including predominantly African lineages, with striking
 morphological diversity with forms like the golden moles(Afrosoricida),
 Elephant shrews (Macroscelidea), hyraxes, elephants and manatees. 2)
-[Xenarthra](http://manasataramgini.wordpress.com/2006/03/some-musings-on-xenarthran-and.html)–
+[Xenarthra](http://manollasa.blogspot.com/2006/03/some-musings-on-xenarthran-and.html)–
 including all major south american mammals, armadillos, sloths and
 anteaters. 3) Laurasiatheria, which includes the familiar orders of
 carnivora, perissodactyla, artiodactyla (including whales), bats, and
@@ -74,7 +78,7 @@ The second major point they make was that though the orders radiated
 early, the diversification into the extant ecological diversity within
 these orders happened later, well after the K/T event, through the
 Eocene and Oligocene. Some forms like
-[cats](http://manasataramgini.wordpress.com/2006/01/evolution-of-cats.html)
+[cats](http://manollasa.blogspot.com/2006/01/evolution-of-cats.html)
 appear to have radiated even much later, close to our recent time.
 
 In short these findings need some careful thought — but the so called
@@ -84,3 +88,4 @@ shrew-like forms from the Mesozoic and Paleocene may actually contain
 the precursors of all our extant orders but go unnoticed due to the
 deficiencies of morphological phylogeny–a future project for
 paleontologists.
+

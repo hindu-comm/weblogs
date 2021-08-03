@@ -1,8 +1,11 @@
 +++
-title = "On mantra chaitanya and dIkShA by Maxa0Anondomoyee"
+title = "On mantra chaitanya and dIkShA by Ma Anondomoyee"
 date = "2019-12-16"
+upstream_url = "https://padmavajra.net/2019/12/16/on-mantra-chaitanya-and-diksha-by-ma-anondomoyee/"
 
 +++
+Source: [here](https://padmavajra.net/2019/12/16/on-mantra-chaitanya-and-diksha-by-ma-anondomoyee/).
+
 \[Bengali below\]
 
 mantra chaitanya and dIkShA

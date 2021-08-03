@@ -1,7 +1,11 @@
 +++
 title = "The mythology of tirumUlar"
+date = "2006-08-25"
+upstream_url = "https://manasataramgini.wordpress.com/2006/08/25/the-mythology-of-tirumular/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/08/25/the-mythology-of-tirumular/).
+
 It is clear from tirumantiram verses 337 onwards that tirumUlar was an
 extreme sectarian shaiva. He cites several elements of shaiva mythology,
 where the aim is plainly to show the supremacy of shiva over other gods.
@@ -13,32 +17,32 @@ the 5 pretas forming the cot of the transfunctional shaktI.
 The sectarian elements apart, it is useful to compare the shiva purANa
 with tirumUlar’s mythology to identify the pan-Indian elements of shaiva
 mythology. The deeds of shiva are:  
-1\) shiva sends agastya to correct the “balance” of the earth (the
+1) shiva sends agastya to correct the “balance” of the earth (the
 ancient astronomical myth of axial precession, is uniquely incorporated
 here into shaiva mythology)  
-2\) The killing of Andhaka\*  
-3\) The beheading of dakSha and his head replacement.\*  
-4\) Cutting of brahma’s head and drinking of viShNu’s blood.\*  
-5\) Killing jalandhara with the chakra made from his toe\*  
-6\) Destruction of the tripura-s\*  
-7\) Killing of gajAsura\*  
-8\) The burning of yama (this is described as the yogic kuNDalini fire
+2) The killing of Andhaka\*  
+3) The beheading of dakSha and his head replacement.\*  
+4) Cutting of brahma’s head and drinking of viShNu’s blood.\*  
+5) Killing jalandhara with the chakra made from his toe\*  
+6) Destruction of the tripura-s\*  
+7) Killing of gajAsura\*  
+8) The burning of yama (this is described as the yogic kuNDalini fire
 arising from the mUlAdhAra and shooting out through the sahasrAra to
 burn yama) (?)  
-9\) Killing of kAma\*  
-10\) The winning of pArvatI from himavAn\*  
-11\) destruction of tripura-s again (mentioned further too)\*  
-12\) The pillar of fire and the quest of its ends by brahmA and viShNu
+9) Killing of kAma\*  
+10) The winning of pArvatI from himavAn\*  
+11) destruction of tripura-s again (mentioned further too)\*  
+12) The pillar of fire and the quest of its ends by brahmA and viShNu
 and the giving of the chakra and sword to viShNu and brahmA
 respectively\*  
-13\) rAvaNa being granted boons\*  
-14\) chanDeshvara raised to gaNa status for cutting his father’s leg for
+13) rAvaNa being granted boons\*  
+14) chanDeshvara raised to gaNa status for cutting his father’s leg for
 having performed shiva-ninda\*  
-15\) routing the other gods during the destruction of the sacrifice of
+15) routing the other gods during the destruction of the sacrifice of
 dakSha\*  
-16\) He split the chakra of viShNu into 3 parts and gave one part back
-to viShNu, one to his wife and one he wore a cresent ornament  
-17\) He suppressed the sea as the equine fire\*
+16) He split the chakra of viShNu into 3 parts and gave one part back to
+viShNu, one to his wife and one he wore a cresent ornament  
+17) He suppressed the sea as the equine fire\*
 
 The majority of these myths are seen in the main sanskrit mythological
 traditions of shiva namely the shiva purANa and the skAnda purAna. A few
@@ -56,3 +60,4 @@ purANa set in stone in the “Elephanta caves” around 550-600 CE, which is
 approximately contemporaneous with tirumular, suggesting that the core
 shiva purANa text encompassing the tales of shiva were in place well
 before this period.
+

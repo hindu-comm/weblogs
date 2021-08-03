@@ -1,7 +1,11 @@
 +++
 title = "Where are the aliens?"
+date = "2012-11-03"
+upstream_url = "https://manasataramgini.wordpress.com/2012/11/03/where-are-the-aliens/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/11/03/where-are-the-aliens/).
+
 One thing that dawned on us from our explorations of life was that
 panspermia is likely to have happened, even though life on earth is
 emphatically found to be monophyletic. We suspect that the very
@@ -127,3 +131,4 @@ characteristic spectrum with both methane and water, which is similar to
 gas giants and the atmospheres of some of their moons. These methane
 dwarfs present themselves as yet another potential source for providing
 the raw materials for life.
+

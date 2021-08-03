@@ -1,8 +1,11 @@
 +++
-title = "“An Image, Frozen In Time” – What Pazyryk Scythian Tombs Can Tell Us About Our Indo-Europeanxa0Ancestors"
-date = "January 19, 2020"
+title = "“An Image, Frozen In Time” – What Pazyryk Scythian Tombs Can Tell Us About Our Indo-European Ancestors"
+date = "2020-01-19"
+upstream_url = "https://aryaakasha.com/2020/01/19/an-image-frozen-in-time-what-pazyryk-scythian-tombs-can-tell-us-about-our-indo-european-ancestors/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/01/19/an-image-frozen-in-time-what-pazyryk-scythian-tombs-can-tell-us-about-our-indo-european-ancestors/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/01/x_c6e32f03.jpg?w=581)
 
 This is quite simply one of the most chad-looking images I have seen; a

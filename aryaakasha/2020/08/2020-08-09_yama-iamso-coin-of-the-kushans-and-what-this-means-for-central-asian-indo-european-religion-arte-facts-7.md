@@ -1,8 +1,11 @@
 +++
-title = "Yama Iamso Coin of the Kushans, And What This Means For Central Asian Indo-European Religion – Arte-Factsxa0#7"
-date = "August 9, 2020"
+title = "Yama Iamso Coin of the Kushans, And What This Means For Central Asian Indo-European Religion – Arte-Facts #7"
+date = "2020-08-09"
+upstream_url = "https://aryaakasha.com/2020/08/09/yama-iamso-coin-of-the-kushans-and-what-this-means-for-central-asian-indo-european-religion-arte-facts-7/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/08/09/yama-iamso-coin-of-the-kushans-and-what-this-means-for-central-asian-indo-european-religion-arte-facts-7/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/08/arya-akasha-huviska-yama-coin.png?w=400)
 
 I’ve had this coin in my head for some days now – a golden coin of the

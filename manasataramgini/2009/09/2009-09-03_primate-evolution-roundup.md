@@ -1,8 +1,12 @@
 +++
 title = "Primate evolution roundup"
+date = "2009-09-03"
+upstream_url = "https://manasataramgini.wordpress.com/2009/09/03/primate-evolution-roundup/"
 
 +++
-[![primate\_phylogeny](https://i0.wp.com/farm3.static.flickr.com/2521/3889930477_a34b47f012.jpg)](http://www.flickr.com/photos/24766652@N05/3889930477/ "primate_phylogeny by somasushma, on Flickr")
+Source: [here](https://manasataramgini.wordpress.com/2009/09/03/primate-evolution-roundup/).
+
+[![primate_phylogeny](https://i0.wp.com/farm3.static.flickr.com/2521/3889930477_a34b47f012.jpg)](http://www.flickr.com/photos/24766652@N05/3889930477/ "primate_phylogeny by somasushma, on Flickr")
 
 Apart from its parochial aspect, the early evolution and ecological
 diversification of primates are of considerable intrinsic interest to a
@@ -73,16 +77,16 @@ was something which did not go too well with the emerging phylogenetic
 scenario of mammals. The molecular phylogenies suggested that the
 afrotherians were the original mammals of Africa and that the
 euarchontoglires clearly lay outside afrotheria. Amongst these the
-“center of gravity” in evolutionary terms was in Asia. The sister
-groups of the extent primate lineages like the flying lemur and the
-tree-shrew were exclusively Asiatic. The ancient sister group of the
-primates – the plesiadapiformes were Laurasian and likewise the two
-great Eocene radiations of primates the adapiformes and omomyids were
-also centered in Laurasia. Finally the closest extant sister group of
-the anthropoids, the tarsiers, are located only in Asia. This suggested
-that the split between the tarsiers and the anthropoids occurred early
-on in Asia and then early anthropoids migrated to Africa where they
-proliferated and eventually colonized the New World.
+“center of gravity” in evolutionary terms was in Asia. The sister groups
+of the extent primate lineages like the flying lemur and the tree-shrew
+were exclusively Asiatic. The ancient sister group of the primates – the
+plesiadapiformes were Laurasian and likewise the two great Eocene
+radiations of primates the adapiformes and omomyids were also centered
+in Laurasia. Finally the closest extant sister group of the anthropoids,
+the tarsiers, are located only in Asia. This suggested that the split
+between the tarsiers and the anthropoids occurred early on in Asia and
+then early anthropoids migrated to Africa where they proliferated and
+eventually colonized the New World.
 
 In the past 15 years an extraordinary series of fossil described by
 Beard and others had resulted in a veritable revolution of our
@@ -93,8 +97,8 @@ Further it showed that the anthropoids were already distinct in the
 Eocene and were unlikely to have been derived from the omomyids or
 adapiformes as they were already present beside them. This was doubted
 by the old fashioned experts like Gingerich and Simons, but Kay et al’s
-“Anthropoid Origins” paper strongly suggested that the eosimiids were
-1) closer to anthropoids than the tarsiers and 2) a sister group to all
+“Anthropoid Origins” paper strongly suggested that the eosimiids were 1)
+closer to anthropoids than the tarsiers and 2) a sister group to all
 other anthropoids including the two early African lineages of
 oligopithecids and parapithecids. Further Kay et al’s tree showed that
 the omomyids formed a branch of their own distinct from the tarsiers and
@@ -178,7 +182,7 @@ platyrrhines and catarrhines to the exclusion of the African
 oligopithecids and parapithecids. 5) As an aside their tree suggests
 that Rooneyia is an adapiformes.
 
-[![eocene\_world](https://i2.wp.com/farm3.static.flickr.com/2427/3889900357_6719683eea.jpg)](http://www.flickr.com/photos/24766652@N05/3889900357/ "eocene_world by somasushma, on Flickr")  
+[![eocene_world](https://i2.wp.com/farm3.static.flickr.com/2427/3889900357_6719683eea.jpg)](http://www.flickr.com/photos/24766652@N05/3889900357/ "eocene_world by somasushma, on Flickr")  
 Eocene world
 
 When placed in a biogeographical context of these observations had
@@ -213,7 +217,7 @@ evidence for early elephants being aquatic in habit (e.g.
 Phosphatherium, Daouitherium, Numidotherium, Moeritherium and
 Barytherium, the early elephant lineages in Africa) suggests that they
 might have been more capable of crossing the incipient Arabian sea among
-the large mammals and thus reached the subcontinent. The interpretation
+the large mammals and thus reached the subcontinent.The interpretation
 of cambaytheres from the Vastan mines as very primitive elephants might
 imply that afrotherians floated along to India from Africa. However, if
 they are indeed stem perissodactyls as alternatively proposed, they
@@ -226,3 +230,4 @@ direct dispersal via West Asia into Africa to found the common ancestor
 of the platyrrhines and the catarrhines. Indeed Asia-Africa primate
 exchanges appear to have been repeated throughout their evolution with
 possible additional exchanges occurring during the emergence of apes.
+

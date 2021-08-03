@@ -1,7 +1,11 @@
 +++
 title = "A geopolitical package: July 2016"
+date = "2016-07-09"
+upstream_url = "https://manasataramgini.wordpress.com/2016/07/09/a-geopolitical-package-july-2016/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2016/07/09/a-geopolitical-package-july-2016/).
+
 One often hears of the tale of Śivājī and his men killing the gigantic
 marūnmatta Afzal Khan in popular narratives. It was certainly an event
 that captured the imagination of the lay Hindus and continues to do so
@@ -33,8 +37,8 @@ Khilafat saw them as competitors and together with their Egyptian allies
 crushed the Saud. Then the Saud shifted gears to being quiescent like
 bacteria expressing the toxins from a toxin-antitoxin system until
 eventually they had the classic opportunity of a
-mleccha-marūnmattābhisaṃdhi to ally with the Anglosphere,
-reestablish their power and regain most of their territory.
+mleccha-marūnmattābhisaṃdhi to ally with the Anglosphere, reestablish
+their power and regain most of their territory.
 
 Thus, any campaign with marūnmāda is not finished with the killing of
 this or that marūnmatta. Certainly, their prominent leaders need to be
@@ -202,8 +206,8 @@ followers in the course of their respective histories to seek in
 politics protection for their religious beliefs.*”  
 Though it was us heathens and our cultural cousins who were victims of
 these unmāda-s note how he brazenly claims they were they the victims
-instead\!  
-3\) Last but not the least we have the media – the Indian media is so
+instead!  
+3) Last but not the least we have the media – the Indian media is so
 completely compromised that it is merely a propaganda organ of the
 mleccha-s and marūnmatta-s. We had early demonstrated this via our
 [Google News
@@ -214,7 +218,7 @@ drawing elements from various leftist-liberalist propaganda organs in
 mleccha-land. By inserting themselves into the Indian media space they
 have been churning out non-stop demonization and victimhood narratives
 in the usual style of the mleccha – something which is sadly taken as
-serious news by many a lay Hindu who is not very sharp at seeing through
+seriousnewsby many a lay Hindu who is not very sharp at seeing through
 the mleccha propaganda..
 
 • Subnational identity: A large number of Hindus are more invested in
@@ -224,17 +228,17 @@ good for the Hindus. Instead, with greatest alacrity, they leap into
 every perceived fray like Don Quixote seeing an opportunity for a
 counter-Islamic crusade in a turning windmill. This “regionalist”
 sentiment reaches a delirious high particularly among the dramiḍa-s,
-karṇāṭa-s and rāṣṭraka-s. They charge with lances firmly gripped at
-the windmill of Hindi imposition. Others cry “Aryan invasion” and yet
-others among the dramiḻa-s want to restore the pristine Lemurian glory
-of their Tamiḻākam which once stretched all the way to Harappan lands.
-But when it comes to national causes you will see some of them take the
-side of the marūnmatta-s ravaging the head of Bhārata. Nevertheless, our
-surveys suggests that Hindus in general are quite positive about the
-mixing of Hindus from different parts of the countries. We see this
-phenomenon in actively happening the sprawling megapolises of the
-nations. Hence, perhaps this might not be as bad a problem as it appears
-in the long run.
+karṇāṭa-s and rāṣṭraka-s. They charge with lances firmly gripped at the
+windmill of Hindi imposition. Others cry “Aryan invasion” and yet others
+among the dramiḻa-s want to restore the pristine Lemurian glory of their
+Tamiḻākam which once stretched all the way to Harappan lands. But when
+it comes to national causes you will see some of them take the side of
+the marūnmatta-s ravaging the head of Bhārata. Nevertheless, our surveys
+suggests that Hindus in general are quite positive about the mixing of
+Hindus from different parts of the countries. We see this phenomenon in
+actively happening the sprawling megapolises of the nations. Hence,
+perhaps this might not be as bad a problem as it appears in the long
+run.
 
 Now we shall turn to the state of the Hindu leadership:  
 • More than two years have passed since the lāṭendra became the
@@ -245,7 +249,7 @@ politically involved Hindus who leap to abuse him at the drop of a hat.
 They blame him for everything: temples being demolished in various
 states, the kidnapping of Hindu women by marūnmatta-s, Hindu-s being
 killed anywhere in India, Mohammedan belligerence in the subcontinent,
-failure of crops, his foreign trips and many other things. It would seem
+failure of crops, his foreign trips and many other things. Itwould seem
 that these Hindus more than anyone else expect him to actually be not
 just an incarnate deity but an Abrahmistic deity who is beyond the ṛta
 comprised of satya-dharma. In our opinion the lāṭendra is not Śivājī or
@@ -253,14 +257,14 @@ even emperor Julian who failed despite all his merits at a critical
 junction in the history of heathenism. Yet it our considered opinion
 that he is by far the best we have at this moment with no one better
 really anywhere in sight. We could not say the same of the false
-vājapeyin or the octagenerian saindhava. But let us reiterate that
-point we labored at the beginning of this epistle: this is a war of
-yuga-s and one man is never going to be enough however decisive his
-actions. So we do not see the lāṭānartendra’s performance or perceived
-lack thereof as being the biggest factor. The most important thing for
-him is to create a system where all levels of leaders keep arising and
-even if the king falls they can continue fighting with some autonomy as
-the marāṭhā-s did after Rājārām’s retreat.
+vājapeyin or the octagenerian saindhava. But let us reiterate that point
+we labored at the beginning of this epistle: this is a war of yuga-s and
+one man is never going to be enough however decisive his actions. So we
+do not see the lāṭānartendra’s performance or perceived lack thereof as
+being the biggest factor. The most important thing for him is to create
+a system where all levels of leaders keep arising and even if the king
+falls they can continue fighting with some autonomy as the marāṭhā-s did
+after Rājārām’s retreat.
 
 • This brings us to the lāṭendra’s party the BJP (disclaimer: we do not
 belong to any political party or organization in India or abroad). Fewer
@@ -309,8 +313,8 @@ taking power. However, it does appear from our observer’s vantage that
 the RSS for all its merits is not sufficiently equipped, especially in
 the intellectual sense, to develop effective H mobilization for the long
 struggle. In particular they have a very poor understanding of the
-unmāda-s and what it would take to counter them. While schemes like
-ghar vāpasi are great, its management and operations leaves much to be
+unmāda-s and what it would take to counter them. While schemes like ghar
+vāpasi are great, its management and operations leaves much to be
 desired both a the low and high levels. Some Hindu observers like to
 write off the RSS and constantly bitch about it. Yet, it is the only
 worthwhile Hindu organization in terms of membership and organizational
@@ -327,7 +331,7 @@ discussed in public.
 
 • Alternative parties: While there is a major body of Hindus who like to
 whine no stop about BJP non-performance, they simply have nothing
-constructive to propose as an alternative . Whether, one likes it or not
+constructive to proposeas an alternative . Whether, one likes it or not
 the BJP is the only party with a modicum of Hindu leaning in a secular
 polity. Keeping in mind the long-term nature of the struggle a key issue
 for Hindus is to develop alternative parties that will have the survival
@@ -349,12 +353,12 @@ political network can evolve.
 
 ::::::::::::::::::::::  
 Finally, we have to look at the global scenario where it is hard to make
-predictions for the long term. For this reason, and also because we have
-insufficient data and inappropriate analytical devices  what we say here
+predictions for the long term. For this reason,and also because we have
+insufficient data and inappropriate analytical devices what we say here
 could easily turn out to be wrong. Like Triśiras Tvāṣṭra we have three
 major enemies, though there are other minor ones:  
-1\) mleccha-s: these are by far the most powerful and way ahead of us in
-power. The last great war we fought against them was in 1857 CE where
+1) mleccha-s: these are by far the most powerful and way ahead of us in
+power. Thelast great war we fought against them was in 1857 CE where
 they crushed us in part using our own human resources. Today, while they
 are not physically within the main body of Hindudom, they have numerous
 assets even as then and could coordinate with our other two enemies to
@@ -362,9 +366,9 @@ bring us down before they even directly confront us. The many divisions
 of the mleccha-s need not be elaborated in this epistle but they are
 primarily the Anglosphere and a transnational elite associated with
 it.  
-2\) The marūnmatta-s  
-3\) The cīna-s: these are geographically closest to us. They are ahead
-in terms of military strength but if we are able to get ourselves to the
+2) The marūnmatta-s  
+3) The cīna-s: these are geographically closest to us. They are ahead in
+terms of military strength but if we are able to get ourselves to the
 point where we can signal that even in defeat we can inflict a damage to
 them such that they will never be able to assume a superpower position
 then we might be able to keep them at bay. Importantly, they are an
@@ -384,13 +388,13 @@ insertions and the subverted Kangress as long as it lasts.
 
 The long term objectives of the three enemies would roughly take the
 following shape:  
-1\) the mlecchas would seek to break up India into smaller states with
+1) the mlecchas would seek to break up India into smaller states with
 which they can deal individually. They would like to ensure that some of
 these states will be preta or preta-run secular, which will do their
 bidding in various Asian conflicts especially with marūnmatta-s and
-cīna-s. They can play the glacial strategy aided by structural
-weakening by helping other enemies of Hindus.  
-2\) the marūnmatta would seek to reestablish Islamic rule over al Hind
+cīna-s. They can play the glacial strategy aided by structural weakening
+by helpingother enemies ofHindus.  
+2) the marūnmatta would seek to reestablish Islamic rule over al Hind
 either in the form in very general terms resembling the Delhi Sultanate,
 the Mogol empire of Awrangzeb or as part of the Khilafat. There would be
 tensions with the Arab Khilafat eventually, but if the Turks reassert
@@ -403,7 +407,7 @@ glacial and hurricane strategies as the occasion demands. In the south
 an independent sultanate in Kerala would be their other objective which
 may then serve as the base for the pincer grip of the rest of the
 land.  
-3\) The cīna-s will aim for a land-grab of Arunachal, Sikkim, Ladakh,
+3) The cīna-s will aim for a land-grab of Arunachal, Sikkim, Ladakh,
 other border zones in the Northeast, the border nations like Bhutan and
 Nepal while not having any major objectives within the inner core of
 Bhārata. Here they might initially collude with the other enemies but
@@ -432,3 +436,4 @@ civilizational issues for the long-term struggle: here, we are not sure
 the government as the present one is well-equipped enough. What many do
 not realize is that any advance on the first front can be easily
 nullified overnight due to absence of the second.
+

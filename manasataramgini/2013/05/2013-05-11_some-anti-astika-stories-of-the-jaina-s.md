@@ -1,7 +1,11 @@
 +++
 title = "Some anti-Astika stories of the jaina-s"
+date = "2013-05-11"
+upstream_url = "https://manasataramgini.wordpress.com/2013/05/11/some-anti-astika-stories-of-the-jaina-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/05/11/some-anti-astika-stories-of-the-jaina-s/).
+
 The nAstika-s, smarting from their poor performance relative to the
 sanAtana-dharma, resorted to several distinct tactics: imitation,
 appropriation and distortion. But one of the problems they faced was
@@ -142,3 +146,4 @@ king became a jaina right away. His children became jaina ascetics and
 made the entire kingdom forsake vaidika and tAntrika animal sacrifices.
 They eventually committed jaina suicide and attained a divine state,
 which is followed by the whole kingdom becoming jaina.*
+

@@ -1,7 +1,11 @@
 +++
 title = "Does the bee eater really have a mind ?"
+date = "2006-02-19"
+upstream_url = "https://manasataramgini.wordpress.com/2006/02/19/does-the-bee-eater-really-have-a-mind/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/02/19/does-the-bee-eater-really-have-a-mind/).
+
 Our acquaintance and his field team concluded the following. They
 observed (like many others before them) that the little green bee
 eaters, a reasonably frequent bird in the haunts of the Maharatta
@@ -33,3 +37,4 @@ think calling it a mind as my acquaintance did is upto the beholder.
 
 Nevertheless we would all agree that the birds pretty sophisiticated in
 their mental apparatus.
+

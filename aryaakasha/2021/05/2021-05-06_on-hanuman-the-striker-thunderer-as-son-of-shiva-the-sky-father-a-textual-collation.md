@@ -1,8 +1,11 @@
 +++
-title = "On Hanuman, The Striker/Thunderer, As Son Of Shiva, The Sky Father – A Textualxa0Collation"
-date = "May 6, 2021"
+title = "On Hanuman, The Striker/Thunderer, As Son Of Shiva, The Sky Father – A Textual Collation"
+date = "2021-05-06"
+upstream_url = "https://aryaakasha.com/2021/05/06/on-hanuman-the-striker-thunderer-as-son-of-shiva-the-sky-father-a-textual-collation/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/05/06/on-hanuman-the-striker-thunderer-as-son-of-shiva-the-sky-father-a-textual-collation/).
+
 ![](https://aryaakasha.files.wordpress.com/2019/04/57262718_10161666453540574_5845078343824703488_n-1.jpg?w=564)
 
 It is Thursday – Thor’s Day via the familiar late-Germanic reckoning,

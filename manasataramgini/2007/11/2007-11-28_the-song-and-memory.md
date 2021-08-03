@@ -1,13 +1,17 @@
 +++
 title = "The song and memory"
+date = "2007-11-28"
+upstream_url = "https://manasataramgini.wordpress.com/2007/11/28/the-song-and-memory/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/11/28/the-song-and-memory/).
+
 R is a great believer of the view that for every mood there is a song
 that matches and creates a resonance. Hence, R collects music by this
 criterion and may play the same song over and over again when in a
 certain mood, but will be simply unable to listen to it when not in that
 mood — it is like enzyme specificity– you need the right enzyme for the
-right reaction and enzymes can be exquisitely specific \! Mn was
+right reaction and enzymes can be exquisitely specific ! Mn was
 similarly inclined, believing in the match between the mood and the
 song. While I have little to no knowledge of any form of taurIya gANa,
 it is clear that R’s collection spans an great diversity of taurIya
@@ -41,3 +45,4 @@ creating a racket around the fire, playing precisely that song on the
 cassette box till the battery died. ST then kindly beckoned us to eat
 dinner — as ever a dinner by her was a memorable event. While biting
 into a dainty edible, I thought of Khan Qabul.
+

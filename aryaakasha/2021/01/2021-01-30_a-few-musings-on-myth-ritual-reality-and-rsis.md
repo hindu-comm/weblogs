@@ -1,8 +1,11 @@
 +++
-title = "A Few Musings On Myth, Ritual, Reality, Andxa0Rsis"
-date = "January 30, 2021"
+title = "A Few Musings On Myth, Ritual, Reality, And Rsis"
+date = "2021-01-30"
+upstream_url = "https://aryaakasha.com/2021/01/30/a-few-musings-on-myth-ritual-reality-and-rsis/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/01/30/a-few-musings-on-myth-ritual-reality-and-rsis/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/01/dndpress_theros.0.jpg?w=1024)
 
 Yesterday, I happened across the following quote posted on twitter:

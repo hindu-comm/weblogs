@@ -1,7 +1,11 @@
 +++
 title = "Charlotte’s tale"
+date = "2003-08-13"
+upstream_url = "https://manasataramgini.wordpress.com/2003/08/13/charlottes-tale/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/08/13/charlottes-tale/).
+
 Charlotte narrated me a strange incidence as we were recuperating from a
 session in the wild observing local fungal genera. Normally I do not
 suffer such tales lightly, but on this occasion I found some strange
@@ -58,3 +62,4 @@ departure she says she was punched hard for 4 nights in a row by an
 unseen entity.
 
 She says she remains fearless as ever, but only more cautious.
+

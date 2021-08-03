@@ -1,7 +1,11 @@
 +++
 title = "The prelude to Manas"
+date = "2005-09-02"
+upstream_url = "https://manasataramgini.wordpress.com/2005/09/02/the-prelude-to-manas/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/09/02/the-prelude-to-manas/).
+
 From the time of the defeat of the Uighurs to the rise to the powerful
 Mongol tribes of the Khitan, who founded the Qara Khitai empire in
 Central Asia, the supreme rulers of “Imperial Mongolia” were the Kirghiz
@@ -24,3 +28,4 @@ the Blue Turks were displaced by the Uighurs, another Turkic tribe as
 the lords of central Asia. The next Turko-mongol tribe to gain control
 were the Kirghiz, followed by the Mongol tribe of the Khitan and finally
 the Chingizid Mongols.
+

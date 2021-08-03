@@ -1,8 +1,11 @@
 +++
-title = "“Beware The Man Of One Book” – A Case-Study In Slavic Secondary Sourcexa0Over-Reliance"
-date = "July 2, 2019"
+title = "“Beware The Man Of One Book” – A Case-Study In Slavic Secondary Source Over-Reliance"
+date = "2019-07-02"
+upstream_url = "https://aryaakasha.com/2019/07/02/beware-the-man-of-one-book-a-case-study-in-slavic-secondary-source-over-reliance/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/07/02/beware-the-man-of-one-book-a-case-study-in-slavic-secondary-source-over-reliance/).
+
 
 
 ![2175889-HMAXTCQY-6](https://aryaakasha.files.wordpress.com/2019/07/2175889-hmaxtcqy-6.jpg?w=676)

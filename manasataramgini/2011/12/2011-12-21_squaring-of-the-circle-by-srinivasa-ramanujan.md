@@ -1,7 +1,11 @@
 +++
 title = "Squaring of the circle by Srinivasa Ramanujan"
+date = "2011-12-21"
+upstream_url = "https://manasataramgini.wordpress.com/2011/12/21/squaring-of-the-circle-by-srinivasa-ramanujan/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/12/21/squaring-of-the-circle-by-srinivasa-ramanujan/).
+
 [![](https://lh6.googleusercontent.com/-Hwk9xyvIQA0/TvGRx5OZJzI/AAAAAAAACUo/Jkc33wxOAGw/s400/ramanujam.png)](https://picasaweb.google.com/lh/photo/E5aCuEwBdE6ig15rleHMedMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
 Geometric constructions have a special effect on us because they depict
@@ -67,3 +71,4 @@ our youth the appearance of pi respectively in the bell curve and the
 uncertainty principle sparked a reaction similar to that of the
 character in Wigner’s tale, but in our case it was followed by what
 seemed to us a profound philosophical realization.
+

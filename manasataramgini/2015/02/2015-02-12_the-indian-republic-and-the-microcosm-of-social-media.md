@@ -1,7 +1,11 @@
 +++
 title = "The Indian republic and the microcosm of social media"
+date = "2015-02-12"
+upstream_url = "https://manasataramgini.wordpress.com/2015/02/12/the-indian-republic-and-the-microcosm-of-social-media/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/02/12/the-indian-republic-and-the-microcosm-of-social-media/).
+
 We have spent most of our adult life in a world connected by the
 internet. It offers a few opportunities, which were largely absent in
 the world before it, though it must be emphasized that these come with
@@ -54,13 +58,13 @@ realizing that it is only a mechanism of subterfuge of the Abrahamists.
 
 • **Hindus long for that imaginary Mohammedan or Christian friend:**
 This is a corollary to the above observation and was rampant on
-Bhārata-rakṣaka, where many Hindus were falling head-over-heels to
-curry favors with a Mohammedan or Christian while abusing and
-endangering their own kind. Little did they realize that those
-Abrahamists ultimately were undermining the Hindu cause by effectively
-using these friendship-seeking Hindus to bury the dagger into their
-coreligionists. This is also widely observed on Twitter. Here, there are
-some Mohammedans who pose as “atheists” and have acquired such a Hindu
+Bhārata-rakṣaka, where many Hindus were falling head-over-heels to curry
+favors with a Mohammedan or Christian while abusing and endangering
+their own kind. Little did they realize that those Abrahamists
+ultimately were undermining the Hindu cause by effectively using these
+friendship-seeking Hindus to bury the dagger into their coreligionists.
+This is also widely observed on Twitter. Here, there are some
+Mohammedans who pose as “atheists” and have acquired such a Hindu
 fan-club that the latter vie with each other to please those despicable
 louts. But as we have said before regarding the mleccha atheists (i.e.
 adherents of the cult of New Atheism), these Mohammedans are no friends
@@ -85,12 +89,12 @@ post something on the entry of Arya-s into the Indian subcontinent (aka
 the Aryan Invasion Theory). The detritus from the abysmal depths, which
 modern Hindu logic can scrape up, leaves you wondering where all the
 discernment and common sense of the teachings of Viṣṇugupta and
-Viṣṇuśarman have gone. There are even types who might boldly inform
-you that linguistics is not a science and yet others that genetics is
-not a science. This was indeed rather prevalent on the ICML, which
-ultimately resulted in Hindus being unable to establish a forum for
-scholarly discussion of their own past. The main reason was the boorish
-idiots plastering the place with profuse effusions from their ball-point
+Viṣṇuśarman have gone. There are even types who might boldly inform you
+that linguistics is not a science and yet others that genetics is not a
+science. This was indeed rather prevalent on the ICML, which ultimately
+resulted in Hindus being unable to establish a forum for scholarly
+discussion of their own past. The main reason was the boorish idiots
+plastering the place with profuse effusions from their ball-point
 ball-bearing-sized encephalizations, thereby exterminating any
 meaningful intellectual conversation. Again, the Hindus with rare
 exceptions watched like dummies even as the forum filled up like an
@@ -139,9 +143,9 @@ the Italian barmaid was foisted upon the Hindus who indeed have acted
 like idiots in allowing them to triumph.
 
 In the Veda the ṛṣi Vāmadeva Gautama said:  
-uta tyā sadya āryā sarayor indra pārataḥ | arṇā-citrarathāvadhīḥ ||  
+uta tyā sadya āryā sarayor indra pārataḥ \| arṇā-citrarathāvadhīḥ \|\|  
 Though arṇa and citraratha were ārya-s, Indra mercilessly slew them
-beyond the Sarayu river just as he had slain the dasyu-s. Thus, we have
+beyond the Sarayu river just as he had slain the dasyu-s.Thus, we have
 people in our own pakṣa who need to be dealt with like those rogue
 ārya-s.
 
@@ -233,8 +237,9 @@ that led to the subversion of the Sanātana-dharma upheld by the
 Moreover, the overall tenor of the article internalizes Western
 categories founded on Abrahamism. Thus, it creates a projection of Hindu
 thought on a single axis:  
-*conservative\<—\>liberal.*  
+*conservative\<—>liberal.*  
 Such a projection fails to capture the components of sizable magnitude
 along other dimensions, which are necessary to properly describe Hindu
 socio-religio-political thought. Thus, this uni-axial reduction is not a
 useful descriptive model for Hindus to adopt.
+

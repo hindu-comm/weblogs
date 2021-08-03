@@ -1,36 +1,40 @@
 +++
 title = "Lessons from the Mohammedan onslaught"
+date = "2006-07-02"
+upstream_url = "https://manasataramgini.wordpress.com/2006/07/02/lessons-from-the-mohammedan-onslaught/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/07/02/lessons-from-the-mohammedan-onslaught/).
+
 The battle raging in the Middle East between the Jews and their
 Mohammedan enemies has some important historical lessons. It may be a
 relatively low-level conflict in a small part of the world but its
 lessons are very clear. In recent history the Jews scored many
 spectacular victories against the Mohammedans which are worth looking at
 carefully:  
-\-In 1948, shortly after the Jews declared independence, Mohammedan
+-In 1948, shortly after the Jews declared independence, Mohammedan
 hordes from Egypt, Jordan, Syria, Lebanon and Iraq invaded Israel. After
 a prolonged fight and loss of many of their lives the Jews repulsed
 their Abrahamistic cousins and enemies. The parallel between this and
 the Pakistani invasion of Bharata in Kashmir is close and needs to be
 noted.  
-\-In 1956 the Jews conquered Sinai in retaliation for the Mohammedan
+-In 1956 the Jews conquered Sinai in retaliation for the Mohammedan
 blockade of the Suez and terrorists raids. But the soon returned the
 land. Note the parallel with India not holding the land captured during
 the counter-thrust into Pakistan.  
-\-In 1967 the Jews struck the Mohammedan armies in the 6 day war in
+-In 1967 the Jews struck the Mohammedan armies in the 6 day war in
 retaliation for the blockade in the Red Sea straits and won spectacular
 victories overthrowing the Moslem martial pride on fronts.  
-\-In 1973 the Mohammedan armies from Syria and Egypt attacked the Jews
-on their religious holiday but after a while the latter repulsed the
+-In 1973 the Mohammedan armies from Syria and Egypt attacked the Jews on
+their religious holiday but after a while the latter repulsed the
 Islamic forces and struck deep in Syria and Egypt. They eventually gave
 up most of the land captured from the Moslems in these operations.  
-\-1976 saw the admirable raid by the Jewish commandos on Uganda to
-rescue the plane hijacked by Moslem terrorists.  
-\-In 1981 the Jewish airforce destroyed the Islamic nuclear plant in
+-1976 saw the admirable raid by the Jewish commandos on Uganda to rescue
+the plane hijacked by Moslem terrorists.  
+-In 1981 the Jewish airforce destroyed the Islamic nuclear plant in
 Iraq.  
-\-In 1982 the Jews defeated the Islamic forces of the PLO in the
-invasion of Lebanon.
+-In 1982 the Jews defeated the Islamic forces of the PLO in the invasion
+of Lebanon.
 
 It is worth noting that the above history is a record that should make
 any army proud. While the Hindu army’s records after independence in
@@ -49,15 +53,15 @@ retaliation and suffered heavy losses in the Northern light infantry.
 
 But wind the tape forward in the Jewish-Mohammedan wars and note the
 following:  
-1\) Jewish armies withdrew from Lebanon in 2000. The Moslems did not see
+1) Jewish armies withdrew from Lebanon in 2000. The Moslems did not see
 that as peace but as a retreat unable to cope with their pressure.  
-2\) The demographic warfare of the Moslems has eaten into the past gains
+2) The demographic warfare of the Moslems has eaten into the past gains
 by the Jews and despite their military superiority.  
-3\) The American Jews and Israeli Jews do not seem to have the same
+3) The American Jews and Israeli Jews do not seem to have the same
 vision of the defense of their nation. The former seem to be quite out
 of touch with the ground realities and many of their sponsored moves in
 the Middle East may not really benefit the Jewish nation.  
-4\) The Jewish retreat from Gaza has only sparked a new more violent
+4) The Jewish retreat from Gaza has only sparked a new more violent
 round of counter-attacks from the Moslems rather than peace.
 
 These points are the most important ones to note for the Hindus- despite
@@ -76,3 +80,4 @@ to wall its own distant shores. But the Momeen could then freely
 redouble their efforts in Kashmir. In light of all this the message is
 simple in the war against ghazis. Do not blink, keep on hammering them
 and threatening them.
+

@@ -1,8 +1,11 @@
 +++
 title = "Napoleon Jayanti"
-date = "August 16, 2019"
+date = "2019-08-16"
+upstream_url = "https://aryaakasha.com/2019/08/16/napoleon-jayanti/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/08/16/napoleon-jayanti/).
+
 ![68721933_10162142907740574_4764272269285392384_n](https://aryaakasha.files.wordpress.com/2019/08/68721933_10162142907740574_4764272269285392384_n.jpg?w=676)
 
 Three dear to me were born upon this day. In rough chronological order,

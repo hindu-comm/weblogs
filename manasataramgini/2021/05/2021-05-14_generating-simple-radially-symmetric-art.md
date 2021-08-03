@@ -1,8 +1,11 @@
 +++
-title = "Generating simple radially symmetricxa0art"
+title = "Generating simple radially symmetric art"
 date = "2021-05-14"
+upstream_url = "https://manasataramgini.wordpress.com/2021/05/14/generating-simple-radially-symmetric-art/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2021/05/14/generating-simple-radially-symmetric-art/).
+
 Many people experience beauty in structures with bilateral, radial and
 rotational symmetries with or without recursion. The recursive or nested
 structure are the foundation of the beauty in fractal form, the

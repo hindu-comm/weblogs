@@ -1,8 +1,11 @@
 +++
 title = "Calling The Gods"
-date = "June 29, 2019"
+date = "2019-06-29"
+upstream_url = "https://aryaakasha.com/2019/06/29/calling-the-gods/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/06/29/calling-the-gods/).
+
 ![65995791_10161948705825574_500561885544841216_o](https://aryaakasha.files.wordpress.com/2019/06/65995791_10161948705825574_500561885544841216_o.jpg?w=676)![65306595_10161948708000574_5726041109012938752_n](https://aryaakasha.files.wordpress.com/2019/06/65306595_10161948708000574_5726041109012938752_n.jpg?w=676)
 
 “There can be no doubt that gods have appeared, not only in ancient

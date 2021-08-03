@@ -1,8 +1,11 @@
 +++
-title = "Hekate , The Diva Triformis , The Indo-European Triple-Goddess And The Indo-European Triple-Sun, Triple Realms – Anxa0Excerpt"
-date = "April 23, 2021"
+title = "Hekate , The Diva Triformis , The Indo-European Triple-Goddess And The Indo-European Triple-Sun, Triple Realms – An Excerpt"
+date = "2021-04-23"
+upstream_url = "https://aryaakasha.com/2021/04/23/hekate-the-diva-triformis-the-indo-european-triple-goddess-and-the-indo-european-triple-sun-triple-realms-an-excerpt/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/04/23/hekate-the-diva-triformis-the-indo-european-triple-goddess-and-the-indo-european-triple-sun-triple-realms-an-excerpt/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/04/d3h5n0e-8fc73d1a-d211-4859-b32e-5f5f02685196.jpg?w=597)
 
 \[Author’s Note: The following represents a brief excerpt from my

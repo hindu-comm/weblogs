@@ -1,7 +1,11 @@
 +++
 title = "rAja bhoja: the glory and tragedy of the setting Hindu Sun"
+date = "2005-12-12"
+upstream_url = "https://manasataramgini.wordpress.com/2005/12/12/raja-bhoja-the-glory-and-tragedy-of-the-setting-hindu-sun/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/12/12/raja-bhoja-the-glory-and-tragedy-of-the-setting-hindu-sun/).
+
 bhoja’s military and political career  
 The paramAra rAjpUts are supposed to have arisen from the sacrificial
 pit on arbuda parvata, which was the source of many kShatriyas who were
@@ -60,7 +64,7 @@ a confedration of Hindu kings including the kalachuri lakShmI-karNa, the
 ChahamAna and other rAjpUts to fight the Ghaznavid Maliq Salar Masud. In
 the great battle of Bahraich the Hindu confedracy fought a pitched
 battle for about a month with the Moslems and completely defeated
-them, killing Salar Masud in the process. They then went on to liberate
+them,killing Salar Masud in the process. They then went on to liberate
 Hansi, Thaneshvar, Nagarkot and other cities taken by the Ghaznavids and
 marched against Lahore and besieged it. Just at the point Lahore was
 about to fall to them, the Hindu kings had a disagreement over who would
@@ -83,16 +87,16 @@ fallen like a true kShatriya in the defense of his capital.
 
 Hence its said that when he was alive the poets would say:
 
-“adya dhArA sadAdhArA sadAlambA sarasvatI |  
-paNDitAH maNDitAH sarve bhojarAje bhuvaM gate ||”  
+“adya dhArA sadAdhArA sadAlambA sarasvatI \|  
+paNDitAH maNDitAH sarve bhojarAje bhuvaM gate \|\|”  
 Today dhArA is ever supported, and the Goddess Sarasvati is ever propped
 up. All the pundits are adorned with the coming of king Bhoja on this
 earth.
 
 When he fell in the defending dhArA from his rivals they said:
 
-“adya dhArA nirAdhArA nirAlambA sarasvatI |  
-paNDitAH khaNDitAH sarve bhojarAje divaM gate ||“  
+“adya dhArA nirAdhArA nirAlambA sarasvatI \|  
+paNDitAH khaNDitAH sarve bhojarAje divaM gate \|\|“  
 Today dhArA is unsupported, and the Goddess Sarasvati is without a prop.
 All the pundits are scattered with the ascent of king Bhoja to heaven.  
   
@@ -206,3 +210,4 @@ unity and continue to have pan-India icons, howsoever crass they may be
 in comparison to the legendary rAja bhoja. But sadly they remain as
 naive as their predecessors in the twilight era to the impending threats
 from Islam and Christianity.
+

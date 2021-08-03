@@ -1,8 +1,11 @@
 +++
-title = "Yajus incantations for the worship of Rudra from the Kāṭhaka ritualxa0manuals"
+title = "Yajus incantations for the worship of Rudra from the Kāṭhaka ritual manuals"
 date = "2020-12-27"
+upstream_url = "https://manasataramgini.wordpress.com/2020/12/27/yajus-incantations-for-the-worship-of-rudra-from-the-ka%e1%b9%adhaka-ritual-manuals/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2020/12/27/yajus-incantations-for-the-worship-of-rudra-from-the-ka%e1%b9%adhaka-ritual-manuals/).
+
 This article is available as a [pdf
 document](https://manasataramgini.files.wordpress.com/2020/12/katha_rudra-3.pdf).
 The notes from it are appended below.

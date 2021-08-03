@@ -1,7 +1,11 @@
 +++
 title = "Visualizing shivAjI’s svarAjya"
+date = "2010-08-29"
+upstream_url = "https://manasataramgini.wordpress.com/2010/08/29/visualizing-shivajis-svarajya/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/08/29/visualizing-shivajis-svarajya/).
+
 Long ago in my school days I accessed a book by a marATha scholar in
 which he had carefully catalogued all the battles of shivAjI. These
 battles comprise a most remarkable series of events in the struggle of
@@ -23,8 +27,8 @@ It was on the li\~Nga here in Rairi that shivAjI performed an abhisheka
 with his own blood to take the vrata of the war for svarAjya.We know
 that shortly after this he adopted his ambitious seal with the shloka in
 saMskR^ita:  
-pratipach-chandra-rekheva vardhiShnur vishva-vanditA |  
-shAhasUnoH shivasyaiShA mudrA bhadrAya rAjate ||  
+pratipach-chandra-rekheva vardhiShnur vishva-vanditA \|  
+shAhasUnoH shivasyaiShA mudrA bhadrAya rAjate \|\|  
 Like the sliver of the first day moon will grow, thus \[will grow\] the
 universal respect for this seal of Shaha’s son shiva which shines forth
 as a mark of protection.
@@ -77,12 +81,12 @@ protect Hindus from their monstrous atrocities and wished to eventually
 sweep them off Goa. Later in 1659 he occupied positions close to Bassein
 and Chaul and sent warships to launch a sortie on the Portuguese. The
 viceroy of Goa sent an alarm to the king of Portugal after this raid on
-their outposts. In 1660 he built the sea fort of  Suvarnadurg to launch
+their outposts. In 1660 he built the sea fort of Suvarnadurg to launch
 further attacks on the Isaists and recruited the black naval officer
 Siddi Misri to strengthen his naval artillery. The English intelligence
 dispatch sent by Abbe Carre mentions that shivAjI had started a
 cartography division to prepare accurate maps of both the land and coast
-in preparation of occupying strategic geography along the coastline. In
+in preparation of occupying strategic geography along the coastline.In
 early 1660, shivAjI attacked the port of Dabhol and conquered it from
 the Adil Shahi governor Mohammed Sharif. But Sharif and Fazl Khan took 3
 ships belonging to Afzal Khan, who had been killed earlier, with the
@@ -124,18 +128,19 @@ considerably especially in campaigns against renegade Hindus, like the
 mauryan at Javli. Then netAjI pALkar became the chief of staff until he
 was captured, converted to Mohammedanism and dispatched to Afghanistan.
 Then pratAprav gujjar became the next chief of staff, who died in the
-mad charge at Bahlol Khan at Nessari. In the interim shivAjI appointed
+mad charge at Bahlol Khan at Nessari. In the interim shivAjIappointed
 his half-brother AnandrAv bhosle to lead the forces. AnandrAv had the
 unusual command of a haft-hazAri, though he was not officially ever made
 the chief. However, in many encounters he was the de facto field
 commander but often not the official one. In the final phase of
-shivAjI’s career he appointed hambirrav mohite as the chief of the
-army and he continued even after shivAjI’s death till his own death in
-the great battle of Wai against the Mogols. Early in his career he
-dismissed the inept shamrao paNDit and replaced him with moro tryaMbak
-paNDit. This move was most fruitful, as the brAhmaNa prime minister
-proved effective in many aspects, an administrator, fort-designer and
-field commander leading shivAjI’s armies to some of their best
-victories. It is interesting to note that the school textbooks in my
-days completely downplayed his role. The reasons for this are hardly
-surprising to the astute.
+shivAjI’s career he appointed hambirrav mohite as the chief of the army
+and he continued even after shivAjI’s death till his own death in the
+great battle of Wai against the Mogols. Early in his career he dismissed
+the inept shamrao paNDit and replaced him with moro tryaMbak paNDit.
+This move was most fruitful, as the brAhmaNa prime minister proved
+effective in many aspects, an administrator, fort-designer and field
+commander leading shivAjI’s armies to some of their best victories. It
+is interesting to note that the school textbooks in my days completely
+downplayed his role. The reasons for this are hardly surprising to the
+astute.
+

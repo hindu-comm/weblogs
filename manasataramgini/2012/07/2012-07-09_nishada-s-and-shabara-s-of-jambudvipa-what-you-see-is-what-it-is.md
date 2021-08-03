@@ -1,7 +1,11 @@
 +++
 title = "niShAda-s and shabara-s of jambudvIpa: What you see is what it is"
+date = "2012-07-09"
+upstream_url = "https://manasataramgini.wordpress.com/2012/07/09/nishada-s-and-shabara-s-of-jambudvipa-what-you-see-is-what-it-is/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/07/09/nishada-s-and-shabara-s-of-jambudvipa-what-you-see-is-what-it-is/).
+
 The vast land of jambudvIpa is home to many different types of tribal
 people. They were noted right from the times of the ancient Hindu texts.
 The R^igveda hardly mentions any of them, but one that is mentioned is
@@ -249,3 +253,4 @@ oShadhi-s from kurumbha women.
 Footnote 2: One could interpret ekalavya's installation of an image of
 droNa as his guru as an early example of the “cargo cult”, comparable to
 the hilarious cricket of the Papuans, replete with wooden binoculars.
+

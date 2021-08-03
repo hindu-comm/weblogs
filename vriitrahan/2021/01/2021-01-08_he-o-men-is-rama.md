@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "January 8, 2021"
+date = "2021-01-08"
+upstream_url = "https://vriitrahan.wordpress.com/2021/01/08/he-o-men-is-rama/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2021/01/08/he-o-men-is-rama/).
+
 समुद्र इव गाम्भीर्ये धैर्येण हिमवानिव  
 विष्णुना सदृशो वीर्ये सोमवत्प्रियदर्शन:  
 कालाग्निसदृश: क्रोधे क्षमया पृथिवीसम:  

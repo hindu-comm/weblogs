@@ -1,8 +1,11 @@
 +++
-title = "A note on a line in the harivaMsha after the greats ofxa0trika"
-date = "2017-05-12"
+title = "A note on a line in the harivaMsha after the greats of trika"
+date = "2017-12-05"
+upstream_url = "https://padmavajra.net/2017/05/12/a-note-on-a-line-in-the-harivamsha-after-the-greats-of-trika/"
 
 +++
+Source: [here](https://padmavajra.net/2017/05/12/a-note-on-a-line-in-the-harivamsha-after-the-greats-of-trika/).
+
 <http://mahabharata-resources.org/harivamsa/vishnuparva/hv_2_003.html>
 
 tvayA vyAptamidaM sarvaM jagatsthAvaraja\~Ngamam \|

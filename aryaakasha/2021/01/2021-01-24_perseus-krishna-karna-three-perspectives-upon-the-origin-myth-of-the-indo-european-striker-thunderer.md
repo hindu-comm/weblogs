@@ -1,8 +1,11 @@
 +++
 title = "Perseus , Krishna , Karna – Three Perspectives Upon The Origin Myth Of The Indo-European Striker/Thunderer"
-date = "January 24, 2021"
+date = "2021-01-24"
+upstream_url = "https://aryaakasha.com/2021/01/24/perseus-krishna-karna-three-perspectives-upon-the-origin-myth-of-the-indo-european-striker-thunderer/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/01/24/perseus-krishna-karna-three-perspectives-upon-the-origin-myth-of-the-indo-european-striker-thunderer/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/01/7a105816ed79b654c1a1930afcde0277.jpg?w=834)
 
   

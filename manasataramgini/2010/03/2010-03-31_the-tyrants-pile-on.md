@@ -1,7 +1,11 @@
 +++
 title = "The tyrants pile on"
+date = "2010-03-31"
+upstream_url = "https://manasataramgini.wordpress.com/2010/03/31/the-tyrants-pile-on/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/03/31/the-tyrants-pile-on/).
+
 [![](https://i2.wp.com/lh4.ggpht.com/_hjuA1bE0hBw/S7NwjwDJMtI/AAAAAAAABX8/1nal_2mZIkg/s400/proceratosaurids.jpg)](http://picasaweb.google.com/lh/photo/5BW1d2zybzU738jnmtsiSw?feat=embedwebsite)  
 The procession of proceratosaurids: the elongated naris and the
 premaxillary process are a very distinctive feature of this clade of
@@ -71,3 +75,4 @@ much greater than the depth of maxilla below the ventral margin of the
 antorbital fossa. This last character might suggest that these animals
 did not have adaptations to inflict a strong bite as seen in the large
 Cretaceous tyrannosaurs.
+

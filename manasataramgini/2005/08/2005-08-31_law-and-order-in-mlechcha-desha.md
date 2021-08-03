@@ -1,7 +1,11 @@
 +++
 title = "Law and order in mlechCha desha"
+date = "2005-08-31"
+upstream_url = "https://manasataramgini.wordpress.com/2005/08/31/law-and-order-in-mlechcha-desha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/08/31/law-and-order-in-mlechcha-desha/).
+
 The land of the mlechChas is in krau\~ncha dvIpa is renowned for its
 orderliness arising from the maintenance of law and order. However, when
 the chakra of indra and vAyu struck the land it was striking to note
@@ -18,3 +22,4 @@ of life in the dark continent, as well as the fate of degraded human
 slaves of the New World, have surely produced such adaptations. But it
 is clear that most people in mlechChadesha may not acknowledge the
 point.
+

@@ -1,7 +1,11 @@
 +++
 title = "A brief note on haramiyidans and the Mesozoic radiation of the mammals"
+date = "2013-08-19"
+upstream_url = "https://manasataramgini.wordpress.com/2013/08/19/a-brief-note-on-haramiyidans-and-the-mesozoic-radiation-of-the-mammals/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/08/19/a-brief-note-on-haramiyidans-and-the-mesozoic-radiation-of-the-mammals/).
+
 Mammals have a longer history in the “age of the dinosaurs” (Mesozoic)
 than in the “age of the mammals” (Cenozoic). However, much of the
 Mesozoic history of the mammals remains obscure, not in small part due
@@ -19,8 +23,8 @@ mammals. In the early days of evolutionary studies there was the
 tendency to see mammals emerging via a gradual transition from reptiles.
 These “reptiles” from which mammals arose were called the mammal-like
 reptiles. However, in reality these were proto-mammals, no more
-“reptile” than in the sense of retaining ancestral amniote features
-to different degrees. As our understanding improved, these proto-mammals
+“reptile” than in the sense of retaining ancestral amniote features to
+different degrees. As our understanding improved, these proto-mammals
 were seen as basal representatives of the synapsid clade whose crown is
 the mammal clade. Students of evolution have typically seen synapsids as
 serially acquiring more mammal-like features on the basic amniote body
@@ -59,14 +63,14 @@ in the late Triassic emerging even as the explosive radiation of
 archosaurs and the rise of the dinosaurs among them was well underway.
 Morphologically the following delineate mammals from the other
 eucynodonts:  
-\-A notable dentary condyle articulating with a glenoid fossa on
+-A notable dentary condyle articulating with a glenoid fossa on
 squamosal  
-\-Features of the occipital condyles  
-\-Formation of much of the side wall of the braincase by the anterior
+-Features of the occipital condyles  
+-Formation of much of the side wall of the braincase by the anterior
 lamina of the temporal bone  
-\-Features relating to the foramina for the maxillar and mandibular
+-Features relating to the foramina for the maxillar and mandibular
 branches of the trigeminal nerve  
-\-Several features of the brain case in the region proximal to the ear
+-Several features of the brain case in the region proximal to the ear
 
 Based on the presence of these shared features several groups of the
 Mesozoic mammals can be recognized:  
@@ -76,49 +80,49 @@ yet useful phylogenetic view of early mammal evolution by Zhe-Xi Luo.
 
 1\) Morganucodonts: One of the earliest mammal groups with fossils from
 the late Triassic itself and surviving till Middle Jurassic.  
-2\) Haramiyidans: One of the earliest mammal groups with fossils from
-the late Triassic itself and surviving till Late Cretaceous, perhaps
-finally becoming extinct alongside the non-avian dinosaurs.  
-3\) Docodonts: One of the earliest mammal groups as suggested by
+2) Haramiyidans: One of the earliest mammal groups with fossils from the
+late Triassic itself and surviving till Late Cretaceous, perhaps finally
+becoming extinct alongside the non-avian dinosaurs.  
+3) Docodonts: One of the earliest mammal groups as suggested by
 Tikitherium from late Triassic of India. Underwent a great global
 Jurassic radiation including aquatic forms such as Haldanodon and the
 flat-tailed platypus-like Castorocauda. They survived till at least the
 end of the Early Cretaceous.  
-4\) Sinoconodon: A primitive form the Early Jurassic of uncertain
+4) Sinoconodon: A primitive form the Early Jurassic of uncertain
 affinities.  
-5\) Australosphenidans: The basal-most clade of mammalia proper. They
+5) Australosphenidans: The basal-most clade of mammalia proper. They
 underwent a great global Jurassic radiation with lineages such as
 Shuotheriids and Asfaltomylids and in the Cretaceous gave rise to the
 monotremes which today are only seen in Australia: the platypus and
 echidna.  
-6\) Fruitafossor: An enigmatic Late Jurassic digging mammal with
+6) Fruitafossor: An enigmatic Late Jurassic digging mammal with
 Aardvark-like dental adaptations; uncertain affinities.  
-7\) Eutriconodonts: Widely radiated in Jurassic and Early Cretaceous
+7) Eutriconodonts: Widely radiated in Jurassic and Early Cretaceous
 giving rise to numeorus insectivorous forms and also the largest
 mammalian predators of the Mesozoic like Repenomamus  
-8\) Volaticotherium: A gliding mammal from the Middle Jurassic with a
+8) Volaticotherium: A gliding mammal from the Middle Jurassic with a
 morphology similar to a flying squirrel.  
-9\) Tinodonts: First seen in the Late Jurassic and last through the
-Early Cretaceous.  
-10\) Multituberculates: A great radiation of mammals first seen in the
+9) Tinodonts: First seen in the Late Jurassic and last through the Early
+Cretaceous.  
+10) Multituberculates: A great radiation of mammals first seen in the
 late Jurassic and lasting past the K-Pg boundary into the Cenozoic
 finally dying out around 35 Mya. They had a come back in the Paleocene
 just after the great K-Pg extinction.  
-11\) Spalacotheroids: A Cretaceous radiation of mammals of some
-diversity that became extinct alongside the non-avian dinosaurs.  
-13\) Henkelotherium and Dryolestids: Henkelotherium was late Jurassic
+11) Spalacotheroids: A Cretaceous radiation of mammals of some diversity
+that became extinct alongside the non-avian dinosaurs.  
+13) Henkelotherium and Dryolestids: Henkelotherium was late Jurassic
 arboreal mammal that appears to be related to a much larger group the
 dryolestids. While the dryolestids appear to have undergone a major
 radiation in the Northern continents during the Jurassic, it was in the
 southern continents like that they thrived till the end of the age of
 the dinosaurs. Included carnivores like Foxraptor and the enigmatic
 long-canined Cronopio.  
-14\) Stem boreosphenidans: Forms closer to the common ancestor of
+14) Stem boreosphenidans: Forms closer to the common ancestor of
 placentals and marsupials than other mammals.  
-16\) Marsupials and their stem forms like Sinodelphys from the Early
+16) Marsupials and their stem forms like Sinodelphys from the Early
 Cretaceous.  
-15\) Placentals and their stem forms like Juramaia from the Oxfordian
-age of the Late Jurassic.
+15) Placentals and their stem forms like Juramaia from the Oxfordian age
+of the Late Jurassic.
 
 Of these the haramiyidans are of particular significance because they
 are one of the earliest lineages of mammals in the fossil record. They
@@ -236,3 +240,4 @@ feeding on seeds, even as forms like Fruitafossor might have dug the
 ground like an anteater to feed on insects. Many of these were eaten by
 different types of theropod dinosaurs. They could have had a rich
 nocturnal life when most of the theropods were perhaps asleep.
+

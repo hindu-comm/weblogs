@@ -1,7 +1,11 @@
 +++
 title = "Genetic determinism, sociology and history"
+date = "2009-02-12"
+upstream_url = "https://manasataramgini.wordpress.com/2009/02/12/genetic-determinism-sociology-and-history/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/02/12/genetic-determinism-sociology-and-history/).
+
 The exuberantly prolix leftist wordsmith SJ Gould who churned out many a
 quasi-scientific essay on a nearly quotidian basis stated:  
 “There’s been no biological change in humans in 40,000 or 50,000 years.
@@ -60,9 +64,9 @@ biology of adult persistence of lactase is a remarkable lesson in
 evolution. It has evolved independently on multiple occasions in human
 history. But on each occasion it has emerged through distinct but
 closely placed mutations in an enhancer of the lactase (LPH) gene that
-lies in the intron 13 of the adjacent MCM6 gene\!
+lies in the intron 13 of the adjacent MCM6 gene!
 
-[![lactase\_enhancer](https://i1.wp.com/farm4.static.flickr.com/3473/3276272772_ae60f35f45.jpg)](http://www.flickr.com/photos/24766652@N05/3276272772/ "lactase_enhancer by somasushma, on Flickr")
+[![lactase_enhancer](https://i1.wp.com/farm4.static.flickr.com/3473/3276272772_ae60f35f45.jpg)](http://www.flickr.com/photos/24766652@N05/3276272772/ "lactase_enhancer by somasushma, on Flickr")
 
 At least 4 distinct mutations have been mapped of these the one at the
 -14010 position appears to be in a “grey island” but somewhat close to a
@@ -183,7 +187,7 @@ highest prevalence of -13910 seen in Scandinavia (not Finland though),
 which is not a good choice of the IE homeland either? One might
 speculate that it was because of selection for vitamin D at high
 latitudes where exposure of skin to sunlight is low. In conclusion there
-are many unclear issues with the IE-\>-13910 connections. However, it
+are many unclear issues with the IE->-13910 connections. However, it
 needs to be tested rigorously to check if elsewhere in Eurasia the diary
 produce had a secondary role to cattle as draft animals or as a meat
 source. At least in the south Indian ash mound sites which are
@@ -196,19 +200,20 @@ determine if they were Indo-Aryans or not.
 Finally, as a descendent of those early Eurasian milk-utilizing
 pastoralists I cannot but help noting how the very social system of our
 IE ancestors was so influenced by cattle:  
-\-Indo-Aryans called their system of exogamy, gotra, or a cowshed.  
-\-Anyone who has deployed the veda cannot but escape noting the fact how
+-Indo-Aryans called their system of exogamy, gotra, or a cowshed.  
+-Anyone who has deployed the veda cannot but escape noting the fact how
 cattle=wealth.  
-\-the word payas means simultaneously milk, strength and fertile power.
+-the word payas means simultaneously milk, strength and fertile power.
 This semantic connection illustrates beyond anything how in early
 Indo-European society milk literally meant strength.  
-\-The word for battle, gaviShTi, probably stems from the cattle raid.  
-\-Even the metaphor of the reemergence of the sun after the winter
+-The word for battle, gaviShTi, probably stems from the cattle raid.  
+-Even the metaphor of the reemergence of the sun after the winter
 decline is that of indra recovering the lost cows with the help of the
 dogs.  
-\-Among our Iranian cousins the most famous recitation of the zaotar
+-Among our Iranian cousins the most famous recitation of the zaotar
 zarathuShTra was the gavAm urvAn or the chant of the cows.
 
 What ever the origins of the -13910 haplotype it has definitely had an
 enormous impact on the making of the society and culture of our people:
-transcription factor binding site -\> culture?
+transcription factor binding site -> culture?
+

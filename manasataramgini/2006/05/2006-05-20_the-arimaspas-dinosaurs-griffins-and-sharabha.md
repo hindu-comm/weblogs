@@ -1,7 +1,11 @@
 +++
 title = "The Arimaspas, dinosaurs, griffins and sharabha."
+date = "2006-05-20"
+upstream_url = "https://manasataramgini.wordpress.com/2006/05/20/the-arimaspas-dinosaurs-griffins-and-sharabha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/05/20/the-arimaspas-dinosaurs-griffins-and-sharabha/).
+
 A persistant Indo-Iranian motif is that of the griffin, occuring in
 India as the sharabha. The sharabha may be described as an imaginary
 animal or as an incarnation of rudra in that form. The famous
@@ -61,3 +65,4 @@ This is one the prints from R’s regions showing a sharabha in a pretty
 dinosaurian form
 
 [![](https://i1.wp.com/photos1.blogger.com/blogger/2010/410/320/sharabha.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/sharabha.jpg)
+

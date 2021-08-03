@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "June 23, 2021"
+date = "2021-06-23"
+upstream_url = "https://vriitrahan.wordpress.com/2021/06/23/devala-smriti-anuvaada/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2021/06/23/devala-smriti-anuvaada/).
+
 The Devala Smriti is a little known hindu smR^iti that is dated to
 800-900 AD by Padma Bhushan PV Kane. The text was likely composed after
 the Arab invasions of Sindh, to formulate clear cut guidelines to purify

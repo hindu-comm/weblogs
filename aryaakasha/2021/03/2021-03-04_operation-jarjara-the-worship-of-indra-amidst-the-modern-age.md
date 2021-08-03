@@ -1,8 +1,11 @@
 +++
-title = "Operation Jarjara – The Worship Of Indra Amidst The Modernxa0Age"
-date = "March 4, 2021"
+title = "Operation Jarjara – The Worship Of Indra Amidst The Modern Age"
+date = "2021-03-04"
+upstream_url = "https://aryaakasha.com/2021/03/04/operation-jarjara-the-worship-of-indra-amidst-the-modern-age/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/03/04/operation-jarjara-the-worship-of-indra-amidst-the-modern-age/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/03/operation-jarjara-arya-akasha.png?w=800)
 
 For the past few weeks, we have been working on something a bit special.

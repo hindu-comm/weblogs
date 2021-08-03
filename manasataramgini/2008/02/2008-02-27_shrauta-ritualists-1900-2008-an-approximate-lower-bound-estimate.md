@@ -1,7 +1,11 @@
 +++
 title = "shrauta ritualists 1900-2008- an approximate lower bound estimate"
+date = "2008-02-27"
+upstream_url = "https://manasataramgini.wordpress.com/2008/02/27/shrauta-ritualists-1900-2008-an-approximate-lower-bound-estimate/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/02/27/shrauta-ritualists-1900-2008-an-approximate-lower-bound-estimate/).
+
 I have seen a bunch of estimates by Kashikar et al, Kannan and via
 various personal contacts. Drawing from all of them I come up with some
 numbers. These numbers can only be considered the rough lower bound
@@ -34,3 +38,4 @@ Renduchintala Venkatachala Yajulu. He performed numerous extraordinary
 and rare rites. Amidst the smArta-s of my ethnic group Narayanaswami
 Dikshitar, also udgAtar, a clansman on my maternal side was the greatest
 recent performer of rare and complex yAga-s.
+

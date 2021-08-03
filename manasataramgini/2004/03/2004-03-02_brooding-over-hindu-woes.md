@@ -1,7 +1,11 @@
 +++
 title = "Brooding over Hindu woes"
+date = "2004-03-02"
+upstream_url = "https://manasataramgini.wordpress.com/2004/03/02/brooding-over-hindu-woes/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/03/02/brooding-over-hindu-woes/).
+
 Though I have no personal liking for Malhotra nor agree with him in
 entirity, I appreciate his efforts in the recent efforts to raise the
 awareness of the Hindus regarding the ongoing attempts by the
@@ -45,4 +49,7 @@ translations of the Arya Samaj group.
 100 years ago Tilak rued the fact that Hindus had very poor access to
 information. His words uttered then have full force even now. I believe
 the Hindu upheaval has to go hand in hand with improved Hindu
-education.
+education.  
+  
+
+

@@ -1,7 +1,11 @@
 +++
 title = "The professor’s war"
+date = "2016-11-24"
+upstream_url = "https://manasataramgini.wordpress.com/2016/11/24/the-professors-war/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2016/11/24/the-professors-war/).
+
 It was the end of his work week. Vidrum came to the office of Vrishchika
 of long tresses; she had just started her lab at the medical school.
 Vrishchika put on her gloves and handed Vidrum a box: “Here is the kit
@@ -168,7 +172,7 @@ any problem?”
 Vidrum: “I have something really bad to tell you.”  
 Vidrum then conveyed to Sharvamanyu the strange situation regarding
 Meghana  
-Sharvamanyu: “What\! that is disturbing indeed\! Did Meghana not have
+Sharvamanyu: “What! that is disturbing indeed! Did Meghana not have
 something to do with the GG foundation?”  
 Vidrum: “Well that’s why I find this all disturbing. She was indeed a
 legal assistant for the said foundation. Though I had no clue what the
@@ -178,7 +182,7 @@ them then but from what I hear now she seemed to be linking Meghana’s
 disappearance with that of Ms. Sharif.  
 Sharvamanyu: “Vrishchika as ever is a sharp kid. From all we know of
 this case she seems to have made a potentially right connection.
-Intriguing indeed\!”  
+Intriguing indeed!”  
 Saying so Sharvamanyu too went quiet even as he tried to wrap his mind
 around all that was known. Vidrum simply stared at emptily at the menu
 card even as he turned all the worst-case scenarios in his head.
@@ -192,7 +196,7 @@ Sharvamanyu: “Nothing; we were just puzzled over this news item
 regarding an old classmate being up to some bad mischief.” Saying so he
 passed Abhirosha his tablet.  
 Upon glancing through it Abhirosha remarked: “Ah, our daṇḍika-s seem
-pretty inept to let her go\!”  
+pretty inept to let her go!”  
 Just then she realized that Vidrum had hardly registered her arrival and
 noticing the look on his face asked: “Everything OK Vidrum?”  
 Vidrum: “Not really. But Sharva can fill you in later. Let us get moving
@@ -389,18 +393,18 @@ interesting medical research.”
 Duly Harrison and Vrishchika had set up an appointment for the meeting.
 On the said day Vrishchika was in her office checking the time wondering
 why Harrison had not yet showed up. As she did so she thought to
-herself: “These mleccha-s\! I am pretty sure it was the same Harrison
-who tried to hold up our paper for nearly an year to try to reproduce
-our work and pass it off as his. I wonder what he wants from me. I am
-sure this urge to meet me cannot be innocent. Moreover, it is really
-strange that he is doing a sabbatical with Budhoo, who has hardly
-anything to offer him…” More than half an hour had passed since the
-appointed time and he had not yet shown up. Vrishchika called up Jay
-Budhoo to check what was going on. He spoke to his students and said
-that they had not seen Harrison the entire day. By that night Budhoo was
-already contacting the police over the case of the missing Prof.
-Harrison. The police knowingly told him that they were on the case and
-he should quietly wait.
+herself: “These mleccha-s! I am pretty sure it was the same Harrison who
+tried to hold up our paper for nearly an year to try to reproduce our
+work and pass it off as his. I wonder what he wants from me. I am sure
+this urge to meet me cannot be innocent. Moreover, it is really strange
+that he is doing a sabbatical with Budhoo, who has hardly anything to
+offer him…” More than half an hour had passed since the appointed time
+and he had not yet shown up. Vrishchika called up Jay Budhoo to check
+what was going on. He spoke to his students and said that they had not
+seen Harrison the entire day. By that night Budhoo was already
+contacting the police over the case of the missing Prof. Harrison. The
+police knowingly told him that they were on the case and he should
+quietly wait.
 
 A few days later officials from the Intelligence Bureau were at
 Vrishchika’s office asking her about Harrison. She told them all that
@@ -441,7 +445,7 @@ Abhirosha: “Lootaa, this actually might be of considerable interest in
 clearing many things.”  
 Lootika: “Why? What’s his name?”  
 Abhirosha: “Douglas Fieldman”.  
-Vrishchika: “Ah\! He was a close collaborator with Steven Harrison on
+Vrishchika: “Ah! He was a close collaborator with Steven Harrison on
 studies to reverse aging. I believe he had undue ‘interest’ in the work
 we had done with Somakhya and Lootika on the nucleotides in ADP-ribose
 system.”  
@@ -527,15 +531,15 @@ he was called upon by the British Army chief to ‘use his assets to bring
 to a conclusion a key operation in Pakistan’. It was of such critical
 importance because had he not pulled it off all English assets in
 Pakistan might have been ruined once and for all and the very existence
-of this important client state in the subcontinent jeopardized\! He goes
+of this important client state in the subcontinent jeopardized! He goes
 on to add that he carried out the operation with the highest level of
 cooperation from Tamanna and Abu who created a mole in the Indian
 intelligence head quarters. This allowed him to discover and neutralize
 the sophisticated Indian agent who had been operating as the Chinese
-physician Yang He at Gwadar\!”
+physician Yang He at Gwadar!”
 
 Indrasena: “Vrishchika, that explains what happened to Dev
-Buragohain\!”  
+Buragohain!”  
 Sharvamanyu: “That was indeed a gap which we never understood could you
 please fill that in.”  
 Vrishchika: “Since the idea began with Somakhya and then took shape in
@@ -659,3 +663,4 @@ way. They had an appreciation for my work with Dr. Assolkar in rooting
 out irrationality and said that this India could only be born if we
 could create thought-leaders who would spread among the masses ushering
 an age of reason in the midst.*”
+

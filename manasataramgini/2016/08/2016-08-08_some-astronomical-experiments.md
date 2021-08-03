@@ -1,7 +1,11 @@
 +++
 title = "Some astronomical experiments"
+date = "2016-08-08"
+upstream_url = "https://manasataramgini.wordpress.com/2016/08/08/some-astronomical-experiments/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2016/08/08/some-astronomical-experiments/).
+
 Our interest in stellar evolution began sometime in the 8th year of our
 life after reading an old but very readable account by the famed Russian
 scientist George Gamow. It captivated us beyond words but we had to wait
@@ -56,10 +60,10 @@ All parallax in the Hipparcos dataset is measured as milliarc seconds.
 Hence, we first we calculate distance of the stars in parsecs using
 formula:
 
-![d=\\dfrac{1000}{p}](https://s0.wp.com/latex.php?latex=d%3D%5Cdfrac%7B1000%7D%7Bp%7D&bg=ffffff&fg=333333&s=0
-"d=\\dfrac{1000}{p}");1 parsec=3.26156 light years.
+![d=\\dfrac{1000}{p}](https://s0.wp.com/latex.php?latex=d%3D%5Cdfrac%7B1000%7D%7Bp%7D&bg=ffffff&fg=333333&s=0&c=20201002);1
+parsec=3.26156 light years.
 
-![All\_stars\_distance](https://manasataramgini.files.wordpress.com/2016/08/all_stars_distance.png?w=640)
+![All_stars_distance](https://manasataramgini.files.wordpress.com/2016/08/all_stars_distance.png?w=640)
 
 If we plot a histogram of the distance of the stars in the Hipparcos
 data we get a strongly right-skewed distribution with a distinct peak.
@@ -80,34 +84,33 @@ next calculate its absolute magnitude (M). The absolute magnitude of a
 star is the magnitude with which it would shine if it were placed at 10
 parsecs (\~32.6 light years away).
 
-![M=m-5(log\_{10}(d)-1)](https://s0.wp.com/latex.php?latex=M%3Dm-5%28log_%7B10%7D%28d%29-1%29&bg=ffffff&fg=333333&s=0
-"M=m-5(log_{10}(d)-1)"); where d is parsecs
+![M=m-5(log\_{10}(d)-1)](https://s0.wp.com/latex.php?latex=M%3Dm-5%28log_%7B10%7D%28d%29-1%29&bg=ffffff&fg=333333&s=0&c=20201002);
+where d is parsecs
 
-![All\_stars\_absolute\_magnitude](https://manasataramgini.files.wordpress.com/2016/08/all_stars_absolute_magnitude.png?w=640)
+![All_stars_absolute_magnitude](https://manasataramgini.files.wordpress.com/2016/08/all_stars_absolute_magnitude.png?w=640)
 
 While the Sun blazes away in our sky its absolute magnitude is a dim
 4.83, which would require us to retire to dark skies in order to see it
 if it were 10 parsecs away. In contrast Deneb
-(![\\alpha](https://s0.wp.com/latex.php?latex=%5Calpha&bg=ffffff&fg=333333&s=0
-"\\alpha") Cygni) would blaze away at the magnitude of about -8.4 from
-the same distance and would be seen in broad daylight. The plot of M is
-revealing in more than one way. The Sun lies at the beginning of the dim
-tail of the distribution considerably dimmer than the median M of 1.54 –
-that would be about as bright as
-![\\epsilon](https://s0.wp.com/latex.php?latex=%5Cepsilon&bg=ffffff&fg=333333&s=0
-"\\epsilon") Canis Major appears in our sky and just a bit dimmer than
-the absolute magnitude of Sirius A. The distribution has a clear peak
-around 1 and a bit of a shoulder around 3. The bottom line is we are on
-dim side, in the 4th quartile of the distribution, keeping with the the
-yellow dwarf standing of our star.
+(![\\alpha](https://s0.wp.com/latex.php?latex=%5Calpha&bg=ffffff&fg=333333&s=0&c=20201002)
+Cygni) would blaze away at the magnitude of about -8.4 from the same
+distance and would be seen in broad daylight. The plot of M is revealing
+in more than one way. The Sun lies at the beginning of the dim tail of
+the distribution considerably dimmer than the median M of 1.54 – that
+would be about as bright as
+![\\epsilon](https://s0.wp.com/latex.php?latex=%5Cepsilon&bg=ffffff&fg=333333&s=0&c=20201002)
+Canis Major appears in our sky and just a bit dimmer than the absolute
+magnitude of Sirius A. The distribution has a clear peak around 1 and a
+bit of a shoulder around 3. The bottom line is we are on dim side, in
+the 4th quartile of the distribution, keeping with the the yellow dwarf
+standing of our star.
 
 The absolute magnitude is a measure of the luminosity\*(L) of the star.
 Hence we can represent the same data directly as luminosity in terms of
 Sun units i.e. L(Sun)=1 using the formula:  
-![L=\\left(10\\right)^{\\frac{4.83-M}{\\sqrt\[5\]{100}}}](https://s0.wp.com/latex.php?latex=L%3D%5Cleft%2810%5Cright%29%5E%7B%5Cfrac%7B4.83-M%7D%7B%5Csqrt%5B5%5D%7B100%7D%7D%7D&bg=ffffff&fg=333333&s=4
-"L=\\left(10\\right)^{\\frac{4.83-M}{\\sqrt[5]{100}}}")
+![L=\\left(10\\right)^{\\frac{4.83-M}{\\sqrt\[5\]{100}}}](https://s0.wp.com/latex.php?latex=L%3D%5Cleft%2810%5Cright%29%5E%7B%5Cfrac%7B4.83-M%7D%7B%5Csqrt%5B5%5D%7B100%7D%7D%7D&bg=ffffff&fg=333333&s=4&c=20201002)
 
-![All\_stars\_luminosity](https://manasataramgini.files.wordpress.com/2016/08/all_stars_luminosity.png?w=640&h=373)
+![All_stars_luminosity](https://manasataramgini.files.wordpress.com/2016/08/all_stars_luminosity.png?w=640&h=373)
 
 This is obviously a similar distribution with a median luminosity around
 11 Suns and peak distribution of stars with the luminosity of 13-15
@@ -127,7 +130,7 @@ filter and the visual magnitude. The stars with negative B-V are the
 blue stars and those with high B-V values are the red stars. The Sun,
 which is an archetypal yellow star, has a B-V value of 0.656.
 
-![All\_stars\_BV](https://manasataramgini.files.wordpress.com/2016/08/all_stars_bv.png?w=640)
+![All_stars_BV](https://manasataramgini.files.wordpress.com/2016/08/all_stars_bv.png?w=640)
 
 This distribution is interesting in showing two prominent well-separated
 peaks in the middle flanked by shoulders. The higher peak is at B-V=.5,
@@ -145,10 +148,9 @@ We can then calculate the approximate surface temperature of a star from
 its B-V value. While there are multiple formulae to do this we shall use
 the Ballesteros formula. While hardly perfect, it gives a better
 approximation among the simple formulae that just use B-V:  
-![T=4600\*\\left(\\dfrac{1}{.92\\left(B-V\\right)+1.7}+\\dfrac{1}{.92\\left(B-V\\right)+.62}\\right)](https://s0.wp.com/latex.php?latex=T%3D4600%2A%5Cleft%28%5Cdfrac%7B1%7D%7B.92%5Cleft%28B-V%5Cright%29%2B1.7%7D%2B%5Cdfrac%7B1%7D%7B.92%5Cleft%28B-V%5Cright%29%2B.62%7D%5Cright%29&bg=ffffff&fg=333333&s=0
-"T=4600*\\left(\\dfrac{1}{.92\\left(B-V\\right)+1.7}+\\dfrac{1}{.92\\left(B-V\\right)+.62}\\right)")
+![T=4600\*\\left(\\dfrac{1}{.92\\left(B-V\\right)+1.7}+\\dfrac{1}{.92\\left(B-V\\right)+.62}\\right)](https://s0.wp.com/latex.php?latex=T%3D4600%2A%5Cleft%28%5Cdfrac%7B1%7D%7B.92%5Cleft%28B-V%5Cright%29%2B1.7%7D%2B%5Cdfrac%7B1%7D%7B.92%5Cleft%28B-V%5Cright%29%2B.62%7D%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002)
 
-![all\_stars\_Temperature](https://manasataramgini.files.wordpress.com/2016/08/all_stars_temperature.png?w=640)
+![all_stars_Temperature](https://manasataramgini.files.wordpress.com/2016/08/all_stars_temperature.png?w=640)
 
 The distribution of temperatures shows 3 distinct peaks. The first and
 the lowest is around 3600-3700K, the second and the highest around 4600K
@@ -159,7 +161,7 @@ can check a few other stars to see how this formula performs using the
 Hipparcos data with respect to commonly reported temperatures:
 
 |            |           |            |
-| ---------- | --------- | ---------- |
+|------------|-----------|------------|
 | Star       | T/Formula | T/Reported |
 | Betelgeuse | 3793K     | 3650K      |
 | Aldebaran  | 3737K     | 3910K      |
@@ -174,10 +176,9 @@ stretched out rightwards.
 
 Once we have the temperature and luminosity of a star we can next
 calculate its radius in Sun radius units using the formula:  
-![R=\\sqrt{\\dfrac{L}{(T/5766)^2}}](https://s0.wp.com/latex.php?latex=R%3D%5Csqrt%7B%5Cdfrac%7BL%7D%7B%28T%2F5766%29%5E2%7D%7D&bg=ffffff&fg=333333&s=0
-"R=\\sqrt{\\dfrac{L}{(T/5766)^2}}")
+![R=\\sqrt{\\dfrac{L}{(T/5766)^2}}](https://s0.wp.com/latex.php?latex=R%3D%5Csqrt%7B%5Cdfrac%7BL%7D%7B%28T%2F5766%29%5E2%7D%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 
-![All\_stars\_radius](https://manasataramgini.files.wordpress.com/2016/08/all_stars_radius.png?w=640&h=373)
+![All_stars_radius](https://manasataramgini.files.wordpress.com/2016/08/all_stars_radius.png?w=640&h=373)
 
 The radius mostly corrects itself despite the issues with temperature we
 encounter with the above formula. The distribution is bimodal with
@@ -193,7 +194,7 @@ function of the diameter. Second of these uses luminosity and does not
 scale the stars so as to give an an unobstructed view of the basic H-R
 diagram.
 
-![All\_stars\_HR\_M\_Dscaled](https://manasataramgini.files.wordpress.com/2016/08/all_stars_hr_m_dscaled.png?w=640&h=520)![All\_stars\_HR\_luminosity\_T](https://manasataramgini.files.wordpress.com/2016/08/all_stars_hr_luminosity_t.png?w=640)
+![All_stars_HR_M\_Dscaled](https://manasataramgini.files.wordpress.com/2016/08/all_stars_hr_m_dscaled.png?w=640&h=520)![All_stars_HR_luminosity_T](https://manasataramgini.files.wordpress.com/2016/08/all_stars_hr_luminosity_t.png?w=640)
 
 In both of these the main sequence, where majority of stars lie, comes
 out very clearly. The other prominent feature that comes out is a branch
@@ -221,16 +222,16 @@ H-R diagram from just the variables. On extraction we get a dataset of
 10312 variable stars. The H-R diagram for this dataset with stars scaled
 as a positively correlated function of diameter is shown below.
 
-![variables\_HR\_M](https://manasataramgini.files.wordpress.com/2016/08/variables_hr_m.png?w=640&h=580)
+![variables_HR_M](https://manasataramgini.files.wordpress.com/2016/08/variables_hr_m.png?w=640&h=580)
 
 One thing that becomes rather apparent from this plot is the
-proclivity for giants as opposed to lower main-sequence stars to be
+proclivityfor giants as opposed to lower main-sequence stars to be
 variable. In particular, the red giants and supergiants are particularly
 enriched in intrinsic variables, as is well-known to anyone with an
 elementary knowledge of astronomy. Among the red giants/supergiants we
 have several different types of variables: 1) Mira-type long period
 variables, which are the so-called asymptotic branch giants, the stars
-that have left the main sequence and bloated up to become red giants in
+thathave left the main sequence and bloated up to become red giants in
 the later period of their lives; 2) the semi-regular variables like
 Betelgeuse with low amplitude pulsations; 3) irregular variables like
 Aldebaran.
@@ -239,12 +240,12 @@ On the upper side of the yellow-orange main-sequence we have the T Tauri
 variables, which are young stars often showing protoplanetary disks.
 Among the white and light yellow supergiants we have the famed Cepheid
 or
-![\\delta](https://s0.wp.com/latex.php?latex=%5Cdelta&bg=ffffff&fg=333333&s=0
-"\\delta") Cephei variables. Below them all the way from the white to
-lighter yellow just above the main-sequence to giants we have several
-similarly pulsating stars like the RR Lyrae, W Virginis and
-![\\delta](https://s0.wp.com/latex.php?latex=%5Cdelta&bg=ffffff&fg=333333&s=0
-"\\delta") Scuti variables. Further upwards on the plot among the yellow
+![\\delta](https://s0.wp.com/latex.php?latex=%5Cdelta&bg=ffffff&fg=333333&s=0&c=20201002)
+Cephei variables. Below them all the way from the white to lighter
+yellow just above the main-sequence to giants we have several similarly
+pulsating stars like the RR Lyrae, W Virginis and
+![\\delta](https://s0.wp.com/latex.php?latex=%5Cdelta&bg=ffffff&fg=333333&s=0&c=20201002)
+Scuti variables. Further upwards on the plot among the yellow
 supergiants we have the RV Tauri variables. These “Cepheid-like”
 variables have various positively-correlated relationships between their
 periods and luminosity, which allow them to be used to measure
@@ -252,8 +253,8 @@ distances. Interestingly, while classic Cepheids tend to occur only
 along the equatorial plane of the galaxy the RR Lyrae variables are
 common at all latitudes and in globular clusters. On the blue end near
 the main-sequence and giants we have the
-![\\beta](https://s0.wp.com/latex.php?latex=%5Cbeta&bg=ffffff&fg=333333&s=0
-"\\beta") Cephei and slowly pulsating blue variables.
+![\\beta](https://s0.wp.com/latex.php?latex=%5Cbeta&bg=ffffff&fg=333333&s=0&c=20201002)
+Cephei and slowly pulsating blue variables.
 
 Now we shall use the data to do a simplistic exercise of trying to get
 the data on Hyades and Pleiades clusters to compare them on the H-R
@@ -264,30 +265,30 @@ the above described values. We then plot our stars as rough star map to
 check if we have got it right. As one can see below the Hyades comes out
 suggesting that we have got the approximate field right.
 
-![Hyades\_map](https://manasataramgini.files.wordpress.com/2016/08/hyades_map.png?w=640)
+![Hyades_map](https://manasataramgini.files.wordpress.com/2016/08/hyades_map.png?w=640)
 
 Next we plot the distances of the stars in our field and notice a peak
 around 40-52 parsecs which is where the actual Hyades members are
 located.
 
-![hyades\_distance](https://manasataramgini.files.wordpress.com/2016/08/hyades_distance.png?w=640)
+![hyades_distance](https://manasataramgini.files.wordpress.com/2016/08/hyades_distance.png?w=640)
 
 We can see that Aldebaran lies much closer to us and is not physically
 part of the Hyades cluster. Once we have the distance of the actual
 Hyades stars we can isolate them as a separate data set.
 
 Now for the Pleiades we take our central star as Alcyone
-(![\\eta](https://s0.wp.com/latex.php?latex=%5Ceta&bg=ffffff&fg=333333&s=0
-"\\eta") Tauri) and do the same procedure as above. Upon plotting the
-rough star map we get the below picture showing that we are generally on
-the right track.
+(![\\eta](https://s0.wp.com/latex.php?latex=%5Ceta&bg=ffffff&fg=333333&s=0&c=20201002)
+Tauri) and do the same procedure as above. Upon plotting the rough star
+map we get the below picture showing that we are generally on the right
+track.
 
-![Pleiades\_map](https://manasataramgini.files.wordpress.com/2016/08/pleiades_map.png?w=640)
+![Pleiades_map](https://manasataramgini.files.wordpress.com/2016/08/pleiades_map.png?w=640)
 
 Then we make a similar distance plot to note that according to the
 Hipparcos data the Pleiades \~115-120 parsecs.
 
-![Pleiades\_distance](https://manasataramgini.files.wordpress.com/2016/08/pleiades_distance.png?w=640)
+![Pleiades_distance](https://manasataramgini.files.wordpress.com/2016/08/pleiades_distance.png?w=640)
 
 This distance resulted in one of most famous controversies in modern
 astronomy. It was much lower than what was thought to be the real
@@ -306,7 +307,7 @@ The stars of the Hyades are shown in empty circles and those of the
 Pleiades are shown in filled circles. The circles are scaled according
 to the diameter of the stars.
 
-![Pleiades\_Hyades\_HR2](https://manasataramgini.files.wordpress.com/2016/08/pleiades_hyades_hr2.png?w=640&h=373)
+![Pleiades_Hyades_HR2](https://manasataramgini.files.wordpress.com/2016/08/pleiades_hyades_hr2.png?w=640&h=373)
 
 We can see right away that together they generally recapitulate the
 overall H-R diagram with most stars lying on the main sequence and a few

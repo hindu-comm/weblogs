@@ -1,8 +1,11 @@
 +++
-title = "The Black Avenging Form Of The Serpentine Earthxa0Mother"
-date = "December 28, 2020"
+title = "The Black Avenging Form Of The Serpentine Earth Mother"
+date = "2020-12-28"
+upstream_url = "https://aryaakasha.com/2020/12/28/the-black-avenging-form-of-the-serpentine-earth-mother/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/12/28/the-black-avenging-form-of-the-serpentine-earth-mother/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/12/singer_sargent_john_-_orestes_pursued_by_the_furies_-_1921.jpg?w=920)
 
 \[An extract from ‘The Queen of Serpents – The Serpentine Figure Of The

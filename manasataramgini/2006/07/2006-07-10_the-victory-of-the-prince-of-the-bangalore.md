@@ -1,7 +1,11 @@
 +++
 title = "The victory of the prince of the Bangalore"
+date = "2006-07-10"
+upstream_url = "https://manasataramgini.wordpress.com/2006/07/10/the-victory-of-the-prince-of-the-bangalore/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/07/10/the-victory-of-the-prince-of-the-bangalore/).
+
 If am writing this it really means I am wasting time. Since I have done
 a lot of that over the past two days and feel guilty about I am just
 adding x to infinity — something a person with my burden of
@@ -47,3 +51,4 @@ emperor, retaliated on a large scale. But the old trusted field-gun of
 B’lore fired rather than tumbling or fumbling and conferred the most
 coveted victory on the prince of B’lore. Thus, the saffron flag flew on
 the islands of the Atlantic after a long long time.
+

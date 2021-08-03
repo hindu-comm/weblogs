@@ -1,7 +1,11 @@
 +++
 title = "Liṅga-kāmādi-sūtrāṇi"
+date = "2019-02-03"
+upstream_url = "https://manasataramgini.wordpress.com/2019/02/03/li%e1%b9%85ga-kamadi-sutra%e1%b9%87i/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2019/02/03/li%e1%b9%85ga-kamadi-sutra%e1%b9%87i/).
+
 [Devanagari PDF
 version](https://manasataramgini.files.wordpress.com/2019/02/lingakama-1.pdf)
 
@@ -16,18 +20,17 @@ idam eva jantūnāṃ maithunasya rahasyam ..
 
 anābhikānām pranābhikānāṃ ca+ anagnijīvasūtrāṇunām maithunaṃ naimittikā
 prakriyā . nābhikānām maithunaṃ nirūpitā prakriyā .
-vyūḍhīkaraṇa-dvirbhāvāt . tasmād ajāyanta liṅgāni . nābhikeṣu
-bahuśo liṅge dve . kecid bahuliṅgāni pradarśayanti . kyākūni
-yukta-kāmarūpiṇa romakoṣṭhakāś cety udāharaṇāni . eteṣu
-liṅga-koṣṭhānām parimāṇa-bhedo bahuśo nāsti . dviliṅgasthitau
-liṅga-koṣṭhyor parimāṇa-bhedaḥ sadaivodeti (sadaiva udeti) . mahattaro
-liṅga-koṣṭhaḥ strīti (strī+iti) . sā bahuśas tiṣṭhati . kanīyaḥ pumān
-iti . sa bahuśo gacchati . liṅgakoṣṭhānāṃ nirmāṇasya dattāṃśa-bhedāj
-jāyate liṅgayoḥ saṃgrāmaḥ . kiṃ tu paramparā-santatyai viparītayor
-liṅga-koṣṭhayor ākarṣaṇaḥ saṃgamanaṃ saṃyogaś ca+avaśyam . etaddhi
-mūla-kāraṇaṃ kāmasya . dattāṃśa-saṃgrāmo ‘karṣaṇaś ca dvayoḥ
-pratidhrājyoḥ sammelanād dvayor ekaḥ pūrṇaṃ vijayaṃ nāpanoti . tasmāj
-jāyate ‘nantā spardhā liṅgayoḥ ..
+vyūḍhīkaraṇa-dvirbhāvāt . tasmād ajāyanta liṅgāni . nābhikeṣu bahuśo
+liṅge dve . kecid bahuliṅgāni pradarśayanti . kyākūni yukta-kāmarūpiṇa
+romakoṣṭhakāś cety udāharaṇāni . eteṣu liṅga-koṣṭhānām parimāṇa-bhedo
+bahuśo nāsti . dviliṅgasthitau liṅga-koṣṭhyor parimāṇa-bhedaḥ
+sadaivodeti (sadaiva udeti) . mahattaro liṅga-koṣṭhaḥ strīti (strī+iti)
+. sā bahuśas tiṣṭhati . kanīyaḥ pumān iti . sa bahuśo gacchati .
+liṅgakoṣṭhānāṃ nirmāṇasya dattāṃśa-bhedāj jāyate liṅgayoḥ saṃgrāmaḥ .
+kiṃ tu paramparā-santatyai viparītayor liṅga-koṣṭhayor ākarṣaṇaḥ
+saṃgamanaṃ saṃyogaś ca+avaśyam . etaddhi mūla-kāraṇaṃ kāmasya .
+dattāṃśa-saṃgrāmo ‘karṣaṇaś ca dvayoḥ pratidhrājyoḥ sammelanād dvayor
+ekaḥ pūrṇaṃ vijayaṃ nāpanoti . tasmāj jāyate ‘nantā spardhā liṅgayoḥ ..
 
 bahukoṣṭha-jantuṣu liṅgakoṣṭhā anyebhyaḥ koṣṭhebhyo bhinnāḥ saṃvṛtāḥ .
 tasmād viviktā upasthāḥ . udāharaṇāny oṣadhīṣu paśuṣu ca . teṣu
@@ -37,15 +40,15 @@ maithuna-vyavasthā . dhṛṣṭa-vratam bahupatnī-vratam ekapatnī-vratam vā
 bahupatnī-vratam dvividham . krameṇa bahupatnayaḥ sadyo bahupatnayo vā .
 pṛṣṭhadaṇḍa-paśuṣu prāyeṇa 25 jīvasūcanāḥ prabhavanty ekapatnī-vratam .
 Gibbons, orangutans, gorillas, chimpanzees and bonobos te sarve
-nṛbandhavaḥ . alpa-nṛbandhuṣv ekapatnīvratam bahuśaḥ prakṛtimat .
-anyeṣu nṛbandhuṣu bahupatnī-vrataṃ ca dhṛṣṭa-vrataṃ ca sāmānyam .
-mānaveṣu ca . prāyeṇeyaṃ nṛbandhunām mūla-sthitiḥ . strī-balātkāro
-rakta-nṛbandhunām eko maithunopāyaḥ . rakta-nṛbandhunāṃ vṛṣa-jātir
-dvividhā . nemivantaś ca+anemivantaḥ . nemivanta ugrā dhunimantaś ca
-parasparaṃ yudhyante ca . anemivantaḥ śāntāḥ pracchanam maithunaṃ
-kurvanti ca . bhūriretāḥ pumān nityam bahūn maithunāvakāśān mṛgayate .
-svāṇḍānāṃ niṣekāya strī su-jīvasūcanā-dhāriṇam puruṣam pratīcchaty anyān
-nirākaroti ca . tasmād bahuvidhāḥ spardhāś ca pradarśanāni ca ..
+nṛbandhavaḥ . alpa-nṛbandhuṣv ekapatnīvratam bahuśaḥ prakṛtimat . anyeṣu
+nṛbandhuṣu bahupatnī-vrataṃ ca dhṛṣṭa-vrataṃ ca sāmānyam . mānaveṣu ca .
+prāyeṇeyaṃ nṛbandhunām mūla-sthitiḥ . strī-balātkāro rakta-nṛbandhunām
+eko maithunopāyaḥ . rakta-nṛbandhunāṃ vṛṣa-jātir dvividhā . nemivantaś
+ca+anemivantaḥ . nemivanta ugrā dhunimantaś ca parasparaṃ yudhyante ca .
+anemivantaḥ śāntāḥ pracchanam maithunaṃ kurvanti ca . bhūriretāḥ pumān
+nityam bahūn maithunāvakāśān mṛgayate . svāṇḍānāṃ niṣekāya strī
+su-jīvasūcanā-dhāriṇam puruṣam pratīcchaty anyān nirākaroti ca . tasmād
+bahuvidhāḥ spardhāś ca pradarśanāni ca ..
 
 manuṣyāṇām prāyeṇa sahajā vyavasthā dhṛṣṭa-vrataṃ ca krameṇa
 bahupatnī-vrataṃ ca sadyo bahupatnī-vrataṃ ca .
@@ -59,10 +62,9 @@ pravartituṃ śaknoti . paraṃ tu śāntyai dhruvāyopavāsita-jīvanāya ca
 sarvebhyo puruṣebhyo nyūnātinyūnam eka-patnyā saha vivāham avaśyam .
 strīṣu vyābhicāriṇī-vratam bhrūṇahatyā +adhipuruṣānudhāvanaṃ cetyādi
 pravṛttīnāṃ codanāt puruṣa-viṣādo’pi vardhate . ādhunikatā
-nūtana-kṛtrima-mānava-samājasya nirmāṇaṃ vā tāni sarvāṇi codanti .
-ataḥ prāyeṇa + ādhunikatāḥ paura-saṃskṛteḥ pratiṣṭhām pratirundhate .
-yadīdam tatvaṃ tarhi manuṣyāṇām ādhunika-paura-saṃskṛtiś cirāyur nāsti
-..
+nūtana-kṛtrima-mānava-samājasya nirmāṇaṃ vā tāni sarvāṇi codanti . ataḥ
+prāyeṇa + ādhunikatāḥ paura-saṃskṛteḥ pratiṣṭhām pratirundhate . yadīdam
+tatvaṃ tarhi manuṣyāṇām ādhunika-paura-saṃskṛtiś cirāyur nāsti ..
 
 namaḥ somārudrābhyāṃ namaḥ prajāpataye ..
 
@@ -87,3 +89,4 @@ nṛbandhuḥ : ape
 alpa-nṛbandhuḥ : gibbon  
 rakta-nṛbandhuḥ : orangutan  
 nṛdravyam : testosterone
+

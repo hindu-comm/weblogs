@@ -1,7 +1,11 @@
 +++
 title = "The winding narration of deaths and counter-deaths"
+date = "2015-08-12"
+upstream_url = "https://manasataramgini.wordpress.com/2015/08/12/the-winding-narration-of-deaths-and-counter-deaths/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/08/12/the-winding-narration-of-deaths-and-counter-deaths/).
+
 It is said that Śiva transforms continually into many forms for his own
 enjoyment; not all of those are enjoyed by the consciousness housed in a
 paśu
@@ -75,7 +79,7 @@ enamored by a verse she had just read and recited it out aloud to the
 rest:
 
 na gajā nagajā dayitā dayitā vigataṃ vigataṃ calitaṃ calitaṃ pramadā
-‘pramadā mahatā mahatām araṇaṃ maraṇaṃ samayāt samayāt ||
+‘pramadā mahatā mahatām araṇaṃ maraṇaṃ samayāt samayāt \|\|
 
 Vrishchika: “That poem is by a rājaputra chieftain bhaṭṭi in the court
 of the king śrīdharasena. While it is a low-complexity sequence we can
@@ -89,8 +93,8 @@ confer meaning on it thus:
 Somakhya: “What would be the biological analog such a verse?”  
 Lootika: “Two adjacent nucleosomes, while otherwise identical, could
 have a different biological meaning due to modification of their side
-chains\!”  
-Somakhya: “Good\!”  
+chains!”  
+Somakhya: “Good!”  
 Vrishchika: “Could you tell me more about this?”  
 Lootika picked up a textbook on the biochemistry of epigenetics from
 Somakhya’s collection and handed it to Vrishchika warning her: “Not all
@@ -183,15 +187,15 @@ was just like her. Lootika showed it to Somakhya. On a piece of paper,
 on one side Varoli had drawn an elephant written out the below words
 under it:
 
-sa nāgaḥ | so ‘tīva sthūlas tuṅgaś ca+āsīt | tena tulyo ‘paraḥ paśur
-na+āsīt | avartanta tasya sthulāś ca kaṭhiṇāś ca ghorāś ca dantāḥ | ko
+sa nāgaḥ \| so ‘tīva sthūlas tuṅgaś ca+āsīt \| tena tulyo ‘paraḥ paśur
+na+āsīt \| avartanta tasya sthulāś ca kaṭhiṇāś ca ghorāś ca dantāḥ \| ko
 ‘yaṃ nāgaḥ ?
 
 On the other side, she had written in those same words along with the
 additional words:
 
-cakāra taraṇam arṇāyāṃ dakṣiṇa-krauñca-dvīpe | babhakṣa nakraṃ
-mahāghora-rūpaṃ |
+cakāra taraṇam arṇāyāṃ dakṣiṇa-krauñca-dvīpe \| babhakṣa nakraṃ
+mahāghora-rūpaṃ \|
 
 But now the earlier words were placed in a winding pattern in
 compartments placed inside the body of another zoomorphic figure.
@@ -201,7 +205,7 @@ Shilpika’s sleepy class?”
 Saying so, he gave it back to Lootika. In a flash he took it back from
 her, looked hard at it and continued: “What do you think is in the
 serpent’s mouth?”  
-Lootika: “Why that looks like the two inverted crossed ₹ symbols\! Is
+Lootika: “Why that looks like the two inverted crossed ₹ symbols! Is
 that not the sign the serial killers Rahul and Robert leave behind at
 the venues of their crimes?”  
 Somakhya: “Yes, indeed. Ask your sister why she drew that symbol in the
@@ -218,7 +222,7 @@ sarpabandha after Shilpika’s husband showed us the sarpabandha-s of
 Paramāra kings along with a little play on homonymy to confound the
 other students.”  
 Lootika: “Yes, being too sleepy I only vaguely remember that you
-suddenly woke up.”
+suddenly wokeup.”
 
 Just then Lootika got a call from Somakhya’s mother: “Where are you all?
 Hurry home right away. Apparently Rahul and Robert had struck again near
@@ -244,9 +248,9 @@ the time. Her body was found on the middle of the quiet Subhas Chandra
 Bose Road with her skull shattered by a club, which is apparently the
 trademark of these murderers.”
 
-Somakhya showed it to Lootika. Lootika: “Now that is really scary\! That
+Somakhya showed it to Lootika. Lootika: “Now that is really scary! That
 girl was a good-for-nothing, but to be brained this way on the middle of
-the road is very tragic indeed\!”
+the road is very tragic indeed!”
 
 As the day proceeded they got moving with the lab and the books.
 Somakhya saw a strange large non-photosynthetic euglenozoan growing in
@@ -279,7 +283,7 @@ Somakhya: “Possible, however note this: the assailants are supposed to
 operate in a white van. Quiet as the SCB road is, if they were lying in
 wait, their white van should have been parked somewhere near if they
 wished to commit the crime on the footpath. The reports say that two men
-on the motorbikes supposedly noticed R\&R’s trademark white van speeding
+on the motorbikes supposedly noticed R&R’s trademark white van speeding
 away at the end of the SCB road to enter the University road even as
 they entered the road in the opposite direction and saw the corpse. That
 does not seem to square with the report saying that none of the
@@ -295,7 +299,7 @@ crops. I think that’s when I woke up in a fright.”
 Just as they were taking in Varoli’s curious statement, Vrishchika
 chimed in sounding rather shaken: “Well, we are not going to be seeing
 two of our schoolmates when school resumes…”  
-Lootika: “What do you mean\!”  
+Lootika: “What do you mean!”  
 Vrishchika: “I just got a message from my friend that my classmate Vikas
 died today. Apparently, he had unwrapped a large number of those
 ‘atom-bombs’ which come wound in a green rope and collected the
@@ -304,7 +308,7 @@ magnesium wire into it, and set it alight. Before he could run it
 apparently went off straight on his face and he succumbed to his injury
 today.”
 
-Somakhya: “Ouch, what a sad way to go\! That is one experiment which
+Somakhya: “Ouch, what a sad way to go! That is one experiment which
 should be done with utmost caution; not at all something for the casual
 pyrotechnic enthusiast. The poor boy should have really listened to the
 warnings of the elders for that one.”
@@ -315,9 +319,9 @@ disquiet little Jhilleeka broke the somber stillness: “Ain’t it strange
 that Varoli had a such a prognostic dream? Aren’t dreams supposed to
 recapitulate past events rather than prognosticate future ones?”  
 Lootika: “Dear antajā, I don’t think Varoli’s dream was prognostic. See
-she was already primed by the fact that R\&R had struck near our house.
+she was already primed by the fact that R&R had struck near our house.
 Then there was the snake looming large on our minds. She already knew
-from the reports that R\&R had dispatched their victims by slugging them
+from the reports that R&R had dispatched their victims by slugging them
 on the head and I had shown her the article which showed the symbol they
 left behind. So all that congealed into her dream. Moreover she
 remembered this only post-facto; so how can we even be sure that her
@@ -332,7 +336,7 @@ discovery on which we peg much of what we do even today.”
 
 Vrishchika: “Lootika, in the same vein I am sure you also remember the
 studies which have shown that rats dream of futures movements in locales
-that they have not been able to actually explore. That is in a sense a
+thatthey have not been able to actually explore. That is in a sense a
 prognostic pre-view in a dream. So when we put all those things together
 we can arrive at something close to being a real prognosis.”
 
@@ -344,19 +348,19 @@ on the middle of the SCB road but was rather clubbed to death at the
 Manorañjanodyānam near Vidrum’s house.”
 
 Lootika: “Why do you say so?”  
-Somakhya: “Well, all I will say for now is that if it proves to be right
+Somakhya: “Well, all I will say for now is that if itproves to be right
 then Varoli’s dream was genuinely prognostic.”
 
 ◊◊◊◊
 
-Lootika’s mother came back a couple of days later after having helped
+Lootika’s mother came backa couple of days later after having helped
 her relative who had survived but for the loss of a couple of toes. She
 headed straight to collect her daughters from Somakhya’s home and
 returned home. With Rahul and Robert claiming further victims, Lootika
 and Somakhya never got to meet again that vacation except for the day
 when their families had assembled together at the hilltop shrine of the
 god Kumāra for a major triannual festival. But they did not get to talk
-much that day as they were totally taken in by the bustle of the ritual.
+much that day as they were totally takenin by the bustle of the ritual.
 However, Somakhya managed get the large euglenozoan growing but to his
 disappointment he could not get it over to Lootika to do her molecular
 biological wizardry for them to proceed ahead. As he was ruing this on
@@ -404,7 +408,7 @@ Vrishchika: “I am sure you have seen the news that the church of the
 baptists is working hard to get Robert’s sentence commuted right
 away.”  
 Gardabh: “Now why are you bringing religion into all this. That is why
-we could be caught in riots tomorrow.”  
+we could be caught inriots tomorrow.”  
 Lootika: “Hey Gardabh – you are the guy who procured me the knife that I
 am still carrying with me. Now why are you getting worried about
 riots.”  
@@ -421,13 +425,13 @@ confessed that they thought killing people was like hunting tigers on a
 safari, just more exciting. If they lived in a humane society they would
 not think like this. So jail has to be corrective experience for them
 not just punitive. By executing them the government is being given power
-to do the very thing they are being punished for. Moreover, R\&R killed
+to do the very thing they are being punished for. Moreover, R&R killed
 Awrangzeb Khan. So have the not also contributed to fighting terrorism?
 Now look at Sher Khan. He has a young daughter who might one day be a
 student like us. Should we not have compassion?”  
 Vrishchika: “Well I am not exactly waiting with bated breath for that.
 If she gets to see anything beyond the haze of her veil that would
-achievement enough\! I agree with Vidrum all three of them should be put
+achievement enough! I agree with Vidrum all three of them should be put
 to death forthwith.”  
 Mahish: “Friends, I am sure there are so many such cases all over the
 country. Why waste our energy arguing over all this useless stuff. We
@@ -445,21 +449,21 @@ marūnmatta-s should give it up. These statements should then be widely
 broadcast for both the Hindus and marūnmatta-s to see and hear. If you
 think that it is impossible, we hear that a Japanese lord made it happen
 to the pretasādhakas in the past, and we have had Bhāgurāyaṇa. As for
-R\&R I think they should be given the mṛtyu-daṇḍa and not waste the
+R&R I think they should be given the mṛtyu-daṇḍa and not waste the
 tax-payer’s money. And Vidrum I do hope you get your closure with
-R\&R.”  
+R&R.”  
 Gardabh: “All that will never happen. You are just being a cruel girl.”
 
 Vidrum: “I have already got it: even if not total, it is a liberating
 closure. I doubt you have seen the details that came out during these
 cases. Apparently Meghana was waiting for none other Sher Khan’s junior
 partner Awrangzeb Khan at the sitting area in the Manorañjanodyānam.
-That was when R\&R clobbered her and then threw her corpse out of their
-van on the middle of the SCB road. R\&R’s skirmish with the marūnmatta-s
+That was when R&R clobbered her and then threw her corpse out of their
+van on the middle of the SCB road. R&R’sskirmish with the marūnmatta-s
 was apparently precipitated by this.”
 
-Lootika: “Vrishchika, did you hear that\! Let’s be going.”  
-Vrishchika: “Vow\! We must stop at Somakhya’s house on the way home\!”
+Lootika: “Vrishchika, did you hear that! Let’s be going.”  
+Vrishchika: “Vow! We must stop at Somakhya’s house on the way home!”
 
 ◊◊◊◊
 
@@ -471,3 +475,4 @@ udyāna’s walk way. What would you say pareidolia or prognosis?”
 Lootika: “Unbelievable.”  
 Vrishchika: “And the biological equivalent of that would be
 recombination of transposons on chromosome.”
+

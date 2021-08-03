@@ -1,7 +1,13 @@
 +++
 title = "trishiro-bhairava"
+date = "2006-03-04"
+upstream_url = "https://manasataramgini.wordpress.com/2006/03/04/trishiro-bhairava/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/03/04/trishiro-bhairava/).
+
+
+
 [![](https://i2.wp.com/photos1.blogger.com/blogger/2010/410/320/trishirobhairavas.0.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/trishirobhairavas.0.jpg)
 
 Images of the hallowed trishirobhairava from kAshmIr, whose avatAra
@@ -14,3 +20,4 @@ destroyed and the idols damaged by the Moslems and their current status
 is unclear. The representation of the deity as trishiro-bhairava and
 dattAtreya were both supposed to have dogs beside them, but their
 presence in these idols is unknown.
+

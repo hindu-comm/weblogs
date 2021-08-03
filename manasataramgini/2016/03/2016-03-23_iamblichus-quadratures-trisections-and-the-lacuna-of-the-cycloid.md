@@ -1,7 +1,11 @@
 +++
 title = "Iamblichus, quadratures, trisections and the lacuna of the cycloid"
+date = "2016-03-23"
+upstream_url = "https://manasataramgini.wordpress.com/2016/03/23/iamblichus-quadratures-trisections-and-the-lacuna-of-the-cycloid/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2016/03/23/iamblichus-quadratures-trisections-and-the-lacuna-of-the-cycloid/).
+
 Today Syria has been turned into a hellhole by the unmāda-traya.
 However, just before the irruption of the second Abrahamism which ended
 the late Classical world, it was home to great men like Iamblichus.
@@ -77,72 +81,67 @@ magical quality to quality to it – a wonder in itself that shows why the
 yavana philosophers and our ārya ancestors linked such constructions to
 religion.
 
-![quadratrix\_squaring](https://manasataramgini.files.wordpress.com/2016/03/quadratrix_squaring.png?w=640)  
+![quadratrix_squaring](https://manasataramgini.files.wordpress.com/2016/03/quadratrix_squaring.png?w=640)  
 For a dynamic version check:
 <https://www.geogebra.org/apps/?id=ykcgVMMZ>
 
 The quadratrix deployment in the Dinostratus construction goes thus:  
-1\) In the quadrant of the circle with center at A divide the vertical
+1) In the quadrant of the circle with center at A divide the vertical
 radius into n equal parts.  
-2\) Divide the quadrant into the same number of equal parts n.  
-3\) Mark the points of intersection of the radii dividing the quadrant
+2) Divide the quadrant into the same number of equal parts n.  
+3) Mark the points of intersection of the radii dividing the quadrant
 into n equal parts and the horizontal parallel lines dividing the
 vertical radius into n equal parts. The locus of these points is the
 quadratrix.  
-4\) To trisect an ![\\angle
-CAC'](https://s0.wp.com/latex.php?latex=%5Cangle+CAC%27&bg=ffffff&fg=333333&s=0
-"\\angle CAC'") let it cut the quadratrix at point H.  
-5\) Then draw a parallel line to AC through H. It cuts the vertical
+4) To trisect an ![\\angle
+CAC'](https://s0.wp.com/latex.php?latex=%5Cangle+CAC%27&bg=ffffff&fg=333333&s=0&c=20201002)
+let it cut the quadratrix at point H.  
+5) Then draw a parallel line to AC through H. It cuts the vertical
 radius at G.  
-6\) Trisect the
-![\\overline{AG}](https://s0.wp.com/latex.php?latex=%5Coverline%7BAG%7D&bg=ffffff&fg=333333&s=0
-"\\overline{AG}") and mark the lower
-![\\dfrac{1}{3}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B1%7D%7B3%7D&bg=ffffff&fg=333333&s=0
-"\\dfrac{1}{3}") of it, i.e.
-![\\overline{AJ}](https://s0.wp.com/latex.php?latex=%5Coverline%7BAJ%7D&bg=ffffff&fg=333333&s=0
-"\\overline{AJ}").  
-7\) Draw a parallel line to AC through J to cut the quadratrix and draw
+6) Trisect the
+![\\overline{AG}](https://s0.wp.com/latex.php?latex=%5Coverline%7BAG%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+and mark the lower
+![\\dfrac{1}{3}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B1%7D%7B3%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+of it, i.e.
+![\\overline{AJ}](https://s0.wp.com/latex.php?latex=%5Coverline%7BAJ%7D&bg=ffffff&fg=333333&s=0&c=20201002).  
+7) Draw a parallel line to AC through J to cut the quadratrix and draw
 segment AT by connecting A to this point of intersection with the
 quadratrix.  
-8\) The ![\\angle CAT = \\dfrac{1}{3} \\angle
-CAC'](https://s0.wp.com/latex.php?latex=%5Cangle+CAT+%3D+%5Cdfrac%7B1%7D%7B3%7D+%5Cangle+CAC%27&bg=ffffff&fg=333333&s=0
-"\\angle CAT = \\dfrac{1}{3} \\angle CAC'")
+8) The ![\\angle CAT = \\dfrac{1}{3} \\angle
+CAC'](https://s0.wp.com/latex.php?latex=%5Cangle+CAT+%3D+%5Cdfrac%7B1%7D%7B3%7D+%5Cangle+CAC%27&bg=ffffff&fg=333333&s=0&c=20201002)
 
 1\) To perform the quadrature mark the point where the quadratrix
 intersects the horizontal radius AC.  
-2\) Draw the
-![\\overline{KL}](https://s0.wp.com/latex.php?latex=%5Coverline%7BKL%7D&bg=ffffff&fg=333333&s=0
-"\\overline{KL}")=radius of circle and perpendicular to AC.  
-3\) Draw the tangent line to the circle to be squared passing through
+2) Draw the
+![\\overline{KL}](https://s0.wp.com/latex.php?latex=%5Coverline%7BKL%7D&bg=ffffff&fg=333333&s=0&c=20201002)=radius
+of circle and perpendicular to AC.  
+3) Draw the tangent line to the circle to be squared passing through
 C.  
-4\) Draw the line AL and mark the point M where it intersects the above
+4) Draw the line AL and mark the point M where it intersects the above
 tangent.  
-5\) Double the
-![\\overline{CM}](https://s0.wp.com/latex.php?latex=%5Coverline%7BCM%7D&bg=ffffff&fg=333333&s=0
-"\\overline{CM}") along the tangent to get point N.  
-6\) Create
-![\\overline{CE}](https://s0.wp.com/latex.php?latex=%5Coverline%7BCE%7D&bg=ffffff&fg=333333&s=0
-"\\overline{CE}")= radius of circle to be squared along the same tangent
-in the opposite direction.  
-7\) Bisect the
-![\\overline{EN}](https://s0.wp.com/latex.php?latex=%5Coverline%7BEN%7D&bg=ffffff&fg=333333&s=0
-"\\overline{EN}") to obtain point O and construct a circle with O as
-center.  
-8\) Extend AC to meet the above circle at R to deploy the geometric mean
+5) Double the
+![\\overline{CM}](https://s0.wp.com/latex.php?latex=%5Coverline%7BCM%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+along the tangent to get point N.  
+6) Create
+![\\overline{CE}](https://s0.wp.com/latex.php?latex=%5Coverline%7BCE%7D&bg=ffffff&fg=333333&s=0&c=20201002)=
+radius of circle to be squared along the same tangent in the opposite
+direction.  
+7) Bisect the
+![\\overline{EN}](https://s0.wp.com/latex.php?latex=%5Coverline%7BEN%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+to obtain point O and construct a circle with O as center.  
+8) Extend AC to meet the above circle at R to deploy the geometric mean
 theorem.  
-9\) CR is the side of the square CRSP with same area as the starting
+9) CR is the side of the square CRSP with same area as the starting
 circle with center at A.
 
 Today we know that this quadratrix of the old yavana-s is a curve
 derived from the trigonometric cotangent function:  
 ![x=y\\cot \\left(\\dfrac{\\pi
-}{2r}y\\right)](https://s0.wp.com/latex.php?latex=x%3Dy%5Ccot+%5Cleft%28%5Cdfrac%7B%5Cpi+%7D%7B2r%7Dy%5Cright%29&bg=ffffff&fg=333333&s=0
-"x=y\\cot \\left(\\dfrac{\\pi }{2r}y\\right)"). This function will cut
-the x-axis at
-![x=\\dfrac{2r}{\\pi}](https://s0.wp.com/latex.php?latex=x%3D%5Cdfrac%7B2r%7D%7B%5Cpi%7D&bg=ffffff&fg=333333&s=0
-"x=\\dfrac{2r}{\\pi}") and the line with that equation will be its
-tangent at that point which is used to construct the segment used in the
-above construction.  
+}{2r}y\\right)](https://s0.wp.com/latex.php?latex=x%3Dy%5Ccot+%5Cleft%28%5Cdfrac%7B%5Cpi+%7D%7B2r%7Dy%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002).
+This function will cut the x-axis at
+![x=\\dfrac{2r}{\\pi}](https://s0.wp.com/latex.php?latex=x%3D%5Cdfrac%7B2r%7D%7B%5Cpi%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+and the line with that equation will be its tangent at that point which
+is used to construct the segment used in the above construction.  
 For playing with this curve one may see:
 <https://www.desmos.com/calculator/khwps35ujg>
 
@@ -158,50 +157,46 @@ along the straight line beginning at the fixed extremity, the point will
 describe a spiral in the plane.”  
 Today we can define it generally by the polar function:  
 ![r=a+b\\cdot \\left(\\dfrac{\\theta }{2\\pi
-}\\right)^{\\dfrac{1}{c}}](https://s0.wp.com/latex.php?latex=r%3Da%2Bb%5Ccdot+%5Cleft%28%5Cdfrac%7B%5Ctheta+%7D%7B2%5Cpi+%7D%5Cright%29%5E%7B%5Cdfrac%7B1%7D%7Bc%7D%7D&bg=ffffff&fg=333333&s=0
-"r=a+b\\cdot \\left(\\dfrac{\\theta }{2\\pi }\\right)^{\\dfrac{1}{c}}")  
+}\\right)^{\\dfrac{1}{c}}](https://s0.wp.com/latex.php?latex=r%3Da%2Bb%5Ccdot+%5Cleft%28%5Cdfrac%7B%5Ctheta+%7D%7B2%5Cpi+%7D%5Cright%29%5E%7B%5Cdfrac%7B1%7D%7Bc%7D%7D&bg=ffffff&fg=333333&s=0&c=20201002)  
 For playing with this curve one may see:
 <https://www.desmos.com/calculator/xkrae8ftzl>
 
-![Archimedean\_spiral\_squaring](https://manasataramgini.files.wordpress.com/2016/03/archimedean_spiral_squaring.png?w=640)  
+![Archimedean_spiral_squaring](https://manasataramgini.files.wordpress.com/2016/03/archimedean_spiral_squaring.png?w=640)  
 Dynamic version: <https://www.geogebra.org/apps/?id=w4pVrsz4>
 
 1\) Draw the circle to be squared centered on point A.  
-2\) Draw the spiral as defined above. Now adjust the rate of the
-movement of the point specifying the spiral so that after exactly
-completing one turn from start point A the spiral meets meet the circle
-at point C.  
-3\) At point C draw the tangent to the spiral i.e. the line of
+2) Draw the spiral as defined above. Now adjust the rate of the movement
+of the point specifying the spiral so that after exactly completing one
+turn from start point A the spiral meets meet the circle at point C.  
+3) At point C draw the tangent to the spiral i.e. the line of
 instantaneous velocity at that point. Extend it so that it cuts the
 extension of the vertical diameter of the circle at point D.  
-4\) This achieves two things: i) ![\\overline{AD} =2 \\pi
-r](https://s0.wp.com/latex.php?latex=%5Coverline%7BAD%7D+%3D2+%5Cpi+r&bg=ffffff&fg=333333&s=0
-"\\overline{AD} =2 \\pi r") i.e. it is the perimeter of the circle, thus
-being the rectification of the circle. ii) ![\\triangle
-ACD](https://s0.wp.com/latex.php?latex=%5Ctriangle+ACD&bg=ffffff&fg=333333&s=0
-"\\triangle ACD") has ![A= \\pi
-r^{2}](https://s0.wp.com/latex.php?latex=A%3D+%5Cpi+r%5E%7B2%7D&bg=ffffff&fg=333333&s=0
-"A= \\pi r^{2}"). Thus, it is the triangulation of the circle.  
-5\) Now to square the circle bisect
-![\\overline{AD}](https://s0.wp.com/latex.php?latex=%5Coverline%7BAD%7D&bg=ffffff&fg=333333&s=0
-"\\overline{AD}") to get point E.  
-6\) Get point G by bisecting
-![\\overline{EF}](https://s0.wp.com/latex.php?latex=%5Coverline%7BEF%7D&bg=ffffff&fg=333333&s=0
-"\\overline{EF}") which is the segment formed by summing
-![\\overline{AE}](https://s0.wp.com/latex.php?latex=%5Coverline%7BAE%7D&bg=ffffff&fg=333333&s=0
-"\\overline{AE}") and
-![\\overline{AF}](https://s0.wp.com/latex.php?latex=%5Coverline%7BAF%7D&bg=ffffff&fg=333333&s=0
-"\\overline{AF}"), which the radius of the circle to be squared.  
-7\) Draw a circle with center G and
-![r=GF=GE](https://s0.wp.com/latex.php?latex=r%3DGF%3DGE&bg=ffffff&fg=333333&s=0
-"r=GF=GE").  
-8\) Extended
-![\\overline{AC}](https://s0.wp.com/latex.php?latex=%5Coverline%7BAC%7D&bg=ffffff&fg=333333&s=0
-"\\overline{AC}") so that it meets the above circle at point H  
-9\) By the geometric mean theorem we get
-![\\overline{AH}](https://s0.wp.com/latex.php?latex=%5Coverline%7BAH%7D&bg=ffffff&fg=333333&s=0
-"\\overline{AH}") to be the side of the square with same area as the
-circle to be squared.
+4) This achieves two things: i) ![\\overline{AD} =2 \\pi
+r](https://s0.wp.com/latex.php?latex=%5Coverline%7BAD%7D+%3D2+%5Cpi+r&bg=ffffff&fg=333333&s=0&c=20201002)
+i.e. it is the perimeter of the circle, thus being the rectification of
+the circle. ii) ![\\triangle
+ACD](https://s0.wp.com/latex.php?latex=%5Ctriangle+ACD&bg=ffffff&fg=333333&s=0&c=20201002)
+has ![A= \\pi
+r^{2}](https://s0.wp.com/latex.php?latex=A%3D+%5Cpi+r%5E%7B2%7D&bg=ffffff&fg=333333&s=0&c=20201002).
+Thus, it is the triangulation of the circle.  
+5) Now to square the circle bisect
+![\\overline{AD}](https://s0.wp.com/latex.php?latex=%5Coverline%7BAD%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+to get point E.  
+6) Get point G by bisecting
+![\\overline{EF}](https://s0.wp.com/latex.php?latex=%5Coverline%7BEF%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+which is the segment formed by summing
+![\\overline{AE}](https://s0.wp.com/latex.php?latex=%5Coverline%7BAE%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+and
+![\\overline{AF}](https://s0.wp.com/latex.php?latex=%5Coverline%7BAF%7D&bg=ffffff&fg=333333&s=0&c=20201002),
+which the radius of the circle to be squared.  
+7) Draw a circle with center G and
+![r=GF=GE](https://s0.wp.com/latex.php?latex=r%3DGF%3DGE&bg=ffffff&fg=333333&s=0&c=20201002).  
+8) Extended
+![\\overline{AC}](https://s0.wp.com/latex.php?latex=%5Coverline%7BAC%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+so that it meets the above circle at point H  
+9) By the geometric mean theorem we get
+![\\overline{AH}](https://s0.wp.com/latex.php?latex=%5Coverline%7BAH%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+to be the side of the square with same area as the circle to be squared.
 
 ◊◊◊◊
 
@@ -236,7 +231,7 @@ suggested in the sthāpana-tantra-s does suggest that a quadratrix-like
 construction could have been achieved by moving vertically and along a
 circular arc simultaneously.
 
-![quadratrix\_temple](https://manasataramgini.files.wordpress.com/2016/03/quadratrix_temple.jpg?w=640)
+![quadratrix_temple](https://manasataramgini.files.wordpress.com/2016/03/quadratrix_temple.jpg?w=640)
 
 ◊◊◊◊
 
@@ -268,7 +263,7 @@ competition between various mathematicians in the context of various
 problems. However, we shall not talk upon any of those here except a
 couple of points (see below).
 
-![cycloid\_squaring\_roberval](https://manasataramgini.files.wordpress.com/2016/03/cycloid_squaring_roberval.png?w=640)  
+![cycloid_squaring_roberval](https://manasataramgini.files.wordpress.com/2016/03/cycloid_squaring_roberval.png?w=640)  
 [Dynamic version](https://www.geogebra.org/apps/?id=wcGjyUSN)
 
 The squaring of the circle with the cycloid is probably the easiest of
@@ -276,56 +271,53 @@ all methods. Indeed, even without a mechanical device one can construct
 a relatively clean cycloid with just a compass, ruler and protractor –
 we had done just this in our youth using the famous “A book of curves”
 by EH Lockwood. The procedure goes thus:  
-1\) Take the unit circle with center at A and mark a point C’ on its
+1) Take the unit circle with center at A and mark a point C’ on its
 circumference where it touches the base line (“X-axis”).  
-2\) Move the circle like a wheel so that it completes a full rotation;
+2) Move the circle like a wheel so that it completes a full rotation;
 the locus point C’ traces out is the cycloid and the circle is
 accordingly termed the generating circle.  
-3\) Since every point on the circle touches the base line cycloid marks
+3) Since every point on the circle touches the base line cycloid marks
 out a length of ![\\overline{BE}=2 \\pi
-r](https://s0.wp.com/latex.php?latex=%5Coverline%7BBE%7D%3D2+%5Cpi+r&bg=ffffff&fg=333333&s=0
-"\\overline{BE}=2 \\pi r") on the base line, i.e. the perimeter of the
-circle, thus being the rectification of the circle.  
-4\) Bisect
-![\\overline{BE}](https://s0.wp.com/latex.php?latex=%5Coverline%7BBE%7D&bg=ffffff&fg=333333&s=0
-"\\overline{BE}") to get point F  
-5\) Extend
-![\\overline{BE}](https://s0.wp.com/latex.php?latex=%5Coverline%7BBE%7D&bg=ffffff&fg=333333&s=0
-"\\overline{BE}") along the base line towards point F by length equal to
-the radius of the generating circle.  
-6\) Bisect the
-![\\overline{BH}](https://s0.wp.com/latex.php?latex=%5Coverline%7BBH%7D&bg=ffffff&fg=333333&s=0
-"\\overline{BH}") thus derived to get point I and construct a circle
-with I as center and radius
-![\\overline{IB}=\\overline{IH}](https://s0.wp.com/latex.php?latex=%5Coverline%7BIB%7D%3D%5Coverline%7BIH%7D&bg=ffffff&fg=333333&s=0
-"\\overline{IB}=\\overline{IH}")  
-7\) Draw a perpendicular to the base line at point F to cut the circle
-at J. By the geometric mean theorem
-![\\overline{FJ}](https://s0.wp.com/latex.php?latex=%5Coverline%7BFJ%7D&bg=ffffff&fg=333333&s=0
-"\\overline{FJ}") is the side of the square with area equal to the
-generating circle.
+r](https://s0.wp.com/latex.php?latex=%5Coverline%7BBE%7D%3D2+%5Cpi+r&bg=ffffff&fg=333333&s=0&c=20201002)
+on the base line, i.e. the perimeter of the circle, thus being the
+rectification of the circle.  
+4) Bisect
+![\\overline{BE}](https://s0.wp.com/latex.php?latex=%5Coverline%7BBE%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+to get point F  
+5) Extend
+![\\overline{BE}](https://s0.wp.com/latex.php?latex=%5Coverline%7BBE%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+along the base line towards point F by length equal to the radius of the
+generating circle.  
+6) Bisect the
+![\\overline{BH}](https://s0.wp.com/latex.php?latex=%5Coverline%7BBH%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+thus derived to get point I and construct a circle with I as center and
+radius
+![\\overline{IB}=\\overline{IH}](https://s0.wp.com/latex.php?latex=%5Coverline%7BIB%7D%3D%5Coverline%7BIH%7D&bg=ffffff&fg=333333&s=0&c=20201002)  
+7) Draw a perpendicular to the base line at point F to cut the circle at
+J. By the geometric mean theorem
+![\\overline{FJ}](https://s0.wp.com/latex.php?latex=%5Coverline%7BFJ%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+is the side of the square with area equal to the generating circle.
 
 Because this method of the quadrature is the easiest and so much in tune
 with the wheel, that symbol of the ancient, we find the absence of this
 method in ancient literature to be something of a cognitive lacuna.
-Indeed, we have often wondered why this was so\!
+Indeed, we have often wondered why this was so!
 
 Like us, probably some time when one was in secondary school, one might
 have thought: “Hey why not square the circle with a sinusoid curve?”
 Indeed, the way to achieve that is via the same cycloid:  
-1\) Draw a line parallel to the base line through C’ which will cut the
+1) Draw a line parallel to the base line through C’ which will cut the
 vertical diameter
-![\\overline{OC}](https://s0.wp.com/latex.php?latex=%5Coverline%7BOC%7D&bg=ffffff&fg=333333&s=0
-"\\overline{OC}") of the generating circle at point L.  
-2\) The locus of point L is a sinusoid curve (in red) which you can use
+![\\overline{OC}](https://s0.wp.com/latex.php?latex=%5Coverline%7BOC%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+of the generating circle at point L.  
+2) The locus of point L is a sinusoid curve (in red) which you can use
 just as the cycloid for the quadrature of the generating circle.
 
 Indeed, that sinusoid curve was the one discovered and used by the
 French intellectual Gilles de Roberval though he did not know it was a
 sinusoid. But today we know that it is the curve ![y=r\\left(1-\\cos
-\\left(\\dfrac{x}{r}\\right)\\right)](https://s0.wp.com/latex.php?latex=y%3Dr%5Cleft%281-%5Ccos+%5Cleft%28%5Cdfrac%7Bx%7D%7Br%7D%5Cright%29%5Cright%29&bg=ffffff&fg=333333&s=0
-"y=r\\left(1-\\cos \\left(\\dfrac{x}{r}\\right)\\right)") where r is the
-radius of the generating circle.
+\\left(\\dfrac{x}{r}\\right)\\right)](https://s0.wp.com/latex.php?latex=y%3Dr%5Cleft%281-%5Ccos+%5Cleft%28%5Cdfrac%7Bx%7D%7Br%7D%5Cright%29%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002)
+where r is the radius of the generating circle.
 
 Before we round off this little foray into the cycloid we may touch upon
 another issue, namely the history of the determination of the area under
@@ -344,42 +336,38 @@ their weights. As a result he arrived at a ratio close to 3. But
 interestingly he thought rather than being 3 it was some other non-whole
 figure close to 3 \[Knowing this people might be less inclined to cast
 aspersion at first attempts of the ārya-s to find
-![\\pi](https://s0.wp.com/latex.php?latex=%5Cpi&bg=ffffff&fg=333333&s=0
-"\\pi") as preserved in the yajur brāhmaṇa-s\]. But the correct solution
-had to wait till Roberval took on the problem right around the time
-Galileo was being sentenced for heresy by the Christians. He used a
-somewhat complicated construction for a relatively straightforward
-problem: He first constructed the sinusoid curve mentioned above to show
-that that it bisected the area of the rectangle bounding a hump of the
-cycloid, i.e. ![\\dfrac{1}{2} 2r.2\\pi r = 2 \\pi
-r^{2}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B1%7D%7B2%7D+2r.2%5Cpi+r+%3D+2+%5Cpi+r%5E%7B2%7D&bg=ffffff&fg=333333&s=0
-"\\dfrac{1}{2} 2r.2\\pi r = 2 \\pi r^{2}"). Then he showed by another
-construction that the area between the sinusoid and the hump was equal
-to that of the generating circle. Thus, summing it up he got it to be
-![= 3 \\pi
-r^{2}](https://s0.wp.com/latex.php?latex=%3D+3+%5Cpi+r%5E%7B2%7D&bg=ffffff&fg=333333&s=0
-"= 3 \\pi r^{2}").
+![\\pi](https://s0.wp.com/latex.php?latex=%5Cpi&bg=ffffff&fg=333333&s=0&c=20201002)
+as preserved in the yajur brāhmaṇa-s\]. But the correct solution had to
+wait till Roberval took on the problem right around the time Galileo was
+being sentenced for heresy by the Christians. He used a somewhat
+complicated construction for a relatively straightforward problem: He
+first constructed the sinusoid curve mentioned above to show that that
+it bisected the area of the rectangle bounding a hump of the cycloid,
+i.e. ![\\dfrac{1}{2} 2r.2\\pi r = 2 \\pi
+r^{2}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B1%7D%7B2%7D+2r.2%5Cpi+r+%3D+2+%5Cpi+r%5E%7B2%7D&bg=ffffff&fg=333333&s=0&c=20201002).
+Then he showed by another construction that the area between the
+sinusoid and the hump was equal to that of the generating circle. Thus,
+summing it up he got it to be ![= 3 \\pi
+r^{2}](https://s0.wp.com/latex.php?latex=%3D+3+%5Cpi+r%5E%7B2%7D&bg=ffffff&fg=333333&s=0&c=20201002).
 
 Now we hear that Roberval and his hated rival Rene Descartes, as also
 Pierre Fermat, fought a lot about this derivation of the area. But using
 a simpler construction which was familiar to these dueling Frenchmen we
 can use the method of Mamikon to easily arrive at this area:
 
-![cycloid\_Mamikon](https://manasataramgini.files.wordpress.com/2016/03/cycloid_mamikon.png?w=640)
+![cycloid_Mamikon](https://manasataramgini.files.wordpress.com/2016/03/cycloid_mamikon.png?w=640)
 
 1\) Construct the bounding rectangle AHIG for the hump of the cycloid,
 which as noted above has ![A= 2r.2\\pi r = 4 \\pi
-r^{2}](https://s0.wp.com/latex.php?latex=A%3D+2r.2%5Cpi+r+%3D+4+%5Cpi+r%5E%7B2%7D&bg=ffffff&fg=333333&s=0
-"A= 2r.2\\pi r = 4 \\pi r^{2}")  
-2\) Construct the tangent segments to the cycloid ending in the bounding
+r^{2}](https://s0.wp.com/latex.php?latex=A%3D+2r.2%5Cpi+r+%3D+4+%5Cpi+r%5E%7B2%7D&bg=ffffff&fg=333333&s=0&c=20201002)  
+2) Construct the tangent segments to the cycloid ending in the bounding
 rectangle AHIG.  
-3\) Translate the tangent segments to form the tangent cluster; by
+3) Translate the tangent segments to form the tangent cluster; by
 Mamikon’s theorem the tangent sweep, which is the area between rectangle
 and the hump, will have the same area as the tangent cluster.  
-4\) We note that the tangent cluster recapitulates the generating
-circle; ![\\therefore A= 4\\pi r^{2}- \\pi r^{2}=3 \\pi r^{2}
-](https://s0.wp.com/latex.php?latex=%5Ctherefore+A%3D+4%5Cpi+r%5E%7B2%7D-+%5Cpi+r%5E%7B2%7D%3D3+%5Cpi+r%5E%7B2%7D+&bg=ffffff&fg=333333&s=0
-"\\therefore A= 4\\pi r^{2}- \\pi r^{2}=3 \\pi r^{2} ")
+4) We note that the tangent cluster recapitulates the generating circle;
+![\\therefore A= 4\\pi r^{2}- \\pi r^{2}=3 \\pi r^{2}
+](https://s0.wp.com/latex.php?latex=%5Ctherefore+A%3D+4%5Cpi+r%5E%7B2%7D-+%5Cpi+r%5E%7B2%7D%3D3+%5Cpi+r%5E%7B2%7D+&bg=ffffff&fg=333333&s=0&c=20201002)
 
 This construction should have been easier than Roberval’s version. Yet,
 it had to wait till centuries later to be discovered. Hindsight is
@@ -406,40 +394,36 @@ after paying homage to the conchoid of Nicomedes and using it to offer
 to the gods that “king of the constructions”, the regular heptagon.
 First the trisection of the angle:
 
-![conchoid\_trisection](https://manasataramgini.files.wordpress.com/2016/03/conchoid_trisection.png?w=640)
+![conchoid_trisection](https://manasataramgini.files.wordpress.com/2016/03/conchoid_trisection.png?w=640)
 
 1\) To trisect angle ![\\angle
-BAC](https://s0.wp.com/latex.php?latex=%5Cangle+BAC&bg=ffffff&fg=333333&s=0
-"\\angle BAC") take a point C on
-![\\overrightarrow{AC}](https://s0.wp.com/latex.php?latex=%5Coverrightarrow%7BAC%7D&bg=ffffff&fg=333333&s=0
-"\\overrightarrow{AC}")  
-2\) Along
-![\\overrightarrow{AC}](https://s0.wp.com/latex.php?latex=%5Coverrightarrow%7BAC%7D&bg=ffffff&fg=333333&s=0
-"\\overrightarrow{AC}") mark point E such that ![\\overline{CE} =2.
-\\overline{AC}](https://s0.wp.com/latex.php?latex=%5Coverline%7BCE%7D+%3D2.+%5Coverline%7BAC%7D&bg=ffffff&fg=333333&s=0
-"\\overline{CE} =2. \\overline{AC}"); this
-![\\overline{CE}](https://s0.wp.com/latex.php?latex=%5Coverline%7BCE%7D&bg=ffffff&fg=333333&s=0
-"\\overline{CE}") is the generating constant for the conchoid.  
-3\) Drop a perpendicular from point C to
-![\\overrightarrow{AB}](https://s0.wp.com/latex.php?latex=%5Coverrightarrow%7BAB%7D&bg=ffffff&fg=333333&s=0
-"\\overrightarrow{AB}"); this line BC will be the generating line for
-the conchoid.  
-4\) To construct the conchoid draw the pencil of lines through point A.
+BAC](https://s0.wp.com/latex.php?latex=%5Cangle+BAC&bg=ffffff&fg=333333&s=0&c=20201002)
+take a point C on
+![\\overrightarrow{AC}](https://s0.wp.com/latex.php?latex=%5Coverrightarrow%7BAC%7D&bg=ffffff&fg=333333&s=0&c=20201002)  
+2) Along
+![\\overrightarrow{AC}](https://s0.wp.com/latex.php?latex=%5Coverrightarrow%7BAC%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+mark point E such that ![\\overline{CE} =2.
+\\overline{AC}](https://s0.wp.com/latex.php?latex=%5Coverline%7BCE%7D+%3D2.+%5Coverline%7BAC%7D&bg=ffffff&fg=333333&s=0&c=20201002);
+this
+![\\overline{CE}](https://s0.wp.com/latex.php?latex=%5Coverline%7BCE%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+is the generating constant for the conchoid.  
+3) Drop a perpendicular from point C to
+![\\overrightarrow{AB}](https://s0.wp.com/latex.php?latex=%5Coverrightarrow%7BAB%7D&bg=ffffff&fg=333333&s=0&c=20201002);
+this line BC will be the generating line for the conchoid.  
+4) To construct the conchoid draw the pencil of lines through point A.
 Use the points of intersection of the lines in this pencil with line BC
 as centers to cut arcs with radius
-![\\overline{CE}](https://s0.wp.com/latex.php?latex=%5Coverline%7BCE%7D&bg=ffffff&fg=333333&s=0
-"\\overline{CE}") on both sides of the respective lines in the pencil.
-The locus of the points marked on the lines of the pencil by these arcs
-is the conchoid.  
-5\) Now draw a line parallel to
-![\\overrightarrow{AB}](https://s0.wp.com/latex.php?latex=%5Coverrightarrow%7BAB%7D&bg=ffffff&fg=333333&s=0
-"\\overrightarrow{AB}") through point C. It cuts the conchoid at point
-F.  
-6\) ![\\angle BAF = \\dfrac{1}{3} \\angle
-BAC](https://s0.wp.com/latex.php?latex=%5Cangle+BAF+%3D+%5Cdfrac%7B1%7D%7B3%7D+%5Cangle+BAC&bg=ffffff&fg=333333&s=0
-"\\angle BAF = \\dfrac{1}{3} \\angle BAC")
+![\\overline{CE}](https://s0.wp.com/latex.php?latex=%5Coverline%7BCE%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+on both sides of the respective lines in the pencil. The locus of the
+points marked on the lines of the pencil by these arcs is the
+conchoid.  
+5) Now draw a line parallel to
+![\\overrightarrow{AB}](https://s0.wp.com/latex.php?latex=%5Coverrightarrow%7BAB%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+through point C. It cuts the conchoid at point F.  
+6) ![\\angle BAF = \\dfrac{1}{3} \\angle
+BAC](https://s0.wp.com/latex.php?latex=%5Cangle+BAF+%3D+%5Cdfrac%7B1%7D%7B3%7D+%5Cangle+BAC&bg=ffffff&fg=333333&s=0&c=20201002)
 
-![conchoid\_heptagon](https://manasataramgini.files.wordpress.com/2016/03/conchoid_heptagon.png?w=640)
+![conchoid_heptagon](https://manasataramgini.files.wordpress.com/2016/03/conchoid_heptagon.png?w=640)
 
 *We offer this heptagon to the fierce god Rudra in his dinosaurine
 manifestation as the most terrifying Śarabha. Following in the footsteps
@@ -448,32 +432,29 @@ of the tradition in which the rahasya-s of the most glorious yantra of
 we present its heart the sama-saptāśra – that figure which encompasses
 within it the seven great goddesses Indrāṇi, Vaiṣṇavī, Vārāhī, Kaumārī,
 Raudrī, Brāhmī, Cāmuṇḍā and seven tongues of the god Agni. kṣmlvryūṃ
-namaḥ śarabhāya ca pakṣirājāya ca ||*
+namaḥ śarabhāya ca pakṣirājāya ca \|\|*
 
 The construction of the regular heptagon goes thus:  
-1\) Draw a circle with center A and horizontal diameter BAC.  
-2\) Cut this circle with an arc using B as center and radius
-![\\overline{BA}](https://s0.wp.com/latex.php?latex=%5Coverline%7BBA%7D&bg=ffffff&fg=333333&s=0
-"\\overline{BA}"), i.e. same as the circle, to obtain point E.  
-3\) Trisect radius
-![\\overline{BA}](https://s0.wp.com/latex.php?latex=%5Coverline%7BBA%7D&bg=ffffff&fg=333333&s=0
-"\\overline{BA}") to get point D.  
-4\) Use D as center to construct ![\\angle
-BDE](https://s0.wp.com/latex.php?latex=%5Cangle+BDE&bg=ffffff&fg=333333&s=0
-"\\angle BDE").  
-5\) Trisect ![\\angle
-BDE](https://s0.wp.com/latex.php?latex=%5Cangle+BDE&bg=ffffff&fg=333333&s=0
-"\\angle BDE") using the conchoid as above to get ![\\angle BDR=
-\\dfrac{1}{3} \\angle
-BDE](https://s0.wp.com/latex.php?latex=%5Cangle+BDR%3D+%5Cdfrac%7B1%7D%7B3%7D+%5Cangle+BDE&bg=ffffff&fg=333333&s=0
-"\\angle BDR= \\dfrac{1}{3} \\angle BDE")  
-6\) Draw line parallel to
-![\\overrightarrow{DR}](https://s0.wp.com/latex.php?latex=%5Coverrightarrow%7BDR%7D&bg=ffffff&fg=333333&s=0
-"\\overrightarrow{DR}") through point E; it cuts line BC at point K.  
-7\) With K as center and radius
-![\\overline{BA}](https://s0.wp.com/latex.php?latex=%5Coverline%7BBA%7D&bg=ffffff&fg=333333&s=0
-"\\overline{BA}") cut original circle at points L and M.  
-8\) Now points L, C and M are three points of the regular heptagon; use
+1) Draw a circle with center A and horizontal diameter BAC.  
+2) Cut this circle with an arc using B as center and radius
+![\\overline{BA}](https://s0.wp.com/latex.php?latex=%5Coverline%7BBA%7D&bg=ffffff&fg=333333&s=0&c=20201002),
+i.e. same as the circle, to obtain point E.  
+3) Trisect radius
+![\\overline{BA}](https://s0.wp.com/latex.php?latex=%5Coverline%7BBA%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+to get point D.  
+4) Use D as center to construct ![\\angle
+BDE](https://s0.wp.com/latex.php?latex=%5Cangle+BDE&bg=ffffff&fg=333333&s=0&c=20201002).  
+5) Trisect ![\\angle
+BDE](https://s0.wp.com/latex.php?latex=%5Cangle+BDE&bg=ffffff&fg=333333&s=0&c=20201002)
+using the conchoid as above to get ![\\angle BDR= \\dfrac{1}{3} \\angle
+BDE](https://s0.wp.com/latex.php?latex=%5Cangle+BDR%3D+%5Cdfrac%7B1%7D%7B3%7D+%5Cangle+BDE&bg=ffffff&fg=333333&s=0&c=20201002)  
+6) Draw line parallel to
+![\\overrightarrow{DR}](https://s0.wp.com/latex.php?latex=%5Coverrightarrow%7BDR%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+through point E; it cuts line BC at point K.  
+7) With K as center and radius
+![\\overline{BA}](https://s0.wp.com/latex.php?latex=%5Coverline%7BBA%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+cut original circle at points L and M.  
+8) Now points L, C and M are three points of the regular heptagon; use
 them to complete the required polygon CLNOPQM.
 
 The Neo-Platonist from Harran, [Thabit ibn
@@ -485,72 +466,66 @@ only an approximation by stating that one can construct it by making a
 segment 7/8ths of the radius of the inscribing circle. The marūnmatta
 scientist Abu al Wafa preserved a Hindu approximation which was
 ![\\dfrac{\\sqrt{3} }{2} .
-r](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B%5Csqrt%7B3%7D+%7D%7B2%7D+.+r&bg=ffffff&fg=333333&s=0
-"\\dfrac{\\sqrt{3} }{2} . r") which was easier for quick construction
-than trisection which would have ideally needed a mechanical device.
+r](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B%5Csqrt%7B3%7D+%7D%7B2%7D+.+r&bg=ffffff&fg=333333&s=0&c=20201002)
+which was easier for quick construction than trisection which would have
+ideally needed a mechanical device.
 
 The above construction of the regular heptagon using the conchoid has
 some similarities to the new trisectors that emerged in Europe following
 the renaissance. The first well shall consider is the elegant trisection
 using the limacon by the great kṛśapuruṣa Issac Newton:
 
-![limacon\_trisection](https://manasataramgini.files.wordpress.com/2016/03/limacon_trisection1.png?w=640)
+![limacon_trisection](https://manasataramgini.files.wordpress.com/2016/03/limacon_trisection1.png?w=640)
 
 1\) To trisect ![\\angle
-BAB'](https://s0.wp.com/latex.php?latex=%5Cangle+BAB%27&bg=ffffff&fg=333333&s=0
-"\\angle BAB'") draw a circle with apex of angle, i.e. point A as
-center; its horizontal diameter is CAB.  
-2\) Consider a pencil of lines passing through point C; other than point
+BAB'](https://s0.wp.com/latex.php?latex=%5Cangle+BAB%27&bg=ffffff&fg=333333&s=0&c=20201002)
+draw a circle with apex of angle, i.e. point A as center; its horizontal
+diameter is CAB.  
+2) Consider a pencil of lines passing through point C; other than point
 C they will intersect the above circle at another point.  
-3\) Consider an exemplar of that pencil of lines which cuts the circle
-at point B”  
-4\) Using B” as the center and radius same as the above circle cut arcs
+3) Consider an exemplar of that pencil of lines which cuts the circle at
+point B”  
+4) Using B” as the center and radius same as the above circle cut arcs
 on the said line CB” to get points E and F. The locus of points E and F
 generated by the entire pencil of lines is the Newtonian limacon. This
 limacon has a cross-over point at C and the midpoint of its inner lobe
 passes through the center of the circle at A.  
-6\) Extend
-![\\overrightarrow{AB'}](https://s0.wp.com/latex.php?latex=%5Coverrightarrow%7BAB%27%7D&bg=ffffff&fg=333333&s=0
-"\\overrightarrow{AB'}") of the angle to be trisected to cut the limacon
-at point G.  
-7\) Draw
-![\\overrightarrow{CG}](https://s0.wp.com/latex.php?latex=%5Coverrightarrow%7BCG%7D&bg=ffffff&fg=333333&s=0
-"\\overrightarrow{CG}") joining points C and G.  
-8\) ![\\angle CGA= \\dfrac{1}{3} \\angle
-BAB'](https://s0.wp.com/latex.php?latex=%5Cangle+CGA%3D+%5Cdfrac%7B1%7D%7B3%7D+%5Cangle+BAB%27&bg=ffffff&fg=333333&s=0
-"\\angle CGA= \\dfrac{1}{3} \\angle BAB'"); incidentally ![\\angle GCA=
-\\dfrac {2}{3} \\angle
-BAB'](https://s0.wp.com/latex.php?latex=%5Cangle+GCA%3D+%5Cdfrac+%7B2%7D%7B3%7D+%5Cangle+BAB%27&bg=ffffff&fg=333333&s=0
-"\\angle GCA= \\dfrac {2}{3} \\angle BAB'")
+6) Extend
+![\\overrightarrow{AB'}](https://s0.wp.com/latex.php?latex=%5Coverrightarrow%7BAB%27%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+of the angle to be trisected to cut the limacon at point G.  
+7) Draw
+![\\overrightarrow{CG}](https://s0.wp.com/latex.php?latex=%5Coverrightarrow%7BCG%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+joining points C and G.  
+8) ![\\angle CGA= \\dfrac{1}{3} \\angle
+BAB'](https://s0.wp.com/latex.php?latex=%5Cangle+CGA%3D+%5Cdfrac%7B1%7D%7B3%7D+%5Cangle+BAB%27&bg=ffffff&fg=333333&s=0&c=20201002);
+incidentally ![\\angle GCA= \\dfrac {2}{3} \\angle
+BAB'](https://s0.wp.com/latex.php?latex=%5Cangle+GCA%3D+%5Cdfrac+%7B2%7D%7B3%7D+%5Cangle+BAB%27&bg=ffffff&fg=333333&s=0&c=20201002)
 
 Finally we shall consider the construction of Newton’s associate Colin
 Maclaurin who was a very intelligent man of his own right:
 
-![Maclaurin\_trisector](https://manasataramgini.files.wordpress.com/2016/03/maclaurin_trisector.png?w=640)
+![Maclaurin_trisector](https://manasataramgini.files.wordpress.com/2016/03/maclaurin_trisector.png?w=640)
 
 1\) To trisect ![\\angle
-DBD'](https://s0.wp.com/latex.php?latex=%5Cangle+DBD%27&bg=ffffff&fg=333333&s=0
-"\\angle DBD'") consider a horizontal line passing through the same
-point as the apex of the said angle, i.e. point B; let that line rotate
-about that point.  
-2\) Extend the base of the angle to be trisected,
-![\\overrightarrow{DB}](https://s0.wp.com/latex.php?latex=%5Coverrightarrow%7BDB%7D&bg=ffffff&fg=333333&s=0
-"\\overrightarrow{DB}") in the opposite direction to obtain a point A.  
-3\) Consider a horizontal line through A which rotates about A; this
-line through A rotates through one third of the angle through which the
+DBD'](https://s0.wp.com/latex.php?latex=%5Cangle+DBD%27&bg=ffffff&fg=333333&s=0&c=20201002)
+consider a horizontal line passing through the same point as the apex of
+the said angle, i.e. point B; let that line rotate about that point.  
+2) Extend the base of the angle to be trisected,
+![\\overrightarrow{DB}](https://s0.wp.com/latex.php?latex=%5Coverrightarrow%7BDB%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+in the opposite direction to obtain a point A.  
+3) Consider a horizontal line through A which rotates about A; this line
+through A rotates through one third of the angle through which the
 earlier line through B rotates.  
-4\) The locus of the point of intersection of the two rotating lines is
+4) The locus of the point of intersection of the two rotating lines is
 the Maclaurin trisectrix, a curve shaped like an Indus valley
 civilization sign. Its cross-over point is at A and the center of its
 loop is at B.  
-5\) The
-![\\overrightarrow{BD'}](https://s0.wp.com/latex.php?latex=%5Coverrightarrow%7BBD%27%7D&bg=ffffff&fg=333333&s=0
-"\\overrightarrow{BD'}") of the angle to be trisected cuts the
-trisectrix at point E.  
-6\) Draw a line joining A to E.  
-7\) ![\\angle EAB= \\dfrac{1}{3} \\angle
-DBD'](https://s0.wp.com/latex.php?latex=%5Cangle+EAB%3D+%5Cdfrac%7B1%7D%7B3%7D+%5Cangle+DBD%27&bg=ffffff&fg=333333&s=0
-"\\angle EAB= \\dfrac{1}{3} \\angle DBD'")
+5) The
+![\\overrightarrow{BD'}](https://s0.wp.com/latex.php?latex=%5Coverrightarrow%7BBD%27%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+of the angle to be trisected cuts the trisectrix at point E.  
+6) Draw a line joining A to E.  
+7) ![\\angle EAB= \\dfrac{1}{3} \\angle
+DBD'](https://s0.wp.com/latex.php?latex=%5Cangle+EAB%3D+%5Cdfrac%7B1%7D%7B3%7D+%5Cangle+DBD%27&bg=ffffff&fg=333333&s=0&c=20201002)
 
 ◊◊◊◊
 

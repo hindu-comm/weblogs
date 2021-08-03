@@ -1,7 +1,11 @@
 +++
 title = "The Southern kekaya-s"
+date = "2007-03-14"
+upstream_url = "https://manasataramgini.wordpress.com/2007/03/14/the-southern-kekaya-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/03/14/the-southern-kekaya-s/).
+
 The early kShatriya-s of the andhrApatha are important to understand the
 origins and transmission of the early medieval kaumAra sect. They are
 also critical to understand the peregrinations of kShatriya-s throughout
@@ -10,7 +14,7 @@ movements are also important to understand the early movements of the
 pAshupata shaiva lineage into the southern country. We have earlier
 alluded to the the role played by the ikShvAku-s of andhrApatha in the
 development of the [kaumAra
-sect](http://manasataramgini.wordpress.com/2005/10/royal-kumara-worshippers.html)
+sect](http://manollasa.blogspot.com/2005/10/royal-kumara-worshippers.html)
 in the south. We believe that this movement of the ikShvAkus and
 associated clans into dakShiNA-patha was a key element of the entry of
 the kaumAra religion into the drAviDa country, where it has lingered in
@@ -67,3 +71,4 @@ was wounded mortally in the battle and after the destruction of the
 kadamba king kR^iShNavarman, he lay on a darbha bed and waited for his
 death. This inscription mentions that he was a parama-mAhesvara, or a
 great pAshupata.
+

@@ -1,8 +1,11 @@
 +++
-title = "Goddess Worship At Devi Kothi – An Expansion From William Simpson’s Painting And Journalisticxa0Portrayal"
-date = "May 23, 2021"
+title = "Goddess Worship At Devi Kothi – An Expansion From William Simpson’s Painting And Journalistic Portrayal"
+date = "2021-05-23"
+upstream_url = "https://aryaakasha.com/2021/05/23/goddess-worship-at-devi-kothi-an-expansion-from-william-simpsons-painting-and-journalistic-portrayal/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/05/23/goddess-worship-at-devi-kothi-an-expansion-from-william-simpsons-painting-and-journalistic-portrayal/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/05/108062686_158416882589711_6580743109187950462_n.jpg?w=1024)
 
 Something I often find remarkable when looking at images and textual

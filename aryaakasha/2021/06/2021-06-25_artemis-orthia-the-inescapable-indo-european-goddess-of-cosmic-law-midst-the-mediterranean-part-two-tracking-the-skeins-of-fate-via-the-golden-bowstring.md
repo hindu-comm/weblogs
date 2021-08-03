@@ -1,8 +1,11 @@
 +++
-title = "Artemis Orthia – The Inescapable Indo-European Goddess Of Cosmic Law ‘Midst The Mediterranean : Part Two – Tracking the Skeins of Fate Via The Goldenxa0Bowstring"
-date = "June 25, 2021"
+title = "Artemis Orthia – The Inescapable Indo-European Goddess Of Cosmic Law ‘Midst The Mediterranean : Part Two – Tracking the Skeins of Fate Via The Golden Bowstring"
+date = "2021-06-25"
+upstream_url = "https://aryaakasha.com/2021/06/25/artemis-orthia-the-inescapable-indo-european-goddess-of-cosmic-law-midst-the-mediterranean-part-two-tracking-the-skeins-of-fate-via-the-golden-bowstring/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/06/25/artemis-orthia-the-inescapable-indo-european-goddess-of-cosmic-law-midst-the-mediterranean-part-two-tracking-the-skeins-of-fate-via-the-golden-bowstring/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/06/5a33a27435282c38e7c4ef7e92aa48c5.jpg?w=736)
 
 A particularly intriguing resonance is pointed via Artemis’Χρυσηλακατος

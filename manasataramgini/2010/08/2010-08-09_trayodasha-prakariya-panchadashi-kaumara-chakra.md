@@ -1,7 +1,11 @@
 +++
 title = "trayodasha-prAkArIya pa~nchadashi kaumAra chakra"
+date = "2010-08-09"
+upstream_url = "https://manasataramgini.wordpress.com/2010/08/09/trayodasha-prakariya-panchadashi-kaumara-chakra/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/08/09/trayodasha-prakariya-panchadashi-kaumara-chakra/).
+
 [![](https://i0.wp.com/lh6.ggpht.com/_hjuA1bE0hBw/TA85M-TXh6I/AAAAAAAABew/8a8_DDxiXOY/s400/g3130.png)](http://picasaweb.google.com/lh/photo/zWapZuPB3500eIc-4ziMDw?feat=embedwebsite)
 
 In the ancient series of vidyA-s of the kaumAra-mata, one of the most
@@ -35,53 +39,55 @@ with leaves, flowers and mirrors and utters the following mantra-s as
 per the atharvaNa paraMpara:  
 With the following mantra-s he invokes kumAra:
 
-yaM vahanti hayAH shvetA nitya-yuktA manojavAH |  
-tam ahaM shveta-saMnAhaM dhUrtam AvAhayAmy aham ||  
+yaM vahanti hayAH shvetA nitya-yuktA manojavAH \|  
+tam ahaM shveta-saMnAhaM dhUrtam AvAhayAmy aham \|\|  
 Here he is conceived as riding on a white horse.
 
-yaM vahanti gajAH siMhA vyAghrAsh cApi viShANinaH |  
-tam ahaM siMha-saMnAhaM dhUrtam AvAhayAmy aham ||  
+yaM vahanti gajAH siMhA vyAghrAsh cApi viShANinaH \|  
+tam ahaM siMha-saMnAhaM dhUrtam AvAhayAmy aham \|\|  
 Here he is conceived as coming with a herd of elephants, lions, tigers
 and reptiles.
 
-yaM vahanti mayUrAsh ca citrapakShA vihaMgamAH |  
-tam ahaM citrasaMnAhaM dhUrtam AvAhayAmy aham ||  
+yaM vahanti mayUrAsh ca citrapakShA vihaMgamAH \|  
+tam ahaM citrasaMnAhaM dhUrtam AvAhayAmy aham \|\|  
 Here he is conceived as coming riding a peacock with fowl of variegated
 hues.
 
-yaM vahanti sarva-vArNAH sadAyuktA manojavAH |  
-tam ahaM sarvasaMnAhaM dhUrtam AvAhayAmy aham ||  
+yaM vahanti sarva-vArNAH sadAyuktA manojavAH \|  
+tam ahaM sarvasaMnAhaM dhUrtam AvAhayAmy aham \|\|  
 Here is seen coming on a chariot with horses of many colors.
 
-yasyAmoghA sadA shaktir nityaM ghaNTApatAkinI |  
-tam ahaM shaktisaMnAhaM dhUrtam AvAhayAmy aham ||  
+yasyAmoghA sadA shaktir nityaM ghaNTApatAkinI \|  
+tam ahaM shaktisaMnAhaM dhUrtam AvAhayAmy aham \|\|  
 Here he is conceived as coming with a spear, bell and banners.
 
-yash ca mAtR^igaNair nityaM sadA parivR^ito yuvA |  
-tam ahaM mAtR^ibhiH sArdhaM dhUrtam AvAhayAmy aham ||  
-yash ca kanyAsahasreNa sadA parivR^ito mahAn |  
-tam ahaM siMhasaMnAhaM dhUrtam AvAhayAmy aham ||  
+yash ca mAtR^igaNair nityaM sadA parivR^ito yuvA \|  
+tam ahaM mAtR^ibhiH sArdhaM dhUrtam AvAhayAmy aham \|\|  
+yash ca kanyAsahasreNa sadA parivR^ito mahAn \|  
+tam ahaM siMhasaMnAhaM dhUrtam AvAhayAmy aham \|\|  
 With the above two mantra-s he is invoked as coming together with the
 kula-s of mAtR^i-s laid out above.
 
-AyAtu devaH sagaNaH sasainyaH savAhanaH sAnucaraH pratItaH |  
-ShaDAnano .aShTAdasha-locanash ca suvarNa-varNo laghu-pUrNa-bhAsaH ||  
+AyAtu devaH sagaNaH sasainyaH savAhanaH sAnucaraH pratItaH \|  
+ShaDAnano .aShTAdasha-locanash ca suvarNa-varNo laghu-pUrNa-bhAsaH
+\|\|  
 He is finally worshipped with his hordes and mounts in the 6-headed
 18-eyed form.
 
-AyAtu devo mama kArttikeyo brahmaNya-pitraiH saha mAtR^ibhish ca |  
-bhrAtrA vishAkhena ca vishvarUpa imaM baliM sAnucara juShasva ||  
+AyAtu devo mama kArttikeyo brahmaNya-pitraiH saha mAtR^ibhish ca \|  
+bhrAtrA vishAkhena ca vishvarUpa imaM baliM sAnucara juShasva \|\|  
 He is offered a bali along with his parents, brother vishAkha and his
 troops.
 
-saMvishasva varaghaNTApsaraHstave yatra subhujo hi nirmitAH |  
-saMviShTo me dhehi dIrgham AyuH prajAM pashUMsh caiva vinAyakasena ||  
+saMvishasva varaghaNTApsaraHstave yatra subhujo hi nirmitAH \|  
+saMviShTo me dhehi dIrgham AyuH prajAM pashUMsh caiva vinAyakasena
+\|\|  
 Finally with this mantra he is installed in the maNDala middle of the
 maNDala.
 
 For performing the yogeshvara sAdhana, the ritualist then meditates on
 one of the ShaDakSharI-s: “OM vachadbhuve namaH (as stated above)” or
-“OM bhuve namaH svAhA” or if he has learned the atharvaNa shruti  “OM
+“OM bhuve namaH svAhA” or if he has learned the atharvaNa shruti “OM
 svachChandAya svAhA” or the sadyojAta mantra in its kaumAra form.
 
 Footnote 1: This is the oldest surviving system of the mAtR^ikA-s. They
@@ -92,8 +98,8 @@ saumyA (N); raudrI (NE); vAyavI (NW); AgneyI(SE); SW(kauberI); brAhmI
 except that it has nirR^itti in the SW.
 
 Footnote 2:  
-vR^ikSha-chatvara-vAsinyash-chatuShpatha niketanAH |  
-guhA shmashAna-vAsinyaH shaila-prasravaNAlayAH ||  
+vR^ikSha-chatvara-vAsinyash-chatuShpatha niketanAH \|  
+guhA shmashAna-vAsinyaH shaila-prasravaNAlayAH \|\|  
 devI kula-s:  
 prAkAra 1  
 001)prabhAvatI; 002)vishAlAkShI; 003)palitA; 004)gonasI; 005)shrImatI;
@@ -159,3 +165,4 @@ prAkAra 13
 185)supratiShThA; 186)rochamAnA; 187)surochanA; 188)gokarNI;
 189)sukarNI; 190)sasirA; 191)stherikA; 192)ekachakrA; 193)megha-ravA;
 194)meghamAlA; 195)virochanA;
+

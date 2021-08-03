@@ -1,8 +1,11 @@
 +++
-title = "Reincarnation Amidst The Ruins – The Still-Living Shaivite Saliency At Prambanan, An Eastern Bastion Of The Hindu Faith [Incredible Indo-European Holy Sites Series Partxa0IV]"
-date = "March 24, 2021"
+title = "Reincarnation Amidst The Ruins – The Still-Living Shaivite Saliency At Prambanan, An Eastern Bastion Of The Hindu Faith [Incredible Indo-European Holy Sites Series Part IV]"
+date = "2021-03-24"
+upstream_url = "https://aryaakasha.com/2021/03/24/reincarnation-amidst-the-ruins-the-still-living-shaivite-saliency-at-prambanan-an-eastern-bastion-of-the-hindu-faith-incredible-indo-european-holy-sites-series-part-iv/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/03/24/reincarnation-amidst-the-ruins-the-still-living-shaivite-saliency-at-prambanan-an-eastern-bastion-of-the-hindu-faith-incredible-indo-european-holy-sites-series-part-iv/).
+
 
 
 ![](https://aryaakasha.files.wordpress.com/2021/03/162347763_10164953486805574_6811000596897711695_o.jpg)

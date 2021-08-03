@@ -1,7 +1,11 @@
 +++
 title = "Why has he attained eko mAnuSha Ananda ?"
+date = "2007-09-19"
+upstream_url = "https://manasataramgini.wordpress.com/2007/09/19/why-has-he-attained-eko-manusha-ananda/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/09/19/why-has-he-attained-eko-manusha-ananda/).
+
 We finally had that chance for the wonderful meeting with ekanetra and
 ST. ST said: “I think I have found one who has ekomAnuSha Ananda”. “Lead
 us to that one” we said. ST lead us to her charming friend jAyadrathi,
@@ -79,3 +83,4 @@ On the other front despite this great victory the khANDavan-s remained
 active. The unseen one who deployed that strike of the “crane” was also
 active. It was the 3rd time the strike of the crane was being deployed,
 one for each ardhasaMvatsara.
+

@@ -1,7 +1,11 @@
 +++
 title = "Armies of Islam"
+date = "2004-12-30"
+upstream_url = "https://manasataramgini.wordpress.com/2004/12/30/armies-of-islam/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/12/30/armies-of-islam/).
+
 There are some striking aspects of the different armies of Islam field
 in course of the 14 centuries of Jihad against the Kaffrs and Dhimmis.
 The first army of Islam, that of the Arabs, met with rapid somewhat
@@ -82,3 +86,4 @@ continue to infect and build up new armies for new Jihads, especially
 coupled with the rapid reproduction. The Jihad in greater India is run
 by locals infected by the meme. Europe will be an interesting situation
 to watch out for the spread of the meme.
+

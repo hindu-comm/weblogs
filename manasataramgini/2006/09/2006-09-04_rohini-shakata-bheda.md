@@ -1,13 +1,17 @@
 +++
 title = "rohiNI shakaTa bheda"
+date = "2006-09-04"
+upstream_url = "https://manasataramgini.wordpress.com/2006/09/04/rohini-shakata-bheda/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/09/04/rohini-shakata-bheda/).
+
 The [rohiNI
 shakaTa](https://manasataramgini.wordpress.com/2003/08/17/rohinis-cart/)
 bheda is a peculiar conjunction mentioned repeatedly in Hindu astronomy.
 It is technically defined in the sUrya-siddhAnta (8.13) thus:  
-vR^iShe saptadashe bhAge yasya yAmyo .aMshakadvayAt |  
-vikShepo .abhyadhiko bhindyAd rohiNyAH shakaTaM tu saH ||  
+vR^iShe saptadashe bhAge yasya yAmyo .aMshakadvayAt \|  
+vikShepo .abhyadhiko bhindyAd rohiNyAH shakaTaM tu saH \|\|  
 In the constellation of vR^iSha (Taurus), at 17th degree, a planet of
 which the latitude is a little more than 2 degrees, south, will split
 the cart of rohiNI.
@@ -72,3 +76,4 @@ Thus, the contention of von Dechend and de Santillana regarding
 preservation of astronomical knowledge in the language of myth over
 great stretches of time seems to be supported by Hindu astronomical
 observations.
+

@@ -1,8 +1,11 @@
 +++
-title = "ON THE INDO-EUROPEAN TYPOLOGY OF IOLAUS – THIRD DRAGONSLAYERxa0 Part Three – Academics And Anaryas : The Wrongful Reconstruction Of Thexa0Myth"
-date = "October 15, 2020"
+title = "ON THE INDO-EUROPEAN TYPOLOGY OF IOLAUS – THIRD DRAGONSLAYER  Part Three – Academics And Anaryas : The Wrongful Reconstruction Of The Myth"
+date = "2020-10-15"
+upstream_url = "https://aryaakasha.com/2020/10/15/on-the-indo-european-typology-of-iolaus-third-dragonslayer-part-three-academics-and-anaryas-the-wrongful-reconstruction-of-the-myth/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/10/15/on-the-indo-european-typology-of-iolaus-third-dragonslayer-part-three-academics-and-anaryas-the-wrongful-reconstruction-of-the-myth/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/10/cpr9vfpwgauvh3c.jpg?w=1024)
 
 Amongst the Zoroastrians, the dragon-slayer is known as Fereydun, or

@@ -1,8 +1,11 @@
 +++
-title = "The sixteen names of Durgā and their explanations(from the 57th adhyaya of the Brahmavaivartaxa0Purāṇa)"
+title = "The sixteen names of Durgā and their explanations(from the 57th adhyaya of the Brahmavaivarta Purāṇa)"
 date = "2020-06-27"
+upstream_url = "https://padmavajra.net/2020/06/27/the-sixteen-names-of-durga-and-their-explanationsfrom-the-57th-adhyaya-of-the-brahmavaivarta-pura%e1%b9%87a/"
 
 +++
+Source: [here](https://padmavajra.net/2020/06/27/the-sixteen-names-of-durga-and-their-explanationsfrom-the-57th-adhyaya-of-the-brahmavaivarta-pura%e1%b9%87a/).
+
 
 
 ![](https://padmavajrablog.files.wordpress.com/2019/10/jagaddhatri_shantipur.jpg?w=739)

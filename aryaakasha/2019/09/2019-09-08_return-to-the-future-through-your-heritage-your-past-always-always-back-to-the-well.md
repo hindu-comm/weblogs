@@ -1,8 +1,11 @@
 +++
-title = "Return To The Future Through Your Heritage, Your Past – Always, Always Back To Thexa0Well"
-date = "September 8, 2019"
+title = "Return To The Future Through Your Heritage, Your Past – Always, Always Back To The Well"
+date = "2019-09-08"
+upstream_url = "https://aryaakasha.com/2019/09/08/return-to-the-future-through-your-heritage-your-past-always-always-back-to-the-well/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/09/08/return-to-the-future-through-your-heritage-your-past-always-always-back-to-the-well/).
+
 
 
 ![70382494_10162239856855574_447720490585292800_n](https://aryaakasha.files.wordpress.com/2019/09/70382494_10162239856855574_447720490585292800_n.jpg?w=676)

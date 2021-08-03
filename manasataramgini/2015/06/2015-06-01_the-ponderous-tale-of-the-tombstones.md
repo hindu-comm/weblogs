@@ -1,7 +1,11 @@
 +++
 title = "The ponderous tale of the tombstones"
+date = "2015-06-01"
+upstream_url = "https://manasataramgini.wordpress.com/2015/06/01/the-ponderous-tale-of-the-tombstones/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/06/01/the-ponderous-tale-of-the-tombstones/).
+
 “Since you are recording the diverse Vaidruma-s would you record the
 tombstone variation? While other matters like the sloths of South
 America, the megalithic culture of India, cave paintings, or even WW2
@@ -56,7 +60,7 @@ of the trees, hidden from sight by the bushes. Then she pointed to the
 wall and told her companion that they needed to climb over to the other
 side.
 
-Nikhila was horrified: “Lootika what do you mean\! I believe this is the
+Nikhila was horrified: “Lootika what do you mean! I believe this is the
 wall of the old cemetery. I am just too scared to do this – there could
 be bhūta-s, preta-s, and what not. Moreover, we are girls from proper
 families and it would be really wrong for us to go into such shady
@@ -65,8 +69,8 @@ Lootika smiled and said: “Don’t worry. I have worked this out well. This
 spot is rarely frequented by anyone, there are no guards for it is an
 abandoned cemetery, and this section is known to only few of us. We can
 get two of the types of our seeds inside there.”  
-Nikhila: “No, No\! This does not look right. We should not go in just
-for the seeds. I am scared of bhūta-s.”  
+Nikhila: “No, No! This does not look right. We should not go in just for
+the seeds. I am scared of bhūta-s.”  
 Lootika: “Nikhila, the living man is a much greater threat to life and
 limb than the dead one. But fortunately for us most living men are
 afraid of the dead ones making this place one of the safer hangouts for
@@ -87,9 +91,9 @@ held Lootika’s hand in fear. Lootika explained to her: “The region was
 once the cemetery land of the liṅgavanta-s. After the English conquest
 of our land the tyrants took over the cemetery and usurped the still
 available land for use by them, the Anglo-Indians, and the
-śavārādhaka-s. Of course they were all segregated as they did not
-want the dark-skinned native śavārādhaka-s to share a resting place next
-to that of a proper Englishman. These parts were abandoned after 1947 CE
+śavārādhaka-s. Of course they were all segregated as they did not want
+the dark-skinned native śavārādhaka-s to share a resting place next to
+that of a proper Englishman. These parts were abandoned after 1947 CE
 and over time they fell in the sights of the real estate agents who
 sought to take the land to build houses. These parts originally
 stretched from over here all the way to our classmate Vidrum’s house; in
@@ -123,8 +127,7 @@ services in the Indian mutiny…” As they read it Lootika interjected:
 delicate work is really impressive. Let me make a quick sketch of it.”
 While Nikhila was doing so she leaned forward and touched the
 latticework on the gravestone. Lootika was aghast and yelled out:
-“Nikhila\! Take your hand off it\! It could be really dangerous for
-you.”
+“Nikhila! Take your hand off it! It could be really dangerous for you.”
 
 Nikhila withdrew her hand as though she had touched a hot pan. She was
 even more terrified by the anxious look of Lootika who till then had
@@ -211,7 +214,7 @@ wakefulness. She thought she saw Somakhya, Sharvamanyu, and Vrishchika
 and that they were together operating the planchette in the cemetery.
 She remarked to herself: “I must see Nikhila tomorrow”, mentally uttered
 the ṛk of Gṛtsamada Śaunahotra to the great asura Varuṇa concluding with
-“namo asurāya pracetase vo namaḥ |” and passed into the realm of sleep.
+“namo asurāya pracetase vo namaḥ \|” and passed into the realm of sleep.
 
 So the next day she called her former classmate who in a weak voice
 expressed the great desire to see Lootika. When she reached Nikhila’s
@@ -230,11 +233,11 @@ that her sister could not be better in diagnostic deduction than her
 father by any means. She had already asked her friend about the filthy
 roadside eateries, cysticerci, tick bites, even syphilis and the like.
 She was reminded of the vātaroga of the medieval brāhmaṇa, Nārāyaṇa
-Bhaṭṭātiri, from the Cera country. But her friend had even shut off
-that avenue as she said that even two difficult trips to Tirumala and
-Puṣkara-tīrtha had yielded not even a smidgen of an improvement. On
-top of it Nikhila feebly remarked that she had already seen more than
-one great physician and also Lootika’s own father.
+Bhaṭṭātiri, from the Cera country. But her friend had even shut off that
+avenue as she said that even two difficult trips to Tirumala and
+Puṣkara-tīrtha had yielded not even a smidgen of an improvement. On top
+of it Nikhila feebly remarked that she had already seen more than one
+great physician and also Lootika’s own father.
 
 With not even a glimmer of a meaningful lead and those assailing
 thoughts swirling about in her head Lootika got up and started pacing
@@ -253,9 +256,9 @@ carvings that form the main aspect of the picture. I really did not feel
 like telling that to anyone for they could think I am crazy.” Lootika
 whistled in satisfaction and muttered a barely audible incantation
 invoking the eight mātṛkā-s, śabdarāśi-bhairava, and parā. Nikhila:
-“What’s that?” Lootika: “Nikhila, you must get rid of this picture
-right away. I will be calling my old Sanskrit teacher to ask her husband
-to take this away to the collections of the College of Archaeology.”
+“What’s that?” Lootika: “Nikhila, you must get rid of this picture right
+away. I will be calling my old Sanskrit teacher to ask her husband to
+take this away to the collections of the College of Archaeology.”
 Nikhila: “What do you mean?” Lootika: “There are certain things I cannot
 explain. But if you wish return to the world of the living and further
 yourself do as I say.” Her friend always had a certain awe and respect
@@ -269,22 +272,22 @@ awakens the mantra-s. Thus, she experienced the great vidyā-s believed
 to be transmitted by Rāmo Bhārgava. Then after offering that most secret
 tarpaṇa to the eight mātṛkā-s she arose to return. She came back
 performing Huḍukkāra while she entered her house as an act of pleasing
-the Bhairava. Her mother sharply chided her: “Lootika\! Now what is
-wrong with you? Why are you making these undignified, unwomanly clicks
-with you tongue like a kāpālikā?” Lootika: “Never mind, let Śiva be
-pleased.” Her mother said: “You seem in a rather merry mood, did you see
-Nikhila at all? Her case is tragic indeed\!” Lootika: “Yes, I did. There
-is no need to fear, I am pretty certain she will soon be fine. But I
-wanted to ask you something. Would you know anything more of the
-skeletons or the gravestones they unearthed at Vidrum’s place. Her
-mother responded: “I am surprised by what you say. But why the concern
-about Vidrum’s house. As you know well they got that land for cheap
-because it was a part of the cemetery. It is not entirely surprising
-that they found such things. But I think they said they were British era
-tombstones.” Lootika: “Good to know that.” Her mother was a bit puzzled
-by her mood and statements and asked: “What is all this – you seem to be
-hiding something from me?” Lootika: “Don’t worry. Will tell you more
-when all pieces fall in place.”
+the Bhairava. Her mother sharply chided her: “Lootika! Now what is wrong
+with you? Why are you making these undignified, unwomanly clicks with
+you tongue like a kāpālikā?” Lootika: “Never mind, let Śiva be pleased.”
+Her mother said: “You seem in a rather merry mood, did you see Nikhila
+at all? Her case is tragic indeed!” Lootika: “Yes, I did. There is no
+need to fear, I am pretty certain she will soon be fine. But I wanted to
+ask you something. Would you know anything more of the skeletons or the
+gravestones they unearthed at Vidrum’s place. Her mother responded: “I
+am surprised by what you say. But why the concern about Vidrum’s house.
+As you know well they got that land for cheap because it was a part of
+the cemetery. It is not entirely surprising that they found such things.
+But I think they said they were British era tombstones.” Lootika: “Good
+to know that.” Her mother was a bit puzzled by her mood and statements
+and asked: “What is all this – you seem to be hiding something from me?”
+Lootika: “Don’t worry. Will tell you more when all pieces fall in
+place.”
 
 ◊◊◊◊◊◊◊
 
@@ -306,15 +309,15 @@ the final three mātṛ-s. Since they were performers of vaidika rites they
 then offered an oblation to the great goddess parā-sarasvatī with the
 mantra of Śaunaka Bhārgava:  
 oṃ aiṃ hrīṃ sarasvati tvam asmāṃ aviḍḍhi marutvatī dhṛṣatī jeṣi śatrūn
-svāhā || They visualized parā-sarasvatī in her warrior form holding a
+svāhā \|\| They visualized parā-sarasvatī in her warrior form holding a
 trident and a spear as she accompanied the great Indra and the sons of
 Rudra who had set forth to slaughter the dānava ritualists known as the
 Śaṇḍika-s. Then they made the final offering to the Soma-drinking Rudra
 surrounded by his gaṇa-s, as done by the kāpālika-s with the mantra:  
 oṃ hsauṃ hskhphreṃ śūragrāmaḥ sarva-vīraḥ sahāvāñ  
-jetā pavasva sanitā dhanāni |  
+jetā pavasva sanitā dhanāni \|  
 tigmāyudhaḥ kṣipradhanvā samatsv  
-aṣāḷhaḥ sāhvān pṛtanāsu śatrūn svāhā ||
+aṣāḷhaḥ sāhvān pṛtanāsu śatrūn svāhā \|\|
 
 Then they remained silent gazing at the ritual fire meditating on 16
 vowels combined with ghora-ghoratarebhyo namaḥ. After a while they
@@ -382,24 +385,24 @@ Exhausted by the day’s activities Somakhya and Lootika fell right away
 asleep on their mats in their fire room. It was perhaps about two hours
 into their sleep when Lootika suddenly awoke screaming: “Was that a
 dream or something worse. Where is he?” Somakhya woke up hearing her
-screams and said: “siddhakāṣṭhena pretikam ucchāṭaya\!” But Lootika
-could not find her wand. So she got up and started running towards their
-home lab where it lay in her backpack. But as she tried to do so she
-uttered a cry and fell to the ground. By then Somakhya had drawn his own
-wand from behind his pillow and uttering an incantation to the goddess
-known as Mohanī pointed it at the pretika terminating the incantation
-with the formula: “bandhaya bandhaya huṃ ceṭakaṃ bhava huṃ phaṭ |”
-Drawing the pretika now bound as a ceṭaka he led it into the iron pot
-which Vidrum had gifted Lootika earlier. He then held the wand in his
-mouth and gingerly lifted the pot with the two handles and placed it in
-a sacristy behind the deva-gṛha. Picking up his kamaṇḍalu he sprinkled
-water on his strī and Lootika slowly got up but still looked dazed. He
-looked at her closely and found that she bore a bleeding cut on her left
-hand. He mopped up her wound and bandaged it, and then led her back to
-her mat and placed her on it. She found herself still in a haze and kept
-asking: “Has he gone?”. Somakhya pointed his wand at her with an
-incantation to the goddess Cakravegā ending with the formula jṛmbhasva
-prasvapihi huṃ phaṭ and Lootika instantly settled into a deep sleep.
+screams and said: “siddhakāṣṭhena pretikam ucchāṭaya!” But Lootika could
+not find her wand. So she got up and started running towards their home
+lab where it lay in her backpack. But as she tried to do so she uttered
+a cry and fell to the ground. By then Somakhya had drawn his own wand
+from behind his pillow and uttering an incantation to the goddess known
+as Mohanī pointed it at the pretika terminating the incantation with the
+formula: “bandhaya bandhaya huṃ ceṭakaṃ bhava huṃ phaṭ \|” Drawing the
+pretika now bound as a ceṭaka he led it into the iron pot which Vidrum
+had gifted Lootika earlier. He then held the wand in his mouth and
+gingerly lifted the pot with the two handles and placed it in a sacristy
+behind the deva-gṛha. Picking up his kamaṇḍalu he sprinkled water on his
+strī and Lootika slowly got up but still looked dazed. He looked at her
+closely and found that she bore a bleeding cut on her left hand. He
+mopped up her wound and bandaged it, and then led her back to her mat
+and placed her on it. She found herself still in a haze and kept asking:
+“Has he gone?”. Somakhya pointed his wand at her with an incantation to
+the goddess Cakravegā ending with the formula jṛmbhasva prasvapihi huṃ
+phaṭ and Lootika instantly settled into a deep sleep.
 
 The next morning Somakhya wandered in while Lootika was cooking food for
 the day. He silently siddled up beside Lootika and checked out her left
@@ -530,11 +533,11 @@ charity we don’t expect to be paid back by the recipient. So I don’t
 need to be paid back by your clemency. Your men were killed for invading
 āryāvarta. I let you and your woman live because an ārya grants abhaya
 to those who seek refuge with him. But remember when mleccha-s occupy
-āryāvarta we will not cease to resist them until we have extirpated
-them from our land.’ I promptly bayoneted the ungrateful wretch. His
-wife who was with him drowned herself by jumping into the Ganges. It was
-then that I made up my mind to root out the heathenism, which was the
-cause of the evil among the Hindoos.
+āryāvarta we will not cease to resist them until we have extirpated them
+from our land.’ I promptly bayoneted the ungrateful wretch. His wife who
+was with him drowned herself by jumping into the Ganges. It was then
+that I made up my mind to root out the heathenism, which was the cause
+of the evil among the Hindoos.
 
 Accordingly, I set out with Lieutenant Benson to pillage the chapel of
 Baphometh where the pagan priest Caundrasekaur had officiated. Finders
@@ -591,7 +594,7 @@ control the whole western hemisphere. From Australia and New Zealand we
 control the southern hemisphere. From England we control Europe. But
 there is a lacuna in Asia, which arose after we lost India. We knew that
 the Mahometans have always sought world-conquest like us. I must confess
-that sometimes I do feel that Mahomet’s religion is perhaps the very
+that sometimes I do feel thatMahomet’s religion is perhaps the very
 word of God in practice. We knew that if we could lure the Mahometans to
 make common cause with us then we could start all over again to get the
 sub-continent back in our control. We had won before using the perimeter
@@ -647,3 +650,4 @@ and your children will perish.”
 He then tried to leap forth from the pot. We silenced him with our
 kamaṇḍalu prayoga and placed him in a bottle and buried it under a
 vibhītaka tree.
+

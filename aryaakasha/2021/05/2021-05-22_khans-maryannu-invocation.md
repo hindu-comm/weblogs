@@ -1,8 +1,11 @@
 +++
 title = "Khan’s Maryannu Invocation"
-date = "May 22, 2021"
+date = "2021-05-22"
+upstream_url = "https://aryaakasha.com/2021/05/22/khans-maryannu-invocation/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/05/22/khans-maryannu-invocation/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/05/190236105_328032042018193_8790053721090880087_n.jpg?w=531)
 
 For context, this man is a prominent geneticist frequently commenting on

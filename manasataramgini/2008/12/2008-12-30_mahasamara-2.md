@@ -1,7 +1,11 @@
 +++
 title = "mahAsamara-2"
+date = "2008-12-30"
+upstream_url = "https://manasataramgini.wordpress.com/2008/12/30/mahasamara-2/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/12/30/mahasamara-2/).
+
 Update (30-31 Dec): The ari-dala sent a huge force on the sachiva with
 all their commanders to taking to the field leading their respective
 divisions. On us they deployed abhichAra to keep us knotted. We sent the
@@ -70,3 +74,4 @@ advanced towards that in the late autumn of 2008 with his dUtI aiding
 him with magic. We were just then attacked by both the grAhin and the
 AtatAyin and were unable to even hold the territory which was ours.
 Instead we found ourselves running without even a fort to protect us.
+

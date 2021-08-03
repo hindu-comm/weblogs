@@ -1,8 +1,11 @@
 +++
-title = "Musings on a Germanicxa0Hermes"
-date = "November 15, 2019"
+title = "Musings on a Germanic Hermes"
+date = "2019-11-15"
+upstream_url = "https://aryaakasha.com/2019/11/15/musings-on-a-germanic-hermes/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/11/15/musings-on-a-germanic-hermes/).
+
 I have often mused that despite sometimes being rather shallow and
 limited, almost an afterthought, Interpretatio Romana can indeed be
 sometimes rather insightful.

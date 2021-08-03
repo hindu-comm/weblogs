@@ -1,7 +1,11 @@
 +++
 title = "Ape and monkey"
+date = "2013-05-16"
+upstream_url = "https://manasataramgini.wordpress.com/2013/05/16/ape-and-monkey/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/05/16/ape-and-monkey/).
+
 \*For the purposes of this note the word ape means all animals closer to
 or within the clade containing the gibbon and man than to the clade
 containing the langur and the macaque. Monkey means all animals closer
@@ -119,3 +123,4 @@ great apes first emerged in Africa or in Asia and then moved back to
 Africa. Indeed, forms like the highly derived European Oreopithecus show
 that there was much evolutionary “experimentation” among the apes in the
 last 25 Myr.
+

@@ -1,7 +1,11 @@
 +++
 title = "Some wild geo-political speculation."
+date = "2006-11-07"
+upstream_url = "https://manasataramgini.wordpress.com/2006/11/07/some-wild-geo-political-speculation/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/11/07/some-wild-geo-political-speculation/).
+
 I heard that a learned American political theorist had pronounced a
 political theory a brand of realism that is summed thus:  
 “Given the difficulty of determining how much power is enough for today
@@ -56,3 +60,4 @@ letting Nepal become a Maoist state from a Hindu monarchy, or letting
 Bangladesh bloom into a Taliban-like poison-creeper or letting TSP of
 the hook for terrorism are only going to give China more strings to keep
 the Indian puppet dancing to its tune.
+

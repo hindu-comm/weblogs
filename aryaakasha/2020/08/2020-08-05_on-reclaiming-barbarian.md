@@ -1,8 +1,11 @@
 +++
 title = "On Reclaiming ‘Barbarian’"
-date = "August 5, 2020"
+date = "2020-08-05"
+upstream_url = "https://aryaakasha.com/2020/08/05/on-reclaiming-barbarian/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/08/05/on-reclaiming-barbarian/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/08/653eae3f2b119d986b5d2f296bef3401.jpg?w=563)
 
 The time has come, I think, to ‘reclaim’ the term “Barbarian”.

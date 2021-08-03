@@ -1,8 +1,11 @@
 +++
-title = "Witzel On The Essential Coterminities Of Vedic And Later Hinduxa0Religion"
-date = "November 20, 2020"
+title = "Witzel On The Essential Coterminities Of Vedic And Later Hindu Religion"
+date = "2020-11-20"
+upstream_url = "https://aryaakasha.com/2020/11/20/witzel-on-the-essential-coterminities-of-vedic-and-later-hindu-religion/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/11/20/witzel-on-the-essential-coterminities-of-vedic-and-later-hindu-religion/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/11/28464114448_2a0929b471_k.jpg?w=1024)
 
 Something I have often shouted in the course of my work is the fact that

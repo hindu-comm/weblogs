@@ -1,7 +1,11 @@
 +++
 title = "The Rāmāyaṇa and a para-Rāmāyaṇa in numbers-II: Evolving early Indo-Aryan warfare"
+date = "2017-07-16"
+upstream_url = "https://manasataramgini.wordpress.com/2017/07/16/the-ramaya%e1%b9%87a-and-a-para-ramaya%e1%b9%87a-in-numbers-ii-evolving-early-indo-aryan-warfare/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2017/07/16/the-ramaya%e1%b9%87a-and-a-para-ramaya%e1%b9%87a-in-numbers-ii-evolving-early-indo-aryan-warfare/).
+
 This article might be read in as a continuation of [this earlier
 one](https://manasataramgini.wordpress.com/2017/02/12/the-ramaya%e1%b9%87a-and-a-para-ramaya%e1%b9%87a-in-numbers-i-epic-as-religion/).
 The methods/caveats mentioned therein apply here too. Some of the counts
@@ -36,7 +40,7 @@ pṛtanā, battle (97); śatru, enemy (98); different kinds of weapons
 specific or generic (278). This count of weapons excludes the weapons
 used by the gods like vajra, didyu and the like.
 
-![RV\_weapons](https://manasataramgini.files.wordpress.com/2017/07/rv_weapons.png?w=640)  
+![RV_weapons](https://manasataramgini.files.wordpress.com/2017/07/rv_weapons.png?w=640)  
 Figure 1
 
 In order to understand early Indo-Aryan warfare we need a closer look at
@@ -63,12 +67,12 @@ combined with poison. The horn arrow heads were lashed to the shafts
 with leather strips.
 
 After bows and arrows, the next most frequently mentioned weapon is the
-ṛṣṭi, a lance that was primarily used for jabbing. It seems to have
-been transferred to Dravidian as īṭī. The śakti was a comparable weapon
-which was hurled but it is rather infrequent in the RV. Then two types
-of axes are mentioned the vāśī and the paraśu. The vāśī has been a bit
-of a mystery. Recently, Finnish indologist Asko Parpola, otherwise known
-for some outrageous theories on Indian prehistory, proposed rather
+ṛṣṭi, a lance that was primarily used for jabbing. It seems to have been
+transferred to Dravidian as īṭī. The śakti was a comparable weapon which
+was hurled but it is rather infrequent in the RV. Then two types of axes
+are mentioned the vāśī and the paraśu. The vāśī has been a bit of a
+mystery. Recently, Finnish indologist Asko Parpola, otherwise known for
+some outrageous theories on Indian prehistory, proposed rather
 reasonably that it might be identified with a related set of weapons
 found at Mohenjo-daro in the Indus valley, Tepe Hissar III in Iran and
 Zeravshan in Central Asia. He also notes that the word was transmitted
@@ -149,7 +153,7 @@ warriors in the RV). However, when we look at the actual weapons listed
 in the Rāmāyaṇa we note the emergence several distinctive new features
 (Figure 2).
 
-![weapons\_rAmAyaNa](https://manasataramgini.files.wordpress.com/2017/07/weapons_ramayana.png?w=640)  
+![weapons_rAmAyaNa](https://manasataramgini.files.wordpress.com/2017/07/weapons_ramayana.png?w=640)  
 Figure 2
 
 The conservative element of warfare in India and greater Iran is
@@ -178,10 +182,10 @@ and were trying to render it as closely as possible in Sanskrit. This
 suggests that the original word might have had a form like d-x-bhū-x-ī.
 We suspect that this was the word for bow in the naiṣāda language which
 was spoken by the people of Niśāda chiefs like Guha of R and Naḍa
-Naiṣidha (the original form of the name Nala Naiṣāda in the itihāsa)
-in the śatapatha brāhmaṇa. Memetic retentions of these early
-Aryanization events of tribals might also be seen in the survival of a
-form of the [aindra religion among the Rathva
+Naiṣidha (the original form of the name Nala Naiṣāda in the itihāsa) in
+the śatapatha brāhmaṇa. Memetic retentions of these early Aryanization
+events of tribals might also be seen in the survival of a form of the
+[aindra religion among the Rathva
 tribes](https://manasataramgini.wordpress.com/2004/07/16/rathva-tribe-surprising-survival-of-vedic-traits/).
 Indeed, the tribal groups with good archery skills might have been quick
 to Aryanize as those skills provided them with military employment in
@@ -227,10 +231,10 @@ The old lasso (pāśa) still remains prominent and so does the battle axe
 (paraśu; also paraśvadha) but the vāśī has entirely become otiose. A
 notable change from the RV in the R is the rise of prominence of the
 sword now going by at least 3 unambiguous names asi, khaḍga, and
-nistriṃśa. The sword is used prominently in the conflicts described
-in the text and there is no doubt it was rising in importance as a
-weapon. Yet it is clear that it has not attained that exalted position
-it is accorded in the [ākhyāna of the sword seen in the
+nistriṃśa. The sword is used prominently in the conflicts described in
+the text and there is no doubt it was rising in importance as a weapon.
+Yet it is clear that it has not attained that exalted position it is
+accorded in the [ākhyāna of the sword seen in the
 Mahābārata](https://manasataramgini.wordpress.com/2004/09/16/the-sword/).
 Importantly, together with the sword we see the leather shield (carma),
 which indicates the classic mode of Indian sword combat involving
@@ -310,8 +314,8 @@ fortifications right from the Rāmāyaṇa. Further, they are conceived of
 being of large size as trees. For e.g. in the battle fought by Kumbha
 the son of Kumbhakarṇa we hear:
 
-abhilakṣyeṇa tīvreṇa kumbhena niśitaiḥ śaraiḥ |  
-ācitās te drumā rejur yathā ghorāḥ śataghnayaḥ || R 6.63.33
+abhilakṣyeṇa tīvreṇa kumbhena niśitaiḥ śaraiḥ \|  
+ācitās te drumā rejur yathā ghorāḥ śataghnayaḥ \|\| R 6.63.33
 (“critical”)  
 The trees (hurled by the ape Sugrīva) studded by the sharp arrows aimed
 and shot by Kumbha shone like terrible śataghni-s.
@@ -364,32 +368,32 @@ observe faint linguistic echoes of this in the form of the precariously
 poised Kalasha who were distinct branch within the Indo-Iranian clade.
 The kentum substratum in Bangani hints at other such more distant waves.
 Finally, philological evidence in the form the śalva-s and the
-Pāṇḍava-s, and the rise of the kaumāra religion also indicate that
-the Ṛgveda ārya-s where not the only Indo-Aryan group to invade India.
-There were others that followed which, while Indo-Aryan, appear to have
-likely retained a closer proximity to the Iranic branch. A legendary
-motif also supports such a link: The greatest hero of the old
-Zoroastrian tradition in the Avesta was Keresāspa who likely had a high
-position even in the greater Iranic world. He was a warrior priest
-associated with what it is today Afghanistan who is said to have killed
-a gigantic Śuśna-like demon as well as the gandarewa (Iranic cognate of
-gandharva). Notably, his Indo-Aryan cognate Kṛśāśva does not appear in
-the Veda which is temporally closer to the Avesta. However, he appears
-in Rāmāyaṇa as a major even if only fleetingly mentioned figure. In the
-R he is described as the father of all weapons which he gave to
-Viśvāmitra who in turn gave them to Rāma. Interestingly, on the
-Iranian side too Keresāspa possesses special mighty weapons. Later
-Iranian tradition remembers their mighty hero Raosta-takhma (later
-Iranian Rostam/Rustam) receiving the weapons of Keresāspa with which he
-performs great deeds even as Rāma in India. We posit that this motif was
-carried by a secondary wave of Indo-Iranians entering India after the
-earlier ārya-s of the RV. It is the military influence of these later
-waves that likely caused the dominance of the use of śara over iṣu and
-also made the gadā a prominent weapon (incidentally also the favored
-weapon of Keresāspa). It is of interest to see if molecular evidence
-from ancient DNA might in anyway corroborate the multiple invasion
-model. In the least it does place support in favor of a relatively early
-entry of the first Vaidika ārya-s into India.
+Pāṇḍava-s, and the rise of the kaumāra religion also indicate that the
+Ṛgveda ārya-s where not the only Indo-Aryan group to invade India. There
+were others that followed which, while Indo-Aryan, appear to have likely
+retained a closer proximity to the Iranic branch. A legendary motif also
+supports such a link: The greatest hero of the old Zoroastrian tradition
+in the Avesta was Keresāspa who likely had a high position even in the
+greater Iranic world. He was a warrior priest associated with what it is
+today Afghanistan who is said to have killed a gigantic Śuśna-like demon
+as well as the gandarewa (Iranic cognate of gandharva). Notably, his
+Indo-Aryan cognate Kṛśāśva does not appear in the Veda which is
+temporally closer to the Avesta. However, he appears in Rāmāyaṇa as a
+major even if only fleetingly mentioned figure. In the R he is described
+as the father of all weapons which he gave to Viśvāmitra who in turn
+gave them to Rāma. Interestingly, on the Iranian side too Keresāspa
+possesses special mighty weapons. Later Iranian tradition remembers
+their mighty hero Raosta-takhma (later Iranian Rostam/Rustam) receiving
+the weapons of Keresāspa with which he performs great deeds even as Rāma
+in India. We posit that this motif was carried by a secondary wave of
+Indo-Iranians entering India after the earlier ārya-s of the RV. It is
+the military influence of these later waves that likely caused the
+dominance of the use of śara over iṣu and also made the gadā a prominent
+weapon (incidentally also the favored weapon of Keresāspa). It is of
+interest to see if molecular evidence from ancient DNA might in anyway
+corroborate the multiple invasion model. In the least it does place
+support in favor of a relatively early entry of the first Vaidika ārya-s
+into India.
 
 Lastly, we may note that, like with agricultural terms, there is hardly
 any evidence for loans from early Dravidian into early Indo-Aryan.
@@ -408,3 +412,4 @@ unlike the original SSV peoples. However, this is necessarily an
 indirect inference because the Dravidian sources themselves are of much
 later provenance in the form of the earliest Tamil poems like the
 Puranānūru.
+

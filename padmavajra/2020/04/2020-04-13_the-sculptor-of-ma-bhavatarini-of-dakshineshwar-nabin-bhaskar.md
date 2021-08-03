@@ -1,8 +1,11 @@
 +++
-title = "The sculptor of Ma Bhavatarini of Dakshineshwar : Nabinxa0Bhaskar"
+title = "The sculptor of Ma Bhavatarini of Dakshineshwar : Nabin Bhaskar"
 date = "2020-04-13"
+upstream_url = "https://padmavajra.net/2020/04/13/the-sculptor-of-ma-bhavatarini-of-dakshineshwar-nabin-bhaskar/"
 
 +++
+Source: [here](https://padmavajra.net/2020/04/13/the-sculptor-of-ma-bhavatarini-of-dakshineshwar-nabin-bhaskar/).
+
 Translating [Ranadeb Mukherjee’s
 post](https://www.facebook.com/story.php?story_fbid=1704395026261614&id=100000733981836&ref=m_notif&notif_t=feedback_reaction_generic)
 

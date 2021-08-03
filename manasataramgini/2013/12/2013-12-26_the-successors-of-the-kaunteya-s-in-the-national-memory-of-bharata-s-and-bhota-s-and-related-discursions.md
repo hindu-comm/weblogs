@@ -1,7 +1,11 @@
 +++
 title = "The successors of the kaunteya-s in the national memory of bhArata-s and bhoTa-s and related discursions"
+date = "2013-12-26"
+upstream_url = "https://manasataramgini.wordpress.com/2013/12/26/the-successors-of-the-kaunteya-s-in-the-national-memory-of-bharata-s-and-bhota-s-and-related-discursions/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/12/26/the-successors-of-the-kaunteya-s-in-the-national-memory-of-bharata-s-and-bhota-s-and-related-discursions/).
+
 [![](https://lh6.googleusercontent.com/-poL9YmtTfgs/Uru9g_7rdSI/AAAAAAAACzY/6JeMO_NO2VY/s640/pandavas.jpg)](https://picasaweb.google.com/lh/photo/9CJ5Vhx1oEWbxbYLqklAlNMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
 As per the mahAbharata, the great war on the kuru field came to a
@@ -35,11 +39,11 @@ reality most certainly culturally Arya. This group was also contending
 for power in this period against the yadu-s led by kR^iShNa. [The
 pANDu-s coming from the Iranian border zone appear to have subsequently
 emerged as key
-players](https://manasataramgini.wordpress.com/2006/05/04/the-mystery-of-the-pandava-s/ "The mystery of the pANDava-s").
+players](https://manasataramgini.wordpress.com/2006/05/04/the-mystery-of-the-pandava-s/ "The mystery of thepANDava-s").
 Initially they allied with the yadu-s to gain territory from the nAga-s.
 This sparked off a long standing feud between the latter and the pANDu-s
 with some nAga groups allying themselves to the pANDu-s and other
-fiercely opposing them. Subsequently, the pANDu alliance destroyed the
+fiercely opposing them. Subsequently, thepANDu alliancedestroyed the
 surviving kuru power in alliance with the remnants of the pa\~nchAla-s
 and the yadu-s. Finally they placed themselves as rulers after
 completing the destruction of the nAga power. Their joint queen draupadI
@@ -76,7 +80,7 @@ till the times of udayana and later the revival of magadhan imperialism
 \[consistent with the concluding statements of the bhArata where several
 city states are established in the aftermath of the pANDu reign\].
 
-\-۩۞۩-۩۞۩-۩۞۩-
+-۩۞۩-۩۞۩-۩۞۩-
 
 [![](https://lh4.googleusercontent.com/-OXEtQs7ryPI/Uru_s50ZILI/AAAAAAAACzo/CvlybpDspf8/s640/Zong_Song.jpg)](https://picasaweb.google.com/lh/photo/MTTCmVLqcIYEg6eE0O7vr9MTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
@@ -241,7 +245,7 @@ Trisong Detsen as the dharmarAjan.
 
 [![](https://lh5.googleusercontent.com/--Jytn0V0X1s/Uru_s0Sa5II/AAAAAAAACzs/ly3Qg28R_e4/s640/trisong_padma.jpg)](https://picasaweb.google.com/lh/photo/vK92MGAjkBZHxvv0jf6iotMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
-\-۩۞۩-۩۞۩-۩۞۩-
+-۩۞۩-۩۞۩-۩۞۩-
 
 It is in the origin legend of this line of Tibetan tsenpo-s of the
 Yar-lung dynasty that we encounter the kaunteya-s and other mahAbharata
@@ -301,7 +305,7 @@ learned to wear clothes and speak. Thus, they became the Tibetans. Some,
 took after the rAkShasI and were violent and lustful, while others took
 after Hilumada and were compassionate and hard-working.
 
-\-۩۞۩-۩۞۩-۩۞۩-
+-۩۞۩-۩۞۩-۩۞۩-
 
 The general thinking has been that these Indic motifs represent a
 passage by phoresis of material along with the bauddha textual corpus.
@@ -335,14 +339,14 @@ who sent their armies to prop up vijayavarman in Khotan and repulse the
 Tibetans in the 670s. In the vimalaprabhA-paripR^ichCha the tathAgata is
 described as stating that the Tibetans wish to destroy the
 bauddha-dharma. Interestingly, their war cry from those times, which
-survives to date, was “ki ki so so lha gyalo\!” meaning “May the deva-s
-be victorious\!” – this again suggests that they were worshiping
-multiple deva-s rather than the tathAgata at that point. As we have
-noted before, prior the bauddha-mata there was the Bön and this
-religious layer already contains a flavor of Indic transmission from
-Astika traditions. Here, it is interesting to note the homology of the
-rudra and chaNDikA with the guardian deities of the Yarlha Shampo
-region, which again point to an earlier presence of Astika influence.
+survives to date, was “ki ki so so lha gyalo!” meaning “May the deva-s
+be victorious!” – this again suggests that they were worshiping multiple
+deva-s rather than the tathAgata at that point. As we have noted before,
+prior to the bauddha-mata there was the Bön and this religious layer
+already contains a flavor of Indic transmission from Astika traditions.
+Here, it is interesting to note the homology of the rudra and chaNDikA
+with the guardian deities of the Yarlha Shampo region, which again point
+to an earlier presence of Astika influence.
 
 The Bön layer was still very active just before Trisong Detsen: In the
 730s of CE the Tang emperor Xuanzong was alarmed by the deep conversion
@@ -362,9 +366,9 @@ not merely a retro-superposition after the bauddha-mata was established.
 The early Tibetans of history were not deeply influenced by the
 bauddha-mata and had their own endogenous polytheistic religion.
 However, this religion was [influenced by Hindu
-motifs](https://manasataramgini.wordpress.com/2011/06/26/notes-on-hayagriva-siddhi-among-the-nastika-s/ "Notes on hayagrIva siddhi among the nAstika-s")
+motifs](https://manasataramgini.wordpress.com/2011/06/26/notes-on-hayagriva-siddhi-among-the-nastika-s/ "Notes on hayagrIva siddhi among thenAstika-s")
 and remnants of such influence [can be seen in the surviving Bön
-tradition](https://manasataramgini.wordpress.com/2011/07/06/some-notes-on-the-goddess-sipe-gyalmo/ "Some notes on the goddess Sipe Gyalmo"),
+tradition](https://manasataramgini.wordpress.com/2011/07/06/some-notes-on-the-goddess-sipe-gyalmo/ "Some notes on the goddess SipeGyalmo"),
 though bauddhized. The fact that Songtsen Gampo sent Tonmi Sambhota to
 India to acquire a script and his links to narendradeva indicate that
 they already had ties with the indosphere before their conversion to the
@@ -377,3 +381,4 @@ interpretations (e.g. in the commentaries of these works). Hence, the
 spread of such motifs should not be seen as unusual. In light of this
 one cannot entirely rule out some vague memory of an Indic strand in the
 Yar-lung royalty.
+

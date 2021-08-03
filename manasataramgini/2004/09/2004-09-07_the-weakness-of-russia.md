@@ -1,7 +1,11 @@
 +++
 title = "The weakness of Russia"
+date = "2004-09-07"
+upstream_url = "https://manasataramgini.wordpress.com/2004/09/07/the-weakness-of-russia/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/09/07/the-weakness-of-russia/).
+
 The recent string of Islamic attacks and the spineless Russian response
 have shown that Russia has indeed lost its edge. In the case of India
 one can easily see how it is really a weak country and not really
@@ -14,3 +18,4 @@ resources to carry itself and it has proven itself in battle against the
 superior and ruthless army of the Nazis. Despite this Russia has thus
 far shown hardly any signs of acting decisively. To the contrary Putin
 admitted that they were weak.
+

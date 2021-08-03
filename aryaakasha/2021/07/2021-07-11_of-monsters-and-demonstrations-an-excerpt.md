@@ -1,8 +1,11 @@
 +++
-title = "Of Monsters And Demonstrations – Anxa0Excerpt"
-date = "July 11, 2021"
+title = "Of Monsters And Demonstrations – An Excerpt"
+date = "2021-07-11"
+upstream_url = "https://aryaakasha.com/2021/07/11/of-monsters-and-demonstrations-an-excerpt/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/07/11/of-monsters-and-demonstrations-an-excerpt/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/07/bsao050204800l.jpg?w=537)
 
 Monster, is from the same root as ‘Demonstrate’ – and interestingly, the

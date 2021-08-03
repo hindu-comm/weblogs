@@ -1,8 +1,11 @@
 +++
-title = "A quotation from thexa0Brahma-saṃhitā"
+title = "A quotation from the Brahma-saṃhitā"
 date = "2018-12-24"
+upstream_url = "https://padmavajra.net/2018/12/24/a-quotation-from-the-brahma-sa%e1%b9%83hita/"
 
 +++
+Source: [here](https://padmavajra.net/2018/12/24/a-quotation-from-the-brahma-sa%e1%b9%83hita/).
+
 This text does not seem to be the popular text beloved by Gauḍīya
 vaiṣṇavas,but a(presumably lost) text quoted by Parāśara Bhaṭṭar,hence
 it is of interest to me(and looking at the Catalogue edited by Sadhu

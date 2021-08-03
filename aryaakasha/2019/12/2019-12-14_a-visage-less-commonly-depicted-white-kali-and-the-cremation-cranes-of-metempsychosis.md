@@ -1,8 +1,11 @@
 +++
-title = "A visage less commonly depicted – White Kali and the Cremation Cranes ofxa0Metempsychosis"
-date = "December 14, 2019"
+title = "A visage less commonly depicted – White Kali and the Cremation Cranes of Metempsychosis"
+date = "2019-12-14"
+upstream_url = "https://aryaakasha.com/2019/12/14/a-visage-less-commonly-depicted-white-kali-and-the-cremation-cranes-of-metempsychosis/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/12/14/a-visage-less-commonly-depicted-white-kali-and-the-cremation-cranes-of-metempsychosis/).
+
 ![](https://aryaakasha.files.wordpress.com/2019/12/79328082_508878149724514_2366338723089481728_n.jpg?w=564)
 
 Now, while the unexpectedness of a White Kali is remarkable in and of

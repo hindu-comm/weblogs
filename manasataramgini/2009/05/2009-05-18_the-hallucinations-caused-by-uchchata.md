@@ -1,7 +1,11 @@
 +++
 title = "The hallucinations caused by uchchaTA"
+date = "2009-05-18"
+upstream_url = "https://manasataramgini.wordpress.com/2009/05/18/the-hallucinations-caused-by-uchchata/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/05/18/the-hallucinations-caused-by-uchchata/).
+
 The history of the rasatantra branch of the kaula system is a vast topic
 in itself with numerous texts and practitioners. We may, if we get the
 chance, provide some glimpses of this material here. The medieval shaiva
@@ -55,47 +59,47 @@ kAkachandeshvara kalpa occurs as a kalpa of the former tantra or occurs
 as a standalone copy. This text has several interesting plants of which
 one is uchchaTA
 
-rAsAyanaM pravakShyAmi yat-surair-api durlabham |  
-uchchaTetyoShadhI kAchij-jAyate pR^ithivI-tale ||
+rAsAyanaM pravakShyAmi yat-surair-api durlabhaM \|  
+uchchaTetyoShadhI kAchij-jAyate pR^ithivI-tale \|\|
 
 I will narrate the chemical preparation that is even rare amongst the
 gods. It is known as uchchaTA, which grows on the land.
 
-vartulaM parNam asyAtashcha rUpam evaM pradR^iShyate |  
-eka nAlA bhavet sA tu varNenA kR^iShNa nIlikA ||
+vartulaM parNam asyAtashcha rUpam evaM pradR^iShyate \|  
+eka nAlA bhavet sA tu varNenA kR^iShNa nIlikA \|\|
 
 It displays the following form: circular leaves, a single stalk and a
 dark bluish color.
 
-tasyAH puShpaM bhaved bhugnaM shuka-tuNda-samaprabham |  
-kandaM kUrma-pratIkAshaM tasyA lakShaNam IdR^isham ||
+tasyAH puShpaM bhaved bhugnaM shuka-tuNda-samaprabhaM \|  
+kandaM kUrma-pratIkAshaM tasyA lakShaNam IdR^ishaM \|\|
 
 It is endowed with the following features: Its flowers are drooping and
 have the color of a parrot’s beak. Its tuber is of the form of a
 tortoise
 
-uparyAruhyA tasyA apy antarikShaM nirIkShayet |  
-deva-yakSha-gaNAH sarve dR^ishyante nAtra saMshayaH ||
+uparyAruhyA tasyA apy antarikShaM nirIkShayet \|  
+deva-yakSha-gaNAH sarve dR^ishyante nAtra saMshayaH \|\|
 
 By it one can rise upwards and verily examine the sky. One can see
 without doubt all the deva-s and yakSha-s.
 
-rasash-cha dravate devi madhurash-cha visheShataH |  
-sAdR^ishyaM sarvalohAnAM sakR^il lepena yAti saH ||
+rasash-cha dravate devi madhurash-cha visheShataH \|  
+sAdR^ishyaM sarvalohAnAM sakR^il lepena yAti saH \|\|
 
 O goddess it oozes a liquid that is particularly sweet. By making a
-paste of it and using everything appears as though made of metals. Or
+paste of it and using everything appears as though made of metals.Or
 more literally, he makes everything to appear to like metal by using its
 paste.
 
-kA\~nchanaM kurute divyaM kShipraM chaiva cha vahninA |  
-maj-jayitvA\~nguliM tatra lihet taM tu sakR^it pumAn ||
+kA\~nchanaM kurute divyaM kShipraM chaiva cha vahninA \|  
+maj-jayitvA\~nguliM tatra lihet taM tu sakR^it pumAn \|\|
 
 It rapidly becomes shiny golden in color \[when heated\] by fire. A man
 must dip his finger into it and lick it.
 
-vimAnAni cha sarvANi tatra patrasthitA narAH |  
-pashyanti nAtra sandeha oShadhyAstu prabhAvataH ||
+vimAnAni cha sarvANi tatra patrasthitA narAH \|  
+pashyanti nAtra sandeha oShadhyAstu prabhAvataH \|\|
 
 All kinds of aircraft with men riding by their wings one sees without
 doubt under the influence of the drug.
@@ -107,3 +111,4 @@ at least hallucinated of being on a vimAna even if the vimAna-s like
 those of bhoja did not take off. Despite use of terms like loha and
 kA\~nchana in this kalpa I believe that the primary thrust is about its
 psychotropic effects rather than anything else.
+

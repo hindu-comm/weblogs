@@ -1,8 +1,11 @@
 +++
-title = "Hail Hydra-Slayer: On The Mythic Combat Of Herakles And Athena – Indra And Vak Saraswati, Against The Demon-Dragon Of Thexa0Water"
-date = "July 31, 2020"
+title = "Hail Hydra-Slayer: On The Mythic Combat Of Herakles And Athena – Indra And Vak Saraswati, Against The Demon-Dragon Of The Water"
+date = "2020-07-31"
+upstream_url = "https://aryaakasha.com/2020/07/31/hail-hydra-slayer-on-the-mythic-combat-of-herakles-and-athena-indra-and-vak-saraswati-against-the-demon-dragon-of-the-water/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/07/31/hail-hydra-slayer-on-the-mythic-combat-of-herakles-and-athena-indra-and-vak-saraswati-against-the-demon-dragon-of-the-water/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/07/cancer.jpg?w=652)
 
 Herakles against the Hydra, Indra against Vritra – these are surely some

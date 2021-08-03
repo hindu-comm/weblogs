@@ -1,7 +1,11 @@
 +++
 title = "kAlAmukhas-II"
+date = "2005-03-23"
+upstream_url = "https://manasataramgini.wordpress.com/2005/03/23/kalamukhas-ii/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/03/23/kalamukhas-ii/).
+
 Modern historians have seen the vIrashaivas as an organic evolute of the
 kAlAmukhas. While their attachment to li\~Nga worship, shiva devotion
 and monastic organization are indeed comparable, there are many
@@ -38,7 +42,7 @@ the chAlukyan chieftain rAchamalla states:
 entertainment of the population, offerings of food, restoration of worn
 out idols and temples, the chaitra and pavitra rites, vedic recitation,
 lectures on vaisheShika philosophy, class readings from the shiva-dharma
-purANa and feeding of the needy  “.
+purANa and feeding of the needy “.
 
 This suggests that the kAlAmukhas were primarily nyAya-vaisheShika
 proponents, and this formed the scaffold of their philosophical
@@ -76,4 +80,5 @@ The lesson from the kAlAmukhas leads me to a conjuncture: Strongly
 organized systems are best in propagating socially and politically
 oriented doctrines. They generally fail to preserve intellectual
 traditions over long periods, under volatile conditions, though they may
-be excellent in over the short to medium range.
+be excellent in over the sh0rt to medium range.
+

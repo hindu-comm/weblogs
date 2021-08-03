@@ -1,14 +1,18 @@
 +++
 title = "A note on the cow, the horse and the chariot in the Ṛgveda"
+date = "2017-08-06"
+upstream_url = "https://manasataramgini.wordpress.com/2017/08/06/a-note-on-the-cow-the-horse-and-the-chariot-in-the-%e1%b9%9bgveda/"
 
 +++
-yasmai tvaṃ sukṛte jātaveda  
-u lokam agne kṛṇavaḥ syonam |  
-aśvinaṃ sa putriṇaṃ vīravantaṃ  
-gomantaṃ rayiṃ naśate svasti ||
+Source: [here](https://manasataramgini.wordpress.com/2017/08/06/a-note-on-the-cow-the-horse-and-the-chariot-in-the-%e1%b9%9bgveda/).
 
-For whom you will make a pleasant world, O Jātavedas\!  
-as he does correct rituals for you, O Agni\!  
+yasmai tvaṃ sukṛte jātaveda  
+u lokam agne kṛṇavaḥ syonam \|  
+aśvinaṃ sa putriṇaṃ vīravantaṃ  
+gomantaṃ rayiṃ naśate svasti \|\|
+
+For whom you will make a pleasant world, O Jātavedas!  
+as he does correct rituals for you, OAgni!  
 He endowed with horses, offspring, heroes,  
 cattle and wealth attains well-being.
 
@@ -26,7 +30,7 @@ them are strongly correlated (Pearson’s correlation \>.9 for each pair).
 This suggests that they form a complex that is present throughout the
 RV. Yet this poses a poorly acknowledged but major paradox for the
 archaeology, dating and the geography of the text:  
-1\) The RV is considered by white indologists and their fellow travelers
+1) The RV is considered by white indologists and their fellow travelers
 to have been composed in Gandhāra and Pāñcanada at its oldest
 \~3500-3200 years before present. The chariots are said to appear in the
 archaeological record earliest \~4100 YBP in the Sintashta culture on
@@ -98,7 +102,7 @@ geographic/temporal separation between the Avestan Iranians and RV
 ārya-s, with the former being obviously younger due the daiva-ahura
 polarization.
 
-[![ratha\_ashva\_go](https://manasataramgini.files.wordpress.com/2017/08/ratha_ashva_go.png?w=616&h=1232)](https://manasataramgini.files.wordpress.com/2017/08/ratha_ashva_go.png)Figure
+[![ratha_ashva_go](https://manasataramgini.files.wordpress.com/2017/08/ratha_ashva_go.png?w=616&h=1232)](https://manasataramgini.files.wordpress.com/2017/08/ratha_ashva_go.png)Figure
 1. (mean: red, median: blue).
 
 That said let us take a closer look at cows, horses and chariots in the
@@ -108,14 +112,14 @@ at random from the RV and count the number of times the words aśva
 their occurrences (Figure 1) shows that while the cow is quite normally
 distributed there is some skew for the chariot and even greater skew for
 the horse (In a typical run we get skewness(ratha)=0.325;
-skewness(aśva)=0.472; skewness(go)=0.277). This suggests certain
-regions with higher than typical mention of these.
+skewness(aśva)=0.472; skewness(go)=0.277). This suggests certain regions
+with higher than typical mention of these.
 
 To understand the origin of this skewness better we next look at the
 occurrence of these words per maṇḍala normalized by the number of
 half-ṛk-s per maṇḍala (Figure 2).
 
-[![ratha\_ashva\_go\_maNDala](https://manasataramgini.files.wordpress.com/2017/08/ratha_ashva_go_mandala.png?w=626&h=835)](https://manasataramgini.files.wordpress.com/2017/08/ratha_ashva_go_mandala.png)Figure
+[![ratha_ashva_go_maNDala](https://manasataramgini.files.wordpress.com/2017/08/ratha_ashva_go_mandala.png?w=626&h=835)](https://manasataramgini.files.wordpress.com/2017/08/ratha_ashva_go_mandala.png)Figure
 2. (mean: blue horizontal line)
 
 We notice that the maṇḍala-4 of Vāmadeva Gautama has an above average
@@ -137,7 +141,7 @@ words across the RV by calculating counts in continuously sliding
 windows of 100 half-ṛk-s from the beginning to the end of the text
 Figure 3).
 
-[![ratha\_ashva\_go\_window](https://manasataramgini.files.wordpress.com/2017/08/ratha_ashva_go_window.png?w=636&h=848)](https://manasataramgini.files.wordpress.com/2017/08/ratha_ashva_go_window.png)Figure
+[![ratha_ashva_go_window](https://manasataramgini.files.wordpress.com/2017/08/ratha_ashva_go_window.png?w=636&h=848)](https://manasataramgini.files.wordpress.com/2017/08/ratha_ashva_go_window.png)Figure
 3. (mean across all window is green line)
 
 We notice that whereas go shows a fairly continuous distribution of
@@ -145,14 +149,13 @@ fluctuations, ratha less so, and aśva shows few clear standout peaks.
 The largest of these is seen in maṇḍala-1 which corresponds to the
 famous aśvastuti of Dirghatamas Aucathya which is deployed in the grand
 Aśvamedha ritual. Notably, there are two standout peaks for aśva in
-maṇḍala-5 of the Atri-s and maṇḍala-7 of Vasiṣṭha-s which are
-correlated with corresponding peaks of ratha. In the case of the Atri-s
-a part of this again relates to a dhānastuti where an
-aśvamedha-performing Bhārata monarch is praised. But even beyond this
-the Atri-s and Vasiṣṭha-s to a lesser degree seem to have a special
-tendency to mention horses and chariots more than on an average in
-certain contexts. This does not seem to have geographic factor because
-the [Atri-s show links to Kāṇva-s of
+maṇḍala-5 of the Atri-s and maṇḍala-7 of Vasiṣṭha-s which are correlated
+with corresponding peaks of ratha. In the case of the Atri-s a part of
+this again relates to a dhānastuti where an aśvamedha-performing Bhārata
+monarch is praised. But even beyond this the Atri-s and Vasiṣṭha-s to a
+lesser degree seem to have a special tendency to mention horses and
+chariots more than on an average in certain contexts. This does not seem
+to have geographic factor because the [Atri-s show links to Kāṇva-s of
 maṇḍala-8](https://manasataramgini.wordpress.com/2007/10/27/the-mandala-graph-for-rishi-sharing/)
 who show no such special proclivity. Rather, it does raise the
 possibility that the Atri-s were either special connoisseurs or breeders
@@ -166,15 +169,16 @@ praśastiṃ naḥ kṛṇuta rudriyāso
 bhakṣīya vo ‘vaso daivyasya ॥ RV 5.57.7
 
 Endowed with cows, with horses, with chariots, with good heroes  
-with gold, wealth you have given us, O Maruts\!  
-Make praise be ours O sons of Rudra\!  
-May I partake a share of your divine aid.
+with gold, wealth you have given us, O Maruts!  
+Make praise be ours O sons of Rudra!  
+May Ipartake a share of your divine aid.
 
 See also:  
 [The maNDala graph
-for R^iShi-sharing](https://manasataramgini.wordpress.com/2007/10/27/the-mandala-graph-for-rishi-sharing/)  
+forR^iShi-sharing](https://manasataramgini.wordpress.com/2007/10/27/the-mandala-graph-for-rishi-sharing/)  
 [Some trivia concering
-the Adi-shruti](https://manasataramgini.wordpress.com/2009/02/08/some-trivia-concering-the-adi-shruti/)  
+theAdi-shruti](https://manasataramgini.wordpress.com/2009/02/08/some-trivia-concering-the-adi-shruti/)  
 [The Rāmāyaṇa and a para-Rāmāyaṇa in numbers-II: Evolving early
 Indo-Aryan
 warfare](https://manasataramgini.wordpress.com/2017/07/16/the-ramaya%e1%b9%87a-and-a-para-ramaya%e1%b9%87a-in-numbers-ii-evolving-early-indo-aryan-warfare/)
+

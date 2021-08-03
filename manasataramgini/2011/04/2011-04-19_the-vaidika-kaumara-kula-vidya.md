@@ -1,7 +1,11 @@
 +++
 title = "The vaidika kaumAra kula vidyA"
+date = "2011-04-19"
+upstream_url = "https://manasataramgini.wordpress.com/2011/04/19/the-vaidika-kaumara-kula-vidya/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/04/19/the-vaidika-kaumara-kula-vidya/).
+
 We had earlier discussed the root mantra of the kumAra shAsana as
 provided in the vaikhAnasa mantra-prashna. The complete formulation,
 which includes the mantra-s of kumAra and devyaH, represents an early
@@ -10,12 +14,12 @@ the bodhAyana mantra prashna (mantra-s: 181-182). Its correct form is
 only known to those who understand the foundations of the
 kumAra-shAsana.  
 The kumAra mantra:  
-OM aghorAya mahAghorAya nejameShAya namo namaH ||  
+OM aghorAya mahAghorAya nejameShAya namo namaH \|\|  
 The mantra of the kula devyaH:  
 AveshinI hy ashrumukhI kutuhalI hastinI jR^iMbhiNI staMbhinI mohinI cha
-|  
+\|  
 kR^iShNA vishAkhA vimalA brahmarAtrI bhrAtR^ivya-saMgheShu patanty
-amoghAs tAbhyo vai mAtR^ibhyo namo namaH ||
+amoghAs tAbhyo vai mAtR^ibhyo namo namaH \|\|
 
 The textual corruptions have resulted in some confusion among the
 readings of the mantra-s. The most common problem is the correct
@@ -26,8 +30,8 @@ oral tradition of the taittirIyaka-s who follow the bodhAyana sUtra
 (like my maternal clan). The published bodhAyana mantra pATha (and its
 otherwise best-preserved manuscript) and the sUtra text have corrupt
 readings at different points which can be recombined to create a
-“critical” reading completely concordant with the oral version. In
-this reading the kumAra kula consists of only 12 mAtR^i-s. These are: 1)
+“critical” reading completely concordant with the oral version. In this
+reading the kumAra kula consists of only 12 mAtR^i-s. These are: 1)
 AveshinI (the possessor); 2) ashrumukhI (bloody faced); 3) kutuhalI (the
 eager one); 4) hastinI (the elephant headed one); 5) jR^imbhiNI (the
 stretching one); 6) staMbhinI (the paralyzer); 7) mohinI (the deluder);
@@ -48,3 +52,4 @@ they are infallible). The accentation (i.e. positions of the udAtta-s)
 of few of the names in second hemistich of the devInAm mantra is corrupt
 in the published form of the mantra prashna and needs to be known from
 oral tradition.
+

@@ -1,7 +1,11 @@
 +++
 title = "A geopolitical round up"
+date = "2008-08-12"
+upstream_url = "https://manasataramgini.wordpress.com/2008/08/12/a-geopolitical-round-up/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/08/12/a-geopolitical-round-up/).
+
 An elderly white American Hindu activist was going to a temple. On the
 way she had an “accident” that nearly killed her. Was it in accident?
 Some people know the real answer. va\~Nga paNDita smiled and said there
@@ -35,7 +39,7 @@ for Kosovo…” Not surprisingly, the Americans sent 1000 men to
 participate in a joint exercise with the Georgians. Buoyed by this
 vacuous display (remember, one of the American soldiers in this exercise
 said in his interview that he did not know where Georgia was on the map
-of the world – he only knew of an American state with that name\!) very
+of the world – he only knew of an American state with that name!) very
 provocatively named “Exercise Immediate Response 2008” the Georgians
 decided to put their lessons to immediate practice by attacking Russian
 citizens in adjacent ethnically distinct enclaves. We are now watching
@@ -54,7 +58,7 @@ they are safe till the moment he arrives, noose in hand, at their own.
 The other event concerns the rebellion of amareshvara – Hindus cannot
 even control their own temples in their own land. Here again we see that
 the taskara-rAjya is siding with the turuShka-s – it is amazing how the
-tail wags the dog\! The world hardly gets to learn the reality of these
+tail wags the dog! The world hardly gets to learn the reality of these
 atrocious events in jambupura – only the Hindi language press has been
 reporting the shocking reality – the napuMsaka Indian army and police
 are harassing and killing Hindus. The Anglophone Hindu elite will be
@@ -67,6 +71,7 @@ I will happy to be proven wrong. It is striking to note how the Hindus
 used the “democratic process” to bring upon themselves a government of
 taskara-s and kulu\~ncha-s who are veshyAputra-s.
 
-“*dugdhAbdhi dhavalaM tena saro dUra-girau kR^itam |  
-amareshvara yAtrAyaM janair adyApi dR^ishyate ||*”  
+“*dugdhAbdhi dhavalaM tena saro dUra-girau kR^itaM \|  
+amareshvara yAtrAyaM janair adyApi dR^ishyate \|\|*”  
 kalhaNa’s rAjataraMgiNi 1.267
+

@@ -1,8 +1,11 @@
 +++
-title = "Beating Disease Over The Head With The Serpent-Staff Of The Storm Wind – Rudra, Odin, Shiva, Hermes, Mercury, Maruts Asxa0Healers"
-date = "January 30, 2020"
+title = "Beating Disease Over The Head With The Serpent-Staff Of The Storm Wind – Rudra, Odin, Shiva, Hermes, Mercury, Maruts As Healers"
+date = "2020-01-30"
+upstream_url = "https://aryaakasha.com/2020/01/30/beating-disease-over-the-head-with-the-serpent-staff-of-the-storm-wind-rudra-odin-shiva-hermes-mercury-maruts-as-healers/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/01/30/beating-disease-over-the-head-with-the-serpent-staff-of-the-storm-wind-rudra-odin-shiva-hermes-mercury-maruts-as-healers/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/01/83261468_10162908346715574_2763554993888821248_o.jpg?w=1024)
 
 It is WEDNESDAY – Wodan’s Day, Mercredi – Dies Mercurii – The Day of

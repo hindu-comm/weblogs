@@ -1,8 +1,11 @@
 +++
-title = "A Cut Off Horse-Head Delivers Thexa0Message"
-date = "November 14, 2019"
+title = "A Cut Off Horse-Head Delivers The Message"
+date = "2019-11-14"
+upstream_url = "https://aryaakasha.com/2019/11/14/a-cut-off-horse-head-delivers-the-message/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/11/14/a-cut-off-horse-head-delivers-the-message/).
+
 ![](https://aryaakasha.files.wordpress.com/2019/11/images-54.jpg?w=476)
 
 (Y)Our Ancestors, Ladies & Gentlemen!\*

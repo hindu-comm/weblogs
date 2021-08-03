@@ -1,8 +1,11 @@
 +++
-title = "On The Rudraksha – Tears ofxa0Rudra"
-date = "June 8, 2021"
+title = "On The Rudraksha – Tears of Rudra"
+date = "2021-06-08"
+upstream_url = "https://aryaakasha.com/2021/06/08/on-the-rudraksha-tears-of-rudra/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/06/08/on-the-rudraksha-tears-of-rudra/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/06/img_07631.jpg?w=768)
 
 Worn about my wrist upon many occasions are three things – two are

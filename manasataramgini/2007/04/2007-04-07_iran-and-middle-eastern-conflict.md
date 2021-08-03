@@ -1,7 +1,11 @@
 +++
 title = "Iran and middle eastern conflict"
+date = "2007-04-07"
+upstream_url = "https://manasataramgini.wordpress.com/2007/04/07/iran-and-middle-eastern-conflict/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/04/07/iran-and-middle-eastern-conflict/).
+
 “And so these men of Indostan  
 Disputed loud and long,  
 Each in his own opinion  
@@ -36,3 +40,4 @@ Jewish strategy is going to be different this time. I believe it is
 important for Hindus to observe this carefully, especially given that
 Israel is a notable arms supplier for India and has cooperated in some
 areas of military intelligence.
+

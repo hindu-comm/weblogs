@@ -1,7 +1,11 @@
 +++
 title = "The \"Kashmirian\" ayyars"
+date = "2007-03-02"
+upstream_url = "https://manasataramgini.wordpress.com/2007/03/02/the-kashmirian-ayyars/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/03/02/the-kashmirian-ayyars/).
+
 While there is some evidence from the early shrIvidyA and siddhAnta
 tantric sundaranAtha (tirumUlar) was probably from kAshmIra or at least
 had teachers from kAshmIra, we know little of him and his affiliation
@@ -17,7 +21,7 @@ rapidly degenerating communities via varNa sankara, patita sAvitra and
 other pAtakas.
 
 Looking at inscriptions we find the following information:  
-1\) The oldest layer of vaDamas from the tirunelveli region contain one
+1) The oldest layer of vaDamas from the tirunelveli region contain one
 group of Kashmirian immigrants. This group appears to have come around
 750-800 CE and settled specifically in the agrahAra-s associated with
 the tiruvalishvaram temple. A pallavan incription in this temple clearly
@@ -60,3 +64,4 @@ included a few immigrants from kAshmIra. There is a small community of
 vaDamas long-settled in Gujarat whose exact connection with these
 migrations, if any, remains currently unknown to me. It appears that
 bhAskara-rAya makhIndra’s guru was of this lineage.
+

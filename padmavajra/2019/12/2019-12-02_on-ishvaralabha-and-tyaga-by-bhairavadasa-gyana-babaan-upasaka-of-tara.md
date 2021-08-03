@@ -1,8 +1,11 @@
 +++
-title = "On IshvaralAbha and tyAga by bhairavadAsa GYAna bAbA,an upAsaka ofxa0tArA"
-date = "2019-12-02"
+title = "On IshvaralAbha and tyAga by bhairavadAsa GYAna bAbA,an upAsaka of tArA"
+date = "2019-02-12"
+upstream_url = "https://padmavajra.net/2019/12/02/on-ishvaralabha-and-tyaga-by-bhairavadasa-gyana-babaan-upasaka-of-tara/"
 
 +++
+Source: [here](https://padmavajra.net/2019/12/02/on-ishvaralabha-and-tyaga-by-bhairavadasa-gyana-babaan-upasaka-of-tara/).
+
 ![EIf2PC8U0AAEAd9](https://padmavajrablog.files.wordpress.com/2019/12/eif2pc8u0aaead9.jpg?w=739)
 
 OM kAlAya namaH\| OM kAlapUjitAya namaH\| OM kAlAtItAya namaH\|

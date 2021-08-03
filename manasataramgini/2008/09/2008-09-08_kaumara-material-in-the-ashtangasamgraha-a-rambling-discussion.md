@@ -1,7 +1,11 @@
 +++
 title = "kaumAra material in the aShTA~NgasaMgraha: a rambling discussion"
+date = "2008-09-08"
+upstream_url = "https://manasataramgini.wordpress.com/2008/09/08/kaumara-material-in-the-ashtangasamgraha-a-rambling-discussion/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/09/08/kaumara-material-in-the-ashtangasamgraha-a-rambling-discussion/).
+
 **The provenance of the aShTA\~NgasaMgraha**  
 Before we go on to a survey of the kaumAra material incorporated into
 the aShTA\~Nga saMgraha (AS) we shall consider some issues related to
@@ -143,7 +147,7 @@ the deva-s and pitR^i-s. There are described as assuming the form of
 bears, owls or cats and can only be seen with the knowledge of the
 mantra-shAstra as they infect children:  
 * Avishantashcha lakShyante kevalaM shAstra-chakShuSha shuddhena dehaM
-bAlAnAM gandharva iva yoShitAm ||*  
+bAlAnAM gandharva iva yoShitAM \|\|*  
 Their entry into children, even as the gandharva seizes a maiden, can
 only be seen by means of the pure eye of the shAstra \[remember the
 vedic allusion of the gandharva seizing the daughter and wife of
@@ -171,20 +175,20 @@ chapter 3.
 
 **Survey of particular prayoga-s**  
 ***The maNDala rite AS uttara-sthAna 4.41-49***  
-*atha.a.apatita govarcaH pralipte darbha saMsR^ite |  
-vR^itte vA chaturasre vA maNDale kusumojvale ||  
-nAnA-graha-parivAraM bhiShag bhUtapatiM likhet |  
-taM prati prA\~Nmukho vidyAM paThan-nupaharet balim ||  
+*atha.a.apatita govarcaH pralipte darbha saMsR^ite \|  
+vR^itte vA chaturasre vA maNDale kusumojvale \|\|  
+nAnA-graha-parivAraM bhiShag bhUtapatiM likhet \|  
+taM prati prA\~Nmukho vidyAM paThan-nupaharet balim \|\|  
 namo vimArakasya \[perhaps corrupt; manuscripts need to be examined\]
-|  
-namaH kumArA\~NgAya |  
-namaH saptAnAM mAtR^INAm |  
-namaH skandAya |  
-eSha parigraha mantraH |  
-mAtR^INAM AvAhanaM cha|  
-hili hili nimApaTalini svAhA |  
-anena sapta-kR^itvaH parijapitena pAnIya chulukenAtmAbhyukShayitavyaH |
-evaM AtmarakShA kR^itA bhavati |*
+\|  
+namaH kumArA\~NgAya \|  
+namaH saptAnAM mAtR^INAM \|  
+namaH skandAya \|  
+eSha parigraha mantraH \|  
+mAtR^INAM AvAhanaM cha\|  
+hili hili nimApaTalini svAhA \|  
+anena sapta-kR^itvaH parijapitena pAnIya chulukenAtmAbhyukShayitavyaH \|
+evaM AtmarakShA kR^itA bhavati \|*
 
 The place is plastered with cow dung and strewn over with darbha straw.
 Then the maNDala is drawn either of a square or a circular form and
@@ -198,7 +202,7 @@ and water is taken in cupped palms and sprinkled on oneself/the child.
 With that one protects oneself/the child. After the offering of the bali
 mantra is recited known as satya sAdhana.
 
-[![bAlagraha\_indrANI](https://i1.wp.com/farm4.static.flickr.com/3114/2847681320_7266275231_m.jpg)](http://www.flickr.com/photos/24766652@N05/2847681320/ "bAlagraha_indrANI by somasushma, on Flickr")
+[![bAlagraha_indrANI](https://i1.wp.com/farm4.static.flickr.com/3114/2847681320_7266275231_m.jpg)](http://www.flickr.com/photos/24766652@N05/2847681320/ "bAlagraha_indrANI by somasushma, on Flickr")
 
 *indrANI, one of the 7 mAtR^i-s with a bAla (kindly provided by shrI
 Sarvesh Tiwari)*
@@ -234,28 +238,28 @@ counter toxins.
 ***The skanda kulavidyA mantra AS uttara-sthAna 4.50-60***  
 After performance of the above maNDala ritual and recitation of the
 satyasAdhana mantra, the kula-vidyA mantra is prescribed:  
-*tatashchAnu paThedenAM kulavidyAM samAhitaH |  
-aulA nIlA khalA kAlA nakulA grahakArikA ||  
-senA susenA mAtA cha mahAsenA yashasvinI |  
-kR^itamAlAkSatashirA etAstu graha-mAtaraH ||  
-kumAra-vachanAch-ChIghraM pramu\~nchantu shishuntvimam |  
-kAla-kalpA jvalach-ChaktiH ki\~NkiNI-jAla-bhUShitA ||  
-kumAra-vachanAd-dUtI samprAptA muchyatAM shishuH |  
-patAkA kukukTaH ChatraM ghaNTA-barhadharaH shikhI ||  
-sharastambhash-cha te mudrA muchyatAM mAtaraH shishuH |  
-gandhaM dhUpaM cha mAlyaM cha kumAraste prayachChati ||  
-na sthAtavyaM tadAgrAya svAM gatiM gachCha mA chiram |  
-dhAtryaH sarvAH kumArasya sa\~NgatA gandhamAdane ||  
-rakta-dhvaja-patAkasya raktAMshuka-nivAsinaH |  
-kumArasyAlayaM tatra yAta bAlaM vimu\~nchata ||  
-ShaNmukho dvAdashAkSho vai tasmin kAle vR^ito varam |  
-vIraH kumArAdhipatistava putro.abhiShichyatAm ||  
-brAhmaNo brAhmaNAnAntu sarva-veda-vidAM varaH |  
-yakSha-rAkShasa-nAgAnAM gandharvAsurayor api ||  
-piShAcha-bhUta-sa\~NghAnAM vyadInAM cha sa IshvaraH |  
-Aj\~nApayati vaH skando gaMyatAM gandhamAdanam ||  
-graho yaH kopayedAj\~nAM kumArasya yashasvinaH |  
-sthAnAt chyutaH sa vai kShipraM bahya pariShado bhavet ||*
+*tatashchAnu paThedenAM kulavidyAM samAhitaH \|  
+aulA nIlA khalA kAlA nakulA grahakArikA \|\|  
+senA susenA mAtA cha mahAsenA yashasvinI \|  
+kR^itamAlAkSatashirA etAstu graha-mAtaraH \|\|  
+kumAra-vachanAch-ChIghraM pramu\~nchantu shishuntvimam \|  
+kAla-kalpA jvalach-ChaktiH ki\~NkiNI-jAla-bhUShitA \|\|  
+kumAra-vachanAd-dUtI samprAptA muchyatAM shishuH \|  
+patAkA kukukTaH ChatraM ghaNTA-barhadharaH shikhI \|\|  
+sharastambhash-cha te mudrA muchyatAM mAtaraH shishuH \|  
+gandhaM dhUpaM cha mAlyaM cha kumAraste prayachChati \|\|  
+na sthAtavyaM tadAgrAya svAM gatiM gachCha mA chiraM \|  
+dhAtryaH sarvAH kumArasya sa\~NgatA gandhamAdane \|\|  
+rakta-dhvaja-patAkasya raktAMshuka-nivAsinaH \|  
+kumArasyAlayaM tatra yAta bAlaM vimu\~nchata \|\|  
+ShaNmukho dvAdashAkSho vai tasmin kAle vR^ito varaM \|  
+vIraH kumArAdhipatistava putro.abhiShichyatAM \|\|  
+brAhmaNo brAhmaNAnAntu sarva-veda-vidAM varaH \|  
+yakSha-rAkShasa-nAgAnAM gandharvAsurayor api \|\|  
+piShAcha-bhUta-sa\~NghAnAM vyadInAM cha sa IshvaraH \|  
+Aj\~nApayati vaH skando gaMyatAM gandhamAdanaM \|\|  
+graho yaH kopayedAj\~nAM kumArasya yashasvinaH \|  
+sthAnAt chyutaH sa vai kShipraM bahya pariShado bhavet \|\|*
 
 A bali is offered with this mantra followed by the kindling of agni and
 a homa with various items (flowers, food and blood?) with 108 samidhs of
@@ -277,13 +281,13 @@ are arranged 1 per petal, on the 8 petals of the 8 chakra-s of this
 system. Importantly this kula of yogini-s is supposed to rove in the
 world in various avimorphic and theriomorphic states (KJN23.2-5ab;
 emended partially by me from PC Bagchi’s edition):  
-* martye.asmin devatAnAntu saMchAraM shR^iNu bhAmini |  
-kapotikA tathA gR^idhrI haMsI chaiva nakhI tathA ||  
-kha\~njaHkheTA bhASI tu kokAbhASI tu sundari |  
-ulukI pechakI vA tu sArasI valgulI tathA ||  
-shR^igAlI ajA mahiShI uShTrI mArjArI nakulI tathA |  
-vyAghrI hastI mayUrI cha kukuTI na …\[break\] ||  
-anyAni yAni rUpANi saMsthitAni mahItale |*  
+* martye.asmin devatAnAntu saMchAraM shR^iNu bhAmini \|  
+kapotikA tathA gR^idhrI haMsI chaiva nakhI tathA \|\|  
+kha\~njaHkheTA bhASI tu kokAbhASI tu sundari \|  
+ulukI pechakI vA tu sArasI valgulI tathA \|\|  
+shR^igAlI ajA mahiShI uShTrI mArjArI nakulI tathA \|  
+vyAghrI hastI mayUrI cha kukuTI na …\[break\] \|\|  
+anyAni yAni rUpANi saMsthitAni mahItale \|*  
 These forms like that of a dove, vulture, goose, eagle, wagtail,
 pheasant, bustard, owl, nightjar, crane, bat, jackal, goat, buffalo,
 camel, cat, mongoose, tiger elephant, peacock and rooster are typical of
@@ -296,17 +300,17 @@ of the AS is subsumed under the name vaTuka (the boy) in the KJN. This
 is one of the earliest texts where the vaTuka is explicitly described as
 6-headed (albeit in an ungrammatical sandhi, “aisha language”, marked
 below) KJN 16.52:  
-* ahaM tvaM cha vishAlAkShi chandra-dvIpa-samAgatau |  
-\[\*ShaT-mukho\] vaTuko jAtAH kShetrapAla-kulAgame ||*  
+* ahaM tvaM cha vishAlAkShi chandra-dvIpa-samAgatau \|  
+\[\*ShaT-mukho\] vaTuko jAtAH kShetrapAla-kulAgame \|\|*  
 This is further clarified in bali mantra of vaTuka given in the KJN:  
 *hrIM vaTukAya kapila-jaTAya pi\~Ngala-netrAya devI-putrAya
 mAtR^i-putrAya  
-imAM baliM mamopanItAM gR^ihNa gR^ihNa churu muru hrIm ||*  
+imAM baliM mamopanItAM gR^ihNa gR^ihNa churu muru hrIM \|\|*  
 Here vaTuka is explicitly called devIputra and matR^iputra. This is
 again confirmed by another statement in the same chapter of the KJN
 where vaTuka is said to be kArttikeya (KJN 16.27):  
-* ahaM chaiva tvayA sArddhaM chandra-dvipaM gato yadA |  
-tadA vaTukarUpeNa kArtikeyaH samAgataH ||*
+* ahaM chaiva tvayA sArddhaM chandra-dvipaM gato yadA \|  
+tadA vaTukarUpeNa kArtikeyaH samAgataH \|\|*
 
 Thus, in addition to the sapta mAtR^i-s, we can state that the kaula
 system’s family or cluster of yogini-s also emerged from the matrix of
@@ -357,10 +361,10 @@ figure of the maNDala on an audumbara or pAlasha pITha strewn with green
 darbha grass. Then the fire is installed in the northern quarter of the
 maNDala by the physician and he begins making oblations to skanda, agni
 and the kR^ittika-s with the mantra-s:  
-*agnaye svAhA | kR^ittikAbhyash-cha svAhA | svAhA | namaH skandAya
-devAya grahAdhipataye namaH |  
-shirasA tvAbhivandehaM pratigR^ihNIShva me balim |  
-nIrujo nirvikArashcha shishur-bhavatu sarvadA | svAhA ||*
+*agnaye svAhA \| kR^ittikAbhyash-cha svAhA \| svAhA \| namaH skandAya
+devAya grahAdhipataye namaH \|  
+shirasA tvAbhivandehaM pratigR^ihNIShva me baliM \|  
+nIrujo nirvikArashcha shishur-bhavatu sarvadA \| svAhA \|\|*
 
 After these oblations are completed with the different oblation
 materials the physician clothed in white, having observed the requisite
@@ -372,10 +376,11 @@ gods and the child is bathed. Then a series of oblations are made to
 prajApati, rudra, kumAra and the yoginI-s along with the calling of
 various kumAra graha-s, bhUta-s and other agents. The oblations to
 kumAra are offered with the formula:  
-*namo bhagavate kumArAya pili pili khilli khilli khiNi khiNi svAhA ||*  
+*namo bhagavate kumArAya pili pili khilli khilli khiNi khiNi svAhA
+\|\|*  
 The yogini-s are offered oblations with the formula:  
 * namo bhagavatIbhyo mahAyogIshvarIbhyo nimi-nimi menu-menu turu-turu
-svAhA ||*
+svAhA \|\|*
 
 After the rite the child should not eat meat for 5 days and should avoid
 excesses for the same period. While the rite confers freedom from
@@ -395,8 +400,8 @@ vArahamihira for his rite of the puShya bath, but here the context is an
 auspicious bath for the king. In the case of the puShya bath of the
 bR^ihat saMhitA too skanda and vishAkha are deities among the deities
 stationed in the maNDala:  
-*grahAMsh cha sarva-nakshatrai rudrAMsh ca saha mAtR^ibhiH |  
-skandaM viShNuM vishAkhaM cha lokapAlAn surastriyaH ||*  
+*grahAMsh cha sarva-nakshatrai rudrAMsh ca saha mAtR^ibhiH \|  
+skandaM viShNuM vishAkhaM cha lokapAlAn surastriyaH \|\|*  
 However, beyond that there is not specific rite involving kumAra, and
 several other deities receive oblations down the line. Hence, the
 version of varAhamihira most probably followed a trajectory independent
@@ -417,3 +422,4 @@ most students of these matters. However, in light of the distinctive use
 of kIla-s in the above maNDala it is quite likely that vajrakumAra’s
 alias vajrakIla is a remnant of this ancient feature of a kaumAra
 ritual.
+

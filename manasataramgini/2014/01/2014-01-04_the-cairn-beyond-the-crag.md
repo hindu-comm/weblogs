@@ -1,15 +1,19 @@
 +++
 title = "The cairn beyond the crag"
+date = "2014-01-04"
+upstream_url = "https://manasataramgini.wordpress.com/2014/01/04/the-cairn-beyond-the-crag/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/01/04/the-cairn-beyond-the-crag/).
+
 It was the an early Indian summer morning. The type that makes one rise
 rapidly from bed rather than remain tucked in like the mornings in the
 cold northern lands. Vidrum had arisen from his bed and briskly jogged
 up to the small temple on the edge of the cemetery that enshrined a 16
 armed kAlI. He mentally recited the incantation “krIM krIM krIM sA mAM
-pAtu devI kAlI bhagavatI vijayaM dadAtu naH ||” He then picked up pinch
-of vermillion from the old calvaria placed in front of the image and
-smeared it on his forehead. Thereafter he ran back home and seated
+pAtu devI kAlI bhagavatI vijayaM dadAtu naH \|\|” He then picked up
+pinch of vermillion from the old calvaria placed in front of the image
+and smeared it on his forehead. Thereafter he ran back home and seated
 himself on the Damaru-shaped cane chair and lazily looked out at the
 road and the field beyond the compound wall – after all it was vacation
 time and free from the cares of life he had all the opportunity to just
@@ -95,7 +99,7 @@ used to assassinate people with the umbrella tip. So some days back I
 talked to Somakhya about making such a weapon for ourselves. Here is the
 result and the herbal formulae remain our secret.”  
 V: “Ah, I never thought you were so much a female version of a
-‘chupA-rustam’\! Good luck with your wanderings.”  
+‘chupA-rustam’! Good luck with your wanderings.”  
 Vidrum spent much of the rest of his day sitting and starring or taking
 circles around his grandfather’s house, much like an ox driving an old
 oil-press, or reading some mangas. That night he heard some strange
@@ -172,7 +176,7 @@ away because he did not want to be seen in her presence as he ran to the
 elders for some help. Soon his wound got infected and he lay in bed with
 a high fever, perhaps in a delirium induced by the bacterium.
 
-\-۩۞۩-۩۞۩-۩۞۩-
+-۩۞۩-۩۞۩-۩۞۩-
 
 May be it was during this delirium or perhaps it was under the influence
 of the opioid he had been administered after the physician had lanced
@@ -205,7 +209,7 @@ end of the war. He had learned English in school and had read in person
 the account of the total genocide conducted by the pretasAdhaka warrior
 Hugh Rose in Jhansi: “*No maudlin clemency was to mark the fall of the
 city.*” As he ended for the day with the gAyatrI “siShAsatU rayINAM
-vAjeShv arvatAm iva | bhareShu jigyuShAm asi ||” his mind wandered
+vAjeShv arvatAm iva \| bhareShu jigyuShAm asi \|\|” his mind wandered
 towards the catastrophe of the first war of independence again. He had a
 conflicting thought run through him. After all the shruti had just said
 that the soma was drunk by victorious warriors conquering in battle like
@@ -373,7 +377,7 @@ fall upon them with the unity of this pack they would be destroyed.” The
 nAyaka was inspired too and agreed with the kauNDinya. He declared his
 whole marauder tribe will be ready for such action.
 
-\-۩۞۩-۩۞۩-۩۞۩-
+-۩۞۩-۩۞۩-۩۞۩-
 
 Both had a premonition that this was going to be their last meeting.
 While the bharadvAja and the kauNDinya had drifted apart and even had
@@ -403,7 +407,7 @@ in battle or driven out, even as indra had slaughtered the hundreds of
 thousands of dAsa-s led by varchin…
 
 It was around 1.00 PM. The English convoy was led by Capt David Low
-along with white officers Lt Richard Hayes and Lt Konrad Bassler,  a
+along with white officers Lt Richard Hayes and Lt Konrad Bassler, a
 Swiss missionary who was now working for the English corps. They were
 accompanied by a company of sepoys who were sandwiched between the white
 officers and grunts. They guarded the collections of revenue which was
@@ -459,5 +463,6 @@ did not realize that to pounce upon enemies as evil-minded and
 accomplished as the mlechCha-s one needs the same level of concealment
 and surprise as the dholes after their viShsnAna.”
 
-In his haze Somakhya cried: “Lootike\! Why is the scorpion on your
-thigh\!”
+In his haze Somakhya cried: “Lootike! Why is the scorpion on your
+thigh!”
+

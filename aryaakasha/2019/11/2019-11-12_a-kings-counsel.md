@@ -1,8 +1,11 @@
 +++
 title = "A Kings Counsel"
-date = "November 12, 2019"
+date = "2019-11-12"
+upstream_url = "https://aryaakasha.com/2019/11/12/a-kings-counsel/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/11/12/a-kings-counsel/).
+
 A passage from the Sverris Saga in which the Eponymous King Sverrir
 gives brave counsel to his assembled men at arms by relating to them a
 story.

@@ -1,7 +1,11 @@
 +++
 title = "Battle of the agents"
+date = "2014-11-16"
+upstream_url = "https://manasataramgini.wordpress.com/2014/11/16/battle-of-the-agents/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/11/16/battle-of-the-agents/).
+
 [As PDF](https://app.box.com/s/fp6rted0e4c9qb27gqqa)  
 It was the last day of school and the exams were to begin at the start
 of the next week. Following their parents stern instructions, Jhilleeka
@@ -68,7 +72,7 @@ weekend,which included the several hours of the Friday which they had
 just whiled away. On top of that Somakhya was supposed to instruct
 Vidrum on certain matters, who insistently reminded him about that.
 Vidrum made matters worse by telling him: “Bro, remember there have been
-times we have lost to Bangladesh, Zimbabwe and Kenya\! And even a good
+times we have lost to Bangladesh, Zimbabwe and Kenya! And even a good
 batsman can snick the ball to the slips.”
 
 They decided to head straight home and fall asleep and make up for the
@@ -96,7 +100,7 @@ vetālasya protsāhena vadiṣyami ।”
 
 Then he uttered some gibberish twice. After the first repeat Lootika
 became alert and wrote it down on a piece of paper:
-“ti-ya-drakṣ-maṃ-grā-saṅ-vraṃ-tī-se-ma-min-as-yam-ca-niś-ti-sa-va-min-as-he-gṛ-sā-kā-tri-pu-ṣṭa-jye|”
+“ti-ya-drakṣ-maṃ-grā-saṅ-vraṃ-tī-se-ma-min-as-yam-ca-niś-ti-sa-va-min-as-he-gṛ-sā-kā-tri-pu-ṣṭa-jye\|”
 
 She then quickly called Somakhya to wake him up and proceeded to have
 her bath. Before getting started with the books, she spent a several
@@ -162,7 +166,7 @@ was the case with variola and polio. But when it comes to diseases
 caused by pathogens with memes, like marūnmāda and pretonmāda we have
 whole sections of the nation celebrate them and invite their infection,
 even though these memetic pathogens will exterminate our people in the
-long run\!” The two younger sisters were fascinated by the idea of the
+long run!” The two younger sisters were fascinated by the idea of the
 meme that they had just learned about from the elder ones. They had many
 questions and spent the rest of their waking hours that evening talking
 about both genetics and memetics, till they lay on their cots and fell
@@ -198,8 +202,8 @@ and decided to rendezvous with Somakhya.
 On meeting Somakhya, Lootika showed the chomma of the snake; he
 responded with the chomma of the sparrow. She asked: So how did the
 cricket go? Somakhya: “Not bad I scored a 42 in one of the matches
-albeit with some streaky shots through slips but it was all in vain\!”
-L: “Why? you lost?” S: “No, a physical fight broke out when the opposing
+albeit with some streaky shots through slips but it was all in vain!” L:
+“Why? you lost?” S: “No, a physical fight broke out when the opposing
 team saw us gain the upper hand. As it grew more violent and the weapons
 came out I fled the ground knowing that discretion is the better part of
 valor.”
@@ -229,8 +233,7 @@ it was better she got back home. However, before parting she had
 something else to say.
 
 Lootika: “Could you O son of a vipra finally initiate me into the
-aṣṭākṣara-kaumāra-manu that secret manu of the ancient
-bhārgava-s.”  
+aṣṭākṣara-kaumāra-manu that secret manu of the ancient bhārgava-s.”  
 Somakhya: “O daughter of a vipra, Lootika, there are some mantra-s I
 have taught you without much ado. But this should be given by a teacher
 who has no special feeling towards the student beyond an accurate
@@ -254,7 +257,7 @@ to be above your womanly charms. This mantra could sink both you and me
 in a seizure, much like what the old drāviḍa-s would call the
 murukan-veri.”  
 L: “But I doubt an alternative teacher exists.”  
-S: “Not so fast\! There is the brāhmaṇa’s daughter Shilpika who had
+S: “Not so fast! There is the brāhmaṇa’s daughter Shilpika who had
 taught us the devabhāṣā when we were kids. She now teaches at the
 college beyond the hill of śiva and the cremation ground. She belongs to
 the same larger lineage of ātharvaṇa-s as I, descending from the very
@@ -268,8 +271,8 @@ the test from the brāhmaṇa’s daughter. Then they rode their vehicles to
 a corner near the road that Lootika had to take to get back home. They
 stopped to chat briefly at that place regarding certain mysteries of the
 transmission of the kaumāra-śāsana that were known only to a few
-brāhmaṇa-s. They then exchanged chomma-s of the sun and the demilune
-and went their ways.
+brāhmaṇa-s. They then exchanged chomma-s of the sun and the demilune and
+went their ways.
 
 ◊◊◊◊
 
@@ -389,8 +392,8 @@ Shilpika’s husband: “My dear wife tells me that in the saṃskṛta class
 you used sit drawing kapāla-s of various animals. Rather than using the
 term bhagala you would say kapāla. We also know from our friends that
 you spend you time with kyākuja-s, kīṭaka-s, and even worse
-gāṇḍulapada-s and jalauka-s. You grow such impure animals and fungi
-in your house. How could a pure brāhmaṇa girl do such things?”  
+gāṇḍulapada-s and jalauka-s. You grow such impure animals and fungi in
+your house. How could a pure brāhmaṇa girl do such things?”  
 Lootika: “I am the daughter of an aṅgira and my ancestor the great
 vāmadeva had said in the chant that is deployed in manifold ways in the
 ritual action known as the dūrohaṇam or the great ascent of the
@@ -406,7 +409,7 @@ seated in the natural law, seated in space;
 born from water, born from cows,  
 born from the natural law, born from rocks,  
 such is the great natural law.  
-That is indra the ruler of the universe OM\!
+That is indra the ruler of the universe OM!
 
 Now, what indeed is ajbā?  
 The great god bhagavān kumāra, whose mantra I seek, taught the aṅgiras
@@ -450,17 +453,17 @@ performed an ācamana and sprinkled water on herself after touching
 various parts of her body. She then threw a few grains in certain
 directions muttering certain incantations. Thereafter, she heaped the
 barley on the plate and muttered the incantation known as
-aindrāvaiṣṇavī. Then she spread those grains into the outline of
-the targeted house and sat in meditation of a secret vetāla-bhairava
-mantra for some time. She seemed to be in a trance for a while, as
-though she was the daughter of pataṅjala kāpya possessed by kabandha
-ātharvaṇa. Thereafter, she dropped a barley seed in one of the outlines
-of the rooms and pointing to it said: “In that room, in that position
-lies the valaga. It was installed by a prayoga known as the
-turuṣkarāja-bhairavaṃ. That suggests that the abhicārin is perhaps
-one who has or whose ancestors had contracted the vile memetic disease
-known as marūnmāda. If you wish, I could come back tomorrow and break
-the valaga, once I have suitably protected myself with appropriate
+aindrāvaiṣṇavī. Then she spread those grains into the outline of the
+targeted house and sat in meditation of a secret vetāla-bhairava mantra
+for some time. She seemed to be in a trance for a while, as though she
+was the daughter of pataṅjala kāpya possessed by kabandha ātharvaṇa.
+Thereafter, she dropped a barley seed in one of the outlines of the
+rooms and pointing to it said: “In that room, in that position lies the
+valaga. It was installed by a prayoga known as the
+turuṣkarāja-bhairavaṃ. That suggests that the abhicārin is perhaps one
+who has or whose ancestors had contracted the vile memetic disease known
+as marūnmāda. If you wish, I could come back tomorrow and break the
+valaga, once I have suitably protected myself with appropriate
 prayoga-s.”
 
 Shilpika’s and her husband’s jaws almost dropped. They could hardly
@@ -515,9 +518,9 @@ not hear the guy that day but few days ago I heard him say something
 which I decoded as: tava snuṣā dahiṣyati. I panicked at first. But since
 I really have no son I felt it was for someone else.” When the cooking
 was over Lootika refrigerated some of her curry to take to Somakhya.
-After lunch she heard Maurvi call from outside: “Hey cobweb-girl\!
-come\! let’s be going\!” Lootika jumped onto her family scooter and left
-with Maurvi.
+After lunch she heard Maurvi call from outside: “Hey cobweb-girl! come!
+let’s be going!” Lootika jumped onto her family scooter and left with
+Maurvi.
 
 Soon they were at the prominent road in the city whose footpaths were
 lined with an array of carts and mobile stalls of peddlers twice every
@@ -629,14 +632,14 @@ Vrishchika making sure that her parents had left said: “Bad news. That
 girl, Maurvi, with whom you went out yesterday, has just passed away
 from burns she sustained this morning. Our father was called by the
 other specialist to look into the matter.” Jhilleeka: “That is such a
-terrible coincidence. So glad that you made it alive\! ” Vrishchika:
+terrible coincidence. So glad that you made it alive! ” Vrishchika:
 “That does not seem like coincidence: Lootika do you suspect
-bahānāmati?” Lootika in a weak voice: “Vrishchika you are brilliant\!
+bahānāmati?” Lootika in a weak voice: “Vrishchika you are brilliant!
 That is what it is. This was indeed the saṃgrāma the ascetic was talking
 about. I am sure our mother heard it wrong; it was supposed to be
-sūnā not snuṣā.” Varoli: “We could test the hypothesis if we could
-get hold of a bit of your slippers.” Lootika was feeling the sedative
-pull her back into somnolence. She muttered: “Check if Somakhya is still
+sūnānot snuṣā.” Varoli: “We could test the hypothesis if we could get
+hold of a bit of your slippers.” Lootika was feeling the sedative pull
+her back into somnolence. She muttered: “Check if Somakhya is still
 alive. If yes, please tell him about it right away….” She mumbled some
 more words that they could not catch and closed her eyes.
 
@@ -652,7 +655,7 @@ At least she is alive. Somehow the gods always seem kinder to you.”
 Despite the latter claim of Vidrum, his words agitated Somakhya. But he
 kept a calm face and expressed his condolences to Vidrum but he had to
 leave Vidrum to his grief because he had to know more of what had
-happened to Lootika. At the end of their conversation he said: “Vidrum,
+happened to Lootika. At the end of their conversationhe said: “Vidrum,
 now that you tell me about this incident with Lootika, I better get in
 touch her. I hope the deva-s are kind to you.” He decided to contact
 Lootika’s family right away and seek their permission to see her. Just
@@ -674,10 +677,10 @@ Somakhya: “Vrishchika, I need to tell you something. I am actually not
 feeling too well – some fever and some tight sensation below my throat.
 Hence, I wonder if I have caught something and if I should be seeing
 Lootika at this juncture with a possible infection.”  
-Vrishchika backed away from him and yelled: “What\! That is bad. We must
-get you tested for anthrax right away\! Let me call my father\! What did
+Vrishchika backed away from him and yelled: “What! That is bad. We must
+get you tested for anthrax right away! Let me call my father! What did
 you do with the jacket Lootika gave you?”  
-Somakhya was utterly confused by the outburst: “What are you saying\!”  
+Somakhya was utterly confused by the outburst: “What are you saying!”  
 Vrishchika: “You have know idea about this. We know this is a case of
 bahānāmati and we should test you right away. I will call my father to
 have you checked right away – it could be a matter of life and death.
@@ -709,10 +712,10 @@ the table over to the robot and it started reading out the headlines.
 Finally, it read out: “Police nab killers of Dr. Dvijendra Assolkar.”  
 Somakhya: “Ah that sounds interesting. Was he not the rationalist who
 sought to expunge the sanātana dharma from the Indian consciousness?”  
-Lootika: “Yes indeed\! the founder of the deva-unmūlana-samiti”  
+Lootika: “Yes indeed! the founder of the deva-unmūlana-samiti”  
 Vrishchika: “Do you remember that incident with our father?”  
 Lootika: “Of course. In a sense as the old Hindus would believe perhaps
-his karma came to visit him after all\!”  
+his karma came to visit him after all!”  
 Somakhya: “What was that?”  
 Vrishchika: “When we were kids, this man, Dr. Assolkar, came home one
 day. He told our father that he was running a free medical camp for poor
@@ -727,12 +730,12 @@ prevent Hindu religious activities. After all that would make things
 easier for the deva-unmūlana-samiti. That was what inspired our father
 to counter attack by providing free medical services to repulse the
 pretendra duṣṭa-s from those villages.”  
-Somakhya: “Very interesting\! The line between the Dr. Assolkars and the
+Somakhya: “Very interesting! The line between the Dr. Assolkars and the
 Dr. Abu Bakrs can sometimes be a thin one.”  
 Lootika: “And then there was that incident, I believe, at the time of
 Jhilleeka’s birth. The Assolkars had come to visit our family among
 other guests. They had suggested that to maintain the spirit of
-secularism we choose a good Arabic name for little Jhilli\! It was
+secularism we choose a good Arabic name for little Jhilli! It was
 followed by a little rant against theophorous names though we never kept
 such.”  
 Somakhya: “Yes, I was aware he was good secular. Had he not ranted
@@ -744,7 +747,7 @@ noted activist for social justice and eradication of superstitions, was
 assassinated two years ago during a demonstration intended to show that
 bahānāmati was mere superstition. Initially, it was suspected to be the
 handiwork of the followers of śrī śrī śrī khaḍā daṇḍā bābājī, who was
-reputed to have performed many miracles according to his devotees. He
+reputed to have performed many miracles according tohis devotees. He
 had been debunked and exposed as a fraud by Dr. Assolkar. However, the
 police found no involvement of the organization of the godman despite a
 thorough investigation. In course of another investigation concerning
@@ -755,8 +758,8 @@ Dr. Assolkar. They are believed to have confessed their crimes during
 the interrogation by the police.”  
 Somakhya stopped the robot from reading further and smiling at Lootika
 remarked: “Well, there is always some doubt regarding whether the
-daṇḍaka-s have got it right but, I guess irrespective of that, they
-have given us the needed revenge.”  
+daṇḍaka-s have got it right but, I guess irrespective of that, they have
+given us the needed revenge.”  
 Vrishchika: “Oh these were the guys behind the dreadful bahānāmati
 episode? It still zaps me in my dreams.”  
 Somakhya: “I realized that Shareef was striking at you all for twice
@@ -765,7 +768,7 @@ Vrishchika, in the haze of all that we never fully learned how you and
 Varoli got to the bottom of it. The nitrocellulose does not surprise me
 one bit, though I would never trivialize Varoli’s confirmatory analysis
 with a small amount of material. Most importantly how did you figure out
-my anthrax? That seemed like a long shot of Qasar’s son\!”  
+my anthrax? That seemed like a long shot of Qasar’s son!”  
 Vrishchika: “It is a strange story. Lootika had procured a book by the
 title turuṣkarāja-bhairaveṇa proktaṃ bahānāmati-sarvasvaṃ. The day she
 went to obtain those fateful objects and meet you for that secret
@@ -804,7 +807,7 @@ Prithivi Singh incident might have inspired modern marūnmatta-s with
 access to the Mohammedan bioterrorists from the terrorist state to the
 north to make it a good bahānāmati agent.”  
 Lootika: “As Maurvi and I had been hit by the fire trick, and you were
-still alive but showing symptoms, I guess it was not that hard for
+still alive but showing symptoms, I guess itwas not that hard for
 Vrishchika to take a shot. After all urgency was a key in not going the
 way of the lamented Prithivi Singh.”  
 Somakhya: “Vrishchika, now for that mantra – you will get it from
@@ -822,14 +825,14 @@ That is like antibiotic therapy. But sometimes it is good to let the
 They all smiled at each other. Vrishchika: “But what about that agent in
 the water-works department?”  
 Lootika chuckled and said: “Well, the unmūlana-vādin would have clapped
-us as unmadita-s into a mental hospital for that\! So in his memory and
+us as unmadita-s into a mental hospital for that! So in his memory and
 in the interest of pleasant dreams tonight let’s keep it for another
-day\!”
+day!”
 
 :::::::::::::::::::::::::::::::::::::  
 Appendix 1: The secret teaching of the mantra goes thus: nīlakaṇṭha :
 lakṣmī : śikhaṇḍin : khaṇḍa : ḍamaru : vāk : hari : nalakūbara :
-puliṅgam | The mantra was first seen by the divine eagle garuḍa when
+puliṅgam \| The mantra was first seen by the divine eagle garuḍa when
 skanda was installed as the commander of the deva-senā. He transmitted
 it to vīrabhadra, he then transmitted it to vīrabāhu. This is the
 amaraugha. Among the ṛṣi-s it was first seen by aitaṣo bhārgava that
@@ -840,3 +843,4 @@ emperor śatānīka sātrājita. This the vipraugha. Eventually, it was
 transmitted to the yuganātha ṣaṣṭhīśanātha and his dūtī viṣākha-maṅgalā.
 From them to mayūranātha and his dūtī nakṣatra-mekhalā. From them to
 manvarṇavanātha and his dūtī sarvamaṅgalā.
+

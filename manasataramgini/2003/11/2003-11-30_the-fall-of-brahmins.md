@@ -1,7 +1,11 @@
 +++
 title = "The fall of brahmins"
+date = "2003-11-30"
+upstream_url = "https://manasataramgini.wordpress.com/2003/11/30/the-fall-of-brahmins/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/11/30/the-fall-of-brahmins/).
+
 The Brahmins, the metaphorical head of the Indo-Aryan society are now
 facing a major crisis. They have always contributed to Hindu society,
 way more than what it suggested by their numbers. Their main pioneering
@@ -33,3 +37,4 @@ movements like Bauddha, Jaina and chArvAka. But against the British they
 appear to have been beaten.  
 If the brahmin is really beaten, the effects of this on India and the
 Hindus will be felt heavily in the future.
+

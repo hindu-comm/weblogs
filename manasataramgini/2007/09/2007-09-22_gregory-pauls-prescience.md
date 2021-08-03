@@ -1,27 +1,31 @@
 +++
 title = "Gregory Paul’s prescience"
+date = "2007-09-22"
+upstream_url = "https://manasataramgini.wordpress.com/2007/09/22/gregory-pauls-prescience/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/09/22/gregory-pauls-prescience/).
+
 The previous snippets on related topics:  
 \* [The big and small of
-theropods](http://manasataramgini.wordpress.com/2007/06/big-and-small-of-theropods.html)  
+theropods](http://manollasa.blogspot.com/2007/06/big-and-small-of-theropods.html)  
 \* [Organ and Edwards on dinosaur
-genomes](http://manasataramgini.wordpress.com/2007/03/organ-and-edwards-on-dinosaur-genomes.html)  
+genomes](http://manollasa.blogspot.com/2007/03/organ-and-edwards-on-dinosaur-genomes.html)  
 \* [Microraptor as a
-biplane](http://manasataramgini.wordpress.com/2007/01/microraptor-as-biplane.html)  
+biplane](http://manollasa.blogspot.com/2007/01/microraptor-as-biplane.html)  
 \* [Jurapterxy- wrong
-inferences?](http://manasataramgini.wordpress.com/2006/03/jurapterxy-wrong-inferences.html)  
+inferences?](http://manollasa.blogspot.com/2006/03/jurapterxy-wrong-inferences.html)  
 \* [Tyrannosaurs and morphological evolution in
-coelurosaurs](http://manasataramgini.wordpress.com/2006/02/tyrannosaurs-and-morphological.html)  
+coelurosaurs](http://manollasa.blogspot.com/2006/02/tyrannosaurs-and-morphological.html)  
 \* [The rise of
-tyrannosaurs](http://manasataramgini.wordpress.com/2006/02/rise-of-tyrannosaurs.html)  
+tyrannosaurs](http://manollasa.blogspot.com/2006/02/rise-of-tyrannosaurs.html)  
 \*
-[Buitreraptor](http://manasataramgini.wordpress.com/2005/10/buitreraptor.html)  
+[Buitreraptor](http://manollasa.blogspot.com/2005/10/buitreraptor.html)  
 \* [The adaptive radiation of avian and para-avian
-clades](http://manasataramgini.wordpress.com/2005/02/adaptive-radiation-of-avian-and-para.html)
+clades](http://manollasa.blogspot.com/2005/02/adaptive-radiation-of-avian-and-para.html)
 
 \* [Neuquenraptor argentinus and the
-deinonychosaurs](http://manasataramgini.wordpress.com/2005/02/neuquenraptor-argentinus-and.html)
+deinonychosaurs](http://manollasa.blogspot.com/2005/02/neuquenraptor-argentinus-and.html)
 
 [![](https://i1.wp.com/bp1.blogger.com/_ZhvcTTaaD_4/RvX8XEaSUdI/AAAAAAAAAOk/dJkgPiar3Gk/s320/thermopolis_archie.jpg)](http://bp1.blogger.com/_ZhvcTTaaD_4/RvX8XEaSUdI/AAAAAAAAAOk/dJkgPiar3Gk/s1600-h/thermopolis_archie.jpg)
 
@@ -77,7 +81,7 @@ dromaeosaurs. The basal-most lineage of troodontids are the Chinese
 forms Mei and Sinovenator, with a crown group formed of Byronosaurus,
 Saurornithoides and Troodon. The basal-most dromaeosaur is Mahakala with
 3 major radiations including: 1) The unenlagines- Unenlagia
-(\>Nequenraptor?), Buitreraptor, Rahonavis and Shanag. Of these, all
+(>Nequenraptor?), Buitreraptor, Rahonavis and Shanag. Of these, all
 except Shanag are from the Gondwanan fragments. 2) The Chinese radiation
 comprised of Microraptor, Graciliraptor and Sinornithosaurus.
 Bambiraptor might also belong to this clade, but the prudish
@@ -149,3 +153,4 @@ mammalian hair. When did this dino-down first emerge in archosaurs? We
 know most likely this emerged after the crocodile line branched off, by
 the exact point of emergence is the big question still in need of an
 answer.
+

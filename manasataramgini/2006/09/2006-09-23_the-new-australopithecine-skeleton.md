@@ -1,7 +1,13 @@
 +++
 title = "The new australopithecine skeleton"
+date = "2006-09-23"
+upstream_url = "https://manasataramgini.wordpress.com/2006/09/23/the-new-australopithecine-skeleton/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/09/23/the-new-australopithecine-skeleton/).
+
+
+
 [![](https://i0.wp.com/photos1.blogger.com/blogger/2010/410/320/australopithecus.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/australopithecus.jpg)[![](https://i2.wp.com/photos1.blogger.com/blogger/2010/410/320/australopithecus_tibia.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/australopithecus_tibia.jpg)
 
 R and I discussed the new find of Australopithecus afarensis by
@@ -66,3 +72,4 @@ physical component in male dominance. In an accompanying note Wood
 suggests that A.afarensis may have instead used its air sacs to shout
 down opponents. However, given that other apes with large canines also
 have comparable air sacs makes this idea rather fanciful.
+

@@ -1,7 +1,11 @@
 +++
 title = "The vaiShNava mahAmantra"
+date = "2005-10-16"
+upstream_url = "https://manasataramgini.wordpress.com/2005/10/16/the-vaishnava-mahamantra/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/10/16/the-vaishnava-mahamantra/).
+
 oM oM oM hrIM hrIM hrIM shrIM shrIM shrIM 0M aM aM aM hauM hauM hauM
 haMsaH haMsaH haMsaH oM hrIM shrIM namo viShNave //
 
@@ -51,3 +55,4 @@ shambhAras are his skeletal articulations (TA 5.2.11). The devapatnyas
 mind; the puruSha is his consciousness (RV 10.90) and the shrI sUktaM is
 his shakti (RV Kh 5.87). praNava and tArA bIjas are his secret names,
 while rudra (TA 4.5.7) and shukra (1.10.1) are is unconcealed names.
+

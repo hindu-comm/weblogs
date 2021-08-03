@@ -1,7 +1,11 @@
 +++
 title = "Some motifs in the Geser Khan epic"
+date = "2004-08-10"
+upstream_url = "https://manasataramgini.wordpress.com/2004/08/10/some-motifs-in-the-geser-khan-epic/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/08/10/some-motifs-in-the-geser-khan-epic/).
+
 The Geser Khan Epic of the Turko-Mongols is one of the last frontiers of
 comparative mythology that remains unexplored in terms of its potential
 to provide insights into the archaic structure of Eurasian mythology. It
@@ -47,3 +51,4 @@ interaction cannot be confidently assessed.
 
 \*The translations cited here are those made from Mongolian by
 Sarangerel Odigan
+

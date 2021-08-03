@@ -1,7 +1,11 @@
 +++
 title = "Leaves from the scrapbook"
+date = "2016-09-18"
+upstream_url = "https://manasataramgini.wordpress.com/2016/09/18/leaves-from-the-scrapbook/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2016/09/18/leaves-from-the-scrapbook/).
+
 There were extensive memoirs in the form of electronic scrapbooks of
 Somakhya, Lootika and some members of their circle. Those in the know
 read the available excerpts due to matters of considerable interest
@@ -11,21 +15,21 @@ from the record of Lootika; some of what is contained in them might have
 a parallel version in Somakhya’s record.
 
 Entry 22; mārgavakra-mīna, Rākṣasa year of the first cycle: These summer
-days Vrishchika and I sleep on the terrace. We are often up late talking
+days Vrishchika and I sleep on the terrace. We areoften up late talking
 and duly wake up late too, much to our parents dislike. We watch with
 awe the starry vault turn above us, looking out for meteors, Ulka-s,
 which are pratyakṣa-s of the dreadful elephant-headed Vināyaka deva-s,
 four in number created by the mighty Skanda. We often try to catch the
 faintest objects on good nights. Vrishchika fills me in on the work she
-is  doing on the genetics of subtler visible quantitative traits in
+isdoing on the genetics of subtler visible quantitative traits in
 humans and we break our heads about the many problems in our
 investigation before lapsing into a pleasant sleep dreaming of being in
 the embrace of our kāmin-s against their firm chests. Many aspects of
 such a study have been surprisingly neglected as it was derided as no
 better than disreputable things like phrenology, physiognomy, racism and
-the like. While with my assistance Vrishchika has a good handle of how
+the like. While with my assistance Vrishchika hasa good handle of how
 to study and understand the actual sequence variation at various loci,
-we are hard-pressed with many aspects of the quantitative genetics.
+we arehard-pressed with many aspects of the quantitative genetics.
 Somakhya has a long distance friend named Indrasena with whom he is
 close and often in touch though he has seen him only once or twice. He
 is from the distant city of Udyānapurīṣa where Somakhya’s cousins
@@ -82,29 +86,29 @@ Entry 24; cala-saṃkhya, Rākṣasa year of the first cycle: I wished to
 learn about the new star we had seen appear in Cygnus; so I went to meet
 Somakhya. He too was excited about it and informed me that that it was a
 pulsating red giant called
-![\\chi](https://s0.wp.com/latex.php?latex=%5Cchi&bg=ffffff&fg=333333&s=0
-"\\chi") Cygni having reached its maximum. It is a Mira-type variable,
-whose prototypical star Mira in Cetus he had shown me few years earlier.
+![\\chi](https://s0.wp.com/latex.php?latex=%5Cchi&bg=ffffff&fg=333333&s=0&c=20201002)
+Cygni having reached its maximum. It is a Mira-type variable, whose
+prototypical star Mira in Cetus he had shown me few years earlier.
 Thereafter, I had such a engrossing session with Somakhya. It all began
 when I asked Somakhya about the variability of the star
-![\\eta](https://s0.wp.com/latex.php?latex=%5Ceta&bg=ffffff&fg=333333&s=0
-"\\eta") Aquilae which we had noted waiting for sleep to overtake us. He
-informed me that it was a pulsating star called a Cepheid. From there we
-moved on to a discussion of oscillators other than the ![\\sin
-(x)](https://s0.wp.com/latex.php?latex=%5Csin+%28x%29&bg=ffffff&fg=333333&s=0
-"\\sin (x)")-like functions. Somakhya had taught me the van der Pol
-equation a couple of years ago when explaining how one numerically
-solves differential equations but I had not paid much attention to its
-specifics. Today he showed me how some forms of the vdP equation
-produced oscillations which could show a bit of chaotic behavior. Forms
-of the vdP are good simulators of the curves of (semi)regular pulsating
-variables and we played with them a little trying to recapitulate what
-Somakhya explained to me as being the Blazhko phenomenon in Cepheid
-variability i.e. the periodic modulation of the basic mode of pulsation.
+![\\eta](https://s0.wp.com/latex.php?latex=%5Ceta&bg=ffffff&fg=333333&s=0&c=20201002)
+Aquilae which we had noted waiting for sleep to overtake us. He informed
+me that it was a pulsating star called a Cepheid. From there we moved on
+to a discussion of oscillators other than the ![\\sin
+(x)](https://s0.wp.com/latex.php?latex=%5Csin+%28x%29&bg=ffffff&fg=333333&s=0&c=20201002)-like
+functions. Somakhya had taught me the van der Pol equation a couple of
+years ago when explaining how one numerically solves differential
+equations but I had not paid much attention to its specifics. Today he
+showed me how some forms of the vdP equation produced oscillations which
+could show a bit of chaotic behavior. Forms of the vdP are good
+simulators of the curves of (semi)regular pulsating variables and we
+played with them a little trying to recapitulate what Somakhya explained
+to me as being the Blazhko phenomenon in Cepheid variability i.e. the
+periodic modulation of the basic mode of pulsation.
 
 Entry 25; cala-stṛ, Rākṣasa year of the first cycle:
 
-![reaction\_kinetics](https://manasataramgini.files.wordpress.com/2016/09/reaction_kinetics.png?w=640)
+![reaction_kinetics](https://manasataramgini.files.wordpress.com/2016/09/reaction_kinetics.png?w=640)
 
 *Simple reaction kinetics*
 
@@ -135,7 +139,7 @@ have been discovered by mathematicians \[Footnote 1\] which can be seen
 as different variants of the simple LV equation that describes in
 population oscillations of prey and predator locked in conflict.
 
-![lv\_chaos](https://manasataramgini.files.wordpress.com/2016/09/lv_chaos.png?w=640)
+![lv_chaos](https://manasataramgini.files.wordpress.com/2016/09/lv_chaos.png?w=640)
 
 *Emergence of chaotic population dynamics in a simple system of 3
 complexly interacting species*
@@ -154,23 +158,23 @@ is proportional to product of the X and Y populations. Additionally, the
 growth of Y benefits from metabolites which X produces even without Y
 directly feeding on X. As a result the total positive dependency of the
 growth rate of Y is proportional
-![X^2Y](https://s0.wp.com/latex.php?latex=X%5E2Y&bg=ffffff&fg=333333&s=0
-"X^2Y"). Like in the simple LV equation Y again loses individuals to
-death and migration arising from inter-parasite conflict at a rate which
-is proportional to its own population at time t. Y has no interaction
-with Z; hence its growth rate shows no direct dependency on it. Now
-species Z needs to directly interact with X to grow; hence, its growth
-rate is positively correlated to product of the populations of X and Z.
-On the other hand the increase of X by itself results in loss of
-resources for Z’s growth, so its growth rate shows a further negative
-dependency on population of X by itself and Z too loses a certain part
-of its population to death and migration at a rate proportional to its
-current population size. Remarkably, this system has a notable range of
+![X^2Y](https://s0.wp.com/latex.php?latex=X%5E2Y&bg=ffffff&fg=333333&s=0&c=20201002).
+Like in the simple LV equation Y again loses individuals to death and
+migration arising from inter-parasite conflict at a rate which is
+proportional to its own population at time t. Y has no interaction with
+Z; hence its growth rate shows no direct dependency on it. Now species Z
+needs to directly interact with X to grow; hence, its growth rate is
+positively correlated to product of the populations of X and Z. On the
+other hand the increase of X by itself results in loss of resources for
+Z’s growth, so its growth rate shows a further negative dependency on
+population of X by itself and Z too loses a certain part of its
+population to death and migration at a rate proportional to its current
+population size. Remarkably, this system has a notable range of
 parameters where the populations X, Y and Z vary chaotically. As a
 result their population maps produce strange attractors similar to the
 famous Rössler or Lorenz attractors.
 
-![logistic\_4species\_chaos](https://manasataramgini.files.wordpress.com/2016/09/logistic_4species_chaos.png?w=640)
+![logistic_4species_chaos](https://manasataramgini.files.wordpress.com/2016/09/logistic_4species_chaos.png?w=640)
 
 *Chaotic population dynamics of four competing species with a basic
 logistic growth*
@@ -226,8 +230,7 @@ returns: the red ellipse and the red hyperbola. All this began years ago
 when we were in school. I have hitherto only recorded bits and pieces
 out of fear of the thing. But now that it thrust itself back into my
 existence I am moved to record the whole story supplemented by
-Somakhya’s own records on the mathematical curiosities that surround
-it.
+Somakhya’s own records on the mathematical curiosities that surround it.
 
 It was shortly after I and my sisters had transferred to the new school,
 an event which was to have a momentous impact on my existence.
@@ -248,7 +251,7 @@ Hemalinga studied it and realized that it was a solution for the
 trisection of the angle with just a compass and a straightedge
 \[Footnote 2\].
 
-![trisection\_approx](https://manasataramgini.files.wordpress.com/2016/09/trisection_approx.png?w=640&h=551)
+![trisection_approx](https://manasataramgini.files.wordpress.com/2016/09/trisection_approx.png?w=640&h=551)
 
 *Construction to approximately trisect a given angle*
 
@@ -259,35 +262,32 @@ half-smiled and said they were certainly wrong. Over the rest of the
 lunch break he pored over the figure and proved using some geometry that
 it was not a true trisector but a saw-tooth like function of the form:  
 ![y=\\arctan \\left(\\dfrac{2\\sin \\left(\\frac{x}{2}\\right)}{1+2\\cos
-\\left(\\dfrac{x}{2}\\right)}\\right)](https://s0.wp.com/latex.php?latex=y%3D%5Carctan+%5Cleft%28%5Cdfrac%7B2%5Csin+%5Cleft%28%5Cfrac%7Bx%7D%7B2%7D%5Cright%29%7D%7B1%2B2%5Ccos+%5Cleft%28%5Cdfrac%7Bx%7D%7B2%7D%5Cright%29%7D%5Cright%29&bg=ffffff&fg=333333&s=0
-"y=\\arctan \\left(\\dfrac{2\\sin \\left(\\frac{x}{2}\\right)}{1+2\\cos \\left(\\dfrac{x}{2}\\right)}\\right)")  
+\\left(\\dfrac{x}{2}\\right)}\\right)](https://s0.wp.com/latex.php?latex=y%3D%5Carctan+%5Cleft%28%5Cdfrac%7B2%5Csin+%5Cleft%28%5Cfrac%7Bx%7D%7B2%7D%5Cright%29%7D%7B1%2B2%5Ccos+%5Cleft%28%5Cdfrac%7Bx%7D%7B2%7D%5Cright%29%7D%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002)  
 He called it the approximate trisector and showed that it rather closely
 approximated
-![y=\\dfrac{x}{3}](https://s0.wp.com/latex.php?latex=y%3D%5Cdfrac%7Bx%7D%7B3%7D&bg=ffffff&fg=333333&s=0
-"y=\\dfrac{x}{3}") in the domain ![-\\dfrac{4\\pi}{3} \\leq x \\leq
-\\dfrac{4\\pi}{3}](https://s0.wp.com/latex.php?latex=-%5Cdfrac%7B4%5Cpi%7D%7B3%7D+%5Cleq+x+%5Cleq+%5Cdfrac%7B4%5Cpi%7D%7B3%7D&bg=ffffff&fg=333333&s=0
-"-\\dfrac{4\\pi}{3} \\leq x \\leq \\dfrac{4\\pi}{3}")
+![y=\\dfrac{x}{3}](https://s0.wp.com/latex.php?latex=y%3D%5Cdfrac%7Bx%7D%7B3%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+in the domain ![-\\dfrac{4\\pi}{3} \\leq x \\leq
+\\dfrac{4\\pi}{3}](https://s0.wp.com/latex.php?latex=-%5Cdfrac%7B4%5Cpi%7D%7B3%7D+%5Cleq+x+%5Cleq+%5Cdfrac%7B4%5Cpi%7D%7B3%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 
-![trisection\_approx\_function](https://manasataramgini.files.wordpress.com/2016/09/trisection_approx_function.png?w=640)
+![trisection_approx_function](https://manasataramgini.files.wordpress.com/2016/09/trisection_approx_function.png?w=640)
 
 *The approx-trisector function*
 
 Using this function he established that at ![x \\approx
-124.3^o](https://s0.wp.com/latex.php?latex=x+%5Capprox+124.3%5Eo&bg=ffffff&fg=333333&s=0
-"x \\approx 124.3^o") the difference between the real and this
-approximate trisection was
-![-1^o](https://s0.wp.com/latex.php?latex=-1%5Eo&bg=ffffff&fg=333333&s=0
-"-1^o"). Thus, for the angles we had tried it was close or below the
-resolution of my protractor. Hemalinga, who was known in the school for
-his prodigious mathematical capacity, seemed a bit red-faced and
-Somakhya rubbed it in a bit further after calculating the first term of
-the Maclaurin series of approx trisector showing it was
-![y=\\dfrac{x}{3}](https://s0.wp.com/latex.php?latex=y%3D%5Cdfrac%7Bx%7D%7B3%7D&bg=ffffff&fg=333333&s=0
-"y=\\dfrac{x}{3}") thus proving why it seemed to work. Two years ago
-Hemalinga ran into us, and as though to make a point to Somakhya, showed
-us that he had integrated by hand the approx trisector function –
-something which filled a whole page. He felt very pleased when Somakhya
-remarked that he could never done that without a computer.
+124.3^o](https://s0.wp.com/latex.php?latex=x+%5Capprox+124.3%5Eo&bg=ffffff&fg=333333&s=0&c=20201002)
+the difference between the real and this approximate trisection was
+![-1^o](https://s0.wp.com/latex.php?latex=-1%5Eo&bg=ffffff&fg=333333&s=0&c=20201002).
+Thus, for the angles we had tried it was close or below the resolution
+of my protractor. Hemalinga, who was known in the school for his
+prodigious mathematical capacity, seemed a bit red-faced and Somakhya
+rubbed it in a bit further after calculating the first term of the
+Maclaurin series of approx trisector showing it was
+![y=\\dfrac{x}{3}](https://s0.wp.com/latex.php?latex=y%3D%5Cdfrac%7Bx%7D%7B3%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+thus proving why it seemed to work. Two years ago Hemalinga ran into us,
+and as though to make a point to Somakhya, showed us that he had
+integrated by hand the approx trisector function – something which
+filled a whole page. He felt very pleased when Somakhya remarked that he
+could never done that without a computer.
 
 That incident aside, coming back to the the matter at hand, by the end
 of that school day both Somakhya and I were feeling strangely unwell. I
@@ -353,26 +353,26 @@ while playing table tennis with Abhirosha.
 The next day I was still fighting with the construction when Somakhya
 gave me a hint: “The eccentricity of a conic is the tangent of an angle
 between 0 to
-![\\dfrac{\\pi}{2}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B%5Cpi%7D%7B2%7D&bg=ffffff&fg=333333&s=0
-"\\dfrac{\\pi}{2}").” This immediately fired the light bulb in my head
-and I took that geometry box and drew out the construction. As I placed
-the curve-fitting tape to draw out the ellipse, it neatly folded into an
+![\\dfrac{\\pi}{2}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B%5Cpi%7D%7B2%7D&bg=ffffff&fg=333333&s=0&c=20201002).”
+This immediately fired the light bulb in my head and I took that
+geometry box and drew out the construction. As I placed the
+curve-fitting tape to draw out the ellipse, it neatly folded into an
 elliptical path almost magically. I was amazed and drew a nice ellipse
 with the red pen which looked like an egg of the goddess Vinatā bearing
 the aquiline god. I next drew a parabola with the angle set at
-![\\dfrac{\\pi}{4}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B%5Cpi%7D%7B4%7D&bg=ffffff&fg=333333&s=0
-"\\dfrac{\\pi}{4}") I wanted to show this construction to my family, so
-I carefully placed it in my file so that it might not get folded. That
-night I explained the construction to my father and drew out the sheet
-to show it him when to my anguish and embarrassment the parabola and the
-ellipse had vanished even though the rest of the construction was
-intact. The next day I showed it to Somakhya who was also surprised by
-how cleanly the conics had vanished. He had seen them himself and
-wondered how that could be. He brought out the red pen and drew them
-again himself. We ensured they were there and I again put the sheet into
-my file. That afternoon just before leaving home I checked the sheet
-again and the conics had vanished again. Startled I just threw sheet
-away and went home.
+![\\dfrac{\\pi}{4}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B%5Cpi%7D%7B4%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+I wanted to show this construction to my family, so I carefully placed
+it in my file so that it might not get folded. That night I explained
+the construction to my father and drew out the sheet to show it him when
+to my anguish and embarrassment the parabola and the ellipse had
+vanished even though the rest of the construction was intact. The next
+day I showed it to Somakhya who was also surprised by how cleanly the
+conics had vanished. He had seen them himself and wondered how that
+could be. He brought out the red pen and drew them again himself. We
+ensured they were there and I again put the sheet into my file. That
+afternoon just before leaving home I checked the sheet again and the
+conics had vanished again. Startled I just threw sheet away and went
+home.
 
 Some days later Somakhya had shown me how to genuinely trisect any angle
 using a hyperbola. He had again constructed a red hyperbola and
@@ -404,7 +404,7 @@ and his drawing board and swiftly made away.
 Somakhya was utterly disappointed and the next day he asked me for he
 sheet of paper on which he had drawn the hyperbolic trisection of an
 angle, perhaps with a longing for the stolen box. I took it out and we
-looked at each other in horror: the hyperbola had utterly vanished\! I
+looked at each other in horror: the hyperbola had utterly vanished! I
 could read Somakhya’s mind that he was beginning to have conflicting
 feelings about the box. However, he could not take the theft lying down.
 Via several inquiries he obtained evidence that the thief was
@@ -435,7 +435,7 @@ him that since the constructions he was drawing and the board were not
 part of the curriculum, which was being taught at school they would not
 take any remedial action. They let off Sphichmukh after mildly lecturing
 him about the impoliteness of taking others things. Somakhya revealed to
-me then that more than the loss of the box which he had himself obtained
+me then that more than the loss of the boxwhich he had himself obtained
 for free he had lost something more precious with it. In the same bag he
 had kept a khārkhoḍā with the yantra of the pūrvāṃnāya with the trident
 and the three bhairavī-s and the 3 supine bhairava-s. With the loss of
@@ -454,18 +454,18 @@ wished to do, which was quite removed from my path of life.
 Nevertheless, that exam had several stiff mathematical tests. I had
 trained her the previous year for her university entrance exam and knew
 that she was quite capable of surviving the impending tests in algebra,
-calculus and numbers. But she does not have much of flourish in geometry
+calculus and numbers. But she doesnot have much of flourish in geometry
 so she is back to consult me. Thus, I and Jhilli decided to look at her
 problems. There was a problem of polygons whose areas and circumferences
 approximate
-![\\pi](https://s0.wp.com/latex.php?latex=%5Cpi&bg=ffffff&fg=333333&s=0
-"\\pi"). I remembered that Somakhya’s father had once posed that to me
-and Vrishchika – he wanted to see for himself if we were really what
-what people said about us. I let Jhilleeka solve that one. Then she took
-out a sheet of math-paper and showed a failed attempt of a construction
-of what should have been a Cartesian oval on it. As she showed it she
+![\\pi](https://s0.wp.com/latex.php?latex=%5Cpi&bg=ffffff&fg=333333&s=0&c=20201002).
+I remembered that Somakhya’s father had once posed that to me and
+Vrishchika – he wanted to see for himself if we were really what what
+people said about us. I let Jhilleeka solve that one. Then she took out
+a sheet of math-paper and showed a failed attempt of a construction of
+what should have been a Cartesian oval on it. As she showed it she
 pointed to some unnecessary lines and remarked: “Hell, where did these
-vertical lines come from out of the blue\! This is is spooky.” Just then
+vertical lines come from out of the blue! This is is spooky.” Just then
 I caught sight of her geometry box and my jaw literally dropped: “How on
 earth did you get that box?” Abhirosha: “Actually, that’s bit strange. I
 found it by chance on the bank of the pond sometime ago.” I looked at it
@@ -486,65 +486,52 @@ from a town among the Karṇāṭa-s known as Hiriyuru.
 Footnote 1: e.g. works of Sprott and the like
 
 Footnote 2: The construction goes thus:  
-1\) To trisect angle A in this case
-![57^o](https://s0.wp.com/latex.php?latex=57%5Eo&bg=ffffff&fg=333333&s=0
-"57^o") draw circular arc BC cutting the two rays of the angle at B and
-C.  
-2\) Then bisect angle A to intersect ![\\widehat{BC}
-](https://s0.wp.com/latex.php?latex=%5Cwidehat%7BBC%7D+&bg=ffffff&fg=333333&s=0
-"\\widehat{BC} ") at point D. Connect Point D to point B and C to get
-segments
-![\\overline{DB}](https://s0.wp.com/latex.php?latex=%5Coverline%7BDB%7D&bg=ffffff&fg=333333&s=0
-"\\overline{DB}") and
-![\\overline{DC}](https://s0.wp.com/latex.php?latex=%5Coverline%7BDC%7D&bg=ffffff&fg=333333&s=0
-"\\overline{DC}").  
-3\) Trisect
-![\\overline{DB}](https://s0.wp.com/latex.php?latex=%5Coverline%7BDB%7D&bg=ffffff&fg=333333&s=0
-"\\overline{DB}") to get point H as the beginning of the 3rd segment of
-trisected
-![\\overline{DB}](https://s0.wp.com/latex.php?latex=%5Coverline%7BDB%7D&bg=ffffff&fg=333333&s=0
-"\\overline{DB}").  
-4\) Join point A to H to get
-![\\overrightarrow{AH}](https://s0.wp.com/latex.php?latex=%5Coverrightarrow%7BAH%7D&bg=ffffff&fg=333333&s=0
-"\\overrightarrow{AH}"). ![\\angle{BAH} \\approx \\dfrac{\\angle
-BAC}{3}](https://s0.wp.com/latex.php?latex=%5Cangle%7BBAH%7D+%5Capprox+%5Cdfrac%7B%5Cangle+BAC%7D%7B3%7D&bg=ffffff&fg=333333&s=0
-"\\angle{BAH} \\approx \\dfrac{\\angle BAC}{3}").  
+1) To trisect angle A in this case
+![57^o](https://s0.wp.com/latex.php?latex=57%5Eo&bg=ffffff&fg=333333&s=0&c=20201002)
+draw circular arc BC cutting the two rays of the angle at B and C.  
+2) Then bisect angle A to intersect ![\\widehat{BC}
+](https://s0.wp.com/latex.php?latex=%5Cwidehat%7BBC%7D+&bg=ffffff&fg=333333&s=0&c=20201002)
+at point D. Connect Point D to point B and C to get segments
+![\\overline{DB}](https://s0.wp.com/latex.php?latex=%5Coverline%7BDB%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+and
+![\\overline{DC}](https://s0.wp.com/latex.php?latex=%5Coverline%7BDC%7D&bg=ffffff&fg=333333&s=0&c=20201002).  
+3) Trisect
+![\\overline{DB}](https://s0.wp.com/latex.php?latex=%5Coverline%7BDB%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+to get point H as the beginning of the 3rd segment of trisected
+![\\overline{DB}](https://s0.wp.com/latex.php?latex=%5Coverline%7BDB%7D&bg=ffffff&fg=333333&s=0&c=20201002).  
+4) Join point A to H to get
+![\\overrightarrow{AH}](https://s0.wp.com/latex.php?latex=%5Coverrightarrow%7BAH%7D&bg=ffffff&fg=333333&s=0&c=20201002).
+![\\angle{BAH} \\approx \\dfrac{\\angle
+BAC}{3}](https://s0.wp.com/latex.php?latex=%5Cangle%7BBAH%7D+%5Capprox+%5Cdfrac%7B%5Cangle+BAC%7D%7B3%7D&bg=ffffff&fg=333333&s=0&c=20201002).  
 Let the approximate trisection of ![\\angle
-BAC=x](https://s0.wp.com/latex.php?latex=%5Cangle+BAC%3Dx&bg=ffffff&fg=333333&s=0
-"\\angle BAC=x") be ![\\angle BAH=
-\\beta](https://s0.wp.com/latex.php?latex=%5Cangle+BAH%3D+%5Cbeta&bg=ffffff&fg=333333&s=0
-"\\angle BAH= \\beta"). From construction ![\\angle BAD =\\dfrac
-{x}{2}](https://s0.wp.com/latex.php?latex=%5Cangle+BAD+%3D%5Cdfrac+%7Bx%7D%7B2%7D&bg=ffffff&fg=333333&s=0
-"\\angle BAD =\\dfrac {x}{2}") and ![\\angle BAD =\\dfrac
-{x}{2}-\\beta](https://s0.wp.com/latex.php?latex=%5Cangle+BAD+%3D%5Cdfrac+%7Bx%7D%7B2%7D-%5Cbeta&bg=ffffff&fg=333333&s=0
-"\\angle BAD =\\dfrac {x}{2}-\\beta"). In
-![\\triangle{ABD}](https://s0.wp.com/latex.php?latex=%5Ctriangle%7BABD%7D&bg=ffffff&fg=333333&s=0
-"\\triangle{ABD}") we get from construction ![\\angle ABD=\\angle
-BDA](https://s0.wp.com/latex.php?latex=%5Cangle+ABD%3D%5Cangle+BDA&bg=ffffff&fg=333333&s=0
-"\\angle ABD=\\angle BDA"). Using sine rule we get:  
+BAC=x](https://s0.wp.com/latex.php?latex=%5Cangle+BAC%3Dx&bg=ffffff&fg=333333&s=0&c=20201002)
+be ![\\angle BAH=
+\\beta](https://s0.wp.com/latex.php?latex=%5Cangle+BAH%3D+%5Cbeta&bg=ffffff&fg=333333&s=0&c=20201002).
+From construction ![\\angle BAD =\\dfrac
+{x}{2}](https://s0.wp.com/latex.php?latex=%5Cangle+BAD+%3D%5Cdfrac+%7Bx%7D%7B2%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+and ![\\angle BAD =\\dfrac
+{x}{2}-\\beta](https://s0.wp.com/latex.php?latex=%5Cangle+BAD+%3D%5Cdfrac+%7Bx%7D%7B2%7D-%5Cbeta&bg=ffffff&fg=333333&s=0&c=20201002).
+In
+![\\triangle{ABD}](https://s0.wp.com/latex.php?latex=%5Ctriangle%7BABD%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+we get from construction ![\\angle ABD=\\angle
+BDA](https://s0.wp.com/latex.php?latex=%5Cangle+ABD%3D%5Cangle+BDA&bg=ffffff&fg=333333&s=0&c=20201002).
+Using sine rule we get:  
 ![\\dfrac{\\sin(\\beta)}{\\overline{BH}}=\\dfrac {\\sin
 (ABH)}{\\overline{AH}}=\\dfrac
-{\\sin(x/2-\\beta)}{\\overline{DH}}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B%5Csin%28%5Cbeta%29%7D%7B%5Coverline%7BBH%7D%7D%3D%5Cdfrac+%7B%5Csin+%28ABH%29%7D%7B%5Coverline%7BAH%7D%7D%3D%5Cdfrac+%7B%5Csin%28x%2F2-%5Cbeta%29%7D%7B%5Coverline%7BDH%7D%7D&bg=ffffff&fg=333333&s=0
-"\\dfrac{\\sin(\\beta)}{\\overline{BH}}=\\dfrac {\\sin (ABH)}{\\overline{AH}}=\\dfrac {\\sin(x/2-\\beta)}{\\overline{DH}}")
+{\\sin(x/2-\\beta)}{\\overline{DH}}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B%5Csin%28%5Cbeta%29%7D%7B%5Coverline%7BBH%7D%7D%3D%5Cdfrac+%7B%5Csin+%28ABH%29%7D%7B%5Coverline%7BAH%7D%7D%3D%5Cdfrac+%7B%5Csin%28x%2F2-%5Cbeta%29%7D%7B%5Coverline%7BDH%7D%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 
 From the construction we get ![\\overline{BH}=2
-\\overline{DH}](https://s0.wp.com/latex.php?latex=%5Coverline%7BBH%7D%3D2+%5Coverline%7BDH%7D&bg=ffffff&fg=333333&s=0
-"\\overline{BH}=2 \\overline{DH}")  
+\\overline{DH}](https://s0.wp.com/latex.php?latex=%5Coverline%7BBH%7D%3D2+%5Coverline%7BDH%7D&bg=ffffff&fg=333333&s=0&c=20201002)  
 Thus we have: ![\\sin (\\beta)=2\\sin
-(x/2-\\beta)](https://s0.wp.com/latex.php?latex=%5Csin+%28%5Cbeta%29%3D2%5Csin+%28x%2F2-%5Cbeta%29&bg=ffffff&fg=333333&s=0
-"\\sin (\\beta)=2\\sin (x/2-\\beta)")
+(x/2-\\beta)](https://s0.wp.com/latex.php?latex=%5Csin+%28%5Cbeta%29%3D2%5Csin+%28x%2F2-%5Cbeta%29&bg=ffffff&fg=333333&s=0&c=20201002)
 
 ![\\sin (\\beta)=2\\left(\\sin (x/2)\\cos
-(\\beta)-\\cos(x/2)\\sin(\\beta)\\right)](https://s0.wp.com/latex.php?latex=%5Csin+%28%5Cbeta%29%3D2%5Cleft%28%5Csin+%28x%2F2%29%5Ccos+%28%5Cbeta%29-%5Ccos%28x%2F2%29%5Csin%28%5Cbeta%29%5Cright%29&bg=ffffff&fg=333333&s=0
-"\\sin (\\beta)=2\\left(\\sin (x/2)\\cos (\\beta)-\\cos(x/2)\\sin(\\beta)\\right)")
+(\\beta)-\\cos(x/2)\\sin(\\beta)\\right)](https://s0.wp.com/latex.php?latex=%5Csin+%28%5Cbeta%29%3D2%5Cleft%28%5Csin+%28x%2F2%29%5Ccos+%28%5Cbeta%29-%5Ccos%28x%2F2%29%5Csin%28%5Cbeta%29%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002)
 
-![\\tan(\\beta)=2\\sin(x/2)-2\\tan(\\beta)\\cos(x/2)](https://s0.wp.com/latex.php?latex=%5Ctan%28%5Cbeta%29%3D2%5Csin%28x%2F2%29-2%5Ctan%28%5Cbeta%29%5Ccos%28x%2F2%29&bg=ffffff&fg=333333&s=0
-"\\tan(\\beta)=2\\sin(x/2)-2\\tan(\\beta)\\cos(x/2)")
+![\\tan(\\beta)=2\\sin(x/2)-2\\tan(\\beta)\\cos(x/2)](https://s0.wp.com/latex.php?latex=%5Ctan%28%5Cbeta%29%3D2%5Csin%28x%2F2%29-2%5Ctan%28%5Cbeta%29%5Ccos%28x%2F2%29&bg=ffffff&fg=333333&s=0&c=20201002)
 
-![\\tan(\\beta)=\\dfrac{2\\sin(x/2)}{1+2\\cos(x/2)}](https://s0.wp.com/latex.php?latex=%5Ctan%28%5Cbeta%29%3D%5Cdfrac%7B2%5Csin%28x%2F2%29%7D%7B1%2B2%5Ccos%28x%2F2%29%7D&bg=ffffff&fg=333333&s=0
-"\\tan(\\beta)=\\dfrac{2\\sin(x/2)}{1+2\\cos(x/2)}")
+![\\tan(\\beta)=\\dfrac{2\\sin(x/2)}{1+2\\cos(x/2)}](https://s0.wp.com/latex.php?latex=%5Ctan%28%5Cbeta%29%3D%5Cdfrac%7B2%5Csin%28x%2F2%29%7D%7B1%2B2%5Ccos%28x%2F2%29%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 
 Thus we get: ![\\beta= \\arctan \\left(\\dfrac{2\\sin
 \\left(\\dfrac{x}{2}\\right)}{1+2\\cos
-\\left(\\dfrac{x}{2}\\right)}\\right)](https://s0.wp.com/latex.php?latex=%5Cbeta%3D+%5Carctan+%5Cleft%28%5Cdfrac%7B2%5Csin+%5Cleft%28%5Cdfrac%7Bx%7D%7B2%7D%5Cright%29%7D%7B1%2B2%5Ccos+%5Cleft%28%5Cdfrac%7Bx%7D%7B2%7D%5Cright%29%7D%5Cright%29&bg=ffffff&fg=333333&s=0
-"\\beta= \\arctan \\left(\\dfrac{2\\sin \\left(\\dfrac{x}{2}\\right)}{1+2\\cos \\left(\\dfrac{x}{2}\\right)}\\right)")
+\\left(\\dfrac{x}{2}\\right)}\\right)](https://s0.wp.com/latex.php?latex=%5Cbeta%3D+%5Carctan+%5Cleft%28%5Cdfrac%7B2%5Csin+%5Cleft%28%5Cdfrac%7Bx%7D%7B2%7D%5Cright%29%7D%7B1%2B2%5Ccos+%5Cleft%28%5Cdfrac%7Bx%7D%7B2%7D%5Cright%29%7D%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002)

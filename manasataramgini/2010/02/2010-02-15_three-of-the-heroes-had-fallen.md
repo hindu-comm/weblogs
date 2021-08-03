@@ -1,7 +1,11 @@
 +++
 title = "Three of the heroes had fallen"
+date = "2010-02-15"
+upstream_url = "https://manasataramgini.wordpress.com/2010/02/15/three-of-the-heroes-had-fallen/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/02/15/three-of-the-heroes-had-fallen/).
+
 He had become a powerful yogin but had not acquired j\~nAna. He had
 acquired j\~nAna but lacked the power of yoga. So they wandered the
 earth never reaching their desired destination. But the third one, who
@@ -33,3 +37,4 @@ waited for her to manifest. She came but with her was the dreadful
 kauberaka known as virUpAkSha. Rather than receiving the favors of
 daMShTra-yakShiNI they were possessed by virUpAkSha. They continue to
 wander in that state.
+

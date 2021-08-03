@@ -1,8 +1,11 @@
 +++
-title = "Sanskrit – A Living Language for the Digitalxa0Age"
-date = "April 21, 2019"
+title = "Sanskrit – A Living Language for the Digital Age"
+date = "2019-04-21"
+upstream_url = "https://aryaakasha.com/2019/04/21/sanskrit-a-living-language-for-the-digital-age/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/04/21/sanskrit-a-living-language-for-the-digital-age/).
+
 ![18033322_10158582654690574_1799046232703418186_n](https://aryaakasha.files.wordpress.com/2019/04/18033322_10158582654690574_1799046232703418186_n.jpg?w=676)Man,
 this brings a smile to my face. Some allege that Sanskrit is a “dead”
 language; which is a bit of a nonsense – it’s still spoken literally

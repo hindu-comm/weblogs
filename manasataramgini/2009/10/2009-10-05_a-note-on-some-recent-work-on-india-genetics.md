@@ -1,7 +1,11 @@
 +++
 title = "A note on some recent work on Indian genetics"
+date = "2009-10-05"
+upstream_url = "https://manasataramgini.wordpress.com/2009/10/05/a-note-on-some-recent-work-on-india-genetics/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/10/05/a-note-on-some-recent-work-on-india-genetics/).
+
 Recently the English scientific tabloid published an article on the
 genetic variation in Indians which has led to some excitement among the
 Hindus. The reactions of what appears to be the majority of
@@ -31,7 +35,7 @@ picture of Indian ancestry that largely confirms conclusions from
 various previous studies but provides the weight of a genome-wide survey
 of variation.
 
-[![Indian\_genetic\_var](https://i0.wp.com/farm4.static.flickr.com/3536/3982392709_78e99250fd.jpg)](http://www.flickr.com/photos/24766652@N05/3982392709/ "Indian_genetic_var by somasushma, on Flickr")  
+[![Indian_genetic_var](https://i0.wp.com/farm4.static.flickr.com/3536/3982392709_78e99250fd.jpg)](http://www.flickr.com/photos/24766652@N05/3982392709/ "Indian_genetic_var by somasushma, on Flickr")  
 The first two eigenvectors of the PCA analysis. Only select populations
 are labeled and the estimated % of ancestral Western Eurasian ancestry
 (ANI as per the authors) is given for some populations.
@@ -158,7 +162,7 @@ wonders how they are saying something exactly opposite to what they say
 in the paper. In the paper it is mentioned that the mlechCha Reich wrote
 the paper, but how is it that the deshI authors who gave him the samples
 kept quiet if they interpreted the result in a diametrically opposite
-way\!
+way!
 
 Next on some Indian internet fora that I visit I noticed that many had
 gone berserk. There were the usual brahmadviS-s who were hurling venom
@@ -210,3 +214,4 @@ clueless about their own past and how to handle the picture emerging
 from such studies. Denial and ignorance seem to be the only strategies
 they have offered such far. Is it any surprise if the mlechCha-s overrun
 the Hindus sheltered behind such defenses?
+

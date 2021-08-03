@@ -1,7 +1,11 @@
 +++
 title = "Lost R^ik-s, the shruti and shUdra-s"
+date = "2009-05-29"
+upstream_url = "https://manasataramgini.wordpress.com/2009/05/29/lost-rik-s-the-shruti-and-shudra-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/05/29/lost-rik-s-the-shruti-and-shudra-s/).
+
 A chaturtha asked me if mantra-s in the shruti were entirely
 inaccessible to him. I told that if looked hard enough in the texts to
 which he had adhikAra he could find enough to be moderately aware of the
@@ -47,22 +51,23 @@ the vedic citations in some form and the core of the narrative is
 actually that of agni-Shoma which is directly based on the vedic
 citations. This is evidenced by the original question of arjuna to
 kR^iShNa:  
-agnIShomau kathaM pUrvam ekayonI pravartitau |  
-eSha me saMshayo jAtastaM chhindhi madhusUdana ||  
+agnIShomau kathaM pUrvam ekayonI pravartitau \|  
+eSha me saMshayo jAtastaM chhindhi madhusUdana \|\|  
 How did agni-Shomau, in days of yore, get established in the same
 original source? Such a doubt has arisen, please clear it O madhusUdana.
 
 It is in answering this that kR^iShNa explains the transformations of
 nArAyaNa and cites some vaidika mantra-s as pramANa-s:  
 nidarshanamapi hyatra bhavati:  
-nAsIdaho na rAtrirAsIt | na sadAsIn nAsadAsIt  
-tama eva purastAd abhavad vishvarUpam ||
+nAsIdaho na rAtrirAsIt \| na sadAsIn nAsadAsIt  
+tama eva purastAd abhavad vishvarUpaM \|\|
 
 mantravAdo.apI hi bhavati:  
-tvamagne yaj\~nAnAM hotA vishveShAM hito devebhir mAnuShe janeti ||
+tvamagne yaj\~nAnAM hotA vishveShAM hito devebhir mAnuShe janeti \|\|
 
 nidarshana.n chAtra bhavati:  
-vishveShAm agne yaj\~nAnAM hoteti | hito devair mAnuShair jagata iti ||
+vishveShAm agne yaj\~nAnAM hoteti \| hito devair mAnuShair jagata iti
+\|\|
 
 \[1\] stotras to tAntrika deities might be found but they lack tAntrika
 mantra-s; the harivaMsha might preserve proto-tAntric mantra elements in
@@ -74,3 +79,4 @@ pUru-s but this hardly means that the other Indo-Aryans and Iranians did
 not follow a “vaidika” system.
 
 continued…
+

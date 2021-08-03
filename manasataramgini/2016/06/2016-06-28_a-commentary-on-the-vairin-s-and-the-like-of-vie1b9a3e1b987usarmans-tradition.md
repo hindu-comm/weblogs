@@ -1,7 +1,11 @@
 +++
 title = "A commentary on the vairin-s and the like of Viṣṇuśarman’s tradition"
+date = "2016-06-28"
+upstream_url = "https://manasataramgini.wordpress.com/2016/06/28/a-commentary-on-the-vairin-s-and-the-like-of-vi%e1%b9%a3%e1%b9%87usarmans-tradition/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2016/06/28/a-commentary-on-the-vairin-s-and-the-like-of-vi%e1%b9%a3%e1%b9%87usarmans-tradition/).
+
 In one sense Viṣṇuśarman’s political presentation was nothing short of
 revolutionary. One may rightly ask: why so? One could say after all he
 was merely encapsulating in tales the principles already laid out by the
@@ -18,8 +22,8 @@ the lands conquered earlier by pretonmāda.
 Yet the primary reason why we stress the revolutionary nature of
 Viṣṇuśarman’s teaching is because of this:
 
-iśvarāṇām idaṃ tantraṃ prāyeṇautsukyam āvahet |  
-yatas tiraścāṃ caritair nītimārgaḥ pradarśyate ||  
+iśvarāṇām idaṃ tantraṃ prāyeṇautsukyam āvahet \|  
+yatas tiraścāṃ caritair nītimārgaḥ pradarśyate \|\|  
 This text of the gods might appear puzzling due to its teachings;  
 However, it intends illustrating by actions of animals the path of right
 politics.
@@ -28,7 +32,7 @@ Human politics is ultimately biological in origin; hence, other examples
 from the biological world, examples from fellow animals as Viṣṇuśarman
 used, should be taken seriously. [As we have briefly pointed out before
 Viṣṇuśarman was a keen observer of biological conflict in
-nature](https://manasataramgini.wordpress.com/2014/04/13/wise-vishnusharmans-vignette-on-biological-warfare/). It
+nature](https://manasataramgini.wordpress.com/2014/04/13/wise-vishnusharmans-vignette-on-biological-warfare/).It
 is with this lesson in mind one can understand [this
 story](https://manasataramgini.wordpress.com/2015/03/31/the-dream-motif/)
 fully. Likewise, an example is also expounded in [this
@@ -52,7 +56,7 @@ e.g.:
 idaṃ su me jaritar ā cikiddhi  
 pratīpaṃ śāpaṃ nadyo vahanti ।  
 lopāśaḥ siṃham pratyañcam atsāḥ  
-kroṣṭā varāhaṃ nir atakta kakṣāt || RV 10.28.4
+kroṣṭā varāhaṃ nir atakta kakṣāt \|\| RV 10.28.4
 
 Know well this \[teaching\] of mine O chanter \[of mantra-s\] (i.e.
 Vasukra),  
@@ -66,17 +70,17 @@ but shall not get into the cryptic intricacies of the RV text.
 
 Returning to Viṣṇuśarman we shall now look into an important teaching
 regarding conflict in the second tantra. Now any student of the
-Pañcatantra should realize that in learning lessons from it one needs
-to keep dharma in mind – that it has many textures and contextual
-wrinkles that are important for its correct application, else one may
-look like a “vasudhaiva kuṭuṃbakam ।” mouthing Indian politician or [the
-bābājī of this
+Pañcatantra should realize that in learning lessons from it one needs to
+keep dharma in mind – that it has many textures and contextual wrinkles
+that are important for its correct application, else one may look like a
+“vasudhaiva kuṭuṃbakam ।” mouthing Indian politician or [the bābājī of
+this
 story](https://manasataramgini.wordpress.com/2014/08/03/the-fourth-story/).
 The point we are going to talk about is presented in the conversation
 between the mouse Hiraṇyaka and the crow Laghupatanaka.
 
-hiraṇyaka āha: aho tvaṃ bhoktā | ahaṃ te bhojya-bhūtaḥ | tat kā tvayā
-saha mama maitrī ? tad gamyatām | maitrī virodha-bhāvāt katham ? uktaṃ
+hiraṇyaka āha: aho tvaṃ bhoktā \| ahaṃ te bhojya-bhūtaḥ \| tat kā tvayā
+saha mama maitrī ? tad gamyatām \| maitrī virodha-bhāvāt katham ? uktaṃ
 ca-
 
 The mouse Hiraṇyaka said: Well, you are the eater. I am among those who
@@ -84,8 +88,8 @@ become food. Thus, how can my friendship be with you. You ought to
 leave. What friendship can exist between opposite natures. It has been
 said \[in the texts\]:
 
-yayor eva samaṃ vittaṃ yayor eva samaṃ kulam |  
-tayor maitrī vivāhaś ca na tu puṣṭa-vipuṣṭayoḥ || (1)
+yayor eva samaṃ vittaṃ yayor eva samaṃ kulam \|  
+tayor maitrī vivāhaś ca na tu puṣṭa-vipuṣṭayoḥ \|\| (1)
 
 Only the two whose wealth is similar; only the two whose clans are of
 similar \[standing\],  
@@ -93,9 +97,9 @@ can have friendship and marriage; indeed, it cannot be between the
 well-endowed and unendowed.
 
 tathā ca-  
-yo mitraṃ kurute mūḍha ātmano ‘sadṛśaṃ kudhīḥ |  
-hīnaṃ vāpy adhikaṃ vāpi hāsyatāṃ yāty asau janaḥ || (2)  
-tad gamyatām iti |
+yo mitraṃ kurute mūḍha ātmano ‘sadṛśaṃ kudhīḥ \|  
+hīnaṃ vāpy adhikaṃ vāpi hāsyatāṃ yāty asau janaḥ \|\| (2)  
+tad gamyatām iti \|
 
 Moreover: The dim-witted idiot who makes friends with those unlike
 himself,  
@@ -103,62 +107,62 @@ with a lesser or a greater one, such a person ends up as a
 laughing-stock.  
 You ought to go.
 
-vāyasa āha: bho hiraṇyaka \! eṣo ‘haṃ tava durga-dvāra upaviṣṭaḥ | yadi
-tvaṃ maitrī na karoṣi tato ‘haṃ prāṇa-mokṣaṇaṃ tavāgre kariṣyāmi |
-athavā prāyopaveśanaṃ me syāt iti |
+vāyasa āha: bho hiraṇyaka ! eṣo ‘haṃ tava durga-dvāra upaviṣṭaḥ \| yadi
+tvaṃ maitrī na karoṣi tato ‘haṃ prāṇa-mokṣaṇaṃ tavāgre kariṣyāmi \|
+athavā prāyopaveśanaṃ me syāt iti \|
 
-The bird said: Hey Hiraṇyaka\! I have \[just\] alighted at your
+The bird said: Hey Hiraṇyaka! I have \[just\] alighted at your
 fort-door. If you do not make friendship then I will give up my life in
 front of you or else I may starve to death.
 
-hiraṇyaka āha: bhoḥ \! tvayā vairiṇā saha kathaṃ maitrīṃ karomi ? uktaṃ
+hiraṇyaka āha: bhoḥ ! tvayā vairiṇā saha kathaṃ maitrīṃ karomi ? uktaṃ
 ca-
 
-Hiraṇyaka said: Hey\! What friendship can I make with you an enemy. It
+Hiraṇyaka said: Hey! What friendship can I make with you an enemy. It
 has been said \[in the texts\]
 
-vairiṇā na hi sandadhyāt suśliṣṭenāpi sandhinā |  
-sutaptam api pānīyaṃ śamayaty eva pāvakam || (3)
+vairiṇā na hi sandadhyāt suśliṣṭenāpi sandhinā \|  
+sutaptam api pānīyaṃ śamayaty eva pāvakam \|\| (3)
 
 Never enter an entente with with an enemy however strongly tied he may
 be by the alliance  
 \[for\] water even if well heated puts off fire.
 
-vāyasa āha: bhoḥ \! tvayā saha darśanam api nāsti | kuto vairam ? tat
+vāyasa āha: bhoḥ ! tvayā saha darśanam api nāsti \| kuto vairam ? tat
 kim anucitaṃ vadasi ?
 
-The bird said: Hey\! I have not even had a glimpse of you. What enmity?
+The bird said: Hey! I have not even had a glimpse of you. What enmity?
 Why are you uttering such unfitting \[words\]?
 
-hiraṇyaka āha: dvividhaṃ vairaṃ bhavati | sahajaṃ kṛtrimaṃ ca | tat
-sahaja-vairī tvam asmākam | uktaṃ ca-
+hiraṇyaka āha: dvividhaṃ vairaṃ bhavati \| sahajaṃ kṛtrimaṃ ca \| tat
+sahaja-vairī tvam asmākam \| uktaṃ ca-
 
 Hiraṇyaka said: There are two types of enmity: natural and incidental.
 Now, you and us are natural enemies. It has been said \[in the texts\]:
 
-kṛtrimaṃ nāśam abhyeti vairaṃ drāk kṛtrimair guṇaiḥ |  
-prāṇa-dānaṃ vinā vairaṃ sahajaṃ yāti na kṣayam || (4)  
+kṛtrimaṃ nāśam abhyeti vairaṃ drāk kṛtrimair guṇaiḥ \|  
+prāṇa-dānaṃ vinā vairaṃ sahajaṃ yāti na kṣayam \|\| (4)  
 Incidental enmity comes to an end swiftly with specifically made
 reparations,  
 \[however,\] natural enmity does not come to an end without the death
 \[of the foes\]
 
-vāyasa āha: bhoḥ \! dvividhasya vairasya lakṣaṇaṃ śrotum icchāmi | tat
-kathyatām |
+vāyasa āha: bhoḥ ! dvividhasya vairasya lakṣaṇaṃ śrotum icchāmi \| tat
+kathyatām \|
 
-The bird said: Alright\! I wish to hear the characteristics of the two
+The bird said: Alright! I wish to hear the characteristics of the two
 types of enmity; sir, may they be described.
 
-hiraṇyaka āha: bhoḥ \! kāraṇena nirvṛtaṃ kṛtrimam |
-tat-tad-arhopakāra-karaṇād gacchati | svābhāvikaṃ punaḥ katham api na
-gacchati | tad yathā nakula-sarpāṇāṃ, śaṣpabhuṅ-nakhāyudhānāṃ,
+hiraṇyaka āha: bhoḥ ! kāraṇena nirvṛtaṃ kṛtrimam \|
+tat-tad-arhopakāra-karaṇād gacchati \| svābhāvikaṃ punaḥ katham api na
+gacchati \| tad yathā nakula-sarpāṇāṃ, śaṣpabhuṅ-nakhāyudhānāṃ,
 jala-vahnyoḥ, deva-daityānāṃ, sārameya-mārjarāṇāṃ, īśvara-daridrāṇāṃ,
 sapatnīnāṃ, siṃha-gajānāṃ, lubdhaka-hariṇānāṃ,
-śrotriya-bhraṣṭa-kriyāṇāṃ, mūrkha-paṇḍitānāṃ,
-pativratā-kulaṭānāṃ, sajjana-durjanānām | na kaścit kenāpi
-vyāpāditaḥ| tathāpi prāṇān santāpayanti |
+śrotriya-bhraṣṭa-kriyāṇāṃ, mūrkha-paṇḍitānāṃ, pativratā-kulaṭānāṃ,
+sajjana-durjanānām \| na kaścit kenāpi vyāpāditaḥ\| tathāpi prāṇān
+santāpayanti \|
 
-Hiraṇyaka said: Yes\! Incidental \[enemity\] is produced by particular
+Hiraṇyaka said: Yes! Incidental \[enemity\] is produced by particular
 causes. Thus, it goes away when a suitable act reparation is made.
 Again, natural enmity never ever goes away. Thus, it is like that
 between: mongooses and snakes, herbivores and carnivores (literally
@@ -173,7 +177,7 @@ enmity) but it is natural, i.e. by their very existence they are enemies
 of each other).
 
 tac ca svābhāvikaṃ vairaṃ dvividhaṃ bhavati । ekāṅga-vairam
-ubhaya-vairaṃ ca ||
+ubhaya-vairaṃ ca \|\|
 
 And then natural enmity is of two types: unilateral enmity and bilateral
 enmity.
@@ -183,9 +187,9 @@ vāyasa āha: kas tayor viśeṣaḥ?
 The bird said: What are the special features of the two?
 
 so ‘bravīt: yo vihanyāt parasparam । anyo’nyena bhakṣyate ।
-parasparāpakārāt tad ubhayavairam । yathā siṃha-gajānāṃ । yaḥ pūrvam
-eva hatvā bhakṣayati na ca+asau tasya+apakaroti na hinasti na bhakṣayati
-। tad ekāṅgavairam akasmāt yathā aśva-mahiṣāṇāṃ mārjāra-mūṣakānām
+parasparāpakārāt tad ubhayavairam । yathā siṃha-gajānāṃ । yaḥ pūrvam eva
+hatvā bhakṣayati na ca+asau tasya+apakaroti na hinasti na bhakṣayati ।
+tad ekāṅgavairam akasmāt yathā aśva-mahiṣāṇāṃ mārjāra-mūṣakānām
 ahi-nakulānām । kim aśvo mahiṣasya sarpo vā babhro muṣako vā
 mārjārasya+apakaroti । tat sarvathā kim aśakyena samayakāraṇena ?
 
@@ -249,7 +253,7 @@ African buffalo, which has been reported to be a threat to horses.
 • Other observations by Viṣnuśarman elsewhere in the PT also point to
 his keen eye for conflict in nature. For instance he says:  
 arito ‘bhyagato bhṛtyaḥ śatru-saṃvās-tatparaḥ ।  
-sarpa-saṃvāsa-dharmitvān nityodvegena dūṣitaḥ ||
+sarpa-saṃvāsa-dharmitvān nityodvegena dūṣitaḥ \|\|
 
 A follower defecting from the enemy-side intent on living with his
 \[former\] foemen,  
@@ -257,7 +261,7 @@ has the problem of causing constant worry \[like\] having to cohabit
 with a serpent.
 
 plakṣa-nyagrodha-bījāśāt kapotād iva śālmaleḥ ।  
-mūlotkhātakaro doṣaḥ paścād api bhayaṃkaraḥ ||
+mūlotkhātakaro doṣaḥ paścād api bhayaṃkaraḥ \|\|
 
 Like the \[danger\] of the silk-cotton tree from a dove  
 which has eaten seeds of a plakṣa or banyan tree,  
@@ -327,8 +331,8 @@ always needs to be analyzed as a svābhāvika-vairam. This is a natural
 consequence of the Mosaic distinction (vide Assmann) element of the
 Abrahamistic meme-complex. Indeed, such a type of enmity had already
 been foreseen by the wise Viṣṇuśarman when he presents
-śrotriya-bhraṣṭa-kriyāṇāṃ vairam in the svābhāvika category. This
-enmity between the Vedic ritualist and those of who have given up ritual
+śrotriya-bhraṣṭa-kriyāṇāṃ vairam in the svābhāvika category. This enmity
+between the Vedic ritualist and those of who have given up ritual
 mirrors that arising from the militant “New Atheists”, liberal
 rationalists, and other variants of today. Moreover, when the conflict
 involves two Abrahamistic powers, say USA and the Moslems or Judaists
@@ -351,7 +355,7 @@ relating to political aspirations of marūnmatta-s. Furthermore, by
 treating the problem with the Abrahamists as one of kṛtrima-vairam the
 Hindus are hiding from themselves one of the most dreadful truths of
 svābhāvika-vairam i.e. “prāṇa-dānaṃ vinā vairaṃ sahajaṃ yāti na kṣayam
-|”
+\|”
 
 • One can ask if there are extensions to the old Hindu discourse on
 vairam from biology or modern geopolitics. One well-known conflict is
@@ -391,8 +395,8 @@ svābhāvika-vairam has not ended.
 • Finally, one wonders why, as Monier-Williams had remarked, the Hindus
 have failed to put their ancestors’ teachings into practice. Perhaps, a
 part of the answer lies in Viṣṇuśarman’s words themselves. Among the
-svābhāvika-vairāṇi he lists mūrkha-paṇḍitānāṃ vairam. It is notable
-that this is termed svābhāvika because a modern might reason that when a
+svābhāvika-vairāṇi he lists mūrkha-paṇḍitānāṃ vairam. It is notable that
+this is termed svābhāvika because a modern might reason that when a
 mūrkha receives appropriate education he would become a paṇḍita thus
 putting this enmity in the kṛtrima category. However, from our
 observations on fellow Hindus we suspect that Viṣṇuśarman was correct.
@@ -407,3 +411,4 @@ sign of that deep svābhāvika divide between the mūrkha and the paṇḍita
 which the text talks about. Moreover, as civilizations reach old age the
 mūrkhatā perhaps tends to win in this mūrkha-paṇḍitānāṃ vairam, but then
 that is a story for some other time.
+

@@ -1,7 +1,11 @@
 +++
 title = "Some reflections on the Khans Qaidu and Du’a and the great Khan’s lost legacy"
+date = "2013-12-09"
+upstream_url = "https://manasataramgini.wordpress.com/2013/12/09/some-reflections-on-the-khans-qaidu-and-dua-and-the-great-khans-lost-legacy/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/12/09/some-reflections-on-the-khans-qaidu-and-dua-and-the-great-khans-lost-legacy/).
+
 **Prolog**  
 In our youth we spent an inordinate amount of time reveling in
 intricacies of history that few around us really cared for. Not
@@ -39,7 +43,7 @@ him as Amir al Momin and the proselytizing sword of Islam but Tughlaq
 modestly stated: “mai.n to AwAra mard hU.n”. Nevertheless, Amir Khusroo
 sung a peculiarly worded panegyric for him:  
 *Your name was Tughlaq the holy warrior, the revered one,*  
-*The Mongol Khan too at that time had the same name, Tughlaq\!*
+*The Mongol Khan too at that time had the same name, Tughlaq!*
 
 This Tughlaq Ghazi whose line was to be as a dreadful disease upon India
 was a representative of the Qaraunas Turks. Our companions asked who
@@ -48,7 +52,7 @@ Mongol history that is generally neglected i.e., the later days of the
 house of Ögödei and Chagadai. The house of Ögödei had some connections
 with our land which we had narrated before – [some members fought on the
 side of Hindus led by hammIradeva against Alla-ad-din
-Khalji](https://manasataramgini.wordpress.com/2004/06/20/hammira-devas-last-stand/ "Hammira Deva’s last stand").
+Khalji](https://manasataramgini.wordpress.com/2004/06/20/hammira-devas-last-stand/ "Hammira Deva’s laststand").
 But their story in Central Asia is one of interest primarily to
 connoisseurs though with some general instructive lessons.
 
@@ -130,13 +134,13 @@ being subjugated by the Mongols. He was born in 1235 CE and Qashi died
 just before his birth after passing out on a large volume of drink. It
 was Qaidu who was to revive the house of Ögödei in the process going to
 war against the house of Tolui. In this he was aided by Du’a the great
-great grandson of Chagadai (Chagadai-\>Möetüken \[killed in Afghan
-campaign of Chingiz\]-\>Yesünto’a-\>Baraq-\>Du’a).
+great grandson of Chagadai (Chagadai->Möetüken \[killed in Afghan
+campaign of Chingiz\]->Yesünto’a->Baraq->Du’a).
 
 Due to Qaidu’s falling out with the house of Tolui he is not the center
 of any chronicle. While he had 14 recorded sons and at least 3 daughters
 the Orda of Ögödei came to an end sometime after him
-(Qaidu-\>Chabar-\>Oljei Timur-\>Quladai). But the Orda which he founded
+(Qaidu->Chabar->Oljei Timur->Quladai). But the Orda which he founded
 continued under the Chagadais with whom he allied against Qubilai. Thus,
 we have very little by way of a sympathetic account from his own side.
 What we know of him suggests that he was a rather distinctive character.
@@ -151,7 +155,7 @@ patiently heard their truth claims or ideas and inquired about their
 views on religion. While he heard all their views, from all we know he
 remained faithful to the old Mongol religion. [The tale of his daughter
 Qutulun Aiyaruk became a widely known
-fable](https://manasataramgini.wordpress.com/2006/05/18/qaidus-daughter/ "Qaidu’s daughter")
+fable](https://manasataramgini.wordpress.com/2006/05/18/qaidus-daughter/ "Qaidu’sdaughter")
 and has been unduly romanticized, or presented a paragon of sexual
 equality in the west. Nevertheless, by all accounts she was a fierce
 warrior whom Marco Polo describes as striking like a hawk deep within
@@ -163,46 +167,46 @@ participate in the politics against Möngke after Güyüg’s death. Hence,
 as part of the reconciliation package Möngke appointed the 17 year old
 Qaidu as the local Khan of the region in Southern Kazakhstan between the
 Ili and Emil rivers (between Balkash and Alakol Lakes). Being very
-“secular” he allowed representatives of all religions to build
-religious structures in his domain and also set up a chain of
-well-protected and managed markets that increased the prosperity of his
-domain. In 1256 CE Möngke sent the chIna Tianlin Shi to assist Qaidu
-with standardizing the legal system. However, he felt Shi was
-interfering with the system and sentenced him to 20 years in prison.
-However, the relations still remained calm until the early years of
-Qubilai when he confirmed Qaidu as the local Khan of his realm and sent
-him gifts to mark their continued collaboration. The Mongols used to
-practice a form of astrology similar to Indians that they had acquired
-from the Uighurs or perhaps Tibetans. Berke the son of Batu told Qaidu
-that his horoscope indicated great promise. But none of this showed in
-his early campaigns against the local Chagadai Khan Alghu which met with
-limited success. Luckily for him Alghu death gave him a chance to get
-greater power in the region. Qaidu then decided to occupy Alghu’s
-territory which was to his west. But Qubilai interceded by sending
-troops to drive him out of Chagadai territory and enjoined him to act
-only with his consent. It seems this incident inspired Qaidu to break
-free from the great Khan and live up to his horoscope. He decided to
-extend his domain by using his maternal connections to the mountainous
-region near Uighuria which they formerly ruled. Thus with Shabkine and
-her Mekrin clansmen he annexed their former territory to his own ulus.
-The Uighurs had a special relationship with the family of Chingiz Khan
-because their lord was married to his daughter. Thus even though
-Uighuristan was annexed by Chingiz they retained their cities and had
-certain control over their territory with Chingiz’s daughter acting as
-the viceroy. Chingiz also recognized that the Uighurs had the most
-advanced civilization among the Altaic peoples and saw them as
-civilizational teachers of the Mongols and wanted to preserve their
-knowledge systems for the benefit of the Mongols – e.g. their script was
-derived from the Uighur script. Subsequently, Qubilai retained this
-special relationship vis-a-vis Uighuristan. But now having taken the
-adjoining mountainous territory Qaidu decided to dispossess the Uighurs
-completely. His troops swept down upon the Uighurs in 1267 CE, sacking
-and burning their cities. Their capital Besh Baliq was besieged and they
-were forced to flee eventually. This caused immense harm to the Uighurs
-and was to ultimately weaken them for their later capitulation to the
-West Asian delusion. It also brought end to the Altaic civilizational
-center that Chingiz had cultivated. Qubilai was alarmed at this conquest
-of Uighuristan by Qaidu and sent the royal Mongol army against Qaidu. He
+“secular” he allowed representatives of all religions to build religious
+structures in his domain and also set up a chain of well-protected and
+managed markets that increased the prosperity of his domain. In 1256 CE
+Möngke sent the chIna Tianlin Shi to assist Qaidu with standardizing the
+legal system. However, he felt Shi was interfering with the system and
+sentenced him to 20 years in prison. However, the relations still
+remained calm until the early years of Qubilai when he confirmed Qaidu
+as the local Khan of his realm and sent him gifts to mark their
+continued collaboration. The Mongols used to practice a form of
+astrology similar to Indians that they had acquired from the Uighurs or
+perhaps Tibetans. Berke the son of Batu told Qaidu that his horoscope
+indicated great promise. But none of this showed in his early campaigns
+against the local Chagadai Khan Alghu which met with limited success.
+Luckily for him Alghu death gave him a chance to get greater power in
+the region. Qaidu then decided to occupy Alghu’s territory which was to
+his west. But Qubilai interceded by sending troops to drive him out of
+Chagadai territory and enjoined him to act only with his consent. It
+seems this incident inspired Qaidu to break free from the great Khan and
+live up to his horoscope. He decided to extend his domain by using his
+maternal connections to the mountainous region near Uighuria which they
+formerly ruled. Thus with Shabkine and her Mekrin clansmen he annexed
+their former territory to his own ulus. The Uighurs had a special
+relationship with the family of Chingiz Khan because their lord was
+married to his daughter. Thus even though Uighuristan was annexed by
+Chingiz they retained their cities and had certain control over their
+territory with Chingiz’s daughter acting as the viceroy. Chingiz also
+recognized that the Uighurs had the most advanced civilization among the
+Altaic peoples and saw them as civilizational teachers of the Mongols
+and wanted to preserve their knowledge systems for the benefit of the
+Mongols – e.g. their script was derived from the Uighur script.
+Subsequently, Qubilai retained this special relationship vis-a-vis
+Uighuristan. But now having taken the adjoining mountainous territory
+Qaidu decided to dispossess the Uighurs completely. His troops swept
+down upon the Uighurs in 1267 CE, sacking and burning their cities.
+Their capital Besh Baliq was besieged and they were forced to flee
+eventually. This caused immense harm to the Uighurs and was to
+ultimately weaken them for their later capitulation to the West Asian
+delusion. It also brought end to the Altaic civilizational center that
+Chingiz had cultivated. Qubilai was alarmed at this conquest of
+Uighuristan by Qaidu and sent the royal Mongol army against Qaidu. He
 was defeated and forced to retreat west of Talas.
 
 Qubilai then asked the local Chagadai Khan Baraq to contain Qaidu even
@@ -220,7 +224,7 @@ which Qubilai was addressed pejoratively as the local Khan of China:
 *“The old customs of our dynasty are not those of the Han laws. Today,
 when you remain in the Han territory, build a capital and construct
 cities learn their method of reading and writing and use Han laws what
-will happen to the old tradition ours.  They declared that we will be
+will happen to the old tradition ours. They declared that we will be
 lost and all that will be left is the law of the Han despite having
 followed the way of the great Khans to conquer China.”* Clearly, Qaidu
 was seeing the Chinese legalism as being used as the inner core which
@@ -255,7 +259,7 @@ Despite the sources not being exactly pro-Qaidu they all admit that he
 was a legendary maker of armies and had developed a scheme of discipline
 and training that was seen before only in his great-grandfather, the
 great Chingiz. The [Jewish chronicler
-Rashid-ad-din](https://manasataramgini.wordpress.com/2011/05/20/some-notes-on-rashid-ad-din-bin-imad-ud-dawla-abul-khair-and-his-times/ "Some notes on Rashid ad-Din bin Imad ud Dawla Abu’l Khair and his times")
+Rashid-ad-din](https://manasataramgini.wordpress.com/2011/05/20/some-notes-on-rashid-ad-din-bin-imad-ud-dawla-abul-khair-and-his-times/ "Some notes on Rashid ad-Din bin Imad ud Dawla Abu’l Khair and histimes")
 also noted that Qaidu was one of the most intelligent men he had ever
 seen and could put this ability to use in both strategic and political
 cunning. Now as the lord of a mighty force he sent an embassy to Abaqa
@@ -464,7 +468,7 @@ So it was indeed a strong cause to which Qaidu was able to rally much
 support within the Mongol elite.
 
 However, [as we have discussed
-before](https://manasataramgini.wordpress.com/2011/05/20/some-notes-on-rashid-ad-din-bin-imad-ud-dawla-abul-khair-and-his-times/ "Some notes on Rashid ad-Din bin Imad ud Dawla Abu’l Khair and his times"),
+before](https://manasataramgini.wordpress.com/2011/05/20/some-notes-on-rashid-ad-din-bin-imad-ud-dawla-abul-khair-and-his-times/ "Some notes on Rashid ad-Din bin Imad ud Dawla Abu’l Khair and histimes"),
 there was another factor that was to prove even greater problem for the
 Mongols – their “secularism”, very much like that practiced by Hindus
 today. It appears that their endogenous religion was not sufficient to
@@ -477,9 +481,9 @@ out in northwestern India. Their cousins, the old Iranians were similar
 even though they were on the losing side. Long after Darius had fallen
 the zaotar Spitamanes of the clan of Zarathushtra was able to mobilize
 the Iranians in a fight unto death against the Macedonians. In terms of
-“soft power” the Indo-Aryan and Iranian religions were far more
-capable of imposing themselves on various east Asian peoples including
-the Mongols and Turks than vice-versa. Indeed, the religion of the Hindu
+“soft power” the Indo-Aryan and Iranian religions were far more capable
+of imposing themselves on various east Asian peoples including the
+Mongols and Turks than vice-versa. Indeed, the religion of the Hindu
 even impressed itself on the Islamized Turko-Mongol tyrant Akbar in his
 later days. While less of a civilizational power the Han custom was
 sufficient to impress itself upon the steppe people successfully.
@@ -512,7 +516,7 @@ Mongol secularism.
 
 Thus, we reach [the same conclusion as an earlier discussion of these
 issues in the
-Ilkhanate](https://manasataramgini.wordpress.com/2011/05/20/some-notes-on-rashid-ad-din-bin-imad-ud-dawla-abul-khair-and-his-times/ "Some notes on Rashid ad-Din bin Imad ud Dawla Abu’l Khair and his times").
+Ilkhanate](https://manasataramgini.wordpress.com/2011/05/20/some-notes-on-rashid-ad-din-bin-imad-ud-dawla-abul-khair-and-his-times/ "Some notes on Rashid ad-Din bin Imad ud Dawla Abu’l Khair and histimes").
 It has general lessons whose significance cannot be missed by Hindus in
 possession of viveka even as their civilization appears to be on the
 decline. Today the majority of Hindus tend to hold views such as these:
@@ -529,7 +533,7 @@ the state will thrive. Such thoughts held by them were not different in
 a sense from those held by the Mongol elite 700-800 years ago. They had
 the best armies in the world, [a tolerant approach to religions
 including the universalizing
-Abrahamisms](https://manasataramgini.wordpress.com/2011/05/20/some-notes-on-rashid-ad-din-bin-imad-ud-dawla-abul-khair-and-his-times/ "Some notes on Rashid ad-Din bin Imad ud Dawla Abu’l Khair and his times")
+Abrahamisms](https://manasataramgini.wordpress.com/2011/05/20/some-notes-on-rashid-ad-din-bin-imad-ud-dawla-abul-khair-and-his-times/ "Some notes on Rashid ad-Din bin Imad ud Dawla Abu’l Khair and histimes")
 and did not interfere with the personal religious praxis holding that
 that all expressions could coexist. Contrary, to the lurid depictions of
 the heathen Mongol state until recently, it was actually well-governed –
@@ -552,3 +556,4 @@ remote regions it was the intolerant Abrahamism which prevailed. The
 Mongol states were replaced in most places (except Mongolia itself and
 Han China) by less well-governed or less stable Shariah states – a
 future which might also await the Indians.
+

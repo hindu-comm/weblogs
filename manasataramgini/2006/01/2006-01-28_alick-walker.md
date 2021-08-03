@@ -1,7 +1,11 @@
 +++
 title = "Alick Walker"
+date = "2006-01-28"
+upstream_url = "https://manasataramgini.wordpress.com/2006/01/28/alick-walker/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/01/28/alick-walker/).
+
 Late Alick Walker was an English gentleman who studied archosaurian
 anatomy. He was a retiring kind of person who is said to have put in
 tremendous effort to study in great depth the anatomy of reptiles. He is
@@ -20,3 +24,4 @@ did not study the later dinosaurs too carefully. This lead to an
 erroneous idea that birds had descended from early crocodiles rather
 than being dinosaurs. But towards the end of his life he was resigned to
 accept that birds were indeed dinosaurs.
+

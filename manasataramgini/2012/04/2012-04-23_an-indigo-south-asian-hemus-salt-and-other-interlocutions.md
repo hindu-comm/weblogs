@@ -1,7 +1,11 @@
 +++
 title = "An indigo South Asian, hemu’s salt and other interlocutions"
+date = "2012-04-23"
+upstream_url = "https://manasataramgini.wordpress.com/2012/04/23/an-indigo-south-asian-hemus-salt-and-other-interlocutions/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/04/23/an-indigo-south-asian-hemus-salt-and-other-interlocutions/).
+
 For a while Mn has been keeping only Ivy league company – as he would
 say from one Ivy league school to another, much to the envy of flotsam
 deshI mortals. Indeed, he made his appearance with an entourage of
@@ -87,9 +91,9 @@ As we slipped away from that bunch, ST filled us in with some gossip:
 greatest shrauta ritualists of our community. Which in the past several
 centuries has produced many a learned yajvAn. It reminds one of the good
 old paulastya-s of lankA who came from a great brahminical line that in
-part shares common ancestors with her :-)”. We: “Indeed\! kaikasI’s
-brood featured many a great brAhmaNAttR^i in their midst but probably
-our indigo ISA does not see herself that way – after all, you see, she
+part shares common ancestors with her :-)”. We: “Indeed! kaikasI’s brood
+featured many a great brAhmaNAttR^i in their midst but probably our
+indigo ISA does not see herself that way – after all, you see, she
 objects so vehemently to all the steel and gore of our ancestors. Rather
 than being a collyrium-hued nishAchari of lankA, she would like to be a
 seen as more of a
@@ -104,10 +108,10 @@ family; may be our ISA would be delighted to hear his words; after all
 things have not changed in India for more than 1500 years :-)
 
 The nAstika dharmakIrti had said:  
-veda-prAmANyaM kasyachit kartR^ivAdaH |  
-snAne dharmechChA jAtivAdAvalepaH ||  
-santApAramabhaH pApahAnAya cheti |  
-dhvasta-praj\~nAnAM pa\~Ncha-li\~NgAni jADye ||
+veda-prAmANyaM kasyachit kartR^ivAdaH \|  
+snAne dharmechChA jAtivAdAvalepaH \|\|  
+santApAramabhaH pApahAnAya cheti \|  
+dhvasta-praj\~nAnAM pa\~Ncha-li\~NgAni jADye \|\|
 
 The authority of the veda, for some, the view that the universe has a
 maker,  
@@ -185,7 +189,7 @@ composed on himself, has been recorded in translation in a Tibetan
 history of the bauddha-mata by the jamgön kongtrül:  
 *If the Sun of dharmakIrti’s speech were to set,  
 the bauddha teachings would slumber or die,  
-and the tIrthika (i.e. Astika) teachings would rise again\!*
+and the tIrthika (i.e. Astika) teachings would rise again!*
 
 As part of his multi-pronged polemics on the Astika tradition he made a
 major attack on the varNa -jAti system. He appears to have composed the
@@ -312,37 +316,37 @@ seek to form alliances with external invaders. Thus, the insider can now
 become even more dangerous to the ecology, because his following serves
 as a potential vector for even more dangerous ideologies of invaders. We
 may cite the following as examples of this:  
-\-The role played by the bauddha-s in the softening of the gandhAra
+-The role played by the bauddha-s in the softening of the gandhAra
 frontier when confronted by the first Mohammedan invaders.  
-\-The seditious role of the bauddha-s during the Arab invasion of
+-The seditious role of the bauddha-s during the Arab invasion of
 Sindh.  
-\-The tardiness of the bauddha-s in uniting for national defense when
-the Islamic jihad reached the Indian heartland. The primary reason for
-the creation of the Islamic stronghold of Bangladesh.  
-\-The mahAnubhAva sect in mahArAShTra weakened the yAdava kingdom (e.g.
+-The tardiness of the bauddha-s in uniting for national defense when the
+Islamic jihad reached the Indian heartland. The primary reason for the
+creation of the Islamic stronghold of Bangladesh.  
+-The mahAnubhAva sect in mahArAShTra weakened the yAdava kingdom (e.g.
 [the murder of the great brAhmaNa prime minister
 hemAdri](https://manasataramgini.wordpress.com/2005/11/13/the-cracks-in-the-edifice/)).  
-\-The sthaviravAdin-s in shrIlankA did not encourage revival of worship
+-The sthaviravAdin-s in shrIlankA did not encourage revival of worship
 after the Christian assaults on the devAlaya of viShNu at Devinuvara and
 rAkShasAlaya of vibhIShaNa at Colombo. This resulted in the loss of
 these traditions.  
-\-The separatism of the dharma cult and its much earlier predecessors
+-The separatism of the dharma cult and its much earlier predecessors
 which resulted in the inability of Bengal to recover its independence
 from Islamic rule. We have reason to suspect that the fall of rAjA
 gaNesha who briefly restored Hindu rule in Bengal is related to this.  
-\-The exploitation of the brahmasamaj separatism in Bengal by the
-English to weaken the Hindu tradition of the land thereby paving the way
-for the eventual rise of communism in the province.  
-\-The exploitation of the sikh doctrines by the English and
-subsequently, the pan-Anglospheric combine, to create a separate
-identity for them directed against Hindus, but aligned with their
-traditional enemies the Mohammedans.  
-\-Exploitation of the newly created “dalit” identity among a subset of
+-The exploitation of the brahmasamaj separatism in Bengal by the English
+to weaken the Hindu tradition of the land thereby paving the way for the
+eventual rise of communism in the province.  
+-The exploitation of the sikh doctrines by the English and subsequently,
+the pan-Anglospheric combine, to create a separate identity for them
+directed against Hindus, but aligned with their traditional enemies the
+Mohammedans.  
+-Exploitation of the newly created “dalit” identity among a subset of
 avarNa groups by Leukospheric and Christian interests against Hindus,
 with disastrous effects for the Indian state.  
-\-The various indigenous charity and social assistance organizations
-that aim to eradicate old Indian social structure aligning with
-Leukospheric and Christian interests against Hindus.
+-The various indigenous charity and social assistance organizations that
+aim to eradicate old Indian social structure aligning with Leukospheric
+and Christian interests against Hindus.
 
 These might be strongly contrasted with the gigantic social reform
 initiated by the siddhAntika shaiva-s with the social integration of
@@ -417,3 +421,4 @@ told them it was lankA and added that there were no men on the island
 and they would face no danger. Then he sanctified them by sprinkling
 them with his kamaNDalu and after tying rakSha-s on their hands flew
 away into the sky.
+

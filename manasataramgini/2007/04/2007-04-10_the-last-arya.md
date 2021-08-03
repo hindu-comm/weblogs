@@ -1,7 +1,11 @@
 +++
 title = "The last Arya"
+date = "2007-04-10"
+upstream_url = "https://manasataramgini.wordpress.com/2007/04/10/the-last-arya/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/04/10/the-last-arya/).
+
 Through the corrupt gramophone recording we heard the voice of Kareik,
 the last devlole of the Kalash, reciting the ancient hymns of dishani,
 bhagiShT, sutarem, imra and mahandeu. These were recorded by
@@ -31,3 +35,4 @@ mount a immune response on the inserted wasp larva. This is what has
 happened to Hindu society because the Hindu immune surveillance has just
 failed to recognize the parasites. The prolix Balagandadhara of Ghent’s
 researches provide data to visualize this problem.
+

@@ -1,7 +1,11 @@
 +++
 title = "Of lives of men; of times of men-II"
+date = "2017-11-12"
+upstream_url = "https://manasataramgini.wordpress.com/2017/11/12/of-lives-of-men-of-times-of-men-ii/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2017/11/12/of-lives-of-men-of-times-of-men-ii/).
+
 [Of lives of men; of times of
 men-I](https://manasataramgini.wordpress.com/2017/11/07/of-lives-of-men-of-times-of-men-i/)
 
@@ -19,33 +23,33 @@ the people. Clearly you two seem to differ in this regard. You seem to
 emphasize both history and that pivotal role of special individuals.”
 
 Lootika: “Ah the evil phrase ‘South Asian’ – and right wing they call
-themselves\! You have spent enough time with us by now to realize that
-we plainly hold the view that a people which ignores the study of
-history goes down in death unknowingly. If indeed we Hindus have ignored
-history then it is not something to celebrate but to correct. It is
-something which must even extend to scripture – be it the śruti or the
-āgama – you may, hence, term us as aitihāsika-s. That is why, despite
-all the fundamental flaws of the tāthāgata-matam and the author’s
-biases, I have respect for the endeavors of the Tibetan lāmā Taranātha.
-It should be obvious to the beholder that in the piloting of history
-special individuals matter more than a whole mass of flotsam
-individuals, as they vulgarly remark: ‘pūrṇa-kara iva kharaviṣṭāḥ’. In
-understanding this comment there is need for nuance as no notable figure
-lives in isolation. To give a rough mathematical analogy, real and
-imaginary number by themselves can be pretty dry but a little bit of
-both in the form of a complex number gives a lot more interesting stuff.
-But then I should also state that we need to distinguish the science of
-history from archaeology. In the latter, data on the mass and their
-statistics can deeply inform. Thus, archaeology as a statistical study
-of the bulk is of great significance to provide a backdrop for history,
-where the case study of the exceptional dominates. Then there is also a
-real place for the experience of the first person kind. It is something
-which our ancestors in their study on aesthetics term the sthāyibhāva.
-This is something only history in its narrative form can produce. Hence,
-the great historian kavi of Kashmir remarked:
+themselves! You have spent enough time with us by now to realize that we
+plainly hold the view that a people which ignores the study of history
+goes down in death unknowingly. If indeed we Hindus have ignored history
+then it is not something to celebrate but to correct. It is something
+which must even extend to scripture – be it the śruti or the āgama – you
+may, hence, term us as aitihāsika-s. That is why, despite all the
+fundamental flaws of the tāthāgata-matam and the author’s biases, I have
+respect for the endeavors of the Tibetan lāmā Taranātha. It should be
+obvious to the beholder that in the piloting of history special
+individuals matter more than a whole mass of flotsam individuals, as
+they vulgarly remark: ‘pūrṇa-kara iva kharaviṣṭāḥ’. In understanding
+this comment there is need for nuance as no notable figure lives in
+isolation. To give a rough mathematical analogy, real and imaginary
+number by themselves can be pretty dry but a little bit of both in the
+form of a complex number gives a lot more interesting stuff. But then I
+should also state that we need to distinguish the science of history
+from archaeology. In the latter, data on the mass and their statistics
+can deeply inform. Thus, archaeology as a statistical study of the bulk
+is of great significance to provide a backdrop for history, where the
+case study of the exceptional dominates. Then there is also a real place
+for the experience of the first person kind. It is something which our
+ancestors in their study on aesthetics term the sthāyibhāva. This is
+something only history in its narrative form can produce. Hence, the
+great historian kavi of Kashmir remarked:
 
-‘saṃkrānta-prāktanānanta-vyvahāraḥ sacetasaḥ |  
-kasyedṛṣo na saṃdarbho yadi vā hṛdayaṃ gamaḥ ||’
+‘saṃkrānta-prāktanānanta-vyvahāraḥ sacetasaḥ \|  
+kasyedṛṣo na saṃdarbho yadi vā hṛdayaṃ gamaḥ \|\|’
 
 Marching through endless happenings of history, is there a conscious
 being  
@@ -74,36 +78,44 @@ distance on the ground from wall’s base that violates this mathematical
 principle. Hence, if we map a comparable two-value optimization problem
 on this principle then we have clear constraints. A more involved
 example, which you may have studied a bit, is the remarkable central
-limit theorem. For many distributions, irrespective of the shape of the
-distribution, if you draw repeated samples and take their means they
-would be normally distributed around the mean of that distribution.
-Thus, the central tendency as estimated by mean might be inferred by
-sampling, even if we have no clue of the shape of the distribution. Now,
-there are other peculiar distributions which display an unusual
-membership scenario – a well-known example is the distribution named
-after the mathematician Cauchy – here the central events are more common
-and the infrequent events are way more extreme than a ‘regular’
+limit theorem. For many distributions (i.e. those with finite variance),
+irrespective of the shape of the distribution, if you draw repeated
+samples and take their means they would be normally distributed around
+the mean of that distribution. Thus, the central tendency as estimated
+by mean might be inferred by sampling, even if we have no clue of the
+shape of the distribution. Another expression of this is that summing
+multiple such finite variance distributions we get a distribution
+approximating the normal curve. This has profound implication for the
+nature of things — irrespective of the quirks of individual distribution
+when viewed together it is the “ordinary” or the most common that
+dominates. You can ponder over the implications of such for nature and
+society. Now, there are other peculiar distributions which display an
+unusual membership scenario – a well-known example is the distribution
+named after the mathematician Cauchy – here the central events are more
+common and the infrequent events are way more extreme than a ‘regular’
 distribution like the normal distribution. Our investigation of
 historical events and the effects of individuals suggest that they they
-follow a distribution, like the former. Hence, they are constrained by
-the properties of such a mathematical principle. A corollary to it is
-the massive or pivotal role of the rare individuals whose effects are
-way more extreme than the rare individuals in a normal distributed
-scenario.”
+follow a distribution with properties like the so-called Cauchy
+distribution. Hence, they are constrained by the properties of its
+underlying mathematical principle. A corollary to it is the massive or
+pivotal role of the rare individuals whose effects are way more extreme
+than the rare individuals in a normal distributed scenario.”
 
-Sharvamanyu: “OK, that’s an interesting argument. What about the nuance
-regarding the mass which Lootika mentioned?”  
+Sharvamanyu: “OK, that’s an interesting argument. But what about the
+nuance regarding the mass which Lootika mentioned?”  
 Lootika: “When there is an exceptional figure there needs to be enough
 of those among the masses who can resonate with and act on behalf of
 that figure for the exceptionality to shine through. The size of that
 mass is what depends of the times of men.”  
 Somakhya: “Think of a Boghorju, a Jelme or a Subedai, Chingiz Khan or
-the men who rallied around the Mahārāja of the Marāṭha-s. Such exist way
-more frequently but by themselves they cannot carry the power, but like
-a conducting metal when there is a source of electricity they can do so.
-Through the length and breadth of our land there existed local strongmen
-like a Tānājī or a Sūryājī Mālusare but only under the exceptional
-Mahārāja they could be fort-conquerors.”
+the men who rallied around the Mahārāja of the Marāṭha-s. Figures like
+this supporting cast around the pivotal ones like the Khan or the Rājan
+emerge way more frequently but by themselves they cannot do much, but
+like a conducting metal when there is a source of electricity they can
+“transmit” the greatness of their leaders. Through the length and
+breadth of our land there existed local strongmen like a Tānājī or a
+Sūryājī Mālusare but only under the exceptional Mahārāja they could be
+fort-conquerors.”
 
 Vidrum: “Regarding the point about sthāyibhāva, I can see the generation
 of the states of vīrya and vairāgya from historical narratives of the
@@ -146,32 +158,32 @@ Lootika: “Not at all. While it is not the practice of brāhmaṇa-s to
 engage in svastuti, as ordained by the law-giver Manu, that statement
 does not mean a proscription of biographical statements or memoirs. The
 role of biography is well-recognized by the South Indian kavi Daṇḍin,
-Bāṇa of Kānyakubja or the Kashmirian kavi Kalhaṇa. Since, the
-brāhmaṇa was not prone to svastuti one might not see such but they
-never shied from brief but clear expositions of their biographies
-including statements on their intellectual prowess. They knew it was
-their works (even as a kṣatriya’s conquests) which mattered and stood to
-immortalize them, not an account of what they ate or their sexual
-exploits. Who gets a biographical magnification has changed over time.
-Some like emperor Trasadasyu, praised by my ancestors as a half-god in
-the śruti itself, have passed out of the memory of all but the most
-conscious practitioners of the śruti. But their successors like
-Rāmacandra the Ikṣvāku or Kṛṣṇa Devakīputra have got theirs in the age
-when we celebrated such heroes. Now they have transmogrified into gods.
-Other heroes of the martial type, like Samudragupta, did not enter the
-public imagination much but Candragupta-II Vikramāditya entered it with
-almost a mythology. After this phase, the Hindu consciousness was seen
-shifting towards hagiographies of religious rather than regal figures.
-However, Bhoja was one last figure of the great rājarṣi archetype who
-again nearly entered mythology. The coming of the Meccan demons
-enshrined the two great Chahamāna-s, Pṛthivirāja and Hammira, in the
-Hindu mind, as objects of kāvya, for their heroic last stands. But
-defeat of the Hindu military order before the army of Islam, despite
-prolonged fight backs, as in Vijayanagara, saw our people look more
-towards hagiographies and forgot the heroic figures until much closer to
-our times Śivājī restored the Hindu confidence. Thus, it is the changing
-landscape of people’s outlooks that has selected for the caritra-s
-rather than there being any tradition to keep away from them.”
+Bāṇa of Kānyakubja or the Kashmirian kavi Kalhaṇa. Since, the brāhmaṇa
+was not prone to svastuti one might not see such but they never shied
+from brief but clear expositions of their biographies including
+statements on their intellectual prowess. They knew it was their works
+(even as a kṣatriya’s conquests) which mattered and stood to immortalize
+them, not an account of what they ate or their sexual exploits. Who gets
+a biographical magnification has changed over time. Some like emperor
+Trasadasyu, praised by my ancestors as a half-god in the śruti itself,
+have passed out of the memory of all but the most conscious
+practitioners of the śruti. But their successors like Rāmacandra the
+Ikṣvāku or Kṛṣṇa Devakīputra have got theirs in the age when we
+celebrated such heroes. Now they have transmogrified into gods. Other
+heroes of the martial type, like Samudragupta, did not enter the public
+imagination much but Candragupta-II Vikramāditya entered it with almost
+a mythology. After this phase, the Hindu consciousness was seen shifting
+towards hagiographies of religious rather than regal figures. However,
+Bhoja was one last figure of the great rājarṣi archetype who again
+nearly entered mythology. The coming of the Meccan demons enshrined the
+two great Chahamāna-s, Pṛthivirāja and Hammira, in the Hindu mind, as
+objects of kāvya, for their heroic last stands. But defeat of the Hindu
+military order before the army of Islam, despite prolonged fight backs,
+as in Vijayanagara, saw our people look more towards hagiographies and
+forgot the heroic figures until much closer to our times Śivājī restored
+the Hindu confidence. Thus, it is the changing landscape of people’s
+outlooks that has selected for the caritra-s rather than there being any
+tradition to keep away from them.”
 
 Sh: “Lootika alluded to the brief biographical statements of the
 brahmins. So do we learn anything of note at all from these brief
@@ -184,21 +196,21 @@ endeavors. Jīvaka a biologist/physician was professor at Ujjaini by 20.
 Lolimbarāja in Maharashtra was physician who had compiled a new
 pharmacopoeia by 25. Āryabhaṭa was professor of astronomy and
 mathematics before 23 at Pataliputra. The Kashmiran astronomer
-Vaṭeshvara was a professor by 19. Mañjula, the Magadhan astronomer,
-who was one of the early users of differential calculus in Hindu
-tradition, was a professor at 20. Jayanta Bhaṭṭa the Kashmirian wrote a
-grammatical treatise at age 10. The great Nīlakaṇṭha Somayājin of
-Cerapada was astronomer of note by 23. Gaṇesha daivajña in Maharashtra
-derived his hyperbolic approximation of the sine function at
-approximately the age of 14. Raghunātha paṇḍita of nava-nyāya was a
-paṇḍita by 18. All authors are seen writing mature treatises by the
-stated ages as we learn mostly from their autobiographical notes. We can
-also look back at our historical greats and note that Bhāskara-II
-writing his work at 36 was already quite senior compared to the rest. As
-we can see from our own curricular educational experience, which
-thankfully is finally coming to a close, this fast-tracking to make most
-of people at the height of their intellectual and physical capacity is
-something the modern system in our nation woefully lacks.”
+Vaṭeshvara was a professor by 19. Mañjula, the Magadhan astronomer, who
+was one of the early users of differential calculus in Hindu tradition,
+was a professor at 20. Jayanta Bhaṭṭa the Kashmirian wrote a grammatical
+treatise at age 10. The great Nīlakaṇṭha Somayājin of Cerapada was
+astronomer of note by 23. Gaṇesha daivajña in Maharashtra derived his
+hyperbolic approximation of the sine function at approximately the age
+of 14. Raghunātha paṇḍita of nava-nyāya was a paṇḍita by 18. All authors
+are seen writing mature treatises by the stated ages as we learn mostly
+from their autobiographical notes. We can also look back at our
+historical greats and note that Bhāskara-II writing his work at 36 was
+already quite senior compared to the rest. As we can see from our own
+curricular educational experience, which thankfully is finally coming to
+a close, this fast-tracking to make most of people at the height of
+their intellectual and physical capacity is something the modern system
+in our nation woefully lacks.”
 
 Sh: “That’s indeed seems to lend support to your hypothesis that genius
 mostly expresses itself early in life. Returning to narratives. I guess
@@ -288,3 +300,4 @@ adbhuta and even some bhayānaka than this?”
 
 [Of lives of men; of times of
 men-III](https://manasataramgini.wordpress.com/2017/12/06/of-lives-of-men-of-times-of-men-iii/)
+

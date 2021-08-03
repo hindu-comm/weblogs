@@ -1,8 +1,11 @@
 +++
-title = "“An Immortality Beyond Stone Endures Through Pious Minds Of Men” – A Reflection Upon Relics Andxa0Reverency"
-date = "January 8, 2020"
+title = "“An Immortality Beyond Stone Endures Through Pious Minds Of Men” – A Reflection Upon Relics And Reverency"
+date = "2020-01-08"
+upstream_url = "https://aryaakasha.com/2020/01/08/an-immortality-beyond-stone-endures-through-pious-minds-of-men-a-reflection-upon-relics-and-reverency/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/01/08/an-immortality-beyond-stone-endures-through-pious-minds-of-men-a-reflection-upon-relics-and-reverency/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/01/81534202_184186732776498_455946469648629760_o-1.jpg?w=835)
 
 A fine rendering of a Shiva Murti, with an important message to convey.

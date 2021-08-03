@@ -1,7 +1,11 @@
 +++
 title = "The tale of the two classes of vaNij-s"
+date = "2013-10-23"
+upstream_url = "https://manasataramgini.wordpress.com/2013/10/23/the-tale-of-the-two-classes-of-vanij-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/10/23/the-tale-of-the-two-classes-of-vanij-s/).
+
 It is with some trepidation that we discuss the vaNij-s for, belonging
 to the head of the puruSha, we are removed from the arts and the ways of
 theirs. But this is more a discussion on how their history played out in
@@ -122,13 +126,13 @@ in the local population who could emulate them. The brahma-kShatra
 alliance was continued not because of the need for legitimizing
 constructs from the brahma (after all if you have the power why do you
 need someone whom your subjects understand even less than you to
-“legitimize” your power) but because of the knowledge and
-administrative skills brought in by them. Of course in this regard we
-need to distinguish between the modes of transmission of Astika and
-bauddha streams of the dharma because the latter is fundamentally a
-missionary religion whereas the former is so, while capable of rather
-effective assimilation. Nevertheless, the overall dynamics of
-establishing dharma in a strong way does involve some gene transmission.
+“legitimize” your power) but because of the knowledge and administrative
+skills brought in by them. Of course in this regard we need to
+distinguish between the modes of transmission of Astika and bauddha
+streams of the dharma because the latter is fundamentally a missionary
+religion whereas the former is so, while capable of rather effective
+assimilation. Nevertheless, the overall dynamics of establishing dharma
+in a strong way does involve some gene transmission.
 
 This led us to a tale of Hindu dispersal driven mainly by the 3rd varNa.
 In a sense its rise and fall were to us reminiscent of the fate of the
@@ -167,8 +171,8 @@ road the Hindu awoke; they jumped down from the house and took off
 running down the street. Hearing the Hindu man’s cry, the Mir Shab
 (nightwatchman) ran to the street and grabbed the three men. One of them
 threw a rock at the policeman’s lantern and exclaimed, ‘Barak Allah,
-Nadir Divan Begi\!’ To which another replied, ‘Hey, Emperor of the
-Universe\! It wasn’t me. It was ‘Abd al-Wasi Qurchi.’ Thinking that he
+Nadir Divan Begi!’ To which another replied, ‘Hey, Emperor of the
+Universe! It wasn’t me. It was ‘Abd al-Wasi Qurchi.’ Thinking that he
 had made a mistake and stopped Imam Quli Khan, Nadir Divan Begi and ‘Abd
 al-Wasi Qurchi, the nightwatchman allowed the three thieves to pass,
 along with the valuable box, without any problems. The next day the
@@ -180,7 +184,7 @@ nightwatchman put out his own lantern and let the men go. Imam Quli Khan
 looked from the Hindu to the nightwatchman and asked, ‘Why did you do
 this?’ The nightwatchman did not answer and, getting upset, Imam Quli
 Khan asked again. The nightwatchman requested a private discussion and
-Imam Quli Khan called him forward and commanded, ‘Alright, speak\!’ He
+Imam Quli Khan called him forward and commanded, ‘Alright, speak!’ He
 explained what he saw to Imam Quli Khan and told him that he thought
 that the three perpetrators were he himself and his two companions,
 Nadir Divan Begi and ‘Abd al-Wasi Qurchi, out getting information about
@@ -188,3 +192,4 @@ the city. After an investigation the box was recovered and returned to
 the Hindu merchant.”*
 
 continued…
+

@@ -1,7 +1,13 @@
 +++
 title = "shri bhadreshvara and the kings of champAvatI"
+date = "2007-05-13"
+upstream_url = "https://manasataramgini.wordpress.com/2007/05/13/shri-bhadreshvara-and-the-kings-of-champavati/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/05/13/shri-bhadreshvara-and-the-kings-of-champavati/).
+
+
+
 [![](https://i1.wp.com/bp1.blogger.com/_ZhvcTTaaD_4/RkdZhI9MdRI/AAAAAAAAAIs/JPg5O8CNiXE/s320/bhadra1.jpg)](http://bp1.blogger.com/_ZhvcTTaaD_4/RkdZhI9MdRI/AAAAAAAAAIs/JPg5O8CNiXE/s1600-h/bhadra1.jpg)
 
 The two li\~Nga-s in the ruins of the garbhA-gR^iha of the bhadreshvara
@@ -42,7 +48,7 @@ celebrated the grace of rudra in securing his victory over the chIna-s
 by building the glorious temple for shiva termed shrI bhadreshvara. Now
 we know that somewhat later in the far east the main lineage of the
 mantra-mArga shaiva mata was that of the [vAma-srotas of the Cambodian
-empire](http://manasataramgini.wordpress.com/2007/02/greatest-temple-of-shiva.html)
+empire](http://manollasa.blogspot.com/2007/02/greatest-temple-of-shiva.html)
 with its depiction of tumburu. But the question arises as to what were
 the affinities of the earlier shaiva-mata at champAvatI. An analysis of
 the ruins of the bhadreshvara temple at MySon, Vietnam suggest that
@@ -66,3 +72,4 @@ and shambhuvarman. But the complex today is in poor condition making it
 difficult to separate the different layers. Further, the Americans with
 their unsurprising Abrahamistic mindset destroyed a significant portion
 of the temples in this complex during their invasion of modern Vietnam\]
+

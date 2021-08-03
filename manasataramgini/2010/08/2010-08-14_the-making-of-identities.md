@@ -1,7 +1,11 @@
 +++
 title = "The making of identities"
+date = "2010-08-14"
+upstream_url = "https://manasataramgini.wordpress.com/2010/08/14/the-making-of-identities/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/08/14/the-making-of-identities/).
+
 It is important that Hindus as a part of their defensive strategy
 anthropologize their rivals – this act of reverting the gaze on them is
 also critical to redress the balance of power. An important aspect of
@@ -106,7 +110,7 @@ militarily unified under the Roman banner. Likewise, if a mlechCha tries
 to invoke the presence of other language families like Dravidian and
 Austro-Asiatic one simply needs to point to Hungarian, Finnish and
 Basque. After all the Basque are still fighting for their own state and
-want to retain a distinct identity\! If the mlechCha considers the
+want to retain a distinct identity! If the mlechCha considers the
 Austro-Hungarian empire a natural development in his lands then what is
 so surprising of Indo-Aryan and Dravidian coexisting for ages in
 bhAratavarSha?
@@ -206,48 +210,48 @@ Indo-European culture of the Germans and the western Slavs. He seems to
 have even found some kind of resonance with his fellow holy warrior from
 the religion of peace Harun al Rashid in Baghdad with whom he exchanged
 gifts. He is fondly remembered by the descendants of his victims as the
-“father of Europe” and his tall, fair, blond haired image still
-provides them with their ideal of a puruSha. These events encapsulate
-the emergence of the precursor of the identity under discussion. In
-essence, it was the artificial identity of the pretamata that was
-stuffed down the throats of the unwilling heathens of Europe.
-Subsequently, the same identity forged the European alliances against
-the Islamic Jihad. But over time it receded to the background with
-fragmentation and local identities taking precedence. Fast-forward
-several centuries ahead to when the United States was born. Its elite
-had their deep cultural moorings to England, despite seeking political
-independence from it. In its war of independence it had succeeded in no
-small measure due to the aid offered by France. Thus, in its very birth
-the US had links to European powers that had long been rivals. Within
-the North American continent it was at war with the natives and was
-being steadily settled by other European peoples. On the whole, the
-birth of the US was a success story – it had beaten the mighty English
-who were victorious against most other nations of the world. It had
-built a formidable navy in a short time and projected power far away in
-the North African coasts by smashing the Moslem fleet in the Barbary
-War. Its successes also lead to introspection about its own place in
-history and identity. Given its origins and peoples, it had no need to
-adopt a narrow identity pertaining to a particular European nation
-despite its links to Britain and France, but sought to forge a new one.
-In this situation, two things came to the fore – the sub-current
-identity of the pretamata, which had been submerged in fragmented Europe
-and the white racial identity. The former was particularly strong as
-they needed something to replace the regional allegiances of Europe to
-their respective kings. So the rAkShasa spelt with the capital G took
-the place of the king or Kaiser. The latter emerged as a result of their
-encounter with the “other” in the form of the natives of America who
-were locked in a life and death struggle with them and the slaves they
-had shipped in from Africa to ply on their fields. Their military
-triumphs against the natives, as well as elsewhere in the world, along
-with degradation of the Africans to a lowly position, gave them a
-feeling of a superior white identity. Indeed, even their great
-intellectuals like Thomas Jefferson, who advocated free-thinking on
-religion, upheld these core aspects of the developing identity. This
-becomes clear when one examines his “Indian Removal Plan”. His main idea
-was to enforce the *pretamata* on the natives at the expense of their
-own traditions and force them to adopt “*Western European culture*” and
-eventually assimilate into the white identity of the US. Failing this
-they were to be driven westwards or exterminated.
+“father of Europe” and his tall, fair, blond haired image still provides
+them with their ideal of a puruSha. These events encapsulate the
+emergence of the precursor of the identity under discussion. In essence,
+it was the artificial identity of the pretamata that was stuffed down
+the throats of the unwilling heathens of Europe. Subsequently, the same
+identity forged the European alliances against the Islamic Jihad. But
+over time it receded to the background with fragmentation and local
+identities taking precedence. Fast-forward several centuries ahead to
+when the United States was born. Its elite had their deep cultural
+moorings to England, despite seeking political independence from it. In
+its war of independence it had succeeded in no small measure due to the
+aid offered by France. Thus, in its very birth the US had links to
+European powers that had long been rivals. Within the North American
+continent it was at war with the natives and was being steadily settled
+by other European peoples. On the whole, the birth of the US was a
+success story – it had beaten the mighty English who were victorious
+against most other nations of the world. It had built a formidable navy
+in a short time and projected power far away in the North African coasts
+by smashing the Moslem fleet in the Barbary War. Its successes also lead
+to introspection about its own place in history and identity. Given its
+origins and peoples, it had no need to adopt a narrow identity
+pertaining to a particular European nation despite its links to Britain
+and France, but sought to forge a new one. In this situation, two things
+came to the fore – the sub-current identity of the pretamata, which had
+been submerged in fragmented Europe and the white racial identity. The
+former was particularly strong as they needed something to replace the
+regional allegiances of Europe to their respective kings. So the
+rAkShasa spelt with the capital G took the place of the king or Kaiser.
+The latter emerged as a result of their encounter with the “other” in
+the form of the natives of America who were locked in a life and death
+struggle with them and the slaves they had shipped in from Africa to ply
+on their fields. Their military triumphs against the natives, as well as
+elsewhere in the world, along with degradation of the Africans to a
+lowly position, gave them a feeling of a superior white identity.
+Indeed, even their great intellectuals like Thomas Jefferson, who
+advocated free-thinking on religion, upheld these core aspects of the
+developing identity. This becomes clear when one examines his “Indian
+Removal Plan”. His main idea was to enforce the *pretamata* on the
+natives at the expense of their own traditions and force them to adopt
+“*Western European culture*” and eventually assimilate into the white
+identity of the US. Failing this they were to be driven westwards or
+exterminated.
 
 The events surrounding the American civil war, often acting in different
 directions, led to further strengthening and recalibration of the white
@@ -316,3 +320,4 @@ efforts of Julian (To realize the importance of the pretamata to this
 identity note the fact that Panjabi Americans, who might barely make the
 cut on the skin color metric, were still able to gain the admiration of
 those with leukotestate identity by converting to the pretamata).
+

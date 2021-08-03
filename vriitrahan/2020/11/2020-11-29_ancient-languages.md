@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "November 29, 2020"
+date = "2020-11-29"
+upstream_url = "https://vriitrahan.wordpress.com/2020/11/29/ancient-languages/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2020/11/29/ancient-languages/).
+
 Ancient Languages are the relics of a bygone past to most. But most
 doesn’t care about history, culture or the heritage of his forefathers
 of yore. If you are most, you can very well not bother reading this

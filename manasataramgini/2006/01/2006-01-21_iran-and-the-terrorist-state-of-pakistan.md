@@ -1,7 +1,11 @@
 +++
 title = "Iran and the Terrorist state of Pakistan"
+date = "2006-01-21"
+upstream_url = "https://manasataramgini.wordpress.com/2006/01/21/iran-and-the-terrorist-state-of-pakistan/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/01/21/iran-and-the-terrorist-state-of-pakistan/).
+
 The ascendency of USA came as a result of it literally being the “New
 World”. The natives of the land stretching from the cold reaches of
 Canada to the Southern tip of Patagonia, had only used up all the
@@ -27,3 +31,4 @@ zone. But Eurasia with its eternal conflicts was never its forte.
 
 A result of this sum of vectors is the fascination for Iran and the
 Terrorist state of Pakistan in an almost inverted sense.
+

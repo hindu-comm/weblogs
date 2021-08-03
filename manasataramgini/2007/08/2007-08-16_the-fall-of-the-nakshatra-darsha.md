@@ -1,7 +1,11 @@
 +++
 title = "The fall of the nakShatra-darshA"
+date = "2007-08-16"
+upstream_url = "https://manasataramgini.wordpress.com/2007/08/16/the-fall-of-the-nakshatra-darsha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/08/16/the-fall-of-the-nakshatra-darsha/).
+
 We were coming out of the house of boredom with Blackie and those who
 were to be washed away by the flow of dvAdashAnta, like the enemies of
 sudAsa on the paruShNi. We saw dIrghadanta hrasvaroman, kulu\~nchaputra
@@ -43,3 +47,4 @@ We felt like Dattaji Shinde on the northern plain;
 by the perverse khANDavans our men lay slain;  
 in the clasp of the foes our capital in waste had lain;  
 our offerings have the gods decided to spurn?
+

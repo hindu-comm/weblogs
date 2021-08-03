@@ -1,7 +1,11 @@
 +++
 title = "A narrative on the kAlAmukha-s: implications for the bhairava-srotas"
+date = "2012-09-27"
+upstream_url = "https://manasataramgini.wordpress.com/2012/09/27/a-narrative-on-the-kalamukha-s-implications-for-the-bhairava-srotas/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/09/27/a-narrative-on-the-kalamukha-s-implications-for-the-bhairava-srotas/).
+
 We had earlier briefly considered the kAlAmukha-s on these pages. While
 once prominent in both the north and south of the country, their last
 occurrences are recorded only in the south (though they clearly
@@ -54,6 +58,7 @@ thus kAlAmukha tradition was promulgated.”
 
 In bharadvAja’s narration of it it began with the mantra:  
 namaH shivAya devAya harAya paramAtmane rudraya kAlakAlAya kAlakaNThAya
-shambhave ||
+shambhave \|\|
 
 Continued …
+

@@ -1,7 +1,11 @@
 +++
 title = "The shmashAna of kollagiri"
+date = "2009-05-10"
+upstream_url = "https://manasataramgini.wordpress.com/2009/05/10/the-shmashana-of-kollagiri/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/05/10/the-shmashana-of-kollagiri/).
+
 Beating our Damaru we advanced to the great ground of kollagiri;  
 We recited the face mantra-s of the archer ranging on the high adri;  
 In our Aj\~na chakra stood the bright pinAkin, famed as para-shiva;  
@@ -12,3 +16,4 @@ We translocated to ambikA’s site, the melApaka, in the manner of
 vIra-s;  
 We raised our arm and displayed the Chomma of the two horns;  
 We waited for her, who makes one a siddha, to come in our arms.
+

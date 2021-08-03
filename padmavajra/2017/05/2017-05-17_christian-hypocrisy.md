@@ -1,8 +1,11 @@
 +++
 title = "Christian hypocrisy"
 date = "2017-05-17"
+upstream_url = "https://padmavajra.net/2017/05/17/christian-hypocrisy/"
 
 +++
+Source: [here](https://padmavajra.net/2017/05/17/christian-hypocrisy/).
+
 
 
 [Comment](https://www.reddit.com/r/OrthodoxChristianity/comments/6benmx/evangelicals_are_helping_destroy_the_syrian/dhmhw88/)

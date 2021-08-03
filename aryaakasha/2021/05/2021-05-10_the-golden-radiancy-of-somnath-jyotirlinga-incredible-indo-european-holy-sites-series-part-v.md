@@ -1,8 +1,11 @@
 +++
-title = "The Golden Radiancy Of Somnath Jyotirlinga  [Incredible Indo-European Holy Sites Series Partxa0V]"
-date = "May 10, 2021"
+title = "The Golden Radiancy Of Somnath Jyotirlinga  [Incredible Indo-European Holy Sites Series Part V]"
+date = "2021-05-10"
+upstream_url = "https://aryaakasha.com/2021/05/10/the-golden-radiancy-of-somnath-jyotirlinga-incredible-indo-european-holy-sites-series-part-v/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/05/10/the-golden-radiancy-of-somnath-jyotirlinga-incredible-indo-european-holy-sites-series-part-v/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/05/e0tqxfjvgayhovf-1.jpg?w=576)
 
 Apt for a Monday – the ShivLing at Somnath , one of the Twelve (although

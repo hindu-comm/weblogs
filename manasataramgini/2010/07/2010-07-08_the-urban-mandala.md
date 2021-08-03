@@ -1,7 +1,11 @@
 +++
 title = "The urban maNDala"
+date = "2010-07-08"
+upstream_url = "https://manasataramgini.wordpress.com/2010/07/08/the-urban-mandala/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/07/08/the-urban-mandala/).
+
 **Views on Indian urbanization**  
 While bhArata has had a long history of urbanization, there is a certain
 view that we have absolutely no memory of the first such event. As per
@@ -110,7 +114,7 @@ remarkably relevant.
 **Different flavors of architectural texts and their historical
 practice: the Tantric age**  
 The architectural texts can be categorized in two major groups:  
-\-The “smArta texts”  
+-The “smArta texts”  
 These texts are defined by their general acceptance of the authority of
 the veda and a tendency to be unbiased in terms of the deities who
 occupy temples in the central zones of a town. In the classical phase
@@ -134,7 +138,7 @@ temples, beyond those of just the primary sectarian deities, in the city
 center:
 
 aparAjitA .apratihata jayanta vaijayanta koShThAn shiva vaishravaNa
-ashvi shrI madirA gRhANi cha pura madhye kArayet || AS2.4.17  
+ashvi shrI madirA gRhANi cha pura madhye kArayet \|\| AS2.4.17  
 I would interpret aparAjitA as durgA/the transfunctional goddess,
 apratihata (could be indra or viShNu), jayanta as skanda, vaijayanta
 (could be mostly indra but could also be viShNu) whose temples were for
@@ -156,7 +160,7 @@ these royal works, like that of chANakya and the mAnasAra have a
 considerable focus on royal issues, whereas the Pauranic and the bR^ihat
 saMhitA have much less or none of this.
 
-\-The tAntrika texts  
+-The tAntrika texts  
 These texts are squarely associated with the respective mantramArga
 streams to which they belong. Hence, the majority of them are
 pA\~ncharAtrika vaiShNava or saiddhAntika shaiva. There is a smaller set
@@ -301,10 +305,10 @@ something of the very origins of this urban tradition.
 
 **From house to village to town – the seating of the gods on the demon**
 
-kim api kila bhUtam abhavad rundhAnaM rodasI sharIreNa|  
-tad amara-gaNena sahasA vinigR^ihya adhomukhaM nyastam | |  
-yatra ca yena gR^ihItaM vibudhena adhiShThitaH sa tatraiva |  
-tad amara-mayaM vidhAtA vAstu-naraM kalpayAm Asa || bR^ihatsaMhitA
+kim api kila bhUtam abhavad rundhAnaM rodasI sharIreNa\|  
+tad amara-gaNena sahasA vinigR^ihya adhomukhaM nyastam \| \|  
+yatra ca yena gR^ihItaM vibudhena adhiShThitaH sa tatraiva \|  
+tad amara-mayaM vidhAtA vAstu-naraM kalpayAm Asa \|\| bR^ihatsaMhitA
 52.2-3 (chapter 53 in South Indian vulgate)  
 Thus the bR^ihat-saMhitA provides us with a curious origin mythology for
 the vAstu- maNDala: “It has been said that once upon a time a gigantic
@@ -323,8 +327,8 @@ it in the bR^ihatsaMhitA. However, in reality it went beyond that to
 encompass any type of construction. Indeed, as varAhamihira clarifies
 the Hindu constructions had a recursive framework of the vAstu-maNDala
 with its resident deva-s:  
-gR^iha nagara grAmeShu ca sarvatra evaM pratiShThitA devAH |  
-teShu ca yatha anurUpaM varNA viprAdayo vAsyAH || bR^ihatsaMhitA 52.67
+gR^iha nagara grAmeShu ca sarvatra evaM pratiShThitA devAH \|  
+teShu ca yatha anurUpaM varNA viprAdayo vAsyAH \|\| bR^ihatsaMhitA 52.67
 (53.69 in S- vulgate)  
 As enumerated \[in the section on houses\] the deva-s occupy their
 positions all over \[i.e. as per the vAstu-maNDala\] not only in houses
@@ -393,7 +397,7 @@ the north as against kubera). Thus, these vAstu-maNDala-s were in place
 before the emergence of the classical dikpAla system used in all
 tAntrika maNDala-s. The presence of yama in the south is first seen only
 in the yajurveda (e.g. in the formula: ye devA dakShiNasado yama netra
-rakShohaNas-tenaH pAntu teno.avantu tebhyo namastebhyas-svAhA |)
+rakShohaNas-tenaH pAntu teno.avantu tebhyo namastebhyas-svAhA \|)
 Further, the larger of these maNDala-s have prajApati (or brahmA) as the
 deity in the center. This ascendance of prajApati is a feature of the
 vaidika stratum, starting with the late brAhmaNa period. While he is
@@ -469,3 +473,4 @@ uncovered a sprawling shaiva ruins in Gurgi which are like to be remnant
 of the golagI maTha. These ruins were subsequently largely ignored –
 after all they are Hindu ruins and not some adorable Saracenic
 structure.
+

@@ -1,7 +1,11 @@
 +++
 title = "The Finnish Epic"
+date = "2005-09-05"
+upstream_url = "https://manasataramgini.wordpress.com/2005/09/05/the-finnish-epic/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/09/05/the-finnish-epic/).
+
 The Kalevala is the only well-preserved piece of mythology Uralic
 people. A few fragments of the tales of other shamanic peoples of this
 group exist, but none in a complete epic as the Kalevala, which was
@@ -11,12 +15,12 @@ ancient mythic motifs (often astronomical) might be recognized.
 1\) Ilmatar the progenitor of the universe breaks an egg which gives
 rise to heaven and earth. The yolk become the sun and the white the
 moon. (Compare with the hiraNyagarbha motif)  
-2\) A giant oak grows that blocks out the path of the sun and there is
-no light. A tiny man emerges from the sea. He grows into giant and
+2) A giant oak grows that blocks out the path of the sun and there is no
+light. A tiny man emerges from the sea. He grows into giant and
 confidentally fells the tree with three blows of his axe. The sun stars
 shining again and there is growth of plants (Note the similarity with
 the viShNu mythic motifs)  
-3\) The fantastic fir tree that emerges due to the spells of
+3) The fantastic fir tree that emerges due to the spells of
 Vainaemoienen with the Big Bear (Ursa Major) and the moon on its
 branches. The smith hero Ilmarinen climbs the tree and is transported by
 a whirlwind to a different world (The tree as world axis motif again.
@@ -66,13 +70,11 @@ The figure of Vainaemoinen, the patron deity of Finland is like
 bR^ihaspati. Both are sage deities, well known for their wisdom, they
 recover the sun through their spell and chanting, and both are finders
 of the fire. Both accompany the heroes who rescue the sun from the cave.
-
 Finally we must note that while bR^ihaspati is like Vainaemoinen,
-Ilmarinen is like the R^ibhus. 
-
-Thus, these Indo-Aryan deities resemble
+Ilmarinen is like the R^ibhus. Thus, these Indo-Aryan deities resemble
 ancient archetypes who may go back to the pre-Indo-European past- the
 common ancestry or ancient associations with Uralic. The A\~Ngirasas
 association with bR^ihaspati and the R^ibhus (claiming descent from
 them) may be a remnant of these deities molded similar to the ancient
 Eurasiatic celestial priest-shaman.
+

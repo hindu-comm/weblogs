@@ -1,8 +1,11 @@
 +++
-title = "A note on Candragomīn and hisxa0tradition"
+title = "A note on Candragomīn and his tradition"
 date = "2017-02-26"
+upstream_url = "https://padmavajra.net/2017/02/26/a-note-on-candragomin-and-his-tradition/"
 
 +++
+Source: [here](https://padmavajra.net/2017/02/26/a-note-on-candragomin-and-his-tradition/).
+
 On reading [this
 note](https://manasataramgini.wordpress.com/2008/03/23/musings-on-some-alternative-grammarians/)
 by manasataramgini,the following note from Tārānātha came to my mind

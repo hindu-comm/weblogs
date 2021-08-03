@@ -1,7 +1,11 @@
 +++
 title = "The arrow of vilAsinI"
+date = "2009-01-04"
+upstream_url = "https://manasataramgini.wordpress.com/2009/01/04/the-arrow-of-vilasini/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/01/04/the-arrow-of-vilasini/).
+
 It was just before dashAnta. We were on the brink of shaking off the
 shackles that had constrained us for several years. We were happy that
 rather than wasting our efforts on the mundane, which attracted our
@@ -15,12 +19,12 @@ tree, where we were to be favored by the devI vakreshvarI. For about
 half an hour we savored the food and drink talking of the past years
 that had flown past us like the great suparNa in the quest for soma. I
 was the bhArgava, whose ancestors saw time, for the shruti says: “kAle
-.ayam a\~NgirA devo atharvA cAdhi tiShThataH ||”. Hence, I saw the great
-Chidra that opened in the 4th dimension that my shUdra companions did
-not perceive. After that session at the rasashAlA we rose to depart. We
-all moved to our ashva-s when I saw the shUdra durmukha vanishing for
+.ayam a\~NgirA devo atharvA cAdhi tiShThataH \|\|”. Hence, I saw the
+great Chidra that opened in the 4th dimension that my shUdra companions
+did not perceive. After that session at the rasashAlA we rose to depart.
+We all moved to our ashva-s when I saw the shUdra durmukha vanishing for
 ever into the Chidra that was opening up. Knowing the nature of kAla we
-smiled: “kAlo ha vishvA bhUtAni kAle cakShur vi pashyati |”.
+smiled: “kAlo ha vishvA bhUtAni kAle cakShur vi pashyati \|”.
 
 We then crossed the shrine of The god and having worshiped his li\~Nga
 proceeded to the udyAna. There we espied her of yakShiNI-like form with
@@ -46,3 +50,4 @@ of rudra. Then looking up from the stream of pain we saw the aperture of
 the higher flow. But by what upAya where we to get there? Was there a
 yAna? Or were we to perish in the wrath of sharva emanating at the
 destruction of the dakShAdhvara?
+

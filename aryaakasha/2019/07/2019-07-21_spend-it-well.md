@@ -1,8 +1,11 @@
 +++
 title = "“Spend It Well”"
-date = "July 21, 2019"
+date = "2019-07-21"
+upstream_url = "https://aryaakasha.com/2019/07/21/spend-it-well/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/07/21/spend-it-well/).
+
 ![Spend it
 Well](https://aryaakasha.files.wordpress.com/2019/07/spend-it-well.png?w=676)  
 “The coin in question, if you were wondering, is a Kushan minting from

@@ -1,7 +1,11 @@
 +++
 title = "shrI vidyAraNaya yati and his shrIvidyArNava"
+date = "2006-03-26"
+upstream_url = "https://manasataramgini.wordpress.com/2006/03/26/shri-vidyaranaya-yati-and-his-shrividyarnava/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/03/26/shri-vidyaranaya-yati-and-his-shrividyarnava/).
+
 The shrIvidyArNava is an excellent tAntric manual that was used as
 textbook for mantra shAstra instruction amongst certain brahminical
 schools. It contains 2 halves called pUrva and uttara ardha-s of 18
@@ -41,8 +45,7 @@ The argument by the northerners regarding his origins go thus: He
 himself records in the section on guru-shishya choice that he was a
 student of pragalbhAcharya himself the student of the great brAhmin
 viShNusharman. Thus we have:  
-viShNusharman-\>pragalbhAchArya-\>vidyAraNya yati  
-
+viShNusharman->pragalbhAchArya->vidyAraNya yati  
 Clearly, this is not the nyAya savant pragalbhAchArya of the later nyAya
 tradition in Navadvipa. Further, R informs me that in Himachal Pradesh
 and Kashmir tradition has it that vidyAraNya yati completed his work in
@@ -52,15 +55,14 @@ an archaic type is believed to connect him to the Himalayan tantric
 vaiShNavas whose famed AchArya was shrI mahAbala paNdita from shrInagara
 in Kashmir with followers in both Jambupura (Jammu) and Kashmir. One
 lineage from him was:  
-mahAbala-\>AchArya pANdita-\>shrI kR^iShNa paNDita-\> lakShmaNa
-deshikendra (the illustrious tantric who compiled the prayogas of the
-shAradA tilakaM).  
-
+mahAbala->AchArya pANdita->shrI kR^iShNa paNDita-> lakShmaNa deshikendra
+(the illustrious tantric who compiled the prayogas of the shAradA
+tilakaM).  
 As an aside in another direction lakShmaNa deshikendra was also seen as
 the successor for the syncretic trika-kaula schools of tantricism:  
-vasugupta (of shiva sUtra fame)-\>somAnanda-\> utpaladeva -\>
-(rAmakaNTha?)-\> lakShmaNa deshikendra-\>abhinavagupta (0f tantrAloka
-fame). 
+vasugupta (of shiva sUtra fame)->somAnanda-> utpaladeva ->
+(rAmakaNTha?)-> lakShmaNa deshikendra->abhinavagupta (0f tantrAloka
+fame).
 
 Some dispute this lineage as being a created by rAghavabhaTTa the
 commentator on deshikendra’s works. deshikendra put together the
@@ -81,9 +83,7 @@ vidyAraNya was meditating in central India (near a bagalAmukhi sthala)
 when a brahmarAkshasa attacked him. He pacified it with food and water
 and it lead him to sage kR^ishNa dvaipAyana who was making an unseen
 journey to the city of kAlabhairava. vidyAraNaya apparently asked vyAsa
-for the tantra and was revealed the shrIvidyArNava. 
-
-Another more earthy
+for the tantra and was revealed the shrIvidyArNava. Another more earthy
 explanation by the southerners is that vidyAraNya went to Kashi to learn
 from the stated pragalbhAcharya. We find this a little strange, given
 that the Matha at Shringeri is believed to have anyhow traditionally
@@ -99,3 +99,4 @@ connection with lakShmaNa deshikendra can be made without further
 investigation. What ever the tradition which is accepted it is the
 mantra mahodadhi that borrows from shrIvidyArNava and not the other way
 around.
+

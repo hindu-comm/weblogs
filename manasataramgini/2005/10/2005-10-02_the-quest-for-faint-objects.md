@@ -1,7 +1,11 @@
 +++
 title = "The quest for faint objects"
+date = "2005-10-02"
+upstream_url = "https://manasataramgini.wordpress.com/2005/10/02/the-quest-for-faint-objects/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/10/02/the-quest-for-faint-objects/).
+
 In the great expedition of last night the following unusually faint
 objects were captured: A galaxy and a planetary nebula.
 
@@ -16,3 +20,4 @@ Though it is very close to the Milky Way (about 8.2\*10^6 light years),
 it is not at all easy to sight. A group of faint stars from the Milky
 way that surround it help one to distinguish the nebulosity.  
 <http://www.ne.jp/asahi/stellar/scenes/object_e/ngc246.htm>
+

@@ -1,8 +1,11 @@
 +++
-title = "For Friday & For Full Moon – MahaGaurixa0Devi"
-date = "September 13, 2019"
+title = "For Friday & For Full Moon – MahaGauri Devi"
+date = "2019-09-13"
+upstream_url = "https://aryaakasha.com/2019/09/13/for-friday-for-full-moon-mahagauri-devi/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/09/13/for-friday-for-full-moon-mahagauri-devi/).
+
 ![71206370_10162260329690574_1033855613773283328_n](https://aryaakasha.files.wordpress.com/2019/09/71206370_10162260329690574_1033855613773283328_n.jpg?w=676)
 
 In light of the full moon, and also that it is Friday – Devotional

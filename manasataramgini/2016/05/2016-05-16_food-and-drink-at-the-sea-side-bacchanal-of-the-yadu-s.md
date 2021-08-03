@@ -1,7 +1,11 @@
 +++
 title = "Food and drink at the sea-side bacchanal of the yadu-s"
+date = "2016-05-16"
+upstream_url = "https://manasataramgini.wordpress.com/2016/05/16/food-and-drink-at-the-sea-side-bacchanal-of-the-yadu-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2016/05/16/food-and-drink-at-the-sea-side-bacchanal-of-the-yadu-s/).
+
 Sections 2.88-89 of the Harivaṃśa (Viṣṇuparvan) gives a graphic
 description of the bacchanal of the yadu-s at the sea-side or their
 celebration of the samudrotsava. It has a beautiful ring to it and gives
@@ -189,14 +193,15 @@ i.e. the scented grass. However, the liquor favored by the Atiyamān is
 toddy which we do not seem to encounter in the Yadu bacchanal unless we
 take the maireya to be some such. A fare similar to the Harivaṃśa is
 also encountered in a somewhat later Dramiḻa work, the
-Porunarāṭṭruppaḍai. There the coḻā Karikāla offers his proteges a
-meal rich in meat prepared similar to this account and rice. Finally,
-this brings us to the brāhmaṇa-s who seem to explicitly avoid the meat
-and the liquors. Now, someone could argue that the statement regarding
-the brāhmaṇa-s like Uddhava is a later interpolation by Brahminical
-authors who wished to make their dietary strictures very clear. In
-support of this one could cite the use of the term bhoja-miśra for the
-Yadu brāhmaṇa-s as being indicative of the use of later Brahminical
-title of miśra. However, we cannot be sure of such an interpretation
-because otherwise the rest of this section does not show any notable
-signs of “tampering”.
+Porunarāṭṭruppaḍai. There the coḻā Karikāla offers his proteges a meal
+rich in meat prepared similar to this account and rice. Finally, this
+brings us to the brāhmaṇa-s who seem to explicitly avoid the meat and
+the liquors. Now, someone could argue that the statement regarding the
+brāhmaṇa-s like Uddhava is a later interpolation by Brahminical authors
+who wished to make their dietary strictures very clear. In support of
+this one could cite the use of the term bhoja-miśra for the Yadu
+brāhmaṇa-s as being indicative of the use of later Brahminical title of
+miśra. However, we cannot be sure of such an interpretation because
+otherwise the rest of this section does not show any notable signs of
+“tampering”.
+

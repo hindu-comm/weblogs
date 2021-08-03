@@ -1,8 +1,12 @@
 +++
 title = "The verse of the sword"
+date = "2013-12-29"
+upstream_url = "https://manasataramgini.wordpress.com/2013/12/29/the-verse-of-the-sword/"
 
 +++
-[chitrabandha-s](https://manasataramgini.wordpress.com/2013/01/06/between-the-rasarnava-and-the-chitrabandha-s/ "Between the rasArNava and the chitrabandha-s")
+Source: [here](https://manasataramgini.wordpress.com/2013/12/29/the-verse-of-the-sword/).
+
+[chitrabandha-s](https://manasataramgini.wordpress.com/2013/01/06/between-the-rasarnava-and-the-chitrabandha-s/ "Between the rasArNava and thechitrabandha-s")
 are widely represented in classical works on kAvya. The bandha-s of the
 form of the sword find mention in agni-purANa, the kAvyAlaMkAra of
 rudraTa and the praise of chaNDI by the other Kashmirian Anandavardhana.
@@ -19,19 +23,19 @@ umA as the supreme deity.
 [![](https://lh5.googleusercontent.com/-f8IgjaGktmY/UsJWg2NzJ-I/AAAAAAAAC1I/ijGcMbdQhvY/s640/sword_durgA.jpg)](https://picasaweb.google.com/lh/photo/XGycuS8K-fkC_d6GSeBLSNMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
 mArAri-shakra-rAmebhamukhair AsAra-raMhasA  
-sArArabdhastavA nityaM tad Arti-haraNa-kShamA ||  
+sArArabdhastavA nityaM tad Arti-haraNa-kShamA \|\|  
 mAtA natAnAM saMghaTTaH shriyAM bAdhita-saMbhramA  
-mAnyAtha sImA rAmANAM shaM me dishyAd umAdimA ||
+mAnyAtha sImA rAmANAM shaM me dishyAd umAdimA \|\|
 
 mArAri= the enemy of death (shiva); shakra= indra; rAma=the dark
 one(viShNu) ibhamukha=the elephant-headed god; AsAra-raMhasA=by them who
-are rapidly assailed; sArArabdhastavA-\>sAra-Arabhdha-stavA= One whom
+are rapidly assailed; sArArabdhastavA->sAra-Arabhdha-stavA= One whom
 them eloquently commence to praise; nityaM= always; tad= then;
 Arti-haraNa-kShamA= one who is the pain-removing forgiving one.  
 mAtA natAnAM=Mother to the supplicants; saMghaTTaH shriyAM=collection of
 riches; bAdhita-saMbhramA: one who removed confusion; mAnyAtha sImA
 rAmANAM= moreover venerable as the chastity of auspicious women; shaM me
-dishyAd= may confer felicity to me; umAdimA-\>umA-AdimA= umA the primal
+dishyAd= may confer felicity to me; umAdimA->umA-AdimA= umA the primal
 goddess  
 \[I would like to thank shrI vishvAso vAsukiputra for pointing a proper
 reading for an element of this verse\]
@@ -49,7 +53,7 @@ linguistic analogs of the histone-tails and such other low complexity
 sequences such as silaffins which constitute a protein component of
 diatom shells, where many different meanings can be written via
 epigenetic
-modifications.](https://manasataramgini.wordpress.com/2013/01/06/between-the-rasarnava-and-the-chitrabandha-s/ "Between the rasArNava and the chitrabandha-s")
+modifications.](https://manasataramgini.wordpress.com/2013/01/06/between-the-rasarnava-and-the-chitrabandha-s/ "Between the rasArNava and thechitrabandha-s")
 Such examples, like the sarvatobhadra, are by definition low in
 complexity but different meanings are obtained by means of differential
 saMdhi splits, which act like “epigenetic” information superimposed on
@@ -66,3 +70,4 @@ wherein the stem like constraints like the sword haft support the
 structure of the sword (the loop).
 
 [![](https://lh5.googleusercontent.com/-EoFEykgS5S4/UsCCmMsk36I/AAAAAAAAC0Q/mRNY0pzITEc/s640/riboswitches.jpg)](https://picasaweb.google.com/lh/photo/zkaymHOm9Ptp5gJU4uBH5tMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
+

@@ -1,7 +1,13 @@
 +++
 title = "The Triassic crurotarsans"
+date = "2006-01-30"
+upstream_url = "https://manasataramgini.wordpress.com/2006/01/30/the-triassic-crurotarsans/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/01/30/the-triassic-crurotarsans/).
+
+
+
 A phytosaur and the shuvosaurid Effigia.
 
 [![](https://i0.wp.com/photos1.blogger.com/blogger/2010/410/320/phytosaur.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/phytosaur.gif)[![](https://i1.wp.com/photos1.blogger.com/blogger/2010/410/320/effigia.0.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/effigia.0.jpg)
@@ -70,3 +76,4 @@ chance presented itself.
 In light of this one wonders if at least part of Protoavis of Chatterjee
 may represent a crurotarsan imitation of the avian state?? Far fetched
 but not impossible.
+

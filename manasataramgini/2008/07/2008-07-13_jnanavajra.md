@@ -1,7 +1,11 @@
 +++
 title = "j~nAnavajra"
+date = "2008-07-13"
+upstream_url = "https://manasataramgini.wordpress.com/2008/07/13/jnanavajra/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/07/13/jnanavajra/).
+
 ![Zanabazar
 (j\~nAnavajra)](https://i1.wp.com/farm3.static.flickr.com/2268/2478022493_24b13bd8d4_o.jpg)
 
@@ -77,3 +81,4 @@ to the original.
 [Mongolian recitation of the karaNDavyUha and avalokiteshvara
 shaDakSharI
 sampuTikaraNa](https://app.box.com/s/vqap31malovx4pws83rtdqidbewewrkm)
+

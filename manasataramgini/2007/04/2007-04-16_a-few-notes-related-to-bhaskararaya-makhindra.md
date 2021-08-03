@@ -1,7 +1,11 @@
 +++
 title = "A few notes related to bhAskararAya makhindra"
+date = "2007-04-16"
+upstream_url = "https://manasataramgini.wordpress.com/2007/04/16/a-few-notes-related-to-bhaskararaya-makhindra/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/04/16/a-few-notes-related-to-bhaskararaya-makhindra/).
+
 We had earlier reconstructed a narrative on the illustrious bhAskararAya
 makhIndra’s life using raghunAtha paNDita edition of the great man’s
 biography by jagannAtha paNDita. jagannAtha paNDita’s clan hailed not
@@ -17,5 +21,6 @@ sha\~Nkara. 5) The saubhAgya bhAskara of bhAskararAya.
 
 His biography is clear in stating that shiva-datta shukla, the
 madhyandina brAhmaNa from Surat conferred on him pUrNAbhisheka-  
-shivadatta shukla-charaNaasAdita pUrNAbhiSheka-sAmrAjyaH |  
-gurjara-deshe vidadhe jarjara-dhairyaM sa vallabhAchAryam ||
+shivadatta shukla-charaNaasAdita pUrNAbhiSheka-sAmrAjyaH \|  
+gurjara-deshe vidadhe jarjara-dhairyaM sa vallabhAchAryaM \|\|
+

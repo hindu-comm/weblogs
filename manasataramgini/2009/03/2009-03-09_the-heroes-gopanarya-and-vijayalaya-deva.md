@@ -1,7 +1,11 @@
 +++
 title = "The heroes, gopaNArya and vijayAlaya-deva-I"
+date = "2009-03-09"
+upstream_url = "https://manasataramgini.wordpress.com/2009/03/09/the-heroes-gopanarya-and-vijayalaya-deva/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/03/09/the-heroes-gopanarya-and-vijayalaya-deva/).
+
 Many of the heroes in our great struggle against the Mohammedan
 desecrators of bhAratavarSha have been forgotten. In particular these
 are the warriors from the Andhra and drAviDa countries who turned the
@@ -89,7 +93,7 @@ chakra to save people from the terror of the Ghazis
 
 Succor finally came in the form the bukka-rAya-I of Vijayanagara, who
 along with his brothers had initiated the Hindu revival. He commanded
-his son kumAra kaMpaNa, to destroy the Islamic power in the south,
+his sonkumAra kaMpaNa, to destroy the Islamic power in the south,
 including the Sultan of Madhurai who had established himself in the
 pANDyan domain. For this great campaign of 1365-1371 CE he divided his
 army into three wings, of which one was led by himself, another was
@@ -103,7 +107,7 @@ ShaDakSharI mantra early in his life from the vaiShNava teacher vedAnta
 deshika. His father who moved to the Andhra country to serve the
 Vijayanagaran empire rose to the rank of an amAtya of the southern zone
 under harihara-I. Due to his administrative and military abilities
-gopaNArya was appointed as amAtya under bukka’s son kumAra kaMpaNa.
+gopaNArya was appointed as amAtya under bukka’sson kumAra kaMpaNa.
 
 The combined Vijayanagaran army first seized Arcot from the
 shAmbhuvarAya (a vahni-kula rAjpUt settled in the drAviDa country) who
@@ -165,9 +169,9 @@ published in Epigraphia Indica vol 6 with minor emendation, though I
 have seen variant forms with the vaiShNava):  
 svasti shrIH  
 *AnIyA-nIlA-shR^i\~Nga-dyuti-rachita-jagad-ra\~njanad-a\~njanAdresh-che\~nchyAm-ArAdhya
-kiMchit samayamatha nihatyod-dhanuShkAMs-turuShkAn |  
+kiMchit samayamatha nihatyod-dhanuShkAMs-turuShkAn \|  
 lakShmI-kShmAbhyAm-ubhAbhyAM saha nija-nagare sthApayan ra\~NganAthaM
-samyak-varyAM saparyAM punara-kR^ita yasho-darpaNo gopaNAryaH ||*
+samyak-varyAM saparyAM punara-kR^ita yasho-darpaNo gopaNAryaH \|\|*
 
 Having brought down from the collyrium-hued hills (Tirupati) that
 captivate the whole world with the shine of their blue peaks he
@@ -179,9 +183,9 @@ the mirror of fame, gopaNArya.
 
 *vishveshaM ra\~NgarAjaM vR^iShbha-giri-taTAt gopaNaH kShoNi-devo nItvA
 svAM rAjadhAnIn-nija \[asi?\]-bala-nihatotsikta-tauruShka-sainyaH
-kR^itvA |  
+kR^itvA \|  
 shrI-ra\~Nga-bhUmim kR^ita-yuga-sahitAnta \[…?\] lakShmI mahIbhyAM
-saMsthApyAsyAM sarojabhava iva kurute sAdhu-charyAM saparyam ||*
+saMsthApyAsyAM sarojabhava iva kurute sAdhu-charyAM saparyaM \|\|*
 
 The world \[which is a\] stage, its king \[ra\~NgarAja\] from the
 vR^iShabha hills’ slopes \[Tirupati\], the brAhmaNa gopaNa brought to
@@ -194,9 +198,9 @@ Another vaiShNava record that mentions the return of their teacher
 vedAnta deshika also mentions gopaNa’s victory over the Moslems. It is
 slightly corrupt but goes thus:  
 * shrutvA gopaNa-bhUmipo yama-nibhAn jitvA turuShkAm bhuvi
-shri-ra\~NgAdhi-patiM sva-kIyAvishaye saMsthApya bhUyaH kramAt | pUjAM
+shri-ra\~NgAdhi-patiM sva-kIyAvishaye saMsthApya bhUyaH kramAt \| pUjAM
 kArayatIti harSha-vachanaM rangaM prati-prasthitaH yo dArais-saha
-dhArakENa cha gurustaM samshrayesman-nidhim ||*  
+dhArakENa cha gurustaM samshrayesman-nidhim \|\|*  
 Here a vaiShNava eulogist seeking the grace of his teacher states that
 vedAnta deshika returned with wife and son upon hearing the delightful
 news that the warrior gopaNa having won the battles with the deadly
@@ -240,3 +244,4 @@ temple and building of fortifications at Kadiri. While here it is also
 said he sponsored his mantra-teacher vedAnta deshika in his last years
 to compose two works on rasAyana/medicine: rasa-bhaumAmR^ita and
 vR^ikSha-bhaumAmR^ita and a work on geography termed bhU-gola-nirNaya.
+

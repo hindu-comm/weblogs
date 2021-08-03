@@ -1,7 +1,13 @@
 +++
 title = "kubjikA and the pa~nchavaktra mahAdeva"
+date = "2006-07-20"
+upstream_url = "https://manasataramgini.wordpress.com/2006/07/20/kubjika-and-the-panchavaktra-mahadeva/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/07/20/kubjika-and-the-panchavaktra-mahadeva/).
+
+
+
 [![](https://i2.wp.com/photos1.blogger.com/blogger/2010/410/320/kubjikA1.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/kubjikA1.jpg)
 
 The great tradition of paschimAmnAya goddess, our hallowed mother
@@ -25,3 +31,4 @@ rosary, skull-topped rod, a conch, a book, a trident, a mirror, a
 straight sword, a gem necklace, an a\~NkuSha and a bow. She is of fair
 complexion like a young jasmine flower. The yantra of this worship is
 provided above.
+

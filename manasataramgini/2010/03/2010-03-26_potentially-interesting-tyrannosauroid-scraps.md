@@ -1,7 +1,11 @@
 +++
 title = "Potentially interesting tyrannosauroid scraps"
+date = "2010-03-26"
+upstream_url = "https://manasataramgini.wordpress.com/2010/03/26/potentially-interesting-tyrannosauroid-scraps/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/03/26/potentially-interesting-tyrannosauroid-scraps/).
+
 Recent dinosaurian discoveries are emphasizing cosmopolitanism against
 the earlier belief of regionalism triggered by vicariance. The discovery
 of Brusatte et al that Shaochilong, Chilantaisaurus and Fukuiraptor are
@@ -32,18 +36,18 @@ South? I had long suspected that we might find a Southern lineage of
 tyrannosaurs and the first glimmer of hope in this direct has emerged.
 
 [![](https://i0.wp.com/lh5.ggpht.com/_hjuA1bE0hBw/S65VnYo1yCI/AAAAAAAABV0/qUmklpNOkns/s800/panoply_pubes.jpg)](http://picasaweb.google.com/lh/photo/ljtH1LJGex6iS64w7_jm7A?feat=embedwebsite)
- A panoply of theropod pubes (modified from Benson et al.)
+A panoply of theropod pubes (modified from Benson et al.)
 
 The fossil reported by Benson et al is hardly pretty – it is simply just
 a pubis (NMVP186046) from the Dinosaur Cove site in Australia that has
 earlier yielded the hypsilophodont Leaellynasaura and the enigmatic
 fragmentary theropod Timimus. But based on a number of features they
 claim the following:  
-1\) coelurosaur affinities based on a transversely narrow,
-parallel-sided pubic boot.  
-2\) It is specifically linked to the tyrannosaurids by a rugose lateral
+1) coelurosaur affinities based on a transversely narrow, parallel-sided
+pubic boot.  
+2) It is specifically linked to the tyrannosaurids by a rugose lateral
 surface adjacent to the pubic tubercle.  
-3\) Specifically tyrannosaurid rather than basal tyrannosauroids
+3) Specifically tyrannosaurid rather than basal tyrannosauroids
 affinities based on the large pubic boot with a prominent anterior
 expansion. It is distinguished from allosauroids, where the pubic boot
 is transversely broad and from ornithomimosaurs and oviraptorosaurs that
@@ -77,7 +81,7 @@ that convincing megaraptorans have been reported from Australia this
 alternative is not far-fetched.
 
 [![](https://i0.wp.com/lh6.ggpht.com/_hjuA1bE0hBw/S65VxwNo7YI/AAAAAAAABVQ/3wkT3u2Z_1A/s800/continental_drift.jpg)](http://picasaweb.google.com/lh/photo/vytgbRXvWlgldzrZcarUQg?feat=embedwebsite)
- Paleomaps provided by Ron Blakey, NAU Geology (click to original to
+Paleomaps provided by Ron Blakey, NAU Geology (click to original to
 magnify)
 
 But if they are right then it has major implications. Firstly, it shows
@@ -134,3 +138,4 @@ small forms). At least some of the deinonychosaurs could have also used
 flight to navigate this low-lying island chain. While this sounds like a
 rather drastic or even improbable suggestion, in the least attempts to
 falsify it should be made using independent geological data.
+

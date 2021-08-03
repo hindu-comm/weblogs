@@ -1,7 +1,11 @@
 +++
 title = "Vignettes of the wisdom of the kuru and the pa~nchAla"
+date = "2013-05-14"
+upstream_url = "https://manasataramgini.wordpress.com/2013/05/14/vignettes-of-the-wisdom-of-the-kuru-and-the-panchala/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/05/14/vignettes-of-the-wisdom-of-the-kuru-and-the-panchala/).
+
 The defining element of our identity was the formation of the rAShTra by
 the kuru and the pa\~nchAla, the foremost of the bhArata clans. It is
 the legacy of this rAShTra of the bhArata-s, rather than documents like
@@ -19,28 +23,28 @@ of some of it:
 
 Thus spoke nakula the fourth pANDava:
 
-rAj\~naH pramAda-doSheNa dasyubhiH parimuShyatAm |  
-asharaNyaH prajAnAM yaH sa rAjA kalir uchyate ||  
+rAj\~naH pramAda-doSheNa dasyubhiH parimuShyatAm \|  
+asharaNyaH prajAnAM yaH sa rAjA kalir uchyate \|\|  
 The ruler whose delusion results in his people being plundered by
 dasyu-s, and \[the ruler\] who does not offer protection to his people
 \[from dasyu-s\] is said to be the manifestation of kali.
 
 Thus spoke draupadI the princess of the pa\~nchAla-s:
 
-nAdaNDaH kShatriyo bhAti nAdaNDo bhUtim ashnute |  
-nAdaNDasya prajA rAj\~naH sukham edhanti bhArata ||  
+nAdaNDaH kShatriyo bhAti nAdaNDo bhUtim ashnute \|  
+nAdaNDasya prajA rAj\~naH sukham edhanti bhArata \|\|  
 Without punitive legislation a kShatriya cannot shine forth, without
 punitive ability he cannot attain power. The people of a ruler without
 punitive ability cannot attain happiness.
 
-asatAM pratiShedhash cha satAM cha paripAlanam |  
-eSha rAj\~nAM paro dharmaH samare chApalAyanam ||  
+asatAM pratiShedhash cha satAM cha paripAlanam \|  
+eSha rAj\~nAM paro dharmaH samare chApalAyanam \|\|  
 Restraining the evil doers, cultivating the good, and showing agility in
 war: these are the highest duties of rulers.
 
-kurute mUDham evaM hi yaH shreyo nAdhigachChati |  
-dhUpair a\~njanayogaish cha nasya-karmabhir eva cha |  
-bheShajaiH sa chikitsyaH syAd ya unmArgeNa gachChati ||  
+kurute mUDham evaM hi yaH shreyo nAdhigachChati \|  
+dhUpair a\~njanayogaish cha nasya-karmabhir eva cha \|  
+bheShajaiH sa chikitsyaH syAd ya unmArgeNa gachChati \|\|  
 One who due to stupidity \[wishes to abandon the upholding of his state
 for asceticism as yudhiShThira wished to do upon realizing that he
 caused the death of karNa and others\] will never attain any felicity.
@@ -55,18 +59,18 @@ state.
 
 Thus spoke bhImasena the second pANDava:
 
-dvividho jAyate vyAdhiH shArIro mAnasas tathA |  
-parasparaM tayor janma nirdvaMdvaM nopalabhyate ||  
+dvividho jAyate vyAdhiH shArIro mAnasas tathA \|  
+parasparaM tayor janma nirdvaMdvaM nopalabhyate \|\|  
 There are two types of disease – of the body and of the mind. Each give
 rise to the other neither exists independently of the other.
 
-shArIrAj jAyate vyAdhir mAnaso nAtra saMshayaH |  
-mAnasAj jAyate vyAdhiH shArIra iti nishchayaH ||  
+shArIrAj jAyate vyAdhir mAnaso nAtra saMshayaH \|  
+mAnasAj jAyate vyAdhiH shArIra iti nishchayaH \|\|  
 The mental diseases arise from bodily morbidity without doubt; likewise
 from mental disease emerge bodily diseases – this is certain.
 
-shArIra mAnase duHkhe yo .atIte anushochati |  
-duHkhena labhate duHkhaM dvAv anarthau prapadyate ||  
+shArIra mAnase duHkhe yo .atIte anushochati \|  
+duHkhena labhate duHkhaM dvAv anarthau prapadyate \|\|  
 He who keeps pondering on past bodily or mental afflictions has new
 sorrow emerging from his thinking of old sorrows; thus he \[ends up\]
 saddled with two tragedies
@@ -78,31 +82,31 @@ depression and move on in life.
 
 Thus spoke arjuna the third pANDava:
 
-kShatra-dharmo mahA-raudraH shastra-nitya iti smR^itaH |  
-vadhash cha bharata-shreShTha kAle shastreNa saMyuge ||  
+kShatra-dharmo mahA-raudraH shastra-nitya iti smR^itaH \|  
+vadhash cha bharata-shreShTha kAle shastreNa saMyuge \|\|  
 It is known that the duty of the kShatriya is very fierce involving the
 constant use of weapons. O foremost bhArata, \[it is known\] that when
 their time comes they are killed in battle while engaging with weapons.
 
-brAhmaNasyaapi ched rAjan kShatra-dharmeNa tiShThataH |  
-prashastaM jIvitaM loke kShatraM hi brahma-saMsthitam ||  
+brAhmaNasyaapi ched rAjan kShatra-dharmeNa tiShThataH \|  
+prashastaM jIvitaM loke kShatraM hi brahma-saMsthitam \|\|  
 Even a brAhmaNa who is firm in following the duties of a kShatriya leads
 a praiseworthy life as after all in this world kShatra power is also
 stationed on a foundation of brahma power.
 
-kShatriyasya visheSheNa hR^idayaM vajra-saMhatam|  
-jitvArIn kShatra-dharmeNa prApya rAjyam akaNTakam ||  
+kShatriyasya visheSheNa hR^idayaM vajra-saMhatam\|  
+jitvArIn kShatra-dharmeNa prApya rAjyam akaNTakam \|\|  
 In particular a kShatriya’s heart is adamantine. By applying the
 kShatra-dharma he conquers foes and acquires a dominion free from
 trouble-makers.
 
 Thus spoke vyAsa kR^iShNa-dvaipAyana:
 
-yaj\~no vidyA samutthAnam asaMtoShaH shriyaM prati |  
-daNDa-dhAraNam atyugraM prajAnAM paripAlanam ||  
-veda-j\~nAnaM tathA kR^itsnaM tapaH sucharitaM tathA |  
-draviNopArjanaM bhUri pAtreShu pratipAdanam |  
-etAni rAj\~nAM karmANi sukR^itAni vishAM pate||  
+yaj\~no vidyA samutthAnam asaMtoShaH shriyaM prati \|  
+daNDa-dhAraNam atyugraM prajAnAM paripAlanam \|\|  
+veda-j\~nAnaM tathA kR^itsnaM tapaH sucharitaM tathA \|  
+draviNopArjanaM bhUri pAtreShu pratipAdanam \|  
+etAni rAj\~nAM karmANi sukR^itAni vishAM pate\|\|  
 Fire rituals, learning, exercise, being unsatisfied with \[limited\]
 prosperity, upholding punitive legislation, fierceness in battle and
 working for the welfare of ones people. Knowledge of the veda and
@@ -111,15 +115,16 @@ wealth and its distribution to deserving individuals – these are the
 duties of a kShatriya to be performed well O ruler of the people.
 
 teShAM jyAyas tu kaunteya daNDadhAraNam uchyate  
-balaM hi kShatriye nityaM bale daNDaH samAhitaH ||  
+balaM hi kShatriye nityaM bale daNDaH samAhitaH \|\|  
 Amongst these, kaunteya, the wielding of punitive power is said to be
 the foremost. Strength must always be there in a kShatriya as punitive
 power depends on strength.
 
 the gAthA of bR^ihaspati a\~ngirasa:  
-bhUmir etau nigirati sarpo bilashayAn iva |  
-rAjAnaM chAviroddhAraM brAhmaNaM chApravAsinam ||
+bhUmir etau nigirati sarpo bilashayAn iva \|  
+rAjAnaM chAviroddhAraM brAhmaNaM chApravAsinam \|\|
 
 Just as a snake gobbles a burrowing rodent \[the ways of\] the world
 swallow a king who given to excessive non-violence and a brAhmaNa who is
 excessively devoted to one place \[i.e. patron\].
+

@@ -1,8 +1,11 @@
 +++
-title = "brahmA,viShNu and shiva’s praise of vinAyaka in the 13th chapter of the gaNeshaxa0purANa"
+title = "brahmA,viShNu and shiva’s praise of vinAyaka in the 13th chapter of the gaNesha purANa"
 date = "2020-03-19"
+upstream_url = "https://padmavajra.net/2020/03/19/brahmavishnu-and-shivas-praise-of-vinayaka-in-the-13th-chapter-of-the-ganesha-purana/"
 
 +++
+Source: [here](https://padmavajra.net/2020/03/19/brahmavishnu-and-shivas-praise-of-vinayaka-in-the-13th-chapter-of-the-ganesha-purana/).
+
 Description of Ganesha when the devas praised Him(the core essential
 points)\[in the 12th chapter\]  
 koTisUrya pratIkAshaM tejorAshi puro mune\|  

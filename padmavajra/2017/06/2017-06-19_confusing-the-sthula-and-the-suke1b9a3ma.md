@@ -1,8 +1,11 @@
 +++
-title = "Confusing the sthūla and thexa0sūkṣma"
+title = "Confusing the sthūla and the sūkṣma"
 date = "2017-06-19"
+upstream_url = "https://padmavajra.net/2017/06/19/confusing-the-sthula-and-the-suk%e1%b9%a3ma/"
 
 +++
+Source: [here](https://padmavajra.net/2017/06/19/confusing-the-sthula-and-the-suk%e1%b9%a3ma/).
+
 Many Hindus,as a friend noted,have a tendency to confuse the sthūla with
 the sūkṣma even in matters of directions of narrative weaving and
 geopolitics when it comes to narratives of our history,and the core

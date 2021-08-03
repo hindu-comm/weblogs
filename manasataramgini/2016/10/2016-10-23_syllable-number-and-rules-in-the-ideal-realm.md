@@ -1,20 +1,24 @@
 +++
 title = "Syllable, number and rules in the ideal realm"
+date = "2016-10-23"
+upstream_url = "https://manasataramgini.wordpress.com/2016/10/23/syllable-number-and-rules-in-the-ideal-realm/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2016/10/23/syllable-number-and-rules-in-the-ideal-realm/).
+
 This note is neither meant to be complete exposition of this matter nor
 a complete view of all what we have realized in this regard. Nor can it
 be completely understood by those who are not insiders of the tradition.
 
 ***Syllable in the primal realm***  
 In below verse, from what is perhaps the most famous sūkta of the
-Ṛgveda, the Aṅgira Dirghatamas Auchathya, the founder of the Gotama
-clan says:
+Ṛgveda, the Aṅgira Dirghatamas Auchathya, the founder of the Gotama clan
+says:
 
 ṛco akṣare parame vyoman  
-yasmin devā adhi viśve niṣeduḥ |  
+yasmin devā adhi viśve niṣeduḥ \|  
 yas tan na veda kim ṛcā kariṣyati  
-ya it tad vidus ta ime sam āsate || RV 1.164.39
+ya it tad vidus ta ime sam āsate \|\| RV 1.164.39
 
 In the syllable of the ṛc set in the highest world,  
 therein all the deva-s have taken residence,  
@@ -23,9 +27,9 @@ verily only they who know can sit together \[in this ritual session\].
 
 He continues:  
 gaurīr mimāya salilāni takṣaty  
-ekapadī dvipadī sā catuṣpadī |  
+ekapadī dvipadī sā catuṣpadī \|  
 aṣṭāpadī navapadī babhūvuṣī  
-sahasrākṣarā parame vyoman || RV 1.164.41
+sahasrākṣarā parame vyoman \|\| RV 1.164.41
 
 The female gaur \[Bos gaurus\] having measured out fashions the
 waters,  
@@ -35,9 +39,9 @@ she is a thousand syllables in the highest realm.
 
 In the Atharvāṅgirasa-śruti Kutsa āṅgirasa says:  
 ekacakraṃ vartata ekanemi  
-sahasrākṣaraṃ pra puro ni paścā |  
+sahasrākṣaraṃ pra puro ni paścā \|  
 ardhena viśvaṃ bhuvanaṃ jajāna  
-yad asyārdhaṃ kva tad babhūva || AV-vulgate 10.8.7c
+yad asyārdhaṃ kva tad babhūva \|\|AV-vulgate 10.8.7c
 
 One-wheeled and one-rimmed it spins,  
 \[with a\] thousand syllables north, east, south and west,  
@@ -49,9 +53,9 @@ of syllables but we shall only touch upon some here. In the long Rohita
 recitation we hear:
 
 ekapadī dvipadī sā catuṣpady  
-aṣṭāpadī navapadī babhūvuṣī |  
+aṣṭāpadī navapadī babhūvuṣī \|  
 sahasrākṣarā bhuvanasya paṅktis  
-tasyāḥ samudrā adhi vi kṣaranti || AV-vulgate 13.1.42
+tasyāḥ samudrā adhi vi kṣaranti \|\| AV-vulgate 13.1.42
 
 She is one footed, two-footed, four-footed,  
 becoming eight-footed and nine-footed,  
@@ -61,15 +65,15 @@ from her the oceans flow forth.
 The above ṛc-s have much in them that can be expounded but what we wish
 to stress here is the repeated allusion to the syllables, “akṣara-s”
 which are:  
-1\) constituents of the spinning wheel from which the universe
+1) constituents of the spinning wheel from which the universe
 originated.  
-2\) residents of the “parame vyoman” which can be understood not just as
+2) residents of the “parame vyoman” which can be understood not just as
 the highest world in some physical sense but also as the highest in
 terms of “ideals” and also in terms of time as the primordial world from
 which all has sprung.  
-3\) constituents or the very form of highest realm that is the seat or
+3) constituents or the very form of highest realm that is the seat or
 the dwelling of the gods.  
-4\) associated with counting or numbers in a sequence.
+4) associated with counting or numbers in a sequence.
 
 Indeed, this understanding of the syllables or the primal syllable is
 the secret behind the Vaidika ritualist receiving the teaching of the
@@ -104,8 +108,8 @@ Vedic incantations. That was the art of the kavi or the vipra by which
 he crafted his mantra-s – it relates to the old Indo-European tradition
 of Chandas with a fixed syllable-count. Now these kavi-s extended this
 logic to the universe. There in the “parame vyoman” there exist these
-“thousand syllables” from which the universe was emitted by a series
-of rules (“vrata-s”) even as the Sanskrit language is emitted from its
+“thousand syllables” from which the universe was emitted by a series of
+rules (“vrata-s”) even as the Sanskrit language is emitted from its
 syllabary. This idea persisted with the tāntrika mantra theory which
 succeeded the Vaidika prototype.
 
@@ -133,10 +137,9 @@ fathomed. Curiously, one facet of it which is central to our current
 discursion is the fact that in Hindu tradition the number is often
 subservient to the syllable. There are many ways in which numbers might
 be linguistically represented: the syllabic contraption of the great
-āryabhaṭa or the \#katapayādi system or the system of using markers
-like: 1= candramas/Indra; 2=pakṣau; 3=vaḥnayaḥ; 4=vedāḥ; 5=bāṇāḥ;
-6=ṛtavaḥ/skandaḥ; 7=munyaḥ/abdhayaḥ; 8=nāgāḥ/vasavaḥ; 9=grahāḥ;
-10=dik.
+āryabhaṭa or the #katapayādi system or the system of using markers like:
+1= candramas/Indra; 2=pakṣau; 3=vaḥnayaḥ; 4=vedāḥ; 5=bāṇāḥ;
+6=ṛtavaḥ/skandaḥ; 7=munyaḥ/abdhayaḥ; 8=nāgāḥ/vasavaḥ; 9=grahāḥ; 10=dik.
 
 ***“The extraordinary effectiveness of mathematics”***  
 In our times we see a great thinker of the age Roger Penrose talk of
@@ -166,7 +169,7 @@ Greek statement by Karl Gauss). One can fill a whole volume and more
 with examples of this mystery of mathematics and we have narrated some
 of our personal journeys through such on these pages; yet, we shall
 offer a few here for it is always worth savoring:  
-1\) A trivial case is the Hindu predilection for huge numbers. At the
+1) A trivial case is the Hindu predilection for huge numbers. At the
 time the Hindus named them people had little reason to count that much.
 But today we know the various measures at the extremities of the
 universe fall in the orders magnitude of many of those big numbers of
@@ -189,23 +192,21 @@ trivial:![witch](https://manasataramgini.files.wordpress.com/2016/10/witch2.png?
 
 \* Draw the generating circle which is tangent to the x-axis at origin O
 and radius
-![a](https://s0.wp.com/latex.php?latex=a&bg=ffffff&fg=333333&s=0 "a").  
+![a](https://s0.wp.com/latex.php?latex=a&bg=ffffff&fg=333333&s=0&c=20201002).  
 \* Draw the diameter along the y-axis
-![\\overline{OA}](https://s0.wp.com/latex.php?latex=%5Coverline%7BOA%7D&bg=ffffff&fg=333333&s=0
-"\\overline{OA}") and a tangent to it at point A.  
+![\\overline{OA}](https://s0.wp.com/latex.php?latex=%5Coverline%7BOA%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+and a tangent to it at point A.  
 \* Let B be a point moving on the generating circle. Draw
-![\\overleftrightarrow{OB}](https://s0.wp.com/latex.php?latex=%5Coverleftrightarrow%7BOB%7D&bg=ffffff&fg=333333&s=0
-"\\overleftrightarrow{OB}") which cuts the above tangent at point C.  
+![\\overleftrightarrow{OB}](https://s0.wp.com/latex.php?latex=%5Coverleftrightarrow%7BOB%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+which cuts the above tangent at point C.  
 \* Draw a line perpendicular
-![\\overleftrightarrow{AC}](https://s0.wp.com/latex.php?latex=%5Coverleftrightarrow%7BAC%7D&bg=ffffff&fg=333333&s=0
-"\\overleftrightarrow{AC}") at point C and a line parallel to
-![\\overleftrightarrow{AC}](https://s0.wp.com/latex.php?latex=%5Coverleftrightarrow%7BAC%7D&bg=ffffff&fg=333333&s=0
-"\\overleftrightarrow{AC}") through point B. These two lines intersect
-at point D.  
+![\\overleftrightarrow{AC}](https://s0.wp.com/latex.php?latex=%5Coverleftrightarrow%7BAC%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+at point C and a line parallel to
+![\\overleftrightarrow{AC}](https://s0.wp.com/latex.php?latex=%5Coverleftrightarrow%7BAC%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+through point B. These two lines intersect at point D.  
 \* The locus of D as a B moves on the generating circle is the witch
 which has the equation:
-![y=\\dfrac{8a^3}{4a^2+x^2}](https://s0.wp.com/latex.php?latex=y%3D%5Cdfrac%7B8a%5E3%7D%7B4a%5E2%2Bx%5E2%7D&bg=ffffff&fg=333333&s=0
-"y=\\dfrac{8a^3}{4a^2+x^2}").
+![y=\\dfrac{8a^3}{4a^2+x^2}](https://s0.wp.com/latex.php?latex=y%3D%5Cdfrac%7B8a%5E3%7D%7B4a%5E2%2Bx%5E2%7D&bg=ffffff&fg=333333&s=0&c=20201002).
 
 Looking at the witch in those days of our youth we thought that it
 looked like a good function for a statistical distribution and wondered
@@ -335,7 +336,7 @@ which privileged measurement as the primary feature. This feature
 emerges early in the tradition of our ancestors: one of the primeval
 preserved memories of our clan is that of our hoary ancestor Cyavāna
 Bhārgava measuring out the ritual altar with a depth-measuring device:
-“cyavānaḥ sūdair amimīta vedim |”. Right in the Ṛgveda we hear the
+“cyavānaḥ sūdair amimīta vedim \|”. Right in the Ṛgveda we hear the
 great astronomer ṛṣi Atri Bhauma, who saved our ancestor Ṛcīka Aurva,
 say this as he praises the great Asura:
 
@@ -394,7 +395,7 @@ I have measured out its body by means of Indra.
 The same Gauri is also embodied in ritual as a cow who represents the
 measure of heaven. In Taittirīya saṃhitā 7.1 we have:
 
-sahásra-sammitaḥ suvargó lokáḥ|…
+sahásra-sammitaḥ suvargó lokáḥ\|…
 
 The celestial world is measured in thousands…
 
@@ -402,38 +403,38 @@ While the holy cow stands in front of him the ritualist offers with this
 incantation:
 
 ubhā́ jigyathur ná párā jayethe  
-ná párā jigye kataráś canáinoḥ |  
+ná párā jigye kataráś canáinoḥ \|  
 índraś ca viṣṇo yád ápaspṛdhethāṃ  
-tredhā́ sahásraṃ ví tád airayethām íti ||
+tredhā́ sahásraṃ ví tád airayethām íti \|\|
 
 You two have conquered, you two are not conquered;  
 Neither of the two of them have been defeated;  
 Indra and Viṣṇu when you two contested,  
 you had divided the thousand into three. Thus, \[he recites\].
 
-tredhā-vibhaktáṃ vái trirātré sahásram | sāhasrīm eváināṃ karoti |
-sahásrasyaiváinām mātrāṃ karoti |
+tredhā-vibhaktáṃ vái trirātré sahásram \| sāhasrīm eváināṃ karoti \|
+sahásrasyaiváinām mātrāṃ karoti \|
 
 Thousand is indeed divided into three parts at the three-night
 \[ritual\]; he makes her \[the cow\] a \[symbol\] of thousand. He thus
 makes her the measure of a thousand.
 
-rūpāṇi juhoti | rūpáir eváināṁ sám ardhayati | tásyā upotthāya kárṇam
-ā́ japet |
+rūpāṇi juhoti \| rūpáir eváināṁ sám ardhayati \| tásyā upotthāya kárṇam
+ā́ japet \|
 
 He makes oblations to her forms. He thus furnishes her with her forms.
 Rising up he mutters in her ear:
 
 íḍe ránté ‘dite sárasvati príye préyasi máhi víśruty etā́ni te aghniye
-nāmāni |
+nāmāni \|
 
 “Iḍe, Ranti, Aditi, Sarasvati, Priyā, Preyasi, Mahi, Viśruti”, these, O
 unassailable one, are your names (Thus, the ritual cow is identified
 with the goddesses among others embodying the syllabary of the primal
 word).
 
-sukṛtam mā devéṣu brūtād íti | devébhya eváinam ā́ vedayati | ánv enaṃ
-devā́ budhyante ||
+sukṛtam mā devéṣu brūtād íti \| devébhya eváinam ā́ vedayati \| ánv enaṃ
+devā́ budhyante \|\|
 
 Declare me as a doer of good among the gods. She indeed lets \[this\] to
 be known to the gods. The gods take note of this.
@@ -451,23 +452,22 @@ in the form of successive squares formed of square bricks from 1 to 289.
 This embodies the relationship:
 
 ![\\displaystyle \\sum\_{n=0}^{16} (2n+1) = (n+1)^2=
-289](https://s0.wp.com/latex.php?latex=%5Cdisplaystyle+%5Csum_%7Bn%3D0%7D%5E%7B16%7D+%282n%2B1%29+%3D+%28n%2B1%29%5E2%3D+289&bg=ffffff&fg=333333&s=0
-"\\displaystyle \\sum_{n=0}^{16} (2n+1) = (n+1)^2= 289")
+289](https://s0.wp.com/latex.php?latex=%5Cdisplaystyle+%5Csum_%7Bn%3D0%7D%5E%7B16%7D+%282n%2B1%29+%3D+%28n%2B1%29%5E2%3D+289&bg=ffffff&fg=333333&s=0&c=20201002)
 
 Thus the above sequence goes from
-![1,3,5..33](https://s0.wp.com/latex.php?latex=1%2C3%2C5..33&bg=ffffff&fg=333333&s=0
-"1,3,5..33") (spelled out the camaka praśna of the Yajurveda) while the
-sum of sequence goes from
-![1^2..17^2](https://s0.wp.com/latex.php?latex=1%5E2..17%5E2&bg=ffffff&fg=333333&s=0
-"1^2..17^2"). Thus, the first square is one brick. Adding 3 bricks the
-next in the sequence on its 3 sides give you
-![2^2](https://s0.wp.com/latex.php?latex=2%5E2&bg=ffffff&fg=333333&s=0
-"2^2"). Adding 5 bricks to sides of this new square gives you
-![3^2](https://s0.wp.com/latex.php?latex=3%5E2&bg=ffffff&fg=333333&s=0
-"3^2") so on till you get the square of 17. Thus, geometry for the ārya
-was closely linked with number, and measurement with a cord and ruler.
-It was the philosophical consequence of this that marked a subtle point
-of departure of the Hindus from the Platonic realm of the yavana-s: one
+![1,3,5..33](https://s0.wp.com/latex.php?latex=1%2C3%2C5..33&bg=ffffff&fg=333333&s=0&c=20201002)
+(spelled out the camaka praśna of the Yajurveda) while the sum of
+sequence goes from
+![1^2..17^2](https://s0.wp.com/latex.php?latex=1%5E2..17%5E2&bg=ffffff&fg=333333&s=0&c=20201002).
+Thus, the first square is one brick. Adding 3 bricks the next in the
+sequence on its 3 sides give you
+![2^2](https://s0.wp.com/latex.php?latex=2%5E2&bg=ffffff&fg=333333&s=0&c=20201002).
+Adding 5 bricks to sides of this new square gives you
+![3^2](https://s0.wp.com/latex.php?latex=3%5E2&bg=ffffff&fg=333333&s=0&c=20201002)
+so on till you get the square of 17. Thus, geometry for the ārya was
+closely linked with number, and measurement with a cord and ruler. It
+was the philosophical consequence of this that marked a subtle point of
+departure of the Hindus from the Platonic realm of the yavana-s: one
 hears of Plato disapproving of the measured constructions – feature that
 dominated yavana geometry thereafter. Thus, while geometry and other
 Pythagorean mathematical traditions moved into the realm of the ideals
@@ -482,12 +482,10 @@ We first encountered a new class of systems, the iterative systems, with
 the 3/2 floor map. This we originally explored, to our great wonder, in
 the old way with a hand-held calculator and graph paper. The 3/2 floor
 map works thus:  
-![x\_{n+1}=\\dfrac{3}{2}x\_n-\\left \\lfloor \\dfrac{3}{2}x\_n \\right
-\\rfloor](https://s0.wp.com/latex.php?latex=x_%7Bn%2B1%7D%3D%5Cdfrac%7B3%7D%7B2%7Dx_n-%5Cleft+%5Clfloor+%5Cdfrac%7B3%7D%7B2%7Dx_n+%5Cright+%5Crfloor&bg=ffffff&fg=333333&s=0
-"x_{n+1}=\\dfrac{3}{2}x_n-\\left \\lfloor \\dfrac{3}{2}x_n \\right \\rfloor")  
+![x\_{n+1}=\\dfrac{3}{2}x_n-\\left \\lfloor \\dfrac{3}{2}x_n \\right
+\\rfloor](https://s0.wp.com/latex.php?latex=x_%7Bn%2B1%7D%3D%5Cdfrac%7B3%7D%7B2%7Dx_n-%5Cleft+%5Clfloor+%5Cdfrac%7B3%7D%7B2%7Dx_n+%5Cright+%5Crfloor&bg=ffffff&fg=333333&s=0&c=20201002)  
 where the starting value
-![0\<x\_0\<1](https://s0.wp.com/latex.php?latex=0%3Cx_0%3C1&bg=ffffff&fg=333333&s=0
-"0\<x_0\<1")
+![0\<x_0\<1](https://s0.wp.com/latex.php?latex=0%3Cx_0%3C1&bg=ffffff&fg=333333&s=0&c=20201002)
 
 ![3by2map](https://manasataramgini.files.wordpress.com/2016/10/3by2map.png?w=640)
 
@@ -499,12 +497,12 @@ observed with the membrane potential of neurons without any differential
 equations but just a simple iterative system. We realized that the while
 the behavior is chaotic it is not entirely random in a statistical
 sense. For different starting
-![x\_0](https://s0.wp.com/latex.php?latex=x_0&bg=ffffff&fg=333333&s=0
-"x_0") values we get a generally similar frequency distribution of the
-values visited by
-![x\_n](https://s0.wp.com/latex.php?latex=x_n&bg=ffffff&fg=333333&s=0
-"x_n") over
-![n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=333333&s=0 "n")
+![x_0](https://s0.wp.com/latex.php?latex=x_0&bg=ffffff&fg=333333&s=0&c=20201002)
+values we get a generally similar frequency distribution of the values
+visited by
+![x_n](https://s0.wp.com/latex.php?latex=x_n&bg=ffffff&fg=333333&s=0&c=20201002)
+over
+![n](https://s0.wp.com/latex.php?latex=n&bg=ffffff&fg=333333&s=0&c=20201002)
 iterations though there might be very subtle differences for different
 starting values (shown in the figure for 50,000 iterations for six
 different starting values). Over all the values closest to 0 are 3 times
@@ -515,17 +513,17 @@ steps in the distribution at 0.5 and 0.75 which are line with how the
 ![3by2](https://manasataramgini.files.wordpress.com/2016/10/3by2.png?w=640)
 
 *The distribution of values of
-![x\_n](https://s0.wp.com/latex.php?latex=x_n&bg=ffffff&fg=333333&s=0
-"x_n") visited by the 3/2 floor map for different starting values*
+![x_n](https://s0.wp.com/latex.php?latex=x_n&bg=ffffff&fg=333333&s=0&c=20201002)
+visited by the 3/2 floor map for different starting values*
 
 Strikingly, even though the bulk distribution is generally similar for
 all starting values the actual behavior of
-![x\_n](https://s0.wp.com/latex.php?latex=x_n&bg=ffffff&fg=333333&s=0
-"x_n") is very sensitive to the starting value. For example in the
-figure we illustrate the evolution of 0.5 versus 0.50001 over 300
-iterations. One can notice that beyond the 20th iteration the two
-sequences completely diverge that they have nothing in common despite
-similar bulk statistics.
+![x_n](https://s0.wp.com/latex.php?latex=x_n&bg=ffffff&fg=333333&s=0&c=20201002)
+is very sensitive to the starting value. For example in the figure we
+illustrate the evolution of 0.5 versus 0.50001 over 300 iterations. One
+can notice that beyond the 20th iteration the two sequences completely
+diverge that they have nothing in common despite similar bulk
+statistics.
 
 This opened our eyes to the fact that numbers can be looked at in way
 different from how they behave in the system of classical calculus. In
@@ -540,21 +538,19 @@ nature of iteration rule or the “map”.
 The importance of another such kind of behavior was further driven home
 to us by the floor-difference sequence. This sequence is generated thus:
 
-![x\_n=\\left \\lfloor (n+1)h \\right \\rfloor -\\left \\lfloor nh
+![x_n=\\left \\lfloor (n+1)h \\right \\rfloor -\\left \\lfloor nh
 \\right
-\\rfloor](https://s0.wp.com/latex.php?latex=x_n%3D%5Cleft+%5Clfloor+%28n%2B1%29h+%5Cright+%5Crfloor+-%5Cleft+%5Clfloor+nh+%5Cright+%5Crfloor&bg=ffffff&fg=333333&s=0
-"x_n=\\left \\lfloor (n+1)h \\right \\rfloor -\\left \\lfloor nh \\right \\rfloor")  
+\\rfloor](https://s0.wp.com/latex.php?latex=x_n%3D%5Cleft+%5Clfloor+%28n%2B1%29h+%5Cright+%5Crfloor+-%5Cleft+%5Clfloor+nh+%5Cright+%5Crfloor&bg=ffffff&fg=333333&s=0&c=20201002)  
 where
-![n=1,2,3...\\infty](https://s0.wp.com/latex.php?latex=n%3D1%2C2%2C3...%5Cinfty&bg=ffffff&fg=333333&s=0
-"n=1,2,3...\\infty") and
-![h](https://s0.wp.com/latex.php?latex=h&bg=ffffff&fg=333333&s=0 "h") is
-a constant fractional number like say
-![\\pi](https://s0.wp.com/latex.php?latex=%5Cpi&bg=ffffff&fg=333333&s=0
-"\\pi") or
-![\\sqrt{2}](https://s0.wp.com/latex.php?latex=%5Csqrt%7B2%7D&bg=ffffff&fg=333333&s=0
-"\\sqrt{2}").
+![n=1,2,3...\\infty](https://s0.wp.com/latex.php?latex=n%3D1%2C2%2C3...%5Cinfty&bg=ffffff&fg=333333&s=0&c=20201002)
+and
+![h](https://s0.wp.com/latex.php?latex=h&bg=ffffff&fg=333333&s=0&c=20201002)
+is a constant fractional number like say
+![\\pi](https://s0.wp.com/latex.php?latex=%5Cpi&bg=ffffff&fg=333333&s=0&c=20201002)
+or
+![\\sqrt{2}](https://s0.wp.com/latex.php?latex=%5Csqrt%7B2%7D&bg=ffffff&fg=333333&s=0&c=20201002).
 
-![floor\_difference\_spectrum](https://manasataramgini.files.wordpress.com/2016/10/floor_difference_spectrum.png?w=640)
+![floor_difference_spectrum](https://manasataramgini.files.wordpress.com/2016/10/floor_difference_spectrum.png?w=640)
 
 *The floor-difference sequence as step graph for various numbers*
 
@@ -562,95 +558,94 @@ The floor-difference sequence which results from the above rule can be
 represented as shown in the figure – as a step graph – a sequence of up
 and down values. This set of up and down values can hence be also
 represented as a binary string. When
-![h](https://s0.wp.com/latex.php?latex=h&bg=ffffff&fg=333333&s=0 "h") is
-a rational fraction like 3/2 then we get a regularly repetitive graph
+![h](https://s0.wp.com/latex.php?latex=h&bg=ffffff&fg=333333&s=0&c=20201002)
+is a rational fraction like 3/2 then we get a regularly repetitive graph
 which translates into a regular binary string like
-![10101...](https://s0.wp.com/latex.php?latex=10101...&bg=ffffff&fg=333333&s=0
-"10101..."). Now if
-![h](https://s0.wp.com/latex.php?latex=h&bg=ffffff&fg=333333&s=0 "h") is
-instead an irrational number then we do not get a repetitive graph.
+![10101...](https://s0.wp.com/latex.php?latex=10101...&bg=ffffff&fg=333333&s=0&c=20201002).
+Now if
+![h](https://s0.wp.com/latex.php?latex=h&bg=ffffff&fg=333333&s=0&c=20201002)
+is instead an irrational number then we do not get a repetitive graph.
 Instead, there are more complex patterns which have their own structure.
 For example, Stephen Wolfram, the pioneer in the study of such systems,
 has shown that if
-![h](https://s0.wp.com/latex.php?latex=h&bg=ffffff&fg=333333&s=0 "h") is
-a root of a quadratic equation then the pattern of the sequence is
+![h](https://s0.wp.com/latex.php?latex=h&bg=ffffff&fg=333333&s=0&c=20201002)
+is a root of a quadratic equation then the pattern of the sequence is
 obtained by an automaton with simple substitution rules. Thus, he has
 shown the following substitution rules:
 
 ![\\sqrt{2}:\\; 0 \\rightarrow 0,1; \\; 1 \\rightarrow 0,1,0\\\\
 \\sqrt{3}:\\; 0 \\rightarrow 1,1,0; \\; 1 \\rightarrow 1,1,0,1\\\\
 \\phi: 0 \\rightarrow 1; \\; 1 \\rightarrow
-1,0](https://s0.wp.com/latex.php?latex=%5Csqrt%7B2%7D%3A%5C%3B+0+%5Crightarrow+0%2C1%3B+%5C%3B+1+%5Crightarrow+0%2C1%2C0%5C%5C+%5Csqrt%7B3%7D%3A%5C%3B+0+%5Crightarrow+1%2C1%2C0%3B+%5C%3B+1+%5Crightarrow+1%2C1%2C0%2C1%5C%5C+%5Cphi%3A+0+%5Crightarrow+1%3B+%5C%3B+1+%5Crightarrow+1%2C0&bg=ffffff&fg=333333&s=0
-"\\sqrt{2}:\\; 0 \\rightarrow 0,1; \\; 1 \\rightarrow 0,1,0\\\\ \\sqrt{3}:\\; 0 \\rightarrow 1,1,0; \\; 1 \\rightarrow 1,1,0,1\\\\ \\phi: 0 \\rightarrow 1; \\; 1 \\rightarrow 1,0")  
+1,0](https://s0.wp.com/latex.php?latex=%5Csqrt%7B2%7D%3A%5C%3B+0+%5Crightarrow+0%2C1%3B+%5C%3B+1+%5Crightarrow+0%2C1%2C0%5C%5C+%5Csqrt%7B3%7D%3A%5C%3B+0+%5Crightarrow+1%2C1%2C0%3B+%5C%3B+1+%5Crightarrow+1%2C1%2C0%2C1%5C%5C+%5Cphi%3A+0+%5Crightarrow+1%3B+%5C%3B+1+%5Crightarrow+1%2C0&bg=ffffff&fg=333333&s=0&c=20201002)  
 These can be easily verified with the figure.
 
 However, for other irrational numbers the rulers are more complex or
 subtle. The case of ![h=
-e](https://s0.wp.com/latex.php?latex=h%3D+e&bg=ffffff&fg=333333&s=0
-"h= e") or ![h= \\pi
-](https://s0.wp.com/latex.php?latex=h%3D+%5Cpi+&bg=ffffff&fg=333333&s=0
-"h= \\pi ") is rather notable. For
-![e](https://s0.wp.com/latex.php?latex=e&bg=ffffff&fg=333333&s=0 "e") we
-see that the step graph looks quasi-regular: it can represented as
+e](https://s0.wp.com/latex.php?latex=h%3D+e&bg=ffffff&fg=333333&s=0&c=20201002)
+or ![h= \\pi
+](https://s0.wp.com/latex.php?latex=h%3D+%5Cpi+&bg=ffffff&fg=333333&s=0&c=20201002)
+is rather notable. For
+![e](https://s0.wp.com/latex.php?latex=e&bg=ffffff&fg=333333&s=0&c=20201002)
+we see that the step graph looks quasi-regular: it can represented as
 repeats of the binary string
-![1101110](https://s0.wp.com/latex.php?latex=1101110&bg=ffffff&fg=333333&s=0
-"1101110"). This goes fine till we reach position 32 at which place a we
-get an unexpected string
-![11101110](https://s0.wp.com/latex.php?latex=11101110&bg=ffffff&fg=333333&s=0
-"11101110"). Then it resumes again as usual with the repeat of the
-earlier string till position 71 where we again get
-![11101110](https://s0.wp.com/latex.php?latex=11101110&bg=ffffff&fg=333333&s=0
-"11101110"). From this we see that first deviation occurs at 32 and
-second at 39 from the point of the first deviation. From then on this
-pattern repeats with successive insertions of the string
-![11101110](https://s0.wp.com/latex.php?latex=11101110&bg=ffffff&fg=333333&s=0
-"11101110") occurring alternately at 32 and 39 positions from the
-previous one. Thus, we can predict and see the string
-![11101110](https://s0.wp.com/latex.php?latex=11101110&bg=ffffff&fg=333333&s=0
-"11101110") at: 32, 71, 103, 142, 174, 213, 245, 284, 316, 355, 387,
-426, 458, 497=458+39. But at that point instead of seeing the next
-occurrence of the string at 529 (497+32) we instead see it at 536
-(497+39). Thereafter, from 536 the sequence of the points of insertion
-of the string are as usual in the 32, 39 alternate pattern: 536, 568,
-607, 639, 678, 710, 749, 781, 820, 852, 891, 923, 962, 994, 1033=994+39.
-But then instead of getting 1065 (1033+32) next we get 1072=1033+39.
-Thereafter, from 1072 the sequence of appearance of the string continues
-as usual with the alternating 32, 39 as: 1072, 1104, 1143, 1175 …
+![1101110](https://s0.wp.com/latex.php?latex=1101110&bg=ffffff&fg=333333&s=0&c=20201002).
+This goes fine till we reach position 32 at which place a we get an
+unexpected string
+![11101110](https://s0.wp.com/latex.php?latex=11101110&bg=ffffff&fg=333333&s=0&c=20201002).
+Then it resumes again as usual with the repeat of the earlier string
+till position 71 where we again get
+![11101110](https://s0.wp.com/latex.php?latex=11101110&bg=ffffff&fg=333333&s=0&c=20201002).
+From this we see that first deviation occurs at 32 and second at 39 from
+the point of the first deviation. From then on this pattern repeats with
+successive insertions of the string
+![11101110](https://s0.wp.com/latex.php?latex=11101110&bg=ffffff&fg=333333&s=0&c=20201002)
+occurring alternately at 32 and 39 positions from the previous one.
+Thus, we can predict and see the string
+![11101110](https://s0.wp.com/latex.php?latex=11101110&bg=ffffff&fg=333333&s=0&c=20201002)
+at: 32, 71, 103, 142, 174, 213, 245, 284, 316, 355, 387, 426, 458,
+497=458+39. But at that point instead of seeing the next occurrence of
+the string at 529 (497+32) we instead see it at 536 (497+39).
+Thereafter, from 536 the sequence of the points of insertion of the
+string are as usual in the 32, 39 alternate pattern: 536, 568, 607, 639,
+678, 710, 749, 781, 820, 852, 891, 923, 962, 994, 1033=994+39. But then
+instead of getting 1065 (1033+32) next we get 1072=1033+39. Thereafter,
+from 1072 the sequence of appearance of the string continues as usual
+with the alternating 32, 39 as: 1072, 1104, 1143, 1175 …
 
 To understand the secret behind this interesting pattern we have to turn
 to the continued fraction representation of
-![e](https://s0.wp.com/latex.php?latex=e&bg=ffffff&fg=333333&s=0 "e"),
+![e](https://s0.wp.com/latex.php?latex=e&bg=ffffff&fg=333333&s=0&c=20201002),
 which was developed by the great Leonhard Euler. By working out the
 fractions to successive terms we get increasingly better approximations
-of ![e](https://s0.wp.com/latex.php?latex=e&bg=ffffff&fg=333333&s=0
-"e"), which are listed below starting from the 0th :  
+of
+![e](https://s0.wp.com/latex.php?latex=e&bg=ffffff&fg=333333&s=0&c=20201002),
+which are listed below starting from the 0th :  
 ![(0) \\; 2 \\; (1) \\; 3\\; (2) \\;\\dfrac{8}{3}\\; (3)
 \\;\\dfrac{11}{4} (4) \\;\\dfrac{19}{7}\\; (5) \\; \\dfrac{87}{32}\\;
 (6) \\;\\dfrac{106}{39}\\; (7) \\;\\dfrac{193}{71}\\\\\[10pt\] (8)
 \\;\\dfrac{1264}{465}\\; (9) \\;\\dfrac{1457}{536}\\; (10)
 \\;\\dfrac{2721}{1001}\\; (11)\\;
-\\;\\dfrac{23225}{8544}](https://s0.wp.com/latex.php?latex=%280%29+%5C%3B+2+%5C%3B+%281%29+%5C%3B+3%5C%3B+%282%29+%5C%3B%5Cdfrac%7B8%7D%7B3%7D%5C%3B+%283%29+%5C%3B%5Cdfrac%7B11%7D%7B4%7D+%284%29+%5C%3B%5Cdfrac%7B19%7D%7B7%7D%5C%3B+%285%29+%5C%3B+%5Cdfrac%7B87%7D%7B32%7D%5C%3B+%286%29+%5C%3B%5Cdfrac%7B106%7D%7B39%7D%5C%3B+%287%29+%5C%3B%5Cdfrac%7B193%7D%7B71%7D%5C%5C%5B10pt%5D+%288%29+%5C%3B%5Cdfrac%7B1264%7D%7B465%7D%5C%3B+%289%29+%5C%3B%5Cdfrac%7B1457%7D%7B536%7D%5C%3B+%2810%29+%5C%3B%5Cdfrac%7B2721%7D%7B1001%7D%5C%3B+%2811%29%5C%3B+%5C%3B%5Cdfrac%7B23225%7D%7B8544%7D&bg=ffffff&fg=333333&s=0
-"(0) \\; 2 \\; (1) \\; 3\\; (2) \\;\\dfrac{8}{3}\\; (3) \\;\\dfrac{11}{4} (4) \\;\\dfrac{19}{7}\\; (5) \\; \\dfrac{87}{32}\\; (6) \\;\\dfrac{106}{39}\\; (7) \\;\\dfrac{193}{71}\\\\[10pt] (8) \\;\\dfrac{1264}{465}\\; (9) \\;\\dfrac{1457}{536}\\; (10) \\;\\dfrac{2721}{1001}\\; (11)\\; \\;\\dfrac{23225}{8544}")
+\\;\\dfrac{23225}{8544}](https://s0.wp.com/latex.php?latex=%280%29+%5C%3B+2+%5C%3B+%281%29+%5C%3B+3%5C%3B+%282%29+%5C%3B%5Cdfrac%7B8%7D%7B3%7D%5C%3B+%283%29+%5C%3B%5Cdfrac%7B11%7D%7B4%7D+%284%29+%5C%3B%5Cdfrac%7B19%7D%7B7%7D%5C%3B+%285%29+%5C%3B+%5Cdfrac%7B87%7D%7B32%7D%5C%3B+%286%29+%5C%3B%5Cdfrac%7B106%7D%7B39%7D%5C%3B+%287%29+%5C%3B%5Cdfrac%7B193%7D%7B71%7D%5C%5C%5B10pt%5D+%288%29+%5C%3B%5Cdfrac%7B1264%7D%7B465%7D%5C%3B+%289%29+%5C%3B%5Cdfrac%7B1457%7D%7B536%7D%5C%3B+%2810%29+%5C%3B%5Cdfrac%7B2721%7D%7B1001%7D%5C%3B+%2811%29%5C%3B+%5C%3B%5Cdfrac%7B23225%7D%7B8544%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 
 Now the floor-difference sequence for the first fractional approximation
-![\\dfrac{8}{3}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B8%7D%7B3%7D&bg=ffffff&fg=333333&s=0
-"\\dfrac{8}{3}") produces a repeat of the string
-![110](https://s0.wp.com/latex.php?latex=110&bg=ffffff&fg=333333&s=0
-"110"); the next approximation
-![\\dfrac{11}{4}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B11%7D%7B4%7D&bg=ffffff&fg=333333&s=0
-"\\dfrac{11}{4}") yields the repeats of string
-![1110](https://s0.wp.com/latex.php?latex=1110&bg=ffffff&fg=333333&s=0
-"1110"); the next approximation
-![\\dfrac{19}{7}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B19%7D%7B7%7D&bg=ffffff&fg=333333&s=0
-"\\dfrac{19}{7}") yields the string
-![1101110](https://s0.wp.com/latex.php?latex=1101110&bg=ffffff&fg=333333&s=0
-"1101110"). Thus, the first three approximations set up the basic
-pattern which forms the floor-difference sequence of
-![e](https://s0.wp.com/latex.php?latex=e&bg=ffffff&fg=333333&s=0 "e").
+![\\dfrac{8}{3}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B8%7D%7B3%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+produces a repeat of the string
+![110](https://s0.wp.com/latex.php?latex=110&bg=ffffff&fg=333333&s=0&c=20201002);
+the next approximation
+![\\dfrac{11}{4}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B11%7D%7B4%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+yields the repeats of string
+![1110](https://s0.wp.com/latex.php?latex=1110&bg=ffffff&fg=333333&s=0&c=20201002);
+the next approximation
+![\\dfrac{19}{7}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B19%7D%7B7%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+yields the string
+![1101110](https://s0.wp.com/latex.php?latex=1101110&bg=ffffff&fg=333333&s=0&c=20201002).
+Thus, the first three approximations set up the basic pattern which
+forms the floor-difference sequence of
+![e](https://s0.wp.com/latex.php?latex=e&bg=ffffff&fg=333333&s=0&c=20201002).
 We then note that the appearance of the deviant pattern
-![11101110](https://s0.wp.com/latex.php?latex=11101110&bg=ffffff&fg=333333&s=0
-"11101110"), corresponding to positions alternately separated by 32 and
-39 (71=32+39), is related to the denominators of the next three
+![11101110](https://s0.wp.com/latex.php?latex=11101110&bg=ffffff&fg=333333&s=0&c=20201002),
+corresponding to positions alternately separated by 32 and 39
+(71=32+39), is related to the denominators of the next three
 approximations. Strikingly, the further points where we observed break
 of the preexisting pattern occur at or upon crossing of 536 and 1001
 which define the denominators of the 9th and 10th cycles of
@@ -658,41 +653,40 @@ approximation.
 
 Now when we look at the step graph for the floor-difference sequence of
 ![\\pi
-](https://s0.wp.com/latex.php?latex=%5Cpi+&bg=ffffff&fg=333333&s=0
-"\\pi ") we see that it shows a strikingly regular pattern which can
-represented as repeats of the string
-![0000001](https://s0.wp.com/latex.php?latex=0000001&bg=ffffff&fg=333333&s=0
-"0000001"). We see 15 such repeats till we reach the position 106 where
-we see a deviant string
-![00000001](https://s0.wp.com/latex.php?latex=00000001&bg=ffffff&fg=333333&s=0
-"00000001"). Then it resumes with the usual repeat until position 219
-where we again see the deviant string as above. This deviant string then
-reappears regularly at 332, 445, 558, 671, 784, 897, 1010, 1123… i.e.
-every 113th position. Now the secret of this pattern becomes clear when
-we look at the continued fraction derived approximations of ![\\pi
-](https://s0.wp.com/latex.php?latex=%5Cpi+&bg=ffffff&fg=333333&s=0
-"\\pi ") starting from the 0th cycle:
+](https://s0.wp.com/latex.php?latex=%5Cpi+&bg=ffffff&fg=333333&s=0&c=20201002)
+we see that it shows a strikingly regular pattern which can represented
+as repeats of the string
+![0000001](https://s0.wp.com/latex.php?latex=0000001&bg=ffffff&fg=333333&s=0&c=20201002).
+We see 15 such repeats till we reach the position 106 where we see a
+deviant string
+![00000001](https://s0.wp.com/latex.php?latex=00000001&bg=ffffff&fg=333333&s=0&c=20201002).
+Then it resumes with the usual repeat until position 219 where we again
+see the deviant string as above. This deviant string then reappears
+regularly at 332, 445, 558, 671, 784, 897, 1010, 1123… i.e. every 113th
+position. Now the secret of this pattern becomes clear when we look at
+the continued fraction derived approximations of ![\\pi
+](https://s0.wp.com/latex.php?latex=%5Cpi+&bg=ffffff&fg=333333&s=0&c=20201002)
+starting from the 0th cycle:
 
 ![(0) \\; 3 \\; (1) \\;\\dfrac{22}{7}\\;(2) \\;\\dfrac{333}{106}\\;(3)
 \\; \\dfrac{355}{113}\\\\\[10pt\] (4) \\; \\dfrac{103993}{33102}\\; (5)
 \\;
-\\dfrac{104348}{33215}](https://s0.wp.com/latex.php?latex=%280%29+%5C%3B+3+%5C%3B+%281%29+%5C%3B%5Cdfrac%7B22%7D%7B7%7D%5C%3B%282%29+%5C%3B%5Cdfrac%7B333%7D%7B106%7D%5C%3B%283%29+%5C%3B+%5Cdfrac%7B355%7D%7B113%7D%5C%5C%5B10pt%5D+%284%29+%5C%3B+%5Cdfrac%7B103993%7D%7B33102%7D%5C%3B+%285%29+%5C%3B+%5Cdfrac%7B104348%7D%7B33215%7D&bg=ffffff&fg=333333&s=0
-"(0) \\; 3 \\; (1) \\;\\dfrac{22}{7}\\;(2) \\;\\dfrac{333}{106}\\;(3) \\; \\dfrac{355}{113}\\\\[10pt] (4) \\; \\dfrac{103993}{33102}\\; (5) \\; \\dfrac{104348}{33215}")
+\\dfrac{104348}{33215}](https://s0.wp.com/latex.php?latex=%280%29+%5C%3B+3+%5C%3B+%281%29+%5C%3B%5Cdfrac%7B22%7D%7B7%7D%5C%3B%282%29+%5C%3B%5Cdfrac%7B333%7D%7B106%7D%5C%3B%283%29+%5C%3B+%5Cdfrac%7B355%7D%7B113%7D%5C%5C%5B10pt%5D+%284%29+%5C%3B+%5Cdfrac%7B103993%7D%7B33102%7D%5C%3B+%285%29+%5C%3B+%5Cdfrac%7B104348%7D%7B33215%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 
 The 0th approximation 3 is the ancient one which is already alluded to
 as \*approximation\* of
-![\\pi](https://s0.wp.com/latex.php?latex=%5Cpi&bg=ffffff&fg=333333&s=0
-"\\pi") even the RV. The 1st approximation
-![\\dfrac{22}{7}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B22%7D%7B7%7D&bg=ffffff&fg=333333&s=0
-"\\dfrac{22}{7}") is what Archimedes arrived at. Its floor-difference
-step graph corresponds to a sequence starting with the string
-![000001](https://s0.wp.com/latex.php?latex=000001&bg=ffffff&fg=333333&s=0
-"000001") followed by never-ending repeats of
-![0000001](https://s0.wp.com/latex.php?latex=0000001&bg=ffffff&fg=333333&s=0
-"0000001"). This later string sets up the basic pattern of the
-![\\pi](https://s0.wp.com/latex.php?latex=%5Cpi&bg=ffffff&fg=333333&s=0
-"\\pi") sequence. Then we see that as with
-![e](https://s0.wp.com/latex.php?latex=e&bg=ffffff&fg=333333&s=0 "e")
+![\\pi](https://s0.wp.com/latex.php?latex=%5Cpi&bg=ffffff&fg=333333&s=0&c=20201002)
+even the RV. The 1st approximation
+![\\dfrac{22}{7}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B22%7D%7B7%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+is what Archimedes arrived at. Its floor-difference step graph
+corresponds to a sequence starting with the string
+![000001](https://s0.wp.com/latex.php?latex=000001&bg=ffffff&fg=333333&s=0&c=20201002)
+followed by never-ending repeats of
+![0000001](https://s0.wp.com/latex.php?latex=0000001&bg=ffffff&fg=333333&s=0&c=20201002).
+This later string sets up the basic pattern of the
+![\\pi](https://s0.wp.com/latex.php?latex=%5Cpi&bg=ffffff&fg=333333&s=0&c=20201002)
+sequence. Then we see that as with
+![e](https://s0.wp.com/latex.php?latex=e&bg=ffffff&fg=333333&s=0&c=20201002)
 the denominator of the 2nd approximation yields the point where the
 first deviant string appears (106). Then the next copy of that deviant
 string appears 113 positions away from that point, 113 being the
@@ -700,11 +694,11 @@ denominator of the next approximation. The next irregularity is would
 appear in the vicinity of the denominator of the next approximation,
 which is way beyond the number of iterations to which we have calculated
 the sequence. That explains why
-![\\dfrac{355}{113}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B355%7D%7B113%7D&bg=ffffff&fg=333333&s=0
-"\\dfrac{355}{113}") serves as great approximation for
-![\\pi](https://s0.wp.com/latex.php?latex=%5Cpi&bg=ffffff&fg=333333&s=0
-"\\pi") and was so remarkably captured by Srinivasa Ramanujan in his
-first construction to approximately square the circle.
+![\\dfrac{355}{113}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B355%7D%7B113%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+serves as great approximation for
+![\\pi](https://s0.wp.com/latex.php?latex=%5Cpi&bg=ffffff&fg=333333&s=0&c=20201002)
+and was so remarkably captured by Srinivasa Ramanujan in his first
+construction to approximately square the circle.
 
 Thus, here we see that the application of a procedure (the
 floor-difference operator) converts an irrational number with uniformly
@@ -720,82 +714,76 @@ aesthetic value have rich implications for various natural systems
 including optics and the folding of polymers. However, for this
 discussion we shall restrict ourselves to first of these algorithms
 which generates these curves thus:  
-1\) Let the seed
-![s](https://s0.wp.com/latex.php?latex=s&bg=ffffff&fg=333333&s=0 "s") be
-a fractional or irrational number like ![\\pi, \\sqrt(2), \\phi
-](https://s0.wp.com/latex.php?latex=%5Cpi%2C+%5Csqrt%282%29%2C+%5Cphi+&bg=ffffff&fg=333333&s=0
-"\\pi, \\sqrt(2), \\phi ").  
-2\) Start with an initial point
-![x\_0](https://s0.wp.com/latex.php?latex=x_0&bg=ffffff&fg=333333&s=0
-"x_0") say
-![(0,0)](https://s0.wp.com/latex.php?latex=%280%2C0%29&bg=ffffff&fg=333333&s=0
-"(0,0)").  
-3\) Then for n iterations do the following:  
-![dt\_{n+1}=dt\_n+2\\pi \\times s\\\\ t\_{n+1}=t\_n+dt\_{n+1}\\\\
-x\_{n+1}=x\_n+\\cos(t\_{n+1})\\\\ y\_{n+1}=y\_n+\\sin(t\_{n+1})
-](https://s0.wp.com/latex.php?latex=dt_%7Bn%2B1%7D%3Ddt_n%2B2%5Cpi+%5Ctimes+s%5C%5C+t_%7Bn%2B1%7D%3Dt_n%2Bdt_%7Bn%2B1%7D%5C%5C+x_%7Bn%2B1%7D%3Dx_n%2B%5Ccos%28t_%7Bn%2B1%7D%29%5C%5C+y_%7Bn%2B1%7D%3Dy_n%2B%5Csin%28t_%7Bn%2B1%7D%29+&bg=ffffff&fg=333333&s=0
-"dt_{n+1}=dt_n+2\\pi \\times s\\\\ t_{n+1}=t_n+dt_{n+1}\\\\ x_{n+1}=x_n+\\cos(t_{n+1})\\\\ y_{n+1}=y_n+\\sin(t_{n+1}) ")  
-4\) Join successive points
-![(x\_n,y\_n)](https://s0.wp.com/latex.php?latex=%28x_n%2Cy_n%29&bg=ffffff&fg=333333&s=0
-"(x_n,y_n)") to get the desired curlicue. The figure shows curlicues
-generated using various seeds run for 2000 iterations. Top row from
-left: 1)
-![\\pi](https://s0.wp.com/latex.php?latex=%5Cpi&bg=ffffff&fg=333333&s=0
-"\\pi"); 2)
-![\\sqrt{10}](https://s0.wp.com/latex.php?latex=%5Csqrt%7B10%7D&bg=ffffff&fg=333333&s=0
-"\\sqrt{10}"); 3)
-![\\dfrac{355}{113}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B355%7D%7B113%7D&bg=ffffff&fg=333333&s=0
-"\\dfrac{355}{113}"); 4) ![\\phi
-](https://s0.wp.com/latex.php?latex=%5Cphi+&bg=ffffff&fg=333333&s=0
-"\\phi ") Bottom row from left: 5) ![e
-](https://s0.wp.com/latex.php?latex=e+&bg=ffffff&fg=333333&s=0 "e "); 6)
-![\\log(2)](https://s0.wp.com/latex.php?latex=%5Clog%282%29&bg=ffffff&fg=333333&s=0
-"\\log(2)"); 7) ![\\pi \\times
-\\phi](https://s0.wp.com/latex.php?latex=%5Cpi+%5Ctimes+%5Cphi&bg=ffffff&fg=333333&s=0
-"\\pi \\times \\phi").
+1) Let the seed
+![s](https://s0.wp.com/latex.php?latex=s&bg=ffffff&fg=333333&s=0&c=20201002)
+be a fractional or irrational number like ![\\pi, \\sqrt(2), \\phi
+](https://s0.wp.com/latex.php?latex=%5Cpi%2C+%5Csqrt%282%29%2C+%5Cphi+&bg=ffffff&fg=333333&s=0&c=20201002).  
+2) Start with an initial point
+![x_0](https://s0.wp.com/latex.php?latex=x_0&bg=ffffff&fg=333333&s=0&c=20201002)
+say
+![(0,0)](https://s0.wp.com/latex.php?latex=%280%2C0%29&bg=ffffff&fg=333333&s=0&c=20201002).  
+3) Then for n iterations do the following:  
+![dt\_{n+1}=dt_n+2\\pi \\times s\\\\ t\_{n+1}=t_n+dt\_{n+1}\\\\
+x\_{n+1}=x_n+\\cos(t\_{n+1})\\\\ y\_{n+1}=y_n+\\sin(t\_{n+1})
+](https://s0.wp.com/latex.php?latex=dt_%7Bn%2B1%7D%3Ddt_n%2B2%5Cpi+%5Ctimes+s%5C%5C+t_%7Bn%2B1%7D%3Dt_n%2Bdt_%7Bn%2B1%7D%5C%5C+x_%7Bn%2B1%7D%3Dx_n%2B%5Ccos%28t_%7Bn%2B1%7D%29%5C%5C+y_%7Bn%2B1%7D%3Dy_n%2B%5Csin%28t_%7Bn%2B1%7D%29+&bg=ffffff&fg=333333&s=0&c=20201002)  
+4) Join successive points
+![(x_n,y_n)](https://s0.wp.com/latex.php?latex=%28x_n%2Cy_n%29&bg=ffffff&fg=333333&s=0&c=20201002)
+to get the desired curlicue. The figure shows curlicues generated using
+various seeds run for 2000 iterations. Top row from left: 1)
+![\\pi](https://s0.wp.com/latex.php?latex=%5Cpi&bg=ffffff&fg=333333&s=0&c=20201002);
+2)
+![\\sqrt{10}](https://s0.wp.com/latex.php?latex=%5Csqrt%7B10%7D&bg=ffffff&fg=333333&s=0&c=20201002);
+3)
+![\\dfrac{355}{113}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B355%7D%7B113%7D&bg=ffffff&fg=333333&s=0&c=20201002);
+4) ![\\phi
+](https://s0.wp.com/latex.php?latex=%5Cphi+&bg=ffffff&fg=333333&s=0&c=20201002)
+Bottom row from left: 5) ![e
+](https://s0.wp.com/latex.php?latex=e+&bg=ffffff&fg=333333&s=0&c=20201002);
+6)
+![\\log(2)](https://s0.wp.com/latex.php?latex=%5Clog%282%29&bg=ffffff&fg=333333&s=0&c=20201002);
+7) ![\\pi \\times
+\\phi](https://s0.wp.com/latex.php?latex=%5Cpi+%5Ctimes+%5Cphi&bg=ffffff&fg=333333&s=0&c=20201002).
 
 ![curlicue](https://manasataramgini.files.wordpress.com/2016/10/curlicue.png?w=640)
 
 *Curlicue curves with various numbers*
 
 First, one can see several aesthetically pleasing interesting patterns:
-![\\phi](https://s0.wp.com/latex.php?latex=%5Cphi&bg=ffffff&fg=333333&s=0
-"\\phi") curve produces fir-tree like patterns. The
-![\\log(2)](https://s0.wp.com/latex.php?latex=%5Clog%282%29&bg=ffffff&fg=333333&s=0
-"\\log(2)") curve produces several ‘S’ shaped patterns. The ![\\pi
-\\times
-\\phi](https://s0.wp.com/latex.php?latex=%5Cpi+%5Ctimes+%5Cphi&bg=ffffff&fg=333333&s=0
-"\\pi \\times \\phi") produces a basic pattern of highly folded “beads”
-connected by unfolded linkers. Together they are organized into the path
-of multiple spiraling curves that resemble Johann Bernoulli’s clothoid
-which emerges in optics (where it is called a Cornu spirals). When a
-beam from a distant source of light encounters a slit of size comparable
-to its wavelength we get a typical diffraction pattern with a central
-peak of high intensity followed by increasingly damped peaks of much
-lower intensity on its flanks. Now, if the light source is close to the
-slit then the analysis of the diffraction patterns becomes very
-complicated. It is in such a case, where a nearby linear light source
-produces a cylindrical wave front, that this spiral curve can be used to
-predict the diffraction pattern.
+![\\phi](https://s0.wp.com/latex.php?latex=%5Cphi&bg=ffffff&fg=333333&s=0&c=20201002)
+curve produces fir-tree like patterns. The
+![\\log(2)](https://s0.wp.com/latex.php?latex=%5Clog%282%29&bg=ffffff&fg=333333&s=0&c=20201002)
+curve produces several ‘S’ shaped patterns. The ![\\pi \\times
+\\phi](https://s0.wp.com/latex.php?latex=%5Cpi+%5Ctimes+%5Cphi&bg=ffffff&fg=333333&s=0&c=20201002)
+produces a basic pattern of highly folded “beads” connected by unfolded
+linkers. Together they are organized into the path of multiple spiraling
+curves that resemble Johann Bernoulli’s clothoid which emerges in optics
+(where it is called a Cornu spirals). When a beam from a distant source
+of light encounters a slit of size comparable to its wavelength we get a
+typical diffraction pattern with a central peak of high intensity
+followed by increasingly damped peaks of much lower intensity on its
+flanks. Now, if the light source is close to the slit then the analysis
+of the diffraction patterns becomes very complicated. It is in such a
+case, where a nearby linear light source produces a cylindrical wave
+front, that this spiral curve can be used to predict the diffraction
+pattern.
 
 Second, nearness of numbers does not necessarily translate into the
 similar pattern. We know that
-![\\sqrt{10}](https://s0.wp.com/latex.php?latex=%5Csqrt%7B10%7D&bg=ffffff&fg=333333&s=0
-"\\sqrt{10}") was used often in early Hindu mathematics as an
-approximation for
-![\\pi](https://s0.wp.com/latex.php?latex=%5Cpi&bg=ffffff&fg=333333&s=0
-"\\pi") correct to one decimal place. However, this number produces a
-wandering curve that is not at all similar to that of
-![\\pi](https://s0.wp.com/latex.php?latex=%5Cpi&bg=ffffff&fg=333333&s=0
-"\\pi"). Then we see the famous approximation used by Ramanujan
-![\\dfrac{355}{113}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B355%7D%7B113%7D&bg=ffffff&fg=333333&s=0
-"\\dfrac{355}{113}") correct to six decimal places. It being a rational
-number does not produce a fractal pattern but a linear sequence of
-highly folded “beads” connected by a linker element. This resembles the
-unfolded nucleosome-DNA complex in archaea and eukaryotes. The real
-![\\pi](https://s0.wp.com/latex.php?latex=%5Cpi&bg=ffffff&fg=333333&s=0
-"\\pi") in contrast has a highly folded bead similar to the former but
-the linker gradually curls making curve take an overall spiral form.
+![\\sqrt{10}](https://s0.wp.com/latex.php?latex=%5Csqrt%7B10%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+was used often in early Hindu mathematics as an approximation for
+![\\pi](https://s0.wp.com/latex.php?latex=%5Cpi&bg=ffffff&fg=333333&s=0&c=20201002)
+correct to one decimal place. However, this number produces a wandering
+curve that is not at all similar to that of
+![\\pi](https://s0.wp.com/latex.php?latex=%5Cpi&bg=ffffff&fg=333333&s=0&c=20201002).
+Then we see the famous approximation used by Ramanujan
+![\\dfrac{355}{113}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B355%7D%7B113%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+correct to six decimal places. It being a rational number does not
+produce a fractal pattern but a linear sequence of highly folded “beads”
+connected by a linker element. This resembles the unfolded
+nucleosome-DNA complex in archaea and eukaryotes. The real
+![\\pi](https://s0.wp.com/latex.php?latex=%5Cpi&bg=ffffff&fg=333333&s=0&c=20201002)
+in contrast has a highly folded bead similar to the former but the
+linker gradually curls making curve take an overall spiral form.
 
 In conclusion, here we see numbers playing a different role: different
 from their role as the backdrop of the smooth continuity of curves

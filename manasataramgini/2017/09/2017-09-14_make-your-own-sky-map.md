@@ -1,7 +1,11 @@
 +++
 title = "Make your own sky map"
+date = "2017-09-14"
+upstream_url = "https://manasataramgini.wordpress.com/2017/09/14/make-your-own-sky-map/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2017/09/14/make-your-own-sky-map/).
+
 We live in the age of photo-realism, be it for maps of the world or of
 the sky – it is a realism that not long ago was beyond the reach of even
 our vision. That is why even though we have such a photo-realistic sky
@@ -147,65 +151,58 @@ commonly perhaps because its formula was intensive on calculations in
 the pre-computer era.
 
 Let ![\\lambda \\in
-\[-\\pi,\\pi\]](https://s0.wp.com/latex.php?latex=%5Clambda+%5Cin+%5B-%5Cpi%2C%5Cpi%5D&bg=ffffff&fg=333333&s=0
-"\\lambda \\in [-\\pi,\\pi]") be the longitude; ![\\phi \\in
-\[-\\tfrac{\\pi}{2},\\tfrac{\\pi}{2}\]](https://s0.wp.com/latex.php?latex=%5Cphi+%5Cin+%5B-%5Ctfrac%7B%5Cpi%7D%7B2%7D%2C%5Ctfrac%7B%5Cpi%7D%7B2%7D%5D&bg=ffffff&fg=333333&s=0
-"\\phi \\in [-\\tfrac{\\pi}{2},\\tfrac{\\pi}{2}]") be the latitude and
-![R](https://s0.wp.com/latex.php?latex=R&bg=ffffff&fg=333333&s=0 "R")
+\[-\\pi,\\pi\]](https://s0.wp.com/latex.php?latex=%5Clambda+%5Cin+%5B-%5Cpi%2C%5Cpi%5D&bg=ffffff&fg=333333&s=0&c=20201002)
+be the longitude; ![\\phi \\in
+\[-\\tfrac{\\pi}{2},\\tfrac{\\pi}{2}\]](https://s0.wp.com/latex.php?latex=%5Cphi+%5Cin+%5B-%5Ctfrac%7B%5Cpi%7D%7B2%7D%2C%5Ctfrac%7B%5Cpi%7D%7B2%7D%5D&bg=ffffff&fg=333333&s=0&c=20201002)
+be the latitude and
+![R](https://s0.wp.com/latex.php?latex=R&bg=ffffff&fg=333333&s=0&c=20201002)
 the radius of the globe which we wish to project. Then the Eisenlohr
 projection in terms of the x and y coordinates on the x-y plane is given
 by:  
-![S\_1=\\sin\\left(\\dfrac{\\lambda}{2}\\right)](https://s0.wp.com/latex.php?latex=S_1%3D%5Csin%5Cleft%28%5Cdfrac%7B%5Clambda%7D%7B2%7D%5Cright%29&bg=ffffff&fg=333333&s=0
-"S_1=\\sin\\left(\\dfrac{\\lambda}{2}\\right)")
+![S_1=\\sin\\left(\\dfrac{\\lambda}{2}\\right)](https://s0.wp.com/latex.php?latex=S_1%3D%5Csin%5Cleft%28%5Cdfrac%7B%5Clambda%7D%7B2%7D%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002)
 
-![C\_1=\\cos\\left(\\dfrac{\\lambda}{2}\\right)](https://s0.wp.com/latex.php?latex=C_1%3D%5Ccos%5Cleft%28%5Cdfrac%7B%5Clambda%7D%7B2%7D%5Cright%29&bg=ffffff&fg=333333&s=0
-"C_1=\\cos\\left(\\dfrac{\\lambda}{2}\\right)")
+![C_1=\\cos\\left(\\dfrac{\\lambda}{2}\\right)](https://s0.wp.com/latex.php?latex=C_1%3D%5Ccos%5Cleft%28%5Cdfrac%7B%5Clambda%7D%7B2%7D%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002)
 
-![T=\\dfrac{\\sin\\left(\\dfrac{\\phi}{2}\\right)}{\\cos\\left(\\dfrac{\\phi}{2}\\right)+C\_1
+![T=\\dfrac{\\sin\\left(\\dfrac{\\phi}{2}\\right)}{\\cos\\left(\\dfrac{\\phi}{2}\\right)+C_1
 \\sqrt{2
-\\cos(\\phi)}}](https://s0.wp.com/latex.php?latex=T%3D%5Cdfrac%7B%5Csin%5Cleft%28%5Cdfrac%7B%5Cphi%7D%7B2%7D%5Cright%29%7D%7B%5Ccos%5Cleft%28%5Cdfrac%7B%5Cphi%7D%7B2%7D%5Cright%29%2BC_1+%5Csqrt%7B2+%5Ccos%28%5Cphi%29%7D%7D&bg=ffffff&fg=333333&s=0
-"T=\\dfrac{\\sin\\left(\\dfrac{\\phi}{2}\\right)}{\\cos\\left(\\dfrac{\\phi}{2}\\right)+C_1 \\sqrt{2 \\cos(\\phi)}}")
+\\cos(\\phi)}}](https://s0.wp.com/latex.php?latex=T%3D%5Cdfrac%7B%5Csin%5Cleft%28%5Cdfrac%7B%5Cphi%7D%7B2%7D%5Cright%29%7D%7B%5Ccos%5Cleft%28%5Cdfrac%7B%5Cphi%7D%7B2%7D%5Cright%29%2BC_1+%5Csqrt%7B2+%5Ccos%28%5Cphi%29%7D%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 
-![V=\\sqrt{\\dfrac{cos\\left(\\dfrac{\\phi}{2}\\right)+(C\_1+S\_1)\\sqrt{\\dfrac{\\cos(\\phi)}{2}}}{\\cos\\left(\\dfrac{\\phi}{2}\\right)+(C\_1-S\_1)\\sqrt{\\dfrac{\\cos(\\phi)}{2}}}}](https://s0.wp.com/latex.php?latex=V%3D%5Csqrt%7B%5Cdfrac%7Bcos%5Cleft%28%5Cdfrac%7B%5Cphi%7D%7B2%7D%5Cright%29%2B%28C_1%2BS_1%29%5Csqrt%7B%5Cdfrac%7B%5Ccos%28%5Cphi%29%7D%7B2%7D%7D%7D%7B%5Ccos%5Cleft%28%5Cdfrac%7B%5Cphi%7D%7B2%7D%5Cright%29%2B%28C_1-S_1%29%5Csqrt%7B%5Cdfrac%7B%5Ccos%28%5Cphi%29%7D%7B2%7D%7D%7D%7D&bg=ffffff&fg=333333&s=0
-"V=\\sqrt{\\dfrac{cos\\left(\\dfrac{\\phi}{2}\\right)+(C_1+S_1)\\sqrt{\\dfrac{\\cos(\\phi)}{2}}}{\\cos\\left(\\dfrac{\\phi}{2}\\right)+(C_1-S_1)\\sqrt{\\dfrac{\\cos(\\phi)}{2}}}}")
+![V=\\sqrt{\\dfrac{cos\\left(\\dfrac{\\phi}{2}\\right)+(C_1+S_1)\\sqrt{\\dfrac{\\cos(\\phi)}{2}}}{\\cos\\left(\\dfrac{\\phi}{2}\\right)+(C_1-S_1)\\sqrt{\\dfrac{\\cos(\\phi)}{2}}}}](https://s0.wp.com/latex.php?latex=V%3D%5Csqrt%7B%5Cdfrac%7Bcos%5Cleft%28%5Cdfrac%7B%5Cphi%7D%7B2%7D%5Cright%29%2B%28C_1%2BS_1%29%5Csqrt%7B%5Cdfrac%7B%5Ccos%28%5Cphi%29%7D%7B2%7D%7D%7D%7B%5Ccos%5Cleft%28%5Cdfrac%7B%5Cphi%7D%7B2%7D%5Cright%29%2B%28C_1-S_1%29%5Csqrt%7B%5Cdfrac%7B%5Ccos%28%5Cphi%29%7D%7B2%7D%7D%7D%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 
-![C=\\sqrt{\\dfrac{2}{1+T^2}}](https://s0.wp.com/latex.php?latex=C%3D%5Csqrt%7B%5Cdfrac%7B2%7D%7B1%2BT%5E2%7D%7D&bg=ffffff&fg=333333&s=0
-"C=\\sqrt{\\dfrac{2}{1+T^2}}")
+![C=\\sqrt{\\dfrac{2}{1+T^2}}](https://s0.wp.com/latex.php?latex=C%3D%5Csqrt%7B%5Cdfrac%7B2%7D%7B1%2BT%5E2%7D%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 
 ![x=(3+\\sqrt{8})\\cdot R \\cdot
-\\left(-2\\log(V)+C\\left(V-\\dfrac{1}{V}\\right)\\right)](https://s0.wp.com/latex.php?latex=x%3D%283%2B%5Csqrt%7B8%7D%29%5Ccdot+R+%5Ccdot+%5Cleft%28-2%5Clog%28V%29%2BC%5Cleft%28V-%5Cdfrac%7B1%7D%7BV%7D%5Cright%29%5Cright%29&bg=ffffff&fg=333333&s=0
-"x=(3+\\sqrt{8})\\cdot R \\cdot \\left(-2\\log(V)+C\\left(V-\\dfrac{1}{V}\\right)\\right)")
+\\left(-2\\log(V)+C\\left(V-\\dfrac{1}{V}\\right)\\right)](https://s0.wp.com/latex.php?latex=x%3D%283%2B%5Csqrt%7B8%7D%29%5Ccdot+R+%5Ccdot+%5Cleft%28-2%5Clog%28V%29%2BC%5Cleft%28V-%5Cdfrac%7B1%7D%7BV%7D%5Cright%29%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002)
 
 ![y=(3+\\sqrt{8})\\cdot R \\cdot\\left(-2 \\arctan(T)+C T
 \\left(V+\\dfrac{1}{V}
-\\right)\\right)](https://s0.wp.com/latex.php?latex=y%3D%283%2B%5Csqrt%7B8%7D%29%5Ccdot+R+%5Ccdot%5Cleft%28-2+%5Carctan%28T%29%2BC+T+%5Cleft%28V%2B%5Cdfrac%7B1%7D%7BV%7D+%5Cright%29%5Cright%29&bg=ffffff&fg=333333&s=0
-"y=(3+\\sqrt{8})\\cdot R \\cdot\\left(-2 \\arctan(T)+C T \\left(V+\\dfrac{1}{V} \\right)\\right)")
+\\right)\\right)](https://s0.wp.com/latex.php?latex=y%3D%283%2B%5Csqrt%7B8%7D%29%5Ccdot+R+%5Ccdot%5Cleft%28-2+%5Carctan%28T%29%2BC+T+%5Cleft%28V%2B%5Cdfrac%7B1%7D%7BV%7D+%5Cright%29%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002)
 
 It has the following notable features: i) it has no singularities so
 every point on the globe can be simultaneously represented; ii) it is
 completely conformal, i.e., it preserves angles across the globe
 completely; iii) it has the narrowest scale range for a conformal
 projection of ![1 : 3+2\\sqrt{2}=1 :
-5.83](https://s0.wp.com/latex.php?latex=1+%3A+3%2B2%5Csqrt%7B2%7D%3D1+%3A+5.83&bg=ffffff&fg=333333&s=0
-"1 : 3+2\\sqrt{2}=1 : 5.83"); iv) it has a constant scale along the
-boundary colures. Thus, even though we get some size distortion near the
-boundaries its preservation of conformality is a useful feature for
-astronomical depiction especially when we want to highlight the ecliptic
-which lies close to the equatorial aspect. Given the above formula
-provided by the US Geographical Survey, we wrote our own function for
-the Eisenlohr projection but we also implemented projection using the
-projection function from the R Mapproj library (which has several
-different projections) in the event we wished to try out alternative
-projections in the future.
+5.83](https://s0.wp.com/latex.php?latex=1+%3A+3%2B2%5Csqrt%7B2%7D%3D1+%3A+5.83&bg=ffffff&fg=333333&s=0&c=20201002);
+iv) it has a constant scale along the boundary colures. Thus, even
+though we get some size distortion near the boundaries its preservation
+of conformality is a useful feature for astronomical depiction
+especially when we want to highlight the ecliptic which lies close to
+the equatorial aspect. Given the above formula provided by the US
+Geographical Survey, we wrote our own function for the Eisenlohr
+projection but we also implemented projection using the projection
+function from the R Mapproj library (which has several different
+projections) in the event we wished to try out alternative projections
+in the future.
 
 4\) For the plotted data we chose the following (the source is: Vizier
 unless specified otherwise): (i) The venerable Yale Bright Star Catalog
 with 9096 stars which is for practical purposes complete in its coverage
 till visual magnitude
-![m\_V=7](https://s0.wp.com/latex.php?latex=m_V%3D7&bg=ffffff&fg=333333&s=0
-"m_V=7"). It also provides variability and double star data; (ii) For
-the background shading of the Milky Way we chose a catalog of 18693 of
-the brightest stars from the Milky Way; (iii) For the Milky Way and
+![m_V=7](https://s0.wp.com/latex.php?latex=m_V%3D7&bg=ffffff&fg=333333&s=0&c=20201002).
+It also provides variability and double star data; (ii) For the
+background shading of the Milky Way we chose a catalog of 18693 of the
+brightest stars from the Milky Way; (iii) For the Milky Way and
 Magellanic cloud boundaries a set of 1073 positions giving the
 boundaries and constellation lines, i.e. stars to be connected, made
 available in electronic format by professor Dan Burton based on his
@@ -266,8 +263,7 @@ cha hi trī ku cū che ko dvi yuk
 ṅau kha chā ṅī ku ghu tri yuk  
 kha jā ku cū ghe gho
 
-`  102 112 128 140 153 156 183 196 197 217 232 240 252 266 277 291 305 312 327 345 351 354 12  28  51
- 66  74  94 `  
+` 102 112 128 140 153 156 183 196 197 217 232 240 252 266 277 291 305 312 327 345 351 354 12 28 51 66 74 94`  
 This contains the above code in the kaṭapayādi system with the vowels
 (a, ā, i, ī, u, ū, e, ai, o, au) being 1:9 and 0. To determine the
 rising point of the ecliptic from the nakṣatra asterism at the meridian
@@ -279,34 +275,34 @@ really close to Mṛgaśīrṣa. This illustrates that the Hindus were clearly
 aware of the positions of the yogatārā-s in ecliptic coordinates and
 that they were unevenly positioned. However, the nakṣatra divisions
 themselves are a regular ![13
-\\tfrac{1}{3}^o](https://s0.wp.com/latex.php?latex=13+%5Ctfrac%7B1%7D%7B3%7D%5Eo&bg=ffffff&fg=333333&s=0
-"13 \\tfrac{1}{3}^o") (800 minutes of an arc) since the removal of
-abhijit; so the question remains where to start them. One could use the
-above incantation to calculate one such starting point. That was for the
-1800s. Somewhat later, following up on the monumental work of Shankar
-Dixit, his acquaintance, the great patriot, BG Tilak, proposed that
-there should be a pan-Indian astro-calendrical reform the use of modern
-astronomical calculations to determine the pañcāṅga and fixing of
-nakṣatra divisions in a standard way across Hindudom. This project was
-taken up after the English tyrants left by the calender committee
-constituted under the great physicist Meghnad Saha and the jyautiṣa
-Lahiri. They produced a nakṣatra division recommendation, which while
-not exactly equivalent to the ancient division, is an entirely usable as
-a modern substitute. They began with with the premise of having the star
-Spica (Citra; ![\\alpha \\;
-Virginis](https://s0.wp.com/latex.php?latex=%5Calpha+%5C%3B+Virginis&bg=ffffff&fg=333333&s=0
-"\\alpha \\; Virginis")) in middle of the citra division of the nakṣtra
-in ecliptic coordinates for 1956 CE. This resulted in the equinoctial
-colure passing through uttara-proShTapada. Examining this proposal we
-find that it has issues with respect to the yogatārā-s at Ārdra, which
-we have argued was originally Sirius, Uttarāṣāḍa, and Śroṇa but it is
-clear that some such issues will be there irrespective of the juggling
-of boundaries one might do. Hence, we took these divisions and converted
-them to the J2000 coordinates currently used in astronomy. This gives us
-the start of the Revati division at ![9.112253
-^o](https://s0.wp.com/latex.php?latex=9.112253+%5Eo&bg=ffffff&fg=333333&s=0
-"9.112253 ^o") in decimal ecliptic coordinates. Starting from there we
-took 27 divisions of 800 minutes of an arc each.
+\\tfrac{1}{3}^o](https://s0.wp.com/latex.php?latex=13+%5Ctfrac%7B1%7D%7B3%7D%5Eo&bg=ffffff&fg=333333&s=0&c=20201002)
+(800 minutes of an arc) since the removal of abhijit; so the question
+remains where to start them. One could use the above incantation to
+calculate one such starting point. That was for the 1800s. Somewhat
+later, following up on the monumental work of Shankar Dixit, his
+acquaintance, the great patriot, BG Tilak, proposed that there should be
+a pan-Indian astro-calendrical reform the use of modern astronomical
+calculations to determine the pañcāṅga and fixing of nakṣatra divisions
+in a standard way across Hindudom. This project was taken up after the
+English tyrants left by the calender committee constituted under the
+great physicist Meghnad Saha and the jyautiṣa Lahiri. They produced a
+nakṣatra division recommendation, which while not exactly equivalent to
+the ancient division, is an entirely usable as a modern substitute. They
+began with with the premise of having the star Spica (Citra; ![\\alpha
+\\;
+Virginis](https://s0.wp.com/latex.php?latex=%5Calpha+%5C%3B+Virginis&bg=ffffff&fg=333333&s=0&c=20201002))
+in middle of the citra division of the nakṣtra in ecliptic coordinates
+for 1956 CE. This resulted in the equinoctial colure passing through
+uttara-proShTapada. Examining this proposal we find that it has issues
+with respect to the yogatārā-s at Ārdra, which we have argued was
+originally Sirius, Uttarāṣāḍa, and Śroṇa but it is clear that some such
+issues will be there irrespective of the juggling of boundaries one
+might do. Hence, we took these divisions and converted them to the J2000
+coordinates currently used in astronomy. This gives us the start of the
+Revati division at ![9.112253
+^o](https://s0.wp.com/latex.php?latex=9.112253+%5Eo&bg=ffffff&fg=333333&s=0&c=20201002)
+in decimal ecliptic coordinates. Starting from there we took 27
+divisions of 800 minutes of an arc each.
 
 With the nakṣatra divisions in place we created 2 types of maps – one
 with the nakṣatra points as defining ecliptic longitudes and another
@@ -321,10 +317,10 @@ is to this exercise but do it yourself and if you are a mere mortal like
 us you might find the process interesting.
 
 The maps in PDF format(view with high magnification 150% or more):  
-1\) [Ecliptic
+1) [Ecliptic
 longitudes](https://app.box.com/s/b75vo9jduf2b9jb4l013z48ov7dsfcxc)  
-2\) [Equatorial
+2) [Equatorial
 longitudes](https://app.box.com/s/r27myqikr3639g2eahk7xwkvx9gr6lsh)  
-3\) [With Full moon(filled) of Sep 6 2017 and New Moon (empty) of
-Sept 21 2017 plotted on the
+3) [With Full moon(filled) of Sep 6 2017 and New Moon (empty) of Sept 21
+2017 plotted on the
 map](https://app.box.com/s/0qpv8fzctkul7vu3grwtm7mzsng158ji).

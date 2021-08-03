@@ -1,7 +1,11 @@
 +++
 title = "The Euro-American academic system: few more thoughts"
+date = "2013-04-15"
+upstream_url = "https://manasataramgini.wordpress.com/2013/04/15/the-euro-american-academic-system-few-more-thoughts/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/04/15/the-euro-american-academic-system-few-more-thoughts/).
+
 [The neglect of human
 sociobiology](https://manasataramgini.wordpress.com/2008/06/29/the-neglect-of-human-sociobiology/)  
 [Our intellectual tradition: non-existent, decadent, or congenitally
@@ -135,3 +139,4 @@ institutionalized to obtain high quality brain for use by the
 sUtradhArin-s.
 
 Continued ..
+

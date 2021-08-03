@@ -1,8 +1,11 @@
 +++
-title = "The devī of the 15th śloka of thexa0Saundaryalaharī"
-date = "2017-09-03"
+title = "The devī of the 15th śloka of the Saundaryalaharī"
+date = "2017-03-09"
+upstream_url = "https://padmavajra.net/2017/09/03/the-devi-of-the-15th-sloka-of-the-saundaryalahari/"
 
 +++
+Source: [here](https://padmavajra.net/2017/09/03/the-devi-of-the-15th-sloka-of-the-saundaryalahari/).
+
 Inspired from
 herehttps://manasataramgini.wordpress.com/2008/07/26/trikas-para-devi-in-saundaryalahari/  
 [![](https://padmavajrablog.files.wordpress.com/2017/09/vagdevi_1.jpg?w=739)](https://padmavajrablog.files.wordpress.com/2017/09/vagdevi_1.jpg)

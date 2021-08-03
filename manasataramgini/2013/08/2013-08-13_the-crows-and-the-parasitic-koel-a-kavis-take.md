@@ -1,7 +1,11 @@
 +++
 title = "The crows and the parasitic koel: a kavi’s take"
+date = "2013-08-13"
+upstream_url = "https://manasataramgini.wordpress.com/2013/08/13/the-crows-and-the-parasitic-koel-a-kavis-take/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/08/13/the-crows-and-the-parasitic-koel-a-kavis-take/).
+
 In saMskR^ita literature we have come across multiple references to the
 brood parasitic behavior of the koel (Eudynamys). One good verse in this
 regard is that by the kavi vallaNa. We do not know much of him other
@@ -20,9 +24,9 @@ bauddha Acharya vidyAkAra, which was taken to Tibet even as nAlanda was
 going up in flames during the attack of Ikhtyaruddin Bhaktiyaruddin
 Khalji:  
 yan nIDa-prabhavo yad a\~njana-ruchir yat khecharo yad dvijas  
-tena tvaM svajanaH kileti karaTair yat tair upabrUyase |  
+tena tvaM svajanaH kileti karaTair yat tair upabrUyase \|  
 tatra-ati-indriya-modima-aMsala-rasodgAras tavaiSha dhvanir  
-doSho .abhUt kalakaNTha-nAyaka nijas teShAM svabhAvo hi sa ||
+doSho .abhUt kalakaNTha-nAyaka nijas teShAM svabhAvo hi sa \|\|
 
 As you emerged from their nest (niDa), as you are of black color
 (a\~njana-ruchi), as you fly in the sky (khechara), as you are
@@ -37,7 +41,8 @@ Only the black-colored male koel makes the melodious song alluded to
 here. The spotted females make a shrill, repeated call. This
 naturalistic characterization of the koel may be compared to similar
 sketches by other Hindu poets:  
-1\) [The verse of
+1) [The verse of
 bhavabhUti](https://manasataramgini.wordpress.com/2011/11/02/bhavabhutis-avifauna-and-flora/)  
-2\) The kingfisher by
+2) The kingfisher by
 [vAkpatirAja](https://manasataramgini.wordpress.com/2010/07/30/the-kingfisher/)
+

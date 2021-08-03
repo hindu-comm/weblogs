@@ -1,8 +1,11 @@
 +++
-title = "Pandemic days: Vaccines andxa0war"
+title = "Pandemic days: Vaccines and war"
 date = "2021-05-23"
+upstream_url = "https://manasataramgini.wordpress.com/2021/05/23/pandemic-days-vaccines-and-war/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2021/05/23/pandemic-days-vaccines-and-war/).
+
 In American history-writing we come across various attempts to the
 justify the use of nuclear weapons on Japan in the closing phase of WW2.
 We often hear the claim that by using the nukes they avoided a large

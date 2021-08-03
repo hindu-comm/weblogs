@@ -1,8 +1,11 @@
 +++
-title = "homa vidhAnaM for nityaxa0homa"
-date = "2018-08-12"
+title = "homa vidhAnaM for nitya homa"
+date = "2018-12-08"
+upstream_url = "https://padmavajra.net/2018/08/12/homa-vidhanam-for-nitya-homa/"
 
 +++
+Source: [here](https://padmavajra.net/2018/08/12/homa-vidhanam-for-nitya-homa/).
+
 I am uploading a homa vidhAnam I use for daily homa: [nitya homa
 vidhAnam](https://drive.google.com/file/d/1AzwMxohcTlYVsYGzed0gPddvXwtIHEl6/view?usp=sharing)
 

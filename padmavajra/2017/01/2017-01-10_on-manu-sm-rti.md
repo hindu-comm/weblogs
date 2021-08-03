@@ -1,8 +1,11 @@
 +++
 title = "On manu sm.rti"
-date = "2017-01-10"
+date = "2017-10-01"
+upstream_url = "https://padmavajra.net/2017/01/10/on-manu-sm-rti/"
 
 +++
+Source: [here](https://padmavajra.net/2017/01/10/on-manu-sm-rti/).
+
 Me: So,does iPengu
 [here](https://www.reddit.com/r/hinduism/comments/5kwpna/perhaps_hinduism_should_be_called_satdharma/)
 have a point when he says

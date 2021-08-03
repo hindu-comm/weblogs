@@ -1,7 +1,11 @@
 +++
 title = "The neglect of human sociobiology"
+date = "2008-06-29"
+upstream_url = "https://manasataramgini.wordpress.com/2008/06/29/the-neglect-of-human-sociobiology/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/06/29/the-neglect-of-human-sociobiology/).
+
 I was at a workshop on new channels of scientific communication. One big
 theme was the need for the greater openness in scientific communication.
 It was felt that biologists were less prone to openness than physicists,
@@ -48,3 +52,4 @@ the troglodytes or the orangs, come to the fore. Thus, science (at least
 big money biology) becomes a place rather like the steppes during the
 branching out of the Chingizids and Timurids. I hope to expand on this
 theme more when I get a chance…
+

@@ -1,8 +1,11 @@
 +++
-title = "THUNDERSTRUCK – A Brief Comparative of the Weapons of the Striking Son of the Skyxa0Father"
-date = "July 19, 2019"
+title = "THUNDERSTRUCK – A Brief Comparative of the Weapons of the Striking Son of the Sky Father"
+date = "2019-07-19"
+upstream_url = "https://aryaakasha.com/2019/07/19/thunderstruck-a-brief-comparative-of-the-weapons-of-the-striking-son-of-the-sky-father/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/07/19/thunderstruck-a-brief-comparative-of-the-weapons-of-the-striking-son-of-the-sky-father/).
+
 ![thunderstruck Arya Akasha
 Marked](https://aryaakasha.files.wordpress.com/2019/07/thunderstruck-arya-akasha-marked.png?w=676)  
 “Appropriate for Thursday, – a brief look at the Weapon of the

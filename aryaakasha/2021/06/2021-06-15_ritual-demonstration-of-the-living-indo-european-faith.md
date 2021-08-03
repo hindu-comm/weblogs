@@ -1,8 +1,11 @@
 +++
-title = "Ritual Demonstration Of The Living Indo-Europeanxa0Faith"
-date = "June 15, 2021"
+title = "Ritual Demonstration Of The Living Indo-European Faith"
+date = "2021-06-15"
+upstream_url = "https://aryaakasha.com/2021/06/15/ritual-demonstration-of-the-living-indo-european-faith/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/06/15/ritual-demonstration-of-the-living-indo-european-faith/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/06/img_1277.jpg?w=768)
 
 Rendered offerings of Dakshina to the Priests this afternoon, for six

@@ -1,7 +1,13 @@
 +++
 title = "mayurashikhA"
+date = "2005-03-03"
+upstream_url = "https://manasataramgini.wordpress.com/2005/03/03/mayurashikha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/03/03/mayurashikha/).
+
+
+
 om senApataye namaH [![Posted by
 Hello](https://i0.wp.com/photos1.blogger.com/pbh.gif)](http://www.hello.com/)
 
@@ -36,4 +42,5 @@ ramanodbhava 7) varada 8) lIlotpatamAlikA.
 The deity shall be mediated upon in the 6-fold yantra with the door-ways
 guarded by the goddess chatushpatha niketA, lohitAkShi, lohitAyani and
 vetAlojanani.  
-oM chatushpatha-niketAyai namaH //
+oM chatushpatha-niketAyai namaH //  
+

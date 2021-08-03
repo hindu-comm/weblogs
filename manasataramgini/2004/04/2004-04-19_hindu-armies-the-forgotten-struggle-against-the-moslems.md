@@ -1,7 +1,11 @@
 +++
 title = "Hindu Armies: the forgotten struggle against the Moslems"
+date = "2004-04-19"
+upstream_url = "https://manasataramgini.wordpress.com/2004/04/19/hindu-armies-the-forgotten-struggle-against-the-moslems/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/04/19/hindu-armies-the-forgotten-struggle-against-the-moslems/).
+
 The Indian text books written by secular historians, have often
 highlighted the fact that the Hindu armies crumbled like fresh cookies
 against the armies of the Moslems, and the Moslems more or less easily
@@ -53,4 +57,5 @@ Hammira deva Chauhan against it was spectacular. Prataparudra in
 Warangal also put up a brave struggle against the Mohammedans.
 
 The Mohammedan threat is still very much alive, we can only hope that
-the Hindu spirit of resistance is still alive in the people of India.
+the Hindu spirit of resistance is still alive in the people of India.  
+

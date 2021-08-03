@@ -1,7 +1,11 @@
 +++
 title = "On the vedic sacrificial ritual and its Babylonian parallels"
+date = "2007-01-27"
+upstream_url = "https://manasataramgini.wordpress.com/2007/01/27/on-the-vedic-sacrificial-ritual-and-its-babylonian-parallels/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/01/27/on-the-vedic-sacrificial-ritual-and-its-babylonian-parallels/).
+
 The mlechCha orientalists Dumont and Albright pointed to certain
 similarities between the Vedic sacrificial ritual and that found in
 Babylon. We revisit this to investigate if flow of memes between
@@ -126,3 +130,4 @@ motifs](https://manasataramgini.wordpress.com/2004/11/22/indus-iconography-and-i
 between coeval Indian and Mesopotamian sites, as well as evidence for
 trade between India and Mesopotamia (The karpAsa word). While those are
 Harappan links the above points to comparable Aryan links.
+

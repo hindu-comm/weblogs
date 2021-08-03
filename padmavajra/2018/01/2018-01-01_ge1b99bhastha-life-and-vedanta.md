@@ -1,8 +1,11 @@
 +++
-title = "Gṛhastha life and vedānta (focusing on Advaitaxa0here)"
+title = "Gṛhastha life and vedānta (focusing on Advaita here)"
 date = "2018-01-01"
+upstream_url = "https://padmavajra.net/2018/01/01/g%e1%b9%9bhastha-life-and-vedanta/"
 
 +++
+Source: [here](https://padmavajra.net/2018/01/01/g%e1%b9%9bhastha-life-and-vedanta/).
+
 
 
 

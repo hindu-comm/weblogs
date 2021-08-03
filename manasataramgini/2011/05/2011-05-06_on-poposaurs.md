@@ -1,7 +1,11 @@
 +++
 title = "On poposaurs"
+date = "2011-05-06"
+upstream_url = "https://manasataramgini.wordpress.com/2011/05/06/on-poposaurs/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/05/06/on-poposaurs/).
+
 We had begun a narration of one of the most notable events in the
 evolution of vertebrates, i.e., the radiation of the archosauriformes
 after the Permian-Triassic transition. We held back from going ahead
@@ -196,3 +200,4 @@ herbivory, a feature potentially shared with Lotosaurus.
 Thus it is rather remarkable that the single clade of stem crocodiles,
 poposauroids diversified into so many different morphotypes and
 corresponding ecological niches.
+

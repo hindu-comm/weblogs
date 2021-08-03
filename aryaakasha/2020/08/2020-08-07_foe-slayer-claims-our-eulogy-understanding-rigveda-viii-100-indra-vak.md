@@ -1,8 +1,11 @@
 +++
-title = "Foe-Slayer Claims Our Eulogy – Understanding RigVeda VIII 100: Indra,xa0Vak"
-date = "August 7, 2020"
+title = "Foe-Slayer Claims Our Eulogy – Understanding RigVeda VIII 100: Indra, Vak"
+date = "2020-08-07"
+upstream_url = "https://aryaakasha.com/2020/08/07/foe-slayer-claims-our-eulogy-understanding-rigveda-viii-100-indra-vak/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/08/07/foe-slayer-claims-our-eulogy-understanding-rigveda-viii-100-indra-vak/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/08/goddess-durga.jpg?w=361)
 
 Every so often, we come across a Hymnal that really *really* deserves a

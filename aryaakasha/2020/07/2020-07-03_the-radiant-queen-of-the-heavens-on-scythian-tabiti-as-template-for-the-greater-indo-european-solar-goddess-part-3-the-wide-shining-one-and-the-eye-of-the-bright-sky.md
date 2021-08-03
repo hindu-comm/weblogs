@@ -1,8 +1,11 @@
 +++
-title = "The Radiant Queen of the Heavens – On Scythian Tabiti As Template For The Greater Indo-European Solar Goddess  [Part 3 – The Wide Shining One And The Eye Of The Brightxa0Sky]"
-date = "July 3, 2020"
+title = "The Radiant Queen of the Heavens – On Scythian Tabiti As Template For The Greater Indo-European Solar Goddess  [Part 3 – The Wide Shining One And The Eye Of The Bright Sky]"
+date = "2020-07-03"
+upstream_url = "https://aryaakasha.com/2020/07/03/the-radiant-queen-of-the-heavens-on-scythian-tabiti-as-template-for-the-greater-indo-european-solar-goddess-part-3-the-wide-shining-one-and-the-eye-of-the-bright-sky/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/07/03/the-radiant-queen-of-the-heavens-on-scythian-tabiti-as-template-for-the-greater-indo-european-solar-goddess-part-3-the-wide-shining-one-and-the-eye-of-the-bright-sky/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/07/dq7n-advoaeynaa-1.jpg?w=614)
 
 The point of all of this, has been to attempt to sketch out in broad

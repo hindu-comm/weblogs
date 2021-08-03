@@ -1,7 +1,11 @@
 +++
 title = "Torvoneustes and a note on the diversification of dentition in derived thalattosuchians"
+date = "2010-09-20"
+upstream_url = "https://manasataramgini.wordpress.com/2010/09/20/torvoneustes-and-a-note-on-the-diversification-of-dentition-in-derived-thalattosuchians/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/09/20/torvoneustes-and-a-note-on-the-diversification-of-dentition-in-derived-thalattosuchians/).
+
 As background for this note one may read our [comprehensive
 review](https://manasataramgini.wordpress.com/2009/12/19/crocodiles-in-the-shadow-of-the-dinosaurs/)
 of the basics of crocodile evolution.
@@ -27,7 +31,7 @@ further discuss here.
 Before we get to them we shall revisit the discussion by Prasad and de
 Broin on the teeth of crocodiles. They define the following sometimes
 subtly different types objectively:  
-1\) Ziphodont: These are serrated teeth with clearly distinct denticles
+1) Ziphodont: These are serrated teeth with clearly distinct denticles
 on the carinae or keels of the tooth. These denticles start separate
 elements right from within the edge of the body of the tooth crown and
 have a distinct enamel edge for each. The ziphodont teeth are further
@@ -119,7 +123,7 @@ two Geosaurus and Dakosaurus, as a single event, followed by
 specialization into micro- and macro- ziphodont forms concomitant with
 the ecological diversification of the latter two taxa. Andrade et al
 point out that Dakosaurus and Geosaurus were among the largest of the
-metrirhynchoids (\>4m in length) and they co-occurred in the Jurassic
+metrirhynchoids (>4m in length) and they co-occurred in the Jurassic
 ecosystems of the late Kimmeridgian and Tithonian ages. Given their
 broad, shortened, deep snouts it is clear that both specialized in
 hypercarnivory. However, the differentiation of their ziphodonty and
@@ -161,10 +165,10 @@ aquatic habit in the thalattosuchians the initial adaptation was for
 piscivory, which resulted in suppression of the ziphodont mode of tooth
 development in favor of the conical teeth. The pathway for denticle
 formation is likely to be related to the ectodysplasin, Shh, Wnt10b,
-Bmp4, Fgf4 network. Hence, we speculate that ziphodont\<-\>non-ziphodont
+Bmp4, Fgf4 network. Hence, we speculate that ziphodont\<->non-ziphodont
 transformations could occur simply as a consequence of the different
 levels of expression of ectodysplasin and its receptor Edar along with
-concomitant shifts in Shh expression, much like in the scale\<-\>feather
+concomitant shifts in Shh expression, much like in the scale\<->feather
 transformations in the dinosaur-line. So a return of the expression
 levels to the old state could result in a return of ziphodonty when ever
 it is under positive selection. Under such a model the re-emergence of
@@ -182,3 +186,4 @@ merely one of levels of expression arising from changes to their
 regulatory elements. If this were indeed the case then we have all the
 more reason that pseudoziphodonty is a distinct adaption for a
 particular feeding/predatory mechanism.
+

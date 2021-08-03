@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "November 24, 2020"
+date = "2020-11-24"
+upstream_url = "https://vriitrahan.wordpress.com/2020/11/24/ancient-greek/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2020/11/24/ancient-greek/).
+
 I think I will use this blog as a medium to work on my Greek (which I
 have abandoned for some time), by consciously translating classical
 authors and posting oft about comparative linguistics (of Sanskrit &

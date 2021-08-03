@@ -1,8 +1,11 @@
 +++
-title = "Towards An Indo-European Theory Of Demonology – Chaos, Devourers, Outsiders, Messengers andxa0Monsters"
-date = "July 11, 2021"
+title = "Towards An Indo-European Theory Of Demonology – Chaos, Devourers, Outsiders, Messengers and Monsters"
+date = "2021-07-11"
+upstream_url = "https://aryaakasha.com/2021/07/11/towards-an-indo-european-theory-of-demonology-chaos-devourers-outsiders-messengers-and-monsters/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/07/11/towards-an-indo-european-theory-of-demonology-chaos-devourers-outsiders-messengers-and-monsters/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/07/216103241_10165366157165574_1848457137940013823_n.jpg?w=683)
 
   

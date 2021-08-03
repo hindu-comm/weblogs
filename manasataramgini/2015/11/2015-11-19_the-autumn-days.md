@@ -1,13 +1,17 @@
 +++
 title = "The autumn days"
+date = "2015-11-19"
+upstream_url = "https://manasataramgini.wordpress.com/2015/11/19/the-autumn-days/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/11/19/the-autumn-days/).
+
 Vidrum had just finished up with his last patient for the day. Before
 heading out to his office one of his assistants offered him a rich
-halvā. He curtailed his temptation reminding himself how bad it could
-be for one’s health. Hence, with great determination he helped himself
-to a small piece and warned his assistant of the dangers of such foods.
-After completing some analysis of the cases in his office he had decided
+halvā. He curtailed his temptation reminding himself how bad it could be
+for one’s health. Hence, withgreat determination he helped himself to a
+small piece and warned his assistant of the dangers of such foods. After
+completing some analysis of the cases in his office he had decided
 attend a T20 match that was supposed to take place in his city that
 evening. As he was walking towards his office the somber light of the
 low autumnal sun reflected off his window casting a strange glow along
@@ -149,15 +153,15 @@ reduction of one of the keto groups taking advantage of the bulky side
 chain. Subsequently, he seems to have become a man of some note there
 and invited us to advice on some matters. Given that it might be a once
 in life chance to visit the heart of Sthūladvīpa teeming with
-Kṛṣṇa-jana-s of all types, Mitrayu and I decided to go; I also
-realized that it might be a good opportunity to obtain samples for
-studies on various natural products and obtained the necessary permits
-for the same.”  
+Kṛṣṇa-jana-s of all types, Mitrayu and I decided to go; I also realized
+that it might be a good opportunity to obtain samples for studies on
+various natural products and obtained the necessary permits for the
+same.”  
 Jhilleeka: “It seems you guys had some great adventures there. I need to
 hear all of it.”  
 Mitrayu: “Well, why don’t you and everyone else have lunch first then we
 could yarn to our heart’s content about the adventures. But frankly
-while one feels like a hero when one is back from Citragupta’s clutches,
+while one feels like a hero when one isback from Citragupta’s clutches,
 I am sure it will give us dreams that will wake us up for a while to
 come. It also gave us a first hand glimpse of the life our early
 ancestors in Sthūladvīpa and the effects it has had on the rest of the
@@ -313,7 +317,7 @@ the boat but was too shocked for any words. But she reminded me that she
 was one of the caturbhaginī – what surer evidence could I have that dear
 Varoli of bright eyes was indeed a natural siddhā of those 5 mantra-s
 than this immunity to crocs? The mantra ‘śiṃśumārā ajagarāḥ purīkayā
-jaṣā matsyā rajasā yebhyo asyasi deva tuṃburo rudra jalāṣa-bheṣaja |‘
+jaṣā matsyā rajasā yebhyo asyasi deva tuṃburo rudra jalāṣa-bheṣaja \|‘
 came to my mind, and I beheld the fourth suchian face…”
 
 After Varoli and Mitrayu had finished their narrative the rest remained
@@ -351,9 +355,9 @@ one laughs uncontrollably for a while and then has deep insight into
 himself. He then quoted Udīcya Śyāmilaka to bring home the point as to
 why that laughter is good:  
 na prāpnuvanti yatayo ruditena mokṣaṃ  
-svargāyatiṃ na parihāsakathā ruṇaddhi |  
+svargāyatiṃ na parihāsakathā ruṇaddhi \|  
 tasmāt pratīta-manasā hasitavyam eva  
-vṛttiṃ budhena khalu kaurukucīṃ vihāya ||
+vṛttiṃ budhena khalu kaurukucīṃ vihāya \|\|
 
 yati-s do not attain mokṣa by crying,  
 comedies do not block the ascent to svarga,  
@@ -361,7 +365,7 @@ therefore with cheerful mind ought to laugh
 the wise one, verily having given up bad ways.
 
 Perhaps such a plant played a role in the laughing rituals of the
-pāśupata-s\!”  
+pāśupata-s!”  
 Indrasena: “May be. One gets a sense of that persisting in the
 expressions of the Kashmirian śaiva yogin Utpaladeva.”
 
@@ -387,15 +391,15 @@ next time we meet.”
 ◊◊◊◊◊◊◊
 
 It was a dim autumn evening. The bustling city streets were a little
-quiet that night as the cold had suddenly set in. Vidrum and Kalakausha
+quietthat night as the cold had suddenly set in. Vidrum and Kalakausha
 were returning after a delightful dinner at a restaurant. Kalakausha
 barely concealing her excitement said: “Now for something really
-thrilling\! We need a quite secluded place.”  
+thrilling! We need a quite secluded place.”  
 Vidrum: “Calm down, let us go to my house – best place for anything like
 that.”  
 Kalakausha: “Any chance Gardabh or Mahish might drop by?”  
 Vidrum: “Don’t worry. They would call if they want to come and it is too
-late for that\!”
+late for that!”
 
 Back at Vidrum’s house he set up the cushions in a comfortable, dim-lit
 and quite room at the back of his house. The room had large glass window
@@ -438,8 +442,8 @@ Vrishchika’s bike’s tires last week. I should have been more attentive
 to the surroundings. But by greatest Indra some day this Shonit will pay
 with śoṇitam.” Kalakausha felt a deep sense of awe run down her like
 those on the kuru field might have felt even as Vṛkodara approached
-Duḥśāsana. Everything in front of her eyes turned red. She then had
-a singular experience of pure red color.
+Duḥśāsana. Everything in front of her eyes turned red. She then had a
+singular experience of pure red color.
 
 Kalakausha looked down and found her dress to be covered by patterns of
 exquisite form. Those forms constantly changed, each seeming as wondrous
@@ -572,7 +576,7 @@ be built. He felt great pleasure in eating the luxuriant vegetation on
 the hill side, swinging his tail swatting away biting gnats. Suddenly,
 three strange animals appeared before him. They looked sort of like men
 but were not exactly men as we known them today; rather they were an
-archaic type of *Homo*. Rushing at him they attacked him with their
+archaic type of *Homo*. Rushing at him they attackedhimwith their
 hafted weapons. One of them hit him but the missile glanced off his
 thick hide. Realizing the danger from them he charged them. The one in
 the front was an easy target and his horn found its mark. The hominin
@@ -644,13 +648,13 @@ reading the Sṭāhlinastuti and performing a nīrājana to the Das Kapital.
 She heard him recite loudly with his voice quivering with emotion:
 
 sṭahlino nītivijño hi paṅkāvilāṃ  
-rājanītiṃ na jagrāha kaṣṭe.api san |  
+rājanītiṃ na jagrāha kaṣṭe.api san \|  
 satyamārgaṃ na tatyāja satyavratī  
-sajjanāḥ satyamārgasya saṃpoṣakāḥ ||  
+sajjanāḥ satyamārgasya saṃpoṣakāḥ \|\|  
 Stalin the knower of politics, did not take up dirty politics,  
 even when faced with great difficulties.  
 The truthful man did not renounce the path of truth,  
-for indeed the truthful are the nourishers of path of truth\!
+for indeed the truthful are the nourishers of path of truth!
 
 She knew that he brooked no disturbance in this matter and waited
 quietly on the couch downstairs. Suddenly, his friend Fakhr az-Zaman
@@ -662,19 +666,19 @@ pointing his finger threateningly, asked his political ally to take his
 hands off the shoulder of Meghana. Fakhr: “Hey what’s your problem. You
 are not a Moslem and in communism everything is public property.”
 Meghana pushed Fakhr’s hand away and jumped out of the couch saying:
-“How dare you say such things.” Fakhr ignored her and looking at
-Shonit said: “Hey, if she can be friends with other guys then why not
-me.” Shonit flared up and rushed at Fakhr with reaching out for the
-knife in his pocket: “Fakhr I will make you see your houris today”.
-Meghana came in between them: “Guys, calm down. We have little time and
-need to decide all the slogans and the posters for the Equality of the
-People march.” Fakhr calmly went on: “arre Kaffr learn how to talk
-respectfully to a momīn or I will be the one sending you to the
-hell-fire.” Shonit leaped at Fakhr with his knife now out. Fakhr still
-reclining on the couch whipped out his pistol and fired. Two shots got
-Shonit. Meghana rushed to him as he fell and received one shot. Vidrum
-saw nothing but strange red patterns and heard a sledgehammer like noise
-reverberating through head.
+“How dare you say such things.” Fakhr ignored her and looking at Shonit
+said: “Hey, if she can be friends with other guys then why not me.”
+Shonit flared up and rushed at Fakhr with reaching out for the knife in
+his pocket: “Fakhr I will make you see your houris today”. Meghana came
+in between them: “Guys, calm down. We have little time and need to
+decide all the slogans and the posters for the Equality of the People
+march.” Fakhr calmly went on: “arre Kaffr learn how to talk respectfully
+to a momīn or I will be the one sending you to the hell-fire.” Shonit
+leapedat Fakhr with his knife now out. Fakhr still reclining on the
+couch whipped out his pistol and fired. Two shots got Shonit. Meghana
+rushed to him as he fell and received one shot. Vidrum saw nothing but
+strange red patterns and heard a sledgehammer like noise reverberating
+through head.
 
 —–
 
@@ -688,10 +692,10 @@ Lootika he realized they looked rather old and grayed too. It was only
 then that he felt that everything was congruent.  
 Vidrum: “Before anything, I would like convey my heartfelt condolences
 for the tragic demise of Vrishchika and Indrasena.”  
-Somakhya: “Ah\! the ruse has worked well. I am happy to inform you that
+Somakhya: “Ah! the ruse has worked well. I am happy to inform you that
 they are alive and have fled the city to Dyutinagara in what will become
 residual Hindustan.”  
-Vidrum: “What\! I read in the news that their burnt remains were
+Vidrum: “What! I read in the news that their burnt remains were
 extracted from the ruins of the medical school and you two were quoted
 as hoping that the police will bring the perpetrators to law.”
 
@@ -706,7 +710,7 @@ prepared two corpses from the morgue by faking the DNA evidence to stand
 in for them, and slipped out just before the attack to join our children
 who were waiting in advance with our vehicle at the pass in the hills to
 complete the escape.”  
-Vidrum: “Wow\! That’s quite an escape. Then I guess you all would have
+Vidrum: “Wow! That’s quite an escape. Then I guess you all would have
 also divined that even I had faked my injury and did not show up at the
 hospital.”  
 Somakhya: “We hoped you would do it. That is why we had delivered the
@@ -723,7 +727,7 @@ Vidrum: “Despite all the talk of death I see you two seem in good shape
 – I guess the magic nucleotide you found one evening many many autumns
 ago is still doing its job for your all. Here, I have the guns for you
 two.”  
-Somakhya: “Thank you\! The nucleotide aside these nālikā-s could be our
+Somakhya: “Thank you! The nucleotide aside these nālikā-s could be our
 lifeline. We have trained Lootika with her shooting – she’s pretty good
 now with her mark, but I still fear whether she can maintain it if we
 come under fire from the marūnmatta-s or the mleccha agents. We need to
@@ -848,9 +852,10 @@ Kalakausha: “I certainly don’t want to do this ever again.”
 Vidrum: “I too don’t want to do it again but I have no regrets for
 having done it for this one hell of a trip. Then dear, you said it was
 going to be all pleasure, what happened?.”  
-Kalakausha was busy checking her messages. She then said: “Hell\! I
+Kalakausha was busy checking her messages. She then said: “Hell! I
 believe this was the wrong compound. I have to come up with some
 convincing excuse but nothing is going to go too well. I just got this
 message from the boss Vardhanga regarding what happened to the vial with
 the new substance Vrishchika had handed to him. I fear we used that
 one…”
+

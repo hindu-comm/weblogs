@@ -1,8 +1,11 @@
 +++
 title = "śrī narasiṃhapurāṇa, prathamodhyāyaḥ"
-date = "2016-09-04"
+date = "2016-04-09"
+upstream_url = "https://padmavajra.net/2016/09/04/sri-narasi%e1%b9%83hapura%e1%b9%87a-prathamodhyaya%e1%b8%a5/"
 
 +++
+Source: [here](https://padmavajra.net/2016/09/04/sri-narasi%e1%b9%83hapura%e1%b9%87a-prathamodhyaya%e1%b8%a5/).
+
 Transliteration scheme: SLP1
 ([Vowels](https://padmavajrablog.wordpress.com/2016/07/18/slp1-transliteration-scheme-vowels/)
 and [Consonants-how they are

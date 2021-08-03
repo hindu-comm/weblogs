@@ -1,7 +1,11 @@
 +++
 title = "A local pantheon of mallaNNa"
+date = "2007-06-24"
+upstream_url = "https://manasataramgini.wordpress.com/2007/06/24/a-local-pantheon-of-mallanna/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/06/24/a-local-pantheon-of-mallanna/).
+
 A train of thought culminated in me remembering the peculiar case of the
 equestrian deity mallaNNa found in Ailoni. There is a smaller temple of
 mallaNNa in that village. Here he is depicted with his two wives with
@@ -30,3 +34,4 @@ is said to have incarnated to slay Meccan demons or green-robed demons
 who had seized the land in the age of kali and were tormenting the
 Hindus. maNi and malla may be called suratrANa-s who ruled from Bidar
 and some other place.
+

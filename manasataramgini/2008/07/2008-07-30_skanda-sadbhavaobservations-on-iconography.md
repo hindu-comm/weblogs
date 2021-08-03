@@ -1,22 +1,26 @@
 +++
 title = "skanda-sadbhAva:observations on iconography"
+date = "2008-07-30"
+upstream_url = "https://manasataramgini.wordpress.com/2008/07/30/skanda-sadbhavaobservations-on-iconography/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/07/30/skanda-sadbhavaobservations-on-iconography/).
+
 Chapter 11 of the skanda-sadbhAva describes the making of images of
 skanda. 8 substances are recommended for making images:  
-suvarNaM rajataM tAmraM maNayaH kaMsa eva cha |  
-mR^ittikA dAru pAShaNa ity aShaTau yonaH smR^itAH ||  
+suvarNaM rajataM tAmraM maNayaH kaMsa eva cha \|  
+mR^ittikA dAru pAShaNa ity aShaTau yonaH smR^itAH \|\|  
 i.e.: gold, silver, copper, gemstone, bell-metal, clay, wood and stone.
 
-sauvarNA puShTidAj\~neya rAjatI kIrtivardhanA |  
-dhana putra pradA proktA tAmrajA pratimA sadA ||  
-saukhya pradAtu maNijA kaMsajA pApa nAshinI |  
-mR^iNmayI sarvadAtvarchyA dArujA lakShmi-vardhanA ||  
-Ayur-bala pradA nityaM shailajA pratimAnagha |  
-AbhichArAya vihitA prAtimAsu tadA mayI ||  
-pratimA dvividha proktA sthAvarA jaMgameti cha |  
-kartavyaM maNi lohAbhyAM jaMgamA pratimA budhaiH ||  
-kartavayaM sthAvarA nityaM pratimA sarva yonibhiH |
+sauvarNA puShTidAj\~neya rAjatI kIrtivardhanA \|  
+dhana putra pradA proktA tAmrajA pratimA sadA \|\|  
+saukhya pradAtu maNijA kaMsajA pApa nAshinI \|  
+mR^iNmayI sarvadAtvarchyA dArujA lakShmi-vardhanA \|\|  
+Ayur-bala pradA nityaM shailajA pratimAnagha \|  
+AbhichArAya vihitA prAtimAsu tadA mayI \|\|  
+pratimA dvividha proktA sthAvarA jaMgameti cha \|  
+kartavyaM maNi lohAbhyAM jaMgamA pratimA budhaiH \|\|  
+kartavayaM sthAvarA nityaM pratimA sarva yonibhiH \|
 
 As is obvious from above the different materials are supposed to confer
 different benefits. Movable icons are made of gemstone or metals,
@@ -28,11 +32,11 @@ iconometry. Basic iconography is summarized in the below figure:
 [![](https://i0.wp.com/farm4.static.flickr.com/3264/2715525689_352f86b0bf_o.jpg)](http://farm4.static.flickr.com/3264/2715525689_352f86b0bf_o.jpg)
 
 Two major types of icons are described:  
-1\) the shaishava type: 2 hands; holding pot and bell; sky-clad or with
+1) the shaishava type: 2 hands; holding pot and bell; sky-clad or with
 any other vesture; peaceful countenance; legs decorated with tinkling
 anklets; shaven head; leaf bracelets, lotus \[garland\] and darbha
 grass; wearing yaj\~nopavIta.  
-2\) guha: 2 or 4 hands; always 4-handed if hold vajra and shakti; of the
+2) guha: 2 or 4 hands; always 4-handed if hold vajra and shakti; of the
 age 16; wearing red-yellow pants; vermillion in color; kaTaka and keyUra
 bracelets and auspicious necklaces.
 
@@ -45,15 +49,15 @@ form.
 
 Icons of the accompanying devI-s (I have not seen such an arrangement in
 any of the south Indian kaumAra shrines I have visited):  
-1\) devI praj\~nAbhA: To the north of kumAra; color: like a champakA
+1) devI praj\~nAbhA: To the north of kumAra; color: like a champakA
 flower (light yellowish green); well-adorned in ornaments.  
-2\) devayAnI: To the south of kumAra; color: like a pomegranate flower
+2) devayAnI: To the south of kumAra; color: like a pomegranate flower
 (crimson); well-adorned with ornaments.  
-3\) vidyA and devasenA: said the stand to the back of kumAra with
+3) vidyA and devasenA: said the stand to the back of kumAra with
 chAmara-s and well-adorned.  
 On the sides of the archana-pITha or pedestal:  
-4\) dhR^iti: to the south; colored red.  
-5\) medhA: to the north; colored black.  
+4) dhR^iti: to the south; colored red.  
+5) medhA: to the north; colored black.  
 Both are described as “ghUrNamAne ubhe sadA”.  
 Icons of the vipra-s:  
 They are seated in baddhavarmAsana on lotus pedestals.  
@@ -81,3 +85,4 @@ the kAshyapa shilpa and pA\~ncharAtra texts in stating that
 ardha-chitra-s might only use clay, wood and stone, whereas chitra-s may
 use all material. This is consistent with their interpretation as 3D
 icons and reliefs.
+

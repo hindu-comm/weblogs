@@ -1,8 +1,11 @@
 +++
-title = "Against Spurious “Pre-Indo-European-Ization” Of Indo-Europeanxa0Elements"
-date = "March 19, 2021"
+title = "Against Spurious “Pre-Indo-European-Ization” Of Indo-European Elements"
+date = "2021-03-19"
+upstream_url = "https://aryaakasha.com/2021/03/19/against-spurious-pre-indo-european-ization-of-indo-european-elements/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/03/19/against-spurious-pre-indo-european-ization-of-indo-european-elements/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/03/arya-akasha-non-ie-meme-expanding-brain.png?w=800)
 
 This happens remarkably frequently – both in terms of the linguistics,

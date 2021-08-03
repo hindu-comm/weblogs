@@ -1,9 +1,13 @@
 +++
 title = "The three-headed one"
+date = "2006-01-25"
+upstream_url = "https://manasataramgini.wordpress.com/2006/01/25/the-three-headed-one/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/01/25/the-three-headed-one/).
+
 oM drAM dattAtreya namaH  
-oM aiM kroM klIM clUM hrAM hrIM hrUM sauH dattAtreyAya svAhA ||  
+oM aiM kroM klIM clUM hrAM hrIM hrUM sauH dattAtreyAya svAhA \|\|  
 The three-headed one, also known as the terrifying trishiro-bhairava,
 wandered around carefree in the great forests of himaparvatas. With one
 of his arms was holding the most beautiful madhumati of sweet smiles in
@@ -54,17 +58,13 @@ hrUM vaHni chaitanyAya namaH
 He then offers AchamanaM to the great IshvarI of vak. Then the great
 vaishvAnara shoots up as he utters:  
 chit-pi\~Ngala hana hana daha daha pacha pacha sarvaGYAGYApaya svAhA   
-
 In the former days O rAma your illustrious ancestor, the foremost of the
 atharvans, bhR^igu saw many mantras. But this one which the primordial
 bhR^igu saw, who himself has sprung from the retas of prajApati, is the
 base of the new kalpa that is being enunciated. The dull-witted cannot
 grasp it:  
 oM vAishvAnara ihAvaha lohitAkSha sarvakarmANi sAdhaya svAhA  
-
 It is with it the act of sacrifice is achieved. He is then protected by
 the emanations of the 7 bIjas:  
-sryUm | shryUm | ShryUm | vryUm | LR^iryUm |R^iryUm |yryUm ||
+sryUM \| shryUM \| ShryUM \| vryUM \| LR^iryUM \|R^iryUM \|yryUM \|\|
 
-``` 
-```

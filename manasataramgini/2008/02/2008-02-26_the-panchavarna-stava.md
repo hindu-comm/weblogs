@@ -1,7 +1,11 @@
 +++
 title = "The pa~nchAvarNa stava"
+date = "2008-02-26"
+upstream_url = "https://manasataramgini.wordpress.com/2008/02/26/the-panchavarna-stava/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/02/26/the-panchavarna-stava/).
+
 The great siddhAnta tantric aghorashiva deshika from the mid-1100s of
 the CE from the Tamil country composed an epitome of siddhAnta worship
 of the 5- headed sadAshiva and the AvaraNas of his maNDala. This is the
@@ -63,3 +67,4 @@ daitya-s and other beings.
 100 shambhu  
 101 chaNDeshvara  
 102 phalashruti
+

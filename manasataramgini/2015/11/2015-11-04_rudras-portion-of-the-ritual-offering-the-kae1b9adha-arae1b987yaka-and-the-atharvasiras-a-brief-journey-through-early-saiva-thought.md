@@ -1,7 +1,11 @@
 +++
 title = "Rudra’s portion of the ritual offering, the Kaṭha Āraṇyaka and the Atharvaśiras: a brief journey through early śaiva thought"
+date = "2015-11-04"
+upstream_url = "https://manasataramgini.wordpress.com/2015/11/04/rudras-portion-of-the-ritual-offering-the-ka%e1%b9%adha-ara%e1%b9%87yaka-and-the-atharvasiras-a-brief-journey-through-early-saiva-thought/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/11/04/rudras-portion-of-the-ritual-offering-the-ka%e1%b9%adha-ara%e1%b9%87yaka-and-the-atharvasiras-a-brief-journey-through-early-saiva-thought/).
+
 A version of this article was published first at [India
 Facts](http://indiafacts.co.in/rudra-a-brief-journey-through-early-saiva-thought/)
 
@@ -30,8 +34,8 @@ represent the arrow of Rudra that pierced Prajāpati \[Footnote 1\].
 By the time of the Mahabhārata the old legends underwent diversification
 and recombination. One version in the is closer to the Vedic version in
 the Gopatha Brāhmaṇa another one is closer to those found in the
-Purāṇa-s. A version generally sharing elements with those found in
-the Mahabhārata also forms the foundation of the narrative regarding the
+Purāṇa-s. A version generally sharing elements with those found in the
+Mahabhārata also forms the foundation of the narrative regarding the
 origin of diseases from the wrath of Rudra in the Hindu medical
 Saṃhitā-s like those of Caraka. In the Purāṇa-s various versions of
 these legends emerge as products of a complex evolutionary process. This
@@ -60,11 +64,11 @@ medicines.
 That this nature of Rudra was an integral aspect of the Vedic religion
 is supported by the fact cognates might be found in other branches of
 Indo-European:  
-1\) In the Greek Apollo is the cognate deity of Rudra. He is called both
+1) In the Greek Apollo is the cognate deity of Rudra. He is called both
 Loimios, i.e. the bringer of plague and Paion i.e. the healer. He is
 also invoked as Apotropaios meaning one who is called upon to averts the
 harm that he can inflict. This is reminiscent of the Vedic mantra:
-“rudrasya hetiḥ pari vo vṛṇaktu | (May Rudra’s missile be averted)”.
+“rudrasya hetiḥ pari vo vṛṇaktu \| (May Rudra’s missile be averted)”.
 Apollo is a fierce god who is the slayer of many demonic entities even
 as Rudra is the slayer of many Dānava-s and Daitya-s. Finally, in the
 Homeric hymn to Apollo he is explicitly mentioned as being feared by the
@@ -96,15 +100,15 @@ regions. The text in concern comes from the Āraṇyaka of the Kaṭha-s,
 which is rather distinct in parts from its cognate of the widely
 practiced Taittirīya school:
 
-devā vai rudraṃ svargaṃ lokaṃ gataṃ na vyajānann ādityavarṇaṃ carantan |
-te .abruvan ko .asīti ? ahaṃ rudro .aham indro .aham ādityo .ahaṃ
-sarvasyāvayā haraso divyasyeti | te .abruvan nirbhajāmainam iti | tān
-ruvann abhyavadata | tān prādhrajat | te .abruvan bhavān sarvam iti |
-yad ruvann abhyavadat tad rudrasya rudratvam | yad bhavān iti tad
-bhavasya bhavatvam | yat sarvam iti tac charvasya śarvatvam | sa śivo
-.abhavat tac chivasya śivatvam | tebhyo .amṛḍata tan mṛḍasya mṛḍatvam|
-taṃ devā abruvan bhavasya bhūtasya bhavyasyādhipatyam iti |
-sarvasyādhipatyaṃ yajamānaṃ gamayati || KA 2.100
+devā vai rudraṃ svargaṃ lokaṃ gataṃ na vyajānann ādityavarṇaṃ carantan
+\| te .abruvan ko .asīti ? ahaṃ rudro .aham indro .aham ādityo .ahaṃ
+sarvasyāvayā haraso divyasyeti \| te .abruvan nirbhajāmainam iti \| tān
+ruvann abhyavadata \| tān prādhrajat \| te .abruvan bhavān sarvam iti \|
+yad ruvann abhyavadat tad rudrasya rudratvam \| yad bhavān iti tad
+bhavasya bhavatvam \| yat sarvam iti tac charvasya śarvatvam \| sa śivo
+.abhavat tac chivasya śivatvam \| tebhyo .amṛḍata tan mṛḍasya mṛḍatvam\|
+taṃ devā abruvan bhavasya bhūtasya bhavyasyādhipatyam iti \|
+sarvasyādhipatyaṃ yajamānaṃ gamayati \|\| KA 2.100
 
 Indeed the deva-s did not recognize Rudra who had entered the heavenly
 world wandering in with a solar luster. They said: “Who are you?”. \[He
@@ -118,9 +122,9 @@ Bhava’s lordship over existence. Because they said you are all this that
 revealed Śarva’s \[prowess\] as an archer. Because he then became
 favorable that is Śiva’s benevolence. Because he became kind to them
 \[the other deva-s\] that is Mṛḍa’s compassion. The deva-s said to him:
-“The overlordship of the present, the past and the future \[is
-yours\]. \[If he knows this while performing the ritual, i.e. offering
-the portion for Rudra\] it leads the ritualist to lordship over all.
+“The overlordship of the present, the past and the future \[is yours\].
+\[If he knows this while performing the ritual, i.e. offering the
+portion for Rudra\] it leads the ritualist to lordship over all.
 
 In this Āraṇyaka section Rudra is given five names. In this it departs
 from the narratives in the Kauśītaki and Śatapatha Brāhmaṇa-s, where
@@ -144,7 +148,7 @@ Mṛḍa: Vāmadeva (The northern face associated with the goddess Umā or the
 form of the god)
 
 This narrative from the Kaṭha Āraṇyaka provides clues regarding the
-origin of frame-narrative of a key early śaiva upaniṣad, the
+origin of the frame-narrative of a key early śaiva upaniṣad, the
 Atharvaśiras. Three śaiva upaniṣad-s can be considered early with their
 probable temporal order being: 1) Nīlarudra which is associated with the
 Paippalāda school of the Atharvaveda; 2) Śvetāśvatara which is
@@ -161,14 +165,14 @@ which appear serially in traditions known as the atimārga starting with
 the Pāśupata sūtra-s and the mantra-mārga, which is expounded in the
 numerous śaiva tantra-s of various streams.
 
-The Atharvaśiras opens thus (while the 3 recensions are similar in this
-regard; I am using the one I follow in my practice):  
-devā ha vai svargalokam āyaṃs te rudram apṛcchan ko bhavān iti |  
+The Atharvaśiras opens thus (while the other 3 recensions are similar in
+this regard; I am using the one I follow in my practice):  
+devā ha vai svargalokam āyaṃs te rudram apṛcchan ko bhavān iti \|  
 The deva-s indeed went to the heavenly world and they asked Rudra: “Sir,
 who are you?”
 
 so .abravīd aham ekaḥ prathamam āsīd vartāmi ca bhaviṣyāmi ca nānyaḥ
-kaścin matto vyatirikta iti |  
+kaścin matto vyatirikta iti \|  
 He \[Rudra\] replied: “I am the sole and primal one who ever was, is,
 and will be; there is nothing else other than mine.
 
@@ -186,9 +190,9 @@ insight attained upon drinking Soma in the ritual. It uses the following
 mantra, which is derived version of a ṛk recited by the ritualist upon
 drinking Soma:
 
-apāma somam amṛtā abhūmāganma jyotir avidāma devān | kiṃ nūnam asmān
-kṛṇavad arātiḥ | kim u dhūrtir amṛta martyasya soma-sūryapurastāt
-sūkṣmaḥ puruṣaḥ |  
+apāma somam amṛtā abhūmāganma jyotir avidāma devān \| kiṃ nūnam asmān
+kṛṇavad arātiḥ \| kim u dhūrtir amṛta martyasya soma-sūryapurastāt
+sūkṣmaḥ puruṣaḥ \|  
 (Note the aorist (luṅ) 1st person plural forms of verbs are used, e.g.
 apāma for pā= drink, implying context of the recently completed ritual
 libation)  
@@ -230,3 +234,4 @@ Invaka stars also represent the belt/girdle or upavīta of Prajāpati.
 Indeed, even to this date when observers of Vedic tradition change their
 upavīta-s they use a mantra in which the girdle of Prajāpati at the head
 of the ecliptic path of Nakṣatra-s is invoked.
+

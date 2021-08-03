@@ -1,8 +1,11 @@
 +++
-title = "Brief Notification Of Reduced Attention For A Bit – But The Work Still Goesxa0On!"
-date = "July 15, 2021"
+title = "Brief Notification Of Reduced Attention For A Bit – But The Work Still Goes On!"
+date = "2021-07-15"
+upstream_url = "https://aryaakasha.com/2021/07/15/brief-notification-of-reduced-attention-for-a-bit-but-the-work-still-goes-on/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/07/15/brief-notification-of-reduced-attention-for-a-bit-but-the-work-still-goes-on/).
+
 I’m back to university as of this week, and the course difficulty’s
 ratcheted up – so I’ll have considerably less time to devote to our work
 though Arya Akasha for a bit.  

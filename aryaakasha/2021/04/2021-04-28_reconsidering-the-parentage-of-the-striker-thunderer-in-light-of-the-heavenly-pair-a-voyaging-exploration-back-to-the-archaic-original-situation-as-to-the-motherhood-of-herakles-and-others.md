@@ -1,8 +1,11 @@
 +++
-title = "Reconsidering The Parentage Of The Striker/Thunderer In Light Of The Heavenly Pair – A Voyaging Exploration Back To The Archaic Original Situation As To The Motherhood Of Herakles Andxa0Others"
-date = "April 28, 2021"
+title = "Reconsidering The Parentage Of The Striker/Thunderer In Light Of The Heavenly Pair – A Voyaging Exploration Back To The Archaic Original Situation As To The Motherhood Of Herakles And Others"
+date = "2021-04-28"
+upstream_url = "https://aryaakasha.com/2021/04/28/reconsidering-the-parentage-of-the-striker-thunderer-in-light-of-the-heavenly-pair-a-voyaging-exploration-back-to-the-archaic-original-situation-as-to-the-motherhood-of-herakles-and-others/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/04/28/reconsidering-the-parentage-of-the-striker-thunderer-in-light-of-the-heavenly-pair-a-voyaging-exploration-back-to-the-archaic-original-situation-as-to-the-motherhood-of-herakles-and-others/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/04/60233ab70e3f2a898f86f5ca13c555ee.jpg?w=799)
 
 Earlier this evening, I had cause to make mention of the phenomenon of

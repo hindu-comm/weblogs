@@ -1,8 +1,11 @@
 +++
-title = "The Divine Wrath Of Devi Dhari And The Salvation Of Shaivite Kedarnath [Incredible Indo-European Holy Sites Series Part IIxa0]"
-date = "September 18, 2020"
+title = "The Divine Wrath Of Devi Dhari And The Salvation Of Shaivite Kedarnath [Incredible Indo-European Holy Sites Series Part II ]"
+date = "2020-09-18"
+upstream_url = "https://aryaakasha.com/2020/09/18/the-divine-wrath-of-devi-dhari-and-the-salvation-of-shaivite-kedarnath-incredible-indo-european-holy-sites-series-part-ii/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/09/18/the-divine-wrath-of-devi-dhari-and-the-salvation-of-shaivite-kedarnath-incredible-indo-european-holy-sites-series-part-ii/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/09/119523560_10164155918095574_776359637755077337_o.jpg?w=1024)
 
 Jai Mata Di !

@@ -1,8 +1,11 @@
 +++
-title = "On The Crown Of Crows And The Regality Of Ravens – A Restoration And Re-Explication Of Their Incredible Indo-European Symbolicxa0Saliency"
-date = "November 16, 2020"
+title = "On The Crown Of Crows And The Regality Of Ravens – A Restoration And Re-Explication Of Their Incredible Indo-European Symbolic Saliency"
+date = "2020-11-16"
+upstream_url = "https://aryaakasha.com/2020/11/16/on-the-crown-of-crows-and-the-regality-of-ravens-a-restoration-and-re-explication-of-their-incredible-indo-european-symbolic-saliency/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/11/16/on-the-crown-of-crows-and-the-regality-of-ravens-a-restoration-and-re-explication-of-their-incredible-indo-european-symbolic-saliency/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/11/5845947-acuraevn-7.jpg?w=770)
 
 One of the most misunderstood creatures in the Indo-European mythic

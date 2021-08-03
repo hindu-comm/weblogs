@@ -1,26 +1,31 @@
 +++
 title = "AtharvaNa tumburu sUkta prayogaM"
+date = "2011-07-08"
+upstream_url = "https://manasataramgini.wordpress.com/2011/07/08/atharvana-tumburu-sukta-prayogam/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/07/08/atharvana-tumburu-sukta-prayogam/).
+
 In the AtharvaNa tradition after having learned the mantra-s of the
 nIlarudra sUkta one learns the tumburu sUkta. The sUkta of tumburu (AV-P
 20.61.8-9; 62.1-6) goes thus:  
-na tatra bhavo hanti na sharva iShum asyati |  
-yatra tvaM deva tumburo parvateShu virohati ||  
-kR^iShyAm anyo virohati girer anyo.adhipakShasi |  
-trAtArau shashvatAM imAv A gantAM shigru-tumburU ||  
+na tatra bhavo hanti na sharva iShum asyati \|  
+yatra tvaM deva tumburo parvateShu virohati \|\|  
+kR^iShyAm anyo virohati girer anyo.adhipakShasi \|  
+trAtArau shashvatAM imAv A gantAM shigru-tumburU \|\|  
 yAvat parNaM yAvat phalaM yAvanto .adhyaR^ikSharAH  
-tAvantaH shuShmAs tumburos tad u te viShadUShaNam ||  
-rudro jalAShabheShaja imAM rogam ashIsamaH |  
-ye avAjijvalan iti ||  
-asthAd dyaur asthAt pR^ithivy asthAd vishvam idaM jagat |  
-vR^iShabhasyeva kanikradato R^iShayaM shamayAmi te ||  
-saM mA si\~nchantu marutas saM vAto rohiNIr uta |  
-saM mAyam agnis si\~nchatu prajayA cha dhanena cha ||  
-dIrgham AyuSh kR^iNomi te naktaM harI mR^igayate |  
-divA suparNA rohitau bhavAya cha sharvAya chobhAbhyAm akaraM namaH ||  
-vishalyasya vidradhasya vAtIkArasya vAlade |  
-bhavAya cha sharvAya chobhAbhyAm akaraM namaH ||
+tAvantaH shuShmAs tumburos tad u te viShadUShaNaM \|\|  
+rudro jalAShabheShaja imAM rogam ashIsamaH \|  
+ye avAjijvalan iti \|\|  
+asthAd dyaur asthAt pR^ithivy asthAd vishvam idaM jagat \|  
+vR^iShabhasyeva kanikradato R^iShayaM shamayAmi te \|\|  
+saM mA si\~nchantu marutas saM vAto rohiNIr uta \|  
+saM mAyam agnis si\~nchatu prajayA cha dhanena cha \|\|  
+dIrgham AyuSh kR^iNomi te naktaM harI mR^igayate \|  
+divA suparNA rohitau bhavAya cha sharvAya chobhAbhyAm akaraM namaH
+\|\|  
+vishalyasya vidradhasya vAtIkArasya vAlade \|  
+bhavAya cha sharvAya chobhAbhyAm akaraM namaH \|\|
 
 During prayoga one first recites the vAmadeva mantra from the
 pa\~nchabrahma series. Then he installs the fire on the sthaNDila as per
@@ -28,15 +33,15 @@ the tradition of the atharvan-s. There after reciting the tumburu sUkta
 make oblations of drumstick and tumburu saMidh-s dipped in ghee.
 
 Then he makes the four bhaginI yAja-s of ghee with AV-P 20.21.6:  
-udojiShThAM sahasyAM jayantIm aparAjitAm |  
-lakShmIr yAH puNyAH kalyANIs tA asyai savitaH suva ||
+udojiShThAM sahasyAM jayantIm aparAjitAm \|  
+lakShmIr yAH puNyAH kalyANIs tA asyai savitaH suva \|\|
 
 Then he stands under the tumburu tree and offers tarpaNA-s to tumburu
 with the above sUkta and the bhaginI-s with the above mantra (x 4). He
 may then prepare the secret tumburu drugs.
 
 This sUkta is of considerable importance for multiple reasons:  
-1\) It helps understand the origin of the central deity of the
+1) It helps understand the origin of the central deity of the
 vAma-srotas, tumburu rudra. Most modern Hindus unacquainted with the
 shAstra-s of the vAmasrotas are not familiar with this once popular
 system. Hence, tumburu to them usually stands for the commonly known
@@ -66,12 +71,12 @@ Indo-European rudra-like deities. Indeed, this trait is stressed in the
 vAmasrotas, where rituals to tumburu and the chaturbhagini are stated as
 being a counter to disease.  
 e.g.:  
-muchyate cha sadA rogair mR^ityurUpair durAsadaiH || VT 92cd
+muchyate cha sadA rogair mR^ityurUpair durAsadaiH \|\| VT 92cd
 
-shatajapto jalenApi tato vA muchyate sadA |  
-vyAdhighAta samidbhis tu vyAdhinAtyantapIDitaH ||  
-aShTottara shatenaiva AhutInAM na saMshayaH |  
-kShIrAktena tu deveshi rogI rogAd vimuchyate || VT 183-184
+shatajapto jalenApi tato vA muchyate sadA \|  
+vyAdhighAta samidbhis tu vyAdhinAtyantapIDitaH \|\|  
+aShTottara shatenaiva AhutInAM na saMshayaH \|  
+kShIrAktena tu deveshi rogI rogAd vimuchyate \|\| VT 183-184
 
 Further, in the AV-P the tumburu hymn occurs in the larger context of a
 number medical applications, including the administration of the
@@ -94,8 +99,8 @@ use of these samidh-s in uchChATana rituals. But the use in the AV-P
 text is clearly of a medical nature. This may be compared to the
 nighANThu sUtra-s regarding these plants in classical Hindu medicine
 where they often occur together:  
-tumburuH pitta-kR^id vAta-kR^imi daurgandhya nAshanaH |  
-shigrus tIkShNa laghur grAhI vahni-kR^it kapha-vAtajit |
+tumburuH pitta-kR^id vAta-kR^imi daurgandhya nAshanaH \|  
+shigrus tIkShNa laghur grAhI vahni-kR^it kapha-vAtajit \|
 
 Thus, the tumburu plant is described as being an augmenter of pitta,
 destroyer of parasitic infestation, a suppressor of bad body odor and a
@@ -114,3 +119,4 @@ key compounds from this plant: moriginine, spirochin and niazimicin.
 Likewise, several compounds from tumburu like tridecanonchelerythrine,
 conifegerol, canthin-6-one, asarinin, dictamnine and skimmianine are of
 potential interest.
+

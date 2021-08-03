@@ -1,8 +1,11 @@
 +++
 title = "Interpretatio Steppona"
-date = "September 12, 2019"
+date = "2019-09-12"
+upstream_url = "https://aryaakasha.com/2019/09/12/interpretatio-steppona/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/09/12/interpretatio-steppona/).
+
 ![70950934_10162249624665574_8224481154837774336_n](https://aryaakasha.files.wordpress.com/2019/09/70950934_10162249624665574_8224481154837774336_n.jpg?w=676)
 
 Strange thought that I may do some more work upon:

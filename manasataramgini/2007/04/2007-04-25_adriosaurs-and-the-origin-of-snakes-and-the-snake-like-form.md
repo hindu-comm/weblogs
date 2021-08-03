@@ -1,7 +1,11 @@
 +++
 title = "Adriosaurs and the origin of snakes and the snake-like form"
+date = "2007-04-25"
+upstream_url = "https://manasataramgini.wordpress.com/2007/04/25/adriosaurs-and-the-origin-of-snakes-and-the-snake-like-form/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/04/25/adriosaurs-and-the-origin-of-snakes-and-the-snake-like-form/).
+
 We had earlier seen how the Lee camp had claimed that snakes are a
 sister group of the marine varanoid lizards, and how the Rieppel camp
 had repeatedly engaged in falsifying these claims. The [molecular
@@ -33,7 +37,7 @@ anatomy, Mahendra (who produced the first modern survey of Indian
 snakes), proposed the rival fossorial or burrowing origin of snakes. His
 works, however, were largely ignored and forgotten until the fossorial
 theory from extant snakes was revived by Bellairs and gang a decade or
-so later. It was in Bellairs’s stupendous classic on reptiles which I
+so later. It was in Bellairs’s stupendous classic on reptiles whichI
 started reading when I was 8 or so that I encountered this fascinating
 evolutionary issue of snake origins. The story was so riveting that I
 just could not put the books down. I had obtained some skulls of lizards
@@ -182,7 +186,7 @@ The above picture illustrates two gekkotans: The classical Gekko gecko
 and its close relative the snake lizard (pygopodid) Lialis (gekkota is a
 basal lizard clade, very distant from the real snakes and anguimorphs).
 It illustrates how the snake-like morphology easily convergently emerges
-amongst terrestrial lizards. 
+amongst terrestrial lizards.
 
 Now on this phylogenetic model we can analyze the convergent emergence
 of various body forms. Among extant reptiles the snake-like form emerged
@@ -273,3 +277,6 @@ were previously missed
 this excursion into lizards by remembering the halcyon days when we
 studied the agamids Psammophilus– the yellow-black rock lizard in the
 city of our birth and Calotes and Sitana in the city of our growth).
+
+
+

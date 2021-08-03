@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "February 3, 2021"
+date = "2021-02-03"
+upstream_url = "https://vriitrahan.wordpress.com/2021/02/03/nava-sanskrit/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2021/02/03/nava-sanskrit/).
+
 Many months ago, someone asked me “Can we simplify Sanskrit for the
 masses?” the presumable goal being the creation of a Sanskrit-Hindi
 hybrid that is easier than Sanskrit to learn with an artifically

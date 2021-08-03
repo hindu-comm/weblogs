@@ -1,7 +1,11 @@
 +++
 title = "A personal discursion on conic sections"
+date = "2012-10-23"
+upstream_url = "https://manasataramgini.wordpress.com/2012/10/23/a-personal-discursion-on-conic-sections/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/10/23/a-personal-discursion-on-conic-sections/).
+
 The brothers Menaechmus and Dinostratus, as per the last great yavana
 sage Proclus, were associates of the Plato, who made some of the most
 profound discoveries in the yavana knowledge systems. Indeed, their
@@ -156,7 +160,7 @@ were overcome by the urge to measure the arc of the ellipse. We realized
 for ourselves that this cannot be achieved using trigonometric functions
 and thus discovered for ourselves the existence of something known as
 the elliptic functions and elliptic integrals. It was again in this
-context we came across a remarkable approximate formula for the
+context we came across a remarkableapproximateformula for the
 perimeter of an ellipse by 27 year old shrInivAsa rAmAnujan, which we
 still cannot stop being amazed by (yet another testimony of his
 unimaginable genius):
@@ -176,3 +180,4 @@ with positive energy which is used to drive spacecraft to outer space.
 Two dimensional space is itself in a sense defined by conics: Any set of
 five points lie on a conic; if there are only three of them then they
 can all be contained by a circle.
+

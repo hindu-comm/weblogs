@@ -1,7 +1,11 @@
 +++
 title = "Some musings on the age of the ichthyosaurs"
+date = "2013-02-02"
+upstream_url = "https://manasataramgini.wordpress.com/2013/02/02/some-musings-on-the-age-of-the-ichthyosaurs/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/02/02/some-musings-on-the-age-of-the-ichthyosaurs/).
+
 Ichthyopterygia (colloquially ichthyosaurs in this note), like many
 other reptilian clades, is well known to the lay reader but remains
 mysterious in terms of its origin. The ichthyosaurs first appear in the
@@ -238,3 +242,4 @@ development of a more efficient circulatory system typical of the crown
 archosaurs. This probably resulted in them still falling short of the
 cetacean efficiency in terms of distributing oxygen optimally to sustain
 a sufficiently large body.
+

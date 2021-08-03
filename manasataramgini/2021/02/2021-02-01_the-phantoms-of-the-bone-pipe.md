@@ -1,8 +1,11 @@
 +++
-title = "The phantoms of thexa0bone-pipe"
+title = "The phantoms of the bone-pipe"
 date = "2021-02-01"
+upstream_url = "https://manasataramgini.wordpress.com/2021/02/01/the-phantoms-of-the-bone-pipe/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2021/02/01/the-phantoms-of-the-bone-pipe/).
+
 As Vidrum was leafing through some recent case studies to gather the
 literature for his own production, he received a call from his
 chauffeur. He had fetched Vidrum’s new car. Vidrum went out to take a

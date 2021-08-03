@@ -1,8 +1,11 @@
 +++
-title = "On Disregarding The Puranic Mythology For Allegedly Denigrating Vedicxa0Gods"
-date = "August 26, 2020"
+title = "On Disregarding The Puranic Mythology For Allegedly Denigrating Vedic Gods"
+date = "2020-08-26"
+upstream_url = "https://aryaakasha.com/2020/08/26/on-disregarding-the-puranic-mythology-for-allegedly-denigrating-vedic-gods/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/08/26/on-disregarding-the-puranic-mythology-for-allegedly-denigrating-vedic-gods/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/08/118272964_10164055162240574_5453116934672411776_n.jpg?w=770)
 
 Quite frequently, we hear it said that people may like Vedic religion,

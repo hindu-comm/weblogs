@@ -1,8 +1,11 @@
 +++
-title = "Two exceedingly simple sums related to triangularxa0numbers"
+title = "Two exceedingly simple sums related to triangular numbers"
 date = "2021-05-26"
+upstream_url = "https://manasataramgini.wordpress.com/2021/05/26/two-exceedingly-simple-sums-related-to-triangular-numbers/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2021/05/26/two-exceedingly-simple-sums-related-to-triangular-numbers/).
+
 This note records some elementary arithmetic pertaining to triangular
 numbers for bālabodhana. In our youth we found that having a flexible
 attitude was good thing while obtaining closed forms for simple sums:

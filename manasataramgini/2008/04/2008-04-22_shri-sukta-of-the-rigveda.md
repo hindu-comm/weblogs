@@ -1,7 +1,11 @@
 +++
 title = "shrI sUkta of the R^igveda"
+date = "2008-04-22"
+upstream_url = "https://manasataramgini.wordpress.com/2008/04/22/shri-sukta-of-the-rigveda/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/04/22/shri-sukta-of-the-rigveda/).
+
 The celebrated shrI sUkta has spread widely beyond its original role in
 the vedic gR^ihya liturgy and prayoga-s of the vedic vidhAna-s. Its
 earliest occurrences are seen in the khila of the R^igveda and the
@@ -37,3 +41,4 @@ The oral tradition used in the restoration is also provided as a
 recording:  
 [shrI sUkta as a
 MP3.](https://app.box.com/s/v0t0cpotlh00mv5kek5ecrbdjb2hezj4)
+

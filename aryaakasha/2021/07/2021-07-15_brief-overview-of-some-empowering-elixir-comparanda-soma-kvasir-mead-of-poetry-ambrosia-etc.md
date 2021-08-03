@@ -1,8 +1,11 @@
 +++
-title = "Brief Overview Of Some Empowering Elixir Comparanda – Soma, Kvasir, Mead of Poetry, Ambrosia,xa0etc."
-date = "July 15, 2021"
+title = "Brief Overview Of Some Empowering Elixir Comparanda – Soma, Kvasir, Mead of Poetry, Ambrosia, etc."
+date = "2021-07-15"
+upstream_url = "https://aryaakasha.com/2021/07/15/brief-overview-of-some-empowering-elixir-comparanda-soma-kvasir-mead-of-poetry-ambrosia-etc/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/07/15/brief-overview-of-some-empowering-elixir-comparanda-soma-kvasir-mead-of-poetry-ambrosia-etc/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/07/2140a1a9-c420-4813-9ffd-bc2985f536ef_rw_1920-1.jpg?w=1024)
 
 As promised, short-form not-articles of broader interest. This is from

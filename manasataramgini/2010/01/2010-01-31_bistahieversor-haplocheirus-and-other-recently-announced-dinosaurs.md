@@ -1,7 +1,11 @@
 +++
 title = "Bistahieversor, Haplocheirus and other recently announced dinosaurs"
+date = "2010-01-31"
+upstream_url = "https://manasataramgini.wordpress.com/2010/01/31/bistahieversor-haplocheirus-and-other-recently-announced-dinosaurs/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/01/31/bistahieversor-haplocheirus-and-other-recently-announced-dinosaurs/).
+
 ***Bistahieversor:*** A recent publication by Carr and Williamson
 describes a new tyrannosauroid from the Late Cretaceous (Campanian) of
 New Mexico. The work is accompanied by a phylogenetic analysis that
@@ -14,7 +18,7 @@ phylogenetics that has been dramatically altering our knowledge of these
 dinosaurs in the past few years. By combining the picture from the
 current paper with other recent finds we get the following picture of
 tyrannosauroid evolution:  
-\-By around 165 Mya (i.e. the Bathonian age of the Jurassic) the
+-By around 165 Mya (i.e. the Bathonian age of the Jurassic) the
 tyrannosauroids had split off from the other coelurosaurs and
 diversified into multiple lineages of small predators. The more
 primitive of these lineages was the proceratosaurid lineage with the
@@ -22,35 +26,35 @@ crested forms *Proceratosaurus* and *Guanlong*. The more derived lineage
 was represented by *Iliosuchus*. They had also acquired a wide
 distribution by the Middle Jurassic – *Proceratosaurus* from England;
 *Guanlong* from China and *Iliosuchus* from North America.  
-\-The same picture of primitive and derived tyrannosauroid lineages
+-The same picture of primitive and derived tyrannosauroid lineages
 existing side-by-side continues later in the Jurassic (approximately
 150-155 Mya \~ Kimmeridgian age): We have the more primitive
 *Tanycolagreus* co-existing with the more derived *Aviatyrannis* and
 *Stokesosaurus*.  
-\-In the early Cretaceous (130-125 Mya \~Barremian age) we see primitive
+-In the early Cretaceous (130-125 Mya \~Barremian age) we see primitive
 forms like *Dilong*, slightly more derived forms like *Eotyrannus* and
 highly derived forms like *Raptorex*.  
-\-Finally, in the late Cretaceous we observe that some relatively
+-Finally, in the late Cretaceous we observe that some relatively
 primitive forms like *Bagaraatan* and a poorly described Asian form (cf.
-*Alectrosaurus* in C\&W’s paper) are present along with a diverse
-mélange of more derived form including the classical tyrannosaurids.
-However, there is some fine structure in the patterns of tyrannosauroid
+*Alectrosaurus* in C&W’s paper) are present along with a diverse mélange
+of more derived form including the classical tyrannosaurids. However,
+there is some fine structure in the patterns of tyrannosauroid
 distribution in the late Cretaceous, the causes for which and
 significance are currently entirely unclear. In the Campanian (\~75-80
 Mya) of North America several distinct large derived tyrannosauroids
 appear to have been prevalent, albeit in different parts of the
 continent- We have *Appalachiosaurus* in the East, *Daspletosaurus*,
 *Gorgosaurus* and *Albertosaurus* in the West, a new form in the south
-from Utah (The BYU specimens still under study by C\&W) and
+from Utah (The BYU specimens still under study by C&W) and
 *Bistahieversor* still further south from the New Mexico region. In
 contrast, information is still very patchy from the Campanian of Asia.
 There is *Alectrosaurus olseni* proper (sensu Gilmore 1933) and another
 from referred to *Alectrosaurus* (by Perle 1977), which are apparently
-two distinct taxa that are still to be re-described properly by C\&W.
-The latter is termed “Cf. Alectrosaurus” in the current paper. Both of
-these appear more primitive than the derived forms mentioned above from
-the Campanian of North America. In the Maastrichtian age, the last past
-of the Cretaceous before the K/Pg extinction event, the picture seems to
+two distinct taxa that are still to be re-described properly by C&W. The
+latter is termed “Cf. Alectrosaurus” in the current paper. Both of these
+appear more primitive than the derived forms mentioned above from the
+Campanian of North America. In the Maastrichtian age, the last past of
+the Cretaceous before the K/Pg extinction event, the picture seems to
 change quite a bit. In North American a single derived form seems to be
 present, i.e. *Tyrannosaurus* along side the some what less-derived
 *Dryptosaurus* which might be related to *Alectrosaurus olseni*. In Asia
@@ -58,11 +62,11 @@ we have the small relatively primitive form *Bagaraatan* along side with
 the crown group tyrannosaurids, *Alioramus* and *Tarbosaurus* that is
 very closely related to *Tyrannosaurus*.
 
-The current work of C\&W along with the other recent publications by
+The current work of C&W along with the other recent publications by
 Senter, Rauhut et al, Brusatte et al and Sereno et al throw some light
 on previously fairly obscure form. For example, we had always suspected
 that Bagaraatan from Mongolia was a small tyrannosauroid. This receives
-good support from C\&W’s work. Earlier Rauhut et al had described a
+good support from C&W’s work. Earlier Rauhut et al had described a
 small, fragmentary dinosaur *Xinjiangovenator* from the Early Cretaceous
 (\~Valanginian–Albian) of Asia and noted similarities with *Bagaraatan*.
 We strongly suspect that this form might indeed be a tyrannosauroid that
@@ -82,7 +86,7 @@ However, the relationships of the forms more primitive than the
 classical tyrannosaurids are currently in a degree of flux. Using the
 theropod data matrix kindly sent to us last year by Prof. Senter along
 with the new data we could discern the following:  
-C\&W find *Guanlong* to group with *Monolophosaurus* a large primitive
+C&W find *Guanlong* to group with *Monolophosaurus* a large primitive
 theropod from the same formation. However, based on the new description
 of *Monolophosaurus* by Brusatte et al and details of *Proceratosaurus*
 offered by Rauhut et al we might say with some confidence that
@@ -90,7 +94,7 @@ offered by Rauhut et al we might say with some confidence that
 tyrannosaurs. By tweaking Senter’s matrix we get *Coelurus* as an even
 more primitive tyrannosaur although there is less confidence in this.
 *Tanycolagreus* appears to be about as primitive as the proceratosaurids
-mainly based on C\&W’s data. Even more derived is *Dilong*, which is a
+mainly based on C&W’s data. Even more derived is *Dilong*, which is a
 sister group of the rest of the tyrannosaurids. *Calamosaurus* could be
 related to the roughly coeval *Dilong* but is too fragmentary to assess
 confidently. Even more derived than *Dilong* is an assemblage of unclear
@@ -110,7 +114,7 @@ poorly described Cf. *Alectrosaurus* and *Alectrosaurus olseni*. Of
 course the several other more primitive fragmentary forms could also
 change positions.
 
-C\&W also make functional inferences regarding tyrannosaurs predatory
+C&W also make functional inferences regarding tyrannosaurs predatory
 behavior from anatomy. They consider the crown group tyrannosaurids
 *Tarbosaurus, Tyrannosaurus, Daspletosaurus, Albertosaurus* and
 *Gorgosaurus* to be deep-snouted. *Bistahieversor* is also seen as
@@ -133,7 +137,7 @@ bone-crushing forces. In contrast, the shallow-snouted forms clearly
 could not rely on the bone-crushing bites of their cousins and evidently
 had a different hunting strategy that we do not understand at all.
 
-C\&W go on state that the shallow snouted form was the primitive
+C&W go on state that the shallow snouted form was the primitive
 condition for tyrannosauroids and that the deep snouted version was a
 derived feature that first emerged in *Bistahieversor*. This claim could
 be technically right but the reality was more complicated. We have the
@@ -142,14 +146,14 @@ tyrannosauroids and appears to be more derived than Bistahierversor.
 This suggests that the snout morphology could have potentially reversed
 to the shallow state from the original deep state at least in
 *Alioramus*. This raises questions as to how often such transitions
-happened in other parts of the tyrannosauroid tree. Secondly C\&W state
+happened in other parts of the tyrannosauroid tree. Secondly C&W state
 that the shallow snouted forms had much larger grasping arms than the
 traditional tiny hands of the derived tyrannosauroids. These longer
 hands they claim helped the shallow snouted forms to tackle prey with
 their hands and thus the reliance on a heavy bite was not required. In
 contrast, the deep snouted forms shifted to a head only approach to
 predation thereby reducing the need of grasping arms which instead
-became highly reduced two-fingered structures. But this proposal of C\&W
+became highly reduced two-fingered structures. But this proposal of C&W
 is not supported by any of the new data. Firstly, *Raptorex* and
 *Alioramus* which are shallow snouted seem to have the reduced
 two-fingered arms. The short arms had already emerged in Raptorex that
@@ -272,7 +276,7 @@ alvarezsaurs with them being closer to birds. Of course their
 maniraptora is rather inclusive as it includes the compsognathids (in
 addition to Ornitholestes) as even more basal lineages. This immediately
 smells rather fishy. In the text of the paper they state that their
-illustrated phylogenetic hypothesis is only one step (\!) shorter than
+illustrated phylogenetic hypothesis is only one step (!) shorter than
 the one in which the alvarezsaurs group with ornithomimosaurs. Clearly
 the evidence for their maniraptoran alvarezsaurs is rather weak.
 
@@ -417,3 +421,4 @@ end of the femur is comparable to Haplocheirus and is likely to be an
 alvarezsaur synapomorphy. Thus, Aniksosaurus could be another member of
 the basal alvarezsaur radiation. Interestingly, like the tyrannosaurs
 Aniksosaurus has a strongly reduced supraacetabular crest.
+

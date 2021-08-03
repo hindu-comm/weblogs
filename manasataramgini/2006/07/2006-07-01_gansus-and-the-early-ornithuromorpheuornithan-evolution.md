@@ -1,7 +1,13 @@
 +++
 title = "Gansus and the early ornithuromorph/euornithan evolution"
+date = "2006-07-01"
+upstream_url = "https://manasataramgini.wordpress.com/2006/07/01/gansus-and-the-early-ornithuromorpheuornithan-evolution/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/07/01/gansus-and-the-early-ornithuromorpheuornithan-evolution/).
+
+
+
 [![](https://i0.wp.com/photos1.blogger.com/blogger/2010/410/320/gansus_yanornis.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/gansus_yanornis.jpg)
 
 Several new specimens of the previously enigmatic bird Gansus throw
@@ -71,3 +77,4 @@ there were actually two basal aquatic ornithuromorph radiations. One of
 predentary-containing forms such as the above and the other without
 including Yanornis, Yixianornis and Songlingornis. The skulls of Gansus
 and Ambiortus, if and when found might clarify this issue.
+

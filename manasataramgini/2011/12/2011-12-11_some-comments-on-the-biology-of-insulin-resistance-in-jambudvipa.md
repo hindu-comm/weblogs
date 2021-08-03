@@ -1,7 +1,11 @@
 +++
 title = "Some comments on the biology of insulin resistance in jaMbudvIpa"
+date = "2011-12-11"
+upstream_url = "https://manasataramgini.wordpress.com/2011/12/11/some-comments-on-the-biology-of-insulin-resistance-in-jambudvipa/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/12/11/some-comments-on-the-biology-of-insulin-resistance-in-jambudvipa/).
+
 A recent paper by Metspalu et al in AHJG adds additional data to the
 growing material on the genetics of the Indians. The paper has several
 issues that are rather unsatisfactory – chief among them is the attempt
@@ -128,8 +132,8 @@ of factors, including perhaps why Indians need to be philosophical about
 their performance in athletic events such as the Olympics. MSTN is a
 member of the TGF-ß family of cystine knot cytokines. Its evolutionary
 history is a long one – being traceable to the basal animals such the
-cnidarians (NEMVEDRAFT\_v1g196852; GI:156407906). It is preserved in
-most animal lineages studied to date and shows a strong muscle-specific
+cnidarians (NEMVEDRAFT_v1g196852; GI:156407906). It is preserved in most
+animal lineages studied to date and shows a strong muscle-specific
 expression pattern at least in vertebrates, arthropods and molluscs –
 probably this holds across all animals with muscles. It negatively
 regulates muscle development by signaling via the ActRIIB receptor. Its
@@ -301,8 +305,8 @@ basis of the soldier-diplomat transition.
 Appendix 1: Since some people asked me about AIT/OIT, at the risk of
 repeating what we have said before on these pages let us go through the
 details again. In figure two of their paper the authors present an
-analysis with ADMIXTURE with 8 and 12 clusters
-([Figure 2](http://www.cell.com/AJHG/image/S0002-9297\(11\)00488-5?imageId=gr2&imageType=hiRes)).
+analysis with ADMIXTURE with 8 and 12 clusters ([Figure
+2](http://www.cell.com/AJHG/image/S0002-9297(11)00488-5?imageId=gr2&imageType=hiRes)).
 In the K8 analysis we have k5, which is shared by Indians, Iranians,
 many Indo-European speaking Europeans, Central Asians, West Asians, and
 Caucasians. It is found at similar levels in Northern and Southern
@@ -487,3 +491,4 @@ Omura C, Mo S, Vitaterna MH, Lopez JP, Philipson LH, Bradfield CA,
 Crosby SD, JeBailey L, Wang X, Takahashi JS, Bass J.  
 Nature. 2010 Jul 29;466(7306):627-31.  
 PMID: 20562852
+

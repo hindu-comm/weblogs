@@ -1,7 +1,11 @@
 +++
 title = "A case for avairAgyaM?"
+date = "2013-12-06"
+upstream_url = "https://manasataramgini.wordpress.com/2013/12/06/a-case-for-avairagyam/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/12/06/a-case-for-avairagyam/).
+
 The teacher had renounced worldly life and become a saffron-robed yati.
 He was teaching the installation of the awful gaNesha for the
 vara-chaturthi rite. In course of that he provided mantra-s that
@@ -19,8 +23,8 @@ vairAgya-shatakaM to learn more and use it as stepping stone to graduate
 to the course on the teachings of aShTAvakra. Thereafter as an appendix
 to the main teaching he asked the students to meditate on the following
 mantra:  
-kAmo hi sarvaduHkhAnAM yoniH | kamo .akArShIn manyur akArShIt kAmaM
-shamaya shamaya manyuM shamaya shamaya vairAgyaM dehi me svAhA ||  
+kAmo hi sarvaduHkhAnAM yoniH \| kamo .akArShIn manyur akArShIt kAmaM
+shamaya shamaya manyuM shamaya shamaya vairAgyaM dehi me svAhA \|\|  
 While uttering svAhA he instructed the students to imagine all their
 desires and anger arising from unfulfilled desires being offered as an
 oblation into the fire and being utterly burnt up.
@@ -32,8 +36,8 @@ shuddhodana-putra. He said: “vairAgyaM is indeed the path but how can
 you attain your goal if the alAtaM within you does not undergo nirvANaM?
 Is the clinging to the reality of your selves not a kAma in itself by
 which you are feeding that ever-hungry alAtaM? buddhaM sharaNaM
-gachChata | dharmaM sharaNaM gachChata | saMghaM sharaNaM gachChata |”
-Even as the students stood confused, we wondered: “though the buddha
+gachChata \| dharmaM sharaNaM gachChata \| saMghaM sharaNaM gachChata
+\|” Even as the students stood confused, we wondered: “though the buddha
 sAkhyamuni might have blown off his alAtaM after a prolonged practice of
 vairAgyaM what about the cosmic buddha who “gave up the ghost” in the
 yonI of the splendid chitrasenA and spat out the buddhakApala tantraM
@@ -43,15 +47,14 @@ teaching therein.
 
 Therein we encountered this beauty:  
 mattebha-kumbha-pariNAhini ku\~NkumArdre  
-kAntA-payodharayuge rati-kheda-khinnaH |  
+kAntA-payodharayuge rati-kheda-khinnaH \|  
 vakSho nidhAya bhuja-pa\~njara-madhyavartI  
-dhanyaH kShapAH kShapayati kShaNa-labdha-nidraH ||
+dhanyaH kShapAH kShapayati kShaNa-labdha-nidraH \|\|
 
 Happy is he who whiles his nights away exhausted by sexual exertion,  
 resting his chest upon his woman’s twin breasts moist with vermillion,  
 that swell like the frontal globes of an elephant in musth and  
-\[therein\] encaged in the midst of her arms may gain sleep in a
-moment\!
+\[therein\] encaged in the midst of her arms may gain sleep in a moment!
 
 That indeed sounded like a high attainment a man might desire to attain.
 To us it seemed as worthy an attainment as that of vairAgyaM, perhaps
@@ -60,7 +63,7 @@ more natural.
 The yati and his followers told us that we were in error, engaging in
 kutarka, even as our coethnic [uddaNDa of Kanchipuram had addressed his
 naMbUthiri rivals as elephants of
-kutarka](https://manasataramgini.wordpress.com/2005/05/29/the-great-chera-magicians/ "The great chera magicians").
+kutarka](https://manasataramgini.wordpress.com/2005/05/29/the-great-chera-magicians/ "The great cheramagicians").
 They explained that the blissful sleep alluded to in the above verse was
 an ephemeral one. Moreover, its perpetual continuation till the point of
 piNDa-patana, as in the case of the tantra-spitting buddhakapAla, was
@@ -108,3 +111,4 @@ in his hands using one as a balance for the other so that he indeed
 resides in the rati-shikharaM even as the bhairava with the
 fair-complexioned mAlinI. Since all this easier said than done one might
 relax and meditate on the Platonic ideal offered by bhartR^ihari.
+

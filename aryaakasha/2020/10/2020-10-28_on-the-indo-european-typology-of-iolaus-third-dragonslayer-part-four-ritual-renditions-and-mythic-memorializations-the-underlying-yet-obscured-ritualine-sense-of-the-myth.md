@@ -1,8 +1,11 @@
 +++
-title = "ON THE INDO-EUROPEAN TYPOLOGY OF IOLAUS – THIRD DRAGONSLAYER  Part Four – Ritual Renditions and Mythic Memorializations : The Underlying Yet Obscured Ritualine Sense Of Thexa0Myth"
-date = "October 28, 2020"
+title = "ON THE INDO-EUROPEAN TYPOLOGY OF IOLAUS – THIRD DRAGONSLAYER  Part Four – Ritual Renditions and Mythic Memorializations : The Underlying Yet Obscured Ritualine Sense Of The Myth"
+date = "2020-10-28"
+upstream_url = "https://aryaakasha.com/2020/10/28/on-the-indo-european-typology-of-iolaus-third-dragonslayer-part-four-ritual-renditions-and-mythic-memorializations-the-underlying-yet-obscured-ritualine-sense-of-the-myth/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/10/28/on-the-indo-european-typology-of-iolaus-third-dragonslayer-part-four-ritual-renditions-and-mythic-memorializations-the-underlying-yet-obscured-ritualine-sense-of-the-myth/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/10/hercules-fighting-with-the-lernaean-hydra-francisco-de-zurbaran.jpg?w=900)
 
 There are, as it happens, multiple renditions of both the Trisiras

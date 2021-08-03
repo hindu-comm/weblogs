@@ -1,7 +1,11 @@
 +++
 title = "In the midst of the rAkShasas"
+date = "2006-06-19"
+upstream_url = "https://manasataramgini.wordpress.com/2006/06/19/in-the-midst-of-the-rakshasas/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/06/19/in-the-midst-of-the-rakshasas/).
+
 Having set the spot for the rendezvous with the svastrI, and having made
 preparations for the life in the wild we moved of to the abyss. We
 wished we were accompanied by the learned muni or the knower of spiders,
@@ -26,3 +30,4 @@ The bricks started to fall;
 where there was once a house,  
 now there was a ruin;  
 the sounds ceased to play.”
+

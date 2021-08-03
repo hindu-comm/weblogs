@@ -1,7 +1,13 @@
 +++
 title = "Jurapterxy- wrong inferences?"
+date = "2006-03-16"
+upstream_url = "https://manasataramgini.wordpress.com/2006/03/16/jurapterxy-wrong-inferences/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/03/16/jurapterxy-wrong-inferences/).
+
+
+
 [![](https://i1.wp.com/photos1.blogger.com/blogger/2010/410/320/boersti.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/boersti.jpg)[![](https://i1.wp.com/photos1.blogger.com/blogger/2010/410/320/boersti_skin.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/boersti_skin.jpg)
 
 Finally the fossil nicknamed Boersti in German was published today. It
@@ -50,3 +56,4 @@ the matter of Jurapteryx not having feathers is likely to be uncertain
 at best. In any case we can be sure that dinosaurian integumentation is
 far from completely understood. But sadly this will give the BANDITs
 (The moronic Feduccia band) more fuel for their fantasies.
+

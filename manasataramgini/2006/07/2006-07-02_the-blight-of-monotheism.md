@@ -1,7 +1,11 @@
 +++
 title = "The blight of Monotheism"
+date = "2006-07-02"
+upstream_url = "https://manasataramgini.wordpress.com/2006/07/02/the-blight-of-monotheism/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/07/02/the-blight-of-monotheism/).
+
 Moving out of the frustration from the futile discussion on the thermal
 stability of acyl monophosphates I began filling Marc up on what I had
 recently learnt from the two hours I had spent with a garrulous Spanish
@@ -13,10 +17,10 @@ Against the Gods: The History of the War Between Monotheism and
 Polytheism by a Jewish author Jonathan Kirsch. I had the chance to
 briefly read through it while waiting for a plane and could see how it
 does have an important message for the West. Many in the West are slaves
-and they do not even know it. They have been mentally **imprisoned by
-the monotheistic dogma of the Abrahamisms. And it is very bold of Kirsch
-to tell the story as it really is. Of course this is one of the few
-clear attempts in the West to tell the some of the story of how the
+and they do not even know it. They have been mentally imprisoned by the
+monotheistic dogma of the Abrahamisms. And it is very bold of Kirsch to
+tell the story as it really is. Of course this is one of the few clear
+attempts in the West to tell the some of the story of how the
 Abrahamisms have brought imprisonment to their minds and death and
 indescribable terror to millions of victims of the infected European
 mind. Truely the Abrahamisms can be described memetic viruses that have
@@ -37,4 +41,5 @@ dangerous monotheisms that we encounter in the middle east. The evidence
 for the difference is very much there for all to see. Especially when
 one compares India to the the wastelands of the diseased mental
 landscape such as the Terrorist State of Pakistan, Iran and the fetid
-sewage called Saudi Arabia. **
+sewage called Saudi Arabia.
+

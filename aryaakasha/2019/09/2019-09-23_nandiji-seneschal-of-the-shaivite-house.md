@@ -1,8 +1,11 @@
 +++
-title = "NandiJi – Seneschal of the Shaivitexa0House"
-date = "September 23, 2019"
+title = "NandiJi – Seneschal of the Shaivite House"
+date = "2019-09-23"
+upstream_url = "https://aryaakasha.com/2019/09/23/nandiji-seneschal-of-the-shaivite-house/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/09/23/nandiji-seneschal-of-the-shaivite-house/).
+
 ![b9d59e26a71b7e48fa1d9d9bc04642b4](https://aryaakasha.files.wordpress.com/2019/09/b9d59e26a71b7e48fa1d9d9bc04642b4.jpg?w=676)
 
 It is Monday – Lord Shiva’s Day ;

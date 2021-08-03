@@ -1,7 +1,11 @@
 +++
 title = "The bhinnayoni vidyA"
+date = "2006-07-02"
+upstream_url = "https://manasataramgini.wordpress.com/2006/07/02/the-bhinnayoni-vidya/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/07/02/the-bhinnayoni-vidya/).
+
 Since I was asked of the famed bhinna yoni vidyA, which powers the mahA
 mAtR^ikA nyAsa I have written it down. Of course its prakaTa as
 pratya\~NgirA needs the inter-twining with the atharvamukha, of which
@@ -25,3 +29,4 @@ ta e ai o au da pha hrIM
 
 The dUtI-s of the nAdi vidya are conjoined with the rudra-s of
 shabdarAshI.
+

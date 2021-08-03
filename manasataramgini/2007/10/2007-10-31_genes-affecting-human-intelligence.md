@@ -1,7 +1,11 @@
 +++
 title = "Genes affecting human intelligence"
+date = "2007-10-31"
+upstream_url = "https://manasataramgini.wordpress.com/2007/10/31/genes-affecting-human-intelligence/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/10/31/genes-affecting-human-intelligence/).
+
 Most people know that there is something tangible called intelligence.
 Ancient Hindus saw it as a tangible entity called buddhi, while modern
 psychometrics uses the concept of general intelligence called g. In the
@@ -85,7 +89,7 @@ during neurotransmitter release. Importantly, it physically interacts
 with SNAP-25 which has also been implicated in intelligence and
 vesicular fusion. Here a mutation in the coding region, resulting in a
 R844H (gi:2224621) substitution, in turn results in increased IQ,
-especially verbal IQ \[ekanetra, I wonder if you have this mutation\!\].
+especially verbal IQ \[ekanetra, I wonder if you have this mutation!\].
 This mutation is in the C2 domain and is close to the residues
 interacting directly with Calcium. We believe that the enhanced RIMS1 IQ
 phenotype might be linked to altered calcium affinity of the molecule.
@@ -161,7 +165,7 @@ congenital Adrenal Hyperplasia but its exact role if any in elevating IQ
 is unclear. The DNA repair group including BRCA1, the Bloom’s syndrome
 helicase and some others have also been implicated along with brain-size
 related genes with related functions such as [ASPM and
-MCPH1](http://manasataramgini.wordpress.com/2005/09/evolving-brain.html).
+MCPH1](http://manollasa.blogspot.com/2005/09/evolving-brain.html).
 However, at least in the case of the latter two no direct association
 with IQ was found. However, ASPM and MCPH1 have been linked to the
 emergence of tonal languages and alphabetic writing, suggesting that in
@@ -169,7 +173,7 @@ combination with some of the established IQ-affecting genes these and
 other DNA repair genes could impact cognitive capacity in facets other
 than that measure by proxies for g.
 
-The case of FADS2:  It has been known from earlier studies that
+The case of FADS2: It has been known from earlier studies that
 breast-feed infants develop significantly higher IQ than non-breastfed
 infants. However, this increase in IQ due to breast-feeding is dependent
 on the presence of a particular allelic variant (SNP: rs174575) in the
@@ -213,3 +217,4 @@ the effects of all possible allelic variants found in different
 populations. So we cannot yet reconstruct purely ground up a measure of
 the amount of inter-population intelligence difference using the current
 molecular data.
+

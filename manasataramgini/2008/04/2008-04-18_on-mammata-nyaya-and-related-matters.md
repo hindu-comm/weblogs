@@ -1,7 +1,11 @@
 +++
 title = "On mammaTa, nyAya and related matters"
+date = "2008-04-18"
+upstream_url = "https://manasataramgini.wordpress.com/2008/04/18/on-mammata-nyaya-and-related-matters/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/04/18/on-mammata-nyaya-and-related-matters/).
+
 The Kashmirian efflorescence was a remarkable, even if a brief phase, in
 the intellectual development of Hindus. Almost simultaneously we witness
 the emergence of several great savants, even as Kashmir defied the
@@ -22,9 +26,9 @@ The learned scholar Ganganath Jha brings attention to a statement that
 used to be prevalent in among brAhmaNa-s whose traditional education
 required the study of mammaTa’s work:  
 kAvyaprakAshasya kR^itA gR^ihe gR^ihe TIkA tathApyeSha tathaiva durgamaH
-|  
+\|  
 TIka-s on the kAvyaprakAsha have been composed in every house yet it
-remains difficult to understand as ever\!
+remains difficult to understand as ever!
 
 Consonant with this statement apparently 49 commentaries are known to
 exist in different states of survival for the KP. The difficulties
@@ -57,21 +61,20 @@ consequence of matter and its interactions, respectively the atomic
 particles and forces; it has only 6 tastes (rasas) and these too not
 always of a pleasant nature.  
 We find mammaTa expressing a rather deep stream of thought here:  
-\-He is firstly contrasting the unconstrained nature of poetic
-expression to the real world, which he described as being governed by
-natural laws. The word he uses is niyati, i.e. niyati shaktyA
-niyata-rupA, to express the natural laws and the form of the universe
-developing by natural laws. This word niyati from the brAhmaNa period
-has been used to describe the natural laws (e.g. in the
-kauShitaki/shAkhAyana brAhmaNa and the shvetAshvatara upaniShat e.g.
-“kAlaH svabhAvo niyatir yadR^icchA bhUtAni yoniH puruSheti cintyam |”
-SU 1.2).  
-\-Then mammaTa goes on to describe the basis for the real world: 1) The
+-He is firstly contrasting the unconstrained nature of poetic expression
+to the real world, which he described as being governed by natural laws.
+The word he uses is niyati, i.e. niyati shaktyA niyata-rupA, to express
+the natural laws and the form of the universe developing by natural
+laws. This word niyati from the brAhmaNa period has been used to
+describe the natural laws (e.g. in the kauShitaki/shAkhAyana brAhmaNa
+and the shvetAshvatara upaniShat e.g. “kAlaH svabhAvo niyatir yadR^icchA
+bhUtAni yoniH puruSheti cintyam \|” SU 1.2).  
+-Then mammaTa goes on to describe the basis for the real world: 1) The
 substantial cause or matter (upAdAna) is comprised of the evolutes of
 the fundamental particles i.e. paramANvadi. 2) The causes governing
 cooperation or interactions (sahakAri-kAraNa) which are the forces i.e.
 karmAdi.  
-\-Finally he uses a pun to mention that in our sensory sphere we
+-Finally he uses a pun to mention that in our sensory sphere we
 distinguish 6 tastes, in contrast to the 9 rasa-s typical of poetic
 imagination.  
 Thus, we see that the naturalistic theory for the basis of the universe
@@ -80,19 +83,19 @@ interactions, so succinctly presented by mammaTa, is clearly that of
 nyAya-vaisheShika thought.
 
 Then mammaTa goes on to describe the essentials for being a kavi:  
-shaktir-nipuNatA loka-shAstra-kAvyAdyavekShaNAt |  
-kAvyaj\~na-shikShayAbhyAsa iti hetus-tadudbhave || 3
+shaktir-nipuNatA loka-shAstra-kAvyAdyavekShaNAt \|  
+kAvyaj\~na-shikShayAbhyAsa iti hetus-tadudbhave \|\| 3
 
 shaktiH kavitvabIjarUpaH saMskAra-visheShaH yAM vinA kAvyaM na prasaret
-prasR^itaM vA upahasanIyaM syAt | lokasya
-sthAvara-ja\~NgamAtmaka-loka-vR^ittasya | shAstrANAM
+prasR^itaM vA upahasanIyaM syAt \| lokasya
+sthAvara-ja\~NgamAtmaka-loka-vR^ittasya \| shAstrANAM
 Chando-vyAkaraNa-abhidhAna-kosha-kalA-chaturvarga-gaja-turaga-khaDgAdi-lakShaNa-granthAnAm
-| kAvyAnAM cha mahAkavi-saMbandhinAm | AdigrahaNAd-itihAsAnAM cha
-vimarshanAdvy-utpattiH |  
+\| kAvyAnAM cha mahAkavi-saMbandhinAm \| AdigrahaNAd-itihAsAnAM cha
+vimarshanAdvy-utpattiH \|  
 kAvyaM kartuM vichArayituM cha ye jAnanti tad-upadeshena karaNe yojane
-cha paunaH-punyena pravR^ittir-iti | trayaH samuditAH na chu
+cha paunaH-punyena pravR^ittir-iti \| trayaH samuditAH na chu
 vyastAs-tasya kAvyasyodbhave nirmANe samullAse cha hetur-na tu hetavaH
-||
+\|\|
 
 The kArika first summarizes the essentials:  
 “Poetic genius, knowledge gained from study of the world, of scholarly
@@ -136,3 +139,4 @@ again as in the case of kShemendra we observe that the medieval Hindu
 kavi maintained continuity in spirit with the kavi-s of the veda, even
 though the veda was no longer counted along with classical kAvya – they
 were not mere versifiers but holders of knowledge.
+

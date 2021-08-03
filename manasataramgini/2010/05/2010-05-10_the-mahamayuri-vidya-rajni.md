@@ -1,7 +1,11 @@
 +++
 title = "The mahAmAyUrI-vidyA-rAj~nI"
+date = "2010-05-10"
+upstream_url = "https://manasataramgini.wordpress.com/2010/05/10/the-mahamayuri-vidya-rajni/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/05/10/the-mahamayuri-vidya-rajni/).
+
 [![](https://i2.wp.com/lh5.ggpht.com/_hjuA1bE0hBw/S_lmujepAFI/AAAAAAAABbg/GV0iEUfv7-A/s400/temp1.jpg)](http://picasaweb.google.com/lh/photo/EjtYLcDfTPfm4zb_2SwFdQ?feat=embedwebsite)
 
 We had earlier mentioned how the mahAmAyUrI-vidyA-rAj\~nI (MVR), an
@@ -84,7 +88,7 @@ hari haripi\~Ngale laMbe pralaMbe kAlapAshe kAlashodari yamadUti
 yamarAkShasi bhUtagrasani pratIchChatha mAM gandhaM puShpaM dhUpaM baliM
 cha dAsyAmi rakShatha mama sagaNa-parivArANAM sarva-satvAnAMsh cha
 sarva-bhayopadravebhyaH jIvatu varSha-shataM pashyatu sharadA-shataM
-sidhyantu me mantrapadAH svAhA ||  
+sidhyantu me mantrapadAH svAhA \|\|  
 While the 17 female deities invoked in this formula in the typical
 Astika pa\~nchopachAra style are considered to be rAkShasi-s by the
 nAstika-s, it is clear that they are a primitive form of the system of
@@ -92,8 +96,8 @@ nAstika-s, it is clear that they are a primitive form of the system of
 
 Then further ahead as the tathAgata begins convey the mantra-s to Ananda
 we encounter formulae such as:  
-rAtrau svasti divA svasti svasti madhyaMdine sthite |  
-svasti sarvaM aho-rAtraM sarvabuddhA dishantu me ||
+rAtrau svasti divA svasti svasti madhyaMdine sthite \|  
+svasti sarvaM aho-rAtraM sarvabuddhA dishantu me \|\|
 
 This mantra is a clear example of the nAstika imitation of a vaidika
 mantra which is duly termed svastyayana so that it could take the place
@@ -112,28 +116,28 @@ dhR^itarAShTra and airAvata are also among the first to be invoked in
 the vaidika sarpa-bali. Likewise, another notable sarpa invoked in both
 the MVR and the sarpa-bali mantra-s is takShaka. The MVR sarpa section
 has a mantra:  
-pR^ithivIcharAsh cha ye nAgAs tathaiva jalanishritAH |  
-antarIkShacharA ye cha ye cha meru samAshritAH ||
+pR^ithivIcharAsh cha ye nAgAs tathaiva jalanishritAH \|  
+antarIkShacharA ye cha ye cha meru samAshritAH \|\|
 
 This clearly appears to be a nAstika paraphrase of renowned vaidika
 sarpa-bali mantra (or its aitihAsika equivalent in the mahAbhArata):  
-namo .astu sarpebhyo ye ke ca pR^ithivIm anu |  
-ye antarikShe ye divi tebhyaH sarpebhyo namaH ||  
-ye .ado rocane divo ye vA sUryasya rashmiShu |  
-yeShAm apsu sadas kR^itaM tebhyaH sarpebhyo namaH ||
+namo .astu sarpebhyo ye ke ca pR^ithivIm anu \|  
+ye antarikShe ye divi tebhyaH sarpebhyo namaH \|\|  
+ye .ado rocane divo ye vA sUryasya rashmiShu \|  
+yeShAm apsu sadas kR^itaM tebhyaH sarpebhyo namaH \|\|
 
 The below mantra from the MVR with the ma hiMsi also resembles similar
 vaidika formulae including those used in the initial fire ritual of the
 sarpa-bali:  
-mA me apAdakA hiMsyur mA me hiMsyur dvipAdakAH |  
-mA me chatuShpadA hiMsyur mA me hiMsyur bahupAdakAH ||
+mA me apAdakA hiMsyur mA me hiMsyur dvipAdakAH \|  
+mA me chatuShpadA hiMsyur mA me hiMsyur bahupAdakAH \|\|
 
 Furthermore, we could also connect the namaH formulae ending the MVR
 sarpa section to the shveta vaidarva namaH formulate at the end of the
 sarpa-bali (with the irregularities of nAstika saMskR^ita):  
-namo .astu muktAya namo .astu muktaye |  
-namo .astu shAntAya namo .astu shAntaye |  
-namo vimuktAya namo vimuktaye ||
+namo .astu muktAya namo .astu muktaye \|  
+namo .astu shAntAya namo .astu shAntaye \|  
+namo vimuktAya namo vimuktaye \|\|
 
 This is followed by a group of low complexity mantra-s replete with
 onomatopoeic excesses that sound more like Gullah of the Carolinas (of
@@ -151,7 +155,7 @@ sudumbe sudumoDe dalime santuvaTTe busavaTTe vusara vusara dhanavastrake
 narkalA narkalime khalime ghoShe rakhile iti sajjale tumbe sutumbe aTTe
 naTTe pranaTTe aNanaTTe anamAle varShatu devo navodakena sarvataH
 samantena nArAyaNi pArAyaNi haritAli kuntAli ili misti kili misti ili
-kili misti ili me sidhyantu drAmiDA mantrapadAH svAhA ||
+kili misti ili me sidhyantu drAmiDA mantrapadAH svAhA \|\|
 
 \[elements like kuTTi, aDakavAtyAyAM, aTTe etc could be of Dravidian
 origin\]
@@ -164,7 +168,7 @@ dasha mahAvidyA system and also as the saMgIta-yoginI of the shrIkula
 system:  
 bale balkale mAta\~Ngi chaNDali puruSha nichi nichi nigauri gandhAri
 chaNDAli mAta\~Ngi mAlini hili hili Agati gati gauri gandhAri kauShThikA
-vachari vihAri hili hili ku\~Nje svAhA ||  
+vachari vihAri hili hili ku\~Nje svAhA \|\|  
 The phase “gauri gandhAri” also emerges in an early mantra of the
 pA\~ncharAtrika-s, the viShNumAyA.
 
@@ -180,13 +184,13 @@ kArttikeya shrine in rohitaka and another one of nejameSha at
 pA\~NchAla; another indra at vaidisha; there was a lambodara (a
 vinAyaka?) in Orissa.
 
-An onomatopoeic mantra attributed to indra from the MVR:  
+An onomatopoeic mantra attributed to indrafrom the MVR:  
 jalA jantule chApeTi jantule mathani ghaTani grasani hari hari shiri
 dyoti shire tataru tataru Nabati siMhA hA hA hA hA hA siMhe dhiti dhiti
 kuru kuru shabare vajre jyoti tuTa tuTasi baTa baTasi sili sili kapile
 kapilamUle hA hI hUm sarvaduShTa praduShTAnAM jaMbhana karomi
 hasta-pAdA\~Nga-nigrahaM karomi saha tridashehi devehi DaTa\~Ngini
-surapativarti vajra vajra vajra vajra vajra vajra vajrapataye svAhA ||
+surapativarti vajra vajra vajra vajra vajra vajra vajrapataye svAhA \|\|
 
 One point to note in the MVR is the set of mantra-s known as the daNDa
 parihAra mantra-s. These mantra-s invoke yakSha-s in the cardinal
@@ -214,7 +218,7 @@ viShNu-chakra-tejohataM viShaM agni-tejohataM viShaM
 varuNa-pAsha-tejohataM viShaM asura-mAyA-hataM viShaM nAga-vidyA-hataM
 viShaM rudra-shUla-tejohataM viShaM skanda-shakti-tejohataM viShaM
 mahAmAyUrI-vidyA-hataM viShaM bhUmyA saMkrAmatu viShaM svastyayanaM
-bhavatu ||
+bhavatu \|\|
 
 The first part is clearly a nAstika header which lists the various
 bauddha entities whose luster is invoked to smite the venom, such as: 1)
@@ -233,42 +237,42 @@ dhAranI, which the tathAgata is supposed to have expounded as per
 mahAyAna tradition in koshAmbi. At its heart it is an adaptation of a
 lakShmI sAdhAna padded with a lot of nAstika periphrase:
 
-mUlamantra: OM shriye shrIkari svAhA | om dhanakari dhAnyakari
-ratna-varShaNi svAhA ||  
-sAdhya-mantra: OM vasudhAre svAhA ||  
-hR^idayam: OM lakShmyai svAhA ||  
-upahR^idayam: OM lakShmI bhUtala-nivAsine svAhA | saM yathA daM OM
-yAnapAtrAvahe svAhA ||  
+mUlamantra: OM shriye shrIkari svAhA \| om dhanakari dhAnyakari
+ratna-varShaNi svAhA \|\|  
+sAdhya-mantra: OM vasudhAre svAhA \|\|  
+hR^idayam: OM lakShmyai svAhA \|\|  
+upahR^idayam: OM lakShmI bhUtala-nivAsine svAhA \| saM yathA daM OM
+yAnapAtrAvahe svAhA \|\|  
 mA dUragAminI anutpannAnAM dravyAnAm-utpAdini utpannAnAM dravyAnAM
 vR^iddhiMkari truTe 2 liTe 2 ita 2 AgachChAgachCha bhagavati mA vilambaM
-manorathaM me paripUraya ||  
+manorathaM me paripUraya \|\|  
 dashabhyo digbhyo yathodaka-dhArA paripUrayanti mahIM  
 yathA tamAMsi bhAskaro rashminA vidhyApayati chiraMtanAni  
-yathA shashI shItAMshunA niShpAdayaty auShadhIH ||
+yathA shashI shItAMshunA niShpAdayaty auShadhIH \|\|
 
-indro vaivasvatash-caiva varuNo dhanado yathA|  
-manonugAminI siddhiM cintayanti sadA nR^iNAm ||
+indro vaivasvatash-caiva varuNo dhanado yathA\|  
+manonugAminI siddhiM cintayanti sadA nR^iNAm \|\|
 
-tadyathA| suTa 2 khaTa 2 khiTi 2 khuTu 2 maru 2 mu\~ncha 2 maru\~ncha 2
+tadyathA\| suTa 2 khaTa 2 khiTi 2 khuTu 2 maru 2 mu\~ncha 2 maru\~ncha 2
 tarpiNi 2 tarjani 2 dehi 2 dApaya 2 uttiShTa 2 hiraNya-suvarNaM
-pradApaya svAhA || annapAnAya svAhA | vasunipAtAya svAhA | gauH svAhA |
-surabhe svAhA | vasu svAhA| vasupataye svAhA ||  
-indrAya svAhA | yamAya svAhA | varuNAya svAhA | vaishravaNAya svAhA |
-digbhyo vidigbhyaH svAhA ||
+pradApaya svAhA \|\| annapAnAya svAhA \| vasunipAtAya svAhA \| gauH
+svAhA \| surabhe svAhA \| vasu svAhA\| vasupataye svAhA \|\|  
+indrAya svAhA \| yamAya svAhA \| varuNAya svAhA \| vaishravaNAya svAhA
+\| digbhyo vidigbhyaH svAhA \|\|
 
 Here the nAstika retains the typical Astika deva-s to be worshiped in
 the cardinal directions rather than deploying the mahArAja-s.
 
 Another later example is seen in the
 Arya-sarva-tathAgatoShNISha-sitAta-patrA-nAmaparAjitA pratya\~NgirA:  
-namo loke arhatAnAm | namaH srotApannAnAm | namaH sakR^id-AgAminAm |
-namo anAgAminAm | namo loke samyag-gatAnAm | namaH samyak-pratipannAnAm
-| namo devarShINAm | namo deva-brahmaNe | namo buddhAya | namo bhagavate
-rudrAya umA-sahitAya | namo varuNAya | namo bhagavate nArAyaNAya |
-mahA-pa\~ncha-mudrA namaH namaskR^itAya | namo bhagavate
-nandikeshvara-mahAkAlAya | tripura-nagara-vidrAvaNa-karAya|
-avimuktika-kashmIra-mahA-shmashAna-nivAsitAya | namo
-mAtR^i-gaNa-sahitAya | 
+namo loke arhatAnAm \| namaH srotApannAnAm \| namaH sakR^id-AgAminAm \|
+namo anAgAminAm \| namo loke samyag-gatAnAm \| namaH
+samyak-pratipannAnAm \| namo devarShINAm \| namo deva-brahmaNe \| namo
+buddhAya \| namo bhagavate rudrAya umA-sahitAya \| namo varuNAya \| namo
+bhagavate nArAyaNAya \| mahA-pa\~ncha-mudrA namaH namaskR^itAya \| namo
+bhagavate nandikeshvara-mahAkAlAya \| tripura-nagara-vidrAvaNa-karAya\|
+avimuktika-kashmIra-mahA-shmashAna-nivAsitAya \| namo
+mAtR^i-gaNa-sahitAya \|
 
 Here the nAstika mixes in the Astika devatA-s rudra, varuNa, nArAyaNa
 and specifically adapts a number of shaiva elements such as the pair of
@@ -286,7 +290,7 @@ a mAtR^ikA list from which the sapta-/aShTa- mAtR^ikA list crystallized.
 The MVR list, explicitly described as dvAdasha mAtaraH, goes thus:
 
 brAhmI raudrI kaumArI vaiShNavI aindrI vArAhI kauverI vAruNI yAmyA
-vAyuvyA AgneyI mahAkAlI cheti |
+vAyuvyA AgneyI mahAkAlI cheti \|
 
 We observe that the great epic and its appendix (including the
 AryA-stava-s and the accounts of ekAnaMshA) do not mention the 7/8
@@ -298,8 +302,8 @@ promulgated by the gobhila dharmashAstra of the sAmaveda tradition
 (1.11-12). Finally, we have an old list of goddess invoked in the ritual
 to the gnA-s and patnI-s in fr R^igveda:
 
-uta gnA vyantu devapatnIr indrANy agnAyy ashvinI rAT |  
-A rodasI varuNAnI shR^iNotu vyantu devIr ya R^itur janInAm || (RV
+uta gnA vyantu devapatnIr indrANy agnAyy ashvinI rAT \|  
+A rodasI varuNAnI shR^iNotu vyantu devIr ya R^itur janInAm \|\| (RV
 5.46.8); See also (RV 1.22.12).
 
 In the above mantra, the goddesses indrANi, agnAyi, ashvinI, rAT, rodasI
@@ -317,7 +321,7 @@ of goddess with another old concept, i.e. the specific group of 7
 goddesses. This latter concept is also is also seen multiply in the RV,
 e.g.:
 
-sapta svasAro abhi mAtaraH shishuM navaM jaGYAnaM jenyaM vipashchitam |
+sapta svasAro abhi mAtaraH shishuM navaM jaGYAnaM jenyaM vipashchitam \|
 RV 9.86.36ab
 
 Beyond the veda, this group of seven sister goddesses had a pervasive
@@ -338,10 +342,10 @@ pattern continues a tradition, which, as we have seen before, began in
 the vedic ritual of the nakShatreShTi. Thus, the tAthAgata-s have
 composed rough parallels to the nakShatra sUkta-s in their mantra
 material:  
-kR^ittikA rohiNI chaiva mR^igashirArdrA punarvasuH |  
-puShyo ma\~Ngala-saMpanno .ashleShA bhavati saptamI ||  
-ity ete sapta-nakShatrAH pUrva-dvArikAsthitAH|  
-ye pUrvAM dishaM rakShanti paripAlayanti ||
+kR^ittikA rohiNI chaiva mR^igashirArdrA punarvasuH \|  
+puShyo ma\~Ngala-saMpanno .ashleShA bhavati saptamI \|\|  
+ity ete sapta-nakShatrAH pUrva-dvArikAsthitAH\|  
+ye pUrvAM dishaM rakShanti paripAlayanti \|\|
 
 Interestingly, a parallel nakShatra-sUkta was transmitted to the
 Mongols. In the ruins of the Olon Sueme site in Inner Mongolia (now
@@ -372,21 +376,21 @@ crested serpent eagle. Not surprisingly both of them provide archetypes
 for the deities that are invoked to counter venom – mahAmayUrI and
 garuDa. The former has a long history in this regard that goes back to
 the sUkta-s of the RV and AV:  
-triH sapta mayUryaH sapta svasAro agruvaH |  
-tAste viShaM vi jabhrira udakaM kumbhinIriva || (RV 1.191.14)
+triH sapta mayUryaH sapta svasAro agruvaH \|  
+tAste viShaM vi jabhrira udakaM kumbhinIriva \|\| (RV 1.191.14)
 
 Here not just the 21 peahens but also the 7 sister goddess are invoked
 to neutralize the venom. We believe that there is more to this mantra
 than meets the eye in the obvious sense.
 
-adanti tvA pipIlikA vi vR^ishchanti mayUryaH |  
-sarve bhala bravAtha shArkoTam arasaM viSham || (AV-vulgate 7.56.7)
+adanti tvA pipIlikA vi vR^ishchanti mayUryaH \|  
+sarve bhala bravAtha shArkoTam arasaM viSham \|\| (AV-vulgate 7.56.7)
 
-mayUro .atra vR^ishchikaM mayUraM vayaM vidmasi |  
-taM pari parijambhanaM vR^ishchika jambhanam asi || (AV-P 19.47.2)
+mayUro .atra vR^ishchikaM mayUraM vayaM vidmasi \|  
+taM pari parijambhanaM vR^ishchika jambhanam asi \|\| (AV-P 19.47.2)
 
-yas tanuH pR^ithur vINA vadha iva prasarpati |  
-mayUraH kila te viShaM kR^ikavAkush cha jakShatu || (AV-P 20.38.3)
+yas tanuH pR^ithur vINA vadha iva prasarpati \|  
+mayUraH kila te viShaM kR^ikavAkush cha jakShatu \|\| (AV-P 20.38.3)
 
 Here peahens (and ants in the first verse) are invoked to render the
 venom ineffectual or eat up either of two different kinds of scorpions,
@@ -451,9 +455,9 @@ atharva-shabarI is specifically derived from the archetype of the tribal
 girl (a kairAtikA kumAri) from a mountainous region, who is described as
 discovering medicinal substances in the atharvaveda:
 
-kairAtikA kumArikA sakA khanati bheShajam |  
-hiraNyayIbhir abhribhir girInAm upa sAnuShu || AV-vulgate 10.4.14= AV-P
-16.16.4
+kairAtikA kumArikA sakA khanati bheShajam \|  
+hiraNyayIbhir abhribhir girInAm upa sAnuShu \|\| AV-vulgate 10.4.14=
+AV-P 16.16.4
 
 So it is not the origin of mantra-shAstra from the tribals, rather
 imagery of tribal elements providing archetypes for the Indo-Aryans in
@@ -469,3 +473,4 @@ the Tamil country in the south) that are distant from the “middle
 country”. Such toponymic descriptions of deities might also be observed
 in the fire hymns of the Mongols where the fire is invoked as the one
 which is worshiped in India or in China.
+

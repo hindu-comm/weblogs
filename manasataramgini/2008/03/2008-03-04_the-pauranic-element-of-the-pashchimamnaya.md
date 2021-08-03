@@ -1,7 +1,11 @@
 +++
-title = "The “paurANic” element of thexa0pashchimAmnAya"
+title = "The “paurANic” element of the pashchimAmnAya"
+date = "2008-03-04"
+upstream_url = "https://manasataramgini.wordpress.com/2008/03/04/the-pauranic-element-of-the-pashchimamnaya/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/03/04/the-pauranic-element-of-the-pashchimamnaya/).
+
 In the days after the fierce battle of dvAdashAnta, after we had
 overthrown the kR^ityAstra that struck us, we were resting in the city
 of the karnATa-s. There while meditating on the aghora mantra we

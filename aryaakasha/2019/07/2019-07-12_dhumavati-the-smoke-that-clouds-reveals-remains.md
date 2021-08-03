@@ -1,8 +1,11 @@
 +++
-title = "Dhumavati – The Smoke That Clouds, Reveals,xa0Remains"
-date = "July 12, 2019"
+title = "Dhumavati – The Smoke That Clouds, Reveals, Remains"
+date = "2019-07-12"
+upstream_url = "https://aryaakasha.com/2019/07/12/dhumavati-the-smoke-that-clouds-reveals-remains/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/07/12/dhumavati-the-smoke-that-clouds-reveals-remains/).
+
 ![64774782_2341619389261390_3786919964377239921_n](https://aryaakasha.files.wordpress.com/2019/07/64774782_2341619389261390_3786919964377239921_n.jpg?w=676)
 
 Today, I think, is a Day for Dhumavati.

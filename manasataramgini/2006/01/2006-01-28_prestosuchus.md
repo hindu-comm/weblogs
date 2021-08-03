@@ -1,7 +1,13 @@
 +++
 title = "Prestosuchus"
+date = "2006-01-28"
+upstream_url = "https://manasataramgini.wordpress.com/2006/01/28/prestosuchus/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/01/28/prestosuchus/).
+
+
+
 [![Posted by
 Picasa](https://i1.wp.com/photos1.blogger.com/pbp.gif)](http://picasa.google.com/blogger/)
 
@@ -14,3 +20,4 @@ of the suchian archosaurs remain far less understood than the
 ornithodiran clade. Prestosuchus from south America has a skull (above)
 that is a meter long and might have been upto 5 meters in length preying
 vigorously on Triassic synapsids, dinosaurs and other reptiles.
+

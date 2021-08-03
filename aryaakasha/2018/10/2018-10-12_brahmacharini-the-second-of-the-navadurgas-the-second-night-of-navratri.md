@@ -1,8 +1,11 @@
 +++
-title = "Brahmacharini – The Second of the NavaDurgas, The Second Night ofxa0NavRatri"
-date = "October 12, 2018"
+title = "Brahmacharini – The Second of the NavaDurgas, The Second Night of NavRatri"
+date = "2018-10-12"
+upstream_url = "https://aryaakasha.com/2018/10/12/brahmacharini-the-second-of-the-navadurgas-the-second-night-of-navratri/"
 
 +++
+Source: [here](https://aryaakasha.com/2018/10/12/brahmacharini-the-second-of-the-navadurgas-the-second-night-of-navratri/).
+
 ![24-1427181031-brahmacharini-devi-navratri](https://aryaakasha.files.wordpress.com/2018/10/24-1427181031-brahmacharini-devi-navratri.jpg?w=676)  
 The Second Night of #NavRatri is dedicated to Ma as Brahmacharini – the
 Seeker of the Absolute. This is a rather direct rendering of Her

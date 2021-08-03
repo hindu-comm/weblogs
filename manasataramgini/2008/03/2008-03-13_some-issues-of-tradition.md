@@ -1,14 +1,18 @@
 +++
 title = "Some issues of tradition"
+date = "2008-03-13"
+upstream_url = "https://manasataramgini.wordpress.com/2008/03/13/some-issues-of-tradition/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/03/13/some-issues-of-tradition/).
+
 In discussions with R and some others a few topics have repeatedly come
 up. While I am tempted to delve into them in depth, I feel my study of
 the data on these matters is inadequate to present as definitive a view
 as I would like. But I still cannot hold back the temptation to place
 few points here, despite my incomplete study. The main topics in
 question are:  
-1\) What is the origin of shrIvidyA and what were the original forms of
+1) What is the origin of shrIvidyA and what were the original forms of
 the shrIvidyA mantra-s? The pa\~nchadashI and its derivative were
 definitely not the earliest forms, and we have briefly discussed
 pre-pa\~nchadashI shrIvidyA and bAlA which were earlier. In a sense the
@@ -22,14 +26,14 @@ evolution). abhinavagupta in developing anuttara-trika from the existing
 trika systems actually consciously follows this pattern. The roots of
 shrIvidyA lie in the early kula texts, which also spawned other kula
 traditions like kAli-kula, samayA-kula and the poorly studied tvaritA.  
-2\) Is prapa\~nchasAra’s shrIvidyA the pa\~nchadashI? While the
+2) Is prapa\~nchasAra’s shrIvidyA the pa\~nchadashI? While the
 commentarial tradition might hint the tripura-bhairavI form, the root
 tantra itself seems to primarily follow the bAlA mantra.  
-3\) Was mokSha the original goal of shrIvidyA? It was just one of the
+3) Was mokSha the original goal of shrIvidyA? It was just one of the
 many goals generally acknowledged by kaula systems.  
-4\) Was advaita vedAnta connected to shrIvidyA from its inception? Is
-the mahApaduka mantra a “genuine” aspect of shrIvidyA? Are sha\~Nkara
-and gauDapAda really connected to shrIvidyA?  
+4) Was advaita vedAnta connected to shrIvidyA from its inception? Is the
+mahApaduka mantra a “genuine” aspect of shrIvidyA? Are sha\~Nkara and
+gauDapAda really connected to shrIvidyA?  
 advaita vedAnta has its origins in one set of the diverse ideas
 presented by philosophers from the vedic period. Its subsequent
 development stood on the great philosophical exegesis of sha\~Nkara’s
@@ -92,8 +96,8 @@ all tAntrIka-s.
 \[\*1\] praj\~nAnaM brahma; tat-tvam-asi; ayaM AtmA; brahma aham
 brahmAsmi; .  
 \[\*2\] dharmatrAta rendering the words of the tathAgata in devabhASha
-states in the udAnavarga: ene mene tathA dapphe daDapphe cheti |
-sarvasmAd viratiH pApAd duHkhasyAnto niruchyate || 26.18  
+states in the udAnavarga: ene mene tathA dapphe daDapphe cheti \|
+sarvasmAd viratiH pApAd duHkhasyAnto niruchyate \|\| 26.18  
 \[\*3\] Thus we see Brahmins of originally smArta origin diversifying in
 their practice into, for example, non-mantra mArga pa\~nchAyatana
 shivopAsana with otherwise purely smArta norms, smArta mantra-mArga
@@ -104,3 +108,4 @@ the smArta norms (though considering shivadharma primary) and
 bhairavAchAra mantra-mArgin-s who transgressed smArta norms. Thus, in
 these diverse movements the scholastic tradition emerged from the smArta
 ranks.
+

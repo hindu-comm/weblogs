@@ -1,7 +1,11 @@
 +++
 title = "Skaldskaparmal"
+date = "2004-06-22"
+upstream_url = "https://manasataramgini.wordpress.com/2004/06/22/skaldskaparmal/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/06/22/skaldskaparmal/).
+
 How shall the great one be referred to?  
   
 He is father of the gods Magni and Modi and of goddess Thrud. He is the
@@ -65,3 +69,4 @@ yet was the dark Svivor’s life taken earlier \[5\].
 4-the thunder bolt  
   
 5- Names of demons and demonesses who fell to Thor.
+

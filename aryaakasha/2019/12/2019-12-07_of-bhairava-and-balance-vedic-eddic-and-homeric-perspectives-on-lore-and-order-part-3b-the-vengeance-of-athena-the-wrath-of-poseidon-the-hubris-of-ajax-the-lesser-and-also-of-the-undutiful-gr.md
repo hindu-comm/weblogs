@@ -1,8 +1,11 @@
 +++
-title = "OF BHAIRAVA AND BALANCE – Vedic, Eddic, and Homeric perspectives on Lore and Order [Part 3B]: The Vengeance of Athena, The Wrath of Poseidon, The Hubris Of Ajax the Lesser And Also Of The Undutifulxa0Greeks"
-date = "December 7, 2019"
+title = "OF BHAIRAVA AND BALANCE – Vedic, Eddic, and Homeric perspectives on Lore and Order [Part 3B]: The Vengeance of Athena, The Wrath of Poseidon, The Hubris Of Ajax the Lesser And Also Of The Undutiful Greeks"
+date = "2019-12-07"
+upstream_url = "https://aryaakasha.com/2019/12/07/of-bhairava-and-balance-vedic-eddic-and-homeric-perspectives-on-lore-and-order-part-3b-the-vengeance-of-athena-the-wrath-of-poseidon-the-hubris-of-ajax-the-lesser-and-also-of-the-undutiful-gr/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/12/07/of-bhairava-and-balance-vedic-eddic-and-homeric-perspectives-on-lore-and-order-part-3b-the-vengeance-of-athena-the-wrath-of-poseidon-the-hubris-of-ajax-the-lesser-and-also-of-the-undutiful-gr/).
+
 ![](https://aryaakasha.files.wordpress.com/2019/12/79465275_10162647484940574_5662198348598214656_n.jpg?w=567)
 
 Two further points shall be made here before we move on to our third

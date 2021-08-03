@@ -1,8 +1,11 @@
 +++
-title = "Quenching Cyrus’ Blood-Thirst – The Tale Of Tomyris Of The Massagetae , A #GangSteppexa0Exegesis"
-date = "January 16, 2021"
+title = "Quenching Cyrus’ Blood-Thirst – The Tale Of Tomyris Of The Massagetae , A #GangSteppe Exegesis"
+date = "2021-01-16"
+upstream_url = "https://aryaakasha.com/2021/01/16/quenching-cyrus-blood-thirst-the-tale-of-tomyris-of-the-massagetae-a-gangsteppe-exegesis/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/01/16/quenching-cyrus-blood-thirst-the-tale-of-tomyris-of-the-massagetae-a-gangsteppe-exegesis/).
+
 ![‘The Queen Tomyris with Cyrus II’ – Art by
 [Mossacannibalis](https://twitter.com/mossacannibalis/status/1337981962410106880)](https://aryaakasha.files.wordpress.com/2021/01/epf3t3wu8am-wlq.jpg?w=1024)
 

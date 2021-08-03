@@ -1,8 +1,11 @@
 +++
-title = "On The Ongoing Woeful Misappropriation Of Kali Ma When Western Metapolitical Commentators Write About Kalixa0Yuga"
-date = "June 25, 2017"
+title = "On The Ongoing Woeful Misappropriation Of Kali Ma When Western Metapolitical Commentators Write About Kali Yuga"
+date = "2017-06-25"
+upstream_url = "https://aryaakasha.com/2017/06/25/on-the-ongoing-woeful-misappropriation-of-kali-ma-when-western-metapolitical-commentators-write-about-kali-yuga/"
 
 +++
+Source: [here](https://aryaakasha.com/2017/06/25/on-the-ongoing-woeful-misappropriation-of-kali-ma-when-western-metapolitical-commentators-write-about-kali-yuga/).
+
 ![KaliImWithHer](https://aryaakasha.files.wordpress.com/2017/06/kaliimwithher.jpg?w=676)
 
 I am pretty annoyed right now at the ongoing attempts at misusing

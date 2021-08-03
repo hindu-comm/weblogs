@@ -1,7 +1,11 @@
 +++
 title = "1859 CE and beyond: Some reflections"
+date = "2018-12-29"
+upstream_url = "https://manasataramgini.wordpress.com/2018/12/29/1859-ce-and-beyond-some-reflections/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2018/12/29/1859-ce-and-beyond-some-reflections/).
+
 The yuga between 1800 CE and 1900 CE saw a remarkable change in our
 understanding of the world at many levels. It is not that some of these
 ideas did not exist long before that time but they came together in a
@@ -50,14 +54,14 @@ in addition to his note on the prediction of a new planet. Thus, with
 Encke not observing, Johann Galle and his student Heinrich d’Arrest got
 to use the telescope that night of receiving the Le Verrier’s letter.
 They discovered Neptune with
-![1^o](https://s0.wp.com/latex.php?latex=1%5Eo&bg=ffffff&fg=333333&s=0
-"1^o") degree of the position he had predicted. When we saw Neptune for
-the first time after quite some difficulty with our small refractor, we
-were able to appreciate the triumph of Galle. This was the ultimate
-triumph of Newtonian mechanics and Encke fittingly wrote to Le Verrier:
-“Your name will be forever linked with the most outstanding
-conceivable proof of the validity of universal gravitation.” By this
-Encke meant the Newtonian theory of gravitation.
+![1^o](https://s0.wp.com/latex.php?latex=1%5Eo&bg=ffffff&fg=333333&s=0&c=20201002)
+degree of the position he had predicted. When we saw Neptune for the
+first time after quite some difficulty with our small refractor, we were
+able to appreciate the triumph of Galle. This was the ultimate triumph
+of Newtonian mechanics and Encke fittingly wrote to Le Verrier: “Your
+name will be forever linked with the most outstanding conceivable proof
+of the validity of universal gravitation.” By this Encke meant the
+Newtonian theory of gravitation.
 
 But there was something ironic about Le Verrier’s life’s work. Before
 his study of Uranus leading the prediction Neptune, he had worked on the
@@ -66,27 +70,26 @@ days the ordinary urban man rarely catches a glimpse of (I remember all
 the times I’ve seen it). Going through calculations involving hundreds
 of terms he calculated an excess of precession for the orbit of Mercury
 which could not be accounted for by Newtonian mechanics (September
-![12^{th}](https://s0.wp.com/latex.php?latex=12%5E%7Bth%7D&bg=ffffff&fg=333333&s=0
-"12^{th}") 1859). While the same trick of postulating an additional
-planet or other anomalies were tried, none of them really worked.
-Ironically the universality of Newtonian gravitation, which Encke
-thought Le Verrier had proven, now stood to be surpassed. This of course
-took a while to happen but seeds had been sowed by the new geometry of
-Bernhard Riemann. This laid the foundation for Einstein’s theory which
-came in the next century. At the same time as solving the excess
-precession problem of Mercury, Einstein as also predicted the existence
-of gravitational waves. Observations of binary pulsars in 1974
-indirectly suggested he was right. With the direct detection of
-gravitational waves in the current century of the common era this
-prediction of Einstein has finally received its direct confirmation.
-Thus, one of the pillars of physics in the realm of the “big” was
-established.
+![12^{th}](https://s0.wp.com/latex.php?latex=12%5E%7Bth%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+1859). While the same trick of postulating an additional planet or other
+anomalies were tried, none of them really worked. Ironically the
+universality of Newtonian gravitation, which Encke thought Le Verrier
+had proven, now stood to be surpassed. This of course took a while to
+happen but seeds had been sowed by the new geometry of Bernhard Riemann.
+This laid the foundation for Einstein’s theory which came in the next
+century. At the same time as solving the excess precession problem of
+Mercury, Einstein as also predicted the existence of gravitational
+waves. Observations of binary pulsars in 1974 indirectly suggested he
+was right. With the direct detection of gravitational waves in the
+current century of the common era this prediction of Einstein has
+finally received its direct confirmation. Thus, one of the pillars of
+physics in the realm of the “big” was established.
 
 \[As an aside, talking of Riemann 1859 was also the year he published
 his famous paper establishing the relationship between the zeroes of the
-![\\zeta](https://s0.wp.com/latex.php?latex=%5Czeta&bg=ffffff&fg=333333&s=0
-"\\zeta") function in the complex plane and the distribution of the
-prime numbers.\]
+![\\zeta](https://s0.wp.com/latex.php?latex=%5Czeta&bg=ffffff&fg=333333&s=0&c=20201002)
+function in the complex plane and the distribution of the prime
+numbers.\]
 
 **The Small**  
 The 21 year old Gustav Kirchhoff, while still a student, discovered his
@@ -102,225 +105,204 @@ work that in October of 1859 CE that he reported his observations on how
 the D-lines in the solar spectrum are further darkened when passed
 through a Bunsen burner flame with sodium. These observations culminated
 in Kirchhoff’s famous spectroscopic laws:  
-1\) An incandescent solid, or a liquid or a gas under high pressure
+1) An incandescent solid, or a liquid or a gas under high pressure
 produces a continuous spectrum, i.e. like a rainbow of colors.  
-2\) A gas under low pressure produces an emission spectrum, i.e. one
-with bright-lines of specific frequency.  
-3\) A continuous spectrum when viewed through a cooler low-density gas
+2) A gas under low pressure produces an emission spectrum, i.e. one with
+bright-lines of specific frequency.  
+3) A continuous spectrum when viewed through a cooler low-density gas
 produces an absorption spectrum, i.e dark lines are seen superimposed on
 the continuous spectrum. These correspond to the bright lines produced
 when the same substance is heated and producing an emission spectrum.
 
 The frequency
-![\\nu](https://s0.wp.com/latex.php?latex=%5Cnu&bg=ffffff&fg=333333&s=0
-"\\nu") at which the absorption or emission lines are seen depends on
-the substances emitting or absorbing light and the temperature to which
-they are heated. Further, by the end of 1859, using the rather
-elementary device of the below thought experiment, Kirchhoff arrived at
-a basic theorem for the continuous spectrum:
+![\\nu](https://s0.wp.com/latex.php?latex=%5Cnu&bg=ffffff&fg=333333&s=0&c=20201002)
+at which the absorption or emission lines are seen depends on the
+substances emitting or absorbing light and the temperature to which they
+are heated. Further, by the end of 1859, using the rather elementary
+device of the below thought experiment, Kirchhoff arrived at a basic
+theorem for the continuous spectrum:
 
 [![Kirchhoff](https://manasataramgini.files.wordpress.com/2018/12/Kirchhoff.png?w=644&h=516)](https://manasataramgini.files.wordpress.com/2018/12/Kirchhoff.png)Figure
 1
 
 Let
-![P\_1](https://s0.wp.com/latex.php?latex=P_1&bg=ffffff&fg=333333&s=0
-"P_1") and
-![P\_2](https://s0.wp.com/latex.php?latex=P_2&bg=ffffff&fg=333333&s=0
-"P_2") be 2 isolated, infinite, opaque (do not allow transmission energy
+![P_1](https://s0.wp.com/latex.php?latex=P_1&bg=ffffff&fg=333333&s=0&c=20201002)
+and
+![P_2](https://s0.wp.com/latex.php?latex=P_2&bg=ffffff&fg=333333&s=0&c=20201002)
+be 2 isolated, infinite, opaque (do not allow transmission energy
 through them) plates (as caricatured in Figure 1) in thermodynamic
 equilibrium, i.e. they are at the same absolute temperature
-![T](https://s0.wp.com/latex.php?latex=T&bg=ffffff&fg=333333&s=0 "T")
+![T](https://s0.wp.com/latex.php?latex=T&bg=ffffff&fg=333333&s=0&c=20201002)
 and the inflow of energy and outflow of energy into either plate is in
 balance. Let us even assume they are made of different materials as
 indicated by the different colors in Figure 1. Let us consider the
 following for a particular frequency of radiation
-![\\nu](https://s0.wp.com/latex.php?latex=%5Cnu&bg=ffffff&fg=333333&s=0
-"\\nu"). Let ![a\_1,
-a\_2](https://s0.wp.com/latex.php?latex=a_1%2C+a_2&bg=ffffff&fg=333333&s=0
-"a_1, a_2") be the absorptivity of the 2 plates, i.e. the amount of
-radiant energy absorbed per unit time per unit area. Let ![e\_1,
-e\_2](https://s0.wp.com/latex.php?latex=e_1%2C+e_2&bg=ffffff&fg=333333&s=0
-"e_1, e_2") be the emissivity of the 2 plates, i.e. the amount of energy
-they radiate per unit time per unit area. Now the some of the energy
-incident on them is absorbed while the rest is reflected. This defines
-the respective reflectivities as ![r\_1=1-a\_1,
-r\_2=1-a\_2](https://s0.wp.com/latex.php?latex=r_1%3D1-a_1%2C+r_2%3D1-a_2&bg=ffffff&fg=333333&s=0
-"r_1=1-a_1, r_2=1-a_2"). Now, for
-![P\_1](https://s0.wp.com/latex.php?latex=P_1&bg=ffffff&fg=333333&s=0
-"P_1") the outflow of energy per unit time per unit area is
-![e\_1](https://s0.wp.com/latex.php?latex=e_1&bg=ffffff&fg=333333&s=0
-"e_1"). Being in thermodynamic equilibrium it is in balance with its
-inflow
-![\\iota\_1](https://s0.wp.com/latex.php?latex=%5Ciota_1&bg=ffffff&fg=333333&s=0
-"\\iota_1").
+![\\nu](https://s0.wp.com/latex.php?latex=%5Cnu&bg=ffffff&fg=333333&s=0&c=20201002).
+Let ![a_1,
+a_2](https://s0.wp.com/latex.php?latex=a_1%2C+a_2&bg=ffffff&fg=333333&s=0&c=20201002)
+be the absorptivity of the 2 plates, i.e. the amount of radiant energy
+absorbed per unit time per unit area. Let ![e_1,
+e_2](https://s0.wp.com/latex.php?latex=e_1%2C+e_2&bg=ffffff&fg=333333&s=0&c=20201002)
+be the emissivity of the 2 plates, i.e. the amount of energy they
+radiate per unit time per unit area. Now the some of the energy incident
+on them is absorbed while the rest is reflected. This defines the
+respective reflectivities as ![r_1=1-a_1,
+r_2=1-a_2](https://s0.wp.com/latex.php?latex=r_1%3D1-a_1%2C+r_2%3D1-a_2&bg=ffffff&fg=333333&s=0&c=20201002).
+Now, for
+![P_1](https://s0.wp.com/latex.php?latex=P_1&bg=ffffff&fg=333333&s=0&c=20201002)
+the outflow of energy per unit time per unit area is
+![e_1](https://s0.wp.com/latex.php?latex=e_1&bg=ffffff&fg=333333&s=0&c=20201002).
+Being in thermodynamic equilibrium it is in balance with its inflow
+![\\iota_1](https://s0.wp.com/latex.php?latex=%5Ciota_1&bg=ffffff&fg=333333&s=0&c=20201002).
 
 We can analyze
-![\\iota\_1](https://s0.wp.com/latex.php?latex=%5Ciota_1&bg=ffffff&fg=333333&s=0
-"\\iota_1") thus:  
-1\) As the first chain of inflow
-![P\_1](https://s0.wp.com/latex.php?latex=P_1&bg=ffffff&fg=333333&s=0
-"P_1") receives
-![e\_2](https://s0.wp.com/latex.php?latex=e_2&bg=ffffff&fg=333333&s=0
-"e_2") from
-![P\_2](https://s0.wp.com/latex.php?latex=P_2&bg=ffffff&fg=333333&s=0
-"P_2"). Of this it absorbs ![a\_1
-e\_2](https://s0.wp.com/latex.php?latex=a_1+e_2&bg=ffffff&fg=333333&s=0
-"a_1 e_2") (the first order absorption) and reflects ![r\_1
-e\_2](https://s0.wp.com/latex.php?latex=r_1+e_2&bg=ffffff&fg=333333&s=0
-"r_1 e_2"). This is incident on
-![P\_2](https://s0.wp.com/latex.php?latex=P_2&bg=ffffff&fg=333333&s=0
-"P_2") which reflects back ![r\_1 e\_2
-r\_2](https://s0.wp.com/latex.php?latex=r_1+e_2+r_2&bg=ffffff&fg=333333&s=0
-"r_1 e_2 r_2"). Of this
-![P\_1](https://s0.wp.com/latex.php?latex=P_1&bg=ffffff&fg=333333&s=0
-"P_1") absorbs ![a\_1 e\_2 r\_1
-r\_2](https://s0.wp.com/latex.php?latex=a_1+e_2+r_1+r_2&bg=ffffff&fg=333333&s=0
-"a_1 e_2 r_1 r_2") (second order absorption) and reflects back ![e\_2
-r\_1^2
-r\_2](https://s0.wp.com/latex.php?latex=e_2+r_1%5E2+r_2&bg=ffffff&fg=333333&s=0
-"e_2 r_1^2 r_2"). In turn
-![P\_2](https://s0.wp.com/latex.php?latex=P_2&bg=ffffff&fg=333333&s=0
-"P_2") reflects back ![e\_2 (r\_1
-r\_2)^2](https://s0.wp.com/latex.php?latex=e_2+%28r_1+r_2%29%5E2&bg=ffffff&fg=333333&s=0
-"e_2 (r_1 r_2)^2") of which
-![P\_1](https://s0.wp.com/latex.php?latex=P_1&bg=ffffff&fg=333333&s=0
-"P_1") absorbs ![a\_1 e\_2 (r\_1
-r\_2)^2](https://s0.wp.com/latex.php?latex=a_1+e_2+%28r_1+r_2%29%5E2&bg=ffffff&fg=333333&s=0
-"a_1 e_2 (r_1 r_2)^2").
-![P\_1](https://s0.wp.com/latex.php?latex=P_1&bg=ffffff&fg=333333&s=0
-"P_1") reflects back ![e\_2
-r\_1^3r\_2^2](https://s0.wp.com/latex.php?latex=e_2+r_1%5E3r_2%5E2&bg=ffffff&fg=333333&s=0
-"e_2 r_1^3r_2^2") and the chain continues *ad infinitum*. Thus, we can
-write the first component of
-![\\iota\_1](https://s0.wp.com/latex.php?latex=%5Ciota_1&bg=ffffff&fg=333333&s=0
-"\\iota_1") as:
+![\\iota_1](https://s0.wp.com/latex.php?latex=%5Ciota_1&bg=ffffff&fg=333333&s=0&c=20201002)
+thus:  
+1) As the first chain of inflow
+![P_1](https://s0.wp.com/latex.php?latex=P_1&bg=ffffff&fg=333333&s=0&c=20201002)
+receives
+![e_2](https://s0.wp.com/latex.php?latex=e_2&bg=ffffff&fg=333333&s=0&c=20201002)
+from
+![P_2](https://s0.wp.com/latex.php?latex=P_2&bg=ffffff&fg=333333&s=0&c=20201002).
+Of this it absorbs ![a_1
+e_2](https://s0.wp.com/latex.php?latex=a_1+e_2&bg=ffffff&fg=333333&s=0&c=20201002)
+(the first order absorption) and reflects ![r_1
+e_2](https://s0.wp.com/latex.php?latex=r_1+e_2&bg=ffffff&fg=333333&s=0&c=20201002).
+This is incident on
+![P_2](https://s0.wp.com/latex.php?latex=P_2&bg=ffffff&fg=333333&s=0&c=20201002)
+which reflects back ![r_1 e_2
+r_2](https://s0.wp.com/latex.php?latex=r_1+e_2+r_2&bg=ffffff&fg=333333&s=0&c=20201002).
+Of this
+![P_1](https://s0.wp.com/latex.php?latex=P_1&bg=ffffff&fg=333333&s=0&c=20201002)
+absorbs ![a_1 e_2 r_1
+r_2](https://s0.wp.com/latex.php?latex=a_1+e_2+r_1+r_2&bg=ffffff&fg=333333&s=0&c=20201002)
+(second order absorption) and reflects back ![e_2 r_1^2
+r_2](https://s0.wp.com/latex.php?latex=e_2+r_1%5E2+r_2&bg=ffffff&fg=333333&s=0&c=20201002).
+In turn
+![P_2](https://s0.wp.com/latex.php?latex=P_2&bg=ffffff&fg=333333&s=0&c=20201002)
+reflects back ![e_2 (r_1
+r_2)^2](https://s0.wp.com/latex.php?latex=e_2+%28r_1+r_2%29%5E2&bg=ffffff&fg=333333&s=0&c=20201002)
+of which
+![P_1](https://s0.wp.com/latex.php?latex=P_1&bg=ffffff&fg=333333&s=0&c=20201002)
+absorbs ![a_1 e_2 (r_1
+r_2)^2](https://s0.wp.com/latex.php?latex=a_1+e_2+%28r_1+r_2%29%5E2&bg=ffffff&fg=333333&s=0&c=20201002).
+![P_1](https://s0.wp.com/latex.php?latex=P_1&bg=ffffff&fg=333333&s=0&c=20201002)
+reflects back ![e_2
+r_1^3r_2^2](https://s0.wp.com/latex.php?latex=e_2+r_1%5E3r_2%5E2&bg=ffffff&fg=333333&s=0&c=20201002)
+and the chain continues *ad infinitum*. Thus, we can write the first
+component of
+![\\iota_1](https://s0.wp.com/latex.php?latex=%5Ciota_1&bg=ffffff&fg=333333&s=0&c=20201002)
+as:
 
-![a\_1 e\_2+a\_1 e\_2 r\_1 r\_2+ a\_1 e\_2 (r\_1 r\_2)^2+a\_1 e\_2 (r\_1
-r\_2)^3+...\\\\\[5pt\] =a\_1 e\_2(1+r\_1 r\_2+ (r\_1 r\_2)^2+(r\_1
-r\_2)^3+...)\\\\\[5pt\] =\\dfrac{a\_1 e\_2}{1-r\_1
-r\_2}](https://s0.wp.com/latex.php?latex=a_1+e_2%2Ba_1+e_2+r_1+r_2%2B+a_1+e_2+%28r_1+r_2%29%5E2%2Ba_1+e_2+%28r_1+r_2%29%5E3%2B...%5C%5C%5B5pt%5D+%3Da_1+e_2%281%2Br_1+r_2%2B+%28r_1+r_2%29%5E2%2B%28r_1+r_2%29%5E3%2B...%29%5C%5C%5B5pt%5D+%3D%5Cdfrac%7Ba_1+e_2%7D%7B1-r_1+r_2%7D&bg=ffffff&fg=333333&s=0
-"a_1 e_2+a_1 e_2 r_1 r_2+ a_1 e_2 (r_1 r_2)^2+a_1 e_2 (r_1 r_2)^3+...\\\\[5pt] =a_1 e_2(1+r_1 r_2+ (r_1 r_2)^2+(r_1 r_2)^3+...)\\\\[5pt] =\\dfrac{a_1 e_2}{1-r_1 r_2}")
+![a_1 e_2+a_1 e_2 r_1 r_2+ a_1 e_2 (r_1 r_2)^2+a_1 e_2 (r_1
+r_2)^3+...\\\\\[5pt\] =a_1 e_2(1+r_1 r_2+ (r_1 r_2)^2+(r_1
+r_2)^3+...)\\\\\[5pt\] =\\dfrac{a_1 e_2}{1-r_1
+r_2}](https://s0.wp.com/latex.php?latex=a_1+e_2%2Ba_1+e_2+r_1+r_2%2B+a_1+e_2+%28r_1+r_2%29%5E2%2Ba_1+e_2+%28r_1+r_2%29%5E3%2B...%5C%5C%5B5pt%5D+%3Da_1+e_2%281%2Br_1+r_2%2B+%28r_1+r_2%29%5E2%2B%28r_1+r_2%29%5E3%2B...%29%5C%5C%5B5pt%5D+%3D%5Cdfrac%7Ba_1+e_2%7D%7B1-r_1+r_2%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 
 The last step is obtained via the limit of the infinite sum of a
-geometric series given that ![0 \\le r\_1
-r\_2\<1](https://s0.wp.com/latex.php?latex=0+%5Cle+r_1+r_2%3C1&bg=ffffff&fg=333333&s=0
-"0 \\le r_1 r_2\<1")
+geometric series given that ![0 \\le r_1
+r_2\<1](https://s0.wp.com/latex.php?latex=0+%5Cle+r_1+r_2%3C1&bg=ffffff&fg=333333&s=0&c=20201002)
 
 2\) The second chain of inflow goes thus:
-![P\_1](https://s0.wp.com/latex.php?latex=P_1&bg=ffffff&fg=333333&s=0
-"P_1") emits
-![e\_1](https://s0.wp.com/latex.php?latex=e_1&bg=ffffff&fg=333333&s=0
-"e_1") of which
-![P\_2](https://s0.wp.com/latex.php?latex=P_2&bg=ffffff&fg=333333&s=0
-"P_2") reflects back ![e\_1
-r\_2](https://s0.wp.com/latex.php?latex=e_1+r_2&bg=ffffff&fg=333333&s=0
-"e_1 r_2"). Of this
-![P\_1](https://s0.wp.com/latex.php?latex=P_1&bg=ffffff&fg=333333&s=0
-"P_1") absorbs ![a\_1 e\_1
-r\_2](https://s0.wp.com/latex.php?latex=a_1+e_1+r_2&bg=ffffff&fg=333333&s=0
-"a_1 e_1 r_2") and reflects back ![e\_1 r\_1
-r\_2](https://s0.wp.com/latex.php?latex=e_1+r_1+r_2&bg=ffffff&fg=333333&s=0
-"e_1 r_1 r_2"). Of this
-![P\_2](https://s0.wp.com/latex.php?latex=P_2&bg=ffffff&fg=333333&s=0
-"P_2") reflects back ![e\_1 r\_1
-r\_2^2](https://s0.wp.com/latex.php?latex=e_1+r_1+r_2%5E2&bg=ffffff&fg=333333&s=0
-"e_1 r_1 r_2^2"). Of this
-![P\_1](https://s0.wp.com/latex.php?latex=P_1&bg=ffffff&fg=333333&s=0
-"P_1") absorbs ![a\_1 e\_1 r\_1
-r\_2^2](https://s0.wp.com/latex.php?latex=a_1+e_1+r_1+r_2%5E2&bg=ffffff&fg=333333&s=0
-"a_1 e_1 r_1 r_2^2") and reflects back ![e\_1 (r\_1
-r\_2)^2](https://s0.wp.com/latex.php?latex=e_1+%28r_1+r_2%29%5E2&bg=ffffff&fg=333333&s=0
-"e_1 (r_1 r_2)^2"). Of this
-![P\_2](https://s0.wp.com/latex.php?latex=P_2&bg=ffffff&fg=333333&s=0
-"P_2") reflects back ![e\_1 r\_1^2
-r\_2^3](https://s0.wp.com/latex.php?latex=e_1+r_1%5E2+r_2%5E3&bg=ffffff&fg=333333&s=0
-"e_1 r_1^2 r_2^3"). Thus, we can write the second component of
-![\\iota\_1](https://s0.wp.com/latex.php?latex=%5Ciota_1&bg=ffffff&fg=333333&s=0
-"\\iota_1"):
+![P_1](https://s0.wp.com/latex.php?latex=P_1&bg=ffffff&fg=333333&s=0&c=20201002)
+emits
+![e_1](https://s0.wp.com/latex.php?latex=e_1&bg=ffffff&fg=333333&s=0&c=20201002)
+of which
+![P_2](https://s0.wp.com/latex.php?latex=P_2&bg=ffffff&fg=333333&s=0&c=20201002)
+reflects back ![e_1
+r_2](https://s0.wp.com/latex.php?latex=e_1+r_2&bg=ffffff&fg=333333&s=0&c=20201002).
+Of this
+![P_1](https://s0.wp.com/latex.php?latex=P_1&bg=ffffff&fg=333333&s=0&c=20201002)
+absorbs ![a_1 e_1
+r_2](https://s0.wp.com/latex.php?latex=a_1+e_1+r_2&bg=ffffff&fg=333333&s=0&c=20201002)
+and reflects back ![e_1 r_1
+r_2](https://s0.wp.com/latex.php?latex=e_1+r_1+r_2&bg=ffffff&fg=333333&s=0&c=20201002).
+Of this
+![P_2](https://s0.wp.com/latex.php?latex=P_2&bg=ffffff&fg=333333&s=0&c=20201002)
+reflects back ![e_1 r_1
+r_2^2](https://s0.wp.com/latex.php?latex=e_1+r_1+r_2%5E2&bg=ffffff&fg=333333&s=0&c=20201002).
+Of this
+![P_1](https://s0.wp.com/latex.php?latex=P_1&bg=ffffff&fg=333333&s=0&c=20201002)
+absorbs ![a_1 e_1 r_1
+r_2^2](https://s0.wp.com/latex.php?latex=a_1+e_1+r_1+r_2%5E2&bg=ffffff&fg=333333&s=0&c=20201002)
+and reflects back ![e_1 (r_1
+r_2)^2](https://s0.wp.com/latex.php?latex=e_1+%28r_1+r_2%29%5E2&bg=ffffff&fg=333333&s=0&c=20201002).
+Of this
+![P_2](https://s0.wp.com/latex.php?latex=P_2&bg=ffffff&fg=333333&s=0&c=20201002)
+reflects back ![e_1 r_1^2
+r_2^3](https://s0.wp.com/latex.php?latex=e_1+r_1%5E2+r_2%5E3&bg=ffffff&fg=333333&s=0&c=20201002).
+Thus, we can write the second component of
+![\\iota_1](https://s0.wp.com/latex.php?latex=%5Ciota_1&bg=ffffff&fg=333333&s=0&c=20201002):
 
-![a\_1 e\_1 r\_2+a\_1 e\_1 r\_1 r\_2^2+ a\_1 e\_1 r\_1^2
-r\_2^3+...\\\\\[5pt\] =a\_1 e\_1 r\_2(1+r\_1 r\_2+ (r\_1 r\_2)^2+(r\_1
-r\_2)^3+...) \\\\\[5pt\] =\\dfrac{a\_1 e\_1 r\_2}{1-r\_1 r\_2}\\\\
-\[5pt\] \\therefore \\iota\_1 = \\dfrac{a\_1 e\_2}{1-r\_1 r\_2}
-+\\dfrac{a\_1 e\_1 r\_2}{1-r\_1 r\_2} = \\dfrac{a\_1 e\_2+a\_1 e\_1
-r\_2}{1-r\_1
-r\_2}](https://s0.wp.com/latex.php?latex=a_1+e_1+r_2%2Ba_1+e_1+r_1+r_2%5E2%2B+a_1+e_1+r_1%5E2+r_2%5E3%2B...%5C%5C%5B5pt%5D+%3Da_1+e_1+r_2%281%2Br_1+r_2%2B+%28r_1+r_2%29%5E2%2B%28r_1+r_2%29%5E3%2B...%29+%5C%5C%5B5pt%5D+%3D%5Cdfrac%7Ba_1+e_1+r_2%7D%7B1-r_1+r_2%7D%5C%5C+%5B5pt%5D+%5Ctherefore+%5Ciota_1+%3D+%5Cdfrac%7Ba_1+e_2%7D%7B1-r_1+r_2%7D+%2B%5Cdfrac%7Ba_1+e_1+r_2%7D%7B1-r_1+r_2%7D+%3D+%5Cdfrac%7Ba_1+e_2%2Ba_1+e_1+r_2%7D%7B1-r_1+r_2%7D&bg=ffffff&fg=333333&s=0
-"a_1 e_1 r_2+a_1 e_1 r_1 r_2^2+ a_1 e_1 r_1^2 r_2^3+...\\\\[5pt] =a_1 e_1 r_2(1+r_1 r_2+ (r_1 r_2)^2+(r_1 r_2)^3+...) \\\\[5pt] =\\dfrac{a_1 e_1 r_2}{1-r_1 r_2}\\\\ [5pt] \\therefore \\iota_1 = \\dfrac{a_1 e_2}{1-r_1 r_2} +\\dfrac{a_1 e_1 r_2}{1-r_1 r_2} = \\dfrac{a_1 e_2+a_1 e_1 r_2}{1-r_1 r_2}")
+![a_1 e_1 r_2+a_1 e_1 r_1 r_2^2+ a_1 e_1 r_1^2 r_2^3+...\\\\\[5pt\] =a_1
+e_1 r_2(1+r_1 r_2+ (r_1 r_2)^2+(r_1 r_2)^3+...) \\\\\[5pt\] =\\dfrac{a_1
+e_1 r_2}{1-r_1 r_2}\\\\ \[5pt\] \\therefore \\iota_1 = \\dfrac{a_1
+e_2}{1-r_1 r_2} +\\dfrac{a_1 e_1 r_2}{1-r_1 r_2} = \\dfrac{a_1 e_2+a_1
+e_1 r_2}{1-r_1
+r_2}](https://s0.wp.com/latex.php?latex=a_1+e_1+r_2%2Ba_1+e_1+r_1+r_2%5E2%2B+a_1+e_1+r_1%5E2+r_2%5E3%2B...%5C%5C%5B5pt%5D+%3Da_1+e_1+r_2%281%2Br_1+r_2%2B+%28r_1+r_2%29%5E2%2B%28r_1+r_2%29%5E3%2B...%29+%5C%5C%5B5pt%5D+%3D%5Cdfrac%7Ba_1+e_1+r_2%7D%7B1-r_1+r_2%7D%5C%5C+%5B5pt%5D+%5Ctherefore+%5Ciota_1+%3D+%5Cdfrac%7Ba_1+e_2%7D%7B1-r_1+r_2%7D+%2B%5Cdfrac%7Ba_1+e_1+r_2%7D%7B1-r_1+r_2%7D+%3D+%5Cdfrac%7Ba_1+e_2%2Ba_1+e_1+r_2%7D%7B1-r_1+r_2%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 
-Given the thermodynamic equilibrium ![e\_1 =
-\\iota\_1](https://s0.wp.com/latex.php?latex=e_1+%3D+%5Ciota_1&bg=ffffff&fg=333333&s=0
-"e_1 = \\iota_1"); hence,
+Given the thermodynamic equilibrium ![e_1 =
+\\iota_1](https://s0.wp.com/latex.php?latex=e_1+%3D+%5Ciota_1&bg=ffffff&fg=333333&s=0&c=20201002);
+hence,
 
-![e\_1= \\dfrac{a\_1 e\_2+a\_1 e\_1 r\_2}{1-r\_1
-r\_2}](https://s0.wp.com/latex.php?latex=e_1%3D+%5Cdfrac%7Ba_1+e_2%2Ba_1+e_1+r_2%7D%7B1-r_1+r_2%7D&bg=ffffff&fg=333333&s=0
-"e_1= \\dfrac{a_1 e_2+a_1 e_1 r_2}{1-r_1 r_2}")
+![e_1= \\dfrac{a_1 e_2+a_1 e_1 r_2}{1-r_1
+r_2}](https://s0.wp.com/latex.php?latex=e_1%3D+%5Cdfrac%7Ba_1+e_2%2Ba_1+e_1+r_2%7D%7B1-r_1+r_2%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 
 We can rearrange the equation as:  
-![(1-r\_1 r\_2-a\_1 r\_2) e\_1=a\_1
-e\_2](https://s0.wp.com/latex.php?latex=%281-r_1+r_2-a_1+r_2%29+e_1%3Da_1+e_2&bg=ffffff&fg=333333&s=0
-"(1-r_1 r_2-a_1 r_2) e_1=a_1 e_2")
+![(1-r_1 r_2-a_1 r_2) e_1=a_1
+e_2](https://s0.wp.com/latex.php?latex=%281-r_1+r_2-a_1+r_2%29+e_1%3Da_1+e_2&bg=ffffff&fg=333333&s=0&c=20201002)
 
-Dividing both sides by ![a\_1
-a\_2](https://s0.wp.com/latex.php?latex=a_1+a_2&bg=ffffff&fg=333333&s=0
-"a_1 a_2") we get:  
-![\\dfrac{1-r\_1 r\_2 -a\_1 r\_2}{a\_2} \\left (\\dfrac{e\_1}{a\_1}
-\\right) =
-\\dfrac{e\_2}{a\_2}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B1-r_1+r_2+-a_1+r_2%7D%7Ba_2%7D+%5Cleft+%28%5Cdfrac%7Be_1%7D%7Ba_1%7D+%5Cright%29+%3D+%5Cdfrac%7Be_2%7D%7Ba_2%7D&bg=ffffff&fg=333333&s=0
-"\\dfrac{1-r_1 r_2 -a_1 r_2}{a_2} \\left (\\dfrac{e_1}{a_1} \\right) = \\dfrac{e_2}{a_2}")
+Dividing both sides by ![a_1
+a_2](https://s0.wp.com/latex.php?latex=a_1+a_2&bg=ffffff&fg=333333&s=0&c=20201002)
+we get:  
+![\\dfrac{1-r_1 r_2 -a_1 r_2}{a_2} \\left (\\dfrac{e_1}{a_1} \\right) =
+\\dfrac{e_2}{a_2}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B1-r_1+r_2+-a_1+r_2%7D%7Ba_2%7D+%5Cleft+%28%5Cdfrac%7Be_1%7D%7Ba_1%7D+%5Cright%29+%3D+%5Cdfrac%7Be_2%7D%7Ba_2%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 
 Given that
-![r\_1=1-a\_1](https://s0.wp.com/latex.php?latex=r_1%3D1-a_1&bg=ffffff&fg=333333&s=0
-"r_1=1-a_1") and
-![r\_2=1-a\_2](https://s0.wp.com/latex.php?latex=r_2%3D1-a_2&bg=ffffff&fg=333333&s=0
-"r_2=1-a_2") we can hence write the above as:
+![r_1=1-a_1](https://s0.wp.com/latex.php?latex=r_1%3D1-a_1&bg=ffffff&fg=333333&s=0&c=20201002)
+and
+![r_2=1-a_2](https://s0.wp.com/latex.php?latex=r_2%3D1-a_2&bg=ffffff&fg=333333&s=0&c=20201002)
+we can hence write the above as:
 
-![\\dfrac{1-r\_1 r\_2 -((1 -r\_1) r\_2)}{1-r\_2} \\left
-(\\dfrac{e\_1}{a\_1} \\right) = \\dfrac{e\_2}{a\_2} \\\\\[5pt\]
-\\therefore \\dfrac{e\_1}{a\_1} =
-\\dfrac{e\_2}{a\_2}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B1-r_1+r_2+-%28%281+-r_1%29+r_2%29%7D%7B1-r_2%7D+%5Cleft+%28%5Cdfrac%7Be_1%7D%7Ba_1%7D+%5Cright%29+%3D+%5Cdfrac%7Be_2%7D%7Ba_2%7D+%5C%5C%5B5pt%5D+%5Ctherefore+%5Cdfrac%7Be_1%7D%7Ba_1%7D+%3D+%5Cdfrac%7Be_2%7D%7Ba_2%7D&bg=ffffff&fg=333333&s=0
-"\\dfrac{1-r_1 r_2 -((1 -r_1) r_2)}{1-r_2} \\left (\\dfrac{e_1}{a_1} \\right) = \\dfrac{e_2}{a_2} \\\\[5pt] \\therefore \\dfrac{e_1}{a_1} = \\dfrac{e_2}{a_2}")
+![\\dfrac{1-r_1 r_2 -((1 -r_1) r_2)}{1-r_2} \\left (\\dfrac{e_1}{a_1}
+\\right) = \\dfrac{e_2}{a_2} \\\\\[5pt\] \\therefore \\dfrac{e_1}{a_1} =
+\\dfrac{e_2}{a_2}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B1-r_1+r_2+-%28%281+-r_1%29+r_2%29%7D%7B1-r_2%7D+%5Cleft+%28%5Cdfrac%7Be_1%7D%7Ba_1%7D+%5Cright%29+%3D+%5Cdfrac%7Be_2%7D%7Ba_2%7D+%5C%5C%5B5pt%5D+%5Ctherefore+%5Cdfrac%7Be_1%7D%7Ba_1%7D+%3D+%5Cdfrac%7Be_2%7D%7Ba_2%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 
 Similarly, from
-![P\_2](https://s0.wp.com/latex.php?latex=P_2&bg=ffffff&fg=333333&s=0
-"P_2") we can write:
+![P_2](https://s0.wp.com/latex.php?latex=P_2&bg=ffffff&fg=333333&s=0&c=20201002)
+we can write:
 
-![e\_2= \\dfrac{a\_2 e\_1+a\_2 e\_2 r\_1}{1-r\_1 r\_2}\\\\\[5pt\]
-\\therefore \\dfrac{1-r\_1 r\_2 -a\_2 r\_1}{a\_1} \\left
-(\\dfrac{e\_2}{a\_2} \\right)=\\dfrac{e\_1}{a\_1}\\\\\[5pt\] \\therefore
-\\dfrac{e\_2}{a\_2} =
-\\dfrac{e\_1}{a\_1}](https://s0.wp.com/latex.php?latex=e_2%3D+%5Cdfrac%7Ba_2+e_1%2Ba_2+e_2+r_1%7D%7B1-r_1+r_2%7D%5C%5C%5B5pt%5D+%5Ctherefore+%5Cdfrac%7B1-r_1+r_2+-a_2+r_1%7D%7Ba_1%7D+%5Cleft+%28%5Cdfrac%7Be_2%7D%7Ba_2%7D+%5Cright%29%3D%5Cdfrac%7Be_1%7D%7Ba_1%7D%5C%5C%5B5pt%5D+%5Ctherefore+%5Cdfrac%7Be_2%7D%7Ba_2%7D+%3D+%5Cdfrac%7Be_1%7D%7Ba_1%7D&bg=ffffff&fg=333333&s=0
-"e_2= \\dfrac{a_2 e_1+a_2 e_2 r_1}{1-r_1 r_2}\\\\[5pt] \\therefore \\dfrac{1-r_1 r_2 -a_2 r_1}{a_1} \\left (\\dfrac{e_2}{a_2} \\right)=\\dfrac{e_1}{a_1}\\\\[5pt] \\therefore \\dfrac{e_2}{a_2} = \\dfrac{e_1}{a_1}")
+![e_2= \\dfrac{a_2 e_1+a_2 e_2 r_1}{1-r_1 r_2}\\\\\[5pt\] \\therefore
+\\dfrac{1-r_1 r_2 -a_2 r_1}{a_1} \\left (\\dfrac{e_2}{a_2}
+\\right)=\\dfrac{e_1}{a_1}\\\\\[5pt\] \\therefore \\dfrac{e_2}{a_2} =
+\\dfrac{e_1}{a_1}](https://s0.wp.com/latex.php?latex=e_2%3D+%5Cdfrac%7Ba_2+e_1%2Ba_2+e_2+r_1%7D%7B1-r_1+r_2%7D%5C%5C%5B5pt%5D+%5Ctherefore+%5Cdfrac%7B1-r_1+r_2+-a_2+r_1%7D%7Ba_1%7D+%5Cleft+%28%5Cdfrac%7Be_2%7D%7Ba_2%7D+%5Cright%29%3D%5Cdfrac%7Be_1%7D%7Ba_1%7D%5C%5C%5B5pt%5D+%5Ctherefore+%5Cdfrac%7Be_2%7D%7Ba_2%7D+%3D+%5Cdfrac%7Be_1%7D%7Ba_1%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 
 Thus, irrespective of the material composition of the plates, their
 ratios of emissivity to absorptivity are the same. Since this analysis
 was done for a given frequency of radiation ![\\nu =
-\\tfrac{1}{\\lambda}](https://s0.wp.com/latex.php?latex=%5Cnu+%3D+%5Ctfrac%7B1%7D%7B%5Clambda%7D&bg=ffffff&fg=333333&s=0
-"\\nu = \\tfrac{1}{\\lambda}") (where
-![\\lambda](https://s0.wp.com/latex.php?latex=%5Clambda&bg=ffffff&fg=333333&s=0
-"\\lambda") is the wavelength of the radiation) at a certain equilibrium
-temperature
-![T](https://s0.wp.com/latex.php?latex=T&bg=ffffff&fg=333333&s=0 "T"),
+\\tfrac{1}{\\lambda}](https://s0.wp.com/latex.php?latex=%5Cnu+%3D+%5Ctfrac%7B1%7D%7B%5Clambda%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+(where
+![\\lambda](https://s0.wp.com/latex.php?latex=%5Clambda&bg=ffffff&fg=333333&s=0&c=20201002)
+is the wavelength of the radiation) at a certain equilibrium temperature
+![T](https://s0.wp.com/latex.php?latex=T&bg=ffffff&fg=333333&s=0&c=20201002),
 we can say that the above ratios are function of these:  
-![\\dfrac{e\_2}{a\_2} = \\dfrac{e\_1}{a\_1}= f(\\nu,
-T)](https://s0.wp.com/latex.php?latex=%5Cdfrac%7Be_2%7D%7Ba_2%7D+%3D+%5Cdfrac%7Be_1%7D%7Ba_1%7D%3D+f%28%5Cnu%2C+T%29&bg=ffffff&fg=333333&s=0
-"\\dfrac{e_2}{a_2} = \\dfrac{e_1}{a_1}= f(\\nu, T)")
+![\\dfrac{e_2}{a_2} = \\dfrac{e_1}{a_1}= f(\\nu,
+T)](https://s0.wp.com/latex.php?latex=%5Cdfrac%7Be_2%7D%7Ba_2%7D+%3D+%5Cdfrac%7Be_1%7D%7Ba_1%7D%3D+f%28%5Cnu%2C+T%29&bg=ffffff&fg=333333&s=0&c=20201002)
 
 Now Kirchhoff postulated a theoretical body, termed the black body, that
 absorbed all energy incident on it, i.e.
-![a\_1=a\_2=a\_b=1](https://s0.wp.com/latex.php?latex=a_1%3Da_2%3Da_b%3D1&bg=ffffff&fg=333333&s=0
-"a_1=a_2=a_b=1"). Thus, for such a black body the emissivity would be
-![e\_b=f(\\nu,
-T)](https://s0.wp.com/latex.php?latex=e_b%3Df%28%5Cnu%2C+T%29&bg=ffffff&fg=333333&s=0
-"e_b=f(\\nu, T)"), i.e. it would be purely a function of the frequency
-of the radiation and its temperature. This immediately presented the
-physicists of the age with two challenges: 1) An experimental one, i.e.
-to construct a radiating body that approximates the black body as
-closely as possible and to empirically measure the shape of ![f(\\nu,
-T)](https://s0.wp.com/latex.php?latex=f%28%5Cnu%2C+T%29&bg=ffffff&fg=333333&s=0
-"f(\\nu, T)"). 2) A theoretical one, i.e. to derive from a theoretical
-model of radiation the shape of ![f(\\nu,
-T)](https://s0.wp.com/latex.php?latex=f%28%5Cnu%2C+T%29&bg=ffffff&fg=333333&s=0
-"f(\\nu, T)").
+![a_1=a_2=a_b=1](https://s0.wp.com/latex.php?latex=a_1%3Da_2%3Da_b%3D1&bg=ffffff&fg=333333&s=0&c=20201002).
+Thus, for such a black body the emissivity would be ![e_b=f(\\nu,
+T)](https://s0.wp.com/latex.php?latex=e_b%3Df%28%5Cnu%2C+T%29&bg=ffffff&fg=333333&s=0&c=20201002),
+i.e. it would be purely a function of the frequency of the radiation and
+its temperature. This immediately presented the physicists of the age
+with two challenges: 1) An experimental one, i.e. to construct a
+radiating body that approximates the black body as closely as possible
+and to empirically measure the shape of ![f(\\nu,
+T)](https://s0.wp.com/latex.php?latex=f%28%5Cnu%2C+T%29&bg=ffffff&fg=333333&s=0&c=20201002).
+2) A theoretical one, i.e. to derive from a theoretical model of
+radiation the shape of ![f(\\nu,
+T)](https://s0.wp.com/latex.php?latex=f%28%5Cnu%2C+T%29&bg=ffffff&fg=333333&s=0&c=20201002).
 
 These challenges proved more revolutionary than physicists of the time
 thought. In 1869 CE one of the greatest physical theorists of all times,
@@ -341,28 +323,28 @@ the ultimate solution to Kirchhoff’s challenge.
 
 On the experimental side it took about 20 years for the first glimmer of
 understanding to emerge with regard to ![f(\\nu,
-T)](https://s0.wp.com/latex.php?latex=f%28%5Cnu%2C+T%29&bg=ffffff&fg=333333&s=0
-"f(\\nu, T)"), namely that it has one clear maximum when plotted against
-![\\nu](https://s0.wp.com/latex.php?latex=%5Cnu&bg=ffffff&fg=333333&s=0
-"\\nu"), which moves to lower
-![\\nu](https://s0.wp.com/latex.php?latex=%5Cnu&bg=ffffff&fg=333333&s=0
-"\\nu") with decreasing T. Finally, in 1896 CE, Hermann von Helmholtz’s
-student, Wilhelm Wien, proposed the first reasonable function to account
-for this shape. It took the form ![f(\\nu,
-T)=a\\nu^3e^{-b\\nu/T}](https://s0.wp.com/latex.php?latex=f%28%5Cnu%2C+T%29%3Da%5Cnu%5E3e%5E%7B-b%5Cnu%2FT%7D&bg=ffffff&fg=333333&s=0
-"f(\\nu, T)=a\\nu^3e^{-b\\nu/T}"), where ![a,
-b](https://s0.wp.com/latex.php?latex=a%2C+b&bg=ffffff&fg=333333&s=0
-"a, b") are constants. In terms of its basic shape it resembled what was
+T)](https://s0.wp.com/latex.php?latex=f%28%5Cnu%2C+T%29&bg=ffffff&fg=333333&s=0&c=20201002),
+namely that it has one clear maximum when plotted against
+![\\nu](https://s0.wp.com/latex.php?latex=%5Cnu&bg=ffffff&fg=333333&s=0&c=20201002),
+which moves to lower
+![\\nu](https://s0.wp.com/latex.php?latex=%5Cnu&bg=ffffff&fg=333333&s=0&c=20201002)
+with decreasing T. Finally, in 1896 CE, Hermann von Helmholtz’s student,
+Wilhelm Wien, proposed the first reasonable function to account for this
+shape. It took the form ![f(\\nu,
+T)=a\\nu^3e^{-b\\nu/T}](https://s0.wp.com/latex.php?latex=f%28%5Cnu%2C+T%29%3Da%5Cnu%5E3e%5E%7B-b%5Cnu%2FT%7D&bg=ffffff&fg=333333&s=0&c=20201002),
+where ![a,
+b](https://s0.wp.com/latex.php?latex=a%2C+b&bg=ffffff&fg=333333&s=0&c=20201002)
+are constants. In terms of its basic shape it resembled what was
 empirically known for ![f(\\nu,
-T)](https://s0.wp.com/latex.php?latex=f%28%5Cnu%2C+T%29&bg=ffffff&fg=333333&s=0
-"f(\\nu, T)") and the experiments by Paschen around that time suggested
-that indeed Wien had found the right curve for the black body radiation.
-However, new and more precise experiments at lower frequencies soon
-poured water on this. These experiments were being done by the groups of
-Lummer and Pringsheim on one hand and Rubens and Kurlbaum on the other
-at what where probably the best experimental physics labs in world at
-the dawn of the 1900s. They indicated that the function of Wien failed
-at lower frequencies.
+T)](https://s0.wp.com/latex.php?latex=f%28%5Cnu%2C+T%29&bg=ffffff&fg=333333&s=0&c=20201002)
+and the experiments by Paschen around that time suggested that indeed
+Wien had found the right curve for the black body radiation. However,
+new and more precise experiments at lower frequencies soon poured water
+on this. These experiments were being done by the groups of Lummer and
+Pringsheim on one hand and Rubens and Kurlbaum on the other at what
+where probably the best experimental physics labs in world at the dawn
+of the 1900s. They indicated that the function of Wien failed at lower
+frequencies.
 
 The final solution to the problem came from the dark horse among the
 physicists, Max Planck, who had fittingly taken the professorial chair
@@ -398,12 +380,12 @@ frequencies and its departure from Wien’s proposal. That very evening
 Planck drawing on his deep study of Kirchhoff’s fundamental problem
 arrived at correct formula for the black body radiation function:  
 ![f(\\nu,
-T)=\\dfrac{a\\nu^3}{e^{b\\nu/T}-1}](https://s0.wp.com/latex.php?latex=f%28%5Cnu%2C+T%29%3D%5Cdfrac%7Ba%5Cnu%5E3%7D%7Be%5E%7Bb%5Cnu%2FT%7D-1%7D&bg=ffffff&fg=333333&s=0
-"f(\\nu, T)=\\dfrac{a\\nu^3}{e^{b\\nu/T}-1}"), where
-![a,b](https://s0.wp.com/latex.php?latex=a%2Cb&bg=ffffff&fg=333333&s=0
-"a,b") are constants.
+T)=\\dfrac{a\\nu^3}{e^{b\\nu/T}-1}](https://s0.wp.com/latex.php?latex=f%28%5Cnu%2C+T%29%3D%5Cdfrac%7Ba%5Cnu%5E3%7D%7Be%5E%7Bb%5Cnu%2FT%7D-1%7D&bg=ffffff&fg=333333&s=0&c=20201002),
+where
+![a,b](https://s0.wp.com/latex.php?latex=a%2Cb&bg=ffffff&fg=333333&s=0&c=20201002)
+are constants.
 
-[![Planck\_Wien](https://manasataramgini.files.wordpress.com/2018/12/Planck_Wien.png?w=640)](https://manasataramgini.files.wordpress.com/2018/12/Planck_Wien.png)Figure
+[![Planck_Wien](https://manasataramgini.files.wordpress.com/2018/12/Planck_Wien.png?w=640)](https://manasataramgini.files.wordpress.com/2018/12/Planck_Wien.png)Figure
 2. The form of Wien and Planck’s curves in arbitrary units of frequency
 and radiance.
 
@@ -412,17 +394,17 @@ thermodynamics, his strong mathematical capacity, the “conversion” he
 had undergone due to Boltzmann and the inspiration from those very
 methods of Boltzmann he arrived at the quantum theory where energy is
 emitted and absorbed in “atomic” packets or quanta. The energy
-![E](https://s0.wp.com/latex.php?latex=E&bg=ffffff&fg=333333&s=0 "E") of
-these quanta is described as
-![E=h\\nu](https://s0.wp.com/latex.php?latex=E%3Dh%5Cnu&bg=ffffff&fg=333333&s=0
-"E=h\\nu"), where
-![h](https://s0.wp.com/latex.php?latex=h&bg=ffffff&fg=333333&s=0 "h") is
-Planck’s constant. In the following years its power was demonstrated by
-Einstein who explained the photoelectric effect using the same theory.
-Thereafter, Niels Bohr used the same in combination with inspiration
-from Darwin’s grandson’s studies to arrive at the first quantum model of
-the atom. The rest as they say is history: thus, the second pillar of
-physics in the realm of the small was established.
+![E](https://s0.wp.com/latex.php?latex=E&bg=ffffff&fg=333333&s=0&c=20201002)
+of these quanta is described as
+![E=h\\nu](https://s0.wp.com/latex.php?latex=E%3Dh%5Cnu&bg=ffffff&fg=333333&s=0&c=20201002),
+where
+![h](https://s0.wp.com/latex.php?latex=h&bg=ffffff&fg=333333&s=0&c=20201002)
+is Planck’s constant. In the following years its power was demonstrated
+by Einstein who explained the photoelectric effect using the same
+theory. Thereafter, Niels Bohr used the same in combination with
+inspiration from Darwin’s grandson’s studies to arrive at the first
+quantum model of the atom. The rest as they say is history: thus, the
+second pillar of physics in the realm of the small was established.
 
 When my father first read out a basic version of this story to me when I
 was a kid I was profoundly inspired to study the quantum theory to the
@@ -482,16 +464,15 @@ from those devised by James Watt, the sink was not — it was merely the
 ambient surroundings in which the engine operated. Carnot went on to
 show the maximal efficiency an engine depended on the temperature of the
 source and the sink. Let
-![Q](https://s0.wp.com/latex.php?latex=Q&bg=ffffff&fg=333333&s=0 "Q") be
-the heat the engine takes from a source at (absolute) temperature
-![T\_{so}](https://s0.wp.com/latex.php?latex=T_%7Bso%7D&bg=ffffff&fg=333333&s=0
-"T_{so}"). Let
-![T\_{si}](https://s0.wp.com/latex.php?latex=T_%7Bsi%7D&bg=ffffff&fg=333333&s=0
-"T_{si}") be the temperature of the sink. Then the maximal work that can
-be done in a cycle of the engine is
+![Q](https://s0.wp.com/latex.php?latex=Q&bg=ffffff&fg=333333&s=0&c=20201002)
+be the heat the engine takes from a source at (absolute) temperature
+![T\_{so}](https://s0.wp.com/latex.php?latex=T_%7Bso%7D&bg=ffffff&fg=333333&s=0&c=20201002).
+Let
+![T\_{si}](https://s0.wp.com/latex.php?latex=T_%7Bsi%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+be the temperature of the sink. Then the maximal work that can be done
+in a cycle of the engine is
 
-![W=Q\\left(1-\\dfrac{T\_{si}}{T\_{so}}\\right)](https://s0.wp.com/latex.php?latex=W%3DQ%5Cleft%281-%5Cdfrac%7BT_%7Bsi%7D%7D%7BT_%7Bso%7D%7D%5Cright%29&bg=ffffff&fg=333333&s=0
-"W=Q\\left(1-\\dfrac{T_{si}}{T_{so}}\\right)")
+![W=Q\\left(1-\\dfrac{T\_{si}}{T\_{so}}\\right)](https://s0.wp.com/latex.php?latex=W%3DQ%5Cleft%281-%5Cdfrac%7BT_%7Bsi%7D%7D%7BT_%7Bso%7D%7D%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002)
 
 This is the famous Carnot equation that indicates that not all heat can
 be effectively converted to work unless the source was at infinite
@@ -541,31 +522,29 @@ velocities of molecules in an ideal gas, again interestingly published
 in 1859 CE. In course of developing this abstraction further Boltzmann
 formulated his celebrated formula for the absolute entropy of a
 substance in 1877 (in the modern form given by Max Planck):  
-![S=k\_B\\log(W)](https://s0.wp.com/latex.php?latex=S%3Dk_B%5Clog%28W%29&bg=ffffff&fg=333333&s=0
-"S=k_B\\log(W)")  
+![S=k_B\\log(W)](https://s0.wp.com/latex.php?latex=S%3Dk_B%5Clog%28W%29&bg=ffffff&fg=333333&s=0&c=20201002)  
 Here,
-![k\_B](https://s0.wp.com/latex.php?latex=k_B&bg=ffffff&fg=333333&s=0
-"k_B") is Boltzmann’s constant in energy and inverse temperature units
-and ![W](https://s0.wp.com/latex.php?latex=W&bg=ffffff&fg=333333&s=0
-"W") is the total number of ways in which atoms, molecules or energy
-elements can be arranged in the sample such that the total energy
-remains constant. Each such arrangement that fulfills this condition is
-termed a “microstate”. Thus,
-![W](https://s0.wp.com/latex.php?latex=W&bg=ffffff&fg=333333&s=0 "W") is
-the total number of microstates in the sample. This simple formulation
-has profound implications for it allows one to connect the entropy of a
-sample to the probability of occurrence of each of the arrangements of
-the “atomic” entities in the sample:
+![k_B](https://s0.wp.com/latex.php?latex=k_B&bg=ffffff&fg=333333&s=0&c=20201002)
+is Boltzmann’s constant in energy and inverse temperature units and
+![W](https://s0.wp.com/latex.php?latex=W&bg=ffffff&fg=333333&s=0&c=20201002)
+is the total number of ways in which atoms, molecules or energy elements
+can be arranged in the sample such that the total energy remains
+constant. Each such arrangement that fulfills this condition is termed a
+“microstate”. Thus,
+![W](https://s0.wp.com/latex.php?latex=W&bg=ffffff&fg=333333&s=0&c=20201002)
+is the total number of microstates in the sample. This simple
+formulation has profound implications for it allows one to connect the
+entropy of a sample to the probability of occurrence of each of the
+arrangements of the “atomic” entities in the sample:
 
-![S=-k\_B \\displaystyle \\sum\_i p\_i
-\\log(p\_i)](https://s0.wp.com/latex.php?latex=S%3D-k_B+%5Cdisplaystyle+%5Csum_i+p_i+%5Clog%28p_i%29&bg=ffffff&fg=333333&s=0
-"S=-k_B \\displaystyle \\sum_i p_i \\log(p_i)")
+![S=-k_B \\displaystyle \\sum_i p_i
+\\log(p_i)](https://s0.wp.com/latex.php?latex=S%3D-k_B+%5Cdisplaystyle+%5Csum_i+p_i+%5Clog%28p_i%29&bg=ffffff&fg=333333&s=0&c=20201002)
 
 Here
-![p\_i](https://s0.wp.com/latex.php?latex=p_i&bg=ffffff&fg=333333&s=0
-"p_i") the probability with which microstate
-![m\_i](https://s0.wp.com/latex.php?latex=m_i&bg=ffffff&fg=333333&s=0
-"m_i") occurs in the sample.
+![p_i](https://s0.wp.com/latex.php?latex=p_i&bg=ffffff&fg=333333&s=0&c=20201002)
+the probability with which microstate
+![m_i](https://s0.wp.com/latex.php?latex=m_i&bg=ffffff&fg=333333&s=0&c=20201002)
+occurs in the sample.
 
 While this is a thermodynamic concept, one can now extend it to be the
 general measure of disorder of any system. This can be illustrated with
@@ -587,58 +566,55 @@ Boltzmann’s initial discovery. His historic formula to quantify
 information essentially took the same form as Boltzmann’s formulation of
 thermodynamic entropy, just that Shannon’s is a pure number:
 
-![H=-\\displaystyle \\sum\_i p\_i
-\\log\_2(p\_i)](https://s0.wp.com/latex.php?latex=H%3D-%5Cdisplaystyle+%5Csum_i+p_i+%5Clog_2%28p_i%29&bg=ffffff&fg=333333&s=0
-"H=-\\displaystyle \\sum_i p_i \\log_2(p_i)")
+![H=-\\displaystyle \\sum_i p_i
+\\log_2(p_i)](https://s0.wp.com/latex.php?latex=H%3D-%5Cdisplaystyle+%5Csum_i+p_i+%5Clog_2%28p_i%29&bg=ffffff&fg=333333&s=0&c=20201002)
 
 Here
-![p\_i](https://s0.wp.com/latex.php?latex=p_i&bg=ffffff&fg=333333&s=0
-"p_i") is the probability of the symbol
-![s\_i](https://s0.wp.com/latex.php?latex=s_i&bg=ffffff&fg=333333&s=0
-"s_i") in a certain symbol set occurring in the string
-![S](https://s0.wp.com/latex.php?latex=S&bg=ffffff&fg=333333&s=0 "S").
+![p_i](https://s0.wp.com/latex.php?latex=p_i&bg=ffffff&fg=333333&s=0&c=20201002)
+is the probability of the symbol
+![s_i](https://s0.wp.com/latex.php?latex=s_i&bg=ffffff&fg=333333&s=0&c=20201002)
+in a certain symbol set occurring in the string
+![S](https://s0.wp.com/latex.php?latex=S&bg=ffffff&fg=333333&s=0&c=20201002).
 Thus, Shannon entropy specifies the minimal number of bits per symbol
 needed to encode the string
-![S](https://s0.wp.com/latex.php?latex=S&bg=ffffff&fg=333333&s=0 "S") in
-binary form. Hence,
-![H](https://s0.wp.com/latex.php?latex=H&bg=ffffff&fg=333333&s=0 "H")
+![S](https://s0.wp.com/latex.php?latex=S&bg=ffffff&fg=333333&s=0&c=20201002)
+in binary form. Hence,
+![H](https://s0.wp.com/latex.php?latex=H&bg=ffffff&fg=333333&s=0&c=20201002)
 also measures the complexity of a string
-![S](https://s0.wp.com/latex.php?latex=S&bg=ffffff&fg=333333&s=0 "S").
+![S](https://s0.wp.com/latex.php?latex=S&bg=ffffff&fg=333333&s=0&c=20201002).
 As an example let us consider the following strings in the ASCII symbol
 set:  
-![S\_1=](https://s0.wp.com/latex.php?latex=S_1%3D&bg=ffffff&fg=333333&s=0
-"S_1=") rAma rAma hare hare;
-![H(S\_1)=2.7345](https://s0.wp.com/latex.php?latex=H%28S_1%29%3D2.7345&bg=ffffff&fg=333333&s=0
-"H(S_1)=2.7345")  
-![S\_2=](https://s0.wp.com/latex.php?latex=S_2%3D&bg=ffffff&fg=333333&s=0
-"S_2=") ugram indraM juhomi;
-![H(S\_2)=3.6163](https://s0.wp.com/latex.php?latex=H%28S_2%29%3D3.6163&bg=ffffff&fg=333333&s=0
-"H(S_2)=3.6163")  
+![S_1=](https://s0.wp.com/latex.php?latex=S_1%3D&bg=ffffff&fg=333333&s=0&c=20201002)
+rAma rAma hare hare;
+![H(S_1)=2.7345](https://s0.wp.com/latex.php?latex=H%28S_1%29%3D2.7345&bg=ffffff&fg=333333&s=0&c=20201002)  
+![S_2=](https://s0.wp.com/latex.php?latex=S_2%3D&bg=ffffff&fg=333333&s=0&c=20201002)
+ugram indraM juhomi;
+![H(S_2)=3.6163](https://s0.wp.com/latex.php?latex=H%28S_2%29%3D3.6163&bg=ffffff&fg=333333&s=0&c=20201002)  
 One notes that
-![S\_2](https://s0.wp.com/latex.php?latex=S_2&bg=ffffff&fg=333333&s=0
-"S_2") has higher Shannon entropy than
-![S\_2](https://s0.wp.com/latex.php?latex=S_2&bg=ffffff&fg=333333&s=0
-"S_2") and provides quantitative evidence for the intuitive idea that
-the second string is more complex than the first. This remarkable link
+![S_2](https://s0.wp.com/latex.php?latex=S_2&bg=ffffff&fg=333333&s=0&c=20201002)
+has higher Shannon entropy than
+![S_2](https://s0.wp.com/latex.php?latex=S_2&bg=ffffff&fg=333333&s=0&c=20201002)
+and provides quantitative evidence for the intuitive idea that the
+second string is more complex than the first. This remarkable link
 between the mathematical formulations of two rather disparate entities,
 one a description of very palpable quantities like matter and energy and
 the other an abstract quantity, information, can be summarized by
 quoting Shannon:
 
-*“Quantities of the form ![H=-\\sum p\_i
-\\log\_2(p\_i)](https://s0.wp.com/latex.php?latex=H%3D-%5Csum+p_i+%5Clog_2%28p_i%29&bg=ffffff&fg=333333&s=0
-"H=-\\sum p_i \\log_2(p_i)") (the constant
-![k\_B](https://s0.wp.com/latex.php?latex=k_B&bg=ffffff&fg=333333&s=0
-"k_B") merely amounts to a choice of a unit of measure) play a central
-role in information theory as measures of information, choice and
-uncertainty. The form of
-![H](https://s0.wp.com/latex.php?latex=H&bg=ffffff&fg=333333&s=0 "H")
+*“Quantities of the form ![H=-\\sum p_i
+\\log_2(p_i)](https://s0.wp.com/latex.php?latex=H%3D-%5Csum+p_i+%5Clog_2%28p_i%29&bg=ffffff&fg=333333&s=0&c=20201002)
+(the constant
+![k_B](https://s0.wp.com/latex.php?latex=k_B&bg=ffffff&fg=333333&s=0&c=20201002)
+merely amounts to a choice of a unit of measure) play a central role in
+information theory as measures of information, choice and uncertainty.
+The form of
+![H](https://s0.wp.com/latex.php?latex=H&bg=ffffff&fg=333333&s=0&c=20201002)
 will be recognized as that of entropy as defined in certain formulations
 of statistical mechanics, where
-![p\_i](https://s0.wp.com/latex.php?latex=p_i&bg=ffffff&fg=333333&s=0
-"p_i") is the probability of a system being in cell
-![i](https://s0.wp.com/latex.php?latex=i&bg=ffffff&fg=333333&s=0 "i") of
-its phase space.”*
+![p_i](https://s0.wp.com/latex.php?latex=p_i&bg=ffffff&fg=333333&s=0&c=20201002)
+is the probability of a system being in cell
+![i](https://s0.wp.com/latex.php?latex=i&bg=ffffff&fg=333333&s=0&c=20201002)
+of its phase space.”*
 
 Shannon’s formulation of entropy as a measure of information has
 profound implications for understanding the foundations of life. This
@@ -668,52 +644,48 @@ rarefied heights of mathematics. This basic version depends on the
 Lagrangian formulation of another great mathematician Joseph-Louis
 Lagrange to describe a physical system. Simply put the the Lagrangian of
 a system
-![L](https://s0.wp.com/latex.php?latex=L&bg=ffffff&fg=333333&s=0 "L") is
-the difference between its kinetic energy
-![T](https://s0.wp.com/latex.php?latex=T&bg=ffffff&fg=333333&s=0 "T")
+![L](https://s0.wp.com/latex.php?latex=L&bg=ffffff&fg=333333&s=0&c=20201002)
+is the difference between its kinetic energy
+![T](https://s0.wp.com/latex.php?latex=T&bg=ffffff&fg=333333&s=0&c=20201002)
 (not to be confused with the symbol for temperature) and potential
-energy ![U](https://s0.wp.com/latex.php?latex=U&bg=ffffff&fg=333333&s=0
-"U"):  
-![L=T-U](https://s0.wp.com/latex.php?latex=L%3DT-U&bg=ffffff&fg=333333&s=0
-"L=T-U")
+energy
+![U](https://s0.wp.com/latex.php?latex=U&bg=ffffff&fg=333333&s=0&c=20201002):  
+![L=T-U](https://s0.wp.com/latex.php?latex=L%3DT-U&bg=ffffff&fg=333333&s=0&c=20201002)
 
 The Lagrangian
-![L](https://s0.wp.com/latex.php?latex=L&bg=ffffff&fg=333333&s=0 "L") is
-typically expressed as a function of the position
-![x](https://s0.wp.com/latex.php?latex=x&bg=ffffff&fg=333333&s=0 "x") of
-a body in the system and its time derivative, i.e. velocity
-![v=\\tfrac{dx}{dt}](https://s0.wp.com/latex.php?latex=v%3D%5Ctfrac%7Bdx%7D%7Bdt%7D&bg=ffffff&fg=333333&s=0
-"v=\\tfrac{dx}{dt}"). As a simple example, consider the Newtonian system
-of a body of mass
-![m](https://s0.wp.com/latex.php?latex=m&bg=ffffff&fg=333333&s=0 "m")
+![L](https://s0.wp.com/latex.php?latex=L&bg=ffffff&fg=333333&s=0&c=20201002)
+is typically expressed as a function of the position
+![x](https://s0.wp.com/latex.php?latex=x&bg=ffffff&fg=333333&s=0&c=20201002)
+of a body in the system and its time derivative, i.e. velocity
+![v=\\tfrac{dx}{dt}](https://s0.wp.com/latex.php?latex=v%3D%5Ctfrac%7Bdx%7D%7Bdt%7D&bg=ffffff&fg=333333&s=0&c=20201002).
+As a simple example, consider the Newtonian system of a body of mass
+![m](https://s0.wp.com/latex.php?latex=m&bg=ffffff&fg=333333&s=0&c=20201002)
 raised to some height dropping under a uniform gravitation field with
 acceleration
-![g](https://s0.wp.com/latex.php?latex=g&bg=ffffff&fg=333333&s=0 "g").
+![g](https://s0.wp.com/latex.php?latex=g&bg=ffffff&fg=333333&s=0&c=20201002).
 It would have kinetic energy ![T=\\tfrac{1}{2}m \\cdot
-v^2](https://s0.wp.com/latex.php?latex=T%3D%5Ctfrac%7B1%7D%7B2%7Dm+%5Ccdot+v%5E2&bg=ffffff&fg=333333&s=0
-"T=\\tfrac{1}{2}m \\cdot v^2") and potential energy as ![m\\cdot g
-\\cdot
-x](https://s0.wp.com/latex.php?latex=m%5Ccdot+g+%5Ccdot+x&bg=ffffff&fg=333333&s=0
-"m\\cdot g \\cdot x"). Thus its Lagrangian can be written as:
+v^2](https://s0.wp.com/latex.php?latex=T%3D%5Ctfrac%7B1%7D%7B2%7Dm+%5Ccdot+v%5E2&bg=ffffff&fg=333333&s=0&c=20201002)
+and potential energy as ![m\\cdot g \\cdot
+x](https://s0.wp.com/latex.php?latex=m%5Ccdot+g+%5Ccdot+x&bg=ffffff&fg=333333&s=0&c=20201002).
+Thus its Lagrangian can be written as:
 
 ![L(x,v)=T-U=\\tfrac{1}{2}m \\cdot v^2-m\\cdot g \\cdot
-x](https://s0.wp.com/latex.php?latex=L%28x%2Cv%29%3DT-U%3D%5Ctfrac%7B1%7D%7B2%7Dm+%5Ccdot+v%5E2-m%5Ccdot+g+%5Ccdot+x&bg=ffffff&fg=333333&s=0
-"L(x,v)=T-U=\\tfrac{1}{2}m \\cdot v^2-m\\cdot g \\cdot x")
+x](https://s0.wp.com/latex.php?latex=L%28x%2Cv%29%3DT-U%3D%5Ctfrac%7B1%7D%7B2%7Dm+%5Ccdot+v%5E2-m%5Ccdot+g+%5Ccdot+x&bg=ffffff&fg=333333&s=0&c=20201002)
 
 Now, according to Noether’s theorem if
-![L(x,v)](https://s0.wp.com/latex.php?latex=L%28x%2Cv%29&bg=ffffff&fg=333333&s=0
-"L(x,v)") of a physical system remains unaffected upon transformation in
-the coordinate system used to describe it, i.e. its symmetric under the
+![L(x,v)](https://s0.wp.com/latex.php?latex=L%28x%2Cv%29&bg=ffffff&fg=333333&s=0&c=20201002)
+of a physical system remains unaffected upon transformation in the
+coordinate system used to describe it, i.e. its symmetric under the
 transformation, then there will be a corresponding conservation law.
 Now, if a physical system is translated linearly to a different position
 and there is no other physical influence acting on it, its
-![L(x,v)](https://s0.wp.com/latex.php?latex=L%28x%2Cv%29&bg=ffffff&fg=333333&s=0
-"L(x,v)") remains unaffected. This implies that the translational
-coordinate system is a uniform; thus, translational symmetry of the
-Lagrangian gives us the law of conservation of momentum. Similarly, that
-![L(x,v)](https://s0.wp.com/latex.php?latex=L%28x%2Cv%29&bg=ffffff&fg=333333&s=0
-"L(x,v)") is unaffected if the system is translated in time gives us the
-law of conservation of energy or the first law of thermodynamics. Thus,
+![L(x,v)](https://s0.wp.com/latex.php?latex=L%28x%2Cv%29&bg=ffffff&fg=333333&s=0&c=20201002)
+remains unaffected. This implies that the translational coordinate
+system is a uniform; thus, translational symmetry of the Lagrangian
+gives us the law of conservation of momentum. Similarly, that
+![L(x,v)](https://s0.wp.com/latex.php?latex=L%28x%2Cv%29&bg=ffffff&fg=333333&s=0&c=20201002)
+is unaffected if the system is translated in time gives us the law of
+conservation of energy or the first law of thermodynamics. Thus,
 remarkably conservation of energy is related to time symmetry, i.e. time
 being an orderly or uniform coordinate system — time does not flow fast
 and slow at different points along its flow. If that were to happen then
@@ -758,9 +730,9 @@ did not fully grasp all its implications, leave alone several of the
 other intellectuals at and after that time. Indeed, the situation is
 rather peculiar: while much of biology done since then can be seen as a
 footnote to Darwin, a large fraction (at least
-![50\\%](https://s0.wp.com/latex.php?latex=50%5C%25&bg=ffffff&fg=333333&s=0
-"50\\%")) of the biologists do not fully understand the evolutionary
-theory and how to use it.
+![50\\%](https://s0.wp.com/latex.php?latex=50%5C%25&bg=ffffff&fg=333333&s=0&c=20201002))
+of the biologists do not fully understand the evolutionary theory and
+how to use it.
 
 It is not commonly understood that the evolutionary theory has a close
 relationship to Shannon’s generalization of entropy as a measure of
@@ -790,11 +762,9 @@ as the semantic aspect of a linguistic sequence is the unique domain of
 a text. As an illustration let us consider the following peptides from
 *Homo sapiens*:  
 Oyxtocin: CYIQNCPLG;
-![H=2.9477](https://s0.wp.com/latex.php?latex=H%3D2.9477&bg=ffffff&fg=333333&s=0
-"H=2.9477")  
+![H=2.9477](https://s0.wp.com/latex.php?latex=H%3D2.9477&bg=ffffff&fg=333333&s=0&c=20201002)  
 R-Vassopressin: CYFQNCPRG;
-![H=2.9477](https://s0.wp.com/latex.php?latex=H%3D2.9477&bg=ffffff&fg=333333&s=0
-"H=2.9477")  
+![H=2.9477](https://s0.wp.com/latex.php?latex=H%3D2.9477&bg=ffffff&fg=333333&s=0&c=20201002)  
 Both these peptides have the same length of 9 amino acids and the same
 Shannon entropy. However, the first one is primarily involved in
 signaling reproductive functions like birthing, bonding and lactation
@@ -805,36 +775,32 @@ common ancestor.
 
 Yet, entropy does impinge on semantics in a general sense. To illustrate
 this let us consider a linguistic example first:  
-![S\_1=](https://s0.wp.com/latex.php?latex=S_1%3D&bg=ffffff&fg=333333&s=0
-"S_1="): dhiyo yo naH prachodayAt;
-![H=3.6258](https://s0.wp.com/latex.php?latex=H%3D3.6258&bg=ffffff&fg=333333&s=0
-"H=3.6258")  
-![S\_2=](https://s0.wp.com/latex.php?latex=S_2%3D&bg=ffffff&fg=333333&s=0
-"S_2=") buM buM buddhAya buM buM;
-![H=2.8675](https://s0.wp.com/latex.php?latex=H%3D2.8675&bg=ffffff&fg=333333&s=0
-"H=2.8675")
+![S_1=](https://s0.wp.com/latex.php?latex=S_1%3D&bg=ffffff&fg=333333&s=0&c=20201002):
+dhiyo yo naH prachodayAt;
+![H=3.6258](https://s0.wp.com/latex.php?latex=H%3D3.6258&bg=ffffff&fg=333333&s=0&c=20201002)  
+![S_2=](https://s0.wp.com/latex.php?latex=S_2%3D&bg=ffffff&fg=333333&s=0&c=20201002)
+buM buM buddhAya buM buM;
+![H=2.8675](https://s0.wp.com/latex.php?latex=H%3D2.8675&bg=ffffff&fg=333333&s=0&c=20201002)
 
 The two linguistic strings above are both the same length but without
 knowing anything else, by just comparing the entropies of the two we can
 state that by itself
-![S\_1](https://s0.wp.com/latex.php?latex=S_1&bg=ffffff&fg=333333&s=0
-"S_1") is likely to have greater semantic complexity or richness of
-meaning than
-![S\_2](https://s0.wp.com/latex.php?latex=S_2&bg=ffffff&fg=333333&s=0
-"S_2"). By the same token, let us look at two equal-length parts of a
-protein, the *Drosophila* Antennapedia, which binds a specific DNA
-sequence and initiates the development of a specific aspect of the
-animal body plan along the antero-posterior axis:
+![S_1](https://s0.wp.com/latex.php?latex=S_1&bg=ffffff&fg=333333&s=0&c=20201002)
+is likely to have greater semantic complexity or richness of meaning
+than
+![S_2](https://s0.wp.com/latex.php?latex=S_2&bg=ffffff&fg=333333&s=0&c=20201002).
+By the same token, let us look at two equal-length parts of a protein,
+the *Drosophila* Antennapedia, which binds a specific DNA sequence and
+initiates the development of a specific aspect of the animal body plan
+along the antero-posterior axis:
 
     TNGQLGVPQQQQQQQQQPSQNQQQQQAQQAPQQLQQQLPQVTQQVTHPQQQQQQPVVYASCKL
 
-![H=2.634](https://s0.wp.com/latex.php?latex=H%3D2.634&bg=ffffff&fg=333333&s=0
-"H=2.634")
+![H=2.634](https://s0.wp.com/latex.php?latex=H%3D2.634&bg=ffffff&fg=333333&s=0&c=20201002)
 
     RKRGRQTYTRYQTLELEKEFHFNRYLTRRRRIEIAHALCLTERQIKIWFQNRRMKWKKENKTK
 
-![H=3.6612](https://s0.wp.com/latex.php?latex=H%3D3.6612&bg=ffffff&fg=333333&s=0
-"H=3.6612")
+![H=3.6612](https://s0.wp.com/latex.php?latex=H%3D3.6612&bg=ffffff&fg=333333&s=0&c=20201002)
 
 Now, just comparing the entropies of the two parts of the protein we can
 say that the first has lower complexity than the second. Thus, the

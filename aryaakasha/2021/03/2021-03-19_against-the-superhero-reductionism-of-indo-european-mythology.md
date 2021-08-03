@@ -1,8 +1,11 @@
 +++
-title = "Against The ‘Superhero’ Reductionism Of Indo-Europeanxa0Mythology"
-date = "March 19, 2021"
+title = "Against The ‘Superhero’ Reductionism Of Indo-European Mythology"
+date = "2021-03-19"
+upstream_url = "https://aryaakasha.com/2021/03/19/against-the-superhero-reductionism-of-indo-european-mythology/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/03/19/against-the-superhero-reductionism-of-indo-european-mythology/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/03/religion-of-superheroes-pie-censored.png?w=510)
 
 An associate asked this question – and I think it is an interesting one

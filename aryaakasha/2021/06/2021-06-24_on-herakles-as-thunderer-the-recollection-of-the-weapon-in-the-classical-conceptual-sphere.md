@@ -1,8 +1,11 @@
 +++
-title = "On Herakles As Thunderer – The Recollection Of The Weapon In The Classical Conceptualxa0Sphere"
-date = "June 24, 2021"
+title = "On Herakles As Thunderer – The Recollection Of The Weapon In The Classical Conceptual Sphere"
+date = "2021-06-24"
+upstream_url = "https://aryaakasha.com/2021/06/24/on-herakles-as-thunderer-the-recollection-of-the-weapon-in-the-classical-conceptual-sphere/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/06/24/on-herakles-as-thunderer-the-recollection-of-the-weapon-in-the-classical-conceptual-sphere/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/06/198882949_10165312201705574_1923666741624487127_n.jpg?w=541)
 
 There are a few falsehoods in our field which stubbornly refuse to die.

@@ -1,8 +1,11 @@
 +++
-title = "JAI MAHAKAAL Onxa0Moon-Day"
-date = "August 25, 2019"
+title = "JAI MAHAKAAL On Moon-Day"
+date = "2019-08-25"
+upstream_url = "https://aryaakasha.com/2019/08/25/jai-mahakaal-on-moon-day/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/08/25/jai-mahakaal-on-moon-day/).
+
 ![9e137c3aef876de229ddc78de86d3a63](https://aryaakasha.files.wordpress.com/2019/08/9e137c3aef876de229ddc78de86d3a63.jpg?w=676)
 
 JAI MAHAKAAL  

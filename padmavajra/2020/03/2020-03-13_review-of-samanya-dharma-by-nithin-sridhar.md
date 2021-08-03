@@ -1,8 +1,11 @@
 +++
-title = "Review of Samanya Dharma by Nithinxa0Sridhar"
+title = "Review of Samanya Dharma by Nithin Sridhar"
 date = "2020-03-13"
+upstream_url = "https://padmavajra.net/2020/03/13/review-of-samanya-dharma-by-nithin-sridhar/"
 
 +++
+Source: [here](https://padmavajra.net/2020/03/13/review-of-samanya-dharma-by-nithin-sridhar/).
+
 Book title: Samanya Dharma
 
 Author:Nithin Sridhar

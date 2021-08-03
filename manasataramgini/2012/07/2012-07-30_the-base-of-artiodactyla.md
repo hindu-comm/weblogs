@@ -1,7 +1,11 @@
 +++
 title = "The base of Artiodactyla"
+date = "2012-07-30"
+upstream_url = "https://manasataramgini.wordpress.com/2012/07/30/the-base-of-artiodactyla/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/07/30/the-base-of-artiodactyla/).
+
 Notable aspect of our divergence from our cousins, the chimpanzees, has
 been our “mutualistic” or “parasitic” association with artiodactyla.
 Several human populations have repeatedly acquired the ability to
@@ -22,8 +26,7 @@ artiodactyls is not very clear. Anatomically one of the most distinctive
 features of the artiodactyls is their “double pulley” astralagus, which
 they all seem to share and was clearly present in the common ancestor.
 
-[![](https://manasataramgini.files.wordpress.com/2012/07/double_pulley_astralagus.jpg?w=640
-"double_pulley_astralagus")](https://manasataramgini.files.wordpress.com/2012/07/double_pulley_astralagus.jpg)  
+[![](https://manasataramgini.files.wordpress.com/2012/07/double_pulley_astralagus.jpg?w=640 "double_pulley_astralagus")](https://manasataramgini.files.wordpress.com/2012/07/double_pulley_astralagus.jpg)  
 *The double pulley astralagus*
 
 However, on the whole morphology by itself has proven to be rather
@@ -52,3 +55,4 @@ discussion.
 *The diversity of artiodactyls*
 
 Continued …
+

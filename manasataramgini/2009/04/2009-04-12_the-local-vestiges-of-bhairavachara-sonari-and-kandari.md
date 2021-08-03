@@ -1,7 +1,11 @@
 +++
 title = "The local vestiges of bhairavAchara: Sonari and Kandari"
+date = "2009-04-12"
+upstream_url = "https://manasataramgini.wordpress.com/2009/04/12/the-local-vestiges-of-bhairavachara-sonari-and-kandari/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/04/12/the-local-vestiges-of-bhairavachara-sonari-and-kandari/).
+
 [We had earlier described the remnants of bhairava worship in
 Mhasvad](https://manasataramgini.wordpress.com/2008/01/26/mhasvad-the-lost-western-chalukya-s-and-the-exploits-of-kala-bhairava/)
 and the local sthalAkhyAna, which to our knowledge is not found in any
@@ -140,3 +144,4 @@ general eastward direction as the road to Sonari. Several other yoginI-s
 (locally called jogubAI-s) are in shrines scattered around this region.
 We invoked two of these during the battle in year following the one in
 which the above narrative took place.
+

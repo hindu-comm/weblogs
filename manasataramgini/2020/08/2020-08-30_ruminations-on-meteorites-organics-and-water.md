@@ -1,7 +1,11 @@
 +++
-title = "Ruminations on meteorites, organics andxa0water"
+title = "Ruminations on meteorites, organics and water"
+date = "2020-08-30"
+upstream_url = "https://manasataramgini.wordpress.com/2020/08/30/ruminations-on-meteorites-organics-and-water/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2020/08/30/ruminations-on-meteorites-organics-and-water/).
+
 In our times the Christian Anglo-Saxons were famous for their “war on
 drugs”. However, in the 1800s, when they lorded over India, they were
 famous as global drug dealers. On the morning of August 25, 1865 CE
@@ -40,7 +44,7 @@ the rocky planets. Such collisions continue to occur in the asteroid
 belt generating meteoroids. Some such meteoroids survive the atmospheric
 burnout and drop to the surface of the earth. Every year a flux of at
 least
-![10^7](https://s0.wp.com/latex.php?latex=10%5E7&bg=ffffff&fg=333333&s=0&c=20201002 "10^7")
+![10^7](https://s0.wp.com/latex.php?latex=10%5E7&bg=ffffff&fg=333333&s=0&c=20201002)
 kg of meteorites reaches the earth and the bigger pieces are much sought
 after by collectors to this date. In the past 2 centuries, it has become
 clear that there is much diversity among meteorites. One way of
@@ -50,7 +54,7 @@ classifying them (by no means exhaustive) is shown Figure 1.
 1
 
 The iron meteorites are largely inorganic, ![\\ge
-90\\%](https://s0.wp.com/latex.php?latex=%5Cge+90%5C%25&bg=ffffff&fg=333333&s=0&c=20201002 "\ge 90\%")
+90\\%](https://s0.wp.com/latex.php?latex=%5Cge+90%5C%25&bg=ffffff&fg=333333&s=0&c=20201002)
 metals like iron and nickel. We read in the memoirs of the Mogol tyrant
 Jahangir:
 
@@ -65,7 +69,7 @@ regained their composure. A swift messenger was sent to Muhammad Sa’id
 the tax collector to inform him of the event. He got on his horse at
 once and went to the site to see for himself. For a distance of ten or
 twelve ells \[ ![\\approx
-11.5-14](https://s0.wp.com/latex.php?latex=%5Capprox+11.5-14&bg=ffffff&fg=333333&s=0&c=20201002 "\approx 11.5-14")
+11.5-14](https://s0.wp.com/latex.php?latex=%5Capprox+11.5-14&bg=ffffff&fg=333333&s=0&c=20201002)
 m\] in length and breadth the earth had been so scorched that no trace
 of greenery or plants remained and it was still hot. He ordered the
 earth dug up. The deeper they dug, the hotter it was. Finally they
@@ -74,7 +78,7 @@ as though it had been taken out of a furnace. After a while it cooled
 off, and Muhammad Sa’id took it home with him. He placed it in a purse,
 sealed it, and sent it to court. I ordered it weighed in my presence. It
 weighed 160 tolas \[ ![\\approx
-1.866209](https://s0.wp.com/latex.php?latex=%5Capprox+1.866209&bg=ffffff&fg=333333&s=0&c=20201002 "\approx 1.866209")
+1.866209](https://s0.wp.com/latex.php?latex=%5Capprox+1.866209&bg=ffffff&fg=333333&s=0&c=20201002)
 kg\]. I ordered Master Daud to make a sword, dagger, and knife of it and
 show them to me.” (translation by Wheeler M. Thackston)
 
@@ -98,9 +102,9 @@ on the hay without any deaths. A search of the location recovered
 numerous fragments totaling to over 100 kg. This came to be known as the
 famous Murchison meteorite. An analysis of its composition revealed that
 it had
-![&gt;10\\%](https://s0.wp.com/latex.php?latex=%3E10%5C%25&bg=ffffff&fg=333333&s=0&c=20201002 ">10\%")
+![\>10\\%](https://s0.wp.com/latex.php?latex=%3E10%5C%25&bg=ffffff&fg=333333&s=0&c=20201002)
 water and ![\\approx
-2.2\\%](https://s0.wp.com/latex.php?latex=%5Capprox+2.2%5C%25&bg=ffffff&fg=333333&s=0&c=20201002 "\approx 2.2\%")
+2.2\\%](https://s0.wp.com/latex.php?latex=%5Capprox+2.2%5C%25&bg=ffffff&fg=333333&s=0&c=20201002)
 carbon by weight, consistent with its smoky disintegration.
 
 Since then the organics of the Murchison meteorite have been intensely
@@ -158,7 +162,7 @@ typical of biosynthesis. In our adulthood, even as we were locked in
 other scientific explorations, new studies on the Murchison meteorite
 that cleverly avoided the effects of contamination and racemization
 indicated that there was a ![\\approx
-2-9\\%](https://s0.wp.com/latex.php?latex=%5Capprox+2-9%5C%25&bg=ffffff&fg=333333&s=0&c=20201002 "\approx 2-9\%")
+2-9\\%](https://s0.wp.com/latex.php?latex=%5Capprox+2-9%5C%25&bg=ffffff&fg=333333&s=0&c=20201002)
 excess of L-enantiomers among the amino acids found in it. This
 supported the hypothesis that there was an initial step wherein a
 limited anisotropy was established (as seen on the meteorite) followed
@@ -223,7 +227,7 @@ it stands is not identical to the composition of the enstatites they do
 have similar isotopic signatures to terrestrial rocks making them a
 likely contributor to the origin of the Earth. Astrochemists have
 invoked their high
-![^{15}N](https://s0.wp.com/latex.php?latex=%5E%7B15%7DN&bg=ffffff&fg=333333&s=0&c=20201002 "^{15}N")
+![^{15}N](https://s0.wp.com/latex.php?latex=%5E%7B15%7DN&bg=ffffff&fg=333333&s=0&c=20201002)
 content to propose that the high carbon content in the enstatite
 chondrites was derived from an organic precursor. However, having
 undergone thermal metamorphosis in the inner Solar System it has been

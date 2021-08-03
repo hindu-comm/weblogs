@@ -1,7 +1,11 @@
 +++
 title = "Cerebrals or retroflexes in Indo-Aryan"
+date = "2008-05-15"
+upstream_url = "https://manasataramgini.wordpress.com/2008/05/15/cerebrals-or-retroflexes-in-indo-aryan/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/05/15/cerebrals-or-retroflexes-in-indo-aryan/).
+
 A question from R prompted me to look more closely at the formation of
 cerebrals or retroflexes in Indo-Aryan (i.e. T, Th, D, Dh, N, L, Sh).
 This is an important problem that Hindus should have studied but have
@@ -27,8 +31,8 @@ transition apparently happening between Epic Sanskrit and later
 classical Sanskrit. Wackernagel and Burrow also correctly noticed that
 in some cases this phenomenon also happened even earlier during the
 divergence of vedic from its other Indo-European sisters. For example:  
-monile (Latin) =\> maNi (Skt) : jewel  
-stUnA (Avestan) =\> sthuNA (Skt) : pillar
+monile (Latin) => maNi (Skt) : jewel  
+stUnA (Avestan) => sthuNA (Skt) : pillar
 
 Such cases are also noted within the evolution of Indo-Aryan as Prakrit
 and Pali diverged from Old-Indo-Aryan. In the vulgar Pali we observe the
@@ -112,3 +116,4 @@ historical paNDava-s and perhaps were even precursors of the great
 Megalithic movement through the sub-continent (thought this is less
 certain). Further tests of this hypothesis might yield useful
 understanding of early Indian history.
+

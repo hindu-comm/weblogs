@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "November 30, 2020"
+date = "2020-11-30"
+upstream_url = "https://vriitrahan.wordpress.com/2020/11/30/athenaze-greek-series-1a/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2020/11/30/athenaze-greek-series-1a/).
+
 This will be a regular series of posts, mostly translations of the
 Athenaze readings that I do often, for my own practice. A good archive
 to look back at and might help the odd person here and there. I find

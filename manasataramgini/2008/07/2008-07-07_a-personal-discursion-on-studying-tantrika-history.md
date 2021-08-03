@@ -1,7 +1,11 @@
 +++
 title = "A personal discursion on studying tAntrika history"
+date = "2008-07-07"
+upstream_url = "https://manasataramgini.wordpress.com/2008/07/07/a-personal-discursion-on-studying-tantrika-history/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/07/07/a-personal-discursion-on-studying-tantrika-history/).
+
 For some reason I was prompted to put down these useless words after an
 exchange with ekanetra. Many years ago, early in my youth the muni and I
 had created a series of historical impromptu dramas in which we had a
@@ -63,3 +67,4 @@ neglected shAstra-s. This is the point missed by our detractors.\].
 This was supposed to be a preamble to a brief note on the role of
 saiddhAntika tAntrika-s in the evolution of Hindu medicine – a topic we
 will discuss next.
+

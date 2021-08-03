@@ -1,7 +1,11 @@
 +++
 title = "The thought train of cephalopod intelligence"
+date = "2008-11-10"
+upstream_url = "https://manasataramgini.wordpress.com/2008/11/10/the-thought-train-of-cephalopod-intelligence/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/11/10/the-thought-train-of-cephalopod-intelligence/).
+
 [![octopi](https://i2.wp.com/farm4.static.flickr.com/3035/3017917925_44a58ed3c2.jpg)](http://www.flickr.com/photos/24766652@N05/3017917925/ "octopi by somasushma, on Flickr")
 
 We had earlier remarked about the [convergent evolution of intelligence
@@ -55,3 +59,4 @@ this scenario is less likely due the long coexistence of these forms and
 the discovery of early coeloids. However, Packard’s idea of a certain
 functional convergence, including in terms of intelligence is worth
 exploring.
+

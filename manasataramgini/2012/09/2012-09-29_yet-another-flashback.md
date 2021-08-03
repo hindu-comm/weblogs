@@ -1,7 +1,11 @@
 +++
 title = "Yet another flashback"
+date = "2012-09-29"
+upstream_url = "https://manasataramgini.wordpress.com/2012/09/29/yet-another-flashback/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/09/29/yet-another-flashback/).
+
 [Links to
 this](https://manasataramgini.wordpress.com/2009/11/07/the-prelude-to-the-philosophical-penetration/)
 
@@ -51,17 +55,17 @@ of noble brAhmaNa birth and KM a shauNDikA: flanked by them he looked
 much like the mystery man from Mathura of yore. Sometime later he
 queried us: “Why do you perform these saMdhyA rites?” We retorted: “It
 was you who taught us the basics of the yajuSh-es and now you ask us?”
-Mn: “Ah\! Sad are those who are bound by beliefs of those who came
-before them. They say you perform these yAga-s to attain suvargolokaH.
-But you can get there in a rocket, before the shyena chiti ever gets
-flying. And even if you can do that, do you want to get there after all
-\! The man who reaches chandraloka certainly cannot live long there and
-even before he reaches sUryaloka he would be verily reduced to plasma.
-Let me tell you, suvarga is not up there, it is here on this pR^ithivI –
-the sukha of suvarga is obtained right here in the embrace of the
-splendid ladies like MC and KM. So stop wasting time on pleasing mitra
-or varuNa; shape up and pursue such pleasures as I have achieved.” We
-smiled to ourselves: “chUDasya kuruvinda” and “shashakarNa”.
+Mn: “Ah! Sad are those who are bound by beliefs of those who came before
+them. They say you perform these yAga-s to attain suvargolokaH. But you
+can get there in a rocket, before the shyena chiti ever gets flying. And
+even if you can do that, do you want to get there after all ! The man
+who reaches chandraloka certainly cannot live long there and even before
+he reaches sUryaloka he would be verily reduced to plasma. Let me tell
+you, suvarga is not up there, it is here on this pR^ithivI – the sukha
+of suvarga is obtained right here in the embrace of the splendid ladies
+like MC and KM. So stop wasting time on pleasing mitra or varuNa; shape
+up and pursue such pleasures as I have achieved.” We smiled to
+ourselves: “chUDasya kuruvinda” and “shashakarNa”.
 
 Realizing, the divergence between us was underway, we moved our own
 ways. So we decided not to go the long way to the apara-lakShmInagara.
@@ -129,7 +133,8 @@ photoautotrophy thereafter leading to the great oxygenation. We also
 remarked that the lipid envelopes of our cells is a “memory” of the
 tholin world and there was never anything like an iron-sulfur world.
 
-From the stars we were made and in a star we will end\! Hence, to us the
+From the stars we were made and in a star we will end! Hence, to us the
 smoke that arose from the ritual fires of ours and those of our
 ancestors represents that soot which shot forth from stars which made
 us.
+

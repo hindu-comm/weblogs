@@ -1,7 +1,11 @@
 +++
 title = "The kAlI-krama"
+date = "2008-03-26"
+upstream_url = "https://manasataramgini.wordpress.com/2008/03/26/the-kali-krama/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/03/26/the-kali-krama/).
+
 The khachakra as described in the KhPS has an octagonal circuit in which
 are seated the 8 yoginI-s who are rejoicing at the great festival of the
 sport of yoga at the graveyard in karavIra. Inside their circuit are the
@@ -13,16 +17,16 @@ the midst of an unimaginable blaze. One of her 9 syllabled mantra-s is
 hence “namaH shrImahAma\~NgalAyaI”. They praise the supreme kAlI, the
 mistress of the khachakra, who is full of wonder (mahAshcharya) thus:
 
-khaphrekAra-dhAmasthe dhAma-rUpe nira\~njane |  
-chid-dhAma para-dhAmAkhye mahAdhAma pare kale ||  
-gaganAmbara-saMkAshe nirAdhAra-padoj-jhite |  
-nabhovyomAntaraakAre manthAnAnte namo.astu te ||  
+khaphrekAra-dhAmasthe dhAma-rUpe nira\~njane \|  
+chid-dhAma para-dhAmAkhye mahAdhAma pare kale \|\|  
+gaganAmbara-saMkAshe nirAdhAra-padoj-jhite \|  
+nabhovyomAntaraakAre manthAnAnte namo.astu te \|\|  
 You who reside in the abode of the bIja khaphreM, whose form is the
 abode \[of all\] , the stainless, the abode of consciousness known as
 the primal abode, the great abode and primary unit of time. You who are
 like the garment of the space, one who is free from even the state
 without any supporting foundations, you who is within space and vacuum,
-you who is within the churning one \[\*1\], salutations to you\!
+you who is within the churning one \[\*1\], salutations to you!
 
 \[\*1\] manthAna: this is an allusion to the great bhairava who in a
 different kula tradition, i.e. that of the pashchimAmnAya is called the
@@ -62,3 +66,4 @@ The two 13 kAlI sequences:
 11)kAla-kAlI  
 12)varNa-kAlI  
 13)ghora-chaNDa-mahA-kAlI
+

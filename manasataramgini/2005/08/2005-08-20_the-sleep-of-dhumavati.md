@@ -1,7 +1,11 @@
 +++
 title = "The sleep of dhUmAvatI"
+date = "2005-08-20"
+upstream_url = "https://manasataramgini.wordpress.com/2005/08/20/the-sleep-of-dhumavati/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/08/20/the-sleep-of-dhumavati/).
+
 We have heard of the nairR^ita spell of dhUmA which overpowers you with
 tremendous force. Even as we were scanning the horizon for the nirR^iti
 attack, the spell found its mark on us with the ucChuShma-rudra wings.
@@ -13,3 +17,4 @@ grave fear of the foe and all manner of bodily aches as it seizes you.
 Shortly after we awoke from the spell the khANDvans attacked directly.
 We simply decided to brush them aside knowing that their power came from
 the spell.
+

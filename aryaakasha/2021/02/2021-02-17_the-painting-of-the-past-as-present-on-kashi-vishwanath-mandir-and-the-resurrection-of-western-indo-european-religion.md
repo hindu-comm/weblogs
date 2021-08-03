@@ -1,8 +1,11 @@
 +++
-title = "The Painting Of The Past As Present – On Kashi Vishwanath Mandir And The Resurrection Of Western Indo-Europeanxa0Religion"
-date = "February 17, 2021"
+title = "The Painting Of The Past As Present – On Kashi Vishwanath Mandir And The Resurrection Of Western Indo-European Religion"
+date = "2021-02-17"
+upstream_url = "https://aryaakasha.com/2021/02/17/the-painting-of-the-past-as-present-on-kashi-vishwanath-mandir-and-the-resurrection-of-western-indo-european-religion/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/02/17/the-painting-of-the-past-as-present-on-kashi-vishwanath-mandir-and-the-resurrection-of-western-indo-european-religion/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/02/euyeob2viaaj71u.jpg?w=640)
 
 This is a painting of the Kashi Vishwanath Temple in Varanasi , painted

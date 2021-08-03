@@ -1,8 +1,11 @@
 +++
-title = "On The Indo-European ‘Interpretatio’ Of Dionysus – A Roaring Exaltation Of The Sky Father Comparativelyxa0Considered"
-date = "September 29, 2020"
+title = "On The Indo-European ‘Interpretatio’ Of Dionysus – A Roaring Exaltation Of The Sky Father Comparatively Considered"
+date = "2020-09-29"
+upstream_url = "https://aryaakasha.com/2020/09/29/on-the-indo-european-interpretatio-of-dionysus-a-roaring-exaltation-of-the-sky-father-comparatively-considered/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/09/29/on-the-indo-european-interpretatio-of-dionysus-a-roaring-exaltation-of-the-sky-father-comparatively-considered/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/09/bacchus_simeon_solomon-1.jpg?w=762)
 
 Dionysus is a deservedly fascinating figure. And also a badly

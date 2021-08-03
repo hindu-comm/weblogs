@@ -1,8 +1,11 @@
 +++
-title = "Some notes on the Brahmayajña brāhmaṇa and Uttama-paṭala of the Atharvaṇxa0tradition"
+title = "Some notes on the Brahmayajña brāhmaṇa and Uttama-paṭala of the Atharvaṇ tradition"
 date = "2021-01-29"
+upstream_url = "https://manasataramgini.wordpress.com/2021/01/29/some-notes-on-the-brahmayajna-brahma%e1%b9%87a-and-uttama-pa%e1%b9%adala-of-the-atharva%e1%b9%87-tradition/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2021/01/29/some-notes-on-the-brahmayajna-brahma%e1%b9%87a-and-uttama-pa%e1%b9%adala-of-the-atharva%e1%b9%87-tradition/).
+
 
 
 [Download](https://manasataramgini.files.wordpress.com/2021/01/brahmayajnaskt.pdf)

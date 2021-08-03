@@ -1,7 +1,11 @@
 +++
 title = "Frontline warriors"
+date = "2003-09-06"
+upstream_url = "https://manasataramgini.wordpress.com/2003/09/06/frontline-warriors/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/09/06/frontline-warriors/).
+
 The charge of the Indian brigade has been consistently plagued with the
 lack of proper frontline troops who can bear the cannon fire of uncouth,
 wild-eyed, gutter-mouthed barbarians like Brett Lee, Mcgrath and
@@ -26,4 +30,5 @@ like Rathore, Gandhi, Bangar and their ilk.
 With no big guns in sight, and one more war with the Barbarians of
 Southern Saxony coming up, one can only conjure up ghosts of the 92 and
 99 . They have been seared into the Indian mind like the encounters on
-the Panipat plain.
+the Panipat plain.  
+

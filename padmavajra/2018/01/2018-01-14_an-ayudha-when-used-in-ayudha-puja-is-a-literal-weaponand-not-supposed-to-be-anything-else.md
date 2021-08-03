@@ -1,8 +1,11 @@
 +++
-title = "An Ayudha when used in Ayudha puja is a literal weapon,and not supposed to be anythingxa0else"
+title = "An Ayudha when used in Ayudha puja is a literal weapon,and not supposed to be anything else"
 date = "2018-01-14"
+upstream_url = "https://padmavajra.net/2018/01/14/an-ayudha-when-used-in-ayudha-puja-is-a-literal-weaponand-not-supposed-to-be-anything-else/"
 
 +++
+Source: [here](https://padmavajra.net/2018/01/14/an-ayudha-when-used-in-ayudha-puja-is-a-literal-weaponand-not-supposed-to-be-anything-else/).
+
 Vayuna:…during Navarati the focus is on Sarasvati here and then each
 temple will have its own festival days
 

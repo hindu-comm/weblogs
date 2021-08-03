@@ -1,7 +1,11 @@
 +++
 title = "The new farce of baNabhatta"
+date = "2005-04-25"
+upstream_url = "https://manasataramgini.wordpress.com/2005/04/25/the-new-farce-of-banabhatta/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/04/25/the-new-farce-of-banabhatta/).
+
 bANa had just written a new play and was showing it to rAja harSha.
 harSha said he was impressed and decided that it must be put upon stage
 without any further delay. harSha called in his entertainers and asked
@@ -16,3 +20,4 @@ king. “I have decided that you shall be the vidUShaka yourself”. All
 bANa could do was to enjoy himself at his own expense.
 
 \* Any similitude to historical characters is purely coincidental.
+

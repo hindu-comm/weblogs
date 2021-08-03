@@ -1,7 +1,11 @@
 +++
 title = "The zombie dinosaur"
+date = "2008-11-17"
+upstream_url = "https://manasataramgini.wordpress.com/2008/11/17/the-zombie-dinosaur/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/11/17/the-zombie-dinosaur/).
+
 [![pleo](https://i2.wp.com/farm4.static.flickr.com/3158/3037653876_651dc78e09_o.jpg)](http://www.flickr.com/photos/24766652@N05/3037653876/ "pleo by somasushma, on Flickr")Marc
 was extraordinarily excited about a toy dinosaur, perhaps even more so
 than his kids :-). R was much less impressed and felt it was not worth
@@ -22,3 +26,4 @@ its inventor Caleb Chung, and saw a few videos. I was pretty impressed –
 the world of zombies seems even closer on us than I thought. Most
 importantly its behavior appears to be “open-source” so it leaves the
 door open for fairly complex memetic evolution.
+

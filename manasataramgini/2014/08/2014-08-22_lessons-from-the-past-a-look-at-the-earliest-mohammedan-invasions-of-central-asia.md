@@ -1,7 +1,11 @@
 +++
 title = "Lessons from the past: A look at the earliest Mohammedan invasions of Central Asia"
+date = "2014-08-22"
+upstream_url = "https://manasataramgini.wordpress.com/2014/08/22/lessons-from-the-past-a-look-at-the-earliest-mohammedan-invasions-of-central-asia/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/08/22/lessons-from-the-past-a-look-at-the-earliest-mohammedan-invasions-of-central-asia/).
+
 First published at IndiaFacts:
 <http://www.indiafacts.co.in/isis-caliphate-lessons-earliest-mohammedan-invasions-central-asia/>
 
@@ -14,22 +18,21 @@ Turkic Osman empire, at which point the power center within Islam
 completely shifted from the Arab world to the Turkic world. After the
 Osman Sultan Mehmet-II \[Footnote 1\] took Constantinople from the
 Byzantine Christians he declared himself the Khalifeh ül-Rasul Rab
-al-A’alamin, i.e. Caliph of Islam. This Osman Caliphate lasted until
-the last century when it was ended by the secular movement of Mustafa
-Kemal. Now, 90 years later, the Islamic Caliphate has re-emerged in its
-former west Asian heartland, where it held sway prior to the Mongol
-conquests under Dr. Abu Bakr, who claims descent from the same clan as
-the founder of Islam. The goriness and swiftness of its advance is
-comparable only to its earlier counterpart from around 1300 years ago.
-One of the major thrusts of Army of Islam under the early Arab Caliphate
-was in Central Asia. This came at the expense of the greater Indic
-civilization and still leaves its mark on bhārata by cutting our nation
-off from its natural sphere of influence, Central Asia, or what the
-Hindus called uttarāpatha. Now the new Caliphate has already placed
-bhārata in it cross-hairs, even as its commander, Ibrahim Awwad
-al-Badri, made this clear recently. Against this backdrop it is useful
-to examine the history of these earliest Islamic attacks on Central
-Asia.
+al-A’alamin, i.e. Caliph of Islam. This Osman Caliphate lasted until the
+last century when it was ended by the secular movement of Mustafa Kemal.
+Now, 90 years later, the Islamic Caliphate has re-emerged in its former
+west Asian heartland, where it held sway prior to the Mongol conquests
+under Dr. Abu Bakr, who claims descent from the same clan as the founder
+of Islam. The goriness and swiftness of its advance is comparable only
+to its earlier counterpart from around 1300 years ago. One of the major
+thrusts of Army of Islam under the early Arab Caliphate was in Central
+Asia. This came at the expense of the greater Indic civilization and
+still leaves its mark on bhārata by cutting our nation off from its
+natural sphere of influence, Central Asia, or what the Hindus called
+uttarāpatha. Now the new Caliphate has already placed bhārata in it
+cross-hairs, even as its commander, Ibrahim Awwad al-Badri, made this
+clear recently. Against this backdrop it is useful to examine the
+history of these earliest Islamic attacks on Central Asia.
 
 Within 20 years from the death of Mohammed, the founder of Islam, the
 army of Islam had largely destroyed the powerful Zoroastrian empire of
@@ -212,3 +215,4 @@ Conquest to Tamerlane” by S. Frederick Star. It gives an effusive
 account of the “Islamic golden age” in Central Asia with claim that the
 knowledge systems created there contributed fundamentally to Indian
 knowledge among others.
+

@@ -1,8 +1,11 @@
 +++
-title = "KaalRatri – The Seventh Night of NavRatri; The Seventh of thexa0NavaDurgas"
-date = "October 5, 2019"
+title = "KaalRatri – The Seventh Night of NavRatri; The Seventh of the NavaDurgas"
+date = "2019-10-05"
+upstream_url = "https://aryaakasha.com/2019/10/05/kaalratri-the-seventh-night-of-navratri-the-seventh-of-the-navadurgas-2/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/10/05/kaalratri-the-seventh-night-of-navratri-the-seventh-of-the-navadurgas-2/).
+
 # ![12106740_10156184719985574_6300967571131944870_n (2)](https://aryaakasha.files.wordpress.com/2019/10/12106740_10156184719985574_6300967571131944870_n-2.jpg?w=676)
 
 “You often hear it said – “Time is on our side”.  

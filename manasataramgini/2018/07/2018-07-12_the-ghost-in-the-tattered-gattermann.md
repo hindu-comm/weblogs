@@ -1,7 +1,11 @@
 +++
 title = "The ghost in the tattered Gattermann"
+date = "2018-07-12"
+upstream_url = "https://manasataramgini.wordpress.com/2018/07/12/the-ghost-in-the-tattered-gattermann/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2018/07/12/the-ghost-in-the-tattered-gattermann/).
+
 Vidrum had dropped by to see Somakhya and Lootika when they had just
 started their household together. They had reconstituted a fairly
 elaborate lab in the biggest room of their home. They had also
@@ -10,16 +14,16 @@ It had a niche for the images of various deities along with a sacristy.
 They showed Vidrum around and after uttering some purificatory
 incantations and, sprinkling water on him from a kamaṇḍalu, led him into
 the fire-room. There he saw the images of Maghavan along with his
-parivāra, the six-headed Kumāra, the patron god of Somakhya and
-Lootika, and of Ucchiṣṭolka and his wife covered in a blue cloth.
-Thereafter they passed the images of the lord of the yakṣa-s and those
-of the 7 mothers to finally arrive before the image of the terrifying
-patron goddess of their ancestors, Atharvaṇa-bhadrakālī. As they stopped
-before it, Somakhya smeared some vibhūti and kuṃkuma on Vidrum’s
-forehead from a human calvaria kept before it. There was not much
-furniture beyond their bike rack and three ample bookshelves for both of
-them still had their collection of physical books. So they sat on
-cushions on a floor mat facing those bookshelves.
+parivāra, the six-headed Kumāra, the patron god of Somakhya and Lootika,
+and of Ucchiṣṭolka and his wife covered in a blue cloth. Thereafter they
+passed the images of the lord of the yakṣa-s and those of the 7 mothers
+to finally arrive before the image of the terrifying patron goddess of
+their ancestors, Atharvaṇa-bhadrakālī. As they stopped before it,
+Somakhya smeared some vibhūti and kuṃkuma on Vidrum’s forehead from a
+human calvaria kept before it. There was not much furniture beyond their
+bike rack and three ample bookshelves for both of them still had their
+collection of physical books. So they sat on cushions on a floor mat
+facing those bookshelves.
 
 Vidrum: “I sure you will say that this was bound to happen due to the
 gods or maybe that it is the way of siddha-s and their kulāṅgaṇā-s or
@@ -44,7 +48,7 @@ when you told me that you were even jealous of Somakhya. You and your
 sisters had some ferocity atypical for your sex, though your looks do
 not betray that. But if someone could hold their own in the domains so
 peculiar to you it would be Somakhya.”  
-Lootika controlling a chuckle: “Ouch\! But as for being jealous of
+Lootika controlling a chuckle: “Ouch! But as for being jealous of
 Somakhya, maybe my steroids got better of me shortly after I told you
 that.”  
 Vidrum: “Now don’t tell me it was the steroids since I have heard my
@@ -86,7 +90,7 @@ Vrishchika accompanied our mother to help her haul groceries from the
 market stalls near our house. After the purchases, we were walking back
 home when we caught sight of a cart-man who selling the roadside
 śṛṅgāṭaka with the harimanthaka-sūpa.”  
-Vidrum: “Ah\! that famous śṛṅgāṭaka-seller. My mouth is watering even as
+Vidrum: “Ah! that famous śṛṅgāṭaka-seller. My mouth is watering even as
 you mention it. Eating his śṛṅgāṭaka-s with the chick-pea slurry was one
 of the high-points of my otherwise dismal youth.”  
 Somakhya: “We do have some lunch for you. You can see if Lootika might
@@ -106,18 +110,18 @@ Instead, I’d substitute it with something at home.’ So she told that
 vendor that she would take six freshly made śṛṅgāṭaka. He was about to
 dispense them in pieces of paper which he tore from a book and handed to
 me and my sister. She forbade him and instructed him to transfer the
-śṛṅgāṭaka-s directly from his kaṭaha to an empty box in one her
-bags. Holding that page from the book felt like coming in possession of
-a Japanese yokāi. In the light of the lantern on the food cart, I caught
+śṛṅgāṭaka-s directly from his kaṭaha to an empty box in one her bags.
+Holding that page from the book felt like coming in possession of a
+Japanese yokāi. In the light of the lantern on the food cart, I caught
 the printing on the page, which was made of good American paper – it
 displayed a potash apparatus. Puzzled, I asked I could see the whole
 book. The cart-man gruffly handed it to me. Leafing through it even as
 the śṛṅgāṭaka-s were being transferred I realized it was something to
 possess. I asked my mother if she could buy it from him. My mother gave
 him a few ₹s extra and got the book for me. That evening eating that
-śṛṅgāṭaka with my mother’s pickle and reading the very Gattermann,
-which you just picked off the shelf, I felt I was in the abode of Indra.
-I wished my mother had bought us at least one more of those śṛṅgāṭaka-s,
+śṛṅgāṭaka with my mother’s pickle and reading the very Gattermann, which
+you just picked off the shelf, I felt I was in the abode of Indra. I
+wished my mother had bought us at least one more of those śṛṅgāṭaka-s,
 but she instead also meant to give us another form of immunity. After we
 were done with dinner, she brought out images of the slices of the brain
 of a man who died recently. ‘Cysticercosis’ she remarked even as I was
@@ -157,7 +161,7 @@ we first made acquaintance with you. At the end of that, I returned to
 biology, now as a biochemist in the making, but I had been transformed
 in many dimensions.”
 
-Vidrum: “Ah\! I can now see how that book holds a special place for you.
+Vidrum: “Ah! I can now see how that book holds a special place for you.
 So Somakhya that seems to have been at the root of the virtuosity of
 your wife you used to episodically praise in our youth followed by the
 phrase ‘don’t tell her that I think so’.”  
@@ -218,13 +222,13 @@ Somakhya: “We don’t have a planchette with us now.”
 Vidrum: “I’m sure you can do more. Could you not summon him by some
 other means.”  
 Somakhya: “We could, if you are willing to be a medium, do a
-bhūtadarśana. But the last time I did it you said you never wanted to
-be one again.”  
+bhūtadarśana. But the last time I did it you said you never wanted to be
+one again.”  
 Vidrum: “That’s OK. I think I am game for it again for I think there is
 something sinister about this book.”  
 Lootika: “OK we shall try a Kapālīśa Bhairava-Raktacāmuṇḍā-prayoga to
 draw the entity to give you a bhūtadarśana.”  
-Somakhya: “No Lootika\! We might need that prayoga soon for something
+Somakhya: “No Lootika! We might need that prayoga soon for something
 more serious and we do not want to deploy it right now. Since were are
 sarvādhikārin-s we shall deploy the prayoga of Sahasrāra and Viṣvaksena
 along with his Karimukha-s to bring out the resident.”
@@ -275,14 +279,14 @@ who is the fifth male deity? Some say he is Rāma but others say that is
 not so.’ Our vaiṣṇava says: ‘ You may say so and take it to be this way;
 but that is not Rukmiṇi, she is devī Ekānaṃśā. That other deity you can
 take to be Sātyaki. The man:’OK. Who is this Sātyaki?’. The vaiṣṇava:
-‘He is an incarnation of the chief Sādhya, a class of gods who
-formerly carried out the orders of the śrīman Nārāyaṇa. He was an
-incarnate hero in the days of the Bhārata to aid the līlā-s of incarnate
-Nārāyaṇa and Nara. You must hear the Bhārata when it is recited by the
-Bhāratiyār-s who visit the village. Having said this we see the vaiṣṇava
-seek a corner of the temple where he is seen doing japa of the
-mantra:’vavande vāsudevaṃ ca saṃkarṣaṇaṃ ca । namāmi pradyuṃnaṃ
-sadyojātam aniruddhaṃ ca । ekānaṃśāṃ prapadye sādhyaṃ prapadye । oṃ ॥‘.
+‘He is an incarnation of the chief Sādhya, a class of gods who formerly
+carried out the orders of the śrīman Nārāyaṇa. He was an incarnate hero
+in the days of the Bhārata to aid the līlā-s of incarnate Nārāyaṇa and
+Nara. You must hear the Bhārata when it is recited by the Bhāratiyār-s
+who visit the village. Having said this we see the vaiṣṇava seek a
+corner of the temple where he is seen doing japa of the mantra:’vavande
+vāsudevaṃ ca saṃkarṣaṇaṃ ca । namāmi pradyuṃnaṃ sadyojātam aniruddhaṃ ca
+। ekānaṃśāṃ prapadye sādhyaṃ prapadye । oṃ ॥‘.
 
 Having finished his japa he goes out to wander near the environs of the
 temple. He walks up to nearby tank that was excavated by a Vijayanagaran
@@ -314,11 +318,11 @@ anything or he might cast a spell on you.’”
 Then Vidrum’s transmission went blank for some time. But he seemed to
 experience a great quiet and peace with occasionally re-emergence of the
 syllables he had seen and heard earlier. Lootika remarked to Somakhya:
-“O Bhṛgūdvaha the Ayyangār seems to have been prescient for his
-times.” S: “True, dear; I am really curious to know how far he got
-with his objective.” Then Vidrum’s transmission continued. Vidrum: “I
-see a man screaming: ‘I am the one, I am the one.’. He looks contorted
-and with pinpoint pupils as though poisoned by an opioid.”  
+“O Bhṛgūdvaha the Ayyangār seems to have been prescient for his times.”
+S: “True, dear; I am really curious to know how far he got with his
+objective.” Then Vidrum’s transmission continued. Vidrum: “I see a man
+screaming: ‘I am the one, I am the one.’. He looks contorted and with
+pinpoint pupils as though poisoned by an opioid.”  
 Lootika: “Yes. He will speak. Don’t worry.”  
 Vidrum noticed the man freeze for a while and then start speaking: “My
 name is Sadāhāsa. I belonged to the 3rd varṇa and my people originally
@@ -348,8 +352,8 @@ with all kinds of criminal and debauched elements.
 
 That Ayyangār, whose story I gave you a glimpse of, eventually reached
 the end of his allotted span of time. As Yama’s dogs with their broad
-muzzles were about to shred him to pieces, he cried out: “Vāsudeva\!
-Balabhadra\! Pradyuṃna\! Aniruddha\! Ekānaṃśā\! and he was borne away to
+muzzles were about to shred him to pieces, he cried out: “Vāsudeva!
+Balabhadra! Pradyuṃna! Aniruddha! Ekānaṃśā! and he was borne away to
 join the vast retinue of Viṣvaksena in the loka known as Vaikuṇṭha.
 Nobody around him really understood what he had researched and
 discovered in his life. His best student had only 1/24th of his genius.
@@ -367,8 +371,8 @@ project. After some effort, I showed that it was a protocatechuate ester
 derivative of a sesterterpenoid with four sulfurs in a tandem linear
 linkage.”
 
-Lootika excitedly: “vallabhatama\! hear that\! the sesterterpenoid with
-epitetrathio linkage\!” Somakhya: “varārohe\! does it not have your mind
+Lootika excitedly: “vallabhatama! hear that! the sesterterpenoid with
+epitetrathio linkage!” Somakhya: “varārohe! does it not have your mind
 racing? From whence? from whence?”
 
 Vidrum continued the relay undistracted by his friends’ excitement:
@@ -406,8 +410,8 @@ of movement as they generally performed powerful digbandha-s to protect
 themselves. But now good man you have set me free; hence, I’ll take my
 revenge and come back to do you a good turn.”
 
-Vidrum: “Wow\! As in the days of our youth you have managed to make
-visible a most remarkable phantom\!”  
+Vidrum: “Wow! As in the days of our youth you have managed to make
+visible a most remarkable phantom!”  
 Somakhya: “You deserve all the credit for sniffing this one out.
 Frankly, I did not sense anything there.”  
 Lootika: “I sort of feel embarrassed that this fellow was lurking all
@@ -416,4 +420,5 @@ nothing about it. At least he says he is going to come back to help
 you.”  
 Vidrum: “I thought I had seen the last of my goblins but I guess there
 is more in store.”  
-Somakhya: “By no means, you have seen the last of them\!”
+Somakhya: “By no means, you have seen the last of them!”
+

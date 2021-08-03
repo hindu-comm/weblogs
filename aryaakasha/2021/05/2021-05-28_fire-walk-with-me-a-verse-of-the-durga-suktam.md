@@ -1,8 +1,11 @@
 +++
-title = "Fire, Walk With Me – A Verse Of The Durgaxa0Suktam"
-date = "May 28, 2021"
+title = "Fire, Walk With Me – A Verse Of The Durga Suktam"
+date = "2021-05-28"
+upstream_url = "https://aryaakasha.com/2021/05/28/fire-walk-with-me-a-verse-of-the-durga-suktam/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/05/28/fire-walk-with-me-a-verse-of-the-durga-suktam/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/05/e443bb589a520b2d14b4bb0e53e38975.jpg?w=693)
 
 “Bravery will take you into the most dangerous of places. Overwhelming

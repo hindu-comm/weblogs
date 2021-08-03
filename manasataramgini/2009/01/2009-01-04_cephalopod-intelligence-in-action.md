@@ -1,7 +1,19 @@
 +++
 title = "Cephalopod intelligence in action?"
+date = "2009-01-04"
+upstream_url = "https://manasataramgini.wordpress.com/2009/01/04/cephalopod-intelligence-in-action/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/01/04/cephalopod-intelligence-in-action/).
+
+
+
+# An error occurred.
+
+[Try watching this video on
+www.youtube.com](https://www.youtube.com/watch?v=H8oQBYw6xxc), or enable
+JavaScript if it is disabled in your browser.
+
 This footage of a mimic octopus raises the issue of cephalopod
 intelligence which we have discussed in the past. Here the mimic octopus
 is shown impersonating a flat solefish, a lionfish and a sea-snake all
@@ -35,7 +47,7 @@ birds rove in mixed species bird flocks in the Indian subcontinent. In
 observations carried out in Lanka it was noticed that in addition to
 their own alarm calls, they also frequently used the alarm and mobbing
 calls of other species as well as the calls of predators like Blue
-magpie, the Crested serpent eagle and even cats. Here it is believed
+magpie, the Crested serpent eagleand even cats. Here it is believed
 that the drongo amplifies the alarm effect in mixed species flocks or
 even threatens potential predators imitating calls of other predators.
 The drongo is also known to be more efficient in foraging food in
@@ -51,4 +63,5 @@ In this context it would be of interest to discover if the octopi can
 learn mimicry at all. From a neurobiological stand point if this
 behavioral learning is indeed possible in the octopi it would be of
 profound significance – i.e. does the learning involved the cephalic
-ganglia or does it entirely go via the tentacular ganglial system\!
+ganglia or does it entirely go via the tentacular ganglial system!
+

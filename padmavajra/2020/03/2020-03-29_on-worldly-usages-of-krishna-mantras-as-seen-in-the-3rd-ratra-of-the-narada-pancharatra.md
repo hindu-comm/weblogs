@@ -1,8 +1,11 @@
 +++
-title = "On worldly usages of Krishna mantras as seen in the 3rd rAtra of the Naradaxa0Pancharatra"
+title = "On worldly usages of Krishna mantras as seen in the 3rd rAtra of the Narada Pancharatra"
 date = "2020-03-29"
+upstream_url = "https://padmavajra.net/2020/03/29/on-worldly-usages-of-krishna-mantras-as-seen-in-the-3rd-ratra-of-the-narada-pancharatra/"
 
 +++
+Source: [here](https://padmavajra.net/2020/03/29/on-worldly-usages-of-krishna-mantras-as-seen-in-the-3rd-ratra-of-the-narada-pancharatra/).
+
 The 3rd rAtra of the Narada Pancharatra(of the Krishna centred stream)
 gives various Krishna mantras and their dhyAnas and kAmya usages
 

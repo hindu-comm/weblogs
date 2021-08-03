@@ -1,7 +1,11 @@
 +++
 title = "The revenge of the temple of rAma-I"
+date = "2005-03-20"
+upstream_url = "https://manasataramgini.wordpress.com/2005/03/20/the-revenge-of-the-temple-of-rama-i/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/03/20/the-revenge-of-the-temple-of-rama-i/).
+
 The folk mythology of coastal West India holds that the land was
 reclaimed from the sea by the great bhArgava by means of his axe.
 Accordingly rama jAmadagnya is widely worshipped in this region. After a
@@ -93,3 +97,4 @@ retreated ignominiously from the Konkan as no further operations could
 be conducted.
 
 continued …
+

@@ -1,8 +1,11 @@
 +++
-title = "A brief review of:The Rise of Mahasena:The transformation of Skanda-Karttikeya in Northxa0India"
-date = "2019-12-07"
+title = "A brief review of:The Rise of Mahasena:The transformation of Skanda-Karttikeya in North India"
+date = "2019-07-12"
+upstream_url = "https://padmavajra.net/2019/12/07/a-brief-review-ofthe-rise-of-mahasenathe-transformation-of-skanda-karttikeya-in-north-india/"
 
 +++
+Source: [here](https://padmavajra.net/2019/12/07/a-brief-review-ofthe-rise-of-mahasenathe-transformation-of-skanda-karttikeya-in-north-india/).
+
 Book in question: [The Rise of Mahasena:The transformation of
 Skanda-Karttikeya in North India from the Kusana to Gupta
 Empires(Brill’s Indological

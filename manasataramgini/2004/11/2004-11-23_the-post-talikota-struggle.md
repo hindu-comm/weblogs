@@ -1,7 +1,11 @@
 +++
 title = "The post-Talikota struggle"
+date = "2004-11-23"
+upstream_url = "https://manasataramgini.wordpress.com/2004/11/23/the-post-talikota-struggle/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/11/23/the-post-talikota-struggle/).
+
 After the fall of Vijayanagar some historians believe that Tirumala, the
 brother of Ramaraya made an attempt to revive the city but failed. It is
 believed that there was a conflict between him and his nephew Pedda
@@ -26,7 +30,7 @@ considerably weakened. Adil Shah, who had recovered from the Talikota
 war, marched southwards again in 1567 to continue the conquest of the
 Vijayanagaran kingdom. Pedda Tirumala entered into negotiations with the
 Sultan and directed the invader against his uncle Tirumala, whom he
-feared. But the Sultan brushed him aside and took Vijayanagar and then
+feared. But the Sultanbrushed him aside and took Vijayanagar and then
 marched on Penukonda. Tirumala dispatched his commander Savaram
 Chennappa Nayaka to repulse the Sultan. The Nayaka inflicted a defeat on
 the Moslem forces through a surprise sally when the Sultan was expecting
@@ -165,3 +169,4 @@ engagement, Moslems too suffered heavy losses and could not pursue their
 conquests immediately. However, even as Shriranga III was vanishing into
 oblivion in 1649, a new Hindu power that was to conquer the south had
 emerged in the form of the king of the Maharattas.
+

@@ -1,7 +1,11 @@
 +++
 title = "Chenchus, Lambadis and the L1 haplogroup"
+date = "2005-12-25"
+upstream_url = "https://manasataramgini.wordpress.com/2005/12/25/chenchus-lambadis-and-the-l1-haplogroup/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/12/25/chenchus-lambadis-and-the-l1-haplogroup/).
+
 Analysis of some additional data from the Cordaux paper and the earlier
 works of the group from Vanga reveals further interesting trends in the
 distribution of the L1 haplogroup, which was seen to be predominant in
@@ -14,26 +18,25 @@ Kammas of Andhra 17%, so also the Sinhalese show about 17% of it. These
 numbers suggest that indeed L1 is probably associated with the spread of
 the spread of the Megalithic culture through peninsular India. The Tamil
 cultural revolution, probably marking the first Dravidian
-“civilization”, spread out northwards actively with a declining
-gradient of influence. In the south it similarly influence Shri Lanka.
-As a result of this spread of the Dravidians, who already possessed a
-certain social standing, the L1 haplogroup bearing males were able to
-enter the Indo-Aryan caste hierarchy at the middle level and show
-further upward mobility. The later point is illustrated by the fact that
-in Brahmins of Tamil Nad, Andhra and Maharashtra (the Konkanastha
-Brahmins) the L1 haplogroup is seen in 10-13% frequency. Most
-interestingly, the Saurashtrans who are an immigrant group into Tamil
-Nad from the Gujarat-Maharastra zone show upto 25% frequency of the L1
-marker. This is in fact in contrast to the overall level of L1 in
-Gujarat being around 10% (Albeit a relatively small sample of 29 males),
-and in general in Maharashtran upper and middle castes around 10-11%.
-Thus, despite retaining their unique language of the Indo-Aryan family,
-the Saurashtrans have acquired a considerable component from the Tamil
-gene pool (lower bound of 15%). This suggests that even the rather
-insulated Saurashtrian jAti was genetically porous to a certain degree.
-Probably the Saurashtran jAti’s tight connection with certain
-professional guilds strongly preserved its language while letting people
-in.
+“civilization”, spread out northwards actively with a declining gradient
+of influence. In the south it similarly influence Shri Lanka. As a
+result of this spread of the Dravidians, who already possessed a certain
+social standing, the L1 haplogroup bearing males were able to enter the
+Indo-Aryan caste hierarchy at the middle level and show further upward
+mobility. The later point is illustrated by the fact that in Brahmins of
+Tamil Nad, Andhra and Maharashtra (the Konkanastha Brahmins) the L1
+haplogroup is seen in 10-13% frequency. Most interestingly, the
+Saurashtrans who are an immigrant group into Tamil Nad from the
+Gujarat-Maharastra zone show upto 25% frequency of the L1 marker. This
+is in fact in contrast to the overall level of L1 in Gujarat being
+around 10% (Albeit a relatively small sample of 29 males), and in
+general in Maharashtran upper and middle castes around 10-11%. Thus,
+despite retaining their unique language of the Indo-Aryan family, the
+Saurashtrans have acquired a considerable component from the Tamil gene
+pool (lower bound of 15%). This suggests that even the rather insulated
+Saurashtrian jAti was genetically porous to a certain degree. Probably
+the Saurashtran jAti’s tight connection with certain professional guilds
+strongly preserved its language while letting people in.
 
 The fascinating Lambadi tribe of Southern India is a nomadic tribe
 moving around with horses and cattle. I had witnessed a few bands of
@@ -63,3 +66,4 @@ tribal condition. Alternatively their special symbiotic association with
 the caste populations may have resulted in gene flow into them. This is
 one of the unique tribal groups of India that is facing extinction in
 modern India due to habitat loss and disease.
+

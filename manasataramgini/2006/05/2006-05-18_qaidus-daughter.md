@@ -1,7 +1,11 @@
 +++
 title = "Qaidu’s daughter"
+date = "2006-05-18"
+upstream_url = "https://manasataramgini.wordpress.com/2006/05/18/qaidus-daughter/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/05/18/qaidus-daughter/).
+
 The learned vaiShNava narrated to me a tale he gathered during his
 travels in the lands of the hUnas. Qaidu was the son of Qashi, who was
 the son of Ogodei, who was the 3rd son of the most illustrious Chingiz
@@ -40,3 +44,4 @@ generations after Chingiz Khan arose another princess of his line,
 Mandughai, who was like a second Aiyaruk who led the Mongols to many
 victories described in the Chronicles of Sagang Sechen (who was a
 learned tantric of the path of nIlAsarasvatI).
+

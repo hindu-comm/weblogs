@@ -1,7 +1,11 @@
 +++
 title = "Origin mythologies from the upper penisula"
+date = "2010-06-05"
+upstream_url = "https://manasataramgini.wordpress.com/2010/06/05/origin-mythologies-from-upper-penisula/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/06/05/origin-mythologies-from-upper-penisula/).
+
 R and me were wandering in the mAhArATTa country after having rid
 ourselves from the curricular entanglements. We rode on our “ashva-s”
 past the prickly pear that stood between a low encasement of Deccan
@@ -141,3 +145,4 @@ or the kAkinI for a rasa-sAdhaka to become a siddha. There is a parallel
 narrative in a Tibetan description of siddha-s. The tamil charitraM
 mentions charpaTi’s tAntrika practice of yoga with the cowherd’s
 (kovaLan= drAviDa word for gopAla) wife leading to his siddhi.
+

@@ -1,8 +1,11 @@
 +++
-title = "The Past Is A Battlefield – Fought Over By The Armies Ofxa0Modernity"
-date = "February 25, 2021"
+title = "The Past Is A Battlefield – Fought Over By The Armies Of Modernity"
+date = "2021-02-25"
+upstream_url = "https://aryaakasha.com/2021/02/25/the-past-is-a-battlefield-fought-over-by-the-armies-of-modernity/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/02/25/the-past-is-a-battlefield-fought-over-by-the-armies-of-modernity/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/02/152901001_10164839898830574_2513132439171161479_n.jpg?w=510)
 
 Some of the comments from my latest article. Which I find interesting –

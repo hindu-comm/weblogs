@@ -1,25 +1,29 @@
 +++
 title = "Jalal-ud-din"
+date = "2004-06-20"
+upstream_url = "https://manasataramgini.wordpress.com/2004/06/20/jalal-ud-din/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/06/20/jalal-ud-din/).
+
 One branch of the Chahamanas, after the death and defeat of king
 Prithiviraja Chahamana and the fall of their capital Dilika (Old Delhi),
 continued the struggle against Islam from Ranthambhor.
 
-\-In 1209 the Rajputs stoutly defended this great fortress against
+-In 1209 the Rajputs stoutly defended this great fortress against
 Qutub-ud-din, who was dispatched by Ghori to sack it, and routed him.
 
-\-In 1226 Il-tut-mish attacked the fort with renewed vigor and bought
-off a Hindu traitor who enabled him to take the fort.
+-In 1226 Il-tut-mish attacked the fort with renewed vigor and bought off
+a Hindu traitor who enabled him to take the fort.
 
-\-During the reign of female Sultan Razziya and her lover, the Rajputs
+-During the reign of female Sultan Razziya and her lover, the Rajputs
 crushed the Turkish garrison and recaptured the fort.
 
-\-In 1249 the Moslems made another attempt to sack the fort under the
+-In 1249 the Moslems made another attempt to sack the fort under the
 terrible Mamluq Sultan Balban but he was completely defeated by the
 Rajputs and fled back to Delhi.
 
-\-In 1282 Rana Hammira ascended the throne of Ranthambore and restored
+-In 1282 Rana Hammira ascended the throne of Ranthambore and restored
 the glory of the Rajputs by annexing Ujjaini, Ajayamerupura, Pushkara
 and the Gond territory. The expanding Hammira Deva hoped to evict the
 Turks from India but this was not be.
@@ -69,3 +73,4 @@ Jalal lost heart and returned to Delhi.
 
 [Continue
 here](https://manasataramgini.wordpress.com/2004/06/20/hammira-devas-last-stand/)
+

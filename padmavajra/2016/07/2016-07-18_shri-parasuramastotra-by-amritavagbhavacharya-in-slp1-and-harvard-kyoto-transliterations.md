@@ -1,8 +1,11 @@
 +++
-title = "Shri Parasuramastotra by Amritavagbhavacharya in SLP1 transliteration andxa0Devanagari"
+title = "Shri Parasuramastotra by Amritavagbhavacharya in SLP1 transliteration and Devanagari"
 date = "2016-07-18"
+upstream_url = "https://padmavajra.net/2016/07/18/shri-parasuramastotra-by-amritavagbhavacharya-in-slp1-and-harvard-kyoto-transliterations/"
 
 +++
+Source: [here](https://padmavajra.net/2016/07/18/shri-parasuramastotra-by-amritavagbhavacharya-in-slp1-and-harvard-kyoto-transliterations/).
+
 
 
 ### Introduction to Sri Amritavagbhavacharya

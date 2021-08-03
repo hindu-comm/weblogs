@@ -1,8 +1,11 @@
 +++
 title = "gītā karādinyāsaḥ"
 date = "2016-08-13"
+upstream_url = "https://padmavajra.net/2016/08/13/gita-karadinyasa%e1%b8%a5/"
 
 +++
+Source: [here](https://padmavajra.net/2016/08/13/gita-karadinyasa%e1%b8%a5/).
+
 atha gītākarādinyāsaḥ
 
 oṃ asya śrībhagavadgītāmālāmantrasya\|\| bhagavānvedavyāsa ṛṣiḥ\|\|

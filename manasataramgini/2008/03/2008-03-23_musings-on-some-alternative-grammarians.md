@@ -1,14 +1,18 @@
 +++
 title = "Musings on some alternative grammarians"
+date = "2008-03-23"
+upstream_url = "https://manasataramgini.wordpress.com/2008/03/23/musings-on-some-alternative-grammarians/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/03/23/musings-on-some-alternative-grammarians/).
+
 durgasiMha the commentator on the nirukta of yAska states:  
-“vyAkaraNaM aShTadhA |”.  
+“vyAkaraNaM aShTadhA \|”.  
 The physician and grammarian vopadeva from the medieval yadava court
 expands on the same theme naming the eight forms of saMskR^ita
 grammar:  
-indrash-chandraH kAshakR^itsn.a-ApishalI shAkaTAyanaH |  
-pANiny-amara-jainendrA jayantya aShTAdishAbdikAH || (in dhAtupATha
+indrash-chandraH kAshakR^itsn.a-ApishalI shAkaTAyanaH \|  
+pANiny-amara-jainendrA jayantya aShTAdishAbdikAH \|\| (in dhAtupATha
 discussion)
 
 Despite the tremendous productivity of saMskR^ita thinkers on grammar it
@@ -63,3 +67,4 @@ mahApratya\~NgirA, which had a picture of the devI with numerous arms
 holding all kinds of weapons. Another text of chandragomin had a long
 nAstika-pratya\~NgirA mAlA mantra which seeks protection against all
 kinds of dangers.
+

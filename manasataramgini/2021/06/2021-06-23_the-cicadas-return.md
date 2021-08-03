@@ -1,8 +1,11 @@
 +++
 title = "The cicadas return"
 date = "2021-06-23"
+upstream_url = "https://manasataramgini.wordpress.com/2021/06/23/the-cicadas-return/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2021/06/23/the-cicadas-return/).
+
 Seventeen years after [we first saw them
 emerge](https://manasataramgini.wordpress.com/2004/05/22/on-cicadas-and-their-kin/),
 like a great horde of Cīna-s invading Tibet, the cicadas of Brood X

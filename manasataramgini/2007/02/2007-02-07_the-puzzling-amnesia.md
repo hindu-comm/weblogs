@@ -1,19 +1,23 @@
 +++
 title = "The puzzling amnesia"
+date = "2007-02-07"
+upstream_url = "https://manasataramgini.wordpress.com/2007/02/07/the-puzzling-amnesia/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/02/07/the-puzzling-amnesia/).
+
 A number of threads suddenly converged in this direction:  
 Sharada mentioned that some scholarly advaitins on a web-list saw
-similarity between Sufism and advaita\! She said it is really
-interesting that these scholarly Hindus are so utterly lacking in
-historical sense. I could not agree more. Another thread arose over a
-discussion on the events in Gorakhpur. The parallel to the situation
-when the Dravidians emerged suddenly from the woodwork during the
-unfolding at Kanchipuram cannot be missed, but this time the Ghazis are
-the doers. Time and again we hear that the Hindus are the demons and
-that the Meccan fiends are innocent lambs taken to have their throats
-slit. How come the Hindus have been seized by such apasmara? Perhaps the
-failure to worship skanda for millenia I mused.
+similarity between Sufism and advaita! She said it is really interesting
+that these scholarly Hindus are so utterly lacking in historical sense.
+I could not agree more. Another thread arose over a discussion on the
+events in Gorakhpur. The parallel to the situation when the Dravidians
+emerged suddenly from the woodwork during the unfolding at Kanchipuram
+cannot be missed, but this time the Ghazis are the doers. Time and again
+we hear that the Hindus are the demons and that the Meccan fiends are
+innocent lambs taken to have their throats slit. How come the Hindus
+have been seized by such apasmara? Perhaps the failure to worship skanda
+for millenia I mused.
 
 There was an
 [article](http://www.frontpagemag.com/Articles/ReadArticle.asp?ID=26769)
@@ -59,3 +63,4 @@ amnesia over its cause- Mohammedanism. So much so that they fund the
 Meccan fiends with their own coffers (as “prophesied” by Mohammad) to
 continue their unabated carnage. I am yet to see a full analysis of this
 profound amnesia.
+

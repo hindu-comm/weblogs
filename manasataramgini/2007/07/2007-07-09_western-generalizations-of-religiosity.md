@@ -1,7 +1,11 @@
 +++
 title = "Western generalizations of religiosity"
+date = "2007-07-09"
+upstream_url = "https://manasataramgini.wordpress.com/2007/07/09/western-generalizations-of-religiosity/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/07/09/western-generalizations-of-religiosity/).
+
 The Anglospheric (Leukospheric) arrogance coming from their military
 ascendancy in the past few centuries is point easily discerned by any
 outsider. Yet, many outsiders note only the most obvious dimensions of
@@ -39,7 +43,7 @@ professors of science from what are considered (true by other objective
 metrics like h-index) the most influential schools of American science
 e.g. Harvard, Princeton and U of Chicago, U of Michigan and UC,
 Berkeley. Some key findings of this author are:  
-1\) Scientists are not very religious compared to the general public,
+1) Scientists are not very religious compared to the general public,
 although a significant minority is religious. 2) Scientists are
 interested in spirituality.
 
@@ -130,12 +134,13 @@ think they have come out of religion to this new state secularism, but
 in reality are merely manifesting another form of the same meme.
 
 To end:  
-\-For the properly educated Hindu scientist the conflict of science and
+-For the properly educated Hindu scientist the conflict of science and
 religion is a meaningless issue. It is an object of anthropological
 study on the Leukosphere.  
-\-Secularism and separation of religion and state has no meaning for an
+-Secularism and separation of religion and state has no meaning for an
 educated Hindu. Accordingly, a genuine Hindu state will not even comment
 on the separation of religion from state or public life.  
-\-Consequently in the scientific realm a Hindu scientist does not
+-Consequently in the scientific realm a Hindu scientist does not
 recognize the need to deliberately keep religion out of acceptable
 discourse.
+

@@ -1,8 +1,11 @@
 +++
-title = "DANCE DANCE REVOLUTION OF THE WORLD-AXLE [A Devotional Post forxa0Monday]"
-date = "December 2, 2019"
+title = "DANCE DANCE REVOLUTION OF THE WORLD-AXLE [A Devotional Post for Monday]"
+date = "2019-12-02"
+upstream_url = "https://aryaakasha.com/2019/12/02/dance-dance-revolution-of-the-world-axle-a-devotional-post-for-monday/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/12/02/dance-dance-revolution-of-the-world-axle-a-devotional-post-for-monday/).
+
 ![](https://aryaakasha.files.wordpress.com/2019/12/lifeless-mech-india-dance-2-1.jpg?w=681)
 
 “Which of his members is the seat of Fervour: Which is the base of

@@ -1,7 +1,11 @@
 +++
 title = "The end of the era of Tamil warlords"
+date = "2005-08-26"
+upstream_url = "https://manasataramgini.wordpress.com/2005/08/26/the-end-of-the-era-of-tamil-warlords/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/08/26/the-end-of-the-era-of-tamil-warlords/).
+
 The puranAnuru and related puraM texts of early Tamil literature mark
 the end era of the Tamil warlords. The violent, grandiose and
 impractically generous Tamil warlords were passing out of vogue with the
@@ -39,10 +43,10 @@ holes vanishing, it would be like the elephants he has granted those who
 came to him in need or would at least bear some resemblance.” \[a hero
 of the veLIr clan\]
 
-neDumAn anchi: You warriors, Take care of yourselves\! Let us tell you
-My lord \[anchi\] is like a crocodile who in shallow water muddied by
-the playing of children from the city, can drag in, bring down, and
-slaughter an elephant, with water only knee deep\!
+neDumAn anchi: You warriors, Take care of yourselves! Let us tell you My
+lord \[anchi\] is like a crocodile who in shallow water muddied by the
+playing of children from the city, can drag in, bring down, and
+slaughter an elephant, with water only knee deep!
 
 vEl pAri: “The kings with great armies \[the big 3\] came against the
 hill in war, ignorant of how difficult it would be to prevail against
@@ -60,3 +64,4 @@ an end by around 200 BC when the mauryans failed to recognize them and
 big 3 were dominant. Ultimately they were all swept away by the combine
 of the chera, the choLa and the pANDiyan, valiantly defending their
 little hills and fortifications.
+

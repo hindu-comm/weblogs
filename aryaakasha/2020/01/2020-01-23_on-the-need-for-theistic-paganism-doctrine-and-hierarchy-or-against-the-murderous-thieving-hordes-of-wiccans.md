@@ -1,8 +1,11 @@
 +++
-title = "On the Need for Theistic Paganism, Doctrine and Hierarchy; or Against the Murderous, Thieving Hordes ofxa0Wiccans"
-date = "January 23, 2020"
+title = "On the Need for Theistic Paganism, Doctrine and Hierarchy; or Against the Murderous, Thieving Hordes of Wiccans"
+date = "2020-01-23"
+upstream_url = "https://aryaakasha.com/2020/01/23/on-the-need-for-theistic-paganism-doctrine-and-hierarchy-or-against-the-murderous-thieving-hordes-of-wiccans/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/01/23/on-the-need-for-theistic-paganism-doctrine-and-hierarchy-or-against-the-murderous-thieving-hordes-of-wiccans/).
+
 Among the modern incarnations of Germanic Heathenry is a decentralized,
 grassroots structure which has given rise to innumerable permutations of
 religious thought and behavior. Some of these have resulted in strong

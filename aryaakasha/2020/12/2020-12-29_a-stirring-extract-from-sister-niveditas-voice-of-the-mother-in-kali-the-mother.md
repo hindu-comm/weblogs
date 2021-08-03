@@ -1,8 +1,11 @@
 +++
-title = "A Stirring Extract From Sister Nivedita’s “Voice of the Mother” in “Kali Thexa0Mother”"
-date = "December 29, 2020"
+title = "A Stirring Extract From Sister Nivedita’s “Voice of the Mother” in “Kali The Mother”"
+date = "2020-12-29"
+upstream_url = "https://aryaakasha.com/2020/12/29/a-stirring-extract-from-sister-niveditas-voice-of-the-mother-in-kali-the-mother/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/12/29/a-stirring-extract-from-sister-niveditas-voice-of-the-mother-in-kali-the-mother/).
+
 ![](https://aryaakasha.files.wordpress.com/2019/10/12106740_10156184719985574_6300967571131944870_n-2.jpg)
 
 “ARISE, My child, and go forth a man! Bear manfully what is thy lot to

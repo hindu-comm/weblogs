@@ -1,7 +1,11 @@
 +++
 title = "Implements of the shrauta ritual … continued"
+date = "2004-08-20"
+upstream_url = "https://manasataramgini.wordpress.com/2004/08/20/implements-of-the-shrauta-ritual-continued/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/08/20/implements-of-the-shrauta-ritual-continued/).
+
 **ulUkhala-musala**: The mortar and pestle used for pounding grains to
 separate husk. They are made of khadira wood. The ulUkhala may also use
 palasha wood, and be about knee heigth. The musala may have a metal
@@ -105,3 +109,4 @@ It is shaped as to fit over the droNa kalasha.
 **pariplu**: a small wooden vessel made from the vika\~NtI wood. It is
 like a sruch without a handle. It is used to draw soma from the droNa
 kalasha for AghAra pourings.
+

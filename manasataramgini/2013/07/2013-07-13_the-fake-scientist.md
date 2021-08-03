@@ -1,7 +1,11 @@
 +++
 title = "The fake scientist"
+date = "2013-07-13"
+upstream_url = "https://manasataramgini.wordpress.com/2013/07/13/the-fake-scientist/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/07/13/the-fake-scientist/).
+
 He was born in the Gangetic doab in a clan of vaNija-s. He had inherited
 the skill honed by centuries of selection in business transactions of
 “cracking the situation”. However, he did not have deep introspective
@@ -21,7 +25,7 @@ arisen – it was supposed to be the leading light of modern medical
 practice and research in India. The said vaishya now equipped with a
 degree in the biological science wondered: “That is the place I should
 go. Let me imbibe the good life of indraprastha and get an even greater
-degree, the PhD\! With that I will probably make some good money.” Since
+degree, the PhD! With that I will probably make some good money.” Since
 he was a master of “cracking the situation” he cracked way through the
 entrance exam and found himself in the PhD program of the said
 institute. Not being a man of learning, and incapable of the attention
@@ -119,21 +123,21 @@ that suited his whims. With gay elan he rubbed off a band here or
 introduced a non-existent band there. Thus, sometimes he made cells look
 the way he wanted, other times he produced audacious interactions
 between proteins and epigenetically marked peptides in histones, and yet
-other times he made proteins remodel nucleosomes submitting to his
-will\! With practice he moved from a cheap con-artist to an artful
-dodger. Lo and behold\! His delicate Photoshop pieces were soon gracing
-the English tabloid, which Chinese would kill to publish in, or the
-venerable journals of biological sciences or the awfully bloated cancer
-research journals. The Journal of Cell Biology was well-known for its
-stiff stance towards manufactured data, taking pride in claiming to be a
-“high impact” journal and a pioneer in calling out data manipulation.
-But the said cracker sneaked one of his Photoshop masterpieces in, right
-through the defenses of JCB. Looking admiringly at his manuscript’s
-proofs he knew he had truly come of age, a dhUrta like him had not
-existed – he was invulnerable\! He had vanity articles prepared about
-himself: they declared him to be a great scientist though he knew not
-what scientists really did. Even the mlechCha-s bought that and feted
-him in their rAjadhAnI as a titled professor.
+other times he made proteins remodel nucleosomes submitting to his will!
+With practice he moved from a cheap con-artist to an artful dodger. Lo
+and behold! His delicate Photoshop pieces were soon gracing the English
+tabloid, which Chinese would kill to publish in, or the venerable
+journals of biological sciences or the awfully bloated cancer research
+journals. The Journal of Cell Biology was well-known for its stiff
+stance towards manufactured data, taking pride in claiming to be a “high
+impact” journal and a pioneer in calling out data manipulation. But the
+said cracker sneaked one of his Photoshop masterpieces in, right through
+the defenses of JCB. Looking admiringly at his manuscript’s proofs he
+knew he had truly come of age, a dhUrta like him had not existed – he
+was invulnerable! He had vanity articles prepared about himself: they
+declared him to be a great scientist though he knew not what scientists
+really did. Even the mlechCha-s bought that and feted him in their
+rAjadhAnI as a titled professor.
 
 An inner circle of compatriots he corrupted with his duNDukatva and
 initiated them into the inner secrets of the hastini gharAna of cancer
@@ -145,3 +149,4 @@ dollars and lakhs of rupees were consumed and are being consumed in
 supporting the brilliant Photoshop artwork of these fearless cancer
 warriors while draining the exchequer that could have aided fundamental
 scientific discovery.
+

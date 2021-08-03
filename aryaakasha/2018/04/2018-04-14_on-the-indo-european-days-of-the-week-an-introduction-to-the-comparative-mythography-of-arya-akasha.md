@@ -1,8 +1,11 @@
 +++
-title = "On The Indo-European Days Of The Week – An Introduction To The Comparative Mythography Of Aryaxa0Akasha"
-date = "April 14, 2018"
+title = "On The Indo-European Days Of The Week – An Introduction To The Comparative Mythography Of Arya Akasha"
+date = "2018-04-14"
+upstream_url = "https://aryaakasha.com/2018/04/14/on-the-indo-european-days-of-the-week-an-introduction-to-the-comparative-mythography-of-arya-akasha/"
 
 +++
+Source: [here](https://aryaakasha.com/2018/04/14/on-the-indo-european-days-of-the-week-an-introduction-to-the-comparative-mythography-of-arya-akasha/).
+
 ![30689162_365124663981797_6659394007023484928_n](https://aryaakasha.files.wordpress.com/2018/04/30689162_365124663981797_6659394007023484928_n.jpg?w=676)
 
 It can often seem rather daunting attempting to get to grips with the

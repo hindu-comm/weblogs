@@ -1,7 +1,11 @@
 +++
 title = "The busy Abrahamists"
+date = "2005-12-18"
+upstream_url = "https://manasataramgini.wordpress.com/2005/12/18/the-busy-abrahamists/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/12/18/the-busy-abrahamists/).
+
 I learned today on the web that a certain British satirist AE Housman
 about whom I know hardly anything said: “In every American there is an
 air of incorrigible innocence, which seems to conceal a diabolical
@@ -44,3 +48,4 @@ seems that for temporarily suppressing the venomous Taliban, the
 Americans may end up gifting them a new land in the form of Irak, all
 ready for Jihad with Zarqavi at the helm. This might boost Jihadi
 confidence beyond limits.
+

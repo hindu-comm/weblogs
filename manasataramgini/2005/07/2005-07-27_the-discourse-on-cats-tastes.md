@@ -1,7 +1,11 @@
 +++
 title = "The discourse on cat’s tastes"
+date = "2005-07-27"
+upstream_url = "https://manasataramgini.wordpress.com/2005/07/27/the-discourse-on-cats-tastes/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/07/27/the-discourse-on-cats-tastes/).
+
 As I was in the embrace of the yakShini she asked what is so funny about
 the cat’s taste.  
 I said: Most mammals sense 5 tastes with 7-transmembrane receptors with
@@ -18,3 +22,4 @@ To sense sweet in the mouth it also helps if amylase is secreted in the
 salivary glands. The promoters of amylase expression in the salivary
 glands appears to have been provided in humans by the insertion of a
 retro-element. So we unlike the cats are doomed to love sweet.
+

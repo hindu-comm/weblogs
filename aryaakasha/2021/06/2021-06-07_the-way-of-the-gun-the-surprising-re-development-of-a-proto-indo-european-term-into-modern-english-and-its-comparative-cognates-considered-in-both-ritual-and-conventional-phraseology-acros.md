@@ -1,8 +1,11 @@
 +++
-title = "The Way Of The Gun – The Surprising Re-Development Of A Proto-Indo-European Term Into Modern English … And its Comparative Cognates Considered In Both Ritual And Conventional Phraseology Across The Indo-Europeanxa0Sphere"
-date = "June 7, 2021"
+title = "The Way Of The Gun – The Surprising Re-Development Of A Proto-Indo-European Term Into Modern English … And its Comparative Cognates Considered In Both Ritual And Conventional Phraseology Across The Indo-European Sphere"
+date = "2021-06-07"
+upstream_url = "https://aryaakasha.com/2021/06/07/the-way-of-the-gun-the-surprising-re-development-of-a-proto-indo-european-term-into-modern-english-and-its-comparative-cognates-considered-in-both-ritual-and-conventional-phraseology-acros/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/06/07/the-way-of-the-gun-the-surprising-re-development-of-a-proto-indo-european-term-into-modern-english-and-its-comparative-cognates-considered-in-both-ritual-and-conventional-phraseology-acros/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/06/67094644_10162033685870574_6923656090546601984_n.jpg?w=504)
 
 Something I have long remarked upon is the manner in which certain

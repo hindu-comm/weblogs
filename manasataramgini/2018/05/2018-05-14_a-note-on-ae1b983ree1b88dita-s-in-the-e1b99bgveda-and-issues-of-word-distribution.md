@@ -1,7 +1,11 @@
 +++
 title = "A note on āmreḍita-s in the Ṛgveda and issues of word distribution"
+date = "2018-05-14"
+upstream_url = "https://manasataramgini.wordpress.com/2018/05/14/a-note-on-a%e1%b9%83re%e1%b8%8dita-s-in-the-%e1%b9%9bgveda-and-issues-of-word-distribution/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2018/05/14/a-note-on-a%e1%b9%83re%e1%b8%8dita-s-in-the-%e1%b9%9bgveda-and-issues-of-word-distribution/).
+
 sa darśataśrīr atithir gṛhe-gṛhe  
 vane-vane śiśriye takvavīr iva ।  
 janaṃ-janaṃ janyo nāti manyate  
@@ -39,7 +43,7 @@ There can be anywhere between 1 to 4 āmreḍita-s in a given ṛk. The
 number of ṛks-s with each number of āmreḍita-s per ṛk is shown in Table
 1.
 
-![AMreDita\_tab](https://manasataramgini.files.wordpress.com/2018/05/amredita_tab.jpg?w=215&h=213)Table
+![AMreDita_tab](https://manasataramgini.files.wordpress.com/2018/05/amredita_tab.jpg?w=215&h=213)Table
 1
 
 The maximum number of āmreḍita-s in the RV is four, which is seen in a
@@ -95,7 +99,7 @@ invocations: dhiyaṃ-dhiyaṃ, girā-girā, have-have, brahma-brahma (5x)
 To better understand the distribution of āmreḍita-s in the RV we shall
 first take a detour to look at some basic statistics of the RV:
 
-![RV\_stats\_tab](https://manasataramgini.files.wordpress.com/2018/05/rv_stats_tab.jpg?w=651&h=409)Table
+![RV_stats_tab](https://manasataramgini.files.wordpress.com/2018/05/rv_stats_tab.jpg?w=651&h=409)Table
 2. Some basic numbers for RV including number of āmreḍita-s occurring
 per maṇḍala
 
@@ -103,7 +107,7 @@ Figure 1 shows the number of words per hemistich (ardhark) with the
 alternate hemistichs colored in blue and red. The maṇḍala boundaries are
 marked with vertical dotted lines.
 
-[![AMreDita\_words\_half\_Rk](https://manasataramgini.files.wordpress.com/2018/05/amredita_words_half_rk.png?w=640)](https://manasataramgini.files.wordpress.com/2018/05/amredita_words_half_rk.png)Figure
+[![AMreDita_words_half_Rk](https://manasataramgini.files.wordpress.com/2018/05/amredita_words_half_rk.png?w=640)](https://manasataramgini.files.wordpress.com/2018/05/amredita_words_half_rk.png)Figure
 1
 
 This plot shows that the RV has a generally consistent average behavior
@@ -124,7 +128,7 @@ the first two panels of Figure 2, which show the average number of words
 per hemistich and the average number of words per sūkta across the 10
 maṇḍala-s.
 
-[![AMreDita\_plots](https://manasataramgini.files.wordpress.com/2018/05/amredita_plots.png?w=640)](https://manasataramgini.files.wordpress.com/2018/05/amredita_plots.png)Figure
+[![AMreDita_plots](https://manasataramgini.files.wordpress.com/2018/05/amredita_plots.png?w=640)](https://manasataramgini.files.wordpress.com/2018/05/amredita_plots.png)Figure
 2 shows some of the statistics for the RV with relation to the āmreḍita
 distribution.
 
@@ -149,14 +153,14 @@ words through the length of the RV. The maṇḍala boundaries are marked by
 a vertical dotted line. We observe that the āmreḍita-s are not uniformly
 distributed. There are whole regions with a low count and others with
 notable spikes. We find that the maṇḍala-s differ in their use of
-āmreḍita-s (Panel 4 of Figure 2): maṇḍala-s 3 and 6 of the
-Vaiśvāmitra-s and Bhāradvāja-s are rich in āmreḍita-s, whereas those
-of Vāmadeva, the Vāsiṣṭha-s and the soma maṇḍala are particularly poor.
-In the case of the soma maṇḍala, the metrical structure with a low
-average number of words per hemistich probably discriminates against
-āmreḍita-s. However, in the case of the other maṇḍala the difference in
-āmreḍita counts is in spite of their mostly average behavior in terms of
-word count per hemistich (compare panel 4 and panel 1).
+āmreḍita-s (Panel 4 of Figure 2): maṇḍala-s 3 and 6 of the Vaiśvāmitra-s
+and Bhāradvāja-s are rich in āmreḍita-s, whereas those of Vāmadeva, the
+Vāsiṣṭha-s and the soma maṇḍala are particularly poor. In the case of
+the soma maṇḍala, the metrical structure with a low average number of
+words per hemistich probably discriminates against āmreḍita-s. However,
+in the case of the other maṇḍala the difference in āmreḍita counts is in
+spite of their mostly average behavior in terms of word count per
+hemistich (compare panel 4 and panel 1).
 
 To understand if this difference might have any significance, we
 simulated the distribution of āmreḍita-s as a random process using the
@@ -166,7 +170,7 @@ number āmreḍita-s reached in each replicate and computed the Z-scores
 for the observed number of āmreḍita-s and the probability of getting the
 observed number or more/less by chance alone (Figure 3).
 
-[![AMreDita\_simulation](https://manasataramgini.files.wordpress.com/2018/05/amredita_simulation.png?w=640)](https://manasataramgini.files.wordpress.com/2018/05/amredita_simulation.png)Figure
+[![AMreDita_simulation](https://manasataramgini.files.wordpress.com/2018/05/amredita_simulation.png?w=640)](https://manasataramgini.files.wordpress.com/2018/05/amredita_simulation.png)Figure
 3
 
 This experiment suggests that maṇḍala-s 1 and 10 have more or less the
@@ -174,13 +178,14 @@ average number of āmreḍita-s one would expect by chance alone. This
 probably reflects their composite nature rather than being the product
 of one dominant clan. However, maṇḍala-s 3 and 6 have greater than
 expected number āmreḍita-s (p=0.016 and 0.014 respectively), whereas
-maṇḍala-s 7 and 9 have lower than expected number of āmreḍita-s
-(p=0.035 and 0.037 respectively). This observation suggests there was
-possibly a conscious difference in the poetic styles of the
-Vaiśvāmitra-s and Bhāradvāja\#-s on one hand and the Vāsiṣṭha-s on the
-other, with the former showing a predilection for the use of āmreḍita-s.
-This makes one wonder if the reduced use of āmreḍita-s by the
-Vasiṣṭha-s, who had some links to the Iranian side, represents a
-regional tendency also seen in the Avesta, which also uses a low number
-of āmreḍita-s. As noted above the unique structure of the soma-maṇḍala
-probably accounts for its low āmreḍitacount.
+maṇḍala-s 7 and 9 have lower than expected number of āmreḍita-s (p=0.035
+and 0.037 respectively). This observation suggests there was possibly a
+conscious difference in the poetic styles of the Vaiśvāmitra-s and
+Bhāradvāja#-s on one hand and the Vāsiṣṭha-s on the other, with the
+former showing a predilection for the use of āmreḍita-s. This makes one
+wonder if the reduced use of āmreḍita-s by the Vasiṣṭha-s, who had some
+links to the Iranian side, represents a regional tendency also seen in
+the Avesta, which also uses a low number of āmreḍita-s. As noted above
+the unique structure of the soma-maṇḍala probably accounts for its low
+āmreḍitacount.
+

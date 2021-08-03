@@ -1,8 +1,11 @@
 +++
-title = "#NAS Liturgy – WE HAVExa0PURPOSE"
-date = "September 27, 2019"
+title = "#NAS Liturgy – WE HAVE PURPOSE"
+date = "2019-09-27"
+upstream_url = "https://aryaakasha.com/2019/09/27/nas-liturgy-we-have-purpose/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/09/27/nas-liturgy-we-have-purpose/).
+
 ![67713209_10162108703060574_4744380755319193600_n
 (1)](https://aryaakasha.files.wordpress.com/2019/09/67713209_10162108703060574_4744380755319193600_n-1.jpg)
 

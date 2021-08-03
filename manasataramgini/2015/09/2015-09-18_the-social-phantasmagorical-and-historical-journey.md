@@ -1,10 +1,14 @@
 +++
 title = "The social, phantasmagorical and historical journey"
+date = "2015-09-18"
+upstream_url = "https://manasataramgini.wordpress.com/2015/09/18/the-social-phantasmagorical-and-historical-journey/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/09/18/the-social-phantasmagorical-and-historical-journey/).
+
 It was some time just before the first vacations of Somakhya and
-Lootika’s first year in the pre-university college. Lootika’s family
-was visiting a nearby temple of the massive ape Hanūmat on a Saturday
+Lootika’s first year in the pre-university college. Lootika’s family was
+visiting a nearby temple of the massive ape Hanūmat on a Saturday
 evening. In the sabhā-gṛha of the said prāsāda a saṃnyasin of the
 paraṃparā of Śaṃkarācarya was to deliver a lecture on the Kenopaniṣad
 which is appended to the Sāmaveda. Lootika’s parents wanted to hear it
@@ -25,8 +29,8 @@ result of the conversation between the ape Suṣeṇa and the god
 Dhavantari. She asked Lootika to respectfully show the text to the
 saṃnyasin. The saṃnyasin cursorily examined the text and turning to
 Lootika’s parents said: “Wise Viṣṇugupta declared –
-pustaka-pratyayādhītaṃ na+adhītaṃ guru-saṃnidhau | bhrājate na
-sabhā-madhye jāragarbha iva striyaḥ || So it is with your daughter.
+pustaka-pratyayādhītaṃ na+adhītaṃ guru-saṃnidhau \| bhrājate na
+sabhā-madhye jāragarbha iva striyaḥ \|\| So it is with your daughter.
 With this bookish reading she is doing, she is pretending to play
 paṇḍitā. She needs to mature and acquire real knowledge from a guru
 rather than from fancy-sounding books.” To the utter horror of her
@@ -35,12 +39,11 @@ svāmin, why do you think I don’t have guru-s? I do have many, even as
 Satyakāma Jābāla when he was breeding cattle for my ancestor Hāridrumata
 Gautama. You would have certainly learned that in the śruti of the
 udgātṛ-s.” The saṃnyasin cast a piercing glance at Lootika and said:
-“Sadly, this daughter of yours will need several more janma-s before
-she can near jñāna that liberates her.” Her parents mumbled some apology
-and in silence filed out of the sabhā-gṛha. Her mother felt like
-castigating Lootika but her father reminded her mother that incident was
-in part her doing and so they should not place the blame solely on their
-daughter.
+“Sadly, this daughter of yours will need several more janma-s before she
+can near jñāna that liberates her.” Her parents mumbled some apology and
+in silence filed out of the sabhā-gṛha. Her mother felt like castigating
+Lootika but her father reminded her mother that incident was in part her
+doing and so they should not place the blame solely on their daughter.
 
 As they reached the archway of the temple to collect their footwear they
 ran into Somakhya’s parents, who were just then entering to visit the
@@ -129,14 +132,14 @@ had merely learned the quadratic formula by rote. Jhilleeka: “In my
 mind’s eye I see a mysterious parabola that does not intersect the
 x-axis but passes through two points in another plane, which is one
 containing the complex numbers.” Somakhya’s father patted her and said
-“That’s good but I don’t want to praise you more lest you get caught
-up in that.”
+“That’s good but I don’t want to praise you more lest you get caught up
+in that.”
 
 ◊◊◊◊◊◊◊
 
 After a couple of silent hours Lootika suddenly spoke out to Somakhya:
-“I had this encounter with a yati who informed me that our knowledge
-was not something acquired from guru-s. He said that it will hence be
+“I had this encounter with a yati who informed me that our knowledge was
+not something acquired from guru-s. He said that it will hence be
 shunned in learned assemblies much like a woman who has borne a bastard
 would be shunned in respectable society.”  
 Somakhya: “If the yati’s thinking were true then the lessons learned by
@@ -150,10 +153,10 @@ Since, as the tathāgata pointed out, life is full of sorrow, most of our
 people hope or believe that they might be able to break the away from
 realm of sorrow and enter the realm of ānanda. After all even my
 ancestor Bhṛgu said upon following the directives of the great asura
-Varuṇa: ānandena jātāni jīvanti | They hope that the teaching of the
+Varuṇa: ānandena jātāni jīvanti \| They hope that the teaching of the
 mokṣa-śāstra by the yati would lead them to that ānanda, which is
 supposed to hold good even after death – ānandaṃ prayanty abhisaṃviśanti
-| They die and go into ānanda. So they probably take him seriously for
+\| They die and go into ānanda. So they probably take him seriously for
 teaching the upāya for that.”
 
 Lootika: “That may be so, but he seems to disregard other types of
@@ -197,18 +200,18 @@ the verdict of history does not entirely support your contention.”
 
 Lootika: “But against your position I could offer up the historical
 counter-claim epitomized by the advaita-vedāntin-s and naked
-paramahaṃsa-s par excellence anūpagiri gosvāmin and uṃrāvagiri
-gosvāmin. As you known only too well they were astra-dhārin-s of high
-rank and had amassed hand and field guns that would have made their
-cognates, the Negoro-ji bhikṣu-s, green with jealousy. The maharaṭṭa-s
-had inferior guns to an extent. Yet their service to the sanātana-dharma
-went no further than performing funerals for fallen Hindu warriors, many
-of them slain by the gosvāmin-s’ own guns. Instead, they devoted
-themselves in large part to furthering the cause of marūnmatta-s and
-cozying up with the English despite them showering obscenities on their
-nagnatvam. Certainly, the certainty of being mumukṣu-s and dwelling in
-ānanda had relieved them of all concerns sustaining the ārya-patha and
-the rāṣṭra.  
+paramahaṃsa-s par excellence anūpagiri gosvāmin and uṃrāvagiri gosvāmin.
+As you known only too well they were astra-dhārin-s of high rank and had
+amassed hand and field guns that would have made their cognates, the
+Negoro-ji bhikṣu-s, green with jealousy. The maharaṭṭa-s had inferior
+guns to an extent. Yet their service to the sanātana-dharma went no
+further than performing funerals for fallen Hindu warriors, many of them
+slain by the gosvāmin-s’ own guns. Instead, they devoted themselves in
+large part to furthering the cause of marūnmatta-s and cozying up with
+the English despite them showering obscenities on their nagnatvam.
+Certainly, the certainty of being mumukṣu-s and dwelling in ānanda had
+relieved them of all concerns sustaining the ārya-patha and the
+rāṣṭra.  
 Somakhya: “I would hardly attempt to counter this point for all that is
 rather indisputable. However, playing on both sides of the divide is not
 unique to the yati-s . It is seen across the board with Hindus; like for
@@ -252,7 +255,7 @@ venerable seat of ārya culture in India, they found its modern harshness
 and decadence behind the facade of opulence to be jarring. Smeared with
 the grime of the long journey, which was made longer by the delay from
 the collision of their train with a buffalo, they tried to get to their
-guesthouse as fast as they could upon disembarking. Having occupied 
+guesthouse as fast as they could upon disembarking. Having occupied
 their rooms, bathed and refreshed, they took in some cool air of the
 north on the terrace of their guesthouse. That evening Somakhya’s family
 had been invited to visit the home of their clansman, who was a
@@ -350,7 +353,7 @@ Babhru: “Hey, it already dark I don’t want to frighten you girls.”
 Vrishchika: “Please go ahead. We are seasoned campaigners in this realm.
 Had we been with our implements at our familiar śmaśāna I am sure we
 could have figured this one out.”  
-Babhru: “Wow\! I guess you all believe in such stuff.”  
+Babhru: “Wow! I guess you all believe in such stuff.”  
 Somakhya a touch concerned at Vrishchika’s spilling the beans about
 their ways, and seeing the turn of the conversation looked at Lootika
 with knitted eye brows.  
@@ -507,7 +510,7 @@ marusaṃbhava-ekarākṣasavādin-s will tell us that it never happened, all
 while emptying their gall-bladders on us āstika claiming that we wiped
 out the shrines of the nāstika-s.”. Just then they passed a side door
 and Varoli pointing to the lintel with a triad of nagna ford-makers
-said: “Well, here we can see who really busted the nāstika prāsāda-s\!”.
+said: “Well, here we can see who really busted the nāstika prāsāda-s!”.
 At another place Jhilleeka sighted a panel of the incarnations of Viṣṇu,
 while Vrishchika sighted a Vināyaka and Skanda, all plastered into
 elements of the masjid.
@@ -557,13 +560,13 @@ Unable to do so he decided to break it into two pieces or at least take
 a piece with him. Hence, he decided to deploy one of his new cannons
 based on the Russian models originally commissioned by Czar Peter and
 fired a 12 centimeter lead ball at the pillar. But praise be to the
-gods\! The ball rebounded off the pillar without breaking it and smashed
+gods! The ball rebounded off the pillar without breaking it and smashed
 into the Quwwat-ul-Islam damaging it. Not wanting to be seen as a
 masjid-breaker Nadir discontinued his attempts to break the pillar.”
 
 Lootika: “That is rather remarkable not only is the pillar rustless but
 it withstood cannon shot and gave the marūnmatta-duṣṭa-s a fitting
-back-hurl\! Praise be to the great Vikramāditya\!”
+back-hurl! Praise be to the great Vikramāditya!”
 
 ◊◊◊◊◊◊◊
 
@@ -577,13 +580,13 @@ were staring out at the expanses of Bhāratavarṣa speeding away before
 them.
 
 Lootika: “The iron pillar is so representative of what the Hindu
-civilization has come to be. We are unable to make such alloys today\!
-In the 1600s the great rājan of the maharaṭṭa nation captured a printing
+civilization has come to be. We are unable to make such alloys today! In
+the 1600s the great rājan of the maharaṭṭa nation captured a printing
 press from the mleccha-s and tried to adapt it for Hindu use. However,
 they were stuck due to their inability to create a font. Here, we see
 that the Gupta empire more than 1000 years before him had already
 achieved a solution, which could have been easily used to make an
-efficient Devanāgari font\! Likewise, the same rājan had to purchase a
+efficient Devanāgari font! Likewise, the same rājan had to purchase a
 German blade. This was despite our engineers having already mastered
 intricacies of hard steels more than 1000 years before him. If we had
 only continued it would have certainly helped us in our industry even
@@ -598,7 +601,7 @@ we do not see naturally occurring in our modern industry. Indeed, the
 average Indian product can be held out as an epitome of impreciseness.”
 
 Varoli: “These alloys of the old Hindus sound fascinating. I must study
-this literature more closely\! When was the last such material was
+this literature more closely! When was the last such material was
 made?”  
 Somakhya: “We really don’t know when exactly it came to an end. But we
 know that the great Paramāra-rājan Bhoja-deva had made an enormous
@@ -619,27 +622,27 @@ Somakhya: “I would say a nation needs a combination of military genius
 and robust ideology. While the Maurya-s had military might they were
 beset with the wrong-headedness of the nāstika-mata-s. But the repeated
 challenges posed by the nāstika-mata-s were finally overcome by the
-āstika-s resulting it coming out more robust than before. This
-coincided with the military genius of the Gupta-s giving us the right
-combination to shine forth. But success in arms is often creates
-centrifugal ambitions as many local power centers tried to repeat the
-military achievements of the Gupta-s. The emergence of localized power
-structures foster a stark individualism with utter disregard for the
-superorganism – the puruṣa. This also left its mark on the ati-mārga,
-which sought to situate itself outside the puruṣa, resulting in what you
-felt regarding the yati-s. As long as these centrifugal forces were
-counter-balanced by the cultural continuity maintained by the
-sanātana-dharma the people’s genius remained intact, as was seen in the
-period between the Gupta-s to Bhoja-deva. But when the balance is broken
-by the burgeoning regionalism and individualism it opened the people to
-destruction by extrinsic invasions, finally paving the path to loss of
-technology and inability to sustain the genius. If the extrinsic
-invasions, especially of the Abrahamistic type, are not quickly reversed
-then a decrepitude sets in. Thus, a civilization feels much like an old
-man, afflicted by disease, who despite the insights of his accumulated
-wisdom is unable to achieve what he was able to do in his vigorous
-youth.”
+āstika-s resulting it coming out more robust than before. This coincided
+with the military genius of the Gupta-s giving us the right combination
+to shine forth. But success in arms is often creates centrifugal
+ambitions as many local power centers tried to repeat the military
+achievements of the Gupta-s. The emergence of localized power structures
+foster a stark individualism with utter disregard for the superorganism
+– the puruṣa. This also left its mark on the ati-mārga, which sought to
+situate itself outside the puruṣa, resulting in what you felt regarding
+the yati-s. As long as these centrifugal forces were counter-balanced by
+the cultural continuity maintained by the sanātana-dharma the people’s
+genius remained intact, as was seen in the period between the Gupta-s to
+Bhoja-deva. But when the balance is broken by the burgeoning regionalism
+and individualism it opened the people to destruction by extrinsic
+invasions, finally paving the path to loss of technology and inability
+to sustain the genius. If the extrinsic invasions, especially of the
+Abrahamistic type, are not quickly reversed then a decrepitude sets in.
+Thus, a civilization feels much like an old man, afflicted by disease,
+who despite the insights of his accumulated wisdom is unable to achieve
+what he was able to do in his vigorous youth.”
 
 Lootika: “If this were the case Somakhya then it would pay rich
 dividends to study more closely the parallels between biological
 senescence and its civilizational cognate.”
+

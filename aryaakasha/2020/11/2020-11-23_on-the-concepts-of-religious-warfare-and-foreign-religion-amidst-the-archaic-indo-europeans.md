@@ -1,8 +1,11 @@
 +++
-title = "On The Concepts Of Religious Warfare And Foreign Religion Amidst The Archaicxa0Indo-Europeans"
-date = "November 23, 2020"
+title = "On The Concepts Of Religious Warfare And Foreign Religion Amidst The Archaic Indo-Europeans"
+date = "2020-11-23"
+upstream_url = "https://aryaakasha.com/2020/11/23/on-the-concepts-of-religious-warfare-and-foreign-religion-amidst-the-archaic-indo-europeans/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/11/23/on-the-concepts-of-religious-warfare-and-foreign-religion-amidst-the-archaic-indo-europeans/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/11/two-crowns.jpg?w=1024)
 
 Something I have been absolutely perplexed by in the past few days, is a

@@ -1,8 +1,11 @@
 +++
-title = "Unambiguous dhyānas of Viṣṇu with Sarasvatī and Lakṣmī in the Assamesexa0tradition"
+title = "Unambiguous dhyānas of Viṣṇu with Sarasvatī and Lakṣmī in the Assamese tradition"
 date = "2021-02-23"
+upstream_url = "https://padmavajra.net/2021/02/23/unambiguous-dhyanas-of-vishnu-with-sarasvati-and-lakshmi-in-the-assamese-tradition/"
 
 +++
+Source: [here](https://padmavajra.net/2021/02/23/unambiguous-dhyanas-of-vishnu-with-sarasvati-and-lakshmi-in-the-assamese-tradition/).
+
 The dhyānas here are quoted from The Kamarupa School of Dharmashastra by
 Naliniranjan Sharma. The bolded portions indicate the unambiguous
 mention of Sarasvatī and Lakṣmī.

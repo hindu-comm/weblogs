@@ -1,12 +1,18 @@
 +++
 title = "The circle of mAtR^i-s"
+date = "2006-08-07"
+upstream_url = "https://manasataramgini.wordpress.com/2006/08/07/the-circle-of-matri-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/08/07/the-circle-of-matri-s/).
+
+
+
 [![](https://i2.wp.com/photos1.blogger.com/blogger/2010/410/320/88.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/88.jpg)[![](https://i1.wp.com/photos1.blogger.com/blogger/2010/410/320/mothers.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/mothers.jpg)
 
 The mighty bhairava stands in the midst of the circle of eight mothers
 (He is invoked by the formula: skhAM skhIM skhauM mahAbhairavAya
-namaH||). On either side of the mothers are positioned the roaring
+namaH\|\|). On either side of the mothers are positioned the roaring
 vIrabhadra who emerged from the hair of The god and the frightful
 vinAyaka with a single tusk, both striking terror in the heart of the
 beholders. vIrabhadra is surrounded by several awful pramathas
@@ -46,3 +52,4 @@ from whom they have emerged.
 There is only a single surviving fragment of the icongraphic
 representation of this circle of mothers from a now lost temple in
 Madhya Pradesh. The yantra of the circle of mothers is a simple one.
+

@@ -1,7 +1,11 @@
 +++
 title = "Some considerations on Indian polity"
+date = "2011-11-13"
+upstream_url = "https://manasataramgini.wordpress.com/2011/11/13/some-considerations-on-indian-polity/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/11/13/some-considerations-on-indian-polity/).
+
 Along with the failure to restore saMskR^ita, one of the congenital
 defects of modern India was its failure to reacquire its tradition of
 political thought. While such visions might have existed in the world of
@@ -51,9 +55,9 @@ importance political thought in no unclear terms. In his deathbed
 lecture to the victorious pANDu monarch, the grandsire said in his
 famous triShTubh-s:
 
-majjettrayI daNDanItau hatAyAM sarve dharmA na bhaveyur viruddhAH |  
+majjettrayI daNDanItau hatAyAM sarve dharmA na bhaveyur viruddhAH \|  
 sarve dharmAsh chAshramANAM gatAH syuH kShAtre tyakte rAjadharme purANe
-||  
+\|\|  
 If the politico-legal system disappears the three-fold shruti will
 disappear, all dharma-s that inculcate the human duties are overturned.
 Indeed, if the ancient political system upheld by the kShatriya-s are
@@ -61,16 +65,17 @@ forsaken, then all the duties in respect of all the modes of life,
 become lost.
 
 sarve tyAgA rAjadharmeShu dR^iShTAH sarvA dIkShA rAjadharmeShu choktAH
-|  
-sarve vidyA rAjadharmeShu choktAH sarve lokA rAjadharmAn praviShTAH ||  
+\|  
+sarve vidyA rAjadharmeShu choktAH sarve lokA rAjadharmAn praviShTAH
+\|\|  
 In politics are realized all forms of renunciation, in politics are
 united all ritual initiations (dIkSha-s); all kinds of knowledge are
 linked in politics; and the \[conduct of\] all the worlds are based in
 politics.
 
-yathA jIvAH prakR^itau vadhyamAnA dharmAshritAnAm upapIDanAya |  
+yathA jIvAH prakR^itau vadhyamAnA dharmAshritAnAm upapIDanAya \|  
 evaM dharmA rAjadharmair viyuktAH sarvAvasthaM nAdriyante svadharmam
-||  
+\|\|  
 As the destruction of lives in natural calamities result the torment of
 those abiding in dharma, even so dharma-s uncoupled from political
 support causes \[people of\] all professions scatter from their ordained
@@ -145,14 +150,14 @@ poor understanding of their own legacy, especially in the old language
 of the Hindu cosmopolis. We can easily see that this lacuna in their
 understanding results in disastrous formulations of strategy – a rather
 sordid situation for the successors of bhIShma, vidura or viShNugupta.
-Instead,  we are provided with are strategic constructs informed by
+Instead, we are provided with are strategic constructs informed by
 facile ideas, such as those held by chAchAjI and the mahAtmA. Thus,
 looking into classical rAja-dharma is a necessary corrective to avoid
 the catastrophic course taken by Greece or Egypt. Third, modern
 political constructs created in the west are based on Abrahamistic
 frameworks, which has resulted in mohasUtra-s such as: Equal before God;
 Equal before law; All people are equal; The state having more rights
-over your genes than yourself\! These ideas are not in line with the
+over your genes than yourself! These ideas are not in line with the
 biological ground situation: individuals are not blank slates and not
 genetically equal; Selective pressures have shaped different groups of
 humans differently; not every individual is equally important for
@@ -235,7 +240,7 @@ Hindu state.
 
 \~oOo\~
 
-## Vedic election of the rAjan and the samiti  
+***Vedic election of the rAjan and the samiti***  
 In the last part of this epistle we shall examine the validity of ideas
 first presented by Jayaswal on one of the oldest political institutions
 of the Arya-s – the Vedic samiti. Jayaswal saw the samiti as an assembly
@@ -246,8 +251,8 @@ as, indeed, the kaushika sUtra of the atharvaveda lays out an ancient
 ritual in which the rAjan elected by the vish (people) is inaugurated.
 This is made clear in the mantra-s recited by the purohita on this
 occasion:  
-tvAM visho vR^iNatAM rAjyAya tvAm imAH pradishaH pa\~ncha devIH |  
-varShman rAShTrasya kakudi shrayasva tato na ugro vi bhajA vasUni ||
+tvAM visho vR^iNatAM rAjyAya tvAm imAH pradishaH pa\~ncha devIH \|  
+varShman rAShTrasya kakudi shrayasva tato na ugro vi bhajA vasUni \|\|
 (AV-vulgate 3.4.2)
 
 The people have elected you to kingship, you have \[been established
@@ -257,8 +262,8 @@ wealth among us.
 
 Now this is corroborated by another mantra deployed by the brahmA for a
 similar purpose:  
-A tvAhArSham antar abhUr dhruvas tiShThAvichAchalat |  
-vishas tvA sarvA vA\~nChantu mA tvad rAShTram adhi bhrashat ||
+A tvAhArSham antar abhUr dhruvas tiShThAvichAchalat \|  
+vishas tvA sarvA vA\~nChantu mA tvad rAShTram adhi bhrashat \|\|
 (AV-vulgate 6.87.1; cf. RV 10.173.1)
 
 I \[the brahmA\] have brought you forth, you have entered, stand firm
@@ -272,8 +277,8 @@ picture. We are informed of two distinct assemblies of the Arya-s in
 mantra-s deployed in the AV ritual for the two assemblies to reach a
 consensus with the yajamAna:
 
-sabhA cha mA samitish chAvatAM prajApater duhitarau saMvidAne |  
-yenA saMgaChA upa mA sa shikShAch chAru vadAni pitaraH saMgateShu ||
+sabhA cha mA samitish chAvatAM prajApater duhitarau saMvidAne \|  
+yenA saMgaChA upa mA sa shikShAch chAru vadAni pitaraH saMgateShu \|\|
 (AV-vulgate 7.12.1; cf. shatapatha brAhmaNa 4.1.4.1 for the equivalent
 shukla yajurvedIya ritual)
 
@@ -294,9 +299,9 @@ decisions need arise from the concordance of the samiti. This is
 supported by a mantra to this effect in the first royal ritual mentioned
 above.
 
-dhruvo.achyutaH pra mR^iNIhi shatrUn ChatrUyato.adharAn pAdayasva |  
+dhruvo.achyutaH pra mR^iNIhi shatrUn ChatrUyato.adharAn pAdayasva \|  
 sarvA dishaH saMmanasaH sadhrIchIr dhruvAya te samitiH kalpatAm iha
-||(AV-vulgate 6.88.3)
+\|\|(AV-vulgate 6.88.3)
 
 Firm, unmoving, may you \[i.e. the newly chosen rAjan\] exterminate your
 enemies, make your enemies fall under your feet; may from all directions
@@ -305,8 +310,8 @@ samiti reach a consensus for fixing \[your decisions\].
 A similar mantra is seen in the rohita-rAShTra-bhR^ita ritual:
 
 rohito yaj\~nasya janitA mukhaM cha rohitAya vAchA shrotreNa manasA
-juhomi |  
-rohitaM devA yanti sumanasyamAnAH sa mA rohaiH sAmityai rohayatu ||
+juhomi \|  
+rohitaM devA yanti sumanasyamAnAH sa mA rohaiH sAmityai rohayatu \|\|
 (AV-vulgate 13.1.13)
 
 The ruddy one is the generator and the mouth of the sacrifice; with
@@ -323,21 +328,21 @@ used in the abhichArika ritual of the bhR^igu-s against the inimical
 vaitahavya rulers who had harmed them. Here a spell is laid to prevent
 the samiti from supporting them.
 
-na varShaM maitrAvaruNaM brahmajyam abhi varShati |  
-nAsmai samitiH kalpate na mitraM nayate vasham ||(AV-vulgate 5.19.15)
+na varShaM maitrAvaruNaM brahmajyam abhi varShati \|  
+nAsmai samitiH kalpate na mitraM nayate vasham \|\|(AV-vulgate 5.19.15)
 
 The rain of mitra and varuNa does not rain upon the brAhmaNa-harmer, the
 samiti does not accord him a consensus, no friend comes under his
 influence.
 
 There are several Vedic references of the king going to the samiti:  
-yatrauShadhIH samagmata rAjAnaH samitAviva |(RV 10.97.6ab)
+yatrauShadhIH samagmata rAjAnaH samitAviva \|(RV 10.97.6ab)
 
 A \[physician\] has an assembly of medicinal plants even as a king has a
 samiti.
 
 Further:  
-pari sadmeva pashumAnti hotA rAjA na satyaH samitIr iyAnaH | (RV
+pari sadmeva pashumAnti hotA rAjA na satyaH samitIr iyAnaH \| (RV
 9.92.6ab)  
 The hotar seeks the pen rich in cattle, even as a true king attends the
 samiti.
@@ -360,8 +365,8 @@ was different from the samiti and that it had a primarily judicial
 function. This is indeed supported, as he points out, by the pAraskAra
 gR^ihyasUtra 3.13. This suggestion is further supported by the mantra RV
 10.71.10:  
-sarve nandanti yashasAgatena sabhAsAhena sakhyA sakhAyaH |  
-kilbiShaspR^it pituShaNir hy eShAm araM hito bhavati vAjinAya ||
+sarve nandanti yashasAgatena sabhAsAhena sakhyA sakhAyaH \|  
+kilbiShaspR^it pituShaNir hy eShAm araM hito bhavati vAjinAya \|\|
 
 The friends are delighted in the friendship of him who returns in
 triumph, having been declared the winner in the sabhA; he is the remover
@@ -372,8 +377,8 @@ was the place where legal matters were settled by a majority. This is
 further clarified by sAyaNa in his commentary on the atharvavedIya
 mantra (also seen in the shatapatha brAhmaNa) on the sabhA:
 
-vidma te sabhe nAma nariShTA nAma vA asi |  
-ye te ke cha sabhAsadas te me santu savAchasaH ||(AV-vulgate 7.12.2)
+vidma te sabhe nAma nariShTA nAma vA asi \|  
+ye te ke cha sabhAsadas te me santu savAchasaH \|\|(AV-vulgate 7.12.2)
 
 We know your name, O sabhA, the inviolable majority decision is your
 name; who ever sits in the sabhA may they speak in my favor.
@@ -381,7 +386,7 @@ name; who ever sits in the sabhA may they speak in my favor.
 In explaining this sAyaNa states that the name nariShTA derives from it
 being the inviolable majority opinion being reached in the assembly:
 bahavaH saMbhUya yady ekaM vAkyaM vadeyus…na parair ati-la\~NghyaM ataH
-anatila\~Nghya-vAkyatvAt nariShTeti | This indeed suggests that the
+anatila\~Nghya-vAkyatvAt nariShTeti \| This indeed suggests that the
 sabhA was place where binding judicial decisions were reached. However,
 we do not hear of the rAjan being mentioned in connection with the
 sabhA, unlike the samiti. This suggests that the sabhA probably had a
@@ -395,3 +400,4 @@ administered justice; 4) the senA – the army.Thus, we have been endowed
 with a long tradition of rAjadharma that goes back to the shruti itself
 – to neglect and pervert it is truly reflective of our failure in
 re-acquiring our traditions.
+

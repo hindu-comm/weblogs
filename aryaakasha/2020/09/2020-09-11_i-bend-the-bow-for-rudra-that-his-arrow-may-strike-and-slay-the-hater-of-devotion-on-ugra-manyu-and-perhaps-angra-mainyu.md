@@ -1,8 +1,11 @@
 +++
-title = "“I Bend the Bow for Rudra that His Arrow May Strike and Slay the Hater of Devotion” – On Ugra Manyu And Perhaps Angraxa0Mainyu"
-date = "September 11, 2020"
+title = "“I Bend the Bow for Rudra that His Arrow May Strike and Slay the Hater of Devotion” – On Ugra Manyu And Perhaps Angra Mainyu"
+date = "2020-09-11"
+upstream_url = "https://aryaakasha.com/2020/09/11/i-bend-the-bow-for-rudra-that-his-arrow-may-strike-and-slay-the-hater-of-devotion-on-ugra-manyu-and-perhaps-angra-mainyu/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/09/11/i-bend-the-bow-for-rudra-that-his-arrow-may-strike-and-slay-the-hater-of-devotion-on-ugra-manyu-and-perhaps-angra-mainyu/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/03/c77aefadb80f01cf57208a7f538c6b80.jpg?w=506)
 
 \[Author’s Note: This continues our excerpts series from #MahaShivRatri

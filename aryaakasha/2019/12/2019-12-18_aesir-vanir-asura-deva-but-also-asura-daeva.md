@@ -1,8 +1,11 @@
 +++
-title = "Aesir-Vanir, Asura-Deva, but also A’Sura,xa0Daeva"
-date = "December 18, 2019"
+title = "Aesir-Vanir, Asura-Deva, but also A’Sura, Daeva"
+date = "2019-12-18"
+upstream_url = "https://aryaakasha.com/2019/12/18/aesir-vanir-asura-deva-but-also-asura-daeva/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/12/18/aesir-vanir-asura-deva-but-also-asura-daeva/).
+
 ![](https://aryaakasha.files.wordpress.com/2019/12/80591638_10162704523055574_9136195926006693888_n.jpg?w=700)
 
 There’s a few comparative mythographic ideas out there that are simple,

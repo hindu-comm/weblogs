@@ -1,7 +1,11 @@
 +++
 title = "The story of Mn"
+date = "2009-10-29"
+upstream_url = "https://manasataramgini.wordpress.com/2009/10/29/the-story-of-mn/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/10/29/the-story-of-mn/).
+
 We have referred to Mn under many disguises. He was and remains the
 master of concealment and image-building but the muni had seen through
 him early and summarily dismissed his disguises. The muni had formerly
@@ -24,7 +28,7 @@ fool. As Mn grew older he became less of Hindu and he spoke dismissively
 of the rituals of a brAhmaNa. But now he was an Indian nationalist. He
 knew everything of geopolitics and how important it was for India to
 curb TSP and TSB. He foresaw trouble in Nepal and the Taleban, and he
-wanted India to conquer Shri Lanka\! He endlessly spoke of the weapon
+wanted India to conquer Shri Lanka! He endlessly spoke of the weapon
 systems of the Indian military and of missiles and nukes. Then Mn
 reached the shores of the mlechChadesha a little after I had done the
 same. He was now a big man in every sense of the word. He now said
@@ -47,3 +51,4 @@ many around us have gone the way of Mn.
 People used think Mn was a non-conformist and I was conformist. But the
 wise amAtya felt the reality was reverse. Indeed therein lies the answer
 to mysteries such as Mn.
+

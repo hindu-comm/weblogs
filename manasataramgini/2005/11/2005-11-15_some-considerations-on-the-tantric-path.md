@@ -1,13 +1,17 @@
 +++
 title = "Some considerations on the tantric path"
+date = "2005-11-15"
+upstream_url = "https://manasataramgini.wordpress.com/2005/11/15/some-considerations-on-the-tantric-path/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/11/15/some-considerations-on-the-tantric-path/).
+
 I decided to put down some matters arising in the discourse with R
 during the winding train journey.
 
 The following are listed as authoritative tantras by the great trika
 tantrics:  
-1\) kAmika 2) kiraNa 3) niHshvAsa 4) pauShkara 5) raurava 6) svAyambhuva
+1) kAmika 2) kiraNa 3) niHshvAsa 4) pauShkara 5) raurava 6) svAyambhuva
 7) pArameshvara.  
 These may be termed the proper shaivAgamas  
 (some of these contain important details concerning the pa\~nchAkShari
@@ -36,3 +40,4 @@ is a very important tantra that provides the critical mantras that
 provide defense against mAraNa attacks and from an academic viewpoint
 the various early lineages of the tantric schools. A major commentary on
 it is by the great kshemarAja.
+

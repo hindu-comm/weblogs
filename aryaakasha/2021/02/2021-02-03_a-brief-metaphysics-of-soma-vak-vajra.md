@@ -1,8 +1,11 @@
 +++
-title = "A Brief Metaphysics of Soma , Vak ,xa0Vajra"
-date = "February 3, 2021"
+title = "A Brief Metaphysics of Soma , Vak , Vajra"
+date = "2021-02-03"
+upstream_url = "https://aryaakasha.com/2021/02/03/a-brief-metaphysics-of-soma-vak-vajra/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/02/03/a-brief-metaphysics-of-soma-vak-vajra/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/02/10750147_la-preparation-du-soma.jpg?w=1021)
 
 Earlier today, I was asked a question about the nature of Soma and Amrit

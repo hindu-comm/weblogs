@@ -1,8 +1,11 @@
 +++
-title = "The Black Avenging Form Of The Earth Mother And The Pursuits Of The Sky Father As Solar Horseman – A Comparative Indo-European Typological Evocation [Part One – Demeter Erinyes,xa0Poseidon]"
-date = "November 7, 2020"
+title = "The Black Avenging Form Of The Earth Mother And The Pursuits Of The Sky Father As Solar Horseman – A Comparative Indo-European Typological Evocation [Part One – Demeter Erinyes, Poseidon]"
+date = "2020-11-07"
+upstream_url = "https://aryaakasha.com/2020/11/07/the-black-avenging-form-of-the-earth-mother-and-the-pursuits-of-the-sky-father-as-solar-horseman-a-comparative-indo-european-typological-evocation-part-one-demeter-erinyes-poseidon/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/11/07/the-black-avenging-form-of-the-earth-mother-and-the-pursuits-of-the-sky-father-as-solar-horseman-a-comparative-indo-european-typological-evocation-part-one-demeter-erinyes-poseidon/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/11/640.webp-76.jpg?w=896)
 
   

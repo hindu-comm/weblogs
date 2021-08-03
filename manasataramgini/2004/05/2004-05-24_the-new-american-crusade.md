@@ -1,7 +1,11 @@
 +++
 title = "The new American crusade"
+date = "2004-05-24"
+upstream_url = "https://manasataramgini.wordpress.com/2004/05/24/the-new-american-crusade/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/05/24/the-new-american-crusade/).
+
 As the crusades are raging in Irak, the discerning Americans are divided
 as to whether the invasion was a good idea or not. This does not matter
 too much because most American citizens are thoroughly misinformed by
@@ -65,3 +69,4 @@ intolerance. In the worst case scenario a messed up Iraq may offer a new
 ground for Ghazis to train their guns to the land of Hind. Will the
 spirit of Krishnadeva Raya who killed Adil Shah at Kovilkonda rise
 again? Time will tell us.
+

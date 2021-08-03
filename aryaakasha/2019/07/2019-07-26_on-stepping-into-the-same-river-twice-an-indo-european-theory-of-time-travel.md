@@ -1,8 +1,11 @@
 +++
-title = "On Stepping Into The Same River Twice – An Indo-European Theory Of Timexa0(Travel)"
-date = "July 26, 2019"
+title = "On Stepping Into The Same River Twice – An Indo-European Theory Of Time (Travel)"
+date = "2019-07-26"
+upstream_url = "https://aryaakasha.com/2019/07/26/on-stepping-into-the-same-river-twice-an-indo-european-theory-of-time-travel/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/07/26/on-stepping-into-the-same-river-twice-an-indo-european-theory-of-time-travel/).
+
 
 
 [](https://aryaakasha.com/2019/07/26/on-stepping-into-the-same-river-twice-an-indo-european-theory-of-time-travel/konark-sun-temple-wheel-5b7b01d3c9e77c0050d37375/)

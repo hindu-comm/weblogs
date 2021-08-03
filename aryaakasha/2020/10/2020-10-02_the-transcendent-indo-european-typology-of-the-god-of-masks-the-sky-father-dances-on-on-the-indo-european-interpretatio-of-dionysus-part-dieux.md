@@ -1,8 +1,11 @@
 +++
-title = "The Transcendent Indo-European Typology Of The God Of Masks – The Sky Father Dances On [ On The Indo-European ‘Interpretatio’ Of Dionysus Part Dieuxxa0]"
-date = "October 2, 2020"
+title = "The Transcendent Indo-European Typology Of The God Of Masks – The Sky Father Dances On [ On The Indo-European ‘Interpretatio’ Of Dionysus Part Dieux ]"
+date = "2020-10-02"
+upstream_url = "https://aryaakasha.com/2020/10/02/the-transcendent-indo-european-typology-of-the-god-of-masks-the-sky-father-dances-on-on-the-indo-european-interpretatio-of-dionysus-part-dieux/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/10/02/the-transcendent-indo-european-typology-of-the-god-of-masks-the-sky-father-dances-on-on-the-indo-european-interpretatio-of-dionysus-part-dieux/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/10/724fe102d25b1051d5aa4a72e06e65dd-1.jpg?w=1000)
 
 In my previous piece upon the subject, I asserted that Dionysus is a

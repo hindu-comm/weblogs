@@ -1,18 +1,22 @@
 +++
 title = "The invocation of Ananda-bhairava"
+date = "2008-11-09"
+upstream_url = "https://manasataramgini.wordpress.com/2008/11/09/the-invocation-of-ananda-bhairava/"
 
 +++
-*h-s-kSh-m-l-v-r-yUM AnandabhairavAya vaShaT ||  
-s-h-kSh-m-l-v-r-yIM sudhAdevyai vauShaT ||  
-aIM klIM sauH ||**  
-brahmANDa-rasa-saMbhUtam-asheSha-rasa-sambhavam |  
-ApUritaM mahA-pAtraM pIyUSha-rasam-Avaha ||  
-akhaNDaika-rasAnanda-kare para-sudhAtmani |  
-svachChanda-sphuraNaM mantraM nidehy-akula-rUpiNI ||  
-akulasthaamR^itAkAre siddhi-j\~nAna-kalebare |  
-amR^itatvaM nidhehy asmin vastuni klinna-rUpiNI ||  
-tad-rUpeNaika-rasyaM cha kR^itvA taistat-svarUpiNI |  
-bhUtvA parAmR^itAkArA mayi chit-sphuraNaM kuru ||*
+Source: [here](https://manasataramgini.wordpress.com/2008/11/09/the-invocation-of-ananda-bhairava/).
+
+*h-s-kSh-m-l-v-r-yUM AnandabhairavAya vaShaT \|\|  
+s-h-kSh-m-l-v-r-yIM sudhAdevyai vauShaT \|\|  
+aIM klIM sauH \|\|**  
+brahmANDa-rasa-saMbhUtam-asheSha-rasa-sambhavaM \|  
+ApUritaM mahA-pAtraM pIyUSha-rasam-Avaha \|\|  
+akhaNDaika-rasAnanda-kare para-sudhAtmani \|  
+svachChanda-sphuraNaM mantraM nidehy-akula-rUpiNI \|\|  
+akulasthaamR^itAkAre siddhi-j\~nAna-kalebare \|  
+amR^itatvaM nidhehy asmin vastuni klinna-rUpiNI \|\|  
+tad-rUpeNaika-rasyaM cha kR^itvA taistat-svarUpiNI \|  
+bhUtvA parAmR^itAkArA mayi chit-sphuraNaM kuru \|\|*
 
 It is thus that Ananda-bhairava along with his shakti Ananda-bhairavI is
 meditated upon and invoked in the shrI-kula system at the time of the
@@ -26,3 +30,4 @@ system. Those who are conversant with both the vaidika and tantrika
 mantra-shAstra would of course recognize the even earlier precursor of
 this tantrika imagery as springing from an even earlier vaidika
 substratum.
+

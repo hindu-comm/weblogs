@@ -1,10 +1,14 @@
 +++
 title = "A zarathuShtrian exit at a Hindu funeral"
+date = "2014-07-24"
+upstream_url = "https://manasataramgini.wordpress.com/2014/07/24/a-zarathushtrian-exit-at-a-hindu-funeral/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/07/24/a-zarathushtrian-exit-at-a-hindu-funeral/).
+
 This note continues with the examples we have been providing on these
 pages illustrating the role of the kavi as a naturalist or an observer
-of nature. The verse below is a macabre one composed by one of  the
+of nature. The verse below is a macabre one composed by one of the
 greatest men among our people, pANini. It might not be an exaggeration
 to say that we owe the language that was the purveyor Hindu culture and
 the lingua franca of the Indosphere to him. This verse, like several
@@ -27,28 +31,29 @@ below.
 
 cha\~nchat pakShaabhighAta glapita-hutabhujaH prauDha-dhAmnash
 chitAyAH  
-kroDAd AkR^iShTa mUrter aham-ahamikayA chaNDa-cha\~nchu-graheNa |  
+kroDAd AkR^iShTa mUrter aham-ahamikayA chaNDa-cha\~nchu-graheNa \|  
 sadyas taptaM shavasya jvalad iva pishitaM bhUri jagdhvA.ardha-dagdhaM  
-pashyaantaH pluShyamANaH pravishati salilaM satvaraM gR^idhra-saMghaH ||
+pashyaantaH pluShyamANaH pravishati salilaM satvaraM gR^idhra-saMghaH
+\|\|
 
 cha\~nchat= flapping; pakSha= wing; abhighAta= striking back; glapita=
 weakened; hutabhujaH= fire (ablative); prauDha= violent; dhAmnash=
 radiance (ablative); chitAyAH= pyre’s (genitive)  
 kroDAd= lap (ablative); AkR^iShTa= dragged out; mUrter= corpse
 (ablative); aham-ahamikayA= with one-another; chaNDa= fierce;
-cha\~nchu-graheNa= by the pecks of beaks |  
+cha\~nchu-graheNa= by the pecks of beaks \|  
 sadyas= right now; taptaM= burning; shavasya= corpse (genitive); jvalad=
 burning; iva= like; pishitaM= flesh; bhUri= abundantly; jagdhvA= having
 eaten; ardha= half; dagdhaM= burnt;  
 pashya= see (imperative); antaH= innards; pluShyamANaH= scorching
 (present passive participle); pravishati= resort to (present, parasmai);
 salilaM= lake (water); satvaraM= speedily; gR^idhra-saMghaH=
-vulture-kettle ||
+vulture-kettle \|\|
 
 With flapping wings striking the fire to weaken its violent radiance,  
 from the middle of the pyre they have dragged out a corpse,  
 each one contending with another with pecks of their fierce beaks,  
 having abundantly feasted on the freshly roasted flesh of the corpse,  
-which’s as if glowing and half in flames; See\! with scorching
-innards,  
-to the lake the kettle of vultures speedily resorts\!
+which’s as if glowing and half in flames; See! with scorching innards,  
+to the lake the kettle of vultures speedily resorts!
+

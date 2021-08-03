@@ -1,7 +1,11 @@
 +++
 title = "The enduring mystery of IVC"
+date = "2006-04-08"
+upstream_url = "https://manasataramgini.wordpress.com/2006/04/08/the-enduring-mystery-of-ivc/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/04/08/the-enduring-mystery-of-ivc/).
+
 The IVC or the Sarasvati-Sindhu civilization(SSC) or the Harappan
 civilization intrigues most historically aware Hindus. It was vast-
 covering a large swath of land from Afghanistan to Maharashtra. Its was
@@ -67,20 +71,19 @@ the bordering cultures like the Chalcolithic of Padri in Gujarat and in
 Burzhom, Kashmir. He may be found on seals, tablets, or pottery in many
 different poses. He typically wears long plaits or hair tied into buns.
 A third sprout may emerge from the middle of his head and sometimes bear
-peepal leaves on it.
-  
+peepal leaves on it.  
 – In one seal he seems to be emerging from a peepal tree and his
 worshipped by another horned being looking like him. Besides them stands
 a strange imaginary mammal with wavy horns, wrinkled neck and a human
 face (often represented on its own). 7 beings with hair done into
 shikhas (tufts) and a pendulum-like thing hanging from their heads stand
 below them.  
-- In seals and tablets he is seen seated in the classical
-baddhakoNAsana, sometimes with the li\~Nga in an ityphallic position at
-times. In one seal beside him is a figure killing a water buffalo with a
-trident. On top of that figure is a gharial. In some seals and tablets
-he is surrounded by various wild animals. In yet other seals he may be
-alone in the same asana on a slightly raised platform.  
+-In seals and tablets he is seen seated in the classical baddhakoNAsana,
+sometimes with the li\~Nga in an ityphallic position at times. In one
+seal beside him is a figure killing a water buffalo with a trident. On
+top of that figure is a gharial. In some seals and tablets he is
+surrounded by various wild animals. In yet other seals he may be alone
+in the same asana on a slightly raised platform.  
 – In some tablets he is shown standing and might even be wearing bangles
 on his arms. In other tablets he is shown standing wielding a bow and an
 arrow. In some tablets where he is standing he wields a rod or a club
@@ -112,3 +115,4 @@ Definitely its original users made great use of it, irrespective of
 whether it was a conventional script or some other notation system. I
 think this will be an enigma about India for which we will never have an
 answer.
+

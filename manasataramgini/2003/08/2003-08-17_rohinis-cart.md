@@ -1,7 +1,11 @@
 +++
 title = "rohiNi’s cart"
+date = "2003-08-17"
+upstream_url = "https://manasataramgini.wordpress.com/2003/08/17/rohinis-cart/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/08/17/rohinis-cart/).
+
 In Greco-Roman star lore the constellation Auriga is the charioteer.
 Traditionally, in India too the constellation is refered to as the
 sArathi, which means the same thing. The mainstream Western scholarship
@@ -20,3 +24,4 @@ cart to the charioteer. Hence, while lateral Greco-Roman influence
 cannot be ruled out entirely, it is likely that the basic concepts
 concerning this constellation go back to the misty Indo-European past
 when Greeks and Indians shared a common ancestor.
+

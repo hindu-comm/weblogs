@@ -1,7 +1,11 @@
 +++
 title = "raNa dIkShA"
+date = "2008-08-24"
+upstream_url = "https://manasataramgini.wordpress.com/2008/08/24/rana-diksha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/08/24/rana-diksha/).
+
 [![ayudha](https://i1.wp.com/farm4.static.flickr.com/3090/2790957793_6e7ccf3cf4_b.jpg)](http://farm4.static.flickr.com/3090/2790957793_6e7ccf3cf4_b.jpg "ayudha by somasushma, on Flickr")
 
 Both vaidIka and mantra-mArga shaiva traditions have similar rituals for
@@ -13,8 +17,8 @@ warfare, namely the bow, arrows (including poisoned points), the quiver,
 the horses, the reins, whips, chariots, chariot-carrying rathavAhana-s,
 armor, and gauntlets. Importantly, the brAhmaNa sprinkled soma on the
 warrior with the formula:  
-marmANi te varmaNA ChAdayAmi somastvA rAjAmR^itenAnu vastAm |  
-urorvarIyo varuNaste kR^iNotu jayantaM tvAnu devAmadantu || (RV
+marmANi te varmaNA ChAdayAmi somastvA rAjAmR^itenAnu vastAm \|  
+urorvarIyo varuNaste kR^iNotu jayantaM tvAnu devAmadantu \|\| (RV
 6.75.19)  
 In this mantra, after the warrior is armored by the brAhmaNa, soma is
 called upon to confer amR^ita (immortality) on the warrior. In addition
@@ -30,7 +34,7 @@ A tAntrIka version of a similar rite is provided by the
 raNadIkShAvidhAnaM retro-attributed to bhIShma shAntanava. It belongs to
 the larger tradition of the netra tantra as it invokes the primary deity
 of this tradition – amR^iteshvara with his famous tAntrIka mantra
-(mR^itasaMjIvanI vidyA): OM jUM saH ||. This invocation may be seen as
+(mR^itasaMjIvanI vidyA): OM jUM saH \|\|. This invocation may be seen as
 showing continuity with the much earlier vedic tradition in which soma
 is invoked for conferring amR^ita – amR^iteshvara depicted as bearing a
 soma/amR^ita pot. In this shaiva rite the warrior/king, after a bath, in
@@ -57,13 +61,14 @@ deploying a different set of mantra-s and devatA-s.
 
 Ayudha mantra-s:  
 OM khAM khIM khUM khaiM khauM khaM khaH raudramUrtaye khaDgAya namaH
-||  
+\|\|  
 OM hrAM hrIM hrUM hraiM hrauM hraH shrIbhairavarUpAya rakShAyudhAya
-phalakAya namaH ||  
-OM lAM lIM lUM laiM lauM laH indrAyudhAya dhanuShe namaH ||  
+phalakAya namaH \|\|  
+OM lAM lIM lUM laiM lauM laH indrAyudhAya dhanuShe namaH \|\|  
 OM srAM srIM srUM sraiM srauM sraH brahmAdya-pa\~ncha-devatAmUrtaye
 pa\~nchabANasvarUpiNe bANa-phalakAya namaH  
 OM krAM krIM krUM kraiM krauM kraH shUlimUrtaye bhairavAyudhAya kuntAya
-namaH ||  
+namaH \|\|  
 OM aghore Churike chAmuNDe ChrAM ChrIM ChrUM ChraIM ChrauM ChraH
-bhagavatImUrtaye kAtyAyanyai ChurikAyai namaH ||
+bhagavatImUrtaye kAtyAyanyai ChurikAyai namaH \|\|
+

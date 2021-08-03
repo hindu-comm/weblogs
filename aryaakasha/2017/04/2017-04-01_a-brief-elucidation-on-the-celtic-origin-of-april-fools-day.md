@@ -1,8 +1,11 @@
 +++
-title = "A Brief Elucidation On The Celtic Origin Of April Fool’sxa0Day"
-date = "April 1, 2017"
+title = "A Brief Elucidation On The Celtic Origin Of April Fool’s Day"
+date = "2017-04-01"
+upstream_url = "https://aryaakasha.com/2017/04/01/a-brief-elucidation-on-the-celtic-origin-of-april-fools-day/"
 
 +++
+Source: [here](https://aryaakasha.com/2017/04/01/a-brief-elucidation-on-the-celtic-origin-of-april-fools-day/).
+
 Posted on behalf of Will Bordsen:
 
 “Gwydion is the Welsh god of magic and wisdom, analogous to the Germanic

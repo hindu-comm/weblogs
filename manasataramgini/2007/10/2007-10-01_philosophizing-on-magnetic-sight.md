@@ -1,7 +1,11 @@
 +++
 title = "Philosophizing on magnetic sight"
+date = "2007-10-01"
+upstream_url = "https://manasataramgini.wordpress.com/2007/10/01/philosophizing-on-magnetic-sight/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/10/01/philosophizing-on-magnetic-sight/).
+
 I wanted to document the great victory of the Hindu armies in the land
 of Karroo. After the memories of 1983 which are faint, almost going back
 to our infancy, this is the only time we have displayed any notable
@@ -16,13 +20,13 @@ to consciousness. I would have liked to capture the various elements of
 it, both scientific and philosophical, but for now just a few points for
 we are like the haunted man chased by a vetAla.
 
-“vedA yo vInAm padam antarikSheNa patatAm |” (shunaHshepa Ajigarti in RV
-1.25.7a)  
+“vedA yo vInAm padam antarikSheNa patatAm \|” (shunaHshepa Ajigarti in
+RV 1.25.7a)  
 \[varuNa\] knows the migratory path of the birds through the atmosphere
 
-“sarvA vA iyaM vayobhyo naktaM dR^iShe dIpyate | tasmAd imAM vayAMsi
-naktaM nAdhy Asate | ya evaM vidvAn agniM chinute praty eva tiShTya abhi
-disho jayati |” TS 5.6.4  
+“sarvA vA iyaM vayobhyo naktaM dR^iShe dIpyate \| tasmAd imAM vayAMsi
+naktaM nAdhy Asate \| ya evaM vidvAn agniM chinute praty eva tiShTya
+abhi disho jayati \|” TS 5.6.4  
 A  
 All this (earth) in the eyes of the birds shines at night, therefore at
 night birds do not rest here. He who knowing this piles a fire finds
@@ -50,3 +54,4 @@ recognize its receptors in other animals.
 Yet we have come to realize over the ages that it is one of the primary
 forces behind avian migration and homing.  
 continued …
+

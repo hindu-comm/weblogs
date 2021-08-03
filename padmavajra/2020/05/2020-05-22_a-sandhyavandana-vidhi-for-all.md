@@ -1,8 +1,11 @@
 +++
-title = "A sandhyAvandana vidhi forxa0all"
+title = "A sandhyAvandana vidhi for all"
 date = "2020-05-22"
+upstream_url = "https://padmavajra.net/2020/05/22/a-sandhyavandana-vidhi-for-all/"
 
 +++
+Source: [here](https://padmavajra.net/2020/05/22/a-sandhyavandana-vidhi-for-all/).
+
 ![682px-Sculpture_of_Surya_the_sun_god_dated_to_the_14th_century_from_Kannuru](https://padmavajrablog.files.wordpress.com/2020/05/682px-sculpture_of_surya_the_sun_god_dated_to_the_14th_century_from_kannuru.jpeg?w=739)  
 \[Image is of sUrya with His retinue and His seven horses and
 charioteer,sourced from Wikimedia Commons\]

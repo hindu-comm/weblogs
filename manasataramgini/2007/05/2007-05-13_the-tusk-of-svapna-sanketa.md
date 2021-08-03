@@ -1,7 +1,11 @@
 +++
 title = "The tusk of svapna-sa~NketA"
+date = "2007-05-13"
+upstream_url = "https://manasataramgini.wordpress.com/2007/05/13/the-tusk-of-svapna-sanketa/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/05/13/the-tusk-of-svapna-sanketa/).
+
 After the third vIra had broken forth the vairi-s turned their attention
 towards the 4 other distant vIra-s. Two of them were protected by the
 spells of the taittirIyaka, the bull amongst the kuNDinas. The rAhu
@@ -32,3 +36,4 @@ destroyed the mAraNa prayoga and saved the amAtya-s life. Then the
 oShadhi-s of atharvaNa-bhadrakAli were deployed to counter the lasting
 effects of the abhichAra. The bhargava was able to pull this off beyond
 all his expectations only because of the anugraha of the tusked one.
+

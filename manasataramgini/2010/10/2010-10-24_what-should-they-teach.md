@@ -1,7 +1,11 @@
 +++
 title = "What should they teach?"
+date = "2010-10-24"
+upstream_url = "https://manasataramgini.wordpress.com/2010/10/24/what-should-they-teach/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/10/24/what-should-they-teach/).
+
 The prolix Balagangadhara of Ghent in a talk available on YouTube brings
 up the question of teaching bhAratIya viShaya-s in mlechCha
 universities. In this regard we have earlier discussed the California
@@ -31,8 +35,8 @@ both his left-leaning attitude, not uncommon in a mlechCha college
 academic, and his patriotic calling he got busy producing pamphlets
 condemning Hindu nationalism. Not surprisingly, in course of these
 writings he did not pass the opportunity of hurling some muck at the
-“evil brahmins” – after everything bad must be due to us. One wonders
-if he might describe his own cognate political institutions and leaders,
+“evil brahmins” – after everything bad must be due to us. One wonders if
+he might describe his own cognate political institutions and leaders,
 say Ron Reagan or for that matter even Thomas Jefferson with the same
 holier than thou language he reserves for the Hindus. His is just one
 example – a student of shaiva issues being remodeled as a South Asianist
@@ -113,3 +117,4 @@ attitudes towards the Hindu system while professing overtly to be its
 friends.
 
 continued…
+

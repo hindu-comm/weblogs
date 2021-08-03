@@ -1,8 +1,12 @@
 +++
 title = "chaturdasha skanda-mAtR^i-kula-chakra"
+date = "2009-09-21"
+upstream_url = "https://manasataramgini.wordpress.com/2009/09/21/chaturdasha-skanda-matri-kula-chakra/"
 
 +++
-[![skanda\_mAtr](https://i2.wp.com/farm3.static.flickr.com/2462/3943058473_577db3e628.jpg)](http://www.flickr.com/photos/24766652@N05/3943058473/ "skanda_mAtr by somasushma, on Flickr")  
+Source: [here](https://manasataramgini.wordpress.com/2009/09/21/chaturdasha-skanda-matri-kula-chakra/).
+
+[![skanda_mAtr](https://i2.wp.com/farm3.static.flickr.com/2462/3943058473_577db3e628.jpg)](http://www.flickr.com/photos/24766652@N05/3943058473/ "skanda_mAtr by somasushma, on Flickr")  
 kumAra with the kula of glorious goddesses in the holy city of Mathura
 
 In the kaumAra lore an important chakra is the 14 fold chakra in the
@@ -48,4 +52,5 @@ ritual fire. He then invokes the deva in the circle of glorious
 goddesses in the maNDala outlined above. The chakra might also take the
 form of 3-dimensional maNDala like a meru.
 
-[![shri\_skanda](https://i1.wp.com/farm4.static.flickr.com/3510/3940521970_607415ef99.jpg)](http://www.flickr.com/photos/24766652@N05/3940521970/ "shri_skanda by somasushma, on Flickr")
+[![shri_skanda](https://i1.wp.com/farm4.static.flickr.com/3510/3940521970_607415ef99.jpg)](http://www.flickr.com/photos/24766652@N05/3940521970/ "shri_skanda by somasushma, on Flickr")
+

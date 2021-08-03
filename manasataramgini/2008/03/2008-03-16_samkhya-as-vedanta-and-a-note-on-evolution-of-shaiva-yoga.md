@@ -1,7 +1,11 @@
 +++
 title = "sAMkhya as “vedAnta” and a note on evolution of shaiva yoga"
+date = "2008-03-16"
+upstream_url = "https://manasataramgini.wordpress.com/2008/03/16/samkhya-as-vedanta-and-a-note-on-evolution-of-shaiva-yoga/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/03/16/samkhya-as-vedanta-and-a-note-on-evolution-of-shaiva-yoga/).
+
 The publication of a critical edition and scholarly annotation of the
 apparent yoga pAda of the mAlinI-vijayottara-tantra (MVUT) by the
 learned western indologist Somadeva Vasudeva (done as part of his
@@ -11,7 +15,7 @@ Sanderson of Oxford who has also been a learned Sanskrit scholar
 diligently studying various tantric texts. This publication is an
 instance of the efforts of a western indologist making a positive
 contribution to Hindus in their “svAdhyAya”. We had earlier pointed out
-how the roots of classical sAMkhya lie plainly in the later layer of
+how the rootsof classical sAMkhya lie plainly in the later layer of
 brAhmaNa texts, which encompass the upaniShad-s. Thus, a major component
 of vedAnta (in the literal sense as the terminal teaching of the veda-s)
 is sAMkhya. In this context it is interesting to note how the
@@ -20,8 +24,8 @@ describes a meditation in order to be able to perceive the puruSha
 tattva. It states that after performing the yoga for 3 years one attains
 tulyatA with the regent of the puruSha-tattva. It then goes on to add
 that:  
-“etad vedAnta-vij\~nAnaM samAsAd upavarNitam | kapilasya purA proktam
-etad vistarasho mayA ||” MVUT 16.24  
+“etad vedAnta-vij\~nAnaM samAsAd upavarNitam \| kapilasya purA proktam
+etad vistarasho mayA \|\|” MVUT 16.24  
 This statement immediately raises a number of points: 1) Clearly, the
 tantra is describing a tattva of sAMkhya-yoga (i.e. puruSha) and how it
 is perceived via meditation. 2) Further, it calls this teaching
@@ -42,7 +46,7 @@ also one of the earliest texts giving the name sAMkhya in connection to
 its sAMkhya-yoga philosophy and mentioning its founder kapila (SU 5.2,
 second pAda).  
 “R^iShiM prasUtaM kapilaM yas tam agre j\~nAnair bibharti jAyamAnaM ca
-pashyet ||”  
+pashyet \|\|”  
 The brahman (which has been earlier identified with rudra in the SU) is
 said to be generate kapila who bears the knowledge of the system.
 
@@ -105,8 +109,8 @@ show this association with yoga throughout their early evolution. The
 early post-vedic shaiva-s represented in the MBH clearly describe rudra
 as yogAtman and the goal of yogi-s. For example the ajAnana virachita
 rudra stuti (MBH-critical 12.47.35) states:  
-“yaM vinidrA jitashvAsAH sattvasthAH samadarshinaH |  
-jyotiH pashyanti yu\~njAnAs tasmai yogAtmane namaH ||”  
+“yaM vinidrA jitashvAsAH sattvasthAH samadarshinaH \|  
+jyotiH pashyanti yu\~njAnAs tasmai yogAtmane namaH \|\|”  
 This verse implies the practice of yogic vigils, prANAyAma and also
 dhAraNa on the form of light by these shaiva-s. The MBH already
 recognizes pAshupata-s, and the pAshupata-s of the lAkulIsha stream (the
@@ -115,7 +119,7 @@ next recorded stage of shaiva development after those of the great epic.
 The paurANic account of pAshupata tradition records lakulIsha as
 preceded by an earlier lineage of pAshupata yogin-s. The pAshupata
 sUtra-s begin with the statement: “athAtaH pashupateH pAshupataM
-yogavidhiM vyAkhyAsyAmaH | (PS 1.1)”. Further it states: “ato yogaH
+yogavidhiM vyAkhyAsyAmaH \| (PS 1.1)”. Further it states: “ato yogaH
 pravartate (PS 5.23)”.  
 The pa\~nchArtha bhAShya \[\*2\] of kauNDinya on the PS explains that
 the yoga of the pAshupata includes yoking or unifying oneself with rudra
@@ -183,3 +187,4 @@ going all the way to dhruva. Then the saiddhAntika-s added other
 emanations going beyond all the way to sadAshiva. The trika and shrIkula
 tantric-s have added the preta-s of brahma, viShNu, rudra, ishvara and
 sadAshiva to the throne of their deities, thus creating a further level.
+

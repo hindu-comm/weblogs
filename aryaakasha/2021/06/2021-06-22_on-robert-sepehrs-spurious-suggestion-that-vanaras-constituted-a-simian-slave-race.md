@@ -1,8 +1,11 @@
 +++
-title = "On Robert Sepehr’s Spurious Suggestion That Vanaras Constituted A “Simian Slavexa0Race”"
-date = "June 22, 2021"
+title = "On Robert Sepehr’s Spurious Suggestion That Vanaras Constituted A “Simian Slave Race”"
+date = "2021-06-22"
+upstream_url = "https://aryaakasha.com/2021/06/22/on-robert-sepehrs-spurious-suggestion-that-vanaras-constituted-a-simian-slave-race/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/06/22/on-robert-sepehrs-spurious-suggestion-that-vanaras-constituted-a-simian-slave-race/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/06/main-qimg-67c11d4278913969eb30ae0077102987.jpg?w=602)
 
 Earlier today, an associate alerted me to some annoying remarks by one

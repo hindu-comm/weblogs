@@ -1,8 +1,11 @@
 +++
-title = "The Triumph Of The Thunder-God – Restored : An Analysis Of A Husdrapa Hailing Of Thor’s Victory Over Jormungandr Via The Vedicxa0Verses"
-date = "April 1, 2021"
+title = "The Triumph Of The Thunder-God – Restored : An Analysis Of A Husdrapa Hailing Of Thor’s Victory Over Jormungandr Via The Vedic Verses"
+date = "2021-04-01"
+upstream_url = "https://aryaakasha.com/2021/04/01/the-triumph-of-the-thunder-god-restored-an-analysis-of-a-husdrapa-hailing-of-thors-victory-over-jormungandr-via-the-vedic-verses/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/04/01/the-triumph-of-the-thunder-god-restored-an-analysis-of-a-husdrapa-hailing-of-thors-victory-over-jormungandr-via-the-vedic-verses/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/04/thor_battling_jormungandr_by_natasailincic_d8szagi-fullview.jpg?w=866)
 
 Something which has long played upon my mind is a most curious

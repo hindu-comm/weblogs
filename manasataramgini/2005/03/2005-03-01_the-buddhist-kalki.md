@@ -1,7 +1,11 @@
 +++
 title = "The Buddhist kalki"
+date = "2005-03-01"
+upstream_url = "https://manasataramgini.wordpress.com/2005/03/01/the-buddhist-kalki/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/03/01/the-buddhist-kalki/).
+
 The bauddhas have internalized the last incarnation of viShNu, the
 all-destroying kalki or pramati who is said to annihilate the mlecchas
 and dasyus and restore the world to the Aryas. The kAlachakra tantra of
@@ -76,6 +80,5 @@ Meccan demons, kR^iNmati, with his astra and destroyed him for good.
 After that raudra-kalki will restore the dharma on earth and will return
 to the abode of bliss from which he came.
 
-****\*Note the use of the Hindu styled numeral code (like the
-katapayAdi).  
-****
+\*Note the use of the Hindu styled numeral code (like the katapayAdi).  
+

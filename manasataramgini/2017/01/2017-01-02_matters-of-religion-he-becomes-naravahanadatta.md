@@ -1,7 +1,11 @@
 +++
 title = "Matters of religion: “he becomes Naravāhanadatta”"
+date = "2017-01-02"
+upstream_url = "https://manasataramgini.wordpress.com/2017/01/02/matters-of-religion-he-becomes-naravahanadatta/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2017/01/02/matters-of-religion-he-becomes-naravahanadatta/).
+
 Somakhya’s mother (SM) and Lootika’s mother (LM) ran into each other
 during their visit to the shrine of Rudra beside the river on a Monday
 evening. They sat at the platform below the vast aśvattha tree beside
@@ -12,14 +16,14 @@ has left?”
 SM: “Well, I’ve returned to teaching the Mahābhārata and have been
 contemplating on the features of early Indo-Aryan. By the way I saw your
 brilliant daughter last evening at the clothes shop.”  
-LM: “Ah\! You mean Vrishchika; have been worrying about her.”  
+LM: “Ah! You mean Vrishchika; have been worrying about her.”  
 SM: “Why? I heard that she has been invited to give a talk at some
 famous human genomics meeting regarding the paper she has just
 published. She seems to be following her stellar elder sister with this
 paper while just in the fourth year of med-school.”  
 LM: “That’s exactly the matter of worry. The conference is at
-Kṣayadrājanagara, a big bad city, where I am sure you heard that just
-a week ago there was a major attack at the train station by the
+Kṣayadrājanagara, a big bad city, where I am sure you heard that just a
+week ago there was a major attack at the train station by the
 marupiśāca-s in which several were killed. Vrishchika has set her mind
 on going and you know when that happens there’s no easy way to change
 it.”
@@ -93,7 +97,7 @@ out to her and but she had her ears plugged with a headset and walked on
 oblivious of her lost property. Vrishchika gingerly gathered the stuff
 and walked up and gave it to her. She was very happy and gave Vrishchika
 a note as a reward. Vrishchika smiled saying that she did not need it
-as: “Dhaneśvara keeps me well\!” The woman responded: “whoever that
+as: “Dhaneśvara keeps me well!” The woman responded: “whoever that
 Dhaneśvara is may he continue to be good to you”, even as Vrishchika
 walked back to her seat.
 
@@ -131,7 +135,7 @@ offered Vrishchika a cushion as a seat and as she looked around his room
 for the first time taking in the sights she felt a strange sense of déjà
 vu. She saw a large painting of Naravāhana on the wall with his three
 wives Śriyā, Ṛddhi and Bhadrā hugging him and his son Nalakūbara seated
-beside him. The mantra “namo dhanadāya ca dhanasvāmine ca ||” was
+beside him. The mantra “namo dhanadāya ca dhanasvāmine ca \|\|” was
 inscribed around the painting. Below it hung a Japanese painting with
 several figures of which she could only recognize one as being a yakṣa.
 Below that on a separate stool was a well-bound copy of the bṛhatkathā.
@@ -145,7 +149,7 @@ Indrasena: “O Gautamī it is a long story but short of it goes thus. In
 my childhood as I was learning the Taittirīya-śruti I had dreams on many
 continuous nights of the great peak of Kailasa-parvata. Above it I saw
 hovering a great airplane, the Puṣpaka. By myself I began uttering the
-mantra-s starting with tirodhā-bhūḥ svāhā| Other mysterious mantra-s of
+mantra-s starting with tirodhā-bhūḥ svāhā\| Other mysterious mantra-s of
 Vaiśravaṇa started coming to my mind as the old Hindus would say as if
 from a past birth. But they were incomplete and I had wait till I could
 apprehend most of them due to the teachings of the vañga-siṃha.”
@@ -157,11 +161,11 @@ rājarāja-mata kaṇṭhīravaḥ: a vipra who was a lion among the vaṅga-s. 
 could be truly described as ‘dhanaṃ meru-tulyam’ and possessed of many
 kinds of vidyā-s. People looked at him and wondered ‘how could he be
 endowed with all of this wealth, health, beauty, intelligence, wife and
-children? He never seemed to age\!’ After all it is almost a truism
-that: “indreṇa sarvāni śubhāny ekasmin puruṣe saṃyuktaṃ na sthāpitāni |’
+children? He never seemed to age!’ After all it is almost a truism that:
+“indreṇa sarvāni śubhāny ekasmin puruṣe saṃyuktaṃ na sthāpitāni \|’
 Seeing him people got the hint that after all the advaitin-s were simply
 being losers when they asked ‘tataḥ kim?’ when confronted with dhanaṃ
-meru-tulyam| As though guided by Rājarāja, with youthful impropriety, I
+meru-tulyam\| As though guided by Rājarāja, with youthful impropriety, I
 once jousted with him on a scientific topic very familiar to the two of
 us, as also your agrajā and Somakhya of quick discernment. I will tell
 you about that at a different point in time. While he did not openly
@@ -198,7 +202,7 @@ The figure to the right is Daigo the emperor of Japan. He was afflicted
 by an incurable disease. Myoren performed a Vitteśa-sādhanā and as
 result a guhyaka appeared – he is the central figure with the sword –
 the yakṣa then cured the emperor.”  
-Vrishchika: “Remarkable\!”  
+Vrishchika: “Remarkable!”  
 Indrasena then walked up to the painting and turned it around: “Here on
 the back you can see the images of the great Vaiśravaṇa along with his
 wife Śriyā and son Nalakūbara. This a painting of their idols installed
@@ -229,7 +233,7 @@ known as nara-s exactly as prescribed in our tradition.”
 Vrishchika: “Thank you for the most interesting narrative. What is
 written in the siddham script on that painting?”  
 Indrasena: “It is the mantra Sakanoue used: oṃ vaiśravaṇa sahaparivāreṇa
-samāja jaḥ huṃ vaṃ hoḥ oṃ ve svāhā ||”
+samāja jaḥ huṃ vaṃ hoḥ oṃ ve svāhā \|\|”
 
 Vrishchika: “Indra, I have so many things to talk to you about. But
 since time is short right now I would like to ask you regarding the
@@ -254,29 +258,29 @@ nalakūbaraya yakṣebhyo yakṣāṇāṃ patye namaḥ ।”
 Then he gave her some honey with a silver spoon and asked her to eat it
 with the mantra:  
 “idaṃ jambhalasya madhu maghonaṃ madhunā prajāvatī payasvatī dhanavatī
-dhīmatī ayuṣmatī bhūyāsam |”
+dhīmatī ayuṣmatī bhūyāsam \|”
 
 Then with another spoon he gave Vrishchika the water with a small amount
 of cedar nut oil: “Apply this on your eyelids with the following
 mantra:  
 “kuberasyodakam idam tenādṛṣṭaṃ dṛṣṭam bhavati huṃ nakulahastāya svāhā
-|”
+\|”
 
 Vrishchika: “Ah this is the pratikṛti of the water sent by Viteśa to
-help Rāma and Lakṣmaṇa penetrate the māyā of Meghanāda\!”
+help Rāma and Lakṣmaṇa penetrate the māyā of Meghanāda!”
 
 Indrasena: “Indeed. Then you shall close your eyes, visualize the great
 cave in the Himalayan heights where Kubera has placed the pot of golden
 kauberaka honey and meditate upon it doing japa of the mantra:  
-oṃ hrīṃ vaiśravaṇa\! dhanaṃ puṣṭiṃ dehi me svāhā |  
+oṃ hrīṃ vaiśravaṇa! dhanaṃ puṣṭiṃ dehi me svāhā \|  
 When you have become sthiramati emerge from your meditation uttering oṃ
-vaiśravaṇa arthatamom। 3 X huṃ phaṭ|”
+vaiśravaṇa arthatamom। 3 X huṃ phaṭ\|”
 
 After Vrishchika did so she emerged from her dhyāna uttering: “apaśyaṃ
 tvā yakṣam ugraṃ tvāṣṭrīṃ vimānarūḍhaṃ puruścakrāṇi sahasra-vandhurāṇi ।
 sa vaiśravaṇo rājarājā mahato mahīyān yasya pratigraheṇāpsyāmi dhanaṃ
 meru-tulyam । kāmam pratigacchāmi । dhanam pratigacchāmi । prajāḥ
-pratigacchami । īśvareṇa mahado3 o3 oṃ ||”
+pratigacchami । īśvareṇa mahado3 o3 oṃ \|\|”
 
 Indrasena: “That’s good it appears you are on the path of īśvara-siddhi.
 I know you already have accomplishments as a mantravādinī but before
@@ -286,17 +290,17 @@ Vrishchika: “I do know them from my sarvādhikāra-dīkṣa:
 dhanadaś ca yakṣapatir vitteśo nidhipālakaḥ ।  
 rākṣasādhipatiś caiva piṅgalākṣo vimānagaḥ ॥  
 rudrasakhā kuberaś ca guhyakānāṃ patis tathā ।  
-vaiśravaṇeśvaraś caiva yakṣendraḥ parikīrtitaḥ ||
+vaiśravaṇeśvaraś caiva yakṣendraḥ parikīrtitaḥ \|\|
 
 Dhanada: the giver of wealth; Yakṣapati: the lord of the yakṣa-s;
 Vitteśa: the lord of wealth; Nidhipālaka: the guardian of wealth;
-Rākṣasādhipati: the lord of the Rakṣa-s, this has been already stated
-in the Yajuṣ and the Atharvaṇa-śruti-s; Piṅgalākṣa: he whose eyes are of
-a golden tint; Vimānaga: one who can go anywhere on his Puṣpaka
-airplane; Rudrasakhā: friend of Rudra, this has been explained in our
-national epic; Rudra with his family often resides in the space station
-of Kubera; Kubera: One who has a frightful form; Guhyakānāṃ pati: lord
-of the hidden yakṣa-s who in the śruti are known as tirodhā; Vaiśravaṇa:
+Rākṣasādhipati: the lord of the Rakṣa-s, this has been already stated in
+the Yajuṣ and the Atharvaṇa-śruti-s; Piṅgalākṣa: he whose eyes are of a
+golden tint; Vimānaga: one who can go anywhere on his Puṣpaka airplane;
+Rudrasakhā: friend of Rudra, this has been explained in our national
+epic; Rudra with his family often resides in the space station of
+Kubera; Kubera: One who has a frightful form; Guhyakānāṃ pati: lord of
+the hidden yakṣa-s who in the śruti are known as tirodhā; Vaiśravaṇa:
 the lord of the northern garden-land known as Viśravas; īśvara: the
 great lord; Yakṣendra: who is like Indra among the Yakṣa-s.”
 
@@ -308,14 +312,14 @@ rahasya-s of this very mysterious mantra of the Bhṛgu-s from the
 Atharvaveda:
 
 yad indrādo dāśarājñe  
-mānuṣaṃ vi gāhathāḥ |  
+mānuṣaṃ vi gāhathāḥ \|  
 virūpaḥ sarvasmā āsīt  
-saha yakṣāya kalpate ||
+saha yakṣāya kalpate \|\|
 
 But for now you may do puraścaraṇa of the antardhānāstra-mantra. It will
 provide us with the fury needed withstand the assault of the
-ekarākṣasavādin-s who would seek to place in the museum in that
-great clash in the future.”
+ekarākṣasavādin-s who would seek to place in the museum in that great
+clash in the future.”
 
 Vrishchika: “That sounds frightening. Tell me more of how one approaches
 this rahasya?”  
@@ -330,12 +334,12 @@ wealth)
 
 Then he does the visualization of Kubera thus:  
 atha dhyānam:  
-yakṣa-rākṣasa-sainyena guhyakānāṃ gaṇair api |  
-yuktaś ca śaṅkha-padmābhyāṃ nidhīnām adhipaḥ prabhuḥ ||  
-rājarājeśvaraḥ śrīmān gadāpāṇir dhaneśvaraḥ |  
-vimāna-yodhī dhanado vimāne puṣpake sthitaḥ ||  
-sa rājarājaḥ suśubhe yuddhārthī naravāhanaḥ |  
-prekṣamāṇaḥ śivasakhaḥ sākṣād iva śivaḥ svayam ||
+yakṣa-rākṣasa-sainyena guhyakānāṃ gaṇair api \|  
+yuktaś ca śaṅkha-padmābhyāṃ nidhīnām adhipaḥ prabhuḥ \|\|  
+rājarājeśvaraḥ śrīmān gadāpāṇir dhaneśvaraḥ \|  
+vimāna-yodhī dhanado vimāne puṣpake sthitaḥ \|\|  
+sa rājarājaḥ suśubhe yuddhārthī naravāhanaḥ \|  
+prekṣamāṇaḥ śivasakhaḥ sākṣād iva śivaḥ svayam \|\|
 
 (The lord of wealth, the overlord, is united with yakṣa, rakṣa-s and
 guhyaka hosts, as also Śaṅkha and Padmā. The lord of the king of kings,
@@ -347,23 +351,23 @@ of Śiva is himself like a second Śiva)
 
 Then as ordained by the Vaikhānasa-s one offers the pūrvārghya of water
 in a receptacle with the gāyatrī:  
-rāja-rājāya vidmahe dhanādhyakṣyāya dhīmahi|  
-tan no yakṣaḥ pracodayāt ||
+rāja-rājāya vidmahe dhanādhyakṣyāya dhīmahi\|  
+tan no yakṣaḥ pracodayāt \|\|
 
 Then one performs japa and/or homa of the mantra:  
 asya mantrasya vadanya ṛṣiḥ । virāṭ chandaḥ ।
 antardhāna-dhārin-ugra-kubero devatā ।  
-oṃ chaṇḍograyakṣāya huṃ phaṭ tirodhehi sapatnān naḥ svāhā ||
+oṃ chaṇḍograyakṣāya huṃ phaṭ tirodhehi sapatnān naḥ svāhā \|\|
 
 There after one concludes with the incantation of the Śānkhāyana-s:
 
-nainaṃ rakṣo na piśāco hinasti na jambhako nāpy asuro na yakṣaḥ ||  
+nainaṃ rakṣo na piśāco hinasti na jambhako nāpy asuro na yakṣaḥ \|\|  
 (Neither rakṣa-s nor piśāca-s, nor jambhaka-s, i.e. Kubera’s agents, nor
 asura-s nor yakṣa-s harm him)
 
 Then one offers the madhyamārghya as above with the mantra:  
-rudra-sakhāya vidmahe vaiśravaṇāya dhīmahi |  
-tan naḥ kuberaḥ pracodayāt ||
+rudra-sakhāya vidmahe vaiśravaṇāya dhīmahi \|  
+tan naḥ kuberaḥ pracodayāt \|\|
 
 Then one recites the stuti:  
 dhanasya kāmasya praṇāyakas tvaṃ ।  
@@ -389,20 +393,20 @@ yakṣa-pārṣadāṃs tarpayāmi ।
 yakṣa-pārṣadīṃs tarpayāmi ॥
 
 One then offers the prasannārghya with the mantra:  
-yakṣeśvarāya vidmahe gadā-hastāya dhīmahi |  
-tan no yakṣaḥ pracodayāt ||
+yakṣeśvarāya vidmahe gadā-hastāya dhīmahi \|  
+tan no yakṣaḥ pracodayāt \|\|
 
 One then makes offering of pure cooked food as bali with mantra ordained
 by the Vaikhānasa-s:  
-rāja-rājo dhanādhyakṣaḥ kubero viśravas-patiḥ |  
-prīyatāṃ nidhi-saṃyukta īśvarasya sakhā prabhuḥ ||  
+rāja-rājo dhanādhyakṣaḥ kubero viśravas-patiḥ \|  
+prīyatāṃ nidhi-saṃyukta īśvarasya sakhā prabhuḥ \|\|  
 (The king of kings, the administrator of wealth, Kubera, the lord of the
 northern land of Viśravas, possessed of wealth, the friend of Rudra, may
 the lord be pleased)
 
 Then he does upasthāna:  
 parivāreṇa saha kubero nakulahastaḥ suprīto suprasanno varado yathā
-sthānaṃ tiṣṭhatu ||  
+sthānaṃ tiṣṭhatu \|\|  
 (With his retinue may Kubera, holding a mongoose, pleased and happy,
 boon-giving remain in his own region)”
 
@@ -421,3 +425,4 @@ perform the puraścaraṇa. Someday all will come together.”
 Vrishchika: “We will not be able see each other from some time in the
 coming future as our paths diverge but in the future we shall be united
 again and shall perform the great yāga.”
+

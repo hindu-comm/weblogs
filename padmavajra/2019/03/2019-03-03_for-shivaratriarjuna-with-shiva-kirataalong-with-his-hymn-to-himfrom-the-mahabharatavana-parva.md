@@ -1,8 +1,11 @@
 +++
 title = "For shivarAtri:arjuna with shiva kirATa,along with his hymn to him(from the Mahabharata,vana parva)"
 date = "2019-03-03"
+upstream_url = "https://padmavajra.net/2019/03/03/for-shivaratriarjuna-with-shiva-kirataalong-with-his-hymn-to-himfrom-the-mahabharatavana-parva/"
 
 +++
+Source: [here](https://padmavajra.net/2019/03/03/for-shivaratriarjuna-with-shiva-kirataalong-with-his-hymn-to-himfrom-the-mahabharatavana-parva/).
+
 ![Screenshot_2019-03-03_19-21-42](https://padmavajrablog.files.wordpress.com/2019/03/screenshot_2019-03-03_19-21-42.png?w=739)
 
 

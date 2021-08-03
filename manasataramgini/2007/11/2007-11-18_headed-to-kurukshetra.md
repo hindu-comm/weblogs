@@ -1,7 +1,11 @@
 +++
 title = "Headed to kurukShetra ?"
+date = "2007-11-18"
+upstream_url = "https://manasataramgini.wordpress.com/2007/11/18/headed-to-kurukshetra/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/11/18/headed-to-kurukshetra/).
+
 We made arrangements for our rendezvous with ST and ekanetra. Both
 passed to us the information regarding the laukIka bhrAtR^ivya-s ranged
 against us. Knowing that deploying the frontier troops were critical for
@@ -29,14 +33,14 @@ from them, but evaded their ambushes and reached the senA. In the mean
 time our spaSha-s reported tremendous activity on their side : 1) They
 discovered the breach in the kosha front and decided to mass their
 forces their.  
-2\) They decided to deploy a mantra prayoga on the muni, while seeking
-to destroy their rest of us by pumping troops through breach.  
-3\) They tried to send troops to separate us from the senA during a
+2) They decided to deploy a mantra prayoga on the muni, while seeking to
+destroy their rest of us by pumping troops through breach.  
+3) They tried to send troops to separate us from the senA during a
 future conflict when the bhrAtR^ivya-s might attack.  
-4\) They might try to rob the other kosha and tie us down with an
+4) They might try to rob the other kosha and tie us down with an
 attacking kR^ityA.  
-Mn’s amAtya also obtained similar intelligence regarding \#1 and
-communicated it to us. Jx obtained intelligence likewise regarding \#4
+Mn’s amAtya also obtained similar intelligence regarding #1 and
+communicated it to us. Jx obtained intelligence likewise regarding #4
 but felt they were a held back by our mantra prayoga.  
 The khANDavan-s sent another prayoga at us today but only caused us
 minor harm due to the subrahmaNya yAga. However, this promised to be a
@@ -45,7 +49,7 @@ when we fatefully entered the khANDavan conflict — but those who live
 like kShatriya-s should be ready for a terrible death on the battle
 field.  
 [Think back
-\!](http://manasataramgini.wordpress.com/2004/11/further-proceedings-on-battle-front.html)
+!](http://manollasa.blogspot.com/2004/11/further-proceedings-on-battle-front.html)
 
 Jx was himself shaken by his attacker, but the third hero saved him. We
 now realized how he was in a different league. Just an year back the
@@ -56,3 +60,4 @@ smithereens like has never happened before.
 
 Our amAtya deployed karNa-pishAchi and got precise intelligence about
 the khANDavan strike and deployed the shiva mantra
+

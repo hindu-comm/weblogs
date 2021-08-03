@@ -1,7 +1,11 @@
 +++
 title = "Did Wallace completely understand evolution?"
+date = "2010-06-18"
+upstream_url = "https://manasataramgini.wordpress.com/2010/06/18/did-wallace-completely-understand-evolution/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/06/18/did-wallace-completely-understand-evolution/).
+
 At the outset I must present the disclaimer that I am no scholar of the
 histories of Wallace or Darwin. What I state here is merely my
 impression gleaned from readings of their own works and a subset of the
@@ -18,8 +22,8 @@ meters in height. They wondered at first if Wallace had a Freudian
 obsession which was no less than that of a Minar-erecting Mohammedan
 despot. However, on closer examination it turned out to be the trunk of
 a long extinct Mesozoic gymnosperm, *Protocupressinoxylon purbeckensis*
-– more a monument to Wallace’s life work on the evolutionary theory
-than the former.
+– more a monument to Wallace’s life work on the evolutionary theory than
+the former.
 
 Text books typically mention Wallace in passing along with Darwin in
 presenting the basic hypothesis of evolution through natural selection.
@@ -51,13 +55,13 @@ the development of the organic world when some new cause or power must
 necessarily have come into action.”  
 According him the three points in evolution where a new cause or power
 other than natural selection interceded were:  
-1\) The origin of life from chemical compounds;  
-2\) The origin of consciousness. He believes that consciousness is
+1) The origin of life from chemical compounds;  
+2) The origin of consciousness. He believes that consciousness is
 faculty of animals – in his words a distinguishing feature between the
-“animal and vegetable kingdoms”. He also feels that compared to the
-1st event this is “still more marvellous, still more completely beyond
-all possibility of explanation by matter, its laws and forces.”  
-3\) Finally, he places the origin of human faculties as beyond the
+“animal and vegetable kingdoms”. He also feels that compared to the 1st
+event this is “still more marvellous, still more completely beyond all
+possibility of explanation by matter, its laws and forces.”  
+3) Finally, he places the origin of human faculties as beyond the
 explanative power of the standard evolutionary theory of Darwin and his.
 Indeed he comments thus:  
 “The third stage is, as we have seen, the existence in man of a number
@@ -109,7 +113,7 @@ that both were manifestations of the same underlying mental constructs
 or “cognitive minima” in his mind. At least three distinct but not
 mutually exclusive biases can be seen to operate on people when it comes
 to scientific understanding, particularly in comprehending evolution:  
-1\) Firstly, the pretamata had a deep influence on western thinkers –
+1) Firstly, the pretamata had a deep influence on western thinkers –
 sometimes overt and sometimes covert. We can cite the case of Teilhard
 de Chardin as an example of overt influence – even though he studied
 biology and geology at great length (and was condemned by the
@@ -326,3 +330,4 @@ would have developed if vasiShTha and yAj\~navalkya had a long-line of
 discerning naturalist successors who built on the foundations of their
 [saMkhya evolutionary
 theory](https://manasataramgini.wordpress.com/2007/05/02/empedocles-and-vasishtha-agrigentum-and-mithila/).
+

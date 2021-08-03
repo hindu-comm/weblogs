@@ -1,7 +1,11 @@
 +++
 title = "skanda vara"
+date = "2005-03-18"
+upstream_url = "https://manasataramgini.wordpress.com/2005/03/18/skanda-vara/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/03/18/skanda-vara/).
+
 The boons offered by the deity kumAra are of great certainty, but they
 be extremely perplexing and their good result may only be seen after
 some ironic hardship undergone by the recepient. Hence is he known as
@@ -22,3 +26,4 @@ had survived the fall of the blade that could have lopped our head off
 we realized that we had been favored by the peacock-rider. When we moved
 towards victory in that great strife of himaprArambha we though we had
 been favored. But what does this khANDava have for us we wonder?
+

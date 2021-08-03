@@ -1,8 +1,11 @@
 +++
-title = "OF BHAIRAVA AND BALANCE – Vedic, Eddic, and Homeric perspectives on Lore and Order [Part 3A]: Ajax the Lesser and Athena’s Right Arm Ofxa0Vengeance"
-date = "December 5, 2019"
+title = "OF BHAIRAVA AND BALANCE – Vedic, Eddic, and Homeric perspectives on Lore and Order [Part 3A]: Ajax the Lesser and Athena’s Right Arm Of Vengeance"
+date = "2019-12-05"
+upstream_url = "https://aryaakasha.com/2019/12/05/of-bhairava-and-balance-vedic-eddic-and-homeric-perspectives-on-lore-and-order-part-3a-ajax-the-lesser-and-athenas-right-arm-of-vengeance/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/12/05/of-bhairava-and-balance-vedic-eddic-and-homeric-perspectives-on-lore-and-order-part-3a-ajax-the-lesser-and-athenas-right-arm-of-vengeance/).
+
 ![](https://aryaakasha.files.wordpress.com/2019/12/aias_und_kassandra_tischbein.jpg?w=763)
 
 Consider the figure of Ajax the Lesser. Specifically in the context of

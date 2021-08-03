@@ -1,7 +1,11 @@
 +++
 title = "Some notes on Rashid ad-Din bin Imad ud Dawla Abu’l Khair and his times"
+date = "2011-05-20"
+upstream_url = "https://manasataramgini.wordpress.com/2011/05/20/some-notes-on-rashid-ad-din-bin-imad-ud-dawla-abul-khair-and-his-times/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/05/20/some-notes-on-rashid-ad-din-bin-imad-ud-dawla-abul-khair-and-his-times/).
+
 There are many ironies that are iconic of the Mohammedan world. One such
 is a monument in the modern Islamic state that occupies Iran with a
 gigantic statue depicting a Jewish intellectual from the 1200-1300s:
@@ -157,7 +161,7 @@ Jews in Tabriz.
 
 From our view point the there are two chief issues pertaining to the
 above history:  
-1\) The unique intellectual activity of the late Il-Khanid court. Ghazan
+1) The unique intellectual activity of the late Il-Khanid court. Ghazan
 directed the extraordinary linguistic and intellectual abilities of
 Rashid to compose a history of the Mongols. Chingiz Kha’Khan had
 entrusted the composition of the Mongol history to his adopted son
@@ -306,11 +310,11 @@ chose to establish a secular state. The main reason for this was the
 fear in the Hindu mind of what might happen if the Mohammedans were told
 that they had a live in a Hindu state. The chAchA and his men thought
 that by going secular they could appease the Mohammedans and also seem
-“modern” in the Western (Isaistic) eyes. However, the lesson offered
-by the conversion of the Il-Khanate into an Islamic state that was
-bloody within is a grim one. It suggests that history might repeat
-itself and the secular state of India could be eventually splintered by
-the Mohammedans in the regions where they gain a demographic upper hand.
+“modern” in the Western (Isaistic) eyes. However, the lesson offered by
+the conversion of the Il-Khanate into an Islamic state that was bloody
+within is a grim one. It suggests that history might repeat itself and
+the secular state of India could be eventually splintered by the
+Mohammedans in the regions where they gain a demographic upper hand.
 More generally, a secular state can never be stable with a significant
 Mohammedan population within its boundaries. That is why even a real
 secular state in place of the current pseudo-secular cannot save India –
@@ -335,3 +339,4 @@ Japanese imitators have towards al Biruni is not small part because of
 the similarity the two share with respect to Hindu knowledge: The wish
 to appropriate Hindu knowledge even while rubbishing it and the Hindus
 is a common trait they share.
+

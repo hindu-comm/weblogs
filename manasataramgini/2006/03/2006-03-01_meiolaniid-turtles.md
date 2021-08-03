@@ -1,7 +1,11 @@
 +++
 title = "Meiolaniid turtles"
+date = "2006-03-01"
+upstream_url = "https://manasataramgini.wordpress.com/2006/03/01/meiolaniid-turtles/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/03/01/meiolaniid-turtles/).
+
 [![](https://i1.wp.com/photos1.blogger.com/blogger/2010/410/320/meio_skeleton.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/meio_skeleton.jpg)Meiolaniids
 are amongst the most fascinating turtles. The first remains of them were
 found by an Australian collector Bennett who correctly identified them
@@ -49,3 +53,4 @@ Myrs. Gaffney’s work shows that they lie in the more basal radiations of
 Cryptodira and form a clade with the Sinemyids and the crown group
 Cryptodirans termed centrocryptodira. The big question is about their
 Mesozoic past- would we ever know anything of it?
+

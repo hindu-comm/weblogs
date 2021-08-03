@@ -1,7 +1,11 @@
 +++
 title = "bANa and mayUra"
+date = "2011-09-14"
+upstream_url = "https://manasataramgini.wordpress.com/2011/09/14/bana-and-mayura/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/09/14/bana-and-mayura/).
+
 bANa and mayUra are reputed to have had a major rivalry in the court of
 the great emperor harShavardhana of sthAnIshvara. We had earlier noted
 one of mayUra’s greatest poetic master pieces the
@@ -18,9 +22,9 @@ that of bAna, suggesting that they possibly tried to out-do each other
 by producing similar verses. Both verses have the same striking blend of
 the amorous, terrifying and the tragic tropes:  
 saMvyAnaaMshuka-pallaveShu taralaM veNI-guNeShu sthiraM mandaM
-ka\~nchuka-sandhiShu stana-taTotsa\~NgeShu dIptArchiSham |  
+ka\~nchuka-sandhiShu stana-taTotsa\~NgeShu dIptArchiSham \|  
 Alokya tripurAvarodhana-vadhUvargasya dhUma-dhvajaM
-hasta-srasta-sharAsano vijayate devo dayArdrekShaNaH ||
+hasta-srasta-sharAsano vijayate devo dayArdrekShaNaH \|\|
 
 saMvyAna= upper garment; aMshuka=blouse; pallava=fringe of the dress;
 taralam=tremulously; veNI-guNa=strands of tresses; sthiraM=firmly;
@@ -41,9 +45,9 @@ flame.
 
 Here is bANa’s repeated for comparison:  
 kShipto hastAvalagnaH prasabham abhihato .apy AdadAno .aMshukAntaM
-gR^ihNan kesheShv apAstash charaNa-nipatito nekShitaH saMbhrameNa |  
+gR^ihNan kesheShv apAstash charaNa-nipatito nekShitaH saMbhrameNa \|  
 Ali\~Ngan yo .avadhUtas tripura-yuvatibhiH sAshru-netrotpalAbhiH
-kAmIvArdrAparAdhaH sa dahatu duritaM shAmbhavo vaH sharAgniH ||
+kAmIvArdrAparAdhaH sa dahatu duritaM shAmbhavo vaH sharAgniH \|\|
 
 kShipto=cast off; hastA= hands; avalagnaH= adhering to;
 prasabham=forcibly; abhihato= pushed away; .apy= moreover ; AdadAno=
@@ -70,9 +74,9 @@ Another effort on the identical theme is that of the obscure poet
 ma\~Ngala who is cited by many poets at least after the 900s of the
 CE:  
 sindUra shrIr lalATe kanaka-rasa-mayaH karNa-pArshve .avataMso vaktre
-tAmbUla-rAgaH pR^ithu-kucha-kalashe ku\~NkumasyaanulepaH |  
+tAmbUla-rAgaH pR^ithu-kucha-kalashe ku\~NkumasyaanulepaH \|  
 daityAdhIshaa\~NganAnAM jaghana-parisare lAkShika-kShauma-lakShmIr
-ashreyAMsi kShiNoti tripura-hara-sharodgAra-janmAnalo vaH ||
+ashreyAMsi kShiNoti tripura-hara-sharodgAra-janmAnalo vaH \|\|
 
 sindUra= vermilion; shrIr= auspicious mark; lalATe=on fore head;
 kanaka-rasa-mayaH=gold and mercury burnished; karNa-pArshve .avataMso=
@@ -100,9 +104,10 @@ medieval period of Hindu India: 1) Three terms of female attire:
 ka\~nchuka, aMshuka and saMvyAna suggest that multiply layered upper
 garments were worn by women since at least the 600s of the CE contrary
 to the claims made based on the iconography.  
-2\) ma\~Ngala’s verse provides evidence for lAkShika, i.e. the carmine
+2) ma\~Ngala’s verse provides evidence for lAkShika, i.e. the carmine
 dye extracted from the scale insect *Laccifer lacca* being used to dye
 silk. Of course other uses of the lAkSha (AV-vulgate 5.5), as a plaster
 for bone fractures, or in making flammable structures (the kaurava plot
 in the bhArata), or to extract medicinal compounds are widely seen in
 old Sanskrit literature.
+

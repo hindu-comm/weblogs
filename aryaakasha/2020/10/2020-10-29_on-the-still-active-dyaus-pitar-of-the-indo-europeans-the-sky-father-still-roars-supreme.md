@@ -1,8 +1,11 @@
 +++
-title = "On The Still Active Dyaus Pitar Of The Indo-Europeans – The Sky Father Still Roarsxa0Supreme"
-date = "October 29, 2020"
+title = "On The Still Active Dyaus Pitar Of The Indo-Europeans – The Sky Father Still Roars Supreme"
+date = "2020-10-29"
+upstream_url = "https://aryaakasha.com/2020/10/29/on-the-still-active-dyaus-pitar-of-the-indo-europeans-the-sky-father-still-roars-supreme/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/10/29/on-the-still-active-dyaus-pitar-of-the-indo-europeans-the-sky-father-still-roars-supreme/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/10/5f332716df47405df6e36c0b65b99eda.jpg?w=724)
 
 There is much misinformation and misapprehension about Dyaus Pitar (also

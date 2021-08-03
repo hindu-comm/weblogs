@@ -1,23 +1,27 @@
 +++
 title = "Babylon and India: Mesopotamian hymns"
+date = "2007-02-19"
+upstream_url = "https://manasataramgini.wordpress.com/2007/02/19/babylon-and-india-mesopotamian-hymns/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/02/19/babylon-and-india-mesopotamian-hymns/).
+
 The great Lokamanya Tilak believed that he saw similarities between the
 Mesopotamian ritual texts and the vedas, and called the former the
-“Chaldean Vedas”. He thought that the atharva veda bore words
-suggesting an influence of these Mesopotamian texts. He proposed that
-since the vedic and Mesopotamian civilization were coeval, they must
-have interacted. While his premise of Mesopotamian loan words in the AV
-is questionable, this idea of a contact between the Middle East and
-vedic India has had persistent following. We discussed recently some
-general similarities between the [vedic and Mesopotamian sacrificial
-ritual](http://manasataramgini.wordpress.com/2007/01/on-vedic-sacrificial-ritual-and-its.html)
+“Chaldean Vedas”. He thought that the atharva veda bore words suggesting
+an influence of these Mesopotamian texts. He proposed that since the
+vedic and Mesopotamian civilization were coeval, they must have
+interacted. While his premise of Mesopotamian loan words in the AV is
+questionable, this idea of a contact between the Middle East and vedic
+India has had persistent following. We discussed recently some general
+similarities between the [vedic and Mesopotamian sacrificial
+ritual](http://manollasa.blogspot.com/2007/01/on-vedic-sacrificial-ritual-and-its.html)
 to extend certain observations initially suggested by Dumont and
 Albright (who ironically like most Indologists were virulent critics of
 Tilak). The art historian McEvilley who wrote the provocative book on
 Indo-Greek/Western Eurasian parallels also believed that the India of
 the [Indus Valley times was interacting with
-Mesopotamia](http://manasataramgini.wordpress.com/2004/11/indus-iconography-and-its-parallels.html).
+Mesopotamia](http://manollasa.blogspot.com/2004/11/indus-iconography-and-its-parallels.html).
 Neugebauer, a Babylonologist claimed to notice similarities between
 Mesopotamian omens and India astrology and his successors claimed that
 Hindu astronomy and mathematics had all been borrowed from the Middle
@@ -66,7 +70,7 @@ Look with favor upon my precious handiwork,
 Mercy towards me be thy command;  
 Through thy righteous order, may I have abundance of strength.  
 Long life, and a firm throne, grant to me.  
-May my rule be everlasting\!  
+May my rule be everlasting!  
 With a righteous scepter of blissful kingship,  
 with a legitimate rod, bringing salvation to men, adorn my sovereignty
 forever.  
@@ -86,17 +90,17 @@ The law of all beings do you direct,
 Eternally just in the heavens are you,  
 Of correct judgment towards all the world are you.  
 You know what is right, you know what is wrong.  
-O Shamash\! Righteousness had lifted up its neck;  
-O Shamash\! Wrong like a has been cut;  
-O Shamash\! The support of gods Anu and Bal are you;  
-O Shamash\! the supreme judge of heaven and earth are you.
+O Shamash! Righteousness had lifted up its neck;  
+O Shamash! Wrong like a has been cut;  
+O Shamash! The support of gods Anu and Bal are you;  
+O Shamash! the supreme judge of heaven and earth are you.
 
 Tablet, giving the hymn recited in the sunrise ritual:  
-O Shamash\! out of the horizon of heaven you issue forth,  
+O Shamash! out of the horizon of heaven you issue forth,  
 The lock of the bright heavens you open,  
 The door of heaven you do open.  
-O Shamash \! over the world do you raise your head.  
-O Shamash \! with the glory of heaven you cover the world\!
+O Shamash ! over the world do you raise your head.  
+O Shamash ! with the glory of heaven you cover the world!
 
 Two tablets give ritual incantations used in “counter-abhichara-type”
 rites. The first deploys an incantation to the fire-god Nusku to quell
@@ -122,3 +126,4 @@ as in a sling I will twist,
 as a cloth I will tear,  
 with dirty water from a wall I will fill,  
 as a wall throw them down.
+

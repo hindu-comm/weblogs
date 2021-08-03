@@ -1,16 +1,18 @@
 +++
 title = "The bhR^igu-s, the country and the national epic"
+date = "2006-10-12"
+upstream_url = "https://manasataramgini.wordpress.com/2006/10/12/the-bhrigu-s-the-country-and-the-national-epic/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/10/12/the-bhrigu-s-the-country-and-the-national-epic/).
+
 The imprint of the bhR^igu-s is not just all over the literature of
 bhAratavarSha but also dotting the very expanses of the land of the
 bhArata-s. While being a bhR^igu, I may be biased to see this imprint
 more than others, the fact has been observed by many others. The
 following is a purely parochial view of history seen through the lens of
 my ancestry, yet I believe there are elements of real significance for
-the history of the Hindu nation. 
-
-Shrines of the bhArgava hero, the son
+the history of the Hindu nation. Shrines of the bhArgava hero, the son
 of jamadagni are seen throughout the country. The most hallowed and the
 oldest to which we trace our antecedents \[real or mythical\] is the
 shrine in Kangra with the inscription mentioning the members of the
@@ -149,3 +151,4 @@ It was the spread of the national epic that embedded the bhArgava-s in
 national memory — in a sense a reward for their work on the creation of
 national identity. This is the very parochial dimension of why the Hindu
 national identity matters to me.
+

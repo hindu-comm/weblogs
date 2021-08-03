@@ -1,7 +1,11 @@
 +++
 title = "With the other pakSha"
+date = "2007-06-18"
+upstream_url = "https://manasataramgini.wordpress.com/2007/06/18/with-the-other-paksha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/06/18/with-the-other-paksha/).
+
 The third hero advanced with a large force to defend his turf. His men
 watched with mixed feelings– some where excited, others were confused,
 yet others were sad because their own people were dying. We were roaming
@@ -51,3 +55,4 @@ varuNa inquiring about the 4th foot that lies in the parorajasaH. We
 looked to the unblinking asura who gazes with his numerous eyes to be
 released from the pAsha-s. The mantra “yA vAM indrAvaruNa … came to
 mind”
+

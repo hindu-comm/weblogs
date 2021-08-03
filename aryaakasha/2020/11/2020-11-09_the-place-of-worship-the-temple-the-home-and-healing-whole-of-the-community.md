@@ -1,8 +1,11 @@
 +++
-title = "The Place Of Worship – The Temple – The Home And Healing Whole Of Thexa0Community"
-date = "November 9, 2020"
+title = "The Place Of Worship – The Temple – The Home And Healing Whole Of The Community"
+date = "2020-11-09"
+upstream_url = "https://aryaakasha.com/2020/11/09/the-place-of-worship-the-temple-the-home-and-healing-whole-of-the-community/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/11/09/the-place-of-worship-the-temple-the-home-and-healing-whole-of-the-community/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/11/1200px-facade_of_temple_of_aesculapius_at_epidaurus_wellcome_l0016949.jpg?w=1024)
 
 Something I love about the Indo-European etymology – is that manner in

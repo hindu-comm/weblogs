@@ -1,15 +1,19 @@
 +++
 title = "Sanskrit poetry in Hindu inscriptions"
+date = "2004-05-23"
+upstream_url = "https://manasataramgini.wordpress.com/2004/05/23/sanskrit-poetry-in-hindu-inscriptions/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/05/23/sanskrit-poetry-in-hindu-inscriptions/).
+
 Dr. BC Chabra provides several examples of exemplary Sanskrit poetry in
 Hindu inscriptions. I shall provide a few of these as illustrations:
 
-shrI chandraguptasya mahendra kalpaH kumAraguptastanayaH samagrAm |  
-rarakSha sAdhvIm iva dharmapatnIM vIryAgrahastair upaguhya bhUmim ||
+shrI chandraguptasya mahendra kalpaH kumAraguptastanayaH samagrAM \|  
+rarakSha sAdhvIm iva dharmapatnIM vIryAgrahastair upaguhya bhUmiM \|\|
 
-श्री चन्द्रगुप्तस्य महेन्द्र कल्पः कुमारगुप्तस्तनयः समग्राम् |   
-ररक्ष साध्वीम् इव धर्मपत्नीं वीर्याग्रहस्तैर् उपगुह्य भूमिं ||
+श्री चन्द्रगुप्तस्य महेन्द्र कल्पः कुमारगुप्तस्तनयः समग्राम् \|   
+ररक्ष साध्वीम् इव धर्मपत्नीं वीर्याग्रहस्तैर् उपगुह्य भूमिं \|\|
 
 The verse is in the triShTubh meter with 44 syllables 4\*11.
 
@@ -20,9 +24,9 @@ valiant hands.”
 upaguhya – embracing (could also mean hiding/covering/spanning)
 
 kurvantu kIrtana shatAni raNA\~NgaNeShu mathnantu vairinikaraM dhanam
-utsR^ijantu |  
+utsR^ijantu \|  
 kAlAntare tad akhilaM prabalAndhakAra nR^ityopamaM kavijanair
-anibadhyamAnam ||
+anibadhyamAnam \|\|
 
 कुर्वन्तु कीर्तन शतानि रणाङ्गणेषु मथ्नन्तु वैरिनिकरं धनम् उत्सृजन्तु ।  
 कालान्तरे तद् अखिलं प्रबलान्धकार नृत्योपमं कविजनैर् अनिबध्यमानम् ॥
@@ -55,3 +59,4 @@ dhanam utsR^ijantu: This phrase may have a double-meaning on purpose- 1)
 meaning those who become famous by donating wealth or 2) those who
 become famous by renouncing their wealth. utsR^ijati may be interpreted
 as renouncing wealth.
+

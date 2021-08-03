@@ -1,7 +1,11 @@
 +++
 title = "Leaves from the scrapbook-3"
+date = "2019-02-23"
+upstream_url = "https://manasataramgini.wordpress.com/2019/02/23/leaves-from-the-scrapbook-3/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2019/02/23/leaves-from-the-scrapbook-3/).
+
 As described here these entries are from the [scrapbook of
 Somakhya](https://manasataramgini.wordpress.com/2016/09/18/leaves-from-the-scrapbook/).  
 **Entry 3; Nimlukti, year Anala of the first cycle:** I was still at
@@ -26,8 +30,8 @@ the same university as where Indrasena’s brother was an intern. He told
 me that I should perform the role of a minder to her on the train
 journey to the city. I had to agree for it was an elder’s command but
 was reluctant about it for it meant I had to be responsible for a
-woman’s safety especially in cities where evil marūnmatta-s and
-dasyu-s were known to be on the prowl looking for women.
+woman’s safety especially in cities where evil marūnmatta-s and dasyu-s
+were known to be on the prowl looking for women.
 
 **Entry 4; Āgantu, year Anala of the first cycle**: I was at station to
 board the train to Kshayadrajanagara. My extended clansman’s wife got
@@ -57,10 +61,10 @@ there to see if I could collect some of that rock.
 
 The reddish dusk soon gave way to the inky darkness of night and I could
 catch sight of the great star
-![\\alpha](https://s0.wp.com/latex.php?latex=%5Calpha&bg=ffffff&fg=333333&s=0
-"\\alpha") Cygni giving me a good indication of the precise direction in
-which we were traveling. In clear air away from the cities I could catch
-sight of the Milky Way sprawling in the midst of the summer triangle. My
+![\\alpha](https://s0.wp.com/latex.php?latex=%5Calpha&bg=ffffff&fg=333333&s=0&c=20201002)
+Cygni giving me a good indication of the precise direction in which we
+were traveling. In clear air away from the cities I could catch sight of
+the Milky Way sprawling in the midst of the summer triangle. My
 fellow-traveler Shallaki then opened a large packet my extended
 clanswoman had provided her and asked if I might want to have dinner. I
 acquiesced and she quietly gave me a share while telling me that I could
@@ -203,10 +207,10 @@ to her puṃścalī-vṛtti she had bought herself two calculators an ordinary
 one and a scientific one and took them with her in the hope that the
 state might allow calculators on the morning of the physics exam.
 Indeed, they permitted the use of calculators that day. There was a
-brāhmaṇa boy in her exam hall who had only brought log tables. He was
-on only one in the class who had no calculator and at a clear
-disadvantage of finishing in time. He asked the supervisor if he could
-share the calculator of his neighbor. The puṃścalī stood up and told the
+brāhmaṇa boy in her exam hall who had only brought log tables. He was on
+only one in the class who had no calculator and at a clear disadvantage
+of finishing in time. He asked the supervisor if he could share the
+calculator of his neighbor. The puṃścalī stood up and told the
 supervisor that she could lend the brāhmaṇa her spare ordinary
 calculator. The supervisor acquiesced. With that and the log tables he
 was able to smash the exam and finished it well ahead of time. However,

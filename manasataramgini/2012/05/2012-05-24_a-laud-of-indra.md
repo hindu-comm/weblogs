@@ -1,7 +1,11 @@
 +++
 title = "A laud of indra"
+date = "2012-05-24"
+upstream_url = "https://manasataramgini.wordpress.com/2012/05/24/a-laud-of-indra/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/05/24/a-laud-of-indra/).
+
 For the Arya of yore there was nothing more inspiring than indra in his
 dasyu-smashing manifestation. Indeed, only one who is touched deeply,
 inspired to heavenly heights and invigorated in ardor upon hearing these
@@ -13,33 +17,33 @@ on the might of Zeus. But the R^igveda is unrivaled in its pure
 exhibition of the lauds of the great indra.
 
 tvam mAyAbhir apa mAyino .adhamaH svadhAbhir ye adhi shuptAv ajuhvata
-|  
+\|  
 tvam pipror nR^imaNaH prArujaH puraH pra R^ijishvAnaM dasyu-hatyeShv
-Avitha || (RV 1.51.5 )
+Avitha \|\| (RV 1.51.5 )
 
 You with your mAyA powers blew away those with mAyA, with self-manifest
 powers those who made offerings into their own mouth. You, full of
 manliness, have demolished pipru’s forts, and impelled R^ijishvAn in
 dasyu-killing \[battle\].
 
-tvaM kutsaM shuShNahatyeShv AvithArandhayo .atithigvAya shambaram |  
+tvaM kutsaM shuShNahatyeShv AvithArandhayo .atithigvAya shambaram \|  
 mahAntaM chid arbudaM ni kramIH padA sanAd eva dasyuhatyAya jaj\~niShe
-|| (RV1.51.6)
+\|\| (RV1.51.6)
 
 You boosted kutsa during the killing of shushNa, and annihilated
 shambhara for atithigva; you trampled the mighty arbuda under foot, and
 verily arose in the ancient past for the killing of dasyu-s
 
-tve vishvA taviShI sadhryag ghitA tava rAdhaH somapIthAya harShate |  
+tve vishvA taviShI sadhryag ghitA tava rAdhaH somapIthAya harShate \|  
 tava vajrash chikite bAhvor hito vR^ishchA shatror ava vishvAni
-vR^iShNyA || (RV 1.51.7)
+vR^iShNyA \|\| (RV 1.51.7)
 
 In you all powers are closely gathered up; your generosity is pleased by
 drinking soma; The vajra that is held in your arms is known : shear off
-all manliness of our enemy \!
+all manliness of our enemy !
 
-vi jAnIhy AryAn ye cha dasyavo barhiShmate randhayA shAsad avratAn |  
-shAkI bhava yajamAnasya choditA vishvet tA te sadhamAdeShu chAkana ||
+vi jAnIhy AryAn ye cha dasyavo barhiShmate randhayA shAsad avratAn \|  
+shAkI bhava yajamAnasya choditA vishvet tA te sadhamAdeShu chAkana \|\|
 (RV 1.51.08)
 
 You discriminate the Arya-s and the dasyu-s, punishing non-performers of
@@ -48,9 +52,9 @@ barhiSh for the somayAga); be the ritualist’s powerful impeller; all
 these acts of yours bring happiness during the soma ritual.
 
 anuvratAya randhayann apavratAn AbhUbhir indraH shnathayann anAbhuvaH
-|  
+\|  
 vR^iddhasya chid vardhato dyAm inakShata stavAno vamro vi jaghAna
-saMdihaH || (RV 1.51.9)
+saMdihaH \|\| (RV 1.51.9)
 
 indra subjugates the non-ritualist to the ritualist, enabling the
 offerers \[of sacraments\] to strike down those do not do so. When vamra
@@ -62,8 +66,8 @@ against the dasyu-s by performing a soma sacrifice.
 
 He concludes this praise with a mantra seeking the protection of indra
 thus:  
-idaM namo vR^iShabhAya svarAje satyashuShmAya tavase .avAchi |  
-asminn indra vR^ijane sarva-vIrAH smat sUribhis tava sharman syAma ||
+idaM namo vR^iShabhAya svarAje satyashuShmAya tavase .avAchi \|  
+asminn indra vR^ijane sarva-vIrAH smat sUribhis tava sharman syAma \|\|
 (RV 1.51.15)
 
 Obeisance to him the self-ruling bull, this mantra is uttered to the
@@ -130,3 +134,4 @@ in sites like Arkaim. Not surprisingly there are several references to
 fort warfare in the R^igveda. Certain terms like puraMdhara and
 poliorcetes point to parallels between saMskR^ita and Greek in this
 regard.
+

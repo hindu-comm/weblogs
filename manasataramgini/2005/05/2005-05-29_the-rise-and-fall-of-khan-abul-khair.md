@@ -1,7 +1,11 @@
 +++
 title = "The rise and fall of Khan Abu’l Khair"
+date = "2005-05-29"
+upstream_url = "https://manasataramgini.wordpress.com/2005/05/29/the-rise-and-fall-of-khan-abul-khair/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/05/29/the-rise-and-fall-of-khan-abul-khair/).
+
 An instructive lesson is offered by the eventful life of the Khan Abu’l
 Khair. The first son of Chingiz Kha’Khan was Jochi who founded the great
 Western hordes of the Mongols. His principal son was Batu who led the
@@ -97,3 +101,4 @@ grass.
 
 One day you are the great Khan at the height of your power, and the next
 day you are gone without a trace.
+

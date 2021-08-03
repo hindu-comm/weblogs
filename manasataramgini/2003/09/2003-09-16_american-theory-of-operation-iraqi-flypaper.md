@@ -1,7 +1,11 @@
 +++
 title = "American theory of operation Iraqi flypaper"
+date = "2003-09-16"
+upstream_url = "https://manasataramgini.wordpress.com/2003/09/16/american-theory-of-operation-iraqi-flypaper/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/09/16/american-theory-of-operation-iraqi-flypaper/).
+
 Many Americans are very satisfied with the conquest of Iraq, or at least
 they made to feel so by the government. They explain that the conquest
 of a vast stretch of land like Eye-rack has cost them very little in
@@ -32,7 +36,7 @@ CEO Musharaff, whom they readily provide with goodies from time to time.
 
 The one short-coming the otherwise brilliant Americans have is their
 profound ignorance of history. Students of history (not the Habib-Thapar
-kind) learn a rule pretty early in their studies- Rule \# 5: Do not let
+kind) learn a rule pretty early in their studies- Rule # 5: Do not let
 the ghazis wage irregular warfare with you. Many countries have learnt
 this the hard way: 1) France in Algeria (a fiery Ghazi Abdal Qadir led
 the Jihad against them) 2) Russia in Chechnya (the Jihad of Imam
@@ -51,3 +55,4 @@ have come around to this view. In the mean time what is going on
 Af’stan, we do not hear much these days? But the Americans need not
 worry, in the least least the Ghazis will be busy in Eye-Rack to come
 and bother Terra Americana proper.
+

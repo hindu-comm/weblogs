@@ -1,7 +1,11 @@
 +++
 title = "The story of the Orissan cycle-vālā"
+date = "2017-10-15"
+upstream_url = "https://manasataramgini.wordpress.com/2017/10/15/the-story-of-the-orissan-cycle-vala/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2017/10/15/the-story-of-the-orissan-cycle-vala/).
+
 Vidrum had been under considerable pressure. His parents had made it
 clear that they would auction away his new bike if he was not ranked
 within the top 5 in his class in the impending mid-semester exams. They
@@ -51,14 +55,13 @@ with his new bike. He told them how unbeknownst to him his spokes had
 been smashed when he was studying with Meghana. He then added: “You all
 are not studying?” Lootika: “I am 3/4ths done. So I decided to take
 break of an hour for the evening because it is traditional among
-brāhmaṇa-s not to study during this hour. Instead, since Nikhila
-needed some help, I was bringing her up to speed. By the way you don’t
-have to go all the way near school. If you go past my house and turn
-left in the little lane there there is a new cycle-repair chap from
-Odisha. He recently fixed my bike very efficiently and economically.”
-Vidrum: “Thanks Lootika\! that’s wonderful. Let me hurry there and
-return home to continue with the studies. I still have to catch up with
-phenols.”
+brāhmaṇa-s not to study during this hour. Instead, since Nikhila needed
+some help, I was bringing her up to speed. By the way you don’t have to
+go all the way near school. If you go past my house and turn left in the
+little lane there there is a new cycle-repair chap from Odisha. He
+recently fixed my bike very efficiently and economically.” Vidrum:
+“Thanks Lootika! that’s wonderful. Let me hurry there and return home to
+continue with the studies. I still have to catch up with phenols.”
 
 Thus, Vidrum headed to the repair stall and got his bike fixed. The
 price the repair-man quoted for his work was indeed a good one as
@@ -87,7 +90,7 @@ said: “you know we had worked it out before and it came in the exam.”
 The rest of their classmates who had gathered there said: “Hey thus far
 we only knew of Hemling and also Lootika and Somakhya to have cracked it
 – but those two are sort of crazy – you can never guess what obscure
-thing they might know\! How come you figured it out?” Vidrum happy to be
+thing they might know! How come you figured it out?” Vidrum happy to be
 at the cynosure of his classmates was about to spin a yarn of how he had
 cracked the problem when he saw a car drive by them. He noticed that it
 was Lootika’s mother who was driving her four daughters home from
@@ -119,9 +122,9 @@ perspective.” He wandered in solitude among the basaltic rises from the
 great eruptions marking the close of the Dinosaur Age collecting
 chabazite, mica and quartz geodes. He had lost all sense of time in his
 pursuits and as he climbed towards the plateau above the temple of
-Caṇḍikā, he spotted a circle of basalt pillows that appear to have
-been laid deliberately by the human hand. To investigate it further he
-got close to them and started looking around. After some examination he
+Caṇḍikā, he spotted a circle of basalt pillows that appear to have been
+laid deliberately by the human hand. To investigate it further he got
+close to them and started looking around. After some examination he
 realized that the stone circle was a likely remnant of the ancient
 megalithic peoples streaming into the peninsular of the subcontinent.
 While scanning the rocky debris in side the circle he found a metal
@@ -164,7 +167,7 @@ this is often coupled with pratibrāhmaṇatvam and we could be a target.
 L: “So it is. A member of one of the protest-organizing committees even
 asked me to join saying that the brāhmaṇa-s proscribed females from
 using the artificial Sanskrit language. So it was natural for women to
-stand by those fighting for all education in the state language\! In any
+stand by those fighting for all education in the state language! In any
 case thank you but no worries; my father said he’ll pick me up in the
 evening.”
 
@@ -182,7 +185,7 @@ quantity in our local basalts during the end of the Mesozoic.”
 
 As they they set up some acid treatments for qualitative analysis
 Lootika remarked: “Deep within the two of us are svābhāvika biochemists
-and these minerals have a bit of an alien touch\! Studying their
+and these minerals have a bit of an alien touch! Studying their
 chemistry makes me even more skeptical of Silicon-based life outside of
 computers elsewhere in the universe.”  
 S: “In most part I tend to agree with one possible exception that
@@ -193,7 +196,7 @@ tendency to prefer oxygen over hydrogen – in this indeed I would posit
 lies the difference between the ability to make life or not. The one
 exception being certain clays, which some have seen as a possible Si
 based form of life.”  
-L: “Ah\! talking of clays I forgot to show you this.” She pulled out a
+L: “Ah! talking of clays I forgot to show you this.” She pulled out a
 bottle with an interestingly colored clay in it. “This one is from
 Sagaradurga.” Somakhya prepared a mount of the clay under the microscope
 and remarked: “You see those crystals are believed to be part of a
@@ -249,15 +252,14 @@ phenomenon still available today?”
 Suddenly Somakhya received a message from Vidrum asking if he could stop
 by. Somakhya was surprised – he thought Vidrum would be having a party
 with Meghana and friends. He showed the message to Lootika and asked:
-“Why would he want to come to see me? We are in the midst of
-interesting things what should I tell him?” L: “Yes. As I was leaving
-for your house I saw a knot of our classmates and heard their raucous
-yells and whistles even as I passed by Meghana’s house. May be just tell
-him we are busy with our minerals and he might get bored if he came.”
-Somakhya did so but Vidrum answered that if Lootika was around it was
-all the better since it was a matter the two of them would be most
-suited to give some answers for. Somakhya gave in and asked Vidrum to
-come over.
+“Why would he want to come to see me? We are in the midst of interesting
+things what should I tell him?” L: “Yes. As I was leaving for your house
+I saw a knot of our classmates and heard their raucous yells and
+whistles even as I passed by Meghana’s house. May be just tell him we
+are busy with our minerals and he might get bored if he came.” Somakhya
+did so but Vidrum answered that if Lootika was around it was all the
+better since it was a matter the two of them would be most suited to
+give some answers for. Somakhya gave in and asked Vidrum to come over.
 
 Even as Vidrum came in he said: “Good to see you guys; I am sure this is
 an issue only you might be able to provide an answer for. Now I
@@ -271,7 +273,7 @@ what beckons you to come to us for brahminical services.”
 Lootika said nearly laughing: “Hey, I caught a glimpse of you having a
 whale of a time with some of the classmates. It seems to have ended
 prematurely?”  
-Vidrum: “Lootika, why rub salt thus. Women are always like that\! I know
+Vidrum: “Lootika, why rub salt thus. Women are always like that! I know
 I am disturbing you in whatever interesting stuff you are doing but if
 you don’t mind please hear me out.”  
 Lootika: “Why? Would you have thought of us if something had not
@@ -279,7 +281,7 @@ interrupted the session with your other friends? Never mind, we are all
 ears. Tell us what happened.”
 
 Vidrum: “Please bear with me. It is a bit of a long and absolutely
-bizarre story\! Lootika knows the beginning of it but I’ll fill you in
+bizarre story! Lootika knows the beginning of it but I’ll fill you in
 Somakhya. That day before the chemistry exam after getting the needful
 from you I went over to study with Meghana. While at her place it seems
 a tempo filled with heavy iron rods dumped its cargo on the wheel of my
@@ -289,11 +291,11 @@ who repaired the damage but did not have change for the note I gave him.
 It was most of my pocket money. He promised to send the change over to
 my house as soon as possible but did not do so. I remembered this only
 yesterday and ran to get the change from him but his shop seemed to have
-shut down\!”  
+shut down!”  
 Lootika interjected: “No wonder he did not return your change Vidrum.
-Tragically, he died that night\!”  
-Vidrum: “What\! That explains everything\! This is certainly a matter in
-your domain\!”  
+Tragically, he died that night!”  
+Vidrum: “What! That explains everything! This is certainly a matter in
+your domain!”  
 Somakhya: “What happened? Do you know how he died?”  
 Lootika: “That night before the chemistry test I became rather
 overconfident that I had nearly revised everything by evening. I started
@@ -316,7 +318,7 @@ cycle-vālā’s shack and shot out through the roof. But the cycle-vālā who
 was sleeping in the shack seems to sadly have died from asphyxiation
 though we were not sure if he was rather hit by shrapnel from the
 explosion.”  
-Somakhya: “That’s sad indeed\! But Vidrum you have not completed your
+Somakhya: “That’s sad indeed! But Vidrum you have not completed your
 story. Please continue.”
 
 Vidrum: “Ah. In light of what Lootika has just informed us I think I’m
@@ -333,12 +335,12 @@ home in sorrow. I grabbed a quick lunch from what my parents had left in
 the fridge and went to the bathroom to wash my mouth. To my shock when I
 spat out the water it was red as though with blood. I examined my mouth
 and found no cut. You won’t believe it – each time I did it the same
-thing happened\! Unnerved by this I went to my room and sat at my desk.
+thing happened! Unnerved by this I went to my room and sat at my desk.
 If this was bad, what happened next positively shook me. The fan on the
 ceiling suddenly started rotating on its own making a weird noise. It
 was like a periodic whooping noise that I seemed to have heard some
 years ago one night at my ancestral village. My folks told me it was the
-dreaded ghost Daṇḍalūma making his rounds\! Then from one corner of my
+dreaded ghost Daṇḍalūma making his rounds! Then from one corner of my
 room I heard a girl singing in an unknown language. I looked hard but I
 saw no one. I have told you before that there were some strange
 incidents pertaining to the cemetery near my house and when I mentioned
@@ -360,13 +362,13 @@ background, and sometimes in the clock and it would swing violently.
 Then it would stop and the girl’s singing in that strange language would
 continue. Finally, I was so scared that I sent you the message and came
 over. I know you guys have some special means of tackling this type of
-entity from beyond. So tell me what can be done\!”
+entity from beyond. So tell me what can be done!”
 
 Somakhya and Lootika: “Wow.”  
 Lootika: “There is precious little we can do without being there on site
 I believe. We could come over there in the evening.”  
 Vidrum: “But my folks would be back home and we can hardly do anything
-suspicious\!”  
+suspicious!”  
 Somakhya: “Vidrum we cannot just come over for such an adventure. We
 first need perform some rituals so that Śiva is on our side as we step
 into your spooky lair. To be frank I’ve always been a bit concerned of
@@ -380,9 +382,9 @@ phantoms.”
 Lootika: “There is something more in your case. We can see the possible
 reasons for the late Orissan to pursue you but that girl appears strange
 – could there be two ghosts here?”  
-Somakhya: “That’s a good point\! Since Vidrum’s place was always
-haunted, and bhūta-s like certain loci, I wonder if that girl was
-displaced by the Orissan’s ghost who tried to occupy the same locus?”  
+Somakhya: “That’s a good point! Since Vidrum’s place was always haunted,
+and bhūta-s like certain loci, I wonder if that girl was displaced by
+the Orissan’s ghost who tried to occupy the same locus?”  
 Lootika: “In practical terms that possibility makes it quite difficult
 for us to handle this thing. I was thinking that the best way for us to
 deal with this issue of Vidrum without us going on site to do some
@@ -391,10 +393,10 @@ we could then collect and tranquilize. But that would need us to set up
 a khārkhoḍa, which would itself need some labor in the first place. But
 now we have two to deal with. What if the girl goes into the khārkhoḍa,
 while the Orissan continues to haunt Vidrum?”  
-Somakhya: “Ah\! that can happen. Did the girl look like someone
+Somakhya: “Ah! that can happen. Did the girl look like someone
 familiar?”  
 Vidrum: “I think she looked East Asian. Very strange, right?”  
-Lootika: “Indeed\!”  
+Lootika: “Indeed!”  
 Vidrum: “How long might it take you to set up that khārkhoḍa thingie?
 Can you make two?”  
 Lootika: “It could easily take Somakhya a day. If I ask Vrishchika’s
@@ -452,9 +454,9 @@ Lootika and Vrishchika came out with their mother and Somakhya
 immediately glimpsed a certain tension and excitement on their faces,
 especially that of Lootika. Lootika immediately exclaimed: “I believe it
 has played out to the worst of our fears. The phantom has struck at
-Vidrum’s place\!”.  
+Vidrum’s place!”.  
 Lootika’s mother said with a stern face: “Girls go inside. Let them come
-in and sit down. This is not the first thing you want to tell them\!”  
+in and sit down. This is not the first thing you want to tell them!”  
 Seeing her mother’s reaction, and their parents busy with pleasantries,
 to maintain social decency, Somakhya avoided any immediate conversation
 with the caturbhaginī, who sat in a closely knit clump on the couch
@@ -506,7 +508,7 @@ bikes to ride to school. They heard someone riding hard behind them to
 catch up; alarmed they turned around only to be relieved at the sight of
 Vidrum with his face blanched as a ghost itself. As Vidrum caught up
 with them, without much of a word he handed over the vetāla ingot to
-Lootika: “Found it in my aunt’s room\! I couldn’t wait to get rid of it.
+Lootika: “Found it in my aunt’s room! I couldn’t wait to get rid of it.
 So I’m handing it over to you rather than Somakhya who has been
 wondering what befell it.”  
 Lootika: “OK. Let me bury it outside my gate and we can retrieve it
@@ -581,7 +583,7 @@ the English tyrant Elgin, who was buried in the city cemetery. It was
 undecipherable until recently a lama from Mandi had translated it for
 the Archaeological Survey.  
 The first line read: “Princess Irinjinbālā”. Somakhya: “Vidrum – that is
-your east Asian lady\!” She has recorded her tragic fate in this
+your east Asian lady!” She has recorded her tragic fate in this
 document. See – in the next line she quotes her ancestress, the mother
 of the great Khan:  
 ‘Not misunderstanding ancient words,  
@@ -598,7 +600,7 @@ Indra and reside there. The same lama told her that her illustrious
 ancestor himself was reborn as a great paṇḍita-warrior in Jambudvipa and
 thus attained the realm of Kubera.”  
 Lootika: “I wonder if it was her suicide note?”  
-Vidrum: “That’s pretty remarkable if it was her\! I never heard or saw
+Vidrum: “That’s pretty remarkable if it was her! I never heard or saw
 anything of her after that day. What English expedition was this? To
 Tibet or to Mongolia.”  
 Somakhya: “No, it was the opium war in China, where she was evidently
@@ -642,3 +644,4 @@ Vidrum managed to get one of our classmates Gardabh or Mahish to let him
 stay at their house to evade the phantom in his. For some reason his
 aunt had gone to his room and seeing that pretty ingot, which was the
 khārkhoḍa, took it with her to her room. That was her doom.”
+

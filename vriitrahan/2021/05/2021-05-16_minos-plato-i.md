@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "May 16, 2021"
+date = "2021-05-16"
+upstream_url = "https://vriitrahan.wordpress.com/2021/05/16/minos-plato-i/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2021/05/16/minos-plato-i/).
+
 A review-summary of the platonic dialogue of Minos. This dialogue serves
 as a preview to *Laws* and the two speakers are Socrates & an unknown
 interlocutor \[Friend\]. Law in greek is *nomos* but a more accurate

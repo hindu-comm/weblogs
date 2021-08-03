@@ -1,7 +1,11 @@
 +++
 title = "The padamAlA mantra of chAmuNDA"
+date = "2007-07-01"
+upstream_url = "https://manasataramgini.wordpress.com/2007/07/01/the-padamala-mantra-of-chamunda/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/07/01/the-padamala-mantra-of-chamunda/).
+
 The padamAlA of chAmuNDa is one of the celebrated mantra of the tantric
 tradition of chaNDikA vidyA-s. It is found in paralogous forms in the
 yuddha-jayArNava tantra, the agni purANa and the devI purANa. The devI
@@ -22,34 +26,34 @@ oM hrIM chAmuNDe shmashAna-vAsini khaTvA\~Nga-kapAla-haste
 \[khaDga-kapAlahaste in yuddha-jayArNava\] mahA-preta-samArUDhe
 mahA-vimAna-samAkule kAlarAtri mahA-gaNa-parivR^ite mahA-mukhe
 bahu-bhuje ghaNTA-Damaru-ki\~NkiNi aTTATTahAse kili kili oM hUM phaT
-\[hUM instead of oM hUM phaT in devI purANa\] |  
+\[hUM instead of oM hUM phaT in devI purANa\] \|  
 daMShTrA-ghorAndhakAriNi nAda-shabda-bahule
 gaja-charma-prAvR^ita-sharIre mAMsadigdhe lelihAnogra-jihve
 mahA-rAkShasi raudra-daMShTrA-karAle bhImATTahAse sphurad-vidyut-prabhe
-chala chala OM \[no OM in devI purANa\]|  
+chala chala OM \[no OM in devI purANa\]\|  
 chakora-netre hili hili OM \[no OM in devI purANa\]  
-lalana-jihve Om |  
+lalana-jihve OM \|  
 bhIM bhru-kuTI-mukhi hu\~NkAra-bhaya-trAsani
 kapAla-mAlAveShTita-jaTA-mukuTa shashA\~NkadhAriNi aTTahAse kili kili oM
-|  
+\|  
 hrUM \[hUM hUM in DP\] daMShTra-aghora-andha-kAriNi
 sarva-vighna-vinAshini idaM karma sAdhaya 2 OM shIghraM kuru 2 \[tvara 2
-in DP\] huM phaT |  
+in DP\] huM phaT \|  
 oM a\~Nkushena shamaya praveshaya OM ra\~Nga ra\~Nga kampaya 2 oM
-chAlaya 2 |  
+chAlaya 2 \|  
 oM rudhira-mAMsa-madya-priye hana 2 OM kuTTa 2 oM Chinda oM mAraya oM
 \[no OM in DP\] anukramaya OM vajra-sharIram pAtaya
-\[vajra-sharIramAnaya Anaya in DP\] |  
+\[vajra-sharIramAnaya Anaya in DP\] \|  
 oM trailokya-gatamapi- duShTamaduShTaM vA gR^ihItamagR^ihItaM vA
-Aveshaya 2 oM \[krAmaya krAmaya in DP\] nR^itya 2 oM bandha 2 |  
+Aveshaya 2 oM \[krAmaya krAmaya in DP\] nR^itya 2 oM bandha 2 \|  
 oM koTarAkShi Urdhva-keshi ulUka-vadane kara\~NkiNi oM
-kara\~Nka-mAlA-dhAriNi daha 2 oM pacha 2 oM gR^ihNa 2 |  
+kara\~Nka-mAlA-dhAriNi daha 2 oM pacha 2 oM gR^ihNa 2 \|  
 oM maNDala-madhye praveshaya oM kiM vilambasi brahmasatyena
 viShNusatyena rudrasatyena R^iShisatyena Aveshaya oM kili kili oM mili
-mili \[vili vili additional in DP\] |  
+mili \[vili vili additional in DP\] \|  
 oM vikR^ita-rUpa-dhAriNi kR^iShNa-bhuja\~Nga-veShTita-sharIre
 sarva-grahAveshani pralamba-uShThini bhrUbha\~Nga-lagna-nAsike
-vikaTa-mukhi kapila-jaTA-dhAriNi brAhmibha\~nja 2 |  
+vikaTa-mukhi kapila-jaTA-dhAriNi brAhmibha\~nja 2 \|  
 oM jvalaj-jvAlamukhi jvala-jvala oM pAtaya oM raktAkShi ghUrNaya bhUmiM
 pAtaya oM shiro gR^ihNa chakShurmIlaya oM hastapAdau gR^ihNa mudrAM
 sphoTaya oM phaT oM vidAraya oM trishUlena chChedaya oM vajreNa hana oM
@@ -71,3 +75,4 @@ chAmuNDe kili kili oM vichche huM phaT svAhA
 
 We would like to thank SRA for providing us with a scan of the padamAla
 mantra from the DP.
+

@@ -1,7 +1,11 @@
 +++
 title = "Non-existent books"
+date = "2009-02-07"
+upstream_url = "https://manasataramgini.wordpress.com/2009/02/07/non-existent-books/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/02/07/non-existent-books/).
+
 Two books on arthropods have set standards for me that in a sense
 inspire but also cause despair. These are the “For Love of Insects” by
 the great Thomas Eisner and “Evolution of the Insects” by Grimaldi and
@@ -52,3 +56,4 @@ text.
 
 How can all this be achieved? This was the question we kept pondering
 about.
+

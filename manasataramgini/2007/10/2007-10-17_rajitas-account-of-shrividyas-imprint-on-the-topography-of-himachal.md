@@ -1,7 +1,11 @@
 +++
 title = "Rajita’s account of shrIvidyA’s imprint on the topography of Himachal"
+date = "2007-10-17"
+upstream_url = "https://manasataramgini.wordpress.com/2007/10/17/rajitas-account-of-shrividyas-imprint-on-the-topography-of-himachal/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/10/17/rajitas-account-of-shrividyas-imprint-on-the-topography-of-himachal/).
+
 R was telling us of how the holy configurations of shrIvidyA are
 embedded in the geography of Himachal Pradesh. She mentioned that these
 ancient footprints of shrIvidyA still are seen in the temples of the
@@ -46,3 +50,4 @@ in the 3-storied shrine of hAdividyA tripurasundarI located in the
 village of Naggar, overlooking the Kulu valley. It is like the
 kAmeshvarI temple of Mandi made of wood and apparently has yantra
 outlines carved into it.
+

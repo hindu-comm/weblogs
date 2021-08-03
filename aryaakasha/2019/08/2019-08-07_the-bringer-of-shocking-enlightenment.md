@@ -1,8 +1,11 @@
 +++
-title = "The Bringer Of Shockingxa0Enlightenment"
-date = "August 7, 2019"
+title = "The Bringer Of Shocking Enlightenment"
+date = "2019-08-07"
+upstream_url = "https://aryaakasha.com/2019/08/07/the-bringer-of-shocking-enlightenment/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/08/07/the-bringer-of-shocking-enlightenment/).
+
 ![Parashurama Shocking
 Enlightenment](https://aryaakasha.files.wordpress.com/2019/08/parashurama-shocking-enlightenment.png?w=676)
 

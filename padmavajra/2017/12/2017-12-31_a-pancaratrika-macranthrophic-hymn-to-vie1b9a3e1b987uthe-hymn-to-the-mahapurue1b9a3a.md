@@ -1,8 +1,11 @@
 +++
-title = "A Pāñcarātrika macranthrophic hymn to Viṣṇu(the hymn to thexa0Mahāpuruṣa)"
+title = "A Pāñcarātrika macranthrophic hymn to Viṣṇu(the hymn to the Mahāpuruṣa)"
 date = "2017-12-31"
+upstream_url = "https://padmavajra.net/2017/12/31/a-pancaratrika-macranthrophic-hymn-to-vi%e1%b9%a3%e1%b9%87uthe-hymn-to-the-mahapuru%e1%b9%a3a/"
 
 +++
+Source: [here](https://padmavajra.net/2017/12/31/a-pancaratrika-macranthrophic-hymn-to-vi%e1%b9%a3%e1%b9%87uthe-hymn-to-the-mahapuru%e1%b9%a3a/).
+
 . (Śrīmadbhāgavata Purāṇa 12.11-1-26)
 
 *śrī-śaunaka uvāca*

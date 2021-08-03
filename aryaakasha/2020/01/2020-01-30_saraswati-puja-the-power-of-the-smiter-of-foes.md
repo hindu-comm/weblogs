@@ -1,8 +1,11 @@
 +++
-title = "Saraswati Puja – The Power Of The Smiter Ofxa0Foes"
-date = "January 30, 2020"
+title = "Saraswati Puja – The Power Of The Smiter Of Foes"
+date = "2020-01-30"
+upstream_url = "https://aryaakasha.com/2020/01/30/saraswati-puja-the-power-of-the-smiter-of-foes/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/01/30/saraswati-puja-the-power-of-the-smiter-of-foes/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/01/musical-goddess-saraswati-healing-art-harsh-malik.jpg?w=598)
 
 Yesterday (by now) marked Saraswati Puja ; and as has become my custom,

@@ -1,7 +1,11 @@
 +++
 title = "shrauta-tantric traditions related to the vIran ravi-s of the chera country"
+date = "2008-12-20"
+upstream_url = "https://manasataramgini.wordpress.com/2008/12/20/shrauta-tantric-traditions-related-to-the-viran-ravi-s-of-the-chera-country/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/12/20/shrauta-tantric-traditions-related-to-the-viran-ravi-s-of-the-chera-country/).
+
 While the shrauta tradition all over bhArata preserves the archaisms of
 the early Aryans in certain parts, it has developed unusual local
 accretions. While the shrauta traditions in the interiors of Thanjavur
@@ -99,6 +103,10 @@ ravi-s might have emerged from a nambuthiri-nAyar saMbandha. While
 inscriptions suggest that he used the title of varman, there is no
 evidence that he wears an upavIta like a kShatriya who has undergone
 saMskAra. On the other hand there is connection between at least some
-nAyar old pallava warriors who might have had a Iranic component. They
-were probably absorbed in the kShatriya functional guild but did
-not acquire the thread despite performing certain vaidika rituals.
+nAyar old pallava warriors who might have had a Iranic component. This
+is supported by the close parallel between the origin tale of the vIran
+ravi-s and the jarashabda (\<Zarathustra) founder of the shAkadvIpIya
+brAhmaNa-s of the saura cult. They were probably absorbed in the
+kShatriya functional guild but did not acquire the thread despite
+performing certain vaidika rituals.
+

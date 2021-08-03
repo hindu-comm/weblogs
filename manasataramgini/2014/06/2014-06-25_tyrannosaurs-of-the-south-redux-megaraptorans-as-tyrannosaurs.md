@@ -1,7 +1,11 @@
 +++
 title = "Tyrannosaurs of the south redux: megaraptorans as tyrannosaurs?"
+date = "2014-06-25"
+upstream_url = "https://manasataramgini.wordpress.com/2014/06/25/tyrannosaurs-of-the-south-redux-megaraptorans-as-tyrannosaurs/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/06/25/tyrannosaurs-of-the-south-redux-megaraptorans-as-tyrannosaurs/).
+
 Shortly after we had reached the mlechCha-land we read an abstract of a
 presentation in a meeting on vertebrate paleontology where Argentinian
 scientists reported the discovery of a large theropod (\~6m long) with
@@ -108,3 +112,4 @@ direct predatory weaponry. Then there are the small tyrannosaurs of the
 Northern Cretaceous whose such as Bagaraatan and Xinjiangovenator which
 may have paralleled the smaller megaraptorans like the Japanese
 Fukuiraptor.
+

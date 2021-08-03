@@ -1,7 +1,11 @@
 +++
 title = "A case of Gaṅgā as a negative example and a lesson in discernment"
+date = "2015-10-27"
+upstream_url = "https://manasataramgini.wordpress.com/2015/10/27/a-case-of-ga%e1%b9%85ga-as-a-negative-example-and-a-lesson-in-discernment/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/10/27/a-case-of-ga%e1%b9%85ga-as-a-negative-example-and-a-lesson-in-discernment/).
+
 A version of this article was originally published on
 [IndiaFacts](http://indiafacts.co.in/despoiled-ga%E1%B9%85ga-as-a-metaphor-for-loss-of-hindu-discernment/)
 
@@ -24,13 +28,13 @@ is presented as a negative example. We see this in the Nītiśataka, one
 of the triad of 100 verse-collections, composed by Bhartṛhari, a
 personage who is the locus of many a colorful legend in Hindu tradition.
 The other two of the triad being the Śṛṅgāraśataka and the
-Vairāgyaśataka, which respectively cover the opposites of eroticism
-and asceticism respectively. The we are talking about is:
+Vairāgyaśataka, which respectively cover the opposites of eroticism and
+asceticism respectively. The we are talking about is:
 
 śiraḥ śārvaṃ svargāt \*\[patati śirasas tat kṣitidharaṃ\]  
-mahīdhrād uttuṅgād avanim avaneś ca+api jaladhim |  
+mahīdhrād uttuṅgād avanim avaneś ca+api jaladhim \|  
 adho ‘dho gaṅgeyaṃ padam upagatā stokam atha vā  
-viveka-bhraṣṭānāṃ bhavati vinipātaḥ śatamukhaḥ || (Nītiśataka 10)
+viveka-bhraṣṭānāṃ bhavati vinipātaḥ śatamukhaḥ \|\| (Nītiśataka 10)
 
 alternative reading \*\[patati śirasas tat kṣitidharaṃ\]
 
@@ -47,7 +51,7 @@ iyaṃ= this Gaṅgā (nominative, feminine singular); padam= rank/status
 gradually; atha vā= or so; viveka-bhraṣṭānāṃ= those who have lost
 discernment (genitive, masculine plural); bhavati= it becomes;
 vinipātaḥ= fall (nominative, masculine singular); śatamukhaḥ=
-hundred-faced (nominative, masculine singular) ||
+hundred-faced (nominative, masculine singular) \|\|
 
 She falls from the heavens to Śarva’s head, from his head to the
 Himalayas,  
@@ -122,3 +126,4 @@ Footnote 1:
 Footnote 2: For a detailed discussion of the same see:
 <http://bharatendu.com/2008/08/29/the-hoax-called-vasudhaiva-kutumbakam-1-hitopadesha/>
 by Sarvesh Tiwari.
+

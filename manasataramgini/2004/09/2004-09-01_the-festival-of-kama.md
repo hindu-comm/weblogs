@@ -1,7 +1,11 @@
 +++
 title = "The festival of kAma"
+date = "2004-09-01"
+upstream_url = "https://manasataramgini.wordpress.com/2004/09/01/the-festival-of-kama/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/09/01/the-festival-of-kama/).
+
 From a somewhat corrupt, but legible copy of the padma purANa, I have
 been able to piece together the most complete version of the damanaka
 utasava vidhi for kAma and rati. I provide it here as a part of my
@@ -58,3 +62,4 @@ ratipate namaste.astu namaste.astu vishvamaNDana
 feet of the idols are washed with water from the pitcher.Then there is a
 great celebration with song, music, dance and a Holi-styled
 splashing-sports.
+

@@ -1,7 +1,11 @@
 +++
 title = "The repeated instinctive response"
+date = "2007-05-18"
+upstream_url = "https://manasataramgini.wordpress.com/2007/05/18/the-repeated-instinctive-response/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/05/18/the-repeated-instinctive-response/).
+
 Many years ago, when we were still in the country founded by our
 ancestors, it was a very quiet evening, and the yoga kept things in
 proper condition. We really did not want to be there, instead wanting to
@@ -99,3 +103,4 @@ deployed on the 14th of this month. 14 days short of an year from the
 previous one. Against various prayoga-s the gods had led us to triumphs
 but this one was simply unstoppable. The sachiva, the amAtya’s brother
 all had been struck by this one.
+

@@ -1,7 +1,11 @@
 +++
 title = "The figure in the shadows"
+date = "2007-03-29"
+upstream_url = "https://manasataramgini.wordpress.com/2007/03/29/the-figure-in-the-shadows/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/03/29/the-figure-in-the-shadows/).
+
 After the futile battle of khANDava, which to us was like the decline
 into the sufferings of the kali age, we had climbed into the tower of
 parIkShit. Having been driven away from there by fate we had landed in
@@ -40,3 +44,4 @@ in a few days the flow of kAla had swept him aside as the flood on the
 paruShNi bore the enemies of sudAsa. We survived, and emerged victorious
 in battle. But then after getting down from this journey we did not know
 who would be swept away.
+

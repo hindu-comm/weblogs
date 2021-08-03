@@ -1,15 +1,19 @@
 +++
 title = "Yet another geopolitical yarn"
+date = "2009-09-30"
+upstream_url = "https://manasataramgini.wordpress.com/2009/09/30/yet-another-geopolitical-yarn/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/09/30/yet-another-geopolitical-yarn/).
+
 As the va\~Nga paNDita said it is no more fun to talk of geopolitics for
 what we have been prognosticating is turning out to be so nauseatingly
 true. Further, whatever new stuff we might have to say turns out to be a
 mere rewind of a past tape. It is truly hard to believe that Hindus had
-manu, viShNugupta and viShNusharman in their midst\! Yet we shall take
-up a matter of geopolitics that is worth discussion among the Hindu
-elite. While the Hindus were distracted by the existential threat from
-the legalist chIna-s they took their eye off their age old enemies the
+manu, viShNugupta and viShNusharman in their midst! Yet we shall take up
+a matter of geopolitics that is worth discussion among the Hindu elite.
+While the Hindus were distracted by the existential threat from the
+legalist chIna-s they took their eye off their age old enemies the
 mlechCha-s and the turuShka-s. These threats we shall discuss in two
 dimensions. We have covered both these on these pages before but we
 shall revisit them in different words (for after all what is there other
@@ -79,7 +83,7 @@ correctness in the madhyama mlechChavarSha and its satellites in the
 leukosphere. But it additionally includes a wide range of other values
 that might be upheld to different extant within the leukosphere.
 Examples of these include:  
-1\) The leukosphere has the supreme right in deciding what form of
+1) The leukosphere has the supreme right in deciding what form of
 government is good for all people of the world. Corollaries of these
 include it is alright and not a genocide when Iraqis are killed in large
 numbers, but the Hindu varNa system is a crime against humanity. It is
@@ -150,3 +154,4 @@ The other dimension we intended to cover was that of the consequences of
 the war between the mlechCha-s and turuShka-s in Afghanistan. However,
 due to other matters of interest arising we are keeping away from this
 for now.
+

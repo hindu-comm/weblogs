@@ -1,8 +1,11 @@
 +++
-title = "The ShivLing – A Guide To The Cosmos [ Glorious Modern Hindu Art (of) Post For MahaShivRatrixa0]"
-date = "March 11, 2021"
+title = "The ShivLing – A Guide To The Cosmos [ Glorious Modern Hindu Art (of) Post For MahaShivRatri ]"
+date = "2021-03-11"
+upstream_url = "https://aryaakasha.com/2021/03/11/the-shivling-a-guide-to-the-cosmos-glorious-modern-hindu-art-of-post-for-mahashivratri/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/03/11/the-shivling-a-guide-to-the-cosmos-glorious-modern-hindu-art-of-post-for-mahashivratri/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/03/16939420_10158304628020574_7979424010441902978_n.jpg?w=562)
 
 Another favourite Shaivite work of (A)Art-i for #MahaShivRatri – this

@@ -1,7 +1,11 @@
 +++
 title = "Idiosyncratic synesthetic experiences in some trivial trigonometric identities"
+date = "2014-01-29"
+upstream_url = "https://manasataramgini.wordpress.com/2014/01/29/idiosyncratic-synesthetic-experiences-in-some-trivial-trigonometric-identities/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/01/29/idiosyncratic-synesthetic-experiences-in-some-trivial-trigonometric-identities/).
+
 Mathematical objects, despite existing in a purely abstract “Platonic”
 realm, have the ability (perhaps by the very virtue of their Platonic
 idealism) to produce synesthetic experiences. We have often wondered in
@@ -25,12 +29,12 @@ the universe with the daitya-s, took three great strides. With these
 strides he won the whole universe for the deva-s and excluded the
 daitya-s from it. He is said to be viShNu because with this three
 strides he measured out or pervaded the whole universe – the old
-etymologists would say: “viShNur vishvaM vishate |”. We saw a paradox in
-this: The measuring out or the pervading of the universe is a volumetric
-action – i.e. you fill out the volume of the universe. But then the
-taking of strides has a sense of linearity to it: three steps would map
-as the summation of three lengths in a one dimensional space but how
-come a volume is implied as being filled?
+etymologists would say: “viShNur vishvaM vishate \|”. We saw a paradox
+in this: The measuring out or the pervading of the universe is a
+volumetric action – i.e. you fill out the volume of the universe. But
+then the taking of strides has a sense of linearity to it: three steps
+would map as the summation of three lengths in a one dimensional space
+but how come a volume is implied as being filled?
 
 Many, many revolutions of the earth ago, our father, in attempt to lead
 us to the path of mathematics, asked us to consider several triangles
@@ -105,7 +109,7 @@ sin(x)/x= (sin(x/4)/(x/4))\*cos(x/2)\*cos(x/4)
 We can continue thus ad infinitum:  
 Hence, we will have:  
 sin(x)/x= (sin(x/2^n)/(x/2^n))\*∏\[n=1..∞\]cos(x/2^n)  
-but as n-\>∞, x/2^n-\>0, therefore sin(x/2^n)/(x/2^n)-\>1  
+but as n->∞, x/2^n->0, therefore sin(x/2^n)/(x/2^n)->1  
 thus, sin(x)/x = ∏\[n=1..∞\]cos(x/2^n)  
 \]
 
@@ -125,9 +129,10 @@ cosines come closer and closer to our original line y=x/x.
 
 [![](https://lh5.googleusercontent.com/-nGNSlYRxWCw/UuiXqlwCvdI/AAAAAAAAC2Q/NJ19H8QZ91g/s640/sinxbyx.bmp.jpg)](https://picasaweb.google.com/lh/photo/l9EJaoLmsUI7jBufwESDsNMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
-\-۩۞۩-۩۞۩-۩۞۩-  
+-۩۞۩-۩۞۩-۩۞۩-  
 Footnote 1: Some mathematicians find something they call rigor to be the
 basis for the beauty. We had a mathematics teacher who loved using the
 word rigor ad nauseum. But to us rigor was never a major source of
 inspiration or interest – for we simply saw gaNita as either a generator
 of beauty or a tool for vyavahAra in the real world.
+

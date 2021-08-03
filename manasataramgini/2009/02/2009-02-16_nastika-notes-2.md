@@ -1,7 +1,11 @@
 +++
 title = "nAstika notes-2"
+date = "2009-02-16"
+upstream_url = "https://manasataramgini.wordpress.com/2009/02/16/nastika-notes-2/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/02/16/nastika-notes-2/).
+
 Some enquirers had asked about the classification of nAstika tantra-s of
 the bauddha variety. Hence, we shall briefly discuss this, while
 mentioning the caveat that there are many classifications, just as in
@@ -145,7 +149,7 @@ Tibetan tradition of this ma\~njushrI depicts him in the company of devI
 sarasvatI. 6) The maNDala of vAdirAj in which ma\~njushrI is accompanied
 by two deities sudhana-kumAra and the ferocious yamArI. He is the
 mantra-devatA of the famous nAstika mantra: OM
-dharma-dhAtu-vAgIshvara-muH svAhA || 7) The maNDala of ma\~njuvajra,
+dharma-dhAtu-vAgIshvara-muH svAhA \|\| 7) The maNDala of ma\~njuvajra,
 where the ma\~njushrI is with three heads. This ma\~njushrI embraces a 3
 headed praj\~nA, which again points to the beginning of the yAmala of
 the deity and the praj\~nA which were to become dominant very soon. He
@@ -183,9 +187,9 @@ deployment found amongst the Astika-s. The guhyasamAja opens with the
 celebrated nidAna, which in a single cryptic statement sums up the
 secret yoga practice and philosophy of the yogottara tantra. The nidAna
 runs thus:  
-evam mayA shrutam | ekasmin samaye bhagavAn
+evam mayA shrutam \| ekasmin samaye bhagavAn
 sarva-tathAgata-kAya-vAk-chitta-hR^idaya-vajra-yoShid-bhageShu vijahAra
-||  
+\|\|  
 Literally this would translate thus: Thus I have heard; once upon time
 the bhagavAn had penetrated the bhaga\[-s\] of the damsels \[who are\]
 the \[vajra\] body, the speech, mind, heart and \[phallus\] of all
@@ -194,9 +198,10 @@ of the kula is at the surface an explicit indicator of shR^i\~NgAra
 being the upAya of becoming a siddha. However, the 40 syllables of the
 above nidAna are also a mnemonic for the initial letters of 40 kArikA-s
 of guhyasamAja:  
-e | vam | ma | yA | shru| tam e | ka | smin | sa | ma | ye | bha | ga |
-vAn | sa | rva | ta| thA | ga| ta | kA | ya | vAk | chit| ta | hR^i | da
-| ya | va | jra | yo | Shid | bha| ge | Shu | vi| ja | hA | ra ||  
+e \| vam \| ma \| yA \| shru\| tam e \| ka \| smin \| sa \| ma \| ye \|
+bha \| ga \| vAn \| sa \| rva \| ta\| thA \| ga\| ta \| kA \| ya \| vAk
+\| chit\| ta \| hR^i \| da \| ya \| va \| jra \| yo \| Shid \| bha\| ge
+\| Shu \| vi\| ja \| hA \| ra \|\|  
 Thus, they are in sense reminiscent of the saMvartAmaNDala sUtra-s with
 which the Astika kubjikA tantra-s, like kubjikA-mata or ShaTsAhasra
 saMhitA, open. The kArikA-s themselves are not explicitly provided in
@@ -215,8 +220,8 @@ take on the attack from these bauddha-s and whether it was in someway
 related to the symbiosis between the Astika kulA tAntrika-s and the
 sha\~NkarAdvaitin-s\].  
 The first kArikA:  
-e : ekAro.api satI praj\~nA virAmAdi-kShaNAtmikA | etan-mUlaM
-vinirdiShTaM parij\~nAnaM bhava-traye || (For this kArikA, I am using
+e : ekAro.api satI praj\~nA virAmAdi-kShaNAtmikA \| etan-mUlaM
+vinirdiShTaM parij\~nAnaM bhava-traye \|\| (For this kArikA, I am using
 the text edited and emended by late Alex Wayman, the great American
 scholar)  
 It might be roughly rendered thus (With a text like this one cannot be
@@ -295,8 +300,8 @@ transformation of the Astika devatA-s \[we have described some of these
 on these pages before\] but simply cannot give their identification with
 the Astika devatA-s. This is best illustrated by a statement in the
 yogottara tantra, the guhysamAja:  
-*kAya-vajro bhavet brahmA vAgvajras tu maheshvaraH | chitta-vajra-dharo
-rAjA saiva viShNur maharddhikaH ||* GST 17.19 \[I have emended
+*kAya-vajro bhavet brahmA vAgvajras tu maheshvaraH \| chitta-vajra-dharo
+rAjA saiva viShNur maharddhikaH \|\|* GST 17.19 \[I have emended
 chitta-vakra in the va\~Nga paNDita Benoytosh Bhattacharya’s edition to
 the obvious chitta-vajra \]  
 Here the “vajrification” process involves vajrapANi who is mentioned as
@@ -308,11 +313,11 @@ chANDamahAroShaNa tantra of the yoginI group\].
 It was within this matrix that a minor deity of the crematorium,heruka,
 rose to be the center of the yoginI tantra-s. His beginnings are
 suggested by the Astika kAlikA purANa (63.135-137.5):  
-*shmashAnaM herukAkhyaM cha raktavarNaM bhaya\~Nkaram |
-asi-charma-dharaM raudraM bhu\~njAnaM manujAmiSham || tisR^ibhir
-muNDa-mAlAbhir galad-raktAbhi rAjitam|
-agni-nirdagdha-vigalad-danta-preto-paristhitam || pUjayech-chintanenaiva
-shastra-vAhana-bhUShaNam |*   
+*shmashAnaM herukAkhyaM cha raktavarNaM bhaya\~NkaraM \|
+asi-charma-dharaM raudraM bhu\~njAnaM manujAmiSham \|\| tisR^ibhir
+muNDa-mAlAbhir galad-raktAbhi rAjitam\|
+agni-nirdagdha-vigalad-danta-preto-paristhitam \|\|
+pUjayech-chintanenaiva shastra-vAhana-bhUShaNaM \|*   
 Here, in the kAlika purANa, heruka is described as a deity in the
 shmashAna who is of blood-red complexion, frightful and fierce, holding
 a sword and shield and eating human flesh. He is mentioned as being
@@ -348,7 +353,7 @@ arbuda-parvata (the temple on mount Abu in Rajasthan)
 devIkoTa (most likely the city in Bengal ruined by the Moslems); 8)
 mAlava  
 2 kShetra-s: 9)kAmAkhya; 10) oDra; 2 upakShetra-s: 11) trishAkuni;12)
-ayodhyA (koshala)  
+ayodhyA(koshala)  
 2 Chandoha-s: 13) kali\~Nga; 14) lampAka; 2 upach-Chandoha-s: 15)
 kA\~nchipuri; 16) kailAsa (himAlayA)  
 2 melApaka-s 17) pretapuri (Tibetan sources state that this is Tibet);
@@ -474,3 +479,4 @@ yoginI layers. By the time of the kAlachakra we note that the bauddha-s
 have realized the evils of the marUnmatta-s and pretAchArin-s and are
 already hoping for the coming of kalkin, who along with the Astika
 deities will destroy these plagues of the world.
+

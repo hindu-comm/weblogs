@@ -1,8 +1,11 @@
 +++
-title = "The Black Avenging Form Of The Earth Mother And The Pursuits Of The Sky Father As Solar Horseman – A Comparative Indo-European Typological Evocation [Part Two: Surya, Saranyu And Chhaya – The Shadowy ‘Second’ Wife Of The Skyxa0Father]"
-date = "November 13, 2020"
+title = "The Black Avenging Form Of The Earth Mother And The Pursuits Of The Sky Father As Solar Horseman – A Comparative Indo-European Typological Evocation [Part Two: Surya, Saranyu And Chhaya – The Shadowy ‘Second’ Wife Of The Sky Father]"
+date = "2020-11-13"
+upstream_url = "https://aryaakasha.com/2020/11/13/the-black-avenging-form-of-the-earth-mother-and-the-pursuits-of-the-sky-father-as-solar-horseman-a-comparative-indo-european-typological-evocation-part-two-surya-saranyu-and-chhaya-the-shadowy/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/11/13/the-black-avenging-form-of-the-earth-mother-and-the-pursuits-of-the-sky-father-as-solar-horseman-a-comparative-indo-european-typological-evocation-part-two-surya-saranyu-and-chhaya-the-shadowy/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/11/120275548_10221079193641041_4809914692449243860_o.jpg?w=796)
 
 \[Author’s Note: This piece continues our look at a fundamentally

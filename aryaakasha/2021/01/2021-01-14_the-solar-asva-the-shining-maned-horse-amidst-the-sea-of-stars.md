@@ -1,8 +1,11 @@
 +++
-title = "The Solar Asva – The Shining-Maned Horse Amidst The Sea Ofxa0Stars"
-date = "January 14, 2021"
+title = "The Solar Asva – The Shining-Maned Horse Amidst The Sea Of Stars"
+date = "2021-01-14"
+upstream_url = "https://aryaakasha.com/2021/01/14/the-solar-asva-the-shining-maned-horse-amidst-the-sea-of-stars/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/01/14/the-solar-asva-the-shining-maned-horse-amidst-the-sea-of-stars/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/12/2.jpg?w=820)
 
 As it is a salient Solar occasion today, here is an excerpt from my

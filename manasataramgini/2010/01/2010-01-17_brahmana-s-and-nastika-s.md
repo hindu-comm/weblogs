@@ -1,7 +1,11 @@
 +++
 title = "brAhmaNa-s and nAstika-s"
+date = "2010-01-17"
+upstream_url = "https://manasataramgini.wordpress.com/2010/01/17/brahmana-s-and-nastika-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/01/17/brahmana-s-and-nastika-s/).
+
 We had discussion with our friend as to whether the brAhmaNa-s subverted
 the nAstika mata from within. In a sense, this is not a new theory:
 Astika narratives state that rudra sent bR^ihaspati to delude the
@@ -41,7 +45,7 @@ measurement for it. One feature that could be used to measure this is
 the frequency with which the nAstika texts introduce statements that
 reduce the divergence between the substratum of the Astika and nAstika
 narratives (e.g. the role of the veda). In this regard we found a
-corrupt narrative in the ma\~njushriya-mUla-kalpa to be of interest,
+corrupt narrative in the ma\~njushrIya-mUla-kalpa to be of interest,
 though puzzling. The MMK has a long section that is like the bhaviShyata
 purANa of the Astika-s, which “predicts” future events of kings and
 teachers. Certainly, I do not understand all of this narrative as it
@@ -50,31 +54,31 @@ the bhASha.
 MMK 53.887-895 (I am now using the gaNapati shAstrI edition as against
 vaidya’s):
 
-mantra tantrAbhiyogena khyAtAH kIrtikarAH smR^itAH |  
-adhunA tu pravakShyAmi dvijAnAM dharmashIlinAm ||  
-mantra-tantrAbhiyogena rAjya-vR^ittim upAshritA |  
+mantra tantrAbhiyogena khyAtAH kIrtikarAH smR^itAH \|  
+adhunA tu pravakShyAmi dvijAnAM dharmashIlinAm \|\|  
+mantra-tantrAbhiyogena rAjya-vR^ittim upAshritA \|  
 This part speaks of brAhmaNa-s, who are upholders of dharma, who will be
 engaged in stately or royal activities by means of mantra-s and
 tantra-s.
 
-bhavati sarvaloke .asmiM tasmiM kAle sudAruNe ||  
-vakArAkhyo dvijaH shreShThaH ADhyo vedapAragaH |  
+bhavati sarvaloke .asmiM tasmiM kAle sudAruNe \|\|  
+vakArAkhyo dvijaH shreShThaH ADhyo vedapAragaH \|  
 These verses state that there will be a dreadful time in the world when
 a great brAhmaNa will be born, with his name containing the syllable va
 (an allusion to vajra) rich and completely knowledgeable in the veda-s.
 
-semAM vasumatIM kR^itsnAM vicherur vAda-kAraNAt ||  
-tri-samudra-mahAparyantaM para-tIrthAnAM vigrahe rataH |  
+semAM vasumatIM kR^itsnAM vicherur vAda-kAraNAt \|\|  
+tri-samudra-mahAparyantaM para-tIrthAnAM vigrahe rataH \|  
 This brAhmaNa is said to go around the land till the three oceans for
 debates and delight in disputations with rival scholars.
 
-ShaDakSharaM mantra-jApI tu abhimukhyo hi vAkyataH ||  
-kumAro gIta-vAhy AsIt sattvAnAM hita-kAmyayA |  
+ShaDakSharaM mantra-jApI tu abhimukhyo hi vAkyataH \|\|  
+kumAro gIta-vAhy AsIt sattvAnAM hita-kAmyayA \|  
 He will keep doing the japa of the ShaDakShara mantra, muttering it and
 meditating on the deity; he will bear the song of kumAra for the benefit
 of the good people.
 
-etasyai kalpa-visarAn mahitaM buddhitandritaH ?\! ||  
+etasyai kalpa-visarAn mahitaM buddhitandritaH ?! \|\|  
 This half-verse is particularly puzzling — if there is no deletion in
 the extant text then the etasyai is certainly out of place. It is
 probably a scribal or editorial misreading for etasya referring the
@@ -88,23 +92,23 @@ is erroneous and the original was intended to mean the opposite (?). In
 any case it is likely that the text implies ‘va’ dvija was renowned for
 his knowledge of numerous texts (kalpa-s) or knowledge of mantra-s.
 
-jayaH sujayash chaiva kIrttimAn shubhamataH paraH |  
-kulIno dhArmikash chaiva udyataH sAdhu mAdhavaH ||  
+jayaH sujayash chaiva kIrttimAn shubhamataH paraH \|  
+kulIno dhArmikash chaiva udyataH sAdhu mAdhavaH \|\|  
 Here other kumAra mantra sAdhaka-s are mentioned: jaya, sujaya,
 shubhamata and the good mAdhava born of a noble, Dharmic family.
 
-madhuH sumadhush chaiva siddha …h…. namastadA |  
-raghavaH shUdra-varNas tu shaka-jAtAs tathApare ||  
+madhuH sumadhush chaiva siddha …h…. namastadA \|  
+raghavaH shUdra-varNas tu shaka-jAtAs tathApare \|\|  
 Then there will be madhu, sumadhu, the siddha (break in the text), and
 rAghava of the 4th varNa who will born in the midst of the shaka-s.
 
-te .api jApinaH sarve kumArasyeha vAkyataH |  
-te chApi sAdhakaH sarve buddhimanto bahu-shrutaH ||  
+te .api jApinaH sarve kumArasyeha vAkyataH \|  
+te chApi sAdhakaH sarve buddhimanto bahu-shrutaH \|\|  
 All these are said to do japa, muttering the kumAra mantra (i.e. the
 ShaDakShari) and these sAdhaka-s will all be intelligent and learned.
 
-AmukhA mantribhis te cha rAjya-vR^itti samAshritA |  
-tasyApareNa vikhyAtaH vikArAkhyo dvijas tathA ||  
+AmukhA mantribhis te cha rAjya-vR^itti samAshritA \|  
+tasyApareNa vikhyAtaH vikArAkhyo dvijas tathA \|\|  
 They will portray themselves as mantrin-s and be involved in business of
 kingdom.Then it goes on with the narrative of the dvija born with a ‘vi’
 syllable in name, who comes there after.
@@ -135,10 +139,10 @@ learning any nAstika texts but more generally veda-s (as an Astika would
 do) and tantra-s and their mantra-s. Even the mantra in this section is
 couched in general terms — the ShaDakShari could easily be the kaumAra
 ShaDakShari of the Astika world, though what is meant the nAstika
-ma\~nju ShaDakShari -i.e. a ra pa cha na dhIH ||. The mantrin-s are said
-to bear the song of kumAra. These could well be kArttikeya-s stuti-s as
-well, but probably what is implied is some version of the ma\~njushrI
-nAma saMgItI.
+ma\~nju ShaDakShari -i.e. a ra pa cha na dhIH \|\|. The mantrin-s are
+said to bear the song of kumAra. These could well be kArttikeya-s
+stuti-s as well, but probably what is implied is some version of the
+ma\~njushrI nAma saMgItI.
 
 It is in the context of this connection to the kaumAra system that we
 get to a generally unnoticed point regarding the bauddha-brAhmaNa
@@ -150,11 +154,11 @@ described as chiefly practicing the vidyA of kumAra. This vidyA is
 described as the ShaDakSharI mantra which is normally taken to be the
 one of ma\~njushrI cited above but this is not specified here in the
 MMK. However, it should be noted that in the Astika parlance the mUla
-ShaDkaSharI is the kaumAra mantra: vachadbhuve namaH || (e.g. expounded
-in the old kaumAra tantra, the skanda-sadbhAva). The literal meaning of
-the root word in this mantra, vachadbhU is that kumAra is the one born
-of speech. This connection is important because ma\~njushrI is also
-remembered as the deity of speech (e.g. vAdirAT), and in the above
+ShaDkaSharI is the kaumAra mantra: vachadbhuve namaH \|\| (e.g.
+expounded in the old kaumAra tantra, the skanda-sadbhAva). The literal
+meaning of the root word in this mantra, vachadbhU is that kumAra is the
+one born of speech. This connection is important because ma\~njushrI is
+also remembered as the deity of speech (e.g. vAdirAT), and in the above
 narrative the worshipers of kumAra are described as engaging in verbal
 debates. We do observe an old appropriation of kumAra by the nAstika-s —
 e.g. there is the tale that indra sent his army chief skanda as nAgasena
@@ -196,3 +200,4 @@ kumAra-worshiping kingdoms of the early Tantric age. The drive we
 suspect allowed brAhmaNa-s and others including shUdra-s to be within
 the bauddha fold and perform roles closer to their traditional Astika
 roles in a royal context and allowed convergence.
+

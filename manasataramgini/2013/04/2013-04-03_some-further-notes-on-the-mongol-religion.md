@@ -1,7 +1,11 @@
 +++
 title = "Some further notes on the Mongol religion"
+date = "2013-04-03"
+upstream_url = "https://manasataramgini.wordpress.com/2013/04/03/some-further-notes-on-the-mongol-religion/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/04/03/some-further-notes-on-the-mongol-religion/).
+
 The young Mongol scholar Dorje Banzar, published a book in 1846 in
 Russian at the university of Kazan that brought to light for the first
 time the old religion of the Mongols to the scholarly world. In the
@@ -29,13 +33,13 @@ considers itself an oral tradition, much like the early Indo-Iranian
 traditions. This appears to be stated explicitly in the starting
 invocations of the shaman-s:  
 *My teacher, you have given \[me\]*  
-*the ritual practice without writing\!*  
+*the ritual practice without writing!*  
 *My teacher, you who have taught \[me\]*  
 *the ritual practice without books…*
 
 Or:  
-*You my three teachers, he hi hi \!*  
-*With my unwritten ritual teaching, he hi hi\!*  
+*You my three teachers, he hi hi !*  
+*With my unwritten ritual teaching, he hi hi!*  
 \[Translated by Heissig from Monghol kele bichikh of Mongol scholar
 Manijab\]  
 The nAstika practioners wanted to remove many elements of these old
@@ -333,11 +337,11 @@ Taidjuts and Hoelun the mother of Chingis Kha’khan, where the latter
 gets driven out along with her young kids.
 
 Footnote 2: Jelme was one of the great Mongol generals who saved
-Chingiz’s life when he was struck down by an arrow of his future
-general Jebe in the battle with the Taidjuts. Jelme treated his wound
-and stole curds from the Taidjut camp itself to feed Chingiz and keep
-him alive. He was the brother of Subedai another great Mongol general
-who subjugated the Rus.
+Chingiz’s life when he was struck down by an arrow of his future general
+Jebe in the battle with the Taidjuts. Jelme treated his wound and stole
+curds from the Taidjut camp itself to feed Chingiz and keep him alive.
+He was the brother of Subedai another great Mongol general who
+subjugated the Rus.
 
 Footnote 3: Boerte was the principal wife of Chingiz and is worshiped by
 Mongols as an ancestress along with him. She was the mother of all his
@@ -350,3 +354,4 @@ even as he was trying to lasso Boghorju and recovered the horses.
 Boghorju was the chief commander of the Mongol armies in the northern
 campaigns. Muqali was the other great general who was the chief
 commander in the Chinese campaigns.
+

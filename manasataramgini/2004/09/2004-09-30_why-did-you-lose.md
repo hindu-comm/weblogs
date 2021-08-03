@@ -1,7 +1,11 @@
 +++
 title = "Why did you lose?"
+date = "2004-09-30"
+upstream_url = "https://manasataramgini.wordpress.com/2004/09/30/why-did-you-lose/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/09/30/why-did-you-lose/).
+
 What is it that lies hidden in you they spot?  
 Why is it that they call you Devang Gandhi when you were VVS Laxman?  
 Why is it that you are a hero of the Ranji pitch but deliver no more
@@ -19,3 +23,4 @@ The say “Kambli never learnt to drive…He never became a man” was that
 the cause?
 
 iti parisamAptaM
+

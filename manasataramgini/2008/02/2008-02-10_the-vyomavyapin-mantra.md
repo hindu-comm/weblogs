@@ -1,7 +1,11 @@
 +++
 title = "The vyomavyApin mantra"
+date = "2008-02-10"
+upstream_url = "https://manasataramgini.wordpress.com/2008/02/10/the-vyomavyapin-mantra/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/02/10/the-vyomavyapin-mantra/).
+
 The celebrated mantra of the Urdhva srotas, the vyomvyApin comprises of
 368 syllables. Below is the version I am familiar with. Examination of 3
 manuscripts vy1 from Chidambaram, vy2 from Madurai and vy3 from
@@ -31,11 +35,11 @@ sarva-bhUta-sukha-prada sarva-sAnnidhyakara \[8\]
 brahmA-viShNu-rudra-bhuvana-trayArchita architArchita
 asaMskR^itAsaMskR^ita pUrva-stitha pUrva-stitha sAkShin sAkShin kuru
 kuru pata\~Nga pata\~Nga pi\~Nga pi\~Nga j\~nAna j\~nAna shabda shabda
-sUkShma sUkShma shiva sharva sarvada \[9\] OM namaH shivAya* **
+sUkShma sUkShma shiva sharva sarvada \[9\] OM namaH shivAya*
 
 \[1\] vy2= shivAya anantAya anAthAya anAshR^itAya dhruvAya missing  
 vy1= anAthAya anAshR^itAya dhruvAya missing  
-vy3= anantAya\<-\>AnandAya  
+vy3= anantAya\<->AnandAya  
 \[3\] vy3= just parameshvarAya  
 \[2\] vy2= additional namaH  
 \[4\] vy3= shiva sharva missing  
@@ -47,3 +51,4 @@ vy1= brahmA-viShNu-rudra-para anarchitAnarchita
 \[9\] vy2=OM namo namaH OM namo namaH  
 vy1=OM namo namaH OM shivAya namo namaH  
 vy3=OM namaH shivAya OM namo namaH
+

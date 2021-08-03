@@ -1,7 +1,11 @@
 +++
 title = "The culmination of Galtonism or pandemic days-3"
+date = "2020-04-13"
+upstream_url = "https://manasataramgini.wordpress.com/2020/04/13/the-culmination-of-galtonism-or-pandemic-days-3/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2020/04/13/the-culmination-of-galtonism-or-pandemic-days-3/).
+
 We saw a list of famous elderly people whom the virus has already placed
 in the abode of Vaivasvata at the time of writing. We recognized at
 least two names: (1) Robert Carroll the paleontologist, whose hard to
@@ -18,23 +22,23 @@ Huang.
 
 Figure 1: This is the daily infection curve after the first 35 cases to
 date for selected countries in the
-![\\log\_{10}](https://s0.wp.com/latex.php?latex=%5Clog_%7B10%7D&bg=ffffff&fg=333333&s=0
-"\\log_{10}") scale. One can see that the worst hit countries in Europe,
-Italy and Spain, are turning the curve suggesting that this round of the
-infection has run its course and is flattening. France is on a similar
-trajectory as the other Romance European nations but earlier in the
-game; however, its curve has also probably already begun to turn.
-Germany too, which was hit by a large number of cases but has had fewer
-deaths, has turned the curve suggesting that they have a reasonable
-chance of emerging looking better than the rest. England has done much
-worse than its continental cousin and old enemy Germany. We cannot make
-much of its case load because they are not testing as much. But if what
-we see is a reasonably random sample they could be near a turn.
-England’s bigger cousin across the pond, the US, is also showing signs
-of having begun turning. India, while keeping the infection load
-relatively low is still in the growth phase and it is not clear when the
-turn might happen. South Korea may be seen as the control case where the
-curve has been successfully flattened.
+![\\log\_{10}](https://s0.wp.com/latex.php?latex=%5Clog_%7B10%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+scale. One can see that the worst hit countries in Europe, Italy and
+Spain, are turning the curve suggesting that this round of the infection
+has run its course and is flattening. France is on a similar trajectory
+as the other Romance European nations but earlier in the game; however,
+its curve has also probably already begun to turn. Germany too, which
+was hit by a large number of cases but has had fewer deaths, has turned
+the curve suggesting that they have a reasonable chance of emerging
+looking better than the rest. England has done much worse than its
+continental cousin and old enemy Germany. We cannot make much of its
+case load because they are not testing as much. But if what we see is a
+reasonably random sample they could be near a turn. England’s bigger
+cousin across the pond, the US, is also showing signs of having begun
+turning. India, while keeping the infection load relatively low is still
+in the growth phase and it is not clear when the turn might happen.
+South Korea may be seen as the control case where the curve has been
+successfully flattened.
 
 [![covid19.nplusrSun.Apr.12.2020](https://manasataramgini.files.wordpress.com/2020/04/covid19.nplusrsun.apr_.12.2020.png?w=617&h=540)](https://manasataramgini.files.wordpress.com/2020/04/covid19.nplusrsun.apr_.12.2020.png)
 
@@ -51,7 +55,7 @@ Now, let us take a closer look at Italy for which was the first to be
 hit in Europe and for which I was able to find detailed data made
 available on GitHub by Umberto Rosini et al:
 
-[![italy\_mort.Sun.Apr.12.2020](https://manasataramgini.files.wordpress.com/2020/04/italy_mort.sun_.apr_.12.2020.png?w=653&h=475)](https://manasataramgini.files.wordpress.com/2020/04/italy_mort.sun_.apr_.12.2020.png)
+[![italy_mort.Sun.Apr.12.2020](https://manasataramgini.files.wordpress.com/2020/04/italy_mort.sun_.apr_.12.2020.png?w=653&h=475)](https://manasataramgini.files.wordpress.com/2020/04/italy_mort.sun_.apr_.12.2020.png)
 
 Figure 3. The daily progression of various disease statistics is
 presented starting from 24th Feb 2020. On Mon Mar 09 2020 after a steady
@@ -99,13 +103,13 @@ writing. Let us assume that the true infected numbers are 50 times the
 detected cases: in our opinion a reasonably relaxed assumption for the
 asymptomatics and those not tested (taking that Gangelt study at face
 value: in reality could lower). That means ![\\approx
-13\\%](https://s0.wp.com/latex.php?latex=%5Capprox+13%5C%25&bg=ffffff&fg=333333&s=0
-"\\approx 13\\%") of the population of Italy has been infected. Let us
-next assume they are all immune to the disease in the near future. That
-is a lot but still not enough to give you the so-called herd immunity.
-Hence, we have our doubts that even assuming massive under-detection
-Italy has reached state of herd immunity against this virus, which would
-need 50-70% of the population to be immune.  
+13\\%](https://s0.wp.com/latex.php?latex=%5Capprox+13%5C%25&bg=ffffff&fg=333333&s=0&c=20201002)
+of the population of Italy has been infected. Let us next assume they
+are all immune to the disease in the near future. That is a lot but
+still not enough to give you the so-called herd immunity. Hence, we have
+our doubts that even assuming massive under-detection Italy has reached
+state of herd immunity against this virus, which would need 50-70% of
+the population to be immune.  
 (3) The presence of antibodies does not necessarily mean complete
 immunity: we still do not have a clear idea of: (i) how protective are
 these antibodies; (ii) how dependent is such immunity on infection dose;
@@ -119,19 +123,19 @@ risk to at least some countries (more on this below).
 All these are considerations at the gross country level but what about
 more circumscribed systems like New York City? 103208 people in this
 giant city of ![\\approx 8.242624 \\times
-10^6](https://s0.wp.com/latex.php?latex=%5Capprox+8.242624+%5Ctimes+10%5E6&bg=ffffff&fg=333333&s=0
-"\\approx 8.242624 \\times 10^6") were reported as being infected at the
-time of writing. That makes it ![\\approx
-1.25\\%](https://s0.wp.com/latex.php?latex=%5Capprox+1.25%5C%25&bg=ffffff&fg=333333&s=0
-"\\approx 1.25\\%") of the city. Now, if they were under-testing by 50
-times then the city might be closer to herd immunity. However, given
-that they comprise roughly 15% of the tests done in the US, they are
-likely not under-testing by 50 times but perhaps more like 15 times. So,
-even in NYC probably only about 18..20% of the population has been
-infected, which is still short of herd immunity. Serological tests will
-tell us how far these estimates are from the reality. In light of all
-this uncertainty, as the Lebanese thinker N. N. Taleb has often pointed
-out, there is much reason to be conservative and cautious, i.e., keep
+10^6](https://s0.wp.com/latex.php?latex=%5Capprox+8.242624+%5Ctimes+10%5E6&bg=ffffff&fg=333333&s=0&c=20201002)
+were reported as being infected at the time of writing. That makes it
+![\\approx
+1.25\\%](https://s0.wp.com/latex.php?latex=%5Capprox+1.25%5C%25&bg=ffffff&fg=333333&s=0&c=20201002)
+of the city. Now, if they were under-testing by 50 times then the city
+might be closer to herd immunity. However, given that they comprise
+roughly 15% of the tests done in the US, they are likely not
+under-testing by 50 times but perhaps more like 15 times. So, even in
+NYC probably only about 18..20% of the population has been infected,
+which is still short of herd immunity. Serological tests will tell us
+how far these estimates are from the reality. In light of all this
+uncertainty, as the Lebanese thinker N. N. Taleb has often pointed out,
+there is much reason to be conservative and cautious, i.e., keep
 over-reacting rather than the opposite in the coming days despite the
 fatigue we are facing.
 
@@ -229,27 +233,27 @@ principle be a factor in the resistance to the Wuhan disease in India.
 Our review of the BCG immunology revealed that a lot of good stuff seems
 to happen upon vaccination: First, the adaptive T-cell based immune
 response involving both CD4+ and CD8+ T cells with
-Interferon-![\\gamma](https://s0.wp.com/latex.php?latex=%5Cgamma&bg=ffffff&fg=333333&s=0
-"\\gamma") production and enhancement of anti-mycobacterial activity of
-macrophages occurs. This
-IFN-![\\gamma](https://s0.wp.com/latex.php?latex=%5Cgamma&bg=ffffff&fg=333333&s=0
-"\\gamma") also activates B-cell based immunity via antibody generation
-against the TB actinobacterium. Second, 1-2 months after BCG vaccination
-there is induction long-lived memory B cells that can provide long-term
-TB protection. More non-specifically, it might also induce IgG and IgA
+Interferon-![\\gamma](https://s0.wp.com/latex.php?latex=%5Cgamma&bg=ffffff&fg=333333&s=0&c=20201002)
+production and enhancement of anti-mycobacterial activity of macrophages
+occurs. This
+IFN-![\\gamma](https://s0.wp.com/latex.php?latex=%5Cgamma&bg=ffffff&fg=333333&s=0&c=20201002)
+also activates B-cell based immunity via antibody generation against the
+TB actinobacterium. Second, 1-2 months after BCG vaccination there is
+induction long-lived memory B cells that can provide long-term TB
+protection. More non-specifically, it might also induce IgG and IgA
 production against other pathogens. Third, it seems to have a complex
 role in regulating various immune responses, such as one hand inducing
 TH1/TH17 responses to unrelated pathogens. On the other it might induce
 a Treg based immunomodulation or one where activated CD4+ T cells
 undergo
-IFN-![\\gamma](https://s0.wp.com/latex.php?latex=%5Cgamma&bg=ffffff&fg=333333&s=0
-"\\gamma")-induced apoptosis. This could control the hypercytokinenemia
-seen in SARS-CoV-2 pathology — indeed BCG has shown promise in certain
-autoimmune conditions. There could be other actions that we poorly
-understand like the immunity-enhancing roles of *Mycobacterium indicus
-pranii* or *Mycobacterium vaccae*. Indeed, we have wondered if M. vaccae
-might have general health benefits that can be widely exploited further
-along with a BCG vaccination.
+IFN-![\\gamma](https://s0.wp.com/latex.php?latex=%5Cgamma&bg=ffffff&fg=333333&s=0&c=20201002)-induced
+apoptosis. This could control the hypercytokinenemia seen in SARS-CoV-2
+pathology — indeed BCG has shown promise in certain autoimmune
+conditions. There could be other actions that we poorly understand like
+the immunity-enhancing roles of *Mycobacterium indicus pranii* or
+*Mycobacterium vaccae*. Indeed, we have wondered if M. vaccae might have
+general health benefits that can be widely exploited further along with
+a BCG vaccination.
 
 Whatever the case, so far the basic growth of the Wuhan disease in India
 is at a lower rate. However, in India it has become a weapon for

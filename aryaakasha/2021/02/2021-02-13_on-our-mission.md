@@ -1,8 +1,11 @@
 +++
 title = "On Our Mission"
-date = "February 13, 2021"
+date = "2021-02-13"
+upstream_url = "https://aryaakasha.com/2021/02/13/on-our-mission/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/02/13/on-our-mission/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/02/curwen-rudraabhishek-ie.jpg?w=1024)
 
   

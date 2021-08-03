@@ -1,7 +1,11 @@
 +++
 title = "A case report in bhUtavidyA"
+date = "2013-01-02"
+upstream_url = "https://manasataramgini.wordpress.com/2013/01/02/a-case-report-in-bhutavidya/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/01/02/a-case-report-in-bhutavidya/).
+
 S has a remarkable collection of tales concerning her observations at
 the interface between disease, folk tAntrika ritual and the high realms
 of mantra prayoga. With her permission I retell a few. She had agreed to
@@ -58,12 +62,13 @@ patient that it might better if she goes to her parents house and stay
 there for a month so that she is away from the “abhichAra” while
 simultaneously prescribing her chlorpromazine tablets. By doing this S
 reasoned she would be additionally breaking off any stimulus caused by
-“association with the locus”. S said she sort of fooled her patient
-into saying that her treatment will not be complete unless she saw S
-again after a month for a final “golI”. She feared that if she was
-effectively cured she might never see her again and she would lose
-closure on an interesting case. S noted that the prescribed action
-resulted in apparently complete remission. However, S said that she got
-a shelling from her higher-up for such “indiscriminate” treatment with
-an anti-psychotic, but she said she hardly cared as she was happy with
-her results.
+“association with the locus”. S said she sort of fooled her patient into
+saying that her treatment will not be complete unless she saw S again
+after a month for a final “golI”. She feared that if she was effectively
+cured she might never see her again and she would lose closure on an
+interesting case. S noted that the prescribed action resulted in
+apparently complete remission. However, S said that she got a shelling
+from her higher-up for such “indiscriminate” treatment with an
+anti-psychotic, but she said she hardly cared as she was happy with her
+results.
+

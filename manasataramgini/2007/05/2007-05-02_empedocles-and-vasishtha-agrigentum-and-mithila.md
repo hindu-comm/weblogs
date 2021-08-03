@@ -1,12 +1,16 @@
 +++
 title = "Empedocles and vasiShTha : Agrigentum and Mithila"
+date = "2007-05-02"
+upstream_url = "https://manasataramgini.wordpress.com/2007/05/02/empedocles-and-vasishtha-agrigentum-and-mithila/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/05/02/empedocles-and-vasishtha-agrigentum-and-mithila/).
+
 τέσσαρα γὰρ πάντων ῥιζώματα πρῶτον ἄκουε·  
 Ζεὺς ἀργὴς Ἥρη τε φερέσβιος ἠδ’ Ἀιδωνεύς  
 Νῆστίς θ’, ἣ δακρύοις τέγγει κρούνωμα βρότειον.
 
-And first the fourfold root of all things hear\!—  
+And first the fourfold root of all things hear!—  
 White gleaming Zeus, life-bringing Hera, Aidoneus,  
 And Nestis whose tears bedew mortality.
 
@@ -176,3 +180,4 @@ karmendriya-s floating about and aggregating to form the tiryagyoni-s in
 the sAmkhya theories :)).
 
 Thus, in a sense they were close to the truth in a funny unexpected way.
+

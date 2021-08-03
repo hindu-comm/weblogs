@@ -1,23 +1,27 @@
 +++
 title = "The beginnings of revatI: The vaidika elements"
+date = "2008-12-04"
+upstream_url = "https://manasataramgini.wordpress.com/2008/12/04/the-beginnings-of-revati-the-vaidika-elements/"
 
 +++
-*pathyA revatIr bahudhA virUpAH sarvAH sa\~Ngatya varivas te akran |  
-tAs tvA sarvAH saMvidAnA hvayantu dashamIm ugraH sumanA vasheha ||**A*V
-6.4.7; AV-P 3.1.7  
+Source: [here](https://manasataramgini.wordpress.com/2008/12/04/the-beginnings-of-revati-the-vaidika-elements/).
+
+*pathyA revatIr bahudhA virUpAH sarvAH sa\~Ngatya varivas te akran \|  
+tAs tvA sarvAH saMvidAnA hvayantu dashamIm ugraH sumanA vasheha
+\|\|**A*V 6.4.7; AV-P 3.1.7  
 The revatI-s of the path of several diverse forms, have all assembled
 and made extensive wealth for you;  
 Let them all in agreement call you, reside here with good mind and
 strength to the tenth decade of life.
 
-*svasti pathye revati |* RV5.51.14b  
+*svasti pathye revati \|* RV5.51.14b  
 May revatI of the path confer safety on us.
 
 In the kAshyapa saMhitA/tantra we see revatI emerging as a major goddess
 associated with skanda and with several distinctive features. This
 raises the question of her earlier evolution – was she from a
-“para-vedic” Aryan system (i.e. Indo-Aryan, Iranian or a lost branch
-not contributing to the vedic saMhitA-s or brAhmaNa-s), as we argued for
+“para-vedic” Aryan system (i.e. Indo-Aryan, Iranian or a lost branch not
+contributing to the vedic saMhitA-s or brAhmaNa-s), as we argued for
 kumAra, (i.e. marut-s as “para-skanda”)? Or was she directly drawn from
 the vedic stream? All indications are that she was a well-known but
 less-hymned deity in the vedic saMhitA-s. Scattered mantra-s to her are
@@ -65,7 +69,7 @@ reminder of rice for the further oblations to the goddesses. He goes out
 of his village in the eastern or northern direction and at a four-cross
 (chatuShpatha) he installs a sthaNDila and kindles the fire. Then he
 makes oblations with the reminder of the rice with the mantra from the
-mantra brAhmaNa (2.6.2-5) to rAkA, sinIvAlI and revatI. The viShNu
+mantra brAhmaNa (2.6.2-5) to rAkA, sinIvAlI and revatI.The viShNu
 smR^iti, which is derived from the kaTha tradition of the kR^iShNa
 yajurveda mentions a rite for the pacification of the goddess revatI,
 which is performed every month when the moon is in the asterism of
@@ -80,24 +84,24 @@ puShA is replaced by that to the 3 goddess including revatI. In the
 recitation for the nakShatreShTi from taittirIya brAhmaNa (3.1.27) we
 note that the constellation named revatI is associated with puShan and
 they are called upon to protect the paths, animals and food:  
-* puShA revaty anveti panthAm | puShTipatI pashupA vAjabastyau | imAni
-havyA prayatA juShANA | sugair no yAnairupayAtAM yaj\~nam | kShudrAn
-pashUn rakShatu revatI naH | gAvo no ashvAGM anvetu pUShA | annaGM
-rakShantau bahudhA virUpam | vAjaGM sanutAM yajamAnAya yaj\~nam ||*  
+* puShA revaty anveti panthAM \| puShTipatI pashupA vAjabastyau \| imAni
+havyA prayatA juShANA \| sugair no yAnairupayAtAM yaj\~naM \| kShudrAn
+pashUn rakShatu revatI naH \| gAvo no ashvAGM anvetu pUShA \| annaGM
+rakShantau bahudhA virUpaM \| vAjaGM sanutAM yajamAnAya yaj\~nam \|\|*  
 In the atharvavedic chant of the gods’ wives recited by the agnIdhra,
 revatI as pathyA is mentioned as the wife of puShan (gopatha brAhmaNa
 2.2.9):  
-*pR^ithivy agneḥ patnI | vAg vAtasya patnI | senendrasya patnI | dhenA
-bR^ihaspateH patnI | \*pathyA pUShNaH patnI\* | gAyatrI pashUnAM patnI |
-triShTub rudrANAM patnI | jagaty AdityAnAM patnI | anuShTum mitrasya
-patnI | virAD varuNasya patnI | pa\~Nktir viShNoH patnI | dIkShA somasya
-rAj\~naH patnI |*|  
+*pR^ithivy agneḥ patnI \| vAg vAtasya patnI \| senendrasya patnI \|
+dhenA bR^ihaspateH patnI \| \*pathyA pUShNaH patnI\* \| gAyatrI pashUnAM
+patnI \| triShTub rudrANAM patnI \| jagaty AdityAnAM patnI \| anuShTum
+mitrasya patnI \| virAD varuNasya patnI \| pa\~Nktir viShNoH patnI \|
+dIkShA somasya rAj\~naH patnI \|*\|  
 The astronomical connection between pUShan and revatI suggested by the
 nakShatreShTi ritual might in some ways mirror the later connection
 between skanda and revatI (i.e. the source of the connection is
 astronomical – the constellations depicting skanda, nejameSha and revatI
 lie next to each other in the
-[sky.](http://photos1.blogger.com/photoInclude/x/blogger2/6438/855/1600/418809/nakShatra_nyAsa1.png) [ ](http://photos1.blogger.com/photoInclude/x/blogger2/6438/855/1600/418809/nakShatra_nyAsa1.png)Even
+[sky.](http://photos1.blogger.com/photoInclude/x/blogger2/6438/855/1600/418809/nakShatra_nyAsa1.png)[](http://photos1.blogger.com/photoInclude/x/blogger2/6438/855/1600/418809/nakShatra_nyAsa1.png)Even
 in the AV revatI and kR^ittikA are mentioned together). This
 astronomical connection seems to persists in later times where we see a
 goddess with pair of fish throughout India depicted in terracottas and
@@ -108,11 +112,12 @@ subtle astronomical references relating pUShan which I tentatively and
 speculatively point to as the beginning of the connection with kumAra.
 These are found in the RV itself in the mantra-s of medhAtithi kANva (RV
 1.23.13-15):  
-* A pUSha\~n chitrabarhiSham AghR^iNe dharuNaM divaH | AjA naShTaM yathA
-pashum ||  
-pUShA rAjAnam AghR^iNir apagULhaM guhA hitam | avindach chitrabarhiSham
-||  
-uto sa mahyam indubhiH ShaD yuktAn anuseShidhat | gobhir yavaM na
-charkR^iShat ||*  
+* A pUSha\~n chitrabarhiSham AghR^iNe dharuNaM divaH \| AjA naShTaM
+yathA pashum \|\|  
+pUShA rAjAnam AghR^iNir apagULhaM guhA hitam \| avindach chitrabarhiSham
+\|\|  
+uto sa mahyam indubhiH ShaD yuktAn anuseShidhat \| gobhir yavaM na
+charkR^iShat \|\|*  
 While the complete interpretation of these R^ik-s is a story in itself
 one may ponder upon the words: chitrabarhiSh, guhA and ShaD yuktaM.
+

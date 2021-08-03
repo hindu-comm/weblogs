@@ -1,7 +1,11 @@
 +++
 title = "naming of the initiates as per the classic siddhAnta tantras"
+date = "2006-10-07"
+upstream_url = "https://manasataramgini.wordpress.com/2006/10/07/naming-of-the-initiates-as-per-the-classic-siddhanta-tantras/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/10/07/naming-of-the-initiates-as-per-the-classic-siddhanta-tantras/).
+
 The siddhAnta tantrics receive their names as per a fixed procedure:
 After the student receives mantra dIkSha from the preceptor, s/he is
 taken to the central kumbha in which shiva has been invoked earlier.
@@ -16,3 +20,4 @@ is deva (e.g. bhoja-deva, trilochana-deva, ishAna-deva etc.), if he is a
 vaishya or shUdra a suffix of gaNa is added (e.g mUrtigaNa, shaMkara
 gaNa etc.). If the student is a woman then she receives and additional
 suffix shakti (e.g .tryaMbakadevashakti).
+

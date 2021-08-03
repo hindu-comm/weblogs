@@ -1,8 +1,11 @@
 +++
 title = "Against Freudian Myth-Interpretations"
-date = "January 13, 2020"
+date = "2020-01-13"
+upstream_url = "https://aryaakasha.com/2020/01/13/against-freudian-myth-interpretations/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/01/13/against-freudian-myth-interpretations/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/01/83022680_1567246540080871_6759382366092787712_n.jpg?w=190)
 
 Mircea Eliade on the prominence of ‘Freudian’ interpretations of

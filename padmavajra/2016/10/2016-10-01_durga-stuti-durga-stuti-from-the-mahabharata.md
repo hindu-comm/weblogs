@@ -1,8 +1,11 @@
 +++
-title = "Durgā stuti (durgA stuti) (from thexa0Mahabharata)"
-date = "2016-10-01"
+title = "Durgā stuti (durgA stuti) (from the Mahabharata)"
+date = "2016-01-10"
+upstream_url = "https://padmavajra.net/2016/10/01/durga-stuti-durga-stuti-from-the-mahabharata/"
 
 +++
+Source: [here](https://padmavajra.net/2016/10/01/durga-stuti-durga-stuti-from-the-mahabharata/).
+
 (From the 7th *adhyaya(adhyaya)* of the
 *pāṇḍava-praveśa-parva(pANDava-pravesha-parva)* of the
 *virāṭa-parva(virATa-parva)*)

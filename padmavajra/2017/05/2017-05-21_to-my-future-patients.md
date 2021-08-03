@@ -1,8 +1,11 @@
 +++
-title = "To my futurexa0patients"
+title = "To my future patients"
 date = "2017-05-21"
+upstream_url = "https://padmavajra.net/2017/05/21/to-my-future-patients/"
 
 +++
+Source: [here](https://padmavajra.net/2017/05/21/to-my-future-patients/).
+
 You(and your illnesses) rile me up! By pacifying and treating you, I do
 what is necessary and get what’s due to you….
 

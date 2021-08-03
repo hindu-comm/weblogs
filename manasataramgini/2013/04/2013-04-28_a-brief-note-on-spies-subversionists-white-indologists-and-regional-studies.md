@@ -1,7 +1,11 @@
 +++
 title = "A brief note on spies, subversionists, white indologists and “regional studies”"
+date = "2013-04-28"
+upstream_url = "https://manasataramgini.wordpress.com/2013/04/28/a-brief-note-on-spies-subversionists-white-indologists-and-regional-studies/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/04/28/a-brief-note-on-spies-subversionists-white-indologists-and-regional-studies/).
+
 While today the US, as the leader of the leukosphere, is renowned for
 its intelligence and subversion operations all over the world, it has
 acquired this capability relatively recently in historical terms.
@@ -121,8 +125,8 @@ the world is divided into several areas and American experts gather and
 systematize information in each of these areas. While this movement
 gathered steam in Washington after WW2 it moved to the Ivy League
 departments along with the individual scholars. Thus, with Brown the
-“Area studies” department focused on bhArata developed at Penn, which
-he originally termed “India: A Program of Regional Studies”. But in the
+“Area studies” department focused on bhArata developed at Penn, which he
+originally termed “India: A Program of Regional Studies”. But in the
 coming years as the partition and independence followed the area was
 designated geographically as “South Asia” and the program became one of
 South Asian studies. While seemingly innocuous, this was later to be a
@@ -193,7 +197,7 @@ Freedom Report…*
 relationship with NGOs working on human rights issues and on religious
 tolerance. NGOs often criticize state bodies for not doing enough to
 deal with extremism. In Gujarat in particular, NGOs have pointed out
-just how widespread the state was involved in the fueling of the 2002
+just howwidespread the state was involved in the fueling of the 2002
 riots and how it has failed to bring those responsible to justice. We
 tend to support such NGO views on Gujarat.”*
 
@@ -205,3 +209,4 @@ realized](https://manasataramgini.wordpress.com/2008/09/27/watching-the-kantaka-
 from the pattern of the response that these mlechCha forces were
 involved in supporting the Mohammedans within India and attacking
 Hindus, such as during the events following the train Jihad in Gujarat.
+

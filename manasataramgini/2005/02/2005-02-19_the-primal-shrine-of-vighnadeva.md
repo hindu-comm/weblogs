@@ -1,16 +1,20 @@
 +++
 title = "The primal shrine of vighnadeva"
+date = "2005-02-19"
+upstream_url = "https://manasataramgini.wordpress.com/2005/02/19/the-primal-shrine-of-vighnadeva/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/02/19/the-primal-shrine-of-vighnadeva/).
+
 We pay obscience to the terrible medholka, who is surrounded by the
 eight extraordinarily beautiful goddesses clad in shimmering blue silks:
 tIvrA, chAlini, nandA, bhogadA, kAmarUpiNi, ugrA, tejovatI, satyA and is
 embraced by vighnanAshini who is seated beside him.
 
 oM rAyaspoShasya dadhitA nidhido ratnadhAtumAn rakShohaNo valagahano
-vakratuNDAya hum ||  
-medholkAya svAhA ||  
-oM hrIM grIM hrIm ||
+vakratuNDAya huM\|\|  
+medholkAya svAhA\|\|  
+oM hrIM grIM hrIM\|\|
 
 Having worshipped the awful one-tusked son of rudra by the Punya river,
 the Kashi of the gANapatyas, we saw him in the embrace of the delightful
@@ -111,4 +115,5 @@ ended his reign.
 
 He then handed the peacock to his brother kumAra as his vAhana.
 
-medholkAya svAha ||
+medholkAya svAha\|\|
+

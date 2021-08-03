@@ -1,7 +1,11 @@
 +++
 title = "rAmAnujAchArya’s encounter with the chera magicians"
+date = "2005-04-26"
+upstream_url = "https://manasataramgini.wordpress.com/2005/04/26/ramanujacharyas-encounter-with-the-chera-magicians/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/04/26/ramanujacharyas-encounter-with-the-chera-magicians/).
+
 A chera magician, who was well-versed in the bhUta and bhairava tantras
 had mentioned that his spells were often unable to penetrate anywhere
 near the vicinity of the anantapadmanAbha temple in the chera country.
@@ -21,3 +25,4 @@ party during the night even as they were sleeping and cast them away
 somewhere. When they woke up they were shocked to see that they were
 lying in the outskirts of Kanchi. Never again did rAmAnuja visit the
 shrine after that.
+

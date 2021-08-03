@@ -1,8 +1,11 @@
 +++
-title = "On the Imperial Hittite Double Eagle And Its Indo-Europeanxa0Symbolism"
-date = "July 13, 2020"
+title = "On the Imperial Hittite Double Eagle And Its Indo-European Symbolism"
+date = "2020-07-13"
+upstream_url = "https://aryaakasha.com/2020/07/13/on-the-imperial-hittite-double-eagle-and-its-indo-european-symbolism/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/07/13/on-the-imperial-hittite-double-eagle-and-its-indo-european-symbolism/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/07/36972278_235529063726092_3308446456666390528_n.jpg)
 
 \[Author’s Note: This piece was written in July 2018; we had omitted to

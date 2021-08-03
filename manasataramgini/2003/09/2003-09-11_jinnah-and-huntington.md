@@ -1,7 +1,11 @@
 +++
 title = "Jinnah and Huntington"
+date = "2003-09-11"
+upstream_url = "https://manasataramgini.wordpress.com/2003/09/11/jinnah-and-huntington/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/09/11/jinnah-and-huntington/).
+
 Often, certain Hindus labor under the belief that they have a superior
 understanding of Christianism and Mohammedanism than the Christians and
 Mohammedans themselves. This was never more clear than in the case of
@@ -48,3 +52,4 @@ It is time Hindus pay more careful attention to the existence of
 alternative geometries where the relationships which are true in their
 world may not exist. The late Ram Swarup had initiated this re-thinking
 but his deep thoughts are yet to permeate through the Hindu masses.
+

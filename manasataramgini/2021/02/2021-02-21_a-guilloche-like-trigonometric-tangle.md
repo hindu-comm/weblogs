@@ -1,8 +1,11 @@
 +++
-title = "A guilloche-like trigonometricxa0tangle"
+title = "A guilloche-like trigonometric tangle"
 date = "2021-02-21"
+upstream_url = "https://manasataramgini.wordpress.com/2021/02/21/a-guilloche-like-trigonometric-tangle/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2021/02/21/a-guilloche-like-trigonometric-tangle/).
+
 Coprimality, i.e., the situation where the GCD of 2 integers is 1 is one
 of the fundamental expressions of complexity. In that situation, two
 numbers can never contain the other within themselves or in multiples of

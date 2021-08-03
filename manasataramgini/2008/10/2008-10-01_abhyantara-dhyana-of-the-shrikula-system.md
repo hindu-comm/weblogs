@@ -1,11 +1,15 @@
 +++
 title = "Abhyantara dhyAna of the shrIkula system."
+date = "2008-10-01"
+upstream_url = "https://manasataramgini.wordpress.com/2008/10/01/abhyantara-dhyana-of-the-shrikula-system/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/10/01/abhyantara-dhyana-of-the-shrikula-system/).
+
 *taDil-lekhA-tanvIM tapana-shashi-vaishvAnara-mayIM  
-niShaNNAM ShaNNAm apy upari kamalAnAM tava kalAm |  
+niShaNNAM ShaNNAm apy upari kamalAnAM tava kalAm \|  
 mahA-padmATavyAM mR^idita-mala-mAyena manasA  
-mahAntaH pashyanto dadhati paramAhlAda-laharIm || Sau21 ||*  
+mahAntaH pashyanto dadhati paramAhlAda-laharIm \|\| Sau21 \|\|*  
 With a body of the form of a lightning streak, constituted of the sun,
 the moon and fire, verily seated above the six lotuses is your kalA.
 Roving in the great lotus with minds having suppressed the filth and
@@ -15,7 +19,7 @@ Series of successive dissolutions goes thus:
 ka – viShu; e- mUlAdhAra; i- maNipUra; la-svAdiShThAna; hrIM-anAhata;
 ha-vishuddhi; sa-lambikAgra; ka-Aj\~nA; ha-indu; la-ardhachandra;
 hrIM-rodhinI; sa-nAda; ka-nAdAnta; la-shakti;
-hrIM-vyApikA-\>samAnA-\>unmanA-\>kulapadma  
+hrIM-vyApikA->samAnA->unmanA->kulapadma  
 The dissolution of the final syllable of the kula-vidyA occurs in a
 triangular yoni with its vertices marked by sUrya, agni and soma in the
 vyApikA. The sUrya then dissolves into the agni in the samAnA, then agni
@@ -29,3 +33,4 @@ represented a new development beyond the ancestral system of bAlA. Of
 course, within the shrIkula system there was another parallel system,
 namely that of tripura-bhairavI that represents another distinct path of
 discovery.
+

@@ -1,7 +1,11 @@
 +++
 title = "Retrospections on the curtain-raiser to the long past Great War 1"
+date = "2008-02-13"
+upstream_url = "https://manasataramgini.wordpress.com/2008/02/13/retrospections-on-the-curtain-raiser-to-the-long-past-great-war-1/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/02/13/retrospections-on-the-curtain-raiser-to-the-long-past-great-war-1/).
+
 It was a year before the great abhichAra of dashAnta had struck us. We
 noticed that our forgettable acquaintance satya-druha who had been
 cursed by the deva-s was caught by something, much like bhIma by the
@@ -16,8 +20,8 @@ spiraling towards a pit of ignorance, surrounded by fiendish companions
 like palita-tvacha, bR^ihat-sphik, sphig-shiras and pANDu-kR^isha. Then,
 the primary inspirations filtered in like first rays of dawn banishing
 the last dark hour:  
-1\) We began to enter the minds of our ancestors the mantra dR^iShTa-s
-of yore for the first time. The deva-s started unveiling themselves: the
+1) We began to enter the minds of our ancestors the mantra dR^iShTa-s of
+yore for the first time. The deva-s started unveiling themselves: the
 upward blaze of agni in the three stations, the power of vAyu, the
 all-encompassing indra, the natural conservations of mitra, the natural
 laws whose violations are punished by varuNa, the exhilaration of
@@ -98,3 +102,4 @@ encompassing gaganA with the great knowledge in the sky, svarasA with
 that knowledge which led us on the higher quests and mati. It was then
 we also had a glimpse of the rahasya-s of chanDogra-kAlI, the great
 shUlinI, mahA-nIlA with her fierce hordes and the terrifying shivadUtI.
+

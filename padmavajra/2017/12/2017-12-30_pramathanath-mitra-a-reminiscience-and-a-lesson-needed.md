@@ -1,8 +1,11 @@
 +++
-title = "Pramathanath Mitra -a reminiscience and a lessonxa0needed"
+title = "Pramathanath Mitra -a reminiscience and a lesson needed"
 date = "2017-12-30"
+upstream_url = "https://padmavajra.net/2017/12/30/pramathanath-mitra-a-reminiscience-and-a-lesson-needed/"
 
 +++
+Source: [here](https://padmavajra.net/2017/12/30/pramathanath-mitra-a-reminiscience-and-a-lesson-needed/).
+
 So I decided to translate the article linked here,a [reminiscence on a
 founder of the Anushilan
 Samiti](https://www.facebook.com/photo.php?fbid=10213362278124748&set=a.2758188727213.130215.1632611047&type=3)

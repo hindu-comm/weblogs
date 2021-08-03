@@ -1,7 +1,11 @@
 +++
 title = "Categories of Hindus"
+date = "2004-09-23"
+upstream_url = "https://manasataramgini.wordpress.com/2004/09/23/categories-of-hindus/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/09/23/categories-of-hindus/).
+
 She said would only marry ranganAtha. In a dream the triple-strider
 appeared to her father and asked him to send her decked in wedding
 attire to his shrine. Even as she neared the shrirangaM her father was
@@ -98,3 +102,4 @@ between the tantra and veda. I term the former the path of the brAhmaNa.
 The latter is the path of the shUdra. But the interesting part is that
 both have co-existed since the earliest reconstructions of the
 Indo-European society.
+

@@ -1,8 +1,11 @@
 +++
-title = "On Pausanias At Plataea And Dost Mohammed In Afghanistan – The Recurrence Of The Incomprehensibility Of Imperialxa0Over-Extension"
-date = "August 12, 2020"
+title = "On Pausanias At Plataea And Dost Mohammed In Afghanistan – The Recurrence Of The Incomprehensibility Of Imperial Over-Extension"
+date = "2020-08-12"
+upstream_url = "https://aryaakasha.com/2020/08/12/on-pausanias-at-plataea-and-dost-mohammed-in-afghanistan-the-recurrence-of-the-incomprehensibility-of-imperial-over-extension/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/08/12/on-pausanias-at-plataea-and-dost-mohammed-in-afghanistan-the-recurrence-of-the-incomprehensibility-of-imperial-over-extension/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/08/68747787_10162126363575574_8141279198703517696_n.jpg?w=492)
 
 I’m writing something atm that’s tangentially to do with the First

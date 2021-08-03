@@ -1,8 +1,11 @@
 +++
-title = "Homosexuality and the Germanicxa0Weltanschauung"
-date = "July 30, 2020"
+title = "Homosexuality and the Germanic Weltanschauung"
+date = "2020-07-30"
+upstream_url = "https://aryaakasha.com/2020/07/30/homosexuality-and-the-germanic-weltanschauung/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/07/30/homosexuality-and-the-germanic-weltanschauung/).
+
 Within the Germanic Faith we often face attacks and attempts at censor
 from various currents of society who would seek to identify us as
 divergent or even dangerous to the accepted ideas and behavior of modern

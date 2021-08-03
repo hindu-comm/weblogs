@@ -1,22 +1,26 @@
 +++
 title = "Macranthropy and the saMbandha-s between microcosm and macrocosm"
+date = "2012-09-21"
+upstream_url = "https://manasataramgini.wordpress.com/2012/09/21/macranthropy-and-the-sambandha-s-between-microcosm-and-macrocosm/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/09/21/macranthropy-and-the-sambandha-s-between-microcosm-and-macrocosm/).
+
 May we first invoke indra that he might drive away the obstructions to
 the study:
 
-vajraM yash chakre suhanAya dasyave hirImasho hirImAn |  
-arutahanur adbhutaM na rajaH ||
+vajraM yash chakre suhanAya dasyave hirImasho hirImAn \|  
+arutahanur adbhutaM na rajaH \|\|
 
 The thunderbolt, which he of golden mane and golden frame bore down for
 the sound smiting of the dasyu-s; \[he\] with a bold jaw is wondrous as
 the \[entire\] heavens.
 
 yash ChandasAm R^iShabho vishvarUpash Chandobhyash ChandA.gsy Avivesha
-|  
+\|  
 sachA.gM shikyaH puro vAchopaniShad indro jyeShTha indriyAya
 R^iShibhyo  
-namo devebhyas svadhA pitR^ibhyo bhUr-bhuvas-suvash Chanda Om ||
+namo devebhyas svadhA pitR^ibhyo bhUr-bhuvas-suvash Chanda OM \|\|
 
 That universe-encompassing bull among the veda-chants, who described by
 the chants and pervades the chants, present before all, the first in
@@ -80,16 +84,16 @@ fire.*
 
 The veda can sometimes be pithy and presents a comparable concept
 regarding indra thus (a mantra composed by gR^itsamada shunahotra):  
-yasmAn na R^ite vijayante janAso yaM yudhyamAnA avase havante |  
-yo vishvasya pratimAnam babhUva yo achyutachyut sa janAsa indraH || (RV
-2.012.09)
+yasmAn na R^ite vijayante janAso yaM yudhyamAnA avase havante \|  
+yo vishvasya pratimAnam babhUva yo achyutachyut sa janAsa indraH \|\|
+(RV 2.012.09)
 
 The key phrase being: “yo vishvasya pratimAnam babhUva”; The universe
 came to being as his form. In the vaidika incantation there are several
 expressions for the universal or all-encompassing form of indra. For
 example we encounter one such in the mantra:  
-A rodasI apR^iNAd ota madhyam pa\~ncha devAM R^itushaH sapta-sapta |  
-chatus-triMshatA purudhA vi chaShTe sarUpeNa jyotiShA vivratena || (RV
+A rodasI apR^iNAd ota madhyam pa\~ncha devAM R^itushaH sapta-sapta \|  
+chatus-triMshatA purudhA vi chaShTe sarUpeNa jyotiShA vivratena \|\| (RV
 10.055.03)
 
 In this highly cryptic hymn with astronomical allusions indra is
@@ -107,7 +111,7 @@ ma indrash cha me viShNush cha ma indrash cha me .ashvinau cha ma
 indrash cha me marutash cha ma indrash cha me vishve cha me devA
 indrashcha me pR^ithivI cha ma indrash cha me .antarIkShaM cha ma
 indrash cha me dyaush cha ma indrash cha me dishash cha ma indrashcha me
-mUrdhA cha ma indrash cha me prajApatish cha ma indrash cha me ||
+mUrdhA cha ma indrash cha me prajApatish cha ma indrash cha me \|\|
 
 Expression of macranthropy explicitly similar to those seen above in the
 Orphic hymn however start emerging in the somewhat later layers of
@@ -117,40 +121,40 @@ the bR^ihadAraNyaka opens, and the AtmasUkta of the vaikhAnasa-s. Of
 these, an early macranthropic representation, seen right in the R^igveda
 itself, is that of the personified mantra power: RV 10.125. Here,
 interestingly, the macranthropic manifestation is represented as female
-– vAk, and provides the prior for the depictions of the universal
-forms of the trans-functional goddess in later Hindu tradition. The
-puruSha sUkta is reiterated in some form in all the four veda-s and is
-re-worked in a definitive account of the macranthropic motif in a late
-atharvan recitation, that is also preserved within the body of the
-composite and paradoxical text, the muNDakopaniShad \[Footnote 1\]:
+– vAk, and provides the prior for the depictions of the universal forms
+of the trans-functional goddess in later Hindu tradition. The puruSha
+sUkta is reiterated in some form in all the four veda-s and is re-worked
+in a definitive account of the macranthropic motif in a late atharvan
+recitation, that is also preserved within the body of the composite and
+paradoxical text, the muNDakopaniShad \[Footnote 1\]:
 
 yathA sudIptAt pAvakAd visphuli\~NgAH  
-sahasrashaH prabhavante sarUpAH |  
+sahasrashaH prabhavante sarUpAH \|  
 tathA .akSharAd vividhAH somya bhAvAH  
-prajAyante tatra chaivApi yanti || 1||
+prajAyante tatra chaivApi yanti \|\| 1\|\|
 
 As from a good blazing fire, thousands of sparks identical to it nature
 are emitted, so also, O soma-ritualist, do diverse beings emerge from
 the indestructible entity and again return to it.
 
-divyo hy amUrtaH puruShaH sa bAhyAbhyantaro hy ajaH |  
-aprANo hy amanAH shubhro hy akSharAt parataH paraH || 2||
+divyo hy amUrtaH puruShaH sa bAhyAbhyantaro hy ajaH \|  
+aprANo hy amanAH shubhro hy akSharAt parataH paraH \|\| 2\|\|
 
 The shining but verily formless purusha, is unoriginated and is both
 within and without; he is not the metabolism of life, not the mind,
 unsullied and beyond even the supreme indestructible entity \[mentioned
 in the former verse\].
 
-etasmAj jAyate praNo manaH sarvendriyANi cha |  
-khaM vAyur jyotir ApaH pR^ithivI vishvasya dhAriNI || 3||
+etasmAj jAyate praNo manaH sarvendriyANi cha \|  
+khaM vAyur jyotir ApaH pR^ithivI vishvasya dhAriNI \|\| 3\|\|
 
 From this are born metabolism, signaling, all sensory and motor organs,
 space, gas, light, liquid and solid, which supports all.
 
 agnIr mUrdhA chakShuShI chandra-sUryau  
-dishaH shrotre vAg vivR^itAshcha vedAH |  
+dishaH shrotre vAg vivR^itAshcha vedAH \|  
 vAyuH praNo hR^idayaM vishvamasya padbhyAM  
-pR^ithivI hy eSha sarva-bhUtAntar-AtmA || 4||
+pR^ithivI hy eSha sarva-bhUtAntar-AtmA \|\| 4\|\|
 
 The fire is his head, the sun and moon his eyes; the dimensions of space
 his ears; his speech emitted the veda-s, the air is his breath; all
@@ -158,9 +162,9 @@ existence his heart. From his feet emerged the earth; he is verily the
 inner consciousness of all beings.
 
 tasmAd agniH samidho yasya sUryaH  
-somAt parjanya oShadhayaH pR^ithivyAm |  
+somAt parjanya oShadhayaH pR^ithivyAm \|  
 pumAn retaH si\~nchati yoShitAyAM  
-bahvIH prajAH puruShAt saMprasUtAH || 5||
+bahvIH prajAH puruShAt saMprasUtAH \|\| 5\|\|
 
 \[non-literal translation as per commentarial tradition based on the
 principle of the saMbandha of 5 fires as expounded in the narrative in
@@ -173,9 +177,9 @@ arose the male seed \[Fire 4\] and the female \[fire 5\] into which it
 is cast; thus, numerous organism emerged from the puruSha.
 
 tasmAd R^ichaH sAma yajUMShi dIkShA  
-yaj\~nAsh cha sarve kratavo dakShiNAsh cha |  
+yaj\~nAsh cha sarve kratavo dakShiNAsh cha \|  
 saMvatsarash cha yajamAnash cha lokAH  
-somo yatra pavate yatra sUryaH || 6||
+somo yatra pavate yatra sUryaH \|\| 6\|\|
 
 From him emerge the ritual verses, songs and prose incantations, the
 ritual initiations, the fire rituals, the all rites and the ritual fees.
@@ -183,9 +187,9 @@ The year, the ritualist, and the worlds where the moon and the sun
 shine, all emerge from him.
 
 tasmAch cha devA bahudhA saMprasUtAH  
-sAdhyA manuShyAH pashavo vayAMsi |  
+sAdhyA manuShyAH pashavo vayAMsi \|  
 prANApAnau vrIhi-yavau tapash cha  
-shraddha satyaM brahmacharyaM vidhish cha || 7||
+shraddha satyaM brahmacharyaM vidhish cha \|\| 7\|\|
 
 From him emerge the deva-s and the manifold sAdhya-s, men, beasts and
 birds, with the metabolism of uptake and excretion and the plants
@@ -193,9 +197,9 @@ birds, with the metabolism of uptake and excretion and the plants
 observance of celibate student life and ritual rule.
 
 sapta prANAH prabhavanti tasmAt  
-saptArchiShaH samidhaH sapta homAH |  
+saptArchiShaH samidhaH sapta homAH \|  
 sapta ime lokA yeShu charanti prANA  
-guhAshayA nihitAH sapta sapta || 8||
+guhAshayA nihitAH sapta sapta \|\| 8\|\|
 
 The seven metabolic processes, the seven flames of agni, the seven
 fire-sticks, the seven homa-s, from him come into being; and also the
@@ -204,9 +208,9 @@ savitra prANAyama\] as they lay stationed within the cave seven by seven
 emerged from him.
 
 ataH samudrA girayash cha sarve .asmAt  
-syandante sindhavaH sarva-rUpAH |  
+syandante sindhavaH sarva-rUpAH \|  
 atash cha sarvA oShadhayo rasash cha  
-yenaiSha bhUtais tiShThate hy antar-AtmA || 9||
+yenaiSha bhUtais tiShThate hy antar-AtmA \|\| 9\|\|
 
 From him spring all the oceans, mountains and flow forth the rivers of
 all forms; from him emerge all plants and the life-fluids by which the
@@ -259,124 +263,124 @@ expanded in the paurANika retellings of the yaj\~navarAha episode
 \[Footnote 2\]. We provide this is full to appreciate the parallels with
 other macranthropic accounts:
 
-brahma-rAtryAM vyatItAyAM prabuddhe padma-saMbhave |  
-viShNuH sisR^ikShur bhUtAni j\~nAtvA bhUmiM jalAnugAm ||
+brahma-rAtryAM vyatItAyAM prabuddhe padma-saMbhave \|  
+viShNuH sisR^ikShur bhUtAni j\~nAtvA bhUmiM jalAnugAm \|\|
 
 With the night of brahmA coming to an end, and the lotus-born one having
 awoken, viShNu seeking to emit the beings, perceived the earth covered
 with water.
 
-jala-krIDA-ruchi shubhaM kalpAdhiShu yathA purA |  
-vArAham Asthito rUpam ujjahAra vasuMdharAm ||
+jala-krIDA-ruchi shubhaM kalpAdhiShu yathA purA \|  
+vArAham Asthito rUpam ujjahAra vasuMdharAm \|\|
 
 He delighting in water sports, as at the beginning of each former kalpa,
 assumed the shape of a boar, and raised up the earth.
 
-veda-pAdo yUpa-daMShTraH kratu-dantash chitI-mukhaH |  
-agni-jihvo darbha-romA brahma-shIrSho mahAtapAH ||
+veda-pAdo yUpa-daMShTraH kratu-dantash chitI-mukhaH \|  
+agni-jihvo darbha-romA brahma-shIrSho mahAtapAH \|\|
 
 His feet were the vedas, his tusks the sacrificial posts; his teeth the
 ritual; his mouth the ritual altar; his tongue the fire, his hair the
 strewn grass, the ritual incantations-s were his head, and he was of
 great tapas.
 
-ahorAtrekShaNo divyo vedA\~Nga-shruti-bhUShaNaH |  
-Ajya-nAsaH sruva-tuNDaH sAma-ghoSha-svano mahAn ||
+ahorAtrekShaNo divyo vedA\~Nga-shruti-bhUShaNaH \|  
+Ajya-nAsaH sruva-tuNDaH sAma-ghoSha-svano mahAn \|\|
 
 He, the divine one had the day and night for his eyes were, his ears
 were decorated by the vedA\~Nga-s, his nose the goat butter; his snout
 the sruva ladle, his grunts the sAman songs and he was of a great
 \[form\].
 
-dharma-satya-mayaH shrImAn krama-vikrama-satkR^itaH |  
-prAyashchitta-mahAghoNaH pashu-jAnur mahAkR^itiH ||
+dharma-satya-mayaH shrImAn krama-vikrama-satkR^itaH \|  
+prAyashchitta-mahAghoNaH pashu-jAnur mahAkR^itiH \|\|
 
 He was imbued with dharma and satya, auspicious, his movements and
 strides perfect, his great nostrils were the ritual expiations, his
 knees the sacrificial animal and his form was gigantic.
 
-udgAtrAntro homa-li\~Ngo bIjauShadhi-mahAphalaH |  
-vedy-antarAtmA mantra-sphig- vikR^itaH soma-shoNitaH ||
+udgAtrAntro homa-li\~Ngo bIjauShadhi-mahAphalaH \|  
+vedy-antarAtmA mantra-sphig- vikR^itaH soma-shoNitaH \|\|
 
 In this form his entrails were the sAman singers, his phallus the homa
 ritual; his great testicles were the seeds and plants, his consciousness
 was the vedi altar, his butt the mantra-s and his blood the soma
 \[juice\].
 
-vedi-skandho havir gandho havya-kavyAdi-vegavAn |  
-prAgvaMSha-kAyo dyutimAn nAnA-dIkShAbhir anvitaH ||
+vedi-skandho havir gandho havya-kavyAdi-vegavAn \|  
+prAgvaMSha-kAyo dyutimAn nAnA-dIkShAbhir anvitaH \|\|
 
 His shoulders were the second vedI (i.e. the soma ritual configuration),
 his smell the oblations; he was of great speed like the fires that bear
 the oblations to the gods, ancestors and the rest, his body eastern
 ritual hall; he was resplendent and imbued with the ritual initiations.
 
-dakShiNA-hR^idayo yoga mahAmantra-mayo mahAn |  
-upAkarmoShTha-ruchiraH pravargyA-varta-bhUShaNaH ||
+dakShiNA-hR^idayo yoga mahAmantra-mayo mahAn \|  
+upAkarmoShTha-ruchiraH pravargyA-varta-bhUShaNaH \|\|
 
 His heart was the fees paid to the ritualists, he was of great form
 imbued with yoga and the great mantra-s; his well-formed lips were the
 ritual of thread-wearing and his embellishments were the pravargya
 pourings.
 
-nAnAch-Chando-gati-patho guhyopaniShad AsanaH |  
-ChAyA-patnI-sahAyo vai maNi-shR^i\~Nga ivoditaH ||
+nAnAch-Chando-gati-patho guhyopaniShad AsanaH \|  
+ChAyA-patnI-sahAyo vai maNi-shR^i\~Nga ivoditaH \|\|
 
 The metrical Vedic chants were his foraging path, the secret teaching of
 the upaniShat his resting place; he was accompanied by his wife chAyA
 and was huge as the jeweled mountain (the Himalayas).
 
-mahIM sAgara-paryantAM sa-shaila-vana-kAnanAm |  
-ekArNava-jala-bhraShTAm ekArNava-gataH prabhuH ||
+mahIM sAgara-paryantAM sa-shaila-vana-kAnanAM \|  
+ekArNava-jala-bhraShTAm ekArNava-gataH prabhuH \|\|
 
 The land surrounded by the oceans, with mountains, forests and groves
 was submerged in the waters of the One ocean; into that One one ocean
 dived the lord.
 
-daMShTrAgreNa samuddhR^itya lokAnAM hitakAmyayA |  
-Adidevo mahAyogI chakAra jagatIM punaH ||
+daMShTrAgreNa samuddhR^itya lokAnAM hitakAmyayA \|  
+Adidevo mahAyogI chakAra jagatIM punaH \|\|
 
 He raised up, with on his tusks, the earth seeking the good of the
 worlds; the first of the deva-s, the great yogin remade the world thus.
 
-evaM yaj\~na varAheNa bhUtvA bhUta-hitArthinA |  
-uddhR^itA pR^ithivI devI rasAtala-gatA purA ||
+evaM yaj\~na varAheNa bhUtvA bhUta-hitArthinA \|  
+uddhR^itA pR^ithivI devI rasAtala-gatA purA \|\|
 
 Thus, the yaj\~na varAha for the sake of the good of the being beings
 raised up the earth goddess who had formerly sunk to the nether region
 of rasatAla.
 
-uddhR^itya nishchale sthAne sthApayitvA tathA svake |  
-yathA sthAnaM vibhajy Apas tadgatA madhusUdanaH ||
+uddhR^itya nishchale sthAne sthApayitvA tathA svake \|  
+yathA sthAnaM vibhajy Apas tadgatA madhusUdanaH \|\|
 
 Thereafter, having raised the land, the slayer of madhu, stationed it
 upon its own seat and distributed the waters upon it according to their
 appropriate places.
 
-sAmudryash cha samudreShu nAdeyIsh cha nadIShu cha |  
-palvaleShu cha pAlvalyaH saraHsu cha sarobhavAH ||
+sAmudryash cha samudreShu nAdeyIsh cha nadIShu cha \|  
+palvaleShu cha pAlvalyaH saraHsu cha sarobhavAH \|\|
 
 He distributed water of the oceans into the oceans, the water of the
 rivers into the rivers, the water of the pools into the pools, and the
 water of the lakes into the lakes.
 
-pAtAla-saptakaM chakre lokAnAM saptakaM tathA |  
-dvIpAnAm udadhInAM cha sthAnAni vividhAni cha ||
+pAtAla-saptakaM chakre lokAnAM saptakaM tathA \|  
+dvIpAnAm udadhInAM cha sthAnAni vividhAni cha \|\|
 
 He made the seven pAtAla-s and the seven loka-s, the seven continents,
 and the seven oceans, and fixed their various boundaries.
 
-sthAnapAlAn lokapAlAn nadIH shaila-vanaspatIn |  
-R^iShIMsh cha sapta dharmaj\~nAn vedAn sA\~NgAn surAsurAn ||
+sthAnapAlAn lokapAlAn nadIH shaila-vanaspatIn \|  
+R^iShIMsh cha sapta dharmaj\~nAn vedAn sA\~NgAn surAsurAn \|\|
 
 \[And also\] The protectors of places, the protectors of the worlds, the
 rivers, mountains, trees, the seven R^ishis, who know the dharma, the
 veda-s together with their a\~Nga-s, the sura-s and the asura-s.
 
-pishAchoraga-gandharva yakSha-rAkShasa-mAnuShAn |  
-pashu-pakShi-mR^igAdyAMsh cha bhUta-grAmaM chaturvidham |  
-meghendrachApa-shampAdyAn yaj\~nAMsh cha vividhAMs tathA || ViS 1.1-17
-||
+pishAchoraga-gandharva yakSha-rAkShasa-mAnuShAn \|  
+pashu-pakShi-mR^igAdyAMsh cha bhUta-grAmaM chaturvidham \|  
+meghendrachApa-shampAdyAn yaj\~nAMsh cha vividhAMs tathA \|\| ViS 1.1-17
+\|\|
 
 \[And also\] the the piShacha-s, snakes, gandharva-s, yakSha-s,
 rAkShasa-s, men, cattle, birds, mammals and others, the four-fold beings
@@ -430,32 +434,33 @@ world view as being a pointer to a more fundamental underlying unity.
 For example, this is expressed in the famous early pA\~ncharAtrika
 praise of viShNu as the puruSha nArAyaNa attributed to bhIShma pitAmaha:
 
-yasmin vishvAni bhUtAni tiShThanti cha vishanti cha |  
-guNa-bhUtAni bhUteshe sUtre maNigaNA iva ||
+yasmin vishvAni bhUtAni tiShThanti cha vishanti cha \|  
+guNa-bhUtAni bhUteshe sUtre maNigaNA iva \|\|
 
 All the worlds and all elements exist in you and merge into you \[upon
 destruction\]. As the lord of the beings, you are the common thread
 passing through the guNa-s (of sAMkhya) and beings  
 like pearls strung together on a thread.
 
-yasmin nitye tate tantau dR^iDhe srag iva tiShThati |  
-sadasad grathitaM vishvaM vishvA\~Nge vishvakarmaNi ||
+yasmin nitye tate tantau dR^iDhe srag iva tiShThati \|  
+sadasad grathitaM vishvaM vishvA\~Nge vishvakarmaNi \|\|
 
 In your eternal all-pervading form, like lotuses held together by a
 strong string, the manifest and unmanifest universe is bound together,
 you whose body and whose actions comprise the universe.
 
-hariM sahasra-shirasaM sahasra-charaNekShaNam |  
-sahasra-bAhu-mukuTaM sahasra-vadanoj-jvalam |  
-prAhur nArAyaNaM devaM yaM vishvasya parAyaNam ||
+hariM sahasra-shirasaM sahasra-charaNekShaNam \|  
+sahasra-bAhu-mukuTaM sahasra-vadanoj-jvalam \|  
+prAhur nArAyaNaM devaM yaM vishvasya parAyaNam \|\|
 
 You are known as hari of a thousand heads, a thousand feet and eyes, a
 thousand arms, a thousand crowns, and a thousand blazing faces. You are
 called the deva nArAyaNa the station of the universe \[see above for
 iconographic representation\].
 
-aNIyasAm aNIyAMsaM sthaviShThaM cha sthavIyasAm |  
-garIyasAM gariShThaM cha shreShThaM cha shreyasAm api || Mbh 12.47.12-15
+aNIyasAm aNIyAMsaM sthaviShThaM cha sthavIyasAm \|  
+garIyasAM gariShThaM cha shreShThaM cha shreyasAm api \|\| Mbh
+12.47.12-15
 
 You are the most atomic of all atoms, the most expansive of the
 expansive, the heaviest of the heavy and the highest of the high.
@@ -582,8 +587,8 @@ to exist only at certain levels. Likewise, we might compare these forms
 predetermined by the constraints to the the ratu-s of our Iranian
 cousins or the Platonic ideals in in the yavana world (we may interpret
 Plato’s vision of the circular motions being the property of the nous;
-“peri noun kai phronesin”; as an early acknowledgment of the
-constraints in the form of physical laws).
+“peri noun kai phronesin”; as an early acknowledgment of the constraints
+in the form of physical laws).
 
 *The constraints of category: Biological systems can only evolve
 microscopic wheels with axles but they need to be engineered at the
@@ -750,29 +755,28 @@ Footnote 2: The varAha myth of course predates these texts and goes back
 to the veda. The taittirIya AraNyaka (10.1.8) speaks of a great black
 boar lifting up the earth (“uddhR^itAsi varAheNa kR^iShNena
 shatabAhunA”). This boar is also mentioned in the AV-vulgate 12.1.48
-(“varAheNa pR^ithivI saMvidAnA sUkarAya vi jihIte mR^igAya”). In
-several cases prajApati is described as the one incarnating as this
-varAha: for example in the taittirIya saMhitA 7.1.5.1 prajApati is
-mentioned as lifting out the earth from the water. But in this brAhmaNa
-section already viShNu’s power is hinted, so he is close at hand to take
-over this role. Similarly, in the shatapatha brAhmaNa (14.1.2.11),
-prajApati is described as being the boar emUSha that lifted up the
-earth. But here again viShNu is at hand because the earth is connected
-to the head of viShNu or makha as the narrative occurs as part of the
-instruction on the pravargya ritual. In both the taittirIya saMhitA and
-the RV interestingly indra and viShNu are mentioned as killing emUSha a
-boar on the side of the dAnava-s. In the same taittirIya saMhitA
-7.1.5.1, the power of indra is also emphasized – interestingly, in the
-avestan yaSht to verethraghna it is he who is described as incarnating
-as the varAha. (Av: varAza). He is invoked as a mighty varAha in the
-avestan manthra:  
+(“varAheNa pR^ithivI saMvidAnA sUkarAya vi jihIte mR^igAya”). In several
+cases prajApati is described as the one incarnating as this varAha: for
+example in the taittirIya saMhitA 7.1.5.1 prajApati is mentioned as
+lifting out the earth from the water. But in this brAhmaNa section
+already viShNu’s power is hinted, so he is close at hand to take over
+this role. Similarly, in the shatapatha brAhmaNa (14.1.2.11), prajApati
+is described as being the boar emUSha that lifted up the earth. But here
+again viShNu is at hand because the earth is connected to the head of
+viShNu or makha as the narrative occurs as part of the instruction on
+the pravargya ritual. In both the taittirIya saMhitA and the RV
+interestingly indra and viShNu are mentioned as killing emUSha a boar on
+the side of the dAnava-s. In the same taittirIya saMhitA 7.1.5.1, the
+power of indra is also emphasized – interestingly, in the avestan yaSht
+to verethraghna it is he who is described as incarnating as the varAha.
+(Av: varAza). He is invoked as a mighty varAha in the avestan manthra:  
 verethraghnO ahuradhAtO hu kehrpa varAzahe  
 paiti-erenO tizhi-dãstrahe arshnO tizhi-asUrahe  
-hakeret-janO varAzahe anu-pOithwahe grañtahe ||  
+hakeret-janO varAzahe anu-pOithwahe grañtahe \|\|  
 The idea of the ritual-associated varAha goes back to at least the
 Indo-Iranian period as in the avestan ritual the Iranians invoke a
 mighty varAha known as dAmoish upamana (e.g. yasna 6.14: “ukhrem taxmem
-dAmOish upamanem yazatem yazAmaide |” ) who embodies the ritual power
+dAmOish upamanem yazatem yazAmaide \|” ) who embodies the ritual power
 and is mentioned as accompanying mithra to the battle.
 
 Footnote 3: Many years back taittirIya-guru asked aurvasheyI and me
@@ -796,3 +800,4 @@ neurobiologists in particular can exhibit a gross misunderstanding of
 what consciousness means. They often conflate consciousness with neural
 signaling and sensory reception. These two are purely biological issues
 that only impinge on but not comprise consciousness.
+

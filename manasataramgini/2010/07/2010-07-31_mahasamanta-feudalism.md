@@ -1,10 +1,14 @@
 +++
 title = "mAhAsamanta “feudalism”?"
+date = "2010-07-31"
+upstream_url = "https://manasataramgini.wordpress.com/2010/07/31/mahasamanta-feudalism/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/07/31/mahasamanta-feudalism/).
+
 “nUtana-mAnava-samAjasya-purashcharaNam
 mArksa-engelsa-lenina-nAmadheyAnAm tejasvinAm mahA-mAnavAnAm
-punIta-smaraNArtham ||”
+punIta-smaraNArtham \|\|”
 
 Thus, Kosambi the pitAmaha of the deshIya rudhira-dhvaja-s offers his
 ma\~NgAlacharaNaM to his mentors, of all places in the introduction to
@@ -77,21 +81,21 @@ them to intrude on to very character of India. Before going ahead, let
 us briefly take up one issue that many a naive Hindu brings up: “Is
 Kosambi not a great intellectual? Hence, what sense does it make to
 criticize him and replace him with your typical Hindu
-obscurantism?” Etc. Yes, Kosambi himself was certainly an admirable
+obscurantism?”Etc. Yes, Kosambi himself was certainly an admirable
 polymath and I have myself expressed some level of intellectual kinship
 with him (To clarify there is some overlap on many topics though not
 reaching a “bhavabhUtian equivalence”, as in:  
 ye nAma kechid iha naH prathayanty avaj\~nAM  
-jAnanti te kim api tAn prati naiSha yatnaH |  
+jAnanti te kim api tAn prati naiSha yatnaH \|  
 utpatsyate tu mama ko .api samAna-dharmA  
-kAlo hy ayaM niravadhir vipulA cha lakShmIH ||). However, men are rarely
-paragons of perfection and mixed in with those admirable qualities are
-dreadful delusions. Most often the followers of the great end up only
-imbibing the crassest of their guru’s offerings and so it was even in
-Kosambi’s case. His successors only acquired the worst of his ideas and
-hardly any of the better ones. So in conclusion we were left with the
-tradition of his ghora nUtana mahA-mAnava-s and none of that of
-bhartR^ihari and his kind.
+kAlo hy ayaM niravadhir vipulA cha lakShmIH \|\|). However, men are
+rarely paragons of perfection and mixed in with those admirable
+qualities are dreadful delusions. Most often the followers of the great
+end up only imbibing the crassest of their guru’s offerings and so it
+was even in Kosambi’s case. His successors only acquired the worst of
+his ideas and hardly any of the better ones. So in conclusion we were
+left with the tradition of his ghora nUtana mahA-mAnava-s and none of
+that of bhartR^ihari and his kind.
 
 The main idea here is to discuss the deep amnesia, brought about by the
 above forces, of that age of Hindu history before the Hindu world
@@ -243,11 +247,11 @@ brAhmaNa to the shUdra had education and culture that was borne by the
 media of saMskR^ita, prAkR^ita and deshabhASha-s. This puts to sword the
 basic idea founded by Kosambi that in this period Sanskrit represented
 the mores of the “oppressive” upper castes and was not an expression of
-“the people” (of course in the Marxist sense). Nothing could be
-further from the truth; under the paramAra-s exemplified by bhoja (as
-also their rivals) education had clearly spread wider and there was a
-conscious effort to provide institutional education which was epitomized
-by the bhojashAlA. Thus, the period comes out, in sharp contrast to its
+“the people” (of course in the Marxist sense). Nothing could be further
+from the truth; under the paramAra-s exemplified by bhoja (as also their
+rivals) education had clearly spread wider and there was a conscious
+effort to provide institutional education which was epitomized by the
+bhojashAlA. Thus, the period comes out, in sharp contrast to its
 characterization in the above quotations, as one where the rulers not
 only sought to protect their people but also educate them. It was
 precisely the institutions such as these that were targeted and
@@ -260,11 +264,11 @@ before](https://manasataramgini.wordpress.com/2005/12/12/raja-bhoja-the-glory-an
 but let us illustrate it again with another anecdote. The hoysala-s of
 the karnATa country built a shiva temple in the Tamil country known as
 hoysaleshvara in the 1200s at Kannanur, Tiruchirapalli. In Tamil it was
-initially called boysaleshvara (due the h-\>p/b transform between
-Kannada and Tamil). But as the boysala-s were destroyed the connection
-to them was forgotten. Instead, a legend arose that the bhojadeva used
-to spend half of the year in his south Indian capital in Tiruchy and had
-built the bhojeshvara there (i.e. boysaleshvara became bhojeshvara) and
+initially called boysaleshvara (due the h->p/b transform between Kannada
+and Tamil). But as the boysala-s were destroyed the connection to them
+was forgotten. Instead, a legend arose that the bhojadeva used to spend
+half of the year in his south Indian capital in Tiruchy and had built
+the bhojeshvara there (i.e. boysaleshvara became bhojeshvara) and
 brought his enlightened reign to those regions. However, illustrative of
 the amnesia forced on the Hindu by the collusion of Marxist and their
 Occidental subversionist partners is the case of our class 5 history of
@@ -293,7 +297,7 @@ social system was the one in which these feudal lords by
 “extra-economic” means i.e. social, religious or political coerced
 material out of the serf. So who were the serfs of Hindustan? Marxists
 like RS Sharma tell us that the Sanskrit terms such as kShudra
-prakR^iti, Andhra (\!), chaNDAla and janapada denoted the serfs. He
+prakR^iti, Andhra (!), chaNDAla and janapada denoted the serfs. He
 audaciously claims that the janapada-kopa described by kauTilya means a
 peasant revolt due to exploitation. Further, he goes on to claim that
 the use of the term daNDa in inscriptions for violators of the land
@@ -301,9 +305,9 @@ grants as evidence for the use of force by the feudal lord in punishing
 the serfs. He also claims that the vIrakal-s south India are frequently
 found in the vicinity of agrahAra-s; hence they must be records of the
 revolts of serfs against the Brahminical oppressor. Indeed Marx sees
-class struggles everywhere\! Others like Davidson, the American
-historian of the bauddha-s, sees the mahAsAmanta feudalism operating via
-the rapine seizure of “tribal lands” for distribution as fiefs. The
+class struggles everywhere! Others like Davidson, the American historian
+of the bauddha-s, sees the mahAsAmanta feudalism operating via the
+rapine seizure of “tribal lands” for distribution as fiefs. The
 force-fitting of Hindu history into Marxist-inspired constructs indeed
 leads to these ridiculous characterizations of the time. It is clear
 that RS Sharma has completely misunderstood both the Sanskrit terms he
@@ -326,3 +330,4 @@ the system in various capacities, including acquisition of honorary
 kShatriya status. In conclusion, the characterization of this period by
 the Marxist-Leukospheric alliance has led to a complete inversion of the
 picture of this major phase of Hindu history.
+

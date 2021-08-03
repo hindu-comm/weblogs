@@ -1,7 +1,11 @@
 +++
 title = "Islamic potentates"
+date = "2006-08-06"
+upstream_url = "https://manasataramgini.wordpress.com/2006/08/06/islamic-potentates/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/08/06/islamic-potentates/).
+
 By its very existance Islam is a threat to non-Moslems — this is the
 concept of Dar-ul-Harb and Jihad. Islam can by its very existence be a
 de facto death sentence for kaffirs like Hindus and is aggressive even
@@ -103,3 +107,4 @@ the Mogol empire to the point of death, but they were deprived of the
 chance to deliver the coup de grace by the British. Iran was curbed by
 the British, Americans and Russians. The Russians subjugated the Central
 Asian Islamic powers.
+

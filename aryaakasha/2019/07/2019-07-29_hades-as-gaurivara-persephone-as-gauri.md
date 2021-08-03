@@ -1,8 +1,11 @@
 +++
-title = "Hades as Gaurivara, Persephone asxa0Gauri"
-date = "July 29, 2019"
+title = "Hades as Gaurivara, Persephone as Gauri"
+date = "2019-07-29"
+upstream_url = "https://aryaakasha.com/2019/07/29/hades-as-gaurivara-persephone-as-gauri/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/07/29/hades-as-gaurivara-persephone-as-gauri/).
+
 ![SONY
 DSC](https://aryaakasha.files.wordpress.com/2019/07/el_rapto_de_proserpina.jpg?w=676)
 

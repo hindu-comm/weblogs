@@ -1,8 +1,11 @@
 +++
-title = "The Heavy Illumination Of Etymology And Folk Etymology Comparativelyxa0Considered"
-date = "March 5, 2021"
+title = "The Heavy Illumination Of Etymology And Folk Etymology Comparatively Considered"
+date = "2021-03-05"
+upstream_url = "https://aryaakasha.com/2021/03/05/the-heavy-illumination-of-etymology-and-folk-etymology-comparatively-considered/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/03/05/the-heavy-illumination-of-etymology-and-folk-etymology-comparatively-considered/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/03/brihspati-debta.jpg?w=400)
 
 Something I have just been thinking about is the etymology of ‘Guru’.

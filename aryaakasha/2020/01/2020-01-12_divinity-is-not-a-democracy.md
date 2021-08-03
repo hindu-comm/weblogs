@@ -1,8 +1,11 @@
 +++
-title = "Divinity Is Not Axa0Democracy"
-date = "January 12, 2020"
+title = "Divinity Is Not A Democracy"
+date = "2020-01-12"
+upstream_url = "https://aryaakasha.com/2020/01/12/divinity-is-not-a-democracy/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/01/12/divinity-is-not-a-democracy/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/01/0767f74b1a6acca0ce336e93c8b8ace8.jpg?w=609)
 
 When I was younger, I thought this was pretty profound, and more than

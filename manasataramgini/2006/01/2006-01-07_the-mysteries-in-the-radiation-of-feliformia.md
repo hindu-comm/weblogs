@@ -1,7 +1,13 @@
 +++
 title = "The mysteries in the radiation of feliformia"
+date = "2006-01-07"
+upstream_url = "https://manasataramgini.wordpress.com/2006/01/07/the-mysteries-in-the-radiation-of-feliformia/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/01/07/the-mysteries-in-the-radiation-of-feliformia/).
+
+
+
 Asian Lisang
 
 [![](https://i2.wp.com/photos1.blogger.com/hello/133/1300/400/prionodon.jpg)](http://photos1.blogger.com/hello/133/1300/640/prionodon.jpg)
@@ -50,3 +56,4 @@ gorgonopsians, therocephalians and cynodonts. It looks as though the
 mammals simply revived their old carnivorous model which had met an
 interlude with the rise of the archosaurs and continued to refine it
 down to the cats.
+

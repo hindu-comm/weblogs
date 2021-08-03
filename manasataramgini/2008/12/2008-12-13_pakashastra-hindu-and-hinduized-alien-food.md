@@ -1,7 +1,11 @@
 +++
 title = "pAkashAstra: Hindu and Hinduized alien food"
+date = "2008-12-13"
+upstream_url = "https://manasataramgini.wordpress.com/2008/12/13/pakashastra-hindu-and-hinduized-alien-food/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/12/13/pakashastra-hindu-and-hinduized-alien-food/).
+
 The field of pAkashAstra is well worthy of study as it is dying along
 with many other shAstra-s. Unfortunately, I no longer have access to
 some remarkable pAka texts that I examined in the city of my youth.
@@ -66,3 +70,4 @@ were: lime and tamarind rices, dal-s of different types, pAyasa-s and
 pAnaka-s. He also mentions some weird curries, such as one from the neem
 tree berries prepared in a special way to counter its innate bitterness.
 This was supposed to have remarkable curative properties.
+

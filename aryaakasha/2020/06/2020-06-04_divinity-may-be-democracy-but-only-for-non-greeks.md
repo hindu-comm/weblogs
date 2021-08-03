@@ -1,8 +1,11 @@
 +++
-title = "Divinity *May* Be Democracy – But Only Forxa0Non-Greeks"
-date = "June 4, 2020"
+title = "Divinity *May* Be Democracy – But Only For Non-Greeks"
+date = "2020-06-04"
+upstream_url = "https://aryaakasha.com/2020/06/04/divinity-may-be-democracy-but-only-for-non-greeks/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/06/04/divinity-may-be-democracy-but-only-for-non-greeks/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/06/at_0053_religionandmyth.jpg?w=1024)
 
 We tend to make significant use of three main Indo-European

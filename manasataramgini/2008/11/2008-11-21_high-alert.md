@@ -1,7 +1,11 @@
 +++
 title = "High alert"
+date = "2008-11-21"
+upstream_url = "https://manasataramgini.wordpress.com/2008/11/21/high-alert/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/11/21/high-alert/).
+
 Between Oct 19th to Oct 25th the last six arrows were used up. We had
 repulsed he grAhin but were attacked by other weapons. Now we were
 without weapons. Till the evening of Oct 15th we held an upper hand. A
@@ -11,3 +15,4 @@ a hint of an attack but we gained an upper hand. Today a much larger
 force was sent and it was confirmed that the grAhin was back. Unlike in
 the past we were absolutely lacking in one great astra-s. Anything could
 happen.
+

@@ -1,7 +1,11 @@
 +++
 title = "The madman, the seeker of knowledge and the sociology of science"
+date = "2009-11-08"
+upstream_url = "https://manasataramgini.wordpress.com/2009/11/08/the-madman-the-seeker-of-knowledge-and-the-sociology-of-science/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/11/08/the-madman-the-seeker-of-knowledge-and-the-sociology-of-science/).
+
 I read parts of an engagingly written book by a Russian authoress Masha
 Gessen on the mathematician Perelman. There after while walking through
 the cold autumn stillness some waves lashed the cranial shores of my
@@ -69,7 +73,7 @@ science/mathematics) that are generally not admitted (it is interesting
 that such issues exist in mathematics, despite it being a smaller and
 far more open community than say biology; in the latter the clashes are
 far more pronounced and regular):  
-1\) The unwillingness to acknowledge to important discoveries of others
+1) The unwillingness to acknowledge to important discoveries of others
 and to try to appropriate them as you own. From my personal experience I
 can say that this is happens — for example, there has been a discovery
 of mine on the sensing of two critical signaling molecules that was a
@@ -141,3 +145,4 @@ Most individuals in science are attracted by this beauty — but they
 might be separated from the primate within, either due to simple lack of
 education, or memetic diseases (e.g. socialism) or due to atypical
 neural wiring (e.g. Asperger’s).
+

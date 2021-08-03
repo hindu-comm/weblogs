@@ -1,7 +1,11 @@
 +++
 title = "unmāda-carcā"
+date = "2016-03-11"
+upstream_url = "https://manasataramgini.wordpress.com/2016/03/11/unmada-carca/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2016/03/11/unmada-carca/).
+
 The Mohammedan scientist Al-Bīrūnī was the model Abrahamistic
 investigator of other cultures in whose mold even those of the modern
 era are cast, be they from the prathamonmāda or the dvītīyonmāda or
@@ -30,7 +34,7 @@ might be local (but also note their more expansive Kitos flareup that
 presaged the actions of the later unmāda-s), but there is hardly any
 doubt the later global manifestations also have global ambitions for
 ending heathenism. Again as we have pointed out many times before, even
-if one of these unmāda-s have local ambitions or even if they fight each
+if one of these unmāda-shave local ambitions or even if they fight each
 other with greatest vehemence, when it comes to heathens, they have a
 certain resonance with each other as also their secular variants. In
 light of this it is notable and disappointing that most of the Hindu
@@ -123,7 +127,7 @@ to it is the construct that in addition to negating any heathen vision
 it also negates other parallel monotheistic visions, i.e. parallel
 Abrahamisms. Thus, dajjāl of the marūnmatta-s is seen as a
 prathamonmatta. But a heathen should not be too caught with this because
-it is purely an internal issue of Abrahamism that does change their
+itis purely an internal issue of Abrahamism that does change their
 equation vis-a-vis the heathen.
 
 The importance of this funneling becomes apparent when one considers the
@@ -167,7 +171,7 @@ out his teaching:
 *He has reached heathenism,*  
 *O Bar-Daisan,*  
 *Son of the River Daisan,*  
-*Whose mind is liquid like his name\!*”  
+*Whose mind is liquid like his name!*”  
 He went on to add: “*There is such a reasonable sound to the man’s
 writings that common people do not see the madness beneath*.”
 
@@ -176,16 +180,16 @@ The “reasonable sound” is his professing the preta-mata whereas the
 śavasādhaka-s, his son Harmonius made things worse by wholly
 incorporating reincarnation of the Indians, denial of the resurrection
 of the preta and worship of planets and Zodiacal deities. Thus, his
-“madness” failed Abrahamistic filter and fell precisely in the
-category which Deuteronomy 13.2–6 sees as fit for execution. Thus,
-Abrahamism has a certain internal “thermometer” which can sense whether
-a doctrinal patina is strategic acculturation which is good for takeover
-of heathens, or actually a dangerous counter-intrusion of heathenism
-into their own doctrine. This sensory process had been perfected in the
-midst of the prathamonmatta-s well before the pretācarin-s and
-Bardaisan. [We know that with the rise of Neo-Platonism and Hermetic
-traditions, prathamonmatta-s were being absorbed into syncretic or even
-openly Hellenistic traditions on a
+“madness” failed Abrahamistic filter and fell precisely in the category
+which Deuteronomy 13.2–6 sees as fit for execution. Thus, Abrahamism has
+a certain internal “thermometer” which can sense whether a doctrinal
+patina is strategic acculturation which is good for takeover of
+heathens, or actually a dangerous counter-intrusion of heathenism into
+their own doctrine. This sensory process had been perfected in the midst
+of the prathamonmatta-s well before the pretācarin-s and Bardaisan. [We
+know that with the rise of Neo-Platonism and Hermetic traditions,
+prathamonmatta-s were being absorbed into syncretic or even openly
+Hellenistic traditions on a
 large-scale](https://manasataramgini.wordpress.com/2013/12/17/a-greco-semitic-apollonian-ritual-and-the-heathen-assimilation-of-paleo-abrahamism/).
 This led a quick response where the [errant were killed or cut
 out](https://manasataramgini.wordpress.com/2013/12/17/a-greco-semitic-apollonian-ritual-and-the-heathen-assimilation-of-paleo-abrahamism/).
@@ -197,9 +201,9 @@ thing – Manichaeism. It emerged in the Abrahamistic system closely
 affiliated with a prathamonmatta-pretāśraya branch followed by Iranians.
 By accepting the preta, the founder of dvitīyonmāda as a deity and
 declaring himself as his follower, Mani started close to the
-dvitīyonmāda. But he multiplied the preta into several clearly
-distinct preta-s, a cosmic one like Bardaisan, an apocalyptic savior,
-and also a martyr figure. He then adopted various figures outside the
+dvitīyonmāda. But he multiplied the preta into several clearly distinct
+preta-s, a cosmic one like Bardaisan, an apocalyptic savior, and also a
+martyr figure. He then adopted various figures outside the
 prathamonmatta world as parallel prophets of other parts of the world
 namely, the tathāgata, Kṛṣṇa Devakīputra and Zarathustra. Adopting Indic
 reincarnation, like in Bardaisanism, Mani was declared to be the avatāra
@@ -251,7 +255,7 @@ universalist ambitions via missionary action to the dvitīyonmāda.
 
 Before the tathāgata, Zarathustra departed from the IE religious
 archetype. Ironically, he rose within the Indo-Iranian tradition, which
-was perhaps closest to the original traditions among all the branches of
+was perhaps closest to the original traditions amongall the branches of
 IE, and he proudly declares his status as a zaotar (=hotṛ). While we
 have little evidence to exactly determine his possible neurological
 state, he did adopt an exclusivism, which parallels the Abrahamistic
@@ -361,3 +365,4 @@ syncreticism represent parallel challenges to the tṛtīyonmāda. But those
 challenges were overcome too. So the heathen rather than clinging to
 fond hopes should be prepared for the real battlefield of the
 civilization clash where matters are decided by the blood of men.
+

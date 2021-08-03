@@ -1,7 +1,11 @@
 +++
 title = "The paschimaugha of the mAnavaugha of the kaumaras"
+date = "2007-05-26"
+upstream_url = "https://manasataramgini.wordpress.com/2007/05/26/the-paschimaugha-of-the-manavaugha-of-the-kaumaras/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/05/26/the-paschimaugha-of-the-manavaugha-of-the-kaumaras/).
+
 We were told that there was the lost temple of the pashchimaugha. After
 the end of the gupta-s the pashchimaugha seems to have declined in
 public prominence over time in the north-west, but is known to have
@@ -24,7 +28,7 @@ and the third was the lost temple of the pashchimaugha of kumAra. In the
 kumAra temple the following inscription in nAgarI was noted by Pandit
 Vyas:  
 OM svAmI kArtikeya achaleshvara yogi prasAdat\[…\] sevaka
-\[s\]thiratattva yogI mUrti sthApite jAtatha\[…\] shubhaM bhavatu ||  
+\[s\]thiratattva yogI mUrti sthApite jAtatha\[…\] shubhaM bhavatu \|\|  
 This shristhiratattva yogin who installed this kumAra temple was
 probably the last of the great north-western adepts of the kaumAra
 pashchimaugha. The remnants of his Ashrama were seen by the vaiShNava in
@@ -34,8 +38,9 @@ his from the vicinity of Bundi, we get a date as vikram saMvat 1561 (CE
 with the mention of the Rajput chief Rao Suraj Mal, who was around at
 least in the first half of the 1500s. This yogin was also an adept in
 the siddhAnta and bhairava tantras and gives his lineage thus:
-maheshvara-tattva-\>bhramara tattva-\>vichAra tattva-\>dharma
-tattva-\>sthiratattva. He also built at least two other temples, one to
+maheshvara-tattva->bhramara tattva->vichAra tattva->dharma
+tattva->sthiratattva. He also built at least two other temples, one to
 kapileshvara (rudra) and the other to kAla-bhairava with a pond with
 lotuses and a garden around it. He attained siddhi in the 6 rahasya
 kaumara mantras while performing japa in the forest of gargAraNya.
+

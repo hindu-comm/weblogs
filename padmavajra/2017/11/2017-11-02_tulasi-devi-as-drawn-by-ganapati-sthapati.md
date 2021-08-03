@@ -1,8 +1,11 @@
 +++
-title = "Tulasi devi , as drawn by Ganapatixa0Sthapati"
-date = "2017-11-02"
+title = "Tulasi devi , as drawn by Ganapati Sthapati"
+date = "2017-02-11"
+upstream_url = "https://padmavajra.net/2017/11/02/tulasi-devi-as-drawn-by-ganapati-sthapati/"
 
 +++
+Source: [here](https://padmavajra.net/2017/11/02/tulasi-devi-as-drawn-by-ganapati-sthapati/).
+
 ![maxresdefault](https://padmavajrablog.files.wordpress.com/2017/11/maxresdefault.jpg?w=739)
 
 

@@ -1,7 +1,11 @@
 +++
 title = "More on the tragic failure of the brahma"
+date = "2009-06-19"
+upstream_url = "https://manasataramgini.wordpress.com/2009/06/19/more-on-the-tragic-failure-of-the-brahma/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/06/19/more-on-the-tragic-failure-of-the-brahma/).
+
 Wandering like an incorporeal observer in the midst of the mlechCha-s,
 chIna-s and other peoples, in the northern regions of madhyama
 mlechChadesha, I was reading the biographies of two of my renowned
@@ -31,8 +35,8 @@ spectrum we will look at some paradoxes in the existence of the former
 two.  
 GNR had not entirely lost his link to the foundations of his
 intellectual tradition; he cited the following verse:  
-purANam ity eva na sAdhu sarvam |  
-na chApi kAvyaM navam ity avidyam ||  
+purANam ity eva na sAdhu sarvaM \|  
+na chApi kAvyaM navam ity avidyaM \|\|  
 The words of the poet often regarded as the greatest of the classical
 period. Our man took the lesson from the verse to be that of a struggle
 against established order and vindication of new ideas – a common
@@ -137,7 +141,7 @@ happened, there were a succession of inspiring successes in the field of
 science – Ramanujan, Raman, the two Boses, Samarendranath Maulik,
 Chandrasekhar, Pancharatnam etc. But these pioneers were in a sense
 working in isolation:  
-1\) they were cut off from the rest of the intellectual sphere inside
+1) they were cut off from the rest of the intellectual sphere inside
 their own cultural hemisphere; i.e. even though they were in the world
 market in science they had hardly any links to the corresponding Indic
 intellectual sphere of other intellectual endeavors. In contrast, the
@@ -160,7 +164,7 @@ into the European one. In this context, we see SC taking a dip into the
 European system, whereas GNR tried to find his own Indic scaffold, but
 having been partially subverted by the Western narrative could not
 complete the circle.  
-2\) Most importantly the lack of the Hindu ecosystem for modern
+2) Most importantly the lack of the Hindu ecosystem for modern
 intellectual development was accompanied by the dispersion of the Hindu
 scientists working in the western academic framework. SC was given
 tenure later than less accomplished colleagues and paid lesser than them
@@ -204,3 +208,4 @@ Footnote 2: There have been a few exceptions like the great Lokamanya
 Tilak (not surprisingly much vilified by the Indologists), the vaishya
 thinkers Swarup and Goel, and the arrogant but occasionally insightful
 Rajiv Malhotra.
+

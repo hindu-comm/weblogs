@@ -1,13 +1,17 @@
 +++
 title = "Geopolitics of the tantra age: an attempt at a blunt assessment"
+date = "2009-04-02"
+upstream_url = "https://manasataramgini.wordpress.com/2009/04/02/geopolitics-of-the-tantra-age-an-attempt-at-a-blunt-assessment/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/04/02/geopolitics-of-the-tantra-age-an-attempt-at-a-blunt-assessment/).
+
 The va\~Nga-paNDita placed the following issue before ekanetra and me.
 He had seen a somewhat convergent theory amongst both Hindus and
 Hindu-haters. We lay this out as some kind of pUrva-pakSha for further
 study.
 
-\-The beginning in the gupta age and definitely in the period that
+-The beginning in the gupta age and definitely in the period that
 followed it there was a socio-religio-political development in
 jambudvIpa that might be termed the “tantra age”. This was marked by the
 rise in prominence of the tAntrika form of the mantra shAstra and its
@@ -34,8 +38,8 @@ Middle East destroying the development of this system and posing an
 existential challenge to the rest of the world. This is a very brief
 overview of the history to this point.
 
-\-The main claim that was presented to us was that this tantric age was
-a signal of the decadence of the Hindu world. As supporting evidence it
+-The main claim that was presented to us was that this tantric age was a
+signal of the decadence of the Hindu world. As supporting evidence it
 was suggested that not only states in jambudvIpa, but even those beyond
 it decayed and collapsed when they chose to become tantric states. The
 most recent of these was said to be Nepal – a late survivor from the
@@ -61,15 +65,15 @@ that bhArata’s own decline and eventual conquest by the civilizing
 Moslems, those glorious green-robed well-springs of culture, was a
 consequence of the wantonness of its own tantric states.
 
-\-Modern deracinated “rationalists” chime in that the tantra with all
-its superstitious hocus-pocus is the root cause of the lack of
-“progress” in India (that is why these types like to term themselves
-“progressives”). Interestingly, some of this resonates even with a
-subset of practicing Hindus. These types will say that they follow a
-higher form of the dharma, whereas the tantric form is somehow depraved.
-In the more recent centuries even certain smArta-s have attributed the
-heroic acts of “cleansing” the dharma of its tantric dross (or
-alternatively cleansing the tantra of its depravity) to their great hero
+-Modern deracinated “rationalists” chime in that the tantra with all its
+superstitious hocus-pocus is the root cause of the lack of “progress” in
+India (that is why these types like to term themselves “progressives”).
+Interestingly, some of this resonates even with a subset of practicing
+Hindus. These types will say that they follow a higher form of the
+dharma, whereas the tantric form is somehow depraved. In the more recent
+centuries even certain smArta-s have attributed the heroic acts of
+“cleansing” the dharma of its tantric dross (or alternatively cleansing
+the tantra of its depravity) to their great hero
 sha\~Nkara-bhagavatpAda. Some of these same smArta-s also composed
 kucha-mardana-s and shR^i\~Nga-bha\~Nga-s of tantric practices and
 texts. Surprisingly, even the Sanskrit scholar’s historian daughter
@@ -85,9 +89,9 @@ above) before us, we took off into a discussion of the early medieval
 history of India and the developments therein. So many times in the days
 of our youth we used to time-travel, leaving behind this world for that
 of the past:  
-\-440 CE, the upheavals in the central Asian realm set the Hunnic
+-440 CE, the upheavals in the central Asian realm set the Hunnic
 movements in motion.  
-\-443 CE a cavalry storm builds in the east and appears at the doors of
+-443 CE a cavalry storm builds in the east and appears at the doors of
 the Isaist Roman empire. This cavalry force of ultimately central Asian
 origin besieged the now Serbian city of Nis with a formidable array of
 battering rams and siege towers. As they broke through the town’s
@@ -96,12 +100,12 @@ the attack and was crushed. This was followed by the victorious march of
 their leader Attila who advanced towards Constantinople destroying city
 after city on his way. Only the walls of the city saved it from
 destruction.  
-\-454 CE The eastern wing of the Huns (commonly called the Ephthalites
-or hUNa-s in saMskR^ita) marched straight against Iran. The Shah
-Yazdigird sallied forth to counter them in north-eastern Iran. The
-powerful Sassanian sipah met with a cavalry much more than it could
-handle and was battered on the battlefield and fled in disarray with
-heavy losses.  
+-454 CE The eastern wing of the Huns (commonly called the Ephthalites or
+hUNa-s in saMskR^ita) marched straight against Iran. The Shah Yazdigird
+sallied forth to counter them in north-eastern Iran. The powerful
+Sassanian sipah met with a cavalry much more than it could handle and
+was battered on the battlefield and fled in disarray with heavy
+losses.  
 –It was the early summer of the year 454 CE. In the city of kUbha in
 gandhara, a band of bauddha bikShu-s noticed that their shaiva rivals
 were packing up and getting ready to evacuate the pAShupata maTha. The
@@ -126,7 +130,7 @@ fell near his altar. Another muNDaka was being threatened and asked to
 reveal where the wealth given by the vaishya patrons was hidden. Having
 bundled it up the victorious hUNa warriors uttered fierce cries and set
 fire to the vihara. They circled around the burning campus shooting down
-survivors who tried to flee the smoldering ruins. 
+survivors who tried to flee the smoldering ruins.
 
 The hUNa-s rode rapidly through gandhara, southwards pillaging the towns
 and slaughtering the inhabitants. A band of pAshupata shaiva ascetics
@@ -142,8 +146,8 @@ already poised to ford the sindhu and launch a thrust into
 bhAratavarSha. The emperor summoned his son the yuvarAja, skandagupta,
 and asked him to lead the senA to oust the mlechCha-s from the land of
 the Arya-s.  
-![skanda\_udayagiri](https://manasataramgini.files.wordpress.com/2009/04/skanda_udayagiri.png?w=640
-"skanda_udayagiri") *Udayagiri skanda*  
+![skanda_udayagiri](https://manasataramgini.files.wordpress.com/2009/04/skanda_udayagiri.png?w=640 "skanda_udayagiri")
+*Udayagiri skanda*  
 
 After having made the military preparation for the advance into the
 pa\~nchanada to quell the hUNa-s the prince sent a messenger to the
@@ -246,3 +250,4 @@ Having said this, I stop this note here. The perceptions of the tantric
 age as the cause or as a phase of decadence like many other historical
 perceptions that have been thrust upon is unlikely to hold water. I will
 try to next take up the case of the bauddha-s and Tibet separately.
+

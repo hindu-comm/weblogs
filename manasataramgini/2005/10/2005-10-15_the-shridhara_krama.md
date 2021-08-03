@@ -1,15 +1,19 @@
 +++
 title = "The shrIdhara krama"
+date = "2005-10-15"
+upstream_url = "https://manasataramgini.wordpress.com/2005/10/15/the-shridhara_krama/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/10/15/the-shridhara_krama/).
+
 The fragment of the totala tantra preserved by tradition has an
 important rite the shrIdhara karma to viShNu that is thus performed (we
 provide a edited version from a reasonably well made transcription):
 
-\-The upAsaka shall have a bath, then perform saMdhyA and then enter the
+-The upAsaka shall have a bath, then perform saMdhyA and then enter the
 sacrificial room.
 
-\-He shall then wash his hands and feet and perform Achamana. He shall
+-He shall then wash his hands and feet and perform Achamana. He shall
 place his right palm on the left palm in the saMkalpa posture and utter
 the mUla mantra:
 
@@ -31,9 +35,9 @@ oM hAM hR^idayAya namaH / oM hIM shirase svAhA/ oM hUM shikhAyai vaShaT
 / oM haiM kavachAya huM / oM hauM netratrayAya vauShaT / oM haH astrAya
 phaT /
 
-\-Then the Atman mudra will be shown by the upAsaka.
+-Then the Atman mudra will be shown by the upAsaka.
 
-\-Then having performed a purificatory prANAyAMa he shall meditate on
+-Then having performed a purificatory prANAyAMa he shall meditate on
 viShNu within himself in the cavity of the heart with the following
 dhyAnaM:
 
@@ -42,18 +46,18 @@ sha\~Nkha-chakra-samAyuktaM kundendu-dhavalaM hariM //
 shrIvatsa-kaustubha-yutaM vanamAlA-samanvitaM /   
 ratna-hAra-kirITena saMyuktaM parameshvaraM //
 
-\-Then he shall meditate upon an egg surrounding him and harden its
-shell with the formulae:
+-Then he shall meditate upon an egg surrounding him and harden its shell
+with the formulae:
 
 yaM viShNave namaH / kShaM viShNave namaH / raM viShNave namaH //
 
-\-Then he shall pervade the egg from within with the mantra:
+-Then he shall pervade the egg from within with the mantra:
 
 oM
 
-\-Then he shall offer flowers to viShNu within himself
+-Then he shall offer flowers to viShNu within himself
 
-\-Then he shall invoke the deities of the Asana of viShNu and worship
+-Then he shall invoke the deities of the Asana of viShNu and worship
 them with flowers thus:
 
 vaiShNavAsana-devatA AgachChata
@@ -72,18 +76,18 @@ namaH / oM vimalAyai namaH / oM utkarShiNyai namaH / oM j\~nAnAyai namaH
 / oM kriyAyai namaH / oM yogAyai namaH / oM prahvyai namaH / oM satyAyai
 namaH / oM IshAnAyai namaH / oM anugrahAyai namaH /
 
-\-Then he shall repeat the nyAsa and the Atman mudra and invoke viShNu
+-Then he shall repeat the nyAsa and the Atman mudra and invoke viShNu
 into the svastika maNDala  
-\-Then he shall offer arghya, snAna, vastra, AchamanaM, gandhapuShpaM,
+-Then he shall offer arghya, snAna, vastra, AchamanaM, gandhapuShpaM,
 dhUpaM, dIpaM and naivedyaM  
-\-Then he will do japa with the mUla mantra about 10 or 100 times.  
-\-Then he shall perform a\~Nga, Ayudha and parivAra upAsana with the
+-Then he will do japa with the mUla mantra about 10 or 100 times.  
+-Then he shall perform a\~Nga, Ayudha and parivAra upAsana with the
 following mantras:
 
 a\~Nga pUja:  
 oM hAM hR^idayAya namaH / oM hIM shirase namaH /oM hUM shikhAyai namaH /
 oM haiM kavachAya namaH /oM hauM netratrayAya namaH/ oM haH astrAya
-namaH  
+namaH
 
 lakShmI pUja:  
 oM shriyai namaH /
@@ -109,18 +113,18 @@ savAhana-parivArAya namaH / oM vAyave prANAdhipataye savAhana-parivArAya
 namaH / oM somAya nakShatrAdhipataye savAhana-parivArAya namaH / oM
 IshAnAya vidyAdhipataye savAhana-parivArAya namaH / oM anantAya
 nAgAdhipataye savAhana-parivArAya namaH / oM brahmaNe lokAdhipataye
-savAhana-parivArAya namaH / 
+savAhana-parivArAya namaH /
 
 digdevatA Ayudha pUja:  
 oM vajrAya huM phaT namaH / oM shaktyai huM phaT namaH / oM daNDAya huM
 phaT namaH / oM khaDgAya huM phaT namaH / oM pAshAya huM phaT namaH / oM
 dhvajAya huM phaT namaH / oM gadAyai huM phaT namaH / oM trishUlAya huM
-phaT namaH / oM chakrAya huM phaT namaH / oM padmAya huM phaT namaH / 
+phaT namaH / oM chakrAya huM phaT namaH / oM padmAya huM phaT namaH /
 
 viShavaksena pUja:  
 oM vauM viShvaksenAya namaH/
 
-\-Then the sAdhaka shall worship viShNu with the following stotra:
+-Then the sAdhaka shall worship viShNu with the following stotra:
 
 viShNave devadevAya namo vai prabhaviShNave/  
 viShNave vAsudevAya namaH sthitikarAya cha /  
@@ -134,4 +138,5 @@ sarva-goptre sarva-kartre sarva-duShTa-vinAshine /
 varapradAya shAntAya vareNyAya namonamaH /  
 sharaNyAya surUpAya dharma-kAmArthadAyine//
 
-\-Then he shall silent engage in japa of the mUla mantra
+-Then he shall silent engage in japa of the mUla mantra
+

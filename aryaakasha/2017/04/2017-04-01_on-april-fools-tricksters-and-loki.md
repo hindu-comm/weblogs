@@ -1,8 +1,11 @@
 +++
-title = "On April Fools, Tricksters Andxa0Loki"
-date = "April 1, 2017"
+title = "On April Fools, Tricksters And Loki"
+date = "2017-04-01"
+upstream_url = "https://aryaakasha.com/2017/04/01/on-april-fools-tricksters-and-loki/"
 
 +++
+Source: [here](https://aryaakasha.com/2017/04/01/on-april-fools-tricksters-and-loki/).
+
 Given that today is April Fools day and I keep seeing things linking it
 to the worship of Loki, Let me take a moment to address that.
 

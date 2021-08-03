@@ -1,8 +1,11 @@
 +++
-title = "On The Correct Understanding Of Myth, Mythos, Andxa0Mythology"
-date = "December 15, 2020"
+title = "On The Correct Understanding Of Myth, Mythos, And Mythology"
+date = "2020-12-15"
+upstream_url = "https://aryaakasha.com/2020/12/15/on-the-correct-understanding-of-myth-mythos-and-mythology/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/12/15/on-the-correct-understanding-of-myth-mythos-and-mythology/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/12/69831221_10162244594780574_8221955447779753984_o.jpg?w=786)
 
 Something I have been meaning to do for some time now, is set out in

@@ -1,7 +1,11 @@
 +++
 title = "akbarIya chitra kathA"
+date = "2010-03-11"
+upstream_url = "https://manasataramgini.wordpress.com/2010/03/11/akbariya-chitra-katha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/03/11/akbariya-chitra-katha/).
+
 The Mogol tyrant Akbar gave the old tradition stemming from the mankha
 and yamoghaNTha-s of yore an unexpected revival when it had nearly died
 under the depredations of the rAkShasa-mata. In the later phase of his
@@ -16,3 +20,4 @@ the yaj\~nopavIta-s for kShatriya-s and brAhmaNa-s and the horned
 demons. Several key figures are painted in the image of Akbar himself.
 
 [Click to see image](https://photos.app.goo.gl/MecJ3FmjpEQRT1d27)
+

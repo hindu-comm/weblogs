@@ -1,12 +1,16 @@
 +++
 title = "pA~ncharAtrika vaiShNava elements in the astronomy textbook sUrya-siddhanta and other notes"
+date = "2012-05-02"
+upstream_url = "https://manasataramgini.wordpress.com/2012/05/02/pancharatrika-vaishnava-elements-in-the-astronomy-textbook-surya-siddhanta-and-other-notes/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/05/02/pancharatrika-vaishnava-elements-in-the-astronomy-textbook-surya-siddhanta-and-other-notes/).
+
 When it comes to astronomy, more than any other field, the white
 indologists and their Japanese apers have sought to show Hindus as
 frauds or idiots (of course, nowadays they cushion it in all manner
-“sophisticated” jargon, such as “Indo-Moslem scientific collaboration
-in pre-modern South Asia”, etc) \[Footnote 1\]. Everything worthwhile in
+“sophisticated” jargon, such as “Indo-Moslem scientific collaboration in
+pre-modern South Asia”, etc) \[Footnote 1\]. Everything worthwhile in
 our old astronomy is attributed to Mesopotamians, Greeks and more
 recently the Chinese (incidentally, we are supposed to have learned
 about 0, yes about nothing, from them). The 4th book of the dEnkart,
@@ -37,8 +41,8 @@ taught the asura astronomical lore. The text itself later informs us
 that the knowledge of astronomy and astronomical instruments is lost at
 the end of each kalpa and has to be regained from sUrya. Now the text
 begins thus:  
-achintyaavyakta-rUpAya nirguNAya guNAtmane |  
-samasta-jagadAdhAra-mUrtaye brahmaNe namaH ||
+achintyaavyakta-rUpAya nirguNAya guNAtmane \|  
+samasta-jagadAdhAra-mUrtaye brahmaNe namaH \|\|
 
 Salutations to the god brahmA, who has an inconceivable and unmanifest
 form, without guNa-s and also of nature of guNa-s, the form \[i.e.
@@ -74,125 +78,125 @@ chapter maya asks sUrya to explain to him the geocentric model of the
 solar system and its orbital parameters. In answering him sUrya takes
 off on an unexpected detour that goes thus:
 
-vAsudevaH paraM brahma tanmUrtiH puruShaH paraH |  
-avyakto nirguNaH shAntaH pa\~nchaviMshAt paro .avyayaH ||
+vAsudevaH paraM brahma tanmUrtiH puruShaH paraH \|  
+avyakto nirguNaH shAntaH pa\~nchaviMshAt paro .avyayaH \|\|
 
 vAsudeva is the primal brahman whose primal form is the puruSha. It is
 imperceptible, unmanifest, without guNa-s, unperturbed and beyond the
 twenty five tattva-s.
 
-prakR^ity antargato devo bahir antash cha sarvagaH |  
-sa\~NkarShaNo .apaH sR^iShTvAdau tAsu vIryam avAsR^ijat ||
+prakR^ity antargato devo bahir antash cha sarvagaH \|  
+sa\~NkarShaNo .apaH sR^iShTvAdau tAsu vIryam avAsR^ijat \|\|
 
 This god \[vAsudeva\] pervaded the prakR^iti from within, without and
 entirely, \[and emanated\] sa\~NkarShaNa, who gave rise to the liquid
 element and emitted his seed into that.
 
-tad aNDam abhavad dhaimaM sarvatra tamasaavR^itam |  
-tatraaniruddhaH prathamaM vyaktIbhUtaH sanAtanaH ||
+tad aNDam abhavad dhaimaM sarvatra tamasaavR^itam \|  
+tatraaniruddhaH prathamaM vyaktIbhUtaH sanAtanaH \|\|
 
 That gave rise to a golden egg entirely covered in darkness. In that egg
 the eternal aniruddha first became manifest.
 
-hiraNyagarbho bhagavAn eSha Chandasi paThyate |  
-Adityo hy AdibhUtatvAt prasUtyA sUrya uchyate ||
+hiraNyagarbho bhagavAn eSha Chandasi paThyate \|  
+Adityo hy AdibhUtatvAt prasUtyA sUrya uchyate \|\|
 
 He \[aniruddha\] is called hiraNyagarbha in the Vedic recitations. Due
 to him being the first manifestation \[of the universe\] he is called
 Aditya, and as the universe emanates from him he is called sUrya (word
-play on Adi-\> Aditya and pra-sU-\> sUrya).
+play on Adi-> Aditya and pra-sU-> sUrya).
 
-paraM jyotis tamaH pAre sUryo .ayaM saviteti cha |  
-paryeti bhuvanAn eSha bhAvayan bhUtabhAvanaH ||
+paraM jyotis tamaH pAre sUryo .ayaM saviteti cha \|  
+paryeti bhuvanAn eSha bhAvayan bhUtabhAvanaH \|\|
 
 This great light which dispels the darkness is sUrya also known as the
 god savitar. As sUrya he is generator of all the worlds and the cause
 for sustenance of life.
 
-prakAshAtmA tamohantA mahAn ity eSha vishrutaH |  
-R^icho .asya maNDalaM sAmAny usrA mUrtir yajUMShi cha ||
+prakAshAtmA tamohantA mahAn ity eSha vishrutaH \|  
+R^icho .asya maNDalaM sAmAny usrA mUrtir yajUMShi cha \|\|
 
 This embodiment of light , the destroyer of darkness, he is well-known
 as the primal matter. His sphere \[is identified\] with the R^ik-s, his
 rays with the sAman-s and his mass with the yajuSh-es.
 
-trayImayo .ayaM bhagavAN kAlAtmA kAlakR^id vibhuH |  
-sarvAtmA sarvagaH sUkShmaH sarvam asmin pratiShThitam ||
+trayImayo .ayaM bhagavAN kAlAtmA kAlakR^id vibhuH \|  
+sarvAtmA sarvagaH sUkShmaH sarvam asmin pratiShThitam \|\|
 
 This great, auspicious deity \[assumes the\] form of time and is the
 maker of time. He is all-pervasive, moving in all ways, atomic and
 everything is established in him.
 
-rathe vishvamaye chakraM kR^itvA saMvatsarAtmakam |  
-ChandAMsy ashvAH sapta yuktAH paryaTaty eSha sarvadA ||
+rathe vishvamaye chakraM kR^itvA saMvatsarAtmakam \|  
+ChandAMsy ashvAH sapta yuktAH paryaTaty eSha sarvadA \|\|
 
 He rotates the chariot wheel of the universe which is of the form of the
 year. The seven Vedic meters are yoked as his horses and thus he
 eternally revolves
 
-tripAdam amR^itaM guhyaM pAdo .ayaM prakaTo .abhavat |  
-so .aha\~NkAraM jagat sR^iShTyai brahmANam asR^ijat prabhuH ||
+tripAdam amR^itaM guhyaM pAdo .ayaM prakaTo .abhavat \|  
+so .aha\~NkAraM jagat sR^iShTyai brahmANam asR^ijat prabhuH \|\|
 
 The indestructible 3/4th of him remains hidden, with the remaining ¼
 generating the visible universe. He the lord having generated the
 consciousness of I and emitted brahmA.
 
-tasmai vedAn varAn dattvA sarva-loka-pitAmaham |  
-pratiShThApy ANDa-madhye .atha svayaM paryeti bhAvayan ||
+tasmai vedAn varAn dattvA sarva-loka-pitAmaham \|  
+pratiShThApy ANDa-madhye .atha svayaM paryeti bhAvayan \|\|
 
 Having conferred on the grandfather of all worlds \[brahmA\] the boon of
 the veda-s, he installed \[brahma\] in the cosmic egg and himself
 illuminated it.
 
-atha sR^iShTyAM manash chakre brahmAha\~NkAra-mUrti-bhR^it |  
-manasash chandramA jaj\~ne sUryo .akShNos tejasAM nidhiH ||
+atha sR^iShTyAM manash chakre brahmAha\~NkAra-mUrti-bhR^it \|  
+manasash chandramA jaj\~ne sUryo .akShNos tejasAM nidhiH \|\|
 
 brahmA bearing the consciousness of I, \[had the first person
 experience\] of the thought of origination. From his mind was born the
 moon, and the sun the mass of light from his eyes.
 
-manasaH khaM tato vAyur agnir Apo dharA kramAt |  
-guNaikavR^iddhyA pa\~nchaiva mahAbhUtAni jaj\~nire ||
+manasaH khaM tato vAyur agnir Apo dharA kramAt \|  
+guNaikavR^iddhyA pa\~nchaiva mahAbhUtAni jaj\~nire \|\|
 
 From his mind sprung space; from space gas; from gas arose heat; from
 heat arose the liquid element and from it the solid element in order.
 
-agnIShomau bhAnuchandrau tatas tv a\~NgArakAdayaH |  
-tejo-bhU-khAmbu-vAtebhyaH kramashaH pa\~ncha jaj\~nire ||
+agnIShomau bhAnuchandrau tatas tv a\~NgArakAdayaH \|  
+tejo-bhU-khAmbu-vAtebhyaH kramashaH pa\~ncha jaj\~nire \|\|
 
 The sun and the moon arose from agni and soma and thereafter the five
-planets arose from the five primal elements in order: heat/light-\>Mars;
-solid-\>Mercury; space-\>Jupiter; liquid-\>Venus; gas-\>Saturn.
+planets arose from the five primal elements in order: heat/light->Mars;
+solid->Mercury; space->Jupiter; liquid->Venus; gas->Saturn.
 
-punar dvAdashadhAtmAnaM vyabhajad rAshi sa\~nj\~nakam |  
-nakShatra-rUpiNaM bhUyaH saptaviMshAtmakaM vashI ||
+punar dvAdashadhAtmAnaM vyabhajad rAshi sa\~nj\~nakam \|  
+nakShatra-rUpiNaM bhUyaH saptaviMshAtmakaM vashI \|\|
 
 The self-possessed \[brahma\] divided himself 12 fold to give rise to
 the rAshi-s and 27-fold to give rise to the nakShatra-s.
 
-tatash charAcharaM vishvaM nirmame devapUrvakam |  
-Urdhva-madhyAdharebhyo .atha srotobhyaH prakR^itIH sR^ijan ||
+tatash charAcharaM vishvaM nirmame devapUrvakam \|  
+Urdhva-madhyAdharebhyo .atha srotobhyaH prakR^itIH sR^ijan \|\|
 
 Thus, through the combinations of the three streams of prakR^iti (3
 guNa-s) he gave rise to the universe made of all the mobile and immobile
 entities filled with the gods.
 
-guNa-karma-vibhAgena sR^iShTvA prAgvad anukramAt |  
-vibhAgaM kalpayAmAsa yathAsvaM veda-darshanAt ||
+guNa-karma-vibhAgena sR^iShTvA prAgvad anukramAt \|  
+vibhAgaM kalpayAmAsa yathAsvaM veda-darshanAt \|\|
 
 Thus having successively given rise to the various entities classified
 as per their properties and activities, he ordained the various
 divisions of the universe as in the Vedic tradition.
 
-graha-nakShatra-tArAnAM bhUmer vishvasya vA vibhuH |  
-devAsura-manuShyANAM siddhAnAM cha yathAkramam ||
+graha-nakShatra-tArAnAM bhUmer vishvasya vA vibhuH \|  
+devAsura-manuShyANAM siddhAnAM cha yathAkramam \|\|
 
 The great \[brahmA\] then ordered the planets, lunar constellations,
 other stars, the earth and the realms of the deva-s, asura-s, men and
 siddha-s in order.
 
-brahmANDam etat suShiraM tatredaM bhUr-bhuvAdikam|  
-kaTAha-dvitayasyeva sampuTaM golakAkR^iti || SS 12.12-29
+brahmANDam etat suShiraM tatredaM bhUr-bhuvAdikam\|  
+kaTAha-dvitayasyeva sampuTaM golakAkR^iti \|\| SS 12.12-29
 
 The universe is a void within which the earth, the atmosphere etc are
 situated is shaped like a sphere comprised of the fusion of two kaTAha-s
@@ -224,8 +228,8 @@ shaunaka, which is clear of vaiShNava origin and attributed to a certain
 viShNukumAra. In that the mantra verses containing the famous vaiShNava
 recitation beginning with the following are present:
 
-jitam te puNDarIkaakSha namas te vishva-bhAvana |  
-namas te astu hR^iShIkesha mahA-puruSha pUrvaja || RVdh 3.33.174
+jitam te puNDarIkaakSha namas te vishva-bhAvana \|  
+namas te astu hR^iShIkesha mahA-puruSha pUrvaja \|\| RVdh 3.33.174
 
 This suggests that the vaiShNava interpolation might have even been
 pA\~ncharAtrika in origin as this stotra is central in later
@@ -241,9 +245,9 @@ relatively early layer of pA\~ncharAtrika tradition.
 But how does this go with the incontrovertible evidence for Greek
 influence? When we look at the text as we have it we cannot deny the
 presence of Greek words. For example:  
-\-The word kendra (Gk:kentron) is used 5 times, but nowhere other than
-in chapter 2.  
-\-The word koNa (Gk: gon = corner).  
+-The word kendra (Gk:kentron) is used 5 times, but nowhere other than in
+chapter 2.  
+-The word koNa (Gk: gon = corner).  
 Now even the occidental indologists agree that sUryasiddhAnta does not
 contain material of Ptolemy’s megale-syntaxis so, at least its core,
 cannot be younger than around 150 CE when he lived. On the other hand
@@ -285,7 +289,7 @@ space beneath the earth. The sphericity of the earth is alluded to in
 the secret language in the famous cosmographic sUkta of the RV (1.164)
 in R^ik 1.164.34-35. It is further clarified in the shatapatha brAhmaNa
 as:  
-ayaM vai loko gArhapatyaH | parimaNDala u vA ayam lokaH | (ShB
+ayaM vai loko gArhapatyaH \| parimaNDala u vA ayam lokaH \| (ShB
 7.1.1.37)  
 This world, i.e. the earth is the gArhapatya; this world is verily
 spherical. Any educated shrauta ritualist knows that he meditates on
@@ -293,9 +297,9 @@ this statement while he installs the gArhapatya altar which is
 explicitly equated with the earth.  
 Similarly in ShB 7.4.1.10 and 9.1.2.40 the sun is similarly described as
 being spherical:  
-evaitad Adityam upadadhAti sa hiraNmayo bhavati parimaNDala |  
+evaitad Adityam upadadhAti sa hiraNmayo bhavati parimaNDala \|  
 asau vA Adityo hR^idayaM shlakShNa eSha shlakShNaM hR^idayam parimaNDala
-eSha parimaNDalam |
+eSha parimaNDalaM \|
 
 Thus, it is clear that the spherical earth and sun was a concept among
 Hindus long before any later Greek influence on them. Hence, it is
@@ -337,7 +341,7 @@ Moon diameter: 480 yojana-s=3791.1552 Km; Modern value: 3474.2 Km
 Earth diameter 5000 yojana-s = 12488.21 Km Modern value: 12742 Km
 
 |                           |          |
-| ------------------------- | -------- |
+|---------------------------|----------|
 | sUrya siddhAnta M/E ratio | 0.303    |
 | Aristarchus M/E ratio     | .317-.39 |
 | Ptolemy M/E ratio         | 0.292    |
@@ -355,8 +359,8 @@ While indeed the svarbhAnu/rAhu theory was the old one with which the
 Hindus began, it is clear that even within the realm of the svarbhAnu
 theory the Hindus were coming to realize that the postulated entities
 were actually made of shadows. This is apparent in the statement:  
-tulyas tayo.astu svarbhAnur bhUtvAdhas tAt prasarpati |  
-uddhR^itya pR^ithivIChAyAM nirmito maNDalAkR^itiH || BhP 1.24.101  
+tulyas tayo.astu svarbhAnur bhUtvAdhas tAt prasarpati \|  
+uddhR^itya pR^ithivIChAyAM nirmito maNDalAkR^itiH \|\| BhP 1.24.101  
 svarbhAnu is equal in extant to both \[the sun and moon\]. It moves
 beneath them. It made out of the shadow of the Earth and has a spherical
 shape.
@@ -375,7 +379,7 @@ diameters provided by sUrya-siddhAnta and compare them to other
 estimates:
 
 |         |                |         |       |        |
-| ------- | -------------- | ------- | ----- | ------ |
+|---------|----------------|---------|-------|--------|
 | Planet  | sUryasiddhAnta | Ptolemy | Tycho | Modern |
 | Mars    | 2.0            | 1.57    | 1.67  | 0.4    |
 | Saturn  | 2.5            | 1.74    | 1.83  | 0.34   |
@@ -403,7 +407,7 @@ Hindu model for planetary diameters provided in the BhP 1.24 we already
 see them reporting a system of planetary diameters in yojana-s:
 
 |         |        |
-| ------- | ------ |
+|---------|--------|
 | Venus   | 1125   |
 | Jupiter | 843.75 |
 | Mars    | 632.8  |
@@ -468,3 +472,4 @@ systems of India”, it is remarkable to note that Euro-American
 indologists in the tradition of Neugebauer, Witzel, Pingree and his
 successors, Minkowski, and the like essentially say the same thing in a
 sugar-coated fashion.
+

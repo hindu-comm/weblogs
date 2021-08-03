@@ -1,7 +1,11 @@
 +++
 title = "Flogging dead Germans"
+date = "2006-07-24"
+upstream_url = "https://manasataramgini.wordpress.com/2006/07/24/flogging-dead-germans/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/07/24/flogging-dead-germans/).
+
 Recent events have exposed a peculiar bunch of Europeans- they appear on
 face to be sincere students of Indic issues, but deep within are
 Hindu-haters. This group is dominanted by people of Germanic origin, but
@@ -32,7 +36,7 @@ deepest implications. Despite the framework offered by Malhotra, we are
 disappointed to note that most of the Hindu elite that bothers to look
 into these matters is flogging dead horses, or more precisely dead
 Germans. Earlier they used to flog Mueller, and now even more
-disappointingly Schopenhauer\! In this process the Hindus are being lost
+disappointingly Schopenhauer! In this process the Hindus are being lost
 in the sthUla, entirely missing the sUkShma.
 
 These obssessions with the sthUla are making us flagrantly repeat our
@@ -63,3 +67,4 @@ behind the scenes to expunge such influences and the modern Indologists
 are actually the foot soldiers of this Isaistic counter assault. It is a
 small wonder they make common cause with the Marxist and Mohammedan
 ideological cousins when it comes to Hindus.
+

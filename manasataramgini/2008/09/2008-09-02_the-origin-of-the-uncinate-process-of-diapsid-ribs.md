@@ -1,7 +1,11 @@
 +++
 title = "The origin of the uncinate process of diapsid ribs"
+date = "2008-09-02"
+upstream_url = "https://manasataramgini.wordpress.com/2008/09/02/the-origin-of-the-uncinate-process-of-diapsid-ribs/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/09/02/the-origin-of-the-uncinate-process-of-diapsid-ribs/).
+
 In the long past days, in the dawn of my zoological studies, which were
 to set the course of my future pursuits in life, I became intrigued by
 the uncinate process. It was cited as a synapomorphy of the birds and
@@ -103,3 +107,4 @@ to me. Many lizards are not very efficient breathers, but have innovated
 the gular pump mechanism as was demonstrated in the monitors. So was
 there a major physiological shift in early lizard evolution that we are
 failing to note?
+

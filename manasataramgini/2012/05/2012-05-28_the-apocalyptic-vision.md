@@ -1,7 +1,11 @@
 +++
 title = "The apocalyptic vision"
+date = "2012-05-28"
+upstream_url = "https://manasataramgini.wordpress.com/2012/05/28/the-apocalyptic-vision/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/05/28/the-apocalyptic-vision/).
+
 ◊◊◊◊
 
 Lootika and her sister Varoli, who was visiting her, had cooked up an
@@ -24,7 +28,7 @@ announcing its presence and like a practitioner of the Caṇḍamāhāroṣaṇa
 tantra remained focused on his actions unshaken by the viṇmūtrādi. He
 was fingering his tablet, alternatively glancing at the photos he had
 taken from his latest rock-climbing forays or at the news panel. From
-time to time he looked out at the footpath leading to the restaurant
+time to time he looked out atthe footpath leading to the restaurant
 anxiously sifting through the maze of faces looking for a particular
 one. As he flipped through the screen of his tablet various news items
 flashed on it. There was one saying that the Kangress-M had won the
@@ -63,7 +67,7 @@ rest.
 
 At Somakhya ’s house just before getting started on the arcana of
 alkenes formed in elimination reactions, Vidrum asked him what the score
-in the IPL match was. Not surprisingly, Somakhya  responded: “Forget
+in the IPL match was. Not surprisingly, Somakhya responded: “Forget
 IPL, have you not seen the news of the new government with Kangress-M
 and Kangress-C in the coalition.” Vidrum: “arre politics ko coḍo yār।
 krikeṭ me kyā ho rahā hai?” Somakhya : “Forget the cricket, just
@@ -178,9 +182,10 @@ saṃyoga with the vīra in the hilly mañca in the midst of the charnel
 ground. Why is it that the elimination reaction with menthyl chloride
 always anti-Saytzeff?”  
 Varoli: “Why dear bhaginī? you seemed to have lapsed into the state of a
-vidyādharī even before you relearned your Chichibabin reaction\! So why
+vidyādharī even before you relearned your Chichibabin reaction! So why
 would you want to know of the anti-Saytzeff elimination now?”  
 Lootika: “Good sleep is union with tripurā. But, like the siddhi-s in
 the path to that unity, a dream rolled forth and we were caught in its
 jāla. Thus, indeed a snare could bring down the horse of Bhārata in its
-trot\!”
+trot!”
+

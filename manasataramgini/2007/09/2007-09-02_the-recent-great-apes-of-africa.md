@@ -1,7 +1,11 @@
 +++
 title = "The recent great apes of Africa"
+date = "2007-09-02"
+upstream_url = "https://manasataramgini.wordpress.com/2007/09/02/the-recent-great-apes-of-africa/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/09/02/the-recent-great-apes-of-africa/).
+
 Today 4 great apes still survive in Africa all of which share a more
 recent common ancestor to the exclusion of the Asiatic Pongo and appear
 to have diversified relatively recently from a common ancestor in
@@ -15,7 +19,7 @@ that have only resulted in more questions than answers with respect to
 affinities between various apes, their divergence times and their
 biogeography. Let us look at these apes and some issues:
 
-\-There are at least 3 representatives of genus Homo that nobody doubts
+-There are at least 3 representatives of genus Homo that nobody doubts
 are closer to extant Homo sapiens than any other great ape: 1)
 H.habilis, 2) H.erectus and archaic H.sapiens. There is the popular
 belief that H.habilis spawned the later H.erectus, which in turn spawned
@@ -40,7 +44,7 @@ resolved.
 Dramatic size variation in adult Homo erectus, with retention of
 anatomical similarity
 
-\-In addition to these problems, there is the issue of the relationship
+-In addition to these problems, there is the issue of the relationship
 between African H.erectus and H.habilis with the early Homo from
 Dmanisi, Georgia. Some have taken these Eurasian specimens to imply a
 possible origin for early Homo in Eurasia followed by back migration to
@@ -57,7 +61,7 @@ However, in the absence of further remains we cannot be sure of whether
 H.rudolfensis is indeed distinct or merely a part of the morphological
 variation spectrum shown by Homo of that period.
 
-\-The Australopithecines: The australopithecines clearly appear to be
+-The Australopithecines: The australopithecines clearly appear to be
 closer to Homo than to Pan. 3 major forms of australopithecines are
 recognized along with many other “controversial” forms. They are 1)
 A.afarensis 2) A.africanus and 3) the robust australopithecines, which
@@ -119,7 +123,7 @@ convergent. Yet again this is another case of a tantalizing fossil
 without a proper phylogenetic home.
 
 [![](https://i1.wp.com/bp2.blogger.com/_ZhvcTTaaD_4/RuK7uvXcXkI/AAAAAAAAAN0/0VQDl-CObLA/s320/Ardipithecus_chimp.jpg)](http://bp2.blogger.com/_ZhvcTTaaD_4/RuK7uvXcXkI/AAAAAAAAAN0/0VQDl-CObLA/s1600-h/Ardipithecus_chimp.jpg)  
-Dental similarity of Ardipithecus kadabba and P.troglodytes 
+Dental similarity of Ardipithecus kadabba and P.troglodytes
 
 –Ardipithecus, Orrorin and Sahelanthropus: These 3 apes appear to be the
 oldest of the apes belonging to the African great ape clade. All the 3
@@ -158,7 +162,7 @@ ancestral habitat of this clade, as well as the role of habitat, if any,
 in the emergence of the human lineage.
 
 [![](https://i2.wp.com/bp1.blogger.com/_ZhvcTTaaD_4/RuK-IfXcXlI/AAAAAAAAAN8/zv4rv81Tj8A/s320/chororapithecus.jpg)](http://bp1.blogger.com/_ZhvcTTaaD_4/RuK-IfXcXlI/AAAAAAAAAN8/zv4rv81Tj8A/s1600-h/chororapithecus.jpg)  
-Comparison of Chororapithecus and Gorilla 
+Comparison of Chororapithecus and Gorilla
 
 –Chororapithecus abyssinicus: The latest of the African great apes to be
 reported. It is a pathetic assemblage of a few gorilla-like teeth from a
@@ -173,3 +177,4 @@ re-invasion from Eurasia (after the Sivapithecus-Pongo lineage migrated
 there). After all this means African great apes could have emerged in
 Africa itself from a Dryopithecus-like form and only the Pongo lineage
 left to Eurasia.
+

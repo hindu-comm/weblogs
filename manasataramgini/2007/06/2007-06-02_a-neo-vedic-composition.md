@@ -1,7 +1,11 @@
 +++
 title = "A neo-vedic composition?"
+date = "2007-06-02"
+upstream_url = "https://manasataramgini.wordpress.com/2007/06/02/a-neo-vedic-composition/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/06/02/a-neo-vedic-composition/).
+
 R was giving me ride when we observed some sight that greatly reminded
 us of a shared juvenile experience, that filled us with much fuzzy
 nostalgia. At that moment R asked me if anybody could compose vedic
@@ -25,18 +29,17 @@ such attempts to imitate to shruti.
 
 But the muni informed me that there was one possible example. These are
 the details I could gather:  
-\-In 1917 a brAhmaNa named gajAnana sharma aka daivarAta from gokarNa, a
+-In 1917 a brAhmaNa named gajAnana sharma aka daivarAta from gokarNa, a
 student of the great saMskR^ita savant kAvyakaNTha gaNapati shAstrI,
 composed a set of 50 sUkta-s encompassing 448 R^ik-s.  
-\-He said to have spontaneously composed this while performing
-tapasya.  
-\-The majority are in the jagati Chandas, followed by triShtubh, then
+-He said to have spontaneously composed this while performing tapasya.  
+-The majority are in the jagati Chandas, followed by triShtubh, then
 anuShTubh and finally a small set of gAyatrI-s.  
-\-The primary devatA-s of his composition are agni, indra, sarasvatI,
+-The primary devatA-s of his composition are agni, indra, sarasvatI,
 savitA, bR^ihaspati, ApaH, vAyu, rudra, aditi and soma. He also has some
 compositions on puruSha and other resembling the philosophical works
 like the nAsadIya sUktaM.  
-\-The R^iks are marked with svara-s and the composer also created a pada
+-The R^iks are marked with svara-s and the composer also created a pada
 pATha as seen in the traditional saMhitA-s
 
 Unfortunately, copy of this was in the Telugu script and the gentleman
@@ -56,3 +59,4 @@ those rare individuals who had a genuine grasp of the vedic thought and
 action. Some people have the action to perform the shrauta ritual and
 others the inspiration of the vedic mind. A true knower of the veda
 understands both.
+

@@ -1,7 +1,13 @@
 +++
 title = "The jarAbodhIya sAmans"
+date = "2007-03-06"
+upstream_url = "https://manasataramgini.wordpress.com/2007/03/06/the-jarabodhiya-samans/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/03/06/the-jarabodhiya-samans/).
+
+
+
 [![](https://i0.wp.com/bp0.blogger.com/_ZhvcTTaaD_4/ReuTsGbvrLI/AAAAAAAAAEY/yTaYjVGohmI/s320/sAman.png)](http://bp0.blogger.com/_ZhvcTTaaD_4/ReuTsGbvrLI/AAAAAAAAAEY/yTaYjVGohmI/s1600-h/sAman.png)
 
 shakti was the son of maitrAvaruNi vasiShTha. The sons of shakti were
@@ -36,3 +42,4 @@ the high tone. In the second sAman the whole bhakti jarAbodhovA is in
 the low tonal series. The nidhana of the first one is a high tone, while
 in the second one we notice the descending tone series ‘345’ typical of
 many saman musical cadences.
+

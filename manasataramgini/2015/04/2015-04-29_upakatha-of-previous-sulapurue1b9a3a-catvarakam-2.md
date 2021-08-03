@@ -1,7 +1,11 @@
 +++
 title = "upakathā of previous: śūlapuruṣa-catvārakam-2"
+date = "2015-04-29"
+upstream_url = "https://manasataramgini.wordpress.com/2015/04/29/upakatha-of-previous-sulapuru%e1%b9%a3a-catvarakam-2/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/04/29/upakatha-of-previous-sulapuru%e1%b9%a3a-catvarakam-2/).
+
 [upakathā of previous:
 śūlapuruṣa-catvārakam-1](https://manasataramgini.wordpress.com/2015/04/14/upakatha-of-previous-sulapuru%e1%b9%a3a-catvarakam/ "upakathā of previous: śūlapuruṣa-catvārakam")
 
@@ -61,8 +65,8 @@ have heard of.”
 
 Vrishchika: “Why not: here is one which would make you think. I am not
 endeavoring to reproduce the exact words of the great sage Kṛṣṇa
-Dvaipāyana but I will put it in my own words trying to keep fairly
-close to the original. When your competence in the daivi-vāk reaches a
+Dvaipāyana but I will put it in my own words trying to keep fairly close
+to the original. When your competence in the daivi-vāk reaches a
 sufficient degree you may read it on your own, little one. The narration
 goes thus – After the great war, Dhṛtarāṣṭro Vaicitravīrya, who has been
 described as an evil king in the śruti, was distraught at the death of
@@ -78,10 +82,10 @@ Lootika distracted by Vrishchika’s narrative interjected: “May be those
 elephant-like animals were the supposed relict populations of Stegodons
 that apparently persisted in Asia into the Holocene.”
 
-Vrishchika continued: “Perhaps\! The said brāhmaṇa became exceedingly
+Vrishchika continued: “Perhaps! The said brāhmaṇa became exceedingly
 agitated and his hair stood on end. He panicked and wandered about
 hoping to find someone who might help him. To his horror he saw that the
-forest was surrounded by a net that blocked his escape and he also saw a
+forest was surrounded by a net that blocked his escapeand he also saw a
 large, frightful woman lying in wait with her arms stretched out, along
 with many broad-hooded cobras. Everywhere there were trees that seemed
 so tall that they were touching the sky. In their midst was a deep
@@ -104,7 +108,7 @@ sustained himself by licking that honey. However, in that distressed
 state he could not satiate himself satisfactorily with that honey and
 tried to lick more of it. Then he saw white and black rodents gnawing
 away the roots of the tree on which the hive was situated. Thus, he
-remained suspended from the wall of the waterhole fearing the snake
+remained suspended fromthe wall of the waterhole fearing the snake
 beneath, the elephant-like animal above, the angry bees, and the fear of
 the tree coming crashing down upon its roots being cut away by the
 rodents. Even if he did make it out, he still had the snakes in the
@@ -115,7 +119,7 @@ continued to hope that he would live on.
 That is it, Jhilleeka. It is a narrative with no ending but one that you
 should think about.”
 
-Jhilleeka: “It is indeed a dark narrative. It seems frightening to think
+Jhilleeka: “It is indeed a dark narrative. It seemsfrightening to think
 about. Could it mean that is how life is supposed to be?”
 
 Lootika chimed in: “That is correct Jhilleeka. It is not impossible that
@@ -253,7 +257,7 @@ what manifests in paleontology as the famous ‘*Law of Extinction*‘,
 which states that the background rates of extinction (i.e. leaving out
 catastrophic mass extinctions) for any group of related organisms is
 constant. A corollary is that organisms need to continually adapt
-primarily to avoid extinction from competition with others in face of an
+primarily to avoid extinction from competition withothers in face of an
 environment changing over time. Thus, the history of life is inherently
 a constant 0-sum game; hence, the only victory here is survival. Thus,
 the siddhānta is that the organism which leaves behind more of itself is
@@ -312,17 +316,17 @@ were people like Owen who despite a lifetime of study and a mountain of
 evidence they had amassed before their own eyes notably failed to grasp
 the message of Darwin. Such a damping happened to the early
 manifestations of such teachings in our midst, namely those of
-Yājñavalkya and Vasiṣṭha preserved in the Mahābhārata. So also the
-same thing happened in the midst of the yavanas with Empedocles and
-among the romākas with the teachings of Lucretius Carus. Against this
-background, it is notable that with an imperfect transmission Nietzsche
-managed to rediscover key facets of it in his philosophy. Perhaps
-another factor behind this was his other great influence, the other
-śūlapuruṣa Schopenhauer, from whom he actively sought to distinguish
-himself, who too had converged on Darwinian ideas before Darwin. After
-all Schopenhauer correctly saw the struggle between organisms as being
-part of the evolutionary process in what he termed the ‘will’ something
-used by Nietzsche too.”
+Yājñavalkya and Vasiṣṭha preserved in the Mahābhārata. So also the same
+thing happened in the midst of the yavanas with Empedocles and among the
+romākas with the teachings of Lucretius Carus. Against this background,
+it is notable that with an imperfect transmission Nietzsche managed to
+rediscover key facets of it in his philosophy. Perhaps another factor
+behind this was his other great influence, the other śūlapuruṣa
+Schopenhauer, from whom he actively sought to distinguish himself, who
+too had converged on Darwinian ideas before Darwin. After all
+Schopenhauer correctly saw the struggle between organisms as being part
+of the evolutionary process in what he termed the ‘will’ something used
+by Nietzsche too.”
 
 Lootika: “Somakhya, your bringing up the ancient ārya-s, yavana-s and
 romākas leads me to that zone where it is hard to tell where science has
@@ -335,19 +339,19 @@ wonderful and even mysterious avenues for exploration that contribute to
 the completeness of our knowledge and throw light on matters that might
 defeat a good scientist. As Hindus we subscribe to and practice the
 totality of that knowledge, since it is a heathen thing. Of the
-śūlapuruṣa-catvārakam, Gauss did not achieve that totality of
-knowledge despite his supreme mental capacity because of incompleteness
-on the philosophical front caused by the pretamata. Schopenhauer had
-experience with actual science as part of his research on color vision
-and his extensive study of the works of biologists. However,
-importantly, Schopenhauer and Nietzsche, accessed glimpses of the
-heathen past, thought not of their own but of the yavana-romākau and the
-ārya-s. As a result they were able to access aspects of the completeness
-of knowledge and perhaps that allowed them to channel part of it into
-scientific insight. Let me read out another statement of the pramatta,
-which reveals that heathen inspiration with respect to  his theory of
-the totality of aesthetic understanding, but may also be more generally
-true of knowledge –
+śūlapuruṣa-catvārakam, Gauss did not achieve that totality of knowledge
+despite his supreme mental capacity because of incompleteness on the
+philosophical front caused by the pretamata. Schopenhauer had experience
+with actual science as part of his research on color vision and his
+extensive study of the works of biologists. However, importantly,
+Schopenhauer and Nietzsche, accessed glimpses of the heathen past,
+thought not of their own but of the yavana-romākau and the ārya-s. As a
+result they were able to access aspects of the completeness of knowledge
+and perhaps that allowed them to channel part of it into scientific
+insight. Let me read out another statement of the pramatta, which
+reveals that heathen inspiration with respect to his theory of the
+totality of aesthetic understanding, but may also be more generally true
+of knowledge –
 
 ‘*I have kept my gaze fixed on those two artistic deities of the Greeks,
 Apollo and Dionysos, in whom I discern the living and visible
@@ -368,37 +372,37 @@ ancient past equipped with fresh understanding to complete their sphere
 of knowledge?”
 
 Somakhya: “Doubtless; the renewal of philosophical insight among the
-śūlapuruṣa-s and earlier science itself in the greater mleccha world
-was via reamination with heathen knowledge. But in response, an
-important reaction occurred in the world of the mlecchas, which was a
-major factor in ‘the damping of the message of the greater
-promulgators’. We must not forget that the mleccha power structure as
-it continues to this date was established after destruction of heathens
-by the pretavādin-s (rākṣasavādino vadanti: eko rākṣaso .anyā devā na
-vartante). At the heart of this power structure lies the scaffolding of
-rākṣasavāda and it was threatened seriously by the insights of
-Schopenhauer, Darwin and Nietzsche – the preta literally was in danger
-of being dead once and for all. This caused an upheaval that had the
-potential to shake the mleccha world. A similar thing had happened much
-earlier with the other eka-rākṣasavāda, namely marūnmāda, when
-encountering the heathen knowledge of the yavana-s and Hindus. There it
-was eventually smothered by the marūnmatta-s so firmly that it had, and
-will have, no opportunity of raising its head again. The age was
-different when it did raise its head this time around among the
-mlecchas, and its earlier assaults had already weakened the ability of
-the mlecchas to smother it in the fashion of the marūnmatta-s before
-them. However, the meme of rākṣasavāda was not to be defeated by such
-upheavals. It instead remodeled itself in the form of the secular idiom
-of the mlecchas, which is after all pracchana-rākṣasavāda. In this
-pracchana-rūpa it invaded the masses of the Hindus when we were
-conquered by the vile mleccha and our dharma is drowning due to it. Even
-in the mleccha world it set off a great internal conflict when the
-śūlapuruṣa-s realizing their servility to the ekarākṣasavāda attempted
-to shake it off, but due their own insufficiency of understanding, and
-defeat by their cousins they were forced to submit to it in its open or
-hidden forms. We too will face such a moment of reckoning where we will
-have to fight a combined assault of ekarākṣasavāda in its various
-manifestations to preserve our heathendom or perish in an attempt.
+śūlapuruṣa-s and earlier science itself in the greater mleccha world was
+via reamination with heathen knowledge. But in response, an important
+reaction occurred in the world of the mlecchas, which was a major factor
+in ‘the damping of the message of the greater promulgators’. We must not
+forget that the mleccha power structure as it continues to this date was
+established after destruction of heathens by the pretavādin-s
+(rākṣasavādino vadanti: eko rākṣaso .anyā devā na vartante). At the
+heart of this power structure lies the scaffolding of rākṣasavāda and it
+was threatened seriously by the insights of Schopenhauer, Darwin and
+Nietzsche – the preta literally was in danger of being dead once and for
+all. This caused an upheaval that had the potential to shake the mleccha
+world. A similar thing had happened much earlier with the other
+eka-rākṣasavāda, namely marūnmāda, when encountering the heathen
+knowledge of the yavana-s and Hindus. There it was eventually smothered
+by the marūnmatta-s so firmly that it had, and will have, no opportunity
+of raising its head again. The age was different when it did raise its
+head this time aroundamong the mlecchas, and its earlier assaults had
+already weakened the ability of the mlecchas to smother it in the
+fashion of the marūnmatta-s before them. However, the meme of
+rākṣasavāda was not to be defeated by such upheavals. It instead
+remodeled itself in the form of the secular idiom of the mlecchas, which
+is after all pracchana-rākṣasavāda. In this pracchana-rūpa it invaded
+the masses of the Hindus when we were conquered by the vile mleccha and
+our dharma is drowning due to it. Even in the mleccha world it set off a
+great internal conflict when the śūlapuruṣa-s realizing their servility
+to the ekarākṣasavāda attempted to shake it off, but due their own
+insufficiency of understanding, and defeat by their cousins they were
+forced to submit to it in its open or hidden forms. We too will face
+such a moment of reckoning where we will have to fight a combined
+assault of ekarākṣasavāda in its various manifestations to preserve our
+heathendom or perish in an attempt.
 
 The momentous challenge to the rākṣasonmāda-s and the philosophical
 renewal in the mleccha lands had its ripples in our midst too. However,
@@ -413,17 +417,17 @@ proper understanding of the essence of Darwin who lay at the core of the
 doctrine. By then, for a long time the Hindus had been rather smug with
 the insights of uttara mīmāṃsa in its various evolutes and
 manifestations. In the process they had turned their back in large part
-on their deeper genius ensuing both from the original śruti and that of
+on their deeper genius ensuing both from the original śruti and thatof
 ancient sāmkhya in the great epic, Āryabhaṭa, Caraka, Suśruta, Kaṇāda
 and Akṣapāda. Even though Annambhaṭṭa had emphasized that Pāṇinīyam and
 Kāṇādam should be combined and form the basis of knowledge there were
 few listeners. As a result, we were left we few who could surf on the
-ripples from the mleccha lands to facilitate a reanimation with our own
+ripples from the mleccha lands to facilitate areanimation with our own
 past – in all this only the vaṇga Brajendranath Seal made a solitary but
 commendable attempt. Hence, as you say such a reanimation is still
 necessary if a larger Hindu system of knowledge were to rise again.
 
-With the fight back by the ekarākṣasavāda the Dionysian and the
+With the fight back bythe ekarākṣasavāda the Dionysian and the
 Apollonian ceased to coexist. Among those smoldering ruins of the
 revolution in the mleccha lands arose the fourth of the śūlapuruṣa-s you
 have studied and he saw their course far into future with few scattered
@@ -449,3 +453,4 @@ speed from the reaction. She remarked to herself: “By Varuṇa that was a
 narrow one but the wheel rolls on.”
 
 In the future there will be a concluding part relating Oswald Spengler.
+

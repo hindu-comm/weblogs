@@ -1,8 +1,11 @@
 +++
-title = "Opportunities that we will bexa0missing"
-date = "2017-03-04"
+title = "Opportunities that we will be missing"
+date = "2017-04-03"
+upstream_url = "https://padmavajra.net/2017/03/04/opportunities-that-we-will-be-missing/"
 
 +++
+Source: [here](https://padmavajra.net/2017/03/04/opportunities-that-we-will-be-missing/).
+
 This [opinion
 piece](http://web.archive.org/web/20170304171651/http://indianexpress.com/article/opinion/columns/chhattisgarh-tirbals-development-big-companies-profits-umar-khalid-research-paper-ramjas-college-4551609/)
 by Umar Khalid(note: I consider communist modes,philosophy and praxis to

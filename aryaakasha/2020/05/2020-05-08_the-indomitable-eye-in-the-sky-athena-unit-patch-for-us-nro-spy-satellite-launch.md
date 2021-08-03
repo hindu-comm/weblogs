@@ -1,8 +1,11 @@
 +++
-title = "The Indomitable Eye In The Sky – ‘Athena’ Unit Patch For US NRO Spy Satellitexa0Launch"
-date = "May 8, 2020"
+title = "The Indomitable Eye In The Sky – ‘Athena’ Unit Patch For US NRO Spy Satellite Launch"
+date = "2020-05-08"
+upstream_url = "https://aryaakasha.com/2020/05/08/the-indomitable-eye-in-the-sky-athena-unit-patch-for-us-nro-spy-satellite-launch/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/05/08/the-indomitable-eye-in-the-sky-athena-unit-patch-for-us-nro-spy-satellite-launch/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/05/nrol-79_mission_patch.png?w=733)
 
 It is FRIDAY – Devi’s Day. And therefore, a rather excellent unit patch

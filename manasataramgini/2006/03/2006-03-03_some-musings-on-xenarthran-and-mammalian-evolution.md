@@ -1,7 +1,11 @@
 +++
 title = "Some musings on xenarthran and mammalian evolution"
+date = "2006-03-03"
+upstream_url = "https://manasataramgini.wordpress.com/2006/03/03/some-musings-on-xenarthran-and-mammalian-evolution/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/03/03/some-musings-on-xenarthran-and-mammalian-evolution/).
+
 The living xenarthrans (defined by their unique zygapophysis
 articulations in the lumbar vertebrae) appear to be last representatives
 of a great adaptive radiation of mammals of the South American land
@@ -60,3 +64,4 @@ have played a major role in the diversification of mammals. So it raises
 the possibility that the meridiungulates were a sister group of the
 xenarthrans. Investigation of this link and the solely south American
 radiation is of considerable interest.
+

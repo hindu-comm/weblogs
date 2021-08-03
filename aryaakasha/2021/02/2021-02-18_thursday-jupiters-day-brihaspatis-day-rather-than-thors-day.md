@@ -1,8 +1,11 @@
 +++
-title = "Thursday – Jupiter’s Day, Brihaspati’s Day Rather Than Thor’sxa0Day"
-date = "February 18, 2021"
+title = "Thursday – Jupiter’s Day, Brihaspati’s Day Rather Than Thor’s Day"
+date = "2021-02-18"
+upstream_url = "https://aryaakasha.com/2021/02/18/thursday-jupiters-day-brihaspatis-day-rather-than-thors-day/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/02/18/thursday-jupiters-day-brihaspatis-day-rather-than-thors-day/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/02/iccd11305326_galli-pietro-giove-h-3691-.jpg?w=576)
 
 It is Thursday – Jupiter’s Day ; or, in the Hindu reckoning,

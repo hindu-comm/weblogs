@@ -1,7 +1,11 @@
 +++
 title = "Hsuan Tsung divided by two : Please NO"
+date = "2006-03-29"
+upstream_url = "https://manasataramgini.wordpress.com/2006/03/29/hsuan-tsung-divided-by-two-please-no/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/03/29/hsuan-tsung-divided-by-two-please-no/).
+
 We climbed up the turret there was a closely fought encounter going on
 the plain. We had sent a division to protect the home ground under an
 young and consentious captain, however, he was pretty inexperienced. The
@@ -21,7 +25,7 @@ stopped by an enemy division close to where our young captain was being
 pinned down in a saMkula yuddha. General kAmarAja broke through the
 enemy ranks and was wreaking havoc, when he was suddenly attacked by a
 second enemy division. We asked him to extricate himself and attack that
-second division code named indra-jAla 1, and sent our able servants to
+second division code named indra -jAla 1, and sent our able servants to
 reinforce his ranks, as well as covered him with mantra prayogas. He
 scored a spectacular victory on the front indra jAla 1 and returned to
 tackle indra jAla 2 that he hopes control and then decimate it. We also
@@ -35,8 +39,9 @@ raNA\~NgaNa we saw the corpses of kR^ishNa tvacha, dva saumyau,
 shvetaDambara, kShetragu, mayAchumbikA and sarva-madollAsa. As we walked
 by each preta arose laughed and flew away. We placed the samid in the
 fire and cast the oblation. The yakShiNis “OPJ”, “SGYA”, “LZ”, “ME” and
-“LR” arose with each oblation. We kept sending them but each one
-appeard to explode into pieces and run away. Then we saw the vairi send
-the maraNAkShaNa– it gripped us, we were gripped by the terrible pasha
-from which no one has emerged on the other side. They said the yakShiNis
-have become phena.
+“LR” arose with each oblation. We kept sending them but each one appeard
+to explode into pieces and run away. Then we saw the vairi send the
+maraNAkShaNa– it gripped us, we were gripped by the terrible pasha from
+which no one has emerged on the other side. They said the yakShiNis have
+become phena.
+

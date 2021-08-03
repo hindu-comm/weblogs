@@ -1,8 +1,11 @@
 +++
-title = "Kali in the Vedas Part 1 – A Hymn of Praise and prayer toxa0Night"
-date = "October 13, 2019"
+title = "Kali in the Vedas Part 1 – A Hymn of Praise and prayer to Night"
+date = "2019-10-13"
+upstream_url = "https://aryaakasha.com/2019/10/13/kali-in-the-vedas-part-1-a-hymn-of-praise-and-prayer-to-night/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/10/13/kali-in-the-vedas-part-1-a-hymn-of-praise-and-prayer-to-night/).
+
 ![72051207_10162384960300574_6479777173329674240_n](https://aryaakasha.files.wordpress.com/2019/10/72051207_10162384960300574_6479777173329674240_n.jpg?w=676)
 
 It is occasionally suggested that there is no Kali in the Vedas. Now, to

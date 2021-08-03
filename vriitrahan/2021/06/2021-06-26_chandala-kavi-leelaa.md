@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "June 26, 2021"
+date = "2021-06-26"
+upstream_url = "https://vriitrahan.wordpress.com/2021/06/26/chandala-kavi-leelaa/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2021/06/26/chandala-kavi-leelaa/).
+
 This lovely verse by the chaaNDala-kavi maata\~Nga divaakara shows us
 the skill of poets even from the lowest varNas and flies in the face of
 allegations of social mobility in Ancient India. The kavi was the court

@@ -1,11 +1,15 @@
 +++
 title = "The puruSha and the superorganism"
+date = "2005-09-16"
+upstream_url = "https://manasataramgini.wordpress.com/2005/09/16/the-purusha-and-the-superorganism/"
 
 +++
-yat puruṣaṃ vyadadhuḥ katidhā vyakalpayan |   
-mukhaṃ kimasya kau bāhū kā ūrū pādā ucyete ||   
-brāhmaṇo.asya mukhamāsīd bāhū rājanyaḥ kṛtaḥ |   
-ūrūtadasya yad vaiśyaḥ padbhyāṃ śūdro ajāyata ||  
+Source: [here](https://manasataramgini.wordpress.com/2005/09/16/the-purusha-and-the-superorganism/).
+
+yat puruṣaṃ vyadadhuḥ katidhā vyakalpayan \|   
+mukhaṃ kimasya kau bāhū kā ūrū pādā ucyete \|\|   
+brāhmaṇo.asya mukhamāsīd bāhū rājanyaḥ kṛtaḥ \|   
+ūrūtadasya yad vaiśyaḥ padbhyāṃ śūdro ajāyata \|\|  
   
 Recently the ecologists Wilson and Hoeldobler claimed that group
 selection and not kin selection was the major force in the origin of
@@ -51,4 +55,5 @@ eusocial society derived through strong group cooperation. Kinship
 actually is hardly mentioned in the descriptions of the puruSha. This I
 find pretty remarkable- almost as though given a chance we would lapse
 into a eusocial condition. I find the implications of this pretty
-interesting in terms of the origin of eusociality.
+interesting in terms of the origin of eusociality.  
+

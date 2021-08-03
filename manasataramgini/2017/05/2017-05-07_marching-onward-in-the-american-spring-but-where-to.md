@@ -1,7 +1,11 @@
 +++
 title = "Marching onward in the American spring but where to?"
+date = "2017-05-07"
+upstream_url = "https://manasataramgini.wordpress.com/2017/05/07/marching-onward-in-the-american-spring-but-where-to/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2017/05/07/marching-onward-in-the-american-spring-but-where-to/).
+
 We hear in the news that the students (and whoever else) at the
 University of California, Berkeley, are in state of ferment. This is
 unsurprising in itself given that the it has for long been the center of
@@ -112,11 +116,10 @@ side they took being correct. Thus, the truth or the consequences of the
 observed data does not matter much for this academic; rather he would
 simply take a particular stance he perceives as favorable to his
 ideology and cause, a build a formal-looking framework for it
-(“theory”), and argue for its correctness. Thankfully, objectivity
-being a major factor in the sciences has curbed this practice outside of
-areas of biology that directly intersect with human biodiversity.
-However, in the so called social sciences it has been pursued
-untrammeled.
+(“theory”), and argue for its correctness. Thankfully, objectivity being
+a major factor in the sciences has curbed this practice outside of areas
+of biology that directly intersect with human biodiversity. However, in
+the so called social sciences it has been pursued untrammeled.
 
 The way such practices have gotten the upper hand in the American
 academia is also interesting to observe. One area which illustrates this
@@ -199,25 +202,24 @@ lust for extended-abstract-type tabloid publications. If scientists were
 to agitate and swing into action for remedying these matters they would
 certainly have my support. But these are not exactly the things spurring
 them into the march it seems:  
-1\) When you see early-career scientists (e.g. post-docs), who really
+1) When you see early-career scientists (e.g. post-docs), who really
 need to be putting their head down and racking up the results to find a
 job in the ultra-competitive Euro-American market taking not just a
 weekend off for the march but spending whole months on it, it raises a
 red flag.  
-2\) When you see issues, which should be peripheral to science, like
-rare atypical sexualities, the 3rd Abrahamism, and women’s issues being
-a major factor among the marchers one needs to look more closely.  
-3\) As we have remarked, a good part of the “high-power” American
-faculty lead large lives but when they talk of suffering one needs to
-ask why?  
-4\) Then when you see such people worrying about the environment when
+2) When you see issues, which should be peripheral to science, like rare
+atypical sexualities, the 3rd Abrahamism, and women’s issues being a
+major factor among the marchers one needs to look more closely.  
+3) As we have remarked, a good part of the “high-power” American faculty
+lead large lives but when they talk of suffering one needs to ask why?  
+4) Then when you see such people worrying about the environment when
 they live in a country with one of the most pristine environments as
 well as being one of the most inveterate user of fossil fuels one almost
 recognizes the faux concern for the other typical of the Abrahamist
 (e.g. the aspersion at Hindu cremation in India – why not stop using
 your gas-guzzling car before worrying about Hindoos burning their
 corpses).  
-5\) Making noise about climate studies rather putting ones head down to
+5) Making noise about climate studies rather putting ones head down to
 study the actual data along with falsifications that are in the same
 league as those seen in cancer biology and high-profile molecular
 biology publications makes one wonder the politics of the climate-change
@@ -229,7 +231,7 @@ scientific empiricism, have only adopted a secular mutation thereof,
 often ensuing in some form from the unkempt prophet Marx. With several
 decades of preaching this religion in academia and converting students
 by the droves they are now raw material for those wishing to enact more
-widely the agenda of this religion and by the usual pulls the 3rd
+widelythe agenda of this religionand by the usual pulls the 3rd
 Abrahamism. Now, one may point out that this is purely a struggle inside
 Abrahamism, like between Shia and Sunni or Orthodox and the western
 flavors of the preta-cult. But just as Sunni and Shia alike can be
@@ -257,12 +259,13 @@ brotherhood. Would you not be supporting this hate?”
 
 We: “See – hate for the other is something which is characteristic of
 Abrahamistic religions like Mohammedanism. Why foist it on the
-brāhmaṇa-s. Do Mussalman-s not hate the kaffr who simply does not
-want to convert to and considers that religion as mostly being a
-negative path? With this premise it is easy to see the other side which
-simply want’s to defend its space as hateful.”
+brāhmaṇa-s. Do Mussalman-s not hate the kaffr who simply does not want
+to convert to and considers that religion as mostly being a negative
+path? With this premise it is easy to see the other side which simply
+want’s to defend its space as hateful.”
 
 TSPian: “I know some people misunderstand Islam and unpleasant things
 happen sometimes due to their actions in the name of Islam. That is why
 I am myself for a totally modern path which recognizes human rights and
 does not allow hate from either religion.”
+

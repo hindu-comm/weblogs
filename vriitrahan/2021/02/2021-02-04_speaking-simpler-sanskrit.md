@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "February 4, 2021"
+date = "2021-02-04"
+upstream_url = "https://vriitrahan.wordpress.com/2021/02/04/speaking-simpler-sanskrit/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2021/02/04/speaking-simpler-sanskrit/).
+
 A few thoughts on how we (learners) can simplify speaking Sanskrit
 within the limits of Sanskrit Grammar.  
   

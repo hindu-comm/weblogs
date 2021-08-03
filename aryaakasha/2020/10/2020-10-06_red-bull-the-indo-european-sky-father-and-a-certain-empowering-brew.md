@@ -1,8 +1,11 @@
 +++
-title = "Red Bull – The Indo-European Sky Father And A Certain Empoweringxa0Brew"
-date = "October 6, 2020"
+title = "Red Bull – The Indo-European Sky Father And A Certain Empowering Brew"
+date = "2020-10-06"
+upstream_url = "https://aryaakasha.com/2020/10/06/red-bull-the-indo-european-sky-father-and-a-certain-empowering-brew/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/10/06/red-bull-the-indo-european-sky-father-and-a-certain-empowering-brew/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/10/egxnwbmxyaawkkb.jpg?w=1024)
 
 Something I have often taken a bit of pleasure in, is finding the

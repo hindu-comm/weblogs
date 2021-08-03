@@ -1,7 +1,11 @@
 +++
 title = "The fifth story"
+date = "2014-09-14"
+upstream_url = "https://manasataramgini.wordpress.com/2014/09/14/the-fifth-story/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/09/14/the-fifth-story/).
+
 Perhaps we should not be expending our extra-professional writing time
 on such stories; however, a long conversation with kauṇḍinyā after a
 long time since she left for the trivarga-deśa incited us to record yet
@@ -86,7 +90,7 @@ residual bhārata. We argued that the proposed Islamo-Christian era of
 enlightenment, as in the Abbasid Caliphate, could happen only if
 pretasādhaka-s remained behind with their marūnmatta brethren. We were
 blamed as being neo-Nazis, frivolous idiots, or both and threatened with
-summary expulsion from the debate unless we shut our mouths\!”
+summary expulsion from the debate unless we shut our mouths!”
 
 Vrishchika taking her tablet out of her bag glanced at it and remarked:
 “Hey, see I just got this message – śrī Ram-mandir Mishra calls for
@@ -104,7 +108,7 @@ Somakhya: “astu yathā tathā ।”
 Lootika: “īdṛkṣāya mūryāya kimapi vadāmi ?  
 Vrishchika: “By the way next week’s debate topic is ‘should the rāma
 mandira be built at ayodhyā?  
-Somakhya: “Great\! I did not know that was still a hot topic for debate.
+Somakhya: “Great! I did not know that was still a hot topic for debate.
 I thought it was so much of our grandparents’ era.”  
 Lootika: “I was just getting the feeling that we have had enough of this
 and may be we should not enter next week’s debate.”  
@@ -270,9 +274,9 @@ day break?”
 Somakhya: “This is a really difficult call. At this hour, in an alien
 town, the daṇḍika-s could end up getting suspicious of us. Plus, we are
 armed ourselves, which we are not supposed to be according to the
-daṇḍika-s. Worst of all, we are with the girls, which also we should
-not be doing according to them. So I suggest we lie quiet here and slip
-out at day break to catch the first bus back home.”  
+daṇḍika-s. Worst of all, we are with the girls, which also we should not
+be doing according to them. So I suggest we lie quiet here and slip out
+at day break to catch the first bus back home.”  
 Sharvamanyu: “Before that may be we should cut their boat free.”  
 Hearing this Lootika and Vrishchika panicked: “Let us just let lie
 quiet. What if they have an unseen sentry posted somewhere watching over
@@ -296,8 +300,8 @@ knife turned to the camera and said aloud: “This is how the enemies of
 Islam are dispatched to the hell-fire by the proselytizing sword of the
 Jaish al Islam. O Kaffrs watch your defense minister Mr. Ajay Uniyal
 being sent to Jahannam right in your mulk itself. We shall soon be the
-lords of all of al Hind\!”  
-That man loudly shouted: “hara-hara-mahādeva\!; Your janaka was an
+lords of all of al Hind!”  
+That man loudly shouted: “hara-hara-mahādeva!; Your janaka was an
 unmatta, your object of worship a rākṣasa and your gharaṭṭa-śāṇa the
 yoni of a puṃścalī.” This outburst from the man who was silent all this
 while distracted them. In a flash he tripped the man behind him with a
@@ -318,7 +322,7 @@ he remarked:
 make it, but give me your phone so that I can make a call. Have these
 papers conveyed to the defense minister Ajay Uniyal or at least widely
 publicized. Nothing else matters now I shall attain the realm of the
-great indra\!”
+great indra!”
 
 **◊◊◊◊◊◊◊**
 
@@ -365,7 +369,7 @@ fell for the impersonation and the rest as they say is history.”
 Vrishchika: “What about the message he gave you all and asked to convey
 to Uniyal?”  
 Somakhya: “Sadly, Uniyal chose not to publicize it at that point
-claiming security concerns. Hindus as idiots yet again\! Here is a copy
+claiming security concerns. Hindus as idiots yet again! Here is a copy
 of the queer document. May be you could read it out aloud for your
 husband’s benefit and also to refresh our memories.”
 
@@ -379,7 +383,7 @@ night shortly after I fell asleep I was woken up by someone tapping on
 my shoulder. When I awoke I saw a gray hazy figure standing in front of
 me. It introduced itself as the ghost of rājārāma. It then said to me
 the following words. Note the Hindus have become not just sybarites but
-also idiots\! My father, the great rājan, had struggled to restore Hindu
+also idiots! My father, the great rājan, had struggled to restore Hindu
 dignity but today you people squander this away. You think you will be
 on the ‘right side of history’ by believing the words of the mleccha-s.
 But you get to be on the right side of history only by winning, else you
@@ -387,8 +391,8 @@ stand to be erased from history by the barbarous, genocidal mleccha-s
 who will use the marūnmatta-s and the pītavarṇa śvapaca-s to exterminate
 the Hindus. Remember that the mleccha-s are our most dreadful enemies,
 the power behind the marūnmatta-s. This is known as the
-mleccha-marūnmattābhisaṃdhi. No nation survives by gifting away land.
-By feeding marūnmatta demon the haviṣ of our own land you are only
+mleccha-marūnmattābhisaṃdhi. No nation survives by gifting away land. By
+feeding marūnmatta demon the haviṣ of our own land you are only
 strengthening them to come back and whack you harder. Hence, we need to
 be able to strike like our great god indra who mercilessly struck down
 the three heads of triśiras tvāṣṭra. Hence, the veda says:  
@@ -396,7 +400,7 @@ the three heads of triśiras tvāṣṭra. Hence, the veda says:
 avābhinat satpatir manyamānam ।  
 tvāṣṭrasya cid viśvarūpasya gonām   
 ā cakrāṇas trīṇi śīrṣā parā vark ॥ ”  
-May that glorious deed of maghavan inspire us\! Thus, we need to be able
+May that glorious deed of maghavan inspire us! Thus, we need to be able
 to strike down the mleccha who is the triśiras behind the marūnmatta who
 is the dānava. So let me emphatically repeat – If you gift away
 territory, which was yours, claiming it has been poisoned by the enemy
@@ -421,7 +425,7 @@ akarmā dasyur abhi no amantur anya-vrato amānuṣaḥ ।
 tvaṃ tasya+amitrahan vadhar dāsasya dambhaya ॥  
 Confronting us is the dasyu, without rituals, bereft of sense, observing
 laws different from ours, inhuman; you O killer of enemies, baffle the
-deadly weapon of the dāsa\!
+deadly weapon of the dāsa!
 
 It was by fighting as though inspired by the deva-s described in the
 veda within the sūkta known as apratiratha aindra that we rolled back
@@ -430,23 +434,22 @@ efforts as the enemy is really stronger than you in the military sphere.
 The lessons learned by other nations show what lies ahead. You have the
 rudhira-varṇa-s of mahākrauñcadvīpa whose numerous tribes were
 overpowered and exterminated by the mleccha-s. Then there are the
-kṛṣṇa-s of sthūladvīpa whom they along with the marūnmatta-s
-reduced to being slaves. They have been excluded from civilization and
-left with merely the preta/rākṣasa-pustaka in their hand. Among the
-pītavarṇa-s, the cīna-s and the ati-prācya-s fought the mleccha-s but
-were defeated. Yet, by paying an enormous price they either expanded
-their territorial integrity (the cīna-s) or at least kept the śava-mata
-limited in their lands (the bindudhvaja-s). These illustrate to you the
-options that are available for bhārata-s – either you make an exit
-without even realizing you are out, or you prepare for a conflict where
-your costs will be enormous. Else a puerile existence will indeed be the
-nation’s lot like that of the cīna-bhṛtya-s at the edge of the
-mahādvīpa. Of the dasyu-s, the mleccha-s do not even need to attack
-directly anymore – by using the marūnmatta-s and their plants, the
-śavārādhaka-s, they can sink the Hindus if they continue the way they
-are. The cīna-s will joyfully grab up the rest even as the Hindus are
-claiming that they had civilizationally subjugated them from the time of
-Taizong.
+kṛṣṇa-s of sthūladvīpa whom they along with the marūnmatta-s reduced to
+being slaves. They have been excluded from civilization and left with
+merely the preta/rākṣasa-pustaka in their hand. Among the pītavarṇa-s,
+the cīna-s and the ati-prācya-s fought the mleccha-s but were defeated.
+Yet, by paying an enormous price they either expanded their territorial
+integrity (the cīna-s) or at least kept the śava-mata limited in their
+lands (the bindudhvaja-s). These illustrate to you the options that are
+available for bhārata-s – either you make an exit without even realizing
+you are out, or you prepare for a conflict where your costs will be
+enormous. Elsea puerile existence willindeed be the nation’s lot like
+that ofthe cīna-bhṛtya-s at the edge of the mahādvīpa. Of the dasyu-s,
+the mleccha-s do not even need to attack directly anymore – by using the
+marūnmatta-s and their plants, the śavārādhaka-s, they can sink the
+Hindus if they continue the way they are. The cīna-s will joyfully grab
+up the rest even as the Hindus are claiming that they had
+civilizationally subjugated them from the time of Taizong.
 
 While in principle it would difficult for these dasyu-s reach their
 goals, it is accentuated by our own people who seek to relinquish the
@@ -455,26 +458,26 @@ satya-vrata. If the government of the Hindu people cannot stop that then
 their nation will cease to be. Because they have forsaken their own
 ārya-vrata they accept as fact the barbarous vrata-s of the dasyu-s.
 Thus, they think rāṣṭra and dharma must be separated because the
-duṣṭa-vrata of the mleccha calls for such. But how can the
-ārya-raṣṭra exist if the dharma is removed? It is verily to the
-rāṣṭra like the leg of the great viṣṇu, by which the dānava-s were
-conquered, is the skaṃbha of the world. On account of this they are
-unable to defend themselves when attacked by the dasyu-s for the ārya-s
-said: “dharma eva hato hanti dharmo rakṣati rakṣitaḥ |”. Moreover, they
-think the vṛkatāt of the dāsa-s can be solved by the principles of sāma
-and dāna. Nay, even bheda might not really work in the long run for the
-gulf between the dasyu and us is bigger than the biggest chasm in their
-midst. Do not think the battles within them are going to favor you in
-any big way, for in reality the battles within them have the effect of
-self-renewal via the selective process that characterizes all evolution.
-Thus, Tipu Sultan and the Nizam might have fought each other but let us
-not forget both were killers of Hindus. Hence, marūnmāda being bloody
-within is an elegant feature and not a bug in the script that emanated
-from the diseased brain of the ādyunmatta of rākṣasa-vāda. In light of
-this, the vṛkatāt of the dasyu can be ultimately conquered only via
-power of daṇḍa even as the blazing cakra dispatched by the marut-s
-rushing like lions, or the fierce garuḍa falling upon the dasyu-s;
-verily the ṛṣi vaikhānasa said in the veda:
+duṣṭa-vrata of the mleccha calls for such. But how can the ārya-raṣṭra
+exist if the dharma is removed? It is verily to the rāṣṭra like the leg
+of the great viṣṇu, by which the dānava-s were conquered, is the skaṃbha
+of the world. On account of this they are unable to defend themselves
+when attacked by the dasyu-s for the ārya-s said: “dharma eva hato hanti
+dharmo rakṣati rakṣitaḥ \|”. Moreover, they think the vṛkatāt of the
+dāsa-s can be solved by the principles of sāma and dāna. Nay, even bheda
+might not really work in the long run for the gulf between the dasyu and
+us is bigger than the biggest chasm in their midst. Do not think the
+battles within them are going to favor you in any big way, for in
+reality the battles within them have the effect of self-renewal via the
+selective process that characterizes all evolution. Thus, Tipu Sultan
+and the Nizam might have fought each other but let us not forget both
+were killers of Hindus. Hence, marūnmāda being bloody within is an
+elegant feature and not a bug in the script that emanated from the
+diseased brain of the ādyunmatta of rākṣasa-vāda. In light of this, the
+vṛkatāt of the dasyu can be ultimately conquered only via power of daṇḍa
+even as the blazing cakra dispatched by the marut-s rushing like lions,
+or the fierce garuḍa falling upon the dasyu-s; verily the ṛṣi vaikhānasa
+said in the veda:
 
 upa yat sīdad induṃ śarīraiḥ śyeno ‘yopāṣṭir hanti dasyūn ।  
 When swooping down on the soma with his body, the eagle with claws
@@ -524,4 +527,5 @@ from teacher to tested student as the dasyu is always waiting to listen
 in as the third.
 
 Indrasena: “That is indeed the pitāmaha’s death-bed lecture for your
-little bhārata\!”
+little bhārata!”
+

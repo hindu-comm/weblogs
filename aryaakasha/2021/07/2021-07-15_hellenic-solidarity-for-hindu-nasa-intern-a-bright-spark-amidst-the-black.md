@@ -1,8 +1,11 @@
 +++
-title = "Hellenic Solidarity For Hindu NASA Intern A Bright Spark Amidst Thexa0Black"
-date = "July 15, 2021"
+title = "Hellenic Solidarity For Hindu NASA Intern A Bright Spark Amidst The Black"
+date = "2021-07-15"
+upstream_url = "https://aryaakasha.com/2021/07/15/hellenic-solidarity-for-hindu-nasa-intern-a-bright-spark-amidst-the-black/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/07/15/hellenic-solidarity-for-hindu-nasa-intern-a-bright-spark-amidst-the-black/).
+
 ![Earlier this week, NASA posted a tweet featuring four of its young
 interns at their workstations. One of these was a Hindu woman in a bindi
 – whose workspace featured several deific depictions (small statuettes,

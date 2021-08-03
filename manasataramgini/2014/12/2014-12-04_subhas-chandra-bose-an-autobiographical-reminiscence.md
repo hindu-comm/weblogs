@@ -1,7 +1,11 @@
 +++
 title = "Subhas Chandra Bose: An autobiographical reminiscence"
+date = "2014-12-04"
+upstream_url = "https://manasataramgini.wordpress.com/2014/12/04/subhas-chandra-bose-an-autobiographical-reminiscence/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/12/04/subhas-chandra-bose-an-autobiographical-reminiscence/).
+
 By the time we were between the seven and eight years of age we had
 acquired some elements of the history our people from our parents: We
 knew of the coming of the ārya-s and the relationship of Indo-Aryan
@@ -92,8 +96,8 @@ of the faux mahātman, the cācājī and their cohorts. In the last year of
 school and the last year of formal history, SCB was reduced to no more
 than three to four sentences, while Herr Hitler, comrade Stalin and the
 evil butcher Churchill got to fill up a whole chapter. In the
-final tally Indira Gandhi probably had more more space than Mr. Bose.
-In contrast, almost every year our Hindi textbook had a chapter on Bose
+finaltallyIndira Gandhi probably had more more space than Mr. Bose. In
+contrast, almost every year our Hindi textbook had a chapter on Bose
 (though none on Gandhi or Nehru), which was nothing short of laudatory
 and presented him as great hero. Similarly, we noticed that whereas the
 film on Gandhi made by an Englishman was repeatedly broadcast on
@@ -290,8 +294,8 @@ the long needed event of the Indian mercenary force turning its loyalty
 away from the purchaser (the English) to the national cause. Until this
 event happened the Indian nation could never hope to free itself from
 the mleccha clutches, regardless of the wheels they turned or the
-satyāgraha-s they staged. Thus, we see SCB not as the liberator but as
-a catalyst that triggered a shift in the loyalties of the most important
+satyāgraha-s they staged. Thus, we see SCB not as the liberator but as a
+catalyst that triggered a shift in the loyalties of the most important
 English asset. This, combined with the battering the English had taken
 at the hands of the Germans and Japanese, along with the lack of
 forthcoming help for their colonial battles from their American cousins
@@ -329,7 +333,7 @@ Moslems but make major concessions for them. This was indeed done in the
 political career of CRD providing fertilizer for the seeds of Moslem
 belligerence in the modern vaṅga country, which today threatens to
 culminate in a second partition under the auspices of TMC politicians
-including Bose’s clansmen. SCB sincerely felt that India can only
+includingBose’s clansmen. SCB sincerely felt that India can only
 survive as a Hindu-Moslem joint venture: “*India has first to save
 herself and she can save herself only if the Hindus and Muslims put
 forward a joint demand for a provisional national government to whom all
@@ -405,3 +409,4 @@ receives any attention as the Anglosphere controls the discourse. Hence,
 while we routinely hear of the genocide by the Germans or occasionally
 even those by the Stalinist Soviets, we are usually never informed of
 the genocides by the Anglosphere.
+

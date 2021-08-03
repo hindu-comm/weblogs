@@ -1,21 +1,25 @@
 +++
 title = "The Anglosphere and India: new events"
+date = "2005-03-21"
+upstream_url = "https://manasataramgini.wordpress.com/2005/03/21/the-anglosphere-and-india-new-events/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/03/21/the-anglosphere-and-india-new-events/).
+
 One cannot rule out a complex ploy by the US decision-makers (the inner
 circle). Note the following carefully:  
-1\) Many of the people on these “human rights” organizations have ties
+1) Many of the people on these “human rights” organizations have ties
 with neocons (ironic but true).  
-2\) The core neocons have this remarkable love for Pakistan as evidenced
+2) The core neocons have this remarkable love for Pakistan as evidenced
 by their deft use of 9-11 to prop up TSP, ignore its blazing role in
 9-11, and go Eye-raq.  
-3\) The neocons are closely allied with or plainly rule the major media
+3) The neocons are closely allied with or plainly rule the major media
 outlets, which have revved-up a concerted anti-Hindu campaign in the
 past year or so with sepoys or their own hachetmen.  
-4\) They say that the cold war is over, but Russia is persistantly
+4) They say that the cold war is over, but Russia is persistantly
 targetted for down-sizing by the US. Note the consistent pro-Chechen
 stance of US, despite their awful atrocities in Russia.  
-5\) Given that the cold war is not really over India is treated exactly
+5) Given that the cold war is not really over India is treated exactly
 the way it was during the cold war.
 
 Hindus have a problem- they are very gullible and talk in terms of
@@ -25,9 +29,9 @@ politics. Hindus have low level of unity in addition.
 The only thing that can counter this negatives is the mighty force of
 Hindu nationalism: 1) It is the true and only unifying spirit of the
 entity called India.  
-2\) If it expresses itself it can transform India into potent competitor
+2) If it expresses itself it can transform India into potent competitor
 for the Anglosphere and the Leukosphere nations.  
-3\) Its religious and ideological constructs are more ancient, more
+3) Its religious and ideological constructs are more ancient, more
 consistent and more robust than the modern ideological props of the
 West. It is a real alternative to all western models and can challenge
 them seriously. Given that the older intellectual layers of the west-
@@ -45,10 +49,11 @@ excuse then to get down to serious action against the Hindus.
 
 As I see it there are only two paths that can play out in the ultimate
 future:  
-1\) India continues to remain inconsequential and thereby easily trod
+1) India continues to remain inconsequential and thereby easily trod
 over by the Leukosphere: we remain meek as grass.  
-2\) India develops further and has a direct confrontation with the
+2) India develops further and has a direct confrontation with the
 Leukosphere.
 
 as they say: ” Just as there can be only one sword in a scabbard, there
 can only be either indra or vR^itra”
+

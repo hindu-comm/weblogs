@@ -1,8 +1,11 @@
 +++
-title = "Some further notes on the old Mongolxa0religion-2"
+title = "Some further notes on the old Mongol religion-2"
 date = "2021-07-01"
+upstream_url = "https://manasataramgini.wordpress.com/2021/07/01/some-further-notes-on-the-old-mongol-religion-2/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2021/07/01/some-further-notes-on-the-old-mongol-religion-2/).
+
 O fire mother,  
 whose father is flint,  
 whose mother is pebble,  

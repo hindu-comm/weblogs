@@ -1,7 +1,11 @@
 +++
 title = "The mystery goddess of the shu~Nga period"
+date = "2010-01-25"
+upstream_url = "https://manasataramgini.wordpress.com/2010/01/25/the-mystery-goddess-of-the-shunga-period/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/01/25/the-mystery-goddess-of-the-shunga-period/).
+
 [![](https://i2.wp.com/lh4.ggpht.com/_hjuA1bE0hBw/S11JyYMhMsI/AAAAAAAABPM/SpnM5r47ml4/s400/camera1.jpg)](http://picasaweb.google.com/lh/photo/ipRtDgH6FJQ5sG5OaZxliA?feat=embedwebsite)
 
 Many a time memes expressing themselves in the philological medium and
@@ -47,9 +51,9 @@ navyarkapura. There may at least a hundred or more of these pratima-s
 still around all from around 200-50 BCE. But who is this might devI?
 Clearly her identity is somewhat unclear to modern observers, who have
 offered various opinions: 1) A yakShiNI; 2) “mother goddess”; 3) woman
-with barbaric hairdo (Harle \!); 4) woman with hairpins; 5) apsarA
+with barbaric hairdo (Harle !); 4) woman with hairpins; 5) apsarA
 pa\~nchachUDA (late Stella Kramrisch); 6) durgA; 7) shrI; 8)
-royal/dancing woman; 9) the vedic deity sinIvAlI \!. More importantly
+royal/dancing woman; 9) the vedic deity sinIvAlI !. More importantly
 despite the obvious stereotype in her depictions many works have failed
 to recognize the different versions of her even within the Gangetic
 Doab. So it appears that the continuity or the links to the material
@@ -111,18 +115,18 @@ also a pervasive motif in the textual medium. It emerges right in the
 shrutI itself. The supreme goddess is described thus in a famous sUkta
 of the atharvA\~Ngirasa-s:
 
-siMhe vyAghra uta yA pR^idAkau tviShir agnau brAhmaNe sUrye yA |  
-indraM yA devI subhagA jajAna sA na etu varcasA saMvidAnA ||  
-yA hastini dvIpini yA hiraNye tviShir ashveShu puruSheShu goShu yA |  
-indraM yA devI subhagA jajAna sA na etu varcasA saMvidAnA || (AV-vulgate
-6.38.1-2)  
+siMhe vyAghra uta yA pR^idAkau tviShir agnau brAhmaNe sUrye yA \|  
+indraM yA devI subhagA jajAna sA na etu varcasA saMvidAnA \|\|  
+yA hastini dvIpini yA hiraNye tviShir ashveShu puruSheShu goShu yA \|  
+indraM yA devI subhagA jajAna sA na etu varcasA saMvidAnA \|\|
+(AV-vulgate 6.38.1-2)  
 Here she is associated with lions, tigers, cheetahs and leopards (of
 course in addition with the elephant, the horse and human).
 
 This motif continues in some of the early hymns to the trans-functional
 goddess as durgA or AryA.  
 E.g. the AryA stava-1 in the harivaMsha states:  
-siMhair vyAghrais samAkulA | (8b)  
+siMhair vyAghrais samAkulA \| (8b)  
 Thus, both in the Middle East and the Indo-Aryan world this link between
 the great goddess and the large cat is rather persistent.
 
@@ -139,8 +143,8 @@ association with Mathura) and being worshiped in vindhyAchala where the
 vindhyA range intersects the Gangetic region. The association with
 Mathura is also clearly related to the kaumAra angle: In one case she
 takes over a deed original performed by skanda, i.e. the killing of
-mahiShAsura. Secondly she is described as ShaShThI, revatI, pUtanA (\!
-in the harivaMsha itself) and shakunI-devI — all skanda-mAtR^ikA-s. This
+mahiShAsura. Secondly she is described as ShaShThI, revatI, pUtanA (! in
+the harivaMsha itself) and shakunI-devI — all skanda-mAtR^ikA-s. This
 trend continues in the early skanda-purANa vindhyavAsinI section
 (Nepal/Bhattarai recension) where she is described as generating various
 skanda-mAtR^ikA-s as her assistants in the war against sumbha and
@@ -188,8 +192,8 @@ ear-ornament alluded to here are very much a feature of our goddess.
 mukuTena vichitreNa kasha-bandhena shobhinA- elaborate headdress and
 hairdo mentioned here are very specific feature of our shu\~Nga
 goddess.  
-bhujaMgAbhoga-vAsena shroNi-sUtreNa rAjatA|  
-vibhrAjase cAbaddhena bhogeneveha mandaraH ||  
+bhujaMgAbhoga-vAsena shroNi-sUtreNa rAjatA\|  
+vibhrAjase cAbaddhena bhogeneveha mandaraH \|\|  
 This verse mentions snake dress or ornaments, which I have suspected to
 be present in some depictions of the shu\~Nga deity, though I must admit
 these are not very clear (e.g. the lower right hand side of picture
@@ -206,11 +210,11 @@ vehicles — association with big felines.
 
 The AryA stava-1 of the harivaMsha:  
 mayUra-pichCha-dhvajinI– Same as above  
-kukkuTaish-ChAgalair-meShais-siMhair-vyAghrais-samAkulA |  
+kukkuTaish-ChAgalair-meShais-siMhair-vyAghrais-samAkulA \|  
 The first three animals are kaumAra animals which appear to have been
 absorbed by the devI, the while the last two are the big felines as
 above.  
-trishUlI paTTishadharA sUrya-chandra-patAkinI |  
+trishUlI paTTishadharA sUrya-chandra-patAkinI \|  
 The weapons and the flag with the sun and moon symbol. We at least see a
 sun-like symbol in some of the banners of the shu\~Nga goddess.  
 nakShatrANAM cha rohiNI- Of the stars you are alpha-Tauri. This is a
@@ -234,7 +238,7 @@ surA-mAMsa-bali-priyA– one fond of offerings of beer and meat; “madirAM”
 and “surAM” – personifications of various liquors. But only one of them
 (the harivaMsha AryA stava-1) to my knowledge touches on the erotic
 aspect and that too fleetingly:  
-kanyAnAM brahmacharya-tvaM saubhAgyaM pramadAsu cha |  
+kanyAnAM brahmacharya-tvaM saubhAgyaM pramadAsu cha \|  
 You are the chastity of maidens and also the conjugal bliss of erotic
 women.  
 It is possible that this last aspect was down-played in the canonical
@@ -260,7 +264,7 @@ clearly the harivaMsha stava-s describe the goddess as the mother of
 kumAra (siddhasena). A much latter text the vyapohana stava of the
 shaiva saiddhAntika-s has the following line in the description of
 mahAdevI:  
-naigameyAdibhir divyaish chaturbhiH putrakair-vR^itA |  
+naigameyAdibhir divyaish chaturbhiH putrakair-vR^itA \|  
 One accompanied by the four divine sons starting with
 naigameya(nejameSha). Is it possible that this textual motif has a link
 to the iconic motif in the Tamluk exemplar? At present the data remains
@@ -283,5 +287,6 @@ misguided and subversive thinker from the city of my youth. However, his
 adherence to baseless and delusive ideologies inherited from his father
 resulted in him not correctly grasping their history. These indeed need
 to be revisited with a proper evolutionary framework that should take
-heed of what  happens in the study of biological evolution and
+heed of what happens in the study of biological evolution and
 paleontology.
+

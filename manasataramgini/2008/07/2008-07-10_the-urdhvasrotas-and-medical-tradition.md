@@ -1,7 +1,11 @@
 +++
 title = "The Urdhvasrotas and medical tradition"
+date = "2008-07-10"
+upstream_url = "https://manasataramgini.wordpress.com/2008/07/10/the-urdhvasrotas-and-medical-tradition/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/07/10/the-urdhvasrotas-and-medical-tradition/).
+
 The jaina mantravAdins in the karnATa country use a medical text termed
 the hitopadesha. Its author is shrIkaNTha-shambhu or shrIkaNTha-shiva.
 This work is a rather distinctive one (at least to me) when compared
@@ -130,3 +134,4 @@ resulted in them inheriting the medical systems of the AV. This was
 probably transmitted to their successors the saiddhAntika-s and also
 other major shaiva groups like that of the pashchima-srotas, garuDa
 srotas and offshoots of the dakShINa-srotas.
+

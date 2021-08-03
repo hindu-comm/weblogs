@@ -1,11 +1,15 @@
 +++
 title = "A dinnertime conversation"
+date = "2019-01-19"
+upstream_url = "https://manasataramgini.wordpress.com/2019/01/19/a-dinnertime-conversation/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2019/01/19/a-dinnertime-conversation/).
+
 A complete version of this apolog will currently not be visible to the
 public.
 
------
+------------------------------------------------------------------------
 
 Things had cooled off a bit on the political front after the
 assassination of the Prime Minister Pratap Simha by a massed drone
@@ -77,7 +81,7 @@ physically there, I think you can take the blame for that. I think bro
 was only thinking of you even while playing.”
 
 Vrishchika: “You guys are always blaming me even when I was not
-there\!”  
+there!”  
 Vidrum: “But, Vrishchika, you were always a big trouble-maker, right?”  
 Vrishchika: “I thought that title squarely belonged to my elder sister:
 after all on the last day of school our principal said that I was such a
@@ -93,21 +97,21 @@ with no trace of onions or garlic. I get that feel of purity.”
 
 Vidrum: “So Shallaki do you also originally hail from
 Kshayadrajanagara?” Shallaki: “No, I come from Shodasharajya
-(Ṣoḍaśarājya).” Vidrum: “Hmm, an out of the way, quite place. I am
-sure the air was cleaner than our mahānagara and the life much quieter.
-How did you find the education there?” Shallaki: “You are right with
-regard to the air and the charming life of a small town but regarding
-education there was nothing much to speak of. I must say that situation
-was quite nice too for in the village of the blind the one eyed woman is
-queen.” Vidrum: “What do you mean?” Shallaki: “In our town there was not
-much competition as you had in your city, both in school and in college.
-So by just putting in a little effort I could stand out in academics and
+(Ṣoḍaśarājya).” Vidrum: “Hmm, an out of the way, quite place. I am sure
+the air was cleaner than our mahānagara and the life much quieter. How
+did you find the education there?” Shallaki: “You are right with regard
+to the air and the charming life of a small town but regarding education
+there was nothing much to speak of. I must say that situation was quite
+nice too for in the village of the blind the one eyed woman is queen.”
+Vidrum: “What do you mean?” Shallaki: “In our town there was not much
+competition as you had in your city, both in school and in college. So
+by just putting in a little effort I could stand out in academics and
 boost my ego. That might have done me some bad but thankfully I got see
 reality upon running into the caturbhaginī.”
 
 Vidrum: “Interesting that you say so. I have been thinking a lot on
 related issues. Imagine being in school with likes of Vrishchika and all
-her sisters\! It certainly was a stiffer situation for us, especially
+her sisters! It certainly was a stiffer situation for us, especially
 given all the pressure my parents put on me to catch up with the rest. I
 understand from Indrasena that Kshayadrajanagara was only a little less
 stressful than our city.”
@@ -146,7 +150,7 @@ tells with respect to even the mean for our class. It can be
 demoralizing to those lower down the ladder as the case of a patient I
 had to deal with yesterday illustrates.”  
 Vrishchika: “Talking of patients, I was itching to ask about patient
-\#29?”  
+#29?”  
 Vidrum: “Yes, I was thinking of that very case. First, I must thank you
 for your spot on and immediate diagnosis: as I had expected it was
 something up your alley.”
@@ -170,19 +174,19 @@ suicide with Mercuric Chloride?”
 Vidrum: “It is indeed an odd choice of an agent. But regarding the pain,
 remember that when people are in such a state they do not care much
 about the pain: leave alone that
-![HgCl\_2](https://s0.wp.com/latex.php?latex=HgCl_2&bg=ffffff&fg=333333&s=0
-"HgCl_2") case, we have had people make an attempt at suicide by
-drinking phenol, right?”  
+![HgCl_2](https://s0.wp.com/latex.php?latex=HgCl_2&bg=ffffff&fg=333333&s=0&c=20201002)
+case, we have had people make an attempt at suicide by drinking phenol,
+right?”  
 Indrasena: “Remember, access to agents is not always easy.
-![HgCl\_2](https://s0.wp.com/latex.php?latex=HgCl_2&bg=ffffff&fg=333333&s=0
-"HgCl_2") is not exactly something easily available unless he has access
-to the chemistry lab in school or college. Moreover, Vrishchika, you
-might be underestimating the potential of muscarinic intoxication.
-During my peregrinations in the ghats with a naturalist, I came across a
-large bolete mushroom, likely of the *Rubinoboletus* group. My
-naturalist companion informed me that it was particularly toxic and used
-by the hill pastoralist-subsistence farmers to impose a death-punishment
-on life-stock thieves whom they caught. They were said to prepare a
+![HgCl_2](https://s0.wp.com/latex.php?latex=HgCl_2&bg=ffffff&fg=333333&s=0&c=20201002)
+is not exactly something easily available unless he has access to the
+chemistry lab in school or college. Moreover, Vrishchika, you might be
+underestimating the potential of muscarinic intoxication. During my
+peregrinations in the ghats with a naturalist, I came across a large
+bolete mushroom, likely of the *Rubinoboletus* group. My naturalist
+companion informed me that it was particularly toxic and used by the
+hill pastoralist-subsistence farmers to impose a death-punishment on
+life-stock thieves whom they caught. They were said to prepare a
 mushroom-bun using this fungus and administer it to the thieves who
 would then die in their custody within 24-36 hours. I collected a sample
 and it is in my storage. However, after realizing its active principle
@@ -320,7 +324,7 @@ need to take a closer look at it. But I am still worried about the
 misuse of tests of general intelligence or still worse a polygenic
 prediction, especially in education. What about the psychological trauma
 derived from knowing that you have bad polygenic score? We could have
-more cases like our patient \#29 then.”  
+more cases like our patient #29 then.”  
 Shallaki: “While I completely see your point of the potential
 educational misuse, as Indrasena pointed out regarding the army, I think
 there is also potential for the converse. One thing that has emerged

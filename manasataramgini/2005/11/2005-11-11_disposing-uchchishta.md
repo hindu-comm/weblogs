@@ -1,7 +1,11 @@
 +++
 title = "disposing uchChiShTa"
+date = "2005-11-11"
+upstream_url = "https://manasataramgini.wordpress.com/2005/11/11/disposing-uchchishta/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/11/11/disposing-uchchishta/).
+
 Lie down comfortably on the bed, (eating a sweet or tAmbUlaM if you
 want) and then repeat the formula 44 times:  
 gaM haM klauM glauM uchChiShTagaNeshAya mahAyakShAyAyaM baliH //
@@ -19,3 +23,4 @@ glauM uchChiShTagaNeshAya mahAyakShAyAyaM baliH //
 The oblations shall be done with a betel leaf till the uchChiShTa is
 over. He may make a final oblation of a garlic pod to make his enemy
 lose wits and fail to do rites.
+

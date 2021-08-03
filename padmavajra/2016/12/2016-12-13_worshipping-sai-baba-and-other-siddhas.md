@@ -1,8 +1,11 @@
 +++
-title = "Worshipping Sai Baba and otherxa0Siddhas"
+title = "Worshipping Sai Baba and other Siddhas"
 date = "2016-12-13"
+upstream_url = "https://padmavajra.net/2016/12/13/worshipping-sai-baba-and-other-siddhas/"
 
 +++
+Source: [here](https://padmavajra.net/2016/12/13/worshipping-sai-baba-and-other-siddhas/).
+
 SV: bANAmati(by the Telugu author Viswanatha Satyanarayana) is a story
 of a guy possessed by a piSAca. There is a dead saint who is worshiped
 in that region and the guy uses pUja flowers from that place to rid

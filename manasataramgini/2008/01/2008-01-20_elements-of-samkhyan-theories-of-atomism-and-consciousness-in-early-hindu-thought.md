@@ -1,23 +1,27 @@
 +++
 title = "Elements of sAMkhyan theories of atomism and consciousness in early Hindu thought"
+date = "2008-01-20"
+upstream_url = "https://manasataramgini.wordpress.com/2008/01/20/elements-of-samkhyan-theories-of-atomism-and-consciousness-in-early-hindu-thought/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/01/20/elements-of-samkhyan-theories-of-atomism-and-consciousness-in-early-hindu-thought/).
+
 I was told by some pious modern Hindus attached to advaita thought that
-I was either a strange case of a “Westernized Hindu” (\!) or an
-“atheistic scientist (what ever that was)” to express such a
-proclivity for bhUta-chaitanya-vAda (or at least qualified
-bhUta-chaitanya-vAda) as I have done before. On being prodded by them I
-had to point out that I accepted the shruti (in particular the brAhmaNa
-portion) to have a diversity of thought, rather than being a monolithic
-authority. Perhaps, on this very point I lost some of them. Keeping with
-the spirit of this diversity of thought in the brahmavAda of the shruti,
-I had to point to the rest that I definitely favored certain ideas over
-others. This apart, I was questioned about whether there was any
-evidence for ideas of atomic thought (of the sAMkhyan or vaisheShikan
-kind) and bhUta-chaitanya vAda in the shruti itself. In this regard I
-would like to point to my interpretation of particular teachings from
-the shAnkhAyana AraNyaka 6.19 and 7.21, kaushItaki upaniShad 3.5 & 3.8
-(\~=\>shAnkAyana AraNyaka 5.5 & 5.8) and KU 4.19 of the R^igvedic
+I was either a strange case of a “Westernized Hindu” (!) or an
+“atheistic scientist (what ever that was)” to express such a proclivity
+for bhUta-chaitanya-vAda (or at least qualified bhUta-chaitanya-vAda) as
+I have done before. On being prodded by them I had to point out that I
+accepted the shruti (in particular the brAhmaNa portion) to have a
+diversity of thought, rather than being a monolithic authority. Perhaps,
+on this very point I lost some of them. Keeping with the spirit of this
+diversity of thought in the brahmavAda of the shruti, I had to point to
+the rest that I definitely favored certain ideas over others. This
+apart, I was questioned about whether there was any evidence for ideas
+of atomic thought (of the sAMkhyan or vaisheShikan kind) and
+bhUta-chaitanya vAda in the shruti itself. In this regard I would like
+to point to my interpretation of particular teachings from the
+shAnkhAyana AraNyaka 6.19 and 7.21, kaushItaki upaniShad 3.5 & 3.8
+(\~=>shAnkAyana AraNyaka 5.5 & 5.8) and KU 4.19 of the R^igvedic
 tradition:
 
 In SA6.19 and KU4.19 (both of which narrate the same tale) the kShatriya
@@ -32,7 +36,7 @@ orange, white, black, yellow and red. In these \[molecules\] the
 
 In his teaching to the king of kAshi, pratardana daivodAsi, the god
 indra presents an early version of the sAMkhya theory (KU 3.5 & 3.8
-\~=\>SA 5.5 & 5.8). While these paragraphs are simply constructed, their
+\~=>SA 5.5 & 5.8). While these paragraphs are simply constructed, their
 true purport is very difficult to grasp for the modern mind. In essence
 the first paragraph delivers a sAMkhya model stating that an explanation
 will be provided as to how every bhUta becomes one for the consciousness
@@ -84,8 +88,8 @@ sAMkhya framework in order to explain the sUtra-s of pata\~njali. In the
 commentary to the sUtra 3.44 \[on the “subjugation” of matter by the
 yogin\] the vyAsa-bhAShya provides an introduction to sAmkhyan atomism.
 
-sthUla-svarUpa-sUkShma-anvaya-arthavattva saMyamAd bhUta jayaH ||
-YS 3.44
+sthUla-svarUpa-sUkShma-anvaya-arthavattva saMyamAd bhUta jayaH \|\|
+YS3.44
 
 The vyAsa bhAShya explains that sthUla is the bulk matter, which in turn
 in made up of an assembly of molecules or atoms – denoted by the term
@@ -94,14 +98,14 @@ made up of combinations of the same or different types of molecules or
 atoms. But the molecule (or atom) is the smallest indivisible entity
 bearing the attributes of the gross substance – hence, he says
 pata\~njali terms it svarUpa \[ayuta-siddhAvayavaH saMghAtaH sharIraM
-vR^ikShaH paramANuriti | ayuta siddhAvayava-bhedAnugataH samUho dravyaM
-iti pata\~njaliH ||\] Beyond the molecules/atoms VB proposes that the
+vR^ikShaH paramANuriti \| ayuta siddhAvayava-bhedAnugataH samUho dravyaM
+iti pata\~njaliH \|\|\] Beyond the molecules/atoms VB proposes that the
 tanmAtra-s exist – these are sub-atomic particles that tend not to exist
 on their own but tend to only exist as conjoined together to constitute
 the atoms. VB states that this is what is implied by the term sUkShma of
-the sUtra \[atha kimeshAM sUkShma rUpaM? tanmAtraM bhUta-kAraNam |
+the sUtra \[atha kimeshAM sUkShma rUpaM? tanmAtraM bhUta-kAraNaM \|
 tasyaiko .avyavaH paramANuH sAmAnya visheShAtmA .ayuta siddhAvayava
-bhedAnu gataH samudAya ity-evaM sarva-tanmAtrANy-etat-tR^itIyam |\].
+bhedAnu gataH samudAya ity-evaM sarva-tanmAtrANy-etat-tR^itIyam \|\].
 Further, the VB explains that the basis of all matter lies in the 3
 guNa-s that are described as khyAti \[information\], kriyA \[energy\]
 and stithishIlA \[mass\], which in the saMkhya theory are the primary
@@ -123,11 +127,11 @@ Another important idea that might derive from the vedic idea of the
 division of time (kalA-muhUrtA-kAShTha etc.) is that, like matter, time
 also exists as quanta. The vyAsa bhAShya explains this in the context of
 the commentary to sUtra 3.52 of pata\~njali \[kShaNa tat kramayoH
-samyamAd vivekajam j\~nAnam |\]. The VB states:  
+samyamAd vivekajam j\~nAnam \|\]. The VB states:  
 yathA .apakarSha-paryantam dravyam paramANur evam
-paramApakarSha-paryantaH kAlaH | kShaNo yAvatA vA samayena chalitah
+paramApakarSha-paryantaH kAlaH \| kShaNo yAvatA vA samayena chalitah
 paramANuh pUrva-desham jahyAd uttara-desham upa-sampadyeta sa kAlah
-ksaNah ||  
+ksaNah \|\|  
 Just as the “atomic particle=paramANu” is the irreducible unit of
 matter, so also the kShaNa is the irreducible unit of time. Indeed, the
 time taken by a moving paramANu to leave origin and reach the next unit
@@ -183,3 +187,4 @@ mentioning various older authorities. Thus we can be sure that this
 vyAsa was after pata\~njali but before ishvara-kR^iShNa (thus mostly
 before 400 CE) Beyond this we have little specific information to
 pinpoint vyAsa’s identity and the time of composition of this bhAShya.
+

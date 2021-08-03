@@ -1,8 +1,11 @@
 +++
-title = "Tryambaka Triophthalmos Triformis – The Three Eyes Of The Indo-European Sky Father As Seen Through Vedic & Hellenicxa0Perspective"
-date = "March 12, 2021"
+title = "Tryambaka Triophthalmos Triformis – The Three Eyes Of The Indo-European Sky Father As Seen Through Vedic & Hellenic Perspective"
+date = "2021-03-12"
+upstream_url = "https://aryaakasha.com/2021/03/12/tryambaka-triophthalmos-triformis-the-three-eyes-of-the-indo-european-sky-father-as-seen-through-vedic-hellenic-perspective/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/03/12/tryambaka-triophthalmos-triformis-the-three-eyes-of-the-indo-european-sky-father-as-seen-through-vedic-hellenic-perspective/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/03/personagensconhecidosemilustracoesconceituais_joshuasummana_dcriativo_25.jpg?w=723)
 
 Tonight \[the 11th of March 2021 at time of writing\] marks the

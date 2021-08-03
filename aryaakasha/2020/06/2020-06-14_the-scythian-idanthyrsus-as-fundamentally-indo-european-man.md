@@ -1,8 +1,11 @@
 +++
-title = "The Scythian Idanthyrsus As Fundamentally Indo-Europeanxa0Man"
-date = "June 14, 2020"
+title = "The Scythian Idanthyrsus As Fundamentally Indo-European Man"
+date = "2020-06-14"
+upstream_url = "https://aryaakasha.com/2020/06/14/the-scythian-idanthyrsus-as-fundamentally-indo-european-man/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/06/14/the-scythian-idanthyrsus-as-fundamentally-indo-european-man/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/06/alexander-deruchenko-battle-between-scythian-king-and-persians-1.jpg?w=1024)
 
 As is widely-known by now, one of my favourite portions of Herodotus’

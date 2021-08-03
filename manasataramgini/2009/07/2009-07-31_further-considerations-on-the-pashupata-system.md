@@ -1,7 +1,11 @@
 +++
 title = "Further considerations on the pAshupata system"
+date = "2009-07-31"
+upstream_url = "https://manasataramgini.wordpress.com/2009/07/31/further-considerations-on-the-pashupata-system/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/07/31/further-considerations-on-the-pashupata-system/).
+
 Though it is at the foundation of all the shaiva systems that survive to
 date, the old pAshupata darshana has all but become extinct. Of the
 pAshupata sUtra-s we have only 3 reported extant manuscripts thus far:
@@ -32,12 +36,12 @@ sUtra-s resembled the sUtra-like prescriptions of the pAshupata vrata in
 the AV parishiShTha 40\]. This is suggested by the form of certain
 sUtra-s, where they were clearly parts of longer coherent sUtra-s broken
 for commentarial purposes:  
-*mUtra-purIShaM nAvekshet |  
-strI-shUdraM nAbhibhAShet |  
-yady avekShed yady abhibhAshet |  
-upaspR^ishva |  
-prANAyAmaM kR^itvA |  
-raudrIM gAyatrIM bahurUpIM vA japet |**  
+*mUtra-purIShaM nAvekshet \|  
+strI-shUdraM nAbhibhAShet \|  
+yady avekShed yady abhibhAshet \|  
+upaspR^ishva \|  
+prANAyAmaM kR^itvA \|  
+raudrIM gAyatrIM bahurUpIM vA japet \|**  
 * Here the pAshupata ascetic is prescribed not to see urine or feces and
 not to converse with women and shUdra-s. If he does see the former two
 or talk or touch the latter two he performs prANAyAma and does japa of
@@ -57,8 +61,8 @@ traditions mention lakulIsha as an author, there is absolutely nothing
 what so ever to support this in the form of internal evidence from the
 sUtra-s. Even kauNDinya’s commentary merely states the following:  
 * tathA shiShTa prAmANyAt kAmitvAd ajAtatvAch cha manuShya-rUpI bhagavAn
-brAhmaNa-kAyam AsthAya kAyAvata-raNe avatIrNa iti | tathA padbhyAm
-ujjayinIM prAptaH |*  
+brAhmaNa-kAyam AsthAya kAyAvata-raNe avatIrNa iti \| tathA padbhyAm
+ujjayinIM prAptaH \|*  
 i.e. shiva incarnated in the form of a man by entering the body of a
 brAhmaNa in the forest of kAyAvata. Then he walked to Ujjain. This
 account matches those narrated in the puraNa-s and the kArvaNa mAhAtmya
@@ -191,39 +195,40 @@ taittirIyin-s. To further test this conjecture let us look at the
 brahma-mantra-s as transmitted by the pAshupata sUtra-s and its bhAShya:
 
 PSu:  
-*sadyojAtaM prapadyAmi sadyojAtAya vai namaH |  
-bhave bhave nAtibhave bhavasva mAm bhavodbhavAya namaH ||**  
+*sadyojAtaM prapadyAmi sadyojAtAya vai namaH \|  
+bhave bhave nAtibhave bhavasva mAm bhavodbhavAya namaH \|\|**  
 * TA:  
-* sadyojAtaM prapadyAmi sadyojAtAya vai namo namaH |  
-bhave bhave nAtibhave bhavasva mAm bhavodbhavAya namaH ||*  
+* sadyojAtaM prapadyAmi sadyojAtAya vai namo namaH \|  
+bhave bhave nAtibhave bhavasva mAm bhavodbhavAya namaH \|\|*  
 kauNDinya bhAShya:  
-*sadyojAtaM prapadyAmi sadyojAtAya vai namaH |  
-bhave bhave nAtibhave bhajasva mAm bhavodbhavaH ||* ** (Regular
+*sadyojAtaM prapadyAmi sadyojAtAya vai namaH \|  
+bhave bhave nAtibhave bhajasva mAm bhavodbhavaH \|\|* (Regular
 anuShTubh)  
 PSu, TA:  
 * vAmadevAya namo jyeShThAya namaH shreShThAya namo rudrAya namaH kAlAya
 namaH kalavikaraNAya namo balavikaraNAya namo balAya namo
-balapramathAnAya namaH sarvabhUtadamanAya namo manonmanAya namaH ||*  
+balapramathAnAya namaH sarvabhUtadamanAya namo manonmanAya namaH \|\|*  
 kauNDinya bhAShya:  
 *vAmadevAya namo jyeShThAya namo rudrAya namaH kAlAya namaH
-kalavikaraNAya namaH| balapramathAnAya namaH sarvabhUtadamanAya namo
-manonmanAya namaH ||*
+kalavikaraNAya namaH\| balapramathAnAya namaH sarvabhUtadamanAya namo
+manonmanAya namaH \|\|*
 
 PSu, TA:  
-*aghorebhyo.atha ghorebhyo ghora-ghoratarebhyaH | sarvebhyaH
-sarva-sharvebhyo namas te astu rudrarUpebhyaH ||*  
+*aghorebhyo.atha ghorebhyo ghora-ghoratarebhyaH \| sarvebhyaH
+sarva-sharvebhyonamas te astu rudrarUpebhyaH \|\|*  
 kauNDinya bhAShya:  
-*aghorebhyo.atha ghorebhyo ghoraghoratarebhyash cha |  
-sarvataH sharva sarvebhyo namaste .astu rudrarUpebhyaH ||* ** (Regular
+*aghorebhyo.atha ghorebhyo ghoraghoratarebhyash cha \|  
+sarvataH sharva sarvebhyo namaste .astu rudrarUpebhyaH \|\|* (Regular
 anuShTubh)  
 PSu, TA, kauNDinya bhAShya:  
-*tatpuruShAya vidmahe mahAdevAya dhImahi | tanno rudraH prachodayAt  
+*tatpuruShAya vidmahe mahAdevAya dhImahi \| tanno rudraH prachodayAt  
 * PSu, TA:  
-*IshAnaH sarva-vidyAnAm IshvaraH sarvabhUtAnAm |  
-brahmAdhipatir brahmaNo.adhipatir brahmA shivo me astu sadAshivOm ||**  
+*IshAnaH sarva-vidyAnAm IshvaraH sarvabhUtAnAM \|  
+brahmAdhipatir brahmaNo.adhipatir brahmA shivo me astu sadAshivOm
+\|\|**  
 * kauNDinya bhAShya:  
-*IshAnaH sarva-vidyAnAm IshvaraH sarvabhUtAnAm |  
-brahmaNo.adhipatir brahmA shivo me astu sadAshivaH ||* ** (Regular
+*IshAnaH sarva-vidyAnAm IshvaraH sarvabhUtAnAM \|  
+brahmaNo.adhipatir brahmA shivo me astu sadAshivaH \|\|* (Regular
 anuShTubh)
 
 There is some variation even within the different transmissions of the
@@ -256,10 +261,10 @@ the form given in the mUla-sUtra pATha or the TA but his own version
 that has also widely been transmitted in successor texts. There is a
 hint that kauNDinya was not a taittirIyaka and did not know of that
 these mantra-s were part of the taittirIyaka shruti. In explaining the
-sUtra 1.39 (*atredaM brahma japet |* in PSu; *atrachedam brahma japet |*
-in bhAShya) he says (for the word idam):  
-*idam iti pratyakShe | niyoge vA | idam eva brahma japatavyam |
-R^ig-yajuH-sAmAnItyarthaH |**  
+sUtra 1.39 (*atredaM brahma japet \|* in PSu; *atrachedam brahma japet
+\|* in bhAShya) he says (for the word idam):  
+*idam iti pratyakShe \| niyoge vA \| idam eva brahma japatavyam \|
+R^ig-yajuH-sAmAnItyarthaH \|**  
 * idam means in the current place an injunction (niyoga) to do japa of
 this \[i.e. sadyojAta\] mantra and not a R^ik, yajur or a sAman. Thus,
 it appears that he does not consider the sadyojAta mantra a vedic one.
@@ -296,7 +301,7 @@ sUtra-s but predated the kauNDinya bhAShya with the narrative of shiva
 animating a brAhmaNa’s body.
 
 |                                                                     |                                                                                       |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+|---------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 | development                                                         | text of first appearance                                                              |
 | bahurUpI, rudragAyatrI                                              | kR^iShNa yajurveda                                                                    |
 | worship of rudra as a great god                                     | nIlarudra, shvetAshvatara                                                             |
@@ -325,3 +330,4 @@ first layer. This was then followed by the pAshupata system described in
 the great epic. The system in the AV-pari 40 also appears to represent a
 precursor of the system expounded in the pAshupata sUtra-s. (see above
 for further discussion).
+

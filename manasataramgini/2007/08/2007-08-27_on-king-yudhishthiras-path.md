@@ -1,7 +1,11 @@
 +++
 title = "On king yudhiShThira’s path"
+date = "2007-08-27"
+upstream_url = "https://manasataramgini.wordpress.com/2007/08/27/on-king-yudhishthiras-path/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/08/27/on-king-yudhishthiras-path/).
+
 I had a lengthy conversation with KR on topic typical of our
 conversation — the decline of the dharma. Just when I came out of it the
 horror of negligence struck me… But I walked through the crematorium
@@ -58,3 +62,4 @@ the revolution of time– The essence of rasas that induce ullAsa flashed
 all at once with the emergence of each kAlI. For a moment we saw the
 glory of the the 13 devI-s, all conjoined with the bIja prefixes and the
 ambA pAda suffix.
+

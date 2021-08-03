@@ -1,8 +1,11 @@
 +++
-title = "On The Etymology Of Airavata – The Elephant Ofxa0Indra"
-date = "June 20, 2021"
+title = "On The Etymology Of Airavata – The Elephant Of Indra"
+date = "2021-06-20"
+upstream_url = "https://aryaakasha.com/2021/06/20/on-the-etymology-of-airavata-the-elephant-of-indra/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/06/20/on-the-etymology-of-airavata-the-elephant-of-indra/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/06/46cece98defd8b3f85caad0fff1e7a5b.jpg?w=750)
 
 Airavata is the Vahana \[‘Steed/Mount/Vehicle’\] of Lord Indra; and with

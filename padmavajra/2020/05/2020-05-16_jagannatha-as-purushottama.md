@@ -1,8 +1,11 @@
 +++
 title = "jagannAtha as puruShottama"
 date = "2020-05-16"
+upstream_url = "https://padmavajra.net/2020/05/16/jagannatha-as-purushottama/"
 
 +++
+Source: [here](https://padmavajra.net/2020/05/16/jagannatha-as-purushottama/).
+
 ![27971669_1986912698231017_7716324432107088171_n](https://padmavajrablog.files.wordpress.com/2020/05/27971669_1986912698231017_7716324432107088171_n.jpg?w=739)
 
 

@@ -1,7 +1,11 @@
 +++
 title = "A meditational aid for parA sAdhana"
+date = "2008-08-18"
+upstream_url = "https://manasataramgini.wordpress.com/2008/08/18/a-meditational-aid-for-para-sadhana/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/08/18/a-meditational-aid-for-para-sadhana/).
+
 [![](https://i1.wp.com/farm4.static.flickr.com/3159/2773049695_013b3d6376_b.jpg)](http://farm4.static.flickr.com/3159/2773049695_013b3d6376_b.jpg)
 
 Among extant sAdhaka-s it is popular to merely concentrate on
@@ -21,3 +25,4 @@ pa\~ncha tanmAtra-s and their receptors feeding into consciousness. All
 this is more completely laid out in the and trika tantra-s and expounded
 by the Kashmirian greats, but in extant practice the more complete parA
 sAdhana is only known to some sAdhaka-s succeeding shrInivAsa bhaTTa.
+

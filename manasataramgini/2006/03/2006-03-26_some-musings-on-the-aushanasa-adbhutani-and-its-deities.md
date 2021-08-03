@@ -1,7 +1,11 @@
 +++
 title = "Some musings on the aushanasa adbhutAnI and its deities"
+date = "2006-03-26"
+upstream_url = "https://manasataramgini.wordpress.com/2006/03/26/some-musings-on-the-aushanasa-adbhutani-and-its-deities/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/03/26/some-musings-on-the-aushanasa-adbhutani-and-its-deities/).
+
 The work on omens attributed to ushanA kAvya the bhArgava (narrated by
 kAvya to nArada the kANva) is a well-known hindu work that formed the
 basis for many such future works that are abundant in Sanskrit
@@ -36,32 +40,32 @@ Idea here is to merely examine some general features pertaining to the
 relative era of their composition in the world of Sanskrit literature,
 not their contents in depth.
 
-\-traditional nakShatra based months as well as zodiacal constellations
+-traditional nakShatra based months as well as zodiacal constellations
 are used: e.g magha, shravaNa, and siMhA (Leo) are mentioned. The
 planets budha (Mercury), shukra (Venus), bR^ihaspati (Jupiter) are
 mentioned  
-\-temples termed chaityas and associated holy trees (chaitya vR^ikShas)
+-temples termed chaityas and associated holy trees (chaitya vR^ikShas)
 are mentioned.  
-\-idols of gods, li\~Ngas and pictures of gods (chitrANi) and seats of
+-idols of gods, li\~Ngas and pictures of gods (chitrANi) and seats of
 deities (AyatanAnI) are mentioned.  
-\-volcanic eruptions from ponds, lakes and mountains, cyclones and
+-volcanic eruptions from ponds, lakes and mountains, cyclones and
 earthquakes are mentioned.  
-\-Several traditional holy fig trees of the Hindus are mentioned:
-plakSha (Ficus infectoria), ashvatta (Ficus religiosa), udumbara (Ficus
+-Several traditional holy fig trees of the Hindus are mentioned: plakSha
+(Ficus infectoria), ashvatta (Ficus religiosa), udumbara (Ficus
 glomerata), nyagrodha (banyan, Ficus benghalensis) all together and the
 knowledge of their not having regular flower morphology is implicit.  
-\-The 3 dvija varNas are mentioned, and the old equivalence of dasyus
-and shudras is implicit.  
-\-indra is the prominent deity (also called pAkashAsana) and the annual
+-The 3 dvija varNas are mentioned, and the old equivalence of dasyus and
+shudras is implicit.  
+-indra is the prominent deity (also called pAkashAsana) and the annual
 public indra festival and the erection of the indra flag is alluded
 to.  
-\-The other gods mentioned include: pitAmaha/prajApati, soma, dharma,
+-The other gods mentioned include: pitAmaha/prajApati, soma, dharma,
 yama, agni (=pAvaka), vAta (=vAyu), kubera along with maNibhadra and the
 yakShas, vAsudeva (meaning viShNu), varuNa, mahAdeva (=rudra),
 skanda-vishAkha, vishvakarman (=tvaShTa) and gandharvas.  
-\-The goddesses mentioned are: indrANI, varuNAnI, bhadrakAlI, mahAbalA,
+-The goddesses mentioned are: indrANI, varuNAnI, bhadrakAlI, mahAbalA,
 vIramAtA.  
-\-As an protection against prognostications of the adbhutAnI the text
+-As an protection against prognostications of the adbhutAnI the text
 recommends the performance of the mahAshAntI rite with offerings to
 indra, rudra and the vishvedevas.
 
@@ -93,3 +97,4 @@ This means that the core vedic period was potentially 1) spatially
 disconnected from the paravedic IVC and 2) in part temporally
 disconnected too. This punctures the pet R^iveda well after IVC
 hypothesis of the mainstream Indologist (as an aside).
+

@@ -1,8 +1,11 @@
 +++
-title = "Why OIT vs AMT In Some Ways Misses The Point At The Heart Of The Modern Indo-Europeanxa0World"
-date = "March 30, 2021"
+title = "Why OIT vs AMT In Some Ways Misses The Point At The Heart Of The Modern Indo-European World"
+date = "2021-03-30"
+upstream_url = "https://aryaakasha.com/2021/03/30/why-oit-vs-amt-in-some-ways-misses-the-point-at-the-heart-of-the-modern-indo-european-world/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/03/30/why-oit-vs-amt-in-some-ways-misses-the-point-at-the-heart-of-the-modern-indo-european-world/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/03/1200px-indo-european_branches_map.svg_.png?w=1024)
 
 I spent .. an extended period this morning responding to a

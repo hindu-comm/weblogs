@@ -1,8 +1,11 @@
 +++
-title = "ON THE HORSE TWINS – The Savior Sons of the Sky Father [Part 1 – Introductions, Inceptions, Andxa0Asvins]"
-date = "August 4, 2020"
+title = "ON THE HORSE TWINS – The Savior Sons of the Sky Father [Part 1 – Introductions, Inceptions, And Asvins]"
+date = "2020-08-04"
+upstream_url = "https://aryaakasha.com/2020/08/04/on-the-horse-twins-the-savior-sons-of-the-sky-father-part-1-introductions-inceptions-and-asvins/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/08/04/on-the-horse-twins-the-savior-sons-of-the-sky-father-part-1-introductions-inceptions-and-asvins/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/08/arya-akasha-asvins-horse-twins.png?w=950)
 
 One of the more pervasive, yet perplexing of the elements of the

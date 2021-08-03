@@ -1,7 +1,11 @@
 +++
 title = "World War 2 and the like"
+date = "2015-05-10"
+upstream_url = "https://manasataramgini.wordpress.com/2015/05/10/world-war-2-and-the-like/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/05/10/world-war-2-and-the-like/).
+
 Right away we should state that there is going to be some dilation –
 hence “the like”.
 
@@ -64,15 +68,15 @@ the great war at kurukṣetra in our national epic. At the heart of that
 war was a sibling rivalry between the Kuru and the Pāñcāla, the two
 mighty Indo-Aryan kingdoms of the day. Likewise in WW2 at its heart was
 the rivalry between the sibling Germanic peoples, the continental
-śūlapuruṣa-s and the island āngalika-s. At Kurukṣetra, there were
-other rivalries running in parallel: e.g. between the Kuru Somadatta
-clan on one side and the yadu-s Kṛṣṇa and Sātyaki on the other; between
-two factions of Yadu-s, namely those who sided with the Kaurava-s and
-those who sided with the Pāṇḍu-Pāñcāla alliance; between the rākṣasa-s
-and the Pāṇḍu-s. All of these got sucked into the core sibling conflict
-at the kuru field. Likewise, in WW2 there were other parallel conflicts:
-the German-Slav conflict along ethnic lines; The intra-Slav conflict
-between the Poles and the Rus; The deep civilizational conflict between
+śūlapuruṣa-s and the island āngalika-s. AtKurukṣetra, there were other
+rivalries running in parallel: e.g. between the Kuru Somadatta clan on
+one side and the yadu-s Kṛṣṇa and Sātyaki on the other; between two
+factions of Yadu-s, namely those who sided with the Kaurava-s and those
+who sided with the Pāṇḍu-Pāñcāla alliance; between the rākṣasa-s and the
+Pāṇḍu-s. All of these got sucked into the core sibling conflict at the
+kuru field. Likewise, in WW2 there were other parallel conflicts: the
+German-Slav conflict along ethnic lines; The intra-Slav conflict between
+the Poles and the Rus; The deep civilizational conflict between
 modernized heathen Japan and the Christian world of the mleccha-s;
 Economic conflicts involving groups close to the deep-scaffold of the
 mleccha world, which cannot even be mentioned openly to this date.
@@ -168,3 +172,4 @@ resolute resistance using the strategic depth of Russia to finally
 inflict a disastrous defeat on the French.
 
 continued…
+

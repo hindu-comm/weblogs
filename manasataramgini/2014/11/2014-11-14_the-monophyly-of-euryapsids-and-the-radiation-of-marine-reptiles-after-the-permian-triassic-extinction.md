@@ -1,7 +1,11 @@
 +++
 title = "The monophyly of euryapsids and the radiation of marine reptiles after the Permian–Triassic- extinction"
+date = "2014-11-14"
+upstream_url = "https://manasataramgini.wordpress.com/2014/11/14/the-monophyly-of-euryapsids-and-the-radiation-of-marine-reptiles-after-the-permian-triassic-extinction/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/11/14/the-monophyly-of-euryapsids-and-the-radiation-of-marine-reptiles-after-the-permian-triassic-extinction/).
+
 [This brief note might be read as a continuation of this
 one.](https://manasataramgini.wordpress.com/2013/02/02/some-musings-on-the-age-of-the-ichthyosaurs/ "Some musings on the age of the ichthyosaurs")
 
@@ -69,7 +73,7 @@ which are the other ancient aquatic/marine reptiles with an early
 Mesozoic provenance, do not unite with this clade. Thus, we would
 cautiously see the evidence as pointing in favor of a monophyletic
 euryapsida comprised of the above-listed groups. Indeed
-*Wumengosaurus* provides a form which could come close to their common
+*Wumengosaurus*provides a form which could come close to their common
 ancestor in appearance.
 
 Another clade, for which links to this greater euryapsid clade has been
@@ -222,7 +226,7 @@ ichthyosauromorphs in the Smithian is inaccurate
 • Early Triassic Marine Biotic Recovery: The Predators’ Perspective;
 Torsten M. Scheyer, Carlo Romano, Jim Jenks, Hugo Bucher  
 • A basal ichthyosauriform with a short snout from the Lower Triassic of
-China; Ryosuke Motani, Da-Yong Jiang, Guan-Bao Chen, Andrea Tintori,
+China; Ryosuke Motani,Da-Yong Jiang, Guan-Bao Chen, Andrea Tintori,
 Olivier Rieppel, Cheng Ji, Jian-Dong Huang  
 • The endoskeletal origin of the turtle carapace Tatsuya Hirasawa,
 Hiroshi Nagashima, Shigeru Kuratani  
@@ -234,11 +238,12 @@ of Hubei, China and the Phylogenetic Affinities of Hupehsuchia;
 Xiao-hong Chen, Ryosuke Motani, Long Cheng, Da-yong Jiang, Olivier
 Rieppel  
 • The Early Triassic Eosauropterygian Majiashanosaurus discocoracoidis,
-Gen. et sp. Nov. (REPTILIA, Sauropterygia), From Chaohu, Anhui Province,
+Gen. etsp. Nov. (REPTILIA, Sauropterygia), From Chaohu, Anhui Province,
 People’s Republic Of China; Da-Yong Jiang, Ryosuke Motani, Andrea
 Tintori, Olivier Rieppel, Guan-Bao Chen, Jian-Dong Huang, Rong Zhang,
 Zuo-Yu Sun, Cheng Ji  
 • New Information On Wumengosaurus delicatomandibularis Jiang et al.,
 2008 (DIAPSIDA: Sauropterygia), with a revision of the osteology and
-phylogeny of the taxon; Xiao-Chunwu, Yen-Nien Cheng, Chun Li, Li-Jun
+phylogeny of the taxon; Xiao-Chunwu,Yen-Nien Cheng, Chun Li, Li-Jun
 Zhao, Tamaki Sato
+

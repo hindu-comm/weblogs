@@ -1,8 +1,11 @@
 +++
-title = "The Tenth Day – The Death of the Demon – Dussehra /xa0VijayaDashami"
-date = "October 8, 2019"
+title = "The Tenth Day – The Death of the Demon – Dussehra / VijayaDashami"
+date = "2019-10-08"
+upstream_url = "https://aryaakasha.com/2019/10/08/the-tenth-day-the-death-of-the-demon-dussehra-vijayadashami/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/10/08/the-tenth-day-the-death-of-the-demon-dussehra-vijayadashami/).
+
 ![22104423_10159417477450574_3023156774461528949_o](https://aryaakasha.files.wordpress.com/2019/10/22104423_10159417477450574_3023156774461528949_o.jpg?w=676)
 
 The Day after NavRatri \[the ‘Nine Nights’ of Goddess Durga\] is known

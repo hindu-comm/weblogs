@@ -1,7 +1,11 @@
 +++
 title = "A saiddhAntika adaptation of the vAstupuruSha narrative"
+date = "2012-01-21"
+upstream_url = "https://manasataramgini.wordpress.com/2012/01/21/a-saiddhantika-adaptation-of-the-vastupurusha-narrative/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/01/21/a-saiddhantika-adaptation-of-the-vastupurusha-narrative/).
+
 We had earlier pointed out that the [vAstupuruSha
 narrative](https://manasataramgini.wordpress.com/2010/07/08/the-urban-mandala/)
 in the smArta vAstu texts ( e.g. as provided by varAhamihira in his
@@ -182,3 +186,4 @@ narratives are designed in a directed fashion. We suspect that there are
 probably certain favored recombination pathways which are then under a
 certain type of selection in the narrative-maker’s brain. Testing this
 idea would be an interesting challenge.
+

@@ -1,7 +1,11 @@
 +++
 title = "The karnATa-s in Tirabhukti and Nepal"
+date = "2008-05-19"
+upstream_url = "https://manasataramgini.wordpress.com/2008/05/19/the-karnata-s-in-tirabhukti-and-nepal/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/05/19/the-karnata-s-in-tirabhukti-and-nepal/).
+
 Sometimes an exploration of the evolution of the mantra-shAstra leads to
 a historical digression. So it was when we were trying to trace the
 history of the navadurgA class of texts in north-eastern India. We were
@@ -49,25 +53,25 @@ vikramAditya-VI was indeed the last attempt at the unification of the
 whole of greater India by a Hindu ruler before the Islamic interlude
 (his son was someshvara-deva-III of mAnasollAsa fame). There are several
 points in support of this contention:  
-1\) bilhaNa, the Kashmirian poet joined the court of vikrama, and
+1) bilhaNa, the Kashmirian poet joined the court of vikrama, and
 describes him as the foremost Hindu ruler of the era. His coming from
 Kashmir to the South Indian court at this time was largely due to the
 opportunities being available rather than invasions of the Mohammedans
 as in later times. He composed the biographical vikramA\~nka-charita on
 vikrama.  
-2\) We see an interlude in the eloquence of the historians of the
-Islamic jihad and a surprising loss of the Islamic foothold in certain
-regions of the Southwestern Punjab. We posit that this and the delay in
-any further Islamic incursions into India corresponds to the chAlukyan
+2) We see an interlude in the eloquence of the historians of the Islamic
+jihad and a surprising loss of the Islamic foothold in certain regions
+of the Southwestern Punjab. We posit that this and the delay in any
+further Islamic incursions into India corresponds to the chAlukyan
 offensive on the turuShka-s recorded in their inscriptions and the
 narrative of bilhaNa.  
-3\) The sena dynasty in Bengal and the karnATa dynasty in Tirabhukti and
+3) The sena dynasty in Bengal and the karnATa dynasty in Tirabhukti and
 Nepal were founded by kShatriya commanders from Karnataka.  
-4\) There is a coeval rise of navadurga worship in the karnATa and Nepal
+4) There is a coeval rise of navadurga worship in the karnATa and Nepal
 regions in this period and a sudden influence of chAlukyan Hindu
 iconography in Mithila, Nepal and Bengal.  
-5\) The widespread popularity of mitAkShara as a system of Hindu law –
-it was composed by vij\~nAneshvara in vikrama’s court.
+5) The widespread popularity of mitAkShara as a system of Hindu law – it
+was composed by vij\~nAneshvara in vikrama’s court.
 
 In the early 1090s chAlukya vikramAditya-VI appears to have dispatched a
 large army under his young general nAnyadeva to invade the North East.
@@ -96,3 +100,4 @@ unification under vikramAditya-VI in transmitting the paippalAda shAkha
 of AV to these regions needs to be considered. This is especially so in
 light of the comment in the prapa\~ncha-hR^idaya that the paippalAda
 shAkha was found in southern India.
+

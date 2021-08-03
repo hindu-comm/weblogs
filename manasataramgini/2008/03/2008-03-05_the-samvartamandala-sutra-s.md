@@ -1,20 +1,24 @@
 +++
 title = "The saMvartAmaNDala sUtra-s"
+date = "2008-03-05"
+upstream_url = "https://manasataramgini.wordpress.com/2008/03/05/the-samvartamandala-sutra-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/03/05/the-samvartamandala-sutra-s/).
+
 OM namo akulavIrAya
 
 We beheld him, he who stands with the trident in the midst of the blaze
 of the dissolution of the universe. We beheld the 62 taijasa mayUkha-s
-shooting forth\! We worshiped nandin at ODDiyAna, kArttikeya at
-pUrNagiri and vighna at kAmarUpa.
+shooting forth! We worshiped nandin at ODDiyAna, kArttikeya at pUrNagiri
+and vighna at kAmarUpa.
 
 \~\*\~\*\~
 
 tava svAdhiShThAne hutavaham adhiShThAya nirataM  
-tam IDe saMvartaM janani mahatIM tAM cha samayAm |  
+tam IDe saMvartaM janani mahatIM tAM cha samayAM \|  
 yadAloke lokAn dahati mahati krodha kalite  
-dayArdrA yaddR^iShTiH shishiram upachAraM rachayati || saundaryalahari
+dayArdrA yaddR^iShTiH shishiram upachAraM rachayati \|\| saundaryalahari
 39
 
 O geneatrix, I worship in your svAdhiShThana, saMvarta presiding over
@@ -72,38 +76,40 @@ into verse approximating the sragdharA Chandas. I have marked the
 individual sUtra boundaries with ‘..’
 
 The bR^ihat saMvartAmaNDala sUtra-s (ShaTsAhasra saMhitA)  
-|| huM shivAya shrI-kula-gaNAdhipataye namaH ||
+\|\| huM shivAya shrI-kula-gaNAdhipataye namaH \|\|
 
 . saMvartAmaNDalaante krama-pada-nihitAnanda-shaktiH subhImA .  
 . sR^iShTi-nyAye chatuShkaM akula-kulagataM . pa\~nchakaM caanya-ShaTkaM
-|  
+\|  
 chatvAraH pa\~nchako.anyaH punar api chaturaH . .
 ShoDashaaj\~naabhishekaM .  
 . devyAShTau mUrti-madhye . . \*ha sa kha pha ra kalA bindupuShpaM\* . .
-kha-mudrA . ||1||
+kha-mudrA . \|\|1\|\|
 
 . bAlaM kaumAra-vR^iddhaM . . parama-shiva-kalA chakradevI kramAnAM .  
 . shrInatham chandrapuryAM nava-nava-kalitaM yugma bhedais ti sAraM .
-|  
+\|  
 . siddhAs trINy avatAraM . . prathama kaliyuge ko\~NkaNe chaadhikAraM
 .  
 . teShaM vai putra-shiShyA . . nava-puruSha-kramAs-teShu madhye
-dvirAShTau . ||2||
+dvirAShTau . \|\|2\|\|
 
 . santAnaM gotra-piNDaM krama-pada-sakalaM ShoDashAntaraM kramAntaM  
-sheShA vai maNDalANAM pari-bhrama-vimalaM pUjaya-sadbhAva-vR^indaM . |  
+sheShA vai maNDalANAM pari-bhrama-vimalaM pUjaya-sadbhAva-vR^indaM .
+\|  
 . AdAv aShTAdashaantaM kula-krama-sakalaM maNDalotthAna-pUrvaM .  
 . saMskAraM trih-kramottham pashu-mala-kShaya-kR^it piNDa-shuddhiH
-shivaagnau . ||3||
+shivaagnau . \|\|3\|\|
 
 . madhye vishrAma-bhUmau prasaram anubhavaM pratyayaM svAdhikAraM  
 saMsR^iShTaM yena tasmai namatha guruvaraM bhairavaM shrIkubjesham .
-||4||
+\|\|4\|\|
 
 . vR^ittyAdhyuShTakramaarthaM rachitam anubhavaM kha\~njinI-mUrti-pUrvaM
 .  
 . divyaughaM deva-saMj\~NaM punar api aparaM mAnavaM triH-kramaughaM .
-|  
+\|  
 . bhedaanekair vibhinnaM sakala-pada-kramaM maNDalaM ShaTprakAraM .  
 . sa\~NketaM kAdipUrvaM . . sakala-guNa-yutaM maNDalaM bhairavaM tam .
-|| 5 ||
+\|\| 5 \|\|
+

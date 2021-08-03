@@ -1,8 +1,11 @@
 +++
-title = "On The Subtle Satemization Of Centum In Modernxa0English"
-date = "December 9, 2020"
+title = "On The Subtle Satemization Of Centum In Modern English"
+date = "2020-12-09"
+upstream_url = "https://aryaakasha.com/2020/12/09/on-the-subtle-satemization-of-centum-in-modern-english/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/12/09/on-the-subtle-satemization-of-centum-in-modern-english/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/12/130475118_772463753365951_8133610582628125660_n.png?w=500)
 
 Something I’ve been meaning to remark upon for awhile, is this rather

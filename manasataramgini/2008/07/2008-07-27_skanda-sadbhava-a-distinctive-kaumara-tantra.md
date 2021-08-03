@@ -1,7 +1,11 @@
 +++
 title = "skanda sadbhAva: A distinctive kaumAra tantra?"
+date = "2008-07-27"
+upstream_url = "https://manasataramgini.wordpress.com/2008/07/27/skanda-sadbhava-a-distinctive-kaumara-tantra/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/07/27/skanda-sadbhava-a-distinctive-kaumara-tantra/).
+
 Even though there are kumAra shrines ranking amongst the richest of the
 Indian temples, kaumAra worship can be generally characterized as being
 in the decline, especially in terms of the ancient forms. In South India
@@ -33,10 +37,10 @@ The frame of the Tantric narrative is set in kailAsa, where nandin asks
 maheshvara about the rare and pristine shAstra named skanda sadbhAva. In
 reply mahAdeva says:
 
-shR^iNu loka hitArthaM me tantram etad asheShataH |  
-shlokair dvAdasha sAhasrair munInAM kathitaM purA ||  
-saMskShepAt tava vakShyAmi skanda-sadbhAvaM uttamam |  
-adhyAya-aShTa dashopetaM skanda-sadbhAva saMyutam || 1.3-1.4 (the
+shR^iNu loka hitArthaM me tantram etad asheShataH \|  
+shlokair dvAdasha sAhasrair munInAM kathitaM purA \|\|  
+saMskShepAt tava vakShyAmi skanda-sadbhAvaM uttamam \|  
+adhyAya-aShTa dashopetaM skanda-sadbhAva saMyutaM \|\| 1.3-1.4 (the
 manuscript from which I entered this has no numbers of shloka-s; *a very
 likely emendation of the unmetrical elements in above has been kindly
 suggested by the learned scholar Somadeva Vasudeva:  
@@ -106,17 +110,17 @@ mantra the praNava is said to be appended. The mantra is the same as the
 one provided by the shAradA tilaka tantra (also known to
 chennas-nArAyaNa nambuthiri-pAD):
 
-athaH paraM pravakShyAmi mantrANAM prasaraM punaH |  
-saptamasya chaturthaM tu tR^itIyAdyam athaH param ||  
-pa\~nchame prathamaM bhUyaH kevalaM svara-varjitaM|  
-punaH ShaShThe chaturthamsyAt pa\~nchama svara-saMyutam ||  
-chaturthaM saptame bhUyaH svareNaikAdashena tu |  
-pa\~nchamAntaM punar dadyAt ShaShTAntam sa-visargakam ||  
-ayaM ShaDakSharo mantraH sAkShAt skandaH sanAtanaH | (SS 3.7-10ab)
+athaH paraM pravakShyAmi mantrANAM prasaraM punaH \|  
+saptamasya chaturthaM tu tR^itIyAdyam athaH paraM \|\|  
+pa\~nchame prathamaM bhUyaH kevalaM svara-varjitaM\|  
+punaH ShaShThe chaturthamsyAt pa\~nchama svara-saMyutaM \|\|  
+chaturthaM saptame bhUyaH svareNaikAdashena tu \|  
+pa\~nchamAntaM punar dadyAt ShaShTAntam sa-visargakaM \|\|  
+ayaM ShaDakSharo mantraH sAkShAt skandaH sanAtanaH \| (SS 3.7-10ab)
 
 [![](https://i2.wp.com/farm4.static.flickr.com/3058/2708727044_31f5463ee7_o.jpg)](http://farm4.static.flickr.com/3058/2708727044_31f5463ee7_o.jpg)
 
-Hence (applying sandhi): ||OM vachadbhuve namaH || the skanda
+Hence (applying sandhi): \|\|OM vachadbhuve namaH \|\| the skanda
 ShaDakSharI
 
 \[Disclaimer: Though typically a 50 mAtR^ikA is used, I am simply
@@ -129,28 +133,28 @@ they must be conjoined with their respective names. The names are not
 provided here, but are found in the 4th chapter on archana. Using them
 we can reconstruct these mantra-s as well as the directions in which
 these mUrti-s are placed in the petals of the kumAra maNDala:  
-saM sanatkumArAya namaH || (E)  
-skaM skandAya namaH || (S)  
-baM bANAya namaH || (W)  
-haM hemachUDAya namaH || (N)  
-bhaM bhadrasenAya namaH || (NE)  
-bhaM bhavaputrAya namaH || (SE)  
-daM devasenAyai namaH || (SW)  
-daM devayAnyai namaH || (NW)
+saM sanatkumArAya namaH \|\| (E)  
+skaM skandAya namaH \|\| (S)  
+baM bANAya namaH \|\| (W)  
+haM hemachUDAya namaH \|\| (N)  
+bhaM bhadrasenAya namaH \|\| (NE)  
+bhaM bhavaputrAya namaH \|\| (SE)  
+daM devasenAyai namaH \|\| (SW)  
+daM devayAnyai namaH \|\| (NW)
 
 Then shiva also goes on to give the following auxiliary mantra-s:  
-vAhana: maM mayUrAya namaH ||  
-dhvaja: kaM kukkuTAya namaH ||  
+vAhana: maM mayUrAya namaH \|\|  
+dhvaja: kaM kukkuTAya namaH \|\|  
 dhUrtasena (a major kumAra gaNa in this system): dhaM dhUrtasenAya namaH
-||  
+\|\|  
 vighnesha (the receiver of the nirmAlya in this system): gUM gaNapatye
-namaH ||  
+namaH \|\|  
 Then shiva provides the uddhara of the second ShaDakSharI mantra –
 manuscript is somewhat lacunose here but one can easily read the
 essentials of he uddhara to extract the mantra:  
-OM namaH ShaNmukhAya ||  
+OM namaH ShaNmukhAya \|\|  
 It also gives a distinctive kumAra gAyatrI of the form: OM shaktihastAya
-vidmahe ShaDAnanAya dhimahi | tan-naH skandaH prachodayat ||
+vidmahe ShaDAnanAya dhimahi \| tan-naH skandaH prachodayat \|\|
 
 The 8th chapter on kumAra temples states that they may be constructed in
 many places but specifically mentions the kadamba forest to be
@@ -173,3 +177,4 @@ for flowers (IshAna). A vajra is installed in the gopura facing the
 gates, a peacockis placed in front of the deity and beyond it is placed
 the balipITha. There after a copper-crested cock is placed atop a tall
 dhvaja-stambha.
+

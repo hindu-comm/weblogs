@@ -1,51 +1,55 @@
 +++
 title = "kauTilya on knowledge"
+date = "2012-06-23"
+upstream_url = "https://manasataramgini.wordpress.com/2012/06/23/kautilya-on-knowledge/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/06/23/kautilya-on-knowledge/).
+
 The wise viShNugupta, who propelled the mauryan to meteoric heights,
 while uprooting the tree of the wicked nanda-s and cleansing the taint
 of the Macedonian barbarians on the land of the bhArata-s, uttered words
 that remain vivid even after 2300 years. The AchArya’s enumeration of
 the Hindu system of knowledge goes thus:
 
-AnvIkShikI trayI vArtA daNDa-nItish cha^iti vidyAH ||
+AnvIkShikI trayI vArtA daNDa-nItish cha^iti vidyAH \|\|
 
 The branches of knowledge are: logical analysis, the three-fold ritual
 chants \[the veda\], business and political science.
 
-trayI vArtA daNDa-nItish cha^iti mAnavAH || trayI visheSho hy
-AnvIkShikI^iti ||
+trayI vArtA daNDa-nItish cha^iti mAnavAH \|\| trayI visheSho hy
+AnvIkShikI^iti \|\|
 
 The school of manu holds that \[there are only three branches\]: The
 three fold ritual chants, business and political science. Because
 logical analysis is only a special branch of the veda.
 
-vArtA daNDa-nItish cha^iti bArhaspatyAH || saMvaraNa mAtraM hi trayI
-loka yAtrA vida iti ||
+vArtA daNDa-nItish cha^iti bArhaspatyAH \|\| saMvaraNa mAtraM hi trayI
+loka yAtrA vida iti \|\|
 
 The school of bR^ihaspati holds that \[there are only two branches\]:
 Business and political science. Because the veda is only a cloak for
 those who are well-versed in worldly customs.
 
-daNDa-nItir ekA vidyA^ity aushanasAH || tasyAM hi sarva-vidyA.ArambhAH
-pratibaddhA iti ||
+daNDa-nItir ekA vidyA^ity aushanasAH \|\| tasyAM hi sarva-vidyA.ArambhAH
+pratibaddhA iti \|\|
 
 The school of ushanas holds that there is only one branch: political
 science. Because the origins of all types of knowledge are
 \[ultimately\] united in it.
 
-chatasra eva vidyA iti kauTilyaH ||
+chatasra eva vidyA iti kauTilyaH \|\|
 
 However, kauTilya holds that the branches of knowledge are verily only
 four \[i.e. logical analysis, the veda, business and political
 science\].
 
-tAbhir dharma.arthau yad vidyAt tad vidyAnAM vidyAtvam ||
+tAbhir dharma.arthau yad vidyAt tad vidyAnAM vidyAtvam \|\|
 
 The defining feature of all branches of knowledge is that by knowing
 them one can learn of dharma and artha.
 
-sAMkhyaM yogo lokAyataM cha^ity AnvIkShikI ||
+sAMkhyaM yogo lokAyataM cha^ity AnvIkShikI \|\|
 
 Logical analysis is comprised of the systems of sAMkhya, yoga and
 lokAyata.
@@ -53,7 +57,7 @@ lokAyata.
 dharmaadharmau trayAm arthaanarthau vArtAyAM nayaanayau daNDa-nItyAM
 balaabale cha etAsAM hetubhir anvIkShamANA lokasya upakaroti vyasane
 .abhyudaye cha buddhim avasthApayati praj\~nA-vAkya-kriyA-vaishAradyaM
-cha karoti ||
+cha karoti \|\|
 
 Logical analysis by means of proper arguments of dharma and adharma,
 which belong to the realm of the veda, profit and loss which belong to
@@ -63,8 +67,8 @@ branch of knowledge, benefits the people, keeps the intellect steady
 both in dire situations and good times, and generates expertise in the
 spheres of mental, verbal and physical activity.
 
-pradIpaH sarva-vidyAnAm upAyaH sarva-karmaNAm | AshrayaH sarva-dharmANAM
-shashvad AnvIkShikI matA || AS 1.2.01-12
+pradIpaH sarva-vidyAnAm upAyaH sarva-karmaNAm \| AshrayaH
+sarva-dharmANAM shashvad AnvIkShikI matA \|\| AS 1.2.01-12
 
 The systems of logical analysis \[i.e. sAMkhya, yoga and lokAyata\] are
 always the lamp illuminating all knowledge and the means of all actions.
@@ -142,9 +146,9 @@ while not according it the status of being the sole knowledge system, he
 accepts the basic tenet of the importance of daNDanIti as per the
 aushanasa school in the maintenance of knowledge, dharma and business:
 
-AnvIkShikI trayI vArtAnAM yoga-kShema-sAdhano daNDaH | tasya nItir daNDa
-nItiH | alabdha-lAbhaarthA labdha-parirakShaNI rakShita vivardhanI
-vR^iddhasya tIrthe pratipAdanI cha || 1.4.03
+AnvIkShikI trayI vArtAnAM yoga-kShema-sAdhano daNDaH \| tasya nItir
+daNDa nItiH \| alabdha-lAbhaarthA labdha-parirakShaNI rakShita
+vivardhanI vR^iddhasya tIrthe pratipAdanI cha \|\| 1.4.03
 
 The daNDa \[is the power\] by which the application and the growth of
 the systems of logical analysis, the veda and business are upheld. Its
@@ -155,8 +159,8 @@ the fruits of growth are re-distributed among the deserving.
 
 Nevertheless, with respect to the actual application of daNDa,
 viShNugupta advocates what might be termed the path of moderation:  
-“tasmAl loka yAtrA .arthI nityam udyata-daNDaH syAt || na hy evaM vidhaM
-vasha^upanayanam asti bhUtAnAM yathA daNDaH|” ity AchAryAH ||
+“tasmAl loka yAtrA .arthI nityam udyata-daNDaH syAt \|\| na hy evaM
+vidhaM vasha^upanayanam asti bhUtAnAM yathA daNDaH\|” ity AchAryAH \|\|
 
 “Whoever is desirous of progress of the world shall always do so with
 the upraised rod of chastisement. Never can there be a better instrument
@@ -164,8 +168,8 @@ to bring beings \[implying people and other animals\] under control than
 the application of chastisement.” So the earlier teachers expounded
 \[i.e. they advocated a police state\].
 
-na^iti kauTilyaH || tIkShNa.daNDo hi bhUtAnAm udvejanIyo bhavati ||
-mR^idu daNDaH paribhUyate || yathA .arha daNDaH pUjyate || 1.4.05-10
+na^iti kauTilyaH \|\| tIkShNa.daNDo hi bhUtAnAm udvejanIyo bhavati \|\|
+mR^idu daNDaH paribhUyate \|\| yathA .arha daNDaH pUjyate \|\| 1.4.05-10
 
 “Not so,” says kauTilya; for whoever imposes severe chastisement becomes
 tyrannical to the beings \[a police state\]; while he who is mild in
@@ -197,7 +201,7 @@ learning analytical devices is not for all and sundry, and outlines who
 can do so:
 
 shushrUShA shravaNa grahaNa dhAraNa vij\~nAna^Uhaapoha
-tattvaabhiniviShTa buddhiM vidyA vinayati na^itaram || 1.5.05
+tattvaabhiniviShTa buddhiM vidyA vinayati na^itaram \|\| 1.5.05
 
 The acquisition of knowledge can only culture those whose intellect is
 endowed with the abilities of discipline, learning from verbal
@@ -228,7 +232,7 @@ acquire new knowledge and revise what he learns.
 
 He states :  
 shrutAd hi praj\~nA^upajAyate praj\~nAyA yogo yogAd AtmavattA^iti
-vidyAnAM sAmarthyam || 1.5.16
+vidyAnAM sAmarthyam \|\|1.5.16
 
 Verily from hearing (i.e. gathering information) emerges knowledge; that
 knowledge allows its application; from its application one becomes
@@ -236,19 +240,20 @@ prudent. This is the power of knowledge.
 
 We shall end by remembering how viShNugupta emphasizes the role of the
 educated king and protection of knowledge by the king:  
-vidyA vinIto rAjA hi prajAnAM vinaye rataH | ananyAM pR^ithivIM
-bhu\~Nkte sarva-bhUta-hite rataH || 1.5.16
+vidyA vinIto rAjA hi prajAnAM vinaye rataH \| ananyAM pR^ithivIM
+bhu\~Nkte sarva-bhUta-hite rataH \|\| 1.5.16
 
 The king who is educated in the fields of knowledge, verily interested
 in administration of his people, and inclined to benefit all beings will
 enjoy the earth unopposed.
 
-gAndharvaM nR^ittam AlekhyaM vAdyaM cha gaNitaM kalAH |  
-arthashAstraM dhanurvedaM yatnAd rakShen mahIpatiH || chANakya-rAjanIti
-75
+gAndharvaM nR^ittam AlekhyaM vAdyaM cha gaNitaM kalAH \|  
+arthashAstraM dhanurvedaM yatnAd rakShen mahIpatiH \|\|
+chANakya-rAjanIti 75
 
 Music, dance, painting, discourse, mathematics, technologies, economics
 and military science, a king should painstakingly protect.
 
 These concluding points are largely lost in the contemporary rulers of
 jambudvIpa.
+

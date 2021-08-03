@@ -1,7 +1,11 @@
 +++
 title = "Der singende Knochen: śūlapuruṣāṇāṃ śūletyādi"
+date = "2016-03-04"
+upstream_url = "https://manasataramgini.wordpress.com/2016/03/04/der-singende-knochen-sulapuru%e1%b9%a3a%e1%b9%87a%e1%b9%83-suletyadi/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2016/03/04/der-singende-knochen-sulapuru%e1%b9%a3a%e1%b9%87a%e1%b9%83-suletyadi/).
+
 That afternoon Vidrum was returning with a bunch of other friends whom
 he had taken through a tough course of climbing at a hilly locale. As
 they neared a certain road, he, Sharvamanyu, Somakhya and Lootika bade
@@ -19,12 +23,12 @@ dancing and playing musical instruments. Somakhya: “Would you know
 something regarding this great procession?” Vidrum: “It is a procession
 of devotees of a vaiṣṇava bhakti sect who are carrying the pedal icons
 of some of their important saints towards one of their pilgrimage
-sites.” Lootika: “Look, they are carrying a palanquin with much
-fanfare. Who might be in it?” Vidrum: “From their cries we can say that
-that particular palanquin carries the pedal icon of an important avarṇa
-saint of this saṃpradāya. As they watched the procession march on,
-Somakhya asked his friends: “Could any of you tell me more of the
-history of this avarṇa saint ?”
+sites.” Lootika: “Look, they are carrying a palanquin with much fanfare.
+Who might be in it?” Vidrum: “From their cries we can say that that
+particular palanquin carries the pedal icon of an important avarṇa saint
+of this saṃpradāya. As they watched the procession march on, Somakhya
+asked his friends: “Could any of you tell me more of the history of this
+avarṇa saint ?”
 
 Sharvamanyu: “In the mid-1100s of CE when the evils of Abraham’s third
 mānasa-putra-s had not yet reached the Southern deśa-s of Bhāratavarṣa,
@@ -88,8 +92,8 @@ it appears that is seen in folklore from more than one part of Bhārata.
 Here twin brothers are born to a king by means of the fertilizing mango
 given to his queen by a śaiva tāntrika. The tāntrika demands one of the
 twins to be given to him as a sacrificial offering to attain
-vidyādhara-hood. However, the prince tricks the yogin and sacrifices
-him instead and attains partial vidyādhara powers until he is himself
+vidyādhara-hood. However, the prince tricks the yogin and sacrifices him
+instead and attains partial vidyādhara powers until he is himself
 overwhelmed by a mantriṇī with superior mantra powers. Then he is
 rescued from her spell by his twin. This tale of the two brothers
 without the fertilizing mango motif appears in Iran, Greece, Italy and
@@ -137,7 +141,7 @@ bone and incorporated it into his horn he wanted to use it when the bone
 began to sing on it own:  
 “*Dear shepherd, blowing on my bone,*  
 *Hear my song, for I want you to know*  
-*My brothers killed me years ago\!*  
+*My brothers killed me years ago!*  
 *They buried me by the brook that flows*  
 *and carried off the dead wild boar,*  
 *and won the king’s lone daughter.*”  
@@ -285,7 +289,7 @@ Jordan is suggestive of them returning from land not far from the old
 Yezidi domain. Perhaps, in actual history, tales such as these were
 borne to Europe by itinerant shepherds from west Asia like the one in
 the tale.”  
-Somakhya: “Touche Lootika\! That is very good – you have indeed
+Somakhya: “Touche Lootika! That is very good – you have indeed
 apprehended the very provenance of this tale. Yet there is the Germanic
 form you narrated, which appears in a different setting suggesting the
 possibility of two distinct transmissions of this tale into Europe. I
@@ -299,7 +303,7 @@ credit of killing the boar – in our case between Arjuna and Rudra and
 their case between the brothers. Do you think this motif might hence
 have a early Indo-European provenance?”
 
-Somakhya: “Certainly\! For we have two Greek parallels for the boar hunt
+Somakhya: “Certainly! For we have two Greek parallels for the boar hunt
 motif, rich in many cognate features. First there is the Calydonian boar
 and then the Erymanthian boar.”  
 Lootika: “Could you please tell me these yavana tales so that I could
@@ -346,13 +350,13 @@ demolished by the pretācārin-s are said to be still there.
 
 So Lootika I guess you were able to note the cognate elements.”
 
-Lootika: “Indeed\! First, the association of the boar-hunt with the
+Lootika: “Indeed! First, the association of the boar-hunt with the
 Rudra-class of deities is clearly an old one. Both Artemis and Apollo
 feature in the yavana world and even in our world Rudra comes with
-Ambikā for the encounter with Arjuna – after all the Yajurveda calls
-her the sister of Rudra in great autumnal ritual of Tryambaka. Second,
-at least the tale of the Erymanthian boar is associated with the labor
-of Herakles, an action of the hero, the son of Zeus, in exile. In our
+Ambikā for the encounter with Arjuna – after all the Yajurveda calls her
+the sister of Rudra in great autumnal ritual of Tryambaka. Second, at
+least the tale of the Erymanthian boar is associated with the labor of
+Herakles, an action of the hero, the son of Zeus, in exile. In our
 tradition his cognate Arjuna, the son of Maghavan performs the same in
 course of his exile. Third, the Calydonian boar features the motif of
 the dispute regarding who killed the boar. There Atalanta, who was
@@ -362,17 +366,17 @@ tradition to dispute the hero Arjuna’s claim. Looming at the back of all
 of this is the motif of the wrath of Rudra by which many are killed. As
 in our tradition in the case of the Calydonian boar the wrath of the
 Rudra-class deity is triggered by the non-offering of the “rudrasya
-bhAgaH |”.  
+bhAgaH \|”.  
 Somakhya: “That’s good. Indeed our tradition records an ancient link
 between the Rudra-class of deities and the boar. Verily, in the ritual
 of the great pacification of The god or in the abhicārika ritual as
 performed by Baka Dālbhya against Dhṛtarāṣṭra Vaicitravīrya we say:
-“divo varāham aruṣaṃ kapardinaṃ tveṣaṃ rūpaṃ namasā ni hvayāmahe ।
-\[The ruddy boar of heaven, the knotted-haired one, with an impetuous
-form we call down with obeisance.\]. On the other hand in the śruti the
-original killers of the boar are Viṣṇu and Indra in the exploit of Emūṣa
-or the ancient water deity Trita. That appears to have been projected on
-to their earthly proxy Arjuna and among the yavana-s Herakles.”
+“divo varāham aruṣaṃ kapardinaṃ tveṣaṃ rūpaṃ namasā ni hvayāmahe । \[The
+ruddy boar of heaven, the knotted-haired one, with an impetuous form we
+call down with obeisance.\]. On the other hand in the śruti the original
+killers of the boar are Viṣṇu and Indra in the exploit of Emūṣa or the
+ancient water deity Trita. That appears to have been projected on to
+their earthly proxy Arjuna and among the yavana-s Herakles.”
 
 Lootika: “That’s rather remarkable. Now the parallels between the
 Germanic folktale and the Greek versions are also abundantly clear. The
@@ -405,9 +409,10 @@ further parallel with our own tradition. In both that tale and the
 Kirātarjunīya, the Rudra-class deity or his proxy gives the protagonist
 a weapon that will help in a future quest.”
 
-Lootika: “ayam eva śūla-puruṣāṇāṃ śūlaḥ\! Thus, like domains in proteins
+Lootika: “ayam eva śūla-puruṣāṇāṃ śūlaḥ! Thus, like domains in proteins
 these motifs have dispersed across the tales which constitute the
 proteome of folklore. Indeed, it is quite possible that the hunt of the
 boar and the singing bones were old motifs going back to the junction
 between the hunter-gather strand of our ancestry and the pastoral and
 agricultural life-styles in the old steppe-zone. ”
+

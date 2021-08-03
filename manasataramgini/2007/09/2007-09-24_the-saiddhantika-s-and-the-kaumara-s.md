@@ -1,7 +1,11 @@
 +++
 title = "The saiddhAntika-s and the kaumara-s"
+date = "2007-09-24"
+upstream_url = "https://manasataramgini.wordpress.com/2007/09/24/the-saiddhantika-s-and-the-kaumara-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/09/24/the-saiddhantika-s-and-the-kaumara-s/).
+
 I was examining a kaumAra manual used by priests from Kilmangalam (a
 village near the town of Periyakulam) for the worship at the aruLmigu
 bAlAsubrahmaNya temple. The temple is itself was built around 1020 CE by
@@ -15,7 +19,7 @@ this temple is from the 1500s of CE composed by a certain hAlAsya. In
 its opening it has a salutation to great saiddhAntika tantriks of yore.
 It names durvAsa as the founder of the lineage and then lists the
 following historical tantriks:  
-1\) sadyojyotis son of kheTaka 2) bR^ihaspati 3) nArAyaNakaNTha 4) his
+1) sadyojyotis son of kheTaka 2) bR^ihaspati 3) nArAyaNakaNTha 4) his
 son rAmakaNTha-II 5) aghora-shiva deshika.
 
 The South Indian Urdhvasrotas (saiddhAntika ) commentarial tradition
@@ -23,7 +27,7 @@ remembers many great prior Acharya-s and siddha-s, but like its
 Kashmirian counterpart its memory starts with sadyojyotis and
 bR^ihaspati, both of whom are termed siddha-s. After this it shifts to
 the great Kashmirian lineage which opens with bhaTTa rAmakaNTha-I:  
-rAmakaNTha-I -\> vidyAkaNTha-I -\> nArAyaNakaNTha -\>rAmakaNTha-II -\>
+rAmakaNTha-I -> vidyAkaNTha-I -> nArAyaNakaNTha ->rAmakaNTha-II ->
 vidyAkaNTha-II and shrikaNTha (probably).
 
 Then it remembers the Tantrik-s of the mattamayUra lineage and its great
@@ -78,7 +82,7 @@ have occurred in Kashmir and other places. The fightback against the
 mAyAvAda form of advaita is seen only later amongst the saiddhAntika-s
 in the works of rAmakaNTha-II.
 
-\-The main works of sadyojyotis that survive are : 1) the triad of works
+-The main works of sadyojyotis that survive are : 1) the triad of works
 comprising the commentary on the raurava-sutra-saMgraha, namely the
 bhoga-kArikA, mokSha-kArikA and paramokShanirAsa-kArikA: collectively
 the raurava-vR^itti. 2) The commentary on the svAyambhuva-sUtra saMgraha
@@ -87,17 +91,17 @@ according to these two sUtra collections: tattva-saMgraha and the
 tattva-traya-nirNaya. 4) nareshvara-parIkShA- a polemical work laying
 the siddhAnta shaiva position in contradistinction to the AstIka
 darshana-s, earlier pAshupata shaiva-s and pA\~ncharAtric vaiShNava.  
-\-The siddhAnta Tantrik bR^ihaspati-s works are poorly known and are :1)
+-The siddhAnta Tantrik bR^ihaspati-s works are poorly known and are :1)
 the raurava vArtika on the raurava-sutra saMgraha and 2) the
 shiva-tanu.  
-\-bhaTTa nArAyaNa-kaNTha wrote the once famous sharan-nishA that is
+-bhaTTa nArAyaNa-kaNTha wrote the once famous sharan-nishA that is
 supposed to have clarified the tattva saMgraha of sadyojyotis like the
 moon shining on an autumn night. This work is remembered in both
 Kashmirian and Tamil tradition but does not seem to survive. He also
 composed new commentaries on the mR^igendra tantra.  
-\-His son rAmakaNTha-II not only commented on the works of sadyojyotis
+-His son rAmakaNTha-II not only commented on the works of sadyojyotis
 but also on the mata\~NgapArameshvara tantra.  
-\-aghora-shiva in Tamil Nad composed commentaries building precisely on
+-aghora-shiva in Tamil Nad composed commentaries building precisely on
 the works of nArAyaNa-kaNTha and rAmakaNTha and appears to follow their
 conservative path. This is quite clear from his epitome of the siddhAnta
 worship presented in the 100 verse stotra known as the
@@ -159,7 +163,7 @@ kaumAra was an offshoot of the saiddhAntika stream.
 
 The technically educated kaumAra-s are a vanishing group: they seem to
 be extinct in the North in
-[Rajasthan](http://manasataramgini.wordpress.com/2007/05/paschimaugha-of-manavaugha-of-kaumaras.html)
+[Rajasthan](http://manollasa.blogspot.com/2007/05/paschimaugha-of-manavaugha-of-kaumaras.html)
 (where again there was an association with the shaiva stream), and are
 present in small clusters in Tamil Nad, and the Kanada and Tulu
 countries (where a pristine secretive subrahmaNya maTha lineage
@@ -168,3 +172,4 @@ as unedited and in some cases lacunose manuscripts from these regions.
 We are one remnant of this path. We have too much of a personal
 connection with this deva, but we know not what the roguish deva has in
 store for us.
+

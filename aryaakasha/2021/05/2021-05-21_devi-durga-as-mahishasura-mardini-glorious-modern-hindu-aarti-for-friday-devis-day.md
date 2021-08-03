@@ -1,8 +1,11 @@
 +++
-title = "Devi Durga As Mahishasura Mardini – Glorious Modern Hindu (A)Art(i) For Friday, Devi’sxa0Day"
-date = "May 21, 2021"
+title = "Devi Durga As Mahishasura Mardini – Glorious Modern Hindu (A)Art(i) For Friday, Devi’s Day"
+date = "2021-05-21"
+upstream_url = "https://aryaakasha.com/2021/05/21/devi-durga-as-mahishasura-mardini-glorious-modern-hindu-aarti-for-friday-devis-day/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/05/21/devi-durga-as-mahishasura-mardini-glorious-modern-hindu-aarti-for-friday-devis-day/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/05/8d05778ac530069c48eef27e24ee6aa2.jpg?w=564)
 
 Amazing modern (A)art(i) for Friday – Devi’s Day.

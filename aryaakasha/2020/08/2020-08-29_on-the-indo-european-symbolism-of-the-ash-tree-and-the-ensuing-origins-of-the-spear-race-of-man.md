@@ -1,8 +1,11 @@
 +++
-title = "On The Indo-European Symbolism Of The Ash Tree – And The Ensuing Origins Of The Spear-Race Ofxa0Man"
-date = "August 29, 2020"
+title = "On The Indo-European Symbolism Of The Ash Tree – And The Ensuing Origins Of The Spear-Race Of Man"
+date = "2020-08-29"
+upstream_url = "https://aryaakasha.com/2020/08/29/on-the-indo-european-symbolism-of-the-ash-tree-and-the-ensuing-origins-of-the-spear-race-of-man/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/08/29/on-the-indo-european-symbolism-of-the-ash-tree-and-the-ensuing-origins-of-the-spear-race-of-man/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/08/b55742eff84bcea621dbaa6a86e2d9bc-1.jpg?w=550)
 
 Often in the course of work, we begin writing about one topic – only to

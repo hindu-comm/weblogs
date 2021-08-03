@@ -1,8 +1,11 @@
 +++
-title = "On Adopting The Mantle of Myth – And Pakistan’s Perilously Pained Pretensions Toxa0Same"
-date = "September 23, 2019"
+title = "On Adopting The Mantle of Myth – And Pakistan’s Perilously Pained Pretensions To Same"
+date = "2019-09-23"
+upstream_url = "https://aryaakasha.com/2019/09/23/on-adopting-the-mantle-of-myth-and-pakistans-perilously-pained-pretensions-to-same/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/09/23/on-adopting-the-mantle-of-myth-and-pakistans-perilously-pained-pretensions-to-same/).
+
 ![a-german-panzer-v-medium-tank-with-a-spirtual-force-of-the-teutonic-knight_u-l-pu23xu0](https://aryaakasha.files.wordpress.com/2019/09/a-german-panzer-v-medium-tank-with-a-spirtual-force-of-the-teutonic-knight_u-l-pu23xu0.jpg?w=676)
 
 One of my favourite concepts from the field of 20th century comparative

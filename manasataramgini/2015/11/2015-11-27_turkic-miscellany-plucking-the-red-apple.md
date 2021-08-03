@@ -1,7 +1,11 @@
 +++
 title = "Turkic miscellany: plucking the red apple"
+date = "2015-11-27"
+upstream_url = "https://manasataramgini.wordpress.com/2015/11/27/turkic-miscellany-plucking-the-red-apple/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/11/27/turkic-miscellany-plucking-the-red-apple/).
+
 In 527 CE Justinian became the emperor at Constantinople. He is
 remembered as a saint in the orthodox church and is famed for his
 enforcing of the Nicean creed. He crushed other interpretations of the
@@ -138,27 +142,26 @@ go unchallenged. The vicissitudes of history eventually raised the
 successor state of the Khaganate of the Rus, the tsardom of Russia over
 the Osmans. The tsar of all Russias indeed shared a title with the Osman
 Sultans after the conquest of Constantinople – tsar and Kayser-i Rum.
-It was not just limited to that. As the most powerful force in the
-world of orthodox Christianity, Russia saw itself as a protector of the
-Church against Islam. In the 1850s the Russians had inflicted a heavy
-blow on the declining Osman power by smashing their fleet at Sinope. But
-the West in the form of the English and the French came to the aid of
-the Turks and helped inflict a blow on the Russians in the Crimean war.
-Thus they imposed a humiliating treaty on the Russians on account of
-which they could not have a fleet on the Black Sea. The Russians did not
-take this lying down. Aided by the diplomatic links to the Germanic
-power of Prussia the Russians worked on countering the west. The
-Prussians defeated the French, and the fellow Germanic Austrians and the
-Danes with the support of the Russians and unified the core Germania to
-form the new nation of Germany. Aided by Germany, the Russians cast off
-the humiliating treaty imposed on them. Finally, in 1877 to avenge
-Crimea the Russians attacked the Osman Turks. Now they were helped the
-freedom movements in Romania, Bulgaria, Serbia, and Montenegro, and were
-able to inflict heavy losses on the Moslems, acting as defenders of the
-church. In this war the Russians came within 20 km of Istanbul but
-failed to take it. However, they did gain territory and inflict a
-serious blow on the Osmans that was eventually to prove to be their
-undoing.
+Itwas not just limited to that. As the most powerful force in the world
+of orthodox Christianity, Russia saw itself as a protector of the Church
+against Islam. In the 1850s the Russians had inflicted a heavy blow on
+the declining Osman power by smashing their fleet at Sinope. But the
+West in the form of the English and the French came to the aid of the
+Turks and helped inflict a blow on the Russians in the Crimean war. Thus
+they imposed a humiliating treaty on the Russians on account of which
+they could not have a fleet on the Black Sea. The Russians did not take
+this lying down. Aided by the diplomatic links to the Germanic power of
+Prussia the Russians worked on countering the west. The Prussians
+defeated the French, and the fellow Germanic Austrians and the Danes
+with the support of the Russians and unified the core Germania to form
+the new nation of Germany. Aided by Germany, the Russians cast off the
+humiliating treaty imposed on them. Finally, in 1877 to avenge Crimea
+the Russians attacked the Osman Turks. Now they were helped the freedom
+movements in Romania, Bulgaria, Serbia, and Montenegro, and were able to
+inflict heavy losses on the Moslems, acting as defenders of the church.
+In this war the Russians came within 20 km of Istanbul but failed to
+take it. However, they did gain territory and inflict a serious blow on
+the Osmans that was eventually to prove to be their undoing.
 
 A lesson from all this for the Hindu is that Mohammedanism can be
 remarkably persistent in its goals of conquest. Hence, merely preventing
@@ -171,3 +174,4 @@ left permanently scarred despite their liberation. However, a closer
 look shows that while the Europeans have regained some of these lands
 their hold on it might not be for ever and a new wave of Mohammedanism
 with new tactics might eventually succeed where even Suleyman failed.
+

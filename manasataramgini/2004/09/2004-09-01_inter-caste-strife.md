@@ -1,7 +1,11 @@
 +++
 title = "Inter-Caste strife"
+date = "2004-09-01"
+upstream_url = "https://manasataramgini.wordpress.com/2004/09/01/inter-caste-strife/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/09/01/inter-caste-strife/).
+
 The British, at the pinnacle of their rule over the sub-continent
 succeeded in raising a wide section of Indic public opinion against
 brahmins. This resulted in several anti-brahmin movements that blamed
@@ -226,3 +230,4 @@ matter of coincidence that the politically pre-eminant brahmin clan, the
 bhArgavas were involved, both in the generalization of their family epic
 (the parashurAma epic) and the redaction of the manu smR^iti into its
 extant form.
+

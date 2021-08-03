@@ -1,7 +1,11 @@
 +++
 title = "On umAsvAti the jaina scholar"
+date = "2008-04-21"
+upstream_url = "https://manasataramgini.wordpress.com/2008/04/21/on-umasvati-the-jaina-scholar/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/04/21/on-umasvati-the-jaina-scholar/).
+
 Though the nAstIka mata-s in their reactionary fervor chose to keep away
 from deva-bhASha, its lure could not be avoided. The precision and
 abilities of deva-bhAShA, as well as the need to keep up with the
@@ -39,7 +43,7 @@ belonged to the brahminical harita gotra but another contradicts this
 and mentions his gotra as kaubhiShaNa (or unknown origin). There is some
 agreement that he was a teacher in the jaina school of pATalIputra. A
 study of the TAS reveals certain key points about umAsvAti-s origins:  
-1\) The main stay of the early jaina mata were the vaishya-s and their
+1) The main stay of the early jaina mata were the vaishya-s and their
 royal kShatriya patrons. This is clearly supported by the fact that the
 vaishya occupations are considered the best options for a jaina.
 Secondly, this is also consistent with the use of the deshI medium which
@@ -48,7 +52,7 @@ the earlier kShatriya dynasties like maurya and nanda. In contrast to
 this trend, the TAS is the first recorded instance of a jaina author
 composing a text in Sanskrit – few other jaina texts were composed in
 Sanskrit for a while after the TAS.  
-2\) umAsvAti uses the sUtra style closely mirroring that used in the
+2) umAsvAti uses the sUtra style closely mirroring that used in the
 AstIka systems authored by brAhmaNa philosophers. Thus, the TAS also
 represents the first time the jaina-s used the style of sUtra-s similar
 that prevalent from the vedic period among the AstIka-s. In its
@@ -57,7 +61,7 @@ various AstIka darshana-s like those of kaNAda, akShapAda, pata\~njali
 and bAdarAyaNa. The TAS has a closely linked commentary (by umAsvAti
 himself according to shvetAmbara tradition) that resembles the yoga
 sUtra-s and their integrally linked bhAShya, the vyAsa bhAShya.  
-3\) The contents and philosophy of the TAS are clearly jaina, yet they
+3) The contents and philosophy of the TAS are clearly jaina, yet they
 have several elements that definitely reflect AstIka thought. The TAS
 positions itself as a shAstra for mokSha-dharma – this is same as what
 vedAnta does (although their ideas of mokSha might differ). It presents
@@ -109,9 +113,9 @@ earlier discussed on these pages the zoology of umAsvAti and his
 classification of animals based on various anatomical and reproductive
 characters (adhyAya 2). In adhyAya 5 of the TAS we find the early
 exposition of jaina atomism:  
-nANoH || 5.11  
+nANoH \|\| 5.11  
 There are no further divisions in the ultimate atom of matter.  
-aNavaH skandhAsh-cha || 5.25  
+aNavaH skandhAsh-cha \|\| 5.25  
 Matter may exist in the form of either pure atoms or clusters there off
 (skandhAH – molecules). The jaina authorities in elaborating on this
 sUtra mention niyama-sAra 6 which declares the paramANu to be that
@@ -122,13 +126,13 @@ mammaTa’s opening of the kAvyaprakAsha which declares the paramANu to be
 the ultimate cause, minute and indestructible.  
 A remarkable feature of umAsvAti’s atomic theory is the postulation of
 two forces to mediate the interactions between the ANu-s:  
-snigdha-rUkShatvAd bandhaH || 5.32  
+snigdha-rUkShatvAd bandhaH \|\| 5.32  
 “snigdha” and “rUkSha” are the two properties that mediate atomic
 combinations.  
 He then formulates a system of rules involving these forces that mediate
 atomic combinations.  
-na jaghanya-guNAnAm | gunasAmye sadR^ishAnAm | dvyAdhikAdiguNAnAM tu |
-bandhe samAdhikau pAriNAmikau || 5.33-5.35  
+na jaghanya-guNAnAM \| gunasAmye sadR^ishAnAM \| dvyAdhikAdiguNAnAM tu
+\| bandhe samAdhikau pAriNAmikau \|\| 5.33-5.35  
 aNu-s possessing the minimum one degree of snigdha or rUkSha cannot
 combine; aNU-s which have the same degree of snigdha or the same degree
 of rUkSha cannot combine; two snigdha aNu-s or two rUkSha aNu-s can
@@ -137,3 +141,4 @@ than the other; during combination the aNu with equal or higher degree
 of rukSha or snigdha transforms the property of the dissimilar aNu to
 its own. Thus, umAsvAti postulates the existence of charge-like
 properties to explain atomic combinations.
+

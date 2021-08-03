@@ -1,8 +1,11 @@
 +++
-title = "“HERE BE INDO-ARYANS?” On the Vedic Gods of thexa0Mitanni"
-date = "September 16, 2019"
+title = "“HERE BE INDO-ARYANS?” On the Vedic Gods of the Mitanni"
+date = "2019-09-16"
+upstream_url = "https://aryaakasha.com/2019/09/16/here-be-indo-aryans-on-the-vedic-gods-of-the-mitanni/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/09/16/here-be-indo-aryans-on-the-vedic-gods-of-the-mitanni/).
+
 ![70383053_10162268033965574_3121450345172041728_n
 (1)](https://aryaakasha.files.wordpress.com/2019/09/70383053_10162268033965574_3121450345172041728_n-1.jpg?w=676)
 

@@ -1,7 +1,11 @@
 +++
 title = "Pursuit by the aghAyu"
+date = "2008-12-14"
+upstream_url = "https://manasataramgini.wordpress.com/2008/12/14/pursuit-by-the-aghayu/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/12/14/pursuit-by-the-aghayu/).
+
 Like the Xvarena departing from an ancient asura-worshipping king our
 powers forsook us in the great struggle. Yet we kept fighting like
 bhImasena against rAdheya on the fateful 15th day. In some ways it was
@@ -11,7 +15,7 @@ utter frustration we thought of the days of days of our youth when our
 arrows rarely missed their targets. We deployed to formula of the
 tANDya-s:  
 “yo .adya saumyo vadho .aghAyUnAm udIrate viShUkuhasya dhanvanApa tAn
-varuNo .apa dhamatu ||”  
+varuNo .apa dhamatu \|\|”  
 Long ago the fierce sphigshiras, hrasvaroman, golamukha and others
 rushed at us but we overthrew them in the battle of dvAdashAnta when our
 ratha did not stop in midst of battle. The shUla of the bAdhamAna was
@@ -22,3 +26,4 @@ had been bound by the kautsa abhichAra. We knew if we could once deploy
 the spell of viliste\~NgA then we could come out of the ambush. But it
 had one mystery that kept eluding us, for he who lacks it is seized by
 nirR^iti. Who indeed escapes the spell of viliste\~NgA ?
+

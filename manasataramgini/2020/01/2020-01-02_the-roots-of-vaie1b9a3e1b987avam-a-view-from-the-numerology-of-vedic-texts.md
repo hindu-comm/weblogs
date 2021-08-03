@@ -1,7 +1,11 @@
 +++
 title = "The roots of Vaiṣṇavam: a view from the numerology of Vedic texts"
+date = "2020-01-02"
+upstream_url = "https://manasataramgini.wordpress.com/2020/01/02/the-roots-of-vai%e1%b9%a3%e1%b9%87avam-a-view-from-the-numerology-of-vedic-texts/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2020/01/02/the-roots-of-vai%e1%b9%a3%e1%b9%87avam-a-view-from-the-numerology-of-vedic-texts/).
+
 While glorified with a 1000 names in the famous stotra of the early
 Sātvata tradition of the Mahābharata, in the texts of an even earlier
 period the god primarily went under that name Viṣṇu. Indeed, even the
@@ -32,13 +36,13 @@ Ragnarok, where he tramples the nether jaw of the demonic Fenris-wolf
 and opens its mouth wide apart to slay it. In the ārya tradition,
 likewise Viṣṇu’s three demon-conquering wide strides are well-known and
 this gives him his alternative name in the Veda, Urugāya, “the
-wide-goer”. This is related to again related to the etymology of
-Víðarr = “wider” and the very cognate of Víðarr, vitara, appears in
-the śruti in the context of Viṣṇu: athābravīd vṛtram indro haniṣyan
-sakhe viṣṇo vitaraṃ vi kramasva || : Then Indra spoke as he prepared to
-slay Vṛtra: “friend Viṣṇu stride widely.” The strides of Viṣṇu are also
-said to make space by widening the universe for Indra to swing his vajra
-to slay Vṛtra. This is parallel to Víðarr holding the jaws of the
+wide-goer”. This is related to again related to the etymology of Víðarr
+= “wider” and the very cognate of Víðarr, vitara, appears in the śruti
+in the context of Viṣṇu: athābravīd vṛtram indro haniṣyan sakhe viṣṇo
+vitaraṃ vi kramasva \|\| : Then Indra spoke as he prepared to slay
+Vṛtra: “friend Viṣṇu stride widely.” The strides of Viṣṇu are also said
+to make space by widening the universe for Indra to swing his vajra to
+slay Vṛtra. This is parallel to Víðarr holding the jaws of the
 Fenris-wolf wide apart.
 
 Both Viṣṇu and Víðarr are mentioned as possessing a special world/realm.
@@ -50,7 +54,7 @@ new Germanic “satyayuga”. Among the ārya-s, as the “time-god”, he is
 seen as again surviving the yuga-s in the later Viṣṇu-centric
 traditions.
 
-[![viShNu\_taranis](https://manasataramgini.files.wordpress.com/2020/01/vishnu_taranis.png?w=640)](https://manasataramgini.files.wordpress.com/2020/01/vishnu_taranis.png)*Figure
+[![viShNu_taranis](https://manasataramgini.files.wordpress.com/2020/01/vishnu_taranis.png?w=640)](https://manasataramgini.files.wordpress.com/2020/01/vishnu_taranis.png)*Figure
 1. Viṣṇu (an image of seal impression of seal from Gandhāra;
 Northwestern India showing a Hunnic or Iranic lord worshiping the god)
 and Celtic Taranis (an ancient Gaulish bronze found in 1774 CE at Le
@@ -101,10 +105,10 @@ rashnvô ashâum rashnvô razishta rashnvô spênishta rashnvô vaêdhishta
 rashnvô vidhcôishta rashnvô parakavistema rashnvô dûraêdareshtema
 rashnvô arethamat bairishta rashnvô tâyûm nijakhnishta…
 
-O holy Rashnu\! O most-true Rashnu\! most-beneficent Rashnu\!
-most-knowing Rashnu\! most- discerning Rashnu\! most-fore-knowing
-Rashnu\! most far-seeing Rashnu\! Rashnu, the best doer of justice\!
-Rashnu, the best smiter of thieves (tâyu = Skt stāyu)…
+O holy Rashnu! O most-true Rashnu! most-beneficent Rashnu! most-knowing
+Rashnu! most- discerning Rashnu! most-fore-knowing Rashnu! most
+far-seeing Rashnu! Rashnu, the best doer of justice! Rashnu, the best
+smiter of thieves (tâyu = Skt stāyu)…
 
 Keeping with his far-seeing nature, the yasht is unusual in describing
 the Iranic karshvare-s (world regions) and heavenly constellations as
@@ -141,8 +145,8 @@ the extent of his mentions.
 
 Table 1. The occurrence of Viṣṇu in Vedic texts
 
-| Text                               | Veda |  \# |
-| :--------------------------------- | :--- | --: |
+| Text                               | Veda |   # |
+|:-----------------------------------|:-----|----:|
 | Ṛgveda                             | RV   | 113 |
 | Ṛgveda-khilāni                     | RV   |  15 |
 | Kauṣītaki-brāhmaṇa                 | RV   |  14 |
@@ -219,8 +223,8 @@ roughly corresponding to temporal layers within the tradition. Further,
 in the hautra tradition, the Śrauta-sūtra-s have more mentions of Viṣṇu
 than their Brāhmaṇa-s, which are larger than the sūtra-s in size. Again,
 notably, with one exception (we will come to that in the end) the
-Gṛhya-sūtra-s have relatively low occurrences of Viṣṇu across the
-board relative to the corresponding Śrauta-sūtra-s.
+Gṛhya-sūtra-s have relatively low occurrences of Viṣṇu across the board
+relative to the corresponding Śrauta-sūtra-s.
 
 Now, in the śrauta practice the adhvaryu plays the most important role
 in terms of the physical actions of the ritual (of course accompanied by
@@ -232,10 +236,10 @@ and SV texts as we *have them today* clearly postdate and presuppose the
 core RV, we know from the internal evidence of the RV that there were
 already YV and SV practitioners alongside the composers of the RV. E.g.:
 udgāteva śakune sāma gāyasi : You O bird sing a sāman like the udgātṛ.
-tvam adhvaryur uta hotāsi pūrvyaḥ praśāstā potā januṣā purohitaḥ | : You
-(Agni) are the adhvaryu, the primal hotṛ, the praśastṛ (an assistant of
-the hotṛ who is also known as the upavaktṛ or the maitrāvaruṇa who plays
-a special role in recitations to those two gods), the potṛ (the
+tvam adhvaryur uta hotāsi pūrvyaḥ praśāstā potā januṣā purohitaḥ \| :
+You (Agni) are the adhvaryu, the primal hotṛ, the praśastṛ (an assistant
+of the hotṛ who is also known as the upavaktṛ or the maitrāvaruṇa who
+plays a special role in recitations to those two gods), the potṛ (the
 assistant of the Brahman who specializes in prāyaścitta-s) and from
 birth the purohita. Further, the parallel in the Zoroastrian tradition
 suggest that at least the hotṛ, the adhvaryu and some version of the
@@ -261,7 +265,7 @@ at least in early Zoroastrianism where Zarathustra calls himself the
 cognate zaotar.
 
 These observations can be summed up by one statement in the ādhvaryava
-tradition: yajño vai viṣṇuḥ |: The ritual is verily Viṣṇu. Thus, by
+tradition: yajño vai viṣṇuḥ \|: The ritual is verily Viṣṇu. Thus, by
 identifying Viṣṇu with the ritual he is identified with the core
 activities of the ādhvaryava tradition. Hence, this is consistent with
 this frequent mention within this tradition. This proposal is further
@@ -274,7 +278,7 @@ the YV tradition, marks the special position of Viṣṇu not only as the
 last of the deities to receive the sacrifice but also tacitly or not so
 tacitly indicates his supremacy by placing him at the end of the
 pantheon (Aitaryeya-brāhmaṇa: agnir vai devānām avamo viṣṇuḥ paramas
-tadantareṇa sarvā anyā devatā | : Agni is the lowest of the gods, Viṣṇu
+tadantareṇa sarvā anyā devatā \| : Agni is the lowest of the gods, Viṣṇu
 is the foremost, all the other deities lie in between. While primarily
 positional it also hints the primacy of Viṣṇu). The second is the
 dvandva Viṣṇū-varuṇā seen, for example, in the Taittirīya and the
@@ -282,8 +286,8 @@ Aitaryeya-brāhmaṇa traditions. This dvandva has a special role that is
 typical of the ādhvaryava tradition, proper completion of yajña, the
 invocation of Viṣṇu protects from the badly done yajña while the
 invocation of Varuṇa protects the well-done one and between the two all
-is taken care off viṣṇur vai yajṅasya duriṣṭam pāti varuṇaḥ sviṣṭaṃ |
-tayor ubhayor eva śāntyai ||).
+is taken care off viṣṇur vai yajṅasya duriṣṭam pāti varuṇaḥ sviṣṭaṃ \|
+tayor ubhayor eva śāntyai \|\|).
 
 Thus, the unusual situation of dvandva-s not found in the RV but shared
 by the RV brāhmaṇa-s and YV tradition, and the prominence of Viṣṇu in
@@ -319,9 +323,9 @@ centered on Viṣṇu, the Pañcarātra, explicitly identifies itself with the
 Śukla-yajurveda. Thus, we may say that rise of Vaiṣṇavam itself is an
 internal development within the ādhvaryava tradition, with the two early
 schools emerging from each of the main Yajurvedic divisions. Once these
-had emerged they influenced the latest of the Vedic text across the
-traditions. We see this in the case of the Ṛgvidhāna, which for a
-relatively short text has several mentions of Viṣṇu in the context of
+had emerged they influenced the latest of the Vedic texts across the
+traditions. We see this in the case of the Ṛgvidhāna, which, for a
+relatively short text, has several mentions of Viṣṇu in the context of
 what appears to be an early Pāñcarātrika section.
 
 To conclude we may ask what about the Sātvata tradition that affiliates
@@ -343,3 +347,4 @@ the RV Viṣṇu is repeatedly mentioned as being the cowherd or the
 cow-protector (RV 1.22.18; RV 3.55.10). Thus, this aspect of the
 Devakīputra of the Sātvata religion are likely merely a humanization of
 an old trait of the deity.
+

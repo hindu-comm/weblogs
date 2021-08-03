@@ -1,7 +1,11 @@
 +++
 title = "A famous clan of mantravAdin-s"
+date = "2009-04-26"
+upstream_url = "https://manasataramgini.wordpress.com/2009/04/26/a-famous-clan-of-mantravadin-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/04/26/a-famous-clan-of-mantravadin-s/).
+
 [![samarapungava](https://i1.wp.com/farm4.static.flickr.com/3187/3476508667_1f28a67617.jpg)](http://www.flickr.com/photos/24766652@N05/3476508667/ "samarapungava by somasushma, on Flickr")
 
 There are certain strange events or what they call the déjà vu that give
@@ -93,20 +97,20 @@ kAdi shrIvidyA by shivAnanda.
 
 Under the patronage of devI siMha, shivAnanda started composing a
 variety of which include:  
-1\) vaidyaratnA: A work on Ayurveda with an auto-commentary.  
-2\) tithi-nirNaya, bAlaviveka and mUhUrta-ratna: works on time-keeping  
-3\) vyavahAra-nirNaya and AchAra-sindhu: dharma-shAstra works  
-4\) saMpkShepa-prAyashchitta: a work on penances and atonements.  
-5\) mahAbhArata subhAShita saMgraha: didactic material from the
+1) vaidyaratnA: A work on Ayurveda with an auto-commentary.  
+2) tithi-nirNaya, bAlaviveka and mUhUrta-ratna: works on time-keeping  
+3) vyavahAra-nirNaya and AchAra-sindhu: dharma-shAstra works  
+4) saMpkShepa-prAyashchitta: a work on penances and atonements.  
+5) mahAbhArata subhAShita saMgraha: didactic material from the
 mahAbhArata.  
-6\) kArakakosha, taddhita kosha, samAsa kosha, strI-pratyaya kosha and
+6) kArakakosha, taddhita kosha, samAsa kosha, strI-pratyaya kosha and
 sImha siddhAnta dIpikA: all grammatical works  
-7\) several stotra-s to various deities including an encoded shrIkula
+7) several stotra-s to various deities including an encoded shrIkula
 tAntrika stotra titled the tripurA stotra.  
-8\) mahAvidyAlaharI: A tAntrika poetic collection.  
+8) mahAvidyAlaharI: A tAntrika poetic collection.  
 Under his guidance his patron devI siMha also wrote a medico-tAntric
 volume titled the siMha-siddhAnta-sudhAnidhi.  
-9\) Finally he composed his magnum opus the siMha-siddhAnta-sindhu. This
+9) Finally he composed his magnum opus the siMha-siddhAnta-sindhu. This
 is beyond doubt the greatest tantric compendium ever composed in the
 medieval period and illustrates the enormous scholarship of this great
 brAhmaNa. The work is definitely more comprehensive than the shArada
@@ -161,25 +165,26 @@ manuscripts, gave them the grant of two villages and settled them there.
 But shivAnanda’s son shrIniketana settled in court of the rAja of
 Jaipur, the astronomer. When in Bikaner we find that shivAnanda composed
 two shrIvidyA manuals titled:  
-10\) lalitArchana-kaumudi  
-11\) lalitArchana-dIpikA  
-12\) A manual of kArtavIrya and dAttAtreya prayoga-s known as the
+10) lalitArchana-kaumudi  
+11) lalitArchana-dIpikA  
+12) A manual of kArtavIrya and dAttAtreya prayoga-s known as the
 kArtavIrya-vidhi-ratna.  
-13\) saparyAkramadarpaNa-stotra of unknown contents.  
+13) saparyAkramadarpaNa-stotra of unknown contents.  
 His brother janArdana composed:  
-1\) A worship manual for the lay votary in Hindi for the worship of
+1) A worship manual for the lay votary in Hindi for the worship of
 viShNu and lakShmI: the lakshMInArAyaN-pujA-sAr.  
-2\) An erotic work titled the shR^i\~NgAra shataka.  
-3\) His own mantra-shAstra manual though shorter than that of his
+2) An erotic work titled the shR^i\~NgAra shataka.  
+3) His own mantra-shAstra manual though shorter than that of his
 brother’s titled the mantra-chandrikA.  
-4\) mahAlakshMI-stutI.  
+4) mahAlakshMI-stutI.  
 The last notable scholar in this North Indian branch of the clan that I
 have been able to trace is narasiMha-lAl who composed:  
-1\) A mantra manual for durgA worship: durgArchana paddhati  
-2\) A nitya-naimittika karma manual  
-3\) sundarI-gopAla paddhatI on the syncretic shrIvidyA combined with the
+1) A mantra manual for durgA worship: durgArchana paddhati  
+2) A nitya-naimittika karma manual  
+3) sundarI-gopAla paddhatI on the syncretic shrIvidyA combined with the
 gopi-jana-vallabha mantra system of the late pA\~ncharAtrika-s.  
 Other works by this illustrious clan of tAntrika-s like one on
 construction of an astrolabe by bhairavanAtha, TIkA-s on parAshara’s
 astronomy and the yantramAlikA by paramasukha are found scattered over
 North India.
+

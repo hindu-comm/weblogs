@@ -1,7 +1,11 @@
 +++
 title = "Lifting the veil of the megafaunal extinctions: South American native ungulates"
+date = "2015-03-23"
+upstream_url = "https://manasataramgini.wordpress.com/2015/03/23/lifting-the-veil-of-the-megafaunal-extinctions-south-american-native-ungulates/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/03/23/lifting-the-veil-of-the-megafaunal-extinctions-south-american-native-ungulates/).
+
 Some memories are simultaneously pleasant and sad: One such is of the
 many afternoons spent reading about the discovery and then the osteology
 of South American mammals. It was then that we read with some awe of the
@@ -166,7 +170,7 @@ related Allqokirus. They were followed by more advanced forms like the
 Brazilian Patene from the end of Palaeocene emerge, and in the Eocene
 the borhyaenoid sparassodonts spawned several massive forms such as
 Callistoe, Arminiheringia and Proborhyaena which was larger than a
-grizzly bear. By the Miocene these marsupials had diversified into a
+grizzly bear. By the Miocene these marsupials haddiversified into a
 range of carnivore niches: otter-like Cladosictis, a marten-like
 Prothylacinus, a peculiar long-snouted ambush predator Lycopsis,
 mongoose-like hathlyacynids, leopard-like Borhyaena, saber-toothed
@@ -381,22 +385,22 @@ typically in the 80-66 Mys window.
 Laurasiatheria is not in question, certain relationships within have
 proven difficult to resolve even using molecular data. Within
 Laurasiatheria, the molecular studies unequivocally place the
-“insectivoran” clade of tiny mammals, the Eulipotyphla as the
-basal-most radiation but the relationships between the remaining groups
-Ferae, Chiroptera, Perissodactyla and Cetartiodactyla has been in a
-state of flux. One early study united Ferae, Chiroptera and
-Perissodactyla into Pegasoferae to the exclusion of Cetartiodactyla.
-There is some support for this based on the insertion sites of the L1
-retroposon. With large sequence sets other studies recovered Chiroptera
-as an outgroup to Ferungulata (Ferae+Euungulata), and Euungulata uniting
-the two ungulate clades – this is the tree recovered in some analysis of
-Welker et al’s collagen data. Another study with 3733 protein-coding
-genes recovered Perissodactyla as a sister-group of Ferae, and
-Cetartiodactyla grouping with Chiroptera. This uncertainty, even with
-massive amounts of molecular data, suggests that the radiation of crown
-Laurasiatheria comprised of the above four groups was an explosive
-phenomenon which occurred very rapidly with branching events happening
-in quick succession. This kind of rapid cladogenesis would fit the
+“insectivoran” clade of tiny mammals, the Eulipotyphla as the basal-most
+radiation but the relationships between the remaining groups Ferae,
+Chiroptera, Perissodactyla and Cetartiodactyla has been in a state of
+flux. One early study united Ferae, Chiroptera and Perissodactyla into
+Pegasoferae to the exclusion of Cetartiodactyla. There is some support
+for this based on the insertion sites of the L1 retroposon. With large
+sequence sets other studies recovered Chiroptera as an outgroup to
+Ferungulata (Ferae+Euungulata), and Euungulata uniting the two ungulate
+clades – this is the tree recovered in some analysis of Welker et al’s
+collagen data. Another study with 3733 protein-coding genes recovered
+Perissodactyla as a sister-group of Ferae, and Cetartiodactyla grouping
+with Chiroptera. This uncertainty, even with massive amounts of
+molecular data, suggests that the radiation of crown Laurasiatheria
+comprised of the above four groups was an explosive phenomenon which
+occurred very rapidly with branching events happening in quick
+succession. This kind of rapid cladogenesis would fit the
 post-Cretaceous radiation of placentals following the “ecological
 release” with the extinction of the non-avian dinosaurs. However, the
 above inference pointing to a pre-Cretaceous basal radiation of
@@ -462,9 +466,10 @@ viewed with circumspection.
 1\) Global late Quaternary megafauna extinctions linked to humans, not
 climate change; Christopher Sandom, Søren Faurby, Brody Sandel,
 Jens-Christian Svenning; Proceedings B  
-2\) Ancient proteins resolve the evolutionary history of Darwin’s South
+2) Ancient proteins resolve the evolutionary history of Darwin’s South
 American ungulates; Welker et al; Nature  
-3\) The fossil mammal fauna of South America; Patterson and Pascual; The
+3) The fossil mammal fauna of South America; Patterson and Pascual; The
 Quarterly Review of Biology  
-4\) The Placental Mammal Ancestor and the Post–K-Pg Radiation of
+4) The Placental Mammal Ancestor and the Post–K-Pg Radiation of
 Placentals; O’Leary et al Science
+

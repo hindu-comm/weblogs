@@ -1,7 +1,11 @@
 +++
 title = "Have the Hindus given up?"
+date = "2009-01-18"
+upstream_url = "https://manasataramgini.wordpress.com/2009/01/18/have-the-hindus-given-up/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/01/18/have-the-hindus-given-up/).
+
 I did not want to write this and instead try to finish the train of
 thought on avian imprinting. But a long conversation with a reader of
 these ramblings :-) made me at least park a little note here. Long ago
@@ -68,8 +72,8 @@ Hindutva party resulted in them getting screwed both ways – politically
 in India, and strategically by the wily Britons. Not only that today the
 Hindutva guys get smeared as Nazis (a German acquaintance of mine
 actually regurgitated this propaganda to me. She had been fed that by a
-bhraShTa brAhmaNa); despite helping the British defeat those same
-Nazis\! Then came the muNDaka-hatyA, which gave a good excuse for their
+bhraShTa brAhmaNa); despite helping the British defeat those same Nazis!
+Then came the muNDaka-hatyA, which gave a good excuse for their
 political rivals to entirely evict Hindutva from the election scene.
 Despite his strategic vision, Savarkar, it appears, was unable to
 understand the average Hindu feelings and the means of channeling it in
@@ -138,3 +142,4 @@ varNa. What is more striking is that many who were secularists in the
 consequence of the endless turuShka strikes rather than any cultural
 renaissance. But now with the BJP smothered and secularized, the Hindus
 do not have a political front end for the impending elections.
+

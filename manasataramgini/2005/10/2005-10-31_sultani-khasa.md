@@ -1,7 +1,11 @@
 +++
 title = "Sultani Khasa"
+date = "2005-10-31"
+upstream_url = "https://manasataramgini.wordpress.com/2005/10/31/sultani-khasa/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/10/31/sultani-khasa/).
+
 The Moslem tyrants of India ate as though there was no tommorow. Of the
 tyrants only Akbar was somewhat moderate due to his chronic bellyache.
 The special dinner of the Sultans of Delhi was the Khasa attended by
@@ -28,3 +32,4 @@ days. When I explained this point to Sharada, she remarked why her
 orthodox brahmin predecessors did not eat any of the fare that is
 commonly gorged in Indian restaurants. They were deemed unfit for
 brahmins.
+

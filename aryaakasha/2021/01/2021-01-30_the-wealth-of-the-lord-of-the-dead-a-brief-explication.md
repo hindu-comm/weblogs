@@ -1,8 +1,11 @@
 +++
-title = "The Wealth Of The Lord Of The Dead – A Briefxa0Explication"
-date = "January 30, 2021"
+title = "The Wealth Of The Lord Of The Dead – A Brief Explication"
+date = "2021-01-30"
+upstream_url = "https://aryaakasha.com/2021/01/30/the-wealth-of-the-lord-of-the-dead-a-brief-explication/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/01/30/the-wealth-of-the-lord-of-the-dead-a-brief-explication/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/01/ced05231be4d23bdb4856f48a408da52.jpg?w=564)
 
 Yesterday I was asked a question relating to Pluto / Pluton / Plutus ,

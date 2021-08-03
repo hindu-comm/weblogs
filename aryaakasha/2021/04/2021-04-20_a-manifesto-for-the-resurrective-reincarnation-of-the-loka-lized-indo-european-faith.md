@@ -1,8 +1,11 @@
 +++
-title = "A Manifesto For The Resurrective Reincarnation Of The Loka-lized Indo-Europeanxa0Faith"
-date = "April 20, 2021"
+title = "A Manifesto For The Resurrective Reincarnation Of The Loka-lized Indo-European Faith"
+date = "2021-04-20"
+upstream_url = "https://aryaakasha.com/2021/04/20/a-manifesto-for-the-resurrective-reincarnation-of-the-loka-lized-indo-european-faith/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/04/20/a-manifesto-for-the-resurrective-reincarnation-of-the-loka-lized-indo-european-faith/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/04/arya-akasha-manifesto-black.png?w=476)
 
 What follows is not my own writing – although I have had a hand in

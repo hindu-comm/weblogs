@@ -1,7 +1,11 @@
 +++
 title = "The drinking of soma in svarga"
+date = "2005-11-04"
+upstream_url = "https://manasataramgini.wordpress.com/2005/11/04/the-drinking-of-soma-in-svarga/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/11/04/the-drinking-of-soma-in-svarga/).
+
 Briefly we were awarded the freedom by the grace of the great indra, who
 is greater than all (vishvasmAd indra uttaraH). We scored two great
 victories against the dasyus and brought back booty even as our empire
@@ -22,3 +26,4 @@ We were asked to consider two things: 1) For the past 5 days before
 today swarms of crows filled the trees in our vicinity at might and
 swirled around making an enormous racket. 2) We were asked to meditate
 upon the killing of the demon, the giant bhImaratha by viShNu.
+

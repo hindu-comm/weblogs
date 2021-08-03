@@ -1,8 +1,11 @@
 +++
 title = "Vishvarupa Darshan"
-date = "June 25, 2017"
+date = "2017-06-25"
+upstream_url = "https://aryaakasha.com/2017/06/25/vishvarupa-darshan/"
 
 +++
+Source: [here](https://aryaakasha.com/2017/06/25/vishvarupa-darshan/).
+
 ![18951334_10158852373305574_230980271216499918_n](https://aryaakasha.files.wordpress.com/2017/06/18951334_10158852373305574_230980271216499918_n.jpg?w=676)
 
 As is well known, I am not a Vaishnavite, nor a Krishna-bhakt. And, in

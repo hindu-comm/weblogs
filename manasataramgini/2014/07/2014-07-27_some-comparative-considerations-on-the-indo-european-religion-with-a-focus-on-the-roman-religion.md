@@ -1,7 +1,11 @@
 +++
 title = "Some comparative considerations on the Indo-European religion with a focus on the Roman religion"
+date = "2014-07-27"
+upstream_url = "https://manasataramgini.wordpress.com/2014/07/27/some-comparative-considerations-on-the-indo-european-religion-with-a-focus-on-the-roman-religion/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/07/27/some-comparative-considerations-on-the-indo-european-religion-with-a-focus-on-the-roman-religion/).
+
 **Studies on the Roman religion**  
 The Roman religion is important for our understanding of the early
 Indo-European religion which forms the basis of our own religion,
@@ -300,28 +304,27 @@ system of infinitives which is consistently used in the early Vedic
 language but not later (I would like to acknowledge a coethnic brAhmaNa
 woman from the pANDyan country, one of the few shrauta yajamAna patnI-s
 actually well-versed in Vedic, for first clarifying this to me). For
-example: yAtám pArÁya gántave \[Infinitive\] |; ví yó jaghÁna
-shamitéva chárma upastíre \[Infinitive\] pR^ithivÍM sÚryAya |; 3) The
-use of modal forms of verbs: e.g. vocam in: índrasya nú vIryÀNi prá
-vochaM yÁni chakÁra prathamÁni vajrÍ | 4) The unaugmented aoristic
-forms or the injunctive forms of verbs (which Michael Witzel foolishly
-claimed pANini was unaware of\!). Despite, the closeness to old IE,
-certain atypical structures with respect to the meter of the verse
-suggests that they could not perfectly “translate” the old IE form of
-the incantations into their languages. But as the divergence increased
-even more within their own lineages they had to freeze their old
-language as they could no longer “translate” it effectively and were
-even starting to not make complete sense of it (barring few “high”
-ritual experts who have always existed at least in India, may be in the
-Iranosphere, but we do not know if this was so with other IE branches).
-In India this seems to have happened in the post-saMhitA period where in
-the focus was in collecting an preserving ones shAkhA without any
-alterations. The parallel developments in Iran and the Roman world make
-this hypothesis more likely that Witzel and his students’ peculiar claim
-that the mantra-composers of the kuru-pA\~nchAla realm purposely
-composed the shruti around 1200-1000 BCE in a far more archaic form of
-the language full of old Indo-Europeanisms than what was actually
-current.
+example: yAtám pArÁya gántave \[Infinitive\] \|; ví yó jaghÁna shamitéva
+chárma upastíre \[Infinitive\] pR^ithivÍM sÚryAya \|; 3) The use of
+modal forms of verbs: e.g. vocam in: índrasya nú vIryÀNi prá vochaM yÁni
+chakÁra prathamÁni vajrÍ \| 4) The unaugmented aoristic forms or the
+injunctive forms of verbs (which Michael Witzel foolishly claimed pANini
+was unaware of!). Despite, the closeness to old IE, certain atypical
+structures with respect to the meter of the verse suggests that they
+could not perfectly “translate” the old IE form of the incantations into
+their languages. But as the divergence increased even more within their
+own lineages they had to freeze their old language as they could no
+longer “translate” it effectively and were even starting to not make
+complete sense of it (barring few “high” ritual experts who have always
+existed at least in India, may be in the Iranosphere, but we do not know
+if this was so with other IE branches). In India this seems to have
+happened in the post-saMhitA period where in the focus was in collecting
+an preserving ones shAkhA without any alterations. The parallel
+developments in Iran and the Roman world make this hypothesis more
+likely that Witzel and his students’ peculiar claim that the
+mantra-composers of the kuru-pA\~nchAla realm purposely composed the
+shruti around 1200-1000 BCE in a far more archaic form of the language
+full of old Indo-Europeanisms than what was actually current.
 
 **Transition from aniconic to iconic worship**  
 We conclude this note with a few further issues concerning the rise of
@@ -435,7 +438,7 @@ ordained by Apastamba. In the bali ritual of the Indo-Aryan householder,
 he offers a bali for parjanya near the drum in which he stores water.
 The connection of thunder and dyaus is explicitly mentioned in the
 famous recitation with which the fire is taken forth to the new altar:  
-akrandad agni stanayann iva dyauH kShAmA rerihad vIrudhaH sama\~njan |
+akrandad agni stanayann iva dyauH kShAmA rerihad vIrudhaH sama\~njan \|
 RV 10.045.04ab  
 agni roared like dyaus when he thunders; he licked the plants off the
 earth, anointed \[with ghee\]. The deity dyauH is invoked in one of the
@@ -448,16 +451,16 @@ Julius Caesar who was a pious man, has an interesting parallel in the
 Indo-Aryan world: The Sanskrit equivalent of Pontifex is pathikR^it,
 both meaning the maker of the path (ponti= path; fex=maker). In the veda
 it is applied among others to: 1) To the god bR^ihaspati who has
-the function of the chief ritualist among the deva-s. This is observed
+thefunction ofthe chief ritualist among the deva-s. This is observed
 in the mantra of gR^itsamada shaunahotra:  
-tvaM no gopAH pathikR^id vichakShaNas tava vratAya matibhir jarAmahe |
+tvaM no gopAH pathikR^id vichakShaNas tava vratAya matibhir jarAmahe \|
 RV 2.23.06ab  
 You are our protector, the path-maker, the wise one; for your ritual we
 recite mantra-s.  
-2\) It is also applied to human ancestors who were literally makers of
+2) It is also applied to human ancestors who were literally makers of
 religious path of Arya-s – the path of the gods. Thus, such ancestors,
 who were mantra-seers, are worshiped along with yama:  
-idaM nama R^iShibhyaH pUrvajebhyaH pUrvebhyaH pathikR^idbhyaH | RV
+idaM nama R^iShibhyaH pUrvajebhyaH pUrvebhyaH pathikR^idbhyaH \| RV
 10.014.15cd  
 This salutation is for the seers, the ancestors and the former
 path-makers. Interestingly, the founder of the jaina religion chose the
@@ -470,11 +473,11 @@ Indo-Iranian incantations such the chamaka prashna of the yajurveda.
 Second, the use of the imperatives in the first foot of the Roman
 incantation is a parallel to such imperative constructions in the
 vaidika mantra-s:  
-bAdhasva=prohibessis (e.g. in Are bAdhasva duchChunAm |)  
+bAdhasva=prohibessis (e.g. in Are bAdhasva duchChunAm \|)  
 pAhi= defendas (e.g. in dahAshaso rakShasaH pAhy asmAn druho nido
-mitramaho avadyAt |)  
+mitramaho avadyAt \|)  
 prati vidhya adhi = averrunces (e.g. in Urdhvo bhava prati vidhyAdhy
-asmad AviSh kR^iNuShva daivyAny agne |)
+asmad AviSh kR^iNuShva daivyAny agne \|)
 
 Footnote 4: The hint of some friction is suggested by a tale in the
 skanda purANa where when brAhmaNa-s were performing a Vedic ritual a
@@ -483,3 +486,4 @@ outside the arena. This repeated itself daily until a pile of skulls
 collected outside the ritual arena. Beneath that pile the ritualists
 found a li\~Nga, which they then realized was a manifestation of rudra
 and started worshiping him in that form.
+

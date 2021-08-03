@@ -1,11 +1,15 @@
 +++
 title = "Questions which answer themselves"
+date = "2011-08-31"
+upstream_url = "https://manasataramgini.wordpress.com/2011/08/31/questions-which-answer-themselves/"
 
 +++
-kaM saMjaghAna kR^iShNaH ? kaMsaM jaghAna kR^iShNaH |  
-kA shItalavAhinI ga\~NgA ? kAshItala-vAhinI-ga\~NgA |  
-ke dArapoShNaratAH ? kedAra-poShNa-ratAH |  
-kaM balvantaM na bAdhate shItaM ? kaMbalvantaM na bAdhate shItam ||  
+Source: [here](https://manasataramgini.wordpress.com/2011/08/31/questions-which-answer-themselves/).
+
+kaM saMjaghAna kR^iShNaH ? kaMsaM jaghAna kR^iShNaH \|  
+kA shItalavAhinI ga\~NgA ? kAshItala-vAhinI-ga\~NgA \|  
+ke dArapoShNaratAH ? kedAra-poShNa-ratAH \|  
+kaM balvantaM na bAdhate shItaM ? kaMbalvantaM na bAdhate shItaM \|\|  
 Whom did kR^iShNa kill? kaMsa.  
 Which is the ga\~NgA that flows smoothly? The ga\~NgA flowing through
 the surface of kAshI.  
@@ -39,12 +43,12 @@ parallels to the questions which answer themselves in expressions
 elsewhere in the world.
 
 Now let us see some parallels that do exist:  
-sarvasvaM hara sarvasya tvaM bhavach ChedatatparaH |  
-nayopakAra sAMmukhyam AyAsi tanuvartanam || (mammaTa)  
-A votary to rudra: O hara\! You are the whole of all that exists,
-focused on cutting the bonds of subject-object existence. You have
-striven to attain that state of being, which presents a combination of
-assistance and guidance.  
+sarvasvaM hara sarvasya tvaM bhavach ChedatatparaH \|  
+nayopakAra sAMmukhyam AyAsi tanuvartanam \|\| (mammaTa)  
+A votary to rudra: O hara! You are the whole of all that exists, focused
+on cutting the bonds of subject-object existence. You have striven to
+attain that state of being, which presents a combination of assistance
+and guidance.  
 A thief to his son: You must plunder everything, intending to break into
 everyone’s treasure; deploy every device and counter-measure and you
 will overcome \[other\] people’s measures.
@@ -65,8 +69,8 @@ interpretations or meanings are there simultaneously.
 
 Now let us look at another device, which appear rather early in the
 history of saMskR^ita, right in the veda itself.  
-aditer-dakSho-ajAyata dakShAd vaditiH pari || RV 10.72.4c  
-aditir-hy ajaniShTa dakSha yA duhitA tava | RV 10.72.5a  
+aditer-dakSho-ajAyata dakShAd vaditiH pari \|\| RV 10.72.4c  
+aditir-hy ajaniShTa dakSha yA duhitA tava \| RV 10.72.5a  
 dakSha was born of aditi, and aditi was born of dakSha. Indeed aditi
 brought forth, O dakSha who is your daughter.  
 This can be compared to what Douglas Hofstader calls a strange loop. He
@@ -78,8 +82,9 @@ Escher made good use of this in his art:
 
 The final parallel that we shall consider is the one offered by viloma
 kAvya:  
-shrI rAmato madhyamatodi yena dhIro.anishaM vashyavatI varAdvA |  
-dvArAvatI vashyavashaM nirodhI nayedito madhyamato .amarA shrIH ||
+shrI rAmato madhyamatodi yena dhIro.anishaM vashyavatI varAdvA \|  
+dvArAvatI vashyavashaM nirodhI nayedito madhyamato .amarA shrIH \|\|
 
 We may compare this with the below work of Escher:  
 [![](https://lh4.googleusercontent.com/-Ye6dfc6jBGY/TmHMEG8ODEI/AAAAAAAACMY/t6Ufm10Lbkw/s400/Escher_horsemen_viloma.jpg)](https://picasaweb.google.com/lh/photo/EXVG8nBKZYOLu8qevP0e-w?feat=embedwebsite)
+

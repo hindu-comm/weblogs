@@ -1,7 +1,11 @@
 +++
 title = "The temple of irAvAn"
+date = "2006-06-08"
+upstream_url = "https://manasataramgini.wordpress.com/2006/06/08/the-temple-of-iravan/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/06/08/the-temple-of-iravan/).
+
 In addition to the temples of draupadi ammAL there are a cluster of
 temples of irAvAn close to the point the where my paternal ancestor
 first immigrated to the Dravida country. Our clanswoman had obtained a
@@ -85,3 +89,4 @@ came to irAvAn’s aid, but he was devoured by the ArShyashri\~nga
 assuming the form of a garuDa. When irAvan was confounded by the
 rAkShasa’s mAyA, alambuSha swept down upon him and cut his head off with
 his sword.
+

@@ -1,8 +1,11 @@
 +++
-title = "A Message Even A Persian Couldxa0Understand"
-date = "January 15, 2020"
+title = "A Message Even A Persian Could Understand"
+date = "2020-01-15"
+upstream_url = "https://aryaakasha.com/2020/01/15/a-message-even-a-persian-could-understand/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/01/15/a-message-even-a-persian-could-understand/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/01/82253825_10162838739350574_8447058287240675328_n.jpg?w=800)
 
 It has been said that the language of international diplomacy is one of

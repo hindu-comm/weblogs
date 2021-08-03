@@ -1,8 +1,11 @@
 +++
-title = "Defending the identity of yoga, Kumarila style( with homage to Ganganath Jhaxa0)"
+title = "Defending the identity of yoga, Kumarila style( with homage to Ganganath Jha )"
 date = "2017-04-27"
+upstream_url = "https://padmavajra.net/2017/04/27/defending-the-identity-of-yoga-kumarila-style-with-homage-to-ganganath-jha/"
 
 +++
+Source: [here](https://padmavajra.net/2017/04/27/defending-the-identity-of-yoga-kumarila-style-with-homage-to-ganganath-jha/).
+
 Edit(22/5/2021):The author does not believe in this thing anymore,the
 statement is to be taken as its face value and it is to be learned from
 someone who is actually a sAdhaka of that mArga.

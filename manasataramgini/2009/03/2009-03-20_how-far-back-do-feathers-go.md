@@ -1,9 +1,13 @@
 +++
 title = "How far back do feathers go?"
+date = "2009-03-20"
+upstream_url = "https://manasataramgini.wordpress.com/2009/03/20/how-far-back-do-feathers-go/"
 
 +++
-![sinosauropteryx](https://manasataramgini.files.wordpress.com/2009/03/sinosauropteryx.png?w=640
-"sinosauropteryx")Feathers of *Sinosauropteryx*  
+Source: [here](https://manasataramgini.wordpress.com/2009/03/20/how-far-back-do-feathers-go/).
+
+![sinosauropteryx](https://manasataramgini.files.wordpress.com/2009/03/sinosauropteryx.png?w=640 "sinosauropteryx")Feathers
+of *Sinosauropteryx*  
 
 Some time back the famous paleontologist Mark Norell had remarked all
 dinosaurs had feathers. Given his involvement with the revolutionary
@@ -18,7 +22,7 @@ significance. I was on bus journey to a mountain stronghold of the
 founder of the mahAraTTa nation, when, by a remarkable piece of chance,
 I got hold of the work of John Ostrom on *Deinonychus* (In those days it
 was extraordinarily difficult to acquire any such source of information
-in bhArata\!). This extraordinary dinosaur was probably one of the
+in bhArata!). This extraordinary dinosaur was probably one of the
 greatest discoveries in vertebrate paleontology. Reading Ostrom’s
 comparison of *Deinonychus* and *Archaeopteryx* was like that flash
 which one experiences when one sees mantra-siddhi. I looked out from the
@@ -88,13 +92,12 @@ the other basal coelurosaurian lineage, the compsognathids. Thus, it
 became clear the plumage of the basal coelurosaurs, like the
 tyrannosauroids and compsognathids, took the form of a furry down cover.
 
-![different\_feathers](https://manasataramgini.files.wordpress.com/2009/03/different_feathers.png?w=640
-"different_feathers") Three types of feathers 3 Mesozoic birds; C being
-the unusual feather of *Protopteryx.*
+![different_feathers](https://manasataramgini.files.wordpress.com/2009/03/different_feathers.png?w=640 "different_feathers")Three
+types of feathers 3 Mesozoic birds; C being the unusual feather of
+*Protopteryx.*
 
-![sinornithosaurus\_feathers](https://manasataramgini.files.wordpress.com/2009/03/sinornithosaurus_feathers.png?w=640
-"sinornithosaurus_feathers") Downy Feathers of the deinonychosaur
-*Sinornithosaurus*
+![sinornithosaurus_feathers](https://manasataramgini.files.wordpress.com/2009/03/sinornithosaurus_feathers.png?w=640 "sinornithosaurus_feathers")Downy
+Feathers of the deinonychosaur *Sinornithosaurus*
 
 Till this point in the history of the science, the dinosaurian skin
 filaments were found to span some diversity:  
@@ -156,8 +159,8 @@ derivatives of such a basal feather type, but the branching at the
 termini in *Protopteryx* does makes this uncertain, though the case is
 stronger for *Epidexipteryx*.
 
-![tianyulong\_feathers](https://manasataramgini.files.wordpress.com/2009/03/tianyulong_feathers.jpg?w=640
-"tianyulong_feathers")Feathers of *Tianyulong*
+![tianyulong_feathers](https://manasataramgini.files.wordpress.com/2009/03/tianyulong_feathers.jpg?w=640 "tianyulong_feathers")Feathers
+of *Tianyulong*
 
 With *Psittacosaurus* as the sole ornithischian with feather-like
 structures (that too with an odd pattern of distribution) and the raging
@@ -193,35 +196,35 @@ those observed in *Beipaosaurus* or *Sinosauropteryx*.
 But it is the description of this filamentous integument that has a
 strange issue. This is best summarized by listing the positions taken by
 different papers chronologically:  
-1\) *Sinosauropteryx* monograph, Currie et al, 2001: The feathers of
-this dinosaur are like down feathers, multi-filamentous branched
-structures with rachis and barbs.  
-2\) Feather evolution paper, Xu+Prum et al, 2001: The dromeosaur
+1) *Sinosauropteryx* monograph, Currie et al, 2001: The feathers of this
+dinosaur are like down feathers, multi-filamentous branched structures
+with rachis and barbs.  
+2) Feather evolution paper, Xu+Prum et al, 2001: The dromeosaur
 *Sinornithosaurus* has tufted and serially branched feathers but
 Sinosauropteryx has only unbranched filaments.  
-3\) Feather evolution/development review, Prum+Brush, 2002: They propose
+3) Feather evolution/development review, Prum+Brush, 2002: They propose
 that *Sinosauropteryx* has unbranched tubular filaments congruent with
 the earliest stage of feather evolution. They vaguely admit that it
 might turn out that *Sinosauropteryx* has branched structures after.
 Propose that feathers evolved in coelurosaurs and are convergent with
 pterosaur and *Psittacosaurus* filaments.  
-4\) Feather evolution, Xu, 2006: Feathers of all theropod dinosaurs
+4) Feather evolution, Xu, 2006: Feathers of all theropod dinosaurs
 uncovered to that date, including *Sinosauropteryx*, are branched
 structures. The earliest stage of unbranched single filament feathers is
 likely to be represented by pterosaur and *Psittacosaurus* feathers.  
-5\) *Beipaosaurus* feathers, Xu+You+Zheng, Jan 2009: Feathers of all
+5) *Beipaosaurus* feathers, Xu+You+Zheng, Jan 2009: Feathers of all
 theropod dinosaurs uncovered to that date, including *Sinosauropteryx*,
 are branched structures, but Beipaosaurus has special feathers which
 were unbranched long filaments. These feathers are likely to represent
 the primitive feather type and are likely to be homologous to
 Psittacosaurus filaments and pterosaur fur.  
-6\) *Tianyulong* paper, Xu+You+Zheng et al, March 2009:
-*Sinosauropteryx* has unbranched feathers that are similar to the
-unbranched feathers of *Tianyulong*.  
-7\) *Tianyulong* supplementary material, Xu+You+Zheng et al, March 2009:
-Citing paper \#5 the authors claim that all other theropods have
-branched feathers, and *Tianyulong’s* unbranched feathers are closest to
-the unbranched feathers of *Beipaosaurus*.
+6) *Tianyulong* paper, Xu+You+Zheng et al, March 2009: *Sinosauropteryx*
+has unbranched feathers that are similar to the unbranched feathers of
+*Tianyulong*.  
+7) *Tianyulong* supplementary material, Xu+You+Zheng et al, March 2009:
+Citing paper #5 the authors claim that all other theropods have branched
+feathers, and *Tianyulong’s* unbranched feathers are closest to the
+unbranched feathers of *Beipaosaurus*.
 
 So it is apparent that the same authors have been doing a flip-flop on
 the issue of branching, at least as far as *Sinosauropteryx* goes. It is
@@ -330,7 +333,7 @@ crocodilians. The phi keratin clade in turn shows two major divisions –
 be the claw, scute and beak keratins of dinosaurs and crocodilians. 2)
 The feather keratins that are currently exclusively found in dinosaurs.
 
-[![keratin\_evolution](https://i1.wp.com/farm4.static.flickr.com/3563/3391040211_1733f46d90.jpg)](http://www.flickr.com/photos/24766652@N05/3391040211/ "keratin_evolution by somasushma, on Flickr")  
+[![keratin_evolution](https://i1.wp.com/farm4.static.flickr.com/3563/3391040211_1733f46d90.jpg)](http://www.flickr.com/photos/24766652@N05/3391040211/ "keratin_evolution by somasushma, on Flickr")  
 beta keratin evolution
 
 This tree suggests that the beta keratin family was already present in
@@ -369,3 +372,4 @@ possibility (though with some uncertainty) of their origin in the
 ancestral archosaur with secondary loss somewhere within crocodilians.
 Improving paleontological records might help us to fix this point more
 robustly.
+

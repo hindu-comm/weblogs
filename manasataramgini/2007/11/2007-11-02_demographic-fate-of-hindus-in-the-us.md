@@ -1,7 +1,11 @@
 +++
 title = "Demographic fate of Hindus in the US"
+date = "2007-11-02"
+upstream_url = "https://manasataramgini.wordpress.com/2007/11/02/demographic-fate-of-hindus-in-the-us/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/11/02/demographic-fate-of-hindus-in-the-us/).
+
 A friend brought to attention some interesting statistics of ABCDs’
 ethnicity-specific sexual preferences. This combined with other cultural
 trends allows some estimates of the general future of the Indic
@@ -66,3 +70,4 @@ to the majority block if not reinforced by new FOBs from the desh.
 
 Of course I will continue the remarkable tale of the kR^iShNa shUdra
 next.
+

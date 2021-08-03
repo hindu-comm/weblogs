@@ -1,7 +1,11 @@
 +++
 title = "Some notes on the rise of Oirat power and the Jangar tuuli"
+date = "2015-01-21"
+upstream_url = "https://manasataramgini.wordpress.com/2015/01/21/some-notes-on-the-rise-of-oirat-power-and-the-jangar-tuuli/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/01/21/some-notes-on-the-rise-of-oirat-power-and-the-jangar-tuuli/).
+
 After 1370 CE the power of the Qubilaid Mongols declined precipitously
 leaving Mongolia in chaos, with several contenders jostling for
 supremacy but none gaining any ground. As they were fighting each other,
@@ -14,7 +18,7 @@ and for all he sent an emissary to immediately recognize Ugechi as the
 supreme ruler. However, around the same time, (i.e. towards the end of
 the 1300s) a new Mongol confederation of tribes, the Oirat arose in
 Western Mongolia under their leader Mahamu. He formed an alliance with
-the chief of the Mongolized Arans (Alan; Airya\>Ara), who were
+the chief of the Mongolized Arans (Alan; Airya>Ara), who were
 late-surviving steppe Iranians who had been close to the Qubilaids.
 Initially, they acted as though restoring Qubilaid power by overthrowing
 Ugechi and killing him. However, Mahamu subsequently grew in ambition.
@@ -26,16 +30,16 @@ most of the territory from the western shores of the Baikal to the
 Irtysh river. Indeed, the Chingizids of the Qubilaid line might have
 waned into anonymity had they found a new leader in the form of the
 direct descendent of Qubilai Khan, Puṇyaśrī Oljei Temür. On one hand
-Puṇyaśrī was a learned Sanskritist, with literary interests going
-beyond the vajrayāṇa tantra-s and encompassing the works of Daṇḍin and
+Puṇyaśrī was a learned Sanskritist, with literary interests going beyond
+the vajrayāṇa tantra-s and encompassing the works of Daṇḍin and
 Bhojadeva Paramāra. On the other he was a vigorous warrior who started
 rebuilding the Mongol army and drew back the Arans to his side. He
 repulsed the Ming thrusts into Mongolia and struck out at the Chinese
 forces in several encounters to the south. However, in 1411 CE, the Ming
 ruler Yung Lo personally lead a gigantic Chinese army northwards with
 the express objective of exterminating the Chingizid Mongols. As
-Puṇyaśrī was being pinned down the by this Chinese assault, his
-coethnic Mahamu launched a surprise attack on him seized the kingship of
+Puṇyaśrī was being pinned down the by this Chinese assault, his coethnic
+Mahamu launched a surprise attack on him seized the kingship of
 Mongolia. Yung Lo alarmed at Mahamu’s rise turned his massive Chinese
 force across the Gobi against him. However, this was a bad move on his
 part for it allowed Mahamu to cut off his supplies and ambush his forces
@@ -265,3 +269,4 @@ The hero’s deeds shine among the people,
 The hero’s beautiful name is known everywhere.
 
 Continued…
+

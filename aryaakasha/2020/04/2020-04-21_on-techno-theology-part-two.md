@@ -1,8 +1,11 @@
 +++
-title = "ON TECHNO-THEOLOGY PARTxa0TWO"
-date = "April 21, 2020"
+title = "ON TECHNO-THEOLOGY PART TWO"
+date = "2020-04-21"
+upstream_url = "https://aryaakasha.com/2020/04/21/on-techno-theology-part-two/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/04/21/on-techno-theology-part-two/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/04/dqlsx1ux4aat9_x-1.jpg?w=720)
 
 Now here, too, we are dealing with spheres wherein change has already,

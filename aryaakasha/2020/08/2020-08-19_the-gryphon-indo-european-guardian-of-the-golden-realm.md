@@ -1,8 +1,11 @@
 +++
-title = "The Gryphon – Indo-European Guardian of the Goldenxa0Realm"
-date = "August 19, 2020"
+title = "The Gryphon – Indo-European Guardian of the Golden Realm"
+date = "2020-08-19"
+upstream_url = "https://aryaakasha.com/2020/08/19/the-gryphon-indo-european-guardian-of-the-golden-realm/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/08/19/the-gryphon-indo-european-guardian-of-the-golden-realm/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/08/117726523_685870965358564_2680235789710967240_n.png?w=308)
 
 One of the more seizing figures to have captured the imagination – both

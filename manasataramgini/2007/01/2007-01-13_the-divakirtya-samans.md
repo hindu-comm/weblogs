@@ -1,7 +1,11 @@
 +++
 title = "The divAkIrtya sAmans"
+date = "2007-01-13"
+upstream_url = "https://manasataramgini.wordpress.com/2007/01/13/the-divakirtya-samans/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/01/13/the-divakirtya-samans/).
+
 The celebrated divAkIrtya gAnaM deployed during the
 [eclipse](https://manasataramgini.wordpress.com/2007/01/18/divakirtya-s-eclipses-and-severed-heads/)
 and the [*solstice rites
@@ -11,8 +15,8 @@ surprisingly they are termed collectively termed Adityasya vrata
 shukriyAni and are the following sAmans:  
 bhrAja: araNyegeya gAnaM 6.1.5  
 It is composed on the lyric: RV 9.66.19  
-agna AyUMShi pavasa A suvorjam iShaM cha naH | Are bAdhasva duchhunAM
-||  
+agna AyUMShi pavasa A suvorjam iShaM cha naH \| Are bAdhasva duchhunAM
+\|\|  
 agni you purify our life, send to us swift strength. Prevent the
 misfortune from over taking us.
 
@@ -21,8 +25,8 @@ like uvA etc.) of this song is bhrAja/ e bhrAja.
 
 AbhrAja: araNyegeya gAnaM 6.1.6  
 It is composed on the lyric: RV 8.44.16  
-agnir mUrdhA divaH kakut patiH pR^ithivyA ayam | apAM retAMsi jinvati
-||  
+agnir mUrdhA divaH kakut patiH pR^ithivyA ayaM \| apAM retAMsi jinvati
+\|\|  
 agni is the head and the axis of heaven, the lord of this earth. He
 makes the seed of water successful.
 
@@ -31,9 +35,9 @@ The magical stobha of this song is A bhrAja/ e A bhrAja
 vikarNa: araNyegeya gAnaM 6.1.7  
 It is composed on the lyric: RV 10.170.1. The lyric in the Aranya
 saMhitA 5.2 slightly differs (see brackets).  
-vibhrAD bR^ihat.h pibatu somyaM madhvAyurdadhad yaGYapatAvavihrutam |  
+vibhrAD bR^ihat.h pibatu somyaM madhvAyurdadhad yaGYapatAvavihrutaM \|  
 vAtajUto yo abhirakShati tmanA prajAH pupoSha (piparti) purudhA
-(bahudhA) vi rAjati |  
+(bahudhA) vi rAjati \|  
 May the great bright one drink soma with honey, giving the lord of the
 sacrifice (yajamAna implied)undiminished life. He impeled by the wind
 personally protects our people, having nourished them with food and
@@ -48,8 +52,8 @@ AraNya saMhitA 3.8 of the kauthuma/rANAyanIya sAmaveda slightly differs
 (see brackets) suggesting that this might be derived from a different
 R^ig tradition than shAkalya or re-worded for ritual deployment.  
 pR^ikShasya (prakShasya) vR^iShNo aruShasya nU sahaH (mahaH) pra nu (no)
-vochaM (vacho) vidathA jAtavedasaH |  
-vaishvAnarAya matir navyasI shuchiH soma iva pavate chArur agnaye ||  
+vochaM (vacho) vidathA jAtavedasaH \|  
+vaishvAnarAya matir navyasI shuchiH soma iva pavate chArur agnaye \|\|  
 In this assembly of sages I will proclaim the greatness of the
 red-spotted (the red destructive) bull jAtavedas. A pure and new mantra
 flows to vaishvAnara, like the purified tasty soma for agni.
@@ -90,7 +94,7 @@ made by the brahman at the time of different soma pourings. The
 atharvan-s also deploy them in their formula known as the praise of
 indra in all great sacrifices:  
 OM bhUr bhuvaH svar janad vR^idhat karad ruhan mahat tach Cham OM
-indravanta stute ||  
+indravanta stute \|\|  
 The 8th mahAdivAkIrtya is known as the right thigh and has the special
 stobha-s: bhUmiH; antarikShaM; dyauH; e bhutAya  
 The 9th mahAdivAkIrtya is known as the left thigh and has the special
@@ -98,3 +102,4 @@ stobha-s: dyauH; antarikShaM; bhUmiH; e AyuShi
 The 10th song known as the tail is characterized by the special stobha:
 jyotiH  
 It exits in the nidhana: I(3) 12345
+

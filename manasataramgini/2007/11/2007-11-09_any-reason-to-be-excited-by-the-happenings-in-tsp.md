@@ -1,7 +1,11 @@
 +++
 title = "Any reason to be excited by the happenings in TSP"
+date = "2007-11-09"
+upstream_url = "https://manasataramgini.wordpress.com/2007/11/09/any-reason-to-be-excited-by-the-happenings-in-tsp/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/11/09/any-reason-to-be-excited-by-the-happenings-in-tsp/).
+
 Many bhAratas have expressed excitement over the events in the terrorist
 Islamic state to their northwest. What does the events there mean and
 can we make use of it? Unfortunately, India being a misguided soft state
@@ -30,3 +34,4 @@ part of the TSPian elite flees to the desh? Our philo-Islamic secular
 elite could invite them with open arms like the American political
 establishment and there by get in a terrible Trojan horse to harm the
 land of the Hindus.
+

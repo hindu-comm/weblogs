@@ -1,7 +1,11 @@
 +++
 title = "A visual guide to avian phylogeny"
+date = "2010-02-08"
+upstream_url = "https://manasataramgini.wordpress.com/2010/02/08/a-visual-guide-to-avian-phylogeny/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/02/08/a-visual-guide-to-avian-phylogeny/).
+
 [![](https://i2.wp.com/lh5.ggpht.com/_hjuA1bE0hBw/S2_DrWmwWaI/AAAAAAAABRA/wed_F-16oy0/s800/birds2.jpg)](http://picasaweb.google.com/lh/photo/VpZyRcNwsIFt0LiXLN7zCw?feat=embedwebsite)
 
 To truly appreciate its beauty click on the image and see it at higher
@@ -126,8 +130,8 @@ that indeed in Anchiornis different melanosomes are of the form typical
 of those seen in grey, black and rufous colors of extant feathers. Of
 course there is nothing at all to prevent the extinct dinosaurus from
 displaying bright coloration and indeed several of them probably did so
-– the peculiar tail feathers of the scansoriopterygid Epidexipteryx,
-the fan of feathers on the tails of oviraptorosaurs, the tails of early
+– the peculiar tail feathers of the scansoriopterygid Epidexipteryx, the
+fan of feathers on the tails of oviraptorosaurs, the tails of early
 birds like Protopteryx and male Confuciusornis showed bright colors
 probably due to special pigments comparable to pisttacofulvins or
 structural colors. These things are not yet identified in dinosaurian
@@ -163,13 +167,14 @@ before flight, their elaboration into a certain structural form as
 observed in oviraptorosaurs and Anchiornis are certainly an offshoot of
 flight or related behaviors like wing-assisted incline running (even the
 ostrich and the cassowary appear to have independently descended from
-flying ancestors \!). The display function was always around for various
+flying ancestors !). The display function was always around for various
 integumentary structures throughout vertebrate evolution and the
 feathers merely played their part of being captured into the functional
 complex of display when they emerged. Of course the dinosaurian female
 “mind” has displayed considerable constancy over at least the past 200
 million years in falling for exaggerated exuberances in the form of
-crests on heads and streamers on tails (shikhA-puchCha- lakShaNa\!). It
+crests on heads and streamers on tails (shikhA-puchCha- lakShaNa!). It
 almost appears that there is an evolutionarily conserved mate
 recognition circuit that pays attention to these as markers of male
 quality.
+

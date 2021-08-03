@@ -1,7 +1,11 @@
 +++
 title = "nAstika notes"
+date = "2009-01-31"
+upstream_url = "https://manasataramgini.wordpress.com/2009/01/31/nastika-notes/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/01/31/nastika-notes/).
+
 R1’s father was not the kind like the prudish modern Hindu who was shy
 of laying out the realities of sAdhana and the subject matter of certain
 shAstra-s to me. Yet he was not exactly thrilled with the prospect of
@@ -38,9 +42,9 @@ the conceived synthetic overview is no where near.
 In the chaNDamahAroShaNa tantra (CMT), a nAstika yoginI tantra, the
 mantra for invocation of the devatA into the maNDala is thus:  
 OM shrI-chaNDamahAroShaNa sarvaparivAra-sahita-AgachCha 2 jaH huM vaM
-hoH atra maNDale adhiShTAnaM kuru hUM phaT svAhA ||  
+hoH atra maNDale adhiShTAnaM kuru hUM phaT svAhA \|\|  
 Then the CMT adds: anenAkR^iShya praveshya baddhvA vashikR^itya puyajet
-||  
+\|\|  
 The sAdhaka here is actually conceives the mantra as attracting, causing
 to enter, binding and controlling the deity in the maNDala. The bIja-s
 jaH=AkR^iShya:a\~Nkusha; hUM=pravesha:pAsha; vaM=baddhvA:tAla; hoH=
@@ -56,17 +60,17 @@ Astika maNDala sthApana (there is only entry of the deity).
 
 The CMT also has a specific procedure of dIkSha or abhiSheka for a
 female student:  
-strINAM tu makuTAbhiShekaM tyaktvA sindhUrAbhiShekaM dadyAt |  
-paTTa-mahAdevI-rUpAM shiShyAM Alambya |  
-OM bhagavati Avisha Avisha asyA hR^idaye huM phaT |  
-lauhAdikArttikAM tasyA dakShiNa-haste dadyAt |  
-OM kArttike sarvamArANAM mAmsaM kartaya kartaya huM phaT |  
-vAmahaste nR^ikapAlaM darvAdikR^itaM dadyAt |  
-OM kapAla sarvashatrUNAM raktaM dhAraya dhAraya hUM phaT |  
-tato bhagavatI-mudrayopaveshya tadAkAreNa chAlambya |  
-OM he shrI-dveSha-vajrI siddhA tvaM hUM phaT |  
+strINAM tu makuTAbhiShekaM tyaktvA sindhUrAbhiShekaM dadyAt \|  
+paTTa-mahAdevI-rUpAM shiShyAM Alambya \|  
+OM bhagavati Avisha Avisha asyA hR^idaye huM phaT \|  
+lauhAdikArttikAM tasyA dakShiNa-haste dadyAt \|  
+OM kArttike sarvamArANAM mAmsaM kartaya kartaya huM phaT \|  
+vAmahaste nR^ikapAlaM darvAdikR^itaM dadyAt \|  
+OM kapAla sarvashatrUNAM raktaM dhAraya dhAraya hUM phaT \|  
+tato bhagavatI-mudrayopaveshya tadAkAreNa chAlambya \|  
+OM he shrI-dveSha-vajrI siddhA tvaM hUM phaT \|  
 evaM striyaH kR^iShNAdi-varNa-bhedenena pa\~nchayoginInAM
-nAmnAbhiShi\~nchet |
+nAmnAbhiShi\~nchet \|
 
 Here the tAntrika should lead the female aspirant dressed like a queen
 by his hand and invoke the bhagavatI into her heart (the consort of
@@ -82,24 +86,24 @@ rAgavajri-red; IrShyAvajri- grey.
 
 The CMT also gives a long list of female entities who should be
 worshiped as the forms of the bhagavati:  
-yAvad dhi dhR^ishyate loke strI-rUpam bhuvanatraye |  
-tan madIyaM mataM rUpaM nIchAnIcha-kulaM gatam ||  
-devI chAsurI chaiva yakShiNI rAkShasaI tathA |  
-nAginI bhUtinI-kanyA kinnarI mAnuShI tathA ||  
-gandharvI nArakI chaiva tiryak-kanyAtha pretikA |  
-brahmANI kShatriNI vaishyA shUdrA chAtyantavistArA ||  
-kAyastrI rAjaputrI cha shiShTinI karauttinI |  
-vaNijinI vAriNI veshayA cha tariNI charma-kAriNI ||  
-kulatriNI hatriNI doMbI chANDAlI shavariNI tathA |  
-dhobinI sauNDinI gandhavAriNI karma-kAriNI ||  
-nApiNI naTinI kaMsa-kAriNI svarNa-kAriNI |  
-kaivartI khaTakI kuNDakARiNI chApi mAlinI ||  
-kApAlinI shaMkhinI chaiva varuDinI cha kemAlinI |  
-gopAlI kANDakArI cha kochinI cha shilAkUTI ||  
-thapatinI keshakArI cha sarva-jAti-samAvR^itA |  
-mAtA cha bhaginI bhAryA mAmikA bhAgineyikA ||  
-khuTTikA cha svasA chaiva anyA cha sarva-jAtinI |  
-vratinI yoginI chaiva raNDA chApi tapasvinI ||
+yAvad dhi dhR^ishyate loke strI-rUpam bhuvanatraye \|  
+tan madIyaM mataM rUpaM nIchAnIcha-kulaM gataM \|\|  
+devI chAsurI chaiva yakShiNI rAkShasaI tathA \|  
+nAginI bhUtinI-kanyA kinnarI mAnuShI tathA \|\|  
+gandharvI nArakI chaiva tiryak-kanyAtha pretikA \|  
+brahmANI kShatriNI vaishyA shUdrA chAtyantavistArA \|\|  
+kAyastrI rAjaputrI cha shiShTinI karauttinI \|  
+vaNijinI vAriNI veshayA cha tariNI charma-kAriNI \|\|  
+kulatriNI hatriNI doMbI chANDAlI shavariNI tathA \|  
+dhobinI sauNDinI gandhavAriNI karma-kAriNI \|\|  
+nApiNI naTinI kaMsa-kAriNI svarNa-kAriNI \|  
+kaivartI khaTakI kuNDakARiNI chApi mAlinI \|\|  
+kApAlinI shaMkhinI chaiva varuDinI cha kemAlinI \|  
+gopAlI kANDakArI cha kochinI cha shilAkUTI \|\|  
+thapatinI keshakArI cha sarva-jAti-samAvR^itA \|  
+mAtA cha bhaginI bhAryA mAmikA bhAgineyikA \|\|  
+khuTTikA cha svasA chaiva anyA cha sarva-jAtinI \|  
+vratinI yoginI chaiva raNDA chApi tapasvinI \|\|
 
 This long list of “professions” is of some historical interest. It is
 dubious if women had all these professions – some might are simply
@@ -112,20 +116,20 @@ to be a murderess but more likely it is a form for hastriNI or an
 elephant-tender. The kapAlinI is reminiscent of the kApAlikA-s
 encountered in saMskR^ita plays.
 
-atrAnuraktA ye tu sattvAH sarvadikShu vyasthitAH |  
-devAsurA narA nAgAs te .api siddhyanti sAdhakAH |  
+atrAnuraktA ye tu sattvAH sarvadikShu vyasthitAH \|  
+devAsurA narA nAgAs te .api siddhyanti sAdhakAH \|  
 athaivaM shrutvA maheshvarAdayo devA
-gaurI-lakShmI-shachI-ratyAdi-devatIM gR^hItvA bhAvayituM ArabdhAH |  
+gaurI-lakShmI-shachI-ratyAdi-devatIM gR^hItvA bhAvayituM ArabdhAH \|  
 atha tat kShaNaM sarve tadaivaM tan muhUtakaM chaNDaroShaNa-padaM prAptA
-vicharanti mahItale |  
-tatra mahesvaro vajrasha\~Nkaratvena siddhaH | vAsudevo
-vajranArAyaNatvena | devendro vajrapANitvena | kAmadevo
-vajrAna\~Ngatvena | evampramukhA ga\~ngA-nadI-bAlukA-samA devaputrAH
-siddhAH |  
-pa\~ncha-kAma-guNopetAH sarva-sattvArthakArakAH |  
-nAnAmUrtidharAH sarve bhUtA mAyAvino jinAH |  
-yathA pa\~NkodbhavaM padmam pa\~nkadoShair na lipyate |  
-tathA rAganyodbhUtA lipyante na cha doShakaiH ||
+vicharanti mahItale \|  
+tatra mahesvaro vajrasha\~Nkaratvena siddhaH \| vAsudevo
+vajranArAyaNatvena \| devendro vajrapANitvena \| kAmadevo
+vajrAna\~Ngatvena \| evampramukhA ga\~ngA-nadI-bAlukA-samA devaputrAH
+siddhAH \|  
+pa\~ncha-kAma-guNopetAH sarva-sattvArthakArakAH \|  
+nAnAmUrtidharAH sarve bhUtA mAyAvino jinAH \|  
+yathA pa\~NkodbhavaM padmam pa\~nkadoShair na lipyate \|  
+tathA rAganyodbhUtA lipyante na cha doShakaiH \|\|
 
 This represents a clear attempt of the nAstika to digest the Astika
 deities into his scheme by the process of “vajrification”. The
@@ -150,16 +154,16 @@ saura-mantra-s and to a lesser degree in kaumAra mantra-s (CM is often
 described as a kumAra or bAla). These points are of great importance in
 the evolutionary sense.  
 mUla mantra-s:  
-OM chaNDa-mahAroShaNa hUM phaT ||  
-OM achala hUM phaT ||  
-OM huM phaT ||  
+OM chaNDa-mahAroShaNa hUM phaT \|\|  
+OM achala hUM phaT \|\|  
+OM huM phaT \|\|  
 mAlA mantra-s:  
 OM hrAM hrIM hrauM chaNDa-rUPe chaTa 2 prachaTa 2 kaTTa 2 prasphura 2
 prasphAraya 2 hana 2 grasa 2 bandha 2 jambhaya 2 stambhaya 2 mohaya 2
 sarvashatrUnAM mukhabhandhaNaM kuru 2 sarva-DakinInAM
 graha-bhUta-pishAcha-vyAdi-yakShANAM trAsaya 2 mara 2 mAraya 2
 ruru-chaNDa-ruk rakSha 2 \[devadattaM\] chaNDamahAsenaH sarvam
-Aj\~Napayati | OM chaNDa-mahAroShaNa huM phaT ||  
+Aj\~Napayati \| OM chaNDa-mahAroShaNa huM phaT \|\|  
 The points of importance that emerge from this mAlA mantra are: 1) the
 bIja-s used at the beginning (i.e. hrAM hrIM hrauM) are the bIja-s that
 mark the beginning of the saura mantra-s in Astika saura practice or its
@@ -173,7 +177,7 @@ as shivasUrya (e.g. in the works of the saiddhAntika scholars
 somashambhu and aghorashiva). In the vaiShNava realm the worship of
 tejashchaNDa is seen in the saura kANDa of the hayashIrSha saMhitA of
 pA\~ncharAtra. The mUla mantra of CM also resembles one of
-tejash-chaNDa: OM tejash-chaNDAya huM phaT || Further, a name of CM,
+tejash-chaNDa: OM tejash-chaNDAya huM phaT \|\| Further, a name of CM,
 ruru-chaNDa-ruk or chaNDa-ruk (in sAdhana-mAlA 85 of prabhAkara-kIrti)
 resembles names of sUrya (chaNDa-rochis). In the as yet unpublished
 chapter 13 of the CMT he is described as tIvratara again reminiscent of
@@ -212,3 +216,4 @@ tejash-chaNDa angle. The second issue is whether originally CM began in
 the west with a direct influence of the Iranian limb of the saura
 influence i.e. a conflation of Iranian roshana with saMskR^ita roShaNa.
 An interesting thought … The name chaNDaruk and makes one wonder\]
+

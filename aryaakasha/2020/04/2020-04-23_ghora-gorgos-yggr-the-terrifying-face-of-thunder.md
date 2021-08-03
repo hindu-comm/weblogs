@@ -1,8 +1,11 @@
 +++
-title = "Ghora – Gorgos – Yggr – The Terrifying Face ofxa0Thunder"
-date = "April 23, 2020"
+title = "Ghora – Gorgos – Yggr – The Terrifying Face of Thunder"
+date = "2020-04-23"
+upstream_url = "https://aryaakasha.com/2020/04/23/ghora-gorgos-yggr-the-terrifying-face-of-thunder/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/04/23/ghora-gorgos-yggr-the-terrifying-face-of-thunder/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/04/46089b46192e9aef532131bd56a1fc28.jpg?w=1024)
 
 Ghora – Gorgos – Yggr

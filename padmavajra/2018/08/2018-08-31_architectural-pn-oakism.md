@@ -1,8 +1,11 @@
 +++
 title = "Architectural PN Oakism"
 date = "2018-08-31"
+upstream_url = "https://padmavajra.net/2018/08/31/architectural-pn-oakism/"
 
 +++
+Source: [here](https://padmavajra.net/2018/08/31/architectural-pn-oakism/).
+
 
 
 

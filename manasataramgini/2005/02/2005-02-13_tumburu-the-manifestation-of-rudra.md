@@ -1,7 +1,11 @@
 +++
 title = "tumburu, the manifestation of rudra"
+date = "2005-02-13"
+upstream_url = "https://manasataramgini.wordpress.com/2005/02/13/tumburu-the-manifestation-of-rudra/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/02/13/tumburu-the-manifestation-of-rudra/).
+
 From the northern head of the terrible rudra, known as the vAmadeva
 head, manifests the emanation of vAmadeva known as the four-faced
 tumburu surrounded by his 4 sisters. From the four faces of tumburu
@@ -77,3 +81,4 @@ Hariharalaya, hiraNyadAman recited the 4 tantras and shivakaivalya wrote
 all of them down. The tantras of the vAmasrota learned by shivakaivalya
 were also used in the rites involved in the consecration of the great
 shiva temple with a 1000 li\~ngas at Phnom Kulen built by jayavarman II.
+

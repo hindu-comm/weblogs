@@ -1,8 +1,11 @@
 +++
-title = "On Persephone As “Ironxa0Queen”"
-date = "June 11, 2021"
+title = "On Persephone As “Iron Queen”"
+date = "2021-06-11"
+upstream_url = "https://aryaakasha.com/2021/06/11/on-persephone-as-iron-queen/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/06/11/on-persephone-as-iron-queen/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/06/persephone-flower-large.png?w=580)
 
 I’ve been meaning to post this for some time – because it’s an

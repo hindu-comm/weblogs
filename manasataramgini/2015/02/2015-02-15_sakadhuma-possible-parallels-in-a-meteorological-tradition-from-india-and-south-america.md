@@ -1,7 +1,11 @@
 +++
 title = "Śakadhūma: Possible parallels in a meteorological tradition from India and South America"
+date = "2015-02-15"
+upstream_url = "https://manasataramgini.wordpress.com/2015/02/15/sakadhuma-possible-parallels-in-a-meteorological-tradition-from-india-and-south-america/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/02/15/sakadhuma-possible-parallels-in-a-meteorological-tradition-from-india-and-south-america/).
+
 This is an updated version of our earlier study: published first at
 [IndiaFacts](http://indiafacts.co.in/possible-parallels-in-a-meteorological-tradition-from-india-and-south-america/)  
 Research by Orlove, Cane and Chiang on the native weather forecasters in
@@ -62,8 +66,8 @@ However, an examination of the word shows that the AV tradition
 originally hardly implied an earthly weatherman in the term śakadhūma.
 The sūktaṃ it self opens by explicitly mentioning śakadhūma as being
 made the king of the nakṣatra-s (AV-vulgate: “śakadhūmaṃ nakṣatrāṇi yad
-rājānam akurvata |” AV-P: “yad rājānaṃ śakadhūmaṃ nakṣatrāṇy akṛṇvata
-|”). The purpose of him being chosen as the king was to ensure
+rājānam akurvata \|” AV-P: “yad rājānaṃ śakadhūmaṃ nakṣatrāṇy akṛṇvata
+\|”). The purpose of him being chosen as the king was to ensure
 prognostication of fair weather (“bhadrāham asmai prāyachan”). The
 presence of the Paippalāda form of the text in the Nakṣatra-kalpa, a
 text with a slant towards prognostication, also reiterates the close
@@ -75,25 +79,25 @@ known to date the term śakadhūma has been used to describe the moon, nor
 is the Milky Way ever described as the leader of nakṣatra-s. The
 original meaning of śakadhūma becomes clear from the ṛk found only in
 the AV-P version:  
-“yad āhuś śakadhūmaṃ mahānakṣatrāṇāṃ prathamajaṃ jyotir agre |  
-tan nas satīṃ madhumatīṃ kṛṇotu rayiṃ ca sarvavīraṃ ni yacchatām ||”  
+“yad āhuś śakadhūmaṃ mahānakṣatrāṇāṃ prathamajaṃ jyotir agre \|  
+tan nas satīṃ madhumatīṃ kṛṇotu rayiṃ ca sarvavīraṃ ni yacchatām \|\|”  
 Here śakadhūma is plainly termed the first born of the great nakṣatra-s
 and as being at forefront of the celestial lights. This shows that
 śakadhūma was a constellation and the first in the list. In the AV
 nakṣatra sūktaṃ (AV-vulgate 19.7.2) the first in the list is Kṛttikā.
 The AV Nakṣatra-kalpa also explicitly states that Kṛttikā is the first
 of the nakṣatra-s with whom Agni blazes forth: “sa nakṣatrāṇāṃ
-prathamena pāvakaḥ kṛttikābhir jvalano no ‘nuśāmyatām |”.  
+prathamena pāvakaḥ kṛttikābhir jvalano no ‘nuśāmyatām \|”.  
 So it is likely that the nakṣatra implied by śakadhūma was none other
 than Kṛttikā. This is further confirmed by Charpentier’s finding that in
 the medieval deśa-bhāṣā lexicon of the Jaina polymath Hemacandra-sūrī
 (the Deśī-nāma-mālā) he gives dhūma as a synonym for Kṛttikā:
-dhūmad-dhaya-mahisīo kṛttikāḥ | DN-5.63
+dhūmad-dhaya-mahisīo kṛttikāḥ \| DN-5.63
 
 This leads to one other reference to śakadhūma which is found in the
 great brahmodya sūktaṃ in the Ṛgveda (RV 1.164):  
-“śaka-mayaṃ dhūmam ārād apaśyaṃ viṣūvatā para enāvareṇa |  
-ukṣāṇaṃ pṛśnim apacanta vīrās tāni dharmāṇi prathamāny āsan || (RV
+“śaka-mayaṃ dhūmam ārād apaśyaṃ viṣūvatā para enāvareṇa \|  
+ukṣāṇaṃ pṛśnim apacanta vīrās tāni dharmāṇi prathamāny āsan \|\| (RV
 1.164.43)”
 
 Based on its deployment in the pravargya ritual some have commented that
@@ -103,8 +107,8 @@ course for the “un-enlightened”, for the rahasya-s are concealed beneath
 the ritual actions described in the mantra. That is exactly what this
 whole sūktaṃ is about – rahasya-s, including several astronomical ones.
 This becomes very clear from use of a technical astronomical term –
-viṣūvat. In Hindu tradition viṣūvat meant equinox \[Footnote 2\] and
-in this context clearly means the vernal equinox which formed one of the
+viṣūvat. In Hindu tradition viṣūvat meant equinox \[Footnote 2\] and in
+this context clearly means the vernal equinox which formed one of the
 central days of the yearly sattra. Thus, the ṛk means:  
 *“From far I saw the śaka-dhūma at the equinoctial point further off
 from this lower one.*  
@@ -151,8 +155,8 @@ Footnote 1: An account of Orlove, Cane and Chiang’ work:
 
 Footnote 2: In his Kārikā on Īśvara-pratyabhijñā the Kashmirian
 tāntrika, Utpala-deva, makes the following statement:  
-prāṇa-apāna-mayaḥ prāṇaḥ pratyekaṃ sūpta-jāgratoḥ |  
-tac-ched-ātmā samāna-akhyaḥ sauṣupta viṣuvatsv-iva ||  
+prāṇa-apāna-mayaḥ prāṇaḥ pratyekaṃ sūpta-jāgratoḥ \|  
+tac-ched-ātmā samāna-akhyaḥ sauṣupta viṣuvatsv-iva \|\|  
 *The metabolism in both the sleeping and waking states is comprised of
 prāṇa and apāna processes. Both are suspended in the deep sleep state
 when the samāna process functions, like what happens on the equinox.*
@@ -164,3 +168,4 @@ suspended in the deep sleep state.
 Footnote 3: The memory of older equinoctial positions in Taurus and
 beyond where first proposed by the great patriot Lokamanya Tilak in his
 work: “*The Orion or the antiquity of the Vedas*”.
+

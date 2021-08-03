@@ -1,7 +1,13 @@
 +++
 title = "The extraordinary case of Comet Holmes"
+date = "2007-10-28"
+upstream_url = "https://manasataramgini.wordpress.com/2007/10/28/the-extraordinary-case-of-comet-holmes/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/10/28/the-extraordinary-case-of-comet-holmes/).
+
+
+
 A dhuma-gola was sighted near the head of yayAti, when the
 kR^iShNa-pakSha moon was passing through kR^ittikA  
 [![](https://i2.wp.com/bp0.blogger.com/_ZhvcTTaaD_4/RyQrs7xjPLI/AAAAAAAAAP0/7TALpsnNN4Y/s320/comet_holmes.png)](http://bp0.blogger.com/_ZhvcTTaaD_4/RyQrs7xjPLI/AAAAAAAAAP0/7TALpsnNN4Y/s1600-h/comet_holmes.png)
@@ -57,3 +63,4 @@ clear — while the comet has remained at approximately the same
 magnitude, it has grown more diffuse by the day. On 27/10 it was a dense
 ball, on 1/11 it had grown in size by almost 65% but retained the same
 brightness.
+

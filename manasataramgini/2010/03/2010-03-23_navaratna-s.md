@@ -1,11 +1,16 @@
 +++
 title = "navaratna-s"
+date = "2010-03-23"
+upstream_url = "https://manasataramgini.wordpress.com/2010/03/23/navaratna-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/03/23/navaratna-s/).
+
 Hindu lore has it that there are nine gems. For example shaiva tantra-s
 mention these as the material from which li\~Nga-s are made:  
-mANikya-mukte tvatha vajra-nIlau vaiDUrya saMj\~naM haritAshmanA cha |  
-tat puShyarAgaM sphaTikaM pravAlaM navaiva ratnAni bhavanty amUnI ||  
+mANikya-mukte tvatha vajra-nIlau vaiDUrya saMj\~naM haritAshmanA cha
+\|  
+tat puShyarAgaM sphaTikaM pravAlaM navaiva ratnAni bhavanty amUnI \|\|  
 mANikya: ruby; mukta: pearl; vajra: diamond; nIla: sapphire; vaIDUrya:
 beryl; haritAshmana (marakata): emerald; puShyarAga: topaz; sphaTika:
 quartz; pravAla: coral.
@@ -29,3 +34,4 @@ Dravidian theory sounds nice it actually has several problems on
 scrutiny.
 
 continued …
+

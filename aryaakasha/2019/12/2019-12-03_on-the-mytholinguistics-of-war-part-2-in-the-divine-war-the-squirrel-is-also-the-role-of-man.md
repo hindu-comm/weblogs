@@ -1,8 +1,11 @@
 +++
-title = "ON THE MYTHOLINGUISTICS OF WAR [Part 2] – In The Divine War, The Squirrel Is (Also) The Role Ofxa0Man"
-date = "December 3, 2019"
+title = "ON THE MYTHOLINGUISTICS OF WAR [Part 2] – In The Divine War, The Squirrel Is (Also) The Role Of Man"
+date = "2019-12-03"
+upstream_url = "https://aryaakasha.com/2019/12/03/on-the-mytholinguistics-of-war-part-2-in-the-divine-war-the-squirrel-is-also-the-role-of-man/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/12/03/on-the-mytholinguistics-of-war-part-2-in-the-divine-war-the-squirrel-is-also-the-role-of-man/).
+
 ![](https://aryaakasha.files.wordpress.com/2019/12/ramaand-squerel-527x675.jpg?w=527)
 
 \[Author’s Note: this piece picks up directly where Part Oneleft off –

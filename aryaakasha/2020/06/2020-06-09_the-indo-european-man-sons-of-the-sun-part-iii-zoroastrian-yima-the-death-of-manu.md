@@ -1,8 +1,11 @@
 +++
-title = "The Indo-European Man – Sons of the Sun [Part III]: Zoroastrian Yima – The Death ofxa0Manu"
-date = "June 9, 2020"
+title = "The Indo-European Man – Sons of the Sun [Part III]: Zoroastrian Yima – The Death of Manu"
+date = "2020-06-09"
+upstream_url = "https://aryaakasha.com/2020/06/09/the-indo-european-man-sons-of-the-sun-part-iii-zoroastrian-yima-the-death-of-manu/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/06/09/the-indo-european-man-sons-of-the-sun-part-iii-zoroastrian-yima-the-death-of-manu/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/06/6347b3a97bcb031de1b5abc89df443e8.jpg?w=512)
 
 Now, heading immediately to the west of Aryavarta, and quite likely some

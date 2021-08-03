@@ -1,8 +1,11 @@
 +++
-title = "The Radiant Queen of the Heavens – On Scythian Tabiti As Template For The Greater Indo-European Solar Goddess  [Part 2 – The Suns of the Sky Father and the Hiddenxa0Suns]"
-date = "July 2, 2020"
+title = "The Radiant Queen of the Heavens – On Scythian Tabiti As Template For The Greater Indo-European Solar Goddess  [Part 2 – The Suns of the Sky Father and the Hidden Suns]"
+date = "2020-07-02"
+upstream_url = "https://aryaakasha.com/2020/07/02/the-radiant-queen-of-the-heavens-on-scythian-tabiti-as-template-for-the-greater-indo-european-solar-goddess-part-2-the-suns-of-the-sky-father-and-the-hidden-suns/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/07/02/the-radiant-queen-of-the-heavens-on-scythian-tabiti-as-template-for-the-greater-indo-european-solar-goddess-part-2-the-suns-of-the-sky-father-and-the-hidden-suns/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/07/sol-invictus-cropped.png?w=659)
 
 However, before we attempt to address Tabiti directly – as well as the

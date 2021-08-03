@@ -1,8 +1,11 @@
 +++
-title = "A Really Brief Synopsis Of Various Odin – Shiva – Dyaus Pitarxa0Comparanda"
-date = "March 13, 2021"
+title = "A Really Brief Synopsis Of Various Odin – Shiva – Dyaus Pitar Comparanda"
+date = "2021-03-13"
+upstream_url = "https://aryaakasha.com/2021/03/13/a-really-brief-synopsis-of-various-odin-shiva-dyaus-pitar-comparanda/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/03/13/a-really-brief-synopsis-of-various-odin-shiva-dyaus-pitar-comparanda/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/03/tumblr_mc0vxiljxl1rejj4to1_1280.jpg?w=717)
 
 I try to make a point of responding to questions, queries, and

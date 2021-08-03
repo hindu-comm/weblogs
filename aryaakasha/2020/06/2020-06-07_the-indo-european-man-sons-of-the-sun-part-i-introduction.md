@@ -1,8 +1,11 @@
 +++
-title = "The Indo-European Man – Sons of the Sun [Part I –xa0Introduction]"
-date = "June 7, 2020"
+title = "The Indo-European Man – Sons of the Sun [Part I – Introduction]"
+date = "2020-06-07"
+upstream_url = "https://aryaakasha.com/2020/06/07/the-indo-european-man-sons-of-the-sun-part-i-introduction/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/06/07/the-indo-european-man-sons-of-the-sun-part-i-introduction/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/06/ntii_sgb_1271047-001.jpg?w=1024)
 
 One of the quite literally foundational tasks of our mythology is also a

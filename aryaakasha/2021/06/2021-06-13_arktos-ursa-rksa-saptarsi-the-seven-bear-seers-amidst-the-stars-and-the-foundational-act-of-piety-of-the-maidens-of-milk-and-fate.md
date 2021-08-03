@@ -1,8 +1,11 @@
 +++
-title = "Arktos, Ursa, Rksa SaptaRsi – The Seven Bear-Seers Amidst The Stars And The Foundational Act Of Piety Of The Maidens Of Milk Andxa0Fate"
-date = "June 13, 2021"
+title = "Arktos, Ursa, Rksa SaptaRsi – The Seven Bear-Seers Amidst The Stars And The Foundational Act Of Piety Of The Maidens Of Milk And Fate"
+date = "2021-06-13"
+upstream_url = "https://aryaakasha.com/2021/06/13/arktos-ursa-rksa-saptarsi-the-seven-bear-seers-amidst-the-stars-and-the-foundational-act-of-piety-of-the-maidens-of-milk-and-fate/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/06/13/arktos-ursa-rksa-saptarsi-the-seven-bear-seers-amidst-the-stars-and-the-foundational-act-of-piety-of-the-maidens-of-milk-and-fate/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/06/arktos-art.png?w=630)
 
 Encoded within the Stars – and more specifically, the Constellations,

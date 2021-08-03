@@ -1,7 +1,11 @@
 +++
 title = "The mechanical, the magical and the fantastic"
+date = "2011-04-21"
+upstream_url = "https://manasataramgini.wordpress.com/2011/04/21/the-mechanical-the-magical-and-the-fantastic-2/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/04/21/the-mechanical-the-magical-and-the-fantastic-2/).
+
 She said: “You had promised the robots of king bhoja even as we had
 engaged in the mirth of the chUta-latikA and bhUtamAtR^ikA. The answer
 to why vikrama had his vetAla while bhoja had his throne statues ? Did
@@ -9,9 +13,9 @@ you include the paramAra’s witch? ”
 The paramAra’s witch? Was it related to her code word to the special
 world? In our mind flashed the verse of rAjA bhoja-deva:  
 nashyad-vaktrima-kuntalAnta-lulita svachChAmbu-bindUtkarA   
-hasta-svastika-saMyame nava-kucha-prAg-bhAram AtanvatI |  
+hasta-svastika-saMyame nava-kucha-prAg-bhAram AtanvatI \|  
 pInoru-dvaya-lIna-chInavasanA stokAvanamrA jalAt  
-tIroddesha-nimeSha-lola-nayanA bAleyam uttiShThati ||
+tIroddesha-nimeSha-lola-nayanA bAleyam uttiShThati \|\|
 
 Shaking off streams of drops of clean water from the ends of her curls
 obscuring her face, crossing her arms as a svastika to determine the
@@ -109,11 +113,11 @@ lovers identify each other (for example in daNDin’s
 dashakumAra-charita). So it is clear that the pattanikA was rather
 unusual innovation, unique to bhoja, taking the place of the common
 place drawing/painting of Sanskrit literature. So, was it a part of his
-“science-fiction”, like his robot that was supposed to have human
-speech ability or was it a real device ( one could think of a wood-cut
-printing device, why would one need this when drawings/painting already
-existed)? Unfortunately, we may not know because the like of this is
-never again seen in Indian literature.
+“science-fiction”, like his robot that was supposed to have human speech
+ability or was it a real device ( one could think of a wood-cut printing
+device, why would one need this when drawings/painting already existed)?
+Unfortunately, we may not know because the like of this is never again
+seen in Indian literature.
 
 However, of the yantra-s we know more from bhoja’s own text, the
 samarA\~NgaNa-sUtradhAra (chapter 31). This work preserves within it
@@ -133,9 +137,9 @@ addition to the combination of the bIja-s involved the diversity of
 yantra-s also arises from degree to which a particular bIja is used in
 it, with the most vital component being its primary bIja. Thus, bhoja
 states:  
-bhUtam ekam ihodriktam anyadhInam tato.adhikam | anyadhInataram chAnyad
-evam prAyair vikalpitaH | nAnA bhedA bhavanty eShAm kastAn kArtsnena
-vashyati |
+bhUtam ekam ihodriktam anyadhInam tato.adhikam \| anyadhInataram chAnyad
+evam prAyair vikalpitaH \| nAnA bhedA bhavanty eShAm kastAn kArtsnena
+vashyati \|
 
 The solid bIja is described as encompassing at the first level the
 materials used in machine construction such as the preferred metals
@@ -212,3 +216,4 @@ an army to expel the turuShka-s from pa\~nchAla and vAhIka in the 1020s.
 Then again he led the Hindu forces to drive out the turuShka-s from
 sthAnIshvara during Masud’s invasions in 1043). It is on this account we
 at least know something of the width of Hindu thought and technology.
+

@@ -1,7 +1,11 @@
 +++
 title = "Citrabhānu’s cubes"
+date = "2017-09-22"
+upstream_url = "https://manasataramgini.wordpress.com/2017/09/22/citrabhanus-cubes/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2017/09/22/citrabhanus-cubes/).
+
 The Hindus unlike their yavana cousins preferred algebra to geometry.
 Yet on occasions they could indulge in geometric games for demostrating
 proofs of algebraic relations. We see a bit of this in the Āryabhaṭa
@@ -14,8 +18,7 @@ Vāriyār. In his Kriyakramakārī he records some of these self-evident
 proofs of his teacher. Now one such question Citrabhānu poses is to show
 without any algebra that:
 
-![\\dfrac{a^3-b^3-(a-b)^3}{3(a-b)}=ab](https://s0.wp.com/latex.php?latex=%5Cdfrac%7Ba%5E3-b%5E3-%28a-b%29%5E3%7D%7B3%28a-b%29%7D%3Dab&bg=ffffff&fg=333333&s=0
-"\\dfrac{a^3-b^3-(a-b)^3}{3(a-b)}=ab")
+![\\dfrac{a^3-b^3-(a-b)^3}{3(a-b)}=ab](https://s0.wp.com/latex.php?latex=%5Cdfrac%7Ba%5E3-b%5E3-%28a-b%29%5E3%7D%7B3%28a-b%29%7D%3Dab&bg=ffffff&fg=333333&s=0&c=20201002)
 
 Of course, this is simple 7th class algebra in our old school system. My
 father probably taught it to me while I was in 4th class. Yet it is some

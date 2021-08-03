@@ -1,10 +1,14 @@
 +++
 title = "On the samarA~NgaNa sUtradhAra: yantra-s"
+date = "2007-01-21"
+upstream_url = "https://manasataramgini.wordpress.com/2007/01/21/on-the-samarangana-sutradhara-yantra-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/01/21/on-the-samarangana-sutradhara-yantra-s/).
+
 The vimAna has been noticed by many since the publication of the
 samarA\~NgaNa sUtradhAra (SS) of the great [rAja bhoja-deva
-paramAra](http://manasataramgini.wordpress.com/2005/12/raja-bhoja-glory-and-tragedy-of.html).
+paramAra](http://manollasa.blogspot.com/2005/12/raja-bhoja-glory-and-tragedy-of.html).
 The description is certainly obscure in parts (especially given the
 corrupt manuscripts), but what can be made sense of in the account
 definitely describes a flying machine. Many years ago when we had talked
@@ -25,16 +29,17 @@ dvArapAla yantra, yodhA yantra and gaja-yantra. In describing the vimAna
 the SS states the following SS 31.95-98:
 
 laghu-dAru-mayaM mahAviha\~NgaM dR^iDha-sushliShTa-tanuM vidhAya tasya
-|  
-udare rasa-yantraM-AdhIta jvalAdhAram-adho.asya chAgni-pUrNam ||  
-tatrArUDhaH pUruShas-tasya pakSha-dvandvoch-chAla-proj-jhitenAnilena |  
+\|  
+udare rasa-yantraM-AdhIta jvalAdhAram-adho.asya chAgni-pUrNaM \|\|  
+tatrArUDhaH pUruShas-tasya pakSha-dvandvoch-chAla-proj-jhitenAnilena
+\|  
 supta-svAntaH pAradasyAsya shaktyA chitraM kurvan-nambare yAti dUraM
-||  
-itthmeva suramandira-tulyaM sa\~nchalatya-laghu dAru vimAnam |  
+\|\|  
+itthmeva suramandira-tulyaM sa\~nchalatya-laghu dAru vimAnam \|  
 AdadhIta vidhinA chaturo.antas-tasya pArada-bhR^itAn dR^iDha-kumbhAn
-||  
-ayaH kapAlAhita-mandavahni-pratapta-tat-kumbha-bhuvA guNena |  
-vyomno jhagityAbharaNa tvameti santatapta-garjad-rasa-rAja-shaktyA ||
+\|\|  
+ayaH kapAlAhita-mandavahni-pratapta-tat-kumbha-bhuvA guNena \|  
+vyomno jhagityAbharaNa tvameti santatapta-garjad-rasa-rAja-shaktyA \|\|
 
 From the description its fairly clear, even factoring in the mention of
 rasa, that it is not a vimAna flying by mantra prayoga, but a real
@@ -45,7 +50,7 @@ machine. But the other erudite scholar Vasudevasharan Agarwala who
 re-edited the SS with a new manuscript believes it is imaginary. While I
 fully admit that the description given by the king can hardly be used to
 make a vimAna today, one can glean some prominent features of it:  
-1\) It was made of light wood- at least conceptually it was something
+1) It was made of light wood- at least conceptually it was something
 light so as to fly. 2) It had a mercury-containing device in its “belly”
 and fire and at the rear end. 3) Its body was well-welded (or firmly
 joined) and had two wings and resembled a large bird. 4) Repeatedly the
@@ -109,8 +114,8 @@ power an aircraft.
 Finally, one yantra mentioned by king bhoja caught my attention — the
 sUryAdi-graha-gati-pradarshana-paraM gola-bhramaNaM.  
 The king says (SS 31.61-62): golash-cha sUchi-vihitaH sUryAdInAM
-pradakShiNam |  
-pari-bhrAmyaty-ahorAtraM grahANAM darshayan gatim |  
+pradakShiNaM \|  
+pari-bhrAmyaty-ahorAtraM grahANAM darshayan gatiM \|  
 \[Images of\] The sun and the planets are made to revolve without any
 connection and these revolutions show the occurrence of day and night
 and the motions of planets. Thus, bhoja-deva describes a yantra that
@@ -133,8 +138,9 @@ the time of bhoja-deva’s era were “technologically” rather developed
 (also note the remarkable description of the cranial surgery performed
 on bhoja-deva himself). But in both places the violent visitations of
 the Abrahamistic madness
-[obliterated](http://manasataramgini.wordpress.com/2006/07/emperor-julian.html)
+[obliterated](http://manollasa.blogspot.com/2006/07/emperor-julian.html)
 or
-[defaced](http://manasataramgini.wordpress.com/2006/08/makings-of-islamic-science.html)
+[defaced](http://manollasa.blogspot.com/2006/08/makings-of-islamic-science.html)
 these old worlds. This is a point often overlooked by many, especially
 in the West.
+

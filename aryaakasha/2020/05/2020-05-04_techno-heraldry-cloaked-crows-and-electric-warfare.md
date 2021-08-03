@@ -1,8 +1,11 @@
 +++
-title = "Techno-Heraldry – Cloaked Crows And Electricxa0Warfare"
-date = "May 4, 2020"
+title = "Techno-Heraldry – Cloaked Crows And Electric Warfare"
+date = "2020-05-04"
+upstream_url = "https://aryaakasha.com/2020/05/04/techno-heraldry-cloaked-crows-and-electric-warfare/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/05/04/techno-heraldry-cloaked-crows-and-electric-warfare/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/05/95137696_10163454976095574_6937291168602390528_n.jpg?w=474)
 
 \[Author’s Note: For the past few weeks I’ve been taking a look at

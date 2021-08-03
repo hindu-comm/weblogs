@@ -1,7 +1,11 @@
 +++
 title = "The vighnas"
+date = "2006-01-17"
+upstream_url = "https://manasataramgini.wordpress.com/2006/01/17/the-vighnas/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/01/17/the-vighnas/).
+
 We thought of the freedom of Jx and wondered what our fate might be. Our
 spasha reported that even before the khANDava event there was much fear
 that all were targets. The spasha stated that the khANDava event only
@@ -29,7 +33,7 @@ Nov 22 2003: We escape from the deva hill trap, due to our rapid action.
 The vairis were beaten but seem to have despatched a deadly prayoga at
 us.  
 Dec 15 2003: R warns us that the worst is yet to come, she sights
-magician K of the Economics department. K joins forces with the deva hill
+magician K of theEconomics department. K joins forces with the deva hill
 aris to lay a deadlier trap.  
 Nov 23 2004: The khANDava war is imminent  
 Nov 23 2004: We get all military preparation in place  
@@ -48,7 +52,7 @@ it.
 Feb 24th 2005: The two birds indradatta and viShNudatta bore us the
 message, we might have walked into the trap. Jx who was being pinned
 down severely on his front also failed to see the trap and walked into
-it. The muni and Mn were shaken by their own attacks but no one saw the
+it. The muni and Mn were shaken by they own attacks but no one saw the
 connections in the tangled web.  
 March 10th: shachIva misreads the game and fails to deploy troops.  
 March 17th 2005: Our mantras were neutralized and gods failed to bear us
@@ -90,3 +94,4 @@ Aug 26th: Yet another mAraNa strike.
 
 Finally the we got intelligence that the sammohana weapon was being
 deployed.
+

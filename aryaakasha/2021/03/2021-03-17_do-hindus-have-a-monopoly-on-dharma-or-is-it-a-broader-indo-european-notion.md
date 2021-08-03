@@ -1,8 +1,11 @@
 +++
-title = "Do Hindus Have A Monopoly On Dharma – Or Is It A Broader Indo-European Notionxa0?"
-date = "March 17, 2021"
+title = "Do Hindus Have A Monopoly On Dharma – Or Is It A Broader Indo-European Notion ?"
+date = "2021-03-17"
+upstream_url = "https://aryaakasha.com/2021/03/17/do-hindus-have-a-monopoly-on-dharma-or-is-it-a-broader-indo-european-notion/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/03/17/do-hindus-have-a-monopoly-on-dharma-or-is-it-a-broader-indo-european-notion/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/03/alexander-honours-achilles-in-ilion-troy1.jpg?w=740)
 
   

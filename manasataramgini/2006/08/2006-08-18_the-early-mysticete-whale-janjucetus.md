@@ -1,7 +1,13 @@
 +++
 title = "The early mysticete whale Janjucetus"
+date = "2006-08-18"
+upstream_url = "https://manasataramgini.wordpress.com/2006/08/18/the-early-mysticete-whale-janjucetus/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/08/18/the-early-mysticete-whale-janjucetus/).
+
+
+
 [![](https://i1.wp.com/photos1.blogger.com/blogger/2010/410/320/janjucetus.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/janjucetus.jpg)[![](https://i1.wp.com/photos1.blogger.com/blogger/2010/410/320/dakosaurus.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/dakosaurus.jpg)
 
 Janjucetus and Dakosuchus
@@ -18,7 +24,7 @@ and sonar senses. The latter group are marked by they peculiar filter
 feeding apparatus composed of sheets of baleen. These two groups appear
 to represent a crown group that branched of from earlier radiations of
 basal whales that had their own distinctive adaptations such as the
-“[protocetid](http://manasataramgini.wordpress.com/2005/12/wonder-of-whippos-i.html)s”,
+“[protocetid](http://manollasa.blogspot.com/2005/12/wonder-of-whippos-i.html)s”,
 the ambulocetids, and the enigmatic remingtonocetids.
 
 The origin of the baleen whales is poorly understood, although forms
@@ -57,18 +63,18 @@ unclear feeding preferences. Further there is also the enigmatic
 Llanocetus whose exact adaptations remain unknown.
 
 One see relatively large orbit size in the early members of mysticete in
-the form of a decreasing series: Janjucetus-\> Mammalodon-\>
-Chonecetus-\>  Aetiocetus, suggesting that like the extinct diving
-marine reptiles such as the ichythyosaurs they relied primarily on
-eyesight for their prey location. With the emerge of an entirely
-filter-feeding life style the eyes grew much smaller, correlated with
-the lack of active prey capture. The odontocetes despite being active
-predators lack large orbits, but right from inception have
-echolocation/ultra-sound capabilities, which probably made up for eye
-sight. The only exception is Odobenocetops, an extinct South American
-odontocete that appears to have converged to a walrus-like morphology
-and lost its echolocation abilities. This suggests that echolocation was
-absent in the mysticetes and was an innovation of the odontocetes.
+the form of a decreasing series: Janjucetus-> Mammalodon-> Chonecetus->
+Aetiocetus, suggesting that like the extinct diving marine reptiles such
+as the ichythyosaurs they relied primarily on eyesight for their prey
+location. With the emerge of an entirely filter-feeding life style the
+eyes grew much smaller, correlated with the lack of active prey capture.
+The odontocetes despite being active predators lack large orbits, but
+right from inception have echolocation/ultra-sound capabilities, which
+probably made up for eye sight. The only exception is Odobenocetops, an
+extinct South American odontocete that appears to have converged to a
+walrus-like morphology and lost its echolocation abilities. This
+suggests that echolocation was absent in the mysticetes and was an
+innovation of the odontocetes.
 
 After the explosive radiation by the mid-Oligocene only the purely
 baleen lineages seem to have made it past this epoch. One wonders if the
@@ -76,3 +82,4 @@ rise of highly successful predatory shark-toothed dolphins like
 Waipatia, Squalodon and later Phoberodon had any role in blocking off
 the ecological niches for the non-filter feeding mysticetes. But then we
 also have the leopard seals still occupy such niches.
+

@@ -1,7 +1,11 @@
 +++
 title = "The mayAbheda sUkta: a discursion"
+date = "2013-07-02"
+upstream_url = "https://manasataramgini.wordpress.com/2013/07/02/the-mayabheda-sukta/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/07/02/the-mayabheda-sukta/).
+
 In the great pravargya ritual the mAhAvIra pot containing the milk of a
 cow and a goat, i.e. the gharma offering, is intensely heated until it
 starts glowing. When the pot starts glowing the hotar looks at it starts
@@ -10,15 +14,15 @@ only recite RV 10.177.1 & 3). This sUkta is traditionally referred to as
 the mAyAbheda sUkta. Regarding this the sUkta the shaunakIya R^igvidhAna
 redacted by the early vaiShNava viShNukumAra states:
 
-pata\~Ngam iti nityam tu japed aj\~nAna bhedanam |  
-mAyA bhedanam etaddhi sarva mAyAH prabAdhate ||
+pata\~Ngam iti nityam tu japed aj\~nAna bhedanam \|  
+mAyA bhedanam etaddhi sarva mAyAH prabAdhate \|\|
 
 He should constantly do japa of the \[mantra-s beginning with\]
 pata\~Nga that destroys ignorance. It is breaks the \[spell of\] mAyA
 and drives away all mAyA.
 
-shAmbarIm indrajAlAm vA mAyAm etena vArayet |  
-adR^iShTAnAm cha sattvAnAm mAyAm etena bAdhate || RVdh 4.115-116
+shAmbarIm indrajAlAm vA mAyAm etena vArayet \|  
+adR^iShTAnAm cha sattvAnAm mAyAm etena bAdhate \|\| RVdh 4.115-116
 
 By this he should block mAyA be it of the shambara or the indrajAla
 variety; By this he repulses the mAyA of the unseen ones and of the
@@ -31,9 +35,9 @@ mAyA of shambara has a very old precedence, primarily in a negative
 sense, in the R^igveda itself:
 
 tvaM divo bR^ihataH sAnu kopayo .ava tmanA dhR^iShatA shambaram bhinat
-|  
+\|  
 yan mAyino vrandino mandinA dhR^iShach ChitAM gabhastim ashanim
-pR^itanyasi || RV 1.54.4  
+pR^itanyasi \|\| RV 1.54.4  
 You shook the pinnacle of the high heavens; with your own valor you rent
 apart shambara,  
 when exhilarated with the flowing soma juice you battled with the sharp,
@@ -42,8 +46,8 @@ radiating thunderbolt those wielding mAyA.
 This might be compared to the mAyA of other dAnava-s and dasyu-s like
 vR^itra:
 
-indro mahAM sindhum AshayAnam mAyAvinaM vR^itram asphuran niH |  
-arejetAM rodasI bhiyAne kanikradato vR^iShNo asya vajrAt ||  
+indro mahAM sindhum AshayAnam mAyAvinaM vR^itram asphuran niH \|  
+arejetAM rodasI bhiyAne kanikradato vR^iShNo asya vajrAt \|\|  
 indra threw down mAyA-bearing vR^itra who sprawled across the great
 sindhu: both the celestial hemispheres trembled in terror of the manly
 warrior’s vajra when he roared.
@@ -51,8 +55,8 @@ warrior’s vajra when he roared.
 On the other hand the mAyA of indra and other deities is clearly praised
 in the R^igveda:
 
-maho mahAni panayanty asyendrasya karma sukR^itA purUNi |  
-vR^ijanena vR^ijinAn sam pipeSha mAyAbhir dasyUMr abhibhUty ojAH ||  
+maho mahAni panayanty asyendrasya karma sukR^itA purUNi \|  
+vR^ijanena vR^ijinAn sam pipeSha mAyAbhir dasyUMr abhibhUty ojAH \|\|  
 \[The ritualists\] express wonder at the great deeds of this great one,
 the numerous glorious acts of indra; Through his might the surpassed the
 mighty, of unsurpassed might, with his mAyA powers he pounded the
@@ -74,15 +78,15 @@ the world is portrayed as an illusory indrajAla. Further, evidence for
 this memory comes from the verse of the great Kashmirian kavi
 kShemendra:
 
-saMsAra-citra-mAyAM shambara-mAyAM viShNu-mAyAm cha |  
-yo jAnAti jitAtmA so .api na jAnAti yoShitAM mAyAm ||  
+saMsAra-citra-mAyAM shambara-mAyAM viShNu-mAyAm cha \|  
+yo jAnAti jitAtmA so .api na jAnAti yoShitAM mAyAM \|\|  
 Even the one who has realized the atman who understands the mAyA-s of
 saMsAra, shambara and viShNu does not understand the mAyA of women.
 
 Coming to the yoga vAsiShTha, vasiShTha tell rAma:  
-atra te shR^iNu vakShyAmi vR^ittAntaM imam uttamam |  
-jAgatI hendrajAla shrIsh chittAyattA yathA sthitA || mumukShu-vyavahAra
-prakaraNaM 104.1
+atra te shR^iNu vakShyAmi vR^ittAntaM imam uttamaM \|  
+jAgatI hendrajAla shrIsh chittAyattA yathA sthitA \|\|
+mumukShu-vyavahAra prakaraNaM 104.1
 
 Now you hear me narrate this excellent story which shows the world to be
 like an indrajAla, i.e, illusory wonder resting on the consciousness.
@@ -113,19 +117,19 @@ point he was about to kill himself when he break out from the hypnosis.
 When his courtiers finally resurrected him from his hypnotic stupor, he,
 interestingly describes these hallucinations simultaneously as both
 shAmbari and indrajAla:  
-idam Ashcharyam AkhyAnaM shrUytAM re sabhAsadaH |  
-mama shAmbarikeNeha yan muhUrtaM pradarshitam || mumukShu-vyavahAra
+idam Ashcharyam AkhyAnaM shrUytAM re sabhAsadaH \|  
+mama shAmbarikeNeha yan muhUrtaM pradarshitam \|\| mumukShu-vyavahAra
 prakaraNaM 105.25
 
 The gloss of bodhendra states: shambarasya mAyA shAMbarI sA .asyA .asti
-iti shAMbarIkas tena |  
+iti shAMbarIkas tena \|  
 Thus the hypnosis which the king was placed under is understood as the
-mAyA (magic) of shambara. Thus we have: Arrey courtiers\! Hear this
+mAyA (magic) of shambara. Thus we have: Arrey courtiers! Hear this
 astonishing account of the hallucinations I witnessed under the shambara
 spell in course of the muhUrta.
 
-dR^ishTavAn aham etasmin bahvIH kArya-dashAsh-chalAH |  
-muhUrtaM prArthito .adhvasta shakra-sR^iShTir iva abjajaH ||
+dR^ishTavAn aham etasmin bahvIH kArya-dashAsh-chalAH \|  
+muhUrtaM prArthito .adhvasta shakra-sR^iShTir iva abjajaH \|\|
 mumukShu-vyavahAra prakaraNaM 105.26
 
 I have seen under this spell numerous passing scenes of existences even
@@ -136,13 +140,13 @@ bodhendra, explains the illusion of indra’s creation in his gloss thus
 by providing an old narrative concerning the battle between the daitya
 bali and indra:
 
-adhvasta shakra-sR^iShTir iti chChedhaH | purA kila baliH kvachid
+adhvasta shakra-sR^iShTir iti chChedhaH \| purA kila baliH kvachid
 asahAyaM shakram AsAdya baler nigR^ihyAhartu-kAmaH shakreNa mAyayA
-sva-sainyaM sR^iShTvA baliM mAyAbandhena mohayAmAsa | tadA balinA
+sva-sainyaM sR^iShTvA baliM mAyAbandhena mohayAmAsa \| tadA balinA
 sva-bandhana-mokShaNAya stutyA prasAdito brahmA tatra Agatya shAkrIM
 sR^iShTiM dhvaMsayituM pravR^ittaH shakra-prArthanayA
 adhvasta-shakra-sR^iShTir muhUrta-mAtraM tan mAyA-kautukaM yathA
-dR^iShTavAMs tadvad ity arthaH ||
+dR^iShTavAMs tadvad ity arthaH \|\|
 
 The demon bali had succeeded in making indra somewhat ineffective
 against him. With the intention of defeating bali’s coercion indra used
@@ -189,17 +193,17 @@ prAjApatya-s to assert the primacy of brahmA. Indeed, the yogavAsiShTha
 takes a rather pro-daitya stance in certain places and even praises the
 daitya shambara renowned for his magic as an exemplar of advaitic
 renunciation with a difficult understand word play:  
-shambaraika paro .apy antaH shambaraika tayoditaH |  
-saMsAra shambaraM rAma shambaras tyaktavAn idam ||
+shambaraika paro .apy antaH shambaraika tayoditaH \|  
+saMsAra shambaraM rAma shambaras tyaktavAn idam \|\|
 
 bodhendra states: shambaraM mAyA tad eka paro .apyantaH shambaraM
-hArda-chid-AkAshas tad ekatayA udita AvirbhUtaH || upashama-prakaraNaM
+hArda-chid-AkAshas tad ekatayA udita AvirbhUtaH \|\| upashama-prakaraNaM
 75.9
 
 Thus: shambara is the foremost mAyAvin, but his internal “heart space”
 is clear as water, (shambara) within which emerges the unity. Hence, O
 rAma, shambara had renounced the “shambara” (i.e. the mAyA) of saMsAra
-(a very advaitic teaching\!).
+(a very advaitic teaching!).
 
 The tale of shambara narrated in the sthiti-prakaraNaM 25 onwards goes
 thus:  
@@ -225,22 +229,23 @@ the use of numerous celestial missiles. These are described at length in
 the account of the great encounter between indra’s forces and those of
 shambara. For example:
 
-bhuShuNDI-maNDalA-sphoTa sphuTan meru shiraH shatam |  
-shara-mAruta nirlUna daitya-deva-mukhAmbujam || sthiti-prakaraNa 26.28
+bhuShuNDI-maNDalA-sphoTa sphuTan meru shiraH shatam \|  
+shara-mAruta nirlUna daitya-deva-mukhAmbujam \|\| sthiti-prakaraNa 26.28
 
 The explosions of arrays of bhuShuNDI-s \[fired by the daitya-s\] burst
 the hundred peaks of meru; the wind of missiles pierced the lotus faces
 of the daitya and deva-s.
 
-hety ugra vAta niShpiShTa patad vAimAnika-vrajam |  
-astroditAbdhi vAryogha plAvita vyoma-pattanam || sthiti-prakaraNa 26.28
+hety ugra vAta niShpiShTa patad vAimAnika-vrajam \|  
+astroditAbdhi vAryogha plAvita vyoma-pattanaM \|\| sthiti-prakaraNa
+26.28
 
 Blasted by the violent shock-waves of the missiles whole formations of
 airplanes fell; The flying stations were deluged by floods generated by
 water hurled by the astras.
 
-astra-nirmita-durvAra-tamaH kalpAnta-rAtrikam |  
-mAyA sUrya-gaNodyotaiH pItAtanutamaH paTam || sthiti-prakaraNa 26.42
+astra-nirmita-durvAra-tamaH kalpAnta-rAtrikam \|  
+mAyA sUrya-gaNodyotaiH pItAtanutamaH paTaM \|\| sthiti-prakaraNa 26.42
 
 With foul clouds generated by their astra-s \[the daitya-s\] created
 darkness like the end of the kalpa; \[The deva-s\] using a cluster of
@@ -249,12 +254,12 @@ mAyA suns lit up the darkness.
 There is also an interesting shloka that has been interpreted in two
 ways:
 
-evaM shabda-shaton-nAda-pAtAla-tala-vAraNam |  
-vinAyaka-karAkR^iShTa-dIrgha-dAnava-parvatam ||sthiti-prakaraNa 26.56
+evaM shabda-shaton-nAda-pAtAla-tala-vAraNaM \|  
+vinAyaka-karAkR^iShTa-dIrgha-dAnava-parvataM \|\|sthiti-prakaraNa 26.56
 
 Thus, \[in counter to the cries of the\] mountain-like dAnava-s seized
-by the kara (talons) of vi-nAyaka (= lord of the birds, garuDa) | seized
-by the kara (trunk) of vinAyaka, the elephants of the netherworld
+by the kara (talons) of vi-nAyaka (= lord of the birds, garuDa) \|
+seized by the kara (trunk) of vinAyaka, the elephants of the netherworld
 trumpeted a hundred times.
 
 Thus, even after a prolonged fight the deva-s were unable to overcome
@@ -267,9 +272,9 @@ daitya-s immediately retaliated again with a remarkable array of
 celestial weapons, e.g.:
 
 madhya-pravAhavahad-ulmuka-shUla-shaila-  
-prAsa asi-kunta-shara-tomara-mudgareNa |  
+prAsa asi-kunta-shara-tomara-mudgareNa \|  
 ga\~Ngopama ambu-valita amara-mandireNa  
-sarvAsu dikShv ashani varSha nikarShaNena || sthiti-prakaraNa 28.8
+sarvAsu dikShv ashani varSha nikarShaNena \|\| sthiti-prakaraNa 28.8
 
 The deva strongholds were assailed by a deluge of meteor-like missiles,
 tridents, rocks, lances, swords, sharp spikes, arrows, poled-cleavers,
@@ -277,9 +282,9 @@ and hammers, they were flooded by gushing water like that of the
 ga\~NgA, and blazing lightning weapons from all directions.
 
 garuDa-guDa-guDAkulAntarikSha-  
-pravisR^ita-heti-hutAsha-parvataughaiH |  
+pravisR^ita-heti-hutAsha-parvataughaiH \|  
 jagad abhavad asahya kalpa-kAla-  
-jvalita-surAlaya-bhUtala antarAlam || sthiti-prakaraNa 28.15
+jvalita-surAlaya-bhUtala antarAlam \|\| sthiti-prakaraNa 28.15
 
 \[The deva-s\] with clusters of garuDa bombs and daityas with shells;
 the streams of fire and rocks from launched missiles made it unbearable
@@ -323,8 +328,9 @@ dawned on us that it was close to the ritual in which it was used.
 mAyAbheda sUktam (RV 10.177):
 
 pata\~Ngam aktam asurasya mAyayA hR^idA pashyanti manasA vipashchitaH
-|  
-samudre antaH kavayo vi chakShate marIchInAm padam ichChanti vedhasaH ||
+\|  
+samudre antaH kavayo vi chakShate marIchInAm padam ichChanti vedhasaH
+\|\|
 
 vipaShchitaH = seers, plural subject; manasA= by their mind,
 instrumental; hR^idA= by heart, instrumental of hR^id; pata\~Ngam= bird,
@@ -348,9 +354,9 @@ forth, the ritualists seek the station of \[his\] rays.
 Here the pata\~Nga, by vaidika metaphor, is the sun and he is “anointed”
 with rays by the mAyA of the asura who is none other than the deva
 savitA (Indeed hiraNyastUpa A\~Ngirasa praises savitA thus: vi suparNo
-antarikShANy akhyad gabhIravepA asuraH sunIthaH | RV 1.35.7a. The golden
-eagle, lit up the mid-regions, the one from the wavy depths, the good
-asura). Even when not visible he shines from within the ocean. The
+antarikShANy akhyad gabhIravepA asuraH sunIthaH \| RV 1.35.7a. The
+golden eagle, lit up the mid-regions, the one from the wavy depths, the
+good asura). Even when not visible he shines from within the ocean. The
 meditating on him the ritualists seek the “station” of his rays, which
 could figuratively mean the illumination of his rays. This effectively
 is parallel to the image presented by the famed sAvitrI R^ik of
@@ -361,8 +367,8 @@ offering is savitA (the deva-s offered the gharma are: ashvin-s, vAyu,
 indra, savitA, bR^ihaspati and yama).
 
 ……….  
-pata\~Ngo vAcham manasA bibharti tAM gandharvo .avadad garbhe antaH |  
-tAM dyotamAnAM svaryam manIShAm R^itasya pade kavayo ni pAnti ||
+pata\~Ngo vAcham manasA bibharti tAM gandharvo .avadad garbhe antaH \|  
+tAM dyotamAnAM svaryam manIShAm R^itasya pade kavayo ni pAnti \|\|
 
 pata\~NgaH= singular, subject; vAcham= holy utterance/incantation,
 object; manasA= singular instrumental; bibharti= bears, 3rd person
@@ -390,9 +396,9 @@ utterance of the mantra-s within, which is expressed by the metaphor of
 the gandharva \[For an explicit statement of this internal homology see
 below\]. The gandharva here is the sun as indicated in other R^igveda
 mantra-s such as:  
-Urdhvo gandharvo adhi nAke asthAd vishvA rUpA pratichakShANo asya |  
-bhAnuH shukreNa shochiShA vy adyaut prArUruchad rodasI mAtarA shuchiH ||
-RV 9.85.12
+Urdhvo gandharvo adhi nAke asthAd vishvA rUpA pratichakShANo asya \|  
+bhAnuH shukreNa shochiShA vy adyaut prArUruchad rodasI mAtarA shuchiH
+\|\| RV 9.85.12
 
 High to the zenith as the gandharva risen, beholding all these varied
 forms.  
@@ -403,14 +409,14 @@ This gandharva also specifically relates to the gandharva-s invoked at
 the pravargya after the mahAvIra pot is finally disposed. Here the
 ritualists as a chorus utter a series of yajuSh incantations which
 include the formulae:  
-rantir nAmAsi divyo gandharva | tasya te padvad dhavirdhAnam | agnir
-adhyakShA | rudro.adhipatiH ||  
+rantir nAmAsi divyo gandharva \| tasya te padvad dhavirdhAnaM \| agnir
+adhyakShA \| rudro.adhipatiH \|\|  
 you are ranti by name, the celestial gandharva, the havirdhAna is your
-foot messenger, agni your president, rudra is your overlord \!
+foot messenger, agni your president, rudra is your overlord !
 
-vishvAvasur abhi tan no gR^iNAtu | divyo gandharvo rajaso vimAnaH | yad
-vA ghA satyam uta yan na vidma | dhiyo hinvAno dhiya inno avyAd | prAsaM
-gandharvo amR^itAni vochad | (prAnA vA amR^itAH ||)
+vishvAvasur abhi tan no gR^iNAtu \| divyo gandharvo rajaso vimAnaH \|
+yad vA ghA satyam uta yan na vidma \| dhiyo hinvAno dhiya inno avyAd \|
+prAsaM gandharvo amR^itAni vochad \| (prAnA vA amR^itAH \|\|)
 
 vishvAvasu, proclaim it to us, the celestial gandharva who measures out
 the heavens. Whether we know the truth already or not, he who has
@@ -432,14 +438,14 @@ arena – the uttaravedi which is homologized with the universe. Indeed
 the incantation used in the pravargya when he sets down the mahAvIra pot
 at the conclusion of the ritualist utter the formula:
 
-chatuHsraktir nAbhir R^itasya | (iyam vA R^itam | tasyA eSha eva nAbhiH
-|)  
+chatuHsraktir nAbhir R^itasya \| (iyam vA R^itam \| tasyA eSha eva
+nAbhiH \|)  
 Quadrangular is the center of R^ita. This \[the uttaravedi\] is the
 R^ita; the pravargya is its root.
 
 ……….  
-apashyaM gopAm anipadyamAnam A cha parA cha pathibhish charantam |  
-sa sadhrIchIH sa viShUchIr vasAna A varIvarti bhuvaneShv antaH ||
+apashyaM gopAm anipadyamAnam A cha parA cha pathibhish charantam \|  
+sa sadhrIchIH sa viShUchIr vasAna A varIvarti bhuvaneShv antaH \|\|
 
 apashyaM= saw; 1st person singular past, parasmai; gopAm= guardian,
 object; anipadyamAnam=never resting; A cha parA cha= northern and
@@ -457,9 +463,9 @@ apparitions (or: clothing the sadhrIchI= antarikSha and the viShuchI=
 dyaus \[with his rays\]), continually revolves in midst of the worlds.
 
 The taittirIya AraNyaka explains:  
-apshyaM gopAM ity Aha | prANo vai gopAH | prANam eva prajAsu vi yAtyati
-| “apashyaM gopAM ity Aha | asau vA adityo gopAH | sa hiimAH prajA
-gopAyati | tam eva prajAnAM goptAraM kurute ||  
+apshyaM gopAM ity Aha \| prANo vai gopAH \| prANam eva prajAsu vi
+yAtyati \| “apashyaM gopAM ity Aha \| asau vA adityo gopAH \| sa hiimAH
+prajA gopAyati \| tam eva prajAnAM goptAraM kurute \|\|  
 “I saw the guardian” so he recites. The guardian is the prANa. \[If he
 meditate thus\] he has the prANa flowing into all reproducing life. “I
 saw the guardian” so he recites. The yonder Aditya is the guardian for
@@ -513,3 +519,4 @@ indra. In this view prajApati remains in the background much like his
 sAMkhyan abstraction. This aindra-para view of ours is similar to that
 expressed by [arjuna in the
 bhArata](https://manasataramgini.wordpress.com/2013/03/05/the-lesson-of-arjuna/).
+

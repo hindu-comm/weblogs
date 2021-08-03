@@ -1,7 +1,11 @@
 +++
 title = "Chinese incursion of 2013: Just the beginning?"
+date = "2013-04-25"
+upstream_url = "https://manasataramgini.wordpress.com/2013/04/25/chinese-incursion-of-2013-just-the-beginning/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/04/25/chinese-incursion-of-2013-just-the-beginning/).
+
 Hindus face three major civilizational threats – two from the
 Abrahamisms, the religions of peace and love, and one from the
 legalistic Han imperialism. The assault from the religion of love is
@@ -130,3 +134,4 @@ the Hans right in the mlechCha land) has a large project to determine
 the genetic determinants for Han and mlechCha intelligence, and has
 presented a proposal for directed eugenics that could be used by the
 Hans down the line.
+

@@ -1,7 +1,11 @@
 +++
 title = "Royal kumAra worshippers"
+date = "2005-10-28"
+upstream_url = "https://manasataramgini.wordpress.com/2005/10/28/royal-kumara-worshippers/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/10/28/royal-kumara-worshippers/).
+
 The Shunga coins: The late Maurya and Shunga period has the square coins
 of the Ujjain series bearing the image of kumAra. They installed some
 idols of kumAra in Mathura (175-50 BC).
@@ -34,11 +38,10 @@ considerable local power in Orissa ruling from their capital of puShkari
 (Near modern day Nawarangpur). In two of their surviving copper plates
 from Kesaribeda (rAjA arthapati) and Rithapur (rAjA bhavadatta-varman)
 we find the the header describing their line as
-“maheshvara-mahAsenAtisR^iShTa rAjya vibhavaH”. Thus they believed
-their dynasty had come to power due to the grace of the great god
-kArttikeya. One of the kings in the dynasty whose name appears on some
-inscriptions is named skandavarman supporting their kaumAra devotion
-(300-400 AD).
+“maheshvara-mahAsenAtisR^iShTa rAjya vibhavaH”. Thus they believed their
+dynasty had come to power due to the grace of the great god kArttikeya.
+One of the kings in the dynasty whose name appears on some inscriptions
+is named skandavarman supporting their kaumAra devotion (300-400 AD).
 
 gupta empire: kumAra and ShaShThi are shown in several gupta coins.
 Multiple gupta kings are named kumAragupta (after kumAra) and one
@@ -86,3 +89,4 @@ after. The revival of the technical kaumara srotas in South India
 occurred circa 900-1000 ACE when the kaumAra tantrics from Bengal
 arrived in Bellary and established the kumAra tapovanas for the worship
 of the 6-headed deva.
+

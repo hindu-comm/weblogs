@@ -1,7 +1,13 @@
 +++
 title = "The adaptive radiation of avian and para-avian clades"
+date = "2005-02-26"
+upstream_url = "https://manasataramgini.wordpress.com/2005/02/26/the-adaptive-radiation-of-avian-and-para-avian-clades/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/02/26/the-adaptive-radiation-of-avian-and-para-avian-clades/).
+
+
+
 Adaptive diversification of avian and para-avian clades. [![Posted by
 Hello](https://i0.wp.com/photos1.blogger.com/pbh.gif)](http://www.hello.com/)
 
@@ -48,3 +54,4 @@ flight and probably this favored smaller size and exploitation of much
 wider ecological niches. The deinonychosaurs remained to a large-extant
 in the ancestral state of this assemblage, with probable multiple
 returns to terrestrial predatory niches.
+

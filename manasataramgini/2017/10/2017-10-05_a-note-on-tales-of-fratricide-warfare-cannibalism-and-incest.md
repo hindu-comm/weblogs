@@ -1,7 +1,11 @@
 +++
 title = "A note on tales of fratricide, warfare, cannibalism and incest"
+date = "2017-10-05"
+upstream_url = "https://manasataramgini.wordpress.com/2017/10/05/a-note-on-tales-of-fratricide-warfare-cannibalism-and-incest/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2017/10/05/a-note-on-tales-of-fratricide-warfare-cannibalism-and-incest/).
+
 The Osman conqueror of Constantinople, Mehmet-II, bothered by the civil
 wars his predecessors had to fight to take the throne, institutionalized
 the system of fratricide. In this system, the rival brothers of the
@@ -41,7 +45,7 @@ pupa. Then the female uses its mandibles to suck the haemolymph of the
 host from the wound and thus it gains nutrients in anticipation for
 egg-laying.
 
-![wasp\_morphs](https://manasataramgini.files.wordpress.com/2017/10/wasp_morphs.jpg?w=640)Figure
+![wasp_morphs](https://manasataramgini.files.wordpress.com/2017/10/wasp_morphs.jpg?w=640)Figure
 1: Mellitobia morphs from Biology of the Parasitoid Melittobia
 (Hymenoptera: Eulophidae) by Matthews, Gonzalez, Matthews, Deyrup.
 
@@ -84,7 +88,7 @@ In roughly 2 weeks they develop into adult males and emerge from the
 pupal cocoon. She mates with her first son who emerges and when her eggs
 are fertilized she proceeds to lay a regular clutch of eggs as before.
 
-![wasp\_transbergamotene](https://manasataramgini.files.wordpress.com/2017/10/wasp_transbergamotene.jpg?w=640)
+![wasp_transbergamotene](https://manasataramgini.files.wordpress.com/2017/10/wasp_transbergamotene.jpg?w=640)
 
 Figure 2 Alpha trans-bergamotene
 
@@ -101,7 +105,7 @@ ritual of the male is puzzling. Why invest in an elaborate courtship
 ritual when you have all the opportunity to mate with your sisters and
 they have no major alternatives to choose as mates?
 
-![wasp\_fratricide](https://manasataramgini.files.wordpress.com/2017/10/wasp_fratricide.jpg?w=640)
+![wasp_fratricide](https://manasataramgini.files.wordpress.com/2017/10/wasp_fratricide.jpg?w=640)
 
 Figure 3. brother killing brother from Feeding and siblicidal
 cannibalism in a male parasitic wasp (Hymenoptera: Eulophidae) by
@@ -137,7 +141,7 @@ observed violence against sisters and mothers. This does not appear like
 a simple mistake in recognition because the males proceed to copulate
 and then suddenly turn to attack their potential mate.
 
-![wasp\_killing\_mate](https://manasataramgini.files.wordpress.com/2017/10/wasp_killing_mate.jpg?w=395&h=391)
+![wasp_killing_mate](https://manasataramgini.files.wordpress.com/2017/10/wasp_killing_mate.jpg?w=395&h=391)
 
 Figure 4: Male killing female from Biology of the Parasitoid Melittobia
 (Hymenoptera: Eulophidae) by Matthews, Gonzalez, Matthews, Deyrup.
@@ -162,7 +166,7 @@ cannibalized by the female with whom they initiate a quick mating. In
 contrast, the victorious big males initiate a long-drawn coitus with
 high success of insemination.
 
-![wasp\_copidosoma](https://manasataramgini.files.wordpress.com/2017/10/wasp_copidosoma.jpg?w=640)
+![wasp_copidosoma](https://manasataramgini.files.wordpress.com/2017/10/wasp_copidosoma.jpg?w=640)
 
 Figure 5. The encyrtid wasp Copidosoma
 
@@ -219,7 +223,7 @@ this mechanism is similar that used by the bee-killing beewolf wasp that
 involves treatment of nests with Streptomyces bacteria. The antibiotic
 produced by the bacterium kills fungi which might infect the nest.
 
-![wasp\_mites](https://manasataramgini.files.wordpress.com/2017/10/wasp_mites.jpg?w=610&h=455)
+![wasp_mites](https://manasataramgini.files.wordpress.com/2017/10/wasp_mites.jpg?w=610&h=455)
 
 Figure 6 Acarinaria from Mutualism: Wasp Keeps Watchdogs to Protect
 Young by Kronauer
@@ -356,42 +360,42 @@ dance, and even female killing, might be mechanisms by which this
 genetic load is reduced as these actions help purge accrued mutations.
 
 *Some literature:*  
-\-Evolution of social wasps; Hunt.  
-\-Wasp Keeps Watchdogs to Protect Young; Kronauer  
-\-Parasitic mites as part-time bodyguards of a host wasp; Okabe and
+-Evolution of social wasps; Hunt.  
+-Wasp Keeps Watchdogs to Protect Young; Kronauer  
+-Parasitic mites as part-time bodyguards of a host wasp; Okabe and
 Makino  
-\-Biology of the Parasitoid Melittobia (Hymenoptera: Eulophidae);
+-Biology of the Parasitoid Melittobia (Hymenoptera: Eulophidae);
 Matthews, Gonzalez, Matthews, Deyrup  
-\-Feeding and siblicidal cannibalism in a male parasitic wasp
+-Feeding and siblicidal cannibalism in a male parasitic wasp
 (Hymenoptera: Eulophidae); Deyrup, Matthews, Deyrup  
-\-Plant secretions prevent wasp parasitism in nests of wool-carder bees,
+-Plant secretions prevent wasp parasitism in nests of wool-carder bees,
 with implications for the diversiﬁcation of nesting materials in
 Megachilidae; Eltz, Küttner,Lunau and Tollrian  
-\-Ecological and evolutionary significance of phoresy in the Astigmata;
+-Ecological and evolutionary significance of phoresy in the Astigmata;
 Houck and OConnor  
-\-Sex determination and inbreeding depression in an ant with regular
+-Sex determination and inbreeding depression in an ant with regular
 sib-mating; Schrempf and Heinze  
-\-Symbiotic relationships between pseudoscorpions and packrats
+-Symbiotic relationships between pseudoscorpions and packrats
 (Rodentia); Francke and Villegas-Guzmán  
-\-A review of the biology of species in the genus Melittobia
+-A review of the biology of species in the genus Melittobia
 (Hymenoptera: Eulophidae) with interpretations and additions using
 observations on Melittobia australica; Dahms EC  
-\-Extremely female-biased sex ratio and lethal male-male combat in a
+-Extremely female-biased sex ratio and lethal male-male combat in a
 parasitoid wasp, Melittobia australica (Eulophidae) Abe, Kamimura,
 Kondo, Shimada  
-\-Alternative mating tactics and fatal fighting in male fig wasps;
-Cook  
-\-Wingless and fighting males in fig wasps and other insects; Hamilton  
-\-Females reward courtship by competing males in a cannibalistic spider;
+-Alternative mating tactics and fatal fighting in male fig wasps; Cook  
+-Wingless and fighting males in fig wasps and other insects; Hamilton  
+-Females reward courtship by competing males in a cannibalistic spider;
 Stoltz, Elias and Andrade  
-\-Asymmetry in male lethal fight between parapatric forms of a social
+-Asymmetry in male lethal fight between parapatric forms of a social
 spider mite; Sato, Sabelis and Mochizuki  
-\-Risks and benefits of lethal male fighting in the colonial, polygynous
+-Risks and benefits of lethal male fighting in the colonial, polygynous
 thrips Hoplothrips karnyi (Insecta: Thysanoptera); Crespi  
-\-Phenotypically plastic traits regulate caste formation and soldier
+-Phenotypically plastic traits regulate caste formation and soldier
 function in polyembryonic wasps; Smith, Milton, and Strand  
-\-Do plant populations purge their genetic load? Effects of population
+-Do plant populations purge their genetic load? Effects of population
 size and mating history on inbreeding depression; Byers and Waller  
-\-Inbreeding depression and haplodiploidy: experimental measures in a
+-Inbreeding depression and haplodiploidy: experimental measures in a
 parasitoid and comparisons across diploid and haplodiploid insect taxa;
 Henter
+

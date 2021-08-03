@@ -1,7 +1,11 @@
 +++
 title = "The fire hymns of the Mongols"
+date = "2005-10-23"
+upstream_url = "https://manasataramgini.wordpress.com/2005/10/23/the-fire-hymns-of-the-mongols/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/10/23/the-fire-hymns-of-the-mongols/).
+
 The fire worship of the Hindus is an ancient Indo-European trait that
 was clearly amplified in the Indo-Iranian branch. The primary fire
 priests of the Indo-Aryans are the bhR^igus and and a\~Ngirasas who are
@@ -19,8 +23,8 @@ sAmidhenI hymns (pra vo vAja …) the pravara of the yajamAna and his
 founding fathers are recited. Then even as the adhvaryu pours a libation
 of ghee in the fire even as the hotar chants:
 
-agne mahan asi brAhmaNa bhArata | bhArgava chyAvanApanavAnaurva
-jAmadagnya ||  
+agne mahan asi brAhmaNa bhArata \| bhArgava chyAvanApanavAnaurva
+jAmadagnya \|\|  
 agni, you are great and possessing the brahman power, you are of the
 bhAratas; you are of bhR^igu, chyavAna, apanavAna, aurva and jamadagni.
 
@@ -34,11 +38,11 @@ subheShaja hymn or the hymn refering to the first knowers of medicine
 (beShajAni) or the bhaiShajya veda (the Atharvan) . Only a fragment of
 this hymn is remembered by modern oral tradition:  
 dhruvam agnir no dUto rodasI havyavAD  
-devAN A vakShad adhvare |  
+devAN A vakShad adhvare \|  
 vipro dUtaH pariShkR^ito  
-yakShash cha yaj\~niyaH kaviH |  
+yakShash cha yaj\~niyaH kaviH \|  
 apnavAnavad aurvavad  
-bhR^iguvaj jamadagnivad chyavAnavat ||
+bhR^iguvaj jamadagnivad chyavAnavat \|\|
 
 Truely agni is our messenger, the heavenward oblation-bearer,  
 may he bring here the devas to the sacrifice,  
@@ -87,3 +91,4 @@ the fire.
 
 \[1\] Principal wife of Chingiz Khan; \[2\] father of Chingiz Khan;
 \[3\] mother of Chingiz.
+

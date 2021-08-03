@@ -1,7 +1,11 @@
 +++
 title = "Possession by gaNapati"
+date = "2004-01-04"
+upstream_url = "https://manasataramgini.wordpress.com/2004/01/04/possession-by-ganapati/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/01/04/possession-by-ganapati/).
+
 The sUta asked “O great kshatriya narrate to me the effects of
 displeasing the the fierce god gaNapati.”
 
@@ -44,3 +48,4 @@ rite”
 “we invoke rudra, vighna, skanda and their awful agents and humbly
 beseech them to keep their missiles and agents away from us instead send
 them over to those who hate us or we hate.”
+

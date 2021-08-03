@@ -1,8 +1,11 @@
 +++
-title = "On the stotra of the eight names of Gaṇeśa  by Viṣnu from the Brahmavaivartaxa0Purāṇa"
+title = "On the stotra of the eight names of Gaṇeśa  by Viṣnu from the Brahmavaivarta Purāṇa"
 date = "2020-06-23"
+upstream_url = "https://padmavajra.net/2020/06/23/on-the-stotra-of-the-eight-names-of-ga%e1%b9%87esa-by-vi%e1%b9%a3nu-from-the-brahmavaivarta-pura%e1%b9%87a/"
 
 +++
+Source: [here](https://padmavajra.net/2020/06/23/on-the-stotra-of-the-eight-names-of-ga%e1%b9%87esa-by-vi%e1%b9%a3nu-from-the-brahmavaivarta-pura%e1%b9%87a/).
+
 <https://sanskritdocuments.org/doc_ganesha/gaNeshAShTakamviShNuBVP.html>
 the text of the stotra is at the Sanskrit Dcouments website,I am
 translating it here.

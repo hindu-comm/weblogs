@@ -1,7 +1,11 @@
 +++
 title = "Skin color of Indians (and others)"
+date = "2007-09-11"
+upstream_url = "https://manasataramgini.wordpress.com/2007/09/11/skin-color-of-indians-and-others/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/09/11/skin-color-of-indians-and-others/).
+
 Indians more than any other ethnic group are aware of the dramatic
 variation in their skin color. This may be seen right in the same family
 (especially in brahmin households from the southern part of the
@@ -63,12 +67,12 @@ throughout vertebrates.
 
 The main results of the studies on Indian skin color genetics are thus:
 
-\-3 genes account for a major component of color variation amongst
+-3 genes account for a major component of color variation amongst
 Indians:  
 SLC24A5 (ortholog of zebrafish golden), TYR (ortholog of mouse Albino
 gene) and SLC45A2 (ortholog of mouse Underwhite).
 
-\-These genes are also been implicated in color variation between
+-These genes are also been implicated in color variation between
 Europeans and Africans. Light skin in Europeans and dark skin in
 Africans is due to alternate alleles in the same genes. At least some of
 the same alleles responsible for this color difference between Europeans
@@ -77,7 +81,7 @@ allelic gradient from north to south in Europe. It might similarly be
 different in distribution between north and south Indians, with decrease
 in frequency in South India.
 
-\-While the above allelic variation responsible for skin color variation
+-While the above allelic variation responsible for skin color variation
 in Indians is as seen in Europeans and Central Asians it does not match
 the situation in Asians (people from East like Chinese Japanese Koreans
 etc). Here different set of genes appear to have convergently given rise
@@ -161,3 +165,4 @@ Renee P. Stokowski, P.V. Krishna Pant, Tony Dadd, Amelia Fereday, David
 A. Hinds, Carl Jarman, Wendy Filsell, Rebecca S. Ginger, Martin R.
 Green, Frans J. van der Ouderaa, David R. Cox  
 The American Journal of Human Genetics in press
+

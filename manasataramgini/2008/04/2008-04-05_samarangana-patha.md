@@ -1,7 +1,11 @@
 +++
 title = "samarA~NgaNa patha"
+date = "2008-04-05"
+upstream_url = "https://manasataramgini.wordpress.com/2008/04/05/samarangana-patha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/04/05/samarangana-patha/).
+
 Our ari-s kept up the incessant attacks on us. Now the ari-s sent their
 praNidhi-s to watch on us and intercepted some crucial intelligence as
 we were checking some fortifications – same ones we tested during the
@@ -38,3 +42,4 @@ to attack \*both\* the kosha-s. We secured the fort on south and created
 the path to it. We had to now defend that path against the direct
 khANDavan assault as well as sabotage on the supply line.  
 O skanda may the dear friends attain their gati: viparItArtha.
+

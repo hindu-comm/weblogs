@@ -1,7 +1,11 @@
 +++
 title = "Cows, horses, sheep and goats"
+date = "2019-03-08"
+upstream_url = "https://manasataramgini.wordpress.com/2019/03/08/cows-horses-sheep-and-goats/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2019/03/08/cows-horses-sheep-and-goats/).
+
 It goes without saying that humans are what they are today because of
 cows, horses, sheep and goats. Hindu civilization in particular is in
 the very least the product for the first two, while remaining two
@@ -22,26 +26,23 @@ Table 1. The latest UN FAOSTAT population data
 ![\\begin{tabular}{lr} \\hline Animal & Population \\\\ \\hline Cows &
 1491687240 \\\\ Sheep & 1202430935 \\\\ Goats & 1034406504 \\\\ Horses &
 60566601 \\\\ \\hline
-\\end{tabular}](https://s0.wp.com/latex.php?latex=%5Cbegin%7Btabular%7D%7Blr%7D+%5Chline+Animal+%26+Population+%5C%5C+%5Chline+Cows+%26+1491687240+%5C%5C+Sheep+%26+1202430935+%5C%5C+Goats+%26+1034406504+%5C%5C+Horses+%26+60566601+%5C%5C+%5Chline+%5Cend%7Btabular%7D&bg=ffffff&fg=333333&s=0
-"\\begin{tabular}{lr} \\hline Animal & Population \\\\ \\hline Cows & 1491687240 \\\\ Sheep & 1202430935 \\\\ Goats & 1034406504 \\\\ Horses & 60566601 \\\\ \\hline \\end{tabular}")
+\\end{tabular}](https://s0.wp.com/latex.php?latex=%5Cbegin%7Btabular%7D%7Blr%7D+%5Chline+Animal+%26+Population+%5C%5C+%5Chline+Cows+%26+1491687240+%5C%5C+Sheep+%26+1202430935+%5C%5C+Goats+%26+1034406504+%5C%5C+Horses+%26+60566601+%5C%5C+%5Chline+%5Cend%7Btabular%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 
 We first plot the populations of each pair of these four animals for all
 countries that possess both of them using the
-![\\log\_{10}](https://s0.wp.com/latex.php?latex=%5Clog_%7B10%7D&bg=ffffff&fg=333333&s=0
-"\\log_{10}") scale (Figure 1) and tabulate the correlations between
-them in Table 2.
+![\\log\_{10}](https://s0.wp.com/latex.php?latex=%5Clog_%7B10%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+scale (Figure 1) and tabulate the correlations between them in Table 2.
 
-[![Livestock\_correlations](https://manasataramgini.files.wordpress.com/2019/03/livestock_correlations.png?w=640)](https://manasataramgini.files.wordpress.com/2019/03/livestock_correlations.png)Figure
+[![Livestock_correlations](https://manasataramgini.files.wordpress.com/2019/03/livestock_correlations.png?w=640)](https://manasataramgini.files.wordpress.com/2019/03/livestock_correlations.png)Figure
 1
 
 Table 2. The Pearson correlations between life stock on the
-![\\log\_{10}](https://s0.wp.com/latex.php?latex=%5Clog_%7B10%7D&bg=ffffff&fg=333333&s=0
-"\\log_{10}") scale  
+![\\log\_{10}](https://s0.wp.com/latex.php?latex=%5Clog_%7B10%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+scale  
 ![\\begin{tabular}{rrrrr} \\hline & Cows & Horses & Goats & Sheep \\\\
 \\hline Cows & 1.00 & & & \\\\ Horses & 0.85 & 1.00 & & \\\\ Goats &
 0.81 & 0.66 & 1.00 & \\\\ Sheep & 0.80 & 0.72 & 0.83 & 1.00 \\\\ \\hline
-\\end{tabular}](https://s0.wp.com/latex.php?latex=%5Cbegin%7Btabular%7D%7Brrrrr%7D+%5Chline+%26+Cows+%26+Horses+%26+Goats+%26+Sheep+%5C%5C+%5Chline+Cows+%26+1.00+%26+%26+%26+%5C%5C+Horses+%26+0.85+%26+1.00+%26+%26+%5C%5C+Goats+%26+0.81+%26+0.66+%26+1.00+%26+%5C%5C+Sheep+%26+0.80+%26+0.72+%26+0.83+%26+1.00+%5C%5C+%5Chline+%5Cend%7Btabular%7D&bg=ffffff&fg=333333&s=0
-"\\begin{tabular}{rrrrr} \\hline & Cows & Horses & Goats & Sheep \\\\ \\hline Cows & 1.00 & & & \\\\ Horses & 0.85 & 1.00 & & \\\\ Goats & 0.81 & 0.66 & 1.00 & \\\\ Sheep & 0.80 & 0.72 & 0.83 & 1.00 \\\\ \\hline \\end{tabular}")
+\\end{tabular}](https://s0.wp.com/latex.php?latex=%5Cbegin%7Btabular%7D%7Brrrrr%7D+%5Chline+%26+Cows+%26+Horses+%26+Goats+%26+Sheep+%5C%5C+%5Chline+Cows+%26+1.00+%26+%26+%26+%5C%5C+Horses+%26+0.85+%26+1.00+%26+%26+%5C%5C+Goats+%26+0.81+%26+0.66+%26+1.00+%26+%5C%5C+Sheep+%26+0.80+%26+0.72+%26+0.83+%26+1.00+%5C%5C+%5Chline+%5Cend%7Btabular%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 
 The populations of the horses and cows are the most correlated pairs.
 The sheep and goats are the next most correlated. Thus, animals of
@@ -50,7 +51,7 @@ horse-cow pair is also the primary pair of the old Indo-European
 pastoralism. It is possible there is a historical echo of the
 Indo-European conquests that made this pair a widely adopted unit.
 
-[![Livestock\_ratios](https://manasataramgini.files.wordpress.com/2019/03/livestock_ratios.png?w=640)](https://manasataramgini.files.wordpress.com/2019/03/livestock_ratios.png)Figure
+[![Livestock_ratios](https://manasataramgini.files.wordpress.com/2019/03/livestock_ratios.png?w=640)](https://manasataramgini.files.wordpress.com/2019/03/livestock_ratios.png)Figure
 2
 
 We then looked at the distributions of the ratios for these six pairs
@@ -88,7 +89,7 @@ originally goats and horses defined very different pastoralist niches.
 The effects of this ancient niche distinct appears to persist to this
 date.
 
-[![Livestock\_Pop\_change](https://manasataramgini.files.wordpress.com/2019/03/livestock_pop_change.png?w=640)](https://manasataramgini.files.wordpress.com/2019/03/livestock_pop_change.png)Figure
+[![Livestock_Pop_change](https://manasataramgini.files.wordpress.com/2019/03/livestock_pop_change.png?w=640)](https://manasataramgini.files.wordpress.com/2019/03/livestock_pop_change.png)Figure
 3. India (blue), Mongolia (green), world (black)
 
 The above are based on the latest population statistics but one can also
@@ -98,31 +99,31 @@ look at population change in this period is fraction of population
 change with respect to the start and end of this period. This can be
 assessed using the formula:
 
-![f\_{pc}=\\dfrac{2(p\_f-p\_i)}{p\_f+p\_i}](https://s0.wp.com/latex.php?latex=f_%7Bpc%7D%3D%5Cdfrac%7B2%28p_f-p_i%29%7D%7Bp_f%2Bp_i%7D&bg=ffffff&fg=333333&s=0
-"f_{pc}=\\dfrac{2(p_f-p_i)}{p_f+p_i}")
+![f\_{pc}=\\dfrac{2(p_f-p_i)}{p_f+p_i}](https://s0.wp.com/latex.php?latex=f_%7Bpc%7D%3D%5Cdfrac%7B2%28p_f-p_i%29%7D%7Bp_f%2Bp_i%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 
 Here
-![f\_{pc}](https://s0.wp.com/latex.php?latex=f_%7Bpc%7D&bg=ffffff&fg=333333&s=0
-"f_{pc}") is the fraction of population change,
-![p\_i](https://s0.wp.com/latex.php?latex=p_i&bg=ffffff&fg=333333&s=0
-"p_i") the initial population and
-![p\_f](https://s0.wp.com/latex.php?latex=p_f&bg=ffffff&fg=333333&s=0
-"p_f") the final population. The distribution of
-![f\_{pc}](https://s0.wp.com/latex.php?latex=f_%7Bpc%7D&bg=ffffff&fg=333333&s=0
-"f_{pc}") for the four animals is plotted in Figure 3. Except for horses
-which have shown a slight decline, the populations of the other animals
-have shown growth world-wide. One sees that, except for sheep, the
-![f\_{pc}](https://s0.wp.com/latex.php?latex=f_%7Bpc%7D&bg=ffffff&fg=333333&s=0
-"f_{pc}") for India is lower than for the world for the remaining
-animals. In contrast, for Mongolia it is higher than for the world
-define a truly pastoralist nation. The Indian horse populations have
-shown a notable decline in this period.
+![f\_{pc}](https://s0.wp.com/latex.php?latex=f_%7Bpc%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+is the fraction of population change,
+![p_i](https://s0.wp.com/latex.php?latex=p_i&bg=ffffff&fg=333333&s=0&c=20201002)
+the initial population and
+![p_f](https://s0.wp.com/latex.php?latex=p_f&bg=ffffff&fg=333333&s=0&c=20201002)
+the final population. The distribution of
+![f\_{pc}](https://s0.wp.com/latex.php?latex=f_%7Bpc%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+for the four animals is plotted in Figure 3. Except for horses which
+have shown a slight decline, the populations of the other animals have
+shown growth world-wide. One sees that, except for sheep, the
+![f\_{pc}](https://s0.wp.com/latex.php?latex=f_%7Bpc%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+for India is lower than for the world for the remaining animals. In
+contrast, for Mongolia it is higher than for the world define a truly
+pastoralist nation. The Indian horse populations have shown a notable
+decline in this period.
 
-[![Livestock\_dynamics](https://manasataramgini.files.wordpress.com/2019/03/livestock_dynamics.png?w=640)](https://manasataramgini.files.wordpress.com/2019/03/livestock_dynamics.png)Figure
-4. ![y](https://s0.wp.com/latex.php?latex=y&bg=ffffff&fg=333333&s=0
-"y")-axis in
-![\\log\_{10}](https://s0.wp.com/latex.php?latex=%5Clog_%7B10%7D&bg=ffffff&fg=333333&s=0
-"\\log_{10}") scale.
+[![Livestock_dynamics](https://manasataramgini.files.wordpress.com/2019/03/livestock_dynamics.png?w=640)](https://manasataramgini.files.wordpress.com/2019/03/livestock_dynamics.png)Figure
+4.
+![y](https://s0.wp.com/latex.php?latex=y&bg=ffffff&fg=333333&s=0&c=20201002)-axis
+in
+![\\log\_{10}](https://s0.wp.com/latex.php?latex=%5Clog_%7B10%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+scale.
 
 This measure only gives a coarse view of the population change. Hence,
 we looked at the absolute population change for 3 nations (Mongolia,

@@ -1,8 +1,11 @@
 +++
-title = "The Cyclopes And The Ribhus Elves – Solar Smiths of the Skyxa0Father"
-date = "August 27, 2020"
+title = "The Cyclopes And The Ribhus Elves – Solar Smiths of the Sky Father"
+date = "2020-08-27"
+upstream_url = "https://aryaakasha.com/2020/08/27/the-cyclopes-and-the-ribhus-elves-solar-smiths-of-the-sky-father/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/08/27/the-cyclopes-and-the-ribhus-elves-solar-smiths-of-the-sky-father/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/08/hephaestus_and_cyclopes_forging_the_shield_of_achilles_marble.jpg?w=600)
 
 One of the most iconic creatures from Greek mythology must surely be the

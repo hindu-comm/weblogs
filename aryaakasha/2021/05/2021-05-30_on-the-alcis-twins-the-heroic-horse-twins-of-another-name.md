@@ -1,8 +1,11 @@
 +++
-title = "On The Alcis Twins – The Heroic Horse-Twins Of Anotherxa0Name"
-date = "May 30, 2021"
+title = "On The Alcis Twins – The Heroic Horse-Twins Of Another Name"
+date = "2021-05-30"
+upstream_url = "https://aryaakasha.com/2021/05/30/on-the-alcis-twins-the-heroic-horse-twins-of-another-name/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/05/30/on-the-alcis-twins-the-heroic-horse-twins-of-another-name/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/05/castor_pollux_vichot1.jpg?w=768)
 
 Our field is one wherein so often, we find fundamental contiguity of

@@ -1,7 +1,11 @@
 +++
 title = "The great faceless man"
+date = "2017-01-29"
+upstream_url = "https://manasataramgini.wordpress.com/2017/01/29/the-great-faceless-man/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2017/01/29/the-great-faceless-man/).
+
 In the late Yajurvaidika upaniṣat, the Śvetāśvatara, which is the
 foundational text of the śaiva-śāsana, the god Rudra is described thus:
 
@@ -19,29 +23,29 @@ heroes, like Rāma Aikṣvākava, whose name might be almost taken daily in
 some of our households, we have some kind of a description in the
 opening of the Rāmāyaṇa:
 
-ikṣvāku-vaṃśa-prabhavo rāmo nāma janaiḥ śrutaḥ |  
-niyatātmā mahāvīryo dyutimān dhṛtimān vaśī ||
+ikṣvāku-vaṃśa-prabhavo rāmo nāma janaiḥ śrutaḥ \|  
+niyatātmā mahāvīryo dyutimān dhṛtimān vaśī \|\|
 
 Born in the Ikṣvāku clan, he is known among men by the name of Rāma. He
 is self-controlled, of great manliness, radiant, resolute, and has his
 senses under control.
 
-buddhimān nītimān vāgmī śrīmāñ śatru-nibarhaṇaḥ |  
-vipulāṃso mahābāhuḥ kambugrīvo mahāhanuḥ ||
+buddhimān nītimān vāgmī śrīmāñ śatru-nibarhaṇaḥ \|  
+vipulāṃso mahābāhuḥ kambugrīvo mahāhanuḥ \|\|
 
 He is intelligent, politically astute, eloquent, opulent, and an
 extirpator of foes. He is broad-shouldered, of mighty arms, with a
 conch-like neck, and strong-jawed.
 
-mahorasko maheṣvāso gūḍhajatrur ariṃdamaḥ |  
-ājānubāhuḥ suśirāḥ sulalāṭaḥ suvikramaḥ ||
+mahorasko maheṣvāso gūḍhajatrur ariṃdamaḥ \|  
+ājānubāhuḥ suśirāḥ sulalāṭaḥ suvikramaḥ \|\|
 
 His chest is broad, he is a great archer, his collar-bones are
 well-concealed, and is a suppressor of foes. With arms reaching up to
 his knees, with a good head, shapely forehead and good gait.
 
-samaḥ sama-vibhaktāṅgaḥ snigdha-varṇaḥ pratāpavān |  
-pīnavakṣā viśālākṣo lakṣmīvāñ śubha-lakṣaṇaḥ || 1.1.8-11
+samaḥ sama-vibhaktāṅgaḥ snigdha-varṇaḥ pratāpavān \|  
+pīnavakṣā viśālākṣo lakṣmīvāñ śubha-lakṣaṇaḥ \|\| 1.1.8-11
 
 His body is well-proportioned, he is of smooth complexion and mighty.
 His chest is rounded, his eyes large, he is prosperous and with
@@ -50,12 +54,12 @@ auspicious marks.
 Similar accounts might be found elsewhere in the Rāmāyaṇa too. One thing
 which comes out of this account is that it is fairly generic for a
 mighty kṣatriya except for one specific, unusual feature namely
-“ājānubāhuḥ” – i.e. that his arms reached down to his knees, which
-might have been a peculiar characteristic of the man himself. Thus,
-while one can build a generic image of emperor Rāma as a mighty
-kṣatriya, we can still say we do not know how he \*exactly\* looked.
-Now, this is in part keeping with a the broader issue we have discussed
-earlier, [namely the iconic depictions of deities among the early
+“ājānubāhuḥ” – i.e. that his arms reached down to his knees, which might
+have been a peculiar characteristic of the man himself. Thus, while one
+can build a generic image of emperor Rāma as a mighty kṣatriya, we can
+still say we do not know how he \*exactly\* looked. Now, this is in part
+keeping with a the broader issue we have discussed earlier, [namely the
+iconic depictions of deities among the early
 Hindus](https://manasataramgini.wordpress.com/2008/02/23/early-temples-and-iconic-worship/).
 As we argued before such existed but were not prominent and were perhaps
 “primitive” keeping with the archaeological evidence from several early
@@ -137,8 +141,8 @@ extraordinary śaiva and vaiṣṇava devotees, and siddha-s were also
 prominent objects of whole-body portraits. Statues of such were once
 common throughout India but have been mostly damaged or demolished in
 the north. Thus, in south India we can still see statues of emperor
-Kṛśṇadeva or Govinda Dīkṣita but we do not have the original image
-of the great Bhoja-deva or Lalitāditya.
+Kṛśṇadeva or Govinda Dīkṣita but we do not have the original image of
+the great Bhoja-deva or Lalitāditya.
 
 Yet, despite all of this, on the whole the the majority of our great
 figures have not survived in portraiture, perhaps indicating a real
@@ -197,3 +201,4 @@ words than his portraits to linger on after Vaivasvata takes him away –
 indeed what use is it to be like the mysterious brāhmaṇa from what is
 today Afghanistan, the fragment of whose portrait is placed for auction
 in a mleccha market.
+

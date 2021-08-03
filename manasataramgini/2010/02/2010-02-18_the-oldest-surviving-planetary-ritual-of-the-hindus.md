@@ -1,7 +1,11 @@
 +++
 title = "The oldest surviving planetary ritual of the Hindus"
+date = "2010-02-18"
+upstream_url = "https://manasataramgini.wordpress.com/2010/02/18/the-oldest-surviving-planetary-ritual-of-the-hindus/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/02/18/the-oldest-surviving-planetary-ritual-of-the-hindus/).
+
 Certain white Indologists and their Japanese imitators have often held
 the dishonest view that Hindus were unaware of planets until the
 yavana-s informed them of their existence in the sky. This view was
@@ -27,7 +31,7 @@ bhaumAyaikakapAlaM yashas tena parikrINAti saurAya palalamishraM ghR^ite
 charuM surabhiM tena parikrINAti chandramase pa\~nchadasha kapAlaM Ayus
 tena parikrINAti rAhave charum abhayaM tena parikrINAti ketave charum
 anaparodhaM tena parikrINAty etAny eva sarvANi bhavati ya evaM vidvAn
-etayA yajeta|  
+etayA yajeta\|  
 AjyenopahomA\~n juhoty AshiSh Am avaruddhyA etayA yajeta yaH kAmayeta
 tejasvI bhrAjasvI vAkpatir buddhimAn yashasvI surabhir AyuShmAn
 abhayyanaparodhI syAm ity ekachakram udayAd bhrAjamAnam ity aShTAdasha
@@ -35,27 +39,28 @@ yAjyAnuvAkyA bhavanti sarUpatvAyAgnir hiraNyaM somo hiraNyam ity
 AjyabhAgau preddho agna imo agna iti saM yAjye uchchair yajaty eShA vai
 vAchAm uttamA yochchair uttamaH samAnAnAM bhavaty Adityas tejasvIty
 upahoma\~n juhoti sarvasyAptyai sarvasyAvaruddhyai ya evaM vidvAn etayA
-yajeta||
+yajeta\|\|
 
 **graheShTi mantra-s**
 
-adityas tejasvIty upahomA\~n juhoti|  
-Adityas tejasvI tejo asmin yaj\~ne yajamAne dadhAtu||1||  
-shukro bhrAjasvI bhrAjo asmin yaj\~ne yajamAne dadhAtu||2||  
-bR^ihaspatir vAkpatir vAcho asmin yaj\~ne yajamAne dadhAtu||3||  
-budho buddhimAn buddhim asmin yaj\~ne yajamAne dadhAtu||4||  
-arko yashasvI yasho asmin yaj\~ne yajamAne dadhAtu||5||  
-sauraH surabhiH surabhim asmin yaj\~ne yajamAne dadhAtu||6||  
-chandramA AyuShmAn Ayur asmin yaj\~ne yajamAne dadhAtu||7||  
-rAhur abhayam abhayam asmin yaj\~ne yajamAne dadhAtu||8||  
-ketur anaparodhy anaparodham asmin yaj\~ne yajamAne dadhAtu||9||  
-dhruvo dhairyavAn dhairyam asmin yaj\~ne yajamAne dadhAtu||10||  
-agastyo vIryavAn vIryam asmin yaj\~ne yajamAne dadhAtu||11||  
-preddho agne dIdihi puro no yatra devAH pUrve purANAH ||  
+adityas tejasvIty upahomA\~n juhoti\|  
+Adityas tejasvI tejo asmin yaj\~ne yajamAne dadhAtu\|\|1\|\|  
+shukro bhrAjasvI bhrAjo asmin yaj\~ne yajamAne dadhAtu\|\|2\|\|  
+bR^ihaspatir vAkpatir vAcho asmin yaj\~ne yajamAne dadhAtu\|\|3\|\|  
+budho buddhimAn buddhim asmin yaj\~ne yajamAne dadhAtu\|\|4\|\|  
+arko yashasvI yasho asmin yaj\~ne yajamAne dadhAtu\|\|5\|\|  
+sauraH surabhiH surabhim asmin yaj\~ne yajamAne dadhAtu\|\|6\|\|  
+chandramA AyuShmAn Ayur asmin yaj\~ne yajamAne dadhAtu\|\|7\|\|  
+rAhur abhayam abhayam asmin yaj\~ne yajamAne dadhAtu\|\|8\|\|  
+ketur anaparodhy anaparodham asmin yaj\~ne yajamAne dadhAtu\|\|9\|\|  
+dhruvo dhairyavAn dhairyam asmin yaj\~ne yajamAne dadhAtu\|\|10\|\|  
+agastyo vIryavAn vIryam asmin yaj\~ne yajamAne dadhAtu\|\|11\|\|  
+preddho agne dIdihi puro no yatra devAH pUrve purANAH \|\|  
 yatrAsau vaishvAnaraH stokAtithis tatremaM yaj\~naM yajamAnaM cha
-dhehi||1||  
-imo agne vItatamAni havyA predaM haviH prAShTremAn stokAn|  
-stokAtithiH stokajUtiH patatry athA hy agne amR^itatvaM cha dhehi||2||
+dhehi\|\|1\|\|  
+imo agne vItatamAni havyA predaM haviH prAShTremAn stokAn\|  
+stokAtithiH stokajUtiH patatry athA hy agne amR^itatvaM cha
+dhehi\|\|2\|\|
 
 The above ritual is of interest because it provides an important link in
 the evolution of planet related rituals in the vedic system. To
@@ -162,8 +167,8 @@ than the sun. Indeed, I suspect that this is the case in certain RV
 mantra-s. Most likely candidates are the references found in the sUkta-s
 to bR^ihaspati in the maNDala 10 by the R^iShi ayAsya A\~ngirasa. In
 RV10.67.5 we encounter:  
-vibhidyA puraM shayAthem apAchIM nis trINi sAkam udadher akR^intat |  
-bR^ihaspatir uShasaM sUryaM gAm arkaM viveda stanayann iva dyauH ||  
+vibhidyA puraM shayAthem apAchIM nis trINi sAkam udadher akR^intat \|  
+bR^ihaspatir uShasaM sUryaM gAm arkaM viveda stanayann iva dyauH \|\|  
 Here bR^ihapati is described as splitting the fort and the “sleeping
 places” in the west (of vala) as he cut off three joints of the “water
 holder”. Doing this and roaring like dyaus bR^ihaspati “discovered”
@@ -176,11 +181,12 @@ us in this context is that it clearly distinguish arka from sUrya, thus
 indicating that arka is not the sun, but could be Mars, who is named
 thus in the graheShTi. This gets further support in a R^ik in the
 subsequent sUkta also to bR^ihaspati:  
-ApruShAyan madhuna R^itasya yonim avakShipann arka ulkAm iva dyoH |  
-bR^ihaspatir uddharann ashmano gA bhUmyA udneva vitvachaM bibheda ||  
+ApruShAyan madhuna R^itasya yonim avakShipann arka ulkAm iva dyoH \|  
+bR^ihaspatir uddharann ashmano gA bhUmyA udneva vitvachaM bibheda \|\|  
 While there are obscure elements in this R^ik too, it is said that
 bR^ihaspati drew out the cows from the rock and split the earth like the
 skin of a cloud even as arka hurled down a meteor and showered the
 source of the R^ita with honey. This meteor fall refers to the night sky
 and not the day sky of the sun supporting the identification of arka in
 this context as Mars.
+

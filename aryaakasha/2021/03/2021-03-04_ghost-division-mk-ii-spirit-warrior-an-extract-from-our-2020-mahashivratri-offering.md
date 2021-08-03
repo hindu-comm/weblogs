@@ -1,8 +1,11 @@
 +++
-title = "Ghost Division Mk.II – Spirit Warrior [An Extract From Our 2020 MahaShivRatrixa0Offering]"
-date = "March 4, 2021"
+title = "Ghost Division Mk.II – Spirit Warrior [An Extract From Our 2020 MahaShivRatri Offering]"
+date = "2021-03-04"
+upstream_url = "https://aryaakasha.com/2021/03/04/ghost-division-mk-ii-spirit-warrior-an-extract-from-our-2020-mahashivratri-offering/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/03/04/ghost-division-mk-ii-spirit-warrior-an-extract-from-our-2020-mahashivratri-offering/).
+
 
 
 ![](https://aryaakasha.files.wordpress.com/2020/03/anita-chaudhary-myt-red-astradhari-fire-5-1.jpg)

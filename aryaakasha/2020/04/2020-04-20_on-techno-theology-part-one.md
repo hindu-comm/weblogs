@@ -1,8 +1,11 @@
 +++
-title = "ON TECHNO-THEOLOGY PARTxa0ONE"
-date = "April 20, 2020"
+title = "ON TECHNO-THEOLOGY PART ONE"
+date = "2020-04-20"
+upstream_url = "https://aryaakasha.com/2020/04/20/on-techno-theology-part-one/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/04/20/on-techno-theology-part-one/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/04/511505885a434c28edd0718b489e5821.jpg?w=741)
 
 Something I have been working a bit upon over the last few months, are

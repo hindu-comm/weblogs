@@ -1,7 +1,11 @@
 +++
 title = "The cardioid and the arbelos: the scimitar and the axe"
+date = "2016-03-19"
+upstream_url = "https://manasataramgini.wordpress.com/2016/03/19/the-cardioid-and-the-arbelos-the-scimitar-and-the-axe/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2016/03/19/the-cardioid-and-the-arbelos-the-scimitar-and-the-axe/).
+
 *The arbelos of Archimedes,*  
 *an object most wondrous;*  
 *it brought pleasure to us,*  
@@ -69,61 +73,54 @@ area of that circle which has radius equal to the tangent segment. Thus,
 the Mamikon theorem also implies the bhujā-koṭi-karṇa nyāya (known in
 the west as the Pythagoras theorem).
 
-![pythagoras\_Mamikon](https://manasataramgini.files.wordpress.com/2016/03/pythagoras_mamikon.png?w=640)
+![pythagoras_Mamikon](https://manasataramgini.files.wordpress.com/2016/03/pythagoras_mamikon.png?w=640)
 
 This method of Mamikon can now be used to determine the area of the
 cardioid. As can be seen from the below construction:
 
-![limacon\_mamikon](https://manasataramgini.files.wordpress.com/2016/03/limacon_mamikon.png?w=640)  
+![limacon_mamikon](https://manasataramgini.files.wordpress.com/2016/03/limacon_mamikon.png?w=640)  
 [Link to dynamic version](https://www.geogebra.org/apps/?id=kTQJUVed)
 
 1\) The sweep of the tangent segments of the generating circle c as
 formed by the intersection with their feet (i.e. perpendiculars dropped
 to them from the point P) defines the cardioid.  
-2\) Now by transforming the tangent segments into a tangent cluster we
+2) Now by transforming the tangent segments into a tangent cluster we
 get locus
-![c\_1](https://s0.wp.com/latex.php?latex=c_1&bg=ffffff&fg=333333&s=0
-"c_1").  
-3\) By definition of foot of tangent ![\\angle PCB' =
-90^\\circ](https://s0.wp.com/latex.php?latex=%5Cangle+PCB%27+%3D+90%5E%5Ccirc&bg=ffffff&fg=333333&s=0
-"\\angle PCB' = 90^\\circ"); ![\\therefore \\angle PCB' = \\angle PDA =
-90^\\circ](https://s0.wp.com/latex.php?latex=%5Ctherefore+%5Cangle+PCB%27+%3D+%5Cangle+PDA+%3D+90%5E%5Ccirc&bg=ffffff&fg=333333&s=0
-"\\therefore \\angle PCB' = \\angle PDA = 90^\\circ").  
-4\) ![\\therefore \\stackrel
-\\frown{ADP}](https://s0.wp.com/latex.php?latex=%5Ctherefore+%5Cstackrel+%5Cfrown%7BADP%7D&bg=ffffff&fg=333333&s=0
-"\\therefore \\stackrel \\frown{ADP}") should be a semicircle and locus
-![c\_1](https://s0.wp.com/latex.php?latex=c_1&bg=ffffff&fg=333333&s=0
-"c_1") a circle.  
-5\) Thus by Mamikon’s theorem the area of the claw of the cardioid
+![c_1](https://s0.wp.com/latex.php?latex=c_1&bg=ffffff&fg=333333&s=0&c=20201002).  
+3) By definition of foot of tangent ![\\angle PCB' =
+90^\\circ](https://s0.wp.com/latex.php?latex=%5Cangle+PCB%27+%3D+90%5E%5Ccirc&bg=ffffff&fg=333333&s=0&c=20201002);
+![\\therefore \\angle PCB' = \\angle PDA =
+90^\\circ](https://s0.wp.com/latex.php?latex=%5Ctherefore+%5Cangle+PCB%27+%3D+%5Cangle+PDA+%3D+90%5E%5Ccirc&bg=ffffff&fg=333333&s=0&c=20201002).  
+4) ![\\therefore \\stackrel
+\\frown{ADP}](https://s0.wp.com/latex.php?latex=%5Ctherefore+%5Cstackrel+%5Cfrown%7BADP%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+should be a semicircle and locus
+![c_1](https://s0.wp.com/latex.php?latex=c_1&bg=ffffff&fg=333333&s=0&c=20201002)
+a circle.  
+5) Thus by Mamikon’s theorem the area of the claw of the cardioid
 PCP’B’= area of circle
-![c\_1](https://s0.wp.com/latex.php?latex=c_1&bg=ffffff&fg=333333&s=0
-"c_1")  
-6\) We can see from the construction that the longest tangent segment,
+![c_1](https://s0.wp.com/latex.php?latex=c_1&bg=ffffff&fg=333333&s=0&c=20201002)  
+6) We can see from the construction that the longest tangent segment,
 i.e. diameter of circle
-![c\_1](https://s0.wp.com/latex.php?latex=c_1&bg=ffffff&fg=333333&s=0
-"c_1"), is equal in length to the radius of circle c. Thus , we get
-![Rc\_1=
-\\frac{1}{2}Rc](https://s0.wp.com/latex.php?latex=Rc_1%3D+%5Cfrac%7B1%7D%7B2%7DRc&bg=ffffff&fg=333333&s=0
-"Rc_1= \\frac{1}{2}Rc")  
-7\) Thus area of circle
-![c\_1](https://s0.wp.com/latex.php?latex=c_1&bg=ffffff&fg=333333&s=0
-"c_1") one fourth area of circle c: ![Ac\_1= \\frac{1}{4}Ac=
-\\pi\\frac{(Rc)^2}{4}](https://s0.wp.com/latex.php?latex=Ac_1%3D+%5Cfrac%7B1%7D%7B4%7DAc%3D+%5Cpi%5Cfrac%7B%28Rc%29%5E2%7D%7B4%7D&bg=ffffff&fg=333333&s=0
-"Ac_1= \\frac{1}{4}Ac= \\pi\\frac{(Rc)^2}{4}").  
-8\) Likewise, the mirror image claw of the cardioid has the same area.
-We can construct that area as an equivalent circle
-![c\_2](https://s0.wp.com/latex.php?latex=c_2&bg=ffffff&fg=333333&s=0
-"c_2") by reflecting circle
-![c\_1](https://s0.wp.com/latex.php?latex=c_1&bg=ffffff&fg=333333&s=0
-"c_1") on the X-axis.  
-9\) Thus, the arbelos PBP’A has the same area as circle
-![c\_1](https://s0.wp.com/latex.php?latex=c_1&bg=ffffff&fg=333333&s=0
-"c_1"), circle
-![c\_2](https://s0.wp.com/latex.php?latex=c_2&bg=ffffff&fg=333333&s=0
-"c_2") and the claw of the cardioid PCP’B’  
-10\) Thus, the area of the cardioid ![=
-\\pi(Rc)^2+2(\\pi\\frac{(Rc)^2}{4})=\\frac{3}{2}\\pi(Rc)^2](https://s0.wp.com/latex.php?latex=%3D+%5Cpi%28Rc%29%5E2%2B2%28%5Cpi%5Cfrac%7B%28Rc%29%5E2%7D%7B4%7D%29%3D%5Cfrac%7B3%7D%7B2%7D%5Cpi%28Rc%29%5E2&bg=ffffff&fg=333333&s=0
-"= \\pi(Rc)^2+2(\\pi\\frac{(Rc)^2}{4})=\\frac{3}{2}\\pi(Rc)^2")  
+![c_1](https://s0.wp.com/latex.php?latex=c_1&bg=ffffff&fg=333333&s=0&c=20201002),
+is equal in length to the radius of circle c. Thus , we get ![Rc_1=
+\\frac{1}{2}Rc](https://s0.wp.com/latex.php?latex=Rc_1%3D+%5Cfrac%7B1%7D%7B2%7DRc&bg=ffffff&fg=333333&s=0&c=20201002)  
+7) Thus area of circle
+![c_1](https://s0.wp.com/latex.php?latex=c_1&bg=ffffff&fg=333333&s=0&c=20201002)
+one fourth area of circle c: ![Ac_1= \\frac{1}{4}Ac=
+\\pi\\frac{(Rc)^2}{4}](https://s0.wp.com/latex.php?latex=Ac_1%3D+%5Cfrac%7B1%7D%7B4%7DAc%3D+%5Cpi%5Cfrac%7B%28Rc%29%5E2%7D%7B4%7D&bg=ffffff&fg=333333&s=0&c=20201002).  
+8) Likewise, the mirror image claw of the cardioid has the same area. We
+can construct that area as an equivalent circle
+![c_2](https://s0.wp.com/latex.php?latex=c_2&bg=ffffff&fg=333333&s=0&c=20201002)
+by reflecting circle
+![c_1](https://s0.wp.com/latex.php?latex=c_1&bg=ffffff&fg=333333&s=0&c=20201002)
+on the X-axis.  
+9) Thus, the arbelos PBP’A has the same area as circle
+![c_1](https://s0.wp.com/latex.php?latex=c_1&bg=ffffff&fg=333333&s=0&c=20201002),
+circle
+![c_2](https://s0.wp.com/latex.php?latex=c_2&bg=ffffff&fg=333333&s=0&c=20201002)
+and the claw of the cardioid PCP’B’  
+10) Thus, the area of the cardioid ![=
+\\pi(Rc)^2+2(\\pi\\frac{(Rc)^2}{4})=\\frac{3}{2}\\pi(Rc)^2](https://s0.wp.com/latex.php?latex=%3D+%5Cpi%28Rc%29%5E2%2B2%28%5Cpi%5Cfrac%7B%28Rc%29%5E2%7D%7B4%7D%29%3D%5Cfrac%7B3%7D%7B2%7D%5Cpi%28Rc%29%5E2&bg=ffffff&fg=333333&s=0&c=20201002)  
 Hence, the cardioid has 50% excess area over the generating circle.
 
 If the claw of the cardioid were a scimitar and and the arbelos an

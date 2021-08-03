@@ -1,7 +1,11 @@
 +++
 title = "Hindu “butterfly effect” tales"
+date = "2012-03-20"
+upstream_url = "https://manasataramgini.wordpress.com/2012/03/20/hindu-butterfly-effect-tales/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/03/20/hindu-butterfly-effect-tales/).
+
 Lorenz is supposed to have said that a flap of a butterfly might end up
 in a hurricane weeks later. In his retelling of the pa\~nchatantra,
 vasubhAga has several such childish tales (2.13, 2.14 and 2.15).
@@ -40,3 +44,4 @@ citizens fell upon the dog-man and killed him. The kShatriya sent his
 troops to capture the killers of his dog-man. A great riot broke out and
 the city was destroyed. Thus a drop of honey enough for a fly brought
 down an entire city.
+

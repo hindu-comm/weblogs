@@ -1,8 +1,12 @@
 +++
 title = "The engineer, the dead fish and the bag of earth-I"
+date = "2014-05-06"
+upstream_url = "https://manasataramgini.wordpress.com/2014/05/06/the-engineer-the-dead-fish-and-the-bag-of-earth/"
 
 +++
-mR^ittikA-syUto nAma prathamo.adhyAyaH |  
+Source: [here](https://manasataramgini.wordpress.com/2014/05/06/the-engineer-the-dead-fish-and-the-bag-of-earth/).
+
+mR^ittikA-syUto nAma prathamo.adhyAyaH \|  
 Lootika had wound up her fieldwork. While her group was not much
 interested, she somehow convinced them to go with her to the shrine of
 shAmalAjI. To its north lay some derelict shrines, which had been
@@ -67,37 +71,37 @@ ridge so that no one could easily see them from below. The level contour
 of the plateau relaxed them a bit and Charusmita spoke: “How could they
 be so damn stupid and kill prime minister Samabhav Singh? He had such
 brilliant ideas – the uniform civil code, the death sentence for
-rapists, and above all a sensible right to education plan.” Lootika:
-“Well, it was almost a given, with the marUnmatta-s backed by
-mlechCha-s making all the noises even before he said that the UCC bill
-would be tabled in the parliament – I felt he would back off like
-everyone else before him.” Their other companion Sharad, a seasoned
-politics buff, sharply retorted: “It is not correct to blame the
-marUnmatta-s for the actions of few misguided individuals. Did we not
-read in our history books that long ago the Hindu fundamentalists
-unleashed by the saffron leader Savarkar kill Mahatma Gandhi who took us
-to freedom? There are bad apples in every bushel. If any thing shrI
-Samabhav Singh’s legacy was his true secularism.” Lootika bit her lip
-and fired back: “I just hope we do not have to regret the consequences
-of this sort of thinking that has permeated our masses for ages. It is
-in times like this I really wish your so called Hindu fundamentalists
-were around to save our skins even as our alleys reverberate with the
-cries of A-O-A.” Sharad triumphantly smiled and said: “All they would do
-is to beat you up for straying out late in the day to hang out with the
-guys ever so often.” Just then they began their descent and heard the
-distant bellow of a siren from their city. Something must have happened
-they remarked. Lootika leapt on a large rock to get a better view of the
-city and her heart sank as she saw the distant red glow of fire coming
-from her locality. Her face lost color as she told her companions that
-it was not a joke anymore. She mentally started reciting a secret mantra
-to puShan. Her companions too grew worried and clambered up the rock to
-get a better look. They were not sure if they could easily reach their
-homes as there seemed to be blazes on the paths leading to them. Finally
-they made it down from the hills and had to take a long dirt path to
-reach Lootika’s residence. Lootika peered ahead intently and knew that
-the fire was not in her house but in the market area near by. They
-gingerly walked to her house making as little noise as possible. By then
-the twilight had turned to night and her house was dark barring a faint
+rapists, and abovealla sensible right to education plan.” Lootika:
+“Well, it was almost a given, with the marUnmatta-s backed by mlechCha-s
+making all the noises even before he said that the UCC bill would be
+tabled in the parliament – I felt he would back off like everyone else
+before him.” Their other companion Sharad, a seasoned politics buff,
+sharply retorted: “It is not correct to blame the marUnmatta-s for the
+actions of few misguided individuals. Did we not read in our history
+books that long ago the Hindu fundamentalists unleashed by the saffron
+leader Savarkar kill Mahatma Gandhi who took us to freedom? There are
+bad apples in every bushel. If any thing shrI Samabhav Singh’s legacy
+was his true secularism.” Lootika bit her lip and fired back: “I just
+hope we do not have to regret the consequences of this sort of thinking
+that has permeated our masses for ages. It is in times like this I
+really wish your so called Hindu fundamentalists were around to save our
+skins even as our alleys reverberate with the cries of A-O-A.” Sharad
+triumphantly smiled and said: “All they would do is to beat you up for
+straying out late in the day to hang out with the guys ever so often.”
+Just then they began their descent and heard the distant bellow of a
+siren from their city. Something must have happened they remarked.
+Lootika leapt on a large rock to get a better view of the city and her
+heart sank as she saw the distant red glow of fire coming from her
+locality. Her face lost color as she told her companions that it was not
+a joke anymore. She mentally started reciting a secret mantra to puShan.
+Her companionstoo grew worried and clambered up the rock to get a
+better look. They were not sure if they could easily reach their homes
+as there seemed to be blazes on the paths leading to them. Finally they
+made it down from the hills and had to take a long dirt path to reach
+Lootika’s residence. Lootika peered ahead intently and knew that the
+fire was not in her house but in the market area near by. They gingerly
+walked to her house making as little noise as possible. By then the
+twilight had turned to night and her house was dark barring a faint
 candle light in one of the rooms. She did not know if her parents and
 sisters were there and whether she should knock the door. Just then her
 cat chitra came by and rubbed its flanks against her shank. She calmed
@@ -193,3 +197,4 @@ her more than the rest of them. Lootika almost shouted at Vrishchika:
 recognition of that mongrel girl Meghana?”
 
 [Go to chapter 2](http://wp.me/paOVv-1Gx)
+

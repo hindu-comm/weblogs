@@ -1,7 +1,11 @@
 +++
 title = "Notes on hayagrIva siddhi among the nAstika-s"
+date = "2011-06-26"
+upstream_url = "https://manasataramgini.wordpress.com/2011/06/26/notes-on-hayagriva-siddhi-among-the-nastika-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/06/26/notes-on-hayagriva-siddhi-among-the-nastika-s/).
+
 While most extant mantravAdin-s practicing pA\~ncharAtrika apotropaic
 rituals have a predilection for the ratna-traya mantra-rAjA-s, namely
 nR^isiMha, garuDa and chakra, some are well-versed in the secrets of
@@ -70,37 +74,37 @@ in the veda, provides an early witness for key iconographic elements,
 several of which continued to survive in the nAstika manifestations of
 the devatA:  
 Mbh 12.347  
-jahau nidrAm atha tadA veda-kAryArtham udyataH |  
-aishvaryeNa prayogeNa dvitIyaM tanum AsthitaH ||  
-sunAsikena kAyena bhUtvA chandraprabhas tadA |  
-kR^itvA hayashIraH shubraM vedAnAM AlayaM prabhuH ||  
-tasya mUrdhA samabhAvad dyauH sa-nakShatra-tArakA |  
-keshash chAsyAbhavan dIrghA raver aMshu saMaprabhaH ||  
-karNAv AkAshapAtAle lalATaM bhUtadhArinI |  
-ga\~NgA sarasvatI shroNyau bhruvAv AstAM mahodadhI ||  
-chakShuShI soma-sUryau te nAsA saMdhyA punaH smR^itA |  
-OMkAras te atha saMskAro vidyuj jihvA cha nirmitA ||  
-dantAsh cha pitaro rAjan somapA iti vishrutAH |  
-goloko brahmalokash cha oShTAv AstAM mahAtamanaH ||  
-grIvA chAsyAbhavad rAjan kAlarAtrir guNottarA |  
-etad dhayashiraH kR^itvA nAnAmUrtibhir AvR^itam ||  
-antardadhau sa vishvesho vivesha cha rasAM prabhuH |
+jahau nidrAm atha tadA veda-kAryArtham udyataH \|  
+aishvaryeNa prayogeNa dvitIyaM tanum AsthitaH \|\|  
+sunAsikena kAyena bhUtvA chandraprabhas tadA \|  
+kR^itvA hayashIraH shubraM vedAnAM AlayaM prabhuH \|\|  
+tasya mUrdhA samabhAvad dyauH sa-nakShatra-tArakA \|  
+keshash chAsyAbhavan dIrghA raver aMshu saMaprabhaH \|\|  
+karNAv AkAshapAtAle lalATaM bhUtadhArinI \|  
+ga\~NgA sarasvatI shroNyau bhruvAv AstAM mahodadhI \|\|  
+chakShuShI soma-sUryau te nAsA saMdhyA punaH smR^itA \|  
+OMkAras te atha saMskAro vidyuj jihvA cha nirmitA \|\|  
+dantAsh cha pitaro rAjan somapA iti vishrutAH \|  
+goloko brahmalokash cha oShTAv AstAM mahAtamanaH \|\|  
+grIvA chAsyAbhavad rAjan kAlarAtrir guNottarA \|  
+etad dhayashiraH kR^itvA nAnAmUrtibhir AvR^itaM \|\|  
+antardadhau sa vishvesho vivesha cha rasAM prabhuH \|
 
 Thus, viShNu assuming his second form, i.e., that of hayagrIva is
 supposed to have attacked the demons madhu and kaiTabha and slain them
 in a fierce battle. A similar account is given in the harivaMsha
 regarding this battle were viShNu’s hayagrIva form is described as
 encompassing all the gods (HV appendix 1.41.1421-130):  
-stUyamAnash cha vibudhaiH siddhair munivarais tathA |  
-sasmAra vipulaM dehaM harir hayashiro mahAn ||  
-kR^itvA vedamayaM rUpaM sarva-devamayaM vapuH |  
-shiro-madhye mahAdevo brahmA tu hR^idaye sthitaH |  
-Aditya-rashmayo vAlAsh chakShuShI shashi-bhAskarau ||  
-ja\~Nghe tu vasavaH sAdhyAH sarvasaMdhiShu devatAH |  
-jihvA vaishvAnaro devaH satyA devI sarasvatI ||  
-maruto varuNash chaiva jAnudeshe vyavasthitAH |  
-evaM kR^itvA tathA rUpaM surANAm adbhutaM mahat ||  
-asuraM pIDayAm Asa krodhAd raktAnta-lochanaH |
+stUyamAnash cha vibudhaiH siddhair munivarais tathA \|  
+sasmAra vipulaM dehaM harir hayashiro mahAn \|\|  
+kR^itvA vedamayaM rUpaM sarva-devamayaM vapuH \|  
+shiro-madhye mahAdevo brahmA tu hR^idaye sthitaH \|  
+Aditya-rashmayo vAlAsh chakShuShI shashi-bhAskarau \|\|  
+ja\~Nghe tu vasavaH sAdhyAH sarvasaMdhiShu devatAH \|  
+jihvA vaishvAnaro devaH satyA devI sarasvatI \|\|  
+maruto varuNash chaiva jAnudeshe vyavasthitAH \|  
+evaM kR^itvA tathA rUpaM surANAm adbhutaM mahat \|\|  
+asuraM pIDayAm Asa krodhAd raktAnta-lochanaH \|
 
 Of note in these accounts is the role of viShNu in recovering the lost
 veda. This might be compared to the legend of the vAjasaneyin-s where
@@ -125,7 +129,7 @@ dhAraNI saMgraha made in 653 CE. The 6th chapter of atigupta’s dhAranI
 is largely devoted to hayagrIva sAdhana-s. Here a mantra of hayagrIva is
 given which might be reconstructed in Sanskrit as:  
 namo .advidyA-bhakShakAya grasa grasa vapa vapa sphuTa sphuTa grasa
-hayagrIvAya svAhA | mahAbalAya sarva-j\~nAna-netre svAhA |
+hayagrIvAya svAhA \| mahAbalAya sarva-j\~nAna-netre svAhA \|
 
 The last part of this chapter has a dIkSha vidhi with the hayagrIva
 maNDala, where he is identified with the bodhisattva avalokiteshvara. A
@@ -146,7 +150,7 @@ offerings (Ahuti) to effect the manifestation (AviShkaraNa ) of the
 great fierce king, the holy hayagrIva”. This tAntrika text is of some
 importance to our current study because it provides background for the
 Bön rituals for hayagrIva. It has the mantra:  
-“hayagrIvAya svAhA || Able to destroy all the obstacles of mAra\! It is
+“hayagrIvAya svAhA \|\| Able to destroy all the obstacles of mAra! It is
 through the upAya of karuNa that he yet manifests a krodha rUpa.”
 \[translated from the Tibetan\]
 
@@ -155,11 +159,11 @@ manuscripts wherein vaDavAmukha hayagrIva is invoked in an idol made of
 sandalwood at whose base is placed the triad of vajrapANi, lokeshvara
 and avalokiteshvara. The use of the term vaDavAmukha in this text offers
 a link to the descriptions of hayagrIva in the mahAbhArata:  
-ahaM hayagrIvo bhUtvA samudre pashcimottare |  
-pibAmi suhutaM havyaM kavya\~n cha shraddhayAnvitam || Mbh. 12.340
+ahaM hayagrIvo bhUtvA samudre pashcimottare \|  
+pibAmi suhutaM havyaM kavya\~n cha shraddhayAnvitaM \|\| Mbh. 12.340
 
 As also the tale in which the wrath of viShNu made the ocean salty:  
-nArAyaNo lokahitArthaM vaDavAmukho nAma purA maharShir babhUva| Mbh
+nArAyaNo lokahitArthaM vaDavAmukho nAma purA maharShir babhUva\| Mbh
 12.342.60ab
 
 In the Gilgit manuscript the mantra of hayagrIva is stated as destroying
@@ -167,16 +171,16 @@ rival abhichArika mantra-s (para-vidyA saMbhakShaNa) and has the phrases
 such as “khAda khAda para-mantraM… para-mantra vinAshaka… tan sarvan
 vaDavAmukhena nikR^intaya phaT” etc. This hR^idaya mantra is said to
 have been expounded by avalokiteshvara as is clear from the statement:
-“tasmai namaskR^itva idam AryAvalokiteshvara mukhodgIrNaM hayagrIva
-nAma parama hR^idayam AvartiShyAmi”. As the great vaiShNava pointed out
-to us it might be noted that this statement is comparable to a mantra
-text for the worship of nIlakaNTha (i.e. rudra) recorded by the Indian
-AchArya vajrabodhi in the siddhaM script in the chInadesha: “tasmai
-namaskR^itva idam AryAvalokiteshvara bhaShitaM nIlakaNTha nAma”. Here
-again avalokiteshvara is described as the expounder of the hR^idaya for
-the worship of nIlakaNTha. This, suggests that several astika devata-s
-were being incorporated into the tAthagata-mata as their mantra-s now
-have the sanction of being expounded by the bodhisattva himself.
+“tasmai namaskR^itva idam AryAvalokiteshvara mukhodgIrNaM hayagrIva nAma
+parama hR^idayam AvartiShyAmi”. As the great vaiShNava pointed out to us
+it might be noted that this statement is comparable to a mantra text for
+the worship of nIlakaNTha (i.e. rudra) recorded by the Indian AchArya
+vajrabodhi in the siddhaM script in the chInadesha: “tasmai namaskR^itva
+idam AryAvalokiteshvara bhaShitaM nIlakaNTha nAma”. Here again
+avalokiteshvara is described as the expounder of the hR^idaya for the
+worship of nIlakaNTha. This, suggests that several astika devata-s were
+being incorporated into the tAthagata-mata as their mantra-s now have
+the sanction of being expounded by the bodhisattva himself.
 Subsequently, they were identified with the bodhisattva himself.
 
 Together, these suggest that the worship of hayagrIva was very prominent
@@ -240,12 +244,12 @@ its transmission of the bauddha version and appears early in the
 Dunhuang texts, which was temporally closer to the apparent period of
 transmission to the Bön.  
 ………………………  
-Footnote 1: From the Bön text this mantra appears to be:  
-vsauH OM vajra rakSha krodha rava rava hayagrIva huM phaT ||  
+Footnote 1: From the Böntext this mantra appears to be:  
+vsauH OM vajra rakSha krodha rava rava hayagrIva huM phaT \|\|  
 It appears to be a nAstika distortion of the mantra found in shaiva and
 vaiShNava tAntrika contexts:  
 OM shrIM hlauM OM namo bhagavate hayagrIvAya rava rava rakSha rakSha huM
-phaT svAhA ||
+phaT svAhA \|\|
 
 Footnote 2: [sipe
 gyAlmo](https://manasataramgini.wordpress.com/2011/07/06/some-notes-on-the-goddess-sipe-gyalmo/)
@@ -265,3 +269,4 @@ aparA, parAparA and parA; however, in the case of sipe gyAlmo the faces
 are depicted in the order of the three goddess of the pUrvAmnAya (trika)
 parA, parAparA and aparA. It is not entirely surprising that the
 bauddha-s have made some attempts to demonize her.
+

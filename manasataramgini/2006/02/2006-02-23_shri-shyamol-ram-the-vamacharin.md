@@ -1,7 +1,11 @@
 +++
 title = "shri shyAmol rAm the vAmAchArin"
+date = "2006-02-23"
+upstream_url = "https://manasataramgini.wordpress.com/2006/02/23/shri-shyamol-ram-the-vamacharin/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/02/23/shri-shyamol-ram-the-vamacharin/).
+
 R, narrated to me a remarkable tale that with her due acquiscience I
 present. Some details are left out due to the directive of the narrator.
 molArAm was a remarkable man from the realm of pradyumna shAh deva. He
@@ -35,7 +39,6 @@ terrified and retreated. But wanting to deal with shyAmol rAm futher
 they came with reinforcements. But before they could reach him the
 gorkhA capital was attacked by the Chinese invasionary force and they
 were forced to retreat. Many felt it was due to shyAmol rAm’s siddhi.
-
 Later it is said that the British official Malcolm Gardner wanted to
 find a Moslem brigand and approached shyAmol rAm humbly. He using a
 dUradR^iShTi prayoga pointed to where the turushka was hiding and he was
@@ -50,3 +53,4 @@ the pheTkAriNi tantra, the muNDamAla tantra, the akShobaya tantra and
 the hayagrIva tantra. R’s ancestor acquired several shAkta prayogas from
 him. His most important sAdhAnas were those of chinnamastA in the
 mahAvidyA series and vArAhI-vajrayoginI.
+

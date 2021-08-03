@@ -1,7 +1,11 @@
 +++
 title = "On darshanas"
+date = "2006-12-28"
+upstream_url = "https://manasataramgini.wordpress.com/2006/12/28/on-darshanas/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/12/28/on-darshanas/).
+
 One thing many fellow traditional Hindus have found frustrating about me
 is my lack knowledge and lack of affinity for the advaita stream of
 vedanta, and more fundamentally me being a svatantra. My blasphemous
@@ -49,11 +53,11 @@ We have sAMkhya- it seems to have been there in the upaniShads because
 in 6.13 of the shvetAshvatara upaniShad we hear that sAMkhya is the
 basis of mokSha. The basic premise of sAMkhya’s explanation– mAyA,
 however, goes to the ancient Indo-Aryan past. It stems from a knowledge
-of the ways of gods\! The gods exhibit mAyA- thus their one true or
+of the ways of gods! The gods exhibit mAyA- thus their one true or
 prototypic form appears in many diverse forms. This is true of indra in
 the R^igveda:  
-“rUpam-rUpaM maghavA bobhavIti mAyAh kR^invAnas tanuvaM pari svAm |” (RV
-3.53.8).  
+“rUpam-rUpaM maghavA bobhavIti mAyAh kR^invAnas tanuvaM pari svAM \|”
+(RV 3.53.8).  
 In the itihAsas viShNu and rudra put forth their mAyA by means of their
 yoga to assume many forms. In the purANa this mAyA is the great goddess
 mAhAkAlI. Right from the beginning it appears to have meant a means by
@@ -64,10 +68,10 @@ itself — the one puruSha shrouded by mAyA creates a multiplicity that is
 seen as the world. This connection between the mAyA of devas and sAMkhya
 ontology is very palpable in the explanation of saMkhya expressed in the
 mahAbhArata:  
-apAM phenopamaM lokaM viShNormAyA shatair-vR^itam |  
-chitta-bhitti pratIkAshaM nala sAramanarthakam || (Mbh-critical
+apAM phenopamaM lokaM viShNormAyA shatair-vR^itam \|  
+chitta-bhitti pratIkAshaM nala sAramanarthakam \|\| (Mbh-critical
 12.290.57)  
-“The universe is like the foam of water enveloped by hundreds of mAyA-s
+“The universeis like the foam of water enveloped by hundreds of mAyA-s
 of viShNu, like a painted wall and ephemeral as a hollow reed.”
 
 So we feel sAmkhyan thinking was always there in some form in the
@@ -80,13 +84,13 @@ yoga to effect their mAyA suggests that it is an evolute of sAMkhyA.
 This comes out strongly in the itihAsa and purANa — one of the most
 famous expressions of this known to most hindus is the statement of
 kR^iShNa in the bhagavad gItA:  
-nAhaM prakAshaH sarvasya yoga-mAyA-samAvR^itaH |  
-mUDho.ayaM nAbhijAnAti loko mAm-ajam-avyayam || (BG7.25)  
+nAhaM prakAshaH sarvasya yoga-mAyA-samAvR^itaH \|  
+mUDho.ayaM nAbhijAnAti loko mAm-ajam-avyayaM \|\| (BG7.25)  
 “I am not manifest to all veiled by the yoga of my mAyA. This deluded
 world knows not me unborn and unlimited.”  
 Again at sunset on the 14th day of the Great War devakI-putra turning to
 arjuna says: “arjuna, I have obscured the sun by the means of my yoga
-and the kauravas think it has set. Shoot jayadratha\!”
+and the kauravas think it has set. Shoot jayadratha!”
 
 Another poignant expression of the fact that the display of yoga is
 essentially the same as the display of mAyA is suggested by the story of
@@ -102,7 +106,7 @@ a distance the intention of rudra of superior yoga powers and wondered
 whether he should flee or try some other trick. Then using his mighty
 yoga ushanA kAvya, that physician of the daityas, became small and went
 and sat on the tip of rudra’s trident. Unable to use his weapon he bent
-it with his arms to make it into the pinAka bow\! At this point ushanA
+it with his arms to make it into the pinAka bow! At this point ushanA
 fell into shiva’s hand, who promptly swallowed him and returned to
 perform his yoga meditation. The bhArgava wandered endlessly in rudra’s
 stomach and was absorbed into shiva’s body. As shiva had shut all his
@@ -117,19 +121,19 @@ parakAya-pravesha is effected by means of yoga, which is strikingly
 parallel to the ability of devas to exhibit mAyA. This is further
 clarified in the great itihAsa in course of the description of yoga:
 
-brahmANam-Isham varadaM cha viShNum | bhavaM cha dharmaM cha ShaDAnanaM
-cha so brahmaputrAMsh-cha mahAnubhAvAn || 58  
+brahmANam-Isham varadaM cha viShNum \| bhavaM cha dharmaM cha ShaDAnanaM
+cha so brahmaputrAMsh-cha mahAnubhAvAn \|\| 58  
 tamash-cha kaShTaM sumahad-rajash-cha sattvaM cha shuddhaM prakR^itiM
-parAM cha |  
+parAM cha \|  
 siddhiM cha devIM varuNasya patnIM tejashcha kR^itsnaM sumahach-cha
-dhairyam || 59  
+dhairyaM \|\| 59  
 narAdhipaM vai vimalaM satAraM vishvAMsh-cha devAn uragAn pitR^IMsh cha
-|  
+\|  
 shailAMsh-cha kR^itsnAnudadhIMsh-cha ghorAn nadIsh-cha sarvAH
-savananghanAMsh-cha || 60  
+savananghanAMsh-cha \|\| 60  
 nAgAn-nagAn-yakSha-gaNAn-dishash-cha
-gandharva-sa\~NghAn-puruShAn-striyash-cha |  
-parasparaM prApya mahAn-mahAtmA visheta yogI nachirAdvimuktaH || 61  
+gandharva-sa\~NghAn-puruShAn-striyash-cha \|  
+parasparaM prApya mahAn-mahAtmA visheta yogI nachirAdvimuktaH \|\| 61  
 MBh(12.289.58-61)  
 The high-souled yogI filled with greatness, can enter into and come out
 of, at will, brahmA the lord of all, the boon-giving Vishnu, bhava,
@@ -169,9 +173,9 @@ mainly an attempt to give yoga an independent darshana status by
 incorporating sAmkhya as its internal siddhAnta in a slightly modified
 form. The real task of synthesis was taken up the tantras, which
 formalized the whole practical system with its physical angles, the
-“kuNDalini system” and most importantly the mantra-shAstra which is
-the oldest tradition of the Hindus. It is this tantric synthesis that
-was one of the greatest achievements of Hindu thought in this direction,
+“kuNDalini system” and most importantly the mantra-shAstra which is the
+oldest tradition of the Hindus. It is this tantric synthesis that was
+one of the greatest achievements of Hindu thought in this direction,
 which until recently was neglected by most formal theoretical students
 of Hindu philosophies. The name of the great matsyendra, “the first guru
 of the kaliyuga”, is to be remembered by all.
@@ -179,3 +183,4 @@ of the kaliyuga”, is to be remembered by all.
 If mAyA appears to be an Indo-Aryan innovation, how then does mAyA’s
 equivalent appear in Greek philosophy. An answer to this might solve a
 central issue in comparative philosophy.
+

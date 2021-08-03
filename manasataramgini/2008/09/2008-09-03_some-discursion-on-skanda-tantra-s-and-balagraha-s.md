@@ -1,9 +1,12 @@
 +++
 title = "Some discursion on skanda tantra-s and bAlagraha-s"
+date = "2008-09-03"
+upstream_url = "https://manasataramgini.wordpress.com/2008/09/03/some-discursion-on-skanda-tantra-s-and-balagraha-s/"
 
 +++
-[![](https://i2.wp.com/farm4.static.flickr.com/3184/2828977611_2ea439e712_o.jpg
-"nejameSha")](http://farm4.static.flickr.com/3184/2828977611_2ea439e712_o.jpg)  
+Source: [here](https://manasataramgini.wordpress.com/2008/09/03/some-discursion-on-skanda-tantra-s-and-balagraha-s/).
+
+[![](https://i2.wp.com/farm4.static.flickr.com/3184/2828977611_2ea439e712_o.jpg "nejameSha")](http://farm4.static.flickr.com/3184/2828977611_2ea439e712_o.jpg)  
 Over the years we have been collecting several observations on the
 kaumAra sect, its texts and evolution on this site. While all this would
 be worth synthesizing, that would need much greater effort. We identify
@@ -23,11 +26,11 @@ considerable role in fertilizing or providing seeds for the development
 of several other streams, such as the shaiva shAsana and the tAntrIka
 stream in the nAstIka realm. In this context three main points of
 interest emerge:  
-1\) The absorption and integration of the early kaumAra elements into:
+1) The absorption and integration of the early kaumAra elements into:
 1.1) bhUta tantras of the shaiva realm, 1.2) the system of deities in
 kaula streams like those of the pashchimAMnAya and 1.3) the vaiShNava
 pA\~ncharAtra tantra-s as the deity viShvaksena.  
-2\) The absorption of kaumAra elements into the bauddha shAsana (we had
+2) The absorption of kaumAra elements into the bauddha shAsana (we had
 earlier given a brief illustration of this using the mantra-s and
 maNDala-s of the ma\~njushrI mUla kalpa). This parallels the earlier
 absorption of kumAra as the bauddha “missionary” amongst the deva-s
@@ -94,12 +97,12 @@ These jaina narratives strikingly parallel the implication of nejameSha
 mantra-s of the RV-khila and their associated rituals in different vedic
 traditions:
 
-*nejameSha parA pata suputraH punar A pata |  
-asyai me putrakAmAyai garbham A dhehI yaH pumAn ||  
-yathA iyam pR^ithivI mahyy uttAnA garbham Adadhe |  
-evam tam garbham Adhehi dashame mAsi sUtave ||  
-viSNosh shraiSThyena rUpeNa asyAm nAryAm gavInyAm |  
-pumAmsam putram Adhehi dashame mAsi sUtave ||*  
+*nejameSha parA pata suputraH punar A pata \|  
+asyai me putrakAmAyai garbham A dhehI yaH pumAn \|\|  
+yathA iyam pR^ithivI mahyy uttAnA garbham Adadhe \|  
+evam tam garbham Adhehi dashame mAsi sUtave \|\|  
+viSNosh shraiSThyena rUpeNa asyAm nAryAm gavInyAm \|  
+pumAmsam putram Adhehi dashame mAsi sUtave \|\|*  
 O nejameSha fly away and fly back bringing a good son to my wife here,
 who desires a son, give an embryo, a male one.  
 Just as the wide earth stretched out conceives the embryo, so give that
@@ -141,31 +144,31 @@ with rice and barley. A daily skanda homa is prescribed to be performed
 by the pediatrician (28.9-14): The fire is lit using the gAyatrI and
 vyAhR^iti-s and oblations are made to skanda using the following
 anuShTubh mantras:  
-*tapasAM tejasaM chaiva yashasaM vapuShAM tatha |  
-vidhAtA yo.avyayo devaH sa te skandaH prasIdatu ||  
-graha-senApatir-devo devasenApatir-vibhuH |  
-devasenA-ripuharaH pAtu tvAM bhagavAN guhaH || + svAhA  
-deva-devasya mahataH pAvakasya cha yaH sutaH |  
-ga\~NgomA-kR^ittikAnAM cha sa te sharma prayachChatu ||+svAhA  
-raktamAlyAmbaraH shrImAn rakta-chandanabhUShitaH |  
-raktadivya-vapur-devaH pAtu tvAM krau\~nchasUdanaH ||+svAhA*
+*tapasAM tejasaM chaiva yashasaM vapuShAM tatha \|  
+vidhAtA yo.avyayo devaH sa te skandaH prasIdatu \|\|  
+graha-senApatir-devo devasenApatir-vibhuH \|  
+devasenA-ripuharaH pAtu tvAM bhagavAN guhaH \|\| + svAhA  
+deva-devasya mahataH pAvakasya cha yaH sutaH \|  
+ga\~NgomA-kR^ittikAnAM cha sa te sharma prayachChatu \|\|+svAhA  
+raktamAlyAmbaraH shrImAn rakta-chandanabhUShitaH \|  
+raktadivya-vapur-devaH pAtu tvAM krau\~nchasUdanaH \|\|+svAhA*
 
 The chapter 29 deals with skandApasmAra and identifies this seizure with
 viShAkha. Other a series of drugs a naivedyam of meat, blood and rice
 offering under a banyan tree and a bath at a cross-road are recommended.
 The mantra used in the ritual is given as:  
-*skandApasmAra-saMj\~no yaH skandasya dayitaH sakhA |  
-viShAkha-saMj\~nshcha shisho shivo.astu vikR^itAnanaH ||*  
+*skandApasmAra-saMj\~no yaH skandasya dayitaH sakhA \|  
+viShAkha-saMj\~nshcha shisho shivo.astu vikR^itAnanaH \|\|*  
 Likewise both drugs and mantra-s are prescribed for all other seizures
 in the subsequent chapters.  
 E.g. mukhamaNDikA mantra:  
-* ala\~NkR^itA rUpavatI subhagA kAmarUpiNI |  
-goShTha-madhyAlayaratA pAtu tvAM mukhamaNDikA ||*  
+* ala\~NkR^itA rUpavatI subhagA kAmarUpiNI \|  
+goShTha-madhyAlayaratA pAtu tvAM mukhamaNDikA \|\|*  
 The goddess is conceived as being in the middle of a cowshed, which is
 incidentally the site for her for bali.  
 E.g. naigameSha mantra:  
-* ajAnanash-chalAkShibhrUH kAmarUpI mahAyashAH |  
-bAlaM bAla-pitA devo naigameSho.abhirakShatu ||*  
+* ajAnanash-chalAkShibhrUH kAmarUpI mahAyashAH \|  
+bAlaM bAla-pitA devo naigameSho.abhirakShatu \|\|*  
 His bali is made under a banyan tree on a ShaShThi day.
 
 The concluding chapter of the kumAra tantra section of sushruta contains
@@ -180,10 +183,10 @@ way.
 In charaka (shArIra sthAna, chapter 8) too we find a mantra to
 kArttikeya that is whispered into the ear of the woman in the context of
 protecting the child at birth:  
-* kShitir-jalaM viyat-tejo vAyur-viShNuH prajApatiH |  
-sagarbhAM tvAM sadA pAntu vaishalyaM cha dishantu te ||  
-prasUShva tvam avikliShTamavikliShTA shubhAnane |  
-kArttikeyad-dyutiM putraM kArttikeyAbhi-rakShitam |*|
+* kShitir-jalaM viyat-tejo vAyur-viShNuH prajApatiH \|  
+sagarbhAM tvAM sadA pAntu vaishalyaM cha dishantu te \|\|  
+prasUShva tvam avikliShTamavikliShTA shubhAnane \|  
+kArttikeyad-dyutiM putraM kArttikeyAbhi-rakShitaM \|*\|
 
 But hardly any graha material or mantra-s pertaining to them is found in
 charaka. In fact charaka’s chapter is paralleled to a large extent by
@@ -191,11 +194,11 @@ sushruta’s own shArIra sthAna chapter 10, where graha-s are mentioned
 only in passing and a reference is made to the uttara tantra for further
 details. The classics of Ayurveda do contain several invocations and
 recommendations for mantra prayoga-s (much to the delight of modern
-“rationalists” who are keen to show Ayurveda as rubbish). Yet, when
-one scans even the uttara tantra alone for mantra prayoga-s one finds
-that they are relatively low with the exception of two sections, namely
-the kumAra tantra and the bhutavidyA (which is clearly related to the
-bhUta tantra-s of the paschima srotas of the shaiva tantra-s). These
+“rationalists” who are keen to show Ayurveda as rubbish). Yet, when one
+scans even the uttara tantra alone for mantra prayoga-s one finds that
+they are relatively low with the exception of two sections, namely the
+kumAra tantra and the bhutavidyA (which is clearly related to the bhUta
+tantra-s of the paschima srotas of the shaiva tantra-s). These
 observations would suggest that though there was a general practice to
 invoke skanda in the context of child birth (seen in the even earlier
 vedic elements or charaka’s single mantra), the kumAra tantra is a
@@ -234,3 +237,4 @@ In support of this we shall in the future present an analysis of 3 texts
 namely, the aShTA\~Nga saMgraha, fragments of a text that appears to be
 a lost kaumAra tantra and a much later kaumAra tantra from the drAviDa
 country.
+

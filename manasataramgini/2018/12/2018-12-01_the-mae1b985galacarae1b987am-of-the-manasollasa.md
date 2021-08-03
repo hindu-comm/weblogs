@@ -1,7 +1,11 @@
 +++
 title = "The maṅgalācaraṇam of the Mānasollāsa"
+date = "2018-12-01"
+upstream_url = "https://manasataramgini.wordpress.com/2018/12/01/the-ma%e1%b9%85galacara%e1%b9%87am-of-the-manasollasa/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2018/12/01/the-ma%e1%b9%85galacara%e1%b9%87am-of-the-manasollasa/).
+
 [In PDF
 format](https://manasataramgini.files.wordpress.com/2018/12/manasollasa.pdf)
 
@@ -37,9 +41,9 @@ bodies.
 
 kṛṣṇa kṛṣṇa hare rakṣa māṃ vibho māṃ ramāramaṇa mā vibhuṃ kuru ।  
 te hare narahare namo’stu me dehi deva padam acyutācyutam ॥  
-Kṛṣṇa\! Kṛṣṇa\! Hari\! protect me\!  
-Me O mighty one\! O delighter of Ramā make me powerful.  
-O Man-lion\! Hari\! my obeisance is for you, O god Acyuta\!  
+Kṛṣṇa! Kṛṣṇa! Hari! protect me!  
+Me O mighty one! O delighter of Ramā make me powerful.  
+O Man-lion! Hari! my obeisance is for you, O god Acyuta!  
 confer on me the state from which one never falls.
 
 naumi veda-dhvani-varaṃ devaṃ dhatte sadaiva hi ।  
@@ -51,7 +55,7 @@ in the womb of Viṣṇu’s navel-lotus.
 
 taṃ namas kurmahe śakraṃ devānām api daivatam ।  
 yo locana-sahasreṇa viśvakāryāṇi paśyati ॥  
-I make my obeisance to him, Śakra who is the god of the very gods,  
+I make my obeisance to him, Śakrawho is the god of the very gods,  
 who with his thousand eyes beholds all the happenings of the universe.
 
 yaḥ santataṃ tat tamaḥ paṭalaṃ vidīrya sāvitrikaṃ karaśatair vahati
@@ -72,3 +76,4 @@ cālukya-vaṃśa-tilakaḥ śrī-someśvara-bhūpatiḥ ।
 kurute mānasollāsaṃ śāstraṃ viśvopakārakam ॥  
 The forehead-mark of the Cālukya-s, the king śrī Someshvara, has
 composed the encyclopedia Mānasollāsa for the benefit of the world.
+

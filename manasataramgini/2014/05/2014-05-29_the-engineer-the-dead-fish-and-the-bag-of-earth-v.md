@@ -1,10 +1,14 @@
 +++
 title = "The engineer, the dead fish and the bag of earth-V"
+date = "2014-05-29"
+upstream_url = "https://manasataramgini.wordpress.com/2014/05/29/the-engineer-the-dead-fish-and-the-bag-of-earth-v/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/05/29/the-engineer-the-dead-fish-and-the-bag-of-earth-v/).
+
 [From
 part-IV](https://manasataramgini.wordpress.com/2014/05/21/the-engineer-the-dead-fish-and-the-bag-of-earth-iv/ "The engineer, the dead fish and the bag of earth-IV")  
-trayAyudho nAma pa\~nchamo .adhyAyaH |  
+trayAyudho nAma pa\~nchamo .adhyAyaH \|  
 The next day Somakhya was browsing the news when he came across a
 curious item:  
 “*There are reports of heavy cross-border shelling by Pakistani troops
@@ -44,7 +48,7 @@ seem to show some symptoms as though they have been exposed to
 radiation, but there is absolutely no evidence that they were exposed to
 such. Yet they show multiple mutations in their cells from several
 tissues.” Somakhya: “Ah… ADP ribosylation of Mov10, cleavage of Shank3,
-now mutagenesis of DNA\! Did you detect a virus in these new patients?”
+now mutagenesis of DNA! Did you detect a virus in these new patients?”
 Vrishchika: “Investigation underway, will return to it as soon as we are
 done.” Jhilleeka: “Here is the sequence of the first virus.” Somakhya
 got to analyzing it right away. After sometime he remarked: “This is no
@@ -65,8 +69,8 @@ more data for you may be late tomorrow.”
 Vrishchika: “As you know, Lootika is coming tonight and our parents do
 not want us to go along. They say they will go by themselves and drive
 her and her student Temülen back. We are scared for the shAstra says:
-Asane shayane yAne pAna-bhojana-vastuShu |  dR^iShTAdR^iShTa-pramatteShu
-praharanty arayo.ariShu||  
+Asane shayane yAne pAna-bhojana-vastuShu \| dR^iShTAdR^iShTa-pramatteShu
+praharanty arayo.ariShu\|\|  
 While seated, while sleeping, while in a vehicle, via items of drink and
 food,  
 due to ignoring of seen and unseen attacks enemies strike their foes.”  
@@ -88,15 +92,15 @@ could not cause these biochemical changes that Varoli had identified.
 But there is something really strange here: The samples have a second
 virus that in large part is identical to what you saw but lacks one gene
 while having 3 additional genes. I am sure you need to sit down on the
-couch before seeing what those extra genes are – you won’t believe it\!”
+couch before seeing what those extra genes are – you won’t believe it!”
 Somakhya calmly replied: “I guess two of them are the caspase-like
 peptidase and the ADP-ribosyltransferase I had identified in your fish
 pathogen; which you and Temülen so beautifully brought to a conclusion.
 As for the third … I am not sure.” Varoli: “Well, it is the ciliate
 MAC-Perforin protein you and Indrasena had published.” Somakhya, now a
 bit shocked, replied: “Varoli that looks like a construct from your
-hand\!” Lootika: “Sort of\! In my opinion only one man could have been
-the engineer behind this – it is a fellow named Dick Shuman. I recall
+hand!” Lootika: “Sort of! In my opinion only one man could have been the
+engineer behind this – it is a fellow named Dick Shuman. I recall
 sending him the paper with Varoli on those delivery vectors with the
 MAC-Perforin proteins. It appears he has combined it with the three
 toxins. I had already gamed most of this when I got Vrishchika’s mail
@@ -118,7 +122,7 @@ sufficient information for me to get alert.” Somakhya: “Truth to be told
 the vetAla alone was not enough; my friend Indrasena gave a vital clue
 to put things together.”
 
-As Lootika and Varoli prepared to leave to pick up Temülen from her
+As Lootika and Varoliprepared to leave to pick up Temülen from her
 class, the former remarked in a heavy voice: “I am really scared for my
 dear sister Vrishchika. She is in close contact with this dangerous
 stuff and what we see is really depressing. I wish she could opt out of
@@ -133,21 +137,21 @@ performing the rite of the mighty six-faced god with incantations, which
 are known only to those who have mastered the complete tantra of the
 ShaNmukha-kalpa with the mayUrachandrikA. He sprinkled sand all around
 uttering the incantation:  
-OM mahAsenAya vidmahe kumArAya dhImahi | tan no guhaH prachodayAt svAhA
-||
+OM mahAsenAya vidmahe kumArAya dhImahi \| tan no guhaH prachodayAt svAhA
+\|\|
 
 Thereafter he made the primary kaumAra oblations with the incantation:  
 OM namaH kumArAdhipataye mAtR^i-graha-jyeShTAyaantarikSha-charAya
-deva-devAya ShaNmukhAya mahAsenAya mayUravAhanAya svAhA ||
+deva-devAya ShaNmukhAya mahAsenAya mayUravAhanAya svAhA \|\|
 
 Then he poured ghee on to the idol of kumAra with the incantation:  
 OM AyAtu bhagavAn deva-devA\~Nkusha-pAshadhara-kanaka-shakte
 ghaNTA-kolAhala-priya pratiShTha mArge .arghyaM pratigR^ihANa namo namaH
-svAhA || hum ||
+svAhA \|\| huM \|\|
 
 After several oblations to skanda he then made the oblations to the
 great goddess ShaShThI: OM namo bhagavatyai mahAmayUriNyai hariNyai
-ShaShaThyai svAhA ||
+ShaShaThyai svAhA \|\|
 
 Then he made the oblations to the 33 great gods and there after started
 making offerings to the hundreds of divinities of the great circle of
@@ -162,7 +166,7 @@ ShaShThI for japa of the secret mantra. After sometime he perceived with
 the inner “eye” the appearance of a goddess wearing a mask around her
 eyes. He realized that it was mukhamaNDikA. He heard her divine voice:
 “sarvAn viShayAn chintayitvA shIgraM bhaiShajya-rasAdi- karmANi
-sakhIbhiH saha kurvIthAH | saptadashaM manuM prayu\~njIthAH |”
+sakhIbhiH saha kurvIthAH \| saptadashaM manuM prayu\~njIthAH \|”
 Thereafter Somakhya performed japa of the dravyaparIkShaNaM kartukAmaH
 of the uttara-tantraM of the ShaNmukha kalpa. Finally, after offering
 tarpaNa to the lineage of AchArya-s of the tantra starting from
@@ -172,7 +176,7 @@ cleansed of the evils of rAkShasonmAda, he ended his ritual.
 
 Somakhya had arrived at Lootika’s house for dinner. Having known her for
 years, he could say that while outwardly putting a smiling face and
-introducing her student, something was bothering her. He saw Vrischika
+introducing her student, something was bothering her. He saw Vrishchika
 walk up from behind them and noted that her face more plainly betrayed a
 deep sense of fear. Somakhya did not remark anything about this then
 because he knew their parents were only incompletely informed of the
@@ -182,7 +186,7 @@ hand said: “I am very scared.” Somakhya unemotionally looked at her and
 said: “And we need to get ready to fight; call the rest and let
 Vrishchika tell us the news.” Now fired by Somakhya’s demeanor she
 called in her sisters and student for a grand council. Somakhya:
-“Vrischika tell us all that you know.” Vrishchika, still looking very
+“Vrishchika tell us all that you know.” Vrishchika, still looking very
 worried: “Things have gone from bad to worse. We have intelligence that
 the mutagenizing virus with the deaminase gene, now confirmed by Lootika
 and Temülen, has broken out in several places across bhArata. This is
@@ -190,7 +194,7 @@ going to have the effects of a dirty bomb going off in multiple cities
 and towns. We do not know what to do. While Lootika has figured out that
 in principle an effective vaccine can be developed, that is going to
 take a long time and before that we could all be engulfed. We have the
-first case in our own city\!” Somakhya: “No doubt we need to go ahead
+first case in our own city!” Somakhya: “No doubt we need to go ahead
 with the vaccine development. Hopefully, you can convince the highest
 powers to get this moving.” Vrishchika: “An officer on special duty from
 the health ministry is coming to visit me tomorrow. He said he will have
@@ -209,8 +213,8 @@ for those experiments?” Varoli: “That should not be a problem.”
 Somakhya: “I realize neither the steroid nor the vaccine are going to be
 easy to quickly confirm or deploy. We need something faster than that
 but we need to get working on them as the long term solutions. But now I
-have something to say that you will find positively weird. Jhilleeka
-with Sandeep’s help do a metagenome sequencing of bacteria from the bag
+have something to say that you will find positively weird. Jhilleeka,
+with Sandeep’s, help do a metagenome sequencing of bacteria from the bag
 of mud Lootika intended to give me many years ago but forgot. Get the
 sequences to me as soon as they are ready and I will tell you all how to
 proceed.” They all looked at Somakhya as though he had gone mad. But he
@@ -230,10 +234,10 @@ Sharvamanyu told me that the church of South India and the Evangelical
 Society had some major vaccination drives in the past three months which
 were funded by the John Doors foundation. I doubt that is coincidental.
 One expedient way is to get the vaccine out of the mlechCha-s before we
-make our own.” Vrischika: “Should I tip off the officials about this?
+make our own.” Vrishchika: “Should I tip off the officials about this?
 Moreover, I heard from Vidrum that we were going to be visited next week
 by Faqih ibn al-Ass, the top epidemiologist of the barbarian kingdom of
-Saudia Arabia. What could that mean in this context?” Somakhya: “Ah\!
+Saudia Arabia. What could that mean in this context?” Somakhya: “Ah!
 Faqih ibn al-Ass sounds like the capstone of this whole affair – seems
 to be the clinching signal of the mlechCha-marUnmattAbhisaMdhi.”
 
@@ -251,9 +255,9 @@ difficulties Varoli faced with making the libraries for the metagenomic
 analysis of the mud and how finally she had to intercede and get it
 done. Then Somakhya detailed to her a construct of a similar virus with
 a secret toxin known only to him: “If we make this perhaps we might have
-a counter-weapon, which could be used as a deterrent or a retaliatory
+a counter-weapon, whichcould be used as a deterrent or a retaliatory
 astra. After all, not for nothing our ancestors praised that which is
-called pratIchInaM\!” Lootika decided to get Temülen to test that toxin
+called pratIchInaM!” Lootika decided to get Temülen to test that toxin
 and get the said virus constructed. Then they parted ways and went to
 their homes.
 
@@ -276,8 +280,8 @@ Vidrum and all the people – remember the vetAla’s message?” Jhilleeka
 “Finally I have for you the metagenomic sequences from the mud. Here
 they are for what they are worth.” Somakhya’s eyes light up: “Wonderful,
 little one. I’ll get working on them right away.” Jhilleeka protested:
-“I am no little one any more\!” Somakhya then called Vrishchika into
-his room, and pulling out a vial gave it to her: “Here is a peptide
+“I am no little one any more!” Somakhya then called Vrishchika into his
+room, and pulling out a vial gave it to her: “Here is a peptide
 Indrasena isolated from a toad. Take it with you and spray a little into
 you nostrils when you feel like you are feeling now after not having
 slept for almost three days.”
@@ -299,7 +303,7 @@ proteins for the respective toxins. Give these to Temülen and have her
 test the same against their toxins. Once confirmed, you all should make
 viruses exactly like those of Dick Shuman but now having the immunity
 protein genes in place of those of the toxins. Let Vrishchika then put
-them on trial as an experimental treatment for those infected.”
+them on trial as an experimental treatment forthose infected.”
 
 Of course things are easier said than done. The pressure was mounting on
 all fronts with kAla turning on even as the writhing of the serpent
@@ -334,7 +338,7 @@ the apicomplexan parasite *Lankesterella minima*. They saw a curious
 item: “*The scientist Dick Shuman and Saudi Arabian epidemiologist Faqih
 ibn al-Ass were taken into custody as part of an investigation relating
 to the outbreak of a deadly viral disease among marines and civilians at
-Fort Redstone. Possible involvement of a bio-warfare agent is being
+Fort Redstone. Possible involvement of a bio-warfare agent isbeing
 suspected.*” Soon thereafter Somakhya and Lootika were receiving frantic
 messages from the mlechCha-s asking them to help out with this
 situation. They responded to the mlechCha-s that they would certainly
@@ -343,3 +347,4 @@ look into it once they were done with their investigation of
 
 [To part
 VI.](https://manasataramgini.wordpress.com/2014/06/02/the-engineer-the-dead-fish-and-the-bag-of-earth-the-end/)
+

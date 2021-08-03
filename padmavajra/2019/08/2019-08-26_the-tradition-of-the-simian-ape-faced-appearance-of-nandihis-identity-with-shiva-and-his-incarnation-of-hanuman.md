@@ -1,8 +1,11 @@
 +++
-title = "The tradition of the simian (ape-faced) appearance of nandi,His identity with shiva and His incarnation ofxa0hanumAn"
+title = "The tradition of the simian (ape-faced) appearance of nandi,His identity with shiva and His incarnation of hanumAn"
 date = "2019-08-26"
+upstream_url = "https://padmavajra.net/2019/08/26/the-tradition-of-the-simian-ape-faced-appearance-of-nandihis-identity-with-shiva-and-his-incarnation-of-hanuman/"
 
 +++
+Source: [here](https://padmavajra.net/2019/08/26/the-tradition-of-the-simian-ape-faced-appearance-of-nandihis-identity-with-shiva-and-his-incarnation-of-hanuman/).
+
 ![768px-Lord_Hanuman_statue](https://padmavajrablog.files.wordpress.com/2019/08/768px-lord_hanuman_statue.jpg?w=739)
 
 Image of hanumAn from Coimbatore(source:Wikimedia Commons)

@@ -1,7 +1,11 @@
 +++
 title = "A note on govinda, a medieval chemist and physician from South India"
+date = "2009-05-25"
+upstream_url = "https://manasataramgini.wordpress.com/2009/05/25/a-note-on-govinda-a-medieval-chemist-and-physician-from-south-india/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/05/25/a-note-on-govinda-a-medieval-chemist-and-physician-from-south-india/).
+
 Years ago while examining the sarva-darshana-saMgraha it became clear
 that the rasa cult probably had a notable following in the Vijayanagaran
 territory. A visitor from the chera country had shown me a text titled
@@ -63,21 +67,21 @@ where they would conduct their experiments in the form a maNDala of
 rasabhairava, an emanation of aghora. The rasabhairava or rasesha and
 his wife rasA\~NkushI are installed in the center. There are several
 surrounding AvaraNa-s, which in order are:  
-1\) Square: nandin, mahAkAla, the demon kumbhakarNa and the monkey
+1) Square: nandin, mahAkAla, the demon kumbhakarNa and the monkey
 sugrIva with the skeletal bhR^igin probably in the middle holding the
 foot of shiva.  
-2\) Octagon in E-S-W-N orientation: shukra, skanda, rudra, vayu,
+2) Octagon in E-S-W-N orientation: shukra, skanda, rudra, vayu,
 sadashiva, agni, umA, and space (vyApaka)  
-3\) Ten rasa-dUti-s or rasa-yoginI-s: lepikA, kShepikA, kShArikA,
+3) Ten rasa-dUti-s or rasa-yoginI-s: lepikA, kShepikA, kShArikA,
 ra\~njikA, lohaTI, bandhakArI, bhUcharI, mR^ityunAshinI, vibhUti and
 khecharI. These are placed as an octagon with the last two on top and
 bottom.  
-4\) Octagonal lotus in E-S-W-N orientation containing: mAkSika, vimala,
+4) Octagonal lotus in E-S-W-N orientation containing: mAkSika, vimala,
 shaila, chapala, rasaka, sasyaka, and two gandhatAla-s. These are the 8
 vidyeshvara rudra-s, each of a different color with 5 heads with 3 eyes
 on each. They are blue-throated, with cresent moon ornaments and
 eighteen hands and bull-banners.  
-5\) In the pericarp of this lotus are situated their shakti-s: mAlinI,
+5) In the pericarp of this lotus are situated their shakti-s: mAlinI,
 hemashakti, parA, balA, aparA, vajrashakti, kAnti and parAparA.
 
 In the middle of these circuits is situated the great rasa-bhairava: He
@@ -88,13 +92,13 @@ his head gear, wearing a tiger skin, a snake upavIta, holding a
 bull-banner and has 18 arms with several weapons and a slight smile on
 his faces. He is invoked with the glorious mantra:  
 * OM hrIM krIM raseshvarAya mahAkAlAya mahAbalAyAghorabhairavAya
-vajravIra krodha-ka\~NkAla kShlauH kShlaH ||*  
+vajravIra krodha-ka\~NkAla kShlauH kShlaH \|\|*  
 The part after raseshvarAya and ending with the two rasa bIja-s is the
 core rasesha mantra of 32 syllables. The whole mantra is said to
 correspond syllable for syllable to the aghora mantra and represent the
 emanation of rasabhairava from aghora:  
-*aghorebhyo .atha ghorebhyo ghora ghoratarebhyaH | sarvebhyas
-sarva-sharvebhyo namaste astu rudra-rUpebhyaH ||*
+*aghorebhyo .atha ghorebhyo ghora ghoratarebhyaH \| sarvebhyas
+sarva-sharvebhyo namaste astu rudra-rUpebhyaH \|\|*
 
 His shakti rasA\~NkushI is conceived thus:  
 She is well decked with jeweled ornaments, with a crescent moon on her
@@ -103,7 +107,7 @@ like pure gold and is draped in yellow garments in the midst of white
 flywhisks and a pearl decked parasol. In her two right hands she holds a
 hook and rosary and a lasso and the abhaya mudra in her left hands. She
 is invoked by the glorious mantra:  
-*aIM hrIM shrIM klIM sauH ||*
+*aIM hrIM shrIM klIM sauH \|\|*
 
 Of the yantra-s actually used in the laboratory described by govinda
 most are obscure. Some of these are clarified in modern rasAyana works
@@ -122,3 +126,4 @@ full of strange things to the modern mind, one unusual feature is the
 making of extracts from particular earthworms (bhUnAga). The earthworms
 living near gold, silver or iron mines are used to extract what are
 known as sattva’s of various metals.
+

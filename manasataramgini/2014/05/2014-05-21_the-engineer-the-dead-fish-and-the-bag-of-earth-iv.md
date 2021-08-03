@@ -1,17 +1,21 @@
 +++
 title = "The engineer, the dead fish and the bag of earth-IV"
+date = "2014-05-21"
+upstream_url = "https://manasataramgini.wordpress.com/2014/05/21/the-engineer-the-dead-fish-and-the-bag-of-earth-iv/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/05/21/the-engineer-the-dead-fish-and-the-bag-of-earth-iv/).
+
 [From chapter
 3](https://manasataramgini.wordpress.com/2014/05/15/the-engineer-the-dead-fish-and-the-bag-of-earth-iii/ "The engineer, the dead fish and the bag of earth-III")  
-kalpito viShANur nAma chaturtho .adhyAyaH |  
+kalpito viShANur nAma chaturtho .adhyAyaH \|  
 After making oblations of caprine cheese and gruel in the ritual fire to
 the goat-riding god puShaN, Lootika prepared to leave. On the flight to
 Moscow she started reading the yogashAstra of the great jaina polymath
 of the third varNa hemachandra sUri. As she flipped through it she
 reached the chapter on prANAyAma (chapter 5). Suddenly the verses
 following 5.264 caught her eye. There hemachandra described a procedure:
-“evaM parAsu deheShu pravished vAmanAsayA|” Glancing further she found
+“evaM parAsu deheShu pravished vAmanAsayA \|” Glancing further she found
 that he stated that one should not enter jIvadeha-s, but in the
 svopaj\~navR^itti commentary below these verses he did describe such a
 procedure. She now felt at ease – nothing was wrong with her – most
@@ -22,7 +26,7 @@ their way. The dull drone of the plane lulled her to sleep and she had a
 dream where the encounter with the vetAla they had many years ago
 replayed itself. She woke up and thought what could all this mean –
 Somakhya’s parakAyapraveshanaM was as dramatic as the coming of the
-vetAla. These might be linked she thought. But nothing really made
+vetAla. These mightbe linked she thought. But nothing really made
 complete sense to her. Finally, the plane landed in Moscow and she had
 to wait for her flight to Ulaanbaatar. She decided to send off mail to
 inform her family of her whereabouts – they had greatly disapproved of
@@ -42,7 +46,7 @@ symptoms typical of an unregulated fear pathway – in a sense like PTSD,
 but they seem to be afflicted by deep fear and anxiety even without
 apparent triggering stimuli – as though a fear pathway is constitutively
 switched on. With my team I found that they showed a virus in their CNS
-associated macrophages and phagocytic microglia\! I am taking help from
+associated macrophages and phagocytic microglia! I am taking help from
 the little ones Varoli and Jhilleeka to try to sequence the virus. I
 know how you have started to feel about our old friend Somakhya but it
 would be good if you could get him on board to help us with this down
@@ -78,7 +82,7 @@ message. After sleeping off the jet lag she ventured with Temülen to get
 some milk when they were accosted by a mlechCha wearing dark glasses.
 Immediately, it struck Lootika that the fellow looked like a mlechCha
 praNidhi who used to be lionized as a great hero in movies fabricated by
-the mlechCha-s, though in reality such were barbarous harbingers of
+the mlechCha-s, though in reality such werebarbarous harbingers of
 trouble to other nations. He was built like a pR^iShThabhettR^i and
 Lootika realized he meant trouble. He was being very friendly and trying
 to chat them up but they deftly brushed him off and quickly walked into
@@ -105,9 +109,9 @@ started asking Lootika about about the doha-s of saroruhavajra and how
 they sounded in their original tongue. They started discussing the
 significance of one of them:  
 jhANahINa pavvajjeM rahiau  
-gharahi vasanti bhajjem sahiau |  
+gharahi vasanti bhajjem sahiau \|  
 jai bhiDi visaa ramanata Na mucchai  
-saraha bhaNai pariANa ki mucchai ||
+saraha bhaNai pariANa ki mucchai \|\|
 
 Without doing any dhyAna,  
 beyond renunciation,  
@@ -115,7 +119,8 @@ living at home,
 together with your woman,  
 if deeply enjoying these matters  
 does not provide liberation  
-saraha says how can consciousness be liberated\!  
+saraha says how can consciousness be liberated!
+
 Temülen asked how if the old tathAgata had shown that consciousness was
 an illusion itself, could any question of liberating it arise. It struck
 Lootika that it was a rather Astika way of putting things and wondered
@@ -160,14 +165,14 @@ hand it was a special phone issued by the mlechCha-praNidhirAlaya. With
 that in their hand they knew had him under their total control. The
 laughed to calm their nerves and said: “This pR^iShTabhettR^i’s career
 is really ruined, for what a laughing stock he would become in their
-praNidhirAlaya\!” Temülen using her connections called up the local
+praNidhirAlaya!” Temülen using her connections called up the local
 authorities on their satellite phone and informed them of the event and
 said that they would deliver the mlechCha’s phone to them. Since this
 would make big news and cause a foreign-relations scandal for the
 mlechCha-s they knew the mlechCha-s would have to shut their mouth and
 keep their hands off them. Then they drove back to an encampment near
 the mouth of the Sujekht valley and having rented horses rode to a
-desolate camp site to enjoy the night skies.  Temülen remarked that
+desolate camp site to enjoy the night skies. Temülen remarked that
 truly the god one experienced here was möngke ṭngri; to Lootika it
 echoed back as the presence of the great asura varuNa.
 
@@ -216,15 +221,15 @@ amygdalar neurons of four of the patients who sadly died. Also their
 SHANK3 protein was found to be cleaved releasing the C-terminal SAM
 domain. Jhilleeka: “We have nearly completed the sequencing, should have
 it to you in the next day or two.” Exciting as all this was, the
-irresistible force of hypnos hit Somakhya and he lapsed into a nap. They
-were midway in their journey back home when Vrischika feeling thirst
-decided to get out to buy a bottle of water at a road stop. She was just
-getting back from the shop when a car sped by and came to screeching
-halt in front Vidrum’s car. A man jumped out of the car and threw a
-heavy blanket on top of Vrischika and bundling her in it tried to
-quickly drag her into the car. He had nearly hauled her in when
+irresistible force of hypnos from the jet lag hit Somakhya and he lapsed
+into a nap. They were midway in their journey back home when Vrischika
+feeling thirst decided to get out to buy a bottle of water at a road
+stop. She was just getting back from the shop when a car sped by and
+came to screeching halt in front Vidrum’s car. A man jumped out of the
+car and threw a heavy blanket on top of Vrischika and bundling her in it
+tried to quickly drag her into the car. He had nearly hauled her in when
 Jhilleeka leapt out Vidrum’s car like a gryllacridid on it prey and
-stabbed Vrischika’s attacker with her garala-sha\~NkulA. He winced in
+stabbed Vrishchika’s attacker with her garala-sha\~NkulA. He winced in
 pain and slumped beside the road releasing Vrischika. But two more men
 menacingly rushed out of the car and overpowering the girls were about
 to pull them in. At that instant a man rocketed into the scene on his
@@ -254,3 +259,4 @@ uncomfortable for them…”
 
 [To
 part-V](https://manasataramgini.wordpress.com/2014/05/29/the-engineer-the-dead-fish-and-the-bag-of-earth-v/)
+

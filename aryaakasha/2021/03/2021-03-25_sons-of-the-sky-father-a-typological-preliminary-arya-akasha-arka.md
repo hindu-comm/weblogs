@@ -1,8 +1,11 @@
 +++
-title = "Sons Of The Sky Father – A Typological Preliminary [ Arya Akasha Arkaxa0]"
-date = "March 25, 2021"
+title = "Sons Of The Sky Father – A Typological Preliminary [ Arya Akasha Arka ]"
+date = "2021-03-25"
+upstream_url = "https://aryaakasha.com/2021/03/25/sons-of-the-sky-father-a-typological-preliminary-arya-akasha-arka/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/03/25/sons-of-the-sky-father-a-typological-preliminary-arya-akasha-arka/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/03/arya-akasha-sons-of-the-sky-father-typology-diagram.png?w=1024)
 
 In the Heavens as it is upon Earth, Family is at the heart of

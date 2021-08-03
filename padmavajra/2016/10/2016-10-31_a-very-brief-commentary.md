@@ -1,8 +1,11 @@
 +++
-title = "A very briefxa0commentary"
+title = "A very brief commentary"
 date = "2016-10-31"
+upstream_url = "https://padmavajra.net/2016/10/31/a-very-brief-commentary/"
 
 +++
+Source: [here](https://padmavajra.net/2016/10/31/a-very-brief-commentary/).
+
 So,I found [this article](http://archive.is/DzYyo) by Garga Chatterjee a
 year ago,and he reshared this again a few
 [days](http://archive.is/aOE6X) ago.

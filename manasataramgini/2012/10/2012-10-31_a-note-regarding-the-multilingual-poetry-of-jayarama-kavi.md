@@ -1,7 +1,11 @@
 +++
 title = "A note regarding the multilingual poetry of jayarAma kavI"
+date = "2012-10-31"
+upstream_url = "https://manasataramgini.wordpress.com/2012/10/31/a-note-regarding-the-multilingual-poetry-of-jayarama-kavi/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/10/31/a-note-regarding-the-multilingual-poetry-of-jayarama-kavi/).
+
 We had a discussion with an acquaintance regarding the local linguistic
 pride and chauvinism among those who identify with desha bhAShA-s in
 bhArata. We had encountered the effect most forcefully in two modern
@@ -70,44 +74,43 @@ in the grammars of the jaina scholar hemachandra-sUri (i.e. the
 siddha-haima). What we learn from jayarAma’s work is their revival
 concomitant with the Hindu revival under the mahArATTa-s. The 12
 languages that jayarAma uses in his work are:  
-1\) saMskR^ita: Of course this is the dominant language used for more
+1) saMskR^ita: Of course this is the dominant language used for more
 than half the work and he shows his ability in producing elegant prose
 and verse in same (as daNDin had defined champu-s as being
 gadya-padya-mayI).  
-2\) panjAbI: The language of the panjAb and the vehicle of the literary
+2) panjAbI: The language of the panjAb and the vehicle of the literary
 productions of the sikh guru-s.  
-3\) hindusthAnI: From the poems it appears that he meant kharIboli and
+3) hindusthAnI: From the poems it appears that he meant kharIboli and
 rekhtA.  
-4\) gopAchalIya: This is the original braj bhAShA (i.e. language of
+4) gopAchalIya: This is the original braj bhAShA (i.e. language of
 gopAchala), which became important in northern India in the zone
 centered on mathurA as a major vehicle of north Indian classical
 music.  
-5\) vaktara: As this language is congruent to that used by the bundelI
+5) vaktara: As this language is congruent to that used by the bundelI
 bards. It might be inferred that it is the form of bundelI used in the
 1500-1600s.  
-6\) DhUnDhAD: Since this name refers to the province around Jaipur, it
-is clear that this language was one used by rAjasthAnI bards of the
-region. It was used extensively in late medieval bardic poetry on rAjpUt
+6) DhUnDhAD: Since this name refers to the province around Jaipur, it is
+clear that this language was one used by rAjasthAnI bards of the region.
+It was used extensively in late medieval bardic poetry on rAjpUt
 heroes.  
-7\) gurjara: The pre-modern form of gujarAtI.  
-8\) bAggul: The language of the rAjpUt kingdom of rAThoDs of baglAnA.
-The kingdom was destroyed by Awrangzeb and the rAjA was forcibly
-converted to Islam. It bears features of mahArATTi, hindI and
-gujarAtI.  
-9\) prAkR^ita: By this jayarAma appears to have usually referred to
+7) gurjara: The pre-modern form of gujarAtI.  
+8) bAggul: The language of the rAjpUt kingdom of rAThoDs of baglAnA. The
+kingdom was destroyed by Awrangzeb and the rAjA was forcibly converted
+to Islam. It bears features of mahArATTi, hindI and gujarAtI.  
+9) prAkR^ita: By this jayarAma appears to have usually referred to
 mahArATTI. At one point he has a mahArATTI poet durga ThAkur tell
-jayarAma: “kavI, thor Ahe yAs bhAShA aplA |”  
-10\) karNATa: kannaDa, the sister of tamiL, had a long history of its
+jayarAma: “kavI, thor Ahe yAs bhAShA aplA \|”  
+10) karNATa: kannaDa, the sister of tamiL, had a long history of its
 own. Interestingly, an early attestation of it comes from a vulgar
 bilingual Greek play in the Oyxrynchus papri regarding the woman
 Charition. It was widely spoken over mahAraShTra at some point before
 the rise of the seuna yAdava-s. This is the only Dravidian language used
 by jayarAma.  
-11\) yAvanI: In the lay Hindu’s mind the Moslem invader was already
+11) yAvanI: In the lay Hindu’s mind the Moslem invader was already
 conflated with the ancient Macedonian barbarians of Alexander and their
 successors. Hence, the yavana was indiscriminately transferred to the
 Mohammedan, and Persian was termed yAvanI.  
-12\) dakShiNAtya yAvanI: As the Mohammedan Sultanates entrenched
+12) dakShiNAtya yAvanI: As the Mohammedan Sultanates entrenched
 themselves in the old dakShiNapatha, a southern dialect emerged with an
 Indo-Aryan grammatical scaffold and Perso-Arabic vocabulary, known as
 dakkhanI. This is what jayarAma terms the yavana language of
@@ -217,3 +220,4 @@ the Mogol power the jihad theorist Waliullah and the mentally diseased
 proto-Taliban Ahmed Barelvi repeatedly emphasized that practices of the
 Kaffr were taking precedence over pure Mohammedanism and that jihads had
 to be waged to clear the Hindu influence on Mohammedan power in India.
+

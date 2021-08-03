@@ -1,7 +1,11 @@
 +++
 title = "The mathematics class"
+date = "2018-06-23"
+upstream_url = "https://manasataramgini.wordpress.com/2018/06/23/the-mathematics-class/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2018/06/23/the-mathematics-class/).
+
 It was a dreary autumn day, the same year Lootika had joined their
 school. The apabhraṃśa class had just gotten over. Somakhya’s head was
 spinning with all the confusing genders of the vulgar apabhraṃśa that
@@ -41,7 +45,7 @@ not more than a unit distance simultaneously from each of the four
 vertices of the square then what will be: 1) the minimum distance it can
 reach from any side of the square; 2) what fraction of the area of the
 square can the point be located in.” He then yelled: “The clock starts
-now\!”
+now!”
 
 A silence of terror rippled through the class and they hit their
 notebooks to solve the problem. Soon, Hemaling dropped his chair down
@@ -64,44 +68,43 @@ it looks as though typeset with LaTeX but you have drawn no figure.”
 Hemaling: “Sir, I saw no need for any figure when the algebra was so
 obvious.” Somakhya, you have shown no algebra but your construction is
 aesthetic with proper annotations of the solution on it. So full marks
-for both of you Hemaling and Somakhya\! Your handwriting sucks Gomay\!
-But your solution is right; so you too will get 5 marks too.” Then he
-looked seriously at Lootika and stroking his beard thunderously
-remarked: “Lootika, stand up\! Your answer is correct and neatly
-presented.” Then raising his voice he continued: “But remember if you
-think you are a smart alec, we punish those types severely at our
-school. You have been a bad girl today. You thought I did not see you,
-but I caught you helping your partner Nikhila. There is no way she could
-have solved it in the time she did if you had not helped her. As you are
-a new student and might bring a great name to our school in the future,
-I am sparing you the punishment… But you will get 0 extra marks despite
-having solved the problem correctly.” Lootika quietly sat down. He
-roared: “Lootika, stand up again\! Apologize for your misdemeanor\! You
-are not supposed to just sit down like that.” After Lootika had
-apologized, he turned to Vidrum: “You have tremendously improved this
-year and have been showing great diligence in class. Hence, you will get
-not just 5 but 7 extra marks for the correct solution.” He continued: “
-Tumul, you have not calculated the exact form of
-![\\sin(\\tfrac{\\pi}{12})](https://s0.wp.com/latex.php?latex=%5Csin%28%5Ctfrac%7B%5Cpi%7D%7B12%7D%29&bg=ffffff&fg=333333&s=0
-"\\sin(\\tfrac{\\pi}{12})"), so you will get only 1 extra mark.
+for both of you Hemaling and Somakhya! Your handwriting sucks Gomay! But
+your solution is right; so you too will get 5 marks too.” Then he looked
+seriously at Lootika and stroking his beard thunderously remarked:
+“Lootika, stand up! Your answer is correct and neatly presented.” Then
+raising his voice he continued: “But remember if you think you are a
+smart alec, we punish those types severely at our school. You have been
+a bad girl today. You thought I did not see you, but I caught you
+helping your partner Nikhila. There is no way she could have solved it
+in the time she did if you had not helped her. As you are a new student
+and might bring a great name to our school in the future, I am sparing
+you the punishment… But you will get 0 extra marks despite having solved
+the problem correctly.” Lootika quietly sat down. He roared: “Lootika,
+stand up again! Apologize for your misdemeanor! You are not supposed to
+just sit down like that.” After Lootika had apologized, he turned to
+Vidrum: “You have tremendously improved this year and have been showing
+great diligence in class. Hence, you will get not just 5 but 7 extra
+marks for the correct solution.” He continued: “ Tumul, you have not
+calculated the exact form of
+![\\sin(\\tfrac{\\pi}{12})](https://s0.wp.com/latex.php?latex=%5Csin%28%5Ctfrac%7B%5Cpi%7D%7B12%7D%29&bg=ffffff&fg=333333&s=0&c=20201002),
+so you will get only 1 extra mark.
 
 Then the teacher twirled his mustache and with cane pointed to
 Sharvamanyu: “You buddhū. You have made a mistake. Still, you had the
-temerity to try to push your classmates to reach my desk\! You will get
+temerity to try to push your classmates to reach my desk! You will get
 -7 marks. Sh: “Sir, I see I made a mistake but it was inadvertent. I
 know it should be a negative sign instead of a + sign for
-![\\sqrt{3}](https://s0.wp.com/latex.php?latex=%5Csqrt%7B3%7D&bg=ffffff&fg=333333&s=0
-"\\sqrt{3}").” The teacher barked at him: “You, moron. Having made the
-mistake you still want to talk back. Do you want my boot to kiss your
-ass? You are punished. Go and stand outside the class for the rest of
-the period. Then you shall write out the solution to this problem over
-and over again 196 times by the time of tomorrow’s class.” He then
-turned to Nikhila: “You stupid girl. Do you think you can learn
-mathematics by copying from that bespectacled girl? You are punished.
--10 marks for you and you will go and stand outside the class for the
-rest of the period. If are dishonest like this in the exam I will see
-that, that you fail the year.” Nikhila burst into tears and left the
-class.
+![\\sqrt{3}](https://s0.wp.com/latex.php?latex=%5Csqrt%7B3%7D&bg=ffffff&fg=333333&s=0&c=20201002).”
+The teacher barked at him: “You, moron. Having made the mistake you
+still want to talk back. Do you want my boot to kiss your ass? You are
+punished. Go and stand outside the class for the rest of the period.
+Then you shall write out the solution to this problem over and over
+again 196 times by the time of tomorrow’s class.” He then turned to
+Nikhila: “You stupid girl. Do you think you can learn mathematics by
+copying from that bespectacled girl? You are punished. -10 marks for you
+and you will go and stand outside the class for the rest of the period.
+If are dishonest like this in the exam I will see that, that you fail
+the year.” Nikhila burst into tears and left the class.
 
 That evening after school was over, a throng of girls went rushing to
 Lootika to get her help in solving the problem. Somakhya went home to
@@ -195,14 +198,13 @@ at Vidrum’s place – it is indeed all about Vāyu as the Kākṣaseni had
 learned in the days of yore. Thus, we too reached the skies. Now that
 you know the rahasya you too can impart it to Vrishchika and others.”
 
------
+------------------------------------------------------------------------
 
 Appendix: Solution the question posed in the class.
 
-![Square\_interior\_problem](https://manasataramgini.files.wordpress.com/2018/06/square_interior_problem.png?w=640)
+![Square_interior_problem](https://manasataramgini.files.wordpress.com/2018/06/square_interior_problem.png?w=640)
 
 The blue curvilinear quadrilateral is area the point in the question can
 occupy:  
 ![\\dfrac{\\pi}{3}+1-\\sqrt{3} \\approx
-0.3151467](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B%5Cpi%7D%7B3%7D%2B1-%5Csqrt%7B3%7D+%5Capprox+0.3151467&bg=ffffff&fg=333333&s=0
-"\\dfrac{\\pi}{3}+1-\\sqrt{3} \\approx 0.3151467")
+0.3151467](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B%5Cpi%7D%7B3%7D%2B1-%5Csqrt%7B3%7D+%5Capprox+0.3151467&bg=ffffff&fg=333333&s=0&c=20201002)

@@ -1,7 +1,11 @@
 +++
 title = "yakShiNi and R^ikShakarNi … the journey continues"
+date = "2005-10-15"
+upstream_url = "https://manasataramgini.wordpress.com/2005/10/15/yakshini-and-rikshakarni-the-journey-continues/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/10/15/yakshini-and-rikshakarni-the-journey-continues/).
+
 Having been trapped with the ghoraprakR^iti we sought to escape on that
 rainy day. After the passage through the kAlaChidras and the many paths
 had been sealed there was a single path winding through naraka. The old
@@ -40,3 +44,4 @@ window and saw a serene scenery of a sundara nagara there. But from
 somewhere we heard the low moans of a vetAla, though we were unable to
 see it. We then sighted the saMjaya netra and the sword of sAtyakI lying
 in one of the rooms.
+

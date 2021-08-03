@@ -1,7 +1,13 @@
 +++
 title = "The crossing of ashmanvatI"
+date = "2006-11-26"
+upstream_url = "https://manasataramgini.wordpress.com/2006/11/26/the-crossing-of-ashmanvati/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/11/26/the-crossing-of-ashmanvati/).
+
+
+
 [![](https://i2.wp.com/photos1.blogger.com/x/blogger2/6438/855/320/606078/ashmanvatI.jpg)](http://photos1.blogger.com/x/blogger2/6438/855/1600/606089/ashmanvatI.jpg)
 
 In the days of our earliest memories we were transfixed by the sight of
@@ -22,8 +28,8 @@ understand the vedic mantra shAstra code, even if only in fragments,
 will see the concealment so typical of the tantric mantra shAstra that
 followed):
 
-sAdhvI makar devavItiM no adya yaj\~nasya jihvAma vidAma guhyAm |  
-sa AyurAgAt surabhirvasAno bhadrAmakar devahUtiM no adya || RV 10.53.3
+sAdhvI makar devavItiM no adya yaj\~nasya jihvAma vidAma guhyAm \|  
+sa AyurAgAt surabhirvasAno bhadrAmakar devahUtiM no adya \|\| RV 10.53.3
 
 Today he made the food-offerings to the deva-s effective;we have now
 found the secret tongue of the yaj\~na. Today he has come, robed in
@@ -40,8 +46,8 @@ sauchIka agnI
 hymn](https://manasataramgini.wordpress.com/2006/11/21/the-path-of-fire/)\]
 
 tantuM tanvan rajaso bhAnumanvihi jyotiShmataH patho rakSha dhiyA
-kR^itAn |  
-anulbaNaM vayata joguvAmapo manurbhava janayA daivyaM janam || RV
+kR^itAn \|  
+anulbaNaM vayata joguvAmapo manurbhava janayA daivyaM janam \|\| RV
 10.53.3
 
 Spinning the thread, follow the sun in the heaven, guarding the stellar
@@ -56,8 +62,8 @@ nights in a regular pattern, which is also mentioned in the kaushItaki
 mantra- KB 19.3. The gods are asked to watch upon the path of the sun
 that was earlier “disrupted” by precession\]
 
-akShAnaho nahyatanota somyA iShkR^iNudhvaM rashanA ota piMshata |  
-aShTAvandhuraM vahatAbhito rathaM yena devAsoanayannabhi priyam || RV
+akShAnaho nahyatanota somyA iShkR^iNudhvaM rashanA ota piMshata \|  
+aShTAvandhuraM vahatAbhito rathaM yena devAsoanayannabhi priyam \|\| RV
 10.53.7
 
 O soma drinkers, fasten that which is to the tied, prepare the ropes and
@@ -66,8 +72,8 @@ lead forth that which we love. \[The deeper meaning of this mantra is
 still shrouded in mystery- e.g. why eight seats? Yet the axle and ropes
 here allude to the world frame being set in place\]
 
-ashmanvatI rIyate saM rabhadhvam uttiShThata pra taratA sakhAyaH |  
-atrA jahAma ye asann ashevAH shivAn vayam ut taremAbhi vAjAn || RV
+ashmanvatI rIyate saM rabhadhvam uttiShThata pra taratA sakhAyaH \|  
+atrA jahAma ye asann ashevAH shivAn vayam ut taremAbhi vAjAn \|\| RV
 10.53.8
 
 ashmanvatI flows by. Hold tight together, keep your self erect and cross
@@ -85,8 +91,8 @@ around 3700 BC by which the crossing was definitely over\].
 
 The final mantra of these series while extremely obscure gives a clue of
 what the period might have been:  
-garbhe yoShAm adadhur vatsam Asany apIchyena manasota jihvayA |  
-sa vishvAhA sumanA yogyA abhi siShAsanirvanatekAra ijjitim || RV
+garbhe yoShAm adadhur vatsam Asany apIchyena manasota jihvayA \|  
+sa vishvAhA sumanA yogyA abhi siShAsanirvanatekAra ijjitim \|\| RV
 10.53.11  
 The hymns appears to state that the R^ibhu-s \[not named directly but
 indicated by brahminical tradition\] secretly placed the young lady in
@@ -108,9 +114,9 @@ Hindu thought.
 
 puShpandanta’s shiva mahimna:  
 viyad vyApI tArAgaNaguNita phenodgama ruchiH  
-pravAho vArAM yaH pR^iShatalaghu dR^iShTaH shirasi te |  
+pravAho vArAM yaH pR^iShatalaghu dR^iShTaH shirasi te \|  
 jagad-dvIpAkAraM jaladhi valayaM tena kR^itamiti  
-anenaivonneyaM dhR^ita mahima divyaM tava vapuH ||17||
+anenaivonneyaM dhR^ita mahima divyaM tava vapuH \|\|17\|\|
 
 The heavenly stream (the Milky Way) envelops the sky, with its beauty
 enhanced by the illumination of the foam by the groups of stars. It
@@ -120,9 +126,9 @@ of your celestial form.
 
 Then again:  
 prajAnAthaM nAtha prasabhamabhikaM svAM duhitaraM  
-gataM rohid bhUtAM riramayiShumR^isShyasya vapuShA |  
+gataM rohid bhUtAM riramayiShumR^isShyasya vapuShA \|  
 dhanuSh-pANeryAtaM divamapi sapatrAkR^itamamuM  
-trasantaM te.adyApi tyajati na mR^igavyAdharabhasaH ||22||
+trasantaM te.adyApi tyajati na mR^igavyAdharabhasaH \|\|22\|\|
 
 O lord, once prajApati was attracted to his own daughter. When she fled
 becoming a red deer he took the form of a stag and chased her. You as a
@@ -130,3 +136,4 @@ hunter, with a bow in hand \[went after him\]. Struck by your arrow and
 greatly terrorized he is in the sky \[as a constellation\].
 
 In the picture above all these scenes are seen on the celestial dome.
+

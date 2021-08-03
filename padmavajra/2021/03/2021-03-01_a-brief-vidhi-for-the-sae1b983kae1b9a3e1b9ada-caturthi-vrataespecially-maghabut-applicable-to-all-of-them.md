@@ -1,8 +1,11 @@
 +++
-title = "A brief vidhi for the Saṃkaṣṭa caturthī vrata(especially Māgha,but applicable to all ofxa0them)"
-date = "2021-03-01"
+title = "A brief vidhi for the Saṃkaṣṭa caturthī vrata(especially Māgha,but applicable to all of them)"
+date = "2021-01-03"
+upstream_url = "https://padmavajra.net/2021/03/01/a-brief-vidhi-for-the-sa%e1%b9%83ka%e1%b9%a3%e1%b9%ada-caturthi-vrataespecially-maghabut-applicable-to-all-of-them/"
 
 +++
+Source: [here](https://padmavajra.net/2021/03/01/a-brief-vidhi-for-the-sa%e1%b9%83ka%e1%b9%a3%e1%b9%ada-caturthi-vrataespecially-maghabut-applicable-to-all-of-them/).
+
 Homage to Śrī Dakṣiṇāmūrti!
 
 The merits of even performing it accidentally,as uttered by Brahmā to

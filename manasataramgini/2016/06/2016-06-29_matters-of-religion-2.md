@@ -1,7 +1,11 @@
 +++
 title = "Matters of religion-2"
+date = "2016-06-29"
+upstream_url = "https://manasataramgini.wordpress.com/2016/06/29/matters-of-religion-2/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2016/06/29/matters-of-religion-2/).
+
 Indrasena and Vrishchika were visiting the house of Somakhya and
 Lootika. They were seated in a corner of the fire-room, where the latter
 had installed an image of the god Kumāra in the midst of a ṣaḍara-cakra.
@@ -9,8 +13,7 @@ Around the image of the god was a circle of images of the twelve
 dreadful goddesses and a row of images of the seven Mātṛkā-s.  
 Somakhya: “Good to see you all back safe from the Himālaya.”  
 Lootika: “I have been dying to hear the highlights of the trip.”  
-Vrishchika: “I must say we learned that you two might have fooled
-us\!”  
+Vrishchika: “I must say we learned that you two might have fooled us!”  
 Lootika looked puzzled and smiled: “Why so anujā?”  
 Vrishchika: “You might have imparted to us the incomplete
 kaumāra-vidyā.”  
@@ -19,11 +22,11 @@ Vrishchika turned to look at Indrasena.
 
 Indrasena: “Alright, here it is in short. Having reached the land once
 ruled by the great Pṛthivīnārāyaṇa we visited the shrine of
-Jaya-vāgīśvarī and then went to the cave of the old paṇḍitā Guhyasomā
-to whose lineage our wives belong. Then we went the yajurvedin whom you
-had mentioned and paid our respects. He in turn directed us to a
-somewhat isolated slightly elevated place on the over-lying incline.
-After trekking out there we visited the man we were supposed meet; Dev
+Jaya-vāgīśvarī and then went to the cave of the old paṇḍitā Guhyasomā to
+whose lineage our wives belong. Then we went the yajurvedin whom you had
+mentioned and paid our respects. He in turn directed us to a somewhat
+isolated slightly elevated place on the over-lying incline. After
+trekking out there we visited the man we were supposed meet; Dev
 Rudrapal was his name, evidently of a local viśvakarman or takṣaka jāti.
 He was a young man making a profusion of idols of various deities with
 extraordinary dexterity. For a while we quietly watched. By then I
@@ -48,10 +51,10 @@ Lootika: “Dear anujā how can you be sure that your viśvakarman told you
 something true?”  
 Vrishchika: “Indrasena and me know enough of mantra-siddhānta to know
 what he said is the truth. Even those who know the kṛtāgamāḥ
-kaumāra-vidyāḥ are merely upāsaka-s not on the path of being siddha-s
-in the kaumāra-śāsana. After all only one who knows the nirmālya-devatā
-as per the udīcyo gharāṃnāyaḥ, as Manvarṇavanātha and Sarvamaṅgalā did
-in the Lāṭadeśa during the days of emperor Harṣavardhana, can be on that
+kaumāra-vidyāḥ are merely upāsaka-s not on the path of being siddha-s in
+the kaumāra-śāsana. After all only one who knows the nirmālya-devatā as
+per the udīcyo gharāṃnāyaḥ, as Manvarṇavanātha and Sarvamaṅgalā did in
+the Lāṭadeśa during the days of emperor Harṣavardhana, can be on that
 path. Moreover, one who knows it by the navya-draṃiḍa-rīti only attains
 the lower path.”
 
@@ -99,10 +102,10 @@ Pāñcanada.”
 
 Indrasena: “So indeed the devatā-s are M…”. Somakhya extended his hand
 to stop Indrasena from uttering their names aloud. Vrishchika seeing
-that remarked: “Then that must be it\!”  
+that remarked: “Then that must be it!”  
 Somakhya: “Before commencing with the instruction of their mantra first
 worship the liṅga of Rudra with the mantra-s starting with
-“nidhanapataye namaH | …”. Then utter the following incantations and
+“nidhanapataye namaH \| …”. Then utter the following incantations and
 offer arka flowers to each of the deities of those mantra-s:  
 oṃ ya ra la va śa ṣa sa hoṃ sohaṃ haṃsaḥ sohaṃ haṃsaḥ lohitāyanyai namaḥ
 ।  
@@ -119,8 +122,7 @@ Thereafter Somakhya whispered mantra of the devatA-s in the ear of
 Indrasena and Lootika did the same Vrishchika.
 
 Somakhya: “Now we shall proceed with that old rahasya of the
-kaumāraśāsana, the prayoga of Bhāllavi. The Bhāllavi-brāhmaṇa
-states:  
+kaumāraśāsana, the prayoga of Bhāllavi. The Bhāllavi-brāhmaṇa states:  
 haraḥ kumāra-rupeṇa bruvaṃs tām abhayabhāṣata ।  
 vijyotiṣeti coktāyāṃ sahasāgnir udjvalat ।  
 sahamānaḥ samāyāntaṃ prakāśaṃ ca prakāśyan ।  
@@ -171,12 +173,12 @@ grass, holding the sruk aloft with the flange Somakhya uttered the
 following six mantra-s and after each of the first five mantra-s made an
 offering in the fire with svāhā (idaṃ kumārāya āgneyāya na mama):
 
-1\) kumāram mātā yuvatiḥ samubdham …  
-2\) kam etaṃ tvaṃ yuvate kumāram …  
-3\) hiraṇyadantaṃ śucivarṇam ārāt …  
-4\) kṣetrād apaśyaṃ sanutaś carantaṃ …  
-5\) vi jyotiṣā bṛhatā bhāty agniḥ …  
-6\) uta svānāso divi ṣantv agneḥ …
+1) kumāram mātā yuvatiḥ samubdham …  
+2) kam etaṃ tvaṃ yuvate kumāram …  
+3) hiraṇyadantaṃ śucivarṇam ārāt …  
+4) kṣetrād apaśyaṃ sanutaś carantaṃ …  
+5) vi jyotiṣā bṛhatā bhāty agniḥ …  
+6) uta svānāso divi ṣantv agneḥ …
 
 After the 6th mantra he made an offering with vaṣaṭ.
 
@@ -190,9 +192,9 @@ At his birth for glory, the seven mothers instructed him as the wise
 one, by knowing which he is firm of opulence.
 
 Somakhya: “These are the vedokta oblations as promulgated by the
-Bhāllavi-s. They have an important role in abhicārika function.
-However, if a further offering is made with the following mantra taught
-by sage Bodhāyana it also serves a pediatric function:  
+Bhāllavi-s. They have an important role in abhicārika function. However,
+if a further offering is made with the following mantra taught by sage
+Bodhāyana it also serves a pediatric function:  
 oṃ aghorāya mahāghorāya nejameṣāya namo namaḥ ॥
 
 It was the mantra that was deployed by the kṣatriya-s for the birth of
@@ -237,3 +239,4 @@ her were in addition Catuṣpathaniketā and Śiśumāramukhī. A key to the
 complete siddhānta is średhividyā and the corresponding yantra.”
 
 continued…
+

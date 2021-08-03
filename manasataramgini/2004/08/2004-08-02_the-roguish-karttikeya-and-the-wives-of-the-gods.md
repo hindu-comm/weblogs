@@ -1,7 +1,13 @@
 +++
 title = "The roguish Karttikeya and the wives of the gods"
+date = "2004-08-02"
+upstream_url = "https://manasataramgini.wordpress.com/2004/08/02/the-roguish-karttikeya-and-the-wives-of-the-gods/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/08/02/the-roguish-karttikeya-and-the-wives-of-the-gods/).
+
+
+
 **We worship the roguish deity kumAra with offerings as ordained by the
 school of the great sage gopatha.**
 
@@ -39,3 +45,4 @@ disgusted he renounced his amorous sports and vanished to the seclusion
 of kumAra parvata.
 
 **oM vacadbhuve namaH**
+

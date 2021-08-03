@@ -1,7 +1,11 @@
 +++
 title = "Braided power: a brief note on the last great steppe power: the Mongol-Manchu system"
+date = "2017-07-24"
+upstream_url = "https://manasataramgini.wordpress.com/2017/07/24/braided-power-a-brief-note-on-last-great-steppe-power-the-mongol-manchu-system/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2017/07/24/braided-power-a-brief-note-on-last-great-steppe-power-the-mongol-manchu-system/).
+
 We first read of matters pertaining to this note which some interest in
 books which had newly arrived at a library in our old city that we
 mainly visited for Sanskritic literature. We wished to summarize
@@ -212,7 +216,7 @@ destroyed their prized new-style buildings. The emperor was displeased
 by Sengge’s inability to stop this and demoted him to a lower minister
 rank.
 
-Despite, having lost their infantry the Nian  taking advantage of the
+Despite, having lost their infantry the Nian taking advantage of the
 European-inflicted defeats on the Ching started making major gains with
 their quick-moving cavalry now backed by some of the best commanders
 sent by the Chinese brother of Jesus Christ to stiffen them. Knowing
@@ -236,3 +240,4 @@ rebuilt a monument for him. The last phase of Qasar’s descendants was
 seen in their attempt to modernize the Mongols with help from the
 Japanese during their ascendancy on the mainland. However, all this
 ended with the Japanese defeat in WWII.
+

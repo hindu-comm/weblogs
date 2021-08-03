@@ -1,7 +1,13 @@
 +++
 title = "Purussaurus and crocodylian recursiveness"
+date = "2006-01-29"
+upstream_url = "https://manasataramgini.wordpress.com/2006/01/29/purussaurus-and-crocodylian-recursiveness/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/01/29/purussaurus-and-crocodylian-recursiveness/).
+
+
+
 The 5 foot skull of Purussaurus the giant nettosuchid caiman of the
 Miocene epoch from the Amazon system. One of the largest ever crocodiles
 
@@ -18,3 +24,4 @@ duck-faced crocodiles, like Purussaurus and Mourasuchus, which have
 broad long duck-bill like snout and eyes placed in posterior end of the
 long skull. These skulls may be deep as in Purussaurus or very flat as
 in Mourasuchus.
+

@@ -1,23 +1,27 @@
 +++
 title = "parashambhunAtha"
+date = "2009-01-24"
+upstream_url = "https://manasataramgini.wordpress.com/2009/01/24/parashambhunatha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/01/24/parashambhunatha/).
+
 [![tavAdhAjna](https://i2.wp.com/farm4.static.flickr.com/3467/3221369087_3e33f4ecc3.jpg)](http://www.flickr.com/photos/24766652@N05/3221369087/ "tavAdhAjna by somasushma, on Flickr")
 
 The tradition holds that the triad ravi, shashi and shuchI are
 respectively shown in their piNDa form as the bIja-s: haM, saM and raM.
 They are combined with the great kulayoginI manifesting as chitparAMbA
 and the bhairava manifest parashambhunAtha. Hence we get their mantra as
-OM haM saM raM chitparAMbA-parashaMbhunAthAbhyAm namaH |  
+OM haM saM raM chitparAMbA-parashaMbhunAthAbhyAm namaH \|  
 Or in their elemental forms we have for the bhairava: h-s-rauM and for
 the kulayoginI: s-h-rauM.  
 In the middle of the chakra dwells the conjoined pair of chitparAMbA and
 parashaMbhunAtha. Around them are the 32 emanations of parA devI seated
 on the laps the 32 bhairava-s emanating from parashaMbhunAtha.  
- 
+
 
 |                |                     |
-| :------------: | :-----------------: |
+|:--------------:|:-------------------:|
 | **bhairava **  |     **yoginI **     |
 |      para      |        parA         |
 |     bhara      |        bharA        |
@@ -51,3 +55,4 @@ on the laps the 32 bhairava-s emanating from parashaMbhunAtha.
 |    vargaja     |    vargajA-parA     |
 |   saMyogaja    |   saMyogajA-parA    |
 | mantra-vigraha | mantra-vigrahA-parA |
+

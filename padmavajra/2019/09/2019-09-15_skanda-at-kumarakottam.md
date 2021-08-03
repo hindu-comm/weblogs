@@ -1,8 +1,11 @@
 +++
 title = "Skanda at Kumarakottam"
 date = "2019-09-15"
+upstream_url = "https://padmavajra.net/2019/09/15/skanda-at-kumarakottam/"
 
 +++
+Source: [here](https://padmavajra.net/2019/09/15/skanda-at-kumarakottam/).
+
 Skanda at Kumarakottam is in the form of brahma-shAstrR^i/brahma-shAstA
 \[the chastizer/punisher of brahmA\], for being unable to explain
 praNava properly, and took his post here. A higher resolution image of

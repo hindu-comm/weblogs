@@ -1,7 +1,11 @@
 +++
 title = "The proto-Australoid deep within us"
+date = "2011-09-27"
+upstream_url = "https://manasataramgini.wordpress.com/2011/09/27/the-proto-australoid-deep-within-us/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/09/27/the-proto-australoid-deep-within-us/).
+
 Molecular biology is establishing that there might be an element of
 truth in the quaint anthropological conjectures of Franz Weidenrich. The
 Indian subcontinent is of enormous interest in terms of being a major
@@ -44,10 +48,10 @@ of the original humans of Papua New Guinea and finally Australia
 (together greater Australia) before 50,000 years BP. This wave appears
 to have mated with the archaic sister group of the Neanderthals, the
 Denisovans, in South-East Asia and up to 7% of their genome originally
-came to be Denisovan in origin. This suggests that the aborigines and
+came to be Denisovan in origin.This suggests that the aborigines and
 Papuans are one surviving group of humans outside Africa for which we
 are certain of substantial archaic Homo admixture, well over the
-Neanderthal levels. The second branch is currently represented in an
+Neanderthal levels.The second branch is currently represented in an
 apparently pristine form by the stoneage Onge tribe of the Andamans – a
 negrito group. This branch clearly shows no Denisovan admixture. This
 branch spread over the the Malay archipelago and became the second wave
@@ -171,9 +175,10 @@ where archaisms survive rather long. One remarkable case is the survival
 of stone age technology of microlith manufacture among tribes in Madhya
 Pradesh and the Veddas of Lanka. Most remarkably these MP tribesman were
 making microliths resembling those from the Neolithic from porcelain
-electrical insulators in the 1900s\! Indeed, in a similar vein even
+electrical insulators in the 1900s! Indeed, in a similar vein even
 archaic Homo species appears to have persisted rather long in India if
 we go by their tools – there are no fossils other than the famous
 Narmada cranium. In light of this one wonders if there was a distinct
 archaic Homo species that persisted in India to mix with the ASI.
 Plumbing the ASI genome might be interesting in this regard.
+

@@ -1,8 +1,11 @@
 +++
-title = "Dyaus; Deva, Deus, Tyr: Many Gods, One Skyxa0Father"
-date = "July 22, 2020"
+title = "Dyaus; Deva, Deus, Tyr: Many Gods, One Sky Father"
+date = "2020-07-22"
+upstream_url = "https://aryaakasha.com/2020/07/22/dyaus-deva-deus-tyr-many-gods-one-sky-father/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/07/22/dyaus-deva-deus-tyr-many-gods-one-sky-father/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/07/arya-akasha-sky-father-defence.png?w=950)
 
 Despite His centrality to our mythology, the Indo-European Sky Father is

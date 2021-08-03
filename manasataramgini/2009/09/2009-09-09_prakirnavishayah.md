@@ -1,7 +1,11 @@
 +++
 title = "prakIrNaviShayAH"
+date = "2009-09-09"
+upstream_url = "https://manasataramgini.wordpress.com/2009/09/09/prakirnavishayah/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/09/09/prakirnavishayah/).
+
 The ever malignant viDbhuk decided to take advantage of the absence of
 the sachiva who had gone to aid the 4th hero to attack the amAtya. We
 intimated the amAtya of the clause in the dharmasUtra-s regarding
@@ -27,3 +31,4 @@ We feared that kR^ishamukha might go to a fight with ST. But
 kR^ishamukha was held up in a great series of yuddha-s of his own and
 this did no happen (ST: I am sure he has quit the turf of asmAlloka and
 he is unlikely to ever cross your path).
+

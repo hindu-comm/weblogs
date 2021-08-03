@@ -1,7 +1,11 @@
 +++
 title = "The Indo-Australian connection thickens"
+date = "2013-01-15"
+upstream_url = "https://manasataramgini.wordpress.com/2013/01/15/the-indo-australian-connection-thickens/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/01/15/the-indo-australian-connection-thickens/).
+
 The arrival of the European Christians in Australia was a catastrophic
 event for the aboriginal peoples of that island. They never recovered
 from that encounter and today eke out a shambolic and reduced existence,
@@ -18,8 +22,8 @@ non-Homo sapiens population of Denisovans (who are closer to the
 Neanderthals) somewhere in the South East Asia (probably Philippines)
 and then proceeded further east. In the meantime they appear to have
 been reached by a second wave of immigrants coming from the west (the
-“Onge-like” wave), with which they mixed to give rise to the
-aborigines of Sahul.
+“Onge-like” wave), with which they mixed to give rise to the aborigines
+of Sahul.
 
 This “big picture” has apparently subsumed within finer but remarkable
 strands of the genetic heritage of these peoples. First, for a long time
@@ -62,28 +66,28 @@ is a recent one or part of the second wave that moved eastwards (the
 It is in this context that a just-published study of Pugach et al is
 rather striking. Their study based on the analysis of genomic data of
 several populations presents the following salient results:  
-1\) They confirm the previously reported specific relationship between
+1) They confirm the previously reported specific relationship between
 the Australian aborigines, the New Guineans and the Mamanwa negritos of
 Philippines. These groups are marked by their shared heritage of the
 hybridization of the Denisovans and the first wave of east-moving Homo
 sapiens. Their divergence is estimated in this work to be about 36,000
 years.  
-2\) They identify a specific admixture between Indians and Australians,
+2) They identify a specific admixture between Indians and Australians,
 which they estimate as taking place around 141 generations ago, which
 with a liberal estimate of generation time as 30 years gives us a date
 of 4,230 years bp.  
-3\) Using a variety of south east Asian populations (e.g. Timor, Flores,
+3) Using a variety of south east Asian populations (e.g. Timor, Flores,
 Alor, Hiri, Roti, Borneo, etc) and New Guineans the authors find no
 evidence for gene flow between Indians and these populations. Hence,
 they rule out an indirect entry of Indian genetic contributions into
 Australia via Southeast Asia. In contrast, it supports a direct entry
 into Australia after the Australian aborigines had separated from the
 New Guineans.  
-4\) They estimated the Indian contribution to the Australian genome to
-be around 11% and find this thus far among the aborigines from the
-Northern Territories, who overlap with those speaking non-Pama-Nyungan
-languages or the Carpentarian wave in the trihybrid model.  
-5\) In terms of Indian populations, they see a the greatest frequency of
+4) They estimated the Indian contribution to the Australian genome to be
+around 11% and find this thus far among the aborigines from the Northern
+Territories, who overlap with those speaking non-Pama-Nyungan languages
+or the Carpentarian wave in the trihybrid model.  
+5) In terms of Indian populations, they see a the greatest frequency of
 the shared Indo-Australian component with Chenchus, Kurumbas and
 Dravidian-speaking groups from Andhra and Tamil Nad. Unfortunately, they
 do not define that group properly, resulting in some issues in terms of
@@ -92,7 +96,7 @@ this Indo-Australian component is specifically closer to these mainland
 populations than their Onge sister group, suggesting that it is distinct
 from any contribution which might have occurred from the Onge-like
 second wave.  
-6\) In conclusion, the authors suggest that this Indian influx into
+6) In conclusion, the authors suggest that this Indian influx into
 Australia was the one which brought the microlith technology, dingos and
 caused a change in plant processing technology in Australia.
 
@@ -179,3 +183,4 @@ Australia
 Irina Pugach,Frederick Delﬁn, Ellen Gunnarsdóttir, Manfred Kayser and
 Mark Stoneking  
 doi/10.1073/pnas.1211927110
+

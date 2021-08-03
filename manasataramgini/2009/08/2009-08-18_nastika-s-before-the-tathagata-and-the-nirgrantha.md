@@ -1,7 +1,11 @@
 +++
 title = "nAstika-s before the tathAgata and the nirgrantha"
+date = "2009-08-18"
+upstream_url = "https://manasataramgini.wordpress.com/2009/08/18/nastika-s-before-the-tathagata-and-the-nirgrantha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/08/18/nastika-s-before-the-tathagata-and-the-nirgrantha/).
+
 An essay by shrI sarvesha tivArI pointed me to some discussions that in
 turn reminded me of a debate with my parents’ jaina neighbors on a visit
 to bhArata long ago. He was narrating how vardhamAna was just the last
@@ -35,7 +39,7 @@ well-conversant with Arya shAstra-s. He agreed that the purANa-s of the
 nAstika were probably reactionary in nature but made the following
 arguments to present his case for even earlier nAstika presence (along
 with my (counter) arguments and other comments if any):  
-1\) The RV speaks of muni-s who were vAtarashana (RV10.136.2):  
+1) The RV speaks of muni-s who were vAtarashana (RV10.136.2):  
 *munayo vAtarashanAH pishA\~NgA vasate malA  
 * This implies muni-s “girdled with air” i.e. nirgrantha-s or those
 wearing yellow rags – an image typical of Indo-Aryan ascetics of a later
@@ -49,18 +53,18 @@ ground by vAyu from a vessel along with rudra (RV 10.136.7):
 are. In describing the mantra-s of the aruNaketuka chayana in which the
 chiti is comprised of bricks in the form of vessels filled with water it
 mentions the emanation of vipra-s from prajApati:  
-*sa tapo.atapyata | sa tapas tapatvA sharIram adhUnata | tasya yan
-mAMsam AsIt tato.aruNa ketavo vAtarashanA R^iShaya udatiShThan | ye
-nakhAH te vaikhAnasAH | ye vAlAH te vAlakhilyAH | 1.23.91-92*  
+*sa tapo.atapyata \| sa tapas tapatvA sharIram adhUnata \| tasya yan
+mAMsam AsIt tato.aruNa ketavo vAtarashanA R^iShaya udatiShThan \| ye
+nakhAH te vaikhAnasAH \| ye vAlAH te vAlakhilyAH \| 1.23.91-92*  
 When prajApati shook his body after performing tapasya from his flesh
 arose R^iShi-s known as aruna-s, ketu-s and vAtarashana-s, from his
 nails vaikhAnasa-s and from his hair(?) arose the vAlakhilya-s.  
 \*Some take this not mean real R^iShi-s but astronomical entities:
 aruNi-s and ketu-s are comets and likewise vAtarashana-s could be some
 other phenomenon like meteors.  
-3\) However, the TA further clarifies vAtarashana in TA 2.7.1 in the
+3) However, the TA further clarifies vAtarashana in TA 2.7.1 in the
 context of providing a brAmaNa explanation for the kUShmANDa mantra-s:  
-*vAtarashanA ha vA R^iShayaH shramaNA Urdhvamanthino babhUvuH |  
+*vAtarashanA ha vA R^iShayaH shramaNA Urdhvamanthino babhUvuH \|  
 * The R^iShi-s are said to have sought the vAtarashana-s who were
 shramaNa-s but they vanished and “entered” the kUShmANDa mantra-s. There
 the R^iShi-s are said to have found them by means of their shraddha and
@@ -110,7 +114,7 @@ the forest but living in the midst of ones clansmen, performing vedic
 rituals to the deva-s, manes and entertainment of guests with good
 gifts. The ascetics having heard those words of shakra then gave up the
 nAstika path and returned to their homes:  
-*utsR^ijya nAstika gatiM gArhasthyaM dharmamAshritAH |  
+*utsR^ijya nAstika gatiM gArhasthyaM dharmamAshritAH \|  
 * Here, it is clear that the ascetics were termed nAstika because they
 were departing from the way of the veda. The narrative is clearly
 archaic because its primary protagonist is indra and not any of the gods
@@ -195,3 +199,4 @@ earlier nAstika traditions they were quite weak even at the time of the
 origin of the two nAstika-s. Thus, even though like to portray
 themselves as having long independent history we see that they are
 closely associated with their primary rivals – the mImAmsaka brAhmaNa-s.
+

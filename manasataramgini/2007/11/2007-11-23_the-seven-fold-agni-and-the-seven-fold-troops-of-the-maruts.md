@@ -1,7 +1,11 @@
 +++
 title = "The seven-fold agni and the seven-fold troops of the maruts"
+date = "2007-11-23"
+upstream_url = "https://manasataramgini.wordpress.com/2007/11/23/the-seven-fold-agni-and-the-seven-fold-troops-of-the-maruts/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/11/23/the-seven-fold-agni-and-the-seven-fold-troops-of-the-maruts/).
+
 In the agnichayana/agniShToma the following sequence of rituals are
 performed:  
 1)At the yajamAna’s gArhapatya the oblations to prajApati vishvakarman
@@ -11,7 +15,7 @@ are made.
 3)The adhvarAhUti-s are performed in the fire established in the new
 AhavanIya altar.
 
-In course of \#2 the adhvaryu and hotar recite their yajushes and R^iks,
+In course of #2 the adhvaryu and hotar recite their yajushes and R^iks,
 while the prastotA sings the sAman-s. In the agnichayana the
 maitrAvaruNa additional chants the war-like aprathirathaM to indra.
 
@@ -19,8 +23,8 @@ The fire is laid in the new AhavanIya with a long yajurvedic chant
 (KYV-TS 4.6.5), in course of which the connection between agni and the
 bhR^igu-s, the first fire sacrificers is remembered:
 
-agne prehi prathamo devayatAM chakShur devAnAm uta martyAnAm |
-iyakShamANA bhR^igubhiH sajoShAH suvar yantu yajamAnAH svasti ||  
+agne prehi prathamo devayatAM chakShur devAnAm uta martyAnAm \|
+iyakShamANA bhR^igubhiH sajoShAH suvar yantu yajamAnAH svasti \|\|  
 O agni, advance, first of deva-sacrificers, eye of the deva-s and
 mortals; advancing in unison with the bhR^igu-s, let the sacrificers
 attain light and well-being.
@@ -28,8 +32,8 @@ attain light and well-being.
 Then savitA is then invoked and the early a\~Ngiras ritualist kaNva is
 also remembered:
 
-tAm savitur vareNyasya chitrAm AhaM vR^iNe sumatiM vishvajanyAm | yAm
-asya kaNvo aduhat prapInAm sahasradhArAm | payasA mahIM gAm ||  
+tAm savitur vareNyasya chitrAm AhaM vR^iNe sumatiM vishvajanyAm \| yAm
+asya kaNvo aduhat prapInAm sahasradhArAm \| payasA mahIM gAm \|\|  
 That excellent, many-formed, all-encompassing pleasantness of savitA, I
 choose; that mighty well-endowed cow of his which kaNva milked, with a
 thousand stream of milk.
@@ -38,9 +42,10 @@ The final part of this recitation is that of the heptads of agni and the
 marut-s.  
 agni is first invoked, being described as a series of 7 heptads:
 
-sapta te agne samidhaH sapta jihvAH saptarShayaH sapta dhAma priyANi |
+sapta te agne samidhaH sapta jihvAH saptarShayaH sapta dhAma priyANi \|
   
-sapta hotrAH saptadhA tvA yajanti sapta yonIr A pR^iNasvA ghR^itena ||  
+sapta hotrAH saptadhA tvA yajanti sapta yonIr A pR^iNasvA ghR^itena
+\|\|  
 That is: 1) 7 fuel sticks; 2) 7 tongues of agni; 3) 7 R^iShi-s; 4) 7
 dear abodes of agni; 5) 7 oblations; 6) the 7-fold worship of agni 7)
 the seven sources of agni, which are filled with ghee.
@@ -52,35 +57,36 @@ Then 5 sets of seven fold maruts are invoked and asked to come to the
 sacrifice of the ritualist and aid him:
 
 IdR^i\~N chAnyAdR^i\~N chaitAdR^i\~N cha pratidR^i\~N cha mitash cha
-sammitash cha sabharAH |  
+sammitash cha sabharAH \|  
 shukrajyotish cha chitrajyotish cha satyajyotish cha jyotiShmAmsh cha
-satyash chartapAsh chAtyamhAH |  
+satyash chartapAsh chAtyamhAH \|  
 R^itajich cha satyajich cha senajich cha suSheNash chAntyamitrash cha
-dUre-amitrash cha gaNaH |  
+dUre-amitrash cha gaNaH \|  
 R^itash cha satyash cha dhruvash cha dharuNash cha dhartA cha vidhartA
-cha vidhArayaH |  
+cha vidhArayaH \|  
 IdR^ikShAsa etAdR^ikShAsa U Shu NaH sadR^ikShAsaH pratisadR^ikShAsa
-etana |  
-mitAsash cha sammitAsash cha na Utaye sabharaso maruto yaj\~ne asmin |  
+etana \|  
+mitAsash cha sammitAsash cha na Utaye sabharaso maruto yaj\~ne asmin
+\|  
 indraM daivIr visho maruto .anuvartmAno yathendraM daivIr visho maruto
 .anuvartmAna evam imaM yajamAnaM daivIsh cha visho mAnuShIsh
-chAnuvartmAno bhavantu ||
+chAnuvartmAno bhavantu \|\|
 
 1:  
 1)IdR^i\~N 2) anyAdR^i\~N 3) etAdR^i\~N 4) pratidR^i\~N 5) mita 6)
 sammita 7) sabharas  
 2:  
-1\) shukra-jyoti 2)chitra-jyoti 3) satya-jyoti 4) jyotiShmAn 5) satya 6)
+1) shukra-jyoti 2)chitra-jyoti 3) satya-jyoti 4) jyotiShmAn 5) satya 6)
 artapA 7) atyamhas  
 3:  
-1\) R^itajit 2)satyajit 3) senajit 4) suSheNa 5)antyamitra 6)
-dUre-amitra 7) gaNa  
+1) R^itajit 2)satyajit 3) senajit 4) suSheNa 5)antyamitra 6) dUre-amitra
+7) gaNa  
 4:  
-1\) R^ita 2) satya 3) dhruva 4) dharuNa 5) dhartA 6) vidhartA 7)
+1) R^ita 2) satya 3) dhruva 4) dharuNa 5) dhartA 6) vidhartA 7)
 vidhAraya  
 5 (this last list is merely a plural representation of the first set,
 probably representing them with their troops:  
-1\) IdR^ikSha-s 2) etAdR^ikSha-s 3) sadR^ikSha-s 4) pratisadR^ikSha-s 5)
+1) IdR^ikSha-s 2) etAdR^ikSha-s 3) sadR^ikSha-s 4) pratisadR^ikSha-s 5)
 mita-s 6) sammita-s 7) sabhara-s
 
 This is one of the few places in the veda where the marut-s are
@@ -113,8 +119,8 @@ made offerings on 7 kapAla-s because they comprise of 7 gaNa-s.
 Despite all these allusions the choice of 5 lists of 7 each is a bit
 puzzling, given that none of the above explicitly mention 5\*7. The only
 possible mention is seen in RV 10.55.3:  
-A rodasI apR^iNAdota madhyaM pa\~ncha devAn R^itushaH sapta-sapta |  
-chatustriMshatA purudhA vi chaShTe sarUpeNa jyotiShA vivratena ||  
+A rodasI apR^iNAdota madhyaM pa\~ncha devAn R^itushaH sapta-sapta \|  
+chatustriMshatA purudhA vi chaShTe sarUpeNa jyotiShA vivratena \|\|  
 This is from a sUkta describing the universal form of indra, and is one
 of those cryptic sUkta-s filled with hidden astronomical allusions. The
 essential sense of the first hemistich of the above mantra may be
@@ -129,7 +135,7 @@ context to mean 27 nakShatra-s+sun+moon+5 visible planets.
 Finally, it should be mentioned that the “7” connection of the marut-s
 is also seen in their successor and paralogous deity, skanda. We had
 earlier discussed in our [note on the marut-s being being
-“para-skanda”](http://manasataramgini.wordpress.com/2007/07/maruts-as-para-skanda-and-other.html),
+“para-skanda”](http://manollasa.blogspot.com/2007/07/maruts-as-para-skanda-and-other.html),
 how kumAra was made commander of the seven-fold troops of maruts. This
 connection is further seen in ancient triannual rite to kumAra, known as
 the dhUrta-homa and bali (the sacrifice to the roguish skanda) preserved
@@ -141,3 +147,4 @@ strengthen the connection between the marut-s and kumAra: before the
 more popular ShaShTi connection over took the kaumAra tradition there
 was a parallel tradition that connected him to saptami-s, consistent
 with the 7-fold nature of the marut-s.
+

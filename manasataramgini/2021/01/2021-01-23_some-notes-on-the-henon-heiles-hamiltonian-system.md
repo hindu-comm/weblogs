@@ -1,8 +1,11 @@
 +++
-title = "Some notes on the Henon-Heiles Hamiltonianxa0system"
+title = "Some notes on the Henon-Heiles Hamiltonian system"
 date = "2021-01-23"
+upstream_url = "https://manasataramgini.wordpress.com/2021/01/23/some-notes-on-the-henon-heiles-hamiltonian-system/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2021/01/23/some-notes-on-the-henon-heiles-hamiltonian-system/).
+
 Anyone familiar with dynamical systems knows of the Henon-Heiles (HH)
 system. What we are presenting here is well-known stuff about which
 reams of material have been written. However, we offer certain tricks

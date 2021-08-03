@@ -1,7 +1,11 @@
 +++
 title = "Mysterious king shUdraka"
+date = "2011-05-29"
+upstream_url = "https://manasataramgini.wordpress.com/2011/05/29/mysterious-king-shudraka/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/05/29/mysterious-king-shudraka/).
+
 **Great rulers in Indian literary tradition**  
 Indian literary tradition has a rather telescoped view of post-epic
 history. By epic history we might consider the period circumscribed by
@@ -77,9 +81,9 @@ of synonyms. In literary tradition he tends to come as a single figure
 of outstanding significance, who founded the era in which we live (at
 least south of the narmadA). For example, we commonly hear the verse:  
 yudhiShThiro vikrama-shAlivAhanau tato nR^ipaH syAd vijayAbhinandanaH
-|  
+\|  
 tatastu nAgArjuna bhUpatiH kalau kalkI\* ShaDete shaka-kArakAH smR^itAH
-|| from ananta’s play  
+\|\| from ananta’s play  
 \[\*karkI in the rhotacizing version\]
 
 Thus, tradition explains that the kaliyuga is marked by 6 kings starting
@@ -92,9 +96,9 @@ coming of kalkI at shambala. Similarly, shAtavahana is mentioned again
 with vikrama in another verse composed in the paramAra court after the
 death of bhojadeva:  
 dhAtar-bhartar-ashesha-yAchaka-jane vairAyase sarvathA  
-yasmAd vikrama shAlivAhana mahI-bhR^in mu\~nja bhojAdayaH |  
+yasmAd vikrama shAlivAhana mahI-bhR^in mu\~nja bhojAdayaH \|  
 atyantaM chira-jIvino na vihitAste vishvajIvAtavo  
-mArkaNDa dhruva lomasha prabR^itayaH sR^iShTAhi dIrghAyushaH ||
+mArkaNDa dhruva lomasha prabR^itayaH sR^iShTAhi dIrghAyushaH \|\|
 
 Here the poet states that dhAtR^i must really not like poets who live
 off patronage (yAchaka-s) because while he has granted a long life for
@@ -173,9 +177,9 @@ murder the heroine, the public woman vasantasenA, in the park, when she
 states that if only her lover the brAhmaNa chArudatta saw her he would
 rescue her. To this saMsthAnaka mockingly replies in the vulgar
 prAkR^ita (note shakAra is depicted with a speech defect; perhaps he was
-of Iranian descent with a bad accent making s-\>sh):  
-kiM she shakke vAlIputte mahinde laMbhAputte kAlaNeMI shubandhU |  
-ludde lA.A doNaputte jaDA.u chANakke vA dundhumAle tisha\~NkU || (in
+of Iranian descent with a bad accent making s->sh):  
+kiM she shakke vAlIputte mahinde laMbhAputte kAlaNeMI shubandhU \|  
+ludde lA.A doNaputte jaDA.u chANakke vA dundhumAle tisha\~NkU \|\| (in
 8.34)  
 He asks if her lover is indra, or the son of vAlin, the son of the
 apsara raMbhA or the asura kAlanemI or subandhu or the king rudra or
@@ -189,7 +193,7 @@ host upon his successful takeover of the throne – this is consonant with
 the epigraphic evidence supporting the mAheshvara affinities of the
 AbhIra rulers:  
 jayati vR^iShabha ketur dakSha-yaj\~nasya hantA  
-tadanu jayati bhetta ShaNmukhaH krau\~ncha-shatruH | (in 10.45)  
+tadanu jayati bhetta ShaNmukhaH krau\~ncha-shatruH \| (in 10.45)  
 In terms of location while prathiShThAna is not the center of the action
 there is a mention of durgA as sahyavAsinI (the goddess of the
 sahyAdri-s) rather than the usual vindhyavAsinI (in 10.36). This
@@ -215,32 +219,33 @@ in Indic literature – the author of the vAsavadattA romance. That
 subandhu is generally taken to be a much later author because he refers
 to the nyAya intellectual udyotakAra who post-dates the nAstika
 intellectual din-nAga. So, if the vAsavadattA as we have it is
-subandhu’s original work then we are faced with a further
-chronological tangle with respect to shUdraka.However, this problem
-vanishes if we accept the position of Hindu literary tradition on
-subandhu \[Footnote 2\].
+subandhu’s original work then we are faced with a further chronological
+tangle with respect to shUdraka.However, this problem vanishes if we
+accept the position of Hindu literary tradition on subandhu \[Footnote
+2\].
 
 The preface of the mR^ichChaTika describes shUdraka thus:  
 dviradendra gatish chakora-netraH paripUrNendu-mukhaH suvigrahash cha
-|  
-dvijamukhyatamaH kavir babhUva prathitaH shUdraka ityagAdha satvaH ||  
+\|  
+dvijamukhyatamaH kavir babhUva prathitaH shUdraka ityagAdha satvaH
+\|\|  
 He had the gait of an elephant the eyes of a partridge, his face beamed
 like the moon and he had a well-built body. He was a chief among the
 dvija-s and a kavi who was known as shUdraka. His good was unfathomed.  
-api cha |  
+api cha \|  
 R^igvedaM sAmavedaM gaNitaM atha kalAM vaishikIM hastishikShaM  
-j\~nAtvA sharva-prasAdAd vyapagata-timire chakShuShI chopalabhya |  
+j\~nAtvA sharva-prasAdAd vyapagata-timire chakShuShI chopalabhya \|  
 rAjAnaM vIkShya putraM paraMa-samudeyana-ashvamedhena cheShTvA  
 labdhvA chAyuH shatAbdaM dasha dina sahitaM shUdrako .agniM praviShTaH
-||  
+\|\|  
 he knew the R^ig, the sAman, mathematics, the sexual arts and elephant
 training and by the grace of sharva his eyes were never covered with
 darkness. He placed his son to rule after him and sought to perform the
 most difficult ashvamedha ritual. After having obtained a life of 100
 years and 10 days he was cremated.  
-api cha |  
-samara-vyasanI pramAda shUnyaH kakudaM veda-vidAM tapodhanash cha |  
-paravAraNa bAhu yuddha lubdhaH kShitipAlaH kila shUdrako babhuva ||  
+api cha \|  
+samara-vyasanI pramAda shUnyaH kakudaM veda-vidAM tapodhanash cha \|  
+paravAraNa bAhu yuddha lubdhaH kShitipAlaH kila shUdrako babhuva \|\|  
 He was swift in battle and free from drunkenness. He was the pinnacle of
 the veda-knowers and the possessors of tapasya. He was keen to engage
 with his arm the enemy defenses, such was the king shUdraka.
@@ -428,14 +433,14 @@ during the process he applies a magical invisibility ointment and utters
 a mantra to kumAra. This mantra is a version of the same found in the
 extremely rare ShaNmukha-kalpa, one of the earliest surviving kaumAra
 tantras:  
-namo varadAya kumAra-kArttikeyAya | namaH kanaka-shaktaye brahmaNyadevA
-devavratAya | namo bhAskara-nandine | namo yogAchAryAya yasyAhaM
-prathamaH shiShyaH | tena cha partituShTena yoga-rochanA me dattA |  
+namo varadAya kumAra-kArttikeyAya \| namaH kanaka-shaktaye brahmaNyadevA
+devavratAya \| namo bhAskara-nandine \| namo yogAchAryAya yasyAhaM
+prathamaH shiShyaH \| tena cha partituShTena yoga-rochanA me dattA \|  
 Then applying the ointment he utters:  
-anayA hi samAlabdhaM na mAM drakShyanti rakShiNaH |  
-shastraM cha patitaM gAtre rujaM notpAdayiShyati ||  
+anayA hi samAlabdhaM na mAM drakShyanti rakShiNaH \|  
+shastraM cha patitaM gAtre rujaM notpAdayiShyati \|\|  
 Then again before entering through the breach he utters “namaH
-kArttikeyAya |”.  
+kArttikeyAya \|”.  
 The parallels with the ShaNmukha-kalpa found in this play, along with
 the several mantra-archaisms of former text itself, suggest that this
 kaumAra tantra was likely in place before around 200 CE. This is further
@@ -500,3 +505,4 @@ Footnote 4: This incident might be compared to a similar incident in the
 origin story of the kadaMba dynasty, wherein the brAhmaNa mayUrasharman
 of kA\~nchipuraM raised an army to defeat the pallava-s after he had
 been roughly manhandled by pallavan cavalrymen.
+

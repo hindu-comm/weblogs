@@ -1,8 +1,11 @@
 +++
-title = "ON THE GATES OF SOMNATH TEMPLE – AN ESSAY OF RAKSHA(PALA) FOR BOTH SWARAJ ANDxa0BANDHAN"
-date = "August 16, 2019"
+title = "ON THE GATES OF SOMNATH TEMPLE – AN ESSAY OF RAKSHA(PALA) FOR BOTH SWARAJ AND BANDHAN"
+date = "2019-08-16"
+upstream_url = "https://aryaakasha.com/2019/08/16/on-the-gates-of-somnath-temple-an-essay-of-rakshapala-for-both-swaraj-and-bandhan/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/08/16/on-the-gates-of-somnath-temple-an-essay-of-rakshapala-for-both-swaraj-and-bandhan/).
+
 ![67844290_10162143395655574_7527478894081867776_n](https://aryaakasha.files.wordpress.com/2019/08/67844290_10162143395655574_7527478894081867776_n.jpg?w=676)
 
 The 15th of August marks India’s Independence Day; and, as has become my

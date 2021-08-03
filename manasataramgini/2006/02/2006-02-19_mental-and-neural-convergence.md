@@ -1,7 +1,11 @@
 +++
 title = "Mental and neural convergence"
+date = "2006-02-19"
+upstream_url = "https://manasataramgini.wordpress.com/2006/02/19/mental-and-neural-convergence/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/02/19/mental-and-neural-convergence/).
+
 Even though we and the little dinosaurs have evolved our brains
 convergently, for long we seem to have recognized ourselves cognitive
 peers. The udgAtar-s of yore noted how satyakAma jAbAli acquired the
@@ -71,3 +75,4 @@ A- bird brain; B-mammal brain.
 Hp- Hippocampus, V- ventricle, BG- basal gangalia.  
 Note the different organization of the orthologous pallial regions,
 colored differently.
+

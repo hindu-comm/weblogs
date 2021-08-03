@@ -1,7 +1,13 @@
 +++
 title = "Comet Machholz 2004"
+date = "2004-12-16"
+upstream_url = "https://manasataramgini.wordpress.com/2004/12/16/comet-machholz-2004/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/12/16/comet-machholz-2004/).
+
+
+
 Comet Machholz 2004 [![Posted by
 Hello](https://i0.wp.com/photos1.blogger.com/pbh.gif)](http://www.hello.com/)
 
@@ -17,3 +23,4 @@ able to perceive a slight tail with the binoculars. It is supposed to
 rise higher beyond Orion. I uttered the incantation of the dogs.
 
 Marc took the above photo.
+

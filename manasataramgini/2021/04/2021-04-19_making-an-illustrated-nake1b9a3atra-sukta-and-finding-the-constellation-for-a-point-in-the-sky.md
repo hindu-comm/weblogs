@@ -1,8 +1,11 @@
 +++
-title = "Making an illustrated Nakṣatra-sūkta and finding the constellation for a point in thexa0sky"
+title = "Making an illustrated Nakṣatra-sūkta and finding the constellation for a point in the sky"
 date = "2021-04-19"
+upstream_url = "https://manasataramgini.wordpress.com/2021/04/19/making-an-illustrated-nak%e1%b9%a3atra-sukta-and-finding-the-constellation-for-a-point-in-the-sky/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2021/04/19/making-an-illustrated-nak%e1%b9%a3atra-sukta-and-finding-the-constellation-for-a-point-in-the-sky/).
+
 [The illustrated
 Nakṣatra-sūkta](https://manasataramgini.files.wordpress.com/2021/04/nakshatrani.pdf)
 

@@ -1,8 +1,11 @@
 +++
-title = "SiddhiDhatri – The Final Night – Ninth of thexa0NavaDurgas"
-date = "October 7, 2019"
+title = "SiddhiDhatri – The Final Night – Ninth of the NavaDurgas"
+date = "2019-10-07"
+upstream_url = "https://aryaakasha.com/2019/10/07/siddhidhatri-the-final-night-ninth-of-the-navadurgas/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/10/07/siddhidhatri-the-final-night-ninth-of-the-navadurgas/).
+
 ![71531901_10162363446000574_6560375125152104448_n](https://aryaakasha.files.wordpress.com/2019/10/71531901_10162363446000574_6560375125152104448_n.jpg?w=676)
 
 The Ninth and Last of the Nine Nights of #NavRatri is dedicated to Ma as

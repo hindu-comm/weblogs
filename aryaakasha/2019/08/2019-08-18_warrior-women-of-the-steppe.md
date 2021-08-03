@@ -1,8 +1,11 @@
 +++
-title = "Warrior-Women of thexa0Steppe?"
-date = "August 18, 2019"
+title = "Warrior-Women of the Steppe?"
+date = "2019-08-18"
+upstream_url = "https://aryaakasha.com/2019/08/18/warrior-women-of-the-steppe/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/08/18/warrior-women-of-the-steppe/).
+
 ![69496339_10162156006140574_7207724853841887232_n](https://aryaakasha.files.wordpress.com/2019/08/69496339_10162156006140574_7207724853841887232_n.jpg?w=676)
 
 ‘Scythian’ female horse archer; broadly representative of a perhaps

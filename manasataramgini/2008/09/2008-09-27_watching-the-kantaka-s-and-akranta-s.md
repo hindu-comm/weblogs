@@ -1,7 +1,11 @@
 +++
 title = "Watching the kaNTaka-s and AkrAnta-s"
+date = "2008-09-27"
+upstream_url = "https://manasataramgini.wordpress.com/2008/09/27/watching-the-kantaka-s-and-akranta-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/09/27/watching-the-kantaka-s-and-akranta-s/).
+
 The pleonastic writings on geopolitics on these pages can be avoided
 because all has been said before; but when our people continue tracing
 their recursive patterns in historical space we are forced to follow
@@ -99,7 +103,7 @@ More is happening: In the south the sthaviravAdin pAShaNDa-s are
 strengthening their grip over the island of la\~NkA under their new
 current ruler rAjapakSha like never before. When they were at a low the
 Hindu rulers of mainland simply failed to read the situation and let it
-wind on its own. So much so that the outsiders (including Norway\!) got
+wind on its own. So much so that the outsiders (including Norway!) got
 unprecedented access to the island weakening the Hindu sphere of
 influence. More recently alarmed by these developments the Indian
 government decided on a show of power by taking over the whole island of
@@ -109,3 +113,4 @@ anything to advance the \*Hindu sphere of influence\* which is more
 critical at this juncture. Importantly, it needs to target the
 exclusivism of the sthaviravAdin-s. As yet the Hindus still seem
 slumbering like the pitcher-eared giant of la\~NkA…
+

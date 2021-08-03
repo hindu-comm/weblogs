@@ -1,8 +1,11 @@
 +++
-title = "ON THE ELVES OF THE NORTHxa0POLE"
-date = "December 25, 2019"
+title = "ON THE ELVES OF THE NORTH POLE"
+date = "2019-12-25"
+upstream_url = "https://aryaakasha.com/2019/12/25/on-the-elves-of-the-north-pole/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/12/25/on-the-elves-of-the-north-pole/).
+
 ![](https://aryaakasha.files.wordpress.com/2019/12/80254431_10162738054635574_5597042565141495808_n.jpg?w=780)
 
 By now it should come as little surprise that much of the contemporary

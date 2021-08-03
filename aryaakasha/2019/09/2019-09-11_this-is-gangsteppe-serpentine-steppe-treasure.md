@@ -1,8 +1,11 @@
 +++
-title = "This Is #GangSteppe – Serpentine Steppexa0Treasure"
-date = "September 11, 2019"
+title = "This Is #GangSteppe – Serpentine Steppe Treasure"
+date = "2019-09-11"
+upstream_url = "https://aryaakasha.com/2019/09/11/this-is-gangsteppe-serpentine-steppe-treasure/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/09/11/this-is-gangsteppe-serpentine-steppe-treasure/).
+
 ![70633248_444421762836820_3071181884730900480_n](https://aryaakasha.files.wordpress.com/2019/09/70633248_444421762836820_3071181884730900480_n.jpg?w=676)
 
 This Is #GangSteppe – one of a pair of pendants found in a female’s tomb

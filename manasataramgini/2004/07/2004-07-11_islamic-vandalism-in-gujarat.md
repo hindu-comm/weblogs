@@ -1,7 +1,11 @@
 +++
 title = "Islamic vandalism in Gujarat"
+date = "2004-07-11"
+upstream_url = "https://manasataramgini.wordpress.com/2004/07/11/islamic-vandalism-in-gujarat/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/07/11/islamic-vandalism-in-gujarat/).
+
 The Rudramahalaya temple complex in Siddhapura in Gujarat was one of the
 greatest temples ever built in India north of Maharashtra. Its is
 supposed to have housed 11 separate temples of rudra and many more of
@@ -11,7 +15,7 @@ is shown below the lotus. Another is supposed to have contained a
 4-armed naTarAja. Another had a li\~nga while and yet another had a
 umA-maheshvara on a bull. The complex also contained shrines of: indranI
 with 4 arms in seated lalitAsana; gaNapati with 4 arms; kubera with his
-wife, holding a purse; 8 armed chAmuNDA;  4 armed kumAra, temples of
+wife, holding a purse; 8 armed chAmuNDA; 4 armed kumAra, temples of
 vAyu, varuNa and yama, each depicted with 4 arms; and one of viShNu near
 a river.
 
@@ -24,7 +28,7 @@ similar to the southern ones (eg. naTarAja, li\~nga with nandi, kumAra
 and the like, were not exclusive to the south). Its glory is borne out
 in a testimony of a twelth century poem:
 
-*Fourteen storeys rise above the earth and seven thousand pillars,  In
+*Fourteen storeys rise above the earth and seven thousand pillars, In
 row after row, while eighteen hundred statues studded with emeralds
 adorn it.*   
 *It is endowed with thirty thousand flagstaffs with stems carved and
@@ -40,8 +44,8 @@ pillars.*
 *The icons sing and dance and roll their eyes, So that even the Gods
 jump with joy and blow their conches.*   
 *The ecstatic dance of Gods is watched by Gods and men who crowd
-around,That is why the Bull, O Sidha\! O King of Kings\! is feeling
-awestruck.* 
+around,That is why the Bull, O Sidha! O King of Kings! is feeling
+awestruck.*
 
 Even if it was hyperbole, clearly the glory was imprinted on the
 onlookers.  
@@ -93,3 +97,4 @@ religion has also been denuded entirely in those regions. Gujarat is
 still to come out of that eclipse. This is just one instance in the
 history of Bharatavarsha that the secularists would like to hide from
 its people’s vision.
+

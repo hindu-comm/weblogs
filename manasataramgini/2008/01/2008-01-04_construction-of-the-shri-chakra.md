@@ -1,7 +1,11 @@
 +++
 title = "Construction of the shrI-chakra"
+date = "2008-01-04"
+upstream_url = "https://manasataramgini.wordpress.com/2008/01/04/construction-of-the-shri-chakra/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/01/04/construction-of-the-shri-chakra/).
+
 Much has been said about this topic and it has been technically
 discussed by a variety of authors. The shrI chakra is one of most
 intricate and geometrically complex (that is in terms of precise
@@ -106,9 +110,10 @@ certain other yantras like those of mAtangI or uchChiShTa chANDAlinI.
 
 The 3-4-5 triangle is already provided by baudhAyana in his sulba sUtra.
 The golden ratio appears in principle in construction of the pentagonal
-kuNDa of vAyu in the atharvavedic tradition. Thus, the original
+kuNDa of vAyu in the atharvavedic tradition.Thus, the original
 construction of the shrI chakra might draw upon the ancient aspects of
 Hindu practical geometry.
 
 [![](https://i1.wp.com/bp0.blogger.com/_hjuA1bE0hBw/R4FyN9BucyI/AAAAAAAAABk/NWcxvW3dZLc/s320/bAlA.png)](http://bp0.blogger.com/_hjuA1bE0hBw/R4FyN9BucyI/AAAAAAAAABk/NWcxvW3dZLc/s1600-h/bAlA.png)  
 ideal bAlA yantra
+

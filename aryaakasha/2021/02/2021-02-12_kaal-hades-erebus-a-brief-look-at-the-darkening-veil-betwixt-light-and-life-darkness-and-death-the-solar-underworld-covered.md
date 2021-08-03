@@ -1,8 +1,11 @@
 +++
-title = "Kaal Hades Erebus – A Brief Look At The Darkening Veil Betwixt Light And Life, Darkness And Death – The Solar Underworld Coveredxa0"
-date = "February 12, 2021"
+title = "Kaal Hades Erebus – A Brief Look At The Darkening Veil Betwixt Light And Life, Darkness And Death – The Solar Underworld Covered "
+date = "2021-02-12"
+upstream_url = "https://aryaakasha.com/2021/02/12/kaal-hades-erebus-a-brief-look-at-the-darkening-veil-betwixt-light-and-life-darkness-and-death-the-solar-underworld-covered/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/02/12/kaal-hades-erebus-a-brief-look-at-the-darkening-veil-betwixt-light-and-life-darkness-and-death-the-solar-underworld-covered/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/02/theoretical-part-hades.jpg?w=1024)
 
 Something I love about our field is the manner in which the linguistics

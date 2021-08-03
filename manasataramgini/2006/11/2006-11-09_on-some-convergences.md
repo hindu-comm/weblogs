@@ -1,7 +1,11 @@
 +++
 title = "On some convergences"
+date = "2006-11-09"
+upstream_url = "https://manasataramgini.wordpress.com/2006/11/09/on-some-convergences/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/11/09/on-some-convergences/).
+
 R and me after long entered into what might almost be brahmodaya
 contest. I won’t present any of that in the private brahmodaya style
 though. One matter is are all large brains convergent? We had earlier
@@ -71,3 +75,4 @@ binding protein tau with 4 or fewer copies of the tubulin binding domain
 depending on the splice form combined with a N-terminal coiled coil
 stretch. There is something about coiled coils and the brain, but that
 is for another forum and another day.
+

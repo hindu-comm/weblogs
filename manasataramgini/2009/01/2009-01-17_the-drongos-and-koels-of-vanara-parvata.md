@@ -1,7 +1,11 @@
 +++
 title = "The drongos and koels of vAnara-parvata"
+date = "2009-01-17"
+upstream_url = "https://manasataramgini.wordpress.com/2009/01/17/the-drongos-and-koels-of-vanara-parvata/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/01/17/the-drongos-and-koels-of-vanara-parvata/).
+
 In the long past I had made acquaintance with some extant dinosaurs on
 the lower shelf of vAnara parvata. The avian mind is not exactly one
 with which a mammal can intersect well. An acquaintance of mine who
@@ -37,16 +41,17 @@ reason that other birds make a living close to them the drongo and nest
 in its company to avail of its defenses. Yet why is regularly overcome
 by the parasitic koel or the Indian Cuckoo?  
 There are many different sub-questions to this:  
-1\) While usually highly successful in detecting and driving away other
+1) While usually highly successful in detecting and driving away other
 nest predators, why does the drongo fail against the koel/cuckoo?  
-2\) The drongo in my experience is one of the most intelligent birds and
+2) The drongo in my experience is one of the most intelligent birds and
 has an ability to discriminate and recognize a wide range of patterns
 visually and acoustically. Yet it does not seem to be very capable at
 recognizing the koel eggs, though it might succeed once in a way?  
-3\) The koel/cuckoo chicks are always bigger and distinct from the
-drongo chicks yet the drongo rarely if ever manages to evict the
-koel/cuckoo chick.
+3) The koel/cuckoo chicks are always bigger and distinct from the drongo
+chicks yet the drongo rarely if ever manages to evict the koel/cuckoo
+chick.
 
 More than 17 years ago with these questions in mind I tried to learn
 what the weak-links in the drongo’s defense were.  
 Continued…
+

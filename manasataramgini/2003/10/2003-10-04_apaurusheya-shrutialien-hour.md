@@ -1,7 +1,11 @@
 +++
 title = "apauruSheya shruti/Alien hour"
+date = "2003-10-04"
+upstream_url = "https://manasataramgini.wordpress.com/2003/10/04/apaurusheya-shrutialien-hour/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/10/04/apaurusheya-shrutialien-hour/).
+
 I was awake today at an hour when I am normally never awake. I had to
 see off a friend at a time that aint’t normal to me these days. Then I
 learn to my horror that some womenly emotions have not been adequately
@@ -34,7 +38,6 @@ the words themselves are not.
 This brings us to the major question: why do modern Hindus, while
 according high respect to the shruti, fail to understand what is in
 it?  
-
 I do not necessarily have the answer but believe that is linked to the
 denudation of brahminical intellectual activity. It is clear that even
 with in the Hindu orthodoxy there is a huge need for reanalyses,
@@ -47,4 +50,5 @@ religion and culture.
 I believe that most important reformulation of Hindu thought requires a
 proper understanding of Indo-European studies. Unfortunately, the
 Indological fiasco has left Hindus bitter. But then one cannot be
-emotional when the civilization of over 500 million people is at stake\!
+emotional when the civilization of over 500 million people is at stake!
+

@@ -1,7 +1,11 @@
 +++
 title = "Khusroo waxing eloquent"
+date = "2004-04-20"
+upstream_url = "https://manasataramgini.wordpress.com/2004/04/20/khusroo-waxing-eloquent/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/04/20/khusroo-waxing-eloquent/).
+
 The excerpt from Amir Khusroo’s florid prose of the savage attack on the
 Hindus by Maliq Kafr, the general of Alla-ad-din Khalji
 (Tarikh-i-Allai). Facts that are denied by many Indians themselves
@@ -24,7 +28,7 @@ by the Sultan Alla-ad-din’s destruction of idols and temples, beginning
 with his first Jihad against Devgir (Devagiri in Maharashtra). Now the
 flames of the light of the Shariat and the righteous Fatwa illuminate
 all these unholy Hindu lands, and places for the callers to Namaz occupy
-the high places and the and Namaz is read in mosques. Allah be praised\!
+the high places and the and Namaz is read in mosques. Allah be praised!
 
 Maliq Kafr heard that in Brahmastpuri (Near Rameshwaram) there was a
 golden idol, round which many elephants were stabled. The Maliq started
@@ -50,3 +54,4 @@ hands of the Musalmans, who returned to the royal canopy, after
 executing their project of the holy Jihad on the 13th of Zi-l ka’da, 710
 H. (April, 1311 A.D.). They destroyed all the temples at Birdhul (Near
 Madhurai), and plundered the public treasury.
+

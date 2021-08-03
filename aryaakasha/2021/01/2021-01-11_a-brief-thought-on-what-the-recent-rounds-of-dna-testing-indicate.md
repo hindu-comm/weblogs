@@ -1,8 +1,11 @@
 +++
-title = "A Brief Thought On What The Recent Rounds Of DNA Testingxa0Indicate"
-date = "January 11, 2021"
+title = "A Brief Thought On What The Recent Rounds Of DNA Testing Indicate"
+date = "2021-01-11"
+upstream_url = "https://aryaakasha.com/2021/01/11/a-brief-thought-on-what-the-recent-rounds-of-dna-testing-indicate/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/01/11/a-brief-thought-on-what-the-recent-rounds-of-dna-testing-indicate/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/01/6e520de6a15b344dd6a7b51e2c37a453.jpg?w=339)
 
 A thought about all these DNA/ancestry tests that’ve been popular for

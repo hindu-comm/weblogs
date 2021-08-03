@@ -1,7 +1,11 @@
 +++
 title = "Some discussion on the Siberian conquests of the Mongols and the Ainu in history"
+date = "2014-04-22"
+upstream_url = "https://manasataramgini.wordpress.com/2014/04/22/some-discussion-on-the-siberian-conquests-of-the-mongols-and-the-ainu-in-history/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/04/22/some-discussion-on-the-siberian-conquests-of-the-mongols-and-the-ainu-in-history/).
+
 In 1207 CE, after Chingiz Khan had been proclaimed as the sole ruler of
 all Mongolia, he decided to decisively settle outstanding military
 issues. In 1204 CE he had sent an exploratory force to subdue the Turkic
@@ -82,16 +86,16 @@ and swept way the Jurchen forces. Moving in a semicircular arch he also
 conquered the Southeastern Siberia adjacent to Japan and Sakhalin. It
 was here that the extreme eastern Siberian tribes related to the Okhotsk
 people were subjugated. Then moving south crossing the Yalu river
-Sübütäi smashed his way through the Korean defenses to reach
-Pyongyang. Fearing a devastating attack the Koreans submitted peacefully
-and accepted a tributary relationship with the Mongols. Sübütäi
-realizing he had few resources to conquer Korea, accepted the peace
-offered by the Koryeo ruler and returned. As Sübütäi’s advance was
-rapid, the strongly fortified defensive complexes, such as Ning-Jiang in
-Manchuria, held by the recalcitrant Khitan Mongols and Jurchen, remained
-resilient to his blitzkrieg. Hence, to complete the conquest of the land
-the Khan sent his valiant brother Qasar and another of his best generals
-Muqali respectively leading two armies to follow Sübütäi. Qasar besieged
+Sübütäi smashed his way through the Korean defenses to reach Pyongyang.
+Fearing a devastating attack the Koreans submitted peacefully and
+accepted a tributary relationship with the Mongols. Sübütäi realizing he
+had few resources to conquer Korea, accepted the peace offered by the
+Koryeo ruler and returned. As Sübütäi’s advance was rapid, the strongly
+fortified defensive complexes, such as Ning-Jiang in Manchuria, held by
+the recalcitrant Khitan Mongols and Jurchen, remained resilient to his
+blitzkrieg. Hence, to complete the conquest of the land the Khan sent
+his valiant brother Qasar and another of his best generals Muqali
+respectively leading two armies to follow Sübütäi. Qasar besieged
 Ning-Jiang and captured it in autumn of 1214 CE by using incendiary
 weapons of which a confused account survives (called 10,000 burning
 swallows). In 1216 CE, Qasar defeated the remaining recalcitrant Khitan
@@ -211,7 +215,7 @@ Eurasia and the Americas. Several years ago when the Kennewick man
 excitement was ranging in North America there was proposal that he was
 related to the Ainu. This seemed a bit strange even if plausible at that
 point. The Ainu possess the peculiar Y-chromosome haplogroup D, which is
-otherwise found prominently in Ryukyuans, Tibetans, and some Andaman
+otherwise found prominently in Ryukyuans, Tibetans,and some Andaman
 tribesmen, and at low levels in Adi and Apatani tribesmen of
 northeastern India and some tribes of Philippines. This haplogroup is
 however not found in the Americas. The distribution of haplogroup D in
@@ -225,7 +229,7 @@ the remaining Ainu Y-chromosomes are marked by fairly high frequencies
 of the haplogroup C. In particular Ainu share the modal Mongol Y
 chromosome haplogroup C-M217 (the haplogroup of Chingiz Khan), that is
 also found in the Nivkh, Manchu and other Siberian Tungusic peoples.
-The latter also show the prominent presence of C-M77 and C-P53.1
+Thelatteralso show the prominent presence of C-M77 and C-P53.1
 subclades among them that they share with Uighurs. The haplogroup C is
 additionally found in several tribes of native Americans (the C-P39
 subclade). The Ainu also share mitochondrial haplogroups with the
@@ -274,3 +278,4 @@ were massacred by the cossacks and forcibly converted to Christianity.
 
 Footnote 4: Temür Khan was a good ruler; had he not died so young the
 history of the Mongols might have been different.
+

@@ -1,7 +1,11 @@
 +++
 title = "Wanderings in the sun"
+date = "2005-09-05"
+upstream_url = "https://manasataramgini.wordpress.com/2005/09/05/wanderings-in-the-sun/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/09/05/wanderings-in-the-sun/).
+
 They say it is galanin. It had triggered the waves in the rasArNava. The
 warm sun was exceedingly pleasant as it dipped towards the western peg.
 The relieved ourselves of the ill memories of the tragic bandha
@@ -37,7 +41,8 @@ purpose. You wisely dropped.
 I: Indeed all that was true until we made the fatal mistake with the
 globule of mercury.
 
-M: Thus, Oh mantravAha, are the vagaries of rasAyana \! As we mentioned
-before the amAtya sensed some trouble. Still, we walked into the trap\!
+M: Thus, Oh mantravAha, are the vagaries of rasAyana ! As we mentioned
+before the amAtya sensed some trouble. Still, we walked into the trap!
 Sometimes you never know until the experiment is done. And in rasAyana
 some experiments are dangerous.
+

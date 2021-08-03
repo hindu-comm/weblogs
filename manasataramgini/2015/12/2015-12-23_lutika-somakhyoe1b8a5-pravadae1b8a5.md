@@ -1,7 +1,11 @@
 +++
 title = "Lūtikā-Somākhyoḥ pravādaḥ"
+date = "2015-12-23"
+upstream_url = "https://manasataramgini.wordpress.com/2015/12/23/lutika-somakhyo%e1%b8%a5-pravada%e1%b8%a5/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/12/23/lutika-somakhyo%e1%b8%a5-pravada%e1%b8%a5/).
+
 It was probably one weekend after the tumultuous incidents concerning
 the gifts of Vidrum. Somakhya’s cousin Saumanasa and her husband
 Matidhvaja had visited him and Lootika. Saumanasa had spent a good deal
@@ -18,10 +22,10 @@ Lootika: “Oh Bhṛgu I wish life froze for ever like this.”
 Somakhya smiled and said: “And Gautamī you are saying this? Are we not
 headed to see the Comb Ducks; would it not teach us of the ephemerality
 of all of this.”  
-Chuckling Lootika said: “buddhyā na jāyate sā cintā |indriyāṇām
-autrakoṣāt udeti, śāstra-gaṇḍānaṃ bhāṣaṇam iva, priyatama |”  
+Chuckling Lootika said: “buddhyā na jāyate sā cintā \|indriyāṇām
+autrakoṣāt udeti, śāstra-gaṇḍānaṃ bhāṣaṇam iva, priyatama \|”  
 Then she added: “kaṃ mantrapadaṃ pradhyāyase?”  
-Somakhya: “varārohe: īśānāso naro amartyenāstāvi jano divyo gayena |”  
+Somakhya: “varārohe: īśānāso naro amartyenāstāvi jano divyo gayena \|”  
 Lootika: “Ain’t it strange that our Gaya is amartya whereas that of the
 Iranians of Zarathustra is martya.”  
 Somakhya: “Good point. Have always wondered why Zarathustra had to
@@ -53,7 +57,7 @@ By then Lootika had taken in their social structure: “Somakhya, it looks
 as though he is monopolizing a large harem like tyrant Akbar.”  
 Somakhya: “It appears that it has taken him some effort to get there.
 That sulking male in the distance appears to have been trashed by him
-and the former’s females have been attached to his harem.”  
+and the former’sfemales have been attached to hisharem.”  
 Lootika: “That seems rather different the Steamer Ducks I saw while
 visiting dakṣiṇa-krauñca-dvīpa after graduating. There a male-female
 pair defends their territory against other such. But in the combat the
@@ -75,7 +79,7 @@ beside the intruder and tried to strike him with his foot. Stopping his
 act the intruder returned the challenge by raising his wing deploying a
 knob on his wrist as a club.
 
-Lootika: “Ah\! Never knew even this guy wielded his wing as a club.”  
+Lootika: “Ah! Never knew even this guy wielded his wing as a club.”  
 Somakhya: “Yes, I was not aware of this too till I read about it in an
 old work of the paleontologist Lydekker. That’s why I started observing
 them more closely. Look…”  
@@ -97,7 +101,7 @@ Just then a feral buffalo entered the quiet lake causing a bit of a
 stir. Somakhya: “What does that remind you of?”  
 Lootika: “We have been lucky in our sightings today:  
 “un madhva ūrmir vananā atiṣṭhipad  
-apo vasāno mahiṣo vi gāhate |”  
+apo vasāno mahiṣo vi gāhate \|”  
 \[Indeed, the wave of honey has raised the desires, clothing himself
 with the waters the buffalo plunges into them.\]
 
@@ -123,8 +127,8 @@ then, when I have Indrasena, you the descendant of Vāmadeva, and your
 formidable sisters, why would I seek her, be she a jāmi or an ajāmi, to
 collaborate. When it comes to karman one has to associate with people
 with viveka rather than just buddhi.”  
-Lootika: “Ouch\! If I may comment on your kinswoman, I too perceived
-some jagged ends in her thought process.”  
+Lootika: “Ouch! If I may comment on your kinswoman, I too perceived some
+jagged ends in her thought process.”  
 Somakhya: “How would you not jālikā? I overheard you last night in the
 kitchen telling her the tale of the four brāhmaṇa-s and the resurrection
 of the lion. That tale in itself would be diagnostic of an avivikti. And
@@ -133,7 +137,7 @@ her, a superstar scientist, expressing doubt that the sauropods ever
 walked on land as adults.”  
 Lootika: “Yes that was funny. She and Matidhvaja even started doing
 calculations to show that the sacrum of the sauropod was too heavy for
-the legs\! And by the way I did have some fun arguing with her about all
+the legs! And by the way I did have some fun arguing with her about all
 kinds of things, including free-trade, openness in presenting
 unpublished research, attitudes towards mleccha-s, and all that.”
 
@@ -208,13 +212,13 @@ have previously pointed that the cīna-s, cīna-bhṛtya-s and sūryadhvaja-s
 have a pronounced angle between their QIQ and VIQ vectors, being more
 quantitative than verbal as a people.”  
 Somakhya: “Anecdotally this might seem even more exaggerated for the
-cīna-s and cīna-bhṛtya-s than for the sūryadhvaja-s, which in turn
-seems to reflect the knowledge-production trajectories of those
-prācya-s. Whereas the sūryadhvaja-s have exhibited remarkable
-originality in various spheres, the other two prācya-s have tended to be
-more of the cracker-type laboring effectively only when a new path has
-been shown to them, notwithstanding what the naked Needham might have
-built up for them.”
+cīna-s and cīna-bhṛtya-s than for the sūryadhvaja-s, which in turn seems
+to reflect the knowledge-production trajectories of those prācya-s.
+Whereas the sūryadhvaja-s have exhibited remarkable originality in
+various spheres, the other two prācya-s have tended to be more of the
+cracker-type laboring effectively only when a new path has been shown to
+them, notwithstanding what the naked Needham might have built up for
+them.”
 
 Lootika: “But then O Bhārgava, we are back to IQ; returning to where we
 started, is there not something in this regard that is not entirely
@@ -249,10 +253,10 @@ to me that finding this sweet spot is hardly a trivial operation.”
 Somakhya: “Hardly trivial indeed, but if we need an ideal we may turn to
 the great sage Pāṇini – he first went about data collection to the point
 he had good enough coverage in his gaṇapāṭha and then came up with an
-appropriate number of first principles to completely describe his data.
+appropriate number of first principles tocompletely describe his data.
 With that we may lay down our sūtra-s in regard to this discussion, O
 Bārhadukthī: parokṣa-pratyakṣav ālocanādiniyama-vādav ityādi dvandvāni
-| anyatarasyātiśayenāvivekaḥ |
+\| anyatarasyātiśayenāvivekaḥ \|
 
 Lootika: “O kānta, to collect gaṇapāṭha-s one needs a proclivity for
 abhyāsa. Is it not sort of paradoxical that despite their buddhi the
@@ -290,7 +294,8 @@ influenced by are beliefs for if it was entirely bad that tendency
 should not have survived selection, rather it should have been
 rationalism all the way.”
 
-Lootika: “ity alaṃ pravādena | Coming back to business, my student and I
-have successfully purified three of the deoxyribohydrolases, three
+Lootika: “ity alaṃ pravādena \| Coming back to business, my student and
+I have successfully purified three of the deoxyribohydrolases, three
 REases, and four active TIR domains from bacteria that you had
 identified. We are all set to test your predictions starting tomorrow.”
+

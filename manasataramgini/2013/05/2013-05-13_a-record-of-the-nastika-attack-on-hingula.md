@@ -1,7 +1,11 @@
 +++
 title = "A record of the nAstika attack on hi~NgulA"
+date = "2013-05-13"
+upstream_url = "https://manasataramgini.wordpress.com/2013/05/13/a-record-of-the-nastika-attack-on-hingula/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/05/13/a-record-of-the-nastika-attack-on-hingula/).
+
 Hindu historical tradition holds that bauddha-s of the sindhu had made
 common cause with the the Arab marUnmatta-s as they launched invasion
 after invasion into jambudvIpa. This is not entirely surprising given
@@ -83,3 +87,4 @@ sthaviravAdin-s whose history was supposedly recorded by a
 kShemendrabhadra, the source of tAranAtha. It is possible the
 sthaviravAdins attributed the “conquest” of hi\~NgulA back in time to
 sudarshana and this was taken up by the vajrayANa chroniclers later.
+

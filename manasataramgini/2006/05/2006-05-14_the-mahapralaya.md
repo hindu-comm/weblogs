@@ -1,7 +1,13 @@
 +++
 title = "The mahApralaya"
+date = "2006-05-14"
+upstream_url = "https://manasataramgini.wordpress.com/2006/05/14/the-mahapralaya/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/05/14/the-mahapralaya/).
+
+
+
 [![](https://i2.wp.com/photos1.blogger.com/blogger/2010/410/320/Merapi.0.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/Merapi.0.jpg)
 
 The Hindu kingdom of Mataram in Yavadvipa, associated with the famous
@@ -24,3 +30,4 @@ recovered in Indonesia with the charcoal from it C14 dated to between
 900-1100 CE. This must definitely mark the kShira-sAgara created by
 mahApralaya of Merapi in 1006 CE that ended the Hindu kingdom of Central
 Java.
+

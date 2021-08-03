@@ -1,11 +1,15 @@
 +++
 title = "Some sketches of Indian wild life in vidyAkara’s anthology"
+date = "2014-03-21"
+upstream_url = "https://manasataramgini.wordpress.com/2014/03/21/some-sketches-of-indian-wild-life-in-vidyakaras-anthology/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/03/21/some-sketches-of-indian-wild-life-in-vidyakaras-anthology/).
+
 sAndra-sthUla-naloparodha-viShamAH shakyAvatArAH  
-puras toyottIrNa-nivR^itta-nakra-jaThara-kShuNNa-sthalI-vAlukAH |  
+puras toyottIrNa-nivR^itta-nakra-jaThara-kShuNNa-sthalI-vAlukAH \|  
 vyakta-vyAghra-padA\~Nka-pa\~Nkti-nichitonmudrArdra-pa\~NkodarAH  
-saMtrAsaM janayanti ku\~nja-saritaH kAchAbha-nIlodakAH ||
+saMtrAsaM janayanti ku\~nja-saritaH kAchAbha-nIlodakAH \|\|
 
 sAndra: thick; sthUla: large; nala: reed; uparodha: barrier; viShamAH:
 rough; shakya: possible; avatArAH: descents; puraH: first; toya: water;
@@ -24,12 +28,12 @@ with sand banks roughed up by the bellies of crocodiles,
 that have descended forth into the water and climbed back,  
 entirely covered with tracks of tiger footprints,  
 where sinkholes have opened in the wet mud,  
-evoke terror\! \[perhaps by abhinanda\]
+evoke terror! \[perhaps by abhinanda\]
 
 varAhAn AkSheptuM kalama-kavala-prIty-abhimukhAn  
-idAnIM sImAnaH prativihita-ma\~nchAH svapatibhiH |  
+idAnIM sImAnaH prativihita-ma\~nchAH svapatibhiH \|  
 kapotaiH potArthaM kR^ita-nibiDa-nIDA viTapinaH  
-shikhAbhir valmIkAH khara-nakhara-khAtodara-mR^idaH ||
+shikhAbhir valmIkAH khara-nakhara-khAtodara-mR^idaH \|\|
 
 varAhAn: boars (accusative) ; AkSheptuM: to drive away; kalama: rice ;
 kavala: mouthful; prIti: desire; abhimukhAn: coming; idAnIM: now ;
@@ -51,9 +55,9 @@ and mud of termite mounds have holes,
 dug up by the claws of jackals. \[by shatAnanda\]
 
 toyAntar-lIna-mIna-prachaya-vichaya-navyApR^ita-troTi-koTi  
-prAg-bhAga-prahva-ka\~NkAvali-dhavala-ruchaH paryaTat-kha\~njarITAH |  
+prAg-bhAga-prahva-ka\~NkAvali-dhavala-ruchaH paryaTat-kha\~njarITAH \|  
 kUjat-kAdamba-rAjI-pihita-parisarAH shAradInAM nadInAM tIrAntA  
-ma\~nju-gu\~njan-madakala kuraba-shreNayaH prINayanti ||
+ma\~nju-gu\~njan-madakala kuraba-shreNayaH prINayanti \|\|
 
 toyAntar: within water ; lIna: lurking; mIna: fish;-prachaya:
 increasing; vichaya: examination; navya: fresh; ApR^ita: engaged; troTi:
@@ -74,7 +78,7 @@ waters,
 with wagtails wandering around, and their environs covered  
 by rows of quacking ducks, with arrays of Barleria cristata  
 pleasantly buzzing with intoxicated bees, are the cause of much
-pleasure\!
+pleasure!
 
 ::::::::::::::::::::::::::::::  
 These poetic sketches belong to that large body of kAvya which we have
@@ -105,3 +109,4 @@ these one needs to stray far from the overgrown urban sprawls and
 journey to those inaccessible refugia that may be counted on ones
 fingers. This indeed marks the change from the bhArata of the kavI-s to
 that of today’s mahAnAgarin-s.
+

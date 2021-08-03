@@ -1,7 +1,11 @@
 +++
-title = "The tale of thexa0dolmen-dweller"
+title = "The tale of the dolmen-dweller"
+date = "2020-09-06"
+upstream_url = "https://manasataramgini.wordpress.com/2020/09/06/the-tale-of-dolmen-dweller/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2020/09/06/the-tale-of-dolmen-dweller/).
+
 ![bhagya3](https://manasataramgini.files.wordpress.com/2020/09/bhagya3.jpg?w=486&h=443)
 
 The exams were over and the last semester of toil was all that stood
@@ -299,7 +303,7 @@ was soon rudely interrupted in his fun as Chatterjee rushed in and told
 him that Samikaran wanted him back as there was something very serious
 happening.
 
-MO: “Why the \#\*%! did you want me, Sami?” Smk: “Listen, this is
+MO: “Why the #\*%! did you want me, Sami?” Smk: “Listen, this is
 super-serious stuff. My spies have just informed me that the Special
 Task Force has been activated to arrest you for the killing of the
 intelligence officer during the March riots and are headed this way.”

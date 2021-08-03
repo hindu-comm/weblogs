@@ -1,7 +1,11 @@
 +++
 title = "Another wandering"
+date = "2009-02-02"
+upstream_url = "https://manasataramgini.wordpress.com/2009/02/02/another-wandering/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/02/02/another-wandering/).
+
 We wandered on earth following the path of the heavenly stream,  
 Towards the cemetery of kilikilArava, above which rose the heavenly
 archer.  
@@ -19,6 +23,7 @@ We walked past the periphery of the shmashAna,
 Feeling the presence of the sharva, bhava, ishAna.
 
 There we heard the sonorous music in apabhraMsha  
-Lo\! We beheld a sammelana of praj\~nA-s of pretty smiles.  
+Lo! We beheld a sammelana of praj\~nA-s of pretty smiles.  
 In the joy of union they were singing vajra-gIti-s.  
 In their midst were DAka-s observing the rite of buddhakapAla.
+

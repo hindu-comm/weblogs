@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "January 12, 2021"
+date = "2021-01-12"
+upstream_url = "https://vriitrahan.wordpress.com/2021/01/12/genesis-of-urdu/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2021/01/12/genesis-of-urdu/).
+
 It’s interesting to note during the genesis of Urdu as a distinct
 language to be used as a competitor to Persian in the courts, poets like
 Zuhur Ad-Din “Hatim” in 1757 deliberately weeded out Hindi/Hindavi words

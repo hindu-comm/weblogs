@@ -1,7 +1,11 @@
 +++
 title = "Polycentrism, the many-one problem and the roots of yoga"
+date = "2014-11-08"
+upstream_url = "https://manasataramgini.wordpress.com/2014/11/08/polycentrism-the-many-one-problem-and-the-roots-of-yoga/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/11/08/polycentrism-the-many-one-problem-and-the-roots-of-yoga/).
+
 An updated version of our earlier ramblings first published at:
 <http://www.indiafacts.co.in/polycentrism-many-one-problem-roots-yoga/>
 
@@ -34,8 +38,8 @@ celebrate its “polycentrism” rather than monotheism, as the former is
 the defining feature of our civilization. Indeed, the great sage
 uddālaka āruṇi states in the veda:
 
-ekam eva advitīyam | tad aikṣata bahu syām prajāyeya | chandogyopaniṣad
-in section 6.2  
+ekam eva advitīyam \| tad aikṣata bahu syām prajāyeya \|
+chandogyopaniṣad in section 6.2  
 It was only one without a second. It willed: “I shall multiply and
 reproduce as many.”
 
@@ -56,16 +60,16 @@ organisms including ourselves, has emerged from a single ancestral
 organism through the process of reproduction (“bahu syām prajāyeya”).
 
 Hence, the ṛṣi gṛtsamada śaunahotra states:  
-yo apsv ā śucinā daivyena ṛtāvājasra urviyā vibhāti |  
-vayā id anyā bhuvanāny asya pra jāyante vīrudhaś ca prajābhiḥ || ṛgveda
-2.35.8  
+yo apsv ā śucinā daivyena ṛtāvājasra urviyā vibhāti \|  
+vayā id anyā bhuvanāny asya pra jāyante vīrudhaś ca prajābhiḥ \|\|
+ṛgveda 2.35.8  
 All other beings are, as it were, branches of him, the plants, with
 their progeny, are born (of him), who, imbued with the natural law
 (ṛta), eternal, and widely-spreading, shines amid the waters with pure
 and divine (radiance).
 
 Similarly, the veda states:  
-ajāyamāno bahudhā vijāyate | taittirīya+āraṇyaka in 3.13.1  
+ajāyamāno bahudhā vijāyate \| taittirīya+āraṇyaka in 3.13.1  
 The unborn is multiply born (i.e. the unmanifest manifests multiply).
 
 Thus, for the Hindu the multiplicity of forms and the unmanifest are not
@@ -104,16 +108,16 @@ Hindus applied themselves diligently.
 The analysis of this question lies at the origin of one of the pillars
 of Hindu thought and religion – sāṃkhya-yoga. sāṃkhya emerges in
 “thought-matrix” of the upaniṣad-s: in section 6.13 of the
-śvetāśvatara+upaniṣad we hear that sāṃkhya is the basis of mokṣa.
-i.e., the soteriological conclusion of the realization of the unifying
+śvetāśvatara+upaniṣad we hear that sāṃkhya is the basis of mokṣa. i.e.,
+the soteriological conclusion of the realization of the unifying
 principle. The essential premise of the sāṃkhya-class of explanations
 for the many-one problem derives from a concept termed māyā, which goes
 back to the ancient Indo-Aryan past. Knowing māyā is knowing the ways of
-the deva-s\! The deva-s exhibit māyā: thus, their one true or prototypic
+the deva-s! The deva-s exhibit māyā: thus, their one true or prototypic
 form appears in many diverse forms. This is true of indra in the ṛgveda.
 There the ṛṣi viśvāmitra says:
 
-rūpam-rūpaṃ maghavā bobhavīti māyāh kṛnvānas tanuvaṃ pari svāṃ |(RV
+rūpam-rūpaṃ maghavā bobhavīti māyāh kṛnvānas tanuvaṃ pari svāṃ \|(RV
 3.53.8).  
 maghavan (indra) transforms into form after form, effecting the display
 of māyā around his own body.
@@ -131,8 +135,8 @@ between the māyā of deva-s and sāṃkhya theory is very palpable in an
 explanation of universe offered in an exposition of sāṃkhya in the
 mahābhārata:
 
-apāṃ phenopamaṃ lokaṃ viṣṇor māyā śatair vṛtam |  
-citta-bhitti pratīkāśaṃ nala sāram anarthakam || (Mbh-”critical”
+apāṃ phenopamaṃ lokaṃ viṣṇor māyā śatair vṛtam \|  
+citta-bhitti pratīkāśaṃ nala sāram anarthakam \|\| (Mbh-”critical”
 12.290.57)  
 The universe is like the foam of water enveloped by hundreds of māyā-s
 of viṣṇu, like an illusory wall and ephemeral as sap in a \[hollow\]
@@ -144,8 +148,8 @@ Evidence for this is abundant in the itihāsa-s and purāṇa-s. One of the
 most famous expressions of this, known to most Hindus, is the statement
 of kṛṣṇa in the bhagavad gītā:
 
-nāhaṃ prakāśaḥ sarvasya yoga-māyā-samāvṛtaḥ |  
-mūḍho’yaṃ nābhijānāti loko mām-ajam-avyayaṃ || (BG7.25)  
+nāhaṃ prakāśaḥ sarvasya yoga-māyā-samāvṛtaḥ \|  
+mūḍho’yaṃ nābhijānāti loko mām-ajam-avyayaṃ \|\| (BG7.25)  
 I am not manifest to all, veiled by the māyā of my yoga. This deluded
 world \[i.e. entrapped by the display of māyā\] knows not me, unborn and
 unlimited.
@@ -154,7 +158,7 @@ A more palpable application of māyā displayed via yoga is described in
 the mahābhārata, when at sunset on the fourteenth day of the Great War,
 devakī-putra turning to arjuna says: “arjuna, I have obscured the sun by
 the means of my yoga and the kaurava-s think it has set. Kill
-jayadratha\!”
+jayadratha!”
 
 Another poignant expression of the fact that the application of yoga is
 essentially the same as the display of māyā is suggested by the story of
@@ -171,7 +175,7 @@ of rudra of superior yoga powers and wondered whether he should flee or
 try some other trick. Then using his mighty yoga, uśanas kāvya, the
 prefect and physician of the daitya-s, became small and went and sat on
 the tip of rudra’s trident. Unable to use his weapon he bent it with his
-arms to make it into the pināka bow\! At this point uśanas fell into
+arms to make it into the pināka bow! At this point uśanas fell into
 śiva’s hand, who promptly swallowed him and returned to perform his
 meditative yoga. The bhārgava wandered endlessly in rudra’s stomach and
 was absorbed into his body. As śiva had shut all his outlets in practice
@@ -189,19 +193,19 @@ description of yoga:
 
 brahmāṇam-īśam varadaṃ ca viṣṇum  
 bhavaṃ ca dharmaṃ ca ṣaḍānanaṃ ca  
-so brahmaputrāṃś-ca mahānubhāvān || 58  
+so brahmaputrāṃś-ca mahānubhāvān \|\| 58  
 tamaś-ca kaṣṭaṃ sumahad-rajaś-ca  
 sattvaṃ ca śuddhaṃ prakṛtiṃ parāṃ ca  
 siddhiṃ ca devīṃ varuṇasya patnīṃ  
-tejaśca kṛtsnaṃ sumahac-ca dhairyaṃ || 59  
+tejaśca kṛtsnaṃ sumahac-ca dhairyaṃ \|\| 59  
 narādhipaṃ vai vimalaṃ satāraṃ  
 viśvāṃś-ca devān uragān pitṝṃś ca  
 śailāṃś-ca kṛtsnānudadhīṃś-ca ghorān  
-nadīś-ca sarvāḥ savanan ghanāṃś-ca || 60  
+nadīś-ca sarvāḥ savanan ghanāṃś-ca \|\| 60  
 nāgān-nagān-yakṣa-gaṇān-diśaś-ca  
-gandharva-saṅghān-puruṣān-striyaś-ca |  
+gandharva-saṅghān-puruṣān-striyaś-ca \|  
 parasparaṃ prāpya mahān-mahātmā  
-viśeta yogī nacirādvimuktaḥ || 61 MBh(12.289.58-61)  
+viśeta yogī nacirādvimuktaḥ \|\| 61 MBh(12.289.58-61)  
 The high-souled yogin filled with greatness, at will, can enter into and
 come out of, brahmā the lord of all, the boon-giving viṣṇu, bhava,
 dharma, the six-faced kumāra, the sons of brahmā, tamas that results in
@@ -240,17 +244,17 @@ bhṛgu smṛti \[Footnote 2\]. A subsequent preliminary synthesis of the
 different themes under an overarching framework was attempted by
 patañjali. However, his system was mainly an attempt to present yoga as
 an independent darśana by incorporating a slightly modified form of
-sāṃkhya as its internal siddhānta. The real task of a grand
-synthesis, which brought together various themes into a comprehensive
-system of practice was seen in the tantra-s. Here, in addition to the
-multifaceted development of the traditions of physical practice, the
-“kuṇḍalini” and “khecarī mudra” systems were brought together with
-the other ancient Hindu tradition of the mantra-śāstra. Credit in this
-regard goes to the great matsyendra, the fisherman-teacher, who wove the
-different strands into the great tantric synthesis. This was indeed one
-of the greatest achievements of Hindu thought, where the many and one
-are seamlessly integrated, something which is much neglected by many
-modern theoretical students of Hindu thought.
+sāṃkhya as its internal siddhānta. The real task of a grand synthesis,
+which brought together various themes into a comprehensive system of
+practice was seen in the tantra-s. Here, in addition to the multifaceted
+development of the traditions of physical practice, the “kuṇḍalini” and
+“khecarī mudra” systems were brought together with the other ancient
+Hindu tradition of the mantra-śāstra. Credit in this regard goes to the
+great matsyendra, the fisherman-teacher, who wove the different strands
+into the great tantric synthesis. This was indeed one of the greatest
+achievements of Hindu thought, where the many and one are seamlessly
+integrated, something which is much neglected by many modern theoretical
+students of Hindu thought.
 
 ::::::::::::::::::::::::::::::::::  
 Footnote 1: <https://www.youtube.com/watch?v=7_t-gC73AtI>
@@ -258,3 +262,4 @@ Footnote 1: <https://www.youtube.com/watch?v=7_t-gC73AtI>
 Footnote 2: We offer an approximate, partial translation of the bhṛgu
 smṛti, an important document of Hindu thought here:
 <https://app.box.com/s/5ws9garzbulhxvpeg0ka>
+

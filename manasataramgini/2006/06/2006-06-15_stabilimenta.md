@@ -1,7 +1,11 @@
 +++
 title = "Stabilimenta"
+date = "2006-06-15"
+upstream_url = "https://manasataramgini.wordpress.com/2006/06/15/stabilimenta/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/06/15/stabilimenta/).
+
 R and I like naturalists for almost a century before us were fascinated
 by stabilimenta of spider webs and wondered what their role was. R
 independently of the great Eisner had a belief that stabilimenta might
@@ -29,3 +33,4 @@ selection to fix “holes” in their primary selective function. Finally we
 were also puzzled by the stabilimenta like decorations used by 3D
 lattice web spiders at the bottom of their webs. Is there some role in
 protection from parasitoid wasps?
+

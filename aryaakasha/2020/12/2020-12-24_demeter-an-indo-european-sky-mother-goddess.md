@@ -1,8 +1,11 @@
 +++
-title = "Demeter – An Indo-European Sky Mother Goddessxa0?"
-date = "December 24, 2020"
+title = "Demeter – An Indo-European Sky Mother Goddess ?"
+date = "2020-12-24"
+upstream_url = "https://aryaakasha.com/2020/12/24/demeter-an-indo-european-sky-mother-goddess/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/12/24/demeter-an-indo-european-sky-mother-goddess/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/12/132121310_781415055804154_8724309316214761760_o.jpg?w=1024)
 
 The conventional wisdom is that Demeter is an Earth Mother deific – as

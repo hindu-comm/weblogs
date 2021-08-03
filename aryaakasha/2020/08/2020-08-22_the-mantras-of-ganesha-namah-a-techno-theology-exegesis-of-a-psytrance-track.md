@@ -1,8 +1,11 @@
 +++
-title = "The Mantras Of ‘Ganesha Namah’ – A Techno-Theology Exegesis Of A Psytrancexa0Track"
-date = "August 22, 2020"
+title = "The Mantras Of ‘Ganesha Namah’ – A Techno-Theology Exegesis Of A Psytrance Track"
+date = "2020-08-22"
+upstream_url = "https://aryaakasha.com/2020/08/22/the-mantras-of-ganesha-namah-a-techno-theology-exegesis-of-a-psytrance-track/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/08/22/the-mantras-of-ganesha-namah-a-techno-theology-exegesis-of-a-psytrance-track/).
+
 
 
 # An error occurred.

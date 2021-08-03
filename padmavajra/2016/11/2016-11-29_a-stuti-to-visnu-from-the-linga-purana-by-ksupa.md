@@ -1,8 +1,11 @@
 +++
-title = "A stuti to viSNu from the Linga Purana byxa0kSupa"
+title = "A stuti to viSNu from the Linga Purana by kSupa"
 date = "2016-11-29"
+upstream_url = "https://padmavajra.net/2016/11/29/a-stuti-to-visnu-from-the-linga-purana-by-ksupa/"
 
 +++
+Source: [here](https://padmavajra.net/2016/11/29/a-stuti-to-visnu-from-the-linga-purana-by-ksupa/).
+
 nandyuvāca
 
 (Note:This portion can serve as a *sort of* embedded dhyāna śloka)  

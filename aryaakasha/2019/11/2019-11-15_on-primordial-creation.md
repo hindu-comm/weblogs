@@ -1,8 +1,11 @@
 +++
 title = "On Primordial Creation"
-date = "November 15, 2019"
+date = "2019-11-15"
+upstream_url = "https://aryaakasha.com/2019/11/15/on-primordial-creation/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/11/15/on-primordial-creation/).
+
 Many of the Faith often assume a very literal stance on many of the most
 sacred parts of Germanic Lore, and to a certain extent this may be a
 correct approach, but it’s also worth remembering that our forefathers,

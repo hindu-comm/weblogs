@@ -1,7 +1,11 @@
 +++
 title = "Of dogs and underdogs"
+date = "2010-02-14"
+upstream_url = "https://manasataramgini.wordpress.com/2010/02/14/of-dogs-and-underdogs/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/02/14/of-dogs-and-underdogs/).
+
 While being hemmed in by the hima pralaya we spoke to the va\~Nga
 paNDita. We concurred that there was not really anything new to comment
 on geopolitics, for what ever we had to say had been said and things
@@ -26,7 +30,7 @@ Verily a ciliate is an elephant in world of a coccus.
 In yonder gandhAra the mlechCha-s are rampaging.  
 But the bhArata-s want to go to the Mogols kissing.  
 We then hear the turuShka-s and mlechCha-s calling:  
-Hey mahAvadhrikA-s\! How is it going?
+Hey mahAvadhrikA-s! How is it going?
 
 Not a lion, not a tiger, not a peacock nor an elephant,  
 But seedless underdogs are we.
@@ -39,7 +43,7 @@ inside gandhAra. Now, under the guidance of the mlechChAdipati-s we are
 asked go kiss the Mogols in the hell-hole of TSP, even as sundry Ghazi-s
 launch murderous attacks on our cities. All this happens when the
 mlechCha-s are at our door steps (the English army leads the attack in
-gandhAra and bAhlika\! What business to they have there?). Truly it is
+gandhAra and bAhlika! What business to they have there?). Truly it is
 the surest symptom of underdog-hood that we have regressed in military
 power relative to the 1700-1800s. We have no say in our own historic
 lands and instead let the mlechCha-s decide what happens there. Indeed,
@@ -57,3 +61,4 @@ cousins, the yavana-s, are doing much worse than us. Bankrupt beggars,
 with a little patch of land plagued with fires, the yavana-s are verily
 paying the price for having forsaken the way of their deva-s for the
 preta cult.
+

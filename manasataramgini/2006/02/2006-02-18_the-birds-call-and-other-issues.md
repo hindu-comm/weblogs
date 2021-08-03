@@ -1,7 +1,11 @@
 +++
 title = "The bird’s call and other issues"
+date = "2006-02-18"
+upstream_url = "https://manasataramgini.wordpress.com/2006/02/18/the-birds-call-and-other-issues/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/02/18/the-birds-call-and-other-issues/).
+
 The songs and the calls of the only surviving dinosaurs around us range
 from the prosaic to the rich. They were the inspiration for many forms
 of art and science. In the long past when we were whiling away time in
@@ -31,3 +35,4 @@ figure out what the predator may be thinking. His experiments to suggest
 this are indeed interesting, but I am not sure they clinch the case.
 What ever the case for long though we have made the “connection” with
 our dinosaurian cognitive rivals in simple and complex ways.
+

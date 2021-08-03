@@ -1,8 +1,11 @@
 +++
-title = "Pitru Paksha – The Fortnight of thexa0Ancestors"
-date = "September 26, 2018"
+title = "Pitru Paksha – The Fortnight of the Ancestors"
+date = "2018-09-26"
+upstream_url = "https://aryaakasha.com/2018/09/26/pitru-paksha-the-fortnight-of-the-ancestors/"
 
 +++
+Source: [here](https://aryaakasha.com/2018/09/26/pitru-paksha-the-fortnight-of-the-ancestors/).
+
 ![pitru_dosha](https://aryaakasha.files.wordpress.com/2018/09/pitru_dosha.jpg?w=676)
 
 Today marks the commencement of Pitru Paksha – the Fortnight of the

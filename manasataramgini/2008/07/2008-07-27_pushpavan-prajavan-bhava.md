@@ -1,7 +1,11 @@
 +++
 title = "puShpavAn prajAvan bhava"
+date = "2008-07-27"
+upstream_url = "https://manasataramgini.wordpress.com/2008/07/27/pushpavan-prajavan-bhava/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/07/27/pushpavan-prajavan-bhava/).
+
 [![](https://i0.wp.com/farm4.static.flickr.com/3257/2705188118_e4d4405426_b.jpg)](http://farm4.static.flickr.com/3257/2705188118_e4d4405426_b.jpg)
 
 We wandered like a kApAlin on the path to avimukta,  

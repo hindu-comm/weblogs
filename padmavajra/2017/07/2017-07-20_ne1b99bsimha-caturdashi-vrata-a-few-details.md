@@ -1,8 +1,11 @@
 +++
-title = "Nṛsimha caturdashi vrata (a fewxa0details)"
+title = "Nṛsimha caturdashi vrata (a few details)"
 date = "2017-07-20"
+upstream_url = "https://padmavajra.net/2017/07/20/n%e1%b9%9bsimha-caturdashi-vrata-a-few-details/"
 
 +++
+Source: [here](https://padmavajra.net/2017/07/20/n%e1%b9%9bsimha-caturdashi-vrata-a-few-details/).
+
 A few days back I noted [this link about Nṛsiṃha caturdaśi
 vrata](https://shyamasundaradasa.com/jyotish/resources/articles/non-jyotish_articles/prahlada.html)
 by jyotishi Shyamasundara Dāsa.

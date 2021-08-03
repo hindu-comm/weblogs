@@ -1,7 +1,11 @@
 +++
 title = "A yogin and his dUtI"
+date = "2008-11-04"
+upstream_url = "https://manasataramgini.wordpress.com/2008/11/04/a-yogin-and-his-duti/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/11/04/a-yogin-and-his-duti/).
+
 Being fooled by the outward appearance of a prescription in a tantra, or
 by his instincts, or in modern times by pop culture, the common
 practitioner is incapable pairing with a dUtI for successful attainment
@@ -19,3 +23,4 @@ will indicate the successful discovery of the dUtI. He will then go away
 and meet her again after a while, all the while controlling his senses.
 After this he is ready to rove in company of the dUtI to attain yogic
 perfection.
+

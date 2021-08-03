@@ -1,7 +1,11 @@
 +++
 title = "Some trivia concering the Adi-shruti"
+date = "2009-02-08"
+upstream_url = "https://manasataramgini.wordpress.com/2009/02/08/some-trivia-concering-the-adi-shruti/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/02/08/some-trivia-concering-the-adi-shruti/).
+
 Students of the veda often question each other on trivia to test their
 knowledge of the shruti. We have always believed that graphically
 depicting some of these produce a clear effect on the student. This
@@ -31,7 +35,7 @@ horizontal line is the median sUkta length across the 10 maNDala-s.
 
 Some interesting points:
 
-\-The two dramatic differences from the general trend are seen in the
+-The two dramatic differences from the general trend are seen in the
 kANva maNDala(RV 8) and the pavmAna soma maNDala (RV 9). The former has
 the greatest median sUkta length and the latter the least median sUkta
 length. Both are the top two most-densely connected maNDala-s in the
@@ -44,14 +48,14 @@ and the bharadvAja-s. The soma maNDala is particularly striking because
 it contains the longest sUkta and a few other particularly long sUkta-s,
 yet the median length of a sUkta in it is the shortest.
 
-\-The gR^isamada-s, vishvAmitra-s, vAmadeva gotama and atri-s never
-composed too long sUkta-s (\>25) though the first 3 had sUkta-s of
+-The gR^isamada-s, vishvAmitra-s, vAmadeva gotama and atri-s never
+composed too long sUkta-s (>25) though the first 3 had sUkta-s of
 greater than or equal to overall median length. In contrast, the
 bharadvAja-s and vasiShTha-s composed sUkta-s some sUkta-s of great
 length thought their median sUkta length tended to be less than the
 overall median.
 
-\-The maNDala 1 and 10 despite having the same number of sUkta-s differ
+-The maNDala 1 and 10 despite having the same number of sUkta-s differ
 in median sUkta length, with RV 1 clearly exceeding the overall median.
 
 The shortest sUkta: RV 1.99 (1 R^ik) This is supposed to be the locus of
@@ -120,3 +124,4 @@ sUkta size are indicated for each maNDala. A most frequent sUkta length
 of 5 R^ik-s appears to be most common individual maNDala-s too. However,
 note the dramatic difference in the vAmadeva(RV 4) and kANva (RV 8)
 maNDala-s.
+

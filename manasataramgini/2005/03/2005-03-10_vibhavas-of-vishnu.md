@@ -1,7 +1,11 @@
 +++
 title = "vibhavas of viShNu"
+date = "2005-03-10"
+upstream_url = "https://manasataramgini.wordpress.com/2005/03/10/vibhavas-of-vishnu/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/03/10/vibhavas-of-vishnu/).
+
 The vibhavas:  
 padmanAbha  
 dhruva  
@@ -41,3 +45,4 @@ rAmachandra
 vyAsa  
 kalkI  
 pAtAlashAyin
+

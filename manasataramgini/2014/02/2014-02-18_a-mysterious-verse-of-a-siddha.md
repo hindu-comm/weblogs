@@ -1,13 +1,17 @@
 +++
 title = "A mysterious verse of a siddha"
+date = "2014-02-18"
+upstream_url = "https://manasataramgini.wordpress.com/2014/02/18/a-mysterious-verse-of-a-siddha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/02/18/a-mysterious-verse-of-a-siddha/).
+
 The siddha [tirumUlar or
-sundarnAtha](https://manasataramgini.wordpress.com/2006/08/25/sundaranatha-tirumulars-lineage/ "sundaranAtha (tirumUlar)’s lineage")
+sundarnAtha](https://manasataramgini.wordpress.com/2006/08/25/sundaranatha-tirumulars-lineage/ "sundaranAtha (tirumUlar)’slineage")
 is supposed to have journeyed from Kashmir to the Tamil country to teach
 a distinctive flavor of the shaiva mantramArga, which is encapsulated in
 his famous but obscure
-[tirumantiram](https://manasataramgini.wordpress.com/2006/08/25/the-mythology-of-tirumular/ "The mythology of tirumUlar").
+[tirumantiram](https://manasataramgini.wordpress.com/2006/08/25/the-mythology-of-tirumular/ "The mythology oftirumUlar").
 While the tirumantiram is widely known among the practicing brAhmaNa-s
 of the Tamil country it is not understood by most of them due to: 1) the
 saMdhyA bhAShA typical of tAntrika encodings; 2) its allusions to
@@ -28,14 +32,14 @@ brought to our father’s attention.
 
 The verse goes thus:  
 Ananda-tANDava-pure draviDasya gehe  
-chitraM vasiShTha-vanitA-samam AjyapAtram |  
+chitraM vasiShTha-vanitA-samam AjyapAtram \|  
 vidyul-lateva pari-nR^ityati tatra darvI  
-dhArAM vilokayati yoga-balena siddhaH ||
+dhArAM vilokayati yoga-balena siddhaH \|\|
 
 In the city of the joyous tANDava, in the Tamil’s home,  
 there is a beautiful ghee-cup like vasiShTha’s lady;  
 there a ladle dances around like the trace of lightning;  
-the stream \[of ghee from it\] the siddha see with his yoga power.
+the stream \[of ghee from it\] the siddha sees with his yoga power.
 
 Certain elements can be interpreted in relatively straight forward
 way:  
@@ -53,20 +57,20 @@ is the name of Alcor (80 Ursae Majoris) the binary companion of Zeta
 Ursae Majoris (vasiShTha). This association is an old and undisputed
 one. The Adiparvan of the mahAbhArata states:
 
-suvratA.api hi kalyANI sarva-loka-parishrutA |  
-arundhatI paryasha\~Nkad vasiShTham R^iShi-sattamam ||  
+suvratA.api hi kalyANI sarva-loka-parishrutA \|  
+arundhatI paryasha\~Nkad vasiShTham R^iShi-sattamam \|\|  
 Even though arundhati was well-known in the world as being well-mannered
 and auspicious she had doubted vasiShTha, the great R^iShi.
 
-vishuddha-bhAvam atyantaM sadA priyahite ratam |  
-saptarShi-madhyagaM vIram avamene cha taM munim ||
+vishuddha-bhAvam atyantaM sadA priyahite ratam \|  
+saptarShi-madhyagaM vIram avamene cha taM munim \|\|
 
 Though \[vasiShTha was\] of highest purity in conduct and and delighting
 in pleasing his wife, she insulted him, the muni who stood in the midst
 of the seven R^iShi-s.
 
-apadhyAnena sA tena dhUmaaruNa-samaprabhA |  
-lakShyAlakShyA nAbhirUpA nimittam iva lakShyate || (“Critical”
+apadhyAnena sA tena dhUmaaruNa-samaprabhA \|  
+lakShyAlakShyA nAbhirUpA nimittam iva lakShyate \|\| (“Critical”
 1.224.27-29)
 
 Due to her jealousy \[towards vasiShTha\] her luminosity became low
@@ -84,13 +88,13 @@ chamasa, sruch or darvi). Indeed, such an allusion of Ursa Major as as
 darvi is found in the atharvaveda:
 
 aditer hastAM srucham etAM dvitIyAM saptaR^iShayo bhUtakR^ito yAm
-akR^iNvan |  
-sA gAtrANi viduShy odanasya darvir vedyAm adhy enaM chinotu ||
+akR^iNvan \|  
+sA gAtrANi viduShy odanasya darvir vedyAm adhy enaM chinotu \|\|
 AV-vulgate 11.1.24
 
 aditi’s hand, this second ritual ladle, which the seven seers, the
 makers of beings, made; may that ladle, knowing the limbs of the
-rice-offering gather, it on the altar.
+rice-offering, gather it on the altar.
 
 Here the darvi (ladle) is described as being made \[up of\] by the seven
 seers, i.e. the 7 stars of the Ursa Major.
@@ -100,8 +104,8 @@ the ritual ladle (chamasa) that contains within it the glory of all
 types:
 
 tiryag bilash chamasa Urdhva-budhnas tasmin yasho nihitaM vishvarUpam
-|  
-tad Asata R^iShayaH sapta sAkaM ye asya gopA mahato babhUvuH ||
+\|  
+tad Asata R^iShayaH sapta sAkaM ye asya gopA mahato babhUvuH \|\|
 AV-vulgate 10.8.9
 
 A ritual ladle with slanting opening and bottom-side up, in it is placed
@@ -118,34 +122,34 @@ siddha meant:
 tad eSha shloko bhavati –  
 Regarding this there is the following verse:
 
-arvAgbilash chamasa Urdhva-budhnas tasmin yasho nihitaM vishvarUpam |  
-tasyAsata R^iShayaH sapta tIre vAg aShTamI brahmaNA saMvidAna|| iti |
+arvAgbilash chamasa Urdhva-budhnas tasmin yasho nihitaM vishvarUpam \|  
+tasyAsata R^iShayaH sapta tIre vAg aShTamI brahmaNA saMvidAna\|\| iti \|
 
 “There is a ritual vessel which has its mouth below and bottom-side up.
 In it is placed glory of all forms \[shaMkarAcharya clarifies: “yathA
 somash chamase” as soma in the chamasa vessel\]; on its rim sit the
 seven seers; and speech, the eight is speech apprehending the brahman”
 
-arvAgbilash chamasa Urdhvabudhna iti | idaM tach Chira eSha hy
-arvAgbilash chamasa UrdhvabudhnaH |  
+arvAgbilash chamasa Urdhvabudhna iti \| idaM tach Chira eSha hy
+arvAgbilash chamasa UrdhvabudhnaH \|  
 “There is a ritual vessel which has its mouth below and bottom-side up”:
 is this head, for it is a vessel which has its mouth below and with
 bottom-side up.
 
-tasmin yasho nihitaM vishvarUpam iti | prANA vai yasho vishvarUpam |
-prANAn etad Aha |  
+tasmin yasho nihitaM vishvarUpam iti \| prANA vai yasho vishvarUpam \|
+prANAn etad Aha \|  
 “In it is placed glory of all forms”: the life functions (prANa-s) are
 indeed the manifold glory. Hence, this statement means the life
 functions.
 
-tasyAsata R^iShayaH sapta tIra iti |prANA vA R^iShayaH | prANAN etad Aha
-|
+tasyAsata R^iShayaH sapta tIra iti \|prANA vA R^iShayaH \| prANAN etad
+Aha \|
 
 “On its rim sit the seven seers”: the seers are indeed the life
 functions; this statement means the life functions i.e. the 7 prANa-s.
 
-vAg aShTamI brahmaNA saMvidAneti | vAg ghy aShTamI brahmaNA saMvitte ||
-BU-kANva 2.2.3
+vAg aShTamI brahmaNA saMvidAneti \| vAg ghy aShTamI brahmaNA saMvitte
+\|\| BU-kANva 2.2.3
 
 “the eighth is speech apprehending the brahman”: speech indeed is the
 eight which perceives the brahman.
@@ -177,7 +181,7 @@ This ladle is now in his internal sky that in that in the tAntrika
 parlance is the chidAkAsha. The stream of ghee pouring from this ladle
 is consistent with a well-known metaphor of the stream of nectar which
 the tAntrika drinks during the performance of
-[khecharI](https://manasataramgini.wordpress.com/2009/07/02/some-notes-on-khechari-mudra/ "Some notes on khecharI mudra")
+[khecharI](https://manasataramgini.wordpress.com/2009/07/02/some-notes-on-khechari-mudra/ "Some notes on khecharImudra")
 or from his head as he meditates of on a deity in the head or the
 conjunction of the deities in the sahasrAra chakra in the cranial crown
 (in the kaula traditions). Hence, it appears that as in the upaniShad,
@@ -193,7 +197,7 @@ magnitude is 7.6 and beyond typical naked eye visibility. However, there
 have been reports of seeing up to magnitude 8 in the darkest of sites.
 Perhaps in the darkest premodern skies mag 8 could have been attainable
 and Sidus Ludoviciana sighted – a fitting feat for a siddha’s eyesight –
-the yoga-chakShu indeed\! There is Mizar B the closer optical binary
+the yoga-chakShu indeed! There is Mizar B the closer optical binary
 companion of Mizar at magnitude \~4. But then this is too close to
 resolve with naked eye at 15 arcseconds (human eye resolves \~2
 arcminutes). The period of the vasiShTha-arundhati binary would be too
@@ -204,11 +208,11 @@ have been visible to premodern viewers. Yet, mysteriously, the
 mahAbharata makes an allusion, though entirely anachronistic, of
 arundhati’s motion relative to vasiShTha:
 
-yA chaiShA vishrutA rAjaMs trailokye sAdhu-saMmatA |  
-arundhatI tayApy eSha vasiShThaH pR^iShThataH kR^itaH ||
+yA chaiShA vishrutA rAjaMs trailokye sAdhu-saMmatA \|  
+arundhatI tayApy eSha vasiShThaH pR^iShThataH kR^itaH \|\|
 
 She, O king, who is well-known in the three worlds and respected by the
-good, even that arundhatI has made vasiShTha stand to her rear\!
+good, even thatarundhatI has made vasiShTha stand to her rear!
 
 Interesting as this is, it might not necessarily imply knowledge of the
 revolution of arundhati and vasiShTha – alternative explanations could
@@ -252,8 +256,9 @@ Footnote 3: Interestingly, the Canadian Miqmak tribe also has a legend
 which takes Alcor to be a vessel.
 
 Footnote 4: The widest double (more correctly triple) known to date is
-Fomalhaut the brightest star in Pisces Austrinus. This system in
+Fomalhaut the brightest star in Pisces Austrinus. This system, in
 addition to the widely separated companions which were only recently
-discovered also has an exoplanet and a ring around Fomalhaut A.
+discovered, also has an exoplanet and a ring around Fomalhaut A.
 Fomalhaut B is the variable star TW Piscis Austrini which is a BY
 Draconis variable varying due to large star spots and rotation.
+

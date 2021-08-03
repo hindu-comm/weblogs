@@ -1,8 +1,11 @@
 +++
-title = "The Indo-European Man – Sons of the Sun [Part II]: Yama And Manu – Firstborn of thexa0Indo-Aryans"
-date = "June 8, 2020"
+title = "The Indo-European Man – Sons of the Sun [Part II]: Yama And Manu – Firstborn of the Indo-Aryans"
+date = "2020-06-08"
+upstream_url = "https://aryaakasha.com/2020/06/08/the-indo-european-man-sons-of-the-sun-part-ii-yama-and-manu-firstborn-of-the-indo-aryans/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/06/08/the-indo-european-man-sons-of-the-sun-part-ii-yama-and-manu-firstborn-of-the-indo-aryans/).
+
 
 
 ![](https://aryaakasha.files.wordpress.com/2020/06/manu-1.jpg)

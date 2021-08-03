@@ -1,8 +1,11 @@
 +++
-title = "On the Wolf Symbolism integral to Indo-European Warrior Tradition – An Excerpt From Speidel’s “Ancient Germanic Warriors: Warrior Styles from Trajan’s Column to Icelandicxa0Sagas”"
-date = "May 5, 2021"
+title = "On the Wolf Symbolism integral to Indo-European Warrior Tradition – An Excerpt From Speidel’s “Ancient Germanic Warriors: Warrior Styles from Trajan’s Column to Icelandic Sagas”"
+date = "2021-05-05"
+upstream_url = "https://aryaakasha.com/2021/05/05/on-the-wolf-symbolism-integral-to-indo-european-warrior-tradition-an-excerpt-from-speidels-ancient-germanic-warriors-warrior-styles-from-trajans-column-to-icelandic-sagas/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/05/05/on-the-wolf-symbolism-integral-to-indo-european-warrior-tradition-an-excerpt-from-speidels-ancient-germanic-warriors-warrior-styles-from-trajans-column-to-icelandic-sagas/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/05/31895245_201322317146767_2864008085599420416_n.jpg?w=703)
 
 “Of all wild animals, wolves are closest to man in social instincts.

@@ -1,7 +1,13 @@
 +++
 title = "Visualizing higher dimensions"
+date = "2007-04-23"
+upstream_url = "https://manasataramgini.wordpress.com/2007/04/23/visualizing-higher-dimensions/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/04/23/visualizing-higher-dimensions/).
+
+
+
 [![](https://i0.wp.com/bp3.blogger.com/_ZhvcTTaaD_4/RicNk84rMrI/AAAAAAAAAGs/vac2l0MP3xI/s320/bubbles.jpg)](http://bp3.blogger.com/_ZhvcTTaaD_4/RicNk84rMrI/AAAAAAAAAGs/vac2l0MP3xI/s1600-h/bubbles.jpg)
 
 When most people look at the above figure they know it is two
@@ -56,3 +62,4 @@ sees a reflection of the aShTa dala in the bindu. He then \*sees\* the
 16 petaled padma. If he advances further he enters space and \*sees\* 8
 cubes. He then transcends space and \*perceives\* the rahasya of the
 yantra and the hidden rahasya of the mantra. He becomes the over-lord.
+

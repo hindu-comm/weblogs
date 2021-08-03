@@ -1,7 +1,11 @@
 +++
 title = "Max Mueller: good, bad or a Malhotran U-turner?"
+date = "2004-04-12"
+upstream_url = "https://manasataramgini.wordpress.com/2004/04/12/max-mueller-good-bad-or-a-malhotran-u-turner/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/04/12/max-mueller-good-bad-or-a-malhotran-u-turner/).
+
 It is common these days to find many Indians stating that Max Mueller
 was an India-hater and a hand-maid of Macaulay.  
 Max Mueller was the son of a well-known German poet and influenced
@@ -22,7 +26,7 @@ move shortened his imprisonment by 6 months. If one reads his book
 ‘India: What it can teach us’ it is in large part sympathetic towards
 Indians (especially if Annie Besant, who supported the Jawlianwalla
 massacre can be considered sympathetic). It is interesting to note that
-the Indian freedom fighters themselves termed him mokSha mUla bhaTTa\!
+the Indian freedom fighters themselves termed him mokSha mUla bhaTTa!
 Ironically his efforts to translate the vedic texts were critical in
 allowing many Hindus to get some idea of the vedic texts – we should
 realize that understanding the vedic language is not a joke, and only a
@@ -56,7 +60,7 @@ The synthetic phase, where he started becoming obsessed with his own
 ideas, set in soon there after. This gradually completed the U-turn as
 he started placing things in his own occidental categories. Yet, he did
 not completely give up his attachment to India and perhaps to the end of
-his life he even returned to it: It  showed up in works like Ramakrishna
+his life he even returned to it: It showed up in works like Ramakrishna
 (which he wrote in his later life; compare with Kripal’s lurid depiction
 of RK as a homoerotic tormented soul) and “*Six systems of Indian
 philosophy*” that he wrote just before his death. So I think we have to
@@ -121,8 +125,8 @@ consider them philosophical high points.
 2\) Modern Western scholars work hard to deny the civilizing role of
 India on the far East and Central Asia that earlier Western scholars
 noted. Instead they give this credit to China. Note Jared Diamonds
-“Guns, Germs etc” where he ignores the history of billion people and
-the sub-cultures influenced by them.
+“Guns, Germs etc” where he ignores the history of billion people and the
+sub-cultures influenced by them.
 
 3\) Modern Western scholars also present the view that upaniShads and
 Hindu philosophy have nothing to teach other than obscure hocus-pocus.
@@ -137,3 +141,4 @@ These are often done by brown sahib sepoys for their gaurA\~NganAthas
 Thus, I would imagine that the actual process of demonization has
 increased though shifted to subtle directions and this is what we need
 to concentrate on.
+

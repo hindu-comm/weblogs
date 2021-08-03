@@ -1,7 +1,11 @@
 +++
 title = "The mahAsAvitrI and the mahAnArAyana upaniShad of the atharvan-s."
+date = "2008-09-16"
+upstream_url = "https://manasataramgini.wordpress.com/2008/09/16/the-mahasavitri-and-the-mahanarayana-upanishad-of-the-atharvan-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/09/16/the-mahasavitri-and-the-mahanarayana-upanishad-of-the-atharvan-s/).
+
 The mahAnAryAnopaniShad is a text of considerable importance because it
 provides the shruti pramANa for several basic rituals of dvija-s like
 the saMdhyopAsana, trisuparNa ritual, shivopAsana using the
@@ -32,13 +36,13 @@ One important mantra used by the atharvan-s, called the mahAsAvitrI, is
 the mantra with the oblations are made during the first upAkarma and in
 subsequent recitation during brahmayaj\~na. The source for this mantra
 is the atharvavedIya MNU:  
-* OM bhUH | OM bhuvaH | OM svaH | OM mahaH | OM janaH | OM tapaH | OM
-satyam | OM tat-savitur vareNyaM bhargo devasya dhImahI | dhiyo yo naH
-prachodayAt | omApo-jyotI-raso.amR^itaM brahma bhUr-bhuvas-svarom | OM
-bhUr-bhuvaH-suvar-mahar-janas-tapaH satyaM madhu kSharanti | tad-brahma
-tad-Apa Apo jyotI-raso. amR^itaM brahma bhUr-bhuvas-svaroM| OM
-tad-brahma | OM tad-vAyuH | OM tad-AtmA | OM tat-sarvam | OM tat-puroM
-namaH ||*
+* OM bhUH \| OM bhuvaH \| OM svaH \| OM mahaH \| OM janaH \| OM tapaH \|
+OM satyaM \| OM tat-savitur vareNyaM bhargo devasya dhImahI \| dhiyo yo
+naH prachodayAt \| omApo-jyotI-raso.amR^itaM brahma bhUr-bhuvas-svaroM
+\| OM bhUr-bhuvaH-suvar-mahar-janas-tapaH satyaM madhu kSharanti \|
+tad-brahma tad-Apa Apo jyotI-raso. amR^itaM brahma bhUr-bhuvas-svaroM\|
+OM tad-brahma \| OM tad-vAyuH \| OM tad-AtmA \| OM tat-sarvaM \| OM
+tat-puroM namaH \|\|*
 
 The AV version of the upaniShad also contains the nArAyaNa sUkta which
 gives the text its name. The AV form of this chant clarifies a few
@@ -67,3 +71,4 @@ MP3](https://app.box.com/s/65xmbh2ojgiexd0ldnxb)
 Finally, we will discuss some aspects of textual evolution and some
 parallels with molecular evolution using the two MNUs as a case study.  
 Continued …
+

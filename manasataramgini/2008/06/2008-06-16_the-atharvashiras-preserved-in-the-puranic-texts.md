@@ -1,7 +1,11 @@
 +++
 title = "The atharvashiras preserved in the purANic texts"
+date = "2008-06-16"
+upstream_url = "https://manasataramgini.wordpress.com/2008/06/16/the-atharvashiras-preserved-in-the-puranic-texts/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/06/16/the-atharvashiras-preserved-in-the-puranic-texts/).
+
 I just decided to record this note even though I did not complete the
 earlier one on the PBU. Upon reading my note on the PBU (as it currently
 stands), ekanetra made an inquiry regarding the atharvashiras
@@ -19,3 +23,4 @@ upaniShad was indeed prevalent amongst the pAshupata-s. This paurANika
 version also preserves the R^igvedic mantra on which the bR^ihat is
 sung, suggesting that it was an integral part of the original mAheshvara
 system of the atharvashiras.
+

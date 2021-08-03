@@ -1,7 +1,11 @@
 +++
 title = "Enemies and their ilk"
+date = "2004-08-12"
+upstream_url = "https://manasataramgini.wordpress.com/2004/08/12/enemies-and-their-ilk/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/08/12/enemies-and-their-ilk/).
+
 saMskR^ita terms for enemies have some interesting social connotations.
 Below we discuss some of these angles
 
@@ -33,4 +37,5 @@ shatru- enemy, plain and simple.
 
 vairi- enemy.
 
-dviSha- a hater.
+dviSha- a hater.  
+

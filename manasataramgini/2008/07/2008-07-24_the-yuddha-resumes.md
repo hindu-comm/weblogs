@@ -1,7 +1,11 @@
 +++
 title = "The yuddha resumes"
+date = "2008-07-24"
+upstream_url = "https://manasataramgini.wordpress.com/2008/07/24/the-yuddha-resumes/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/07/24/the-yuddha-resumes/).
+
 dhumaketu: The amAtya and sachiva were also attacked but the spasha-s
 say that they stood firm. The agent of the duShTa-s lured us for a
 direct battle. This happened after the below events.
@@ -27,3 +31,4 @@ threatened to sap our existence when so many other things needed
 attention.  
 “The vAnara-s hurled their rocks on kumbhakarNa but he moved on
 unaffected.”
+

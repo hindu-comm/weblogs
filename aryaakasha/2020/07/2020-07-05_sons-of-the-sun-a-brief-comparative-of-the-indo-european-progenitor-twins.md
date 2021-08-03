@@ -1,8 +1,11 @@
 +++
-title = "Sons of the Sun – A Brief Comparative Of The Indo-European Progenitorxa0Twins"
-date = "July 5, 2020"
+title = "Sons of the Sun – A Brief Comparative Of The Indo-European Progenitor Twins"
+date = "2020-07-05"
+upstream_url = "https://aryaakasha.com/2020/07/05/sons-of-the-sun-a-brief-comparative-of-the-indo-european-progenitor-twins/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/07/05/sons-of-the-sun-a-brief-comparative-of-the-indo-european-progenitor-twins/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/07/arya-akasha-progenitor-twins-image.png?w=1000)
 
 The Indo-European Myth of the Progenitor Twins is quite literally

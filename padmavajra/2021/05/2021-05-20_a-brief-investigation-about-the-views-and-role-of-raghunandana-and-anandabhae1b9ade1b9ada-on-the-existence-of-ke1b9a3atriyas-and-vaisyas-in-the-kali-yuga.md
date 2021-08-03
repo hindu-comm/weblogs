@@ -1,8 +1,11 @@
 +++
-title = "A brief investigation about the views and role of Raghunandana and Ānandabhaṭṭa on the existence of Kṣatriyas and Vaiśyas in the Kalixa0Yuga"
+title = "A brief investigation about the views and role of Raghunandana and Ānandabhaṭṭa on the existence of Kṣatriyas and Vaiśyas in the Kali Yuga"
 date = "2021-05-20"
+upstream_url = "https://padmavajra.net/2021/05/20/a-brief-investigation-about-the-views-and-role-of-raghunandana-and-anandabha%e1%b9%ad%e1%b9%ada-on-the-existence-of-k%e1%b9%a3atriyas-and-vaisyas-in-the-kali-yuga/"
 
 +++
+Source: [here](https://padmavajra.net/2021/05/20/a-brief-investigation-about-the-views-and-role-of-raghunandana-and-anandabha%e1%b9%ad%e1%b9%ada-on-the-existence-of-k%e1%b9%a3atriyas-and-vaisyas-in-the-kali-yuga/).
+
 Warning note:This post is not intended to argue against varṇāśrama,but
 is meant as a preliminary inquiry into the how people viewed themselves
 in an idealized hierarchical setup.  

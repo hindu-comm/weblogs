@@ -1,7 +1,11 @@
 +++
 title = "The third hero and khANDavans clash"
+date = "2007-11-12"
+upstream_url = "https://manasataramgini.wordpress.com/2007/11/12/the-third-hero-and-khandavans-clash/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/11/12/the-third-hero-and-khandavans-clash/).
+
 There was nothing new in the hostile intention of the evil-minded
 khANDavan-s. Jealous of the great power of the 3rd vIra they wanted to
 ambush him too. We were not very keen about this happening, because we
@@ -27,15 +31,15 @@ Then the terrible, exceedingly black pishAcha reached us in the black of
 the night. We clearly saw it: To our own amazement, it hovered around us
 roaring and barking with its fangs bared but failed to pierce that
 brahma-varma. It was so close yet unable to strike us, blocked by the
-invisible skanda gahvara: OM shrIM e i u na shrIM rIM kumArAya namaH |
+invisible skanda gahvara: OM shrIM e i u na shrIM rIM kumArAya namaH \|
 Failing utterly, the pishAcha fled as though it was struck by a shakti
 of hemashUla.
 
 We then showed the vajra mudra thinking of the slayer of mahiSha and
 tAraka :  
-Om || uta svAnAso divi Shantv-agnes-tigmAyudhA rakShase hantavA u ||
-hrAm ||  
-made chid asya pra rujanti bhAmA na varante paribAdho adevIH || \~NaM
+OM \|\| uta svAnAso divi Shantv-agnes-tigmAyudhA rakShase hantavA u \|\|
+hrAM \|\|  
+made chid asya pra rujanti bhAmA na varante paribAdho adevIH \|\| \~NaM
 
 Oh thundering son of agni who rushes at the adevIH hurling terrible
 weapons, like the rampant agni utterly destroying the proud lords of the
@@ -44,3 +48,4 @@ forest, slay our foes. By that fury the mohini was extirpated.
 While this attack was a sudden as that deployed on us when
 nIla-lohita-mekalA of pretty smiles saved us, the kumAra mantra-s placed
 us in a much better situation than what we were in then.
+

@@ -1,7 +1,11 @@
 +++
 title = "The geopolitical observer"
+date = "2007-07-16"
+upstream_url = "https://manasataramgini.wordpress.com/2007/07/16/the-geopolitical-observer/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/07/16/the-geopolitical-observer/).
+
 Sometimes one watches history form around you. You wish it would happen
 differently but like an enormous phantasm it rolls along its own course.
 There are many current geopolitical events that are of considerable
@@ -43,8 +47,8 @@ much because they are too entangled economically with China, and have a
 large dependency on Chinese skilled labor in their science and
 technology. The west has always tried to use Isaism as a subversionist
 mechanism against China. However, the disastrous incident of the
-“Chinese younger brother of Jesus” made the Leukosphere realize that
-it may be unwise to play the Christian card too hard. The logic roughly
+“Chinese younger brother of Jesus” made the Leukosphere realize that it
+may be unwise to play the Christian card too hard. The logic roughly
 goes thus: the Leukosphere assumes that Isaism is its foundation and
 weapon of subversion. There must be no other power which should become
 the custodian of Isaism. There is a great chance the the Chinese convert
@@ -97,7 +101,7 @@ the Leukopshere in keeping India (and to some degree other states) in
 check. Further, here the interests of Beijing and the Leukosphere,
 though normally in conflict, align perfectly. But now the usual dynamics
 of Islam are playing out– Islam is bloody within and without, and the
-gore within is coming to fore in the past few days \! The Moslems
+gore within is coming to fore in the past few days ! The Moslems
 unsurprisingly are killing each other and the US is unable to do much
 here. Any realist state will not pass such an opportunity such as this
 to flatten the thorn placed by their rivals in its path. But India is
@@ -122,3 +126,4 @@ more bearded ghazi gets to kiss his boys and girls in Jannat, or did
 some Leukospheric fellow Abrahamistic apologist say it was just 72
 raisins and 28 peaches?. They must be desperate if it is just the
 latter.
+

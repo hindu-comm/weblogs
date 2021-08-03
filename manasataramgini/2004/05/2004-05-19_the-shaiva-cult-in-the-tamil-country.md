@@ -1,7 +1,11 @@
 +++
 title = "The shaiva cult in the tamil country"
+date = "2004-05-19"
+upstream_url = "https://manasataramgini.wordpress.com/2004/05/19/the-shaiva-cult-in-the-tamil-country/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/05/19/the-shaiva-cult-in-the-tamil-country/).
+
 The rise of shaiva thought in the draviDa country was a milestone in the
 incorporation of motifs of Sankrit thought from North India. The
 Dravidian works of shaiva literature closely parallel their development
@@ -53,3 +57,4 @@ poetic style starting with the poem on tirukailAsa GYAna ulA inspired by
 the sight of mount Kailasa. Last in this group was the famed brahmin
 mANikkavAshagar, whose tirukkovai and tiruvAshagam and highly rated by
 the draviDas and brahmins.
+

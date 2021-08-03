@@ -1,7 +1,11 @@
 +++
 title = "The struggle against the Khan Toqtamish"
+date = "2003-02-27"
+upstream_url = "https://manasataramgini.wordpress.com/2003/02/27/the-struggle-against-the-khan-toqtamish/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/02/27/the-struggle-against-the-khan-toqtamish/).
+
 The land North of the Syr Darya delta and the Little Aral Sea was the
 domain of the White Horde Khanate. In 1373 the powerful Urus Khan, a
 descendant of Chingiz Khan, through his eldest son Jöchi, was crowned
@@ -34,7 +38,7 @@ the little Aral), Toqtamish marched with his cavalry across the frigid
 steppes and fell upon the former. Timur-Maliq was killed in the
 encounter and Toqtamish scored a massive victory. He ascended the throne
 as the supreme Khan of the White Horde with the sprinkling of Qumis
-before the 9 Yak tailed banner of the Mongols.+++(5)+++
+before the 9 Yak tailed banner of the Mongols.
 
 Shortly after this, he built his cavalry over the coming spring and
 marched on Mamai Khan, the ruler of the Golden horde or the Russian
@@ -209,3 +213,4 @@ Qutlugh on the behalf of Timur-i-lang. Finally, in 1405 Toqtamish when
 made a final attempt to recover the Golden Horde, he was captured by his
 cousin, Khan Shadibeq brother of Timur Qutlugh, in course of a battle in
 Siberia and suffocated him to death.
+

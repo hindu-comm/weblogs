@@ -1,7 +1,11 @@
 +++
 title = "The irony of vAsudeva sArvabhauma"
+date = "2012-01-24"
+upstream_url = "https://manasataramgini.wordpress.com/2012/01/24/the-irony-of-vasudeva-sarvabhauma/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/01/24/the-irony-of-vasudeva-sarvabhauma/).
+
 In the declining years of the Hindu world, in the late 1400s and first
 half of 1500s lived a remarkable thinker vAsudeva sArvabhauma. The
 intellectual feats of the paraMpara to which he belonged are one of the
@@ -37,19 +41,19 @@ East. 4) chaitanya, the vaiShNava bhakti saint. It appears that the
 partisans of chaitanya’s gauDIya tradition have used vAsudeva as an
 idealized “opponent” of chaitanya, who was finally converted by him.
 This appears to be a purely apocryphal account of the gauDIya tradition
-– we almost feel that the hard logical tradition of vAsudeva
-sArvabhauma produced a reactionary response on chaitanya, who swung all
-the way to the other end of the Hindu spectrum, as a passionate
-proponent of the bhaktimArga. It is indeed rather ironic that the
-student of a great teacher becomes famous for propagating doctrines so
-very contrasted to those of his teacher \[Footnote 2\]. Nevertheless,
-the vast diversity of the knowledge of vAsudeva’s students in a sense
-point to his own breadth of scholastic ability. For long we have felt
-that there is a larger irony in terms of the tradition that vAsudeva
-sArvabhauma represented. vAsudeva belonged the tradition of nyAya that
-was revitalized by ga\~Ngesha. His legacy in this regard was passed on
-to the one-eyed raghunAtha tarka-shiromaNi who in turn passed it to his
-students like mathurAnAtha, harirAma and jagadIsha \[Footnote 1\].
+– we almost feel that the hard logical tradition of vAsudeva sArvabhauma
+produced a reactionary response on chaitanya, who swung all the way to
+the other end of the Hindu spectrum, as a passionate proponent of the
+bhaktimArga. It is indeed rather ironic that the student of a great
+teacher becomes famous for propagating doctrines so very contrasted to
+those of his teacher \[Footnote 2\]. Nevertheless, the vast diversity of
+the knowledge of vAsudeva’s students in a sense point to his own breadth
+of scholastic ability. For long we have felt that there is a larger
+irony in terms of the tradition that vAsudeva sArvabhauma represented.
+vAsudeva belonged the tradition of nyAya that was revitalized by
+ga\~Ngesha. His legacy in this regard was passed on to the one-eyed
+raghunAtha tarka-shiromaNi who in turn passed it to his students like
+mathurAnAtha, harirAma and jagadIsha \[Footnote 1\].
 
 They were in turn was succeeded by the great student of harirAma,
 gadAdhara bhaTTa, who revived the syncretic vaisheShika discourse among
@@ -60,24 +64,24 @@ chaNDikA. However, we may say that gadadhAra’s greatest contribution was
 the restoration of the true vaisheShika spirit into the system: It said
 that as he lay dying his well-wishers asked him to think of the Ishvara,
 the cause of the universe, that he might attain a favorable gati upon
-death. He instead responded “pIlavaH pIlavaH pIlavaH ||” (atoms, atoms,
-atoms; we see the triplication as his subscription of the vaisheShika
-tryaNu instead of the dvyaNu typical of the nyAya tradition). The last
-notable scholar in the line of gadAdhara was our coethnic annam bhaTTa
-who composed the tarka-saMgraha. It is in examining this capstone
-production of the great atomic tradition that we find a great irony: Did
-most of our paNDita-s fail to comprehend what for us is a guiding
-mahAvAkya: kANAdaM pANinIyaM cha sarva-shAstropakArakam || Some
-traditional paNDita coethnics of mine, who are certainly great scholars
-of saMskR^ita, interpret this vAkya as meaning: “Logic and grammar are
-essential aids to understand any shAstra”. But we would interpret it
-somewhat differently and certainly can defend the interpretation rather
-firmly: “Atomic and pANinian analytical devices are essential aids to
-understand any shAstra”. We take this to represent the essential spirit
-of kaNAda, the promulgator of atomic thinking and paNini, the
-promulgator of a certain analytical technique that uses axioms on one
-side and principle of homology on the other (as expounded by his
-commentator pata\~njali).
+death. He instead responded “pIlavaH pIlavaH pIlavaH \|\|” (atoms,
+atoms, atoms; we see the triplication as his subscription of the
+vaisheShika tryaNu instead of the dvyaNu typical of the nyAya
+tradition). The last notable scholar in the line of gadAdhara was our
+coethnic annam bhaTTa who composed the tarka-saMgraha. It is in
+examining this capstone production of the great atomic tradition that we
+find a great irony: Did most of our paNDita-s fail to comprehend what
+for us is a guiding mahAvAkya: kANAdaM pANinIyaM cha
+sarva-shAstropakArakaM \|\| Some traditional paNDita coethnics of mine,
+who are certainly great scholars of saMskR^ita, interpret this vAkya as
+meaning: “Logic and grammar are essential aids to understand any
+shAstra”. But we would interpret it somewhat differently and certainly
+can defend the interpretation rather firmly: “Atomic and pANinian
+analytical devices are essential aids to understand any shAstra”. We
+take this to represent the essential spirit of kaNAda, the promulgator
+of atomic thinking and paNini, the promulgator of a certain analytical
+technique that uses axioms on one side and principle of homology on the
+other (as expounded by his commentator pata\~njali).
 
 Now the system of vaisheShika and nyAya have two major frameworks for
 knowledge: The atomism and logic. kanAda’s main thrust is the former,
@@ -107,7 +111,7 @@ We state these simple guiding principles \[Footnote 3\] that open the
 tattva-saMgraha in full because we are of the opinion that these are
 indeed sound basic principles for investigating the universe:
 
-dravya-guNa-karma-sAmAnya-visheSha-samavAyaabhAvAH sapta padArthAH ||
+dravya-guNa-karma-sAmAnya-visheSha-samavAyaabhAvAH sapta padArthAH \|\|
 
 This might be interpreted as: atomic or quantum entities, properties,
 force (literally displacement or motion; force being its cause),
@@ -127,7 +131,7 @@ two padArtha-s chit (consciousness) and achit (not-consciousness) or
 rAmAnujavAda: which includes the above two and nArAyaNa.
 
 tatra dravyANi
-pR^ithivy-ap-tejo-vAyv-AkAsha-kAla-dig-Atma-manAmsi-navaiva ||
+pR^ithivy-ap-tejo-vAyv-AkAsha-kAla-dig-Atma-manAmsi-navaiva \|\|
 
 This might be interpreted as: Nine alone of these are the atomic
 entities: solid, liquid, heat/light, gas, vacuum, time, space,
@@ -135,7 +139,7 @@ consciousness and mind. A questioner would have asked if mind deserves
 the status of an independent atomic entity.
 
 rUpa-rasa-gandha-sparsha-saMkhyA-parimANa-pR^ithaktva-saMyoga-vibhAga-paratva-aparatva-gurutva-dravatva-sneha-shabda-buddhi-sukha-duHkhechChA-dveSha-prayatna-dharmAdharma-saMskArAsh
-chaturviMshati guNAH ||
+chaturviMshati guNAH \|\|
 
 This might be interpreted as: Form/color, taste, smell, touch, number,
 magnitude, separate independent existence, conjunction (bond-forming),
@@ -152,10 +156,10 @@ whereas the last 4 belong to manas. However, saMskAra also applies to
 the matter dravya-s as the concept of inertia. The view of pata\~njali
 in his mahAbhAShya is:
 
-kaH guNaH nAma | sattve nivishate .apaiti pR^ithag jAtiShu vartate |
-Adheyash-cha akriyAjash-cha so .asattvaprakR^itir guNaH || upaiti anyat
-| jahAti anyat | dR^iShTaH dravyAntareShu .api | vAchakaH
-sarvali\~NgAnAm dravyAt anyaH guNaH smR^itaH |
+kaH guNaH nAma \| sattve nivishate .apaiti pR^ithag jAtiShu vartate \|
+Adheyash-cha akriyAjash-cha so .asattvaprakR^itir guNaH \|\| upaiti
+anyat \| jahAti anyat \| dR^iShTaH dravyAntareShu .api \| vAchakaH
+sarvali\~NgAnAm dravyAt anyaH guNaH smR^itaH \|
 
 Thus, the view of pata\~njali on the guNa might be interpreted as: The
 guNa is something which inheres only in substance (or what may be mapped
@@ -166,7 +170,7 @@ This view of the vaiyAkaraNa-s is clearly inherited from that of
 nyAya-vaisheShika.
 
 utkShepaNa-avakShepaNa-Aku\~nchana-prasAraNa-gamanAni pa\~ncha karmANi
-||
+\|\|
 
 Actions are of five kinds causing displaced away from, towards,
 contraction, expansion and movement from one place to another. The
@@ -175,7 +179,7 @@ Unfortunately, this clarity was lost in many of the other Hindu
 doctrines and this latter influence became pervasive in the later
 understanding of karman. Indeed, displacement was understood as a
 vector; as the classical vaisheShika theorist prashastapAda states:
-“dig-vishiShTa-kAryArambhakatvam cha visheShaH ||” implying that the
+“dig-vishiShTa-kAryArambhakatvam cha visheShaH \|\|” implying that the
 displacement is marked by a direction denoted by a particular
 dimensional axis. The first four karma-s are understood to be
 rectilinear displacements i.e. the displacement of the body away or
@@ -183,7 +187,7 @@ towards a given reference point or the expansion or contraction of the
 body. The fifth is supposed to denote displacements where the direction
 of displacement is not the same throughout the motion; as prashastapAda
 states in his conception of physics:
-yad-aniyata-dik-pradesha-samyoga-vibhAga-kAraNam tad-gamanam-iti | This
+yad-aniyata-dik-pradesha-samyoga-vibhAga-kAraNam tad-gamanam-iti \| This
 includes projectile, circular and harmonic displacements, which might be
 due to restitutive or opposing forces, as prashastapAda and his
 successors like vyomashiva deshika and shrIdhara state:
@@ -193,27 +197,27 @@ It was through such an analysis of motion as a physical concept did
 shrIdhara, the successor prashastapAda, arrive at a physical formulation
 similar to Newton’s first law of motion in his nyAyakandali:
 
-saMskAro yAvat patanaM anuvartate | yathA yathA chAsya kArya-karaNAt
+saMskAro yAvat patanaM anuvartate \| yathA yathA chAsya kArya-karaNAt
 shaktiH kShItate tathA tathA kArya-mandataramAdi bheda-bhinnam upajAyate
-||
+\|\|
 
 Here shrIdhara implies that as a force does work against the body’s
 motion, the body slows down and comes to rest.
 
-param aparaM cheti dvividhaM sAmAnyam ||
+param aparaM cheti dvividhaM sAmAnyam \|\|
 
 Generalities are of two types, inclusive and less inclusive.
 
-nitya-dravya-vR^ittayo visheShAs tv anantA eva ||
+nitya-dravya-vR^ittayo visheShAs tv anantA eva \|\|
 
 On the other hand specifics reside in the conserved dravya-s and are
 endless.
 
-samavAyas tv eka eva ||  
+samavAyas tv eka eva \|\|  
 However inherence is only one.
 
-abhAvash chaturvidhaH | prAgabhAvaH pradhvaMsAbhAvo .atyantAbhAvo
-.anyonyAbhAvash cheti ||
+abhAvash chaturvidhaH \| prAgabhAvaH pradhvaMsAbhAvo .atyantAbhAvo
+.anyonyAbhAvash cheti \|\|
 
 Absence is of 4 types; antecedent, through annihilation, absolute and
 mutual.
@@ -278,8 +282,8 @@ implied that one can never know if one has a theory of everything, so an
 enterprise like physics trying to explain nature is logically
 questionable. In this regard, one might also consult a parallel view
 presented by Stephen Hawking based on Gödel’s theorems in his lecture
-“Gödel and the end of physics”. Yet, several of us in different areas
-of the scientific enterprise tend to hold that, be this as it might, the
+“Gödel and the end of physics”. Yet, several of us in different areas of
+the scientific enterprise tend to hold that, be this as it might, the
 construction of scientific theories based on finite principles brings us
 closer to an understanding even it were an eternally incomplete one on
 the grounds of logic. It was this debate which reminded us of the
@@ -321,10 +325,11 @@ various parts of India in medieval history.
 
 Footnote 3: These are indeed simple principles that must be taught to
 children as annaM bhaTTa clarifies: “bAlAnAM sukhabodhAya krIyate
-tarka-saMgrahaH |” For pleasurably enlightening children I have made the
-tarka-saMgraha.
+tarka-saMgrahaH \|” For pleasurably enlightening children I have made
+the tarka-saMgraha.
 
 Footnote 4: One of the few modern authors who understood the true spirit
 of nyAya-vaisheShika in terms of it being a physics was the great
 va\~Nga intellectual Brajendranath Seal, with whom we found much
 convergence in thinking on all these matters.
+

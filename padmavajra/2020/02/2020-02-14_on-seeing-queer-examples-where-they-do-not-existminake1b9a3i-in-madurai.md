@@ -1,8 +1,11 @@
 +++
-title = "On seeing queer examples where they do not exist:Mīnākṣī inxa0Madurai"
+title = "On seeing queer examples where they do not exist:Mīnākṣī in Madurai"
 date = "2020-02-14"
+upstream_url = "https://padmavajra.net/2020/02/14/on-seeing-queer-examples-where-they-do-not-existminak%e1%b9%a3i-in-madurai/"
 
 +++
+Source: [here](https://padmavajra.net/2020/02/14/on-seeing-queer-examples-where-they-do-not-existminak%e1%b9%a3i-in-madurai/).
+
 Before I begin,may my speech be blessed by Dakṣīṇāmūrti,that noble fount
 of wisdom,who wears ornaments of both the sexes in His ears,signifying
 His eternal union with Śaktī.

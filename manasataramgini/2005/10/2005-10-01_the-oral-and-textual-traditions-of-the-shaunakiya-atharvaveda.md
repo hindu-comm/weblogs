@@ -1,7 +1,11 @@
 +++
 title = "The oral and textual traditions of the shaunakIya atharvaveda"
+date = "2005-10-01"
+upstream_url = "https://manasataramgini.wordpress.com/2005/10/01/the-oral-and-textual-traditions-of-the-shaunakiya-atharvaveda/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/10/01/the-oral-and-textual-traditions-of-the-shaunakiya-atharvaveda/).
+
 The only complete surviving oral tradition is that of the 4th veda is
 the shaunakIya(AV-S) recitation. Even this is dwindling now. The
 paippalAda recitation (AV-P) is not preserved with svaras. An ekashruti
@@ -29,8 +33,8 @@ reciters.
 In the Vaidik Samshodhana Mandal (Pune) we have seen a manuscript of an
 archaic mantralakShaNaM on how the atharva vedic jaTa and krama
 recitations were constructed. The basic rules are discussed: padas:  
-a, b, c -(krama)-\> ab/bc/b iti b  
-a,b,c -(jaTA)-\>abbaab / bccbbc / b iti b
+a, b, c -(krama)-> ab/bc/b iti b  
+a,b,c -(jaTA)->abbaab / bccbbc / b iti b
 
 Further examples are discussed of the actual transformations in action.
 
@@ -47,4 +51,5 @@ However, the krama pATha of the 2oth kANDa of S-AV closely resembles the
 R^igveda krama pATha. The RV krama pATha has not been printed, but I
 have seen a complete recitation of it by the Vedavikritilekhana Mandal
 (with fragment Audio recordings) in Pune by a Maharastri R^igvedic
-savant, Bhalachandrashastri.
+savant, Bhalachandrashastri.  
+

@@ -1,7 +1,11 @@
 +++
 title = "Nebra Star Disc and Indo-European Archaeoastronomy"
+date = "2005-09-15"
+upstream_url = "https://manasataramgini.wordpress.com/2005/09/15/nebra-star-disc-and-indo-european-archaeoastronomy/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/09/15/nebra-star-disc-and-indo-european-archaeoastronomy/).
+
 The Nebra Star Disc [![Posted by
 Picasa](https://i1.wp.com/photos1.blogger.com/pbp.gif)](http://picasa.google.com/blogger/)
 
@@ -32,21 +36,21 @@ Recently in Nebra, Germany a star disc with an image of the sky was
 discovered. It contains the following salient points
 
 1\) A green bronze disc with stars, sun and the moon marked on it.  
-2\) A crude representation of the Pleiades (kR^ittikA) is marked out
+2) A crude representation of the Pleiades (kR^ittikA) is marked out
 distinctly.  
-3\) The rim of the disc is marked by about 36 points indicating a
+3) The rim of the disc is marked by about 36 points indicating a
 division of the circle in the traditional Indo-European way.  
-4\) There are two arcs of 82.7 degrees each on either side marking
+4) There are two arcs of 82.7 degrees each on either side marking
 exactly the arcs in the sky of the between the solisticial rising and
 setting points respectively on each horizon in Nebra.  
-5\) There is a golden boat of the sky between the two arcs.
+5) There is a golden boat of the sky between the two arcs.
 
 This reminds us of the below R^igvedic hymn to deva puShan that talk of
 the gold boat- “nAvo hiraNyayIr” in which puShan travels acting as an
 emissary or carrier of the sun- “dUtyaM sUryasya”
 
-yāste pūṣan nāvo antaḥ samudre hiraṇyayīr-antarikṣe caranti |   
-tābhiryāsi dūtyāṃ sūryasya kāmena kṛta śrava ichamānaḥ || (6.58.3 of
+yāste pūṣan nāvo antaḥ samudre hiraṇyayīr-antarikṣe caranti \|   
+tābhiryāsi dūtyāṃ sūryasya kāmena kṛta śrava ichamānaḥ \|\| (6.58.3 of
 bharadvAja bArhaspatya)  
   
 The archaeologists were, as usual, quick to call it a fraud, claim it to
@@ -62,3 +66,4 @@ constellations of Canis Major, Pegasus, Taurus and Herakles are ancient
 Indo-European constellations, rather than having a Mesopotamian origin.
 This provide indirect support for the ancient observations of the Hindus
 made regarding these constellations.
+

@@ -1,7 +1,11 @@
 +++
 title = "A rambling expatiation instigated by the self-interview of Robert Burnham, Jr"
+date = "2015-02-28"
+upstream_url = "https://manasataramgini.wordpress.com/2015/02/28/a-rambling-expatiation-instigated-by-the-self-interview-of-robert-burnham-jr/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/02/28/a-rambling-expatiation-instigated-by-the-self-interview-of-robert-burnham-jr/).
+
 When we were young, the normally taciturn vaiśya-jyotiṣa once asked us
 to participate in a peculiar weekly assembly of amateur astronomers that
 was apparently inspired by none other than the great Lokamānya Ṭilak and
@@ -9,8 +13,8 @@ was housed in a memorial of his. Other than the vaiśya-jyotiṣa, his
 vaiśya sidekick, originally from the grocer community, and I, the rest
 of the participants in that assembly were stuffy, elderly Mahārāṣṭrī
 gentlemen who almost appeared as though they had jumped right out of
-Ṭilak’s era. They were amateur jyotiṣa-s whose primary interests lay
-in our solar system, with some passing interest in the older Hindu
+Ṭilak’s era. They were amateur jyotiṣa-s whose primary interests lay in
+our solar system, with some passing interest in the older Hindu
 astronomy of Sūryasiddhānta, Varāhamihira, Āryabhaṭṭa. They discussed
 these matters a sauntering pace even as they viewed both me and the two
 vaiśya-s with a bit of quizzical but perplexed attitude. They wondered
@@ -148,7 +152,7 @@ Burnham should have lived to see this age of discovery in astronomy that
 has come for the first time since the great leap of Herschel and his
 contemporaries. This is due to great technological achievement on part
 of the United States. Our knowledge is likely to advance even more for a
-while as much greater successors of the Kepler mission are launched. We
+while as much greater successors of the Kepler missionare launched. We
 may even detect the chemical signatures indicating the existence of
 exo-life in the coming years, but that is different from the actual
 contact with the aliens, which should have happened. However, we suspect
@@ -232,7 +236,7 @@ statements are human statements; all theological writings are human
 writings; all religious concepts were developed by human beings.
 Obviously. There are people who imagine that they have something more,
 since their whole creed depends upon that idea. And where do they go to
-prove this? Right back to human reasoning\! You can find entire books –
+prove this? Right back to human reasoning! You can find entire books –
 hundreds of them – devoted to proving some theological doctrine or
 other. Using step by step human logic.
 
@@ -297,5 +301,6 @@ to be out of reach for it is almost as if the gods come in the way when
 the mere martya has apprehended certain things. Surely there were many
 Khans on the steppes who never became Chingiz Khan. Such are the times
 when you wish for a capable successor to whom you can transmit your
-vidyā-s in toto, as Mahārāṇā Pratāpa wished there was no gap between
-him and Mahārāṇā Saṃgā.
+vidyā-s in toto, as Mahārāṇā Pratāpa wished there was no gap between him
+and Mahārāṇā Saṃgā.
+

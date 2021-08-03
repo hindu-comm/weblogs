@@ -1,7 +1,11 @@
 +++
 title = "Indo-European divine tripartation"
+date = "2004-04-09"
+upstream_url = "https://manasataramgini.wordpress.com/2004/04/09/indo-european-divine-tripartation/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/04/09/indo-european-divine-tripartation/).
+
 The following myths preserve a remarkable pattern of tripartation. In
 part they conform to Dumezil’s archetype of tripartation in the
 Indo-European world.
@@ -79,16 +83,16 @@ apAM napAt of the vedas and the Avesta .
 5\) Finally, we may follow the lead back to the ancient hymn of
 gR^itsamada shunahotra shaunaka bhArgava to apAM napAt (RV 2.35).
 
-samanyA yantyupa yantyanyAH samAnaM UrvaM nadyaH pR^iNanti |  
-tamU shuciM shucayo dIdivAMsamapAM napAtaM pari tasthurApaH ||
+samanyA yantyupa yantyanyAH samAnaM UrvaM nadyaH pR^iNanti \|  
+tamU shuciM shucayo dIdivAMsamapAM napAtaM pari tasthurApaH \|\|
 
 Translation: Some streams unite themselves and others join them: as
 rivers, they flow together to propitiate Urva (the fire within water).On
 every side the bright streams have encompassed the bright and
 resplendent apAM napAt.
 
-asmai tisro avyathyAya nArIrdevAya devIrdidhiShantyannam |  
-kR^itA ivopa hi prasarsre apsu sa pIyUShaM dhayati pUrvasUnAm ||
+asmai tisro avyathyAya nArIrdevAya devIrdidhiShantyannaM \|  
+kR^itA ivopa hi prasarsre apsu sa pIyUShaM dhayati pUrvasUnAm \|\|
 
 Translation: Three goddesses present food to that unassailable god; as
 if formed in the waters they spread all over, and he drinks the
@@ -119,7 +123,7 @@ tale of people trying to fathom the depth of the Huntsoe Lake. They tied
 a ploughshare to a rope and lowered it into the lake. But from below
 came a ghostly voice threatening them with fatal consequence if they
 tried. In terror they hauled the rope back and found that a skull of a
-horse was fastened to it in place of the ploughshare\!
+horse was fastened to it in place of the ploughshare!
 
 To sum up we see many different mythic motifs seamless merge into each
 other with a wide spread in the Indo-European world. The clearest
@@ -132,4 +136,5 @@ The motifs are: 1) The divine luster or glory departs from its holder in
 3) The part lying in water is often linked to the form of a horse.
 
 Myth is modular and the units of myth can often recombine with others,
-just as domains in proteins\!
+just as domains in proteins!
+

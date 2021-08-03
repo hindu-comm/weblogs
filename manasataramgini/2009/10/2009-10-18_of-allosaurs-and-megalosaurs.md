@@ -1,7 +1,11 @@
 +++
 title = "Of allosaurs and megalosaurs"
+date = "2009-10-18"
+upstream_url = "https://manasataramgini.wordpress.com/2009/10/18/of-allosaurs-and-megalosaurs/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/10/18/of-allosaurs-and-megalosaurs/).
+
 It was a cold and wet day, hardly inspiring to anyone. Rambling to our
 lair through the dismal mists, with not a mammal in sight other than me,
 we saw the triumphal sign of the dinosaurian presence in the form of 3
@@ -38,7 +42,7 @@ was the work of ND Smith et al (mentioned above). The leads that emerged
 in this work have now been taken to conclusion in the work of Benson et
 al.
 
-[![allosaur\_megalosaur](https://i0.wp.com/farm3.static.flickr.com/2708/4021516246_6d6dacc121.jpg)](http://www.flickr.com/photos/24766652@N05/4021516246/ "allosaur_megalosaur by somasushma, on Flickr")  
+[![allosaur_megalosaur](https://i0.wp.com/farm3.static.flickr.com/2708/4021516246_6d6dacc121.jpg)](http://www.flickr.com/photos/24766652@N05/4021516246/ "allosaur_megalosaur by somasushma, on Flickr")  
 In their latest tree the basal-most tetanuran branch was the
 megalosauroid branch (inclusive of the spinosauroid branch in the older
 trees; renamed due to inclusion of *Megalosaurus* one of the earliest
@@ -99,7 +103,7 @@ arms. At the face of it the neovenatorids appear to have lasted at least
 60 million years from the Barremian age to the Maastrichtian
 (*Orkoraptor*). Thus, it appears that the allosauroids were persistent
 till the end of the Age of the dinosaurs at least on some continents.  
-[![Chilantaisaurus\_Fukuiraptor](https://i2.wp.com/farm3.static.flickr.com/2782/4020875013_ca4d126cef.jpg)](http://www.flickr.com/photos/24766652@N05/4020875013/ "Chilantaisaurus_Fukuiraptor by somasushma, on Flickr")
+[![Chilantaisaurus_Fukuiraptor](https://i2.wp.com/farm3.static.flickr.com/2782/4020875013_ca4d126cef.jpg)](http://www.flickr.com/photos/24766652@N05/4020875013/ "Chilantaisaurus_Fukuiraptor by somasushma, on Flickr")
 
 The implications of this are rather profound in terms of biogeography
 and paleobiology. Firstly, it renders most vicariant models of tetanuran
@@ -136,3 +140,4 @@ required to confirm the tyrannosauroid identity of this large carnivore
 now suggested for allosauroids. However, its premaxilla might indeed
 support a tyrannosauroid connection, especially with basal forms like
 Proceratosaurus.
+

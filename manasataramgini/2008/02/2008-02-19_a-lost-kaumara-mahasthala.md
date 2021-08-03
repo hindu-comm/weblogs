@@ -1,7 +1,11 @@
 +++
 title = "A lost kaumAra mahAsthala"
+date = "2008-02-19"
+upstream_url = "https://manasataramgini.wordpress.com/2008/02/19/a-lost-kaumara-mahasthala/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/02/19/a-lost-kaumara-mahasthala/).
+
 In the late 1800s our predecessor was returning to his home base after
 attending to secular business in the town of Guntur in the Andhra
 country on his horse. It was late evening and he had reached the eastern
@@ -34,24 +38,24 @@ and will automatically have a one-time siddhi of the kaulavidyA.
 
 Armed with the records of Epigraphica Indica and MR Rao’s collection of
 inscriptions we note:  
-\-In 1006 CE Bayalanambi the commander of the army of Western chAlukya
+-In 1006 CE Bayalanambi the commander of the army of Western chAlukya
 king satyAshraya invaded the Vengi to conquer the choDa-Eastern chAlukyA
 combine. He destroyed the forts of Dannada and Enumandala and on his way
 he stopped at Chebrolu and made gifts to kumAra whose was the patron
 deity of the village.  
-\-In 1076 goNkaya, the commander of the velanATi choDas, conferred
+-In 1076 goNkaya, the commander of the velanATi choDas, conferred
 ornaments to the image of kumAra and also that of rudra housed in the
 mUlasthAna-mahAdeva temple.  
-\-In 1115 CE gaNDamAMbA the wife of the velanATi choDa ruler made gift
-to kumAra.  
-\-In 1118 a certain sUrana from a family of temple artisans became a
+-In 1115 CE gaNDamAMbA the wife of the velanATi choDa ruler made gift to
+kumAra.  
+-In 1118 a certain sUrana from a family of temple artisans became a
 general in the army of the koNDapaDamaTi war-lord manda and conquered
 Vijayawada. He made several gifts to the temple of kumAra at Chebrolu.  
-\-In 1145 CE a lamp tower was gifted by the koNDapaDamaTi war-lord
+-In 1145 CE a lamp tower was gifted by the koNDapaDamaTi war-lord
 bhImarAja to the kumAra temple, which had 300 staff involved in its
 upkeep and 300 for performance of dance dramas.  
-\-In 1213 CE, gaNapati-deva who was return from the conquest of the
-south gifted the village to the commander of his army, jayasenApati, the
+-In 1213 CE, gaNapati-deva who was return from the conquest of the south
+gifted the village to the commander of his army, jayasenApati, the
 author of a famous treatise on Hindu dance. jayasenApati repaired and
 whitewashed all the temples in the village. He erected a gold kalasha
 atop the kumAra shrine. He also covered the whole central image of
@@ -68,9 +72,10 @@ a physician were attached to the staff of the kumAra temple.
 The rampage of the army of Islam under the Bahmanid sultan Muhammad
 ravaged the temples of this region and appears to have desecrated the
 kumAra temple.  
-\-In 1553 CE the vijayanagaran governor devabhaktuni kondana reinstalled
+-In 1553 CE the vijayanagaran governor devabhaktuni kondana reinstalled
 the temple of kumAra.
 
 The great kumAra shrine of Chebrolu appears to have been built by the
 chAlukya king yuddhamalla. It no longer exists today. It appears to have
 been completely destroyed during the invasion of the Adilshahi army.
+

@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "April 15, 2021"
+date = "2021-04-15"
+upstream_url = "https://vriitrahan.wordpress.com/2021/04/15/april-poll/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2021/04/15/april-poll/).
+
 Do you have a positive opinion \[P\] or negative opinion \[N\] of the
 following?  
   

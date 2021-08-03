@@ -1,7 +1,11 @@
 +++
 title = "The heart of Anglospheric thought"
+date = "2007-10-21"
+upstream_url = "https://manasataramgini.wordpress.com/2007/10/21/the-heart-of-anglospheric-thought/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/10/21/the-heart-of-anglospheric-thought/).
+
 An [interesting recent
 article](http://www.city-journal.org/html/17_4_anglosphere.html) brought
 back certain memories which underlined so clearly the kernel of
@@ -37,10 +41,10 @@ His superior, O’Dwyer declared that he had done the right thing. The
 committee inquiring into the event largely exonerated him by describing
 his actions as “…an honest but mistaken conception of duty.” The House
 of Lords approved of his valiant actions in saving the British empire
-from another “mutiny”. The Britons raised a purse of \#26,000 and
+from another “mutiny”. The Britons raised a purse of #26,000 and
 presented it to Dyer on his return to England with sword in support of
 his valorous deeds of killing unarmed Hindus. A white American woman
-sent him \#100 hailing him as the protector of white women. Fast-forward
+sent him #100 hailing him as the protector of white women. Fast-forward
 to 1997, the mlechCha rAjan Phillip who was visiting Jallianwala Bagh
 looked a plaque there and commented that casualities listed there were
 inflated, and Dyer’s son with whom he had served in the English army had
@@ -95,3 +99,4 @@ Anglospheric view on Hindus is.
 From Jimmy Watson to the Anglospheric mafia ruling in the backyard they
 still insist in subtle and not so subtle ways that they are lords of the
 world. And we continue to buy into that…
+

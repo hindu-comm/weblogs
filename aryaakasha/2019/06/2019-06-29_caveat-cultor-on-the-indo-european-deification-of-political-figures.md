@@ -1,8 +1,11 @@
 +++
-title = "‘Caveat Cultor’ – On The (Indo-European) Deification Of Politicalxa0Figures"
-date = "June 29, 2019"
+title = "‘Caveat Cultor’ – On The (Indo-European) Deification Of Political Figures"
+date = "2019-06-29"
+upstream_url = "https://aryaakasha.com/2019/06/29/caveat-cultor-on-the-indo-european-deification-of-political-figures/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/06/29/caveat-cultor-on-the-indo-european-deification-of-political-figures/).
+
 
 
 ![gw-statue-greenough21](https://aryaakasha.files.wordpress.com/2019/06/gw-statue-greenough21.jpg?w=353&h=460)

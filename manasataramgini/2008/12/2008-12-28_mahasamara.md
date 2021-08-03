@@ -1,7 +1,11 @@
 +++
 title = "mahAsamara"
+date = "2008-12-28"
+upstream_url = "https://manasataramgini.wordpress.com/2008/12/28/mahasamara/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/12/28/mahasamara/).
+
 Update 4 (27-28th Dec): In course of our expedition, unexpectedly the
 prati-prayoga again destroyed our “shield of kArtavIrya”, but this time
 comprehensively. We then went into the hands of sleep, the dark maid. We
@@ -73,8 +77,8 @@ through the defenses and attacked us fiercely. We were unable to figure
 out how this kR^ityA broke through and that remains the weak link.  
 …  
 Dec(18th):  
-“yaM krandasI saMyatI vihvayete pare.avara ubhayA amitrAH |  
-samAnaM chid ratham AtasthivAMsA nAnA havete sa janAsa indraH ||”
+“yaM krandasI saMyatI vihvayete pare.avara ubhayA amitrAH \|  
+samAnaM chid ratham AtasthivAMsA nAnA havete sa janAsa indraH \|\|”
 
 It was literally like Conan Doyle’s legendary encounter staged at the
 Reichenbach falls. It was like the sUta-putra and the 3rd kaunteya on
@@ -97,3 +101,4 @@ the other vIra-s we have mentioned. Due to his aid we obtained the
 indra-shakti and pAshupatAstra for the final battle. The indrashakti was
 deployed but it was like the sUtapUtra striking ghaTotkacha. All is
 decided by the flow of kAla and it shall make its decision.
+

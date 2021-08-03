@@ -1,10 +1,14 @@
 +++
 title = "The 4 incarnations of gaNapati"
+date = "2004-09-19"
+upstream_url = "https://manasataramgini.wordpress.com/2004/09/19/the-4-incarnations-of-ganapati/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/09/19/the-4-incarnations-of-ganapati/).
+
 The gaNesha purANa has the 4 fold incarnations of gaNapati. They are:  
   
-1\) vinAyaka in the kR^itayuga. 3 demons dhUmrAkSha, narAntaka and
+1) vinAyaka in the kR^itayuga. 3 demons dhUmrAkSha, narAntaka and
 devAntaka assume great power and spread terror. So gaNapati is born of
 kAshyapa and his wife. He has a 10 handed form with lion vAhana and
 slays these asuras in a great battle at kAshi.  
@@ -35,4 +39,5 @@ these myths are associated with Maharashtra and Gujarat supporting a
 later regional character of this stream of the gANapatya sect. This is
 similar to the pattern observed in the populist kaumara sect in south.
 Also note the methodlogical parallels of Pauranic reworking in the
-kaumara tract “tamil skanda purANaM” and the G.P.
+kaumara tract “tamil skanda purANaM” and the G.P.  
+

@@ -1,8 +1,11 @@
 +++
 title = "Shiva and Cannabis/Bhang"
-date = "2019-03-02"
+date = "2019-02-03"
+upstream_url = "https://padmavajra.net/2019/03/02/shiva-and-cannabis-bhang/"
 
 +++
+Source: [here](https://padmavajra.net/2019/03/02/shiva-and-cannabis-bhang/).
+
 
 
 [Comment](https://www.reddit.com/r/hinduism/comments/9edzyp/shiva_hinduism_cannabis/e5rm3ix/)

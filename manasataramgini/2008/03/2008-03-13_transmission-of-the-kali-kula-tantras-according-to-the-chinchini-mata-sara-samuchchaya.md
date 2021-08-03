@@ -1,7 +1,11 @@
 +++
 title = "Transmission of the kAli kula tantras according to the chinchini-mata sAra samuchChaya"
+date = "2008-03-13"
+upstream_url = "https://manasataramgini.wordpress.com/2008/03/13/transmission-of-the-kali-kula-tantras-according-to-the-chinchini-mata-sara-samuchchaya/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/03/13/transmission-of-the-kali-kula-tantras-according-to-the-chinchini-mata-sara-samuchchaya/).
+
 There was a muni named shIlAchiti in the shivapITha of shrIshaila. His
 son was a siddha named vidyAnanda who looked like a shAbara tribesman.
 He lived in shmashAna-s and performed nightly vIrasAdhana by meditating
@@ -14,3 +18,4 @@ krama in bhAratavarSha.
 \* “This cave of gold” might be identified as either one of 3 caverns
 recognized today: dattAtreya cave, “Akkamahadevi” cave or umAmaheshvara
 cave.
+

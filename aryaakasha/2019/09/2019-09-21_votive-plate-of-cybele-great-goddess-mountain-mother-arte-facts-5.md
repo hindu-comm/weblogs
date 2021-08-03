@@ -1,8 +1,11 @@
 +++
-title = "Votive Plate of Cybele, Great Goddess, Mountain Mother – Arte-Factsxa0#5"
-date = "September 21, 2019"
+title = "Votive Plate of Cybele, Great Goddess, Mountain Mother – Arte-Facts #5"
+date = "2019-09-21"
+upstream_url = "https://aryaakasha.com/2019/09/21/votive-plate-of-cybele-great-goddess-mountain-mother-arte-facts-5/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/09/21/votive-plate-of-cybele-great-goddess-mountain-mother-arte-facts-5/).
+
 ![70439603_10162288630125574_7769451720836382720_n](https://aryaakasha.files.wordpress.com/2019/09/70439603_10162288630125574_7769451720836382720_n.jpg?w=676)
 
 This Is #GangSteppe – and also, fine Devi-otional (A)Art(I) for Friday !

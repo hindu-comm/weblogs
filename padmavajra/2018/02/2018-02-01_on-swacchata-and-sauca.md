@@ -1,8 +1,11 @@
 +++
-title = "On swacchata andxa0śauca"
-date = "2018-02-01"
+title = "On swacchata and śauca"
+date = "2018-01-02"
+upstream_url = "https://padmavajra.net/2018/02/01/on-swacchata-and-sauca/"
 
 +++
+Source: [here](https://padmavajra.net/2018/02/01/on-swacchata-and-sauca/).
+
 (Note:This is not against the Swacch Bharat program or against
 technologies for public sanitation,etc)
 

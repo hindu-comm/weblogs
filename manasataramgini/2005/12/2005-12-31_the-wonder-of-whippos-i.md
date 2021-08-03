@@ -1,7 +1,11 @@
 +++
 title = "The wonder of Whippos-I"
+date = "2005-12-31"
+upstream_url = "https://manasataramgini.wordpress.com/2005/12/31/the-wonder-of-whippos-i/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/12/31/the-wonder-of-whippos-i/).
+
 As we sat looking around the screen, in the warm interiors, debating
 about the actual nature of the pleasures in indra’s svarga eventhough we
 only had a fuzzy idea about them. Suddenly we were re-captured by old
@@ -89,3 +93,4 @@ speculate that this predatory state of the basal suinids was inherited
 from the ancestral artiodactyl of the suiform group. It is also quite
 likely that the whales retained this ancestral predatory state from this
 ancestor and initially radiated as aquatic predators.
+

@@ -1,7 +1,11 @@
 +++
 title = "nIlarudra sUkta (upaniShat)"
+date = "2009-03-16"
+upstream_url = "https://manasataramgini.wordpress.com/2009/03/16/nilarudra-sukta-upanishat/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/03/16/nilarudra-sukta-upanishat/).
+
 nIlarudra is part of the AV-paippalAda saMhitA (sUkta 3 of kANDa 14). It
 is also considered an upaniShad of the early pAshupata-s equivalent to
 the shvetAshvatara of the kR^iShNa yajurveda. In the now lost shrauta
@@ -72,3 +76,4 @@ pari te dhanvano hetir asmAn vR^iNaktu vishvataH .
 atho ya iShudhis tavAre asmin ni dhehi taM .. 16  
 yA te hetir mIDhuSTama haste babhUva te dhanuH .  
 tayA tvaM vishvato asmAn ayakShmayA pari bhuja .. 17
+

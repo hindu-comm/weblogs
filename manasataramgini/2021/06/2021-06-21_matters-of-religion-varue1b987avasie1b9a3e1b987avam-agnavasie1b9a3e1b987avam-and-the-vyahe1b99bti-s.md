@@ -1,8 +1,11 @@
 +++
-title = "Matters of religion: Varuṇāvasiṣṇavam, Agnāvasiṣṇavam and thexa0vyahṛti-s"
+title = "Matters of religion: Varuṇāvasiṣṇavam, Agnāvasiṣṇavam and the vyahṛti-s"
 date = "2021-06-21"
+upstream_url = "https://manasataramgini.wordpress.com/2021/06/21/matters-of-religion-varu%e1%b9%87avasi%e1%b9%a3%e1%b9%87avam-agnavasi%e1%b9%a3%e1%b9%87avam-and-the-vyah%e1%b9%9bti-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2021/06/21/matters-of-religion-varu%e1%b9%87avasi%e1%b9%a3%e1%b9%87avam-agnavasi%e1%b9%a3%e1%b9%87avam-and-the-vyah%e1%b9%9bti-s/).
+
 Like the clouds lifting after the monsoonal deluge to unveil the
 short-lived comforts of early autumn, the metaphorical pall over the
 nation cast by the [engineer’s

@@ -1,7 +1,11 @@
 +++
 title = "The Malhotran theory of U-turns"
+date = "2003-09-03"
+upstream_url = "https://manasataramgini.wordpress.com/2003/09/03/the-malhotran-theory-of-u-turns/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/09/03/the-malhotran-theory-of-u-turns/).
+
 Malhotra, proposed a theory that the Westerners or members of the
 Anglosphere, and its more extended fraternity, the Leukosphere,
 appropriate Hindu ideas through a process, which he terms the U-turn. We
@@ -63,3 +67,4 @@ the U-turns as a means of conformity.
 While Hindus made a attempt, their typical neglect of history prevented
 them from reading the wind correctly. So, now the tables have been
 turned on the Hindus and they are not sure how they could fight back.
+

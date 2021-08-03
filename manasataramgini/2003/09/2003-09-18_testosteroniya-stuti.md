@@ -1,7 +1,11 @@
 +++
 title = "Testosteroniya stuti"
+date = "2003-09-18"
+upstream_url = "https://manasataramgini.wordpress.com/2003/09/18/testosteroniya-stuti/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/09/18/testosteroniya-stuti/).
+
 Males get to enjoy this wonderful steroid. The poets of the long past
 days may have called it loosener of kAma’s shara-s. It creates
 mathematical prowess where none existed previously and quickens activity
@@ -23,3 +27,4 @@ me new wires which were not there.
 Beefy they were, as I was lean, but I left them stewing in their own
 blood.  
 May it keep us welling with might for long.
+

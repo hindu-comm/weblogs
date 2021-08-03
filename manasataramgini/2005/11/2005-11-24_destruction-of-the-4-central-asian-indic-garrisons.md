@@ -1,7 +1,11 @@
 +++
 title = "Destruction of the 4 central Asian Indic garrisons"
+date = "2005-11-24"
+upstream_url = "https://manasataramgini.wordpress.com/2005/11/24/destruction-of-the-4-central-asian-indic-garrisons/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/11/24/destruction-of-the-4-central-asian-indic-garrisons/).
+
 In 615 AD, the 3 Central Asian kingdoms of Kucha, Agni (later Qara
 Shahar) and Khotan were islands of the Indic civilization in the Tarim
 Basin. They were at the pinnacle of their power and prosperity and were
@@ -74,3 +78,4 @@ passed from the Indian cultural zone to the yoke of the Chinese. All
 traces of Indic civilization in this region were subsequently erased
 with the conquest of this region from the Chinese by the Tibetan hordes,
 followed by its conquest by the great Uighur Kha’khans of Mongolia.
+

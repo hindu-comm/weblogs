@@ -1,7 +1,11 @@
 +++
 title = "Islamism and the West"
+date = "2004-07-02"
+upstream_url = "https://manasataramgini.wordpress.com/2004/07/02/islamism-and-the-west/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/07/02/islamism-and-the-west/).
+
 One point to notice is that Islam, in part derives its modern strength
 from the West. The western commentators gleefully point out that Islam
 was defeated as a military force before the advent of the “modern era”
@@ -44,4 +48,5 @@ the mental lensing by Ibrahimiya is equally important.
 A prominent cleric, Sheik Saleh bin Abdullah al-Humaid, explained that
 “killing a soul without justification is one of the gravest sins under
 Islam; it is as bad as polytheism.”  
-Let Hindus be under no delusion\!
+Let Hindus be under no delusion!
+

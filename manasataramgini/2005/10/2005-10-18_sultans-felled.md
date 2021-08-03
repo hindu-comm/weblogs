@@ -1,12 +1,16 @@
 +++
 title = "Sultans felled"
+date = "2005-10-18"
+upstream_url = "https://manasataramgini.wordpress.com/2005/10/18/sultans-felled/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/10/18/sultans-felled/).
+
 A poet rAmarAja-bhuShaNa in the Vijayanagara court composed this
 generous account for the Moslem tyrants who met their end at
 kR^ishNadeva rAya’s hand:
 
-“O kR^iShNa rAya, the foremost of heroes\! Some proud and mighty Moslem
+“O kR^iShNa rAya, the foremost of heroes! Some proud and mighty Moslem
 kings killed by you in battle have arrived in svarga \[1\]. Here they
 caused the devas to smile in amusement by their salaaming and addressing
 bR^ihaspati as pIr, indra as suratrANa, and indrANi as bIbI.”
@@ -73,3 +77,4 @@ battle. However, as per all Islamic accounts a Hindu dispatched by the
 proselytizing sword of a Ghazi goes to a Hell where his burnt in a fire.
 That in itself displays the utter gulf between monotheistic violent
 Islamic thought and the generous pagan thought of the Hindus.
+

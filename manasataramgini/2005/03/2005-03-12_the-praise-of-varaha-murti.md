@@ -1,7 +1,11 @@
 +++
 title = "The praise of varAha mUrtI"
+date = "2005-03-12"
+upstream_url = "https://manasataramgini.wordpress.com/2005/03/12/the-praise-of-varaha-murti/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/03/12/the-praise-of-varaha-murti/).
+
 daMShTrAyAM vasudhA sashaila-nagarAraNyApagA huMkR^itau vAgIshI
 shasite.anilo ravi vidhU bAhvoshcha dakShAnyayoH /  
 The earth with its mountains, cities, forests and waterbodies are in his
@@ -17,3 +21,4 @@ heart is viShNu and in his mouth is shiva.
 This image is encountered on occasions in Hindu iconography with the
 gods constituting the body of the boar. A famous example is the
 Khajuraho varAha.
+

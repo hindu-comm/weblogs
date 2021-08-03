@@ -1,7 +1,11 @@
 +++
 title = "Society and biological constraints"
+date = "2010-04-07"
+upstream_url = "https://manasataramgini.wordpress.com/2010/04/07/society-and-biological-constraints/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/04/07/society-and-biological-constraints/).
+
 For long we have remained a sAkShI on the ethology of Homo sapiens. We
 have observed with how the man-made constructs interact with biology. We
 realized that constructs that conflict with strongly selected biological
@@ -67,3 +71,4 @@ also speculated that such an effect might have formerly acted in the
 South Indian brAhmaNa communities, especially those from the drAviDa
 regions and is having its serious consequences. Of course all of this
 needs more empirical investigation to test.
+

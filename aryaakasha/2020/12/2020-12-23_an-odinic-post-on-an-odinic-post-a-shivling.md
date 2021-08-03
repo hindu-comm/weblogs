@@ -1,8 +1,11 @@
 +++
-title = "An Odinic Post On An Odinic Post – Axa0ShivLing"
-date = "December 23, 2020"
+title = "An Odinic Post On An Odinic Post – A ShivLing"
+date = "2020-12-23"
+upstream_url = "https://aryaakasha.com/2020/12/23/an-odinic-post-on-an-odinic-post-a-shivling/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/12/23/an-odinic-post-on-an-odinic-post-a-shivling/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/12/ep6q6c7u8actnsc.png?w=526)
 
 It is Wednesday – Therefore Odinic Art Posting

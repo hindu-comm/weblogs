@@ -1,7 +1,13 @@
 +++
 title = "Three enigmatic vedic tales"
+date = "2007-02-11"
+upstream_url = "https://manasataramgini.wordpress.com/2007/02/11/three-enigmatic-vedic-tales/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/02/11/three-enigmatic-vedic-tales/).
+
+
+
 [![](https://i0.wp.com/bp3.blogger.com/_ZhvcTTaaD_4/RdAbBu8rbrI/AAAAAAAAADQ/tcBoYZm5q8c/s320/mythic_network.jpg)](http://bp3.blogger.com/_ZhvcTTaaD_4/RdAbBu8rbrI/AAAAAAAAADQ/tcBoYZm5q8c/s1600-h/mythic_network.jpg)
 
 The yaj\~na went away from the devas in the form of viShNu, and entered
@@ -59,3 +65,4 @@ yaj\~na?” They said: “On all sides he is enclosed by the Chandas, with
 agni to the east, there is no escaping: search for him in this very
 place.” By digging shallow they accordingly searched for him. They
 discovered him at a depth ofthree thumb-lengths below \[the ground\].
+

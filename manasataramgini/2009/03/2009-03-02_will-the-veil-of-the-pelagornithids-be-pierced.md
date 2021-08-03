@@ -1,7 +1,11 @@
 +++
 title = "Will the veil of the pelagornithids be pierced?"
+date = "2009-03-02"
+upstream_url = "https://manasataramgini.wordpress.com/2009/03/02/will-the-veil-of-the-pelagornithids-be-pierced/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/03/02/will-the-veil-of-the-pelagornithids-be-pierced/).
+
 [![pelagornithid](https://i1.wp.com/farm4.static.flickr.com/3590/3325302488_bfbe023afd.jpg)](http://www.flickr.com/photos/24766652@N05/3325302488/ "pelagornithid by somasushma, on Flickr")
 
 I had read of the pelagornithids long ago but never really thought too
@@ -104,3 +108,4 @@ the Neogene they are restricted to only the large end of the spectrum.
 Could it be that this represents the interval in which the albatross
 clade emerged and eventually replaced the pelagornithids in their lower
 size range?
+

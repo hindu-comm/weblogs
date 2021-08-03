@@ -1,7 +1,11 @@
 +++
 title = "A killer sperm whale"
+date = "2010-07-01"
+upstream_url = "https://manasataramgini.wordpress.com/2010/07/01/a-killer-sperm-whale/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/07/01/a-killer-sperm-whale/).
+
 [![](https://i0.wp.com/lh4.ggpht.com/_hjuA1bE0hBw/TDGAv8o7N8I/AAAAAAAABgc/qr97ls86PVE/s800/leviathan.jpg)](http://picasaweb.google.com/lh/photo/47q0PBOVQYA83-aDRhEdEQ?feat=embedwebsite)*A
 reconstruction of Leviathan by the artist C. Letenneur*
 
@@ -217,3 +221,4 @@ time I hear that the generic name Leviathan was previously used as
 synonym for the Mammut and so the ICZN taxomaniacs rule that it is
 invalid – can we expect anything better from the guys who voted to let
 Drosophila melanogaster have its name changed?
+

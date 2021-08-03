@@ -1,8 +1,11 @@
 +++
-title = "Hittite Ritual Axe; Indo-European Symbolicxa0Explication"
-date = "July 19, 2019"
+title = "Hittite Ritual Axe; Indo-European Symbolic Explication"
+date = "2019-07-19"
+upstream_url = "https://aryaakasha.com/2019/07/19/hittite-ritual-axe-indo-european-symbolic-explication/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/07/19/hittite-ritual-axe-indo-european-symbolic-explication/).
+
 
 
 ![Hittite Ritual

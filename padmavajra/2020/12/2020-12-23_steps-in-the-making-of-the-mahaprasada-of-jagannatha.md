@@ -1,8 +1,11 @@
 +++
-title = "Steps in the making of the mahāprasāda ofxa0Jagannātha"
+title = "Steps in the making of the mahāprasāda of Jagannātha"
 date = "2020-12-23"
+upstream_url = "https://padmavajra.net/2020/12/23/steps-in-the-making-of-the-mahaprasada-of-jagannatha/"
 
 +++
+Source: [here](https://padmavajra.net/2020/12/23/steps-in-the-making-of-the-mahaprasada-of-jagannatha/).
+
 1.  After ācamana,pādya and ācamana again,the naivedya is ritually
     purified before it can be offered to Śrīpuruṣottama. For the
     offering to Puruśottama only a small portion of the bhoga is taken

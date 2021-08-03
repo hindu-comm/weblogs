@@ -1,7 +1,11 @@
 +++
 title = "Battles raging on many fronts"
+date = "2007-08-12"
+upstream_url = "https://manasataramgini.wordpress.com/2007/08/12/battles-raging-on-many-fronts/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/08/12/battles-raging-on-many-fronts/).
+
 On the front of jIva-sUtra parama padAratha we had faced a terrible
 defeat due to the mechanisms of our current bhrAtR^ivya and old sudAnu.
 However, our romAka allies gave us a chance to strike through the gap.
@@ -41,3 +45,4 @@ being borne to vaivasvata. But then the counter-prayoga brought him
 back. Our sachiva and the amAtya of the third hero then combined to save
 the victim from destruction. But for the dUra-dR^iShTi prayoga he could
 have been history by now.
+

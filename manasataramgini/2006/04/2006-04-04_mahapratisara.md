@@ -1,7 +1,13 @@
 +++
 title = "mahApratisarA"
+date = "2006-04-04"
+upstream_url = "https://manasataramgini.wordpress.com/2006/04/04/mahapratisara/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/04/04/mahapratisara/).
+
+
+
 [![](https://i0.wp.com/photos1.blogger.com/blogger/2010/410/320/mahapratisarA_frame.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/mahapratisarA_frame.jpg)
 
 The emanation of pratya\~NgirA who may be specifically combined with
@@ -15,29 +21,30 @@ mahApratisarA prayoga vidhi
 He shall first worship vinAyaka meditating on him embracing his shaktI
 madanAvatI
 
-oM sarva vighnAnutsAraya huM phaT svAhA ||
+oM sarva vighnAnutsAraya huM phaT svAhA \|\|
 
 He shall take water in his water pot with:
 
-oM vajrodake huM phaT ||
+oM vajrodake huM phaT \|\|
 
 He shall wash his feet with the formula:
 
-oM hrIM svAhA ||
+oM hrIM svAhA \|\|
 
 He shall sip water (Achamana X 3) with:
 
 oM hrIM suvishuddhadharma sarvapApAni shAmyAsheSha vikalpAnapanaya svAhA
-||
+\|\|
 
 He shall knot a strand of hair with the formula:
 
-oM manidhari vajriNi shikhariNi sarva vashamkariNi kaM huM phaT svAhA ||
+oM manidhari vajriNi shikhariNi sarva vashamkariNi kaM huM phaT svAhA
+\|\|
 
 He shall sprinkle water in the ritual area with hand or using a tuft of
 darbha grass with the formula:
 
-oM rakSha rakSha hUM phaT svAhA ||
+oM rakSha rakSha hUM phaT svAhA \|\|
 
 \[If he is not doing this immediately after a bath he should necessarily
 do the pApa puruShavidhi\]
@@ -81,7 +88,7 @@ Once the yantra is ready the yoni mudra will be shown before it.
 
 Then arghya is offered 3X with:
 
-hrIM maNidhari vajriNi mahApratisare idaM arghyaM svAhA ||
+hrIM maNidhari vajriNi mahApratisare idaM arghyaM svAhA \|\|
 
 He shall meditate upon mahApratisarA emerging from the third eye of
 pratya\~NgirA. She will be mediated as having 4 heads with the front
@@ -122,21 +129,22 @@ following deities):
 
 oM vajrA\~Nkushyai namaH
 
-oM vajrapAshyai namaH 
+oM vajrapAshyai namaH
 
-oM vajrasphoTyai namaH  
+oM vajrasphoTyai namaH
 
 oM vajraveshyai namaH
 
 Then the yantra is tied up with the yellow twine with the formula:
 
-oM maNidhari vajriNi mahApratisare rakSha rakSha hUM phaT svAhA ||
+oM maNidhari vajriNi mahApratisare rakSha rakSha hUM phaT svAhA \|\|
 
 Then japa is done with the mantra (she may alternatively be mediated as
 vajra pa\~njara bhAsitA mahApratisarA with two hands holding a chakra
 and khaDga and just one head):
 
-oM maNidhari vajriNi mahApratisare huM huM phaT phaT svAhA ||
+oM maNidhari vajriNi mahApratisare huM huM phaT phaT svAhA \|\|
 
 The same formula is inserted into the terminal part of the pratya\~ngirA
 rite with several oblations made into the fire of ghee, oil or tila.
+

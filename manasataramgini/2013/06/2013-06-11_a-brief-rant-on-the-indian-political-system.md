@@ -1,7 +1,11 @@
 +++
 title = "A brief rant on the Indian political system"
+date = "2013-06-11"
+upstream_url = "https://manasataramgini.wordpress.com/2013/06/11/a-brief-rant-on-the-indian-political-system/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/06/11/a-brief-rant-on-the-indian-political-system/).
+
 The coming elections in the secular, socialist, democratic republic of
 India certainly seem to be a rather important fork in the road. A member
 of the clan mentioned that an exuberant Hindu politician had declared
@@ -46,7 +50,7 @@ The Hindu imitation of the English democratic system, by turning its
 back on the collective wisdom of manu, yAj\~nvalkya, bhIShma,
 viShNugupta and a host of others resulted in a fundamental
 misunderstanding of numerous issues:  
-1\) Democracy works best in relatively uniform populations with the same
+1) Democracy works best in relatively uniform populations with the same
 basic cultural bonds. It will start having problems as soon as diversity
 is introduced in the form of groups that are held by fundamentally
 different bonds from that of the majority. Experiments establishing this
@@ -83,3 +87,4 @@ survive if it shelves any notions of secularity and reinforces its
 identity through the performance of grand national rituals of the type
 of the rAjasUya, vAjapeya and ashvamedha or the tAntrika temple rituals
 that bring together all sections of the society.
+

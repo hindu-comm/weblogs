@@ -1,8 +1,11 @@
 +++
-title = "Glorious Modern Hindu Art Of Devi As Flame-Speaker Of The Universe’s Inception And Unfurlingxa0Course"
-date = "April 30, 2021"
+title = "Glorious Modern Hindu Art Of Devi As Flame-Speaker Of The Universe’s Inception And Unfurling Course"
+date = "2021-04-30"
+upstream_url = "https://aryaakasha.com/2021/04/30/glorious-modern-hindu-art-of-devi-as-flame-speaker-of-the-universes-inception-and-unfurling-course/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/04/30/glorious-modern-hindu-art-of-devi-as-flame-speaker-of-the-universes-inception-and-unfurling-course/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/04/devi-fire-mouth.jpg?w=699)
 
 It is Friday – Devi’s Day – And so therefore, Devi-otional (A)Art(i)

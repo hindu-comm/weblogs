@@ -1,7 +1,11 @@
 +++
 title = "Some words on mathematical truth, scientific conviction and the sociology of science"
+date = "2018-05-28"
+upstream_url = "https://manasataramgini.wordpress.com/2018/05/28/some-words-on-mathematical-truth-scientific-conviction-and-the-sociology-of-science/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2018/05/28/some-words-on-mathematical-truth-scientific-conviction-and-the-sociology-of-science/).
+
 Sometime in the bronze age more than one group of humans, including our
 own Aryan ancestors, discovered that the squares of the two legs of a
 right triangle sum up to the square of the hypotenuse. This is the famed
@@ -36,12 +40,11 @@ underlying mathematical theorem, there is no such truth in science as
 there is in mathematics. Instead, there are only falsifications and
 attempted falsifications. A scientific statement which survives all
 subsequent falsification attempts may be considered a scientific
-“truth”. More correctly, it may be considered a scientific
-conviction because, for the most part, it is established in a way quite
-different from the mathematical truth arrived at by the device of a
-proof.
+“truth”. More correctly, it may be considered a scientific conviction
+because, for the most part, it is established in a way quite different
+from the mathematical truth arrived at by the device of a proof.
 
-[![Donkey](https://manasataramgini.files.wordpress.com/2018/05/donkey.png?w=640)](http://)  
+[![Donkey](https://manasataramgini.files.wordpress.com/2018/05/donkey.png?w=640)](https://manasataramgini.files.wordpress.com/2018/05/donkey.png)  
 Figure 1
 
 Yet, there is a basic similarity of a key process used in both
@@ -64,9 +67,9 @@ supporting empirical observations. This is quite contrary to
 mathematical proof. A large body of empirical observations supported
 Fermat’s last theorem, which was then finally proved. All observations
 within our current reach support the hunch that the logarithmic integral
-![\\textrm{Li}(x)\>
-\\pi(x)](https://s0.wp.com/latex.php?latex=%5Ctextrm%7BLi%7D%28x%29%3E+%5Cpi%28x%29&bg=ffffff&fg=333333&s=0
-"\\textrm{Li}(x)\> \\pi(x)") but [Littlewood proved it to be
+![\\textrm{Li}(x)>
+\\pi(x)](https://s0.wp.com/latex.php?latex=%5Ctextrm%7BLi%7D%28x%29%3E+%5Cpi%28x%29&bg=ffffff&fg=333333&s=0&c=20201002)
+but [Littlewood proved it to be
 false](https://manasataramgini.wordpress.com/2018/02/12/counting-primes-arithmetic-functions-ramanujan-and-the-like/).
 Similarly, the [Mertens
 conjecture](https://manasataramgini.wordpress.com/2018/02/03/our-auto-discovery-of-the-mobius-and-mertens-sequences/)
@@ -74,15 +77,15 @@ regarding the value assumed by the Mertens function has been proven to
 be false but no current empirical observation has reached the point
 where it is really false. Thus, mathematical truth is very different
 from scientific conviction – a corresponding body of observations as
-those ‘testing’ the ![\\textrm{Li}(x)\>
-\\pi(x)](https://s0.wp.com/latex.php?latex=%5Ctextrm%7BLi%7D%28x%29%3E+%5Cpi%28x%29&bg=ffffff&fg=333333&s=0
-"\\textrm{Li}(x)\> \\pi(x)") or Mertens conjectures would have made for
-a strong scientific hypothesis yet that body contributed nothing to the
-truth of the respective mathematical statements. In this regard it might
-be pointed out that the mathematicians tend to term their hunches or
-even well-tested but unproven convictions as conjectures. Some of these
-which are supported by a large body of downstream evidence but still
-remain unproven are dignified by the term ‘hypothesis’, e.g. the Riemann
+those ‘testing’ the ![\\textrm{Li}(x)>
+\\pi(x)](https://s0.wp.com/latex.php?latex=%5Ctextrm%7BLi%7D%28x%29%3E+%5Cpi%28x%29&bg=ffffff&fg=333333&s=0&c=20201002)
+or Mertens conjectures would have made for a strong scientific
+hypothesis yet that body contributed nothing to the truth of the
+respective mathematical statements. In this regard it might be pointed
+out that the mathematicians tend to term their hunches or even
+well-tested but unproven convictions as conjectures. Some of these which
+are supported by a large body of downstream evidence but still remain
+unproven are dignified by the term ‘hypothesis’, e.g. the Riemann
 hypothesis regarding the connection between the Zeta function and the
 prime numbers. Finally, it should be stated that even when scientific
 conviction is established upon successful hypothesis-testing, underlying
@@ -121,28 +124,28 @@ compound. How do you “prove” the formation of this compound word from
 the constitutive root words mahat and uras. Following Pāṇini you get the
 below proof.
 
-mahat\~su+uras\~su-\> mahat\~su+uras\~su+ka\~p-\>
-mahat+uras+ka-(ānmahataḥ…)-\> mahā+uras+ka-\> mahoraskaḥ |
+mahat\~su+uras\~su-> mahat\~su+uras\~su+ka\~p->
+mahat+uras+ka-(ānmahataḥ…)-> mahā+uras+ka-> mahoraskaḥ \|
 
 Here,’\~su’ is a Pāṇinian meta-element, much like the construction of
 the circle in the above proof of the Donkey’s theorem. It is indicated
-by Pāṇini’s sūtra: anekam-anya-padārthe | (2.2.24). Likewise, the ending
-is specified by a samāsānta-sūtra. In this case the uras\~su triggers
-the samāsānta-sūtra: uraḥ prabhṛtibhyaḥ kap | (5.4.151), which brings in
-the ending and the meta-element ‘+ka\~p’ for the ending. Once that has
-been docked to the terminal one applies the sūtra concerning the
-meta-elements: supo dhātu-prātipadikayoḥ | (2.4.71), which directs the
-deletion of the meta-elements. This then triggers a transformation of
-one or both of the combined elements by a samāsāśrayavidhiḥ. In this
-case, it is: ān-mahataḥ samānādhikaraṇa-jātīyayoḥ | (6.3.46) which
+by Pāṇini’s sūtra: anekam-anya-padārthe \| (2.2.24). Likewise, the
+ending is specified by a samāsānta-sūtra. In this case the uras\~su
+triggers the samāsānta-sūtra: uraḥ prabhṛtibhyaḥ kap \| (5.4.151), which
+brings in the ending and the meta-element ‘+ka\~p’ for the ending. Once
+that has been docked to the terminal one applies the sūtra concerning
+the meta-elements: supo dhātu-prātipadikayoḥ \| (2.4.71), which directs
+the deletion of the meta-elements. This then triggers a transformation
+of one or both of the combined elements by a samāsāśrayavidhiḥ. In this
+case, it is: ān-mahataḥ samānādhikaraṇa-jātīyayoḥ \| (6.3.46) which
 causes a transformation of the mahat to mahā. Then it triggers the
-sandhi-sūtra-s, which in this case are akaḥ savarṇe dīrghaḥ | (6.1.101)
-and ādguṇaḥ | (6.1.87) which finally result in mahoraskaḥ (Footnote 1)
+sandhi-sūtra-s, which in this case are akaḥ savarṇe dīrghaḥ \| (6.1.101)
+and ādguṇaḥ \| (6.1.87) which finally result in mahoraskaḥ (Footnote 1)
 
 Thus, this system provides a means of “proving” the formation of a
 compound as per the Pāṇinian axioms.
 
-While, as we saw above,  there is a distinction between scientific
+While, as we saw above,there is a distinction between scientific
 conviction and mathematical proof, the “hidden hand” of geometry
 underlies the establishment of a scientific conviction. In physics this
 is actually not so hidden – it might be directly operating via the
@@ -249,7 +252,7 @@ brāhmaṇa’s ethic is needed for such pursuits and that the brāhmaṇa
 should keep a low-profile staying away from this business of feasting on
 adulation.
 
------
+------------------------------------------------------------------------
 
 Footnote 1: This example was taken from a learned paṇḍitā Sowmya
 Krishnapur’s lecture on the bahuvṛīhi compound.

@@ -1,10 +1,14 @@
 +++
 title = "tigma-shR^i~Ngin"
+date = "2008-07-21"
+upstream_url = "https://manasataramgini.wordpress.com/2008/07/21/tigma-shringin/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/07/21/tigma-shringin/).
+
 *yas tigma-shR^iN^go vR^iShabho na bhIma ekaH kR^iShTIsh-chyAvayati pra
-vishvAH |  
-yaH shashvato adAshuSho gayasya prayantAsi suShvitarAya vedaH || RV
+vishvAH \|  
+yaH shashvato adAshuSho gayasya prayantAsi suShvitarAya vedaH \|\| RV
 7.19.1*
 
 [![](https://i1.wp.com/farm4.static.flickr.com/3146/2684503352_e486087c91_o.jpg)](http://farm4.static.flickr.com/3146/2684503352_e486087c91_o.jpg)
@@ -13,8 +17,8 @@ In our youth we were reading an ACK comic on kumbhakarNa, which had a
 memorable cover of the great rakShas wearing a horned head-gear slaying
 brAhmaNas in the daNDaka vana. But at the same time in the background of
 my mind a R^igvedic mantra I had just learnt was playing:  
-“vi jyotiShA bR^ihatA bhAty agnir Avir vishvAni kR^iNute mahitvA |  
-prAdevIr mAyAH sahate durevAH shishIte shR^iN^ge rakShase vinikShe ||”
+“vi jyotiShA bR^ihatA bhAty agnir Avir vishvAni kR^iNute mahitvA \|  
+prAdevIr mAyAH sahate durevAH shishIte shR^iN^ge rakShase vinikShe \|\|”
 RV 5.2.9
 
 The paradox prompted me to investigate and over time I realized that
@@ -72,3 +76,4 @@ It was in this context that I decided to revisit the R^igvedic imagery
 of horned deities.
 
 continued…
+

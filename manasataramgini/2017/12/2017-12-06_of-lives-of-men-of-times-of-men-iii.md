@@ -1,9 +1,13 @@
 +++
 title = "Of lives of men; of times of men-III"
+date = "2017-12-06"
+upstream_url = "https://manasataramgini.wordpress.com/2017/12/06/of-lives-of-men-of-times-of-men-iii/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2017/12/06/of-lives-of-men-of-times-of-men-iii/).
+
 [Of lives of men; of times
-of men-II](https://manasataramgini.wordpress.com/2017/11/12/of-lives-of-men-of-times-of-men-ii/)
+ofmen-II](https://manasataramgini.wordpress.com/2017/11/12/of-lives-of-men-of-times-of-men-ii/)
 
 As they were talking, they saw a sallow-complexioned youth pass by them
 some distance away carrying a bat on his shoulder. Vidrum waved out to
@@ -13,7 +17,7 @@ Lootika: “Who is he?”
 Sharvamanyu: “He’s our old schoolmate Mudgar.”  
 Vidrum: “You don’t remember him? He was the cricket champ.”  
 Lootika: “As you guys I know I never cared for that most bizarre of
-games\! I believe my parents rightly advised me and my sisters to stay
+games! I believe my parents rightly advised me and my sisters to stay
 far away from guys who fritter away all their time at the
 kandūka-krīḍā.”  
 Sh: “Hey, but I know Somakhya is quite a fan.”  
@@ -31,7 +35,7 @@ So: “Famous?”
 Sh: “He apparently smashes big sixes in one of the lesser leagues and is
 slated to make it to the Indian league this summer to play alongside the
 stars.”  
-So: “Ah\! the gods have been favorable to him.”
+So: “Ah! the gods have been favorable to him.”
 
 Sh: “That’s indeed true. His father was a noted player for the first
 division in his days. He hoped in his time that some day he might be
@@ -128,9 +132,9 @@ an aspiration for the central mass of society. It is also notable that
 other than the boxer/fighter, which are outlets for the natural and
 ancestral male aggression, none of the many other sports of the ancients
 were seen as avenues for professional pursuit.”  
-Sh: “Ha\! Vidrum you may recall our classmate Manjukeshi’s vehement
-calls for the complete ban on violent sports such as boxing. I wonder
-what she might think of Lootika’s words.”  
+Sh: “Ha! Vidrum you may recall our classmate Manjukeshi’s vehement calls
+for the complete ban on violent sports such as boxing. I wonder what she
+might think of Lootika’s words.”  
 Vidrum: “She would have termed it biological essentialism. I might have
 leaned towards such things in the past when spending lot of time with
 her and Samikaran but I think I am coming around more and more to see
@@ -258,7 +262,7 @@ involve various other specialized sub-groups. When the Marāthā-s
 transformed into a Kriegstaat, that seems to have drawn people away from
 these specialized guilds. That is where the English won. They could
 still maintain a large body of seemingly ‘useless’ knowledge-producers,
-like a Darwin and a Maxwell, for each of whom there were lesser
+like a Darwin and a Maxwell, foreach of whom there were lesser
 tinkerers who could ultimately supply key technological innovations to
 the system that kept edge on the English war-machine. The success of
 this type of specialization in nature is simply evident in the world
@@ -296,3 +300,4 @@ under the assault of modernity we are seeing all these resentments
 bubble back. Hence, if at all we are going to find some means of
 mitigating it we need understand the force of these natural
 distributions rather than deny them. ”
+

@@ -1,7 +1,11 @@
 +++
 title = "The latest Jihad"
+date = "2005-10-31"
+upstream_url = "https://manasataramgini.wordpress.com/2005/10/31/the-latest-jihad/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/10/31/the-latest-jihad/).
+
 We were having a chat with R and her aunt about the recent attacks on
 the Indian capital. Are the Hindus going react at least now asked her
 aunt. I opined it was unlikely. In the past the west used to ask the
@@ -37,3 +41,4 @@ ardor, the one with which they fought the Moslem and Christian predators
 of India in the past. This is evident from the fact that the
 undiscerning Hindus have elected to power an Italian Christian ruler for
 the country (working via her secular Sikh stooge).
+

@@ -1,7 +1,11 @@
 +++
 title = "Eunotosaurus, Pappochelys and the crisis in reptilian phylogeny"
+date = "2015-09-27"
+upstream_url = "https://manasataramgini.wordpress.com/2015/09/27/eunotosaurus-pappochelys-and-the-crisis-in-reptilian-phylogeny/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/09/27/eunotosaurus-pappochelys-and-the-crisis-in-reptilian-phylogeny/).
+
 [![](https://lh3.googleusercontent.com/-pKtv_NX5jMU/VgeBztnle5I/AAAAAAAADYE/L4Ow2QvSHBE/s800-Ic42/eunotosaurus1.jpg)](https://picasaweb.google.com/lh/photo/S2ysojDwCWL4R21rd4vj2tMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
 *From: Evolutionary origin of the turtle skull G. S. Bever, Tyler R.
@@ -322,3 +326,4 @@ merely converged to a diapsid state with convergent turtle-like
 features. Thus it is poised to be of considerable significance for
 dating the split between the line leading to lizards and that leading to
 birds.
+

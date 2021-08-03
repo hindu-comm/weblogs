@@ -1,8 +1,11 @@
 +++
-title = "A Brief Note On Tvastr Asxa0Dyaus"
-date = "April 2, 2021"
+title = "A Brief Note On Tvastr As Dyaus"
+date = "2021-04-02"
+upstream_url = "https://aryaakasha.com/2021/04/02/a-brief-note-on-tvastr-as-dyaus/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/04/02/a-brief-note-on-tvastr-as-dyaus/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/04/visvakarma4.jpg?w=600)
 
 We had a question to the page about why I’d placed Dyaus and Tvastr in

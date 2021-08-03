@@ -1,7 +1,11 @@
 +++
 title = "Basal theropod phylogeny"
+date = "2007-10-06"
+upstream_url = "https://manasataramgini.wordpress.com/2007/10/06/basal-theropod-phylogeny/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/10/06/basal-theropod-phylogeny/).
+
 The base of the theropod tree has been shaky despite major advances in
 understanding avian origins and the evolution of coelurosaurs. A part of
 the problem has been the poor Triassic and early Jurassic record of the
@@ -25,15 +29,16 @@ theropods.
 – The basal-most theropod clade is a coelophysoid clade comprised of
 forms like Liliensternus, Coelophysis, Syntarsus and Segisaurus.  
 –Zupaysaurus is a sister group of all other remain theropod groups.  
-\-Of the remaining theropods the basal-most clade is the dilophosaurid
+-Of the remaining theropods the basal-most clade is the dilophosaurid
 clade formed by Dilophosaurus, Dracovenator, Cryolophosaurus, and
 “Dilophosaurus” sinensis from the Lufeng formation.  
-\-The next clade which forms a sister group of the tetanurans is the
+-The next clade which forms a sister group of the tetanurans is the
 neoceratosaurid clade which includes within it Ceratosaurus,
 Elaphrosaurus and the abelisauroids.  
-\-The basal-most tetanuran clade unifies the two south American forms
+-The basal-most tetanuran clade unifies the two south American forms
 Condorraptor and Piatnitzkysaurus.  
-\-The major clades within tetanurae are: spinosauroids (including
+-The major clades within tetanurae are: spinosauroids (including
 spinosaurids proper and Eustreptospondylus, Torvosaurus and
 Afrovenator); allosauroids (including sinraptorids, carcharodontosaurids
 and Megaraptor, which emerges as a carcharodontosaurid); coelurosauria.
+

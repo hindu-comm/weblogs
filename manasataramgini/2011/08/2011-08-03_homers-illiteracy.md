@@ -1,7 +1,11 @@
 +++
 title = "Homer’s illiteracy"
+date = "2011-08-03"
+upstream_url = "https://manasataramgini.wordpress.com/2011/08/03/homers-illiteracy/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/08/03/homers-illiteracy/).
+
 The paleo-Abrahamistic politician and general Yosef ben Matityahu, only
 second to Yeshua ben Yosef in the foundation of Western thought, in his
 attack on the Greek polemicist Apion, wrote around 75 CE:
@@ -26,21 +30,21 @@ came to the conclusion that the Homeric Greeks knew no writing. He
 mentions several points that are identical to the arguments made by
 indologists regarding the illiteracy of the Hindus of the veda-s and the
 epics:  
-1\) The absence of words for books, writing, reading, and letters. 2) An
+1) The absence of words for books, writing, reading, and letters. 2) An
 emphasis on the goddesses of memory but no deity or significance for
 writing. 3) No mention of money or monuments with inscriptions.  
 These arguments by Wolf dominated the field of Greek studies ever since
-– of course, there is the famous issue of the Bellerophon tablet, but
-it has been variously argued away or dismissed even as rukmiNI’s letter
-to kR^iShNa in the Indic situation. However, it has been pointed out
-that even in this case the traditional Greek word for writing (grammata)
-has not been used \[Footnote 1\]. Further studies on Homeric poetry,
-such as the “meter-filler motifs”, have established beyond much doubt
-that they were part of an oral tradition that did not use any writing
-for its composition, much like the bhArata or the rAmAyaNa. Now, given
-the linguistic, structural and motif similarities between the Indo-Aryan
-and Greek epics, one would easily extrapolate that the common ancestor
-of the Greek and the Hindu knew no writing at all. It would imply that
+– of course, there is the famous issue of the Bellerophon tablet, but it
+has been variously argued away or dismissed even as rukmiNI’s letter to
+kR^iShNa in the Indic situation. However, it has been pointed out that
+even in this case the traditional Greek word for writing (grammata) has
+not been used \[Footnote 1\]. Further studies on Homeric poetry, such as
+the “meter-filler motifs”, have established beyond much doubt that they
+were part of an oral tradition that did not use any writing for its
+composition, much like the bhArata or the rAmAyaNa. Now, given the
+linguistic, structural and motif similarities between the Indo-Aryan and
+Greek epics, one would easily extrapolate that the common ancestor of
+the Greek and the Hindu knew no writing at all. It would imply that
 since their branching off down through the Homeric period the Greeks did
 not know any writing what so ever. This would indeed be the best
 explanation if we did not have any other data.
@@ -162,14 +166,14 @@ movements of these Indo-Europeans but merely one of the later waves.
 When these considerations are taken together with Homer’s illiteracy we
 have some important “lessons of analogy” for the situation in India.
 Consider the following:  
-1\) In both India and Greece the largest bodies of their ancient texts
+1) In both India and Greece the largest bodies of their ancient texts
 are products of oral tradition.  
-2\) In both India and Greece the knowledge of writing was lost or
-greatly declined for a considerable period after the initial appearance
-of writing (Indus and Linear B graffiti) and was subsequently regained
+2) In both India and Greece the knowledge of writing was lost or greatly
+declined for a considerable period after the initial appearance of
+writing (Indus and Linear B graffiti) and was subsequently regained
 using completely different scripts (Classical Greek alphabet and the
 brAhmI script).  
-3\) In both India and Greece the initial writing was highly abbreviated
+3) In both India and Greece the initial writing was highly abbreviated
 (Indus) or limited in its expression of issues (Linear B). Linear B
 texts are rather boring commercial and administrative fragments compared
 to the later oral literature – while there are few names of deities and
@@ -177,11 +181,11 @@ sketchy mentions of ritual actions, they can hardly be compared to
 Homeric material. Likewise, the surviving Indus graffiti is a little too
 short to contain any intrinsically interesting texts. So the initial
 writing in both places was not a substitute for their oral traditions.  
-4\) In both places, the Indo-European speakers were an invasive group
+4) In both places, the Indo-European speakers were an invasive group
 coming from the steppes, but in terms of the pure archaeological record
 (not textual) there was little to distinguish their settling from the
 preexisting archeological cultures.  
-5\) In both places, there was a loss of the initial urbanization
+5) In both places, there was a loss of the initial urbanization
 associated with the widespread use of writing and secondary
 re-acquisition of writing happened sometime after the second
 re-urbanization.
@@ -245,7 +249,7 @@ the Mycenaean collapse. Now there are two other points of interest: 1)
 It is believed that the events in the Mycenaean period (when writing
 existed) provided the historical foundations of the Greek epics. In
 support of this it is argued that the Hittite town of Wilusa corresponds
-to Wilion\>Ilion, a name of Troy. The Hittite texts mention a certain
+to Wilion>Ilion, a name of Troy. The Hittite texts mention a certain
 Wilusa episode involving hostility by the Ahhiyawa. This has generally
 been interpreted as the invasion of Troy by the Achaeans (=Ahhiyawa). An
 Ahhiyawa invader is also named as the Attarisiya which has been
@@ -301,3 +305,4 @@ West Asia, though we cannot rule out a later interpolation.
 Nevertheless. it is interesting to note that the Greek and Indo-Aryan
 epic traditions acknowledge each others presence as minor participants
 in their respective great wars.
+

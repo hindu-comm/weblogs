@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "April 24, 2021"
+date = "2021-04-24"
+upstream_url = "https://vriitrahan.wordpress.com/2021/04/24/mayurashringara-rasa/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2021/04/24/mayurashringara-rasa/).
+
 `एषा का भुक्तमुक्ता प्रचलितनयना स्वेदलग्नांगवस्त्राप्रत्यूषे याति बाला मृग इव चकिता सर्वतः शंकयन्तीकेनेदं वक्त्रपद्मं स्फुरदधररसम् षट्पदेनाइव पीतंस्वर्गः केन अद्य भुक्तो हरनयनहतो मन्मथः कस्य तुष्टः`
 
 _(eSha = this; kA = who; bhukta-muktA = a woman enjoyed and let go; prachalita-naynA = wandering eye; sveda-lagna-a\~Nga-vastrA = clothes clung with sweat to her limbs; pratyUShe = at dawn; yAti = goes; bAlA mR^iga iva = girl like a deer; chakitA = scared; sarvataH = from all sides; shaMkayantI = she being doubtful; kena = by whom \[man\]; idam = this; vaktrapadmam = face of a lotus; sphurad-adhara-rasam = throbbing nectar of her lower lip; ShaTapadena = by a bee \[lover\]; iva pItam = as if drunk; svargaH = heaven; kena – by whom; adya = today; bhukto = has been enjoyed; hara-nayana-hato = slain by shiva’s eye; manmathaH = God of Love \[Kama, Lover\]; kasya tuShTaH = satisfied with whom)  

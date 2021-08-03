@@ -1,7 +1,11 @@
 +++
 title = "sundaranAtha (tirumUlar)’s lineage"
+date = "2006-08-25"
+upstream_url = "https://manasataramgini.wordpress.com/2006/08/25/sundaranatha-tirumulars-lineage/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/08/25/sundaranatha-tirumulars-lineage/).
+
 In the preamble to the tirumantiraM tirumUlar (verses ) gives his
 lineage thus (translated only loosely during conversation with my
 clansmen who know the drAviDa bhASha/transliterated from a reading in an
@@ -19,8 +23,8 @@ pata\~njali of the holy temple and vyAghrapAda,
 enRivar ennO DeNmaru mAmE (TM 67)  
 and with I complete you count to eight.
 
-Thus we have 4\*nandin-s -\> shivayogi -\> pata\~njali -\> vyAghrapAda
--\> sundaranAtha (tirumUlar).  
+Thus we have 4\*nandin-s -> shivayogi -> pata\~njali -> vyAghrapAda ->
+sundaranAtha (tirumUlar).  
 This fascination with nandin prevades the whole of the tirumantiram
 
 For example we have in the preamble:  
@@ -72,9 +76,8 @@ All the tantras named here belong to the Urdhva-srotas emanating from
 ishAna or the upper head of the five-faced deva. They are divided into
 the 10 shiva Agamas and 18 rudra Agamas, both of which are seen in the
 nandin tradition of tirumular. They are:  
-
-- principal shivAgamas: 1) kAraNa 2) kAmikA 4) chintya 8) suprabheda ;
-- principal rudrAgamas: 3) vIra 5) vAtula 6) vimala 9) makuTa upAgama of
+principal shivAgamas: 1) kAraNa 2) kAmikA 4) chintya 8) suprabheda ;
+principal rudrAgamas: 3) vIra 5) vAtula 6) vimala 9) makuTa upAgama of
 the kiraNa tantra stream 7) kallottara.
 
 It should be noted that within the tirumantiram a particular hierarchy
@@ -126,3 +129,4 @@ purposes the Agamic religion dominated their thought. The important
 point to note here is that from an early period there was a symbiosis
 between various shaiva and shAkta tantric schools. Of the latter the
 dominant ones were kubjikAmata, shrIkula, kAlikula, and trikA.
+

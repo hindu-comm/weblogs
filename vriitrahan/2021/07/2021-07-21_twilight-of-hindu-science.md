@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "July 21, 2021"
+date = "2021-07-21"
+upstream_url = "https://vriitrahan.wordpress.com/2021/07/21/twilight-of-hindu-science/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2021/07/21/twilight-of-hindu-science/).
+
 This post will provide some notes from the original works of one of the
 greatest mathematician-astronomers of the pre-Renaissance world; Achārya
 Nīlakaṇṭha Somayajī, the esteemed Namboodiri Brāhmaṇa of the [Kerala

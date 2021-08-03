@@ -1,8 +1,11 @@
 +++
-title = "A post on sAdhanA I copied(and given a slight addition by Swami Brahmananda,the disciple of Sri Ramakrishnaxa0Paramahamsa)"
+title = "A post on sAdhanA I copied(and given a slight addition by Swami Brahmananda,the disciple of Sri Ramakrishna Paramahamsa)"
 date = "2019-12-16"
+upstream_url = "https://padmavajra.net/2019/12/16/a-post-on-sadhana-i-copiedand-given-a-slight-addition-by-swami-brahmanandathe-disciple-of-sri-ramakrishna-paramahamsa/"
 
 +++
+Source: [here](https://padmavajra.net/2019/12/16/a-post-on-sadhana-i-copiedand-given-a-slight-addition-by-swami-brahmanandathe-disciple-of-sri-ramakrishna-paramahamsa/).
+
 The post by[Sri Guru Rohit
 Arya](https://www.facebook.com/rohit.arya.568/posts/10219531225222325)
 who blogs at[aryayogi.wordpress.com](http://Aryayogi.wordpress.com)

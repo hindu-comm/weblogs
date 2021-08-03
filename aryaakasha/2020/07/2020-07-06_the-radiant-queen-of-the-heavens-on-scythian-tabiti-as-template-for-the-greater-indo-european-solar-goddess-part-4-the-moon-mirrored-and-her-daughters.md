@@ -1,8 +1,11 @@
 +++
-title = "The Radiant Queen of the Heavens – On Scythian Tabiti As Template For The Greater Indo-European Solar Goddess [Part 4 – The Moon, Mirrored, And Herxa0Daughters]"
-date = "July 6, 2020"
+title = "The Radiant Queen of the Heavens – On Scythian Tabiti As Template For The Greater Indo-European Solar Goddess [Part 4 – The Moon, Mirrored, And Her Daughters]"
+date = "2020-07-06"
+upstream_url = "https://aryaakasha.com/2020/07/06/the-radiant-queen-of-the-heavens-on-scythian-tabiti-as-template-for-the-greater-indo-european-solar-goddess-part-4-the-moon-mirrored-and-her-daughters/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/07/06/the-radiant-queen-of-the-heavens-on-scythian-tabiti-as-template-for-the-greater-indo-european-solar-goddess-part-4-the-moon-mirrored-and-her-daughters/).
+
 ![](https://scontent.fakl1-3.fna.fbcdn.net/v/t1.0-9/107102086_649666722312322_1636673716300309821_n.jpg?_nc_cat=105&_nc_sid=8024bb&_nc_ohc=Z4FsSEscdXEAX8xaBOl&_nc_ht=scontent.fakl1-3.fna&oh=ab7135fdec422e1758d129981b468c0f&oe=5F27AACF)
 
 A further support for the ‘inversion’ possibility is granted via looking

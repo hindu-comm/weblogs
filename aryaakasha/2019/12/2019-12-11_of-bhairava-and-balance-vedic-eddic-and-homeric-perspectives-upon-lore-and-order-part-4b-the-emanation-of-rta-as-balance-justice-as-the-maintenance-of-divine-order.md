@@ -1,8 +1,11 @@
 +++
-title = "OF BHAIRAVA AND BALANCE, Vedic, Eddic, and Homeric perspectives upon Lore and Order [Part 4B] The Emanation Of Rta As Balance – Justice As The Maintenance Of Divinexa0Order"
-date = "December 11, 2019"
+title = "OF BHAIRAVA AND BALANCE, Vedic, Eddic, and Homeric perspectives upon Lore and Order [Part 4B] The Emanation Of Rta As Balance – Justice As The Maintenance Of Divine Order"
+date = "2019-12-11"
+upstream_url = "https://aryaakasha.com/2019/12/11/of-bhairava-and-balance-vedic-eddic-and-homeric-perspectives-upon-lore-and-order-part-4b-the-emanation-of-rta-as-balance-justice-as-the-maintenance-of-divine-order/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/12/11/of-bhairava-and-balance-vedic-eddic-and-homeric-perspectives-upon-lore-and-order-part-4b-the-emanation-of-rta-as-balance-justice-as-the-maintenance-of-divine-order/).
+
 ![](https://aryaakasha.files.wordpress.com/2019/12/78399518_10162661502935574_6174532069486493696_o.jpg?w=785)
 
 But before we continue with our travel through the Myth of Bhairava

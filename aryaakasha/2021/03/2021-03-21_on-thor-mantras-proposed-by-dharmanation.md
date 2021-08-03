@@ -1,8 +1,11 @@
 +++
-title = "On “Thor Mantras” Proposed Byxa0DharmaNation"
-date = "March 21, 2021"
+title = "On “Thor Mantras” Proposed By DharmaNation"
+date = "2021-03-21"
+upstream_url = "https://aryaakasha.com/2021/03/21/on-thor-mantras-proposed-by-dharmanation/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/03/21/on-thor-mantras-proposed-by-dharmanation/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/03/thor-hallows-runes.png?w=580)
 
 It has come to my attentionthat the chap who does “DharmaNation”, is

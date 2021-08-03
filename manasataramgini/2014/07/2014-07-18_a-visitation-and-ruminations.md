@@ -1,7 +1,11 @@
 +++
 title = "A visitation and ruminations"
+date = "2014-07-18"
+upstream_url = "https://manasataramgini.wordpress.com/2014/07/18/a-visitation-and-ruminations/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/07/18/a-visitation-and-ruminations/).
+
 Most of our fellow travelers in school and college, with some exceptions
 occasionally alluded to in some form on these pages, were boring people
 to us. Their interests, political views or aspirations did not overlap
@@ -94,7 +98,7 @@ to get us hurrying and leave for the museum. We heard many stories
 between then and her ultimate departure that night:  
 “I still have the notebook where I had asked you to write answers for
 several questions. I never thought the explanation of the Kashmir issue
-was as simple as what you had written until the Kargil war\!”
+was as simple as what you had written until the Kargil war!”
 
 “We were at home in our old city enjoying a quiet evening with the rest
 of the family playing some games. Suddenly we had strangers visit us.
@@ -147,7 +151,7 @@ lives and crime is a thin one. In some areas it is quite possible
 preta-sAdhaka-s from south India join in.”
 
 “Public services need all of society to have some common stakes. Large
-transient populations of uncultured youth means few have shared stakes
+transient populations of uncultured youth means few have sharedstakes
 in investing common civic services – they simply want to use them but do
 not want to put anything into them. Some use the road as a public toilet
 while others brush their teeth in the balconies of their apartments and
@@ -167,7 +171,7 @@ bills from nayA Pakistan would you not have go in with the army?”
 
 “You had long back written that there is nothing superior about our
 lives than that of another ape or for that matter an ant or some amoeba.
-I do not exactly remember what kind of animal (\!) an amoeba is but what
+I do not exactly remember what kind of animal (!) an amoeba is but what
 ever the case I am still having a hard time understanding that. But I
 must say I am more careful in dismissing it as I had done in my youth.”
 
@@ -203,3 +207,4 @@ about unhinged nuts like Kejriwal. He is a blot on the vaNij. I fear for
 the world my children will go into.”
 
 ● We have paraphrased but not distorted any of Igul’s narrations.
+

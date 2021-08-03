@@ -1,8 +1,11 @@
 +++
 title = "Kali Jayanti"
-date = "August 23, 2019"
+date = "2019-08-23"
+upstream_url = "https://aryaakasha.com/2019/08/23/kali-jayanti/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/08/23/kali-jayanti/).
+
 ![24881910003_7279019713_o](https://aryaakasha.files.wordpress.com/2019/08/24881910003_7279019713_o.png?w=676)
 
 A ROARING COMES ACROSS THE SKY – FOR IT IS (SRI/MAHA) KALI JAYANTI ; THE

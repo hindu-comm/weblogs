@@ -1,8 +1,11 @@
 +++
-title = "An Immortality Of Stone And Storied Deeds – The Jatayu Colossus ofxa0Kerala"
-date = "January 27, 2020"
+title = "An Immortality Of Stone And Storied Deeds – The Jatayu Colossus of Kerala"
+date = "2020-01-27"
+upstream_url = "https://aryaakasha.com/2020/01/27/an-immortality-of-stone-and-storied-deeds-the-jatayu-colossus-of-kerala/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/01/27/an-immortality-of-stone-and-storied-deeds-the-jatayu-colossus-of-kerala/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/01/jadayuppara_2.jpg?w=768)
 
 I have often maintained that India is a place wherein the past – and

@@ -1,7 +1,11 @@
 +++
 title = "Actions of the vairi-s 2"
+date = "2008-10-19"
+upstream_url = "https://manasataramgini.wordpress.com/2008/10/19/actions-of-the-vairi-s-2/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/10/19/actions-of-the-vairi-s-2/).
+
 Yesterday, the grAhin, which had been kept at bay for a day came back to
 needle us. We called upon rudra to bear us aid in the second hour past
 mid-night and used the apsarA to relieve us from the grAhin. Today
@@ -19,3 +23,4 @@ arrows, we had only 5 more. We felt worse than karNa – at least he had
 killed ghaTotkacha in the end. Was it the final mAraNa? Journey to the
 realms of vaivasvata is not so much a cause of fear as reaching there
 slowly.
+

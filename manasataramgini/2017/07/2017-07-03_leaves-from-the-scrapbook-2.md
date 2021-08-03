@@ -1,7 +1,11 @@
 +++
 title = "Leaves from the scrapbook-2"
+date = "2017-07-03"
+upstream_url = "https://manasataramgini.wordpress.com/2017/07/03/leaves-from-the-scrapbook-2/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2017/07/03/leaves-from-the-scrapbook-2/).
+
 As described
 [here](https://manasataramgini.wordpress.com/2016/09/18/leaves-from-the-scrapbook/)
 these entries are from the scrapbook of Somakhya.  
@@ -31,28 +35,26 @@ Because of the hours we had spent pondering about these curves we were
 able to give him that right away as the following polar equation with a
 single parameter a:  
 ![\\rho=\\left(\\cos \\left(a\\cdot \\theta
-\\right)\\right)^{\\frac{1}{a}}](https://s0.wp.com/latex.php?latex=%5Crho%3D%5Cleft%28%5Ccos+%5Cleft%28a%5Ccdot+%5Ctheta+%5Cright%29%5Cright%29%5E%7B%5Cfrac%7B1%7D%7Ba%7D%7D&bg=ffffff&fg=333333&s=0
-"\\rho=\\left(\\cos \\left(a\\cdot \\theta \\right)\\right)^{\\frac{1}{a}}")
+\\right)\\right)^{\\frac{1}{a}}](https://s0.wp.com/latex.php?latex=%5Crho%3D%5Cleft%28%5Ccos+%5Cleft%28a%5Ccdot+%5Ctheta+%5Cright%29%5Cright%29%5E%7B%5Cfrac%7B1%7D%7Ba%7D%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 
-![common\_equation](https://manasataramgini.files.wordpress.com/2017/05/common_equation.gif?w=640)
+![common_equation](https://manasataramgini.files.wordpress.com/2017/05/common_equation.gif?w=640)
 
 When a=1 it is a circle; a=-1, a line; a= 1/2, a cardioid; a=-1/2, a
 parabola; a= 2, a lemniscate; a=-2, a hyperbola; a=3/2, a 3-flower; a=3,
 a tri-lemniscate; a=-3/2 a tri-hyperbola with
-![120^o](https://s0.wp.com/latex.php?latex=120%5Eo&bg=ffffff&fg=333333&s=0
-"120^o") asymptotes; a=-3, a tri-hyperbola with
-![60^o](https://s0.wp.com/latex.php?latex=60%5Eo&bg=ffffff&fg=333333&s=0
-"60^o") asymptotes and so on (the n-gon conics). In general if
-![a=\\frac{p}{q}](https://s0.wp.com/latex.php?latex=a%3D%5Cfrac%7Bp%7D%7Bq%7D&bg=ffffff&fg=333333&s=0
-"a=\\frac{p}{q}") where p and q are mutually prime integers then it is a
-curve of p lobes or branches. If
-![\\frac{p}{q}](https://s0.wp.com/latex.php?latex=%5Cfrac%7Bp%7D%7Bq%7D&bg=ffffff&fg=333333&s=0
-"\\frac{p}{q}") is negative then it is a diverging curve and if it is
-positive it closes with maximal radius of a unit. If ![\\frac{p}{q};
-p=1,
-q\>1](https://s0.wp.com/latex.php?latex=%5Cfrac%7Bp%7D%7Bq%7D%3B+p%3D1%2C+q%3E1&bg=ffffff&fg=333333&s=0
-"\\frac{p}{q}; p=1, q\>1") then the curve internally loops with the
-number of crossovers being the floor of the square root of q.
+![120^o](https://s0.wp.com/latex.php?latex=120%5Eo&bg=ffffff&fg=333333&s=0&c=20201002)
+asymptotes; a=-3, a tri-hyperbola with
+![60^o](https://s0.wp.com/latex.php?latex=60%5Eo&bg=ffffff&fg=333333&s=0&c=20201002)
+asymptotes and so on (the n-gon conics). In general if
+![a=\\frac{p}{q}](https://s0.wp.com/latex.php?latex=a%3D%5Cfrac%7Bp%7D%7Bq%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+where p and q are mutually prime integers then it is a curve of p lobes
+or branches. If
+![\\frac{p}{q}](https://s0.wp.com/latex.php?latex=%5Cfrac%7Bp%7D%7Bq%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+is negative then it is a diverging curve and if it is positive it closes
+with maximal radius of a unit. If ![\\frac{p}{q}; p=1,
+q>1](https://s0.wp.com/latex.php?latex=%5Cfrac%7Bp%7D%7Bq%7D%3B+p%3D1%2C+q%3E1&bg=ffffff&fg=333333&s=0&c=20201002)
+then the curve internally loops with the number of crossovers being the
+floor of the square root of q.
 
 Both Indrasena and Pinakasena were sort of cursing themselves that it
 could be so easy. I pointed out that it was indeed the easy part and
@@ -61,7 +63,7 @@ foci on a triangle and informed the upātreya that it was the least of
 the questions that the mahārathin-s were supposed to surmount in such
 competitions.
 
-![Neville\_theorem](https://manasataramgini.files.wordpress.com/2017/05/neville_theorem1.png?w=640)
+![Neville_theorem](https://manasataramgini.files.wordpress.com/2017/05/neville_theorem1.png?w=640)
 
 Prove the lines passing through the points of intersections of the three
 ellipses with foci on a triangle are concurrent.
@@ -83,8 +85,8 @@ they might imply.
 of the manifestation of Vīrabhadra and Bhadrakālī. As planned in the
 evening we went to the temple of Candreśvara where we saw the
 electrician who had a shack near Indrasena’s house. He was of a
-śūdra-jāti of artisans by origin and was dressed up like Vīrabhadra.
-He held a heavy steel trident in his hand and a circle of people had
+śūdra-jāti of artisans by origin and was dressed up like Vīrabhadra. He
+held a heavy steel trident in his hand and a circle of people had
 gathered around him. Even as Mars rose in the asterism of the Kṛttikā-s,
 the deshika offered a bali to Bhava with the Puṣṭipati mantra from the
 Taittirīya-śruti at the northern balipīṭha. At the fire pit in the front
@@ -94,18 +96,18 @@ the conchs blared and the chariot of Rudra and Rudrāṇī was taken forth.
 By then we could see Mars dimly through the fringes of the trees above
 the Eastern horizon. The electrician immediately broke out into a
 frenzied dance and began to suddenly speak in Sanskrit. Impersonating
-Vīrabhadra in his march against the deva-s at Rudra’s behest he began
-to jump up and down and whirl his trident with great ferocity. He spoke
-of striking Indra and Viṣṇu. He spoke of chopping off Sarasvatī-s
-tongue. He roared that he had smashed the face of Pūṣaṇ\! And again he
-yelled that he had torn out the eyes of Bhaga. Finally picking up the
-skull of a goat he whirled around at a dizzying speed. Any other man
-might have collapsed with all that whirling that he did. I watched
-bewildered along with Indrasena and Pinakasena as he yelled again and
-again beating his ḍamaru. Some of the people gathered there brought ash
-fresh from the cremation ground and smeared it on his forehead and
-dusted him with it. Then he began chanting: “ so’ham so’ham । jaya jaya
-rudra mahāraudra bhadrāvatāra mahābhairava kālabhairava kalpāntabhairava
+Vīrabhadra in his march against the deva-s at Rudra’s behest he began to
+jump up and down and whirl his trident with great ferocity. He spoke of
+striking Indra and Viṣṇu. He spoke of chopping off Sarasvatī-s tongue.
+He roared that he had smashed the face of Pūṣaṇ! And again he yelled
+that he had torn out the eyes of Bhaga. Finally picking up the skull of
+a goat he whirled around at a dizzying speed. Any other man might have
+collapsed with all that whirling that he did. I watched bewildered along
+with Indrasena and Pinakasena as he yelled again and again beating his
+ḍamaru. Some of the people gathered there brought ash fresh from the
+cremation ground and smeared it on his forehead and dusted him with it.
+Then he began chanting: “ so’ham so’ham । jaya jaya rudra mahāraudra
+bhadrāvatāra mahābhairava kālabhairava kalpāntabhairava
 kapāla-mālā-dhara khaṭvāṅga-carma-khaḍga-dhara
 pāśāṅkuśa-ḍamarū-śūla-cāpa-bāṇa-gadā-śakti-bhindipāla-tomara-musala-mudgara-pāśa-parigha-bhuśuṇḍī-śataghnī-cakrādy-āyudha-bhīṣaṇākāra
 sahasra-mukha-daṃṣṭrā-karālavadana sarvatomukha viśvatomukha
@@ -147,8 +149,8 @@ Pinakasena wondered if āveśa was avaidika and whether we should give
 much attention to it. Indrasena correctly told him that it was entirely
 within the vaidika circle though not a codified practice performed by
 brāhmaṇa-s as part of their system. He pointed to the āveśa-s had by
-brāhmaṇa women during which my great ancient ancestor Kabandha
-ātharvaṇa spoke using them as the medium.
+brāhmaṇa women during which my great ancient ancestor Kabandha ātharvaṇa
+spoke using them as the medium.
 
 Thereafter Pinakasena asked about Rudrāveśa and its foundations. I told
 him of it deep Indo-European provenance. In Indo-Aryan tradition we had
@@ -187,7 +189,7 @@ yo vajrahastaḥ sa janāsa indraḥ ॥
 Even heaven and earth bow to him;  
 indeed, the mountains fear of his fury.  
 The soma-drinker who is praised as Vajrabāhu,  
-he who has the Vajra in is hand, he, O folks, is Indra\!
+he who has the Vajra in is hand, he, O folks, is Indra!
 
 Indrasena said that he was still thinking about the rudrāsveśa we had
 witnessed and wondered about its general significance. I told him that
@@ -274,8 +276,8 @@ We could look at the country which has had the greatest robotization to
 date, Japan. People there have had long lives from at least the medieval
 period and generally have been reported as having a low infection load.
 There are exaggerated medieval tales transmitted by Europeans of
-Japanese living hundreds of years\! This does suggest that there has
-been an evolutionary shift in the Japanese population towards a more
+Japanese living hundreds of years! This does suggest that there has been
+an evolutionary shift in the Japanese population towards a more
 K-strategy. In contrast, our nation is located partly in the tropics and
 has at least in the past 700 years (aggravated by Islam and
 Christianity) has had a much lower life-expectancy. This has selected a

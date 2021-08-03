@@ -1,7 +1,11 @@
 +++
 title = "A description of abhinavagupta by madhurAja yogin"
+date = "2005-11-15"
+upstream_url = "https://manasataramgini.wordpress.com/2005/11/15/a-description-of-abhinavagupta-by-madhuraja-yogin/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/11/15/a-description-of-abhinavagupta-by-madhuraja-yogin/).
+
 One of the greatest tantrics of all times was the prolific trika savant
 abhinavagupta, one of the greatest Indian philosophers of all times. He
 wrote at least 44 books on tantra, aesthetics (including nATyashAstra)
@@ -26,3 +30,4 @@ tantric yakShapa\~Nka powder. His yaGYopavIta hangs from his neck and he
 wears a silken dhoti white as the moon beams. He sits in the yogic
 vIrAsana position holding a rudrAkSha mAlA and shows a mudra signifying
 the knowledge of mahAdeva.
+

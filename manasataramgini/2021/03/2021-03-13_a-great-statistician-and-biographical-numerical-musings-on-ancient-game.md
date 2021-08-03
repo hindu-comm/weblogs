@@ -1,8 +1,11 @@
 +++
-title = "A great statistician, and biographical, numerical musings on ancientxa0game"
+title = "A great statistician, and biographical, numerical musings on ancient game"
 date = "2021-03-13"
+upstream_url = "https://manasataramgini.wordpress.com/2021/03/13/a-great-statistician-and-biographical-numerical-musings-on-ancient-game/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2021/03/13/a-great-statistician-and-biographical-numerical-musings-on-ancient-game/).
+
 Recently my friend brought it to my attention that C. Radhakrishna Rao
 had scored a century. Born in 1920 CE to Doraswamy Nayadu and A.
 Laxmikanthamma from the Andhra country, he is one of the great

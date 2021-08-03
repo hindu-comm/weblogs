@@ -1,7 +1,11 @@
 +++
 title = "On a paramAra warrior queen and some Saracenic structures in lATa"
+date = "2012-02-12"
+upstream_url = "https://manasataramgini.wordpress.com/2012/02/12/on-a-paramara-warrior-queen-and-some-saracenic-structures-in-lata/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/02/12/on-a-paramara-warrior-queen-and-some-saracenic-structures-in-lata/).
+
 S and other members of aurvasheyI’s family have rich body of legend
 concerning their tAntrika paraMpara. [We have discussed some of this
 with the intention of mapping it on the historical background which
@@ -94,8 +98,8 @@ fortifications and palaces in its place. The secularists aided and
 abetted by their mlechCha backers have been denying this as a Hindu
 fantasy. The secularists have foisted several imaginary narratives on
 the generally clueless Hindu masses: The old bhadrakAlI temple just
-“disappeared” and then Ahmad Shah built his city; Ahmad Shah himself
-was a worshiper of bhadrakAlI and he had her “stuck” to the wall of his
+“disappeared” and then Ahmad Shah built his city; Ahmad Shah himself was
+a worshiper of bhadrakAlI and he had her “stuck” to the wall of his
 fort; The bhadrakAlI temple was never destroyed and her temple of
 relatively recent provenance is the same as the old one; A Mohammedan
 chief whose palace lies in the vicinity of the recent temple himself
@@ -133,3 +137,4 @@ This system was focused on bhadrakAlI. She is conceived as a 16-handed
 goddess of black color, with fangs like the crescent moon, with an upper
 garment of elephant skin and a skirt of tiger skin. She is flanked by
 nandin and mahAkAla.
+

@@ -1,7 +1,11 @@
 +++
 title = "Another piece of kAvya by the muni"
+date = "2008-08-16"
+upstream_url = "https://manasataramgini.wordpress.com/2008/08/16/another-piece-of-kavya-of-the-muni/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/08/16/another-piece-of-kavya-of-the-muni/).
+
 The muni and me, who are like one atmAn in two different sharIra-s;
 hence I took the liberty of posting another of his literary productions.
 Unfortunately the muni has neither used Itrans nor unicode.
@@ -109,7 +113,7 @@ realm.*
 * “But his time is up, O Manmatha.” said Yama.*
 
 *The next day the poet happened to pass by the desolate corner.*  
-* And lo behold\! But what should he see in the lonely monastery of
+* And lo behold! But what should he see in the lonely monastery of
 strands?*  
 *Asthapada was not alone. But now there were two more like him.*  
 * There was the beautiful Kesin, prancing about the silver strands,*  
@@ -154,7 +158,7 @@ disdain.*
 with Kesin,*  
 * inevitably struck by Manmatha’s dart, deluded utterly by her
 charms,*  
-*and falling head over heels in his own web\!*  
+*and falling head over heels in his own web!*  
 * A fairy tale ending : a great duel, victory, a wife, and then living
 happily ever after.*  
 *But Yama was right afterall : an utter shock was to greet the poet’s
@@ -162,7 +166,7 @@ eyes.*
 * The next day, came the bard as usual, his old friend to meet.*  
 * *  
 *But what should he see at the now familiar resort? All empty and
-desolate\!*  
+desolate!*  
 * Both Sahasraksha and Asthapada lay dead in the web —*  
 *a great resemblance in their grey lifelessness,*  
 * only, Sahasraksha’s corpse more decayed than Asthapada’s.*  
@@ -172,4 +176,5 @@ done.*
 impregnators.*  
 *By sheer chance did Kesin come across Asthapada.*  
 * Impelled by Kama did Asthapada finally defy even Yama: a hundred
-Asthapadas in that sack\!*
+Asthapadas in that sack!*
+

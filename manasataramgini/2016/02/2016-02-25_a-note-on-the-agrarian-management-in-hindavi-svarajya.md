@@ -1,7 +1,11 @@
 +++
 title = "A note on the agrarian management in Hindavi svarājya"
+date = "2016-02-25"
+upstream_url = "https://manasataramgini.wordpress.com/2016/02/25/a-note-on-the-agrarian-management-in-hindavi-svarajya/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2016/02/25/a-note-on-the-agrarian-management-in-hindavi-svarajya/).
+
 The great rājan, the founder of the last Hindu empire, can only be
 effectively compared to one figure in history, namely Chingiz Kha’khan.
 Both displayed the rare combination of military and administrative
@@ -44,10 +48,9 @@ fields lie empty and unsown, and grow into wildernesses. Such oppression
 is exceedingly prevalent in this country.”
 
 This is confirmed by the Christian subversionist Sebastien Manrique:
-“…when the wretched people have no means of paying this \[the
-revenue demanded in advance\] they \[the Mogol officials\] seize the
-wives and children, making them into slaves and selling them by
-auction.”
+“…when the wretched people have no means of paying this \[the revenue
+demanded in advance\] they \[the Mogol officials\] seize the wives and
+children, making them into slaves and selling them by auction.”
 
 As the noted Hindu historial KS Lal observed these activities had a
 side-effect of swelling the ranks of Mohammedans in India for the
@@ -148,3 +151,4 @@ The Lārī was a hairpin-shaped silver coin which was first apparently
 struck by the Safavids in Lar, Iran. ₹1=2.5-3 Lārī. It was subsequently
 struck by the Adil Shahi in the Konkan and was captured from them by
 Śivājī.
+

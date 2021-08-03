@@ -1,7 +1,11 @@
 +++
 title = "Orang-utan behavior"
+date = "2003-08-09"
+upstream_url = "https://manasataramgini.wordpress.com/2003/08/09/orang-utan-behavior/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/08/09/orang-utan-behavior/).
+
 The great ape of East , the Orang was until recently thought to be
 rather limited in its behavioral complexity. The lineage of the
 Orangutan is an ancient one, including Sivapithecus, which inhabited the
@@ -30,3 +34,4 @@ Paranthropus, Australopithecus) does not appear to have interfered with
 the basic behavioral repertoire. The persistance of these ancient
 behavioral characters in the orang mean that we are hardly going to lose
 them anytime soon, even though some people may want to erase them.
+

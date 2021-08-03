@@ -1,8 +1,11 @@
 +++
-title = "Westerners and ourxa0traditions"
+title = "Westerners and our traditions"
 date = "2016-12-19"
+upstream_url = "https://padmavajra.net/2016/12/19/westerners-and-our-traditions/"
 
 +++
+Source: [here](https://padmavajra.net/2016/12/19/westerners-and-our-traditions/).
+
 The question on how to interact with Westerners or even those who are
 deeply influenced by post-enlightenment,Christianized ideals is an
 important one to deal with. How should they be accepted in

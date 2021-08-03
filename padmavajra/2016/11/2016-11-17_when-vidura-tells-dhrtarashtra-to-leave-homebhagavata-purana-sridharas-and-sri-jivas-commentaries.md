@@ -1,8 +1,11 @@
 +++
-title = "When Vidura tells Dhrtarashtra to leave home(Bhagavata Purana) (Sridhara’s and Sri Jiva’sxa0commentaries)"
+title = "When Vidura tells Dhrtarashtra to leave home(Bhagavata Purana) (Sridhara’s and Sri Jiva’s commentaries)"
 date = "2016-11-17"
+upstream_url = "https://padmavajra.net/2016/11/17/when-vidura-tells-dhrtarashtra-to-leave-homebhagavata-purana-sridharas-and-sri-jivas-commentaries/"
 
 +++
+Source: [here](https://padmavajra.net/2016/11/17/when-vidura-tells-dhrtarashtra-to-leave-homebhagavata-purana-sridharas-and-sri-jivas-commentaries/).
+
 *(Bhāgavatam 1.13.15-1.13.30)*
 
 The commentaries being used here are Sridharaswami’s bhAvArtha dipikA

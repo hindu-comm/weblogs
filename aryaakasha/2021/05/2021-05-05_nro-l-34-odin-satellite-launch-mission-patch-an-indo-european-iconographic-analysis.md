@@ -1,8 +1,11 @@
 +++
-title = "NRO L-34 ‘Odin’ Satellite Launch Mission Patch – An Indo-European Iconographicxa0Analysis"
-date = "May 5, 2021"
+title = "NRO L-34 ‘Odin’ Satellite Launch Mission Patch – An Indo-European Iconographic Analysis"
+date = "2021-05-05"
+upstream_url = "https://aryaakasha.com/2021/05/05/nro-l-34-odin-satellite-launch-mission-patch-an-indo-european-iconographic-analysis/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/05/05/nro-l-34-odin-satellite-launch-mission-patch-an-indo-european-iconographic-analysis/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/05/95286993_10163478728915574_3282167785165160448_n.jpg?w=600)
 
 Appropriate for a Wednesday – another not-quite Techno-Heraldry US

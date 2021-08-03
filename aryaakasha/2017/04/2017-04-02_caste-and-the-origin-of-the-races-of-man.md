@@ -1,8 +1,11 @@
 +++
-title = "Caste and the Origin of the Races ofxa0Man"
-date = "April 2, 2017"
+title = "Caste and the Origin of the Races of Man"
+date = "2017-04-02"
+upstream_url = "https://aryaakasha.com/2017/04/02/caste-and-the-origin-of-the-races-of-man/"
 
 +++
+Source: [here](https://aryaakasha.com/2017/04/02/caste-and-the-origin-of-the-races-of-man/).
+
 Contrary to many popular notions that are perpetuated by Hollywood and
 the public, the Germanic people (Of which Vikings are but a subgroup)
 were not an anarchic people composed wholly of warriors or grunting

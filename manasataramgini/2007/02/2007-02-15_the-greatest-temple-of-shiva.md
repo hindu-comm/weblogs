@@ -1,7 +1,13 @@
 +++
 title = "The greatest temple of shiva"
+date = "2007-02-15"
+upstream_url = "https://manasataramgini.wordpress.com/2007/02/15/the-greatest-temple-of-shiva/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/02/15/the-greatest-temple-of-shiva/).
+
+
+
 [![](https://i1.wp.com/bp0.blogger.com/_ZhvcTTaaD_4/RdQNa-8rbvI/AAAAAAAAAEA/c-oohFLsEEw/s320/elephanta_03_0001.jpg)](http://bp0.blogger.com/_ZhvcTTaaD_4/RdQNa-8rbvI/AAAAAAAAAEA/c-oohFLsEEw/s1600-h/elephanta_03_0001.jpg)
 
 We converged on this issue via a peculiar way –We were blessed after
@@ -23,7 +29,7 @@ While those others,
 Can be carved, in living flesh, for aeons,  
 In the hell for defacers of statues.
 
-\-Sunday on Elephanta
+-Sunday on Elephanta
 
 ST: “One of the greatest works of art of ours but when was it made and
 who made it ?”
@@ -39,7 +45,7 @@ is vividly illustrated by the comment of the Portuguese vandal Antonio
 Bocarro: “There is also a large and deep tank of water without which the
 heathens of the East never build their pagodas; because among their
 other abominations they believe that water purifies and cleanses them”
-\[\!\]
+\[!\]
 
 To me the greatness of the temple of shrI-pUrI mainly lies in the fact
 that it is one of the few temples that is literally a purANa in rock. It
@@ -47,10 +53,10 @@ helps us reconstruct the history of the pAshupatas, and predecessors of
 the kAlAmukha-s of later days. To me on seeing the glory of shiva on
 rock the words came to mind:
 
-daMShTrA-karAlaM divi nR^ityamAnaM hutAsha-vaktraM jvalanArka-rUpam |  
-sahasra-pAdAkShi-shirobhi yuktaM bhavantam-ekaM praNamAmi rudram ||  
-namo.astu somAya sumadhyamAya namo.astu devAya hiraNyabAho |  
-namo.agni-chandrArka-vilochanAya namo.ambikAyAH pataye mR^iDAya ||
+daMShTrA-karAlaM divi nR^ityamAnaM hutAsha-vaktraM jvalanArka-rUpaM \|  
+sahasra-pAdAkShi-shirobhi yuktaM bhavantam-ekaM praNamAmi rudraM \|\|  
+namo.astu somAya sumadhyamAya namo.astu devAya hiraNyabAho \|  
+namo.agni-chandrArka-vilochanAya namo.ambikAyAH pataye mR^iDAya \|\|
 
 From the evidence of the copper coins of kR^iShNa-rAja that appear to
 have been used as a payment for the workers on the island of shrI-pUrI
@@ -183,7 +189,7 @@ dakiShNa-srotas(bhairava tantras):A bhairavAchArya performed tantric
 rites in a shmashAna explicitly for the establishment of the dynasty of
 puShpabhUti that spawned the great king harshavardhana.  
 [vAma-srotas (tumburu
-tantras)](http://manasataramgini.wordpress.com/2005/02/tumburu-manifestation-of-rudra.html):
+tantras)](http://manollasa.blogspot.com/2005/02/tumburu-manifestation-of-rudra.html):
 The brAhmaNa hiraNyadAman performed the rites as per the vAma-srotas for
 the rise of jayavarman-II the founder of the Angkor empire centered in
 Cambodia.  
@@ -224,9 +230,9 @@ on the pa\~nchAkSharI, li\~Nga-sthApana, bhasma-vidhi, rudrAkSha and
 deva-yajana. Based on the comparative analysis with other purANas, the
 mahAbhArata and and vedic brAhmaNas it is clear that there was an
 earlier body of shaiva tales that consisted of:  
-1\) defeat of the brAhmaNa-s of dArukavana 2) origin of li\~Nga 3)
-shiva’s marriage with sati and destruction of dakSha’s sacrifice 4)
-the marriage of shiva and pArvatI. 5) birth of kumAra 6) destruction of
+1) defeat of the brAhmaNa-s of dArukavana 2) origin of li\~Nga 3)
+shiva’s marriage with sati and destruction of dakSha’s sacrifice 4) the
+marriage of shiva and pArvatI. 5) birth of kumAra 6) destruction of
 tripura 7) killing of andhaka 8) killing of gajAsura 9) Drinking of the
 hAlahala. Perhaps some additional material on jalandhara or
 sha\~Nkhachuda was also present with this set. This set was probably
@@ -236,3 +242,4 @@ distributed amongst various then current purANas or already collected
 into a saMhitA. In any case this body served as the base for the core
 shiva-purANa of gupta times during which vinAyaka was inserted after the
 ancient skanda tale.
+

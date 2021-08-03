@@ -1,8 +1,11 @@
 +++
-title = "Tabiti – Fire-Pillar of the Universe; Excerpt from Kushmandaxa0Commentary"
-date = "October 3, 2019"
+title = "Tabiti – Fire-Pillar of the Universe; Excerpt from Kushmanda Commentary"
+date = "2019-10-03"
+upstream_url = "https://aryaakasha.com/2019/10/03/tabiti-fire-pillar-of-the-universe-excerpt-from-kushmanda-commentary/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/10/03/tabiti-fire-pillar-of-the-universe-excerpt-from-kushmanda-commentary/).
+
 ![bde92b5d67fcdbcee336f117d35eb86f](https://aryaakasha.files.wordpress.com/2019/10/bde92b5d67fcdbcee336f117d35eb86f.jpg?w=676)
 
 Excerpt from yesterday’s Kushmanda #NavRatri piece, illustrating what I

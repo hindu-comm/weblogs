@@ -1,7 +1,11 @@
 +++
 title = "The rise of the Kirghiz Khaganate"
+date = "2005-09-01"
+upstream_url = "https://manasataramgini.wordpress.com/2005/09/01/the-rise-of-the-kirghiz-khaganate/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/09/01/the-rise-of-the-kirghiz-khaganate/).
+
 The Kirghiz Khaganate came to the fore after Uighurs were destroyed by
 the Kirghiz in the 840 AD. The rise of the Kirghiz was shrouded in
 mystery. All we knew was that a Uighur general defected to the Kirghiz
@@ -32,3 +36,4 @@ Khan. In many ways Manas is like a prelude to Chingiz Khan, a hero of
 the steppes, have all the pre-adaptation that was one day going to spawn
 the phenomenon called Chingiz, but not yet reaching his oceanic
 proportions.
+

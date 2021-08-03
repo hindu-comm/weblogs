@@ -1,8 +1,11 @@
 +++
-title = "A Brief Comparanda On Ymir And Purusha – A Demon Dismembered versus the Sky Father As Cosmosxa0Himself"
-date = "April 15, 2021"
+title = "A Brief Comparanda On Ymir And Purusha – A Demon Dismembered versus the Sky Father As Cosmos Himself"
+date = "2021-04-15"
+upstream_url = "https://aryaakasha.com/2021/04/15/a-brief-comparanda-on-ymir-and-purusha-a-demon-dismembered-versus-the-sky-father-as-cosmos-himself/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/04/15/a-brief-comparanda-on-ymir-and-purusha-a-demon-dismembered-versus-the-sky-father-as-cosmos-himself/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/09/2fda8ce792b450597319a49ec0c05e9f.jpg?w=960)
 
 As we have frequently noted, there are some stubborn-to-shift

@@ -1,7 +1,11 @@
 +++
 title = "The tale of the li~Nga"
+date = "2005-11-22"
+upstream_url = "https://manasataramgini.wordpress.com/2005/11/22/the-tale-of-the-linga/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/11/22/the-tale-of-the-linga/).
+
 The tale of the li\~Nga as the phallus of shiva is found in several
 purANas and is hence not a late concotion. It can be traced back to the
 bhArgava redaction of the sauta literature. The following purANas state
@@ -40,8 +44,9 @@ vagina. Thus the li\~Nga came into being as a symbol of rudra and the
 gods worhipped it. viShNu initiated the four castes of men in the
 worship of the linga mUrti and promulgated the shAstras required for
 it.  
-divya-lingaM namAmi| shriman mahAdevAya namaH|
+divya-lingaM namAmi\| shriman mahAdevAya namaH\|
 
 It is of interest to note in this context that the veda of the bhR^igus
 and the angiras has a couple of sUktas devoted to the un-maning of
 people by surgical methods.
+

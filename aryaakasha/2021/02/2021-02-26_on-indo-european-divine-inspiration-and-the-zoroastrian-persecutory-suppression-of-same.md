@@ -1,8 +1,11 @@
 +++
-title = "On Indo-European Divine Inspiration – And The Zoroastrian Persecutory Suppression Ofxa0Same"
-date = "February 26, 2021"
+title = "On Indo-European Divine Inspiration – And The Zoroastrian Persecutory Suppression Of Same"
+date = "2021-02-26"
+upstream_url = "https://aryaakasha.com/2021/02/26/on-indo-european-divine-inspiration-and-the-zoroastrian-persecutory-suppression-of-same/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/02/26/on-indo-european-divine-inspiration-and-the-zoroastrian-persecutory-suppression-of-same/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/02/197928195_196632410.jpg?w=398)
 
 Frequently when the subject of the Zoroastrian inversion of

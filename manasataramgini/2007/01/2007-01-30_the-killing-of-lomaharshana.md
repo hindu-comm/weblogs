@@ -1,7 +1,11 @@
 +++
 title = "The killing of lomaharShaNa"
+date = "2007-01-30"
+upstream_url = "https://manasataramgini.wordpress.com/2007/01/30/the-killing-of-lomaharshana/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/01/30/the-killing-of-lomaharshana/).
+
 The bhArgava mArkaNDeya told jaimini that he had no time to narrate to
 him lengthy tales as was his usual tradition, because he was starting
 his sacrificial satra and need to begin the specified oblations.
@@ -49,3 +53,4 @@ blood that did not go away and immediately he realized he had committed
 a grave pApa and the displeasure of the vipra-s. To relieve himself of
 his sins he decided to go on a tirtha yatra culminating in pratiloma
 sarasvatI.”
+

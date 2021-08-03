@@ -1,7 +1,11 @@
 +++
 title = "The sense of pArokSha and anumAna"
+date = "2007-10-16"
+upstream_url = "https://manasataramgini.wordpress.com/2007/10/16/the-sense-of-paroksha-and-anumana/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/10/16/the-sense-of-paroksha-and-anumana/).
+
 What constitutes the meeting of the minds with a vipra (used in the
 sense of the vedic kavI, not used in the sense of the varNa)? We
 wondered about this many a time. The vipra is one who has the sharp
@@ -34,3 +38,4 @@ Those who live in the realm of pArokSha cannot mix well with those who
 do not, for the pursuits of the rest seem too crass. But they can
 observe the rest and look at these from afar like a naturalist observing
 snails.
+

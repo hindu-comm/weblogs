@@ -1,8 +1,11 @@
 +++
-title = "Sridevi and other stuff need not be pushed as normative queerxa0icons"
-date = "2018-03-02"
+title = "Sridevi and other stuff need not be pushed as normative queer icons"
+date = "2018-02-03"
+upstream_url = "https://padmavajra.net/2018/03/02/sridevi-and-other-stuff-need-not-be-pushed-as-normative-queer-icons/"
 
 +++
+Source: [here](https://padmavajra.net/2018/03/02/sridevi-and-other-stuff-need-not-be-pushed-as-normative-queer-icons/).
+
 Trigger warning:Religion. You can frankly speaking,sod off if you are
 anti-religious and moan about whatever -ist or patriarch or whatever I
 am in your cubbyholes.

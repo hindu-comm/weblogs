@@ -1,7 +1,11 @@
 +++
 title = "Arthur Avalon"
+date = "2008-02-23"
+upstream_url = "https://manasataramgini.wordpress.com/2008/02/23/arthur-avalon/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/02/23/arthur-avalon/).
+
 Early on we realized that a Hindu needs to return the gaze on the
 Leukosphere and make it a topic of socio-anthropological studies. The
 Malhotran theory of U-turns, as we have seen in the past, is a
@@ -116,3 +120,4 @@ was actually a consequence of his sAdhana, which opened his mind to
 clarity. But as he returned to England and the sAdhana declined he
 degenerated and returned the delusions of his old creed – the bhArata
 shakti had deserted him.
+

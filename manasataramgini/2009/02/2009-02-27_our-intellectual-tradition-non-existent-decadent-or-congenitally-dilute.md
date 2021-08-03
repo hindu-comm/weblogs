@@ -1,28 +1,32 @@
 +++
 title = "Our intellectual tradition: non-existent, decadent, or congenitally dilute?"
+date = "2009-02-27"
+upstream_url = "https://manasataramgini.wordpress.com/2009/02/27/our-intellectual-tradition-non-existent-decadent-or-congenitally-dilute/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/02/27/our-intellectual-tradition-non-existent-decadent-or-congenitally-dilute/).
+
 Perhaps the greatest mind of all times was Karl Gauss. Among the men of
-genius he stands at the pinnacle of existence, perhaps with Chingiz
-Kha’khan. I keep a 10 DM note with the portrait of Gauss in my office
-to remind myself of that absolute standard in the mental sphere. Like
-the vajra of vR^itrahan quells the pride of dAnu’s brood, the sight of
-this towering massif in the mental sphere keeps any pride over
-intellectual achievements in check. Hence, we almost place Gauss in a
-“maNDala” with our fathers of the vatsa clan and pANini who was one of
-its greatest scions. The intellectual capacity of Gauss was certainly
-the result of an extraordinary genetic event that we do not currently
-understand. This is clear from the fact that his son inherited some of
-his enormous ability to perform mental calculations. Reflecting upon
-this I was dwelled upon conversations with 4 friends, 3 distant and one
-nearby, which all revolved round the same basic question – one which
-shall endeavor to consider here. We all concluded that though the
-Gaussian brilliance was a matter of genetics, it alone was not
-sufficient to explain the occurrence of a Gauss in history. We acutely
-recognized the fact that he came as a part of a system or tradition that
-was unfolding the lands of the mlechCha-s in that period – there were
-peers of nearly comparable stature who could resonate with Gauss and
-successors who could carry on his legacy.
+genius he standsat thepinnacle of existence, perhaps with Chingiz
+Kha’khan. I keep a 10 DM note with the portrait of Gauss in my office to
+remind myself of that absolute standard in the mental sphere. Like the
+vajra of vR^itrahan quells the pride of dAnu’s brood, the sight of this
+towering massif in the mental sphere keeps any pride over intellectual
+achievements in check. Hence, we almost place Gauss in a “maNDala” with
+our fathers of the vatsa clan and pANini who was one of its greatest
+scions. The intellectual capacity of Gauss was certainly the result of
+an extraordinary genetic event that we do not currently understand. This
+is clear from the fact that his son inherited some of his enormous
+ability to perform mental calculations. Reflecting upon this I was
+dwelled upon conversations with 4 friends, 3 distant and one nearby,
+which all revolved round the same basic question – one which shall
+endeavor to consider here. We all concluded that though the Gaussian
+brilliance was a matter of genetics, it alone was not sufficient to
+explain the occurrence of a Gauss in history. We acutely recognized the
+fact that he came as a part of a system or tradition that was unfolding
+the lands of the mlechCha-s in that period – there were peers of nearly
+comparable stature who could resonate with Gauss and successors who
+could carry on his legacy.
 
 When we compare this situation with the desh we find that probably there
 was at least one intellectual who had a brain comparable to Gauss but in
@@ -103,8 +107,8 @@ were relegated to the study of these subjects. Proper expression even in
 the language of instruction, English, was considered an unnecessary
 aside – bad grammar and style was a hallmark of the lecturers. Even the
 mention of saMskR^ita was derisively dismissed with statements such as:
-“Hey who wants to be a purohita man\! Come on yaar, be modern.” Now
-this elite group was supposed to be in the science stream, but with
+“Hey who wants to be a purohita man! Come on yaar, be modern.” Now this
+elite group was supposed to be in the science stream, but with
 exceptions who numbered less than a fist, they were not interested in
 science but to attain the padavI of a doctor or an engineer. It was not
 uncommon to hear: “Who cares yaar, as long as I get Madical (sic) or
@@ -199,3 +203,4 @@ sociological, though they have presented a wide spectrum of sociological
 explanations to choose from. While more than one cause could have
 interacted, I feel trying to answer the question objectively is
 important for us.
+

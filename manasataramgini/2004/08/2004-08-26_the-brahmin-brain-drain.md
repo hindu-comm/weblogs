@@ -1,7 +1,11 @@
 +++
 title = "The brahmin brain-drain"
+date = "2004-08-26"
+upstream_url = "https://manasataramgini.wordpress.com/2004/08/26/the-brahmin-brain-drain/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/08/26/the-brahmin-brain-drain/).
+
 For particular unstated reasons, I shall concentrate on the brahmins of
 the southern state of Tamil Nad for a case study. We have earlier
 discussed how the brahmins might face number of problems in the
@@ -86,3 +90,4 @@ The net effect of all this is the denudation of the bed-rock of the
 Indian state, namely the unity supported by the Indo-Aryan
 religio-cultural practices. This in my opinion makes the Indic state
 more vulnerable to implosion under the Abrahamic viruses of the Mind.
+

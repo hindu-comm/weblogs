@@ -1,7 +1,11 @@
 +++
 title = "Aunt Spring on the khANDavan front"
+date = "2006-07-22"
+upstream_url = "https://manasataramgini.wordpress.com/2006/07/22/aunt-spring-on-the-khandavan-front/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/07/22/aunt-spring-on-the-khandavan-front/).
+
 With Jx liberated from the grahaNa, and Mn having stabilized his ratha,
 and jyeShTa-tanu having recovered from his head-shattering blow, aunt
 spring wanted to move ahead with operations on our front. The muni, a
@@ -24,3 +28,4 @@ and ours was the same, there was not much different we could do, beyond
 deploying the atharvaNa shrutI. But the allies of the khANDavans made
 sure that we are constantly occupied on our usual battle front to tie up
 such a deployment.
+

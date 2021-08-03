@@ -1,8 +1,11 @@
 +++
-title = "Swear By The Sea, Swear By The Stars, Swear By The Sky – On The Mytholinguistics Of Varuna Neptunexa0Ouranos"
-date = "January 2, 2020"
+title = "Swear By The Sea, Swear By The Stars, Swear By The Sky – On The Mytholinguistics Of Varuna Neptune Ouranos"
+date = "2020-01-02"
+upstream_url = "https://aryaakasha.com/2020/01/02/swear-by-the-sea-swear-by-the-stars-swear-by-the-sky-on-the-mytholinguistics-of-varuna-neptune-ouranos/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/01/02/swear-by-the-sea-swear-by-the-stars-swear-by-the-sky-on-the-mytholinguistics-of-varuna-neptune-ouranos/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/01/6d27da8c2feaa1f4bf9314d5753baecd-2.jpg?w=564)
 
 Within the realms of Indo-European mytho-theology, there are some areas

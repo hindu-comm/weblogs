@@ -1,8 +1,11 @@
 +++
-title = "On ‘Moon’ And Moon God – A Brief Comparative Of Several Major Indo-Europeanxa0Religions"
-date = "June 29, 2020"
+title = "On ‘Moon’ And Moon God – A Brief Comparative Of Several Major Indo-European Religions"
+date = "2020-06-29"
+upstream_url = "https://aryaakasha.com/2020/06/29/on-moon-and-moon-god-a-brief-comparative-of-several-major-indo-european-religions/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/06/29/on-moon-and-moon-god-a-brief-comparative-of-several-major-indo-european-religions/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/06/moon-god-chart.png?w=750)
 
 It is MONDAY – quite literally “Moon\[‘s\] Day”; and therefore, a brief

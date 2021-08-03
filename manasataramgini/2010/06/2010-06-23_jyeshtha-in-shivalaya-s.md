@@ -1,7 +1,11 @@
 +++
 title = "jyeShThA in shivAlaya-s"
+date = "2010-06-23"
+upstream_url = "https://manasataramgini.wordpress.com/2010/06/23/jyeshtha-in-shivalaya-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/06/23/jyeshtha-in-shivalaya-s/).
+
 Some of the major saiddhAntika pratiShTha tantra-s give an account of
 the installation of alakShmI or jyeShThA along with her daughter
 rakta-jyeShThA or mAnyA and her son vR^iSha who in shaiva tradition is
@@ -12,11 +16,11 @@ jyeShThA unlike that provided for vinAyaka, skanda and others. From the
 suprabheda, kAraNa and extant sthApaka manuals we can infer that the
 mantra-s of these deities are stereotypic in the manner of other mUla
 mantra-s given in the saiddhAntika sthApana vidhi-s:  
-OM jyeM jyeShThAyai namaH | OM maM mAnyAyai namaH | OM vR^iM vR^iShAya
-namaH |  
+OM jyeM jyeShThAyai namaH \| OM maM mAnyAyai namaH \| OM vR^iM vR^iShAya
+namaH \|  
 The gAyatrI of only jyeShThA is extant:  
-OM phalapradAyai vidmahe | pApahantryai cha dhImahi | tan no jyeShThA
-prachodayAt ||  
+OM phalapradAyai vidmahe \| pApahantryai cha dhImahi \| tan no jyeShThA
+prachodayAt \|\|  
 However, the sthApana procedure in the ajita declares that there were
 gayatrI-s for vR^iSha and mAnyA which were supposed to be deployed in
 their pa\~ncha-gavya baths. In the centre alakShmI is placed, her
@@ -31,3 +35,4 @@ large pot in the vedi for jyeShTha and her children. In a few south
 Indian temples one can still see this triad, though they have been
 largely forgotten amongst the lay. However, their invocation continues
 in certain syncretic traditions of dhUmAvatI among the dashamahAvidyA-s.
+

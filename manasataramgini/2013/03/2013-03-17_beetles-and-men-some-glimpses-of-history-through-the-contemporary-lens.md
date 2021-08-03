@@ -1,7 +1,11 @@
 +++
 title = "Beetles and men: some glimpses of history through the contemporary lens"
+date = "2013-03-17"
+upstream_url = "https://manasataramgini.wordpress.com/2013/03/17/beetles-and-men-some-glimpses-of-history-through-the-contemporary-lens/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/03/17/beetles-and-men-some-glimpses-of-history-through-the-contemporary-lens/).
+
 ***The tale of poisoned arrows***  
 The bushmen clans generally used to not fight each other because most
 adult males are armed with arrows that have been smeared with deadly
@@ -20,9 +24,9 @@ the Indo-European sphere extensively used such toxic arrows. Right in
 the R^igveda we have a mention of the poisoned arrow in the battle
 incantations of the bharadvAja-s:
 
-AlAktA yA rurushIrShNy atho yasyA ayo mukham |  
-idam parjanyaretasa iShvai devyai bR^ihan namaH || RV 6.75.15  
-Obeisance to the arrow goddess, this born of parjanya, smeared with
+AlAktA yA rurushIrShNy atho yasyA ayo mukham \|  
+idam parjanyaretasa iShvai devyai bR^ihan namaH \|\| RV 6.75.15  
+Obeisance to the arrow goddess, thisborn of parjanya, smeared with
 venom, with a point of deer-horn and metal.
 
 Among the yavana-s we encounter the poisoned arrows being used by the
@@ -91,8 +95,8 @@ Right in the RV we are informed in a mantra composed by kakShIvAn the
 son of dIrghatamas the twin deva-s, the ashvin-s devised such a toxin to
 slay the viShvAcha-s \[Footnote 1\]:
 
-ajohavId ashvinA vartikA vAm Asno yat sIm amu\~nchataM vR^ikasya |  
-vi jayuShA yayathuH sAnv adrer jAtaM viShvAcho ahataM viSheNa || (RV
+ajohavId ashvinA vartikA vAm Asno yat sIm amu\~nchataM vR^ikasya \|  
+vi jayuShA yayathuH sAnv adrer jAtaM viShvAcho ahataM viSheNa \|\| (RV
 1.117.16)  
 When the quail had invoked you, O ashvin-s, you saved her from the the
 wolf’s jaws; in your victorious march you two stormed the mountain
@@ -101,8 +105,8 @@ citadel and slew the clan of the viShvAcha-s with poison.
 So was a beetle toxin known to the Arya-s? The answer to this question
 leads to a rather convoluted story, which we shall begin with an
 observation of Ctesias the yavana physician of the Iranian king
-Artaxšaça-II in his Indica (Aelian’s citation of Indica book 4,
-chapter 41):
+Artaxšaça-II in his Indica (Aelian’s citation of Indica book 4, chapter
+41):
 
 *“In India there is a sort of bird as big as the egg of a patridge. It
 is a yellow color and makes its nest on the mountains. Indians call it
@@ -128,8 +132,8 @@ things remain equal one could extrapolate a 1.5-2 milligram lethal dose
 for an average human – indeed it is reported to be more toxic than cobra
 venom. This fits in well with the legendary efficacy of dikairon in
 quantities akin to a millet-seed. However, there is one issue with
-Mayor’s proposal – death by pederin is unlikely to be a pleasant one
-as reported by Ctesias. Its ingestion would be expected to cause serious
+Mayor’s proposal – death by pederin is unlikely to be a pleasant one as
+reported by Ctesias. Its ingestion would be expected to cause serious
 internal damage as a consequence of inhibition of eukaryotic protein
 synthesis at nanomolar quantities. Horses that accidentally eat these
 beetles have severe damage of the gut mucosa. Thus, the death would be a
@@ -154,16 +158,17 @@ to the work of one our greatest men, the wise kauTilya. In his
 arthashAstra he recommends that several secret poisons should be used to
 assassinate adharmiShTha-s who threaten to harm Hindu society comprised
 of its 4 castes:  
-chAturvarNya rakShA.artham aupaniShadikam adharmiShTheShu prayu\~njIta |
-(14.1.1) \[footnote 2\]
+chAturvarNya rakShA.artham aupaniShadikam adharmiShTheShu prayu\~njIta
+\| (14.1.1) \[footnote 2\]
 
 Among the poisons he describes many are made from arthropod, amphibian,
 reptilian and plant sources:
 
-chitra-bheka kauNDinyaka kR^ikaNa pa\~nchakuShTha shatapadI chUrNam |
-uchChiTiNga kambalI shatakardama idhma | kR^ikalAsa chUrNam |
-gR^ihagolika andhAhi kakrakaNTaka pUtikITa gomArikA chUrNam | bhallAtaka
-avalguja sAra samyuktam | sadyaH prANaharam | eteShAM vA dhUmaH ||  
+chitra-bheka kauNDinyaka kR^ikaNa pa\~nchakuShTha shatapadI chUrNam \|
+uchChiTiNga kambalI shatakardama idhma \| kR^ikalAsa chUrNaM \|
+gR^ihagolika andhAhi kakrakaNTaka pUtikITa gomArikA chUrNaM \|
+bhallAtaka avalguja sAra samyuktaM \| sadyaH prANaharam \| eteShAM vA
+dhUmaH \|\|  
 The first preparation here is a powder made from an extract of the
 chitrabheka frog, the insects known as kauNDinyaka, kR^ikaNa,
 pa\~nchakuShTha and the centipede. The next preparation comprises of
@@ -175,8 +180,8 @@ said to be mixed with the sap of the bhallAtaka (Semecarpus anacardium)
 and avalguja (Vernonia anthelmintica). They cause death right away.
 These might also be used as vapors or smokes.
 
-kITo vA.anyatamas taptaH kR^iShNa-sarpa priya\~NgubhiH | shoShayed eSha
-samyogaH sadyaH prANaharo mataH || (14.1.4-5)
+kITo vA.anyatamas taptaH kR^iShNa-sarpa priya\~NgubhiH \| shoShayed eSha
+samyogaH sadyaH prANaharo mataH \|\| (14.1.4-5)
 
 The above insect powders might also be boiled and combined with the
 toxin of the common krait and the extract of the plant *Callicarpa
@@ -193,14 +198,14 @@ by the bushmen. Of specific interest in this context is the use of the
 uchChiTi\~Nga beetle – the very identity of this word has been obscure
 to modern Hindus. For instance, questioning modern college Ayurveda
 practitioners from the mahArATTa country one gets responses such as
-“poisonous insects”, “some kind of scorpion”, “centipede”, a shrimp or
-a venomous crab\! Clearly most modern Hindus have lost the naturalistic
+“poisonous insects”, “some kind of scorpion”, “centipede”, a shrimp or a
+venomous crab! Clearly most modern Hindus have lost the naturalistic
 spirit of their ancestors. But the key clue is given by the description
 of the envenomation by the uchChiTi\~Nga in ancient Hindu medical
 tradition:
 
-hR^iShTa-romochChiTi\~Ngena stabdha-li\~Ngo bhR^ishArtimAn | daShTaH
-shItodakenaiva siktAnya\~NgAni manyate ||(This is from the medieval
+hR^iShTa-romochChiTi\~Ngena stabdha-li\~Ngo bhR^ishArtimAn \| daShTaH
+shItodakenaiva siktAnya\~NgAni manyate \|\|(This is from the medieval
 physician va\~Ngasena’s chikitsA-sAra-saMgraha but it is a quotation on
 uchiChiti\~Nga intoxication taken from the great saMhitA of charaka:
 chikitsA-sthAna 23.153)
@@ -441,3 +446,4 @@ Foonote 1: A lead-based toxin of the ashvin-s is deployed in AV-vulgate
 
 Footnote 2: Here the aupaniShadikaM are methods that are only taught and
 used in secrecy.
+

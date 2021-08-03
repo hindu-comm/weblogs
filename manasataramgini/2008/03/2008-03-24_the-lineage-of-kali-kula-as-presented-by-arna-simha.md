@@ -1,31 +1,32 @@
 +++
 title = "The lineage of kAli-kula as presented by arNa-siMha"
+date = "2008-03-24"
+upstream_url = "https://manasataramgini.wordpress.com/2008/03/24/the-lineage-of-kali-kula-as-presented-by-arna-simha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/03/24/the-lineage-of-kali-kula-as-presented-by-arna-simha/).
+
 paNDita arNa-siMha is today a poorly known teacher. From his two works
 the khachakrapa\~nchaka stotra and mahAnaya prakAsha, we glean that he
 was once part of an illustrious kAli-kula lineage, which began with
 shivAnanda-nAtha-I who he calls j\~nAna-netra or j\~nAna-chakShu. He
 even suggests that the khachakrapa\~nchaka’s mantrashAstra was first
-“brought down” by shivAnanda. He names a lineage of kAlikula teachers
-to which he belongs which appears to intersect with the lineage
-mentioned by jayaratha the commentator on abhinavagupta. arNasimHa’s
-lineage is:
+“brought down” by shivAnanda. He names a lineage of kAlikula teachers to
+which he belongs which appears to intersect with the lineage mentioned
+by jayaratha the commentator on abhinavagupta. arNasimHa’s lineage is:
 
-``` 
-                 shivAnandanAtha
-          female teacher keyUravatI
-                     vAmana
-                   chakrabhAnu
-                  /         \
- female teacher IshAnikA | prabodha
-            nandaka      | jaiyaka
-            sajjana      | pa~Nka
-            someshvara   | nAga
-                   \        /
-                    arNasiMha
- 
-```
+                     shivAnandanAtha
+              female teacher keyUravatI
+                         vAmana
+             chakrabhAnu
+                      /         \
+     female teacher IshAnikA | prabodha
+                nandaka   | jaiyaka
+                sajjana   | pa~Nka
+                someshvara  | nAga
+                      \        /
+              arNasiMha
+     
 
 After chakrabhAnu the kAli-kula tradition branched into two lineages
 which unified again under arNasimha.  
@@ -38,9 +39,9 @@ conceals within it an immense mantra power. It is not easy to expound it
 but it needs to be “experienced” as a first person experience.  
 This is sensed right in the 2nd verse itself:  
 ekA devI parasarati parA vyomahaMkAra-ghoShA  
-chakraM raudraM gagana-sadR^ishaM rashmi-pu\~njaM samagram |  
+chakraM raudraM gagana-sadR^ishaM rashmi-pu\~njaM samagraM \|  
 vyomAkAraakalita-kalanAnanda-bhAsA-prachaNDaM  
-bhAShAtItaM vismaya-viShayaM devI-chakraM namAmi ||  
+bhAShAtItaM vismaya-viShayaM devI-chakraM namAmi \|\|  
 The one goddess, the supreme, spreads the sound the ahaMkAra \[\*1\] of
 space – the terrifying chakra \[\*2\] which appears like the sky, the
 collection \[of all things\], the mass of rays. Whose form is like pure
@@ -63,3 +64,4 @@ the khachakra. As we noted above the stotra itself uses the term
 “bhAShAtItaM” beyond language. Then starting with vinAyaka and his
 shakti the stotra outlines the complex maNDala of the devI with the
 hosts of yoginI-s in each circle.
+

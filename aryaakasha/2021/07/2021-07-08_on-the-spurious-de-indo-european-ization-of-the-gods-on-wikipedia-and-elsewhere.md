@@ -1,8 +1,11 @@
 +++
-title = "On The Spurious De-Indo-European-ization Of The Gods On Wikipedia Andxa0Elsewhere"
-date = "July 8, 2021"
+title = "On The Spurious De-Indo-European-ization Of The Gods On Wikipedia And Elsewhere"
+date = "2021-07-08"
+upstream_url = "https://aryaakasha.com/2021/07/08/on-the-spurious-de-indo-european-ization-of-the-gods-on-wikipedia-and-elsewhere/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/07/08/on-the-spurious-de-indo-european-ization-of-the-gods-on-wikipedia-and-elsewhere/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/07/pelasgian-pre-ie-crop.png?w=827)
 
 This is what we’re up against. And yes, yes I know – the hazards of

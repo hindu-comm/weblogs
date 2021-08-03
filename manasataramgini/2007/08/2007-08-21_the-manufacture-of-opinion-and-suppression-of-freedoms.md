@@ -1,17 +1,21 @@
 +++
 title = "The manufacture of opinion and suppression of freedoms"
+date = "2007-08-21"
+upstream_url = "https://manasataramgini.wordpress.com/2007/08/21/the-manufacture-of-opinion-and-suppression-of-freedoms/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/08/21/the-manufacture-of-opinion-and-suppression-of-freedoms/).
+
 Many years ago I was being subject to an English examination by an
 American. The first question he asked me was what is freedom. I defined
 it for him. Then he asked if I came from a free country. I answered :
-“Sort of”. A bit surprised he asked: “What do you mean?” I replied:
-“It is a free country roughly in the same sense as you all imagine
-your country to be free.” He was a bit shaken, and said : “You mean I am
+“Sort of”. A bit surprised he asked: “What do you mean?” I replied: “It
+is a free country roughly in the same sense as you all imagine your
+country to be free.” He was a bit shaken, and said : “You mean I am
 imagining that my country is free. No, we really have freedom
-expression”. I held my ground and said: “I am not so sure, is it is
-only seemingly so”. Anyhow, to his credit, despite being rattled by a
-heathen alien, the said American passed me in English
+expression”. I held my ground and said: “I am not so sure, is it is only
+seemingly so”. Anyhow, to his credit, despite being rattled by a heathen
+alien, the said American passed me in English
 
 The virile taittirIyaka gushed in the past about his momentous landing
 on the shores of madhyama mlechChadesha in krau\~ncha dvIpa: “you truly
@@ -53,13 +57,13 @@ attack on Iraq was of paramount importance to the American future. So
 this became the majority opinion of the American people and they
 whole-heartedly supported their government’s decision to go to war on
 Iraq and kill Saddam and his henchmen.  
-2\) The opinion was created that Musharaff rather than being at the
-heart of international terrorism and the cause of 9/11, was instead the
-front line ally of the US and the guardian of US from the raging beards.
-With this the opinion was created amongst Americans that Pakistan was an
-ally and Iraq, Iran and North Korea formed an “axis of evil” who need to
-be invaded though they had hardly anything to do with 9/11.  
-3\) BJP is a Nazi-like party which would make make Indians believe that
+2) The opinion was created that Musharaff rather than being at the heart
+of international terrorism and the cause of 9/11, was instead the front
+line ally of the US and the guardian of US from the raging beards. With
+this the opinion was created amongst Americans that Pakistan was an ally
+and Iraq, Iran and North Korea formed an “axis of evil” who need to be
+invaded though they had hardly anything to do with 9/11.  
+3) BJP is a Nazi-like party which would make make Indians believe that
 all physics stemmed from ancient Hindu texts, and exterminate
 Abrahamists in India. In contrast, the GOP is a legitimate political
 party – nobody quibbles too much about their evangelist fundamentalist
@@ -67,7 +71,7 @@ support base which wants to convert all Hindus or insane policies in the
 Middle East (hey, how come no one is talking of Moslems dying there?) or
 the inclination to have intelligent design as an alternative to
 biology.  
-4\) Jared Diamond’s book GGS is a must read and its universalist history
+4) Jared Diamond’s book GGS is a must read and its universalist history
 is the correct picture of the making of the modern world for a young
 high school student.
 
@@ -80,3 +84,4 @@ styles, the similar hair colors, similar opinions on what is “cool”.
 We do not live in a perfect world, but it does amuse one to see how
 seriously educated adult people take their opinion on so many issues,
 without even suspecting that they have been manufactured for them.
+

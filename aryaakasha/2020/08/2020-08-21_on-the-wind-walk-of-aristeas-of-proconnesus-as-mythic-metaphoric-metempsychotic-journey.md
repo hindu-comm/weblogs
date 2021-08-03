@@ -1,8 +1,11 @@
 +++
 title = "On The Wind-Walk Of Aristeas Of Proconnesus As Mythic-Metaphoric-Metempsychotic Journey"
-date = "August 21, 2020"
+date = "2020-08-21"
+upstream_url = "https://aryaakasha.com/2020/08/21/on-the-wind-walk-of-aristeas-of-proconnesus-as-mythic-metaphoric-metempsychotic-journey/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/08/21/on-the-wind-walk-of-aristeas-of-proconnesus-as-mythic-metaphoric-metempsychotic-journey/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/08/d2cdf8d78ea37baf6393a3c6d6700c9a.png?w=730)
 
 \[Author’s Note: This piece, examining the legendary journey of Aristeas

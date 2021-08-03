@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "January 29, 2021"
+date = "2021-01-29"
+upstream_url = "https://vriitrahan.wordpress.com/2021/01/29/dialogue-of-bh%e1%b9%9bgu-bharadwaja/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2021/01/29/dialogue-of-bh%e1%b9%9bgu-bharadwaja/).
+
 The following is part one of an interesting dialogue in the Shanti Parva
 between Riṣi Bhṛgu & Bharadwaja on the creation of caturvarṇa, its
 specficiation and the origin of all varṇa-s from one.  

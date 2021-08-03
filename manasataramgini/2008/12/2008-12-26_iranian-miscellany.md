@@ -1,7 +1,11 @@
 +++
 title = "Iranian miscellany"
+date = "2008-12-26"
+upstream_url = "https://manasataramgini.wordpress.com/2008/12/26/iranian-miscellany/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/12/26/iranian-miscellany/).
+
 \[disclaimer: I tend to use Indic-style spellings in most cases\]  
 One of the questions often pondered upon is the state of the Iranian
 religion before the ascendancy of the cult of zarathuShTra in greater
@@ -99,7 +103,7 @@ On the eastern front things were dramatically different, with Iranians
 receiving iconographic inputs not just from the Greeks but also Indians.
 For example vAyu of the Kushanas inherits his iconography from rudra in
 India. This was further strengthened by the homophony of their names:
-vAyush\>oesho and Isha. Just as Zeus was equated with ahura mAzdha we
+vAyush>oesho and Isha. Just as Zeus was equated with ahura mAzdha we
 find that among the Kushanas ahura mAzdha was depicted as indra riding
 airAvata. Again the Kushana verethraghna gets depicted as similar to
 kumAra just as he was equated with Ares in the Nemrud Dagi images. The
@@ -140,3 +144,4 @@ prevalent in gandhara and bAhlika. Interestingly, the earliest
 proto-types of the trishirobhairava or later dattAtreya imagery appear
 to have also come up at least by the 200s of CE in the same region – the
 three-headed form with the signs of shiva, viShNu and brahmA.
+

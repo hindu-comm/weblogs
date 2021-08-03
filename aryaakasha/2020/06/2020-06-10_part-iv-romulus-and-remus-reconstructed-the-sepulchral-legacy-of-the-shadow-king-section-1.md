@@ -1,8 +1,11 @@
 +++
-title = "Part IV: Romulus And Remus Reconstructed – The Sepulchral Legacy Of The Shadow-King [Sectionxa01]"
-date = "June 10, 2020"
+title = "Part IV: Romulus And Remus Reconstructed – The Sepulchral Legacy Of The Shadow-King [Section 1]"
+date = "2020-06-10"
+upstream_url = "https://aryaakasha.com/2020/06/10/part-iv-romulus-and-remus-reconstructed-the-sepulchral-legacy-of-the-shadow-king-section-1/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/06/10/part-iv-romulus-and-remus-reconstructed-the-sepulchral-legacy-of-the-shadow-king-section-1/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/06/brogi_carlo_1850-1925_-_n._8226_-_certosa_di_pavia_-_medaglione_sullo_zoccolo_della_facciata.jpg?w=546)
 
 However, lest I be accused of singling the Zoroastrians out unfairly for

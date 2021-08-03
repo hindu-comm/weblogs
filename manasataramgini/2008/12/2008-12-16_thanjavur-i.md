@@ -1,7 +1,11 @@
 +++
 title = "Thanjavur-I"
+date = "2008-12-16"
+upstream_url = "https://manasataramgini.wordpress.com/2008/12/16/thanjavur-i/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/12/16/thanjavur-i/).
+
 After worshiping rudra at mallikArjuna for 10 days shivAjI rapidly moved
 via Nandyal, Kadappah, Tirupati and Kalahasti and approached the
 vicinity of Jinji. He then sent 5000 troops to besiege the fort of Jinji
@@ -114,8 +118,8 @@ was an astute woman and was behind several public works that greatly
 benefited my ancestral families. She was also the mother of 3 sons, the
 first of whom was to spark off the great Thanjavur intellectual
 efflorescence. A marAThi verse summarizes this:  
-tIna puruShArtha tighe bhUpa | jiyeche putra kuladIpa | dIpAMbikA
-yathArtha-rUpa | nAma mhaNauni shobhatase ||
+tIna puruShArtha tighe bhUpa \| jiyeche putra kuladIpa \| dIpAMbikA
+yathArtha-rUpa \| nAma mhaNauni shobhatase \|\|
 
 \[An aside: My part time RV teacher’s ancestor, who was involved in the
 reconquest of Panhala had moved to Thanjavur along with raghunAtha
@@ -125,3 +129,4 @@ their migration to the south. He mentions that there is a single
 mahArAShTri brAhmaNa clan living still in mahArAShTra who also have a
 kumAra as their kula-devatA. The origins of these clans would be of some
 interest.\]
+

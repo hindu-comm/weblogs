@@ -1,8 +1,11 @@
 +++
-title = "An Anglo-Saxon poem – Thexa0Wanderer"
-date = "March 1, 2021"
+title = "An Anglo-Saxon poem – The Wanderer"
+date = "2021-03-01"
+upstream_url = "https://aryaakasha.com/2021/03/01/an-anglo-saxon-poem-the-wanderer/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/03/01/an-anglo-saxon-poem-the-wanderer/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/03/iso-hi-22530.jpg?w=529)
 
 \[note: I’ve mostly used the Michael Alexander translation .. much of

@@ -1,7 +1,11 @@
 +++
 title = "The shaivas: the pAshupata-s"
+date = "2006-05-10"
+upstream_url = "https://manasataramgini.wordpress.com/2006/05/10/the-shaivas-the-pashupata-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/05/10/the-shaivas-the-pashupata-s/).
+
 The early evolution of the shaiva fold is a topic of tremendous interest
 (I am only grazing the surface with regards to a few points here. One
 may see some other notes on this topic elsewhere on this site). We
@@ -23,7 +27,7 @@ fold had already differentiated into multiple distinct streams.
 
 While the naming system of these streams is varied and sometimes
 confused the following can be made out:  
-1\) pAshupata (this name is almost an invariant). 2) kApAlika (this
+1) pAshupata (this name is almost an invariant). 2) kApAlika (this
 stream may be called the saumya or somasiddhAntin-s after their
 connection with the soma sacrifice. They may in some accounts also be be
 called mahAvrata-dhara). 3) The lAkula after their founder lAkula or
@@ -78,11 +82,12 @@ vrata provided in the parishiShTa 40 of the atharvan literature. Their
 links to the atharva tradition is also established by the use of a
 particular rudra mantra that is unique to Atharvavedins (though not
 recorded in any extant saMhitA):  
-rudraM kruddhAshanimukhaM devAnAM IshvaraM param |  
-shveta-pi\~NgalaM devesham prapadye sharaNAgataH ||
+rudraM kruddhAshanimukhaM devAnAM IshvaraM paraM \|  
+shveta-pi\~NgalaM devesham prapadye sharaNAgataH \|\|
 
-yasya yuktA rathe siMhA vyAghrAsh cha viShamAnanAH |  
-tam ahaM pauNDarIkAkShaM devaM AvAhaye shivam ||
+yasya yuktA rathe siMhA vyAghrAsh cha viShamAnanAH \|  
+tam ahaM pauNDarIkAkShaM devaM AvAhaye shivaM \|\|
 
 The pAshupata-s also deploy the atharvedic dvaya rudra formulae for the
 ghee offerings.
+

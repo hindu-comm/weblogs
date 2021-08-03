@@ -1,7 +1,11 @@
 +++
 title = "The spectrum of synesthesia, metaphors and saMdhya bhASha"
+date = "2008-11-23"
+upstream_url = "https://manasataramgini.wordpress.com/2008/11/23/the-spectrum-of-synesthesia-metaphors-and-samdhya-bhasha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/11/23/the-spectrum-of-synesthesia-metaphors-and-samdhya-bhasha/).
+
 I had my first instance of the
 [booba-kiki](http://en.wikipedia.org/wiki/Image:Booba-Kiki.svg)
 experience (first articulated by Wolfgang Koehler) rather late in life.
@@ -23,8 +27,8 @@ fact I found out more than once that one of the biggest tortures in life
 can be to spend time with a woman who fails to understand your system of
 metaphors. 3) That needle in a haystack minority who instantly
 understand our \*metaphorical\* speech and take you on the path of
-‘sahajAnanda’ – we are in a resonance. But with men it is different:
-Of course the un-metaphorical ones produce strong repulsion if you are
+‘sahajAnanda’ – we are in a resonance. But with men it is different: Of
+course the un-metaphorical ones produce strong repulsion if you are
 forced to spend time in their company. However, with those who grasp
 your metaphor they fall in two classes: those who become your
 mahAbhratR^ivya-s and those who become your true mitra-s.
@@ -124,8 +128,8 @@ Indeed the in the veda we find the most famous statement:
 “*parokSha priyA iva hi devAH pratyakSha dviShaH*” (in bhR^ihadAraNyaka
 upaniShad 4.2.2). This statement comes in the context of a very plainly
 cross-sensory metaphor taught by yAj\~navalkya to the janaka:  
-“*indho ha vai nAmaiSha yo .ayaM dakShiNe .akShan puruShaH |  
-taM vA etam indhaM santam indra ity AcakShate parokSheNaiva* *|*”  
+“*indho ha vai nAmaiSha yo .ayaM dakShiNe .akShan puruShaH \|  
+taM vA etam indhaM santam indra ity AcakShate parokSheNaiva* *\|*”  
 Verily the name of the person in the right eye is indha. Even though his
 name is actually indha, people metaphorically call him indra.  
 While there is a huge “cultural” component involved (the word
@@ -155,3 +159,4 @@ white indologist F. Staal despite his seeing mantra-s as a
 Nevertheless, it should be noted that this discussion only addresses a
 particular facet of the mantra-shAstra and it cannot be entirely
 trivialized as synesthesia.
+

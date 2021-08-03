@@ -1,7 +1,11 @@
 +++
 title = "Azendohsaurus, the early archosauromorph radiation and a new position for turtles"
+date = "2010-05-31"
+upstream_url = "https://manasataramgini.wordpress.com/2010/05/31/azhendosaurus-the-early-archosauromorph-radiation-and-a-new-position-for-turtles/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/05/31/azhendosaurus-the-early-archosauromorph-radiation-and-a-new-position-for-turtles/).
+
 We were walking down the bower to our lair in the late afternoon hour.
 We were the only representative of the mammalian clade in sight; all
 other vertebrates perceived by way of their manifold cacophonies and
@@ -50,8 +54,8 @@ have any direct links to turtle origins since they appear to be outside
 of the crown archosaurs. On the other hand there was a major development
 on the morphological side of things with the report of an ossified
 laterosphenoid by Bhullar et al in turtles. At the time of Bhullar et
-al’s report the ossified laterosphenoid was only seen in turtles and
-the archosauriformes. It is an ossification in the braincase that is
+al’s report the ossified laterosphenoid was only seen in turtles and the
+archosauriformes. It is an ossification in the braincase that is
 associated with the encasing of exits for the cranial nerves II (optic),
 III (oculomotor) and IV and also marks the anterior border of the exit
 of the trigeminal nerve (V). In a constrained phylogeny making
@@ -164,7 +168,7 @@ primitive placement for turtles in the evolutionary tree of
 archosauromorpha.
 
 [![](https://i1.wp.com/lh5.ggpht.com/_hjuA1bE0hBw/S_ySUKTw5ZI/AAAAAAAABdg/pgt7pbHA1hE/s800/Azhendohsaurus.jpg)](http://picasaweb.google.com/lh/photo/D76Pth6EMABNZHI8Okgvpw?feat=embedwebsite)  
-Azendohsaurus from the Middle-Late Triassic of Madagascar 
+Azendohsaurus from the Middle-Late Triassic of Madagascar
 
 Azendohsaurus was first described from the Triassic of Morocco as an
 ornithischian, then as a basal sauropodomorph and finally as some kind
@@ -187,21 +191,21 @@ The characters supporting this position include (for some of these
 points we have to go by Flynn et al’s word because they unfortunately do
 not offer any illustration or photograph of the crucial braincase
 specimen FMNH PR 2765):  
-1\) Azendohsaurus possess an ossified laterosphenoid albeit smaller than
+1) Azendohsaurus possess an ossified laterosphenoid albeit smaller than
 that seen in archosauriformes.  
-2\) Like archosauriform teeth those of Azendohsaurus bear serrations or
+2) Like archosauriform teeth those of Azendohsaurus bear serrations or
 denticles.  
-3\) The maxilla contains an ascending dorsal process just as what it
-seen in the archosauriformes with an antorbital fenestra. However,
-instead of bounding the antorbital fenestra in Azendohsaurus it
-accommodates a large triangular lacrimal (note this point).  
-4\) The mesial surface of the maxilla contains a prominent foramen just
+3) The maxilla contains an ascending dorsal process just as what it seen
+in the archosauriformes with an antorbital fenestra. However, instead of
+bounding the antorbital fenestra in Azendohsaurus it accommodates a
+large triangular lacrimal (note this point).  
+4) The mesial surface of the maxilla contains a prominent foramen just
 posterior to the point where the dorsal process starts ascending. Witmer
 had shown that this foramen is the orifice for the maxillary nerve and
 blood vessels supplying the anterior part of the face. Azendohsaurus
 shares this foramen with several archosauriformes like Arizonasaurus and
 Batrachotomus.  
-5\) The articular has a clear retroarticular process with a
+5) The articular has a clear retroarticular process with a
 sub-rectangular cross-section. This is comparable to archosauriformes
 (e.g. in Doswellia) rather than the primitive archosauromorphs.
 
@@ -253,11 +257,11 @@ eventually enlarged to the triangular shape that fitted into a dorsal
 process of the maxilla as in Azendohsaurus and the basal turtles.
 Finally, in archosauriforms the antorbital fenestra arose through an
 embayment of the anterior margin of the lacrimal converting it into the
-“inverted L” morphology. Thus, one could imagine the turtles as
-emerging from a near-archosauriform grade of archosauromorphs that are
-currently only represented by Azendohsaurus. In this case the turtle
-ancestors never had an antorbital fenestra and merely closed their
-temporal fenestrae.
+“inverted L” morphology. Thus, one could imagine the turtles as emerging
+from a near-archosauriform grade of archosauromorphs that are currently
+only represented by Azendohsaurus. In this case the turtle ancestors
+never had an antorbital fenestra and merely closed their temporal
+fenestrae.
 
 [![](https://i1.wp.com/lh6.ggpht.com/_hjuA1bE0hBw/S_yST-AWV5I/AAAAAAAABdc/uwi3yA5P24w/s400/Captorhinus.jpg)](http://picasaweb.google.com/lh/photo/K0tG6NCfu6gvgZFR7rdL0g?feat=embedwebsite)  
 The skull of Captorhinus a parareptile
@@ -402,3 +406,4 @@ the expression of this clade of beta keratins would be useful. If they
 are found to be expressed dominantly in association with particular
 dermal armor structures then it is conceivable that we might have an
 independent means of anchoring the origin of turtles.
+

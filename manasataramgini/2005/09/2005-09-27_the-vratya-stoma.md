@@ -1,7 +1,11 @@
 +++
 title = "The vrAtya stoma"
+date = "2005-09-27"
+upstream_url = "https://manasataramgini.wordpress.com/2005/09/27/the-vratya-stoma/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/09/27/the-vratya-stoma/).
+
 The vratya stoma is described in the first 4 sections of the 17th
 chapter of the pa\~nchaviMsha brAhmaNa. The stoma has been described as
 a means of admitting non-Aryans to the Aryan fold but this is not clear
@@ -42,4 +46,5 @@ though the brAhmaNa’s food, those who speak in corrupted sanskrit, who
 have perform unjust acts, who despite being vrAtyas speak in Chandas.
 
 Thus, while there is an element of prAyshchitta in the prathama vrAtya
-stoma does not seem to be for non-Aryans.
+stoma does not seem to be for non-Aryans.  
+

@@ -1,13 +1,17 @@
 +++
 title = "Rehabilitating king vidyAdhara and the sense of Hindu identity"
+date = "2011-09-17"
+upstream_url = "https://manasataramgini.wordpress.com/2011/09/17/rehabilitating-king-vidyadhara-and-the-sense-hindu-identity/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/09/17/rehabilitating-king-vidyadhara-and-the-sense-hindu-identity/).
+
 [![](https://lh4.googleusercontent.com/-LfrLHmD4S40/TnUV_IPaKvI/AAAAAAAACMg/SXsjPLROaXM/s400/kaNDariya_mahAdeva.jpg)](https://picasaweb.google.com/lh/photo/pdLG1zx_7EU6ph_p1STRrA?feat=embedwebsite)
 
 **The prelude  
-** tvam Adau vikramAdityaH sR^iShTo .abhUH svAMshato mayA |  
-mlechCha-rUpAvatIrNAnAm asurANAM prashAntaye || (bhaTTa somadeva in the
-vetAla pa\~nchaviMshati)
+** tvam Adau vikramAdityaH sR^iShTo .abhUH svAMshato mayA \|  
+mlechCha-rUpAvatIrNAnAm asurANAM prashAntaye \|\| (bhaTTa somadeva in
+the vetAla pa\~nchaviMshati)
 
 I generated you vikramAditya as a part of my own self to silence the
 asura-s in the form of the mlechCha-s
@@ -103,7 +107,7 @@ durgAvatI, who valiantly led her troops against the jihad of the Mogol
 tyrant Akbar, would flee in so cowardly a manner, especially when their
 dynasty was at the height of its power. Our textbooks and lecturers were
 not the ones to answer such questions – in fact they were even unaware
-of the existence of the paramAra-s or the chandrAtreya-s\!
+of the existence of the paramAra-s or the chandrAtreya-s!
 
 Yet, we noticed that the record of English writers closer to the
 cataclysmic events leading to their own conquest of bhArata conveyed a
@@ -171,7 +175,7 @@ Marxist ideology and its manifestations. It was in this context that we
 began to appreciate the need for proper Hindu narratives of their heroes
 who placed a wall steel against the waves of the religion of peace.
 
-\-o-o-O-o-o-  
+-o-o-O-o-o-  
 In 962 CE the Turkic amir Alptegin decided to wage holy war on the
 Hindus. The shAhIya-s taking up the challenge, pushed back the
 Mohammedan assault, and took the fort of garjanaka. However, he sent a
@@ -328,7 +332,7 @@ vidyAdhara’s attack on the Moslem army forced them retreat from
 bhAratavarSha. It is a small wonder that the Mohammedan historians are
 silent on the matter that is mentioned in the above inscription:  
 nira\~Nkusha-yashaH prasaraH sa jaj\~ne vidyAdharo
-dharaNI-dhAraNa-vIrabAhuH |  
+dharaNI-dhAraNa-vIrabAhuH \|  
 hammIra-vIram-uru-vAri-nidhiM pramathya pR^ithivi-bhR^itA karaTikaH
 …\]  
 The brave vidyAdhara is mentioned as having churned the ocean of the
@@ -420,7 +424,7 @@ praising his valor, which was translated to him into Persian and Arabic.
 In return he also sent his congratulations praising vidyAdhara and
 conferred on him 15 forts and other gifts and returned to Ghazni in
 triumph. How come, we may ask, does one return in triumph after giving
-15 forts and gifts to the kaffir enemy one seeks to eliminate\! This
+15 forts and gifts to the kaffir enemy one seeks to eliminate! This
 euphemism suggests that the campaign against kAl\~Njar was an
 unmitigated disaster for Mahmud. Indeed after this campaign we never see
 Mahmud attempting an invasion of this part of India. We observe the same
@@ -540,3 +544,4 @@ saiddhAntika dIkSha-s. One of their earliest temples is a chatushShaShTi
 yoginI prAsAda of the yoginI-kaula tradition and those in the know can
 deconvolute the kAmakalA yantra below some of the most famous depictions
 in Khajuraho.
+

@@ -1,7 +1,11 @@
 +++
 title = "śūlapuruṣa-catvārakam-3: A method for the analysis of history"
+date = "2015-06-15"
+upstream_url = "https://manasataramgini.wordpress.com/2015/06/15/sulapuru%e1%b9%a3a-catvarakam-3-a-method-for-the-analysis-of-history/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/06/15/sulapuru%e1%b9%a3a-catvarakam-3-a-method-for-the-analysis-of-history/).
+
 Somakhya, standing beside a pillar outside his university department,
 glanced at his watch with a tinge of irritation as he waited for Lootika
 to show up. She was to bring her sister Vrishchika from the medical
@@ -40,7 +44,7 @@ here. We had to take a lengthy detour because there was a caḍḍi morcā
 being staged by the PB party activists just outside the history
 department and a beśarmī morcā by the feminists outside the English
 department. You can imagine the chaos that ensued when the two met. But
-we have something really interesting for you O Bhṛguvaṃśin\!”  
+we have something really interesting for you O Bhṛguvaṃśin!”  
 Somakhya: “It was with that hope I waited for you two Gautamī-s, as you
 have been saying since the morning that you might have something
 interesting without telling me what it might be.”  
@@ -57,9 +61,8 @@ gene-rich regions where the synteny breaks down. We have collected all
 those genes and have prepared a list for you. I am waiting to hear what
 you might have to say about these genes.”  
 Somakhya transferred the data to his computer and took a quick look:
-“Interesting, many of them seem to be part of a paralog expansion.
-Let’s head to my house and look at them more closely – it seems
-promising.”
+“Interesting, many of them seem to be part of a paralog expansion. Let’s
+head to my house and look at them more closely – it seems promising.”
 
 Just then they overheard one of the guys in the group discussing
 politics animatedly say: “How could you say such things being a student
@@ -184,9 +187,9 @@ Darwinism as there will be left of it in fifty years from Darwin —
 absolutely excluded the causality-principle. And the very fact that the
 Darwinians quite failed to notice its absence is a clear indication that
 Goethe’s “Living Nature” belongs to actual life, “cause”-less and
-“aim”-less; for the idea of the prime-phenomenon does not involve
-causal assumptions of any sort unless it has been misunderstood in
-advance in a mechanistic sense.*”
+“aim”-less; for the idea of the prime-phenomenon does not involve causal
+assumptions of any sort unless it has been misunderstood in advance in a
+mechanistic sense.*”
 
 Lootika then continued: “Indeed as Nietzsche too realized it is aimless
 and doesn’t per say have an extrinsic cause. Rather, the cause is
@@ -209,10 +212,10 @@ the underlying chemistry?”
 Somakhya: “Now say in our language we consider the following words as
 our old thinkers had suggested: paṭhati, paṭhana, pāṭhaka, pacana,
 pacati, pācaka we may note there are some common functions shared by
-paṭhati and pacati, paṭhana and pacana, and by pāṭhaka and pācaka,
-then paṭhati, paṭhana, and pāṭhaka share some functions while pacana,
-pacati, pācaka share some functions. The principle of homology allows us
-to discern various modules just like we discover domains in proteins or
+paṭhati and pacati, paṭhana and pacana, and by pāṭhaka and pācaka, then
+paṭhati, paṭhana, and pāṭhaka share some functions while pacana, pacati,
+pācaka share some functions. The principle of homology allows us to
+discern various modules just like we discover domains in proteins or
 RNAs with conserved folding. The equivalents would be the roots, pac-
 and paṭh-, the verbal ending -ati, the nominal suffix -ana, and the
 nominal suffix -aka which also strengthens the root itself. Hence, we
@@ -372,16 +375,16 @@ to our times. Now this view of the śūlapuruṣa is also apparent in the
 comparative tables of civilizations he provides to illustrate the
 previous point I just read out. There civilizations are arrayed as
 though playing out a developmental plan, as you mentioned, with a
-”homology” in their cognate growth stages which are labeled from
-spring to winter. That civilizations have a such phases is not in doubt
-– in the case our own civilization we undoubtedly see a certain
-refreshing vigor at the dawn of our civilization in the śruti-s of the
-Ṛk and the early Atharvāñgirasa. We see a certain genius in our early
-medical tradition from the latter texts and Caraka, in the mathematics
-of the Śulba, and in the sūtra-s of the sages Kaṇāda and Akṣapāda. Over
-time we even see a certain maturity: in the religion of the Tantra-s,
-the medicine of Vāgbhaṭa, and the genius of king Bhoja and Bhāskara.
-Then we see an autumn where the soma-drinking Nīlakaṇṭha and Loliṃbarāja
+”homology” in their cognate growth stages which are labeled from spring
+to winter. That civilizations have a such phases is not in doubt – in
+the case our own civilization we undoubtedly see a certain refreshing
+vigor at the dawn of our civilization in the śruti-s of the Ṛk and the
+early Atharvāñgirasa. We see a certain genius in our early medical
+tradition from the latter texts and Caraka, in the mathematics of the
+Śulba, and in the sūtra-s of the sages Kaṇāda and Akṣapāda. Over time we
+even see a certain maturity: in the religion of the Tantra-s, the
+medicine of Vāgbhaṭa, and the genius of king Bhoja and Bhāskara. Then we
+see an autumn where the soma-drinking Nīlakaṇṭha and Loliṃbarāja
 standout like the bright colors of the deciduous leaves and an Appayya
 like a sprinkling of snow shining on the footpath on an autumn evening.
 We are indeed in that winter where we shudder in the confines our heated
@@ -426,10 +429,10 @@ lineage. Then they were engulfed by eukaryotes giving rise to several
 secondary photosynthetic lineages. Across all these lineages was the
 deep homology of chloroplasts and a gene-repertoire of cyanobacterial
 origin. Those repeatedly favored the emergence of comparable
-“plant-like” morphologies across many of these lineages. Hence,
-while we would properly describe these as convergences in biology, they
-still are conditioned and channeled by a deep underlying homology
-interacting with selection by geometric constraints.”
+“plant-like” morphologies across many of these lineages. Hence, while we
+would properly describe these as convergences in biology, they still are
+conditioned and channeled by a deep underlying homology interacting with
+selection by geometric constraints.”
 
 Lootika: “Jāmadagnya, in addition to memes, we may also add their
 technological equivalents the temes interacting with the underlying
@@ -464,12 +467,12 @@ of this type launched by the bindudhvaja-s on the gaurāṅga-s is
 well-known to the discerning. Finally, like successful memes which might
 be maladaptive to the host, the spread of certain temes might also be
 maladaptive to the host and drive cultural senescence. Following the
-śūlapuruṣa we may say money itself might fall in this category: I
-don’t know whether it is all meme or teme or mixture of both, but as
-it becomes the central focus of the culture it exposes the said culture
-to a certain vulnerability which allows senescence to set in.”
+śūlapuruṣa we may say money itself might fall in this category: I don’t
+know whether it is all meme or teme or mixture of both, but as it
+becomes the central focus of the culture it exposes the said culture to
+a certain vulnerability which allows senescence to set in.”
 
-Somakhya: “Indeed\! Regarding that last point O Ūrṇāyī and Alalūmā: In
+Somakhya: “Indeed! Regarding that last point O Ūrṇāyī and Alalūmā: In
 that matter lay the original strength and the eventual the failure of
 the brāhmaṇa, and is ironically also the block on which the Bhārata-s
 stumbled to be left with very little wealth of their own.”
@@ -499,9 +502,9 @@ exist in this one. Then if those ideas still sound empty to you at least
 we should at least bring down the skambha even as the yuga-cakra turns,
 for when the time come there is the teaching regarding the great
 axe-wielding Rāma’s battle with the Vītahavya-s, Tuṇḍikera-s, and
-Tālajaṅgha-s \[Not given, as it cannot be stated in public\]. But
-then ladies we have wandered from our purpose of meeting –  time is
-running short and let us get back to our mucor.”
+Tālajaṅgha-s \[Not given, as itcannot be stated in public\]. But then
+ladies we have wandered from our purpose of meeting – time is running
+short and let us get back to our mucor.”
 
 What they discovered that day was to be a big story in their lives, one
 which they were only able to fully unravel and utilize only when
@@ -542,3 +545,4 @@ used to subjugate our people.”
 ◊◊◊◊
 
 There will be further part/s on Spengler
+

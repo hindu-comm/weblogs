@@ -1,7 +1,11 @@
 +++
 title = "saura mata"
+date = "2005-11-21"
+upstream_url = "https://manasataramgini.wordpress.com/2005/11/21/saura-mata/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/11/21/saura-mata/).
+
 In bR^ihatsamhita 60.19 varAhamihira states that sUrya should be
 worshipped by installing idols of his and they should be worshipped by
 specialized priests called magAchAryas. This is corroborated by the
@@ -91,3 +95,4 @@ been inserted into the yuddha kANDa of the rAmAyaNa. This hymn appears
 to be an early composition of the saura school. 2) The second well-known
 saura contribution is the sUrya namaskAra vidhi which is a yogic/tantric
 practice prescribe by saura tantras.
+

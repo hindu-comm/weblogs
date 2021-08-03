@@ -1,7 +1,11 @@
 +++
 title = "Al Qaeda revival and India"
+date = "2004-05-26"
+upstream_url = "https://manasataramgini.wordpress.com/2004/05/26/al-qaeda-revival-and-india/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/05/26/al-qaeda-revival-and-india/).
+
 Recently Americans have been making noise that the Al Qaeda has been
 regrouping. It may be somewhat fair to state that the Americans only
 partly understood Al Qaeda both before and after 9/11. Some people say
@@ -33,14 +37,14 @@ BJP government has been replaced as result of the peculiar Indian
 “democratic” process by a weak government of thiefs and traitors. A
 number of factors become apparent:  
   
-1\) This thugish government wants to scrap POTA and there by allow
+1) This thugish government wants to scrap POTA and there by allow
 internal terrorists to have a freer hand.  
   
-2\) The opening of “soft borders” with Pakistan suggested by the new
+2) The opening of “soft borders” with Pakistan suggested by the new
 rulers will allow Jihadis from TSP to join their brothers on this
 side.  
   
-3\) The aversion of Manmohan towards defence spending will have its
+3) The aversion of Manmohan towards defence spending will have its
 effects on building a massive and mighty military. “True greatness of a
 nation is defined by its military might”  
   
@@ -49,7 +53,7 @@ for Christian moles will help in undermining the true inner unity of
 India. The effects of this are already apparent in Tamil Nad and
 Andra.  
   
-5\) Indians will be distracted by rapid government changes and this may
+5) Indians will be distracted by rapid government changes and this may
 weaken the economic strength, there by curtailing military development.
 
 So from the point of view of CEO Musharraf the swine and other
@@ -70,3 +74,4 @@ documenting his erotic excursions in delicate Hindi verse with an
 equally debauche poet friend, even as the Army of Islam was similarly
 making a great thrust under the hero of the Momeen, Awrangzeeb. One
 wonders if after all we are heading towards the worst case scenario.
+

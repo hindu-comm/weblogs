@@ -1,7 +1,11 @@
 +++
 title = "Iconography of varAhamihira"
+date = "2006-09-05"
+upstream_url = "https://manasataramgini.wordpress.com/2006/09/05/iconography-of-varahamihira/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/09/05/iconography-of-varahamihira/).
+
 varAhamihira was a Hindu encyclopedist who lived in the 500s of the CE
 era. He may have descended from a family of shAkadvIpI brAhmaNas, as
 suggested by the mihira epithet in his name combined with varAha. This
@@ -13,10 +17,10 @@ jAtaka-s, augury, sooth-saying of various kinds, and worship of Hindu
 gods through idols. In the same breadth he introduces some of the best
 known trigonometric formulae like (sinx)^2 + (cosx)^2 = 1; the double
 angle expansions like cos2\*x=1-2\*(sinx)^2; the factorial and its
-relationship to combinations,  as well as the basics of Hindu
+relationship to combinations, as well as the basics of Hindu
 iconography. Thus, it is not suprising when we find trigonometry
 mensuration and agamic issues pertain to idols being linked even the
-works of the later day nambUtiri mathematician and tAntrika Chennas
+works of the later day nambUtiri mathematician and tAntrikaChennas
 Narayanan Nambutiripad.
 
 In his bR^ihat saMhitA he gives a succinct section on construction of
@@ -227,3 +231,4 @@ beautiful crown and is pot-bellied.
 The lord of the pramathas with an elephant head and a pot-belly holds an
 axe. He has a single tusk and holds a radish bulb with deeply colored
 leaves and root.
+

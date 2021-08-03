@@ -1,8 +1,11 @@
 +++
-title = "On Indo-European Gods Playing Dice With Thexa0Universe"
-date = "February 17, 2020"
+title = "On Indo-European Gods Playing Dice With The Universe"
+date = "2020-02-17"
+upstream_url = "https://aryaakasha.com/2020/02/17/on-indo-european-gods-playing-dice-with-the-universe/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/02/17/on-indo-european-gods-playing-dice-with-the-universe/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/02/goddice.jpg?w=1024)
 
 ![](https://aryaakasha.files.wordpress.com/2020/02/86665327_10162998919705574_2579533877391392768_n.jpg?w=602)

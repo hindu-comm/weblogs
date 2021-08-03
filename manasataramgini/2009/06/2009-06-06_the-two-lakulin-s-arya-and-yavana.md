@@ -1,8 +1,12 @@
 +++
 title = "The two lakulin-s: Arya and yavana"
+date = "2009-06-06"
+upstream_url = "https://manasataramgini.wordpress.com/2009/06/06/the-two-lakulin-s-arya-and-yavana/"
 
 +++
-[![lakulIsha\_heraKles](https://i1.wp.com/farm4.static.flickr.com/3401/3600576095_103d678383_o.png)](http://www.flickr.com/photos/24766652@N05/3600576095/ "lakulIsha_heraKles by somasushma, on Flickr")
+Source: [here](https://manasataramgini.wordpress.com/2009/06/06/the-two-lakulin-s-arya-and-yavana/).
+
+[![lakulIsha_heraKles](https://i1.wp.com/farm4.static.flickr.com/3401/3600576095_103d678383_o.png)](http://www.flickr.com/photos/24766652@N05/3600576095/ "lakulIsha_heraKles by somasushma, on Flickr")
 
 The late white indologist Daniel Ingalls, whose Asana is now occupied by
 “der Narr von Deutschland”, and who has spawned a brood of mlechCha
@@ -23,7 +27,7 @@ discovery of the relationship between the pAshupata shaiva-s and the
 Cynics (from kuon= dog). Another mlechCha scholar Thomas Mcevilley after
 him came much closer in grasping the Arya-yavana homology, but his
 prolix tome is so full of factual errors (Ancient Dravidian shaivAgama-s
-and a Dravidian origin for pAshupata-s\!) that it only tarnishes the
+and a Dravidian origin for pAshupata-s!) that it only tarnishes the
 skeleton of truth in his thesis. The problem, as we have repeatedly
 stated, is that someone not befuddled by the odious Ibrahimi fog and not
 lacking understanding of the ancient heathen thought (like most modern
@@ -45,13 +49,13 @@ shamans, Middle Eastern Gilagameshists and the like have been proposed
 as this common source.
 
 The main evidence supporting the first hypothesis goes thus:  
-\-There is no mention of lakulIsha as a great pAshupata teacher in the
+-There is no mention of lakulIsha as a great pAshupata teacher in the
 mahAbhArata, which presents the first post-vedic material of
 pAshupata-s. He first appears with his students in the purANa-s.  
-\-The pAshupata sUtra-s themselves do not clearly indicate that
-lakulIsha was their author, though the later tradition pAshupata
-tradition holds this view.  
-\-There is inscription from the reign of chandragupta II vikramAditya in
+-The pAshupata sUtra-s themselves do not clearly indicate that lakulIsha
+was their author, though the later tradition pAshupata tradition holds
+this view.  
+-There is inscription from the reign of chandragupta II vikramAditya in
 Mathura (380CE) regarding a pAshupatAcharya udita. He is mentioned to be
 the student of upamita who was the student of kapila. udita himself is
 described as 10th in line from kaushika. Some people have felt that this
@@ -61,9 +65,9 @@ generations they place lakulIsha in \~100 CE which is well after the
 Greek cynics. Some others state that there is an error in this estimate
 and there are two kaushika-s in the pAShupata list and place lakulIsha
 around 200 BCE. But this is also after the first Greek cynics  
-\-The philological argument holds that lakulIsha is derived from
+-The philological argument holds that lakulIsha is derived from
 Herakles:  
-Herakles\>rakles\>lakulIsha. In support of this it is stated that: 1)
+Herakles>rakles>lakulIsha. In support of this it is stated that: 1)
 lakulIsha is not regularly derived from lakuTa inside saMskR^ita and 2)
 the word lakulIsha has many variants such as nakulIsha, lakulesha and
 lakulin. 3) An ectype of lakulIsha named musalendra has been stated to
@@ -80,7 +84,7 @@ explicitly identified with Herakles. So it is not impossible that in the
 zone of Gandhara where there is much evidence for Indic-Greek-Iranian
 fusion that the cynic cult centered on Herakles was absorbed. Further,
 we do have evidence in the form of the yavana-jAtaka and the paulIsha
-siddhAnta of Indic absorption of Greek ideas \[Note how Paulos\>paulIsha
+siddhAnta of Indic absorption of Greek ideas \[Note how Paulos>paulIsha
 is similar to the proposed derivation of lAkulIsha from Herakles. We
 cannot be certain if this Paulos is the same of P. Alexandrinos the
 neo-Platonic astrologer\].
@@ -90,7 +94,7 @@ apparent to many “main-stream” white Indologists and their fellow
 travelers as they tend to have ludicrous idée fixes on the dates of most
 Hindu texts – but we shall not waste time with those discussions here.
 The main points in support of this hypothesis are:  
-\-There is a long history of pAshupataM that predates the emergence of
+-There is a long history of pAshupataM that predates the emergence of
 cynicism among the Greeks. We note that it begins in the late vedic
 period in the form of the pa\~nchabrahma mantra-s of the mahAnAryaNa
 upaniShad-s, and the shvetAshvatara and nIlarudra upaniShad-s. This is
@@ -104,7 +108,7 @@ old as 1200 BCE, which is certainly earlier than the 450-350 BCE time
 frame for the emergence of Greek cynicism. Hence, the origins of
 pAshupata shaiva tradition were definitely not inspired by the Greek
 traditions.  
-\-Key elements of homopraxis that are believed to unite the pAshupata-s
+-Key elements of homopraxis that are believed to unite the pAshupata-s
 and the cynics are: 1) theriomorphic behavior and 2) seeking of dishonor
 or avamAna. There are specific similarities especially in the latter in
 form of lewd behavior in public both among cynics and pAshupata-s and
@@ -126,28 +130,29 @@ That the atimArga was not unique to the pAshupata shaiva-s is suggested
 by a relatively early parivrAjaka text known as the AruNi upaniShad,
 which appears to belong to the early vaiShNava atimArga. Here, the naked
 paramahaMsa utters two mantra-s as he wanders about:  
-OM hi OM hi OM hi || AruU 11-12 \[which is like the huDDukAra of the
+OM hi OM hi OM hi \|\| AruU 11-12 \[which is like the huDDukAra of the
 shaiva\]  
 and  
-tad viShNoH paramaM padaM sadA pashyanti sUrayaH | divIva chakShurAtatam
-||  
-tad viprAso vipanyavo jAgR^ivAMsaH samindhate | viShNor yat paramaM
-padam ||  
+tad viShNoH paramaM padaM sadA pashyanti sUrayaH \| divIva
+chakShurAtatam \|\|  
+tad viprAso vipanyavo jAgR^ivAMsaH samindhate \| viShNor yat paramaM
+padam \|\|  
 \[which is like the pa\~nchabrahma mantra of the shaiva ascetic\].
 
 The AruNi text also states:  
-bhikShaarthaM grAmaM pravishanti pANi pAtram udarapAtraM vA || AruU11  
+bhikShaarthaM grAmaM pravishanti pANi pAtram udarapAtraM vA \|\|
+AruU11  
 That is the paramahaMsa enters the village for alms and uses his hand or
 stomach as the begging bowl. Explaining this point the medieval exegete
 yAdavaprakAsha (teacher of rAmAnuja the vaiShNava) states that a
 parivrAjaka eats food with his mouth like a cow. To this effect, a
 latter vaiShNava atimArga text, the nArada-parivrAjakopaniShad states:  
-Asyena tu yadAhAraM govan-mR^igayate muniH | NpU182  
+Asyena tu yadAhAraM govan-mR^igayate muniH \| NpU182  
 That is the vaiShNava ascetic eats food in theriomorphic fashion, like
 cow or some animal with his mouth.  
 The same text adds:  
-budho bAlakavat krIDet kushalo jaDavachcharet |  
-vadedunmattavad vidvAn gocharyAM naigamashcharet ||  
+budho bAlakavat krIDet kushalo jaDavachcharet \|  
+vadedunmattavad vidvAn gocharyAM naigamashcharet \|\|  
 The wise \[ascetic\] plays like child and the clever one behaves like an
 idiot. The eloquent one \[speaks\] like a madman and the scholar roams
 behaving like a cow.  
@@ -168,13 +173,13 @@ repertoire is confirmed by two statements made by baudhAyana in the
 dharma sUtra in describing the mode of existence of the avApachamAnaka
 (the ascetic who does not cook), which appears to include the vaiShNava
 vaikhAnasa ascetic:  
-kR^ichChrAM vR^ittim asaMhAryAM sAmAnyAM mR^igapakShibhiH |  
-tad aharjana saMbhArAM kaShAyakaTukAshrayAm |  
-parigR^ihya shubhAM vR^ittim etAM durjana varjitAm |  
-vana-vAsam upAshritya brAhmaNo nAvasIdati ||  
-mR^igaiH saha parispandaH saMvAsastebhir eva cha |  
-tair eva sadR^ishi vR^ittiH pratyaShaM svargalakShaNam ||  
-pratyakShaM svargalakShaNaM iti || BauSu 3.3.21-22
+kR^ichChrAM vR^ittim asaMhAryAM sAmAnyAM mR^igapakShibhiH \|  
+tad aharjana saMbhArAM kaShAyakaTukAshrayAM \|  
+parigR^ihya shubhAM vR^ittim etAM durjana varjitAM \|  
+vana-vAsam upAshritya brAhmaNo nAvasIdati \|\|  
+mR^igaiH saha parispandaH saMvAsastebhir eva cha \|  
+tair eva sadR^ishi vR^ittiH pratyaShaM svargalakShaNaM \|\|  
+pratyakShaM svargalakShaNaM iti \|\| BauSu 3.3.21-22
 
 These citations by baudhAyana appear to be from ancient lost texts which
 could very well be the precursor of the extant saMnyAsa upaniShad-s. It
@@ -190,14 +195,14 @@ From the earlier statement from the NpU it also becomes clear that even
 the vaiShNava parivrAjaka assumed mannerisms of the insane. That this
 was an ancient trait of the parivrAjaka-s in general is supported by a
 sUtra in the vasiShTha dharma sUtra describing their behavior:  
-anunmatta unmattveShaH | VaSu 10.19  
+anunmatta unmattveShaH \| VaSu 10.19  
 Though sane he puts on the appearance of the insane. This same statement
 is recycled repeatedly in various saMnyAsa texts like jAbAla upaniShad
 and NpU suggesting that it is from the Ur-parivrAjaka text. Another
 ancient saying pertaining to parivrAjaka-s that is widely quoted in
 multiple texts is:  
-saMmAnAd brAhmaNo nityam udvijeta viShAd iva |  
-amR^itasy eva chAkA\~NkShed avamAnasya sarvadA ||  
+saMmAnAd brAhmaNo nityam udvijeta viShAd iva \|  
+amR^itasy eva chAkA\~NkShed avamAnasya sarvadA \|\|  
 The brAhmaNa is always averse to honor like poison and like elixir longs
 for dishonor. As in the case of the pAshupata texts the vaiShNava NpU
 further adds how when the ascetic is reviled and tortured he attains
@@ -217,8 +222,8 @@ well before the emergence of lakulIsha in Hindu texts. This emblem is
 taken up by ascetics with a vedic mantra which is cited in many texts
 including saMnyAsa upaniShad-s and also the dharma sUtra-s (e.g. NpU 169
 or BauSu 2.17.32):  
-sakhA mA gopAya | ojah sakhAyo.asiindrasya vajro.asi vArtragnaH sharma
-me bhava yatpApaM tannivAraye ||  
+sakhA mA gopAya \| ojah sakhAyo.asiindrasya vajro.asi vArtragnaH sharma
+me bhavayatpApaM tannivAraye \|\|  
 Now it should be noted the daNDa taken by the ascetic is explicitly
 identified as the vajra of indra. Interesting, the Greek cognate uagros
 is used for the club of Herakles. Thus, even in this case it is not
@@ -272,7 +277,7 @@ Given their syncretic nature they equated rudra (as shrIkaNTha) the
 founder of the pAshupata system with Herakles. Their shaiva teachers
 appear to have absorbed the name, perhaps being struck by the
 convergence in terms of the lakuTa held by both and the phonetic analogy
-in Herakles\> lakulIsha. Thus, the figure lakulIsha emerged as an
+in Herakles> lakulIsha. Thus, the figure lakulIsha emerged as an
 incarnation of shiva and a founder of the pAshupata system. We note that
 many aspects of cynic philosophy, not just practices, arise from early
 atimArga shaiva thought and its larger parivrAjaka matrix and were
@@ -300,3 +305,4 @@ even in her college days one such va\~nchaka was already implanted in
 bhArata who was engaging in indoctrinating the gullible in the desh. But
 another student Thurman appears to be more sympathetic to our
 traditions.
+

@@ -1,8 +1,11 @@
 +++
-title = "On Svarog As Sky Father – The Indo-European Sky Father As Song-Smith Of Thexa0Cosmos"
-date = "September 4, 2020"
+title = "On Svarog As Sky Father – The Indo-European Sky Father As Song-Smith Of The Cosmos"
+date = "2020-09-04"
+upstream_url = "https://aryaakasha.com/2020/09/04/on-svarog-as-sky-father-the-indo-european-sky-father-as-song-smith-of-the-cosmos/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/09/04/on-svarog-as-sky-father-the-indo-european-sky-father-as-song-smith-of-the-cosmos/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/09/svarog_by_renokid_d9pmfkv-pre.jpg?w=740)
 
 In many ways, the enigmatic figure of Svarog is emblematic of both the

@@ -1,7 +1,13 @@
 +++
 title = "The Ara and the Arbelos"
+date = "2008-01-06"
+upstream_url = "https://manasataramgini.wordpress.com/2008/01/06/the-ara-and-the-arbelos/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/01/06/the-ara-and-the-arbelos/).
+
+
+
 [![](https://i2.wp.com/bp1.blogger.com/_hjuA1bE0hBw/R4AyVdBucsI/AAAAAAAAAA0/D0XmMUzLYF0/s320/Arbelos.jpg)](http://bp1.blogger.com/_hjuA1bE0hBw/R4AyVdBucsI/AAAAAAAAAA0/D0XmMUzLYF0/s1600-h/Arbelos.jpg)
 
 When I was young, I was fascinated by the blade held by the clobber and
@@ -90,3 +96,4 @@ which are tangential to each other and the lines from the former
 sentence, which are also tangential to the biggest circle to the
 arbelos. These two pairs of circles form a quadruplet which is congruent
 to the Archimedean twin circles.
+

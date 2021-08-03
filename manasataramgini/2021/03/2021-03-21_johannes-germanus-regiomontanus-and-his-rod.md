@@ -1,8 +1,11 @@
 +++
-title = "Johannes Germanus Regiomontanus and hisxa0rod"
+title = "Johannes Germanus Regiomontanus and his rod"
 date = "2021-03-21"
+upstream_url = "https://manasataramgini.wordpress.com/2021/03/21/johannes-germanus-regiomontanus-and-his-rod/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2021/03/21/johannes-germanus-regiomontanus-and-his-rod/).
+
 Even before we had become acquainted with the trigonometric sum and
 difference formulae or calculus are father had pointed to us that there
 was an optimal point at which one should stand to observe or photograph

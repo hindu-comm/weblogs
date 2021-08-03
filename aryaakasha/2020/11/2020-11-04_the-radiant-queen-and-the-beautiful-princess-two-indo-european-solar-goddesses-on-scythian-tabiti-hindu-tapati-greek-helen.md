@@ -1,8 +1,11 @@
 +++
-title = "The Radiant Queen and the Beautiful Princess – Two Indo-European Solar Goddesses – On Scythian Tabiti, Hindu Tapati, Greekxa0Helen"
-date = "November 4, 2020"
+title = "The Radiant Queen and the Beautiful Princess – Two Indo-European Solar Goddesses – On Scythian Tabiti, Hindu Tapati, Greek Helen"
+date = "2020-11-04"
+upstream_url = "https://aryaakasha.com/2020/11/04/the-radiant-queen-and-the-beautiful-princess-two-indo-european-solar-goddesses-on-scythian-tabiti-hindu-tapati-greek-helen/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/11/04/the-radiant-queen-and-the-beautiful-princess-two-indo-european-solar-goddesses-on-scythian-tabiti-hindu-tapati-greek-helen/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/11/cccb53160905e89fc63b08ae29ded2dc-1.jpg?w=699)
 
 I think by now that many would agree that if a little knowledge is a

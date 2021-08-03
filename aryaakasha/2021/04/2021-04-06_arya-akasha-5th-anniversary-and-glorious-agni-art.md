@@ -1,8 +1,11 @@
 +++
-title = "Arya Akasha 5th Anniversary – And Glorious Agni Artxa0!"
-date = "April 6, 2021"
+title = "Arya Akasha 5th Anniversary – And Glorious Agni Art !"
+date = "2021-04-06"
+upstream_url = "https://aryaakasha.com/2021/04/06/arya-akasha-5th-anniversary-and-glorious-agni-art/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/04/06/arya-akasha-5th-anniversary-and-glorious-agni-art/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/04/167907904_10165008545305574_3125014913805572386_n.jpg?w=1024)
 
 The 6th of April marks the Anniversary of Arya Akasha – both of the

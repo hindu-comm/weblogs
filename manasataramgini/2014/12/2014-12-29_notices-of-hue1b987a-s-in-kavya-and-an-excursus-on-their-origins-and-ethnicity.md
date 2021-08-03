@@ -1,7 +1,11 @@
 +++
 title = "Notices of Hūṇa-s in kāvya and an excursus on their origins and ethnicity"
+date = "2014-12-29"
+upstream_url = "https://manasataramgini.wordpress.com/2014/12/29/notices-of-hu%e1%b9%87a-s-in-kavya-and-an-excursus-on-their-origins-and-ethnicity/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/12/29/notices-of-hu%e1%b9%87a-s-in-kavya-and-an-excursus-on-their-origins-and-ethnicity/).
+
 This article was originally published in a slightly modified form at
 [IndiaFacts](http://indiafacts.co.in/tracing-huns-sanskrit-kavyatradition/#.VKDfH14APM).
 
@@ -91,17 +95,17 @@ people who were known as Hūṇa-s to the Hindus.
 
 The verse, found in subhāṣita collections goes thus:  
 udgarbha-hūṇa-taruṇī-ramaṇopamarda-bhugnonnata-stana-niveśa-nibhaṃ
-himāṃśoḥ |  
+himāṃśoḥ \|  
 bimbaṃ kaṭhora-bisa-kāṇḍa-kaḍāra-gaurair-viṣṇoḥ padaṃ
-prathamam-agra-karair-vyanakti ||
+prathamam-agra-karair-vyanakti \|\|
 
 udgarbha= pregnant; hūṇa-taruṇī= young Hun woman; ramaṇa= lover;
 upamarda=fondled; bhugna= pressed; unnata= full; stana= breast;
-niveśa-nibhaṃ=as though dented; himāṃśoḥ= of the icy-rayed (moon) |  
+niveśa-nibhaṃ=as though dented; himāṃśoḥ= of the icy-rayed (moon) \|  
 bimbaṃ= orb; kaṭhora=mature; bisa= lotus; kāṇḍa= stem; kaḍāra=
 yellowish; gaurair= white (instrumental); viṣṇoḥ= of viShNu; padaṃ=
 step; prathamam= first; agra-karair= with its first rays; vyanakti= to
-make visible ||
+make visible \|\|
 
 Thus, one may translate it as:
 
@@ -164,25 +168,24 @@ Kekaya-s, Kaṃbhoja-s, Bāhlika-s, Turuṣka-s (Turks) and Tuṣāra-s
 (Tocharians) and Mārgara-s (Magyar tribe of Huns). The great Kālidāsa
 also makes a specific mention of the Huns in his account of the Ikṣvāku
 emperor, Raghu’s digvijaya. After his conquest of the Iranians
-(Pārasika), Raghu is described as heading north to invade the Hun
-lands:
+(Pārasika), Raghu is described as heading north to invade the Hun lands:
 
-tataḥ pratasthe kauberīṃ bhāsvān iva raghur diśam |  
-śarair usrair ivodīcyān uddhariṣyam rasān iva ||
+tataḥ pratasthe kauberīṃ bhāsvān iva raghur diśam \|  
+śarair usrair ivodīcyān uddhariṣyam rasān iva \|\|
 
 From there \[i.e. after defeating the Iranians\] Raghu proceeded to the
 direction of Kubera to uproot with his arrows the northerners as the sun
 to vaporize the northern waters \[during uttarāyaṇa\]
 
-vinītādhva-śramās tasya vaṅkṣu-tīra-viceṣṭanaiḥ |  
-dudhuvur vājinaḥ skandhāṃl lagna-kuṅkuma-kesarān ||
+vinītādhva-śramās tasya vaṅkṣu-tīra-viceṣṭanaiḥ \|  
+dudhuvur vājinaḥ skandhāṃl lagna-kuṅkuma-kesarān \|\|
 
 The horses tired from the march of his cavalry rolled on the banks of
 the Oxus (Amu Darya) and they shook off the saffron flower stigmas
 adhered to their shoulders.
 
-tatra hūṇāvarodhānāṃ bhartṛśu vyakta-vikramam |  
-kapola-pāṭalādeśi babhūva raghu-ceṣṭitam || RAGHUVAṂŚA 4.66-68
+tatra hūṇāvarodhānāṃ bhartṛśu vyakta-vikramam \|  
+kapola-pāṭalādeśi babhūva raghu-ceṣṭitam \|\| RAGHUVAṂŚA 4.66-68
 
 There, Raghu’s valor directed against the husbands in his attack caused
 the cheeks of the \[women\] of the Hun harem to become crimson.
@@ -195,10 +198,10 @@ mentioned as a custom among the Huns by the Latin poet Sidonius. It has
 also been recorded among the Magyar ancestors of the Hungarians.
 \[Footnote 5 \]. This suggests that Hindu poets had specific information
 about the Huns. It goes on to support our contention that
-Aparājita-rakṣita’s metaphor was likely based on fact. Taken
-together, these observations of the Hindu poets add further points to
-support the cultural and at least partial ethnic continuity of the Huns
-who invaded China, India and the West.
+Aparājita-rakṣita’s metaphor was likely based on fact. Taken together,
+these observations of the Hindu poets add further points to support the
+cultural and at least partial ethnic continuity of the Huns who invaded
+China, India and the West.
 
 Finally, one may ask how this squares with the Iranic names we encounter
 among the Hūṇa-s associated with Bhārata and Iran. In reality the
@@ -245,8 +248,8 @@ Chinese sources.
 
 Footnote 4: Verse 8 of the Bhitari red sandstone pillar inscription of
 the great Gupta ruler Skandagupta mentions the fierce battle with the
-Hūṇa-s and his bow in that encounter is compared with the bow of the
-god Viṣṇu.
+Hūṇa-s and his bow in that encounter is compared with the bow of the god
+Viṣṇu.
 
 Footnote 5: “The world of the Huns: Studies in their history and
 culture” by O. J. Maenchen-Helfen.
@@ -254,3 +257,4 @@ culture” by O. J. Maenchen-Helfen.
 Footnote 6: A western Eurasian male is found in 2000-year-old elite
 Xiongnu cemetery in Northeast Mongolia. Kim K et. al. Am J Phys
 Anthropol. 2010 Jul;142(3):429-40. doi: 10.1002/ajpa.21242.
+

@@ -1,8 +1,11 @@
 +++
-title = "Out Of Context Quotes And DevaRajya Uber Alles From Thexa0Iliad"
-date = "December 8, 2019"
+title = "Out Of Context Quotes And DevaRajya Uber Alles From The Iliad"
+date = "2019-12-08"
+upstream_url = "https://aryaakasha.com/2019/12/08/out-of-context-quotes-and-devarajya-uber-alles-from-the-iliad/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/12/08/out-of-context-quotes-and-devarajya-uber-alles-from-the-iliad/).
+
 ![](https://aryaakasha.files.wordpress.com/2019/12/78821581_10162655734350574_9174682290427527168_o.jpg?w=1003)
 
 Now this is something interesting to me. Recently, I heard a quotation –

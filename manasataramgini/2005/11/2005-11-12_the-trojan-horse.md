@@ -1,7 +1,11 @@
 +++
 title = "The Trojan horse?"
+date = "2005-11-12"
+upstream_url = "https://manasataramgini.wordpress.com/2005/11/12/the-trojan-horse/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/11/12/the-trojan-horse/).
+
 With the fall of general Wright, the Hindu armies employed a new trainer
 in the form of the roguish chief from Southern Saxony, Chappell. we have
 long known Chappell to be an abrasive character, who has always had his
@@ -10,3 +14,4 @@ the brave Andhra grenadier from Vangipura. We believe that the
 Anglo-Saxon is a Trojan horse sent by the king of the Southern Whites to
 ruin the Hindu armies. We suspect that he might be a plant to spoil the
 Hindu performance by his policies of targeted disruption and deletion.
+

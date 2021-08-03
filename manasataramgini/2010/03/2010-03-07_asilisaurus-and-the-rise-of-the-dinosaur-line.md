@@ -1,7 +1,11 @@
 +++
 title = "Asilisaurus and the rise of the dinosaur line"
+date = "2010-03-07"
+upstream_url = "https://manasataramgini.wordpress.com/2010/03/07/asilisaurus-and-the-rise-of-the-dinosaur-line/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/03/07/asilisaurus-and-the-rise-of-the-dinosaur-line/).
+
 In the days of my youth a clansman visiting from England had given me a
 set of pamphlets from the British Natural History museum which described
 among other things the work of the English paleontologist Charig in
@@ -39,7 +43,7 @@ ornithosuchids (e.g. *Ornithosuchus* and *Riojasuchus*), fast-running
 gracile crocodiles like *Erpetosuchus*, the poposaurs which come in two
 forms, namely the sail-backed ctenosauriscids and
 ornithomimosaur-mimics, the shuvosaurids (e.g. *Effigia*: should they be
-called ornithomimosauromimids \!), armored aetosaurs (recently described
+called ornithomimosauromimids !), armored aetosaurs (recently described
 at length by Parker et al), the aquatic *Qianosuchus*, the ornithischian
 mimic *Revueltosaurus* and perhaps also the convergently crocodile-like
 phytosaurs. On the other hand the dinosaur-line and the pterosaurs have
@@ -90,7 +94,7 @@ the first archosauriform. The crown was soon to pass to the descendents
 of this lineage. After the P/T event the anomodonts like Lystrosaurus
 survived to populate the world but faced stiff competition from the
 archosauromorphs, the rhynchosaurs. Among the carnivores the mammal-line
-eventually lost their dominance to the rising archosauriforms.
+eventually lost theirdominance to the rising archosauriforms.
 
 Immediately, after the P/T event we see that forms very similar to
 Archosaurus were growing in size and expanding to achieve global
@@ -195,13 +199,14 @@ wave that further radiated from the early radiation of primitive
 archosauriforms. The nature of this radiation is poorly understood –
 certain fragmentary Russian fossils provide tantalizing hints of the
 beginning of this radiation. “Tsylmosuchus” samariensis (Induan) and
-“Tsylmosuchus” jakovlevi (early Olenekian) could be early members of
-the crocodile line. Likewise two other Russian forms
-Vytshegdosuchus(late Olenekian) and Donguschus (Anisian) might also be
-early members of the crocodile line. Thus, there is some (not yet solid)
-evidence that the crown group archosaurs might go back to the earliest
-age of the Triassic, though most evidence points to the crocodile line.
-However, the dinosaur line was all this time probably small in size and
-perhaps not very numerous (?).
+“Tsylmosuchus” jakovlevi (early Olenekian) could be early members of the
+crocodile line. Likewise two other Russian forms Vytshegdosuchus(late
+Olenekian) and Donguschus (Anisian) might also be early members of the
+crocodile line. Thus, there is some (not yet solid) evidence that the
+crown group archosaurs might go back to the earliest age of the
+Triassic, though most evidence points to the crocodile line. However,
+the dinosaur line was all this time probably small in size and perhaps
+not very numerous (?).
 
 continued…
+

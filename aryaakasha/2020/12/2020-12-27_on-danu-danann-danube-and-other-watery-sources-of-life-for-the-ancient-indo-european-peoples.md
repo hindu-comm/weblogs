@@ -1,8 +1,11 @@
 +++
-title = "On Danu , Danann , Danube , And Other Watery Sources Of Life For The Ancient Indo-Europeanxa0Peoples"
-date = "December 27, 2020"
+title = "On Danu , Danann , Danube , And Other Watery Sources Of Life For The Ancient Indo-European Peoples"
+date = "2020-12-27"
+upstream_url = "https://aryaakasha.com/2020/12/27/on-danu-danann-danube-and-other-watery-sources-of-life-for-the-ancient-indo-european-peoples/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/12/27/on-danu-danann-danube-and-other-watery-sources-of-life-for-the-ancient-indo-european-peoples/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/12/ernalda.jpg?w=350)
 
 \[Author’s Note: This is an excerpt from my recent ‘The Queen of

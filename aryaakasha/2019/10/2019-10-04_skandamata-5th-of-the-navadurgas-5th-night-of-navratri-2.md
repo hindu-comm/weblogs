@@ -1,8 +1,11 @@
 +++
-title = "SkandaMata – 5th of the NavaDurgas, 5th Night ofxa0NavRatri"
-date = "October 4, 2019"
+title = "SkandaMata – 5th of the NavaDurgas, 5th Night of NavRatri"
+date = "2019-10-04"
+upstream_url = "https://aryaakasha.com/2019/10/04/skandamata-5th-of-the-navadurgas-5th-night-of-navratri-2/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/10/04/skandamata-5th-of-the-navadurgas-5th-night-of-navratri-2/).
+
 # ![21764951_10159392152045574_1400551655057635201_n](https://aryaakasha.files.wordpress.com/2018/10/21764951_10159392152045574_1400551655057635201_n.jpg?w=676)
 
 The Fifth Night of #NavRatri is dedicated to Ma as SkandaMata – the

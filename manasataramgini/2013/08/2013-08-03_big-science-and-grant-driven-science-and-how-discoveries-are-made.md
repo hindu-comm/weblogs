@@ -1,7 +1,11 @@
 +++
 title = "Big science and grant-driven science and how discoveries are made"
+date = "2013-08-03"
+upstream_url = "https://manasataramgini.wordpress.com/2013/08/03/big-science-and-grant-driven-science-and-how-discoveries-are-made/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/08/03/big-science-and-grant-driven-science-and-how-discoveries-are-made/).
+
 When we were young some we had made some scientific discoveries that we
 described to the elders around us. They were unable to make any sense of
 it but had an intuitive feel that there might be something to our
@@ -48,8 +52,7 @@ all the facts concerning PS1. Popper called this the error elimination
 (EE1) step. Then new observations might produce a new problem situation
 PS2 that challenge the theory (Ti) which survived EE1 and the process
 iteratively continues –  
-`  PS1-> [TT1..n]-|EE1|->Ti-[new observations]->PS2
-^----------------------------------------------' `
+` PS1-> [TT1..n]-|EE1|->Ti-[new observations]->PS2 ^----------------------------------------------'`
 
 As a classic illustration of this problem people often cite the
 development of modern physics. The need to explain the heliocentric
@@ -378,7 +381,7 @@ discoveries even though Mullis himself did not make any of those
 discoveries.
 
 Propensity for these archetypes also show sex-specific differences:
-Women are infrequent in all categories except 5 where in certain types
+Women are infrequent in all categories except 5where in certain types
 of actions they might be more common than men. Women can also be capable
 in certain aspects of 1 and 2 especially in sciences such as cognitive
 science and astronomy. This stems from the biological difference in the
@@ -478,10 +481,10 @@ If you really want to study a whole lot of things you need to write
 several different grants to different agencies, which as mentioned above
 takes time away from doing real science. Thus, you see the emergence of
 numerous myopic scientists who do not know anything beyond their own
-“model” system. This malaise is particularly bad in biology where it
-is not out of place to encounter a scientist (and this is from real
+“model” system. This malaise is particularly bad in biology where it is
+not out of place to encounter a scientist (and this is from real
 experience with a highly respected scientist from England) who asked us:
-What is *Giardia*, is that a fungus (\!). Now this scientist by means of
+What is *Giardia*, is that a fungus (!). Now this scientist by means of
 inter-personal skills publishes (or rather repeats what others have
 already done) high-sounding claims in what are considered respectable
 journals. Now, if you do not know what *Giardia* is how can we be sure
@@ -501,3 +504,4 @@ not to fit into the paradigms of grant-driven science. However, it the
 topic for a [different
 discussion](https://manasataramgini.wordpress.com/2013/04/15/the-euro-american-academic-system-few-more-thoughts/)
 which we had begun but have not yet completed.
+

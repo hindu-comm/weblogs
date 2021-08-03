@@ -1,10 +1,14 @@
 +++
 title = "Delusions"
+date = "2006-01-12"
+upstream_url = "https://manasataramgini.wordpress.com/2006/01/12/delusions/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/01/12/delusions/).
+
 It is fashionable these days for some parents to describe their
 daughters by the following terms:  
-1\) Modern 2) Forward 3) City-type 4) Progressive 5) Modern but Indian.
+1) Modern 2) Forward 3) City-type 4) Progressive 5) Modern but Indian.
 6) Modern but Spiritual. The simple message is that one must be beware
 of such women- they are verily living graveyards for the deluded.
 
@@ -29,3 +33,4 @@ to wallow in shallow thoughts, cheap entertainment and low-grade humor.
 
 As a result the average deluded Hindu youth of today is not a pleasant
 company
+

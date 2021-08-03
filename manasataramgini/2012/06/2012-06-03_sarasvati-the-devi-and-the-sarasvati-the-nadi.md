@@ -1,11 +1,15 @@
 +++
 title = "sarasvatI the devI and the sarasvatI the nadI"
+date = "2012-06-03"
+upstream_url = "https://manasataramgini.wordpress.com/2012/06/03/sarasvati-the-devi-and-the-sarasvati-the-nadi/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/06/03/sarasvati-the-devi-and-the-sarasvati-the-nadi/).
+
 masitãm dûrât frasrûtãm ýâ asti avavaiti   
 masô ýatha vîspå imå âpô ýå zemâ paiti frataciñti  
 ýâ amavaiti fratacaiti hukairyât haca barezanghat aoi zrayô vouru-kashem
-||
+\|\|
 
 The large river, known afar, that is as large as the whole of the waters
 that run along the earth; that runs powerfully from the height hukairya
@@ -15,7 +19,7 @@ down to the sea vouru-kasha.
 ýat hîsh aoi fratacaiti ýat hîsh aoi frazhgaraiti aredvî sûra anâhitâ,  
 ýenghe hazangrem vairyanãm hazangrem apakhzhâranãm,  
 kascitca aêshãm vairyanãm kascitca aêshãm apakhzhâranãm  
-cathware-satem ayare-baranãm hvaspâi naire baremnâi ||
+cathware-satem ayare-baranãm hvaspâi naire baremnâi \|\|
 
 All the shores of the sea vouru-kasha are boiling over, all the middle
 of it is boiling over, when she runs down there, when she streams down
@@ -27,27 +31,28 @@ ainghåsca mê aêvanghå âpô apakhzhârô vî-jasâiti vîspâish aoi karshv�
 ýâish hapta,  
 ainghåsca mê aêvanghå âpô hamatha ava-baraiti hãminemca zayanemca,  
 hâ-mê âpô ýaozhdadhâiti hâ arshnãm xshudrå hâ xshathrinãm garewãn hâ
-xshathrinãm paêma || yaShT 5.3-5
+xshathrinãm paêma \|\| yaShT 5.3-5
 
 From this river of mine alone flow all the waters that spread all over
 the seven Karshvares; this river of mine alone goes on bringing waters,
 both in summer and in winter. This river of mine purifies the seed in
 males, the womb in females the milk in females’ breasts.
 
-ambitame nadItame devitame sarasvati |  
-aprashastA iva smasi prashastim amba nas kR^idhi ||
+ambitame nadItame devitame sarasvati \|  
+aprashastA iva smasi prashastim amba nas kR^idhi \|\|
 
 Best mother, best of rivers, best of goddesses, sarasvati; We are,as
 though without praise, O mother, make us praised.
 
-tve vishvA sarasvati shritAyUMShi devyAm |  
-shunahotreShu matsva prajAM devi didiDDhi naH ||
+tve vishvA sarasvati shritAyUMShi devyAm \|  
+shunahotreShu matsva prajAM devi didiDDhi naH \|\|
 
 In you, O goddess sarasvati, all lives are situated; be, pleased with
 shunahotra-s; O goddess grant us progeny.
 
-imA brahma sarasvati juShasva vAjinIvati |  
-yA te manma gR^itsamadA R^itAvari priyA deveShu juhvati || RV 2.41.16-18
+imA brahma sarasvati juShasva vAjinIvati \|  
+yA te manma gR^itsamadA R^itAvari priyA deveShu juhvati \|\| RV
+2.41.16-18
 
 Rich in vigor, O sarasvati, be pleased with these incantations of ours;
 the mental creations which the gR^itsamada-s dear to the gods bring to
@@ -58,7 +63,7 @@ descendents of the ancestral proto-Indo-European trans-functional
 goddess. They retain practically all the features of this ancestral
 goddess, some of which might be muted or redistributed among the
 European branches of the Indo-European tree:  
-1\) She is a regal or warrior goddess: This trait is very clear in the
+1) She is a regal or warrior goddess: This trait is very clear in the
 Vedic sarasvatI and the Iranian anAhitA, a trait, which in India,
 continues strongly in the later hypertrophy of the trans-functional
 goddess in the traditions of the purANa-s and the tantra-s. In the Greek
@@ -73,7 +78,7 @@ goddess Brigantia.
 
 2\) Most importantly she is a goddess of water and moisture: In the
 world of the Arya-s this is emphasized by her name sarasvatI – full of
-ponds (PIE seles-\>saras) and among the Iranians by the term aredvI
+ponds (PIE seles->saras) and among the Iranians by the term aredvI
 meaning moisture. This is also preserved in Greece in the form of the
 epithets of Athena like Herse which means dew-giver. Likewise, her
 epithet Glaucopis is explained as being the one who pours water from the
@@ -97,16 +102,16 @@ Now, the 10th maNDala of the R^igveda contains a famous sUkta that
 contains a list of rivers that every practicing Arya utters during his
 bathing rituals to this date:
 
-imaM me ga\~Nge yamune sarasvati shutudri stomaM sachatA paruShNy A |  
-asiknyA marudvR^idhe vitastayArjIkIye shR^iNuhy A suShomayA ||
+imaM me ga\~Nge yamune sarasvati shutudri stomaM sachatA paruShNy A \|  
+asiknyA marudvR^idhe vitastayArjIkIye shR^iNuhy A suShomayA \|\|
 
 Be pleased with my laud, O ga\~NgA, yamunA, sarasvati, shutudri, and
 paruShNi;  
 with asikni, marudvR^idha, vitastA, ArjIkI and suShomA hear \[me\].
 
-tR^iShTAmayA prathamaM yAtave sajUH susartvA rasayA shvetyA tyA |  
-tvaM sindho kubhayA gomatIM krumum mehatnvA sarathaM yAbhir Iyase || RV
-10.75.5-6
+tR^iShTAmayA prathamaM yAtave sajUH susartvA rasayA shvetyA tyA \|  
+tvaM sindho kubhayA gomatIM krumum mehatnvA sarathaM yAbhir Iyase \|\|
+RV 10.75.5-6
 
 First with tR^iShTAma you rapidly flow forth, with susartu and rasA with
 shvetI here,  
@@ -140,8 +145,8 @@ separate river; hence, ArjIki is more likely to be Haro.
 
 In the second R^ik we have:  
 tR^iShTAma (Tochi?) – susartu (Kunar) – rasa (Panjkora?) – shvetI
-(Swat)– sindhu (Indus) – kubha (Kabul) – gomati (Gomal) – krumu
-(Kurrum) – mehatnu (Bara?).
+(Swat)– sindhu (Indus) – kubha (Kabul) – gomati (Gomal) – krumu (Kurrum)
+– mehatnu (Bara?).
 
 Here Indus is named along with its west bank tributary system. In this
 case, the identity of some of the RV rivers with the modern streams is
@@ -568,8 +573,9 @@ if there are any preservational anomalies.
 
 ………………….  
 References  
-1\) Clift PD, et al. (2012) U-Pb zircon dating evidence for a
-Pleistocene Sarasvati River and  
+1) Clift PD, et al. (2012) U-Pb zircon dating evidence for a Pleistocene
+Sarasvati River and  
 Capture of the Yamuna River. Geology 40:211–214.  
-2\) Giosan L, et al. Fluvial landscapes of the Harappan civilization;
+2) Giosan L, et al. Fluvial landscapes of the Harappan civilization;
 <http://www.pnas.org/cgi/doi/10.1073/pnas.1112743109>
+

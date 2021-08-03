@@ -1,7 +1,11 @@
 +++
 title = "Aptitude, education, the ape and politics"
+date = "2012-02-17"
+upstream_url = "https://manasataramgini.wordpress.com/2012/02/17/aptitude-education-the-ape-and-politics/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/02/17/aptitude-education-the-ape-and-politics/).
+
 The yogin experiences, but at the height of his practice there is
 neither object nor subject in his experience. The kavi experiences, and
 in the pinnacle of his practice his world is unified under increasingly
@@ -9,10 +13,10 @@ robust ontologies. When he attains mastery he becomes an AchArya who
 expounds shAstra-s. Indeed the great indra bestows on few the profound
 shAstra-s as that is indra himself. Hence, the kavi states:
 
-yash ChandasAm R^iShabho vishvarUpaH |  
-Chandobhyo .adhyamR^itAt saMbabhUva ||  
-sa mendro medhayA spR^iNotu |  
-amR^itasya deva dhAraNo bhUyAsam ||
+yash ChandasAm R^iShabho vishvarUpaH \|  
+Chandobhyo .adhyamR^itAt saMbabhUva \|\|  
+sa mendro medhayA spR^iNotu \|  
+amR^itasya deva dhAraNo bhUyAsam \|\|
 
 The old thinkers of our tradition had opined that vidyA lies at the
 junction between the AchArya and the antevAsin. But the adhyAyin has to
@@ -76,7 +80,8 @@ by the old dharma-shAstra-s is seen as a horrible perversion. In
 contrast, the ideals of secularism, modernism, egalitarianism and
 blindness to sex, inter-individual and inter-ethnicity differences are
 seen as superb guiding principles. The great kAlidAsa had said:  
-purANam ity eva na sAdhu sarvam | na chApi kAvyaM navam ity avidyam ||  
+purANam ity eva na sAdhu sarvaM \| na chApi kAvyaM navam ity avidyaM
+\|\|  
 Yet, before adopting the navam shAstraM and discarding the purANaM we
 must apply the tests to check out their relative robustness. For this
 just as the yogin strives for to excavate the basis of the experiential
@@ -85,3 +90,4 @@ existence. This can only be done when he seeks to answer: Why is this
 human ape so constructed?
 
 Continued …
+

@@ -1,8 +1,11 @@
 +++
-title = "Polytheism, Over-Divinity, And Drama Amidst The Divine Council – Some Brief Answers To Some Foundational Indo-European Theologicalxa0Questions"
-date = "February 4, 2021"
+title = "Polytheism, Over-Divinity, And Drama Amidst The Divine Council – Some Brief Answers To Some Foundational Indo-European Theological Questions"
+date = "2021-02-04"
+upstream_url = "https://aryaakasha.com/2021/02/04/polytheism-over-divinity-and-drama-amidst-the-divine-council-some-brief-answers-to-some-foundational-indo-european-theological-questions/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/02/04/polytheism-over-divinity-and-drama-amidst-the-divine-council-some-brief-answers-to-some-foundational-indo-european-theological-questions/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/02/27033300_1.jpg?w=500)
 
 I was asked the question: “can you explain how you can have multiple

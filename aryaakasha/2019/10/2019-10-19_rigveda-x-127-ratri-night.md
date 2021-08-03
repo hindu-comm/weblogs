@@ -1,8 +1,11 @@
 +++
-title = "RigVeda X 127 – Ratrixa0(Night)"
-date = "October 19, 2019"
+title = "RigVeda X 127 – Ratri (Night)"
+date = "2019-10-19"
+upstream_url = "https://aryaakasha.com/2019/10/19/rigveda-x-127-ratri-night/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/10/19/rigveda-x-127-ratri-night/).
+
 ![72762940_467159610563035_8671574640327393280_n](https://aryaakasha.files.wordpress.com/2019/10/72762940_467159610563035_8671574640327393280_n.jpg?w=676)
 
 \[There are many mentions for Ratri Devi in the verses of the RigVeda;

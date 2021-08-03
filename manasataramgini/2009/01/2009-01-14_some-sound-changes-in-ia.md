@@ -1,7 +1,11 @@
 +++
 title = "Some sound changes in IA"
+date = "2009-01-14"
+upstream_url = "https://manasataramgini.wordpress.com/2009/01/14/some-sound-changes-in-ia/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/01/14/some-sound-changes-in-ia/).
+
 Some neo-Indo-Aryan languages sound unusual to us because they are not
 our native tongue and very “discordant” with respect to saMskR^ita.
 Hence, those “funny” words sort of make us sit up and try to figure out
@@ -12,14 +16,14 @@ which probably included marAThI, gujarAtI and ko\~NkaNI diverged from
 its ancestor.
 
 |                 |             |              |             |
-| :-------------: | :---------: | :----------: | :---------: |
+|:---------------:|:-----------:|:------------:|:-----------:|
 |  **Sanskrit**   | **Marathi** | **Gujarati** | **meaning** |
 |     *ikShu*     |     Us      |      Us      |  sugarcane  |
 | *upalakShayati* |   oLakhne   | oLakhvu\~.n  |  recognize  |
 |    *kShaNa*     |     saN     |     khaN     |  festival   |
 
 Thus even as marAThi and gujarAti-s ancestors broke off from the more
-northern radiations there was an unusual kSh\>s transition, with his
+northern radiations there was an unusual kSh>s transition, with his
 change apparently happening to a greater degree to the South i.e. in
 marAThi.  
 Now a semantic question why does saMskR^ita kShaNa give rise to saN/khan
@@ -30,3 +34,4 @@ that festivals were marked by the instant or moment of the moon entering
 a certain nakShatra or attaining a certain tithi or the holy muhUrta, it
 appears that word kShaNa in a calendrical sense became equated with
 festival in this southern Indo-Aryan branch.
+

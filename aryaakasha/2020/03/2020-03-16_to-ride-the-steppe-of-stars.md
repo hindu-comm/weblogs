@@ -1,8 +1,11 @@
 +++
-title = "To Ride The Steppe Ofxa0Stars"
-date = "March 16, 2020"
+title = "To Ride The Steppe Of Stars"
+date = "2020-03-16"
+upstream_url = "https://aryaakasha.com/2020/03/16/to-ride-the-steppe-of-stars/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/03/16/to-ride-the-steppe-of-stars/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/03/89774889_10163138553235574_7521721073809752064_o.jpg?w=1024)
 
 So one of the more … unexpected-yet-then-falls-into-place concepts I’ve

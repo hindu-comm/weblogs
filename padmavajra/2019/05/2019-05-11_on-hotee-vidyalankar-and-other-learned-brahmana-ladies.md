@@ -1,8 +1,11 @@
 +++
-title = "On Hotee Vidyalankar and other learned brAhmaNaxa0ladies"
-date = "2019-05-11"
+title = "On Hotee Vidyalankar and other learned brAhmaNa ladies"
+date = "2019-11-05"
+upstream_url = "https://padmavajra.net/2019/05/11/on-hotee-vidyalankar-and-other-learned-brahmana-ladies/"
 
 +++
+Source: [here](https://padmavajra.net/2019/05/11/on-hotee-vidyalankar-and-other-learned-brahmana-ladies/).
+
 Copying from Halley Gowami because some things deserve a more permanent
 media than a Facebook post
 

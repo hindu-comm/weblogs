@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "November 11, 2020"
+date = "2020-11-11"
+upstream_url = "https://vriitrahan.wordpress.com/2020/11/11/sakuntala/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2020/11/11/sakuntala/).
+
 There is an encanting description of Rājā duṣyanta meeting śakuntalā in
 the mahābhārata. Let’s peek at it, along with some excerpts on imagery
 in the scene, some idioms and origins of two words. The entire source of

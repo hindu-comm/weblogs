@@ -1,8 +1,11 @@
 +++
 title = "ekAdashI differnces:A conversation"
-date = "2019-01-02"
+date = "2019-02-01"
+upstream_url = "https://padmavajra.net/2019/01/02/ekadashi-differncesa-conversation/"
 
 +++
+Source: [here](https://padmavajra.net/2019/01/02/ekadashi-differncesa-conversation/).
+
 A:So,ekAdashI should not be observed if it is ‘viddha'(mixed with
 dashami/similar stuff)?  
 B:Difference of opinion between smArtas and vaiShNavas.vaiShNavas look

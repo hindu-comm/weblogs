@@ -1,7 +1,11 @@
 +++
 title = "How many men were around?"
+date = "2010-04-02"
+upstream_url = "https://manasataramgini.wordpress.com/2010/04/02/how-many-men-were-around/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/04/02/how-many-men-were-around/).
+
 A few years back we had a dispatch on the evolution of the great apes of
 Africa (including ourselves). We are now revisiting this topic inspired
 by an unexpected recently reported find – the Denisova hominin (to which
@@ -17,8 +21,7 @@ these morphotypes is incompletely understood.
 
 Skulls of great apes currently placed in the clade Homo
 
-![](https://i2.wp.com/lh4.ggpht.com/_hjuA1bE0hBw/S67UZw1OZ5I/AAAAAAAABW0/rgI6V2tfb84/Untitled.jpg
-"kapAla mAla")
+![](https://i2.wp.com/lh4.ggpht.com/_hjuA1bE0hBw/S67UZw1OZ5I/AAAAAAAABW0/rgI6V2tfb84/Untitled.jpg "kapAla mAla")
 
 Formerly, it was customary to place some of the morphotypes as distinct
 “chronospecies” having an ancestor-descendent relationship: H.habilis
@@ -84,8 +87,8 @@ evolution of Homo: How many waves came out of Africa and what were the
 interactions between them. Different lines of evidence give slightly
 different answers and the differences in the details are of some
 significance:  
-\-Paleontological studies suggest that there were the following waves
-out of Africa: 1) Homo erectus, who is seen in Asia in the form of the
+-Paleontological studies suggest that there were the following waves out
+of Africa: 1) Homo erectus, who is seen in Asia in the form of the
 Peking Man and the Java Man. This wave is believed to have first left
 Africa around 1.9 Mya and persisted in Java as a distinct species till
 around till between 30-50 Kya. Thus at least in Indonesia H.sapiens
@@ -112,7 +115,7 @@ relationships between upper Paleolithic H.sapiens populations suggested
 by the Hofmeyr Man from South Africa who displays some primitive
 features with respect to the waves out of Africa?
 
-\-The use of genetic evidence to derive a picture of human evolution has
+-The use of genetic evidence to derive a picture of human evolution has
 been fraught with controversy. In my personal opinion the statistical
 frame developed by Templeton provides a means of addressing this problem
 using haplotype data. After one works through his algebra and statistics
@@ -146,3 +149,4 @@ While Templeton’s argument is rather clear there have been
 counter-arguments to this genetic picture.
 
 continued…
+

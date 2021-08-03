@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "February 22, 2021"
+date = "2021-02-22"
+upstream_url = "https://vriitrahan.wordpress.com/2021/02/22/past-tenses-of-vedic-sa%e1%b9%83sk%e1%b9%9bta-part-i/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2021/02/22/past-tenses-of-vedic-sa%e1%b9%83sk%e1%b9%9bta-part-i/).
+
 The functions of the past tense in the indicative mood of the verbal
 stems of the earliest layers of the vedic language is one of the most
 daunting tasks at hand. Right before I begin, I must admit that this

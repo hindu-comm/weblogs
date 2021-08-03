@@ -1,7 +1,13 @@
 +++
 title = "memories arising from the padmAvatI stones"
+date = "2006-09-24"
+upstream_url = "https://manasataramgini.wordpress.com/2006/09/24/memories-arising-from-the-padmavati-stones/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/09/24/memories-arising-from-the-padmavati-stones/).
+
+
+
 [![](https://i0.wp.com/photos1.blogger.com/blogger/2010/410/320/padmavati2.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/padmavati2.jpg)
 
 As mentioned earlier in my explorations of the maharaTTa country with
@@ -22,17 +28,18 @@ Deccan in the early medieaval period.
 So what her origins? We get a clue for this in the archaic section of
 the gobhila smR^iti (1.11-12) that mentions that 13 mothers are
 worshiped:  
-1\) gaurI (wife of rudra) 2) padmAvatI 3) shachI (wife of indra) 4) & 5)
+1) gaurI (wife of rudra) 2) padmAvatI 3) shachI (wife of indra) 4) & 5)
 medhA and sAvitrI (the sarasvatI derived “veda” goddesses) 6) & 7) jayA
 and vijayA 8) devasenA (wife of skanda) 9) & 10) svAhA and svadhA (wives
 of agni) 11) dhR^iti 12) tuShTi 13) puShTi (the last 3 may or at least
 the last 2 may be lakShmI like manifestations)  
 Thus there was a distinct padmavatI in an ancient list of goddesses.
 
-\-0-0-0-0-
+-0-0-0-0-
 
 As I stood atop the massif of the nine nAthA-s in the Satmala the wind
 was howling fiercely in the late evening hour. Various animals and birds
 made loud howling noises. Then to my mind came the yajur-vedic mantra:  
-ehy avakrAmann áshastI rudrásya gÁNapatyAn mayobhÚr éhi|  
-urv àntárikSham ánv ihi svastí gavyUtir ábhayAni kR^iNván ||
+ehy avakrAmann áshastI rudrásya gÁNapatyAn mayobhÚr éhi\|  
+urv àntárikSham ánv ihi svastí gavyUtir ábhayAni kR^iNván \|\|
+

@@ -1,7 +1,11 @@
 +++
 title = "The Mandel-diamond: crystals emerge from an amorphous background"
+date = "2014-10-09"
+upstream_url = "https://manasataramgini.wordpress.com/2014/10/09/the-mandel-diamond-crystals-emerge-from-an-amorphous-background/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/10/09/the-mandel-diamond-crystals-emerge-from-an-amorphous-background/).
+
 [![](https://lh6.googleusercontent.com/-3eblxZAP_5I/VDYt3_NAzMI/AAAAAAAADII/sM0bopBo8K8/s800/mandel_diamond.jpg)](https://picasaweb.google.com/lh/photo/fZjuF6xKNFWm1HYm9hNXudMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
 **A closer look at realms within this “Terra Mysterium”**

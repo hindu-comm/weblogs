@@ -1,7 +1,13 @@
 +++
 title = "gaNonmatta and tropanes"
+date = "2006-08-15"
+upstream_url = "https://manasataramgini.wordpress.com/2006/08/15/ganonmatta-and-tropanes/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/08/15/ganonmatta-and-tropanes/).
+
+
+
 [![](https://i1.wp.com/photos1.blogger.com/blogger/2010/410/320/datura.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/datura.jpg)
 
 We had heard of the tale of that medieval luminary of our community,
@@ -22,7 +28,7 @@ use of course). We achieved this through multiple methods in the hey
 days of our “practical chemistry”. We assembled our co-conspirators, the
 muni, Mn (who was later to become a great experimental scientist but at
 that point was somewhat inferior to us- the course of fate has been
-strange indeed\!) and Mis-creant, who shared our interest in both
+strange indeed!) and Mis-creant, who shared our interest in both
 chemistry and the arcana of the rasAyana (probably we were only two who
 saw ourselves as inheritors of the tradition of the tattva-shambhara
 tantraM). We knew of a patch of deep purple dhatturas in the vicinity
@@ -46,3 +52,4 @@ electrophoresis apparatus and we found separation of some alkaloids from
 our extracted crystals. We used the bromine decolorization test to check
 for tertiary amine presence. Sadly there is no strong test like
 ninhydrin for tertiary amines we were aware of.
+

@@ -1,7 +1,11 @@
 +++
 title = "gandharva nagara"
+date = "2008-12-01"
+upstream_url = "https://manasataramgini.wordpress.com/2008/12/01/gandharva-nagara/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/12/01/gandharva-nagara/).
+
 ST said that she had returned from South America. She had gone there in
 the quest of Ananda even as ekanetra had found his own Ananda right in
 his own kShetra. We began by reminiscing how in the year before us both
@@ -43,3 +47,4 @@ kukunda is not included in this. The other texts also leave out the
 chaityAkara fungi. Thus, the morel which is the chaityAkara and the
 truffle which is the kukunda escape the ban and so I suggest that they
 are bhojya.
+

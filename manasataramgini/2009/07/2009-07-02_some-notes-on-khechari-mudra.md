@@ -1,8 +1,12 @@
 +++
 title = "Some notes on khecharI mudra"
+date = "2009-07-02"
+upstream_url = "https://manasataramgini.wordpress.com/2009/07/02/some-notes-on-khechari-mudra/"
 
 +++
-[![head\_khecharI](https://i1.wp.com/farm3.static.flickr.com/2452/3700634334_9854185ac8.jpg)](http://www.flickr.com/photos/24766652@N05/3700634334/ "head_khecharI by somasushma, on Flickr")  
+Source: [here](https://manasataramgini.wordpress.com/2009/07/02/some-notes-on-khechari-mudra/).
+
+[![head_khecharI](https://i1.wp.com/farm3.static.flickr.com/2452/3700634334_9854185ac8.jpg)](http://www.flickr.com/photos/24766652@N05/3700634334/ "head_khecharI by somasushma, on Flickr")  
 A sagittal section through the head of a normal human.
 
 Hy-hypothalamus;Pi-pituitary; Po-Pons; Me-Medulla oblongata; T-tongue;
@@ -65,8 +69,8 @@ the tAntrika invokes parA devI in the middle of a 16-spoked chakra, with
 the disc of he moon as its hub, in the midst of the void of the upper
 oro-nasal cavity – this is what is precisely meant by the term khaga in
 MVUT:  
-ShoDashAre khage chakre chandra-kalpita-karNike |  
-svarUpeNa parAM tatra sravanIm amR^itaM smaret || MVUT 21.2  
+ShoDashAre khage chakre chandra-kalpita-karNike \|  
+svarUpeNa parAM tatra sravanIm amR^itaM smaret \|\| MVUT 21.2  
 Thus we see that the term khecharI comes from the fact the tongue moves
 to the kha the space of the upper oro-nasal cavity. The tantra goes on
 indicate that in the initial practice of the mudra the sAdhaka
@@ -81,10 +85,10 @@ In the subsequent yogic literature the khecharI mudra is even described
 as a means of holding of retas. It is said that a yogin who practices it
 does not have an outflow of shukra even when he is in coitus with a
 beautiful woman:  
-tenaiShA khecharI nAma mudrA siddha-namaskR^itA |  
-khecharyA mudrayA yasya vivaraM lambikordhvataH ||  
-binduH kSharati no yasya kAminyAli\~Ngitasya cha |  
-yAvad binduH sthito dehe tAvan mR^ityu-bhayaM kutaH || dhyAnabindu
+tenaiShA khecharI nAma mudrA siddha-namaskR^itA \|  
+khecharyA mudrayA yasya vivaraM lambikordhvataH \|\|  
+binduH kSharati no yasya kAminyAli\~Ngitasya cha \|  
+yAvad binduH sthito dehe tAvan mR^ityu-bhayaM kutaH \|\| dhyAnabindu
 83-84  
 Further, from the shaiva stream, the khecharI also appears to have been
 transferred to the yoga of the pA\~ncharAtra vaiShNava system (See
@@ -104,7 +108,7 @@ khecharIvidyA in its classical form is an offshoot of the procedure
 proclaimed in the foundational kaula texts. It is here that the
 important mantra of the melaka is taught, which is supposed to be
 combined with the actual yogic practice of khecharI:  
-hrIM bhaM saM ShaM \[paM\] phaM saM kSham ||  
+hrIM bhaM saM ShaM \[paM\] phaM saM kShaM \|\|  
 As per the khecharIvidyA the practice of the mantra is a must for
 attaining khecharI siddhI – this point is repeatedly mentioned and the
 mantroddhAra is given before the yogic procedures. The mantra itself of
@@ -186,3 +190,4 @@ has been preserved as a central element of the tradition of yoga, while
 being refined through the ages. I must add that some practitioners of it
 do display some baffling capabilities (which insiders are well aware of)
 although none of this tested in any controlled way.
+

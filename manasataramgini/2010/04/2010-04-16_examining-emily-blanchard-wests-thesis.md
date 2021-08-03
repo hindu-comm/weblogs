@@ -1,7 +1,11 @@
 +++
 title = "Examining Emily Blanchard West’s thesis"
+date = "2010-04-16"
+upstream_url = "https://manasataramgini.wordpress.com/2010/04/16/examining-emily-blanchard-wests-thesis/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/04/16/examining-emily-blanchard-wests-thesis/).
+
 EBW, a classicist, published a paper presenting evidence for an
 evolutionary link via descent from a common ancestor between the Homeric
 Cyclopeia narrative of the Greek world and the three great
@@ -79,8 +83,8 @@ the rAmAyaNa. The key points of note are: 1) Both the rAkShasa-s and
 Polyphemus are eaters of human meat and are described as eating up their
 victims. This is very apparent in the case of baka. In the case of the
 rAkShasa virAdha, vAlmIki informs us thus:  
-dadarsha giri-shR^i\~NgAbhaM puruShAdaM mahAsvanam |  
-2\) This leads us to the second point of note. The yavana composers
+dadarsha giri-shR^i\~NgAbhaM puruShAdaM mahAsvanaM \|  
+2) This leads us to the second point of note. The yavana composers
 describe Polyphemus thus:  
 “For he was a savage marvel, not resembling a bread-eating man but the
 wooded peak of the lofty mountains, when seen apart from others.” (Od.
@@ -90,24 +94,24 @@ This phrase is remarkably close to the giri-shR^i\~NgAbhaM seen above.
 In the bhArata we again encounter the same again in the description of
 baka: adri-kUTa-sadR^ishaM; in the description of kirmIra: girir
 ivAchalaH or mainAka iva parvata (like the mainAka mountain).  
-3\) In both the account of Polyphemus and those of the rAkShasa-s they
+3) In both the account of Polyphemus and those of the rAkShasa-s they
 tend to be ghastly and deformed and might have some ocular peculiarity.
 Here, the rAkShasa-s of the rAmAyaNa, encountered by rAma and lakShmaNa
 in the forest, are much more cyclopean in their disposition than those
 encountered by vR^ikodara in the Mbh.  
 For example vAlmIki’s account of virAdha emphasizes it thus:  
-gabhIrAkShaM mahA-vaktraM vikaTaM vikaTodaram | bIbhatasaM viShaMam
-dIrghaM vikR^itaM ghoradarshanam ||  
+gabhIrAkShaM mahA-vaktraM vikaTaM vikaTodaraM \| bIbhatasaM viShaMam
+dIrghaM vikR^itaM ghoradarshanaM \|\|  
 His irregularities and ghastly nature along with the huge eye are
 emphasized (though it is not clear if it was one or two). However, in
 the case of the second rAkShasa, kabandha, encountered later in their
 journey his homology with the cyclopean Polyphemus is very clear:  
-romabhir nishitais tIkShNair mahAgirim ivochChritam | nIla-megha-nibhaM
-raudraM megha-stanitaniH svanam ||  
-agni-jvAlAni-kAshena lalATa-sthAne dIpyatA | mahApakSheNa pi\~Ngena
-vipulenaayatena cha ||  
-ekenorasi ghoreNa nayanena sudarshinA | mahAdaMShTropapannaM taM
-lelihAnaM mahAmukham ||  
+romabhir nishitais tIkShNair mahAgirim ivochChritaM \| nIla-megha-nibhaM
+raudraM megha-stanitaniH svanaM \|\|  
+agni-jvAlAni-kAshena lalATa-sthAne dIpyatA \| mahApakSheNa pi\~Ngena
+vipulenaayatena cha \|\|  
+ekenorasi ghoreNa nayanena sudarshinA \| mahAdaMShTropapannaM taM
+lelihAnaM mahAmukhaM \|\|  
 Here again we note that kabandha is compared to a great mountain. But
 more importantly he is said to be cyclopean with single large circular
 eye on his forehead which is endowed with a great eyelid and blazes
@@ -157,39 +161,39 @@ ancestral ogre of the Indo-Greek world.
 *Additional motifs:* There are a bunch of additional motifs that appear
 to link the encounters between heroes and rAkShasa-s/ogres in the Hindu
 and Greek worlds. These include:  
-1\) Food and/or drink is taken from the house of one belonging to the
+1) Food and/or drink is taken from the house of one belonging to the
 priestly caste to the place of the rAkShasa by the hero. In the Hindu
 world this is the brAhmaNa family with whom the pANDu-s had sought
 refuge supplies the food and drink for baka. In return for the
-brAhmaNa’s hospitality the pANDava-s agree to help them by slaying
-baka. In the Greek narrative Odysseus helps a priest of Apollo, Maron
-and his wife and son. In return Maron gives him a flask of wine which
-Odysseus takes with him to Cyclopean island.  
-2\) The hero eats the food of the ogre/rAkShasa. Both Odysseus and
+brAhmaNa’s hospitality the pANDava-s agree to help them by slaying baka.
+In the Greek narrative Odysseus helps a priest of Apollo, Maron and his
+wife and son. In return Maron gives him a flask of wine which Odysseus
+takes with him to Cyclopean island.  
+2) The hero eats the food of the ogre/rAkShasa. Both Odysseus and
 bhImasena devour the food of the rAkShasa before their encounter with
 them.  
-3\) There might have also been a motif of people taking turns to be
-eaten by the rakSha/ogre in both the epics.  
-4\) A tree is used as a weapon in maiming/killing the ogre/rAkShasa in
+3) There might have also been a motif of people taking turns to be eaten
+by the rakSha/ogre in both the epics.  
+4) A tree is used as a weapon in maiming/killing the ogre/rAkShasa in
 both epics. While both Odysseus and bhIma are great bowmen and might
 also be famed in the use of other weapons like the sword or the mace in
 these encounters they primarily depend on a tree trunk as their
 weapon.  
-5\) The dying or wounded ogre/rAkShasa utters loud yells and his
+5) The dying or wounded ogre/rAkShasa utters loud yells and his
 attendants come out to see what has happened.  
-6\) The concealment of the hero’s name: In the case of Odysseus he tells
+6) The concealment of the hero’s name: In the case of Odysseus he tells
 the drunken Polyphemus that his name was nobody. In the case of bhIma,
 the pANDu-s instruct the brAhmaNa to tell everyone that some unknown
 brAhmaNa had come and slain the rAkShasa.  
-7\) Polyphemus laments that his blinding at the hand of Odysseus had
-been foretold by a soothsayer known as Telemos. While such a prediction
-is not there in the encounters of bhIma, we do encounter such
-predictions in the case of both virAdha and kabandha in the rAmAyaNa.
-This prediction of them being killed by rAma is a central aspect to the
-story in both those cases. EBW tries to force fit a prediction into the
-Mbh encounters, but clearly there is no evidence in the Mbh for such a
+7) Polyphemus laments that his blinding at the hand of Odysseus had been
+foretold by a soothsayer known as Telemos. While such a prediction is
+not there in the encounters of bhIma, we do encounter such predictions
+in the case of both virAdha and kabandha in the rAmAyaNa. This
+prediction of them being killed by rAma is a central aspect to the story
+in both those cases. EBW tries to force fit a prediction into the Mbh
+encounters, but clearly there is no evidence in the Mbh for such a
 thing.  
-8\) EBW believes that there are several sacrificial motifs in the form
+8) EBW believes that there are several sacrificial motifs in the form
 kirmIra being killed like a pashu in a yAga, or the araNi-s being stolen
 by the deer in the encounter with the yakSha baka of the deadly pool.
 She compares them with the sacrifice to the gods performed by Odysseus
@@ -207,3 +211,4 @@ narrative. In any case the ancestral rAkShasa/ogre was seen as one with
 some ocular irregularity, large in size (compared to a mountain),
 ghastly in appearance, a cannibal and often a freebooter living in the
 forest. There were other such entities who lived in island cities.
+

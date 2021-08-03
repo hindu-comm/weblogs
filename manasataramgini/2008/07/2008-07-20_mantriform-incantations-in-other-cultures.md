@@ -1,7 +1,11 @@
 +++
 title = "Mantriform incantations in other cultures"
+date = "2008-07-20"
+upstream_url = "https://manasataramgini.wordpress.com/2008/07/20/mantriform-incantations-in-other-cultures/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/07/20/mantriform-incantations-in-other-cultures/).
+
 A part of the study of the development of mantra-shAstra is a
 comparative analysis with similar productions in other cultures. I fear
 such comparisons at least in the preliminary stages of study are
@@ -21,18 +25,18 @@ only considered to be preliminary.
 In the Egyptian world one finds several examples, of which spell of
 goddess Nit (Neith; above) from around 500 BCE is worth reproducing:  
 [![](https://manasataramgini.files.wordpress.com/2008/07/neith_glyph.gif?w=300&h=30)](https://manasataramgini.files.wordpress.com/2008/07/neith_glyph.gif)  
-\-hail, mother great, not has been uncovered your birth \[This sentence
+-hail, mother great, not has been uncovered your birth \[This sentence
 has been rendered above as hieroglyphs. Sound: a= hail (shown in red),
 mut=mother, ur=great, an=not, sefekh=has been uncovered, mesu-s=your
 birth. Note the hieroglyph for “\[a=hail\]” which is repeatedly used
 throughout the incantation\];  
-\-hail, goddess (netert?) great, within the underworld which is doubly
+-hail, goddess (netert?) great, within the underworld which is doubly
 hidden;  
-\-you unknown one;  
-\-hail, you divine one great, not has been uncovered your veil;  
-\-hail, uncover your veil;  
-\-hail, hidden one, not is given my way of entrance to her, come,
-receive you the ‘ba’ of Osiris, protect it in your two hands;
+-you unknown one;  
+-hail, you divine one great, not has been uncovered your veil;  
+-hail, uncover your veil;  
+-hail, hidden one, not is given my way of entrance to her, come, receive
+you the ‘ba’ of Osiris, protect it in your two hands;
 
 To us the “hail” in this Egyptian incantation is a functional analog of
 svAhA or namaH in the Indo-Aryan mantra-shAstra.
@@ -53,7 +57,7 @@ his patients blabbering into the text. Frits Staal has a similar view
 that the Indo-Aryan mantras are comparable to the productions of the
 mentally diseased—indeed Hindus must be mentally diseased\].  
 Some features in it are:  
-1\) Two series of 7 incantations respectively to troops of 7 goddesses
+1) Two series of 7 incantations respectively to troops of 7 goddesses
 and 7 gods. These incantations use the terms χαίρε which I see as a
 functional analog of svAhA or namaH in the Indo-Aryan world. The
 descriptions of the 7 male gods in the series resembles the marut-s in
@@ -63,10 +67,10 @@ the Indo-Aryan realm, and mirrors their 7-fold oblations.
 
 2\) Further, the text gives 3 similar incantations with χαίρε to Helios
 which has been translated as:  
-Hail, O Lord, O Master of the water\!  
-Hail, O Founder of the earth\!  
-Hail, O Ruler of the wind\!  
-3\) The text also describes the deployment of an explosive sound like
+Hail, O Lord, O Master of the water!  
+Hail, O Founder of the earth!  
+Hail, O Ruler of the wind!  
+3) The text also describes the deployment of an explosive sound like
 phaT.
 
 Related to the “Mithras” liturgy is the larger collection of texts
@@ -101,8 +105,8 @@ spell and the associated fever amulet (a “yantra”).
 “O Tireless One, KOK KOUK KOUL, save Tais whom Taraus bore from every
 Shivering Fit, whether Tertian or Quartan or Quotidian Fever, or an
 Every-other-day Fever, or one by Night, or even a Mild Fever, because I
-am the ancestral, tireless God, KOK KOUK KOUL\! Immediately,
-immediately\! Quickly, quickly\!” \[PGM XXXIII.1-25\]
+am the ancestral, tireless God, KOK KOUK KOUL! Immediately, immediately!
+Quickly, quickly!” \[PGM XXXIII.1-25\]
 
 Note use of imperatives immediately and quickly, just as in Tantric
 mantras. Also note the description of fevers which exactly mirror the
@@ -118,9 +122,9 @@ Such syncretism was common in the Middle East and Mediterranean for a
 long time (e.g. the Mittani inscription mention Vedic deities along with
 many others). This suggests a participation from cosmopolitan
 polytheistic Hebrews along with lay Greeks and Romans (unlike their
-“orthodox” monotheistic cousins) in the Neo-Platonic system using
-Greek as a medium but incorporating their own deities and using a
-certain hybrid kind of language.
+“orthodox” monotheistic cousins) in the Neo-Platonic system using Greek
+as a medium but incorporating their own deities and using a certain
+hybrid kind of language.
 
 People over the ages have noted the non-canonical Sanskrit in some early
 tantras – early Hindu authors attributed it to the idiolect of shiva and
@@ -144,5 +148,6 @@ specifics) apparently happened in both the Neo-Platonic Mantriform world
 as well as Indian mantra-shAstra. This was followed by a canonization
 and improvement of language in both streams (e.g. Emperor Julian’s
 productions or abhinavagupta’s production of anuttara-trika. The
-latter’s language is definitely a pleasure to savor and is distinct
-from the shAstra-s he follows).
+latter’s language is definitely a pleasure to savor and is distinct from
+the shAstra-s he follows).
+

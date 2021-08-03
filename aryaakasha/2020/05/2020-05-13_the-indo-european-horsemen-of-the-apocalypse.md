@@ -1,8 +1,11 @@
 +++
-title = "The Indo-European Horsemen Of Thexa0Apocalypse"
-date = "May 13, 2020"
+title = "The Indo-European Horsemen Of The Apocalypse"
+date = "2020-05-13"
+upstream_url = "https://aryaakasha.com/2020/05/13/the-indo-european-horsemen-of-the-apocalypse/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/05/13/the-indo-european-horsemen-of-the-apocalypse/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/05/60174368_10161732170715574_2088912015048310784_o.jpg?w=1024)
 
 \[Author’s Note: We are, of course, aware that the Book of Revelation is

@@ -1,7 +1,11 @@
 +++
 title = "The fifty rudra-s"
+date = "2008-03-04"
+upstream_url = "https://manasataramgini.wordpress.com/2008/03/04/the-fifty-rudra-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/03/04/the-fifty-rudra-s/).
+
 kalashajA had asked me the list of the rudra-s and their shakti-s
 associated with the smArta shabdarAshI maNDala. Each rudra is worshiped
 with their particular mantra during the installation of the
@@ -17,7 +21,7 @@ are both conceived as being the color of scarlet lead (Pb3O4).
 
 The 50/51 rudra-s (and their shakti-s) of the trika system are mentioned
 in the mAlinI-vijaya 3.13 beginning with shrIkaNTha as a part of the
-mAlinI-gahvara in the na-\>pha configuration. The 50/51 rudra-s/shakti-s
+mAlinI-gahvara in the na->pha configuration. The 50/51 rudra-s/shakti-s
 of the pashchimAmnAya (kubjikA) tantras are similar and are mentioned in
 the kubjikAmata tantra (24.1-57; kulAlikAmnAya version). Similar lists
 of the kubjikA tradition are also mentioned in the agni purANa 145 and
@@ -192,3 +196,4 @@ pashchimAmnAya list
 49 sushiva  
 50 kopa  
 The rudrAnI-s are merely feminized forms of the rudras.
+

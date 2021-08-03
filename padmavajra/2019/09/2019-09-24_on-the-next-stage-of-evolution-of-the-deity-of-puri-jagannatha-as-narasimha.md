@@ -1,8 +1,11 @@
 +++
-title = "On the next stage of evolution of the deity of Puri : Jagannatha asxa0Narasimha"
+title = "On the next stage of evolution of the deity of Puri : Jagannatha as Narasimha"
 date = "2019-09-24"
+upstream_url = "https://padmavajra.net/2019/09/24/on-the-next-stage-of-evolution-of-the-deity-of-puri-jagannatha-as-narasimha/"
 
 +++
+Source: [here](https://padmavajra.net/2019/09/24/on-the-next-stage-of-evolution-of-the-deity-of-puri-jagannatha-as-narasimha/).
+
 Continuing from my [previous
 post](https://padmavajrablog.wordpress.com/2019/08/26/the-backdrop-to-purushottamashri-nilamadhava-a-very-brief-note/):A
 likely template for how puruShottama was historically worshipped(when He

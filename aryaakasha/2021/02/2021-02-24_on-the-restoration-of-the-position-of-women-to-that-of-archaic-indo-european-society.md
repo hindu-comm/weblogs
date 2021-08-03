@@ -1,8 +1,11 @@
 +++
-title = "On The Restoration Of The Position Of Women To That Of Archaic Indo-Europeanxa0Society"
-date = "February 24, 2021"
+title = "On The Restoration Of The Position Of Women To That Of Archaic Indo-European Society"
+date = "2021-02-24"
+upstream_url = "https://aryaakasha.com/2021/02/24/on-the-restoration-of-the-position-of-women-to-that-of-archaic-indo-european-society/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/02/24/on-the-restoration-of-the-position-of-women-to-that-of-archaic-indo-european-society/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/02/151298380_815551482390511_6410817062069672706_n.png?w=580)
 
 I find this image – and what it represents – rather intriguing. Because

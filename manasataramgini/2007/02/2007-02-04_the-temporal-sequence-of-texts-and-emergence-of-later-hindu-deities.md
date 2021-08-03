@@ -1,7 +1,11 @@
 +++
 title = "The temporal sequence of texts and emergence of later Hindu deities"
+date = "2007-02-04"
+upstream_url = "https://manasataramgini.wordpress.com/2007/02/04/the-temporal-sequence-of-texts-and-emergence-of-later-hindu-deities/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/02/04/the-temporal-sequence-of-texts-and-emergence-of-later-hindu-deities/).
+
 The idea here is not trace the history of Hindu deities to their
 proto-Indo-European past, but only to investigate their relative times
 of emergence and the chronology of the texts referring to them. Further,
@@ -9,7 +13,7 @@ all Hindu texts including the vedic saMhitA-s are layered texts- that is
 they have material from different chronological strata. Yet well defined
 coherent chronological cores can be identified in them.
 
-\-In the vedic period one major transition, which might be termed the
+-In the vedic period one major transition, which might be termed the
 prajApati transition, is observed. The old vedic pantheon shared with
 the Iranians gained the first major addition in the form of the
 prajApati. There is no or hardly any mention of prajApati in any of the
@@ -23,12 +27,12 @@ ritual and becomes very prominent in the brAhmaNa-s. In the brAhmaNa
 period we get the first hints of him challenging indra’s preeminent
 position.
 
-\-In the very late brAhmaNa period or late upaniShadic period we see
+-In the very late brAhmaNa period or late upaniShadic period we see
 hints of the rise of the two great gods of sectarian Hindu dharma –
 rudra and viShNu. This is observed in texts like the shvetAshvatara,
 maitrAyaNi brAhmaNa upaniShat, atharvashiras and nArAyaNa-valli.
 
-\-In the earliest post-vedic texts we see two new deities rise to
+-In the earliest post-vedic texts we see two new deities rise to
 prominence: kumAra and brahmA. Of these the four-headed brahmA is
 clearly a homolog of the vedic prajApati and shares numerous attributes
 with him. While there are some allusions to brahmA in the vedic hymns
@@ -41,40 +45,40 @@ itihAsa-s in his full-blown form. The late vedic prajApati assumes forms
 like the fish and turtle which were later associated viShNu, but never
 associated with brahmA.
 
-\-kumAra appears in the late vedic texts: 1) nejameSha in the khila of
+-kumAra appears in the late vedic texts: 1) nejameSha in the khila of
 the RV in connection to a rite performed in pumsavana. 2) skanda
 sanatkumAra the teacher of nArada in the chAndogya upaniShat. In both
 the earliest post-vedic texts rAmAyaNa and mahAbhArata is he is a
 prominent deity. The skanda-yaga of the atharva veda parishiShTha
 appears to be coeval with the rise of skanda in the itihAsas.
 
-\-Of the itihAsas the core of the rAmAyaNa appears clearly older (of
+-Of the itihAsas the core of the rAmAyaNa appears clearly older (of
 course leaving out the uttara-kANDa). The former is mentioned by the
 bhArata not vice versa. Further, the prominence of indra is much greater
 in the rAmAyaNa, with him probably standing slightly ahead of brahmA in
 prominence. In the mahAbharata the decline of indra and the meteoric
 rise of viShNu and shiva has set in full scale.
 
-\-In both the itihAsa-s the trans-functional shakti as kAli or durga or
+-In both the itihAsa-s the trans-functional shakti as kAli or durga or
 the 8 mothers have a very limited presence or are non-existent. The
 first hints of this shakti in the classical form is seen in the
 harivaMsha as ekAnaMsha who is also vindhyavAsini. The trans-functional
 shakti-s precursors may be seen in the AsurI durgA of the atharvanic
 tradition (AsurI kalpa) and pratya\~NgirA.
 
-\-The later layers of the mahAbhArata and the harivaMsha mark the
+-The later layers of the mahAbhArata and the harivaMsha mark the
 beginnings of the rise of the proto-pA\~ncharAtric pantheon of viShNu as
 kR^iShNa, balabhadra and associated manifestations of viShNu or
 avatAra-s. However, the full-blown dashAvatAra concept is not in place.
 
-\-The core bhAgavata purANa marks the emergence of rAmachandra as an
+-The core bhAgavata purANa marks the emergence of rAmachandra as an
 avatAra of viShNu.
 
-\-The mArkaNDeya purANa marks the full-blow emergence of the
+-The mArkaNDeya purANa marks the full-blow emergence of the
 trans-functional shakti and the 8 mothers (Though this might belong to
 the latest layer of the purANa).
 
-\-One of the biggest anchor points is the emergence of one of latest
+-One of the biggest anchor points is the emergence of one of latest
 classical Hindu deities- the classical gaNesha. The texts containing the
 classical vinAyaka and those which do not thus mark a major
 chronological divide in the Hindu world. The itihAsa-s do not mention
@@ -107,3 +111,4 @@ sUtra appears to belong to the period after the emergence of the
 classical gaNapati. The mAnava gR^ihya sUtra, arthashAstra,
 yAj\~navAlkya smR^iti in contrast belong to an earlier period with with
 seizing vinAyaka graha-s.
+

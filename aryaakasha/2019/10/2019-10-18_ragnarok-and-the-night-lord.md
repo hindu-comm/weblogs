@@ -1,8 +1,11 @@
 +++
-title = "RAGNAROK AND THE NIGHTxa0LORD"
-date = "October 18, 2019"
+title = "RAGNAROK AND THE NIGHT LORD"
+date = "2019-10-18"
+upstream_url = "https://aryaakasha.com/2019/10/18/ragnarok-and-the-night-lord/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/10/18/ragnarok-and-the-night-lord/).
+
 ![72548759_466570143955315_8973400383267274752_o](https://aryaakasha.files.wordpress.com/2019/10/72548759_466570143955315_8973400383267274752_o.jpg?w=676)  
 Consider the Sanskrit terms राजन् and रजनी – Rajan and Rajani. They look
 similar, no? In fact, you’d be forgiven, even notwithstanding that the

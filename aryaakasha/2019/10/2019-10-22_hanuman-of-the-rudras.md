@@ -1,8 +1,11 @@
 +++
-title = "Hanuman, of thexa0Rudras"
-date = "October 22, 2019"
+title = "Hanuman, of the Rudras"
+date = "2019-10-22"
+upstream_url = "https://aryaakasha.com/2019/10/22/hanuman-of-the-rudras/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/10/22/hanuman-of-the-rudras/).
+
 ![73003786_469953803616949_1331464862764630016_n](https://aryaakasha.files.wordpress.com/2019/10/73003786_469953803616949_1331464862764630016_n.jpg?w=676)
 
 Something interesting which I happened across earlier this morning, and

@@ -1,8 +1,11 @@
 +++
-title = "Relative chronology of interpretation and usageof nāsadīya/nāsadīya relatedxa0themes"
+title = "Relative chronology of interpretation and usageof nāsadīya/nāsadīya related themes"
 date = "2017-07-07"
+upstream_url = "https://padmavajra.net/2017/07/07/relative-chronology-of-interpretation-and-usageof-nasadiyanasadiya-related-themes/"
 
 +++
+Source: [here](https://padmavajra.net/2017/07/07/relative-chronology-of-interpretation-and-usageof-nasadiyanasadiya-related-themes/).
+
 . Appearance of nāsadīya sukta in ṚV
 
 \|

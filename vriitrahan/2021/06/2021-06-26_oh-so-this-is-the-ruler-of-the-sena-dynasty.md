@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "June 26, 2021"
+date = "2021-06-26"
+upstream_url = "https://vriitrahan.wordpress.com/2021/06/26/oh-so-this-is-the-ruler-of-the-sena-dynasty/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2021/06/26/oh-so-this-is-the-ruler-of-the-sena-dynasty/).
+
 `भुग्न-ग्रीवम् भुज-बिस-लतासक्तवक्त्राम्बुजाभिस् सस् अयम् सेनान्वयनृपस् इति त्रासकौतूहलाभ्याम् विष्वक्-पीतस्-कुवलयदलश्रेणिदीर्घैस् कटाक्षैस् पौरस्त्रीभिस् सपदि नगरीविद्रवे विद्विषाम् यस्`
 
 The women of the cities of his enemy run quickly  

@@ -1,7 +1,11 @@
 +++
 title = "dIvAkIrtya-s, eclipses and severed heads"
+date = "2007-01-18"
+upstream_url = "https://manasataramgini.wordpress.com/2007/01/18/divakirtya-s-eclipses-and-severed-heads/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/01/18/divakirtya-s-eclipses-and-severed-heads/).
+
 We saw how the aitareya brAhmaNa describes the
 [divAkIrtya-s](https://manasataramgini.wordpress.com/2007/01/15/the-crashing-doors/)
 as the frame of solstice points that “holds up” the sun. The
@@ -71,8 +75,8 @@ When we look more carefully at the second mantra some interesting
 elements come to light:
 
 vibhrAD bR^ihat subhR^itaM vAja-sAtamaM dharman divo dharuNe satyam
-arpitam |  
-amitrahA vR^itrahA dasyuhantamaM jyotir jaj\~ne asurahA sapatnahA ||  
+arpitam \|  
+amitrahA vR^itrahA dasyuhantamaM jyotir jaj\~ne asurahA sapatnahA \|\|  
 We note that first hemistich contains the words subhR^itaM, dharman,
 dharuNe, all implying bearing, propping or supporting of the heavens,
 which relates with the basic theme of the divAkIrtya-s as a prop of
@@ -91,8 +95,8 @@ indra is said to taken away the skin from the head of makha: “tvaM
 makhasya dodhataH shiro .ava tvacho bharaH” (RV 10.171.2). The 4th
 mantra is again pretty striking:
 
-tvaM tyamindra sUryaM pashchA santaM puras kR^idhi | devAnAM chit tiro
-vasham || (RV 10.171.4)  
+tvaM tyamindra sUryaM pashchA santaM puras kR^idhi \| devAnAM chit tiro
+vasham \|\| (RV 10.171.4)  
 Bring, indra, the sun to the front that is lingering behind, hidden
 against the wishes of the deva-s.
 
@@ -121,3 +125,4 @@ rAhu who eats the sun. Here again the head of the asura is severed by
 viShNu, just as indra slays svarbhAnu in the veda. We suspect that there
 was a para-vedic viShNu-centric Indo-Aryan stream where the myth of rAhu
 arose from the same old base motifs found in the Indo-European world.
+

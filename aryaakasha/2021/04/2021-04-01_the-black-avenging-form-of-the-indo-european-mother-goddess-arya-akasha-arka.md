@@ -1,8 +1,11 @@
 +++
-title = "The Black Avenging Form Of The Indo-European Mother Goddess [ Arya Akasha Arkaxa0]"
-date = "April 1, 2021"
+title = "The Black Avenging Form Of The Indo-European Mother Goddess [ Arya Akasha Arka ]"
+date = "2021-04-01"
+upstream_url = "https://aryaakasha.com/2021/04/01/the-black-avenging-form-of-the-indo-european-mother-goddess-arya-akasha-arka/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/04/01/the-black-avenging-form-of-the-indo-european-mother-goddess-arya-akasha-arka/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/04/arya-akasha-avenging-form-of-the-goddess.png?w=800)
 
 As we have explored in an array of previous articles, the Indo-European

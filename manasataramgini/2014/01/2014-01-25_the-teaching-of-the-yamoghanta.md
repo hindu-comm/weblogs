@@ -1,11 +1,15 @@
 +++
 title = "The teaching of the yamoghaNTa"
+date = "2014-01-25"
+upstream_url = "https://manasataramgini.wordpress.com/2014/01/25/the-teaching-of-the-yamoghanta/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/01/25/the-teaching-of-the-yamoghanta/).
+
 She said that she was shoNitamekhalA, the barmaid from the glorious
 oDDiyAna. We excitedly asked her teaching of the amaraugha. She said:
-somAkhyaH pathena gachChati | hAlApIvI devadattaM pathena gamayati |
-pathaM vR^iNIShva || (somAkhya goes by the path; hAlApIvin makes
+somAkhyaH pathena gachChati \| hAlApIvI devadattaM pathena gamayati \|
+pathaM vR^iNIShva \|\| (somAkhya goes by the path; hAlApIvin makes
 devadatta go by the path; choose a path for yourself.) Then she then
 became silent, showed the sign of the three fingers, and went away
 stating that customers were waiting at the counter.
@@ -24,12 +28,12 @@ vakrokti pa\~nchAshika of Kashmirian kavi bhaTTa ratnAkara from the
 court of rAjan avantivarman:
 
 tvaM hAlAhala-bhR^it karoShi manaso mUrchAM mamAli\~Ngito  
-hAlAM naiva bibharmi naiva cha halaM mugdhe kathaM hAlikaH |  
+hAlAM naiva bibharmi naiva cha halaM mugdhe kathaM hAlikaH \|  
 satyaM hAlikataiva te samuchitAsaktasya govAhane  
-vakroktyeti jito himAdri-sutayA smero harah pAtu vaH || 2  
+vakroktyeti jito himAdri-sutayA smero harah pAtu vaH \|\| 2  
 When embraced by me you make my mind dizzy – \\with the \[noxious\]
 hAlAhala you hold.\\by the beer and plow (water) you hold.\\  
-Silly lady\! I hold neither beer nor a plow, how am I a plowman?  
+Silly lady! I hold neither beer nor a plow, how am I a plowman?  
 Truth to be told the state of a plowman is appropriate for your
 attachment – \\to the bovine vehicle\\to plying the bovine.  
 May hara smiling while thus defeated via use of vakrokti (ambiguous
@@ -42,8 +46,8 @@ manifestation of the saMkarShaNa, is pacified when a bowl of beer is
 placed before him by the fair hands of his wife revatI. The poet bhAsa
 makes a word play on this in the open verse of his play the
 svapnavAsavadatta thus:  
-udayanavendusavarNAvAsavadattAbalau balasya tvAm |  
-padmAvatIrNapUrNau vasantakramau bhujau pAtAm ||
+udayanavendusavarNAvAsavadattAbalau balasya tvAm \|  
+padmAvatIrNapUrNau vasantakramau bhujau pAtAm \|\|
 
 May bala\[rAma\]’s arms protect you, whose color is like the newly
 arisen moon, imparted vigor by beer, enhanced by padmAvatI (supposed to
@@ -58,7 +62,7 @@ deities is indicated. Moreover, rudra denying his association with beer
 indicates his domesticated state. This is different from his wild state
 as a manifestation of the violent principle inherent in beer – a point
 alluded to in the shruti (e.g. [shatapatha
-brAhmaNa](https://manasataramgini.wordpress.com/2011/04/28/notes-on-the-vishnu-virachita-rudra-stotram/ "Notes on the viShNu-virachita rudra stotram"))
+brAhmaNa](https://manasataramgini.wordpress.com/2011/04/28/notes-on-the-vishnu-virachita-rudra-stotram/ "Notes on the viShNu-virachita rudrastotram"))
 in the context of the sautrAmaNi ritual. It also distinguishes him from
 the state where accompanied by the many female deities, the one in which
 alcoholic beverage is a sacrament as in the tantra-s of the
@@ -67,16 +71,16 @@ bhairava-srotas.
 tvaM menAbhimato \[me na-abhimato\\menA-abhimato\] bhavAmi sutanu
 shvashrvA avashyaM mataH  
 sAdhUktaM bhavatA na me ruchita \[nameru-chita\] ity atra bruve .ahaM
-punaH |  
+punaH \|  
 mugdhe nAsmi nameruNA nanu chitaH prekShasva mAM pAtu vo  
-vakroktyeti haro himAchala-bhuvaM smerAnanAM mUkayan || 3
+vakroktyeti haro himAchala-bhuvaM smerAnanAM mUkayan \|\| 3
 
 \\You are not loved by me \\menA likes you\\; Indeed, my mother-in-law
 likes me, O pretty-bodied one.  
 Well played (said) by you; \[but\] I am saying it again:\\you are not
 liked by me\\you are a rudrAkSha tree (have rudrAkSha-s piled on
 you).\\  
-But I’m not piled up with rudrAkSha-s, silly lady, look at me\!  
+But I’m not piled up with rudrAkSha-s, silly lady, look at me!  
 May hara silencing with his punning words the smiling faced one born of
 the Himalayas protect you.
 
@@ -85,16 +89,16 @@ piled up with rudrAkSha-s.
 
 no saMdhyAhita-matsarA \[saMdhy-Ahita\\saMdhyA-Ahita\] tava tanau
 vatsyAmy ahaM saMdhinA  
-na prItAsi varoru chet kathaya tat prastaumi kiM vigraham |  
+na prItAsi varoru chet kathaya tat prastaumi kiM vigraham \|  
 kAryaM tena na kiM chid asti shaTha me vInAM graheNeti vo  
-dishyAsuH pratibaddha-keli shivayoH shreyAMsi vakroktayaH || 4
+dishyAsuH pratibaddha-keli shivayoH shreyAMsi vakroktayaH \|\| 4
 
 \\I resent our truce\\I resent \[your\] flirting with saMdhyA\\ and no
 more in your body I will stay.  
-Pretty-thighs\! If you are not happy with the truce simply say that.
+Pretty-thighs! If you are not happy with the truce simply say that.
 Should I \[then\] call declare \\hostilities?\\a hunt for catching
 birds?\\  
-You rascal\! Of what use is this business of catching birds to me.  
+You rascal! Of what use is this business of catching birds to me.  
 May the punning words of shiva and shivA contesting in this game bring
 you to felicities.
 
@@ -139,12 +143,12 @@ We: “A flock of egrets in flight.”
 The yamoghaNTha: “the old bhAsa had said:  
 vidUShaka- hI hI, sharat kAla nirmale .antarikShe
 prasArita-baladeva-bAhu-darshanIya sArasa-pa\~Nkti yAvat samAhitaM
-gachChantI prekShatAM tAvad bhavAn |  
-The king- vayasya, pashyAmy enAm |  
+gachChantI prekShatAM tAvad bhavAn \|  
+The king- vayasya, pashyAmy enAm \|  
 R^ijvAyatAM cha viralAM cha natonnatAM cha  
-saptarShi-vaMsha-kuTilAM cha nivartaneShu |  
+saptarShi-vaMsha-kuTilAM cha nivartaneShu \|  
 nirmuchyamAna-bhujagodara-nirmalasya  
-sImAm ivaambara-talasya vibhajyamAnAm ||  
+sImAm ivaambara-talasya vibhajyamAnAm \|\|  
 The jester: Hey hey, may your highness see that flock of cranes flying
 in the clear autumnal welkin like the outstretched arm of baladeva.  
 The king: friend, I see these.  
@@ -161,7 +165,7 @@ the crane flock. That is what one might see in the simile which likens
 his fair hand to them. Then there is also the welkin in you which is the
 chidAkAsha. These birds are tracing paths on that. Those are the
 movements of prANa that we term the ajapA gAyatrI, the mantra, so.ahaM
-haMsaH |
+haMsaH \|
 
 It is that mantra you now go forth and try to master. It must be done in
 solitude. As you leave the fair daughter of the brAhmaNa will come you
@@ -173,3 +177,4 @@ blood. You might die on the path sooner or later and might become the
 dwelling of a vetAla. The end only you will know”
 
 We were not sure if we were dead or alive.
+

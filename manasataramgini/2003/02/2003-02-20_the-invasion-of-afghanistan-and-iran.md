@@ -1,7 +1,11 @@
 +++
 title = "The invasion of Afghanistan and Iran"
+date = "2003-02-20"
+upstream_url = "https://manasataramgini.wordpress.com/2003/02/20/the-invasion-of-afghanistan-and-iran/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/02/20/the-invasion-of-afghanistan-and-iran/).
+
 Timur-i-lang had campaigned in Afghanistan and Eastern Iran with Mir
 Hussain in his earlier days and subsequently Timur had wrested Balkh and
 the neighboring regions of Ghor from Hussain. However the rest of
@@ -107,3 +111,4 @@ Asterabad. Here again we hear the sickening litany of the Timur’s
 torture and massacre of all living beings in the city. He then burnt
 down the empty city after looting in the name of the prophet and marched
 towards Iraq.
+

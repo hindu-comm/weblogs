@@ -1,7 +1,13 @@
 +++
 title = "Neuquenraptor argentinus and the deinonychosaurs"
+date = "2005-02-26"
+upstream_url = "https://manasataramgini.wordpress.com/2005/02/26/neuquenraptor-argentinus-and-the-deinonychosaurs/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/02/26/neuquenraptor-argentinus-and-the-deinonychosaurs/).
+
+
+
 Neuquenraptor argentinus [![Posted by
 Hello](https://i0.wp.com/photos1.blogger.com/pbh.gif)](http://www.hello.com/)
 
@@ -21,12 +27,12 @@ deinonychosaurs. Beyond this basic temporal issue there were several
 workers who even doubted the monophyly of the two major deinonychosaur
 clades. The past decade had brought a remarkable closure on several
 points concerning deinonychsaurus. Firstly, there was the discovery of
-Rahonavis, a primitive bird from Late Cretaceous ** Madagascar that
-showed a hyper-extendable pedal sickle-claw strengthening the theory
-that amongst the maniraptoran dinosaurs the deinonychosaurs were the
-closest to the birds. It also suggested that common ancestor of the
-birds and the deinonychosaurs possessed a sickle-claw characteristic of
-the later clade.
+Rahonavis, a primitive bird from Late Cretaceous Madagascar that showed
+a hyper-extendable pedal sickle-claw strengthening the theory that
+amongst the maniraptoran dinosaurs the deinonychosaurs were the closest
+to the birds. It also suggested that common ancestor of the birds and
+the deinonychosaurs possessed a sickle-claw characteristic of the later
+clade.
 
 Then came the Chinese revolution in the form of the extraordinary
 fossils from various Early Cretaceous beds of the Liaoning province. The
@@ -87,10 +93,3 @@ arboreal/flying predators. A few forms like Achillobator, Utahraptor and
 Unenlagia appear to have grown much large in size and assumed the role
 of mid-sized predators.
 
-``` 
-```
-
-``` 
-```
-
-**

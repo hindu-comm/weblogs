@@ -1,8 +1,11 @@
 +++
 title = "Makt-And-Cheese"
-date = "July 25, 2019"
+date = "2019-07-25"
+upstream_url = "https://aryaakasha.com/2019/07/25/makt-and-cheese/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/07/25/makt-and-cheese/).
+
 ![cheesebrain](https://aryaakasha.files.wordpress.com/2019/07/cheesebrain.jpg?w=676)
 
 One of the more … curious things I’ve observed in recent months, is that

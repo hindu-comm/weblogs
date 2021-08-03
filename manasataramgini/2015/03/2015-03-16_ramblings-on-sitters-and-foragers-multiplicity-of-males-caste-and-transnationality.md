@@ -1,7 +1,11 @@
 +++
 title = "Ramblings on sitters and foragers, multiplicity of males, caste, and transnationality"
+date = "2015-03-16"
+upstream_url = "https://manasataramgini.wordpress.com/2015/03/16/ramblings-on-sitters-and-foragers-multiplicity-of-males-caste-and-transnationality/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/03/16/ramblings-on-sitters-and-foragers-multiplicity-of-males-caste-and-transnationality/).
+
 ***To sit or to rove: the tale of maggots***  
 The gene coding for cGMP-dependent kinase (PKG) in *Drosophila
 melanogaster*, whose kinase activity is activated by binding of the
@@ -310,3 +314,4 @@ produce fewer eggs and the whole colony becomes a mass of individuals
 with no specific genetic relationship between the workers and queens.
 One wonders if certain human societies are like this and certain alleles
 in our midst predispose such behaviors.
+

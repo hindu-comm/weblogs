@@ -1,19 +1,23 @@
 +++
 title = "The vinAyaka saubhAgya krama"
+date = "2005-10-21"
+upstream_url = "https://manasataramgini.wordpress.com/2005/10/21/the-vinayaka-saubhagya-krama/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/10/21/the-vinayaka-saubhagya-krama/).
+
 vighnas may be crushed with the vidhi of the terrible vinAyaka. It is
 thus performed.  
-\-The votary makes a haridra biMba of and invokes vinAyaka into it with
+-The votary makes a haridra biMba of and invokes vinAyaka into it with
 the formula:  
 oM AgachCholkAya avAhanaM kariShyAmi/  
-\-Then sandalwood paste or scent is offered with:  
+-Then sandalwood paste or scent is offered with:  
 oM gandholkAya gandhaM samarpayAmi /  
-\-Then flowers are offered with:  
+-Then flowers are offered with:  
 oM puShpolkAya puShpaM samarpayAmi /  
-\-Then incense sticks are waved with:  
+-Then incense sticks are waved with:  
 oM dhUpolkAya dhUpaM AgrApayAmi /  
-\-The lamp is shown with:  
+-The lamp is shown with:  
 oM dIpolkAya dIpaM darshayAmi /  
 – bali of a gourd or a pumpkin is offered with:  
 oM maholkAya baliM samarpayAmi /  
@@ -53,3 +57,4 @@ his hands.
 
 immerse the haridra bimba with:  
 oM siddholkAya visarjanaM kariShyAmi /
+

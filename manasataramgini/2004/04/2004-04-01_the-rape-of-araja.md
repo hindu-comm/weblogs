@@ -1,7 +1,11 @@
 +++
 title = "The rape of arajA"
+date = "2004-04-01"
+upstream_url = "https://manasataramgini.wordpress.com/2004/04/01/the-rape-of-araja/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/04/01/the-rape-of-araja/).
+
 In the vamshAvalis of the founding fathers of my many branched clan
 there are many tales of confrontation with the rAjanyas. While the
 conflict between kArtavIryArjuna and rAma is well known, the much
@@ -61,3 +65,4 @@ fiery particles on the kingdom of daNDa for seven continuous days. daNDa
 who was making merry in his park found his skin burnt away in this
 blazing shower; his palace, his chariots, and sons and henchmen were all
 buried in the smouldering ruins known as the vailasthAna.
+

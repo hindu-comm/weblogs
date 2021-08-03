@@ -1,8 +1,11 @@
 +++
-title = "The Indo-European Cosmology – A Brief Guided Tour : Part One – Ritual Space And The Radiatingxa0Law"
-date = "November 18, 2020"
+title = "The Indo-European Cosmology – A Brief Guided Tour : Part One – Ritual Space And The Radiating Law"
+date = "2020-11-18"
+upstream_url = "https://aryaakasha.com/2020/11/18/the-indo-european-cosmology-a-brief-guided-tour-part-one-ritual-space-and-the-radiating-law/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/11/18/the-indo-european-cosmology-a-brief-guided-tour-part-one-ritual-space-and-the-radiating-law/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/11/d1d5b88f4302d821372b722ac76d2c80-1.jpg?w=500)
 
 Two areas I have long intended to direct more effort towards extolling –

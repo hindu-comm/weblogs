@@ -1,7 +1,11 @@
 +++
 title = "Dinosaurian endothermy"
+date = "2013-07-13"
+upstream_url = "https://manasataramgini.wordpress.com/2013/07/13/dinosaurian-endothermy/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/07/13/dinosaurian-endothermy/).
+
 Modern dinosaurs are endothermic but were the extinct Cenozoic dinosaurs
 endothermic? If so were the Mesozoic dinosaurs endothermic? Modern
 mammals are endothermic, were the extinct Cenozoic mammals endothermic?
@@ -20,12 +24,12 @@ So there was the great debate as to whether the Mesozoic dinosaurs were
 endothermic or not. In the case of the mammals the intuition ran almost
 the opposite way. Few people even thought it as being a worthwhile
 question to investigate whether Mesozoic mammals were endothermic – they
-simply had to be\! For many this even organically extended to the
-Permian with everything within clade Theriodontia or even Therapsida
-being considered endothermic. It was only after the great anatomist
-Witmer clearly outlined the principle of the extant phylogenetic bracket
-(EPB) that people realized what the logic was to tackle such questions.
-Since crocodiles are exothermic and extant dinosaurs are endothermic the
+simply had to be! For many this even organically extended to the Permian
+with everything within clade Theriodontia or even Therapsida being
+considered endothermic. It was only after the great anatomist Witmer
+clearly outlined the principle of the extant phylogenetic bracket (EPB)
+that people realized what the logic was to tackle such questions. Since
+crocodiles are exothermic and extant dinosaurs are endothermic the
 principle of the EPB showed that it simply could not be assumed that the
 stem mammals or the stem birds, i.e. Mesozoic dinosaurs, were
 endothermic. It needed independent biological arguments to establish
@@ -202,3 +206,4 @@ niches in places like Australia.
 
 [![](https://lh5.googleusercontent.com/-QrqiK4ouA-I/UeYr3_APOUI/AAAAAAAACtQ/97cP2YDywkI/s400/godha.bmp.jpg)](https://picasaweb.google.com/lh/photo/p6L2xwigMZkXouCRMINDXNMTjNZETYmyPJy0liipFm0?feat=embedwebsite)  
 *Varanus consuming mammalian prey*
+

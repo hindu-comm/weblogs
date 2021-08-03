@@ -1,7 +1,11 @@
 +++
 title = "The gandharva flight"
+date = "2009-09-06"
+upstream_url = "https://manasataramgini.wordpress.com/2009/09/06/the-gandharva-flight/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/09/06/the-gandharva-flight/).
+
 [![shiva](https://i1.wp.com/farm4.static.flickr.com/3418/3891424867_e6a6dfa66e.jpg)](http://www.flickr.com/photos/24766652@N05/3891424867/ "shiva by somasushma, on Flickr")
 
 We saw parachitAMbA and paramashaMbhu in our Aj\~na chakra. Like a
@@ -24,3 +28,4 @@ upachAra. Thereafter she opened the way for the paramasukha that is not
 available to those trapped in the lower existence of dissipation. We
 remained absorbed in yoga of abhisaMbodhi witnessing dance of the hordes
 of vIrabhadra and bhadrakAlI.
+

@@ -1,7 +1,11 @@
 +++
 title = "vikrama enters the graveyard"
+date = "2007-03-06"
+upstream_url = "https://manasataramgini.wordpress.com/2007/03/06/vikrama-enters-the-graveyard/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/03/06/vikrama-enters-the-graveyard/).
+
 tataH shamashAnam saMprApa niHsha\~Nko bhuta-saMkulaM  
 sarvApAyamayaM kAyam ivA .a.ayAsashatAshrayaM  
 Then fearlessly he entered the crematorium which was full of ghosts  
@@ -121,16 +125,16 @@ He \[vikrama\] saw in the terrible grove of the manes, served by
 DAkinIs,  
 kShAntishIla at the foot of the Ficus religiosa tree, drawing a
 maNDala.  
-\-kShemendra
+-kShemendra
 
-(1) kShemendra had studied with abhinavagupta the great kula/krama/trika
-tantric and was evidently very familiar with the graveyard rituals of
-shrIkula and kAlikula. He subsequently went over to the pA\~ncharAtra
-school of tantric vaiShNavism. I suspect the vIrendra-s here refer to
-the performers of vIrasAdhana (even as it does in the
-lalitA-sahasranAmam- mahAvIrendra tanayA) invoking yogini-s in the
-shmashAna. This vIrasAdhana is clearly mentioned in the brahma yAmala
-whose other elements may color this poem.  
+\(1\) kShemendra had studied with abhinavagupta the great
+kula/krama/trika tantric and was evidently very familiar with the
+graveyard rituals of shrIkula and kAlikula. He subsequently went over to
+the pA\~ncharAtra school of tantric vaiShNavism. I suspect the
+vIrendra-s here refer to the performers of vIrasAdhana (even as it does
+in the lalitA-sahasranAmam- mahAvIrendra tanayA) invoking yogini-s in
+the shmashAna. This vIrasAdhana is clearly mentioned in the brahma
+yAmala whose other elements may color this poem.  
 (2) Even bhaTTa somadeva uses a similar simile in his kathA-sarit-sAgara
 which implies this comparison was there in the original
 vetAla-pa\~nchaviMshati. Of course, both kShemendra and somadeva, with
@@ -151,3 +155,4 @@ harShaNa into an ecstatic state.
 kula ritual sanctioned by the pichumata of the pichu-maNDala performed
 in the shmashAna, where the great goddess manifests as kulavidyA, the
 chakreshvarI.
+

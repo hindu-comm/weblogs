@@ -1,7 +1,11 @@
 +++
 title = "Oldest archaeological signs of ritual?"
+date = "2006-12-04"
+upstream_url = "https://manasataramgini.wordpress.com/2006/12/04/oldest-archaeological-signs-of-ritual/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/12/04/oldest-archaeological-signs-of-ritual/).
+
 When did human rituals begin? As a ritualist and evolutionary explorer
 this question has naturally attracted my attention. My own contention is
 that the genetico-memetic complex of ritual probably goes back to our
@@ -33,7 +37,7 @@ and Lockley uncovered a remarkable piece of ritual art of the Bushmen
 from Lesotho. In a Lesotho cave the Bushmen made cave paintings of
 ornithopod dinosaur tracks from the Jurassic as also their trackmakers.
 These reconstructions are apparently reasonably accurate drawings of
-bipedal dinosaur\! This is something the 18th and 19th century European
+bipedal dinosaur! This is something the 18th and 19th century European
 biologists failed to establish in their first attempt. This shows the
 acute sense of relationship between tracks and the animals that the
 Bushmen have developed over time. Interestingly, one of these
@@ -44,4 +48,5 @@ As an aside, these dinosaur-inspired beings remind me of the devatA-s of
 the akAsha bhairavaM in our tradition. From the behind mist, the
 dinosaurine inspirations for forms of AkAsha bhairava, AshugaruDa,
 sharabha and pakShirAja become apparent, [as R had earlier
-speculated](http://manasataramgini.wordpress.com/2006/05/arimaspas-dinosaurs-griffins-and.html).
+speculated](http://manollasa.blogspot.com/2006/05/arimaspas-dinosaurs-griffins-and.html).
+

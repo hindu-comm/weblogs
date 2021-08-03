@@ -1,7 +1,11 @@
 +++
 title = "Maharatti and Kannada and more musing on Indo-Aryan"
+date = "2006-07-16"
+upstream_url = "https://manasataramgini.wordpress.com/2006/07/16/maharatti-and-kannada-and-more-musing-on-indo-aryan/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/07/16/maharatti-and-kannada-and-more-musing-on-indo-aryan/).
+
 Obivously, Indo-Aryan and Dravidian have been at the center of my
 linguistic interests because they are the very basis of my cultural and
 genetic heritage. During my peregrinations in the peninsula I made some
@@ -62,3 +66,4 @@ These observations of the fluctuations of Aryanized Dravidian and IA, as
 well as caste specific dialect formation suggests that the spread of IA
 in the peninsula was a complex phenomenon, poorly understood by most
 white Indologists (other than Masica).
+

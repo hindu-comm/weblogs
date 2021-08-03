@@ -1,7 +1,11 @@
 +++
 title = "Problems in avian evolution"
+date = "2007-06-10"
+upstream_url = "https://manasataramgini.wordpress.com/2007/06/10/problems-in-avian-evolution/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/06/10/problems-in-avian-evolution/).
+
 Since the Mesozoic, dinosaurs have become one of the most visible
 components of the terrestrial ecosystems. Yet, the dinosaurs alive today
 only represent a small sliver of their diversity during their heydays in
@@ -33,7 +37,7 @@ The euornithines, the clade which includes all Mesozoic pygostylians
 closer to crown group neornithes than the enantiornithines, also
 underwent a remarkable radiation in the late Mesozoic giving rise to
 several ecologically diverse lineages ([See early article for
-details](http://manasataramgini.wordpress.com/2006/06/gansus-and-early-ornithuromorph.html)).
+details](http://manollasa.blogspot.com/2006/06/gansus-and-early-ornithuromorph.html)).
 These included independent lines of shore birds- the Chaoyangids:
 Chaoyangia and Hongshangornis and the Songlingornithids like Yanornis
 and Yixianornis; desert birds like Apsaravis; flightless runners like
@@ -123,3 +127,4 @@ and parrots might form a clade, perhaps including the hornbills. This
 clade might either be an early branch of the remaining neoaves clade
 after the passeriformes split off, or a sister group of all of other
 neoaves.
+

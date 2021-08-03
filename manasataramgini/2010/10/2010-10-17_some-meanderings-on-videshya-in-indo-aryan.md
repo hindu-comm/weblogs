@@ -1,7 +1,11 @@
 +++
 title = "Some meanderings on videshya in Indo-Aryan"
+date = "2010-10-17"
+upstream_url = "https://manasataramgini.wordpress.com/2010/10/17/some-meanderings-on-videshya-in-indo-aryan/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/10/17/some-meanderings-on-videshya-in-indo-aryan/).
+
 The traditional thought of the Arya-s described a class of words termed
 deshya or originating in the country. Modern analysis suggests that this
 class is a mixture comprised of: 1) non-Aryan words presumably emerging
@@ -19,9 +23,9 @@ states. For example, the modern Hindi word dAm (price of a commodity)
 comes from the Prakritic damma which in turn is derived from Sanskrit
 drakma (the Greek loan drachma meaning the classical coin). This could
 be an example of NIA lengthening of the Prakrit consonant duplication
-for a Sanskrit consonant cluster (e.g. rAtra\> ratta\> rAt \[night\];
-jihvA\>jibbhA\>jIbh \[tongue\]). With Roman trade we also saw the
-adoption of dinara (from denarius) into Sanskrit.
+for a Sanskrit consonant cluster (e.g. rAtra> ratta> rAt \[night\];
+jihvA>jibbhA>jIbh \[tongue\]). With Roman trade we also saw the adoption
+of dinara (from denarius) into Sanskrit.
 
 Another set of late loans into New Indo-Aryan tongues happened due to
 the Mohammedan occupation of part of jambudvIpa. This brought in more
@@ -167,4 +171,5 @@ imagination or the creation of Hindu “obscurantists” like bharatendu or
 the learned AchArya raghuvIra and his son shrI lokeshchandra. This is
 however simply not true because what I talk about is evident in
 mahArATTI which was certainly nor influenced by the names mentioned
-above\!
+above!
+

@@ -1,8 +1,11 @@
 +++
-title = "To Navigate The Seas Of The Sun – What Kepler’s Letter To Galileo Can Tell Us About Reading Thexa0Past"
-date = "October 2, 2019"
+title = "To Navigate The Seas Of The Sun – What Kepler’s Letter To Galileo Can Tell Us About Reading The Past"
+date = "2019-10-02"
+upstream_url = "https://aryaakasha.com/2019/10/02/to-navigate-the-seas-of-the-sun-what-keplers-letter-to-galileo-can-tell-us-about-reading-the-past/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/10/02/to-navigate-the-seas-of-the-sun-what-keplers-letter-to-galileo-can-tell-us-about-reading-the-past/).
+
 ![hammership_by_silverbladete](https://aryaakasha.files.wordpress.com/2019/10/hammership_by_silverbladete.jpg?w=676)
 
 I’ve had this quote upon my mind since this morning. It’s from a letter

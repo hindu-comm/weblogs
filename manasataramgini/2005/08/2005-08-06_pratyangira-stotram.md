@@ -1,19 +1,23 @@
 +++
 title = "pratya~NgirA stotrAm"
+date = "2005-08-06"
+upstream_url = "https://manasataramgini.wordpress.com/2005/08/06/pratyangira-stotram/"
 
 +++
-brahma-svarUpe brahmeshI brahmAstra khaDgadhAriNI |  
-brAhmI pratya\~Ngire devi ava brahma-dviSho jahi ||   
-viShNurUpe vaiShNavI ghorAstra khaDgadhAriNI |   
-nArAyaNi pratya\~Ngire mama shatrUn vidveShaya ||   
-rudra svarUpe rudreshI rudrAstra khaDgadhAriNI |   
-raudrI pratyangire devI mamashatrUn-uchChaTaya ||   
-ugrasvarupe ugreshI ugrAstra khaDgadhAriNI |   
-ugrakR^ityA pratyangire ugrAbhichAryAn-nAshaya ||   
-bhadrakAli ugra-atharva sukta khaDgadhAriNI |   
-bhArgava-mantra hR^idayA rakSha mAM sharaNAgatam ||   
-mahAkR^itye ugravidyA mahAstra khaDgadhAriNI |   
-mahAkR^ityA pratyangire mahAkShudrAn vinAshaya ||
+Source: [here](https://manasataramgini.wordpress.com/2005/08/06/pratyangira-stotram/).
+
+brahma-svarUpe brahmeshI brahmAstra khaDgadhAriNI \|  
+brAhmI pratya\~Ngire devi ava brahma-dviSho jahi \|\|   
+viShNurUpe vaiShNavI ghorAstra khaDgadhAriNI \|   
+nArAyaNi pratya\~Ngire mama shatrUn vidveShaya \|\|   
+rudra svarUpe rudreshI rudrAstra khaDgadhAriNI \|   
+raudrI pratyangire devI mamashatrUn-uchChaTaya \|\|   
+ugrasvarupe ugreshI ugrAstra khaDgadhAriNI \|   
+ugrakR^ityA pratyangire ugrAbhichAryAn-nAshaya \|\|   
+bhadrakAli ugra-atharva sukta khaDgadhAriNI \|   
+bhArgava-mantra hR^idayA rakSha mAM sharaNAgataM \|\|   
+mahAkR^itye ugravidyA mahAstra khaDgadhAriNI \|   
+mahAkR^ityA pratyangire mahAkShudrAn vinAshaya \|\|
 
 The stotra shrI pratya\~NgirA devI passed through the lineage of hoary
 tantrics thus:
@@ -60,3 +64,4 @@ great adept of the kaumAra lore in addition to shrI-kula and kAli-kula
 tantras. He was succeeded by shrIcharyendranAtha.
 
 Thus, is the line of tantric teachers.
+

@@ -1,7 +1,11 @@
 +++
 title = "The strange case of a person from South Carolina: Revisiting human archaism and modernity in Africa and elsewhere"
+date = "2013-03-07"
+upstream_url = "https://manasataramgini.wordpress.com/2013/03/07/the-strange-case-of-a-person-from-south-carolina-revisiting-human-archaism-and-modernity-in-africa-and-elsewhere/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/03/07/the-strange-case-of-a-person-from-south-carolina-revisiting-human-archaism-and-modernity-in-africa-and-elsewhere/).
+
 It was in the year yuvan, which we were passing through for the first
 time in our life, when skanda freed us from the vile dasyu who was
 tailing us for a while. In the city of the great dancers our eyes fell
@@ -65,7 +69,7 @@ Kya (consistent with the bone’s date). Strikingly, the calvaria of this
 individual had features that resembled archaic fossil Homo represented
 by skulls such as Omo1/2 (195-200 Kya, Ethiopia), Saccopastore 1 a
 primitive Neanderthal-like skull (100-130 Kya, Italy) and Ngandong, i.e.
-the Solo man or a Homo erectus-like skull (\>143 Kya, Java). A principal
+the Solo man or a Homo erectus-like skull (>143 Kya, Java). A principal
 component analysis of calvarial landmarks including the Iwo Eleru human
 shows that it groups outside the cluster of modern and almost all Upper
 Paleolithic humans and shows affinities with Homo heidelbergensis and
@@ -91,7 +95,7 @@ extremely early branching ones of the Bushmen of Southern Africa. An
 estimate of the age of divergence of this Y chromosome from the rest of
 the human males showed that it was 338 Kya (95% conﬁdence interval
 237–581 Kya). This is well beyond the age of any thing which has been
-considered AMHs\! Interestingly, this African-American was not alone in
+considered AMHs! Interestingly, this African-American was not alone in
 having this Y-chromosome. Further investigations by the authors showed
 that related Y-chromosomes could be seen in multiple males among the Mbo
 people of Cameroon not far from the Nigerian border. This Y-haplotype
@@ -246,3 +250,4 @@ and their metal age destroyers. If not mere technology was it brain
 power acting in via alternative modes, immunity or social factors such
 as religion? Distinguishing between their roles still remains
 unaccomplished.
+

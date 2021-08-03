@@ -1,7 +1,11 @@
 +++
 title = "Hammira Deva’s last stand"
+date = "2004-06-20"
+upstream_url = "https://manasataramgini.wordpress.com/2004/06/20/hammira-devas-last-stand/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/06/20/hammira-devas-last-stand/).
+
 [Continue reading from
 Jalal-ud-din](https://manasataramgini.wordpress.com/2004/06/20/jalal-ud-din/)  
 After Alla murdered Jalal and took the throne of Delhi he decided to
@@ -123,3 +127,4 @@ salvaged was collated several years later as a collection of maxims and
 poetic sketches by Sharngadhara the grandson of Raghavadeva the Brahmin
 prime minister of Hammira Deva. The numerous untraceable verses in it
 are a testimony to the loss of Hindu knowledge in North India.
+

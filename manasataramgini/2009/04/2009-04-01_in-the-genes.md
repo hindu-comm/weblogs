@@ -1,7 +1,11 @@
 +++
 title = "In the genes"
+date = "2009-04-01"
+upstream_url = "https://manasataramgini.wordpress.com/2009/04/01/in-the-genes/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/04/01/in-the-genes/).
+
 My mAtAshrI was reading out a piece of kAvya written by one of us. I
 remarked it must be composed by the muni. But she claimed it was written
 by me. This sort of puzzled me because I had no recollection of ever
@@ -28,3 +32,4 @@ shared it with the muni and I was not around when he began versifying.
 Yet the convergences of content and mantra vision (or devatA vision as
 the muni might tend to term it) that we realized post facto are quite
 striking. It was then I realized this vector derives from the genes.
+

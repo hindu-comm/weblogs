@@ -1,8 +1,11 @@
 +++
 title = "A transcription of a stotra which gives the pañcabrahma mantras and tryambaka mantra in a form which everyone can recite along with the 5 syllabled(pañcākṣarī) mantra"
 date = "2021-06-25"
+upstream_url = "https://padmavajra.net/2021/06/25/a-transcription-of-a-stotra-which-gives-the-pancabrahma-mantras-and-tryambaka-mantra-in-a-form-which-everyone-can-recite-along-with-the-5-syllabledpancak%e1%b9%a3ari-mantra/"
 
 +++
+Source: [here](https://padmavajra.net/2021/06/25/a-transcription-of-a-stotra-which-gives-the-pancabrahma-mantras-and-tryambaka-mantra-in-a-form-which-everyone-can-recite-along-with-the-5-syllabledpancak%e1%b9%a3ari-mantra/).
+
 This hymn is from the Kaumārikakhaṇḍa of the Māheśvarakhaṇḍa of the
 Skanda Purāṇa. It gives the mantras of the 5 faces of Śiva(known as the
 pañca(five) brahma mantras/vaktra mantras) and the tryāmbaka mantra in a

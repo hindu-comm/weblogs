@@ -1,7 +1,11 @@
 +++
 title = "The dangers of Turkey"
+date = "2010-05-31"
+upstream_url = "https://manasataramgini.wordpress.com/2010/05/31/the-dangers-of-turkey/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/05/31/the-dangers-of-turkey/).
+
 This is just a brief distraction from our paleontological narratives to
 which we hope return. It is important for Hindus to observe Turkey. Some
 time ago in our discussion on Islamic potentates we had mentioned that
@@ -61,3 +65,4 @@ Kilafat movement. Today the Italian plant and her bald Sikh protégé do
 the same. Then the British poet Wilfrid Blunt admired Jamaluddin
 Afghani, today the mlechChAdipati bans a Dutch politician from entering
 England for talking the truth about the shashidhvaja-s.
+

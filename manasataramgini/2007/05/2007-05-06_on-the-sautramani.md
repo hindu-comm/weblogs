@@ -1,7 +1,11 @@
 +++
 title = "On the sautrAmaNI"
+date = "2007-05-06"
+upstream_url = "https://manasataramgini.wordpress.com/2007/05/06/on-the-sautramani/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/05/06/on-the-sautramani/).
+
 The celebrated sautrAmaNI rite, which is one of the rare shrauta rites
 in which oblations of
 [beer](https://manasataramgini.wordpress.com/2004/03/22/vedic-beer/) are
@@ -43,13 +47,14 @@ charaka sautrAmaNi as instituted by the kR^iShNa-yajurvedic charakas.
 
 The structure of the sautrAmaNi ritual closely follows its oldest
 mention in the indra sutrAman sUktaM (RV 10.131):  
-yuvaM surAmam ashvinA namuchAvAsure sachA |  
-vipipAnAshubhas patI indraM karmasvAvatam ||  
+yuvaM surAmam ashvinA namuchAvAsure sachA \|  
+vipipAnAshubhas patI indraM karmasvAvatam \|\|  
 Young ashvins, auspicious lords, drank swigs of good beer, and refreshed
 indra in his work with the Asuric namuci.
 
-putram iva pitarAv-ashvinobhendrAvathuH kAvyair-daMsanAbhiH |  
-yat surAmaM vyapibaH shachIbhiH sarasvatI tvA maghavan-nabhiShNak ||  
+putram iva pitarAv-ashvinobhendrAvathuH kAvyair-daMsanAbhiH \|  
+yat surAmaM vyapibaH shachIbhiH sarasvatI tvA maghavan-nabhiShNak \|\|  
 As parents aid a son, the two Asvins, have helped you O indra, with
 their wondrous powers and mantras. When you, with glory had drunk the
 swigs of beer, sarasvati refreshed you maghavan.
+

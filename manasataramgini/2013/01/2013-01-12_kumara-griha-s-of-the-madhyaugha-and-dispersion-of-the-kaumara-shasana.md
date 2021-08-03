@@ -1,7 +1,11 @@
 +++
 title = "Some notes on the dispersion of the kaumAra-shAsana"
+date = "2013-01-12"
+upstream_url = "https://manasataramgini.wordpress.com/2013/01/12/kumara-griha-s-of-the-madhyaugha-and-dispersion-of-the-kaumara-shasana/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/01/12/kumara-griha-s-of-the-madhyaugha-and-dispersion-of-the-kaumara-shasana/).
+
 In the early 1900s the English archaeologist John Marshall began
 excavations at Bhita (pronounced: bhITA) near prayAga, modern Uttar
 Pradesh. He wrote an account of this excavation aided by the native
@@ -67,8 +71,8 @@ center of influence.
 
 In this context is of interest to note that in the terminal part of the
 andhra list in the purANa-s we tend encounter theophorous names with
-“skanda”: shiva-skanda shAtakarNi; skanda shAtakarNi; skanda-svAti.
-The reality of such theophorous names is supported by multiple lines of
+“skanda”: shiva-skanda shAtakarNi; skanda shAtakarNi; skanda-svAti. The
+reality of such theophorous names is supported by multiple lines of
 archaeological evidence: 1) Coins belonging to an andhra ruler
 vAsiShThIputra shrI skanda shAtakarNi have been found in the (i)
 wATegAon hoard, wALwA tAlukA, Sangli, Maharashtra; (ii) the tarhALa
@@ -93,8 +97,8 @@ of the andhra-s, which may have included rulers like skanda nAga
 shAtavAhana of the Kanheri inscription). On the other hand, we also have
 some purANa-s mention a dynasty called the megha that ruled a koshala
 (i.e. with ayodhya as center of power):  
-koshalAyAM tu rAjAno bhaviShyanti mahAbalAH |  
-meghA iti samAkhyAtAH buddhimanto navaiva tu ||
+koshalAyAM tu rAjAno bhaviShyanti mahAbalAH \|  
+meghA iti samAkhyAtAH buddhimanto navaiva tu \|\|
 
 Some have suggested, based on the name shivamegha, that this dynasty
 might actually correspond to that of the 9 megha-s who ruled before the
@@ -119,3 +123,4 @@ to the sacred geography of bhArata were all simultaneously active at
 their greatest vigor. The ground work for this was probably already in
 place due to the movements of the vaikhAnasa-associated brAhmaNa-s who
 worshiped both viShNu and kumAra.
+

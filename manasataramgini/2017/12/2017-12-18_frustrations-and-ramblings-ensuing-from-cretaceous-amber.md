@@ -1,7 +1,11 @@
 +++
 title = "Frustrations and ramblings ensuing from Cretaceous amber"
+date = "2017-12-18"
+upstream_url = "https://manasataramgini.wordpress.com/2017/12/18/frustrations-and-ramblings-ensuing-from-cretaceous-amber/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2017/12/18/frustrations-and-ramblings-ensuing-from-cretaceous-amber/).
+
 Time and again I have been frustrated by the inability of Hindus to make
 the most of the riches that are available in their own land or right
 next to them. One such case is that of Cretaceous amber from Myanmar,
@@ -70,19 +74,19 @@ Hence, we believe this was an old name for amber. Varāhamihira
 classifies this gemstone in the padmarāga category. He says the gems of
 this class are of three types in the beginning of chapter 81:
 
-saugandhika-kuruvinda-sphaṭikebhyaḥ padmarāga-sambhūtiḥ |  
+saugandhika-kuruvinda-sphaṭikebhyaḥ padmarāga-sambhūtiḥ \|  
 The padmarāga-s are formed from saugandhika (resin), corundum and
 crystals
 
-saugandhikajā bhramara-añjana-abja-jambūrasa-dyutayaḥ ||  
+saugandhikajā bhramara-añjana-abja-jambūrasa-dyutayaḥ \|\|  
 That originating from resin have the shimmer of bees, collyrium, clouds
 and the rose-apple juice.
 
-kuruvinda-bhavāḥ śabalā manda-dyutayaś ca dhātubhir viddhāḥ |  
+kuruvinda-bhavāḥ śabalā manda-dyutayaś ca dhātubhir viddhāḥ \|  
 Those originating from corundum are dappled, with a dim glow and
 permeated by mineral inclusions.
 
-sphaṭika-bhavā dyutimanto nānā-varṇā viśuddhāś ca ||  
+sphaṭika-bhavā dyutimanto nānā-varṇā viśuddhāś ca \|\|  
 Those originating from crystals are lustrous, with multi-colored
 \[sparkle\] and clear.
 
@@ -108,12 +112,12 @@ This word has give rise to the modern words like electricity and
 electron. This is due to the static electricity generated in amber, i.e.
 triboelectric charging, when rubbed with a woolen cloth. This property
 has given rise to the second name for it in Sanskrit tṛṇamaṇi or
-tṛṇagraha. This literally means the straw-gem or the straw-seizer.
-This property of amber is used by the great Kashmirian kavi Kalhaṇa in a
+tṛṇagraha. This literally means the straw-gem or the straw-seizer. This
+property of amber is used by the great Kashmirian kavi Kalhaṇa in a
 beautiful simile, where he describes the acts of a warrior Rilhaṇa:
 
-tat khaḍgasya ghnataḥ khaḍgāñ jīvair jālac chalād dhruvam |  
-utthāya lagnaṃ śatrūṇāṃ tṛṇais tṛṇamaṇer iva ||
+tat khaḍgasya ghnataḥ khaḍgāñ jīvair jālac chalād dhruvam \|  
+utthāya lagnaṃ śatrūṇāṃ tṛṇais tṛṇamaṇer iva \|\|
 
 As his\[Rilhaṇa’s\] sword’s blows struck down their swords,  
 the enemies’ lives \[were stuck firmly\] as a web \[to his sword\],  
@@ -127,9 +131,9 @@ millennium of the common era amber’s value was declining in the Indian
 mind. He says:
 
 cintāmaṇes tṛṇamaṇeś ca kṛtaṃ vidhātrā  
-kenobhayor api maṇitvam adaḥ samānam |  
+kenobhayor api maṇitvam adaḥ samānam \|  
 naiko’rthitāni dadad arthijanāya khinno  
-gṛhṇañ jarat-tṛṇalavaṃ tu na lajjate’nyaḥ ||
+gṛhṇañ jarat-tṛṇalavaṃ tu na lajjate’nyaḥ \|\|
 
 The cintāmaṇi and amber, both made by Vidhātṛ,  
 now then why should the gem-hood of both \[be considered\] equal?  
@@ -152,4 +156,5 @@ However, we would say this decline of amber in the Hindu mind was not a
 good thing, bringing us back to where we started this note. For a
 paleontologist the Cretaceous amber, the tṛṇmaṇi of yore is indeed
 nothing short of a cintāmaṇi: pariṇāmavadibhyas tṛṇamaṇiś cintāmaṇir eva
-|
+\|
+

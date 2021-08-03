@@ -1,8 +1,11 @@
 +++
-title = "TIWAZ in Anatolian And Germanicxa0Languages"
-date = "June 14, 2019"
+title = "TIWAZ in Anatolian And Germanic Languages"
+date = "2019-06-14"
+upstream_url = "https://aryaakasha.com/2019/06/14/tiwaz-in-anatolian-and-germanic-languages/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/06/14/tiwaz-in-anatolian-and-germanic-languages/).
+
 ![Tiwaz
 Luwian](https://aryaakasha.files.wordpress.com/2019/06/tiwaz-luwian.png?w=676)  
 “Something I love about what we do, is how every so often we come across

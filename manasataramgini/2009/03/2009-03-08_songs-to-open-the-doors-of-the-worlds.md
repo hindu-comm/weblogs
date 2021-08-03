@@ -1,7 +1,11 @@
 +++
 title = "Songs to open the doors of the worlds"
+date = "2009-03-08"
+upstream_url = "https://manasataramgini.wordpress.com/2009/03/08/songs-to-open-the-doors-of-the-worlds/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/03/08/songs-to-open-the-doors-of-the-worlds/).
+
 The 4 gAna-s that comprise the vaishadeva series are based on the code
 words:  
 rAT, virAT, svarAT, saMrAT. The first is for the conquest of pR^ithivi,
@@ -38,3 +42,4 @@ which happens early in a DMT experience, and then the expansion of
 consciousness to occupy the worlds). The big question is how did the
 vipra-s attain experience of these states –was it via substance or a
 proto-yoga?
+

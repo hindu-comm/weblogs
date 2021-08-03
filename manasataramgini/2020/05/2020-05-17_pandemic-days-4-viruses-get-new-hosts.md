@@ -1,7 +1,11 @@
 +++
 title = "Pandemic days-4: viruses get new hosts"
+date = "2020-05-17"
+upstream_url = "https://manasataramgini.wordpress.com/2020/05/17/pandemic-days-4-viruses-get-new-hosts/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2020/05/17/pandemic-days-4-viruses-get-new-hosts/).
+
 That we have come to be in these pandemic days evokes some wonderment or
 even disbelief among laypeople. The general thinking of a large section
 of the populace is that this event is something completely unexpected or
@@ -42,7 +46,7 @@ punch more to the extreme right end of the distribution of effects.
 
 Of course when this is pointed out someone would say: “Come on, did any
 of those put us in a state like what we are in right now? This
-coronavirus is special \!” There is a reason I did not mention
+coronavirus is special !” There is a reason I did not mention
 coronaviruses in the above list — they are indeed special in a way to
 deserve separate consideration but what we are experiencing is also
 quite expected given what we know of the natural history of these the
@@ -151,30 +155,30 @@ the Ancestor of Betacoronavirus Lineage A” by Susanna K. P. Lau et al.
 
 In the past 20 years we have been witness to several such invasions of
 humans and domesticated mammals (Figure 2):  
-1\) SARS-CoV of the Beta-CoV clade, the agent of the SARS outbreak which
+1) SARS-CoV of the Beta-CoV clade, the agent of the SARS outbreak which
 began in November 2002 in Foshan City, Guangdong, China, definitely
 started from bats but reached humans via civets, which are eaten by the
 Cīna-s. In August 2003 a virology student in Singapore and in April 2004
 two laboratory personnel at the Chinese Institute of Virology in Beijing
 were independently infected by laboratory SARS-CoV due to poor
 virological technique.  
-2\) In 2012 MERS outbreak started in Arabia with the transmission of a
+2) In 2012 MERS outbreak started in Arabia with the transmission of a
 distinct beta-CoV from dromedaries to humans. Dromedaries are often
 imported to Arabia from Africa where a closely related virus has been
 found in bats suggesting that the camels first acquired it from bats in
 Africa and then transmitted it humans.  
-3\) Again in 2012, the coronavirus HKU15 was detected in pigs in Hong
+3) Again in 2012, the coronavirus HKU15 was detected in pigs in Hong
 Kong. This delta-CoV appears to have jumped from birds to mammals
 probably in the unhygienic live markets of China. In 2014 it caused
 outbreaks of a diarrheal disease in several states of the USA. In Asia
 it seems to have further spread from pigs to wild cats.  
-4\) In 2017, not far from the place of original SARS outbreak, in
+4) In 2017, not far from the place of original SARS outbreak, in
 Guangdong, China, a novel alpha-CoV caused a major outbreak of acute
 swine diarrhea syndrome (SADS-CoV) decimating a large number of piglets,
 which are an important food item of the Cīna-s. It was transmitted from
 bats which are infected by a related HKU2r-CoV. Outbreaks of this virus
 have continued in Chinese pig populations till as of an year back.  
-5\) In November of 2019 a repeat performance of the SARS event happened
+5) In November of 2019 a repeat performance of the SARS event happened
 in Wuhan, China, with the related SARS-CoV-2 jumping from bats to humans
 directly or via an intermediate which could have been something like
 cats that are consumed by the Cīna-s. This has become the agent of the
@@ -312,7 +316,7 @@ Asia where consumption of such animals is prevalent. Africa is another
 possibility, though the relatively low connectivity of Africa to the
 rest of the world until not long ago makes it less likely. The 2007, the
 camelids known as alpacas (llamas) were found to be infected by a novel
-coronavirus closely related to HCoV 229E resulting in the  alpaca
+coronavirus closely related to HCoV 229E resulting in the alpaca
 respiratory disease. This points to a recent crossover from another
 animal source — this evidently parallels the original crossover of the
 related virus to humans. These pre-modern events probably spread more
@@ -380,3 +384,4 @@ HIV-1 and in the past might have also interacted with the Smallpox
 Virus, it is rather useful for immunity against other viruses like the
 West Nile virus. Hence, docking it might actually increase
 susceptibility in a different direction.
+

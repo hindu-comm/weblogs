@@ -1,7 +1,11 @@
 +++
 title = "Fraudulent science by Indians: some really bad news"
+date = "2019-03-03"
+upstream_url = "https://manasataramgini.wordpress.com/2019/03/03/fraudulent-science-by-indians-some-really-bad-news/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2019/03/03/fraudulent-science-by-indians-some-really-bad-news/).
+
 Around 2011 we were approached by a researcher of Indian origin for a
 collaboration in biochemistry regarding a family of proteins whose
 biochemical functions we had uncovered. After more than an year of
@@ -58,15 +62,14 @@ Cheaters/million & Cheaters/1000 \\\\ \\hline European & 27 & 45.00 &
 11.70 & 1.85 & 0.57 \\\\ West Asian & 4 & 6.70 & 0.38 & 2.32 \\\\ Korean
 & 1 & 1.70 & 0.59 & 0.25 \\\\ Japanese & 1 & 1.70 & 0.77 & 0.33 \\\\
 \\hline
-\\end{tabular}](https://s0.wp.com/latex.php?latex=%5Cbegin%7Btabular%7D%7Blrrrr%7D++%5Chline++Origin+%26+Count+%26+Percentage+%26+Cheaters%2Fmillion+%26+Cheaters%2F1000+%5C%5C++%5Chline++European+%26+27+%26+45.00+%26+0.14+%26+0.67+%5C%5C++Indian+%26+20+%26+33.30+%26+6.29+%26+4.72+%5C%5C++Chinese+%26+7+%26+11.70+%26+1.85+%26+0.57+%5C%5C++West+Asian+%26+4+%26+6.70+%26+0.38+%26+2.32+%5C%5C++Korean+%26+1+%26+1.70+%26+0.59+%26+0.25+%5C%5C++Japanese+%26+1+%26+1.70+%26+0.77+%26+0.33+%5C%5C++%5Chline++%5Cend%7Btabular%7D&bg=ffffff&fg=333333&s=0
-"\\begin{tabular}{lrrrr}  \\hline  Origin & Count & Percentage & Cheaters/million & Cheaters/1000 \\\\  \\hline  European & 27 & 45.00 & 0.14 & 0.67 \\\\  Indian & 20 & 33.30 & 6.29 & 4.72 \\\\  Chinese & 7 & 11.70 & 1.85 & 0.57 \\\\  West Asian & 4 & 6.70 & 0.38 & 2.32 \\\\  Korean & 1 & 1.70 & 0.59 & 0.25 \\\\  Japanese & 1 & 1.70 & 0.77 & 0.33 \\\\  \\hline  \\end{tabular}")
+\\end{tabular}](https://s0.wp.com/latex.php?latex=%5Cbegin%7Btabular%7D%7Blrrrr%7D++%5Chline++Origin+%26+Count+%26+Percentage+%26+Cheaters%2Fmillion+%26+Cheaters%2F1000+%5C%5C++%5Chline++European+%26+27+%26+45.00+%26+0.14+%26+0.67+%5C%5C++Indian+%26+20+%26+33.30+%26+6.29+%26+4.72+%5C%5C++Chinese+%26+7+%26+11.70+%26+1.85+%26+0.57+%5C%5C++West+Asian+%26+4+%26+6.70+%26+0.38+%26+2.32+%5C%5C++Korean+%26+1+%26+1.70+%26+0.59+%26+0.25+%5C%5C++Japanese+%26+1+%26+1.70+%26+0.77+%26+0.33+%5C%5C++%5Chline++%5Cend%7Btabular%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 
 Indians constitute
-![33\\%](https://s0.wp.com/latex.php?latex=33%5C%25&bg=ffffff&fg=333333&s=0
-"33\\%") of the fraud cases in the federal register. This itself is
-quite striking because it is rather clear that they do not make up that
-high a fraction of the biomedical research workforce, which is being
-probed here. Now, the simplest normalization for the counts is by the
+![33\\%](https://s0.wp.com/latex.php?latex=33%5C%25&bg=ffffff&fg=333333&s=0&c=20201002)
+of the fraud cases in the federal register. This itself is quite
+striking because it is rather clear that they do not make up that high a
+fraction of the biomedical research workforce, which is being probed
+here. Now, the simplest normalization for the counts is by the
 representation of these ethnic groups in the USA. This population data
 can be assembled quite easily by an internet search for the period under
 consideration. Normalization by this population share is shown in column
@@ -102,10 +105,9 @@ Chinese, 3928 Koreans and 3059 Japanese. For West Asians it is harder to
 get an estimate but based on the biggest contributing group of these the
 Israelis from a publication in the Jewish newspaper Haaretz we an infer
 this number to be ![\\approx
-1725](https://s0.wp.com/latex.php?latex=%5Capprox+1725&bg=ffffff&fg=333333&s=0
-"\\approx 1725"). This allows a more specific normalization, which is
-shown in column 5 of Table 1 as the number of fraudsters per 1000
-researchers.
+1725](https://s0.wp.com/latex.php?latex=%5Capprox+1725&bg=ffffff&fg=333333&s=0&c=20201002).
+This allows a more specific normalization, which is shown in column 5 of
+Table 1 as the number of fraudsters per 1000 researchers.
 
 The Indians continue to remain the most prone to fraud even after this
 more realistic normalization. If the 60 fraudsters were evenly
@@ -114,35 +116,33 @@ of finding a fraudster at random would be 0.00087. Given this and their
 numbers in the biomedical workforce, the probability that at least 20
 Indians are frauds in the federal register by chance alone is ![4.44
 \\times
-10^{-10}](https://s0.wp.com/latex.php?latex=4.44+%5Ctimes+10%5E%7B-10%7D&bg=ffffff&fg=333333&s=0
-"4.44 \\times 10^{-10}") or they are ![\\sim
-8](https://s0.wp.com/latex.php?latex=%5Csim+8&bg=ffffff&fg=333333&s=0
-"\\sim 8") times more likely than other populations to commit biomedical
-research fraud. From the names of the Indian fraudsters in the federal
-registry we can infer that in all likelihood all of them come from the
-“forward castes”. Up to
-![1/3](https://s0.wp.com/latex.php?latex=1%2F3&bg=ffffff&fg=333333&s=0
-"1/3") of them are likely of brāhmaṇa descent. This means they are drawn
-from the Indian elite. As can be seen in Table 2 they are drawn from all
-over India with a particular over-representation of individuals from
-South Indian states.
+10^{-10}](https://s0.wp.com/latex.php?latex=4.44+%5Ctimes+10%5E%7B-10%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+or they are ![\\sim
+8](https://s0.wp.com/latex.php?latex=%5Csim+8&bg=ffffff&fg=333333&s=0&c=20201002)
+times more likely than other populations to commit biomedical research
+fraud. From the names of the Indian fraudsters in the federal registry
+we can infer that in all likelihood all of them come from the “forward
+castes”. Up to
+![1/3](https://s0.wp.com/latex.php?latex=1%2F3&bg=ffffff&fg=333333&s=0&c=20201002)
+of them are likely of brāhmaṇa descent. This means they are drawn from
+the Indian elite. As can be seen in Table 2 they are drawn from all over
+India with a particular over-representation of individuals from South
+Indian states.
 
 Table 2  
 ![\\begin{tabular}{lr} \\hline Region & Count \\\\ \\hline Tamil
 Nad/Kerala & 7 \\\\ Telugu states & 4 \\\\ Bengal & 2\\\\ Sindh/Panjab &
 2 \\\\ \`\`Hindi belt'' & 3 \\\\ Maharashtra & 1 \\\\ Karnataka & 1 \\\\
 \\hline
-\\end{tabular}](https://s0.wp.com/latex.php?latex=%5Cbegin%7Btabular%7D%7Blr%7D++%5Chline++Region+%26+Count+%5C%5C++%5Chline++Tamil+Nad%2FKerala+%26+7+%5C%5C++Telugu+states+%26+4+%5C%5C++Bengal+%26+2%5C%5C++Sindh%2FPanjab+%26+2+%5C%5C++%60%60Hindi+belt%27%27+%26+3+%5C%5C++Maharashtra+%26+1+%5C%5C++Karnataka+%26+1+%5C%5C++%5Chline++%5Cend%7Btabular%7D&bg=ffffff&fg=333333&s=0
-"\\begin{tabular}{lr}  \\hline  Region & Count \\\\  \\hline  Tamil Nad/Kerala & 7 \\\\  Telugu states & 4 \\\\  Bengal & 2\\\\  Sindh/Panjab & 2 \\\\  \`\`Hindi belt'' & 3 \\\\  Maharashtra & 1 \\\\  Karnataka & 1 \\\\  \\hline  \\end{tabular}")
+\\end{tabular}](https://s0.wp.com/latex.php?latex=%5Cbegin%7Btabular%7D%7Blr%7D++%5Chline++Region+%26+Count+%5C%5C++%5Chline++Tamil+Nad%2FKerala+%26+7+%5C%5C++Telugu+states+%26+4+%5C%5C++Bengal+%26+2%5C%5C++Sindh%2FPanjab+%26+2+%5C%5C++%60%60Hindi+belt%27%27+%26+3+%5C%5C++Maharashtra+%26+1+%5C%5C++Karnataka+%26+1+%5C%5C++%5Chline++%5Cend%7Btabular%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 
 Further, since entry into the US biomedical work force typically
 involves an IQ test (administered either for admission to an American
 graduate school or to an Indian institute), we are dealing with people
 most likely with IQ ![\\ge
-123](https://s0.wp.com/latex.php?latex=%5Cge+123&bg=ffffff&fg=333333&s=0
-"\\ge 123"). Thus, what we are seeing is not per say a problem of
-cognitive capacity but a problem of “ethics” or “corruption” in the
-Indian cognitive elite.
+123](https://s0.wp.com/latex.php?latex=%5Cge+123&bg=ffffff&fg=333333&s=0&c=20201002).
+Thus, what we are seeing is not per say a problem of cognitive capacity
+but a problem of “ethics” or “corruption” in the Indian cognitive elite.
 
 One could point out that there is some bias against Hindus in the US
 academia; hence, they might be specially picking on the Indians as
@@ -163,14 +163,14 @@ in Japan) is beset with several serious problems:
 \* There is very little attention paid in biology education to the
 theoretical foundations of the science. We would go as far as to say
 that less than 50
-![\\%](https://s0.wp.com/latex.php?latex=%5C%25&bg=ffffff&fg=333333&s=0
-"\\%") of the practitioners in biomedical research have good grasp of
-the foundations of biology. To give an analogy of how bad this is,
-imagine more than half the physicists and *real* engineers plying their
-trade without knowing classical mechanics in any serious sense (e.g.
-having not much of a clue of how to set up a Hamiltonian or a Lagrangian
-of a system). As a result poor hypotheses abound, which in turn spawn a
-glut of bad ideas.
+![\\%](https://s0.wp.com/latex.php?latex=%5C%25&bg=ffffff&fg=333333&s=0&c=20201002)
+of the practitioners in biomedical research have good grasp of the
+foundations of biology. To give an analogy of how bad this is, imagine
+more than half the physicists and *real* engineers plying their trade
+without knowing classical mechanics in any serious sense (e.g. having
+not much of a clue of how to set up a Hamiltonian or a Lagrangian of a
+system). As a result poor hypotheses abound, which in turn spawn a glut
+of bad ideas.
 
 \* The Euro-American scientific system has an unhealthy model of
 competition and the fetish of peer-review, which favor both an urge to
@@ -226,8 +226,8 @@ training is given in the statistics of variation and experimental error
 in school and college. For example, in my first semester in college I
 vividly remember the instructor conducting physics lab demanding that we
 exactly get
-![g=9.8\\tfrac{m}{s^2}](https://s0.wp.com/latex.php?latex=g%3D9.8%5Ctfrac%7Bm%7D%7Bs%5E2%7D&bg=ffffff&fg=333333&s=0
-"g=9.8\\tfrac{m}{s^2}") in single trial experiment\!
+![g=9.8\\tfrac{m}{s^2}](https://s0.wp.com/latex.php?latex=g%3D9.8%5Ctfrac%7Bm%7D%7Bs%5E2%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+in single trial experiment!
 
 \* Importantly, most students in the science stream in India have no
 real interest in science per say but merely see it as a means for

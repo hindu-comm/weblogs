@@ -1,7 +1,11 @@
 +++
 title = "The old teacher"
+date = "2020-11-22"
+upstream_url = "https://manasataramgini.wordpress.com/2020/11/22/the-old-teacher/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2020/11/22/the-old-teacher/).
+
 The summer of the year after the tumultuous events, Lootika and Somakhya
 were traveling to visit their parents. They were supposed to attend the
 marriage of Somakhya’s cousin Saumanasa but they found social
@@ -21,8 +25,7 @@ your mother. She is lighting fast in the kitchen like that legendary
 English surgeon Liston but unlike him rather infallibly consistent.”  
 S: “You must tell her that…”  
 LM: “I did but I had to clarify that it was a compliment as I went on to
-narrate to her the enthusiastic \`lopaharṣaṇa’ of the English
-surgeon.”  
+narrate to her the enthusiastic \`lopaharṣaṇa of the English surgeon.”  
 S: “I’d be happy to help if I could speed things up for you in any
 way.”  
 LM: “Don’t be stupid and just stand there just outside the kitchen and
@@ -68,8 +71,8 @@ reminding him of the long past days when they had first met. Then they
 performed a namaskāra to Lootika’s mother, who asked them to stay on for
 lunch; Kalakausha and Kallolini said they had to be in the hospital
 shortly but agreed to take some packed food along from her. Lootika’s
-mother admonished to eat properly and on time. Just as they were at the
-gate to leave, Kalollini remarked: “Our history teacher from school
+mother admonished them to eat properly and on time. Just as they were at
+the gate to leave, Kallolini remarked: “Our history teacher from school
 periodically asks about you all. She remarked that she would like to
 talk to you, Lootika or your husband, or one of your sisters, whenever
 you’ll are in the city. I think it is something specific that she might
@@ -103,12 +106,12 @@ remember that she was generally, good to my other three daughters, but
 was among the multiple teachers who would repeatedly complain to me that
 your wife is rather arrogant due to her varied knowledge that was so
 atypical of the girls.”  
-Somakhya looked a Lootika and chuckled: “Actually, she was one of those
+Somakhya looked at Lootika and chuckled: “Actually, she was one of those
 teachers who was not bad to me at all. She had a Nehruvian bent of mind
 and liked to downplay the sultanate or the Mogol tyranny and boost the
 English superiority over our culture. That said, she was rather generous
 to me and I’d say to Spidery too when we pressed the counterpoints to
-these issues in class. But why would she want to see us? Some much has
+these issues in class. But why would she want to see us? So much has
 gone by and we should have passed out of her memory too.”  
 LM: “I don’t know for sure, but I have a bit of gossip in her regard.
 Her husband, a lawyer, disappeared one day without warning and nobody

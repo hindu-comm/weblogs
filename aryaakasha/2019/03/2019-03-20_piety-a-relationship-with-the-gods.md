@@ -1,8 +1,11 @@
 +++
-title = "Piety – A Relationship With Thexa0Gods"
-date = "March 20, 2019"
+title = "Piety – A Relationship With The Gods"
+date = "2019-03-20"
+upstream_url = "https://aryaakasha.com/2019/03/20/piety-a-relationship-with-the-gods/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/03/20/piety-a-relationship-with-the-gods/).
+
 ![54256668_10161543708205574_5503959577181290496_n](https://aryaakasha.files.wordpress.com/2019/03/54256668_10161543708205574_5503959577181290496_n.jpg?w=676)
 
 There are many approaches to piety, and perspectives upon the proper

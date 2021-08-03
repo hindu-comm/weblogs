@@ -1,8 +1,11 @@
 +++
-title = "The tale of Satyakāma Jabala as seen byxa0traditionalists"
-date = "2017-10-06"
+title = "The tale of Satyakāma Jabala as seen by traditionalists"
+date = "2017-06-10"
+upstream_url = "https://padmavajra.net/2017/10/06/the-tale-of-satyakama-jabala-as-seen-by-traditionalists/"
 
 +++
+Source: [here](https://padmavajra.net/2017/10/06/the-tale-of-satyakama-jabala-as-seen-by-traditionalists/).
+
 From an acquaintance’s posts
 [here](https://groups.yahoo.com/neo/groups/vedic-wisdom/conversations/topics/1633)
 

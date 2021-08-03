@@ -1,7 +1,11 @@
 +++
 title = "kautukasaMgha"
+date = "2011-12-26"
+upstream_url = "https://manasataramgini.wordpress.com/2011/12/26/kautukasamgha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/12/26/kautukasamgha/).
+
 The train ground to a stop and we stepped out into the cold silence
 swathed in armor saying “kambalvantaM na bAdhate shItam”. None could
 recognize us beneath our armor. Since our mind was conditioned to see S
@@ -34,14 +38,14 @@ Ramakrishna Ayyar in the 1930s, but apparently he did not describe them
 fully.” We: “Ramakrishna Ayyar had suggested an interesting three way
 biotic association between cattle, dipterans and the wasp Bembex lunata.
 I recall you were revisiting it – where you able to to confirm it?”. R:
-“Certainly, they seem to be statistically significantly more frequent
-in the vicinity of cattle than elsewhere. However, I could not get a
+“Certainly, they seem to be statistically significantly more frequent in
+the vicinity of cattle than elsewhere. However, I could not get a
 general count for all the biting flies in our observing grounds due to
 the updrava of the dasyu-s.”
 
 S asked us of our ontology for dharma. We course had to cite kaNAda:
 dharma-visheSha-prasUtAd dravya-guNa-karma-sAmAnya-visheSha-samavAyAnAM
-padArthAnAM sAdharmya-vaidharmAbhyAM tattvaj\~nAnAn niHshreyasam ||
+padArthAnAM sAdharmya-vaidharmAbhyAM tattvaj\~nAnAn niHshreyasaM \|\|
 
 S pointed to a translation of this by Matilal: “The ‘supreme good’ (i.e.
 niHshreyasa) is achieved through the knowledge of reality resulting from
@@ -129,23 +133,23 @@ matching on our part?
 For a hilarious extreme case let us consider the motifs we in the room
 tended to see in the English neo-mythology Harry Potter and go back to
 that question:  
-\-The battle between the snake-guild or snakes (Slytherins) and the
+-The battle between the snake-guild or snakes (Slytherins) and the
 sword-wielding wizards (Gryffindor): the battle between the nAga-s and
 the sword-wielding vidyAdhara-s in the bR^ihatkatha tradition, or the
 multi-generational battle between the nAga-s and the kuru-s in the frame
 story of the bhArata.  
-\-Six Weasley brothers of which one dies leaving 5 behind. 6 “karNAdi”
+-Six Weasley brothers of which one dies leaving 5 behind. 6 “karNAdi”
 brothers of which five survive.  
-\-Of the six Weasleys one is on the side of the enemies: karNa of the 6
+-Of the six Weasleys one is on the side of the enemies: karNa of the 6
 karNAdi brothers is on the enemy side.  
-\-Two Weasley brothers are twins and specialist wonder workers: Twin
+-Two Weasley brothers are twins and specialist wonder workers: Twin
 mAdreya-s sons of wonder-working ashvins (purudaMsasa)  
-\-One of the twins dies: One of the Dioscuri, Castor is mortal while
+-One of the twins dies: One of the Dioscuri, Castor is mortal while
 Polydeuces is immortal.  
-\-Ginny: Transfunctional goddess.  
-\-Potter’s Slytherin connection : the nAga as a kauravya-s; iravAn and
+-Ginny: Transfunctional goddess.  
+-Potter’s Slytherin connection : the nAga as a kauravya-s; iravAn and
 the supremely powerful babruvAhana half nAga/half kauravya.  
-\-Albus Dumbledore: bhIShma pitAmaha; nAginI: the killer of parIkShit;
+-Albus Dumbledore: bhIShma pitAmaha; nAginI: the killer of parIkShit;
 Hagrid: ghaTotkacha; Inferni: vetAla-s; horcrux and mahirAvaNa-s
 “horcrux”; the sword of Gryffindor: the vidyAdhara’s magical sword and
 many more that we are now forgetting.
@@ -157,7 +161,7 @@ Some of us: Yet, why does the motif of the war of the “wizards and
 snakes” and so many scattered motifs reappear in an English neo-epic.
 
 CA: There is no statistical test to support this gibberish you all are
-getting into\!
+getting into!
 
 We: O CA of pretty smiles taking that statistical line has cause such
 delusion to so many in my science. You know what I am talking
@@ -245,3 +249,4 @@ M: So now I can see where you guys got the zombie analogy long before
 Chalmers.
 
 Thus we returned to the deep speculations on the teachings of the dUtI.
+

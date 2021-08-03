@@ -1,8 +1,12 @@
 +++
 title = "Orkoraptor and Aerosteon"
+date = "2009-03-28"
+upstream_url = "https://manasataramgini.wordpress.com/2009/03/28/orkoraptor-and-aerosteon/"
 
 +++
-[![Aerosteon\_Orkoraptor](https://i0.wp.com/farm4.static.flickr.com/3538/3398110954_9569ce9037_o.png)](http://www.flickr.com/photos/24766652@N05/3398110954/ "Aerosteon_Orkoraptor by somasushma, on Flickr")  
+Source: [here](https://manasataramgini.wordpress.com/2009/03/28/orkoraptor-and-aerosteon/).
+
+[![Aerosteon_Orkoraptor](https://i0.wp.com/farm4.static.flickr.com/3538/3398110954_9569ce9037_o.png)](http://www.flickr.com/photos/24766652@N05/3398110954/ "Aerosteon_Orkoraptor by somasushma, on Flickr")  
 The post-orbital bones of *Aerosteon* and *Orkoraptor* as described by
 Sereno et al and Novas et al.
 
@@ -114,3 +118,4 @@ collection from these beds, which included a large femur of a
 titanosaurid. At least 3 types of theropod eggs appear to be represented
 in these beds. One of these appears to be an abelisaurid while the other
 two could belong to coelurosaurians including the orkoraptorids.
+

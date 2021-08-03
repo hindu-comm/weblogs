@@ -1,7 +1,11 @@
 +++
 title = "The silent journey"
+date = "2005-07-29"
+upstream_url = "https://manasataramgini.wordpress.com/2005/07/29/the-silent-journey/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/07/29/the-silent-journey/).
+
 After the glorious morning on April 11 th 1986 we were basking in the
 exhilaration of having seen the Halley’s comet in its closest
 apparition. The vaishya from lATa was excited at the successful sighting
@@ -37,3 +41,4 @@ back to our observing spot without uttering a word.
 \~\~  
 On the Hockey patch next to purIShAdri we encountered Plinkplonkplinkton
 and Stick-tail, the first bad and the second good.
+

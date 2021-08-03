@@ -1,8 +1,11 @@
 +++
-title = "On Lord Shiva As Tripurantaka In Thexa0Vedas"
-date = "November 29, 2020"
+title = "On Lord Shiva As Tripurantaka In The Vedas"
+date = "2020-11-29"
+upstream_url = "https://aryaakasha.com/2020/11/29/on-lord-shiva-as-tripurantaka-in-the-vedas/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/11/29/on-lord-shiva-as-tripurantaka-in-the-vedas/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/11/19b5c6599df4afabaeac091848c2b8dc.jpg?w=825)
 
 Tomorrow marks one of the more important Shaivite observances of the

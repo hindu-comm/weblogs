@@ -1,7 +1,11 @@
 +++
 title = "The construction of sAmans"
+date = "2004-08-06"
+upstream_url = "https://manasataramgini.wordpress.com/2004/08/06/the-construction-of-samans/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/08/06/the-construction-of-samans/).
+
 The gAnaM rules are thus constructed. First we define elements
 corresponding to the padas of the R^ik, here a,b,c,d : 4\*11 in the
 triShTubh example we are considering.
@@ -28,7 +32,7 @@ W=A+A+B
 
 Then the gAnaM is specified as :  
   
-W+a  b c d+W+C D+D+D  
+W+a b c d+W+C D+D+D  
   
 1 2 3 4 5  
   
@@ -106,4 +110,5 @@ H(nAka)+C6
 H(shukra)+C7  
   
 C1=suvar jyotiH; C2= jyotiH; C3=rAjA; C4=bhrAjA; C5=A bhrAjA; C6=
-pR^iShThaM; C7= bhrALA bhrAjA
+pR^iShThaM; C7= bhrALA bhrAjA  
+

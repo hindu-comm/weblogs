@@ -1,8 +1,11 @@
 +++
-title = "SkandaMata – 5th of the NavaDurgas, 5th Night ofxa0NavRatri"
-date = "October 14, 2018"
+title = "SkandaMata – 5th of the NavaDurgas, 5th Night of NavRatri"
+date = "2018-10-14"
+upstream_url = "https://aryaakasha.com/2018/10/14/skandamata-5th-of-the-navadurgas-5th-night-of-navratri/"
 
 +++
+Source: [here](https://aryaakasha.com/2018/10/14/skandamata-5th-of-the-navadurgas-5th-night-of-navratri/).
+
 ![21764951_10159392152045574_1400551655057635201_n](https://aryaakasha.files.wordpress.com/2018/10/21764951_10159392152045574_1400551655057635201_n.jpg?w=676)  
 The Fifth Night of #NavRatri is dedicated to Ma as SkandaMata – the
 Mother of Skanda (Kartikeya), one of the foremost of our War Gods. He

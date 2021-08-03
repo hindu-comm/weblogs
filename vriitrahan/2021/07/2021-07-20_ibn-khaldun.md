@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "July 20, 2021"
+date = "2021-07-20"
+upstream_url = "https://vriitrahan.wordpress.com/2021/07/20/ibn-khaldun/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2021/07/20/ibn-khaldun/).
+
 Ibn Khaldun was a remarkable scholar, for many reasons. If you have used
 the term Asabiyyah or heard of it, then you have him to thank. His work
 is a glistening blade of reason tearing apart the shroud of darkness

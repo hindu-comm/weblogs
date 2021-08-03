@@ -1,7 +1,11 @@
 +++
 title = "Vema Reddy"
+date = "2004-03-26"
+upstream_url = "https://manasataramgini.wordpress.com/2004/03/26/vema-reddy/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/03/26/vema-reddy/).
+
 In 1311 Alla-ad-din Khalji sent his lover and general Maliq Kaffr to
 devastate the Telengana region with his ferocious army of Islam. The
 invasion was savage and Hindu kshatriyas of the Kakatiya, Chalukya and
@@ -103,3 +107,4 @@ fighters, Krishnadeva Raya and Shivaji Chatrapati at a later time.
 The war of independence in Telengana is one more of those largely
 forgotten stories of the provincial Hindu resistance in the aftermath of
 the Khalji-Tughlaq years.
+

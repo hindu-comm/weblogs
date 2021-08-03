@@ -1,8 +1,11 @@
 +++
-title = "The War-Shrine Of Tanot Mata [Incredible Indo-European Holy Sites Series Partxa0III]"
-date = "December 4, 2020"
+title = "The War-Shrine Of Tanot Mata [Incredible Indo-European Holy Sites Series Part III]"
+date = "2020-12-04"
+upstream_url = "https://aryaakasha.com/2020/12/04/the-war-shrine-of-tanot-mata-incredible-indo-european-holy-sites-series-part-iii/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/12/04/the-war-shrine-of-tanot-mata-incredible-indo-european-holy-sites-series-part-iii/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/12/128279549_769000087045651_8496297935426530038_n.png?w=360)
 
 One of my criteria for judgingwhether a culture is spiritually healthy,

@@ -1,7 +1,11 @@
 +++
 title = "Experience: phenomenal and accessional"
+date = "2010-03-16"
+upstream_url = "https://manasataramgini.wordpress.com/2010/03/16/experience-phenomenal-and-accessional/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/03/16/experience-phenomenal-and-accessional/).
+
 ST said that after seeing the presence of vaivasvata she wanted to widen
 her experience. She felt that by experiencing the existence of a diverse
 range of people and situations she will shake off the images of the
@@ -103,3 +107,4 @@ these insights with the missteps of vAchaspati (i.e. the answer in
 bhAmatI 3.3.53) along with an attempt to explain paradoxes like those ST
 perceived that we arrive near a more precise apprehension of the chit
 itself. It is from this manthana we shall move towards a navya-darshana.
+

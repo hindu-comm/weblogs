@@ -1,7 +1,11 @@
 +++
 title = "The mlechCha brain behind the sword arm"
+date = "2010-03-18"
+upstream_url = "https://manasataramgini.wordpress.com/2010/03/18/the-mlechcha-brain-behind-the-sword-arm/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/03/18/the-mlechcha-brain-behind-the-sword-arm/).
+
 It is hardly pleasant to talk about geopolitical issues concerning
 Hindus these days. Yet, from time to time those urges of the arm-chair
 general are hard to curb. I received from the sources articles by Vishal
@@ -96,8 +100,8 @@ them the title to the whole world. But no one in South Asia ever
 appointed a divine real estate agent–it’s a very important distinction
 in the history of political thought.”
 
-So the man is master of what our yavana cousins called eristics\! This
-is his device of obfuscation of Indic history by talking both ways and
+So the man is master of what our yavana cousins called eristics! This is
+his device of obfuscation of Indic history by talking both ways and
 trying to present the facts and at the same time be a true-blood member
 of the mlechCha academia that gangs up against Hindus to sign
 instruments like the vatsala-patrikA.
@@ -105,23 +109,23 @@ instruments like the vatsala-patrikA.
 Here I am just presenting a political and not a scholarly analysis of
 Pollock. To briefly mention scholarly issues, as Agrawal points out
 Pollock is totally wrong when he saw the rAmAyaNa as being
-“instrumentalized” in the foundation of vijayanagara by the Hindu
-elite. It would do him good to read the Sanskrit and vernacular
-inscriptions of the Andhran shUdra chiefs of the kamma and reDDI jAti-s
-in the great struggle against the turuShka-s to figure out what was
-common the common inspiration with the kShatriya rAjput-s of northern
-India. On another scholarly point Pollock is wrong again when he states
-that pR^ithivirAja ChAhamAna “instrumentalized” the rAmAyaNa to create a
-sense of otherness against the turuShka-s, thereby resulting it the rise
-in popularity of the text in Hindu political discourse. Interested
-students might take these up further to understand the details. Other
-Hindus thought that when Pollock described many former German
-Indologists as Nazis (including the predecessors of the modern German
-gang, like the one in Harvard) he was doing them a favor. This was not
-at all the case – in fact this was just a part of the larger canvas of
-the well-know Euro-American academic tactic of painting Hindus as Nazis
-and Al-Qaeda. For a flavor, I will just present a quote from a dasyu who
-interviewed Pollock:  
+“instrumentalized” in the foundation of vijayanagara by the Hindu elite.
+It would do him good to read the Sanskrit and vernacular inscriptions of
+the Andhran shUdra chiefs of the kamma and reDDI jAti-s in the great
+struggle against the turuShka-s to figure out what was common the common
+inspiration with the kShatriya rAjput-s of northern India. On another
+scholarly point Pollock is wrong again when he states that pR^ithivirAja
+ChAhamAna “instrumentalized” the rAmAyaNa to create a sense of otherness
+against the turuShka-s, thereby resulting it the rise in popularity of
+the text in Hindu political discourse. Interested students might take
+these up further to understand the details. Other Hindus thought that
+when Pollock described many former German Indologists as Nazis
+(including the predecessors of the modern German gang, like the one in
+Harvard) he was doing them a favor. This was not at all the case – in
+fact this was just a part of the larger canvas of the well-know
+Euro-American academic tactic of painting Hindus as Nazis and Al-Qaeda.
+For a flavor, I will just present a quote from a dasyu who interviewed
+Pollock:  
 “Although cosmopolitanism might be viewed as a solution to some
 problems, a fear also exists that across the world people are forgetting
 their own literary cultures and traditions and learning the cosmopolitan
@@ -164,29 +168,29 @@ pretAchara-oriented mlechCha-rAjya sees the socialist academics as
 weapon that can be use against the dharma.
 
 Now, the concerted attacks against the Hindu sAdhus, AchArya-s and
-“god-men”, like the one that was recently seen, are something where
-this alignment of vectors is very apparent. Now for an educated,
-textually and/or ritually inclined and educated Hindu most of these
-“global guru-s” are not very important because they have their own
-“local teachers” who educate them in the shruti, kalpa, Agama, dharma,
-darshana and sAhitya. Yet, the social significance of the “global
-guru-s” cannot be understated when we come to the Hindu masses and the
-confused modern Hindus. Some of them are members or offshoots of
-different medieval sampradAya-s of the bhakti-mArga (e.g. the
-gauDIya-s), other upholders of the traditions of the shAstra-s (e.g. the
-sha\~NkarAcharya-s), still others yogin-s of all hues, and yet others
-pAShaNDa-s encouraging differing degrees of nara-stuti and neomorphic
-traditions without proper foundations. Now this element of nara-stuti is
-a continuation of an old strain in Hindu tradition that was first
-effectively used by the tathAgata to present himself as the R^iShi of
-the true shruti and also as one who is “above” the devatA-s. This
-attraction of the lay Hindu masses towards nara-pUjA is a major problem
-for the pretAcharin-s because they are busy trying to peddle their own
-nara, whose shava hangs from a shUla. But then a charismatic living nara
-is any day more potent for the masses than one who dangled on a shUla
-two thousand years ago. So the followers of the preta-mata try their
-best to bring down the various pUjya nara-s operating in bhAratavarSha
-or in mlechCha desha itself.
+“god-men”, like the one that was recently seen, are something where this
+alignment of vectors is very apparent. Now for an educated, textually
+and/or ritually inclined and educated Hindu most of these “global
+guru-s” are not very important because they have their own “local
+teachers” who educate them in the shruti, kalpa, Agama, dharma, darshana
+and sAhitya. Yet, the social significance of the “global guru-s” cannot
+be understated when we come to the Hindu masses and the confused modern
+Hindus. Some of them are members or offshoots of different medieval
+sampradAya-s of the bhakti-mArga (e.g. the gauDIya-s), other upholders
+of the traditions of the shAstra-s (e.g. the sha\~NkarAcharya-s), still
+others yogin-s of all hues, and yet others pAShaNDa-s encouraging
+differing degrees of nara-stuti and neomorphic traditions without proper
+foundations. Now this element of nara-stuti is a continuation of an old
+strain in Hindu tradition that was first effectively used by the
+tathAgata to present himself as the R^iShi of the true shruti and also
+as one who is “above” the devatA-s. This attraction of the lay Hindu
+masses towards nara-pUjA is a major problem for the pretAcharin-s
+because they are busy trying to peddle their own nara, whose shava hangs
+from a shUla. But then a charismatic living nara is any day more potent
+for the masses than one who dangled on a shUla two thousand years ago.
+So the followers of the preta-mata try their best to bring down the
+various pUjya nara-s operating in bhAratavarSha or in mlechCha desha
+itself.
 
 Now for a detour: In our late school or early college day our friend ST
 used to perform a hilarious routine of impersonating a Hindi film
@@ -234,7 +238,7 @@ Apart from direct meddling, the leftist academics serve as the
 intellectual resource for the attack on the Hindus – they have already
 created material that shows the Hindu structures as depraved and
 decadent. So there are ready references in the form of their works to be
-used when such  incidents with an amukAnanda need to be given an airing.
+used whensuchincidents with an amukAnanda need to be given an airing.
 It should be noted that this type of mlechCha scholarship is a part of
 the psy-ops going on since the English conquest of India. Rabindranath
 Tagore in his history of bhAratavarSha (1903 CE) states:
@@ -261,3 +265,4 @@ subverting the Hindu mind.
 
 “If you tell them these things they will say you are a conspiracy
 theorist”
+

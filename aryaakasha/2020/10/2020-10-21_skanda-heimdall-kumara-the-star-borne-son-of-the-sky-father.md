@@ -1,8 +1,11 @@
 +++
-title = "Skanda , Heimdall , Kumara – The Star-Borne Son Of The Skyxa0Father"
-date = "October 21, 2020"
+title = "Skanda , Heimdall , Kumara – The Star-Borne Son Of The Sky Father"
+date = "2020-10-21"
+upstream_url = "https://aryaakasha.com/2020/10/21/skanda-heimdall-kumara-the-star-borne-son-of-the-sky-father/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/10/21/skanda-heimdall-kumara-the-star-borne-son-of-the-sky-father/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/10/122178766_10164290067375574_8486192274250109322_n.jpg?w=701)
 
 A brief Indo-European observation inspired by the SkandaMata Night of

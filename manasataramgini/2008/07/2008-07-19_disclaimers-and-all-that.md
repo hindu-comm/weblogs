@@ -1,7 +1,11 @@
 +++
 title = "Disclaimers and all that"
+date = "2008-07-19"
+upstream_url = "https://manasataramgini.wordpress.com/2008/07/19/disclaimers-and-all-that/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/07/19/disclaimers-and-all-that/).
+
 I never knew I would end up writing something like this on my own pages.
 In many ways I will actually be repeating what I have written in
 different forms several here. But the steep build up in angry inputs
@@ -42,7 +46,7 @@ Indian culture – jAtaka astrology, Zilebias, Jahangiris, Halvas, Samosas
 and Kulfis to be imports from yavana-s and turuShka-s. I cannot help it
 they are acquisition from without. Nothing new, Hindus always took what
 was useful to them where ever they found it (only that astrology was a
-bad choice\!). At some point I mused that eukaryotes acquired several
+bad choice!). At some point I mused that eukaryotes acquired several
 highpoints of their proteinic specialities from bacterial sources. It is
 always like that in life. At least we thoroughly internalized these
 things, just like the violin in South Indian classical music.
@@ -71,6 +75,7 @@ the adversarial indologists. Become a nR^iharI to the hiraNyakashipu of
 their political agenda but support other Indologists who are apolitical
 or supportive like prahlAda.
 
-What a waste of time – the evils of ahamkAra\! Indeed someone had
+What a waste of time – the evils of ahamkAra! Indeed someone had
 remarked that sometimes Indians think too much about what others say
 about them. Sadly I fit the trend.
+

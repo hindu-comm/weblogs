@@ -1,21 +1,25 @@
 +++
 title = "The mantra-s of the kapAla-DAmarIya-s and the early mantra-mArga"
+date = "2011-06-08"
+upstream_url = "https://manasataramgini.wordpress.com/2011/06/08/the-mantra-s-of-the-kapala-damariya-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/06/08/the-mantra-s-of-the-kapala-damariya-s/).
+
 The tenth paTala of the guhyakAlI khaNDa of the great mahAkAla-saMhitA
 (MKS) preserves mantra-s pertaining to the worship of guhyakAlI
 according the system of the kapAla-DAmarIya-s. This kAlI-kula system is
 said to be that of the kApAlika-s transmitted by their first teacher,
 kapAlaDAmara. Indeed, in 10.1037, in the context of the worship of
 guhyakAlI in the 8-petalled maNDala, it is stated thus:  
-kapAlaDAmara proktaM kApAlikamataM shR^iNu ||  
-vedAdi-kAminI-pAshA ichChA nirveda eva cha |  
-ete pa\~nchapi varNAH syuH sarva-mantrAdivartinaH ||  
+kapAlaDAmara proktaM kApAlikamataM shR^iNu \|\|  
+vedAdi-kAminI-pAshA ichChA nirveda eva cha \|  
+ete pa\~nchapi varNAH syuH sarva-mantrAdivartinaH \|\|  
 Here the 5 syllabled primal mantra for the worship of guhyakAlI in the
 said maNDala of the kApAlika tradition, as taught by kapAlaDAmara is
 specified:  
 vedAdi=OM; kAminI=kaM; pAsha=AM; ichCha=phAM; nirveda=phrIM  
-OM kaM AM phAM phrIm ||
+OM kaM AM phAM phrIM \|\|
 
 Some of the other kAlI-kula systems, which are also mentioned along side
 the kapAla-DAmarIya-s, are the mauleya-s, the tripuraghna-s, the
@@ -48,16 +52,16 @@ bhUtonmAda; 9) kulachakra; 10) meghanAda; 11) vishvarUpa; 12)
 antagochara.  
 These twelve bhairava-s are associated with the 12 astra-s. Their
 mantra-s are formed by:  
-kUrcha-rAvav-athAstraM cha namaH svAhA tathaiva cha |
+kUrcha-rAvav-athAstraM cha namaH svAhA tathaiva cha \|
 
 kUrcha: hUM; rAva: phreM; astra: phaT  
-e.g. ulkAmukhAya huM phreM phaT namaH svAhA ||  
+e.g. ulkAmukhAya huM phreM phaT namaH svAhA \|\|  
 In deployment they might be combined with the visheSha saptAkSharI vidyA
 of guhyakAlI:  
-tAratrape yoginI cha ramAkAmau cha DakinI |  
-pralayash chApi phetkArI bijAni stairya-bhan\~nji hi ||  
+tAratrape yoginI cha ramAkAmau cha DakinI \|  
+pralayash chApi phetkArI bijAni stairya-bhan\~nji hi \|\|  
 Thus the visheSha saptAkSharI of the kapAlaDamarIya-s is:  
-OM ChrIM shrIM klIM khphreM hsphreM hskhphrem ||  
+OM ChrIM shrIM klIM khphreM hsphreM hskhphreM \|\|  
 The sAmAnya saptAkSharI is cryptically encoded.
 
 In addition to the several details on the kApAlika practice of the
@@ -153,3 +157,4 @@ use of avian feathers and certain sylvan rituals. Today, the rare
 surviving bhANDikera-s in Southwestern India appear to have entirely
 lost their affinities to niHsha\~NkAchara and are followers of the
 shaMkara maTha.
+

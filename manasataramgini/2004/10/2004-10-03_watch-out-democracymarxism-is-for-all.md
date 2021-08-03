@@ -1,7 +1,11 @@
 +++
 title = "Watch out! Democracy(Marxism) is for all!"
+date = "2004-10-03"
+upstream_url = "https://manasataramgini.wordpress.com/2004/10/03/watch-out-democracymarxism-is-for-all/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/10/03/watch-out-democracymarxism-is-for-all/).
+
 The West (in particular US of America) has endlessly spun tales of the
 glory of democracy. One day they are calling for democracy amongst
 Soviets, the next they want democracy in Latin America and on yet
@@ -89,3 +93,4 @@ viShNusharman stated in the pa\~nchatantra what worked for the merchant
 maNibhadra does not work for the nApita (barber). So it is mistaken to
 believe that facimiles of Western democracy along with its constructs
 like “Equality” and “Human rights” will work everywhere.
+

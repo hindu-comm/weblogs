@@ -1,7 +1,11 @@
 +++
 title = "The dream motif"
+date = "2015-03-31"
+upstream_url = "https://manasataramgini.wordpress.com/2015/03/31/the-dream-motif/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/03/31/the-dream-motif/).
+
 Vidrum was nearing the road to his house. Instinctively, he felt his
 backpack and found it to be unzipped. Then to his utter disappointment
 he found that his box containing geometric instruments was missing.
@@ -72,7 +76,7 @@ are you walking these days. Did you not have a bike?”
 Vidrum: “To my great misfortune, that day when I was searching for my
 geometry box, which you recovered, I had forgotten to lock my bike and
 it was stolen by the time I returned to it.”  
-Lootika: “That is very sad indeed\! Did you register a case with the
+Lootika: “That is very sad indeed! Did you register a case with the
 cops?”  
 Vidrum: “My father took me to the cops but they laughed at us and said
 everyday cycles are stolen by the dozen and they had bigger crimes to
@@ -140,9 +144,9 @@ of Padmāvatī, damaged by the Mohammedans, was housed in a little shrine.
 He thought it was an opportune moment to propitiate Padmāvatī as had
 been ordained by the vipra Gobhila in the days of yore. Having mentally
 uttered a stuti to the snake-decked Padmāvatī, he decided to do a
-pradakṣiṇa of the shrine. While doing so, and as he was about to turn
-a corner he was startled by someone jumping at him with a with a cloth
-as though to cover his face. He reacted instinctively putting his leg
+pradakṣiṇa of the shrine. While doing so, and as he was about to turn a
+corner he was startled by someone jumping at him with a with a cloth as
+though to cover his face. He reacted instinctively putting his leg
 forward in a defensive pose to trip the accoster and with his right hand
 drew out his knife half way. Just then, to his horror he realized that
 his “assailant” was none other than his new classmate Lootika. Utterly,
@@ -166,7 +170,7 @@ Somakhya: “Wonderful; could you show me your catch of staphylinids?”
 Lootika taking out her pillboxes showed them remarking: “Look at this
 one with a green iridescence and this one with blue-purple iridescence –
 these are beauties you only find in this patch of vegetation near the
-temple\!”  
+temple!”  
 Somakhya looking at them closely: “Wonder if they have toxins of
 note”.  
 Lootika: “It is interesting you say so; that is what I am seeking to
@@ -219,9 +223,9 @@ Somakhya: “Sure we can talk about them; but why don’t you come along
 with me to where I was headed and I will show you some staphylinids
 which have established a cohabitation relationship with ants. I suggest
 you add them to your survey for there is lot of interesting biology
-there\!”  
+there!”  
 Lootika: “Old Darwin had said – *Whenever I hear of the capture of rare
-beetles, I feel like an old warhorse at the sound of a trumpet* – I feel
+beetles, I feel like an oldwarhorse at the sound of a trumpet* – I feel
 the same hearing your words.”  
 Somakhya: “Then hop on to your horse and let’s be going.”
 
@@ -327,8 +331,8 @@ Uttarāpatha?”
 Skandaśakti: “priye, the horrors of the downward turn of the kali are
 upon us. The well-spring of the tantra-s has been defiled. The head of
 Bhārata has been pierced and the wheel of the cakravartin has been
-stolen\!”  
-Devasomā: “That sounds awful\! could you please tell me more?”  
+stolen!”  
+Devasomā: “That sounds awful! could you please tell me more?”  
 Skandaśakti: “I wonder if you really want to hear more – it is a tale of
 great horror and savagery, which is probably just the beginning for the
 kali age is supposed to be long and dark.”  
@@ -421,13 +425,13 @@ proceeded to the maṭha and decided drive off the attackers. There he was
 joined by Vāmaśaṃbhu deśika in the great battle against the attackers.
 Taking cover behind an arch the brave vaṇij showered arrows and deftly
 jumping down when a bearded attacker passed by he struck down the
-attacker with his sword. After an hour or so they felt they had repulsed
+attackerwith his sword. After an hour or so they felt they had repulsed
 the beards, when to their horror more of them poured in with their black
 flags waving in the afternoon sun. However, he decided to keep fighting
 till the end. Through an interpreter the attackers announced that they
 would stop their assault if the Hindis converted to the religion of
-Mahāmada. Vāmaśaṃbhu sent the reply that they may die but not convert
-to the religion of madmen, bhasad-cumba-s and liṅgachedi-s. On receiving
+Mahāmada. Vāmaśaṃbhu sent the reply that they may die but not convert to
+the religion of madmen, bhasad-cumba-s and liṅgachedi-s. On receiving
 that reply the Mahāmada-s resumed a fierce assault. Soon, Vāmaśaṃbhu was
 struck by an arrow. The attackers horribly mutilated him limb-by-limb
 and slashed him all over until he expired. Then they placed his
@@ -451,11 +455,11 @@ it back to the Pañcanada to tell this tale of horror. The horror did not
 end there and is indeed coming our way – on the way back, the assistant
 of Vasumān saw that Bhagāgāra was being sacked by roving bands of
 Mahāmada. There the great king Trivikramasena, after repulsing the
-hūṇa-s had erected the cakra of the cakravartin – a golden cakra
-mounted on a rustless iron pillar. The cakra had been venerated as that
-of Viṣṇu by the āstika-s, as that of the dharma by the tāthāgata-s, and
-the symbol of Zurvan by the Iranians. That was taken away as the booty
-of conquest by the marūnmatta-s when the city fell.
+hūṇa-s had erected the cakra of the cakravartin – a golden cakra mounted
+on a rustless iron pillar. The cakra had been venerated as that of Viṣṇu
+by the āstika-s, as that of the dharma by the tāthāgata-s, and the
+symbol of Zurvan by the Iranians. That was taken away as the booty of
+conquest by the marūnmatta-s when the city fell.
 
 ◊◊◊◊
 
@@ -479,9 +483,10 @@ wondered if the cannibalism actually helped the fittest among them make
 it to the next generation. Lootika then thought of her vivid dream and
 of a subhāṣitam Somakhya had quoted from the wise Viṣṇuśarman:
 
-iśvarāṇām idaṃ tantraṃ prāyeṇautsukyam āvahet |  
-yatas tiraścāṃ caritair nītimārgaḥ pradarśyate ||
+iśvarāṇām idaṃ tantraṃ prāyeṇautsukyam āvahet \|  
+yatas tiraścāṃ caritair nītimārgaḥ pradarśyate \|\|
 
 This text of the gods might appear puzzling due to its teachings;  
 However it intends illustrating by actions of animals the path of right
 politics.
+

@@ -1,7 +1,11 @@
 +++
 title = "Some mysteries of uchChiShTa"
+date = "2009-01-14"
+upstream_url = "https://manasataramgini.wordpress.com/2009/01/14/some-mysteries-of-uchchishta/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/01/14/some-mysteries-of-uchchishta/).
+
 In extant atharvavedic shrauta practice the uchChiShTa sUkta (AV-vulgate
 11.7; AV-P 16.82) is not deployed. However, sAyaNa correctly understands
 its deployment in the old AV-based shrauta ritual. He cites the
@@ -19,9 +23,9 @@ eponymous sUkta.
 Recently a discussion of a word nya, probably a hapax legomenon in the
 AV, which is found in this sUkta came to my attention.  
 *dR^iDho dR^iMha sthiro nyo brahma vishva-dR^isho* \[\[AV-vul: sR^ijo\]
-*dasha |*  
+*dasha \|*  
 * nAbhim iva sarvatash chakram uchChiShTe devatA AhitAH* \[AV-vul:
-shritAH\] *||*  
+shritAH\] *\|\|*  
 What does the word nya/nyas in this R^ik mean?  
 At this stage I am unable to fully grasp this mantra. sAyaNa tells us
 that it is “netAras tatratyAH prANinaH”. So he derives it from the root
@@ -29,3 +33,4 @@ nI. But is it actually derived from the root nyas in the sense of
 deposited. This might fight in well with the other constructs like
 dR^imha=firm up; sthira=fix and hence nya=deposit. If so this might give
 some clarity about the mantra.
+

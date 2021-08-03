@@ -1,7 +1,11 @@
 +++
 title = "Indians still slaves?"
+date = "2004-06-01"
+upstream_url = "https://manasataramgini.wordpress.com/2004/06/01/indians-still-slaves/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/06/01/indians-still-slaves/).
+
 Many many moons ago the good old Padishaw of Dilli, Akbar, was locked in
 a mortal combat with the vaishya fighter Hemachandra (Hemu) who was
 trying to restore Hindu rule over the famed capital of India. Sadly for
@@ -37,3 +41,4 @@ will say it was “circumstance”.
 
 It makes us ask the simple question : “Has Mohammedan rule on the
 Indians really ended?”
+

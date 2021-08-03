@@ -1,8 +1,11 @@
 +++
-title = "The backdrop to puruShottama:shrI nIlamAdhava [A very briefxa0note]"
+title = "The backdrop to puruShottama:shrI nIlamAdhava [A very brief note]"
 date = "2019-08-26"
+upstream_url = "https://padmavajra.net/2019/08/26/the-backdrop-to-purushottamashri-nilamadhava-a-very-brief-note/"
 
 +++
+Source: [here](https://padmavajra.net/2019/08/26/the-backdrop-to-purushottamashri-nilamadhava-a-very-brief-note/).
+
 \[I am summarizing HV Stietencorn’s work over here\]. I am also assuming
 that the readers are familiar with the legends and lore surrounding
 indradyumna and puri

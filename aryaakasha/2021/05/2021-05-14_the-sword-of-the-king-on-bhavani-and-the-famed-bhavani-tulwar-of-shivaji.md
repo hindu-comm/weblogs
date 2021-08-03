@@ -1,8 +1,11 @@
 +++
-title = "The Sword Of The King – On Bhavani And The Famed Bhavani Tulwar Ofxa0ShivaJi"
-date = "May 14, 2021"
+title = "The Sword Of The King – On Bhavani And The Famed Bhavani Tulwar Of ShivaJi"
+date = "2021-05-14"
+upstream_url = "https://aryaakasha.com/2021/05/14/the-sword-of-the-king-on-bhavani-and-the-famed-bhavani-tulwar-of-shivaji/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/05/14/the-sword-of-the-king-on-bhavani-and-the-famed-bhavani-tulwar-of-shivaji/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/05/18423854_10158693624075574_5846205713600940998_n.jpg?w=375)
 
 \[Author’s Note: I wrote this some four years ago yesterday. So, as

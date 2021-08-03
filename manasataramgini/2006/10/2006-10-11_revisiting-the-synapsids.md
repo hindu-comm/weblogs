@@ -1,7 +1,13 @@
 +++
 title = "Revisiting the synapsids"
+date = "2006-10-11"
+upstream_url = "https://manasataramgini.wordpress.com/2006/10/11/revisiting-the-synapsids/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/10/11/revisiting-the-synapsids/).
+
+
+
 [![](https://i1.wp.com/photos1.blogger.com/blogger2/6438/855/320/tetraceratops.png)](http://photos1.blogger.com/blogger2/6438/855/1600/tetraceratops.png)
 
 The evolution of early synapsids was a topic that fascinated me beyond
@@ -70,3 +76,4 @@ the apparent repeated evolution of mammal-like features such as a
 complete secondary palate, crown-crown precision occlusion of teeth,
 phalange organization and simplification of skull roof amongst the
 therapsid lineages ?
+

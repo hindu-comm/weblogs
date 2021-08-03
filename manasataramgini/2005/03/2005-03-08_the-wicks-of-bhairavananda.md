@@ -1,7 +1,11 @@
 +++
 title = "The wicks of bhairavAnanda"
+date = "2005-03-08"
+upstream_url = "https://manasataramgini.wordpress.com/2005/03/08/the-wicks-of-bhairavananda/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/03/08/the-wicks-of-bhairavananda/).
+
 Having worshipped krodhabhairava and offered his arghya to
 shikhAshekhara, bhairavAnanda obtained the four wicks of atyendrajAla.
 These wicks he handed over to the 4 seekers of wealth. This tale is all
@@ -20,3 +24,4 @@ copper. Carrying this copper with difficutly he placed at a shed in his
 dwelling. Then he visited vimalashambhu and asked what he may do with
 the copper. vimalashambhu answered: Perform yoga, you may be able make
 use of the copper.
+

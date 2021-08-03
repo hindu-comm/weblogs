@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "November 12, 2020"
+date = "2020-11-12"
+upstream_url = "https://vriitrahan.wordpress.com/2020/11/12/jayadeva-on-kalkin/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2020/11/12/jayadeva-on-kalkin/).
+
 Jayadeva was a great court poet of the sena rājā lakṣmanasena, a dynast
 of the last hindu rulers of bengal before the mohammedan onslaught.
 Although Gita Govinda is his most famous work, there are some 30 other

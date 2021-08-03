@@ -1,8 +1,11 @@
 +++
-title = "Skanda-svāmi’s holy/favorite tree and other brief visualxa0musings"
+title = "Skanda-svāmi’s holy/favorite tree and other brief visual musings"
 date = "2018-07-24"
+upstream_url = "https://padmavajra.net/2018/07/24/skanda-svamis-holy-favorite-tree-and-other-brief-visual-musings/"
 
 +++
+Source: [here](https://padmavajra.net/2018/07/24/skanda-svamis-holy-favorite-tree-and-other-brief-visual-musings/).
+
 On a village I visited
 
 ![kadamba](https://padmavajrablog.files.wordpress.com/2018/07/kadamba.jpeg?w=739)

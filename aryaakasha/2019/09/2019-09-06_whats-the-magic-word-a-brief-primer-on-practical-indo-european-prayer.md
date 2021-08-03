@@ -1,8 +1,11 @@
 +++
-title = "“What’s The Magic Word?” – A Brief Primer On Practical Indo-Europeanxa0Prayer"
-date = "September 6, 2019"
+title = "“What’s The Magic Word?” – A Brief Primer On Practical Indo-European Prayer"
+date = "2019-09-06"
+upstream_url = "https://aryaakasha.com/2019/09/06/whats-the-magic-word-a-brief-primer-on-practical-indo-european-prayer/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/09/06/whats-the-magic-word-a-brief-primer-on-practical-indo-european-prayer/).
+
 ![ernalda-ceremony](https://aryaakasha.files.wordpress.com/2019/09/ernalda-ceremony.png?w=676)
 
 **Ignition – Introductions**

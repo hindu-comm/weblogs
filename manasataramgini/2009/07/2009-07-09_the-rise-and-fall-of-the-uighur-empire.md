@@ -1,7 +1,11 @@
 +++
 title = "The rise and fall of the Uighur Empire"
+date = "2009-07-09"
+upstream_url = "https://manasataramgini.wordpress.com/2009/07/09/the-rise-and-fall-of-the-uighur-empire/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/07/09/the-rise-and-fall-of-the-uighur-empire/).
+
 With the Uighurs in the news some people asked me about them. I decided
 to salvage one of my writings on their history, which I suspect is one
 of the more complete ones which I compiled from some obscure sources
@@ -238,9 +242,9 @@ total chaos. Having raided the Arab cities thoroughly the Uighur
 Kha’Khan returned to Mongolia, rich in booty. After having raised the
 Uighurs to the greatest glory Qut Bulmish, the celestial Kha’Khan died.
 He was succeeded by Kün Ulugh Bilge Kha’Khan who consolidated his
-father’s gains by strengthening frontiers and signing a peace pact
-with the Chinese through marriage alliance and keeping up the
-hostilities with the Arabs.
+father’s gains by strengthening frontiers and signing a peace pact with
+the Chinese through marriage alliance and keeping up the hostilities
+with the Arabs.
 
 During the reign of his successor Alp Külug Kha’Khan in 839 CE there was
 heavy snow and famine triggering popular discontent in the Uighur
@@ -298,3 +302,4 @@ lived on and passed their script and skills in government to Mongolic
 tribes of the Khitan and those of Chingiz Kha’Khan, and contributed to
 their spectacular success. Today they are warriors of the Dar ul Islam,
 which had ironically smothered their bauddha tAntric state.
+

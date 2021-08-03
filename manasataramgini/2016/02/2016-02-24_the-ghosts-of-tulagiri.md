@@ -1,7 +1,11 @@
 +++
 title = "The ghosts of Tulagiri"
+date = "2016-02-24"
+upstream_url = "https://manasataramgini.wordpress.com/2016/02/24/the-ghosts-of-tulagiri/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2016/02/24/the-ghosts-of-tulagiri/).
+
 Vrishchika was taking a few days off to visit her parents’ town before
 proceeding with her fellowship. Lootika had nearly completed moving her
 lab to Somakhya’s institute. She was happy that they could finally be
@@ -26,8 +30,8 @@ Lootika: “Dear anujā this is a wonderful catch. One man’s unexpected
 misfortune can be another’s fortune. This is exactly what we need for
 our secret tarpaṇa-s. It is certainly a better kapāla than the one of
 less certain provenance we obtained from the cemetery adjacent to
-Vidrum’s house. Would you mind if I ask you to give it to me whenever
-I and Somakhya might need it?”  
+Vidrum’s house. Would you mind if I ask you to give it to me whenever I
+and Somakhya might need it?”  
 Vrishchika: “Certainly not. If you wish you can keep it with
 yourself.”  
 Lootika: “No, No, it is your precious find. We’ll just borrow it
@@ -50,10 +54,10 @@ Lootika: “anujā, I must confess that it was atop this tank that Somakhya
 and I had frolicked safely ensconced from the snoopy eyes of the masses.
 Cuddling with and tickling each other our experience was that of
 Madadravā and Mahāvighna.”  
-Vrishchika: “That sounds dangerous agrajā\! What if you had fallen to
+Vrishchika: “That sounds dangerous agrajā! What if you had fallen to
 your death either to the ground or inside the tank? In the latter case
 we might have not even known and your corpses would have contaminated
-the town’s water\!”  
+the town’s water!”  
 Lootika: “No worries anujā. There is a nice high rim up there which
 precludes the possibility of us rolling off to hit the ground. On the
 other side the approach to the aperture of the tank is via a raised
@@ -115,16 +119,15 @@ in the śruti, agrajā?”
 Lootika: “you should be aware of that at least for ethno-zoological if
 not religious reasons as a descendant of a high brāhmaṇa clan.” Saying
 so she pulled out her tablet and showed her sister the verse of
-śunaḥśepa ājigarti: “sam indra gardabham mṛṇa nuvantam pāpayāmuyā
-|”  
+śunaḥśepa ājigarti: “sam indra gardabham mṛṇa nuvantam pāpayāmuyā \|”  
 Vrishchika: “That legend seems to have been transferred like many other
-things by the vaiṣṇava-s to the Saṃkarṣaṇa\!”  
-Lootika: “Good\! That indeed seems to be the case.”
+things by the vaiṣṇava-s to the Saṃkarṣaṇa!”  
+Lootika: “Good! That indeed seems to be the case.”
 
 Then Vrishchika pulled out an old notebook of Somakhya. As she browsed
 the first few pages she saw his drawings of microliths recovered from a
 Pravara river site from just before the emergence of the Chalcolithic
-cultures. He had written below it: “the scale was truly industrial\!”
+cultures. He had written below it: “the scale was truly industrial!”
 Moving ahead she saw his drawing of an amoebozoan slime-mold, which was
 growing on the bark of a pomegranate tree. Below that was written the
 note: “Give it to L and Va for analysis of organohalogens.” Sandwiched
@@ -288,8 +291,8 @@ saw a powerful muscular man of dark complexion emerge either from the
 tree or from behind it. In the same voice he asked: “Vidrum, did you see
 Mārgabasavī?” I was shocked that he knew my name but so powerful was his
 hold on my psyche that I did not think of anything else and responded:
-“No. I don’t know who Mārgabasavī is. Who are you?” He responded: “I
-am Kālappā Nāyaka.”  
+“No. I don’t know who Mārgabasavī is. Who are you?” He responded: “I am
+Kālappā Nāyaka.”  
 I: “Nāyaka, I have never seen you before. How would I know anything of
 the person you are enquiring about? Please tell me more.”
 
@@ -364,11 +367,11 @@ reach his destination, I immediately set off to retrieve Mārgabasavī. I
 obtained intelligence from some Marāṭhā-s that she had been kept by the
 Shaikh near Tulagiri. After an arduous journey evading the pickets of
 Mogol garrisons, who were then locked in an epic fight with the
-Marāṭhā-s, I reached the garrison at Tulagiri along with Bhairappā
-and a few trusted companions. After much reconnaissance I established
-contact and tied a rope to haul Mārgabasavī down from the fortification.
-I had almost brought her down when a Mogol gunman shot me. I was buried
-by Bhairappā and my companions at this grave beside this tree. Sometime
+Marāṭhā-s, I reached the garrison at Tulagiri along with Bhairappā and a
+few trusted companions. After much reconnaissance I established contact
+and tied a rope to haul Mārgabasavī down from the fortification. I had
+almost brought her down when a Mogol gunman shot me. I was buried by
+Bhairappā and my companions at this grave beside this tree. Sometime
 later I was brought out in incorporeal form by a brāhmaṇa employed by
 Pid to help him with some magic when he was embellishing the fort of
 Shorapur. But I came away soon afterwards to search for Mārgabasavī. If
@@ -488,7 +491,7 @@ Vināyaka that day. For some reason Lootika had asked him to meet her at
 shop in a rundown part of the city at a precise time. He thought to
 himself: “That is exactly the part of the city where spidery can attract
 all the wrong attention, which only means headache for me to get her out
-if that happens. What on earth would she want to do there\! ”
+if that happens. What on earth would she want to do there! ”
 Nevertheless, knowing her quirks, unlike those of the common women, to
 almost always have “rational” foundations he agreed to see her there.
 
@@ -501,14 +504,14 @@ Not finding Lootika in there he made himself inconspicuous beside it and
 somewhat anxiously looked around. Before long he caught sight of an
 oldish brownish-grey woman standing on the other side of the entrance
 somewhat hunched, her face partly covered by the uttara-vastra she had
-wrapped around it. Somakhya to himself: “Ah\! that’s convincing but I
+wrapped around it. Somakhya to himself: “Ah! that’s convincing but I
 should give her a taste of her own fun”. Having ascertained that she had
 not noticed him he quietly crept away from his position and suddenly
 appearing close to her caught her mouth in a firm grip with one hand and
 with the other placed the knife to her throat. In the shock of the
 attack Lootika’s legs nearly gave way beneath her when Somakhya
 whispered in her ear: “hiraṇyajālikā, kṛṣṇajālikā. Good show spidery,
-let’s be going\!”
+let’s be going!”
 
 En route to the temple Somakhya pulled off her face mask and giving her
 back her glasses smiled: “Quite convincing, but do you think you were
@@ -561,8 +564,8 @@ try to treat them minimally on a symptomatic basis but I believe I
 should be able deal with this. There is some chance I might fail. If I
 do, I will need you to come over and deploy what you seem to have
 forgotten.”  
-Jhilleeka: “Wow\! How could I forget that. How come Varoli did not sense
-anything in distance? We are natural siddha-s\! Let me deploy it right
+Jhilleeka: “Wow! How could I forget that. How come Varoli did not sense
+anything in distance? We are natural siddha-s! Let me deploy it right
 away and remind Varoli of the same.”  
 Somakhya: “No, No, Jhilli. Wait for now. If needed we will come to that.
 Think about it, why do you think Varoli would be immune even if far away
@@ -603,3 +606,4 @@ into them and have pegged them in the courtyard of the Padmāvatī shrine.
 The prayoga was of Mahāraudrapūtanā-kālī. I guess you did not recognize
 her when you came face to face with her along with your Mongolian
 student?”
+

@@ -1,8 +1,11 @@
 +++
-title = "THE GUARDIANSHIP OF THE GOLD – The Heroic Tale of the Hiranya-Hoard of Tillyaxa0Tepe"
-date = "September 14, 2019"
+title = "THE GUARDIANSHIP OF THE GOLD – The Heroic Tale of the Hiranya-Hoard of Tillya Tepe"
+date = "2019-09-14"
+upstream_url = "https://aryaakasha.com/2019/09/14/the-guardianship-of-the-gold-the-heroic-tale-of-the-hiranya-hoard-of-tillya-tepe/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/09/14/the-guardianship-of-the-gold-the-heroic-tale-of-the-hiranya-hoard-of-tillya-tepe/).
+
 ![70225381_10162261609610574_1306280566110289920_n](https://aryaakasha.files.wordpress.com/2019/09/70225381_10162261609610574_1306280566110289920_n.jpg?w=676)
 
 Earlier this week, I posted a fine piece of jewelry, likely Scythian in

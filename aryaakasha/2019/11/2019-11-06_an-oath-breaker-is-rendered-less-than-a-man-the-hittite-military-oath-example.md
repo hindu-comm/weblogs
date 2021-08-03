@@ -1,8 +1,11 @@
 +++
-title = "An Oath-Breaker Is Rendered Less Than A Man – The Hittite Military Oathxa0Example"
-date = "November 6, 2019"
+title = "An Oath-Breaker Is Rendered Less Than A Man – The Hittite Military Oath Example"
+date = "2019-11-06"
+upstream_url = "https://aryaakasha.com/2019/11/06/an-oath-breaker-is-rendered-less-than-a-man-the-hittite-military-oath-example/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/11/06/an-oath-breaker-is-rendered-less-than-a-man-the-hittite-military-oath-example/).
+
 ![](https://aryaakasha.files.wordpress.com/2019/11/9166.jpg?w=677)
 
 For various reasons, I found myself reading a bit about Hittite oaths –

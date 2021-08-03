@@ -1,7 +1,11 @@
 +++
 title = "The sub-continental stirrings"
+date = "2005-12-18"
+upstream_url = "https://manasataramgini.wordpress.com/2005/12/18/the-sub-continental-stirrings/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/12/18/the-sub-continental-stirrings/).
+
 We had earlier commented how the Trojan horse, whom we used to call
 Chappal (slipper) in our days of youth was working his wonders with the
 Indian army. We had speculated that he was specifically an agent of the
@@ -23,3 +27,4 @@ and also trying to threaten the Vanga’s supporters like the Sikh
 turbanator and the Andhra chieftain from Vangipura. As result the whole
 Indian army has been stirred and the atmosphere of fear has been
 reinstated to possibly trigger a decline in performance.
+

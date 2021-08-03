@@ -1,8 +1,11 @@
 +++
-title = "On Triptolemus And Demeter, Soma And The Sacral Rites Of Life Andxa0Land"
-date = "June 29, 2021"
+title = "On Triptolemus And Demeter, Soma And The Sacral Rites Of Life And Land"
+date = "2021-06-29"
+upstream_url = "https://aryaakasha.com/2021/06/29/on-triptolemus-and-demeter-soma-and-the-sacral-rites-of-life-and-land/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/06/29/on-triptolemus-and-demeter-soma-and-the-sacral-rites-of-life-and-land/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/06/41e8b547b18dc50bfe81531f5d06eaa5.jpg?w=450)
 
 A foundational principle of Indo-European ritual is succinctly expressed

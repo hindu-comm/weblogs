@@ -1,8 +1,11 @@
 +++
-title = "Whether You Hear It Or Not – The Voice of the Divine Still Roars [Axa0Prelude]"
-date = "July 27, 2019"
+title = "Whether You Hear It Or Not – The Voice of the Divine Still Roars [A Prelude]"
+date = "2019-07-27"
+upstream_url = "https://aryaakasha.com/2019/07/27/whether-you-hear-it-or-not-the-voice-of-the-divine-still-roars-a-prelude/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/07/27/whether-you-hear-it-or-not-the-voice-of-the-divine-still-roars-a-prelude/).
+
 
 
 ![279125_10150719482745574_3415135_o](https://aryaakasha.files.wordpress.com/2019/07/279125_10150719482745574_3415135_o.jpg?w=676)

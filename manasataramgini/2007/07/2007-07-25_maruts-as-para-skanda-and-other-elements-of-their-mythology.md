@@ -1,7 +1,11 @@
 +++
 title = "maruts as \"para-skanda\" and other elements of their mythology"
+date = "2007-07-25"
+upstream_url = "https://manasataramgini.wordpress.com/2007/07/25/maruts-as-para-skanda-and-other-elements-of-their-mythology/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/07/25/maruts-as-para-skanda-and-other-elements-of-their-mythology/).
+
 Many deities undergo drastic changes when they move across the
 veda-purANa transition: Some lose status: e.g. indra; others lose status
 and change character e.g. varuNa; others rise to exalted heights e.g.
@@ -32,48 +36,48 @@ identified with each other in the veda, agni and rudra form that pair.
 In at least 2 mantras agni is said to have fathered the maruts: RV
 1.71.8 and 6.3.8. In the shatapata brAhmaNa one of the manifestation of
 agni as rudra is termed kumAra (an epithet of skanda).  
-2\) skanda’s mother is a river (ga\~NgA) and the maruts are described as
+2) skanda’s mother is a river (ga\~NgA) and the maruts are described as
 having a river for their mother (e.g. “sindhu-mAtaraH” RV 10.78.6).  
-3\) skanda is described as being born as six distinct but identical
+3) skanda is described as being born as six distinct but identical
 children and united to form one body with six heads. The maruts are
 described as being all of the same age and identical to each other. In
 different mantras in the RV and AV they are described a many individuals
 united together (RV 8.20.1/21, AV13.4.8). skanda also preserves a degree
 of his multiplicity by existing with his identically formed brothers
 shAkha, vishAkha and nejamesha.  
-4\) The youthfulness of skanda is emphasized: he described as being a
+4) The youthfulness of skanda is emphasized: he described as being a
 playful child or a youth (bAla or kumAra). The maruts are also described
 as young playful children (shishu in RV 10.78.6; 7.56.16). Incidentally
 the term shishu is used in one of the earliest versions of the kumara
 story to describe an emanation of skanda (MBH 3.227 in Vulgate).  
-5\) The primary weapon of skanda is the spear (shakti is the preferred
+5) The primary weapon of skanda is the spear (shakti is the preferred
 epic term) and he is also depicted with a vajra. The primary weapon of
 the maruts is the spear (the preferred vedic term is R^iShTi) and they
 also use the lighting (vidyut) or vajra. Both skanda and the maruts are
 also occasionally depicted as archers.  
-6\) Both skanda and the maruts are war gods par excellence. skanda is
-the victorious commander of the deva army, and the lord of shardhas,
+6) Both skanda and the maruts are war gods par excellence. skanda is the
+victorious commander of the deva army, and the lord of shardhas,
 pArShadA-s or gaNas. The maruts are the one set of deities most commonly
 termed as gaNa-s/shardha, and in the veda are the constituents as well
 as leaders of the deva senA, leading it to a demolishing victory (RV
 10.103.8 “devasenānām abhi-bhañjatīnām jáyantīnām marúto yantu
 ágram”).  
-7\) skanda shatters the krau\~ncha mountain with his spear and splinters
+7) skanda shatters the krau\~ncha mountain with his spear and splinters
 the peaks of the shveta parvata by striking it with his deadly mace (MBH
 3.224 in Vulgate). The maruts are frequently described as shattering
 mountains in their fury (RV 1.85.10 “chid-bibidhur vi parvataM” or RV
 5.52.9 “ádrim bhindanti ójasA”)  
-8\) skanda is described as born atop a mountain and seated atop a hill
+8) skanda is described as born atop a mountain and seated atop a hill
 shortly after his birth (e.g. MBH 3.224 in Vulgate). The marut-s are
 also described as born on a mountain (“girijAH” RV 5.87.1) and dwelling
 atop a mountain (“mArutaM gaNaM giriShTAM” RV 8.94.12)  
-9\) The maruts as archetypal “storm gods” are associated with roaring
+9) The maruts as archetypal “storm gods” are associated with roaring
 noises of thunder — their roars are said to terrify the denizens of the
 worlds. They are also described as making loud noises by blowing on
 organs termed vANa-s and bhR^imi-s (“dhamanto vANaM” RV 1.85. 10,
-“bhR^imim dhamanto” RV 2.34.1) . In the earliest version of the
-kaumAra myth a comparable aspect of skanda is described. He is mentioned
-as making a loud noise like a mass of thunder clouds, and repeatedly
+“bhR^imim dhamanto” RV 2.34.1) . In the earliest version of the kaumAra
+myth a comparable aspect of skanda is described. He is mentioned as
+making a loud noise like a mass of thunder clouds, and repeatedly
 roaring and yelling terrifying war cries that frightened everyone. He is
 also mentioned blowing into a conch and making a frightful noise (MBH
 3.224 in Vulgate).  
@@ -86,17 +90,17 @@ This aspect is particularly highlighted in the early version of the
 skanda cycle where he is described as being bright as the sun, and agni
 (MBH 3.226, also 9.46). Specifically, he is also described as being like
 flashes of lightning from a mass of ruddy clouds (MBH3.224).  
-11\) skanda is closely associated with indra, and is even described as
+11) skanda is closely associated with indra, and is even described as
 his son-in-law marrying his daugther deva-senA, and skanda calls himself
 a servant of indra in the earliest version of the kaumara myth (MBH
 3.228). In the veda, maruts are the closest companions of indra.  
-12\) kumAra can be roguish (hence called dhUrta) and cause harm and
+12) kumAra can be roguish (hence called dhUrta) and cause harm and
 disease with his agents. The maruts likewise can cause harm (RV 1.39.8,
 1.171.1, 7.58.5) and are invoked to keep harm away.  
-13\) The relatively infrequent verbal root skand, from which skanda is
+13) The relatively infrequent verbal root skand, from which skanda is
 derived, the RV occurs in connection with the marut-s as “skandanti” (RV
 5.52.3).  
-14\) The marut-s are described as having a common wife, the goddess
+14) The marut-s are described as having a common wife, the goddess
 rodasI of the veda. In the earliest kaumara rituals associated with the
 atharvanic tradition, skanda is described as having a common wife with
 his brothers.
@@ -104,14 +108,14 @@ his brothers.
 The final, very significant element of this connection comes from a
 conversation between rudra and skanda in the oldest version of the
 kaumAra myth (MBH 3.230 in Vulgate):  
-athaabravIn mahAsenaM mahAdevo bR^ihad vachaH | saptamaM mAruta skandhaM
-rakShanityam-atandritaH ||  
+athaabravIn mahAsenaM mahAdevo bR^ihad vachaH \| saptamaM mAruta
+skandhaM rakShanityam-atandritaH \|\|  
 And then mahAdeva said these weighty words to mahAsena: “You must
 watchfully command the seven-fold troops of maruts.”
 
-skandovAcha: saptamaM mAruta skandhaM pAlayiShyAmy-ahaM prabho|
-yad-anyad-api me kAryam deva tad-vada mAchiram ||  
-skanda replied, “Very well, my lord\! I shall command the seven-fold
+skandovAcha: saptamaM mAruta skandhaM pAlayiShyAmy-ahaM prabho\|
+yad-anyad-api me kAryam deva tad-vada mAchiraM \|\|  
+skanda replied, “Very well, my lord! I shall command the seven-fold
 marut troops. Now tell me quickly if there is any other task of the
 devas to be done.”
 
@@ -164,3 +168,4 @@ Kushana-s among the Indians as suggested by numerous early texts.
 Instead, we suspect that this people were associated with the late vedic
 period, and probably corresponded to the “pANDava-s” of the bhArata who
 inserted themselves into kuru-pa\~nchAla realm.
+

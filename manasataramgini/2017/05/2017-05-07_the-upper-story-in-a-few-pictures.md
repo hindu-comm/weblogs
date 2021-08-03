@@ -1,7 +1,11 @@
 +++
 title = "The upper story in a few pictures"
+date = "2017-05-07"
+upstream_url = "https://manasataramgini.wordpress.com/2017/05/07/the-upper-story-in-a-few-pictures/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2017/05/07/the-upper-story-in-a-few-pictures/).
+
 We have always held that there is no substitute to the knowledge gained
 from handling real data. It is always superior to one gained from mere
 reading without reproducing or self-investigation. Hence, we have
@@ -20,29 +24,29 @@ As primates we pride ourselves over our brains and those of our lineage
 in general. By all measures even among the highly encephalized placental
 mammals primates are unusual barring the case of the cetacean lineage of
 artiodactyls. Below we examine the cranial capacity, a proxy for brain
-size, of 35 primates which are divided into 9 grades:  
-1\) [Lemur-like grade strepsirrhine and possibly basal haplorrhine
+size,of 35 primates which are divided into 9 grades:  
+1) [Lemur-like grade strepsirrhine and possibly basal haplorrhine
 primates](https://manasataramgini.wordpress.com/2009/09/03/primate-evolution-roundup/):
 *Smilodectes gracilis, Adapis parisiensis, Rooneyia viejaensis,
 Necrolemur antiquus, Tetonius homunculus.*  
-2\) The
+2) The
 [parapithecids](https://manasataramgini.wordpress.com/2009/09/03/primate-evolution-roundup/):
 *Parapithecus grangeri* close to simiiform ancestry; the
 propliopithicids, which are believed to be close to the ancestry of ape
 and monkey (the old world monkeys i.e. Cercopithecoidea):
 *Aegyptopithecus zeuxis*  
-3\) The enigmatic *Oreopithecus*, which shows features of great apes
+3) The enigmatic *Oreopithecus*, which shows features of great apes
 combined with primitive features suggestive of monkeys.  
-4\) Siamang: the lesser ape.  
-5\) *Proconsul nyanzae* which is close to ancestry of apes  
-6\) great apes: *Dryopithecus brancoi, Pongo species, Gorilla, Pan
+4) Siamang: the lesser ape.  
+5) *Proconsul nyanzae* which is close to ancestry of apes  
+6) great apes: *Dryopithecus brancoi, Pongo species, Gorilla, Pan
 troglodytes.*  
-7\) The grade of apes believed to be close to Homo clade than other
-great apes: *Sahelanthropus tchadensis, Ardipithecus ramidus.*  
-8\) Australopithecine grade: *Australopithecus afarensis, Paranthropus
+7) The grade of apes believed to be close to Homo clade than other great
+apes: *Sahelanthropus tchadensis, Ardipithecus ramidus.*  
+8) Australopithecine grade: *Australopithecus afarensis, Paranthropus
 aethiopicus, Paranthropus boisei, Australopithecus africanus,
 Paranthropus robustus, Australopithecus garhi*  
-9\) The Homo grade: *Homo neanderthalenis, Homo helmei, Homo sapiens,
+9) The Homo grade: *Homo neanderthalenis, Homo helmei, Homo sapiens,
 Homo antecessor, Homo heidelbergensis, Homo erectus, Homo ergaster, Homo
 rudolfensis, Homo georgicus, Homo habilis, Homo naledi, Homo
 floresiensis*
@@ -51,7 +55,7 @@ Of course we are not taking any particular stance of whether the *Homo*
 species defined above are genuine phylogenetic divisions or in part
 merely intraspecific variation.
 
-![primate\_brains01](https://manasataramgini.files.wordpress.com/2017/05/primate_brains01.png?w=640)
+![primate_brains01](https://manasataramgini.files.wordpress.com/2017/05/primate_brains01.png?w=640)
 
 What this graph along with recent finds like *Homo naledi* and *Homo
 floresiensis* suggests is that whereas the initial increase in brain
@@ -63,7 +67,7 @@ and the australopithecine grade apes which are believed to be closer to
 though small-brained forms like *H.naledi* and *H.floresiensis* seem to
 have survived for long alongside the large-brained forms.
 
-![Primate\_brains02](https://manasataramgini.files.wordpress.com/2017/05/primate_brains02.png?w=640)
+![Primate_brains02](https://manasataramgini.files.wordpress.com/2017/05/primate_brains02.png?w=640)
 
 The next figure plots the cranial capacities of the same 35 primates
 against their age. The blue dashed line indicates the cumulative mean of
@@ -117,7 +121,7 @@ France, Italy, Iraq and Uzbekistan against the respective ages which
 span from 40,000 to 130,000 years bp. They are color-coded as per their
 geographic origin and labeled with the initials of the countries.
 
-![primate\_brains03](https://manasataramgini.files.wordpress.com/2017/05/primate_brains03.png?w=640)
+![primate_brains03](https://manasataramgini.files.wordpress.com/2017/05/primate_brains03.png?w=640)
 
 One notices that the cumulative median cranial capacity shows a modest
 increase from 1255 to 1381 cc in this 90000 year window for these
@@ -126,7 +130,7 @@ throughout the 60 kyr period from 100-40 kyrs we see a consistent
 presence of males with c.c \>1500 cc across the geographic distribution
 of Neanderthals: the largest is the impressive 1740 cc Amud 1 cranium
 from Israel. To the right of the plot we see the range of the modern
-human c.c. (M.H) and we can see that the Neanderthals had a tendency for
+human c.c.(M.H) and we can see that the Neanderthals had a tendency for
 larger c.c than us. Equally striking is the illustration of the range of
 the archaic specimens of *Homo sapiens* shown the right (Ar.H). This is
 drawn from specimens ranging from the Idaltu cranium from 160,000 yrs
@@ -162,3 +166,4 @@ Thus, together these forces sometimes acting at the same time sometimes
 with slight temporal offset allowed the brains to shrink. Our thinking
 in this direction has some overlap with the domestication hypothesis of
 Bruce Hood.
+

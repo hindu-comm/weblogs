@@ -1,8 +1,11 @@
 +++
-title = "Abraham and his sons(also the secularized ones and others bearing that imprint)-a skeleton of some aspects of their modusxa0operandi"
+title = "Abraham and his sons(also the secularized ones and others bearing that imprint)-a skeleton of some aspects of their modus operandi"
 date = "2017-05-22"
+upstream_url = "https://padmavajra.net/2017/05/22/abraham-and-his-sonsalso-the-secularized-ones-and-others-bearing-that-imprint-a-skeleton-of-some-aspects-of-their-modus-operandi/"
 
 +++
+Source: [here](https://padmavajra.net/2017/05/22/abraham-and-his-sonsalso-the-secularized-ones-and-others-bearing-that-imprint-a-skeleton-of-some-aspects-of-their-modus-operandi/).
+
 Their religions is the perfect means-and this is the most important-the
 perfect means of making certain they will suffer persecution. *To some
 extent,their success depends on their cunning on having themselves seen

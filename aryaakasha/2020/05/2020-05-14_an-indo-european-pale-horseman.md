@@ -1,8 +1,11 @@
 +++
-title = "An Indo-European Palexa0Horseman"
-date = "May 14, 2020"
+title = "An Indo-European Pale Horseman"
+date = "2020-05-14"
+upstream_url = "https://aryaakasha.com/2020/05/14/an-indo-european-pale-horseman/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/05/14/an-indo-european-pale-horseman/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/05/60122789_10161754872550574_1015139722550312960_n.jpg?w=647)
 
 \[Author’s Note: Following on from the success of the Indo-European

@@ -1,8 +1,11 @@
 +++
-title = "On Music As Kosmosxa0(Order[ing])"
-date = "January 22, 2021"
+title = "On Music As Kosmos (Order[ing])"
+date = "2021-01-22"
+upstream_url = "https://aryaakasha.com/2021/01/22/on-music-as-kosmos-ordering/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/01/22/on-music-as-kosmos-ordering/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/01/dfd42d09fd4035ae11fc269c09e577c8.jpg?w=1024)
 
 “धिमिद्धिमिद्धिमिध्वनन्मृदङ्गतुङ्गमङ्गल ।  

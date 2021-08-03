@@ -1,7 +1,11 @@
 +++
 title = "khilonmAda-charchA"
+date = "2013-07-20"
+upstream_url = "https://manasataramgini.wordpress.com/2013/07/20/khilonmada-charcha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/07/20/khilonmada-charcha/).
+
 Visualize a situation where a plasmid encoding a bacteriocin infects a
 bacterium. This bacteriocin kills all other conspecifics (to the extent
 we can define a conspecific in bacteria). Consequently, the rivals who
@@ -27,7 +31,7 @@ Thus, in this situation by the principle of included fitness, the
 fitness of the plasmid-bearing lysed cells is not 0 but positive and
 most probably greater than their own typical individual fitness (i.e.,
 if they did not sacrifice themselves) due to huge benefit to kin
-(Haldane/Hamilton’s inequality: r\*B-C\>0; where (‘r’ is the genetic
+(Haldane/Hamilton’s inequality: r\*B-C>0; where (‘r’ is the genetic
 relatedness of the beneficiary to the self-sacrificer, i.e., probability
 that a random locus is identical by descent in the two; ‘B’ is the
 reproductive benefit gained by the beneficiary of the self-sacrifice in
@@ -176,7 +180,7 @@ it might enhance your fitness. Here is where things get more tricky.
 First, infection with marUnmAda is unlikely to enhance fit of the
 individual perpetually and in situations other than the above mentioned
 cases where it wins:  
-1\) When there is a large uninfected population in the vicinity then
+1) When there is a large uninfected population in the vicinity then
 infection by khilimoha might benefit the individual because it induces
 him to perform acts of ghazwat that allows him to capture women from the
 uninfected and increase his fitness by fathering offspring on them.
@@ -272,7 +276,7 @@ social structure with the spread of Islam resulted in much lower
 capability to withstand famine from El Niño oscillations. Thus larger
 numbers of those who had converted to Islam in the Bahmanid sultanate
 perished (e.g. the [durgAdevI
-famine](https://manasataramgini.wordpress.com/2010/07/31/mahasamanta-%e2%80%9cfeudalism%e2%80%9d/ "mAhAsamanta “feudalism”?")).
+famine](https://manasataramgini.wordpress.com/2010/07/31/mahasamanta-%e2%80%9cfeudalism%e2%80%9d/ "mAhAsamanta“feudalism”?")).
 This possibly explains why most pagan societies fought the coming of the
 khilimoha tooth-and-nail before it was forcibly thrust upon them by
 military defeat. If not, it seized them during period of social decline
@@ -293,3 +297,4 @@ it and to a degree its secularized versions such as Marxism, liberalism,
 feminism, modernism, secular humanism, secularism, Ayn-Randism,and many
 other such. While the pretonmAda came first, the khilonmAda cleared its
 clutter and made fashioned itself as the epitome of its essence.
+

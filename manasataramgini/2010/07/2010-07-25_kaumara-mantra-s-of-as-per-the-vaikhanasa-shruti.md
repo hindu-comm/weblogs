@@ -1,7 +1,11 @@
 +++
 title = "kaumara mantra-s of as per the vaikhAnasa shruti"
+date = "2010-07-25"
+upstream_url = "https://manasataramgini.wordpress.com/2010/07/25/kaumara-mantra-s-of-as-per-the-vaikhanasa-shruti/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/07/25/kaumara-mantra-s-of-as-per-the-vaikhanasa-shruti/).
+
 [![](https://i2.wp.com/lh3.ggpht.com/_hjuA1bE0hBw/TE0r_w2GkzI/AAAAAAAAB3Q/S_HsF2qH3I0/s800/skanda.JPG)](http://picasaweb.google.com/lh/photo/LLIMbk6xazy7UmTFcGSsTg?feat=embedwebsite)
 
 The kaumAra-shAsana holds that its mantra-s are of two types name
@@ -10,14 +14,14 @@ vaidika origin. The [rahasya
 trishati](https://manasataramgini.wordpress.com/2009/09/15/kumara-trishati/)
 is said to specify mantra-s of both the classes.
 
-bhUtapatir gatAta\~Nko nIla-chUDaka-vAhanaH || 34/287  
+bhUtapatir gatAta\~Nko nIla-chUDaka-vAhanaH \|\| 34/287  
 The terminal quadrantistich of this shloka “nIla-chUDaka-vAhanaH”
 encodes the shruti-prakR^iti-mantra known as the [aShTAkShari
 vidyA](https://manasataramgini.wordpress.com/2007/05/30/the-code-of-the-ashtakshari-vidya/)
 (AV-Vulgate 20.132.16)
 
-vachadbhU rudrabhUsh chaiva jagadbhUr brahmabhUs tathA | 35/291  
-bhuvadbhUr vishvabhUsh chaiva mantramUrtir mahAmanuH || 35/295  
+vachadbhU rudrabhUsh chaiva jagadbhUr brahmabhUs tathA \| 35/291  
+bhuvadbhUr vishvabhUsh chaiva mantramUrtir mahAmanuH \|\| 35/295  
 This shloka is said to specify shruti-prakR^iti skanda mahAmantra-s.
 What is immediately apparent is that it encodes the six ShaDakShari
 mantra-s that are associated with the [shaktyuta mUrti
@@ -31,67 +35,68 @@ mantra-s for the vaikhAnasokta skanda yAga that is performed on the
 bright ShaShThi in the months of phAlguni, aShADha and kR^ittika:
 
 jagad-bhuvaM bahuto hutaM yajad-bhuvan \[vachad-bhuvan\] namas te astu
-vishva-bhuve svAhA || 6.24.1  
+vishva-bhuve svAhA \|\| 6.24.1  
 jagad-bhuvo .adhipatis senAnIr mayUra-priyaSh ShaDAnanA\~NgAraH
-sa\~njayAha namas te .astu sukhAvahAya svAhA || 6.24.2  
+sa\~njayAha namas te .astu sukhAvahAya svAhA \|\| 6.24.2  
 subrahmaNyo bR^ihaspates sutAyAsya padma-yoneH yasyAtmA vahane vahati
-svAhA || 6.24.3  
-subrahmaNyo rudra-bhuvo brahma-bhuvaH bhavodbhavo mamAmR^itAya svAhA ||
-6.24.4  
-jagad-bhuvas subrahmaNyaH kR^ittikA-sutaH ShaShTikAya svAhA || 6.24.5  
+svAhA \|\| 6.24.3  
+subrahmaNyo rudra-bhuvo brahma-bhuvaH bhavodbhavo mamAmR^itAya svAhA
+\|\| 6.24.4  
+jagad-bhuvas subrahmaNyaH kR^ittikA-sutaH ShaShTikAya svAhA \|\|
+6.24.5  
 jagad-bhuvo yo yajad-bhuva skanda-vishAkha-netA havyam asmAt ShaNmukhAya
-svAhA || 6.25.1
+svAhA \|\| 6.25.1
 
 Then the offerings are made to the kula of skanda-mAtR^i-s (the mantra-s
 are given after the durgA homa mantra-s in the VMP 6.27.1-28.1):  
 nandinyA mUlavatyA jagato vasatyA jyeShThAyA astu suhuta(g)M hutam
-svasur devyA dharitryA rajata-priyAyAs svAhA || 6.27.1  
+svasur devyA dharitryA rajata-priyAyAs svAhA \|\| 6.27.1  
 Apo vivesha prajayA brahma-dArAs skanda-prabarhaM bharaNe vidma devyAH
-veginI devI sharma deyAt sadA nas svAhA || 6.27.2  
+veginI devI sharma deyAt sadA nas svAhA \|\| 6.27.2  
 shAkhA-bhUta sushAkhayA divo bhettum ayUyujat dhAtA devyA yajAma
-homAgryAM tatra vAhiny udetu svAhA || 6.27.3  
+homAgryAM tatra vAhiny udetu svAhA \|\| 6.27.3  
 devI pravAhiny anishaM pAti-bhUta(g)M sarvaM Chando vikIrayan bhajato me
-shivaM dhattAM jayA vR^ittaM jarayatv Adhim eShA svAhA || 6.27.4  
+shivaM dhattAM jayA vR^ittaM jarayatv Adhim eShA svAhA \|\| 6.27.4  
 bisinI bhUtA jananIvA sR^ijanty utAvanItA brahmaNy adhy upAste tAM
-vidyutA(g)M samyag u tarpayAmi svAhA || 6.27.5  
+vidyutA(g)M samyag u tarpayAmi svAhA \|\| 6.27.5  
 pravidyutAyA sumano-dharA chAmuM vira\~njaty ata eSha panthAH
-tasyAbhavat vindu-karAnura\~njo juhomi sA no shivadA vidheyA svAhA ||
+tasyAbhavat vindu-karAnura\~njo juhomi sA no shivadA vidheyA svAhA \|\|
 6.28.1
 
 arghya is offered with:  
-tat-puruShAya vidmahe mahAsenAya dhImahi | tan naSh ShaNmukhaH
-pracodayAt ||8.1.195.1
+tat-puruShAya vidmahe mahAsenAya dhImahi \| tan naSh ShaNmukhaH
+pracodayAt \|\|8.1.195.1
 
 In the first mantra the editions prepared by the kuMbhaghoNaM
 vaikhAnasa-s as well as that by the American scholar Resnick read as
-“yajad-bhuvan”. However, at least one vaikhAnasa from the Tamil
-country reads this as vachad-bhuvan. The reading vachad-bhuvan is also
-seen in the form of this mantra preserved within the subrahmaNya
-pratiShTha of the shaiva saiddhAntika tradition. Hence latter reading
-could have also been a valid, especially given that it specifies the
-base of one of the six ShaDakShari mantra-s in its typical form (OM
-vachadbhuve namaH ||). In the sextet of ShaDakShari-s one of the 6
-mantra-s is typically given as “bhuvadbhuve namaH ||” in later tAntrika
-sources. In all manuscripts and the oral tradition of the vaikhAnasa-s
-the cognate name is read as bhavodbhava. This corresponds to the same
-name used in the mantra “sadyojAtaM prapadyAmi…” which is a skanda
-mantra in the gopathokta atharvavedIya skanda yAga. Similarly, the bali
-mantra deployed in the bodhAyanokta dhUrta homa of the classical
-taittirIyaka-s uses the name bhavodbhava. These points suggest that the
-original name was probably bhavodbhava, which was transformed to
-bhuvadbhuva to fit the form of the remaining mantra-s to constitute the
-ShaDakShari sextet. While mantra-s related to rituals to skanda and
-ShaShThI were widespread across different shAkhA-s in the late Vedic
-period, the earliest indications of the kaumAra mUla ShaDakShari-s are
-currently observed only within the taittirIya tradition. An indication
-that these mantra-s were based on “bhU” is supported by the form the
-ShaDakShari of the classical tattirIyaka-s for offering oblations in the
-dhUrta homa: “bhuve namaH svAhA ||”. But what makes the vaikhAnasa
-mantra-s important is that they are the earliest indication of the
-complete base forms of the ShaDakShari sextet. Further, this set of six
-mantra-s specify the 31 kalA-s of the kaumAra mantra-shAstra that are
-used in the sarvA\~NganyAsa, just as the kalA-s of the pa\~nchabrahmA
-are used in the shaiva tradition.
+“yajad-bhuvan”. However, at least one vaikhAnasa from the Tamil country
+reads this as vachad-bhuvan. The reading vachad-bhuvan is also seen in
+the form of this mantra preserved within the subrahmaNya pratiShTha of
+the shaiva saiddhAntika tradition. Hence latter reading could have also
+been a valid, especially given that it specifies the base of one of the
+six ShaDakShari mantra-s in its typical form (OM vachadbhuve namaH
+\|\|). In the sextet of ShaDakShari-s one of the 6 mantra-s is typically
+given as “bhuvadbhuve namaH \|\|” in later tAntrika sources. In all
+manuscripts and the oral tradition of the vaikhAnasa-s the cognate name
+is read as bhavodbhava. This corresponds to the same name used in the
+mantra “sadyojAtaM prapadyAmi…” which is a skanda mantra in the
+gopathokta atharvavedIya skanda yAga. Similarly, the bali mantra
+deployed in the bodhAyanokta dhUrta homa of the classical taittirIyaka-s
+uses the name bhavodbhava. These points suggest that the original name
+was probably bhavodbhava, which was transformed to bhuvadbhuva to fit
+the form of the remaining mantra-s to constitute the ShaDakShari sextet.
+While mantra-s related to rituals to skanda and ShaShThI were widespread
+across different shAkhA-s in the late Vedic period, the earliest
+indications of the kaumAra mUla ShaDakShari-s are currently observed
+only within the taittirIya tradition. An indication that these mantra-s
+were based on “bhU” is supported by the form the ShaDakShari of the
+classical tattirIyaka-s for offering oblations in the dhUrta homa:
+“bhuve namaH svAhA \|\|”. But what makes the vaikhAnasa mantra-s
+important is that they are the earliest indication of the complete base
+forms of the ShaDakShari sextet. Further, this set of six mantra-s
+specify the 31 kalA-s of the kaumAra mantra-shAstra that are used in the
+sarvA\~NganyAsa, just as the kalA-s of the pa\~nchabrahmA are used in
+the shaiva tradition.
 
 The origin of these celebrated kaumAra mantra-s in association with the
 vaikhAnasa-s is also consistent with other elements of kaumAra worship
@@ -174,12 +179,12 @@ composed a manual known as the subrahmaNya pratiShThAvidhi, which
 provides the kaumAra temple installations under a saiddhAntika
 framework. In this framework the ShaDakShari sextet is combined with the
 faces of the 5 brahma mantra-s:  
-OM ishAna-mUrdhAya jagadbhuve namaH |  
-OM tatpuruSha-vaktrAya vachadbhuve namaH |  
-OM aghora-hR^idayAya vishvabhuve namaH |  
-OM vAmadeva-guhyAya rudrabhuve namaH |  
-OM sadyojAya-mUrtaye brahmabhuve namaH |  
-OM sarva-vaktra bhuvadbhuve namaH |
+OM ishAna-mUrdhAya jagadbhuve namaH \|  
+OM tatpuruSha-vaktrAya vachadbhuve namaH \|  
+OM aghora-hR^idayAya vishvabhuve namaH \|  
+OM vAmadeva-guhyAya rudrabhuve namaH \|  
+OM sadyojAya-mUrtaye brahmabhuve namaH \|  
+OM sarva-vaktra bhuvadbhuve namaH \|
 
 Likewise other saiddhAntika elements are worked into various aspects of
 the kaumAra ritual.
@@ -202,6 +207,7 @@ Finally, it may also explain the faint folk memories that the main
 vaikhAnasa shrine at Tirumala is alternatively a kaumAra shrine. Indeed
 the vaikhAnasa officiants appear to acknowledge this in their
 aShTottara-shata-nAmAvali of ve\~NkaTeshvara, where he is called:
-“kArttikeya-vapudhAriNe namaH |”. It is not impossible that at some
+“kArttikeya-vapudhAriNe namaH \|”. It is not impossible that at some
 point there was also a presence of the vaikhAnasa associated kaumAra-s
 in this place.
+

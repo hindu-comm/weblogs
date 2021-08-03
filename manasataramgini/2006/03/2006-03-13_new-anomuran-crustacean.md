@@ -1,7 +1,13 @@
 +++
 title = "New anomuran crustacean"
+date = "2006-03-13"
+upstream_url = "https://manasataramgini.wordpress.com/2006/03/13/new-anomuran-crustacean/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/03/13/new-anomuran-crustacean/).
+
+
+
 [![](https://i0.wp.com/photos1.blogger.com/blogger/2010/410/320/Kiwa_hirsuta.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/Kiwa_hirsuta.jpg)
 
 The jewel of the clan of the foes of the foremost of the amAvasus
@@ -43,3 +49,4 @@ the exclusion of the obscure South American freshwater Aeglids. Sadly
 the authors did not use Lomis hirta, the hairy stone crab in their
 phylogeny, which also belongs to the Anomuran clade.  
 **
+

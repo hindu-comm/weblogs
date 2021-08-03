@@ -1,18 +1,23 @@
 +++
 title = "saH janAsaH indraH"
+date = "2006-02-24"
+upstream_url = "https://manasataramgini.wordpress.com/2006/02/24/sah-janasah-indrah/"
 
 +++
-****yáH sháshvato máhy éno dádhAnAn ámanyamAnAñ ChárvA jaghAna |  
-yáH shárdhate nAnudádAti shR^idhyAM yó dásyor hantA sá janAsa índraH ||
+Source: [here](https://manasataramgini.wordpress.com/2006/02/24/sah-janasah-indrah/).
+
+yáH sháshvato máhy éno dádhAnAn ámanyamAnAñ ChárvA jaghAna \|  
+yáH shárdhate nAnudádAti shR^idhyAM yó dásyor hantA sá janAsa índraH
+\|\|
 
 He who struck the evildoers, before even they realized, by shooting his
 arrow;  
 He who forgives not the boldness of those who provoke him, who kills the
-dasyu, he oh men is indra\!
+dasyu, he oh men is indra!
 
 R brought to my attention the translation by Oldenburg, a grand old hero
 of the Indologists, of the hymn 4.19.7 by vAmadeva gautama.  
-****  
+  
 prAgrúvo nabhanvò ná vákvA dhvasrA apinvad yuvatIr R^itaj\~nAH  
 dhánvAny ájrAM+ apR^iNak tR^iShANAM+ ádhog índra staryò dáMsupatnIH
 
@@ -37,12 +42,12 @@ the great god, where indra is called to drink soma using the subrahmaNya
 chant. This chant is highly enigmatic and has bhaktis that have never
 been understood outside the vedic tradition. The chief bhaktis of the
 subrahmaNya chant are:  
-subrahmaNyo3m | subrahmaNyo3m | subrahmaNyo3m ||  
+subrahmaNyo3M \| subrahmaNyo3M \| subrahmaNyo3M \|\|  
 oM subrahmaNya  
-indrAgachCha | hariva AgachCha | haribhyAM AyAhI | medhAtither meSha |
-vR^iShaNashvasya mena | gaurAvaskandin | \*ahalyAyai jAra\* | kaushika
-brAhmaNa | kaushika bruvANa \[gautama bruvANa\] | devA brahmANa
-AgachChAtAgachCha |
+indrAgachCha \| hariva AgachCha \| haribhyAM AyAhI \| medhAtither meSha
+\| vR^iShaNashvasya mena \| gaurAvaskandin \| \*ahalyAyai jAra\* \|
+kaushika brAhmaNa \| kaushika bruvANa \[gautama bruvANa\] \| devA
+brahmANa AgachChAtAgachCha \|
 
 ahala means the unplowed, from which derives ahalyA, either an unplowed
 field or a virgin woman \[It may be recalled that in the sexual formulae
@@ -54,3 +59,4 @@ gautama’s wife. The jaiminIya brAhmaNa laconically states that this
 ahalyA is the female sage maitreyI. So like the other bhaktis of the
 subrahmaNya litany, it might refer to an obscure tale where indra aided
 ahalyA maitreyi.
+

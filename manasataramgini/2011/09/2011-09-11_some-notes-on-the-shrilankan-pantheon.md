@@ -1,7 +1,11 @@
 +++
 title = "Some notes on the Shrilankan pantheon"
+date = "2011-09-11"
+upstream_url = "https://manasataramgini.wordpress.com/2011/09/11/some-notes-on-the-shrilankan-pantheon/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/09/11/some-notes-on-the-shrilankan-pantheon/).
+
 In 1588 CE Christian terrorists from Portugal launched a surprise attack
 on the Shrilankan temple town of Devinuvara. Their intention was to
 destroy the temple of viShNu and impose the horrors of the Catholic
@@ -56,7 +60,7 @@ and Andhra countries: 3) viShNu – the deity of Devinuvara. 4) skanda –
 the deity of kataragAma.  
 A future buddha: 5) maitreya – he is commonly known as nAtha in the
 Lankan tradition.  
-6\) An enigmatic goddess known from the old Tamil country and humanized
+6) An enigmatic goddess known from the old Tamil country and humanized
 in the Tamil epic of the shilapadhikAraM – patnI. She is the kaNNakI of
 the Tamil epic who is presented in it as being posthumously deified as
 pattinI amman.
@@ -114,8 +118,8 @@ On the earth below the earth goddess holds sway,
 for the whole world prince skanda holds sway,  
 for us here the seven patnI-s hold sway.
 
-patnI full of merit and chaste\!  
-O prince skanda, guru of the three worlds\!  
+patnI full of merit and chaste!  
+O prince skanda, guru of the three worlds!  
 We sing songs of the a\~Nkeliya \[Footnote 2\],  
 And sing how diseases subside.
 
@@ -136,3 +140,4 @@ but has now become largely obsolete. It is supposed to have been
 instituted by gaNapati to bring about a truce between patnI (kaNNaki)
 and gopAla (kovalan) who were its initial players. Its origins might
 have even been in the Tamil country, but it is entirely extinct there.
+

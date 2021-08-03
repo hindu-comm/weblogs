@@ -1,7 +1,11 @@
 +++
 title = "The Activist Indologist"
+date = "2006-01-31"
+upstream_url = "https://manasataramgini.wordpress.com/2006/01/31/the-activist-indologist/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/01/31/the-activist-indologist/).
+
 Edgar Hoover had made leftism a matter of the past in American politics.
 Hunted mercilessly by Hoover and McCarthy they leftists found refuge in
 American academia from where they mainly concentrated on social issues
@@ -71,3 +75,4 @@ after 2000 BC older than the ancestral R^igveda. The Gunga Din of course
 declared that the great Indologist had told him so and he was on a
 mission to correct the rightist fantasies of Hindus. This leaves little
 doubt that we need to put such Indologists out of business for good.
+

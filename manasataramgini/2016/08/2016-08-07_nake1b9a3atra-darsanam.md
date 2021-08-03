@@ -1,7 +1,11 @@
 +++
 title = "nakṣatra-darśanam"
+date = "2016-08-07"
+upstream_url = "https://manasataramgini.wordpress.com/2016/08/07/nak%e1%b9%a3atra-darsanam/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2016/08/07/nak%e1%b9%a3atra-darsanam/).
+
 Varoli had just completed the synthesis of the xanthine coupled with
 hydroxymethyluracil and diaminotriazine to test an interesting
 hypothesis of Somakhya regarding a particular class of DNA-binding
@@ -25,12 +29,12 @@ I could try.”
 
 That evening session of elementary star-gazing conducted by Varoli was
 quite a success. The next week the teacher approached her and said:
-“Varoli, a major competition in astronomy has been announced at the
-big planetarium in the city of Visphotaka where scholarly students from
-all over the state or even country would be participating. When it was
-held four years ago your sister Lootika had brought the school great
-honor by winning it. I have entered your name name for the same and hope
-you might be able to achieve something similar.”  
+“Varoli, a major competition in astronomy has been announced at the big
+planetarium in the city of Visphotaka where scholarly students from all
+over the state or even country would be participating. When it was held
+four years ago your sister Lootika had brought the school great honor by
+winning it. I have entered your name name for the same and hope you
+might be able to achieve something similar.”  
 Varoli tried to deflect this: “I am not sure I can do it. Moreover, my
 parents are unlikely to let me travel to the big, bad city of
 Visphotaka, which is only next to Indraprastha, nowadays
@@ -75,7 +79,7 @@ good about herself and was brimming with quiet excitement of the
 impending clash. Some schools from big city of Visphotaka were very
 competitive and holding mock rounds in preparation for the competition
 that was to occur the next day. Her teacher came up to Varoli and said
-that she had arranged with the teachers of those schools for her to
+that she had arranged with the teachers of those schools forher to
 compete in the mock rounds too. The dormant competitive spirit that ran
 in all the four sisters was suddenly kindled like the god Agni praised
 in the mantras “kṛṇuṣva pājaḥ…” by her ancestors of yore. So she decided
@@ -87,14 +91,14 @@ her. He was clearly being acknowledged by the teachers as a hotshot and
 had an entourage of other guys who were vying either to get answers from
 him or his attention. At one point he solved a particularly difficult
 problem concerning mass overflow from a
-![\\beta](https://s0.wp.com/latex.php?latex=%5Cbeta&bg=ffffff&fg=333333&s=0
-"\\beta") Lyrae-type eclipsing variable, which seemed quite beyond even
-any of the teachers out there. Varoli remarked to herself: “He’s
-somebody to watch out. Hope Bṛhaspati lays him low before me.” Later
-that evening as Varoli was wandering among the planetarium exhibits she
-ran into the hotshot guy at an exhibit on emission spectra of elements
-from the periodic table. One spectrum showed up on the screen and the
-beholders had to identify it. Varoli and the hotshot guy called almost
+![\\beta](https://s0.wp.com/latex.php?latex=%5Cbeta&bg=ffffff&fg=333333&s=0&c=20201002)
+Lyrae-type eclipsing variable, which seemed quite beyond even any of the
+teachers out there. Varoli remarked to herself: “He’s somebody to watch
+out. Hope Bṛhaspati lays him low before me.” Later that evening as
+Varoli was wandering among the planetarium exhibits she ran into the
+hotshot guy at an exhibit on emission spectra of elements from the
+periodic table. One spectrum showed up on the screen and the beholders
+had to identify it. Varoli and the hotshot guy called almost
 simultaneously. He said: “Aluminium”. Varoli: “Manganese”. No one else
 even answered. On pressing the button the correct answer showed up as
 Manganese. Varoli could hardly conceal her triumphant smile and she
@@ -225,8 +229,8 @@ the kitchen in great anticipation and excitement of the night’s
 astronomical observations he asked his mother and aunt several questions
 as they prepared dinner.  
 Tigmanika: “I recall you showing me the two close stars in the
-Sapta-ṛkṣa and mentioning there were actually more stars in that
-system which went around each other. Can we see any of those tonight?  
+Sapta-ṛkṣa and mentioning there were actually more stars in that system
+which went around each other. Can we see any of those tonight?  
 Lootika: “Yes, you will see that the brighter of them Vasiṣṭha will
 actually resolve into two close stars when we look at it through the
 telescope. You will see one more faint more star between Vasiṣṭha and
@@ -266,7 +270,7 @@ and the other one is faint red dwarf. Of course we would not be able to
 see that with our telescope.”  
 T: “That sounds really exciting. So all the rare earth metals for our
 magnets and silicon in the sand must have formed in such stars that
-existed before the sun\!”  
+existed before the sun!”  
 V: “That’s partly correct. In smaller stars in their earlier life you
 only form some light elements coming from the Helium, Neon and Argon
 rows of the periodic table. Then when the stars age and enter the red
@@ -329,49 +333,48 @@ It was a glorious night with the sprawling Prajāpati (Orion) having
 mounted the autumnal sky like the allusion found in the mantra used by
 the dvija-s to change their yajñopavīta-s. But in this yuga, having been
 slain by Rudra, Prajāpati was united with his dear Rohiṇī
-(![\\alpha](https://s0.wp.com/latex.php?latex=%5Calpha&bg=ffffff&fg=333333&s=0
-"\\alpha") Tauri), while his old constellation was now handed to over
-King Soma, the king of the vipra-s. Rohiṇī shone with the unmistakable
-orange luster, like the eye of the angry Vṛṣabha (Taurus), the sign of
-the great god Indra who was of the form of the universe. The
-approximately straight line formed by the three Invaka stars (![\\zeta,
-\\; \\epsilon, \\;
-\\delta](https://s0.wp.com/latex.php?latex=%5Czeta%2C+%5C%3B+%5Cepsilon%2C+%5C%3B+%5Cdelta&bg=ffffff&fg=333333&s=0
-"\\zeta, \\; \\epsilon, \\; \\delta") Orionis), the triple-jointed arrow
-of the god Rudra, that slew Prajāpati, worshiped with the Invaka-saman,
-pointed on one side to the orange Rohiṇī and further ahead to the
-brilliant Kṛttikā-s (Pleiades) – that heap of stars verily shone forth
-with a bluish light as the herald of the god Agni in the sky. On the
-other side the Invaka-s pointed to the brilliant ārdrā (Sirius) presided
-over by the shooter śarva; hence the vipra-s of yore said: “ārdrayā
-rudraḥ prathamānameti |”. This star embellished the constellation also
-known as the dog (Canis Major) endowed with many bright stars, which was
-praised by the Bhṛgu-s of yore in the sūkta known as śuno divyasya.
-Between the head of the sprawled Prajāpati, who tried to flee in the
-form of a deer, and twin stars of the asterism of the goddess Aditi
-stretched the galactic band of the heavenly Sarasvatī or the foam with
-which Indra had slain the dānava Namuci. On this heavenly foam sailed
-the great ship (Argo Navis) of the gods Savitṛ, Bhaga and Puṣaṇ, which
-journeyed to the southern realm of the black Yama who slays the martya
-in a thousand ways.
+(![\\alpha](https://s0.wp.com/latex.php?latex=%5Calpha&bg=ffffff&fg=333333&s=0&c=20201002)
+Tauri), while his old constellation was now handed to over King Soma,
+the king of the vipra-s. Rohiṇī shone with the unmistakable orange
+luster, like the eye of the angry Vṛṣabha (Taurus), the sign of the
+great god Indra who was of the form of the universe. The approximately
+straight line formed by the three Invaka stars (![\\zeta, \\; \\epsilon,
+\\;
+\\delta](https://s0.wp.com/latex.php?latex=%5Czeta%2C+%5C%3B+%5Cepsilon%2C+%5C%3B+%5Cdelta&bg=ffffff&fg=333333&s=0&c=20201002)
+Orionis), the triple-jointed arrow of the god Rudra, that slew
+Prajāpati, worshiped with the Invaka-saman, pointed on one side to the
+orange Rohiṇī and further ahead to the brilliant Kṛttikā-s (Pleiades) –
+that heap of stars verily shone forth with a bluish light as the herald
+of the god Agni in the sky. On the other side the Invaka-s pointed to
+the brilliant ārdrā (Sirius) presided over by the shooter śarva; hence
+the vipra-s of yore said: “ārdrayā rudraḥ prathamānameti \|”. This star
+embellished the constellation also known as the dog (Canis Major)
+endowed with many bright stars, which was praised by the Bhṛgu-s of yore
+in the sūkta known as śuno divyasya. Between the head of the sprawled
+Prajāpati, who tried to flee in the form of a deer, and twin stars of
+the asterism of the goddess Aditi stretched the galactic band of the
+heavenly Sarasvatī or the foam with which Indra had slain the dānava
+Namuci. On this heavenly foam sailed the great ship (Argo Navis) of the
+gods Savitṛ, Bhaga and Puṣaṇ, which journeyed to the southern realm of
+the black Yama who slays the martya in a thousand ways.
 
 Hence it was no surprise that to get started Mitrayu and Somakhya
 brought the ten inch telescope to the Orion nebula (M42) and showed
 everyone the great trapezium star cluster of
-(![\\theta](https://s0.wp.com/latex.php?latex=%5Ctheta&bg=ffffff&fg=333333&s=0
-"\\theta") Orionis) in the middle of the nebula. While the two of them
-and their wives had seen it innumerable times in their lives the
-magnificence of it was still no different from the first time they had
-seen it. However, Vidrum and Kalakausha having seen it could not
-understand why their friends used terms like “most wondrous”, “the
-greatest sight” and the like. Then Mitrayu asked them all if they could
-discern any color. While Lootika agreed with her saṃbandha-s about the
-glory of the sight, she remarked that she saw only gray. In contrast,
-while most of Lootika saṃbandha-s saw some green color, only her
-daughter Prithika, though small, claimed to see green and a bit of red
-making Somakhya remark that at least her eyesight was better than her
-parents’. Mitrayu: “The green comes from doubly ionized oxygen while the
-red is a type of excited hydrogen emission in most part.”  
+(![\\theta](https://s0.wp.com/latex.php?latex=%5Ctheta&bg=ffffff&fg=333333&s=0&c=20201002)
+Orionis) in the middle of the nebula. While the two of them and their
+wives had seen it innumerable times in their lives the magnificence of
+it was still no different from the first time they had seen it. However,
+Vidrum and Kalakausha having seen it could not understand why their
+friends used terms like “most wondrous”, “the greatest sight” and the
+like. Then Mitrayu asked them all if they could discern any color. While
+Lootika agreed with her saṃbandha-s about the glory of the sight, she
+remarked that she saw only gray. In contrast, while most of Lootika
+saṃbandha-s saw some green color, only her daughter Prithika, though
+small, claimed to see green and a bit of red making Somakhya remark that
+at least her eyesight was better than her parents’. Mitrayu: “The green
+comes from doubly ionized oxygen while the red is a type of excited
+hydrogen emission in most part.”  
 Tigmanika: “Normally oxygen takes electrons. If it has lost two
 electrons then it must be rather energized. How did they figure out that
 it must be from ionized oxygen?”  
@@ -395,19 +398,19 @@ interests you. That telescope did not have any computer to help point at
 the object of interest. We had to do it by forming a mental map of star
 patterns from a star map and guide the scope by hand. Now look at the
 star map and take the scope to
-![\\iota](https://s0.wp.com/latex.php?latex=%5Ciota&bg=ffffff&fg=333333&s=0
-"\\iota") Orionis.”
+![\\iota](https://s0.wp.com/latex.php?latex=%5Ciota&bg=ffffff&fg=333333&s=0&c=20201002)
+Orionis.”
 
 Being relatively close to the Trapezium, Tigmanika was able to quickly
 take it there. To his surprise he found that it was a multiple star with
 a closer and farther companion, and he called out to the rest to see the
 triple star at the eyepiece.  
 Mitrayu: “The brighter component of
-![\\iota](https://s0.wp.com/latex.php?latex=%5Ciota&bg=ffffff&fg=333333&s=0
-"\\iota") Orionis which you see there blazes away at the brightness of
-11,000 suns or more\! Tigma, I had earlier explained magnitudes to you.
-So can you now tell us what you might think is the brightness of the
-fainter closer companion?”  
+![\\iota](https://s0.wp.com/latex.php?latex=%5Ciota&bg=ffffff&fg=333333&s=0&c=20201002)
+Orionis which you see there blazes away at the brightness of 11,000 suns
+or more! Tigma, I had earlier explained magnitudes to you. So can you
+now tell us what you might think is the brightness of the fainter closer
+companion?”  
 Kalakausha: “You guys are really stressing the kid…”  
 Lootika: “That’s OK. He’ll have to learn sooner than later that science
 is not about just looking at fascinating things but being able to
@@ -419,36 +422,36 @@ would be about 250 times as bright as the sun.”
 Mitrayu: “That sounds about right. The brighter component will be
 brighter than Venus even from a distance of 32.6 light years and the
 closer of the fainter companions would be nearly about as bright as
-Sirius\! The magnitude at that distance is called absolute magnitude.
+Sirius! The magnitude at that distance is called absolute magnitude.
 Somakhya, Lootika have you taught him that?”  
 Lootika: “I guess he should read up on all that by himself, as we had
 done as kids. Alright, now look closely at the star map and locate
-![\\mu](https://s0.wp.com/latex.php?latex=%5Cmu&bg=ffffff&fg=333333&s=0
-"\\mu") Columbae.”
+![\\mu](https://s0.wp.com/latex.php?latex=%5Cmu&bg=ffffff&fg=333333&s=0&c=20201002)
+Columbae.”
 
 This took Tigmanika more time but he eventually took the telescope down
 south and located it: “Ah this sort of looks of a similar to
-![\\iota](https://s0.wp.com/latex.php?latex=%5Ciota&bg=ffffff&fg=333333&s=0
-"\\iota") Orionis\! May be it to has a hint of blue.”  
+![\\iota](https://s0.wp.com/latex.php?latex=%5Ciota&bg=ffffff&fg=333333&s=0&c=20201002)
+Orionis! May be it to has a hint of blue.”  
 Somakhya: “Good. Now look at AE Aurigae on the map and take the scope
 there.”  
 Tigmanika: “That’s way back north again.” After having located an
 unmistakable asterism in Auriga he remarked: “That asterism looks
 interesting, like a parallelogram with an orange star (16 Aurigae) at
-the tail \!”  
+the tail !”  
 Somakhya: “Indeed, that was one of the asterisms on which I tested the
 first telescope I made.”  
 Lootika: “O dear, that was perhaps one of the first things you showed me
 through your scope too on the way to M37…” After a little struggle
 Tigmanika got to AE Auriga from that asterism and having spied it for
 some time was dazzled by the sight: “It seems to have some
-nebulosity\!”  
+nebulosity!”  
 Mitrayu: “That’s the famed Flaming Star nebula. Take a good look and let
 us all have a look too.”  
 After everyone had had their look Somakhya asked his son: “What do you
 think of the positions of AE Aurigae and
-![\\mu](https://s0.wp.com/latex.php?latex=%5Cmu&bg=ffffff&fg=333333&s=0
-"\\mu") Columbae with respect to the Orion nebula?”  
+![\\mu](https://s0.wp.com/latex.php?latex=%5Cmu&bg=ffffff&fg=333333&s=0&c=20201002)
+Columbae with respect to the Orion nebula?”  
 Tigmanika: “Well, they are on opposite sides of it. Why, they seem very
 roughly at a comparable distance from the Nebula to the north and
 south.”  
@@ -456,19 +459,19 @@ Somakhya: “Amazing as it might sound determination of their proper
 motion suggests that they were forcibly ejected from the region of the
 Trapezium from the Orion Nebula cluster in opposite directions. The main
 component of
-![\\iota](https://s0.wp.com/latex.php?latex=%5Ciota&bg=ffffff&fg=333333&s=0
-"\\iota") Orionis, where you saw a single bright star, is further a
-spectroscopic double. This, it seems was also part of this system. Thus,
-four stars seem to have come close as part of the original celestial
-event in the Orion nebula cluster. Two stars appear to have captured
-each other to form the main component of the
-![\\iota](https://s0.wp.com/latex.php?latex=%5Ciota&bg=ffffff&fg=333333&s=0
-"\\iota") Orionis system, while two others got flung in opposite
-directions as AE Aurigae and
-![\\mu](https://s0.wp.com/latex.php?latex=%5Cmu&bg=ffffff&fg=333333&s=0
-"\\mu") Columbae.”
+![\\iota](https://s0.wp.com/latex.php?latex=%5Ciota&bg=ffffff&fg=333333&s=0&c=20201002)
+Orionis, where you saw a single bright star, is further a spectroscopic
+double. This, it seems was also part of this system. Thus, four stars
+seem to have come close as part of the original celestial event in the
+Orion nebula cluster. Two stars appear to have captured each other to
+form the main component of the
+![\\iota](https://s0.wp.com/latex.php?latex=%5Ciota&bg=ffffff&fg=333333&s=0&c=20201002)
+Orionis system, while two others got flung in opposite directions as AE
+Aurigae and
+![\\mu](https://s0.wp.com/latex.php?latex=%5Cmu&bg=ffffff&fg=333333&s=0&c=20201002)
+Columbae.”
 
-Tigmanika: “That’s most remarkable\! I find it rather wonderful that we
+Tigmanika: “That’s most remarkable! I find it rather wonderful that we
 have been able determine so dramatic an event. If they know the motions
 they should be able to figure out when it happened?”  
 Mitrayu: “That’s correct. It seems to have happened very recently around
@@ -523,7 +526,7 @@ and her cousin Vikranta , Mitrayu’s son, noticed some nebulosity that
 some of those present there were able to see. Somakhya then asked his
 putra to take the scope to AB Doradus.
 
-![AB\_Dor\_Pleiades](https://manasataramgini.files.wordpress.com/2016/08/ab_dor_pleiades.png?w=640)
+![AB_Dor_Pleiades](https://manasataramgini.files.wordpress.com/2016/08/ab_dor_pleiades.png?w=640)
 
 With some difficulty he located it close to the southern horizon.
 Somakhya: “Its not often we get to see this star that keep so south.” T:
@@ -531,7 +534,7 @@ Somakhya: “Its not often we get to see this star that keep so south.” T:
 is some kind of variable from its name.” S: “Unimpressive it might look
 but, teaches you an important lesson. It was actually born along with
 the Pleiades in the same star-forming cloud.” T: “That is rather
-surprising to learn\! How is it the Pleiades are all up there close
+surprising to learn! How is it the Pleiades are all up there close
 together while this one has drifted so far away?” Mitrayu: “Actually
 there are bunch of such which were born along with the Pleiades but have
 drifted away. During star-formation some stars remain together as part
@@ -544,19 +547,19 @@ disassociated early from the Pleiades cluster went their own ways.”
 
 T: “That’s rather interesting indeed. So what about the Sun? Do we know
 the stars of the cluster with which it was born? Is
-![\\alpha](https://s0.wp.com/latex.php?latex=%5Calpha&bg=ffffff&fg=333333&s=0
-"\\alpha") Centauri one such?”  
+![\\alpha](https://s0.wp.com/latex.php?latex=%5Calpha&bg=ffffff&fg=333333&s=0&c=20201002)
+Centauri one such?”  
 M: “Indeed the sun was born in some ancient open cluster that has now
 disintegrated. By studying the motion and chemical compositions we can
 say that
-![\\alpha](https://s0.wp.com/latex.php?latex=%5Calpha&bg=ffffff&fg=333333&s=0
-"\\alpha") Centauri and the sun have merely drifted close to each other
-and were not connected at birth. The stars with which the sun was born
-are known as solar siblings. Finding them has proved generally
-challenging but there is one star in Hercules that might be a sibling
-(HD 162826). You can find it some day when Hercules is up. It is
-somewhat whiter than the sun. Now you can spend some time thinking about
-what kind of cluster the sun must have been born in.”  
+![\\alpha](https://s0.wp.com/latex.php?latex=%5Calpha&bg=ffffff&fg=333333&s=0&c=20201002)
+Centauri and the sun have merely drifted close to each other and were
+not connected at birth. The stars with which the sun was born are known
+as solar siblings. Finding them has proved generally challenging but
+there is one star in Hercules that might be a sibling (HD 162826). You
+can find it some day when Hercules is up. It is somewhat whiter than the
+sun. Now you can spend some time thinking about what kind of cluster the
+sun must have been born in.”  
 T: “May be something like Hyades rather than the Pleiades with fewer
 superhot stars?”  
 M: “Good line of reasoning. Investigate it further.”
@@ -564,7 +567,7 @@ M: “Good line of reasoning. Investigate it further.”
 T: “Conversely there must be stars which were not born with the Sun but
 are exactly like it. Do we know of any such?”
 
-![HIP11915\_sun\_twin](https://manasataramgini.files.wordpress.com/2016/08/hip11915_sun_twin.png?w=640)
+![HIP11915_sun_twin](https://manasataramgini.files.wordpress.com/2016/08/hip11915_sun_twin.png?w=640)
 
 Somakhya: “There are bunch of stars that are generally similar though
 not identical to the Sun. They might be the same spectral type but might
@@ -585,4 +588,4 @@ simultaneously remarked: “Wish we could answer that more precisely.”
 Tigmanika: “When you describe the fate of stars based on just their
 temperature and luminosity is it not strange we don’t have something
 simple about where and how life’s fate would be?”  
-Lootika: “tasyopari cintaya cintaya toka\!”
+Lootika: “tasyopari cintaya cintaya toka!”

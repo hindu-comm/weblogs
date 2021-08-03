@@ -1,7 +1,11 @@
 +++
 title = "Najash rionegrina and Yurlunggur camfieldensis"
+date = "2006-04-22"
+upstream_url = "https://manasataramgini.wordpress.com/2006/04/22/najash-rionegrina-and-yurlunggur-camfieldensis/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/04/22/najash-rionegrina-and-yurlunggur-camfieldensis/).
+
 During the flight with the yakShiNi we grew interested the origins of
 the giant madstoiids of Australia. There have been several major recent
 advances in snake phylogeny and evolution. In molecular terms the snakes
@@ -47,3 +51,4 @@ the Lee camps is harder. I do suspect that the latter may have point in
 their claim that the most primitive snakes were large-mouthed. I also
 feel the Scanlon phylogeny may be better on the matter of snakes
 (leaving out the mosasaur claims).
+

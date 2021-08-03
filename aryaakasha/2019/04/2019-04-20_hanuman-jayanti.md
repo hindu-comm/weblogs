@@ -1,8 +1,11 @@
 +++
 title = "HANUMAN JAYANTI"
-date = "April 20, 2019"
+date = "2019-04-20"
+upstream_url = "https://aryaakasha.com/2019/04/20/hanuman-jayanti/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/04/20/hanuman-jayanti/).
+
 ![57262718_10161666453540574_5845078343824703488_n
 (1)](https://aryaakasha.files.wordpress.com/2019/04/57262718_10161666453540574_5845078343824703488_n-1.jpg?w=676)
 

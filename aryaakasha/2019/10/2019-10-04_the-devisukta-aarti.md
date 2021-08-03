@@ -1,8 +1,11 @@
 +++
-title = "The DeviSukta &xa0(A)Art(I)"
-date = "October 4, 2019"
+title = "The DeviSukta & (A)Art(I)"
+date = "2019-10-04"
+upstream_url = "https://aryaakasha.com/2019/10/04/the-devisukta-aarti/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/10/04/the-devisukta-aarti/).
+
 ![71896115_10162343879285574_2706639676420128768_n](https://aryaakasha.files.wordpress.com/2019/10/71896115_10162343879285574_2706639676420128768_n.jpg?w=676)
 
 जय माता दी !

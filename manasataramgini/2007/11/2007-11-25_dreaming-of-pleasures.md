@@ -1,7 +1,11 @@
 +++
 title = "Dreaming of pleasures"
+date = "2007-11-25"
+upstream_url = "https://manasataramgini.wordpress.com/2007/11/25/dreaming-of-pleasures/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/11/25/dreaming-of-pleasures/).
+
 We sat in the train after a brief wait at the station. We received a
 signal from indra. We opened our eyes from the spell of somnolence into
 which we were lapsing. We saw two sets of vidyAdhara-s, like those
@@ -32,3 +36,4 @@ The bands of mlechCha-s fell upon us, but the thunderer saw us through
 them, sending brahmins to fight in our ranks;  
 But now we face the khANDavan-s, who have been moving like kumbhakarNa
 against the vAnara-s. Which deva will come to our aid?
+

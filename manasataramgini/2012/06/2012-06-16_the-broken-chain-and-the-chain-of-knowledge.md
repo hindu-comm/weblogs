@@ -1,7 +1,11 @@
 +++
 title = "The broken chain and the chain of knowledge"
+date = "2012-06-16"
+upstream_url = "https://manasataramgini.wordpress.com/2012/06/16/the-broken-chain-and-the-chain-of-knowledge/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/06/16/the-broken-chain-and-the-chain-of-knowledge/).
+
 In the city of shAhjI he lay dead on the litter. His yaj\~napAtra-s were
 being collected to be laid around him. Two rare specialists from the
 drAviDa and the andhra country had come to take care of his last iShTi.
@@ -72,7 +76,7 @@ apprehension our own primal daiva teaching. Hence, we uttered the
 glorious ancient formula of the great yaj\~na, where one becomes the
 great maghavan, who shears the dasyu-s of their manly power: “OM othAMo
 daiva made; ahaM dasyubhyaH pari nR^iMNam A dade gotrA shikShan dadhIche
-mAtarishvane ||”
+mAtarishvane \|\|”
 
 \~\*\~\*\~\*\~
 
@@ -83,20 +87,20 @@ that body in such detail? Leave alone your own body or that of men, why
 do you delight in studying the bodies of animals, such as the lizard,
 the cockroach or the worm, which are truly experiencing the effects of
 their past evil karma-s. Why not seek the true knowledge that
-liberates?” An ocher-robed one declared: “tatraaparA R^igvedo
-yajurvedaH sAmavedo .atharvavedaH shikShA kalpo vyAkaraNaM niruktaM
-Chando jyotiShamiti | atha parA yayA tad akSharam adhigamyate ||” Verily
-the knowledge of the 4 veda-s, their linguistic analysis, rituals based
-on them and the sciences starting from astronomy are lower knowledge,
-while the quest for the indestructible is the higher one. So, why O
-bhArgava do you ardently seek the lower knowledge, when we are here to
-teach you the higher knowledge? After having quietly listened to them
-for long, we finally decided to hurl the vajra of discernment at them,
-even as vR^itrahan discharged his electrical missile to shatter the
-forts of the “shatravo.anindrAH” and sweep away these yati-s upholding
-false doctrines even as the irresistible vajrahasta fed the yati-s of
-yore to the hyaenas (as mentioned in the sUkta of our founding father
-bhR^igu in the shruti of the atharvan-s).
+liberates?” An ocher-robed one declared: “tatraaparA R^igvedo yajurvedaH
+sAmavedo .atharvavedaHshikShA kalpo vyAkaraNaM niruktaM Chando
+jyotiShamiti \| atha parA yayA tad akSharam adhigamyate \|\|” Verily the
+knowledge of the 4 veda-s, their linguistic analysis, rituals based on
+them and the sciences starting from astronomy are lower knowledge, while
+the quest for the indestructible is the higher one. So, why O bhArgava
+do you ardently seek the lower knowledge, when we are here to teach you
+the higher knowledge? After having quietly listened to them for long, we
+finally decided to hurl the vajra of discernment at them, even as
+vR^itrahan discharged his electrical missile to shatter the forts of the
+“shatravo.anindrAH” and sweep away these yati-s upholding false
+doctrines even as the irresistible vajrahasta fed the yati-s of yore to
+the hyaenas (as mentioned in the sUkta of our founding father bhR^igu in
+the shruti of the atharvan-s).
 
 The key message of the shruti is the need to find saMbandha-s. The
 yaj\~na is the expression of the saMbandha-s. He who performs the
@@ -123,11 +127,11 @@ placed in a framework or graph of relationships – this act we term the
 quest for saMbandha-s. [That is why we had said earlier that our guiding
 vAkya in this regard
 is](https://manasataramgini.wordpress.com/2012/01/24/the-irony-of-vasudeva-sarvabhauma/)
-“kANAdaM pANinIyaM cha sarva-shAstropakArakam ||” Thus, we see the first
-act of generation of knowledge as being the generation of ontologies
-from the information that we have accrued. One of the great pioneers in
-this was the kashyapa kaNada; hence, the kANadam. Logic is subordinate
-to the ontologies and entirely subordinate to the underlying
+“kANAdaM pANinIyaM cha sarva-shAstropakArakaM \|\|” Thus, we see the
+first act of generation of knowledge as being the generation of
+ontologies from the information that we have accrued. One of the great
+pioneers in this was the kashyapa kaNada; hence, the kANadam. Logic is
+subordinate to the ontologies and entirely subordinate to the underlying
 information. With the ontologies in place, we then construct a
 generative theory that generates a given ontology from a limited set of
 axioms. This is epitomized by the pANinIyaM.
@@ -158,11 +162,11 @@ more complex, consistent one for practical or vyvahArika purposes. Thus,
 for many daily activities Euclidean geometry is good enough, so we do
 not bother about Riemannian geometry, even though it might be a more
 consistent and better description of space. Likewise, for many
-“vyavahArika” purposes we do not adopt quantum or relativistic
-mechanics because classical mechanics is good enough – indeed we are
-aware that the latter is less consistent with the universe deep down.
-More generally, this also why a sAdhaka must think whether an Ayudha or
-a mantra is more suitable for his purpose before acting. An extension of
+“vyavahArika” purposes we do not adopt quantum or relativistic mechanics
+because classical mechanics is good enough – indeed we are aware that
+the latter is less consistent with the universe deep down. More
+generally, this also why a sAdhaka must think whether an Ayudha or a
+mantra is more suitable for his purpose before acting. An extension of
 this principle is that we do not a priori seek an epistemology, rather
 we are content with locally consistent ontologies. If these led us
 towards a good epistemology then we happily take that as a bonus.
@@ -271,3 +275,4 @@ JBS Haldane, who is truly unequaled among the intellectuals of all
 times. Yet, sadly the Hindu learned little from him. [Indeed, we remain
 lacking a genuine endogenous intellectual
 culture.](https://manasataramgini.wordpress.com/2009/02/27/our-intellectual-tradition-non-existent-decadent-or-congenitally-dilute/)
+

@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "March 5, 2021"
+date = "2021-03-05"
+upstream_url = "https://vriitrahan.wordpress.com/2021/03/05/bh%e1%b9%9bgu-bharadwaja-samvada%e1%b8%a5-2/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2021/03/05/bh%e1%b9%9bgu-bharadwaja-samvada%e1%b8%a5-2/).
+
 भरद्वाज उवाच \|\|  
 ब्राह्मणः केन भवति क्षत्रियो वा द्विजोत्तम \| वैश्यः शूद्रश्च विप्रर्षे
 तद्ब्रूहि वदतां वर \|\|१\|\|   

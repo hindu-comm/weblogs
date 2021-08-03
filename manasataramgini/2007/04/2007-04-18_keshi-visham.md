@@ -1,9 +1,13 @@
 +++
 title = "keshI viShaM"
+date = "2007-04-18"
+upstream_url = "https://manasataramgini.wordpress.com/2007/04/18/keshi-visham/"
 
 +++
-keshy agniM keshI viShaM keshI bibharti rodasI |… keshI viShasya
-paatreNa yad rudreNa+apibat saha ||  
+Source: [here](https://manasataramgini.wordpress.com/2007/04/18/keshi-visham/).
+
+keshy agniM keshI viShaM keshI bibharti rodasI \|… keshI viShasya
+paatreNa yad rudreNa+apibat saha \|\|  
 We were discussing a topic of considerable interest with Hayasthanika,
 which of course is not for the squeamish.
 
@@ -59,7 +63,7 @@ very rare (a single sUktaM in the RV and equally rare allusions in AV)
 and non-canonical in the veda (we shall return to this). But we felt it
 was more important to look into this because pata\~njali does mention in
 YS 4.1:  
-janmauShadhi-mantra-tapaH samAdhi jAH siddhayaH ||  
+janmauShadhi-mantra-tapaH samAdhi jAH siddhayaH \|\|  
 Though, it must be mentioned that the traditional commentators have
 viewed these rasAyana siddhi-s coming from the use of uptake of a
 rasAyana as being “asura-bhAvana”.
@@ -96,7 +100,7 @@ and that we are all connected, and that god dances in every cell of
 life, and that every cell of life dances in god.”  
 \* “It’s not unconscious, but not conscious. It’s real, of its own
 substance, not fragmented. It’s amazing how slowly things move here on
-Earth\! Going out and slowing down into the periphery, to the fringes of
+Earth! Going out and slowing down into the periphery, to the fringes of
 it, into form. There is the endless outflow of creation, effortless, and
 then this vast process takes it back in. My little piece of energy goes
 in and out, too, not more or less than any other piece. You can’t die.
@@ -153,3 +157,4 @@ the other side in led to an entrenchment of other experiences related to
 these states, such as punarjanma. Interestingly, Strassman’s subjects
 and a range of other DMT users have had experiences described as death
 and rebirth.
+

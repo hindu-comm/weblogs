@@ -1,7 +1,11 @@
 +++
 title = "A brief hagiography of aghorashiva deshika"
+date = "2010-09-03"
+upstream_url = "https://manasataramgini.wordpress.com/2010/09/03/a-brief-hagiography-of-aghorashiva-deshika/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/09/03/a-brief-hagiography-of-aghorashiva-deshika/).
+
 The saiddhAntika tradition or the Urdhvasrotas of the shaiva
 mantra-mArga has an extensive exegetical tradition that covers a variety
 of topics. Of these the doctrinal sections are mainly of interest to the
@@ -84,14 +88,14 @@ thematic similarity to the play of jayanta-bhaTTa.
 
 His doctrinal shaiva work is encapsulated in his 8-volumed work, the
 aShTaprakaraNa-vR^itti, which are commentaries on 8 shaiva works:  
-1\) The tattva-prakAsha of mahArAja bhojadeva paramAra  
-2\) The tattva-saMgraha of sadyojyotis  
-3\) The tattva-traya-nirNaya of sadyojyotis  
-4\) The nAdakArikA of bhaTTa rAmakaNTha-I  
-5\) The bhogakArikA of sadyojyotis  
-6\) The ratna-traya-parIkShA of sadyojyotis  
-7\) The mokSha-kArikA of sadyojyotis  
-8\) The paramokShanirAsa-kArika of sadyojyotis  
+1) The tattva-prakAsha of mahArAja bhojadeva paramAra  
+2) The tattva-saMgraha of sadyojyotis  
+3) The tattva-traya-nirNaya of sadyojyotis  
+4) The nAdakArikA of bhaTTa rAmakaNTha-I  
+5) The bhogakArikA of sadyojyotis  
+6) The ratna-traya-parIkShA of sadyojyotis  
+7) The mokSha-kArikA of sadyojyotis  
+8) The paramokShanirAsa-kArika of sadyojyotis  
 aghorashiva’s commentaries on the last two works do not survive.
 
 His work on the tantra-s themselves include a dIpikA on the vR^itti of
@@ -105,8 +109,8 @@ that we have discussed earlier. After these come his greatest work, the
 kriyAkramadyotikA, whose clarity in the exposition of ritual and mantra
 practice reaches delectable heights on occasions. Its seven volumes
 were:  
-1\) nityakarman; 2) naimittika-karman, pavitrAropaNa and damanakotsva;
-3) dIkSha, abhiSheka and antyeShTi; 4) shiva-pratiShTha-vidhi; 5)
+1) nityakarman; 2) naimittika-karman, pavitrAropaNa and damanakotsva; 3)
+dIkSha, abhiSheka and antyeShTi; 4) shiva-pratiShTha-vidhi; 5)
 subrahmaNya-pratiShThA-vidhi; 6) mahottsava-vidhi; 7)
 prAyashchitta-vidhi. So definitive was this work that to this date we
 see the rituals in any shiva temple in South Indian being performed as
@@ -119,3 +123,4 @@ was worshiped along with skanda and vinAyaka. The worship of shAstA
 appears to have followed the ajita-mahAtantra, but sadly a part of the
 shAstA section of this tantra is lost in the surviving versions of the
 text.
+

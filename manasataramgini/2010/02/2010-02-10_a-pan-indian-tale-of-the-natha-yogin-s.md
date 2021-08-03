@@ -1,7 +1,11 @@
 +++
 title = "A pan-Indian tale of the nAtha yogin-s"
+date = "2010-02-10"
+upstream_url = "https://manasataramgini.wordpress.com/2010/02/10/a-pan-indian-tale-of-the-natha-yogin-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/02/10/a-pan-indian-tale-of-the-natha-yogin-s/).
+
 The lore of the nAtha siddha-s is of pan-Indian distribution. Its
 colloquial forms are fast evolving like genetic loci involved in
 host-parasite interactions. Yet, these colloquial forms of the tradition
@@ -37,17 +41,17 @@ it in mahAraTThI pamphlet picked up near one of the nAtha shrines. I am
 also aware in translation of a similar work in the va\~Nga bhASha
 written by a number of va\~Nga-s, including a turuShka convert to the
 dharma Shaikh Faizullah. A narrative of this form might be seen in:  
-1\) The mahArATThI pamphlet named nav-nAth-kathA most likely of very
+1) The mahArATThI pamphlet named nav-nAth-kathA most likely of very
 modern provenance based on an earlier yogi-saMpradAyAviShkR^iti.  
 Medieval to early modern:  
-2\) Any of the several gorakSha-vijaya-s from the va\~Nga country. The
+2) Any of the several gorakSha-vijaya-s from the va\~Nga country. The
 currently accessible ones are those by kabirAj bhIMasen, vidyApati and
 Faizullah.  
-3\) mIna-chetana of shyamAdas sen also from the va\~Nga country.  
-4\) gopichandra-nATaka from Nepal.  
+3) mIna-chetana of shyamAdas sen also from the va\~Nga country.  
+4) gopichandra-nATaka from Nepal.  
 Of uncertain provenance:  
-5\) The Tamil chittar mahimai also a pamphlet-like publication.  
-6\) R’s narrative apparently from a version of the tale floating around
+5) The Tamil chittar mahimai also a pamphlet-like publication.  
+6) R’s narrative apparently from a version of the tale floating around
 in the Punjab and the Himachal.  
 I follow the mahArATThI in large part.
 
@@ -208,23 +212,23 @@ lost in amorous pursuits. We believe that this is not a coincidence at
 all, but a reflection of an internal revolution going on within the
 kaula tradition. To understand this we have turn to the definitive kaula
 tantra dealing with rasAyana, namely the rasArNava. It opens thus:  
-deva-deva mahAdeva kAla kAmA\~Nga-dAhaka |  
-kula-kaula-mahAkaula- siddhakaulAdi-shAsana ||
+deva-deva mahAdeva kAla kAmA\~Nga-dAhaka \|  
+kula-kaula-mahAkaula- siddhakaulAdi-shAsana \|\|
 
 Here umA begins to request shiva to discourse on rasAyana. She calls him
 the instructor of the kaula streams including siddhakaula that
 matsyendra explicitly identifies himself with. The text also has the
 siddha-chakra which follows the pUrvAMnAya (i.e. trika) pattern.  
 Then we interestingly see the following (RA1.9-12):  
-piNDapAte cha yo mokShaH sa cha mokSho nirarthakaH |  
-piNDe tu patite devi gardabho .api vimuchyate ||  
-yadi muktir bhaga kShobhe kiM na mu\~ncanti gardabhAH |  
-ajAsh-cha vR^iShabhAsh-chaiva kiM na muktA gaNAmbike ||  
-tasmAt saMrakShayet piNDaM rasaish-caiva rasAyanaiH |  
-shukra-mUtra-purIShANAM yadi muktir niShevaNAt ||  
-kiM na muktA mahAdevi shvAna-shUkara-jAtayaH |  
-ShaDdarshane .api muktis tu darshitA piNDapAtane ||  
-karAmalakavat sApi pratyakShaM nopalabhyate |
+piNDapAte cha yo mokShaH sa cha mokSho nirarthakaH \|  
+piNDe tu patite devi gardabho .api vimuchyate \|\|  
+yadi muktir bhaga kShobhe kiM na mu\~ncanti gardabhAH \|  
+ajAsh-cha vR^iShabhAsh-chaiva kiM na muktA gaNAmbike \|\|  
+tasmAt saMrakShayet piNDaM rasaish-caiva rasAyanaiH \|  
+shukra-mUtra-purIShANAM yadi muktir niShevaNAt \|\|  
+kiM na muktA mahAdevi shvAna-shUkara-jAtayaH \|  
+ShaDdarshane .api muktis tu darshitA piNDapAtane \|\|  
+karAmalakavat sApi pratyakShaM nopalabhyate \|
 
 Here shiva clarifies that the mokSha that comes when the corporeal frame
 falls off (as indicated by the 6 darshana-s; RA 1.12) is not mokSha at
@@ -236,16 +240,16 @@ Instead he says the body should be preserved with the rasa-s of
 rasAyana.
 
 Also:  
-madya-mAMsa-ratA nityaM bhaga-li\~NgeShu ye ratAH |  
-teShAM vinaShTa-buddhInAM rasaj\~nAnaM sudurlabham ||
+madya-mAMsa-ratA nityaM bhaga-li\~NgeShu ye ratAH \|  
+teShAM vinaShTa-buddhInAM rasaj\~nAnaM sudurlabham \|\|
 
 Thus, shiva states that the fools who indulge in the pleasures of
 intoxicants, meat and sex are not destined for attaining knowledge of
 chemistry.
 
 He then states (RA 1.20):  
-j\~nAnAn mokShaH sureshAni j\~nAnaM pavana-dhAraNAt |  
-tatra devi sthiraM piNDaM yatra sthairye rasaH prabhuH ||
+j\~nAnAn mokShaH sureshAni j\~nAnaM pavana-dhAraNAt \|  
+tatra devi sthiraM piNDaM yatra sthairye rasaH prabhuH \|\|
 
 Through j\~nAna one attains mokSha and for j\~nAna one needs to hold the
 prANa-s (i.e. pavana or the yogic practice of prANadhAraNa). For that
@@ -292,3 +296,4 @@ worship.
 Footnote 2: Note the reappearance of the vaidika mythic motif of the
 origin of the bhR^igu-s and the a\~Ngira-s from fire in which the semen
 of prajApati slain by rudra was burnt.
+

@@ -1,8 +1,11 @@
 +++
-title = "On kShetras and ecology and accessing axa0devatA"
+title = "On kShetras and ecology and accessing a devatA"
 date = "2020-01-18"
+upstream_url = "https://padmavajra.net/2020/01/18/on-kshetras-and-ecology-and-accessing-a-devata/"
 
 +++
+Source: [here](https://padmavajra.net/2020/01/18/on-kshetras-and-ecology-and-accessing-a-devata/).
+
 On seeing this article on the [ecology and solitude of
 kShetras](https://www.sirfnews.com/if-state-is-our-enemy-in-sabarimala-were-ours-in-vaishno-devi/)
 by Ashish Dhar as far as I understand(Surajit Dasgupta’s name ended up

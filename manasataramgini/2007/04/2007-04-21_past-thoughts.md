@@ -1,7 +1,11 @@
 +++
 title = "Past thoughts"
+date = "2007-04-21"
+upstream_url = "https://manasataramgini.wordpress.com/2007/04/21/past-thoughts/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/04/21/past-thoughts/).
+
 Before the battle of dashAnta we were shackled, but in that fierce raNa,
 miraculously aided by vinAyaka we won a battle and obtained freedom.
 During the battle of dvAdashAnta we were completely free and memories go
@@ -50,3 +54,4 @@ destruction. But in the mean time he lost the kingdom of hima-hrada to
 the chIna-s. He by his valor fled to bhAnu-kakSha and carved himself a
 small estate there. In a long conversation with Jx then a little did we
 know that same DAmarikA was waiting for us.
+

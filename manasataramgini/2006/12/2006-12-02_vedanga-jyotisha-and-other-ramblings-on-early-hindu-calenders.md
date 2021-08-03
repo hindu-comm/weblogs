@@ -1,7 +1,11 @@
 +++
 title = "vedA~Nga jyotiSha and other ramblings on early Hindu calenders"
+date = "2006-12-02"
+upstream_url = "https://manasataramgini.wordpress.com/2006/12/02/vedanga-jyotisha-and-other-ramblings-on-early-hindu-calenders/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/12/02/vedanga-jyotisha-and-other-ramblings-on-early-hindu-calenders/).
+
 The vedA\~NGa jyotiSha has been a strikingly difficult text to fathom
 despite its small size. It is the late vedic text that appears to be a
 quick and handy guide for calenderical calculations. It has attracted
@@ -92,17 +96,17 @@ the BMAC archaeological sites.
 **Some basics of the VJ:**  
 The vedic measures of time as per VJ:  
 5 gurvakShara-s \[long syllables\]= 10 mAtrA-s  
-\=  1 kAShTha  
+= 1 kAShTha  
 124 kAShThA-s = 1 kalA  
 10 1/20 kalA-s = 1 nADikA\*  
 2 nADIkA-s = 1 muhUrta  
 30 muhUrta-s = 1 ahorAtra (civil day)  
 366 days = 1 saMvatsara= 12 mAsa-s  
-\= 6 R^itu-s= 2 ayana-s  
-5 years  =  1 yuga\*  
+= 6 R^itu-s= 2 ayana-s  
+5 years = 1 yuga\*  
 This progression is an old vedic system we have in the taittirIya
-AraNyaka: “kalA muhUrtAH kAShThAsh chaahotrAsh cha sarvavashaH |
-ardhamAsA mAsA R^itavas saMvatsarash cha kalpantAm ||”
+AraNyaka: “kalA muhUrtAH kAShThAsh chaahotrAsh cha sarvavashaH \|
+ardhamAsA mAsA R^itavas saMvatsarash cha kalpantAM \|\|”
 
 \* Time is kept using a water-clock. The volume of water of weight 50
 pala-s, at room temperature, is one Adhaka (a volume measure).  
@@ -129,21 +133,21 @@ in the days of the yajur veda that 366 was too much. In a yuga there are
 for the yuga definition that is meeting of sun and moon in a nakShatra.
 It also gives a base to derive a number of other critical values for the
 period of the yuga easily:  
-1\) Number of risings of shraviShThA above the horizon (the nakShatra at
+1) Number of risings of shraviShThA above the horizon (the nakShatra at
 the winter solstice) = yuga + 5 = 1835  
-2\) Number of moon rises = yuga-62=1768
+2) Number of moon rises = yuga-62=1768
 
 The Number of nakShatra-s traversed by the sun in 1830 days is 135. The
 number of ayanas of the moon 1 less than that number= 134.
 
 The value of the yuga also can be used to relate to the following
 easily, as explained in the yajur jyotiSha 31:  
-1\) Number of sAvana months in 1 yuga (that is the traditional months of
+1) Number of sAvana months in 1 yuga (that is the traditional months of
 the vedic ritual) = 61= 30 days  
-2\) Number of synodic months in a yuga, i.e. the period between two new
+2) Number of synodic months in a yuga, i.e. the period between two new
 moons in a yuga = 62 = 29.51 days, a reasonable approximation (modern
 value= 29.530).  
-3\) Number of sidereal months in yuga = 67 = 27.31 (modern value=27.32).
+3) Number of sidereal months in yuga = 67 = 27.31 (modern value=27.32).
 
 Given any 3 elements of the yuga that are not completely dependent on
 each other we can get every other element. This is an important
@@ -204,10 +208,10 @@ The duration of each pakSha = yuga/124= 15 days – 30 parts (amshas) of
 the day.  
 Thus duration of each tithi =1 day – 2 parts of a day.  
 To find the part of the day the nth pakSha ends:  
-1\) For the nth pakSha obtain x= n modulo 4  
-2\) If x=1 then y=n+93; if x=2 then y=n+62; if x=3 then y=n+31; if x=0
+1) For the nth pakSha obtain x= n modulo 4  
+2) If x=1 then y=n+93; if x=2 then y=n+62; if x=3 then y=n+31; if x=0
 then y=n  
-3\) The number of parts of the day when the pakSha ends= modulo
+3) The number of parts of the day when the pakSha ends= modulo
 (y,124).  
 If the pakSha ends before 31 parts then it ends before civil mid-day.  
 E.g. 37th pakSha- x= 37 modulo 4=1; y=37+93=130; So the pakSha ends at
@@ -216,3 +220,4 @@ E.g. 37th pakSha- x= 37 modulo 4=1; y=37+93=130; So the pakSha ends at
 So one can see that the for a vedic ritualist at 1300 BC the VJ gives
 decent, rough and ready approximation for key values using the yuga
 concept, and can hence be hardly called a primitive work.
+

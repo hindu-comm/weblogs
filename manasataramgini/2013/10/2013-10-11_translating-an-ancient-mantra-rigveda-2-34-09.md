@@ -1,7 +1,11 @@
 +++
 title = "Translating an ancient mantra: R^igveda 2.34.09"
+date = "2013-10-11"
+upstream_url = "https://manasataramgini.wordpress.com/2013/10/11/translating-an-ancient-mantra-rigveda-2-34-09/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/10/11/translating-an-ancient-mantra-rigveda-2-34-09/).
+
 Sometimes translating even a single vaidika mantra can take some effort.
 In large part this is due to three factors: 1) The vocabulary- there are
 several words that have become otiose in classical Sanskrit and modern
@@ -26,16 +30,16 @@ along with other deva-s like rudra, vasu-s and viShNu. It is in the
 jagati meter which is 4\*12 syllables. The first pada is 11 syllabled
 and is restored by taking martyaH as martiyaH
 
-yo no maruto vR^ikatAti martyo ripur dadhe vasavo rakShatA riShaH |  
-vartayata tapuShA chakriyAbhi tam ava rudrA ashaso hantanA vadhaH || RV
-2.34.09
+yo no maruto vR^ikatAti martyo ripur dadhe vasavo rakShatA riShaH \|  
+vartayata tapuShA chakriyAbhi tam ava rudrA ashaso hantanA vadhaH \|\|
+RV 2.34.09
 
 yaH= who (pronoun); naH= us (pronoun); marutaH= marut-s (vocative
 plural); vR^ikatAti= in the midst of wolves (locative singular);
 martyaH=mortal (nominative singular); ripuH= enemy (nominative
 singular); dadhe= placed (3rd person perfect atmane ); vasavaH= vasu-s
 (vocative plural); rakShata+= protect (imperative 2nd person plural;
-elongated metrically); riShaH= harm (ablative singular of riSh) |
+elongated metrically); riShaH= harm (ablative singular of riSh) \|
 
 vartayata= spin (imperative 2nd person plural); tapuShA= fiery
 (adjective); chakriyA= with discus (instrumental singular of chakrI);
@@ -44,7 +48,7 @@ person pronoun); ava= away; rudrA= rudra-s, i.e. marut-s (vocative
 plural); ashasaH= hater (ablative singular of ashas); hantana+= strike
 (imperative 2nd person plural; elongated metrically: ava-hantana);
 vadhaH= weapon (accusative of neuter noun vadhas; compare with neuter
-noun vadhar) ||
+noun vadhar) \|\|
 
 The key points of note here are:  
 \* vR^ikatAt: an unusual Vedic word meaning among wolves.  
@@ -60,7 +64,7 @@ imperative forms are: bravItana, etana.
 instrumental is given in a fully resolved form, i.e. chakriyA instead of
 chakrya which would be typical. The discus is used as a weapon by indra,
 puShan, marut-s in the veda and vAyu in the avesta (vAiyum
-zaraNyô-chakhrem ýazamaide |). In RV 8.96.9 a battle between the demons
+zaraNyô-chakhrem ýazamaide \|). In RV 8.96.9 a battle between the demons
 and the deva-s is mentioned where the marut-s wield sharp spears in
 formation while indra at their head fights with both his vajra and
 chakra. In the latter texts it is used primarily by viShNu.  
@@ -71,7 +75,7 @@ here could be a rakShas.
 \*vadhas- The RV has a parallel neuter noun vadhar which means a weapon.
 For instance, in the famed first person sUkta where indra speaks, he
 says: “ahaM shuShNasya shnathitA vadhar yamaM na yo rara AryaM nAma
-dasyave |” i.e. I am shuShNa’s slayer, \[by me was wielded\] the
+dasyave \|” i.e. I am shuShNa’s slayer, \[by me was wielded\] the
 yama-weapon \[i.e. death weapon\]; I did not give up the name which of
 the Arya-s to the dasyu-s. But this represents the one rare instance
 where instead of the more frequent vadhar the parallel form vadhas is
@@ -90,3 +94,4 @@ used such as hana, rakSha, daha, pAhi (latter two in RV 4.4.15). This
 represents of one of the elements of continuity between tAntrika and
 vaidika mantra [which we had discussed
 before](https://manasataramgini.wordpress.com/2007/09/10/some-notes-on-the-evolution-of-the-mantra-shastra/).
+

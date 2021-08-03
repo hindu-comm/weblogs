@@ -1,7 +1,11 @@
 +++
 title = "The iconography of kumAra according to the sanatkumAra-prashna"
+date = "2007-08-18"
+upstream_url = "https://manasataramgini.wordpress.com/2007/08/18/the-iconography-of-kumara-according-to-the-sanatkumara-prashna/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/08/18/the-iconography-of-kumara-according-to-the-sanatkumara-prashna/).
+
 We had earlier discussed vidyA-s of the various specialized mUrti-s of
 [kArttikeya](https://manasataramgini.wordpress.com/2006/10/10/kumara-vidya-s/ "kumAra vidyA-s")
 and their visualizations. Continuing with that discussion we shall now
@@ -121,3 +125,4 @@ Text also mentions the following division of offerings made at a
 kumArAlaya: brAhmaNa-s: recitation of vedic formulae and hymns;
 kShatriya-s: offer fowl; vaishya-s offer camphor and rock-sugar;
 shUdra-s offer fruits and flowers during the kR^ittkA festival.
+

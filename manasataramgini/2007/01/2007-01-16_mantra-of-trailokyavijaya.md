@@ -1,11 +1,15 @@
 +++
 title = "mantra of trailokyavijayA"
+date = "2007-01-16"
+upstream_url = "https://manasataramgini.wordpress.com/2007/01/16/mantra-of-trailokyavijaya/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/01/16/mantra-of-trailokyavijaya/).
+
 The mantra of the goddess trailokyavijayA is provided by the
 yuddha-jayArNava tantraM. A somewhat corrupt version of this tantra is
 incorporated into the agni purANa. Stand-alone manuscripts of the YJA
-walso exist, though they have not been edited or published. In addition
+also exist, though they have not been edited or published. In addition
 to the version of the agni-purANa I had access to a hand-written
 transcript on paper. The Dutch explorers have recovered a corrupt
 version of the same in their collection of Hindu mantras known as
@@ -27,3 +31,4 @@ hUM OM AkarSha OM dhUna 2 oM he haH khaH vajriNi hUM kShUM kShAM
 krodha-rUpiNI prajjvala 2 oM bhIma-bhIShaNe bhindi OM mahAkAye Chindi oM
 karAlinI kiTi 2 mahA-bhUta-mAtaH sarva-duShTa-nivAriNI jaye OM vijaye OM
 trailokyavijaye hUM phaT svAhA
+

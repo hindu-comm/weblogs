@@ -1,7 +1,11 @@
 +++
 title = "Mysterious early mahA-chInAchArya-s"
+date = "2006-04-30"
+upstream_url = "https://manasataramgini.wordpress.com/2006/04/30/mysterious-early-maha-chinacharya-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/04/30/mysterious-early-maha-chinacharya-s/).
+
 It is clear that the chInas have had contact with the Indians over a
 long period and have imbibed various forms of Hindu thought. It is also
 well-known that the bauddha influence on the chIna-s was profound from
@@ -16,9 +20,7 @@ because unlike that layer, it used saMskR^itaM as the main vehicle of
 transmission. While the chInA-s and their Indian teachers definitely
 used Chinese translations for explaining the texts to the native
 chIna-s, Sanskrit with its paNinian grammar was the principle ritual
-language. 
-
-Secondly chInAchAra despite being borne in the garb of the
+language. Secondly chInAchAra despite being borne in the garb of the
 nAstIka bauddha-mata principally focussed on Hindu deities and ritual
 beneath this garb. These features along with the biographical allusions
 regarding chInAchAryas from India suggest that they were primarily
@@ -62,9 +64,7 @@ mahendra-jAla tantra, arrived at the khan’s camp and was received with
 much respect and honor. He seems to have left an immense impression on
 the chInas and hUnas, who describe in amazement how he used mantras-s
 that deployed various yakShiNi-s, cheTaka-s, shAkinis and DAkini-s as he
-wished. 
-
-His dUra-dR^iShTi prayoga has also been described: he is said to
+wished. His dUra-dR^iShTi prayoga has also been described: he is said to
 have smeared his palm with an A\~Njana and with an incantation seen
 things on it happening several yojana-s away. He is also said to have
 had a ghaNTa prayoga, where he could use bells sounding in shrines to
@@ -74,3 +74,4 @@ any later age. He is said to have told the Hun Khan and his son the
 positions of their enemy armies with his prayoga-s. Most of his
 compendium of tantric formulae is now lost both in its original Sanskrit
 and Chinese translation.
+

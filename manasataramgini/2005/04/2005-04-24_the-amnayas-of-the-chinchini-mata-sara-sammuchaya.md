@@ -1,7 +1,11 @@
 +++
 title = "The AmnAyas of the chi~nchinI-mata-sAra-sammuchaya"
+date = "2005-04-24"
+upstream_url = "https://manasataramgini.wordpress.com/2005/04/24/the-amnayas-of-the-chinchini-mata-sara-sammuchaya/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/04/24/the-amnayas-of-the-chinchini-mata-sara-sammuchaya/).
+
 We worship chi\~nchinI under the large tamrind tree from whom the sea of
 spanda has emerged.
 
@@ -57,3 +61,4 @@ the chi\~nchinIshAstra or the kubjikA tantras that was first received by
 the ancient tantric vR^ikShanAtha under the tamarind tree from the
 founding teacher shrinAtha. In the form of the transmitter of the
 chi\~nchinIshAstra she is worshiped as devI chi\~NchinI
+

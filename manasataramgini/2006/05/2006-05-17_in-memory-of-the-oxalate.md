@@ -1,7 +1,11 @@
 +++
 title = "In memory of the Oxalate"
+date = "2006-05-17"
+upstream_url = "https://manasataramgini.wordpress.com/2006/05/17/in-memory-of-the-oxalate/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/05/17/in-memory-of-the-oxalate/).
+
 A recent conversation brought to mind the our famed oxalate experiment.
 Oxalic acid first caught my fancy in the summer vacations of 6th class.
 I was intrigued by it and sought to extract if from the sorrel that grew
@@ -22,3 +26,4 @@ later a peculiar noise. We also noticed a strange discoloration on the
 kitchen ceiling which intrigued my parents to put it most mildly for a
 long time to come. The rest of the experiment is left to one’s
 imagination.
+

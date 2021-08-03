@@ -1,8 +1,11 @@
 +++
-title = "Katyayani – The 6th NavaDurga, The Sixth Night Ofxa0NavRatri"
-date = "October 5, 2019"
+title = "Katyayani – The 6th NavaDurga, The Sixth Night Of NavRatri"
+date = "2019-10-05"
+upstream_url = "https://aryaakasha.com/2019/10/05/katyayani-the-6th-navadurga-the-sixth-night-of-navratri/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/10/05/katyayani-the-6th-navadurga-the-sixth-night-of-navratri/).
+
 ![39162680_10160748923230574_6246272218196606976_n](https://aryaakasha.files.wordpress.com/2019/10/39162680_10160748923230574_6246272218196606976_n.jpg?w=676&h=380)
 
 The Sixth Night of #NavRatri is dedicated to Ma as Katyayani –

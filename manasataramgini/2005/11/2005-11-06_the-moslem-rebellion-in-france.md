@@ -1,7 +1,11 @@
 +++
 title = "The Moslem rebellion in France"
+date = "2005-11-06"
+upstream_url = "https://manasataramgini.wordpress.com/2005/11/06/the-moslem-rebellion-in-france/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/11/06/the-moslem-rebellion-in-france/).
+
 The West often preaches solemnly to India about Moslem rioting. It is
 almost a given that when Moslem fraction of a population under
 consideration reaches 15-20% incidents of crime and abuse against
@@ -72,3 +76,4 @@ the warning of various Mongol rulers from Kultegin through Chingiz to
 even the Manchus that indulgence in the pleasures China would ruin the
 war machine of the Mongols. Certain indiscipline of modernity destroys a
 dominant civilization.
+

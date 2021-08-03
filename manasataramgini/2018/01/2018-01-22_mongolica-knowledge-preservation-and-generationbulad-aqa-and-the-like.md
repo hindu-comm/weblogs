@@ -1,7 +1,11 @@
 +++
 title = "Mongolica: Knowledge preservation and generation, Bolad Aqa and the like"
+date = "2018-01-22"
+upstream_url = "https://manasataramgini.wordpress.com/2018/01/22/mongolica-knowledge-preservation-and-generationbulad-aqa-and-the-like/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2018/01/22/mongolica-knowledge-preservation-and-generationbulad-aqa-and-the-like/).
+
 We had earlier written [an
 essay](https://manasataramgini.wordpress.com/2011/05/20/some-notes-on-rashid-ad-din-bin-imad-ud-dawla-abul-khair-and-his-times/)
 on the preservation and production of synthetic knowledge by the
@@ -68,19 +72,18 @@ descendant of Qubilai Khan, also commissioned extensive astronomical
 works deriving from Hindu and Hellenistic traditions that led to
 Mongolian commentaries being prepared on them. This Hindu astronomy was
 transmitted in part via the last great tantra of the nāstika-s, the
-Kālacakra, which had elements modeled after the now lost eponymous
-saura tantra. Some of this material survives in the ritual manual
-preserved by Sangwar, a Mongol official in the Manchu times from Boro
-Balgasun in Ordos. Here we see a legendary Khan receiving Indian
-calenderical knowledge from goddess Vimā, the daughter of the great
-Indra. There is a table preserving the old Indian nakṣatra system:
-“naghšidar-un ner-e odun-u togh-a bui düri ba maqabud ene bu”: The
-nakṣatra names, number of stars, figure and element. We also see the
-incidental transmission of ritual of ultimately Hindu origin in the
-process such as: “basa nigen eketü Mahašuvari tngri”: Another topic
-concerning the god Maheśvara; “Maqagala baghuqu edür anu”: As for the
-day Mahākāla descends; “Okin tngri baghuqu edür kemebesü”: As for the
-day the goddess Śri descends.
+Kālacakra, which had elements modeled after the now lost eponymous saura
+tantra. Some of this material survives in the ritual manual preserved by
+Sangwar, a Mongol official in the Manchu times from Boro Balgasun in
+Ordos. Here we see a legendary Khan receiving Indian calenderical
+knowledge from goddess Vimā, the daughter of the great Indra. There is a
+table preserving the old Indian nakṣatra system: “naghšidar-un ner-e
+odun-u togh-a bui düri ba maqabud ene bu”: The nakṣatra names, number of
+stars, figure and element. We also see the incidental transmission of
+ritual of ultimately Hindu origin in the process such as: “basa nigen
+eketü Mahašuvari tngri”: Another topic concerning the god Maheśvara;
+“Maqagala baghuqu edür anu”: As for the day Mahākāla descends; “Okin
+tngri baghuqu edür kemebesü”: As for the day the goddess Śri descends.
 
 Outside of the “Golden family” there were some Mongol intellectuals who
 played an important role in this knowledge venture of the Khans. One
@@ -253,3 +256,4 @@ empire while the patrons brought together very distinct knowledge
 systems it appears that the synthesis did not filter down in a big way
 in China and Korea, though it might have made more of an impact, even if
 indirect in the west.
+

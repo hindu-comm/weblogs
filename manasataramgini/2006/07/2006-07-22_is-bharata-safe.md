@@ -1,7 +1,11 @@
 +++
 title = "Is bhArata safe?"
+date = "2006-07-22"
+upstream_url = "https://manasataramgini.wordpress.com/2006/07/22/is-bharata-safe/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/07/22/is-bharata-safe/).
+
 Is the geographical nation of the Hindus safe? Nay is the nation of
 Hindus itself safe? This is a topic I did not really want to write about
 but the flurry of chats have almost forced to repeat myself on the
@@ -90,4 +94,5 @@ do not see a bright future in our natural habitat.
 
 In light of this the reasonably astute Hindus need to install seeds of
 their nation in safe havens away from their old home that might fall to
-the predators.
+the predators.  
+

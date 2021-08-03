@@ -1,8 +1,11 @@
 +++
-title = "The Shooting Goddess Of Order And Growth – The War-Effort Of The Natural World [An Extract from ‘The Queen of Serpents – The Serpentine Figure Of The Indo-European Earthxa0Mother’]"
-date = "December 11, 2020"
+title = "The Shooting Goddess Of Order And Growth – The War-Effort Of The Natural World [An Extract from ‘The Queen of Serpents – The Serpentine Figure Of The Indo-European Earth Mother’]"
+date = "2020-12-11"
+upstream_url = "https://aryaakasha.com/2020/12/11/the-shooting-goddess-of-order-and-growth-the-war-effort-of-the-natural-world-an-extract-from-the-queen-of-serpents-the-serpentine-figure-of-the-indo-european-earth-mother/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/12/11/the-shooting-goddess-of-order-and-growth-the-war-effort-of-the-natural-world-an-extract-from-the-queen-of-serpents-the-serpentine-figure-of-the-indo-european-earth-mother/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/12/130299562_773320903280236_5187891533715850933_o.jpg?w=731)
 
 The term – and, indeed, theonym – in question is ‘Hora’, best known in

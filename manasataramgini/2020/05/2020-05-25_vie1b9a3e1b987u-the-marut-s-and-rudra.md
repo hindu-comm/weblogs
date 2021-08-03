@@ -1,12 +1,16 @@
 +++
 title = "Viṣṇu, the Marut-s and Rudra"
+date = "2020-05-25"
+upstream_url = "https://manasataramgini.wordpress.com/2020/05/25/vi%e1%b9%a3%e1%b9%87u-the-marut-s-and-rudra/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2020/05/25/vi%e1%b9%a3%e1%b9%87u-the-marut-s-and-rudra/).
+
 This note might be read as a continuation of the these two earlier
 ones:  
-1\) [The Aśvin-s and
+1) [The Aśvin-s and
 Rudra](https://manasataramgini.wordpress.com/2020/01/12/the-asvin-s-and-rudra/)  
-2\) [The roots of Vaiṣṇavam: a view from the numerology of Vedic
+2) [The roots of Vaiṣṇavam: a view from the numerology of Vedic
 texts](https://manasataramgini.wordpress.com/2020/01/02/the-roots-of-vai%e1%b9%a3%e1%b9%87avam-a-view-from-the-numerology-of-vedic-texts/)
 
 In the Ṛgveda (RV), the Marut-s are seen associating with Viṣṇu on
@@ -77,7 +81,7 @@ brāhmaṇa-s, the most detailed account is given the Aitareya-brāhmaṇa:
 
 śilpāni śaṃsanti । devaśilpāny eteṣām vai śilpānām anukṛtīha śilpam
 adhigamyate । hastī kaṃso vāso hiraṇyam aśvatarī-rathaḥ śilpaṃ; śilpaṃ
-hāsminn adhigamyate ya evaṃ veda; yad eva śilpānī3n Atma-saṃskṛtir vāva
+hāsminn adhigamyate ya evaṃ veda; yad eva śilpānī3n ātma-saṃskṛtir vāva
 śilpāni; chandomayaṃ vā etair yajamāna ātmānaṃ saṃskurute ।
 
 They recite the Śilpa-s. These are divine art-works; by imitating these
@@ -118,24 +122,22 @@ Kaṇva Ghaura. Between the two is inserted the sūkta of Bharadvāja
 starting with “dyaur na ya …” (RV 6.20). This śastra is explicitly
 recited with the insertion of the “o” vowels, i.e. nyūṅkha style of
 recitation by the acāvāka, the fourth of the hotraka-s. The
-Aitareya-brāhmaṇa records an interesting old tale regarding this
-śastra, which suggests that it was redacted to attain its current
-structure:
+Aitareya-brāhmaṇa records an interesting old tale regarding this śastra,
+which suggests that it was redacted to attain its current structure:
 
 sa ha bulila āśvatara āśvir vaiśvajito hotāsann īkṣāṃ cakra: eṣāṃ vā
-eṣāṃ śilpānāṃ viśvajiti sāṃvatsarike dve madhyaṃdinam abhi
-pratyetor hantāham ittham evayāmarutaṃ śaṃsayānīti । tad dha tathā
-śaṃsayāṃ cakāra; tad dha tathā śasyāmane gauśla ājagāma; sa hovāca
-hotaḥ kathā te śastraṃ vicakram plavata iti; kiṃ hy abhūd ity ?
-evayāmarud ayam uttarataḥ śasyata iti; sa hovācaindro vai
-madhyaṃdinaḥ,  
+eṣāṃ śilpānāṃ viśvajiti sāṃvatsarike dve madhyaṃdinam abhi pratyetor
+hantāham ittham evayāmarutaṃ śaṃsayānīti । tad dha tathā śaṃsayāṃ
+cakāra; tad dha tathā śasyāmane gauśla ājagāma; sa hovāca hotaḥ kathā te
+śastraṃ vicakram plavata iti; kiṃ hy abhūd ity ? evayāmarud ayam
+uttarataḥ śasyata iti; sa hovācaindro vai madhyaṃdinaḥ,  
 kathendram madhyaṃdinān ninīṣasīti; nendram madhyaṃdinān ninīṣāmīti
 hovāca; chandas tv idam amadhyaṃdinasācy ayaṃ jāgato vātijāgato vā।
 sarvaṃ vā idaṃ jāgataṃ vātijāgataṃ vā । sa u māruto maiva śaṃsiṣṭeti; sa
 hovācāramāchāvakety; atha hāsminn anuśāsanam īṣe; sa hovācaindram eṣa
-viṣṇunyaṅgaṃ śaṃsatv; atha tvam etaṃ hotar upariṣṭād raudryai
-dhāyyāyai purastān mārutasyāpyasyāthā iti; tad dha tathā śaṃsayāṃ
-cakāra । tad idam apy etarhi tathaiva śasyate ॥
+viṣṇunyaṅgaṃ śaṃsatv; atha tvam etaṃ hotar upariṣṭād raudryai dhāyyāyai
+purastān mārutasyāpyasyāthā iti; tad dha tathā śaṃsayāṃ cakāra । tad
+idam apy etarhi tathaiva śasyate ॥
 
 That Bulila Āśvatara Āśvi was the hotṛ in the viśvajit ritual; he
 observed: of these Śilpa-s in the year-long Viśvajit ritual these two
@@ -186,8 +188,8 @@ deity of the recitations are the Aśvin-s who are explicitly coupled with
 Rudra in the first Nābhānediṣtha sūkta.
 
 It may also be noted that the juxtaposition of Rudra, the Marut-s and
-Viṣṇu also has a further echo in the śrauta ritual. In the piling of
-the Agnicayana altar, after the fifth and final layer of bricks has been
+Viṣṇu also has a further echo in the śrauta ritual. In the piling of the
+Agnicayana altar, after the fifth and final layer of bricks has been
 laid it is said to ghora or terrible and if the adhvaryu steps on it he
 is said to die. This is because the newly laid altar is said to be
 possessed by the fierce manifestation of Agni as Rudra. Hence, Rudra has
@@ -216,7 +218,7 @@ begins with the following gāyatrī incantation:
 agnāvīṣṇū sajoṣasemā vardhantu vāṃ giraḥ । dyumnair vajebhir āgatam ॥
 
 Agni and Viṣṇu, may these chants glorify you together. Come with
-radiance and vigor\!
+radiance and vigor!
 
 Regarding these oblations the śruti of the Taittirīya-s offers the
 following brāhmaṇa:
@@ -255,14 +257,14 @@ the malefic Rāvaṇa who is opposed to the Indra-Viṣṇu duo humanized as
 Rāma and Lakṣmaṇa. More explicitly, in the Mahābhārata, the humanized
 manifestation of Rudra, Aśvatthāman is the malevolent force opposed to
 the humanized Indra-Viṣṇu-Agni manifestations in the form of Arjuna,
-Kṛṣṇa and Dhṛṣṭadyumna and the other daiva forces. Similarly,
-Rudra backs Jayadratha allowing him to overcome the Pāṇḍu-s on the
-fateful day of the slaying of Abhimanyu. Yet again, in the same epic a
-malefic Rudra-backed figure Śiśupāla (born with 3 eyes) is also
-presented in opposition to the humanized manifestation of Viṣṇu. A
-comparable form of opposition also extends the Greek world, where, in
-their national epic, the Rudrian deities Apollo and Ares prominently
-back the Trojans against the Greeks who are backed by Athena.
+Kṛṣṇa and Dhṛṣṭadyumna and the other daiva forces. Similarly, Rudra
+backs Jayadratha allowing him to overcome the Pāṇḍu-s on the fateful day
+of the slaying of Abhimanyu. Yet again, in the same epic a malefic
+Rudra-backed figure Śiśupāla (born with 3 eyes) is also presented in
+opposition to the humanized manifestation of Viṣṇu. A comparable form of
+opposition also extends the Greek world, where, in their national epic,
+the Rudrian deities Apollo and Ares prominently back the Trojans against
+the Greeks who are backed by Athena.
 
 Based on the inferred prominence of Rudra and Viṣṇu in the para-Vedic
 and “greater” Vedic horizons (i.e. the root of the ādhvaryava
@@ -279,8 +281,9 @@ atho rudro vai jyeṣṭhaś ca śreṣṭhaś ca devānām ।
 Now Rudra is indeed the eldest and the best of the gods.
 
 This indicates that the early “śaiva” view was already impinging on the
-“standard aindra religion”. As we have noted before, the
-Aitareya-brāhmaṇa correspondingly, provides an early “vaiṣṇava”
+“standard aindra religion”. As we have noted
+[before](https://manasataramgini.wordpress.com/2020/01/02/the-roots-of-vai%e1%b9%a3%e1%b9%87avam-a-view-from-the-numerology-of-vedic-texts/),
+the Aitareya-brāhmaṇa correspondingly, provides an early “vaiṣṇava”
 viewpoint hinting the primacy of Viṣṇu. That such tendencies were
 ancient is indicated by the fact that they are not restricted to
 branches of the Ārya-s who eventually conquered India — indeed they are
@@ -288,3 +291,4 @@ hinted by parallels seen among the Iranians and the Germanic peoples.
 Interestingly, it was that stream of the religion that was to eventually
 dominate the Ārya religious traditions in India in the form of the Śaiva
 and Vaiṣnava cults.
+

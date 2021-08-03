@@ -1,111 +1,115 @@
 +++
 title = "The legend of king hayagrīva"
+date = "2014-09-11"
+upstream_url = "https://manasataramgini.wordpress.com/2014/09/11/the-legend-of-king-hayagriva/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/09/11/the-legend-of-king-hayagriva/).
+
 First published at
 [IndiaFacts](http://www.indiafacts.co.in/legend-king-hayagriva/?utm_source=rss&utm_medium=rss&utm_campaign=legend-king-hayagriva)  
 After the great war at kurukṣetra and the conquest of hastināpura,
-yudhiṣṭhira went through a phase of deep despondency. Given his
-pacific nature, he was immensely troubled by the violence he had
-inflicted by killing his kinsmen, relatives, teachers and other great
-heroes. This came in the way of this ability to rule effectively and he
-apparently had thoughts of renouncing the world and leading the life of
-an ascetic. At this juncture he was shored up by some brilliant advice
-from his brothers and wife. To cap their advice, the sage vyāsa
-kṛṣṇa-dvaipāyana himself arrived at his court, confirmed the views
-of draupadī and the other pāṇḍava-s, and taught yudhiṣṭhira the right
-path. In course of this teaching, he narrated to him a small, ancient
-legend of a king known as hayagrīva (mahābhārata “Critical edition”
-12.25.22-12.25.33 \[Footnote 1\]). Most of the narrative is in the
-triṣṭubh meter, an ancient Sanskrit meter with 11 syllables in each
-of its 4 units. The first two, the introductory ones, are in anuṣṭubh, a
-meter with 8 syllables in each of its 4 units (the most common meter
-used in both the itihāsa-s).
+yudhiṣṭhira went through a phase of deep despondency. Given his pacific
+nature, he was immensely troubled by the violence he had inflicted by
+killing his kinsmen, relatives, teachers and other great heroes. This
+came in the way of this ability to rule effectively and he apparently
+had thoughts of renouncing the world and leading the life of an ascetic.
+At this juncture he was shored up by some brilliant advice from his
+brothers and wife. To cap their advice, the sage vyāsa kṛṣṇa-dvaipāyana
+himself arrived at his court, confirmed the views of draupadī and the
+other pāṇḍava-s, and taught yudhiṣṭhira the right path. In course of
+this teaching, he narrated to him a small, ancient legend of a king
+known as hayagrīva (mahābhārata “Critical edition” 12.25.22-12.25.33
+\[Footnote 1\]). Most of the narrative is in the triṣṭubh meter, an
+ancient Sanskrit meter with 11 syllables in each of its 4 units. The
+first two, the introductory ones, are in anuṣṭubh, a meter with 8
+syllables in each of its 4 units (the most common meter used in both the
+itihāsa-s).
 
-atra te rāja-śārdūla vartayiṣye kathām imām |  
-yad vṛttaṃ pūrva rājarṣer hayagrīvasya pārthiva ||  
+atra te rāja-śārdūla vartayiṣye kathām imām \|  
+yad vṛttaṃ pūrva rājarṣer hayagrīvasya pārthiva \|\|  
 I shall narrate to you, tiger among kings, this legend of what happened
 in the past in regard to the royal sage hayagrīva.
 
-śatrūn hatvā hatasya+ājau śūrasya+akliṣṭa-karmaṇaḥ |  
-asahāyasya dhīrasya nirjitasya yudhiṣṭhira ||  
+śatrūn hatvā hatasya+ājau śūrasya+akliṣṭa-karmaṇaḥ \|  
+asahāyasya dhīrasya nirjitasya yudhiṣṭhira \|\|  
 \[The is the story of him\] O yudhiṣṭhira, who was heroic, intelligent,
 of unfailing acts, who after slaughtering his foes without assistance,
 was overcome himself and slain in the midst of battle (ājau= in battle
 is a distinct epic usage).
 
-yat karma vai nigrahe śātravāṇāṃ; yogaś ca+agryaḥ pālane mānavānām |  
-kṛtvā karma prāpya kīrtiṃ suyuddhe; vājigrīvo modate devaloke ||  
+yat karma vai nigrahe śātravāṇāṃ; yogaś ca+agryaḥ pālane mānavānām \|  
+kṛtvā karma prāpya kīrtiṃ suyuddhe; vājigrīvo modate devaloke \|\|  
 Indeed, having performed those deeds for the suppression of enemies,
 adopting the foremost measures for the protection of people, having
 performed his duties in battle hayagrīva attained glory, and is
 rejoicing in the deva-world.
 
 saṃtyakta+ātmā samareṣv ātatāyī; śastraiś chinno dasyubhir ardyamānaḥ
-|  
-aśvagrīvaḥ karmaśīlo mahātmā; saṃsiddhātmā modate devaloke ||  
+\|  
+aśvagrīvaḥ karmaśīlo mahātmā; saṃsiddhātmā modate devaloke \|\|  
 Having sacrificed his life in the midst of battle with bow drawn,
 slashed by weapons while attacked by evil-doers, firm in his actions,
 the great soul, having attained his objectives, is rejoicing in the
 deva-world.
 
 dhanur yūpo raśanā jyā śaraḥ sruk; sruvaḥ khaḍgo rudhiraṃ yatra cājyam
-|  
-ratho vedī kāmago yuddham agniś; cāturhotraṃ caturo vājimukhyāḥ ||  
+\|  
+ratho vedī kāmago yuddham agniś; cāturhotraṃ caturo vājimukhyāḥ \|\|  
 \[At this sacrifice\] his bow was the sacrificial stake, his bowstring
 was the rope \[for tying the animal victim\], his arrows the offering
 ladle, his sword the scooping ladle, and the blood \[spilled in it\] the
 ghee. His chariot was the altar, his unrestrained movement in battle the
 \[ritual\] fire, and his four foremost horses his four Vedic ritualists.
 
-hutvā tasmin yajña-vahnāv athārīn; pāpān mukto rājasiṃhas tarasvī |  
-prāṇān hutvā cāvabhṛthe raṇe sa; vājigrīvo modate devaloke ||  
+hutvā tasmin yajña-vahnāv athārīn; pāpān mukto rājasiṃhas tarasvī \|  
+prāṇān hutvā cāvabhṛthe raṇe sa; vājigrīvo modate devaloke \|\|  
 Having offered on that ritual fire his foes as oblations, free from sins
 that energetic lion among kings, finally offered his own life-breaths as
 though it was the offering at the bath at the termination of the Vedic
 ritual; hayagrīva now rejoices in the deva-world.
 
-rāṣṭraṃ rakṣan buddhi-pūrvaṃ nayena; saṃtyaktātmā yajñaśīlo mahātmā |  
-sarvāṃl lokān vyāpya kīrtyā manasvī; vājigrīvo modate devaloke ||  
+rāṣṭraṃ rakṣan buddhi-pūrvaṃ nayena; saṃtyaktātmā yajñaśīlo mahātmā \|  
+sarvāṃl lokān vyāpya kīrtyā manasvī; vājigrīvo modate devaloke \|\|  
 Protecting his nation intelligently and with good policy, the great
 soul, firm in Vedic rituals sacrificed his life. All realms have been
 encompassed by the fame of this intelligent king hayagrīva, who rejoices
 in the deva-world.
 
-daivīṃ siddhiṃ mānuṣīṃ daṇḍanītiṃ; yoga-nyāyaiḥ pālayitvā mahīṃ ca |  
-tasmād rājā dharmaśīlo mahātmā; hayagrīvo modate svargaloke ||  
+daivīṃ siddhiṃ mānuṣīṃ daṇḍanītiṃ; yoga-nyāyaiḥ pālayitvā mahīṃ ca \|  
+tasmād rājā dharmaśīlo mahātmā; hayagrīvo modate svargaloke \|\|  
 Accomplished in matters of divinities, human affairs and justice, and
 having protected his land with with the devices of law, that king, the
 great soul, firm in dharma, hayagrīva rejoices in heaven.
 
 vidvāṃs tyāgī śraddadhānaḥ kṛitajñas; tyaktvā lokaṃ mānuṣaṃ karma kṛtvā
-|  
-medhāvināṃ viduṣāṃ saṃmatānāṃ; tanu-tyajāṃ lokam ākramya rājā ||  
+\|  
+medhāvināṃ viduṣāṃ saṃmatānāṃ; tanu-tyajāṃ lokam ākramya rājā \|\|  
 Learned, renunciatory, with good conviction and grateful, having
 performed his duties, he abandoned this world of men and attained that
 region reserved for the intelligent, scholarly and esteemed upon leaving
 his body.
 
 samyag vedān prāpya śāstrāṇy adhītya; samyag rāṣṭraṃ pālayitvā mahātmā
-|  
-cāturvarṇyaṃ sthāpayitvā svadharme; vājigrīvo modate devaloke ||  
+\|  
+cāturvarṇyaṃ sthāpayitvā svadharme; vājigrīvo modate devaloke \|\|  
 Having obtained all the veda-s and having studied the shAstra-s, having
 protected his entire nation, having installed the four varṇa-s in their
 respective duties, the great soul, hayagrīva, rejoices in the
 deva-world.
 
 jitvā saṃgrāmān pālayitvā prajāś ca; somaṃ pītvā tarpayitvā dvijāgryān
-|  
-yuktyā daṇḍaṃ dhārayitvā prajānāṃ; yuddhe kṣīṇo modate devaloke ||  
+\|  
+yuktyā daṇḍaṃ dhārayitvā prajānāṃ; yuddhe kṣīṇo modate devaloke \|\|  
 Having won battles and having protected his people, having drunk soma
 having pleased the brāhmaṇa-s, and having held the rod of justice with
 appropriate measures for this people, slain in battle, he rejoices in
 the deva-world.
 
 vṛttaṃ yasya ślāghanīyaṃ manuṣyāḥ; santo vidvāṃsaś cārhayanty arhaṇīyāḥ
-|  
+\|  
 svargaṃ jitvā vīralokāṃś ca gatvā; siddhiṃ prāptaḥ puṇyakīrtir mahātmā
-||  
+\|\|  
 His conduct was laudable, learned and good men deservedly praise his
 worthy behavior. Having won heaven, and having gone to the realm of
 heroes, the great soul of pure fame attained perfect success.
@@ -137,21 +141,21 @@ narrative also implies that the king should make fighting such a battle,
 even if outnumbered, his primary duty.  
 ● Indeed, the performance of this act is hence equated to a Vedic
 ritual. In generating this equivalence the narrative establishes many
-saṃbandha-s(connections) between the Vedic ritual and the battle
-fought against the evil-doers. Specifically, it is compared to the Vedic
-animal sacrifice (e.g. nīrūḍha-paśubandha), along with the use of
-technical terms from ritual literature: the sacrificial stake (yūpa),
-the rope for tying the animal victim (raśana), the offering ladle
-(sruk), the scooping ladle (sruva), ghee offered in the fire, the altar
-(vedi), the ritual fire and four Vedic ritual specialists, namely the
-hotṛ belonging to the ṛgveda, the adhvaryu belonging to the yajurveda,
-the udgātṛ belonging to the sāmaveda and the brahman usually assigned to
-the atharvaveda. The final sacrifice of the king in such a battle is
-equated to the bath which takes places at the end of the Vedic ritual
-(the avabhṛtha). In Hindu tradition the performance of a ritual (karman)
-is said to yield a result (karmaphala), which, among other things, might
-be a place in the deva-realm. By equating the battle for the protection
-of the nation and people to a Vedic ritual the narrative offers a
+saṃbandha-s(connections) between the Vedic ritual and the battle fought
+against the evil-doers. Specifically, it is compared to the Vedic animal
+sacrifice (e.g. nīrūḍha-paśubandha), along with the use of technical
+terms from ritual literature: the sacrificial stake (yūpa), the rope for
+tying the animal victim (raśana), the offering ladle (sruk), the
+scooping ladle (sruva), ghee offered in the fire, the altar (vedi), the
+ritual fire and four Vedic ritual specialists, namely the hotṛ belonging
+to the ṛgveda, the adhvaryu belonging to the yajurveda, the udgātṛ
+belonging to the sāmaveda and the brahman usually assigned to the
+atharvaveda. The final sacrifice of the king in such a battle is equated
+to the bath which takes places at the end of the Vedic ritual (the
+avabhṛtha). In Hindu tradition the performance of a ritual (karman) is
+said to yield a result (karmaphala), which, among other things, might be
+a place in the deva-realm. By equating the battle for the protection of
+the nation and people to a Vedic ritual the narrative offers a
 justification of the fruit attained by the king via his sacrifice.
 Through this equivalence vyāsa brings home to yudhiṣṭhira that such a
 battle is not a sinful act but a meritorious and holy act, just like the
@@ -218,3 +222,4 @@ third pāṇḍava provides a teaching wherein he clarifies that though it is
 not the primary duty of a brāhmaṇa, when the need arises he too needs to
 engage actively in combat to slay evil-doers and, if need be, die in the
 process.
+

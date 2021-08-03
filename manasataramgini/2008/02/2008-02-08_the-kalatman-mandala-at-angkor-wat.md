@@ -1,7 +1,11 @@
 +++
 title = "The kAlAtman maNDala at Angkor Wat"
+date = "2008-02-08"
+upstream_url = "https://manasataramgini.wordpress.com/2008/02/08/the-kalatman-mandala-at-angkor-wat/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/02/08/the-kalatman-mandala-at-angkor-wat/).
+
 [![](https://i0.wp.com/bp0.blogger.com/_hjuA1bE0hBw/R65rFKfEbEI/AAAAAAAAACU/15bQeMsDM24/s320/kAlayAga.png)](http://bp0.blogger.com/_hjuA1bE0hBw/R65rFKfEbEI/AAAAAAAAACU/15bQeMsDM24/s1600-h/kAlayAga.png)
 
 The basic geometry of the kAlAtmaka yantra
@@ -15,8 +19,8 @@ the reign of indrajayavarman. The relevant statement from the
 inscription is:
 
 “tasmin kuru mahad yAgaM yathoktaM pArameshvare … kR^itvAn sa mahad
-yAgaM kAla-yAgaM iti shrutam | sarasvatI yAga yutaM
-loka-pAla-samAvR^itam ||”
+yAgaM kAla-yAgaM iti shrutaM \| sarasvatI yAga yutaM
+loka-pAla-samAvR^itaM \|\|”
 
 It describes a great yAga which has been laid down in the siddhAnta
 tantra known as the pArameshvara Agama. This great yAga is known as
@@ -88,3 +92,4 @@ yantra are the deity.
 [![](https://i0.wp.com/bp1.blogger.com/_hjuA1bE0hBw/R65rFafEbFI/AAAAAAAAACc/WRgH8uudER4/s320/ANGKOR.jpg)](http://bp1.blogger.com/_hjuA1bE0hBw/R65rFafEbFI/AAAAAAAAACc/WRgH8uudER4/s1600-h/ANGKOR.jpg)
 
 The Angkor Wat upper elevation
+

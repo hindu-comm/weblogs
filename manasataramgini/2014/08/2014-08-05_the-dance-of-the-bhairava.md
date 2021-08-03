@@ -1,15 +1,19 @@
 +++
 title = "The dance of the bhairava"
+date = "2014-08-05"
+upstream_url = "https://manasataramgini.wordpress.com/2014/08/05/the-dance-of-the-bhairava/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/08/05/the-dance-of-the-bhairava/).
+
 [![](https://lh6.googleusercontent.com/-A-QkUzDQ3ds/U906IaaTHFI/AAAAAAAADDA/Gk3E9H-pZzg/s800/bhairava5_nepAl.jpg)](https://picasaweb.google.com/lh/photo/-i9BPOuTEhZROufrZf684NMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
 *bhairava on a cadaver from Nepal*
 
 netrAku\~nchana-sAraNa-krama-kR^ita-pravyakta-naktaM dino  
-dik-chakrAnta-visarpi-sallari-saTA-bhArAvaruddhAmbaraH |  
+dik-chakrAnta-visarpi-sallari-saTA-bhArAvaruddhAmbaraH \|  
 hasta-nyasta-kapAla-kandara-darI-muktAbhra-dhArAH pibann  
-unmukta-dhvani-bhinna-karNa-kuharaH kravyAd ayaM nR^ityati ||
+unmukta-dhvani-bhinna-karNa-kuharaH kravyAd ayaM nR^ityati \|\|
 
 netra= eye; Aku\~nchana= closing; sAraNa= opening; krama= periodic;
 kR^ita= act; pravyakta= manifest; naktaM= night; dinaH= day; dik=
@@ -29,7 +33,7 @@ till the horizons;
 Drinking cloud-streams released from the fissures of the skull bowl held
 in his hands,  
 having shattered ear-drums with the roar he has let out, this
-corpse-eater dances\!
+corpse-eater dances!
 
 The bhairava ectype of rudra became central to the shaiva traditions
 related to the kApAlika branch of the old pAshupata form of the
@@ -39,12 +43,12 @@ flesh in cremation grounds. This is indeed the practice alluded to here.
 This might have deep roots earlier Hindu thought. In the shruti, the
 deva rudra is closely associated with agni – to the point that they are
 explicitly identified with each other right from the R^igveda (e.g. tvam
-agne rudro asuro mahodivaH |). The deva agni is said to come in two
+agne rudro asuro mahodivaH \|). The deva agni is said to come in two
 earthly forms: 1) havyavAha – one who carries the oblations to the gods;
 2) kravyAda – one who devours the corpse on the cremation pile and
 carries oblations to the deceased ancestors. The former is auspicious
-and the later is inauspicious (kravyAdam agniM pra hiNomi dUram | i.e. I
-send afar the corpse-eating agni). This dichotomy in agni is also
+and the later is inauspicious (kravyAdam agniM pra hiNomi dUraM \| i.e.
+I send afar the corpse-eating agni). This dichotomy in agni is also
 reflected in rudra: on one hand he is shiva (auspicious) and daivyo
 bhiShak (the divine physician) or jalASha-bheShaja (one with anti-fever
 drugs) on the other hand he is the terrifying rudra who is described as
@@ -70,7 +74,7 @@ rAjpUt yashovarma-deva, a descendent of the great king bhoja-deva we
 find the following:
 
 jayati vyomakesho .asau yaH sargAya bibharti tAM  
-aindavI shirasA lekhAM jagad bIjA\~NkurAkR^itim ||  
+aindavI shirasA lekhAM jagad bIjA\~NkurAkR^itim \|\|  
 Victorious is he whose hair fills the space (vyomakesha), who for the
 emitted worlds (sarga) bears with his head the lunar crescent which is
 like the embryo in the seed which is the universe.
@@ -90,3 +94,4 @@ beating of the Damaru (the hour-glass drum) accompanying the dance of
 the bhairava. While filling the air with noise, tradition also records
 that the noises from drum of rudra form the basis of the grammar of
 pANini (i.e. the mAheshvara sUtrANi).
+

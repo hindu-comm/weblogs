@@ -1,8 +1,11 @@
 +++
-title = "Indra Herakles, Trita Iolaus, Vak Athena against Hydra Vritra – A Distillation [Arya Akashaxa0Arka]"
-date = "March 9, 2021"
+title = "Indra Herakles, Trita Iolaus, Vak Athena against Hydra Vritra – A Distillation [Arya Akasha Arka]"
+date = "2021-03-09"
+upstream_url = "https://aryaakasha.com/2021/03/09/indra-herakles-trita-iolaus-vak-athena-against-hydra-vritra-a-distillation-arya-akasha-arka/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/03/09/indra-herakles-trita-iolaus-vak-athena-against-hydra-vritra-a-distillation-arya-akasha-arka/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/03/arya-akasha-hydra-slayer.png?w=900)
 
 As part of my ongoing drive to make our work more accessible \[ Arya

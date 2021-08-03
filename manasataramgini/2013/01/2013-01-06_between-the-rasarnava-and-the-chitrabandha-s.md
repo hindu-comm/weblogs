@@ -1,7 +1,11 @@
 +++
 title = "Between the rasArNava and the chitrabandha-s"
+date = "2013-01-06"
+upstream_url = "https://manasataramgini.wordpress.com/2013/01/06/between-the-rasarnava-and-the-chitrabandha-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/01/06/between-the-rasarnava-and-the-chitrabandha-s/).
+
 In the glorious summer we sought, through the secret practice, the
 enlightenment, which the elixir of viveka confers upon the lucky. We
 reclined in the holy land of bhArata, now sullied by the faded vigor of
@@ -41,17 +45,17 @@ Though it was a hot summer, we were in the spring of our life, and the
 embrace of our dUtI saroruhA in the the shade of the ever-green ashoka,
 was much like it was hymned by kAlidAsa of yore. Indeed, he said:  
 nitamba-bimbaiH sa-dukUla-mekhalaiH stanaiH sa-hArAbharaNaiH
-sa-chandanaiH |  
-shiroruhaiH snAna-kaShAya-vAsitaiH striyo nidAghaM shamayanti kAminAm ||
-R^itusaMhAra 1.4
+sa-chandanaiH \|  
+shiroruhaiH snAna-kaShAya-vAsitaiH striyo nidAghaM shamayanti kAminAm
+\|\| R^itusaMhAra 1.4
 
 The commentator says: *dukUlAni kShaumANi mekhalA rasanAH tAbhiH
-sahitaiH sa-dukula-mekhalaiH | nitaMba-biMbaIH nitaMba maNDalaiH | hArA
-evAbharaNAni taiH sahitaiH sahArAbharaNaiH | sachandanaiH
-chandanAnuliptaiH |stanaiH | snAne yaH kaShayo .a\~Nga-rAgaH tena
-vAsitaiH sugandhIkR^itaiH snAna-kaShAya-vAsitaiH | shirasi rohantiiti
-shiroruhAH keshAH taiH shiroruhaiH cha | striyaH kAminAM nidAghaM
-grIShmoShmANam | shamayanti shAntiM nayanti | nivArayantiiti yAvat |*
+sahitaiH sa-dukula-mekhalaiH \| nitaMba-biMbaIH nitaMba maNDalaiH \|
+hArA evAbharaNAni taiH sahitaiH sahArAbharaNaiH \| sachandanaiH
+chandanAnuliptaiH \|stanaiH \| snAne yaH kaShayo .a\~Nga-rAgaH tena
+vAsitaiH sugandhIkR^itaiH snAna-kaShAya-vAsitaiH \| shirasi rohantiiti
+shiroruhAH keshAH taiH shiroruhaiH cha \| striyaH kAminAM nidAghaM
+grIShmoShmANam \| shamayanti shAntiM nayanti \| nivArayantiiti yAvat \|*
 
 Thus we might say: With well-rounded hips girdled with flaxen apparel,
 with breasts smeared with chandana and graced by garlands and ornaments,
@@ -110,8 +114,8 @@ the retreating gaNa troops .”
 
 In bhAravI’s great work the kirAtArjunIya, skanda scolds the retreating
 gaNa-s thus:  
-devAkAnini kAvAde vAhikAsvasvakAhi vA |  
-kAkArebhabhare kAkA nisvabhavyavyabhasvani || KA 15.25
+devAkAnini kAvAde vAhikAsvasvakAhi vA \|  
+kAkArebhabhare kAkA nisvabhavyavyabhasvani \|\| KA 15.25
 
 It has two aspects to it: one is the set of constraints (bandha-s)
 pertaining its symmetry, which can be pictorially depicted (chitra) as
@@ -125,7 +129,7 @@ sUrI from the Vijayanagaran court of devarAya states: chatuSh-koShThe
 chatura\~Nga bandha krameNa adya pa\~Nkti chatuShTaye pAda-chatuShTayaM
 vilikhyAn antar-pa\~Nkti-chatuShTaye .apy adhaH krameNa
 pAda-chatuShTaya-lekhane prathamAsu chatasR^iShu pa\~NktiShu prathamaH
-pAdaH sarvato vAchyate, dvitIyAdiShu dvitIya ityAdi ||
+pAdaH sarvato vAchyate, dvitIyAdiShu dvitIya ityAdi \|\|
 
 The second aspect to such bandha-s is that with such constraints, the
 entropy of the text reduces, i.e. it becomes low in complexity. Thus,
@@ -186,7 +190,7 @@ Thus, we can have forward and backward interpretations:
 Wherein (in the battle) there are shouts of the deva-s, wherein heads
 are cut down, wherein the movement of the army bears forward ones own
 party, wherein the splendor of the elephant multitude is scattered, O
-contemptible ones (i.e. the retreating gaNa-s)\!, therein they revile
+contemptible ones (i.e. the retreating gaNa-s)!, therein they revile
 those who squander the selfless and a successful outcome.
 
 Wherein the worthy and the worthless under concealment are revealed,
@@ -216,7 +220,7 @@ performed with the vaidika mantra-s during the shrauta
 rituals](https://manasataramgini.wordpress.com/2004/12/11/recombination-of-meters/).
 
 Regarding the so called subjectivity the shruti holds: “parokSha-priyA
-ivA hi devA bhavanti pratyakSha-dviSaH || (gopatha brAhmaNa of the
+ivA hi devA bhavanti pratyakSha-dviSaH \|\| (gopatha brAhmaNa of the
 atharvaveda 1.2.21)” Thus, it is in the nature of a kavi utilize such
 modes of expression which have the capacity to encode various
 alternative meanings, which can then be deconvoluted via the “epigenetic
@@ -256,9 +260,9 @@ As we pondered over these she wandered away… And we were reminded of
 bhAravi again:
 
 nimIlad Akekara-locha-chakShuShAM priyopakaNThaM kR^ita-gAtra-vepathuH
-|  
-nimajjatInAM shvasitoddhata-stanaH shramo nu tAsAM madano nu paprathe ||
-KA 8.53
+\|  
+nimajjatInAM shvasitoddhata-stanaH shramo nu tAsAM madano nu paprathe
+\|\| KA 8.53
 
 nimIlad closing; Akekara-partly closed; locha- glance; chakShuShAM-
 eyes; priya- lover; upakaNTha- in the vicinity; kR^ita makes; gAtra-
@@ -274,11 +278,12 @@ up their breasts with a sigh.
 Then hoping that the poisons of rudra might be pacified by the
 bheShaja-s borne by sharvAnI we wandered away reciting:  
 asminn agR^ihyata pinAka-bhR^itA salIlam Abaddha-vepathur
-adhIra-vilochanAyAH |  
+adhIra-vilochanAyAH \|  
 vinyasta ma\~Ngala mahauShadhir IshvarAyAH srastoraga-pratisareNa kareNa
-pANiH ||
+pANiH \|\|
 
 Here, the bearer of the pinAka playfully took the hand of the supreme
 goddess, who had tied great healing remedies, with his hand bearing a
 slipping snake as an amulet, as she directed her tremulous, fluttering
 eyes \[to it\].
+

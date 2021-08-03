@@ -1,7 +1,11 @@
 +++
 title = "Comet Lovejoy, C/2014 Q2"
+date = "2015-01-18"
+upstream_url = "https://manasataramgini.wordpress.com/2015/01/18/comet-lovejoy-c2014-q2/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/01/18/comet-lovejoy-c2014-q2/).
+
 [![](https://lh4.googleusercontent.com/-2_gZwn1jB8Y/VLtkW4OZm_I/AAAAAAAADN4/gLP7HtjLOSM/s800/Lovejoy.JPG)](https://picasaweb.google.com/lh/photo/IJt5POmpXYR6XeYXYdsGaNMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
 On pauṣa kṛṣṇapakṣa 11, kali 5115 (16th Jan 2015) around 8.10 PM,
@@ -19,7 +23,7 @@ imagined Skanda as a comet emerging from the Kṛttikāḥ and coursing to
 Bhāratavarṣa to take the embryo of the future tīrthaṃkara the nagna to
 place him in a kṣatriya womb after removing all the brāhmaṇa molecules
 from his body and replacing them with clean ones \[Indeed the brāhmaṇa
-hatred of the nagna-s began early\!\].
+hatred of the nagna-s began early!\].
 
 Orbit of Comet Lovejoy, C/2014 Q2  
 [![](https://lh4.googleusercontent.com/-0irTUhDJP-k/VLtkWqLWcMI/AAAAAAAADN0/9clwl5XqSiU/s800/Lovejoy_orbit.jpg)](https://picasaweb.google.com/lh/photo/I93aqB_BZN-T1I269JwXM9MTjNZETYmyPJy0liipFm0?feat=embedwebsite)
@@ -37,3 +41,4 @@ enormity of the distance of the Oort’s cloud, where comets originate,
 from the planets and the Kuiper belt objects like Pluto, Eris and
 Makemake with their highly inclined orbits.  
 [![](https://lh5.googleusercontent.com/-nFZg94Zg1AE/VLxmS9xBO7I/AAAAAAAADOI/1nshWceYrxQ/s800/Lovejoy2.JPG)](https://picasaweb.google.com/lh/photo/N0QR0hGGPsM9Fm0SLMA0_tMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
+

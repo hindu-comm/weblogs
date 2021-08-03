@@ -1,8 +1,11 @@
 +++
-title = "The Divine Art Of Devi Kothixa0Temple"
-date = "May 23, 2021"
+title = "The Divine Art Of Devi Kothi Temple"
+date = "2021-05-23"
+upstream_url = "https://aryaakasha.com/2021/05/23/the-divine-art-of-devi-kothi-temple/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/05/23/the-divine-art-of-devi-kothi-temple/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/05/e1_evd7xeaad2xt.jpg?w=755)
 
 These absolutely beautiful frescos are from a Devi temple more than a

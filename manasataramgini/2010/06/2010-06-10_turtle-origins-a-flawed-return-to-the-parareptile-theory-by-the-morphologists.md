@@ -1,7 +1,11 @@
 +++
 title = "Turtle origins: A flawed return to the parareptile theory by the morphologists"
+date = "2010-06-10"
+upstream_url = "https://manasataramgini.wordpress.com/2010/06/10/turtle-origins-a-flawed-return-to-the-parareptile-theory-by-the-morphologists/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/06/10/turtle-origins-a-flawed-return-to-the-parareptile-theory-by-the-morphologists/).
+
 We have repeatedly discussed on these pages how molecular phylogenies
 have consistently shown morphological phylogenies to be outright wrong.
 The examples are many, and we need not rehash them again. A few
@@ -35,7 +39,7 @@ U-turn to the turtles as parareptiles hypothesis. In this sense they are
 recapitulating earlier works that consistently grouped the turtles with
 different “parareptiles” (in “” because the term parareptiles for the
 clade becomes a rather bad one if turtles were nested within them
-because they are reptiles\!). Laurin and Reisz in a well-illustrated
+because they are reptiles!). Laurin and Reisz in a well-illustrated
 paper 1995 claimed that turtles were related to the procolophonids among
 the parareptiles. On the other hand Lee then claimed that they were
 nested within the pareiasaurs, which were a sister group to the
@@ -57,7 +61,7 @@ known turtle, was a stem turtle.
 
 Now these synapomorphies simply cannot be pitted against the much larger
 set of synapomorphies from:  
-1\) the nuclear DNA-encoded protein sequence alignments that
+1) the nuclear DNA-encoded protein sequence alignments that
 unequivocally reject all phylogenetic hypothesis other than the
 archosauromorph status of turtles (e.g. just to name one comprehensive
 study: Iwabe et al. Sister group relationship of turtles to the
@@ -92,3 +96,4 @@ molecular trees do not recover the monophyly of a group. If this is so,
 are they insinuating that Proganochelys and modern turtles are
 paraphyletic? In conclusion, Lyson et al is a regressive example of
 morphological phylogenetics at work, and simply put is flawed.
+

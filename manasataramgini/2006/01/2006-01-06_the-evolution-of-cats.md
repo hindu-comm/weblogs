@@ -1,7 +1,11 @@
 +++
 title = "The evolution of Cats"
+date = "2006-01-06"
+upstream_url = "https://manasataramgini.wordpress.com/2006/01/06/the-evolution-of-cats/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/01/06/the-evolution-of-cats/).
+
 The classical felid or the Neofelid lineage appears first in the fossil
 around 35 Myrs in the middle of the Priabonian age of the Eocene. They
 are clearly distinguished by many distintinguishing anatomical features,
@@ -38,20 +42,21 @@ the Miocene.
 following representatives: Lion, Jaguar, Leopard, Tiger, Snow leopard
 and Clouded leopard Neofelis being the most basal representative of the
 Panthera lineage.  
-2\) The next lineage to separate was the Bay cat lineage with: Bay cat,
+2) The next lineage to separate was the Bay cat lineage with: Bay cat,
 Asian golden cat and marbled cat.  
 3)The third lineage to diverge was the caracal lineage with: caracal,
 African golden cat and serval as the basal-most member of this group.  
 4)Then the Ocelot lineage migrating into the Americas diversified
 leading to: Ocelot, Margay, Andean Mt Cat, Pampas Cat, Geoffroy’s cat,
 Kodkod and Tigrina.  
-5\) The lynx lineage diverge with: Iberian Lynx, Eurasian Lynx, Canadian
+5) The lynx lineage diverge with: Iberian Lynx, Eurasian Lynx, Canadian
 lynx and Bobcat as the basalmost line.  
 6)Then the Puma lineage diversified in the Americas with the Puma,
 Jaguarundi and Cheetah. The Cheetah migrated back to Asia and Africa,
 even as its representative Miracionyx became extinct in the Americas.  
-7\) The Fishing cat Lineage then exploded with the Pallas cat, rusty
+7) The Fishing cat Lineage then exploded with the Pallas cat, rusty
 spotted cat, Asian leopard cat, Fishing cat and Flat-headed cat.  
 8)The Wild cat lineage diverged with the Wild cat, desert cat, black
 footed cat and jungle cat lineages.  
 The domestic cat is a degenerate version of the European wild cat.
+

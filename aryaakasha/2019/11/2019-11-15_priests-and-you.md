@@ -1,8 +1,11 @@
 +++
 title = "Priests and You"
-date = "November 15, 2019"
+date = "2019-11-15"
+upstream_url = "https://aryaakasha.com/2019/11/15/priests-and-you/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/11/15/priests-and-you/).
+
 If there is one thing that our modern community sorely lacks, which our
 ancestors took for granted, it’s the beneficial guidance and stability
 of having learned Priests at hand for every man of note to benefit from.

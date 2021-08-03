@@ -1,8 +1,11 @@
 +++
-title = "Birth Anniversary of Netaji Subhas Chandra Bose – Parakramxa0Divas"
-date = "January 23, 2021"
+title = "Birth Anniversary of Netaji Subhas Chandra Bose – Parakram Divas"
+date = "2021-01-23"
+upstream_url = "https://aryaakasha.com/2021/01/23/birth-anniversary-of-netaji-subhas-chandra-bose-parakram-divas/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/01/23/birth-anniversary-of-netaji-subhas-chandra-bose-parakram-divas/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/01/141736729_10164678717745574_2345420932397710544_n.jpg?w=460)
 
 The 23rd of January marks the birthday of Netaji Subhas Chandra Bose –

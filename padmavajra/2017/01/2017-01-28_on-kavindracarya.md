@@ -1,8 +1,11 @@
 +++
 title = "On Kavīndrācārya"
 date = "2017-01-28"
+upstream_url = "https://padmavajra.net/2017/01/28/on-kavindracarya/"
 
 +++
+Source: [here](https://padmavajra.net/2017/01/28/on-kavindracarya/).
+
 ACP=[@ArmchairPseph](https://twitter.com/ArmchairPseph)
 
 ACP: He was a close associate of Dara Shikoh

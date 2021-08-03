@@ -1,8 +1,11 @@
 +++
-title = "The phantoms of thexa0bone-pipe-2"
+title = "The phantoms of the bone-pipe-2"
 date = "2021-05-03"
+upstream_url = "https://manasataramgini.wordpress.com/2021/05/03/the-phantoms-of-the-bone-pipe-2/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2021/05/03/the-phantoms-of-the-bone-pipe-2/).
+
 Vidrum had been introduced to a synesthetic patient by a neurologist
 colleague. The patient’s manifestation of synesthesia left a rather
 profound impact on him; thus, when he had a break of an hour in his
@@ -51,23 +54,23 @@ company of our own and give grad school a skip given the deteriorating
 environment in educational institutions abroad. Thankfully, we got over
 that delusion after some further thought as we realized we were v1s to
 our core and not v3s by nature. Nor were we inclined to take the job
-offers we had because we had that independent academic streak. Moreover,
-we got into the same graduate school; so, we would not be facing the
-separation and the disjunction that Lootika and Somakhya faced when in
-graduate school.” V: “But those two told me that their disjunction was a
-key part of their character-building experience where they proved their
-individual worth by themselves.” Jh: “That may be so, but you can hardly
-deny that Lootika and Somakhya had the luck of being together all the
-way from school to the end of college — something the rest of us did not
-have the pleasure of. So that disjunction is not something they needed
-to cry about. Moreover, for all the ice in that period, the rest of us
-knew how Lootika kept thinking about Somakhya. We thought grad school is
-a good idea because, apart from the fact that we are fundamentally
-academically oriented, it gives an opportunity to prove ourselves under
-hostile fire. If luck, for some reason, doesn’t favor us, we can always
-quit it and get down to more real things like furthering our genes. If
-everything fails, in the least, I can teach my nephews and nieces
-mathematics and computation as they come of age.”
+offers we had because we have that independent academic streak.
+Moreover, we got into the same graduate school; so, we would not be
+facing the separation and the disjunction that Lootika and Somakhya
+faced when in graduate school.” V: “But those two told me that their
+disjunction was a key part of their character-building experience where
+they proved their individual worth by themselves.” Jh: “That may be so,
+but you can hardly deny that Lootika and Somakhya had the luck of being
+together all the way from school to the end of college — something the
+rest of us did not have the pleasure of. So that disjunction is not
+something they needed to cry about. Moreover, for all the ice in that
+period, the rest of us knew how Lootika kept thinking about Somakhya. We
+thought grad school is a good idea because, apart from the fact that we
+are fundamentally academically oriented, it gives an opportunity to
+prove ourselves under hostile fire. If luck, for some reason, doesn’t
+favor us, we can always quit it and get down to more real things like
+furthering our genes. If everything fails, in the least, I can teach my
+nephews and nieces mathematics and computation as they come of age.”
 
 V: “Well, good luck. But even if you don’t start a company, I hope
 someday you and maybe Prachetas will build for me a robot that is like
@@ -132,12 +135,12 @@ visitation. But I realized paying attention to those visitations can
 actually be helpful. The encounter I had was somewhat dramatic.” A: “Ah!
 This sounds like the old times. Tell us the story.” V: “Sure. I blew
 into the pipe a song I heard in a movie — I’m sure it was one I had
-watched you guys. The phantom came on very fast. I had hardly blown out
-a couple of lines when I heard a gruff voice with a south Indian accent.
-I did not see anything, but I could feel an obvious presence. He asked
-to be seated on the couch across from my desk, saying that he needs a
-proper seat to ease his distress. I took a dictation of his story that
-I’ll read out once we are done with dinner.” It went thus:
+watched with you guys. The phantom came on very fast. I had hardly blown
+out a couple of lines, when I heard a gruff voice with a south Indian
+accent. I did not see anything, but I could feel an obvious presence. He
+asked to be seated on the couch across from my desk, saying that he
+needs a proper seat to ease his distress. I took a dictation of his
+story that I’ll read out once we are done with dinner.” It went thus:
 
 “My name is Gunottaman (Guṇottaman), but most of the people who knew me
 called me Kāttutĕran, a moniker I acquired from my capacity to drive my
@@ -259,9 +262,9 @@ to those very same gods I saw when I was appointed as the guardian of
 the land. Hence, I was rendered powerless to do anything to you or them
 then. But now that it is just you, I can knead you like dough. If you
 were to build on this land, I shall reduce you to a fate that is not
-very different from mine. If you do not and let my stone remain, then I
-will even use my ghostly powers to aid your quest for a new vehicle,
-woman and house.”
+very different from mine. If you do not, and let my stone remain, then I
+will even use my ghostly powers to aid your quest for a new vehicle, a
+woman and a house.”
 
 Abhirosha: “Vidrum, even I would have acted the same if I’d had
 encountered a phantasmagoria as this.” V: “Even if this were just an

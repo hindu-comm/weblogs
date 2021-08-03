@@ -1,7 +1,11 @@
 +++
 title = "Some maxims of ve~NkaTAdhvarin"
+date = "2012-04-06"
+upstream_url = "https://manasataramgini.wordpress.com/2012/04/06/some-maxims-of-venkatadhvarin/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/04/06/some-maxims-of-venkatadhvarin/).
+
 Our medieval coethnic, ve\~NkaTAdhvarin (1600s of the common era), was a
 shrauta ritualist, keen observer of humanity, master poet, proponent of
 vishiShTAdvaita and shrIvaiShNava bigot, all simultaneously rolled in
@@ -15,8 +19,8 @@ earned them a place in the great collection of the nAstika vidyAkara,
 had he lived in an earlier era. Let us look at some of these:
 
 manda-praj\~naadhyApanaM kShudra-maitrI nIrUpa-strI-saMgatir nIcha-sevA
-|  
-sArAsAra-j\~nAna-hInaanusAraH keShAM na syAt kheda-saMpAdanAya ||
+\|  
+sArAsAra-j\~nAna-hInaanusAraH keShAM na syAt kheda-saMpAdanAya \|\|
 
 Teaching those of dim intellect, friendship with losers, companionship
 with an ugly woman, serving the lowly, following one lacking the
@@ -26,13 +30,13 @@ indeed is not brought to regret by these?
 One who has lived life long enough indeed encounters such situations and
 cannot disagree with ve\~NkaTa.
 
-para-saMyoga-mahimA laghor api yataH svataH |  
-gurutvaM Avahaty eva pramANaM tasya pANiniH ||
+para-saMyoga-mahimA laghor api yataH svataH \|  
+gurutvaM Avahaty eva pramANaM tasya pANiniH \|\|
 
 The greatness of association with an eminent one is such, that even if
 one is a light-weight by himself \[associated with the eminent one\], he
 becomes the bearer of weighty attraction; the testimony for this is
-pANini \[himself\]\!
+pANini \[himself\]!
 
 This is a beautiful grammatical shleSha: para-saMyoga might be taken to
 be association with an eminent one and also simultaneously taken to mean
@@ -45,9 +49,9 @@ graduate student associates with a mighty mlechCha professor so that he
 might attain gurutva by “para-saMyoga”.
 
 mAnArhaM kusuma-kuleShu kaitakaM tat prAyeNa prathita-vivekaM ekaM eva
-|  
+\|  
 dhutturais samam amaradru guchCham achChaM bibhrANAM na bhajati
-dhUrjaTer jaTAM yat ||
+dhUrjaTer jaTAM yat \|\|
 
 Perhaps in the floral clan the ketaki flower alone displays
 discrimination; hence it is verily worthy of respect, for it does not
@@ -63,9 +67,9 @@ rudra’s locks, where both the lowly dhuttura flower and the unsullied
 heavenly flowers occur indiscriminately together.
 
 karNATI-chikurA ivaati kuTilA gauDI-kaTAkShA iva svAbhAvyAttaralAsh cha
-ghUrjara-vadhu-pAdAbjavad-rAgiNaH |  
+ghUrjara-vadhu-pAdAbjavad-rAgiNaH \|  
 mandA mAgadha-sundarI-hasita-vat svalpAsh-cha tan madhyavat
-pANDya-strI-stana-van-naTanti malinAH pashyanti chordhvaM khalAH ||
+pANDya-strI-stana-van-naTanti malinAH pashyanti chordhvaM khalAH \|\|
 
 \[The crooks are\] like the curly locks of the Kannada women, they are
 fickle like the fluttering eyes of the Bengali women, they are prone to
@@ -81,3 +85,4 @@ This is one of the classical themes of describing women from different
 parts of India. The absence of certain parts like sindhu, gandhAra, and
 kAshmIra seen often in earlier works might reflect the overwhelming of
 those regions by invaders when ve\~NkaTa was writing.
+

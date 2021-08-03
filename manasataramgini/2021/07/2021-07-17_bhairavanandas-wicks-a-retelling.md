@@ -1,8 +1,11 @@
 +++
-title = "Bhairavānanda’s wicks: axa0retelling"
+title = "Bhairavānanda’s wicks: a retelling"
 date = "2021-07-17"
+upstream_url = "https://manasataramgini.wordpress.com/2021/07/17/bhairavanandas-wicks-a-retelling/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2021/07/17/bhairavanandas-wicks-a-retelling/).
+
 It was early in the school year and the last class for the week, the
 English class. The students were restless as the sea at the time of the
 tide from the pull of the impending weekend. For the first time in his
@@ -208,15 +211,15 @@ wants to show off that she knows some words from the dead language
 Sanskrit in an English class. Moreover, how much copper ore can a single
 man take back home from high in the mountains. Surely, it will not be
 enough to even pay for his food and boarding on the way back. As a
-Brahmin girl, Lootika is simply following the example how her kind has
-operated since time immemorial — obfuscate simple, common sense things
-with elaborate stories packed with mumbo-jumbo.” The English teacher:
-“Tumul, you are unable to get the device of a metaphor. Now it is you
-who are are being long-winded to be mean to your classmate. We need to
-be more welcoming to our new students. Hence, I want you to write out
-the whole story in your own words properly explaining its significance
-and bring it over to me next fortnight. Now, Somakhya stand up and tell
-the class what you think about the story.”
+Brahmin girl, Lootika is simply following the example of how her kind
+has operated since time immemorial — obfuscate simple, common sense
+things with elaborate stories packed with mumbo-jumbo.” The English
+teacher: “Tumul, you are unable to get the device of a metaphor. Now it
+is you who are are being long-winded to be mean to your classmate. We
+need to be more welcoming to our new students. Hence, I want you to
+write out the whole story in your own words properly explaining its
+significance and bring it over to me next fortnight. Now, Somakhya stand
+up and tell the class what you think about the story.”
 
 Somakhya: “I think there are two ways, not mutually exclusive ways, to
 look at it. First, due to conservation laws and the principle of entropy

@@ -1,7 +1,11 @@
 +++
 title = "The last flash of Sanskrit and the activities of the Indologists"
+date = "2006-04-17"
+upstream_url = "https://manasataramgini.wordpress.com/2006/04/17/the-last-flash-of-sanskrit-and-the-activities-of-the-indologists/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/04/17/the-last-flash-of-sanskrit-and-the-activities-of-the-indologists/).
+
 When I was going through the erudite works of the illustrious scholar
 and kaula tantrik from the Southern country, bhAskara-rAya makhIndra, it
 struck me that he was clearly a lineal descendent of that great
@@ -104,15 +108,16 @@ cataclysmic revolutions as seen in Europe. This is not in the interest
 of their Leukospheric masters and they accordingly are taking steps to
 counter the Hindu progress. The California books case, where these very
 American scholars participated in anti-Hindu activities is a case in
-point. We need take note of the fact they are also withholding Hindu
+point. We need take note of the fact they are also withholdingHindu
 manuscripts and making their access difficult for Hindus themselves in
 the guise of making them available to scholars only. Michael Witzel and
-his henchmen are known to be notorious for this and have developed links
+his henchmen are known to be notorious for this and have developedlinks
 to a distinct group of indologists spearheaded by Pollock are anchored
-to the very base of ekarAkShasatvam. Thus, on one hand the idea is to
+to the very base of ekarAkShasatvam. Thus, on one hand the idea isto
 keep Hindus themselves ignorant of their Sanskrit heritage, while using
 it anthropological study material for their careers. On the other it is
 the more sinister effort to further their larger geo-political ambitions
 for or within the Abrahamistic world by spreading sufficient subversion
-with their most potent surviving heathen enemy, the Hindus — for by
+with their most potent surviving heathen enemy,the Hindus — for by
 definition Abrahamism and the dharma are mutually exclusive.
+

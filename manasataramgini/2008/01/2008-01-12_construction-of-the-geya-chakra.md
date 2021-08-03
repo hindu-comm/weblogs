@@ -1,7 +1,13 @@
 +++
 title = "Construction of the geya-chakra"
+date = "2008-01-12"
+upstream_url = "https://manasataramgini.wordpress.com/2008/01/12/construction-of-the-geya-chakra/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/01/12/construction-of-the-geya-chakra/).
+
+
+
 [![](https://i2.wp.com/bp2.blogger.com/_hjuA1bE0hBw/R4guWtBuc0I/AAAAAAAAAB0/cL7OpgM6TV0/s320/geya_chakra.png)](http://bp2.blogger.com/_hjuA1bE0hBw/R4guWtBuc0I/AAAAAAAAAB0/cL7OpgM6TV0/s1600-h/geya_chakra.png)  
 The geya-chakra of saMgIta-yoginI
 
@@ -26,3 +32,4 @@ padma. They are all enclosed within a square bhUpUra. The entire
 construction as shown above can be achieved using a compass and
 straight-edge. Such a construction was performed using C.a.R. to
 generate this ideal representation of the yantra.
+

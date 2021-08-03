@@ -1,10 +1,14 @@
 +++
 title = "The engineer, the dead fish and the bag of earth-III"
+date = "2014-05-15"
+upstream_url = "https://manasataramgini.wordpress.com/2014/05/15/the-engineer-the-dead-fish-and-the-bag-of-earth-iii/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/05/15/the-engineer-the-dead-fish-and-the-bag-of-earth-iii/).
+
 [From chapter
 2](https://manasataramgini.wordpress.com/2014/05/12/the-engineer-the-dead-fish-and-the-bag-of-earth-ii/ "The engineer, the dead fish and the bag of earth-II")  
-jiva-rajjusarjo nAma tritIyo .adhyAyaH |  
+jiva-rajjusarjo nAma tritIyo .adhyAyaH \|  
 Somakhya and Lootika breezed through their doctoral programs in two and
 a half years after over coming several obstacles placed by mlechCha-s
 who stood like vR^itra-s and prahlAda-s in their path. In the process
@@ -188,16 +192,17 @@ touch and mobilize the chatur-bhaginyaH, for without them we will be
 like shiva the shava.” Somakhya went home early. He lit a ritual fire
 and after the preliminary oblations cast an oblation with the
 incantation:  
-namo rudrAya makhagne namaskR^ityA mA pAhi |  
-pratUrvan-nehy-avakrAman-nashastIH |  
-rudrasya gANapatyAN |  
-pUShNA sayujA saha svAhA ||
+namo rudrAya makhagne namaskR^ityA mA pAhi \|  
+pratUrvan-nehy-avakrAman-nashastIH \|  
+rudrasya gANapatyAN \|  
+pUShNA sayujA saha svAhA \|\|
 
 Then in the vicinity of the fire he started meditating on the following
 mantra, performing the act even as the boy bhArgava vipula, who had
 entered and taken over the wife of his teacher devasharman:  
-mAM dhur indraM nAma devatA divash cha gmash chApAM cha jantavaH |  
-ahaM shuShNasya shnathitA vadhar yamaM na yo rara AryaM nAma dasyave ||
+mAM dhur indraM nAma devatA divash cha gmash chApAM cha jantavaH \|  
+ahaM shuShNasya shnathitA vadhar yamaM na yo rara AryaM nAma dasyave
+\|\|
 
 Lootika awoke from her sleep with some discomfort. She thought she had
 been accidentally impacted by her bangles in her sleep and reached out
@@ -217,7 +222,7 @@ the vicinity for obtaining some samples for this impending trials with
 Harry Kornberg. Vidrum was shocked beyond words – the corpse he had set
 aside for harvesting the brain was now up and moving. While the corpse
 of a male it spoke in a familiar female voice: “How are you Vidrum? I
-will be in bhArata. May be could meet and talk a bit if you have some
+will be in bhArata. May be we could meet and talk a bit if you have some
 time.” After a while the corpse fell back lifeless as before. Vidrum was
 convinced he was hallucinating. Lootika started walking up to her shelf
 and picking up the keys of her car drove to her lab. She then walked up
@@ -234,5 +239,6 @@ a mail from Somakhya: “*Do not worry go home and sleep. We’ll unite
 again but do not forget to get along the bag of mud which you have just
 taken out.*”
 
-[To
-chapter 3](https://manasataramgini.wordpress.com/2014/05/21/the-engineer-the-dead-fish-and-the-bag-of-earth-iv/)
+[To chapter
+3](https://manasataramgini.wordpress.com/2014/05/21/the-engineer-the-dead-fish-and-the-bag-of-earth-iv/)
+

@@ -1,7 +1,11 @@
 +++
 title = "The rite of the solsticial day"
+date = "2004-12-17"
+upstream_url = "https://manasataramgini.wordpress.com/2004/12/17/the-rite-of-the-solsticial-day/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/12/17/the-rite-of-the-solsticial-day/).
+
 The old solsticial rite of the Indo-Aryans is performed on the second
 last-last day of the year (mahAvrata). The description of the oldest
 version of the rite is seen in the pa\~nchavimsha, aitareya and
@@ -34,38 +38,38 @@ shastras.
 5\) Then the performers rest for the night session as the sacrificial
 place is swept and the various accessories are brought and set up.
 
-\-A swing of udumbara fig wood is made for the hotar to sit on.
+-A swing of udumbara fig wood is made for the hotar to sit on.
 
-\-A seat for the udgAtar with a darbha grass cushion is made.
+-A seat for the udgAtar with a darbha grass cushion is made.
 
-\-The adhvaryu stands on cushion of kusha grass while chanting the
+-The adhvaryu stands on cushion of kusha grass while chanting the
 yajuses.
 
-\-The brahmA and other priests get reed mats.
+-The brahmA and other priests get reed mats.
 
-\-A vANa with 100 strings, with the body made of udumbara and handle of
+-A vANa with 100 strings, with the body made of udumbara and handle of
 palAsha woods, covered with a brown ox hide is readied for the udgAtar
 to accompany the sAma gAnaM. A reed bow decorated with leaves is used to
 play it.
 
-\-Following musical instruments to accompany the sAma ganaMs:
+-Following musical instruments to accompany the sAma ganaMs:
 avaghaTarikA (a pot instrument), alAbuvINA (a vINA), ghATakarkari (the
 pot-cymbals?), godhAvINAKA (vINA), kANDavINA (vINA) and picchorA (flute)
 are readied.
 
-\-6 mR^idanga drums are placed all around the saman singers
+-6 mR^idanga drums are placed all around the saman singers
 
-\-behind the AgnIdhra altar a hole is dug up in a hemispherical form and
+-behind the AgnIdhra altar a hole is dug up in a hemispherical form and
 covered with the hide of a sacrificed bull. This is the earth drum that
 is played to accompany the sAma gAnaM.
 
-\-a round piece of hide, held up by two posts is set up as an archery
+-a round piece of hide, held up by two posts is set up as an archery
 target to the left of the AgnIdhra fire.
 
-\-a chariot with a single horse with a bow and 3 arrows are readied for
+-a chariot with a single horse with a bow and 3 arrows are readied for
 the kShatriya to use.
 
-\-pots filled with water are readied for the dancing maidens
+-pots filled with water are readied for the dancing maidens
 
 6\) At night the prAtaranuvAka chant comprising of 1000 R^iks to indra
 from the R^ig and atharvan is chanted by the priests. Then an animal or
@@ -85,11 +89,11 @@ devas. He then puts down the sruk and stands in front of the sadas,
 north of the shruti altars, and faces east and in a low tone chants the
 parimAd formulae.
 
-\-The udgAtar sings the A\~ngirasa, bhuteChad, krosha, anukrosha, payas,
+-The udgAtar sings the A\~ngirasa, bhuteChad, krosha, anukrosha, payas,
 arka and arkapuShpa sAmans, with hotar in a low tone muttering the
 parimAds.
 
-\-He then invokes savitA in the sacrificial hut and returns to the sadas
+-He then invokes savitA in the sacrificial hut and returns to the sadas
 and holds the swing from behind. He then instructs the adhvaryu as to
 how to proceed and the prastotar regarding the stotriyas.
 
@@ -113,16 +117,16 @@ right hand touches the back of the swing and chants the prathama
 pratihAra and concludes with a prANAyAMa. The end of the chant all the
 drums stop beating and the maidens put down their jars on the mArjAlIYa.
 
-\-The prastotar then utters the formula ‘eShA’. The hotar then begins
+-The prastotar then utters the formula ‘eShA’. The hotar then begins
 chanting the niShkevalya shAstra to indra.
 
-\-The chants corresponding to different set of bones of the body are
+-The chants corresponding to different set of bones of the body are
 chanted
 
-\-The 9 sets of 80 R^iks to different devas corresponding to the 720
-days and nights of the normalized year are chanted.
+-The 9 sets of 80 R^iks to different devas corresponding to the 720 days
+and nights of the normalized year are chanted.
 
-\-Then he chants a 100 triShTub R^iks to indra, followed by the
+-Then he chants a 100 triShTub R^iks to indra, followed by the
 hirANyastUpa chant and the yAtaUtIya chant. Then the procession of the
 nakshatras in the sky is enacted by the combination of the sajanIya
 chant (RV2.12) and RV2.14 which together constitute 27 verses, one for
@@ -130,5 +134,6 @@ each nakshatra. The adhvaryu chants the nakshatra hymn for the 27
 nakshatras. This is followed by the sUkta of of vishvAmitra begining
 with A yAhy arvA\~N…
 
-\-finally the udubrahmIya hymn with viharaNa chandasaM permutation is
+-finally the udubrahmIya hymn with viharaNa chandasaM permutation is
 chanted.
+

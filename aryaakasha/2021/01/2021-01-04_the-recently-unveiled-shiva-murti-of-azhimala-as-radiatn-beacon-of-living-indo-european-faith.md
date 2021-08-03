@@ -1,8 +1,11 @@
 +++
-title = "The Recently Unveiled Shiva Murti Of Azhimala As Radiatn Beacon Of Living Indo-European FAITHxa0!"
-date = "January 4, 2021"
+title = "The Recently Unveiled Shiva Murti Of Azhimala As Radiatn Beacon Of Living Indo-European FAITH !"
+date = "2021-01-04"
+upstream_url = "https://aryaakasha.com/2021/01/04/the-recently-unveiled-shiva-murti-of-azhimala-as-radiatn-beacon-of-living-indo-european-faith/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/01/04/the-recently-unveiled-shiva-murti-of-azhimala-as-radiatn-beacon-of-living-indo-european-faith/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/01/eqp5to0xcaiq3hf.jpg?w=819)
 
 It is MONDAY – Lord Shiva’s Day :

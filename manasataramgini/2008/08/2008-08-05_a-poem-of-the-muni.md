@@ -1,7 +1,11 @@
 +++
 title = "A poem by the muni"
+date = "2008-08-05"
+upstream_url = "https://manasataramgini.wordpress.com/2008/08/05/a-poem-of-the-muni/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/08/05/a-poem-of-the-muni/).
+
 That muni, enlightened in the lore, but leading the ways of a vrAtya
 composed this poem in the days of peace, when he beheld a coconut
 shedding bark in our ancestral dwelling.  
@@ -52,7 +56,7 @@ spreading mayhem, anarchy, spite and rage:
 In the blood and gore that followed 1789,  
 when the noble heads rolled at the guillotine’s blade  
 and terror gripped all the land for a time  
-from this ferment was a nation remade\!
+from this ferment was a nation remade!
 
 And sometimes ‘tis just enduring stupidity.  
 The high ranking ones held: “Flat is the Earth”  
@@ -62,7 +66,7 @@ of that maiden by wide seas girth.
 Stupidity? Nay, unkind, perhaps, is my judgment.  
 For, long did the seers map the celestial spheres,  
 where the wanderers traveled retrograde the firmament  
-How so? The epicycle along a deferent veers\!
+How so? The epicycle along a deferent veers!
 
 The ultimate Truth it was not, but closer.  
 Verily there is no ultimate proof; Only falsification.  
@@ -113,3 +117,4 @@ Teasing and playing with the nymphs,
 many a heart he lightly wins;  
 Leaving a trail of joy o’er wood, hill, and stream  
 he comes and goes like a dream.
+

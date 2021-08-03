@@ -1,8 +1,12 @@
 +++
 title = "Some inquiries into the shrIlankan past"
+date = "2012-05-30"
+upstream_url = "https://manasataramgini.wordpress.com/2012/05/30/some-inquiries-into-the-shrilankan-past/"
 
 +++
-Whereas Hinduson the mainland in white indological parlance  are reputed
+Source: [here](https://manasataramgini.wordpress.com/2012/05/30/some-inquiries-into-the-shrilankan-past/).
+
+Whereas Hinduson the mainland in white indological parlance are reputed
 to have no historical sense and consquently no history, their cousins on
 the island are supposed to have a rich historical account in the form of
 the pALi mahAvaMsha and the chULavaMsha. These sources have been the bed
@@ -17,7 +21,7 @@ of dharma in the island. This has several historical dimensions that
 include: 1) The greater Astika influence and presence on the island in
 the past; 2) The worship of Astika devatA-s within the bauddha framework
 originally practiced on the island. 3) The role of the dramiDa-s,
-chera-s and kali\~Nga-s at different points in the development of
+chera-s and kali\~Nga-s at different points inthe development of
 practices in the island. A complete consideration of all this will
 require a monograph, but that is not our intention here. Instead, we
 simply collect a few vignettes that illustrate certain aspects of the
@@ -140,7 +144,7 @@ thus as per the sItArAman translation:
 After 5000 years of prosperity I will become a buddha,  
 like the moon over the Milky Way, lankA will shine in its greatness;  
 The golden screen of the palace of vaikuNTha opens;  
-May your compassion last a 5000 years, the deva arrives\!
+May your compassion last a 5000 years, the deva arrives!
 
 Seven chourie bearers holding golden bows and arrows on either side of  
 the blue screens and shining white umbrellas in the middle of the
@@ -149,13 +153,13 @@ deva upulavanna \[blue lotus colored\] deva nArAyaNa will become the
 buddha in the future.  
 May you O nArAyaNa kindly accept our offerings of flowers and tAmbula.
 
-vasudevaH parabrahmA tanmUrtiH puruShottama |  
-avyaktash cha nirguNash cha prAshAntAtmA tathaiva cha |  
-tvAm eva shrI mahAviShNus sunAmnA pujayAmy aham ||
+vasudevaH parabrahmA tanmUrtiH puruShottama \|  
+avyaktash cha nirguNash cha prAshAntAtmA tathaiva cha \|  
+tvAm eva shrI mahAviShNus sunAmnA pujayAmy ahaM \|\|
 
 OM hraM hrIM hrUM shrI mahAviShNu devAnAm adhideva asmin shubha kShaNe
 bhArata varShe pUrva-bhAgAt A gamat; abhighR^iNa, abhighR^iNa, nivAsaya,
-AdhAraya, AdhAraya, rakSha, rakSha, jayatu, jayatu ||
+AdhAraya, AdhAraya, rakSha, rakSha, jayatu, jayatu \|\|
 
 The first two shloka-s are in pAlI-sIMhala hybrid and represent the
 nAstika element. The remaining two are essentially saMskR^ita and the
@@ -180,3 +184,4 @@ their attempt for freedom. With the loss of the royal patronage, and
 English encouragement for nAstika separatism, the sthaviravAdin elements
 similar to the old maitreya and dharmakIrti gained an upper hand in
 their attempt to marginalize the worship of Astika deities.
+

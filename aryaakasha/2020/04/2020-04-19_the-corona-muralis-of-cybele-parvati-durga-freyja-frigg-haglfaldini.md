@@ -1,8 +1,11 @@
 +++
-title = "The Corona Muralis of Cybele, Parvati Durga, Freyja Friggxa0Haglfaldini"
-date = "April 19, 2020"
+title = "The Corona Muralis of Cybele, Parvati Durga, Freyja Frigg Haglfaldini"
+date = "2020-04-19"
+upstream_url = "https://aryaakasha.com/2020/04/19/the-corona-muralis-of-cybele-parvati-durga-freyja-frigg-haglfaldini/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/04/19/the-corona-muralis-of-cybele-parvati-durga-freyja-frigg-haglfaldini/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/04/93622221_10163346064685574_7982076640920338432_o.jpg?w=668)
 
 It is Friday – Therefore, Devi Durga Devotional (A)Art(I); and, as has

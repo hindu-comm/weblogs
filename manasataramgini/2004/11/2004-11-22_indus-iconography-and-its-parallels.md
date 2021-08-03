@@ -1,7 +1,11 @@
 +++
 title = "Indus iconography and its parallels"
+date = "2004-11-22"
+upstream_url = "https://manasataramgini.wordpress.com/2004/11/22/indus-iconography-and-its-parallels/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/11/22/indus-iconography-and-its-parallels/).
+
 As Thomas McEvilley pointed out there are numerous connections between
 Indus Valley (IVC) Iconography and those in the Middle East. The real
 significance of these clear connections have hardly been understood.
@@ -49,3 +53,4 @@ However we see absolutely no reason to postulate such a one way
 direction.
 
 And what does all this have to do with the Aryans?
+

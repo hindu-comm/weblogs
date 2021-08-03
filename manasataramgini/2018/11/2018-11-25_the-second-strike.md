@@ -1,7 +1,11 @@
 +++
 title = "The second strike"
+date = "2018-11-25"
+upstream_url = "https://manasataramgini.wordpress.com/2018/11/25/the-second-strike/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2018/11/25/the-second-strike/).
+
 [PDF
 version](https://manasataramgini.files.wordpress.com/2018/11/2nd_strike1.pdf)  
 **Childhood**  
@@ -49,7 +53,7 @@ incantation:”
 ‘I have made you swear (by) heaven and earth, (by)\[Anu\] and Antu, (by)
 Ellil and Ninlil, I have made you swear (by) Shin, Shamash and Adad,
 valiant gods. I have made you swear (by) (tuttubu-style) c\[loa\]k, (by)
-incense and ﬂour. Be far away, be\] faraway, be distant, be distant\!’  
+incense and ﬂour. Be far away, be\] faraway, be distant, be distant!’  
 Having read it out Lootika’s mother paused and asked her daughters:
 “Girls, what do you think is going on here?”  
 Jhileeka: “Mom, that sounds like somebody seized by one of the bhūta-s
@@ -220,18 +224,18 @@ as well a job as Somakhya or her elder sister as she had mastered these
 matters while in school itself. Vrishchika was more than happy to hold
 forth on the topic delving deep into the intricacies of receptor
 tyrosine kinases, followed by the signaling systems of the
-TGF-![\\beta](https://s0.wp.com/latex.php?latex=%5Cbeta&bg=ffffff&fg=333333&s=0
-"\\beta") family ligands, and then JAK-STAT signaling. By then Vidrum
-had reached the limits of his attention and with his concentration
-flagging he put down his pen. Vrischika: “Remember we are not done.
-There is still MAP kinase signaling and kinase-catalyzed AMPylation in
-the least to cover and finally I will discuss some pharmacology of
-kinase inhibitors.” Vidrum: “Thank you clever girl. I have a good body
-of notes that should put me in front of the whole class and probably the
-professor too now. I know you have much more to say but I’ll get them
-from you another day: with that I will be king\!. But I’ve been studying
-all day and need a little break at this moment.” Then pointing towards a
-corner of his desk: “Vrishchika, what do you think is in that box?”
+TGF-![\\beta](https://s0.wp.com/latex.php?latex=%5Cbeta&bg=ffffff&fg=333333&s=0&c=20201002)
+family ligands, and then JAK-STAT signaling. By then Vidrum had reached
+the limits of his attention and with his concentration flagging he put
+down his pen. Vrischika: “Remember we are not done. There is still MAP
+kinase signaling and kinase-catalyzed AMPylation in the least to cover
+and finally I will discuss some pharmacology of kinase inhibitors.”
+Vidrum: “Thank you clever girl. I have a good body of notes that should
+put me in front of the whole class and probably the professor too now. I
+know you have much more to say but I’ll get them from you another day:
+with that I will be king!. But I’ve been studying all day and need a
+little break at this moment.” Then pointing towards a corner of his
+desk: “Vrishchika, what do you think is in that box?”
 
 Vrishchika walked up to the table and picked up the little wooden box.
 She was a bit surprised upon opening it as it contained what were
@@ -296,23 +300,23 @@ leading to her house she looked around her as man can be more wicked
 than ghost: even in these familiar parts of the city a young woman in
 particular could never let down her guard. Knowing this she fingered her
 garala-śaṅkulā and feeling assured walked on. She passed by the
-śṛṅgāṭaka cart-man and the smell of the frying pastry and the
-chickpea sauce sent a signal through her olfactory receptors. It felt
-nice but she had transcended such temptations for a while now. However,
-her mind was distracted from her japa by that sensory stimulus. As her
-mind was wandering, she suddenly heard the blare of a car-horn beside
-her. Greatly startled, she looked to the road and was relieved to see
-that it was her father with her sisters. Varoli opened the door and she
-hopped in. The final stretch back home was covered in a couple of
-minutes during which Vrishchika informed her father that she had
-formally entered medical school by paying the fees and that classes
-would begin in a week.
+śṛṅgāṭaka cart-man and the smell of the frying pastry and the chickpea
+sauce sent a signal through her olfactory receptors. It felt nice but
+she had transcended such temptations for a while now. However, her mind
+was distracted from her japa by that sensory stimulus. As her mind was
+wandering, she suddenly heard the blare of a car-horn beside her.
+Greatly startled, she looked to the road and was relieved to see that it
+was her father with her sisters. Varoli opened the door and she hopped
+in. The final stretch back home was covered in a couple of minutes
+during which Vrishchika informed her father that she had formally
+entered medical school by paying the fees and that classes would begin
+in a week.
 
 The next evening Lootika and her family were having dinner. Normally,
 her parents in the manner of the Hindus of old spoke very little at
 their meals. But she and her sisters were not at all like that: dinner
 time was always the occasion for raucous conversation on all manner of
-things, which their parents never succeeded in stopping had become
+things, which their parents never succeeded in stopping and had become
 resigned to it — they even saw it as an opportunity to hear in on their
 daughters to make sure they were up to no mischief. But that day LM with
 a tinge of anxiety remarked to her husband: “Isn’t is strange that
@@ -333,7 +337,7 @@ Jh: “I know it is not a joke, mom. If you could somehow figure out that
 yesterday something untoward was going to happen and ask dad to ferry
 the agrajā-s, then don’t you think we as your daughters should at least
 have some of that capacity?”  
-Vri: “Could you at least tell us what happened.”  
+Vri: “Could you at least tell us what happened?”  
 LM: “Last night Vaidoorya’s fiance was visiting their home. She is to be
 married next month. He woke up around 2:00 AM complaining of a loud
 roaring in his ears. He then felt as though somebody kicked him, and his
@@ -351,7 +355,7 @@ slept well.” Then after a moment she remarked: “Oh, did you sense me
 wake up? It must have been that nightmarish renewal of memory in my
 dream.” Ind: “What was it dear?”. Vri: “Ah, an encounter with a
 particularly nasty brahmarākṣasī from old Vidrum’s lair returned in my
-dream\!”  
+dream!”  
 Ind: “Vidrum’s old lair seems to have been full of all manner of
 phantoms. Why, even his parting from that place brought a visitation on
 our [Somakhya and
@@ -495,8 +499,8 @@ Vri: “O Atri-putra, we too were much puzzled by that. We wondered if it
 was a case like the apparition of the old Scottish surgeon. But we got
 our answer not long ago when Vidrum’s house was being cleared for sale.
 Among the stones paved into his bathroom was one which bore the name Dr.
-J. Wilder. Evidently Wilder had translocated to regions of youth upon
-the death of this Vaṅga woman with her remains and they were buried
+J. Wilder. Evidently Wilder had translocated to the regions of our youth
+upon the death of this Vaṅga woman with her remains and they were buried
 close to his. Perhaps he too was one of the phantoms harassing Vidrum
 and his family.”  
 Indrasena: “Gautamī, it looks as though a trait segregated in an almost

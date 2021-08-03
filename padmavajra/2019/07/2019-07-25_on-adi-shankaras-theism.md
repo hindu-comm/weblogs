@@ -1,8 +1,11 @@
 +++
 title = "On Adi sha~Nkara’s theism"
 date = "2019-07-25"
+upstream_url = "https://padmavajra.net/2019/07/25/on-adi-shankaras-theism/"
 
 +++
+Source: [here](https://padmavajra.net/2019/07/25/on-adi-shankaras-theism/).
+
 Ghora: My conclusion (in short):
 
 1\. shaMkara had no qualms with either shiva or viSNu being kAryabrahman

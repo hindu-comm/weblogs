@@ -1,7 +1,11 @@
 +++
 title = "Mongolica: Chingiz Khan and the rest"
+date = "2017-07-30"
+upstream_url = "https://manasataramgini.wordpress.com/2017/07/30/mongolica-chingiz-khan-and-the-rest/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2017/07/30/mongolica-chingiz-khan-and-the-rest/).
+
 As we have remarked [many
 times](https://manasataramgini.wordpress.com/2004/08/19/the-death-of-chingiz-khakhan/)
 on these pages there was Chingiz Khan and the rest. No ruler ever
@@ -47,7 +51,7 @@ mountains near the Orkhon river in Central Mongolia as a holy territory
 of the Khans. It is notable that the Chingiz Khan and his successors
 recognized this region and established their capital of Qara Qorum in
 this region. This supports the continuity hinted by Chingiz recognizing
-the Shanyu the Xiongnu as a temporal predecessor in his letter to the
+the Shanyu of the Xiongnu as a temporal predecessor in his letter to the
 cīna sage Chiu Chuji. Thus, the foundational Hun empire defined the
 religious geography of the later Mongolic homeland. Importantly, these
 early Huns instituted the system of the imperial guard. This was to play
@@ -72,7 +76,7 @@ Tang dynasty under their resourceful Khan Ambaqai (sinicized as Abaoji).
 Thus, they brought to the Mongolic world key political, administrative
 (e.g. the postal system) and knowledge developments that had occurred
 during the high-point of Chinese civilization. In their second phase,
-despite their loss of northern China to the Jurchen, they were able to
+despite losing northern China to the Jurchen, they were able to
 reestablish a strong kingdom in central Asia under Khan Yelü Dashi. This
 kingdom played an important role in keeping in check Mohammedan terror
 and also developing an administrative model which could adopted by
@@ -107,7 +111,7 @@ Mongols by the Khitan. As per this scenario they followed the Khitan
 from a center in what is now Manchuria or close to it to move into
 Mongolia once the Khitan had defeated various Turkic groups that existed
 before before them. But how does this square with their link to the
-earlier Xiongu Shanyu and the holy center at Qara Qorum? We hold that
+earlier Xiongnu Shanyu and the holy center at Qara Qorum? We hold that
 after the break-up of the Rouran Khanate one of the tribes descending
 from their old confederation but distinct from the Mongolic people, the
 Turks (who to start might have had some Śaka ancestry), took power in
@@ -208,8 +212,8 @@ poignantly seen in the early Indo-European peoples including our own
 Aryan ancestors who settled in India. The later waves of their
 successors like the Śaka-s and subsequently groups like the Huns also
 fall into the above pattern. The only possible exception were the
-Kuṣāṇa-s who did achieve something like what the Chingizid Mongols
-did albeit on a clearly smaller scale. Importantly, they could not hold
+Kuṣāṇa-s who did achieve something like what the Chingizid Mongols did
+albeit on a clearly smaller scale. Importantly, they could not hold
 their original steppe centers close to Mongolia, which they lost to the
 Altaic peoples. Further, they could bridge their successes in the
 eastern and western steppes and India into a completely stable coherent
@@ -315,14 +319,13 @@ production went on to allow extensive documentation of the newly
 acquired knowledge. This trend continued among the successors of the
 Chingiz Khan with Hülegü having Nasser ad-din al Tusi take the books
 that mattered most, like those on astronomy and medicine, from the
-Hāśīśin library upon the sack of their citadel. He also recognized
-the value of a individual like Nasser for his knowledge while
-demolishing the rest of the Mohammedan edifice. His brother Qublai
-Khan’s astronomical observatory employing astronomers across the
-empire was another example of the interest in knowledge in a more
-general sense. Finally, Qublai’s chartering of several thousands of
-schools throughout his realm allowed this knowledge to plowed back into
-the population.
+Hāśīśin library upon the sack of their citadel. He also recognized the
+value of a individual like Nasser for his knowledge while demolishing
+the rest of the Mohammedan edifice. His brother Qublai Khan’s
+astronomical observatory employing astronomers across the empire was
+another example of the interest in knowledge in a more general sense.
+Finally, Qublai’s chartering of several thousands of schools throughout
+his realm allowed this knowledge to plowed back into the population.
 
 5\) This vision of the of the unified “world” system is encapsulated in
 the idea of the Chingizids to have a single script to write all the
@@ -361,18 +364,20 @@ the Islamic Jihad had a fairly strong sense of comprehensively clearing
 out the Mohammedans in their early years but lacked the geographically
 strategic planning and use of outflanking in their campaigns that
 Chingiz showed. This was their undoing in the end. Among the Hindus in
-recent times Chatrapati Śivaji alone comes across as a parallel to
+recent times Chatrapati Śivāji alone comes across as a parallel to
 Chingiz in his energy and audacity. His geographical strategic planning
-was impeccable in many ways like the great Khan. His successors showed
-the same lack of the grasp of the religious dimension as the Chingizids.
-Importantly, other than Śivajī and perhaps Hambirrāv Mohite and Moro
-Tryambak Pingle they clearly lacked a pool of talent for independent
-strategic and tactical virtuosity, which we see among the deputies of
-the great Khan both from his family and the larger Mongol circle –
-Qasar, Tolui, Boghorju, Muqali, Jebe, Subedai and Chormagan. Even with
-Śivajī’s greatest successor Bajirāv-I we see among his deputies a
-lesser commitment to the great cause – other than Pilājī Jādhav (at some
-level also a mentor) and Rāṇoji Śinde the best of his other deputies
-seem to have questionable in terms of loyalty. Thus, the achievements of
-the Marāṭhā-s, while ensuring our survival to date, still fell short of
-their intended goal of re-establishing the unified Hindu nation.
+was impeccable in many ways like the great Khan. His eventual successors
+(barring Śambhu) showed the same lack of the grasp of the religious
+dimension as the Chingizids. Importantly, other than Śivājī and perhaps
+Hambirrāv Mohite, the amātya and Moro Tryambak Pingle they clearly
+lacked a pool of talent for independent strategic and tactical
+virtuosity, which we see among the deputies of the great Khan both from
+his family and the larger Mongol circle – Qasar, Tolui, Boghorju,
+Muqali, Jebe, Subedai and Chormagan. Even with Śivājī’s greatest
+successor Bajirāv-I we see among his deputies a lesser commitment to the
+great cause – other than Pilājī Jādhav (at some level also a mentor) and
+Rāṇoji Śinde the best of his other deputies seem to have questionable in
+terms of loyalty. Thus, the achievements of the Marāṭhā-s, while
+ensuring our survival to date, still fell short of their intended goal
+of re-establishing the unified Hindu nation.
+

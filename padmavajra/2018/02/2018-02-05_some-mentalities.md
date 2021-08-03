@@ -1,8 +1,11 @@
 +++
 title = "Some mentalities"
-date = "2018-02-05"
+date = "2018-05-02"
+upstream_url = "https://padmavajra.net/2018/02/05/some-mentalities/"
 
 +++
+Source: [here](https://padmavajra.net/2018/02/05/some-mentalities/).
+
 Some mentalities like the one mentioned in [this section(page 71 of the
 PDF
 document)](http://estudantedavedanta.net/laghu-yoga-vasishta-english-translation.pdf#page=71)

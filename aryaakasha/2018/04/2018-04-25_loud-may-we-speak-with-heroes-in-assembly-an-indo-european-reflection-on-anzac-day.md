@@ -1,8 +1,11 @@
 +++
-title = "“Loud May We Speak, With Heroes In Assembly” – An Indo-European Reflection On ANZACxa0Day"
-date = "April 25, 2018"
+title = "“Loud May We Speak, With Heroes In Assembly” – An Indo-European Reflection On ANZAC Day"
+date = "2018-04-25"
+upstream_url = "https://aryaakasha.com/2018/04/25/loud-may-we-speak-with-heroes-in-assembly-an-indo-european-reflection-on-anzac-day/"
 
 +++
+Source: [here](https://aryaakasha.com/2018/04/25/loud-may-we-speak-with-heroes-in-assembly-an-indo-european-reflection-on-anzac-day/).
+
 ![p-21084-atl](https://aryaakasha.files.wordpress.com/2018/04/p-21084-atl.jpg?w=676)  
 *\[pictured: a parade of New Zealand veterans of the Gallipoli campaign
 – the original ANZACs – ANZAC Day 1958\]*

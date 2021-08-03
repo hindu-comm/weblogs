@@ -1,7 +1,11 @@
 +++
 title = "The mAtR^ikA krama"
+date = "2012-12-20"
+upstream_url = "https://manasataramgini.wordpress.com/2012/12/20/the-matrika-krama/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/12/20/the-matrika-krama/).
+
 [![](https://lh4.googleusercontent.com/-KqTpK6jJqmU/UNdLLUTP71I/AAAAAAAACgE/O-cneayo4vc/s800/mAtR%255Eikas7.jpg)](https://picasaweb.google.com/lh/photo/nawQ7CarQWNnA1s1f8jeL9MTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
 The worship of the mAtR^ikA-s lies at the root of the kaula system. We
@@ -22,55 +26,55 @@ himself is seated facing east. If he is accompanied by a consecrated
 (dIkShitA) kulA\~NganA, she sits facing west opposite to him. They then
 recite the following to initiate the rite:
 
-shuklAmbaradharaM viShNuM shashi varNaM chaturbhujam |  
-prasanna vadanaM dhyAyet sarva vighnopa shAntaye ||
+shuklAmbaradharaM viShNuM shashi varNaM chaturbhujam \|  
+prasanna vadanaM dhyAyet sarva vighnopa shAntaye \|\|
 
-atha mAtR^ikA-kramaM kariShyAmi siddhir bhavatu me sadA ||
+atha mAtR^ikA-kramaM kariShyAmi siddhir bhavatu me sadA \|\|
 
 For each goddess/vIrabhadra he first begins with the following
 invocation:  
-brAhmIm AvAhayAmi dhyAyAmi namAmi |  
-mAheshvarIm AvAhayAmi dhyAyAmi namAmi |  
-kaumArIm AvAhayAmi dhyAyAmi namAmi |  
-vaiShNavIm AvAhayAmi dhyAyAmi namAmi |  
-varAhIm AvAhayAmi dhyAyAmi namAmi |  
-indrANIm AvAhayAmi dhyAyAmi namAmi |  
-chAmuNDAm AvAhayAmi dhyAyAmi namAmi |  
-vIrabhadram AvAhayAmi dhyAyAmi namAmi |
+brAhmIm AvAhayAmi dhyAyAmi namAmi \|  
+mAheshvarIm AvAhayAmi dhyAyAmi namAmi \|  
+kaumArIm AvAhayAmi dhyAyAmi namAmi \|  
+vaiShNavIm AvAhayAmi dhyAyAmi namAmi \|  
+varAhIm AvAhayAmi dhyAyAmi namAmi \|  
+indrANIm AvAhayAmi dhyAyAmi namAmi \|  
+chAmuNDAm AvAhayAmi dhyAyAmi namAmi \|  
+vIrabhadram AvAhayAmi dhyAyAmi namAmi \|
 
 After the invocation formula specific to each goddess in the above list
 he follows it with the performance of pa\~nchopachAra pUjA for her
 thus:  
 Scent offering (He smears sandal paste on the yonyAkAra dIpa): laM
-pR^ithivyAtmikAyai gandhaM samarpayAmi |  
+pR^ithivyAtmikAyai gandhaM samarpayAmi \|  
 Flower offering (He places flowers around the yonyAkAra dIpa): haM
-AkAshAtmikAyai puShpaiH pUjayAmi |  
+AkAshAtmikAyai puShpaiH pUjayAmi \|  
 Incense offering (He waves the incense stick before the yonyAkAra dIpa):
-yaM vAyvAtmikAyai dhUpamAghrAyAmi |  
+yaM vAyvAtmikAyai dhUpamAghrAyAmi \|  
 The lamp offering (He waves burning camphor before the yonyAkAra dIpa):
-raM agnyAtmikAyai dIpaM darshayAmi |  
+raM agnyAtmikAyai dIpaM darshayAmi \|  
 The food offering (He offers naivedya of sugar cane juice, vaTaka-s etc
 or whatever food offering he has): vam amR^itAtmikAyai
-amrita-mahAnaivedyam nivedayAmi |  
+amrita-mahAnaivedyam nivedayAmi \|  
 The total offering (He bows to the yonyAkAra dIpa): saM sarvAtmikAyai
-sarvopachAra-pUjAM samarpayAmi |
+sarvopachAra-pUjAM samarpayAmi \|
 
 He then offers tarpaNa-s uttering the formula specific to the given
 devI:  
 OM + brAhmIM; mAheshvarIM; kaumArIM; vaiShNavIM; vArAhIM; indrANIM;
-chAmuNDAM + tarpayAmi | (3 or 10 X)
+chAmuNDAM + tarpayAmi \| (3 or 10 X)
 
 When he comes to vIrabhadra he performs the pa\~nchopachAra pUjA for him
 thus:  
-laM pR^ithivyAtmane gandhaM samarpayAmi |  
-haM AkAshAtmane puShpaiH pUjayAmi |  
-yaM vAyvAtmane dhUpam AghrApayAmi |  
-raM agnyAtmane dIpaM darshayAmi |  
-vam amR^itAtmane amR^itaM mahAnaivedyaM nivedayAmi |  
-saM sarvAtmane sarvopachArapUjAM samarpayAmi |
+laM pR^ithivyAtmane gandhaM samarpayAmi \|  
+haM AkAshAtmane puShpaiH pUjayAmi \|  
+yaM vAyvAtmane dhUpam AghrApayAmi \|  
+raM agnyAtmane dIpaM darshayAmi \|  
+vam amR^itAtmane amR^itaM mahAnaivedyaM nivedayAmi \|  
+saM sarvAtmane sarvopachArapUjAM samarpayAmi \|
 
 He follows this with the tarpaNa of vIrabhadra:  
-OM vIrabhadraM tarpayAmi | (3/10 X)
+OM vIrabhadraM tarpayAmi \| (3/10 X)
 
 If accompanied by his kulA\~NganA, he performs the secret ritual of
 pleasure accompanying each of the upachAra, which the kaula ritualist
@@ -97,39 +101,39 @@ vIrabhadra – Northeast – nose
 
 After the tarpaNa of each deity he then recites the below mantra each
 time followed by the specific mAtR^ikA mantra:  
-nama AvyadhinIbhyo namaH | vividhyantIbhyashcha namaH | vo namaH | nama
-ugaNabhyo namaH | tR^iMhatIbhyashcha namaH | vo namaH || (c.f.
+nama AvyadhinIbhyo namaH \| vividhyantIbhyashcha namaH \| vo namaH \|
+nama ugaNabhyo namaH \| tR^iMhatIbhyashcha namaH \| vo namaH \|\| (c.f.
 shatarUdrIya, TS).
 
 If he is an atharvavedIn he instead utters the mantra:  
-namas te ghoShiNIbhyo namas te keshinIbhyaH |  
-namo namaskR^itAbhyo namaH saMbhu\~njatIbhyaH |  
-namas te jAyamAnAyai jAtAyai uta te namaH || (c.f. AV-P 16.107.1b)
+namas te ghoShiNIbhyo namas te keshinIbhyaH \|  
+namo namaskR^itAbhyo namaH saMbhu\~njatIbhyaH \|  
+namas te jAyamAnAyai jAtAyai uta te namaH \|\| (c.f. AV-P 16.107.1b)
 
 The specific mAtR^ikA mantra-s are:  
-brAhmI: OM bhUr bhuvas svaH | tat savitur vareNyaM bhargo devasya
-dhImahi | dhiyo yo naH prachodayAt | brAhmyai huM phaT namaH ||
+brAhmI: OM bhUr bhuvas svaH \| tat savitur vareNyaM bhargo devasya
+dhImahi \| dhiyo yo naH prachodayAt \| brAhmyai huM phaT namaH \|\|
 
-mAheshvarI: OM bhuvaH | OM bhUr bhuvas svaH | tat savitur vareNyaM
-bhargo devasya dhImahi | dhiyo yo naH prachodayAt | mAheshvaryai huM
-phaT namaH ||
+mAheshvarI: OM bhuvaH \| OM bhUr bhuvas svaH \| tat savitur vareNyaM
+bhargo devasya dhImahi \| dhiyo yo naH prachodayAt \| mAheshvaryai huM
+phaT namaH \|\|
 
 kaumArI: kvAm OM namo bhagavatyai kaumaryai shikhivahanyai mAM pAlaya
 pAlaya sakalAsuramardini ehy ehi ripUn mardaya mardaya huM huM phaT
-svAhA ||
+svAhA \|\|
 
-vaiShNavI: OM vaM saM tat savitur vareNiyaM bhargo devasya dhImahi |
-dhiyo yo naH prachodayAt | vaiShNavyai huM phaT namaH ||
+vaiShNavI: OM vaM saM tat savitur vareNiyaM bhargo devasya dhImahi \|
+dhiyo yo naH prachodayAt \| vaiShNavyai huM phaT namaH \|\|
 
-vArAhI: vaM vArAhyai namaH ||
+vArAhI: vaM vArAhyai namaH \|\|
 
-indrANI: OM bhUr bhuvas svaH | indrAnI mAsu nArisu supatnI mahamashravam
-| na hyasyA .aparam cha na jarasAmarate patiH | svaH bhuvaH bhUrOM namaH
-||
+indrANI: OM bhUr bhuvas svaH \| indrAnI mAsu nArisu supatnI
+mahamashravam \| na hyasyA .aparam cha na jarasAmarate patiH \| svaH
+bhuvaH bhUrOM namaH \|\|
 
-chamuNDA: hrIM namo bhagavatyai chAmuNDIshvaryai |
+chamuNDA: hrIM namo bhagavatyai chAmuNDIshvaryai \|
 sarva-shatru-vinAshinI sarva-loka-bhayaMkarI ehyehi mAM rakSha rakSha
-mama shatrUn bhakShaya bhakShaya huM phaT namaH ||
+mama shatrUn bhakShaya bhakShaya huM phaT namaH \|\|
 
 For the deployment of each of the above mantra-s the deshika performs
 the visualization of the respective goddess by reciting the below dhyAna
@@ -137,155 +141,156 @@ verses. If he is accompanied by his dUtI he invokes the goddess into her
 and also visualizes the goddess in her.
 
 brAhmI:  
-raktAM rakta-sumAlya-lepa-vasanAM bhUShAdibhir-bhUShitAm |  
-shuddhAM smera-chatur-mukhIM shubhataragrIvAM dvinetrAMchalAm ||  
-devIM daNDa-kamaNDaluM-sruva-sruchAkSha-srag-karAMbhoruhAm |  
-brAhmIM bhakta-janeShTadAna-niratAM vande suhaMsAsanAm ||
+raktAM rakta-sumAlya-lepa-vasanAM bhUShAdibhir-bhUShitAM \|  
+shuddhAM smera-chatur-mukhIM shubhataragrIvAM dvinetrAMchalAM \|\|  
+devIM daNDa-kamaNDaluM-sruva-sruchAkSha-srag-karAMbhoruhAM \|  
+brAhmIM bhakta-janeShTadAna-niratAM vande suhaMsAsanAM \|\|
 
 mAheshvarI:  
-shvetAbhAM shveta-vastrAM kuchabharanamitAM shveta-mAlyAbhirAmAm |  
-tredhA shUlaM kapAlaM kanaka-maNi-japAsrag-vahantIM karAbjaiH ||  
-vande .anaDvAha-rUDhAM smita-vishada-chatur-vaktra-padmAM trinetrAm |  
-mAheshIM snighdha-keshIM maNimaya-valayAM manyu-yuktAM prasannAm ||
+shvetAbhAM shveta-vastrAM kuchabharanamitAM shveta-mAlyAbhirAmAm \|  
+tredhA shUlaM kapAlaM kanaka-maNi-japAsrag-vahantIM karAbjaiH \|\|  
+vande .anaDvAha-rUDhAM smita-vishada-chatur-vaktra-padmAM trinetrAM \|  
+mAheshIM snighdha-keshIM maNimaya-valayAM manyu-yuktAM prasannAM \|\|
 
 kaumArI:  
-pItAbhAM shakti-khaDgAbhaya-vara-subhujAM pItamAlyAM shukADhyAm |  
-devIM barhAdhirUDhAM himakara-shakalA baddha-nIlAlakAntAm ||  
-nAnA-ratnair virachitair anukhachita-mahAbhUShaNair bhUShitA\~NgAm |  
-dhyAyet sarvArtha-siddhyai praNata-bhayaharAM divyahArAM kumArIm ||
+pItAbhAM shakti-khaDgAbhaya-vara-subhujAM pItamAlyAM shukADhyAM \|  
+devIM barhAdhirUDhAM himakara-shakalA baddha-nIlAlakAntAM \|\|  
+nAnA-ratnair virachitair anukhachita-mahAbhUShaNair bhUShitA\~NgAM \|  
+dhyAyet sarvArtha-siddhyai praNata-bhayaharAM divyahArAM kumArIM \|\|
 
 vaiShNavI:  
-marakata-maNi-nIlA nIlavAsovasAnA |  
-vidhR^ita maNi-japAsrag-kaMbu-chakrAmbujADhyA ||  
-chapala-garuDAruDhA sarvato vaktra-padmA |  
-dishatu sumaghadeyI jivanI vaiShNavI naH ||
+marakata-maNi-nIlA nIlavAsovasAnA \|  
+vidhR^ita maNi-japAsrag-kaMbu-chakrAmbujADhyA \|\|  
+chapala-garuDAruDhA sarvato vaktra-padmA \|  
+dishatu sumaghadeyI jivanI vaiShNavI naH \|\|
 
 vArAhI:  
-vajropalasamAM nIlAM prasannAM mahiShAsanAm |  
-sarva-dukhaharAM ghorAM stabdhalomAnanAM numaH ||
+vajropalasamAM nIlAM prasannAM mahiShAsanAM \|  
+sarva-dukhaharAM ghorAM stabdhalomAnanAM numaH \|\|
 
 indrANI:  
-hemAbhAM varamAlikAbhirachitAM hemAM prasannAnanAm |  
-nAnA-ratna-vibhUShitAM nava-navAM nAthAM harIshAdinAm ||  
-mAyAtIta-parAkramAM mada-gaja-skandhe-nibaddhAsanAm |  
-vande nAga-vinAshinIM vanakaraM vajrAyudhodyat-karAm ||
+hemAbhAM varamAlikAbhirachitAM hemAM prasannAnanAM \|  
+nAnA-ratna-vibhUShitAM nava-navAM nAthAM harIshAdinAM \|\|  
+mAyAtIta-parAkramAM mada-gaja-skandhe-nibaddhAsanAM \|  
+vande nAga-vinAshinIM vanakaraM vajrAyudhodyat-karAM \|\|
 
 chAmuNDA:  
-dhyAyet pretAsanasthAM musala-shara-gadA-khaDga-kuntAsy-abhItIH |  
-gotrAdAnaM sharAsaM-parigha-jaladhikaM-pAsha-kheTaM-varaM cha ||  
-hastAMbhojair vahantIM shashi-ravI-nayanAM akSha-varNAtma-rUpAm |  
-chAmuNDAM muNDamAlAM sakala-ripuharAM shyAmalAM komalA\~NgIm ||
+dhyAyet pretAsanasthAM musala-shara-gadA-khaDga-kuntAsy-abhItIH \|  
+gotrAdAnaM sharAsaM-parigha-jaladhikaM-pAsha-kheTaM-varaM cha \|\|  
+hastAMbhojair vahantIM shashi-ravI-nayanAM akSha-varNAtma-rUpAM \|  
+chAmuNDAM muNDamAlAM sakala-ripuharAM shyAmalAM komalA\~NgIM \|\|
 
 For vIrabhadra he uses the following mantra (he invokes vIrabhadra in
 his own forehead):  
-namo gaNebhyo namaH | gaNapatibhyash cha namaH | vo namaH ||  
+namo gaNebhyo namaH \| gaNapatibhyash cha namaH \| vo namaH \|\|  
 An atharvavedIn instead utters the incantation:  
-rudrasyailabakArebhyo .asaMsUktagilebhyo .akaraM namaH ||
+rudrasyailabakArebhyo .asaMsUktagilebhyo .akaraM namaH \|\|
 
 Any of the above are followed by:  
 OM vIrabhadrAya vairivaMsha-vinAshAya sarvalokabhayaMkarAya bhImAveShaya
-huM phaT shmrauM shmrauM hrIM khaM phaT ripUn phaT namaH ||
+huM phaT shmrauM shmrauM hrIM khaM phaT ripUn phaT namaH \|\|
 
 He visualizes vIrabhadra thus:  
-marakata-maNi-nIla ki\~NkiNI-jAla-mAlam |  
-prakaTita-mukham-IshaM bhAnu-somAgni-netram |  
-ari-daram-asi-kheTaty-agra-muNDAgra-hastam |  
-vidhudharam-ahi-bhUShaM vIrabhadraM namAmi ||
+marakata-maNi-nIla ki\~NkiNI-jAla-mAlam \|  
+prakaTita-mukham-IshaM bhAnu-somAgni-netram \|  
+ari-daram-asi-kheTaty-agra-muNDAgra-hastam \|  
+vidhudharam-ahi-bhUShaM vIrabhadraM namAmi \|\|
 
 Then he invokes rudra in the flame of the yonyAkAra dIpa:  
-bhavam AvAhayAmi dhyAyAmi namAmi |  
-sharvam AvAhayAmi dhyAyAmi namAmi |  
-ishAnam AvAhayAmi dhyAyAmi namAmi |  
-pashupatim AvAhayAmi dhyAyAmi namAmi |  
-rudram AvAhayAmi dhyAyAmi namAmi |  
-ugram AvAhayAmi dhyAyAmi namAmi |  
-bhImam AvAhayAmi dhyAyAmi namAmi |  
-mahAdevam AvAhayAmi dhyAyAmi namAmi |
+bhavam AvAhayAmi dhyAyAmi namAmi \|  
+sharvam AvAhayAmi dhyAyAmi namAmi \|  
+ishAnam AvAhayAmi dhyAyAmi namAmi \|  
+pashupatim AvAhayAmi dhyAyAmi namAmi \|  
+rudram AvAhayAmi dhyAyAmi namAmi \|  
+ugram AvAhayAmi dhyAyAmi namAmi \|  
+bhImam AvAhayAmi dhyAyAmi namAmi \|  
+mahAdevam AvAhayAmi dhyAyAmi namAmi \|
 
 He then performs the pa\~nchopachAra:  
-laM pR^ithivyAtmane gandhaM samarpayAmi |  
-haM AkAshAtmane puShpaiH pUjayAmi |  
-yaM vAyvAtmane dhUpam AghrApayAmi |  
-raM agnyAtmane dIpaM darshayAmi |  
-vam amR^itAtmane amR^itaM mahAnaivedyaM nivedayAmi |  
-saM sarvAtmane sarvopachArapUjAM samarpayAmi |
+laM pR^ithivyAtmane gandhaM samarpayAmi \|  
+haM AkAshAtmane puShpaiH pUjayAmi \|  
+yaM vAyvAtmane dhUpam AghrApayAmi \|  
+raM agnyAtmane dIpaM darshayAmi \|  
+vam amR^itAtmane amR^itaM mahAnaivedyaM nivedayAmi \|  
+saM sarvAtmane sarvopachArapUjAM samarpayAmi \|
 
 Then he performs the tarpaNa:  
-bhavaM tarpayAmi |  
-sharvaM tarpayAmi |  
-ishAnaM tarpayAmi |  
-pashupatiM tarpayAmi |  
-rudraM tarpayAmi |  
-ugraM tarpayAmi |  
-bhImaM tarpayAmi |  
-mahAdevaM tarpayAmi |
+bhavaM tarpayAmi \|  
+sharvaM tarpayAmi \|  
+ishAnaM tarpayAmi \|  
+pashupatiM tarpayAmi \|  
+rudraM tarpayAmi \|  
+ugraM tarpayAmi \|  
+bhImaM tarpayAmi \|  
+mahAdevaM tarpayAmi \|
 
 Then he identifies with rudra and deploys the pa\~nchabrahma mantra-s
 followed by kad rudrAya:  
-sadyojAtaM prapadyAmi sadyojAtAya vai namo namaH |  
-bhave bhave nAtibhave bhavasva mAm |  
-bhavodbhavAya namaH ||
+sadyojAtaM prapadyAmi sadyojAtAya vai namo namaH \|  
+bhave bhave nAtibhave bhavasva mAm \|  
+bhavodbhavAya namaH \|\|
 
-vAmadevAya namo jyeshThAya namash shreshThAya namo rudrAya namaH kAlAya
+vAmadevAya namo jyeshThAya namash shreshThAya namo rudrAya namaHkAlAya
 namaH kalavikaraNAya namo balavikaraNAya namo balAya
-namo balapramathanAya namas sarva-bhUtadamanAya namo manonmanAya namaH
-||
+namobalapramathanAya namas sarva-bhUtadamanAya namo manonmanAya namaH
+\|\|
 
-aghorebhyo .atha ghorebhyo ghora-ghoratarebhyaH |  
-sarvebhyas sarva-sharvebhyo namaste astu rudra rUpebhyaH ||
+aghorebhyo .atha ghorebhyo ghora-ghoratarebhyaH \|  
+sarvebhyas sarva-sharvebhyonamaste astu rudra rUpebhyaH \|\|
 
-tat puruShAya vidmahe mahAdevAya dhImahi |  
-tanno rudraH prachodayAt ||
+tat puruShAya vidmahe mahAdevAya dhImahi \|  
+tanno rudraH prachodayAt \|\|
 
 IshAnas sarva-vidyAnAm Ishvaras sarva-bhUtAnAm brahmA.adhipatir
-brahmaNo.adhipatir brahmA |  
-shivo me astu sadAshivOm ||
+brahmaNo.adhipatir brahmA \|  
+shivo me astu sadAshivOM \|\|
 
-kad rudrAya prachetase mIDhushTamAya tavyase |  
-vo chema shantamaM hR^ide |  
-sarvo hy eSha rudras tasmai rudrAya namo astu ||
+kad rudrAya prachetase mIDhushTamAya tavyase \|  
+vo chema shantamaM hR^ide \|  
+sarvo hy eSha rudras tasmai rudrAya namo astu \|\|
 
 The atharvavedin replaces the kad rudrAya mantra with the following
 triad of mantra-s:
 
-yas samAno yo .asamAno .amitro no jighAMsati |  
-rudraH sharavyayA tAn amitrAn no vi vidhyatu || AV-P 1.20.3
+yas samAno yo .asamAno .amitro no jighAMsati \|  
+rudraH sharavyayA tAn amitrAn no vi vidhyatu \|\| AV-P 1.20.3
 
-rudra yat te guhyaM nAma yat te addhAtayo viduH |  
-shivA sharavyA yA tava tayA no mR^iDa jIvase || AV-P 1.95.2
+rudra yat te guhyaM nAma yat te addhAtayo viduH \|  
+shivA sharavyA yA tava tayA no mR^iDa jIvase \|\| AV-P 1.95.2
 
-stuhi shrutaM gartasadaM janAnAM rAjAnaM bhImam upahatnum ugram |  
-mR^iDa jaritre rudra ha stavAno anyam asut te ni vapantu senyam || AV-P
-18.60.10
+stuhi shrutaM gartasadaM janAnAM rAjAnaM bhImam upahatnum ugraM \|  
+mR^iDa jaritre rudra ha stavAno anyam asut te ni vapantu senyaM \|\|
+AV-P 18.60.10
 
 His dUtI, if present, performs the yoga of the pleasing of rudra
 mentally meditating on rudra as the great fire.
 
 The visualization for rudra is done with the following dhyAna shloka:  
-dhyAyAmi vai rudra-rUpaM sarva-loka-maheshvaram |  
-shuddha-sphaTika-saMkAShaM triNetraM pa\~ncha-vaktrakam ||  
-ga\~NgAdharaM daSha-bhujaM sarvAbharaNa-bhUshitam |  
-nIlagrIvaM shashA\~NkA\~NkaM nAga-yaj\~nopavItinam ||  
-vyAghra-charmottariyaM cha vareNyam abhayapradam |  
-kamaNDvalv-aksha-sUtrANi dhAriNaM shUlapANinam ||  
-jvalantaM pi\~Ngala-jaTaM shikhAmadhyoda-dhAriNam |  
-vR^iSha-skandha samArUDhaM shAshvataM vishvatomukhaM||  
-amR^itenAplutaM shAntaM divya-bhoga-samanvitam |  
-dig-devatA-samAyuktaM surAsura-namaskR^itam ||  
-nityaM cha paramANuM vai dhruvam-aksharam-avyayam |  
-sarva-vyApinam-IshAnaM rudraM vai vishva-rUpiNam ||
+dhyAyAmi vai rudra-rUpaM sarva-loka-maheshvaram \|  
+shuddha-sphaTika-saMkAShaM triNetraM pa\~ncha-vaktrakam \|\|  
+ga\~NgAdharaM daSha-bhujaM sarvAbharaNa-bhUshitam \|  
+nIlagrIvaM shashA\~NkA\~NkaM nAga-yaj\~nopavItinam \|\|  
+vyAghra-charmottariyaM cha vareNyam abhayapradam \|  
+kamaNDvalv-aksha-sUtrANi dhAriNaM shUlapANinaM \|\|  
+jvalantaM pi\~Ngala-jaTaM shikhAmadhyoda-dhAriNaM \|  
+vR^iSha-skandha samArUDhaM shAshvataM vishvatomukhaM\|\|  
+amR^itenAplutaM shAntaM divya-bhoga-samanvitaM \|  
+dig-devatA-samAyuktaM surAsura-namaskR^itaM \|\|  
+nityaM cha paramANuM vai dhruvam-aksharam-avyayaM \|  
+sarva-vyApinam-IshAnaM rudraM vai vishva-rUpiNaM \|\|
 
 This is followed by vaishvadeva-tarpaNaM:  
-agniM tarpayAmi | vAyuM tarpayAmi | somaM tarpayAmi | indraM tarpayAmi |
-marutaH tarpayAmi | IshAnaM tarpayAmi | varuNaM tarpayAmi | mitraM
-tarpayAmi | aryamaNaM tarpayAmi | viShNuM tarpayAmi | pUShaNaM tarpayAmi
-| bhagaM tarpayAmi | devaM savitAraM tarpayAmi | tvaShtAraM tarpayAmi |
-dhAtAraM tarpayAmi | ashvinau tarpayAmi | bR^ihaspatiM tarpayAmi |
-prajApatiM tarpayAmi | R^ibhUn tarpayAmi | skandaM tarpayAmi | yamaM
-tarpayAmi | vaishravaNaM tarpayAmi | dhanvantariM tarpayAmi | tArkShyaM
-ariShtanemIM tarpayami | sarvAn devAn tarpayAmi |aditiM tarpayAmi |
-sarasvatIM tarpayAmi | nirR^itiM tarpayAmi | sarva-deva-patnIH tarpayAmi
-| sarva-deva-gaNAn tarpayAmi | sarva-deva-gaNa-patnIH tarpayAmi ||
+agniM tarpayAmi \| vAyuM tarpayAmi \| somaM tarpayAmi \| indraM
+tarpayAmi \| marutaH tarpayAmi \| IshAnaM tarpayAmi \| varuNaM tarpayAmi
+\| mitraM tarpayAmi \| aryamaNaM tarpayAmi \| viShNuM tarpayAmi \|
+pUShaNaM tarpayAmi \| bhagaM tarpayAmi \| devaM savitAraM tarpayAmi \|
+tvaShtAraM tarpayAmi \| dhAtAraM tarpayAmi \| ashvinau tarpayAmi \|
+bR^ihaspatiM tarpayAmi \| prajApatiM tarpayAmi \| R^ibhUn tarpayAmi \|
+skandaM tarpayAmi \| yamaM tarpayAmi \| vaishravaNaM tarpayAmi \|
+dhanvantariM tarpayAmi \| tArkShyaM ariShtanemIM tarpayami \| sarvAn
+devAn tarpayAmi \|aditiM tarpayAmi \| sarasvatIM tarpayAmi \| nirR^itiM
+tarpayAmi \| sarva-deva-patnIH tarpayAmi \| sarva-deva-gaNAn tarpayAmi
+\| sarva-deva-gaNa-patnIH tarpayAmi \|\|
 
 He can perform this krama as a stand alone or initiate it with a
 preceding homa. For this he kindles the fire with the mantra: “tvam agne
@@ -327,3 +332,4 @@ gaNapati – vaTuka
 Ananda-bhairava – guru – Ananda-bhairavI  
 brAhmI-mAheshvarI-kaumArI-vaiShNavI-vArAhI-chAmuNDA-mahAlakShmI  
 kShetrapAla
+

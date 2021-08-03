@@ -1,7 +1,11 @@
 +++
 title = "The mysterious kuchumAra"
+date = "2008-06-30"
+upstream_url = "https://manasataramgini.wordpress.com/2008/06/30/the-mysterious-kuchumara/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/06/30/the-mysterious-kuchumara/).
+
 A modern Hindu might be deeply offended to learn about kuchumAra. He is
 a mysterious fellow mentioned in the kAmasUtra by vAtsyAyana as a
 teacher of the aupaniShadika section (i.e. the 7th division of the
@@ -45,3 +49,4 @@ species with the KS.
 It is possible that it preserves an old tradition of kuchumAra with an
 overlay of tantric material drawn eclectically from different Agamic
 streams.
+

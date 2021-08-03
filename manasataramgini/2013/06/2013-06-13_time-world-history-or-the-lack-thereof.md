@@ -1,9 +1,13 @@
 +++
 title = "Time, world history, or the lack thereof"
+date = "2013-06-13"
+upstream_url = "https://manasataramgini.wordpress.com/2013/06/13/time-world-history-or-the-lack-thereof/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/06/13/time-world-history-or-the-lack-thereof/).
+
 Many years ago in our old home we came across a book won by the
-bhArgava-trasadasyau in a contest that had the autobiographies of many a
+bhArgava-trasadasyau in a contest that had the biographies of many a
 Euro-American figure. At that point we were impressed by certain threads
 in the German poetry of Rainer Maria Rilke and looked up that book for
 some biographical information on him. While doing so we stumbled upon
@@ -109,13 +113,13 @@ dynasties of the pa\~nchajanAH and ikShvAku-s among the Arya-s.
 But going right to the bottom of it, i.e., the idea of time itself,
 things are rather different from Spengler or what our own compatriots
 think it to be.In the taittirIya AraNyaka we have the mantra:  
-kalA muhUrtAH kAShThAsh chaahotrAsh cha sarvavashaH |  
-ardhamAsA mAsA R^itavas saMvatsarash cha kalpantAm ||
+kalA muhUrtAH kAShThAsh chaahotrAsh cha sarvavashaH \|  
+ardhamAsA mAsA R^itavas saMvatsarash cha kalpantAM \|\|
 
 Hindu tradition tells us that:  
-nimeShaiH pa\~ncha-dashabhiH kASThA triMshat tu tAH kalAH |  
+nimeShaiH pa\~ncha-dashabhiH kASThA triMshat tu tAH kalAH \|  
 triMshat kalAH muhUrtas tu triMshatA taiH manIShiNa aho-rAtram iti
-prAhuH || harivaMsha 1.8.3+4
+prAhuH \|\| harivaMsha 1.8.3+4
 
 15\*nimeSha-s=kAShthA; 30\* kAShthA=kalA; 30\*kalA-s=muhUrta;
 30\*muhUrta-s= ahorAtra (the civil day).
@@ -130,20 +134,20 @@ definitely using water-clocks (evidence from vedA\~Nga jyotiSha). In
 Egypt and Babylon the first evidence points to the period of around
 1300-1400 BC. That the Hindus used one before that is suggested by the
 kAla-sUkta composed by our ancient clansmen:  
-pUrNaH kumbho .adhi kAla Ahitas taM vai pashyAmo bahudhA nu santam |
+pUrNaH kumbho .adhi kAla Ahitas taM vai pashyAmo bahudhA nu santam \|
 
 That kAla was so important in the Weltanschauung of the early Hindus is
 evident from the two sUkta composed by our ancient clansmen (AV-vulgate
 19.53-54) wherein the above statement is found. The sUkta goes on to
 say:  
-teneShitaM tena jAtaM tad u tasmin pratiShThitam |  
-kAlo ha brahma bhUtvA bibharti parameShThinam || (AV 19.53.9)  
+teneShitaM tena jAtaM tad u tasmin pratiShThitam \|  
+kAlo ha brahma bhUtvA bibharti parameShThinam \|\| (AV 19.53.9)  
 In time the \[universe\] was emitted, by time \[all that exists\] came
 into being, and in time indeed \[the universe\] is contained. Time
 having verily having become brahma, holds up the primal station of
 existence.
 
-sarvAMl lokAn abhijitya brahmaNA kAlaH sa Iyate paramo nu devaH ||(AV
+sarvAMl lokAn abhijitya brahmaNA kAlaH sa Iyate paramo nu devaH \|\|(AV
 19.54.5)  
 Having conquered all the worlds by brahman, kAla is indeed perceived as
 the primal deity.
@@ -166,21 +170,21 @@ yudhiShThira thus (I do not attempt to translate it all literally at
 this instance and stop at the end of the physical universe; the sAMkhyan
 theory being more complex):
 
-tataH shata-sahasrAMshur avyaktenAbhichoditaH |  
-kR^itvA dvAdashadhAtmAnam Adityo jvalad agnivat ||  
-chaturvidhaM prajAjAlaM nirdahaty Ashu tejasA |  
-jarAyv aNDa-svedajAtam udbhijjaM cha narAdhipa ||  
-etad unmeSha-mAtreNa viniShTaM sthANu ja\~Ngamam |  
-kUrmapR^iShTha-samA bhUmir bhavaty atha samantataH ||  
-jagad dagdhvAmita-balaH kevalaM jagatIM tataH |  
-ambhasA balinA kShipram ApUryata samantataH ||  
-tataH kAlAgnim AsAdya tad ambho yAti saMkShayam |  
-vinaShTe .ambhasi rAjendra jAjvalIty analo mahAn ||  
-tam aprameyo .atibalaM jvalamAnaM vibhAvasum |  
-UShmANaM sarvabhUtAnAM saptArchiSham athA\~njasA ||  
-bhakShayAm Asa balavAn vAyur aShTAtmako balI |  
-vicharann amita-prANas tiryag Urdhvam adhas tathA ||  
-tam apratibalaM bhImam AkAshaM grasate .AtmanA |(Mbh- “critical”
+tataH shata-sahasrAMshur avyaktenAbhichoditaH \|  
+kR^itvA dvAdashadhAtmAnam Adityo jvalad agnivat \|\|  
+chaturvidhaM prajAjAlaM nirdahaty Ashu tejasA \|  
+jarAyv aNDa-svedajAtam udbhijjaM cha narAdhipa \|\|  
+etad unmeSha-mAtreNa viniShTaM sthANu ja\~Ngamam \|  
+kUrmapR^iShTha-samA bhUmir bhavaty atha samantataH \|\|  
+jagad dagdhvAmita-balaH kevalaM jagatIM tataH \|  
+ambhasA balinA kShipram ApUryata samantataH \|\|  
+tataH kAlAgnim AsAdya tad ambho yAti saMkShayam \|  
+vinaShTe .ambhasi rAjendra jAjvalIty analo mahAn \|\|  
+tam aprameyo .atibalaM jvalamAnaM vibhAvasum \|  
+UShmANaM sarvabhUtAnAM saptArchiSham athA\~njasA \|\|  
+bhakShayAm Asa balavAn vAyur aShTAtmako balI \|  
+vicharann amita-prANas tiryag Urdhvam adhas tathA \|\|  
+tam apratibalaM bhImam AkAshaM grasate .AtmanA \|(Mbh- “critical”
 12.300.4-11)
 
 The hundred-thousand rayed sun by the force of the unmanifest (the
@@ -215,14 +219,14 @@ the modern West from the “timeless” Indian might have arisen first among
 the Hindus. In the foundational epic of our nation the location of the
 temporal frame within the Hindu time cycles is important:
 
-tretA-dvAparayoH saMdhau rAmaH shastra-bhR^itAM varaH |  
-asakR^it pArthivaM kShatraM jaghAna amarSha-choditaH ||  
+tretA-dvAparayoH saMdhau rAmaH shastra-bhR^itAM varaH \|  
+asakR^it pArthivaM kShatraM jaghAna amarSha-choditaH \|\|  
 In the junction between the tretA and the dvApara epochs rAmo bhArgava,
 the foremost of the warriors, repeatedly slaughtered the warriors on the
 earth impelled by his indignation.
 
-antare chaiva saMprApte kali-dvAparayor abhUt |  
-samanta-pa\~nchake yuddhaM kuru-pANDava-senayoH ||  
+antare chaiva saMprApte kali-dvAparayor abhUt \|  
+samanta-pa\~nchake yuddhaM kuru-pANDava-senayoH \|\|  
 In the interval between the kali and the dvApara epochs there took place
 at the five samanta lakes the war between the kuru and pANDava armies.
 
@@ -261,7 +265,7 @@ followed by the decline that evidently lies beyond any pinnacle. Thus,
 he thought that the very concept of world history might come to an end
 with them. Indeed, with the decline that followed the glorious elevation
 of the Chingizids the Mongolian world history was largely lost to
-humanity (Though we cannot rule out that their inspiration was not
+humanity (Though we cannot rule outthat their inspiration was not
 somehow transmitted to west via Mohammedan intermediaries who only half
 understood the concept).
 
@@ -277,14 +281,14 @@ dharma. The constancy of natural laws over deep time is an important
 facet of Hindu thought. Thus, the ancient vipra of the a\~Ngiras clan
 vishvamanas vaiyashva in his mantra to mitra and varuNa describes the
 R^ita of mitrAvaruNA:  
-sanAt sujAtA tanayA dhR^itavratA | RV 8.25.2c  
+sanAt sujAtA tanayA dhR^itavratA \| RV 8.25.2c  
 The well-born sons \[of aditi\] whose ancient laws still hold firm.
 
 Again nodhas of the clan of the gotama-s describes the celestial cycles
 as ancient laws that are set in place by indra (he uses the word sanAt
 many times in this sUkta to emphasize the ancient nature of the
 celestial motions):  
-sanAt sanILA avanIr avAtA vratA rakShante amR^itAH sahobhiH |  
+sanAt sanILA avanIr avAtA vratA rakShante amR^itAH sahobhiH \|  
 \[The celestial cycles\] emerging from a common source, seen as paths in
 the airless heavenly realm firmly watch the unviolated laws since the
 ancient times.
@@ -292,8 +296,8 @@ ancient times.
 This emphasis comes from the recognition of a much longer cycle of time
 than the day, night, month or year, namely the precessional cycle. Thus,
 the ancient brAhmaNa-s state:  
-dve te chakre sUrye brahmANa R^ituthA viduH |  
-athaikaM chakraM yad guhA tad addhAtaya id viduH || (RV 10.085.16)  
+dve te chakre sUrye brahmANa R^ituthA viduH \|  
+athaikaM chakraM yad guhA tad addhAtaya id viduH \|\| (RV 10.085.16)  
 O goddess sUryA two of your cycles are known to the brAhmaNa-s
 well-versed in calenderical calculations; but that other one cycle which
 is secret is known only to those versed in the highest truths.
@@ -325,5 +329,6 @@ will on the Hindus for good, unless they return to the ways of the
 sanAtana dharma that persists through the cycles of the yuga-s. Hence,
 one may meditate on the mantra:
 
-anu yat pUrvA aruhat sanAjuvo ni navyasIShv avarAsu dhAvate || RV
+anu yat pUrvA aruhat sanAjuvo ni navyasIShv avarAsu dhAvate \|\| RV
 1.141.5cd
+

@@ -1,8 +1,11 @@
 +++
-title = "The Departure And Arrival Of No Moon – Sarva Pitru Amavasya And Devixa0Mahalaya"
-date = "September 28, 2019"
+title = "The Departure And Arrival Of No Moon – Sarva Pitru Amavasya And Devi Mahalaya"
+date = "2019-09-28"
+upstream_url = "https://aryaakasha.com/2019/09/28/the-departure-and-arrival-of-no-moon-sarva-pitru-amavasya-and-devi-mahalaya/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/09/28/the-departure-and-arrival-of-no-moon-sarva-pitru-amavasya-and-devi-mahalaya/).
+
 
 
 [](https://aryaakasha.com/2019/09/28/the-departure-and-arrival-of-no-moon-sarva-pitru-amavasya-and-devi-mahalaya/71108772_10162322251265574_7175755934789009408_n/)

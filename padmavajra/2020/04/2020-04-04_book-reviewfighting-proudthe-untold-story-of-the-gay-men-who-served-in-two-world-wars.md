@@ -1,8 +1,11 @@
 +++
-title = "Book Review:Fighting Proud:The Untold Story of the Gay Men Who Served in Two Worldxa0Wars"
+title = "Book Review:Fighting Proud:The Untold Story of the Gay Men Who Served in Two World Wars"
 date = "2020-04-04"
+upstream_url = "https://padmavajra.net/2020/04/04/book-reviewfighting-proudthe-untold-story-of-the-gay-men-who-served-in-two-world-wars/"
 
 +++
+Source: [here](https://padmavajra.net/2020/04/04/book-reviewfighting-proudthe-untold-story-of-the-gay-men-who-served-in-two-world-wars/).
+
 Okay,this is going to be less a review and more of an outpouring of my
 personal feelings on my reading that book.
 

@@ -1,8 +1,11 @@
 +++
-title = "Quirinus – Thexa0Roman"
-date = "May 20, 2021"
+title = "Quirinus – The Roman"
+date = "2021-05-20"
+upstream_url = "https://aryaakasha.com/2021/05/20/quirinus-the-roman/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/05/20/quirinus-the-roman/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/05/quirinus-coin.png?w=350)
 
 Earlier this week, our associate Athanaricushad posted a rather novel

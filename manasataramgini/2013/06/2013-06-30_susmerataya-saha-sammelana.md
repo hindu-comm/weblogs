@@ -1,7 +1,11 @@
 +++
 title = "susmeratayA saha saMmelana"
+date = "2013-06-30"
+upstream_url = "https://manasataramgini.wordpress.com/2013/06/30/susmerataya-saha-sammelana/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/06/30/susmerataya-saha-sammelana/).
+
 Holding a trident he arrived at the great smashANa at the foot of
 kollagiri from the subterranean temple of nR^isiMha where he had
 practiced the mantra of the adhomukha. It was in the midst of a storm:
@@ -94,7 +98,7 @@ then with the glorious nira\~njanA and rAgavatI
 
 With khekalA and the bewitching madanAvatI,  
 ecstatically with drAvinI, speedily with vegavatI,  
-I am the great rudra of the churning\!”
+I am the great rudra of the churning!”
 
 He felt an uncontrollable force tearing him apart. He felt lifted of the
 ground and hurled as though he was shambara being hurled by maghavan
@@ -109,4 +113,5 @@ others were loading commodities to set out to Egypt or Iran. He wondered
 how he would make his way here and why he had landed there in the first
 place.
 
-\-An excerpt from “mantra-nAyaka”
+-An excerpt from “mantra-nAyaka”
+

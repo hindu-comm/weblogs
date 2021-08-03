@@ -1,8 +1,11 @@
 +++
 title = "Āditya hṛdaya stotra (with viniyoga,nyāsa,etc.)"
 date = "2016-07-29"
+upstream_url = "https://padmavajra.net/2016/07/29/aditya-h%e1%b9%9bdaya-stotra-with-viniyoganyasaetc/"
 
 +++
+Source: [here](https://padmavajra.net/2016/07/29/aditya-h%e1%b9%9bdaya-stotra-with-viniyoganyasaetc/).
+
 ### Viniyoga
 
 oṃ asya śrī ādityahṛdayastotrāgastyaṛṣiranuṣṭupchandaḥ,ādityahṛdayo

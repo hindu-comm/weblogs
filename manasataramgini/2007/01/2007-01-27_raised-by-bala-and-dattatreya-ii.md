@@ -1,7 +1,11 @@
 +++
 title = "Raised by bAlA and dattAtreya-II"
+date = "2007-01-27"
+upstream_url = "https://manasataramgini.wordpress.com/2007/01/27/raised-by-bala-and-dattatreya-ii/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/01/27/raised-by-bala-and-dattatreya-ii/).
+
 A great nAtha yogi who worshiped dattAtreya was eating curds and saw a
 boy roaming on the field. He offered the boy the curds but he refused,
 and it fell on his feet. He told him: “if you had eaten the curds you
@@ -29,34 +33,33 @@ missionaries. He then arranged a variety of alliances with the
 neighboring Indian rulers and prepared on a large-scale for the
 unification of Nepal.
 
-\-In his first strike pR^ithivI nArAyaNa conquered Nuwankot and attacked
+-In his first strike pR^ithivI nArAyaNa conquered Nuwankot and attacked
 Kirtipur. In the battle with teja narasimha the king of Patan who
 controlled the town he was almost killed. But his mantra prayoga came to
 his aid and saw him through.  
-\-After two failures to take Kirtipur he sacked Lamji in a fierce
-battle, where the power of the war machine of pR^ithivI nArAyaNa became
-first apparent.  
-\-He then sacked Kirtipur after a six month siege and surged towards
+-After two failures to take Kirtipur he sacked Lamji in a fierce battle,
+where the power of the war machine of pR^ithivI nArAyaNa became first
+apparent.  
+-He then sacked Kirtipur after a six month siege and surged towards
 Patan. But a British army attacked him from the rear.  
-\-He cornered the Britons in the Tarai, where they were put to flight by
+-He cornered the Britons in the Tarai, where they were put to flight by
 a sudden strike.  
-\-King jayaprakasha malla of Kathmandu sought the help of captain
-Kinloch who marched with the British army into Nepal. In the battle of
-Sindhuli, pR^ithivI nArAyaNa smashed the Britons and beheaded the
-captain.  
-\-He then entered Kathmandu during the indra-dhvaja festival took the
+-King jayaprakasha malla of Kathmandu sought the help of captain Kinloch
+who marched with the British army into Nepal. In the battle of Sindhuli,
+pR^ithivI nArAyaNa smashed the Britons and beheaded the captain.  
+-He then entered Kathmandu during the indra-dhvaja festival took the
 throne of the rAjan. He received the prasAda from the devI invoked into
 the kumArI, and was declared rAjan. The king of kAThmaNDu jayaprakAsha
 malla fled in terror.  
-\-Then he moved on Makawanpur, whose ruler digbandhan sena sought the
-aid of the Jihadi adventurer Gurgin Khan to repulse pR^ithivI nArAyaNa.
+-Then he moved on Makawanpur, whose ruler digbandhan sena sought the aid
+of the Jihadi adventurer Gurgin Khan to repulse pR^ithivI nArAyaNa.
 However, Moslems were put to sword and Makawanpur was taken. In the
 battle pR^ithivI nArAyaNa captured a rich haul of ammunition.  
-\-He then conquered Bhadgaon from rAjA raNajit and Patan from teja
+-He then conquered Bhadgaon from rAjA raNajit and Patan from teja
 narasimha and put them to flight .  
-\-By 1773 he overran the whole of Eastern Nepal driving and defeating
-the Kiratas.  
-\-Thus, did pR^ithivI nArAyaNa unify the kingdom of Nepal. Realizing the
+-By 1773 he overran the whole of Eastern Nepal driving and defeating the
+Kiratas.  
+-Thus, did pR^ithivI nArAyaNa unify the kingdom of Nepal. Realizing the
 danger of Christian subversionists he drove out all Jesuit missionaries
 and British agents from his kingdom and upheld the Hindu dharma. He is
 one Hindu ruler who deserves the highest praise for his foresight in
@@ -78,3 +81,4 @@ kAmakalAkAlI, 6) mahAkAlI, 7) kapAlinI, 8) mahAsmashAnakAlI, 9)
 kAlasaMkarShiNI, 10) pratya\~NgirA, 11) kAlarAtrI, 12) yogeshI, 13)
 siddhabhairavI, 14) dakShiNA, 15) ChinnamastA, 16) rAjarAjeshvarI 17)
 saptakoTeshvarI.
+

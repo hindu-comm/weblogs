@@ -1,7 +1,11 @@
 +++
 title = "The pathetic state of Hindus"
+date = "2006-04-14"
+upstream_url = "https://manasataramgini.wordpress.com/2006/04/14/the-pathetic-state-of-hindus/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/04/14/the-pathetic-state-of-hindus/).
+
 The Hindus are under the smug belief that they are no longer under the
 tyrannical Moslem despot or a despicable Christian Whiteman. Despite
 this not being really true and the sad part is so few Hindus realize
@@ -26,7 +30,7 @@ of the 4th varNa enjoy the best of all worlds: They have long been in
 occupations that have made them economically stable; the occupations of
 this subset of shUdras generally selected for decent IQ, and they are
 accordingly of decent general intelligence; and now they have
-reservations on top of it \! Their numbers are also vastly more than the
+reservations on top of it ! Their numbers are also vastly more than the
 brahmins. Thus, in some states they have over-run the brahmin. The
 brahmins losing their domain in India have often turned to the West,
 especially the madhyama mlechCha desha in krau\~ncha dvIpa. But what is
@@ -49,3 +53,4 @@ majority not knowing about it is another thing. The need of the hour is
 an overwhelming sense of ethnic consciousness, the raw sense of us
 against them, before any remedial steps can be taken. Remember the crows
 and owls– those who know this understand what we speak.
+

@@ -1,8 +1,11 @@
 +++
 title = "Kala Bhairava Jayanti"
-date = "November 26, 2017"
+date = "2017-11-26"
+upstream_url = "https://aryaakasha.com/2017/11/26/kala-bhairava-jayanti/"
 
 +++
+Source: [here](https://aryaakasha.com/2017/11/26/kala-bhairava-jayanti/).
+
 ![23376372_10159591018745574_6752020645756061323_n](https://aryaakasha.files.wordpress.com/2017/11/23376372_10159591018745574_6752020645756061323_n.jpg?w=676)  
 *\[Author’s note: this piece was penned on the night of the 10th-11th of
 November 2017 in the course of an all-night devotional vigil\]*

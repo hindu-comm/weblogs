@@ -1,7 +1,11 @@
 +++
 title = "Examining the Chandodarshana"
+date = "2007-10-04"
+upstream_url = "https://manasataramgini.wordpress.com/2007/10/04/examining-the-chandodarshana/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/10/04/examining-the-chandodarshana/).
+
 We had earlier alluded to the Neo-vedic composition attributed daivarAta
 gajAnana sharma aka daivarAta, a student of the great Sanskrit poet
 kAvyakaNTha gaNapati shAstrI. A student of Sanskrit poetry will be
@@ -23,19 +27,19 @@ instrument. He gives this away by cryptically alluding to his ancestor
 in the opening phrase “vasiShTho giraH” Now the big question is it
 really a simulation of vedic? Below are the conclusions of my
 analysis:  
-\-svAra rules: largely follow R^ig vedic pattern, with kaMpa svarita-s
+-svAra rules: largely follow R^ig vedic pattern, with kaMpa svarita-s
 and basic udAtta accents generally similar to their vedic
 counterparts.  
-\-mythology and history: Very low mythological content compared to the
+-mythology and history: Very low mythological content compared to the
 real veda- vR^itra saMgrAma, vala, namuchi etc receive little attention.
 Vedic heroes like divodAsa athitigva, trasadasyu, sudAsa etc receive no
 mention.  
-\-ritual: Limited references to ritual in general. References to the
-soma ritual are very few in comparison to the actual vedic corpus. The
+-ritual: Limited references to ritual in general. References to the soma
+ritual are very few in comparison to the actual vedic corpus. The
 shrauta fire ritual too is minimally alluded to. Instead a ritual of
 drinking and offering pa\~ncha gavya is presented. Ritual words : e.g.
 juhomi, havAmahe, yajAmahe are minimally used.  
-\-devatA-s: marut-s, ashvinA and mitrAvaruNa have a relatively limited
+-devatA-s: marut-s, ashvinA and mitrAvaruNa have a relatively limited
 presence compared to the real veda. The devatA dvandva-s are also
 conspicuous by their absence or rarity. There is an enormous emphasis on
 sarasvati, way beyond what is seen in the RV – in fact she is the most
@@ -47,10 +51,10 @@ rudra’s wife is named as gaurI rather than pR^iShNi, which is the name
 in the RV. brahmaNaspati is prominently connected with sarasvati-
 something which is typical of later hindu thought rather than in the
 RV.  
-\-influence of the nirukta: The nirukta scheme of ordering deities, and
+-influence of the nirukta: The nirukta scheme of ordering deities, and
 the terms and synonyms used by the nirukta play a dominant role in the
 refrains and organization of the hymns.  
-\-language: While there are archaisms that resemble the vedic language
+-language: While there are archaisms that resemble the vedic language
 rather than classical saMskR^ita, there are many features distinguishing
 it from the real RV language e.g. : use of classical dvandva i.e.
 ashvinau instead of RV ashvinA; use of the term puruSha throughout the
@@ -61,7 +65,7 @@ excess and implying its tAntric sense as a bIja of the devI. In essence,
 different layers of RV dialects are homogenized. Use of vyAhR^iti-s in
 RV-styled verse is again not typical of the original. vyAhR^itis are
 typical of yajushes.  
-\-philosophy: several upaniShadic elements seem to dominate. e.g.:
+-philosophy: several upaniShadic elements seem to dominate. e.g.:
 prANa-s being compared to marut-s, Atman, puruSha etc.
 
 So in short Chandodarshana is a modern author’s emulation of the R^ig,
@@ -71,3 +75,4 @@ poetry that bears many features of the original. It does illustrate
 gaNapati muni’s tremendous poetic abilities both in the classical and
 vedic realm — he would have truly been a R^iShi had he lived in the
 vedic period.
+

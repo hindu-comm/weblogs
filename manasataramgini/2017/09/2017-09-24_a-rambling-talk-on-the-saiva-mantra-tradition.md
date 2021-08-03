@@ -1,8 +1,12 @@
 +++
 title = "A rambling talk on the śaiva mantra tradition"
+date = "2017-09-24"
+upstream_url = "https://manasataramgini.wordpress.com/2017/09/24/a-rambling-talk-on-the-saiva-mantra-tradition/"
 
 +++
-A rambling talk we had given on the śaiva tradition. Talking is easier
+Source: [here](https://manasataramgini.wordpress.com/2017/09/24/a-rambling-talk-on-the-saiva-mantra-tradition/).
+
+A rambling talk we had given on theśaiva tradition. Talking is easier
 but less precise than writing. So please be aware of the insufficiency
 that goes with the domain of any talk while perusing this material.
 
@@ -35,16 +39,16 @@ and ācārya-s; 3) the nīrbījadīkṣita-s and lay followers; the
 classification of knowledge in the śaiva tradition; the division of the
 śaiva śāstra into the five srotāṃsi: garuḍa, bhūta, vāma, bhairava and
 siddhānta; the gāruḍa tradition: Garuḍa, Śarabha and Nīlakaṇṭha; the
-bhūta tradition: Khaḍgarāvaṇa and his parivāra, Caṇḍāsidhara,
-Hayagrīva, Ardhanārīśvara and his dhyāna, Krodheśvara and Jvareśvara;
-the vāma tradition: Tumburu and the catur-bhaginī; the dhyāna of Tumburu
-in the Candradurdaṇda-maṇḍala; the transmission of vāma tantra-s and
-their history; special dhyāna-s of the four sisters; vāma mantra-s and
-yoga:  
+bhūta tradition: Khaḍgarāvaṇa and his parivāra, Caṇḍāsidhara, Hayagrīva,
+Ardhanārīśvara and his dhyāna, Krodheśvara and Jvareśvara; the vāma
+tradition: Tumburu and the catur-bhaginī; the dhyāna of Tumburu in the
+Candradurdaṇda-maṇḍala; the transmission of vāma tantra-s and their
+history; special dhyāna-s of the four sisters; vāma mantra-s and yoga:  
 <https://app.box.com/s/vd6xak6jqyuxoacv9nbesigm690de876>
 
 **A very basic introduction to aspects of śaiva iconography with an
-emphasis on the icons depicted in saiddhāntika sthāpana tradition.**  
+emphasis on the icons depicted in saiddhāntikasthāpana tradition.**  
 <https://app.box.com/s/byb5yqght94gtqq9fnk867xbg6ca881q>
 
 continued…
+

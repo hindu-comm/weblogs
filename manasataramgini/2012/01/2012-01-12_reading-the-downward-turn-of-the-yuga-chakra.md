@@ -1,7 +1,11 @@
 +++
 title = "Reading the downward turn of the yuga-chakra"
+date = "2012-01-12"
+upstream_url = "https://manasataramgini.wordpress.com/2012/01/12/reading-the-downward-turn-of-the-yuga-chakra/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/01/12/reading-the-downward-turn-of-the-yuga-chakra/).
+
 A conversation, tinged with sorrow and pleasure at the same time,
 reminded us of a pickle of chillies that was so artfully crafted by ST
 in her flourish of sUpakalA. But one thing was clear that the
@@ -30,22 +34,22 @@ rich history. He went on to say that the efforts to preserve the
 Sanskritic past of India was something well recognized by the chAchA;
 after all he had said:  
 *“One of our major misfortunes is that we have lost so much of the
-world’s ancient literature – in Greece, in India and elsewhere…
-Probably an organized search for old manuscripts in the libraries of
-religious institutions, monasteries and private persons would yield rich
-results. That, and the critical examination of these manuscripts and,
-where considered desirable, their publication and translation, are among
-the many things we have to do in India when we succeed in breaking
-through our shackles and can function for ourselves. Such a study is
-bound to throw light on many phases of Indian history and especially on
-the social background behind historic events and changing ideas.”*
+world’s ancient literature – in Greece, in India and elsewhere… Probably
+an organized search for old manuscripts in the libraries of religious
+institutions, monasteries and private persons would yield rich results.
+That, and the critical examination of these manuscripts and, where
+considered desirable, their publication and translation, are among the
+many things we have to do in India when we succeed in breaking through
+our shackles and can function for ourselves. Such a study is bound to
+throw light on many phases of Indian history and especially on the
+social background behind historic events and changing ideas.”*
 
 The younger generation of politicians, he said, lacks such a deep vision
 as that of the chAchA and consequently are not paying attention to
 education and science. Instead, inspired by the Hindutva BJP government
 they have engaged in regressive practices. Sometime later I met a local
 BJP politician from the mahArATTa country (disclaimer: I neither belong
-to the BJP, the Kangress or any other Indian political party nor do I
+to the BJP, the Kangress or any other Indian political partynor do I
 endorse all politicians of any particular party). The politician was
 there to attend a talk by a mlechCha intellectual and colleague because
 he was an autodidact in science. An acquaintance introduced him to me.
@@ -147,3 +151,4 @@ reason why the masses need to be aroused about the need to reject this
 memetic complex, false as a nAstika doctrine, camouflaging as the real
 thing and rendering our ecosystem ripe for assault by our traditional
 enemies.
+

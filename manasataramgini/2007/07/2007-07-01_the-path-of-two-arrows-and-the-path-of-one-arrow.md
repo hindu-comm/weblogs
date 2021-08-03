@@ -1,7 +1,11 @@
 +++
 title = "The path of two arrows and the path of one arrow"
+date = "2007-07-01"
+upstream_url = "https://manasataramgini.wordpress.com/2007/07/01/the-path-of-two-arrows-and-the-path-of-one-arrow/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/07/01/the-path-of-two-arrows-and-the-path-of-one-arrow/).
+
 We felt the arms of the golden-handed asura. We felt the presence of
 that other wise asura all over. We walked along the path like a khaDga
 in the grasslands of pragjyotisha. We joined with guhyasomA, the golden
@@ -20,12 +24,12 @@ not grab the independently joyous chit. Now behold through yoga that 4th
 foot which pervades the parorajas – the subtlety that underlies the
 light of savitA.“
 
-OM bhUr-bhuvas-suvaH | tat-saviturvareNyam | bhargo devasya dhImahi |
-dhiyo yo naH prachodayAt | parorajase .asAvadom || gR^iNhi-sUrya Adityo
-na prabhAvAtyakSharam | madhukSharanti tad rasam | satyaM vai tad rasaM
-Apo jyoti-raso .amR^itaM brahma bhUr-bhuvas-suvarom || yata indra
-bhayAmahi tato no abhyaM kR^dhi | maghava\~n Chagdhi tava tanna Utaye
-vidviSho vimR^idho jahi ||
+OM bhUr-bhuvas-suvaH \| tat-saviturvareNyaM \| bhargo devasya dhImahi \|
+dhiyo yo naH prachodayAt \| parorajase .asAvadoM \|\| gR^iNhi-sUrya
+Adityo na prabhAvAtyakSharaM \| madhukSharanti tad rasaM \| satyaM vai
+tad rasaM Apo jyoti-raso .amR^itaM brahma bhUr-bhuvas-suvaroM \|\| yata
+indra bhayAmahi tato no abhyaM kR^dhi \| maghava\~n Chagdhi tava tanna
+Utaye vidviSho vimR^idho jahi \|\|
 
 She of sweet smiles said: “Ere long one sees the R^ita of mitra and
 varuNa. Those laws which are inviolable comprise the satya of mitra.
@@ -33,3 +37,4 @@ Those laws which get repeatedly transgressed but are eternally enforced
 is the dharma of varuNa. These two types of laws satya and dharma govern
 the universe and are collectively the R^ita. That is the reason we
 things around us are the way they are.”
+

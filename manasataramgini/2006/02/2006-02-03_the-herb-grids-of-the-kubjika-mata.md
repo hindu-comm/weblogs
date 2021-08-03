@@ -1,7 +1,13 @@
 +++
 title = "The herb grids of the kubjikA mata"
+date = "2006-02-03"
+upstream_url = "https://manasataramgini.wordpress.com/2006/02/03/the-herb-grids-of-the-kubjika-mata/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/02/03/the-herb-grids-of-the-kubjika-mata/).
+
+
+
 [![](https://i2.wp.com/photos1.blogger.com/hello/133/1300/400/oShadhi_grid.jpg)](http://photos1.blogger.com/hello/133/1300/640/oShadhi_grid.jpg)
 
 A stream of the kubjikA tradition has evolved out of the more archaic
@@ -49,17 +55,17 @@ bhR^i\~ngarAja (16)= Eclipta alba
   
 Using this grid and numerical system various prescriptions may be coded
 by the practioner. Thus, we are told of a prescription thus:
-tri-dashAkShesha-bhujagair lepAt strI sUyate sukham ||  
+tri-dashAkShesha-bhujagair lepAt strI sUyate sukhaM \|\|  
 Which means: For easy delivery a woman may use a paste made from tri
 (3); dasha (10); akShi (eyes=2); isha (rudra=11); bhujaga (nAga=8).  
 Some applications might have a magical slant: tithi-dig-yuga-bANaish cha
-guTikA tu vasha\~NkarI | bhakShye bhojye tathA pAne dAtavyA guTikA vashe
-||  
+guTikA tu vasha\~NkarI \| bhakShye bhojye tathA pAne dAtavyA guTikA
+vashe \|\|  
 This means: a pill made from tithi (15); dik (10); yuga (ages=4); and
 bANa (5) can be used for vashikaraNa. This pill should be given in
 eatables, food-stuff and drinks for the purpose of vashikaraNa.
 
-R^itvig-grahAkShi-shailaish cha shastra-stambhe mukhe dhR^itA |  
+R^itvig-grahAkShi-shailaish cha shastra-stambhe mukhe dhR^itA \|  
 For protection against palsy on the face caused by stambhana prayogas
 one may use R^itvik(16); graha (9); akShi (eyes=2); shaila
 (mountains=7).
@@ -78,3 +84,4 @@ It seems vachA is reused twice in the grid. The plants are dried, ground
 to powder, treated with soma and mixed with jaggery into modaka, or
 mixed with ghee and some tailas for use. The recommended doses are from
 .5 karsha to 1 pala by weight.
+

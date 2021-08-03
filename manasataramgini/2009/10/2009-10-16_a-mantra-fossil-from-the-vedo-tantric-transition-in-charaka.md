@@ -1,19 +1,23 @@
 +++
 title = "A mantra fossil from the vedo-tAntric transition in charaka"
+date = "2009-10-16"
+upstream_url = "https://manasataramgini.wordpress.com/2009/10/16/a-mantra-fossil-from-the-vedo-tantric-transition-in-charaka/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/10/16/a-mantra-fossil-from-the-vedo-tantric-transition-in-charaka/).
+
 The chikitsAsthAna of the charaka saMhitA cites a formula to be recited
 during the compounding of the agada termed the mahAgandhahasti
 (23.90):  
-*mama mAtA jayA nAma jayo nAmeti me pitA |  
-sohaM jayajayAputro vijaye.atha jayAmi cha |  
-namaH puruShasiMhAya viShNave vishvakarmaNe |  
-sanAtanAya kR^iShNAya bhavAya vibhavAya cha |  
-tejo vR^iShakapeH sAkShAt tejo brahmendroyor yame |  
-yathA a.haM nAbhijAnAmi vAsudevaparAjayam |  
-mAtush cha pANigrahaNaM samudrasya cha shoShaNam |  
-anena satyavAkyena siddhyatAm agado hy ayam |  
-hili mili saMspR^iShTe rakSha sarva bheShajottame svAhA ||*
+*mama mAtA jayA nAma jayo nAmeti me pitA \|  
+sohaM jayajayAputro vijaye.atha jayAmi cha \|  
+namaH puruShasiMhAya viShNave vishvakarmaNe \|  
+sanAtanAya kR^iShNAya bhavAya vibhavAya cha \|  
+tejo vR^iShakapeH sAkShAt tejo brahmendroyor yame \|  
+yathA a.haM nAbhijAnAmi vAsudevaparAjayaM \|  
+mAtush cha pANigrahaNaM samudrasya cha shoShaNaM \|  
+anena satyavAkyena siddhyatAm agado hy ayam \|  
+hili mili saMspR^iShTe rakSha sarva bheShajottame svAhA \|\|*
 
 The agada is a preparation that it specially used to kill or counter a
 disease-causing agent or poison and is contrasted from other drugs which
@@ -24,8 +28,8 @@ father etc. This is a very old atharvanic formula and is seen right from
 an early atharvanic spell in the R^igveda (RV10.97.9; iShkR^itir nAma vo
 mAtA) and similar forms in the atharvaveda. Interestingly, it is praised
 thus:  
-*yatra cha sannihito.ayaM na tatra bAlagrahA na rakShAMsi |  
-na cha kArmaNa vetAlA vahanti nAtharvaNa mantrAH || (23.88)**  
+*yatra cha sannihito.ayaM na tatra bAlagrahA na rakShAMsi \|  
+na cha kArmaNa vetAlA vahanti nAtharvaNa mantrAH \|\| (23.88)**  
 * When it is applied or placed \[on a person\] it is supposed to protect
 against bAlagraha-s, rakSha-s, abhichAra rites, vetAla-s and atharvanic
 mantra-s. Thus, its structure and its “target”, i.e. the AV mantra-s
@@ -56,3 +60,4 @@ side other such examples we have previously pointed out, such as those
 of the AV parishiShTha-s. This may also be significant in being one of
 the relatively early vaiShNava mantra-s to mention narasiMha and gives a
 small window into the pre-classical mantra-s of the vaiShNava-shAsana.
+

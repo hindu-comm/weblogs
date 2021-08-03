@@ -1,19 +1,23 @@
 +++
 title = "vaikhAnasa childhood rites pertaining to kumAra"
+date = "2007-02-19"
+upstream_url = "https://manasataramgini.wordpress.com/2007/02/19/vaikhanasa-childhood-rites-pertaining-to-kumara/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/02/19/vaikhanasa-childhood-rites-pertaining-to-kumara/).
+
 Childhood rites in connection kumAra, ShaShThi and their gaNa-s are
 widespread in Hindu tradition. An early example of this offered by the
 vaikhAnasa tradition. In the ceremony of nAmakaraNa a series of
 blessings are bestowed on the child by the parents. In the series for a
 male child the following formulae a recited:  
-shA\~Nkarir iva sarvatrAjayo bhava |  
+shA\~Nkarir iva sarvatrAjayo bhava \|  
 Be invincible as the son of sha\~Nkara (kumAra).  
-nara-nArAyaNAv iva tapo-balotkR^iShTo bhava |  
+nara-nArAyaNAv iva tapo-balotkR^iShTo bhava \|  
 Be rich in power rising from tapas as nara and nArAyaNa.  
-lokeshA iva sarva-bhUtAdhipatir bhava |  
+lokeshA iva sarva-bhUtAdhipatir bhava \|  
 Be the lord of the beings like the gods.  
-bR^ihad-brahma-guNA iva sarvArtha-saMsiddho bhava |  
+bR^ihad-brahma-guNA iva sarvArtha-saMsiddho bhava \|  
 attain all worldly needs like bR^ihad-brahma-guNa-s (?). (vaikhAnasa
 smArta sUtra 3.19.20)  
 The blessing for the new born son to be like kumAra are seen in other
@@ -30,8 +34,9 @@ On the way he keeps muttering the mantra kanikradat suvar apo jigAya
 east to west and then enters it. He worships the image of guha therein
 by offering flowers and sweets. He then takes some of those flowers and
 adorns the child saying:  
-guhasya seShaM gurubhiH supujitaM puShpaM dadAmi -sya ShaNmukhAt |  
+guhasya seShaM gurubhiH supujitaM puShpaM dadAmi -sya ShaNmukhAt \|  
 I give to the flowers remaining from the worship of the 6-faced guha
 distributed by the gurus.  
 He then makes the child recite the pavamAni-s and takes him home. The
 further prescribed rites are performed (VSS3.22).
+

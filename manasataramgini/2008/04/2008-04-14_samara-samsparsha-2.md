@@ -1,7 +1,11 @@
 +++
 title = "samara-saMsparSha-2"
+date = "2008-04-14"
+upstream_url = "https://manasataramgini.wordpress.com/2008/04/14/samara-samsparsha-2/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/04/14/samara-samsparsha-2/).
+
 Our janAH clashed with the ari-dala as expected. Verily these vile
 khANDavans are like ahi full of wiles. They began by needling our sena
 as per the game plan relayed from their supreme headquarters. Our senA
@@ -19,3 +23,4 @@ The making use of the time they gained with their smoke-screen the
 kulu\~ncha-s made an audacious plan to attempt an attack on our fort and
 the second kosha and steal our dhana. To back it up they also dispatched
 a prayoga against us that we noticed hitting us.
+

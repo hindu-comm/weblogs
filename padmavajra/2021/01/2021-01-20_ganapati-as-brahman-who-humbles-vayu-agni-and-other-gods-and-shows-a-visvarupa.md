@@ -1,8 +1,11 @@
 +++
-title = "Gaṇapati as Brahman who humbles Vāyu Agni and other Gods and shows a Viśvarūpaxa0form"
+title = "Gaṇapati as Brahman who humbles Vāyu Agni and other Gods and shows a Viśvarūpa form"
 date = "2021-01-20"
+upstream_url = "https://padmavajra.net/2021/01/20/ganapati-as-brahman-who-humbles-vayu-agni-and-other-gods-and-shows-a-visvarupa/"
 
 +++
+Source: [here](https://padmavajra.net/2021/01/20/ganapati-as-brahman-who-humbles-vayu-agni-and-other-gods-and-shows-a-visvarupa/).
+
 This section is taken from the Gaṇeśa Purāṇa,11th chapter of the Krīḍā
 khaṇḍa. The relevant one is being posted here
 

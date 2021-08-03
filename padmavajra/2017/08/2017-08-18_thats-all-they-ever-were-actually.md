@@ -1,8 +1,11 @@
 +++
-title = "That’s all they(human rights) ever werexa0actually"
+title = "That’s all they(human rights) ever were actually"
 date = "2017-08-18"
+upstream_url = "https://padmavajra.net/2017/08/18/thats-all-they-ever-were-actually/"
 
 +++
+Source: [here](https://padmavajra.net/2017/08/18/thats-all-they-ever-were-actually/).
+
 (Quoting the tweet,since the original person deleted his account)
 
 \>abstractions invoked to obfuscate the raw exercise of usually

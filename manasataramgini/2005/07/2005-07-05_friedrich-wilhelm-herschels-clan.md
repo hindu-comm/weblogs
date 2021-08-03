@@ -1,18 +1,22 @@
 +++
 title = "Friedrich Wilhelm Herschel’s clan"
+date = "2005-07-05"
+upstream_url = "https://manasataramgini.wordpress.com/2005/07/05/friedrich-wilhelm-herschels-clan/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/07/05/friedrich-wilhelm-herschels-clan/).
+
 Father  
 Isak Herschel- amateur astronomer and science enthusiast in addition to
 being a professional musician. Taught all his sons science and music.  
 ……………..  
-1\) Wilhelm (William) Herschel: What more needs to be said? Was fluent
-of in many European languages.  
-2\) Sophia (sister of Wilhelm) Many descendents of her were professional
+1) Wilhelm (William) Herschel: What more needs to be said? Was fluent of
+in many European languages.  
+2) Sophia (sister of Wilhelm) Many descendents of her were professional
 muscians  
-3\) Alexander: Brother of Wilhelm, made most telescopes for Wilhelm,
+3) Alexander: Brother of Wilhelm, made most telescopes for Wilhelm,
 professional telescope maker in Germany  
-4\) Carolina (Caroline):Assistant of Wilhelm (scarred by smallpox and
+4) Carolina (Caroline):Assistant of Wilhelm (scarred by smallpox and
 Rickettsial infection, hence unmarried). Learnt calculus and spherical
 trignometry from Wilhelm and was good at lengthy mental trigonometric
 calculations. Discovered 8 comets on her own. Gauss paid a visit to her
@@ -56,3 +60,4 @@ number of meteor showers.
 ………………………
 
 No male descendents survive.
+

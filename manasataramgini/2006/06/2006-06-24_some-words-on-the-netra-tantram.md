@@ -1,7 +1,11 @@
 +++
 title = "Some words on the netra tantraM"
+date = "2006-06-24"
+upstream_url = "https://manasataramgini.wordpress.com/2006/06/24/some-words-on-the-netra-tantram/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/06/24/some-words-on-the-netra-tantram/).
+
 tryambakaṃ yajāmahe sugandhiṃ puṣṭi vardhanam  
 urvārukam iva bandhanān mṛtyor mukṣīya māmṛtāt   
   
@@ -70,3 +74,4 @@ sword rite for kShatriyas. The netra-tantric shaivas also have the rite
 of indra-rupa amR^iteshvara which is performed in the bhAdrapada where
 amR^iteshvara is identified with indra and worshiped in the indra pole
 prior to the end of the most important Hindu festival indramaha.
+

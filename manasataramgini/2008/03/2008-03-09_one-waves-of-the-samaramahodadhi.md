@@ -1,7 +1,11 @@
 +++
 title = "One waves of the samaramahodadhi"
+date = "2008-03-09"
+upstream_url = "https://manasataramgini.wordpress.com/2008/03/09/one-waves-of-the-samaramahodadhi/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/03/09/one-waves-of-the-samaramahodadhi/).
+
 On the darsha day we sat to perform our kratu. But we noticed that there
 was an error. We quickly regrouped and performed a prAyashchitta. But
 some fear lingered still if something might slip past. It was sent our
@@ -22,7 +26,7 @@ said this was not aimed at mAraNa but it inactivated us – we simply
 could not deploy anything on the ari. We were reduced to utter
 powerlessness – neither mantra-s nor kriyA-s seemed possible; our sight
 was blinded from seeing our ari. We remembered where it all began: Like
-kumbhakarNa moving against the vAnaras in his last battle it advanced\!
+kumbhakarNa moving against the vAnaras in his last battle it advanced!
 We were tunneled back in time against our control. We stood in the realm
 of the first sorrow. We were at the place on which we turned our back
 effortlessly when the prayoga of kAmeshvarI saw us through. It was a
@@ -65,3 +69,4 @@ strikes were launched were in green and blue bags – so strong was the
 effect that even after they were destroyed the cheTakI-s were not
 curtailed. saMdhya: the old name has changed after the dUradR^iShTi
 attack.
+

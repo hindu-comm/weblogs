@@ -1,7 +1,11 @@
 +++
 title = "At the rim of the kandukaprastha"
+date = "2006-09-11"
+upstream_url = "https://manasataramgini.wordpress.com/2006/09/11/at-the-rim-of-the-kandukaprastha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/09/11/at-the-rim-of-the-kandukaprastha/).
+
 We stood accompanied by three others at the rim of the kandukaprastha.
 They were: the fallen brahmin, whose eyes were fixed on the exceedingly
 rare tIkShNa-tripatha strI ratna-s, much like those of the bauddha
@@ -65,7 +69,7 @@ h.j: “Oh vAjaratnAyana, while I am happy that you are not there at the
 R^ikShashAlA or rasashAlA to add to our woes in the yuddhA\~NgaNa, why
 is that you have choosen to go to the dhUrtashAlA? . What goes on at the
 dhUrtashAlA? ”  
-I: “Oh mighty hrasvaroman, while my father is of moderate means, enough
+I: “Oh mighty hrasvaroman, while my father is of moderate means, enought
 to provide me with an ashva and good food, we do not have the riches to
 waste on R^ikShashAlA-s. Further, I have wielded astra-s even as a kid,
 and have even survived even the aforesaid son of brindA, albeit in a
@@ -129,7 +133,6 @@ blocked from making contact with my clansmen like the atri, aunt Spring
 and Jx by the grip of the kR^ityA. As I was in a reverie feeling like
 one in the desert of existence, I received a call from aurvasheyI. What
 follows is saMdhyA-  
-
 kauNDiNyA: Does the vArtAlI of the dreams favor you?  
 I: Apparently not.  
 kauNDiNyA: Is that why you wander in the marukShetra with no yakShiNI in
@@ -137,7 +140,7 @@ sight?
 I:Indeed. I took the winding path beyond pAtAla-ga\~NgA and returned
 then to my fortress. There was no yakShiNI in sight other than fleeting
 glimpses of nIlalohita-mekhalA who saved me on that fateful day.  
-kauNDiNyA: The only way out is the fire of prANa-rasAyana\! Seek it.  
+kauNDiNyA: The only way out is the fire of prANa-rasAyana! Seek it.  
 I: Indeed but that does not shake off the kR^ityA that is blocking me
 from my clansmen.  
 kauNDiNyA: The fate of our “compatriot” rAjaka the son brindA comes to
@@ -168,3 +171,4 @@ the venomous scorpion? Why did the car sent forth by the 10 sisters in
 aditi’s lap not reach you? Why was the muni destroyed completely in the
 battle of dashAnantara?  
 I: The one who drinks the draught of soma in his head becomes amartya.
+

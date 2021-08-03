@@ -1,7 +1,11 @@
 +++
 title = "turuShkANAM madhyAhna"
+date = "2009-09-23"
+upstream_url = "https://manasataramgini.wordpress.com/2009/09/23/turushkanam-madhyahna/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/09/23/turushkanam-madhyahna/).
+
 “The Sultan has drawn near to Allah, the lord of majesty and
 omnipotence, the creator of the world of dominion and sovereignty. The
 Sultan who is Allah’s slave made mighty with allahic power, the Kalif,
@@ -11,9 +15,9 @@ conqueror of the lands of the East and the West with the help of Allah
 and the army of Islam, the possessor of kingdoms of the world, the
 shadow of Allah over all peoples, Sultan of Sultans of the Arabs and the
 Iranians, the promulgator of Sultanic Kanuns, the tenth of Osman
-Kha’Khans, Sultan, son of the Sultan, Sultan Suleyman Khan the
-Padishah, may the line of his Sultanate endure until the end of the line
-of the ages.”
+Kha’Khans, Sultan, son of the Sultan, Sultan Suleyman Khan the Padishah,
+may the line of his Sultanate endure until the end of the line of the
+ages.”
 
 Thus runs an inscription in Suleymani masjid in Istanbul from the 1560s
 of CE. Suleyman-i-kanuni had raised the Osman Turks to their greatest
@@ -26,7 +30,7 @@ lord of the orthodox church leading them in their own religious war. In
 the Mohammedan world Suleyman was accompanied by Shah Ismail of Iran who
 saw himself as a jihadist for the Shia cause. Further east, Padishah
 Akbar saw himself as the true ghazi who was rooting out the kaffirs of
-Hind. The trajectory each of these took was to set the tune of history
+Hind. The trajectory each of these took was toset the tune of history
 to this date. With the ascendancy of Akbar and Suleyman in the east and
 west it was the zenith of Mohammedanism on one hand and the Turkic
 military system on the other. There are striking similarities as well as
@@ -62,3 +66,4 @@ catholics and the orthodox Isaists were in war with the Osmans, the
 rulers of France and England, especially the former formed an alliance
 with the Osmans. Repeats of this turuShka-mlechChAbhisaMdhi continue to
 plague the world to this date.
+

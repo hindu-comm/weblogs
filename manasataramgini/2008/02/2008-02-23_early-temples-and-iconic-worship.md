@@ -1,7 +1,11 @@
 +++
 title = "Early temples and iconic worship"
+date = "2008-02-23"
+upstream_url = "https://manasataramgini.wordpress.com/2008/02/23/early-temples-and-iconic-worship/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/02/23/early-temples-and-iconic-worship/).
+
 It is nearly inconceivable for the average modern Hindu to imagine his
 religion as being aniconic. Worship at temples is an average Hindu’s
 major or only of religious activity, and it is not uncommon for
@@ -103,13 +107,13 @@ where there are numerous (100s) chaitya-s for the 33 gods. Again in MBh
 visited by the pANDu-s. Both the bhArata and the rAmAyana mention the
 presence of chaitya-s in graveyard using a very similar cliché as a part
 of a simile to describe something terrible.  
-MBh: shmashAna-chaitya-drumavad bhUShito.api bhaya\~NkaraH |  
-Ram: shmashAna-chaitya pratimo bhUShito.api bhaya\~NkaraH |  
+MBh: shmashAna-chaitya-drumavad bhUShito.api bhaya\~NkaraH \|  
+Ram: shmashAna-chaitya pratimo bhUShito.api bhaya\~NkaraH \|  
 Even today graveyards often have temples of rudra. Another point of note
 is that in the MBh the term chaitya is often combined with yUpa: and the
 earth or a place is described as decorated by chaitya-s and yUpa-s
-(“chaityayUpA\~NkitA bhUmi”). yUpa-s from shrauta rites were often
-left behind at the end of a yAga as a mark of their performance. Their
+(“chaityayUpA\~NkitA bhUmi”). yUpa-s from shrauta rites were often left
+behind at the end of a yAga as a mark of their performance. Their
 linkage suggests that chaitya-s were possibly small shrines that might
 have been likewise associated with holy spots were rites were performed.
 
@@ -215,3 +219,4 @@ Agama-s as well as extant paurANic narratives are closely linked to the
 emergence of the large temples. It is not without reason that
 town-planning, civil constructions and the arts occupy the interest of
 early Agamas like devyAmata and purANa-s like viShNudharmottara.
+

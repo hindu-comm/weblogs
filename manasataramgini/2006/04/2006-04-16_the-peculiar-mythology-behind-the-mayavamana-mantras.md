@@ -1,7 +1,11 @@
 +++
 title = "The peculiar mythology behind the mAyAvAmana mantras"
+date = "2006-04-16"
+upstream_url = "https://manasataramgini.wordpress.com/2006/04/16/the-peculiar-mythology-behind-the-mayavamana-mantras/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/04/16/the-peculiar-mythology-behind-the-mayavamana-mantras/).
+
 The hAdi mata votaries from the North also preserved a range of kramas,
 now largely reduced to auxilliary rites associated as AvarNa invocations
 of their primary rite of tripurasundarI. This follows the basic pattern
@@ -18,7 +22,7 @@ they would reign supreme if the sacrifice is made, decided to do so.
 They extracted ambikA from the cave within sadAshiva, where she resides
 and made umA herself the sacrificial pashu for the bhairava. shiva
 realized that his heart had become empty without pArvatI, and they say
-shiva without shaktI is but a shava\! viShNu was observing what had come
+shiva without shaktI is but a shava! viShNu was observing what had come
 to pass and acted rapidly. From viShNu emanated the terrible
 saMkarShaNa. From him emerged the emanation of nArAyaNa known as
 mAyAvAmana. He had eight arms and was of yellow complexion. He wore a
@@ -47,3 +51,4 @@ with nR^isiMha in the mAyAvAmana rite which can achieve vashikaraNa and
 total delusion of foes. The goddesses can draw yakShiNI-s and rAkShasI-s
 of diverse kinds to the sAdhaka. The pA\~NcharAtric tantra mAyAvAmanikA
 is devoted to this emanation of nArAyaNa.
+

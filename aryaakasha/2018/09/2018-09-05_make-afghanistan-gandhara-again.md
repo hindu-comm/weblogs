@@ -1,8 +1,11 @@
 +++
-title = "Make Afghanistan Gandharaxa0Again"
-date = "September 5, 2018"
+title = "Make Afghanistan Gandhara Again"
+date = "2018-09-05"
+upstream_url = "https://aryaakasha.com/2018/09/05/make-afghanistan-gandhara-again/"
 
 +++
+Source: [here](https://aryaakasha.com/2018/09/05/make-afghanistan-gandhara-again/).
+
 ![21316344_10159305205565574_7262262851035620660_o](https://aryaakasha.files.wordpress.com/2018/09/21316344_10159305205565574_7262262851035620660_o.jpg?w=676)
 
 I have been told I bear a certain resemblance to this chap.

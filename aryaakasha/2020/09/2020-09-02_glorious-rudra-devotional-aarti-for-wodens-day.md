@@ -1,8 +1,11 @@
 +++
-title = "Glorious Rudra Devotional (A)Art(I) For Woden’sxa0Day"
-date = "September 2, 2020"
+title = "Glorious Rudra Devotional (A)Art(I) For Woden’s Day"
+date = "2020-09-02"
+upstream_url = "https://aryaakasha.com/2020/09/02/glorious-rudra-devotional-aarti-for-wodens-day/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/09/02/glorious-rudra-devotional-aarti-for-wodens-day/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/09/69623066_10162215614385574_7081624601146425344_n.jpg?w=960)
 
 Now *this* is Woden’s Day devotional posting !

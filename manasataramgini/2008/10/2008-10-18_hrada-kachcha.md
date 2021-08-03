@@ -1,7 +1,11 @@
 +++
 title = "hrada-kachCha"
+date = "2008-10-18"
+upstream_url = "https://manasataramgini.wordpress.com/2008/10/18/hrada-kachcha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/10/18/hrada-kachcha/).
+
 [![lake](https://i1.wp.com/farm4.static.flickr.com/3009/2681760996_19ee4ce31d.jpg)](http://www.flickr.com/photos/24766652@N05/2681760996/ "lake by somasushma, on Flickr")
 
 It was in the summer of 1995, just before I left the shores of
@@ -26,9 +30,9 @@ ill-mannered and showed so much courtesy to her who is a typical rascal
 from sindhupattana”. I replied: “it is rAjanIti, friends, in the
 vanguard of samIrA’s senA I will make her attack the long-coveted fort.
 She alone has the astra-s to breach that fort: Odysseus and
-Philoctetes”. Then ST opened a plastic wrap to show how she had
-achieved her greatest success – the bhojya version of a yavana cheese
-called manouri. It was like balancing on a knife-edge between molds and
+Philoctetes”. Then ST opened a plastic wrap to show how she had achieved
+her greatest success – the bhojya version of a yavana cheese called
+manouri. It was like balancing on a knife-edge between molds and
 bacteria. While savoring this delight worthy of the deva-s I showed them
 the above photo taken by the first hero to ST and ekanetra. Their jaws
 nearly dropped…
@@ -52,3 +56,4 @@ a component of the a concoction of our ancient ancestor chyavAna. It
 might be a selenium source.4) agasti (*Sesbania grandiflora*) is claimed
 by some to help in epilepsy. 5) shyonaka (*Oroxylum*) is supposed to
 relieve pains of the body.
+

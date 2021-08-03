@@ -1,7 +1,11 @@
 +++
 title = "Pāṇini, Xuanzang, and Tolkāppiyaṉ: some legends and history"
+date = "2015-09-02"
+upstream_url = "https://manasataramgini.wordpress.com/2015/09/02/pa%e1%b9%87ini-xuanzang-and-tolkappiya%e1%b9%89-some-legends-and-history/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/09/02/pa%e1%b9%87ini-xuanzang-and-tolkappiya%e1%b9%89-some-legends-and-history/).
+
 [A slightly modified version of article was originally published at
 IndiaFacts](http://indiafacts.co.in/pa%E1%B9%87ini-xuanzang-and-tolkappiya%E1%B9%89-some-legends-and-history/)
 
@@ -31,11 +35,11 @@ he had a dream, in which he saw himself being in India. This urged him
 to undertake a journey to India and directly study the texts of the
 bauddha-mata in their original language. He immediately set off for
 India having surreptitiously crossed the Chinese border with the Blue
-(Gök)Turk empire. The Khan of the Turks was pleased with his
-interaction with Xuanzang and gave his party a feast and assistance to
-reach the city of Tashkent and then enter the Iranian territory at
-Samarkand. The Iranian lord of Samarkand heard his lecture on mahāyāna
-and provided passage to go southwards towards India.
+(Gök)Turk empire. The Khan of the Turks was pleased with his interaction
+with Xuanzang and gave his party a feast and assistance to reach the
+city of Tashkent and then enter the Iranian territory at Samarkand. The
+Iranian lord of Samarkand heard his lecture on mahāyāna and provided
+passage to go southwards towards India.
 
 [![](https://lh3.googleusercontent.com/-T0XhIc4B7B4/VeaKY2MB2uI/AAAAAAAADWY/iSMJjPbBrhc/s800-Ic42/shalAtura.JPG)](https://picasaweb.google.com/lh/photo/o4_6CU-zLv7aIHypL9ZFM9MTjNZETYmyPJy0liipFm0?feat=embedwebsite)*Location
 of Śalātura*
@@ -47,21 +51,20 @@ of the Sindhu river, moving north from Attock). Xuanzang wrote in his Da
 Tang Xiyuji: “To the north-west of U-to-kia-han-c’ho at a distance of 20
 li or so we come to the town of So-ls-tu-lo (i.e. Śalātura). This is the
 place where the ṛṣi Pāṇini, who composed the Ching-ming-lun (the
-Aṣṭādhyāyi) was born… The children of this town, who are his
-disciples, revere his eminent qualities, and a statue erected to his
-memory still exists.” Evidently this statue of Pāṇini has been destroyed
-by the Moslems who have since occupied those regions. However, the
-village Chota Lahore apparently has several elevated mounds
-corresponding to the ruins of the ancient town of Śalātura, which were
-briefly explored by a Belgian woman named Corbeau close the middle of
-the last century; many Gandharan artifacts from there have apparently
-been looted and sold to western markets the Pakistanis. The monumental
-effort of Pāṇini is sometimes referred to in Hindu tradition as the
-Śālāturīya-matam after this now ruined town. Indeed, this is a stark
-reminder of how a site so important to the Hindu tradition, a center
-from which a monument of human thought emerged, can be so completely
-erased by the barbarism of the third Abrahamism – a fate that can
-overtake the whole of Jaṃbudvīpa.
+Aṣṭādhyāyi) was born… The children of this town, who are his disciples,
+revere his eminent qualities, and a statue erected to his memory still
+exists.” Evidently this statue of Pāṇini has been destroyed by the
+Moslems who have since occupied those regions. However, the village
+Chota Lahore apparently has several elevated mounds corresponding to the
+ruins of the ancient town of Śalātura, which were briefly explored by a
+Belgian woman named Corbeau close the middle of the last century; many
+Gandharan artifacts from there have apparently been looted and sold to
+western markets by the Pakistanis. The monumental effort of Pāṇini is
+sometimes referred to in Hindu tradition as the Śālāturīya-matam after
+this now ruined town. Indeed, this is a stark reminder of how a site so
+important to the Hindu tradition, a center from which a monument of
+human thought emerged, can be so completely erased by the barbarism of
+the third Abrahamism – a fate that can overtake the whole of Jaṃbudvīpa.
 
 Then the Da Tang Xiyuji records an interesting tradition regarding the
 life of Pāṇini:  
@@ -81,7 +84,7 @@ being dull and careless, he wished to reform the vague and false rules –
 to fix the rules and correct improprieties (of usage). As he wandered
 about asking for the right ways, he encountered Īśvara-deva and
 recounted to him the plan of his undertaking. Īśvara-deva said,
-“Wonderful\! I will assist you in this.” The ṛṣi, having received
+“Wonderful! I will assist you in this.” The ṛṣi, having received
 instruction, retired. He then labored incessantly and put forth all his
 power of mind. He collected a multitude of words (i.e. the Gaṇa-pāṭha),
 and made a book on letters which contained a thousand śloka-s; each
@@ -108,13 +111,13 @@ presentation of the Aṣṭādhyāyi to the supreme ruler of India (Cīna term:
 da wang) is related to by an account given by learned Rājpūt author
 Rājaśekhara in the Pratihāra court (\~late 800s-900s of CE):  
 śrūyate ca pāṭaliputre śāstrakāra-parīkṣā:  
-atropavarṣa-varṣav iha pāṇini-piṅgalāv iha vyāḍiḥ |  
-vararuci pataṅjalī iha parīkṣitāḥ khyātim upajagmuḥ ||
+atropavarṣa-varṣav iha pāṇini-piṅgalāv iha vyāḍiḥ \|  
+vararuci pataṅjalī iha parīkṣitāḥ khyātim upajagmuḥ \|\|
 
 One hears that in Pāṭaliputra (modern Patna) there was an examination of
 the authors of technical works: It was here that Upavarṣa, Varṣa,
-Pāṇini, Piṅgala, Vyāḍi, Vararuci and Pataṅjalin were tested and
-thereby attained fame.
+Pāṇini, Piṅgala, Vyāḍi, Vararuci and Pataṅjalin were tested and thereby
+attained fame.
 
 That Rājaśekhara was recording an ancient tradition becomes evident from
 the Greek philosopher Strabo(\~64 BC–24 CE)’s account of the court of
@@ -152,9 +155,9 @@ frustrated with him threw him out. The dejected Pāṇini is then said to
 have gone to the Himālaya to worship the god Rudra with austerities.
 Finally, please with Pāṇini, Rudra gave him a new grammar of the
 Sanskrit language. Armed with this Pāṇini is said to have returned to
-Pāṭaliputra and challenged Vararuci in the sabhā. Their debate raged
-for seven days and Vararuci felt he was close to defeating Pāṇini. But
-then on the eight day Rudra made a terrible noise from the skies and the
+Pāṭaliputra and challenged Vararuci in the sabhā. Their debate raged for
+seven days and Vararuci felt he was close to defeating Pāṇini. But then
+on the eight day Rudra made a terrible noise from the skies and the
 Aindra grammar, which was taught in the days of the Veda by Indra, in
 which Vararuci was an expert, was erased. With that Pāṇini emerged the
 victor. Utterly dejected by this, Vararuci is then said to have left his
@@ -181,18 +184,18 @@ story is more in line with the tradition of the Pāṇinīya-s who
 acknowledge that Pāṇini was a supreme scholar. As Agrawala points out
 the Kāśika commentary on Pāṇini plainly states:
 
-mahatī sūkṣmekṣikā vartate sūtrakārasya |  
+mahatī sūkṣmekṣikā vartate sūtrakārasya \|  
 The sūtrakāra (i.e. Pāṇini)’s insight is profound and subtle.
 
 However, the narrative of the Bṛhatkathā tradition attempts to
 consistently put down Pāṇini:  
-1\) It suggests that Pāṇini was a sluggard who got his grammar purely
-due to divine intervention.  
-2\) It further makes the point that even with the superior grammar he
-was unable to defeat Vararuci, the foremost proponent of the Aindra
-school of grammar – even here his victory was solely due to Rudra’s
-aggressive intervention on his behalf.  
-3\) It then suggests that, although Vararuci and Varṣa eventually
+1) It suggests that Pāṇini was a sluggard who got his grammar purely due
+to divine intervention.  
+2) It further makes the point that even with the superior grammar he was
+unable to defeat Vararuci, the foremost proponent of the Aindra school
+of grammar – even here his victory was solely due to Rudra’s aggressive
+intervention on his behalf.  
+3) It then suggests that, although Vararuci and Varṣa eventually
 switched to the Pāṇinīya school, they did not acquire it from Pāṇini.
 Rather, they independently obtained it respectively from Rudra and
 Kumāra.
@@ -248,27 +251,26 @@ Tamiḻ usage)
 
 There are some interesting features concerning this narrative regarding
 the Tolkāppiyam: First, it is said to have been presented at the
-Pāṇṭiyaṉ court in a manner similar to what is said of the
-Pāṇinīya grammar at the Magadhan court. Second, this act of
-presentation in the court, and it is apparent subsequent acceptance,
-seems to have been the basis of it being established as a standard. This
-again parallels the case of Pāṇini. Finally, it is of considerable
-significance to note that Tolkāppiyaṉ is said to have studied the
-colloquial and poetic usage of Tamiḻ throughout the Dramiḍa country,
-from Tirupati to Kanyakumari and analyzed it thoroughly to generate his
-grammar. This is an exact parallel of Pāṇini’s creation of the famed
-Gaṇa-pāṭha, which stands as one of the remarkable ethnological,
-geographical and linguistic explorations in the history of science.
-Pāṇini gathered comparable data from the greater Indo-Aryan realm
-from Prakaṇva (the Ferghana region of the modern Uzbek-Kyrgyz zone) to
-Kaliṅga (Odisha) and Sūramasa (Assam). This suggests that as the big
-Tamil kingdoms arose, several models, already perfected in the North,
-were transplanted to the southern courts, sparking similar endeavors in
-the Pāṇṭiyaṉ realm. The fact that an Aindra grammarian carried out a
-comparable exercise as Pāṇini in South India suggests that this method
-had already been imbibed by the rival school or perhaps both Pāṇini and
-Tolkāppiyaṉ inherited this methodological framework from the original
-Aindra tradition.
+Pāṇṭiyaṉ court in a manner similar to what is said of the Pāṇinīya
+grammar at the Magadhan court. Second, this act of presentation in the
+court, and it is apparent subsequent acceptance, seems to have been the
+basis of it being established as a standard. This again parallels the
+case of Pāṇini. Finally, it is of considerable significance to note that
+Tolkāppiyaṉ is said to have studied the colloquial and poetic usage of
+Tamiḻ throughout the Dramiḍa country, from Tirupati to Kanyakumari and
+analyzed it thoroughly to generate his grammar. This is an exact
+parallel of Pāṇini’s creation of the famed Gaṇa-pāṭha, which stands as
+one of the remarkable ethnological, geographical and linguistic
+explorations in the history of science. Pāṇini gathered comparable data
+from the greater Indo-Aryan realm from Prakaṇva (the Ferghana region of
+the modern Uzbek-Kyrgyz zone) to Kaliṅga (Odisha) and Sūramasa (Assam).
+This suggests that as the big Tamil kingdoms arose, several models,
+already perfected in the North, were transplanted to the southern
+courts, sparking similar endeavors in the Pāṇṭiyaṉ realm. The fact that
+an Aindra grammarian carried out a comparable exercise as Pāṇini in
+South India suggests that this method had already been imbibed by the
+rival school or perhaps both Pāṇini and Tolkāppiyaṉ inherited this
+methodological framework from the original Aindra tradition.
 
 This finally leads us to the thorny question of the date of Pāṇini.
 Given that the Bṛhatkathā tradition places him as a contemporary of the
@@ -296,3 +298,4 @@ of the Magadhan scholarly assembly in peer-reviewing and accepting
 Pāṇini’s monumental work.
 
 Further reading: India As Known To Pāṇini by Vasudeva Sharana Agrawala
+

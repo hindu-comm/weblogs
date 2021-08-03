@@ -1,8 +1,11 @@
 +++
-title = "Vaśiṣṭha’s stava to Sarasvatī(from thexa0Mahābhārata)"
-date = "2017-06-11"
+title = "Vaśiṣṭha’s stava to Sarasvatī(from the Mahābhārata)"
+date = "2017-11-06"
+upstream_url = "https://padmavajra.net/2017/06/11/vasi%e1%b9%a3%e1%b9%adhas-stava-to-sarasvatifrom-the-mahabharata/"
 
 +++
+Source: [here](https://padmavajra.net/2017/06/11/vasi%e1%b9%a3%e1%b9%adhas-stava-to-sarasvatifrom-the-mahabharata/).
+
 Source: [Shalya Parvan,Critical
 edition](http://sanskritdocuments.org/mirrors/mahabharata/txt/mbh09.itx)(it
 is missing in the Southern recension).

@@ -1,8 +1,11 @@
 +++
-title = "Eranshahr’s encounter withxa0Christiantiy"
+title = "Eranshahr’s encounter with Christiantiy"
 date = "2020-11-22"
+upstream_url = "https://padmavajra.net/2020/11/22/eranshahrs-encounter-with-christiantiy/"
 
 +++
+Source: [here](https://padmavajra.net/2020/11/22/eranshahrs-encounter-with-christiantiy/).
+
 
 
 ![](https://0.gravatar.com/avatar/99c02244974ff67cacfde902368f2ecc?s=32&d=identicon&r=G)[Thoughts

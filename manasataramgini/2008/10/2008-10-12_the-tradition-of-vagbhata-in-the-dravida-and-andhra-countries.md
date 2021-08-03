@@ -1,7 +1,11 @@
 +++
 title = "The tradition of vAgbhaTa in the drAviDa and Andhra countries"
+date = "2008-10-12"
+upstream_url = "https://manasataramgini.wordpress.com/2008/10/12/the-tradition-of-vagbhata-in-the-dravida-and-andhra-countries/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/10/12/the-tradition-of-vagbhata-in-the-dravida-and-andhra-countries/).
+
 We had earlier briefly alluded to the living tradition of vAgbhaTa in
 the chera country, which is practiced by the aShTavaidya-s. We currently
 believe this might be an early transmission of the great physician’s
@@ -51,8 +55,9 @@ kumAragiri, who gave him the village mentioned in the inscription. The
 second family of physicians was vaDama smArta-s of the drAviDa country
 belonging to the kAshyapa gotra. They appear to have settled in the
 Andhra country in Ponnupalli and their lineage is given as: periyavilla
-parahita-\>bhAskarArya-\>villanArya-\>si\~NganArya. We have inscriptions
-of bhAskarArya and si\~NganArya. Both families mention the founder of
-the parahita tradition, which is shrInAtha-paNDita, to have been a
+parahita->bhAskarArya->villanArya->si\~NganArya. We have inscriptions of
+bhAskarArya and si\~NganArya. Both families mention the founder of the
+parahita tradition, which is shrInAtha-paNDita, to have been a
 snake-doctor. He successful treated a snake with a blockage in its
 alimentary canal and was given the title sarpavyAdhichikitsaka.
+

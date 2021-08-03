@@ -1,8 +1,11 @@
 +++
-title = "A friend’s remarks on Sanskrit being taught at schools-its current state,with my remarks from personal experience at thexa0end"
+title = "A friend’s remarks on Sanskrit being taught at schools-its current state,with my remarks from personal experience at the end"
 date = "2018-02-24"
+upstream_url = "https://padmavajra.net/2018/02/24/a-friends-remarks-on-sanskrit-being-taught-at-schools-its-current-statewith-my-remarks-from-personal-experience-at-the-end/"
 
 +++
+Source: [here](https://padmavajra.net/2018/02/24/a-friends-remarks-on-sanskrit-being-taught-at-schools-its-current-statewith-my-remarks-from-personal-experience-at-the-end/).
+
 > School Sanskrit curriculum was not a shot of encouragement but an
 > inoculation against ever being interested Sanskrit.
 >

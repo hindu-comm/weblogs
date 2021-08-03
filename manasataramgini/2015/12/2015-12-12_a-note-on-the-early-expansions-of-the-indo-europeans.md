@@ -1,7 +1,11 @@
 +++
 title = "A note on the early expansions of the Indo-Europeans"
+date = "2015-12-12"
+upstream_url = "https://manasataramgini.wordpress.com/2015/12/12/a-note-on-the-early-expansions-of-the-indo-europeans/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/12/12/a-note-on-the-early-expansions-of-the-indo-europeans/).
+
 There have been a whole lot of developments in ancient human genomics
 that have more or less solved key issues pertaining to the early
 Indo-European expansions. We would like to discuss these but then it
@@ -23,8 +27,8 @@ as we had done, that these mantra-s contain a key reference that gives
 the identity of the original homeland of the Indo-Iranians, and now
 likely all Indo-Europeans. We have never been to that place, but if one
 realizes those mantra-s of the Bhṛgu-s, or the Bharadvāja-s or the
-Vaiśvāmitra-s one immediately sees the land it corresponds to – the
-land where there is fire within water.
+Vaiśvāmitra-s one immediately sees the land it corresponds to – the land
+where there is fire within water.
 
 ₪‡₪‡₪‡₪‡
 
@@ -107,8 +111,8 @@ were hatching on the Hindus.
 ₪‡₪‡₪‡₪‡
 
 In 2004 Cordaux et al published a clear and simple article titled
-“Independent Origins of Indian Caste and Tribal Paternal Lineages”
-that put the genie of OIT firmly back in the bottle. Yet, the Hindus
+“Independent Origins of Indian Caste and Tribal Paternal Lineages” that
+put the genie of OIT firmly back in the bottle. Yet, the Hindus
 including Talageri went on as though nothing had happened. There were
 some issues with that old article and it was based only on Y-chromosome
 haplogroups, but the wealth of new data on the genome-scale that has
@@ -238,45 +242,45 @@ Europe.
 
 • **What was the language of architect of these invasions from the
 steppes?**  
-\-Both philology and linguistics indicate that the ancestral
+-Both philology and linguistics indicate that the ancestral
 Indo-Europeans likely practiced an economy that had a major pastoral
 component and at least some agriculture. Further they also practiced
 honey-harvesting/bee-keeping which had its roots in old hunter-gatherer
 tradition. The pastoral component included cattle-rearing with the cow
 being an important cultural symbol or a holy animal or a sign of
-“wealth”; goat-rearing and sheep-rearing with the latter supplying
-wool from which garments were made; horse-rearing, with the horse like
-the cow being an important cultural symbol.  
-\-The early IE society was familiar with the birch tree and lived in
+“wealth”; goat-rearing and sheep-rearing with the latter supplying wool
+from which garments were made; horse-rearing, with the horse like the
+cow being an important cultural symbol.  
+-The early IE society was familiar with the birch tree and lived in
 place with cold winters during which it snowed.  
-\-The early IE society can be reconstructed as having a notable element
+-The early IE society can be reconstructed as having a notable element
 of mobility with wheeled vehicles. They also possessed an organized
 force for warfare, i.e. an army and likely possessed fortified
 settlements which were were the focus of military action. This is
 consistent with the heroic and warlike elements in all early
 attestations of IE traditions.  
-\-The earliest attested IE languages show a certain conservative element
+-The earliest attested IE languages show a certain conservative element
 and are closely related in vocabulary, grammar and elements of syntax
 unlike their modern descendants which have diverged quite a bit. This
 points to an explosive radiation from a source to their destinations
 rather than a prolonged stay of several thousand years in the
 destinations.  
-\-In Europe the Indo-European languages show substrata suggesting that
+-In Europe the Indo-European languages show substrata suggesting that
 they were intrusive into the region. Moreover, such substratum languages
 were historically attested (Etruscan) or still exist (Basque). The
 Yamnaya-derived Corded Ware culture’s intrusion into Europe marks a
 major population change. The Southern Mediterranean arc of Europe where
 the Yamnaya derived ancestry is the least is also where these survivals
 of substratum languages was/is more pronounced.  
-\-In the East, close to where the Afanasievo culture was once located,
-we find historical attestation of IE languages: Turfanian (Tocharian A)
-the most archaic of these from the Agni oasis; Kuchean (Tocharian B)
-from the Kucha oasis; loan words in the Indo-Aryan Niye Prakrit point to
-a third language Kroränian (Tocharian C). Together these constitute a
+-In the East, close to where the Afanasievo culture was once located, we
+find historical attestation of IE languages: Turfanian (Tocharian A) the
+most archaic of these from the Agni oasis; Kuchean (Tocharian B) from
+the Kucha oasis; loan words in the Indo-Aryan Niye Prakrit point to a
+third language Kroränian (Tocharian C). Together these constitute a
 monophyletic branch of IE, Tocharian.
 
 Considering all these points together we can say that the Yamnaya
-culture, from which were staged major population movements into Europe
+culture, from which werestaged major population movements into Europe
 and the Altai, was most likely comprised of early Indo-European
 speakers. The Yamnaya-derived population can accommodate the above
 points much better than positing the EF as the bearers of IE languages
@@ -290,8 +294,8 @@ imperfect, might be drawn with the movements of the Huns and Mongols in
 recorded history.
 
 • **What can we say about the biology of the early IE people?**  
-\-There are two major alleles linked to the transporter genes SLC45A2
-and SLC24A5 which are associated with light skin color in Indian and
+-There are two major alleles linked to the transporter genes SLC45A2 and
+SLC24A5 which are associated with light skin color in Indian and
 European populations. The SLC24A5 light skin allele appears to have
 undergone selection early on and was likely present at elevated
 frequencies or had reached fixation in the common ancestor of the EF and
@@ -308,14 +312,14 @@ Iberian populations where it is still little above 0.8 and higher than
 the old steppe frequencies). What this implies is that the Yamnaya and
 related steppe populations were fair-skinned but as group were less
 fair-skinned than modern Europeans. Modern Europeans received a double
-infusion of SLC24A5 fair-skin allele (from EF and Yamnaya-derived
+infusionof SLC24A5 fair-skin allele (from EF and Yamnaya-derived
 populations) and SLC45A2 (from Yamnaya). Thereafter SLC45A2 fair-skin
 allele underwent strong recent selection in the last 4.5 kyr to reach
 fixation. Thus, the whitening of the Europeans is a relatively recent
 phenomenon and as group are whiter than even the Indo-European steppe
 populations that contributed to their ancestry.
 
-\-HERC2/OCA2 allele which affects the expression of the
+-HERC2/OCA2 allele which affects the expression of the
 melanocyte-specific tyrosine transporter OCA2 in the iris and results in
 blue eyes appears to have reached fixation in the hunter-gatherers from
 western Europe. Whereas it is upto 0.8-0.9 in northern and western
@@ -326,7 +330,7 @@ their light eyes mainly from the old hunter-gatherer populations. It is
 also likely that the Yamnaya and related steppe-origin populations as
 group had darker hair color than seen in modern Europeans.
 
-\-Using 180 height-associated SNPs Mathieson et al found evidence for
+-Using 180 height-associated SNPs Mathieson et al found evidence for
 selection for increased height in the Yamnaya and related steppe-origin
 populations. This is consistent with the archaeological finding that the
 Yamnaya people were taller than average for the time. On the other hand
@@ -335,7 +339,7 @@ for reduced height in their descendant populations. This indicates that
 the the IE invaders from the steppe were taller than the older Europeans
 and contributed the genetics of increased height to modern Europeans.
 
-\-Indians and Europeans acquired lactose tolerance via the same
+-Indians and Europeans acquired lactose tolerance via the same
 polymorphism rs4988235 in the LCT gene region and earlier studies had
 suggested that it likely first emerged in the vicinity of Caucasus. In
 modern Indians from the north of the subcontinent this allele can reach
@@ -374,7 +378,7 @@ consuming sugar-rich food as they had nearly no dental carries, which
 again favors fermented milk-products.
 
 • **What were the subsequent developments in the steppe-land?** Starting
-about 4.5 kyr BP the climate in the Eurasian steppes began getting
+about 4.5 kyr BP the climate in the Eurasian steppes begangetting
 colder and drier: marshland and forests reduced, and the open grasslands
 expanded. As this climatic change started peaking the Poltavka culture,
 which was the genetically close successor of the Yamnaya, started giving
@@ -400,7 +404,7 @@ different degrees with the earlier steppe cultures, the Sintashta were
 characterized by new type of long spear with a heavy head, and new flint
 javelin heads which might have been hurled from chariots. The long
 1.2-1.5 meter bows found at the Berezovka site suggest that the warriors
-of this complex might used such from chariots too. (5) The artisans of
+of this complex might used suchfrom chariots too. (5) The artisans of
 this complex appear to have been good not only at making utility items
 but also rather elaborate jewelry.
 
@@ -421,7 +425,7 @@ near equal admixtures of EHG+CHG, the Potapovka and Sintashta were best
 modeled as a 3 population admixture of EF+EHG+CHG. This EF contribution
 (\~17%) indicates a further admixture after the Poltavka stage of the
 original Yamnaya-type steppe population with a early farmer population
-of west Asian origin like the descendants of the Anatolian EF.
+ofwest Asian origin like the descendants of the Anatolian EF.
 
 • **What were the major developments associated with the emergence of
 the Andronovo, Srubnaya and Seima-Turbino phenomenon?** Around 3.9 kyr
@@ -430,13 +434,13 @@ characterized by the sudden and dramatic spread of distinctive cultural
 artifacts from the east Asian steppes in Mongolia all the way to Europe
 within a span of few generations. While the reality of this phenomenon
 is still debated, the “genuine” Seima-Turbino sites are marked by
-sophisticated manufacture of Sn-bronze ware with great aesthetic
+sophisticated manufacture of Sn-bronze warewith great aesthetic
 accomplishment. The Seima-Turbino sites on one hand show weapons and
 anvils with links to the earlier or contemporary Sintashta complex while
 on other the daggers with a circular pommel innovated in this horizon
 became popular in the later Andronovo. Starting between 3.9-3.8 kyr BP
-the Potapovka in the west expands to spawn a successor culture, the
-Srubnaya. The Sintashta in the east similarly expands to form the
+the Potapovka in the west expands to spawna successor culture, the
+Srubnaya. The Sintashta in the east similarly expands to formthe
 Andronovo culture. Over the next few centuries these rapidly expand to
 set up a culturally similar horizon from the border of China to Europe
 and south toward west Asia. These developments were associated with
@@ -446,7 +450,7 @@ bronze.
 In terms of genetics the ancient DNA from the Srubnaya and Andronovo
 sites shows that they too like the predecessor
 Sintashta-Potapovka-Filatova complex possessed the additional EF type
-admixture. A notable phenomenon across these cultures in terms of
+admixture. Anotable phenomenonacross these cultures in terms of
 genetics is the rise of the the R1a Y chromosome haplogroup. The Yamnaya
 Y chromosomes are predominantly R1b and this is a dominant male
 haplogroup in Western Europe suggesting that it was brought there by the
@@ -503,16 +507,16 @@ DNA data from India. However, we do have useful data from modern Indian
 populations that helps say quite a few things.
 
 • **What about the philological and linguistic evidence?**  
-\-The oldest Indo-Aryan text the Ṛgveda has a unmistakable steppe-land
+-The oldest Indo-Aryan text the Ṛgveda has a unmistakable steppe-land
 imprint on it with a dominant role for cow-horse-sheep-centric
 pastoralism and some amount of agriculture. Rivers seem more important
 than large cities and all evidence is in favor of it being a bronze age
 text. Its culture was a heroic and warlike one, with fortified
 structures playing a key role. Horse-drawn chariots with spoked-wheels
 were central elements of the culture. The burial practice mentioned in
-the RV is mirrored in the Kurgan burials from the steppe sites. Grasses
-play multiple important roles in the religion, including being the seat
-where the gods sit. Without any shadow of doubt Indo-Aryan is related
+the RV is mirrored in the Kurgan burials from the steppe sites.Grasses
+play multipleimportant roles in the religion, including being the seat
+where the gods sit.Without any shadow of doubt Indo-Aryan is related
 most closely related to Iranian and the philological evidence from the
 oldest Iranian text the Avesta closely matches that from the early Vedic
 period of the Indo-Aryans. Thus, Indo-Aryan and Iranian arose in a
@@ -520,7 +524,7 @@ common milieu. Further, they share the Soma cult, which distinguishes
 them from all other branches of IE, suggesting a phase of shared
 development (proto-Indo-Iranian) distinct from other IE groups.
 
-\-In terms of linguistics the Indo-Iranian shows the satem state which
+-In terms of linguistics the Indo-Iranian shows the satem state which
 suggests a specific proximity to Baltic and Slavic branches after other
 branches of IE had moved away. Early Finno-Ugric shows several loans
 specifically from Indo-Iranian. Notably, loans of the word ārya, the
@@ -536,7 +540,7 @@ complex. Indeed, at the beginning of this complex there are
 archaeological remains suggestive of intense regular warfare involving
 the IE and Finno-Ugric groups, like the mass grave at Pepkino site.
 
-\-In India the New Indo-Aryan languages show a “Hindi” dialect continuum
+-In India the New Indo-Aryan languages show a “Hindi” dialect continuum
 of in the north from west to east. The other distinct New Indo-Aryan
 language branches are also relatively closely related and relate to the
 early dialect continuum seen across the Middle-Indo-Aryan Prakrits. This
@@ -549,7 +553,7 @@ autochthonous to India but entered an area where agricultural
 populations were already established.
 
 • **What about the genomic evidence from modern Indians?**  
-\-The work of Cordaux et al indicated that the Indian varṇa populations
+-The work of Cordaux et al indicated that the Indian varṇa populations
 are: (1) on an average less diverse than the tribal populations; (2) are
 significantly enriched for Y-chromosomes which have clearly affinities
 to those from the Central Asian steppe-land. Subsequent work by Reich
@@ -567,7 +571,7 @@ that were likely IE speakers. In this regard the ANI ancestry for an
 Indian group is also correlated with presence of the R1a-Z93 branch that
 is seen as early as the Poltavka culture and rises to dominate in
 Sintashta, Potapovka, Srubnaya and Andronovo cultures. Finally, the
-latest whole ancient genome studies indicated that both modern European
+latest whole ancient genome studies indicated thatboth modern European
 and Indian populations (with a north-south gradient) are on an average
 closer to ancient steppe populations than they are to each other. This
 would mean that populations related to the ancient steppe populations
@@ -589,7 +593,7 @@ have the luxury of ancient DNA and nor is India an eastern mirror image
 of the European scenario. Hence, as we try to work out the details of
 the Indian scenario things start to get more complex.
 
-\-First, the Neolithicization of India proceeded very differently. The
+-First, the Neolithicization of India proceeded very differently. The
 earliest Neolithic site in India is believed to be Mehrgarh in the
 Northwest, where one can clearly observe the transition between an
 aceramic culture to a ceramic culture and the emergence of a settled
@@ -600,7 +604,7 @@ temporally close to the Anatolian Neolithic; however, despite being
 situated to the Northwest there is no clear evidence for the Mehrgarh
 Neolithic being brought there by EFs from West Asia. The genetic
 evidence does not provide any clear support such early admixture of a
-West Asian population with the ASI (i.e. the proto-Indian population).
+West Asian population with the ASI (i.e.the proto-Indian population).
 Thus, it is quite possible that the Mehrgarh Neolithic was an
 independent Neolithicization, though we cannot rule out some role in its
 rise for memetic or temetic transfers from West Asia, even if there was
@@ -618,7 +622,7 @@ no role of the West Asian EFs. In a more extreme scenario it is also
 possible that these endogenous developments continued all the way to the
 bronze age with little external influence.
 
-\-Turning from archaeology back to genomics, Reich and colleagues used
+-Turning from archaeology back to genomics, Reich and colleagues used
 the D-statistic of the form D(Onge, X; YRI, Y) where X is an Indian
 population, YRI is the West African Yoruba outgroup, and Y is one
 population from a panel of 43 Western Eurasian populations. If the
@@ -635,7 +639,7 @@ for the ANI. The lowest f3 statistic of the form f3(target; source1,
 source2) indicates that for the ‘target’ population the best source
 populations for explaining it as an admixture are ‘source1’ and
 ‘source2’. In this experiment for populations across the
-subcontinent the lowest f3  was for f3(India subcontinent population;
+subcontinentthelowest f3 was for f3(India subcontinent population;
 Mesolithic CHG, Kharia), where Kharia is a tribal population from Madhya
 Pradesh with a predominantly ASI genome. The same CHG ancestry is the
 one which contributes roughly half of the Yamnaya ancestry and through
@@ -650,7 +654,7 @@ rest of Europe, and Eastern steppes.
 
 • **What would this mean for origin of proto-Indo-Europeans and the
 emergence of the Indo-Iranians?**  
-\-The finding the that the CHG derived component is the common
+-The finding the that the CHG derived component is the common
 denominator would imply that the Yamnaya people were unlikely to be the
 proto-Indo-Europeans. The corollary would be that PIE probably arose in
 the North Caucasus in a primarily CHG ancestry population close to the
@@ -718,43 +722,43 @@ branch of the early Indo-European people in the meantime had acquired
 admixtures with the EF and moved further north to mix with the older
 populations to found the Sintashta-like cultures.
 
-\-Now how does this square with the origin of the Indo-Iranians? Here is
+-Now how does this square with the origin of the Indo-Iranians? Here is
 where things get complex and multiple scenarios present themselves:  
 (1) The Sintashta-like cultures were the proto-Indo-Iranians who then
 expanded as Andronovo and Srubnaya during which Indo-Aryans and Iranians
 split. This is the mainstream model. The advantages it has are:  
-\-the spoked-wheel chariot warfare, which is so prominent in
-Indo-Iranian is archaeologically first attested here.  
-\-the dates would consistent with the attestation of Indo-Aryan in West
+-the spoked-wheel chariot warfare, which is so prominent in Indo-Iranian
+is archaeologically first attested here.  
+-the dates would consistent with the attestation of Indo-Aryan in West
 Asia in the Mitanni culture.  
-\-It brings IA into India after the collapse of the Harappan
+-It brings IA into India after the collapse of the Harappan
 civilization, which allows them to fill a vacuum thus explaining the
 total dominance of IA over much of the old Harappan zone.  
-\-It can easily account for the R1a-Z93 Y chromosomes, a prominent
+-It can easily account for the R1a-Z93 Y chromosomes, a prominent
 haplogroup in Indian males.  
-\-These populations show a completely consistent relationship to at
-least some of the modern Indians with high ANI components.  
-\-It is completely consistent with the median dates of admixtures
-between ANI and ASI as inferred from linkage disequilibrium \[This is
-after a correction is applied to those presented by Reich and colleagues
-which seem to represent the lower temporal end of the admixtures
-involving ANI-high sources\].
+-These populations show a completely consistent relationship to at least
+some of the modern Indians with high ANI components.  
+-It is completely consistent with the median dates of admixtures between
+ANI and ASI as inferred from linkage disequilibrium \[This is after a
+correction is applied to those presented by Reich and colleagues which
+seem to represent the lower temporal end of the admixtures involving
+ANI-high sources\].
 
 The disadvantages of this scenario are:  
-\-While it accounts for R1a-Z93 the rest of the genetics is
+-While it accounts for R1a-Z93 the rest of the genetics is
 less-consistent especially given the lower expected EHGs for most
 Indians with ANI components i.e. they are better explained as an
 admixture with a population that is predominantly dominant in CHG
 ancestry with little EHG component.  
-\-The dates of entry into India via the conventional scenario are
+-The dates of entry into India via the conventional scenario are
 inconsistent with the philological evidence for the Sarasvati river and
 the most reliable astronomical dates of the Veda.
 
 These disadvantages could be explained away by positing:  
-\-The Bactria-Margiana complex (BMAC) was primarily of CHG ancestry. As
+-The Bactria-Margiana complex (BMAC) was primarily of CHG ancestry. As
 the Andronovo-like I-Ir filtered through the BMAC they got enriched in
 CHG, which is what we seen in most Indians.  
-\-A two invasion scenario with a non-Indo-European population with
+-A two invasion scenario with a non-Indo-European population with
 primarily CHG ancestry that came first followed by Indo-Europeans. So
 only a part of the Indians with ANI have really Indo-Aryan ancestry with
 rest of ANI being from a non-Indo-European source. Some whites and their
@@ -763,10 +767,10 @@ like this scenario. However, we hold that this is unlikely because even
 given a multiple invasion scenario (which in itself is possible) the
 earliest admixtures as calculated by linkage disequilibrium are too
 recent for such an imagined non-IE invasion.  
-\-Finally the astronomical references are accounted for as being
+-Finally the astronomical references are accounted for as being
 incorporation of an older textual material into younger texts.
 
-(2) This is a variant of the above scenario, which involves multiple
+\(2\) This is a variant of the above scenario, which involves multiple
 invasions but all of these are Indo-European, primarily Indo-Iranian.
 The idea of ārya-s entering India wave upon wave is an old one. There is
 some support for this from philology: the members of the pañcajana and
@@ -794,7 +798,7 @@ oddities like the the kentum substratum in Bangani, which might imply
 that one of the waves included in it a substantial kentum-language
 speaking population.
 
-(3) In this scenario it is proposed that the Sintasha-like complex of
+\(3\) In this scenario it is proposed that the Sintasha-like complex of
 cultures and its Andronovo successor were not the primary set of people
 who brought the Indo-Aryan languages to the subcontinent. Instead they
 are seen as being the Indo-Iranians who never reached India: primarily
@@ -833,20 +837,20 @@ by the inferences of decay of linkage disequilibrium based on the data
 we have today.
 
 The advantages of this scenario are:  
-\-At least it brings the period of entry into India close to the Kṛttikā
+-At least it brings the period of entry into India close to the Kṛttikā
 period inferred from Vedic astronomical references.  
-\-It gives at least \~2 centuries of an active Indian Sarasvati for it
-to be embedded in the memory of the Indo-Aryans in the formative phase
-of their presence in India.  
-\-It gives an explanation for the spike in evidence for contacts with
+-It gives at least \~2 centuries of an active Indian Sarasvati for it to
+be embedded in the memory of the Indo-Aryans in the formative phase of
+their presence in India.  
+-It gives an explanation for the spike in evidence for contacts with
 central Asia ranging from the horse to the Rathacakra kurgans in India.
 
 The disadvantages of this scenario are:  
-\-The weight of the evidence suggests a prolonged shared development
-with Iranian: this model is less conducive for that.  
-\-Especially if the exit of the Indo-Aryans happened via a southern
-route as suggested by the CHG predominance, then the shared loans into
-and from Finno-Ugric are less easily explained.
+-The weight of the evidence suggests a prolonged shared development with
+Iranian: this model is less conducive for that.  
+-Especially if the exit of the Indo-Aryans happened via a southern route
+as suggested by the CHG predominance, then the shared loans into and
+from Finno-Ugric are less easily explained.
 
 In conclusion, we believe that the details about how the invasion(s)
 happened remain murky. Ancient DNA could conclusively solve the issue in
@@ -956,3 +960,4 @@ Apr;18(4):479-84. doi: 10.1038/ejhg.2009.194.
 Rosenberg NA et al Low levels of genetic divergence across
 geographically and linguistically diverse populations from India. PLoS
 Genet. 2006 Dec;2(12):e215
+

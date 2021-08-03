@@ -1,8 +1,11 @@
 +++
-title = "BHARAT MATA AND THE INDO-EUROPEAN DEIFIC OF NATIONALxa0IDENTITY"
-date = "August 15, 2018"
+title = "BHARAT MATA AND THE INDO-EUROPEAN DEIFIC OF NATIONAL IDENTITY"
+date = "2018-08-15"
+upstream_url = "https://aryaakasha.com/2018/08/15/bharat-mata-and-the-indo-european-deific-of-national-identity/"
 
 +++
+Source: [here](https://aryaakasha.com/2018/08/15/bharat-mata-and-the-indo-european-deific-of-national-identity/).
+
 ![18320612_10158660040905574_1319203457793066901_o](https://aryaakasha.files.wordpress.com/2018/08/18320612_10158660040905574_1319203457793066901_o.jpg?w=676)  
 August 15th is India’s National Day – the hallowed anniversary of
 Independence. And for that, we have prepared something a little bit

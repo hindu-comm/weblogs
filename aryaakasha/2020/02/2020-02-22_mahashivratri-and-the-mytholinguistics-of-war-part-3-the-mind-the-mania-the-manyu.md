@@ -1,8 +1,11 @@
 +++
-title = "MahaShivRatri And The Mytholinguistics Of War [Part 3] – The Mind, The Mania, Thexa0Manyu"
-date = "February 22, 2020"
+title = "MahaShivRatri And The Mytholinguistics Of War [Part 3] – The Mind, The Mania, The Manyu"
+date = "2020-02-22"
+upstream_url = "https://aryaakasha.com/2020/02/22/mahashivratri-and-the-mytholinguistics-of-war-part-3-the-mind-the-mania-the-manyu/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/02/22/mahashivratri-and-the-mytholinguistics-of-war-part-3-the-mind-the-mania-the-manyu/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/02/666234bcebd39735416bd13d496a7820.jpg?w=414)
 
 \[Author’s Note: It is said that some efforts take on a ‘mind of their

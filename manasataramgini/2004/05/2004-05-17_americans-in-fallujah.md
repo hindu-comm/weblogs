@@ -1,7 +1,11 @@
 +++
 title = "Americans in Fallujah"
+date = "2004-05-17"
+upstream_url = "https://manasataramgini.wordpress.com/2004/05/17/americans-in-fallujah/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/05/17/americans-in-fallujah/).
+
 The American war machine under their not so intelligent Emperor easily
 achieved the conquest of Mesopotamia. The great Yankie Emperor now sat
 on the throne of Baghadad (albeit in a brief secret visit) emulating his
@@ -37,3 +41,4 @@ have screwed a place up they just leave it that way and go home. No
 doubt that in Latin America, Balkans, Vietnam, Africa, Middle East
 North-West of the sub-continent the CIA’s spoor is still hot amidst the
 various nations fixed by the US.
+

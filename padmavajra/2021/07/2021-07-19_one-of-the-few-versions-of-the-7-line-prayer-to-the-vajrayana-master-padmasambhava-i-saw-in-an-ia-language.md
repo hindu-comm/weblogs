@@ -1,8 +1,11 @@
 +++
-title = "One of the few versions of the 7 line prayer to the Vajrayana master Padmasambhava I saw in an IAxa0language"
+title = "One of the few versions of the 7 line prayer to the Vajrayana master Padmasambhava I saw in an IA language"
 date = "2021-07-19"
+upstream_url = "https://padmavajra.net/2021/07/19/one-of-the-few-versions-of-the-7-line-prayer-to-the-vajrayana-master-padmasambhava-i-saw-in-an-ia-language/"
 
 +++
+Source: [here](https://padmavajra.net/2021/07/19/one-of-the-few-versions-of-the-7-line-prayer-to-the-vajrayana-master-padmasambhava-i-saw-in-an-ia-language/).
+
 Posting it here because most versions I see are Tibetan(and the lines
 mean the same anyway)
 

@@ -1,8 +1,11 @@
 +++
-title = "The “Buddhist” Coin Of Tilya  Tepe – Arte-Factsxa0#3"
-date = "September 19, 2019"
+title = "The “Buddhist” Coin Of Tilya  Tepe – Arte-Facts #3"
+date = "2019-09-19"
+upstream_url = "https://aryaakasha.com/2019/09/19/the-buddhist-coin-of-tilya-tepe-arte-facts-3/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/09/19/the-buddhist-coin-of-tilya-tepe-arte-facts-3/).
+
 
 
 [](https://aryaakasha.com/2019/09/19/the-buddhist-coin-of-tilya-tepe-arte-facts-3/70153010_10162280463230574_1531637543081082880_n/)

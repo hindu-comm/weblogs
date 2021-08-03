@@ -1,7 +1,11 @@
 +++
 title = "gulikA-madness"
+date = "2009-05-25"
+upstream_url = "https://manasataramgini.wordpress.com/2009/05/25/gulika-madness/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/05/25/gulika-madness/).
+
 In the long past days we were seated in a niche at the foot of the
 viShThA-parvata with the chaturtha and the feral brAhmaNa. The chaturtha
 was caressing his rAmapUrIya asiputrikA while SS polished the handle of
@@ -43,3 +47,4 @@ it played out in our days. However, the muni and I would probably think
 we were very prophetic for our self-contained entertainment till my last
 evening on the shores of jambudvIpa was this abbreviated form of the
 game.
+

@@ -1,7 +1,11 @@
 +++
 title = "A molecular phylogeny of birds"
+date = "2008-07-05"
+upstream_url = "https://manasataramgini.wordpress.com/2008/07/05/a-molecular-phylogeny-of-birds/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/07/05/a-molecular-phylogeny-of-birds/).
+
 While much progress has been made with respect to the paleontological
 studies on the origin of birds within Dinosauria, comparable progress
 was lacking with respect to understanding the relationships between
@@ -20,14 +24,15 @@ here are: 1) the paleognathae and neognathae as a basic split within
 neornithes and 2) Galloanserae as the basal split in neognathae. The
 rest of their tree has many surprises and is shown below.
 
-[![Figure 1](https://manasataramgini.files.wordpress.com/2008/07/bird_phylogeny.jpg?w=223&h=300)](https://manasataramgini.files.wordpress.com/2008/07/bird_phylogeny.jpg)
+[![Figure
+1](https://manasataramgini.files.wordpress.com/2008/07/bird_phylogeny.jpg?w=223&h=300)](https://manasataramgini.files.wordpress.com/2008/07/bird_phylogeny.jpg)
 
 Figure 1
 
 For a more visual version see this: [Visual Avian
 Phylogeny](https://manasataramgini.wordpress.com/2010/02/08/a-visual-guide-to-avian-phylogeny/)  
 The main features of the tree are:  
-\-After the separation of the galloanserae, the remaining neognathae
+-After the separation of the galloanserae, the remaining neognathae
 (neoaves) underwent several major radiations spawning big clades. These
 include: 1) A basal clade of grebes and flamingoes. 2) the
 caprimulgiformes including the swifts and humming birds. As proposed by
@@ -51,18 +56,18 @@ owls,cuckoo-rollers, trogons, hoopoes, hornbills,
 kingfishers+bee-eaters+rollers, barbets+honeyguides+woodpeckers,
 puffbirds+jacamars, seriemas, falcons, parrots and the great passerine
 radiation.  
-\-The pigeons+doves, hoatzin, sandgrouse remain distinct basal clades
+-The pigeons+doves, hoatzin, sandgrouse remain distinct basal clades
 within neoaves radiation.  
-\-Interestingly, though the Falconiformes are split into two non-sister
+-Interestingly, though the Falconiformes are split into two non-sister
 clades comprising of falcons on one side and the rest including the New
 World Vultures in another.  
-\-The owls are no longer anywhere near the caprimulgiformes.  
-\-The parrots becoming the closest sister group of the passerines is
-also quite surprising. Coraciiformes are expanded to include Piciformes
+-The owls are no longer anywhere near the caprimulgiformes.  
+-The parrots becoming the closest sister group of the passerines is also
+quite surprising. Coraciiformes are expanded to include Piciformes
 inside them.  
-\-The seriemas being nested close to the falcons, parrots and passerines
+-The seriemas being nested close to the falcons, parrots and passerines
 rather than group with cranes is also much unexpected.  
-\-Shockingly amongst the Paleognathae, in contrast to all previous
+-Shockingly amongst the Paleognathae, in contrast to all previous
 studies, tinamous are nested deep inside the paleognath clade between
 rheas and the cassowary+emu clade.
 
@@ -150,3 +155,4 @@ falconiformes really split up into the two convergent clades? This is
 one occasion I am not sure the molecular phylogenies can be entirely
 trusted. I wonder if the long branches of the falcons have something to
 do with this.
+

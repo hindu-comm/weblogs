@@ -1,8 +1,11 @@
 +++
-title = "On The Potential Unintended Consequences Of Rome Inviting Home Foreign Gods – The Siege Of Jerusalemxa0Example"
-date = "November 24, 2020"
+title = "On The Potential Unintended Consequences Of Rome Inviting Home Foreign Gods – The Siege Of Jerusalem Example"
+date = "2020-11-24"
+upstream_url = "https://aryaakasha.com/2020/11/24/on-the-potential-unintended-consequences-of-rome-inviting-home-foreign-gods-the-siege-of-jerusalem-example/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/11/24/on-the-potential-unintended-consequences-of-rome-inviting-home-foreign-gods-the-siege-of-jerusalem-example/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/11/parade-rome-articles-ce-sack-detail-reliefs-81-ce.jpg?w=550)
 
 Something I was … rather surprised to learn in the course of researching

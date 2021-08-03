@@ -1,7 +1,11 @@
 +++
 title = "Mythologists"
+date = "2004-12-24"
+upstream_url = "https://manasataramgini.wordpress.com/2004/12/24/mythologists/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/12/24/mythologists/).
+
 So impressed was Jung by the mental patients that he believed the
 origins of myth lay in mental disease. With this conclusion Jung set
 rolling many a modern western critique of myth. The first sterile
@@ -30,7 +34,7 @@ Once I mused in the midst of my despicable plebeian band:
 “The cytoskeletal kinase LimK1, which is downstream of the protein
 neuregulin is mutated and you have Williams syndrome. These unlucky
 souls see everything, even highly mundane objects, in a highly
-anthropomorphic form and exhibit hypersocial behavior\!”
+anthropomorphic form and exhibit hypersocial behavior!”
 
 Neo-Jungians believe here in lies the impetus for the mythic archetype:
 The primitive myth-making human as a borderline case of mental disease
@@ -42,18 +46,19 @@ there is a mental template for the form myths may assume. For this we
 discard certain recent pronouncements on the topic and seek the
 following for the grand synthesis of the understanding of myth:  
   
-1\) The evolutionary aspect: divergence and recombination from an
+1) The evolutionary aspect: divergence and recombination from an
 ancestor through replication.  
   
-2\) Do convergent myths arise repeatedly due to constraints of neural
+2) Do convergent myths arise repeatedly due to constraints of neural
 architecture.  
   
-3\) What is the role in external inspiration on myth:1) was it a
-repeated seed. 2) was it a repeated reinforcement of the ancestral myths
+3) What is the role in external inspiration on myth:1) was it a repeated
+seed. 2) was it a repeated reinforcement of the ancestral myths
 diverging away.  
   
-4\) What is the role of internal inspiration: the neural architecture
+4) What is the role of internal inspiration: the neural architecture
 (including the aspect of brain disease) was a mere reinforcement or a
 repeated generator.  
   
-We need to synthesize these points into an explanative model.
+We need to synthesize these points into an explanative model.  
+

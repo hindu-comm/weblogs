@@ -1,8 +1,11 @@
 +++
-title = "“MY HAT IS AN ELEPHANT – YOUR SOVEREIGNTY IS INVALID” – A Gandharan Coin of Demetrius I – Arte-Factsxa0#4"
-date = "September 19, 2019"
+title = "“MY HAT IS AN ELEPHANT – YOUR SOVEREIGNTY IS INVALID” – A Gandharan Coin of Demetrius I – Arte-Facts #4"
+date = "2019-09-19"
+upstream_url = "https://aryaakasha.com/2019/09/19/my-hat-is-an-elephant-your-sovereignty-is-invalid-a-gandharan-coin-of-demetrius-i-arte-facts-4/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/09/19/my-hat-is-an-elephant-your-sovereignty-is-invalid-a-gandharan-coin-of-demetrius-i-arte-facts-4/).
+
 ![70310721_10162284402905574_6673741461239889920_n](https://aryaakasha.files.wordpress.com/2019/09/70310721_10162284402905574_6673741461239889920_n.jpg?w=676)![69518726_10162284417820574_5391518415703769088_n](https://aryaakasha.files.wordpress.com/2019/09/69518726_10162284417820574_5391518415703769088_n.jpg?w=676)
 
 Coin of the Indo-Greek ruler Demetrios I, from the first decade of the

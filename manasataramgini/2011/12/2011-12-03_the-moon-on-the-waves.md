@@ -1,7 +1,11 @@
 +++
 title = "The moon on the waves"
+date = "2011-12-03"
+upstream_url = "https://manasataramgini.wordpress.com/2011/12/03/the-moon-on-the-waves/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/12/03/the-moon-on-the-waves/).
+
 We had a lengthy conversation. She smiled, and said: After all the
 kApAlikau can recognize each other even without the Chomma. When a strI
 with tresses flowing like sarasvatI in her descent, stanau like
@@ -33,7 +37,7 @@ else he expires even as the tathAgata in the embrace of chitrasenA.
 After this he knows the reality of chit and observes prakR^itI as she
 unfolds.
 
-Atho dUti paripR^ichCha |  
+Atho dUti paripR^ichCha \|  
 We say to the dUtI:  
 May we be shatrujit.  
 We observed you unfolding.  
@@ -53,3 +57,4 @@ They have the indriyANi all made of aNu-s stemming from the bhUtAdi.
 When the eka, and the yugma-s, and indriyANi are all aNu-s which we know
 are all your unfolding, where is the puruSha?  
 Is he the sattva?
+

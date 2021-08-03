@@ -1,8 +1,11 @@
 +++
-title = "Āvaraṇas of Jagannātha as Kṛṣṇa in the Purixa0Śrīmandira"
+title = "Āvaraṇas of Jagannātha as Kṛṣṇa in the Puri Śrīmandira"
 date = "2020-11-14"
+upstream_url = "https://padmavajra.net/2020/11/14/avaranas-of-jagannatha-as-krsna-in-the-puri-srimandira/"
 
 +++
+Source: [here](https://padmavajra.net/2020/11/14/avaranas-of-jagannatha-as-krsna-in-the-puri-srimandira/).
+
 There are seven āvaraṇas(surrounding ‘layers’ of deities) around the
 main Jagannātha deity in the Puri temple. They are:
 

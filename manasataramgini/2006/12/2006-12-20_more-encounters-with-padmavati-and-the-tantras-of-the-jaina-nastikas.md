@@ -1,7 +1,13 @@
 +++
 title = "More encounters with padmAvatI and the tantras of the jaina nAstikas"
+date = "2006-12-20"
+upstream_url = "https://manasataramgini.wordpress.com/2006/12/20/more-encounters-with-padmavati-and-the-tantras-of-the-jaina-nastikas/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/12/20/more-encounters-with-padmavati-and-the-tantras-of-the-jaina-nastikas/).
+
+
+
 [![](https://i0.wp.com/bp3.blogger.com/_ZhvcTTaaD_4/RYjoXe6AktI/AAAAAAAAAAM/ZAQDBiDjp9A/s320/padubai.jpg)](http://bp3.blogger.com/_ZhvcTTaaD_4/RYjoXe6AktI/AAAAAAAAAAM/ZAQDBiDjp9A/s1600-h/padubai.jpg)
 
 Continuing with our encounters with padubai (padmAvatI), we come to that
@@ -20,38 +26,37 @@ shrine where there was a large exquisite rock image of padmAvatI, which
 he claimed was installed by a jinendra named pradyumna-sUri. We noted
 that on the pedestal of the image of the devI was inscribed a peculiar
 mantra:  
-OM hrIM namo.astu bhagavati padmAvatI ehi ehi saM vauShaT ||  
-
+OM hrIM namo.astu bhagavati padmAvatI ehi ehi saM vauShaT \|\|  
 There was something about the icon — one could feel the great goddess
 with many arms, holding many weapons inspire a sense of awe. I had the
 same feeling as what I felt only in the presence of another old idol of
-the great mantriNI, who is sangIta-yoginI, at some other point in time.
+the great mantrinI, who is sangIta-yoginI, at some other point in time.
 I kept this in mind and was to learn more of it some months later.
 
 Both me and the muni had enjoyed the excellent hospitality of a
 remarkable jinendra during our expeditions to the north of the city of
 my birth in the kAlAmukha country. This jinendra was remarkable in that
 he doubled both as priest of temple of rudra and as an AchArya of the
-nAstIka-s\! As a result he was familiar with both traditions and was
-free from the rancor that characterized the medieval nAstika
-mantravAdin-s who fought their fierce abhichAra battles with AstIkas,
-bauddha nAstIkas and their digambara nAstIka cousins. It is well-known
-that that the jaina nAstIkas were tantrics right from their early days-
-the jaina hero kovalan of the draviDa epic shilapadhikAraM is described
-as performing different mantra prayogas. But their mantra-shAstra has
-remained more hidden than the famous activities of their bauddha rivals.
-One evening after an exploration we were returning to the house of the
-jinendra, when we noted him performing a homa with several mantras. This
-piqued our interest and we made inquiries and he was kind enough to
-reveal to us over some time period the details of the nAstIka
-mantrashAstra. He was himself in the parampara of the following great
-nAstIka prayoga adepts who attained siddhi of the mantras of our goddess
-pratya\~NgirA as per the nAstIka traditions. Each one of them had
-composed tantric kalpa-s on the prayogas of shrI pratya\~NgirA devI: 1)
-the ShaT-karma master sAgara-chandra-sUri 2) bAlachandra-sUri 3)
-pradyumna-sUri 4) devabhadra. Of great interest was the fact that
-nAstIkas admitted possessing a class of mantras termed AtharvaNI from
-which stem the pratya\~NgirA prayogas.
+nAstIka-s! As a result he was familiar with both traditions and was free
+from the rancor that characterized the medieval nAstika mantravAdin-s
+who fought their fierce abhichAra battles with AstIkas, bauddha nAstIkas
+and their digambara nAstIka cousins. It is well-known that that the
+jaina nAstIkas were tantrics right from their early days- the jaina hero
+kovalan of the draviDa epic shilapadhikAraM is described as performing
+different mantra prayogas. But their mantra-shAstra has remained more
+hidden than the famous activities of their bauddha rivals. One evening
+after an exploration we were returning to the house of the jinendra,
+when we noted him performing a homa with several mantras. This piqued
+our interest and we made inquiries and he was kind enough to reveal to
+us over some time period the details of the nAstIka mantrashAstra. He
+was himself in the parampara of the following great nAstIka prayoga
+adepts who attained siddhi of the mantras of our goddess pratya\~NgirA
+as per the nAstIka traditions. Each one of them had composed tantric
+kalpa-s on the prayogas of shrI pratya\~NgirA devI: 1) the ShaT-karma
+master sAgara-chandra-sUri 2) bAlachandra-sUri 3) pradyumna-sUri 4)
+devabhadra. Of great interest was the fact that nAstIkas admitted
+possessing a class of mantras termed AtharvaNI from which stem the
+pratya\~NgirA prayogas.
 
 The jinendra explained that some of the main prayogas of great
 importance (other than pratya\~NgirA) were those of padmAvatI, ambikA
@@ -71,3 +76,4 @@ in the kalpa for escaping ordeal inflicted by rulers is the
 rAja-shyAmalA or sangIta-yoginI mantra. The nityaklinnA prayoga is
 provided for bewitching women. vidyA-s are also provided for
 chandeshvara, garuDa (for countering snakes) and kurukullA.
+

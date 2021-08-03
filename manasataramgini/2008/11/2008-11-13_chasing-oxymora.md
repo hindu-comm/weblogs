@@ -1,7 +1,11 @@
 +++
 title = "Chasing oxymora"
+date = "2008-11-13"
+upstream_url = "https://manasataramgini.wordpress.com/2008/11/13/chasing-oxymora/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/11/13/chasing-oxymora/).
+
 After the self-analysis by the muni and myself we discovered our
 Achilles heels. But still drawn by the noose of mAyA I was seized by the
 nishAchari. Lamenting my fate I once used the phrase “chasing oxymora”
@@ -51,10 +55,10 @@ Autonomous agents: Organisms move acquire nutrition, sense and respond
 to environmental changes, and modify the environment to suit their
 needs. These actions which signal their ability to act on their own
 behalf make them autonomous agents. Today, many autonomous agents exist
-– computer programs (e.g. computer viruses), robots and of course
-life. Of course robots and most programs that act as autonomous agents
-are incapable to reproduction, which is a hallmark of life. Thus, life
-is a special autonomous agent whose actions on its own behalf ultimately
+– computer programs (e.g. computer viruses), robots and of course life.
+Of course robots and most programs that act as autonomous agents are
+incapable to reproduction, which is a hallmark of life. Thus, life is a
+special autonomous agent whose actions on its own behalf ultimately
 include the ability to make more copies of itself. Given this idea of
 the autonomous agent a series of philosophical questions came to us in
 course of that conversation in the height of our bodily powers: Was life
@@ -80,3 +84,4 @@ universe would we be able to distinguish engineered life seeded on a
 planet from emergent life?  
 What is the relationship between emergence of autonomous agents and
 consciousness, if any?
+

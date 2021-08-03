@@ -1,7 +1,11 @@
 +++
 title = "samara-saMsparsha"
+date = "2008-04-09"
+upstream_url = "https://manasataramgini.wordpress.com/2008/04/09/samara-samsparsha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/04/09/samara-samsparsha/).
+
 Just as we were about to deploy rakShoha-agni the kulu\~ncha action of
 the ari destroyed our prayoga. We were briefly surprised but took
 another route via shUlinI and indra-vajrabAhu. Then realizing that the
@@ -14,3 +18,4 @@ pre-dawn attack. Kp was called upon to feed even this time. Managing the
 thing was stressful though. Time alone would tell if they really worked.
 ari-s returned to attempt the stambhana and mAraNa; at least temporarily
 we averted them.
+

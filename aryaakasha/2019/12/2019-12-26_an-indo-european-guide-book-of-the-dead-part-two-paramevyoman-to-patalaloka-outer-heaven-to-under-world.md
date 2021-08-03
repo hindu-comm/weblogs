@@ -1,8 +1,11 @@
 +++
-title = "AN INDO-EUROPEAN GUIDE-BOOK OF THE DEAD – Part Two: Paramevyoman to Patalaloka – ‘Outer Heaven’ to ‘Underxa0World’"
-date = "December 26, 2019"
+title = "AN INDO-EUROPEAN GUIDE-BOOK OF THE DEAD – Part Two: Paramevyoman to Patalaloka – ‘Outer Heaven’ to ‘Under World’"
+date = "2019-12-26"
+upstream_url = "https://aryaakasha.com/2019/12/26/an-indo-european-guide-book-of-the-dead-part-two-paramevyoman-to-patalaloka-outer-heaven-to-under-world/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/12/26/an-indo-european-guide-book-of-the-dead-part-two-paramevyoman-to-patalaloka-outer-heaven-to-under-world/).
+
 ![](https://aryaakasha.files.wordpress.com/2019/12/80207990_10162728723100574_269185164016353280_o.jpg?w=691)
 
 Often, when we are thinking about the afterlife, and the Realm of the

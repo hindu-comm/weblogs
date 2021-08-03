@@ -1,8 +1,11 @@
 +++
 title = "On Shakta Agama"
 date = "2018-04-24"
+upstream_url = "https://padmavajra.net/2018/04/24/on-shakta-agama/"
 
 +++
+Source: [here](https://padmavajra.net/2018/04/24/on-shakta-agama/).
+
 I am excluding the Durgotsava-s here,since they are purANAntargata from
 here,and are temporary. But amongst shAkta AgAmas,I really am not able
 to think of any one that is specifically meant for parArthArchanA. I

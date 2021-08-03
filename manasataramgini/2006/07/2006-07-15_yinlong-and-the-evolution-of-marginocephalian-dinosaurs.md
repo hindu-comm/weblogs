@@ -1,7 +1,13 @@
 +++
 title = "Yinlong and the evolution of Marginocephalian dinosaurs"
+date = "2006-07-15"
+upstream_url = "https://manasataramgini.wordpress.com/2006/07/15/yinlong-and-the-evolution-of-marginocephalian-dinosaurs/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/07/15/yinlong-and-the-evolution-of-marginocephalian-dinosaurs/).
+
+
+
 [![](https://i1.wp.com/photos1.blogger.com/blogger/2010/410/320/Yinlong.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/Yinlong.jpg)[![](https://i0.wp.com/photos1.blogger.com/blogger/2010/410/320/ceratopsian_skulls.png)](http://photos1.blogger.com/blogger/2010/410/1600/ceratopsian_skulls.gif)
 
 Many years ago, when I was around 9 or 10 years old, I performed my
@@ -79,3 +85,4 @@ best recently described examples of this is Centrosaurus brinkmanii with
 a striking bunch of spikes and hooks on the frill.
 
 [![](https://i0.wp.com/photos1.blogger.com/blogger/2010/410/320/centrosaurus_brinkmani.png)](http://photos1.blogger.com/blogger/2010/410/1600/centrosaurus_brinkmani.png)
+

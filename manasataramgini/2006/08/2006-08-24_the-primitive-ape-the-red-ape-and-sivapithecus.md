@@ -1,7 +1,11 @@
 +++
 title = "The primitive ape, the red ape and Sivapithecus"
+date = "2006-08-24"
+upstream_url = "https://manasataramgini.wordpress.com/2006/08/24/the-primitive-ape-the-red-ape-and-sivapithecus/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/08/24/the-primitive-ape-the-red-ape-and-sivapithecus/).
+
 Long ago in our earliest youth, we were fascinated to no end by the
 evolution of anthropoid primates and spent endless hours considering the
 merits of the Orang, the chimpanzees and the gorilla as our closest
@@ -23,28 +27,28 @@ morphological and behavioral similarities between Pongo and Homo are of
 considerable interest in terms of the primitive and derived conditions
 in apes. I will merely restrict myself to a few gross anatomical and
 behavior points of interest that have been claimed for the red ape:  
-1\) The red ape is apparently very able at solving mechanical problems-
+1) The red ape is apparently very able at solving mechanical problems-
 they escape the cages by opening locks and have been documented to be
 sophisticated tool makers.  
-2\) Houses with roofs- Orangs in the wild consistently make roofs with
+2) Houses with roofs- Orangs in the wild consistently make roofs with
 foliage for their nests. While all great apes make beds at night to
 sleep, the orang habitually also makes itself a roof and walls for their
 nests.  
-3\) Orangs have been recorded by Birute Galdikas as imitating human
+3) Orangs have been recorded by Birute Galdikas as imitating human
 activties such as using axes, saws etc, and washing clothes, lighting
 fire, cooking and canoeing.  
-4\) Orangs apparently to tend to mate often in the ventro-ventral
+4) Orangs apparently to tend to mate often in the ventro-ventral
 posture, as against the dorso-ventral posture seen more commonly in
 other apes. This posture of mating is apparently much higher than even
 the bonobo and definitely higher than the chimp or the gorilla.  
-5\) Apparent orangs, like humans have much longer male-female consort
+5) Apparent orangs, like humans have much longer male-female consort
 pairings than the chimpanzee.  
-6\) Specifically male orangs also have beards and mustaches like in
-Homo, and have hair oriented forward on the head.  
-7\) Orangs live much longer than chimps and gorillas even in the wild.
+6) Specifically male orangs also have beards and mustaches like in Homo,
+and have hair oriented forward on the head.  
+7) Orangs live much longer than chimps and gorillas even in the wild.
 While a chimp over 30 is positively old, orangs typical reach old age at
 50 years.  
-8\) Pongo and Homo have thick enamels on their permanent teeth.
+8) Pongo and Homo have thick enamels on their permanent teeth.
 
 The several common features seen in Homo and Pongo have considerable
 implications for the ancestral ape. One may reconstruct the ancestral
@@ -65,3 +69,4 @@ a mush.
 
 In terms of fossils the apes like Sivapithecus, Lufengpithecus and
 Gigantopithecus appear to be members of the Orang clade.
+

@@ -1,8 +1,11 @@
 +++
-title = "On Bowing To The Gods – The Greek Perception (Anxa0Excerpt)"
-date = "July 25, 2021"
+title = "On Bowing To The Gods – The Greek Perception (An Excerpt)"
+date = "2021-07-25"
+upstream_url = "https://aryaakasha.com/2021/07/25/on-bowing-to-the-gods-the-greek-perception-an-excerpt/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/07/25/on-bowing-to-the-gods-the-greek-perception-an-excerpt/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/07/he_stoods_silent_before_king.jpg?w=724)
 
 Now, when these debates come up in earnest around something as simple as

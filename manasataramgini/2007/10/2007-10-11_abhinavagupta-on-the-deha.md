@@ -1,16 +1,20 @@
 +++
 title = "abhinavagupta on the deha"
+date = "2007-10-11"
+upstream_url = "https://manasataramgini.wordpress.com/2007/10/11/abhinavagupta-on-the-deha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/10/11/abhinavagupta-on-the-deha/).
+
 I was reminded of a statement of abhinavagupta in the tantrAloka due to
 an exchange with a compatriot on the reason why matysendra is such a
 colossus in ancient thought.
 
 he says:  
-evaM vishvAdhva saMpUrNaM kAla-vyApAra-chitritam |  
-desha-kAla-maya-spanda-sadma dehaM vilokayet |  
-tathA vilokyamAno .asau vishvAntardevatA-mayaH |  
-dhyeyaH pUjyashcha tarpyashcha tadAviShTo vimuchyate | (tantrAloka
+evaM vishvAdhva saMpUrNaM kAla-vyApAra-chitritaM \|  
+desha-kAla-maya-spanda-sadma dehaM vilokayet \|  
+tathA vilokyamAno .asau vishvAntardevatA-mayaH \|  
+dhyeyaH pUjyashcha tarpyashcha tadAviShTo vimuchyate \| (tantrAloka
 12.6-7)
 
 Thus, the body is perceived as full of diverse pathways, marked by
@@ -24,3 +28,4 @@ represents an expression of the thought-stream of mIna. But was it
 entirely new ? Not really. Like many other things it goes back to vedic
 thought. For example the upaniShad’s statement on indra-yoni in the
 pineal is an early version of the same.
+

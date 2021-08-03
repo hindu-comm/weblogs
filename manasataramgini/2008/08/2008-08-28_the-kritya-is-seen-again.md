@@ -1,7 +1,11 @@
 +++
 title = "The kR^ityA is seen again"
+date = "2008-08-28"
+upstream_url = "https://manasataramgini.wordpress.com/2008/08/28/the-kritya-is-seen-again/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/08/28/the-kritya-is-seen-again/).
+
 We were in their midst – full of excitement and mirth. But even now we
 were not alone – we were shadowed by that kR^ityA, like kapAlin shadowed
 by the maid brahmahatyA. In the corner hero stood – it was his day of
@@ -75,3 +79,4 @@ from the attack. Then to control the situation we redeployed the shara-s
 as earlier and the yakShiNI’s substance. We then we offered the
 sacrifice to chatuShpatha-niketA and tried to prepare ourselves for even
 vaivasvata.
+

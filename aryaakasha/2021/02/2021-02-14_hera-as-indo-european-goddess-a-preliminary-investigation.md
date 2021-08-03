@@ -1,8 +1,11 @@
 +++
-title = "Hera As Indo-European Goddess – A Preliminaryxa0Investigation"
-date = "February 14, 2021"
+title = "Hera As Indo-European Goddess – A Preliminary Investigation"
+date = "2021-02-14"
+upstream_url = "https://aryaakasha.com/2021/02/14/hera-as-indo-european-goddess-a-preliminary-investigation/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/02/14/hera-as-indo-european-goddess-a-preliminary-investigation/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/02/237be23d2da788cc93eea6246a81128f.jpg?w=564)
 
   

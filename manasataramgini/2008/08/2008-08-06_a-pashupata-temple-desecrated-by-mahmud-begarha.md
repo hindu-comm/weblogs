@@ -1,7 +1,11 @@
 +++
 title = "A pAshupata temple desecrated by Mahmud Begarha"
+date = "2008-08-06"
+upstream_url = "https://manasataramgini.wordpress.com/2008/08/06/a-pashupata-temple-desecrated-by-mahmud-begarha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/08/06/a-pashupata-temple-desecrated-by-mahmud-begarha/).
+
 [![](https://i0.wp.com/farm4.static.flickr.com/3007/2736507265_fb582211db_b.jpg)](http://farm4.static.flickr.com/3007/2736507265_fb582211db_b.jpg)
 
 The southern face of of the lakulisha mahadeva temple in Champaner (note
@@ -44,3 +48,4 @@ monstrous individual – like other members of his dynasty he had an
 appetite for seizing Hindu women to add to his harem. But most notable
 was his enormous gluttony – he is interestingly reported to have downed
 over 100 mutton Samosas with large pot of ghee on a daily basis.
+

@@ -1,8 +1,11 @@
 +++
 title = "The Indo-European Death And Resurrection Show – A Remarkable Persistence Even At The Periphery Of Modern (Myth)Understanding"
-date = "June 30, 2021"
+date = "2021-06-30"
+upstream_url = "https://aryaakasha.com/2021/06/30/the-indo-european-death-and-resurrection-show-a-remarkable-persistence-even-at-the-periphery-of-modern-mythunderstanding/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/06/30/the-indo-european-death-and-resurrection-show-a-remarkable-persistence-even-at-the-periphery-of-modern-mythunderstanding/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/06/10812.jpg?w=1024)
 
 The recent Pew Research Forum analysis of religion in India makes for

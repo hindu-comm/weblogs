@@ -1,7 +1,11 @@
 +++
 title = "A reiteration regarding the heart of the fundamental conflict"
+date = "2015-12-19"
+upstream_url = "https://manasataramgini.wordpress.com/2015/12/19/a-reiteration-regarding-the-heart-of-the-fundamental-conflict/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/12/19/a-reiteration-regarding-the-heart-of-the-fundamental-conflict/).
+
 We are somewhat zealous in recycling unused bits of writing lending a
 certain pleonastic touch to the material presented here. We are placing
 herewith a bit of unused writing concerning the topic on which we have
@@ -108,3 +112,4 @@ generation, the future vivekānvita Hindus might look back and realize
 how the OIT was yet another diversion arising from biting into a
 tasty-looking occidental bait – much like the Shinde and the Holkar’s
 blunders might look to us today.
+

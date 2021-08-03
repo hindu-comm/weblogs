@@ -1,8 +1,11 @@
 +++
-title = "Artemis Orthia – The Inescapable Indo-European Goddess Of Cosmic Law ‘Midst The Mediterranean : Part One – ‘Calling Toxa0Order’"
-date = "June 18, 2021"
+title = "Artemis Orthia – The Inescapable Indo-European Goddess Of Cosmic Law ‘Midst The Mediterranean : Part One – ‘Calling To Order’"
+date = "2021-06-18"
+upstream_url = "https://aryaakasha.com/2021/06/18/artemis-orthia-the-inescapable-indo-european-goddess-of-cosmic-law-midst-the-mediterranean-part-one-calling-to-order/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/06/18/artemis-orthia-the-inescapable-indo-european-goddess-of-cosmic-law-midst-the-mediterranean-part-one-calling-to-order/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/06/c82bc75c012c922a527e73be1cb7ae50.jpg?w=743)
 
   

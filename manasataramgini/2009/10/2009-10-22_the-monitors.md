@@ -1,7 +1,11 @@
 +++
 title = "The monitors"
+date = "2009-10-22"
+upstream_url = "https://manasataramgini.wordpress.com/2009/10/22/the-monitors/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/10/22/the-monitors/).
+
 There was a good program aired by PBS on the monitor lizards that
 features some work done by Pianka who has been studying these lizards
 for several decades. I could identify with his fascination for these
@@ -210,3 +214,4 @@ of kArttikeya, such as shishumAramukhI, the dolphin-headed goddess.
 Footnote 2: Years later it was to become clear that the way people used
 to reconstruct the hands of Mesozoic dinosaurs was wrong. They did hold
 them like their modern representatives
+

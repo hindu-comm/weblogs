@@ -1,8 +1,11 @@
 +++
 title = "Shiva Is Not Indra – A Response To A Grave Mythunderstanding"
-date = "September 24, 2020"
+date = "2020-09-24"
+upstream_url = "https://aryaakasha.com/2020/09/24/shiva-is-not-indra-a-response-to-a-grave-mythunderstanding/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/09/24/shiva-is-not-indra-a-response-to-a-grave-mythunderstanding/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/09/bczlv63caaevwyu.jpg?w=1024)
 
 It has come to my attention that there is a curious misbelief out there

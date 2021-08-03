@@ -1,7 +1,11 @@
 +++
 title = "upakathā of previous: śūlapuruṣa-catvārakam"
+date = "2015-04-14"
+upstream_url = "https://manasataramgini.wordpress.com/2015/04/14/upakatha-of-previous-sulapuru%e1%b9%a3a-catvarakam/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/04/14/upakatha-of-previous-sulapuru%e1%b9%a3a-catvarakam/).
+
 It was a bright spring day, when the vaṭakinī mahotsava was being
 celebrated. Several families from the town were arriving early in the
 morning at a shrine, which contained a gigantic image of the terrible
@@ -24,8 +28,8 @@ others in cooking food to offer to poverty-stricken people. The
 youngsters were playing various games. However, Somakhya did not feel
 like joining them. Instead, he sat for a while with his parents hearing
 the sundarakāṇḍa but he was not too inspired by the lack of the
-vīra-rasa and the melodramatic bhakti of the bhāgavata. Hence, he got
-up and wandered away to see what his friends were up to. Vidrum who was
+vīra-rasa and the melodramatic bhakti of the bhāgavata. Hence, he got up
+and wandered away to see what his friends were up to. Vidrum who was
 playing marbles with some others called out to him to join them but that
 day his mind was not in the game, and he wandered away after watching
 for a minute or two. Then he saw some other acquaintances playing a
@@ -69,7 +73,7 @@ S: “Pray proceed.”
 
 L: “What do you think of Gauss’s aphorism in Latin – ‘*pauca sed matura*
 (Few but ripe)’ . Is this the correct approach to science?”  
-S: “Today we are often confronted with ‘pūrṇa-kara iva khara-viṣṭāḥ |’
+S: “Today we are often confronted with ‘pūrṇa-kara iva khara-viṣṭāḥ \|’
 in science. In this atmosphere, this is indeed a sound approach,
 especially for those who do science for merely for the sake of fluffing
 up their publication count – saying little new but appearing in
@@ -84,13 +88,13 @@ harm putting down a lot on paper. Moreover, given that today science is
 done by the mleccha-rIti, we should be ready to move fast to strike
 before our bhrātṛvyas.”
 
-L: “One thing which caught my attention is in regard to the little that
+L: “One thing which caught my attention is in regard to thelittle that
 we know of the peculiar philosophical positions of Gauss. Among these
 was his alteration of a statement of Plato recorded by Plutarch ‘ἀεὶ ὁ
 θεὸς γεωμετρεῖ (the god always always geometrizes)’ to ‘ἀεὶ ὁ θεὸς
 ἀριθμετἰζεῖ (the god always arithmeticizes)’. In our days, with
 computers being an inseparable part of our lives, one might be inclined
-to say: ‘saṃkhyānti nityaṃ devāḥ | (the gods always compute)’. It
+to say: ‘saṃkhyānti nityaṃ devāḥ \| (the gods always compute)’. It
 appears that Gauss privileging arithmetic over geometry might be a step
 in the direction of eventually seeing the ultimate action of the gods as
 being one of computation. Perhaps, it was reflection of his own capacity
@@ -101,19 +105,19 @@ After all, though we display geometry of some sophistication and
 intricacy in our śrauta rituals, we arrive at it not so much by
 geometrizing but via an algorithmic back-end intensive on computation.
 What can be more distinctive than the way the yavana arrives at
-![\\sqrt{2}](https://s0.wp.com/latex.php?latex=%5Csqrt%7B2%7D&bg=ffffff&fg=333333&s=0
-"\\sqrt{2}") and the way we do so in the altars of the soma rituals via
-a computation with the ‘scaffolding hidden away after the edifice is
-constructed’ as Gauss would say.”
+![\\sqrt{2}](https://s0.wp.com/latex.php?latex=%5Csqrt%7B2%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+and the way we do so in the altars of the soma rituals via a computation
+with the ‘scaffolding hidden away after the edifice is constructed’ as
+Gauss would say.”
 
 S: “Gauss’s favoring of ‘arithmetic’ at first sight does appears like a
 step in the direction of: ‘nityaṃ hi devāḥ saṃkhyānti na kṣetraṃ
-pragaṇayantīti |’. But it appears that our position was much more of
+pragaṇayantīti \|’. But it appears that our position was much more of
 the pure form of it than that of Gauss. For us it would seem that all
 emerges via an algorithmic process; mathematics itself is subservient to
 and a limb of the algorithmic process, even as the śrauta ritual and
-bhāṣā were produced via computational processes. However, what we see
-on part of Gauss is a much greater status accorded to arithmetized
+bhāṣā were produced via computational processes. However, what we see on
+part of Gauss is a much greater status accorded to arithmetized
 mathematics. After all he remarked to Bessel, another man close to the
 pinnacle of scientific capacity: ‘*all the measurements in the world do
 not balance one theorem by which the science of eternal truths is
@@ -145,8 +149,8 @@ the two other guṇa-s, energy maps to rajas and mass to tamas. The deva-s
 were seen as manifestations of that underlying information the sattva:
 thus one may see them as the limbs of the code that operates the
 universe-computer. In this conception one might say we are the ones
-closer to the Platonists. But there is no place for the θεὸς outside of
-the universe-computer, as Gauss, due the vāsana-s of the preta-delusion
+closer to the Platonists. But there is no place for the θεὸςoutside of
+the universe-computer,as Gauss, due the vāsana-s of the preta-delusion
 might have imagined.”
 
 L: “Hence, it would seem to me that when those entities of the
@@ -333,8 +337,8 @@ That said, O Lootika, I do suspect there is a different kind of an ideal
 something which we awaken into at the time of death, but it is that
 collection of scripts which run in universe-computer. Hence, when the
 great Kauśika says in the śruti:  
-Oṃ bhur bhuvaḥ suvaḥ | tat savitur vareṇyam | bhargo devasya dhīmahi |
-dhiyo yo naḥ pracodayāt | paro rajase sāvadom ||  
+Oṃ bhur bhuvaḥ suvaḥ \| tat savitur vareṇyam \| bhargo devasya dhīmahi
+\| dhiyo yo naḥ pracodayāt \| paro rajase sāvadom \|\|  
 The vyāhṛti-s are verily the universe of space and time. The sāvitrī the
 energy and matter therein, which we meditate upon. The secret fourth
 foot is the collection of ideals which form the code of the

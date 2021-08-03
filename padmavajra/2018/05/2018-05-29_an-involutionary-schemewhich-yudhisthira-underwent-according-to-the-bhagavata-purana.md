@@ -1,8 +1,11 @@
 +++
-title = "An involutionary scheme(which yudhiSThira underwent according to the bhAgavataxa0purANa)"
+title = "An involutionary scheme(which yudhiSThira underwent according to the bhAgavata purANa)"
 date = "2018-05-29"
+upstream_url = "https://padmavajra.net/2018/05/29/an-involutionary-schemewhich-yudhisthira-underwent-according-to-the-bhagavata-purana/"
 
 +++
+Source: [here](https://padmavajra.net/2018/05/29/an-involutionary-schemewhich-yudhisthira-underwent-according-to-the-bhagavata-purana/).
+
 The scheme of involution(a vaiSNavized sAGkhya scheme,it may be called)
 runs like this(1st skandha,15th adhyaya,shlokas 41-42)
 

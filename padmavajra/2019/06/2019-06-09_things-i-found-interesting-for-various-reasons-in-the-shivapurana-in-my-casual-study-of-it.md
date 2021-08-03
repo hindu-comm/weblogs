@@ -1,8 +1,11 @@
 +++
-title = "Things I found interesting for various reasons in the shivapurANa in my casual study ofxa0it"
-date = "2019-06-09"
+title = "Things I found interesting for various reasons in the shivapurANa in my casual study of it"
+date = "2019-09-06"
+upstream_url = "https://padmavajra.net/2019/06/09/things-i-found-interesting-for-various-reasons-in-the-shivapurana-in-my-casual-study-of-it/"
 
 +++
+Source: [here](https://padmavajra.net/2019/06/09/things-i-found-interesting-for-various-reasons-in-the-shivapurana-in-my-casual-study-of-it/).
+
 ### vidyeshvarasaMhitA
 
 1.  13.54-55-j\~nAna acquired through tapasyA was recommended in

@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "December 1, 2020"
+date = "2020-12-01"
+upstream_url = "https://vriitrahan.wordpress.com/2020/12/01/mleccha-dharma/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2020/12/01/mleccha-dharma/).
+
 मान्धातोवाच
 
 Māndhāta Spoke;

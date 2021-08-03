@@ -1,8 +1,11 @@
 +++
-title = "A practical note on purascharaNa(cited from kulArNava tantra and muNDamAlAxa0tantra)"
+title = "A practical note on purascharaNa(cited from kulArNava tantra and muNDamAlA tantra)"
 date = "2020-04-21"
+upstream_url = "https://padmavajra.net/2020/04/21/a-practical-note-on-purascharanacited-from-kularnava-tantra/"
 
 +++
+Source: [here](https://padmavajra.net/2020/04/21/a-practical-note-on-purascharanacited-from-kularnava-tantra/).
+
 yad yad a\~Ngam vihiyeta tatsaMkhyAdviguNo japaH\|  
 kuryAd dvitrichatuHpa\~nchasaMkhyaM vA sAdhakaH priye\|\|  
 kurvita chA\~Ngasiddhyartham tadashaktau sa bhaktitaH\|  

@@ -1,7 +1,11 @@
 +++
 title = "The mantra saMhitA of the devI purANa"
+date = "2010-06-25"
+upstream_url = "https://manasataramgini.wordpress.com/2010/06/25/the-mantra-samhita-of-the-devi-purana/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/06/25/the-mantra-samhita-of-the-devi-purana/).
+
 The devI purANa is one of the several dedicated shAktA purANa-s such as
 devI-bhAgavata, mahAbhagavata and kAlikA. The sections of other purANa-s
 like the proto-skanda purANa (the vindhyavAsinI section), the mArkaNDeya
@@ -74,18 +78,17 @@ tAntrika tradition and text the devI purANa mantra saMhitA transmission
 was not subject to correction from the mainstream vaidika tradition.
 
 While the grammatical irregularities in this mantra saMhitA might
-support the less interesting alternative \#2, we still suspect that
-these differences might in part indeed reflect a distinctive Vedic
-tradition, even if not a distinct shAkhA tradition. Evaluating this is
-hampered by the fact the only RV tradition that survives is the shAkala
-shAkhA. More recently collection supposed to be the AshvalAyana shAkhA
-was published. However, this saMhitA is identical to the shAkala
-saMhitA, except that it has the kAshmIra pATha of the khila inserted
-into the saMhitA itself. From various sources it was clear that the
-bAShkala shAkhA showed differences in the arrangement of the
-upamaNDala-s of the first maNDala (i.e. the
-gautama-kakShIvAn-paruchChepa-kutsa-dIrghatamas order) and had an
-additional samj\~nAna sUkta in the 10th maNDala which ended with the
+support the less interesting alternative #2, we still suspect that these
+differences might in part indeed reflect a distinctive Vedic tradition,
+even if not a distinct shAkhA tradition. Evaluating this is hampered by
+the fact the only RV tradition that survives is the shAkala shAkhA. More
+recently collection supposed to be the AshvalAyana shAkhA was published.
+However, this saMhitA is identical to the shAkala saMhitA, except that
+it has the kAshmIra pATha of the khila inserted into the saMhitA itself.
+From various sources it was clear that the bAShkala shAkhA showed
+differences in the arrangement of the upamaNDala-s of the first maNDala
+(i.e. the gautama-kakShIvAn-paruchChepa-kutsa-dIrghatamas order) and had
+an additional samj\~nAna sUkta in the 10th maNDala which ended with the
 R^ik “tach ChaMyor AvR^iNImahe …”. Of course there is also the
 traditional variability between these R^ik collections in terms of the
 inclusion or not of kANva-s of the vAlakhilya section of maNDala 8. What
@@ -104,36 +107,36 @@ the mantra saMhitA in the DP remains to be seen.
 
 Some examples of variant readings:  
 \~RV 1.11.1:  
-indraM vishvA avAvR^iShaM samudravyachasaM giraH |  
-rathItamaM rathInAM vA rAjAnAM shatapatiM patim ||
+indraM vishvA avAvR^iShaM samudravyachasaM giraH \|  
+rathItamaM rathInAM vA rAjAnAM shatapatiM patim \|\|
 
 \~RV 10.123.6:  
-nAke suparNam upatyAnta havA revanto abhya chakShata tvA |  
-hiraNyAkShaM varuNasya dUtaM yamasya bhuraNyuM yonau shakunam ||
+nAke suparNam upatyAnta havA revanto abhya chakShata tvA \|  
+hiraNyAkShaM varuNasya dUtaM yamasya bhuraNyuM yonau shakunaM \|\|
 
 \~RV 5.64.1:  
-varuNaM bodhipAdam R^ichAm indraM havAmahe |  
-pari vrajech cha bAhvor jagandhaso svarNavam naram ||
+varuNaM bodhipAdam R^ichAm indraM havAmahe \|  
+pari vrajech cha bAhvor jagandhaso svarNavam naraM \|\|
 
 \~AV-paippalAda 20.5.8 \[\~RV khila 3.22.4.1\]:  
-AdityaM devaM savitA manyoH kavi kratum archAmi |  
-satyasavaM ratnadhAm abhi priyam atitaram kavim ||
+AdityaM devaM savitA manyoH kavi kratum archAmi \|  
+satyasavaM ratnadhAm abhi priyam atitaram kaviM \|\|
 
 \~AV-paippalAda 20.5.9 \[\~RV khila 3.22.4.2\]:  
-UrdhvA yasyA matibhA Adidyutat savImani |  
-hiraNyapANir tvamimIte sukratuH kR^ipApayaH ||
+UrdhvA yasyA matibhA Adidyutat savImani \|  
+hiraNyapANir tvamimIte sukratuH kR^ipApayaH \|\|
 
 \~RV 10.141.3:  
-somaM rAjAnam bhavate agnim anvArabhAmahe |  
-AdityaM viShNuM sUryaM brAhmaNaM cha bR^ihaspatim ||
+somaM rAjAnam bhavate agnim anvArabhAmahe \|  
+AdityaM viShNuM sUryaM brAhmaNaM cha bR^ihaspatim \|\|
 
 \~RV 1.164.41:  
-gaurIr mimAya salilAni takShaty ekapadI dvipadI sA chatuShpadI |  
-aShTApadI navapadI bhUmIM sahasrAkSaM vA parame vyoman ||
+gaurIr mimAya salilAni takShaty ekapadI dvipadI sA chatuShpadI \|  
+aShTApadI navapadI bhUmIM sahasrAkSaM vA parame vyoman \|\|
 
 \~RV: 1.114.8:  
-mA nastoke tanaye mA na AyUShi mA no goShu mA no ashveShu rIriShaH |  
-mA no vIrAn rudra bhAmito vadhIr haviShmantaH sadamit tvA havAmahe ||
+mA nastoke tanaye mA na AyUShi mA no goShu mA no ashveShu rIriShaH \|  
+mA no vIrAn rudra bhAmito vadhIr haviShmantaH sadamit tvA havAmahe \|\|
 
 These examples (by no means the entire set of paTha bheda-s in this
 collection) clearly illustrate the grammatical irregularities and the
@@ -150,14 +153,16 @@ that they inhere from a lost eastern Vedic recension.
 After providing the core mantra-s for the sthAlIpAka oblations the
 section has an appendix imitating brAhmaNa-like prose which makes this
 tradition distinct:  
-evaM vediko.agniH saMtuShTho bhavati | athAtaH paristaraNa devatAH
-kathyante | parisamUhane kAshyapaH | upalepane vishve-devAH | ullekhane
-mitra-varuNau | ullikhane pR^ithvI | ambukShaNe gandharvAH | agniH
-sAdane sharvaH | parisamUhy opalikhy ollikhana karma vidhir uchyate |
-dakShiNAsAdane brahmA | uttarataH pUraNe sAgarAH | AstaraNe trasAH |
-athAvasAdane shatakratuH | pavitra bandhane pitaraH | prokShaNI saMskAre
-mAtaraH | juhvate sruche sruvApAsh cha brahmA-viShNu-maheshvarAH |
-AjyAtapane vasavaH | adhishravaNe vaivasvataH | paryagni-karaNe marutaH
-| udvAsane skandaH | utpanna pratyutpavane chandraH dyauH | AjyAvekShaNe
-dishaH sarvAH | pavitra dhAraNe praNItAH | yAmumA devI | idhme cha
-lakShmI | vishvasya vishvAbhUtAni ||
+evaM vediko.agniH saMtuShTho bhavati \| athAtaH paristaraNa devatAH
+kathyante \|parisamUhane kAshyapaH \| upalepane vishve-devAH \|
+ullekhane mitra-varuNau \| ullikhane pR^ithvI \| ambukShaNe gandharvAH
+\| agniH sAdane sharvaH \| parisamUhy opalikhy ollikhana karma vidhir
+uchyate \| dakShiNAsAdane brahmA \| uttarataH pUraNe sAgarAH \| AstaraNe
+trasAH \| athAvasAdane shatakratuH \| pavitra bandhane pitaraH \|
+prokShaNI saMskAre mAtaraH \| juhvate sruche sruvApAsh cha
+brahmA-viShNu-maheshvarAH \| AjyAtapane vasavaH \| adhishravaNe
+vaivasvataH \| paryagni-karaNe marutaH \| udvAsane skandaH \| utpanna
+pratyutpavane chandraH dyauH \| AjyAvekShaNe dishaH sarvAH \| pavitra
+dhAraNe praNItAH \| yAmumA devI \| idhme cha lakShmI \| vishvasya
+vishvAbhUtAni \|\|
+

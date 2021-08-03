@@ -1,8 +1,11 @@
 +++
-title = "On Valaskjalf, Hlidskjalf, Paramevyoman: The Golden Throne And The Indo-European Solar Realm Of The Glorious/Ancestral Dead – The Indo-European Cosmology – A Brief Guided Tour: Partxa0Dieux"
-date = "February 22, 2021"
+title = "On Valaskjalf, Hlidskjalf, Paramevyoman: The Golden Throne And The Indo-European Solar Realm Of The Glorious/Ancestral Dead – The Indo-European Cosmology – A Brief Guided Tour: Part Dieux"
+date = "2021-02-22"
+upstream_url = "https://aryaakasha.com/2021/02/22/on-valaskjalf-hlidskjalf-paramevyoman-the-golden-throne-and-the-indo-european-solar-realm-of-the-glorious-ancestral-dead-the-indo-european-cosmology-a-brief-guided-tour-part-dieux/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/02/22/on-valaskjalf-hlidskjalf-paramevyoman-the-golden-throne-and-the-indo-european-solar-realm-of-the-glorious-ancestral-dead-the-indo-european-cosmology-a-brief-guided-tour-part-dieux/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/02/127555571_10164438521715574_3758755534090003876_n.jpg?w=397)
 
 As we have often maintained, the ‘Vedic’ and ‘Eddic’ Indo-European

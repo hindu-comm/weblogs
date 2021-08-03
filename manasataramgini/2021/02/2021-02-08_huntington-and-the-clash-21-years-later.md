@@ -1,8 +1,11 @@
 +++
-title = "Huntington and the clash: 21 yearsxa0later"
+title = "Huntington and the clash: 21 years later"
 date = "2021-02-08"
+upstream_url = "https://manasataramgini.wordpress.com/2021/02/08/huntington-and-the-clash-21-years-later/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2021/02/08/huntington-and-the-clash-21-years-later/).
+
 This note is part biographical and part survey of the major geopolitical
 abstractions that may be gleaned from the events in the past 21 years.
 Perhaps, there is nothing much of substance in this note but an

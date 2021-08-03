@@ -1,7 +1,11 @@
 +++
 title = "The basis for philosophy in science (especially biology) and religion"
+date = "2013-09-11"
+upstream_url = "https://manasataramgini.wordpress.com/2013/09/11/the-basis-for-philosophy-in-science-especially-biology-and-religion/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/09/11/the-basis-for-philosophy-in-science-especially-biology-and-religion/).
+
 We did not want to write this epistle as we have said things along these
 lines a few times before, and have spoken even more of it to our
 friends. Richard Dawkins had once said something like philosophers do
@@ -9,7 +13,7 @@ not add much to knowledge unlike scientists; hence, they are pretty
 stuck up with or even confused about issues. Yet, the same Dawkins had
 admitted that it is interesting that the sense of self is something we
 have, even though the molecules constituting our physical selves, even
-neurons undergo a turnover through our lives, being replaced by other
+neurons, undergo a turnover through our lives, being replaced by other
 equivalent atoms derived from our nutrition. On the other hand there is
 a philosopher Daniel Dennett who presents nothing more notable than
 principles enunciated by Darwin over 150 years ago and calls that
@@ -36,8 +40,8 @@ number of different clusters.*”
 These statements, in our opinion show that the learned professor is
 outright wrong or at best wading into a rather inextricable quagmire. He
 is a man famous for being a philosopher of biology among other things;
-so we felt perhaps a discourse on this matter might be worthwhile even
-if we might be repeating ourselves in someways. A presentation like the
+so we felt, perhaps, a discourse on this matter might be worthwhile even
+if we might be repeating ourselves in some ways. A presentation like the
 above statements could play right into the view that philosophers have
 nothing of worth to contribute. But that is not a line we seek to
 pursue: First, we are descendants of ancient natural philosophers;
@@ -48,8 +52,8 @@ is required to approach every domain of knowledge. Third, we belong to a
 tradition, which was prevalent among the subset of the Indo-Europeans
 (as far as we can see, attested among Greeks, Iranians and Arya-s)
 wherein axiomatic thinking emerged (Which would equate to the
-professor’s Newtonian principles: “*Newton looked forward to a vision
-of the cosmos in which everything would be explained on the basis of a
+professor’s Newtonian principles: “*Newton looked forward to a vision of
+the cosmos in which everything would be explained on the basis of a
 small number of physical principles.*” But we do not see this as an
 original idea of Newton, rather it goes back to the early thinkers among
 the above Indo-European thinkers. The chIna-s too might have had
@@ -139,21 +143,20 @@ TNF-alpha as givens, mere entities or blobs as model-building molecular
 biologists tend to draw things. Now, one could say that we have a
 detailed specific model of neural-glial interactions in which the above
 molecules are mere entities which could be as well be called “X” and
-“Y”. However, that does not mean that their underlying biochemistry
-does not matter. In fact ignoring the fact the D-serine is a small
-molecule and TNF-alpha a protein could make a great difference to the
-model – so more likely than not the basic geometrical consideration in
-the least and biochemistry are fundamentally impinging upon matters.
-Moreover, the very fact that a molecule like D-serine is used, as
-opposed to the more common and prevalent L-serine is something which can
-only make sense in light of the underlying chemistry that allows
-molecules to come in two chiralities. Thus, even if specific models
-might be built for a domain of knowledge they have a continuous
-explanatory chain based on an deeper domain, which in turn might go down
-to an even deeper domain. Thus, there is no violation of the idea that a
-few basic principles can explain much of existence, on which the more
-domain-specific models rest (As the old Hindus would say – it rests on
-the puruSha).
+“Y”. However, that does not mean that their underlying biochemistry does
+not matter. In fact ignoring the fact the D-serine is a small molecule
+and TNF-alpha a protein could make a great difference to the model – so
+more likely than not the basic geometrical consideration in the least
+and biochemistry are fundamentally impinging upon matters. Moreover, the
+very fact that a molecule like D-serine is used, as opposed to the more
+common and prevalent L-serine is something which can only make sense in
+light of the underlying chemistry that allows molecules to come in two
+chiralities. Thus, even if specific models might be built for a domain
+of knowledge they have a continuous explanatory chain based on an deeper
+domain, which in turn might go down to an even deeper domain. Thus,
+there is no violation of the idea that a few basic principles can
+explain much of existence, on which the more domain-specific models rest
+(As the old Hindus would say – it rests on the puruSha).
 
 ***Now one may ask where do Darwin’s principles matter for all this?***
 
@@ -166,7 +169,7 @@ selected in biology over all the alternatives we need to go back to look
 at its evolutionary history and not principles of engineering
 optimization. Beyond geometry, the only principles that explain
 evolutionary history are the Darwinian principles. Thus, when faced with
-a problem like *Plasmodium falciparum* malaria in Africa the solution
+a problem like *Plasmodium falciparum* malaria in Africa, the solution
 arose in *Homo sapiens* in two major ways: 1) The hemoglobinß E6V (S or
 the sickle cell anemia allele); 2) The hemoglobinß E6K allele (C
 allele). The S allele is by far the most widespread seen through much of
@@ -180,7 +183,7 @@ anemia and are eliminated from the gene pool, thus resulting in a loss
 of fitness. But AS heterozygotes do much better than AA in the presence
 of the selective pressure of malaria. Thus, evolution has resulted in
 the AS solution being favored as it is going to dominate even if
-imperfect as opposed to the superior CC (A consequence of the 2\*x\*y\>
+imperfect as opposed to the superior CC (A consequence of the 2\*x\*y>
 y^2 term in the Hardy-Weinberg: x^2+2\*x\*y+y^2\* when a new allele is
 born and naturally at low frequency). This is how a historical solution
 plays out as opposed to an engineered solution, where contingencies
@@ -224,8 +227,8 @@ stem from. Then we shall argue that from these we can build upwards and
 explain biological phenomena and use it as a tool to distinguish between
 actual “hard problems” and not so hard ones. Finally, we shall come to
 the issue of religion, which the professor stated that some people felt
-was “mumbo-jumbo” in the proposals of Thomas Nagel whom he calls “one of
-the world’s most eminent philosophers”.
+was the “mumbo-jumbo” in the proposals of Thomas Nagel whom he calls
+“one of the world’s most eminent philosophers”.
 
 ***Axioms for biology***
 
@@ -281,7 +284,7 @@ can act like “Platonic ideals” or “attractors” that allow convergence
 towards them (e.g. the case of the repeated emergence of the biological
 spear but the restriction of the biological wheel to molecular
 assemblies, [which we discussed
-before](https://manasataramgini.wordpress.com/2012/09/21/macranthropy-and-the-sambandha-s-between-microcosm-and-macrocosm/ "Macranthropy and the saMbandha-s between microcosm and macrocosm")).
+before](https://manasataramgini.wordpress.com/2012/09/21/macranthropy-and-the-sambandha-s-between-microcosm-and-macrocosm/ "Macranthropy and the saMbandha-s between microcosm andmacrocosm")).
 
 Together, these axioms imply that in their early stages of development
 biological systems are unlikely to be capable of using intelligent
@@ -398,10 +401,10 @@ memeplex, [but there is no denial of their potential fitness enhancing
 effects, even if only in the short
 term](https://manasataramgini.wordpress.com/2013/07/20/khilonmada-charcha/ "khilonmAda-charchA").
 To his credit, when I met the said teacher more recently, he declared
-that he should not have said so to me earlier and that he now had his
+that he should not have said so to me earlier and that henowhad his
 own evolutionary theory for religion.
 
-Now religion is some what fuzzy in its definition but is typically seen
+Now religion is some what fuzzy in its definition butistypically seen
 to include three elements: 1) Household and public rituals along with
 their body of vocalizations, actions and backdrop of legend (often
 termed mythology); 2) Experience of atypical first person experiences;
@@ -410,7 +413,7 @@ termed “values”, “ethics” and “morals”. An examination of humans sho
 that all branches of humanity, be it the early-branching bushmen, the
 pygmies or the Denisovan-admixed Australians primitively have religion.
 Archaeological evidence pushes it back to the [Middle Stone
-Age](https://manasataramgini.wordpress.com/2006/12/04/oldest-archaeological-signs-of-ritual/ "Oldest archaeological signs of ritual?")
+Age](https://manasataramgini.wordpress.com/2006/12/04/oldest-archaeological-signs-of-ritual/ "Oldest archaeological signs ofritual?")
 (\~7\*10^4 years). There are elements of the behavior of other closely
 related apes that might be cognates of religion. Thus, the empirical
 evidence suggests that it was there in the common ancestor of extant
@@ -452,7 +455,7 @@ threat, ability to read same signal differently in kin and non-kin
 contexts, and ability to sense intentionality in other agents. When the
 precursors of the religious behaviors and constructs arose they too
 interfaced strongly with basic self-nonself discriminating modules. The
-components \#1 and \#3 of themselves can contribute to the reinforcement
+components #1 and #3 of themselves can contribute to the reinforcement
 of the biological self, thereby directly having an adaptive value.
 Indeed, there is a reason why loose self-nonself descrimination was seen
 as pathological by the old Hindus: the wise viShNusharman advises
@@ -469,10 +472,10 @@ in the bhagavadgIta in similar light – i.e. the vibhava appears as an
 epitome of the respective self category rather than one image across all
 categories, such as: ashvatthaH sarvavR^ikShANAM; uchchaiHshravasam
 ashvAnAM; airAvataM gajendrANAM; narANAM cha narAdhipam; sarpANAm asmi
-vAsukiH | : Each organism has to be well-established in its own self
+vAsukiH \|: Each organism has to be well-established in its own self
 group and not be anchored in nonself signals.
 
-This leaves us with \#2: Why then are the atypical first person
+This leaves us with #2: Why then are the atypical first person
 experiences so much part of the religion complex? Common approaches have
 been to pathologize it or regard it as an accident of the apparatus. The
 pathology angle is not entirely out of place: several “saint” figures in
@@ -483,8 +486,8 @@ the precursors of the above para-Hindu figures lie within the core Hindu
 tradition, as the saMnyAsa stream, which actually praises
 fitness-nullifying and contra-ritual tendencies rather than deprecating
 them. They recite formulae such as:  
-na karmaNa na prajayA dhanena tyAgenaike amR^itatvam AnashuH |  
-pareNa nAkaM nihitaM guhAyAM vibhrAjad etad yatayo vishanti ||  
+na karmaNa na prajayA dhanena tyAgenaike amR^itatvam AnashuH \|  
+pareNa nAkaM nihitaM guhAyAM vibhrAjad etad yatayo vishanti \|\|  
 Not by vaidika rituals, not by progeny nor wealth, but by renunciation
 the few attain immortality; that \[immortality\] attained by the
 renunciates rests beyond the compass of the physical universe but shines
@@ -496,7 +499,7 @@ the biologically relevant immortality through genetic transmission
 (prajA). Addiction to this state can thus result in a
 fitness-nullification, which is typical of most yati-s even to this
 date. Similarly, in a [parallel
-essay](https://manasataramgini.wordpress.com/2012/09/21/macranthropy-and-the-sambandha-s-between-microcosm-and-macrocosm/ "Macranthropy and the saMbandha-s between microcosm and macrocosm")
+essay](https://manasataramgini.wordpress.com/2012/09/21/macranthropy-and-the-sambandha-s-between-microcosm-and-macrocosm/ "Macranthropy and the saMbandha-s between microcosm andmacrocosm")
 we had described how certain atypical first person experiences induced
 by substances could potentially nullify fitness.
 
@@ -535,27 +538,27 @@ experience such as the state of dreaming or deep sleep \[Footnote 4\].
 
 ***Epilog***  
 The main thrust of these prolix meanderings is that:  
-1\) The underlying philosophy of a science should be consistent with the
+1) The underlying philosophy of a science should be consistent with the
 empirical knowledge accumulating in that science.  
-2\) Closer examination reveals that a science like biology does emerge
+2) Closer examination reveals that a science like biology does emerge
 organically from a few simple principles. The use of elaborate devices
 to explain details does note deny the underlying presence of simple
 principles which in the case of biology in large part correspond to a
 modern version of Darwin’s original proposals.  
-3\) The proper delineation of these principles allow the distinction of
+3) The proper delineation of these principles allow the distinction of
 hard from arduous but still eventually solvable problems. One cannot
 take refuge in the complexity of an difficult biochemical and biological
 but eventually solvable problems to dispel the non-hardness of a problem
 like first person experience or what in the west are termed qualia.  
-4\) This admission in itself does not “open to door” for religion that
-is detested by many western scientists. Rather, religion itself is a
+4) This admission in itself does not “open to door” for religion that is
+detested by many western scientists. Rather, religion itself is a
 consequence of the mutational processes acting on genes and memes
 followed by selection.  
-5\) Within the rubric of religion lies the peculiar pursuit of altered
+5) Within the rubric of religion lies the peculiar pursuit of altered
 first person experience. The physiological and biochemical readouts
 associated with these states might confer advantages that are channeled
 by selection just as other aspects of religion.  
-6\) Nevertheless, these first person experiences still remain first
+6) Nevertheless, these first person experiences still remain first
 person experiences; hence, in the domain of the hard problem.
 Importantly, if one chooses to privilege them over the more mundane
 first person experiences, then one develops a radically distinct world
@@ -563,7 +566,7 @@ view; To borrow terminology from sAMkhya we could have two world views:
 one is based on prakR^iti wherein the evolutionary theory and philosophy
 of science operates. This is in a sense a modern version of the [ancient
 evolutionary
-models](https://manasataramgini.wordpress.com/2007/05/02/empedocles-and-vasishtha-agrigentum-and-mithila/ "Empedocles and vasiShTha : Agrigentum and Mithila")
+models](https://manasataramgini.wordpress.com/2007/05/02/empedocles-and-vasishtha-agrigentum-and-mithila/ "Empedocles and vasiShTha : Agrigentum andMithila")
 proposed by the early sAMkhya thinkers. The other is based on puruSha.
 This tends to take those atypical experience as a genuine starting point
 for discourse and uses them as axioms for explaining all else. Thus, it
@@ -573,7 +576,7 @@ one day one may wake up in brahman and realize that that reality of
 wakeful existence was just like a dream. The pauruSha approach tends to
 be dominant in several expressions of religion but that itself neither
 negates nor casts the prAkR^ita view in [lower
-category](https://manasataramgini.wordpress.com/2012/06/16/the-broken-chain-and-the-chain-of-knowledge/ "The broken chain and the chain of knowledge").
+category](https://manasataramgini.wordpress.com/2012/06/16/the-broken-chain-and-the-chain-of-knowledge/ "The broken chain and the chain ofknowledge").
 
 As the old Hindus would say, by vichAra alone on the mundane first
 person experience we can perceive the existence of the difficult to
@@ -582,7 +585,8 @@ kaula tAntrika-s proposed. Then perhaps, you need to attain success in a
 yoga leading to an unprecedented first person experience to have an
 entirely different window into all this.
 
-\~o\~O\~0\~O\~o\~  
+\~o\~O\~0\~O\~o\~
+
 Footnote 1: We should point to the thinkers Maturana, Varela and
 Kauffman, who at different points have presented concepts comparable to
 those in this section. Varela and Maturana term it autopoiesis which
@@ -594,12 +598,12 @@ Footnote 2: To be fair, to a degree of such conflation is seen the work
 of one of our great intellectuals, the polymath vAchaspati mishra, [as
 we have pointed out
 before](https://manasataramgini.wordpress.com/2010/03/16/experience-phenomenal-and-accessional/).
-Many other Astika and nAstika thinkers before him including shaMkara
+Many other Astika and nAstika thinkers before him, including shaMkara,
 tend to show an element of this.
 
 Footnote 3: [We had earlier argued that this issue of science and
 religion being compartmentalized is not really applicable to
-Hindus](https://manasataramgini.wordpress.com/2007/07/09/western-generalizations-of-religiosity/ "Western generalizations of religiosity").
+Hindus](https://manasataramgini.wordpress.com/2007/07/09/western-generalizations-of-religiosity/ "Western generalizations ofreligiosity").
 Rather it was something unique to the mlechCha situation that is
 unnecessarily absorbed by Hindus who been cut off from their moorings.
 In essence, the so called science-religion divide can be simply
@@ -610,3 +614,4 @@ Footnote 4: The link between deep sleep and the first person experience
 that was characterized as brahmAnanda was recognized by the Hindus of
 yore. Not for nothing shaMkarAcharya stated that deep sleep feels good
 because it is that state that one rests in brahman.
+

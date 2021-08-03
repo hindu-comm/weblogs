@@ -1,7 +1,11 @@
 +++
 title = "Some thoughts on medieval Sanskrit authors amongst our co-ethnics"
+date = "2008-03-11"
+upstream_url = "https://manasataramgini.wordpress.com/2008/03/11/some-thoughts-on-medieval-sanskrit-authors-amongst-our-co-ethnics/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/03/11/some-thoughts-on-medieval-sanskrit-authors-amongst-our-co-ethnics/).
+
 Our co-ethnics represent one of the last great waves of brahminical
 settlers to the Southern country – a rather continuous process happening
 over 2500 years. Among them were many students of the shAstra-s,
@@ -21,9 +25,9 @@ One such is the form of poetry known of viloma-kAvya – i.e. a poem which
 makes sense when read in both forward and reverse direction.  
 For example:  
 Forward (describes rAmachandra):  
-taM bhUsUtA-muktiM udAra-hAsaM vande yato bhavya-bhavaM dayA-shrIH |  
+taM bhUsUtA-muktiM udAra-hAsaM vande yato bhavya-bhavaM dayA-shrIH \|  
 Reverse (describes kR^iShNa):  
-shrIyAdavaM bhavya-bha-toya-devaM saMhAra-dA-muktim utAsubhUtAm ||
+shrIyAdavaM bhavya-bha-toya-devaM saMhAra-dA-muktim utAsubhUtAM \|\|
 
 Two such works shabdArthachintAmaNi by chidambara kavi of Thanjavur (and
 in it from our same ancestral agrahAra) and yAdava-rAghavIya of
@@ -69,3 +73,4 @@ grand-nephew was the illustrious Sanskrit writer and minister nIlakaNTha
 dIkShita. One of his sons was gIrvaNendra who was imparted a kaumAra
 rahasya by my ancestor. gIirvaNendra wrote a kaumAra sAhitya known as
 kArttikeya-vijayaM.
+

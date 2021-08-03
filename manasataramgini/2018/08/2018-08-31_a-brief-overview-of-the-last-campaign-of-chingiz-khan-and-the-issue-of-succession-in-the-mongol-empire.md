@@ -1,29 +1,33 @@
 +++
 title = "A brief overview of the last campaign of Chingiz Khan and the issue of succession in the Mongol empire"
+date = "2018-08-31"
+upstream_url = "https://manasataramgini.wordpress.com/2018/08/31/a-brief-overview-of-the-last-campaign-of-chingiz-khan-and-the-issue-of-succession-in-the-mongol-empire/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2018/08/31/a-brief-overview-of-the-last-campaign-of-chingiz-khan-and-the-issue-of-succession-in-the-mongol-empire/).
+
 Succession is always an important issue in history. The legacy of a
 mighty ruler and/or founder of an empire might quickly unravel if the
 issue of succession is left unresolved. In Hindu history the Gupta-s
 were marked with glory because following Candragupta-I they managed to
 maintain a line of highly successful rulers with relatively smooth
-succession: Samudragupta-\> Candragupta-II Vikramāditya-\>
-Kumāragupta-\> Skandagupta-\>Budhagupta. Before them, the Maurya-s had
-several succession problems but managed to put out a line three mighty
-rulers. However, sometime during the reign of Aśoka things started going
-bad and they never able to produce one within their own line who could
-restore their power. In the case of the house of Śivajī, many of the
-troubles for the fledgling neo-Hindu empire came as a result of problems
-with succession. Among the Hindus, primogeniture meant that Śivajī’s
-eldest son Śambhu would ascend the throne. However, he had shown bad
-behavior and betrayed the cause of svarājya about a couple of years
-before the great rajan’s death. Hence, he had been kept under detention
-at the Panhala fort and some of Śivajī’s veteran ministers Moro Piṇgaḷe
-and Aṇṇāji Datto had turned against him. His stepmother was trying to
-place her young son Rājārāma on the throne. The ensuing conflict
-seriously damaged svarājya at a critical juncture in the struggle of the
-Hindus against the Mohammedans. Chingiz Khan faced a parallel situation
-of indiscipline and possible disloyalty from this eldest son. His eldest
+succession: Samudragupta-> Candragupta-II Vikramāditya-> Kumāragupta->
+Skandagupta->Budhagupta. Before them, the Maurya-s had several
+succession problems but managed to put out a line three mighty rulers.
+However, sometime during the reign of Aśoka things started going bad and
+they never able to produce one within their own line who could restore
+their power. In the case of the house of Śivajī, many of the troubles
+for the fledgling neo-Hindu empire came as a result of problems with
+succession. Among the Hindus, primogeniture meant that Śivajī’s eldest
+son Śambhu would ascend the throne. However, he had shown bad behavior
+and betrayed the cause of svarājya about a couple of years before the
+great rajan’s death. Hence, he had been kept under detention at the
+Panhala fort and some of Śivajī’s veteran ministers Moro Piṇgaḷe and
+Aṇṇāji Datto had turned against him. His stepmother was trying to place
+her young son Rājārāma on the throne. The ensuing conflict seriously
+damaged svarājya at a critical juncture in the struggle of the Hindus
+against the Mohammedans. Chingiz Khan faced a parallel situation of
+indiscipline and possible disloyalty from this eldest son. His eldest
 son Jochi was born shortly after he recovered his wife Börte who was in
 captivity of his enemies for few months. A conflict broke out between
 Jochi and his brother Chagadai and given the timing of his birth his
@@ -292,3 +296,4 @@ plans at a critical juncture. These considerably strained the Maraṭhā-s
 and they eventually survived only due to Śivajī’s farsighted plans and
 ministers like [Rāmacandra
 amātya](https://manasataramgini.wordpress.com/2010/04/25/the-scope-of-shivajis-plan-of-svarajya/).
+

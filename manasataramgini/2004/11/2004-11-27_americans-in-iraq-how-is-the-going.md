@@ -1,7 +1,11 @@
 +++
 title = "Americans in Iraq: how is the going?"
+date = "2004-11-27"
+upstream_url = "https://manasataramgini.wordpress.com/2004/11/27/americans-in-iraq-how-is-the-going/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/11/27/americans-in-iraq-how-is-the-going/).
+
 With Bush firmly in power, we need to see how things are going for the
 Americans in Iraq. I recently heard from some Americans and also Hindus
 that the events in Fallujah vindicate the famous “fly-paper” theory that
@@ -31,4 +35,5 @@ Lebanon over time. The Iraqis under Saddam were less Islamic than the
 hell-holes like Saudi Arabia or Pakistan or Bangladesh. Now all of a
 sudden it is only Islam and no Saddam and a dhimmi foe to keep arousing
 it. I am hardly convinced that the Americans have achieved much for
-pouring the money down the Iraq gutter.
+pouring the money down the Iraq gutter.  
+

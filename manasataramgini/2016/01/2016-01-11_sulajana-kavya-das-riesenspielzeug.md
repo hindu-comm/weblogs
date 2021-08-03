@@ -1,7 +1,11 @@
 +++
 title = "śūlajana-kāvya: Das Riesenspielzeug"
+date = "2016-01-11"
+upstream_url = "https://manasataramgini.wordpress.com/2016/01/11/sulajana-kavya-das-riesenspielzeug/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2016/01/11/sulajana-kavya-das-riesenspielzeug/).
+
 Somakhya’s and Lootika’s families were returning from a ritual at the
 less-known temple of the goddess Bhuvaneśvarī. They were there to
 worship a mysterious yantra, which is one of the rare examples of the
@@ -88,15 +92,15 @@ than what is seen in the protein-universe. In fact Fenya and Menya as
 endless turneresses of the mill represent a motif going back to early
 Indo-European times. They appear in the great Bhārata as the two
 mysterious girls Dhātā and Vidhātā who were seen endless plying the
-loom by Utaṅka. This in turn is stems from the old brahmodaya of the
+loomby Utaṅka. This in turn is stems from the old brahmodaya of the
 Bhṛgu-s and Aṅgiras-es:  
-tantram eke yuvatī virūpe abhyākrāmaṃ vayataḥ ṣaṇ-mayūkham |  
-prānyā tantūṃs tirate dhatte anyā nāpa vṛñjāte na gamāto antam ||  
+tantram eke yuvatī virūpe abhyākrāmaṃ vayataḥ ṣaṇ-mayūkham \|  
+prānyā tantūṃs tirate dhatte anyā nāpa vṛñjāte na gamāto antam \|\|  
 \[Singly the two girls of different forms approach the six-pegged loom
 to weave.  
 One stretches the threads, the other places them; they do not break
 them, and go on without an end\]  
-The key point is na gamāto antam | – like Fenya and Menya they have no
+The key point is na gamāto antam \| – like Fenya and Menya they have no
 rest.”
 
 Lootika: “Talking of old motifs turning up long at a place far from
@@ -127,7 +131,7 @@ emerged the material that formed the sun, the moon, the earth and other
 aspects of existence. The great tortoise complained to the Sat-puruṣa of
 the violence of Nirañjana. Then the Sat-puruṣa cursed Nirañjana that he
 should never enter his Platonic sat-loka. While the genesis of much of
-the universe had proceed Nirañjana failed to make man. So he ate up
+the universe had proceed Nirañjana failed to make man. So he ateup
 three of the severed chelonian heads and meditated upon Sat-puruṣa
 asking him for a kṣetra. The Sat-puruṣa emanated a woman called Māyā.
 She was first unable to get her eyes of the Sat-puruṣa but gradually she
@@ -159,10 +163,10 @@ Somakhya: “Lootika, undoubtedly a remarkable legend – who could miss the
 ancient, colossal tortoise, almost as though inspired by Archelon of the
 Mesozoic or Stupendemys of the Miocene – verily, an ancient motif
 appearing in the ṛgveda as a manifestation of Indra as akūpāra, the
-kaśyapa. It is indeed this primordial ocean bearing that colosal
-turtle, which is invoked by the Bhṛgu-s, who alone are ordained in the
-śruti to serve as the hotṛ-s in the ritual crowning of the victorious
-ārya monarch at the rājasūya:  
+kaśyapa. It is indeed this primordial ocean bearing that colosal turtle,
+which is invoked by the Bhṛgu-s, who alone are ordained in the śruti to
+serve as the hotṛ-s in the ritual crowning of the victorious ārya
+monarch at the rājasūya:  
 hiraṇyavarṇāḥ śucayaḥ pāvakā  
 yāsu jātaḥ kaśyapo yāsv indraḥ ।  
 yā agniṃ garbhaṃ dadhire suvarṇās  
@@ -196,7 +200,7 @@ und Städte dort und Dörfer und das bestellte Feld
 erschienen ihren Augen gar eine fremde Welt.  
 \[With a few quick steps she crossed through the forest,  
 soon \[she\] arrived beside Haslach, the land of men,  
-and there cities and villages and the plowed field  
+and there cities and villages and the plowedfield  
 became visible to her eyes, verily an alien world.\]
 
 Wie jetzt zu ihren Füßen sie spähend niederschaut,  
@@ -208,7 +212,7 @@ es glitzert in der Sonne der Pflug so blank und klar.
 \[the thing\] accompanying the little being crawls, it’s so curious,  
 The plow, it glitters so brightly and clearly in the sun.\]
 
-“Ei\! artig Spielding\!” ruft sie, “das nehm’ ich mit nach Haus\!”  
+“Ei! artig Spielding!” ruft sie, “das nehm’ ich mit nach Haus!”  
 Sie knieet nieder, spreitet behend ihr Tüchlein aus  
 und feget mit den Händen, was sich da alles regt,  
 zu Haufen in das Tüchlein, das sie zusammenschlägt,  
@@ -219,11 +223,11 @@ in a pile together into the cloth, which she bundles up\]
 
 und eilt mit freud’gen Sprüngen, man weiß, wie Kinder sind,  
 zur Burg hinan und suchet den Vater auf geschwind:  
-“Ei Vater, lieber Vater, ein Spielding wunderschön\!  
+“Ei Vater, lieber Vater, ein Spielding wunderschön!  
 So Allerliebstes sah ich noch nie auf unsern Höh’n.”  
 \[and with joyous leaps she scurries, you know how children are,  
 to ascend the castle and seek her father in a hurry:  
-“Oh Father, dear father, a beautiful toy\!  
+“Oh Father, dear father, a beautiful toy!  
 I have not yet seen so lovely \[a thing\] in our high realm”\]
 
 Der Alte saß am Tische und trank den kühlen Wein,  
@@ -241,15 +245,15 @@ wie alles auf dem Tische sie zierlich aufgebaut,
 so klatscht sie in die Hände und springt und jubelt laut.  
 \[She spreads out her handkerchief and gently begins  
 to place the farmer, the plow and his team;  
-like everything else placed on the table they are made small,  
+like everything else placed on the table they aremade small,  
 she claps her hands and jumps and cheers loudly.\]
 
 Der Alte wird gar ernsthaft und wiegt sein Haupt und spricht:  
-“Was hast du angerichtet? Das ist kein Spielzeug nicht\!  
+“Was hast du angerichtet? Das ist kein Spielzeug nicht!  
 Wo du es hergenommen, da trag es wieder hin,  
 der Bauer ist kein Spielzeug, was kommt dir in den Sinn?  
 \[The elder becomes really serious and shakes his head and says:  
-“What have you done? That ain’t any toy\!  
+“What have you done? That ain’t any toy!  
 wherever you have brought it from place it back there again.  
 the farmer is not a toy, whatever got into you head?”\]
 
@@ -258,8 +262,8 @@ denn wäre nicht der Bauer, so hättest du kein Brot;
 es sprießt der Stamm der Riesen aus Bauernmark hervor,  
 der Bauer ist kein Spielzeug, da sei uns Gott davor.  
 \[Right now, without grumbling fulfill my command;  
-because without the farmer, you will not have any bread;  
-the race of giants springs from the farmer stock,  
+because without the farmer, you willnot have any bread;  
+the race of giants springs fromthefarmer stock,  
 the farmer is not a toy, god-forbid.\]
 
 Burg Nideck ist im Elsaß der Sage wohl bekannt,  
@@ -324,9 +328,9 @@ a strand of inspiration of the development of his evolutionary theory –
 after all phylogenetic tree diagrams were first depicted by this school
 Indo-Europeanists for languages. The Grimms are more known for their
 tales today – in their later editions it is said: ‘the
-Grimms…“vaccinated” or censored them with their sentimental
-Christianity and puritanical ideology\[J. Zipes\]’. But the originals of
-these tales too have naturally evolved, much like the languages that
-bore them. Even as we have been doing with biological sequences we might
-endeavor to discover the function of faint motifs unearthered in their
-midst.”
+Grimms…“vaccinated” or censored them with their sentimental Christianity
+and puritanical ideology\[J. Zipes\]’. But the originals of these tales
+too have naturally evolved, much like the languages that bore them. Even
+as we have been doing with biological sequences we might endeavor to
+discover the function of faint motifs unearthered in their midst.”
+

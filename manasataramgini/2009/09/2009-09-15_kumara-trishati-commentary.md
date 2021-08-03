@@ -1,7 +1,11 @@
 +++
 title = "kumAra trishatI: commentary"
+date = "2009-09-15"
+upstream_url = "https://manasataramgini.wordpress.com/2009/09/15/kumara-trishati-commentary/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/09/15/kumara-trishati-commentary/).
+
 The
 [kumAra-trishatI](https://manasataramgini.wordpress.com/2009/09/15/kumara-trishati/),
 also known as the shatruMjaya trishatI, the rahasya trishatI, the guhya
@@ -29,19 +33,19 @@ raghunAtha-rav after his conquest of Attock — the farthest north the
 mahArATTa-s reached. But the installation of kumAra was repeatedly
 botched up by the mahArAShTrI brAhmaNa-s who had little knowledge of the
 kaumAra lore\*.  
-1\) The idol was broken by Moslems during the invasion of the Nizam of
+1) The idol was broken by Moslems during the invasion of the Nizam of
 Hyderabad.  
-2\) nAnA phaDnavis made a new idol an installed it next and it broke up
+2) nAnA phaDnavis made a new idol an installed it next and it broke up
 on its own an year later.  
-3\) A new idol was again made by phaDnavis and installed and
-insufficient rites were done at its installation. Several years later a
-lightning strike brought down the temple, so a new idol was made.  
-4\) After the British conquest of India the temple was taken away from
+3) A new idol was again made by phaDnavis and installed and insufficient
+rites were done at its installation. Several years later a lightning
+strike brought down the temple, so a new idol was made.  
+4) After the British conquest of India the temple was taken away from
 the peshvA-s and given to a local trust. In the late 1800s the metal
 crown made for the idol by mAdhava-rav fell down and broke the idol’s
 hand. So a new idol was made for the 4th time, this time funded by some
 vaishya.  
-5\) In the 1980s the right eye of one of the faces of the idol fell out
+5) In the 1980s the right eye of one of the faces of the idol fell out
 and was lost.  
 This was when the muni and I arrived at the top of the hill spur on the
 ShaShTI after the dIpAvalI. The prashnaka had informed me that the idol
@@ -73,3 +77,4 @@ is something a man does not speak about.
 
 \* I am aware of perhaps 3 exceptions including the one in the lineage
 of lakShmaNa rANADe who raised on objection to this statement :-).
+

@@ -1,7 +1,11 @@
 +++
 title = "The clash of Saxons"
+date = "2005-08-28"
+upstream_url = "https://manasataramgini.wordpress.com/2005/08/28/the-clash-of-saxons/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/08/28/the-clash-of-saxons/).
+
 The great leader of the Southern Saxon, Pirate king Slit-Eyes had died
 in the battle with the Hindus during their invasion of the southern
 continent. Slit-Eyes was succeeded by pirate Ponting, who was ably
@@ -33,3 +37,4 @@ controlled by the Mainlanders this time. Thus for the first time in many
 eras it looked as though the Mainlanders might wrest control. But
 tommorow is the mother of all battles for the Saxon powers. Let us see
 what happens
+

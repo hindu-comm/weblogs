@@ -1,7 +1,11 @@
 +++
 title = "The Rāmāyaṇa and a para-rāmāyaṇa in numbers-I: epic as religion"
+date = "2017-02-12"
+upstream_url = "https://manasataramgini.wordpress.com/2017/02/12/the-ramaya%e1%b9%87a-and-a-para-ramaya%e1%b9%87a-in-numbers-i-epic-as-religion/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2017/02/12/the-ramaya%e1%b9%87a-and-a-para-ramaya%e1%b9%87a-in-numbers-i-epic-as-religion/).
+
 This note may be read as part of our studies on the Rāmāyaṇa and
 para-Rāmāyaṇa-s of which [an earlier part is presented
 here](https://manasataramgini.wordpress.com/2016/08/12/some-words-on-para-ramaya%e1%b9%87a-s-i/).
@@ -11,17 +15,16 @@ two registers of the old Indo-European religion. While today both of
 them survive together with any vigor only among the Hindus, until not
 too long ago these registers showed some survival even among their
 Iranian cousins. From these it is apparent the first register is the
-“high religion” which manifests as śrauta and smārta performance.
-Among the ārya-s this further evolved into other manifestations as seen
-in the tantra-s of the sectarian traditions. Nevertheless, the Vedic
-base remained the model for most of these later developments. On the
-other hand the lay manifestation of religion was by the medium of the
-epic or itihāsa-s in India. Their religious value elsewhere in the
-Indo-European world was apparent in Greece. Indeed, in the classical
-Greco-Roman confluence the last attempt of reviving the religion by
-emperor Julian, which was being swept away by the “Typhonic” evil of the
-preta-moha, involved a focus on the religious facet of the Homeric
-epics.
+“high religion” which manifests as śrauta and smārta performance. Among
+the ārya-s this further evolved into other manifestations as seen in the
+tantra-s of the sectarian traditions. Nevertheless, the Vedic base
+remained the model for most of these later developments. On the other
+hand the lay manifestation of religion was by the medium of the epic or
+itihāsa-s in India. Their religious value elsewhere in the Indo-European
+world was apparent in Greece. Indeed, in the classical Greco-Roman
+confluence the last attempt of reviving the religion by emperor Julian,
+which was being swept away by the “Typhonic” evil of the preta-moha,
+involved a focus on the religious facet of the Homeric epics.
 
 In both India and Greece there are two epics, which have numerous
 parallels in their motifs, and resonate even in their overall themes.
@@ -35,10 +38,10 @@ epic. Among the Greeks to an extent the Iliad probably played a national
 role but tended towards the universal in the later phase. It was the
 universal epic, the Rāmāyaṇa, which was the vehicle of the ārya-dharma
 beyond boundaries of Jambudvīpa. In its role as the foundation of the
-“lay religion” it was remarkably tenacious and withstood the assault
-of the other Abrahamistic evil in the form the marūnmāda in Indonesia.
-It also served as a means of preserving the ārya-dharma in both India
-and in the east against the assault of the Aryan counter-religions
+“lay religion” it was remarkably tenacious and withstood the assault of
+the other Abrahamistic evil in the form the marūnmāda in Indonesia. It
+also served as a means of preserving the ārya-dharma in both India and
+in the east against the assault of the Aryan counter-religions
 promulgated by the naked-one and the ground-toucher. Indeed, in India
 the powerful force of the itihāsa-s was realized by successors of both
 these heterodox promulgators, who either attacked the itihāsa-s or tried
@@ -75,13 +78,13 @@ rather than wholly relying on hearsay of others.
 
 First we shall look at the gross features of the Rāmāyaṇa (Figure 1):
 
-![ramayana\_stats](https://manasataramgini.files.wordpress.com/2017/02/ramayana_stats.png?w=640)Figure
+![ramayana_stats](https://manasataramgini.files.wordpress.com/2017/02/ramayana_stats.png?w=640)Figure
 1
 
-\-The text has seven kāṇḍa-s, which are composed of multiple sarga-s,
+-The text has seven kāṇḍa-s, which are composed of multiple sarga-s,
 which in turn are composed of śloka-s. The Ayodhyā, Yuddha and Uttara
 have much more than median number of sarga-s and śloka-s.  
-\-However, it is notable that except for Yuddha the other kāṇḍa-s have a
+-However, it is notable that except for Yuddha the other kāṇḍa-s have a
 nearly constant median śloka count per sarga (\~24-27). This was the
 likely count maintained by Pracetas and his son Vālmīki the original
 composers of the Rāmāyaṇa for a typical kāṇḍa, probably aiming to be
@@ -93,29 +96,29 @@ epics. Unlike the median, the mean śloka count per sarga is higher with
 anomalies for both the Yuddha and Sundara. We shall take a closer look
 at this in Figure 2
 
-![sarga\_length\_ramayana](https://manasataramgini.files.wordpress.com/2017/02/sarga_length_ramayana.png?w=640)
+![sarga_length_ramayana](https://manasataramgini.files.wordpress.com/2017/02/sarga_length_ramayana.png?w=640)
 
 Figure 2.
 
-\-Here we see the actual frequency distribution of the sarga length
+-Here we see the actual frequency distribution of the sarga length
 across the Rāmāyaṇa and per kāṇḍa in śloka-s: Here the differences are
 more apparent.  
-\-The first three kāṇḍa-s are “tighter” in distribution with modal sarga
+-The first three kāṇḍa-s are “tighter” in distribution with modal sarga
 length close to the median length. The Kiṣkindhā shows some divergence
 in the form of a fat tail with several sarga-s in of great length (40-70
 śloka-s).  
-\-The Sundara is most unusual in having a bimodal distribution with
-short sarga-s peaking less than 20 in length and longer ones peaking
-around 35. This pattern suggests a deliberate compositional shift
-perhaps reflecting the peculiar nature of the Sundara as an avenue for
-display of poetic beauty.  
-\-The Yuddha is clearly distinct with the general peak and median length
+-The Sundara is most unusual in having a bimodal distribution with short
+sarga-s peaking less than 20 in length and longer ones peaking around
+35. This pattern suggests a deliberate compositional shift perhaps
+reflecting the peculiar nature of the Sundara as an avenue for display
+of poetic beauty.  
+-The Yuddha is clearly distinct with the general peak and median length
 being shifted to being between 30 and 40. There is also a sizable
 fraction of very long sarga-s above 40 going all the way to well over
 80. This again emphasizes the distinctness of the battle narratives
 where the long recitations perhaps appealed to the war-like ancient ārya
 audience who might have been in similar battles in their own lives.  
-\-Finally, Uttara shows a typical median distribution of sarga length
+-Finally, Uttara shows a typical median distribution of sarga length
 with a major fraction of sarga-s distributed around this value. However,
 it is distinct in showing a bimodality with two peaks one with length
 between 10-20 śloka-s and another with length between 40-45 śloka-s.
@@ -126,10 +129,10 @@ the long ones relating to battle-sequences comparable to the Yuddha.
 Now coming to the core issue of religion we shall look at the frequency
 of occurrence of the gods in the Rāmāyaṇa (Figure 3)
 
-![deva\_ramayana](https://manasataramgini.files.wordpress.com/2017/02/deva_ramayana.png?w=640)Figure
+![deva_ramayana](https://manasataramgini.files.wordpress.com/2017/02/deva_ramayana.png?w=640)Figure
 3
 
-\-It is apparent that Indra is literally the leader of the gods. He
+-It is apparent that Indra is literally the leader of the gods. He
 occurs nearly twice as frequently as the next contender Prajāpati or
 Brahmā. He is the standard for all comparisons and the hero of the
 Rāmāyaṇa is frequently likened to him. Indeed, there is a the tacit
@@ -137,8 +140,8 @@ understanding that Indra used his māyā to take the form of a man in
 order to slay Rāvaṇa. This is suggested by Mandodarī’s lament upon her
 husband’s death:
 
-atha vā rāma-rūpeṇa vāsavaḥ svayam āgataḥ |  
-māyāṃ tava vināśāya vidhāyāpratitarkitām || R 6.99.10
+atha vā rāma-rūpeṇa vāsavaḥ svayam āgataḥ \|  
+māyāṃ tava vināśāya vidhāyāpratitarkitām \|\| R 6.99.10
 
 Or indeed Indra himself appeared in the form of Rāma,  
 for ruining and slaying you using impenetrable illusion.
@@ -150,8 +153,8 @@ Now again, though the core kāṇḍa narrative itself mentions Rāma taking
 the weapons of Viṣṇu from Agastya, in the preamble it is mentioned that
 they were the weapons of Indra himself.
 
-agastyavacanāc caiva jagrāhaindraṃ śarāsanam |  
-khaḍgaṃ ca paramaprītas tūṇī cākṣaya-sāyakau || R 1.1.34c
+agastyavacanāc caiva jagrāhaindraṃ śarāsanam \|  
+khaḍgaṃ ca paramaprītas tūṇī cākṣaya-sāyakau \|\| R 1.1.34c
 
 At Agastya’s words Rāma verily took up Indra’s bow,  
 sword and the excellent inexhaustible quiver.
@@ -159,15 +162,15 @@ sword and the excellent inexhaustible quiver.
 Of course the grand finale of the Yuddhakāṇḍa has Rāma ride the chariot
 of Indra steered by Mātali himself and using Indra-s weapons:
 
-sahasrākṣeṇa kākutstha ratho ‘yaṃ vijayāya te |  
-dattas tava mahāsattva śrīmāñ śatrunibarhaṇaḥ ||
+sahasrākṣeṇa kākutstha ratho ‘yaṃ vijayāya te \|  
+dattas tava mahāsattva śrīmāñ śatrunibarhaṇaḥ \|\|
 
 O descendant of Kakutstha, the slayer of foes, one of great strength and
 opulence, the thousand-eyed Indra has given for your victory this
 chariot.
 
-idam aindraṃ mahaccāpaṃ kavacaṃ cāgni-saṃnibham |  
-śarāś cādityasaṃkāśāḥ śaktiś ca vimalā śitāḥ ||R 6.90.9-6.90.10
+idam aindraṃ mahaccāpaṃ kavacaṃ cāgni-saṃnibham \|  
+śarāś cādityasaṃkāśāḥ śaktiś ca vimalā śitāḥ \|\|R 6.90.9-6.90.10
 
 \[He has also given\] this great bow of Indra and his armor which glow
 like fire,  
@@ -177,8 +180,8 @@ Finally, to slay Rāvaṇa he is said to use the missile made by Brahmā.
 But even here it is a mighty missile made by Brahmā in the manner of
 Tvaṣṭṛ in the Veda for Indra to conquer the three worlds:
 
-brahmaṇā nirmitaṃ pūrvam indrārtham amitaujasā |  
-dattaṃ surapateḥ pūrvaṃ triloka-jayakāṅkṣiṇaḥ || R 6.97.5c
+brahmaṇā nirmitaṃ pūrvam indrārtham amitaujasā \|  
+dattaṃ surapateḥ pūrvaṃ triloka-jayakāṅkṣiṇaḥ \|\| R 6.97.5c
 
 \[The missile\] was formerly made by the god Brahmā of immeasurable
 might for the sake of Indra. It was given to the lord of the gods
@@ -186,10 +189,10 @@ might for the sake of Indra. It was given to the lord of the gods
 
 The missile itself has characteristics that are clearly suggestive of
 the vajra of Indra:  
-“ratha-nāgāśva-vṛndānāṃ bhedanaṃ kṣiprakāriṇam |R 6.97.8c”  
+“ratha-nāgāśva-vṛndānāṃ bhedanaṃ kṣiprakāriṇam \|R 6.97.8c”  
 The swift acting \[missile\] was the smasher of \[entire\] troops of
 chariots, elephants and horses.  
-“dvārāṇāṃ parighāṇāṃ ca girīṇām api bhedanam |R 6.97.9”  
+“dvārāṇāṃ parighāṇāṃ ca girīṇām api bhedanam \|R 6.97.9”  
 It was capable of smashing its way through through bar-reinforced doors
 and also mountains”
 
@@ -202,8 +205,8 @@ like Yama himself.
 The deployment of this missile by Rāma on Rāvaṇa is again thus described
 thus:
 
-sa vajra iva durdharṣo vajrabāhu-visarjitaḥ |  
-kṛtānta iva cāvāryo nyapatad rāvaṇorasi ||
+sa vajra iva durdharṣo vajrabāhu-visarjitaḥ \|  
+kṛtānta iva cāvāryo nyapatad rāvaṇorasi \|\|
 
 The missile, difficult to defend against like the vajra hurled by the
 arm of Indra, unstoppable like the causer of death (Yama), hit Rāvaṇa on
@@ -211,8 +214,8 @@ his chest.
 
 Thus struck Rāvaṇa fell:
 
-gatāsur bhīmavegas tu nairṛtendro mahādyutiḥ |  
-papāta syandanād bhūmau vṛtro vajrahato yathā || R 6.97.021
+gatāsur bhīmavegas tu nairṛtendro mahādyutiḥ \|  
+papāta syandanād bhūmau vṛtro vajrahato yathā \|\| R 6.97.021
 
 His life-breath having departed the lord of the nairṛta-s of fierce
 speed and great luster fell from his battle-car to the ground like Vṛtra
@@ -230,7 +233,7 @@ form to kill Rāvaṇa.
 Now what about the rest of the Vaidika pantheon. Was it like the late
 Vedic age or the saṃhitā-s themselves?
 
-\-We see considerable prominence for Sūrya, Vāyu, Viṣṇu, Yama, Rudra in
+-We see considerable prominence for Sūrya, Vāyu, Viṣṇu, Yama, Rudra in
 addition the Prajāpati/Brahmmā. However, the Aśvin-s, the Marut-s, the
 distinct āditya-s are not prominent. Agni has a moderate presence
 although primarily in the sense of poetic similes. This suggests that
@@ -256,15 +259,15 @@ Indra is identified with Rāma, and the role of Vāyu is taken by Hanumat,
 then it is rather obvious that the place of Viṣṇu is taken by Lakṣmaṇa.
 The Rāmāyaṇa makes this obvious in the statement:
 
-vikramiṣyati rakṣaḥsu bhartā te saha-lakṣmaṇaḥ|  
-yathā śatruṣu śatrughno viṣṇunā saha vāsavaḥ || 6.024.029c
+vikramiṣyati rakṣaḥsu bhartā te saha-lakṣmaṇaḥ\|  
+yathā śatruṣu śatrughno viṣṇunā saha vāsavaḥ \|\| 6.024.029c
 
 Your husband \[Rāma\] with invade the rakṣas with his brother Lakṣmaṇa
 even as the foe-killing Indra against his foes along with Viṣṇu.  
 or:
 
-sa dadarśa tato rāmaṃ tiṣṭhantam aparājitam |  
-lakṣmaṇena saha bhrātrā viṣṇunā vāsavaṃ yathā || R 6.87.9
+sa dadarśa tato rāmaṃ tiṣṭhantam aparājitam \|  
+lakṣmaṇena saha bhrātrā viṣṇunā vāsavaṃ yathā \|\| R 6.87.9
 
 He then saw the undefeated Rāma standing with his brother Lakṣmaṇa like
 Indra with Viṣṇu.
@@ -280,13 +283,13 @@ established as the favored weapon of Viṣṇu. However, it does preserve
 the memory of Indra’s cakra mentioned in the śruti in R 1.26.5. Notably,
 Viṣṇu is mentioned as killing the demon Naraka in a conflict which was
 perhaps coupled with Indra’s battle with Śambara:  
-śambaro devarājena narako viṣṇunā yathā | R 6.57.7
+śambaro devarājena narako viṣṇunā yathā \| R 6.57.7
 
 Thus is appears possible that this exploit of Viṣṇu was transferred to
 his avatāra Kṛṣṇa in a later retelling of the legend. Indeed, the whole
 Kārṣṇī retelling has Viṣṇu only thinly veiled by the Yadu hero.
 
-\-Of the other gods, Garuḍa and Kubera despite having a presence in the
+-Of the other gods, Garuḍa and Kubera despite having a presence in the
 Veda are not prominent there beyond specific rituals. Nevertheless, even
 there, there is an under-current that they had a role of some note in
 household rituals. Their importance clearly comes out in the Rāmāyaṇa.
@@ -300,7 +303,7 @@ Rāmopākhyāna. Notably, in that relatively short text he is 3rd most
 frequently mentioned deity (Figure 4) suggesting that his importance was
 visible throughout the whole early phase of the Rāmāyaṇa tradition.
 
-![deva\_ramopakhyana](https://manasataramgini.files.wordpress.com/2017/02/deva_ramopakhyana.png?w=640)Figure
+![deva_ramopakhyana](https://manasataramgini.files.wordpress.com/2017/02/deva_ramopakhyana.png?w=640)Figure
 4
 
 His importance is also implied by his airplane the Puṣpaka playing a
@@ -310,8 +313,8 @@ abduction. Kubera is also described as providing a secret missile to
 Lakṣmaṇa in his dream that allowed him to counter the Yama weapon of
 Meghanāda in their final encounter.
 
-lakṣmaṇo ‘py ādade bāṇam anyaṃ bhīma-parākramaḥ |  
-kubereṇa svayaṃ svapne yad dattam amitātmanā ||
+lakṣmaṇo ‘py ādade bāṇam anyaṃ bhīma-parākramaḥ \|  
+kubereṇa svayaṃ svapne yad dattam amitātmanā \|\|
 
 Lakṣmaṇa of fierce valor also deployed another missile, which given \[to
 him\] by the incomparable Kubera himself in a dream.
@@ -321,7 +324,7 @@ place with a fire breaking out as they neutralized each other – in a
 sense implying that Kubera is no less than the god of death in his
 might.
 
-\-Yama in the Ṛgveda is strictly associated with the context of the
+-Yama in the Ṛgveda is strictly associated with the context of the
 funerary and ancestor rituals. However, there is again the under-current
 in the other saṃhitā-s that he was an important deity in regular
 existence as the god of death. This role of his in the Rāmāyaṇa is
@@ -330,9 +333,9 @@ to as a great king suggests that he was an important god in the
 ārya-dharma of the time. The death-dealing rod of Yama and entering his
 abode are common similes.
 
-\-Prajāpati: This deity is hardly present in the core clan-specific
-works of Ṛgveda – he is mentioned only twice outside of maṇḍala-10. But
-in maṇḍala-10 he has already risen to being the supreme deity in certain
+-Prajāpati: This deity is hardly present in the core clan-specific works
+of Ṛgveda – he is mentioned only twice outside of maṇḍala-10. But in
+maṇḍala-10 he has already risen to being the supreme deity in certain
 sūkta-s. He is conceived as both the overlord deity as well as the
 protogonic “golden-egg”. Now this would suggest that he was a
 late-emerging deity, probably specifically in the Indic setting after
@@ -361,8 +364,8 @@ deity at the head of the pantheon Brahman shares the position with
 Indra, but his prominence is clearly eating into that of Indra. This
 suggests two possible scenarios: 1) He was already a prominent figure
 from the very beginning of the Rāmāyaṇa tradition and his
-“power-sharing” with Indra is reflective of the parallel scenario in
-the brāhmaṇa-s were he had already risen to the highest rank. Thus this
+“power-sharing” with Indra is reflective of the parallel scenario in the
+brāhmaṇa-s were he had already risen to the highest rank. Thus this
 would imply that both aindra and prājāpatya memes were already active as
 the epic was being composed. 2) The Rāmāyaṇa as proposed above was
 primarily an aindra epic and Brahman secondarily encroached on Indra’s
@@ -386,7 +389,7 @@ Vimalasūri explicit calls out the stupidity of the āstika versions on
 grounds of their denigration of the great god Indra. This historical
 background would imply that the prājāpatya-s first rose as a dominant
 force inside the Vedic intellectual circles. The mark of this rise was
-first seen in the brāhmaṇa texts. Then as the prājāpatya-s “conquered”
+first seen in the brāhmaṇa texts. Then as the prājāpatya-s“conquered”
 the intellectual landscape they extended their influence to more
 “secular” intellectual activities such as the itihāsa-s and
 mathematics/science. This was when Brahman came to prominence in the
@@ -425,24 +428,23 @@ the second of the above proposals: after the original epic in an aindra
 form was composed the Prājāpatya-s refashioned it by primarily redacting
 the first and last kāṇḍa-s.
 
-![deva\_kanda](https://manasataramgini.files.wordpress.com/2017/02/deva_kanda.png?w=640)Figure
+![deva_kanda](https://manasataramgini.files.wordpress.com/2017/02/deva_kanda.png?w=640)Figure
 5
 
-\-Viṣṇu again: Two other major deities show a similar of kāṇḍa-wise
+-Viṣṇu again: Two other major deities show a similar of kāṇḍa-wise
 pattern of distribution as Brahman: Viṣṇu and Rudra. Importantly, they
 are minor in their presence in the Rāmopākhyana (Figure 4). This
 suggests that the vaiṣṇava and śaiva redaction occurred later than the
 forking of the Rāmopākhyāna and acted in manner very similar to the
-prājāpatya action before them. That they were also directly in
-conflict with each other is suggested by the fight between Rudra and
-Viṣṇu which is inserted into the bāla-kāṇḍa. Another key point is
-that the vaiṣṇava material show no strong hints of the avatāra doctrine
-nor the early pāṅcarātrika tradition which is strong in the Mahābhārata.
-This suggests that the vaiṣṇava redaction comes from an early stream of
-the sect that underwent further evolution by time of the redaction of
-the Bhārata.
+prājāpatya action before them. That they were also directly in conflict
+with each other is suggested by the fight between Rudra and Viṣṇu which
+is inserted into the bāla-kāṇḍa. Another key point is that the vaiṣṇava
+material show no strong hints of the avatāra doctrine nor the early
+pāṅcarātrika tradition which is strong in the Mahābhārata. This suggests
+that the vaiṣṇava redaction comes from an early stream of the sect that
+underwent further evolution by time of the redaction of the Bhārata.
 
-\-Rudra: In the Rāmāyaṇa has his characteristic features of being
+-Rudra: In the Rāmāyaṇa has his characteristic features of being
 dark-throated, three-eyed, with braided locks (Kapardin), having a bull
 as his banner/vehicle, holding a great bow, having Umā for this wife and
 displaying great ferocity. His destruction of the Tripura-s is
@@ -451,8 +453,8 @@ references. These references frequently come in kāṇḍa-s 2-6 suggesting
 that they are indeed the ancient similes involving the deeds of Rudra.
 E.g.
 
-sa papāta kharo bhūmau dahyamānaḥ śarāgninā |  
-rudreṇaiva vinirdagdhaḥ śvetāraṇye yathāndhakaḥ || R 3.29.27
+sa papāta kharo bhūmau dahyamānaḥ śarāgninā \|  
+rudreṇaiva vinirdagdhaḥ śvetāraṇye yathāndhakaḥ \|\| R 3.29.27
 
 He, Khara, fell to the ground being burnt by the fire of the missile
 even as Andhaka \[fell\] burnt down by Rudra in the White Forest.
@@ -463,7 +465,7 @@ exploits made prominent in the purāṇa-s like the killing of Jalandhara
 or Śaṅkhacūda. Thus Rudra in the Rāmāyaṇa has not changed in any notable
 way from his Vedic form.
 
-\-Finally one may note that in this Kāṇḍa-wise distribution Kubera is
+-Finally one may note that in this Kāṇḍa-wise distribution Kubera is
 mostly uniform across kāṇḍa except for the uttara – paralleling Vāyu to
 an extent. This we believe suggests his ancient and intrinsic importance
 to the text with the Uttara merely serving as a receptacle for lore
@@ -484,3 +486,4 @@ their life and death struggle against the unadulterated evil of
 Mohammedanism when they seemed all but lost. That is why a memorial to
 the epic should be built at Ayodhyā after destruction of all marūnmatta
 elements in the holy city.
+

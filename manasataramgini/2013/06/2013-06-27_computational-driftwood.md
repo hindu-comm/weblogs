@@ -1,7 +1,11 @@
 +++
 title = "Computational driftwood"
+date = "2013-06-27"
+upstream_url = "https://manasataramgini.wordpress.com/2013/06/27/computational-driftwood/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/06/27/computational-driftwood/).
+
 [![](https://lh6.googleusercontent.com/-X6lJWTXMjR8/UcvgSLUSZCI/AAAAAAAACsY/wBrx9xfahPc/s800/falling_wood_small.jpg)](https://picasaweb.google.com/lh/photo/RFZRvh8D-R-RsgVdE4XHRtMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
 The above object is a gnarled piece of driftwood. Only that it never
@@ -13,3 +17,4 @@ form suggests that mathematical entities are merely discovered, i.e., a
 connection with that Platonic shuddha-shR^iShTi, or are invented for
 describing nature, or is merely a reflection of a deep-rooted tendency
 for pareidolia.
+

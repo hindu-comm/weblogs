@@ -1,7 +1,11 @@
 +++
 title = "Crocodiles in the shadow of the dinosaurs"
+date = "2009-12-19"
+upstream_url = "https://manasataramgini.wordpress.com/2009/12/19/crocodiles-in-the-shadow-of-the-dinosaurs/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/12/19/crocodiles-in-the-shadow-of-the-dinosaurs/).
+
 [![crocs-2](https://i0.wp.com/farm5.static.flickr.com/4044/4240078138_e4629b6bf4.jpg)](http://www.flickr.com/photos/24766652@N05/4240078138/ "crocs-2 by somasushma, on Flickr")  
 *Crocs: past and present*
 
@@ -926,3 +930,4 @@ a degree like mammals). The questions hence are: 1) Is this distinction
 in the morphological strategies of the two great archosaurian radiations
 a reflection of reality or a figment of imagination? 2) If the
 distinction is real what was the cause for it?
+

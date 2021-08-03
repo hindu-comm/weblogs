@@ -1,7 +1,11 @@
 +++
 title = "The kAlAmukhas-I"
+date = "2005-02-23"
+upstream_url = "https://manasataramgini.wordpress.com/2005/02/23/the-kalamukhas-i/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/02/23/the-kalamukhas-i/).
+
 One of the most enigmatic of the shaiva groups of India were the
 kAlAmukhas. Their origins and the rise to power are shrouded in mystery.
 An added mystery is their suddence disappearance despite their prominent
@@ -74,3 +78,4 @@ solely devoted to scholarly pursuits were blown away resulting their
 rapid extinction. In contrast the more amorphous Hindu groups dispersed
 over the countryside survived and revitalized the Hindu world in face of
 the Islamic assault.
+

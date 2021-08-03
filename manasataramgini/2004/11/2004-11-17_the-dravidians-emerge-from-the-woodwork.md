@@ -1,7 +1,11 @@
 +++
 title = "The Dravidians emerge from the woodwork"
+date = "2004-11-17"
+upstream_url = "https://manasataramgini.wordpress.com/2004/11/17/the-dravidians-emerge-from-the-woodwork/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/11/17/the-dravidians-emerge-from-the-woodwork/).
+
 The recent incidents in India have resulted in the Dravidians emerging
 like worms from the woodwork. In practically every Indian list one can
 now see them floating their anti-Brahmin rhetoric. A few hopeful
@@ -14,4 +18,5 @@ their cheques and are currently a rather spent force.
 One can only dream that the brAhmaNas unite and mobilize a mass movement
 similar to one that destroyed that despicable structure in Ayodhya that
 stood for 5 centuries of slavery. Lessons need to be taken from the
-great chANakya and viShNusharman in destroying the foes.
+great chANakya and viShNusharman in destroying the foes.  
+

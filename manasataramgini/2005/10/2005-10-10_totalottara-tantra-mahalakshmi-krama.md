@@ -1,7 +1,11 @@
 +++
 title = "totalottara tantra mAhAlakShmI krama"
+date = "2005-10-10"
+upstream_url = "https://manasataramgini.wordpress.com/2005/10/10/totalottara-tantra-mahalakshmi-krama/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/10/10/totalottara-tantra-mahalakshmi-krama/).
+
 The totalottara tantra is one of the important garuDa tantras of which
 fragments relating to special worship of mahAlakShmI are preserved by
 tradition. It may be done on the night of the concluding mahAlakShmI day
@@ -62,3 +66,4 @@ Then the following deities are offered oblations:
 oM muM TaM durgAyai svAhA //  
 oM gUM gaNapataye svAhA //  
 kShmrAM kShetrapAlAya svAhA //
+

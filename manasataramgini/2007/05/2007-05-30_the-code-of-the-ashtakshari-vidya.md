@@ -1,7 +1,11 @@
 +++
 title = "The code of the aShTAkSharI vidyA"
+date = "2007-05-30"
+upstream_url = "https://manasataramgini.wordpress.com/2007/05/30/the-code-of-the-ashtakshari-vidya/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/05/30/the-code-of-the-ashtakshari-vidya/).
+
 It is well-known that the atharva vedic tradition provides the vidhi for
 one of the great rites of kumAra- the skanda yAga promulgated by
 gopatha. But known only to a select few, who maintain the continuity
@@ -73,3 +77,4 @@ known as the dual. The dual of a polyhedron A is defined as polyhedron
 B, which constructed by taking the centers of the faces of the A as the
 vertices of B. The cube (ghana maNDala) and the octahedron
 (vajra-maNDala) are duals of each other.
+

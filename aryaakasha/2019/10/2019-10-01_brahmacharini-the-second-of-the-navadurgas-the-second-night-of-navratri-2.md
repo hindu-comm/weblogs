@@ -1,8 +1,11 @@
 +++
-title = "Brahmacharini – The Second of the NavaDurgas, The Second Night ofxa0NavRatri"
-date = "October 1, 2019"
+title = "Brahmacharini – The Second of the NavaDurgas, The Second Night of NavRatri"
+date = "2019-10-01"
+upstream_url = "https://aryaakasha.com/2019/10/01/brahmacharini-the-second-of-the-navadurgas-the-second-night-of-navratri-2/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/10/01/brahmacharini-the-second-of-the-navadurgas-the-second-night-of-navratri-2/).
+
 # ![24-1427181031-brahmacharini-devi-navratri](https://aryaakasha.files.wordpress.com/2019/10/24-1427181031-brahmacharini-devi-navratri.jpg?w=676)
 
 The Second Night of #NavRatri is dedicated to Ma as Brahmacharini – the

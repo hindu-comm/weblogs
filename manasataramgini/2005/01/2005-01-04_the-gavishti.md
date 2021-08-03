@@ -1,7 +1,11 @@
 +++
 title = "The gaviShTi"
+date = "2005-01-04"
+upstream_url = "https://manasataramgini.wordpress.com/2005/01/04/the-gavishti/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/01/04/the-gavishti/).
+
 O indra and viShNu come bear us aid as you had done to the ikShvAku in
 the great gaviShTi for wealth and glory.  
 None among men knows his own life’s duration: bear us in safety over
@@ -25,3 +29,4 @@ vyuptakesha shot our horse but its armor absorbed the shot. By then
 biDAla-smashru had reached us with an upraised club. We dodged the heave
 and leveled a massive sword-blow at him. He narrowly escaped it and fled
 away with his co-conspirator, disappearing into the eastern forest.
+

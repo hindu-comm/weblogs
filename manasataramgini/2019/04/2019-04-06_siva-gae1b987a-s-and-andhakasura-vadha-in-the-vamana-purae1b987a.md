@@ -1,7 +1,11 @@
 +++
 title = "Śiva-gaṇa-s and Andhakāsura-vadha in the Vāmana-purāṇa"
+date = "2019-04-06"
+upstream_url = "https://manasataramgini.wordpress.com/2019/04/06/siva-ga%e1%b9%87a-s-and-andhakasura-vadha-in-the-vamana-pura%e1%b9%87a/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2019/04/06/siva-ga%e1%b9%87a-s-and-andhakasura-vadha-in-the-vamana-pura%e1%b9%87a/).
+
 On Twitter, one of our acquaintances going by the name @GhorAngirasa had
 a discussion on the significance of the number 66 in śaiva tradition.
 That reminded us of an unfinished article where we had noted this number
@@ -16,4 +20,5 @@ publication. It provided as a pdf file because of the length and the
 number of illustrations in it.
 
 [Śiva-gaṇa-s and Andhakāsura-vadha in the
-Vāmana-purāṇa ](https://manasataramgini.files.wordpress.com/2019/04/shiva_gana-s-1.pdf)
+Vāmana-purāṇa](https://manasataramgini.files.wordpress.com/2019/04/shiva_gana-s-1.pdf)
+

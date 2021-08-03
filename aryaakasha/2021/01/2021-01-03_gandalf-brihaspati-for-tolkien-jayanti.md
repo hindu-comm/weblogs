@@ -1,8 +1,11 @@
 +++
-title = "Gandalf Brihaspati – For Tolkienxa0Jayanti"
-date = "January 3, 2021"
+title = "Gandalf Brihaspati – For Tolkien Jayanti"
+date = "2021-01-03"
+upstream_url = "https://aryaakasha.com/2021/01/03/gandalf-brihaspati-for-tolkien-jayanti/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/01/03/gandalf-brihaspati-for-tolkien-jayanti/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/01/135634834_787383118540681_7117926733701944130_n.png?w=460)
 
 Yes, we know it’s not Thursday … but it IS J.R.R. Tolkien’s Birthday !

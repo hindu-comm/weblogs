@@ -1,7 +1,11 @@
 +++
 title = "Gory Tamil poems"
+date = "2003-10-01"
+upstream_url = "https://manasataramgini.wordpress.com/2003/10/01/gory-tamil-poems/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/10/01/gory-tamil-poems/).
+
 The old woman’s shoulders  
 were dry, unfleshed,  
 with outstanding veins;  
@@ -82,3 +86,4 @@ skilled in the search
 for good words.
 
 Where is he now?
+

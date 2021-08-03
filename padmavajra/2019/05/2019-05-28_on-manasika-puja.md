@@ -1,8 +1,11 @@
 +++
 title = "On mAnasika pUjA"
 date = "2019-05-28"
+upstream_url = "https://padmavajra.net/2019/05/28/on-manasika-puja/"
 
 +++
+Source: [here](https://padmavajra.net/2019/05/28/on-manasika-puja/).
+
 <https://twitter.com/Better_Not_Shar/status/1133063165472755719>
 
 mAnasika pUjA is not a substitute for the external rituals. Are we yogis

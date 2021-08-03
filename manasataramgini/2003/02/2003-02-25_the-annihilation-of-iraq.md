@@ -1,7 +1,11 @@
 +++
 title = "The annihilation of Iraq"
+date = "2003-02-25"
+upstream_url = "https://manasataramgini.wordpress.com/2003/02/25/the-annihilation-of-iraq/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/02/25/the-annihilation-of-iraq/).
+
 Iraq and Azerbaijan had towards the end of the 1300s came under the rule
 of the Islamized Mongol Chiefs of the Jelair clan who had descended from
 Jelme, the great general of Chingiz Ka’khan. The Jelair converts to
@@ -30,9 +34,9 @@ Sea and attacked Timur. A fierce dispute broke out over the possession
 of Azerbaijan and the Mongol horsemen crushed the Timurid frontline
 corps causing his troops to panic. However, Timur’s son, Miran Shah
 delivered a large reinforcement of cavalry archers to relieve his
-father’s corps. He then lead a charge of the heavy cavalry on the
-Mongol center and overwhelmed it causing Toqtamaish to retreat north of
-the Derbent pass.
+father’s corps. He then lead a charge of the heavy cavalry on the Mongol
+center and overwhelmed it causing Toqtamaish to retreat north of the
+Derbent pass.
 
 Then Timur held a grand Quriltai and review of his troops with the
 intention invading Armenia. Having made it clear that the Turkoman Amirs
@@ -74,7 +78,7 @@ Shah Rukh ground defense corps. The fort door was opened and the
 garrison was massacred. Timur-i-lang immediately attacked Shiraz forcing
 Shah Mansur, the Muzaffarid, to face him in open battle. Through his
 sheer valor Mansur broke through the Timurid ranks and appeared right
-before Timur and struck his sword off his hand. He then delivered two
+before Timur and struck his sword off his hand.He then delivered two
 blows with his sword on Timur’s head, whose massive helmet saved him
 from certain death. Shah Rukh interceded and cut off Mansur’s head and
 threw it at Timur’s feet. Timur seized Shiraz and thoroughly looted it
@@ -110,20 +114,20 @@ pounce on Yusuf and Ahmed’s corps. The opponents were badly beaten, and
 in the confusion Yusuf and Ahmed left their troops to fend for
 themselves and started fleeing to Egypt. The Turk, Arab and Mongol
 divisions defended Baghdad with great courage but were no match to
-Timur’s men who had already breached the fortifications and poured
-into the city. Timur ordered that every soldier should return with at
-least two severed human heads to show. Ibn Arab Shah declares that a few
-lakhs were slain around July 10th 1401. Timur spared the lives of
-scholars and the Ulema and presented them with green cloaks. Amongst
-these the astronomers he sent to his observatory in Samarqand where his
-son Shah Rukh and grandson Ulugh Beg, were to cause a great
-efflorescence of science in Central Asia. He demolished and burnt down
-all the buildings in Baghdad, except for the Masjids and his horsemen
-rode around to flatten the ground. With the rivers turning red with
-blood and the heaped corpses rotting in the July heat, diseases swept
-through the land in a big way forcing Timur to retreat rapidly leaving
-the whole place in utter perdition. Ironically in the midst of all this
-destruction the cowardly Yusuf and Ahmed found safety in Egypt and lived
-there till Timur’s death. Latter on while Shah Rukh and his clansmen
-were fighting over their inheritance the two quietly returned to
-Baghdad.
+Timur’s men who had already breached the fortifications and poured into
+the city. Timur ordered that every soldier should return with at least
+two severed human heads to show. Ibn Arab Shah declares that a few lakhs
+were slain around July 10th 1401. Timur spared the lives of scholars and
+the Ulema and presented them with green cloaks. Amongst these the
+astronomers he sent to his observatory in Samarqand where his son Shah
+Rukh and grandson Ulugh Beg, were to cause a great efflorescence of
+science in Central Asia. He demolished and burnt down all the buildings
+in Baghdad, except for the Masjids and his horsemen rode around to
+flatten the ground. With the rivers turning red with blood and the
+heaped corpses rotting in the July heat, diseases swept through the land
+in a big way forcing Timur to retreat rapidly leaving the whole place in
+utter perdition. Ironically in the midst of all this destruction the
+cowardly Yusuf and Ahmed found safety in Egypt and lived there till
+Timur’s death. Latter on while Shah Rukh and his clansmen were fighting
+over their inheritance the two quietly returned to Baghdad.
+

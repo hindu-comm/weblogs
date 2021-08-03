@@ -1,7 +1,11 @@
 +++
 title = "The richness of meaning"
+date = "2010-04-11"
+upstream_url = "https://manasataramgini.wordpress.com/2010/04/11/the-richness-of-meaning/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/04/11/the-richness-of-meaning/).
+
 After years of fruitless pursuit R felt that she had finally engaged
 with the sensuality of Sanskrit poetry. Foundations of this have been a
 part of our tradition since its very beginning, even though today we
@@ -49,21 +53,21 @@ to us but the whole sensory input and the layers of meanings emanating
 from the words are still clear as to us.
 
 yAtas te .adhara-khaNDanAt paribhavaH kApAlikAd amba yaH sa brahmAdiShu
-kathyatAm iti muhur vANIM guhe jalpati |  
+kathyatAm iti muhur vANIM guhe jalpati \|  
 gaurIM hasta-yugena ShaNmukha-vacho roddhuM nirIkShyAkShamAM
-vailakShyAch chaturAsya-niShphala-parAvR^ittish chiraM pAtu vaH ||
+vailakShyAch chaturAsya-niShphala-parAvR^ittish chiraM pAtu vaH \|\|
 
-yAtas= inflict;  te = your; .adhara=lower \[lip\]; khaNDanAt biting;
- paribhavaH=injury; kApAlikAd=skull-bearer (ablative singular masc.);
- amba= mother; yaH=one who; sa= he; brahmAdiShu- to brahmA and others;
+yAtas= inflict; te = your; .adhara=lower \[lip\]; khaNDanAt biting;
+paribhavaH=injury; kApAlikAd=skull-bearer (ablative singular masc.);
+amba= mother; yaH=one who; sa= he; brahmAdiShu- to brahmA and others;
 kathyatAm= let it be told; iti= so; muhur= multiply; vANIM= voice
-(acc.singular fem); guhe= in guha; jalpati=babbles  |
+(acc.singular fem); guhe= in guha; jalpati=babbles \|
 
-gaurIM-\>;( acc.singular fem.); hasta-yugena= by pair of hands;
-ShaNmukha-vacho=the speech of the six-headed one;  roddhuM=shut up;
-nirIkShyAkShamAM =having seen unable to;  ; vailakShyAch= embarrassment;
+gaurIM->;( acc.singular fem.); hasta-yugena= by pair of hands;
+ShaNmukha-vacho=the speech of the six-headed one; roddhuM=shut up;
+nirIkShyAkShamAM =having seen unable to; ; vailakShyAch= embarrassment;
 chaturAsya= four-headed one; niShphala= fruitless; parAvR^ittish=
-turning away; chiraM= for ever; pAtu= protection; vaH your ||
+turning away; chiraM= for ever; pAtu= protection; vaH your \|\|
 
 Roughly: That the skull-bearer has inflicted you injury by biting your
 lower-lip, mother, should be told to brahmA and the others, thus
@@ -97,15 +101,14 @@ be the allusion to this very event as a consequence of which kumAra is
 born and then he looks at his mother.
 
 The poet attempts to incite several sensations:  
-1\) The amorous one by a mere allusion to the dalliance of the
-deities.  
-2\) Humor arising from the inappropriate and embarrassing comments that
+1) The amorous one by a mere allusion to the dalliance of the deities.  
+2) Humor arising from the inappropriate and embarrassing comments that
 are so commonly made by children.  
-3\) Irony – kumAra wants the skull-bearer reported to brahmA, when the
+3) Irony – kumAra wants the skull-bearer reported to brahmA, when the
 very skull he bears comes from a severed head of brahmA.  
-4\) Humor via incongruity – the two hands of gaurI trying to shut the
-six mouths of kumAra.  
-5\) Pity for umA being embarrassed by her son’s awkward comment.
+4) Humor via incongruity – the two hands of gaurI trying to shut the six
+mouths of kumAra.  
+5) Pity for umA being embarrassed by her son’s awkward comment.
 
 The reader is supposed to experience an admixture of all of this.
 
@@ -113,9 +116,9 @@ Let us consider a few more master pieces.
 bANa’s praise of the missile of rudra that destroyed the three pura-s
 from amaru’s:  
 kShipto hastAvalagnaH prasabham abhihato .apy AdadAno .aMshukAntaM
-gR^ihNan kesheShv apAstash charaNa-nipatito nekShitaH saMbhrameNa |  
+gR^ihNan kesheShv apAstash charaNa-nipatito nekShitaH saMbhrameNa \|  
 Ali\~Ngan yo .avadhUtas tripura-yuvatibhiH sAshru-netrotpalAbhiH
-kAmIvArdrAparAdhaH sa dahatu duritaM shAmbhavo vaH sharAgniH || 
+kAmIvArdrAparAdhaH sa dahatu duritaM shAmbhavo vaH sharAgniH \|\|
 
 kShipto=cast off; hastA= hands; avalagnaH= adhering to;
 prasabham=forcibly; abhihato= pushed away; .apy= moreover ; AdadAno=
@@ -139,16 +142,16 @@ lotus eyes laden with tears, did the fire from shaMbhu’s missile embrace
 them; may he burn your sins.
 
 Here we sense the following:  
-1\) By the repeated use of the phrases describing how the fire continues
+1) By the repeated use of the phrases describing how the fire continues
 to fall upon the tripura maids despite their attempts to escape from it
 the poet captures a feeling of terror, urgency and inescapability of the
 holocaust that has come upon the tripura-s struck by the missile of
 rudra – in essence a tragic trope though it visits the malignant enemies
 of the gods.  
-2\) At the same time by comparing the fire to a lover persistently
+2) At the same time by comparing the fire to a lover persistently
 engaging the beautiful asuri-s the poet mixes in an amorous trope into
 horror of their inevitable destruction.  
-3\) After raising the reader to a peak of the subtle mixture of the
+3) After raising the reader to a peak of the subtle mixture of the
 tragic and the erotic the poet brings him down to a more level plane by
 stating that this terrifying fire that is seized tripura-s is also his
 protection against sins. He also does the same via a contrast in the
@@ -158,15 +161,15 @@ remarkable effect of awe towards the great rudra, the destroyer as well
 as the bringer of healing. This motif goes back to the old R^ik-s to
 rudra from the RV. For the tripurAntaka motif in the RV one may turn to
 the mantra composed by bharadvAja bArhaspatya (6.16.39):  
-ya ugra iva sharyahA tigma-shR^i\~Ngo na vaMsagaH | agne puro rurojitha
-||  
+ya ugra iva sharyahA tigma-shR^i\~Ngo na vaMsagaH \| agne puro rurojitha
+\|\|  
 ugra who like the archer, sharp-horned like the bull, agni destroys the
 citadels.
 
 chaTach-chaT iti charmaNi chCham iti chochChala-chChoNite dhagad-dhag
-iti medasi sphuTataro .asthiShu ShThAd iti |  
+iti medasi sphuTataro .asthiShu ShThAd iti \|  
 punAtu bhavato harer amara-vairi-nAthorasi
-kvaNatkaraja-pa\~njara-krakacha-kASha-janmAnalaH ||
+kvaNatkaraja-pa\~njara-krakacha-kASha-janmAnalaH \|\|
 
 chaTach-chaT iti charmaNi= ripping into the skin; chCham iti
 chochChala-chChoNite=splashing into the splattering blood; dhagad-dhag
@@ -192,3 +195,4 @@ saMskR^ita by the force of its alliteration. Those conversant with the
 secrets of the mantra lore would recognized that vAkpati is setting in
 elegant verse same alliterative elements of the mantra known as the
 nR^ikesari mAlA.
+

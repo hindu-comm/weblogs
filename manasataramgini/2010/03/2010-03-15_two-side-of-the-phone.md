@@ -1,7 +1,11 @@
 +++
 title = "Two sides of the phone"
+date = "2010-03-15"
+upstream_url = "https://manasataramgini.wordpress.com/2010/03/15/two-side-of-the-phone/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/03/15/two-side-of-the-phone/).
+
 ST was describing her readings of a chIna authoress (I totally forgot
 her name) writing in English and how they touched a “nerve” in her even
 though the author is from an alien cultural setting. The points which ST
@@ -56,3 +60,4 @@ feel we might have been through before. This is often induced by novel
 auditory cues and sometime by a more complex set of simultaneous
 environmental stimuli – visual, tactile and auditory flowing through the
 different j\~nAnendriya-s.
+

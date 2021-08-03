@@ -1,7 +1,11 @@
 +++
 title = "The drinking of poison"
+date = "2004-12-23"
+upstream_url = "https://manasataramgini.wordpress.com/2004/12/23/the-drinking-of-poison/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/12/23/the-drinking-of-poison/).
+
 While the bhAgavataM is considered a vaiShNava text, it contains an
 highly magnified stotra to rudra. The stotra contains yet another
 example of the classical macrantropic motif that is so pervasive in
@@ -67,7 +71,7 @@ nAbhir nabhas te shvasanaM nabhasvAn sUryash cha chakShUMShi jalaM sma
 retaH/  
 parAvarAtmAshrayaNaM tavAtmA somo mano dyaur bhagavan shiras te//
 
-The clouds are your navel, the atmosphere your breathing, the sun your
+The coulds are your navel, the atmosphere your breathing, the sun your
 eyes and the \[celestial\] waters; verily your semen. Your self is the
 shelter of all beings, primary and secondary, the moon your mind and the
 heavens your head.
@@ -148,3 +152,4 @@ mRiDanAya hi lokasya vyaktis te .avyakta-karmaNaH//
 The primal state of yours that is beyond all this, oh great god, we
 cannot see. For the mercy of the world you have manifested, you whose
 \[all\] activities cannot be perceived by anyone.
+

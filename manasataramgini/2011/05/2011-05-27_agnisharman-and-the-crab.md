@@ -1,7 +1,11 @@
 +++
 title = "agnisharman and the crab"
+date = "2011-05-27"
+upstream_url = "https://manasataramgini.wordpress.com/2011/05/27/agnisharman-and-the-crab/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/05/27/agnisharman-and-the-crab/).
+
 agnisharman was on a pilgrimage to the temple of revanta in the magadha
 country. He entered a forest full of refreshing foliage and then reached
 a pleasant lake in the middle of it. There he took a bath and having
@@ -22,3 +26,4 @@ violently, the male crow asked the snake to desist and slide back. The
 brAhmaNa woke and realized that the crab had save his life. So he
 delivered the crab in a large lake with good water and proceeded on his
 pilgrimage.
+

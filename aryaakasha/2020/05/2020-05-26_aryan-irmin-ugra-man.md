@@ -1,8 +1,11 @@
 +++
-title = "ARYAN – IRMIN – UGRA MANxa0?"
-date = "May 26, 2020"
+title = "ARYAN – IRMIN – UGRA MAN ?"
+date = "2020-05-26"
+upstream_url = "https://aryaakasha.com/2020/05/26/aryan-irmin-ugra-man/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/05/26/aryan-irmin-ugra-man/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/05/imageproxy.jpg?w=1024)
 
 It often seems that everybody knows, and is correspondingly keen to

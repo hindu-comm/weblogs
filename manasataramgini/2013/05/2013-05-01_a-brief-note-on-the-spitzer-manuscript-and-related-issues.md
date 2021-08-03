@@ -1,7 +1,11 @@
 +++
 title = "A brief note on the Spitzer manuscript and related issues"
+date = "2013-05-01"
+upstream_url = "https://manasataramgini.wordpress.com/2013/05/01/a-brief-note-on-the-spitzer-manuscript-and-related-issues/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/05/01/a-brief-note-on-the-spitzer-manuscript-and-related-issues/).
+
 In his famed kAvya the buddhacharita, ashvagoSha states that when the
 tathAgata was about to renounce the world he had an
 “akShaya-dharma-jAta-rAgaH”, i.e., a “passion” of the indestructible
@@ -30,7 +34,7 @@ sanAtana-dharma as being an integral bauddha innovation that has later
 been adopted by the Astika-s. For example, several have called
 ashvaghoSha as the originator of “real” kAvya literature. Some (e.g.
 Winternitz) have gone even as far as to claim that ashvaghoSha was the
-original exponent of kAvya and even vAlmIki borrowed from him\! We also
+original exponent of kAvya and even vAlmIki borrowed from him! We also
 heard a claim that ashvaghoSha preceded the mahAbhArata as we know it.
 Of course there is much to suggest that none of these claims are
 consistent with the available facts. First, there is ample evidence from
@@ -200,3 +204,4 @@ traditions by the same army of Islam (the buddha-busters) brought a
 closure to the transmission of traditions to those regions. This points
 the importance of the need to spread the indosphere so that the
 traditions might survive even if bhArata falls.
+

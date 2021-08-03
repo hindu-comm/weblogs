@@ -1,7 +1,11 @@
 +++
 title = "Lama tAranAtha’s account of the nAstika virUpA the younger"
+date = "2009-11-03"
+upstream_url = "https://manasataramgini.wordpress.com/2009/11/03/lama-taranatha%e2%80%99s-account-of-the-nastika-virupa-the-younger/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/11/03/lama-taranatha%e2%80%99s-account-of-the-nastika-virupa-the-younger/).
+
 In the kaccha country in the west lived a king named vibharaTTa during
 whose reign lived the siddha virUpA. He had a daughter who became the
 queen of devapAla. vibharaTTa had a temple that enshrined both bauddha
@@ -19,3 +23,4 @@ of the deities. The deities of the bauddha-s got up and walked into the
 shrine laughing aloud. The deities of the tIrthika-s remained seated
 outside with their heads hung low. This temple named amR^itakumbha still
 exists.
+

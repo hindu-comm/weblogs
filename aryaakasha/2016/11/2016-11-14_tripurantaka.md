@@ -1,8 +1,11 @@
 +++
 title = "Tripurantaka"
-date = "November 14, 2016"
+date = "2016-11-14"
+upstream_url = "https://aryaakasha.com/2016/11/14/tripurantaka/"
 
 +++
+Source: [here](https://aryaakasha.com/2016/11/14/tripurantaka/).
+
 ![album_cover_with_shiva_as_the_destroyer_of_the_three_cities_of_the_demons_tripurantaka_lacma_m-2003-213_7\_of_9](https://aryaakasha.files.wordpress.com/2016/11/album_cover_with_shiva_as_the_destroyer_of_the_three_cities_of_the_demons_tripurantaka_lacma_m-2003-213_7_of_9.jpg?w=676)  
 Today is Kartik Poornima, a religious observance marking Lord Shiva’s
 mighty deed as Tripurantaka (“Destroyer of the Three Cities”), which

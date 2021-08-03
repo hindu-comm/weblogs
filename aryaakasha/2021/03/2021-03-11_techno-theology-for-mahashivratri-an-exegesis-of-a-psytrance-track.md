@@ -1,8 +1,11 @@
 +++
-title = "Techno-Theology For MahaShivRatri – An Exegesis Of A Psytrancexa0Track"
-date = "March 11, 2021"
+title = "Techno-Theology For MahaShivRatri – An Exegesis Of A Psytrance Track"
+date = "2021-03-11"
+upstream_url = "https://aryaakasha.com/2021/03/11/techno-theology-for-mahashivratri-an-exegesis-of-a-psytrance-track/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/03/11/techno-theology-for-mahashivratri-an-exegesis-of-a-psytrance-track/).
+
 
 
 # An error occurred.

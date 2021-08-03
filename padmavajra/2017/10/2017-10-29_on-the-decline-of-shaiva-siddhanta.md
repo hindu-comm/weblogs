@@ -1,8 +1,11 @@
 +++
-title = "On the decline of Shaivaxa0Siddhanta"
+title = "On the decline of Shaiva Siddhanta"
 date = "2017-10-29"
+upstream_url = "https://padmavajra.net/2017/10/29/on-the-decline-of-shaiva-siddhanta/"
 
 +++
+Source: [here](https://padmavajra.net/2017/10/29/on-the-decline-of-shaiva-siddhanta/).
+
 There are three main aspects of the decline of Śaiva siddhānta tāntrika
 systems and confining it to mainly the Tamil lands
 

@@ -1,7 +1,11 @@
 +++
 title = "Indo-Iranica: epic ruminations"
+date = "2019-09-29"
+upstream_url = "https://manasataramgini.wordpress.com/2019/09/29/indo-iranica-epic-ruminations/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2019/09/29/indo-iranica-epic-ruminations/).
+
 PDF version of
 [article](https://manasataramgini.files.wordpress.com/2019/09/rostam_-bhishma-2.pdf)
 
@@ -13,31 +17,31 @@ up these correspondences even as we expanded our studies on our
 ancestral Indo-European (IE) traditions. Several notable points have
 also been uncovered in the work by occidental Indo-Europeanists such as
 Dumezil, Watkins, and Puhvel. Yet our view of this is somewhat distinct
-— given that we are insiders of one of the last surviving
-Indo-European traditions, for us it is a reflection on our living
-tradition. We have recently learnt a lot about the history of the early
-Indo-Europeans due to archaeogenetics; this allows us to place certain
-things in a more correct historical framework. Hence, we thought it
-worthwhile to put down a few words on this matter. In particular, we
-felt that such an exposition might be of use to the Hindu students of
-their ancestral tradition — a kind of exploration of and introspection
-on tradition that is unfortunately rather uncommon among our people.
-Indeed, we would go as far as to state plainly that no amount of
-traditional mastery can substitute for the insights that comparative IE
-studies can provide for our tradition. Hence, ignoring it necessarily
-means an incomplete understanding of tradition. Accordingly, we present
-here a few comparative points on the IE epic traditions. Among the
-motifs we uncovered was the Garuḍa motif which is common to the Iranian
-Rostam and the Ikṣvāku heroes Rāma and Lakṣmaṇa on our side. We also
-noticed the motifs shared by the great pitāmahā Bhīṣma of the Hindu
-national epic and Rostam the hero of the Iranian national epic. In the
-late 1990s we learnt of the Iranicist Skjaervo’s work in this direction
-and found that several points coincided with our investigations.
-Nevertheless, we feel it might be useful to put down some of our
-thoughts in this this regard against the larger background of the I-Ir
-epic tradition. However, right at the outset, we should mention that
-this account is by no means aiming to be a comprehensive presentation of
-our thoughts on the matter and merely scratches the surface.
+— given that we are insiders of one of the last surviving Indo-European
+traditions, for us it is a reflection on our living tradition. We have
+recently learnt a lot about the history of the early Indo-Europeans due
+to archaeogenetics; this allows us to place certain things in a more
+correct historical framework. Hence, we thought it worthwhile to put
+down a few words on this matter. In particular, we felt that such an
+exposition might be of use to the Hindu students of their ancestral
+tradition — a kind of exploration of and introspection on tradition that
+is unfortunately rather uncommon among our people. Indeed, we would go
+as far as to state plainly that no amount of traditional mastery can
+substitute for the insights that comparative IE studies can provide for
+our tradition. Hence, ignoring it necessarily means an incomplete
+understanding of tradition. Accordingly, we present here a few
+comparative points on the IE epic traditions. Among the motifs we
+uncovered was the Garuḍa motif which is common to the Iranian Rostam and
+the Ikṣvāku heroes Rāma and Lakṣmaṇa on our side. We also noticed the
+motifs shared by the great pitāmahā Bhīṣma of the Hindu national epic
+and Rostam the hero of the Iranian national epic. In the late 1990s we
+learnt of the Iranicist Skjaervo’s work in this direction and found that
+several points coincided with our investigations. Nevertheless, we feel
+it might be useful to put down some of our thoughts in this this regard
+against the larger background of the I-Ir epic tradition. However, right
+at the outset, we should mention that this account is by no means aiming
+to be a comprehensive presentation of our thoughts on the matter and
+merely scratches the surface.
 
 **The Hindu epic traditions**  
 The Hindu itihāsa tradition, which is a continuation of the ancient IE
@@ -94,9 +98,9 @@ Starting with Shora Begmurzin Nogma down to Colarusso’s good compendium
 the surviving material of these peoples has been collated and
 translated. 2) The Iranian stream which has come down to us in the form
 the Šah-nāme, the Garšasp-nāme, the Farāmarz-nāme and the Bānu
-Gošasb-nāme among several others. Of these the Šah-nāme appears to
-have been the model on which the other works were written. Importantly,
-these are very late works coming from a time well after the Mohammedan
+Gošasb-nāme among several others. Of these the Šah-nāme appears to have
+been the model on which the other works were written. Importantly, these
+are very late works coming from a time well after the Mohammedan
 destruction of the Iranic religions. However, they appear to contain
 material from a much earlier Sassanian collation of the epic material in
 middle Persian the Khwadāy-nāmag. Of them, the Šah-nāme is well edited
@@ -220,15 +224,14 @@ Iranian traditions**
 Reading the Šah-nāme one will be left with little doubt that Rostam was
 the greatest Iranian hero and that his clan consistently produced a
 whole line of such heroes (and heroines). This is quite like the
-Pāṇḍava-s in the Hindu national epic. Yet there is something
-striking about this family: except for its legendary founder it finds no
-mention at all in the Avesta, despite that text mentioning several
-Iranian heroes and ritualists who in the Šah-nāme are associated with
-the clan of Rostam. This strange situation closely parallels the
-conundrum we encounter in Hindu tradition where, the Veda mentions
-several Kuru-s, Pāñcāla-s and Kṛṣṇa Devakīputra, who appear in the
-Mahābhārata but almost completely fails to mention its main heroes, the
-Pāṇḍava-s.
+Pāṇḍava-s in the Hindu national epic. Yet there is something striking
+about this family: except for its legendary founder it finds no mention
+at all in the Avesta, despite that text mentioning several Iranian
+heroes and ritualists who in the Šah-nāme are associated with the clan
+of Rostam. This strange situation closely parallels the conundrum we
+encounter in Hindu tradition where, the Veda mentions several Kuru-s,
+Pāñcāla-s and Kṛṣṇa Devakīputra, who appear in the Mahābhārata but
+almost completely fails to mention its main heroes, the Pāṇḍava-s.
 
 Turning to the Avesta we see the following hero/ritualist figures who
 also figure in the Šah-nāme under their New Persian names given in a
@@ -247,10 +250,10 @@ some form with the Hindus and mostly appear right from the RV onward: 1)
 Gaya Amartya. 2) Yama Vaivasvata Kṣatriya. 3) Ahi Dāsa. 4) Trita Āptya
 who, in the battles with the demons, assists Indra who wields the vajra.
 5) Kṛśāśva, the “father” of the weapons. 6) Uśanas Kāvya. 7) Perhaps
-Iṣṭāśva. Some of these are gods while other are demons and yet
-others legendary men. These features along with their early appearance
-in both Indian and Iranian tradition suggests that they belong to the
-common Indo-Iranian past on the steppes.
+Iṣṭāśva. Some of these are gods while other are demons and yet others
+legendary men. These features along with their early appearance in both
+Indian and Iranian tradition suggests that they belong to the common
+Indo-Iranian past on the steppes.
 
 What is notable is that neither this early Iranian nor the Hindu
 tradition remembers Rostam or most of his clan with the exception of
@@ -258,15 +261,15 @@ Keresāspa, who is regarded as its founder in the Šah-nāme. In the early
 Iranian tradition of the Avesta he is remembered as an enormously strong
 man with his great gadā. He has a nearly semi-divine status (much like
 in Viśvāmitra’s mention of him in the Rāmāyaṇa) and his fravashi (
-![\\sim](https://s0.wp.com/latex.php?latex=%5Csim&bg=ffffff&fg=333333&s=0
-"\\sim") pitṛ) is called upon by the Zoroastrians to protect them from
-rapacious attackers or thieves. He also slays a dreaded Ganderewa (Skt:
-Gandharva) who attacks the “good principle” in the world and several
-other adversaries. Notably, he is given the epithet naire-manah, i.e. of
-manly mind. This epithet becomes the name of his son Nariman in the
-Šah-nāme. In the surviving Pahlavi exegesis and the Dēnkard, he is
-termed Sāmān Kersāsp. Now, the epithet Sāmān is the name of his grandson
-as per Šah-nāme. Thus, it appears that the epithets of the ancient hero
+![\\sim](https://s0.wp.com/latex.php?latex=%5Csim&bg=ffffff&fg=333333&s=0&c=20201002)
+pitṛ) is called upon by the Zoroastrians to protect them from rapacious
+attackers or thieves. He also slays a dreaded Ganderewa (Skt: Gandharva)
+who attacks the “good principle” in the world and several other
+adversaries. Notably, he is given the epithet naire-manah, i.e. of manly
+mind. This epithet becomes the name of his son Nariman in the Šah-nāme.
+In the surviving Pahlavi exegesis and the Dēnkard, he is termed Sāmān
+Kersāsp. Now, the epithet Sāmān is the name of his grandson as per
+Šah-nāme. Thus, it appears that the epithets of the ancient hero
 Keresāspa were used as names to provide a genealogy that connects Rostam
 to Keresāspa. Despite his heroic stature, he is also mentioned as
 sinning: as per the Pahlavi exegesis he worshiped images like the
@@ -285,45 +288,44 @@ his brother Zavāra are left out.
 From Zāl onward we see considerable detail in the accounts of the
 heroes/heroines of the clan. However, many of these details are ancient
 mythic motifs. These include:  
-![\\bullet](https://s0.wp.com/latex.php?latex=%5Cbullet&bg=ffffff&fg=333333&s=0
-"\\bullet") The romance of Zāl and Rūdāba. This encompasses classic
-motifs of the hero winning a beautiful wife from the enemy side found in
-many traditions. Specifically, it connects Zāl the Airya hero to Rūdāba
-who has Azi Dahāka as her ancestor, thereby bringing in the demonic
-element in the ancestry of the mighty hero Rostam. Her Hindu affinities
-are hinted by her father bearing the name Mahārāja in an Iranic
+![\\bullet](https://s0.wp.com/latex.php?latex=%5Cbullet&bg=ffffff&fg=333333&s=0&c=20201002)
+The romance of Zāl and Rūdāba. This encompasses classic motifs of the
+hero winning a beautiful wife from the enemy side found in many
+traditions. Specifically, it connects Zāl the Airya hero to Rūdāba who
+has Azi Dahāka as her ancestor, thereby bringing in the demonic element
+in the ancestry of the mighty hero Rostam. Her Hindu affinities are
+hinted by her father bearing the name Mahārāja in an Iranic
 transmutation. From an Iranian stand point the daeva-worshiper would be
 affiliated with the entities like Azi Dahāka. Such pairings between the
-“daiva” and the “dāsa” or “dānava” figures are seen across the IE
-world.
+“daiva” and the “dāsa” or “dānava” figures are seen across the IE world.
 
-![\\bullet](https://s0.wp.com/latex.php?latex=%5Cbullet&bg=ffffff&fg=333333&s=0
-"\\bullet") Zāl was born albino (c.f. Pāṇḍu) and was nursed by the
-Garuḍa-like divine bird meregha Saēna (=Skt śyena; SN: Simorgh), who
-gave him 3 of his feathers asking him to burn them whenever he needed
-the bird’s assistance. Rūdāba was about to die while giving birth to
-Rostam due his gigantic size. It was then that Zāl called for Simorgh
-who taught him the cesarean procedure to save his wife and son: The bird
-first asked Zāl to anesthetize his wife by giving her wine. Then it
-asked him to perform the cesarean section and take out Rostam.
-Post-surgery it revealed the herbs to heal her wound and the final
-healing was achieved by the stroking of Rūdāba with the feathers of
-Simorgh (see below). This Simorgh is mentioned as bearing the medicines
-on his tree in the incantation to the god Rashnu:  
+![\\bullet](https://s0.wp.com/latex.php?latex=%5Cbullet&bg=ffffff&fg=333333&s=0&c=20201002)
+Zāl was born albino (c.f. Pāṇḍu) and was nursed by the Garuḍa-like
+divine bird meregha Saēna (=Skt śyena; SN: Simorgh), who gave him 3 of
+his feathers asking him to burn them whenever he needed the bird’s
+assistance. Rūdāba was about to die while giving birth to Rostam due his
+gigantic size. It was then that Zāl called for Simorgh who taught him
+the cesarean procedure to save his wife and son: The bird first asked
+Zāl to anesthetize his wife by giving her wine. Then it asked him to
+perform the cesarean section and take out Rostam. Post-surgery it
+revealed the herbs to heal her wound and the final healing was achieved
+by the stroking of Rūdāba with the feathers of Simorgh (see below). This
+Simorgh is mentioned as bearing the medicines on his tree in the
+incantation to the god Rashnu:  
 ýatcit ahi rashnvô ashâum upa avãm vanãm ýãm saênahe ýâ hishtaite
 maidhîm zrayanghô vourukashahe ýâ hubish eredhwô-bish ýâ vaoce
 vîspô-bish nãma ýãm upairi urvaranãm vîspanãm taoxma nidhayat  
-Whether you, O holy Rashnu\! are on the tree of the eagle, that stands
-in the middle of the sea Vouru-Kasha, that is called the tree of good
+Whether you, O holy Rashnu! are on the tree of the eagle, that stands in
+the middle of the sea Vouru-Kasha, that is called the tree of good
 remedies, the tree of powerful remedies, the tree of all remedies, and
 on which rest the seeds of all plants; we invoke (Yašt to Rashnu-17).
 
 This is consistent with the bird’s role as the teacher of the medical
 procedure to his protege Zāl and matches that of his cognate Garuḍa
-Tārkṣya Ariṣṭanemi who possesses cures. In the Rāmāyaṇa, he cures
-Rāma and Lakṣmaṇa when they were paralyzed by Meghanāda’s poison
-missile (see below) and Hindu tradition remembers the bird deity as the
-teacher of the medicine deity Dhanvantari:  
+Tārkṣya Ariṣṭanemi who possesses cures. In the Rāmāyaṇa, he cures Rāma
+and Lakṣmaṇa when they were paralyzed by Meghanāda’s poison missile (see
+below) and Hindu tradition remembers the bird deity as the teacher of
+the medicine deity Dhanvantari:  
 nārāyaṇāṃśo bhagavān svayaṃ dhanvantari mahān ।  
 purā samudra-mathane samuttasthau mahodadheḥ॥  
 sarva-vedeṣu niṣṇāto mantra-tantra-viśāradaḥ ।  
@@ -333,28 +335,28 @@ during the churning of the ocean. Learned in all the Veda-s and an adept
 in mantra-s and tantra-s he is the student of Vainateya and an adjunct
 student of Śankara.
 
-![\\bullet](https://s0.wp.com/latex.php?latex=%5Cbullet&bg=ffffff&fg=333333&s=0
-"\\bullet") The conflict of Sohrab and Rostam. This famous episode is
-replete with various motifs shared with the Mahābhārata. Rostam going to
-the foreign land to acquire a woman (Tahmina) is reminiscent of Arjuna
-going to the distant land to acquire Citrāṅgadā and Ulūpī. Tahmina
-approaching Rostam by herself for a son is again parallel to the
-approach of these Mahābhārata characters, especially Ulūpī. The
-consequence of their intercourse is a son who does not recognize the
-father but possesses similar martial ardor. They finally fight in an
-encounter that results in the death of one of them. In the case Rostam
-the son, Sohrab, is slain while Babhruvāhana slew Arjuna. In both cases
-there is the possibility of revival with a magical panacea. In the case
-of Arjuna that is obtained but Rostam fails to obtain it for Sohrab.
-Finally, one could also point out that the setting of the death of
-Sohrab at Rostam’s hand is in a great war and parallels the killing of
-Karṇa by Arjuna. In this regard, it may be observed that Rostam gives
-Tahmina an ornament to tie on their child before leaving her. This might
-be compared to the ornaments which Karṇa obtained at birth from Sūrya.
-In the case of Rostam, a similar incident again plays out with his other
-son Farāmarz and his Amazonian warrior daughter Bānu Gošasb who fight
-Rostam and his brother Zavāra. However, in this case they recognize each
-other before anyone is killed.
+![\\bullet](https://s0.wp.com/latex.php?latex=%5Cbullet&bg=ffffff&fg=333333&s=0&c=20201002)
+The conflict of Sohrab and Rostam. This famous episode is replete with
+various motifs shared with the Mahābhārata. Rostam going to the foreign
+land to acquire a woman (Tahmina) is reminiscent of Arjuna going to the
+distant land to acquire Citrāṅgadā and Ulūpī. Tahmina approaching Rostam
+by herself for a son is again parallel to the approach of these
+Mahābhārata characters, especially Ulūpī. The consequence of their
+intercourse is a son who does not recognize the father but possesses
+similar martial ardor. They finally fight in an encounter that results
+in the death of one of them. In the case Rostam the son, Sohrab, is
+slain while Babhruvāhana slew Arjuna. In both cases there is the
+possibility of revival with a magical panacea. In the case of Arjuna
+that is obtained but Rostam fails to obtain it for Sohrab. Finally, one
+could also point out that the setting of the death of Sohrab at Rostam’s
+hand is in a great war and parallels the killing of Karṇa by Arjuna. In
+this regard, it may be observed that Rostam gives Tahmina an ornament to
+tie on their child before leaving her. This might be compared to the
+ornaments which Karṇa obtained at birth from Sūrya. In the case of
+Rostam, a similar incident again plays out with his other son Farāmarz
+and his Amazonian warrior daughter Bānu Gošasb who fight Rostam and his
+brother Zavāra. However, in this case they recognize each other before
+anyone is killed.
 
 These are just a few examples of some ancient motifs being woven into
 the history of the clan of Rostam. The most striking part is that they
@@ -416,8 +418,8 @@ IE mold who are basically unconquerable. Neither of them could be killed
 in a straight battle and certain tricks had to be used to finally kill
 them (see below). Both are also very long-lived: Rostam’s life
 encompasses the reigns of nearly all the Kavi-s. Similarly, the
-pitāmahā’s life spans the entire period from Śaṃtanu all the way to
-the time after Yudhiṣṭhira becomes king. Most interestingly, the name of
+pitāmahā’s life spans the entire period from Śaṃtanu all the way to the
+time after Yudhiṣṭhira becomes king. Most interestingly, the name of
 Rostam’s mother Rūdāba means river water. Rostam’s own name in the old
 Iranian would have been \*Rautas-takhma: river-strong. This is a rather
 strong homology to Bhīṣma who is the son of the goddess of the river
@@ -431,16 +433,16 @@ favor Kavi Haosrava on the throne as opposed to the legitimate heir
 Faribarz.
 
 Then there is their death: both had to be killed by a stratagem: In
-Bhīṣma’s case it involved the use of Śikaṇḍin as the front with
-Arjuna striking from behind. In the case of Rostam, the king of Kabul
-used his jealous half-brother Shaghād borne of a slave woman to Zāl to
-lead the former to his death. Zāl had sent Shaghād to live with his
-tributary the king of Kabul because his ritualists had foretold that he
-would bring destruction to his house. They hatched a plan to kill Rostam
-by feigning a fight in course of which he had also insulted Rostam. Then
-Shaghād went over to Rostam and asked him to attack the king of Kabul.
-When Rostam and his full brother Zavāra arrived to attack Kabul, the
-king claimed that he had accidentally misbehaved under the influence of
+Bhīṣma’s case it involved the use of Śikaṇḍin as the front with Arjuna
+striking from behind. In the case of Rostam, the king of Kabul used his
+jealous half-brother Shaghād borne of a slave woman to Zāl to lead the
+former to his death. Zāl had sent Shaghād to live with his tributary the
+king of Kabul because his ritualists had foretold that he would bring
+destruction to his house. They hatched a plan to kill Rostam by feigning
+a fight in course of which he had also insulted Rostam. Then Shaghād
+went over to Rostam and asked him to attack the king of Kabul. When
+Rostam and his full brother Zavāra arrived to attack Kabul, the king
+claimed that he had accidentally misbehaved under the influence of
 alcohol. The king then agreed for peace and asked Rostam and Zavāra to
 join him in a hunt. In course of that Shaghād led Rostam to a trap which
 they had set up — a pit full of spears. Rostam and his long-lived horse
@@ -450,8 +452,8 @@ Shaghād by saying that his end was at hand. Then he asked Shaghād to
 correct his ways and lead a proper life with Rostam’s powerful son
 Farāmarz. Thus, appearing to let him go, Rostam asked for his bow and
 two arrows in case a wild animal came to eat him as he lay dying.
-Shaghād gave them to him but still fearing him ran away and hid behind
-a tree. Rostam though dying from being pierced all over shot an arrow to
+Shaghād gave them to him but still fearing him ran away and hid behind a
+tree. Rostam though dying from being pierced all over shot an arrow to
 transfix Shaghād to the tree; then he died. In the mean time his brother
 Zavāra had also also fallen in another spear-filled pit and died.
 Thereafter, Rostam’s son Farāmarz filled with wrath did an “Aśvatthāman”
@@ -522,12 +524,12 @@ Zavāra survived the pit-trap and was also killed in this attack of
 Bahman). He also caged Zāl and devastated their realm.
 
 This narrative is replete with several notable motifs:  
-![\\bullet](https://s0.wp.com/latex.php?latex=%5Cbullet&bg=ffffff&fg=333333&s=0
-"\\bullet") We see ancient IE motif of the “Achilles heel” in the form
-of Esfandiyār’s eyes. More specifically, the vulnerability of Esfandiyār
-is similar to that of the Germanic god Baldr, who is killed by Loki’s
-plot by making the blind deity Höðr throw a spear or shoot an arrow made
-of mistletoe (to which he was vulnerable) at him. There is an apparent
+![\\bullet](https://s0.wp.com/latex.php?latex=%5Cbullet&bg=ffffff&fg=333333&s=0&c=20201002)
+We see ancient IE motif of the “Achilles heel” in the form of
+Esfandiyār’s eyes. More specifically, the vulnerability of Esfandiyār is
+similar to that of the Germanic god Baldr, who is killed by Loki’s plot
+by making the blind deity Höðr throw a spear or shoot an arrow made of
+mistletoe (to which he was vulnerable) at him. There is an apparent
 record of this motif among the Algonquin first Americans in the tale of
 their deity Glooskap and his rival Malsum (claimed by some to also bear
 the name Lox). Here Glooskap and Malsum had vulnerabilities to certain
@@ -537,20 +539,20 @@ transmitted to the Northern Germanics during their contact with the New
 World, its presence among the Iranics suggests to a more ancient origin
 (Assuming the tale collected by Leland from the Algonquin is genuine).
 
-![\\bullet](https://s0.wp.com/latex.php?latex=%5Cbullet&bg=ffffff&fg=333333&s=0
-"\\bullet") The journey to a distant land to obtain the tamarisk tree
-missile can be compared in the Hindu epic to Arjuna and Kṛṣṇa going to
-the abode of Rudra to obtain the Pāśupata missile by means of which
-alone Jayadratha could be killed. The curse protecting Jayadratha from
-Vṛddhakṣatra can again be compared to that protecting Esfandiyār,
-which was likewise deflected on to his father Vīštāspa.
+![\\bullet](https://s0.wp.com/latex.php?latex=%5Cbullet&bg=ffffff&fg=333333&s=0&c=20201002)
+The journey to a distant land to obtain the tamarisk tree missile can be
+compared in the Hindu epic to Arjuna and Kṛṣṇa going to the abode of
+Rudra to obtain the Pāśupata missile by means of which alone Jayadratha
+could be killed. The curse protecting Jayadratha from Vṛddhakṣatra can
+again be compared to that protecting Esfandiyār, which was likewise
+deflected on to his father Vīštāspa.
 
-![\\bullet](https://s0.wp.com/latex.php?latex=%5Cbullet&bg=ffffff&fg=333333&s=0
-"\\bullet") The feather motif: Zāl’s special connection to the great
-bird the Simorgh comes to aid Rostam on at least two occasions — once
-during his birth (see above) and again in this incident of his battle
-with Esfandiyār. Now the use of the feather is a clear connection with
-an ancient Indo-Iranian apotropaic ritual. On the Hindu side it is
+![\\bullet](https://s0.wp.com/latex.php?latex=%5Cbullet&bg=ffffff&fg=333333&s=0&c=20201002)
+The feather motif: Zāl’s special connection to the great bird the
+Simorgh comes to aid Rostam on at least two occasions — once during his
+birth (see above) and again in this incident of his battle with
+Esfandiyār. Now the use of the feather is a clear connection with an
+ancient Indo-Iranian apotropaic ritual. On the Hindu side it is
 specified in the Yajurveda as part of the famous Sautrāmaṇi ritual in
 which the yajamāna is purified by the adhvaryu who strokes him with a
 śyena (hawk or falcon) feather twice above the navel and once below
@@ -574,30 +576,30 @@ We offer sacrifice to Verethraghna, made by Ahura.
 peresat zarathushtrô ahurem mazdãm:  
 ahura mazda mainyô spênishta dâtare gaêthanãm  
 astvaitinãm ashâum ýat bavâni aiwi-sastô aiwi-shmaretô  
-pouru-narãm tbishyañtãm cish ainghe asti baêshazô.   
+pouru-narãm tbishyañtãm cish ainghe asti baêshazô.  
 Zarathuštra asked Ahura Mazda:  
 “O Ahura Mazda, most beneficent mind, creator of the material world,  
-you O holy one\! If I have a curse upon me, a spell cast upon me  
+you O holy one! If I have a curse upon me, a spell cast upon me  
 by the many men who hate me, what is the medicine for it?”
 
 âat mraot ahurô mazdå: merekhahe peshô-parenahe vâreñjinahe parenem
 ayasaêsha spitama zarathushtra, ana parena tanûm aiwi-sifôish ana parena
 hamerethem paiti-sanghaêsha.  
 Ahura Mazda answered: “Take a feather of that bird with a wide wingspan,
-the Varenjina bird, O Spitama Zarathuštra\! With that feather you should
+the Varenjina bird, O Spitama Zarathuštra! With that feather you should
 stroke your own body; with that feather you should back-hurl the spell
 to the enemies.”
 
-![\\bullet](https://s0.wp.com/latex.php?latex=%5Cbullet&bg=ffffff&fg=333333&s=0
-"\\bullet") Finally, we have specific point regarding the eagle-feather
-motif: the eagle helps Rostam in specie against the wounds of a
-difficult to repulse missile and does so by removing the arrow-heads and
-the stroking him with its feathers. This motif occurs in a rather
-similar form in the Rāmāyaṇa. There, the fierce rakṣas hero Meghanāda
-strikes the Ikṣvāku brothers with his nāga arrows. Riddled with
-Meghanāda’s arrows the two fall unconscious on the field. They were
-then healed by Garuḍa by stroking them with his wings and their power is
-doubled as a consequence:
+![\\bullet](https://s0.wp.com/latex.php?latex=%5Cbullet&bg=ffffff&fg=333333&s=0&c=20201002)
+Finally, we have specific point regarding the eagle-feather motif: the
+eagle helps Rostam in specie against the wounds of a difficult to
+repulse missile and does so by removing the arrow-heads and the stroking
+him with its feathers. This motif occurs in a rather similar form in the
+Rāmāyaṇa. There, the fierce rakṣas hero Meghanāda strikes the Ikṣvāku
+brothers with his nāga arrows. Riddled with Meghanāda’s arrows the two
+fall unconscious on the field. They were then healed by Garuḍa by
+stroking them with his wings and their power is doubled as a
+consequence:
 
 śara-jāla-ācitau vīrāv ubhau daśaratha ātmajau ।  
 śara-talpe mahātmānau śayānāu rudhirokṣitau ॥ (R 6.50.3)  
@@ -695,9 +697,9 @@ India or Greece or Western Europe.
 
 The weight of the evidence suggests that there was a fairly protracted
 period of an undivided Indo-Iranian period (probably
-![\\sim](https://s0.wp.com/latex.php?latex=%5Csim&bg=ffffff&fg=333333&s=0
-"\\sim") 500 years). In this period they probably continued to interact
-to a degree with the sister śatam branches (Balto-Slavic) and also the
+![\\sim](https://s0.wp.com/latex.php?latex=%5Csim&bg=ffffff&fg=333333&s=0&c=20201002)
+500 years). In this period they probably continued to interact to a
+degree with the sister śatam branches (Balto-Slavic) and also the
 precursors of the Greco-Armenians resulting in some sharing of specific
 traditions. It is conceivable that the motifs such as the “river-born”,
 long-lived warrior emerged in this period and was woven into the later
@@ -737,8 +739,8 @@ Sakastanian epic cycle and the Mahābhārata draw from a common tradition
 that simultaneously interacted with both the Iranian and Indo-Aryan
 mainlines. In this regard we may bring attention to the Pārataraja-s who
 founded a kingdom between
-![\\sim](https://s0.wp.com/latex.php?latex=%5Csim&bg=ffffff&fg=333333&s=0
-"\\sim") 125-300 CE in the region neighboring Sakastana in what’s today
+![\\sim](https://s0.wp.com/latex.php?latex=%5Csim&bg=ffffff&fg=333333&s=0&c=20201002)
+125-300 CE in the region neighboring Sakastana in what’s today
 Balochistan. The names of their rulers include among other wise
 typically Iranic names (e.g. \*Yodamithra, \*Bagamithra,
 \*Mithra-takhma) also names of the Pāṇḍava-s — Arjuna and Bhīmārjuna.
@@ -775,7 +777,7 @@ Surena’s clan and thus claimed descent from Rostam. Hence, a memory of
 their settling in Southern India was likely superimposed back into the
 epic narratives of their old heroes.
 
------
+------------------------------------------------------------------------
 
 Footnote 1: When we say Aindra we do not mean that the deity under the
 name Indra was present among the ancestral IEans. It merely means that

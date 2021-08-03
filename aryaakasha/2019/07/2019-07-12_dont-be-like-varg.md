@@ -1,8 +1,11 @@
 +++
-title = "“Don’t Be Likexa0Varg”"
-date = "July 12, 2019"
+title = "“Don’t Be Like Varg”"
+date = "2019-07-12"
+upstream_url = "https://aryaakasha.com/2019/07/12/dont-be-like-varg/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/07/12/dont-be-like-varg/).
+
 ![dontbelikevarg](https://aryaakasha.files.wordpress.com/2019/07/dontbelikevarg.png?w=676)
 
 “Seriously. I don’t get why anyone who claims to be a proponent of

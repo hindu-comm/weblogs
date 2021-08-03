@@ -1,8 +1,11 @@
 +++
-title = "‘Time And I Against Any Other Two’ – an Indo-European analysis of a maxim.xa0"
-date = "July 22, 2019"
+title = "‘Time And I Against Any Other Two’ – an Indo-European analysis of a maxim. "
+date = "2019-07-22"
+upstream_url = "https://aryaakasha.com/2019/07/22/time-and-i-against-any-other-two-an-indo-european-analysis-of-a-maxim/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/07/22/time-and-i-against-any-other-two-an-indo-european-analysis-of-a-maxim/).
+
 ![67229428_10162040671015574_2301129583254044672_n](https://aryaakasha.files.wordpress.com/2019/07/67229428_10162040671015574_2301129583254044672_n.jpg?w=676)
 
 There is an aphorism of the great Baltasar Gracian which I have been

@@ -1,8 +1,11 @@
 +++
-title = "ON THE HORSE TWINS – The Savior Sons of the Sky Father [Part 2 – Hengist And Horsa – The Demonization of the Divinexa0Sons]"
-date = "August 12, 2020"
+title = "ON THE HORSE TWINS – The Savior Sons of the Sky Father [Part 2 – Hengist And Horsa – The Demonization of the Divine Sons]"
+date = "2020-08-12"
+upstream_url = "https://aryaakasha.com/2020/08/12/on-the-horse-twins-the-savior-sons-of-the-sky-father-part-2-hengist-and-horsa-the-demonization-of-the-divine-sons/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/08/12/on-the-horse-twins-the-savior-sons-of-the-sky-father-part-2-hengist-and-horsa-the-demonization-of-the-divine-sons/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/08/7542553_900.jpg?w=535)
 
 The ‘Horse’ nomenclature is particularly overt when we turn to Hengist &

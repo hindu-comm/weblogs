@@ -1,7 +1,11 @@
 +++
 title = "Raised by bAlA and dattAtreya-I"
+date = "2007-01-27"
+upstream_url = "https://manasataramgini.wordpress.com/2007/01/27/raised-by-bala-and-dattatreya-i/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/01/27/raised-by-bala-and-dattatreya-i/).
+
 In the hot plain to the north of the Wardha river, in the village of
 Dhamangaon, a band of Moslems led by their Kazi were chasing a young
 Hindu maid. Nothing unusual for the times, it was one more of the Moslem
@@ -30,3 +34,4 @@ had single handed slaughtered the 30 sons of bhaNDa even as shachiveshI
 and daNDanAthA had looked on. He fell upon the turuShkas, who had not
 even noticed him. So great was his fury that day that the 120 turuShka-s
 attained yamAlaya at the edge of his sword before a muhurta was over.
+

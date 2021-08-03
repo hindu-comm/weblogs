@@ -1,7 +1,11 @@
 +++
 title = "kAlikA purANaM"
+date = "2007-10-20"
+upstream_url = "https://manasataramgini.wordpress.com/2007/10/20/kalika-puranam/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/10/20/kalika-puranam/).
+
 With the holy nine nights under way we decided to talk about the kAlikA
 purANa. It may be considered a mixture of traditional purANa and a
 tantra shAstra manual. The purANa part is dominant in the first 45
@@ -88,7 +92,7 @@ sons. But it was they who became bhuta-gaNeshvara-s of rudra’s hordes.
 Chapter 51 The tantric vidhi of vasiShTha for the worship of the
 pa\~nchabrahma mUrti-s of rudra.  
 Chapter 52-56 The vaiShNavI tantra or mahAmAyA-kalpa. Expounds the
-vaiShNAvI mahAmantra: OM hrIM shrIM vaiShNAvyai namaH | It also
+vaiShNAvI mahAmantra: OM hrIM shrIM vaiShNAvyai namaH \| It also
 describes the worship of the AvarNa-s of vaiShnavI with 64 yoginIs and 8
 yoginIs. These yoginIs are distinct from those of other AvaraNa-s and
 include devatA-s like guptadurgA, bhuvaneshvarI, saptakoTeshvarI,
@@ -145,7 +149,7 @@ Chapter 76 The description of the types of mantra-s and vasiShTha
 expounds kAmAkhyA pUjA.  
 Chapter 77-79 A geographic dilation on the pITha of kAmAkyA and the holy
 spots in its environs.  
-Chapter 80  A description of the worship of other deva-s, particularly
+Chapter 80 A description of the worship of other deva-s, particularly
 concentrating on the worship of viShNu as ordained in the pA\~ncharAtra
 tantras.  
 Chapter 81 A bizarre tale regarding the prevalence of vAmAchAra worship
@@ -181,3 +185,4 @@ Chapter 90 A tale of the sons of the vetAla. The praise of the kAlikA
 purANa.
 
 iti parisamAptaM
+

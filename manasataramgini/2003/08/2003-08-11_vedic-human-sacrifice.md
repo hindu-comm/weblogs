@@ -1,7 +1,11 @@
 +++
 title = "Vedic human sacrifice"
+date = "2003-08-11"
+upstream_url = "https://manasataramgini.wordpress.com/2003/08/11/vedic-human-sacrifice/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/08/11/vedic-human-sacrifice/).
+
 The Indo-Aryan kshatriyas performed a peculiar rite called the
 puruSha-medha that has been spoken of by Indians in hushed tones. Much
 like the cow sacrifice and horse sacrifice, which people have tried to
@@ -38,3 +42,4 @@ puruSha-medha component as the inscription from the 1400s says that he
 slew several turuShka-s to perform the yAga.
 
 ![puruShamedha](https://manasataramgini.files.wordpress.com/2003/08/purushamedha.jpg?w=640)
+

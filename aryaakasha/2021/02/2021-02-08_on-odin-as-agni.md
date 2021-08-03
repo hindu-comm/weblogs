@@ -1,8 +1,11 @@
 +++
-title = "On Odin Asxa0Agni"
-date = "February 8, 2021"
+title = "On Odin As Agni"
+date = "2021-02-08"
+upstream_url = "https://aryaakasha.com/2021/02/08/on-odin-as-agni/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/02/08/on-odin-as-agni/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/02/36580420_228942727718059_9113339806569463808_n.jpg?w=640)
 
 **  

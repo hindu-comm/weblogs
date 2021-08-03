@@ -1,7 +1,11 @@
 +++
 title = "The experience: transient and eternal"
+date = "2010-03-12"
+upstream_url = "https://manasataramgini.wordpress.com/2010/03/12/the-experience-transient-and-eternal/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/03/12/the-experience-transient-and-eternal/).
+
 Having reached the ford I called on indra for aid and also that great
 devI who had birthed him, who is praised in the shrutI of the
 atharvan-s. The great deva-s and gnA-s had granted us the victory we
@@ -37,5 +41,6 @@ fearsome.
 
 Meditating on the drinking of soma we recited the secret sAman composed
 on the R^ik of pragAtha ghaura kANva:  
-apAma somam amR^itA abhUmaaganma jyotir avidAma devAn |  
-kiM nUnam asmAn kR^iNavad arAtiH kimu dhUrtir amR^ita martyasya ||
+apAma somam amR^itA abhUmaaganma jyotir avidAma devAn \|  
+kiM nUnam asmAn kR^iNavad arAtiH kimu dhUrtir amR^ita martyasya \|\|
+

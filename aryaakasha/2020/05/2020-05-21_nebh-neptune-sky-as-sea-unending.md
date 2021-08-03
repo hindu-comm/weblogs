@@ -1,8 +1,11 @@
 +++
-title = "Neb(h) – Neptune – Sky As Seaxa0Unending"
-date = "May 21, 2020"
+title = "Neb(h) – Neptune – Sky As Sea Unending"
+date = "2020-05-21"
+upstream_url = "https://aryaakasha.com/2020/05/21/nebh-neptune-sky-as-sea-unending/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/05/21/nebh-neptune-sky-as-sea-unending/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/05/98955789_10163570007540574_8649970263338778624_n.jpg?w=720)
 
 Proto-Indo-European Neb(h) – Moist/Cloudy

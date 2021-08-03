@@ -1,7 +1,11 @@
 +++
 title = "Pandemic days: the fizz is out of the bottle"
+date = "2020-06-08"
+upstream_url = "https://manasataramgini.wordpress.com/2020/06/08/pandemic-days-the-fizz-is-out-of-the-bottle/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2020/06/08/pandemic-days-the-fizz-is-out-of-the-bottle/).
+
 Just this morning our brother remarked that the fear of the virus has
 inverted this month with respect to the actual infection. We literally
 hear this: in the past few months, while home-bound, we at least had
@@ -95,18 +99,18 @@ too subliminally subscribe to the view that they can gain compensatory
 puṇya by performing acts in support of religion. In the past, the
 sārthavāha-s in our midst too, keen to acquire puṇya, used to make
 donations to various deva-prāsāda-s or build new ones themselves (or
-pāṣaṇdālaya-s). 2) The original ekarākṣasonmāda-s had a single rakṣas
-as the object of their worship. They took the jabberings of their
-unmatta-s — much like one seized by a rākṣasa-graha — to be the very
-words of this rakṣas and as the basis of their impious systems. Closer
-to our times, starting with durātman-s Marx and Engels, there arose
-among the mleccha-s and the ādipraiṣhaka-s a mutation of the old
-unmāda-s where the rakṣas count was reduced from 1 to 0. However, as we
-have noted before, the rest of the unmāda, such as the promise of a
-utopia on earth or in Lalaland remained intact. This version of the
-unmāda is now the ascendant religion among the employees of or of these
-very sārthavāha-s themselves. Thus, what has happened is that they seek
-to earn puṇya by granting endowments for this new abrahma-ruj.
+pāṣaṇdālaya-s). 2) The original ekarākṣasonmāda-s had a single rakṣas as
+the object of their worship. They took the jabberings of their unmatta-s
+— much like one seized by a rākṣasa-graha — to be the very words of this
+rakṣas and as the basis of their impious systems. Closer to our times,
+starting with durātman-s Marx and Engels, there arose among the
+mleccha-s and the ādipraiṣhaka-s a mutation of the old unmāda-s where
+the rakṣas count was reduced from 1 to 0. However, as we have noted
+before, the rest of the unmāda, such as the promise of a utopia on earth
+or in Lalaland remained intact. This version of the unmāda is now the
+ascendant religion among the employees of or of these very sārthavāha-s
+themselves. Thus, what has happened is that they seek to earn puṇya by
+granting endowments for this new abrahma-ruj.
 
 Even if one were not infected fully by this secular mutation of the old
 unmāda-s, among the lay mleccha-s there is a certain naive econolatory:
@@ -153,9 +157,10 @@ humanity. However, as it happens with that disease, when you get too
 close to it you get the full blast of its stench. Thus, she suffered an
 incident of rākṣasa-juṣṭi and suddenly saw light the truly hard way.
 That also opened her eyes to the caturthonmāda and immediately brought
-under attack from those infected by it. Thus, those who were observant
-and discerning knew that this extremely dangerous mānasika-ruj was just
-waiting to jump out into the wider population like a viral pandemic.
+her under attack from those infected by it. Thus, those who were
+observant and discerning knew that this extremely dangerous mānasika-ruj
+was just waiting to jump out into the wider population like a viral
+pandemic.
 
 Rather notably, the jana-kopa triggered by the kṛṣṇa-mleccha-saṃgrāma in
 big mleccha-land along with the psychological and economic fallout of
@@ -176,8 +181,8 @@ pretonmāda and its prema-dūta-s in Bhārata.
 While abrahma-ruj-s are of the mānasika kind they have some of the same
 behaviors and consequences as a jivaruj. One might think that one is
 cured of it but it might have merely has mutated in the infected
-person’s mind and persist as a different version of the disease even
-as persistent bacterial infection. As an example, we have a TSPian
+person’s mind and persist as a different version of the disease even as
+persistent bacterial infection. As an example, we have a TSPian
 ex-marūnmattikā, who is popular in mleccha secular circles and even
 supported by Hindus, who exhibits the same hate for H as a full-blown
 marūnmatta. Dick Dawkins is another example of the same. Here, the
@@ -216,3 +221,4 @@ remains unclear. Whoever wins, the mahāmleccha will be weakened as a
 whole. But from a Hindu perspective, the pakṣas locked in yuddha among
 the mlecchas will just be like being offered a choice between the evil
 Qarmathians and the monstrous Ghaznavids.
+

@@ -1,8 +1,11 @@
 +++
-title = "Glorious Modern Art For Chhinnamastaxa0Jayanti"
-date = "May 26, 2021"
+title = "Glorious Modern Art For Chhinnamasta Jayanti"
+date = "2021-05-26"
+upstream_url = "https://aryaakasha.com/2021/05/26/glorious-modern-art-for-chhinnamasta-jayanti/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/05/26/glorious-modern-art-for-chhinnamasta-jayanti/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/05/13245270_10156974596480574_5829926026873795324_n.jpg?w=960)
 
 The 25th was Chinnamasta Jayanti … so here’s one of my earliest

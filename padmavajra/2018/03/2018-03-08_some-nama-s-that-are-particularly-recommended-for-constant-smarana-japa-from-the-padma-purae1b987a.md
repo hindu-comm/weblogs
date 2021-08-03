@@ -1,8 +1,11 @@
 +++
-title = "Some nāma-s that are particularly recommended for constant smarana/japa from the Padmaxa0Purāṇa"
-date = "2018-03-08"
+title = "Some nāma-s that are particularly recommended for constant smarana/japa from the Padma Purāṇa"
+date = "2018-08-03"
+upstream_url = "https://padmavajra.net/2018/03/08/some-nama-s-that-are-particularly-recommended-for-constant-smarana-japa-from-the-padma-pura%e1%b9%87a/"
 
 +++
+Source: [here](https://padmavajra.net/2018/03/08/some-nama-s-that-are-particularly-recommended-for-constant-smarana-japa-from-the-padma-pura%e1%b9%87a/).
+
 This is from before its Viṣṇu sahasranāma begins. I’ll post only the
 relevant ślokas
 

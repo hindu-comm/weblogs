@@ -1,9 +1,13 @@
 +++
 title = "A discourse on a shiva mantra and ArSha usage in it"
+date = "2010-09-13"
+upstream_url = "https://manasataramgini.wordpress.com/2010/09/13/a-discourse-on-a-shiva-mantra-and-arsha-usage-in-it/"
 
 +++
-stomaM vo adya rudrAya shikvase kShayadvIrAya namasA didiShTana |  
-yebhiH shivaH svavAn evayAvabhir divaH siShakti svayashA nikAmabhiH ||
+Source: [here](https://manasataramgini.wordpress.com/2010/09/13/a-discourse-on-a-shiva-mantra-and-arsha-usage-in-it/).
+
+stomaM vo adya rudrAya shikvase kShayadvIrAya namasA didiShTana \|  
+yebhiH shivaH svavAn evayAvabhir divaH siShakti svayashA nikAmabhiH \|\|
 RV10.92.9
 
 stomaM=a chant (accusative singular); vaH= personal pronoun; adya= today
@@ -52,3 +56,4 @@ retaining the ‘s’ in place of ‘n’.
 A common misconception among the unerudite is that the name shiva is not
 applied to rudra in the shruti. The above is one instance showing that
 to be wrong.
+

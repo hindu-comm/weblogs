@@ -1,8 +1,11 @@
 +++
 title = "Ashtamurti-notes"
-date = "2016-12-02"
+date = "2016-02-12"
+upstream_url = "https://padmavajra.net/2016/12/02/ashtamurti-notes/"
 
 +++
+Source: [here](https://padmavajra.net/2016/12/02/ashtamurti-notes/).
+
 ![An aśṭamukhaliṅga of Paśupatināth at
 Mandsaur](https://padmavajrablog.files.wordpress.com/2016/12/pashupatinath_mandsaur.jpg?w=739)
 

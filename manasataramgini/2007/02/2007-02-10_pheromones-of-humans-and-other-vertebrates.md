@@ -1,29 +1,35 @@
 +++
 title = "Pheromones of humans and other vertebrates"
+date = "2007-02-10"
+upstream_url = "https://manasataramgini.wordpress.com/2007/02/10/pheromones-of-humans-and-other-vertebrates/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/02/10/pheromones-of-humans-and-other-vertebrates/).
+
+
+
 [![](https://i1.wp.com/bp0.blogger.com/_ZhvcTTaaD_4/Rc0Svu8rbqI/AAAAAAAAADE/lN8KDTrz83M/s320/pheromones.png)](http://bp0.blogger.com/_ZhvcTTaaD_4/Rc0Svu8rbqI/AAAAAAAAADE/lN8KDTrz83M/s1600-h/pheromones.png)
 
 1\) 2-methylbut-2-enal: The rabbit milk pheromone. Induced nipple search
 behavior of pups and directs them towards the nipples of the mother.
 Given that rabbits feed their young only once a day this behavior is
 critical for survival.  
-2\) (methylthio)methanethiol: Mouse male pheromone. A molecule with a
+2) (methylthio)methanethiol: Mouse male pheromone. A molecule with a
 strong garlic-like odor that attracts females towards the male by
 inducing an investigative behavior.  
-3\) androstadienone: Human male pheromone. A molecule with a mild musky
+3) androstadienone: Human male pheromone. A molecule with a mild musky
 odor causes physiological arousal in females by inducing increased heart
 beat, blood pressure and breathing rate, and feeling of improved mood.  
-4\) 5a-androst-16-en-3-ol: The boar pheromone. Causes sows to raise
-their posterior and display a receptive posture.  
-5\) petromyzonamine disulfate: the lamprey migratory pheromone. It is
+4) 5a-androst-16-en-3-ol: The boar pheromone. Causes sows to raise their
+posterior and display a receptive posture.  
+5) petromyzonamine disulfate: the lamprey migratory pheromone. It is
 released by larval lamprey in streams and guides sexually mature
 parasitic adults to swim towards the spawning stream.  
-6\) 6-hydroxy-6-methyl-3-heptanone: A mouse male pheromone. Accelerates
+6) 6-hydroxy-6-methyl-3-heptanone: A mouse male pheromone. Accelerates
 puberty of pre-pubertal females.  
-7\) (S)-2-sec-butyl-4.5-dihydrothiazole: Multi-faceted mouse male
+7) (S)-2-sec-butyl-4.5-dihydrothiazole: Multi-faceted mouse male
 pheromone  
-8\) (RR)-3.4-dehydroexo-brevicomin: Multi-faceted mouse male pheromone.
+8) (RR)-3.4-dehydroexo-brevicomin: Multi-faceted mouse male pheromone.
 This and the above compound induce aggression when smelt by other males.
 When smelt by pre-pubertal females they cause acceleration of puberty
 and when sensed by adult females induce and synchronize the estrus
@@ -49,3 +55,4 @@ pheromone that activates responses in males. From the study of Savic et
 al this appears to be estra-1,3,5(10),16-tetraen-3-ol (not pictured
 above). I suspect that while active olfaction is required to detect it,
 its actions occur again somewhat “subconsciously”.
+

@@ -1,8 +1,11 @@
 +++
 title = "On Vyasatirtha’s interpretations of tattvamasi—part I (w/lakshana on ‘tat’)"
-date = "2016-11-03"
+date = "2016-03-11"
+upstream_url = "https://padmavajra.net/2016/11/03/on-vyasatirthas-interpretations-of-tattvamasi-part-i-wlakshana-on-tat/"
 
 +++
+Source: [here](https://padmavajra.net/2016/11/03/on-vyasatirthas-interpretations-of-tattvamasi-part-i-wlakshana-on-tat/).
+
 Before I begin this work,I offer my pra.naamas to that lion amongst
 scholars of Madhva Vedanta,Dr. BNK Sharma.
 

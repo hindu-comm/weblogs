@@ -1,7 +1,11 @@
 +++
 title = "The cracks in the edifice."
+date = "2005-11-13"
+upstream_url = "https://manasataramgini.wordpress.com/2005/11/13/the-cracks-in-the-edifice/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/11/13/the-cracks-in-the-edifice/).
+
 In 1326 the Army of Islam had completed the conquest of Hind and almost
 all of the old Hindu dynasties from the royal shishodias and ChAhamAnas
 in the north, the yAdavas and hoyasalas of Middle India and the Cholas
@@ -105,3 +109,4 @@ kR^iShNa who still stood by hemAdri’s strong orthodoxy.
 
 We observe that the Hindu edifice has ever since been similarly attacked
 by pernicious movements.
+

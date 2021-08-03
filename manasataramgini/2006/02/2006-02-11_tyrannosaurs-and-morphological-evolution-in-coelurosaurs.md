@@ -1,7 +1,11 @@
 +++
 title = "Tyrannosaurs and morphological evolution in coelurosaurs"
+date = "2006-02-11"
+upstream_url = "https://manasataramgini.wordpress.com/2006/02/11/tyrannosaurs-and-morphological-evolution-in-coelurosaurs/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/02/11/tyrannosaurs-and-morphological-evolution-in-coelurosaurs/).
+
 The recent find of the tyrannosaur Guanlong going back to the late
 Jurassic, around 156-161 Myr is of interest when placed in the context
 of the oldest bird, Archaeopteryx, which from a slightly later Jurassic
@@ -34,3 +38,4 @@ a larger in size. The Archaeopteryx condition appears to be primitive
 for the deinonychosaur-bird clade, with experiments seen in dromeosaurs
 like Microraptor, that further developed the leg feathers to become the
 “4-winged fliers”.
+

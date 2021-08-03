@@ -1,8 +1,11 @@
 +++
-title = "On The Indo-Europeanxa0Etruscans?"
-date = "April 30, 2020"
+title = "On The Indo-European Etruscans?"
+date = "2020-04-30"
+upstream_url = "https://aryaakasha.com/2020/04/30/on-the-indo-european-etruscans/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/04/30/on-the-indo-european-etruscans/).
+
 ![Phaidimos Front of a limestone block from the stepped base of a
 funerary monument, mid-6th century B.C. Greek, Attic, Archaic Limestone;
 Overall: 12 1/2 x 33 1/2in. (31.8 x 85.1cm) The Metropolitan Museum of

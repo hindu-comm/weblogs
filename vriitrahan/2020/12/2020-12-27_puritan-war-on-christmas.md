@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "December 27, 2020"
+date = "2020-12-27"
+upstream_url = "https://vriitrahan.wordpress.com/2020/12/27/puritan-war-on-christmas/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2020/12/27/puritan-war-on-christmas/).
+
 Increase Mathers, President of Harvard College (1681–1701) & a Christian
 Puritan said–– “In the Apostolical Times the Feast of the Nativity was
 not observed. The very name of Christmass savours of superstition. It

@@ -1,8 +1,12 @@
 +++
 title = "samarA~NgaNa marsha"
+date = "2008-01-27"
+upstream_url = "https://manasataramgini.wordpress.com/2008/01/27/samarangana-marsha/"
 
 +++
-khaT phaT jahi \!  
+Source: [here](https://manasataramgini.wordpress.com/2008/01/27/samarangana-marsha/).
+
+khaT phaT jahi !  
 In the tales of Sherlock Holmes many a time the great narrative of Dr.
 Watson could see the light of day only after a long silent interlude.
 Even so perhaps the whole history of the great struggle will be narrated
@@ -47,4 +51,5 @@ Seeing this she retreated to the southern lair. We feared the strange
 Apya-valaga that she had placed right in the path – we are still a bit
 puzzled why it was still unbroken after so many hours.
 
-khaT phaT jahi \!
+khaT phaT jahi !
+

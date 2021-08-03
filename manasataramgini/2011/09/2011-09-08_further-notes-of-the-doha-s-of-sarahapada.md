@@ -1,7 +1,11 @@
 +++
 title = "Further notes of the dohA-s of sarahapAda"
+date = "2011-09-08"
+upstream_url = "https://manasataramgini.wordpress.com/2011/09/08/further-notes-of-the-doha-s-of-sarahapada/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/09/08/further-notes-of-the-doha-s-of-sarahapada/).
+
 To
 [continue](https://manasataramgini.wordpress.com/2008/11/22/some-doha-s-of-mahabrahmana-sarahapada/):  
 There are some interesting elements in the apabhraMsha dohA-s of saraha
@@ -10,9 +14,9 @@ the enormously paradoxical nature of the dohA-kosha of saraha, again
 pointing to the enormous debt of the tAthAgata-s to the kaula systems
 emerging among the shaiva-s. Let us look at the following:  
 akkhara-vaNNo parama-guNa-rahio  
-bhaNai Na jANai e mai kahiao |  
+bhaNai Na jANai e mai kahiao \|  
 so paramesaru kAsu kahijjai  
-suraa kumArI jima paDivajjai ||
+suraa kumArI jima paDivajjai \|\|
 
 Bereft of sound, color, or the fundamental guNa-s, it cannot be spoken
 about or known, so I (i.e. saraha) say.  
@@ -42,14 +46,14 @@ non-dual consciousness being experienced via maithuna, where yogin and
 the dUtI’s consciousness are one.
 
 Nau aNu Nau paramANu vichintaje  
-aNavara a bhAvahi phurai surattaje |  
+aNavara a bhAvahi phurai surattaje \|  
 bhaNai saraha bhanti eta vimattaje  
-are NikkolI vujjhai paramatthaje ||
+are NikkolI vujjhai paramatthaje \|\|
 
 Don’t think it’s the atoms or the fundamental particles; it is the
 unending orgiastic delight that pervades existence.  
-saraha says that such \[i.e. atomic\] false thinking is madness; arrey
-\! low-born one understand the ultimate reality.
+saraha says that such \[i.e. atomic\] false thinking is madness; arrey !
+low-born one understand the ultimate reality.
 
 The alliterative effects of saraha are at high point in this dohA. A
 point of interest is his attack on atomism, which in some ways resembles
@@ -65,9 +69,9 @@ were followers of the atomic doctrine, we suspect that this attack is
 directed towards their theories of existence.
 
 paNDia saala sattha vakkhANai  
-dehahiM buddha vasanta na jANai |  
+dehahiM buddha vasanta na jANai \|  
 avaNAgamana Na teNa vikhaNDia  
-tovi Nilajja bhaNai hauM paNDia ||  
+tovi Nilajja bhaNai hauM paNDia \|\|  
 The pundit expounds the entire shAstra not knowing that the buddha
 dwells within his body.  
 \[The cycles of \] coming and going are not shattered by that means but
@@ -102,8 +106,8 @@ yoginI tantra tradition. The anti-scholasticism of these AchArya-s
 appears to reflect their expression after the attainment of the sahaja
 state in which the other devices seem empty.
 
-Avanta Na dIssai janta Nahi achChanta Na muNiai |  
-Nittara\~Nga paramesuru Nikkala\~Nka dhAhijjai ||  
+Avanta Na dIssai janta Nahi achChanta Na muNiai \|  
+Nittara\~Nga paramesuru Nikkala\~Nka dhAhijjai \|\|  
 You don’t see it coming nor going, you don’t know it when it is there;  
 parameshvara is without waves, blemishless and \[as though\] washed
 clean.
@@ -119,8 +123,8 @@ clearly expounded in the virUpAkSha pa\~nchAshika). This dohA instead
 seems to insist on the converse trying to present the parameshvara as
 being free from such waves.
 
-Avai jAi Na chChaDDai tAvahu |  
-kahiM apuvvA vilAsiNi pAvahu ||  
+Avai jAi Na chChaDDai tAvahu \|  
+kahiM apuvvA vilAsiNi pAvahu \|\|  
 If you do not renounce the coming and going how can you attain the
 incomparable vilAsinI ?
 
@@ -136,3 +140,4 @@ transmitted his tAntrika lore to the Tibetans after the destruction of
 the Indian universities by the Moslems. The tAthAgata-s have also
 incorporated the worship of vilAsinI taught by the early kaula siddha
 shabara in a vajrified form in the guhya-vajra-vilAsinI sAdhana.
+

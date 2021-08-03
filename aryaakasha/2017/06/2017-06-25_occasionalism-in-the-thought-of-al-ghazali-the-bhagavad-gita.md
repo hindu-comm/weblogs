@@ -1,8 +1,11 @@
 +++
-title = "‘Occasionalism’ in the thought of Al-Ghazali & The Bhagavadxa0Gita"
-date = "June 25, 2017"
+title = "‘Occasionalism’ in the thought of Al-Ghazali & The Bhagavad Gita"
+date = "2017-06-25"
+upstream_url = "https://aryaakasha.com/2017/06/25/occasionalism-in-the-thought-of-al-ghazali-the-bhagavad-gita/"
 
 +++
+Source: [here](https://aryaakasha.com/2017/06/25/occasionalism-in-the-thought-of-al-ghazali-the-bhagavad-gita/).
+
 A curious 7 a.m thought for a Sunday morning, about the nature of
 ‘Causality’.
 

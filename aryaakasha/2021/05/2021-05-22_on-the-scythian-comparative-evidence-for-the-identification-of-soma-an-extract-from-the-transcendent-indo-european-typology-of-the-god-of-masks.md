@@ -1,8 +1,11 @@
 +++
-title = "On The Scythian Comparative Evidence For The Identification Of Soma – An Extract From ‘The Transcendent Indo-European Typology Of The God Ofxa0Masks’"
-date = "May 22, 2021"
+title = "On The Scythian Comparative Evidence For The Identification Of Soma – An Extract From ‘The Transcendent Indo-European Typology Of The God Of Masks’"
+date = "2021-05-22"
+upstream_url = "https://aryaakasha.com/2021/05/22/on-the-scythian-comparative-evidence-for-the-identification-of-soma-an-extract-from-the-transcendent-indo-european-typology-of-the-god-of-masks/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/05/22/on-the-scythian-comparative-evidence-for-the-identification-of-soma-an-extract-from-the-transcendent-indo-european-typology-of-the-god-of-masks/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/05/120610590_722632028349124_4805327894409189317_n.png?w=376)
 
 This is an extract from [my (second) substantive article on the

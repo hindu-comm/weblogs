@@ -1,8 +1,11 @@
 +++
-title = "Glorious Modern Art For An Ancient Hinduxa0Hymnal"
-date = "January 16, 2020"
+title = "Glorious Modern Art For An Ancient Hindu Hymnal"
+date = "2020-01-16"
+upstream_url = "https://aryaakasha.com/2020/01/16/glorious-modern-art-for-an-ancient-hindu-hymnal/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/01/16/glorious-modern-art-for-an-ancient-hindu-hymnal/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/01/82505707_10162815367050574_2253685686580281344_n.jpg?w=478)
 
 Friday Evening Devi-otional (A)Art(I) Posting

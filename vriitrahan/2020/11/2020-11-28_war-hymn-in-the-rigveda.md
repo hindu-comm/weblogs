@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "November 28, 2020"
+date = "2020-11-28"
+upstream_url = "https://vriitrahan.wordpress.com/2020/11/28/war-hymn-in-the-rigveda/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2020/11/28/war-hymn-in-the-rigveda/).
+
 अव॑सृष्टा॒ परा॑ पत॒ शर॑व्ये॒ ब्रह्म॑संशिते  
 गच्छा॒मित्रा॒न्प्र प॑द्यस्व॒ मामीषां॒ कं च॒नोच्छि॑षः  
   

@@ -1,7 +1,11 @@
 +++
 title = "Mongolian rAmAyaNa"
+date = "2006-12-13"
+upstream_url = "https://manasataramgini.wordpress.com/2006/12/13/mongolian-ramayana/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/12/13/mongolian-ramayana/).
+
 The vaiShNava journeying beyond the hallowed Oddiyana pITha, where he
 had performed the worship of vArAhI, and karNamoTini, arrived at the
 oasis of Khotan. Having obtained several manuscripts of various Indic
@@ -73,3 +77,4 @@ Then two prayoga vidhis for hanumAn and sugrIva were given.
 
 This Mongolian version is congruent to that of the naked jainas narrated
 in the mahApurANa of puShpadanta.
+

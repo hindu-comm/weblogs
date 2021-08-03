@@ -1,8 +1,11 @@
 +++
-title = "On The ‘Culture-Jamming’ Suppression Of Heritage Through Spurious Association-Allegations And Other Subversivexa0Intents"
-date = "December 9, 2020"
+title = "On The ‘Culture-Jamming’ Suppression Of Heritage Through Spurious Association-Allegations And Other Subversive Intents"
+date = "2020-12-09"
+upstream_url = "https://aryaakasha.com/2020/12/09/on-the-culture-jamming-suppression-of-heritage-through-spurious-association-allegations-and-other-subversive-intents/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/12/09/on-the-culture-jamming-suppression-of-heritage-through-spurious-association-allegations-and-other-subversive-intents/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/12/130131365_771780736767586_4922484939847793083_n.png?w=512)
 
 Over the years, I have made an observational study of “culture-jamming”.

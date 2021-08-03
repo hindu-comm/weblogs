@@ -1,8 +1,11 @@
 +++
-title = "Ramblings on @bronzeagemantis ‘ Bronze Agexa0Mindset"
+title = "Ramblings on @bronzeagemantis ‘ Bronze Age Mindset"
 date = "2020-06-16"
+upstream_url = "https://padmavajra.net/2020/06/16/ramblings-on-bronzeagemantis-bronze-age-mindset/"
 
 +++
+Source: [here](https://padmavajra.net/2020/06/16/ramblings-on-bronzeagemantis-bronze-age-mindset/).
+
   
   
 

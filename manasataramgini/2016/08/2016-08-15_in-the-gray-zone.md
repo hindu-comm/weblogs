@@ -1,7 +1,11 @@
 +++
 title = "In the gray zone"
+date = "2016-08-15"
+upstream_url = "https://manasataramgini.wordpress.com/2016/08/15/in-the-gray-zone/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2016/08/15/in-the-gray-zone/).
+
 Among the thinkers of the modern Occident one may take note of the
 Englishman John Gray. He is firmly an insider of the Anglosphere not
 just by origin but also by worldview: he is quick to spot the barbarisms
@@ -19,21 +23,21 @@ Abrahamisms.
 
 He also makes several other notable points that are not commonly
 understood in the western academia:  
-\-He notices and criticizes the “physics envy” among the economists. He
+-He notices and criticizes the “physics envy” among the economists. He
 notices how a large body of investigation that tries to provide an
 economic explanation for every human endeavor, including religious
 conversion; he points out that this is fraught with erroneous
 assumption.  
-\-He points out that science cannot and is unlikely to replace
+-He points out that science cannot and is unlikely to replace
 religion.  
-\-A related point he seems to make is that not all science or more
+-A related point he seems to make is that not all science or more
 broadly human endeavor in the realm of knowledge would come within the
 ambit of the usages of hard science (i.e. the most mathematized
 science).  
-\-He notices and points out that the theory of the telos \[the end\] of
+-He notices and points out that the theory of the telos \[the end\] of
 history is fundamentally flawed and history will continue with all the
 basic causes of conflict spurring it on in the future.  
-\-A related point he makes is that the transition to modernity, while
+-A related point he makes is that the transition to modernity, while
 widely assumed in the west to be a universal in form, is unlikely to be
 so.
 
@@ -206,14 +210,14 @@ seeing so clearly in my head like a real object.
 So now the question is whether a machine can be created that does the
 same as such experts. There can be potentially several different lines
 of answers to this:  
-1\) Yes, a machine can be created. Such tasks are merely very complex,
+1) Yes, a machine can be created. Such tasks are merely very complex,
 hence the machine would need to be similarly very complex and our
 technology might eventually get there to achieve such artificial
 intelligence.  
-2\) A conventional machine cannot be created but one which exploits some
+2) A conventional machine cannot be created but one which exploits some
 deeper physical principle such as one stemming from the quantum theory
 can.  
-3\) No machine can be directly engineered for this. One can only
+3) No machine can be directly engineered for this. One can only
 recapitulate the evolutionary process in some way to create a biological
 system where such capacity might emerge as a higher order system
 property. The lower order system components by themselves will not have
@@ -222,13 +226,12 @@ conglomerate is greater than the parts, like the assemblage of neurons
 or cells having properties beyond those of individual cells. Hence, the
 emergent property cannot be determined (at least easily) by the
 underlying parts.  
-4\) It needs a special system so far not seen among engineered machines
+4) It needs a special system so far not seen among engineered machines
 that has this capacity to somehow “connect” deep into a system’s
 information and read it directly. This recapitulates the subconscious
 element of virtuosity described above.  
-5\) No machine can achieve it. It is actually related to the hard
-problem of consciousness, which lies outside the domain of objective
-inference.
+5) No machine can achieve it. It is actually related to the hard problem
+of consciousness, which lies outside the domain of objective inference.
 
 Now, in the modern scientific world conditioned by secularized
 Abrahamism some of these alternatives could be seen as a blasphemy by
@@ -280,3 +283,4 @@ Had they been in the Hindu world this would have been seen as as
 unsurprising as the domains of knowledge are not disjoint for the
 heathen. This dismemberment is yet another secularized aspect of the
 Mosaic distinction.
+

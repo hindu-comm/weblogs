@@ -1,8 +1,11 @@
 +++
-title = "Nuances on the origin of tArA(entirely) in Tibet (inxa0general)"
+title = "Nuances on the origin of tArA(entirely) in Tibet (in general)"
 date = "2019-09-09"
+upstream_url = "https://padmavajra.net/2019/09/09/nuances-on-the-origin-of-taraentirely-in-tibet-in-general/"
 
 +++
+Source: [here](https://padmavajra.net/2019/09/09/nuances-on-the-origin-of-taraentirely-in-tibet-in-general/).
+
 
 
 1\. Tibetan tradition states that tArA herself was introduced into Tibet

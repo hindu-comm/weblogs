@@ -1,8 +1,11 @@
 +++
-title = "Some conlanging experiments of Hindu Sanskritxa0grammarians"
-date = "2016-11-01"
+title = "Some conlanging experiments of Hindu Sanskrit grammarians"
+date = "2016-01-11"
+upstream_url = "https://padmavajra.net/2016/11/01/some-conlanging-experiments-of-hindu-sanskrit-grammarians/"
 
 +++
+Source: [here](https://padmavajra.net/2016/11/01/some-conlanging-experiments-of-hindu-sanskrit-grammarians/).
+
 Burnell,in one of his appendices to his monograph on the
 aindra-vyAkAraNa noted a conlang of sorts,which went by the name of
 bhANDIrabhASA. This conlang prakRt has a grammar on it authored by a

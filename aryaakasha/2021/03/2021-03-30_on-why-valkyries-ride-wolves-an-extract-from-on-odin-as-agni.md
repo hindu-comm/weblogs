@@ -1,8 +1,11 @@
 +++
-title = "On Why Valkyries Ride Wolves – An Extract From ‘On Odin Asxa0Agni’"
-date = "March 30, 2021"
+title = "On Why Valkyries Ride Wolves – An Extract From ‘On Odin As Agni’"
+date = "2021-03-30"
+upstream_url = "https://aryaakasha.com/2021/03/30/on-why-valkyries-ride-wolves-an-extract-from-on-odin-as-agni/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/03/30/on-why-valkyries-ride-wolves-an-extract-from-on-odin-as-agni/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/03/164801824_487698735571438_1117796745702078106_n.png?w=750)
 
 \[Author’s Note: there are two salient occurrences which I can think of

@@ -1,7 +1,11 @@
 +++
 title = "The subversion of Russia"
+date = "2007-04-14"
+upstream_url = "https://manasataramgini.wordpress.com/2007/04/14/the-subversion-of-russia/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/04/14/the-subversion-of-russia/).
+
 In school we were taught of the Russian revolution in history. It was
 described in glowing terms how the revolutionaries under Lenin, Stalin,
 Radek and Trotsky created a Utopian superpower by overthrowing the
@@ -67,15 +71,15 @@ example, the stabs delivered on the underbelly of Russia through the
 1980s-1990s via the neo-Islamic caliphate immediately reveal parallels
 to the Crimean war \[As starting clues one may follow leads such as:
 
-  - Funding for Khattab, the Caucasian terrorist came from the
+-   Funding for Khattab, the Caucasian terrorist came from the
     Neo-caliphate, which in turn was backed and built up by the
     Anglo-sphere explicitly with the aim of destroying the neo-Russian
     empire by drawing it into Afghanistan. The BBC ran a glowing
     obituary for Khattab when the Russians ingeniously eliminated him.
     Would they run a similar obituary for bin Laden?
-  - The other terrorist Zakayev lives peacefully in England with a
+-   The other terrorist Zakayev lives peacefully in England with a
     British passport.
-  - Is the leased Karshi-Khanabad base only for monitoring the Al Qaeda?
+-   Is the leased Karshi-Khanabad base only for monitoring the Al Qaeda?
     Especially, given that the Anglosphere has its foothold right inside
     Al Qaeda country– Afghanistan\].
 
@@ -92,3 +96,4 @@ this.](https://manasataramgini.wordpress.com/2004/09/07/the-weakness-of-russia/)
 
 and leads to
 [this](https://manasataramgini.wordpress.com/2007/04/15/our-lessons-from-the-subversion-of-russia/).
+

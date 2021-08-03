@@ -1,7 +1,11 @@
 +++
 title = "Into the AshAChidra"
+date = "2008-09-30"
+upstream_url = "https://manasataramgini.wordpress.com/2008/09/30/in-to-the-ashachidra/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/09/30/in-to-the-ashachidra/).
+
 The chakra of the yuga had turned,  
 Life by five saMvatsara-s had onward moved,  
 Does AyuvR^iddhi also mean yama has closer approached.
@@ -15,4 +19,5 @@ Like a toad we had from nook to nook we had saltated,
 Like indra the realms we had conquered.
 
 But lay in the hazy future, we wondered,  
-For indeed vasiShTha said no man has the future cognized\!
+For indeed vasiShTha said no man has the future cognized!
+

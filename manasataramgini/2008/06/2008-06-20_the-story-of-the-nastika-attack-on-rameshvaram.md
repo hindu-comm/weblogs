@@ -1,7 +1,11 @@
 +++
 title = "The story of the nAstIka attack on rAmeshvaraM"
+date = "2008-06-20"
+upstream_url = "https://manasataramgini.wordpress.com/2008/06/20/the-story-of-the-nastika-attack-on-rameshvaram/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/06/20/the-story-of-the-nastika-attack-on-rameshvaram/).
+
 An exchange with my acquaintance SRA on apotropaic rites related to
 temples prompted me to record this brief note. The light of the
 theravAda bauddha-s, the mighty king parAkrama-bAhu the Great (i.e.
@@ -67,3 +71,4 @@ befitting offering to mahAdeva.
 
 The details of this event are recorded in the ArpAkkaM inscription 18 Km
 from Kanchi.
+

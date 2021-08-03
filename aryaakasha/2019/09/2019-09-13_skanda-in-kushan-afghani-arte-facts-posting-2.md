@@ -1,8 +1,11 @@
 +++
-title = "Skanda in Kushan [Afghani Arte-Facts Postingxa0#2]"
-date = "September 13, 2019"
+title = "Skanda in Kushan [Afghani Arte-Facts Posting #2]"
+date = "2019-09-13"
+upstream_url = "https://aryaakasha.com/2019/09/13/skanda-in-kushan-afghani-arte-facts-posting-2/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/09/13/skanda-in-kushan-afghani-arte-facts-posting-2/).
+
 ![69760624_10162252739410574_1600481556688797696_o](https://aryaakasha.files.wordpress.com/2019/09/69760624_10162252739410574_1600481556688797696_o.jpg?w=676)
 
 This

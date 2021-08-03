@@ -1,9 +1,14 @@
 +++
 title = "The chants of the rudra-s: a commentary based on our discussions"
+date = "2008-11-09"
+upstream_url = "https://manasataramgini.wordpress.com/2008/11/09/the-chants-of-the-rudra-s-a-commentary-based-on-our-discussions/"
 
 +++
-*bhuvanasya pitaraM gIrbhir AbhI rudraM divA vardhayA rudram aktau |  
-bR^ihantaM R^iShvam ajaraM suShumnaM R^idhag-ghuvema kavineShitAsaH ||*
+Source: [here](https://manasataramgini.wordpress.com/2008/11/09/the-chants-of-the-rudra-s-a-commentary-based-on-our-discussions/).
+
+*bhuvanasya pitaraM gIrbhir AbhI rudraM divA vardhayA rudram aktau \|  
+bR^ihantaM R^iShvam ajaraM suShumnaM R^idhag-ghuvema kavineShitAsaH
+\|\|*
 
 With these chants we exalt rudra, the universe’s father, by day and by
 night;  
@@ -24,8 +29,8 @@ mantra the key words are “bhuvanasya pitaraM” and “bR^ihantaM
 R^iShvam”\]
 
 *rudrasya ye mILhuShaH santi putrA yAMsh cho nu dAdhR^ivir bharadhyai
-|  
-vide hi mAtA maho mahI ShA set pR^ishniH subhve garbham AdhAt ||*
+\|  
+vide hi mAtA maho mahI ShA set pR^ishniH subhve garbham AdhAt \|\|*
 
 *T*hey who are sons of the bounteous rudra, whom the one capable of
 bearing bore;  
@@ -42,8 +47,8 @@ to his consort an offering is made by calling her mIDhuShI. The rahasya
 of this mantra is not easy and is apprehended via the word pR^ishni. The
 mantra offer the “sight” of pR^ishni.\]
 
-*ta id ugrAH shavasA dhR^iShNuSheNA ubhe yujanta rodasI sumeke |  
-adha smaiShu rodasI svashochir Amavatsu tasthau na rokaH ||*
+*ta id ugrAH shavasA dhR^iShNuSheNA ubhe yujanta rodasI sumeke \|  
+adha smaiShu rodasI svashochir Amavatsu tasthau na rokaH \|\|*
 
 When, with fierce valor and powerful weapons, they had brought together
 the well-formed heavenly hemispheres;  
@@ -64,8 +69,8 @@ are the phrases: “yujanta rodasI sumeke” and “rodasI svashochiH”. The
 later is particularly difficult.\]
 
 *taM vR^idhantaM mArutaM bhrAjad R^iShTiM rudrasya sUnuM havasA vivAse
-|  
-divaH shardhAya shuchayo manIShA girayo nApa ugrA aspR^idhran ||*
+\|  
+divaH shardhAya shuchayo manIShA girayo nApa ugrA aspR^idhran \|\|*
 
 That exalted troop of marut-s, with blazing spears, the sons of rudra, I
 seek with invocation; \[these\] pure compositions are to receive that
@@ -85,9 +90,9 @@ will be able to see a certain distant partial continuity between a
 vision encoded in them with the vision of certain tantrika elements. One
 of these elements is most explicitly articulated in the vij\~nAna
 bhairava tantra:  
-*jalasy-ev-ormayo vahner-jvAlAbha\~NgyaH prabhA raveH |  
-mamaiva bhairavasy-aitA vishvabha\~Ngyo vibheditAH ||* vij\~nAna
-bhairava tantra 110 ||  
+*jalasy-ev-ormayo vahner-jvAlAbha\~NgyaH prabhA raveH \|  
+mamaiva bhairavasy-aitA vishvabha\~Ngyo vibheditAH \|\|* vij\~nAna
+bhairava tantra 110 \|\|  
 Just as waves arise in water, waves of flames in the fire, and rays of
 light in the sun, so also the waves of the universe in their
 differentiated forms have arisen from me the bhairava.
@@ -100,3 +105,4 @@ rahasya-s, but these neither benefited me nor everyone one who listened
 – after all we do not live solely amongst Arya-s. It taught me that
 rahasya-s of the kavI-s have remained so for a reason. They are to be
 disclosed only within the secret circle of discussants.
+

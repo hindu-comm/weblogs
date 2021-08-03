@@ -1,7 +1,13 @@
 +++
 title = "The apparition of Saturn on 13th Jan."
+date = "2005-02-28"
+upstream_url = "https://manasataramgini.wordpress.com/2005/02/28/the-apparition-of-saturn-on-13th-jan/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/02/28/the-apparition-of-saturn-on-13th-jan/).
+
+
+
 Saturn was at its closest on 13th. Marc spent a while observing it with
 his 8 inch sweetie. [![Posted by
 Hello](https://i0.wp.com/photos1.blogger.com/pbh.gif)](http://www.hello.com/)
@@ -26,3 +32,4 @@ really great idea.
 
 Astronomy was an obsession in bhAratavarsha, in mlecchadesha it is a
 rare luxury, like the soma from mUjavant.
+

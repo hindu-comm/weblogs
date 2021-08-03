@@ -1,8 +1,11 @@
 +++
-title = "The Lord of Arasavalli,axa0painting"
+title = "The Lord of Arasavalli,a painting"
 date = "2018-03-16"
+upstream_url = "https://padmavajra.net/2018/03/16/the-lord-of-arasavallia-painting/"
 
 +++
+Source: [here](https://padmavajra.net/2018/03/16/the-lord-of-arasavallia-painting/).
+
 The deity
 
 ![](https://padmavajrablog.files.wordpress.com/2018/03/suryanarayana_1.jpg?w=739&h=486)

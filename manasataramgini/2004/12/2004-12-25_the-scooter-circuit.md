@@ -1,7 +1,11 @@
 +++
 title = "The scooter circuit"
+date = "2004-12-25"
+upstream_url = "https://manasataramgini.wordpress.com/2004/12/25/the-scooter-circuit/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/12/25/the-scooter-circuit/).
+
 We performed our peculiar scooter circuit that year. Earlier it was the
 cycle circuit. We were like the pAshupata, distanced from the plebian
 world. We we passed in the midst of the plebians, we heard their
@@ -29,3 +33,4 @@ perpetually restless, always asking something from us, and always
 peddling his half-baked thoughts with a compulsive appetite. May be
 there is a lesson to be learnt from the strange case of dharma dR^iDha
 vAtavyAdi?
+

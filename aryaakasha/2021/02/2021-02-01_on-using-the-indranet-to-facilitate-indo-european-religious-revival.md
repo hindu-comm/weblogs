@@ -1,8 +1,11 @@
 +++
-title = "On Using The IndraNet To Facilitate Indo-European Religiousxa0Revival"
-date = "February 1, 2021"
+title = "On Using The IndraNet To Facilitate Indo-European Religious Revival"
+date = "2021-02-01"
+upstream_url = "https://aryaakasha.com/2021/02/01/on-using-the-indranet-to-facilitate-indo-european-religious-revival/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/02/01/on-using-the-indranet-to-facilitate-indo-european-religious-revival/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/02/revolt-against-the-current-yuga.png?w=850)
 
 Something that’s got me thinking – and while it starts off (as it often

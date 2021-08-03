@@ -1,7 +1,11 @@
 +++
 title = "Vedic Beer"
+date = "2004-03-22"
+upstream_url = "https://manasataramgini.wordpress.com/2004/03/22/vedic-beer/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/03/22/vedic-beer/).
+
 Whereas beer and other alcoholic beverages were not consumed by the
 brAhmaNa-s (and ascetics) unlike rest of Arya society, its production
 was still a part of brAhmaNa lore. The hindus of yore had an elaborate
@@ -22,10 +26,10 @@ with the mantra ashivibhyAM apAkaromi and the milk is poured into the
 ferment with the mantra parIto si\~nchatA… He then shreds the rice
 leaves into fine pieces and adds them to the ferment and lets is stay
 for a night. The next morning he milks two cows with the mantra
-‘sarasvatyai apAkaromi…’ and adds the milk to the ferment. He also
-adds the powder of fresh barley grains and lets it stand for a night.
-The next day he adds the milk of 3 cows into the ferment and adds the
-flour of parched grains into it. This is let to ferment for 4 days.
+‘sarasvatyai apAkaromi…’ and adds the milk to the ferment. He also adds
+the powder of fresh barley grains and lets it stand for a night. The
+next day he adds the milk of 3 cows into the ferment and adds the flour
+of parched grains into it. This is let to ferment for 4 days.
 
 He then goes to the southern altar and pours the ferment through a ox
 hide funnel through a hoof-sieve with the mantra “si\~nchati pari
@@ -42,3 +46,4 @@ merely smell the liquor, collect the remnants and offer it to a
 kshatriya or a vaishya to drink along with a gift. If they do not get a
 drinker, they may smell it and then burn all the liquor in charcoal
 pyres outside the ritual area with mantras to offer it to the ancestors.
+

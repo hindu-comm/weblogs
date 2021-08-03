@@ -1,7 +1,11 @@
 +++
 title = "AV vikR^iti pATha"
+date = "2008-08-21"
+upstream_url = "https://manasataramgini.wordpress.com/2008/08/21/av-vikriti-patha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/08/21/av-vikriti-patha/).
+
 With the upAkarma and veda-vrata having gone by last full-moon we took
 the opportunity to illustrate the vikR^iti pATha-s of the AV-shaunaka.
 The vikR^iti pATHa-s of the AV are largely extinct. But the AV-shaunaka
@@ -22,9 +26,9 @@ reversed. Hence they are not a part of ArsSha language and are called
 anArSha for which the grammar needs to be reworked. The rule of
 hayagrIva is thus given:  
 abhikrame kramashAstraM pradhAnaM syAd vyutkrame vyAkaraNaM pradhAnaM
-|  
+\|  
 uktaH krame vyutkramaNe visheShaH svarAH prakara dvitiye.apyaabhinna
-||  
+\|\|  
 There must have been a text of hayagrIva, but we have no evidence if it
 survived in entirety. In the cd of the above verse we see the term
 “uktaH krame vyutkrame visheShaH” meaning that the difference between
@@ -34,9 +38,10 @@ discussed the definitions of krama vyutkrama in a jaTA sequence.
 The learned shrI PR, the knower of RV vikR^iti-s, stated to me that they
 too follow the rules of hayagrIva.
 
-[saMhitA pATha recitation for
-AV-S 17.1](ftp://ftp.ncbi.nih.gov/pub/aravind/temp/av-s_saMhitA_17.1.mp3)  
+[saMhitA pATha recitation for AV-S
+17.1](ftp://ftp.ncbi.nih.gov/pub/aravind/temp/av-s_saMhitA_17.1.mp3)  
 [pada pATha
 recitation](ftp://ftp.ncbi.nih.gov/pub/aravind/temp/av-s_pada_17.1.mp3)  
 [jaTA pATha
 recitation](ftp://ftp.ncbi.nih.gov/pub/aravind/temp/av-s_jaTa_17.1.mp3)
+

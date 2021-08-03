@@ -1,8 +1,11 @@
 +++
-title = "Theology – The Indo-European Queen of thexa0Sciences"
-date = "July 14, 2020"
+title = "Theology – The Indo-European Queen of the Sciences"
+date = "2020-07-14"
+upstream_url = "https://aryaakasha.com/2020/07/14/theology-the-indo-european-queen-of-the-sciences/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/07/14/theology-the-indo-european-queen-of-the-sciences/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/07/capture7.png?w=795)
 
 “The Queen of the Sciences – Theology”

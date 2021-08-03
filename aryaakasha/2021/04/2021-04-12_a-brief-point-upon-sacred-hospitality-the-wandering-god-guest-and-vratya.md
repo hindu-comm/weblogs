@@ -1,8 +1,11 @@
 +++
-title = "A Brief Point Upon Sacred Hospitality, The (Wandering) God-Guest, Andxa0Vratya"
-date = "April 12, 2021"
+title = "A Brief Point Upon Sacred Hospitality, The (Wandering) God-Guest, And Vratya"
+date = "2021-04-12"
+upstream_url = "https://aryaakasha.com/2021/04/12/a-brief-point-upon-sacred-hospitality-the-wandering-god-guest-and-vratya/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/04/12/a-brief-point-upon-sacred-hospitality-the-wandering-god-guest-and-vratya/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/04/170507752_844152029530456_3575744114709717469_n.png?w=770)
 
 When we think of the concept of the Indo-European Sacred Hospitality, we

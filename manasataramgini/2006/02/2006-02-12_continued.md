@@ -1,13 +1,17 @@
 +++
 title = "Continued"
+date = "2006-02-12"
+upstream_url = "https://manasataramgini.wordpress.com/2006/02/12/continued/"
 
 +++
-\-Then we spoke of Messier and Mechain’s objects in the sky.  
+Source: [here](https://manasataramgini.wordpress.com/2006/02/12/continued/).
+
+-Then we spoke of Messier and Mechain’s objects in the sky.  
 We simple yarned of the good old day when we conquered every Messier
 object with our small scope. Messier is supposed to have discovered 20
 comets and 103 deep sky objects. Two of which are sort of spurious. He
 seems to have sparked the great hunt of W. Herschel.  
-\-Then we spoke on primate evolution  
+-Then we spoke on primate evolution  
 First we spoke of the possibility of a primate-dermopteran-rodent
 evolutionary link. Superficially the plesiadapiforms seem to confirm
 such a link. But the jury is still out and we cannot be sure of this.
@@ -25,10 +29,10 @@ resembling the basal anthropoids from the Al Fayum Beds of Egypt reach
 South America Given that only they and the caviamorph rodents (which
 spawned *Phoberomys*) reached South America they seem to have floated
 across the narrower Paleo-Atlantic ocean, due to their small size on
-washed away branches perhaps. An amazing journey to make\! What about
-the earliest Anthropoids like Eosimias: did Anthropoids first emerge in
-Asia or Africa What is the phylogenetic position of *Oreopithecus*. Did
-it convergently evolve to an ape-like state? We also wondered if the
+washed away branches perhaps. An amazing journey to make! What about the
+earliest Anthropoids like Eosimias: did Anthropoids first emerge in Asia
+or Africa What is the phylogenetic position of *Oreopithecus*. Did it
+convergently evolve to an ape-like state? We also wondered if the
 Platyrrhines and Catarrhines independently evolve larger brain sizes.
 This may have a bearing on when the South American monkeys separated.
 
@@ -42,7 +46,7 @@ Theropithecus oswaldi and Dinopithecus ingens, which appear to have been
 large grass-eating monkeys that might have competed partly with the
 coeaval human ancestors.
 
-\-Then we talked about a far-fetched idea as to whether the idea of
+-Then we talked about a far-fetched idea as to whether the idea of
 praLayas and other doomsday scenarios are linked to the ancient
 appreciation of the shortest Milankovitch cycle. As it is possible that
 knowledge of precession is a very ancient issue, may be there was an
@@ -53,9 +57,10 @@ summer closer to perihelion. When it happens the winters and summers are
 accentuated in their severity. This could have devastating climatic
 consequences.
 
-\-Then we spoke of various issues related to Arthropods: like the
+-Then we spoke of various issues related to Arthropods: like the
 chemical warfare by whip scorpions, bombardier beetles, cockroaches and
 Polyxenid millipedes. All these arthropods are very accurate in
 directing their spray the prey. We wondered about the ant Thaumatomyrmex
 ferox that decimates polyxenid millipedes unlike other ants which are
 repulsed or killed by these millipedes.
+

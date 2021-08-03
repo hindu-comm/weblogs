@@ -1,7 +1,11 @@
 +++
-title = "Pandemic days-6: Genetic riskxa0factors"
+title = "Pandemic days-6: Genetic risk factors"
+date = "2020-10-12"
+upstream_url = "https://manasataramgini.wordpress.com/2020/10/12/pandemic-days-6-genetic-risk-factors/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2020/10/12/pandemic-days-6-genetic-risk-factors/).
+
 The coronavirus that made its way to humans aided by the Cīna-s at Wuhan
 has now been with us for nearly an year. Right from the early days of
 this outbreak, one thing has been notable about this virus: some people
@@ -45,7 +49,7 @@ relative to other mammals. First, black flying foxes have been shown to
 have a higher and potentially constitutive expression of IFN-I genes.
 Second, the Egyptian fruit bats show and expansion of the IFN-I genes,
 especially the subtype IFNW (interferon
-![\\omega](https://s0.wp.com/latex.php?latex=%5Comega&bg=ffffff&fg=333333&s=0&c=20201002 "\omega")).
+![\\omega](https://s0.wp.com/latex.php?latex=%5Comega&bg=ffffff&fg=333333&s=0&c=20201002)).
 These observations, together with the fact that bats have a high level
 of tolerance to SARS-like CoVs (and other viruses) support the idea that
 the type-I IFN system is important in surviving not just SARS-CoV-2 but
@@ -80,7 +84,7 @@ involved in the trafficking of the TLR3 protein from the endoplasmic
 reticulum to endolysosome where it can intercept the endocytosed virus.
 TLR3 additionally has the receptor portion in the form of leucine-rich
 repeats that recognize the invasive virus. TRIF has an
-![\\alpha](https://s0.wp.com/latex.php?latex=%5Calpha&bg=ffffff&fg=333333&s=0&c=20201002 "\alpha")-helical
+![\\alpha](https://s0.wp.com/latex.php?latex=%5Calpha&bg=ffffff&fg=333333&s=0&c=20201002)-helical
 tetratricopeptide repeats that keep its TIR domain inactive till TLR3 is
 activated. At that point, it associates with TLR3’s TIR domain. TRIF
 also has an RHIM motif, a short sequence that allows the protein to form
@@ -92,7 +96,7 @@ platform formed by TRIF. It consequently conjugates Lysine-63 ubiquitins
 to its targets. This signal is transmitted further via the kinase TBK1,
 which associates with NEMO to form a signaling-kinase complex similar to
 the kinase complex that activates the inflammatory transcription factor
-NF![\\kappa](https://s0.wp.com/latex.php?latex=%5Ckappa&bg=ffffff&fg=333333&s=0&c=20201002 "\kappa")B
+NF![\\kappa](https://s0.wp.com/latex.php?latex=%5Ckappa&bg=ffffff&fg=333333&s=0&c=20201002)B
 by phosphorylating its inhibitor IKK. TBK1 in addition to its kinase
 domain has a Ubiquitin-like domain that we had discovered a while back.
 The presence of a ubiquitin-like domain in TBK1 allows it to associate
@@ -159,14 +163,14 @@ dendritic cells and B cells, raising the possibility that impairment of
 these virus-specific TLRs might be part of the increased susceptibility
 to SARS-CoV-2 of males.
 
-[![Wuhan\_susceptibility](https://manasataramgini.files.wordpress.com/2020/10/wuhan_susceptibility.jpg)](https://manasataramgini.files.wordpress.com/2020/10/wuhan_susceptibility.jpg)Figure
+[![Wuhan_susceptibility](https://manasataramgini.files.wordpress.com/2020/10/wuhan_susceptibility.jpg)](https://manasataramgini.files.wordpress.com/2020/10/wuhan_susceptibility.jpg)Figure
 1. The mapping of different forms of the disease on to the 1000 genomes
 populations modified from Zhang and Bastard et al. LOF are the
 loss-of-function variants they identified.
 
 The next study by Zeberg and Pääbo discovered a genomic segment of
 ![\\sim
-50](https://s0.wp.com/latex.php?latex=%5Csim+50&bg=ffffff&fg=333333&s=0&c=20201002 "\sim 50")
+50](https://s0.wp.com/latex.php?latex=%5Csim+50&bg=ffffff&fg=333333&s=0&c=20201002)
 kb that confers an elevated risk of severe disease which is inherited
 from Neanderthals. This region on chromosome 3 kept coming up repeatedly
 in multiple investigations for genetic determinants of disease severity.
@@ -224,7 +228,7 @@ such. Loss or reduced expression of the Duffy receptor favors resistance
 to vivax malaria. But the protein is retained widely in humans
 suggesting some immune function.
 
-[![Neanderthal\_locus](https://manasataramgini.files.wordpress.com/2020/10/neanderthal_locus.jpg)](https://manasataramgini.files.wordpress.com/2020/10/neanderthal_locus.jpg)Figure
+[![Neanderthal_locus](https://manasataramgini.files.wordpress.com/2020/10/neanderthal_locus.jpg)](https://manasataramgini.files.wordpress.com/2020/10/neanderthal_locus.jpg)Figure
 2. Distribution of Neanderthal variant across populations from Zeberg
 and Pääbo .
 
@@ -239,7 +243,7 @@ oligosaccharide synthesized by 4 glycosyltransferases: the two closely
 linked paralogs FUT1 and FUT2 make the base oligosaccharide by adding a
 fucose. This is modified further by the products of the ABO gene, the
 A-variant glycosyltransferase which adds an
-![\\alpha](https://s0.wp.com/latex.php?latex=%5Calpha&bg=ffffff&fg=333333&s=0&c=20201002 "\alpha")
+![\\alpha](https://s0.wp.com/latex.php?latex=%5Calpha&bg=ffffff&fg=333333&s=0&c=20201002)
 1-3-N-acetylgalactosamine and the B-variant glycosyltransferase which
 adds a 1-3-galactose. This oligosaccharide is the conjugated to lipid
 head-groups and proteins (as on the RBC surface) to give rise to the
@@ -272,7 +276,7 @@ unclear.
 
 The Roberts et al study also identified a SNP on chromosome 22 possibly
 associated with the
-![\\lambda](https://s0.wp.com/latex.php?latex=%5Clambda&bg=ffffff&fg=333333&s=0&c=20201002 "\lambda")-immunoglobulin
+![\\lambda](https://s0.wp.com/latex.php?latex=%5Clambda&bg=ffffff&fg=333333&s=0&c=20201002)-immunoglobulin
 locus that codes for the antibody light chains. This is again consistent
 with a defect in antibody production by B-cells. Another SNP identified
 by them lies on chromosome 1 in the vicinity of the IVNS1ABP gene. The

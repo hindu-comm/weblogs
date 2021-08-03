@@ -1,7 +1,11 @@
 +++
 title = "The alien seeks to belong"
+date = "2014-03-28"
+upstream_url = "https://manasataramgini.wordpress.com/2014/03/28/the-alien-seeks-to-belong/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/03/28/the-alien-seeks-to-belong/).
+
 barbarin was born in an indigent brAhmaNa household. They lived just
 beyond a sprawling slum in an area where the Mogols had formerly camped
 during their final struggle with the mahArATTa-s for that city. In his
@@ -67,8 +71,8 @@ bhagabhakShakI from Chicago another day of her guru, the ex-spy from
 Harvard. This was his way of showing his connections to his roots. Those
 in bhArata took his knowledge to be profound and believed him to be a
 genuine arbitrator on the matters of the shAstra. One day some of
-phalgu’s clansmen felt called upon us to discuss these matters with
-him for they felt it might be of mutual interest. In course of this
+phalgu’s clansmen felt called upon us to discuss these matters with him
+for they felt it might be of mutual interest. In course of this
 encounter barbarin went on about: 1) how nobody could say if the bhArata
 or the rAmAyaNa came first, adding that the itihasa-purANa were full of
 baloney that should not be mistaken for reality; 2) How the ritual of
@@ -99,10 +103,10 @@ mlechCha-rAjan’s patnI they felt like mANikkavachakar and his band felt
 in the company of rudra and his shakti. They told their relatives in
 bhArata how all was free and fair in the glorious land of the mlechCha-s
 and expressed sympathetic condolences regarding their putrid lives.
-“There is nothing which is impossible here if you have the ability to
-do it. Merit is what counts” were the words of advice barbarin doled out
-to them, not bothering for a moment to tell them how they could cross
-the immense samudra-s to reach the shores of the mlechCha paradise.
+“There is nothing which is impossible here if you have the ability to do
+it. Merit is what counts” were the words of advice barbarin doled out to
+them, not bothering for a moment to tell them how they could cross the
+immense samudra-s to reach the shores of the mlechCha paradise.
 
 In midst of all of this vicissitudes of existence served up a surprise
 that barbarin had never seen coming. While barbarin thought he was
@@ -148,3 +152,4 @@ realized that the life of a jackal might be rough but that of the blue
 jackal was tragic. However, like the once great rAjarShi of the
 ikShvaku-s all he could do was to remain suspended in the incomplete
 universe of the son of gAthin.
+

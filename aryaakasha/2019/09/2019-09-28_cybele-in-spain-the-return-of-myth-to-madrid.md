@@ -1,8 +1,11 @@
 +++
-title = "Cybele In Spain – The Return of Myth toxa0Madrid"
-date = "September 28, 2019"
+title = "Cybele In Spain – The Return of Myth to Madrid"
+date = "2019-09-28"
+upstream_url = "https://aryaakasha.com/2019/09/28/cybele-in-spain-the-return-of-myth-to-madrid/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/09/28/cybele-in-spain-the-return-of-myth-to-madrid/).
+
 
 
 ![71563899_10162317227005574_7892685916085420032_n](https://aryaakasha.files.wordpress.com/2019/09/71563899_10162317227005574_7892685916085420032_n.jpg?w=676)

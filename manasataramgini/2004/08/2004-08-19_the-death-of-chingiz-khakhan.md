@@ -1,7 +1,11 @@
 +++
 title = "The death of Chingiz Kha’Khan"
+date = "2004-08-19"
+upstream_url = "https://manasataramgini.wordpress.com/2004/08/19/the-death-of-chingiz-khakhan/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/08/19/the-death-of-chingiz-khakhan/).
+
 On the New moon day in August in 1227 AD the greatest of the military
 leaders of all times Chingiz Kha’Khan died. Born Temujin, and elected
 Kha’Khan- the Oceanic or mighty khan in 1206, destroyed in a span of 21
@@ -88,18 +92,18 @@ upper Mongolia. I reproduce below the funeral chant composed by Kiluken
 as they marched which was found on a parchment in a Mongolian monastery:
 
 *“In the times gone thou swept like falcon before us; today a car bears
-thee on as it rumbles; O you my khan\!  
+thee on as it rumbles; O you my khan!  
 Hast you indeed left us, wives and children and the Quriltai of thy
-empire, O you my khan\!  
+empire, O you my khan!  
 Sweeping forward as a golden eagle on its prey did you lead us in
 strife,  
 but now you have stumbled, and are down like a colt broken in its
-charge, O you my khan\!  
+charge, O you my khan!  
 O Lion of the great god Tengri, Boddhisatva on Earth, numerous clans of
 your Mongol nation are wailing for you.  
 The rivers, thy birth land all seem to be waiting for you,  
 your commanders Bogorju and Muqali \[Footnote 1\] are waiting for you. O
-you my Khan\!  
+you my Khan!  
 your standard of Yak tails (sülde), your drums and trumpets and thy
 golden house are waiting for you, O you my Khan.”*
 
@@ -119,3 +123,4 @@ capital to the last man, emperor and all.
 Footnote 1: Bogorju, his childhood friend was killed an year before his
 death during the less-known campaign of 1226 CE against the Tungoosids
 North East of the Baikal lake.
+

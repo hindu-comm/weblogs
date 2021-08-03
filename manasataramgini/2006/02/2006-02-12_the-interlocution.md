@@ -1,7 +1,13 @@
 +++
 title = "The interlocution"
+date = "2006-02-12"
+upstream_url = "https://manasataramgini.wordpress.com/2006/02/12/the-interlocution/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/02/12/the-interlocution/).
+
+
+
 [![](https://i2.wp.com/photos1.blogger.com/blogger/2010/410/320/Pterosaur.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/Pterosaur.jpg)
 
 The might of agni invoked by the mantra of vAmadeva had finally repulsed
@@ -14,7 +20,7 @@ happen between us. We covered a wide range of topics, which I hope to
 re-visit at a later point if the wind of inspiration blows in the
 desirable direction. But for now I put them down just to keep a record.
 
-## First we talked of pterosaurs
+-   First we talked of pterosaurs
 
 Origins of pterosaurs are murky:They contain an antorbital fenestra just
 like the archosauriforms, but lack the mandibular fenestra. Given that
@@ -77,3 +83,4 @@ of the Cretaceous there were only giant Azhdarchids like Quetzalcoatlus.
 Perhaps they were not replacing extinct lineages rapidly due to the
 rapid diversification of birds. I am not sure of this idea at all. I
 suspect sampling error may have a factor here.
+

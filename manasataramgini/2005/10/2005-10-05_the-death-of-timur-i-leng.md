@@ -1,7 +1,11 @@
 +++
 title = "The death of Timur-i-leng"
+date = "2005-10-05"
+upstream_url = "https://manasataramgini.wordpress.com/2005/10/05/the-death-of-timur-i-leng/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/10/05/the-death-of-timur-i-leng/).
+
 This year marks the 600th anniversary of the death of the great Islamic
 hero Timur-i-leng. I had long wanted to prepare a document regarding his
 death, because it led to the most profound inequities of Asia. Many
@@ -51,7 +55,7 @@ decided to lead a Jihad on China and convert its population forcibly to
 Islam. With this intention he started gathering a large army in Utrar.
 To regale the army he ordered a month of continuous celebrations
 beginning in 1405. A huge hunt was organized and the slain animals were
-feasted upon.  It was said that Timur’s men laid down the lances of war
+feasted upon. It was said that Timur’s men laid down the lances of war
 and plied their lances of love on women captured from all around Asia.
 There was also tremendous drinking with the feast and Timur drank
 voluminously. On the 21st day of the celebrations in the midst of the
@@ -72,3 +76,4 @@ reinstatement of Islam, which was at that point being put on the retreat
 in India by the campaigns of Maharana Sanga. This delayed India’s
 recovery from Islamic violence by another 300 years. China escaped and
 was thus the least damaged of all Asian polities.
+

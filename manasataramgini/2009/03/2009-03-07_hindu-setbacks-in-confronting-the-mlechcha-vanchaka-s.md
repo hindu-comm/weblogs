@@ -1,7 +1,11 @@
 +++
 title = "Hindu setbacks in confronting the mlechCha va~nchaka-s"
+date = "2009-03-07"
+upstream_url = "https://manasataramgini.wordpress.com/2009/03/07/hindu-setbacks-in-confronting-the-mlechcha-vanchaka-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/03/07/hindu-setbacks-in-confronting-the-mlechcha-vanchaka-s/).
+
 The news reached us through certain channels that the Hindu-s had met a
 defeat in their attempt to correct biases against them in the textbooks
 of the state of California. While our own life hangs in uncertainty and
@@ -41,3 +45,4 @@ design maintains two versions of its foundational dogma, the secular and
 the overtly pretAchArin variety to befuddle and trap their rivals. Not
 having seen through this trap the Hindu-s fell into right into it and
 were taken apart by the mlechCha-s.
+

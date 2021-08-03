@@ -1,21 +1,26 @@
 +++
 title = "A brief note on prahlAda, hiraNyakashipu and an early nArasiMhAkhyAna"
+date = "2013-07-25"
+upstream_url = "https://manasataramgini.wordpress.com/2013/07/25/a-brief-note-on-prahlada-hiranyakashipu-and-an-early-narasimhakhyana/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/07/25/a-brief-note-on-prahlada-hiranyakashipu-and-an-early-narasimhakhyana/).
+
 The daitya-s prahrAda/prahlAda and virochana are known in the veda
 itself. The killing of prahlAda and his clan by indra in a battle in the
 high heavens is alluded to in more than one post-RV vaidika text. This
 great battle between indra and prahrAda is also alluded to in the epics
 on multiple occasions:  
-jigIShator yudhAnyonyam indra-prahlAdayor iva | (mahAbharata 3.270.12cd)
+jigIShator yudhAnyonyam indra-prahlAdayor iva \| (mahAbharata
+3.270.12cd)
 
 prAhrAda is among the daitya-s killed by indra in the epics consistent
 with the vaidika account:  
-rathenAnena maghavA jitavA\~n shambaraM yudhi |  
-namuchiM vala-vR^itrau cha prahlAda-narakAv api ||  
-bahUni cha sahasrANi prayutAny arbudAni cha |  
-rathenAnena daityAnAM jitavAn maghavAn yudhi || mahAbharata 3.165.18-19
-(“critical”)
+rathenAnena maghavA jitavA\~n shambaraM yudhi \|  
+namuchiM vala-vR^itrau cha prahlAda-narakAv api \|\|  
+bahUni cha sahasrANi prayutAny arbudAni cha \|  
+rathenAnena daityAnAM jitavAn maghavAn yudhi \|\| mahAbharata
+3.165.18-19 (“critical”)
 
 Seated on this car indra conquered shambara in battle. Seated on this
 chariot maghavAn conquered namuchi, vala, vR^itra, prahlAda and naraka
@@ -44,10 +49,10 @@ his defeat along with that of other daitya-s and dAnava-s as an act of
 viShNu, evidently alluding to the famous dAnava-conquering strides of
 viShNu already known in the veda:
 
-AsurIM shriyam AhR^itya trIMl lokAn sa janArdanaH |  
-saputradArAn asurAn pAtAle vinyapAtayat ||  
-namuchiH shambarash chaiva prahlAdash cha mahAmanAH |  
-pAda-pAtAbhi-nirdhUtAH pAtAle vinipAtitAH || (an old vaiShNAva AkhyAna
+AsurIM shriyam AhR^itya trIMl lokAn sa janArdanaH \|  
+saputradArAn asurAn pAtAle vinyapAtayat \|\|  
+namuchiH shambarash chaiva prahlAdash cha mahAmanAH \|  
+pAda-pAtAbhi-nirdhUtAH pAtAle vinipAtitAH \|\| (an old vaiShNAva AkhyAna
 found in certain recensions of the bhArata)
 
 He janArdana having seized the wealth of the asura-s and the three
@@ -58,18 +63,18 @@ under foot and pushed down into the netherworld \[by viShNu\].
 However, the famous father of prahrAda, hiraNyakashipu, is not mentioned
 in the shruti. Nevertheless there are hints that he existed in the
 ancient Indo-Aryan tradition:  
-1\) The early vaMsha-s invariably mention him as a daitya the father of
+1) The early vaMsha-s invariably mention him as a daitya the father of
 prahrAda. E.g. the ancient daitya-sR^iShTi in the mahAbhArata states-
 
-eka eva diteH putro hiraNyakashipuH smR^itaH |  
-nAmnA khyAtAs tu tasyeme putrAH pa\~ncha mahAtmanaH ||  
-prahrAdaH pUrvajas teShAM saMhrAdas tadanantaram |  
-anuhrAdas tR^itIyo .abhUt tasmAch cha shibi-bAShkalau ||  
-prahrAdasya trayaH putrAH khyAtAH sarvatra bhArata |  
-virochanash cha kumbhash cha nikumbhash cheti vishrutAH ||  
-virochanasya putro .abhUd balir ekaH pratApavAn |  
-balesh cha prathitaH putro bANo nAma mahAsuraH || mahAbharata 1.59.17-20
-(“critical”)
+eka eva diteH putro hiraNyakashipuH smR^itaH \|  
+nAmnA khyAtAs tu tasyeme putrAH pa\~ncha mahAtmanaH \|\|  
+prahrAdaH pUrvajas teShAM saMhrAdas tadanantaram \|  
+anuhrAdas tR^itIyo .abhUt tasmAch cha shibi-bAShkalau \|\|  
+prahrAdasya trayaH putrAH khyAtAH sarvatra bhArata \|  
+virochanash cha kumbhash cha nikumbhash cheti vishrutAH \|\|  
+virochanasya putro .abhUd balir ekaH pratApavAn \|  
+balesh cha prathitaH putro bANo nAma mahAsuraH \|\| mahAbharata
+1.59.17-20 (“critical”)
 
 diti bore one son who was known as hiraNyakashipu. The names of his
 fives sons are narrated thus: prahrAda was the first, followed by
@@ -81,7 +86,7 @@ son was know by the name of bANa, the great demon.
 Thus as in the veda the eldest son of prahrAda is described as
 virochana. Further the mahAbharata has the AkhyAna of sunda and
 upasunda, the sons of nikumbha, who are mentioned as being born in the
-clan of hiraNyakashipu (mahAsurasyaanvavAye hiraNyakashipoH purA |).
+clan of hiraNyakashipu (mahAsurasyaanvavAye hiraNyakashipoH purA \|).
 
 2\) In the rAmAyaNa there is an allusion the tale of indra capturing the
 wife of hiraNyakashipu. The paurAnika narratives (e.g. bhAgavata
@@ -106,43 +111,43 @@ exploit is largely attributed to indra). It is clear it is an early
 stuti because the list stops at jambha and does not have the structure
 of the later avatAra lists.  
 The vaiShNavAbhaya-stuti goes thus:  
-tvaM naH sraShTA cha pAtA cha bhartA cha jagataH prabho |  
-tvayA sR^iShTam idaM sarvaM yach che\~NgaM yach cha ne\~Ngati ||  
+tvaM naH sraShTA cha pAtA cha bhartA cha jagataH prabho \|  
+tvayA sR^iShTam idaM sarvaM yach che\~NgaM yach cha ne\~Ngati \|\|  
 O lord, you are the emitter, the sustainer, and the destroyer of
 ourselves and the rest of the universe. It is you who has emitted this
 universe with all that is living and nonliving.
 
-tvayA bhUmiH purA naShTA samudrAt puShkarekShaNa |  
-vArAhaM rUpam AsthAya jagad-arthe samuddhR^itA ||  
+tvayA bhUmiH purA naShTA samudrAt puShkarekShaNa \|  
+vArAhaM rUpam AsthAya jagad-arthe samuddhR^itA \|\|  
 O lotus-eyed one, it was you who had formerly for the benefit of the
 world raised from the sea the lost earth, having assumed the form of a
 boar
 
-Adi-daityo mahAvIryo hiraNyakashipus tvayA |  
-nArasiMhaM vapuH kR^itvA sUditaH puruShottama ||  
+Adi-daityo mahAvIryo hiraNyakashipus tvayA \|  
+nArasiMhaM vapuH kR^itvA sUditaH puruShottama \|\|  
 O foremost puruSha, assuming the form of the man-lion, you had slain
 hiraNyakashipu of mighty valor, the first of the daitya-s.
 
-avadhyaH sarvabhUtAnAM balish chApi mahAsuraH |  
-vAmanaM vapur Ashritya trailokyAd bhraMshitas tvayA ||  
+avadhyaH sarvabhUtAnAM balish chApi mahAsuraH \|  
+vAmanaM vapur Ashritya trailokyAd bhraMshitas tvayA \|\|  
 The great asura bali was indeed incapable of being slain by any one.
 Taking the form of a dwarf, you banished him from the triple-world.
 
-asurash cha maheShvAso jambha ity abhivishrutaH |  
-yaj\~nakShobhakaraH krUras tvayaiva vinipAtitaH ||  
+asurash cha maheShvAso jambha ity abhivishrutaH \|  
+yaj\~nakShobhakaraH krUras tvayaiva vinipAtitaH \|\|  
 The asura jambha, was renowned as a great archer. This disturber of
 rituals was indeed felled by you.
 
 evam AdIni karmANi yeShAM saMkhyA na vidyate  
-asmAkaM bhaya-bhItAnAM tvaM gatir madhusUdana || Mbh 3.100.18-23
+asmAkaM bhaya-bhItAnAM tvaM gatir madhusUdana \|\| Mbh 3.100.18-23
 (“Critical”)  
 Former achievements of yours such as these cannot be counted. O slayer
 of madhu, you are the refuge for us afflicted by fear.
 
 In the droNa parvan the pA\~nchAla hero dR^iShTadyumna advancing against
 droNa is described thus:  
-tasya rUpaM babhau rAjan bhAradvAjaM jighAMsataH |  
-yathA rUpaM paraM viShNor hiraNyakashipor vadhe || Mbh 7.164.146
+tasya rUpaM babhau rAjan bhAradvAjaM jighAMsataH \|  
+yathA rUpaM paraM viShNor hiraNyakashipor vadhe \|\| Mbh 7.164.146
 (“Critical”)  
 The form, O king (dhr^itarAShTra), of his ( dR^iShTadyumna) when he
 sought to slay the bharadvAja hero was like the ancient form of viShNu
@@ -151,8 +156,8 @@ during the killing of hiraNyakashipu.
 Again dR^iShTadyumna is compared to nR^isiMha in course of a fiery
 speech to arjuna when the latter was expressing deep concern over
 fighting ashvathAman:  
-tataH pA\~nchAlarAjasya putraH pArtham athAbravIt |  
-saMkruddham iva nardantaM hiraNyakashipuM hariH || Mbh 7.168.21
+tataH pA\~nchAlarAjasya putraH pArtham athAbravIt \|  
+saMkruddham iva nardantaM hiraNyakashipuM hariH \|\| Mbh 7.168.21
 (“Critical”)  
 Then the son of the pA\~nchala king, said to arjuna the following, like
 the lion (i.e. viShNu) to the furious and enraged hiraNyakashipu.
@@ -160,15 +165,15 @@ the lion (i.e. viShNu) to the furious and enraged hiraNyakashipu.
 kR^iShNa tells yudhiShThira that he should kill duryodhana with the
 appropriate plots or clever plans. As an example he says hiraNyAkSha and
 hiraNyakashipu were both killed by plots or plans:  
-kriyAbhy upAyaiH pUrvaM hi hiraNyAkSho mahAsuraH |  
-hiraNyakashipush chaiva kriyayaiva niShUditau || Mbh 9.30.9
+kriyAbhy upAyaiH pUrvaM hi hiraNyAkSho mahAsuraH \|  
+hiraNyakashipush chaiva kriyayaiva niShUditau \|\| Mbh 9.30.9
 (“Critical”)  
 The great asura hiraNyAkSha, as also hiraNyakashipu, were both slain by
 plots and clever plans.
 
 In the early pA\~ncharAtrika account in the shAntiparvan we see:  
-nArasiMhaM vapuH kR^itvA hiraNyakashipuM punaH |  
-surakArye haniShyAmi yaj\~naghnaM diti-nandanam || Mbh 12.326.73
+nArasiMhaM vapuH kR^itvA hiraNyakashipuM punaH \|  
+surakArye haniShyAmi yaj\~naghnaM diti-nandanam \|\| Mbh 12.326.73
 (“Critical”)  
 viShNu said: Again having taken the form of the man-lion I will slay for
 the sake of the gods the yaj\~na-destroying hiraNyakashipu.
@@ -182,10 +187,10 @@ down-sizing indra and rudra. This text mentions that hiraNyakashipu
 originally had vasiShTha as his hotR^i. He dismissed vasiShTha and
 appointed his nephew trishiras tvAShTra as his hotR^i. Furious vasiShTha
 cursed him:  
-hairaNyagarbhAch cha vasiShThAd dhiraNyakashipuH shApaM prAptavAn |
+hairaNyagarbhAch cha vasiShThAd dhiraNyakashipuH shApaM prAptavAn \|
 yasmAt tvayAnyo vR^ito hotA tasmAd asamApta yaj\~nas tvam apUrvAt
-sattvajAtAd vadhaM prApsyasIti | tach ChApadAnAd dhiraNyakashipuH
-prAptavAn vadham | (Mbh 12,329.19-20)  
+sattvajAtAd vadhaM prApsyasIti \| tach ChApadAnAd dhiraNyakashipuH
+prAptavAn vadham \| (Mbh 12,329.19-20)  
 hirANyakashipu received a curse from vasiShTha the son of hiraNyagarbha.
 Since another person was chose as the hotR^i by you, your ritual will be
 incomplete and you will attain death at the from being the like of which
@@ -308,16 +313,16 @@ tricks bali into giving him the three pace of land; Growing gigantic he
 covers the whole universe and conquers it on behalf of indra.*
 
 The nR^isiMha narrative of this text goes thus:  
-narasya kR^itvArdha-tanuM siMhasyArdha-tanuM prabhuH |  
-daityendrasya sabhAM gatvA pANiM saMspR^ishya pANinA ||  
-daityAnAm Adi-puruShaH surArir diti-nandanaH |  
-dR^iShTvA chApUrva-vapuShaM krodhAt saMrakta-lochanaH ||  
-shUlodyata-karaH sragvI hiraNyakashipus tadA |  
-megha-stanita-nirghoSho nIlAbhra-chaya-saMnibhaH ||  
-devArir ditijo vIro nR^isiMhaM samupAdravat |  
-samupetya tatas tIkShNair mR^igendreNa balIyasA ||  
-nArasiMhena vapuShA dAritaH karajair bhR^isham |  
-evaM nihatya bhagavAn daityendraM ripu-ghAtinam ||
+narasya kR^itvArdha-tanuM siMhasyArdha-tanuM prabhuH \|  
+daityendrasya sabhAM gatvA pANiM saMspR^ishya pANinA \|\|  
+daityAnAm Adi-puruShaH surArir diti-nandanaH \|  
+dR^iShTvA chApUrva-vapuShaM krodhAt saMrakta-lochanaH \|\|  
+shUlodyata-karaH sragvI hiraNyakashipus tadA \|  
+megha-stanita-nirghoSho nIlAbhra-chaya-saMnibhaH \|\|  
+devArir ditijo vIro nR^isiMhaM samupAdravat \|  
+samupetya tatas tIkShNair mR^igendreNa balIyasA \|\|  
+nArasiMhena vapuShA dAritaH karajair bhR^isham \|  
+evaM nihatya bhagavAn daityendraM ripu-ghAtinam \|\|
 
 Having assumed a body of half man and half lion the lord \[viShNu\]
 having gone to the assembly hall of the the lord of the daitya-s touched
@@ -342,4 +347,5 @@ narrative the *[convergence between rudra and
 nR^isiMha](https://manasataramgini.wordpress.com/2012/02/02/notes-on-vaishnava-shaiva-and-kaumara-sectarian-competition-in-the-purana-s/)*
 had already emerged.
 
-OM nArasiMha-vapuShe shrImate namaH ||
+OM nArasiMha-vapuShe shrImate namaH \|\|
+

@@ -1,7 +1,14 @@
 +++
 title = "ChinnamastA"
+date = "2005-04-17"
+upstream_url = "https://manasataramgini.wordpress.com/2005/04/17/chinnamasta/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/04/17/chinnamasta/).
+
+The below has some errors and is superseded by this
+[PDF](https://manasataramgini.files.wordpress.com/2005/04/chinnamasta-1.pdf)
+
 OM ChinnamastA mahAvidyA mahAbhImA mahodarI /  
 chaNDeshvarI chaNDa-mAtA chaNDa-muNDa-prabha\~njinI // 4 //
 
@@ -145,3 +152,4 @@ paThanti ye bhakti-yutA narottamA bhavenna teShAM ripubhiH parAjayaH //
 Of greatest standing is this strotra O pretty-faced beloved, ever
 medidated by the learned, those who with devotion read this text become
 the foremost of men and with that conquer their enemies.
+

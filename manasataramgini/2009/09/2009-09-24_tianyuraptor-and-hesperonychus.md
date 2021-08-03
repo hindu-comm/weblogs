@@ -1,7 +1,11 @@
 +++
 title = "Tianyuraptor, Hesperonychus and Anchiornis"
+date = "2009-09-24"
+upstream_url = "https://manasataramgini.wordpress.com/2009/09/24/tianyuraptor-and-hesperonychus/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/09/24/tianyuraptor-and-hesperonychus/).
+
 [![Anchiornis](https://i2.wp.com/farm4.static.flickr.com/3446/3954522095_97049f64fa.jpg)](http://www.flickr.com/photos/24766652@N05/3954522095/ "Anchiornis by somasushma, on Flickr")  
 *Anchiornis*
 
@@ -151,7 +155,7 @@ initially selected for something else — could be moving branches in an
 ancestrally arboreal lifestyle (e.g. the Hoatzin chicks) or a predatory
 mechanism that is yet poorly understood, or incline running.
 
-[![anchiornis\_recon](https://i0.wp.com/farm4.static.flickr.com/3509/3955623627_c89fc52bce_o.jpg)](http://www.flickr.com/photos/24766652@N05/3955623627/ "anchiornis_recon by somasushma, on Flickr")  
+[![anchiornis_recon](https://i0.wp.com/farm4.static.flickr.com/3509/3955623627_c89fc52bce_o.jpg)](http://www.flickr.com/photos/24766652@N05/3955623627/ "anchiornis_recon by somasushma, on Flickr")  
 Artist’s reconstruction of *Anchiornis* by Zhao Chuang/Xing Lida
 
 A historical aside: Among all these exciting dinosaurian finds probably
@@ -167,3 +171,4 @@ were not dinosaurs. Thus he reversed the pioneering conclusion of Huxley
 that birds were dinosaurs. All this is history now and we perhaps
 understand the origin of birds inside theropoda with considerable
 clarity.
+

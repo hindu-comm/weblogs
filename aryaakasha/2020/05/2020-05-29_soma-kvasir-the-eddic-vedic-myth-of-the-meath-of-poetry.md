@@ -1,8 +1,11 @@
 +++
-title = "Soma Kvasir – The Eddic-Vedic Myth Of The Meath ofxa0Poetry"
-date = "May 29, 2020"
+title = "Soma Kvasir – The Eddic-Vedic Myth Of The Meath of Poetry"
+date = "2020-05-29"
+upstream_url = "https://aryaakasha.com/2020/05/29/soma-kvasir-the-eddic-vedic-myth-of-the-meath-of-poetry/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/05/29/soma-kvasir-the-eddic-vedic-myth-of-the-meath-of-poetry/).
+
 
 
 ![](https://aryaakasha.files.wordpress.com/2020/05/64784_1507106762900775_2841739811495470066_n.jpg)

@@ -1,7 +1,11 @@
 +++
 title = "Some thoughts on Shridhar Ketkar and other Hindu responders to Abrahamism in the past two centuries"
+date = "2015-07-16"
+upstream_url = "https://manasataramgini.wordpress.com/2015/07/16/some-thoughts-on-shridhar-ketkar-and-other-hindu-responders-to-abrahamism-in-the-past-two-centuries/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/07/16/some-thoughts-on-shridhar-ketkar-and-other-hindu-responders-to-abrahamism-in-the-past-two-centuries/).
+
 [A version of this article was published originally at India
 Facts](http://indiafacts.co.in/historical-hindu-responses-abrahamism/)
 
@@ -337,9 +341,9 @@ survival. Whether Hindus would succeed in this regard remains rather
 uncertain due to various operational issues. Finally, like in any
 pathogen-host or prey-predator system the Hindus are locked in an arms
 race with these pathogenic memes. The party not innovating new
-“weaponry” or evolving “resistance” to keep up in such a struggle
-will eventually become extinct. Hence, just a demographic edge may not
-be sufficient in the long run. Thus, even within India the vision of
+“weaponry” or evolving “resistance” to keep up in such a struggle will
+eventually become extinct. Hence, just a demographic edge may not be
+sufficient in the long run. Thus, even within India the vision of
 attenuating and absorbing the Abrahamistic cults will remain
 unattainable, unless the sanātana dharma re-acquires its aggressive
 sword-arm. However, this “weaponry” or “resistance” is not just physical
@@ -382,3 +386,4 @@ By neo-vedānta I mean the teaching of vedānta principles to non-Hindus
 outside the traditional set up of the Vedic education or the monastic
 education by maṭha-s (e.g. those founded by Śaṃkara, Rāmānuja and
 Madhava among others).
+

@@ -1,7 +1,11 @@
 +++
 title = "The snake of viShNu"
+date = "2004-12-06"
+upstream_url = "https://manasataramgini.wordpress.com/2004/12/06/the-snake-of-vishnu/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/12/06/the-snake-of-vishnu/).
+
 Upon the great snake shesha sleeps the great god viShNu, even as the the
 kalpa wears out. He stirs only when the waters rise and threaten to sink
 the world plane. This shesha is time and hence he is called ananta.
@@ -70,3 +74,4 @@ stretching from punarvasu in the hazy past to bharaNi-ashvayuja in the
 late vedic period. In face of this it is certain that those Indologists
 who doubt the antiquity of the Vedic texts are afflicted by an incurable
 mental ailment.
+

@@ -1,8 +1,11 @@
 +++
-title = "The Doom That Never Dies – On The Judgement Of Thexa0Dead"
-date = "June 3, 2020"
+title = "The Doom That Never Dies – On The Judgement Of The Dead"
+date = "2020-06-03"
+upstream_url = "https://aryaakasha.com/2020/06/03/the-doom-that-never-dies-on-the-judgement-of-the-dead/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/06/03/the-doom-that-never-dies-on-the-judgement-of-the-dead/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/06/800px-mack-ludwig-die-unterwelt-mitte_orig.jpg?w=800)
 
 Deyr fé, deyja frændr,  

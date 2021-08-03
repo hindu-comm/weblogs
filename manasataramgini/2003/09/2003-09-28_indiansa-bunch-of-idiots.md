@@ -1,7 +1,11 @@
 +++
 title = "Indians:a bunch of idiots?"
+date = "2003-09-28"
+upstream_url = "https://manasataramgini.wordpress.com/2003/09/28/indiansa-bunch-of-idiots/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/09/28/indiansa-bunch-of-idiots/).
+
 A gentleman called Pingree and his lackey called Plofker would like us
 to believe that the Indians were a bunch of idiots till the benign rule
 of the white man brought them to light. In essence what they tell us by
@@ -9,7 +13,6 @@ means of writing several prolix papers and using sophisticated jargon is
 the same as what Mr. Macaulay briskly delivered in his minute. “The vast
 accumulations of Indian literature is worth less than a shelf of books
 in a good European library.”  
-
 Why is this the case? The learned Pingree tells us that till Alexander’s
 invasion circa 300-400 BC the Indians did not even recognize the planets
 in the sky. The around the 200 AD the Indians with liberal help from the
@@ -31,3 +34,4 @@ It is a necessary and important aspect of sub-altern studies that one
 study the stupidity of Indians with sympathy and write reams about it
 rather than flippantly tossing it into the trashcan as Ol’ sir
 Blabberington had done more than a century ago.
+

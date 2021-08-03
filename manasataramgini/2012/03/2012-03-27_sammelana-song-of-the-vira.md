@@ -1,7 +1,11 @@
 +++
 title = "saMmelana song of the vIra"
+date = "2012-03-27"
+upstream_url = "https://manasataramgini.wordpress.com/2012/03/27/sammelana-song-of-the-vira/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/03/27/sammelana-song-of-the-vira/).
+
 It was the saMmelana of the holders of the kapAla  
 in the great shmashAna of kollagiri, in quest of mahAnaya.  
 We were reclined in the haze of the pyres;  
@@ -25,3 +29,4 @@ Verily he who succeeds in joining kphreM with rblUM;
 meditating on her slaying raktabIja dons the armor of huM.  
 Thus, he may step for battle, fearless, to fight bhrAtR^ivya-s,  
 intending to offer them in the great saMgrAma as nara-balI-s.
+

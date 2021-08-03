@@ -1,7 +1,11 @@
 +++
 title = "Is dhattUra really mentioned in the arthashAstra?"
+date = "2009-01-26"
+upstream_url = "https://manasataramgini.wordpress.com/2009/01/26/is-dhattura-really-mentioned-in-the-arthashastra/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/01/26/is-dhattura-really-mentioned-in-the-arthashastra/).
+
 In the recent past people have generally believed that the arthashAstra
 represents one of the earliest mentions of dhattUra (*Datura metel*)
 that is believed to be of pre-Columbian New World origin. Is the mention
@@ -44,3 +48,4 @@ psychoactive substance used by the vedic muni psychonauts. In the RV
 AV-paippalAda 5.17.3 where the word unmatta is used in connection with
 the muni), but in light of the above there are serious doubts if it is
 dhattUra as otherwise assumed.
+

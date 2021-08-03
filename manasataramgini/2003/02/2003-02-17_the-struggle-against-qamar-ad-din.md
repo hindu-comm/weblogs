@@ -1,7 +1,11 @@
 +++
 title = "The struggle against Qamar-ad-din."
+date = "2003-02-17"
+upstream_url = "https://manasataramgini.wordpress.com/2003/02/17/the-struggle-against-qamar-ad-din/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/02/17/the-struggle-against-qamar-ad-din/).
+
 The heartland of the Chagadai khanate- Mogholistan lay in the land
 bounded by the Ili River that drains into the Balkhash lake in the north
 and the many branched Tarim river that drains into the Lob Nor lake. On
@@ -124,3 +128,4 @@ on the fort and savagely bombarded battlements. The embattled
 inhabitants gave up and handed over the Chinese to Iskander who had them
 roasted to death. The victorious prince returned to Samarqand after
 ravaging the fort of Andizhan.
+

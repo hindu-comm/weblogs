@@ -1,7 +1,11 @@
 +++
 title = "The third enslavement?"
+date = "2009-10-21"
+upstream_url = "https://manasataramgini.wordpress.com/2009/10/21/the-third-enslavement/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/10/21/the-third-enslavement/).
+
 The coming of the marUnmatta-s resulted in our first loss of freedom.
 The leukotestate indologists and their xanthotestate fellow travelers
 from the eastern fringe of the world told us that it was no enslavement
@@ -42,3 +46,4 @@ the mlechCha-s, their pretAchArin proxies or some regional opportunist
 like the chIna-s or the marUnmatta-s. Even the woman, who in the Kazakh
 entertainment unties the horse knot with her teeth, might feel safer
 than this forsaken woman called bhAratI.
+

@@ -1,7 +1,11 @@
 +++
 title = "The doctor and the speech at the right-wing think-tank"
+date = "2015-02-25"
+upstream_url = "https://manasataramgini.wordpress.com/2015/02/25/the-doctor-and-the-speech-at-the-right-wing-think-tank/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/02/25/the-doctor-and-the-speech-at-the-right-wing-think-tank/).
+
 It was a late Friday afternoon and Vidrum had returned home early from
 the hospital. He spent some time in his garden making a ball from the
 paste of rain-tree pods, a messy but immensely meditative activity,
@@ -31,10 +35,10 @@ contemplation on inner objects.”
 Soon he heard his bell ring and he went to the door to let in his
 visitors, Vrishchika and Indrasena. Even as they came in, Vidrum asked
 Vrishchika: “Where you able to figure out what was the deal with that
-patient \#49?” Vrishchika: “Bad news, he died couple of hours ago. The
+patient #49?” Vrishchika: “Bad news, he died couple of hours ago. The
 autopsy has been arranged and we will know more soon but the preliminary
-indications are that it was *Nocardia*.” Vidrum: “What? *Nocardia*\!”
-Vrishchika: “Indeed\! We should have called that out earlier: It was a
+indications are that it was *Nocardia*.” Vidrum: “What? *Nocardia*!”
+Vrishchika: “Indeed! We should have called that out earlier: It was a
 pretty gruesome end for the guy.” Indrasena was by now accustomed to his
 wife’s propensity for lapsing into talking morbidity whenever she was
 with her father or ran into others of her ilk. He had gone through it
@@ -46,9 +50,9 @@ be a mahāvratin but today he did not hold back and said: “Hopefully you
 guys won’t continue this over dinner.” Vrishchika putting her hand
 around Indrasena’s shoulder: “No, then we will talk of something
 interesting to you, that gargantuan wonder of a protein from
-*Nocardia*\!” Indrasena chuckled – “Ah that one” – and realizing that
-all this talk probably had a cathartic effect on his wife left her to it
-and silently picked up a magazine that lay on Vidrum’s coffee table.
+*Nocardia*!” Indrasena chuckled – “Ah that one” – and realizing that all
+this talk probably had a cathartic effect on his wife left her to it and
+silently picked up a magazine that lay on Vidrum’s coffee table.
 
 The magazine went by the name “Svatantratā” and was produced by the
 federation of right-wing think-tanks. As he leafed through it an article
@@ -110,7 +114,7 @@ potential to have had an IQ of around 140 and look at this. These
 alleles associated with his olfactory receptors suggest he would have
 been of a conservative type in his political leanings.”  
 Vrishchika: “Look at his skull – he seems to have suffered a massive
-trauma to his parietal lobe\!”  
+trauma to his parietal lobe!”  
 Vidrum: “Yes, it appears his head was struck by a sword. We also noted
 the sectioning of one of his cervicals by the same instrument. Ain’t
 that sort of odd – this skeleton is of relatively recent provenance –
@@ -155,10 +159,10 @@ beautiful woman appeared before him. She was not anyone whom he had ever
 seen in wakeful life. Nor had anyone like her ever manifested in a dream
 nor in hypnogogia before. She had long flowing black tresses in dense
 masses like the great bee-hive on the vast ashvattha tree near the
-pāṣaṇḍa-gṛha. Her eyes had a sparkle to them like heads of the
-asterism of the Twins. Her body was slim and shapely and wonderfully
-sculpted with breasts like the vessels that lustrate viṣṇupatnī. But she
-had upward pointed ears like that of a shepherd dog. valśa was even more
+pāṣaṇḍa-gṛha. Her eyes had a sparkle to them like heads of the asterism
+of the Twins. Her body was slim and shapely and wonderfully sculpted
+with breasts like the vessels that lustrate viṣṇupatnī. But she had
+upward pointed ears like that of a shepherd dog. valśa was even more
 surprised when he heard her speak – it was in the gīrvāṇa bhāṣā. valśa
 realized that in this tongue even the mundane sounded poetic. She
 introduced herself: “aham asmi pāṣupatānāṃ pātāla-rudrasya gahvare vāsā
@@ -168,9 +172,9 @@ he wondered if she was a yakṣiṇī or a piśācī or perhaps a shape-shifting
 rākṣasī. Neither her name nor her form was like any yakṣiṇī or apsaras
 he had encountered before. Finally she directed him: “śayāyā uttiṣṭha,
 etasmin caṣake saṃnihitaṃ rasaṃ piba, mama aṅgulyā mandaṃ cumba, mama
-upānahau gāḍhaṃ gṛhṇa\! tvayā saha akāśe uḍḍayiṣyamy ahaṃ hā hā\! paśya
-paśya\! prakṛtes sarvānāṃ niyamānāṃ ati-laṅghanaṃ kariṣyāmi । mama
-patham na jñātuṃ śaknoṣi ।”
+upānahau gāḍhaṃ gṛhṇa! tvayā saha akāśe uḍḍayiṣyamy ahaṃ hā hā! paśya
+paśya! prakṛtes sarvānāṃ niyamānāṃ ati-laṅghanaṃ kariṣyāmi । mama patham
+na jñātuṃ śaknoṣi ।”
 
 She flew carrying valśa at a dizzying pace. Finally they landed in a
 place that looked strangely familiar to valśa; yet he was unable to
@@ -220,7 +224,7 @@ using cloth spun by the Gandhian wheel. If it is made using any other
 material then the person is liable to be interred in a jail for 3 years
 \[Pointing to this sentence kukkuravati laughed and tapped valśa on his
 shoulder. valśa wondered if that was the real fate that awaited him for
-having flown a paper flag on some national day\! saṃpadā saw no one but
+having flown a paper flag on some national day! saṃpadā saw no one but
 heard the laugh of a woman. She wondered “who that could be? May be it
 is my mind saying all this is so funny”\]. A real Indian flag is only to
 be made in the state of Karṇāṭaka. People have to stand erect and sing
@@ -232,7 +236,7 @@ had forgotten the guy’s name. So he made it up: If there could be a
 Gandhi of the frontier in Afghanistan, why could we not have yet another
 Gandhi in Andhra. So let us call him the Andhra Gandhi\]. At first B.G.
 Tilak had suggested a saffron flag with the picture of gaṇeśa. Aurobindo
-and Vankimchandra wanted the image to be that of a fierce Kālī with an
+and Vankimchandra wanted the image to be that of a fierce Kālīwith an
 upraised scimitar. Some other Hindu leaders wanted a cow on it. But the
 secularists wanted none of this. Eventually a flag was made to
 incorporate Gandhi’s wheel, a sign that the technology invented in the
@@ -260,23 +264,23 @@ they floated down from the realm of the great, pitiless vāyu who was
 praised in the days of yore by abhipratāriṇa kākṣasenī in the same
 lands. In their minds they were thinking that each one of them,
 supposedly tall, fair, ram-gulping central Asian warriors, were capable
-of slaughtering at least ten short, dark, taṇḍulāmbu sipping hīndūka-s
+ofslaughtering at least ten short, dark, taṇḍulāmbu sipping hīndūka-s
 in one go. But they were in for a rude surprise. Upon landing, the mere
 NCCs aided by local farmers armed with just daṇḍa-s and curikā-s made
 short work of the vaunted warriors of the old mahāmado marusaṃbhavaḥ and
 sent to them to meet their legendary 72 girls and 28 boys. Then the NCC
 leader said they were going to hoist the national flag and in a ritual
 imitating the ways of the English during their occupation of the country
-shouted: “Raising pole\! By order of height\! Eee-rect\!” Then the
+shouted: “Raising pole! By order of height! Eee-rect!” Then the
 tricolored dhvaja went up even as the cadets stood taut and serenaded it
 with the anthem composed by the vaṅga poet ravīndra. But the mahāmada
 was already blazing with anger of the tale of the rout of his
 coreligionists that the leader had narrated and instead muttered the cry
 asserting ekarākṣasatvaṃ and AoA. The bewitching kukkuravati made his
-mind readable as print on paper and saying “paśya valśa\! vastuto
-rāṣṭrīya dhvajasyocchrayeṇa asya marūnmattasya dhvajabhaṅga āsīt
-|”, she gave a canine bark. mahāmada wondered; “what is that noise of
-a dirty cur; may all of them be killed. Truly, those infidels praising
+mind readable as print on paper and saying “paśya valśa! vastuto
+rāṣṭrīya dhvajasyocchrayeṇa asya marūnmattasya dhvajabhaṅga āsīt \|”,
+she gave a canine bark. mahāmada wondered; “what is that noise of a
+dirty cur; may all of them be killed. Truly, those infidels praising
 their flag sounded like one”. With that he came out of his reverie and
 realized he had to write something about the flag.\]
 
@@ -314,7 +318,7 @@ ancient roots like none other.
 
 kukkuravati howled like a bitch and said: “sa dṛḍho rāṣṭra-uttambhī kiṃ
 tu tasya pāṇau śuṣmi śastraṃ nāsti । etataḥ kāraṇāt sa vaṅga-deśīyānāṃ
-hindūkānāṃ samūha iva mṛtyum āpsyati | valśa wondered what that meant
+hindūkānāṃ samūha iva mṛtyum āpsyati \| valśa wondered what that meant
 but he did not have to wait long to find out.
 
 School was over; hari and satya walked towards their home via a forested
@@ -339,8 +343,8 @@ Luckily for him, he was soon sighted and rescued by a forest ranger. The
 aghomada and his friends quickly ran to the tank of the vināyaka temple
 that lay just beyond the forest patch, washed their swords, and made
 away. valśa was shaken by what he saw. kukkuravati said to him:
-“triśūla-saṃkhyā-mānuṣa-yugānantaraṃ kṛṣṇa-śilā-nāma-nagare
-so’ghomadas tava jīvane luṇṭhanāya veṣṭā । ”
+“triśūla-saṃkhyā-mānuṣa-yugānantaraṃ kṛṣṇa-śilā-nāma-nagare so’ghomadas
+tava jīvane luṇṭhanāya veṣṭā । ”
 
 With a violent jolt Vidrum snapped out of his possession yelling: “I am
 Vidrum not valśa”.
@@ -351,14 +355,14 @@ Vidrum: “That aghomada looked familiar. Who was he?”
 Indrasena: “Did you not read that Svatantrā magazine on your table?”  
 Vidrum: “Why? It just came in today and am yet to look at it in
 detail.”  
-Indrasena: “Certainly do so\!”  
+Indrasena: “Certainly do so!”  
 Vrishchika: “Vidrum, thank you for the wonderful dinner and we are sorry
 you were hit by much more than you asked for. But this might help you
 bring some things to a closure.”  
 Indrasena: “Yes, it may be rough but don’t worry we will be there for
 you. Thank you indeed for the great evening. I think we better be going
 – though our kid won’t mind spending all night with his cousins, I am
-sure they are causing Somakhya and Lootika a lot a of trouble\!”
+sure they are causing Somakhya and Lootika a lot a of trouble!”
 
 **◊◊◊◊**
 
@@ -368,7 +372,7 @@ other actinobacteria. They were taking a break in the writing when
 Lootika checking the news remarked: “Vrishchika, it appears like you
 will be seeing your colleague Dr. Ahmed al-Zaman again.”  
 Vrishchika: “What? How could that be I thought he was all set to play
-out a long innings behind the bars\!”  
+out a long innings behind the bars!”  
 Indrasena: “I am sure Vidrum would be disappointed to hear that.”  
 Somakhya: “Not just that; Vidrum’s life itself is in danger if the
 senior surgeon were to return to our city, which he well might.”  
@@ -398,7 +402,7 @@ Vrishchika: “Indeed – Vidrum had not believed that al-Zaman was behind
 the murder of his friend. But piqued by his experience, he went back to
 the records and found that the police commissioner at that time was śrī
 Kurmure, whom you might might vaguely remember as being big on Hindu
-terror.” Lootika: “Ha\! He was the guy who called the PPA a
+terror.” Lootika: “Ha! He was the guy who called the PPA a
 character-building organization, which will be the beacon of secularism
 in the nation.”
 
@@ -433,9 +437,9 @@ mekhalā that day.”
 Indrasena: “Remember the regular articles in the newspapers and that
 Svatantratā journal decrying Dr. al-Zaman’s arrest as an appalling
 failure of justice and deliberate targeting of minorities?”  
-Vrishchika: “Not only that, while in jail, he was awarded the Edmond
-Glympton Global Initiative prize and the mleccha physicians’ council
-prize for his selfless service.”  
+Vrishchika: “Not only that,while in jail, he was awarded the Edmond
+Glympton Global Initiative prizeand the mleccha physicians’ council
+prizefor his selfless service.”  
 Lootika: “Listen to this.” She then read from the news item: “In passing
 his judgment overturning the high court conviction the Chief Justice
 Mashanand Kukroo said that by arresting a blameless surgeon with a
@@ -532,8 +536,8 @@ Since I would rather not relive Hypatia’s experience, I would like to
 suggest to you all that instead of delicately measuring our position on
 the left-right spectrum we start preparations to strike first and strike
 hard against our foes. This is what our tradition says – when the
-ātatāyin has come before us it is incumbent on us to dispatch him for
-an appointment with Citragupta.
+ātatāyin has come before us it is incumbent on us to dispatch him for an
+appointment with Citragupta.
 
 indro viśvasya rājatoṃ ।  
 ::::::::::::::::::::::::  
@@ -549,3 +553,4 @@ generations of Bhṛgu-s had built upon. It was those vidyā-s that
 Somakhya and transmitted to Indrasena in the mysterious shrine housing
 Mahādeva, Kubera, Skanda and Viśākha. Now he was a siddha in them like
 the legendary Naravāhanadatta.
+

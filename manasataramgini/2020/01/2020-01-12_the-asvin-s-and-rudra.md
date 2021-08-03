@@ -1,7 +1,11 @@
 +++
 title = "The Aśvin-s and Rudra"
+date = "2020-01-12"
+upstream_url = "https://manasataramgini.wordpress.com/2020/01/12/the-asvin-s-and-rudra/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2020/01/12/the-asvin-s-and-rudra/).
+
 The twin Aśvin-s and Rudra are both Indo-Aryan reflexes of two
 deity-classes which can be reconstructed as likely being present in the
 Proto-Indo-European religion. Both are likely to have even deeper roots
@@ -16,28 +20,28 @@ his co-occurrences by this metric.
 
 ***Table 1. The association of various Devatā-s with Rudra in the RV***
 
-| **Devatā** | **\#** |
-| :--------- | -----: |
-| Marut-s    |     21 |
-| Vasu-s     |     18 |
-| Āditya-s   |     13 |
-| Agni       |     10 |
-| Ṛbhu-s     |      7 |
-| Indra      |      6 |
-| Aśvin-s    |      6 |
-| Soma       |      6 |
-| Varuṇa     |      5 |
-| Mitra      |      5 |
-| Bhaga      |      5 |
-| Puṣaṇ      |      4 |
-| Viṣṇu      |      3 |
-| Bṛhaspati  |      2 |
-| Sarasvatī  |      2 |
-| Tvaṣṭṛ     |      2 |
-| Aryaman    |      1 |
-| Savitṛ     |      1 |
-| Aditi      |      1 |
-| Vāyu       |      1 |
+| **Devatā** | **#** |
+|:-----------|------:|
+| Marut-s    |    21 |
+| Vasu-s     |    18 |
+| Āditya-s   |    13 |
+| Agni       |    10 |
+| Ṛbhu-s     |     7 |
+| Indra      |     6 |
+| Aśvin-s    |     6 |
+| Soma       |     6 |
+| Varuṇa     |     5 |
+| Mitra      |     5 |
+| Bhaga      |     5 |
+| Puṣaṇ      |     4 |
+| Viṣṇu      |     3 |
+| Bṛhaspati  |     2 |
+| Sarasvatī  |     2 |
+| Tvaṣṭṛ     |     2 |
+| Aryaman    |     1 |
+| Savitṛ     |     1 |
+| Aditi      |     1 |
+| Vāyu       |     1 |
 
 Not surprisingly, he is most closely associated with his sons the
 Marut-s who are often referred to as the plurality of Rudra-s. The other
@@ -51,9 +55,9 @@ said to be the Rudra-s: RV 8.7.12). That said a closer look reveals a
 deeper link between Rudra and the Aśvin-s.
 
 uta tyā me raudrāv arcimantā  
-nāsatyāv indra gūrtaye yajadhyai |  
+nāsatyāv indra gūrtaye yajadhyai \|  
 manuṣvad vṛktabarhiṣe rarāṇā  
-mandū hitaprayasā vikṣu yajyū || RV 10.61.15
+mandū hitaprayasā vikṣu yajyū \|\| RV 10.61.15
 
 Also these two sons of Rudra, the Nāsatya-s \[worshiped\] with ṛk-s, are
 to be welcomed and made offerings by me, O Indra. The two who are
@@ -78,9 +82,9 @@ son-s or Rudra. Indeed, we encounter another such example elsewhere in
 the RV:
 
 tāv id doṣā tā uṣasi śubhas  
-patī tā yāman rudravartanī |  
+patī tā yāman rudravartanī \|  
 mā no martāya ripave vājinī-  
-vasū paro rudrāv ati khyatam || RV 8.22.14
+vasū paro rudrāv ati khyatam \|\| RV 8.22.14
 
 Just these two in the evening, these two auspicious lords at dawn, the
 two who follow the tracks of Rudra in the course. Don’t look over and
@@ -96,25 +100,25 @@ x+vartani compounds are usually interpreted as bahuvrīhi-s. Below we
 list all the instances of such compounds in the RV along with the gods
 they denote and the number of occurrences of each case:
 
-  - **Rudravartani**
-      - Aśvin-s, 4
-  - **Hiraṇyavartani**
-      - Aśvin-s, 6
-      - Sarasvatī, 1
-      - river goddess, 1
-  - **Raghuvartani**
-      - Aśvin-s, 1
-      - Soma, 1
-  - **Ghṛtavartani**
-      - Aśvin-s, 1
-  - **Vṛjinvartani**
-      - Agni, 1
-  - **Kṛṣṇavartani**
-      - Agni, 1
-  - **Gāyatravartani**
-      - Indrāgnī, 1
-  - **Dvivartani**
-      - Agni, 1
+-   **Rudravartani**
+    -   Aśvin-s, 4
+-   **Hiraṇyavartani**
+    -   Aśvin-s, 6
+    -   Sarasvatī, 1
+    -   river goddess, 1
+-   **Raghuvartani**
+    -   Aśvin-s, 1
+    -   Soma, 1
+-   **Ghṛtavartani**
+    -   Aśvin-s, 1
+-   **Vṛjinvartani**
+    -   Agni, 1
+-   **Kṛṣṇavartani**
+    -   Agni, 1
+-   **Gāyatravartani**
+    -   Indrāgnī, 1
+-   **Dvivartani**
+    -   Agni, 1
 
 It is immediately apparent that this class of compounds are special
 descriptors of the Aśvin-s for 12 of the 19 occurrences of them are used
@@ -167,16 +171,16 @@ Notably, this link to Rudra is further strengthened by another instance
 where they are called both Rudra-s and Hiraṇyavartanī:
 
 ā no ratnāni bibhratāv  
-aśvinā gacchataṃ yuvam |  
+aśvinā gacchataṃ yuvam \|  
 rudrā hiraṇyavartanī  
 juṣāṇā vājinīvasū  
-mādhvī mama śrutaṃ havam || RV 5.75.3  
+mādhvī mama śrutaṃ havam \|\| RV 5.75.3  
 Bearing treasures to us, Aśvins, come here, you two, O Rudra-s with
 golden wheels, with booty-bearing mares, being pleased, the holders of
 the honey-lore, hear my invocation.
 
 We believe there are many dimensions to this connection:  
-1\) The ancient name of the Aśvin-s is Divo Napatā. The twin sons of
+1) The ancient name of the Aśvin-s is Divo Napatā. The twin sons of
 Dyaus. This is an equivalent of the name of their Greek cognates the
 Dioskouroi (the national deities of the Spartans), meaning the youths of
 Zeus (the cognate of Dyaus; Skt Divaḥ Kumārau) or their Lithuanian
@@ -187,12 +191,12 @@ tvam agne rudro asuro maho divaḥ (RV 2.1.6)
 You, O Agni, are Rudra the Asura of heaven (Dyaus)
 
 yathā rudrasya sūnavo divo  
-vaśanty asurasya vedhasaḥ | (RV 8.20.17)  
+vaśanty asurasya vedhasaḥ \| (RV 8.20.17)  
 It shall be \[just\] as they wish, the sons of Rudra, the Asura of
 heaven (Dyaus) are the wise ones.
 
 And like in this case too:  
-indrota tubhyaṃ tad dive tad rudrāya svayaśase | (RV 1.129.3)  
+indrota tubhyaṃ tad dive tad rudrāya svayaśase \| (RV 1.129.3)  
 Indra, this is for you and that heaven (Dyaus), for that self-glorious
 Rudra.
 
@@ -220,13 +224,14 @@ Rudra also persist in the ādhvaryava tradition preserved in the
 Yajurveda-s but the twinning is less prominent relative the AV
 tradition. Notably, in the celebrated Mṛgāreṣṭi ritual the AV tradition
 features a sūkta to the twin Bhavā-Śarvā whereas in its place the KYV
-tradition has ṛk-s to the Aśvin-s. Notably, in the incantations for the
-Śūlagava ox sacrifice laid out in the Śāṅkhāyana-śrautasūtra
-(4.20.1-2), Bhavā-Śarvā are called the sons of Mahādeva.
+tradition has ṛk-s to the Aśvin-s. Further, in the incantations for the
+Śūlagava ox sacrifice laid out in the Śāṅkhāyana-śrautasūtra (4.20.1-2),
+Bhavā-Śarvā are called the sons of Mahādeva.
 
 tasya te dhanur hṛdayam mana iṣavaś cakṣur visargas tam tvā tathā veda
-namas te astu somas tvā avatu mā mā hiṃsīḥ | yāv araṇye patayantau vṛkau
-jambavantau iva | mahādevasya putrābhyām bhava-śarvābhyām namaḥ ||
+namas te astu somas tvā avatu mā mā hiṃsīḥ \| yāv araṇye patayantau
+vṛkau jambavantau iva \| mahādevasya putrābhyām bhava-śarvābhyām namaḥ
+\|\|
 
 The heart is your bow, the mind is your arrow, the eye is your shooting.
 Thus we know you. Obeisance to you. May Soma protect him and may you
@@ -258,25 +263,40 @@ emerged via developments in the form of the Kaumāra tradition emerging
 in the Indo-Iranian borderlands. There we see the dual form of the god
 Kumāra as Skanda-Viśākha. This dyad is earliest attested in the
 Atharvavedīya-Skanda-yāga from the AV-pariśiṣṭha-s and has a prolonged
-presence in the Hindu tradition. The grammarian Patañjali mentions metal
+presence in the Hindu tradition. We find an allusion to this in a simile
+used in the Mahābhārata when Kṛṣṇa describes the twins, Nakula and
+Sahadeva, to his brother Halāyudha:
+
+yau tau kumārāv iva kārttikeyau  
+dvāv aśvineyāv iti me pratarkaḥ \|  
+muktā hi tasmāj jatuveśmadāhān  
+mayā śrutāḥ pāṇḍusutāḥ pṛthā ca \|\| (Mbh “critical” 1.180.21)  
+The two who are youths, like twin Kārttikeya-s,  
+are the sons of the two Aśvin-s; so I infer.  
+It has been heard by me that the sons of Pāṇḍu and Pṛthā  
+have indeed escaped from the burning of the wax-house.
+
+Here the sons of the Aśvin-s (their earthly manifestations) are
+explicitly connected to the twin Kārttikeya-s — an allusion to the twin
+deities, Skanda and Viśakha. The grammarian Patañjali mentions metal
 images of Rudra along with the Skanda-Viśākha dyad in the Mauryan age
 (\~322-185 BCE). The persistence of this tradition is illustrated by a
 much later attestation of this dyad, evidently drawn from a now lost
 early tradition, seen in the Kālikā-purāṇa with a predominantly East
 Indian locus:
 
-dahano ‘pi tathā kāle prāpte gaṅgodare svayam |  
-retaḥ saṅkrāmayāmāsa śāṃbhavaṃ svarṇa-sannibham ||  
+dahano ‘pi tathā kāle prāpte gaṅgodare svayam \|  
+retaḥ saṅkrāmayāmāsa śāṃbhavaṃ svarṇa-sannibham \|\|  
 Agni himself, in due course of time, transmitted the semen of Rudra,
 which shone like gold, to the womb of Gaṅgā.
 
-sā tena retasā devī sarva-lakṣaṇa-saṃyutaṃ |  
-pūrṇa-kāle ‘tha suṣuve putra-yugmaṃ manoharam ||  
+sā tena retasā devī sarva-lakṣaṇa-saṃyutaṃ \|  
+pūrṇa-kāle ‘tha suṣuve putra-yugmaṃ manoharam \|\|  
 Then by that semen the goddess, upon completion of pregnancy, gave birth
 to charming twin sons endowed with all \[good\] features.
 
-ekaḥ skando viśākhākhyo dvitīyaś cāru-rūpa-dhṛk |  
-śakti-dvaya-dharau dvau tau tejaḥ kānti-vivardhitau|| KP 46.82-84  
+ekaḥ skando viśākhākhyo dvitīyaś cāru-rūpa-dhṛk \|  
+śakti-dvaya-dharau dvau tau tejaḥ kānti-vivardhitau\|\| KP 46.82-84  
 The first was Skanda and the second bearing a beautiful form was known
 as Viśākha. The two held a spear each and two shone with their radiance.
 
@@ -287,8 +307,8 @@ beauty is specifically described much like that of the Aśvin-s in Vedic
 tradition. Further, the Kālikā-purāṇa recommends the worship of this
 dual Kaumāra form for the ṣaṣṭhī night:
 
-rātrau skanda-viśākhasya kṛtvā piṣṭa-putrikām |  
-pujayec chatrunāśāya durgāyāḥ prīyate tathā || KP 60.50  
+rātrau skanda-viśākhasya kṛtvā piṣṭa-putrikām \|  
+pujayec chatrunāśāya durgāyāḥ prīyate tathā \|\| KP 60.50  
 In the night having made images of Skanda and Viśākha from flour one
 should worship them for the destruction of enemies and for pleasing
 Durgā.
@@ -311,25 +331,25 @@ that resembles the divine twins is Gemini, which was recognized as the
 Dioscuri in the Greek tradition. While it was termed the constellation
 of Aditi, the ārya-s too recognized the dual nature of the asterism
 Punarvasu made up two stars Castor and Pollux — it is occasionally used
-in dual like: punarvasū nakṣatram aditir devatā ||. Early on we see the
-recognition of the twin nature in the statement that Aditi is two-headed
-in the Yajurveda (Taittirīya Saṃhitā in 1.2.4; Śatapatha Brāhmaṇa
-3.2.4.16). Ironically, Pāṇini reinforces the dual nature with the sūtra:
-chandasi punarvasvor ekavacanam || PAA 1.2.61. In the Veda Punarvasu
-might be \[optionally take a\] singular declension. The grammarians
-clarify that this is limited to the Veda while in common speech it is
-always dual indicating its twin nature. The only direct allusion to the
-asterism in RV (along with Revati) appears to be in RV 10.19.1 (by our
-ancestor Cyavāna), which associates it with Agni and Soma in a cryptic
-hymn whose actual meaning has been hard to discern. However, a potential
-connection is seen in RV 10.39.11 where the Aśvin-s are called
-Rudravartanī and explicitly linked Aditi — pairing that is otherwise
-rather unusual:
+in dual like: punarvasū nakṣatram aditir devatā \|\|. Early on we see
+the recognition of the twin nature in the statement that Aditi is
+two-headed in the Yajurveda (Taittirīya Saṃhitā in 1.2.4; Śatapatha
+Brāhmaṇa 3.2.4.16). Ironically, Pāṇini reinforces the dual nature with
+the sūtra: chandasi punarvasvor ekavacanam \|\| PAA 1.2.61. In the Veda
+Punarvasu might be \[optionally take a\] singular declension. The
+grammarians clarify that this is limited to the Veda while in common
+speech it is always dual indicating its twin nature. The only direct
+allusion to the asterism in RV (along with Revati) appears to be in RV
+10.19.1 (by our ancestor Cyavāna), which associates it with Agni and
+Soma in a cryptic hymn whose actual meaning has been hard to discern.
+However, a potential connection is seen in RV 10.39.11 where the Aśvin-s
+are called Rudravartanī and explicitly linked Aditi — pairing that is
+otherwise rather unusual:
 
 na taṃ rājānāv adite kutaś cana  
-nāṃho aśnoti duritaṃ nakir bhayam |  
+nāṃho aśnoti duritaṃ nakir bhayam \|  
 yam aśvinā suhavā rudravartanī  
-purorathaṃ kṛṇuthaḥ patnyā saha || RV 10.39.11  
+purorathaṃ kṛṇuthaḥ patnyā saha \|\| RV 10.39.11  
 From nowhere troubles nor evil nor fear reach him, along with his wife,
 for whom you two kings and Aditi prepare a chariot to be in the
 forefront. O Aśvins, you who are easy to invoke, follow the track of
@@ -340,3 +360,4 @@ thereby the asterism of Punarvasu. Now, Punarvasu rises after the
 constellation of Rudra, i.e. Ārdra (corresponding to Sirius and the
 proximal bright stars of Canis Major). Thus, we can see the twins
 literally following the track of Rudra in the sky.
+

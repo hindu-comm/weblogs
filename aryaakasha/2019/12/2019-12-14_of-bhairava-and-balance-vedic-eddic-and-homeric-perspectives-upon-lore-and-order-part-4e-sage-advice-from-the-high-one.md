@@ -1,8 +1,11 @@
 +++
-title = "OF BHAIRAVA AND BALANCE, Vedic, Eddic, and Homeric perspectives upon Lore and Order [Part 4E] Sage Advice From The Highxa0One"
-date = "December 14, 2019"
+title = "OF BHAIRAVA AND BALANCE, Vedic, Eddic, and Homeric perspectives upon Lore and Order [Part 4E] Sage Advice From The High One"
+date = "2019-12-14"
+upstream_url = "https://aryaakasha.com/2019/12/14/of-bhairava-and-balance-vedic-eddic-and-homeric-perspectives-upon-lore-and-order-part-4e-sage-advice-from-the-high-one/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/12/14/of-bhairava-and-balance-vedic-eddic-and-homeric-perspectives-upon-lore-and-order-part-4e-sage-advice-from-the-high-one/).
+
 ![](https://aryaakasha.files.wordpress.com/2019/12/78998089_10162661749985574_2454206589960192000_n.jpg?w=610)
 
 The first being, as noted above, the strong soundness of seeking ‘sage

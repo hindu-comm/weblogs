@@ -1,7 +1,11 @@
 +++
 title = "Fierce battling"
+date = "2008-05-12"
+upstream_url = "https://manasataramgini.wordpress.com/2008/05/12/fierce-battling/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/05/12/fierce-battling/).
+
 Fourier’s men surrendered to the amAtya and sachiva. The second one of
 Fourier confirmed that the back-hurl performed by MM on behalf of PM
 (before he himself was taken out) had found it is mark. The blow was so
@@ -64,3 +68,4 @@ battlefield and pointed to a secret means that would allow a second
 deployment of the shAkhAyana tantra prayoga. Though shaken we returned
 to the battlefield to face the grAhin with the substance of rudra and
 viShNu.
+

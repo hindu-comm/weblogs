@@ -1,7 +1,11 @@
 +++
 title = "Remembering Emperor Julian"
+date = "2014-06-27"
+upstream_url = "https://manasataramgini.wordpress.com/2014/06/27/remembering-emperor-julian/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/06/27/remembering-emperor-julian/).
+
 On 26th June 363 CE the [great philosopher-emperor
 Julian](https://manasataramgini.wordpress.com/2006/07/27/emperor-julian/ "Emperor Julian")
 died from a wound that was inflicted in all likelihood by a Christian
@@ -78,7 +82,8 @@ enemies of the immortal gods. Therefore persuade them, if they claim my
 patronage, that the whole community must become suppliants of the Mother
 of the Gods.*”
 
-## Notes  
+::::::::::::::::::::::::::::::::::::::  
+**Notes**  
 ● Adrasteia: The Loeb translation says that Adrasteia is Nemesis.
 However, it should be noted that in the account of the birth of the
 great god Zeus Adrasteia is also termed Themis. The epithet is also used
@@ -146,3 +151,4 @@ Julian. When will we hear the words: “**The Indian state cannot cherish
 or pity anyone who goes against the deva-dharma.**” With this in mind
 one cannot but have a sinking feeling that the Hindus are following the
 footsteps of the Hellenes.
+

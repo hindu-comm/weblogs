@@ -1,7 +1,11 @@
 +++
 title = "A page from the chIna-Tibet encounter"
+date = "2012-03-12"
+upstream_url = "https://manasataramgini.wordpress.com/2012/03/12/a-page-from-the-china-tibet-encounter/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/03/12/a-page-from-the-china-tibet-encounter/).
+
 A wordy exchange between a chIna general and a Tibetan minister during
 the height of the great Tibetan-Chinese contest in the Kokonor region in
 the late 600s of the common era. The chIna-s were always conscious of
@@ -74,3 +78,4 @@ Chinese Graveyard. But within three years of this defeat the chIna-s
 were able politically dismantle the Tibetan might by launching a
 subversion movement in their capital which destroyed Khri-‘brin by
 turning the emperor of Tibet against him.
+

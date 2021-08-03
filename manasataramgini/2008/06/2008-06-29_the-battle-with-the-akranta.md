@@ -1,7 +1,11 @@
 +++
 title = "The battle with the AkrAnta"
+date = "2008-06-29"
+upstream_url = "https://manasataramgini.wordpress.com/2008/06/29/the-battle-with-the-akranta/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/06/29/the-battle-with-the-akranta/).
+
 The ari-s had always wished evil to befall us and tried a dreadful
 prayoga that unleashed the grAhin on us. We were tormented by the grAhin
 even as we headed to the rudhira-sIma. But we invoked skanda to come to
@@ -21,3 +25,4 @@ the aid of Jx we reached the temple of kArttikeya and duly propitiated
 the fierce god. In the coming few days we expect the full-fledged clash
 with the AtatAyin developing even as the amAtya and sachiva are retreat
 to kantapura amongst the AngalIka-s.
+

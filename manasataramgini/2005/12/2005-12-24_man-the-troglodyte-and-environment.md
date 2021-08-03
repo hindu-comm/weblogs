@@ -1,11 +1,15 @@
 +++
 title = "Man, the Troglodyte and environment"
+date = "2005-12-24"
+upstream_url = "https://manasataramgini.wordpress.com/2005/12/24/man-the-troglodyte-and-environment/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/12/24/man-the-troglodyte-and-environment/).
+
 Jared Diamond, a socialist American scientist wrote a book termed the
-“Third chimpanzee”. Here he highlighted the similarities between us
-and our cousins of the genus Pan, and the explosive spread of Homo in
-the recent past. There have been some recent works that allow us to
+“Third chimpanzee”. Here he highlighted the similarities between us and
+our cousins of the genus Pan, and the explosive spread of Homo in the
+recent past. There have been some recent works that allow us to
 exquisitely understand the transition from the ancestral condition,
 still recapitulated in many ways by the troglodytes and the gorillas to
 the derived condition seen in Homo. Homo is in many ways different from
@@ -86,3 +90,4 @@ populations. Interestingly, the olfactory receptor diversification
 suggests that there may be populations differences literally in the way
 we smell things. This stark realization of human inequality make us
 understand many things that otherwise mystify the PC social scientist.
+

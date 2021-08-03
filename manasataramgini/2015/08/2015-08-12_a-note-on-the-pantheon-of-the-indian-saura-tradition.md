@@ -1,7 +1,11 @@
 +++
 title = "A note on the pantheon of the Indian Saura tradition"
+date = "2015-08-12"
+upstream_url = "https://manasataramgini.wordpress.com/2015/08/12/a-note-on-the-pantheon-of-the-indian-saura-tradition/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/08/12/a-note-on-the-pantheon-of-the-indian-saura-tradition/).
+
 The Indian Saura-mata (or the Hindu sect of the Sun) is an amalgam of
 two distinct layers \[Footnote 1\]: 1) The endogenous layer of solar
 deities going back to the Veda and 2) the neo-morphic layer of Iranic
@@ -29,8 +33,8 @@ Saura-mata:
 
 In the most ancient layers of the Veda six (or perhaps seven) of them
 are named together as a group:  
-imā gira ādityebhyo ghṛtasnūḥ sanād rājabhyo juhvā juhomi |  
-śṛṇotu mitro aryamā bhago nas tuvijāto varuṇo dakṣo aṃśaḥ ||RV 2.27.01
+imā gira ādityebhyo ghṛtasnūḥ sanād rājabhyo juhvā juhomi \|  
+śṛṇotu mitro aryamā bhago nas tuvijāto varuṇo dakṣo aṃśaḥ \|\|RV 2.27.01
 
 imās= these \[feminine accusative plural\]; gira= invocations \[feminine
 accusative plural\]; ādityebhyo= for the Āditya-s; ghṛtasnūḥ= dripping
@@ -46,22 +50,22 @@ juhū standing for the tongue that composes the said invocation. 2) While
 a plurality of Āditya-s are named the imperative class-5 verb śṛṇotu is
 in the singular. Sāyaṇa explains that it implies that each one of the
 Āditya-s starting from Mitra are called to hear the invocation \[as per
-Sāyaṇa: naḥ śṛṇotu -\> asmadīyāstā giro mitrādayaḥ pratyekaṃ śṛṇotu\] –
+Sāyaṇa: naḥ śṛṇotu -> asmadīyāstā giro mitrādayaḥ pratyekaṃ śṛṇotu\] –
 it should be noted in this context that they are not named as a compound
 or with an enclitic ‘ca’ but simply as a list. 3) While the names of the
 6 Āditya-s are plain in this mantra, the word tuvijātaḥ is traditionally
 taken as an adjective for Varuṇa. Indeed, it is a fairly common
 adjective in the Ṛgveda for Mitra and Varuṇa, and more generally the
-Āditya-s as also for Indra, Bṛhaspati and Agni. Sāyaṇa explains the
-word as one who widely manifests his favor to many nations. Going
-against the grain we suggest that it is possible that tuvijātaḥ here is
-another Āditya, i.e. Vivasvān.
+Āditya-s as also for Indra, Bṛhaspati and Agni. Sāyaṇa explains the word
+as one who widely manifests his favor to many nations. Going against the
+grain we suggest that it is possible that tuvijātaḥ here is another
+Āditya, i.e. Vivasvān.
 
 Hence we have:  
 With the juhū ladle \[which is my tongue\], I perpetually offer to the
 royal Āditya-s these ghee-dripping invocations. May each one of them,
 Mitra, Aryaman, Bhaga, the one with widely manifesting favor \[or
-Vivasvān\], Varuṇa, Dakṣa and Aṃśa, hear us\!
+Vivasvān\], Varuṇa, Dakṣa and Aṃśa, hear us!
 
 The reason why the list of 7 is a possibility is because elsewhere in
 the Ṛgveda the number of Āditya-s is stated as 8 (RV 10.72), with 7
@@ -80,9 +84,9 @@ Dhātṛ, Aṃśu and Indra.
 In the late Vedic period we also have statements that give the number of
 Āditya-s is given as 12:
 
-sa manasaiva vācam mithunaṃ samabhavat | sa dvādaśa drapsān garbhy
-abhavat | te dvādaśādityā asṛjyanta | tān divy upādadhāt || Śatapatha
-Brāḥmaṇa 6.1.2.8  
+sa manasaiva vācam mithunaṃ samabhavat \| sa dvādaśa drapsān garbhy
+abhavat \| te dvādaśādityā asṛjyanta \| tān divy upādadhāt \|\|
+Śatapatha Brāḥmaṇa 6.1.2.8  
 By his mind he \[god Prajāpati\] came into copulation with speech; he
 became pregnant with twelve drops; they were emitted as 12 Āditya-s; he
 placed them in the sky.
@@ -91,11 +95,11 @@ By the epic period the 12 Āditya-s are specifically named as Mitra,
 Varuṇa, Aryaman, Bhaga, Vivasvān, Dhātṛ\[or Dakṣa\], Aṃśa, Puṣan,
 Savitṛ, Tvaṣṭṛ, Indra and Viṣṇu.  
 e.g. the Mahābhārata has:  
-adityāṃ dvādaśādityāḥ saṃbhūtā bhuvaneśvarāḥ |  
-ye rājan nāmatas tāṃs te kīrtayiṣyāmi bhārata ||  
-dhātā mitro ‘ryamā śakro varuṇaś cāṃśa eva ca |  
-bhago vivasvān pūṣā ca savitā daśamas tathā ||  
-ekādaśas tathā tvaṣṭā viṣṇur dvādaśa ucyate | 1.59.14-16a (“Critical”)
+adityāṃ dvādaśādityāḥ saṃbhūtā bhuvaneśvarāḥ \|  
+ye rājan nāmatas tāṃs te kīrtayiṣyāmi bhārata \|\|  
+dhātā mitro ‘ryamā śakro varuṇaś cāṃśa eva ca \|  
+bhago vivasvān pūṣā ca savitā daśamas tathā \|\|  
+ekādaśas tathā tvaṣṭā viṣṇur dvādaśa ucyate \| 1.59.14-16a (“Critical”)
 
 From Aditi were generated 12 Āditya-s, the lords of the universe, whose
 names, O king, I shall narrate:  
@@ -109,8 +113,8 @@ short count of male deities, i.e. 33 \[Footnote 2\], which is seen in
 both the Veda and the Itihāsa-s, in a straight-forward way. For example
 the Rāmāyaṇa has:
 
-adityāṃ jajñire devās trayastriṃśad ariṃdama |  
-ādityā vasavo rudrā aśvinau ca paraṃtapa || 3.13.14c-15a (“critical
+adityāṃ jajñire devās trayastriṃśad ariṃdama \|  
+ādityā vasavo rudrā aśvinau ca paraṃtapa \|\| 3.13.14c-15a (“critical
 edition”)  
 From Aditi were born the 33 deva-s, O foe-crusher (i.e. Rāma): the
 Āditya-s (12), the Vasu-s (8), the Rudrā-s (11) and the twin Aśvin-s
@@ -120,15 +124,15 @@ One may note that the same counts as above for the Āditya, Vasu-s and
 Rudrā categories are given in the Śatapatha Brāḥmaṇa 6.1.2.6-8.
 Regarding these categories and the total count, in the Ṛgveda we have:
 
-tvam agne vasūṃr iha rudrāṃ ādityāṃ uta |  
-yajā svadhvaraṃ janam manujātaṃ ghṛtapruṣam ||  
-śruṣṭīvāno hi dāśuṣe devā agne vicetasaḥ |  
-tān rohidaśva girvaṇas trayastriṃśatam ā vaha || RV 1.45.1-2  
+tvam agne vasūṃr iha rudrāṃ ādityāṃ uta \|  
+yajā svadhvaraṃ janam manujātaṃ ghṛtapruṣam \|\|  
+śruṣṭīvāno hi dāśuṣe devā agne vicetasaḥ \|  
+tān rohidaśva girvaṇas trayastriṃśatam ā vaha \|\| RV 1.45.1-2  
 You O Agni offer ritual here to the Vasu-s, the Rudra-s and also the
 Āditya-s \[on behalf\] of the people who are Manu’s descendants, who
 perform proper rituals and pour the offering of ghee.  
 O Agni and the gods, wise ones, do hear the worshiper: O you with a
-red-horse, delighting in Vedic chants, bring those 33 gods\!
+red-horse, delighting in Vedic chants, bring those 33 gods!
 
 Thus, we find both the categories (Ādityas, Rudra-s, Vasu-s, and also
 Aśvin-s), and the total number 33 to be an ancient one. Indeed this
@@ -163,7 +167,7 @@ trinity: Dyaus, who is the old Indo-European father figure in the Vasu
 category, reemerges as the father-deity Brahman; Śiva is the exemplar of
 the Rudra category; Viṣṇu the epitome of the Āditya category. In this
 regard the Mahābhārata has: “jaghanyajaḥ sa sarveṣām ādityānāṃ
-guṇādhikaḥ ||” 1.59.16cd (“Critical”) i.e. He \[Viṣṇu\], who is the
+guṇādhikaḥ \|\|” 1.59.16cd (“Critical”) i.e. He \[Viṣṇu\], who is the
 last-born (of the Āditya-s) is the most endowed of all of them. This
 marks the rise of Viṣṇu to the preeminent status in that category.
 
@@ -257,8 +261,8 @@ founding father of all the Magacārya-s \[Indianized Magi\]. The gotra he
 founded was hence termed the Mihira gotra. They are distinguished by the
 sacred girdle called the avyaṅga \[Avestan: Aiwyanghana, i.e. Parsi
 kusti\] that they wear around their waist. Sāmba there upon requested
-Kṛṣṇa to send him Garuḍa and flying on the latter’s back he landed
-in Śakadvīpa. He collected the magācārya-s, brought them back to Bhārata
+Kṛṣṇa to send him Garuḍa and flying on the latter’s back he landed in
+Śakadvīpa. He collected the magācārya-s, brought them back to Bhārata
 and installed them as priests of his Sūrya temple.
 
 **Piṅgala:** On the proper right of the god is a deity with a pen and
@@ -287,7 +291,7 @@ ancient common origin, as supported by two diagnostic iconographic
 features. The first is found in the Sraoša yasht of the Avesta:
 
 sraoshahe ashyehe taxmahe tanu-mãthrahe darshi-draosh âhûiryehe  
-xshnaothra ýasnâica vahmâica xshnaothrâica frasastayaêca ||  
+xshnaothra ýasnâica vahmâica xshnaothrâica frasastayaêca \|\|  
 To the embodiment of universal law, the mighty Sraoša,  
 whose body is made of mantra-s, the mighty-speared and lordly god,  
 be propitiating ýasna offering, recitation, propitiation, and praise.
@@ -300,7 +304,7 @@ Fargard 18.
 In Fargard 18.23 we have:  
 âat hô sraoshô ashyô aom merekhem frakhrârayeiti parô-darsh nãma spitama
 zarathushtra ýim mashyâka avi duzhvacanghô kahrkatâs nãma aojaite, âat
-hô merekhô vâcim baraiti upa ushånghem ýãm sûrãm |  
+hô merekhô vâcim baraiti upa ushånghem ýãm sûrãm \|  
 And then the universal-law embodied Sraoša awakens his rooster named
 Parodarsh, O Zarathushtra of the Spitama clan, which ill-speaking people
 call Kahrkatas, and the rooster lifts up his voice against the mighty
@@ -367,3 +371,4 @@ ruler Ayalisha (Azilises) in India. We also have an inscription of an
 Iranian general in the Kadamba army who records worshiping Skanda in
 South India and then building a temple for Skanda in Gandhara upon his
 return.
+

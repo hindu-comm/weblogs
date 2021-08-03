@@ -1,7 +1,11 @@
 +++
 title = "Socio-genetic stratification of India"
+date = "2005-12-20"
+upstream_url = "https://manasataramgini.wordpress.com/2005/12/20/socio-genetic-stratification-of-india/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/12/20/socio-genetic-stratification-of-india/).
+
 [![](https://i1.wp.com/photos1.blogger.com/blogger/2010/410/320/caste.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/caste.png)A
 recent paper by Sengupta et al in AJHG caused much excitement in some
 circles, because it was seen by some as providing evidence that the
@@ -20,21 +24,21 @@ Santhal, Muria, Kammar etc=l). One thing that strikes you is that there
 are clear frequency differences of Haplogroups that demarcate these
 social strata (As was earlier suggested by Cordaux et al).
 
-\-The R1a1, R2, J2a G2 (G2-P15) are clearly high in upper caste, and
+-The R1a1, R2, J2a G2 (G2-P15) are clearly high in upper caste, and
 decline in middle-lower castes and almost vanish in the lower castes.
 
-\-The O2a, H1, F\* and H2 haplogroups are predominantly seen in the
+-The O2a, H1, F\* and H2 haplogroups are predominantly seen in the
 mainland tribal population and decline in the middle-lower castes and
 are low or almost absent in upper castes.
 
-\-Not shown in this diagram is the O3e marker that is predominantly seen
+-Not shown in this diagram is the O3e marker that is predominantly seen
 in the Tibeto-Burman speaking eastern tribals (who also have some O2a),
 and nearly absent elsewhere. The median joining analysis of the O2a
 haplogroup shows that they are two distinct clusters, one with greater
 diversity including the Austro-asiatic and Dravidian tribals and the
 second the lower diversity one including the Tibeto-Burman tribals.
 
-\-Interestingly J2b2 (first properly defined in the Sengupta study), L1
+-Interestingly J2b2 (first properly defined in the Sengupta study), L1
 and H are dominant in the middle-low strata and decline in both the
 upper and tribal groups.
 
@@ -133,3 +137,4 @@ its main center was the Tamil country. This expansion possibly also bore
 with it the H1 marker, further driving it up the caste hierarchy. We
 suspect that the Tamil upper castes absorbed native priests as kurukals
 and the like that resulted in the influx of L1 into their ranks.
+

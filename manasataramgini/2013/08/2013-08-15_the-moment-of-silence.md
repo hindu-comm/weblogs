@@ -1,7 +1,11 @@
 +++
 title = "The moment of silence"
+date = "2013-08-15"
+upstream_url = "https://manasataramgini.wordpress.com/2013/08/15/the-moment-of-silence/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/08/15/the-moment-of-silence/).
+
 In the days long past, when we were still young, we did not like the
 15th Aug holiday very much – it was not really a full holiday for we had
 to attend school for a few hours of faux patriotism. One of the actions
@@ -19,12 +23,12 @@ then the Greeks, then the Romans, and all other pagans.” Ekanetra most
 blithely said: “Perhaps not in my case too. I thought it was for the
 Germans and the Japanese, for without them we would not be looking at
 that dhvajArohaNa.”. Mis-creant: “Hey, hey, you are not supposed to say
-such things\!” Ekanetra: “Come on, it is alright, we are in India after
-all\!” Suddenly something switched on within Blackie’s calvaria.
+such things!” Ekanetra: “Come on, it is alright, we are in India after
+all!” Suddenly something switched on within Blackie’s calvaria.
 Referring to a mahArAShTrI social reactionary going by the grandiose
 name of loka-hita-vAdin he said: “After all we were supposed to get
 freedom only 200 years after 1857 CE.” Ekanetra: “Well even that seems
-soon given that the accursed Churchill said it was going to be 500\!”
+soon given that the accursed Churchill said it was going to be 500!”
 
 \~oO0Oo\~
 
@@ -33,8 +37,8 @@ than us, Mis-creant, and UrNakesha (who was more American than the
 Americans years before he set foot on krau\~nchadvIpa) were the
 listeners. We must confess that we did not understand all of it until
 sometime later Ekanetra remarked: “Russia was an euphemism in the
-story”. Regarding that narrative sometime later R remarked: “Had I
-been like the other girls and not done some reading myself I would have
+story”. Regarding that narrative sometime later R remarked: “Had I been
+like the other girls and not done some reading myself I would have
 forgotten all of that. I became Indian finally but with a tinge of
 sorrow that still lingers.”
 
@@ -130,14 +134,14 @@ brAhmaNa who had dropped his goat.
 
 Even as the knaves to the foolish brAhmaNa, the mlechCha-s had called
 out to us: “Hey Hindu why are you marching with that gun on your
-shoulder. Good apes do not march with guns but with bananas\!” He called
+shoulder. Good apes do not march with guns but with bananas!” He called
 out again through a different interlocutor: “Hey where are you going
 with that gun. It really looks awful on you. Drop it, pick up that
 spinning wheel, and do a little Gandhi with a smart white Congress cap
 on your head”. Seeing us still marching he called again via yet another
 interlocutor: “That Hindutva style of yours looks awful. Throw away that
 gun and do a little dance to that racy Bollywood tune.” By then we
-thought: “Hey we must be really uncool\!” Dropping the gun and also the
+thought: “Hey we must be really uncool!” Dropping the gun and also the
 ammunition belt we ran to do a little jig celebrating our coming of age
 as a banana republic.
 
@@ -207,7 +211,7 @@ Uttarakhand to Arunachal even as they mixed these in with some real
 thrusts. With the napuMsaka rulers denying all incursions, real and
 rumored, the chIna exercise really made an owl of us (as they say in
 Hindi). To add insult to injury they planted a cheeky one claiming that
-our army had mistaken Venus and Jupiter to be chIna drones\! Not
+our army had mistaken Venus and Jupiter to be chIna drones! Not
 surprisingly the mlechCha-s ran away with that one laughing all the way.
 Then, just like the school bully combines his verbal taunts with a real
 blow delivered via a lackey, they asked their Momeen friends to deliver
@@ -216,3 +220,4 @@ the slap we mentioned above.
 Indeed this 15th Aug called for more than a moment of silence,
 introspecting the possibility of joining the Kalash and Parsis on their
 way out.
+

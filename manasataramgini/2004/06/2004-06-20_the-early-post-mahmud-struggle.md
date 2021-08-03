@@ -1,7 +1,11 @@
 +++
 title = "The early Post-Mahmud struggle"
+date = "2004-06-20"
+upstream_url = "https://manasataramgini.wordpress.com/2004/06/20/the-early-post-mahmud-struggle/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/06/20/the-early-post-mahmud-struggle/).
+
 One area where most Indian historians and writers of history text books
 have remained woefully silent is the issue of what steps the Indians
 took, if any, in the post-Mahmud period to counter the challenge of the
@@ -60,3 +64,4 @@ from Pakistan still has its tentacles in all the major cities of India
 and there is striking resemblance of modern India to the pre-Mahmud
 period. If we fail to crush the Muslim power once and for all spectre of
 history repeating itself looms large on us.
+

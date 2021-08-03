@@ -1,7 +1,11 @@
 +++
 title = "The shR^i~NgAra katha of kumAra from the islander’s narrative"
+date = "2010-07-22"
+upstream_url = "https://manasataramgini.wordpress.com/2010/07/22/the-shringara-katha-of-kumara-from-the-islanders-narrative/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/07/22/the-shringara-katha-of-kumara-from-the-islanders-narrative/).
+
 In later northern Indian tradition a euphemistic transformation was
 imposed on kumAra – from a deity capable of erotic flourishes he was
 transmogrified into an eternal bachelor who shunned women. Behind this
@@ -83,8 +87,8 @@ not far away and also asked him to keep an eye on vaLLi and report to
 him if something untoward was observed with regard to her. He agreed and
 went to have a bath and drink the water from the tIrtha. Having done so
 he returned to vaLLi and asked her to unite with him in kAma. She said:
-“Are you mad? The hunters will come and cut you pieces.” He appeared
-to walk away from her as though dejected. Shortly, an elephant in musth
+“Are you mad? The hunters will come and cut you pieces.” He appeared to
+walk away from her as though dejected. Shortly, an elephant in musth
 came charging at her and she ran in terror towards the ascetic begging
 him: “I will do what ever you want if you save me”. Assuming his usual
 form kumAra lifted her off her feet and bore her into the forest. It is
@@ -128,3 +132,4 @@ temple where the Lankans endogenously worshipped the old gods. However
 after was bombarded by the Portuguese terrorists a few hundred years ago
 the sthaviravAdin saMgha let it remain un-restored so that there is no
 revival of Hindu elements amongst the siMhala masses.
+

@@ -1,7 +1,11 @@
 +++
 title = "Some biological analogies for certain sociopolitical issues"
+date = "2017-05-16"
+upstream_url = "https://manasataramgini.wordpress.com/2017/05/16/some-biological-analogies-for-certain-sociopolitical-issues/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2017/05/16/some-biological-analogies-for-certain-sociopolitical-issues/).
+
 In Hindu society we often see certain relatively straightforward
 sociopolitical issues endlessly debated. A person with relatively
 commonplace IQ should in principle easily arrive a correct apprehension
@@ -12,7 +16,7 @@ they do not grasp the matter for some reason. On the other hand an
 excuse that is commonly used is that we do not have a yard stick for
 properly positioning a geopolitical stance. Here is where, even for very
 simple matters, biological analogies can be very useful. They are
-particularly useful because the adverse edge of natural selection is
+particularlyuseful because the adverse edge of natural selection is
 most unforgiving – there is no place for fancies and only what works
 finally makes it past the hatchet. Likewise, the role of chance and
 absence of constraints are also placed in proper perspective.
@@ -70,12 +74,12 @@ endosymbionts in insects known as cicadas. They have individually
 degenerated to such an extent that neither of them encodes a complete
 set of ribosomal proteins or tRNA synthetases. They instead make it up
 by complementing these components. Also they share a common
-![\\sigma](https://s0.wp.com/latex.php?latex=%5Csigma&bg=ffffff&fg=333333&s=0
-"\\sigma") subunit for their RNA polymerases (encoded by *Sulcia*). This
-would not have been possible if the core system was not so well
-conserved between such distant organisms. Likewise eukaryotic organisms
-like us have evolved only because of this common language in the core
-systems – the eukaryote is a symbiont of an alphaproteobacterium and an
+![\\sigma](https://s0.wp.com/latex.php?latex=%5Csigma&bg=ffffff&fg=333333&s=0&c=20201002)
+subunit for their RNA polymerases (encoded by *Sulcia*). This would not
+have been possible if the core system was not so well conserved between
+such distant organisms. Likewise eukaryotic organisms like us have
+evolved only because of this common language in the core systems – the
+eukaryote is a symbiont of an alphaproteobacterium and an
 asgardarchaeon. A now extinct bacteroidetes was also likely part of this
 endosymbiosis. The mRNAs of bacterial origin can be translated in the
 archaeal-derived translation system for use in the bacterial
@@ -101,7 +105,7 @@ most important being: 1) energy production; 2) metabolite biosynthesis;
 weaponry for biological conflicts. These, in stark contrast to the core
 components show enormous diversity between organisms, often even between
 closely related ones. Why? Because here there tends to be more of
-positive selection which might diversify information rather than
+positive selection which might diversifyinformationrather than
 purifying selection which favors stasis. This is easy to understand:
 being able to use different kinds of energy production mechanism or
 metabolite biosynthetic mechanisms helps exploit different kinds of
@@ -132,21 +136,21 @@ probably already some degree of unity established by the neolithic and
 early metal age agricultural cultures. We still see echoes of that unity
 in our agriculture-/rural-economy- related words from an extinct
 language (e.g. kustumburu, karkaṭi, kulāla, kīnaśa etc). The coming of
-the Indo-Aryans sometime during the Harappan period or after it provided
-a strong unifying force in the form of a common language (old Indo-Aryan
-aka Sanskrit in its living expression) and religion (the extant Hindu
-dharma in its living expression). As the Indo-Aryans and Aryanized
-peoples spread over the vast subcontinent over nearly a millennium this
-factor played a major role in the formation of a unified system in the
-subcontinent. Certain mobile groups played a over-sized role in this
-unification but the more sedentary groups played along rather than
-oppose them. However, at the same time, the longitudinal extent of the
-subcontinent and major terrain variations implied that the phenomenon of
-local diversification in terms of linguistics to a greater extent and
-religion to a smaller extent was also going to take place. As a result
-in the coming two-three thousand years we had a peculiar situation where
-both diversification and unity simultaneously existed – a cliché Indians
-oft use.
+the Indo-Aryans sometime during the close of the Harappan period
+provided a strong unifying force in the form of a common language (old
+Indo-Aryan aka Sanskrit in its living expression) and religion (the
+extant Hindu dharma in its living expression). As the Indo-Aryans and
+Aryanized peoples spread over the vast subcontinent over nearly a
+millennium this factor played a major role in the formation of a unified
+system in the subcontinent. Certain mobile groups played a over-sized
+role in this unification but the more sedentary groups played along
+rather than oppose them. However, at the same time, the longitudinal
+extent of the subcontinent and major terrain variations implied that the
+phenomenon of local diversification in terms of linguistics to a greater
+extent and religion to a smaller extent was also going to take place. As
+a result in the coming two-three thousand years we had a peculiar
+situation where both diversification and unity simultaneously existed –
+a cliché Indians oft use.
 
 All this was fine as long as India remained heathen. But starting with
 the irruptions of Mohammad bin Qasim and culminating in the conquests of
@@ -173,7 +177,7 @@ the national language.
 
 Thus, today we are faced with a scenario where a major component of
 India’s masses have their local languages rather than nationalism or
-national issues as the biggest animating factor\! Indeed it is rather
+national issues as the biggest animating factor! Indeed it is rather
 palpable that it forms the core of their identity much more than the
 Hindu religion or the Indian nation – you commonly see a man typically
 call himself first a Tamil or Marathi or something like that rather than

@@ -1,8 +1,11 @@
 +++
-title = "MahaGauri – The Eighth Night of NavRatri – Eighth of thexa0NavaDurgas"
-date = "October 6, 2019"
+title = "MahaGauri – The Eighth Night of NavRatri – Eighth of the NavaDurgas"
+date = "2019-10-06"
+upstream_url = "https://aryaakasha.com/2019/10/06/mahagauri-the-eighth-night-of-navratri-eighth-of-the-navadurgas-2/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/10/06/mahagauri-the-eighth-night-of-navratri-eighth-of-the-navadurgas-2/).
+
 ![7e91f43d6194f41e06dde7aeaa80da7b](https://aryaakasha.files.wordpress.com/2019/10/7e91f43d6194f41e06dde7aeaa80da7b.jpg?w=676)
 
 The Eight Night of #NavRatri is dedicated to Ma as MahaGauri – The Great

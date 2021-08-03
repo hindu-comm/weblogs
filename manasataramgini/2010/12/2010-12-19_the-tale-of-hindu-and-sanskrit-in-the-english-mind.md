@@ -1,7 +1,11 @@
 +++
 title = "The tale of Hindu and Sanskrit in the English mind"
+date = "2010-12-19"
+upstream_url = "https://manasataramgini.wordpress.com/2010/12/19/the-tale-of-hindu-and-sanskrit-in-the-english-mind/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/12/19/the-tale-of-hindu-and-sanskrit-in-the-english-mind/).
+
 [![](https://i0.wp.com/lh4.ggpht.com/_hjuA1bE0hBw/TQ2FY0Kn9fI/AAAAAAAAB_Q/x8WN9Q_FP8I/s640/Hindu_Sanskrit.jpg)](http://picasaweb.google.com/lh/photo/SwioQBx3SqfwWpjzXKuoug?feat=embedwebsite)
 
 A plot of the words Sanskrit/Sanscrit and Hindoo/Hindu in English
@@ -69,17 +73,24 @@ The general decline in funding for Sanskrit and Hindu related studies
 with the imposition of South Asianism by the mlechCha-s.
 
 \*Some of the above discussion is also recapitulated by the term
-“buddha” suggesting that it generally captures genuine trends
-regarding Indic matters. Also note the invention of the terms Hinduism
-and Buddhism by the British and their eventual imposition on the world
-at large.
+“buddha” suggesting that it generally captures genuine trends regarding
+Indic matters. Also note the invention of the terms ‘Hinduism’ and
+‘Buddhism’ (not Hindu and Bauddha) inspired by the English influence and
+their eventual dissemination to the world at large.
 
 [![](https://i2.wp.com/lh3.ggpht.com/_hjuA1bE0hBw/TQ2FZxV69BI/AAAAAAAAB_U/N_RkphmITM4/s640/Buddha_Hindu.jpg)](http://picasaweb.google.com/lh/photo/SjE4q2-A7jfxCphtnNuC-A?feat=embedwebsite)
 
-Regarding the term South Asian we have always held that it is an
-US-inspired Anglospheric attempt to back Pakistani legitimacy and
-delegitimize the Indian cultural and power projection on the
-sub-continent – their natural sphere of action. The graphs simply
-reinforce this point we have made before.
+Regarding the term South Asian/South Asia, we have always held that it
+is widespread use arose not as an innocent geographical term by as an
+Anglospheric movement arising in the US-inspired academia to back
+Pakistani legitimacy and delegitimize the Indian cultural and power
+projection on the sub-continent – their natural sphere of action (for
+example of such use see this
+[note](https://manasataramgini.wordpress.com/2003/11/18/hindutva-ko-fek-do/)).
+Thus, you see Euro-American academics consistently use the despicable
+term South Asia even when the issue at hand is plainly Hindu and hardly
+geographic: e.g. “Religion in South Asia” instead of Hindu dharma etc.
+The graphs simply reinforce this point we have made before.
 
 [![](https://i1.wp.com/lh6.ggpht.com/_hjuA1bE0hBw/TQ2FaVYzDZI/AAAAAAAAB_Y/vvqKvMmfA1M/s640/Southasian_Pakistani.jpg)](http://picasaweb.google.com/lh/photo/beVeIfvY0FNia5Te4kj6JA?feat=embedwebsite)
+

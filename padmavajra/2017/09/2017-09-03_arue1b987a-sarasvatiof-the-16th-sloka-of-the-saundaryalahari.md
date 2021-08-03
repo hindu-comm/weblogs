@@ -1,8 +1,11 @@
 +++
 title = "Aruṇa-sarasvatī(of the 16th śloka of the Saundaryalaharī)"
-date = "2017-09-03"
+date = "2017-03-09"
+upstream_url = "https://padmavajra.net/2017/09/03/aru%e1%b9%87a-sarasvatiof-the-16th-sloka-of-the-saundaryalahari/"
 
 +++
+Source: [here](https://padmavajra.net/2017/09/03/aru%e1%b9%87a-sarasvatiof-the-16th-sloka-of-the-saundaryalahari/).
+
 Here our Acharya is actually invoking the eight armed Goddess: with bow,
 arrow, noose and spear (mistranslated; should be goad/a\~nkusha) (that
 go with Kameshvari) in four of the hands and with varam, abhayam,

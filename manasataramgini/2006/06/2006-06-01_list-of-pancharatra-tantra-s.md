@@ -1,7 +1,11 @@
 +++
 title = "List of pA~ncharatra tantra-s"
+date = "2006-06-01"
+upstream_url = "https://manasataramgini.wordpress.com/2006/06/01/list-of-pancharatra-tantra-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/06/01/list-of-pancharatra-tantra-s/).
+
 With the muni, the shrI vaiShNava and R’s father we have made a
 comprehensive list of pA\~ncharAtra tantras that are supposed to have
 existed. We simply have little to no details of many of them and cannot
@@ -86,3 +90,4 @@ tantra 211)viShNu-saMbhavaM 212)viShNu-siddhAnta tantra
 219)viShvasena tantra 220)vyAsa saMhitA 221)yaGYamUrti tantra
 222)yAGYavalkya tantra 223)yama saMhitA 224)yoga hR^idya tantra
 225)yogarahsya tantra 226)GYArNava saMhitA
+

@@ -1,8 +1,11 @@
 +++
-title = "A list of Pāśupata(More specifically,Lākula) ritualxa0texts"
-date = "2019-12-11"
+title = "A list of Pāśupata(More specifically,Lākula) ritual texts"
+date = "2019-11-12"
+upstream_url = "https://padmavajra.net/2019/12/11/a-list-of-pasupatamore-specificallylakula-ritual-texts/"
 
 +++
+Source: [here](https://padmavajra.net/2019/12/11/a-list-of-pasupatamore-specificallylakula-ritual-texts/).
+
 
 
 ![512px-Lakulisa](https://padmavajrablog.files.wordpress.com/2019/12/512px-lakulisa.jpeg?w=739)

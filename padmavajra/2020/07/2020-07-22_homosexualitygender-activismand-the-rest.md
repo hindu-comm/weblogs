@@ -1,8 +1,11 @@
 +++
-title = "Homosexuality,Gender activism,and thexa0rest"
+title = "Homosexuality,Gender activism,and the rest"
 date = "2020-07-22"
+upstream_url = "https://padmavajra.net/2020/07/22/homosexualitygender-activismand-the-rest/"
 
 +++
+Source: [here](https://padmavajra.net/2020/07/22/homosexualitygender-activismand-the-rest/).
+
 This post has been prompted by the recent viral spate of news on gender
 ideological activism,which I will distinguish from homosexual men  
   

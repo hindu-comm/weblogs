@@ -1,7 +1,11 @@
 +++
 title = "Limbya Shinde"
+date = "2004-03-16"
+upstream_url = "https://manasataramgini.wordpress.com/2004/03/16/limbya-shinde/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/03/16/limbya-shinde/).
+
 Limbya narrates: When I was a young I was seized by a by a bhoot. It was
 a huge ghost of the **Khais** variety that may assume the form of a
 Meccan demon or a Mohammedan. When I was sleeping one night near my
@@ -59,3 +63,4 @@ with 7 pieces of wood and poured ghee and cow’s urine on into the fire.
 I then danced on the fire in ecstasy showing that I had become a
 devrishi. The god then left my body. We slaughtered a sheep and had a
 festive meal.
+

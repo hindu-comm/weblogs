@@ -1,11 +1,15 @@
 +++
 title = "The purANa of the Maharatta ruler, the paTTisha and other issues"
+date = "2007-03-26"
+upstream_url = "https://manasataramgini.wordpress.com/2007/03/26/the-purana-of-the-maharatta-ruler-the-pattisha-and-other-issues/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/03/26/the-purana-of-the-maharatta-ruler-the-pattisha-and-other-issues/).
+
 The Hindu paurANic style never died out. We know of the many responses
 seen in Sanskrit literature to the Mohammedan onslaught. We had earlier
 seen how kShemendra had described the [kali yuga before the coming of
-kalki](http://manasataramgini.wordpress.com/2005/03/kshemendra-on-kalki.html).
+kalki](http://manollasa.blogspot.com/2005/03/kshemendra-on-kalki.html).
 The learned Ravlekar had furnished us with two texts of interest. One
 was the particular text titled the kalki-purANa. In this it is narrated
 that demonic turuShka or mlechCha king named shashi-dhvaja (the
@@ -23,12 +27,12 @@ the maharatta nation. paramAnanda says it is the bhArata of shivAjI,
 even as the mahAbhArata of the bharatas.  
 paramAnanda says (I translate it to roughly approximate paramAnanda’s
 verse):  
-uShNISheNaiva shuchinA vyabhAd-uttamsa-dhAriNA |  
-kashmIraja-pR^iShad-varSha-raMjitena-a\~Ngikena cha ||  
-shiva-varmA bR^ishbalaH saMvR^itaH shiva-varmaNA |  
-tasya vajra-sharIrasya kiM kAryaM tena varmaNA ||  
-kR^ipANaM pANi-naikena bibhrANo.anyena paTTisham |  
-sa nandaka-gadA-hastaH sAkShAd-dharid-udaikShyata ||
+uShNISheNaiva shuchinA vyabhAd-uttamsa-dhAriNA \|  
+kashmIraja-pR^iShad-varSha-raMjitena-a\~Ngikena cha \|\|  
+shiva-varmA bR^ishbalaH saMvR^itaH shiva-varmaNA \|  
+tasya vajra-sharIrasya kiM kAryaM tena varmaNA \|\|  
+kR^ipANaM pANi-naikena bibhrANo.anyena paTTishaM \|  
+sa nandaka-gadA-hastaH sAkShAd-dharid-udaikShyata \|\|
 
 With a pure \[white\] turban bearing a shining crest jewel,  
 with his body raimented in a patterned kashmir silk garment,  
@@ -51,27 +55,27 @@ repeatedly mentions it as being used in the great bhArata war. For
 example:  
 bhIShma parvan 86 (critical edition)  
 tena mAyA-mayAH kL^iptA hayAstAvanta eva hi .  
-svArUDhA rAkShasair-ghoraiH shUla-paTTisha-pANibhiH .. 52..||  
+svArUDhA rAkShasair-ghoraiH shUla-paTTisha-pANibhiH .. 52..\|\|  
 In describing a battle of irAvAn and alambusha, the brahma-rAkShasa, it
 mentions the well-mounted terrible rAkShasa hordes wielding tridents and
 pATTisha-s.
 
 Again in bhIShma parvan 92 (critical edition) in the list of traditional
 hindu weapons mentioned there the paTTisha figures:  
-samare patitaish-chaiva shakty-R^iShTi shara-tomaraiH |  
-nistriMshaiH paTTishaiH prAsair-ayaH kuntaiH parashvadhaiH .. 56..||  
+samare patitaish-chaiva shakty-R^iShTi shara-tomaraiH \|  
+nistriMshaiH paTTishaiH prAsair-ayaH kuntaiH parashvadhaiH .. 56..\|\|  
 parighair-bhindipAlaish-cha shataghnIbhis-tathaiva cha .  
-sharIraiH shastra-bhinnaish-cha samAstIryata medinI .. 57..||  
+sharIraiH shastra-bhinnaish-cha samAstIryata medinI .. 57..\|\|  
 The weapons mentioned are shakti, R^iShTi, shara (arrow), tomara,
 nistriMsha, paTTisha, prAsa, iron kunta, battle axe, parigha, bhindipAla
 and shataghni.
 
 The later devI-mAhAtmyaM mentions the same weapon (The mahAlakShmi
 section):  
-chachArAsura sainyeShu vaneShv-iva hutAshanaH |  
-niHshvAsAn.h mumuche yAMsh-cha yudhyamAnA raNe.ambikA || 52||  
-ta eva sadyaH sambhUtA gaNAH shata-sahasrashaH |  
-yuyudhuste parashubhir-bhindipAlAsi-paTTishaiH || 53||  
+chachArAsura sainyeShu vaneShv-iva hutAshanaH \|  
+niHshvAsAn.h mumuche yAMsh-cha yudhyamAnA raNe.ambikA \|\| 52\|\|  
+ta eva sadyaH sambhUtA gaNAH shata-sahasrashaH \|  
+yuyudhuste parashubhir-bhindipAlAsi-paTTishaiH \|\| 53\|\|  
 The gaNas emerging from the breath of aMbikA are described as fighting
 with battle axes, bhindipAla-s, swords and paTTisha-s
 
@@ -87,3 +91,4 @@ not like the many faulty translations of this term. While the accounts
 of the killing of Afzal Khan differ in detail, at least some accounts
 mention that shivAjI used the paTTisha to dispatch him after stabbing
 him with the dagger or tiger claws.
+

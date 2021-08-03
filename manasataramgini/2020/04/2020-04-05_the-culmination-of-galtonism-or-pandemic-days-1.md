@@ -1,7 +1,11 @@
 +++
 title = "The culmination of Galtonism or pandemic days-1"
+date = "2020-04-05"
+upstream_url = "https://manasataramgini.wordpress.com/2020/04/05/the-culmination-of-galtonism-or-pandemic-days-1/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2020/04/05/the-culmination-of-galtonism-or-pandemic-days-1/).
+
 While many thoughts crowd our mind we have hardly felt the drive to put
 them down on a more visible medium. Such is the nature of the times when
 things happen reminding you of the inexorable turning of the yuga-cakra.
@@ -17,7 +21,7 @@ omissions and commissions you might have done in the preparation
 knowingly or unknowingly unfold under the 20-20 vision of hindsight.
 Though proximal time might feel indistinct and yuga-cakra is
 ever-turning it is not often that we feel its turn like this: “vartate
-vartate iti kālavādino vadanti |”
+vartate iti kālavādino vadanti \|”
 
 There is no doubt that the utterly evil ways of the Chinese Communist
 Party, the contra-urban food and medical customs of the Cīnaka-s, and
@@ -166,15 +170,15 @@ Wuhan disease nearly every minute in the US and that is only going up
 for now. The causes for this dismal failure of the US are many, and a
 grim reminder that military superiority does not guarantee safety from a
 pathogen:  
-1\) Even as the virions were swirling through the Eastern air the US had
+1) Even as the virions were swirling through the Eastern air the US had
 ample time to prepare but smug in it narrative of exceptionalism failed
 to take critical steps.  
-2\) Instead, its leftward political elite were lost in fighting the
+2) Instead, its leftward political elite were lost in fighting the
 emperor and trying to impeach him. For them the virus was for most part
 a means of getting at their political opponents rather than a real cause
 of fear. In fact they were more eager to bat for the Cīna-s than take
 care of their own home.  
-3\) While a military superpower, as is typical of a frontier nation the
+3) While a military superpower, as is typical of a frontier nation the
 US is imminently ill-equipped to handle serious medical and natural
 crises. We see this on a small scale when calamities like hurricanes or
 tornadoes strike. But the generally low disease load of the North
@@ -187,8 +191,8 @@ medications and procedures. Further, many are part of a triumvirate with
 the insurance companies and the drug makers as the other two nodes who
 ensure that they get rich while the patient suffers. Such a system can
 easily come apart when hit by something as devastating as this virus.  
-4\) The decentralized nature of the States with each state having its
-own style of doing things can prove to be advantageous in certain
+4) The decentralized nature of the States with each state having its own
+style of doing things can prove to be advantageous in certain
 circumstances but in a situation like this it is a recipe for disaster.
 While one arm of the American elite was saying how a totalitarian system
 like China cannot handle this epidemic they did little
@@ -197,7 +201,7 @@ themselves. On the other side the liberal elite, which is an antithesis
 of dharma, was watching with bated breath if India might go down to the
 virus while caring little to look into whether their own house was
 secure.  
-5\) Major failure of the political leadership: at every level there were
+5) Major failure of the political leadership: at every level there were
 failures in the political leadership across party lines. Politicians did
 not prepare the people for the onslaught. As a frontier nation they had
 little in place to ensure that all people got basic protective supplies
@@ -209,11 +213,11 @@ price-gouging hoarders and others who might have even been Cīna agents
 who don’t have these critical supplies. Further, several politicians
 showed little will to enforce lock-downs and put an appropriate testing
 plan in place.  
-6\) Given that they had outsourced manufacturing to the Cīna-s, key
+6) Given that they had outsourced manufacturing to the Cīna-s, key
 medical equipment like ventilators or N95 mask are not available in
 sufficient quantities. If the Cīna-s block raw material supply several
 critical drugs could be in short supply.  
-7\) Failure in public medical advise and action: People were seriously
+7) Failure in public medical advise and action: People were seriously
 misinformed by health agencies at various levels. People were told that
 the risk to them was low and they were asked to go about their lives as
 usual, including attending large gatherings. Even after the risk of
@@ -230,11 +234,11 @@ managed. Here, they could have learned from the Cīna-s to set up a chain
 of action where first one screens for fever, followed by a flu test,
 followed by a CAT scan and finally tops it with a SARS-CoV-2 test with
 those testing negative being taken out of the pipeline in each step.  
-8\) Social irresponsibility: far too many people took this to be a
-party. Not just them but everyone around them is now paying the price.  
-9\) The politicians and administrators have no plan for what to do after
+8) Social irresponsibility: far too many people took this to be a party.
+Not just them but everyone around them is now paying the price.  
+9) The politicians and administrators have no plan for what to do after
 the lock-down is released.  
-10\) The above are all rather apparent to any observer and are mistakes
+10) The above are all rather apparent to any observer and are mistakes
 in part committed elsewhere in the Occident. However, there is something
 more subtle which we cannot articulate fully in public. It concerns a
 certain ideology which has taken deep grip of the Occidental
@@ -268,15 +272,15 @@ walls (so much so that the earth is apparently quaking less from our
 confinement), we again see the emergence of two camps. We can call one
 the “economists” and the other the “epidemicists”. The “economists”
 oppose the lockdown as it rather obviously demolishes the economy. The
-“epidemicists” hold that there is really no way out of it for now.
-While it is undeniable that most of people are losing money (us
-included) or worse have no employment, there is really no alternative
-the “economists” can offer. The pratyakṣa of the Cīna-s is there for all
-to see. The CCP has nurtured a nation of arthasādhaka-s who value
-kārṣāpaṇa-s over all else. Now if they shutdown their country then
-this thing must be really bad. As we noted above, those who failed to do
-so elsewhere were soon confronted with mounting deaths and overwhelming
-of the medical system such that the economy could fall apart like in a
+“epidemicists” hold that there is really no way out of it for now. While
+it is undeniable that most of people are losing money (us included) or
+worse have no employment, there is really no alternative the
+“economists” can offer. The pratyakṣa of the Cīna-s is there for all to
+see. The CCP has nurtured a nation of arthasādhaka-s who value
+kārṣāpaṇa-s over all else. Now if they shutdown their country then this
+thing must be really bad. As we noted above, those who failed to do so
+elsewhere were soon confronted with mounting deaths and overwhelming of
+the medical system such that the economy could fall apart like in a
 catastrophic military defeat.
 
 Does that mean “epidemicists” like us are suggesting a perpetual
@@ -361,3 +365,4 @@ this is from trivial stuff like amount of testing, overwhelming of the
 system or plain lying, not all the differences are purely from these
 factors. Hence, we need understand the underlying causes better as we go
 forward.
+

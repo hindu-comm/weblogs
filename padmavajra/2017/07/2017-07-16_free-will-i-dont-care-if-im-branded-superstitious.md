@@ -1,8 +1,11 @@
 +++
-title = "Free will (I don’t care if I’m brandedxa0superstitious)"
+title = "Free will (I don’t care if I’m branded superstitious)"
 date = "2017-07-16"
+upstream_url = "https://padmavajra.net/2017/07/16/free-will-i-dont-care-if-im-branded-superstitious/"
 
 +++
+Source: [here](https://padmavajra.net/2017/07/16/free-will-i-dont-care-if-im-branded-superstitious/).
+
 There is no free will. Even in the attainment of good things or bad.
 
 

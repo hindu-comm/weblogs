@@ -1,7 +1,11 @@
 +++
 title = "Warrior on the steppe"
+date = "2003-11-20"
+upstream_url = "https://manasataramgini.wordpress.com/2003/11/20/warrior-on-the-steppe/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/11/20/warrior-on-the-steppe/).
+
 Toqta Qiya had won many great battles and captured much territory. He
 was a better archer and a better swordsman than Urus Khan. Yet Urus Khan
 dominated the steppes due to his larger force and more reliable
@@ -31,3 +35,4 @@ his lowly ex-nauker Narikeyan sacked Kesh and annexed to the Oezbeg
 Horde. For a winner of so many great the little stronghold of Kesh held
 the scales between a petty transient chief and a great Khan who
 transcended time.
+

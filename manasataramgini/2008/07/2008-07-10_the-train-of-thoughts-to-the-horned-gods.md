@@ -1,7 +1,11 @@
 +++
 title = "The train of thoughts to the horned gods"
+date = "2008-07-10"
+upstream_url = "https://manasataramgini.wordpress.com/2008/07/10/the-train-of-thoughts-to-the-horned-gods/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/07/10/the-train-of-thoughts-to-the-horned-gods/).
+
 Our aim was to finish the next installment on the potential medical
 activities of the saiddhAntika-s but it did not happen (ArambhashUra
 indeed). Some thoughts of from a long past time settled upon us like the
@@ -13,8 +17,8 @@ send us back to svarga after our headlong plunge from the heady heights
 of dyaus. Our reverie was broken by a call from ST. In saMdhya bhASha we
 expressed the following: “He passed by the diamond shop with not a
 single kArShApaNa in his pocket. All he could do was to see the
-diamonds”. ST replied: “He did not even see the diamonds in the shop.
-It was merely his delirium in the dehydration of the desert”. Then there
+diamonds”. ST replied: “He did not even see the diamonds in the shop. It
+was merely his delirium in the dehydration of the desert”. Then there
 was a resonance between us – we both drifted to the long past days.
 Having mounted my “ashva” with ST we went to the little complex of
 houses where kR^ishamukha and ghanodara lived and parked it there. We
@@ -44,3 +48,4 @@ we saw an extraordinary pot from the Chalcolithic of Gujarat which
 contained an image of this horned Indus deity. The horns remained in my
 head. I discussed this with a friend again several years later. We must
 “study” this pan-Eurasian phenomenon in iconography I remarked to ST.
+

@@ -1,8 +1,11 @@
 +++
-title = "On The Devaluation Of Relics And Thexa0Past"
-date = "November 18, 2019"
+title = "On The Devaluation Of Relics And The Past"
+date = "2019-11-18"
+upstream_url = "https://aryaakasha.com/2019/11/18/on-the-devaluation-of-relics-and-the-past/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/11/18/on-the-devaluation-of-relics-and-the-past/).
+
 ![](https://aryaakasha.files.wordpress.com/2019/11/scythian_gold_artifact_3.jpg?w=770)
 
 You ever notice how we’ve turned the term “Relic” from one of reverence

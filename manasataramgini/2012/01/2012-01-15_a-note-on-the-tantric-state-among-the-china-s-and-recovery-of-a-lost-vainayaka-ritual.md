@@ -1,7 +1,11 @@
 +++
 title = "A note on the Tantric state among the chIna-s and recovery of a lost vainAyaka ritual"
+date = "2012-01-15"
+upstream_url = "https://manasataramgini.wordpress.com/2012/01/15/a-note-on-the-tantric-state-among-the-china-s-and-recovery-of-a-lost-vainayaka-ritual/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/01/15/a-note-on-the-tantric-state-among-the-china-s-and-recovery-of-a-lost-vainayaka-ritual/).
+
 [![](https://lh3.googleusercontent.com/-sRPqhOm8Rbk/TxKOz3BdQZI/AAAAAAAACVI/NHufe1zHmVo/s400/chIna_vinAyaka.jpg)](https://picasaweb.google.com/lh/photo/3a5WTBNu06MxSHCjgkAI89MTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
 In 705 CE, amoghavajra was born in Samarkand to a brAhmaNa teacher from
@@ -86,11 +90,11 @@ promulgated by the great AchArya herambhasuta in India (the element
 “hastipishAchi likhe”) that this is what was originally intended,
 although in the later period in India an entirely anthropomorphic shakti
 became the norm.  
-2\) the ShaDbhuja vinAyaka – this form is depicted above from the
+2) the ShaDbhuja vinAyaka – this form is depicted above from the
 original drawing of vajrabodhi or a copy there of. Tradition holds that
 vajrabodhi was a skillful iconographic artist.  
 3&4) are chaturbhuja vinAyaka-s.  
-5\) The 4 seizing vinAyaka-s as ordained by the parishiShTha of the
+5) The 4 seizing vinAyaka-s as ordained by the parishiShTha of the
 atharvaveda and the mAnava gR^ihya sUtra of the maitrAyaNIya tradition.
 This was already taken up by the nAstika-s and incorporated into the
 subAhu-paripR^ichCha, a text from the [kriyA
@@ -123,35 +127,35 @@ indra (E); agni (SE); yama (S); nirR^itI (SW); varuNa (W); vAyu (NW);
 vaishravaNa (N); rudra (NE). These are surrounded by the 28 nakShatra-s
 and 36 animals. He then displays the special vinAyaka mudra to call the
 for vinAyaka-s. Then he invites the 4 seizing vinAyaka-s with the mantra
-“OM vakratuNDAdipatye svAhA ||”. Then he deploys a certain vakratuNDa
+“OM vakratuNDAdipatye svAhA \|\|”. Then he deploys a certain vakratuNDa
 mAlA mantra and displays a the vishva mudra. Then he shows the tejorAshI
 mudra and invokes the deva-s in the earth plate and utters the
-incantation (“OM shatrupramardine svAhA ||”). He then shows the
+incantation (“OM shatrupramardine svAhA \|\|”). He then shows the
 kuNDa-mudra and invokes the nakShatra-s and the 36 animals with a mantra
 that we are unable to decipher. In the chIna transliteration it goes:
-“OM chi-ri-an-gi-ru-ni-ye svAhA ||”. He then shows the vajra mudra and
+“OM chi-ri-an-gi-ru-ni-ye svAhA \|\|”. He then shows the vajra mudra and
 invokes the multitude of gaNa-s of vinAyaka with a mAlA mantra. Then he
 shows the bhakti mudra.
 
 He performs a digbandha by tying a boundary thread all around the ritual
-area and uttering the mantra: “OM ki ye ye ye hum ||”. To deploy the
+area and uttering the mantra: “OM ki ye ye ye huM \|\|”. To deploy the
 yantra he rotates the vinAyaka on the heaven plate to coincide with a
 deva on the earth plate. Then he casts and incantation for that
 particular prayoga. This mantra is not entirely decipherable and ends in
-huM huM kili kili hum phaT svAhA ||. It is accompanied by a display of
+huM huM kili kili hum phaT svAhA \|\|. It is accompanied by a display of
 the a\~Nkusha and khaDga mudra.  
-\-If he seeks to rise in stature then he may unites the sUrya vinAyaka
+-If he seeks to rise in stature then he may unites the sUrya vinAyaka
 with indra.  
-\-If he seeks to perform an abhichAra to cause fever to a shatru then he
+-If he seeks to perform an abhichAra to cause fever to a shatru then he
 may unite the sUrya vinAyaka with agni.  
-\-If he seeks to get wealth then he may unite the soma vinAyaka with
+-If he seeks to get wealth then he may unite the soma vinAyaka with
 vaishravaNa.  
-\-If he wants to induce a person to love him he unites the soma vinAyaka
+-If he wants to induce a person to love him he unites the soma vinAyaka
 with vaishravaNa and invokes the nakShatra-s thereafter  
-\-If he seeks to win a war then he unites the sUrya vinAyaka with rudra
+-If he seeks to win a war then he unites the sUrya vinAyaka with rudra
 and invokes the hordes of rudra.  
-\-If one wants good crops he unites vAgIshvara vinAyaka with indra.  
-\-If he wants to remove bad dreams he unites sUrya vinAyaka with yama.  
+-If one wants good crops he unites vAgIshvara vinAyaka with indra.  
+-If he wants to remove bad dreams he unites sUrya vinAyaka with yama.  
 Thus, there are numerous prayoga-s for different purposes. It is said
 that it was transmitted from India to China. The mantra manual ends with
 an equation of the gaNapati-s on the heaven plate with the 4 seizing
@@ -167,3 +171,4 @@ note that the text describes the 4 vinAyaka-s of being of the same basic
 substance. This is reminiscent of the the yAj\~navAlkya ritual stating
 that the 4 or 6 seizing vinAyaka-s are essential manifestation of a
 single vinAyaka, umAsuta.
+

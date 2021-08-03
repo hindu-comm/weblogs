@@ -1,8 +1,11 @@
 +++
-title = "The Near-Dioscuri Experience Of Simonides The Piousxa0Poet"
-date = "December 31, 2020"
+title = "The Near-Dioscuri Experience Of Simonides The Pious Poet"
+date = "2020-12-31"
+upstream_url = "https://aryaakasha.com/2020/12/31/the-near-dioscuri-experience-of-simonides-the-pious-poet/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/12/31/the-near-dioscuri-experience-of-simonides-the-pious-poet/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/12/rel0107.jpg?w=1024)
 
 I found this rather amusing. Per Cicero, there is a tale of the Greek

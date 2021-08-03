@@ -1,7 +1,11 @@
 +++
 title = "From the parAtrIshikhA section of the rudra yAmala"
+date = "2005-03-21"
+upstream_url = "https://manasataramgini.wordpress.com/2005/03/21/from-the-paratrishikha-section-of-the-rudra-yamala/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/03/21/from-the-paratrishikha-section-of-the-rudra-yamala/).
+
 In the Hindu world view ritual and philosophy are intimately linked.
 From the substratum of the shrauta ritual the ancient upaniShads arise.
 From the matrix of the tantras the highest kaulika thought emerges. Only
@@ -27,12 +31,12 @@ O deva, how can the anuttara of its own grant kaulika attainment? By
 means of which, as soon as it is known, he would obtain the condition of
 sameness with the khechari?
 
-etad guhyaM mahAguhyaM/ kathayasva mama prabho 
+etad guhyaM mahAguhyaM/ kathayasva mama prabho
 
 O lord, my very self, tell me that mysterious secret great unconcealed.
 
 hR^idayasthA tu yA shaktiH/ kaulinI kulanAyikA/  
-tAM me kathaya devesha/ yena tR^iptiM labhAmy ahaM  
+tAM me kathaya devesha/ yena tR^iptiM labhAmy ahaM
 
 Make known that shakti, which abides in the hR^idaya, known as kaulini,
 the mistress of the kula. O lord of the gods, reveal to me that by which
@@ -43,7 +47,7 @@ shrIbhairava uvAcha
 The lord bhairava said:
 
 shR^iNu devI mahAbhage/ uttarasyApy anuttaram/  
-yad ayaM kauliko vidhir/ mama hR^idvyomny avasthitaH 
+yad ayaM kauliko vidhir/ mama hR^idvyomny avasthitaH
 
 kathayAmi na saMdehaH/ sadyaH kaulikasiddhidam/
 
@@ -74,7 +78,7 @@ usually as the pentad of brahman.
 
 amUlA tatkramA j\~neyA/ kShAntA sR^iShTir udAhR^itA   
 sarveShAM chaiva mantrANAM/ vidyAnAM cha yashasvini/  
-iyaM yoniH samAkhyAtA/ sarvatantreShu sarvadA 
+iyaM yoniH samAkhyAtA/ sarvatantreShu sarvadA
 
 The process of manifestation, whose root is ‘a’and whose end is ‘kSha’,
 has thus been declared. Its course is to be known. O glorious one, this
@@ -82,7 +86,7 @@ is proclaimed in all tantras as the source of all mantras and all
 vidyAs, the giver of all.
 
 chaturdashayutaM bhadre/ tithIshAntasamanvitam/  
-tR^itIyam brahma sushroNi/ hR^idayam bhairavAtmanaH 
+tR^itIyam brahma sushroNi/ hR^idayam bhairavAtmanaH
 
 O pretty-hipped one, the hR^idaya of the atman of bhairava is the 3^(rd)
 brahman united with the 14^(th) phoneme, O dear, and it is followed by
@@ -93,3 +97,4 @@ Code:
 14^(th) phoneme=au  
 Last of the lunar digits=H  
 The mantra= sauH
+

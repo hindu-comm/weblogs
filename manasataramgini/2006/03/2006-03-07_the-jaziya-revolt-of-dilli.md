@@ -1,7 +1,11 @@
 +++
 title = "The Jaziya revolt of Dilli"
+date = "2006-03-07"
+upstream_url = "https://manasataramgini.wordpress.com/2006/03/07/the-jaziya-revolt-of-dilli/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/03/07/the-jaziya-revolt-of-dilli/).
+
 There are many accounts of the Jaziya incident floating around in
 literature, but the account by the official apologist (Khafi Khan) of
 Awrangzeb is the clearest and from the horse’s mouth. In consultation
@@ -34,8 +38,9 @@ as Kaffirs. One Rajput captain in the Mogol Army, Subh Karn Rao was
 asked by a Moslem collector to pay Jaziya. He drew his sword and killed
 the tax-collector, resulting in much furore. But the Mogols fearing a
 major revolt merely demoted Rao. Near Delhi another Moslem
-tax-collector’s beard and hair were pulled out he was sent back with
-his own hair as the Jaziya.
+tax-collector’s beard and hair were pulled out he was sent back with his
+own hair as the Jaziya.
 
 However, in the end Awarangzeb suppressed these revolts by simply
 bringing in the army to kill anyone who protested.
+

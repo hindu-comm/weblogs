@@ -1,8 +1,11 @@
 +++
-title = "Hinduism: Universalist Or Specificistxa0Creed"
-date = "October 29, 2016"
+title = "Hinduism: Universalist Or Specificist Creed"
+date = "2016-10-29"
+upstream_url = "https://aryaakasha.com/2016/10/29/hinduism-universalist-or-specificist-creed/"
 
 +++
+Source: [here](https://aryaakasha.com/2016/10/29/hinduism-universalist-or-specificist-creed/).
+
 ![14232658_323027398048979_4584835844612266627_n-1](https://aryaakasha.files.wordpress.com/2016/10/14232658_323027398048979_4584835844612266627_n-1.jpg?w=676)
 
 I’m doing some thinking atm about Hinduism (when am I not?) and whether

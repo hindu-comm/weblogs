@@ -1,8 +1,11 @@
 +++
-title = "“Einu nafni hétumk aldregi / síz ek með folkum fór”xa0– “By one name I have never been known / since I went among thexa0people”"
-date = "September 19, 2019"
+title = "“Einu nafni hétumk aldregi / síz ek með folkum fór” – “By one name I have never been known / since I went among the people”"
+date = "2019-09-19"
+upstream_url = "https://aryaakasha.com/2019/09/19/eino-nafni-hetomk-aldregi-six-ek-medfolkomfor-by-one-name-i-have-never-been-known-since-i-went-among-the-people/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/09/19/eino-nafni-hetomk-aldregi-six-ek-medfolkomfor-by-one-name-i-have-never-been-known-since-i-went-among-the-people/).
+
 
 
 [](https://aryaakasha.com/2019/09/19/eino-nafni-hetomk-aldregi-six-ek-medfolkomfor-by-one-name-i-have-never-been-known-since-i-went-among-the-people/52024268_780631915627989_6240808728167075151_n/)

@@ -1,7 +1,11 @@
 +++
 title = "Netaji Palkar"
+date = "2003-08-15"
+upstream_url = "https://manasataramgini.wordpress.com/2003/08/15/netaji-palkar/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/08/15/netaji-palkar/).
+
 In 1667, the great Maharatta general Netaji was arrested by the lowly
 Hindu traitor Mirza Raje Jaisingh under the orders of the Padishah
 Awrangzeb and placed in the custody of the Qazi of Delhi. The Maharatta
@@ -17,3 +21,4 @@ Shivaji’s orders and returned back to the Hindu fold.
 
 This was rare case when a Hindu had returned from the abyss of the
 Mohammedan fold.
+

@@ -1,8 +1,11 @@
 +++
-title = "A Brief Introduction To The Concept Of Combatxa0Theology"
-date = "December 27, 2020"
+title = "A Brief Introduction To The Concept Of Combat Theology"
+date = "2020-12-27"
+upstream_url = "https://aryaakasha.com/2020/12/27/a-brief-introduction-to-the-concept-of-combat-theology/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/12/27/a-brief-introduction-to-the-concept-of-combat-theology/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/12/kodp-raiding.jpg?w=639)
 
 Recently, we were asked what we meant by “Combat Theology”.

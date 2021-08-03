@@ -1,7 +1,11 @@
 +++
 title = "Molluscan phylogeny"
+date = "2011-11-05"
+upstream_url = "https://manasataramgini.wordpress.com/2011/11/05/molluscan-phylogeny/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/11/05/molluscan-phylogeny/).
+
 Long ago in our youth we were observing a trochophore larva of an
 annelid under our microscope, when we raised our eye from the eyepiece
 in flash of realization. Right then the morphological continuity of
@@ -51,12 +55,11 @@ little of their soft-part morphology. Hence, we cannot be too certain
 regarding their affinities. The Burgess shale and related assemblages
 are from the Middle Cambrian (\~505 Mya) in which we find a profusion of
 enigmatic forms that bear several features in common with molluscs-  
-1\) The presence of the rasping radula is shared by Wiwaxia and
+1) The presence of the rasping radula is shared by Wiwaxia and
 Odontogriphus with the molluscs.  
-2\) Wiwaxia is united with the halkieriids, Orthrozanclus, Acaenoplax
-and extant aculiferan molluscs by the presence of spicule-like
-sclerites.  
-3\) Halkieriids have two shells (anterior and posterior), Orthrozanclus
+2) Wiwaxia is united with the halkieriids, Orthrozanclus, Acaenoplax and
+extant aculiferan molluscs by the presence of spicule-like sclerites.  
+3) Halkieriids have two shells (anterior and posterior), Orthrozanclus
 has one shell (anterior) and Acaenoplax has seven shells. Thus, they
 share the presence of one or more shells with the molluscs.
 
@@ -68,18 +71,18 @@ part of the Paleozoic.
 Now among extant molluscs the the chitons and the remaining shelled
 forms share several common characters in addition to the presence of
 shells:  
-1\) The presence of an aorta through which the blood is pumped to the
+1) The presence of an aorta through which the blood is pumped to the
 body by the ventricle.  
-2\) The structure of the radula and the presence of a distinct
-esophagus, stomach and intestine.  
-3\) Tetraneurous nervous system – the presence of 4 ventral nerve cords
-– two pedal and two visceral.  
-4\) A prominent creeping sole.  
+2) The structure of the radula and the presence of a distinct esophagus,
+stomach and intestine.  
+3) Tetraneurous nervous system – the presence of 4 ventral nerve cords –
+two pedal and two visceral.  
+4) A prominent creeping sole.  
 Now the polyplacophorans and conchiferans share some other characters:  
-1\) Eight sets of serial gills and dorso-ventral retractor muscles are
+1) Eight sets of serial gills and dorso-ventral retractor muscles are
 shared with monoplacophorans .  
-2\) Eight sets of pedal retractor muscles are shared by Cambrian
-bivalves and polyplacophorans.
+2) Eight sets of pedal retractor muscles are shared by Cambrian bivalves
+and polyplacophorans.
 
 From this we might reconstruct the common ancestor of extant molluscs as
 having a heart with an aorta, a digestive tract differentiated into
@@ -157,12 +160,13 @@ started expanding their own brain power.
 
 1\) Resolving the evolutionary relationships of molluscs with
 phylogenomic tools; Smith et al.  
-2\) Computer reconstruction and analysis of the vermiform mollusc
+2) Computer reconstruction and analysis of the vermiform mollusc
 acaenoplax hayae from the Herefordshire Lagerstaette (Silurian,
 England), and implications for molluscan phylogeny; Sutton et al.  
-3\) A molecular palaeobiological hypothesis for the origin of
+3) A molecular palaeobiological hypothesis for the origin of
 aplacophoran molluscs and their derivation from chiton-like ancestors;
 Vinther et al.  
-4\) Memory of visual and topographical features suggests spatial
-learning in the ancient cephalopod, nautilus (Nautilus pompilius L.);
-Crook et al.
+4) Memory of visual and topographical features suggests spatial learning
+in the ancient cephalopod, nautilus (Nautilus pompilius L.); Crook et
+al.
+

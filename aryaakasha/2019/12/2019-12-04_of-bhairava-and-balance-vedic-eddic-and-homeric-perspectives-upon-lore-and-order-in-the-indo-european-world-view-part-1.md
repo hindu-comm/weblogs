@@ -1,8 +1,11 @@
 +++
-title = "OF BHAIRAVA AND BALANCE – Vedic, Eddic, and Homeric Perspectives Upon Lore And Order In The Indo-European World View [Partxa01]"
-date = "December 4, 2019"
+title = "OF BHAIRAVA AND BALANCE – Vedic, Eddic, and Homeric Perspectives Upon Lore And Order In The Indo-European World View [Part 1]"
+date = "2019-12-04"
+upstream_url = "https://aryaakasha.com/2019/12/04/of-bhairava-and-balance-vedic-eddic-and-homeric-perspectives-upon-lore-and-order-in-the-indo-european-world-view-part-1/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/12/04/of-bhairava-and-balance-vedic-eddic-and-homeric-perspectives-upon-lore-and-order-in-the-indo-european-world-view-part-1/).
+
 ![](https://aryaakasha.files.wordpress.com/2019/12/77400125_436737917014094_5412184844849381376_n.jpg?w=720)
 
 One of my favourite myths from the Hindu – and more especially, Shaivite

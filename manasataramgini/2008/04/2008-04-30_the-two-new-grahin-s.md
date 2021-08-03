@@ -1,7 +1,11 @@
 +++
 title = "The two new grAhin-s"
+date = "2008-04-30"
+upstream_url = "https://manasataramgini.wordpress.com/2008/04/30/the-two-new-grahin-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/04/30/the-two-new-grahin-s/).
+
 Having evaded the vAmagrAhin we accomplished the immediate objective
 with reasonable success. Then on the second day after that the
 vAmagrAhin seemed to lose its grip like a leech touched by tobacco. Then
@@ -15,3 +19,4 @@ hit them. Of course they could not be blamed entirely because our own
 astra-s were baffled by these two grAhin-s. They looked like a
 troublesome kShudra-vidyA at the first sight, but the very fact two of
 them broke through, one after the other, was truely baffling.
+

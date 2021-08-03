@@ -1,7 +1,11 @@
 +++
 title = "shAstA in the drAviDa country"
+date = "2007-06-16"
+upstream_url = "https://manasataramgini.wordpress.com/2007/06/16/shasta-in-the-dravida-country/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/06/16/shasta-in-the-dravida-country/).
+
 [![](https://i2.wp.com/bp2.blogger.com/_ZhvcTTaaD_4/RnOEoE5tW-I/AAAAAAAAAK8/f3bbD4QEByM/s320/ayyanar1.jpg)](http://bp2.blogger.com/_ZhvcTTaaD_4/RnOEoE5tW-I/AAAAAAAAAK8/f3bbD4QEByM/s1600-h/ayyanar1.jpg)Unlike
 khaNDobA, mallaNNa or mallAri of the upper peninsular India and
 Maharashtra, in the drAviDa country the homologous equestrian deity does
@@ -68,3 +72,4 @@ be called sonai karrupu.); mAchi-chuvAmi (he rides a tiger like Arya in
 the chera country); sapta-kanya-s (the deified Pleiades open cluster).
 There is also a shrine for the first pUjArI of the shAstA cult (the
 Adi-pUjArI) and, on occasions, a sannayAsI.
+

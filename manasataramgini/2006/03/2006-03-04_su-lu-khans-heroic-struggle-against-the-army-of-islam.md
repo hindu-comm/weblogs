@@ -1,7 +1,11 @@
 +++
 title = "Su-lu Khan’s heroic struggle against the army of Islam"
+date = "2006-03-04"
+upstream_url = "https://manasataramgini.wordpress.com/2006/03/04/su-lu-khans-heroic-struggle-against-the-army-of-islam/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/03/04/su-lu-khans-heroic-struggle-against-the-army-of-islam/).
+
 When one glances at the map of central Asia one sees Samarqand, Khorezm,
 Khorasan, Khotan and Bokhara, all once great centers of Indo-Iranian
 culture, now civilizational tragedies under the mushroom cloud of the
@@ -249,3 +253,4 @@ oppressive spread into central Asia. With that the Tuergish nation and
 the many pagan states of Transoxiana and Sogdiana were open to the
 imperialist China and Moslem troops that poured in for the final
 contest.
+

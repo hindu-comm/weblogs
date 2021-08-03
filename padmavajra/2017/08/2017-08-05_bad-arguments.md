@@ -1,8 +1,11 @@
 +++
 title = "Bad arguments"
-date = "2017-08-05"
+date = "2017-05-08"
+upstream_url = "https://padmavajra.net/2017/08/05/bad-arguments/"
 
 +++
+Source: [here](https://padmavajra.net/2017/08/05/bad-arguments/).
+
 Tunku Varadarajan, I want you to argue to Jews that they should give up
 worshipping Yahweh alone because ancient Israelite relgion was
 polytheistic and see what they say. That’s how scholarly,yet bad,your

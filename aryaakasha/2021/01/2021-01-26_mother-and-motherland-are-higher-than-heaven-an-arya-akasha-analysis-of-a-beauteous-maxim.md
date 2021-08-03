@@ -1,8 +1,11 @@
 +++
-title = "‘Mother And Motherland Are Higher Than Heaven’ – An Arya Akasha Analysis Of A Beauteousxa0Maxim"
-date = "January 26, 2021"
+title = "‘Mother And Motherland Are Higher Than Heaven’ – An Arya Akasha Analysis Of A Beauteous Maxim"
+date = "2021-01-26"
+upstream_url = "https://aryaakasha.com/2021/01/26/mother-and-motherland-are-higher-than-heaven-an-arya-akasha-analysis-of-a-beauteous-maxim/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/01/26/mother-and-motherland-are-higher-than-heaven-an-arya-akasha-analysis-of-a-beauteous-maxim/).
+
 ![](https://aryaakasha.files.wordpress.com/2019/08/b7d77c00d41c918fdab8c01ed2a9e1e2.jpg?w=564)
 
 ‘Mother And Motherland Are Higher Than Heaven’ – An Arya Akasha Analysis

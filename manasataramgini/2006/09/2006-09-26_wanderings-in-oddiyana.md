@@ -1,7 +1,11 @@
 +++
 title = "Wanderings in oDDiyAna"
+date = "2006-09-26"
+upstream_url = "https://manasataramgini.wordpress.com/2006/09/26/wanderings-in-oddiyana/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/09/26/wanderings-in-oddiyana/).
+
 Long ago the great old vaiShNava wandered in the hallowed oDDiyAna
 pITha, when he reached an old desolate prAsada towards the evening hour.
 There he seated himself and concentrated ThaM bIja. Then the divine
@@ -24,8 +28,7 @@ goddesses with shapely bodies colored like the dark bark of tamAla tree
 (Xanthochymus pictorius). They had tawny hair and ruthless eyes, and
 held terrible weapons similar to those of samayasa\~nketA. Smoke and
 flames shot forth from their snouts. and the curved tusks illuminated
-the darkness like crescent moons.
-  
+the darkness like crescent moons.  
 They rode on charging buffaloes, while a few of these sow-faced
 goddesses diffused away guarding the flanks prancing around with their
 swords and shields. They advanced before them a fleet of siege engines
@@ -52,3 +55,4 @@ bangles to make a noise pleasing to the gods. sachiveshI had two full
 quivers of deadly arrows beside her and led a huge horde of
 archer-goddesses.  
 One who sees this experiences bliss.
+

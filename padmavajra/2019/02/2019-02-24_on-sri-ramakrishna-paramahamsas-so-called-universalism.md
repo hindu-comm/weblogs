@@ -1,8 +1,11 @@
 +++
-title = "On Sri Ramakrishna Paramahamsa’s so calledxa0universalism"
+title = "On Sri Ramakrishna Paramahamsa’s so called universalism"
 date = "2019-02-24"
+upstream_url = "https://padmavajra.net/2019/02/24/on-sri-ramakrishna-paramahamsas-so-called-universalism/"
 
 +++
+Source: [here](https://padmavajra.net/2019/02/24/on-sri-ramakrishna-paramahamsas-so-called-universalism/).
+
 It is often said that he said ‘joto mot toto poth'(As many faiths, so
 many paths). However,from reading Sri Ramakrishna Kathamrita,one of the
 earliest unbiased records on his life,we find a more nuanced picture

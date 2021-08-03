@@ -1,7 +1,11 @@
 +++
 title = "Winners and Losers"
+date = "2020-08-10"
+upstream_url = "https://manasataramgini.wordpress.com/2020/08/10/winners-and-losers/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2020/08/10/winners-and-losers/).
+
 Somakhya and Lootika were visiting the Śūlapuruṣadeśa for work reasons.
 Unlike their ārya ancestors, they did not like being on the move much.
 It was a rare occasion that both had been able to travel together and it
@@ -98,24 +102,24 @@ important unlike in your part of the world.” The mahāmleccha: “Sorry, I
 was just joking.” With that, they all headed into the station and the
 mahāmleccha soon caught his train to head for his destination.
 
-Soon the two with their ati-prācya fellow traveler found themselves on
-speeding away on the train from their kṣetra of the past week. Perhaps
-due to the phlegmatic disposition of their fellow traveler, they
-remained quiet for some time before he suddenly pointed to a decrepit
-monument that sped past them. With dark clouds hanging about it, it
-presented a melancholy specter. The J: “That is a ruin from the
-fire-bombing during WW-2. Even Tokyo was similarly reduced to ashes. It
-was worse there because we used to build almost everything from wood and
-paper. Here at least this solid stone structure is standing.” S and L:
-“We were just talking about something related before we saw you. Bad as
-this was, the burning down of Japan was evidently worse.” The J: “The
+A little later the two with their ati-prācya fellow traveler found
+themselves on speeding away on the train from their kṣetra of the past
+week. Perhaps due to the phlegmatic disposition of their fellow
+traveler, they remained quiet for some time before he suddenly pointed
+to a decrepit monument that sped past them. With dark clouds hanging
+about it, it presented a melancholy specter. The J: “That is a ruin from
+the fire-bombing during WW-2. Even Tokyo was similarly reduced to ashes.
+It was worse there because we used to build almost everything from wood
+and paper. Here at least this solid stone structure is standing.” S and
+L: “We were just talking about something related before we saw you. Bad
+as this was, the burning down of Japan was evidently worse.” The J: “The
 American Demon LeMay who was the mastermind of the bombing of Japan
 first learnt his tricks here. But for him the Japanese were merely
 cockroaches, so even if there might have been some restraint here none
 of it was there when the demon came east.” S: “He was indeed a
 psychopathic war-criminal but what matters is victory. If one wins then
 even your psychopaths and mass-murders will be hailed as national
-heroes. That was so or demon LeMay or the other mass-murderer who likely
+heroes. That was so of demon LeMay or the other mass-murderer who likely
 inspired him, bomber Harris.” The J: “That is true. The biggest
 humiliation for us when the government was obliged to confer on the
 demon the highest Japanese honor for a foreigner! People have still not
@@ -190,7 +194,7 @@ responses like the Germans did not trust the ‘yellow race’ or that the
 śūlapuruṣa-s were too proud to seek assistance from the Untermenschen of
 the East.”
 
-Mitrayu: “As ever these types never got it that the situation on the
+Mitrayu: “As ever, these types never got it that the situation on the
 ground was more complicated. As Somakhya noted the śūlapuruṣa-s had
 hardly been open with the atiprācya-s about their own pacts with the
 Soviets. If that were the case, then the J had every reason to be wary
@@ -226,8 +230,8 @@ deaths at over 25 million dwarfs the costs incurred by the śūlapuruṣa-s,
 Jews and Poles of about a 6 million each and by the Hindus of about 2.5
 million.”
 
-M: “After all much as tyrant Akbar’s shaikh-s celebrated the deaths of
-the Kaffirs and fired randomly into their midst as Mana Siṃha engaged
+M: “After all much as tyrant Akbar’s Sufi shaikh-s celebrated the deaths
+of the Kaffirs and fired randomly into their midst as Mana Siṃha engaged
 the valiant Pratāpa Siṃha, the Anglo-Saxons cheered on as the
 fascist-Soviet clash played out acknowledging that a death on either
 side was gain for them.”
@@ -305,6 +309,6 @@ beyond anything their praṇidhi-s had ever imagined would emerge from
 their midst. Thus, we await the unfolding of the phantasmagoria the
 Hindu soldier saw before turning phantom. Unlike the pleasant passing of
 Danish girl, his culminated in the climax of a roga that seized the
-Bhārata-s even as a man when ranged against his svābhāvika-vairin-s is
+Bhārata-s, even as a man when ranged against his svābhāvika-vairin-s is
 seized by a disease from within.”
 

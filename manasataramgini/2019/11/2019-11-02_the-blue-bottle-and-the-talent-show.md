@@ -1,7 +1,11 @@
 +++
 title = "The blue bottle and the talent show"
+date = "2019-11-02"
+upstream_url = "https://manasataramgini.wordpress.com/2019/11/02/the-blue-bottle-and-the-talent-show/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2019/11/02/the-blue-bottle-and-the-talent-show/).
+
 This story itself is haunted.
 
 **The deaths**  
@@ -13,32 +17,32 @@ Vidrum: “It sort of relates to them.”
 Kalakausha: “Why, did they send some message?”  
 V: “No. But Sphichmukh has apparently died today. His car was pummeled
 by a truck.”  
-K: “Oh\! Who is this Sphichmukh?”  
+K: “Oh! Who is this Sphichmukh?”  
 V: “A rowdy from our school. He went on to become a well-known gangster
 in these regions. In addition to running his regular crime syndicate he
 also did a few hit-jobs under the payroll of the late
 socialist-secularist leader Shonit.”  
-K: “That’s interesting\! Just last week we learnt that Shonit was
+K: “That’s interesting! Just last week we learnt that Shonit was
 shot-down by his own friend Fakhr az-Zaman. As I told you, that Shonit
 was a senior of mine in school and the son of the principal. He had
 stalked and harassed me for sometime before something almost magical
 happened. He always had his evil eye on my dear friend Lootika when she
 was at our school. It was due to the danger from Shonit that she and her
 sisters left my school and transferred to yours. Before that she said
-Shonit will someday die a dreadful death and it has now come to pass\!”
+Shonit will someday die a dreadful death and it has now come to pass!”
 
 V: “Indeed; there is a parallel story on our side. This Sphichmukh was
 an avowed enemy of Somakhya. He had stolen Somakhya’s stuff and had
 stabbed Somakhya in his hand with a weapon he had made by hafting a
 rusted nail to a wooden stock.”  
-K: “Ouch\! The coincident timing of the deaths of Sphichmukh from your
+K: “Ouch! The coincident timing of the deaths of Sphichmukh from your
 school and Shonit from ours who were respectively enemies of Somakhya
-and Lootika really surprises me\! Let me tell you something. I know
+and Lootika really surprises me! Let me tell you something. I know
 Lootika longer than you or her own husband Somakhya — while she conceals
 it, she and her sisters are rumored to perform certain cremation ground
 rituals to a dreadful goddess Chinnamastā that might confer some special
 siddhi-s to them.”  
-V: “Oh\! That’s not news to me. That facet of Somakhya and Lootika is
+V: “Oh! That’s not news to me. That facet of Somakhya and Lootika is
 well-known to me — surely they are practitioners of many other mantra-s
 beyond Chinnamastā. Given my own experiences I think it is real. I don’t
 know whether to believe it but I would not be surprised if Shonit and
@@ -53,7 +57,7 @@ Vidrum and Kalakausha arrived at their hosts’ house. Lootika and
 Kalakausha hugged each other even as the visitors were ushered in.
 Kalakausha also clashed palms with Jhilleeka who was also staying for a
 few days at her sister’s place before her marriage. Jhilli was busy
-assembling a drone with Somakhya and her nephew Tigmanika. Vidrum: “Ah\!
+assembling a drone with Somakhya and her nephew Tigmanika. Vidrum: “Ah!
 times have changed. Now you guys are into making a drone and not balls
 from rain-tree pods?” Tigmanika pointed to a corner in where there were
 some of the famous balls saying: “No. I did make a few successfully and
@@ -75,8 +79,8 @@ daughter Prithika who was asleep on a mat under a painting of Śakha,
 Viśakha, Nejameṣa, Skanda and Ṣaṣṭhī. K: “So the gods have been good to
 you; you have furthered your genes twice and continued the lineage of
 arthropodous names among the females of your clan.” L: “Praise be to
-Ṣaṣṭhī, she has survived fine so far but there still a while to go
-and hope the Kumāra-graha-s remain pacified.” K: “And I hope she has not
+Ṣaṣṭhī, she has survived fine so far but there still a while to go and
+hope the Kumāra-graha-s remain pacified.” K: “And I hope she has not
 regressed to the mean as you were fearing.” L: “Well, I think assessing
 this at age one is a little tricky. However, you will notice that beside
 her she has arranged those play discs in the form of different symmetric
@@ -85,11 +89,11 @@ fascinated by making triangles and joining them to make polygons. That’s
 not a bad sign.” K: “It struck me that she resembles your sister Jhilli
 the most and perhaps will show her inclinations too. Vidrum told me of
 how she solved an interesting mathematical problem even at school.” L:
-“As for her appearance, yes, but it is too early to say anything
-more.” K: “And what about your research?’ L: “What to say? At some
-time one has to come to terms with the more complete experience of life
-and that one is a mere mortal. Though, I should say I’m not done with
-the my discoveries yet.”
+“As for her appearance, yes, but it is too early to say anything more.”
+K: “And what about your research?’ L: “What to say? At some time one has
+to come to terms with the more complete experience of life and that one
+is a mere mortal. Though, I should say I’m not done with the my
+discoveries yet.”
 
 After lunch, which had mostly been cooked by Jhilleeka, they were
 enjoying a pāyasa made solely by Lootika. Vidrum: “It is good that you
@@ -122,7 +126,7 @@ At the insistence of their guests Somakhya and Lootika led them to the
 sacristy attached their fire-room. Before entering the chamber Somakhya
 said: “Repeat the following incantation after me in a low voice 10
 times: “OṂ GAṂ GLĀṂ VĪRA-VINĀYAKĀYA SARVAVETĀLA-RODHAKĀYA
-BHUTAGAṆĀDHIPATYE HUṂ PHAṆ NAMAḤ ||” Then Lootika passed them a box
+BHUTAGAṆĀDHIPATYE HUṂ PHAṆ NAMAḤ \|\|” Then Lootika passed them a box
 with gray ash in it and asked them to smear some on their foreheads.
 Thereafter the two led their guests into the chamber where they beheld a
 large iron chest with the images of four elephant-headed Vināyaka-s
@@ -136,7 +140,7 @@ Mitrayu and in few days when Prachetas comes to pick me we will take our
 set to our own house. So what are here are those of ours and Somakhya
 and Lootika who still remain the most prolific in their catch.”
 
-V: “Ah\! so the collection has been mostly partitioned. But I am sure
+V: “Ah! so the collection has been mostly partitioned. But I am sure
 there will be some memorable ones.” Lootika opened the box and pointed
 to a cast iron pot: “Certainly. Here, you can see the famous Englishman
 who haunted your regions and came to us via your gifts just before you
@@ -247,14 +251,14 @@ died.”
 L: “Ah. Indeed, that whole noise, in a perverse way, distracted people
 from a real investigation of this unmatta’s death. It was around that
 time my parents introduced me to the basics of the
-Uḍḍāmareśvara-tantram. After the basic siddhānta-śravaṇam
-censoring certain parts, they initiated me into the triad of mantra-s
-known as Bhūtādhipati Virūpākṣa, Vajra Caṇḍeśvara and the famed
-Nṛsiṃhaceṭaka. I intensely practiced those for some time and soon
-felt I possessed their mantra-vīrya. However, in truth my siddhi was
-only partial. But it was enough to open this mystery world to me.
-Kalakausha, this is when you enter the story — why don’t you continue.
-I’ll attend to my daughter and be back.”
+Uḍḍāmareśvara-tantram. After the basic siddhānta-śravaṇam censoring
+certain parts, they initiated me into the triad of mantra-s known as
+Bhūtādhipati Virūpākṣa, Vajra Caṇḍeśvara and the famed Nṛsiṃhaceṭaka. I
+intensely practiced those for some time and soon felt I possessed their
+mantra-vīrya. However, in truth my siddhi was only partial. But it was
+enough to open this mystery world to me. Kalakausha, this is when you
+enter the story — why don’t you continue. I’ll attend to my daughter and
+be back.”
 
 Kalakausha: “One day after school I decided to visit Lootika’s regions
 because she had told me of a haunted house where we could see ghosts.
@@ -308,9 +312,9 @@ S: “That’s why this bhūta was dangerous but potentially useful.”
 °°°°°°
 
 **The aid**  
-Kalakausha: “That’s indeed true Somakhya\! Let me tell you’ll rest of
-the story as it pertained to me. From the night of visiting that
-deserted house things started going downhill for me.”  
+Kalakausha: “That’s indeed true Somakhya! Let me tell you’ll rest of the
+story as it pertained to me. From the night of visiting that deserted
+house things started going downhill for me.”  
 V: “Now you can understand what my youth was like. Continue… for it
 seems I’m the only one not in the know regarding this back story of my
 former dwelling.”  
@@ -338,7 +342,7 @@ separate house but soon thereafter things went crazy for me.”
 K: “But for me things looked up for the first time in 8 months at that
 point. My parents were almost ready to withdraw me from school and send
 me to the village when I completed the said count of 20000 of the
-mantra. It was almost as if the monsoons had ended\! The nightmares
+mantra. It was almost as if the monsoons had ended! The nightmares
 vanished, I was doing spectacularly at school and even my skin suddenly
 became smooth and shiny and my hair thicker living up to my name. But
 this came with the undesired attention of that lout Shonit. One day he
@@ -348,7 +352,7 @@ off my shoe. Just then Shonit appeared and started touching me
 inappropriately claiming he wanted take me to the doctor. I realized his
 evil intent and asked him to give me second. As he eagerly stood by, I
 drew out the bottle with the phantom and uncorked it as Lootika had
-instructed. What happened next was sheer magic. Shonit simply ran away\!
+instructed. What happened next was sheer magic. Shonit simply ran away!
 He never came near me for the remaining years I was in that school. But
 I believe the ghost had escaped for good.”
 
@@ -379,7 +383,7 @@ duly drafted me to put together the team for debating the rival team. Of
 course I dragged by friends Vidrum and Sharva much to their horror to be
 my partners in this debate.”
 
-Lootika: “Ah, those wasteful days\! I remember for the girls the topic
+Lootika: “Ah, those wasteful days! I remember for the girls the topic
 was ‘What will I do if I became the prime minister’ and as luck would
 have it I too was drafted by the teacher for this affair.”  
 Vidrum: “I think for boys it was something like ‘Akbar was India’s
@@ -442,7 +446,7 @@ locking the door. There to my utter surprise I saw geometric diagram in
 multicolored ink on the pad of paper I had left on the ground to note
 comments as Vidrum rehearsed.
 
-![Golden\_ratio\_square\_triangle\_semicircle](https://manasataramgini.files.wordpress.com/2019/11/golden_ratio_square_triangle_semicircle.png?w=640)Figure
+![Golden_ratio_square_triangle_semicircle](https://manasataramgini.files.wordpress.com/2019/11/golden_ratio_square_triangle_semicircle.png?w=640)Figure
 1: The geometric diagram on Somakhya’s pad
 
 The pen with multiple colors was however on Vidrum’s desk. This seemed
@@ -483,7 +487,7 @@ hard math question. Very generously, they asked our house to go first
 and we elected Somakhya to pose a question on our behalf. He gave the
 following problem:
 
-![3circles\_in\_circle](https://manasataramgini.files.wordpress.com/2019/11/3circles_in_circle.png?w=549&h=526)
+![3circles_in_circle](https://manasataramgini.files.wordpress.com/2019/11/3circles_in_circle.png?w=549&h=526)
 
 Figure 2. Somakhya’s problem
 
@@ -501,35 +505,32 @@ that Somakhya could at best respond to one of them for each participant
 could be involved only in a fixed number items and Somakhya had all but
 exhausted his available total in the Akbar affair. Hemling posed the
 following question: Given ![a = 100; k=3; m=3;
-x\_0=13](https://s0.wp.com/latex.php?latex=a+%3D+100%3B+k%3D3%3B+m%3D3%3B+x_0%3D13&bg=ffffff&fg=333333&s=0
-"a = 100; k=3; m=3; x_0=13"), what will be the attractor of
-![x\_{n+1}=\\left(ax\_n^k\\right)^{1/2^m}](https://s0.wp.com/latex.php?latex=x_%7Bn%2B1%7D%3D%5Cleft%28ax_n%5Ek%5Cright%29%5E%7B1%2F2%5Em%7D&bg=ffffff&fg=333333&s=0
-"x_{n+1}=\\left(ax_n^k\\right)^{1/2^m}"). He placed the condition that
-only a log table may be used.
+x_0=13](https://s0.wp.com/latex.php?latex=a+%3D+100%3B+k%3D3%3B+m%3D3%3B+x_0%3D13&bg=ffffff&fg=333333&s=0&c=20201002),
+what will be the attractor of
+![x\_{n+1}=\\left(ax_n^k\\right)^{1/2^m}](https://s0.wp.com/latex.php?latex=x_%7Bn%2B1%7D%3D%5Cleft%28ax_n%5Ek%5Cright%29%5E%7B1%2F2%5Em%7D&bg=ffffff&fg=333333&s=0&c=20201002).
+He placed the condition that only a log table may be used.
 
 Somakhya pointed out that if
-![k=2^m-r](https://s0.wp.com/latex.php?latex=k%3D2%5Em-r&bg=ffffff&fg=333333&s=0
-"k=2^m-r"), where ![m=\\lceil \\log\_2(r)
-\\rceil](https://s0.wp.com/latex.php?latex=m%3D%5Clceil+%5Clog_2%28r%29+%5Crceil&bg=ffffff&fg=333333&s=0
-"m=\\lceil \\log_2(r) \\rceil"), then ![n \\to \\infty, \\;
-x\_{n}=\\sqrt\[r\]{a}](https://s0.wp.com/latex.php?latex=n+%5Cto+%5Cinfty%2C+%5C%3B+x_%7Bn%7D%3D%5Csqrt%5Br%5D%7Ba%7D&bg=ffffff&fg=333333&s=0
-"n \\to \\infty, \\; x_{n}=\\sqrt[r]{a}"). Thus, the attractor would be
-![\\sqrt\[5\]{100} \\approx
-2.51188](https://s0.wp.com/latex.php?latex=%5Csqrt%5B5%5D%7B100%7D+%5Capprox+2.51188&bg=ffffff&fg=333333&s=0
-"\\sqrt[5]{100} \\approx 2.51188")
+![k=2^m-r](https://s0.wp.com/latex.php?latex=k%3D2%5Em-r&bg=ffffff&fg=333333&s=0&c=20201002),
+where ![m=\\lceil \\log_2(r)
+\\rceil](https://s0.wp.com/latex.php?latex=m%3D%5Clceil+%5Clog_2%28r%29+%5Crceil&bg=ffffff&fg=333333&s=0&c=20201002),
+then ![n \\to \\infty, \\;
+x\_{n}=\\sqrt\[r\]{a}](https://s0.wp.com/latex.php?latex=n+%5Cto+%5Cinfty%2C+%5C%3B+x_%7Bn%7D%3D%5Csqrt%5Br%5D%7Ba%7D&bg=ffffff&fg=333333&s=0&c=20201002).
+Thus, the attractor would be ![\\sqrt\[5\]{100} \\approx
+2.51188](https://s0.wp.com/latex.php?latex=%5Csqrt%5B5%5D%7B100%7D+%5Capprox+2.51188&bg=ffffff&fg=333333&s=0&c=20201002)
 
 With a grotesque smile Hemling then asked his second question, a
 geometric problem, almost as though to mock us. It went thus:
 
-![square\_inscribed\_triangle](https://manasataramgini.files.wordpress.com/2019/11/square_inscribed_triangle.png?w=514&h=511)
+![square_inscribed_triangle](https://manasataramgini.files.wordpress.com/2019/11/square_inscribed_triangle.png?w=514&h=511)
 
 Figure 3. Hemling’s problem
 
 Given a square inscribed in an isosceles triangle, with one side lying
 along the base of the said triangle, at what base angle
-![\\theta](https://s0.wp.com/latex.php?latex=%5Ctheta&bg=ffffff&fg=333333&s=0
-"\\theta") will the ratio of the area of the inscribed square to the
-area of the isosceles triangle be maximum.
+![\\theta](https://s0.wp.com/latex.php?latex=%5Ctheta&bg=ffffff&fg=333333&s=0&c=20201002)
+will the ratio of the area of the inscribed square to the area of the
+isosceles triangle be maximum.
 
 Just a few days before those ‘talent competitions’ my family and
 Somakhya’s had visited our local temple for a ritual. During a long wait
@@ -537,20 +538,20 @@ there Somakhya’s father had been humoring me with various geometric
 relationships that could be derived using origami. As a result an idea
 flashed in my mind and I was able to answer Hemling’s challenge using an
 origami trick and figuring out that ![\\theta= \\arctan(2) \\approx
-63.435^o](https://s0.wp.com/latex.php?latex=%5Ctheta%3D+%5Carctan%282%29+%5Capprox+63.435%5Eo&bg=ffffff&fg=333333&s=0
-"\\theta= \\arctan(2) \\approx 63.435^o"). With that Hemling’s astra had
-been blunted and I believe our house had won by aggregate points. But
-many people who are good at mathematics from birth also have other
-mental quirks. Vidrum and Kalakausha you may know something about this.
-Hemling could not brook being blunted thus. He threw a tantrum like a
-kid from a class lower than me and claimed that I, of a class where kids
-were still learning their multiplication tables, could not possibly
-answer this problem which needed calculus. Hence, I had to have cheated
-— he made the bizarre assertion that Somakhya or Lootika had passed me
-a chit with the solution. Lootika was seated beside me and had passed me
-the water-bomb with the ceṭaka. The math teacher siding with Hemling
-believed that it was the chit she had given me and roughly plucked the
-water-bomb from my hand and crumpled it in an attempt to unfold it.
+63.435^o](https://s0.wp.com/latex.php?latex=%5Ctheta%3D+%5Carctan%282%29+%5Capprox+63.435%5Eo&bg=ffffff&fg=333333&s=0&c=20201002).
+With that Hemling’s astra had been blunted and I believe our house had
+won by aggregate points. But many people who are good at mathematics
+from birth also have other mental quirks. Vidrum and Kalakausha you may
+know something about this. Hemling could not brook being blunted thus.
+He threw a tantrum like a kid from a class lower than me and claimed
+that I, of a class where kids were still learning their multiplication
+tables, could not possibly answer this problem which needed calculus.
+Hence, I had to have cheated — he made the bizarre assertion that
+Somakhya or Lootika had passed me a chit with the solution. Lootika was
+seated beside me and had passed me the water-bomb with the ceṭaka. The
+math teacher siding with Hemling believed that it was the chit she had
+given me and roughly plucked the water-bomb from my hand and crumpled it
+in an attempt to unfold it.
 
 The next moment hell literally broke loose. The large light on the
 ceiling of our school hall came loose fell to the ground with a crash
@@ -566,24 +567,21 @@ Somakhya: “I was quite intrigued by the fact that Hemling’s second
 problem had an intimate connection to the problem presented by the bhūta
 on my pad in Vidrum’s house. Vidrum, you may recall the effort you put
 into it. Given the square ![\\square
-PQRS](https://s0.wp.com/latex.php?latex=%5Csquare+PQRS&bg=ffffff&fg=333333&s=0
-"\\square PQRS") inscribed in a semicircle, construct a ![\\triangle
-ABC](https://s0.wp.com/latex.php?latex=%5Ctriangle+ABC&bg=ffffff&fg=333333&s=0
-"\\triangle ABC") with one side as its diameter and the vertex
-![C](https://s0.wp.com/latex.php?latex=C&bg=ffffff&fg=333333&s=0 "C")
+PQRS](https://s0.wp.com/latex.php?latex=%5Csquare+PQRS&bg=ffffff&fg=333333&s=0&c=20201002)
+inscribed in a semicircle, construct a ![\\triangle
+ABC](https://s0.wp.com/latex.php?latex=%5Ctriangle+ABC&bg=ffffff&fg=333333&s=0&c=20201002)
+with one side as its diameter and the vertex
+![C](https://s0.wp.com/latex.php?latex=C&bg=ffffff&fg=333333&s=0&c=20201002)
 opposite to it lying on the arc
-![RB](https://s0.wp.com/latex.php?latex=RB&bg=ffffff&fg=333333&s=0 "RB")
+![RB](https://s0.wp.com/latex.php?latex=RB&bg=ffffff&fg=333333&s=0&c=20201002)
 such that its area is the same as ![\\square
-PQRS](https://s0.wp.com/latex.php?latex=%5Csquare+PQRS&bg=ffffff&fg=333333&s=0
-"\\square PQRS"): 1) Where will the incenter of ![\\triangle
-ABC](https://s0.wp.com/latex.php?latex=%5Ctriangle+ABC&bg=ffffff&fg=333333&s=0
-"\\triangle ABC") be located? 2) What will be the radius of the incircle
-of ![\\triangle
-ABC](https://s0.wp.com/latex.php?latex=%5Ctriangle+ABC&bg=ffffff&fg=333333&s=0
-"\\triangle ABC")? In what ratio will the incenter divide the side of
-the square
-![\\overline{QR}](https://s0.wp.com/latex.php?latex=%5Coverline%7BQR%7D&bg=ffffff&fg=333333&s=0
-"\\overline{QR}")?”  
+PQRS](https://s0.wp.com/latex.php?latex=%5Csquare+PQRS&bg=ffffff&fg=333333&s=0&c=20201002):
+1) Where will the incenter of ![\\triangle
+ABC](https://s0.wp.com/latex.php?latex=%5Ctriangle+ABC&bg=ffffff&fg=333333&s=0&c=20201002)
+be located? 2) What will be the radius of the incircle of ![\\triangle
+ABC](https://s0.wp.com/latex.php?latex=%5Ctriangle+ABC&bg=ffffff&fg=333333&s=0&c=20201002)?
+In what ratio will the incenter divide the side of the square
+![\\overline{QR}](https://s0.wp.com/latex.php?latex=%5Coverline%7BQR%7D&bg=ffffff&fg=333333&s=0&c=20201002)?”  
 Lootika: “That was fun. To conclude, that weekend after the class for
 the art exam, Somakhya and I slipped into the hall and recaptured our
 ceṭaka in a blue bottle. We also recovered the crumpled water-bomb on

@@ -1,7 +1,11 @@
 +++
 title = "graha pratigaraM"
+date = "2008-04-05"
+upstream_url = "https://manasataramgini.wordpress.com/2008/04/05/graha-pratigaram/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/04/05/graha-pratigaram/).
+
 We invoked the terrifying son of pinAkin, the seizer, the awful vinAyaka
 with a gleaming tusk dripping with the blood of devadviT-s gored in
 hand-to-hand combat. He held a frightful axe still unwashed with the
@@ -35,3 +39,4 @@ and vishAkha with spears. In their midst sat the illustrious dhUrta
 ensnared by the fair arms of the all-fascinating ShaShThI of firm
 breasts. We showed the trishUla mudra and the shakti mudra. We sought
 sAyujya with him so that we may become ghora to our bhrAtR^ivya-s.
+

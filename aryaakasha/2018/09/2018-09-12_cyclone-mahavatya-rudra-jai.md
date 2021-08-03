@@ -1,8 +1,11 @@
 +++
-title = "“Cyclone Mahavatya Rudra”xa0Jai"
-date = "September 12, 2018"
+title = "“Cyclone Mahavatya Rudra” Jai"
+date = "2018-09-12"
+upstream_url = "https://aryaakasha.com/2018/09/12/cyclone-mahavatya-rudra-jai/"
 
 +++
+Source: [here](https://aryaakasha.com/2018/09/12/cyclone-mahavatya-rudra-jai/).
+
 ![21432989_10159329062090574_7699275241183585476_n](https://aryaakasha.files.wordpress.com/2018/09/21432989_10159329062090574_7699275241183585476_n.jpg?w=676)  
 I’ve seen a bit of chatter on here about the naming conventions for
 cyclones/hurricanes in the US/Caribbean – and, in particular, how these

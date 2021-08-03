@@ -1,7 +1,13 @@
 +++
 title = "Repenomamus an early predatory mammal"
+date = "2005-01-13"
+upstream_url = "https://manasataramgini.wordpress.com/2005/01/13/repenomamus-an-early-predatory-mammal/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/01/13/repenomamus-an-early-predatory-mammal/).
+
+
+
 [![](https://i0.wp.com/bp3.blogger.com/_ZhvcTTaaD_4/RnCeuE5tW4I/AAAAAAAAAKM/ienVCnqk1rE/s320/Repenomamus1.jpg)](http://bp3.blogger.com/_ZhvcTTaaD_4/RnCeuE5tW4I/AAAAAAAAAKM/ienVCnqk1rE/s1600-h/Repenomamus1.jpg)[![](https://i1.wp.com/bp0.blogger.com/_ZhvcTTaaD_4/RnCeuU5tW7I/AAAAAAAAAKk/_sNLRSphtDg/s320/repenomamus_skull.jpg)](http://bp0.blogger.com/_ZhvcTTaaD_4/RnCeuU5tW7I/AAAAAAAAAKk/_sNLRSphtDg/s1600-h/repenomamus_skull.jpg)
 
 [![](https://i0.wp.com/bp0.blogger.com/_ZhvcTTaaD_4/RnCeuU5tW6I/AAAAAAAAAKc/2HZiSvXFh5c/s320/repenomamus_holotype.jpg)](http://bp0.blogger.com/_ZhvcTTaaD_4/RnCeuU5tW6I/AAAAAAAAAKc/2HZiSvXFh5c/s1600-h/repenomamus_holotype.jpg)
@@ -18,3 +24,4 @@ mammals do not appear to have been major predators in the Mesozoic and
 Repenomamus may be more of an exception (?). However, the immediate
 ancestors of the mammals, Triassic pro-mammals were definitely larger
 active predators.
+

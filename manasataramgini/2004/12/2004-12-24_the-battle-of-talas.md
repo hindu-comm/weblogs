@@ -1,7 +1,11 @@
 +++
 title = "The battle of Talas"
+date = "2004-12-24"
+upstream_url = "https://manasataramgini.wordpress.com/2004/12/24/the-battle-of-talas/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/12/24/the-battle-of-talas/).
+
 Reviewing the battle of Talas one of the most defining moments in
 Asiatic history is worthwhile because the same explosive mix continues
 to dominate Central Asia. We have to learn many military lessons from
@@ -78,3 +82,4 @@ making this allowed them the spread the Q’uran, with even greater
 effectiveness. The same year the Southern division of the T’ang Army
 faced a disastrous defeat at the hands of the Thais, opening the once
 mighty empire for invasion by the Uighur Kha’Khans of Mongolia.
+

@@ -1,7 +1,11 @@
 +++
 title = "When chimps and men stopped mating"
+date = "2006-07-03"
+upstream_url = "https://manasataramgini.wordpress.com/2006/07/03/when-chimps-and-men-stopped-mating/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/07/03/when-chimps-and-men-stopped-mating/).
+
 Chimps and humans are so close that I had wondered since my school days
 when the ancestors of chimp and humans had stopped mating with each
 other. There were several rumors of human-chimp hybrids but they were
@@ -65,3 +69,4 @@ overlap in terms of gene exchange between the human and chimp lines
 until relatively recently. Then Sahelanthropus and other apes might
 represent the early divergent phase after which renewed mating mixed the
 human and chimp lineages again.
+

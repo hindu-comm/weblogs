@@ -1,8 +1,11 @@
 +++
-title = "Navratri – The Nine Nights of Goddessxa0Durga"
-date = "September 29, 2019"
+title = "Navratri – The Nine Nights of Goddess Durga"
+date = "2019-09-29"
+upstream_url = "https://aryaakasha.com/2019/09/29/navratri-the-nine-nights-of-goddess-durga-2/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/09/29/navratri-the-nine-nights-of-goddess-durga-2/).
+
 ![21762094_10159373640625574_5968834606492638825_n](https://aryaakasha.files.wordpress.com/2019/09/21762094_10159373640625574_5968834606492638825_n.jpg?w=676)  
 Tonight marks the start of NavRatri – the Nine Nights of Goddess Durga.
 In North Indian tradition, we mark each one of the Nine as being

@@ -1,7 +1,11 @@
 +++
 title = "On some dAnas and utsargas of the mediaeval Hindus"
+date = "2006-09-24"
+upstream_url = "https://manasataramgini.wordpress.com/2006/09/24/on-some-danas-and-utsargas-of-the-mediaeval-hindus/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/09/24/on-some-danas-and-utsargas-of-the-mediaeval-hindus/).
+
 The dharma texts interminably dilate on the performance of a variety of
 dAna-s and utsarga-s to deserving people or for public benefit which
 ranged from elephants, cattle, horses, clothing, umbrellas, footware,
@@ -73,8 +77,10 @@ recommends plantation of a garden as an act of highest merit.
 
 In the plantation and gardening karma he performs a fire rite with 3
 oblations of cooked rice with formulae:  
-OM viShNave svAhA | OM indrAgnibhyAM svAhA | OM vishvakarmaNe svAhA ||  
+OM viShNave svAhA \| OM indrAgnibhyAM svAhA \| OM vishvakarmaNe svAhA
+\|\|  
 Then he makes a series of oblations with the R^iks of vishvAmitra RV
 3.8.6-10.  
 then he goes watering the tree or garden with the formula of vishvAmitra
 “vanaspate shatavalsho vi roha…” RV 3.8.6.
+

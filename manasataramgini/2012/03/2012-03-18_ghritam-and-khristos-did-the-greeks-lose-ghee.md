@@ -1,10 +1,14 @@
 +++
 title = "ghR^itaM and khristós: Did the Greeks lose ghee?"
+date = "2012-03-18"
+upstream_url = "https://manasataramgini.wordpress.com/2012/03/18/ghritam-and-khristos-did-the-greeks-lose-ghee/"
 
 +++
-vayaM nAma pra bravAmA ghR^itasyAsmin yaj\~ne dhArayAmA namobhiH |  
+Source: [here](https://manasataramgini.wordpress.com/2012/03/18/ghritam-and-khristos-did-the-greeks-lose-ghee/).
+
+vayaM nAma pra bravAmA ghR^itasyAsmin yaj\~ne dhArayAmA namobhiH \|  
 upa brahmA shR^iNavach ChasyamAnaM chatuH shR^i\~Ngo .avamId gaura etat
-|| RV 4.58.2
+\|\| RV 4.58.2
 
 Let us proclaim the name of ghee, and hold it up with homage at this
 ritual.  
@@ -34,16 +38,15 @@ deities. Indeed, this function has resulted in a particular word
 becoming dominant for ghee in the avesta – AzUti (AzUiti), which is a
 cognate of Sanskrit Ahuti, meaning a ghee-libation. We find that this
 ancestral sense is preserved in the Iranian texts:  
-tEM AzUtoiSh ahurO mAthreM tashat | yaShT 29.7  
-The ahura (Skt: asura) fashioned (tashat-\> Skt takShat) that mAthra
-(Skt: mantra) for the ghee-libation (AzUti-\> Skt: Ahuti) \[Footnote
-1\].
+tEM AzUtoiSh ahurO mAthreM tashat \| yaShT 29.7  
+The ahura (Skt: asura) fashioned (tashat-> Skt takShat) that mAthra
+(Skt: mantra) for the ghee-libation (AzUti-> Skt: Ahuti) \[Footnote 1\].
 
 But in several cases it has shifted to mean simply ghee, not
 specifically in a ritual context:  
 “izhA-cha AzUitish-cha dAsuuare-cha baeshazem-cha…” This a fragment from
 the vi-daevo-dAta 9.53, which seems to have been adapted from an old
-Iranian version of a chamakaM-like chant; note baeshazem-\>Skt bheShaja
+Iranian version of a chamakaM-like chant; note baeshazem->Skt bheShaja
 or medicine. Here AzUiti is taken to mean ghee in a general sense. The
 Iranians frequently use another word for ghee, namely gaush hudaw (a
 term comparable to the Vedic gAvaH sudughAH; the cow giving good milk).
@@ -70,11 +73,11 @@ scenario could have the Greeks branch off before the innovation of ghee
 happened, thus making them unfamiliar with it. Navigating this question
 brings us to the second related issue in this regard – the term commonly
 used by Indo-Aryans for ghee, ghR^ita, is not one used by the Iranians,
-but it has a cognate in Greek: ghR^itá -\> khristós. The conservation of
+but it has a cognate in Greek: ghR^itá -> khristós. The conservation of
 the udAtta in these words supports the contention that they are indeed
 valid cognates. The sound transitions are also mirrored by other
-Indo-European words and support this homology: gR^iShviH -\> khoiros
-(pig); dIrghaH-\>dolikhos (long). Thus, Sanskrit ‘gh’ is an ortholog of
+Indo-European words and support this homology: gR^iShviH -> khoiros
+(pig); dIrghaH->dolikhos (long). Thus, Sanskrit ‘gh’ is an ortholog of
 Greek ‘kh’. Now in Sanskrit the root gR^iSh has a meaning ‘to smear, to
 rub or to sprinkle’ which is mirrored in the Greek ‘khrisma’ with a
 similar meaning. More specifically, it also means to anoint. This sense
@@ -87,8 +90,8 @@ adopted in India and Greece, resulting in very different terms for oil:
 In Greece the early adoption of olive oil resulted in elaion, whereas in
 India the early adoption of tila (sesame) oil resulted in taila.
 However, some terms related to milk-products can be seen as being
-shared: sarpis-\>elphos (butter); sAra-\>oros (whey), both of which have
-emerged through 0-grading. If we consider apabhramsha tUra-\>tUros
+shared: sarpis->elphos (butter); sAra->oros (whey), both of which have
+emerged through 0-grading. If we consider apabhramsha tUra->tUros
 (butter), then we might have one more. Thus, the more likely candidate
 for a fatty substance shared by the common ancestor of Indo-Iranians and
 Greeks (or the one from their period of early interaction) is one of
@@ -146,11 +149,11 @@ among the Greeks.
 
 ….  
 Footnote 1: The structure of this avestan mantra can compared with Vedic
-construct: “mantraM ye .. atkShan |” in 7.7.6 of vasiShTha; a comparable
-construct might be found in Greek too. For example, the Greek atomist
-Democritus states that “Homer having a nature in contact with the divine
-fashioned an array of verses of every kind”. He uses the cognate verb
-tektones.
+construct: “mantraM ye .. atkShan \|” in 7.7.6 of vasiShTha; a
+comparable construct might be found in Greek too. For example, the Greek
+atomist Democritus states that “Homer having a nature in contact with
+the divine fashioned an array of verses of every kind”. He uses the
+cognate verb tektones.
 
 Footnote 2: Anointment with ghee is a ritual mentioned in multiple
 contexts in the veda. In the shrauta ritual the anointment (of ghee with
@@ -159,10 +162,11 @@ taittirIya saMhitA (where it is given in the context of the anna-homa):
 devasya tvA savituH prasave .ashviNor bAhubhyAm pUShNo hAstAbhyAm
 sarasvatyai vAcho yantur yantreNAgnes tvA
 sAmrAjyenAbhiShi\~nchAmIndrasya bR^ihaspates tvA
-sAmrAjyeNAbhiShi\~nchAmi ||
+sAmrAjyeNAbhiShi\~nchAmi \|\|
 
 Footnote 3: ye kIlAlena tarpayatho ye ghR^itena yAbhyAm R^ite na kiM
-chana shaknuvanti | AV-vulgate 4.26.6ab (offering to the
+chana shaknuvanti \|AV-vulgate 4.26.6ab (offering to the
 dyAvApR^ithivI)  
-ye kIlAlena tarpayanti ye ghR^itena ye vA vayo medasA saMsR^ijanti |
+ye kIlAlena tarpayanti ye ghR^itena ye vA vayo medasA saMsR^ijanti \|
 AV-vulgate 4.27.6ab (offering to the marut-s)
+

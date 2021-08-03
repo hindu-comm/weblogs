@@ -1,7 +1,11 @@
 +++
 title = "A Political roundup August 15 2018"
+date = "2018-08-16"
+upstream_url = "https://manasataramgini.wordpress.com/2018/08/16/a-political-roundup-august-15-2108/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2018/08/16/a-political-roundup-august-15-2108/).
+
 As I remarked to a friend, much of the stuff in (geo)politics which is
 relevant to us is what we have predicted before based on the relatively
 straightforward model of mleccha-marūnmattābhisaṃdhi i.e. the
@@ -126,22 +130,22 @@ not entirely clear. The handling of the Nuclear Suppliers Group matter
 does look like a failure to us. Finally, like a good Hindu king ought to
 do, NM has paid much attention to the issue of jana-kṣema and made major
 strides in this direction. He himself has led the
-svaccha-Bhārata-abhiyāna from front in attempt the impart the
-much-need civic sense to the undisciplined Hindus. The ground
-connectivity progress managed by Gadkari and railways by Prabhu/Goyal
-seem to be bright spots too. However, specific Hindu issues relating to
-temple administration, temple rights, animal husbandry and ground level
+svaccha-Bhārata-abhiyāna from front in attempt the impart the much-need
+civic sense to the undisciplined Hindus. The ground connectivity
+progress managed by Gadkari and railways by Prabhu/Goyal seem to be
+bright spots too. However, specific Hindu issues relating to temple
+administration, temple rights, animal husbandry and ground level
 prevention of the infection spread by dayi-s and evangelists have not
 been satisfactorily addressed.
 
 That last point in the above discussion brings us to proverbial
 “elephant in the room”. During the UPA rule the
-mleccha-marūnmattābhisaṃdhi had systematically infiltrated the
-judiciary and the civil service with pro-Abrahamistic elements. As India
-is ruled by a democratic form of government, NM and his lieutenants are
-having a difficult time undoing the evil of this infiltration. This in
-part is the basis of their inability to do much for certain specific
-Hindu issues. Going forward, this could result in enormous damage to the
+mleccha-marūnmattābhisaṃdhi had systematically infiltrated the judiciary
+and the civil service with pro-Abrahamistic elements. As India is ruled
+by a democratic form of government, NM and his lieutenants are having a
+difficult time undoing the evil of this infiltration. This in part is
+the basis of their inability to do much for certain specific Hindu
+issues. Going forward, this could result in enormous damage to the
 Hindus. One only hopes that NM is doing his best to uproot these plants
 of the enemies completely revamp the affiliation of the administrative
 machinery. Beyond this, our enemies are certainly rattled by this
@@ -188,18 +192,19 @@ those were hardly worth living. We have been critical of him on these
 pages on more than one occasion but now that he belongs the realm of the
 manes we have to acknowledge his historic role with gratitude. He
 certainly built the platform that Hindus can use to move forward and the
-one that the Lāṭeśvara is using. His end brings down the curtain on this
+one that theLāṭeśvara is using. His end brings down the curtain on this
 turn in the meandering of the Hindu nation. Many Hindus have been
 spending the last four years doing nothing but bitching about NM. They
 are nothing but armchair activists who have not participated in
 electoral contests or organized protective services on the ground. One
 thing we can tell such folks is do your own little bit for the dharma at
-the grassroots level. Do not expect the prime minister or mahānta yogī
-Ādityanātha to be a quantum entity who is at multiple places at the
-same time performing bābāistic miracles. Also remember that certain
-parts of the country are seriously compromised with the infections and
-batting for them would not save them unless they are willing to chip in
-too. Finally, this period has also seen the death of the Dravidianist
-leader, the hater of brahma, and the corpulent woman who attempted to
-destroy the Kumbhaghoṇa maṭha. The Hindu leadership needs to act quickly
-in this window of opportunity to eradicate the evil of Dravidianism.
+the grassroots level. Do not expect the prime minister ormahānta yogī
+Ādityanātha to be a quantum entity who is at multiple places at the same
+time performing bābāistic miracles. Also remember that certain parts of
+the country are seriously compromised with the infections and batting
+for them would not save them unless they are willing to chip in too.
+Finally, this period has also seen the death of the Dravidianist leader,
+the hater of brahma, and the corpulent woman who attempted to destroy
+the Kumbhaghoṇa maṭha. The Hindu leadership needs to act quickly in this
+window of opportunity to eradicate the evil of Dravidianism.
+

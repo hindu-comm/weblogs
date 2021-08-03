@@ -1,8 +1,12 @@
 +++
 title = "Long gone cephalopods"
+date = "2008-11-12"
+upstream_url = "https://manasataramgini.wordpress.com/2008/11/12/long-gone-cephalopods/"
 
 +++
-[![fossil\_cephalopods](https://i0.wp.com/farm4.static.flickr.com/3175/3023696809_f5b1e20030.jpg)](http://www.flickr.com/photos/24766652@N05/3023696809/ "fossil_cephalopods by somasushma, on Flickr")
+Source: [here](https://manasataramgini.wordpress.com/2008/11/12/long-gone-cephalopods/).
+
+[![fossil_cephalopods](https://i0.wp.com/farm4.static.flickr.com/3175/3023696809_f5b1e20030.jpg)](http://www.flickr.com/photos/24766652@N05/3023696809/ "fossil_cephalopods by somasushma, on Flickr")
 
 Over the ages cephalopods have attained large sizes on many occasions.
 The earlier Paleozoic radiations of cephalopods were dominated by the
@@ -36,3 +40,4 @@ largest cephalopods if at all. However, tetrapods that returned to the
 sea, like ichthyosaurs, plesiosaurs and whales gave rise to some of the
 largest ever animals. This might be related the inherent metabolic
 limits of extracting oxygen from water as against using air.
+

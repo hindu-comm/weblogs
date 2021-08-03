@@ -1,8 +1,11 @@
 +++
-title = "Shailaputri – First of thexa0NavaDurga"
-date = "September 30, 2019"
+title = "Shailaputri – First of the NavaDurga"
+date = "2019-09-30"
+upstream_url = "https://aryaakasha.com/2019/09/30/shailaputri-first-of-the-navadurga/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/09/30/shailaputri-first-of-the-navadurga/).
+
 # ![d95c94917c4d0910228c2d9142cfaba6](https://aryaakasha.files.wordpress.com/2019/09/d95c94917c4d0910228c2d9142cfaba6.jpg?w=676)
 
 The first night of NavRatri is dedicated to Ma as Shailaputri – the

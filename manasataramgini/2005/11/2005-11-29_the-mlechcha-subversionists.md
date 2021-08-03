@@ -1,7 +1,11 @@
 +++
 title = "The mlechCha subversionists"
+date = "2005-11-29"
+upstream_url = "https://manasataramgini.wordpress.com/2005/11/29/the-mlechcha-subversionists/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/11/29/the-mlechcha-subversionists/).
+
 I have never been a great fan of many modern Hindu fads: 1) They include
 the foolish opposition to the ultimate non-Indian origin of the
 Indo-Aryan and their incursion into India. 2) The statement that all
@@ -43,7 +47,7 @@ to the erection of a flaccid phallus. Wants to down-size the Ramayana to
 put the uppity Hindus in place.  
 Dwijendra Jha: Worst Brahmin traitor and lickspittle of Witzel.
 Dwijendra he was called, but taskarashiromaNi he is.  
-Jonathan Kenoyer: Son of missionaries in Pakistan \! What else but hate
+Jonathan Kenoyer: Son of missionaries in Pakistan ! What else but hate
 for Hindus can he learn from his Momeen friends.  
 Rajesh Kocchar: A burnt out astronomer now making hay as a lickspittle
 of his White Massas.  
@@ -87,3 +91,4 @@ believe that one major reason is that there is a concerted attempt by
 the Western powers to undermine India through subversion of historical
 memory. So they are all funded by various such bodies to do the job. I
 fear Malhotra of U-turn theory fame may himself have been subverted.
+

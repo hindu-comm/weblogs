@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "January 26, 2021"
+date = "2021-01-26"
+upstream_url = "https://vriitrahan.wordpress.com/2021/01/26/on-the-origins-of-the-albanians/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2021/01/26/on-the-origins-of-the-albanians/).
+
 The Albanians are speakers of an isolate of the Indo-European family,
 the Albanian language. Surrounded by Slavs & Greeks, sharing a sea
 border with Romance speakers. We can be sure of a few things, namely

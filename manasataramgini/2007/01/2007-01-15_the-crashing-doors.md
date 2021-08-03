@@ -1,7 +1,11 @@
 +++
 title = "The crashing doors"
+date = "2007-01-15"
+upstream_url = "https://manasataramgini.wordpress.com/2007/01/15/the-crashing-doors/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/01/15/the-crashing-doors/).
+
 This note should be considered along with our earlier notes on the
 topic:  
 [The crossing of
@@ -55,8 +59,8 @@ I was reminded of this most remarkable tale due the striking statement
 made by the jaiminIya brAhmaNa in connection with the deployment of the
 [bR^ihat and
 rathantara](https://manasataramgini.wordpress.com/2007/01/10/the-deployment-of-brihat-and-rathantara/):
-“bR^ihad-rathantarayor evainaM mukhe .apidadhAti | yaM dveShTi taM purA
-saMvatsarAt prANo jahAti |”  
+“bR^ihad-rathantarayor evainaM mukhe .apidadhAti \| yaM dveShTi taM purA
+saMvatsarAt prANo jahAti \|”  
 It almost looked as though the samans in whose mouth the enemy is placed
 are like the clashing doors in the above myth, and kill the him by the
 completion of year. The above tale is rich in motifs: there is the
@@ -73,11 +77,12 @@ The taittirIya brAhmaNa 1.2.3.1/2 provide the brahmavAda for the
 [divAkIrtya](https://manasataramgini.wordpress.com/2007/01/13/the-divakirtya-samans/)
 chant, which is central to the sacrifice performed on the viShuvAn day-
 
-viShUvAn divAkIrtyam | yathA shAlAyai pakShasI | evaGM saMvatsarasya
-pakShasI | yad ete na gR^iheran | viShUcI saMvatsarasya pakShasI
-vyavasraGMseyAtAm | Artim ArCheyuH | yad ete gR^ihyante | yathA shAlAyai
-pakShasI madhyamaM vaGMsham abhi samAyachChati || evaGM saMvatsarasya
-pakShasI divAkIrtyam abhi saMtanvanti | nArtim ArChanti |
+viShUvAn divAkIrtyam \| yathA shAlAyai pakShasI \| evaGM saMvatsarasya
+pakShasI \| yad ete na gR^iheran \| viShUcI saMvatsarasya pakShasI
+vyavasraGMseyAtAm \| Artim ArCheyuH \| yad ete gR^ihyante \| yathA
+shAlAyai pakShasI madhyamaM vaGMsham abhi samAyachChati \|\| evaGM
+saMvatsarasya pakShasI divAkIrtyam abhi saMtanvanti \| nArtim ArChanti
+\|
 
 Here the viShuvAn day or the summer solstice day is identified with the
 divAkIrtya song. The same identification is reiterated in the aitareya
@@ -109,22 +114,22 @@ the halves of the years (about which we started introspecting on account
 of the bR^ihat and the rathantara) providing a complete comparison for
 the deadly jaw-like crashing doors in the Native American tale. In the
 atharva veda-shaunaka we have the mantra (11.6.22= AV-P 15.14.10):  
-yA devIH pa\~ncha pradisho ye devA dvAdasha rtavah|  
-saMvatsarasya ye daMShTrAs te naH santu sadA shivAH ||  
+yA devIH pa\~ncha pradisho ye devA dvAdasha rtavah\|  
+saMvatsarasya ye daMShTrAs te naH santu sadA shivAH \|\|  
 Here the jaws or the fangs of the year are invoked to be benign in the
 second hemistich of the mantra. The same concept emerges again in the
 spell laid to counter the maker of kR^ityA-s as per the atharvanic
 tradition. Here the foe crunched by the jaws or the fangs of the year
 (AV-P 1.63.2):  
-vyAtte parameShThino brahmaNApIpadAma tam |  
-saMvatsarasya daMShTrAbhyAM hetis taM sam adhAd abhi ||  
+vyAtte parameShThino brahmaNApIpadAma taM \|  
+saMvatsarasya daMShTrAbhyAM hetis taM sam adhAd abhi \|\|  
 The missile crunches him like the jaws/fangs of the year close upon him.
 
 The pa\~nchaviMsha brAhmaNa also brings up the issue of the danger posed
 by the jaws of the year closing on the yajamAna.  
 “saMvatsarasya vA etau daMShTrau yad atirAtrau tayor na svaptavyaM
-saMvatsarasya daMShTayor AtmAnaM ned apidadhAnIti | tad AhuH ko.asvaptum
-arhati yad vAva prANo jAgAra tad eva jAgaritam iti”  
+saMvatsarasya daMShTayor AtmAnaM ned apidadhAnIti \| tad AhuH
+ko.asvaptum arhati yad vAva prANo jAgAra tad eva jAgaritam iti”  
 If the yajamAna sleeps on the days of the atirAtras (which in the yearly
 sattra would mark the solstice nights) he gets crunched by the
 jaws/fangs of the year. Hence he must remain awake on these nights
@@ -133,9 +138,10 @@ Thus, if Franz Boas’ account of the Native American myth is to be taken
 as reality, then indeed the deadly crashing doors are an ancient mythic
 motif representing the year and might be used in the precession myths.
 Here it is worth noting that other great precessional myth: Where was
-hiraNyakashipu slain by viShNu? At the door\!
+hiraNyakashipu slain by viShNu? At the door!
 
 A corollary would be that these mythic motifs had come into being at
 least by 12000 year BP when the Native Americans are believed to have
 separated from the Eurasians. If so the long records of precession
 ‘literally” yuga after yuga” might not be surprising.
+

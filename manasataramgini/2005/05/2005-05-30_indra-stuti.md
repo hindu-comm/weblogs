@@ -1,7 +1,11 @@
 +++
 title = "indra stuti"
+date = "2005-05-30"
+upstream_url = "https://manasataramgini.wordpress.com/2005/05/30/indra-stuti/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/05/30/indra-stuti/).
+
 The indra stuti is another hymn in the pauShya section of the adiparavan
 of the mahAbhArata (1.3.150-1.3.153 in the critical Poona edition of the
 mahAbhArata) which appears to be a composition of the “intermediate
@@ -129,7 +133,7 @@ unlike the repeated emphasis in the frame myth of the UAS. This, taken
 together with the more complex frame, suggests that there is a more
 complex astronomical imagery embedded in the language of this myth with
 the stolen earrings. A few elements which emerge from this language are
-described below. 
+described below.
 
 Firstly, it is most likely that the earrings, as bright objects, do have
 a solar connection to them. Most importantly the name of the king in the
@@ -141,7 +145,7 @@ moon lay between these constellations in the end of the vedic period and
 the immediate post-mahAbhArata era (1300-1200 BC). The loss, theft or
 disappearance of bright objects, like fire, and gold are typically
 associated with myths signifying the [precession of the
-axis](http://manasataramgini.wordpress.com/2004/04/great-circle.html) with the
+axis](http://manollasa.blogspot.com/2004/04/great-circle.html) with the
 sun (the bright object emerging often elsewhere) . Thus, it appears like
 the earrings of pauShya’s wife appear to be sun slipping to the new
 point between the snake’s head (the nakShatra pushya is the head of the
@@ -152,11 +156,11 @@ this is offered by the lines from the sarpa chant of utta\~Nka as he
 entered nAga-loka.
 
 surUpAshcha virUpAshcha tathA kalmASha-kuNDalAH .   
-Adityavan-nAka-pR^iShThe rejur-airAvatodbhavAH ..140.. 
+Adityavan-nAka-pR^iShThe rejur-airAvatodbhavAH ..140..
 
 Of beautiful form, of various forms with speckled ear-rings are the
-serpents.  They shine in the roof of the sky like the sun, snakes born
-of airAvata.
+serpents. They shine in the roof of the sky like the sun, snakes born of
+airAvata.
 
 bahUni nAga-vartmAni ga\~NgAyAstIra uttare .  
 ichChetko.arkAMshu senAyA.n chartumairAvata.n vinA .. 141..\\\\
@@ -201,10 +205,10 @@ certain, but it could imply that the truth is always concealed. The
 temporary blindness of the king and the sterility of utta\~Nka could be
 a metaphor of the solar decline at the winter solstice embedded within
 the larger frame. However, it could also signify the mythological
-“chaos” often associated with the precessional change of the
-coordinates of the year. Finally, there is the motif of the fire of
-equine form within
-[water](http://manasataramgini.wordpress.com/2004/04/indo-european-divine-tripartation.html)
+“chaos” often associated with the precessional change of the coordinates
+of the year. Finally, there is the motif of the fire of equine form
+within
+[water](http://manollasa.blogspot.com/2004/04/indo-european-divine-tripartation.html)
 briefly alluded to as “garbham-apAM” – the horse of indra, which is
 agni. The connection of this equine fire within water to the
 astronomical myth of precession needs further exploration.
@@ -261,5 +265,6 @@ Notes
 (1) In another tale utta\~Nka is offered ambrosia by indra in the form
 of the urine of a niShAda in a desert.
 
-(2) The 24 divisions on the wheel of time are the 24 fortnights that
+\(2\) The 24 divisions on the wheel of time are the 24 fortnights that
 occur as pairs corresponding to each month.
+

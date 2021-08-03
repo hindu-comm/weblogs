@@ -1,7 +1,11 @@
 +++
 title = "TAkarAja-s?"
+date = "2008-10-05"
+upstream_url = "https://manasataramgini.wordpress.com/2008/10/05/takaraja-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/10/05/takaraja-s/).
+
 After long we spoke to Sharada. She mentioned reading our note on
 lolimbarAja. She described her own little walk through medieval Hindu
 history in relationship to the development of medicine. She mentioned
@@ -77,3 +81,4 @@ famous and mighty ruler from southern India, kR^iShNa-deva-rAya of
 vijayanagara. Thus, the inspiration of the great bhojadeva paramAra did
 seem to linger on amongst great and small kings keeping alive the Hindu
 spark even in the declining years.
+

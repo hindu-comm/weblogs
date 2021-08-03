@@ -1,7 +1,11 @@
 +++
 title = "The Jihads of Shihabuddin, the Sultankalka of Ghur"
+date = "2005-07-19"
+upstream_url = "https://manasataramgini.wordpress.com/2005/07/19/the-jihads-of-shihabuddin-the-sultankalka-of-ghur/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/07/19/the-jihads-of-shihabuddin-the-sultankalka-of-ghur/).
+
 Around 1140, the Islamized Turko-Mongol chiefs of the Shansabanid tribe
 occupied Ghor in Afghanistan. Initially it was a vassal of the Ghaznavid
 Sultans, but around 1130 it came into conflict with them, after one of
@@ -68,3 +72,4 @@ not clear. While on the North-western reaches of the Sindhu, he was
 ambushed by the Khokar chiefs and shot down by an arrow…(13). Thus ended
 the carrier of the Moslem brigand who brought misery to the whole of
 northern India through his 13 invasions.
+

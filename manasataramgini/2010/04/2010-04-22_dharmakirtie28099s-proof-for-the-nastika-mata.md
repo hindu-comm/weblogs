@@ -1,7 +1,11 @@
 +++
 title = "dharmakIrti’s proof for the nAstika mata"
+date = "2010-04-22"
+upstream_url = "https://manasataramgini.wordpress.com/2010/04/22/dharmakirti%e2%80%99s-proof-for-the-nastika-mata/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/04/22/dharmakirti%e2%80%99s-proof-for-the-nastika-mata/).
+
 That learned pAShaNDa among the brAhmaNa-s, AchArya dharmakIrti, is said
 to have once enjoyed the beauty of a woman. His protégé asked him if he
 was ensnared by the wonderfully unattainable object of his vision. He
@@ -9,9 +13,9 @@ remarked that he was struck not just by the pleasure of his visual
 sensation but by the vindication of the nAstika mata. How so his protégé
 asked. He responded with this ornate verse:  
 yAtA lochana-gocharaM yadi vidher eNekShaNA sundarI neyaM
-ku\~Nkuma-pa\~Nka-pi\~njara-mukhI tenojjhitA syAt kShaNam |  
+ku\~Nkuma-pa\~Nka-pi\~njara-mukhI tenojjhitA syAt kShaNaM \|  
 nApy AmIlita-lochanasya rachanAd rUpaM bhaved IdR^ishaM tasmAt sarvam
-akartR^ikaM jagad idaM shreyo mataM saugatam ||  
+akartR^ikaM jagad idaM shreyo mataM saugatam \|\|  
 Roughly: If this doe-eyed beauty, with a golden face and vermillion mark
 had come in the range of vision of the creator then he would not let her
 go from his sight even for a second;  
@@ -27,3 +31,4 @@ Legend has it that the great pANini similarly encountered a great strI.
 When asked what he saw, his expression was one of the pure rasa, with no
 philosophical undercurrents. But then paNini’s words are for another
 day.
+

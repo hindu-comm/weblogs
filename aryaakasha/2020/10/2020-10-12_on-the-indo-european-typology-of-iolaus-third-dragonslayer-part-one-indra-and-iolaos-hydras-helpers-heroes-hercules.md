@@ -1,8 +1,11 @@
 +++
-title = "ON THE INDO-EUROPEAN TYPOLOGY OF IOLAUS – THIRD DRAGONSLAYER  Part One – Indra And Iolaos : Hydras, Helpers, Heroes,xa0Hercules"
-date = "October 12, 2020"
+title = "ON THE INDO-EUROPEAN TYPOLOGY OF IOLAUS – THIRD DRAGONSLAYER  Part One – Indra And Iolaos : Hydras, Helpers, Heroes, Hercules"
+date = "2020-10-12"
+upstream_url = "https://aryaakasha.com/2020/10/12/on-the-indo-european-typology-of-iolaus-third-dragonslayer-part-one-indra-and-iolaos-hydras-helpers-heroes-hercules/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/10/12/on-the-indo-european-typology-of-iolaus-third-dragonslayer-part-one-indra-and-iolaos-hydras-helpers-heroes-hercules/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/10/1833800_orig.jpg?w=1024)
 
 **  

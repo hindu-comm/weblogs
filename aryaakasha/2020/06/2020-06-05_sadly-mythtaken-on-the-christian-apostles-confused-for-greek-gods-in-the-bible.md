@@ -1,8 +1,11 @@
 +++
-title = "Sadly Mythtaken – On The Christian Apostles Confused For Greek Gods In Thexa0Bible"
-date = "June 5, 2020"
+title = "Sadly Mythtaken – On The Christian Apostles Confused For Greek Gods In The Bible"
+date = "2020-06-05"
+upstream_url = "https://aryaakasha.com/2020/06/05/sadly-mythtaken-on-the-christian-apostles-confused-for-greek-gods-in-the-bible/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/06/05/sadly-mythtaken-on-the-christian-apostles-confused-for-greek-gods-in-the-bible/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/06/berchem_nicolaes_pietersz._-_paul_and_barnabas_at_lystra_-_1650.jpg?w=855)
 
 I find this kinda hilarious. The Apostles Paul & Barnabas in Lystra,

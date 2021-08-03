@@ -1,14 +1,18 @@
 +++
 title = "The Planetary nebula hunt"
+date = "2005-09-06"
+upstream_url = "https://manasataramgini.wordpress.com/2005/09/06/the-planetary-nebula-hunt/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/09/06/the-planetary-nebula-hunt/).
+
 A great hunt for the planetary nebulae was successfully conducted this
 night. After an initial survey of bright globulars we pursued the
 planetary nebulae with a vengence.
 
 1\) NGC 6210 in Hercules: Small faint disk. About 6500 light years away.
-Discovered by Wilhelm ****Struve, successor of Herschel in 1827. Hubble
-has revealed it to contain two shells of gas.  
+Discovered by Wilhelm Struve, successor of Herschel in 1827. Hubble has
+revealed it to contain two shells of gas.  
 <http://antwrp.gsfc.nasa.gov/apod/ap981028.html>
 
 2\) NGC 6543 in Draco: Medium bright disk. Discovered by Wilhelm
@@ -22,9 +26,9 @@ object, larger than NGC 6543
 <http://hubblesite.org/newscenter/newsdesk/archive/releases/1997/38/image/d>
 
 4\) NGC 7293: The Helix Nebula in Aquarius. Discovered by Karl Harding,
-student of Karl Gauss while working with him on the production of
-**Atlas novus coelestis (a map of 120,000 stars) in 1824. The nearest
-planetary nebula to earth. Very large and faint.  
+student of Karl Gauss while working with him on the production of Atlas
+novus coelestis (a map of 120,000 stars) in 1824. The nearest planetary
+nebula to earth. Very large and faint.  
 <http://hubblesite.org/newscenter/newsdesk/archive/releases/2003/11/>
 
 5\) NGC 7009: The Saturn Nebula in Aquarius. Discovered by Wilhelm
@@ -42,4 +46,5 @@ on the orbit of Bode’s comet of 1779. Merely added by Messier to his
 catalog. Bright glorious object. Second best planetary in the sky.  
 <http://antwrp.gsfc.nasa.gov/apod/ap010729.html>
 
-[****](http://www.google.com/url?sa=t&ct=res&cd=1&url=http%3A//www.seds.org/messier/xtra/ngc/n7293.html&ei=1zcdQ_a1Dsr0aPeH_cUM)
+[](http://www.google.com/url?sa=t&ct=res&cd=1&url=http%3A//www.seds.org/messier/xtra/ngc/n7293.html&ei=1zcdQ_a1Dsr0aPeH_cUM)
+

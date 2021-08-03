@@ -1,7 +1,11 @@
 +++
 title = "Leaves from the scrapbook-4"
+date = "2019-04-29"
+upstream_url = "https://manasataramgini.wordpress.com/2019/04/29/leaves-from-the-scrapbook-4/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2019/04/29/leaves-from-the-scrapbook-4/).
+
 As described
 [here](https://manasataramgini.wordpress.com/2016/09/18/leaves-from-the-scrapbook/)
 these entries are from the scrapbook of the second of the caturbhaginī,
@@ -11,7 +15,7 @@ Vrishchika.
 departed for grad school last week and I am feeling a bit of loneliness
 of a kind I did not even feel when Lootika left. In the midst of all
 this I did not even register the fact that I have completed my basic
-medical degree in good time. But dear my agrajā’s words come to mind
+medical degree in good time. But my dear agrajā’s words come to mind
 that the true prowess of a person becomes apparent only when they prove
 themselves all on their own against hostile forces. I was also reminded
 of her admonishing me that I was way too swayed by sentiments of
@@ -23,11 +27,11 @@ for glory.
 
 Thankfully, due to the favors of the gods I am likely to get any
 internship I would like, but that is just practice. It goes without
-saying that I would be pursuing experimental medicine for that was how I
-always supposed to be doing. In any case, I have got a waiver to already
-start accompanying and assisting my senior Vidrum on the rounds till my
-program formally opens. I guess he harbors some edginess towards me
-right from school days but still tolerates me because of all the
+saying that I would be pursuing experimental medicine for that was what
+I always supposed to be doing. In any case, I have got a waiver to
+already start accompanying and assisting my senior Vidrum on the rounds
+till my program formally opens. I guess he harbors some edginess towards
+me right from school days but still tolerates me because of all the
 curricular help I have rendered him over the years and his friendship
 with Lootika and Somakhya. One of my reasons for writing this entry was
 an interesting case that confronted us last week — it brought a closure
@@ -68,9 +72,9 @@ realms of knowledge but no one knew that he had reached so deep for he
 had fallen like that tree in a lonely boreal forest with no one to hear
 the crash of its fall and thereby judge its great mass. But the case
 brought to something more sinister to my mind: once when we were young
-and had expressed our svābhāvika-siddhi-s for the first time Lootika and
-I had made the ghost of a brāhmaṇa speak. He prophesied my vīra but at
-the same time mentioned that a prativīra would also emerge. But the
+and had expressed our svābhāvika-siddhi-s for the first time, Lootika
+and I had made the ghost of a brāhmaṇa speak. He prophesied my vīra but
+at the same time mentioned that a prativīra would also emerge. But the
 ghost added that we would not be affected by the prativīra for he would
 attain Vivasvān’s mace-wielding son even before he could engage in a
 contest with us. I realized that the individual was the prativīra and
@@ -80,12 +84,12 @@ the prativīra has departed we will face the true contests of our life
 even as I proceed towards the bus stop at Mlecchadigdvāravṛti.
 
 **Entry 2; rakta, year Siddhārthin of the first cycle:** Things seemed
-to precipitate by the day as though drawn by fate inexorably towards a
+to precipitate by the day, as though drawn by fate, inexorably towards a
 certain preferred unfolding of events things. Or at least that is how
 the human mind tends to rightly or falsely pick patterns from the noise
 in the background. I was part of the team attending to a trauma case
-involving activists of the mandira vahīm̐ banega group who were holding
-a meeting for mobilization for the reconstruction of the temple for the
+involving activists of the mandira vahīm̐ banega group who were holding a
+meeting for mobilization for the reconstruction of the temple for the
 Ikṣvāku heroes at Ayodhyāpuri. As they were proceeding to their office
 beside the Vināyaka shrine on the Somamārga for a meeting they were
 attacked by assailants who had vanished almost without a trace. The
@@ -172,9 +176,9 @@ disasters. She then went on to say that his student Khambhā-vālā-bābājī
 was now in charge and that he would occasionally visit the park to
 dispense miraculous medications that could “cure any disease”. Sometime
 later I noticed that a new shrine had emerged next to that of
-Rasgol-bābājī. Apparently, his successor Khambhā-vālā-bābājī had
-joined his master in the abode of the buffalo-rider and was now
-consigned to a samādhi beside him.
+Rasgol-bābājī. Apparently, his successor Khambhā-vālā-bābājī had joined
+his master in the abode of the buffalo-rider and was now consigned to a
+samādhi beside him.
 
 Vidrum had been informing me of the multiple cases of lead and mercury
 poisoning he has been encountering in the past couple of years. We
@@ -182,10 +186,10 @@ checked the data an realized that there was indeed a significant spike.
 We wondered what might be the cause for those cases as our state’s
 environmental agency had given a clean-chit for our water and food
 sources. The answer dawned on us with a crash yesterday. We had a
-“god-man” rushed to our care by his throng of devotees. They claimed
-he was under an abhicāra from his rival śūl-vālī-mātājī. They added that
-he could cure himself but his symptoms were so severe that they need us
-to give him some medication so that he could become stable enough to
+“god-man” rushed to our care by his throng of devotees. They claimed he
+was under an abhicāra from his rival śūl-vālī-mātājī. They added that he
+could cure himself but his symptoms were so severe that they need us to
+give him some medication so that he could become stable enough to
 counter the abhicāra or prepare medications for himself. He was not
 cooperating constantly stating he could cure himself but was clearly in
 deep agony. His cheeks were red and he was complaining that scorpions
@@ -202,7 +206,7 @@ thus making him fall. Vidrum and others signaled me to retreat as they
 handled the case. The scary memory of the murder of a physician near my
 school by the irate relatives of a patient flashed in my mind but in the
 adrenaline rush I was feeling elated as I had never felt recently — I
-had knocked out an attacker successfully with the śilī\! In my
+had knocked out an attacker successfully with the śilī! In my
 excitement, I sent off mails to Indrasena and my sisters describing the
 incident and asked them not to tell my parents.
 
@@ -264,3 +268,6 @@ condition that they would give me a chance to study the skull too. They
 agreed to include me as an author on the study. I am sure Somakhya would
 be as jealous as he can ever be of me when he hears of my luck in this
 regard.
+
+
+

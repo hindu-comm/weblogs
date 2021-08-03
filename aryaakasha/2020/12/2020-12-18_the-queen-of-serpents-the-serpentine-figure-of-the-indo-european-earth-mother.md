@@ -1,8 +1,11 @@
 +++
-title = "THE QUEEN OF SERPENTS – THE SERPENTINE FIGURE OF THE INDO-EUROPEAN EARTHxa0MOTHER"
-date = "December 18, 2020"
+title = "THE QUEEN OF SERPENTS – THE SERPENTINE FIGURE OF THE INDO-EUROPEAN EARTH MOTHER"
+date = "2020-12-18"
+upstream_url = "https://aryaakasha.com/2020/12/18/the-queen-of-serpents-the-serpentine-figure-of-the-indo-european-earth-mother/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/12/18/the-queen-of-serpents-the-serpentine-figure-of-the-indo-european-earth-mother/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/12/ef9s3hzwkaea5we.jpg?w=1024)
 
   

@@ -1,8 +1,11 @@
 +++
-title = "Some talks at the Indic Todayxa0portal"
+title = "Some talks at the Indic Today portal"
 date = "2021-06-26"
+upstream_url = "https://manasataramgini.wordpress.com/2021/06/26/some-talks-at-the-indic-today-portal/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2021/06/26/some-talks-at-the-indic-today-portal/).
+
 We had a chat with with C Surendranath, Contributing Editor and (in part
 with) Yogini Deshpande, Editor in Chief of Indic Today. It is divided
 into four parts:  

@@ -1,7 +1,11 @@
 +++
 title = "The conversion"
+date = "2012-08-13"
+upstream_url = "https://manasataramgini.wordpress.com/2012/08/13/the-conversion/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/08/13/the-conversion/).
+
 It was many many moons ago. We were seated upon the wall near the
 viShTa-parvata when the kR^iShNa-shUdra materialized in front of us. He
 was looking agitated. Just a few days before the English teacher had
@@ -51,7 +55,7 @@ aja-dADhika and lambashiras who were telling KS to get away from all
 this politics, which could only ruinous to his “abhyAsa”. They asked him
 if it really mattered him if something was happening in kashmIra,
 prAgjyotiSha or ayodhyA, especially when he was an year away from what
-they thought was the biggest event in life. “arre\! paDo yAr, ye sab bAt
+they thought was the biggest event in life. “arre! paDo yAr, ye sab bAt
 choDo, nahi to DakTar yA injinyar kaisa banega?”.
 
 Indeed, KS applied himself aggressively to the curriculum, all the while
@@ -103,7 +107,7 @@ assent. But KS and braindeya remained silent with conflicted miens.
 After a moment of silence braindeya spoke as though some deep feeling
 within him had just erupted: “It is not the SS party which is the issue
 here, and nor is it the issue of our classes being disrupted, but the
-marumoha spitting at our faces”. “Indeed\! This is marumoha and its
+marumoha spitting at our faces”. “Indeed! This is marumoha and its
 rascally founder have nothing but evil to offer” said KS in apparent
 agreement. Just then AmrAnana stepped forth and blasted them: “How could
 you blame an entire community or religion. My own parents while born
@@ -129,6 +133,7 @@ Kangress was distributing free gifts in the marUnmatta locality and they
 had organized a slogan-shout-out in return for the politician from that
 party. Today, I know that this Kangress is not the party that lead us to
 freedom but one that might take us back to the times before the
-Chatrapati\! Could it after all be that even Gandhi and Nehru were like
+Chatrapati! Could it after all be that even Gandhi and Nehru were like
 this? After all my mother had said that the old Nathuram was a patriot
 too.”
+

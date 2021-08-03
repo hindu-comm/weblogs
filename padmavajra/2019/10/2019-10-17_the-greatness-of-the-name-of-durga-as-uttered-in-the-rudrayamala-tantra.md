@@ -1,8 +1,11 @@
 +++
-title = "The greatness of the name of Durga (as uttered in the rudrayAmala tantra and muNDamAlA tantraxa0mainly)"
+title = "The greatness of the name of Durga (as uttered in the rudrayAmala tantra and muNDamAlA tantra mainly)"
 date = "2019-10-17"
+upstream_url = "https://padmavajra.net/2019/10/17/the-greatness-of-the-name-of-durga-as-uttered-in-the-rudrayamala-tantra/"
 
 +++
+Source: [here](https://padmavajra.net/2019/10/17/the-greatness-of-the-name-of-durga-as-uttered-in-the-rudrayamala-tantra/).
+
 Copied from
 [here](https://www.facebook.com/photo.php?fbid=899545760415909&set=a.115697252134101&type=3&theater),since
 I wanted to give the post a more permanent home.

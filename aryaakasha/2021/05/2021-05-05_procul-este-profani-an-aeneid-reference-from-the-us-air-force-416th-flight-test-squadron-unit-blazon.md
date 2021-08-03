@@ -1,8 +1,11 @@
 +++
-title = "Procul Este Profani – An Aeneid Reference From The US Air Force 416th Flight Test Squadron Unitxa0Blazon"
-date = "May 5, 2021"
+title = "Procul Este Profani – An Aeneid Reference From The US Air Force 416th Flight Test Squadron Unit Blazon"
+date = "2021-05-05"
+upstream_url = "https://aryaakasha.com/2021/05/05/procul-este-profani-an-aeneid-reference-from-the-us-air-force-416th-flight-test-squadron-unit-blazon/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/05/05/procul-este-profani-an-aeneid-reference-from-the-us-air-force-416th-flight-test-squadron-unit-blazon/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/05/181694544_856664514945874_3881217458256282813_n.png?w=500)
 
 Not quite Techno-Heraldry , but a pretty cool unit-patch all the same.

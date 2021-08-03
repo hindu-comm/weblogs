@@ -1,7 +1,11 @@
 +++
 title = "Microraptor as a biplane"
+date = "2007-01-25"
+upstream_url = "https://manasataramgini.wordpress.com/2007/01/25/microraptor-as-a-biplane/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/01/25/microraptor-as-a-biplane/).
+
 [![](https://i0.wp.com/bp2.blogger.com/_ZhvcTTaaD_4/RbhahS6_e2I/AAAAAAAAAB4/o4HN6ukTHBQ/s320/Microraptor_1.jpg)](http://bp2.blogger.com/_ZhvcTTaaD_4/RbhahS6_e2I/AAAAAAAAAB4/o4HN6ukTHBQ/s1600-h/Microraptor_1.jpg)[![](https://i2.wp.com/bp3.blogger.com/_ZhvcTTaaD_4/RbhbKi6_e3I/AAAAAAAAACI/c8UnxQH4gaA/s320/Microraptor3.jpg)](http://bp3.blogger.com/_ZhvcTTaaD_4/RbhbKi6_e3I/AAAAAAAAACI/c8UnxQH4gaA/s1600-h/Microraptor3.jpg)  
 When the chInAchArya Xu announced his dramatic find Microraptor gui in
 the British tabloid something struck me as odd. One of the best
@@ -9,18 +13,17 @@ preserved skeletons, the holotype, was in a very typically bird-like
 pose with the femur, tibia and tarso-metatarsus in Z-shaped disposition
 much like eagles when they are zoning in on their prey. In spite of this
 pose of the fossil, the chIna-s reconstructed Microraptor like
-“tetrapteryx” of Beebe and Gerhard Heilmann who pictured the ancestor
-of birds to be a 4-winged animal with splayed-out legs bearing wings. To
-me this was patently un-anatomical. The femoral head of a typical
-theropod dinosaur simply cannot splay out like that to get into the
-“tetrapteryx” pose picture by Xu following the old Beebe. The funny
-thing was that the chIna-s did this despite their fossil showing that it
-was not the case. Then they piled on declaring Microraptor was strictly
-arboreal and could not really walk on ground without damaging its
-feathers. In a sense, Xu and his chIna-s cannot be entirely blamed for
-their mistake, because reconstructing functional behavior from a
-skeleton, especially one preserved in 2D, without an equivalent modern
-analog can be difficult.
+“tetrapteryx” of Beebe and Gerhard Heilmann who pictured the ancestor of
+birds to be a 4-winged animal with splayed-out legs bearing wings. To me
+this was patently un-anatomical. The femoral head of a typical theropod
+dinosaur simply cannot splay out like that to get into the “tetrapteryx”
+pose picture by Xu following the old Beebe. The funny thing was that the
+chIna-s did this despite their fossil showing that it was not the case.
+Then they piled on declaring Microraptor was strictly arboreal and could
+not really walk on ground without damaging its feathers. In a sense, Xu
+and his chIna-s cannot be entirely blamed for their mistake, because
+reconstructing functional behavior from a skeleton, especially one
+preserved in 2D, without an equivalent modern analog can be difficult.
 
 Now paleontologist Chatterjee and aeronaut Templin have claimed that
 dinosaur indeed glided in a pose comparable to how it was fossilized
@@ -57,3 +60,4 @@ with loss of the leg feathers but retention of the long tail as a
 control device. This was followed by loss of the long tail and the
 pygostyle-borne tail feathers as seen in some early forms like
 Confuciusornis.
+

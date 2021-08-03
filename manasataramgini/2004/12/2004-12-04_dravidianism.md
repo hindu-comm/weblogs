@@ -1,7 +1,11 @@
 +++
 title = "Dravidianism"
+date = "2004-12-04"
+upstream_url = "https://manasataramgini.wordpress.com/2004/12/04/dravidianism/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/12/04/dravidianism/).
+
 I believe that the Dravidian movement must be seen in a certain
 contextual framework.
 
@@ -70,3 +74,4 @@ British. Naicker had said that Aug 15th should be observed as a date of
 mourning. Karuna and Anna brought it more in line with the mainstream
 politics of the newly formed Indian nation, but continued to concentrate
 on their pet projects of anti-Brahminism, anti-Sanskrit and anti-Hindi.
+

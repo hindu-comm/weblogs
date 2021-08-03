@@ -1,13 +1,17 @@
 +++
 title = "A pAshupata inscription and some thoughts on the history of nyAya-vaisheShika"
+date = "2008-08-02"
+upstream_url = "https://manasataramgini.wordpress.com/2008/08/02/a-pashupata-inscription-and-some-thought-on-the-history-of-nyaya-vaisheshika/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/08/02/a-pashupata-inscription-and-some-thought-on-the-history-of-nyaya-vaisheshika/).
+
 gotre .ananta samAhvaye bhava-dina-prakhyas-tapas-tejasA dR^iShTAdR^iSTa
-vishuddha-karma-nirataH shrI-bhAvatejA guruH |  
+vishuddha-karma-nirataH shrI-bhAvatejA guruH \|  
 AchAryodbhuta-kevalArtha-vachasA pA\~nchArthiko yaH sudhIH
-kAma-krodhaja-varga-durga-vipina-ploShasya dAvAnalaH |  
+kAma-krodhaja-varga-durga-vipina-ploShasya dAvAnalaH \|  
 shrutvA samastaagama-yogashAstraM vyAkhyAya cha nyAya-kaNAda-shAstraM
-abhyasya yaH pAshupata cha yoga shivasya sAyojyam-avApa bodhAt |
+abhyasya yaH pAshupata cha yoga shivasya sAyojyam-avApa bodhAt \|
 
 TThe above verses in the shArdula-vikrIDita and upajAti meters are
 contained in lines 5-8 of the Tewar stone inscription from the old city
@@ -51,7 +55,7 @@ Now, the reason this is interesting is because of the famous
 saiddhAntika commentator on the pAshupata sUtra-s vyoma-shiva who
 composed the TIkA vyomavati after prashastapAda on the system of kaNAda.
 He not only preserved those apparently lost words of kaNAda of great
-purport “yad iha bhAvarUpaM tat sarvaM mayopasaMkhyAtavyam|” but also
+purport “yad iha bhAvarUpaM tat sarvaM mayopasaMkhyAtavyam\|” but also
 developed the defense of vaisheShika against its earlier critics to
 uphold the principle that every cognition has a counterpart in the
 external world. Based on testimonia is quite likely that vyoma-shiva was
@@ -141,3 +145,4 @@ trying to catch up for centuries of break in tradition – these were
 works of vij\~nAna-bhikShu in the Northeast and of my co-ethnic, close
 associate of my clan in ritual, and teacher of the illustrious tAntrIka
 bhAskararAya in Thanjavur.
+

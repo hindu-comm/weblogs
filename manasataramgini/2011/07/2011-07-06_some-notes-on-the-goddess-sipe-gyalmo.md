@@ -1,7 +1,11 @@
 +++
 title = "Some notes on the goddess Sipe Gyalmo"
+date = "2011-07-06"
+upstream_url = "https://manasataramgini.wordpress.com/2011/07/06/some-notes-on-the-goddess-sipe-gyalmo/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/07/06/some-notes-on-the-goddess-sipe-gyalmo/).
+
 A translation of the tAntrika stotra to Sipe Gyalmo from the Tibetan
 tantra: Ma mo ‘dus pa’i yang snying gi rgyud issued by the Bön monastery
 at Ochghat, Himachal Pradesh. The translation, with some modifications,
@@ -60,3 +64,4 @@ Are supported by the Four Great Kings of the Quarters.
 
 She is surrounded by a entourage of wangmo goddesses who correspond to
 the regents of the 27 nakShatra-s.
+

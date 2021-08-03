@@ -1,7 +1,11 @@
 +++
 title = "The mystery of the pANDava-s"
+date = "2006-05-04"
+upstream_url = "https://manasataramgini.wordpress.com/2006/05/04/the-mystery-of-the-pandava-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/05/04/the-mystery-of-the-pandava-s/).
+
 While the bhArata epic is a central to understanding the rise of the
 Indian state and the very culture of the Indian people, there are some
 mysterious issues associated with it which still leave a major gap in
@@ -79,3 +83,4 @@ claim is the pANDya of Madhurai, whose very name bears this sign.
 Simple proposals for solving this conundrum have hardly explained all
 the complicated issues associated with it. So, I will stop at this point
 and present some possible theories later.
+

@@ -1,12 +1,16 @@
 +++
 title = "agni, the divine hotars and the adhrigupraiShasaMpraiSha"
+date = "2005-02-26"
+upstream_url = "https://manasataramgini.wordpress.com/2005/02/26/agni-the-divine-hotars-and-the-adhrigupraishasampraisha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/02/26/agni-the-divine-hotars-and-the-adhrigupraishasampraisha/).
+
 Before the animal sacrifice of the pashubandha the maitravaruNa priest
 utters the chant (RV 4.15.1-3):  
 ****agnir hotA no adhvare vAjI san pari nIyate/ devo deveShu yaGNYiyaH
 //  
-****  
+  
 agni, the hotar, being the booty bearing horse, is led around in our
 sacrifice; a deva to be worshipped amongst the devas.
 
@@ -51,10 +55,10 @@ AprI of the kAshyapas). So who were the 2 hotars? The bR^ihaddevatA
 explains that the two hotars of the AprIs are the terrestrial and the
 middle forms of agni (BD3.11). This explanation was evidently prevalent
 in the Vedic world as is suggested by yAska’s statement in the nirukta:
-“daivyau hotArav ayaM chAgnir asau cha madhyamaH (Nk8.2)”. They are
-said to be daivya because both the middle and the earthly forms of agni
-are born from the celestial (divya) agni. Elsewhere, the BD clarifies
-these earthly and middle forms of agni.  
+“daivyau hotArav ayaM chAgnir asau cha madhyamaH (Nk8.2)”. They are said
+to be daivya because both the middle and the earthly forms of agni are
+born from the celestial (divya) agni. Elsewhere, the BD clarifies these
+earthly and middle forms of agni.  
 BD 1.91: Because this \[terrestrial agni\] is lead by men and that
 \[other agni\] leads him from this \[other world\], therefore these two
 \[agnis\], while having the same name, have performed their work
@@ -69,4 +73,5 @@ with lightning branches, while that (celestial one) is hairy with rays:
 So the (R^ishi) calls them the hairy ones (this is an allusion to the 3
 hairy ones in dirghatamas’s hymn: 1.164.44). The 3 forms of agni are
 mentioned as agni, jAtavedas and vaishvAnara. The first two being the
-divine hotars.
+divine hotars.  
+

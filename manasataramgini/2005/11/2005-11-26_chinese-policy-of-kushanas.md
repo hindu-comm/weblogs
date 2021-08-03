@@ -1,7 +1,11 @@
 +++
 title = "Chinese policy of kushANas"
+date = "2005-11-26"
+upstream_url = "https://manasataramgini.wordpress.com/2005/11/26/chinese-policy-of-kushanas/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/11/26/chinese-policy-of-kushanas/).
+
 Under the Kushanas, unlike in the days of later Indian rulers, the
 Indians followed an active policy of supporting the central Asian oasis
 civilization in the Tarim region. This forward policy was adopted by
@@ -36,3 +40,4 @@ India by propping up the encircling Moslem states. Because if these
 Moslem potentates were smashed, India’s cultural and military influence
 would flow to regain its natural extant in the direction of the Roof of
 World.
+

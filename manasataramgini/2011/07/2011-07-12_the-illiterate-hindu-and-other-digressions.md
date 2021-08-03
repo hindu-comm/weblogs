@@ -1,7 +1,11 @@
 +++
 title = "The illiterate Hindu and other digressions"
+date = "2011-07-12"
+upstream_url = "https://manasataramgini.wordpress.com/2011/07/12/the-illiterate-hindu-and-other-digressions/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/07/12/the-illiterate-hindu-and-other-digressions/).
+
 [![](https://lh3.googleusercontent.com/-TagmqSEOOu8/Th6VTwLBc0I/AAAAAAAACJk/U-6zweHx0f4/s400/Sample%252520Pictures2.jpg)](https://picasaweb.google.com/lh/photo/xTg2GRGE3-9L29kBzYaaBA?feat=embedwebsite)
 Early Tamil in brAhmI script and Indus writing: Note the peculiar
 graffiti appearing to the left end of two Tamil inscriptions beginning
@@ -73,7 +77,7 @@ deserving a genuine historical investigation by Hindus for Hindus.
 
 \~o\~O\~o\~
 
-[![](https://lh5.googleusercontent.com/-4ccm0-ppzaM/Th6LTKyqcXI/AAAAAAAACJQ/7se46Jg2OL0/s400/Sample%252520Pictures1.jpg)](https://picasaweb.google.com/lh/photo/g9A0zp5p3o72IgvnG0Sdlg?feat=embedwebsite) Dice
+[![](https://lh5.googleusercontent.com/-4ccm0-ppzaM/Th6LTKyqcXI/AAAAAAAACJQ/7se46Jg2OL0/s400/Sample%252520Pictures1.jpg)](https://picasaweb.google.com/lh/photo/g9A0zp5p3o72IgvnG0Sdlg?feat=embedwebsite)Dice
 from the Indus sites, and gaming pieces from Indus (right) and PGW sites
 (below): games proscribed by the buddha
 
@@ -93,8 +97,8 @@ seyyathIdaM: 1) aTThapadaM dasapadaM; 2) AkAsaM; 3) parihArapathaM; 4)
 santikaM; 5) khalikaM; 6) ghaTikaM; 7) salAkahatthaM; 8) akkhaM; 9)
 pa\~NgachIraM; 10) va\~NkakaM; 11) mokkhachikaM; 12) chi\~NgulakaM; 13)
 pattALLihakaM; 14) rathakaM; 15) dhanukaM; 16) akkharikaM 17) manesikaM
-18) yathAvajjam | iti vA iti eva rUpA jUtappa-mAdaTThAnAnuyogA
-paTivirato samaNo gotamo.iti |
+18) yathAvajjaM \| iti vA iti eva rUpA jUtappa-mAdaTThAnAnuyogA
+paTivirato samaNo gotamo.iti \|
 
 Let us look at these games to the extent we can understand them: First,
 we can recognize a famous Arya triad of games in this list: rathakaM=
@@ -105,7 +109,7 @@ themselves. khalikaM is believed to be another dice game played on a
 board, most likely resembling the modern snakes and ladders. Indeed such
 cubical dice have been found in various Indus sites. Now, of the
 remaining ones, the bauddha commentators explain chi\~NgulakaM as:
-tAla-paNNAdIhi kata\~N vAtap-pahArena parib-bhamana– chakka\~N |, That
+tAla-paNNAdIhi kata\~N vAtap-pahArena parib-bhamana– chakka\~N \|, That
 is a windmill made from palm leaves that spins when impacted by wind (We
 remarked to ourselves about having spent many a day playing with
 chi\~Ngulaka-s in school – indeed, we were the descendents of
@@ -174,18 +178,18 @@ purposes like a legal records. Indeed, in this regard we see a gradual
 increase in the number of allusions to written documents in the dharma
 texts:  
 Apastamba/baudhAyana/gautama/vasiShTha dharma sUtra-s
-(absent-rare)-\>manu (occasional)-\> nArada/bR^ihaspati/yAj\~navalkya
+(absent-rare)->manu (occasional)-> nArada/bR^ihaspati/yAj\~navalkya
 (common).  
 Indeed, nArada, while describing the components of dharma, states:  
-rAjA sapuruShaH sabhyAH shAstraM gaNaka-lekhakau |  
-hiraNyam agnir udakam aShTA\~NgaH sa udAhR^itaH || 1.15
+rAjA sapuruShaH sabhyAH shAstraM gaNaka-lekhakau \|  
+hiraNyam agnir udakam aShTA\~NgaH sa udAhR^itaH \|\| 1.15
 
 Thus, the eight limbs of dharma are enumerated as: the king with his
 agents, the court, the shAstra-s, the accountants, \*the scribes\*,
 gold, fire and water.
 
 Similarly, bR^ihaspati states:  
-gaNako gaNayed arthaM likhen nyAyaM cha lekhakaH | 1.1.90ab  
+gaNako gaNayed arthaM likhen nyAyaM cha lekhakaH \| 1.1.90ab  
 The accountant makes financial calculations while the scribe records the
 legal judgments.
 
@@ -279,7 +283,7 @@ three characters are clear-cut brAhmI and can be read as li-ra-ti. The
 next two characters are not given any sound values as they are graffiti
 signs. Then the last two are read as mu-ri, with the peculiar 7th
 character being apparently the retroflex ‘r’ seen in Shrilankan
-inscriptions. Now, the dravidianists have read the text as tiraLi ||
+inscriptions. Now, the dravidianists have read the text as tiraLi \|\|
 muRi with an inversion of the direction of writing around the two
 graffiti signs. We suspect this is a rather artificial interpretation
 which has been forced on the texts to obtain words that make sense in
@@ -302,3 +306,4 @@ Footnote 1: The jaina-s give us the important information in their
 savAyA\~Nga sUtra 46 that:  
 bambhi.enam liviye ChAyAlisaM mAuy-akkharA; the brAhmi script had 46
 characters.
+

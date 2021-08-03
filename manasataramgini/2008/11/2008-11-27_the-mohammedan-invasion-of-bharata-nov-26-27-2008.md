@@ -1,7 +1,11 @@
 +++
 title = "The Mohammedan invasion of bhArata, Nov 26-27 2008"
+date = "2008-11-27"
+upstream_url = "https://manasataramgini.wordpress.com/2008/11/27/the-mohammedan-invasion-of-bharata-nov-26-27-2008/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/11/27/the-mohammedan-invasion-of-bharata-nov-26-27-2008/).
+
 Even in my existence I have seen a few Mohammedan invasions of our land,
 a continuation of the millennial war against the army of Islam starting
 with the invasion of Mohammad ibn Qasim. In the past we were unable to
@@ -22,7 +26,7 @@ turuShka sores of the earth ooze over with the growing kali?
 I was not supposed to be doing any of this, but the situation is
 historical enough to make the records. There are several points that
 need to be noted:  
-\-There are many Hindus who think that the latest Islamic invasion is
+-There are many Hindus who think that the latest Islamic invasion is
 unprecedented etc. It is just that they do not study history. The
 unfolding events are very typical of a long string of such attacks over
 the centuries by relatively small bands of Moslems on Hindu cities —
@@ -35,7 +39,7 @@ and the quotidian Islamic killing and rioting in India were of a
 different mode — there by resulting in the average Hindu not expecting
 this other time-tested mode of Islamic action.
 
-\-Indian media is not under Hindu control but panders largely to
+-Indian media is not under Hindu control but panders largely to
 Leukospheric interests. Thus, canards are planted like the nonsense
 along the lines of “terrorists know no religion”. A striking example was
 following. The NSG commandos used the age old Hindu war cry: “hara hara
@@ -50,8 +54,8 @@ deshI woman addled with such ideas remarked to me even as the first news
 of the attacks were coming in that we could not rule out “Hindoo
 terror”.
 
-\-It is well-known to all thinking Hindus that the current government,
-or even the so-called pro-Hindu government before this one, are/were
+-It is well-known to all thinking Hindus that the current government, or
+even the so-called pro-Hindu government before this one, are/were
 largely ineffective in terms of leadership. The current one being
 anti-Hindu is particularly disastrous because they were utterly
 incapable of displaying even basic sense. In a situation like this the
@@ -65,7 +69,7 @@ that a crypto-Mohammedan actor was in cahoots with the ghazis. If you
 want to really give a semblance of freedom of press then do the
 embedding propaganda which the Americans practice.
 
-\-mlechCha behavior and geopolitics: It is clear mlechCha-s are going
+-mlechCha behavior and geopolitics: It is clear mlechCha-s are going
 great lengths to hide involvement of TSP. The mlechChAdhipati-s having
 inherited inherited the “Great Game” from our former enemies, the
 Angalika-s, somehow believe that the occupied lands of uttarApatha are
@@ -85,22 +89,22 @@ doing full time propaganda that this is all due to the “Kashmir issue”
 not being settled, or that their useless operations in Afghanistan might
 be interrupted or that their dear client TSP was not really involved.
 They even suggested that we should work with the terrorist state towards
-a solution\! But the reality is, now is the time the mlechCha-s are not
+a solution! But the reality is, now is the time the mlechCha-s are not
 capable of defending TSP or TSB at all. So this is the time to smash
 both these Islamic potentates. Isolating internal Moslems from their
 external inspiration will help limit their destructive capacity to a
 certain degree.
 
-\-We cannot depend on any of the Anglospheric states for any kind
+-We cannot depend on any of the Anglospheric states for any kind
 alliance. There were two nations that we \*might\* be able to count on
 as allies \[and that too specifically only in tactical or arms sales
 related issues\] – Israel (on a personal note, I was touched by the kind
 inquiry by an Israeli acquaintance on the unfolding invasion) and the
-Rus. However, we should be prepared to do all fighting on our own, with
+Rus. However, we should be prepared to do allfighting on our own, with
 at best some hardware support from these allies — everyone ultimately
 has to fight their own battles.
 
-\-Some have been excessively critical of the India army and police. Of
+-Some have been excessively critical of the India army and police. Of
 course there are deep problems with these institutions but the real
 factor crippling them is the civilian political leadership. So there is
 no point shifting the blame to the limb when the brain is affected.
@@ -112,16 +116,16 @@ policing effort on the famed “Hindoo terror”. High time Hindu realize
 that they need to seize their own country for themselves rather than
 gift it to Abrahamistic enemies.
 
-\-The Hindus are definitely in for more trouble unless they take
-numerous corrective measures both in terms of developing yuddha bala
-(better police/army/weapons) and nIti (developing a political system
-truly based on dharma and education of people regarding the horrors of
-the religions of peace and love).
+-The Hindus are definitely in for more trouble unless they take numerous
+corrective measures both in terms of developing yuddha bala (better
+police/army/weapons) and nIti (developing a political system truly based
+on dharma and education of people regarding the horrors of the religions
+of peace and love).
 
 …  
 Now that the initial action has come to a closure:
 
-\-Note how the mlechCha-s from high level officials to their media is
+-Note how the mlechCha-s from high level officials to their media is
 working in concert to cover up TSP. The are expressing fear that should
 evidence for a link to TSP really come up then there could “tension”
 between bhArata and TSP. So it is official and very clear they are not
@@ -142,13 +146,13 @@ elections next year. Some of these appear to have been “false flag”
 attacks, including by Hindu supremacists masquerading as jihadis. One of
 the Mumbai attackers, presumed to be Islamists, was photographed wearing
 a sacred Hindu thread around his wrist.”*  
-So the mlechCha insinuates that this was actually a Hindu plot\!  
+So the mlechCha insinuates that this was actually a Hindu plot!  
 *“However long it takes to uncover the roots of this assault on Indian
 pluralism and regional détente, what matters now is that the Indian
 government does not overreact.”*  
 It is OK for the mlechCha with not even a shred of evidence to go to
 Iraq and kill Moslems as he pleases but the black-skinned Hindoo should
-shut up and put up\! Let us not forget that two of the Ghazis may have
+shut up and put up! Let us not forget that two of the Ghazis may have
 come from Bradfordistan or some such place.
 
 From a AP report:  
@@ -172,7 +176,7 @@ Note how he builds sympathy and justification for the perpetrators of
 violence and coolly shifts the blame on Hindus without mentioning the
 fact the Gujarat incidents began with Moslems burning hundreds of Hindus
 alive at Godhra. Nazi and Soviet propaganda were caricatures,
-Anglo-American propaganda is the real thing\!  
+Anglo-American propaganda is the real thing!  
 This mlechCha rascal the uses the Time magazine to broadcast the dream
 of the Army of Islam:  
 “*“Still, many South Asian Muslims insist Islam is the one and only
@@ -182,3 +186,4 @@ India, and in 1857 the British took that away from us,”*”
 
 Do we need help or assistance from nations that generate this propaganda
 ?
+

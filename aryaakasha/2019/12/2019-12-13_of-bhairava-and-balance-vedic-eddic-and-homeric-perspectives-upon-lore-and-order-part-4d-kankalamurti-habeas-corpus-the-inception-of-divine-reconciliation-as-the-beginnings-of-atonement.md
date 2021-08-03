@@ -1,8 +1,11 @@
 +++
-title = "OF BHAIRAVA AND BALANCE, Vedic, Eddic, and Homeric perspectives upon Lore and Order [Part 4D] KankalaMurti (Habeas Corpus) – The Inception Of Divine Reconciliation As The Beginnings Ofxa0Atonement"
-date = "December 13, 2019"
+title = "OF BHAIRAVA AND BALANCE, Vedic, Eddic, and Homeric perspectives upon Lore and Order [Part 4D] KankalaMurti (Habeas Corpus) – The Inception Of Divine Reconciliation As The Beginnings Of Atonement"
+date = "2019-12-13"
+upstream_url = "https://aryaakasha.com/2019/12/13/of-bhairava-and-balance-vedic-eddic-and-homeric-perspectives-upon-lore-and-order-part-4d-kankalamurti-habeas-corpus-the-inception-of-divine-reconciliation-as-the-beginnings-of-atonement/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/12/13/of-bhairava-and-balance-vedic-eddic-and-homeric-perspectives-upon-lore-and-order-part-4d-kankalamurti-habeas-corpus-the-inception-of-divine-reconciliation-as-the-beginnings-of-atonement/).
+
 ![](https://aryaakasha.files.wordpress.com/2019/12/78602831_10162661697020574_3517597744640294912_n.jpg?w=480)
 
 The ‘short-form’ rendition of the Tale of Bhairava, Brahma-Slayer,

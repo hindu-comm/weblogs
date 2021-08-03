@@ -1,7 +1,11 @@
 +++
 title = "Night of The god"
+date = "2005-03-09"
+upstream_url = "https://manasataramgini.wordpress.com/2005/03/09/night-of-the-god/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/03/09/night-of-the-god/).
+
 oM atitIkShNa mahAkAya kalpAntadahanopama jha\~NkAra-bhairavAya
 namastubhyaM //
 
@@ -26,4 +30,5 @@ in effect is nothing more than this “state of being”, which unfolds its
 in the form a great light. Its very condition as shiva indeed consists
 in the fact that the all the varied forms of the universe appear. This
 process of manifestation into all the form of the universe produces
-itself completely freely within him.
+itself completely freely within him.  
+

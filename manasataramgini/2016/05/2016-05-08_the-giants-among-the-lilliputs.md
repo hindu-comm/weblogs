@@ -1,7 +1,11 @@
 +++
 title = "The giants among the lilliputs"
+date = "2016-05-08"
+upstream_url = "https://manasataramgini.wordpress.com/2016/05/08/the-giants-among-the-lilliputs/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2016/05/08/the-giants-among-the-lilliputs/).
+
 For long despite protestations and assertions to the contrary men have
 known that men are all not born equal. There are few men who tower over
 the rest in one or more of the axes of distinction. For over a decade
@@ -97,8 +101,8 @@ Manu is ancient ancestor and law-giver. Manu is remembered as the
 ancient father and promulgator of the tradition in the Ṛgveda itself.
 For instance, the ancestor of the Gotama-s, Rāhūgaṇa says regarding
 Manu:  
-yām atharvā manuṣ pitā dadhyaṅ dhiyam atnata |  
-tasmin brahmāṇi pūrvathendra ukthā sam agmatārcann anu svarājyam || RV
+yām atharvā manuṣ pitā dadhyaṅ dhiyam atnata \|  
+tasmin brahmāṇi pūrvathendra ukthā sam agmatārcann anu svarājyam \|\| RV
 1.80.16
 
 That mantra-thought (dhī; accusative dhiyam) which Atharvan, father
@@ -114,8 +118,8 @@ Dadhyañc, the founders of the fire ritual, are mentioned it is Manu who
 explicitly gets the epithet pitṛ.
 
 Another sage Kutsa mentions him thus:  
-mṛḻā no rudrota no mayas kṛdhi kṣayad-vīrāya namasā vidhema te |  
-yac chaṃ ca yoś ca manur āyeje pitā tad aśyāma tava rudra praṇītiṣu ||
+mṛḻā no rudrota no mayas kṛdhi kṣayad-vīrāya namasā vidhema te \|  
+yac chaṃ ca yoś ca manur āyeje pitā tad aśyāma tava rudra praṇītiṣu \|\|
 RV 1.114.2
 
 Be merciful to us O Rudra, also make us joyful. With obeisance we honor
@@ -129,9 +133,9 @@ god Rudra as that which was formerly attained by father Manu.
 In the below mantra the king Paruchepa Daivodāsi mentions several
 ancient ritualists but Manu is again distinguished among them:  
 dadhyaṅ ha me januṣam pūrvo aṅgirāḥ priyamedhaḥ  
-kaṇvo atrir manur vidus te me pūrve manur viduḥ |  
-teṣāṃ deveṣv āyatir asmākaṃ teṣu nābhayaḥ |  
-teṣām padena mahy ā name girendrāgnī ā name girā || RV 1.139.9  
+kaṇvo atrir manur vidus te me pūrve manur viduḥ \|  
+teṣāṃ deveṣv āyatir asmākaṃ teṣu nābhayaḥ \|  
+teṣām padena mahy ā name girendrāgnī ā name girā \|\| RV 1.139.9  
 Dadhyañc, the ancient Aṅgira-s, Priyamedha, Kaṇva, Atri and Manu know my
 birth,  
 these predecessors and Manu know mine,  
@@ -143,10 +147,10 @@ Indra and Agni with my chant; I bow with my chant.
 While in these mantra-s the allusions to Manu might give the vibe of a
 near mythical ancestor, a mantra of Sadāpṛṇa Ātreya gives a more
 historical standing to Manu:  
-etā dhiyaṃ kṛṇavāmā sakhāyo ‘pa yā mātāṃ ṛṇuta vrajaṃ goḥ |  
-yayā manur viśiśipraṃ jigāya yayā vaṇig vaṅkur āpā purīṣam ||RV 5.45.6
+etā dhiyaṃ kṛṇavāmā sakhāyo ‘pa yā mātāṃ ṛṇuta vrajaṃ goḥ \|  
+yayā manur viśiśipraṃ jigāya yayā vaṇig vaṅkur āpā purīṣam \|\|RV 5.45.6
 
-Come here friends \! (as Sāyaṇa points out these are likely the
+Come here friends ! (as Sāyaṇa points out these are likely the
 Aṅgiras-es)  
 Let us formulate (kṛṇavāmā: Vedic karavāma) the mantra-thought by which
 the mother \[of the dogs\] uncovered the corral of the cow,  
@@ -154,15 +158,15 @@ That by which Manu conquered \[his foe\] Viśiśipra \[and\] by which the
 merchant (Dīrghaśravas) \[via a\] winding \[path obtained\] the land
 with water.
 
-Here we see a concrete allusion to a military achievement of Manu,
+Here we seea concrete allusion to a military achievement of Manu,
 namely the conquest of Viśiśipra, which has otherwise been entirely
 forgotten in Hindu tradition. However, this puts him very much in line
 of the Hindu memory that he is our first king and the ancestor of all
 our kings. Ṛṣi Kaśyapa again alludes to Soma aiding Manu in the conflict
 with the dasyu-s, an allusion also found elsewhere in the RV:
 
-tan nu satyam pavamānasyāstu yatra viśve kāravaḥ saṃna-santa |  
-jyotir yad ahne akṛṇod u lokam prāvan manuṃ dasyave kar abhīka || RV
+tan nu satyam pavamānasyāstu yatra viśve kāravaḥ saṃna-santa \|  
+jyotir yad ahne akṛṇod u lokam prāvan manuṃ dasyave kar abhīka \|\| RV
 9.92.5c
 
 Now let this be the truth of Pavamāna, where \[the recitations of\] all
@@ -173,8 +177,8 @@ via Vedic aoristic form akaḥ=akārṣīt).
 
 The battle of Manu with another enemy is alluded to by Vamra
 Vaikhānasa:  
-sa druhvaṇe manuṣa ūrdhvasāna ā sāviṣad arśasānāya śarum |  
-sa nṛtamo nahuṣo ‘smat sujātaḥ puro ‘bhinad arhan dasyu-hatye || RV
+sa druhvaṇe manuṣa ūrdhvasāna ā sāviṣad arśasānāya śarum \|  
+sa nṛtamo nahuṣo ‘smat sujātaḥ puro ‘bhinad arhan dasyu-hatye \|\| RV
 10.99.7
 
 Rising up for Manu he (Indra) directed his arrow at the wily \[enemy\]
@@ -243,18 +247,18 @@ king. He starts from the sea-shore and moves inwards on the way
 fathering three children on three women. The fact that he begins with
 the sea shore suggests that it was indeed recapitulating a legend
 similar to what Tacitus collected regarding the sons of Mannus. These
-three children in order were: 1) Thrall who was black in color and
-founded the race of the servants; 2) Karl who was red in color and
-founded the races of tradesmen of various types. 3) Jarl who was white
-in color and founded the races of warriors and masters of magical
+three children in order were: 1) Thrall who wasblack in color and
+founded the race of the servants; 2) Karl who wasred in color and
+founded the races of tradesmen of various types. 3) Jarl who waswhite
+in color and foundedthe races of warriors and masters of magical
 incantations and secret knowledge. Thus, the three Germanic castes were,
 like the their ārya counterparts, literally part of a varṇa (color)
 system. This parallels the ārya traditions regarding Manu, preserved in
 the Mahābhārata, where he is seen as the father of all the castes:  
-manor vaṃśo mānavānāṃ tato ‘yaṃ prathito ‘bhavat |  
-brahma-kṣatrādayas tasmān manor jātās tu mānavāḥ || (Mbh 1.70.11
+manor vaṃśo mānavānāṃ tato ‘yaṃ prathito ‘bhavat \|  
+brahma-kṣatrādayas tasmān manor jātās tu mānavāḥ \|\| (Mbh 1.70.11
 “Critical”).  
-Manu’s lineage is that of the humans, from him (Manu) this \[lineage\]
+Manu’s lineage is that of the humans, from him (Manu)this \[lineage\]
 came to be expanded.  
 Brāhmaṇa-s, kṣatriya-s etc (i.e. the castes) those born of Manu are
 indeed the humans.
@@ -343,10 +347,10 @@ steppe military apparatus that allowed some of these fathers to get
 ahead of the rest. Yet, there could be more to it if one closely
 observes the society of apes including ourselves. So for a moment we
 will step back and glance at two well-known studies on chimpanzees:  
-1\) *Range Use of the Forest Chimpanzees of Kibale: Implications for the
+1) *Range Use of the Forest Chimpanzees of Kibale: Implications for the
 Understanding of Chimpanzee Social Organization* by Chapman and
 Wrangham.  
-2\) *Kin Selection, Social Structure, Gene Flow, and the Evolution of
+2) *Kin Selection, Social Structure, Gene Flow, and the Evolution of
 Chimpanzees* by Morin, Moore, Chakraborty, Jin, Goodall and Woodruff.
 
 In the first study it was seen that the male chimps used an area that
@@ -358,8 +362,8 @@ males and females patrol and aggressively defend their range against
 intrusions of members other groups. However, it does appear that the
 males are more likely to be at the territorial frontiers defending them
 than females. Again these males are aggressive to even females of other
-groups except when the latter are in estrus. The second study
-demonstrated that across 20 African sites estimates of relatedness among
+groups except when thelatterare in estrus. The second study
+demonstrated that across 20 African sites estimates ofrelatedness among
 members of a chimp group suggest that in a given group the males are
 related on the order of half-siblings, and homozygosity at the assessed
 loci significantly departs from Hardy-Weinberg null model.
@@ -389,7 +393,7 @@ such studies on the chimp also points to some interesting details that
 might have relevance to Homo. The high-ranked chimp males and their
 female relatives strongly avoid inbreeding, which might suggest that
 even in Homo societies some high-ranked males might have sired
-offspring over a wider range of unrelated females than the average
+offspringover a wider range of unrelated females than the average
 males.
 
 Finally, we may go as far as to posit that these features of anthropoid
@@ -399,7 +403,7 @@ distribution. The wide variance might allow better social structuring,
 division of labor, and stability within a group to survive in
 competition with other such groups. Moreover, cooperation between males
 might have gone along with their relatedness which allows for included
-fitness which lies at the heart of kin-selection. Thus, we might have
+fitness which lies at the heart of kin-selection. Thus, we mighthave
 some convergence towards insect societies with similar social
 hierarchies, where there is a single or few dominant reproductive
 members. With the dawn of the metal age, technological developments and
@@ -409,7 +413,7 @@ group around high-ranked males to compete against other such groups.
 This taken together, with the above considerations, including the
 possibility of the high-ranked males deliberately avoid matings with
 close female relatives, might have yielded the super-males whose impact
-we see on the Y-chromosomal landscape. On the other side this might have
+we see on the Y-chromosomal landscape. On the other sidethis might have
 also been a factor in origin of our lores concerning the great father
 and the emergence of a varṇa system constituting a super-organismal
 puruṣa.
@@ -425,3 +429,4 @@ evidence for this myth in any of the earlier Chinese literature and the
 solid evidence for it in China only emerges only within in last
 2000-2200 YBP, being liberal. From China it was transmitted to Japan as
 the legend of Panko and incorporated into the Japanese origin tradition.
+

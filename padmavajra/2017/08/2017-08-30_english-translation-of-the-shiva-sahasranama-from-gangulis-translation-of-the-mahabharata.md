@@ -1,8 +1,11 @@
 +++
-title = "English translation of the shiva sahasranAma (from Ganguli’s translation of thexa0Mahabharata)"
+title = "English translation of the shiva sahasranAma (from Ganguli’s translation of the Mahabharata)"
 date = "2017-08-30"
+upstream_url = "https://padmavajra.net/2017/08/30/english-translation-of-the-shiva-sahasranama-from-gangulis-translation-of-the-mahabharata/"
 
 +++
+Source: [here](https://padmavajra.net/2017/08/30/english-translation-of-the-shiva-sahasranama-from-gangulis-translation-of-the-mahabharata/).
+
 mUla:
 <https://sanskritdocuments.org/doc_shiva/shivasahasMaha.html?lang=sa>
 

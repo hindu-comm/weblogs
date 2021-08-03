@@ -1,7 +1,11 @@
 +++
 title = "The mantra of aghorA according to the tradition of the kAlI-kula"
+date = "2010-07-27"
+upstream_url = "https://manasataramgini.wordpress.com/2010/07/27/the-mantra-of-aghora-according-to-the-tradition-of-the-kali-kula/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/07/27/the-mantra-of-aghora-according-to-the-tradition-of-the-kali-kula/).
+
 The devI aghorA, as we have seen
 [before](https://manasataramgini.wordpress.com/2010/01/05/a-discursion-on-the-sanatkumariya-panchabrahma-siddha-shamkara-tantra-and-the-early-evolution-of-the-dakshinashaiva-system/),
 emerged first as the shakti of aghora in the root tantra-s of the
@@ -40,24 +44,24 @@ taught in the kAmakalA kAlI khaNDa (8.277-283) of the pa\~nchAshat
 sAhasryAM mahAkAla saMhitA. But here her iconography has some unusual
 features:
 
-athaaghorA manuM vakShye yena siddhyanti sAdhakAH |  
-karaamlaka-vad vishvaM yasya saMsmaraNAd api ||  
-mAyA-ramA.a\~Nkushaana\~Nga-vadhu-vAgbhava-gAruDaiH |  
-yoginI-shAkinI-kAlI-phetkArI-krodha-bIjakaiH ||  
-saMbodhanam aghorAyAH siddhiM me dehi choddharet |  
-tatash cha dApayet yuktvA svAhAnto munir iShyate ||  
-pa\~nchaviMshaty akSharo .ayaM mantro vA\~nchita siddhikR^it |  
-atha dhyAnaM vyAharAmi yena mantraH prasiddhyati ||  
-susnigdha-kajjala-grAva-tulyaavayava-rochiSham |  
-viShAla-vartulA-rakta-nayana-tritayAnvitAm ||  
-shveta-nrasthi-kR^itAkalpa-samujjvala-tanuc-Chavim |  
-digambarAM muktakeshIM nR^i-muNDa-kR^ita-kuNDalAm ||  
-shavopari samArUDhAM daMShTA-vikaTa-darshanAm |  
-dvi-bhujAM mArjanI-shUrpa-hastAM pitR^ivana-sthitAm ||
+athaaghorA manuM vakShye yena siddhyanti sAdhakAH \|  
+karaamlaka-vad vishvaM yasya saMsmaraNAd api \|\|  
+mAyA-ramA.a\~Nkushaana\~Nga-vadhu-vAgbhava-gAruDaiH \|  
+yoginI-shAkinI-kAlI-phetkArI-krodha-bIjakaiH \|\|  
+saMbodhanam aghorAyAH siddhiM me dehi choddharet \|  
+tatash cha dApayet yuktvA svAhAnto munir iShyate \|\|  
+pa\~nchaviMshaty akSharo .ayaM mantro vA\~nchita siddhikR^it \|  
+atha dhyAnaM vyAharAmi yena mantraH prasiddhyati \|\|  
+susnigdha-kajjala-grAva-tulyaavayava-rochiShaM \|  
+viShAla-vartulA-rakta-nayana-tritayAnvitAM \|\|  
+shveta-nrasthi-kR^itAkalpa-samujjvala-tanuc-ChaviM \|  
+digambarAM muktakeshIM nR^i-muNDa-kR^ita-kuNDalAM \|\|  
+shavopari samArUDhAM daMShTA-vikaTa-darshanAM \|  
+dvi-bhujAM mArjanI-shUrpa-hastAM pitR^ivana-sthitAM \|\|
 
 The 25-syllabled mantra of aghorA specified here is:  
 hrIM shrIM kroM klIM strIM aiM krauM ChrIM phreM krIM hskhphreM huM
-aghore siddhiM me dehi dApaya svAhA ||  
+aghore siddhiM me dehi dApaya svAhA \|\|  
 The devI is meditated upon as residing in the cremation ground with
 limbs glistening like a moist mountain of black collyrium, with three
 large red eyes, with a shapely body decorated with sparkling ornaments
@@ -68,3 +72,4 @@ the general description of her matches the ancestral state as in the
 tradition of the YJS, the broom and the winnowing fan are unusual. This
 appears to be the prototype on which emergent deities like dhUmAvatI
 were partly based.
+

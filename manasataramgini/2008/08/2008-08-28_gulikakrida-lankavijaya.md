@@ -1,7 +1,11 @@
 +++
 title = "gulikAkrIDA: la~NkAvijaya"
+date = "2008-08-28"
+upstream_url = "https://manasataramgini.wordpress.com/2008/08/28/gulikakrida-lankavijaya/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/08/28/gulikakrida-lankavijaya/).
+
 The sunlit shores of la\~NkA, just like the beaches of Southern Saxony
 where the peerless pirates of emperor Ponting roam like fork-tongued
 monitors, have been a charnel ground for the Hindu armies over the ages.
@@ -76,3 +80,4 @@ stirrings](../2005/12/18/the-sub-continental-stirrings/)
 B’lore](../2006/06/11/surgriva-and-the-prince-of-blore/)  
 \* [The victory of the prince of the
 Bangalore](../2006/07/10/the-victory-of-the-prince-of-the-bangalore/)
+

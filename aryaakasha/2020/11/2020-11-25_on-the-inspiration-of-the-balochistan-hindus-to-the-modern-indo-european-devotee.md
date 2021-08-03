@@ -1,8 +1,11 @@
 +++
-title = "On The Inspiration Of The Balochistan Hindus To The Modern Indo-Europeanxa0Devotee"
-date = "November 25, 2020"
+title = "On The Inspiration Of The Balochistan Hindus To The Modern Indo-European Devotee"
+date = "2020-11-25"
+upstream_url = "https://aryaakasha.com/2020/11/25/on-the-inspiration-of-the-balochistan-hindus-to-the-modern-indo-european-devotee/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/11/25/on-the-inspiration-of-the-balochistan-hindus-to-the-modern-indo-european-devotee/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/11/126433085_10164432635255574_6105310139845145037_n.jpg?w=945)
 
 We occasionally may feel that it is a bit difficult being of an

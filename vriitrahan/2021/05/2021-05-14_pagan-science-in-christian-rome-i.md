@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "May 14, 2021"
+date = "2021-05-14"
+upstream_url = "https://vriitrahan.wordpress.com/2021/05/14/pagan-science-in-christian-rome-i/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2021/05/14/pagan-science-in-christian-rome-i/).
+
 In the 400s CE, rome was divided into two halves:- the eastern half
 ruled by the emperor at constantinople covered anatolia, greece, thrace,
 syria, egypt, palestine. This half was administratively roman but

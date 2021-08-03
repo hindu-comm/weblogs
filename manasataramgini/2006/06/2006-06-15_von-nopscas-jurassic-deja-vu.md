@@ -1,7 +1,13 @@
 +++
 title = "von Nopsca’s Jurassic deja vu"
+date = "2006-06-15"
+upstream_url = "https://manasataramgini.wordpress.com/2006/06/15/von-nopscas-jurassic-deja-vu/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/06/15/von-nopscas-jurassic-deja-vu/).
+
+
+
 [![](https://i2.wp.com/photos1.blogger.com/blogger/2010/410/320/Nopsca.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/Nopsca.jpg)
 
 Franz Baron von Nopsca of the Austria-Hungary empire (1877-1933) was one
@@ -54,3 +60,4 @@ like a dimunitive hybrid of the two. Thus Nopsca’s idea of dwarfing on
 islands may indeed be more prevalent than previously known.
 
 [![](https://i0.wp.com/photos1.blogger.com/blogger/2010/410/320/Europasaurus.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/Europasaurus.jpg)
+

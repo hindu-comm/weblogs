@@ -1,7 +1,11 @@
 +++
 title = "upAsana of the 11/12 vilAsinI-s"
+date = "2008-05-25"
+upstream_url = "https://manasataramgini.wordpress.com/2008/05/25/upasana-of-the-1112-vilasini-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/05/25/upasana-of-the-1112-vilasini-s/).
+
 One of the (apparently) extinct and distinct branches of the kula system
 is the kula of the vilAsinI devI-s. Few modern upAsaka-s appear to be
 aware of it; in part this might be due to the extreme secrecy observed
@@ -97,3 +101,4 @@ them and melting into a liquid gold. The unified dUtI and deshika
 experience total oneness of the universe and see it dissolve into the
 vyoman. The vyoman itself dissolves into the pure chit and there only
 the experience of samAdhi.
+

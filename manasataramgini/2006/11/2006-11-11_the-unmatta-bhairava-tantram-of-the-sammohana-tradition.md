@@ -1,9 +1,11 @@
 +++
 title = "The unmatta bhairava tantraM of the saMmohana tradition"
+date = "2006-11-11"
+upstream_url = "https://manasataramgini.wordpress.com/2006/11/11/the-unmatta-bhairava-tantram-of-the-sammohana-tradition/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/11/11/the-unmatta-bhairava-tantram-of-the-sammohana-tradition/).
 
-## mada-sAgara, tumburu and the 4 devI-s
 dAnavendra realized that if he could get hold of the amR^ita of the
 deva-s he would be victorious. For this he went over to the circle of
 mAtR^ikA-s headed by chakrakarAlinI and invoked them to fight on his
@@ -19,12 +21,11 @@ the situation. He created a mada-sAgara. He then emanated a 4-petalled
 lotus into that madasAgara. On the 4 petals sat the 4 devI-s jayA,
 vijayA, ajitA and aparAjitA, and in the middle sat the terrifying 4
 faced emanation of mahAdeva-
-[tumburu](http://manasataramgini.wordpress.com/2005/02/tumburu-manifestation-of-rudra.html).
+[tumburu](http://manollasa.blogspot.com/2005/02/tumburu-manifestation-of-rudra.html).
 They played melodiously on their vINas and captivated the mAtR^ikA-s and
 held them spell bound. When they were thus de-activated, the deva-s and
 tumburu attacked dAnavendra and killed him.
 
-## Transmission
 tumburu and his 4 sister goddess revealed the mahAsammohana saMhitA to
 maheshAna, from him to sammohana (after whom the tantra is now known),
 from him to ananta, from him to trimUrti, from him to dundubhi, from him
@@ -55,8 +56,8 @@ was taken up by nAstIka-s, and then the AstIkas re-obtained this from
 them with minor modifications as their version of bhUta-DAmara.
 
 AstIka bhUta-dAMaraM and unmattabhairavaM open with the lines:  
-vyoma-vaktraM mahAkAyaM pralayAgni-samaprabham |  
-abhedya-bhedyakaM staumi bhUtaDAmara-nAmakam ||
+vyoma-vaktraM mahAkAyaM pralalAgni-samaprabhaM \|  
+abhedya-bhedyakaM staumi bhUtaDAmara-nAmakaM \|\|
 
 Technically the face of rudra specifically being referred to here is
 ishAna (vyoma being the Urdhva mukha), which in the usual system refers
@@ -64,25 +65,26 @@ to face from which the siddhAnta tantras arose. But in the context of
 this tantra unmatta-bhairava is taken to be the emanation of
 ishAna-shiva:
 
-trailokyAdhipatiM raudraM sura-siddha-namaskR^itam |  
-unmatta-bhairavaM natvA pR^ichchaty unmatta-bhairavI ||
+trailokyAdhipati raudraM sura-siddha-namaskR^itaM \|  
+unmatta-bhairavaM natvA pR^ichchaty-unmatta-bhairavI \|\|
 
 The first four mantras appear to belong to the vajra-series that were
 deployed in the vajra-maNDala tantras used in certain shiva temples:  
-OM vajra-jvAlena hana hana sarva-bhUtAn hUM phaT ||  
+OM vajra-jvAlena hana hana sarva-bhUtAn hUM phaT \|\|  
 \[bhUta-DAmara mantra\]
 
-OM vajra-mukhe sara-sara phaT ||  
+OM vajra-mukhe sara-sara phaT \|\|  
 \[this is known as the viGYAnAkarShaNI mantra\]
 
-OM saMghaTTa-saMghaTTa mR^itAn jIvaya svAhA ||  
+OM saMghaTTa-saMghaTTa mR^itAn jIvaya svAhA \|\|  
 \[mR^ita-saMjIvani mantra\]
 
-OM hana hana sarvaM mAraya mAraya vajra-jvAlena hUM phaT ||  
+OM hana hana sarvaM mAraya mAraya vajra-jvAlena hUM phaT \|\|  
 \[mahAmAraNa mantra\]
 
 The mantra of sarvApsarasa prayoga of these tantras is thus given:  
-OM shrIM tilottamA | shrIM hrIM kA\~nchana-mAlA | OM shrIM huM
-kula-hAriNI |  
-OM huM ratnamAlA | OM huM raMbhA | OM shrIM urvashI | OM ramA bhUShiNI
-||
+OM shrIM tilottamA \| shrIM hrIM kA\~nchana-mAlA \| OM shrIM huM
+kula-hAriNI \|  
+OM huM ratnamAlA \| OM huM raMbhA \| OM shrIM urvashI \| OM ramA
+bhUShiNI \|\|
+

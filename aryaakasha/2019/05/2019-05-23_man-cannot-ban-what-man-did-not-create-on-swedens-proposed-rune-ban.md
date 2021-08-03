@@ -1,8 +1,11 @@
 +++
 title = "Man Cannot Ban What Man Did Not Create – On Sweden’s Proposed “Rune-Ban”"
-date = "May 23, 2019"
+date = "2019-05-23"
+upstream_url = "https://aryaakasha.com/2019/05/23/man-cannot-ban-what-man-did-not-create-on-swedens-proposed-rune-ban/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/05/23/man-cannot-ban-what-man-did-not-create-on-swedens-proposed-rune-ban/).
+
 ![60951639_10161793976465574_8110987777912340480_n
 (1)](https://aryaakasha.files.wordpress.com/2019/05/60951639_10161793976465574_8110987777912340480_n-1.jpg?w=676)
 

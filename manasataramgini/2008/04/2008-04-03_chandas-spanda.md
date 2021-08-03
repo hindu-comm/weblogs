@@ -1,7 +1,11 @@
 +++
 title = "chandas-spanda"
+date = "2008-04-03"
+upstream_url = "https://manasataramgini.wordpress.com/2008/04/03/chandas-spanda/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/04/03/chandas-spanda/).
+
 [![chandasspanda](https://i1.wp.com/farm3.static.flickr.com/2102/2383552659_b93b7dec09_o.png)](http://www.flickr.com/photos/24766652@N05/2383552659/ "chandasspanda by somasushma, on Flickr")
 
 1\) gAyatrI 2) uShniK 3) anuShTubh 4) bR^ihati 5) pankti 6) triShThubh

@@ -1,8 +1,11 @@
 +++
-title = "Indo-European Origins, Part II: The Nordic, Kurgan, and Anatolianxa0Theories"
-date = "October 29, 2016"
+title = "Indo-European Origins, Part II: The Nordic, Kurgan, and Anatolian Theories"
+date = "2016-10-29"
+upstream_url = "https://aryaakasha.com/2016/10/29/indo-european-origins-part-ii-the-nordic-kurgan-and-anatolian-theories/"
 
 +++
+Source: [here](https://aryaakasha.com/2016/10/29/indo-european-origins-part-ii-the-nordic-kurgan-and-anatolian-theories/).
+
 
 
 As Alain de Benoist has noted, there are two main schools of thought on

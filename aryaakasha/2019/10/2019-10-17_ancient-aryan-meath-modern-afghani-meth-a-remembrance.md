@@ -1,8 +1,11 @@
 +++
-title = "Ancient Aryan Meath & Modern Afghani Meth – Axa0Remembrance?"
-date = "October 17, 2019"
+title = "Ancient Aryan Meath & Modern Afghani Meth – A Remembrance?"
+date = "2019-10-17"
+upstream_url = "https://aryaakasha.com/2019/10/17/ancient-aryan-meath-modern-afghani-meth-a-remembrance/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/10/17/ancient-aryan-meath-modern-afghani-meth-a-remembrance/).
+
 ![74467212_465688654043464_6448101192521220096_n](https://aryaakasha.files.wordpress.com/2019/10/74467212_465688654043464_6448101192521220096_n.png?w=676)
 
 I found this rather … disconcerting, because it is arguably an instance

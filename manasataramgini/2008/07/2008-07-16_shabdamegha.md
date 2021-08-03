@@ -1,7 +1,11 @@
 +++
 title = "shabdamegha"
+date = "2008-07-16"
+upstream_url = "https://manasataramgini.wordpress.com/2008/07/16/shabdamegha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/07/16/shabdamegha/).
+
 Wordle, the word cloud generator of Jonathan Feinberg offers a
 delectable means of generating some art as well as capturing the essence
 of certain texts in a pictures. It uses the visually pleasing Gentium
@@ -64,3 +68,4 @@ like the fire offering (e.g the oblations to agni and savitar).
 
 This text is to be guessed by the reader: A reasonable test for basic
 familiarity with Sanskritic thought :-)
+

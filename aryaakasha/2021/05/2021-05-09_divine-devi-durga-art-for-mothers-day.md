@@ -1,8 +1,11 @@
 +++
-title = "Divine Devi Durga Art For Mother’sxa0Day"
-date = "May 9, 2021"
+title = "Divine Devi Durga Art For Mother’s Day"
+date = "2021-05-09"
+upstream_url = "https://aryaakasha.com/2021/05/09/divine-devi-durga-art-for-mothers-day/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/05/09/divine-devi-durga-art-for-mothers-day/).
+
 ![Art: ‘Invoking The War Goddess’ – by Mukesh
 Singh](https://aryaakasha.files.wordpress.com/2021/05/u7z0wzo.jpg?w=1024)
 

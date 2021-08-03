@@ -1,8 +1,11 @@
 +++
-title = "Salutations To The Shivas – Glorious Modern Hindu Art Of MahaDeva & Devi, And The Uma Maheshwara Stotram Of Adixa0Shankara"
-date = "May 8, 2021"
+title = "Salutations To The Shivas – Glorious Modern Hindu Art Of MahaDeva & Devi, And The Uma Maheshwara Stotram Of Adi Shankara"
+date = "2021-05-08"
+upstream_url = "https://aryaakasha.com/2021/05/08/salutations-to-the-shivas-glorious-modern-hindu-art-of-mahadeva-devi-and-the-uma-maheshwara-stotram-of-adi-shankara/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/05/08/salutations-to-the-shivas-glorious-modern-hindu-art-of-mahadeva-devi-and-the-uma-maheshwara-stotram-of-adi-shankara/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/05/e012fvpvcaeqmwz.jpg?w=683)
 
 Beautiful art of Lord Shiva & Devi, by Tanushree Ghosh

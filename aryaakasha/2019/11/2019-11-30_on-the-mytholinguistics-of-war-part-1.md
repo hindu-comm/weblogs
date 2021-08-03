@@ -1,8 +1,11 @@
 +++
-title = "On The Mytholinguistics Of War [Partxa01]"
-date = "November 30, 2019"
+title = "On The Mytholinguistics Of War [Part 1]"
+date = "2019-11-30"
+upstream_url = "https://aryaakasha.com/2019/11/30/on-the-mytholinguistics-of-war-part-1/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/11/30/on-the-mytholinguistics-of-war-part-1/).
+
 ![](https://aryaakasha.files.wordpress.com/2019/11/article.png?w=404)
 
 In many ways, it is not at all a controversial thing to assert that War

@@ -1,7 +1,11 @@
 +++
 title = "pApapuruSha krama"
+date = "2005-10-04"
+upstream_url = "https://manasataramgini.wordpress.com/2005/10/04/papapurusha-krama/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/10/04/papapurusha-krama/).
+
 An important rite for cleaning oneself of the ritual ills is the
 performance of the pApapuruSha dhyAnaM, which is closely linked to the
 sAMkhya thought that pervades the tantra. The mental vidhi is spelt out
@@ -69,3 +73,4 @@ he utters raM 64 times, each time holding his breath in the lungs. The
 fire emerging from the raM bija burn the sinful being completely. Then
 with out-breaths he utters vaM 32 times and washes away the ashes with
 the water emerging from the vaM bija.
+

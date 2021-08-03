@@ -1,8 +1,11 @@
 +++
-title = "Proof For Parjanya – The Sky Father Roars Through Scripturalxa0Force!"
-date = "February 6, 2021"
+title = "Proof For Parjanya – The Sky Father Roars Through Scriptural Force!"
+date = "2021-02-06"
+upstream_url = "https://aryaakasha.com/2021/02/06/proof-for-parjanya-the-sky-father-roars-through-scriptural-force/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/02/06/proof-for-parjanya-the-sky-father-roars-through-scriptural-force/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/02/eqa6gasxaaewedb-1.jpg?w=819)
 
 It is always nice to be vindicated ! A little over a year ago, I

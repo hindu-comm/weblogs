@@ -1,66 +1,70 @@
 +++
 title = "The rasa-yoShaNA"
+date = "2010-03-09"
+upstream_url = "https://manasataramgini.wordpress.com/2010/03/09/the-rasa-yoshana/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/03/09/the-rasa-yoshana/).
+
 The rasAyana texts developing in the bhairava-srotas of the
 shaiva-shAsana furnish a remarkable myth about the extraction of mercury
 in the darada country. One instance of this myth is found in the
 Anandakanda:  
 Anandakanda 1.1.53cd-1.1.62ab
 
-prathamArtava susnAtA surUpA shubha-lakShaNA || 53cd  
-shuddhAmbaradharA mAlyA gandha-liptA subhUShitA |  
-uttamAshva samArUDhA rati-sa\~Nga-vivarjitA || 54 
+prathamArtava susnAtA surUpA shubha-lakShaNA \|\| 53cd  
+shuddhAmbaradharA mAlyA gandha-liptA subhUShitA \|  
+uttamAshva samArUDhA rati-sa\~Nga-vivarjitA \|\| 54
 
 Having bathed after her first menstruation, a good looking maiden with
 auspicious features, clad in clean garments, wearing garlands, smeared
 with perfumes, well-adorned and abstaining from sexual activities mounts
 a good horse.
 
-abhy archya gaNanAthaM cha bhairavaM cha guruM purA |  
-rasendra-bhairavaM dhyAtvA kUpa-sthaM pAradaM priye || 55
+abhy archya gaNanAthaM cha bhairavaM cha guruM purA \|  
+rasendra-bhairavaM dhyAtvA kUpa-sthaM pAradaM priye \|\| 55
 
 Having first worshipped the lord of the gaNa-s, bhairava and preceptor
 at the inception one meditates on rasendra-bhairava in the mercury
 situated in the \[mercurial\] well
 
-tadAnIm Aharet-tatu kumArI saMjighR^ikShayA |  
-kUpa madhyAt samutpatya so.anudhAvati tAM prati || 56
+tadAnIm Aharet-tatu kumArI saMjighR^ikShayA \|  
+kUpa madhyAt samutpatya so.anudhAvati tAM prati \|\| 56
 
 At that instance, from the midst of the mercurial well, the Hg seized
 with the desire to grab the maiden, springs forth and rushes after her.
 
-pashyech-ChIghraM tato gachChet na punaH pR^iShTham IkShayet |  
-eShA yojana-mAtrA kumArI hayasAdhanA || 57
+pashyech-ChIghraM tato gachChet na punaH pR^iShTham IkShayet \|  
+eShA yojana-mAtrA kumArI hayasAdhanA \|\| 57
 
 On seeing the Hg, without looking behind again, quickly the maiden rides
 away on her horse for the distance of a yojana.
 
-yAvad yojanam Agatya punaH kUpe vishet kShaNAt |  
-paritaH kR^ita garteShu teShu teShu cha saMsthitam || 58  
-taM rasendraM shuchir bhUtvA gR^ihNIyAd rasa-deshikaH |
+yAvad yojanam Agatya punaH kUpe vishet kShaNAt \|  
+paritaH kR^ita garteShu teShu teShu cha saMsthitam \|\| 58  
+taM rasendraM shuchir bhUtvA gR^ihNIyAd rasa-deshikaH \|
 
 After reaching a yojana (in her pursuit) the Hg rapidly subsides into
 the mercurial well. While making the return it gets trapped into
 hollows. Having become pure the rasa-deshika takes possession of that
 mercury.
 
-gauravAd agni-vadanAt patito daradAhvaye || 59  
-deshe sa sUto bhUlInaH tantraj\~nai rasakovidaH |
+gauravAd agni-vadanAt patito daradAhvaye \|\| 59  
+deshe sa sUto bhUlInaH tantraj\~nai rasakovidaH \|
 
 The alchemical master by means of tantric insights knows that due its
 weight the Hg fell from the mouth of fire in the country known as darada
 and was absorbed by the earth.
 
-nikShipya mR^ittikA yantre pAtanAkhye samAgataH || 60  
-pArado gR^ihyate devi doSha-hInas sa uchyate |
+nikShipya mR^ittikA yantre pAtanAkhye samAgataH \|\| 60  
+pArado gR^ihyate devi doSha-hInas sa uchyate \|
 
 Having cast that ore (see below) into the retort assembled for
 distillation, O goddess he obtains the Hg that said to be free from
 impurities.
 
-evam eva tatra tatra siddha-vidyAdharais sadA || 61  
-nikShepitaH pAradendro vidyate devi siddhidaH || 62ab 
+evam eva tatra tatra siddha-vidyAdharais sadA \|\| 61  
+nikShepitaH pAradendro vidyate devi siddhidaH \|\| 62ab
 
 O goddess, verily, wherever the lordly mercury is thus extracted by the
 siddha-vidyAdhara-s it is known to be the granter of success.
@@ -105,3 +109,4 @@ transport from a hydrothermal system.
 Finally, what does the horse-riding mercury-magnet-maiden mean? Is it
 just a myth or a cryptic allusion to an alchemical process we fail to
 understand?
+

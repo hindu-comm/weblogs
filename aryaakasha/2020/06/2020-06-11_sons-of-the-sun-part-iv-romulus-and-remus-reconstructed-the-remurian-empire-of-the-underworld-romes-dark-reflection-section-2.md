@@ -1,8 +1,11 @@
 +++
-title = "Sons of the Sun Part IV: Romulus And Remus Reconstructed: The Remurian Empire of the Underworld – Rome’s Dark Reflection [Sectionxa02]"
-date = "June 11, 2020"
+title = "Sons of the Sun Part IV: Romulus And Remus Reconstructed: The Remurian Empire of the Underworld – Rome’s Dark Reflection [Section 2]"
+date = "2020-06-11"
+upstream_url = "https://aryaakasha.com/2020/06/11/sons-of-the-sun-part-iv-romulus-and-remus-reconstructed-the-remurian-empire-of-the-underworld-romes-dark-reflection-section-2/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/06/11/sons-of-the-sun-part-iv-romulus-and-remus-reconstructed-the-remurian-empire-of-the-underworld-romes-dark-reflection-section-2/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/06/genius.jpg?w=1024)
 
 Yet if I am right … where is the Underworld association for Remus?

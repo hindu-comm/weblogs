@@ -1,8 +1,11 @@
 +++
-title = "ChandraGhanta – Third of the NavaDurgas, The Third Night ofxa0NavRatri"
-date = "October 13, 2018"
+title = "ChandraGhanta – Third of the NavaDurgas, The Third Night of NavRatri"
+date = "2018-10-13"
+upstream_url = "https://aryaakasha.com/2018/10/13/chandraghanta-third-of-the-navadurgas-the-third-night-of-navratri/"
 
 +++
+Source: [here](https://aryaakasha.com/2018/10/13/chandraghanta-third-of-the-navadurgas-the-third-night-of-navratri/).
+
 ![12074939_10156171459935574_8429134478907830703_n](https://aryaakasha.files.wordpress.com/2018/10/12074939_10156171459935574_8429134478907830703_n.jpg?w=676)
 
 The Third Night of #NavRatri is dedicated to Ma as ChandraGhanta – She

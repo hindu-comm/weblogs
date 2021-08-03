@@ -1,8 +1,11 @@
 +++
-title = "COME HOME, INDO-EUROPEAN MAN – A Response To Axa0Critic"
-date = "December 22, 2020"
+title = "COME HOME, INDO-EUROPEAN MAN – A Response To A Critic"
+date = "2020-12-22"
+upstream_url = "https://aryaakasha.com/2020/12/22/come-home-indo-european-man-a-response-to-a-critic/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/12/22/come-home-indo-european-man-a-response-to-a-critic/).
+
 As I predicted, my recent post showing British soldiers engaged in Hindu
 devotional practices alongside their Gurkha comrades, provoked some
 strong reactions. Most of which were positive, although one chap replied

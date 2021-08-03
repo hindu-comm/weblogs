@@ -1,7 +1,13 @@
 +++
 title = "Formal definition of the shrichakra"
+date = "2005-04-09"
+upstream_url = "https://manasataramgini.wordpress.com/2005/04/09/formal-definition-of-the-shrichakra/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/04/09/formal-definition-of-the-shrichakra/).
+
+
+
 shrichakra [![Posted by
 Hello](https://i0.wp.com/photos1.blogger.com/pbh.gif)](http://www.hello.com/)
 
@@ -16,15 +22,17 @@ largest yoni triangle and the bounding circle)
 These define the exact shrichakra as laid down by kaivalyAshrama.
 
 The layers of the shrichakra are from outside in are:  
-1\) trailokya-mohana chakra  
-2\) sarvAshAparipuraka chakra  
-3\) sarva sha\~NkShobhana chakra  
-4\) sarva-saubhAgyadAyaka chakra  
-5\) sarvartha-sAdhaka chakra  
-6\) sarvarakashAkAra chakra  
-7\) sarva rogahara chakra  
-8\) sarva siddhIprada chakra  
-9\) sarva Anandamaya chakra
+1) trailokya-mohana chakra  
+2) sarvAshAparipuraka chakra  
+3) sarva sha\~NkShobhana chakra  
+4) sarva-saubhAgyadAyaka chakra  
+5) sarvartha-sAdhaka chakra  
+6) sarvarakashAkAra chakra  
+7) sarva rogahara chakra  
+8) sarva siddhIprada chakra  
+9) sarva Anandamaya chakra
 
 The chakra is navAtmA in two senses: 1) it is a sum of 9 layers. 2) it
-is a combination of 9= 4 li\~Nga and 5 yoni triangles.
+is a combination of 9= 4 li\~Nga and 5 yoni triangles.  
+  
+

@@ -1,7 +1,11 @@
 +++
 title = "The unknown mahApaNDitA"
+date = "2011-07-23"
+upstream_url = "https://manasataramgini.wordpress.com/2011/07/23/the-unknown-mahapandita/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/07/23/the-unknown-mahapandita/).
+
 When we heard from MM of her great exploits we immediately felt a
 kinship with her at three levels. This kinship we refer to does not
 merely arise from the fact that she was our co-ethnic but from something
@@ -107,3 +111,4 @@ a tale of a towering all-round intellectual who was well beyond her
 times and way beyond most of her own people – but nothing more aptly
 illustrates that unseen undercurrent of deeply knowledgeable, scholastic
 mantra tradition that exists or existed in bhArata.
+

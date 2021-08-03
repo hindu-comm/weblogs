@@ -1,8 +1,11 @@
 +++
-title = "The Radiant Queen of the Heavens – On Scythian Tabiti As Template For The Greater Indo-European Solar Goddess [Part 1 – The Figurative Eclipse And Unconquered Re-Emergence Of The Solar Goddessxa0Deific]"
-date = "June 26, 2020"
+title = "The Radiant Queen of the Heavens – On Scythian Tabiti As Template For The Greater Indo-European Solar Goddess [Part 1 – The Figurative Eclipse And Unconquered Re-Emergence Of The Solar Goddess Deific]"
+date = "2020-06-26"
+upstream_url = "https://aryaakasha.com/2020/06/26/the-radiant-queen-of-the-heavens-on-scythian-tabiti-as-template-for-the-greater-indo-european-solar-goddess-part-1-the-figurative-eclipse-and-unconquered-re-emergence-of-the-solar-goddess-deific/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/06/26/the-radiant-queen-of-the-heavens-on-scythian-tabiti-as-template-for-the-greater-indo-european-solar-goddess-part-1-the-figurative-eclipse-and-unconquered-re-emergence-of-the-solar-goddess-deific/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/06/8cea5105914e46277a32936639a0c838-1.png?w=600)
 
 It is one of those curious little mysteries of our sphere – how

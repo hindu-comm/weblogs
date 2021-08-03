@@ -1,8 +1,11 @@
 +++
-title = "A THIRD DRAUGHT OF SOMA-KVASIR – THE RECONSTRUCTION OF THE MEANING OF THExa0MEAD"
-date = "August 17, 2020"
+title = "A THIRD DRAUGHT OF SOMA-KVASIR – THE RECONSTRUCTION OF THE MEANING OF THE MEAD"
+date = "2020-08-17"
+upstream_url = "https://aryaakasha.com/2020/08/17/a-third-draught-of-soma-kvasir-the-reconstruction-of-the-meaning-of-the-mead/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/08/17/a-third-draught-of-soma-kvasir-the-reconstruction-of-the-meaning-of-the-mead/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/08/di2imruxcaaggru-1.jpg?w=819)
 
   

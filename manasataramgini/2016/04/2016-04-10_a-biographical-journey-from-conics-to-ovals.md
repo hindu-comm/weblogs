@@ -1,10 +1,15 @@
 +++
 title = "A biographical journey from conics to ovals"
+date = "2016-04-10"
+upstream_url = "https://manasataramgini.wordpress.com/2016/04/10/a-biographical-journey-from-conics-to-ovals/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2016/04/10/a-biographical-journey-from-conics-to-ovals/).
+
 As this article needed a lot of figures with some mathematical notation
-it is being presented as a PDF file: [A biographical journey from conics
-to ovals](https://app.box.com/s/t4mastdc8f4vraf4an6xsvh9n7hpcy5b)
+it is being presented as a PDF file:[A biographical journey from conics
+to
+ovals](https://manasataramgini.files.wordpress.com/2016/06/ovals_etc-2.pdf)
 
 This may be read a continuation of earlier notes such as:  
 [Fancies of the parabola and
@@ -19,3 +24,4 @@ axe](https://manasataramgini.wordpress.com/2016/03/19/the-cardioid-and-the-arbel
 Arbelos](https://manasataramgini.wordpress.com/2008/01/06/the-ara-and-the-arbelos/)  
 [Some trivia on equilateral triangles and the
 like](https://manasataramgini.wordpress.com/2014/12/28/some-trivia-on-equilateral-triangles-and-the-like-2/)
+

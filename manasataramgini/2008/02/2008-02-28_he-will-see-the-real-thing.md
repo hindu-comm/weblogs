@@ -1,7 +1,11 @@
 +++
 title = "He will see the real thing."
+date = "2008-02-28"
+upstream_url = "https://manasataramgini.wordpress.com/2008/02/28/he-will-see-the-real-thing/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/02/28/he-will-see-the-real-thing/).
+
 Mis-creant and we rode past the 7 betelnut trees that stood in a row on
 our ashva-s. Beyond it was the realm of mR^ityu, where those dragged by
 the dUta-s of vaivasvata were making their last journeys. Those 7
@@ -18,12 +22,13 @@ with it you shall make 100 loka-s
 with it you shall summon a 100 yakShinI-s  
 He shall be filled with wonder,  
 He shall behold the indrajAla-s,  
-He will think the mAyA is all real \!  
+He will think the mAyA is all real !  
 The kavi shall have none of the mAyA,  
 So how shall he survive?  
 He will have one mantra,  
-It will give him siddhi only once\!  
+It will give him siddhi only once!  
 But with it he shall make real those lokas,  
 Those which had sprung like maNi-s  
 in the splendid indrajAla-s.  
 For him send the spell of aryaman.
+

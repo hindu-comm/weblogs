@@ -1,7 +1,11 @@
 +++
 title = "The three yakShinis"
+date = "2006-01-30"
+upstream_url = "https://manasataramgini.wordpress.com/2006/01/30/the-three-yakshinis/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/01/30/the-three-yakshinis/).
+
 After long we spoke to droNajA of fair complexion. We marvelled at how
 she remained resplendent firing the imagination of admirers as she did
 15 years ago, when she was at the height of her glory. She was then like
@@ -20,3 +24,4 @@ three of them. They came with the sweet smiles illuminating the horizon.
 First was the delicate and elegant valli-yakShini. The second was the
 imperial rohiNi-yakShini. The third was the tura\~Nga-yakShini. We flew
 in their midst to the dvipa on gola sarvarovara…
+

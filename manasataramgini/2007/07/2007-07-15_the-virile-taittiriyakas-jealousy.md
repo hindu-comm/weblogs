@@ -1,7 +1,11 @@
 +++
 title = "The virile taittirIyaka’s jealousy"
+date = "2007-07-15"
+upstream_url = "https://manasataramgini.wordpress.com/2007/07/15/the-virile-taittiriyakas-jealousy/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/07/15/the-virile-taittiriyakas-jealousy/).
+
 When we saw the putraka we noticed that he was the atavistic
 manifestation of the great Fourier of Mangalagrama. While Fourier of
 Mangalagrama was a dreaded bhrAtR^ivya, he was still a man of
@@ -34,3 +38,4 @@ Even though equipped with the mantrashAstra he behaved like one
 unacquainted with shiShTAchara and bellowed a boast in the sabha
 deriding the third vIra and me, like a bull profusely signaling on
 perceiving rival bulls. With this he hurt his ties with his own janAH.
+

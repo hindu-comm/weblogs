@@ -1,7 +1,11 @@
 +++
 title = "Pitch of male vocalization"
+date = "2011-10-30"
+upstream_url = "https://manasataramgini.wordpress.com/2011/10/30/pitch-of-male-vocalization/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/10/30/pitch-of-male-vocalization/).
+
 [![](https://lh3.googleusercontent.com/-OqIQgwt4T0s/Tq2LaOq1ApI/AAAAAAAACQ0/RAK0x7Pyb20/s400/African_Baboon.jpg)](https://picasaweb.google.com/lh/photo/DKW_B9xNXF2e-M57EHXeGA?feat=embedwebsite)  
 A primate male at his peak with his weaponry
 
@@ -104,3 +108,4 @@ other hand, high vocal pitch in females signals greater femininity
 (higher estrogen) to males and increases near ovulation signaling
 reproductive capability to males. Thus, there has been a direct
 selection for higher pitch in females by males.
+

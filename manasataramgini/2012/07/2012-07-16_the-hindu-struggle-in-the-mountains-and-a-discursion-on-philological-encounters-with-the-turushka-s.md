@@ -1,7 +1,11 @@
 +++
 title = "The Hindu struggle in the mountains and a discursion on philological encounters with the turuShka-s"
+date = "2012-07-16"
+upstream_url = "https://manasataramgini.wordpress.com/2012/07/16/the-hindu-struggle-in-the-mountains-and-a-discursion-on-philological-encounters-with-the-turushka-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/07/16/the-hindu-struggle-in-the-mountains-and-a-discursion-on-philological-encounters-with-the-turushka-s/).
+
 Sometime after Bhairappa, a noted writer among the karNATa-s, published
 a novel that was supposed to concern the turuShka-bhArata saMgrAma, we
 happened to be journeying deep in the karNATa country. As the events
@@ -101,36 +105,35 @@ when Tughlaq is supposed to have conquered his kingdom. This suggests
 that this Tughlaq’s invasion of Kangra was a failure with nothing much
 to show. Indeed, the events that followed support this. The grandson of
 pR^ithivichandra, rUpachandra, took the opportunity of Mohd. b.
-Tughlaq’s death to launch a retaliatory strike against the
-Mohammedans. Gathering a strong cavalry force, he charged down from
-Kangra to attack Ghazi strongholds all the way to the gates of dillika.
-The new suratrANa, Firuz Tughlaq who was caught up in other Jihads was
-unable to relive his Muqaddams, whose treasure hoards were captured by
-rUpachandra and several of them were killed and others fled. Even as he
-came withing striking range of dillika, he got the news that he was
-facing a massive attack on rear from the Sultan of Kashmir. He hurried
-back to relieve his kingdom and in the process suffered some losses
-against the Sultan of Kashmir. Nevertheless, he managed to take back the
-Kangra territory from that invader. Thereafter, rupachandra faced a
-massive attack from Firuz Tughlaq. In describing this invasion
-Shams-i-siraj ‘Afif in his Tarikh-i-Firoz Shahi mentions that some
-Hindus have claimed that the Sultan and the earlier Tughlaq had held
-Chatra-s over the jvAlAmukhI idol or fire. But he clarifies: “Good
-Mohammedans should pay no heed to such lies. These two Sultans were
-specially chosen by Allah among the Mohammedans and in the whole course
-of their reigns, whenever they conquered a Hindu temple, they broke and
-destroyed it.” We have to admit that when the Mohammedan so clearly
-explains the matter, indeed it is only the deluded Hindus who repeatedly
-make up such stories to assuage themselves. Ferishta further clarifies
-what happened in the Kangra: “The name by which it was known was
-jvAlAmukhI. In this temple was a great library of 1300 Hindu books.
-Firuz ordered one of those books, which treated philosophy, astronomy
-and prognosis translated into Persian by Eizuddin Khalid Khani and had
-it named after himself as Dalayil-i-Firoz Shahi (The demonstrations of
-Firoz Shah). He broke the idols in the temple, mixed the pieces with cow
-flesh in bags tied around the neck of brAhmaNa-s and he paraded them
-around the camp. He sent the main idol of jvAlAmukhI to Mecca to be
-trampled under the foot of the Hajis.”
+Tughlaq’s death to launch a retaliatory strike against the Mohammedans.
+Gathering a strong cavalry force, he charged down from Kangra to attack
+Ghazi strongholds all the way to the gates of dillika. The new
+suratrANa, Firuz Tughlaq who was caught up in other Jihads was unable to
+relive his Muqaddams, whose treasure hoards were captured by rUpachandra
+and several of them were killed and others fled. Even as he came withing
+striking range of dillika, he got the news that he was facing a massive
+attack on rear from the Sultan of Kashmir. He hurried back to relieve
+his kingdom and in the process suffered some losses against the Sultan
+of Kashmir. Nevertheless, he managed to take back the Kangra territory
+from that invader. Thereafter, rupachandra faced a massive attack from
+Firuz Tughlaq. In describing this invasion Shams-i-siraj ‘Afif in his
+Tarikh-i-Firoz Shahi mentions that some Hindus have claimed that the
+Sultan and the earlier Tughlaq had held Chatra-s over the jvAlAmukhI
+idol or fire. But he clarifies: “Good Mohammedans should pay no heed to
+such lies. These two Sultans were specially chosen by Allah among the
+Mohammedans and in the whole course of their reigns, whenever they
+conquered a Hindu temple, they broke and destroyed it.” We have to admit
+that when the Mohammedan so clearly explains the matter, indeed it is
+only the deluded Hindus who repeatedly make up such stories to assuage
+themselves. Ferishta further clarifies what happened in the Kangra: “The
+name by which it was known was jvAlAmukhI. In this temple was a great
+library of 1300 Hindu books. Firuz ordered one of those books, which
+treated philosophy, astronomy and prognosis translated into Persian by
+Eizuddin Khalid Khani and had it named after himself as Dalayil-i-Firoz
+Shahi (The demonstrations of Firoz Shah). He broke the idols in the
+temple, mixed the pieces with cow flesh in bags tied around the neck of
+brAhmaNa-s and he paraded them around the camp. He sent the main idol of
+jvAlAmukhI to Mecca to be trampled under the foot of the Hajis.”
 
 This clarifies what really seems to have happened – after all we hear a
 clear opinion from the Moslem chroniclers, who in those days had no need
@@ -267,20 +270,20 @@ They also failed to take steps to counter the da’i activity of the Sufi
 subversionists. Ironically, during the reign of Zain-al-abidin, we see
 that the Kashmirian engineers were building “thunder weapons of mass
 destruction” for the turuShka-s. In his history shrIvara states that:
-“the engineers showed the sultan (Zain-al-abidin) thunder weapons
-which make men tremble with the deep sound they make. The sultan had
-these to be manufactured with different metals, new and hard…It destroys
-forts, pierces the vitals of men, strikes horses with terror, shoots
-stone bolides from a distance, hence remains unseen by soldiers from
-their defenses; it is well-controlled, make a deep noise and of great
-use – such was the weapon made by the engineers.” These were among the
-words shrIvara had composed for the inscription on the weapons and
-describes the fire-arms as being made of an alloy of different metals
-\[Footnote 2\]. If only such weapons had been channelized for the
-defense of Hindus. In contrast, around the same time when south India
-was overrun by the turuShka-s, the brAhmaNa-s, like vidyAraNya, sAyaNa,
-and gopaNArya among others, came to instigate and directly participate
-in the national war against the marUnmatta-s. In addition to actively
+“the engineers showed the sultan (Zain-al-abidin) thunder weapons which
+make men tremble with the deep sound they make. The sultan had these to
+be manufactured with different metals, new and hard…It destroys forts,
+pierces the vitals of men, strikes horses with terror, shoots stone
+bolides from a distance, hence remains unseen by soldiers from their
+defenses; it is well-controlled, make a deep noise and of great use –
+such was the weapon made by the engineers.” These were among the words
+shrIvara had composed for the inscription on the weapons and describes
+the fire-arms as being made of an alloy of different metals \[Footnote
+2\]. If only such weapons had been channelized for the defense of
+Hindus. In contrast, around the same time when south India was overrun
+by the turuShka-s, the brAhmaNa-s, like vidyAraNya, sAyaNa, and
+gopaNArya among others, came to instigate and directly participate in
+the national war against the marUnmatta-s. In addition to actively
 restoring Sanskritic traditions destroyed by the turuShka-s, they paid
 utmost attention to the oversight of the great national war in close
 coordination with able kShatriya-s and shUdra-s. This is an important
@@ -451,3 +454,4 @@ Footnote 3: It is quite possible that the Hindu physician vAchaspati was
 associated with this temple or at least hailed from its vicinity. A
 vigorous tradition of the Hindu sciences is attested in the medical and
 astronomical texts sponsored by the TAkarAja-s from the region.
+

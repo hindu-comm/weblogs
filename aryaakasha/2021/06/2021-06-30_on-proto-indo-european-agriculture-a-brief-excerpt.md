@@ -1,8 +1,11 @@
 +++
-title = "On Proto-Indo-European Agriculture – A Briefxa0Excerpt"
-date = "June 30, 2021"
+title = "On Proto-Indo-European Agriculture – A Brief Excerpt"
+date = "2021-06-30"
+upstream_url = "https://aryaakasha.com/2021/06/30/on-proto-indo-european-agriculture-a-brief-excerpt/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/06/30/on-proto-indo-european-agriculture-a-brief-excerpt/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/06/c4d974a44e8b204fced05a396617354f.png?w=600)
 
 Running this as an excerpt \[it’s from my latest long-form

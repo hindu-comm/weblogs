@@ -1,8 +1,11 @@
 +++
-title = "On The Preservation Of Faith In The Indo-European Periphery – And Its Corrosion In The Indo-Europeanxa0Core"
-date = "September 1, 2020"
+title = "On The Preservation Of Faith In The Indo-European Periphery – And Its Corrosion In The Indo-European Core"
+date = "2020-09-01"
+upstream_url = "https://aryaakasha.com/2020/09/01/on-the-preservation-of-faith-in-the-indo-european-periphery-and-its-corrosion-in-the-indo-european-core/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/09/01/on-the-preservation-of-faith-in-the-indo-european-periphery-and-its-corrosion-in-the-indo-european-core/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/09/118570834_10164084388550574_1904840063898725154_n.jpg?w=860)
 
 \[Author’s Note: This was initially intended as a brief introduction to

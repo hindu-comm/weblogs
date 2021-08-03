@@ -1,8 +1,11 @@
 +++
-title = "On reading gay stuff into mileus where such concepts did notxa0exist"
-date = "2018-02-12"
+title = "On reading gay stuff into mileus where such concepts did not exist"
+date = "2018-12-02"
+upstream_url = "https://padmavajra.net/2018/02/12/on-reading-gay-stuff-into-mileus-where-such-concepts-did-not-exist/"
 
 +++
+Source: [here](https://padmavajra.net/2018/02/12/on-reading-gay-stuff-into-mileus-where-such-concepts-did-not-exist/).
+
 <https://crevicesinmysoul.wordpress.com/2018/02/11/the-gay-angle-in-padmaavat/>
 
 

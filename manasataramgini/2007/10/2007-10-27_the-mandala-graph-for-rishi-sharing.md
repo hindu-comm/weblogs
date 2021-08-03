@@ -1,7 +1,11 @@
 +++
 title = "The maNDala graph for R^iShi-sharing"
+date = "2007-10-27"
+upstream_url = "https://manasataramgini.wordpress.com/2007/10/27/the-mandala-graph-for-rishi-sharing/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/10/27/the-mandala-graph-for-rishi-sharing/).
+
 The strict R^ishi-sharing graph between the 10 RV maNDalas (click on
 figure to enlarge)
 
@@ -9,9 +13,9 @@ figure to enlarge)
 
 The blue lines represent jamadagni who is only a co-author of a single
 sUktaM in maNDala 3.  
-\-Note the dense clustering between 8,9,10,1  
-\-Note the lack of clustering of family books 2,3,4,6,7  
-\-Note tendency of family books 5 and 8 to overlap with each other and
+-Note the dense clustering between 8,9,10,1  
+-Note the lack of clustering of family books 2,3,4,6,7  
+-Note tendency of family books 5 and 8 to overlap with each other and
 with 1,8,9 in particular.
 
 The R^igvedic family books can be divided into two types: 2,3,4,6,7
@@ -174,9 +178,10 @@ seeing some of these elements had their own problems. I was mentally
 distracted by the need to rebutt their theories, but then I thought it
 was just not worth it. Anyone who studies the veda, and does not dismiss
 Hindu tradition as meaningless, can see that what I outline above is the
-essence of the whole thing, and is about as much as we can draw in a
+essence of the whole thing, and is about as much as we can drawin a
 cursory analysis. Of course there are numerous specific points
 concerning specific aspects of the shrauta ritual and to some extant the
 gR^ihya rituals that we might cover if we feel so inclined in the
 reminder of our life. All this we fear would become extinct in our clan
 with me, who is the last somapAyin in my current family.
+

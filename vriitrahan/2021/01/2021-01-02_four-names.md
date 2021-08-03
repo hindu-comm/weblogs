@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "January 2, 2021"
+date = "2021-01-02"
+upstream_url = "https://vriitrahan.wordpress.com/2021/01/02/four-names/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2021/01/02/four-names/).
+
 तु॒रीयं॒ नाम॑ य॒ज्ञियं॑ य॒दा कर॒स्तदु॑श्मसिआदित्पति॑र्न ओहसे
 
 “We desire, when thy take the fourth sacrifical name. Then only you are

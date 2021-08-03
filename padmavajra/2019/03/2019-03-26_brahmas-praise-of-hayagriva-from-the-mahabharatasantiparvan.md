@@ -1,8 +1,11 @@
 +++
 title = "Brahmā’s praise of Nārāyaṇa to take up Hayagrīva rūpa to kill Madhu and Kaiṭabha from the Mahābhārata(Śāntiparvan)"
 date = "2019-03-26"
+upstream_url = "https://padmavajra.net/2019/03/26/brahmas-praise-of-hayagriva-from-the-mahabharatasantiparvan/"
 
 +++
+Source: [here](https://padmavajra.net/2019/03/26/brahmas-praise-of-hayagriva-from-the-mahabharatasantiparvan/).
+
 ![unnamed](https://padmavajrablog.files.wordpress.com/2019/03/unnamed.jpg?w=739)
 
 Hayagrīva slaying an asura(Kalighat painting)

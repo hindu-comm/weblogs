@@ -1,7 +1,11 @@
 +++
 title = "The Plague: historical, biographical and current: a brief roundup"
+date = "2020-02-26"
+upstream_url = "https://manasataramgini.wordpress.com/2020/02/26/the-plague-historical-biographical-and-current-a-brief-roundup/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2020/02/26/the-plague-historical-biographical-and-current-a-brief-roundup/).
+
 Globalization is not a new thing. The Indo-European empire of the
 steppes was perhaps the first one. In addition to having a serious
 component of our genetic ancestry and most of our memetic inheritance in
@@ -113,17 +117,16 @@ wrong molecular clock assumptions to infer branching times on their
 tree. Instead we think they probably have been around from early in
 animal evolution with the coronavirus branch itself being over 20-30
 ![\\times
-10^6](https://s0.wp.com/latex.php?latex=%5Ctimes+10%5E6&bg=ffffff&fg=333333&s=0
-"\\times 10^6")Y in age. The scenario we favor is thus: the nidoviruses
-first entered vertebrates from them feeding on invertebrates like
-molluscs or crustaceans. Alternatively (less likely), blood-feeding
-invertebrates like mosquitoes transmitted them to vertebrates. Once in
-vertebrates they have mainly transmitted through the oral and
-respiratory route (that’s why latter alternative is less likely). The
-prevalence of coronaviruses in bats and birds raises the possibility
-that these flying vertebrates contributed to their wide dissemination
-with a likely early exchange between birds and bats perhaps from shared
-nesting sites.
+10^6](https://s0.wp.com/latex.php?latex=%5Ctimes+10%5E6&bg=ffffff&fg=333333&s=0&c=20201002)Y
+in age. The scenario we favor is thus: the nidoviruses first entered
+vertebrates from them feeding on invertebrates like molluscs or
+crustaceans. Alternatively (less likely), blood-feeding invertebrates
+like mosquitoes transmitted them to vertebrates. Once in vertebrates
+they have mainly transmitted through the oral and respiratory route
+(that’s why latter alternative is less likely). The prevalence of
+coronaviruses in bats and birds raises the possibility that these flying
+vertebrates contributed to their wide dissemination with a likely early
+exchange between birds and bats perhaps from shared nesting sites.
 
 Fast forward to 2020 CE. The civil year began with the news report of a
 SARS-like pneumonia disease in Wuhan, China. The first cases were
@@ -187,20 +190,19 @@ Like SARS, COVID-19 seems primarily to kills via respiratory failure.
 However, going by the reports outside China, which are likely more
 reliable, its mortality rate seems lower than SARS but certainly much
 higher than influenza. Ironically just a few weeks back people were
-saying the influenza is a bigger danger than COVID-19\! In any case it
+saying the influenza is a bigger danger than COVID-19! In any case it
 has several nasty features: 1) It seems to have a fairly long incubation
 time which could go over 2 weeks. 2) It is highly infectious as the
 infections on the cruise-ship docked in Japan showed. We would say it
 has a higher mean
-![R\_0](https://s0.wp.com/latex.php?latex=R_0&bg=ffffff&fg=333333&s=0
-"R_0") than SARS, i.e. the mean number of individuals an infected
-individual transmits the virus to. 3) Several patients are asymptomatic
-but appear potentially capable of shedding and transmitting the virus.
-4) It is still not very clear if means of transmission other than
-through droplets exist. This combination of features make it a rather
-dangerous thing: it has all the stealth features for wide dissemination
-on one hand and enough of a mortality rate to be fear-inducing on the
-other.
+![R_0](https://s0.wp.com/latex.php?latex=R_0&bg=ffffff&fg=333333&s=0&c=20201002)
+than SARS, i.e. the mean number of individuals an infected individual
+transmits the virus to. 3) Several patients are asymptomatic but appear
+potentially capable of shedding and transmitting the virus. 4) It is
+still not very clear if means of transmission other than through
+droplets exist. This combination of features make it a rather dangerous
+thing: it has all the stealth features for wide dissemination on one
+hand and enough of a mortality rate to be fear-inducing on the other.
 
 Finally, we comment on one point that ignorant or lay people often ask
 us about. Is this an engineered biological warfare agent? People could

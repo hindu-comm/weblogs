@@ -1,7 +1,11 @@
 +++
 title = "Mapusaurus roseae and the theropods of the South"
+date = "2006-04-01"
+upstream_url = "https://manasataramgini.wordpress.com/2006/04/01/mapusaurus-roseae-and-the-theropods-of-the-south/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/04/01/mapusaurus-roseae-and-the-theropods-of-the-south/).
+
 In my earliest youth I was fascinated by an obscure Late Cretaceous
 dinosaur Carcharodontosaurus, which was known only from fragmentary
 remains from the Sahara, described by the famous German paleontologist
@@ -48,3 +52,4 @@ seems to be larger clade within allosauroid including the Sinraptorids
 followed by a crown group of Neovenator and the Carcharodontosaurs. On
 the other hand there was another clade with Allosaurus and
 Acrocanthosaurus.
+

@@ -1,12 +1,16 @@
 +++
 title = "The ditty of the desert road"
+date = "2014-12-10"
+upstream_url = "https://manasataramgini.wordpress.com/2014/12/10/the-ditty-of-the-desert-road/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/12/10/the-ditty-of-the-desert-road/).
+
 He who eats once is a tyāgin;  
 He who eats twice is a yogin;  
 He who eats thrice is a bhogin;  
 And he who eats four times a day  
-is verily destined to be a rogin\!
+is verily destined to be a rogin!
 
 Some find rest by going home,  
 Some find rest on the bed,  
@@ -39,3 +43,4 @@ now food for bacteria, the ṛbhu-s of life at the śmaśāna.
 We may ask: were these brought to their final rest by citragupta ?  
 Nay, like pārikṣita-s of yore they sit weaving at the place of yama.  
 But some say verily such a kṣatriya-s end is no cause of sorrow.
+

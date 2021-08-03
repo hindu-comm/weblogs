@@ -1,7 +1,11 @@
 +++
 title = "The Brave Pancholi"
+date = "2004-03-09"
+upstream_url = "https://manasataramgini.wordpress.com/2004/03/09/the-brave-pancholi/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/03/09/the-brave-pancholi/).
+
 Ajayamerupura (known today as Ajmer) had always been a key center for
 the dominance of Hindustan. It was the home of one of the most famous
 Indian Vedic universities in north India during the reign of the
@@ -36,3 +40,4 @@ the Rao Ran Mal rewarded the Pancholi with Khatoo, that he had just
 wrested from the Qara’unas Turk Khaim Khan. The Hindus allowed the
 Mohammedans to remain behind in Ajmer but forbid any public displays of
 Islamic practices.
+

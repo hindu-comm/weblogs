@@ -1,7 +1,11 @@
 +++
 title = "The experience of the seriema"
+date = "2008-07-05"
+upstream_url = "https://manasataramgini.wordpress.com/2008/07/05/the-experience-of-the-seriema/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/07/05/the-experience-of-the-seriema/).
+
 [![](https://manasataramgini.files.wordpress.com/2008/07/seriema1.jpg?w=296&h=300)](https://manasataramgini.files.wordpress.com/2008/07/seriema1.jpg)  
 I had recently taken my clansmen to the zoo where I came face to face
 with the seriema. It was a tremendous experience. For years we had only
@@ -17,3 +21,4 @@ me (I think she said it was like the experience of the khechari vidyA –
 in time I guess).  
 [![](https://manasataramgini.files.wordpress.com/2008/07/phorusrhacids1.jpg?w=300&h=229)](https://manasataramgini.files.wordpress.com/2008/07/phorusrhacids1.jpg)  
 Phorusrhacids as per Alvarenga and Hoefling
+

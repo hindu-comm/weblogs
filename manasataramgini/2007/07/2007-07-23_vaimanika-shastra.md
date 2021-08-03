@@ -1,7 +1,11 @@
 +++
 title = "vaimAnika shAstra"
+date = "2007-07-23"
+upstream_url = "https://manasataramgini.wordpress.com/2007/07/23/vaimanika-shastra/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/07/23/vaimanika-shastra/).
+
 As kids we had a fascination for the vaimAnika shAstra. Our companions
 dvipakSha-kesha and kalashajA were endlessly fascinated by it. Later it
 almost became a refrain of ridicule used to deride Hindus who were
@@ -23,20 +27,20 @@ samaj edition shows that it was not based on Josyer’s transcript, but
 based on the Baroda transcript.
 
 Thus, we have have the following history of the transcripts:  
-1\) As per Josyer we learn that the smArta paNDita, subbarAya shAstrI
-was a learned, poor brAhmaNa from South India. He claimed to have “seen”
-an lost text titled the vaimAnika shAstra, fragment of the yantra
-sarvasva by bhAradvAja and began dictating it. A certain veMkaTAchala
-sharman copied this down in notebooks between 1918-1923. Eventually
-Josyer, a saMskR^ita paNDita from Mysore got hold of these notebooks and
-published it with a translation in 1973.  
-2\) A transcript of the text was made from an unknown source in 1918 and
+1) As per Josyer we learn that the smArta paNDita, subbarAya shAstrI was
+a learned, poor brAhmaNa from South India. He claimed to have “seen” an
+lost text titled the vaimAnika shAstra, fragment of the yantra sarvasva
+by bhAradvAja and began dictating it. A certain veMkaTAchala sharman
+copied this down in notebooks between 1918-1923. Eventually Josyer, a
+saMskR^ita paNDita from Mysore got hold of these notebooks and published
+it with a translation in 1973.  
+2) A transcript of the text was made from an unknown source in 1918 and
 deposited in the Baroda Royal library.  
-3\) Transcripts from Pune (I do not know where they are currently
-housed, but photographed by Arya Samaj and stored with them) have the
-marking “transcribed by go. veMkaTAchala sharman in 19/8/1919 and
-3/6/1919” on them. The latter two transcripts were used in making the
-Arya Samaj edition of which Josyer seems to be blissfully unaware.
+3) Transcripts from Pune (I do not know where they are currently housed,
+but photographed by Arya Samaj and stored with them) have the marking
+“transcribed by go. veMkaTAchala sharman in 19/8/1919 and 3/6/1919” on
+them. The latter two transcripts were used in making the Arya Samaj
+edition of which Josyer seems to be blissfully unaware.
 
 Now all the confirmed transcripts, while widely distributed over
 peninsular India, appear to date roughly from 1918 earliest. These point
@@ -89,3 +93,4 @@ imagination enumerating devices like cameras and solar power, but not
 really providing constructional details in many cases. All in all these
 issues make it a piece of Hindu science fiction, albeit finding
 expression in a peculiar fashion as a shAstra.
+

@@ -1,8 +1,11 @@
 +++
-title = "Arya Akasha Arka – Lighting The Flamethrower ofxa0Faith"
-date = "July 24, 2020"
+title = "Arya Akasha Arka – Lighting The Flamethrower of Faith"
+date = "2020-07-24"
+upstream_url = "https://aryaakasha.com/2020/07/24/arya-akasha-arka-lighting-the-flamethrower-of-faith/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/07/24/arya-akasha-arka-lighting-the-flamethrower-of-faith/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/07/66812156_10162048962375574_7682009304836079616_n.jpg?w=564)
 
 “तवमग्ने रुद्रो असुरो महो दिवः “  

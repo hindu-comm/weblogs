@@ -1,7 +1,11 @@
 +++
 title = "A brief note on some new developments regarding the genomics of Indians"
+date = "2018-04-01"
+upstream_url = "https://manasataramgini.wordpress.com/2018/04/01/a-brief-note-on-some-new-developments-regarding-the-genomics-of-indians/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2018/04/01/a-brief-note-on-some-new-developments-regarding-the-genomics-of-indians/).
+
 When we wrote a [previous
 article](https://manasataramgini.wordpress.com/2015/12/12/a-note-on-the-early-expansions-of-the-indo-europeans/)
 on this matter we had stated that new data will alter the details of our
@@ -74,7 +78,7 @@ lends some support to the scenario that the Soma cult was acquired by
 the Indo-Iranians and integrated with the older fire-cult as they
 reached the BMAC sites. It is notable in this context that one of the
 main proponents of the Soma cult in the Vaidika system, the Kaśyapa
-clan, was the default gotra for a brāhmaṇa who did not know his. There
+clan, was the default gotra for abrāhmaṇa who did not know his. There
 are issues with each of these points and interesting complications but
 we desist from discussing any of these now.
 
@@ -99,16 +103,16 @@ of the Indus-periphery, the Indian Hunter-gather (AASI) and the Steppe
 population related to the Sintashta complex. Below are some figures
 based on their model to illustrate the situation.
 
-![Indians\_St\_I\_O](https://manasataramgini.files.wordpress.com/2018/04/indians_st_i_o.png?w=640)Figure
+![Indians_St_I\_O](https://manasataramgini.files.wordpress.com/2018/04/indians_st_i_o.png?w=640)Figure
 1. A box plot showing the three modeled components of Indian Ancestry
 for the 140 populations studied by the authors. The gray line indicates
 the position of the genuine brāhmaṇa population with the lowest steppe
 ancestry (i.e. leaving out some groups which are not conventional
-brāhmaṇa, e.g. viśvakarman). It is clear that the brāhmaṇa-s show
-above average steppe ancestry and below average Indian hunter-gatherer
+brāhmaṇa, e.g. viśvakarman). It is clear that the brāhmaṇa-s show above
+average steppe ancestry and below average Indian hunter-gatherer
 ancestry.
 
-![Indians\_st\_I\_O\_hist](https://manasataramgini.files.wordpress.com/2018/04/indians_st_i_o_hist.png?w=640)Figure
+![Indians_st_I\_O_hist](https://manasataramgini.files.wordpress.com/2018/04/indians_st_i_o_hist.png?w=640)Figure
 2. The same data is represented as a histogram. It is clear that whereas
 the Indus-periphery and Indian Hunter-gatherer ancestry is unimodal, the
 steppe ancestry is not with groups showing low and high steppe ancestry.
@@ -123,7 +127,7 @@ For this we had drop generic groups like Gujarati, Punjabi, Muslim and
 the like. This left us with 124 populations. These are plotted as a
 ternary diagram.
 
-![Indian\_Ternary](https://manasataramgini.files.wordpress.com/2018/04/indian_ternary.png?w=640)Figure
+![Indian_Ternary](https://manasataramgini.files.wordpress.com/2018/04/indian_ternary.png?w=640)Figure
 3. Ternary diagram of the 3 strands of Indian ancestry. The 5
 caste-tribal groups defined above are colored: 1-red, 2-orange,
 3-aquamarine; 4-blue; 5-violet. One can see the effect of the two
@@ -132,12 +136,12 @@ varṇa populations.
 
 A closer examination of this is seen the next three figures:
 
-![Indian\_steppe](https://manasataramgini.files.wordpress.com/2018/04/indian_steppe.png?w=640)Figure
+![Indian_steppe](https://manasataramgini.files.wordpress.com/2018/04/indian_steppe.png?w=640)Figure
 4. A box plot of the inferred steppe ancestry in the above-defined five
 groups. The steppe ancestry is arrayed in accordance with the caste
 ladder and tribals have the least of it on an average.
 
-![Indian\_Indus\_periphery](https://manasataramgini.files.wordpress.com/2018/04/indian_indus_periphery.png?w=640)Figure
+![Indian_Indus_periphery](https://manasataramgini.files.wordpress.com/2018/04/indian_indus_periphery.png?w=640)Figure
 5. A box plot of the inferred Indus-periphery ancestry in the
 above-defined five groups. It is interesting to note that unlike the
 steppe ancestry’s the Indus-periphery ancestry is greater in the warrior
@@ -146,7 +150,7 @@ value of this component. However, this difference is only mildly
 significant in the current data (p=.033) and sampling bias cannot be
 ruled out.
 
-![Indians\_HG](https://manasataramgini.files.wordpress.com/2018/04/indians_hg.png?w=640)Figure
+![Indians_HG](https://manasataramgini.files.wordpress.com/2018/04/indians_hg.png?w=640)Figure
 6. A box plot of the inferred Indian hunter-gatherer ancestry in the
 above-defined five groups. Here for the four groups from the warrior
 castes to the tribes we see a reverse of the scenario seen for the
@@ -167,9 +171,8 @@ survivors of the old Harappan civilization. The groups with a wide-range
 of older Indian hunter-gatherer-Iranian farmer mixture were incorporated
 across the upper caste ladder but especially in warrior and middle
 castes where we see considerable dispersion (e.g. southern
-agnikula-kṣatriya with low steppe ancestry). The movement of
-braḥmaṇa-s into the south possibly also involved admixture with
-these groups.
+agnikula-kṣatriya with low steppe ancestry). The movement of braḥmaṇa-s
+into the south possibly also involved admixture with these groups.
 
 Finally, a brief political note. The pro-Hindu pakṣa had acquired an
 aberration mainly in the past 3 decades known as OIT or the out of India
@@ -199,3 +202,4 @@ Asia, McColl et al.
 
 A Bayesian phylogenetic study of the Dravidian language family
 <http://rsos.royalsocietypublishing.org/content/5/3/171504>
+

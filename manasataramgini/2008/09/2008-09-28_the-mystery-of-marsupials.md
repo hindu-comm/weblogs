@@ -1,8 +1,12 @@
 +++
 title = "The mystery of marsupials"
+date = "2008-09-28"
+upstream_url = "https://manasataramgini.wordpress.com/2008/09/28/the-mystery-of-marsupials/"
 
 +++
-[![marsupial\_skulls](https://i0.wp.com/farm4.static.flickr.com/3075/2888697485_c670521c0a_o.jpg)](http://www.flickr.com/photos/24766652@N05/2888697485/ "marsupial_skulls by somasushma, on Flickr")
+Source: [here](https://manasataramgini.wordpress.com/2008/09/28/the-mystery-of-marsupials/).
+
+[![marsupial_skulls](https://i0.wp.com/farm4.static.flickr.com/3075/2888697485_c670521c0a_o.jpg)](http://www.flickr.com/photos/24766652@N05/2888697485/ "marsupial_skulls by somasushma, on Flickr")
 
 Since I was introduced to marsupials by mAtA-shrI when I was a year or
 so old I was mystified by them because I never got to see them. After
@@ -31,14 +35,14 @@ and the prominent stylar shelf with several cusps. These distinctive
 features immediately help one to spot the metatherian nature of basal
 forms like *Kokopellia* and the primitive *Asiatherium*.
 
-[![marsupial\_upperM](https://i1.wp.com/farm4.static.flickr.com/3017/2894612052_803905c2f7_o.jpg)](http://www.flickr.com/photos/24766652@N05/2894612052/ "marsupial_upperM by somasushma, on Flickr")
+[![marsupial_upperM](https://i1.wp.com/farm4.static.flickr.com/3017/2894612052_803905c2f7_o.jpg)](http://www.flickr.com/photos/24766652@N05/2894612052/ "marsupial_upperM by somasushma, on Flickr")
 
 The lower molar as shown here (divided into two elements the trigonid
 and the talonid) have a paraconid on lingual side in the trigonid and
 most characteristically a “twinning” of the entoconid and hypconulid
 cusps on the side opposite to the hypoconid.
 
-[![marsupial\_lowerM](https://i2.wp.com/farm4.static.flickr.com/3021/2895770250_3d4d443d98_o.jpg)](http://www.flickr.com/photos/24766652@N05/2895770250/ "marsupial_lowerM by somasushma, on Flickr")
+[![marsupial_lowerM](https://i2.wp.com/farm4.static.flickr.com/3021/2895770250_3d4d443d98_o.jpg)](http://www.flickr.com/photos/24766652@N05/2895770250/ "marsupial_lowerM by somasushma, on Flickr")
 
 Until recently the affinities and the biogeographical patterns of
 marsupials remained pretty poorly understood. The 1990s and 2000s saw
@@ -120,7 +124,7 @@ that the australodelpians actually emerged in Australia and were
 back-transferred to South America. While not implausible, we find this
 an utterly unnecessary proposal, especially given their reliance on
 absence of evidence (dangerous given the fragmentary nature of the small
-mammalian fossils\!). It is possible that the mysterious forms
+mammalian fossils!). It is possible that the mysterious forms
 accompanying Djarthia were other mammalian (marsupial) immigrants via
 Antarctica that flourished only briefly before going extinct. Thus,
 Australia was entirely left open for the great radiation of
@@ -235,3 +239,4 @@ Euro-African forms. So they might be survivors of a Cretaceous fauna of
 Asian marsupials also related to North American forms like Peradectes.
 Of course most of these forms being too fragmentary are a mystery to
 most of us.
+

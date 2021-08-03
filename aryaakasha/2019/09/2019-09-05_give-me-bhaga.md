@@ -1,8 +1,11 @@
 +++
 title = "Give Me Bhaga"
-date = "September 5, 2019"
+date = "2019-09-05"
+upstream_url = "https://aryaakasha.com/2019/09/05/give-me-bhaga/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/09/05/give-me-bhaga/).
+
 ![69836096_10162223958970574_6020480294182715392_n](https://aryaakasha.files.wordpress.com/2019/09/69836096_10162223958970574_6020480294182715392_n.jpg?w=676)
 
 This Is #GangSteppe – a trio of Scythians, circa the 4th century B.C.

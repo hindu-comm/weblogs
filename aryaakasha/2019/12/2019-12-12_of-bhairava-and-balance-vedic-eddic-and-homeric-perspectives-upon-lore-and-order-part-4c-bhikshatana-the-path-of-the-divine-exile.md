@@ -1,8 +1,11 @@
 +++
-title = "OF BHAIRAVA AND BALANCE, Vedic, Eddic, and Homeric perspectives upon Lore and Order [Part 4C] Bhikshatana – The Path Of The Divinexa0Exile"
-date = "December 12, 2019"
+title = "OF BHAIRAVA AND BALANCE, Vedic, Eddic, and Homeric perspectives upon Lore and Order [Part 4C] Bhikshatana – The Path Of The Divine Exile"
+date = "2019-12-12"
+upstream_url = "https://aryaakasha.com/2019/12/12/of-bhairava-and-balance-vedic-eddic-and-homeric-perspectives-upon-lore-and-order-part-4c-bhikshatana-the-path-of-the-divine-exile/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/12/12/of-bhairava-and-balance-vedic-eddic-and-homeric-perspectives-upon-lore-and-order-part-4c-bhikshatana-the-path-of-the-divine-exile/).
+
 ![](https://aryaakasha.files.wordpress.com/2019/12/80228066_10162661533515574_3845115827326025728_n.jpg?w=500)
 
 Following on from Bhairava’s decapitation-strike and humbling blow

@@ -1,8 +1,11 @@
 +++
-title = "Rajya – axa0draft"
+title = "Rajya – a draft"
 date = "2018-12-23"
+upstream_url = "https://padmavajra.net/2018/12/23/rajya-a-draft/"
 
 +++
+Source: [here](https://padmavajra.net/2018/12/23/rajya-a-draft/).
+
 
 
 > Notwithstanding the opinions of the author on the divinity of

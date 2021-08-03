@@ -1,7 +1,11 @@
 +++
 title = "Organ and Edwards on dinosaur genomes"
+date = "2007-03-09"
+upstream_url = "https://manasataramgini.wordpress.com/2007/03/09/organ-and-edwards-on-dinosaur-genomes/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/03/09/organ-and-edwards-on-dinosaur-genomes/).
+
 Scott Edwards has been doing some interesting research on amniote
 genomes for sometime- of the type I was long back very interested in,
 before moving on to ancient evolutionary events. He had earlier
@@ -62,3 +66,4 @@ not well-supported by the data at hand is that endothermy coupled with
 gigantism required genomes to compress to allow faster maturation. Again
 this could be an effect rather than cause. What ever the cause it needs
 more thought.
+

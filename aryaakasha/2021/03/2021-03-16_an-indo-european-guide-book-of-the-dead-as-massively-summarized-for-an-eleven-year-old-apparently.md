@@ -1,8 +1,11 @@
 +++
-title = "An Indo-European Guide-Book of the Dead – As Massively Summarized For An Eleven Year Old,xa0Apparently"
-date = "March 16, 2021"
+title = "An Indo-European Guide-Book of the Dead – As Massively Summarized For An Eleven Year Old, Apparently"
+date = "2021-03-16"
+upstream_url = "https://aryaakasha.com/2021/03/16/an-indo-european-guide-book-of-the-dead-as-massively-summarized-for-an-eleven-year-old-apparently/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/03/16/an-indo-european-guide-book-of-the-dead-as-massively-summarized-for-an-eleven-year-old-apparently/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/03/court-of-yamaraja.jpg?w=761)
 
 Over the weekend, I somehow wound up called upon to explain how

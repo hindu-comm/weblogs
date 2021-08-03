@@ -1,7 +1,13 @@
 +++
 title = "Early Angiosperm evolution"
+date = "2007-03-16"
+upstream_url = "https://manasataramgini.wordpress.com/2007/03/16/early-angiosperm-evolution/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/03/16/early-angiosperm-evolution/).
+
+
+
 [![](https://i0.wp.com/bp2.blogger.com/_ZhvcTTaaD_4/RfozNscE70I/AAAAAAAAAFQ/WC7toJQQHzc/s320/cabomba.jpg)](http://bp2.blogger.com/_ZhvcTTaaD_4/RfozNscE70I/AAAAAAAAAFQ/WC7toJQQHzc/s1600-h/cabomba.jpg)[![](https://i0.wp.com/bp2.blogger.com/_ZhvcTTaaD_4/RfozNscE71I/AAAAAAAAAFY/RHjALntImbQ/s320/Nymphaea.jpg)](http://bp2.blogger.com/_ZhvcTTaaD_4/RfozNscE71I/AAAAAAAAAFY/RHjALntImbQ/s1600-h/Nymphaea.jpg)
 
 [![](https://i0.wp.com/bp3.blogger.com/_ZhvcTTaaD_4/RfozN8cE72I/AAAAAAAAAFg/ltcPJ_kzGM8/s320/Trithuria.jpg)](http://bp3.blogger.com/_ZhvcTTaaD_4/RfozN8cE72I/AAAAAAAAAFg/ltcPJ_kzGM8/s1600-h/Trithuria.jpg)
@@ -54,3 +60,4 @@ the molecular developmental aspects of these angiosperm lineages at
 greater depth. In particular I would be interested in seeing the
 differences in expansions of the AP2, VP1, WRKY MYB, MADS bZIP and bHLH
 between these plants and the crown group angiosperms.
+

@@ -1,8 +1,11 @@
 +++
-title = "On Odin Brihaspati As Song-Smith – The Sung Seizing Of The Wealth Ofxa0Cows"
-date = "December 2, 2020"
+title = "On Odin Brihaspati As Song-Smith – The Sung Seizing Of The Wealth Of Cows"
+date = "2020-12-02"
+upstream_url = "https://aryaakasha.com/2020/12/02/on-odin-brihaspati-as-song-smith-the-sung-seizing-of-the-wealth-of-cows/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/12/02/on-odin-brihaspati-as-song-smith-the-sung-seizing-of-the-wealth-of-cows/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/12/satyaki-sarkar-img-0123.jpg?w=720)
 
 The Nordic textual corpus is a frustrating, glinting thing. So often we

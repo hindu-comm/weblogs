@@ -1,13 +1,17 @@
 +++
 title = "Quadrangular and circular shields in iconography"
+date = "2009-03-06"
+upstream_url = "https://manasataramgini.wordpress.com/2009/03/06/quadrangular-and-circular-shields-in-iconography/"
 
 +++
-[![combined\_devya](https://i1.wp.com/farm4.static.flickr.com/3386/3331859475_58e7200995_o.png)](http://www.flickr.com/photos/24766652@N05/3331859475/ "combined_devya by somasushma, on Flickr")
+Source: [here](https://manasataramgini.wordpress.com/2009/03/06/quadrangular-and-circular-shields-in-iconography/).
+
+[![combined_devya](https://i1.wp.com/farm4.static.flickr.com/3386/3331859475_58e7200995_o.png)](http://www.flickr.com/photos/24766652@N05/3331859475/ "combined_devya by somasushma, on Flickr")
 
 Pictures kindly provided by my friend VA are images from the Chola
 kingdom of the drAviDa country.  
 From top:  
-1\) mahiShamardinI(mahAlakShmI); 2) kaushikI(mahAsarasvatI); 3)
+1) mahiShamardinI(mahAlakShmI); 2) kaushikI(mahAsarasvatI); 3)
 mahiShamardinI(mahAlakShmI); 4) mahAkAlI. It should be noted that this
 is one of the few rare depictions of the deity mahAsarasvatI the killer
 of shuMbha and nishuMbha. In the mArkaNDeya purANa mahAsarasvatI is
@@ -26,3 +30,4 @@ shield. Generally, one could find high-quality art on the cracker boxes
 which were again typically produced by artists from the drAviDa country.
 But the lack of the shield suggests loss of familiarity with real combat
 using swords.
+

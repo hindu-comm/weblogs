@@ -1,7 +1,11 @@
 +++
 title = "kaumAra gaja graha"
+date = "2008-06-24"
+upstream_url = "https://manasataramgini.wordpress.com/2008/06/24/kaumara-gaja-graha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/06/24/kaumara-gaja-graha/).
+
 We observed a description of the the terrifying elephant graha of
 kArttikeya in the kAshyapa saMhita of the kaumAra tantra-s. The same
 graha and the underlying mythology are alluded to in the section 129 of
@@ -28,9 +32,10 @@ mantra prayoga on every pa\~nchamI to be released from the hit-list of
 duHsaha. A mantrin may deploy the mantra of the kaumAra gaja to torment
 his foes. He may also invoke duHsaha along with a circle of awful skanda
 mAtR^i-s in mahA-kumAra chakra vidhi. These mAtR^i-s are:  
-1\) vashyA 2) kula-kshaya-karI, 3) puNyajanI, 4) pauruShAdinI, 5)
+1) vashyA 2) kula-kshaya-karI, 3) puNyajanI, 4) pauruShAdinI, 5)
 saMdaMshI, 6) karkoTakI, 7) indravaDavA, and 8) vaDavAmukhI in the
 directions. The prayoga-s of indravaDavA and vaDavAmukhI can be used to
 counter bhrAtR^ivya-s.
 
-The mantra of duHsaha graha: duM hasti-grahaya huM phaT ||
+The mantra of duHsaha graha: duM hasti-grahaya huM phaT \|\|
+

@@ -1,7 +1,11 @@
 +++
 title = "Lavers versus vajrAchArya: was a unicorn really there?"
+date = "2013-02-26"
+upstream_url = "https://manasataramgini.wordpress.com/2013/02/26/lavers-versus-vajracharya-was-a-unicorn-really-there/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/02/26/lavers-versus-vajracharya-was-a-unicorn-really-there/).
+
 [![](https://lh6.googleusercontent.com/-m-Lkfi09_HI/UTOz4He2v4I/AAAAAAAACks/xroyJLEuBkc/s640/unicorns.jpg)](https://picasaweb.google.com/lh/photo/yOvPlTErQmFa1Zjsq82ImtMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
 Most students of Indian archeology and history are very familiar with an
@@ -107,7 +111,7 @@ R^ishya. These include one in the RV in the sUkta of devAtithi kANva
 (noticed by vajrAchArya) and one in the aindra nivid used in the soma
 offering to indra (unnoticed by him). The first goes thus:
 
-R^ishyo na tR^iShyann avapAnam A gahi pibA somaM vashAM anu | (RV
+R^ishyo na tR^iShyann avapAnam A gahi pibA somaM vashAM anu \| (RV
 8.4.10ab )  
 Come like a thirsty R^ishya to the water tank; drink soma as you please
 \[Footnote 1\].
@@ -118,7 +122,7 @@ domestic animals.
 
 Second goes thus:  
 asya made jaritar indra R^ishyAm iva pamphaNataH parvatAn prakupitAn
-aramNAt |  
+aramNAt \|  
 In its \[soma’s\] exhilaration O chanter indra set to rest the agitated
 mountains that were like bounding R^ishya-s.
 
@@ -152,9 +156,9 @@ vessel is rather unfounded: Just because (as he correctly argues) the
 horn of the R^ishya is called parIshAsa in the AV tradition it does not
 mean that the parIshAsa-s used in the pravargya ritual were made from
 that horn. It amounts to arguing that because the rhino is called
-khaDga, swords were made from the rhino’s horn\! In any case, as
-proposed by vajrAchArya, we do see philological support from the Vedic
-and post-Vedic Indo-Aryan tradition for the R^ishya being a one horned
+khaDga, swords were made from the rhino’s horn! In any case, as proposed
+by vajrAchArya, we do see philological support from the Vedic and
+post-Vedic Indo-Aryan tradition for the R^ishya being a one horned
 animal with features consistent with the unicorn of the SSVC seals and
 aspects of Ctesias’ Indian unicorn. Thus, we do feel we cannot dismiss
 the R^ishya and the SSVC unicorn being the same. The Vedic references,
@@ -170,7 +174,7 @@ trap in RV 10.039.8 as a R^ishyada points to the presence of traps that
 might have been used to hunt real R^ishya-s. Indeed, the hunting of a
 R^ishya by rAma and lakShmaNa is mentioned in the rAmAyaNa:  
 tau tatra hatvA chaturo mahAmR^igAn varAham R^ishyaM pR^ishataM
-mahArurum | 1.52.102ab  
+mahArurum \| 1.52.102ab  
 i.e. they hunted four great beasts – a boar, a R^iShya, pR^ishata (Axis
 axis) and a mahAruru (Rucervus duvaucelii). Given that memory of the
 R^ishya is there in the much later bauddha texts, pointed by
@@ -292,20 +296,20 @@ Footnote 2: This mantra is deployed in the great shAntika rite specified
 in the kaushika sUtra to counter kR^ityA-s in which several
 pratya\~Ngira sUkta-s are deployed followed by a final set of oblations
 with the 12 names of pratya\~NgirA. AV-S 5.14.3 reads:  
-\*R^ishyasyeva parIshAsaM parikR^itya pari tvachaH |  
-kR^ityAM kR^ityAkR^ite devA niShkam iva prati mu\~nchata ||
+\*R^ishyasyeva parIshAsaM parikR^itya pari tvachaH \|  
+kR^ityAM kR^ityAkR^ite devA niShkam iva prati mu\~nchata \|\|
 
 vajrAchArya translates this as:  
 O gods, chop off the spell like the single horn of the R^ishya around
-its skin and fasten the spell upon him, who prepares it, as (one
+its skin andfasten the spell upon him, who prepares it, as (one
 fastens) an ornament.  
 \*In our oral tradition and also Gujarat the first word is typically
 recited as R^ishya; however, chanters from the mahArATTa country recite
 it as rishya as printed by Satvalekar.
 
 Now AV-P 7.1.10 reads:  
-R^ishyasyeva parIshAsaM parimAya pari tvacaH |  
-durhArde cakShuShe kR^ityAM grIvAsu prati mu\~ncatu ||
+R^ishyasyeva parIshAsaM parimAya pari tvacaH \|  
+durhArde cakShuShe kR^ityAM grIvAsu prati mu\~ncatu \|\|
 
 Here we note that parikR^itya is replaced by parimAya, the kR^ityAkR^it
 (the abhichArika who casts a kR^ityA) by the durhArd chakShus (the
@@ -332,3 +336,4 @@ of kShetriya in a ritual described in the kaushika sUtra. John Marshall
 who excavated at Mohenjodaro notes that horns of at least four deer
 species were recovered with cuts and notches for removing small pieces
 probably used in comparable rituals or treatments.
+

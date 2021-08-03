@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "November 27, 2020"
+date = "2020-11-27"
+upstream_url = "https://vriitrahan.wordpress.com/2020/11/27/wolf-in-the-rigveda/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2020/11/27/wolf-in-the-rigveda/).
+
 The veda offers us a few clues on the status of the wolf in Vedic
 society. Unsurprisingly, pastoralists with large herds of cattle and
 reverence for the cow did not take kine-killers like the wolf kindly.

@@ -1,7 +1,11 @@
 +++
 title = "Neuregulins, serotonin transporter and creativity"
+date = "2009-10-08"
+upstream_url = "https://manasataramgini.wordpress.com/2009/10/08/neuregulins-serotonin-transporter-and-creativity/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/10/08/neuregulins-serotonin-transporter-and-creativity/).
+
 That the line between genius and madness can be thin one — this reality
 struck me hard when, as youth, I saw a mad Hindu mathematician on
 television. Some time later I got a chance to learn about the powerful
@@ -194,3 +198,4 @@ in the 5’UTR and 3’ UTR respectively and could hence affect the function
 of the gene via mRNA stability. These could be candidates for potential
 population differences in certain mental traits arising from differences
 in serotonin levels.
+

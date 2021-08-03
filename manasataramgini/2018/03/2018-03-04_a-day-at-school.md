@@ -1,7 +1,11 @@
 +++
 title = "A day at school"
+date = "2018-03-04"
+upstream_url = "https://manasataramgini.wordpress.com/2018/03/04/a-day-at-school/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2018/03/04/a-day-at-school/).
+
 It was the English class in school. The teacher, a swarthy man with
 somewhat liberal political leanings, strode into the class: “Today we
 shall be studying a poem by the white American poet Robert Frost, Fire
@@ -69,7 +73,7 @@ on Sundays by the black American scientist Floyd Mayweather.”
 Somakhya was folding an origami model for their classmate Bobon of dark
 grayish yellow complexion from an erstwhile tribal category, who was a
 connoisseur of his artwork. The teacher turned to him and said:
-“Somakhya\! This is not the craft class: pay attention\!”  
+“Somakhya! This is not the craft class: pay attention!”  
 Somakhya stood up and said: “Sir it is just my hands; my mind and ears
 are all into your lesson on Fire and Ice.”  
 The teacher: “Then tell me what you think of this poem?”  
@@ -159,7 +163,7 @@ spilled out of the room to head for lunch and take a break from the
 monotony of the classes, Lootika caught Somakhya’s eye and they
 exchanged a hand gesture. She shouted out to him: “We didn’t even get
 started with the aliens.” Somakhya: “May be that would have been less
-traumatic than my mention of ekarākṣasavāda\!”
+traumatic than my mention of ekarākṣasavāda!”
 
 Then they moved on with their respective groups. Somakhya headed to a
 secluded spot for lunch along with Vidrum and Sharvamanyu. Sharvamanyu
@@ -253,3 +257,4 @@ Especially on lines of why bacteria cause so many diseases but archaea
 hardly any. So at this stage we still seem to think this end, while
 possible, is certainly less likely than the fiery crash of an asteroid
 or a comet from space.”
+

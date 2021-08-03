@@ -1,7 +1,11 @@
 +++
 title = "shmashAnAbdhi"
+date = "2008-07-19"
+upstream_url = "https://manasataramgini.wordpress.com/2008/07/19/shmashanabdhi/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/07/19/shmashanabdhi/).
+
 [![](https://i2.wp.com/farm4.static.flickr.com/3154/2681760758_fe455fff47_o.jpg)](http://farm4.static.flickr.com/3154/2681760758_fe455fff47_o.jpg)
 
 We sought to experience the might of the great aghora, the god of the
@@ -42,3 +46,4 @@ ghorair mahA-vyAdhibhiH saMsmR^itya pAdAravinda-dvayaM te
 mahA-kAli kAlAgni-tejaHprabhe skanda-govinda-brahmendra-chandrArka-  
 puShpAyudhair mauli-mAlA-lasat-padma-ki\~njalkasat-pi\~njaraiH sevyase  
 sarva-vIrAmbike bhairavI bhairavas te sharaNyAgato .ahaM”
+

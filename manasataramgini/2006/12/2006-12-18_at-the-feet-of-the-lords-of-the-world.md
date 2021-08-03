@@ -1,7 +1,11 @@
 +++
 title = "At the feet of the lords of the world"
+date = "2006-12-18"
+upstream_url = "https://manasataramgini.wordpress.com/2006/12/18/at-the-feet-of-the-lords-of-the-world/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/12/18/at-the-feet-of-the-lords-of-the-world/).
+
 Even by counting ourselves out, it is clear that the synapsids dominate
 the current era. There is something subjective about this dominance
 thing, yet we seem to instinctively understand it. We may attempt
@@ -82,3 +86,4 @@ occupying many niches, the mammals were also correspondingly doing
 pretty well in the dinosaurian era. To their credit the dinosaurs had to
 do all this in the Cenozoic with just two legs, having already lost
 their hands to the over-specialization of flight.
+

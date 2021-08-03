@@ -1,8 +1,11 @@
 +++
-title = "Of Mrityunjaya and Modern Hinduism – The Deathless And Unceasing Glory Of The Three-Eyedxa0One"
-date = "February 29, 2020"
+title = "Of Mrityunjaya and Modern Hinduism – The Deathless And Unceasing Glory Of The Three-Eyed One"
+date = "2020-02-29"
+upstream_url = "https://aryaakasha.com/2020/02/29/of-mrityunjaya-and-modern-hinduism-the-deathless-and-unceasing-glory-of-the-three-eyed-one/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/02/29/of-mrityunjaya-and-modern-hinduism-the-deathless-and-unceasing-glory-of-the-three-eyed-one/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/02/87036244_209123753616129_6263972160675512320_o.jpg?w=870)
 
 ॐ त्र्य॑म्बकं यजामहे सु॒गन्धिं॑ पुष्टि॒वर्ध॑नम् ।  

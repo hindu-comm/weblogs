@@ -1,7 +1,11 @@
 +++
 title = "More on sanskrit grammarians"
+date = "2008-04-26"
+upstream_url = "https://manasataramgini.wordpress.com/2008/04/26/more-on-sanskrit-grammarians/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/04/26/more-on-sanskrit-grammarians/).
+
 The existence of aindra grammar which apparently declined in due course
 due to pANini’s efforts has been discussed extensively in the past by
 Burnell in his monograph on the topic. While things might have changed
@@ -29,7 +33,7 @@ tAranAtha in his history: He states that there was a brAhmaNa named
 saptavarman, who a contemporary of nAgArjuna and kAlidAsa \[a typical
 example of tAranAtha’s pseudo-history\]. He asked ShaNmukha to reveal
 the aindra grammar to him, and upon skanda merely uttering the first
-sutra of the grammar “siddhovarNasamAmnAyaH |” the rest of the grammar
+sutra of the grammar “siddhovarNasamAmnAyaH \|” the rest of the grammar
 of 25,000 verses was miraculously transmitted to him. He also mentions
 that a brAhmaNa named indradhruva obtained the same from indra. The
 enormous size mentioned by the Lama tAranAtha is also repeated by other
@@ -48,10 +52,10 @@ appears corrupt (at least in my copy) but is beyond doubt a brAhmaNa
 passage of vedic provenance (especially given that the majority of
 sAyaNa’s brAhmaNa citations are entirely verifiable): vAg vai
 parAchy-avyAkR^itA .avadat te devA indraM abruvann imam no vAcham
-vyAkurv iti | so .abravId varaM vR^iNe mahyaM chai .evai e.Sha vAyave
-cha saha gR^ihyAtA iti tasmAd aindravAyavaH saha pragR^ihyate | tAm
-indro madhyato .avakramya vyAkarot | tAsmAd iyaM vyAkR^itA vAg udyata
-iti |
+vyAkurv iti \| so .abravId varaM vR^iNe mahyaM chai .evai e.Sha vAyave
+cha saha gR^ihyAtA iti tasmAd aindravAyavaH saha pragR^ihyate \| tAm
+indro madhyato .avakramya vyAkarot \| tAsmAd iyaM vyAkR^itA vAg udyata
+iti \|
 
 A good candidate is the lost brAhmaNa section of the charaka saMhitA of
 the kR^iShNa yajurveda from which sAyaNa has made other citations. It
@@ -64,3 +68,4 @@ Indo-European model, which at least predates the split of
 Greek+Balto-Slavic+Indo-Iranian and might be related to the earlier
 Indo-European concept of the divine speech which survives in the Indic
 world in the form of saMskR^ita being deva-bhAShA.
+

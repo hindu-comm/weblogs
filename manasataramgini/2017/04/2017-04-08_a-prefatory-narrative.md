@@ -1,7 +1,11 @@
 +++
 title = "A prefatory narrative"
+date = "2017-04-08"
+upstream_url = "https://manasataramgini.wordpress.com/2017/04/08/a-prefatory-narrative/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2017/04/08/a-prefatory-narrative/).
+
 Jhilleeka and Prachetas were visiting Lootika and Somakhya. Prithika,
 the daughter of the latter two was much excited as she resembled and was
 to resemble her youngest aunt in more than one way – they seemed to have
@@ -34,7 +38,7 @@ Prachetas: “Thus, attacked by surprise by my future patnī I succumbed to
 the seizure by the vetāla. I took a bus in that state to seizure and
 went to what in those days was a little hamlet at the outskirts of
 Turushkarajanagara. There, I walked at the dead of night to the boundary
-of a cemetery. Despite being a just a hamlet there seemed to be a brisk
+of a cemetery. Despite being a just ahamlet there seemed to be a brisk
 flow of corpses which were being fed to Kravyāda. I wandering under the
 possession sneaked in through a hole in fence of the cemetery to enter
 the grounds. Evidently the vetāla was guiding me there for some reason.
@@ -64,15 +68,15 @@ observed him more closely and he looked strangely familiar giving me a
 fright for the first time. He then said: “I was a brāhmaṇa like you. I
 descended from the clan of a bhārgava or an aṅgirasa. I performed many
 vaidika rituals and drank soma. One day when I traveled to
-Turushakarajanagara to visit the \#$\*& institute. \[Prachetas:
-strangely that happened to be the institute next to where Jhilli and I
-worked\]. As I was talking to my host there suddenly a centrifuge spun
-out of control in the floor below us and it smashed through our floor
-and struck me. Thus, I expired. As I had no close relatives, my corpse
-was dumped by the cops after their investigation at the cremation ground
-for the general cremation which would take place at 4:00 AM. I glad you
-have heard my story. In my pocket lies a letter for a girl who lives in
-the Bhatahata sector the city. If you post it so that it might reach her
+Turushakarajanagara to visit the #$\*& institute. \[Prachetas: strangely
+that happened to be the institute next to where Jhilli and I worked\].
+As I was talking to my host there suddenly a centrifuge spun out of
+control in the floor below us and it smashed through our floor and
+struck me. Thus, I expired. As I had no close relatives, my corpse was
+dumped by the cops after their investigation at the cremation ground for
+the general cremation which would take place at 4:00 AM. I glad you have
+heard my story. In mypocket lies a letter for a girl who lives in the
+Bhatahata sector the city. If you post it so that it might reach her
 then good would come to you. But I tell you a death not different from
 mine could be yours and your wife’s too unless you become the master of
 tīkṣṇatuṇḍa. He then handed me the letter in his pocket and shrieking
@@ -97,8 +101,9 @@ so that you may help us cross the noose of Vaivasvata that the young
 brāhmaṇa in Turushkarajanagara could not.
 
 Somakhya: “By tīkṣṇatuṇḍa what is meant is the mantra-vidhi of
-Śarabheśāna that we shall we reveal to you. It is hard to master even
-by a good brāhmaṇa. Many have tried and failed but he who does so shall
-be saved like Mārkaṇdeya of the race of the Bhṛgu-s when confronted by
+Śarabheśāna that we shall we reveal to you. It is hard to master even by
+a good brāhmaṇa. Many have tried and failed but he who does so shall be
+saved like Mārkaṇdeya of the race of the Bhṛgu-s when confronted by
 Antaka at the dead of night when the powers of the Dānava-s are
 exalted.”
+

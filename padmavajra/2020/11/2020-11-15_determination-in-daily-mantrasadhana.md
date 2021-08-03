@@ -1,8 +1,11 @@
 +++
-title = "Determination in dailyxa0mantrasādhanā"
+title = "Determination in daily mantrasādhanā"
 date = "2020-11-15"
+upstream_url = "https://padmavajra.net/2020/11/15/determination-in-daily-mantrasadhana/"
 
 +++
+Source: [here](https://padmavajra.net/2020/11/15/determination-in-daily-mantrasadhana/).
+
 ihāsane śuṣyatu me śarīraṃ tvagasthimāṃsaṃ pralayaṃ ca yātu।  
 aprāpya bodhiṃ bahukalpadurlabhāṃ naivāsanāt kāyamataścaliṣyate॥
 

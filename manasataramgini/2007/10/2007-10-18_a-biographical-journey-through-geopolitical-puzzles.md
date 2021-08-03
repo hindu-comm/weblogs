@@ -1,7 +1,11 @@
 +++
 title = "A biographical journey through geopolitical puzzles"
+date = "2007-10-18"
+upstream_url = "https://manasataramgini.wordpress.com/2007/10/18/a-biographical-journey-through-geopolitical-puzzles/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/10/18/a-biographical-journey-through-geopolitical-puzzles/).
+
 We have said something along these lines before, but then each time
 fresh news is published we are ineluctably draw to repeat ourselves.
 When we were still a kid we used to yarn with one of our late pitAmaha-s
@@ -137,3 +141,4 @@ and US had already given it the F16 to use these nuclear bombs. Only in
 1988 did the Indian government finally decided go nuclear the whole way
 and under Narasimha Rao it was achieved. Again we had lost the
 initiative after Pokhran-I by allowing this delay.
+

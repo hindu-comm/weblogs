@@ -1,7 +1,11 @@
 +++
 title = "The recombination game"
+date = "2005-03-12"
+upstream_url = "https://manasataramgini.wordpress.com/2005/03/12/the-recombination-game/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/03/12/the-recombination-game/).
+
 There was always a spirit of competition between me and my father. Same
 was true of my brother. We felt internally satisfied when we did better
 than him in some areas of mental and physical ability. Eventually, in
@@ -22,3 +26,4 @@ dismay. I suddenly realized the importance of that yoga and how I would
 need to master to survive the next great tsunami in rasArNava. When the
 first great wave came the gods had borne us aid and we remained afloat
 under remarkable circumstances.
+

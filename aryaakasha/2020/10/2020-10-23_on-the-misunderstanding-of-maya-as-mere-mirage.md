@@ -1,8 +1,11 @@
 +++
-title = "On The Misunderstanding Of Maya As Merexa0Mirage"
-date = "October 23, 2020"
+title = "On The Misunderstanding Of Maya As Mere Mirage"
+date = "2020-10-23"
+upstream_url = "https://aryaakasha.com/2020/10/23/on-the-misunderstanding-of-maya-as-mere-mirage/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/10/23/on-the-misunderstanding-of-maya-as-mere-mirage/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/10/122490355_736599233619070_8629276954020910621_n.jpg?w=648)
 
 An associate earlier this week made a remark about the concept of Maya –

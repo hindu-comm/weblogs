@@ -1,8 +1,11 @@
 +++
-title = "Ahimsa And The Non-Counterpoint Of Contextually Mandatedxa0Violence"
-date = "December 13, 2019"
+title = "Ahimsa And The Non-Counterpoint Of Contextually Mandated Violence"
+date = "2019-12-13"
+upstream_url = "https://aryaakasha.com/2019/12/13/ahimsa-and-the-non-counterpoint-of-contextually-mandated-violence/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/12/13/ahimsa-and-the-non-counterpoint-of-contextually-mandated-violence/).
+
 ![](https://aryaakasha.files.wordpress.com/2019/12/1_42y2awina2eoy8bo-dxu1w.png?w=1024)
 
 \[Author’s note: This turned up from my writings upon this date in 2018

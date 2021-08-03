@@ -1,8 +1,11 @@
 +++
-title = "On The ‘Prime Deity’ Of Thexa0RigVeda"
-date = "July 16, 2021"
+title = "On The ‘Prime Deity’ Of The RigVeda"
+date = "2021-07-16"
+upstream_url = "https://aryaakasha.com/2021/07/16/on-the-prime-deity-of-the-rigveda/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/07/16/on-the-prime-deity-of-the-rigveda/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/07/twitter-poll-rv.png?w=615)
 
 This poll somebody ran on twitter is interesting. Now, I have my own

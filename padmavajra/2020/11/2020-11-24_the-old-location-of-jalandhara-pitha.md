@@ -1,8 +1,11 @@
 +++
-title = "The old location of Jālandharaxa0Pītha"
+title = "The old location of Jālandhara Pītha"
 date = "2020-11-24"
+upstream_url = "https://padmavajra.net/2020/11/24/the-old-location-of-jalandhara-pitha/"
 
 +++
+Source: [here](https://padmavajra.net/2020/11/24/the-old-location-of-jalandhara-pitha/).
+
 Amongst the 51 śākta pīthas,the [four most
 important](https://manasataramgini.wordpress.com/2008/03/04/the-pauranic-element-of-the-pashchimamnaya/)
 are Kāmarūpa,Oḍḍiyāna,Jālandhara and Pūrṇagiri. The medieval importance

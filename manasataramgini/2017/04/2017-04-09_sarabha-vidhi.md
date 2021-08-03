@@ -1,7 +1,11 @@
 +++
 title = "Śarabha vidhi"
+date = "2017-04-09"
+upstream_url = "https://manasataramgini.wordpress.com/2017/04/09/sarabha-vidhi/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2017/04/09/sarabha-vidhi/).
+
 The account of this rite continues from the [prefatory
 narrative](https://manasataramgini.wordpress.com/2017/04/08/a-prefatory-narrative/).
 
@@ -34,15 +38,15 @@ asyām āśiṣi svāhā ॥
 
 Make an offering in the aupāsana fire at the svāhā.
 
-Having visualized Śarabha as stated earlier you shall first perform the
+Having visualized Śarabha as stated earlieryou shall first perform the
 worship the five faces conjoining the Brahma-mantra-s thus:
 
-oṃ hauṃ tatpuruṣāya pakṣirājāya namaḥ । tatpuruṣaya vidmahe…||  
+oṃ hauṃ tatpuruṣāya pakṣirājāya namaḥ । tatpuruṣaya vidmahe…\|\|  
 oṃ hauṃ vāmadevāya gauryai gāndhāryai garuḍyai namaḥ । vāmadevāya namo…
-||”  
-oṃ hauṃ sadyojātāya śālvāya namaḥ । sadyojātaṃ prapadyāmi… ||  
-oṃ hauṃ aghorāya ākāśabhairavāya namaḥ । aghorebhyo’tha… ||  
-oṃ hauṃ īśānāya Śarabheśānāya namaḥ । īśānaḥ sarva-bhūtānām… ||
+\|\|”  
+oṃ hauṃ sadyojātāya śālvāya namaḥ । sadyojātaṃ prapadyāmi… \|\|  
+oṃ hauṃ aghorāya ākāśabhairavāya namaḥ । aghorebhyo’tha… \|\|  
+oṃ hauṃ īśānāya Śarabheśānāya namaḥ । īśānaḥ sarva-bhūtānām… \|\|
 
 Then you shall practice the japa of the mūlamantra:  
 vāsudeva ṛṣiḥ । triṣṭubh chandaḥ । kālāgnirudraḥ Śarabheśāno devatā ॥  
@@ -96,7 +100,7 @@ Then you worships the fierce Agni Vaḍavānala with his seven tongues
 which correspond to the heptagon of the Śarabha-yantra with this
 mantra:  
 oṃ raṃ hiraṇyāyai kanakāyai raktāyai kṛṣṇāyai suprabhāyai atiraktāyai
-bahurūpāyai namaḥ kṛṇuśva pājaḥ prasitiṃ…||  
+bahurūpāyai namaḥ kṛṇuśva pājaḥ prasitiṃ…\|\|  
 The terminal of the mantra is the rakṣohā-ṛk of Vāmadeva Gautama.
 
 Then you worship jvareśa or the jvarāstra of triadic form, which Rudra
@@ -113,8 +117,8 @@ Now Lootika shall impart to you the worship of the zoocephalous
 āvaraṇa-yoginī-s.”
 
 Lootika: “First in the four directions having completed the worship of
-Śarabheśāna and his aṅga-s you shall worship the following yoginī-s
-thus starting east in pradakṣiṇa order:  
+Śarabheśāna and his aṅga-s you shall worship the following yoginī-s thus
+starting east in pradakṣiṇa order:  
 oṃ gajānanāṃ pūjayāmi tarpayāmi namaḥ । elephant-headed.  
 oṃ siṃhamukhīṃ pūjayāmi tarpayāmi namaḥ । lion-headed  
 oṃ gṛdhrāsyāṃ pūjayāmi tarpayāmi namaḥ । vulture-headed  
@@ -171,3 +175,4 @@ tasmai prācāyā diśi antardeśād bhavam iṣvāsam anuṣṭhātāram akurva
 evaṃ veda॥
 
 Thus the rite is concluded.”
+

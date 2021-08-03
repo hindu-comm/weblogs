@@ -1,7 +1,11 @@
 +++
 title = "Wasps by the iron fort"
+date = "2004-07-15"
+upstream_url = "https://manasataramgini.wordpress.com/2004/07/15/wasps-by-the-iron-fort/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/07/15/wasps-by-the-iron-fort/).
+
 In the early 90s we decided to scale to the great cliff of Lohagad where
 the founder of the Maharatta nation had hidden his loot after his
 ferocious raid on Surat. The fort had remained largely impregnable till
@@ -43,3 +47,4 @@ right away. The it stuffs the spider in a nest and lays an egg on it.
 Its larva eats its away through the spider as it matures. The most
 common victims are the Thomisidae spiders. We rarely saw Salticid
 spiders being taken.
+

@@ -1,8 +1,11 @@
 +++
-title = "Rumours Of Their Death Have Been Greatlyxa0Exaggerated"
-date = "April 3, 2020"
+title = "Rumours Of Their Death Have Been Greatly Exaggerated"
+date = "2020-04-03"
+upstream_url = "https://aryaakasha.com/2020/04/03/rumours-of-their-death-have-been-greatly-exaggerated/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/04/03/rumours-of-their-death-have-been-greatly-exaggerated/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/04/hj-ha-20150824-002-02-finish-2-1.jpg?w=1024)
 
 \[Author’s Note: This brief piece was initially penned in 2019. It is

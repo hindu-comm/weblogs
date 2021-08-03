@@ -1,7 +1,11 @@
 +++
 title = "Erketu and the titanosaurs"
+date = "2006-03-21"
+upstream_url = "https://manasataramgini.wordpress.com/2006/03/21/erketu-and-the-titanosaurs/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/03/21/erketu-and-the-titanosaurs/).
+
 The titanosaurs were the last great radiation of the sauropods. Earlier
 it was thought that the era of the sauropods was gone with the Jurassic.
 But over the past two decades the finds of the titanosaurs, show that
@@ -26,3 +30,4 @@ like a hose-pipe might have allowed it to clean up plants over a wide
 area for certain, but how it managed with a neck nearly parallel to the
 horizontal and this long is not easily imagined- yet these animals lived
 and thrived at that.
+

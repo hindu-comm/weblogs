@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "December 18, 2020"
+date = "2020-12-18"
+upstream_url = "https://vriitrahan.wordpress.com/2020/12/18/indian-traders-in-zanzibar/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2020/12/18/indian-traders-in-zanzibar/).
+
 The following are some excerpts from Daṇḍin-s (7-8th century CE) work
 (daśakumaracarita) which contains some references to kāla-yavana and
 kāla-yavana-dvīpa, as in black-people and island of black people with

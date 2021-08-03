@@ -1,7 +1,11 @@
 +++
 title = "Sītā in the pyre"
+date = "2018-04-28"
+upstream_url = "https://manasataramgini.wordpress.com/2018/04/28/sita-in-the-pyre/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2018/04/28/sita-in-the-pyre/).
+
 It was quiet, early Saturday evening. Vidrum, Jukuta, Sharvamanyu and
 Lootika were hanging out on the parkway of Somakhya’s house. They had
 assembled there for some curricular preparation on differentiation.
@@ -15,7 +19,7 @@ smashing sixes off the Rainbow Republic bowlers. The real challenges
 will come with the rising balls of integration.”
 
 Lootika amplified the matter like an accompanying musician: “If you
-think you have mastered math, remember this tale in  Greek tradition: it
+think you have mastered math, remember this tale in Greek tradition: it
 was said that there was a mortal named Stentor who could yell with the
 voice of many men in unison. But once he attempted to contest with the
 god Hermes on hearing whose loud yell he died. Thus, when the
@@ -25,12 +29,11 @@ Somakhya: “In any case we will cover that tomorrow along with some
 vectors.”
 
 Vidrum flipping through the news and messages on his tablet chimed in:
-“I see some very disturbing news. A city man, Durjoy, has been
-arrested on the charges of trying to arrange aid to the socialist
-terrorists who have been trapped as part of the ongoing operation in
-Gondipura. Our classmate Manjukeshi who was supposedly taking
-preparatory lessons from him at that time has also been taken into
-custody\!”  
+“I see some very disturbing news. A city man, Durjoy, has been arrested
+on the charges of trying to arrange aid to the socialist terrorists who
+have been trapped as part of the ongoing operation in Gondipura. Our
+classmate Manjukeshi who was supposedly taking preparatory lessons from
+him at that time has also been taken into custody!”  
 Sharvamanyu: “Good job by the security forces.”  
 Jukuta checking out the news herself: “That is really sad. Was this
 Durjoy the senior student from the St. Stephens institution? He would
@@ -71,7 +74,7 @@ was either with her or with Lootika.”
 Lootika: “But Jukuta you have not stopped on playing on both sides,
 right? Let me remind you we are under no obligation to have you here for
 these lessons.”  
-Vidrum: “Calm\! Let us not get into one of those silly fights of you
+Vidrum: “Calm! Let us not get into one of those silly fights of you
 girls.”  
 Sharvamanyu: “I think it began with that article on the Rāmāyaṇa, which
 Manjukeshi authored for the college magazine, where she accused emperor
@@ -155,8 +158,8 @@ remember that the princess Sītā born of the furrow in earth is
 transparently the humanized form of the ancient goddess of agriculture,
 who was praised by my ancestor Vāmadeva Gautama in the mantra:
 
-arvācī subhage bhava sīte vandāmahe tvā |  
-yathā naḥ subhagāsasi yathā naḥ suphalāsasi || RV 4.57.6
+arvācī subhage bhava sīte vandāmahe tvā \|  
+yathā naḥ subhagāsasi yathā naḥ suphalāsasi \|\| RV 4.57.6
 
 Be auspicious O Sītā, come come close to us. We worship you,  
 such that you confer us a good share \[of things\] confer the good
@@ -180,7 +183,7 @@ Kosala-s, along with the Gotama-s, to the east of the Kuru-Pāñchala,
 becoming fit for habitation and the furrow of agriculture. Rāma who is
 the earthly manifestation of the great Indra then receives that Sītā,
 even as my ancestor Vāmadeva says in his incantation:  
-indraḥ sītāṃ ni gṛhṇātu |  
+indraḥ sītāṃ ni gṛhṇātu \|  
 May Indra set his hold on Sītā (set down the furrow).”  
 Somakhya: “More generally, it might be seen as representing the
 agricultural practice of burning leftover plant material after winter
@@ -215,14 +218,14 @@ subcontinent of the Jambudvipa what was meant by śūdra was some kind of
 enemy of the Ārya-s. Overtime they were defeated and absorbed into Ārya
 society. This leads to the second message – it is actually one
 reflecting this social accommodation and change. The text clearly
-states: bhaviṣyac chūdra-yonyāṃ hi tapaścaryā kalau yuge || It presents
-a doctrine that successively over the four yuga-s each varṇa acquired
-the capacity to do tapas. Now this Śambuka was doing it out of turn in
-the previous yuga and hence he was punished for breaking the rules.
-However, in a positive message it indicates that in our yuga the śūdra
-has this option and the incident merely refers to the tensions of a
-bygone era. Thus, in the typical futuristic format of the purāṇa-s, the
-text is presenting this change in social reality vis-a-vis the śūdra
+states: bhaviṣyac chūdra-yonyāṃ hi tapaścaryā kalau yuge \|\| It
+presents a doctrine that successively over the four yuga-s each varṇa
+acquired the capacity to do tapas. Now this Śambuka was doing it out of
+turn in the previous yuga and hence he was punished for breaking the
+rules. However, in a positive message it indicates that in our yuga the
+śūdra has this option and the incident merely refers to the tensions of
+a bygone era. Thus, in the typical futuristic format of the purāṇa-s,
+the text is presenting this change in social reality vis-a-vis the śūdra
 against the background of the previous antagonism. Third, it delivers
 the message of conservatism for social change. Rapid social change by
 accommodation of those from without the fold presents dangers. Such
@@ -241,5 +244,6 @@ Sharvamanyu: “And now Jukuta I hope you don’t bring up the issues of
 animal rights in the incident of the killing of Vālin.”  
 Jukuta: “Who is Vālin?”  
 Lootika: “The next time we assemble at my house I’ll gift you a
-bāla-Rāmāyaṇa. I really think you need to be reading it more than any
-of this curricular stuff.”
+bāla-Rāmāyaṇa. I really think you need to be reading it more than any of
+this curricular stuff.”
+

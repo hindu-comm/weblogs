@@ -1,8 +1,11 @@
 +++
-title = "GHOST DIVISION for Ganesha Chaturthi – Anxa0Extract"
-date = "August 22, 2020"
+title = "GHOST DIVISION for Ganesha Chaturthi – An Extract"
+date = "2020-08-22"
+upstream_url = "https://aryaakasha.com/2020/08/22/ghost-division-for-ganesha-chaturthi-an-extract/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/08/22/ghost-division-for-ganesha-chaturthi-an-extract/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/08/59343093_372507923361538_1758217816932089856_n.jpg?w=405)
 
   

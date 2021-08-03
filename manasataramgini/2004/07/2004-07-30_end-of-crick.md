@@ -1,7 +1,11 @@
 +++
 title = "End of Crick"
+date = "2004-07-30"
+upstream_url = "https://manasataramgini.wordpress.com/2004/07/30/end-of-crick/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/07/30/end-of-crick/).
+
 One of the men who solved the crystal structure of DNA is dead. Francis
 Crick was a great scientist- man full of great ideas. His partner James
 Watson was more of gas and show. Amongst Crick’s other great
@@ -27,3 +31,4 @@ spawned life. If it were the former it would be most remarkable for we
 may share a kinship with life elsewhere in the universe. But it seem
 rather inconcievable to the naieve mind as to how life might have
 survived such cosmic journeys.
+

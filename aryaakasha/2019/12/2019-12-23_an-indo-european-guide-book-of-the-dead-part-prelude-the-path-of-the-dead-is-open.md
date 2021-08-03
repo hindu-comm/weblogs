@@ -1,8 +1,11 @@
 +++
-title = "AN INDO-EUROPEAN GUIDE-BOOK OF THE DEAD – Part Prelude: The Path Of The Dead Isxa0Open"
-date = "December 23, 2019"
+title = "AN INDO-EUROPEAN GUIDE-BOOK OF THE DEAD – Part Prelude: The Path Of The Dead Is Open"
+date = "2019-12-23"
+upstream_url = "https://aryaakasha.com/2019/12/23/an-indo-european-guide-book-of-the-dead-part-prelude-the-path-of-the-dead-is-open/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/12/23/an-indo-european-guide-book-of-the-dead-part-prelude-the-path-of-the-dead-is-open/).
+
 ![](https://aryaakasha.files.wordpress.com/2019/12/80640185_10162715195820574_4012960421949472768_o.jpg?w=1024)
 
 RV X 14 – Yama \[Griffith Translation\]  

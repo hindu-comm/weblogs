@@ -1,7 +1,11 @@
 +++
 title = "rudra- his agents"
+date = "2004-05-19"
+upstream_url = "https://manasataramgini.wordpress.com/2004/05/19/rudra-his-agents/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/05/19/rudra-his-agents/).
+
 **vIrabhadra**: He emerged from a fragment of the matted locks of rudra
 for the killing of prajApati dakSha. He wrought havoc in the midsts of
 the deva armies and destroyed the demons created by bhR^igu before going
@@ -59,4 +63,5 @@ back to shiva. Thereafter, when vIrabhadra fell unconscious struck by he
 missile of sha\~NkachUDa she took over the command of the gaNa armies
 and marched against the asuras. She decimated the asura army and in a
 fierce battle with sha\~NkachUDa struck him down with the mAheshvara
-missile.
+missile.  
+

@@ -1,7 +1,11 @@
 +++
 title = "Rules for ritual eligibility"
+date = "2004-12-11"
+upstream_url = "https://manasataramgini.wordpress.com/2004/12/11/rules-for-ritual-eligibility/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/12/11/rules-for-ritual-eligibility/).
+
 There is considerable debate about who is eligible for vedic rites. The
 shrauta sUtras, which are the authorities on the topic are quite clear
 about the matter, barring a few debatable points. kAtyAyana expounds
@@ -95,3 +99,4 @@ Apastamba 24.1.21: brAhmaNAnAM ArtvijyaM
 The R^itviks duty is that of the brahmins.
 
 However other sutras do not have any prohibitory rules.
+

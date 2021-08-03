@@ -1,8 +1,11 @@
 +++
-title = "A rambling note on the origins of the ideology ofxa0karmayoga"
-date = "2020-03-09"
+title = "A rambling note on the origins of the ideology of karmayoga"
+date = "2020-09-03"
+upstream_url = "https://padmavajra.net/2020/03/09/a-rambling-note-on-the-origins-of-the-ideology-of-karmayoga/"
 
 +++
+Source: [here](https://padmavajra.net/2020/03/09/a-rambling-note-on-the-origins-of-the-ideology-of-karmayoga/).
+
 Karmayoga is a much abused concept these days,nowadays people think that
 it is doing whatever job one’s bosses or political superiors assign to
 them perfectly and chores)pleasingly(or even daily. Or sometimes school

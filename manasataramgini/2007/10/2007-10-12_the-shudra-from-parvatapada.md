@@ -1,7 +1,11 @@
 +++
 title = "The shUdra from parvatapAda"
+date = "2007-10-12"
+upstream_url = "https://manasataramgini.wordpress.com/2007/10/12/the-shudra-from-parvatapada/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/10/12/the-shudra-from-parvatapada/).
+
 In the distant past we had little knowledge of the future that awaited
 us. We were surrounded by fierce warriors contending for fame, like
 dIrghadanta hrasvaroman, brindAputra, taskaraputra of evil nature,
@@ -90,3 +94,4 @@ saw streaming into the room. He then awoke and stumbled along tormented
 by the darts of The deva, like Apollo-shoot-afar showering his arrows on
 the Niobids. Thus wandering he arrived at the desk of the shUdra whose
 totem was the khadira tree and asked him to save.
+

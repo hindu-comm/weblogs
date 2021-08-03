@@ -1,7 +1,11 @@
 +++
 title = "Strange memories of German poems"
+date = "2008-07-23"
+upstream_url = "https://manasataramgini.wordpress.com/2008/07/23/strange-memories-of-german-poems/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/07/23/strange-memories-of-german-poems/).
+
 R was pretty excited at having procured the kapphiNa-abhyudaya for only
 $5 and stated her plan to work through it over the next several months
 as a part of her program to stave of mental aging and keep her
@@ -29,3 +33,4 @@ reasons, were enormously impressed by Heinrich Heine, in particular by
 “Die Grenadiere”. For some reason “Babylonische Sorgen” which we found
 in pitAshrI’s German text book was also hovering in our head. It has a
 weird reference to vinAyaka: “Wie Gott Ganesa in Hindostan…”
+

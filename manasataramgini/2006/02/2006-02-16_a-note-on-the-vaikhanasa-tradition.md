@@ -1,7 +1,11 @@
 +++
 title = "A note on the vaikhAnasa tradition"
+date = "2006-02-16"
+upstream_url = "https://manasataramgini.wordpress.com/2006/02/16/a-note-on-the-vaikhanasa-tradition/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/02/16/a-note-on-the-vaikhanasa-tradition/).
+
 The vaikhAnasas appear to represent an archaic branch of vaiShNavas who
 are distinct from the more popular and numerous pA\~ncharAtrins. The
 vaikhAnasas however were and are still influential in few south Indian
@@ -85,3 +89,4 @@ AhavanIya. trivikrama and bhArgava are installed with oblations in the
 anvAhArya fire. For rAmachandra and balabhadra the dakShiNagni is used,
 while for devakIputra and kalkI the paunDarIka fire is used. For garuDa
 and viShvaksena the AhavanIya is used.
+

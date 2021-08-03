@@ -1,32 +1,36 @@
 +++
 title = "The monkey-eating eagles"
+date = "2006-09-10"
+upstream_url = "https://manasataramgini.wordpress.com/2006/09/10/the-monkey-eating-eagles/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/09/10/the-monkey-eating-eagles/).
+
 From when I was a kid one part of the rAmAyaNa that thrilled me was the
 battle between the eagle-king jaTAyu and rAvaNa in the daNDaka forest
 
-tat cha agni sadR^isham dIptam rAvaNasya sharAvaram |  
-pakShAbhyAm cha mahAtejA vyadhunot patageshvaraH || 3-51-14  
+tat cha agni sadR^isham dIptam rAvaNasya sharAvaram \|  
+pakShAbhyAm cha mahAtejA vyadhunot patageshvaraH \|\| 3-51-14  
 That lord of the eagles blew off the flame-like armor of Ravana with
 both of his wings.
 
-kA\~nchana uraH ChadAn divyAn pishAcha vadanAn kharAn |  
-tAn cha asya java saMpannAn jaghAna samare balI || 3-51-15  
+kA\~nchana uraH ChadAn divyAn pishAcha vadanAn kharAn \|  
+tAn cha asya java saMpannAn jaghAna samare balI \|\| 3-51-15  
 The eagle also cut down the the pishAcha-faced mules yoked to the car of
 Ravana which were covered in glowing armor.
 
-saMpannam kAmagam pAvaka archiSham |  
-maNi sopAna chitra a\~Ngam babha\~nja cha mahAratham || 3-51-16  
+saMpannam kAmagam pAvaka archiSham \|  
+maNi sopAna chitra a\~Ngam babha\~nja cha mahAratham \|\| 3-51-16  
 Then the eagle shattered that great chariot decorated with gems glowing
 like the sacrificial fire with all its parts.
 
-pUrNa chandra pratIkAsham Chatram cha vyajanaiH saha |  
-pAtayAmAsa vegena grAhibhI rAkShasaiH saha || 3-51-17  
+pUrNa chandra pratIkAsham Chatram cha vyajanaiH saha \|  
+pAtayAmAsa vegena grAhibhI rAkShasaiH saha \|\| 3-51-17  
 The eagle swiftly smashed the parasol with decorations glowing like a
 full moon, and the fans together with the demons operating them.
 
-sAratheH cha asya vegena tuNDena cha mahat shiraH |  
-punaH vyapAharat shrImAn pakShirAjo mahAbalaH || 3-51-18  
+sAratheH cha asya vegena tuNDena cha mahat shiraH \|  
+punaH vyapAharat shrImAn pakShirAjo mahAbalaH \|\| 3-51-18  
 Again mighty and regal king of the birds tore off the big head of the
 charioteer of rAvaNa with his beak.
 
@@ -104,3 +108,4 @@ However, strangely in India, the land of garuDa and jaTAyU, where there
 is an abundance of monkeys in the tropical forests we encounter no
 monkey-eating eagles. Why this is so is a mystery. May be we need to
 investigate if there were at least fossil forms.
+

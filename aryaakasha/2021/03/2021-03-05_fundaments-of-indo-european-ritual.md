@@ -1,8 +1,11 @@
 +++
-title = "Fundaments Of Indo-Europeanxa0Ritual"
-date = "March 5, 2021"
+title = "Fundaments Of Indo-European Ritual"
+date = "2021-03-05"
+upstream_url = "https://aryaakasha.com/2021/03/05/fundaments-of-indo-european-ritual/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/03/05/fundaments-of-indo-european-ritual/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/03/saraswati-puja.jpg?w=640)
 
 The following is a basic run-through of the fundaments of an

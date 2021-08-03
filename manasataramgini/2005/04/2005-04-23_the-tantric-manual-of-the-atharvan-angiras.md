@@ -1,7 +1,11 @@
 +++
 title = "The tantric manual of the atharvan-a~Ngiras"
+date = "2005-04-23"
+upstream_url = "https://manasataramgini.wordpress.com/2005/04/23/the-tantric-manual-of-the-atharvan-angiras/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/04/23/the-tantric-manual-of-the-atharvan-angiras/).
+
 A famed archaic tantric manual of the atharvans is glorious kubjikA
 upaniShad. Its material is remarkable and worthy of detailed discussion
 at some point. It was founded by the bhArgavas, who are supposed to have
@@ -33,3 +37,4 @@ upAsana of dhUmAvatI that can hardly be overcome is mentioned in khANDa
 18. In the 22nd is that exalted rite of shrI pratya\~NgirA-atharvaNa
 bhadrakAlI-rudrakubjikA devI that is the highest of all prayogas of the
 great leonine goddess.
+

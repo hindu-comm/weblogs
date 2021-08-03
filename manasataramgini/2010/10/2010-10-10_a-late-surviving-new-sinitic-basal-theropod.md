@@ -1,7 +1,11 @@
 +++
 title = "A late-surviving new Sinitic basal theropod"
+date = "2010-10-10"
+upstream_url = "https://manasataramgini.wordpress.com/2010/10/10/a-late-surviving-new-sinitic-basal-theropod/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/10/10/a-late-surviving-new-sinitic-basal-theropod/).
+
 We must state upfront that the below is based on a news report and not a
 published scientific paper. Hence, the discussion here is necessarily
 tentative. Of course one might question the wisdom of discussing these
@@ -43,7 +47,7 @@ sauropodomorphs, Panphagia. Thus we have a dinosaur that promises to
 further fill in that gap at the base of the theropod tree, just like the
 other recent find Tawa. But what makes it rather more remarkable is the
 fact that it is from the lower Jurassic, whereas the other basal forms
-to which it is comparable are all from the Triassic\! This suggests that
+to which it is comparable are all from the Triassic! This suggests that
 the basal dinosaurian architectures survived considerable later than
 previously believed.
 
@@ -161,3 +165,4 @@ The lack of complete fossils of this lineage makes it unclear as to how
 close they were to the ancestral state of the dinosaurs. Thus, despite
 the recent advances in the dinosauromorph relationships many issues
 remain rather unclear.
+

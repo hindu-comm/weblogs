@@ -1,7 +1,11 @@
 +++
 title = "The pAshupata-brahmopaniShat (pAshupata brahma [brAhmaNo] upaniShad; PBU)"
+date = "2008-06-17"
+upstream_url = "https://manasataramgini.wordpress.com/2008/06/17/the-pashupata-brahmopanishat-pashupata-brahma-brahmano-upanishad-pbu/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/06/17/the-pashupata-brahmopanishat-pashupata-brahma-brahmano-upanishad-pbu/).
+
 The pAshupata-brahmopaniShat (pAshupata brahma \[brAhmaNo\] upaniShad;
 PBU)  
 The PBU (known as pAshupata-brahmopaniShat or pAshupata
@@ -21,7 +25,7 @@ with the lineage of shaiva-s known as kApAlika-s? 4) Are the salient
 features of the yoga doctrine related to any other well-characterized
 yoga doctrines?
 
-\-Basic structure and possible markers of relative age  
+-Basic structure and possible markers of relative age  
 The text has two distinctive parts — the pUrva kANDa comprised of 32
 verses whereas the uttara kANDa of 46 verses. On account of the
 distinctness of the contents and the language of the two parts, they
@@ -55,7 +59,7 @@ The first part ends with a “sa evaM veda”. The uttara-kANDa also aligns
 itself closer to classical vedAnta. This part hence appears to be a
 later accretion.
 
-\-The name and relationship to the atharva-veda.  
+-The name and relationship to the atharva-veda.  
 Given the brAhmaNa-like structure of the pUrva-kANDa and its tendency to
 use shrauta ritual models it is possible that name brahma or brAhmaNa in
 its name is an allusion to it being a brAhmaNa text \[an imitation of a
@@ -81,7 +85,7 @@ which are linked to the early pAshupata tradition. Thus, both the
 template for the PBU and its pAshupata connection might be drawn from
 the larger late AV tradition.
 
-\-yoga or shaiva upaniShad and connections with the “vedic” pAshupata
+-yoga or shaiva upaniShad and connections with the “vedic” pAshupata
 tradition  
 The classification of the PBU as a yoga upaniShad is reasonable because
 the primary focus of the upaniShad is the prescription of a specialized
@@ -94,25 +98,25 @@ haMsa and rudra appears to be a persistent one – it is alluded to in
 some of the other yoga upaniShad-s such as the haMsopaniShad and the
 brahmavidyopaniShad that cover related topics pertaining to haMsa. For
 example, the brahmavidyopaniShad states:  
-“haMsa eva paraM vAkyaM haMsa eva tu vaidikam |  
-haMsa eva paro rudro haMsa eva parAtparam || BVU 61 ||”  
+“haMsa eva paraM vAkyaM haMsa eva tu vaidikam \|  
+haMsa eva paro rudro haMsa eva parAtparam \|\| BVU 61 \|\|”  
 and  
-“sarvadevasya madhyastho haMsa eva maheshvaraH | BVU 61a”  
+“sarvadevasya madhyastho haMsa eva maheshvaraH \| BVU 61a”  
 The haMsopaniShad is presented as the knowledge emerging from a
 conversation of shiva (pinAkin) and pArvati (HU 2). In the dhyAna of
 haMsa too explicitly connects it to the form of rudra:  
 agnIShomau pakShAv-oMkAraH shira ukAro bindus-tri-NetraM mukhaM  
 rudro rudrANI charaNau dvividhaM kaNThataH kuryAd ity-unmanAH
-ajapopasaMhAra ity-abhidhIyate || evaM haMsa-vashAnmano vichAryate || HU
-14-15 ||  
+ajapopasaMhAra ity-abhidhIyate \|\| evaM haMsa-vashAnmano vichAryate
+\|\| HU 14-15 \|\|  
 \[Here upaniShad brahmyogin in his gloss states that interpretation is
 “face is rudra and rudrANI and ga\~NgA (not in the text) are the two
-feet (\!)”. It is more likely that rudra and rudrANI are the two feet
-and the three eyed face is formed by the ukAra and bindu of the praNava.
-In any case the haMsa is conceived in the form of the three-eyed
-shiva\]. In the final verse of the hamsopaniShad the Atman(=brahman) is
-again described as sadAshivaH shaktyAtmA, which the brahmayogin
-interprets as the deity sadAshiva.
+feet (!)”. It is more likely that rudra and rudrANI are the two feet and
+the three eyed face is formed by the ukAra and bindu of the praNava. In
+any case the haMsa is conceived in the form of the three-eyed shiva\].
+In the final verse of the hamsopaniShad the Atman(=brahman) is again
+described as sadAshivaH shaktyAtmA, which the brahmayogin interprets as
+the deity sadAshiva.
 
 However, it is amply clear that the brahmavidyopaniShad are
 hamsopaniShad much later than the PBU. They already show distinct
@@ -130,7 +134,7 @@ This would put it in the general milieu of the non-mantra-mArga
 shaiva-s, i.e. the pAshupata-s, who showed a strong affinity to yoga,
 and along with their mantra-mArga saiddhAntika successors tended to
 conform closely to the vedic norms (something seen across the 3 steps of
-pAshupata development: early pAshupata-s\>lAkulIsha-s\>kAlAmukhas).
+pAshupata development: early pAshupata-s>lAkulIsha-s>kAlAmukhas).
 However, if we take the surviving texts of these classical pAshupata-s
 we see no such close adherence to sacrificial terminology as in the PBU,
 despite closely conforming to the veda (in fact, such divergence might
@@ -176,7 +180,7 @@ actually represent an early tradition amongst the vedic
 ritual-performing pAshupata-s from who the kApAlikas and perhaps other
 “shrauta” pAshupata-s emerged.
 
-\-yoga of the PBU  
+-yoga of the PBU  
 The general ideas of the PBU appear to be developments of those found in
 earlier genuinely vedic upaniShad-s. Several of these ideas also
 continue to exist in much later yoga upaniShad-s. Firstly, brahmA’s form
@@ -231,3 +235,4 @@ SSV was close enough to the period when the kApAlika sect was still
 alive to actually record its traditions.
 
 continued…
+

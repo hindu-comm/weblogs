@@ -1,8 +1,11 @@
 +++
-title = "The Glorious Victory Of Terrifying Black Time Death – OF BHAIRAVA AND BALANCE, Vedic, Eddic, and Homeric perspectives upon Lore and Order [Partxa04A]"
-date = "December 10, 2019"
+title = "The Glorious Victory Of Terrifying Black Time Death – OF BHAIRAVA AND BALANCE, Vedic, Eddic, and Homeric perspectives upon Lore and Order [Part 4A]"
+date = "2019-12-10"
+upstream_url = "https://aryaakasha.com/2019/12/10/the-glorious-victory-of-terrifying-black-time-death-of-bhairava-and-balance-vedic-eddic-and-homeric-perspectives-upon-lore-and-order-part-4a/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/12/10/the-glorious-victory-of-terrifying-black-time-death-of-bhairava-and-balance-vedic-eddic-and-homeric-perspectives-upon-lore-and-order-part-4a/).
+
 ![](https://aryaakasha.files.wordpress.com/2019/12/78594154_10162661422530574_7035519437188890624_n.jpg?w=479)
 
 Now, despite the fact that this piece is, in both inspiration and in

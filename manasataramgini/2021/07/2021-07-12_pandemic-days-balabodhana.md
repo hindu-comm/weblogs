@@ -1,8 +1,11 @@
 +++
 title = "Pandemic days: bālabodhana"
 date = "2021-07-12"
+upstream_url = "https://manasataramgini.wordpress.com/2021/07/12/pandemic-days-balabodhana/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2021/07/12/pandemic-days-balabodhana/).
+
 As the pandemic grinds to a close or at least to a pause in some parts
 of the world, there is a certain fear from new mutants threaten that
 threaten break current the status quo. The strain that arose in the deś
@@ -140,8 +143,7 @@ genome without a mutation only 3/4th of the times. The higher fidelity
 of replication of the coronavirus is a consequence of its distinctive
 proofreading 3′-5′ exoribonuclease, which the HIV-1 reverse
 transcriptase lacks. This increased fidelity is keeping with its ![3.19
-\\times
-](https://s0.wp.com/latex.php?latex=3.19+%5Ctimes+&bg=ffffff&fg=333333&s=0&c=20201002)latex
+\\times](https://s0.wp.com/latex.php?latex=3.19+%5Ctimes&bg=ffffff&fg=333333&s=0&c=20201002)
 larger genome, coding for several more proteins than HIV-1.
 
 Conversely, consider the probability that a specific point mutant arises

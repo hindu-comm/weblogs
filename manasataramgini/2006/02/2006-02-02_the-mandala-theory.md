@@ -1,7 +1,11 @@
 +++
 title = "The maNDala theory"
+date = "2006-02-02"
+upstream_url = "https://manasataramgini.wordpress.com/2006/02/02/the-mandala-theory/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/02/02/the-mandala-theory/).
+
 The brAhmaNa of old had laid out the intricacies of artha; viShNusharman
 explained that for dullards like us through the mouth of the jackal. And
 then daNDin, that scaler of great literary pinnacles, had parodied the
@@ -28,3 +32,4 @@ there is a class of women similar to enemies who may be termed
 parasites. They suck males, just like spiders suck their mates.
 Friendship between a male and female is in reality different from that
 between two males. Many people find it difficult to accept this fact.
+

@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "June 20, 2021"
+date = "2021-06-20"
+upstream_url = "https://vriitrahan.wordpress.com/2021/06/20/i-am-darius-an-aryan/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2021/06/20/i-am-darius-an-aryan/).
+
 **Old Persian:** baga vazraka auramazdā, hya imām būmim adā, hya avam
 asmānam adā, hya martiyam adā, hya šiyātim adā martiyahyā, hya
 dārayavaum xšāyaθiyam akunauš, aivam parūvnām xšāyaθiyam, aivam parūvnām

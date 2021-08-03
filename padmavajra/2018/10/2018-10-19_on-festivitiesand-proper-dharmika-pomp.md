@@ -1,8 +1,11 @@
 +++
-title = "On festivities,and proper dhārmikaxa0pomp"
+title = "On festivities,and proper dhārmika pomp"
 date = "2018-10-19"
+upstream_url = "https://padmavajra.net/2018/10/19/on-festivitiesand-proper-dharmika-pomp/"
 
 +++
+Source: [here](https://padmavajra.net/2018/10/19/on-festivitiesand-proper-dharmika-pomp/).
+
 > Just what is essential (tai/t’i) for a land and people to be a nation
 > (kuni)? Without four limbs, a man is not a man. Similarly, a nation
 > also possesses some essence \[or requisite and defining entity that

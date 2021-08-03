@@ -1,8 +1,11 @@
 +++
-title = "THE WAGES OF SIN – NEMESIS Coin from the reign of Marcus Aurelius – Arte-Factsxa0#8"
-date = "September 13, 2020"
+title = "THE WAGES OF SIN – NEMESIS Coin from the reign of Marcus Aurelius – Arte-Facts #8"
+date = "2020-09-13"
+upstream_url = "https://aryaakasha.com/2020/09/13/the-wages-of-sin-nemesis-coin-from-the-reign-of-marcus-aurelius-arte-facts-8/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/09/13/the-wages-of-sin-nemesis-coin-from-the-reign-of-marcus-aurelius-arte-facts-8/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/09/119284511_706668173278843_7617694385755790913_n.png?w=564)
 
 Every so often, I see a coin of the Ancient World – and something about

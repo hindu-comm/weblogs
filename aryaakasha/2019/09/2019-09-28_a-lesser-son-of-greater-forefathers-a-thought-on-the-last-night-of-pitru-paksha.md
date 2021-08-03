@@ -1,8 +1,11 @@
 +++
-title = "A Lesser Son Of Greater ForeFathers – A Thought On The Last Night Of Pitruxa0Paksha"
-date = "September 28, 2019"
+title = "A Lesser Son Of Greater ForeFathers – A Thought On The Last Night Of Pitru Paksha"
+date = "2019-09-28"
+upstream_url = "https://aryaakasha.com/2019/09/28/a-lesser-son-of-greater-forefathers-a-thought-on-the-last-night-of-pitru-paksha/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/09/28/a-lesser-son-of-greater-forefathers-a-thought-on-the-last-night-of-pitru-paksha/).
+
 ![71513616_10162322107400574_1895582222656733184_n](https://aryaakasha.files.wordpress.com/2019/09/71513616_10162322107400574_1895582222656733184_n.jpg?w=676)
 
 “To be Indo-European, I think, means to be acutely conscious that one is

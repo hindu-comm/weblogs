@@ -1,7 +1,11 @@
 +++
 title = "Remembering Raghunathachari"
+date = "2015-06-02"
+upstream_url = "https://manasataramgini.wordpress.com/2015/06/02/remembering-raghunathachari/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/06/02/remembering-raghunathachari/).
+
 We do not intend to recount the biography of Chintamani Raghunathachari
 as it is publicly available to anyone interested in the matter. But our
 intention is simply to talk a little about his life and times. He lived
@@ -40,10 +44,10 @@ Sundaresha Shrautin from the Dramiḍa country. Together these points and
 others (below) indicate that he was rather a śrīvaiṣṇava brāhmaṇa from
 the Dramiḍa country. The Indian astronomer SB Dikshit accuses him of
 being poor in Saṃskṛta – this is again unclear for the errors in his
-Saṃskṛta citations in a Kannada work on the transit of Venus might
-have emerged as part of reproduction for the primitive lithographic
-process used to produce it – there is even an error in the mathematics
-and no one has accused him of bad mathematics yet. While coming from a
+Saṃskṛta citations in a Kannada work on the transit of Venus might have
+emerged as part of reproduction for the primitive lithographic process
+used to produce it – there is even an error in the mathematics and no
+one has accused him of bad mathematics yet. While coming from a
 traditional astronomer family he sought to do modern astronomy and was
 an autodidact in this regard. He was reduced to supporting himself as a
 coolie for the Sāhibs but at age of 18 he was appointed to the British
@@ -120,8 +124,8 @@ in school could not locate Jupiter or Venus in the night sky leave alone
 tell them apart. Most in my class till we left school had never seen
 Mercury. The ignorance of astronomy went hand in hand with the lack of
 instruction in it at school – a testimony of the modern collective
-Hindu’s tendency to limit himself to the narrow confines of that part
-of this textbook which might appear in his final exams.
+Hindu’s tendency to limit himself to the narrow confines of that part of
+this textbook which might appear in his final exams.
 
 But above all why we think RA was unique and particularly important was
 because he was the first modern Hindu to realize the importance of
@@ -172,3 +176,4 @@ failure. The Hindus need to look at this and understand it very closely
 for herein lies the deep rooted bases for the failure of Hindus as a
 modern nation. The consequences of this failure are likely to be far
 reaching and perhaps even fatal for the Hindus.
+

@@ -1,7 +1,11 @@
 +++
 title = "The heart of vArAhI"
+date = "2005-05-02"
+upstream_url = "https://manasataramgini.wordpress.com/2005/05/02/the-heart-of-varahi/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/05/02/the-heart-of-varahi/).
+
 sAmantadeva had entered the shrine of the 64 yoginIs, the yoginI at
 vajrapura in kali\~nga. He stood in the center worshiping nityaklinnA.
 He saw an apparition of the great goddess who instructed him to seek
@@ -66,3 +70,4 @@ achala are invoked and made offerings.
 
 Then sAmantadeva saw an apparition of vArtAli flying on the aerial
 tamolipta car and shooting the andhaka missile at the demons.
+

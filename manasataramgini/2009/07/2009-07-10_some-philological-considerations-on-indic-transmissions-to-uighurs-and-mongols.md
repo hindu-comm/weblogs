@@ -1,7 +1,11 @@
 +++
 title = "Some philological considerations on Indic transmissions to Uighurs and Mongols"
+date = "2009-07-10"
+upstream_url = "https://manasataramgini.wordpress.com/2009/07/10/some-philological-considerations-on-indic-transmissions-to-uighurs-and-mongols/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/07/10/some-philological-considerations-on-indic-transmissions-to-uighurs-and-mongols/).
+
 The vaiShNava had brought my attention to a fragment of a text on vArAhI
 sAdhana of the brAhmaNa shrIdhara that was transmitted to both the
 Uighurs and the Chingizid Mongols. It described the yoginI-s in the
@@ -11,7 +15,7 @@ material collected by Shogaito in his analysis of Uighur and Mongolian
 vocabularies:
 
 |            |               |             |
-| ---------- | ------------- | ----------- |
+|------------|---------------|-------------|
 | Sanskrit   | Uighur        | Mongolian   |
 | chakravegA | cakira-a-vigi | cagr-a-bigi |
 | khaNDarohA | kanta-roxi    | khaNDarohi  |
@@ -21,7 +25,7 @@ vocabularies:
 Other words:
 
 |            |            |           |
-| ---------- | ---------- | --------- |
+|------------|------------|-----------|
 | Sanskrit   | Uighur     | Mongolian |
 | chitra     | chitri     | citiri    |
 | brAhmaNa   | biraman    | biraman   |
@@ -34,7 +38,7 @@ Other words:
 Then we have the names of various deities:
 
 |             |             |             |
-| ----------- | ----------- | ----------- |
+|-------------|-------------|-------------|
 | Sanskrit    | Uighur      | Mongolian   |
 | mahAdeva    | maxadivi    | maqadivi    |
 | Aditya      | aditya      | naran (Mon) |
@@ -55,15 +59,15 @@ akshobi: akShobhya; sarvavitñe: sarvavij\~nA; shaki-muni: shAkya-muni;
 mantal: maNDala; vchirapani: vajrapAni
 
 One systematic rule concerning the endings appears to result in
-Sanskrit\>Uighur: a\>i. Shogaito observers that this is not the case
-with other Altaic languages like Mongolian if they directly acquire a
-word from Sanskrit or via a Tibetan intermediary. Interestingly, when
+Sanskrit>Uighur: a>i. Shogaito observers that this is not the case with
+other Altaic languages like Mongolian if they directly acquire a word
+from Sanskrit or via a Tibetan intermediary. Interestingly, when
 Tocharian (an Indo-European language that geographically overlapped with
 Uighur before the destruction and absorption of the Indo-Europeans by
-the Turkic peoples) absorbs a word from Sanskrit we observe an a\>e at
+the Turkic peoples) absorbs a word from Sanskrit we observe an a>e at
 the terminal. Likewise when Tocharian absorbs a Sanskrit word as an
 “inanimate” gender it elides the terminal:  
-e.g. shAriputra\>shAriputre; pAramitA\> pAramit;  
+e.g. shAriputra>shAriputre; pAramitA> pAramit;  
 Thus, it appears that Uighur initially acquired its Sanskrit loans from
 Tocharian as the Turks over ran the Indo-Europeans (of mummy fame).
 However, it continued to retain the Tocharian type terminal
@@ -71,3 +75,4 @@ transformations, which explains the transformation of the Sanskrit words
 that were subsequently absorbed by Uighur. The endings in Mongolian in
 turn indicate that it subsequently acquired several already transformed
 Sanskrit loans from Uighur.
+

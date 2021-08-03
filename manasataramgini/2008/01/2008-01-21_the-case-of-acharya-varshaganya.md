@@ -1,7 +1,11 @@
 +++
 title = "The case of AchArya vArShagaNya"
+date = "2008-01-21"
+upstream_url = "https://manasataramgini.wordpress.com/2008/01/21/the-case-of-acharya-varshaganya/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/01/21/the-case-of-acharya-varshaganya/).
+
 It is extremely common for ancient Indian AchArya-s to remain mere
 names, with little if anything else known about them. As a result their
 dates and biographies are subject to wild speculations and debates. Such
@@ -66,7 +70,7 @@ date vyAsa bhAShya, the yoga-sUtra etc. However, this claim when
 examined closely has problematic issues and arises from the indological
 habit of accepting certain traditional presentations as facts over
 others, to suit the late dates typically favored by White Indologists.  
-1\) The Chinese work of paramArtha is clearly mythologizing vArShagaNya-
+1) The Chinese work of paramArtha is clearly mythologizing vArShagaNya-
 it calls him the king of the nAga-s. 2) It calls buddhamitra as the
 teacher of vasubandhu during vikramAditya’s reign. But this is
 contradicted by the accounts of Hsuen-Tsang and Kuei-chi who state that
@@ -128,13 +132,13 @@ earlier than the dates of those debates.
 
 We may reconstruct the following from the prior discussions the
 following relative temporal series:  
-vedic brAhmaNa authors-\>(yAj\~navalkya and his school)-\> kapila-\>
-pa\~nchashikha-\> jaigishavya and vArShagaNya-\> pata\~njali-\> vyAsa of
-bhAShya + other members who follow vArShagaNya school-\>
-Ishvara-kR^iShNa (classical sAMkhya)-\> gauDapAda-\> sha\~Nkara-\>
-vAchaspati mishra
+vedic brAhmaNa authors->(yAj\~navalkya and his school)-> kapila->
+pa\~nchashikha-> jaigishavya and vArShagaNya-> pata\~njali-> vyAsa of
+bhAShya + other members who follow vArShagaNya school-> Ishvara-kR^iShNa
+(classical sAMkhya)-> gauDapAda-> sha\~Nkara-> vAchaspati mishra
 
 The four following the vedic brAhmaNa authors, along with the parallel
 tradition of the bhR^igu smR^iti, constitute the saMkhya of the
 mahAbhArata. We would place all AchArya-s prior to Ishvara-kR^iShNa as
 being before 400 CE.
+

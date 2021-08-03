@@ -1,7 +1,11 @@
 +++
 title = "The jaina view"
+date = "2004-09-24"
+upstream_url = "https://manasataramgini.wordpress.com/2004/09/24/the-jaina-view/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/09/24/the-jaina-view/).
+
 The jainas possess some interesting divergent variants of the canonical
 Indo-Aryan myths. The harivaMsha of jinasena and the
 triShaShThisalakapuruSha charita of hemachandra is a rather rich source
@@ -79,8 +83,8 @@ woven into jaina-centric legends and polemics.
 The jaina concept of prati-vAsudeva may not be very original either. The
 bhAgavataM/ harivaMsha describe the showdown between kR^ishNa and the
 false-vAsudeva (or the prativAsudeva), the paunDraka in which the
-latter’s head is cut off. Thus, there may have existed the concept
-even in the mainstream that in the age when vAsudeva emerge there is
+latter’s head is cut off. Thus, there may have existed the concept even
+in the mainstream that in the age when vAsudeva emerge there is
 competition for that status and the winner is the vAsudeva, while the
 loser the prati-vAsudeva. The jaina theory present the balabhadra as a
 more peaceful individual compared to the vAsudeva who slays the hostile
@@ -96,3 +100,4 @@ and rukmiNI’s brother rukma, he decided to retire from all military
 activities and he and his wives devoted themselves to shrauta practices.
 These may have provided the jainas with the inspiration for their idea
 of the baladeva.
+

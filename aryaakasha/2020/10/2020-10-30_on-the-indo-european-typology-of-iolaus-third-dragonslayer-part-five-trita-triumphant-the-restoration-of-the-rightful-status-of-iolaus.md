@@ -1,8 +1,11 @@
 +++
-title = "ON THE INDO-EUROPEAN TYPOLOGY OF IOLAUS – THIRD DRAGONSLAYER Part Five – Trita Triumphant , The Restoration of the Rightful Status ofxa0Iolaus"
-date = "October 30, 2020"
+title = "ON THE INDO-EUROPEAN TYPOLOGY OF IOLAUS – THIRD DRAGONSLAYER Part Five – Trita Triumphant , The Restoration of the Rightful Status of Iolaus"
+date = "2020-10-30"
+upstream_url = "https://aryaakasha.com/2020/10/30/on-the-indo-european-typology-of-iolaus-third-dragonslayer-part-five-trita-triumphant-the-restoration-of-the-rightful-status-of-iolaus/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/10/30/on-the-indo-european-typology-of-iolaus-third-dragonslayer-part-five-trita-triumphant-the-restoration-of-the-rightful-status-of-iolaus/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/10/herculesandhydra21x28.jpg?w=606)
 
   

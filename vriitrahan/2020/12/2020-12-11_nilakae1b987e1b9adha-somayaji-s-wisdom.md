@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "December 11, 2020"
+date = "2020-12-11"
+upstream_url = "https://vriitrahan.wordpress.com/2020/12/11/nilaka%e1%b9%87%e1%b9%adha-somayaji-s-wisdom/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2020/12/11/nilaka%e1%b9%87%e1%b9%adha-somayaji-s-wisdom/).
+
 पञ्चसिद्धन्तास्तावत् क्वचित्काले प्रमाणमेव इत्यवगन्तव्यम् । अपि च यः
 सिद्धान्तः दर्शनाविसंवादी भवति सोऽन्वेषणीयः । दर्शनसंवादश्च तदानीन्तनैः
 परीक्षकैः ग्रहणादौ विज्ञातव्यः ।

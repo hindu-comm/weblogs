@@ -1,8 +1,11 @@
 +++
-title = "On The Birth Of Indra And Its Direct Parallel In The Circumstance Of Danae And Perseus, Devaki And Krishna, Pritha And Karna,xa0Etc."
-date = "June 5, 2021"
+title = "On The Birth Of Indra And Its Direct Parallel In The Circumstance Of Danae And Perseus, Devaki And Krishna, Pritha And Karna, Etc."
+date = "2021-06-05"
+upstream_url = "https://aryaakasha.com/2021/06/05/on-the-birth-of-indra-and-its-direct-parallel-in-the-circumstance-of-danae-and-perseus-devaki-and-krishna-pritha-and-karna-etc/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/06/05/on-the-birth-of-indra-and-its-direct-parallel-in-the-circumstance-of-danae-and-perseus-devaki-and-krishna-pritha-and-karna-etc/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/06/671952-d81809df8cf8d5a5396b8344e797be54.jpg?w=432)
 
 The exercise of the sincere reconstruction of the archaic Indo-European

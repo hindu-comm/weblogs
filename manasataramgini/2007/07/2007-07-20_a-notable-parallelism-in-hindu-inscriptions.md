@@ -1,7 +1,11 @@
 +++
 title = "A notable parallelism in Hindu inscriptions"
+date = "2007-07-20"
+upstream_url = "https://manasataramgini.wordpress.com/2007/07/20/a-notable-parallelism-in-hindu-inscriptions/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/07/20/a-notable-parallelism-in-hindu-inscriptions/).
+
 After the whirlwind of Islam under the dreadful Alla-ad-din Khalji had
 blown through India and flattened the Hindus, one of the first Hindu
 fight-backs began under Prolaya Vema Reddi and the Kamma chiefs Kaapaya
@@ -31,3 +35,4 @@ suratrANAnAM senAh).
 These parallels represent the remarkable cultural unity of Hindu
 expression even in a period when the Islamic violence fragmented the
 land.
+

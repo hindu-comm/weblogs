@@ -1,7 +1,11 @@
 +++
 title = "yuddha-vyUha-s, mlechCha-s and vaNija-nIti in the last Hindu empire"
+date = "2011-10-09"
+upstream_url = "https://manasataramgini.wordpress.com/2011/10/09/yuddha-vyuha-s-mlechcha-s-and-vanija-niti-in-the-last-hindu-empire/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/10/09/yuddha-vyuha-s-mlechcha-s-and-vanija-niti-in-the-last-hindu-empire/).
+
 The narrative of the final stages of premodern bhAratavarSha remains in
 a rather misleading state, despite these times being much closer to our
 own. In the modern phase (post-independence) tacit encouragement from
@@ -243,7 +247,7 @@ AbhIra-s](https://manasataramgini.wordpress.com/2011/05/29/mysterious-king-shudr
 playing a major role in the overthrow of the kShatrapa-s in western
 India.
 
-[![](https://lh3.googleusercontent.com/-DEJFzreNyVw/TpUYLlbzcJI/AAAAAAAACP0/8-7_US8BX8g/s400/kApu_vIrakal.jpg)](https://picasaweb.google.com/lh/photo/lFi8YmPKW3o2KlOO7alR8g?feat=embedwebsite) A
+[![](https://lh3.googleusercontent.com/-DEJFzreNyVw/TpUYLlbzcJI/AAAAAAAACP0/8-7_US8BX8g/s400/kApu_vIrakal.jpg)](https://picasaweb.google.com/lh/photo/lFi8YmPKW3o2KlOO7alR8g?feat=embedwebsite)A
 vIrakal of a kApu warrior who fell fighting the turuShka-s
 
 **Uniform, formation, holding line and firing in rank**  
@@ -271,7 +275,7 @@ also characterized the native Indian armies as being undisciplined on
 grounds such as lack of uniform, ability to hold the line in the
 infantry when under fire or even having the concept of firing in rank.
 As an extension to their piNDarI style of warfare, even their ability to
-deploy in formations during military encounters was doubted\! Indeed,
+deploy in formations during military encounters was doubted! Indeed,
 influenced by such ideas, Sir Jadunath Sarkar in his military history
 that bAjIrao-I’s defeat of the Nizam at Palkhed was largely a
 consequence of his piNDArI tactics.
@@ -280,7 +284,7 @@ Cooper correctly realized that the mahArATTa were not entirely a cavalry
 force, nor was their dependence on piNDari-s a matter of pure choice,
 and that much of the above mis-characterization of the Hindu armies does
 not hold up when more carefully examined:  
-1\) First, military uniform was not a unique premise of the Europeans.
+1) First, military uniform was not a unique premise of the Europeans.
 The evidence from the dattAjI mAlkare bakhar shows that shivAjI was
 already issuing standardized turbans and clothing to his enlisted troops
 and this seems to have continued at least till bAjIrao. One can
@@ -383,7 +387,7 @@ i) The marATha regular infantry units of several houses were greatly
 depleted when they went into the second Anglo-Maratha war, so they had
 to make most of their light cavalry and speed to counter the English.
 
-ii) The mArATha tactics were interpreted in a prejudicial manner by the
+ii\) The mArATha tactics were interpreted in a prejudicial manner by the
 English writers because it showed the English performance in very poor
 light. One case is the battle of Aligarh where the marATha-s did not
 hold the line to fire by rank on purpose because they realized that a
@@ -395,7 +399,7 @@ points out, the use of this tactic by the Americans is praised largely
 because they emerged ultimately victorious, whereas the mArATha-s were
 branded as being undisciplined and not capable of fighting openly.
 
-iii) In several cases, the Indian forces found it prudent to take cover
+iii\) In several cases, the Indian forces found it prudent to take cover
 when under fire rather than hold line for no apparent gain – they also
 often lay on the ground and used their backpack to deflect fire from
 hand-held guns. This way they preserved their men to fight another day.
@@ -455,7 +459,7 @@ not due to the lack of Hindu identity as the leukosphere would like to
 claim, but simply due to the Hindu failure to properly read the
 developing identity of the “other” in their payroll.
 
-2\) The English are a nation of traders\! Indeed, a key ability of the
+2\) The English are a nation of traders! Indeed, a key ability of the
 English was to purchase loyalties for money. When armies get
 professional they lack a sense of identity – verily the English realized
 this well and exploited it to their advantage by buying off soldiers,
@@ -511,3 +515,4 @@ the English conquerors.
 Footnote 2: A version of such an archaic Vijayanagaran infantry gun was
 present in the collection of arms of our coethnic AdinArAyaNa who was
 the commander of the thoNDaimAn of the drAviDa country in the 1700s.
+

@@ -1,7 +1,11 @@
 +++
 title = "Some ramblings on Indo-European"
+date = "2005-08-10"
+upstream_url = "https://manasataramgini.wordpress.com/2005/08/10/some-ramblings-on-indo-european/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/08/10/some-ramblings-on-indo-european/).
+
 Due to a late night encounter back from work we got rambling about one
 of our favorite topics the evolution of IE languages from PIE. Despite
 the difficulties, that we are familiar with from other areas of science,
@@ -22,3 +26,4 @@ modern Hindu mind. Beyond lies the RUKI-SATEM clade which unifies I-Ir
 with Balto-Slavic. This made me think more about the polycephalous
 deities like Svantovit, Porevit and Rugevit and their iconography. What
 does this mean for Indic iconography?
+

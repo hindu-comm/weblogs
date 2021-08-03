@@ -1,7 +1,11 @@
 +++
 title = "A poll on peoples’ beliefs on reincarnation"
+date = "2018-06-11"
+upstream_url = "https://manasataramgini.wordpress.com/2018/06/11/a-poll-on-peoples-beliefs-on-reincarnation/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2018/06/11/a-poll-on-peoples-beliefs-on-reincarnation/).
+
 Using the Twitter’s poll tool we conducted a poll which gave the below
 results:  
 Reincarnation happens:  
@@ -73,8 +77,8 @@ an axiom of his worldview. However, it is not clear if a completely
 consistent worldview has emerged for him by taking reincarnation as an
 axiom. Inquiries with Hindu teachers who believe in reincarnation
 usually results in the following answer: There is something called a
-sūkṣma-śarīra. This is said to “envelop” the ātman and keeps a record
-of the karman balance of an individual. As long as it is non-zero it
+sūkṣma-śarīra. This is said to “envelop” the ātman and keeps a record of
+the karman balance of an individual. As long as it is non-zero it
 results in the ātman experiencing reincarnation. However, when that
 balance is zero the ātman no longer has the experience of identification
 with a śarīra attains the state of mokṣa. Of course, there are subtle
@@ -82,8 +86,8 @@ variations on this theme depending on the teacher and also some more
 drastic differences with the bauddha-s and jaina-s. Yet they all seem to
 agree that there is something like the sūkṣma-śarīra that reincarnates.
 Some of the believers might even give a more precise account of that
-sūkṣma-śarīra and associate it with the manas or buddhi. Several
-modern believers (including some Hindu teachers) and investigators of
+sūkṣma-śarīra and associate it with the manas or buddhi. Several modern
+believers (including some Hindu teachers) and investigators of
 reincarnation state that it is more physical. They say that birthmarks
 and developmental malformations correspond to lesions from the past
 birth.
@@ -98,3 +102,4 @@ discussed separately in a very different format if the gods are
 favorable to us. This is just a brief record of the beliefs on the
 matter of reincarnation that might provide a preamble to that
 discussion, whenever it happens.
+

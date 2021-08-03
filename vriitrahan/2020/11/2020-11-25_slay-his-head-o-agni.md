@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "November 25, 2020"
+date = "2020-11-25"
+upstream_url = "https://vriitrahan.wordpress.com/2020/11/25/slay-his-head-o-agni/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2020/11/25/slay-his-head-o-agni/).
+
 There is an oft mentioned Rigvedic verse by folk that allegedly asks
 Lord Agni to slay the head of the demon who eats the flesh of the cow,
 memory serving right, I remember seeing it some years ago. The Griffith

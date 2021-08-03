@@ -1,7 +1,11 @@
 +++
 title = "turuShka-s and mlechCha-s"
+date = "2009-01-01"
+upstream_url = "https://manasataramgini.wordpress.com/2009/01/01/turushka-s-and-mlechcha-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/01/01/turushka-s-and-mlechcha-s/).
+
 Over the past 500 years the Hindu nation has had to contend with the
 combined assault of rapine turuShka-s and mlechCha-s. Long ago, as we
 wandered on the path to a citadel of the founder of the marATha empire,
@@ -109,8 +113,8 @@ have tried to make him appear. He was a reasonably rounded personality,
 endowed with respectable military, administrative and political skills.
 He quickly observed the French acumen at building professional armies
 through a well-structured program. To some degree he understood the
-“business model” that powered the French army building endeavor. Even
-as he observed the French, so did the Britons, who were soon to excel at
+“business model” that powered the French army building endeavor. Even as
+he observed the French, so did the Britons, who were soon to excel at
 deploying some of the same tactics. It was under these influences that
 he operated, but perhaps lacked the deep “geopolitical” acumen of
 shivAjI or perhaps his own father. His first step was to alternatively
@@ -173,3 +177,4 @@ more to the story of de Bussy via his student Ibrahim Khan Gardi which
 was to form a part of this discussion. I will anyhow perhaps meet
 ekanetra and ST in the near future and we may end up talking of all this
 again.
+

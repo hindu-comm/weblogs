@@ -1,8 +1,11 @@
 +++
-title = "Shravan Maas – The Shaivite Holy Month, The Samudra Manthan, and The Self-Sacrifice of Yama andxa0Odin"
-date = "July 20, 2020"
+title = "Shravan Maas – The Shaivite Holy Month, The Samudra Manthan, and The Self-Sacrifice of Yama and Odin"
+date = "2020-07-20"
+upstream_url = "https://aryaakasha.com/2020/07/20/shravan-maas-the-shaivite-holy-month-the-samudra-manthan-and-the-self-sacrifice-of-yama-and-odin/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/07/20/shravan-maas-the-shaivite-holy-month-the-samudra-manthan-and-the-self-sacrifice-of-yama-and-odin/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/07/13709867_10157199917130574_1104202044869570276_n.jpg?w=497)
 
 Today marks the start of the Shaivite holy month of Shravan Maas \[at

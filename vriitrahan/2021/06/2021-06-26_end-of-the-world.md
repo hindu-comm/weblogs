@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "June 26, 2021"
+date = "2021-06-26"
+upstream_url = "https://vriitrahan.wordpress.com/2021/06/26/end-of-the-world/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2021/06/26/end-of-the-world/).
+
 तस्मिन्युगसहस्रान्ते सम्प्राप्ते चायुषः क्षये \| अनावृष्टिर्महाराज जायते
 बहुवार्षिकी \|\|५६\|\|  
 ततस्तान्यल्पसाराणि सत्त्वानि क्षुधितानि च \| प्रलयं यान्ति भूयिष्ठं

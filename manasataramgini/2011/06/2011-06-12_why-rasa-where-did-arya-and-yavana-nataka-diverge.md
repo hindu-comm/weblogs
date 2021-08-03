@@ -1,7 +1,11 @@
 +++
 title = "Why rasa? where did Arya and yavana nATaka diverge?"
+date = "2011-06-12"
+upstream_url = "https://manasataramgini.wordpress.com/2011/06/12/why-rasa-where-did-arya-and-yavana-nataka-diverge/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/06/12/why-rasa-where-did-arya-and-yavana-nataka-diverge/).
+
 This may be read in conjunction with an earlier note on an [overlapping
 topic](https://manasataramgini.wordpress.com/2008/11/23/the-spectrum-of-synesthesia-metaphors-and-samdhya-bhasha/).
 
@@ -89,11 +93,12 @@ obvious comparison (as has been previously described by a few authors
 like Ghosh, Kuiper and Lidova) to the organization of the yAga-shAlA,
 with the yUpa as a cognate of the jarjari. Indeed, the nATyashAstra
 makes no secret of it by repeatedly stating:  
-yaj\~nena saMmitaM hy etad ra\~Nga daivata-pUjanam | (1.123ab; 3.97ab)  
+yaj\~nena saMmitaM hy etad ra\~Nga daivata-pUjanam \| (1.123ab;
+3.97ab)  
 i.e. the worship of the deva-s in the theater is similar to the
 performance of a yaj\~na.  
 Or  
-yaj\~navid yaj\~na-yoge tu nartako .abhinaye smR^itaH | (27.65cd)  
+yaj\~navid yaj\~na-yoge tu nartako .abhinaye smR^itaH \| (27.65cd)  
 Here an ritualist expert is described as being an assessor of the ritual
 associated with the drama.
 
@@ -165,7 +170,7 @@ developed by the Arya-s and the yavana-s. In the yavana world the
 theoretical framework did not go very far and appears to have ended with
 a relatively simple attempt at characterizing it as catharsis by
 Aristotle. That Plato had a rather rudimentary idea of the situation
-suggests that it emerged relatively late and Aristotle probably was the
+suggests that it emerged relatively late and Aristotleprobablywas the
 first to understand it among the yavana-s. In contrast, among the Arya-s
 it had a rather early and elaborate form in the rasa sUtra-s (NS chapter
 6). In fact even the nATyashAstra already records a commentary on the
@@ -215,26 +220,27 @@ his Hindu origins might have provided a prior (“sub-conscious” or overt)
 for his formulating his theory.
 
 NS 6.32:  
-tatra rasAneva tAvad AdAv abhivyAkhyAsyAmaH |  
-na hi rasAdR^ite kashchid arthaH pravartate |  
-tatra vibhAvAnubhAva vyabhichAri saMyogAd rasa niShpattiH |  
-ko dR^iShTAntaH |  
+tatra rasAneva tAvad AdAv abhivyAkhyAsyAmaH \|  
+na hi rasAdR^ite kashchid arthaH pravartate \|  
+tatra vibhAvAnubhAva vyabhichAri saMyogAd rasa niShpattiH \|  
+ko dR^iShTAntaH \|  
 atrAha yathA hi nAnA vya\~njanauShadhi dravya saMyogAd rasa niShpattiH
-tathA nAnA bhAvopagamAd rasa niShpattiH |  
+tathA nAnA bhAvopagamAd rasa niShpattiH \|  
 yathA hi guDAdibhir dravyair vya\~njanair auShadhibhish cha ShADavAdayo
 rasA nirvartyante tathA nAnA bhAvopagatA api sthAyino bhAvA rasatvam
-ApnuvantIti |  
-atrAha rasa iti kaH padArthaH |  
+ApnuvantIti \|  
+atrAha rasa iti kaH padArthaH \|  
 uchyate  
-AsvAdyatvAt |  
-kathamAsvAdyate rasaH |  
+AsvAdyatvAt \|  
+kathamAsvAdyate rasaH \|  
 yathA hi nAnA vya\~njana saMskR^itam annaM bhu\~njAna rasAn AsvAdayanti
 sumanasaH puruSha harShAdIMsh-chAdhigachChanti tathA nAnA bhAvAbhinaya
 vya\~njitAn vAg a\~NgasattopetAn sthAyibhAvAnA svAdayanti sumanasaH
 prekShakAH  
-harShAdIMsh chAdhigachChanti |  
-tasmAn nATya rasA ity abhivyAkhyAtAH |
+harShAdIMsh chAdhigachChanti \|  
+tasmAn nATya rasA ity abhivyAkhyAtAH \|
 
 atrAnuvaMshyau shlokau bhavataH  
-yathA bahu dravya-yutair-vya\~njanair-bahubhir-yutam |  
-AsvAdayanti bhu\~njAnA bhaktaM bhaktavido janAH ||
+yathA bahu dravya-yutair-vya\~njanair-bahubhir-yutam \|  
+AsvAdayanti bhu\~njAnA bhaktaM bhaktavido janAH \|\|
+

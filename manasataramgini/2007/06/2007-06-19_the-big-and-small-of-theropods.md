@@ -1,7 +1,13 @@
 +++
 title = "The big and small of theropods"
+date = "2007-06-19"
+upstream_url = "https://manasataramgini.wordpress.com/2007/06/19/the-big-and-small-of-theropods/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/06/19/the-big-and-small-of-theropods/).
+
+
+
 [![](https://i2.wp.com/bp3.blogger.com/_ZhvcTTaaD_4/Rn1Nv05tXAI/AAAAAAAAALM/rxvTZMzZ1Jo/s320/majungasaurus.jpg)](http://bp3.blogger.com/_ZhvcTTaaD_4/Rn1Nv05tXAI/AAAAAAAAALM/rxvTZMzZ1Jo/s1600-h/majungasaurus.jpg)
 
 The recent bonanza of theropod finds have brought to fore an old issue
@@ -103,3 +109,4 @@ specializing in particular niches (except birds which are today largely
 restricted to the air). OR Was it that body size did not play a major
 role in deciding the ecological niche occupied — hence the same
 ecological niche could be occupied at different body sizes?
+

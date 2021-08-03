@@ -1,14 +1,18 @@
 +++
 title = "Giant volcanos and humans"
+date = "2007-07-12"
+upstream_url = "https://manasataramgini.wordpress.com/2007/07/12/giant-volcanos-and-humans/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/07/12/giant-volcanos-and-humans/).
+
 Recent meteorological studies have suggested that the volcanic activity
 of Pinatubo in 1991 in Philippines resulted in the increase in cold
 fronts and flooding in the Midwest in 1992. Building on the data from
 the volcanic eruption of Pinatubo there is some consensus that the “Year
 without winter” in 1816 was a result of the Tambora eruption on 1815.
 The noise of the Tambora explosion in Sumbawa, Indonesia was heard up to
-2000 km away \! Its effect on North America and Europe was pretty strong
+2000 km away ! Its effect on North America and Europe was pretty strong
 resulting in a major famine in the western world. However, people made
 it past it and recovered strongly. One wonders if its effect in some way
 contributed to the collapse of the Maharattas in India. Even bigger was
@@ -16,8 +20,8 @@ the Younger Toba Tuff eruption that is dated to around 74000 years BP.
 This explosion is supposed to have discharged 2800 km³ of material, with
 a notable portion of this being ejected into the atmosphere as tephra.
 Consequently it is believed to have reduced the Earth’s temperature by
-5°C and caused a volcanic winter. This, some workers speculate, caused
-a major impact on human survival and caused a bottleneck in the human
+5°C and caused a volcanic winter. This, some workers speculate, caused a
+major impact on human survival and caused a bottleneck in the human
 population. But was this really so? In Africa we find no evidence for
 Homo sapiens being affected by this explosion, nor do we find the Homo
 neanderthalis being affected in Europe. In fact Tambora’s most severe
@@ -89,3 +93,4 @@ analysis of faunal remains is a must to attain any conclusive results.
 Of course flood volcanism could have a very different effect. At this
 stage we really need more empirical data to link volcanism and
 extinction conclusively.
+

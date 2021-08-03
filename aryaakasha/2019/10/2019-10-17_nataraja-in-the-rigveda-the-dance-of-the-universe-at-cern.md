@@ -1,8 +1,11 @@
 +++
-title = "NataRaja In The RigVeda – The Dance Of The Universe Atxa0CERN"
-date = "October 17, 2019"
+title = "NataRaja In The RigVeda – The Dance Of The Universe At CERN"
+date = "2019-10-17"
+upstream_url = "https://aryaakasha.com/2019/10/17/nataraja-in-the-rigveda-the-dance-of-the-universe-at-cern/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/10/17/nataraja-in-the-rigveda-the-dance-of-the-universe-at-cern/).
+
 ![72755555_466027037342959_6971407326490132480_n](https://aryaakasha.files.wordpress.com/2019/10/72755555_466027037342959_6971407326490132480_n.jpg?w=676)
 
 The Shiva Nataraja Murti at CERN in Switzerland. I’ve written about the

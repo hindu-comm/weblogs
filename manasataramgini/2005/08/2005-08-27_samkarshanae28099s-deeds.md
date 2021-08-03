@@ -1,7 +1,11 @@
 +++
 title = "samkarShaNa’s deeds"
+date = "2005-08-27"
+upstream_url = "https://manasataramgini.wordpress.com/2005/08/27/samkarshana%e2%80%99s-deeds/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/08/27/samkarshana%e2%80%99s-deeds/).
+
 From the 67th chapter of the harivaMsha
 
 When balarAma was cavorting with his wives and girlfriends and enjoying
@@ -42,3 +46,4 @@ attacked the mAdhava with boulders, but he powdered those rocks with his
 great musala. The ape then rushed at balabhadra with his fist clenched.
 rAma kept his weapons aside and fiercely shattered the collar bone of
 the ape. With that dvivida vomited blood and breathed his last.
+

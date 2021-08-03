@@ -1,7 +1,13 @@
 +++
 title = "pANini’s trees"
+date = "2005-07-30"
+upstream_url = "https://manasataramgini.wordpress.com/2005/07/30/paninis-trees/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/07/30/paninis-trees/).
+
+
+
 [![Posted by
 Picasa](https://i1.wp.com/photos1.blogger.com/pbp.gif)](http://picasa.google.com/)
 
@@ -15,3 +21,4 @@ vedic ritual is specified in the shrauta sutras, we get these dendritic
 structures, which we call pANini’s trees. A rich as well as pleasing
 structure may emerge from some rules, even as the bhASha known as
 saMkR^ita. Above are some of those emerging from my recent experiments
+

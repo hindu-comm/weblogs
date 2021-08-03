@@ -1,7 +1,11 @@
 +++
 title = "A hagiography of gajapati, a brAhmaNa from Nepal"
+date = "2009-01-21"
+upstream_url = "https://manasataramgini.wordpress.com/2009/01/21/a-hagiography-of-gajapati-a-brahmana-from-nepal/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/01/21/a-hagiography-of-gajapati-a-brahmana-from-nepal/).
+
 Though pursued by the grAhin like a sparrow by a hawk, we felt we should
 record this story. The following is an account from R1’s father. In some
 cases the mantra-s that he only mentioned as pratIka-s are omitted
@@ -70,15 +74,15 @@ them a fragment of the pot and they left. He then scrapped the a\~njana
 of the pot and smeared it on his forehead. At that point he is said to
 have attained siddhi of all the mantra-s the janitor had given him. On
 account his tantric prowess he was able to get as his wife the
-rAja-guru’s daughter. This eventually gave him access to the position
-of the rAjaguru of the malla king. Apparently, in Nepal they believe
-that gajapati using his mantra digbandha bound the aShTa-mAtR^ika-s of
-the magical harasiddhi shrine and brought them to Patan. It is also
-believed that he similar captured chaNDeshvarI and brought her to his
-regions. Apparently the aShTa-mAtR^ika-s agreed to come with him only if
-he offered a human bali for ever stop in the journey. So he sacrificed
-his students and revived them with the mR^ityu\~njaya parA mantra at
-each stop and thus brought the mAtR^ikA-s to his regions. At midday the
+rAja-guru’s daughter. This eventually gave him access to the position of
+the rAjaguru of the malla king. Apparently, in Nepal they believe that
+gajapati using his mantra digbandha bound the aShTa-mAtR^ika-s of the
+magical harasiddhi shrine and brought them to Patan. It is also believed
+that he similar captured chaNDeshvarI and brought her to his regions.
+Apparently the aShTa-mAtR^ika-s agreed to come with him only if he
+offered a human bali for ever stop in the journey. So he sacrificed his
+students and revived them with the mR^ityu\~njaya parA mantra at each
+stop and thus brought the mAtR^ikA-s to his regions. At midday the
 mAtR^ikA-s are supposed to dance and a Nepali tradition of a “harasiddhi
 dance” was set up to emulate this. He is supposed to have performed
 powerful mantra-prayoga-s throughout his life those were seen with much
@@ -103,3 +107,4 @@ continued to recent times in this rite by gajapati’s descendents. R1’s
 father did not elaborate as to what rite this was. But it is interesting
 to note that the tAthAgata-s deploy a veda-reciting brAhmaNa in their
 ritual.
+

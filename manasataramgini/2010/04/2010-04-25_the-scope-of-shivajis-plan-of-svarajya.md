@@ -1,24 +1,28 @@
 +++
 title = "The scope of shivAjI’s plan of svarAjya"
+date = "2010-04-25"
+upstream_url = "https://manasataramgini.wordpress.com/2010/04/25/the-scope-of-shivajis-plan-of-svarajya/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/04/25/the-scope-of-shivajis-plan-of-svarajya/).
+
 dADhi ke rakhaiyan kI DADhi sI rahati cHAti bADhI marjAda jasa hadda
-hinduvAne kI |  
+hinduvAne kI \|  
 kaDhi gaI raiyati ke mana kI kasaka saba miTi gaI Thasaka tamAma
-turakAne kI |  
+turakAne kI \|  
 bhUShaNa bhanata dilIpati dila dhakadhakA suni suni dhAka sivarAja
-mardAne kI |  
+mardAne kI \|  
 moTI bhayI chaNDI binu-choTI ke chabAya sIsa khoTI bhaI sampati chakatA
-ke gharAne kI ||
+ke gharAne kI \|\|
 
 The hearts of the beards burn like bonfires, such now are growing the
-bounds of the Hindu Nation\!  
+bounds of the Hindu Nation!  
 Hopes of people are all answered, such is being demolished the vainglory
-of turuShka-s\!  
+of turuShka-s!  
 bhUShaNa says this hearing the heartbeat of the lord of Delhi in awe of
 king shivAjI the manly —  
 that chaNDI grows fat chewing the shikhA-less heads and wealth of the
-house of Chaghadai now lies in waste\!\!  
+house of Chaghadai now lies in waste!!  
 (Verse and translation is provided by shrI Sarvesh Tiwari, whom I would
 like to thank for bringing my attention to this verse).
 
@@ -436,9 +440,9 @@ Mogols. He rightly realized that in the head on conflict with the Mogols
 that was to unfold he would need to effectively use the length of the
 country against them – it was exactly in this regard that the last kings
 of vijayanagara had failed in their post-Talikota struggle. But
-shivAjI’s untimely demise on April 3 1680 resulted in a set back for
-all these plans. In 1683 after the release of the Mogol ambassador to
-the Qutubshah from imprisonment, he set about instituting an internal
+shivAjI’s untimely demise on April 3 1680 resulted in a set back for all
+these plans. In 1683 after the release of the Mogol ambassador to the
+Qutubshah from imprisonment, he set about instituting an internal
 counter-revolution with fellow Mohammedans to destroy the brAhmaNa-s. He
 unleashed a reign of terror on brAhmaNa-s and as Muazzam invaded
 Bhaganagari he conspired with the internal Moslems to kill mAdaNNA and
@@ -550,7 +554,7 @@ kechid dravaM gR^ihItvA mochitAH kechit dharmeNA kechid asmat sainikAnAm
 utkochaM datvApayAtAH evaM vidhA tat senAnAyakA aprayojakAH asmin samaye
 yavAnAdhamaH kArAgR^ihastho vidheyaH shrI sthApanAdayaH sarvepi dharmAH
 pravartitvA iti manasi dhR^itvA tadanukUlam AcharaMa iti vidAM kurvantu
-tatra bhavantI bhavantaH |”
+tatra bhavantI bhavantaH \|”
 
 “We Hindus are weaklings to be ordered around and devoid of an essence,
 so believes the Mohammedan ruffian (Awrangzeb). The destruction of
@@ -610,3 +614,4 @@ city Moslems, whose affinity to the Mogols remained undiminished. The
 non-jAmadagnya vatsa told us that the temple was being targeted by them.
 In 1998, in supposedly independent India, a Moslem mob attacked the
 temple and destroyed the image of the deity.
+

@@ -1,8 +1,11 @@
 +++
-title = "On Bowing To Gods – AND Drinking With Themxa0!"
-date = "July 23, 2021"
+title = "On Bowing To Gods – AND Drinking With Them !"
+date = "2021-07-23"
+upstream_url = "https://aryaakasha.com/2021/07/23/on-bowing-to-gods-and-drinking-with-them/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/07/23/on-bowing-to-gods-and-drinking-with-them/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/07/aa-bow-drink.png?w=927)
 
 I’ve had this image – and its underlying sentiment – on my mind for a

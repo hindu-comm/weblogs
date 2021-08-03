@@ -1,8 +1,11 @@
 +++
-title = "Why Leadership Means ‘To Be Lead’ – An Indo-Europeanxa0Perspective"
-date = "July 3, 2019"
+title = "Why Leadership Means ‘To Be Lead’ – An Indo-European Perspective"
+date = "2019-07-03"
+upstream_url = "https://aryaakasha.com/2019/07/03/why-leadership-means-to-be-lead-an-indo-european-perspective/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/07/03/why-leadership-means-to-be-lead-an-indo-european-perspective/).
+
 ![heavy](https://aryaakasha.files.wordpress.com/2019/07/heavy.jpg?w=676)
 
 “An associate asked me “what makes a kshatriya given etymological and

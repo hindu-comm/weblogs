@@ -1,8 +1,11 @@
 +++
-title = "ON THE INDO-EUROPEAN TYPOLOGY OF IOLAUS – THIRD DRAGONSLAYER Part Two – The Priest ‘pon Penitent Pathway : Herakles Indra’s Roaring Rampage ofxa0Repentance"
-date = "October 14, 2020"
+title = "ON THE INDO-EUROPEAN TYPOLOGY OF IOLAUS – THIRD DRAGONSLAYER Part Two – The Priest ‘pon Penitent Pathway : Herakles Indra’s Roaring Rampage of Repentance"
+date = "2020-10-14"
+upstream_url = "https://aryaakasha.com/2020/10/14/on-the-indo-european-typology-of-iolaus-third-dragonslayer-part-two-the-priest-pon-penitent-pathway-herakles-indras-roaring-rampage-of-repentance/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/10/14/on-the-indo-european-typology-of-iolaus-third-dragonslayer-part-two-the-priest-pon-penitent-pathway-herakles-indras-roaring-rampage-of-repentance/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/10/va_pc_2007bp0698-001.jpg?w=700)
 
 For you see, Trisiras is a Brahmin. Slaying Him is a Brahmanicide – one

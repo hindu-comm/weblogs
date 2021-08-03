@@ -1,7 +1,11 @@
 +++
 title = "A dramiDa prashasti concerning shAstA"
+date = "2008-07-25"
+upstream_url = "https://manasataramgini.wordpress.com/2008/07/25/a-dramida-prashasti-concerning-shasta/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/07/25/a-dramida-prashasti-concerning-shasta/).
+
 One topic of some interest in the evolution of the mantra-shAstra is the
 emergence of the shAstA tantra-s the most voluminous of which is the
 kulAla-tantra. We had earlier shown how shAstA has emerged from an
@@ -45,3 +49,4 @@ inscription as being between 950 and 985 of CE, during which a great
 temple of shAstA was built, but at least I am unsure of this choLa
 ruler. Of course today nothing more than ruins of the temple appear to
 exist.
+

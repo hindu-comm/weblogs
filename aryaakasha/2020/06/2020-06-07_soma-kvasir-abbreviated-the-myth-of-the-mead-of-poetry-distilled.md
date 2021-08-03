@@ -1,8 +1,11 @@
 +++
-title = "Soma Kvasir Abbreviated – The Myth of the Mead of Poetry,xa0Distilled"
-date = "June 7, 2020"
+title = "Soma Kvasir Abbreviated – The Myth of the Mead of Poetry, Distilled"
+date = "2020-06-07"
+upstream_url = "https://aryaakasha.com/2020/06/07/soma-kvasir-abbreviated-the-myth-of-the-mead-of-poetry-distilled/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/06/07/soma-kvasir-abbreviated-the-myth-of-the-mead-of-poetry-distilled/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/06/odin_and_the_mead_of_poetry_by_hellanim_d2rzxwx-fullview.jpg?w=900)
 
 In a bid to make some of the content from last week’s Soma and the Mead

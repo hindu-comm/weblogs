@@ -1,7 +1,11 @@
 +++
 title = "Godhūmo vijayate"
+date = "2017-10-09"
+upstream_url = "https://manasataramgini.wordpress.com/2017/10/09/godhumo-vijayate/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2017/10/09/godhumo-vijayate/).
+
 As we have noted several times before, the Ṛgveda represents a very
 early stage of the evolution of Indo-Aryan. Its agricultural terms
 relate to a major puzzle in Indo-European history. There is an
@@ -25,11 +29,11 @@ a different picture. Rice and wheat are both present and the former is
 already on its way to overtaking barley as the principle grain. The
 words for rice include vrīhi (regular rice) and nīvāra (a wild rice).
 The first word is found in Iranian as birinci and has cognates across
-the Iranian languages. The first word was also either transferred to
+the Iranian languages.The first word was also either transferred to
 Dravidian as arici or acquired by it parallely to Indo-Iranian. It is
 also found in Greek as oruza, Mongolian ür-e, Japanese uruchi. The same
 applies for wheat, which in Yajurveda is already seen as godhūma. It is
-also found in the later Avestan layers as gantuma. Dravidian shows a
+also found in the later Avestan layers as gantuma.Dravidian shows a
 form similar to the Indo-Aryan word. It also occurs in Hittite as gant
 and in the Egyptian branch of Afro-Asiatic, and Semitic as well, it has
 cognates with similar sounds. Thus, these two crops most likely spread
@@ -48,11 +52,11 @@ and distinct ecology are clearly visible. In figure 1 we plot the mean
 annual density (tons/hectare of national land; log-log scale) over 17
 years of wheat versus rice production for the 72 countries that
 cultivate both these crops. We find that they are entirely uncorrelated
-(![r^2=0.034](https://s0.wp.com/latex.php?latex=r%5E2%3D0.034&bg=ffffff&fg=333333&s=0
-"r^2=0.034")). This is notable given that wheat and rice are among the
-most cultivated crops in the world (wheat most, then corn, then rice).
+(![r^2=0.034](https://s0.wp.com/latex.php?latex=r%5E2%3D0.034&bg=ffffff&fg=333333&s=0&c=20201002)).
+This is notable given that wheat and rice are among the most cultivated
+crops in the world (wheat most, then corn, then rice).
 
-[![Rice\_Wheat\_density](https://manasataramgini.files.wordpress.com/2017/10/rice_wheat_density.png?w=640)](https://manasataramgini.files.wordpress.com/2017/10/rice_wheat_density.png)Figure
+[![Rice_Wheat_density](https://manasataramgini.files.wordpress.com/2017/10/rice_wheat_density.png?w=640)](https://manasataramgini.files.wordpress.com/2017/10/rice_wheat_density.png)Figure
 1
 
 Now if we divide the plot into 4 quadrants based on the median values
@@ -92,18 +96,17 @@ across their core domains.
 In figure 2 we plot the wheat versus barley production (in tons; log-log
 scale). A similar picture is obtained if we plot densities as above. The
 two, in distinct contrast to rice, show a good correlation
-(![r^2=0.644](https://s0.wp.com/latex.php?latex=r%5E2%3D0.644&bg=ffffff&fg=333333&s=0
-"r^2=0.644")). Further, while just 72 countries grow both rice and
-wheat, 96 grow both wheat and barley. This suggests that barley, which
-was the old IE crop, was to a degree ecologically and operationally
-equivalent to wheat, with steppe-land as opposed wetland preference
-(rice). Thus, unlike rice, barley has taken little root in
-non-Mediterranean Africa. Hence, it appears that as wheat was acquired,
-it ate into the share of barley across the steppe-land but barley still
-holds on as the fourth most produced crop. Its role in domesticated
-animal feed and probably its special role in alcoholic beverage
-production (already described in the Yajurveda) play an important role
-in its tenacity and even expansion.
+(![r^2=0.644](https://s0.wp.com/latex.php?latex=r%5E2%3D0.644&bg=ffffff&fg=333333&s=0&c=20201002)).
+Further, while just 72 countries grow both rice and wheat, 96 grow both
+wheat and barley. This suggests that barley, which was the old IE crop,
+was to a degree ecologically and operationally equivalent to wheat, with
+steppe-land as opposed wetland preference (rice). Thus, unlike rice,
+barley has taken little root in non-Mediterranean Africa. Hence, it
+appears that as wheat was acquired, it ate into the share of barley
+across the steppe-land but barley still holds on as the fourth most
+produced crop. Its role in domesticated animal feed and probably its
+special role in alcoholic beverage production (already described in the
+Yajurveda) play an important role in its tenacity and even expansion.
 
-[![Barley\_Wheat](https://manasataramgini.files.wordpress.com/2017/10/barley_wheat.png?w=640)](https://manasataramgini.files.wordpress.com/2017/10/barley_wheat.png)Figure
+[![Barley_Wheat](https://manasataramgini.files.wordpress.com/2017/10/barley_wheat.png?w=640)](https://manasataramgini.files.wordpress.com/2017/10/barley_wheat.png)Figure
 2.

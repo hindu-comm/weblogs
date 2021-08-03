@@ -1,7 +1,11 @@
 +++
 title = "sudarshaNa rahasya"
+date = "2005-07-18"
+upstream_url = "https://manasataramgini.wordpress.com/2005/07/18/sudarshana-rahasya/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/07/18/sudarshana-rahasya/).
+
 Having bowed to the one sleeping atop the coils of the snake of time we
 salute the greatest of his weapons.  
 oM urugAyAya hum phaT //
@@ -56,3 +60,4 @@ vaiShNavI consisting of the six syllables supported by the chakra held
 by the supreme essence of the atharva veda known as narAyaNI
 pratya\~NgirA. The lA\~ngalAstra of vArAhI with which she hammers the
 daityas emanates from it.
+

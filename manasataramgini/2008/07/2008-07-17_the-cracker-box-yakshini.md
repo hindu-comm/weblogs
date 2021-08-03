@@ -1,7 +1,11 @@
 +++
 title = "The cracker box yakShiNI"
+date = "2008-07-17"
+upstream_url = "https://manasataramgini.wordpress.com/2008/07/17/the-cracker-box-yakshini/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/07/17/the-cracker-box-yakshini/).
+
 It was 1989, when we were still young. kR^iShNa shUdra noticed the
 violent sphigshiras approaching us and panicked. He believed that we
 might have hatched a plot that dashed his chances of snaring the
@@ -22,10 +26,10 @@ strictures of dharma. Just then a stately ratha arrived and was parked
 in the shade of the tree. From it emerged she who was like the
 bahu-chitraka-matsya on the banner of ana\~Nga swimming in the midst of
 latAmaNI-pravAla in the dakShiNAmbodhi. Even we were forced to utter:
-“eshA rolamba-bindu-jAla loma-jAlam anurAgAkAro nishAkaro vijita
-kamalam mukhaM; kAmadvajAyamAno matsyo bhAryAyuto.askShi-yugalaM;
+“eshA rolamba-bindu-jAla loma-jAlam anurAgAkAro nishAkaro vijita kamalam
+mukhaM; kAmadvajAyamAno matsyo bhAryAyuto.askShi-yugalaM;
 sakala-senAbala vIro pashchimAmbodhi-pavano niHshvAsaH pathika
-hR^id-bheda karavAlaH pravAlash-chAdhara vAgdalaM|”
+hR^id-bheda karavAlaH pravAlash-chAdhara vAgdalaM\|”
 
 Turning to ArjavakeshI she said some weighty words. Neither ArjavakeshI
 nor most of our companions were able to understand much of what she
@@ -81,3 +85,4 @@ that being achieved she suggested that we should perform that experiment
 we had long thought about but never performed. What we did is part of
 the story named “reanimation of the corpse of the great Joseph von
 Fraunhofer”.
+

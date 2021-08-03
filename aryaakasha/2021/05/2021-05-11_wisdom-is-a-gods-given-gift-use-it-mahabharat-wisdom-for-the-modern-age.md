@@ -1,8 +1,11 @@
 +++
-title = "Wisdom Is A Gods-Given Gift : Use It -Mahabharat Wisdom For The Modernxa0Age"
-date = "May 11, 2021"
+title = "Wisdom Is A Gods-Given Gift : Use It -Mahabharat Wisdom For The Modern Age"
+date = "2021-05-11"
+upstream_url = "https://aryaakasha.com/2021/05/11/wisdom-is-a-gods-given-gift-use-it-mahabharat-wisdom-for-the-modern-age/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/05/11/wisdom-is-a-gods-given-gift-use-it-mahabharat-wisdom-for-the-modern-age/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/05/vidura_and_dhritarashtra.jpg?w=749)
 
 A maxim from the Mahabharat that somebody had posted, in response to the

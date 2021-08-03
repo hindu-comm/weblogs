@@ -1,8 +1,11 @@
 +++
-title = "Modulo rugs of 3Dxa0functions"
+title = "Modulo rugs of 3D functions"
 date = "2021-02-22"
+upstream_url = "https://manasataramgini.wordpress.com/2021/02/22/modulo-rugs-of-3d-functions/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2021/02/22/modulo-rugs-of-3d-functions/).
+
 Consider a 3D function
 ![z=f(x,y)](https://s0.wp.com/latex.php?latex=z%3Df%28x%2Cy%29&bg=ffffff&fg=333333&s=0&c=20201002).
 Now evaluate it at each point of a ![n \\times

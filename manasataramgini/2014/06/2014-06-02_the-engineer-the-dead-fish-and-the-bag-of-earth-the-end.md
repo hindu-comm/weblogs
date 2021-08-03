@@ -1,7 +1,11 @@
 +++
 title = "The engineer, the dead fish and the bag of earth-the End"
+date = "2014-06-02"
+upstream_url = "https://manasataramgini.wordpress.com/2014/06/02/the-engineer-the-dead-fish-and-the-bag-of-earth-the-end/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/06/02/the-engineer-the-dead-fish-and-the-bag-of-earth-the-end/).
+
 [From
 Part-V](https://manasataramgini.wordpress.com/2014/05/29/the-engineer-the-dead-fish-and-the-bag-of-earth-v/ "The engineer, the dead fish and the bag of earth-V")  
 kathA-puchChaM  
@@ -14,8 +18,8 @@ know it would not exist and we ourselves owe our very existence to such.
 So indeed such is the story of life in a nutshell – there is no life for
 the unarmed. Hence, the vipra who knows this becomes a seer who has seen
 and recites the following brahma-vAkya-s of life:  
-sarvo vai menyA jivati | jivo vai menyAM pratiShThitaH | mener vai
-jIvasya nAnA rupANi saMbhavanti ||
+sarvo vai menyA jivati \| jivo vai menyAM pratiShThitaH \| mener vai
+jIvasya nAnA rupANi saMbhavanti \|\|
 
 Time had passed by and some had become oblations in the great iShTi to
 the buffalo-riding son of vivasvAn. Others were waiting for their turn
@@ -58,7 +62,7 @@ his vaccine samples. In the mean time I too gave him the samples that in
 reality contained our engineered virus. I believe you may know more of
 the rest of the story.”
 
-Somakhya: “Ah\! That’s how it played out. I believe Faqih ibn al-Ass was
+Somakhya: “Ah! That’s how it played out. I believe Faqih ibn al-Ass was
 given a royal entrance into the mlechCha precincts for they believed
 they knew all about what he was carrying. He gave the spiked stuff to
 Dick Shuman with whom he got playing with them in cell-culture and
@@ -69,4 +73,5 @@ did I know when I first read of Varoli’s work that it would spark such
 events. But then let’s not forget that Varoli was not the first to
 invent these, her namesake (e.g. Cotesia) had stumbled on this strategy
 with polydnaviruses and nudiviruses to overpower kaMbala-kITaka-s
-millions of years ago\!”
+millions of years ago!”
+

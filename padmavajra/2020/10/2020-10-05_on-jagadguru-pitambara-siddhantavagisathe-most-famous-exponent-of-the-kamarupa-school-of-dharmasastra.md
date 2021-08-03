@@ -1,8 +1,11 @@
 +++
-title = "On Jagadguru Pītāmbara Siddhāntavāgīśa,the most famous exponent of the Kāmarūpa school ofxa0Dharmaśāstra"
-date = "2020-10-05"
+title = "On Jagadguru Pītāmbara Siddhāntavāgīśa,the most famous exponent of the Kāmarūpa school of Dharmaśāstra"
+date = "2020-05-10"
+upstream_url = "https://padmavajra.net/2020/10/05/on-jagadguru-pitambara-siddhantavagisathe-most-famous-exponent-of-the-kamarupa-school-of-dharmasastra/"
 
 +++
+Source: [here](https://padmavajra.net/2020/10/05/on-jagadguru-pitambara-siddhantavagisathe-most-famous-exponent-of-the-kamarupa-school-of-dharmasastra/).
+
 On Pītāmbara Siddhāntavāgīśa’s life:Gleanings from his own works
 
 Pītāmbara Siddhāntavāgīśa,the most famous exponent of the Kāmarūpa

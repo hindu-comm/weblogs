@@ -1,7 +1,11 @@
 +++
 title = "15th August: A journey"
+date = "2008-08-15"
+upstream_url = "https://manasataramgini.wordpress.com/2008/08/15/15th-august-a-journey/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/08/15/15th-august-a-journey/).
+
 61 years ago the Hindus ended the mlechCha conquest of their land. Today
 most of us feel the victory was incomplete and many others feel it might
 have even been empty. Within the true Hindu elite (not the modern Indian
@@ -75,3 +79,4 @@ its natural role of leadership as the head of the puruSha from the
 himaparvata-s to the mahodadhi the land would not recover from the
 mlechCha-s. It is striking that Tilak was to use nearly the same
 language some years down the line.
+

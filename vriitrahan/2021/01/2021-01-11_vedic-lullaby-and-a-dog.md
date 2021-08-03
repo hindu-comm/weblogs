@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "January 11, 2021"
+date = "2021-01-11"
+upstream_url = "https://vriitrahan.wordpress.com/2021/01/11/vedic-lullaby-and-a-dog/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2021/01/11/vedic-lullaby-and-a-dog/).
+
 A peculiar hymn in the Rigveda, a lullaby hymn makes mention of a dog,
 presumably a guard dog of the family. A previous
 [post](https://vriitrahan.wordpress.com/2020/11/27/wolf-in-the-rigveda/)

@@ -1,8 +1,11 @@
 +++
-title = "Akhanda Bharata – A Concept Inxa0Flux"
-date = "November 12, 2016"
+title = "Akhanda Bharata – A Concept In Flux"
+date = "2016-11-12"
+upstream_url = "https://aryaakasha.com/2016/11/12/akhanda-bharata-a-concept-in-flux/"
 
 +++
+Source: [here](https://aryaakasha.com/2016/11/12/akhanda-bharata-a-concept-in-flux/).
+
 ![main-qimg-95ecb5ec17b386c05ff3ac265732ac0b](https://aryaakasha.files.wordpress.com/2016/11/main-qimg-95ecb5ec17b386c05ff3ac265732ac0b.png?w=676)
 
 I’ve previously written a bit about the occasional bouts of revanchist

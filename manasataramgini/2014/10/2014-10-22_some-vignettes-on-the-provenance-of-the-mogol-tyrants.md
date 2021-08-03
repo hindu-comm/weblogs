@@ -1,7 +1,11 @@
 +++
 title = "Some vignettes on the provenance of the Mogol tyrants"
+date = "2014-10-22"
+upstream_url = "https://manasataramgini.wordpress.com/2014/10/22/some-vignettes-on-the-provenance-of-the-mogol-tyrants/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/10/22/some-vignettes-on-the-provenance-of-the-mogol-tyrants/).
+
 Published first in a slightly modified form at
 [IndiaFacts](http://www.indiafacts.co.in/origins-moghul-tyrants-india/#.VEcZzfnF_bw)
 
@@ -36,26 +40,26 @@ prognosticated something disastrous. His veterans knew that when they
 stood near Delhi, the astrologers had similarly said that a disaster
 awaited him. But then he had merely opened the Qoran and found a verse
 that he interpreted as prophesying his victory. He had thundered then:
-“*Neither good nor bad luck depends on the stars. I trust Allah, who
-has never yet abandoned me. What does it matter if the planets are in
-this or that constellation?*” Now again, Timur in his characteristic
-fashion brushed the astrologers aside. He was confident that the
-preparations he had made would not let him down on his march to Beijing
-– for every soldier he had provided two cows and ten goats that were
-to provide milk for the march and meat if the need arose. He had also
-assembled vast herds of female camels to supply the army with additional
-milk through the march. Thus, braving a winter more severe than any in
-the memory of his men, he pressed on. They had only reached as far as
-Otrar (modern Farab in Kazakhstan) when heavy snowfall prevented their
-advance. As they were waiting, the rigors of the winter, the unresolved
-illness, and age finally caught up with the tyrant. Drinking and poor
-diet aggravated his condition. He summoned Mewlana Fadl, whom his
-entourage thought to be the greatest doctor in the world, to treat him.
-However, with his drugs failing, Fadl claimed that putting ice on his
-patient’s chest would help him out. Rather, this made Timur get worse
-and soon he declared that he was seeing the promised houris calling him
-and that angel Israel was coming to take him to Allah. Thus, on 18
-February 1405 CE Timur died.
+“*Neither good nor bad luck depends on the stars. I trust Allah, who has
+never yet abandoned me. What does it matter if the planets are in this
+or that constellation?*” Now again, Timur in his characteristic fashion
+brushed the astrologers aside. He was confident that the preparations he
+had made would not let him down on his march to Beijing – for every
+soldier he had provided two cows and ten goats that were to provide milk
+for the march and meat if the need arose. He had also assembled vast
+herds of female camels to supply the army with additional milk through
+the march. Thus, braving a winter more severe than any in the memory of
+his men, he pressed on. They had only reached as far as Otrar (modern
+Farab in Kazakhstan) when heavy snowfall prevented their advance. As
+they were waiting, the rigors of the winter, the unresolved illness, and
+age finally caught up with the tyrant. Drinking and poor diet aggravated
+his condition. He summoned Mewlana Fadl, whom his entourage thought to
+be the greatest doctor in the world, to treat him. However, with his
+drugs failing, Fadl claimed that putting ice on his patient’s chest
+would help him out. Rather, this made Timur get worse and soon he
+declared that he was seeing the promised houris calling him and that
+angel Israel was coming to take him to Allah. Thus, on 18 February 1405
+CE Timur died.
 
 Before his invasion of India Timur was vacillating between targeting
 India and China. At the urging of his son, grandson and Amirs he decided
@@ -112,7 +116,7 @@ breaking it. This was until 1941 CE, when a team led by the famous
 Soviet anthropologist Mikhail Gerasimov was sanctioned by Stalin to go
 to Samarqand and dig up the graves of the Timurids. They did so in the
 following order:  
-1\) Ulugh Beg’s sons; 2) the Timur’s favorite grandson Mohammed Sultan;
+1) Ulugh Beg’s sons; 2) the Timur’s favorite grandson Mohammed Sultan;
 3) the two sons of Timur – Miran Shah and Shahrukh; 4) Ulugh Beg,
 Timur’s grandson via Shahrukh; 5) Finally Timur himself.
 
@@ -292,8 +296,8 @@ ardor of the steppe warrior. However, Timur pointed out the real
 objective behind their need to invade India: “*My object in the invasion
 of Hindustan is to lead an expedition against the infidels that,
 according to the law of Mohammed (upon whom and his family be the
-blessing and peace of Allah\!), we may convert the people of that
-country to the true faith and purify the land itself from infidelity and
+blessing and peace of Allah!), we may convert the people of that country
+to the true faith and purify the land itself from infidelity and
 polytheism, and that we may overthrow their temples and idols and become
 conquerors and crusaders before Allah.*” Hence, the Timurids from the
 inception did not see themselves as part of the Indian system but as
@@ -321,7 +325,7 @@ intentions for the invasion of India as he poetically remarks:
 “*For Islam’s sake I became a wanderer;  
 I battled Kāffars and Hindus.  
 I determined to become shahīd;  
-Thank Allah I became a Ghāzi\!*”
+Thank Allah I became a Ghāzi!*”
 
 Notably, in these attitudes of the Timurids are rather similar to those
 of the British conquerors of India – many of them expressed the same
@@ -397,3 +401,4 @@ Others:
 ● I would like to thank śrī sarveśa tivārī for providing the verse of
 poet bhūṣaṇa tripāṭhī  
 ● The Discovery of India by Jawaharlal Nehru
+

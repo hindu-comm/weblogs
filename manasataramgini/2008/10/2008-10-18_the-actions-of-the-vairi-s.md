@@ -1,7 +1,11 @@
 +++
 title = "The actions of the vairi-s"
+date = "2008-10-18"
+upstream_url = "https://manasataramgini.wordpress.com/2008/10/18/the-actions-of-the-vairi-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/10/18/the-actions-of-the-vairi-s/).
+
 On the 8th of the month the vairi sent the little imp, a cheTaka, to
 needle us. The cheTaka was repulsed and sent back. On 14th the cheTaka
 reappeared and broke through the first line of defense and was repulsed.
@@ -22,3 +26,4 @@ after we drove it with our last reserves of strength. However, since our
 fort had been breached we stood exposed to repeated cheTaka attacks. We
 were wondering if we should raise our sruk and sruva to should launch a
 counter-prayoga against vairi-s.
+

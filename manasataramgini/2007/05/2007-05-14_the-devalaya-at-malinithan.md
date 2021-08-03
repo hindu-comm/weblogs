@@ -1,7 +1,11 @@
 +++
 title = "The devAlaya at mAlinIthan"
+date = "2007-05-14"
+upstream_url = "https://manasataramgini.wordpress.com/2007/05/14/the-devalaya-at-malinithan/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/05/14/the-devalaya-at-malinithan/).
+
 One of the remarkable forgotten devAlaya-s of the eastern fringes of
 pragjyotiSha is that of mAlinIthan in the modern state of Arunachal
 Pradesh. ekanetra and me were rummaging through some old grainy photos
@@ -25,7 +29,7 @@ like in case of uchChiShTa-gaNapati.
 
 [![](https://i2.wp.com/bp3.blogger.com/_ZhvcTTaaD_4/RkgB1Y9MdSI/AAAAAAAAAI0/G8YmpGvj57w/s320/indra_malinithan1.jpg)](http://bp3.blogger.com/_ZhvcTTaaD_4/RkgB1Y9MdSI/AAAAAAAAAI0/G8YmpGvj57w/s1600-h/indra_malinithan1.jpg)[![](https://i0.wp.com/bp0.blogger.com/_ZhvcTTaaD_4/RkgB1o9MdTI/AAAAAAAAAI8/kigeqqlYYws/s320/indra_malinithan2.jpg)](http://bp0.blogger.com/_ZhvcTTaaD_4/RkgB1o9MdTI/AAAAAAAAAI8/kigeqqlYYws/s1600-h/indra_malinithan2.jpg)
 
-indra 
+indra
 
 The indra is of considerable interest in iconographic terms. His third
 eye on the fore seems horizontal as recommended in the shilpashAstra-s,
@@ -47,7 +51,7 @@ indra-dhvaja festival was observed in these regions.
 
 [![](https://i0.wp.com/bp0.blogger.com/_ZhvcTTaaD_4/RkgB1o9MdUI/AAAAAAAAAJE/LdHr1YEafYg/s320/viparIta_ratI.jpg)](http://bp0.blogger.com/_ZhvcTTaaD_4/RkgB1o9MdUI/AAAAAAAAAJE/LdHr1YEafYg/s1600-h/viparIta_ratI.jpg)
 
-kAlikA in viparIta-rati with li\~Nga 
+kAlikA in viparIta-rati with li\~Nga
 
 A sandstone icon of considerable interest in the mAlinIthan ruins is
 that of dakShiNa-kAlikA in viparIta-rati with a li\~Nga. The only
@@ -60,3 +64,4 @@ tantra-s, influence is seen in the form some of the iconographic details
 including the kAlikA and the vinAyaka. While at the same time the
 persistent survival of indra and kumAra worship is a unique feature of
 this region that needs more detailed study.
+

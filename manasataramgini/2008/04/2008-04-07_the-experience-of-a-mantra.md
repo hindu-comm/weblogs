@@ -1,7 +1,11 @@
 +++
 title = "The experience of a mantra"
+date = "2008-04-07"
+upstream_url = "https://manasataramgini.wordpress.com/2008/04/07/the-experience-of-a-mantra/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/04/07/the-experience-of-a-mantra/).
+
 There are certain things which only make sense to the insiders of the
 mantra-shAstra. To others it might appear to be a purely subjective
 matter, while to the practitioners there is a clear objectivity to it.
@@ -24,8 +28,8 @@ methods like a good sense of observation and mathematics or computation,
 and accumulate actual factual knowledge to be an effective scientist.
 Similar to science one needs to know the shAstra-s and study them in
 depth. Then one needs to do the experiments in the form of rituals
-–karma or yoga otherwise knowledge is not produced. Like in science
-one must realize that one could be wrong or that one may have incomplete
+–karma or yoga otherwise knowledge is not produced. Like in science one
+must realize that one could be wrong or that one may have incomplete
 knowledge. From approximation one proceeds to preciseness.
 
 For a practitioner of mantra-shAstra the experience of mantra-s is very
@@ -43,9 +47,10 @@ It was the great mantra of mAta\~NgI – saMgIta-yoginI – mantra-nAyikA
 invoked right in the middle of the geya-chakra with the pentagonal star
 and the golden triangle surrounded by the band of yoginI-s rising like a
 blazing sun over the oDDiyAna pITha. The effect is so intense and
-immediate\! The effect is the pure essence of the geya chakra, the
+immediate! The effect is the pure essence of the geya chakra, the
 essence of the great yoginI. You do not see her or yoginI band, but you
 are caught by the yoginI jAla. You are present immediately in oDDiyAna.
 You course through the world in the dimension of time and then in space.
 Each bIja’s expression is plainly seen by the sAdhaka and they comprise
 the form of the great mantrinI. The unity of forms is seen.
+

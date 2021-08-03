@@ -1,7 +1,11 @@
 +++
 title = "Miscellaneous points of note in the skanda-sadabhAva"
+date = "2008-07-31"
+upstream_url = "https://manasataramgini.wordpress.com/2008/07/31/miscellaneous-points-of-note-in-the-skanda-sadabhava/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/07/31/miscellaneous-points-of-note-in-the-skanda-sadabhava/).
+
 **kaumAra dIkSha:** The SS is one of the few surviving texts giving an
 account of the kaumAra dIkSha. In its general pattern it follows the
 dIkSha-s seen in the pA\~ncharAtra and saiddhAntika systems. In a pure
@@ -94,3 +98,4 @@ the kumuda-s, sha\~NkukarNa, puNDarIka, vAmana, sarvanetra, sumukha; 2)
 dhUrtasena and 1008 skanda troops; 3) shUrasena, ugrasena, shikhisena,
 jayasena, dyumatsena, chaNDasena, kunDAsena, vIrasena, pi\~Ngala and
 skandasena.
+

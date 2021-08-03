@@ -1,7 +1,11 @@
 +++
 title = "somadeva of AravIDu and the freedom struggle"
+date = "2005-10-09"
+upstream_url = "https://manasataramgini.wordpress.com/2005/10/09/somadeva-of-aravidu-and-the-freedom-struggle/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/10/09/somadeva-of-aravidu-and-the-freedom-struggle/).
+
 Around 1326 Mohammed ibn Tughlaq dispatched dispatched two Turkic ghazis
 Maliq Zada with an army from Gujarat and Majir Abu Rija from Devagiri to
 wage a jihad on kampiladeva rAja of Kampili. The rAja and his son, along
@@ -125,3 +129,4 @@ bAchaladevI.
 Thus, did the brave somadeva lead the Hindus in their historic struggle
 against the Moslems, after the Khaljis and Tughlaq had attempted to
 destroy the dharma.
+

@@ -1,7 +1,13 @@
 +++
 title = "Buitreraptor"
+date = "2005-10-17"
+upstream_url = "https://manasataramgini.wordpress.com/2005/10/17/buitreraptor/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/10/17/buitreraptor/).
+
+
+
 [![Posted by
 Picasa](https://i1.wp.com/photos1.blogger.com/pbp.gif)](http://picasa.google.com/blogger/)
 
@@ -19,7 +25,7 @@ branching sickle-clawed bird. Around the same time a fragmentary large
 dromeosaur, Unenlagia was uncovered in Argentina and was suggested to
 have links to Rahonavis. It combined peculiar features of both birds and
 dromeosaurs. Then earlier this year
-[Neuquenraptor](http://manasataramgini.wordpress.com/2005/02/neuquenraptor-argentinus-and.html)
+[Neuquenraptor](http://manollasa.blogspot.com/2005/02/neuquenraptor-argentinus-and.html)
 was reported suggesting the unambigous presence of a dromeosaurs in the
 Southern continents and showed features that linked them with their
 sister group the Troodontids into a monophyletic clade the
@@ -44,7 +50,7 @@ interesting subtle variations possible.
 More importantly the grouping of Rahonavis with the Unenlagia-like forms
 suggests that there were flying dromeosaurs in at least 2 of the clades:
 Rahonavis in the basal clade and
-[Microraptor](http://manasataramgini.wordpress.com/2005/02/adaptive-radiation-of-avian-and-para.html)
+[Microraptor](http://manollasa.blogspot.com/2005/02/adaptive-radiation-of-avian-and-para.html)
 in the more derived clade. In the sister group of the Dromeosaurs,
 Epidendrosaurus , too there is some evidence for aerodynamic abilities.
 The birds right from Archaeopteryx and Jeholopteryx have flight
@@ -62,4 +68,5 @@ Finally this raises the possibility that dromeosaurs could have actually
 flown from one continent to another during the early days of their
 breakup, thus making the geographic point of origin unclear.
 
-[](http://manasataramgini.wordpress.com/2005/02/neuquenraptor-argentinus-and.html)
+[](http://manollasa.blogspot.com/2005/02/neuquenraptor-argentinus-and.html)
+

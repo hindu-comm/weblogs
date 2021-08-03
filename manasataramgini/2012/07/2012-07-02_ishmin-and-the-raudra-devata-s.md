@@ -1,7 +1,11 @@
 +++
 title = "iShmin and the raudra devatA-s"
+date = "2012-07-02"
+upstream_url = "https://manasataramgini.wordpress.com/2012/07/02/ishmin-and-the-raudra-devata-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/07/02/ishmin-and-the-raudra-devata-s/).
+
 \[disclaimer: I tend to use Indicized spellings in most cases, which do
 not necessarily capture the Iranian pronunciation exactly. For my own
 Iranian studies I use the text of the avesta printed in an extended
@@ -12,8 +16,9 @@ shruti\].
 For background: [Iranian
 miscellany-1](https://manasataramgini.wordpress.com/2008/12/26/iranian-miscellany/)
 
-pra ye me bandhveShe gAM vochanta sUrayaH pR^ishniM vochanta mAtaram |  
-adhA pitaram iShmiNaM rudraM vochanta shikvasaH || RV 5.52.16
+pra ye me bandhveShe gAM vochanta sUrayaH pR^ishniM vochanta mAtaram
+\|  
+adhA pitaram iShmiNaM rudraM vochanta shikvasaH \|\| RV 5.52.16
 
 I asked of their relations, the rich ones named the cow, they declared
 pR^ishni as their mother;  
@@ -21,7 +26,7 @@ then the skilled ones declared the impetuous rudra as their father.
 
 In the zarathushtrian reconfiguration of the old dharma of the Arya-s we
 can discern several distinct events:  
-1\) In the amesha spenta-s we find an invention of new devatA-s, in part
+1) In the amesha spenta-s we find an invention of new devatA-s, in part
 to conceal the old ones. Thus, the abstractions of vohu-manaH, asha
 vahishta, and khshathra-vairiya are raised to devatA-s. The abstractions
 haurvatAt and amaratAt are used to conceal the old demonized twin
@@ -112,7 +117,7 @@ have a special incantation known as the daeva-smiting manthra in which
 aeshma is prominently mentioned:
 
 snathâi angrahe manyêush drvatô snathâi aêshmahe xrvîm-draosh snathâi
-mâzainyanãm daêvanãm snathâi vîspanãm daêvanãm |  
+mâzainyanãm daêvanãm snathâi vîspanãm daêvanãm \|  
 This to smite the evil angra manyu, and to smite aeshma of the bloody
 spear, and the mazainya daevas, and to smite vispa-daevas \[Footnote
 2\].
@@ -133,7 +138,7 @@ adha vaêibya ahubya vaêibya nô ahubya nipayå
 ýasca asti manahyô pairi drvatat mahrkât pairi drvatat aêshmât  
 pairi drvataêibyô haênêbyô ýå us xrûrem drafshem gerewnãn  
 aêshmahe parô draomêbyô ýå aêshmô duzhdå drâvayât  
-mat vîdhâtaot daêvô-dâtât ||
+mat vîdhâtaot daêvô-dâtât \|\|
 
 May you in both worlds, may you keep us, in both worlds, O mithra, lord
 of wide pastures, both in this real world and in the other one of the
@@ -200,23 +205,23 @@ fast-moving (gatiman) or rushing. While this captures a bit of the
 meaning, it might still be prudent to subject it to closer examination.
 
 The primary occurrences go thus:  
-te vAshImanta iShmiNo abhIravo vidre priyasya mArutasya dhAmnaH || RV
+te vAshImanta iShmiNo abhIravo vidre priyasya mArutasya dhAmnaH \|\| RV
 1.87.6cd
 
 They armed with axes, impetuous \[iShmin\] and fearless, have perceived
 the dear realm of the marut-s.
 
-adhA pitaram iShmiNaM rudraM vochanta shikvasaH || RV5.52.16cd
+adhA pitaram iShmiNaM rudraM vochanta shikvasaH \|\| RV5.52.16cd
 
 See opening
 
 yenA sahanta R^i\~njata svarochiSha sthArashmAno hiraNyayAH svAyudhAsa
-iShmiNaH || RV 5.87.05cd
+iShmiNaH \|\| RV 5.87.05cd
 
 Wherewith you charge, victorious, self-luminous, with firm reins, with
 gold ornaments, impetuous \[iShmin\] and with good weapons.
 
-svAyudhAsa iShmiNaH suniShkA uta svayaM tanvaH shumbhamAnAH || RV
+svAyudhAsa iShmiNaH suniShkA uta svayaM tanvaH shumbhamAnAH \|\| RV
 7.56.11ab
 
 With good weapons, impetuous \[iShmin\], they verily decorate their own
@@ -311,7 +316,7 @@ Footnote 2: We hold that the Iranian ‘snath-‘ for smite is the
 equivalent of shnath in saMskR^ita which is frequently used in the same
 sense in the veda. E.g.:
 
-indrAviShNU dR^iMhitAH shambarasya nava puro navatiM cha shnathiShTam |
+indrAviShNU dR^iMhitAH shambarasya nava puro navatiM cha shnathiShTam \|
 RV 7.99.05a  
 O indra and viShNu, you have smashed (shnathiShTam) the ninety nine
 fortified strongholds of shambhara.
@@ -323,8 +328,8 @@ mAhanya-devAH.
 Footnote 3: This parallel is well illustrated by the following mantra to
 the marut-s attributed to the patriarch of the kShatriya-s, manu
 vaivasvata:  
-saptAnAM sapta R^iShTayaH sapta dyumnAny eShAm | sapto adhi shriyo dhire
-|| RV 8.28.5
+saptAnAM sapta R^iShTayaH sapta dyumnAny eShAm \| sapto adhi shriyo
+dhire \|\| RV 8.28.5
 
 Belonging to the seven fold \[marut-s\] are the seven spears and the
 seven radiances; seven-fold fold powers they take on.
@@ -355,8 +360,9 @@ neither fire nor iron told upon themselves. These were called Berserker.
 
 Footnote 5: In a mantra of the atri-s deployed in the great offerings to
 the marut-s in the soma ritual they are thus invoked:  
-R^ikSho na vo marutaH shimIvAM amo dudhro gaur iva bhImayuH || RV
+R^ikSho na vo marutaH shimIvAM amo dudhro gaur iva bhImayuH \|\| RV
 5.56.3cd
 
 Strong as a bear, O marut-s, is your violent charge, terrible as a wild
 gaur.
+

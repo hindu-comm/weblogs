@@ -1,7 +1,11 @@
 +++
 title = "Bajirao-I, 1737, tulughama and the like"
+date = "2008-09-24"
+upstream_url = "https://manasataramgini.wordpress.com/2008/09/24/bajirao-i-1737-tulughama-and-the-like/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/09/24/bajirao-i-1737-tulughama-and-the-like/).
+
 The collections of unedited and unpublished bakhars from the Shaniwar
 fort give an account of that brief period when the brAhmaNa general
 Bajirao-I raised the Maharattas to their pinnacle. It was a momentous
@@ -26,32 +30,32 @@ In particular a detailed comparison of the Maharatta movements under
 Bajirao-I and the tulughama and mangudai (feign disorderly retreat) of
 the Mongols would be useful.  
 The algorithm of the basic Mongol attack was thus:  
-\-Once an engagement was decided the tuemen advanced in 5 single lines,
+-Once an engagement was decided the tuemen advanced in 5 single lines,
 with each line closely packed.  
-\-The lines were separated between themselves by as much 150 meters to
+-The lines were separated between themselves by as much 150 meters to
 give horse men enough room for the acceleration.  
-\-The first two lines were armored heavy cavalry with specialists in
+-The first two lines were armored heavy cavalry with specialists in
 close combat and use of diverse weapons, the remaining three with light
 cavalry mainly archers.  
-\-The light cavalry first attacked upon closing on the enemy by moving
+-The light cavalry first attacked upon closing on the enemy by moving
 through the gaps in the two heavy lines and also firing over the heads
 of the heavy lines when sufficiently close to the enemy. The light
 cavalry would swoop upon the enemy ranks repeated firing and retreat.  
-\-When the rate of fire from the light cavalry reached a crescendo, they
+-When the rate of fire from the light cavalry reached a crescendo, they
 broke off and the heavy cavalry charged to deliver a frontal assault in
 the enemy force.  
-\-If the enemy pursued the light cavalry they would divert their retreat
+-If the enemy pursued the light cavalry they would divert their retreat
 paths in such a way that they would direct the flank of the enemy to the
 waiting heavy cavalry, which would then deliver a punch.  
-\-If the enemy remained unfazed by the light cavalry attack then they
+-If the enemy remained unfazed by the light cavalry attack then they
 would use the tulughama.  
-\-Here the light cavalry would first fall back and the first line of
+-Here the light cavalry would first fall back and the first line of
 heavy cavalry would assault the enemy head-on. At that time the light
 cavalry would ride around the heavy cavalry and attack the enemy on both
 the flanks and try encirclement.  
-\-When the enemies showed confusion and dispersed to respond to the
-light cavalry attacking the flanks. The second line of heavy cavalry
-would move into reinforce the first and deliver the coup de grace.
+-When the enemies showed confusion and dispersed to respond to the light
+cavalry attacking the flanks. The second line of heavy cavalry would
+move into reinforce the first and deliver the coup de grace.
 
 We suspect that from all available information the assault at Bhopal by
 Bajirao-I followed the above pattern with the final encirclement and
@@ -64,3 +68,4 @@ perfecting it till it reached a culmination in the mind of the great
 Chingiz Kha’Khan. But how did Bajirao-I develop it: Was it convergent
 evolution or was he in possession of historical details of the Mongol
 campaigns that helped him in emulating them?
+

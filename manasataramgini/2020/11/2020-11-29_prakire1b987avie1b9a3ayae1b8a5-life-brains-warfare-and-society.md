@@ -1,7 +1,11 @@
 +++
-title = "Prakīrṇaviṣayāḥ: Life, brains, warfare andxa0society"
+title = "Prakīrṇaviṣayāḥ: Life, brains, warfare and society"
+date = "2020-11-29"
+upstream_url = "https://manasataramgini.wordpress.com/2020/11/29/prakir%e1%b9%87avi%e1%b9%a3aya%e1%b8%a5-life-brains-warfare-and-society/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2020/11/29/prakir%e1%b9%87avi%e1%b9%a3aya%e1%b8%a5-life-brains-warfare-and-society/).
+
 **1 On big brains**  
 An occidentally conditioned person remarked that “we were making bad use
 of the great brains we have evolved. Instead of using it for human
@@ -67,7 +71,7 @@ the expansion of the human brain.
 
 Recent studies providing constraints on the distribution of earth-like
 exo-planets suggest that there must be ![\\le 6 \\times
-10^9](https://s0.wp.com/latex.php?latex=%5Cle+6+%5Ctimes+10%5E9&bg=ffffff&fg=333333&s=0&c=20201002 "\le 6 \times 10^9")
+10^9](https://s0.wp.com/latex.php?latex=%5Cle+6+%5Ctimes+10%5E9&bg=ffffff&fg=333333&s=0&c=20201002)
 stars with Earth-like planets in the Milky Way. This is a large enough
 number that it brings home the reality of Fermi’s paradox: “If there are
 extra-solar system civilizations why have we not heard from them yet?”

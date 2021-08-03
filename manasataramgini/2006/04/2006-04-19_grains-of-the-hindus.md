@@ -1,7 +1,11 @@
 +++
 title = "Grains of the Hindus"
+date = "2006-04-19"
+upstream_url = "https://manasataramgini.wordpress.com/2006/04/19/grains-of-the-hindus/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/04/19/grains-of-the-hindus/).
+
 Driven by the curse of khANDava we were wandering. We decided to drown
 our sorrows in an early dinner at the dimly lit haunt of yore. We spoke
 about the traditional grains of the Hindus– we of course debated the
@@ -69,3 +73,4 @@ siddhArtha
 dhAnyaka
 
 shyAmAka
+

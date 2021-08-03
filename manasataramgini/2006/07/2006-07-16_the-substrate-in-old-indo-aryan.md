@@ -1,7 +1,11 @@
 +++
 title = "The substrate in Old Indo-Aryan"
+date = "2006-07-16"
+upstream_url = "https://manasataramgini.wordpress.com/2006/07/16/the-substrate-in-old-indo-aryan/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/07/16/the-substrate-in-old-indo-aryan/).
+
 Over the past century Western as well as Hindu investigators have noted
 the substrate in Indo-Aryan. However, identifying its origin has been
 largely left to the speculative whims of the worker. Dravidian and
@@ -79,3 +83,4 @@ kulaka: A gourd
 kula\~Nja: Alpinia galanga (A plant)
 
 So it would appear that there was lot of cackle in old India.
+

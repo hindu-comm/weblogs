@@ -1,12 +1,16 @@
 +++
 title = "The matta-mayUra vaMsha of mantra mArga siddhAntin-s"
+date = "2006-12-10"
+upstream_url = "https://manasataramgini.wordpress.com/2006/12/10/the-matta-mayura-vamsha-of-mantra-marga-siddhantin-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/12/10/the-matta-mayura-vamsha-of-mantra-marga-siddhantin-s/).
+
 An important, but neglected aspect of the history of India before the
 cataclysmic Islamic interruption, was the role played by the
 mantra-mArga siddhAnta shaiva-s in the unification of the country. We
 had earlier spoken of our historical clansman, the great
-[varmashiva](http://manasataramgini.wordpress.com/2006/06/varmashiva.html) of
+[varmashiva](http://manollasa.blogspot.com/2006/06/varmashiva.html) of
 vodAmayUtA, who converted to this lineage of shaiva-s and had
 considerable influence with the royal patron of his age. But this just
 one point in the broader scheme of things. A truly influential but now
@@ -41,7 +45,7 @@ darshana and developed the Hindu atomic theory. In this line came
 lambakarNa, who migrated to dhAra, the capital of the paramAras and
 founded the gorATika maTha. This maTha became associated with
 [bhoja-deva
-paramara](http://manasataramgini.wordpress.com/2005/12/raja-bhoja-glory-and-tragedy-of.html),
+paramara](http://manollasa.blogspot.com/2005/12/raja-bhoja-glory-and-tragedy-of.html),
 one of the greatest kings of the world, who wrote the famed work on the
 siddhAnta doctrines known as the tattva prakAsha. In this line of the
 matta-mayUravaMsha arose vimala-shiva and his successor the illustrious
@@ -59,7 +63,7 @@ we have is the original work of his. Provided below is the list of
 prayogas that need to be mastered by a mantra-mArga shaiva as per the
 tradition of IshAna shiva (described in the mantra pAda section of his
 massive paddhati):  
-1\) prapa\~ncha gaNapati 2) mahAgaNapati 3) vinAyaka ekAkShara mantra 4)
+1) prapa\~ncha gaNapati 2) mahAgaNapati 3) vinAyaka ekAkShara mantra 4)
 siddhivinAyaka 5) uchChiShTa vighneshvara 6) dashabhuja gaNapati 7)
 tripurA-saMgraha 8) haMsa-vAgIshvarI 9) dashAkShara vAgIshvarI 10)
 siddha-vAgIshvarI 11) shrI-hR^idaya 12) sAmAnya shakti-pUja 13)
@@ -114,3 +118,4 @@ to it. The chera magician seems to have directly provided the material
 from this work in the TSS rather than abbreviating it as done by
 ishAna-shiva in his mantra-pAda. In contrast he seems to have contracted
 the ishAna-shiva mantra pAda in composing his mantra section in the TSS.
+

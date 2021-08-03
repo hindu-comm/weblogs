@@ -1,7 +1,11 @@
 +++
 title = "śūlapuruṣasya vicāraḥ"
+date = "2016-08-31"
+upstream_url = "https://manasataramgini.wordpress.com/2016/08/31/sulapuru%e1%b9%a3asya-vicara%e1%b8%a5/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2016/08/31/sulapuru%e1%b9%a3asya-vicara%e1%b8%a5/).
+
 Somakhya’s cousin Babhru and his family was visiting him during the
 vacation before they were to join university. After lunch he convinced
 Vidrum and Sharvamanyu to come over to his house when they got the
@@ -30,7 +34,7 @@ vairāgya you have been receiving.”
 Vidrum picked up the book from Somakhya’s shelf and read out the opening
 vākya: “makaradhvaja-ratibhyāṃ namaḥ । kandarpamusalo vā kāmāyudho vā
 madanāṅkuśo vā +ānandasya daryā dvāra-bhettā ।” Babhru and Sharvamanyu:
-“Man\! This guy Kucumāra wastes no time getting on with business\!”
+“Man! This guy Kucumāra wastes no time getting on with business!”
 
 Sharvamanyu: “Guys may be we should get started to see the historical
 museum at the university. If we leave right away we might get an hour
@@ -81,7 +85,7 @@ for the meticulous records of the Mohammedan historians cataloged by the
 likes of Sarkar.”  
 Somakhya: “Well I can confirm from this account from the mouth of the
 Mohammedan himself. It is said that the Shaikh Ali Pehlavan was a giant
-sūfī who was the  head of a forward volunteer force of the Khalji’s
+sūfī who was the head of a forward volunteer force of the Khalji’s
 jihad into south India well before the main army. Even as the Turks were
 still consolidating in the north he led one of the first jihads into
 south India, which I am sure none of your eminent historians in Delhi
@@ -124,7 +128,7 @@ means to be in the middle of a life and death struggle with a
 blood-curdling, blood-spilling Pehlavan of a sūfī and his murderous
 fellow beards who have just burst into your village to seize your
 women?”  
-Sharvamanyu: “Well said indeed\! I’m reminded of Lootika’s sister
+Sharvamanyu: “Well said indeed! I’m reminded of Lootika’s sister
 Vrishchika’s remark about our mathematically gifted classmate Hemalinga:
 ‘aiming for rigor he reduces the otherwise lively subject to a corpse
 with rigor mortis’.”  
@@ -166,9 +170,9 @@ on her computer. Having located the relevant parts Somakhya asked her to
 read it out aloud.
 
 Lootika remarked that it was very prolix and heavy prose and read on:
-“*Lastly, the words History and Nature are here employed, as the
-reader will have observed already, in a quite definite and hitherto
-unusual sense. These words comprise possible modes of understanding, of
+“*Lastly, the words History and Nature are here employed, as the reader
+will have observed already, in a quite definite and hitherto unusual
+sense. These words comprise possible modes of understanding, of
 comprehending the totality of knowledge — becoming as well as
 things-become, life as well as things-lived — as a homogeneous,
 spiritualized, well-ordered world-picture fashioned out of an
@@ -224,9 +228,9 @@ discussion you narrated involving your cousin and friends. Now it would
 seem to many minds these two are not bridgeable and they reside in one
 or other realm…”
 
-Somakhya: “Wait Gautamī\! While I am often amused or should I say
-saṃhṛṣṭa by the points where we seem to so naturally converge, I
-must ask you to pay more careful attention to the following: ‘*…A
+Somakhya: “Wait Gautamī! While I am often amused or should I say
+saṃhṛṣṭa by the points where we seem to so naturally converge, I must
+ask you to pay more careful attention to the following: ‘*…A
 homogeneous, spiritualized, well-ordered world-picture fashioned out of
 an indivisible mass-impression in this way or in that according as the
 becoming or the become… And it is not a question of one factor being
@@ -267,10 +271,10 @@ reduced to system: the organism of a pure history-picture, like the
 world of Plotinus, Dante and Giordano Bruno, is intuitively seen,
 inwardly experienced, grasped as a form or symbol and finally rendered
 in poetical and artistic conceptions.*”  
-She continued: “Aurva, the history that your cousin took to be real
+She continued: “Aurva, the history that your cousin took to bereal
 history would be the one of the śūla-puruṣa’s pure nature-picture while
 that which declared as non-history by him and his professor would be the
-śarmaṇya’s history-picture\! Rather paradoxical indeed. Thus, we see two
+śarmaṇya’s history-picture! Rather paradoxical indeed. Thus, we see two
 starkly different apprehensions of history.”
 
 Somakhya: “What I posit are that these two are parts of a spectrum that
@@ -338,25 +342,25 @@ subjectivity. Indeed at the center-right debate club which Vrishchika
 and I attended there was the talk of convincing white indologists by
 writing objective rebuttals. It struck me that it was not at all an
 issue of facts per say.”  
-Somakhya: “hanta\! I was not spared of that either. It was none other
+Somakhya: “hanta! I was not spared of that either. It was none other
 than our friends Sharvamanyu and Vidrum who tried to seek my assistance
 in writing such material to post on the internet. You are right; now
 this is what the śūlapuruṣa alluded to when he talks of the same
-‘*object or corpus of facts*‘ being differently apprehended by
-different people. The white indologist and their native or Japanese
-imitators are never going to ever see it like you or me do
-notwithstanding the number of additional facts we bring to the table.
-The same things will always produce the same divergent images in them
-and in us. And if you were to think that is purely subjective, I would
-say that it is not necessarily the case: In fact it is rather notable
-that the same body of facts will produces tolerably predictably
-divergent images in the two groups. In the past there were mleccha
-historians who could see the facts in large part like ourselves – e.g.
-Kincaid or Tod, which would also argue against pure subjectivity. When a
-modern mleccha claims to be ‘correcting’ these earlier mleccha-s through
-his revised understanding he is indeed falling into the misapprehension
-the śūlapuruṣa had raised. That is why I admit that he has point when he
-says history is not just the spade-work of the facts.”
+‘*object or corpus of facts*‘ being differently apprehended by different
+people. The white indologist and their native or Japanese imitators are
+never going to ever see it like you or me do notwithstanding the number
+of additional facts we bring to the table. The same things will always
+produce the same divergent images in them and in us. And if you were to
+think that is purely subjective, I would say that it is not necessarily
+the case: In fact it is rather notable that the same body of facts will
+produces tolerably predictably divergent images in the two groups. In
+the past there were mleccha historians who could see the facts in large
+part like ourselves – e.g. Kincaid or Tod, which would also argue
+against pure subjectivity. When a modern mleccha claims to be
+‘correcting’ these earlier mleccha-s through his revised understanding
+he is indeed falling into the misapprehension the śūlapuruṣa had raised.
+That is why I admit that he has point when he says history is not just
+the spade-work of the facts.”
 
 Lootika: “This brings me to a peculiar situation. The center-right
 fellows had called a banker patronized by the current government of
@@ -438,10 +442,10 @@ the keener glance can detect those pure forms which underlie all human
 becoming, penetrate their cloud-mantle, and bring them unwillingly to
 unveil.*‘ This would almost sound like Yājñavalkya-s conclusion to the
 śruti of the Vājasaneyin-s where he calls upon the deva Puṣaṇ:
-‘hiraṇmayena pātreṇa satyasyāpihitaṃ mukham । tat tvaṃ puṣann
-apāvṛṇu satya-dharmāya dṛṣṭaye ।‘ (The face of the true is
-concealed by a golden vessel O Puṣaṇ uncover that so that we may see the
-nature of the true.).”
+‘hiraṇmayena pātreṇa satyasyāpihitaṃ mukham । tat tvaṃ puṣann apāvṛṇu
+satya-dharmāya dṛṣṭaye ।‘ (The face of the true is concealed by a golden
+vessel O Puṣaṇ uncover that so that we may see the nature of the
+true.).”
 
 Somakhya: “Ah there āṅgirasī you seem to be at doorstead of the method:
 This is what was expounded by JW von Goethe in his difficult to
@@ -455,11 +459,11 @@ fundamental perception of the Urphänomen or the archetypal phenomenon
 and this would be the self-evident manifestation of the natural law.
 This has been related to the very sense in which the intellectuals of
 the yavana-s of yore used the word theorio – to behold – what the
-śūlapuruṣa Werner Heisenberg pointed as mapping to the episteme and
-the dianoia of the Platonists. Heisenberg says: ‘*Episteme is precisely
-that immediate awareness at which one can halt and behind which there is
-no need to seek anything further. Dianoia is the ability to analyze in
-detail, the result of logical deduction \[Footnote 1\].*‘ Of the former
+śūlapuruṣa Werner Heisenberg pointed as mapping to the episteme and the
+dianoia of the Platonists. Heisenberg says: ‘*Episteme is precisely that
+immediate awareness at which one can halt and behind which there is no
+need to seek anything further. Dianoia is the ability to analyze in
+detail, the result of logical deduction \[Footnote 1\].*‘Of the former
 we would say: tasya dṛṣṭyāṃ parokṣaṃ pratyakṣaṃ bhavati ।. It was such a
 process by which Goethe apprehended the basis of homeotic transformation
 of floral whorls to arrive at the theory of the origin of flowers (his
@@ -490,8 +494,8 @@ of all old Charles had to offer.”
 Later that evening as Somakhya was returning home Lootika accompanied
 him till the point where the road lead to Vidrum’s house. There they met
 Vidrum who described how Sharvamanyu had had an encounter with some
-marūnmatta-s from the dargah of Mohammadwadi who were about to engage
-in arson of vehicles – a tumultuous tale for another occasion.
+marūnmatta-s from the dargah of Mohammadwadi who were about to engage in
+arson of vehicles – a tumultuous tale for another occasion.
 
 Vidrum: “The debate with Babhru the other day resulted in us wandering
 away from the matter of ghāzī sūfī-s. I was wanting to ask you to give
@@ -529,12 +533,11 @@ to that of the ghāzī, even as a fungus switches its mating type – such
 indeed was the genesis of the ghāzī Tipu Sultan in south India. Our
 people have reached such state of depravity that the word bābā, which
 applied to such knaves has now become the appellation of choice of
-pāṣaṇḍa-s among our peoples. Indeed the original bābā-s
-contributed much to the emergence of a culture of intellectual
-non-achievement both in the Turkic-Mongol zone as well as India with
-these tendencies rubbing onto the Hindus. Thus, even if an Ulugh Beg
-were to arise he would be quickly replaced by mad fuckeers who are worth
-nothing.
+pāṣaṇḍa-s among our peoples. Indeed the original bābā-s contributed much
+to the emergence of a culture of intellectual non-achievement both in
+the Turkic-Mongol zone as well as India with these tendencies rubbing
+onto the Hindus. Thus, even if an Ulugh Beg were to arise he would be
+quickly replaced by mad fuckeers who are worth nothing.
 
 Now, this is not limited to the third Abrahamism; cognates of these
 exist within the second in the form of the Templar knights and other
@@ -562,3 +565,4 @@ theory of color and scientific intuition” by AG Zajonc in American
 Journal of Physics, 44, 4: 327-333  
 \[2\] “The Scientific Studies” by Goethe, Johann Wolfgang von edited and
 translated by D. Miller
+

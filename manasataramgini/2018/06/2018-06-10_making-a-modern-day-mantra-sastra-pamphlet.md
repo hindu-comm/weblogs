@@ -1,7 +1,11 @@
 +++
 title = "Making of a modern-day mantra-śāstra pamphlet"
+date = "2018-06-10"
+upstream_url = "https://manasataramgini.wordpress.com/2018/06/10/making-a-modern-day-mantra-sastra-pamphlet/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2018/06/10/making-a-modern-day-mantra-sastra-pamphlet/).
+
 Originally, all mantra instructions were oral, keeping with the spirit
 of the śruti. But over time, starting probably around the Mauryan age,
 written manuals began to supplement the oral teachings. Thus, through
@@ -24,9 +28,10 @@ converter (<http://www.learnsanskrit.org/tools/sanscript>). The font for
 the Devanagari script is the Siddhanta font of Mihail Bayaryn. The
 manual presented here is a reasonably comprehensive discourse on “[The
 Sāvitrī and the upāsanā of the Deva
-Savitṛ](https://app.box.com/s/t3g6ur615xk6mrno2r8lcs5m2h5am11v)” (pdf
-format). It is primarily aimed at a serious student with some
+Savitṛ](https://github.com/somasushma/tex-files/blob/master/pdf/Savitri.pdf)”
+(pdf format). It is primarily aimed at a serious student with some
 familiarity with the śruti.
 
 The source .tex file may be obtained
-[here](https://app.box.com/s/60byi2plbdnbf9oao3qbe1dse11o1yqw).
+[here](https://github.com/somasushma/tex-files/blob/master/saavitrii/Savitri.tex).
+

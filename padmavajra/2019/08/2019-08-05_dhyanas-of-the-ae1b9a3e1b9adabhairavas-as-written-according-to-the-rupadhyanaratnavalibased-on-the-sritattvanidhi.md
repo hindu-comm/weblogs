@@ -1,8 +1,11 @@
 +++
-title = "Dhyānas of the Aṣṭabhairavas as written according to the Rūpadhyānaratnāvalī(based on thexa0Śrītattvanidhi)"
-date = "2019-08-05"
+title = "Dhyānas of the Aṣṭabhairavas as written according to the Rūpadhyānaratnāvalī(based on the Śrītattvanidhi)"
+date = "2019-05-08"
+upstream_url = "https://padmavajra.net/2019/08/05/dhyanas-of-the-a%e1%b9%a3%e1%b9%adabhairavas-as-written-according-to-the-rupadhyanaratnavalibased-on-the-sritattvanidhi/"
 
 +++
+Source: [here](https://padmavajra.net/2019/08/05/dhyanas-of-the-a%e1%b9%a3%e1%b9%adabhairavas-as-written-according-to-the-rupadhyanaratnavalibased-on-the-sritattvanidhi/).
+
 [Śrīnāgacandreśvarāya](http://www.kamakotimandali.com/blog/index.php?p=1582&more=1&c=1&tb=1&pb=1)
 namaḥ \|
 

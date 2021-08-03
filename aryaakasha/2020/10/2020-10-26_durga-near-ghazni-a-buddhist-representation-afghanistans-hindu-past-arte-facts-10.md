@@ -1,8 +1,11 @@
 +++
-title = "Durga Near Ghazni – A “Buddhist” Representation Afghanistan’s Hindu Past – Arte-Factsxa0#10"
-date = "October 26, 2020"
+title = "Durga Near Ghazni – A “Buddhist” Representation Afghanistan’s Hindu Past – Arte-Facts #10"
+date = "2020-10-26"
+upstream_url = "https://aryaakasha.com/2020/10/26/durga-near-ghazni-a-buddhist-representation-afghanistans-hindu-past-arte-facts-10/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/10/26/durga-near-ghazni-a-buddhist-representation-afghanistans-hindu-past-arte-facts-10/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/10/b_mnaor-3653-ts-1145_0.jpg?w=789)
 
 ![](https://aryaakasha.files.wordpress.com/2020/10/c_durga-reconstruction_neu_geschn_0.png?w=556)

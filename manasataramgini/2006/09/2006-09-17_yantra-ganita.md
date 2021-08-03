@@ -1,9 +1,13 @@
 +++
 title = "yantra gaNita"
+date = "2006-09-17"
+upstream_url = "https://manasataramgini.wordpress.com/2006/09/17/yantra-ganita/"
 
 +++
-All polygons with n\>4 are vector polygons because they occur as
-families of polygons i.e the polygon and its stars (or n-grams)
+Source: [here](https://manasataramgini.wordpress.com/2006/09/17/yantra-ganita/).
+
+All polygons with n>4 are vector polygons because they occur as families
+of polygons i.e the polygon and its stars (or n-grams)
 
 [![](https://i2.wp.com/photos1.blogger.com/blogger/2010/410/320/definitions.png)](http://photos1.blogger.com/blogger/2010/410/1600/definitions.png)
 
@@ -12,7 +16,7 @@ chiefly used in yantra construction. All regular polygons are described
 with the notation P {n,k}. P{n}, where k=1 is the regular convex
 polygon. Higher k results in stars. The polygons are inscribed in
 circles where the radius r=1 unit. Each polygon in the family has an
-edge-length, AB=l1; A’B’=l2 etc. The pairs of polygons for n\>=5 are
+edge-length, AB=l1; A’B’=l2 etc. The pairs of polygons for n>=5 are
 described by pairs of vectors whose diagonal flanking elements=1 (shown
 in the figure). The number of roots of the characteristic equation of
 the vector i.e. :  
@@ -69,5 +73,6 @@ The characteristic equations also have a symmetry with respect to the
 number of sides of the polygon. Thus the pentagon is x^2-5\*x-5=0;
 heptagon is x^3-7\*x^2+14\*x-7=0  
 This relationship for the heptagon was described by
-[Kepler](http://manasataramgini.wordpress.com/2005/08/johannes-kepler.html)
+[Kepler](http://manollasa.blogspot.com/2005/08/johannes-kepler.html)
 with much amazement.
+

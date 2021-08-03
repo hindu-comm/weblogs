@@ -1,7 +1,11 @@
 +++
 title = "The rise of Timur-i-Leng"
+date = "2003-02-15"
+upstream_url = "https://manasataramgini.wordpress.com/2003/02/15/the-rise-of-timur-i-leng/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/02/15/the-rise-of-timur-i-leng/).
+
 As I stated before I have begun my compilation of the history of the
 Turko-Mongol conqueror Timur i lang from a variety of scholarly sources.
 Understanding Timur has several dimensions for the connoisseurs of
@@ -204,3 +208,4 @@ very shock of Timur galloping after him. Urgench was taken and its
 population was slaughtered to man by the slitting of the throats as
 Timur piously explained to the Ulema that he was putting the fear of
 Allah into people’ minds.
+

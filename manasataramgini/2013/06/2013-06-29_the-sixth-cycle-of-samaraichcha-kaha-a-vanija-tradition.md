@@ -1,7 +1,11 @@
 +++
 title = "The sixth cycle of samarAichcha kahA: a vaNija tradition"
+date = "2013-06-29"
+upstream_url = "https://manasataramgini.wordpress.com/2013/06/29/the-sixth-cycle-of-samaraichcha-kaha-a-vanija-tradition/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/06/29/the-sixth-cycle-of-samaraichcha-kaha-a-vanija-tradition/).
+
 The jaina AchArya haribhadra sUri collected a series of old tales and
 presented them in a didactic form for emphasizing jaina principles in
 the novel known as the samarAichcha kahA. It was written in a vulgar
@@ -102,3 +106,4 @@ been living with suvadaNa. So he arrested suvadaNa who finally confessed
 the whole plot. But lachChI who had escaped to the forest was eaten by a
 lion and proceeded to naraka. Eventually dharaNa committed suicide and
 attained the deva realm.
+

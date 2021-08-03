@@ -1,7 +1,11 @@
 +++
 title = "Exploring the history of Hindu festivals: the ancient strands of Holākā"
+date = "2015-03-07"
+upstream_url = "https://manasataramgini.wordpress.com/2015/03/07/exploring-the-history-of-hindu-festivals-the-ancient-strands-of-holaka/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/03/07/exploring-the-history-of-hindu-festivals-the-ancient-strands-of-holaka/).
+
 [Updated version of article published originally at
 IndiaFacts](http://indiafacts.co.in/exploring-the-history-of-hindu-festivals-the-ancient-strands-of-holaka/)
 
@@ -58,14 +62,14 @@ additional observations.
 
 The earliest mention of Holākā is in the 18th pariśiṣṭha of the
 Atharvaveda in the form a brief sūtra:  
-*atha phālgunyāṃ paurṇamāsyāṃ rātrau Holākā ||* AV 18.12.1  
+*atha phālgunyāṃ paurṇamāsyāṃ rātrau Holākā \|\|* AV 18.12.1  
 Now on the night of the phālguni full moon is Holākā.
 
 This continues to be its date of observance to the current day. The
 verse of the Gāthasaptaśati of the Andhra king Hāla refers to getting
 “dirty” in the phālguṇi festival:  
-*phālgunotsava-nirdoṣaṃ kenāpi kardama prasādhanaṃ dattam |*  
-* stana-kalaśa-mukha-praluṭhat sveda-dhautam kimiti dhāvayasi ||*
+*phālgunotsava-nirdoṣaṃ kenāpi kardama prasādhanaṃ dattam \|*  
+* stana-kalaśa-mukha-praluṭhat sveda-dhautam kimiti dhāvayasi \|\|*
 37/4.69 (provided in Sanskrit for easier understanding)
 
 \[The man addressing his female friend says\]:  
@@ -76,10 +80,10 @@ by the sweat flowing off the nipples of your pitcher-like breasts?
 
 The preparation of powder for throwing in the festival is also alluded
 to in the same context in the Gāthasaptaśati  
-*mukha-puṇḍarīkac-chāyāyāṃ saṃsthitau paśyata rājahaṃsāviva |*  
-*kṣaṇa-piṣṭa-kuṭṭanocchalita-dhūli-dhavalau stanau vahati || *39/6.24
+*mukha-puṇḍarīkac-chāyāyāṃ saṃsthitau paśyata rājahaṃsāviva \|*  
+*kṣaṇa-piṣṭa-kuṭṭanocchalita-dhūli-dhavalau stanau vahati \|\|*39/6.24
 
-Look\! Sitting in the shadow of the lotus which is her face,  
+Look! Sitting in the shadow of the lotus which is her face,  
 dusted by the powder thrown up as she grinds for the festival,  
 are her two fair breasts sitting like a pair of royal swans.
 
@@ -87,13 +91,13 @@ Not unexpectedly, such frolicking in the festival could have negative
 consequences. Indeed, a Mahārāṣṭrī Prākṛta gātha attributed to the same
 work of the Andhra monarch preserved only in the Telugu country
 sarcastically states:  
-*khaṇa-piṭṭha-dhūsara-tthaṇi mahu-maataṃb-acchi kuvala-ābharaṇe |*  
-* kaṇṇa-gaa-cūa-maṃjari putti tue maṃḍio gāmo ||* 38/8.26
+*khaṇa-piṭṭha-dhūsara-tthaṇi mahu-maataṃb-acchi kuvala-ābharaṇe \|*  
+* kaṇṇa-gaa-cūa-maṃjari putti tue maṃḍio gāmo \|\|* 38/8.26
 
 With breasts colored by the festival’s powder,  
 eyes showing intoxication by liquor,  
 with a lotus as ornament and mango shoot behind the ear,  
-you are, girl, a real honor to our village\!
+you are, girl, a real honor to our village!
 
 Thus, one may say that by the beginning of the Common Era when the
 Andhra-s held sway, the key elements which define Holākā were already in
@@ -130,8 +134,8 @@ mantra is practiced to bring welfare to the settlement.
 Several variants of this basic form of the festival are seen in medieval
 manuals for festivals. The Jyotir-nibandha specifies that the fire for
 the Holākā pyre should be brought by children from the house of a
-caṇḍāla woman who has just given birth. It mentions an effigy of
-Ḍheṇḍhā along with a five-colored flag being set up for burning. The
+caṇḍāla woman who has just given birth. It mentions an effigy of Ḍheṇḍhā
+along with a five-colored flag being set up for burning. The
 Puruṣārtha-cintāmaṇi additionally specifies a cattle race at midday for
 the Holākā festival. A paddhati from the Tamil country specifies that
 scorpions, snakes and centipedes are made out of molasses and thrown
@@ -200,3 +204,4 @@ conduits for Abrahamistic memes.
 Footnote 1: In dhammapada 2.4 the buddha Gautama criticizes the festival
 celebrated in Śrāvastī as one of fools making particular reference to
 the coarse language being used in the celebrations.
+

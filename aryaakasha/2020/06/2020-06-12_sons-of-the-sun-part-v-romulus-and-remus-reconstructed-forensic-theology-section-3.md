@@ -1,8 +1,11 @@
 +++
-title = "Sons of the Sun Part V: Romulus And Remus Reconstructed: Forensic Theology [Sectionxa03]"
-date = "June 12, 2020"
+title = "Sons of the Sun Part V: Romulus And Remus Reconstructed: Forensic Theology [Section 3]"
+date = "2020-06-12"
+upstream_url = "https://aryaakasha.com/2020/06/12/sons-of-the-sun-part-v-romulus-and-remus-reconstructed-forensic-theology-section-3/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/06/12/sons-of-the-sun-part-v-romulus-and-remus-reconstructed-forensic-theology-section-3/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/06/romulus-and-remus.jpg?w=500)
 
   

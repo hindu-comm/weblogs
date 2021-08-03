@@ -1,17 +1,21 @@
 +++
 title = "siddhAnta tantrics and the mainstream brahminical path"
+date = "2006-06-23"
+upstream_url = "https://manasataramgini.wordpress.com/2006/06/23/siddhanta-tantrics-and-the-mainstream-brahminical-path/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/06/23/siddhanta-tantrics-and-the-mainstream-brahminical-path/).
+
 I have yarned a lot on this topic from different angles: [1) The
 shaivas: the
-pAshupata-s](http://manasataramgini.wordpress.com/2006/05/shaivas-pashupata-s.html)
+pAshupata-s](http://manollasa.blogspot.com/2006/05/shaivas-pashupata-s.html)
   
-3\) [dvijas and non-dvijas in the shaiva
-cults](http://manasataramgini.wordpress.com/2005/03/dvijas-and-non-dvijas-in-shaiva-cults.html)
+3) [dvijas and non-dvijas in the shaiva
+cults](http://manollasa.blogspot.com/2005/03/dvijas-and-non-dvijas-in-shaiva-cults.html)
 2) [The
-kAlAmukhas-I](http://manasataramgini.wordpress.com/2005/02/kalamukhas-i.html)
-[](http://manasataramgini.wordpress.com/2005/02/kalamukhas-i.html)4)
-[kAlAmukhas-II](http://manasataramgini.wordpress.com/2005/03/kalamukhas-ii.html)
+kAlAmukhas-I](http://manollasa.blogspot.com/2005/02/kalamukhas-i.html)
+[](http://manollasa.blogspot.com/2005/02/kalamukhas-i.html)4)
+[kAlAmukhas-II](http://manollasa.blogspot.com/2005/03/kalamukhas-ii.html)
 
 But I was brought back to it because ST happened to introduce me to a
 confused brahmin woman who declared that her Dravidian guru had told her
@@ -24,16 +28,15 @@ too well. In fact nothing is farther from the truth in this regard when
 one approaches the original siddhAnta school. While shUdras like
 mUrtigaNa the successor of varmashiva and teacher of brahmin ishAnashiva
 held prominent places in the siddhAnta tradition, it did not mean that
-there was any kind of revolt against brahminical tradition, even if it
+there was anykind of revolt against brahminical tradition, even if it
 was somewhat atypical.
 
 In fact it must be pointed out that the siddhAnta shaivas repeatedly
 cite the authority of the now apparently lost uttara saMhitA of bhArgava
 thus:  
-iti varNAshramAchArAn manasApi na la\~nghayet | yo yasminn Ashrame
-tiShThan dIkShitaH shivashAsane | sa tasminn eva samtiShThech
-ChivadharmaM ca pAlayet ||  
-
+iti varNAshramAchArAn manasApi na la\~nghayet \| yo yasminn Ashrame
+tiShThan dIkShitaH shivashAsane \| sa tasminn eva samtiShThech
+ChivadharmaM ca pAlayet \|\|  
 “He should not even think of transgressing the varNAshrama practices. He
 should stand within (maintain) the order he was in when he attained
 shaiva initiation and at the same time maintain the practices of the
@@ -63,4 +66,6 @@ collection of the demon maya and the kiraNa Agama. The atharvavedic
 shaivas also performed the whole series of abhichAra and counter
 abhichAra rites for rulers as per vedic injunctions. Thus, there is no
 evidence that the classical siddhAnta tantras were ever set up as a
-counter-current to the mainstream brahminical path.
+counter-current to the mainstream brahminical path.  
+  
+

@@ -1,7 +1,11 @@
 +++
 title = "samaravyUha-1"
+date = "2008-10-02"
+upstream_url = "https://manasataramgini.wordpress.com/2008/10/02/samaravyuha-1/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/10/02/samaravyuha-1/).
+
 In life as one wages various fierce yuddha-s the historical analogies
 sometimes come up providing a vivid imagery in the mind’s eye. In course
 of the great war we observed something interesting, even if shocking: we
@@ -45,3 +49,4 @@ also rushed. Our army was isolated at that point, and the ari-s decided
 to advance on us with the main body of their army. They received a major
 windfall as our biggest fort was imperiled by the dhumAvatI acting via
 the mlechCha-s. This put us in the potential danger of encirclement.
+

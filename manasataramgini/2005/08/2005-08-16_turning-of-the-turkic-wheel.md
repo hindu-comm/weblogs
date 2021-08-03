@@ -1,7 +1,11 @@
 +++
 title = "Turning of the Turkic wheel"
+date = "2005-08-16"
+upstream_url = "https://manasataramgini.wordpress.com/2005/08/16/turning-of-the-turkic-wheel/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/08/16/turning-of-the-turkic-wheel/).
+
 In 914 CE, Nasr ibn Ahmed II raised the Samanid Moslems to their peak.
 They were the first Iranians who had been converted to Sunnism and
 pursued their zealous Jihad on central Asia with a large army of Iranian
@@ -68,3 +72,4 @@ conquered Bokhara after capturing the last Samanid sultan. The two
 sultans then sealed their alliance as Mahmud gave his daughter to Ilek
 Nasr’s son. With that the Turkic character of central Asia had been
 brought into the Islamic world.
+

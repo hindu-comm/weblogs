@@ -1,7 +1,11 @@
 +++
 title = "Poem on Sübütäi’s attack on Qazvin"
+date = "2014-07-12"
+upstream_url = "https://manasataramgini.wordpress.com/2014/07/12/poem-on-subutais-attack-on-qazvin/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/07/12/poem-on-subutais-attack-on-qazvin/).
+
 The great Mongol Noyan Jebe upon receiving the news of the death of the
 Moslem Sultan Khwarizm Shah asked Chingiz Khan’s permission to extend
 their conquests westwards. At the head of 10,000 men he joined in the
@@ -54,7 +58,7 @@ Did cast them down, and so gave up the ghost.
 Much in that land prevails the Shafi’ite;  
 One in a thousand is a Hanafite;  
 And yet they counted on that gory plain  
-Twelve thousand Hanafites amongst the slain \!  
+Twelve thousand Hanafites amongst the slain !  
 In heaps on every side the corpses lay,  
 Alike on lonely path and broad highway.  
 Uncounted bodies cumbered every street:  
@@ -68,4 +72,5 @@ That climbing forms the arches hid from sight
 The ruthless Mongols burning brands did ply  
 Till tongues of flame leapt upwards to the sky.  
 Roof, vault and arch in burning ruin fell,  
-A heathen holocaust of Death and Hell\!
+A heathen holocaust of Death and Hell!
+

@@ -1,7 +1,11 @@
 +++
 title = "navasAhasA~Nkacharita"
+date = "2009-04-14"
+upstream_url = "https://manasataramgini.wordpress.com/2009/04/14/navasahasankacharita/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/04/14/navasahasankacharita/).
+
 Long ago the Acharya had said that we should study the
 navasAhasA\~Nkacharita (NSC). But being truants we ignored his sage
 words. Years later we felt that we should relieve the enactments of the
@@ -77,10 +81,10 @@ capital of the old gupta monarch is one such point. This trend was to
 culminate in the legends around bhoja-deva the successor of sindhurAja
 \[e.g.:  
 asti kShitaUjjayinIti nAmnA purI vihAyasy amarAvatIva  
-babandha yasyAM padam indrakalpaH shrIvikramAditya iti kShitIshaH ||  
+babandha yasyAM padam indrakalpaH shrIvikramAditya iti kShitIshaH \|\|  
 or the statement:  
 atIte vikramAditye gate .astaM sAtavAhane  
-kavimitre vishashrAma yasmin devI sarasvatI ||  
+kavimitre vishashrAma yasmin devI sarasvatI \|\|  
 I.e. after the death of vikramAditya and sAtavAhana sarasvatI was now
 resting in sindhurAja, the protagonist of the novel.\]
 
@@ -89,7 +93,7 @@ origins of the paramAra-s he places it in the context vasiShTha-s
 struggle with the gAthina. He also states that vasiShTha makes the first
 paramara using atharvanic spells:  
 athAtharvavidAm AdyaH samantrAm AhutiM dadau  
-vikasad-vikaTa-jvAlA-jaTile jAtavedasi ||
+vikasad-vikaTa-jvAlA-jaTile jAtavedasi \|\|
 
 Thanks to the aid from paNDita somadeva we were able enjoy more aspects
 of this kAvya. Reading the verses again underscored the pleasantness of
@@ -97,51 +101,52 @@ the dhvani of the vaidarbhi style to the years.
 chakShus tad unmeShi sadA mukhe vaH  
 sArasvataM shAshvatam Avir astu  
 pashyanti yenAvahitAH kavIndrAH  
-triviShTapaabhyantara varti vastu ||  
+triviShTapaabhyantara varti vastu \|\|  
 saMpUrNa anuvAda:  
 chakShuH=eye; tat= that; unmeShi=opening; sadA= always; mukha= face;
 vaH= your;  
 sArasvataM=eloquence; shAshvatam=eternal; Avis= manifest; astu= be;  
 pashyanti=behold; yena=by which; avahitAH=attentive; kaviindrAH=chiefs
-among poets; triviShTapa= celestial/heaven; abhyantara=inside;
+among poets;triviShTapa= celestial/heaven; abhyantara=inside;
 varti=abiding in/situated; vastu=essence/object/seat.
 
 The text also has a stuti of hATakeshvara sung by the paramAra king
 (provided unedited):  
 antarjatApihitasomasurApagAya prachChannasharashAsanalochanAya  
 tIvravrataglapitashailasutAsvarUpa vij\~nAnanarmapaTave baTave namaste
-|| 
+\|\|
 
 atyAdarAnatasurAsuramauliratna nAnAmarIchikhachitA\~NghrisaroruhAya  
 dehArdhavartigirijAvihitAbhyasUya sandhyApraNAmaviShamA\~njalaye namaste
-|| 
+\|\|
 
 nIrandhrasindhujalasiktakapAlamukta ratnA\~Nkurasya karaNIM
 vidhurAtanoti  
 maulau sadaiva bhavato bhavabhedakartur nirdagdhabhAskaramahAya namo
-.astu tasmai || 
+.astu tasmai \|\|
 
 kandarpadarpashamanAya kR^itAntahartre kartre shubhasya
 bhujagAdhipaveShTanAya  
 urvImarudravinishAkaravahnitoya yAjyAmbarochchavapuShe supuShe namaste
-|| 
+\|\|
 
 nIrandhrabhUtidhavalAya gajendra-kR^itti saMvItadehakavalI kR^ita
 pannagAya  
 nirdagdhadAnavakulAya vipatkShayaika kAryAya kAraNanutAya namo .astu
-tubhyam || 
+tubhyam \|\|
 
 te te yam eva kila vA\~NmayasAgarasya pAraM gatAH praNavam Atmavido
 vadanti  
 tasmai samAhitamaharShivinidrahR^idya-hR^itpuNDarIkavihitasthitaye
-namaste || 
+namaste \|\|
 
 uttaMsitendushakalAya kapAlajUTa
 sa\~NghaTTitormimukharAmbaranirjharAya  
 bhasmA\~NgarAgashuchaye vikachopavIta- vyAlendumaulimaNidIdhitaye
-namaste || 
+namaste \|\|
 
 nAstraM na bhasma na jaTA na kapAladAma nenduH siddhataTinI na
 phaNIndrahAraH  
 nokShA viShaM na dayitApi na yatra rUpam avyaktam Isha kila tad dadhate
-namaste ||
+namaste \|\|
+

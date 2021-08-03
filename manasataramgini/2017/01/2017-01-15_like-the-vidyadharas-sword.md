@@ -1,7 +1,11 @@
 +++
 title = "“Like the vidyādhara’s sword”"
+date = "2017-01-15"
+upstream_url = "https://manasataramgini.wordpress.com/2017/01/15/like-the-vidyadharas-sword/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2017/01/15/like-the-vidyadharas-sword/).
+
 In old Hindu tradition a man who attained siddhi in his mantra practice
 was believed to become a vidyādhara whose might was manifest in the form
 his beautiful female partner who flew beside him embodying the power of
@@ -70,7 +74,7 @@ probably apprehending faint flashes of the truth. Another brought up the
 case of the professor who was defrauded in toto by his pāṇḍūrikā
 indologist former wife, all while purchasing expensive antique Hindu
 images only to be used as props and doorstops in her study. Suddenly,
-some were talking about the mysterious “injustice” they had faced in
+some were talking about the mysterious“injustice” they had faced in
 life. Repressed and unspeakable tales of liberal allies turning against
 them spurted out of the mouth of one or the other – how the super-nice
 friend John or colleague Dick or boss Harry had turned against them when
@@ -102,45 +106,45 @@ disrespectful of the mleccha-s who matter, just like to the teachers in
 school and college. Remember in our culture we respect the guru-s.”
 Bringing back the focus to the financial someone quipped that it was not
 long before “a Bill Gates, an Elon Musk or those google guys emerged in
-our midst.” Another said: “arrey\! It has already happened. See google
-and Microsoft\!” But then Krodhavaśa who seemed to have flipped
-retorted: “I do think we should distinguish working for an established
-company or starting yet another floppy start-up from what those guys
-have done. We have some way to go. So may be there is \[a point to what
-we had said\].” Like with passing moon the tides eventually ebbed and a
+our midst.” Another said: “arrey! It has already happened. See google
+and Microsoft!” But then Krodhavaśa who seemed to have flipped retorted:
+“I do think we should distinguish working for an established company or
+starting yet another floppy start-up from what those guys have done. We
+have some way to go. So may be there is \[a point to what we had
+said\].” Like with passing moon the tides eventually ebbed and a
 different kind of uneasy quite prevailed in the room.
 
 ◊◊◊◊
 
 To palaver about what we have said in many ways on these pages, even as
 our ancestors were said to speak of the same sat in many ways.  
-\-Most of these Hindus do not get it that they will never become a
+-Most of these Hindus do not get it that they will never become a
 śveta-tvaca-mleccha even though their chief desire seems to be to earn
 respect from such.
 
-\-Whatever great deeds the Hindu achieves on the academic front he is
-not going to be acknowledged for those and his conquests will be
-attributed to the mleccha. So if he is pursuing such conquests primarily
-to be recognized and awarded by the mleccha system he has little hope of
+-Whatever great deeds the Hindu achieves on the academic front he is not
+going to be acknowledged for those and his conquests will be attributed
+to the mleccha. So if he is pursuing such conquests primarily to be
+recognized and awarded by the mleccha system he has little hope of
 getting there. This leads to tremendous frustration among those who do
 not get it and simultaneously an inability appreciate the genuine
 conquests of their own people because they are constantly using false
 yardsticks.
 
-\-In a subset it sparks the temptation to get into the “cartel” by
+-In a subset it sparks the temptation to get into the “cartel” by
 cheating on matters of substance which usually results in even bigger
 damage.
 
-\-However good the Hindu is \*on an average\* he is going to be paid
-less and given fewer resources than a mleccha with lower or equal
-capacity to him. Unless he puts this in proper perspective, there will
-always be discontent and misunderstand regarding why he has not yet
-entered the “club”. This is because he has internalized the mleccha
-framework as the truth and is struck by why things are not working as
-enunciated within it. It is like tackling a problem in non-Euclidean
-geometry within a framework assuming the 5th postulate as true.
+-However good the Hindu is \*on an average\* he is going to be paid less
+and given fewer resources than a mleccha with lower or equal capacity to
+him. Unless he puts this in proper perspective, there will always be
+discontent and misunderstand regarding why he has not yet entered the
+“club”. This is because he has internalized the mleccha framework as the
+truth and is struck by why things are not working as enunciated within
+it. It is like tackling a problem in non-Euclidean geometry within a
+framework assuming the 5th postulate as true.
 
-\-Those who gloat over monetary success do not realize that king
+-Those who gloat over monetary success do not realize that king
 Vaiśravaṇa’s nidhi without his million-slaying antardhānāstra is of no
 consequence. The Hindu does not put his money into things that
 strengthen his memetic ramparts against the other. Instead, he pours it
@@ -152,7 +156,7 @@ into efforts that will actually strengthen them as a nation. Instead
 they expend it either on mleccha causes or in plain hedonistic pursuits:
 do you really need a roomful of unused electronics etc etc…
 
-\-So is all this the whimpering of the losers? So let us take a look at
+-So is all this the whimpering of the losers? So let us take a look at
 the winners – may be we can learn something from them. There they are
 seated on their resplendent vāhana-s bearing niṣka-s and mudra-s
 conferred by great mleccha lords. How did they get there and what have
@@ -166,7 +170,8 @@ As a part of the great “becoming” they will now be merged with mleccha
 and be swept away by the dysgenic memetic infections they eagerly
 inoculate themselves.
 
-\-Only he is an abhijit in the world of men who is backed by the
+-Only he is an abhijit in the world of men who is backed by the
 possession of the mighty sword like that of that of the vidyādhara.
 
-\-ity alaṃ vistāreṇa
+-ity alaṃ vistāreṇa
+

@@ -1,7 +1,11 @@
 +++
 title = "The second attempt of kAma"
+date = "2005-09-11"
+upstream_url = "https://manasataramgini.wordpress.com/2005/09/11/the-second-attempt-of-kama/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/09/11/the-second-attempt-of-kama/).
+
 The contest between shiva and kAma is much celebrated in Hindu
 literature. The effects of kAma on shiva have been enshrined in the
 highest poetry of saMskR^ita by kAlidAsa in poem on the birth of the
@@ -50,3 +54,4 @@ Thus did the great pashupati suffer from the grip of kAma.
 …….  
 The piece is not merely a narrative but the representation of the shAkta
 view of the longing and ultimate merger with the shaktI.
+

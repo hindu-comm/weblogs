@@ -1,14 +1,18 @@
 +++
 title = "avestan meters"
+date = "2004-09-27"
+upstream_url = "https://manasataramgini.wordpress.com/2004/09/27/avestan-meters/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/09/27/avestan-meters/).
+
 Avestan \[saMhita pATha\]
 
 ýazata pouru-hvarenanghô ýazata pouru- baêshazô : cithra vô buyâresh
 masânå.  
   
 O gods of abundant divine luster, O gods of abundant medicines; let your
-excellence become manifest\!’
+excellence become manifest!’
 
 meter in vedic terminology: pipIlikamadhyA uShnik \[Avestan uShnik
 variant\]  
@@ -34,15 +38,16 @@ tizhinavañtem bavâhi ýatha mithrem
   
 May you be swift-horsed, like the Hvar;  
   
-May you be lustrous, like the moon\!  
+May you be lustrous, like the moon!  
   
-May you be blazing, like Atar\!  
+May you be blazing, like Atar!  
   
-May you sharp-rayed, like Mithra\!
+May you sharp-rayed, like Mithra!
 
 huraodhem verethrajanem bavâhi, ýatha sraoshem ashî  
   
 May you be tall and Verethra-smiting, like the \[Asha\*-filled\]
-Sraosha\!
+Sraosha!
 
 \*Asha= R^ita in vedic.
+

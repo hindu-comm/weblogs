@@ -1,8 +1,11 @@
 +++
-title = "GHOST DIVISION – On The BhutaGana of Mahadev & The Einherjar ofxa0Odin"
-date = "May 13, 2019"
+title = "GHOST DIVISION – On The BhutaGana of Mahadev & The Einherjar of Odin"
+date = "2019-05-13"
+upstream_url = "https://aryaakasha.com/2019/05/13/ghost-division-on-the-bhutagana-of-mahadev-the-einherjar-of-odin/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/05/13/ghost-division-on-the-bhutagana-of-mahadev-the-einherjar-of-odin/).
+
 **![56842864_362064057739258_284252325902548992_o](https://aryaakasha.files.wordpress.com/2019/04/56842864_362064057739258_284252325902548992_o.jpg?w=676)**
 
 **GHOST DIVISION – On The BhutaGana of Mahadev & The Einherjar of Odin**

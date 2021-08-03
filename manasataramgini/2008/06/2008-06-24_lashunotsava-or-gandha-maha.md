@@ -1,7 +1,11 @@
 +++
 title = "lashunotsava or gandha-maha"
+date = "2008-06-24"
+upstream_url = "https://manasataramgini.wordpress.com/2008/06/24/lashunotsava-or-gandha-maha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/06/24/lashunotsava-or-gandha-maha/).
+
 Hindu tradition mentions the following tale regarding the discovery and
 the use of garlic. The brAhmaNa sushruta’s curiosity was aroused by a
 foul-smelling bulb and he made enquiries regarding it to the renowned
@@ -21,3 +25,4 @@ When rudra was roaming in the devadAru forest the wives of the vipra-s
 were afflicted with infertility. They called on him to relieve them of
 the condition. It was then that he instituted the garlic festival to
 cure the wives.
+

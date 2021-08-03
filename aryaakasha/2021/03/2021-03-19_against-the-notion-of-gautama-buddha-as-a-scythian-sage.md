@@ -1,8 +1,11 @@
 +++
-title = "Against The Notion Of Gautama Buddha As A “Scythianxa0Sage”"
-date = "March 19, 2021"
+title = "Against The Notion Of Gautama Buddha As A “Scythian Sage”"
+date = "2021-03-19"
+upstream_url = "https://aryaakasha.com/2021/03/19/against-the-notion-of-gautama-buddha-as-a-scythian-sage/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/03/19/against-the-notion-of-gautama-buddha-as-a-scythian-sage/).
+
 I recently happened across somebody sharing an excerpt from an article
 which claimed the Gautama Buddha to be a “Scythian Sage”.  
   

@@ -1,7 +1,11 @@
 +++
 title = "Turtle shells"
+date = "2008-10-12"
+upstream_url = "https://manasataramgini.wordpress.com/2008/10/12/turtle-shells/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/10/12/turtle-shells/).
+
 Though they are one of the most recognizable animals of the present, the
 evolutionary history of turtles has confounded us for long. Until the
 late 1990s their anapsid skull was taken as an indicator of the
@@ -9,25 +13,24 @@ primitive condition for amniotes. Thus the anatomists like Gauthier saw
 turtles as a sister group of captorhinomorphs, while Laurin et al saw
 them as a sister group of procolophonids and Lee saw them as a being
 derived within pareiasaurs. However, Rieppel, a notable falsifier of
-Lee’s theories, recovered turtles as diapsids, and as a sister group
-of the sauropterygians. The sauropterygian clade contains a great
-radiation of aquatic or semi-aquatic extinct reptiles: 1) the basal
-placodonts; 2) then the pachypleurosaurs; 3) then the nothosaurs; 4)
-then several paraphyletic lineages of the pistosaur grade, like
-Corosaurus, then Cyamtosaurus and then Pistosaurus; 5) a crown group of
-plesiosaurs. The turtles and placodonts show superficial similarities in
-anatomy and this revived in a sense an old hypothesis of Broom that
-turtles and placodonts were related. In Rieppel’s theory the
-turtle+sauropterygian clade was a sister clade of the lepidosaurs (i.e.
-lizards+tuataras). Finally, the molecular phylogenies established,
-beyond any doubt, that the turtles are indeed diapsids but are closer to
-archosaurs than lepidosaurs. Of course, the sauropterygians being
-extinct, the molecular phylogenies do not directly answer this
-relationship. However, current phylogenetic models based on anatomy
-(though notoriously weak) do not show any suggestion for sauropterygians
-being within archosauromorpha. The molecular trees suggest that turtles
-are outside of two great modern archosaur lineages, namely the dinosaurs
-and crocodiles.
+Lee’s theories, recovered turtles as diapsids, and as a sister group of
+the sauropterygians. The sauropterygian clade contains a great radiation
+of aquatic or semi-aquatic extinct reptiles: 1) the basal placodonts; 2)
+then the pachypleurosaurs; 3) then the nothosaurs; 4) then several
+paraphyletic lineages of the pistosaur grade, like Corosaurus, then
+Cyamtosaurus and then Pistosaurus; 5) a crown group of plesiosaurs. The
+turtles and placodonts show superficial similarities in anatomy and this
+revived in a sense an old hypothesis of Broom that turtles and
+placodonts were related. In Rieppel’s theory the turtle+sauropterygian
+clade was a sister clade of the lepidosaurs (i.e. lizards+tuataras).
+Finally, the molecular phylogenies established, beyond any doubt, that
+the turtles are indeed diapsids but are closer to archosaurs than
+lepidosaurs. Of course, the sauropterygians being extinct, the molecular
+phylogenies do not directly answer this relationship. However, current
+phylogenetic models based on anatomy (though notoriously weak) do not
+show any suggestion for sauropterygians being within archosauromorpha.
+The molecular trees suggest that turtles are outside of two great modern
+archosaur lineages, namely the dinosaurs and crocodiles.
 
 Hence, it might be worthwhile to search for turtle precursors amongst
 the archosauriforms outside of the archosaurs comprised of the two great
@@ -114,3 +117,4 @@ of intermediate-less transition. Of course better molecular
 understanding of osteoderm formation and the skeletogenic properties of
 the dermis in other reptiles might be of some value in further
 clarifying this issue.
+

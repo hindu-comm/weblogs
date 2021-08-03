@@ -1,8 +1,11 @@
 +++
-title = "Furor Teutonicus And Furor Poeticus – The Furious Goddess-Given Power Of Both Barbarian And Brahminxa0Alike"
-date = "August 28, 2020"
+title = "Furor Teutonicus And Furor Poeticus – The Furious Goddess-Given Power Of Both Barbarian And Brahmin Alike"
+date = "2020-08-28"
+upstream_url = "https://aryaakasha.com/2020/08/28/furor-teutonicus-and-furor-poeticus-the-furious-goddess-given-power-of-both-barbarian-and-brahmin-alike/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/08/28/furor-teutonicus-and-furor-poeticus-the-furious-goddess-given-power-of-both-barbarian-and-brahmin-alike/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/08/4bb4af64a0125266ec1ebcc42b49dbf7.jpg?w=1024)
 
 Something I have long advocated, is that the two forms of ‘Furor’ spoken

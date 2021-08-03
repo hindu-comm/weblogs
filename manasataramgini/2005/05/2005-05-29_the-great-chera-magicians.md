@@ -1,7 +1,11 @@
 +++
 title = "The great chera magicians"
+date = "2005-05-29"
+upstream_url = "https://manasataramgini.wordpress.com/2005/05/29/the-great-chera-magicians/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/05/29/the-great-chera-magicians/).
+
 The nambUthiri brahmins of the chera country are representatives of the
 earliest great wave of brahminical settlers of the deep Dravida lands.
 In the modern Tamil country their cousins, the choliars and the
@@ -58,9 +62,9 @@ In the 1440-50s nArayaNan carried out numerous detailed observations on
 Mars, Saturn and Jupiter which was critical for other great nambuthiri
 astronomer nIlakaNTha somayAjI to develop his planetary model. nArayaNan
 next contributed to the development of Hindu calculus providing the
-geometric form of the limit sin(x)/x=1: x-\>0. He used to show how the
+geometric form of the limit sin(x)/x=1: x->0. He used to show how the
 formula of the area of the circle may be formal derived as the area of a
-polygon n-\>infinity. He also extensively developed the use of a planar
+polygon n->infinity. He also extensively developed the use of a planar
 coordinate system equivalent to the Cartesian system in solving
 geometric problems. Here he was following the steps of vAchaspati
 mishra, first seen in the latter’s great work on vaisheShika explaining
@@ -85,3 +89,4 @@ Tamil and the Telugu countries have hardly any defense against these
 prayogas and can be easily blown away. A chera tantric of the line of
 nArAyaNan and sha\~Nkaran performed one of his mighty kaumAra prayogas
 for me, which can be considerably efficacious.
+

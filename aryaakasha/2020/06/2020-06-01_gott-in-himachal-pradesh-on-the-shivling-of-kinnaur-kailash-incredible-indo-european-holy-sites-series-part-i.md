@@ -1,8 +1,11 @@
 +++
-title = "Gott In Himachal Pradesh – On The ShivLing Of Kinnaur Kailash [Incredible Indo-European Holy Sites Series Part Ixa0]"
-date = "June 1, 2020"
+title = "Gott In Himachal Pradesh – On The ShivLing Of Kinnaur Kailash [Incredible Indo-European Holy Sites Series Part I ]"
+date = "2020-06-01"
+upstream_url = "https://aryaakasha.com/2020/06/01/gott-in-himachal-pradesh-on-the-shivling-of-kinnaur-kailash-incredible-indo-european-holy-sites-series-part-i/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/06/01/gott-in-himachal-pradesh-on-the-shivling-of-kinnaur-kailash-incredible-indo-european-holy-sites-series-part-i/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/06/8b3e6369db5b1fbccd0cfb049bf88628.jpg?w=1024)
 
 It is Monday – Lord Shiva’s Day! And therefore … we’re starting our

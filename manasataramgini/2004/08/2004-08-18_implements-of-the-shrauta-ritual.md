@@ -1,7 +1,11 @@
 +++
 title = "Implements of the shrauta ritual"
+date = "2004-08-18"
+upstream_url = "https://manasataramgini.wordpress.com/2004/08/18/implements-of-the-shrauta-ritual/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/08/18/implements-of-the-shrauta-ritual/).
+
 ratha chakra: The spoked chariot. Typically made of audumbara wood. It
 is used in the AdhAna rite (deposition of the 3 fires) where the brahmA
 priest rolls it along from the gArhapatya to the dakShiNa and AhavanIya.
@@ -85,3 +89,4 @@ aside coals from the baking of the puroDAsha or stirring fires.
 mekShaNa: a flat baking stick similar to the baking stick used to turn
 dosais. Used for stirring the odana when it is cooked and to take up
 odana for the offering to the ancestors.
+

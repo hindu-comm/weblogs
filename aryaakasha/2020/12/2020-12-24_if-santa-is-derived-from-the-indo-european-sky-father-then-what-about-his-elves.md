@@ -1,8 +1,11 @@
 +++
-title = "If Santa Is Derived From The Indo-European Sky Father , Then What About His Elvesxa0.."
-date = "December 24, 2020"
+title = "If Santa Is Derived From The Indo-European Sky Father , Then What About His Elves .."
+date = "2020-12-24"
+upstream_url = "https://aryaakasha.com/2020/12/24/if-santa-is-derived-from-the-indo-european-sky-father-then-what-about-his-elves/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/12/24/if-santa-is-derived-from-the-indo-european-sky-father-then-what-about-his-elves/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/12/franks-casket-front.jpg?w=800)
 
 Seemingly every other page talking about Indo-European or Germanic

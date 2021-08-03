@@ -1,8 +1,11 @@
 +++
-title = "Of Moon And Moon-Day – A Brief Look At The Interpretatio Romana Of Monday In Indo-Europeanxa0Traditions"
-date = "March 1, 2021"
+title = "Of Moon And Moon-Day – A Brief Look At The Interpretatio Romana Of Monday In Indo-European Traditions"
+date = "2021-03-01"
+upstream_url = "https://aryaakasha.com/2021/03/01/of-moon-and-moon-day-a-brief-look-at-the-interpretatio-romana-of-monday-in-indo-european-traditions/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/03/01/of-moon-and-moon-day-a-brief-look-at-the-interpretatio-romana-of-monday-in-indo-european-traditions/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/03/52968567_10161489403065574_6653579467413258240_o.jpg?w=972)
 
 It is Monday \[Moon-Day\], known in Greek as Hemera Selenes, Latin as

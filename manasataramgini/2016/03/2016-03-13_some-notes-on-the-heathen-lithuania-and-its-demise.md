@@ -1,7 +1,11 @@
 +++
 title = "Some notes on the heathen Lithuania and its demise"
+date = "2016-03-13"
+upstream_url = "https://manasataramgini.wordpress.com/2016/03/13/some-notes-on-the-heathen-lithuania-and-its-demise/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2016/03/13/some-notes-on-the-heathen-lithuania-and-its-demise/).
+
 Clinging to the inner coast of northern Europe lies Lithuania, a nation
 which at best only marginally figures in the Hindu historical and
 geographical consciousness. Conquered twice by the Soviet “empire” it
@@ -87,21 +91,20 @@ translation or the original. A few examples are provided below:
 “*You drive away the winter*  
 *and in all lands you give leaves and grass.*  
 *We worship you that you make our grain to grow,*  
-*and you would put down all weeds*\! (\#1)”
+*and you would put down all weeds*! (#1)”
 
-“*Check yourself, O Perkūnas, and do not send misfortune on my
-field\!*  
-*and I shall worship the gods and give you this meat offering.* (\#2)”
+“*Check yourself, O Perkūnas, and do not send misfortune on my field!*  
+*and I shall worship the gods and give you this meat offering.* (#2)”
 
 “*Perkūnas the god, do not strike the dweller of the land (of
-Lithuania), strike the white Russian like a red-haired dog\!* (\#3)”
+Lithuania), strike the white Russian like a red-haired dog!* (#3)”
 
 “*In the name of the Sun, through the thunder of Perkūnas, the
 Thunderer, I command you, the Fever, I drive you away from people,
 animals, fowls, from every live property… If you do not obey, I shall
 dry you up with the ray of the Sun, I shall wear you out with the heat
 of the Sun, I shall make you drink the burning dew, I shall make you eat
-the enchanted bread.* (\#4)”
+the enchanted bread.* (#4)”
 
 An interesting spell to Perkūnas is also found laterally transferred to
 the Finno-Ugric neighbors of the Lithuanians:  
@@ -114,7 +117,7 @@ forests and wildernesses*
 *But unto us, plowers and sowers, give a fruitful season and sweet
 rain.*  
 *Holy Perkons guard our grain-field that it bear good straw below,*  
-*good ears above and good grain within.* (\#5)
+*good ears above and good grain within.* (#5)
 
 Another such laterally transferred incantation has an allusions to the
 nine sons of Perkūnas:  
@@ -122,55 +125,55 @@ nine sons of Perkūnas:
 *has nine sons:*  
 *three that strike,*  
 *three that thunder,*  
-*three cast lightning*. (\#6)
+*three cast lightning*. (#6)
 
 The Lithuanian incantations to Perkūnas emphasizing the fertilizing and
 agricultural facets along with food offerings being made to him for the
 same remind us of similar themes pertaining to Parjanya, which we
 repeatedly encounter in the Ṛgveda:
 
-yo garbham oṣadhīnāṃ gavāṃ kṛṇoty arvatām | parjanyaḥ puruṣīṇām ||  
-tasmā id āsye havir juhotā madhumattamam | iḻāṃ naḥ saṃyataṃ karat || RV
-7.102.2-3  
+yo garbham oṣadhīnāṃ gavāṃ kṛṇoty arvatām \| parjanyaḥ puruṣīṇām \|\|  
+tasmā id āsye havir juhotā madhumattamam \| iḻāṃ naḥ saṃyataṃ karat \|\|
+RV 7.102.2-3  
 Parjanya is he who makes the fertilized zygote in cows, mares, plants
-and women \[garbham oṣadhīnām; cf. \#1\].  
+and women \[garbham oṣadhīnām; cf. #1\].  
 In to his mouth we offer the sweetest oblation (cf. offering to Perkūnas
-in \#2); he brings together for us food.
+in #2); he brings together for us food.
 
-The western Lithuanian spell against the White Russian (\#3) also
-reminds one of the spell of the Atri-s invoking Parjanya against
-evil-doers:
+The western Lithuanian spell against the White Russian (#3) also reminds
+one of the spell of the Atri-s invoking Parjanya against evil-doers:
 
-utānāgā īṣate vṛṣṇyāvato yat parjanya stanayan hanti duṣkṛtaḥ | RV
+utānāgā īṣate vṛṣṇyāvato yat parjanya stanayan hanti duṣkṛtaḥ \|RV
 5.083.02cd  
 Even the guiltless fly away from him of bull-like might when thundering
 Parjanya strikes the evil-doers.
 
-Finally, the incantation \#4 reminds one of the medical incantation
-found in the Atharvaveda, wherein Parjanya is invoked as part of a
-medical procedure for certain diseases. For instance while treating
-someone who is dangerously ill the atharvan deploys the below mantra:
+Finally, the incantation #4 reminds one of the medical incantation found
+in the Atharvaveda, wherein Parjanya is invoked as part of a medical
+procedure for certain diseases. For instance while treating someone who
+is dangerously ill the atharvan deploys the below mantra:
 
-ā parjanyasya vṛṣṭyod asthāmāmṛtā vayam |  
-vy ahaṃ sarveṇa pāpmanā vi yakṣmeṇa sam āyuṣā || (AV-vulgate 3.31.11)  
+ā parjanyasya vṛṣṭyod asthāmāmṛtā vayam \|  
+vy ahaṃ sarveṇa pāpmanā vi yakṣmeṇa sam āyuṣā \|\| (AV-vulgate
+3.31.11)  
 By means of Parjanya’s rain, we have stood up as immortals;  
 I, free from every evil, free from disease, join with life.
 
 In the same sūkta, Sūrya is also invoked in parallel to the Lithuanian
-incantation \#4.
+incantation #4.
 
-Likewise, the laterally transferred Finno-Ugric incantation (\#5) can be
+Likewise, the laterally transferred Finno-Ugric incantation (#5) can be
 compared to the atharvan rain-spell:  
-abhi kranda stanayārdayodadhiṃ bhūmiṃ parjanya payasā sam aṅdhi |  
-tvayā sṛṣṭaṃ bahulam aitu varṣam āśāraiṣī kṛśagur etv astam ||
+abhi kranda stanayārdayodadhiṃ bhūmiṃ parjanya payasā sam aṅdhi \|  
+tvayā sṛṣṭaṃ bahulam aitu varṣam āśāraiṣī kṛśagur etv astam \|\|
 (AV-vulgate 4.15.6)  
 Roar forth, thunder, agitate the ocean, O Parjanya soak the earth with
-your sweet rain\!  
+your sweet rain!  
 Send forth the plenteous showers released by you to him seeking
 refuge,  
 let the man with the lean cows return to his \[shelter\].
 
-The sons of Perkūnas in the second laterally transferred text (\#6) can
+The sons of Perkūnas in the second laterally transferred text (#6) can
 be compared to the Marut-s who are associated with Parjanya in the
 atharvan rain-spell:
 
@@ -227,23 +230,23 @@ the Zoroastrian empire of the Sassanians. The Germanics, Balts and Slavs
 of Eastern and Northern Europe were the hardest to conquer for the 2nd
 Abrahamism. However, starting in the 900s these frontiers were
 breached:  
-\-In 966 CE Mieszko, the king of Poland was converted to the Catholic
+-In 966 CE Mieszko, the king of Poland was converted to the Catholic
 church. However, a pocket of Slavic heathens centered around Gniezno
 continued their struggle for another 100 years and recaptured holy sites
 ceded to the Isaists and also demolished a church there.  
-\-In 988 CE Vladmir the Rus lord of Kiev was converted to the Orthodox
+-In 988 CE Vladmir the Rus lord of Kiev was converted to the Orthodox
 church.  
-\-In 997 CE the German missionary Adalbert began forays in to the Baltic
+-In 997 CE the German missionary Adalbert began forays in to the Baltic
 territory of Prussia but he was promptly stopped by the heathen Balts
 and put to death.  
-\-In 997 CE however the 2nd Abrahamism scored a victory further north by
+-In 997 CE however the 2nd Abrahamism scored a victory further north by
 converting Olaf the king of Norway, but several parts of Norway still
 remained hard to convert and fell only much later.  
-\-In 1000 CE Althing of Iceland was converted.  
-\-Around 1000 CE St Stephen was put as the Christian king of Hungary.  
-\-In 1008 CE Olaf of Southern Sweden was converted but the complete
+-In 1000 CE Althing of Iceland was converted.  
+-Around 1000 CE St Stephen was put as the Christian king of Hungary.  
+-In 1008 CE Olaf of Southern Sweden was converted but the complete
 conversion of Sweden was not easily achieved and took much longer.  
-\-In 1009 CE the German missionary St Bruno was sent to Lithuania to
+-In 1009 CE the German missionary St Bruno was sent to Lithuania to
 convert the Baltic heathens but the mission failed and the missionaries
 were evicted or killed.
 
@@ -283,7 +286,7 @@ Christianization had reached Finland. However, despite being surrounded
 all around the core Baltic land of Lithuania remained unrelentingly
 heathen and was the one bright spot in the war against the crusaders.
 
-![German\_Lithuanian](https://manasataramgini.files.wordpress.com/2016/03/german_lithuanian.jpg?w=640)*A
+![German_Lithuanian](https://manasataramgini.files.wordpress.com/2016/03/german_lithuanian.jpg?w=640)*A
 painting by Kossak showing the abduction of children by the German
 crusaders. A practice very similar to their equivalents the Ghazis of
 the third Abrahamism.*
@@ -314,8 +317,8 @@ Abrahamisms in their dominion unlike the other contemporary states of
 Europe.
 
 Thus, from 1283 CE onward despite a near continuous three front holy
-war: 1) waged by the German crusaders from the north and south
-i.e. Livonia and Prussia; 2) by Russian Orthodox church from the east;
+war: 1) waged bythe German crusaders from the north and south
+i.e.Livonia and Prussia; 2) by Russian Orthodox church from the east;
 3) The Hungarian and Polish crusades from the south, as the historian of
 Lithuania, S.C. Rowell points out, the expansion of the heathen
 Lithuanian state continued unabated reaching its peak under the
@@ -356,7 +359,7 @@ Lithuanians a message that the crusades would stop if they converted
 situation\]. Even as the Christians thought the fall of Lithuania to
 Abrahamism was at hand, the heathens regrouped and lead a major
 counter-attack the next year. Strengthened by Mongol Bauddha-s and
-shamanists fleeing from the Golden Horde they were able to route the
+shamanists fleeing from the Golden Horde they were able toroute the
 Polish crusaders and reconquer the territories they had taken and
 further expand into the Rus land. By 1352 CE the Lithuanian heathens
 invaded the Polish-held Galich in southwest Rus and captured several
@@ -418,7 +421,7 @@ India precisely because it adopted the Aryan linguistic methodology very
 early in its history\]. Hence, we hypothesize that the Lithuanians had
 such a tradition which approached the Indo-Iranian state to certain
 degree \[Totally contra-Rowell, who rather idiotically asserts that
-Germanic, Slav and Balt pagans built shrines to imitate Christians\! A
+Germanic, Slav and Balt pagans built shrines to imitate Christians! A
 sign of how deep-rooted Abrahamistic prejudices are in academia\].
 
 In support of this we have evidence from whatever scraps of information
@@ -535,3 +538,4 @@ Hundejahre was still demonizing the old Baltic religion as of recently
 by presenting the Krivi, mistakenly considered a priest, as a Nazi. Note
 the parallel demonization of the Hindus as Nazis by the Abrahamosphere –
 the deeper significance of which very few Hindus realize to date.
+

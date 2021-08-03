@@ -1,7 +1,11 @@
 +++
 title = "Some notes on the evolution of the mantra shAstra"
+date = "2007-09-10"
+upstream_url = "https://manasataramgini.wordpress.com/2007/09/10/some-notes-on-the-evolution-of-the-mantra-shastra/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/09/10/some-notes-on-the-evolution-of-the-mantra-shastra/).
+
 A hall mark feature of the Hindu tradition right from its
 proto-Indo-Iranian antecedents has been the mantra shAstra. It is the
 mainstay of both the orthopraxy (AstIka matas) as well as most
@@ -39,13 +43,14 @@ also comprise the typical elements of most major tantric mantras. The
 taittirIya AraNyaka while laying out the abhichAra formulae for the
 deadly forms of agni and the” killing by the year” formula gives the
 following incantations to be used with them(TA 4.27.1) :  
-khaT phaT jahi | ChindhI bindhI handhI kaT | iti vAchaH krUrANi  
+khaT phaT jahi \| ChindhI bindhI handhI kaT \| iti vAchaH krUrANi  
 i.e. the calls KhaT phaT and jahi (slay) , ChindhI (rend apart), bindhi
 (split up) , handhi (smite) and kaT are used in fierce (i.e. abhichAra)
 rites.  
 Again the taittirIya AraNyaka supplies similar calls in the formula
 called “the placing in yama’s jaws” (TA 4.37.1):  
-yadamuM yamasya jambhayoH | AdadhAmi tatha hi tat | khaN-phaN-mrasi ||  
+yadamuM yamasya jambhayoH \| AdadhAmi tatha hi tat \| khaN-phaN-mrasi
+\|\|  
 The phaT, jahi chindhi etc calls seen in these yajushes are typical of
 later tantric mantras with similar intent.  
 The magical stobha-s in the mantra-s of the sAmaveda also bear a
@@ -61,9 +66,9 @@ stobha only songs, which lack a R^ik). Most vedic mantra-s embed a lot
 in the meaning of “sentences” and as a result are typically longer than
 a tantric mantra, whose semantically meaningful elements are very short
 (e.g. sudarshana chakra mantra: OM sahasrAra huM phaT; sahasrAra=
-thousand spokes – that is all \! ) or may even be non-existent (e.g. the
-shrIvidyA kAdimata: ka e i la hrIm | ha sa ka ha la hrIm | sa ka la
-hrIM||).
+thousand spokes – that is all ! ) or may even be non-existent (e.g. the
+shrIvidyA kAdimata: ka e i la hrIM \| ha sa ka ha la hrIM \| sa ka la
+hrIM\|\|).
 
 2\) The vedic canon is very well preserved with great fidelity and
 little admission of interpolation and syncretism of extraneous elements.
@@ -88,7 +93,7 @@ mantras themselves.
 
 In this regard one might note the following disparate elements that
 might offer clues:  
-1\) The early post-vedic compositions like nAma-saMgraha-s for devatA-s
+1) The early post-vedic compositions like nAma-saMgraha-s for devatA-s
 (e.g. the celebrated viShNu sahasranAmam from the mahAbhArata). These
 appear to be predecessors of the sahasra and shata nAmAvalI-s that
 proliferate in the tantric period and form a major component of tantric
@@ -97,8 +102,8 @@ worship, even if not as the primary mantras.
 2\) Not all tantric mantra-s are bIja mantra-s but a small subset of
 them are actually anuShTubh-s. One of the potentially oldest and most
 famous of these is the ugra viShNu or mantrarAja anuShTubh (ugraM vIraM
-mahAviShNuM jvalantaM sarvatomukham | nR^isimhaM bhIShaNaM bhadraM
-mR^ityu-mR^ityuM namAmyaham ||)  
+mahAviShNuM jvalantaM sarvatomukhaM \| nR^isimhaM bhIShaNaM bhadraM
+mR^ityu-mR^ityuM namAmyahaM \|\|)  
 A collection of such anuShTubh mantras include: 1) ugra viShNu 2) the
 kArtavIryArjuna naShTa dravya lAbha mantra 3) vana-durga mantra 4) the
 shAstA mantra which identifies him with revanta. 5) The skanda anuShTubh
@@ -124,7 +129,7 @@ tradition. While there are no explicit nAmAvalI-s in the veda, the vedic
 namaH mantras of the yajur (e.g. the shatarudrIya) appear to be an
 archaic relative of the nAmAvalI. This become apparent when one compares
 it with the [early-post-vedic hymn of dakSha to
-rudra](http://manasataramgini.wordpress.com/2006/02/younger-shatarudriya.html).
+rudra](http://manollasa.blogspot.com/2006/02/younger-shatarudriya.html).
 Thus, the nAmAvalI mantras appears to be an early concept in
 Indo-Iranian worship that appears to have been merely expanded greatly
 in the tantric realm.
@@ -133,16 +138,16 @@ The anuShTubh mantras clearly differ from all tantric mantras both in
 lacking bIjas and in their form, which resembles R^ik-s. Some of them
 like the mantra-rAja are clearly fairly ancient. We also observe such
 mantra-s in the pre-tantric circum-vedic texts like those of the
-[pAshupata-s](http://manasataramgini.wordpress.com/2006/05/shaivas-pashupata-s.html)
+[pAshupata-s](http://manollasa.blogspot.com/2006/05/shaivas-pashupata-s.html)
 (e.g. rudraM kruddhAshanimukhaM devAnAM IshvaraM paraM
-| shveta-pi\~NgalaM devesham prapadye sharaNAgataH ||). These features
-suggest that the evolution of the mantra shAstra passed through a phase
-where new R^ik like mantra-s, but mainly in the shloka meter were
-composed. This stage of shloka mantra-s might have also overlapped with
-the vidhAna period and the deployment of R^iks in a tantricized context.
-For example the well-known yAm kalpayanti R^ik of pratichIna a\~Ngirasa
-and the indra mantra “yata indra bhayAmahe…” are deployed in later AV
-tradition in a tantric form.
+\|shveta-pi\~NgalaM devesham prapadye sharaNAgataH \|\|). These
+features suggest that the evolution of the mantra shAstra passed through
+a phase where new R^ik like mantra-s, but mainly in the shloka meter
+were composed. This stage of shloka mantra-s might have also overlapped
+with the vidhAna period and the deployment of R^iks in a tantricized
+context. For example the well-known yAm kalpayanti R^ik of pratichIna
+a\~Ngirasa and the indra mantra “yata indra bhayAmahe…” are deployed in
+later AV tradition in a tantric form.
 
 But it is in the parishiShTa kalpa-s of the AV that one finds the true
 precursors of the tantric mantras. In a sense these mantra-s are
@@ -150,29 +155,29 @@ descendants of vedic mantras such as those of the arrows of rudra found
 in the AV and YV traditions (e.g. AV-shaunaka 3.26 and 3.27).  
 Examples of abhichArAdi mantras to the uchChuShma rudras from the
 uchChuShma kalpa:  
-kAlAya karAlAya namaH svAhA | (shatru nAshanaM)  
-amoghAya namaH svAhA | (shatru AveshanaM)  
-vR^iShabhAya namaH svAhA | (shatrUnAm dhanakShyaM)  
-uchChuShmAya namaH svAhA | (unmAdanaM)  
-uchChuShma-rudrAya namaH svAhA | (shatru dahanaM)  
-aghorAya namaH svAhA | (roga nivAraNaM)  
-suvarNachuDAya namaH svAhA | (roga abhibAdhanaM)  
-hAhAhIhI namaH svAhA | (go lAbha mantraM)  
-mahAvaktrAya pi\~NgalanetrAya namaH svAhA | (vR^iShTi)  
-khanakhanAya namaH svAhA | (prasiddhi prApti)  
-ghanaghanAya namaH svAhA | (yuddha vijaya)  
-mahApashupataye namaH svAhA | (pashubhyo .abhirakShaNaM; from animals)
+kAlAya karAlAya namaH svAhA \| (shatru nAshanaM)  
+amoghAya namaH svAhA \| (shatru AveshanaM)  
+vR^iShabhAya namaH svAhA \| (shatrUnAm dhanakShyaM)  
+uchChuShmAya namaH svAhA \| (unmAdanaM)  
+uchChuShma-rudrAya namaH svAhA \| (shatru dahanaM)  
+aghorAya namaH svAhA \| (roga nivAraNaM)  
+suvarNachuDAya namaH svAhA \| (roga abhibAdhanaM)  
+hAhAhIhI namaH svAhA \| (go lAbha mantraM)  
+mahAvaktrAya pi\~NgalanetrAya namaH svAhA \| (vR^iShTi)  
+khanakhanAya namaH svAhA \| (prasiddhi prApti)  
+ghanaghanAya namaH svAhA \| (yuddha vijaya)  
+mahApashupataye namaH svAhA \| (pashubhyo .abhirakShaNaM; from animals)
 
 Other examples of longer mantras from the uchChuShma kalpa are:  
 namaH kaTa vikaTa kaNTe mATe pATale vikale asauryAsau asauryAsau
 pR^ithivIShTakA iShTakAjinAtyUnyo saugaluM tigaluM te kaTam asi
 kaTapravR^ite pradviSha rudra raudreNAveshayAveshaya hana hana daha daha
 pacha pacha matha matha vidhvaMsaya vidhvaMsaya vishveshvara yogeshvara
-maheshvara namaste .astu mA mA hiMsIH huM phaT namaH svAhA || (a japA
+maheshvara namaste .astu mA mA hiMsIH huM phaT namaH svAhA \|\| (a japA
 mantra)
 
 shive jaTile brahmachAriNi stambhani jambhani mohani huM phaT namaH
-svAhA || (an Atma-rakShA mantra)
+svAhA \|\| (an Atma-rakShA mantra)
 
 Interestingly, two of the mantras from one of the earliest tantric texts
 of the bauddha tradition known as the mahAmAyUrI-vidyA-rAj\~nI are
@@ -182,31 +187,32 @@ The AsurI kalpa mantra (shaunaka version):
 oM kaTuke kaTuka-pattre subhage Asuri rakte raktavAsase atharvaNasya
 duhitre aghore aghora-karma-kArike \[amukaM\] hana hana dahadaha pacha
 pacha matha matha tAvad daha tAvat pacha yAvan me vasham Anayasi svAhA
-||  
+\|\|  
 The AsurI kalpa mantra (paippalAda version):  
 oM namaH kaTuke kaTuka-pattre subhage Asuri raktavAsase atharvaNasya
 duhitre ghore ghora-karmANi-kArike \[amukasya\] prasthitasya matim bhaja
 upaviShTasya bhagaM daha shayitasya mano daha pravR^iddhasya hR^idayaM
 daha daha daha tAvad daha daha pacha pacha matha matha tAvat pacha yAvan
-me vasham AgachaChet svAhA ||
+me vasham AgachaChet svAhA \|\|
 
 The shorter atharvanic kalpa mantra-s resemble the shorter mantra-s
 typical of the later tantra-s, while the longer ones from both AsurI and
 uchChuShma are closer to the pada-mAla mantras of later tantric
 mantra-s. The mantras of the AV kalpa share certain specific major
 features of the tantric mantras:  
-1\) Use of imperative terms like hana, daha and pacha. These words are
+1) Use of imperative terms like hana, daha and pacha. These words are
 already seen in the AV saMhitA mantras. e.g.:  
-Chindhy A Chindhi pra Chindhy api kShApaya kShApaya || (AV-S 12.5.51)  
-vR^ishcha pra vR^ishcha saM vR^ishcha daha pra daha saM daha || (AV-S
+Chindhy A Chindhi pra Chindhy api kShApaya kShApaya \|\| (AV-S
+12.5.51)  
+vR^ishcha pra vR^ishcha saM vR^ishcha daha pra daha saM daha \|\| (AV-S
 12.5.62)  
 Imperatives in mantra are seen right from the earliest layers of the
 vedic mantras i.e. from the RV itself. They increase some what in
 prominence in the AV tradition (see darbha sUktaM and are extremely
 prevalent in tantric mantras, especially the mAlA mantras. An ancient
 example of such a mantra, albeit in the form of R^ik is RV 10.87.23:  
-“viSheNa bha\~NgurAvataH prati Shma rakShaso daha |”  
-With poison turned against the vicious rakshas burn  away\!
+“viSheNa bha\~NgurAvataH prati Shma rakShaso daha \|”  
+With poison turned against the vicious rakshas burn away!
 
 2\) onomatopoeic forms like hAhA hIhI and 3) the invocation of shaktis
 as seen in the AtmarakShA mantra of the uchChuShma kalpa and the AsurI
@@ -219,3 +225,4 @@ their vedic mantra precursors. This also suggests that the major
 transition into classical tantric mantra-shAstra was accompanied by the
 innovation of the extensive use of bIja-s (an atavistic expression of
 the vedic linguistic tradition in a new form?).
+

@@ -1,13 +1,17 @@
 +++
 title = "Turning of the Turkic wheel: unmattābhisaṃdhi, battles won, battles lost and march of marūnmāda"
+date = "2016-07-22"
+upstream_url = "https://manasataramgini.wordpress.com/2016/07/22/turning-of-the-turkic-wheel-unmattabhisa%e1%b9%83dhi-battles-won-battles-lost-and-march-of-marunmada/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2016/07/22/turning-of-the-turkic-wheel-unmattabhisa%e1%b9%83dhi-battles-won-battles-lost-and-march-of-marunmada/).
+
 When the Mamluqs controlled the rākṣasālaya-s of Mecca and Medina they
 were rather zealous about their possessions just like the modern tyrants
 of Saud. After the Osman sultan Mehmed II had completed an important
 milestone for marūnmāda with the conquest of Constantinople he sent a
 rich brocade for the the Ka’ba at Mecca. However, the Mamluqs
-bluntly refused it to signal their ownership and to dismiss the Amir al
+bluntlyrefused it to signal their ownership and to dismiss the Amir al
 Momeen status of the Osmans. Similarly, when Shah Rukh the son of Timur
 sent his rich endowments for the for the Ka’ba the Mamluqs
 unceremoniously sent it back. With the Timurid glory in the down turn
@@ -26,7 +30,7 @@ on became the Khilafat and Selim the Khalif.
 Turkish literary tradition (Evliya Celebi) holds that as his son kānūnī
 sultan Suleyman was to come to throne he had a dream in which the
 ādimarūnmatta Mohammed appeared before him and said:  
-*“O Suleyman\! you will make many conquests. You should spend the booty
+*“O Suleyman! you will make many conquests. You should spend the booty
 on embellishing Mecca and Medina and fortifying the citadel of Jerusalem
 in order to repulse the unbelievers, when they attempt to take
 possession during the reign of your successors. You should also
@@ -133,7 +137,7 @@ sailed back leaving the Venetians to their own defenses. Cyprus was lost
 and on top of that the Venetians had to compensate the Turks for Lepanto
 by paying a hefty fine. Joseph wanted to become the Jewish king of
 Cyprus but the Khalif laughed him off; all the same he gave him a grant
-for his Jewish printing press to print their religious material.
+for his Jewish printing press to print their religiousmaterial.
 Joseph’s cousin Abraham Benveniste was caught by the Venetians for
 sending intelligence to the Osmans during the conquest of Cyprus and was
 sent to suffer the inquisition.
@@ -151,9 +155,10 @@ course of Pakistani strategy in our favor. Our friend Ekanetra merely
 smiled and then said: “It’s no doubt a victory with a big kill ratio in
 our favor. But what do we have to show for the victory? It’s no
 different from the Bangladesh war where we are back to square one.” We
-thought of the above history and nodded in agreement. By that we do not
+thoughtof the above history andnodded in agreement. By that we do not
 mean that we should not fight and win wars against the army of Islam but
 as long as our people continue to not know the objectives of the war
 against the army of Islam such victories are mostly empty (though
 certainly better than a defeat). There is more to be learned from the
 above history but that is only for the discerning.
+

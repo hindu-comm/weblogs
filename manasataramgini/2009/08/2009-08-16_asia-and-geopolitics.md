@@ -1,13 +1,17 @@
 +++
 title = "Asia and geopolitics"
+date = "2009-08-16"
+upstream_url = "https://manasataramgini.wordpress.com/2009/08/16/asia-and-geopolitics/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/08/16/asia-and-geopolitics/).
+
 The mettle of any nation or for that matter any individual is tested in
 war or strife. That is why we are inspired by the image of the
 soma-drinking thunderer:  
 “AshuH shishAno vR^iShabho na bhImo ghanAghanaH kShobhaNash
-charShaNInAm|  
-saMkrandano.animiSha ekavIraH shataM senA ajayat sAkam indraH ||”  
+charShaNInAm\|  
+saMkrandano.animiSha ekavIraH shataM senA ajayat sAkam indraH \|\|”  
 But the modern Indian “elites” appears to have lost the ardor of their
 ancestors even as they stopped their rites to the lord of the gods.  
 Years ago the third hero was up to date with all the geopolitics of the
@@ -124,16 +128,15 @@ should be understood:
 1\) While the mlechCha-s would give us some aid if chIna-s attack us
 outright, it will be at the cost of emasculating us on the turuShka
 front – they are really not interested in us getting strong.  
-2\) The mlechCha-s really cannot do much by way of aid because: 2.1)
-they have less familiarity than us in any of these regions. 2.2) They
-are finding themselves stretched by their recent military adventures
-(they could do nothing against Russia in Georgia). 2.3) They are
-themselves held by the balls by the chIna-s due to the manufacturing and
-debt issues. 2.4) A large faction amongst them prefers the chIna-s to us
-due the above-described image building.  
-3\) Like in the 1960s, our army is disastrously underprepared for a
-great war. This has been admitted recently by the chiefs of staff of our
-senA.
+2) The mlechCha-s really cannot do much by way of aid because: 2.1) they
+have less familiarity than us in any of these regions. 2.2) They are
+finding themselves stretched by their recent military adventures (they
+could do nothing against Russia in Georgia). 2.3) They are themselves
+held by the balls by the chIna-s due to the manufacturing and debt
+issues. 2.4) A large faction amongst them prefers the chIna-s to us due
+the above-described image building.  
+3) Like in the 1960s, our army is disastrously underprepared for a great
+war. This has been admitted recently by the chiefs of staff of our senA.
 
 But why is this chIna-issue coming to the fore right now for bhArata? It
 is clear that chIna-s are gearing up for their long cherished dream of
@@ -215,3 +218,4 @@ In terms of military logistics I fear that chIna-s might have
 considerably more transport aircraft than us. In light of all this I
 would not be surprised if we are in for an existential crisis from the
 imperialism of our North Eastern bhai-s.
+

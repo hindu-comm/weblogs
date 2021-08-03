@@ -1,10 +1,14 @@
 +++
 title = "The engineer, the dead fish and the bag of earth-II"
+date = "2014-05-12"
+upstream_url = "https://manasataramgini.wordpress.com/2014/05/12/the-engineer-the-dead-fish-and-the-bag-of-earth-ii/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/05/12/the-engineer-the-dead-fish-and-the-bag-of-earth-ii/).
+
 [From chapter
 1](https://manasataramgini.wordpress.com/2014/05/06/the-engineer-the-dead-fish-and-the-bag-of-earth/ "The engineer, the dead fish and the bag of earth-I")  
-mR^ita-matsyo nAma dvitIyo.adhyAyaH |  
+mR^ita-matsyo nAma dvitIyo.adhyAyaH \|  
 Sometime later the country abruptly returned to normalcy – the Hindus
 heaved a sigh of relief. The buzz going around was that the seasoned
 politician and home minister Vidharam Yadav, who was reputed to have
@@ -25,22 +29,22 @@ have not looked at the sequences yet as you are best qualified to take
 the first stab at them.” She pulled out her tablet and showed the data
 to Somakhya. Lootika: “Ah the first mutation seems like in no man’s
 land.” Somakhya snatching her tablet and scrolling down the chromosome
-remarked: “Hey, not really\! See it is in the regulatory region of WDR5:
+remarked: “Hey, not really! See it is in the regulatory region of WDR5:
 part of the MLL1 histone H3K4 methylase complex. That clinches our hunch
-that this is an epigenetic phenomenon\! Let’s look at the next one.”
+that this is an epigenetic phenomenon! Let’s look at the next one.”
 Lootika taking back her tablet said: “Here it is, one of the DNMT3
-paralogs of the fish-specific expansion. And look at this\! The
-remaining two are also other DNMT3 paralogs.” They did a spontaneous
-high-five and said: “This is splendid\!” Somakhya: “I have devised in my
-mind a new sequencing methodology. I think you should get your little
-sis Jhilleeka to try to implement it along with my acquaintance Sandeep,
-who seems to have conquered the necessary microfluidics technology and
-has obtained some money to do such things. It would be a good thing for
-Jhilleeka to spend her long vacation on. We can then sequence the
-methylomes and study the status of the various heat acclimatization
-loci.” Lootika: “Indeed that would be a great thing to do. It could also
-be leveraged for our long term plan to understand how the XX-XY and
-WZ-ZZ sex determination evolved in the two species of *Gambusia*.”
+paralogs of the fish-specific expansion. And look at this! The remaining
+two are also other DNMT3 paralogs.” They did a spontaneous high-five and
+said: “This is splendid!” Somakhya: “I have devised in my mind a new
+sequencing methodology. I think you should get your little sis Jhilleeka
+to try to implement it along with my acquaintance Sandeep, who seems to
+have conquered the necessary microfluidics technology and has obtained
+some money to do such things. It would be a good thing for Jhilleeka to
+spend her long vacation on. We can then sequence the methylomes and
+study the status of the various heat acclimatization loci.” Lootika:
+“Indeed that would be a great thing to do. It could also be leveraged
+for our long term plan to understand how the XX-XY and WZ-ZZ sex
+determination evolved in the two species of *Gambusia*.”
 
 A week later Vidharam Yadav made his much awaited announcement. In the
 deal he had cut, the two opposition leaders Azhar Mehmood and Sajid Mir
@@ -82,10 +86,10 @@ Instruct her to be careful – wear gloves and work in a hood and all
 that. Then get the plates to me.” Two days latter Somakhya lifted his
 eye from the ocular of the microscope and turning to Lootika and
 Vrishchika remarked “Look at those saffron rods – it is *Edwardsiella
-tarda*.” Vrishchika: “trayastriMshAH\! Good we took precaution. Our
+tarda*.” Vrishchika: “trayastriMshAH! Good we took precaution. Our
 father had described to me a case: a man had come to him from Mumbai
 where he had sustained an injury while sailing. His leg muscles were
-undergoing rapid necrosis. It turned out to be *E. tarda*\! We may be
+undergoing rapid necrosis. It turned out to be *E. tarda*! We may be
 able to save chitra after all.” Somakhya: “We must sequence the genome
 of this killer – there must be something of interest there.”
 
@@ -101,12 +105,12 @@ he merely waved to the three and went his way. As Somakhya, Lootika and
 Vrishchika sat in silence on a culvert of the temple to take in the
 quiet and mild evening breeze they heard a couple of talking mynahs (a
 common Indian starling). The mynahs fluttering up and down said:
-“pilipichChikA pilipichChikA ||” Vrishchika: “That surely looks like a
+“pilipichChikA pilipichChikA \|\|” Vrishchika: “That surely looks like a
 sign to us.” Somakhya: “Perhaps. In any case let us perform the homa.”
 They soon created a sthaNDila in the temple courtyard and having kindled
-the fire started making oblations with the mantra: “pilipichChike\!
-skanda-dUte\! juhuyAma tvA asmAkam prAkAra samIpe vetAlaM shIgram Anaya
-Anaya svAhA ||” After they had finished about 52 oblations they had a
+the fire started making oblations with the mantra: “pilipichChike!
+skanda-dUte! juhuyAma tvA asmAkam prAkAra samIpe vetAlaM shIgram Anaya
+Anaya svAhA \|\|” After they had finished about 52 oblations they had a
 real scare as they saw a being walk towards them holding a broad-bladed
 weapon. They thought we have not even said “prakaTi bhava” and who is
 this being that has so menacingly arrived – it looks like a rAkShasa and
@@ -114,18 +118,18 @@ not the vetAla whom we were expecting. But their fears were laid to rest
 as the being came closer – it happened to just be Vidrum who had arrived
 carrying his billhook and took a seat in their vicinity. As they
 completed the 143rd oblation they felt a sensation of being overwhelmed.
-They immediately switched to the incantation: “rudrasya bhR^itya\! iha
-prakaTI bhava hulu hulu hili hili svAhA ||” After sometime they felt
+They immediately switched to the incantation: “rudrasya bhR^itya! iha
+prakaTI bhava hulu hulu hili hili svAhA \|\|” After sometime they felt
 they were entering a trance. At that point they knew the vetAla had
 indeed come and they started calling upon him to start speaking. As a
 vetAla might respond to the AryavAk or to the dramiDa vAk or the
 apabhraMsha they had to call upon him multilingually: “bho vetAla
-shIgraM vada vada\! Dei chollu chollu vetAlaNe shIgrama pechu pechu\!
-arre bhetAla mahNa mahNa\!” Soon they felt lapsing into an utter
-silence. And then they heard the vetAla speak to them in their minds.
-When it was over they snapped back to the realm of the “real world”.
-They typed in what they had heard from the vetAla on their tablets and
-emailed it Vidrum.
+shIgraM vada vada! Dei chollu chollu vetAlaNe shIgrama pechu pechu! arre
+bhetAla mahNa mahNa!” Soon they felt lapsing into an utter silence. And
+then they heard the vetAla speak to them in their minds. When it was
+over they snapped back to the realm of the “real world”. They typed in
+what they had heard from the vetAla on their tablets and emailed it
+Vidrum.
 
 They asked him to open and compare the messages. To his surprise he
 found Somakhya, Lootika and Vrishchika had sent more or less the same
@@ -139,7 +143,7 @@ mighty pAshupataM; thus the feet of the young hero will show you the way
 out when the moment of reckoning arrives.”*  
 Vidrum remarked: “That is really strange. A fitting message from a
 vetAla. May be you guys are destined for attain the status of a
-vidyAdhara\!”
+vidyAdhara!”
 
 Lootika and Vrischika: “That is a real one. Somakhya do you make sense
 of that?” Somakhya only said: “Let’s go home. Now that our business is
@@ -151,12 +155,12 @@ yelling: “You have to figure this out; you seem to know something but
 still keep quiet. Truth to be told, it sounds a bit ominous.” Somakhya:
 “vetAla-s are always ominous. It’s getting late your parents might get
 worried.” Then Somakhya continued ambling with Vidrum towards the
-latter’s house. Vidrum: “Would you like to catch today’s match with
-some pakoDA-s or samosA-s.” Somakhya: “Better get home soon, you know
-the marUnmatta-s or shavasAdhaka-s could be on the prowl as night
-grows.” So he took his bike from Vidrum’s home and sped towards his
-own which was at some distance from those of the other three, ensconced
-in a walled compound.. Once there he typed out an email to Lootika:  
+latter’s house. Vidrum: “Would you like to catch today’s match with some
+pakoDA-s or samosA-s.” Somakhya: “Better get home soon, you know the
+marUnmatta-s or shavasAdhaka-s could be on the prowl as night grows.” So
+he took his bike from Vidrum’s home and sped towards his own which was
+at some distance from those of the other three, ensconced in a walled
+compound.. Once there he typed out an email to Lootika:  
 “*We should try to sequence that E.tarda DNA you isolated as soon as
 possible. We will try it out in Sandeep’s machine tomorrow. Get
 Jhilleeka along so that we could prime her to get started.*”  
@@ -205,9 +209,9 @@ two sides of the same coin. The source of pleasure is also one of
 sorrow. Alas our paths diverge and the vyomayAna will place us apart –
 Out of sight is out of mind and a woman like her would not be found even
 if one were to go around the world like kumAra in the contest for
-brahmA’s mango.” He looked intently at Lootika’s pretty face. He felt
-it was cold and unemotional. He quickly snapped back reminding himself
-that as the shAstra-s had warned such pleasures were ephemeral and are
+brahmA’s mango.” He looked intently at Lootika’s pretty face. He felt it
+was cold and unemotional. He quickly snapped back reminding himself that
+as the shAstra-s had warned such pleasures were ephemeral and are
 ordained to go away. He thought: “After all she might get a hundred
 males to mill around her wherever she goes; so why should I reside in
 the torment of pining for her.” So he abruptly turned to leave. However,
@@ -221,7 +225,7 @@ The rest of the day he applied himself to the mystery gene and by night
 he figured it out after a complex battle with its sequence. The last
 email he sent that day was addressed to Lootika:  
 *“lUtike priyatame: it is an ADP ribosyltransferase. May pUShaN bear you
-aid\!*”
+aid!*”
 
 Lootika caught in the bustle of leaving the country the next day never
 got to respond to his mail or appreciate the great conquest of Somakhya;
@@ -229,3 +233,4 @@ nevertheless she quickly recorded it in her files and left.
 
 [To chapter
 3](https://manasataramgini.wordpress.com/2014/05/15/the-engineer-the-dead-fish-and-the-bag-of-earth-iii/ "The engineer, the dead fish and the bag of earth-III")
+

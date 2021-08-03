@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "November 24, 2020"
+date = "2020-11-24"
+upstream_url = "https://vriitrahan.wordpress.com/2020/11/24/skewer-meat/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2020/11/24/skewer-meat/).
+
 यत्ते॒ गात्रा॑द॒ग्निना॑ प॒च्यमा॑नाद॒भि शूलं॒ निह॑तस्याव॒धाव॑ति  
 मा तद्भूम्या॒मा श्रि॑ष॒न्मा तृणे॑षु दे॒वेभ्य॒स्तदु॒शद्भ्यो॑ रा॒तम॑स्तु
 

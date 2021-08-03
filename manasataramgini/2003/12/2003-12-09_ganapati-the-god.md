@@ -1,7 +1,11 @@
 +++
 title = "gaNapati-The god"
+date = "2003-12-09"
+upstream_url = "https://manasataramgini.wordpress.com/2003/12/09/ganapati-the-god/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/12/09/ganapati-the-god/).
+
 gaNapati while being one of the most widely worshiped deities of the
 Hindu pantheon is one of the most poorly understood ones in terms of
 origins and history. The sectarian worship of gaNapati and kumAra unlike
@@ -52,3 +56,4 @@ use mantras termed the gaNapati atharvashiras to perform their rites.
 They also perform the great rite of the gaNapati kalpa as laid out in
 the dharma shAstras. They also use vedic hymns to the maruts and rudra
 in their rites.
+

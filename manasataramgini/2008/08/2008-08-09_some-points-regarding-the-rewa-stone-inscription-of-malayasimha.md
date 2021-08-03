@@ -1,7 +1,11 @@
 +++
 title = "Some points regarding the Rewa stone inscription of malayasiMha"
+date = "2008-08-09"
+upstream_url = "https://manasataramgini.wordpress.com/2008/08/09/some-points-regarding-the-rewa-stone-inscription-of-malayasimha/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/08/09/some-points-regarding-the-rewa-stone-inscription-of-malayasimha/).
+
 The inscription was made for malaya-siMha, a general of the Tripuri
 kalachuri king vijaya-siMha-deva and several of his officials like a
 certain hari-sImha. The Sanskrit looks pretty strange to me in some
@@ -13,12 +17,12 @@ malaya-siMha launches into a long celebration of his great deeds of
 archery and the achievements of his ministers. It seems to appear that
 malaya-siMha and his panegyrist were blissfully unaware of the coming
 storm that was to end his all too familiar world. Earlier,
-vijaya-siMha’s father jaya-siMha defeated Shihab-ud-din Ghori in
-around 1180 CE during one of his early incursion towards the Indian
-heartland. But squandered his power in battles with the chandellas and
-other kalachuris where he was badly beaten despite his fiery archery. It
-was during that invasion of the turuShka that the saiddhAntika
-vimala-shiva had supposedly performed abhichArika rites for his victory.
+vijaya-siMha’s father jaya-siMha defeated Shihab-ud-din Ghori in around
+1180 CE during one of his early incursion towards the Indian heartland.
+But squandered his power in battles with the chandellas and other
+kalachuris where he was badly beaten despite his fiery archery. It was
+during that invasion of the turuShka that the saiddhAntika vimala-shiva
+had supposedly performed abhichArika rites for his victory.
 
 There is evidence from medieval manuals of mantra-s that ma\~njugoSha
 was worshipped by the Astika-s. The Rewa inscription provides one clear
@@ -26,9 +30,9 @@ cut example in this regard from central India. It is clear the composer
 was an Astika because he declares himself to be a vaidIka in rather
 immodest terms:  
 tarke j\~nAta matIva yasya chatura shabdArtha shAstre tathA
-mImAmsAdhigato vipashchid-abhavad vedAnta-yogAdi dhI |  
+mImAmsAdhigato vipashchid-abhavad vedAnta-yogAdi dhI \|  
 vedAbhyAsarata sadA suviduShAM mUrdhni prabaddhaa\~njalir vipra shrI
-puruShottamo bhuvi mahAn buddhyA cha vAchaspati ||  
+puruShottamo bhuvi mahAn buddhyA cha vAchaspati \|\|  
 Here, he states that he is well-versed in logic, grammar and language,
 mImAmsa, vedAnta, yoga and devotes himself to vedic study. It is
 interesting that he terms himself vAchaspati – could it be an allusion
@@ -36,9 +40,9 @@ to ma\~njugoSha the deity with which he opens the inscription and feels
 some personal connection?
 
 The invocation of ma\~njughoSha runs thus:  
-aSTaara-chakraakR^iti pUrNachandra padmAsanastha hima-shaila-gauram |  
+aSTaara-chakraakR^iti pUrNachandra padmAsanastha hima-shaila-gauraM \|  
 savyetarA pANiga \[or savyetarapaNiga?\] khaDga pusta vakShyAmi natvA
-khalu ma\~njughoSham ||  
+khalu ma\~njughoShaM \|\|  
 Here, ma\~njughoSha is described as being white as the himAlaya, seated
 in the lotus seat of the full moon of the form of a wheel with 8 spokes.
 He bears a sword in right and book in his left hand. While bauddha-s
@@ -87,17 +91,17 @@ Rewa ma\~njughoSha in their dhyAna shloka-s of ma\~njughoSha. We find
 two major references to ma\~njughoSha in the medieval tantric manuals:
 the shrIvidyArNava of vidyAraNya yati and the tantra sAra of
 AgamavAgIsha from the va\~nga country. Here the ma\~njughoSha mantra-s
-are variants of the famous nAstika mantra rAja: arapachana dhIH || It is
-cited as being derived from older lost tantra-s known as the
+are variants of the famous nAstika mantra rAja: arapachana dhIH \|\| It
+is cited as being derived from older lost tantra-s known as the
 bhairava-tantra (possibly a general reference to the bhairava-tantras?),
 Agamottara and the kukkuteshvara tantra \[Though R1’s father informs me
 that kukkuteshvara manuscripts were possibly extant in Nepal\]. In these
 Astika tantra-s we find two dhyAna-s.  
 The shrIvidyArNava dhyAna 1:  
 saMpUrNa-mANdala-tuShara-marIchi-madhye bAlaM vichintya dhavalaM
-vara-khaDga-hastam |  
+vara-khaDga-hastaM \|  
 uddAma-kesha-nivahaM \[ka\~NkaNa-vahaM\] vara-pustakAdhyaM prauDhaM
-\[nagnaM\] japet kShataja-padma-dalAyatAkSham ||  
+\[nagnaM\] japet kShataja-padma-dalAyatAkShaM \|\|  
 In this dhyAna we note he is seated on a full moon, holds the book and
 the sword and is white in complexion, thus largely matching the form in
 the inscription.
@@ -108,15 +112,15 @@ ajita-mitra and also inserted into a ma\~njuvajra stotra of another
 nAstika adept named ma\~njugarbha.  
 Astika version:  
 shashadharam iva shubhraM khaDga-pustA\~Nka-pANiM suruchiram ati-shAntaM
-pa\~ncha-chUDaM kumAram |  
+pa\~ncha-chUDaM kumAraM \|  
 pR^ithu-tara-vara-mukhyaM padma-patrAyatAkShaM kumati-dahana-dakShaM
-ma\~njughoShaM namAmi ||
+ma\~njughoShaM namAmi \|\|
 
 bauddha form:  
 shashadharaM ive shubhraM khaDga-pustA\~nka-pANim suruchiram ati-shAntaM
-pa\~nchachIraM kumAram |  
+pa\~nchachIraM kumAram \|  
 pR^ithu-rati \[tara\]-vara-mokShaM padma-patrAyatAkShaM
-kumati-dahana-dakShaM ma\~njughoShaM praNamya ||
+kumati-dahana-dakShaM ma\~njughoShaM praNamya \|\|
 
 While parts of this dhyAna are unclear (e.g. what does
 pR^ithu-tara-vara-mukhyaM mean?) this form too largely resembles the one
@@ -132,7 +136,7 @@ identified as ma\~njughoSha. It appears that the Astika tradition
 conception of ma\~njughoSha evolved from such a system of
 identification. Hence, it adopted derivatives of the arapachana mantra
 as the mantra of ma\~njughoSha rather than using traditional bauddha
-mantra of ma\~njughoSha, i.e.: OM vAgIshvara mUH || What the Rewa
+mantra of ma\~njughoSha, i.e.: OM vAgIshvara mUH \|\| What the Rewa
 inscription suggests is that the iconography of ma\~njughoSha followed
 by the medieval mantra-shAstra manuals and its sources like the
 kukkuTeshvara tantra was indeed the one prevalent amongst Astika-s.
@@ -140,8 +144,9 @@ kukkuTeshvara tantra was indeed the one prevalent amongst Astika-s.
 Finally, it may be noted that the variants of the arapachana mantra in
 the shrIvidyArNava are: aravachanadhIM, aravachana dhIH and
 aravaMchaladhI  
-The pa-\>va transform seen in these forms is suggestive of a possible
+The pa->va transform seen in these forms is suggestive of a possible
 drAviDa influence in the transformation. drAviDi Prakrits tend to
-conflate internal pa with va (e.g. Skt pApa -\> pAva). Also in the
+conflate internal pa with va (e.g. Skt pApa -> pAva). Also in the
 Grantha script these two letters are similar in shape leading to
 potential confusion.
+

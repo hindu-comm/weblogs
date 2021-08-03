@@ -1,7 +1,11 @@
 +++
 title = "A note on lost Śaiva centers: consideration of examples from Magadha and Vaṅga"
+date = "2016-02-28"
+upstream_url = "https://manasataramgini.wordpress.com/2016/02/28/a-note-on-lost-saiva-centers-consideration-of-examples-from-magadha-and-va%e1%b9%85ga/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2016/02/28/a-note-on-lost-saiva-centers-consideration-of-examples-from-magadha-and-va%e1%b9%85ga/).
+
 To be read in conjunction with this handout: [Harihara in the
 Indosphere](https://manasataramgini.files.wordpress.com/2016/02/harihara.pdf)
 
@@ -46,7 +50,7 @@ of the grandeur of the old saiddhāntika system in the north. The
 evidence needs to be gathered from relatively obscure archaeological and
 iconographic records, and what we learn is a staggering loss of old
 Hindu civilizational centers. While our collection is large, putting
-the examples out in a digested form does not seem easy to us. Hence,
+theexamplesout in a digested form does not seem easy to us. Hence,
 what is presented here is just a small note on some specific sites,
 which may seem whimsical, but we just need to do this remind ourselves
 of the bigger picture that we have in our minds.
@@ -105,12 +109,12 @@ inscription was reported by Kielhorn in Epigraphia Indica, I, 1892, pp.
 305-15. ‘Deopara Stone Inscription of Vijayasena’. This inscription
 decorated with the verses of the poet Umāpatidhara, a courtier of king
 Vijayasena, against whom Jayadeva rates himself in his Gītagovinda:
-“vācaḥ pallavayaty umāpatidharaḥ sandarbha-śuddhiṃ girāṃ jānīte
-jayadeva eva…” \[The utterances (poetry) of Umāpatidhara are like buds
-blooming but Jayadeva alone is acquainted with the purity of lyrical
-arrangement in songs…\]. There Umāpatidhara states that the king
-Vijayasena (1095-1158 CE) performed the kumbhābhiṣeka of a grand temple
-known as Pradyumneśvara and had a tank excavated before it.
+“vācaḥ pallavayaty umāpatidharaḥ sandarbha-śuddhiṃ girāṃ jānīte jayadeva
+eva…” \[The utterances (poetry) of Umāpatidhara are like buds blooming
+but Jayadeva alone is acquainted with the purity of lyrical arrangement
+in songs…\]. There Umāpatidhara states that the king Vijayasena
+(1095-1158 CE) performed the kumbhābhiṣeka of a grand temple known as
+Pradyumneśvara and had a tank excavated before it.
 
 While no signs of the temple were seen, despite the ravages of
 Mohammedanism until not long ago there remained in local memory the
@@ -127,7 +131,7 @@ pradyumneśvara\[-śavdabda\]-lāñcanam adhiṣṭhānaṃ namaskūrmahe ।
 yatrā+āliṅgana-bhaṅga-kātaratayā sthitvā+antare kāntayor  
 devībhyām apy abhinna-tanutā Śilpe ‘ntarayāḥ kṛtaḥ ॥
 
-Words in \[\] are unclear to me but the verse can be understood as:
+Words in \[\] are unclear to me but the versecan be understood as:
 
 We pay obeisance to the temple bearing the designation of
 Pradyumneśvara,  
@@ -145,18 +149,18 @@ son Ballālasena. They established a powerful Gangetic fleet to control
 much of Eastern India with their amphibious forces and an alliance with
 the Coḻa-Gaṅgā-s. Their inscriptions often bear the characteristic terms
 such as paramaśaiva/paramamāheśvara, Sadāśiva-mudrā and
-“Sadāśiva-mudrayā mudrayitvā…” Corresponding to these terms the
-image of Sadāśiva can be seen on their copper plate inscriptions. One
-example of such is a beautiful copper plate with the ten-handed image of
-Sadāśiva marking the rituals performed by Udayākara-deva for the
-Vijayasena’s queen Vilāsadevī on occasion of a lunar eclipse. These
-features indicate that the Sena-s were not just any Śaiva-s, but
-specifically those with saiddhāntika dīkṣa. Moreover, the Hariharamūrti
-as that installed at Pradyumneśvara is one of the Śiva forms
-specifically mentioned in the sthāpana-tantra-s of the ūrdhvasrotas.
-Further, the later work the Ballālacarita records another erstwhile
-massive Śaiva-kṣetra in Eastern Varendri suggesting that Pradyumneśvara
-was only one of many Śaiva centers patronized by the Sena-s.
+“Sadāśiva-mudrayā mudrayitvā…” Corresponding to these terms the image of
+Sadāśiva can be seen on their copper plate inscriptions. One example of
+such is a beautiful copper plate with the ten-handed image of Sadāśiva
+marking the rituals performed by Udayākara-deva for the Vijayasena’s
+queen Vilāsadevī on occasion of a lunar eclipse. These features indicate
+that the Sena-s were not just any Śaiva-s, but specifically those with
+saiddhāntika dīkṣa. Moreover, the Hariharamūrti as that installed at
+Pradyumneśvara is one of the Śiva forms specifically mentioned in the
+sthāpana-tantra-s of the ūrdhvasrotas. Further, the later work the
+Ballālacarita records another erstwhile massive Śaiva-kṣetra in Eastern
+Varendri suggesting that Pradyumneśvara was only one of many Śaiva
+centers patronized by the Sena-s.
 
 A Śiva going by the name Pradyumneśvara was worshiped in the eastern
 reaches of the Vaṅga country from at least the late Gupta age for we
@@ -233,3 +237,4 @@ used by the viśvakarman-s in Vaṅga for casting metal as well as
 techniques used to produce gilt and blue-green pigmented stone images.
 So much so that the latter type of images are commonly no longer
 considered of Indian origin but seen as being of Tibetan provenance.
+

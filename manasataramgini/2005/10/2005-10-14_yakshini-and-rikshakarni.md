@@ -1,7 +1,11 @@
 +++
 title = "yakShiNi and R^ikShakarNi"
+date = "2005-10-14"
+upstream_url = "https://manasataramgini.wordpress.com/2005/10/14/yakshini-and-rikshakarni/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/10/14/yakshini-and-rikshakarni/).
+
 Having been trapped with the ghoraprakR^iti we sought to escape on that
 rainy day. After the passage through the kAlaChidras the many paths and
 had been sealed and there was a single path winding through naraka. The
@@ -27,3 +31,4 @@ tied up into an erect knot and she had 3 blazing eyes with the ears of a
 bear. Her breasts were rising and she caused all kinds of rasas to
 tingle the body. Then she extended her palm and from that arose a
 yakShiNi. In the embrace of the yakShiNi we flew to the higher realms.
+

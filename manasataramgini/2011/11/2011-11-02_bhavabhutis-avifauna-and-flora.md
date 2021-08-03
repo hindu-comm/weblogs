@@ -1,7 +1,11 @@
 +++
 title = "bhavabhUti’s avifauna and flora"
+date = "2011-11-02"
+upstream_url = "https://manasataramgini.wordpress.com/2011/11/02/bhavabhutis-avifauna-and-flora/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/11/02/bhavabhutis-avifauna-and-flora/).
+
 A good kavI of yore is supposed to have been a naturalist. We had
 earlier given an example of this in the form of vAkpati’s
 [characterization of the
@@ -12,13 +16,13 @@ in the court of the neo-mauryan ruler yashovarman who was overwhelmed by
 the great Kashmirian conqueror lalitAditya.
 
 kAshmaryAH kR^itamAlam udgatadalaM koyaShTikaSh TIkate nIrAshmantaka
-shimbi chumbana-mukhA dhAvanty apaH pUrNikAH |  
+shimbi chumbana-mukhA dhAvanty apaH pUrNikAH \|  
 dAtyUhais tinishasya koTaravati skandhe nilIya sthitaM
-vIrunnIDakapotakUjitam anukrandanty adhaH kukkubhAH ||
+vIrunnIDakapotakUjitam anukrandanty adhaH kukkubhAH \|\|
 
 kAshmaryAH=*Gmelina* trees; kR^itamAlam=*Cassia* tree; udgata-dalaM=
 spread-out leaves; koyaShTikaSh=lapwing; TIkate=hops up; nIrAshmantaka=
-river *Bauhinia*; shimbi=pod chumbana-mukhA= touching mouth;
+river *Bauhinia*; shimbi=pod chumbana-mukhA=touching mouth;
 dhAvanty=run; apaH=water; pUrNikAH=hornbills ; dAtyUhais= purple
 moorhens; tinishasya= of *Dalbergia* tree; koTaravati= with a hollow;
 skandhe= branch; nilIya=settles in; sthitaM= situated; vIrunnIDa= tree
@@ -39,3 +43,4 @@ Thus, 5 species of birds and 4 species of trees are mentioned by
 bhavabhUti in this verse. As an aside one may note that the word nIDa in
 the above verse is a cognate of Latin nIDus and nest in English – a word
 of proto-Indo-European provenance.
+

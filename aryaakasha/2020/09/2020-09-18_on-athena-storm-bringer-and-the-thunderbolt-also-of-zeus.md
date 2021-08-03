@@ -1,8 +1,11 @@
 +++
-title = "On Athena Storm-Bringer And The Thunderbolt Also Ofxa0Zeus"
-date = "September 18, 2020"
+title = "On Athena Storm-Bringer And The Thunderbolt Also Of Zeus"
+date = "2020-09-18"
+upstream_url = "https://aryaakasha.com/2020/09/18/on-athena-storm-bringer-and-the-thunderbolt-also-of-zeus/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/09/18/on-athena-storm-bringer-and-the-thunderbolt-also-of-zeus/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/09/unnamed-6.jpg?w=500)
 
 There is a rather interesting line in Aeschylus’ Eumenides concerning

@@ -1,8 +1,11 @@
 +++
-title = "The Six-Faced Son Of The Skyxa0Father"
-date = "July 20, 2021"
+title = "The Six-Faced Son Of The Sky Father"
+date = "2021-07-20"
+upstream_url = "https://aryaakasha.com/2021/07/20/the-six-faced-son-of-the-sky-father/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/07/20/the-six-faced-son-of-the-sky-father/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/07/e6thllhucaengzc.jpg?w=1024)
 
 Apt for a Tuesday (that is to say – Mars’ Day: Dies Martis, Hemera

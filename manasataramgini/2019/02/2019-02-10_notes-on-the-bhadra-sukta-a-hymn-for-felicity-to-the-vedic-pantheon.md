@@ -1,7 +1,11 @@
 +++
 title = "Notes on the Bhadra-sūkta, a hymn for felicity to the Vedic pantheon"
+date = "2019-02-10"
+upstream_url = "https://manasataramgini.wordpress.com/2019/02/10/notes-on-the-bhadra-sukta-a-hymn-for-felicity-to-the-vedic-pantheon/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2019/02/10/notes-on-the-bhadra-sukta-a-hymn-for-felicity-to-the-vedic-pantheon/).
+
 For better type-setting and Devanagari rendering use [PDF
 version](https://manasataramgini.files.wordpress.com/2019/02/bhadrasuktam.pdf).  
 **Introduction**  
@@ -19,12 +23,11 @@ and Hiraṇyakeśin sub-schools have come down to us. The mantra-s in them
 are typically deployed in gṛhya rituals directed by instructions from
 their gṛhyasūtra-s. However, the Vaikhānasa-mantra-pāṭha is distinctive
 in having a late terminal part that is used in the iconic worship of
-Viṣṇu by the Vaikhānasa-s. The Hiraṇyakeśī-mantra-pāṭha has a
-ṛk-saṃhitā as part of it and is used by the Hiraṇyakeśīn-s of
-Maharashtra and Tamil Nadu in their rituals to this date. In someways
-this is reminiscent of the hautra-pariśiṣṭha of the Āpastamba-s that is
-used by Yajurvedin-s to supplement the role normally performed by the
-Ṛgvedin hotṛ.
+Viṣṇu by the Vaikhānasa-s. The Hiraṇyakeśī-mantra-pāṭha has a ṛk-saṃhitā
+as part of it and is used by the Hiraṇyakeśīn-s of Maharashtra and Tamil
+Nadu in their rituals to this date. In someways this is reminiscent of
+the hautra-pariśiṣṭha of the Āpastamba-s that is used by Yajurvedin-s to
+supplement the role normally performed by the Ṛgvedin hotṛ.
 
 Other than these mantra-pāṭha-s of the KYV, we also have comparable
 supplementary mantra-collections among the Sāmavedin-s in their
@@ -52,8 +55,8 @@ combined mantra-deployment of Paippalāda AV mantra-s along with
 tāntrika-vidyā-s. With regard to the AV tradition one may also point to
 the Tripurārṇava-tantra, an authoritative mūla-tantra of the Śrīkula
 tradition. The
-![20^{th}](https://s0.wp.com/latex.php?latex=20%5E%7Bth%7D&bg=ffffff&fg=333333&s=0
-"20^{th}") taraṃga of this text preserves a combined tāntrika-vaidika
+![20^{th}](https://s0.wp.com/latex.php?latex=20%5E%7Bth%7D&bg=ffffff&fg=333333&s=0&c=20201002)
+taraṃga of this text preserves a combined tāntrika-vaidika
 mantra-deployment for the Indramahotsva (the great festival of Indra)
 which associates itself the AV. This association is likely genuine for
 the AV is the one vaidika tradition that has clear injunctions for the
@@ -65,9 +68,9 @@ scheme.
 
 Our Kashmirian text associated with the Kaṭha school, like other
 mantra-paṭha-s, has some unique Vedic material. One such is the
-Bhadrasūkta which is the topic of this note. This sūkta of 22 ṛk-s is
-to our knowledge not found in any other saṃhitā. It is mostly comprised
-of regular jagati-s (12-12-12-12), with the last ṛk being a triṣṭubh
+Bhadrasūkta which is the topic of this note. This sūkta of 22 ṛk-s is to
+our knowledge not found in any other saṃhitā. It is mostly comprised of
+regular jagati-s (12-12-12-12), with the last ṛk being a triṣṭubh
 (11-11-11-11). There may be some hypermetrical verses like ṛk-17
 (12-12-12-13). The sūkta has a form rather similar to the RV7.35 of
 Vasiṣṭha Maitrāvaruṇi. Like that one it is a vaiśvadeva-sūkta, which
@@ -85,8 +88,8 @@ the repetitions of bhadra is seen on multiple occasions in the RV albeit
 not in vaiśvadeva-sūkta-s (e.g. RV8.62 of Pragātha Kāṇva) and also in
 the AV saṃhitā-s. A ṛk of Sobhari Kāṇva (RV8.19.19) also uses the word
 bhadra repeated in a sense similar to this sūkta:  
-bhadro no agnir āhuto bhadrā rātiḥ subhaga bhadro adhvaraḥ | bhadrā uta
-praśastayaḥ ||  
+bhadro no agnir āhuto bhadrā rātiḥ subhaga bhadro adhvaraḥ \| bhadrā uta
+praśastayaḥ \|\|  
 For us auspicious Agni when he is made an offering, the auspicious gift,
 the auspicious ritual, you the giver of good luck, \[for us\] auspicious
 hymns of praise.  
@@ -133,10 +136,10 @@ this planetary name.
 RV Mātariśvan is often mentioned as bringing Agni to the Bhārgava-s and
 humans at large (evidently from Vivasvat). In RV3.29.11 Viśvāmitra
 clarifies this identification by stating: “mātariśvā yad amimīta mātari
-vātasya sargo abhavat sarīmaṇi ||”: \[He is called\] Mātariśvan when he
-measures out \[the space\] in his mother; he became the rush of the wind
-in flowing out. Thus, we translate Mātariśvan as “he who grows in his
-mother” meaning “he who grows in the world-womb.
+vātasya sargo abhavat sarīmaṇi \|\|”: \[He is called\] Mātariśvan when
+he measures out \[the space\] in his mother; he became the rush of the
+wind in flowing out. Thus, we translate Mātariśvan as “he who grows in
+his mother” meaning “he who grows in the world-womb.
 
 3\. In ṛk-10 we seen an invocation of various physiological processes.
 This is unique for a vaiśvadeva-sūkta and not seen in RV sūkta-s of this
@@ -150,27 +153,28 @@ The emended text of the sūkta is presented below with an approximate
 translation.
 
 **Bhadrasūkta: text**  
-bhadro no agniḥ suhavo vibhāvasur bhadra indraḥ puruhūtaḥ puruṣṭutaḥ |  
+bhadro no agniḥ suhavo vibhāvasur bhadra indraḥ puruhūtaḥ puruṣṭutaḥ
+\|  
 bhadraḥ sūrya urucakṣā uruvyacā bhadraś candramāḥ samitheṣu jāgṛviḥ
-||1||  
+\|\|1\|\|  
 For us the auspicious Agni, well-invoked and abounding in light, the
 auspicious Indra much-invoked and much-hymned; the auspicious Sun,
 wide-seeing and wide-ranging, the auspicious Moon keeping an eye \[on
 us\] in the battle.
 
 bhadraḥ prajā ajanayannaḥ prajāpatir bhadraḥ somaḥ pavamano vṛṣā hariḥ
-|  
+\|  
 bhadras tvaṣṭā vidadhad rūpāṇy adbhuto bhadro no dhātā varivasyatu
-prajāḥ ||2||  
+prajāḥ \|\|2\|\|  
 For us the auspicious Prajāpati \[who\] progeny-generated, the
 auspicious Soma, the purified one \[Footnote 3\] and the manly yellow
 one; the auspicious Tvasṭṛ giving wondrous forms \[to things\]. May the
 auspicious Dhātṛ show favor to \[our\] progeny.
 
 bhadras tārkṣyaḥ suprajastvāya no mahām̐ ariṣṭanemiḥ pṛtanā yudhā jayan
-|  
+\|  
 bhadro vāyur mātariśvā niyutpatir veno gayasphāna uśan sadā ‘stu naḥ
-||3||  
+\|\|3\|\|  
 For us the auspicious Tārkṣya Ariṣṭanemi for the sake of good progeny
 and for conquering the hostile army by means of battle; the auspicious
 Vāyu, expanding within the world-womb \[footnote 4\], the lord of the
@@ -178,163 +182,170 @@ team of horses. May Venus, the wealth-increaser, be always desirous of
 us.
 
 bhadro mitro varuṇo rudra id vṛdhā bhadro ‘hirbudhnyo bhuvanasya rakṣitā
-|  
+\|  
 bhadro no vāstoṣpatir astv amīvahā bhadraḥ kṣetrasya patir vicarṣaṇiḥ
-||4||  
+\|\|4\|\|  
 For us the auspicious Mitra and Varuṇa, and Rudra verily with
 augmentation, and Ahirbudhnya the protector of the universe; the
 auspicious guardian of the homestead: may he be the destroyer of illness
 and the auspicious guardian of the field, ever-full of activity.
 
 bhadro vibhur viśvakarmā bṛhaspatir bhadro dviṣastapano brahmaṇaspatiḥ
-|  
+\|  
 bhadraḥ suparṇo aruṇo marut-sakhā bhadro no vāto abhivātu bheṣajī
-||5||  
+\|\|5\|\|  
 For us the mighty, all-maker Bṛhaspati, the auspicious foe-scorcher and
 lord of the ritual; the auspicious falcon, reddish-brown and the friend
 of the Marut-s \[footnote 5\]. May the auspicious Vāta \[footnote 6\]
 blow medicines towards us.
 
 bhadro dadhikrā vṛṣabhaḥ kanikradad bhadraḥ parjanyo bahudhā virājati
-|  
+\|  
 bhadrā sarasvām̐ uta naḥ sarasvatī bhadro vaśī bhadra indraḥ purūravaḥ
-||6||  
+\|\|6\|\|  
 For us the auspicious \[horse\] Dadhikra, the neighing stallion, the
 auspicious Parjanya \[who\] manifoldly shines forth; the auspicious
 Sarasvat and also Sarasvatī, the auspicious cow and the auspicious
 Indra, the loud-roarer.
 
-bhadro naḥ pūṣā savitā yamo bhago bhadro ‘graja ekapād aryamā manuḥ |  
+bhadro naḥ pūṣā savitā yamo bhago bhadro ‘graja ekapād aryamā manuḥ \|  
 bhadro viṣṇur urugāyo vṛṣā harir bhadro vivasvām̐ abhivātu nastmanā
-||7||  
+\|\|7\|\|  
 For us the auspicious Pūṣaṇ, Savitṛ, Yama and Bhaga, and the auspicious
 first-born Ekapāt, Aryaman and Manu; the auspicious Viṣṇu, the
 wide-strider and the manly lion. May indeed the auspicious Vivasvat blow
 towards us.
 
 bhadrā gāyatrī kakub uṣṇihā virāḍ bhadrānuṣṭup bṛhatī paṅktir astu naḥ
-|  
+\|  
 bhadrā nas triṣṭub jagatī purupriyā bhadrāticchāndā bahudhā vibhūvarī
-||8||  
+\|\|8\|\|  
 For us the auspicious Gāyatrī, Kakubh, Uṣṇihā \[Footnote 7\] and Virāṭ.
 May Anuṣṭubh, Bṛhatī, Paṅkti each be auspicious to us. For us the
 auspicious Triṣṭubh, the much-loved Jagati \[footnote 8\] and the
 auspicious long meters manifold and of many treasures.
 
-bhadrā no rākānumatiḥ kuhūḥ suhṛd bhadrā sinīvāly aditir mahī dhruvā |  
+bhadrā no rākānumatiḥ kuhūḥ suhṛd bhadrā sinīvāly aditir mahī dhruvā
+\|  
 bhadrā no dyaur antarikṣaṃ mayaskaraṃ bhadro ‘śvo dakṣastanayāya nas
-tuje ||9||  
+tuje \|\|9\|\|  
 For us the the auspicious Rākā, Anumati and friendly Kuhū, auspicious
 Sinivālī, Aditi, and the firm Earth goddess. For us the auspicious
 Heaven goddess, the atmosphere giving pleasure, the auspicious horse,
 and Dakṣa for extending for us \[our\] lineage.
 
-bhadro naḥ prāṇaḥ sumanāḥ suvāgasad bhadro apānaḥ satanuḥ sahātmanā |  
+bhadro naḥ prāṇaḥ sumanāḥ suvāgasad bhadro apānaḥ satanuḥ sahātmanā \|  
 bhadraṃ cakṣur bhadram icchotram astu no bhadraṃ na āyuḥ śarado
-asacchatām ||10||  
+asacchatām \|\|10\|\|  
 For us the auspicious life-process with a good mind and good speech
 unmanifest, the auspicious excretory process with the body and the
 consciousness; indeed may the vision be auspicious and hearing be
 auspicious for us. For us the auspicious life with autumns, a 100 yet to
 manifest.
 
-bhadrendrāgnī no bhavatām ṛtāvṛdhā bhadrā no mitrāvaruṇā dhṛtavratā |  
+bhadrendrāgnī no bhavatām ṛtāvṛdhā bhadrā no mitrāvaruṇā dhṛtavratā \|  
 bhadrāśvinā no bhavatāṃ navedasā bhadrā dyāvā-pṛthivī viśva-śaṃbhuvā
-||11||  
+\|\|11\|\|  
 For us the auspicious Indra and Agni fostering the Law; for us the
 auspicious Mitra and Varuṇa maintaining the Laws. May the two auspicious
 Aśvin-s be cognizant \[of us\]. For us the auspicious Heaven and Earth
 benevolent to all.
 
-bhadrā na indrāvaruṇā riśādasā bhadrā na indrā bhavatāṃ bṛhaspatī |  
+bhadrā na indrāvaruṇā riśādasā bhadrā na indrā bhavatāṃ bṛhaspatī \|  
 bhadrendrāviṣṇū savaneṣu yāvṛdhā bhadrendrāsomā yudhi dasyu-hantamā
-||12||  
+\|\|12\|\|  
 For us the auspicious Indra and Varuṇa, devourers of foes. May Indra and
 Bṛhaspati be auspicious to us. \[For us\] auspicious Indra and Viṣṇu who
 augment \[us\] during the soma libations. May the auspicious Indra and
 Soma slay the dasyu in battle.
 
 bhadrāgnāviṣṇū vidadhasya prasādhanā bhadrā no ‘gnīndrā
-vṛṣabhā-divaspatī |  
-bhadrā no agnīvaruṇā pracetasā bhadrāgnīṣomā bhavatāṃ navedasā ||13||  
+vṛṣabhā-divaspatī \|  
+bhadrā no agnīvaruṇā pracetasā bhadrāgnīṣomā bhavatāṃ navedasā
+\|\|13\|\|  
 For us the auspicious Agni and Viṣṇu, the ornaments of the
 gift-distribution. For us the auspicious Agni and Indra, the bulls, the
 lords of heaven. For us the auspicious Agni and Varuṇa, the ever-mindful
 ones. May the auspicious Agni and Soma be cognizant of us.
 
-bhadrā sūryā-candramasā kavikratū bhadrā somā bhavatāṃ pūṣaṇā naḥ |  
-bhadrendrāvāyū pṛtanāsu-sāsahī bhadrā sūryāgnī ajitā dhanañjayā ||14||  
+bhadrā sūryā-candramasā kavikratū bhadrā somā bhavatāṃ pūṣaṇā naḥ \|  
+bhadrendrāvāyū pṛtanāsu-sāsahī bhadrā sūryāgnī ajitā dhanañjayā
+\|\|14\|\|  
 For us the auspicious Sun and Moon, the two full of insight. May Soma
 and Pūṣaṇ be auspicious. \[For us\] the auspicious Indra and Vayu
 conquering in battle and the auspicious Sūrya and Agni unconquered and
 winning wealth.
 
-bhadrā naḥ santu vasavo vasuprajā bhadrā rudrā vṛtrahaṇā purandharā |  
-bhadrā ādityāḥ supasaḥ sunītayo bhadrā rājāno maruto virapśinaḥ ||15||  
+bhadrā naḥ santu vasavo vasuprajā bhadrā rudrā vṛtrahaṇā purandharā \|  
+bhadrā ādityāḥ supasaḥ sunītayo bhadrā rājāno maruto virapśinaḥ
+\|\|15\|\|  
 May the auspicious Vasu-s be wealth and progeny \[giving\]. For us the
 auspicious Rudra-s who slay Vṛtra and smash the \[hostile\] forts and
 the auspicious Āditya-s, well-seeing and well-guiding, and the
 auspicious kings, the Marut-s, the exuberant ones \[footnote 9\].
 
-bhadrā na ūmā suhavāḥ śataśriyo viśvedevā manavaś carṣaṇīdhṛtaḥ |  
+bhadrā na ūmā suhavāḥ śataśriyo viśvedevā manavaś carṣaṇīdhṛtaḥ \|  
 bhadrāḥ sādhyā abhibhavaḥ sūracakṣaso bhadrā naḥ santv ṛbhavo
-ratna-dhātamāḥ ||16||  
+ratna-dhātamāḥ \|\|16\|\|  
 For us the auspicious helper-\[gods\], well-invoked and with a 100
 riches, all the gods and the Manu-s, supporters of the folks. For us the
 auspicious Sādhya-s, the overpowerers, radiant as the Sun. May the
 auspicious Ṛbhu-s be gem-givers for us.
 
-bhadrāḥ sarve vājino vājasātayo bhadrā ṛṣayaḥ pitaro gabhastayaḥ |  
+bhadrāḥ sarve vājino vājasātayo bhadrā ṛṣayaḥ pitaro gabhastayaḥ \|  
 bhadrā bhṛgavo ‘ṅgirasaḥ sudānavo bhadrā gandharvāpsarasaḥ sudaṃsasaḥ
-||17||  
+\|\|17\|\|  
 Auspicious the racers, winners of booty; auspicious the sages, \[our\]
 ancestors, the sun-beams. Auspicious the Bhṛgu-s and Aṅgiras-es, the
 liberal givers; auspicious the Gandharva-s and Apsaras-es, the powerful
 ones\[footnote 10\].
 
-bhadrā āpaḥ śucayo viśvabhṛttamā bhadrāḥ śivā yakṣmanudo na oṣadhīḥ |  
-bhadrā gāvaḥ surabhayo vayovṛdho bhadrā yoṣā uśatīr devapatnyaḥ ||18||  
+bhadrā āpaḥ śucayo viśvabhṛttamā bhadrāḥ śivā yakṣmanudo na oṣadhīḥ \|  
+bhadrā gāvaḥ surabhayo vayovṛdho bhadrā yoṣā uśatīr devapatnyaḥ
+\|\|18\|\|  
 For us the auspicious waters, pure and the foremost supporters of all,
 the auspicious, benign, disease-repulsing herbs; the auspicious cows,
 charming and invigorating, the auspicious nymphs and loving wives of the
 gods.
 
-bhadrāṇi sāmāni sadā bhavantu no bhadrā atharvāṇa ṛco yajūṃṣi naḥ |  
-bhadrā nakṣatrāṇi śivāni viśvā bhadrā āśā ahrutāḥ santu no hṛdi ||19||  
+bhadrāṇi sāmāni sadā bhavantu no bhadrā atharvāṇa ṛco yajūṃṣi naḥ \|  
+bhadrā nakṣatrāṇi śivāni viśvā bhadrā āśā ahrutāḥ santu no hṛdi
+\|\|19\|\|  
 May the Saman-s forever be auspicious to us. For us the Atharvaṇ spells,
 the ṛk-s and the yajuṣ-es. May the auspicious asterisms \[be\] all
 benign and \[may the\] directions, the coordinate lines be auspicious at
 their conjunction.
 
-saṃvatsarā na ṛtavo mayobhuvo yo vā āyuvāḥ susarāṇy uta kṣapāḥ |  
+saṃvatsarā na ṛtavo mayobhuvo yo vā āyuvāḥ susarāṇy uta kṣapāḥ \|  
 muhūrtāḥ kāṣṭāḥ pradiśo diśaś ca sadā bhadrā santu dvipade śaṃ catuṣpade
-||20||  
+\|\|20\|\|  
 The years \[of the 5 year cycle\] and the seasons be gladdening to us,
 be they productive, easy-going or drought-ridden. May the muhūrta (=48
 minutes)-s and kaṣṭa (=3.2 seconds)-s, the directions and the
 inter-directions be ever-auspicious and \[may there be\] welfare for the
 bipeds and quadrupeds.
 
-bhadraṃ paśyema pracarema bhadraṃ bhadraṃ vadema śṛṇuyāma bhadram |  
-tanno mitro varuṇo mā mahantām aditiḥ sindhuḥ pṛthivī uta dyauḥ ||21||  
+bhadraṃ paśyema pracarema bhadraṃ bhadraṃ vadema śṛṇuyāma bhadram \|  
+tanno mitro varuṇo mā mahantām aditiḥ sindhuḥ pṛthivī uta dyauḥ
+\|\|21\|\|  
 May we see auspiciousness. May we perform auspiciousness. May we speak
 auspiciousness. May we hear auspiciousness. Mitra and Varuṇa, Aditi, the
 river, the Earth and also Heaven should grant this to us.
 
------
+------------------------------------------------------------------------
 
 Footnotes  
-1\.
+1.
 <https://manasataramgini.wordpress.com/2010/06/25/the-mantra-samhita-of-the-devi-purana/>  
-2\. Note the presence of a comparable deity among the Greeks in the form
+2. Note the presence of a comparable deity among the Greeks in the form
 of Phanes or Protogonos  
-3\. Emended pāvamāna to pavamāna  
-4\. Mātariśvan: literally growing within the mother: the mother implies
+3. Emended pāvamāna to pavamāna  
+4. Mātariśvan: literally growing within the mother: the mother implies
 the world-womb or the world-hemisphere  
-5\. Later tradition clarifies him to be the charioteer of the Sun  
-6\. The wind deity  
-7\. Another form of Uṣṇih meter  
-8\. The composer seems to indicate his love for the Jagati, the meter in
+5. Later tradition clarifies him to be the charioteer of the Sun  
+6. The wind deity  
+7. Another form of Uṣṇih meter  
+8. The composer seems to indicate his love for the Jagati, the meter in
 which he has composed most of the sūkta  
-9\. Emended virapsin to virapśin keeping with the form found in the RV  
-10\. Emended sudamśas to sudamsas
+9. Emended virapsin to virapśin keeping with the form found in the RV  
+10. Emended sudamśas to sudamsas

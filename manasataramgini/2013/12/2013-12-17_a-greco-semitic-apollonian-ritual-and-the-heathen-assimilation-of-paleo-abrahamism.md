@@ -1,38 +1,42 @@
 +++
 title = "A Greco-Semitic Apollonian ritual and the heathen assimilation of paleo-Abrahamism"
+date = "2013-12-17"
+upstream_url = "https://manasataramgini.wordpress.com/2013/12/17/a-greco-semitic-apollonian-ritual-and-the-heathen-assimilation-of-paleo-abrahamism/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/12/17/a-greco-semitic-apollonian-ritual-and-the-heathen-assimilation-of-paleo-abrahamism/).
+
 Many turns of the sun ago, when we landed on the shores of the
 krau\~ncha continent, we were politely informed by the mlechCha-s that
 our Indian degrees were not really worth their name. While we were
 arguing the case of our possession of genuine education that in the
 least equaled the Americans, we were subject to the indignity of having
 to take a course in genetics from a mlechCha professor who did know the
-difference between a transcription factor and an enhancer\! Being
-coerced into this course was galling, but it was not as bad as the
-existential crisis it presented to a black African gentleman from
-Botswana. The said gentleman had been a star in his country having
-displayed his practical knowledge in goat-breeding. His government felt
-he was a major hope of their future and felt he should advance beyond
-his exploits in goat-breeding by acquiring a high education in the
-wonders of modern genetics (the omics was not yet an in thing those
-days). So they thought that it would appropriate if he returned home
-with the booty of an exalted degree from a well-ranked US university.
-Sadly, our Botswanan’s path to that destination was now being
-jeopardized by the mlechCha gentlemen who was more Texan cowboy than
-biology professor. He thunderously informed the Botswanan’s that he
-stood really close to failing and not clearing that course would mean
-that he would debarred from even qualifying to attempt the high degree
-he aspired. At that time, in the heady rush of youthful arrogance and
-frustration over life’s inequities, we had acquired for ourselves a
-certain negative publicity by our pointed questioning of the mlechCha
-professor’s understanding of the subject of the course, notwithstanding
-our aunt’s warning that we should not question the mlechCha professors
-too much. Now, this caught the attention of the Botswanan, who in his
-predicament approached us to give him some lessons in genetics. We
-acquiesced, mainly because we had little other motivation to do the
-volleys of homework which the Texan fired routinely as though from a
-six-shooter straight from his hip.
+difference between a transcription factor and an enhancer! Being coerced
+into this course was galling, but it was not as bad as the existential
+crisis it presented to a black African gentleman from Botswana. The said
+gentleman had been a star in his country having displayed his practical
+knowledge in goat-breeding. His government felt he was a major hope of
+their future and felt he should advance beyond his exploits in
+goat-breeding by acquiring a high education in the wonders of modern
+genetics (the omics was not yet an in thing those days). So they thought
+that it would appropriate if he returned home with the booty of an
+exalted degree from a well-ranked US university. Sadly, our Botswanan’s
+path to that destination was now being jeopardized by the mlechCha
+gentlemen who was more Texan cowboy than biology professor. He
+thunderously informed the Botswanan’s that he stood really close to
+failing and not clearing that course would mean that he would debarred
+from even qualifying to attempt the high degree he aspired. At that
+time, in the heady rush of youthful arrogance and frustration over
+life’s inequities, we had acquired for ourselves a certain negative
+publicity by our pointed questioning of the mlechCha professor’s
+understanding of the subject of the course, notwithstanding our aunt’s
+warning that we should not question the mlechCha professors too much.
+Now, this caught the attention of the Botswanan, who in his predicament
+approached us to give him some lessons in genetics. We acquiesced,
+mainly because we had little other motivation to do the volleys of
+homework which the Texan fired routinely as though from a six-shooter
+straight from his hip.
 
 During one such lesson on which genes determine various human traits our
 African pensively declared that the more one studied this science the
@@ -83,7 +87,7 @@ routinely harangue their flock about falling away from eka-rAkShasatvam
 and following the polytheistic systems that were prevalent around them
 in West Asia.
 
-\-۩۞۩-۩۞۩-۩۞۩-
+-۩۞۩-۩۞۩-۩۞۩-
 
 “And this was known to all the Jews and Greeks also dwelling at Ephesus;
 and fear fell on them all, and the name of the Lord Jesus was magnified.
@@ -123,7 +127,7 @@ statement provided by Betz applies to the spirit of the corpus:
 “Shall we write about the things not to be spoken of?  
 Shall we divulge the things not to be divulged?  
 Shall we pronounce the things not to be pronounced?”  
-\-Julian, Hymn to the Mother of the Gods
+-Julian, Hymn to the Mother of the Gods
 
 We produce below a syncretic ritual to Apollo deployed by a Semitic
 worshiper from the Betz collection translated by the American classicist
@@ -307,10 +311,10 @@ holy war and saw it as a vehicle of its ethnic identity.
 But why were west Asian, North African and European heathenism
 eventually destroyed by the two neo-Abrahamisms? Some key points
 include:  
-1\) their relatively low content of ritualism. Complex and subtle
-rituals generally attract the more intelligent and the educated. The
-simple minded are simply overwhelmed by their complexity or are dead to
-their subtlety. The great heathen thinker Celsus described the first
+1) their relatively low content of ritualism. Complex and subtle rituals
+generally attract the more intelligent and the educated. The simple
+minded are simply overwhelmed by their complexity or are dead to their
+subtlety. The great heathen thinker Celsus described the first
 neo-Abrahamism as a movement of the dull-witted and the poorly educated.
 The more intelligent and generally educated paleo-Abrahamists had their
 own rituals and could hence be attracted by other complex ritual
@@ -353,15 +357,16 @@ Shaikhs of the sub-continent.
 
 ::::::::::::::::::::::::::::::  
 Footnote 1  
-yAs te pUShan nAvo antaH samudre hiraNyayIr antarikShe charanti |  
-tAbhir yAsi dUtyAM sUryasya kAmena kR^ita shrava ichChamAnaH || RV
+yAs te pUShan nAvo antaH samudre hiraNyayIr antarikShe charanti \|  
+tAbhir yAsi dUtyAM sUryasya kAmena kR^ita shrava ichChamAnaH \|\| RV
 6.58.3
 
 Footnote 2: A rare exception being the conversion of section of the
 [Khazar Turks to their
-religion](https://manasataramgini.wordpress.com/2009/09/07/turning-of-the-turkic-wheel-the-khazar-khanate/ "Turning of the Turkic wheel: the Khazar Khanate").
+religion](https://manasataramgini.wordpress.com/2009/09/07/turning-of-the-turkic-wheel-the-khazar-khanate/ "Turning of the Turkic wheel: the KhazarKhanate").
 But even in their midst it appears to have been muted for records
 mention the continued presence of the Tengri-worshiping ritualists in
 the Khazar court even after their conversion. However, this conversion
 might have played a role in the antagonism between the Khazars and the
 polytheistic Vikings of the incipient Kha’khanate of the Rus.
+

@@ -1,7 +1,11 @@
 +++
 title = "Some musing on wars"
+date = "2008-02-21"
+upstream_url = "https://manasataramgini.wordpress.com/2008/02/21/some-musing-on-wars/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/02/21/some-musing-on-wars/).
+
 I had never been a good student of recent military history. ekanetra or
 va\~Nga paNDita could always fill in the gaping lacunae in my knowledge
 if required. In our youth ekanetra gave me such a gripping account of
@@ -45,3 +49,4 @@ force and deploy it around Stalingrad in a manner that can only compared
 to how Chingiz Khan strike on Bukhara. The important lesson again is
 that the prosecution of war depends a lot on the people and the kinds of
 leaders that come up within their systems.
+

@@ -1,8 +1,11 @@
 +++
-title = "“To Speak Is To Uphold The Weight Of The Universe” – Supernal, Scientific, Sunyata, Sanatana Theories ofxa0Language"
-date = "August 19, 2019"
+title = "“To Speak Is To Uphold The Weight Of The Universe” – Supernal, Scientific, Sunyata, Sanatana Theories of Language"
+date = "2019-08-19"
+upstream_url = "https://aryaakasha.com/2019/08/19/to-speak-is-to-uphold-the-weight-of-the-universe-supernal-scientific-sunyata-sanatana-theories-of-language/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/08/19/to-speak-is-to-uphold-the-weight-of-the-universe-supernal-scientific-sunyata-sanatana-theories-of-language/).
+
 **‘The Dialects Are In Motion’ – arcing towards a synthesis position on
 two views of Language**
 

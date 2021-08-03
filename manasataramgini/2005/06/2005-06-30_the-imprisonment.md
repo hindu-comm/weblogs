@@ -1,7 +1,11 @@
 +++
 title = "The imprisonment"
+date = "2005-06-30"
+upstream_url = "https://manasataramgini.wordpress.com/2005/06/30/the-imprisonment/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/06/30/the-imprisonment/).
+
 In wake of the crisis our mantras had failed to produce their full
 effect. The task that confronted us was so big that the mantras only
 took us half the way through. Beyond that it was impossible for us to
@@ -29,3 +33,4 @@ we did not judge the ball or consider the field placement and put all
 our weight behind the shot. The ball flew high and before we realized
 what happened the ball was grabbed by a fielder on the boundary line. We
 were back in the pavilion
+

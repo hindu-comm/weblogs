@@ -1,8 +1,11 @@
 +++
-title = "The Birth Of Athena – On The Indo-European Genesis Ofxa0Tritogeneia"
-date = "July 3, 2021"
+title = "The Birth Of Athena – On The Indo-European Genesis Of Tritogeneia"
+date = "2021-07-03"
+upstream_url = "https://aryaakasha.com/2021/07/03/the-birth-of-athena-on-the-indo-european-genesis-of-tritogeneia/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/07/03/the-birth-of-athena-on-the-indo-european-genesis-of-tritogeneia/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/07/birth_of_athena_large_image_77.jpg?w=514)
 
 Earlier this week I encountered something which has, by now, become

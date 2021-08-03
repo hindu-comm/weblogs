@@ -1,7 +1,11 @@
 +++
 title = "Strange news from New Zealand"
+date = "2006-12-16"
+upstream_url = "https://manasataramgini.wordpress.com/2006/12/16/strange-news-from-new-zealand/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/12/16/strange-news-from-new-zealand/).
+
 Geologists have held two views on New Zealand. Everyone more or less
 agrees that New Zealand was connected to the Eastern Antarctic landmass
 in the fragmenting Gondwanaland during the Early Cretaceous. After 82
@@ -67,3 +71,4 @@ probably around till the Austronesian savages extirpated them much like
 they have attempted on the Hindus of Fiji.
 
 The NZ mammal indeed needs more vigorous investigation.
+

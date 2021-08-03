@@ -1,7 +1,11 @@
 +++
 title = "Bṛhaspati-śanaiścarayor yuddham-2020 ityādi"
+date = "2020-12-14"
+upstream_url = "https://manasataramgini.wordpress.com/2020/12/14/b%e1%b9%9bhaspati-sanaiscarayor-yuddham-2020-ityadi/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2020/12/14/b%e1%b9%9bhaspati-sanaiscarayor-yuddham-2020-ityadi/).
+
 The below is only for information. Parts of it should not be construed
 as any kind of prognostication on our part.
 
@@ -98,7 +102,7 @@ remarkable conjunction of Jupiter and Saturn that will peak as per
 geocentric coordinates on the day of the winter solstice (December 21,
 2020; Figure 1).
 
-[![CDC\_conjunction](https://manasataramgini.files.wordpress.com/2020/12/cdc_conjunction.png?w=640)](https://manasataramgini.files.wordpress.com/2020/12/cdc_conjunction.png)Figure
+[![CDC_conjunction](https://manasataramgini.files.wordpress.com/2020/12/cdc_conjunction.png?w=640)](https://manasataramgini.files.wordpress.com/2020/12/cdc_conjunction.png)Figure
 1
 
 This has caused tremendous fear and excitement among those with a belief
@@ -114,7 +118,7 @@ evident that Jupiter is to the south and it reduces in magnitude as it
 emerges from the conjunction. So as per the Hindu typology of
 conjunctions, it is defeated by Saturn (Figure 2).
 
-[![CDC\_conjunction4](https://manasataramgini.files.wordpress.com/2020/12/cdc_conjunction4.png?w=640)](https://manasataramgini.files.wordpress.com/2020/12/cdc_conjunction4.png)  
+[![CDC_conjunction4](https://manasataramgini.files.wordpress.com/2020/12/cdc_conjunction4.png?w=640)](https://manasataramgini.files.wordpress.com/2020/12/cdc_conjunction4.png)  
 Figure 2
 
 Varāhamihira further provides specific omenology for the defeat of
@@ -135,38 +139,38 @@ It was that latter prognostication that caused the fear in our
 interlocutor. These conjunctions of Jupiter and Saturn have an
 interesting geometric feature: the great trigon. For superior planets
 one can approximately calculate the frequency of conjunctions thus: Let
-![p\_1,
-p\_2](https://s0.wp.com/latex.php?latex=p_1%2C+p_2&bg=ffffff&fg=333333&s=0&c=20201002 "p_1, p_2")
-be the periods of revolution of the two planets and ![p\_2 &gt;
-p\_1](https://s0.wp.com/latex.php?latex=p_2+%3E+p_1&bg=ffffff&fg=333333&s=0&c=20201002 "p_2 > p_1").
-Then ![\\tfrac{360^\\circ}{p\_1},
-\\tfrac{360^\\circ}{p\_2}](https://s0.wp.com/latex.php?latex=%5Ctfrac%7B360%5E%5Ccirc%7D%7Bp_1%7D%2C+%5Ctfrac%7B360%5E%5Ccirc%7D%7Bp_2%7D&bg=ffffff&fg=333333&s=0&c=20201002 "\tfrac{360^\circ}{p_1}, \tfrac{360^\circ}{p_2}")
+![p_1,
+p_2](https://s0.wp.com/latex.php?latex=p_1%2C+p_2&bg=ffffff&fg=333333&s=0&c=20201002)
+be the periods of revolution of the two planets and ![p_2 \>
+p_1](https://s0.wp.com/latex.php?latex=p_2+%3E+p_1&bg=ffffff&fg=333333&s=0&c=20201002).
+Then ![\\tfrac{360^\\circ}{p_1},
+\\tfrac{360^\\circ}{p_2}](https://s0.wp.com/latex.php?latex=%5Ctfrac%7B360%5E%5Ccirc%7D%7Bp_1%7D%2C+%5Ctfrac%7B360%5E%5Ccirc%7D%7Bp_2%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 will be the mean angular speeds of the two planets respectively. The
 difference in their speeds would be:
 
-![\\dfrac{360^\\circ(p\_2-p\_1)}{p\_1p\_2}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B360%5E%5Ccirc%28p_2-p_1%29%7D%7Bp_1p_2%7D&bg=ffffff&fg=333333&s=0&c=20201002 "\dfrac{360^\circ(p_2-p_1)}{p_1p_2}")
+![\\dfrac{360^\\circ(p_2-p_1)}{p_1p_2}](https://s0.wp.com/latex.php?latex=%5Cdfrac%7B360%5E%5Ccirc%28p_2-p_1%29%7D%7Bp_1p_2%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 
 Hence, the time the faster planet will take relative to the slower
 planet to complete one revolution (i.e. catch up with it again) will be:
 
-![p\_c=\\dfrac{360^\\circ}{\\dfrac{360^\\circ(p\_2-p\_1)}{p\_1p\_2}} =
-\\dfrac{p\_1
-p\_2}{p\_2-p\_1}](https://s0.wp.com/latex.php?latex=p_c%3D%5Cdfrac%7B360%5E%5Ccirc%7D%7B%5Cdfrac%7B360%5E%5Ccirc%28p_2-p_1%29%7D%7Bp_1p_2%7D%7D+%3D+%5Cdfrac%7Bp_1+p_2%7D%7Bp_2-p_1%7D&bg=ffffff&fg=333333&s=0&c=20201002 "p_c=\dfrac{360^\circ}{\dfrac{360^\circ(p_2-p_1)}{p_1p_2}} = \dfrac{p_1 p_2}{p_2-p_1}")
+![p_c=\\dfrac{360^\\circ}{\\dfrac{360^\\circ(p_2-p_1)}{p_1p_2}} =
+\\dfrac{p_1
+p_2}{p_2-p_1}](https://s0.wp.com/latex.php?latex=p_c%3D%5Cdfrac%7B360%5E%5Ccirc%7D%7B%5Cdfrac%7B360%5E%5Ccirc%28p_2-p_1%29%7D%7Bp_1p_2%7D%7D+%3D+%5Cdfrac%7Bp_1+p_2%7D%7Bp_2-p_1%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 
 This
-![p\_c](https://s0.wp.com/latex.php?latex=p_c&bg=ffffff&fg=333333&s=0&c=20201002 "p_c")
+![p_c](https://s0.wp.com/latex.php?latex=p_c&bg=ffffff&fg=333333&s=0&c=20201002)
 will be the duration between successive conjunctions. The period of
-Jupiter is 4331 days of Saturn is 10747 days. Hence, ![p\_c= 7254.56 \\;
+Jupiter is 4331 days of Saturn is 10747 days. Hence, ![p_c= 7254.56 \\;
 \\mathrm{days} = 19.86245\\;
-\\mathrm{years}](https://s0.wp.com/latex.php?latex=p_c%3D+7254.56+%5C%3B+%5Cmathrm%7Bdays%7D+%3D+19.86245%5C%3B+%5Cmathrm%7Byears%7D&bg=ffffff&fg=333333&s=0&c=20201002 "p_c= 7254.56 \; \mathrm{days} = 19.86245\; \mathrm{years}").
+\\mathrm{years}](https://s0.wp.com/latex.php?latex=p_c%3D+7254.56+%5C%3B+%5Cmathrm%7Bdays%7D+%3D+19.86245%5C%3B+%5Cmathrm%7Byears%7D&bg=ffffff&fg=333333&s=0&c=20201002).
 Thus, the Jupiter-Saturn conjunctions will repeat approximately every 20
 years. One can see that the next two conjunctions will occur with
 respect to the original one at:
 
-![\\left (p\_c \\dfrac{360^\\circ}{4331} \\right ) \\mod 360 \\equiv
-243.0112^\\circ; \\left (2p\_c \\dfrac{360^\\circ}{4331} \\right ) \\mod
+![\\left (p_c \\dfrac{360^\\circ}{4331} \\right ) \\mod 360 \\equiv
+243.0112^\\circ; \\left (2p_c \\dfrac{360^\\circ}{4331} \\right ) \\mod
 360 \\equiv
-126.0224^\\circ](https://s0.wp.com/latex.php?latex=%5Cleft+%28p_c+%5Cdfrac%7B360%5E%5Ccirc%7D%7B4331%7D+%5Cright+%29+%5Cmod+360+%5Cequiv+243.0112%5E%5Ccirc%3B+%5Cleft+%282p_c+%5Cdfrac%7B360%5E%5Ccirc%7D%7B4331%7D+%5Cright+%29+%5Cmod+360+%5Cequiv+126.0224%5E%5Ccirc&bg=ffffff&fg=333333&s=0&c=20201002 "\left (p_c \dfrac{360^\circ}{4331} \right ) \mod 360 \equiv 243.0112^\circ; \left (2p_c \dfrac{360^\circ}{4331} \right ) \mod 360 \equiv 126.0224^\circ")
+126.0224^\\circ](https://s0.wp.com/latex.php?latex=%5Cleft+%28p_c+%5Cdfrac%7B360%5E%5Ccirc%7D%7B4331%7D+%5Cright+%29+%5Cmod+360+%5Cequiv+243.0112%5E%5Ccirc%3B+%5Cleft+%282p_c+%5Cdfrac%7B360%5E%5Ccirc%7D%7B4331%7D+%5Cright+%29+%5Cmod+360+%5Cequiv+126.0224%5E%5Ccirc&bg=ffffff&fg=333333&s=0&c=20201002)
 
 Thus, the three successive conjunctions will trace out an approximate
 equilateral triangle on the ecliptic circle — the great trigon. This
@@ -178,13 +182,13 @@ the discovery of his famous supernova. Since the successive trigons are
 not exactly aligned, they will progress along the ecliptic (Figure 3).
 We see that after 40 successive conjunctions it occurs very close to the
 original conjunction ![\\approx
-0.4488778^\\circ](https://s0.wp.com/latex.php?latex=%5Capprox+0.4488778%5E%5Ccirc&bg=ffffff&fg=333333&s=0&c=20201002 "\approx 0.4488778^\circ")
+0.4488778^\\circ](https://s0.wp.com/latex.php?latex=%5Capprox+0.4488778%5E%5Ccirc&bg=ffffff&fg=333333&s=0&c=20201002)
 (Figure 3). This amounts to about 290182.4 days (794.4979 years). This
 is the roughly 800 cycle that Kepler was excited about and thought that
 he was in the 8th such cycle since the creation of the world (being
 conditioned by one of the West Asian diseases of the mind).
 
-![jupiter\_saturn](https://manasataramgini.files.wordpress.com/2020/12/jupiter_saturn.png?w=567&h=547)  
+![jupiter_saturn](https://manasataramgini.files.wordpress.com/2020/12/jupiter_saturn.png?w=567&h=547)  
 Figure 3. Progression of the trigons in the cycle of 40
 
 The above formula can also be used to calculate the successive
@@ -195,17 +199,17 @@ interesting patterns. One such is successive oppositions of Jupiter
 which happen every 398.878 days. Thus, they nearly inscribe a hendecagon
 on the ecliptic circle (Figure 4).
 
-[![jupiter\_hendecagon](https://manasataramgini.files.wordpress.com/2020/12/jupiter_hendecagon.png?w=487&h=492)](https://manasataramgini.files.wordpress.com/2020/12/jupiter_hendecagon.png)Figure
+[![jupiter_hendecagon](https://manasataramgini.files.wordpress.com/2020/12/jupiter_hendecagon.png?w=487&h=492)](https://manasataramgini.files.wordpress.com/2020/12/jupiter_hendecagon.png)Figure
 4. Successive oppositions of Jupiter
 
 Now the successive inferior or superior conjunctions of Venus happen
 every 583.9578 days. Thus, these successive events trace out a near
 pentagonal star (Figure 5). This comes from the fact the ratio of the
 orbital periods of Earth to Venus is nearly
-![\\tfrac{13}{8}](https://s0.wp.com/latex.php?latex=%5Ctfrac%7B13%7D%7B8%7D&bg=ffffff&fg=333333&s=0&c=20201002 "\tfrac{13}{8}")
+![\\tfrac{13}{8}](https://s0.wp.com/latex.php?latex=%5Ctfrac%7B13%7D%7B8%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 which is a convergent of the Golden Ratio.
 
-[![Venus\_pentagon](https://manasataramgini.files.wordpress.com/2020/12/venus_pentagon.png?w=530&h=514)](https://manasataramgini.files.wordpress.com/2020/12/venus_pentagon.png)Figure
+[![Venus_pentagon](https://manasataramgini.files.wordpress.com/2020/12/venus_pentagon.png?w=530&h=514)](https://manasataramgini.files.wordpress.com/2020/12/venus_pentagon.png)Figure
 5. Successive conjunctions of Venus
 
 Beyond this, we may also note that the successive oppositions of Saturn

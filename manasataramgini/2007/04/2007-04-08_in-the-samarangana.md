@@ -1,7 +1,11 @@
 +++
 title = "In the samarA~NgaNa"
+date = "2007-04-08"
+upstream_url = "https://manasataramgini.wordpress.com/2007/04/08/in-the-samarangana/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/04/08/in-the-samarangana/).
+
 The news reached that our most skilled senAnI had captured the fort of
 amukhAsthika after a very fierce and prolonged struggle. In the thick of
 battle with shara-s raining all over it was not known who was friend or
@@ -27,3 +31,4 @@ resorting to mitra-bheda to try to break up our allies. Suddenly we
 found ourself under a massive alignment of our enemies, all hoping that
 we never see the sun again. We turned to maghavan to confer victory on
 us.
+

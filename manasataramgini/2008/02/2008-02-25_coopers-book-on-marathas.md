@@ -1,7 +1,11 @@
 +++
 title = "Cooper’s book on Marathas"
+date = "2008-02-25"
+upstream_url = "https://manasataramgini.wordpress.com/2008/02/25/coopers-book-on-marathas/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/02/25/coopers-book-on-marathas/).
+
 Randolf Cooper is one of the few white historians to reconsider the
 great struggle between the Maharatta-s and the Britons and investigate
 it more neutrally. A chance to glance at his work: “The Anglo-Maratha
@@ -60,16 +64,16 @@ for the loyalty of soldiers needed for the projection of power within
 the contest for India.”  
 But ultimately he is unable to extricate himself from the reality that
 Hindu scaffold was defined the nationalist essence (what he calls
-“proto-national”) element of India. He says: “The Marathas were the
-last indigenous South Asian power that was militarily capable of not
-only halting but also rolling back the consolidation process that
-ultimately produced the British Raj. The Anglo-Sikh Wars (1846-46,
-1848-9) and the Anglo-Afghan Wars (1839-42, 1878-80, 1919) occurred
-after the British had achieved a military perimeter around the majority
-of Hindus in India. In subcontinental terms, these later wars were
-comparatively localized conflicts, which would have had limited
-interethnic political appeal for Hindus beyond the regional strongholds
-of the Sikhs and Afghans.”  
+“proto-national”) element of India. He says: “The Marathas were the last
+indigenous South Asian power that was militarily capable of not only
+halting but also rolling back the consolidation process that ultimately
+produced the British Raj. The Anglo-Sikh Wars (1846-46, 1848-9) and the
+Anglo-Afghan Wars (1839-42, 1878-80, 1919) occurred after the British
+had achieved a military perimeter around the majority of Hindus in
+India. In subcontinental terms, these later wars were comparatively
+localized conflicts, which would have had limited interethnic political
+appeal for Hindus beyond the regional strongholds of the Sikhs and
+Afghans.”  
 Thus he is forced to concede that it was this Hindu mass which was the
 primary rival of the Britons and that they aimed at achieving a military
 envelop around the Hindu core.  
@@ -93,7 +97,7 @@ combatants. Given the importance of combat even in the foundational
 texts of the dharma it would be surprising to see Hindus as non-warlike
 nation. This was a false image that the Britons and the Hindu-s
 subverted by them came to emphasize.  
-2\) The second point Cooper which brings out it is that the called drill
+2) The second point Cooper which brings out it is that the called drill
 and discipline in warfare was well-established amongst Hindus, and owed
 no western influence for its origins. The English in their narratives
 attributed to this to Europeans – even claiming to have inherited it
@@ -116,3 +120,4 @@ seen before, even after the kShatriya-s fell against the Islamic
 assault, the professional shUdra military based on the Kohlis, Reddis,
 Kammas and Kapus could continue the struggle and showed remarkable
 organizational and administrative capability.
+

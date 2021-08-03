@@ -1,7 +1,11 @@
 +++
 title = "indra’s a~Nkusha: conceiving the old Indo-Aryan weapon"
+date = "2007-03-04"
+upstream_url = "https://manasataramgini.wordpress.com/2007/03/04/indras-ankusha-conceiving-the-old-indo-aryan-weapon/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/03/04/indras-ankusha-conceiving-the-old-indo-aryan-weapon/).
+
 The a\~Nkusha is a common weapon of the gods. This in itself appears a
 bit strange. Among the gods it is most closely associated as the weapon
 of choice of the dreadful vinAyaka and kAmeshvarI. Most medieval icons
@@ -14,8 +18,8 @@ the a\~Nkusha is hardly used as a weapon in the warfare of the mAnavas.
 When we look at the R^ig veda we find that it was a weapon of the gods
 even there, and was wielded by indra in battle:  
 imaM bibharmi sukR^itaM te a\~NkushaM yenArujAsi maghava\~n-ChaphArujaH
-|  
-asmin su te savane astvokyaM suta iShTau maghavan bodhyAbhagaH ||
+\|  
+asmin su te savane astvokyaM suta iShTau maghavan bodhyAbhagaH \|\|
 (RV10.44.9)  
 I bear this well-made a\~Nkusha of yours, with which you, maghavan,
 tears the \[attackers\] dismembers them under the horse’s hoofs. At this
@@ -26,13 +30,13 @@ The implication is reasonable here- it was used as a weapon in chariot
 or horse-borne combat against the attacker.
 
 Other vedic references add more to the picture:  
-A nastujaM rayiM bharAMshaM na pratijAnate |  
-vR^ikShaM pakvaM phalam a\~NkIva dhUnuhIndra sampAraNaM vasu || (RV
+A nastujaM rayiM bharAMshaM na pratijAnate \|  
+vR^ikShaM pakvaM phalam a\~NkIva dhUnuhIndra sampAraNaM vasu \|\| (RV
 3.45.4)  
 In this mantra vishvAmitra asks indra to bear him wealth with his
 a\~Nkusha even as one would pull down ripe fruit from the tree.
 
-dIrghaste astv a\~Nkusho yenA vasu prayaChasi | yajamAnAya sunvate ||
+dIrghaste astv a\~Nkusho yenA vasu prayaChasi \| yajamAnAya sunvate \|\|
 (RV 8.17.10)  
 A similar metaphor is used by iriMbiThi kANva in this mantra where indra
 is asked to pull in wealth with his long a\~Nkusha (dIghaste astv
@@ -41,8 +45,8 @@ pulling a woman towards you and indra’s a\~Nkusha is invoked for that
 purpose in the strI-vashIkaraNa mahA-mantra in the atharvanic rite for
 obtaining a wife (this mantra is also used in the marriage ritual of the
 atharvavedins):  
-yas te .a\~Nkusho vasudAno bR^ihann indra hiraNyayaH |  
-tenA janIyate jAyAM mahyaM dhehi shachIpate || (AV-S 6.82.3/ AV-P
+yas te .a\~Nkusho vasudAno bR^ihann indra hiraNyayaH \|  
+tenA janIyate jAyAM mahyaM dhehi shachIpate \|\| (AV-S 6.82.3/ AV-P
 19.17.6)  
 That wealth-giving, great golden a\~Nkusha of yours O indra, with that O
 lord of shachI give me who seeks a woman, a wife.
@@ -52,10 +56,10 @@ paippalAda atharva veda describing the use of extracts of the pATa herb
 (Stephania hernandifolia or a related plant) by a woman seeking to break
 up the connection between her lover and a rival female (AV-P 7.12.9 and
 20.42.11).  
-pATA bibharty a\~NkushaM hiraNyavantam a\~Nkinam |  
-tena saptnyA varca A lumpAmi mamed asat || (AV-P 7.12.9)  
-pATA bibharty a\~NkushaM hiraNyavantam a\~Nkinam |  
-tenAham anyeShAM striya A lumpAmi mamed asUn || (AV-P 20.42.11)  
+pATA bibharty a\~NkushaM hiraNyavantam a\~Nkinam \|  
+tena saptnyA varca A lumpAmi mamed asat \|\| (AV-P 7.12.9)  
+pATA bibharty a\~NkushaM hiraNyavantam a\~Nkinam \|  
+tenAham anyeShAM striya A lumpAmi mamed asUn \|\| (AV-P 20.42.11)  
 Both the mantra-s use the metaphor of the a\~Nkusha to describe how the
 pATa herb pulls away the rival woman (or her fertility or sexual
 fervor). Here, again the a\~NkuSha is used in the context of hooking and
@@ -111,3 +115,4 @@ of all kAma-s, including shR^i\~NgAra bhoga, kAmeshvarI wields the
 a\~Nkusha. This another remarkable case of functional persistence of
 symbolic motifs in the Hindu world from the earliest times, despite
 changing meanings and deities.
+

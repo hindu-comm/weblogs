@@ -1,8 +1,11 @@
 +++
 title = "MahaShivRatri 2018"
-date = "February 13, 2018"
+date = "2018-02-13"
+upstream_url = "https://aryaakasha.com/2018/02/13/mahashivratri-2018/"
 
 +++
+Source: [here](https://aryaakasha.com/2018/02/13/mahashivratri-2018/).
+
 ![27750095_10160006148855574_9013794378495712162_n](https://aryaakasha.files.wordpress.com/2018/02/27750095_10160006148855574_9013794378495712162_n.jpg?w=676)  
 Tonight marks the most important Shaivite holy-“day” of the year. Maha
 ShivRatri – the “Great Night of Shiva”.

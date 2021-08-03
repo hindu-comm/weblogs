@@ -1,19 +1,24 @@
 +++
 title = "The first farmers"
+date = "2014-04-20"
+upstream_url = "https://manasataramgini.wordpress.com/2014/04/20/the-first-farmers/"
 
 +++
-nIchaiH khananty asurA arusrANam idaM mahat |  
-tad AsrAvasya bheShajaM tad u rogam anInashat ||  
+Source: [here](https://manasataramgini.wordpress.com/2014/04/20/the-first-farmers/).
+
+nIchaiH khananty asurA arusrANam idaM mahat \|  
+tad AsrAvasya bheShajaM tad u rogam anInashat \|\|  
 Deep down the Asura-s bury this great healer of wounds: that is the drug
 for diarrhea, which verily destroyed the disease.
 
-upajIkA ud bharanti samudrAd adhi bheShajam |  
-tad AsrAvasya bheShajaM tad u rogam ashIshamat ||  
+upajIkA ud bharanti samudrAd adhi bheShajam \|  
+tad AsrAvasya bheShajaM tad u rogam ashIshamat \|\|  
 **Termites** bring the remedy from the \[underground\] water body: that
 is the drug for diarrhea, which verily silenced the disease.
 
-arusrANam idaM mahat pR^ithivyA adhy udbhR^itam |  
-tad AsrAvasya bheShajaM tad u rogam anInashat || (AV-vulgate 2.3.3-5)  
+arusrANam idaM mahat pR^ithivyA adhy udbhR^itam \|  
+tad AsrAvasya bheShajaM tad u rogam anInashat \|\| (AV-vulgate
+2.3.3-5)  
 This great healer of wounds has been brought out of the earth: that is
 the drug for diarrhea, which verily destroyed the disease.
 
@@ -46,8 +51,8 @@ that have taken this path. Per say agriculture and animal husbandry are
 rare in the biological world. In large part it is because it entails a
 large investment of energy at the cost of self-reproduction while being
 exposed to exploitation by others who do not invest any effort but are
-the table to dine off the farmer’s efforts. These may be slackers from
-the same species who contribute nothing to the farmer’s efforts. In
+at the table to dine off the farmer’s efforts. These may be slackers
+from the same species who contribute nothing to the farmer’s efforts. In
 addition to slackers from their own species, the potential farmer is
 also confronted by thieves or parasites who might feed off his crop
 nullifying his effort. Moreover, the farming ground is susceptible to
@@ -60,7 +65,7 @@ successfully established in an organism only if this investment of
 effort pays off down the line as a net gain in fitness. Thus, to date we
 are aware of the evolution of agriculture only in the following
 organisms:  
-1\) The dictyosteliid slime molds: They farm bacteria like Klebsiella or
+1) The dictyosteliid slime molds: They farm bacteria like Klebsiella or
 Escherichia; perhaps this trait is more widely spread and awaits
 discovery in other slime molds including the related plasmodial slime
 molds (e.g. Physarum) and the more distant heterolobsean slime molds.
@@ -167,7 +172,7 @@ such mycokleptic raiders (see below for similar use of bacteria in
 inter-insect conflicts).
 
 ● The attine ants similarly deploy actinobacterial species of
-Pseudonocardia, Streptomyces and Amycolatopsis against the antagonists
+Pseudonocardia, Streptomyces andAmycolatopsis against the antagonists
 of their fungal crops. The ant Acromyrmex octospinosus deploys a
 Streptomyces strain that produces a wide range of antibiotics, including
 the polyene candicidin and antimycin that might kill some antagonistic
@@ -220,10 +225,11 @@ bacteria which might rot the larval carcass.
 Thus, the origins of medicine, bio-warfare, and crop-defense are facets
 of the same same underlying strategy in these realms. Importantly, these
 appear to be fairly stable strategies: the use of antibiotics by ants is
-likely to back to at least tens of Myrs, while that by digger wasps is
-spread across all continents and might even go back to the Mesozoic.
-Hence, we have much to learn in terms of how these organisms have
-managed to stay in the arms race arising from developing resistance.
+likely to back to at least tens of millions of years, while that by
+digger wasps is spread across all continents and might even go back to
+the Mesozoic. Hence, we have much to learn in terms of how these
+organisms have managed to stay in the arms race arising from developing
+resistance.
 
 Finally, a point of note is that farming and animal husbandry is
 strongly linked to sociality, in particular eusociality or at least a
@@ -240,11 +246,11 @@ established, farming might be stabilized in such (eu)social organisms
 due to a much-maligned proposal more recently championed by EO Wilson –
 group selection.
 
-Though, (eu)sociality might have preceded farming in these organisms it
+Though (eu)sociality might have preceded farming in these organisms, it
 probably had a strong feedback on the social structure of the organism:
 attine ants and the termites that farm are among the most highly
 stratified societies, both in terms of number and morphology of the
-castes. Interestingly, the attine ants have four castes (chatur-varNa\!)
+castes. Interestingly, the attine ants have four castes (chatur-varNa!)
 in addition to the queen: minims (grow fungi and clean larvae), minors
 (guards and rank-and-file soldiers), mediae (cut and transport leaves
 for composting) and majors (the elite attack force and big movers).
@@ -274,3 +280,4 @@ animal husbandry proved more than an match for the pure farmers, pure
 animal husbandsmen or those with less diversified animal stocks. In no
 small part was this due to the emergence of a specific caste structure
 in these peoples.
+

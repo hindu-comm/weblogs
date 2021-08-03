@@ -1,7 +1,11 @@
 +++
 title = "Some musings on chimpanzee hunting"
+date = "2005-11-10"
+upstream_url = "https://manasataramgini.wordpress.com/2005/11/10/some-musings-on-chimpanzee-hunting/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/11/10/some-musings-on-chimpanzee-hunting/).
+
 Like the human ape the chimpanzee is a predatory great ape. We saw a
 remarkable footage on the “Predators” documentary of a band of 5 chimps
 hunt the colobus monkeys. It leaves a tremendous impact on any one who
@@ -39,3 +43,4 @@ of skills while having a common goal. 3) Women are not likely to major
 contributors of tasks that are direct evolutes of the ancient hunt, so
 their role is more important in social and cheer-leading aspects of the
 group activity.
+

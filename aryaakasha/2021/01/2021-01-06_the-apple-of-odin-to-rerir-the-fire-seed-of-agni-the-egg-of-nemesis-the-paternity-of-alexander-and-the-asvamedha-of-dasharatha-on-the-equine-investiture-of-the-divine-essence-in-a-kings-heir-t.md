@@ -1,8 +1,11 @@
 +++
-title = "The Apple of Odin to Rerir, The Fire-Seed of Agni, The Egg of Nemesis, The Paternity of Alexander, And The Asvamedha of Dasharatha – On The Equine Investiture Of The Divine Essence In A King’s Heir-To-Be In The Indo-European Mytho-Religious Sacro-Politicalxa0Tradition"
-date = "January 6, 2021"
+title = "The Apple of Odin to Rerir, The Fire-Seed of Agni, The Egg of Nemesis, The Paternity of Alexander, And The Asvamedha of Dasharatha – On The Equine Investiture Of The Divine Essence In A King’s Heir-To-Be In The Indo-European Mytho-Religious Sacro-Political Tradition"
+date = "2021-01-06"
+upstream_url = "https://aryaakasha.com/2021/01/06/the-apple-of-odin-to-rerir-the-fire-seed-of-agni-the-egg-of-nemesis-the-paternity-of-alexander-and-the-asvamedha-of-dasharatha-on-the-equine-investiture-of-the-divine-essence-in-a-kings-heir-t/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/01/06/the-apple-of-odin-to-rerir-the-fire-seed-of-agni-the-egg-of-nemesis-the-paternity-of-alexander-and-the-asvamedha-of-dasharatha-on-the-equine-investiture-of-the-divine-essence-in-a-kings-heir-t/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/01/leda-egg.jpg?w=656)
 
 It is curious how things align. During the course of my research,

@@ -1,8 +1,11 @@
 +++
-title = "OF BHAIRAVA AND BALANCE – Vedic, Eddic, and Homeric perspectives on Lore and Order [Part 2]: Freak On A Leash – Why The Gods Allowed The Waxing Of Fenrir ; also The Introduction of The Avenging Son as Deepaxa0Order."
-date = "December 5, 2019"
+title = "OF BHAIRAVA AND BALANCE – Vedic, Eddic, and Homeric perspectives on Lore and Order [Part 2]: Freak On A Leash – Why The Gods Allowed The Waxing Of Fenrir ; also The Introduction of The Avenging Son as Deepa Order."
+date = "2019-12-05"
+upstream_url = "https://aryaakasha.com/2019/12/05/of-bhairava-and-balance-vedic-eddic-and-homeric-perspectives-on-lore-and-order-part-2-freak-on-a-leash-why-the-gods-allowed-the-waxing-of-fenrir-also-the-introduction-of-the-avenging-son-as/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/12/05/of-bhairava-and-balance-vedic-eddic-and-homeric-perspectives-on-lore-and-order-part-2-freak-on-a-leash-why-the-gods-allowed-the-waxing-of-fenrir-also-the-introduction-of-the-avenging-son-as/).
+
 ![](https://aryaakasha.files.wordpress.com/2019/12/79458618_10162644699270574_7807957163501944832_n.jpg?w=564)
 
 The first example we shall consider, is the binding of the Fenris Wolf.

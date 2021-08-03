@@ -1,7 +1,11 @@
 +++
 title = "Fragments of West Asian heathen thought: late surviving Hermetica"
+date = "2011-11-25"
+upstream_url = "https://manasataramgini.wordpress.com/2011/11/25/fragments-of-west-asian-heathen-thought-late-surviving-hermetica/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/11/25/fragments-of-west-asian-heathen-thought-late-surviving-hermetica/).
+
 To be read in conjunction with
 [this](https://manasataramgini.wordpress.com/2008/07/20/mantriform-incantations-in-other-cultures/).
 
@@ -452,6 +456,7 @@ traditions.
 Footnote 3: In India too the Isaist and Mohammedan subversionists have
 deployed a similar strategy claiming that the Hindu texts were a prelude
 to the truth claims of their respective cults and their cults were
-actually prophesied in the Hindu texts\! Some moronic Hindus might be
+actually prophesied in the Hindu texts! Some moronic Hindus might be
 taken in by such claims and softened for subsequent penetration by the
 Abrahamists.
+

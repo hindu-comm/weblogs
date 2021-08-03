@@ -1,7 +1,11 @@
 +++
 title = "Recombination of meters"
+date = "2004-12-11"
+upstream_url = "https://manasataramgini.wordpress.com/2004/12/11/recombination-of-meters/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2004/12/11/recombination-of-meters/).
+
 A technique of Chandas transformation is the circular permutation, which
 is used in the ShoDashin soma pouring. Here offerings of soma are made
 to indra with 5 specialized anuShTubh mantras called indra juShasva.
@@ -11,17 +15,17 @@ of 34 syllables in a mantra. The total of 5 svarAj mantras are derived
 by repeating the first R^ik 3 time, as is typical of a shastra
 recitation. Thus we get 34\*5=170 syllables.
 
-1\) indra juShasva pra vahA yAhi shUra haribhyAM / pibA sutasya mater
-iha madhosh chakAnash chArur madAya //
+1) indra juShasva pra vahA yAhi shUra haribhyAM / pibA sutasya mater iha
+madhosh chakAnash chArur madAya //
 
 15:19 (\*3 times)
 
-2\) indra jaTaraM navyo na pR^iNasva madhor divo na / asya sutasya
+2) indra jaTaraM navyo na pR^iNasva madhor divo na / asya sutasya
 s\[u\]varN\[a\]\[u\]opa tvA madAH suvAcho aguH //
 
 16:18
 
-3\) indras turAShAN mitro vR^itraM yo jaghAna yatir na / bibheda valaM
+3) indras turAShAN mitro vR^itraM yo jaghAna yatir na / bibheda valaM
 bhR^igur na sasahe shatrUn made somasya //
 
 16:18
@@ -46,7 +50,7 @@ then the following combinations are made: to make the new anuShTubh
 
 mantras:
 
-32 : 2+30 : 4 +28 : 6+26 : 8+24 : —\>10
+32 : 2+30 : 4 +28 : 6+26 : 8+24 : —>10
 
 That residue of 10 syllables is then used up as preceeding chant in the
 second part of the ShoDashi pouring.
@@ -78,7 +82,7 @@ pankti+gayatri=64=2\*32= 2\*anuShTubh as 2\* ( 8+8 / 8+8 //)
 simple vyuDha generation of 2 anuShTubhs from above:
 
 A tvA vahantu harayas (1) . svAdor itthA viSUvataH (2) . /  
-vR^iShaNaM somapItaye (1) . madhvaH pibanti gauryO3 (2) . // 
+vR^iShaNaM somapItaye (1) . madhvaH pibanti gauryO3 (2) . //
 
 (new anuShTubh 1)
 
@@ -92,3 +96,4 @@ Note the endings of the new verses in the shastra:
 gauryO3 ; svarAjyO3 are sung out with an “ooo” in a musical tone for
 
 the purpose of the shAstra.
+

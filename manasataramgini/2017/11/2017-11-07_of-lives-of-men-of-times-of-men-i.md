@@ -1,7 +1,11 @@
 +++
 title = "Of lives of men; of times of men-I"
+date = "2017-11-07"
+upstream_url = "https://manasataramgini.wordpress.com/2017/11/07/of-lives-of-men-of-times-of-men-i/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2017/11/07/of-lives-of-men-of-times-of-men-i/).
+
 Sharvamanyu and Vidrum arrived at the campus where Somakhya and Lootika
 were in their final days of college. Sharvamanyu had already been
 working for several months while Vidrum had just completed the last but
@@ -116,7 +120,7 @@ His son was Kambūjiya (Cambyses) named after the old Kamboja mentioned
 in our national epic. He led a great force for the conquest of Egypt,
 which was one of the last major powers left in the region that plainly
 refused to acknowledge the might of the Iranians. Initially, Kambūjiya
-and the pharaoh Amasis II had attempted to reach a truce. But Amasis
+and the pharaoh AmasisII had attempted to reach a truce. But Amasis
 himself had come to power in an internal conflict where he had killed
 another pharaoh Apries. The kinsfolk of that pharaoh and some
 disgruntled Egyptians appear to have gone over to the Iranian side with
@@ -141,7 +145,7 @@ everyone else who was with him. The Iranians then quickly took the fort
 and captured the pharaoh Psamtik. His life was initially spared but as
 he tried to revolt and regain his kingdom Kambūjiya killed him and even
 carved a seal depicting him spearing the pharaoh.”  
-![bawa\_killing\_pharaoh](https://manasataramgini.files.wordpress.com/2017/11/bawa_killing_pharaoh.jpg?w=640)  
+![bawa_killing_pharaoh](https://manasataramgini.files.wordpress.com/2017/11/bawa_killing_pharaoh.jpg?w=640)  
 Vidrum: “Interesting: that’s high drama worthy of a movie”  
 Sharvamanyu: “But no one will tell it from their angle. Is it not quite
 a turn of history that these world conquerors have been reduced to the
@@ -177,3 +181,4 @@ band of Parsis matter when your land is gone?”
 
 [Of lives of men; of times of
 men-II](https://manasataramgini.wordpress.com/2017/11/12/of-lives-of-men-of-times-of-men-ii/)
+

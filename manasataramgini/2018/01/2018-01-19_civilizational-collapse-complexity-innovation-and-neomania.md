@@ -1,7 +1,11 @@
 +++
 title = "Civilizational collapse, complexity, innovation and neomania"
+date = "2018-01-19"
+upstream_url = "https://manasataramgini.wordpress.com/2018/01/19/civilizational-collapse-complexity-innovation-and-neomania/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2018/01/19/civilizational-collapse-complexity-innovation-and-neomania/).
+
 On these pages we had provided some commentary on the work of the German
 thinker Oswald Spengler and his ideas of civilizational development. We
 had also provided other perspectives on this matter derived from
@@ -72,9 +76,9 @@ independent laboratory to study the development of human organizational
 complexity. In these examples Tainter makes the case for development
 from a relatively simple organizational state to a complex state that
 was characterized by increasing organizational complexity followed by a
-“golden age” and then a collapse, where most features of
-organizational and technological complexity are lost and the population
-returns to a basic subsistence mode.
+“golden age” and then a collapse, where most features of organizational
+and technological complexity are lost and the population returns to a
+basic subsistence mode.
 
 One may ask how does one measure complexity of a civilization? We would
 say a relatively simple device, inspired by devices we have effectively
@@ -239,3 +243,4 @@ so-called Fermi’s paradox is a real thing for most intelligent organisms
 are either leading the lives of dolphins and ravens or are repeatedly
 undergoing collapse rather than taking hold of the galaxy in the
 technological utopia of science-fiction.
+

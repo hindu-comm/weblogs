@@ -1,8 +1,11 @@
 +++
-title = "Devi NationalisMa Abovexa0All"
-date = "August 23, 2019"
+title = "Devi NationalisMa Above All"
+date = "2019-08-23"
+upstream_url = "https://aryaakasha.com/2019/08/23/devi-nationalisma-above-all/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/08/23/devi-nationalisma-above-all/).
+
 
 
 ![b7d77c00d41c918fdab8c01ed2a9e1e2](https://aryaakasha.files.wordpress.com/2019/08/b7d77c00d41c918fdab8c01ed2a9e1e2.jpg?w=676)

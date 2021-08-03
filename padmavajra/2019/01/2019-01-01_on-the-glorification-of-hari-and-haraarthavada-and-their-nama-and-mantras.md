@@ -1,8 +1,11 @@
 +++
-title = "On the glorification of hari and hara,arthavAda and their nAma andxa0mantras"
+title = "On the glorification of hari and hara,arthavAda and their nAma and mantras"
 date = "2019-01-01"
+upstream_url = "https://padmavajra.net/2019/01/01/on-the-glorification-of-hari-and-haraarthavada-and-their-nama-and-mantras/"
 
 +++
+Source: [here](https://padmavajra.net/2019/01/01/on-the-glorification-of-hari-and-haraarthavada-and-their-nama-and-mantras/).
+
 This thing came to my mind after reading a commentary on the nArAyaNIyam
 of bhaTTathiri.
 

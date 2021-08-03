@@ -1,7 +1,11 @@
 +++
 title = "yavanAnAM trishirAs-tvAShTra: Geryon Trikephalos"
+date = "2010-05-25"
+upstream_url = "https://manasataramgini.wordpress.com/2010/05/25/yavananam-trishiras-tvashtra-geryon-trikephalos/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2010/05/25/yavananam-trishiras-tvashtra-geryon-trikephalos/).
+
 [![](https://i1.wp.com/lh5.ggpht.com/_hjuA1bE0hBw/S_taiQjo67I/AAAAAAAABdA/ENMFjF92UOs/s800/herakles_geryon.jpg)](http://picasaweb.google.com/lh/photo/3IKX7tGFi6sbcfIKczDTVA?feat=embedwebsite)
 
 A vase depicting the battle with Geryon
@@ -11,22 +15,22 @@ A vase depicting the battle with Geryon
 A temple fragment from Cyprus showing the cattle raid on Geryon
 
 RV 10.8.7-9  
-asya tritaH kratunA vavre antar iChan dhItiM pitur evaiH parasya |  
-sachasyamAnaH pitror upasthe jAmi bruvANAyudhAni veti ||  
+asya tritaH kratunA vavre antar iChan dhItiM pitur evaiH parasya \|  
+sachasyamAnaH pitror upasthe jAmi bruvANAyudhAni veti \|\|  
 trita, in the midst of the grotto, through his powers seeking to
 meditate on the primal father, concealed in his parents lap, addressing
 the weapons’ kin, goes forth.
 
-sa pitryANy Ayudhani vidvan indreShita Aptyo abhy ayudhyat |  
+sa pitryANy Ayudhani vidvan indreShita Aptyo abhy ayudhyat \|  
 trishIrShANaM sapta-rashmiM jaghanvAn tvAShTrasya chinniH sasR^ije trito
-gAH ||  
+gAH \|\|  
 Knowledgeable in the use of his father’s weapons, the Aptya, impelled by
 Indra, gave battle. trita smote the three-headed seven-rayed tvAShTra,
 and released and led his cattle.
 
-bhUrId indra udinakShantam ojo.avAbhinat satpatir manyamAnam |  
+bhUrId indra udinakShantam ojo.avAbhinat satpatir manyamAnam \|  
 tvAShTrasya chid vishvarUpasya gonAm AchakraNas trINi shIrShA parA vark
-||  
+\|\|  
 Into many pieces, indra, the leader of true \[warriors\], rent him
 apart, who sought power and was much regarded. Forcibly seizing
 vishvarUpa tvAShTra’s cattle \[indra\] hacked off his three heads.
@@ -67,3 +71,4 @@ attacked by Orthrus whom he smashes with his uagros – again a transfer
 of the smashing of vR^itra with the vajra by indra. What the above
 artistic depictions of the Greek myth show is that Herakles was
 accompanied by an assistant, just like trita in the vaidika version.
+

@@ -1,7 +1,11 @@
 +++
 title = "The other vIra appears"
+date = "2008-02-24"
+upstream_url = "https://manasataramgini.wordpress.com/2008/02/24/the-other-vira-appears/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/02/24/the-other-vira-appears/).
+
 All the vIra-s had been attacked by the prayoga-s of the ari-s as
 implied in their cryptic message on the phala-s of the nR^I trees. The
 jyeShTha vIra had then been tied down by a kAmini sent by the
@@ -46,3 +50,4 @@ unstoppable mantra of chyavAna or syUmarashmI. The amAtya and the
 sachiva merged forces, and the ari-s were defeated and scattered by the
 other vIra not far away from maNGala-grAma. But we sent the signal:
 “king aryaman still needs his bhAga”.
+

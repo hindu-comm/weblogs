@@ -1,21 +1,25 @@
 +++
 title = "Panchatantra- India’s great product: origin and evolution"
+date = "2004-06-05"
+upstream_url = "https://manasataramgini.wordpress.com/2004/06/05/panchatantra-indias-great-product-origin-and-evolution/"
 
 +++
-****What were the origins of the pa\~nchatantra (PT) of the great
-brAhmaNa viShNusharman?  
+Source: [here](https://manasataramgini.wordpress.com/2004/06/05/panchatantra-indias-great-product-origin-and-evolution/).
+
+What were the origins of the pa\~nchatantra (PT) of the great brAhmaNa
+viShNusharman?  
 It is said that he composed to these tales to teach nIti to the errant
 sons of the king amarashakti of the southern janapada of mahilAropya
-\[meaning city of ascendant women\]. In his opening verse he salutes the
+\[meaning city ofascendantwomen\]. In his opening verse he salutes the
 great teachers of politics and declares the pa\~nchtantra to be an
 epitome of the arthashAstra:  
-**manave vAchaspataye shukrAya parAsharAya sa-sutAya |  
-cANakyAya ca viduShe namo .astu naya-shAstra-kartR^ibhyaH ||**
+**manave vAchaspataye shukrAya parAsharAya sa-sutAya \|  
+cANakyAya ca viduShe namo .astu naya-shAstra-kartR^ibhyaH \|\|**
 
-sakalArtha-shAstra-sAraM jagati samAlokya viShNuSharmedam |  
-tantraiH pa\~ncabhir etac cakAra sumanoharaM shAstram ||  
+sakalArtha-shAstra-sAraM jagati samAlokya viShNuSharmedam \|  
+tantraiH pa\~ncabhir etac cakAra sumanoharaM shAstraM \|\|  
 To manu, to bR^ihaspati, shukra, parAshara and his son and chANakya the
-learned, we salute; these great makers of shAstras. Having examined the
+learned, we salute; these great makers of shAstras.Having examined the
 essence of all shAstras, viShNusharman too, has composed these five
 volumes, a delightful text.
 
@@ -50,7 +54,7 @@ variant of this appears to have been inserted within the ancestral
 northern bR^ihatkatha and is preserved in the two descendent variants
 prepared by the Kashmirian brAhmaNas kShemendra \[bR^ihatkatha
 ma\~njari\] and somadeva \[kathasaritsAgara\]  
-2\) The southern pa\~nchatantra is the shortest version of the text and
+2) The southern pa\~nchatantra is the shortest version of the text and
 its primary descendent was that of the south Indian brAhmaNa vasubhAga,
 who recombined it with material from the southern recension of the
 bR^ihatkatha to make his text. The version of vasubhAga was transported
@@ -104,3 +108,4 @@ Depends on the competence of the man
 To whom they belong”**  
 So says viShNusharman  
 \[1.44; critical edition of Edgerton\]
+

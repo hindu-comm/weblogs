@@ -1,7 +1,11 @@
 +++
 title = "Revisiting dawn in the R^igveda"
+date = "2014-06-16"
+upstream_url = "https://manasataramgini.wordpress.com/2014/06/16/revisiting-dawn-in-the-rigveda/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/06/16/revisiting-dawn-in-the-rigveda/).
+
 One of the most physically and mentally demanding performances in the
 agnichayana and other soma rituals based on that model is the atirAtra
 or the overnight rite. The highpoint of it is the great ritual to the
@@ -12,24 +16,25 @@ indicating that they are sung at the junction between night and the
 daybreak, i.e., the dawn. That they are linked with the dawn presided by
 the goddess uShas is clear from one set of these songs known as the
 uShANi, which are thus deployed by the sAmavedic singers:  
-him |  
-prastAva: prAti vo darshyAyato3 vA |  
-udgItha: o3 chChantI duhitA divo3 po3 mahi vR^iNute chakShuShA tamaH |  
-pratihAra: jyo3tIH kR^iNoti |  
-upadrava: i LA o3 nArI o3 vA hA vu vA |  
-nidhana: As ||
+hiM \|  
+prastAva: prAti vo darshyAyato3 vA \|  
+udgItha: o3 chChantI duhitA divo3 po3 mahi vR^iNute chakShuShA tamaH
+\|  
+pratihAra: jyo3tIH kR^iNoti \|  
+upadrava: i LA o3 nArI o3 vA hA vu vA \|  
+nidhana: As \|\|
 
-prastAva: jyo3to3 vA |  
-udgItha: o3 No3ti sUnarI udusriyAs sR^ijate3 sUriyAs sachA |  
-pratihAra: udyan nAkShatrAm |  
-upadrava: i LA o3rchA yi vA do3 vA hA vu vA |  
-nidhana: As |
+prastAva: jyo3to3 vA \|  
+udgItha: o3 No3ti sUnarI udusriyAs sR^ijate3 sUriyAs sachA \|  
+pratihAra: udyan nAkShatrAM \|  
+upadrava: i LA o3rchA yi vA do3 vA hA vu vA \|  
+nidhana: As \|
 
-prastAva: udyo3 vA |  
-udgItha: o3 kShatram archivat tave3d uSho3 vyuShi sUriyAsya cha |  
-pratihAra: saM bhakte3nA ga |  
-upadrava: i LA o3 mahi o3 vA hA vu vA |  
-nidhana: As |
+prastAva: udyo3 vA \|  
+udgItha: o3 kShatram archivat tave3d uSho3 vyuShi sUriyAsya cha \|  
+pratihAra: saM bhakte3nA ga \|  
+upadrava: i LA o3 mahi o3 vA hA vu vA \|  
+nidhana: As \|
 
 The prastAva is sung by the prastotA, the udgItha by the udgAtA, the
 pratihAra by the pratihartA, the upadrava by the udgAtA, and the nidhana
@@ -37,16 +42,16 @@ by all three.
 
 The lyrics of this rahasya gAna are based on the mantra-s of the
 maitrAvaruNi vasiShTha:  
-praty u adarshy Ayaty uchChantI duhitA divaH |  
-apo mahi vyayati chakShase tamo jyotiSh kR^iNoti sUnarI ||  
+praty u adarshy Ayaty uchChantI duhitA divaH \|  
+apo mahi vyayati chakShase tamo jyotiSh kR^iNoti sUnarI \|\|  
 The daughter of dyaus has appeared now, shining as she nears;  
 The noble lady rolls up great darkness and makes light for us to see.
 
-ud usriyAH sR^ijate sUryaH sachAM udyan nakShatram archivat |  
-taved uSho vyuShi sUryasya cha sam bhaktena gamemahi ||  
+ud usriyAH sR^ijate sUryaH sachAM udyan nakShatram archivat \|  
+taved uSho vyuShi sUryasya cha sam bhaktena gamemahi \|\|  
 The sun frees the red cows while he the radiant star rises high;  
 May we acquire our share \[of wealth\] when you O uShas and the sun’s
-light come forth\! (RV 7.81.1-2)
+light come forth! (RV 7.81.1-2)
 
 This is followed by the recitation of the thousand mantra-s of the
 Ashvina shastra by the hotr^i, which is a great feat of memory for they
@@ -56,18 +61,18 @@ rite to the ashvin-s (evidently in its earlier form) is alluded to
 within the R^igveda itself by maitrAvaruNi vasiShTha. This reference not
 only supports its antiquity but also suggests it was performed at dawn:
 
-ashochy agniH samidhAno asme upo adR^ishran tamasash chid antAH |  
-acheti ketur uShasaH purastAch Chriye divo duhitur jAyamAnaH ||  
+ashochy agniH samidhAno asme upo adR^ishran tamasash chid antAH \|  
+acheti ketur uShasaH purastAch Chriye divo duhitur jAyamAnaH \|\|  
 *agni has shone brightly when kindled (using samidh-s) by us;*  
 *boundaries of darkness were visible.*  
 *Eastward is seen the banner of uShas,*  
 *one born to \[indicate\] the glory of dyaus’ daughter.*
 
-abhi vAM nUnam ashvinA suhotA stomaiH siShakti nAsatyA vivakvAn |  
-pUrvIbhir yAtam pathyAbhir arvAk svarvidA vasumatA rathena ||  
+abhi vAM nUnam ashvinA suhotA stomaiH siShakti nAsatyA vivakvAn \|  
+pUrvIbhir yAtam pathyAbhir arvAk svarvidA vasumatA rathena \|\|  
 *The good hotR^i faces you, O ashvin-s,*  
 *now the eloquent chanter attends you with the recitation, O
-nAsatya-s\!*  
+nAsatya-s!*  
 *Come by the paths you have formerly traveled by,*  
 *by the chariot that finds the light, laden with treasure.* (RV
 7.67.2-3)
@@ -118,8 +123,8 @@ understand. Tilak himself took it as evidence in support of his
 contention while other interpreters of the RV have tended to look at it
 differently. We revisit this mantra and see what it might mean.
 
-shashvat puroShA vy uvAsa devy atho adyedaM vy Avo maghonI |  
-atho vy uchChAd uttarAM anu dyUn ajarAmR^itA charati svadhAbhiH ||RV
+shashvat puroShA vy uvAsa devy atho adyedaM vy Avo maghonI \|  
+atho vy uchChAd uttarAM anu dyUn ajarAmR^itA charati svadhAbhiH \|\|RV
 1.113.13 by kutsa A\~ngirasa
 
 shashvat= continually; purA= formerly uShAH= uShas, nominative singular;
@@ -142,7 +147,7 @@ Thus with the above analysis one may translate the mantra thus:
 *immortal and undecaying she moves on by her own powers.*
 
 Now this mantra poses the following problems of note:  
-1\) The first pAda has been interpreted by most as meaning from the
+1) The first pAda has been interpreted by most as meaning from the
 former times the goddess uShas has been continually shining forth. This
 is taken as a symmetric contrast to the future expectation expressed in
 the 3rd pAda for the days that will come along. But the point to note is
@@ -180,9 +185,9 @@ This interpretation of vi-AvaH is consistent with another occurrence of
 it in a mantra of dIrghatamas auchAthya in a similar context relating to
 the dawn Ashvina ritual:
 
-abodhy agnir jma ud eti sUryo vy uShAsh chandrA mahy Avo archiShA |  
-AyukShAtAm ashvinA yAtave rathaM prAsAvId devaH savitA jagat pR^ithak ||
-(RV 1.157.1)  
+abodhy agnir jma ud eti sUryo vy uShAsh chandrA mahy Avo archiShA \|  
+AyukShAtAm ashvinA yAtave rathaM prAsAvId devaH savitA jagat pR^ithak
+\|\| (RV 1.157.1)  
 The verbs herein are: abodhi= was awakened, 3rd person singular
 atmanepada aorist of class 1 verb budh; ud-eti= rises up, 3rd person
 singular present of class 2 verb i; vi-AvaH= shone forth, like above
@@ -234,3 +239,4 @@ In conclusion, while it may be a far stretch to place the home of the
 Indo-Aryans inside the Arctic circle, we do feel Tilak’s observation
 regarding the long dawns in the veda is valid and consistent with the
 idea of the ancient home of the Indo-Aryans north of the Caucasus.
+

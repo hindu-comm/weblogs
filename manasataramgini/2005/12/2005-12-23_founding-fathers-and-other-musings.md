@@ -1,7 +1,13 @@
 +++
 title = "Founding fathers and other musings"
+date = "2005-12-23"
+upstream_url = "https://manasataramgini.wordpress.com/2005/12/23/founding-fathers-and-other-musings/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/12/23/founding-fathers-and-other-musings/).
+
+
+
 [![](https://i1.wp.com/photos1.blogger.com/blogger/2010/410/320/niall.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/niall.jpg)
 
 [![](https://i0.wp.com/photos1.blogger.com/blogger/2010/410/320/nurhachi.0.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/nurhachi.0.jpg)[![](https://i0.wp.com/photos1.blogger.com/blogger/2010/410/320/chingiz.2.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/chingiz.2.jpg)
@@ -38,3 +44,4 @@ the direction of the Arab world. Thus, the verdict of genetics is that
 the Islamic invaders did kill of males in parts where they became
 dominant. We do not have much evidence if that happened with the earlier
 invaders.
+

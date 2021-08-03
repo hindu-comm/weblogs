@@ -1,7 +1,13 @@
 +++
 title = "New species of Neofelis?"
+date = "2007-03-17"
+upstream_url = "https://manasataramgini.wordpress.com/2007/03/17/new-species-of-neofelis/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/03/17/new-species-of-neofelis/).
+
+
+
 [![](https://i0.wp.com/bp0.blogger.com/_ZhvcTTaaD_4/RfuDF8cE73I/AAAAAAAAAFo/K38pO0uBYHo/s320/clouded_leopard.jpg)](http://bp0.blogger.com/_ZhvcTTaaD_4/RfuDF8cE73I/AAAAAAAAAFo/K38pO0uBYHo/s1600-h/clouded_leopard.jpg)[![](https://i0.wp.com/bp0.blogger.com/_ZhvcTTaaD_4/RfuDF8cE74I/AAAAAAAAAFw/4j4ZzYdURng/s320/clouded_leopard_old.jpg)](http://bp0.blogger.com/_ZhvcTTaaD_4/RfuDF8cE74I/AAAAAAAAAFw/4j4ZzYdURng/s1600-h/clouded_leopard_old.jpg)
 
 R brought to my attention that there was a considerable press attention
@@ -62,3 +68,4 @@ fixed in an strongly arboreal niche, I am not surprised that it has been
 conservative on morphology, whiles its different populations have
 accumulated genetic divergence comparable the later radiating Panthera
 genus.
+

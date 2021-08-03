@@ -1,7 +1,11 @@
 +++
 title = "Wanderings in the realm of lolimbarAja"
+date = "2008-08-12"
+upstream_url = "https://manasataramgini.wordpress.com/2008/08/12/wanderings-in-the-realm-of-lolimbaraja/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/08/12/wanderings-in-the-realm-of-lolimbaraja/).
+
 A relatively minor affliction of the upper-respiratory tract had seized
 me in the long past days. Mis-creant recommended that I try a guTikA
 made by local traditional physician. I had known of Mis-creant’s disdain
@@ -16,10 +20,10 @@ affliction in a day, when normally such things lasted a week \[I, the
 muni and mAtAshrI have since been empirically able to verify its
 abilities on other occasions\]. This raised my curiosity about this
 peculiarly named kavi – I guessed his name meant a king of the bees – a
-biologically inappropriate name\! The AchArya enlightened me that
+biologically inappropriate name! The AchArya enlightened me that
 lolimbarAja was the author of an enormously popular work titled
 vaidya-jIvana, but told me that it was not really something to be read
-by kids like us. How could this be\! I thought to myself –this forbidden
+by kids like us. How could this be! I thought to myself –this forbidden
 stuff must really be something like rAjan shambAjI’s poems. So I looked
 into his concoctions and first found that the guTikA which had cured me
 was indeed found in its exactness in 3.7 of lolimbarAja’s vaidya-jIvana.
@@ -54,7 +58,7 @@ horizon, and suddenly fragments of a verse of lolimbarAja came to mind:
 ratnaM vAma-dR^ishAM dR^ishAM sukha-karaM shrI-saptashR^i\~NgAs-padaM  
 spaShTAshTA-dasha-bAhu tad bhagavato bhargasya bhAgyaM bhaje  
 yad-bhaktena mayA ghaTa-stani ghaTImadhye samutpAdyate  
-padyAnAM shataM a\~NganAdhara-sudhAsparddhAvidhAnoddharam ||
+padyAnAM shataM a\~NganAdhara-sudhAsparddhAvidhAnoddharam \|\|
 
 I must confess that in those long past days this striking verse of
 lolimbarAja took me a while to understand, though I was immediately
@@ -121,9 +125,9 @@ The company and the age prevented me from saying more about the content
 of lolimbarAja’s medical poetry then. But I wondered then whether it was
 his medical accomplishment or the raciness of his works that made him so
 popular. As he himself confesses:  
-yeShAM na cheto lalanAsulagnaM magnaM na sAhitya-sudhA-samudre |  
-j\~nAsyanti te kiM mama hA \! prayAsAn andhA yathA vAra-vadhU-vilAsAn
-||  
+yeShAM na cheto lalanAsulagnaM magnaM na sAhitya-sudhA-samudre \|  
+j\~nAsyanti te kiM mama hA ! prayAsAn andhA yathA vAra-vadhU-vilAsAn
+\|\|  
 It would have been nice if this could be rendered equally poetically in
 translation, but crudely it means: “Those who are not conscious of the
 attractions of alluring women, who are not immersed in the nectar sea of
@@ -132,3 +136,4 @@ experience the charms of a courtesan.” In an earlier phase of my
 existence I might have been roused by it, but now I look at more
 Platonically :-). But every time I read a verse of lolimbarAja I was
 struck by it superb poetic quality.
+

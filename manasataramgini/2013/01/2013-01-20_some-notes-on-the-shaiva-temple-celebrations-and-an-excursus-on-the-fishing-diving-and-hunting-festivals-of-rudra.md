@@ -1,7 +1,11 @@
 +++
 title = "Some notes on the shaiva temple celebrations and an excursus on the fishing, diving and hunting festivals of rudra"
+date = "2013-01-20"
+upstream_url = "https://manasataramgini.wordpress.com/2013/01/20/some-notes-on-the-shaiva-temple-celebrations-and-an-excursus-on-the-fishing-diving-and-hunting-festivals-of-rudra/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/01/20/some-notes-on-the-shaiva-temple-celebrations-and-an-excursus-on-the-fishing-diving-and-hunting-festivals-of-rudra/).
+
 An integral aspect of the life of the post-Vedic Hindu community was
 participation in the temple celebrations. It was considered highly
 beneficial in the tAntrika tradition, both to the individual and the
@@ -384,7 +388,7 @@ associated with the hunt. In addition he too is surrounded by nymphs
 leading the muse band). In the Arya world this aspect of rudra is well
 preserved from the earliest layers. In the shatarudrIya he is praised
 as:  
-namo mR^igayubhyo namaH | shvanibhyash cha namaH | vo namaH ||  
+namo mR^igayubhyo namaH \| shvanibhyash cha namaH \| vo namaH \|\|  
 i.e. the one who is in the form of deer hunters, and one who hunt with
 dogs. This aspect of rudra also emerges in the astronomical tale of his
 hunting prajApati in the form of a deer or an antelope as he ran towards
@@ -393,9 +397,9 @@ yaj\~napuruSha trying to flee in the form of a stag from dakSha-s
 ritual. In the mahAbhArata’s kairAta parvan, when rudra appears with umA
 and his gaNa-s in the form of kirAta hunters, he is said to be
 surrounded by thousands of kirAta women (kirAta veSha prachChannaH
-strIbhish chAnu sahasrashaH | 3.40.2a). It is this point that arjuna
+strIbhish chAnu sahasrashaH \| 3.40.2a). It is this point that arjuna
 makes a special note of when he challenges rudra
-(kirAta-veSha-prachChannaM strI-sahAyam amitrahA | 3.40.17). As we have
+(kirAta-veSha-prachChannaM strI-sahAyam amitrahA \| 3.40.17). As we have
 discussed before rudra is accompanied by a band of armed female deities
 even in the shruti. It is these who are simulated by the rudra girls in
 the mR^igayAtra. Thus, preserved within the saiddhAntika festival
@@ -413,7 +417,7 @@ the mahotsava, but occur independently as standalone utsava-s. Given
 that they are mentioned in the sUkShmAgama, which shows several
 archaisms, it is quite possible that it reflects a fairly ancient
 tradition. After all even the shatarudrIya records the manifestation of
-the rudra-s as fishermen (namaH pu\~njiShThebhyo namaH |). The fishing
+the rudra-s as fishermen (namaH pu\~njiShThebhyo namaH \|). The fishing
 festival or the matsya-lIlA is performed in the period when the sun
 travels from Pisces to Virgo and one lasting 5-8 days is considered the
 best. It was primarily performed by the rAjA and rAj\~nI along with the
@@ -496,6 +500,7 @@ Footnote 4: In the shruti there is a mantra describing rudra mounted on
 his white horse-  
 A tvA vahantu harayaH sachetasaH shvetair ashvaiH saha ketumadbhir
 vAtAjavair balavadbhir manojavair AyAhi shIghraM mama havyAya sharvO3M
-|| (bodhAyana mantra pATha 351 c.f. maitrAyaNIya saMhitA of KYV). This
+\|\| (bodhAyana mantra pATha 351 c.f. maitrAyaNIya saMhitA of KYV). This
 mantra is deployed in some traditions while \[the image of\] rudra
 mounts the horse.
+

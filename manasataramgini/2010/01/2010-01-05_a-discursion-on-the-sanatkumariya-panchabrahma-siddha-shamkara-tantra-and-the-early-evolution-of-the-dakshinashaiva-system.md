@@ -1,8 +1,12 @@
 +++
 title = "A discursion on the sanatkumArIya pa~nchabrahma (siddha-shaMkara) tantra and the early evolution of the dakShiNashaiva system"
+date = "2010-01-05"
+upstream_url = "https://manasataramgini.wordpress.com/2010/01/05/a-discursion-on-the-sanatkumariya-panchabrahma-siddha-shamkara-tantra-and-the-early-evolution-of-the-dakshinashaiva-system/"
 
 +++
-[![kalinjar\_bhairavas2](https://i2.wp.com/farm5.static.flickr.com/4031/4259390457_2140b69189.jpg)](http://www.flickr.com/photos/24766652@N05/4259390457/ "kalinjar_bhairavas2 by somasushma, on Flickr")
+Source: [here](https://manasataramgini.wordpress.com/2010/01/05/a-discursion-on-the-sanatkumariya-panchabrahma-siddha-shamkara-tantra-and-the-early-evolution-of-the-dakshinashaiva-system/).
+
+[![kalinjar_bhairavas2](https://i2.wp.com/farm5.static.flickr.com/4031/4259390457_2140b69189.jpg)](http://www.flickr.com/photos/24766652@N05/4259390457/ "kalinjar_bhairavas2 by somasushma, on Flickr")
 
 **Diversity and syncretism in the bhairava or dakShiNa srotas**  
 The bhairava-srotas of the shaiva mantramArga was clearly one of the
@@ -140,36 +144,36 @@ which follows does specifically consider the TA form rather than the 32
 syllabled form: This suggests that dhyAna was perhaps simply adapted
 from a ritual text that originally used the 32-syllabed version.  
 mantra:  
-aghorebhyo .atha ghorebhyo ghoraghoratarebhyaH |  
-sharvebhyaH sarvasharvebhyo namaste astu rudrarUpebhyaH ||  
+aghorebhyo .atha ghorebhyo ghoraghoratarebhyaH \|  
+sharvebhyaH sarvasharvebhyo namaste astu rudrarUpebhyaH \|\|  
 nyAsa:  
-aghorebhyaH prashAnta-hR^idayAya namaH |  
-atha ghorebhyaH sarvAtma brahma-shirase svAhA ||  
-ghora-ghoratarebhyaH jvAlAmAlinI-shikhAyai vaShaT |  
-sarvebhyaH sarva-sharvebhyaH pi\~Ngala-kavachAya hum ||  
-namaste astu rudrarUpebhyaH netratrayAya vaShaT |  
-sahasrAkShAya durbhedAya pAshupatAstrAya huM phaT ||  
+aghorebhyaH prashAnta-hR^idayAya namaH \|  
+atha ghorebhyaH sarvAtma brahma-shirase svAhA \|\|  
+ghora-ghoratarebhyaH jvAlAmAlinI-shikhAyai vaShaT \|  
+sarvebhyaH sarva-sharvebhyaH pi\~Ngala-kavachAya hum \|\|  
+namaste astu rudrarUpebhyaH netratrayAya vaShaT \|  
+sahasrAkShAya durbhedAya pAshupatAstrAya huM phaT \|\|  
 similarly for a\~Nga-nyAsa.  
 The dhyana for aghora in this mantra runs thus:  
-vAmAdibhish cha sahite manonmanyApy adhiShThite |  
-shivAsanetmamUrtistham akShayAkAra rUpiNam ||  
-aShTa-triMshat-kalA-dehaM tri-tattva-sahitaM shivam |  
-aShTAdasha-bhujaM devaM gaja-charmottarIyakam ||  
-siMhAjinAMbara-dharam-aghoraM parameshvaram |  
-\*dvAtriMshAkShara-rUpeNa\* dvAtriMshach-Chaktibhir-vR^itam ||  
-sarvAbharaNa-saMyuktaM sarva-deva-namaskR^itam |  
-kapAla-mAlAbharaNaM sarva-vR^ishchika-bhUShaNam ||  
-pUrNendu-vadanaM saumyaM chandra-koTi samaprabham |  
-chandra-rekhA-dharaM shaktyA sahitaM nIlarUpiNam ||  
+vAmAdibhish cha sahite manonmanyApy adhiShThite \|  
+shivAsanetmamUrtistham akShayAkAra rUpiNaM \|\|  
+aShTa-triMshat-kalA-dehaM tri-tattva-sahitaM shivam \|  
+aShTAdasha-bhujaM devaM gaja-charmottarIyakam \|\|  
+siMhAjinAMbara-dharam-aghoraM parameshvaram \|  
+\*dvAtriMshAkShara-rUpeNa\* dvAtriMshach-Chaktibhir-vR^itam \|\|  
+sarvAbharaNa-saMyuktaM sarva-deva-namaskR^itam \|  
+kapAla-mAlAbharaNaM sarva-vR^ishchika-bhUShaNam \|\|  
+pUrNendu-vadanaM saumyaM chandra-koTi samaprabham \|  
+chandra-rekhA-dharaM shaktyA sahitaM nIlarUpiNam \|\|  
 haste khaDgaM kheTakaM pAsham-ekeratnaish-chitraM chA\~NkushaM
-nAgakakShAm |  
+nAgakakShAm \|  
 sharasanaM pAshupataM tathAstraM muNDaM cha khaTvA\~Ngam athApare cha
-||  
+\|\|  
 tantrIM cha ghaNTAM vipulaM cha shUlaM tathApare DAmarukaM cha divyam
-|  
+\|  
 vajraM gadAM Ta\~Nkam ekaM cha dIptaM sa mudgaraM hastam athAsya
 shaMbhoH  
-varadAbhaya-hastaM cha vareNyaM parameshvaram ||
+varadAbhaya-hastaM cha vareNyaM parameshvaram \|\|
 
 This dhyana is more or less equivalent to the dhyana of svachChanda
 bhairava given in the eponymous tantra (2.82-2.93). In fact several of
@@ -305,8 +309,8 @@ the worship of aghora was first taught by nandin to brahmA’s son
 aghora in a li\~Nga, sthaNDila or in oneself:  
 bANa-li\~Nge .athavA vahnau dakShiNAmUrtim AshritaH LiP 2.50.14cd ;  
 aghorArchAvidhAnaM cha li\~NgevA sthANDile .api vA LiP 2.26.26 cd \~  
-sthaNDile vA.api li\~Nge vA pashchAd yajanam Arabhet | SST 1.9;  
-li\~Nge vA sthaNDile vA.api sarva-kAma-phalapradam |SST 1.37 ab
+sthaNDile vA.api li\~Nge vA pashchAd yajanam Arabhet \| SST 1.9;  
+li\~Nge vA sthaNDile vA.api sarva-kAma-phalapradaM \|SST 1.37 ab
 
 kAlAgni-koTi saMkAshaM svadeham api bhAvayet LiP 2.50.19cd \~  
 mAheshvaraM vapuH kR^itvA jaTA-mukuTa-bhUShaNaM… svasharIra tataH pUjya
@@ -314,7 +318,7 @@ puShpa-dhUpa-vilepanaiH SST 1.6&1.8
 Moreover, both these texts, like the earlier pAshupata sUtra-s and
 AV-pari 40 pAshupata vrata, use a phrase “devasya dakShiNamUrteH”
 (frequently encountered in the SST) e.g.: devasya dakShiNamUrter japed
-Astam anAdaveH | SST2.16ab  
+Astam anAdaveH \| SST2.16ab  
 This is taken to mean to the south side of the image of the deity, the
 li\~Nga or the ritual fire. Given that the south face of the rudra is
 aghora it appears that it was an old shaiva practice to perform the rite
@@ -329,15 +333,15 @@ performed in the crematorium as per the brahma yAmala).
 
 Another point of interest is the position of the SST with respect to the
 beings such as DAkinI-s, vetAla-s and vinAyaka-s:  
-graha-vetAla-DAkinyo duShTash chaanye sahasrasaH |  
-pralayaM yAnti te sarve maitrIm Ayanti mAnavAH || SST 1.35  
+graha-vetAla-DAkinyo duShTash chaanye sahasrasaH \|  
+pralayaM yAnti te sarve maitrIm Ayanti mAnavAH \|\| SST 1.35  
 Here the deployment of the svachChanda mantra is said to destroy evil
 beings like DAkinI-s, graha-s and vetAla-s.  
 Again we have:  
-shivasyaiva hi nirmAlyaM sahasreNAbhimantritam |  
-dhUpanaM tena rakShAMsi bhUta-vetAla-sugrahAH |  
-vinAyakAs tu Dakinyo jvaraapasmara saMbhavAH |  
-nashyanti sakalA rogAH satyaM satyaM vadAmyahaM||SST 4.11  
+shivasyaiva hi nirmAlyaM sahasreNAbhimantritaM \|  
+dhUpanaM tena rakShAMsi bhUta-vetAla-sugrahAH \|  
+vinAyakAs tu Dakinyo jvaraapasmara saMbhavAH \|  
+nashyanti sakalA rogAH satyaM satyaM vadAmyahaM\|\|SST 4.11  
 Here it is stated that the fumigation with the nirmAlya of shiva on
 which the mantra of aghora has been chanted a 1000 times is verily a
 means to destroy rakSha-s, bhUta-s, vetAla-s, graha-s vinAyaka-s,
@@ -345,8 +349,8 @@ DAkini-s and various diseases. This negative view of the DAkini-s and
 bhUta-s presented by the SST is comparable to a similar negative view of
 them taken by the bodhAyanokta mahAnyAsa, a tAntro-vedic ritual.  
 In the li\~Nga purANa we have:  
-bhUtaiH pretaiH pishAchaishcha DAkinIbhishcha rAkShasaiH |  
-saMvR^itaM gajakR^ittvA cha sarpabhUShaNabhUShitam || 2.50.24  
+bhUtaiH pretaiH pishAchaishcha DAkinIbhishcha rAkShasaiH \|  
+saMvR^itaM gajakR^ittvA cha sarpabhUShaNabhUShitam \|\| 2.50.24  
 Here we note that bhUta-s, preta-s, pishAcha-s, DAkini-s and rAkShasa-s
 are mentioned as being in the retinue surrounding aghora.
 
@@ -389,8 +393,8 @@ several other rites including some with bones of a vulture or
 preparation of guggulu pills and using them in a rite for attaining the
 siddhi-s. It should however be noted that an element of non-duality is
 hinted in the statement:  
-sarvaavasthA-gato nityaM yaH pUjayati sha\~Nkaram |  
-apavitraH pavitro vA svachChandas tena kIrtitaH || SST 1.14  
+sarvaavasthA-gato nityaM yaH pUjayati sha\~NkaraM \|  
+apavitraH pavitro vA svachChandas tena kIrtitaH \|\| SST 1.14  
 The one who irrespective of purity or lack there of in all states
 worships rudra is said to be the spontaneous worshiper.
 
@@ -399,33 +403,34 @@ as svachChanda and that of aghoreshvarI explicitly identified as parA
 and is provided in the first paTala.The aghora mantra, as in the SVBT
 and the KMT is termed the mantra-rAja, right at the beginning of the
 text. The features of note are:  
-\-the nyAsa is done in a simple ancestral shaiva fashion by appending
-the hrAM, hrIM etc bIja-s with the fragments of the anuShTubh mantra
-\[aghorebhyo .atha ghorebhyo ghoraghoratarebhyaH | sarvataH sharvebhyo
-namaste astu rudrarUpebhyaH ||\] thus: hrAM+4 syllables+hR^idaya+namaH;
-hrUM+4 syllables+shiras+svAhA; hrIM+8 syllables+shikhA+vaShaT; hraIM+8
-syllables+kavacha+huM; hrauM+8 syllables+netra+vaShaT; astra+phaT  
+-the nyAsa is done in a simple ancestral shaiva fashion by appending the
+hrAM, hrIM etc bIja-s with the fragments of the anuShTubh mantra
+\[aghorebhyo .atha ghorebhyo ghoraghoratarebhyaH \| sarvataH sharvebhyo
+namaste astu rudrarUpebhyaH \|\|\] thus: hrAM+4
+syllables+hR^idaya+namaH; hrUM+4 syllables+shiras+svAhA; hrIM+8
+syllables+shikhA+vaShaT; hraIM+8 syllables+kavacha+huM; hrauM+8
+syllables+netra+vaShaT; astra+phaT  
 Then after invoking aghora in ones own self, one performs the aghora
 digbandha with fragments of the mantra.  
-\-The dhyAna of aghora is a simple one, unlike the 18-handed forms of
-the SVBT and the LiP:  
+-The dhyAna of aghora is a simple one, unlike the 18-handed forms of the
+SVBT and the LiP:  
 kapAla-mAlAbharaNaM chatur-bhujaM vaktrekShaNaM shUladhArAbhayapradaM
-|  
+\|  
 trilochanaM khaNDa-shashA\~NkadhAriNaM dhyAyeddharaM yaH sa labheta
-Ipsitam ||
+IpsitaM \|\|
 
-\-The invocation of \[a\]ghoreshvarI is performed in a hR^illekha
+-The invocation of \[a\]ghoreshvarI is performed in a hR^illekha
 manifesting in the middle of aghora meditated upon in the heart. She is
 clearly identified with parA:  
-daNDaM shashikaraM chaiva a\~NkushaM karttarI dhvajau |  
-savisargA parA devI aghorA parikIrtitA || SST1.14  
+daNDaM shashikaraM chaiva a\~NkushaM karttarI dhvajau \|  
+savisargA parA devI aghorA parikIrtitA \|\| SST1.14  
 Her attributes mentioned here are somewhat different from the
 conventional ones associated with parA: a rod, a hook, battle scissors
 and flag with the classical lunar insignia.  
-\-The mUla mantra of aghoreshvarI is given as: aghoreshI hrIM huM phaT
-|  
+-The mUla mantra of aghoreshvarI is given as: aghoreshI hrIM huM phaT
+\|  
 A further mantra of her is also alluded to but no details are given of
-this mantra: sauH aghoreshI hrIM huM phaT |  
+this mantra: sauH aghoreshI hrIM huM phaT \|  
 It states that if the mantra of (a)ghoreshvarI is performed along with
 the mantra-rAja then the benefits are doubled. The core of these
 mantra-s have a certain relationship to one of the kANDa of the
@@ -436,11 +441,11 @@ the central shakti of both trika (parA; also parApArA based on the
 mantra) and of the pashchimAMnAya (kubjikA) have emerged. This also
 seems to be the foundation of the goddess aghorA described in the
 yoginIsaMchAra tantra.  
-\-The text teaches a specialized mudra of ghoreshvarI (SST 1.31-34)
-where the hands are folded into a complex pose and used to close the
-eyes. Then the text mentions that one must carry out chalana of the
-tongue. We take this to mean the performance of the churning as in the
-khecharI practice.
+-The text teaches a specialized mudra of ghoreshvarI (SST 1.31-34) where
+the hands are folded into a complex pose and used to close the eyes.
+Then the text mentions that one must carry out chalana of the tongue. We
+take this to mean the performance of the churning as in the khecharI
+practice.
 
 In conclusion, we take the core of the SST to be a relatively old text
 of the early mantra mArga that lead to the bhairava srotas — its primary
@@ -492,3 +497,4 @@ Footnote 3: R1’s father mentioned that there is a manuscript of a text
 termed the aghora-mUla-tantra survived in Nepal until recently that he
 suspects is indeed one of the root tantra-s of aghora from which the SST
 could be drawn. It could be aghoreshvara mentioned by the brahma-yAmala.
+

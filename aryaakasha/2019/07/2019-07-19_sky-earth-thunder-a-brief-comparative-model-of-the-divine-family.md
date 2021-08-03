@@ -1,8 +1,11 @@
 +++
-title = "Sky-Earth-Thunder – A Brief Comparative Model of the Divinexa0Family"
-date = "July 19, 2019"
+title = "Sky-Earth-Thunder – A Brief Comparative Model of the Divine Family"
+date = "2019-07-19"
+upstream_url = "https://aryaakasha.com/2019/07/19/sky-earth-thunder-a-brief-comparative-model-of-the-divine-family/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/07/19/sky-earth-thunder-a-brief-comparative-model-of-the-divine-family/).
+
 ![Sky Father Earth Mother Striker Thunderer
 marked](https://aryaakasha.files.wordpress.com/2019/07/sky-father-earth-mother-striker-thunderer-marked.png?w=676)  
 “Instead of posting a multi-thousand word article, I thought I’d try

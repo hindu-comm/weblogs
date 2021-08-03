@@ -1,8 +1,11 @@
 +++
-title = "Pandemic days: Galtonism hitsxa0India"
+title = "Pandemic days: Galtonism hits India"
 date = "2021-04-26"
+upstream_url = "https://manasataramgini.wordpress.com/2021/04/26/pandemic-days-galtonism-hits-india/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2021/04/26/pandemic-days-galtonism-hits-india/).
+
 At some point last year, we stopped writing any further dispatches
 regarding the pandemic catastrophe from the ![\\omega \\upsilon o
 \\nu](https://s0.wp.com/latex.php?latex=%5Comega+%5Cupsilon+o+%5Cnu&bg=ffffff&fg=333333&s=0&c=20201002)

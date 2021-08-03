@@ -1,7 +1,13 @@
 +++
 title = "The kea – the foremost of the dinosaurs"
+date = "2007-06-05"
+upstream_url = "https://manasataramgini.wordpress.com/2007/06/05/the-kea-the-foremost-of-the-dinosaurs/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/06/05/the-kea-the-foremost-of-the-dinosaurs/).
+
+
+
 [![](https://i2.wp.com/bp3.blogger.com/_ZhvcTTaaD_4/RmTyiE5tW0I/AAAAAAAAAJs/8uAzXlH7Vo8/s320/kea.jpg)](http://bp3.blogger.com/_ZhvcTTaaD_4/RmTyiE5tW0I/AAAAAAAAAJs/8uAzXlH7Vo8/s1600-h/kea.jpg)
 
 Once I asked the yakShiNI bhujaMga-mekhalA which was the greatest of the
@@ -78,3 +84,8 @@ years ago but did make the transition the humans made. There are other
 contingency factors. \[As an aside- this is something Carl Sagan
 completely misses in his book titled Demon-haunted world or something
 like that\]”
+
+# An error occurred.
+
+Unable to execute JavaScript.
+

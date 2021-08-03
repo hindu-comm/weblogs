@@ -1,7 +1,11 @@
 +++
 title = "The anti-shaiva rants of the nAstika-s"
+date = "2008-05-25"
+upstream_url = "https://manasataramgini.wordpress.com/2008/05/25/the-anti-shaiva-rants-of-the-nastika-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/05/25/the-anti-shaiva-rants-of-the-nastika-s/).
+
 The below may offend Hindus; Hence viewer discretion is advised.
 
 Both the bauddha and jaina nAstika-s saw shaiva-s of all hues as major
@@ -84,7 +88,8 @@ uchChuShma-krodha and others as sexual partners for their kula rites.
 maheshvara at the head of asuras, nAgas, yakShas and rakShas takes
 control of 24 holy pITha-s of bhAratavarSha. As mahAdeva was in maithuna
 with his shakti kAlarAtri he asks his hordes to set up and worship 24
-li\~Nga-s. The primal buddha vajradhara assumes the form of heruka on
+li\~Nga-s. The primal buddhavajradhara assumes the form of heruka on
 meru and emanates 24 DAkinI-s and vIra-s with whom he subjugates the
 devatA-s and crushes the li\~Nga-s at the 24 pITha-s. In their place he
 introduces the practice of the bauddha-kaula doctrines.
+

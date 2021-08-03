@@ -1,7 +1,11 @@
 +++
 title = "The evolving brain"
+date = "2005-09-09"
+upstream_url = "https://manasataramgini.wordpress.com/2005/09/09/the-evolving-brain/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/09/09/the-evolving-brain/).
+
 R had called to enquire of the tragic situation. But mentioned that as a
 Hindu I could calm myself by pointing out that life could be worse.
 Imagine the fate of Revi I mentioned. Everything is bad for them but
@@ -10,10 +14,10 @@ decided to overcome the dismal thoughts by talking about more cheery
 topics. The recent developments regarding the determinants of human
 brain size. Two genes implicated in microcephaly have recently been
 shown to be major determinants of brain size. These are:  
-1\) Microcephalin1: A twin BRCT domain protein that is required for S
-and G2/M checkpoints. Its knockdown results in reduced expression of
-BRCA1, which also contains two BRCT domains.  
-2\) ASPM: An ancient protein seen in the plants, animals and some fungi,
+1) Microcephalin1: A twin BRCT domain protein that is required for S and
+G2/M checkpoints. Its knockdown results in reduced expression of BRCA1,
+which also contains two BRCT domains.  
+2) ASPM: An ancient protein seen in the plants, animals and some fungi,
 with two calponin homology domains followed by a long coiled-coil
 segment with the so called calmodulin binding IQ motifs. It is
 associated with the centrosome during interphase and with the spindle
@@ -55,7 +59,7 @@ associated with increased brain size and probably what we tend to call
 intelligence in some way. Subsequently MCPH1 and ASPM appear to have
 acquired further selectively advantageous alleles after the rest of the
 humans split away from the Africans. In the case of MCPH1 this allele
-emerged around 35,000 years (14000\>60000 yrs) and in ASPM this allele
+emerged around 35,000 years (14000>60000 yrs) and in ASPM this allele
 arose around 5000 years. These new alleles appear to have swept through
 whole or parts of the Eurasian population due a selective advantage
 conferred due an effect on brain function. There are likely to have been
@@ -63,7 +67,8 @@ cognitive adaptations that helped in surviving the Eurasiatic
 environments. These population differences in encephalization or brain
 function are not easily accepted by the American academia and its
 political correctness vanguard. A good example is the idiot called
-\<name withheld temporarily\> who made some asinine comments on these
+\<name withheld temporarily> who made some asinine comments on these
 recent studies. It is good to see that these studies are receiving the
 attention the deserve and the people can judge for themselves and see
 that people are born different.
+

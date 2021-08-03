@@ -1,7 +1,11 @@
 +++
 title = "saura miscellany"
+date = "2009-02-03"
+upstream_url = "https://manasataramgini.wordpress.com/2009/02/03/saura-miscellany/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/02/03/saura-miscellany/).
+
 [![sUrya](https://i1.wp.com/farm4.static.flickr.com/3261/3255320824_c82933675c_b.jpg)](http://www.flickr.com/photos/24766652@N05/3255320824/ "sUrya by somasushma, on Flickr")
 
 The famous poet, mayUra of harShavardhana’s court, whose shR^i\~NgAra
@@ -13,7 +17,7 @@ sUryashataka-1
 jaMbhArAtiibha-kumbhodbhavaM iva dadhataH sAndra-sindUra-reNuM  
 raktAH siktA ivaaughair udaya-giri-taTI-dhAtu-dhArAdravasya  
 AyAntyA tulyakAlaM kamala-vana-ruchevA .aruNA vo vibhUtyai  
-bhUyAsur bhAsayanto bhuvanam abhinavA bhAnavo bhAnavIyAH ||
+bhUyAsur bhAsayanto bhuvanam abhinavA bhAnavo bhAnavIyAH \|\|
 
 The imagery of the first simile with which the work opens puzzles me
 somewhat: I take the sindhUra reNu=scarlet dust i.e. an allusion to the
@@ -37,7 +41,7 @@ sUryashataka-26
 bibhrANaH shaktim Ashu prashamita-balavat-tArakaaurjityag-urvIM  
 kurvANo lIlayA .andhaH shikhinam api lasach-chandra-kAntAvabhAsaM  
 AdadhyAd andhakAre ratim atishayinIm Avahan vIkShaNAnAM  
-bAlo lakShmIm apArAM apara iva guho .aharpater Atapo vaH ||
+bAlo lakShmIm apArAM apara iva guho .aharpater Atapo vaH \|\|
 
 This is a famous example of what the Hindus of yore called the shleSha
 or paronomasia. The sentences are supposed to simultaneous refer to both
@@ -65,7 +69,8 @@ mata is presented here.
 
   
 
-[![saura\_prayoga1](https://i0.wp.com/farm4.static.flickr.com/3483/3249531830_5ff2d67da8.jpg)](http://www.flickr.com/photos/24766652@N05/3249531830/ "saura_prayoga1 by somasushma, on Flickr")
+[![saura_prayoga1](https://i0.wp.com/farm4.static.flickr.com/3483/3249531830_5ff2d67da8.jpg)](http://www.flickr.com/photos/24766652@N05/3249531830/ "saura_prayoga1 by somasushma, on Flickr")
 
 A picture from my parents’ recent performance of a tAntrika saura
 sAdhana.
+

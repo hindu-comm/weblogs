@@ -1,7 +1,13 @@
 +++
 title = "Human skull diversity"
+date = "2005-10-27"
+upstream_url = "https://manasataramgini.wordpress.com/2005/10/27/human-skull-diversity/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/10/27/human-skull-diversity/).
+
+
+
 [![Posted by
 Picasa](https://i1.wp.com/photos1.blogger.com/pbp.gif)](http://picasa.google.com/blogger/)
 
@@ -12,3 +18,4 @@ European Sudanese
 Geneticist Armand Leroi recently wrote an interesting article pointing
 how genetic determinants of cranial diversity in humans may be a very
 interesting topic for study.
+

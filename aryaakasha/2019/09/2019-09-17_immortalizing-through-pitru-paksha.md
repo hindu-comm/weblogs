@@ -1,8 +1,11 @@
 +++
-title = "Immortalizing, Through Pitruxa0Paksha"
-date = "September 17, 2019"
+title = "Immortalizing, Through Pitru Paksha"
+date = "2019-09-17"
+upstream_url = "https://aryaakasha.com/2019/09/17/immortalizing-through-pitru-paksha/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/09/17/immortalizing-through-pitru-paksha/).
+
 ![70820836_10162272674120574_4543250782627037184_n](https://aryaakasha.files.wordpress.com/2019/09/70820836_10162272674120574_4543250782627037184_n.jpg?w=676)
 
 “‘Some people say you achieve immortality through your children,’ said

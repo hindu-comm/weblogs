@@ -1,8 +1,11 @@
 +++
-title = "The Origin of the Indo-Europeans, Part I: Earlyxa0Theories"
-date = "October 29, 2016"
+title = "The Origin of the Indo-Europeans, Part I: Early Theories"
+date = "2016-10-29"
+upstream_url = "https://aryaakasha.com/2016/10/29/the-origin-of-the-indo-europeans-part-i-early-theories/"
 
 +++
+Source: [here](https://aryaakasha.com/2016/10/29/the-origin-of-the-indo-europeans-part-i-early-theories/).
+
 
 
 The scientific study of the Indo-European language family is generally

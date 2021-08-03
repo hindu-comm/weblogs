@@ -1,7 +1,11 @@
 +++
 title = "daNDaka kShUraka"
+date = "2005-11-09"
+upstream_url = "https://manasataramgini.wordpress.com/2005/11/09/dandaka-kshuraka/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/11/09/dandaka-kshuraka/).
+
 The daNDaka kShuraka attack was made. That led to further trouble in the
 troubled area. The oShadhi-vanaspati was ravaged- that brought the bank
 balance down to zero. The dagda ratha caused havoc. An year after the
@@ -24,3 +28,4 @@ emitted it through his nostrils. vAyu pulled out the nails of vala and
 threw them on clusters of lotuses. agni threw the blood of vala in the
 low lying marshes of the narmada. The sarpa recovering grabbed the
 intestines of the demon vala and deposited them in the chera country.
+

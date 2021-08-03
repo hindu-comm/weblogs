@@ -1,7 +1,11 @@
 +++
 title = "A Kambhoja (Khmer) pAshupata inscription from the reign of king bhava-varman"
+date = "2008-08-03"
+upstream_url = "https://manasataramgini.wordpress.com/2008/08/03/a-kambhoja-khmer-pashupata-inscription-from-the-reign-of-king-bhava-varman/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/08/03/a-kambhoja-khmer-pashupata-inscription-from-the-reign-of-king-bhava-varman/).
+
 A Sanskrit inscription from the Phnom Prah Vihar hillock in Cambodia,
 copied by the French researcher Coedes (IC. 3), provides a further
 illustration of the point discussed our earlier note on the link between
@@ -19,16 +23,16 @@ inscription is in the AryA Chandas and refers to a pAshupata AchArya
 vidyApuShpa. The extant of the surviving portion of the inscription is 9
 verses and is broken towards the end. I just provide a few excerpts.
 
-jayati indu ravi vyoma vAyvAtm\[a/A\]-kSmA jalaanalaiH |  
-tanoti tanubhish- shambhur-yoShTAbhir-akhila\~n-jagat || (1)  
+jayati indu ravi vyoma vAyvAtm\[a/A\]-kSmA jalaanalaiH \|  
+tanoti tanubhish- shambhur-yoShTAbhir-akhila\~n-jagat \|\| (1)  
 A praise of shambhu in his universal manifestation.
 
-rAjA shrI-bhava-varmeti bhavaty adhika-shAsanaH |  
-soma-vaMshayo.apy ari-dhvAnta pradhvaMsana divAkaraH || (3)  
+rAjA shrI-bhava-varmeti bhavaty adhika-shAsanaH \|  
+soma-vaMshayo.apy ari-dhvAnta pradhvaMsana divAkaraH \|\| (3)  
 A praise of the king bhava-varman of the lunar race.
 
-tasya pAshupatAchAryaH vidyApuShpAhvayaH kaviH |  
-shabda-vaisheShika-nyAya-tattvArtha-kR^ita-nishchayaH || (4)  
+tasya pAshupatAchAryaH vidyApuShpAhvayaH kaviH \|  
+shabda-vaisheShika-nyAya-tattvArtha-kR^ita-nishchayaH \|\| (4)  
 This verse describes the pAshupatAchArya vidyApuShpa who is mentioned as
 a scholar of shabda (=grammar) and vaisheShika and nyAya.
 
@@ -39,3 +43,4 @@ land, gold and attendants
 [![](https://i0.wp.com/farm4.static.flickr.com/3113/2729115138_f5cddb2a88_o.jpg)](http://farm4.static.flickr.com/3113/2729115138_f5cddb2a88_o.jpg)
 
 Possible ruins from vidyApuShpa’s shrine
+

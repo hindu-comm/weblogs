@@ -1,7 +1,11 @@
 +++
 title = "Are nAstika-s valid successors of the vedic tradition"
+date = "2007-02-23"
+upstream_url = "https://manasataramgini.wordpress.com/2007/02/23/are-nastika-s-valid-successors-of-the-vedic-tradition/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/02/23/are-nastika-s-valid-successors-of-the-vedic-tradition/).
+
 We had a discussion with ekanetra, the master of Asita-krIDa. ekanetra
 and me were long-standing students of laukIka itihAsa, and
 itihAsa-purANa and had spent endless hours talking to each other about
@@ -203,7 +207,7 @@ vaiShNavism and shaivism as successors of vedic. These dominate the
 epics to greater or lesser degrees and have precursors even in the late
 vedic period. Yet, these find no or little mention amongst the bauddhas.
 The typical white Indologists and their fellow travelers have
-persistently tried to claim that the late vedic corpus (upaniShad and
+persistently tried to claim that the late vedic corpus (upaniShadand
 mImAmsa sUtras) and itihAsa, and the early bauddha corpus overlapped.
 However, if we carefully view the evidence we find that as usual the
 conventional Indological ideas are flawed: The paurANic genealogies, the
@@ -225,7 +229,7 @@ grass-roots of Indian society and that the true rise of sectarianism at
 the grass-root level was a later phenomenon.
 
 In reality, like the bauddha-s, the sectarian streams too used the veda
-as a base. Early sectarian works like harivaMsha use vedic material, but
+as a base. Early sectarian works like harivaMshause vedic material, but
 for their own agenda. Thus, subversion was the model in both Astika and
 nAstika traditions. Herein, Indo-Aryan India paralled the earlier Aryan
 developments- namely subversion of the proto-Indo-Iranian religion (the
@@ -241,3 +245,4 @@ more than anything else was probably to set the bauddha-mata aside for
 ever as a nAstika tradition. This came as we know from siddhArtha’s own
 mouth as he forebade the brAhmaNas from composing his work into vedic
 hymns.
+

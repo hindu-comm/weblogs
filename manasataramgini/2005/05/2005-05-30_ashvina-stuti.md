@@ -1,7 +1,11 @@
 +++
 title = "ashvina stuti"
+date = "2005-05-30"
+upstream_url = "https://manasataramgini.wordpress.com/2005/05/30/ashvina-stuti/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/05/30/ashvina-stuti/).
+
 The adi parvan of the mahAbhArata provides a remarkable “fossilized”
 sUktaM to the ashvins. It comes in the 3rd chapter of the adi parvan
 known as the pauShya section (1.3.60 in the critical Poona edition of
@@ -190,7 +194,7 @@ vishvA .***
 ***te bhAnavo. apyanusR^itAsh charanti devA manuShyAH kShitimAcharanti
 .. 68..***
 
-Youths\! From the \[basic\] colors, you have produced all the various
+Youths! From the \[basic\] colors, you have produced all the various
 forms; it is from these objects that the entire universe is filled.
 Ordained by these rays of \[color\] the gods and men occupy their
 respective stations.
@@ -213,20 +217,21 @@ The embryo has been taken through the mouth, oh youths impel this one
 who has expired to obtain \[his station\]. The mother, eater of the
 embryo, has brought it out (5); Oh ashvins release me and bring to life.
 
-## Notes
+**Notes**
 
-(1) 360 cows are the days of the year giving birth to the calf, the sun.
-The allegory here is thus: At the end of 360 days, the year, the sun has
-declined or disappeared at the winter solstice. The sun is then born in
-the new year as the calf. In the same R^ik the pravargya gharma, which
-represent the sun is also mentioned.
+\(1\) 360 cows are the days of the year giving birth to the calf, the
+sun. The allegory here is thus: At the end of 360 days, the year, the
+sun has declined or disappeared at the winter solstice. The sun is then
+born in the new year as the calf. In the same R^ik the pravargya gharma,
+which represent the sun is also mentioned.
 
-(2) 720 days and nights of the year are allude to here.
+\(2\) 720 days and nights of the year are allude to here.
 
-(3) The twelve fold division of the year- the 12 vedic months, and the 6
-seasons are allude to here.
+\(3\) The twelve fold division of the year- the 12 vedic months, and the
+6 seasons are allude to here.
 
-(4) An allusion to the sun’s chariot.
+\(4\) An allusion to the sun’s chariot.
 
-(5) The metaphor suggests the embryo, implying the sun, is being eaten
+\(5\) The metaphor suggests the embryo, implying the sun, is being eaten
 and born again at the year beginning.
+

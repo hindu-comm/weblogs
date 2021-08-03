@@ -1,7 +1,11 @@
 +++
 title = "ShaShThI sUktaM"
+date = "2007-12-09"
+upstream_url = "https://manasataramgini.wordpress.com/2007/12/09/shashthi-suktam/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/12/09/shashthi-suktam/).
+
 bANa’s kAdambari mentions ShaShThI and skanda being painted on the walls
 of the birthing room of the heroine, and he also alludes to her in the
 harShacharita. This shows that the worship of ShaShThI was prevalent in
@@ -25,7 +29,7 @@ ancient. Attempts to trace it take one back to the late Vedic period,
 where she appears just like her mate skanda. Interestingly, the
 upAkhyAna of ShaShThI in the devI bhAgavataM mentions that her rite is
 connected with the [kauthuma school of the
-sAmaveda](http://manasataramgini.wordpress.com/2006/01/vrata-of-our-dear-goddess.html).
+sAmaveda](http://manollasa.blogspot.com/2006/01/vrata-of-our-dear-goddess.html).
 The meaning of this allusion becomes clear when one searches for the
 earliest surviving traces of ShaShThI worship.
 
@@ -34,8 +38,8 @@ yajurvedic tradition of the taittirIyaka-s. The AyuShya sUkta, which is
 deployed among other purposes, for the first year rite of a child has
 the formula:  
 shriyaM lakShmIM-aupalAMbikAM gAM ShaShThIM cha yAM indrasenetyudAhuH
-|  
-tAM vidyAM brahmayoniGM sarUpAm ihAyuShe tarpayAmo ghR^itena ||
+\|  
+tAM vidyAM brahmayoniGM sarUpAm ihAyuShe tarpayAmo ghR^itena \|\|
 
 With this formula shrI-lakShmI, ambikA associated with the aniconic
 stone and the heavenly cow (as in rudra’s wife; cf. the shUlagava
@@ -50,14 +54,14 @@ goddess.
 
 nR^isiMha pUrva tApanIya states:  
 sa IM pAhi ya R^ijIShI tarutraH sa shriyaM lakShmIM-aupalAMbikAM gAM
-ShaShThIM cha yAM indrasenetyudAhuH | tAM vidyAM brahmayoniM sarUpAm
-ihAyuShe sharaNamahaM prapadye ||
+ShaShThIM cha yAM indrasenetyudAhuH \| tAM vidyAM brahmayoniM sarUpAm
+ihAyuShe sharaNamahaM prapadye \|\|
 
 varada-pUrva-tApanI 2.2 (a tantric upaniShad of the gANapatya school
 describing the valagahan anuShTubh of gaNesha):  
 sa IM pAhi ya R^ijIShI tarutraH sa shriyaM lakShmIM-aupalAM aMbikAM gAM
-ShaShThIM cha yAM indrasenetyuta Ahus-tAM vidyAM brahmayoni-svarUpAm |
-tAMihAyuShe sharaNaM prapadye ||
+ShaShThIM cha yAM indrasenetyuta Ahus-tAM vidyAM brahmayoni-svarUpAM \|
+tAMihAyuShe sharaNaM prapadye \|\|
 
 The medieval upaniShadic commentator nArAyaNa explains that this formula
 equates the shakti of the primary deity of the tantric upaniShad with
@@ -75,40 +79,41 @@ by individual Ajya oblations.
 
 The ShaShThI sUktaM:
 
-dhanadA{\\m+} vasum IshAnAM kAmadA{\\m+} sarva-kAminAm |  
-puNyA{\\m+} yashasvinIM devI{\\m+} ShaShThI{\\m+} shakra juShasva me ||
+dhanadA{\\m+} vasum IshAnAM kAmadA{\\m+} sarva-kAminAm \|  
+puNyA{\\m+} yashasvinIM devI{\\m+} ShaShThI{\\m+} shakra juShasva me
+\|\|
 
-nandI bhUtishcha lakShmIshchAdityA cha yashasvinI |  
-sumanA vAk cha siddhishcha ShaShThI me dishatAM dhanam ||
+nandI bhUtishcha lakShmIshchAdityA cha yashasvinI \|  
+sumanA vAk cha siddhishcha ShaShThI me dishatAM dhanaM \|\|
 
-putrAn pashUn dhanaM dhANyaM bahvashvAja-gaveDakam |  
-manasA yat-praNItaM cha tanme dishatu havyabhuk ||
+putrAn pashUn dhanaM dhANyaM bahvashvAja-gaveDakaM \|  
+manasA yat-praNItaM cha tanme dishatu havyabhuk \|\|
 
 kAmadA{\\m+} rajanI{\\m+} vishvarUpA{\\m+} ShaShThIm upavartatu me
-dhanam |  
-sA me kAmA kAmapatnI ShaShThI me dishatAM dhanam ||
+dhanaM \|  
+sA me kAmA kAmapatnI ShaShThI me dishatAM dhanaM \|\|
 
 AkR^itiH prakR^itir-vachanI dhAvaniH padma-chAriNI manmanA bhava svAhA
-||
+\|\|
 
-gandha-dvArAM durAdarShAM nityapuShTAM karIShiNIm |  
-IshvarI{\\m+} sarva bhUtAnAM tAmihophavaye shrIyam ||
+gandha-dvArAM durAdarShAM nityapuShTAM karIShiNIM \|  
+IshvarI{\\m+} sarva bhUtAnAM tAmihophavaye shrIyaM \|\|
 
-nAnA-patrakA sA devI puShTish-chAti-sarasvatI |  
-ariM devIM prapadyem-upavartayatu me dhanam ||
+nAnA-patrakA sA devI puShTish-chAti-sarasvatI \|  
+ariM devIM prapadyem-upavartayatu me dhanaM \|\|
 
-hiraNyaprAkArA devi mA{\\m+} vara AgachChatvAyur-yashash-cha svAhA ||
+hiraNyaprAkArA devi mA{\\m+} vara AgachChatvAyur-yashash-cha svAhA \|\|
 
-ashva-pUrNA{\\m+} rathamadhyA{\\m+} hastinAda-pramodinIm |  
-shriyaM devIm upavahye shrIr mA devI juShatAm ||
+ashva-pUrNA{\\m+} rathamadhyA{\\m+} hastinAda-pramodinIM \|  
+shriyaM devIm upavahye shrIr mA devI juShatAM \|\|
 
-upayantu mAM deva-gaNAn-nAgAsh-cha tapasA saha |  
+upayantu mAM deva-gaNAn-nAgAsh-cha tapasA saha \|  
 prAdur-bhUto.asmi rAShTre.asmin shrIH shraddhAM \[kIrtIm vR^iddhiM\]
-dadhAtu me ||
+dadhAtu me \|\|
 
-shriyai svAhA| hriyai svAhA| lakShmyai svAhA| upalakShmyai svAhA|
-nandAyai svAhA| haridrAyai svAhA| ShaShThyai svAhA| samR^iddhyai svAhA|
-jayAyai svAhA| kAmAyai svAhA||
+shriyai svAhA\| hriyai svAhA\| lakShmyai svAhA\| upalakShmyai svAhA\|
+nandAyai svAhA\| haridrAyai svAhA\| ShaShThyai svAhA\| samR^iddhyai
+svAhA\| jayAyai svAhA\| kAmAyai svAhA\|\|
 
 mAnava gR^ihya sUtra 2.13
 
@@ -117,14 +122,14 @@ khila of the RV or the bodhAyana tradition of the taittirIyaka-s cannot
 be missed. This transfunctional association between ShaShThI and
 shrI-lakshmI is explicitly stated in the skandopAkhyAna of mArkaNDeya
 from the mahAbhArata:  
-evam skandasya mahiShIM devasenAM vidurbudhAH |  
-ShaShThIM yAM brAhmaNAH prAhur lakShmIm AshAM sukhapradAm |  
-sinIvAlIM kuhUM chaiva sadvR^ittim aparAjitAm || (Mbh 3.218.47 )
+evam skandasya mahiShIM devasenAM vidurbudhAH \|  
+ShaShThIM yAM brAhmaNAH prAhur lakShmIm AshAM sukhapradAm \|  
+sinIvAlIM kuhUM chaiva sadvR^ittim aparAjitAm \|\| (Mbh 3.218.47 )
 
 Here the queen of skanda devasenA or ShaShThI is explicitly identified
 with lakShmI, as well as as the other lunar goddesses such as [sinIvAlI
 and
-kuhU.](http://manasataramgini.wordpress.com/2006/10/ekanamsha-in-nastika-myth-making-and.html)
+kuhU.](http://manollasa.blogspot.com/2006/10/ekanamsha-in-nastika-myth-making-and.html)
 Thus, the link with lakShmI is not a mere innovation of the mAnava GS of
 the maitrAyaNIya-s but appear to be a well-established facet of the
 goddess ShaShThI in that period. Another point to note is the presence
@@ -136,3 +141,4 @@ upAkhyAna of ShaShThI is recording the presence of a rite similar to
 that of the maitrAyaNIya-s of the kR^iShNa yajur veda amongst the
 kauthuma-s. It would be of interest to see if any of the surviving
 gR^ihya parishiShTha of the kauthuma-s records such a tradition.
+

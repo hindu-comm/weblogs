@@ -1,22 +1,26 @@
 +++
 title = "Our lessons from the subversion of Russia"
+date = "2007-04-15"
+upstream_url = "https://manasataramgini.wordpress.com/2007/04/15/our-lessons-from-the-subversion-of-russia/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/04/15/our-lessons-from-the-subversion-of-russia/).
+
 Begins
 [here](https://manasataramgini.wordpress.com/2007/04/14/the-subversion-of-russia/)  
 This alliance of eka-svAmin-s is the very same one operating against the
 deva-yajvan-s of bhArata. To begin to “see” this one must also ask
 questions like:
 
-  - Where did the Sikh terrorists who massacred Hindus get shelter and
+-   Where did the Sikh terrorists who massacred Hindus get shelter and
     who gave them diplomatic support?
-  - What passport did the Moslem terrorist mastermind released during
+-   What passport did the Moslem terrorist mastermind released during
     the IC 814 hijacking carry?
-  - When the “big cracker of Pokhran” and “Gujarat” happened who were
+-   When the “big cracker of Pokhran” and “Gujarat” happened who were
     the responders inside the desh receiving orders from the eka-svamin
     masters of navyarkapura or gaja-laNDapura? Who were tarred during
     these events?
-  - Why do these responders within the desh bleed in their hearts for
+-   Why do these responders within the desh bleed in their hearts for
     ekasvamin-s but are mute as vacuum when Hindus are killed?
 
 Some of this was murky to us when we were in the desh but became clear
@@ -66,12 +70,12 @@ to dilate upon here. Thus, for the first time the Hindu system with all
 its checks and balances has been breached: -The first step in this
 subversion was socialism (used to discredit brAhmaNa-s especially and
 denude the Hindu religion; cf. Russian socialist revolution).  
-\-The parallel step was secularization of the army — thus as we
-discussed before the India army’s record is not the best (cf. the
-ideologically rudderless Russian army).  
-\-Stabs via Sikh and Moslem terrorists (cf. Moslem terrorist action on
+-The parallel step was secularization of the army — thus as we discussed
+before the India army’s record is not the best (cf. the ideologically
+rudderless Russian army).  
+-Stabs via Sikh and Moslem terrorists (cf. Moslem terrorist action on
 Russia).  
-\-Discredit national politicians and foster economic dependency, or
+-Discredit national politicians and foster economic dependency, or
 economic despair.
 
 The underlying theme in all this is the alignment of the eka-svamin
@@ -79,3 +83,4 @@ powers, despite their internal squabbles, on each of these issues. While
 one may counter now Rus itself is an eka-svamin country, there are fine
 points that are lost in this argument. Ultimately, no eka-svamin power
 will come to terms with an independent bahu-svamin power center.
+

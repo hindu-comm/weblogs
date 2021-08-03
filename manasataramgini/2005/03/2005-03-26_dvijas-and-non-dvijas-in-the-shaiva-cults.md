@@ -1,7 +1,11 @@
 +++
 title = "dvijas and non-dvijas in the shaiva cults"
+date = "2005-03-26"
+upstream_url = "https://manasataramgini.wordpress.com/2005/03/26/dvijas-and-non-dvijas-in-the-shaiva-cults/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/03/26/dvijas-and-non-dvijas-in-the-shaiva-cults/).
+
 As we argued earlier the kAlAmukhas were rather orthodox, even if
 electic, followers of the Astika path. Their intellectual prelidictions
 were rather clear, and they philosophical abilities are also strongly
@@ -31,13 +35,13 @@ shaiva sects are found in the purANas and the tantric paddhati of
 ishAnashiva.
 
 The vAmAna purANa (6.86-92) in particular states that the:  
-1\) shaiva sect as founded by a vasiShTha of the shakti lineage and his
+1) shaiva sect as founded by a vasiShTha of the shakti lineage and his
 brahmin disciple gopAyana.  
-2\) the pAshupatas were founded by a bharadvAja and his pupil the
+2) the pAshupatas were founded by a bharadvAja and his pupil the
 kShatriya somakeshvara.  
-3\) the kAlAmukhas were founded by an Apastamba and his brahmin pupil
+3) the kAlAmukhas were founded by an Apastamba and his brahmin pupil
 krAtheshvara.  
-4\) the kApAlikas (mahAvratins) were founded by the vaishya dhanada and
+4) the kApAlikas (mahAvratins) were founded by the vaishya dhanada and
 his shudra student arNodara.
 
 Thus, 3 well known shaiva lineages are clearly of Brahminical
@@ -84,3 +88,4 @@ kShatriyas. They actually followed the institutes of the veda and the
 dharma shAstras. Thus, we may conclude that within the shaivas the
 dominant force were Brahmins, though there was considerable diversity
 within them.
+

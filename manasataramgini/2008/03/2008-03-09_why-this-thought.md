@@ -1,7 +1,11 @@
 +++
 title = "Why this thought?"
+date = "2008-03-09"
+upstream_url = "https://manasataramgini.wordpress.com/2008/03/09/why-this-thought/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/03/09/why-this-thought/).
+
 For some reason suddenly a train of thought arose in our mind which as
 stirred by the crashing waves of the rasArNava. It was about something
 from the ancient past – from around the time vidruma and lambaka had
@@ -34,3 +38,4 @@ In my secret chamber refuge taking,
 ‘Neath the moon’s soft ray,  
 And her awful light around me breaking,  
 Musing there I lay.
+

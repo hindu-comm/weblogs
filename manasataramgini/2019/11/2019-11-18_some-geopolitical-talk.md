@@ -1,7 +1,11 @@
 +++
 title = "Some (geo)political talk"
+date = "2019-11-18"
+upstream_url = "https://manasataramgini.wordpress.com/2019/11/18/some-geopolitical-talk/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2019/11/18/some-geopolitical-talk/).
+
 A political bloviation follows: We must preface this by stating we do
 not have any affiliation to the party currently ruling India or the RSS
 and actually have no specific interest at all in electoral politics in
@@ -38,42 +42,42 @@ regarding the geopolitical track record of the Indian state following
 the departure of the English and its vivisection by the old enemies of
 the H, the Mohammedans. He points out that the Indian geopolitical track
 record has been mixed. On the positive side we have:  
-1\) As the first major nation that freed itself from the vice-like grasp
+1) As the first major nation that freed itself from the vice-like grasp
 of Euro-Christian tyranny the Indian struggle inspired and set in motion
 that transition in other parts of the world, however imperfect the
 results might have been.  
-2\) The residual India managed to largely retain its integrity even
+2) The residual India managed to largely retain its integrity even
 though the hostile Occident and the Mohammedans would have liked to chew
 away more of it.  
-3\) India managed to inflict a crushing defeat on TSP, the inheritor of
+3) India managed to inflict a crushing defeat on TSP, the inheritor of
 the Mogol power in India, 1972 CE under the civilian leadership of
 Indira Gandhi and break it up into two separate Islamic states.  
-4\) Developing an enduring relationship with a major power as fickle as
+4) Developing an enduring relationship with a major power as fickle as
 the Russians.  
-5\) The nuclear weapons tests in the 1990s and braving the subsequent
+5) The nuclear weapons tests in the 1990s and braving the subsequent
 response from the hostile Occident.  
-6\) The fending off TSP’s ghazwat in Kargil.  
-7\) The successful conclusion of the Doklam standoff with the predatory
+6) The fending off TSP’s ghazwat in Kargil.  
+7) The successful conclusion of the Doklam standoff with the predatory
 Cīna-s.
 
 One the negative side we have the following:  
-1\) The inability to read the cīna-s and allowing the destruction of the
+1) The inability to read the cīna-s and allowing the destruction of the
 Tibetan nation by the rapacious Han.  
-2\) The humiliating defeat at the hands of the Han in 1962 CE.  
-3\) The inability to properly read TSP and handle the Rann of Kutch
+2) The humiliating defeat at the hands of the Han in 1962 CE.  
+3) The inability to properly read TSP and handle the Rann of Kutch
 fiasco without Leukospheric interference. This was followed by the
 rather inept handling of the war of 1965 CE with India gaining a clear
 upper hand against the TSP jihadis only in the later stages.  
-4\) The failure to develop nuclear weapons effectively following the
+4) The failure to develop nuclear weapons effectively following the
 Smiling Buddha due to the flawed policies of the svamūtrapeyin.  
-5\) The failure to implement economic reform: it was one of the factors
+5) The failure to implement economic reform: it was one of the factors
 causing India to lag behind the Cīna-s in a serious way. Here India
 looked bad even with respect of the smaller Asian tigers.  
-6\) Serious failures in indigenous technology development and
+6) Serious failures in indigenous technology development and
 industrialization relative to the competitors. The failure in this
 sector went hand in hand with the poor negotiation of trade agreements
 with other nations, with subsequent losses to industrial development.  
-7\) The general lack of clarity and realism on geopolitical issues and a
+7) The general lack of clarity and realism on geopolitical issues and a
 generally reactive and “lettings sort themselves” kind of attitude.
 
 Most importantly, Jaishankar pointed out that whereas India might look
@@ -213,3 +217,4 @@ opinion all those local issues can be eventually won but the battle for
 preventing death from civilizational immunodeficiency is the primary
 one. If the immunity of an AIDS patient is restored he can fight all
 those little diseases which would kill him without his immunity.
+

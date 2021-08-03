@@ -1,7 +1,11 @@
 +++
 title = "A geopolitical segment"
+date = "2014-07-04"
+upstream_url = "https://manasataramgini.wordpress.com/2014/07/04/a-geopolitical-segment/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/07/04/a-geopolitical-segment/).
+
 Nothing has really changed in the world as long as the
 mlechCha-marUnmattAbhisaMdhi continues as usual. Yet, a large fraction
 of the Hindus we have observed have a weak apprehension of this outside
@@ -173,7 +177,7 @@ Caliphate or an Emirate destroys pagan structures. When the buddha-s
 were destroyed at varNAyana the mlechCha-s who were entirely capable of
 stopping it merely mumbled some protests but let the Emirate of mullah
 Omar destroy it. Instead the propagate stuff like varNAyana was center
-of “Greek, Turkish, Persian, Chinese and Indian influence (\!)”. Now
+of “Greek, Turkish, Persian, Chinese and Indian influence (!)”. Now
 likewise they have stepped backed to mumble or deny even as the
 Caliphate destroys the ancient heathen Assyrian images from the time of
 Jahiliyyah. This is not surprising given the fact that the mlechCha-s
@@ -221,3 +225,4 @@ might be like rAjArAm at Jinji, we can only hope that the Hindu leaders
 do not lose sight of the ultimate geopolitical goal of completely
 demolishing the Abrahamistic stranglehold on the entire Indian sphere of
 influence.
+

@@ -1,7 +1,11 @@
 +++
 title = "Intellectual cretinism of Hindus"
+date = "2007-04-01"
+upstream_url = "https://manasataramgini.wordpress.com/2007/04/01/intellectual-cretinism-of-hindus/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/04/01/intellectual-cretinism-of-hindus/).
+
 Intellectual cretinism is a prevalent trend amongst the Hindu elite. The
 sincere Hindus at the saMskR^ita sabha were showing me a video made by
 Western gauDIya vaiShNava-s that they were hoping to use to educate the
@@ -24,7 +28,7 @@ reacquiring their traditions -vedic, tantric and secular. And in fact in
 the mean time the successors of the old Indologists have developed into
 more subtle subversionists (Note Sheldon Pollock’ work) unbeknownst to
 the Hindu elite.  
-2\) For all the talk the Hindu elite, especially the first two varNas,
+2) For all the talk the Hindu elite, especially the first two varNas,
 has not shown any discipline to study the veda, or the smR^itis or the
 tantras. In fact most who wax eloquent on such matters have little
 knowledge of the veda in its original. If the first two varNas are so
@@ -33,13 +37,13 @@ remaining Hindus? After all the one thing ancient Hindus did well was to
 teach their lore. Have the modern Hindu elite collected these texts and
 edited them? Have they studied the intricacies of vedic language before
 saying “everything is in the veda”.  
-3\) advaita, advaita advaita– they prattle as though Hindus had no other
+3) advaita, advaita advaita– they prattle as though Hindus had no other
 intellectual tradition — they even name their sons “advaita”. They do
 not realize that you study the pUrva-pakSha-s too like the great mAdhava
 vidyAraNya had done in his famous work. As result they fail to see the
 totality of Hindu thought and fail to appreciate the intellectual stars
 like the atharvavedin bhaTTa jayanta.  
-4\) Most fatally they have an alarming tendency to reject Indo-European
+4) Most fatally they have an alarming tendency to reject Indo-European
 linguistics. “There is no PIE”, “IE linguistics is an Indological
 subversionist tactic” they blather. It is this last point that exposes
 this section of the Hindu elite as utter intellectual cretins. It must
@@ -69,3 +73,4 @@ circulation. But I do seem to get a feeling like him that the Hindu
 elite simply did not do enough to support or widely spread the results
 of their own scholars. The secular government might not have supported
 us, but our elite should come forth and support scholarship privately.
+

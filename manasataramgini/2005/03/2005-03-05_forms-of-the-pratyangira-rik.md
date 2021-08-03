@@ -1,7 +1,11 @@
 +++
 title = "Forms of the pratya~NgirA R^ik"
+date = "2005-03-05"
+upstream_url = "https://manasataramgini.wordpress.com/2005/03/05/forms-of-the-pratyangira-rik/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/03/05/forms-of-the-pratyangira-rik/).
+
 yAm kalpayanti no arayaH krUrAm kR^ityAm vadhUm iva /  
 tAm brahmaNA pari nijmaH pratyak kartAram R^icchatu //  
   
@@ -17,7 +21,7 @@ used in the kR^ityA destroying atharvanic rites and the tantric
 pratya\~NgirA paddhatis.
 
 yAM kalpayanti no .arayaH krurAM kR^ityAM vadhumiva /  
-brahmaNA .apaNirNudmaH pratyak kartAramR^ichChatu // 
+brahmaNA .apaNirNudmaH pratyak kartAramR^ichChatu //
 
 This version is from the largely lost jalada saMhitA of the atharvaveda
 and is deployed only in certain tantric paddhatis of praty\~NgirA.
@@ -43,3 +47,4 @@ bhavAsharvA vasyatAM pApakR^itnave kR^ityAkRi^te / duShkR^ite vidyutaM
 devahetiM //
 
 The oblations: bhavAsharvAbhyAM svAhA /namo rudrAya pashupatye svAhA
+

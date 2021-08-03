@@ -1,7 +1,11 @@
 +++
 title = "rudrAkSha-s from the shuddha-bhuvanAdhvan-s or Platonic viruses"
+date = "2013-04-22"
+upstream_url = "https://manasataramgini.wordpress.com/2013/04/22/rudraksha-s-from-the-shuddha-bhuvanadhvan-s-or-platonic-viruses/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/04/22/rudraksha-s-from-the-shuddha-bhuvanadhvan-s-or-platonic-viruses/).
+
 Based on the Icosahedron mated with the Mandelbulb of power 8
 
 [![](https://lh4.googleusercontent.com/-AFGzJKb2aKo/UXQ5DfzemtI/AAAAAAAACp0/r1w74ftdt_o/s800/mandel_bulb1_small.jpg)](https://picasaweb.google.com/lh/photo/OBQjKfKAIYbGGl9gkexcldMTjNZETYmyPJy0liipFm0?feat=embedwebsite)

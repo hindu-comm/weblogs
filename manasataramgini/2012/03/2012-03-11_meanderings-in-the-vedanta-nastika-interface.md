@@ -1,7 +1,11 @@
 +++
 title = "Meanderings in the vedAnta-nAstika interface"
+date = "2012-03-11"
+upstream_url = "https://manasataramgini.wordpress.com/2012/03/11/meanderings-in-the-vedanta-nastika-interface/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/03/11/meanderings-in-the-vedanta-nastika-interface/).
+
 One of the central figures of classical advaita vedAnta is the AchArya
 gauDapAda. Hagiographic tradition holds that gauDacharaNa was the
 paramaguru of the great advaitAchArya shaMkara bhagavatpAda (and guru of
@@ -10,9 +14,9 @@ praise of the guru-s in poetic verse in his commentary on the mANDukya
 kArika-s (second last verse from bhAShya on 4.100):
 
 praj\~nA vaishAkha vedha kShubhita jala nidher vedanAmno .antarasthaM
-bhUtAnyAlokya magnAnya virata janana grAha ghore samudre |  
+bhUtAnyAlokya magnAnya virata janana grAha ghore samudre \|  
 kAruNyAd uddadhArAmR^itam idam amarair durlabhaM bhUta hetor yastaM
-pUjyAbhi pUjyaM paramagurum amuM pAda pAtair nato.asmi ||
+pUjyAbhi pUjyaM paramagurum amuM pAda pAtair nato.asmi \|\|
 
 Falling at his feet, I salute the most worship-worthy of worship-worthy,
 the paramaguru, who for the good of beings, out his kindness has
@@ -20,7 +24,7 @@ extracted this nectar \[the mANDukya kArika-s\], difficult to obtain
 even for the immortals, from the midst of the ocean known as the veda,
 churned by the insertion of the churning rod in the form of his
 intellect, seeing the beings sinking in the dreadful ocean of the
-enmeshment of the \[cycle of\] death and rebirth.
+enmeshment of the \[cycle of\]death and rebirth.
 
 Tradition declares gauDapAda as being a student of the shUka, the son of
 vyAsa. This anachronistic legend obscures the advaita tradition before
@@ -55,9 +59,9 @@ the view point of the texts themselves one thing is clear. The
 brahmasUtra-s had already been composed at the time of the bhagavad-gItA
 because they are clearly mentioned in the latter text:
 
-R^iShibhir bahudhA gItAM Chandobhir vividhaiH pR^ithak |  
-brahmasUtra-padaish chaiva hetumadbhir vinishchitaiH || (Mbh-”critical”
-06.35.4)
+R^iShibhir bahudhA gItAM Chandobhir vividhaiH pR^ithak \|  
+brahmasUtra-padaish chaiva hetumadbhir vinishchitaiH \|\|
+(Mbh-”critical” 06.35.4)
 
 In manifold ways it has been recited by the R^iShi-s in various
 different ways in the meters of the veda; in the sentences of the
@@ -75,9 +79,9 @@ i.e. after the mantra and brAhmaNa portions of different veda-s had been
 canonized as the shruti. Hence, there is not much doubt that these texts
 are far more ancient than the period of the classical vedAnta authors.
 Summarizing this information, we can place the relative order as being:
-the brAhmaNa-s (with upaniShad-s)-\> the shrauta sUtra-s-\> the mImAmsa
-and brahma sUtra-s-\> the bhagavadgItA-\> the later classical vedAnta
-authors (bhartR^ihari-\> gauDapAda-\> shaMkara). Thus, we can say with
+the brAhmaNa-s (with upaniShad-s)-> the shrauta sUtra-s-> the mImAmsa
+and brahma sUtra-s-> the bhagavadgItA-> the later classical vedAnta
+authors (bhartR^ihari-> gauDapAda-> shaMkara). Thus, we can say with
 confidence that the brahmasUtra-s indeed mark the beginning of
 \*classical\* vedAnta (distinguished from the upaniShad-s and associated
 brAhmaNa portions of the shruti because they are precursors of all the
@@ -131,7 +135,7 @@ debated in their midst. This view of the vaidika brAhmaNa-s, with the
 characteristic term brahma-sahavyatA in the bauddha canon reproduces the
 concept encountered in the upaniShad-s and formalized in the
 brahma-sUtra-s such as: “brahmaNaH sAyujyaM” or “asminn asya cha
-tadyogaM shAsti | BS 1.1.19”
+tadyogaM shAsti \| BS 1.1.19”
 
 Further the two brAhmaNa-s are shown to question each other thus:  
 “brAhmaNA nAnAmagge pa\~n\~nApenti addhariyA brAhmaNA, tittiriyA
@@ -160,8 +164,8 @@ he questions the brAhmaNa of the vasiShTha clan as to whether the
 ancient R^iShi-s had really attained unity with brahman:
 
 kiM pana vAseTTha ye.api tevijjAnaM brAhmaNAnaM pubbakA isayo mantAnaM
-kattAro mantAnaM pavattAro yesam idaM etarahi tevijjA brAhmaNA porANaM
-mantapadaM gItaM pavuttaM samUhitaM tad anugAyanti tad anubhAsanti
+kattAromantAnaM pavattAro yesam idaM etarahi tevijjA brAhmaNA porANaM
+mantapadaM gItaMpavuttaM samUhitaM tad anugAyanti tad anubhAsanti
 bhAsitam anubhAsanti vAchitam anuvAchenti, seyyathIdaM: aTTako vAmako
 vAmadevo vessAmitto yamataggi a\~Ngiraso bhAradvAjo vAseTTho kassapo
 bhagu, te.api evam AhaMsu: mayam etaM jAnAma mayam etaM passAma yattha
@@ -185,7 +189,7 @@ revere this shruti corpus which is already regarded as ancient.
 
 Here we may also note case of the alagaddUpama sutta, where the
 tathAgata explicitly alludes to the teaching of the brAhmaNa-s of the
-form: etam mama | eso.aham asmi |eso me attA || ‘This is mine; I am
+form: etam mama \| eso.aham asmi \|eso me attA \|\| ‘This is mine; I am
 this; this is my Atman” and condemns it as a fallacy (This resembles a
 segment of the sAMkhyA kArikA 64 in an inverted form) and appears to
 have have been an old explanation by brAhmaNa-s of the aupaniShada
@@ -219,7 +223,7 @@ kathAsaritsAgara regarding AchArya upavarsha being close to the nanda
 epoch, then we have an early commentator on the brahmasUtra-s pretty
 close to the epoch of the tathAgata. This is not inconsistent with the
 brahma-sUtra-s themselves predating the tathAgata. So we have:
-brAhmaNa/upaniShad-s-\> mImAmsa+brahma sUtra-s-\> tathAgata’s pAli
+brAhmaNa/upaniShad-s-> mImAmsa+brahma sUtra-s-> tathAgata’s pAli
 sermons.
 
 So what is the relationship of the bhagavadgItA with respect to the
@@ -253,7 +257,7 @@ The twelfth class of heretics, the followers of mAThara (a nAstika term
 for the epic author) say that the adherents of nArAyaNa teach as
 follows. “*I create all things. I am the supreme one dwelling in all
 creatures. I create all things of the world, the living and the
-lifeless. Of all mountains I am the great Sumeru, the king of mountains.
+lifeless. Of allmountains I am the great Sumeru, the king of mountains.
 Of all waters I am the great ocean. Of all medicines I am the grain. Of
 all muni-s I am the muni kapila. If a man offers to me with devotion
 water, leaves, flowers or fruit, then I dwell in him and he dwells in
@@ -275,8 +279,8 @@ clear relationship to the nArAyaNIya section of same school that was
 also inserted into the mahAbhArata.
 
 For example we have:  
-bahUnAM janmanAm ante j\~nAnavAn mAM prapadyate |  
-vAsudevaH sarvam iti sa mahAtmA sudurlabhaH || BhG 7.19  
+bahUnAM janmanAm ante j\~nAnavAn mAM prapadyate \|  
+vAsudevaH sarvam iti sa mahAtmA sudurlabhaH \|\| BhG 7.19  
 At the end of many births the wise one attains me, \[the realization
 that\] all \[existence\] is vAsudeva; he is a great one, difficult to
 find.
@@ -287,19 +291,19 @@ the supreme entity and ultimate basis of reality in the bhAgavata
 tradition.
 
 Then the gItA clarifies:  
-kAmais taistair hR^itaj\~nAnAH prapadyante .anya devatAH |  
-taM taM niyamam AsthAya prakR^ityA niyatAH svayA || BhG 7.20  
+kAmais taistair hR^itaj\~nAnAH prapadyante .anya devatAH \|  
+taM taM niyamam AsthAya prakR^ityA niyatAH svayA \|\| BhG 7.20  
 Those deprived of wisdom, due to one or another desire, go to other
 deities, following one or the other ritual injunctions, led by their own
 nature.
 
-ye. apy anya devatA bhaktA yajante shraddhayAnvitAH |  
-te .api mAmeva kaunteya yajanty avidhipUrvakam ||BhG 9.23  
+ye. apy anya devatA bhaktA yajante shraddhayAnvitAH \|  
+te .api mAmeva kaunteya yajanty avidhipUrvakaM \|\|BhG 9.23  
 Even the worshipers, who with conviction worship other deities, worship
 only me, O son of kunti, but with the incorrect procedures.
 
-sarva dharmAn parityajya mAm ekaM sharaNaM vraja |   
-ahaM tvA sarva pApebhyo mokShayiShyAmi mA shuchaH || BhG 18.66  
+sarva dharmAn parityajya mAm ekaM sharaNaM vraja \|  
+ahaM tvA sarva pApebhyo mokShayiShyAmi mA shuchaH \|\| BhG 18.66  
 Forsaking all other dharma-s, come under my refuge alone; I will
 liberate you from all sins; have no sorrow.
 
@@ -367,19 +371,19 @@ reverse order.
 We shall now consider some of these similarities.  
 *The charioteer motif:* It is interesting to note the charioteer motif
 in both the gItA and the bauddha teachings. Of course the motif of the
-charioteer is central the very plot of the gItA, where kR^iShNa, the
-incarnate vAsudeva provides counsel to indra’s son. In the the bauddha
+charioteer is central the very plot of the gItA, wherekR^iShNa, the
+incarnate vAsudeva providescounsel to indra’s son. In the the bauddha
 world the buddha appears to use the conversation between indra and
 mAtali the charioteer of indra in several sermons to introduce the
 bauddha dharma and to subtly demote the great indra of the veda-s. For
 example, in the gahaTThAvandana sutta, the tathAgata has indra himself
 worship someone else. He does this by subtly altering an old praise of
 indra. He begins in vulgar pAli:  
-mAtali sa\~NgAhako sakkaM devAnamindaM gAthAya ajjhabhAsi |  
+mAtali sa\~NgAhako sakkaM devAnamindaM gAthAya ajjhabhAsi \|  
 mAtali the charioteer addressed shakra the indra of the gods with with
 this verse.  
 taM namassanti tevijjA sabbe bhUmmA cha khattiyA, chattAro cha mahArAjA
-tidasA cha yasassino |  
+tidasA cha yasassino \|  
 All these worship you, the knowers of the trayi-vidyA, the kShatriya
 reigning on earth, the four great kings and the glorious Thirty.
 
@@ -448,23 +452,23 @@ The principle of sharaNAgati:
 As seen in the above verse and also illustrated in the below examples
 vAsudeva repeatedly states in the gItA that the ultimate soteriological
 pathway is that of seeking refuge in him.  
-tameva sharaNaM gachCha sarvabhAvena bhArata |  
-tat prasAdAt parAM shAntiM sthAnaM prApsyasi shAshvatam || BhG 18.62  
+tameva sharaNaM gachCha sarvabhAvena bhArata \|  
+tat prasAdAt parAM shAntiM sthAnaM prApsyasi shAshvatam \|\| BhG 18.62  
 Go unto him \[vAsudeva\] for refuge with your complete apprehension, O
 bhArata; by his favor you shall obtain the supreme peace and the eternal
 state (i.e. nirvANa).
 
 We may also note an interesting phrase in statement:  
-dUreNa hya varaM karma buddhiyogAd dhana\~njaya |  
-buddhau sharaNam anvichCha kR^ipaNAH phalahetavaH || BhG 2.49  
+dUreNa hya varaM karma buddhiyogAd dhana\~njaya \|  
+buddhau sharaNam anvichCha kR^ipaNAH phalahetavaH \|\| BhG 2.49  
 Here vAsudeva explains that the buddhiyoga is far superior to the karma
 performed by the wretched with the attachment to fruits as their sole
 motive. Hence, he asks one to take refuge in the state of the
 enlightened mind (buddhau sharaNam anvichCha).
 
 Further he explains that:  
-buddhi-yukto jahAtIha ubhe sukR^ita duShkR^ite |  
-tasmAd yogAya yujyasva yogaH karmasu kaushalam || BhG 2.50  
+buddhi-yukto jahAtIha ubhe sukR^ita duShkR^ite \|  
+tasmAd yogAya yujyasva yogaH karmasu kaushalam \|\| BhG 2.50  
 United with the enlightened mind, one right away casts off \[karmic
 account of\] both good and bad deeds; therefore, unite yourself with
 yogic practice; it the skillful means of action.
@@ -476,8 +480,8 @@ good nor bad deeds. The key points to note are that the refuge in
 vAsudeva, the skillful means to attain enlightenment, which provides the
 aspirant the ultimate refuge are closely paralleled in bauddha thought.
 This is in part encapsulated in the famous tisaraNa of their mata:  
-buddhaM saraNaM gachChAmi | dhammaM saraNaM gachChAmi | sa\~NghaM
-saraNaM gachChAmi ||  
+buddhaM saraNaM gachChAmi \| dhammaM saraNaM gachChAmi \| sa\~NghaM
+saraNaM gachChAmi \|\|  
 The superficially dual nature of the refuge is preserved in both the
 systems: the bhAgavata-s take refuge in both vAsudeva (in a sense
 extrinsically) and within themselves by buddhiyoga. Likewise the
@@ -491,15 +495,15 @@ upAya-kaushalya.
 *The nirvANa concept:*  
 In the BhG vAsudeva explains the attainment of nirvANa on practicing
 yoga thus:  
-yu\~njannevaM sadAtmAnaM yogI niyata mAnasaH |  
-shAntiM nirvANa paramAM matsaMsthAm adhigachChati || BhG 6.15  
+yu\~njannevaM sadAtmAnaM yogI niyata mAnasaH \|  
+shAntiM nirvANa paramAM matsaMsthAm adhigachChati \|\| BhG 6.15  
 Thus, always his mind united \[in yoga\], the yogin, with the mind
 controlled, attain peace, the ultimate liberation \[nirvANa\], entering
 into me.
 
 Likewise, he also explains:  
-yo .antaH sukho .antar ArAmas tathAntar jyotir eva yaH |  
-sa yogI brahma nirvANaM brahma bhUto.adhigachChati ||BhG 5.24  
+yo .antaH sukho .antar ArAmas tathAntar jyotir eva yaH \|  
+sa yogI brahma nirvANaM brahma bhUto.adhigachChati \|\|BhG 5.24  
 He who is happy within, who rests within, and he who is illumined
 within, such a yogin attains the dissolution into brahman \[nirvANa\],
 himself becoming the brahman.
@@ -513,7 +517,7 @@ samyutta nikAya states:
 
 ayaM kho sA bhikkhave, majjhimA paTipadA tathAgatena abhisambuddhA
 chakkhu-karaNI \~nANa-karaNI upasamAya abhi\~n\~nAya sambodhAya
-nibbAnAya saMvattati |  
+nibbAnAya saMvattati \|  
 This, bikShu-s, is that middle way awakened to by the tathAgata, which
 gives rise to enlightened vision (compare with j\~nAna-chakShuShA in BhG
 13.35), which gives rise to higher knowledge, which leads to peace,
@@ -527,12 +531,12 @@ the description of his alternative, which is implied to be state of
 nirvANa is not very different (of course prior to this he caricatures
 the brahman of the Astika-s). In the vulgar pAli:
 
-vi\~n\~nANaM anidassanaM anantaM sabbato paham |  
-ettha Apo cha paThavI tejo vAyo na gAdhati |  
-ettha dIgha\~n cha rassa\~n cha aNuM thUlaM subhAsubham |  
-ettha nAma\~n cha rUpa\~n cha asesaM uparujjhati |  
-vi\~n\~nANassa nirodhena etthetaM uparujjhatIti ||  
-idamavocha bhagavA ||
+vi\~n\~nANaM anidassanaM anantaM sabbato pahaM \|  
+ettha Apo cha paThavI tejo vAyo na gAdhati \|  
+ettha dIgha\~n cha rassa\~n cha aNuM thUlaM subhAsubhaM \|  
+ettha nAma\~n cha rUpa\~n cha asesaM uparujjhati \|  
+vi\~n\~nANassa nirodhena etthetaM uparujjhatIti \|\|  
+idamavocha bhagavA \|\|
 
 Consciousness without subject-object distinction, endless, luminous all
 around;  
@@ -561,14 +565,14 @@ community of Astika ascetics in which they were embedded.
 
 *The non-sacrifice of animals:*  
 The bhagavadgItA states:  
-yAnti deva-vratA devAn pitR^In yAnti pitR^i-vratAH |  
-bhUtAni yAnti bhUtejyA yAnti madyAjino.api mAm ||  
+yAnti deva-vratA devAn pitR^In yAnti pitR^i-vratAH \|  
+bhUtAni yAnti bhUtejyA yAnti madyAjino.api mAm \|\|  
 The worshipers of the deva-s go to deva-s; those of ancestors go to the
 ancestors; the worshipers of bhUta-s go the bhUta-s; my worshipers come
 to me.
 
-patraM puShpaM phalaM toyaM yo me bhaktyA prayachChati |  
-tadahaM bhakty upahR^itam ashnAmi prayatAtmanaH || BhG 9.25-26  
+patraM puShpaM phalaM toyaM yo me bhaktyA prayachChati \|  
+tadahaM bhakty upahR^itam ashnAmi prayatAtmanaH \|\| BhG 9.25-26  
 Whoever offers me with devotion and with the right sentiment, a leaf, a
 flower, a fruit or water I accept that.
 
@@ -694,7 +698,7 @@ make the buddha a Hindu and thereby minimize his importance by subsuming
 the bauddhamata in the overall dharma. As a evidence for this claim he
 cites a personal communication of a South Asianist operative in Nepal.
 When it comes to Hindus suddenly the standards for evidence do not
-matter \!
+matter !
 
 Footnote 3: This is reflected to this date in the fact that the bauddha
 and bhAgavata parampara-s successors remain the main “missionary” groups
@@ -710,3 +714,4 @@ might consider the mantrashAstra of the [ma\~njushriya
 mUlakalpa](https://manasataramgini.wordpress.com/2010/01/17/brahmana-s-and-nastika-s/)
 where the Astika mantra-s are also claimed as being revealed by the
 tathAgata.
+

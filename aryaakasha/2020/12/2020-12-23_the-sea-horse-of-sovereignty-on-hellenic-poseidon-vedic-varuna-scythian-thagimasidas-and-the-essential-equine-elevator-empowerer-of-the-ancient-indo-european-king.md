@@ -1,8 +1,11 @@
 +++
-title = "The Sea Horse Of Sovereignty – On Hellenic Poseidon , Vedic Varuna, Scythian Thagimasidas , And The Essential Equine Elevator-Empowerer Of The Ancient Indo-Europeanxa0King"
-date = "December 23, 2020"
+title = "The Sea Horse Of Sovereignty – On Hellenic Poseidon , Vedic Varuna, Scythian Thagimasidas , And The Essential Equine Elevator-Empowerer Of The Ancient Indo-European King"
+date = "2020-12-23"
+upstream_url = "https://aryaakasha.com/2020/12/23/the-sea-horse-of-sovereignty-on-hellenic-poseidon-vedic-varuna-scythian-thagimasidas-and-the-essential-equine-elevator-empowerer-of-the-ancient-indo-european-king/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/12/23/the-sea-horse-of-sovereignty-on-hellenic-poseidon-vedic-varuna-scythian-thagimasidas-and-the-essential-equine-elevator-empowerer-of-the-ancient-indo-european-king/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/12/d2h5jto-fb522aac-40d9-4f5b-8ada-989e5bf52d14.jpg?w=1024)
 
   

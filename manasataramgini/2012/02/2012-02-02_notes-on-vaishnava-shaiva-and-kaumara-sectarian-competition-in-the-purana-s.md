@@ -1,7 +1,11 @@
 +++
 title = "Notes on vaiShNava-shaiva sectarian competition in the purANa-s"
+date = "2012-02-02"
+upstream_url = "https://manasataramgini.wordpress.com/2012/02/02/notes-on-vaishnava-shaiva-and-kaumara-sectarian-competition-in-the-purana-s/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/02/02/notes-on-vaishnava-shaiva-and-kaumara-sectarian-competition-in-the-purana-s/).
+
 The appropriation and/or downgrading of each others ancient narratives
 is a common practice seen among shaiva-s, vaiShNava-s shAkta-s,
 gANapatya-s and to a lesser extent the kaumAra-s. Many years ago when we
@@ -179,7 +183,7 @@ daitya-s. This is followed by the andhaka narrative in which he is
 struck by rudra’s weapons and thousands of new andhaka-s emerge from
 this blood. These andhaka-s threaten to overwhelm rudra, who rushes to
 seek viShNu’s aid. Then viShNu generated a hundred glorious mAtR^ikA-s
-(so .asR^ijad bhagavAn viShNur devInAM shatam uttamam |). These
+(so .asR^ijad bhagavAn viShNur devInAM shatam uttamam \|). These
 goddesses born of the might of viShNu dispatched the thousands of
 andhaka’s to the abode of death. This is followed by the remaining
 andhaka episode; finally rudra, directed by viShNu, impaled andhaka with
@@ -274,30 +278,30 @@ Finally, to understand the origin of the leonine manifestation of viShNu
 and other deities in the later texts we need to look back to the oldest
 texts. In the veda several deities are described as lions.  
 viShNu:  
-pra tad viShNu stavate vIryeNa mR^igo na bhImaH kucharo giriShThAH |  
-yasyoruShu triShu vikramaNeShv adhikShiyanti bhuvanAni vishvA || (RV
+pra tad viShNu stavate vIryeNa mR^igo na bhImaH kucharo giriShThAH \|  
+yasyoruShu triShu vikramaNeShv adhikShiyanti bhuvanAni vishvA \|\| (RV
 1.154.02)
 
 bR^ihaspati:  
-upastutiM namasa udyatiM cha shlokaM yaMsat saviteva pra bAhU |  
-asya kratvAhanyo yo asti mR^igo na bhImo arakShasas tuviShmAn || (RV
+upastutiM namasa udyatiM cha shlokaM yaMsat saviteva pra bAhU \|  
+asya kratvAhanyo yo asti mR^igo na bhImo arakShasas tuviShmAn \|\| (RV
 1.190.03)
 
 rudra:  
-stuhi shrutaM gartasadaM yuvAnam mR^igaM na bhImam upahatnum ugram |  
+stuhi shrutaM gartasadaM yuvAnam mR^igaM na bhImam upahatnum ugram \|  
 mR^iLA jaritre rudra stavAno .anyaM te asman ni vapantu senAH
-||(RV\_2.033.11)
+\|\|(RV_2.033.11)
 
 marut-s:  
 dhArAvarA maruto dhR^iShNvojaso mR^igA na bhImAs taviShIbhir archinaH
-|  
-agnayo na shushuchAnA R^ijIShiNo bhR^imiM dhamanto apa gA avR^iNvata ||
-(RV 2.034.01)
+\|  
+agnayo na shushuchAnA R^ijIShiNo bhR^imiM dhamanto apa gA avR^iNvata
+\|\| (RV 2.034.01)
 
 indra:  
-mR^igo na bhImaH kucharo giriShThAH parAvata A jaganthAparasyAH |  
-sR^ikaM saMshAya pavimindra tigmaM vi shatrUn tALi vi mR^idho nudasva ||
-(RV 10.180.02)
+mR^igo na bhImaH kucharo giriShThAH parAvata A jaganthAparasyAH \|  
+sR^ikaM saMshAya pavimindra tigmaM vi shatrUn tALi vi mR^idho nudasva
+\|\| (RV 10.180.02)
 
 In the veda, rudra is also explicitly described as being of tiger-like
 form. On the whole, in the veda the epithet of the lion was not
@@ -398,3 +402,4 @@ of their mantra-s with the respective 32-syllabled root mantra-s are
 central to the great secret prayoga of nR^isiMha or the south facing
 form of viShNu. The 100 mAtR^ikA mantra-s are combined with the 4 faced
 form of viShNu as hinted in the kUrma text itself.
+

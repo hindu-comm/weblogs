@@ -1,7 +1,11 @@
 +++
 title = "The field beyond the seven trees"
+date = "2009-10-19"
+upstream_url = "https://manasataramgini.wordpress.com/2009/10/19/the-field-beyond-the-seven-trees/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/10/19/the-field-beyond-the-seven-trees/).
+
 Sporting with the dUtI we reached the spot where seven trees stood in a
 row. Those were verily like the trees which had been denuded of their
 leaves by fist of the tawny ape vAlin. Our dUtI who was verily a
@@ -32,3 +36,4 @@ buffalo-rider who was at hand we were drinking the honey of ana\~Nga’s
 cup. In the state of the urdhvasravas we took up the mantra of the
 circle of the yoginI-s headed by viliste\~NgA, chatuShpathaniketA and
 shishumAramukhI.
+

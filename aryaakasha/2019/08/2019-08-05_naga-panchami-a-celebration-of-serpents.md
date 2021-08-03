@@ -1,8 +1,11 @@
 +++
-title = "NAGA PANCHAMI – A CELEBRATION OFxa0SERPENTS"
-date = "August 5, 2019"
+title = "NAGA PANCHAMI – A CELEBRATION OF SERPENTS"
+date = "2019-08-05"
+upstream_url = "https://aryaakasha.com/2019/08/05/naga-panchami-a-celebration-of-serpents/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/08/05/naga-panchami-a-celebration-of-serpents/).
+
 ![Divine Family Vasuki
 Honouring](https://aryaakasha.files.wordpress.com/2019/08/divine-family-vasuki-honouring.jpg?w=676)
 

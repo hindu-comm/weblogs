@@ -1,7 +1,13 @@
 +++
 title = "The rise of tyrannosaurs"
+date = "2006-02-10"
+upstream_url = "https://manasataramgini.wordpress.com/2006/02/10/the-rise-of-tyrannosaurs/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/02/10/the-rise-of-tyrannosaurs/).
+
+
+
 [![](https://i0.wp.com/photos1.blogger.com/blogger/2010/410/320/guanlong.0.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/guanlong.0.jpg)[![](https://i0.wp.com/photos1.blogger.com/blogger/2010/410/320/Dilong.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/Dilong.jpg)
 
 In my youth I wondered about the emergence of tyrannosaurs, their
@@ -106,3 +112,4 @@ Scipionyx, and other distinctive basal forms such as Coelurus,
 Tanycolagreus, Proceratosaurus and Ornitholestes, and the discovery of
 Guanlong suggests that tyrannosaurs were more advanced than these.
 Bagaraatan appears to be an even more advanced form (?).
+

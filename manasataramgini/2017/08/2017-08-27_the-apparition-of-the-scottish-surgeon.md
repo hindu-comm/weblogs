@@ -1,13 +1,17 @@
 +++
 title = "The apparition of the Scottish surgeon"
+date = "2017-08-27"
+upstream_url = "https://manasataramgini.wordpress.com/2017/08/27/the-apparition-of-the-scottish-surgeon/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2017/08/27/the-apparition-of-the-scottish-surgeon/).
+
 On a late summer evening, at the twilight hour, Somakhya accompanied by
 Lootika met Vidrum outside his home. Vidrum was supposed to show
 Somakhya something special he had found during a visit to the limestone
 excavations near his ancestral village. Vidrum did not seem happy on
 sighting Lootika: “Lootika I was supposed to be showing this only to
-Somakhya. I had not invited you to come and take a look\!”  
+Somakhya. I had not invited you to come and take a look!”  
 L: “Why the gruffness? What did I do?”  
 Vidrum: “Your sister Vrishchika is so rude.”  
 L: “OK. Now I was not the one who told her to be rude. What happened?”  
@@ -21,9 +25,9 @@ Somakhya: “Hey what is behind this little drama between you two? In any
 case think we should cut the crap and get to business.”  
 Vidrum: “As I told you I have found evidence for a gigantic human who
 lived in the prehistoric times in my ancestral village. I have recovered
-a piece of the skull and another bone of this fossil man\! I showed it
-to Vrishchika as she had come along with some of the other girls to take
-a look at my discovery. She laughed and told them something like: ‘this
+a piece of the skull and another bone of this fossil man! I showed it to
+Vrishchika as she had come along with some of the other girls to take a
+look at my discovery. She laughed and told them something like: ‘this
 Vidrum is anxiously waiting to get admission into Med school. Even if he
 does get in I think it is not going to be easy for him. How can it when
 he shows off such things as human skulls?’ Then she added with a smirk
@@ -32,7 +36,7 @@ sensible.’ I don’t know what exactly that meant nor do I think the rest
 but it certainly sounded rude and there was much ridicule at my
 expense.”
 
-L: “Oh Ṛbhu-s\! if that was what she said it is rude indeed. I will
+L: “Oh Ṛbhu-s! if that was what she said it is rude indeed. I will
 certainly ask her to apologize the next time she sees you. But while
 recounting this to us last night over dinner she said that you had
 rudely shooed her away from studying the fossil. She added that she was
@@ -49,7 +53,7 @@ Vidrum now felt a bit soothed by Lootika’s presence as most men felt so
 long as they did not have have to engage in a cerebral tournament with
 her.
 
-Somakhya: “Alright. Let us see it man\!”
+Somakhya: “Alright. Let us see it man!”
 
 Vidrum pulled out his box and proudly displayed his finds saying: “As
 per your suggestion I recorded the precise coordinates of my finds and
@@ -94,20 +98,20 @@ fossil at greater depth.”
 ◊◊◊◊
 
 The next day Somakhya and Lootika again met with Vidrum at the appointed
-hour. He seemed wan and forlorn: “Friends\! it is an utter disaster\!”  
+hour. He seemed wan and forlorn: “Friends! it is an utter disaster!”  
 Lootika: “What?”  
 Vidrum: “My precious fossils were stolen by someone when I was playing
 cricket today.”  
 Somakhya: “Why the hell did you have to take it along to show off. For a
 little attention from the girls you have now lost something colossally
-important as this\! Who do you think stole it?”  
+important as this! Who do you think stole it?”  
 Vidrum: “I, Sharvamanyu and Golashiras tried hard to figure it out for
 much of the day but we failed. You know the rougher elements of our
 class like Sphichmukh who stole the infamous compass box or the mystery
 thief who stole the green-covered chemistry book and the ball-bearing
 that Somakhya had gifted you Lootika.”
 
-Lootika in a weak voice remarked: “Ah\! the green-covered book and
+Lootika in a weak voice remarked: “Ah! the green-covered book and
 ball-bearing. I won’t forget that day. Some of classmates are going to
 be finished taskara-s even before they are adults.” Somakhya noticed a
 tear drop beneath the normally unsentimental Lootika’s spectacles. It
@@ -123,7 +127,7 @@ could do something else?”
 
 As Somakhya and Lootika were wondering whether to stay on or go do some
 sky-gazing Sharvamanyu arrived: “Hey we need not play chess. Since you
-two are around I suggest we ply the planchette\! You have an uncanny
+two are around I suggest we ply the planchette! You have an uncanny
 ability to get real ghosts into the machine.” Somakhya and Lootika
 agreed that it might be a good thing for the gloomy evening.
 
@@ -141,7 +145,7 @@ snuffed out the lamp and lit it again and began. It took sometime for
 Somakhya to get his focus on the dhyāna right. Finally, when he had
 settled into it and gone through the incantations he uttered the
 terminal summoning call: “kumbhodharā mahodharā rudrasyānuyāyinaḥ
-śmaśānvartinam ānaya ānayeheha svāhā |”. For a minute or so, which
+śmaśānvartinam ānaya ānayeheha svāhā \|”. For a minute or so, which
 almost seemed like an hour, nothing at all happened. Vidrum and
 Sharvamanyu cast confused looks at Somakhya whose visage barely
 concealed a sense of great triumph and expectation. Even Lootika did not
@@ -167,8 +171,8 @@ Sharvamanyu: “But who are you?” The bhūta spoke: “Why should that matter
 to you.” Then the pointer rattled again and turned towards Somakhya and
 Lootika: “These two Hindoos here have awoken me from my resting place at
 my favorite peepul tree in Saharanpur and brought me all the way south
-here\! I never knew someday a native would be talking about my tortoises
-in the same words as me\!”  
+here! I never knew someday a native would be talking about my tortoises
+in the same words as me!”  
 Lootika: “Pray tell us the story of your tortoises. We are all ears.”  
 The phantom: “My Hindoo collector had found a large shell as I was
 prospecting in what your people called the lower steps to the abode of
@@ -201,12 +205,12 @@ from the later part of the Pleistocene – perhaps a mere 50,000 years
 before present. Sadly we have lost the fossil and would not be able to
 say more for now.”
 
-The phantom: “That is certainly of some interest if true. Why\! it
+The phantom: “That is certainly of some interest if true. Why! it
 pertains exactly to what I wished tell old Charles a couple of days
 before I expired.”  
 Somakhya: “Please make yourself comfortable and if you do not mind
 kindly tell us what was it that you wished to convey to your friend?”  
-The phantom: “Ah\! It is a long yarn. Due to a persistent illness I left
+The phantom: “Ah! It is a long yarn. Due to a persistent illness I left
 India and returned to Britain. It was then that I met my friend Charles
 who confided with me his thoughts on the origin of species. It shook me
 to the core and I was not sure for all its grandeur if it even had a
@@ -254,13 +258,13 @@ Lootika: “We would certainly let you return to your lair but please tell
 us if you might care the story behind your residence in that aśvattha
 tree in Saharanpur.”  
 The phantom groaned and emitting the sound of labored breathing said:
-“My aches still seem to pursue me into my phantomhood. But I should
-not refuse a charming young lady her request. As I was making a study of
-the plants in the east of the country, as a surgeon I was impressed by
-the orderly presentation of information on medicine by the Hindoo of
-yore. I was convinced that the spring-head of old knowledge in the arts,
-grammar and the sciences lay in India. It was in your variety of the
-Caucasian branch of the human family that highest capability for mental
+“My aches still seem to pursue me into my phantomhood. But I should not
+refuse a charming young lady her request. As I was making a study of the
+plants in the east of the country, as a surgeon I was impressed by the
+orderly presentation of information on medicine by the Hindoo of yore. I
+was convinced that the spring-head of old knowledge in the arts, grammar
+and the sciences lay in India. It was in your variety of the Caucasian
+branch of the human family that highest capability for mental
 improvement had taken root. Hence, to learn more during my second stint
 in India I made acquaintance of the native physician Mudhoosooduna. In
 course of our rambling conversations he recounted the many quaint
@@ -290,17 +294,17 @@ The same quiet which came upon them when the phantom had come seemed to
 return and a few seconds latter ebbed away into the cacophony of
 orthopterans and other insect musicians.
 
-Sharvamanyu: “This was most wondrous\! Had it not been for you all even
-I might have felt some fright. This was unlike anything we ever felt in
+Sharvamanyu: “This was most wondrous! Had it not been for you all even I
+might have felt some fright. This was unlike anything we ever felt in
 the cemetery.”  
-Lootika: “Yes indeed\! That was quite unexpected.”  
-Vidrum: “This was a bhūta which actually spoke\! Thankfully the gorā
+Lootika: “Yes indeed! That was quite unexpected.”  
+Vidrum: “This was a bhūta which actually spoke! Thankfully the gorā
 sāhib seems to have left without causing any trouble unlike those who
 normally prowl here. But you all seemed to know him well.”  
 Somakhya: “While one of the ākrānta he is a benign chap – in terms of
 pure knowledge he was perhaps the most knowledgeable biologist of his
-age\! Let me tell you what his friend Charles, whom he kept referring,
-to remarked upon his death. Somakhya pulled out his tablet and read: “He
+age! Let me tell you what his friend Charles, whom he kept referring, to
+remarked upon his death. Somakhya pulled out his tablet and read: “He
 says ‘What a mountainous mass of admirable and accurate information dies
 with our dear old friend. I shall miss him, not only personally, but as
 a scientific man of unflinching and uncompromising integrity…’”  
@@ -434,12 +438,12 @@ could have also caused such extinctions even earlier – like a faunal
 exchange via rafting from East Africa. Moreover, it might have happened
 over a prolonged period. Lemur-like adapiformes survived in the
 Pāñcanada till around 9 million YBP.”  
-Lootika: “Ah\! Indraloris… Perhaps the longest survival outside of
-island Madagascar.”  
+Lootika: “Ah! Indraloris… Perhaps the longest survival outside of island
+Madagascar.”  
 Vrishchika: “And some nights I used dream that somewhere in the western
 ghats we might still find an adapisoriculid mammal.”  
 Lootika: “Despite the occasional find of a Gondwanan amphibian or snail
-in those forests that’s unlikely to be ever happening at all\!”
+in those forests that’s unlikely to be ever happening at all!”
 
 Jhilleeka: “The final extinction of a late-persisting lineage like the
 adapiformes brings to mind those simple mathematical models based on
@@ -481,7 +485,7 @@ both of whom our visitor when still embodied had skewered, were quite a
 good, and then there were others like Spencer, Hooker and so on. There
 was enough of good foil for old Charles to whet his edge. In
 contrast…”  
-Varoli: “We look homeopathic in our dilution\! Just imagine a parallel
+Varoli: “We look homeopathic in our dilution! Just imagine a parallel
 universe where we were all born separately and never knew that the other
 existed. Perhaps, plodding away in a little corner of Saharanpur with
 nothing to inform us that Megalochelys even existed – surrounded by a
@@ -490,7 +494,7 @@ lies below sulfur in the periodic table.”
 Jhilleeka chimed in smirking: “You know, may be it is our ‘belief’ in
 ghosts. That is one of the reasons my history textbook lists as a cause
 for the failure of the Marāṭhā before the English.”  
-They all laughed adding: “Of course how can we forget that one\!”
+They all laughed adding: “Of course how can we forget that one!”
 
 Just then the caturbhaginī’s mother called out: “Kids we need to go
 right now. I know well you love talking and will be doing so all day
@@ -498,3 +502,4 @@ left to yourselves.” Somakhya’s mother added: “As your father would say
 it is good to talk less and do more.”  
 Lootika and Somakhya struck up a parting hi-five laughing: “There you
 go. May be that is the reason after all…”
+

@@ -1,8 +1,11 @@
 +++
-title = "On Scythian Tabiti Invoked As Protector Goddess For The King ? A Further Illumination Of The Might Of The Radiant Queen Of The Indo-Europeans Via The Light Of Vedic Aditi ; The Scythians As Storm-Borne Host Of Herxa0Children"
-date = "November 10, 2020"
+title = "On Scythian Tabiti Invoked As Protector Goddess For The King ? A Further Illumination Of The Might Of The Radiant Queen Of The Indo-Europeans Via The Light Of Vedic Aditi ; The Scythians As Storm-Borne Host Of Her Children"
+date = "2020-11-10"
+upstream_url = "https://aryaakasha.com/2020/11/10/on-scythian-tabiti-invoked-as-protector-goddess-for-the-king-a-further-illumination-of-the-might-of-the-radiant-queen-of-the-indo-europeans-via-the-light-of-vedic-aditi-the-scythians-as-storm-born/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/11/10/on-scythian-tabiti-invoked-as-protector-goddess-for-the-king-a-further-illumination-of-the-might-of-the-radiant-queen-of-the-indo-europeans-via-the-light-of-vedic-aditi-the-scythians-as-storm-born/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/11/123833489_751162408829419_5299766924355797126_n.png?w=600)
 
   

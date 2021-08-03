@@ -1,8 +1,11 @@
 +++
-title = "On right view,Buddhist-coloured deities and Hinduxa0practice"
+title = "On right view,Buddhist-coloured deities and Hindu practice"
 date = "2020-11-19"
+upstream_url = "https://padmavajra.net/2020/11/19/on-right-viewbuddhist-coloured-deities-and-hindu-practice/"
 
 +++
+Source: [here](https://padmavajra.net/2020/11/19/on-right-viewbuddhist-coloured-deities-and-hindu-practice/).
+
 Ths is a novice’s attempt to answer about why the practice of some
 deities:tArA,chinnamastA(to a small extent vajrayoginI too),vilAsinI
 also is soiterologically relevant:  

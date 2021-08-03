@@ -1,7 +1,11 @@
 +++
 title = "Some great men from other cultures"
+date = "2005-03-24"
+upstream_url = "https://manasataramgini.wordpress.com/2005/03/24/some-great-men-from-other-cultures/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2005/03/24/some-great-men-from-other-cultures/).
+
 Some great men transcend cultural boundaries and simply amaze you with
 the sheer enormity of their acts. In my opinion these first among these
 is the great Mongol leader Chingiz Kha’Khan. If anyone comes close to
@@ -43,3 +47,4 @@ You with great power as the Kha’Khan of the dharma chakra,
 may conquer the disbelieving wild enemy  
 strengthen long life, joy, peace and strength,  
 secure for me that my actions fulfil my wishes,
+

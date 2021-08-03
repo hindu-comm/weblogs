@@ -1,8 +1,11 @@
 +++
 title = "Ardhanarishvara ; Valentine’s Day"
-date = "February 14, 2019"
+date = "2019-02-14"
+upstream_url = "https://aryaakasha.com/2019/02/14/ardhanarishvara-valentines-day/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/02/14/ardhanarishvara-valentines-day/).
+
 ![1908233_10153862668145574_1996361189_n](https://aryaakasha.files.wordpress.com/2019/02/1908233_10153862668145574_1996361189_n.jpg?w=676)
 
 The Ardhanarishvara dual-aspect of Mahadev & Mata JI.

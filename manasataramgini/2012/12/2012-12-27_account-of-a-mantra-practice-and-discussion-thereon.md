@@ -1,7 +1,11 @@
 +++
 title = "Account of a mantra practice and discussion thereon"
+date = "2012-12-27"
+upstream_url = "https://manasataramgini.wordpress.com/2012/12/27/account-of-a-mantra-practice-and-discussion-thereon/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/12/27/account-of-a-mantra-practice-and-discussion-thereon/).
+
 The below account is mainly for mantra-theorists and practitioners in
 the circle but certain points might interest others who are in the know.
 Certain things will left unstated, which can be understood “between the
@@ -48,51 +52,50 @@ AkAshagarbha used in this practice:
 [![](https://lh5.googleusercontent.com/-QGC_1oNZK9g/UNvyT07SyaI/AAAAAAAAChQ/u68-EQ6xBKY/s400/AkAshagarbha.jpg)](https://picasaweb.google.com/lh/photo/EOaPhKA8J-_SBScyYOvZadMTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
 The Japanese record it as:  
-nObO akyashakyarabaya OM Ary kyamAri bori sowaka ||
+nObO akyashakyarabaya OM Ary kyamAri bori sowaka \|\|
 
 Which is a distortion of the original saMskR^ita form:  
-namo AkAshagarbhAya OM Arya kAmAri maulI svAhA ||
+namo AkAshagarbhAya OM Arya kAmAri maulI svAhA \|\|
 
 This mantra is from the paddhati of shubhakara-siMha \[Footnote 1\] and
 is not found in the complex yantra recorded in the mahAvairochana sUtra
 as preserved by chIna-s (lost in bhArata). There it is:  
 \[namaH samantabuddhAnAM\] AkAsha-samatAnugata vicitrAmbaradhara svAhA
-||
+\|\|
 
 An interesting point to note is that the Japanese have changed some of
 the original instructions to shubhakara-siMha’s vidhi in order suit
 their practice. This illustrates how rituals change as they are adapted
 by new practitioners in different settings. In shubhakara-siMha’s
 instruction the sAdhaka used a sealed vial of milk symbolizing the
-“amR^ita” of mantra-siddhi. After performance of the
-akAshagarbha-vidhi the milk vial was opened and the way in which the
-milk had fermented was used to indicate the degree of success of the
-sAdhana. In Japan as milk was not commonly known due the
-lactose-intolerance of the Easterners this process was omitted. The
-original vidhi also specified the use of a sphaTika mAlA, but the
-Japanese found that to heavy to use and replaced it with a mAlA made
-from the wood of the beautiful Torreya nucifera pine. The original
-Indian version of the rite was performed at a more relaxed pace with
-10800 repetitions of the mantra every day for 100 days, with daily japa
-sessions of about 5 hours, reaching a count of 1080000 at the end. The
-Japanese practice is half that with 21600 repetitions per day in two
-sessions totaling to 10 hours. This practice is typically initiated by
-the sAdhaka at the brahma muhUrta (\~3.00 AM) while he has withdrawn
-into isolation.The practitioner also limits his salt intake before the
-performance and during the performance does not eat after noon. Thus,
-this kind of sAdhana cannot be undertaken by any one except those in
-best physical condition. The ritual hall itself is open so that the
-sAdhaka can glimpse the stars. On the eastern side there is a wall with
-an opening in the middle to see the the stars and the eastern horizon
-(this is the reason we hear of kUkai performing it high in the
-mountains). On the wall a picture of AkAshagarbha is hung which is
-covered by a white cloth except at the time of the sAdhana. Immediately
-below the painting, a maNDala of AkAshagarbha, along with the rest of
-the pantheon of the mahAvairochanAbhisaMbodhi texts, carved in wood,
-specified in the paddhati of shubhakara siMha is kept on an wooden
-four-legged stool. An oil lamp is placed in front of it which is keep
-burning through the rite. In Japan such meditation halls exist in a few
-places, including at a temple at the original place where kUkai had
+“amR^ita” of mantra-siddhi. After performance of the akAshagarbha-vidhi
+the milk vial was opened and the way in which the milk had fermented was
+used to indicate the degree of success of the sAdhana. In Japan as milk
+was not commonly known due the lactose-intolerance of the Easterners
+this process was omitted. The original vidhi also specified the use of a
+sphaTika mAlA, but the Japanese found that to heavy to use and replaced
+it with a mAlA made from the wood of the beautiful Torreya nucifera
+pine. The original Indian version of the rite was performed at a more
+relaxed pace with 10800 repetitions of the mantra every day for 100
+days, with daily japa sessions of about 5 hours, reaching a count of
+1080000 at the end. The Japanese practice is half that with 21600
+repetitions per day in two sessions totaling to 10 hours. This practice
+is typically initiated by the sAdhaka at the brahma muhUrta (\~3.00 AM)
+while he has withdrawn into isolation.The practitioner also limits his
+salt intake before the performance and during the performance does not
+eat after noon. Thus, this kind of sAdhana cannot be undertaken by any
+one except those in best physical condition. The ritual hall itself is
+open so that the sAdhaka can glimpse the stars. On the eastern side
+there is a wall with an opening in the middle to see the the stars and
+the eastern horizon (this is the reason we hear of kUkai performing it
+high in the mountains). On the wall a picture of AkAshagarbha is hung
+which is covered by a white cloth except at the time of the sAdhana.
+Immediately below the painting, a maNDala of AkAshagarbha, along with
+the rest of the pantheon of the mahAvairochanAbhisaMbodhi texts, carved
+in wood, specified in the paddhati of shubhakara siMha is kept on an
+wooden four-legged stool. An oil lamp is placed in front of it which is
+keep burning through the rite. In Japan such meditation halls exist in a
+few places, including at a temple at the original place where kUkai had
 performed his sAdhana.
 
 The core of the sAdhana involves the meditation of AkAshagarbha in the
@@ -151,9 +154,9 @@ tradition.
 Footnote 1: This mantra while for bauddha devatA has elements of a
 shaiva mantra – kAmArI and maulin being epithets of shiva. A bauddha
 informed me that the correct bauddha saMskR^ita form was actually:  
-namo AkAshagarbhAya OM Arya kamala-maulI svAhA ||  
+namo AkAshagarbhAya OM Arya kamala-maulI svAhA \|\|  
 or  
-namo AkAshagarbhAya OM Arya kamalI maulI svAhA ||
+namo AkAshagarbhAya OM Arya kamalI maulI svAhA \|\|
 
 Where he is perceived as having a lotus garden or lotus diadem. This is
 consistent with taikO yamasaki’s interpretation of the mantra. It is
@@ -162,3 +165,4 @@ led to reinterpretation of it using more familiar shaiva epithets or
 that originally shaiva epithets were reinterpreted in a nAstika form. A
 mantra-theorist might ponder upon how a grossly mispronounced mantra
 might still confer siddhi upon a prAchya sAdhaka.
+

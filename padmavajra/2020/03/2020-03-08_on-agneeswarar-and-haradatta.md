@@ -1,8 +1,11 @@
 +++
-title = "On Agneeswarar andxa0Haradatta"
-date = "2020-03-08"
+title = "On Agneeswarar and Haradatta"
+date = "2020-08-03"
+upstream_url = "https://padmavajra.net/2020/03/08/on-agneeswarar-and-haradatta/"
 
 +++
+Source: [here](https://padmavajra.net/2020/03/08/on-agneeswarar-and-haradatta/).
+
 ![WhatsApp Image 2020-03-07 at 5.57.36
 PM](https://padmavajrablog.files.wordpress.com/2020/03/whatsapp-image-2020-03-07-at-5.57.36-pm.jpeg?w=739)Pic:utsavamUrti
 of Agneeshwarar of Kanjanur.[This

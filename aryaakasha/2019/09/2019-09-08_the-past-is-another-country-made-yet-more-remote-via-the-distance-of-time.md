@@ -1,8 +1,11 @@
 +++
-title = "The Past Is Another Country – Made Yet More Remote Via The Distance Ofxa0Time"
-date = "September 8, 2019"
+title = "The Past Is Another Country – Made Yet More Remote Via The Distance Of Time"
+date = "2019-09-08"
+upstream_url = "https://aryaakasha.com/2019/09/08/the-past-is-another-country-made-yet-more-remote-via-the-distance-of-time/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/09/08/the-past-is-another-country-made-yet-more-remote-via-the-distance-of-time/).
+
 ![70086511_10162236486875574_2182991435421188096_n](https://aryaakasha.files.wordpress.com/2019/09/70086511_10162236486875574_2182991435421188096_n.jpg?w=676)
 
 “As for the primitive, I hark back to it because we are still very

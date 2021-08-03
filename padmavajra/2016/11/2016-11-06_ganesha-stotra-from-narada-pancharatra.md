@@ -1,8 +1,11 @@
 +++
-title = "Ganesha stotra from Naradaxa0Pancharatra"
-date = "2016-11-06"
+title = "Ganesha stotra from Narada Pancharatra"
+date = "2016-06-11"
+upstream_url = "https://padmavajra.net/2016/11/06/ganesha-stotra-from-narada-pancharatra/"
 
 +++
+Source: [here](https://padmavajra.net/2016/11/06/ganesha-stotra-from-narada-pancharatra/).
+
 This is from the 1st rātra of that late Pāñcarātra text used by
 Gaudiyas,the Nārada Pāñcarātra.
 

@@ -1,8 +1,11 @@
 +++
-title = "Brief Preview From Upcoming Work, On Saliency Of Slavic Mythology For Indo-Europeanxa0Understanding"
-date = "January 17, 2021"
+title = "Brief Preview From Upcoming Work, On Saliency Of Slavic Mythology For Indo-European Understanding"
+date = "2021-01-17"
+upstream_url = "https://aryaakasha.com/2021/01/17/brief-preview-from-upcoming-work-on-saliency-of-slavic-mythology-for-indo-european-understanding/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/01/17/brief-preview-from-upcoming-work-on-saliency-of-slavic-mythology-for-indo-european-understanding/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/01/owl-fire-forest-the-sorcerer-wallpaper-preview.jpg?w=728)
 
 Figured I’d post a brief excerpt from the book I’m working on :

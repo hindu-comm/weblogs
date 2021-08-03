@@ -1,7 +1,11 @@
 +++
 title = "Some meanderings on early medieval history from the view point of nAstika compositions"
+date = "2014-07-13"
+upstream_url = "https://manasataramgini.wordpress.com/2014/07/13/some-meanderings-on-early-medieval-history-from-the-view-point-of-nastika-compositions/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2014/07/13/some-meanderings-on-early-medieval-history-from-the-view-point-of-nastika-compositions/).
+
 [![](https://lh3.googleusercontent.com/-CQNol2n_DXw/U8N8qbhqhhI/AAAAAAAADAU/6oIy61oFtvA/s800/vajreshvarI_small.jpg)](https://picasaweb.google.com/lh/photo/5ac9u8vUP2IK1RwBFwU-WNMTjNZETYmyPJy0liipFm0?feat=embedwebsite)  
 A image of the goddess vajreshvarI from a Dilwara temple built by a
 jaina banker-businessman of the chAlukya period later embellished by
@@ -12,15 +16,15 @@ in early medieval India emerging from philological comparisons between
 jaina sources, other nAstika material and Astika sources. To give some
 background we point to some jaina and other nAstika narratives, some of
 which were posted on these pages such as:  
-1\) [A tale from the samarAichcha
+1) [A tale from the samarAichcha
 kahA](https://manasataramgini.wordpress.com/2013/06/29/the-sixth-cycle-of-samaraichcha-kaha-a-vanija-tradition/ "The sixth cycle of samarAichcha kahA: a vaNija tradition")  
-2\) [Some anti-Astika tales of the
+2) [Some anti-Astika tales of the
 jaina-s](https://manasataramgini.wordpress.com/2013/05/11/some-anti-astika-stories-of-the-jaina-s/ "Some anti-Astika stories of the jaina-s")  
-3\) [dharmakIrti’s anti-Astika
+3) [dharmakIrti’s anti-Astika
 polemics](https://manasataramgini.wordpress.com/2012/04/23/an-indigo-south-asian-hemus-salt-and-other-interlocutions/ "An indigo South Asian, hemu’s salt and other interlocutions")  
-4\) [A narrative from the ma\~njushrIya
+4) [A narrative from the ma\~njushrIya
 mUlakalpa](https://manasataramgini.wordpress.com/2010/01/17/brahmana-s-and-nastika-s/ "brAhmaNa-s and nAstika-s")  
-5\) To the above we may also add the famous novel on the hero varA\~Nga
+5) To the above we may also add the famous novel on the hero varA\~Nga
 written by the naked jaina jaTAsiMhanandin (those unfamiliar with it can
 easily find the plot online)
 
@@ -312,8 +316,8 @@ than merely engaging in conflict with them. Likewise, the bauddha-s also
 followed their suit and appear to have made some efforts for
 incorporating tribal groups. The bauddha-s even appear to have invented
 two tantrika deities parNa-shAbarI and jA\~NgulI both of whom are
-“forest goddesses” who appear to have been the focus of this
-interaction with the tribal groups.
+“forest goddesses” who appear to have been the focus of this interaction
+with the tribal groups.
 
 This rapprochement of tribal groups by the Astika-s again came to help
 them in their struggle against the army of Islam. Whereas vIra hammIra
@@ -426,3 +430,4 @@ participant was given an idol of sarasvatI and the ritualist led them
 through the worship of their personal idol. This attracted much
 criticism from the anti-iconic jaina-s who felt these were not jaina-s
 at all and emphasized their “corruption” by Astika-s.
+

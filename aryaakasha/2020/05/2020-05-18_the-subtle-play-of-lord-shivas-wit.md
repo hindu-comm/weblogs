@@ -1,8 +1,11 @@
 +++
-title = "The Subtle Play Of Lord Shiva’sxa0Wit"
-date = "May 18, 2020"
+title = "The Subtle Play Of Lord Shiva’s Wit"
+date = "2020-05-18"
+upstream_url = "https://aryaakasha.com/2020/05/18/the-subtle-play-of-lord-shivas-wit/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/05/18/the-subtle-play-of-lord-shivas-wit/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/05/59354414_10161712060425574_6637324901688541184_o-1.jpg?w=676)
 
 There is a saying, in English – “Man Plans, Fate Laughs”; and it has …

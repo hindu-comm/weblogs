@@ -1,14 +1,18 @@
 +++
 title = "Indo-European miscellany: The Karṇa class of motifs"
+date = "2015-06-06"
+upstream_url = "https://manasataramgini.wordpress.com/2015/06/06/indo-european-miscellany-the-kar%e1%b9%87a-class-of-motifs/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/06/06/indo-european-miscellany-the-kar%e1%b9%87a-class-of-motifs/).
+
 As we have said many times before most Hindus, despite being the last
 holders of the Indo-European tradition, have done little in recent times
 to use their unique position to develop further understanding of their
 ancestral system. In large part this stems from their: 1) unwillingness
 to study other IE languages and texts in detail; 2) laziness in putting
 the effort to understand the comparative method; 3) tendency to get
-caught up in moronic fads such as AIT denial (\!), OIT and the like.
+caught up in moronic fads such as AIT denial (!), OIT and the like.
 
 As a result much of the comparative work is done by western
 Indo-Europeanists, white Indologists and Dumézilianists. While these
@@ -33,10 +37,10 @@ legends of the great hero Cúchulainn who was famed for his battle frenzy
 known as the ríastrad. To better visualize the motifs we will first
 retell parts of his legend relevant to this topic.
 
-\-His mother Deichtine was the daughter of the charioteer of the Ulster
+-His mother Deichtine was the daughter of the charioteer of the Ulster
 king Conchobar.
 
-\-His father was the great god Lugh the Irish version of the pan-Celtic
+-His father was the great god Lugh the Irish version of the pan-Celtic
 deity Lugus who is often described as the bright one with long hands. He
 is clearly distinct from the other great Celtic deity Taranis who
 combines the Indra and Viṣṇu class in him – Taranis is iconographically
@@ -48,7 +52,7 @@ being bright (citrabhānu, RV 1.35.4) and long-handed (pṛthupāni, 2.38.2)
 and is clearly associated with the solar domain. Thus, Cúchulainn can be
 considered the son of a solar deity.
 
-\-When the Ulster men led by Conchobar had gone hunting magical birds
+-When the Ulster men led by Conchobar had gone hunting magical birds
 they were stranded by a snowstorm and had to take shelter in a house.
 Their host in the house fathers a son on Deichtine and reveals himself
 to be the great god Lugh and the child is was initially called Sétanta.
@@ -60,34 +64,33 @@ and go to Sualtam with virginity restored. But a child is reinstated in
 her womb then and Sétanta is born who is considered Sualtam’s son but is
 actually by Lugh.
 
-\-As a kid Conchobar and many other Ulster elite share the task of
+-As a kid Conchobar and many other Ulster elite share the task of
 parenting the young Sétanta
 
-\-Sétanta enters a game of the boy-troops of Ulster where the boys
-attack him for not first seeking their protection and permission to
-join. But Sétanta smashes them thoroughly displaying his battle frenzy
-for the first time. Conchobar ends the fight but it is the boys who now
-have to take Sétanta’s protection. Then he kills a hound of the smith of
-Ulster, Culann, which was guarding his house. But he agrees to
-compensate the smith by guarding his house till he can rear a suitable
-dog for him. Hence the warrior druid Cathbad decided to name him Cú
-Chulainn – Dog (Cú; cognate of Skt śvan) of Culann.
+-Sétanta enters a game of the boy-troops of Ulster where the boys attack
+him for not first seeking their protection and permission to join. But
+Sétanta smashes them thoroughly displaying his battle frenzy for the
+first time. Conchobar ends the fight but it is the boys who now have to
+take Sétanta’s protection. Then he kills a hound of the smith of Ulster,
+Culann, which was guarding his house. But he agrees to compensate the
+smith by guarding his house till he can rear a suitable dog for him.
+Hence the warrior druid Cathbad decided to name him Cú Chulainn – Dog
+(Cú; cognate of Skt śvan) of Culann.
 
-\-Then one day Cúchulainn spied on the druid Cathbad teaching sacred
-lore to his students. Cathbad was special in that he was not just a
-druid but also a warrior who had his own private fighting force with
-whom he had defeated and slain warriors of a previous Ulster king. One
-of Cathbad’s students asked him what the day was auspicious for and
-Cathbad said that the one who bore arms on that day would become a great
-warrior with eternal glory. Overhearing that Cúchulainn immediately
-rushed to Conchobar and asked for weapons. All the weapons they gave him
-broke and could not bear his might until Conchobar gave him his own
-weapons. Just then Cathbad realized what had happened and informed him
-that he had not heard the remaining part of his statement: “The person
-who bore arms on that day would become a famous warrior but would die
-young.”
+-Then one day Cúchulainn spied on the druid Cathbad teaching sacred lore
+to his students. Cathbad was special in that he was not just a druid but
+also a warrior who had his own private fighting force with whom he had
+defeated and slain warriors of a previous Ulster king. One of Cathbad’s
+students asked him what the day was auspicious for and Cathbad said that
+the one who bore arms on that day would become a great warrior with
+eternal glory. Overhearing that Cúchulainn immediately rushed to
+Conchobar and asked for weapons. All the weapons they gave him broke and
+could not bear his might until Conchobar gave him his own weapons. Just
+then Cathbad realized what had happened and informed him that he had not
+heard the remaining part of his statement: “The person who bore arms on
+that day would become a famous warrior but would die young.”
 
-\-Cúchulainn then wanted to marry a woman named Emer but her father
+-Cúchulainn then wanted to marry a woman named Emer but her father
 opposed the match and sent him off to try to train under the warrior
 woman Scáthach. He was sure that Cúchulainn would be killed in the
 process as even entering her abode involved a difficult jump across a
@@ -116,7 +119,7 @@ parting she confers on Cúchulainn, but not his foster brother, the use
 of a secret magical weapon known as the Gáe Bulga, which was a spear
 hurled by using the foot. Nobody could survive a strike from this spear.
 
-\-Connla the young son of Cúchulainn and Aífe comes searching for his
+-Connla the young son of Cúchulainn and Aífe comes searching for his
 father with his ring. On reaching Cúchulainn’s fort Connla defeats a
 warrior and shows his prowess. Cúchulainn then fights him and the two
 are evenly matched. His wife even warns him that Connla is his son by
@@ -125,7 +128,7 @@ then Cúchulainn has deployed the Gáe Bulga and kills Connla. As he dies
 he tells his father: “Together we would have carried the banner of
 Ulster to Rome and beyond.”
 
-\-In one of the legends Cúchulainn crushes the rival Irish kingdom of
+-In one of the legends Cúchulainn crushes the rival Irish kingdom of
 Connacht in a campaign. The queen of Connacht retaliates by ordering a
 great cattle raid on Ulster. At that point Cúchulainn was supposed to be
 guarding the cattle but he was busy enjoying himself with a woman. The
@@ -155,16 +158,16 @@ Bulga which pierces Ferdiad and kills him. While falling Ferdiad thinks
 he was unfairly struck down and cries:
 
 *“O Cu of grand feats,  
-Unfairly I’m slain\!  
+Unfairly I’m slain!  
 Thy guilt clings to me;  
-My blood falls on thee\!”*
+My blood falls on thee!”*
 
 Realizing he has killed his foster-brother Cúchulainn mourns him.
 
-\-Cúchulainn kills many great warriors and wins several victories but
-the Connacht queen seeking revenge wages another war on Cúchulainn.
-Before this war he is tricked into eating dog meat which makes him lose
-his invulnerability. In the battle that follows he fights Lugaid who
+-Cúchulainn kills many great warriors and wins several victories but the
+Connacht queen seeking revenge wages another war on Cúchulainn. Before
+this war he is tricked into eating dog meat which makes him lose his
+invulnerability. In the battle that follows he fights Lugaid who
 possessed 3 magical weapons. By hurling the first he kills Laeg the the
 charioteer-king who was driving Cúchulainn’s chariot. With the second
 one he kills the great horse of Cúchulainn. Finally before he could use
@@ -180,35 +183,35 @@ right hand marking the end of the cycle.
 • Apprehending the motifs  
 Some motifs are found in the Mahābhārata but not necessarily linked to
 the Karṇa or Arjuna complex:  
-1\) The motif of a hero being born or conceived while taking
-shelter/rest in a dwelling with an unfamiliar host during a hunt: This
-is seen in the legend of the birth of the founder of our nation, Bharata
-Dauḥśānti, where Duśmanta fathers him on Śakuntalā while visiting the
-āśrama of Kaṇva for refreshment during a hunt.  
-2\) The motif of providing a ring to the woman on whom the child is
+1) The motif of a hero being born or conceived while taking shelter/rest
+in a dwelling with an unfamiliar host during a hunt: This is seen in the
+legend of the birth of the founder of our nation, Bharata Dauḥśānti,
+where Duśmanta fathers him on Śakuntalā while visiting the āśrama of
+Kaṇva for refreshment during a hunt.  
+2) The motif of providing a ring to the woman on whom the child is
 fathered before leaving so that it can be used to identify paternity
 later: This again appears in the tale of Bharata Dauḥśānti, where he
 uses the ring is used prove identity of the son to the father. In the
 Irish cycle it is decoupled from the former motif.
 
 The remaining motifs are part of the classic Karṇa and Arjuna classes.  
-3\) Being fathered on an earthy woman by a solar deity (Karṇa).  
-4\) Parentage linked to the ruling king’s charioteer – Rādha and
+3) Being fathered on an earthy woman by a solar deity (Karṇa).  
+4) Parentage linked to the ruling king’s charioteer – Rādha and
 Deichtine (Karṇa).  
-5\) Mother’s mating with the solar deity happens out of wedlock – Kunti
+5) Mother’s mating with the solar deity happens out of wedlock – Kunti
 and Deichtine (Karṇa)  
-6\) Mother’s virginity restored after the mating for real human marriage
+6) Mother’s virginity restored after the mating for real human marriage
 – Kunti and Deichtine (Karṇa).  
-7\) Learning something related to the use of weapons from a teacher of
+7) Learning something related to the use of weapons from a teacher of
 the priestly class in an unauthorized or unapproved fashion and the
 teacher pointing to (or cursing with) a fatal consequence as result:
 Cúchulainn overhearing Cathbad’s teaching to his students and Karṇa
 lying about his varṇa to Rāmo Bhārgava. Consequently, both are saddled
 with the disadvantage of potential death despite their prowess
 (Karṇa).  
-8\) Learning something related to arms from a warrior priest: brāhmaṇa
+8) Learning something related to arms from a warrior priest: brāhmaṇa
 Rāmo Bhārgava and druid Cathbad (Karṇa).  
-9\) The hero appears suddenly when other elite youth are engaging in
+9) The hero appears suddenly when other elite youth are engaging in
 sport/arms display breaking convention and causing a stir: Cúchulainn
 appearance before the boy-troops and Karṇa’s appearance at the
 sporting/arms display of the Kurus (Karṇa).
@@ -218,27 +221,27 @@ epic cycle are muted in the Mahābhārata. However, there are still
 several recognizable motifs that unite them. In the Mahābhārata they are
 all consistently associated with Arjuna and could be considered part of
 the Arjuna class.  
-10\) Leaving the principle wife or woman on an exile-like journey to a
+10) Leaving the principle wife or woman on an exile-like journey to a
 far away land: Cúchulainn leaves behind Emer who is his primary wife and
 Arjuna leaving behind Draupadi (Arjuna).  
-11\) The hero consorts with three women during this journey: Cúchulainn
+11) The hero consorts with three women during this journey: Cúchulainn
 with Scáthach, Uathach and Aífe; Arjuna with Ulūpī, Citrāṅgadā and
 Subhadrā (Arjuna).  
-12\) Meeting one of the alien woman in the vicinity of a water body:
-Cúchulainn had to jump over a water body to reach Scáthach and Arjuna
-is captured by Ulūpī on the banks of the Gaṅgā and taken to her realm
+12) Meeting one of the alien woman in the vicinity of a water body:
+Cúchulainn had to jump over a water body to reach Scáthach and Arjuna is
+captured by Ulūpī on the banks of the Gaṅgā and taken to her realm
 (Arjuna).  
-13\) The alien women met by the hero live by themselves without their
+13) The alien women met by the hero live by themselves without their
 male partners before and after marriage; the hero leaves them after
 inseminating them. This is a marked departure from the traditional IE
 family structure: Scáthach and Aífe of Cúchulainn and Ulūpī and
 Citrāṅgadā of Arjuna (Arjuna).  
-14\) The warrior woman offers to sex to the hero out of her own
-initiative: Scáthach to Cúchulainn and Ulūpī to Arjuna (Arjuna).  
-15\) The woman/women train male sons in the use of arms all by
+14) The warrior woman offers sex to the hero out of her own initiative:
+Scáthach to Cúchulainn and Ulūpī to Arjuna (Arjuna).  
+15) The woman/women train male sons in the use of arms all by
 themselves: Scáthach trains Cuare and Cet, while Ulūpī trains Irāvān and
 Babhruvāhana (Arjuna).  
-16\) The warrior woman gives the hero a gift of an invincible weapon or
+16) The warrior woman gives the hero a gift of an invincible weapon or
 power associated with the aquatic realm: Scáthach gives Cúchulainn the
 Gáe Bulga which is made from the bones of a sea-monster which had died
 fighting another sea-monster. Ulūpī gives Arjuna the power of
@@ -258,11 +261,11 @@ top of the generic father-son conflict motif.
 exile/forced wanderings and leaves the son with the mother: Cúchulainn
 fathers Connla on Aífe and Arjuna fathers Babhruvāhana on Citrāṅgadā
 (Arjuna).  
-18\) The son through the warrior woman on growing up sets out to find
-his father: Connla seeking Cúchulainn; In the Mahābhārata this motif is
-not joined to the father-son conflict system. But it exists in the form
-of Irāvān journeying to meet his father.  
-19\) Father and son don’t recognize each as one sees the other intruding
+18) The son through the warrior woman on growing up sets out to find his
+father: Connla seeking Cúchulainn; In the Mahābhārata this motif is not
+joined to the father-son conflict system. But it exists in the form of
+Irāvān journeying to meet his father.  
+19) Father and son don’t recognize each as one sees the other intruding
 his domain and battle breaks out in which one is killed: In the Irish
 legend it is the son who is killed. In the Hindu one Arjuna invades the
 kingdom of Maṇipura where Babhruvāhana is the prince during the
@@ -271,35 +274,35 @@ that follows.
 
 The battle motifs are shared between the Karṇa class and the Arjuna
 class though they might not come in the same character.  
-20\) Possession of magical spear that can kill the opponent on whom it
-is deployed infallibly: Cúchulainn’s Gáe Bulga and Karṇa’s Indra śakti
+20) Possession of magical spear that can kill the opponent on whom it is
+deployed infallibly: Cúchulainn’s Gáe Bulga and Karṇa’s Indra śakti
 (Karṇa)  
-21\) This infallible weapon does not help them in the final battle
+21) This infallible weapon does not help them in the final battle
 (Karṇa)  
-22\) Weakened in final battle by a curse or breaking of taboo and a
+22) Weakened in final battle by a curse or breaking of taboo and a
 related ethical dilemma: Cúchulainn’s ate dog meat because he could not
 avoid accepting hospitality and that broke his invincibility. Karṇa did
 not wake Rāmo Bhārgava while being bitten by the alarka tick but in the
 process he had to reveal that he was not a brāhmaṇa leading to a curse.
 He broke the taboo by killing the cow (Karṇa).  
-23\) Fights a solo battle in a cattle raid against several warriors,
-including brother warrior, when other defenders are not available:
-Cúchulainn fights Ferdiad in the battle against the Connacht raiders
-and Arjuna fights Karṇa in the Kuru raid on Virāṭa (Arjuna/Karṇa ).  
-24\) Kills brother warrior in a great battle which is the or at least
-one of the main highlights of the conflict under consideration:
-Cúchulainn kills Ferdiad and Arjuna kills Karṇa (Arjuna/Karṇa).  
-25\) One of the brother warriors has a special armor that confers him
+23) Fights a solo battle in a cattle raid against several warriors,
+including the brother warrior, when other defenders are not available:
+Cúchulainn fights Ferdiad in the battle against the Connacht raiders and
+Arjuna fights Karṇa in the Kuru raid on Virāṭa (Arjuna/Karṇa ).  
+24) Kills brother warrior in a great battle which is the or at least one
+of the main highlights of the conflict under consideration: Cúchulainn
+kills Ferdiad and Arjuna kills Karṇa (Arjuna/Karṇa).  
+25) One of the brother warriors has a special armor that confers him
 invulnerability but fails or is unavailable in the last encounter:
 Ferdiad’s horn skin and Karṇa special kavaca with which he is born
 (Karṇa).  
-26\) In their most critical encounter when the brother enemy gains the
+26) In their most critical encounter when the brother enemy gains the
 upper hand his charioteer makes a crucial move that saves the hero and
 eventually confers him victory: Laeg floats the Gáe Bulga to Cúchulainn.
 Kṛṣṇa saves Arjuna by the chariot feat and later directs him to deploy
 the fatal aṅjalika missile when Karṇa is trying to lift up his chariot
 wheel (Arjuna/Karṇa).  
-27\) The fatal weapon is supposed to be irresistible and pierce the very
+27) The fatal weapon is supposed to be irresistible and pierce the very
 innards of the foe and said to be bathed in the blood and fat of the
 foe. In the Irish cycle we hear of: “*Cúchulainn saw his weapon \[Gáe
 Bulga\] bloody and crimson from Ferdiad’s body.*” Likewise the weapon of
@@ -314,12 +317,12 @@ act probably referring to the use of the first spear to open his defense
 before using the Gáe Bulga. Karṇa before being killed objects to Arjuna
 trying to unfairly strike him when he is trying to set right his chariot
 wheel (Karṇa).  
-29\) The charioteer of the hero in said to be a king among charioteers:
+29) The charioteer of the hero in said to be a king among charioteers:
 Laeg and Śalya, who is the king of Madra (Karṇa)  
-30\) Before being struck by the fatal dart the hero’s chariot is
+30) Before being struck by the fatal dart the hero’s chariot is
 incapacitated: This happens to both Cúchulainn and Karṇa albeit in
 different ways (Karṇa).  
-31\) Upon their death their corpse is said to be endowed by luster: The
+31) Upon their death their corpse is said to be endowed by luster: The
 solar luster of both the dead Cúchulainn and Karṇa is emphasized in the
 respective narratives (Karṇa).
 
@@ -411,19 +414,18 @@ the Celtic and Hindu epic traditions with a prominent role for the
 chariot and the charioteer?
 
 Several possibilities present themselves:  
-1\) The chariot tradition developed earlier in the PIE period itself but
+1) The chariot tradition developed earlier in the PIE period itself but
 did not refer to the spoked chariot but the solid wheeled one (a
 Talagerian view mouthed uncritically by Hindu OITists). Later it was
 transferred to the spoked wheel chariot.  
-2\) Like above, the chariot tradition developed earlier in the PIE
-period itself but it has simply not yet been recovered in earlier steppe
-sites sampled to date. In this context we may point out that while the
-solid wheel depictions are more common in Sindhu-Sarasvati sites the
-spoked wheel appears there slightly before (may be \~100-300 years) it
-does at the Sintashta sites. Hence, there could have been an earlier
-presence of spoked wheels bring it close to the dispersal of IE into
-inner Europe.  
-3\) The movement that gave rise to the Sintashta culture, which began
+2) Like above, the chariot tradition developed earlier in the PIE period
+itself but it has simply not yet been recovered in earlier steppe sites
+sampled to date. In this context we may point out that while the solid
+wheel depictions are more common in Sindhu-Sarasvati sites the spoked
+wheel appears there slightly before (may be \~100-300 years) it does at
+the Sintashta sites. Hence, there could have been an earlier presence of
+spoked wheels bring it close to the dispersal of IE into inner Europe.  
+3) The movement that gave rise to the Sintashta culture, which began
 deeper in Europe was the one in which the spoked wheel was indeed
 innovated. From this culture, the technology was transferred along with
 a specific class of linked legends pertaining to chariot warriors to the
@@ -434,8 +436,8 @@ specific similarities.
 
 This also has bearing on the timing of origin of the Indo-Aryans and the
 timing of the famous AI and thereby parts of the Vedic corpus. The
-Ṛgveda has a clear memory of the Caspian region and the ancient DNA
-from the steppes (Yamna, Sintashta/Andronovo and ) do show links to the
+Ṛgveda has a clear memory of the Caspian region and the ancient DNA from
+the steppes (Yamna, Sintashta/Andronovo and ) do show links to the
 component termed “Ancestral North India” in the Indian ancestry. This
 puts the origin of the Indo-Aryans in the same general region. However,
 in the absence of ancient DNA data from India a direct estimate of the
@@ -474,3 +476,4 @@ exaggeration. Such burials do not have any specific features linking
 them to the funerary sūkta-s of RV or Avestan tradition – rather it is
 the fertile imagination of western archaeologists with little
 philological training.
+

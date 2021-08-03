@@ -1,7 +1,11 @@
 +++
 title = "The grahaNa of the fourth hero"
+date = "2009-08-26"
+upstream_url = "https://manasataramgini.wordpress.com/2009/08/26/the-grahana-of-the-fourth-hero/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/08/26/the-grahana-of-the-fourth-hero/).
+
 We learned that the amAtya was caught up with completing the devotions
 to the terrifying vighnarAja. We tried to reach the sachiva, but we
 could only reach MM. MM informed us that the sachiva had received the
@@ -58,3 +62,4 @@ in fear. Luckily the sachiva got the signal “namaste rudra manyave” and
 swung into action aided by some learned auShadhaprayogin-s. They were
 able to stabilize the 4th hero like analAsura countered by R^ichIka
 aurva.
+

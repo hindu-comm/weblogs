@@ -1,7 +1,11 @@
 +++
 title = "Anatomy and heavens in the boomorphic universe"
+date = "2013-11-08"
+upstream_url = "https://manasataramgini.wordpress.com/2013/11/08/anatomy-and-heavens-in-the-boomorphic-universe/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/11/08/anatomy-and-heavens-in-the-boomorphic-universe/).
+
 The bovine species lay at the center of the existence of the early
 Indo-Aryan. After all he owed his very success in history to the
 strength of milk. Hence, rather appropriately payas means both milk and
@@ -15,7 +19,7 @@ India is not just about cows. All this said, the evidence suggests that
 the spread of the Indo-Aryans within bhAratavarSha itself was
 accompanied by the spread of their bovine herds and at the genetic the
 spread of a certain strain of [lactose
-tolerance](https://manasataramgini.wordpress.com/2009/02/12/genetic-determinism-sociology-and-history/ "Genetic determinism, sociology and history").
+tolerance](https://manasataramgini.wordpress.com/2009/02/12/genetic-determinism-sociology-and-history/ "Genetic determinism, sociology andhistory").
 Not surprisingly, bovine symbolism is central to Aryan ritual and
 thought, be it in the plaint of the Iranian zaotar zarathushtra, i.e.,
 geush urvan or the many ritual incantations of the atharvaveda. Indeed,
@@ -33,7 +37,7 @@ Among others the taurocentric Weltanschauung of the atharvan-s is best
 captured in a yajush incantation from the vulgate atharvaveda (AV 9.7),
 which provides a remarkable parallel to the Iranian legend of the
 gav-aēvō-dātā or the
-[ratu](https://manasataramgini.wordpress.com/2012/06/16/the-broken-chain-and-the-chain-of-knowledge/ "The broken chain and the chain of knowledge")
+[ratu](https://manasataramgini.wordpress.com/2012/06/16/the-broken-chain-and-the-chain-of-knowledge/ "The broken chain and the chain ofknowledge")
 of the bovine (eventually slain by angra mainyu). This incantation is
 part of the offering verses belonging to a now largely forgotten ritual
 performed by the bhR^igu-s and a\~Ngirasa-s of the atharvan tradition.
@@ -76,108 +80,108 @@ cattle he uses the bovine incantation (AV 9.7) to make oblations to the
 deities imagining the whole universe to be a gigantic bovine:
 
 prajApatish cha parameShThI cha shR^i\~Nge indraH shiro agnir lalATaM
-yamaH kR^ikATam ||1||  
+yamaH kR^ikATam \|\|1\|\|  
 prajApati and parameShThin are the two horns, indra is the head, agni
 the forehead, yama the cranio-cervical joint.
 
-somo rAjA mastiShko dyaur uttarahanuH pR^ithivy adharahanuH ||2||  
+somo rAjA mastiShko dyaur uttarahanuH pR^ithivy adharahanuH \|\|2\|\|  
 King soma the brain, the heaven (dyaus) the upper jaw and the earth
 (pR^ithivi) the lower jaw.
 
 vidyuj jihvA maruto dantA revatIr grIvAH kR^ittikA skandhA gharmo vahaH
-||3||  
+\|\|3\|\|  
 Lighting the tongue, the marut-s the teeth, the revatI-s the neck,
 kR^ittikA the shoulders and heat (or the pravargya pot) the
 cervico-thoracic joint.
 
-vishvaM vAyuH svargo lokaH kR^iShNadraM vidharaNI niveShyaH ||4||  
+vishvaM vAyuH svargo lokaH kR^iShNadraM vidharaNI niveShyaH \|\|4\|\|  
 vAyu the all encompassing lungs, the dewlap the heavenly world, the
 cyclone the diaphragm.
 
 shyenaH kroDo .antarikShaM pAjasyaM bR^ihaspatiH kakud bR^ihatIH kIkasAH
-||5||  
+\|\|5\|\|  
 The heavenly eagle the manubrium, the atmosphere the sternal body,
 bR^ihaspati the hump and the bR^ihatI incantations the vertebrae.
 
-devAnAM patnIH pR^iShTaya upasadaH parshavaH ||6||  
+devAnAM patnIH pR^iShTaya upasadaH parshavaH \|\|6\|\|  
 The goddesses the zygapophyses, the upasad ritual the ribs.
 
 mitrash cha varuNash chAMsau tvaShTA chAryamA cha doShaNI mahAdevo bAhU
-||7||  
+\|\|7\|\|  
 mitra and varuNa the clavicles, tvaShTR^i and aryaman are the humeri and
 mahAdeva the forearms.
 
-indrANI bhasad vAyuH puChaM pavamAno vAlAH ||8||  
+indrANI bhasad vAyuH puChaM pavamAno vAlAH \|\|8\|\|  
 indrANI the sacrum, vAyu the tail, and the purifying soma the tail
 whisk.
 
-brahma cha kShatraM cha shroNI balam UrU ||9||  
+brahma cha kShatraM cha shroNI balam UrU \|\|9\|\|  
 brAhmaNa-s and kShatriya-s the ilia and strength the femora.
 
 dhAtA cha savitA chAShThIvantau ja\~NghA gandharvA apsarasaH kuShThikA
-aditiH shaphAH ||10||  
+aditiH shaphAH \|\|10\|\|  
 dhAtR^i and savitR^i the patellas, the gandharva-s the calves, apsaras-s
 the dew claws and aditi the hoofs.
 
-cheto hR^idayaM yakR^in medhA vrataM purItat ||11||  
+cheto hR^idayaM yakR^in medhA vrataM purItat \|\|11\|\|  
 Consciousness the heart, intelligence the liver, and vrata-s the
 pericardium.
 
-kShut kukShir irA vaniShThuH parvatAH plAshayaH ||12||  
+kShut kukShir irA vaniShThuH parvatAH plAshayaH \|\|12\|\|  
 Hunger the belly, food the rectum, and the mountains the pancreas.
 
-krodho vR^ikkau manyur ANDau prajA shepaH ||13||  
+krodho vR^ikkau manyur ANDau prajA shepaH \|\|13\|\|  
 anger the kidneys, fury the gonads, the beings the genitals.
 
-nadI sUtrI varShasya pataya stanA stanayitnur UdhaH ||14||  
+nadI sUtrI varShasya pataya stanA stanayitnur UdhaH \|\|14\|\|  
 The rivers the blood vessels, the breasts the lord of rain (parjanya),
 the thunder the udders.
 
-vishvavyachAs charmauShadhayo lomAni nakShatrANi rUpam ||15||  
+vishvavyachAs charmauShadhayo lomAni nakShatrANi rUpam \|\|15\|\|  
 The bounds of the universe the skin, the plants the hairs, the stars
 comprise the form.
 
-devajanA gudA manuShyA AntrANy atrA udaram ||16||  
+devajanA gudA manuShyA AntrANy atrA udaram \|\|16\|\|  
 The god-folks in the large intestine, the men in the intestines and
 animals in the uterus.
 
-rakShAMsi lohitam itarajanA Uvadhyam ||17||  
+rakShAMsi lohitam itarajanA Uvadhyam \|\|17\|\|  
 rakSha-s in blood, other beings in the digestive secretions.
 
-abhraM pIbo majjA nidhanam ||18||  
+abhraM pIbo majjA nidhanam \|\|18\|\|  
 The clouds the fat and death in the marrow.
 
-agnir AsIna utthito .ashvinA ||19||  
+agnir AsIna utthito .ashvinA \|\|19\|\|  
 When resting \[the bovine\] is agni, when standing \[the bovine
 represents\] the ashvin twins.
 
-indraH prA\~N tiShThan dakShiNA tiShThan yamaH ||20||  
+indraH prA\~N tiShThan dakShiNA tiShThan yamaH \|\|20\|\|  
 indra when standing eastwards and yama when standing southwards.
 
-pratya\~N tiShThan dhAtoda\~N tiShThant savitA ||21||  
+pratya\~N tiShThan dhAtoda\~N tiShThant savitA \|\|21\|\|  
 dhAtR^i when facing west and savitR^i when facing north.
 
-tR^iNAni prAptaH somo rAjA ||22||  
+tR^iNAni prAptaH somo rAjA \|\|22\|\|  
 When seeking grass \[the bovine\] is soma.
 
-mitra IkShamANa AvR^itta AnandaH ||23||  
+mitra IkShamANa AvR^itta AnandaH \|\|23\|\|  
 When observing \[the bovine is mitra\] when running away felicity.
 
-yujyamAno vaishvadevo yuktaH prajApatir vimuktaH sarvam ||24||  
+yujyamAno vaishvadevo yuktaH prajApatir vimuktaH sarvam \|\|24\|\|  
 \[The bovine \] is of the vishve devas when being yoked, prajApati when
 yoked and to all when freed.
 
-etad vai vishvarUpaM sarvarUpaM gorUpam ||25||  
+etad vai vishvarUpaM sarvarUpaM gorUpam \|\|25\|\|  
 The is the omniformed, bearing all forms, in the form of a cow.
 
-upainaM vishvarUpAH sarvarUpAH pashavas tiShThanti ya evaM veda ||26||
-AV-vulgate (9.7)  
-Omniformed cattle, of all forms attend on him who knows thus\!
+upainaM vishvarUpAH sarvarUpAH pashavas tiShThanti ya evaM veda
+\|\|26\|\| AV-vulgate (9.7)  
+Omniformed cattle, of all forms attend on him who knows thus!
 
 At first sight this collection of mantra-s epitomizes the macranthropic
 (or macrotherian) theme. Seen abundantly in Hindu traditions from the
 veda onwards, which we have earlier discussed on [these
-pages](https://manasataramgini.wordpress.com/2012/09/21/macranthropy-and-the-sambandha-s-between-microcosm-and-macrocosm/ "Macranthropy and the saMbandha-s between microcosm and macrocosm").
+pages](https://manasataramgini.wordpress.com/2012/09/21/macranthropy-and-the-sambandha-s-between-microcosm-and-macrocosm/ "Macranthropy and the saMbandha-s between microcosm andmacrocosm").
 However, a closer examination shows that it is not just any macrotherian
 theme but a specific version, which we may term stellar macranthropy. In
 this form we have the explicit equation of parts of the macranthropic
@@ -214,8 +218,9 @@ nakShatra-s. Returning to the yajurvedic versions of the rite we find
 that the uttaranArAyaNa is the least detailed in terms of equivalences.
 However, that it represents the nakShatra puruSha is clear because it
 has the explicit statement, same as that seen in AV 9.7.15 (nakShatrANi
-rUpam ||). This is followed by the only explicit association it makes:  
-ashvinau vyAttam ||  
+rUpam \|\|). This is followed by the only explicit association it
+makes:  
+ashvinau vyAttam \|\|  
 His open mouth are the twin ashvin-s. This choice is strange at first
 sight but makes sense if it is taken to indicate the position of the
 beginning of the nakShatra-s on the ecliptic: a proper parallel to the
@@ -264,7 +269,7 @@ Now returning to the macrotherian bovine we observe that kR^ittikA and
 revatI do not occupy the head of the bovine. Rather at the “forefront”
 of the bovine is prajApati who is identified with the horns. In vaidika
 tradition prajApati is traditionally associated with rohiNI (alpha
-Tauri; prajApate rohiNIvetu patnI |) and the Hyades cluster from which
+Tauri; prajApate rohiNIvetu patnI \|) and the Hyades cluster from which
 the horns of the bovine emerge. So, we propose that the forefront of the
 stellar macrotherian bovine is the fore part of Taurus and kR^ttikA and
 revatI are placed behind it for a reason, contra-Whitney. Now one could
@@ -280,17 +285,17 @@ mR^iga and other constellations were known and figured distinctly from
 the ecliptic divisions in the form of the nakShatra-s. Indeed the bovine
 associated with Taurus seems to be one such. Several lines of evidence
 support this view:  
-1\) We had earlier argued this with respect to the [sauchIka agni
+1) We had earlier argued this with respect to the [sauchIka agni
 mantra](https://manasataramgini.wordpress.com/2006/11/21/the-path-of-fire/).
 
 2\) The atharvaveda states:  
-yA rohiNIr devatyA gAvo yA uta rohiNIH | (AV-vulgate 1.22.3ab)  
+yA rohiNIr devatyA gAvo yA uta rohiNIH \| (AV-vulgate 1.22.3ab)  
 Of the cattle which indeed are red, of them rohiNI is the deity.  
 Thus, rohiNI (alpha Tauri) the nakShatra is linked to cattle.
 
 3\) A mantra of kakShIvAn of the gotama clan to the ashvin-s states:  
 revad uvAha sachano ratho vAM vR^iShabhash cha shiMshumArash cha yuktA
-|| \[RV 1.116.18cd\]  
+\|\| \[RV 1.116.18cd\]  
 The chariot that bore you two brought beautiful riches: a bull and a
 dolphin were yoked together.  
 This absurd yoking of the bull and the dolphin to the car of the
@@ -307,8 +312,8 @@ equivalent to Taurus overlapping with it.
 4\) The above is further supported by a mantra to the ashvin-s composed
 by agastya that states:  
 pra vAM sharadvAn vR^iShabho na niShShAT pUrvIr iShash charati madhva
-iShNan |  
-evair anyasya pIpayanta vAjair veShantIr UrdhvA nadyo na AguH || (RV
+iShNan \|  
+evair anyasya pIpayanta vAjair veShantIr UrdhvA nadyo na AguH \|\| (RV
 1.181.06)  
 Approximately: The autumnal bull of you two, like a mighty one comes
 forth, sending from the east, sending forth honey. Let them swell with
@@ -321,17 +326,18 @@ rain. We suspect it is the Milky Way which rises just ahead of Taurus.
 
 5\) Another allusion comes from the mantra of vAmadeva gautama to
 agni:  
-sa jAyata prathamaH pastyAsu maho budhne rajaso asya yonau |  
-apAd ashIrShA guhamAno antAyoyuvAno vR^iShabhasya nILe || (RV 4.1.11)  
+sa jAyata prathamaH pastyAsu maho budhne rajaso asya yonau \|  
+apAd ashIrShA guhamAno antAyoyuvAno vR^iShabhasya nILe \|\| (RV
+4.1.11)  
 In dwellings first he came into being, at great base \[of heaven\], and
 in this atmosphere’s womb; Footless and headless, concealing both his
 ends, drawing himself together in the bull’s station.  
 The first hemistich refers to the 3 manifestations of agni: the ritual
 fire, the celestial fire and the atmospheric fire. Here, as Santillana
 and von Dechend argued in the Hamlet’s Mill the [heavenly fire
-(vaishvAnara)](https://manasataramgini.wordpress.com/2006/11/21/the-path-of-fire/ "The path of fire")
+(vaishvAnara)](https://manasataramgini.wordpress.com/2006/11/21/the-path-of-fire/ "The path offire")
 is associated with the [equinoctial
-colure](https://manasataramgini.wordpress.com/2006/11/26/the-crossing-of-ashmanvati/ "The crossing of ashmanvatI"):
+colure](https://manasataramgini.wordpress.com/2006/11/26/the-crossing-of-ashmanvati/ "The crossing ofashmanvatI"):
 This is implied in this mantra by the statement that his ends come
 together – i.e. the ecliptic ends meet and this happens in the station
 of the bull. Here again we see an allusion the vernal equinox in a
@@ -371,3 +377,4 @@ of naming the former yama nakShatra bharaNI, and the relatively old
 position of the uttaranArAyaNa in the vaiShNava material, as suggested
 by its pan-yajurvedic presence, we are justified in presenting the early
 ashvayujau as the likely temporal layer.
+

@@ -1,7 +1,11 @@
 +++
 title = "The prelude to the philosophical penetration"
+date = "2009-11-07"
+upstream_url = "https://manasataramgini.wordpress.com/2009/11/07/the-prelude-to-the-philosophical-penetration/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/11/07/the-prelude-to-the-philosophical-penetration/).
+
 It was a couple of months after dvAdashAnta. We were wandering on our
 ashva at the foothills of the chanDikA parvata. We went down the road
 south of the vinAyaka chaitya and the kapAla slopes and continued on the
@@ -108,3 +112,4 @@ only say in retrospect.
 
 [Led to this
 excursus](https://manasataramgini.wordpress.com/2012/09/21/macranthropy-and-the-sambandha-s-between-microcosm-and-macrocosm/)
+

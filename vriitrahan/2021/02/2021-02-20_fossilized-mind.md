@@ -1,8 +1,11 @@
 +++
 title = "vR^itrahan"
-date = "February 20, 2021"
+date = "2021-02-20"
+upstream_url = "https://vriitrahan.wordpress.com/2021/02/20/fossilized-mind/"
 
 +++
+Source: [here](https://vriitrahan.wordpress.com/2021/02/20/fossilized-mind/).
+
 One often hears a bitter tirade against the occidental scholar from the
 mouths of many of our co-religionists. This sentiment is most often
 misplaced and misdirected leading to nothing but an exasperated silence

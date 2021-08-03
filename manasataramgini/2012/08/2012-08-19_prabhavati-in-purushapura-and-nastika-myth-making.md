@@ -1,7 +1,11 @@
 +++
 title = "prabhAvatI in puruShapura and nAstika myth-making"
+date = "2012-08-19"
+upstream_url = "https://manasataramgini.wordpress.com/2012/08/19/prabhavati-in-purushapura-and-nastika-myth-making/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/08/19/prabhavati-in-purushapura-and-nastika-myth-making/).
+
 The nAstika teacher paramArtha who operated in midst of the chIna-s
 \~525-569 CE, wrote a hagiography of the famous dharmAcharya vasubandhu
 of puruShapura (modern Peshawar in the Islamic terrorist state). In this
@@ -33,8 +37,8 @@ prospective mate that she would assent to marrying him only if he could
 fight her brother. The deva viShNu saw the lady in the lit part of
 jambudvIpa and was exceedingly taken in by her charms. He asked
 regarding her background. She said: “I am a maiden asurI.” viShNu said:
-“asurI-s frequently marry deva-s. I myself have no wife and you have
-no husband. I wish to be with you and so seek to marry you. Will you
+“asurI-s frequently marry deva-s. I myself have no wife and you have no
+husband. I wish to be with you and so seek to marry you. Will you
 agree?” She responded exactly as her brother had instructed her. viShNu
 said: “You think well of me so you are interested, and it is clear you
 love me, so I will not leave you alone. Since I have great strength I
@@ -126,3 +130,4 @@ from prabhAvatI into his narrative. The role of mAyAvatI and prabhAvatI,
 identified with ratI, and the appropriation of shaMbara’s killing (from
 indra) for pradyumna are aspects of early sAttvata pA\~ncharAtra
 mythology that need more careful consideration.
+

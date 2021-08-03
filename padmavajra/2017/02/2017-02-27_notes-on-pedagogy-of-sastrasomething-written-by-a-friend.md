@@ -1,8 +1,11 @@
 +++
-title = "Notes on pedagogy of śāstra(something written by axa0friend)"
+title = "Notes on pedagogy of śāstra(something written by a friend)"
 date = "2017-02-27"
+upstream_url = "https://padmavajra.net/2017/02/27/notes-on-pedagogy-of-sastrasomething-written-by-a-friend/"
 
 +++
+Source: [here](https://padmavajra.net/2017/02/27/notes-on-pedagogy-of-sastrasomething-written-by-a-friend/).
+
 
 
 To add, as śāstra unfolds, things become quite simple and clear. The

@@ -1,11 +1,15 @@
 +++
 title = "Some considerations on Hindu atomism"
+date = "2007-04-08"
+upstream_url = "https://manasataramgini.wordpress.com/2007/04/08/some-considerations-on-hindu-atomism/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/04/08/some-considerations-on-hindu-atomism/).
+
 tanIyAMsaM pAMsuM tava charaNa pa\~NkeruhabhavaM  
 viri\~nchiH saMchinvan virachayati lokAn avikalam   
 vahaty enaM shauriH katham api sahasreNa shirasAM  
-haraH saM-kShubhyainaM bhajati bhasitod-dhUlana-vidhim || (saundarya
+haraH saM-kShubhyainaM bhajati bhasitod-dhUlana-vidhim \|\| (saundarya
 lahari 2)
 
 Minute particles have arisen from the dust of your feet,  
@@ -39,7 +43,7 @@ just a metaphysics. Thus, a “modern darshana” that an AstIka can follow
 without a contradiction in Weltanschauung would build from the base of
 vaisheShika, just as medieval Hindus built on early vaisheShika thought
 (e.g. [vAchaspati
-mishra](http://manasataramgini.wordpress.com/2004/09/vachaspati-on-atomic-coordinates.html)).
+mishra](http://manollasa.blogspot.com/2004/09/vachaspati-on-atomic-coordinates.html)).
 Sadly many early works of the pristine vaisheShika period are now lost.
 It was once a great challenge to the nAstIka-s who expended their
 efforts to undermine or co-opt it.
@@ -72,13 +76,13 @@ consciousness.
 A certain parallel with jaimini’s sUtra-s and the vaisheShika sUtra-s
 exists suggesting that their authors belonged to a common intellectual
 tradition (i.e. successors of the veda):  
-athAto dharma jij\~nAsA | (MS1)  
-athAto dharma vyAkhyAsyAmaH | (VS1)  
+athAto dharma jij\~nAsA \| (MS1)  
+athAto dharma vyAkhyAsyAmaH \| (VS1)  
 both mean the approximately same (jij\~nAsA= inquire into or
 vyAkhyAsyAmaH – explain) and are clearly distinguished from the inquiry
 into brahman or yoga or causes of sorrow or principles of logic.  
-chodanAlatho artho dharmaH | (MS2)  
-yato.abhyudaya niHshreyasa siddhiH sa dharmaH | (VS2)  
+chodanAlatho artho dharmaH \| (MS2)  
+yato.abhyudaya niHshreyasa siddhiH sa dharmaH \| (VS2)  
 The constructs are very similar between mImAmsa and vaisheShika, but the
 former declares that the veda’s prescription is dharma. Whereas,
 vaisheShika declares that one that produces abhyudaya and niHshreyasa is
@@ -86,8 +90,8 @@ dharma (Note that there two distinct terms used and not mokSha. Much
 after the pristine vaisheShika faded away, later authors thought that
 these terms were related to mokSha of vedAnta).
 
-tasya nimitta-parIShTiH | (MS3)  
-tadvachanAd AmnAyasya prAmANyam | (VS3)  
+tasya nimitta-parIShTiH \| (MS3)  
+tadvachanAd AmnAyasya prAmANyaM \| (VS3)  
 Here again the two darshana-s probably imply similar (not same) things:
 The mImAmsaka-s seem to mean (going by shabara svAmin): examination (of
 veda) is proof of that (dharma).  
@@ -107,7 +111,7 @@ purANa-s. In the former it is seen in the lecture of the great kShatrIya
 woman sulabhA prAdhAnI during the discourse with the king of mithilA. In
 the purANa-s, for example the bhagavata purANa, it appears in the
 lecture of
-[maitreya](http://manasataramgini.wordpress.com/2004/09/maitreyas-atomism.html).
+[maitreya](http://manollasa.blogspot.com/2004/09/maitreyas-atomism.html).
 However, unlike sAMkhya (yoga) and in the much latter paurANic milieu,
 vedAnta, neither mImAmsa nor vaisheShika are discussed in their
 technical details in these texts. Again, chANakya only mentions sAMkhya,
@@ -213,3 +217,4 @@ chandrAnanda-s commentary. chandrAnanda cites the veda-s and purANa-s
 showing his wide knowledge of Hindu lore in general. My teacher knowing
 my proclivities pointed to me to chandrAnanda’s commentary and its
 importance in grasping the vedic milieu in which vaisheShika arose.
+

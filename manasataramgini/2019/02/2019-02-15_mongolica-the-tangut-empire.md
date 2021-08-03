@@ -1,7 +1,11 @@
 +++
 title = "Mongolica: The Tangut empire"
+date = "2019-02-15"
+upstream_url = "https://manasataramgini.wordpress.com/2019/02/15/mongolica-the-tangut-empire/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2019/02/15/mongolica-the-tangut-empire/).
+
 In the early 1100s of the CE Rtsa-mi lotsawa Sangs-rgyas grags-pa was in
 Nālandā, India, to study and transmit the latest that the tāntrika
 strain of Bauddha-mata had to offer. Within a century both his world and
@@ -60,7 +64,7 @@ of the Tangut studies that followed and suggest that it was member of
 the Tibeto-Burman family of languages. These texts give us a picture of
 the heydays of a rather interesting state, the Tangut Kingdom.
 
-![Tangut\_manuscript](https://manasataramgini.files.wordpress.com/2019/02/tangut_manuscript.png?w=640)
+![Tangut_manuscript](https://manasataramgini.files.wordpress.com/2019/02/tangut_manuscript.png?w=640)
 
 A Tangut document showing their script and artwork
 
@@ -98,19 +102,19 @@ there is no meat tastier than the meat on the bones.
 He who has livestock is not rich,  
 He who has a \[good\] mind is rich.
 
-\-translated from the original Tangut by the famous Tangutologist
+-translated from the original Tangut by the famous Tangutologist
 Kychanov.
 
 In their own mysterious verse on their ancestry, they claim that their
 ruling Ngvemi clan stemmed from their ancestral mother ‘A-mbah (the
-etymology of this name is unknown to me but of interest\!):
+etymology of this name is unknown to me but of interest!):
 
 Our mother ‘A-mbah, source of families and clans,  
 silver-wombed and golden breasted,  
 the valiant tribe did not die out and  
 carries the name of Ngvemi.
 
-\-translated by Kychanov
+-translated by Kychanov
 
 In this regard it is notable that the Mongol sources in China mention a
 Tangut ethnonym as Yü-mi, which is believed to be derived from the name
@@ -148,10 +152,10 @@ CE he sent his 17 year old nephew the rising star of the Turks and their
 future Khagan, Tengrida Bilge, against the Tangut. This is the first
 time we hear of them under that name. The results of the devastating
 Turkic attack on them is summarized in the Orkhon inscriptions thus:
-“When I was 17 years old I went on a campaign against the Tangut. I
-put the Tangut to rout; there I took their wives and children, horses
-and possession” \[Translation: Talat Tekin from the Bilge Khagan
-inscription in Mongolia\].
+“When I was 17 years old I went on a campaign against the Tangut. I put
+the Tangut to rout; there I took their wives and children, horses and
+possession” \[Translation: Talat Tekin from the Bilge Khagan inscription
+in Mongolia\].
 
 Having barely survived this assault they got a chance to enhance their
 profile when the Blue Turks and the
@@ -198,7 +202,7 @@ conquests of Chinese and Uighur lands starting in the 1020s. He took
 Hexi and then in 1028 advanced against the Uighurs. The Tanguts defeated
 them after a bloody battle which is recorded by Mahmud Kasghari with
 some glee because that relieved the Uighur pressure on the Qarakhanid
-Mohammedans. Thus, the Tanguts seized Ganzhou and moving on in 1031-31
+Mohammedans. Thus, the Tanguts seized Ganzhou and moving on in 1030-31
 Li Yuanhao captured Liangzhou and finally took Dunhuang. This brought
 him in possession of various bauddha domains strengthening his
 association with the religion. Sometime after 1035 CE an Indian śramaṇa,
@@ -291,9 +295,9 @@ name and emerged victorious on both fronts solidifying the Tangut state
 and perhaps now justifying the the term empire applied to it due to his
 conquests. In 1046 Yuanhao faced a second Khitan invasion which ended
 inconclusively on the battlefield but the Tangut ended up retaining
-their territory. A couple of years later Yuanhao and his eldest son with
-whose mother he had a conflict had an armed duel and he was killed as a
-result.
+their territory. A couple of years later Yuanhao and his eldest son,
+with whose mother he had a conflict, had an armed duel and he was killed
+as a result.
 
 In the interim period where a tribal council was ruling them the Tanguts
 faced a defeat at the hands of the Khitan (1051) and a few years later
@@ -331,7 +335,7 @@ Chinese faction he staged a coup to nearly precipitate a civil war after
 they threatened to take over the state. He and his Chinese faction were
 all killed in 1170 and the Tangut empire’s unity was restored. At that
 point with their army at the peak of its size and performance it looked
-as thought the Tanguts were unconquerable. Indeed, in 1193 the Jurchen
+as though the Tanguts were unconquerable. Indeed, in 1193 the Jurchen
 tried to invade them at multiple points along the border but were forced
 to retreat. But in 1205 CE they faced a challenge of the kind they had
 never faced in their whole existence: Temüjin, who was soon to be
@@ -474,3 +478,4 @@ posts: for example Tolui appointed a Tangut woman as nurse for his
 children. The bauddha establishment was mostly spared by the Mongols and
 played a role in the transmission of the nāstika religion among the
 Mongols.
+

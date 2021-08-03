@@ -1,7 +1,11 @@
 +++
 title = "Some personal reflections on Carl Gauss, Bernhard Riemann and associated matters"
+date = "2017-06-11"
+upstream_url = "https://manasataramgini.wordpress.com/2017/06/11/some-personal-reflections-on-carl-gauss-bernhard-riemann-and-associated-matters/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2017/06/11/some-personal-reflections-on-carl-gauss-bernhard-riemann-and-associated-matters/).
+
 The biochemist Albert Szent-Györgyi had famously remarked that as he
 successively, journeyed for a better understanding of life from cell
 biology, to physiology, to pharmacology, to bacteriology, to
@@ -108,8 +112,8 @@ year later Gauss was dead but the foundations of new geometries beyond
 that of Euclid, which Gauss himself was the pioneer of, had entered the
 mainstream of the world of ideas. This moment was thus like what the
 Hindu might see as the transition between Rāmo Bhārgava and Rāmo
-Dāśarathi. Riemann was truly a fitting successor of Gauss and might
-have even gone on to be a second Gauss or Euler had it not been for his
+Dāśarathi. Riemann was truly a fitting successor of Gauss and might have
+even gone on to be a second Gauss or Euler had it not been for his
 relatively early death which followed few years after that of Gauss at
 the age of 39.
 
@@ -125,18 +129,18 @@ Riemann was publishing his most important work the Hindus were in the
 midst of a conflict that was to culminate in a catastrophic defeat and
 90 further years of barbarous mleccha rule. It was after this that in
 the Kumbhaghoṇa shorn of its old brahma luster that Ramanujan operated.
-While he might have had various peers who could have at least resonated
-a bit with him, the atmosphere of the Hindu world was one of isolation.
-While Ramanujan had to make do with just Carr’s notes, Riemann could
-access at the age of 14 the 900 page textbook on the number theory by
-the well-known French mathematician Legendre which he finished off in 6
-days\! Riemann had met Gauss early in his life and had access to the
-intellectual inputs of peers/teachers like Dirichlet (himself student of
-Fourier of transform fame, Ohm and Gauss), the Weber brothers, Jacobi,
-Steiner, Eisenstein, and Listing, each a mahārathin in himself and a
-larger intellectual sphere that included the atirathin-s like von
-Helmholtz and Kirchhoff. This gave him exposure to a wide range of
-issues at the cutting edge of science that allowed a more complete
+While Riemann might have had various peers who could have at least
+resonated a bit with him, the atmosphere of the Hindu world was one of
+isolation. While Ramanujan had to make do with just Carr’s notes,
+Riemann could access at the age of 14 the 900 page textbook on the
+number theory by the well-known French mathematician Legendre which he
+finished off in 6 days! Riemann had met Gauss early in his life and had
+access to the intellectual inputs of peers/teachers like Dirichlet
+(himself student of Fourier of transform fame, Ohm and Gauss), the Weber
+brothers, Jacobi, Steiner, Eisenstein, and Listing, each a mahārathin in
+himself and a larger intellectual sphere that included the atirathin-s
+like von Helmholtz and Kirchhoff. This gave him exposure to a wide range
+of issues at the cutting edge of science that allowed a more complete
 development of his thought and interests in terms of application of
 mathematics to scientific problems. We believe that had Ramanujan been
 in a comparable system he too might have shone forth across multiple
@@ -281,19 +285,19 @@ and their above-stated reflections yields a circular arc that passes
 through A and B and terminates on the circumference of the disc. This is
 now a straight line in hyperbolic geometry. Now we can see how more than
 one parallel line will pass through a given point C not on
-![\\overleftrightarrow{AB}](https://s0.wp.com/latex.php?latex=%5Coverleftrightarrow%7BAB%7D&bg=ffffff&fg=333333&s=0
-"\\overleftrightarrow{AB}"). With three points one can now construct a
-hyperbolic triangle on this disc and visualize how the sum of angles of
-a triangle in this geometry will be less than ![\\pi
-](https://s0.wp.com/latex.php?latex=%5Cpi+&bg=ffffff&fg=333333&s=0
-"\\pi "). Wondering, rather presciently, if the geometry of space itself
-might be non-Euclidean, Gauss devised an instrument to measure the
-angles between light beams traveling from three distant towns. He hoped
-to empirically measure if the triangle formed by the beams might have
-hyperbolic angles suggesting that light travels through curved space
-along a geodesic rather than a straight line of Euclidean space.
-However, the results were inconclusive and the true understanding of
-this needed something that lay beyond his own investigations.
+![\\overleftrightarrow{AB}](https://s0.wp.com/latex.php?latex=%5Coverleftrightarrow%7BAB%7D&bg=ffffff&fg=333333&s=0&c=20201002).
+With three points one can now construct a hyperbolic triangle on this
+disc and visualize how the sum of angles of a triangle in this geometry
+will be less than ![\\pi
+](https://s0.wp.com/latex.php?latex=%5Cpi+&bg=ffffff&fg=333333&s=0&c=20201002).
+Wondering, rather presciently, if the geometry of space itself might be
+non-Euclidean, Gauss devised an instrument to measure the angles between
+light beams traveling from three distant towns. He hoped to empirically
+measure if the triangle formed by the beams might have hyperbolic angles
+suggesting that light travels through curved space along a geodesic
+rather than a straight line of Euclidean space. However, the results
+were inconclusive and the true understanding of this needed something
+that lay beyond his own investigations.
 
 ![](https://manasataramgini.files.wordpress.com/2017/06/hyperbolic.png)
 
@@ -323,26 +327,26 @@ postulate with the axiom that no line parallel to a given line can be
 drawn through a given point Riemann discovered the foundations of a new
 geometry on a surface with positive curvature – elliptical geometry.
 Here the sum of angles of a triangle added up to more than ![\\pi
-](https://s0.wp.com/latex.php?latex=%5Cpi+&bg=ffffff&fg=333333&s=0
-"\\pi "). More generally, he presented a unified foundation for geometry
-where the deviations from the bh-k-k nyāya served as the basic
-principle. Notably, Riemann did not stop there and extended its
-implications into the realm of the physical universe. In 1854 CE he
-suggested that human intuition based on empirical data from every day
-existence allowed one to conceive an infinite physical space where
-Euclidean geometry’s axioms could be realized. However, he indicated
-that a space of infinite extent presented difficulties for cosmology.
-Hence, it could be possible that our universe is a 3D space (3D manifold
-to use his precise concept) with constant positive curvature.
-Presciently he sought to create a foundation for physics based on such a
-geometry which could present a unified view “without making a difference
-between between gravity, electricity, magnetism or the equilibrium of
-temperature.” Moreover, he believed that this pursuit would uncover the
-link between gravity and light in process providing the first
-electromagnetic theory for light building on Kirchhoff’s ideas. What
-more he had in these realm of investigations we do not entirely know for
-his thoughts in this direction died with him and had to wait till
-Poincare and Einstein brought them to fruition.
+](https://s0.wp.com/latex.php?latex=%5Cpi+&bg=ffffff&fg=333333&s=0&c=20201002).
+More generally, he presented a unified foundation for geometry where the
+deviations from the bh-k-k nyāya served as the basic principle. Notably,
+Riemann did not stop there and extended its implications into the realm
+of the physical universe. In 1854 CE he suggested that human intuition
+based on empirical data from every day existence allowed one to conceive
+an infinite physical space where Euclidean geometry’s axioms could be
+realized. However, he indicated that a space of infinite extent
+presented difficulties for cosmology. Hence, it could be possible that
+our universe is a 3D space (3D manifold to use his precise concept) with
+constant positive curvature. Presciently he sought to create a
+foundation for physics based on such a geometry which could present a
+unified view “without making a difference between between gravity,
+electricity, magnetism or the equilibrium of temperature.” Moreover, he
+believed that this pursuit would uncover the link between gravity and
+light in process providing the first electromagnetic theory for light
+building on Kirchhoff’s ideas. What more he had in these realm of
+investigations we do not entirely know for his thoughts in this
+direction died with him and had to wait till Poincare and Einstein
+brought them to fruition.
 
 One of the most noteworthy points about this story relates to the
 consequence of Gauss following his maxim of “pauca sed matura” (“few but
@@ -357,13 +361,13 @@ directly or indirectly. Yet the historians of science place their
 discoveries as having in large part an independent element.
 
 In the case of Janos Bolyai there is a even an element of tragedy which
-is often blamed on Gauss. His father Wolfgang had obsessed over this
+is oftenblamed on Gauss. His father Wolfgang had obsessed over this
 problem for a while, right from when he was a fellow student at
 university with Gauss. His father wrote to Gauss of his young son
 describing him as thus: “*a healthy and very beautiful child, with a
 good disposition, black hair and eyebrows, and burning deep blue eyes,
 which at times sparkle like two jewels.*” This boy at went on to master
-calculus and Newtonian mechanics by the age of 13, and even though his
+calculus and Newtonian mechanics by the age of 13, andeven though his
 father warned him of taking up the proof of the 5th postulate he went
 ahead to attack it. While yet in his teens he realized that the path
 ahead lay in taking an approach similar to that which Gauss had taken
@@ -381,7 +385,7 @@ to publish his work in his lifetime and praised Janos Bolyai’s
 achievement by saying: *“So I am greatly surprised to be spared this
 effort, and am overjoyed that it happens to be the son of my old friend
 who outstrips me in such a remarkable way.*” Gauss right away also wrote
-to his former student Gerling with praise similar to what he accorded
+to his former student Gerlingwith praise similar to what he accorded
 Riemann much later: “*I regard this young geometer Bolyai as a genius of
 the first order.*”
 
@@ -429,41 +433,41 @@ merely individual vessels of a single super-mind that chances upon the
 discovery at a given point in time (though I fully acknowledge more
 mundane explanations can as well explain this phenomenon). Looking at it
 this way one might gain that dispassionate view of one’s place in
-history even as the one which Kalhaṇa spoke off in the rising and
+history even as the one whichKalhaṇa spoke off in the rising and
 sinking of the waves of the kings of Kashmir. Yet, as with the
 discoverers of non-Euclidean geometries who gets the credit can be very
 varied. You may not get it even if you were the first to announce your
 findings. Ones fate can span the whole spectrum from a Wachter to a
-Lobachevsky. Much of this depends on one’s personal fate an system in
-which one is working. In the case of the Hindu researchers the absence
-of a national system like the Sanskrit cosmopolis of their heydays means
-they mostly perish unknown – a fate which even someone like Ramanujan
-only narrowly escaped. Despite being in the then back-waters it was
-Lobachevsky’s luck to get the lion’s share of the credit with his
-aggressive reworkings and translations published in French and German.
-Overshadowed by Gauss, the Germans and Bolyai mostly wilted away.
-However, in the case of Bolyai at least he was destined for much
-posthumous fame. In the case of Wachter his early death at the age 25
-despite some praise from Gauss resulted in the loss of any claim in the
-honor that could have been his. Indeed, even as one is close to
-ascending the pīṭha of the sarvajña Vaivasvata could drag you away.
+Lobachevsky. Much of this depends on one’s personal fate and the system
+in which one is working. In the case of the Hindu researchers the
+absence of a national system like the Sanskrit cosmopolis of their
+heydays means they mostly perish unknown – a fate which even someone
+like Ramanujan only narrowly escaped. Despite being in the then
+back-waters it was Lobachevsky’s luck to get the lion’s share of the
+credit with his aggressive reworkings and translations published in
+French and German. Overshadowed by Gauss, the Germans and Bolyai mostly
+wilted away. However, in the case of Bolyai at least he was destined for
+much posthumous fame. In the case of Wachter his early death at the age
+25 despite some praise from Gauss resulted in the loss of any claim in
+the honor that could have been his. Indeed, even as one is close to
+ascending the pīṭha of the sarvajña, Vaivasvata could drag you away.
 
-Thus indeed came the end of Riemann. Afflicted by disease he went to the
-warm clime of Italy in the last summer of his life. Dedekind, the last
-student of Gauss and peer of Riemann writes: “*His strength declined
-rapidly, and he himself felt that his end was near. But still, the day
-before his death, resting under a fig tree, his soul filled with joy at
-the glorious landscape, he worked on his final work which unfortunately,
-was left unfinished.*” This last work was what was to place Riemann on
-the path of the sarvajña – it was his foray into biophysics – a study of
-the mechanism of the vertebrate ear. Studying the anatomy of the middle
-ear based on his rival von Helmholtz’s work he reasoned that there must
-be a physical quantity inherent in the geometry of the wave pattern that
-remains invariant as its transmitted from the eardrum to the cochlea. He
-identified this invariant as timbre and proposed that the auditory
-apparatus transmits to the fluid of the inner ear the variation in air
-pressure at every moment at a constant ratio of amplification (from
-Ritchey’s account of Riemann’s ear work). Penetrating various domains of
-knowledge with deep philosophical vision, in some ways like the yavana
-Plato of yore, Riemann took with him to his grave many ideas that were
-ahead of his age.
+Thus, indeed camethe end of Riemann. Afflicted by disease he went to
+the warm clime of Italy in the last summer of his life. Dedekind, the
+last student of Gauss and peer of Riemann writes: “*His strength
+declined rapidly, and he himself felt that his end was near. But still,
+the day before his death, resting under a fig tree, his soul filled with
+joy at the glorious landscape, he worked on his final work which
+unfortunately, was left unfinished.*” This last work was what was to
+place Riemann on the path of the sarvajña – it was his foray into
+biophysics – a study of the mechanism of the vertebrate ear. Studying
+the anatomy of the middle ear based on his rival von Helmholtz’s work he
+reasoned that there must be a physical quantity inherent in the geometry
+of the wave pattern that remains invariant as its transmitted from the
+eardrum to the cochlea. He identified this invariant as timbre and
+proposed that the auditory apparatus transmits to the fluid of the inner
+ear the variation in air pressure at every moment at a constant ratio of
+amplification (from Ritchey’s account of Riemann’s ear work).
+Penetrating various domains of knowledge with deep philosophical vision,
+in some ways like the yavana Plato of yore, Riemann took with him to his
+grave many ideas that were ahead of his age.

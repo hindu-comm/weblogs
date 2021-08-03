@@ -1,8 +1,11 @@
 +++
-title = "Hanuman Jayanti : The Indo-European Situation Of The Striker/Thunderer Deific In Apelikexa0Form"
-date = "April 27, 2021"
+title = "Hanuman Jayanti : The Indo-European Situation Of The Striker/Thunderer Deific In Apelike Form"
+date = "2021-04-27"
+upstream_url = "https://aryaakasha.com/2021/04/27/hanuman-jayanti-the-indo-european-situation-of-the-striker-thunderer-deific-in-apelike-form/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/04/27/hanuman-jayanti-the-indo-european-situation-of-the-striker-thunderer-deific-in-apelike-form/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/04/178608049_853028491976143_5687521151714391292_n.png?w=563)
 
 Today marks Hanuman Jayanti – and, as has become our custom, we present

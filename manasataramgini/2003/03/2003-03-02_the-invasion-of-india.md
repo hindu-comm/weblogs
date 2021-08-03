@@ -1,7 +1,11 @@
 +++
 title = "The Invasion of India"
+date = "2003-03-02"
+upstream_url = "https://manasataramgini.wordpress.com/2003/03/02/the-invasion-of-india/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/03/02/the-invasion-of-india/).
+
 In 1397 Timur-i-lang obtained the intelligence that the Tughlaq
 Sultanate in India was on the decline. After the destruction the
 Southern Alliance of Mir Hussain (whose grandfather, Amir Qazaghan of
@@ -199,3 +203,4 @@ submitted to Timur and accepted his suzerainty. He then appointed Khizr
 Khan Sayyid as viceroy in Delhi and a local Moslem warlord as the
 governor of Multan. Rich in booty and slaves he triumphantly returned to
 Samarqand.
+

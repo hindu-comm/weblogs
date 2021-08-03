@@ -1,7 +1,11 @@
 +++
 title = "The end of the heathens"
+date = "2013-02-10"
+upstream_url = "https://manasataramgini.wordpress.com/2013/02/10/the-end-of-the-heathens/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2013/02/10/the-end-of-the-heathens/).
+
 In 438 BCE the 12 meter image of the great goddess Athena made by the
 foremost of the yavana idol makers, Pheidias under the patronage of
 Perikles was installed at the Acropolis in Athens. It was built with 1.1
@@ -366,13 +370,13 @@ somebody were moving in a carriage or ship might hold that he was
 sitting still and at rest while the earth and the trees walked and
 moved. But that is how things are nowadays: when a man wishes to be
 clever he must needs invent something special, and the way he does it
-must needs be the best\! The fool wants to turn the whole art of
+must needs be the best! The fool wants to turn the whole art of
 astronomy upside-down. However, as Holy Scripture tells us, so did
 Joshua bid the sun to stand still and not the earth.*”  
 However, the “pratyakSha” of science kept repeatedly hammering on the
-“pramANa” of the pretapustaka, with the final blow coming much closer
-to our times with the publication of the evolutionary theory by Darwin.
-One would have thought that this blow the pretamata would have no leg to
+“pramANa” of the pretapustaka, with the final blow coming much closer to
+our times with the publication of the evolutionary theory by Darwin. One
+would have thought that this blow the pretamata would have no leg to
 stand on. However, even that did not eradicate the pretamata. Rather,
 the two apparently contradictory trajectories continued to coexist in
 the mlechCha world with the strengthening a concept called the
@@ -418,8 +422,8 @@ bhArata we always respected the sarva-shAstra-vit and did not place
 boundaries in our acquisition of knowledge.
 
 :::::::::::::::::::::::::::::  
-Footnote 1: Gemistos Plethon-\>Bessarion-\>Argyropoulos (and others of
-the revived Neoplatonic school)-\>Leonardo da Vinci
+Footnote 1: Gemistos Plethon->Bessarion->Argyropoulos (and others of the
+revived Neoplatonic school)->Leonardo da Vinci
 
 Footnote 2: The Corybantes are also mentioned by Plato as participating
 in an ecstatic dance as part of the retinue of Rhea. Rhea is an ortholog
@@ -431,8 +435,9 @@ teachings of the pan-heathen tradition.
 
 Footnote 3: Indeed the earliest surviving expression of this is seen in
 the mantra of gR^itsamada shaunahotra:  
-tisro bhUmIr dhArayan trInr uta dyUn trINi vratA vidathe antar eShAm |  
-R^itenAdityA mahi vo mahitvaM tad aryaman varuNa mitra chAru || (RV
+tisro bhUmIr dhArayan trInr uta dyUn trINi vratA vidathe antar eShAm
+\|  
+R^itenAdityA mahi vo mahitvaM tad aryaman varuNa mitra chAru \|\| (RV
 2.27.8)
 
 They uphold three earths and the three heavens; triadic are their
@@ -445,3 +450,4 @@ not forget the wisdom of one our heroes in the struggle against Islam,
 the founder of the mahArATTa empire, who called for strikes deep in the
 Moslem territories even as they were prosecuting the Jihad with much
 violence in his own land. That is what brings victory.
+

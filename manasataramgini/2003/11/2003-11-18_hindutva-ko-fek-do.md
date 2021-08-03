@@ -1,7 +1,11 @@
 +++
 title = "Hindutva ko fek do"
+date = "2003-11-18"
+upstream_url = "https://manasataramgini.wordpress.com/2003/11/18/hindutva-ko-fek-do/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/11/18/hindutva-ko-fek-do/).
+
 Some years ago, VS Naipaul correctly saw that Hindutva as a real and
 potent revival of the soul of India. It is a movement of the teeming
 Indian masses, the plebeians finding their long lost identity. In a
@@ -11,13 +15,13 @@ associating with Hindutva. For example in this forum we see Rajiv
 Malhotra and his cohorts trying to adopt a holier than thou stance where
 they try to identify themselves with some thing they term “Indic
 traditions” while trying to pooh-pooh Hindutva as the dirty
-“danDavAlAs”. It is true that the danDavAlA approach of
-Hindutvavadins is deficient in several ways: for example, it has a very
-poor intrinsic understanding of the Hindu dharma, it is not intellectual
-in its outlook and fails to define major problems currently, its
-abrasive responses can turn off the Indian elite and lastly it revels in
-floating lost or flawed causes such as mad cows, astrology training and
-pseudoscholastic Out of India theories for the origin of Indo-Aryans.
+“danDavAlAs”. It is true that the danDavAlA approach of Hindutvavadins
+is deficient in several ways: for example, it has a very poor intrinsic
+understanding of the Hindu dharma, it is not intellectual in its outlook
+and fails to define major problems currently, its abrasive responses can
+turn off the Indian elite and lastly it revels in floating lost or
+flawed causes such as mad cows, astrology training and pseudoscholastic
+Out of India theories for the origin of Indo-Aryans.
 
 **So is this Hindutva all bad?**  
 Those amongst us with at least an iota of wisdom know that the US views
@@ -45,3 +49,4 @@ has been a bit muted is the on going war the US and its lackeys are
 fighting against Islam. Islam is also a primary danger for the Hindus,
 but this does not mean Hindus may form a close alliance with the West at
 this juncture.
+

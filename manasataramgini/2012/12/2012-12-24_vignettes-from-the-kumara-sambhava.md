@@ -1,18 +1,22 @@
 +++
 title = "Vignettes from the kumAra saMbhava"
+date = "2012-12-24"
+upstream_url = "https://manasataramgini.wordpress.com/2012/12/24/vignettes-from-the-kumara-sambhava/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2012/12/24/vignettes-from-the-kumara-sambhava/).
+
 *The mAtR^i-s and gaNa-s of rudra:*  
 The image of rudra being accompanied by female deities is an ancient one
 which goes back to the shruti. In the shatarudrIya of the yajurveda the
 following mantra-s are seen:  
-nama AvyadhinIbhyo vividhyantIbhyash cha vo namaH | nama ugaNAbhyas
-tR^igMhatIbhyash cha vo namaH |
+nama AvyadhinIbhyo vividhyantIbhyash cha vo namaH \| nama ugaNAbhyas
+tR^igMhatIbhyash cha vo namaH \|
 
 Similarly in the atharvaveda the following mantra-s are seen:  
-namas te ghoShiNIbhyo | namas te keshinIbhyaH |namas saMbhu\~njatIbhyo |
-namo namaskR^itAbhyaH | namas te jAyamAnAyai | jAtAyA uta te namaH |
-AV-P 16.106.11
+namas te ghoShiNIbhyo \| namas te keshinIbhyaH \|namas saMbhu\~njatIbhyo
+\| namo namaskR^itAbhyaH \| namas te jAyamAnAyai \| jAtAyA uta te namaH
+\| AV-P 16.106.11
 
 These mantra-s describe rudra’s agents, female deities who assume
 various forms, who are organized as female hordes, who strike with
@@ -30,17 +34,17 @@ manthAna rudra preserves early elements of the yoginI-rudra association
 similar to what is alluded to in the shruti. Now on to kAlIdAsa’s
 verses:
 
-taM mAtaro devam anuvrajantyaH sva-vAhana-kShobha-chalA-vataMsAH |  
-mukhaiH prabhA-maNDala-reNu-gauraiH padmAkaraM chakrur ivAntarIkSham ||
-7.38 ||
+taM mAtaro devam anuvrajantyaH sva-vAhana-kShobha-chalA-vataMsAH \|  
+mukhaiH prabhA-maNDala-reNu-gauraiH padmAkaraM chakrur ivAntarIkSham
+\|\| 7.38 \|\|
 
 The mAtR^i-s who followed the god, with their earrings swaying to
 movements of their respective mounts, seemed to make the welkin like a
 field of lotuses, with their faces hallowed by the radiant orbs of fair
 pollen.
 
-tAsAM cha pashchAt kanaka-prabhANAM kAlI kapAlAbharaNA chakAse |  
-balAkinI nIlapayodarAjI dUraM puraH kShipta shatahradeva || 7.39 ||
+tAsAM cha pashchAt kanaka-prabhANAM kAlI kapAlAbharaNA chakAse \|  
+balAkinI nIlapayodarAjI dUraM puraH kShipta shatahradeva \|\| 7.39 \|\|
 
 Behind those \[mAtR^i-s\] shining like gold, was kAlI dressed in
 gleaming white \[implied by the metaphor of the egrets\] skulls, like a
@@ -48,9 +52,9 @@ flock of egrets against dark blue clouds \[also a metaphor for the
 breasts of kAlI\] that cast hundred flashes of lighting far ahead of
 them.
 
-tato gaNaiH shUlabhR^itaH purogair udIrito ma\~Ngala-tUrya-ghoShaH |  
-vimAna-shR^i\~NgANy avagAhamAnaH shashaMsa sevAvasaraM surebhyaH || 7.40
-||
+tato gaNaiH shUlabhR^itaH purogair udIrito ma\~Ngala-tUrya-ghoShaH \|  
+vimAna-shR^i\~NgANy avagAhamAnaH shashaMsa sevAvasaraM surebhyaH \|\|
+7.40 \|\|
 
 Those gaNa-s \[of rudra\], holding tridents, flew in the sky in front
 \[of him\], with the auspicious sounds of pipes resonating with the
@@ -72,8 +76,9 @@ of the great
 [bhoja-deva](https://manasataramgini.wordpress.com/2011/04/21/the-mechanical-the-magical-and-the-fantastic-2/).
 In kAlidAsa we see some relative early examples of the same tradition:
 
-vanecharANAM vanitAsakhAnAM darI-gR^ihotsa\~Nga-niShakta-bhAsaH |  
-bhavanti yatrauShadhayo rajanyAm atailapUrAH surata-pradIpAH || 1.10 ||
+vanecharANAM vanitAsakhAnAM darI-gR^ihotsa\~Nga-niShakta-bhAsaH \|  
+bhavanti yatrauShadhayo rajanyAm atailapUrAH surata-pradIpAH \|\| 1.10
+\|\|
 
 Junglemen with girlfriends residing in caves with glowing walls can
 pursue their sexual pleasures without needing to fill oil lamps as the
@@ -82,7 +87,7 @@ glowing “herbs” light up darkness.
 This in our opinion is one of the earliest records of a bioluminescent
 fungi. In Hindu tradition we encounter the mention of glowing “herbs” as
 special toxins or remedies held by the ashvin-s:  
-oShadhIr dIpyamAnAsh cha jagR^ihAte .ashvinAv api | Mbh 1.218.032a
+oShadhIr dIpyamAnAsh cha jagR^ihAte .ashvinAv api \| Mbh 1.218.032a
 
 This suggests that kAlidAsa was not the first in Hindu tradition to
 record these bioluminescent fungi. Interestingly, bioluminescent fungi
@@ -94,8 +99,9 @@ from the mycenoid lineage
 
 [![](https://lh5.googleusercontent.com/-miO4mctw2tM/UNgHtVk7krI/AAAAAAAACgc/xZyZGR4anqE/s800/bioluminiscent_fungi.jpg)](https://picasaweb.google.com/lh/photo/0XkA4BlWTlpx4rMTAX4_P9MTjNZETYmyPJy0liipFm0?feat=embedwebsite)
 
-kapola-kaNDUH karibhir vinetuM vighaTTitAnAM sarala-drumANAm |  
-yatra srutakShIratayA prasUtaH sAnUni gandhaH surabhI-karoti || 1.9 ||
+kapola-kaNDUH karibhir vinetuM vighaTTitAnAM sarala-drumANAm \|  
+yatra srutakShIratayA prasUtaH sAnUni gandhaH surabhI-karoti \|\| 1.9
+\|\|
 
 Where elephants trying to rub off the itch \[due to the ichor oozing
 from their\] temporal glands on pine trees give rise to flows of resin
@@ -138,8 +144,9 @@ appears to be an important aspect of musth.
 
 Continuing with elephants, we may also consider:  
 nyastAkSharA dhAtu-rasena yatra bhUrja-tvachaH ku\~njara-bindu-shoNAH
-|  
-vrajanti vidyAdhara-sundarINAm ana\~Nga-lekha-kriyayopayogam ||  1.7 ||
+\|  
+vrajanti vidyAdhara-sundarINAm ana\~Nga-lekha-kriyayopayogam \|\| 1.7
+\|\|
 
 Where \[i.e. the himAlAya-s\] the vidyAdhara beauties go for birch bark
 to use in writing their love letters with mineral extracts, which are
@@ -155,9 +162,9 @@ it. This birch can grow high in the himAlAya along with the conifers
 that are also mention in 1.9.
 
 He has more allusions on conifers, for example:  
-bhAgIrathI-nirjhara shIkarANAM voDhA muhuH kampita devadAruH |  
-yad vAyur anviShTa mR^igaiH kirAtair Asevyate bhinna-shikhaNDi-barhaH ||
-1.15 ||
+bhAgIrathI-nirjhara shIkarANAM voDhA muhuH kampita devadAruH \|  
+yad vAyur anviShTa mR^igaiH kirAtair Asevyate bhinna-shikhaNDi-barhaH
+\|\| 1.15 \|\|
 
 Whose \[i.e. the himAlaya’s\] breeze carrying the mists from cascade of
 bhAgIrathI (i.e. ga\~NgA), which repeatedly causes the Himalayan cedars
@@ -186,8 +193,9 @@ akanAnuru. Hence, we shall give a few sketches, for after all in
 kAlidAsa we see not just relatively early examples of this rAsa that was
 to dominate later kAvya, but some of its most splendid examples.
 
-yatrAMshukAkShepa-vilajjitAnAM yadR^ichChayA kiMpuruShA\~NganAnAm |  
-darI-gR^iha-dvAra-vilambi-bimbAs tiraskariNyo jaladA bhavanti || 1.14 ||
+yatrAMshukAkShepa-vilajjitAnAM yadR^ichChayA kiMpuruShA\~NganAnAm \|  
+darI-gR^iha-dvAra-vilambi-bimbAs tiraskariNyo jaladA bhavanti \|\| 1.14
+\|\|
 
 Where \[i.e. himAlaya\], fortuitously, if the kinnara ladies were to
 turn shy when their clothes are taken off, the hanging masses of clouds
@@ -203,37 +211,41 @@ saMskR^ita literature and has to be enjoyed as a whole for its unmatched
 beauty, which is not easily rendered in any other language. Here we just
 reproduce a pentad:
 
-lohitArka-maNibhAjanArpitaM kalpa-vR^ikSha madhu bibhratI svayam |  
-tvAm iyaM sthiti-matIm upasthitA gandhamAdana-vanAdhidevatA || 8.75 ||
+lohitArka-maNibhAjanArpitaM kalpa-vR^ikSha madhu bibhratI svayam \|  
+tvAm iyaM sthiti-matIm upasthitA gandhamAdana-vanAdhidevatA \|\| 8.75
+\|\|
 
 \[rudra tells umA\]: “The prime goddess of the gandhamAdana forest is
 arriving, she herself bringing for you in a chalice made of sun-red ruby
 wine made from the kalpa trees.”
 
-Ardra-kesara-sugandhi te mukhaM matta-rakta-nayanaM svabhAvataH |  
-atra labdha-vasatir guNAntaraM kiM vilAsini madaH kariShyati || 8.76 ||
+Ardra-kesara-sugandhi te mukhaM matta-rakta-nayanaM svabhAvataH \|  
+atra labdha-vasatir guNAntaraM kiM vilAsini madaH kariShyati \|\| 8.76
+\|\|
 
 “By your own nature your mouth is naturally fragrant as the fresh
 saffron flower, and your eye lids have a red shade, sensuous one, what
 further sensual merits can wine give you?”
 
-mAnya bhaktir athavA sakhIjanaH sevyatAm idam ana\~Nga dIpanam |  
-ity udAram abhidhAya sha\~Nkaras tAm apAyayata pAnam ambikAm || 8.77 ||
+mAnya bhaktir athavA sakhIjanaH sevyatAm idam ana\~Nga dIpanam \|  
+ity udAram abhidhAya sha\~Nkaras tAm apAyayata pAnam ambikAm \|\| 8.77
+\|\|
 
 “However, honor the devotion of your friend by accepting this
 \[beverage\] which will light up love”, saying so, with his generosity
 shaMkara gave aMbikA the liquor.
 
-pArvatI tad upayoga sambhavAM vikriyAm api satAM manoharAm |  
-apratarkya-vidhi-yoga-nirmitAm Amrateva sahakAratAM yayau || 8.78 ||
+pArvatI tad upayoga sambhavAM vikriyAm api satAM manoharAm \|  
+apratarkya-vidhi-yoga-nirmitAm Amrateva sahakAratAM yayau \|\| 8.78 \|\|
 
 When pArvatI had drunk that wine, she was transformed, yet she
 captivated the mind as though by some inconceivable procedure an
 ordinary mango were to become a sahakAra mango (the most flavored of the
 Indian mangoes).
 
-tat-kShaNaM viparivartita-hriyor neShyatoH shayanam iddha-rAgayoH |  
-sA babhUva vashavartinI dvayoH shUlinaH suvadanA madasya cha || 8.79 ||
+tat-kShaNaM viparivartita-hriyor neShyatoH shayanam iddha-rAgayoH \|  
+sA babhUva vashavartinI dvayoH shUlinaH suvadanA madasya cha \|\| 8.79
+\|\|
 
 At that moment, her pretty face was in the control of both
 trident-bearer and the liquor, both took away her coyness, and both led
@@ -277,8 +289,8 @@ still evocative of the grandeur from his heydays.
 His role is primarily presented as different flavors of the saMkhyan
 universal progenitor:
 
-namas trimUrtaye tubhyaM prAk sR^iShTeH kevalAtmane |  
-guNatrayavibhAgAya pashchAd bhedam upeyuShe || 2.4 ||
+namas trimUrtaye tubhyaM prAk sR^iShTeH kevalAtmane \|  
+guNatrayavibhAgAya pashchAd bhedam upeyuShe \|\| 2.4 \|\|
 
 \[The deva-s said:\] “Obeisance to you for three fold form, who prior to
 the emission \[of the universe\] you existed as the sole consciousness,
@@ -286,29 +298,30 @@ you who divided yourself into the [three primary facets of
 matter](manasataramgini.wordpress.com/2008/01/25/the-guna-s-of-samkhya-as-physical-concepts/)
 and thereafter became the diversity of matter.”
 
-yad amogham apAm antar uptaM bIjam aja tvayA |  
-atash charAcharaM vishvaM prabhavas tasya gIyase || 2.5 ||
+yad amogham apAm antar uptaM bIjam aja tvayA \|  
+atash charAcharaM vishvaM prabhavas tasya gIyase \|\| 2.5 \|\|
 
 “Because all mobile and sessile organisms are from the infallible germ
 you, the unborn one, sowed in water, you are sung as being their
 origin.”
 
-sva-kAla-parimANena vyasta-rAtriM divasya te |  
-yau tu svapnAvabodhau tau bhUtAnAM pralayodayau || 2.8 ||
+sva-kAla-parimANena vyasta-rAtriM divasya te \|  
+yau tu svapnAvabodhau tau bhUtAnAM pralayodayau \|\| 2.8 \|\|
 
 You divide night and day by your measure of time and your sleep and
 awakening are the end and the begin of beings.
 
-dravaH saMghAta kaThinaH sthUlaH sUkShmo laghur guruH |  
-vyakto vyaktetarash chAsi prAkAmyaM te vibhUtiShu || 2.11 ||
+dravaH saMghAta kaThinaH sthUlaH sUkShmo laghur guruH \|  
+vyakto vyaktetarash chAsi prAkAmyaM te vibhUtiShu \|\| 2.11 \|\|
 
 “You are fluid, and also solid when compacted, you are both bulk matter
 and the minute particles, light and heavy, manifest and unmanifest, you
 appear as you wish in all your manifestations.”
 
-tvAm Amananti prakR^itiM puruShArtha-pravartinIm |  
-tad darshinam udAsInaM tvAm eva puruShaM viduH || 2.13 ||
+tvAm Amananti prakR^itiM puruShArtha-pravartinIm \|  
+tad darshinam udAsInaM tvAm eva puruShaM viduH \|\| 2.13 \|\|
 
 They opine that you are the the prakR^iti \[matter\] that is evolving,
 for the sake of the puruSha \[consciousness\], are also known as the
 puruSha that is the unaffected witness of the evolution of prakR^iti.
+

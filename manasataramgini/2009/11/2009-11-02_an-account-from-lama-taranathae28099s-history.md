@@ -1,7 +1,11 @@
 +++
 title = "An account from Lama tAranAtha’s history"
+date = "2009-11-02"
+upstream_url = "https://manasataramgini.wordpress.com/2009/11/02/an-account-from-lama-taranatha%e2%80%99s-history/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/11/02/an-account-from-lama-taranatha%e2%80%99s-history/).
+
 During the reign of pa\~nchamasiMha lived two brothers who were
 AchArya-s of the tIrthika-a. One of them named dattAtreya was supposed
 to teach the doctrine of samAdhi. The second named sha\~NkarAchArya was
@@ -29,3 +33,4 @@ buddhapAlita, bhavya, dharmadAsa and dignAga. Similarly not one
 belonging to the shrAvaka saMgha or a sthaviravAdin was able to stand
 them in a debate. As a result many of the saMghA had to go over to the
 tIrthika brAhmaNa-s and the latter robbed the saMgha of its property.
+

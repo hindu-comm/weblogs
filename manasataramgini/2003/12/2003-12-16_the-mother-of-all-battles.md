@@ -1,7 +1,11 @@
 +++
 title = "The mother of all battles"
+date = "2003-12-16"
+upstream_url = "https://manasataramgini.wordpress.com/2003/12/16/the-mother-of-all-battles/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2003/12/16/the-mother-of-all-battles/).
+
 The ruffians of Southern Saxony had always held the Indian armies in
 contempt. In one of the greatest battles of all times the princes of the
 Andhra and the Karnata country had destroyed the Saxon pride that had
@@ -38,3 +42,4 @@ with bare hands and strangled the Saxon thugs. With that the saffron
 Hindu flag flew over the bleak wastes of the Southern Continent. The
 final frontier had finally been crossed. It laid to rest the myths of
 Saxon mint.
+

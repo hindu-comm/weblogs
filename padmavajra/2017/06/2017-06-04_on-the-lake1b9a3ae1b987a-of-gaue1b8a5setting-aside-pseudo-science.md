@@ -1,8 +1,11 @@
 +++
-title = "On the lakṣaṇa of ‘gauḥ’,setting asidexa0pseudo-science"
-date = "2017-06-04"
+title = "On the lakṣaṇa of ‘gauḥ’,setting aside pseudo-science"
+date = "2017-04-06"
+upstream_url = "https://padmavajra.net/2017/06/04/on-the-lak%e1%b9%a3a%e1%b9%87a-of-gau%e1%b8%a5setting-aside-pseudo-science/"
 
 +++
+Source: [here](https://padmavajra.net/2017/06/04/on-the-lak%e1%b9%a3a%e1%b9%87a-of-gau%e1%b8%a5setting-aside-pseudo-science/).
+
 The lakṣaṇa of ‘gauḥ’ in Hindu tradition is to be determined by seeing
 what our pūrvācāryas have commented on this,and not on pseudoscientific
 nonsense like ‘desi cows are associated with gold nanoparticles’, ‘A2/A1

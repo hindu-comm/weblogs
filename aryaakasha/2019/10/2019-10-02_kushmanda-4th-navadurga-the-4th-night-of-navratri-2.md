@@ -1,8 +1,11 @@
 +++
-title = "Kushmanda – 4th Navadurga, The 4th Night ofxa0NavRatri"
-date = "October 2, 2019"
+title = "Kushmanda – 4th Navadurga, The 4th Night of NavRatri"
+date = "2019-10-02"
+upstream_url = "https://aryaakasha.com/2019/10/02/kushmanda-4th-navadurga-the-4th-night-of-navratri-2/"
 
 +++
+Source: [here](https://aryaakasha.com/2019/10/02/kushmanda-4th-navadurga-the-4th-night-of-navratri-2/).
+
 # ![d5a7494a825ce10746410f3ae623a2cd](https://aryaakasha.files.wordpress.com/2019/10/d5a7494a825ce10746410f3ae623a2cd.jpg?w=676)
 
 The Fourth Night of #NavRatri is dedicated to Ma as Kushmanda – the

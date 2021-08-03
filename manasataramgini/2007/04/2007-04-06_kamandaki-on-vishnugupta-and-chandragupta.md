@@ -1,15 +1,19 @@
 +++
 title = "kAmandaki on viShNugupta and chandragupta"
+date = "2007-04-06"
+upstream_url = "https://manasataramgini.wordpress.com/2007/04/06/kamandaki-on-vishnugupta-and-chandragupta/"
 
 +++
-yasyaabhichAra-vajreNa vajra-jvalana-tejasaH |  
-papAta mUlatash-shrImAn suparvA nanda parvataH ||  
-ekAkI mantra-shaktyA yash-shaktyA shakti-dharopamaH |  
-AjahAra nR^i-chandrAya chandraguptAya medinIm ||  
-nIti-shAstraamR^itaM dhImAn arthashAstra mahodadheH |  
-samuddadhre namas-tasmai viShNuguptAya vedhase ||  
-darshanAt-tasya sudR^isho vidyAnAM pAradR^ishvataH |  
-yat-ki\~nchid-upadekShyAmaH rAja-vidyA-vidAM matam ||
+Source: [here](https://manasataramgini.wordpress.com/2007/04/06/kamandaki-on-vishnugupta-and-chandragupta/).
+
+yasyaabhichAra-vajreNa vajra-jvalana-tejasaH \|  
+papAta mUlatash-shrImAn suparvA nanda parvataH \|\|  
+ekAkI mantra-shaktyA yash-shaktyA shakti-dharopamaH \|  
+AjahAra nR^i-chandrAya chandraguptAya medinIM \|\|  
+nIti-shAstraamR^itaM dhImAn arthashAstra mahodadheH \|  
+samuddadhre namas-tasmai viShNuguptAya vedhase \|\|  
+darshanAt-tasya sudR^isho vidyAnAM pAradR^ishvataH \|  
+yat-ki\~nchid-upadekShyAmaH rAja-vidyA-vidAM mataM \|\|
 
 By the vajra-like abhichAra of the one who shone like the flash of the
 vajra, the opulent mountain of the nanda-s fell root and branch.  
@@ -21,3 +25,4 @@ ocean of state-craft, to that wise viShNugupta our salutations.
 From the great work of that man, who had explored the limits of
 knowledge, we are going to extract and teach in brief the lore, as
 promulgated by the knowers of state-craft.
+

@@ -1,8 +1,11 @@
 +++
-title = "On The Archaic Notion Of The Indo-Europeanxa0Demigod"
-date = "July 12, 2021"
+title = "On The Archaic Notion Of The Indo-European Demigod"
+date = "2021-07-12"
+upstream_url = "https://aryaakasha.com/2021/07/12/on-the-archaic-notion-of-the-indo-european-demigod/"
 
 +++
+Source: [here](https://aryaakasha.com/2021/07/12/on-the-archaic-notion-of-the-indo-european-demigod/).
+
 ![](https://aryaakasha.files.wordpress.com/2021/07/perseus-holding.png?w=609)
 
 Recently, in the course of a discussion elsewhere, an occasional

@@ -1,8 +1,11 @@
 +++
-title = "On The Sky Disc, On The Solstice, On The Eclipse – A Bronze Age Commemorative Cartograph For The Sea Of Stars [Arte-Factsxa0#6]"
-date = "June 22, 2020"
+title = "On The Sky Disc, On The Solstice, On The Eclipse – A Bronze Age Commemorative Cartograph For The Sea Of Stars [Arte-Facts #6]"
+date = "2020-06-22"
+upstream_url = "https://aryaakasha.com/2020/06/22/on-the-sky-disc-on-the-solstice-on-the-eclipse-a-bronze-age-commemorative-cartograph-for-the-sea-of-stars-arte-facts-6/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/06/22/on-the-sky-disc-on-the-solstice-on-the-eclipse-a-bronze-age-commemorative-cartograph-for-the-sea-of-stars-arte-facts-6/).
+
 
 
 ![](https://aryaakasha.files.wordpress.com/2020/06/ddfc692cf449e643d7f03cd5324b53fe.jpg)

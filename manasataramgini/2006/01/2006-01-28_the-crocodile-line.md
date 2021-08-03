@@ -1,7 +1,13 @@
 +++
 title = "The crocodile line"
+date = "2006-01-28"
+upstream_url = "https://manasataramgini.wordpress.com/2006/01/28/the-crocodile-line/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2006/01/28/the-crocodile-line/).
+
+
+
 [![](https://i2.wp.com/photos1.blogger.com/hello/133/1300/400/Mara_crocodile.jpg)](http://photos1.blogger.com/hello/133/1300/640/Mara_crocodile.jpg)
 
 The footage of the carnage by the giant Nile crocodiles on the Mara
@@ -11,8 +17,8 @@ in the Indian Nullah. These Nile crocodiles, the mugger and their
 cousins are all that remains an old line of archosaurs that in their
 glory once rivaled their cousins who still rule the skies– the only
 surviving dinosaurs. While the dinosaurs justified the apellation
-“archosaur” for 135 million years of unbroken ecological dominance,
-the crocodile-line sporadically had its day. But their true period of
+“archosaur” for 135 million years of unbroken ecological dominance, the
+crocodile-line sporadically had its day. But their true period of
 ecological dominance was the Triassic. The carnage on Mara shows how
 this body design perfected in many basic ways even in the Triassic can
 hold its own perfectly fine in the world of the mammals. The Nile hunter
@@ -54,9 +60,10 @@ Sues and Olsen described this remarkable assemblage from the Late
 Triassic of Durham, where the rauisuchian skeleton was uncovered and
 found to contain its last meals described above and a Saltoposuchus-like
 crocodile under it with a bite mark in its neck. Thus the Triassic was
-the high-point of the crocodile-line in a croc-eat-croc world:
+the high-pointof the crocodile-line in a croc-eat-croc world:
 phytosaurs, ornithosuchids, prestosuchids, rauischids, aetosaurs and
 crocodylomorphs.
 
 [![](https://i0.wp.com/photos1.blogger.com/blogger/2010/410/320/junggarsuchus.0.jpg)](http://photos1.blogger.com/blogger/2010/410/1600/junggarsuchus.0.jpg)  
 *Junggarsuchus*, an early agile crocodylomorph with a fully erect gait
+

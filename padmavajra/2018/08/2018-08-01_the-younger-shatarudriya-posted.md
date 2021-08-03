@@ -1,8 +1,11 @@
 +++
 title = "The younger shatarudriya-posted"
-date = "2018-08-01"
+date = "2018-01-08"
+upstream_url = "https://padmavajra.net/2018/08/01/the-younger-shatarudriya-posted/"
 
 +++
+Source: [here](https://padmavajra.net/2018/08/01/the-younger-shatarudriya-posted/).
+
 On seeing this link about [this early hymn to
 śiva](https://manasataramgini.wordpress.com/2006/02/21/the-younger-shatarudriya/),I
 then went around looking for it,and found it in the śāntiparva(not

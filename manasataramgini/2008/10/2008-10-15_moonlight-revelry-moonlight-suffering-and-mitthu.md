@@ -1,7 +1,11 @@
 +++
 title = "Moonlight revelry, moonlight suffering and miTThu"
+date = "2008-10-15"
+upstream_url = "https://manasataramgini.wordpress.com/2008/10/15/moonlight-revelry-moonlight-suffering-and-mitthu/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2008/10/15/moonlight-revelry-moonlight-suffering-and-mitthu/).
+
 My pitAshrI reminded that me that many moons ago on this particular full
 moon we had lazed with our friends and clansmen on the terrace drinking
 flavored milky hoping that shivAsha\~Nkarau would pass over head asking
@@ -64,8 +68,8 @@ appears to belong to a similar tradition.
 
 At an earlier time we were experiencing the bhoga of the kAmikA, we
 hence turned to those verses cited by miTThu like:  
-* bhagasya maithune devi yat sukhaM mama jAyate |  
-na tat sukhaM japair homair na dAnais-tapasA.pi vA ||*(of course it is
+* bhagasya maithune devi yat sukhaM mama jAyate \|  
+na tat sukhaM japair homair na dAnais-tapasA.pi vA \|\|*(of course it is
 much longer prashaMsa of maithuna that might not be appreciated by a
 prudish modern Ayatollah)
 
@@ -74,3 +78,4 @@ our hand nor the dUtI in our embrace; only the pain of the grAhin’s
 grip. The pains of naraka seemed closer than the pleasure of 9 types of
 chumbana or 8 types of Ali\~Ngana. We had become a renunciate. Will the
 last 6 arrows be needed to save us?
+

@@ -1,8 +1,11 @@
 +++
-title = "Shaivite Coin Of Kushanshah  Peroz II – A Hindu God In Hindu Garb – Arte-Factsxa0#9"
-date = "October 24, 2020"
+title = "Shaivite Coin Of Kushanshah  Peroz II – A Hindu God In Hindu Garb – Arte-Facts #9"
+date = "2020-10-24"
+upstream_url = "https://aryaakasha.com/2020/10/24/shaivite-coin-of-kushanshah-peroz-ii-a-hindu-god-in-hindu-garb-arte-facts-9/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/10/24/shaivite-coin-of-kushanshah-peroz-ii-a-hindu-god-in-hindu-garb-arte-facts-9/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/10/122244012_10164298342990574_4973903683768444652_o.jpg?w=1024)
 
 Every so often, we happen across an artefact that seems to demand its

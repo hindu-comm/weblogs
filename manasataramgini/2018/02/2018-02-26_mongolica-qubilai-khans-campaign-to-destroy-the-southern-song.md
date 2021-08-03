@@ -1,7 +1,11 @@
 +++
 title = "Mongolica: Qubilai Khan’s campaign to destroy the Southern Song"
+date = "2018-02-26"
+upstream_url = "https://manasataramgini.wordpress.com/2018/02/26/mongolica-qubilai-khans-campaign-to-destroy-the-southern-song/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2018/02/26/mongolica-qubilai-khans-campaign-to-destroy-the-southern-song/).
+
 The final act in Mongol conquest of China shows the military capability
 of Qubilai and why his grandfather, the great Khan had singled him out
 as the one who someday would adorn his throne. We shall place here a
@@ -111,22 +115,23 @@ Seeing the rapidly unfolding of the Mongol plans, and being reduced to a
 patch around Hangzhou, the Song sent a emissary stating that they were
 willing to be a protectorate under the Mongols. Bayan sent him back
 saying that the Mongols were now aiming for complete conquest of the
-Song. Finally, in March 1275 the Mongols closed in on the Song capital
-and launched a simultaneously attack with two land armies and one naval
-force. The Song thought they would stave off the Mongols with their
-fire-arrow giant crossbows as they had done to the elephant corps of the
-Han several centuries before. However, they came up against an
-overwhelming bombardment by the Mongols with thousands upon thousands of
-iron-cased and earthen bombs hurled from trebuchets. The Song crossbows
-and seige engines caught fire and parts of the capital province were
-were hit from the bay by the naval attack of Mongols. The superior
-pyrotechnics of the Mongol destroyed the Song naval defenses and allowed
-their ships to close in on the capital. Then the Mongols launched their
-main land assault with the cavalry division under Bayan. The Song while
-having a larger force numerically could not match up to the
-tulughama-like sorties of the Mongols and eventually folded up. With
-that the main Song land resistance was over and the Song queen
-surrendered the capital to the Mongols without any resistance in
+Song. Qubilai had the Tibetan lama Dam pa perform rituals to Mahākāla
+and his mandala for his victory. Then in March 1275 the Mongols closed
+in on the Song capital and launched a simultaneously attack with two
+land armies and one naval force. The Song thought they would stave off
+the Mongols with their fire-arrow giant crossbows as they had done to
+the elephant corps of the Han several centuries before. However, they
+came up against an overwhelming bombardment by the Mongols with
+thousands upon thousands of iron-cased and earthen bombs hurled from
+trebuchets. The Song crossbows and seige engines caught fire and parts
+of the capital province were were hit from the bay by the naval attack
+of Mongols. The superior pyrotechnics of the Mongol destroyed the Song
+naval defenses and allowed their ships to close in on the capital. Then
+the Mongols launched their main land assault with the cavalry division
+under Bayan. The Song while having a larger force numerically could not
+match up to the tulughama-like sorties of the Mongols and eventually
+folded up. With that the main Song land resistance was over and the Song
+queen surrendered the capital to the Mongols without any resistance in
 February of 1276 CE.
 
 There was still a mighty Song fleet and the loyalists taking the two
@@ -191,3 +196,4 @@ In my childhood, one nice afternoon, I leaned against the cot in my room
 and lapsed into a reverie. This war flashed in before my eyes in great
 detail like a movie. Inspired by that we staged an enactment of the same
 which gave us much pleasure.
+

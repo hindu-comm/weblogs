@@ -1,25 +1,29 @@
 +++
 title = "Notes on the viShNu-virachita rudra stotram"
+date = "2011-04-28"
+upstream_url = "https://manasataramgini.wordpress.com/2011/04/28/notes-on-the-vishnu-virachita-rudra-stotram/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2011/04/28/notes-on-the-vishnu-virachita-rudra-stotram/).
+
 The early history of the imagery of rudra within the Indo-Aryan
 tradition (as an ortholog of the deities elsewhere in the Indo-European
 world, like Apollo and Odin) can be traced through a large body of
 texts. These include in approximate chronological order:  
-1\) The earliest layer in the R^igveda – RV 1.43; 1.114; 2.33 and 6.74
+1) The earliest layer in the R^igveda – RV 1.43; 1.114; 2.33 and 6.74
 among others.  
-2\) The nIlarudra and atharva-rudra sUkta-s of the AV-P and and
+2) The nIlarudra and atharva-rudra sUkta-s of the AV-P and and
 AV-vulgate respectively.  
-3\) The shatarUdrIya and the tryaMbaka homa mantra-s of the yajur-veda
+3) The shatarUdrIya and the tryaMbaka homa mantra-s of the yajur-veda
 saMhitA-s.  
-4\) The vrAtya rudra sUkta (AV-vulgate 15.5).  
-5\) The shUlagava mantra-s/kaushItakI shUlgava section.  
-6\) The mahAnArAyaNopaniShat.  
-7\) The shvetAshavataropaniShat.  
-8\) The atharvashiras.  
-9\) The AV parishiShTha on the pAshupata vrata.  
-10\) The mahAbharata – the ajAnana-virachita rudra stotra.  
-11\) The harivaMsha – viShNu-virachita rudra stotra.
+4) The vrAtya rudra sUkta (AV-vulgate 15.5).  
+5) The shUlagava mantra-s/kaushItakI shUlgava section.  
+6) The mahAnArAyaNopaniShat.  
+7) The shvetAshavataropaniShat.  
+8) The atharvashiras.  
+9) The AV parishiShTha on the pAshupata vrata.  
+10) The mahAbharata – the ajAnana-virachita rudra stotra.  
+11) The harivaMsha – viShNu-virachita rudra stotra.
 
 These offer an opportunity to examine the continuity and evolution in
 the emergence of the imagery of rudra. We shall now briefly examine the
@@ -30,59 +34,59 @@ with the head of a goat by rudra. It is found in the 87th chapter of the
 been composed by viShNu to praise rudra. The entire stotra is given
 below:
 
-namaste shitikaNThAya nIlagrIvAya vedhase |  
-namaste shochiShe astu namaste upavAsine ||3-87-13  
-namaste mIDhuShe astu namaste gadine hara |  
-namaste vishvatanave vR^iShAya vR^iSharUpiNe ||3-87-14  
-amUrtAya cha devAya namaste.astu pinAkine |  
-namaH kubjAya kUpAya shivAya shivarUpiNe ||3-87-15  
-namas tuShTAya tuNDAya namas tuTituTAya cha |  
-namaH shivAya shAntAya girishAya cha te namaH ||3-87-16  
-namo harAya viprAya namo hariharAya cha |  
-namo.aghorAya ghorAya ghora-ghora-tarAya cha ||3-87-17  
-namo.aghaNTAya ghaNTAya namo ghaTighaTAya cha |  
-namaH shivAya shAntAya girishAya cha te namaH ||3-87-18  
-namo virUparUpAya purAya purahAriNe |  
-nama AdyAya bIjAya shuchaye.aShTasvarUpiNe ||3-87-19  
-namaH pinAkahastAya namaH shUlAsidhAriNe |  
-namaH khaTvA\~Nga-hastAya namaste kR^ittivAsase ||3-87-20  
-namaste devadevAya nama AkAsha-mUrtaye |  
-harAya hari-rUpAya namaste tigmatejase ||3-87-21  
-bhaktapriyAya bhaktAya bhaktAnAM varadAyine |  
-namo.abhramUrtaye deva jagan-mUrtidharAya cha ||3-87-22  
-namash-chandrAya devAya sUryAya cha namo namaH |  
-namaH pradhAna-devAya bhUtAnAM-pataye namaH ||3-87-23  
-karAlAya cha muNDAya vikR^itAya kapardine |  
-ajAya cha namastubhyaM bhUtabhAvanabhAvana ||3-87-24  
-namo.astu harikeshAya pi\~NgalAya namo namaH |  
-namaste.abhIShuhastAya bhIrubhIruharAya cha ||3-87-25  
-harAya bhItirUpAya ghorANAM-bhItidAyine |  
-namo dakSha-makhaghnAya bhaga-netrApahAriNe ||3-87-26  
-umApate namastubhyaM kailAsa-nilayAya cha |  
-AdidevAya devAya bhavAya bhavarUpiNe ||3-87-27  
-namaH kapAlahastAya namo.aja-mathanAya cha |  
-tryambakAya namastubhyaM tryakShAya cha shivAya cha ||3-87-28  
-varadAya vareNyAya namaste chandrashekhara |  
-nama idhmAya haviShe dhruvAya cha kR^ishAya cha ||3-87-29  
-namaste shaktiyuktAya nAgapAshapriyAya cha |  
-virUpAya surUpAya madya-pAna-priyAya cha ||3-87-30  
-shmashAna-rataye nityaM jaya-shabda-priyAya cha |  
-khara-priyAya kharvAya kharAya khara-rUpiNe ||3-87-31  
-bhadra-priyAya bhadrAya bhadra-rUpa-dharAya cha |  
-virUpAya surUpAya mahAghorAya te namaH ||3-87-32  
-ghaNTAya ghaNTabhUShAya ghaNTa-bhUShaNa-bhUShiNe |  
-tIvrAya tIvra-rUpAya tIvra-rUpa-priyAya cha ||3-87-33  
-nagnAya nagna-rUpAya nagna-rUpa-priyAya cha |  
-bhUtAvAsa namastubhyaM sarvAvAsa namo namaH ||3-87-34  
-namaH sarvAtmane tubhyam namaste bhUtidAyaka |  
-namaste vAmadevAya mahAdevAya te namaH ||3-87-35  
-kA nu vAk-stuti-rUpA te ko nu stotuM prashaknuyAt |  
-kasya vA sphurate jihvA stutau stutimatAM vara ||3-87-36
+namaste shitikaNThAya nIlagrIvAya vedhase \|  
+namaste shochiShe astu namaste upavAsine \|\|3-87-13  
+namaste mIDhuShe astu namaste gadine hara \|  
+namaste vishvatanave vR^iShAya vR^iSharUpiNe \|\|3-87-14  
+amUrtAya cha devAya namaste.astu pinAkine \|  
+namaH kubjAya kUpAya shivAya shivarUpiNe \|\|3-87-15  
+namas tuShTAya tuNDAya namas tuTituTAya cha \|  
+namaH shivAya shAntAya girishAya cha te namaH \|\|3-87-16  
+namo harAya viprAya namo hariharAya cha \|  
+namo.aghorAya ghorAya ghora-ghora-tarAya cha \|\|3-87-17  
+namo.aghaNTAya ghaNTAya namo ghaTighaTAya cha \|  
+namaH shivAya shAntAya girishAya cha te namaH \|\|3-87-18  
+namo virUparUpAya purAya purahAriNe \|  
+nama AdyAya bIjAya shuchaye.aShTasvarUpiNe \|\|3-87-19  
+namaH pinAkahastAya namaH shUlAsidhAriNe \|  
+namaH khaTvA\~Nga-hastAya namaste kR^ittivAsase \|\|3-87-20  
+namaste devadevAya nama AkAsha-mUrtaye \|  
+harAya hari-rUpAya namaste tigmatejase \|\|3-87-21  
+bhaktapriyAya bhaktAya bhaktAnAM varadAyine \|  
+namo.abhramUrtaye deva jagan-mUrtidharAya cha \|\|3-87-22  
+namash-chandrAya devAya sUryAya cha namo namaH \|  
+namaH pradhAna-devAya bhUtAnAM-pataye namaH \|\|3-87-23  
+karAlAya cha muNDAya vikR^itAya kapardine \|  
+ajAya cha namastubhyaM bhUtabhAvanabhAvana \|\|3-87-24  
+namo.astu harikeshAya pi\~NgalAya namo namaH \|  
+namaste.abhIShuhastAya bhIrubhIruharAya cha \|\|3-87-25  
+harAya bhItirUpAya ghorANAM-bhItidAyine \|  
+namo dakSha-makhaghnAya bhaga-netrApahAriNe \|\|3-87-26  
+umApate namastubhyaM kailAsa-nilayAya cha \|  
+AdidevAya devAya bhavAya bhavarUpiNe \|\|3-87-27  
+namaH kapAlahastAya namo.aja-mathanAya cha \|  
+tryambakAya namastubhyaM tryakShAya cha shivAya cha \|\|3-87-28  
+varadAya vareNyAya namaste chandrashekhara \|  
+nama idhmAya haviShe dhruvAya cha kR^ishAya cha \|\|3-87-29  
+namaste shaktiyuktAya nAgapAshapriyAya cha \|  
+virUpAya surUpAya madya-pAna-priyAya cha \|\|3-87-30  
+shmashAna-rataye nityaM jaya-shabda-priyAya cha \|  
+khara-priyAya kharvAya kharAya khara-rUpiNe \|\|3-87-31  
+bhadra-priyAya bhadrAya bhadra-rUpa-dharAya cha \|  
+virUpAya surUpAya mahAghorAya te namaH \|\|3-87-32  
+ghaNTAya ghaNTabhUShAya ghaNTa-bhUShaNa-bhUShiNe \|  
+tIvrAya tIvra-rUpAya tIvra-rUpa-priyAya cha \|\|3-87-33  
+nagnAya nagna-rUpAya nagna-rUpa-priyAya cha \|  
+bhUtAvAsa namastubhyaM sarvAvAsa namo namaH \|\|3-87-34  
+namaH sarvAtmane tubhyam namaste bhUtidAyaka \|  
+namaste vAmadevAya mahAdevAya te namaH \|\|3-87-35  
+kA nu vAk-stuti-rUpA te ko nu stotuM prashaknuyAt \|  
+kasya vA sphurate jihvA stutau stutimatAM vara \|\|3-87-36
 
-kShamasva bhagavan-deva bhakto.ahaM trAhi mAM hara |  
-sarvAtman-sarvabhUtesha trAhi mAM satatam hara||3-87-37  
-rakSha deva jagannAtha lokAn sarvAtmanA hara |  
-trAhi bhaktAn sadA deva bhaktapriya sadA hara ||3-87-38
+kShamasva bhagavan-deva bhakto.ahaM trAhi mAM hara \|  
+sarvAtman-sarvabhUtesha trAhi mAM satatam hara\|\|3-87-37  
+rakSha deva jagannAtha lokAn sarvAtmanA hara \|  
+trAhi bhaktAn sadA deva bhaktapriya sadA hara \|\|3-87-38
 
 The attributes that can be traced to earlier texts are:  
 shitikaNTha (the fair-throated one): YV saMhitA  
@@ -141,7 +145,7 @@ stuti are of Vedic provenance and cover the entire temporal spectrum of
 Vedic development all the way from the RV to the late upaniShat and
 parishiShTha texts. However, the stuti shows some developments that have
 no apparent precedence in much of the surviving Vedic corpus:  
-1\) rudra as the bearer of the shUla. Right in the RV, rudra is
+1) rudra as the bearer of the shUla. Right in the RV, rudra is
 repeatedly described as tigmAyudha or tigmaheti, i.e., one with a sharp
 weapon (may be a cognate of Odin’s spear). However, nowhere is this
 weapon specified as being a shUla or a trishUla. The word shUla itself
@@ -204,18 +208,18 @@ the epic layer.
 
 4\) chandrashekhara. Right from the veda, rudra was identified with the
 sun and the moon. Thus, in the rudra recitation of the kaushitaki
-brAhmaNa we have: “yan mahAn deva Adityas tena |” and “yad rudrash
-chandramAs tena |”. This is reproduced in the above stuti in:
-“namash-chandrAya devAya sUryAya cha namo namaH |”. However, in the
+brAhmaNa we have: “yan mahAn deva Adityas tena \|” and “yad rudrash
+chandramAs tena \|”. This is reproduced in the above stuti in:
+“namash-chandrAya devAya sUryAya cha namo namaH \|”. However, in the
 texts associated with the great epic we have for the first time an
 iconographic regarding rudra as the bearer of the lunar digit. A lunar
 association of rudra might be concealed under the vaidika dvandva
-“somArudrA”. Also related to this link is the fact that in the
-Eurasian bronze age we find several horned deities. At least in
-Mesopotamia the bovine horns are taken to represent the crescent moon
-(e.g. on Nannar or Marduk’s headgear). Hence, it is possible that the
-lunar crest of rudra is a more direct representation of the horns that
-are so common in the iconography of bronze age Eurasian deities.
+“somArudrA”. Also related to this link is the fact that in the Eurasian
+bronze age we find several horned deities. At least in Mesopotamia the
+bovine horns are taken to represent the crescent moon (e.g. on Nannar or
+Marduk’s headgear). Hence, it is possible that the lunar crest of rudra
+is a more direct representation of the horns that are so common in the
+iconography of bronze age Eurasian deities.
 
 5\) The lover of liquors, madya-pAna-priya. The use of psycho-active
 substances by rudra and his followers is not unknown in the veda itself.
@@ -287,8 +291,8 @@ the dread to rudra.
 vikR^iti-s to the R^ik RV 2.33.1 so that the fury of rudra does not fall
 on the yajamAna:  
 In place of the actual mantra he recites:  
-A te pitar marutAM sumnam etu mA naH sUryasya sandR^iSho yuyothAH |  
-tvaM no vIro arvati kShameta pra jAyemahi rudriya prajAbhiH ||  
+A te pitar marutAM sumnam etu mA naH sUryasya sandR^iSho yuyothAH \|  
+tvaM no vIro arvati kShameta pra jAyemahi rudriya prajAbhiH \|\|  
 This brAhmaNa tradition holds that by using “tvaM naH” in place of the
 original “abhi naH” rudra is not directed toward the yajamAna’s family
 and cattle. By using rudriya instead of rudra he reduces the terror
@@ -296,7 +300,8 @@ arising from the mention of the real name of rudra, who has just been
 described in the brAhmaNa as having slain prajApati. Alternatively the
 hotar might entirely drop this mantra and substitute it with the gAyatrI
 to rudra composed by gotamo rAhUgaNa (RV 1.43.6):  
-shaM naH karatyarvate sugaM meShAya meShye | nR^ibhyo nAribhyo gave ||  
+shaM naH karatyarvate sugaM meShAya meShye \| nR^ibhyo nAribhyo gave
+\|\|  
 The brAhmaNa explains this substitution by indicating that this mantra
 does not mention rudra by name and thereby averts the terror arising
 from the mention of his name. Secondly, it begins with the positive word
@@ -335,3 +340,4 @@ srotas: hAhAkAraM, shivAravaM, ghorATTahAsaM and ghurghuraM). This led
 to the kApAlika tradition of the atimArga that was a mirror of the more
 purity emphasizing pAshupata-s (that is the version of the atimArga
 based on the somasiddhAnta texts).
+

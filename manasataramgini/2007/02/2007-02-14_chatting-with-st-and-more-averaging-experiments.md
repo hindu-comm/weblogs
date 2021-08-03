@@ -1,7 +1,11 @@
 +++
 title = "Chatting with ST and more averaging experiments"
+date = "2007-02-14"
+upstream_url = "https://manasataramgini.wordpress.com/2007/02/14/chatting-with-st-and-more-averaging-experiments/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/02/14/chatting-with-st-and-more-averaging-experiments/).
+
 [![](https://i0.wp.com/bp0.blogger.com/_ZhvcTTaaD_4/RdJ7Ye8rbtI/AAAAAAAAADk/RSlTORihyME/s320/madhyA_clean.jpg)](http://bp0.blogger.com/_ZhvcTTaaD_4/RdJ7Ye8rbtI/AAAAAAAAADk/RSlTORihyME/s1600-h/madhyA_clean.jpg)[![](https://i0.wp.com/bp0.blogger.com/_ZhvcTTaaD_4/RdJ7Re8rbsI/AAAAAAAAADc/3lsuU-cDX4A/s320/madhyA_bindu_clean.jpg)](http://bp0.blogger.com/_ZhvcTTaaD_4/RdJ7Re8rbsI/AAAAAAAAADc/3lsuU-cDX4A/s1600-h/madhyA_bindu_clean.jpg)
 
 We were hemmed in by the terrible fury of vAta and rudra which gave us
@@ -43,7 +47,7 @@ days of 2003\] we covered many topics. To both our memories almost
 convergently came the day when we climbed to the kauNDinya caves and
 rested at ancient pillared temple on the way– for a while we were
 transported to that condition, which only exists in the consciousness
-and breaks up if it comes out in words\! But then like a dropped stone
+and breaks up if it comes out in words! But then like a dropped stone
 breaking the surface of a pellucid pond ripples burst through the the
 pond of the chit breaking up all images. Then I took advantage of ST’s
 knowledge of the Dravida language to clarify certain points, the
@@ -59,3 +63,4 @@ were inundated but none ever satisfied.”
 
 [![](https://i2.wp.com/bp3.blogger.com/_ZhvcTTaaD_4/ReTTMLullTI/AAAAAAAAAEM/Lu3ZL1oUPRM/s320/new_madhya3.jpg)](http://bp3.blogger.com/_ZhvcTTaaD_4/ReTTMLullTI/AAAAAAAAAEM/Lu3ZL1oUPRM/s1600-h/new_madhya3.jpg)  
 Only brAhmaNa with correction for aspect ratio
+

@@ -1,8 +1,11 @@
 +++
-title = "Āgāmavāgiśa’s dhyānas from Bṛhat Tantrasāra that more closely match the Kālī mūrtis in Bengal than the one popularlyxa0recited"
+title = "Āgāmavāgiśa’s dhyānas from Bṛhat Tantrasāra that more closely match the Kālī mūrtis in Bengal than the one popularly recited"
 date = "2019-04-28"
+upstream_url = "https://padmavajra.net/2019/04/28/agamavagisas-dhyanas-from-b%e1%b9%9bhat-tantrasara-that-more-closely-match-the-kali-murtis-in-bengal-than-the-one-popularly-recited/"
 
 +++
+Source: [here](https://padmavajra.net/2019/04/28/agamavagisas-dhyanas-from-b%e1%b9%9bhat-tantrasara-that-more-closely-match-the-kali-murtis-in-bengal-than-the-one-popularly-recited/).
+
 The one that is ‘popularly recited’ in many places runs
 
 करालवदनां घोरं मुक्तकेशीं चतुर्भुजं । कालिका दक्षिणां दिव्यां मुण्डमाला

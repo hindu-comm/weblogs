@@ -1,8 +1,11 @@
 +++
-title = "Of Hittites And Hindus And Their Respective Differing Receptions Amidstxa0Some"
-date = "November 22, 2020"
+title = "Of Hittites And Hindus And Their Respective Differing Receptions Amidst Some"
+date = "2020-11-22"
+upstream_url = "https://aryaakasha.com/2020/11/22/of-hittites-and-hindus-and-their-respective-differing-receptions-amidst-some/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/11/22/of-hittites-and-hindus-and-their-respective-differing-receptions-amidst-some/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/11/552fcf2ca9ce6a96b8400107c6d2991e.jpg?w=848)
 
 We often hear people attack Hinduism as being ‘impure’ from an

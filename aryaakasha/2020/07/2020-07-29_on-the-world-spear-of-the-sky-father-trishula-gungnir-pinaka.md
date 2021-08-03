@@ -1,8 +1,11 @@
 +++
-title = "On The World-Spear of the Sky Father – Trishula, Gungnir,xa0Pinaka"
-date = "July 29, 2020"
+title = "On The World-Spear of the Sky Father – Trishula, Gungnir, Pinaka"
+date = "2020-07-29"
+upstream_url = "https://aryaakasha.com/2020/07/29/on-the-world-spear-of-the-sky-father-trishula-gungnir-pinaka/"
 
 +++
+Source: [here](https://aryaakasha.com/2020/07/29/on-the-world-spear-of-the-sky-father-trishula-gungnir-pinaka/).
+
 ![](https://aryaakasha.files.wordpress.com/2020/07/shiva-trishul.jpg?w=1000)
 
 One of the most iconic identifying attributes of the Indo-European Sky

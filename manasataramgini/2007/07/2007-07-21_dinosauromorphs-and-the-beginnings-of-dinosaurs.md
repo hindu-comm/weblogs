@@ -1,7 +1,13 @@
 +++
 title = "Dinosauromorphs and the beginnings of dinosaurs"
+date = "2007-07-21"
+upstream_url = "https://manasataramgini.wordpress.com/2007/07/21/dinosauromorphs-and-the-beginnings-of-dinosaurs/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2007/07/21/dinosauromorphs-and-the-beginnings-of-dinosaurs/).
+
+
+
 [![](https://i2.wp.com/bp2.blogger.com/_ZhvcTTaaD_4/RqGmYR_WxfI/AAAAAAAAAMs/HA5HBG9_pew/s320/dinosauromorphs.jpg)](http://bp2.blogger.com/_ZhvcTTaaD_4/RqGmYR_WxfI/AAAAAAAAAMs/HA5HBG9_pew/s1600-h/dinosauromorphs.jpg)
 
 The crocodilians and birds are the only the surviving representatives of
@@ -69,3 +75,4 @@ anterior structure of the dentary in the Silesaurus and Sachisaurus like
 forms might be the precursor of the predentary, a synapomorphy of the
 ornithischians. This raises the possibility that after all these forms
 might represent very primitive ornithischians (?).
+

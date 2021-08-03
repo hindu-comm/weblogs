@@ -1,7 +1,11 @@
 +++
 title = "Some aspects of vaikhAnasa iconic worship and their parallels"
+date = "2009-01-11"
+upstream_url = "https://manasataramgini.wordpress.com/2009/01/11/some-aspects-of-vaikhanasa-iconic-worship-and-their-parallels/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2009/01/11/some-aspects-of-vaikhanasa-iconic-worship-and-their-parallels/).
+
 The spread of iconoclastic Zarathushtran and Abrahamistic cults over
 Eurasia have all but destroyed most traces of ancient iconic worship. In
 the midst of this destruction, which relentlessly continues under the
@@ -75,37 +79,37 @@ AtmAtmA paramAntarAtmA mahy-antarAtmA
 yash chAtirAtmA \[drAviDa pATha; AndhrapATha= chAdirAtmA\] sa tu \[ some
 reciters= sa tano \] no .antarAtmA  
 vyAveShTi vishva(g)M sakalaM bibharti  
-yo vyakta-puNyas sa-tunaH pradhAnaH || 1 ||  
+yo vyakta-puNyas sa-tunaH pradhAnaH \|\| 1 \|\|  
 prANaH praNItis sa udAna Adir  
 vara-do varAho vyAnash cha me syAt  
 tapasA\~n cha mUrtiH kapilo munIndro  
-yash chApAno hayashIrSho naH || 2 ||  
+yash chApAno hayashIrSho naH \|\| 2 \|\|  
 yat sarvam ashnAty ajaras samagra(g)M  
 shriyam Urja-yuktAM sa tu me samAnaH  
 balam AsuraM yat satataM nihantA  
-brahmA buddhir me gopa IshvaraH || 3 ||  
+brahmA buddhir me gopa IshvaraH \|\| 3 \|\|  
 savitA cha vIryam indush cha dhAtu  
 rasa-bhUtam-bhUtA bhUtAs sa-bhUtAH  
 dyaur me astu mUrdhodara-nAbho vA  
-bhUmir yathA\~Nghrir vavR^idhe .aham IshaH || 4 ||  
+bhUmir yathA\~Nghrir vavR^idhe .aham IshaH \|\| 4 \|\|  
 asthIni me syur atha parvatAkhyA  
 bhujagAsh cha keshA divi ye charantaH  
 dvau netra-rUpau vithu pR^ishni mukhyau  
-rudhiraM cha sAra(g)M sakalaM cha toyam || 5 ||  
+rudhiraM cha sAra(g)M sakalaM cha toyam \|\| 5 \|\|  
 snAyavo me Asan nadIr bhR^igur me hR^idayam astu  
 sarve anye munayo .a\~Nga-bhUtAH  
 vedA me AsyaM jihvA me sarasvatI  
-dantA maruta upajihvA upashrutiH || 6 ||  
+dantA maruta upajihvA upashrutiH \|\| 6 \|\|  
 vR^iShaNau mitrA-varuNAv upasthaH prajA-patir  
 AntrA me vedAsh shruti-smR^itI medAdhAraNe  
 svedam me varShaM mUtra kosha(g)M samudraM  
-purIShaM kA\~nchanam || 7 ||  
+purIShaM kA\~nchanam \|\| 7 \|\|  
 sAvitrI gAyatrI maryAdA vedI \[vede in certain manuscripts\]  
 hR^it-puNDarIke vimale praviShTas  
 sakalas sa-lakShmIs sa-vibhUtikA\~Ngo  
-yat sarvaM puNyaM mayy adhiShThAnam astu || 8 ||  
+yat sarvaM puNyaM mayy adhiShThAnam astu \|\| 8 \|\|  
 sarveShAM devAnAm Atmakas sarveShAM  
-munInAm Atmakas tapo-mUrtir iha puNya-mUrtir Asan || 9 ||
+munInAm Atmakas tapo-mUrtir iha puNya-mUrtir Asan \|\| 9 \|\|
 
 An examination of the AtmasUkta shows that there is a mix of typical
 vedic and classical features suggesting its composition towards the end
@@ -164,25 +168,25 @@ the old vaikhAnasa ritual. In fact they do not seem to appear in any of
 the old saMhitA-s, which only specify the basic mantra-s for each
 nyAsa.  
 hR^idaya (touching of heart): brahma brahmAntarAtmA brahma-pUtAntarAtmA
-brahmaNi brahma-niShTho brahma-gupto gupto .aham asmi ||  
-shiras: dyaur dyaur asi sarva ime prANA sthANava Asan ||  
+brahmaNi brahma-niShTho brahma-gupto gupto .aham asmi \|\|  
+shiras: dyaur dyaur asi sarva ime prANA sthANava Asan \|\|  
 shikhA: shikhe udvartayAmi sa-vedAs sa-mantrAs sArShAs sa-somA devAH
-parivartayantAm ||  
+parivartayantAm \|\|  
 kavacha: devAnAm ayudhaiH paribAdhayAmi brahmaNo mantrair IshasyojasA
-bhR^igUNAm a\~NgirasAM tapasA sarvam Atanomi ||  
+bhR^igUNAm a\~NgirasAM tapasA sarvam Atanomi \|\|  
 \[This kavacha formula might be translated approximately as: By the
 deva-s weapons I block \[the attackers\], by the brahman power of
 mantra-s, by the manly strength of Isha(i.e. rudra) and by the heat of
 the bhR^igu-s and a\~Ngirasa-s I pervade every thing. The last phrase is
 reminiscent of the yajurvedic incantation during the laying of the
 kapAla-s: bhR^igUNAM a\~NgirasAM tapasA tapyadhvaM.\]  
-astra: nArAyaNAya vidmahe vAsudevAya dhImahi | tan no viSNuH prachodayAt
-||  
-sudarshanam abhigR^ihNAmi | ravipAm abhigR^ihNAmi ||  
+astra: nArAyaNAya vidmahe vAsudevAya dhImahi \| tan no viSNuH
+prachodayAt \|\|  
+sudarshanam abhigR^ihNAmi \| ravipAm abhigR^ihNAmi \|\|  
 dakShiNa netra: sUryo .asi sUryAntarAtmA chakShur asi sarvam asi sarvaM
-dhehi ||  
+dhehi \|\|  
 vAma netra: chandro .asi yaj\~no .asi yaj\~nAyAdhAnam asi yaj\~nasya
-ghoShad asi ||  
+ghoShad asi \|\|  
 Then the officiant carries out bIja-dhyAna by meditating upon the
 Adi-bIja: a  
 Some vaikhAnasa-s hold that the akAra bIja should be surrounded by OM-s
@@ -190,8 +194,8 @@ Some vaikhAnasa-s hold that the akAra bIja should be surrounded by OM-s
 ritualist performs karanyAsa by invoking the devatA-s: AbhuraNya, vidhi,
 yaj\~naM, brahmA, indra on the five fingers. Then he performs the
 brahmaikvatva dhyAna with the formula:  
-antar asminn ime lokAH antar vishvaM idaM jagat | brahmaiva bhUtAnAM
-jyeSThaM tena ko .arhati spardhitum ||  
+antar asminn ime lokAH antar vishvaM idaM jagat \| brahmaiva bhUtAnAM
+jyeSThaM tena ko .arhati spardhitum \|\|  
 This formula resembles the atharva vedic kANDa tarpaNa formula
 (AV-vulgate 19.22.21 and 19.23.30)
 
@@ -225,3 +229,4 @@ shrauta ritual of saMbandha with the agnir me vAchiH. But the early
 development of the temple ritual amongst the vaikhAnasa-s resulted in
 these nyAsa-s being incorporated into their larger system of public
 iconic worship.
+

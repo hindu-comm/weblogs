@@ -1,7 +1,11 @@
 +++
 title = "This time it is the big man’s story"
+date = "2015-07-20"
+upstream_url = "https://manasataramgini.wordpress.com/2015/07/20/this-time-its-the-big-mans-story-2/"
 
 +++
+Source: [here](https://manasataramgini.wordpress.com/2015/07/20/this-time-its-the-big-mans-story-2/).
+
 Vidrum was hurrying back to his office after a quick dinner. As he did
 so he mentally rued the fact that every time he found his way out of one
 problem in life a new one came upon him. Once in his office he rummaged
@@ -110,7 +114,7 @@ needing our attention, they would have told us of it.”
 ◊◊◊◊◊◊◊
 
 In the meantime Vrishchika picked up her kid and went to see Lootika at
-home. Settling down on the chair in Lootika’s kitchen she said: “agrajā,
+home. Settlingdown on the chair in Lootika’skitchen she said: “agrajā,
 I heard the details of the tragic case of Prof. Suryaprakash from
 Vidrum. He seems to have contracted a disease with several
 manifestations suggestive of Creutzfeldt–Jakob disease. However, they
@@ -129,7 +133,7 @@ mutations deleting parts of the N-terminal region or it could have been
 an octapeptide expansion, and may be they failed to detect it?”
 
 Vrishchika: “Yes all that came to mind when Vidrum informed me but they
-have all been ruled out. In fact his Prnp is totally normal\!”  
+have all been ruled out. In fact his Prnp is totally normal!”  
 Lootika: “Then it is something else which is resulting in similar
 symptoms. May be there is some issue with the doppel protein or the
 shadoo protein?”  
@@ -182,7 +186,7 @@ may recall how the two of us then narrowly outran the mleccha rogue in
 that race. That dhūrta McKnight does know how to make those organisms
 and I have reason to believe he has made several of them for the
 mleccha-senā. But then he is two oceans away from us and what reason
-does he have to target Suryaprakash\!”
+does he have to target Suryaprakash!”
 
 Vrishchika: “I hear all your objections. I will check more carefully
 again. That is why I need the *S.neurona* primers from you. We were
@@ -204,8 +208,8 @@ such a such a bug with different specifications. We will know if that
 was really done.”  
 Vrishchika: “But let us make sure this evening that there has been no
 tampering of your biological storage. I just needed to tell you this for
-I think there is more to it than we know right now. Let me now go back
-home – I need to get something ready for dinner.”
+I think there is more to it thanwe know right now. Let me now goback
+home– I need to get something ready for dinner.”
 
 ◊◊◊◊◊◊◊
 
@@ -248,7 +252,7 @@ Gupta was presenting, when suddenly she saw a data figure on his slide
 where two bands seemed exactly the same. But they had been pasted at
 different positions as though they were reporting the expression of two
 different genes on the gel. She remarked to herself: “That looks very
-strange indeed\!” As Gupta went on he said: “This miRNA is showing great
+strange indeed!” As Gupta went on he said: “This miRNA is showing great
 promise and we developed therapeutic RNAs in collaboration with Prof.
 Sterling McKnight, which were being subject to a large trial by Dr.
 Suryaprakash in your department. I am grieved to hear that he has
@@ -261,10 +265,10 @@ just visited your school recently in this regard.”
 
 As the talk concluded Vrishchika was tempted to ask Gupta about those
 figures but it suddenly hit her then that she was staring at something
-which might be linked to the other matter that had startled her some
+which might be linked to the other matter thathad startled her some
 days back. Hence, she kept quiet. A throng of students surrounded Dr. BK
-Gupta, each vying for his attention, and some seeing him as a possible
-conduit to make it to the lab of the great Prof. Junkberg. Just then
+Gupta, each vying for his attention, and some seeing him as apossible
+conduitto make it to the lab of the great Prof. Junkberg. Just then
 Vrishchika’s student came up to her and asked her if it might be worth
 exploring such pleotropic miRNAs. Vrishchika: “Look more closely at his
 work and the data there might be something more than what it seems.” The
@@ -273,7 +277,7 @@ formed around him saying that he needed to go to his next meeting with
 faculty. As they were walking him to his next appointment, the chairman
 separated from the rest of the crowd a bit and turning to Vrishchika
 said: “Did you like the talk?”  
-Vrishchika: “The talk had several notable points and we may discuss it
+Vrishchika: “The talk had several notable points and we maydiscuss it
 at length when time permits.”
 
 Realizing that she might not want to talk about it with Dr. Gupta within
@@ -289,7 +293,7 @@ on metal: “You see she is a high caste brahmin; they don’t wine and dine
 with us groundlings.”
 
 One part of Vrishchika wanted her to lash out in response to all this,
-but realizing that sometimes it is a good thing to keep the sting
+but realizing that sometimes it isa good thing to keep the sting
 hidden, she stated with a coy smile: “I have a little kid who needs some
 attention, else I would have been there with you all.” Most of her
 colleagues murmured sympathetically and proceeded their way. Vrishchika
@@ -313,14 +317,14 @@ monocyte culture and had sent its genome for sequencing. The sequence
 was to be ready for them to examine that evening.
 
 As they looked at the genome browser in Vrishchika’s lab it became clear
-that the *S.neurona* had the engineered *Mucor* chitinase inhibitor gene
+that the *S.neurona*had the engineered *Mucor* chitinase inhibitor gene
 fused to the 3′ end of the secreted apicomplexan HAD phosphatase gene.
 Then there were three ZU5-DLD genes with a signal peptide region derived
 from the secreted kinase engineered into the genome. They were all the
 alternative versions noted in Lootika’s paper but not the one they had
 used in their experiments. Seeing that Lootika remarked: “Hey you were
 right it is certainly this *S.neurona* after all. What’s more is that it
-is likely the creation of Sterling McKnight\!”  
+is likely the creation of Sterling McKnight!”  
 Vrishchika: “Today I heard something interesting in the talk of this guy
 BK Gupta who is from the lab of this hotshot cancer biologist, Junkberg.
 Apparently, McKnight and Suryaprakash were collaborating on a treatment
@@ -350,7 +354,7 @@ should be cautious at this stage and I believe we are best suited to
 investigate this further ourselves. It is our hunch that he has done it
 but how did Suryaprakash receive this bug. I wonder if he had visited
 McKnight or McKnight had come here. Can we find out? If the former
-was the case, he could always say Suryaprakash accidentally caught the
+wasthe case, he could always say Suryaprakash accidentally caught the
 infection while visiting the McKnight lab – after all they were
 collaborating. Moreover, in principle someone else could have also
 engineered something like this.”  
@@ -429,8 +433,8 @@ On Saturday they all convened for lunch at Somakhya’s house. After the
 kids got busy with their games the sisters filled in Somakhya and
 Indrasena about their adventures, with Vrishchika capping it with the
 latest information she had obtained from Vidrum.  
-Somakhya and Indrasena: “Wow\! you girls have waded into some really
-crazy stuff\!”  
+Somakhya and Indrasena: “Wow! you girls have waded into some really
+crazy stuff!”  
 Lootika with a look of despair: “But if Suryprakash only went to
 Dārubilapattana the McKnight theory falls apart; he is after all at the
 other end of the country.”  
@@ -438,8 +442,8 @@ Indrasena: “Wait a minute let me check something. As luck would have it,
 I was a teacher at one of the parallel courses being done at
 Dārubilapattana and I see that one of the directors of the course
 Suryaprakash was attending was none other than the dhūrta McKnight; He
-was the one supervising the labs\!”  
-Lootika: “Ah that clinches it in my mind\!”  
+was the one supervising the labs!”  
+Lootika: “Ah that clinches it in my mind!”  
 Somakhya: “In the meantime I have got the other piece of the puzzle,
 which completes the picture and we can explain everything now. That
 Tokyo conference is part of a series where I was a speaker. Hence, I
@@ -458,7 +462,7 @@ Lootika: “Ah that finally cleans up the problem I was having all along.
 These trials could have never worked in the fair world. Given this, why
 would Mcknight need to see Suryaprakash as a competitive threat because
 after all the latter’s trials would have not worked in the first place
-compared to his fake results\! Now I see that Mcknight needed to get rid
+compared to his fake results! Now I see that Mcknight needed to get rid
 of Suryaprakash because he threatened to completely overturn McKnight’s
 high-profile article based on fake results that was just submitted.”
 
@@ -515,17 +519,17 @@ would forget all of that by the time the course ended: so what was
 important was the thought process and not the names of those proteins.
 Then he would reveal his much vaunted critical thinking, which was so
 thoroughly disconnected from the foundations of biology that it did not
-matter if a homeodomain protein HoxD10 that bound DNA  was replaced with
+matter if a homeodomain protein HoxD10 that bound DNA was replaced with
 a cytoskeleton-regulating GTPase RhoC. From this forge of Junkberg
 emerged many a man – BK Gupta, Sonenberg, Schimmeler, Yi Chang and
 perhaps others, each forging his own way as per the data-free critical
 process proclaimed by the big man, thus toxifying the science like a
-blast at Fukushima.
+blast at Fukushima.”
 
-Vrishchika: “hanta\! Sonenberg? That is the guy Vidrum is working
-with\!”  
+Vrishchika: “hanta! Sonenberg? That is the guy Vidrum is working
+with!”  
 Lootika: “Perhaps, you should gingerly warn him that he might sliding
-down a slippery slope\!”
+down a slippery slope!”
 
 ◊◊◊◊◊◊◊
 
@@ -535,7 +539,7 @@ Vrishchika: “OK”
 Vidrum: “I always knew your sister and you had a competitive streak
 right from our school days but you need not have acted in this mean
 fashion. It is said women always like to sting men even while they are
-professing friendship but till now I thought you were a mature person
+professing friendship but till nowI thought you were a mature person
 and above such things. But then I should have known better; after all,
 true to your names, your sister and you used to leave your peers in
 school stinging from a sense of inferiority. You always had the answers
@@ -549,7 +553,7 @@ anyway not understand it. Why carry all that into adulthood? You are
 well-settled and a mother now – then why be venomous to others in need?”
 
 Vrishchika was appalled by Vidrum’s outburst but retaining her calm and
-pointing him to a chair in her office said: “Boy O boy\! Why are you so
+pointing himto a chair in her office said: “Boy O boy! Why are you so
 angry? Please take a seat and explain matters more clearly – I sincerely
 don’t get what I might have done wrong.”
 
@@ -582,7 +586,7 @@ of all you have said today. I don’t want to say anything more right
 now.”
 
 Junkberg, true to his word, had placed BK Gupta as a professor at the
-famous medical center at mlecchānām Hastināpura. Hence, Gupta did not
+famous medical center at mlecchānām Hastināpura. Hence, Guptadid not
 care to check if he got the job at Vidrum’s medical school or not. He
 was now acknowledged as a rising star in a brisk gladiatorial
 competition with Sonenberg who had also obtained his own faculty
@@ -616,9 +620,9 @@ co-authored by Dr. Gupta. The inquiry found clear evidence that he had
 misused grants and submitted manipulated data for his grant applications
 to the federal government. His mentor the renowned Prof. Junkberg and
 former collaborator Prof. McKnight agreed with the findings of the
-inquiry committee. They said that he was solely responsible for
-the actions that brought disrepute to the field and were taking
-appropriate steps to remedy the damage they had caused. Action is also
+inquiry committee. Theysaid that he was solely responsible for
+theactions that brought disrepute to the field and were taking
+appropriate steps to remedy the damage they had caused.Action is also
 being initiated to revoke his medical license. Senator Jefferson is
 calling for stricter action in the case which if effected would result
 in jail time for Dr. Gupta.”*
@@ -632,10 +636,10 @@ and they had suddenly reappeared in his drawer the next day. On both
 days they had looked at them together. He had then wondered how that
 could have happened but had brushed it aside since he got them back
 intact, or so he thought. But could something have been tampered then?
-Thinking thus, Vidrum rushed to pull out his notes written by hand at
+Thinking thus, Vidrum rushed to pull out his noteswritten byhand at
 the patients’ bedside. To his horror he found the the patient numbers
 had been completely interchanged with respect to his notes. The results
-they had published were likely untrue. Holding his head in despair
+they had published were likelyuntrue. Holding his head in despair
 Vidrum slumped on his desk.
 
 ◊◊◊◊◊◊◊
@@ -650,3 +654,4 @@ Footnote 1: Vrishchika was then a professor in the section for
 experimental therapeutics where Vidrum was also a consulting physician.
 
 Footnote 2: That is the catur-bhaginī
+

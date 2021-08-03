@@ -1,8 +1,11 @@
 +++
-title = "Aspects of Hinduxa0atheism"
-date = "2018-01-12"
+title = "Aspects of Hindu atheism"
+date = "2018-12-01"
+upstream_url = "https://padmavajra.net/2018/01/12/aspects-of-hindu-atheism/"
 
 +++
+Source: [here](https://padmavajra.net/2018/01/12/aspects-of-hindu-atheism/).
+
 Note:In this post,I am not going to consider Savarkar’s position. Having
 put that out of the way,let me put it out:In the classical darśanas of
 Hindu philosophy,not all of them accept an Īśvara,yes(a supreme God),but
