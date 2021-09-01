@@ -1,10 +1,13 @@
 +++
-title = "नवसर्जनम् "
+title = "नवसर्जनम्"
+full_title = "नवसर्जनम्"
 date = "2021-01-23"
 upstream_url = "https://www.chamuks.in/article_view.php?chamuks=VG1wcmVVMUVSVFZQUkUwMFRucEpQUT09"
 
 +++
 Source: [here](https://www.chamuks.in/article_view.php?chamuks=VG1wcmVVMUVSVFZQUkUwMFRucEpQUT09).
+
+नवसर्जनम् 
 
 
 
@@ -87,7 +90,7 @@ Source: [here](https://www.chamuks.in/article_view.php?chamuks=VG1wcmVVMUVSVFZQU
 
 ------------------------------------------------------------------------
 
-** By :- Chamu Krishna Shastry \| Views:- 1407 \| 23-01-2021 07:28
+** By :- Chamu Krishna Shastry \| Views:- 2435 \| 23-01-2021 07:28
 PM**  
 
 ------------------------------------------------------------------------

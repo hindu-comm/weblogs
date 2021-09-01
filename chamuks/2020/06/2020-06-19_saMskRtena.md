@@ -1,10 +1,13 @@
 +++
-title = "संस्कृतेन "
+title = "संस्कृतेन"
+full_title = "संस्कृतेन"
 date = "2020-06-19"
 upstream_url = "https://www.chamuks.in/article_view.php?chamuks=VGtSQk5VMUVSWGxQVkZWNFRVUkpQUT09"
 
 +++
 Source: [here](https://www.chamuks.in/article_view.php?chamuks=VGtSQk5VMUVSWGxQVkZWNFRVUkpQUT09).
+
+संस्कृतेन 
 
 
 
@@ -107,7 +110,7 @@ Source: [here](https://www.chamuks.in/article_view.php?chamuks=VGtSQk5VMUVSWGxQV
 
 ------------------------------------------------------------------------
 
-** By :- Chamu Krishna Shastry \| Views:- 3743 \| 19-06-2020 04:52
+** By :- Chamu Krishna Shastry \| Views:- 4097 \| 19-06-2020 04:52
 PM**  
 
 ------------------------------------------------------------------------

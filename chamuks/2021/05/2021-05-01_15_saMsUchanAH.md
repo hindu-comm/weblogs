@@ -1,10 +1,13 @@
 +++
-title = "१५ संसूचनाः "
+title = "१५ संसूचनाः"
+full_title = "१५ संसूचनाः"
 date = "2021-05-01"
 upstream_url = "https://www.chamuks.in/article_view.php?chamuks=VDBSWk1VNTZhek5QUkVVelRVUk5QUT09"
 
 +++
 Source: [here](https://www.chamuks.in/article_view.php?chamuks=VDBSWk1VNTZhek5QUkVVelRVUk5QUT09).
+
+१५ संसूचनाः 
 
 
 
@@ -116,7 +119,7 @@ Source: [here](https://www.chamuks.in/article_view.php?chamuks=VDBSWk1VNTZhek5QU
 
 ------------------------------------------------------------------------
 
-** By :- Chamu Krishna Shastry \| Views:- 3477 \| 01-05-2021 10:42
+** By :- Chamu Krishna Shastry \| Views:- 3943 \| 01-05-2021 10:42
 PM**  
 
 ------------------------------------------------------------------------

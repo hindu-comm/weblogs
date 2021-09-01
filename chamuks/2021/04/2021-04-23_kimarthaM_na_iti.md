@@ -1,10 +1,13 @@
 +++
-title = "किमर्थं न इति ? "
+title = "किमर्थन् न इति ?"
+full_title = "किमर्थन् न इति ?"
 date = "2021-04-23"
 upstream_url = "https://www.chamuks.in/article_view.php?chamuks=VGtSUmVFNVVUVFJQUkZVelQxUkpQUT09"
 
 +++
 Source: [here](https://www.chamuks.in/article_view.php?chamuks=VGtSUmVFNVVUVFJQUkZVelQxUkpQUT09).
+
+किमर्थं न इति ? 
 
 
 
@@ -93,7 +96,7 @@ Job-market Demand अनुसारं Course Creation भवति इति �
 
 ------------------------------------------------------------------------
 
-** By :- Chamu Krishna Shastry \| Views:- 2865 \| 23-04-2021 10:27
+** By :- Chamu Krishna Shastry \| Views:- 3009 \| 23-04-2021 10:27
 PM**  
 
 ------------------------------------------------------------------------

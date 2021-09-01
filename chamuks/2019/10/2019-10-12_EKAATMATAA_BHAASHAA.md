@@ -1,10 +1,13 @@
 +++
-title = "EKAATMATAA BHAASHAA "
+title = "EKAATMATAA BHAASHAA"
+full_title = "EKAATMATAA BHAASHAA"
 date = "2019-10-12"
 upstream_url = "https://www.chamuks.in/article_view.php?chamuks=VFVSSmVFMXFSVFJQVkdzelRrRTlQUT09"
 
 +++
 Source: [here](https://www.chamuks.in/article_view.php?chamuks=VFVSSmVFMXFSVFJQVkdzelRrRTlQUT09).
+
+EKAATMATAA BHAASHAA 
 
 
 
@@ -59,7 +62,7 @@ better.
 
 ------------------------------------------------------------------------
 
-** By :- Chamu Krishna Shastry \| Views:- 3653 \| 12-10-2019 11:40
+** By :- Chamu Krishna Shastry \| Views:- 4675 \| 12-10-2019 11:40
 PM**  
 
 ------------------------------------------------------------------------

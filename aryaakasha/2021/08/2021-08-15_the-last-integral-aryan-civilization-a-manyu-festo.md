@@ -1,0 +1,796 @@
++++
+title = "The Last Integral Aryan Civilization – A Manyu-Festo"
+date = "2021-08-15"
+upstream_url = "https://aryaakasha.com/2021/08/15/the-last-integral-aryan-civilization-a-manyu-festo/"
+
++++
+Source: [here](https://aryaakasha.com/2021/08/15/the-last-integral-aryan-civilization-a-manyu-festo/).
+
+![](https://aryaakasha.files.wordpress.com/2021/08/esfv9caucaaecp1.png?w=746)
+
+“Bare is the back of the brotherless man.”  
+– Burnt Njal’s Saga ; Iceland, 13th Century
+
+Every year on August 15th, we publish a tribute-piece for the
+Independence Day of India. This year, we elucidate the concept of India
+as the world’s ‘Last Integral Aryan Civilization’ \[a phrasing coined by
+my associate, Aldo Rapace\] – and seek to describe and explain what that
+means for those of us out here in the broader Indo-European-isphere who
+are committed to the resurrection (the ‘decolonization’, some might say)
+of our own more loka-lized Indo-European mythoreligioustraditions.
+
+Previous installments have included ‘Bharat Mata And The Indo-European
+Deific of National Identity’, and last year’s ‘On The Gates Of Somnath
+Temple’.
+
+The former looked at the Mountain Queen deity of the Indo-Europeans –
+showing how the modern-day figure of Bharat Mata \[‘Mother India’\] is a
+direct continuance of this – rather than, as is occasionally asserted,
+some much more recent invention for political convenience. And also
+howa careful analysis shows us that the same Goddess is also hailed
+amongst the Norse, Hittites, Phrygians, Greeks, and others besides (and
+even forms the iconic basis for many modern ‘national personifications’
+in Europe today). The Mother Goddess of the Indo-Europeans.
+
+In other words, it took a more theologically infused look at something
+which we have long known – that the Indo-European Peoples come from a
+common origin. That the clearest modern-day expression of those roots
+and archaic understandings is to be found in the still-living
+Indo-European mythically-infused culture of today. And that even though
+we may have wandered far from that Urheimat over the preceding millennia
+– that the Indo-Europeans of today have a shared heritage from the past,
+shared belief in the present, and shared Godly Guidance into the future.
+IF we choose to hear this and to acknowledge it, of course. For even a
+mirror itself will not show you your face if you are determined not to
+see it therein.
+
+This latter concept – the notion of people insistently NOT seeing the
+essential and enduring mythoreligious coterminity of the Indo-Europeans,
+because they would prefer to cleave to some personal headcanon and a
+supremacist agenda – formed one of the key themes of 2019’s article.
+Entitled “On The Gates of Somnath Temple”, it used a vignette from the
+British dominion of India in the 19th century to illustrate how this
+mindset can work – and why it’s something to be avoided. The particular
+example in question being Lord Macaulay’s impassioned rant in the
+British Parliament against the ‘Brahmanical Religion’, declaring that it
+had nothing in common with the polytheistic religion(s) of Greece and
+Rome which he had a certain rose-tinted enthusiasm for(Macaulay being
+somewhere between a Classicist and a Classical fanboy), and therefore
+that the British Empire should favour the ‘Mahometans’, the Muslims,
+against the Hindus as a matter of official policy. Because, in his view
+– and those of any number of others over the years – the Muslims, at
+least, were Abrahamic Monotheists and therefore of far closer values to
+the British than the ‘Brahmanical’ Hindus.
+
+A moment’s consideration is all that is required to reveal the
+escalating tide of insouciant ridicularity contained in such sentiments
+… and yet they carried weight. Persuasive weight, if not perhaps,
+substantive. Rhetorical statements in Parliament are regrettably often
+like that. Yet the reasons why his spurious accusations found purchase
+were twofold:
+
+Firstly, because the British had, themselves, at some point long ago
+stopped being ‘integrally’ Indo-European in their values, their beliefs,
+their mythology and their religion. Residual elements remained, and as
+Tolkien and Chesterton could admirably demonstrate, it was certainly
+possible to weave both the Indo-European past with the realities of the
+relatively more recent history and present of the Anglo-Saxons and the
+British more broadly into a viable, unified whole. But by and large, the
+British perspective represented by Lord Macaulay both could not and
+*would not* bring itself to acknowledge that what they saw in India, in
+Hinduism, was not only something closely related to them … but something
+which was, in its own way, a more authentic window in upon their own
+more distant ancestral past.
+
+This ties closely into the second reason why the views represented by
+Macaulay that sad day in Parliament proved so potent – because they were
+a useful, convenient fiction for entirely artificially distinguishing
+the polytheistic paganisms of the Greek and Roman past which formed the
+foundational bedrock for “Western Civilization”, from the ‘paganism’ of
+India … which was now the colonial subject whose culture *had* to be
+suppressed in order to render it compliant.
+
+Indeed, to bring both of these two points together, it is interesting to
+note that Lord Macaulay specifically calls out with horror in his speech
+the specter-spectacle of British troops and other Imperial personnel
+engaging with Hinduism – becoming, even if in some small ways and upon a
+temporary basis … somewhat Hindufied. Becoming less ‘Christian’ in the
+process. Becoming, we might suggest, even despite their being the
+occupying, colonizing power, somewhat ‘decolonized’ from their own
+mental strictures of near two millennia of being something else.
+
+In any case, whereas the 2018 article sought to evoke the sense of
+shared heritage of the Indo-Europeans, by exploring this via our Mother
+Goddess ; and whereas the 2019 article sought to illustrate what the
+*denial* of this heritage could look like and why it was manifestly
+a-historic …
+
+The 2020 devotional tribute piece brings forth another area again. How
+this (mainly mythoreligious) shared heritage of the Indo-Europeans has
+continued – has its last living branch, its last main trunk, in India.
+And what this means for all of those of us who are committed to the
+resurrection of this heritage outside and beyond of India. How we can,
+should, and must regard this , the Last Integral Aryan Civilization.
+
+But what do we mean by that evocative-sounding phrase, the “Last
+Integral Aryan Civilization”? Why did I not choose to phrase it as the
+last integral Indo-European civilization, perhaps?
+
+Well, there are three elements here. The first of which being that word
+“Last”. It implies ‘singularity’. The only one remaining. Which is not
+to deny that others once existed – outside of museums and books, even –
+nor is it to deny that others might come back into reconstructed,
+resurrected being again. Only to assert what is unambiguously the fact –
+that nowhere else do we see the ancient ways and the ancient belief
+directly carried forward and immanent in the way they are, today, in
+India and in Hinduism. Various other Indo-European religious revival
+efforts do exist around the globe today, and some of them claim that
+they have managed to resuscitate (rather than outright resurrect) the
+Indo-European belief of their peoples via expansive extrapolation from
+what is still preserved in folk-ways and other such source-materials.
+There is some merit to this approach, insofar as folk-materials can
+preserve authentic elements of belief which are not necessarily so
+prominent in the ‘high culture’ preservations of statuary or
+secondarily-reproduced scriptural extracts which provide our remaining
+windows on some of these now-largely-dead cultures and customs.
+
+But in every major example which I am aware of, the ‘reconstruction’
+from folk-ways is both insufficient in the absence of other, more
+authoritative ancient materials for their ‘anchoring’ (including, where
+possible, an active ‘living tradition’ for their interpretation); and
+usually finds difficulty handling the inevitable non-Indo-European
+influence upon these folk-materials which has accrued over time. A good
+example of which is provided by the ‘Assianism’ followed by some of
+those who claim heritage from the Caucasus and the Alans, the Scythians
+of old. Nobody denies that their heritage is there – nobody denies that
+they have some rather intriguing materials found in their folk-beliefs
+which likely descend from these sources. But their interpretation
+paradigm, which attempts to make use of Christian and Zoroastrian
+elements for reconstructive purposes – has produced something which is
+significantly divergent from what we know of ancient Scythian religion.
+It is, in short, something else – something other than what it may so
+often claim to be.
+
+Another example is provided to us by the Germanic / Nordic religious
+revival movements. These may often have good people doing good work –
+and are probably one of the most prominent movements worldwide for the
+resurrection of a now-dead (or, perhaps we should say – now-*dormant*)
+Indo-European ethos and religious belief. But the source-materials which
+we have are fractured, fragmented, missing so many vital elements which
+are severely difficult for us to replicate even when we know that they
+*should* be there, and with other elements which are almost impossible
+to interpret now in their absence, The major theoretical debates in
+these spheres today concern just how much of this or that swathe of
+material in Snorri Sturluson’s efforts, or other sources from the Viking
+Age or shortly after, are the result of misunderstandings by the
+compilers or the insertion of Christianized or otherwise polemical
+elements. It is not impossible for the resurrection of the Nordic
+mythoreligioussphere to occur, of course – and here at Arya Akasha we
+are proud to work in a supportive and consultative role to assist people
+‘midst that particular milieu who request our aid with matters
+Indo-European – but it is a capacious uphill battle. And it is not
+something which could really be easily done in the absence of the fruits
+of the Vedic Tree. Meanwhile, elsewhere in some other quarters, people
+try and pretend at religion by filling in the gaps with what can most
+charitably be described as ‘Wiccanry’ – oft with added ‘Placenta’
+characteristics.
+
+Only with Hinduism, is the religion not an exercise in ‘reconstruction’,
+and are we in possession of the ritual corpus and other vitally
+necessary elements for there to be a living tradition … without any of
+these being mediated via the occlusionary lense of secondary
+transmission by those well outside the ethos in question. We may have
+the occasional spurious academic analysis which imputes frankly bizarre
+readings onto things, we may have some Christian historical accounts of
+actually-existing Hinduism from the historical period, and we may even
+have some relatively recent ‘Neo-Vedanta’ style ‘religious reform’
+efforts which seem to produce almost deliberately more ‘Abrahamic’ style
+Hinduisms (I hardly need to name the names) … but we also have the
+authentic religion.
+
+Which renders all of the three contaminations aforementioned peripheral
+at best. An academic making strange and controversial claims in order to
+bolster their career … has no bearing upon the rites actually conducted
+in a Temple. A historical account may be interesting, but thanks to the
+fact we still have the primary elements and practice intact, we can
+often see how the foreign recounter has gotten the wrong end of the
+stick about something. The various ‘Reform’ movements of the past two to
+three hundred years, while they do exist, are largely ignored. White
+people may become Hare Krishnas – but hugely prevalent amidst Indians,
+they are not. Arya Samaj is often actively derided for attempting to
+push overtly spurious interpretations of our scriptures.
+
+We are protected, in short, not only by the internal completeness and
+coherency of our belief – but also via the vitality of our heritage.
+Which renders acts of ‘projection’ or strategic ‘erasure’ by other,
+outside forces a far more difficult prospect than their similar
+endeavours against various other historical Indo-European mythoreligious
+strands. Trying to tell a Brahmin who has devoted his life to the
+understanding of his faith what it is that he (should) believe, when he
+is standing right there in front of you … is a far more difficult
+prospect than projecting a spurious reconstructive of what is *not* said
+onto a museum-piece statue of a Greek priest, for example.
+
+But let us move on to the next element – the ‘Integrality’. Now what is
+meant by this is quite simple. The Indo-European mythoreligion is not
+some peripheral element adhered to by a small minority within the more
+general populace. It is right there – as the majority faith of the
+countryside. Indeed, it even goes further than that and has influenced
+the beliefs of other religions, the actual minority communities, who
+have come into contact with it. Various Parsis in India, for example,
+apparently having forgotten the three thousand year old war in which
+their forebears broke away from the prevalent Indo-Iranian religious
+orthodoxy by choosing to rebel against the Gods … will now quite
+comfortably integrate homage for Hindu deities in their now-native land.
+Just as with those British personnel Lord Macaulay was up-in-arms about,
+near two centuries ago – Bharat has ‘re-civilized’ these migrants in
+some small yet pertinent way.
+
+But this ‘integrality’ is not simply a case of majoritarian notional
+adherency – if it were, then you could viably term various Western
+states to be ‘integrally Christian’ ones. A rather skin-deep and
+unhelpful analytical claim. Rather, it is meant that the religion and
+its values, its *being*, is given priority and pride of place – active
+expression – within the state, within the nation. So we have Bharat Mata
+prayed to as a Deity – as we explored in the 2018 article upon the
+subject for India’s Independence Day that year, this is not only a
+direct carrying forward of the Hindu mythology around Devi Durga-Parvati
+to the literal heart of the Indian nation (indeed *as* the Indian
+Nation) … but it is a directly cognate expression to the ‘national
+personifications’ of various Western European countries today. It is
+just that the Indians have remembered that this is a Goddess , and most
+of the Western countries have thought that theirs are but icons for a
+postage stamp. Symbols, in other words, lacking in substance, lacking in
+essence, lacking in ethos – lacking in vitality even if they have some
+common currency in the modern day.
+
+We also have legal recognition, legal personhood given to Sacred Rivers
+(a development also occurrent here in New Zealand). As opposed to in the
+West, where the only non-human entities to be granted legal personhood
+are corporations and trusts. Even leaving aside the ecological,
+environmental protective underpinning motivations for the legal
+recognition of the Ganges, the Yamuna, and other elements … which of
+these two paradigms sounds more healthy to you?
+
+The Ram Mandir dispute (and its eventual, successful resolution just
+recently) also provides such a window in upon this perspective. To
+provide a brief synopsis of the issue for readers – the site in Ayodhya
+once held an incredibly holy Ram Temple consecrated as the location of
+His Birth; it was demolished several hundred years ago by the Mughals to
+make way for a Mosque; and later in the 20th century, various actions
+were taken by Hindu political and religious groups to take the site back
+for the reconsecration and reconstruction of the place as a Ram Temple
+once more. It is, I suppose, our version of the Hagia Sophia – if the
+Hagia Sophia were situated in a majority Christian country, and had
+recently been allowed by supreme court verdict to be turned back into an
+Eastern Orthodox Church from a Mosque.
+
+If we look back at some of the previous jurisprudence upon the subject –
+we see the Allahabad High Court making a three-way division of the land
+in question. One part to a Ram-worshipping sect of (sometime martial
+artist) holy men; one part to a Sunni Muslim charity board; and one part
+to the God Ram Himself – Who had both legal personhood, and legal
+representation for the proceedings. Which then resulted in the
+interesting if brief specter of the Ram worshipping sect contemplating
+launching a lawsuit against the God Ram for full custody of the site –
+something that was quickly withdrawn in light of the .. implications of
+such a course of action.
+
+The most recent Supreme Court decision upon the matter has clarified the
+outcome further – vesting the whole site in the custodianship of a
+Government-run trust, whose job it is to construct and administer a new
+Ram Mandir \[Temple\] upon the site, and to operate on behalf of the God
+Ram in so doing.
+
+Now why do I say this is healthy? Because consider the alternative –
+think of how things are in various more Westerly climes.
+
+In much of Europe, if some ancient pagan holy-site or barrow-mound is
+discovered, or even when it is bulldozed to make way for a road-way … it
+is a matter of archaeology, or perhaps planning permissions. It is
+hardly even ‘archaeology’ – it is more ‘paleontology’ a lot of the time,
+because what has been dug up is petrified and can hardly even be viably
+cloned as it is from so long ago and so far away in terms of
+revivification potential for the modern day. Even for the dominant
+Christian faiths there, there is a similar treating of the whole thing
+as a mere matter of convenience – ‘smoothing the pillow for a dying
+concept’, to reference something from my own country’s regrettable
+history.
+
+Meanwhile, in India, it is a matter of life and death. The Government
+actually gets involved, and goes all the way to have the site
+reconsecrated, rebuilt, and restored to active worship. The Gods are
+granted legal recognition, legal protection, legal representation – to
+ensure that Their Case, Our Cause, is properly heard.
+
+In short … this is Living Tradition rather than dim folk-memory and
+dismissive academia.
+
+And we say that this is ‘Integral’ Aryan Civilization *precisely
+because* these concepts are quite literally held Sacred. They are not
+idle museum-curios or the proverbial ‘old wives tales’ to be safely
+ignored and discarded as convenient by the psepho-political winds of
+happenstance. They are *at* the Heart, and They are *as* the Heart of
+the whole.
+
+Now it must be acknowledged, of course, that India is not perfect in
+these matters. And I say that out of love. After all, as somebody once
+pithily observed – the insistence that qualifiers be added to this
+feeling, that it be idealized, render it something other than
+‘actually-existing’, a lot of the time. Or, as the man himself put it ..
+it was like saying “I love my mother, drunk or sober”. Something that
+almost misses the point by getting tangled up in the last three words,
+at the expense of the former four. His full sentiment, in fact, adds the
+following – “No doubt if a decent man’s mother took to drink he would
+share her troubles to the last; but to talk as if he would be in a state
+of gay \[‘happy’\] indifference as to whether his mother took to drink
+or not is certainly not the language of men who know the great mystery.”
+And his point, in part, was that such a sentiment was necessary in his
+own native land “for the frustration and overthrow of a deaf and raucous
+Jingoism”. Carl Schurz, the German nationalist revolutionary (and
+thence, political exile following the fall-over of a certain *other*
+exercise in national liberation occurrent in the year 48 of a century –
+in this case, the 19th) put it more succinctly: “My country, right or
+wrong; if right, to be kept right; and if wrong, to be set right.” But I
+digress.
+
+As applies India’s difficulties that I may speak to here, they may prove
+instructive for us out here in the broader Indo-European sphere; and
+they chime in most strongly with something another figure dear to me
+born upon this day (indeed, exactly the same day and the same year as
+the Republic of India), my father, The Reverend Rolinson (often
+affectionately referred to by associates of mine as ‘The Rev.’) has
+often observed. Namely, that there is a risk, when there is limited
+‘separation of Church and State’. Not necessarily, as is commonly
+suspected, of some sort of ‘corruption’ of the State by the Church and
+bending of the secular institution to the wiles and the wills of the
+ecclesiastical. But rather, that the religious sphere finds itself
+subordinate to, and prevailed upon all the more effectively by secular
+authority (with its differing understandings and motivations) precisely
+because there is now not this barrier between the spheres – the would-be
+‘interloper’ already has his proverbial foot well inside the door.
+
+There are tangible instances we may draw from to illustrate this point
+quite directly, as applies India. Many Temples are, in effect, under
+state administration. That means that the state has significant say over
+who is (or is not to be) appointed as a priest there, and is able to
+amply supplement its taxation-revenues by drawing forth from the
+donations made to these houses of the holy. It has also been observed by
+some that the corresponding duty which this should entail – that of
+actually actively providing for the maintenance and upkeep of what are
+often quite ancient buildings in need of repair … is not so forthcoming
+as one would think it should be.
+
+Further, as the recent controversy over Pashubali\[‘animal sacrifice’\]
+directly demonstrated – where you have secular legal authorities of the
+state wading into theological matters, it brings with it not only the
+risk that they may be wrong in their interpretative understanding … but
+also that their wrongness upon the decision may be *legally binding*.
+Although having said that, the actual trajectory through the courts of
+at least some of these initiatives shows the other side of things, too –
+where legal decisions or force of political opinion may get involved to
+attempt to block something, appeal to a higher court may successfully
+induce a blocking of the blockers. Such an occurrence was on display
+with last year’s Indian Supreme Court ruling, which overturned the
+previous High Court decisions that had sought to put an end to the
+practice (and it is interesting to note that a recent push to prosecute
+priests engaged in the proper performance of these ancient rites … was
+in fact initiated by a BJP MP – ostensibly, from the party of
+self-appointed protectors of the Hindu religion). So in that particular
+Supreme Court case, efforts by state authorities to have a practice
+outlawed were initially successful in those lower courts precisely
+because they managed to induce the Justices therein to rule that the
+rituals in question were ‘unnecessary’ – and, perhaps more worryingly as
+a general sentiment, to rule that our religion ought to wish to “reform”
+itself so as not “to be shackled to dogma, superstition and unfounded
+beliefs”.
+
+As we can quite plainly see, this sets up an incredibly risky
+environment wherein a court is asked to rule upon what is or is not an
+authentic religious practice – and not for some peripheral enthusiasts,
+but as applies the actual practice and custom of proper and orthodox
+religious authorities whose expertise quite literally spans millennia …
+and may do so upon *decidedly* spurious grounds. Because in the case I
+have quoted from just now, it is quite clear that the belief was not
+“unfounded” – it was founded upon the tradition, it was founded upon the
+scripture, it was founded upon something far more archaic, ancient and
+enduring than a few lines of self-congratulatory ruling from a human
+judge in a modern-day secular law court. And, had it been unchallenged
+at the higher level, it would have created a legal absurdity wherein
+quite apart from Muslim animal slaughter in a religious context being a
+protected act but the Hindu rites not – that to kill an animal to
+consume its flesh, even on the grounds of a Hindu temple would have been
+perfectly legal … but the moment this was done for a sacrifice, it
+should become a crime.
+
+Now I do not say any of this because I am at all keen upon the notion of
+animal sacrifice. Lest there be any doubt – I am not. I do not like the
+idea, I do not have any desire to see it performed, and I am very
+thankful that it is unlikely to ever occur in my presence. Indeed, I am
+extraordinarily grateful that within the arcane and archaic skeins of
+our faith we *also* have the various ritual understandings which enable
+us to make alternative forms of offering. Yet none of that abjures the
+fact that it is a legitimate and well attested practice for those
+sampradayas who *do* engage in it. And that the attempted efforts by
+some particular sects or groupings or even individuals within the
+broader Hindusphere to utilize secular authorities to suppress the much
+more archaic traditions of others ought be fiercely resisted. For that
+was another development which had become bound up in all of this –
+pushes from certain more ‘universalizing’ or if you like ‘homogenizing’
+forces to try and make use of the machinery of state to facilitate their
+subsummationof their ‘rivals’.
+
+Still, even here there are instructive inspirations for us out here in
+the broader Indo-European realm. The reaction to these latter efforts
+included persons from an array of traditions which *do not* practice the
+rites in question, nevertheless choosing to stand up in defence of those
+traditions who *do*, precisely to protect the principle of the thing –
+that Hinduism is a ‘broad’ faith that does not act like, say, the
+Catholic Church post-Constantine to have a central ‘authorization’ body
+and thence declare internal differences of understanding and practice
+(within reason) to be ‘heretical’ simply because of that fact (or,
+perhaps more to the point, the significant emergence of a distinct
+‘Anglicanism’ in no small part due to the needs – political and
+otherwise – of the king of England at the time, Henry VIII). This is not
+to say that there is no such thing as ‘Heresy’ nor ‘Blasphemy’ within a
+Hindu context – contra to what some persons may wish to believe (for
+even amidst the Living Faith, there is this inordinate temptation to
+define our ethos at least as much by pointed, jeering rejection of
+aspects of another religion, rather than by what our religion actually
+is on its own terms), there most assuredly are; although a fuller
+explication upon these is a matter for another time.
+
+No, the lesson for us out here in the broader Indo-European sphere is
+that it is possible to have exactly this – multiple, overlapping creeds
+with a shared focus and essence-tial unity of essence amidst diversity
+of expression … without either treading upon each other’s toes, nor
+having to all be in absolute lock-step in order to be all marching in
+the same (general) direction and motivated by avowed common purpose.
+
+A perhaps more useful paradigm is that we find in New Zealand, per our
+own recent Supreme Court jurisprudence on another and decidedly
+unrelated matter. Here, we have developed an array of specialized and
+locally appropriate understandings of the ‘Common Law’ concept that
+enable – indeed, mandate – Judges to take into consideration certain
+spheres other than black-letter law. In the particular case that I am
+thinking of, Tikanga Maori \[‘Maori Custom’\]. Although in this
+instance, taking it into consideration for a non-Maori New Zealander –
+who had died while a rather important case concerning his reputation had
+still yet to be decided. In Tikanga Maori, as with various other
+traditional value-systems about the world, the ‘reputation’ \[an
+imperfect translation for the Te Reo’s succinct encapsulation of an
+entire sphere as ‘Mana’ – which also, importantly for our legal
+purposes, can mean ‘standing’\] of a man does not cease simply because
+he is dead – in no small part because the Mana of an individual man is
+not truly his own, but is intimately and intrinsically bound up with
+that of his family, clan, community, and context.
+
+In some ways, it is a directly resonant understanding with various
+values that are entirely endogenous to the Indo-European sphere –
+indeed, at the time, I recall writing a piece looking at one of these,
+drawn from the Nordic/Germanic corpus: “Deyr fé, deyja frændr, / deyr
+sjalfr it sama, / ek veit einn, /at aldrei deyr:dómr um dauðan hvern.”
+Which, to quote in translation, works out as “Cattle die, kinsmen die, /
+the self will die the same; \[but\] I know one thing which never dies:
+the *judgement* \[‘Doom’\] upon each dead \[man\]”; in concert with the
+closing lines of the preceding verse of the Havamal \[‘Sayings of the
+High One’ – i.e. Odin\], it is clear that it is the ‘reputation’, the
+‘renown’ (the actual translation of Orðstírr is along the lines of
+‘Glory-Words’ – although the judgement that is the Dómr (‘Doom’) also
+implicitly encompasses *negative* besmirchments upon the man’s record as
+well) which is being spoken of here.
+
+The reason why I invoke this exemplar is not because it presents an
+intriguing instance of something I seem to keep finding in my homeland –
+wherein a Maoritanga element presents a positive and resonant
+understanding which also helps us to get an Indo-European one
+(re-)introduced into our law, culture, and (ostensibly-secular) customs
+(and this is something that we have also seen with something that I had
+mentioned many paragraphs earlier – around providing legal personhood to
+rivers, to support their environmental protection, for instance).
+Although it is also most definitely that. No, I invoke this here because
+it is a demonstration of how things *should* be working – the
+‘supra-legal’ sphere of tradition and metaphysical value informing and
+guiding the otherwise hard-nosed legal practice. Helping to improve it,
+and yes ‘reforming’ it to make it simultaneously more ‘human’ and yet
+*more* than human. Not, as we had seen via those High Court cases in
+India, the law and its inveterate practitioners wading ill-equipped into
+a theological matter, getting things around the wrong way, and upending
+things via their suborning of literal millennia of tradition and
+heritage to decidedly temporal political prevarications. I have no doubt
+that there are comparable instances from Indian law where similar
+instances of this proper ‘balance’ has been actively maintained,
+likewise.
+
+However, that particular New Zealand Supreme Court case is also usefully
+illustrative as applies another element far more directly germane to the
+question we are here answering – namely, why it is that we refer to
+India as the Last Integral Aryan Civilization on the planet.
+
+How so? Consider the word “Aryan”. What does it mean.
+
+It is not a word, contrary to pop-culture perceptions upon the subject,
+intended as a short-handed designator for a decidedly Northern European
+looking gentleman with blond hair and blue eyes. Not even close. That is
+a subversion, a co-option of the term – and I do not say that because
+there are few Indo-Aryans alive today or throughout much of history, who
+have been thusly complexioned .
+
+Indeed, properly speaking, it is not even a word which connoted
+belonging – on the genetic level – to the Indo-European or more
+specifically Indo-Aryan ethnic sphere.
+
+Rather than being an ethnonym – a term for an ethnos, and one’s
+belonging thereto … it was an *ethonym* – a term connoting one’s
+belonging to and participation in an *ethos*.
+
+This is reflected not only in the contemporary and archaic utilization
+of the term amidst the Hindusphere – but also via its likely
+Proto-Indo-European roots. There are several not-necessarily-exclusive
+propositions for this – with the major one concerning PIE\*h₂er-. What
+does this root entail? That which is ‘fitting’, that which is ‘right,’
+that which is ‘proper’. And, of course, it turns into an array of
+‘ordinal’ terms – indeed, quite literally: Latin ‘Ordo’ is from this
+same origin; as is Ancient Greek ἁρμονίᾱ (‘Harmonia’). It is, to my
+mind, utterly uncoincidental that Sanskritऋत (‘Rta’) – ‘Cosmic Law’,
+‘Divine Order’ – should hail from this same archaic underpinning. After
+all, what is right and proper in the supernal and mythic sense – is what
+is in accordance with the Divine Law, Rta. And what an Aryan is is one
+who knows how to comport themselves in such a manner to be congruent
+with same. To ‘fit’ with it – and with their fellow Aryan, as part of
+this community of adherents and bearers (‘Bharata’, indeed – that is
+where the term comes from, ‘those who bear’; and most especially, those
+who bear the duty pertaining to the continuance of the Sacred Flame).
+
+And hence, is ‘Noble’ in disposition and bearing precisely due to these
+facts. He or She is somebody in touch with their heritage – this
+specifically ‘Arya’ heritage – and does not simply *know* of it, but
+actively participates in its community and therefore, thence, its
+continuity. Thus the ‘Arya-Mleccha’ duality which we encounter in
+scripture. Mleccha, for those unaware, meaning somewhere between ‘dirty’
+(like ‘Mala’) and more figuratively – possessing an ‘indistinct’ speech.
+Which matters, because the sine qua non requirement for meaningful
+participation in Vedic rites and community was, effectively, that – the
+ability to speak and therefore to engage. Given the immense potency of
+Sanskrit as the language of the universe, where mispronunciation of a
+single syllable could have dramatic consequences as attested in an array
+of mythic manifestations of same … this is not un-understandable. And,
+indeed, we can see rather similar ‘in-group’/’out-group’ points of
+distinguishing occurrent with the Ancient Greeks – our modern
+‘Barbarian’ deriving from their perception that the non-Greeks spoke in
+a curious ‘Baa-Baa’ style fashion.
+
+It is often presumed that “Mleccha” must necessarily have some sort of
+ethnographic component to its designation – however that is incorrect.
+We can demonstrate this via an analysis of the original usage of the
+term in its most archaic context – the Shatapatha Brahmana ritual manual
+(III 2 1). There, what we see is a direct contest between the Gods and
+the demons (A’Sura – not to be confused with the more archaic ‘Asura’;
+rather, ‘A’Sura’ is ‘Opposite of Sura – Opposite of
+Shining/Solar/Divine’) that is effectively a ‘ritual competition’ to
+secure the blessing and participation of the Goddess of Speech (with the
+demonic opposition, interestingly enough, appearing to potentially speak
+a rather differing Indo-Iranic language that is still, nevertheless,
+semi-intelligible to the Indo-Aryan Sanskrit hearers). It is presented
+as a template for human action – whereby the presiding (mortal) Priest
+takes the role of the relevant divine figure and ‘Calls’ to Her so as to
+empower the mortal ‘echo’ of the original mythic occurrence. A classic
+example, in other words, of what Mircea Eliade termed the “Eternal
+Return”, and what I often refer to as ‘Mythic Recurrence’, or ‘Mythic
+Resonance’. The fact that we can tentatively identify potential
+correlates for this mythic and ritual understanding in other
+Indo-European spheres reasonably far removed both geographically and
+chronologically from that of archaic Vedic India further goes to suggest
+that the original understanding for this ‘Mleccha’ term was not a
+mortal-ethnographic one of precise and pointed description. But rather,
+a more general referencing for that which was ‘outside’ the bounds of
+propriety and the community, the sacred and proper ‘enclosure’ of the
+ritual space and human sphere (of belonging, light, and life) for which
+it stood.
+
+There is quite a bit more which can, should, and must be penned
+pertaining to the proper understanding of the term ‘Arya’ – including
+its potential correlates in other IE languages (and here, I am meaning
+in the structure of figurative usage and meaning – for direct linguistic
+cognates are rather lacking outside the exclusive Indo-Iranic sphere);
+but we shall, perhaps, leave all of that more detailed wrangling for
+another time.
+
+For now, it is enough to know that in its most direct sense, ‘Arya’
+refers to the Hindusphere – where these aforementioned proper
+understandings are still retained, and more than that … where they are
+still actively undertaken day in and day out (indeed, ‘by the hour’ – in
+the older sense of the term shown in Latin ‘Hora’ and Ancient Greek
+‘ὥρᾱ’ (‘Hora’), that is likewise so bound up with propriety, lawfulness,
+and custom).
+
+And as for why that is relevant? Well, our position is quite simple. The
+Indo-European Gods Are The Indo-European Gods. They did not somehow
+‘ship of Theseus’ turn into other figures fundamentally distinct from
+Themselves at some various points on Their bearers’ journeying from the
+Proto-Indo-European Urheimat all those millennia ago. The Sky Father
+worshipped in modern-day Hindu India is the same God as the Sky Father
+worshipped in ancient Vedic Aryavarta is the same God as the Sky Father
+worshipped by the Andronovo in Central Asia is the same God as the Sky
+Father worshipped on the Pontic Steppe by the Yamnaya. The perceptions
+may have differed, differentiated, and developed – often in rather
+specific ways that should be noted and understood; but the essence
+underlying the expressions … these things are old, these things are
+true.
+
+So, if the core of what it is to be ‘Arya’ is the proper supporting of,
+proper engagement with The Gods and associated religious conduct and
+understanding … without seeking to decontextualize the specifically
+Hindu Arya mechanisms for these things, it is nevertheless the case that
+what is preserved there are particular forms that are closely related
+to, and in many ways foundationally coterminous with, those of other
+Indo-European peoples and faith-perspectives of the past few thousand
+years from right across the expanse. If you have been following our work
+for some time, you’ll have seen me go into detail explicating some of
+these points of unitary coherency – and also demonstrating how the
+necessary resurrection of, say, specific Old Norse or Greek rites and
+religion would be enormously difficult without the Vedic comparanda to
+directly infuse or align it with. We would simply have little other than
+(semi-educated) guesswork and imagination with which to ‘fill the gaps’
+otherwise.
+
+India is the Last Integral Aryan Civilization, therefore, in dual senses
+– both because it is the land and the sphere where ‘Arya’ ways in the
+specifically Hindu sense are preserved, maintained, rendered *immanent*;
+yet *also* because Bharat – the Land of the Bearers – is where the last
+of the living fire of the Indo-European sphere *all up* is preserved.
+Not as embers, but as braziers and bonfires – or, more aptly, as havans,
+yagnas, diya lamps and in the hearts and minds of deepa-ly pious men
+\[here meant also in the Proto-Indo-European sense of ‘Men’ – mental
+activity; whence not only ‘Men’ but also ‘Mantra’, and ‘Manyu’\].
+
+If ‘Arya’ means ‘Ours’ – ‘Our’ folkways, ‘Our’ religious belief and
+praxis, ‘Our’ sacred duty … and to each and all of us – then whilst most
+of the Indo-European sphere cannot *directly* say that the ‘Arya’ of the
+Hindusphere is indeed “ours” (for it is only the Hindus – of which, via
+adoption, I am one – who may truly state the term and its associated
+field(s) of meaning are Ours); the entire Indo-European sphere can, most
+definitely and demonstrably, feel that our Gods, our ways, our faith –
+is likewise living on, in a certain sense, therein.
+
+I am aware, of course, that for many it may not feel as satisfying to
+ruminate upon that, as compared to a more ideal scenario of there
+somehow springing from the Heavens tomorrow, a fully functional and
+easily immersible Nordic or Greek IE religion – replete with all of the
+rituals, esoteric understandings, and other things that are so evidently
+missing in some or greater scope when we examine what we have from the
+relevant textual spheres. And I am pointedly not suggesting that in
+order to render proper and due homage to the Gods of one’s forefathers
+that one must first become a Hindu.
+
+Only stating that which, to me, seems quite abundantly obvious.
+
+In Europe, and the European IE spheres, we are in a situation of ‘our’
+House, our ‘Houses’ (and as applies ‘Hof’ orναός (‘Naos’), this is
+perhaps not entirely figurative in its saliency as a metaphoric
+designation) having long ago burned down. In order to meaningfully
+rebuild these houses – insofar as they actually can be – we must borrow
+from them both the planning and engineering expertise which they have
+maintained, ‘design features’, and various materials to assist in our
+own place’s more meaningful reconstruction. How else to ensure without
+painstaking risks of empty prevarication, that what we are (re-)building
+is actually authentic, authentically pleasing to The Gods Whom we are
+asking to once more come and visit us in this ‘House’, these ‘Houses’
+amidst more Westerly climes. How else to ensure, in other words, that it
+*works* – and avoid the clearly attendant risks of having to re-engineer
+from scratch the relevant principles of structural engineering.
+
+Their House – more than a ‘Nilaya’, a Fortress \[‘Durga’, indeed\] or a
+palace in its size and splendour, I should say – still stands; and
+weare fortunate to be able to shelter with our kinfolk to the East
+during the long, dark, time of our ongoing need.
+
+And that naturally entails that we observe the ancient and proper rules
+of the Sacred Hospitality convention. That we are good and gracious
+guests, even – especially – with our somewhat distant (in terms of
+geography – never in terms of spirit) Kin.
+
+Toward the outset of this (A)Arti-cle I had spoken of two of our
+previous Indian Independence Day tribute pieces, and their attendant
+subjects of focus.
+
+In some ways, this year’s article endeavours to bring together the two
+themes. Emphasizing not only the shared mytho-religious and broader
+cultural heritage between the Indo-European peoples – but also the fact
+that only amongst the Hindus is the branch or tree of this heritage
+still truly living. This does not mean, of course, that other efforts at
+establishing living heritage are doomed to failure, or to denigrate
+those revanchist, resurrectionist projects presently in motion.
+
+Simply to acknowledge that when it comes to the meaningful reproduction
+and protection of the Indo-European belief – we owe a fundamental and
+great debt to the Vedic tradition which has kept its fundamentsand its
+flowerings alive down the ages for us to borrow from here in the modern
+day. 
+
+Now, I have used ‘we’ a fair few times in the preceding few paragraphs,
+and I must confess that it sits rather uneasily with me. This is not to
+deny that I am European, of course – how could I and why would I even
+want to do such a thing. Yet for me, when I speak of ‘Home’ in this
+religious sense … I do not feel that the ‘Home’ I belong to has burned
+down. Instead, my home is the one that I am living in, the one that has
+existed unbroken (even despite having been quite *severely* battered at
+times from without) all the way across thousands of miles and thousands
+of years from the Urheimat through to today. The Hindu one. I came to
+the world of religion proper thanks to my Indo-Nepali adoptive family –
+and in one of those curious twists of wyrd, came also to the study of
+matters Indo-European some time afterward. I try to make fairly active
+contribution to the maintenance, upkeep, protection, and – where
+necessary – restoration of my adoptive household. I am, after all,
+capaciously in Her debt for taking me in, all those years ago.
+
+And one of these ways, as unorthodox as it might outwardsly seem to
+some, perhaps – is to attempt to foster these other Indo-European
+spheres to resurrect and to thrive, too. Something which shall benefit
+*all* of us – not just those groupings who are doing/being resurrected,
+nor only India (and the Hindusphere) Herself.
+
+The Hindusphere may be the Last Living Branch of this once-mighty and,
+indeed, quite literally world-spanning Tree – yet while it is immensely
+glorious, and shelters so many within its boughs even by itself … I
+cannot help but imagine in wonderment what those ‘green shoots’ of
+(re-)new(ed growth in formerly withered heaths from the same roots, new
+leaves on old and knotted limbs, might one day begin to look like. What
+‘Men of Ash’ might emerge from such a metaphoricalHoddMímis Holt – when
+the ‘Ash’ in question is not only that of the Tree, and of the Spear,
+but also the Vibhuti \[‘Holy Ash’ – utilized in ritual contexts for us
+here in the Hindusphere\].
+
+There is a particular verse from the RigVeda – ‘Krinvanto Vishvam
+Aryam’.
+
+It in isRV IX 63 5, a line which I feel to effectively ‘sum up’ a
+vastly significant essence-tial truth of the Vedas; as there, it is set
+out that it is the performance of proper, pious – Arya – actions which
+strengthen the Divine, the Divine War Effort, and thus drive back the
+Peril.
+
+Its meaning is, literally taken, quite simple – “\[To\] Make The World
+‘Arya'”. Or, we might surmise, given what has previously been the
+dominant state of affairs all the way from India to Iceland – to Make
+the World Arya *Again*, once more, anew.
+
+‘Arya’, I have already voluminously extolled the meaning(s) of elsewhere
+in this piece – it should need no (re-)introduction now.
+
+We are bringing ‘Our Ways’ – the Right Ways, the Proper Ways, the
+literally Rite Ways – back out across the Loka again. And I say ‘Loka’
+due to its ‘Light’ underpinning – it is from PIE ‘Lewk’, meaning ‘Light’
+or ‘Shining’. Sanskritलोक \[‘Loka’\] is a plane, a world, a sphere, a
+kingdom – and its people. It is a Realm Under Light – Dominion as far as
+the Light touches.
+
+Krinvanto Vishvam Aryam – we may, in this case and context, not all that
+figuratively re-translate as “Help The \[Other\] Indo-Europeans Get Back
+To The Heritage Again”.
+
+As applies the Hindusphere – some might suggest that we are ‘lucky’ to
+still have this bastion of flame with which to warm ourselves and begin
+to illuminate more broadly. It would be tempting to reply by observing
+that ‘luck’ is a curious way to express the sheer determination and
+sacrifice (both literal and personal) undertaken by millennia of Hindus
+to protect it so that it is still here for us today; although I would
+instead go for something simpler.
+
+A Pandit at my Mandir, he came up with the ingenious idiomatic rendering
+for “Aum Namah Shivaya” in English as “Good Luck”. He was not incorrect.
+In that sense, we are indeed fortunate – for we have been Blessed. And I
+do not simply mean ‘we’ as in Hindus and the Hindusphere – I mean the
+Indo-European sphere all up.
+
+For in truth, beheld in this particular way – India is not merely the
+‘Last Integral Aryan Civilization’. Nor is She *the* Integral Aryan
+civilization – as in, the civilization that is integral to the concept
+of Arya. She is also, and irreducibly, the *First* Integral Aryan
+Civilization – both in terms of being the pre-eminent and primus inter
+pares of this kind … but also in setting the pathway for all the rest of
+us to follow.
+
+भारत माता की जय !
+
+जय हिन्द !

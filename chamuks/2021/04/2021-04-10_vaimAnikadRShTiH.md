@@ -1,10 +1,13 @@
 +++
-title = "वैमानिकदृष्टिः "
+title = "वैमानिकदृष्टिः"
+full_title = "वैमानिकदृष्टिः"
 date = "2021-04-10"
 upstream_url = "https://www.chamuks.in/article_view.php?chamuks=VFVSSk0wMXFZelJQUkdzelQwUkpQUT09"
 
 +++
 Source: [here](https://www.chamuks.in/article_view.php?chamuks=VFVSSk0wMXFZelJQUkdzelQwUkpQUT09).
+
+वैमानिकदृष्टिः 
 
 
 
@@ -98,7 +101,7 @@ Source: [here](https://www.chamuks.in/article_view.php?chamuks=VFVSSk0wMXFZelJQU
 
 ------------------------------------------------------------------------
 
-** By :- Chamu Krishna Shastry \| Views:- 2720 \| 10-04-2021 10:33
+** By :- Chamu Krishna Shastry \| Views:- 2951 \| 10-04-2021 10:33
 AM**  
 
 ------------------------------------------------------------------------

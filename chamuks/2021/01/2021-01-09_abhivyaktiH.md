@@ -1,10 +1,13 @@
 +++
-title = "अभिव्यक्तिः "
+title = "अभिव्यक्तिः"
+full_title = "अभिव्यक्तिः"
 date = "2021-01-09"
 upstream_url = "https://www.chamuks.in/article_view.php?chamuks=VFdwak5FNTZVVFZQUkdNMFRtcEpQUT09"
 
 +++
 Source: [here](https://www.chamuks.in/article_view.php?chamuks=VFdwak5FNTZVVFZQUkdNMFRtcEpQUT09).
+
+अभिव्यक्तिः 
 
 
 
@@ -103,7 +106,7 @@ Practice) इत्यादिभिः कक्ष्यासु कार�
 
 ------------------------------------------------------------------------
 
-** By :- Chamu Krishna Shastry \| Views:- 1600 \| 09-01-2021 09:59
+** By :- Chamu Krishna Shastry \| Views:- 1934 \| 09-01-2021 09:59
 PM**  
 
 ------------------------------------------------------------------------

@@ -1,0 +1,506 @@
++++
+title = "Weshparkar – Vayu-The-High-Working But Also Shiva – On Funerary Stonework Of Sogdian Wirkak And Wiyusi – Arte-Facts #12"
+date = "2021-08-04"
+upstream_url = "https://aryaakasha.com/2021/08/04/weshparkar-vayu-the-high-working-but-also-shiva-on-funerary-stonework-of-sogdian-wirkak-and-wiyusi-arte-facts-12/"
+
++++
+Source: [here](https://aryaakasha.com/2021/08/04/weshparkar-vayu-the-high-working-but-also-shiva-on-funerary-stonework-of-sogdian-wirkak-and-wiyusi-arte-facts-12/).
+
+![](https://aryaakasha.files.wordpress.com/2021/08/n4-6-weshparkar-detail-drawing-1.jpg?w=1024)
+
+I’ve had this image on my mind for some days now. Both for what it
+represents – yet also for what it doesn’t. What’s been projected upon
+it, in other words.
+
+Now, as for the former – it’s a representation of the Sogdian deific,
+Vesparkar (also anglicized asWeshparkar, Veshparkar, Wysprkr etc.),
+from a fine relief carving on the stonework sarcophagus of a Sogdian
+(and his wife, Wiyusi – ‘Dawn’, like our ‘Ushas’) known as Shi Jun
+(‘Master Shi’) or Wirkak (likely from the same root as ‘Vrka’ .. that is
+to say – ‘Wolf’). If that first name sounds a bit Chinese, then that’s
+because it is – the sarcophagus was found in Xi’an, and belongs to a
+Sogdian ‘Sabao’ (in Sogdian, it is ‘S′rtp′w’ – ‘Caravan Leader’ or
+‘Administrator’) who’d been living in central China at the other end of
+the massive cross-continent trading network which once stood astride
+Eurasia.
+
+There, he died – in about 579 or 580 AD – and there he was interred, in
+a structure carved by Chinese artisans which features quite the eclectic
+array of stylistic features drawn from across the Eurasian sphere. And
+that is why it is of interest to us – or, rather, more specifically it
+is of interest to us because there are three somewhat interrelated
+Indo-Iranian traditions that are represented in, especially, this single
+element of the carving which I have chosen to focus upon here in this
+piece.
+
+The broader context of what’s going on in this panel … is that the
+Sogdian gentleman and his wife have died, and are now standing at the
+entryway to the hereafter – depicted here as a bridge across rushing
+waters. In Zoroastrian terms, this would be theChinvat Bridge –
+although it is useful and necessary to note that the Zoroastrians most
+certainly did not possess a monopoly upon the concept of the afterworld
+being across a liminal barrier of a river that had to be transversed by
+the souls of the dead. We are all familiar with Charon and the Styx,
+etc.; and there are several other resonanciesto be found elsewhere
+across the IE sphere, including in Hinduism. I have written elsewhere
+about some of the … intricacies of this, especially as applies the
+‘River of Stars’, and the ‘Sea of Sky’ concepts – but we shall leave a
+more full examination of these for another time. I have also written
+about the Guard Dog(s) that are to be found there in various IE
+perspectives elsewhere, likewise (in this panel, depicted immediately
+above the two figures standing at the bridge’s entryway).  
+  
+
+![](https://aryaakasha.files.wordpress.com/2021/08/n3-23-shi-jun-ph-east-wall-with-drawing-1600x751-1.jpg?w=1024)
+
+This all makes entirely logical sense for what is, in essence, a tomb.
+Somebody has died, and upon the exterior, we find an evocatively
+illustrated presentation of where they’re headed next.
+
+Except that is not our focus here. Rather, it is this most august figure
+at the top of the panel. Who is He? And what does He represent?
+
+And that is where things get interesting.
+
+The figure of Weshparkar is conventionally identified as a development
+of the *Iranic* Vayu. Why? Well, the Sogdians are, themselves, an Iranic
+group – part of the general Eastern Iranic sphere which for these
+purposes we might also feasibly describe as ‘Scythian’ in general terms.
+The name itself is held to be a contraction of a term directly attested
+in Avestan usage in variousliturgies – ‘Wayaos uparo kairyehe’ (also
+anglicized as ‘Vayus uparo kairyo’). What does this mean? Effectively,
+“Vayu the High-Working”, or Vayu the Powerful/On High (it can also be
+interpreted rather less evocatively as ‘Possessing Superior Skill’).
+This refers to the Wind (Vayu) in the upper atmosphere. It is a standard
+phrase, and the supposition is that it represents a direct calquing (or,
+rather, transposition) of the Persianate formula into Sogdian.
+
+So why is this of interest to us? Because the deific that is being
+described in such a manner … is bearing a Trishula (Trident), and is
+seated upon Bull(s). Now, Whom do we know Who might so happen to fit
+THAT particular iconographic depiction …
+
+And the answer is, of course, Lord Shiva. The Hindu Lord Shiva. Also
+known as Dyaus Pitar – the Indo-European Sky Father Himself !
+
+And this is where I get up upon my pulpit and/or hobby-horse. Which may
+have antlers. We’ll see how things go!
+
+The Smithsonian description of this panel echoes a standard academic
+viewpoint upon the matter – “Due to the lack of other available models,
+the Chang’an stone carver has based Weshparkar on the form of the Hindu
+deity Shiva Maheshvara”.
+
+Or, phrased another way, they cannot work out why an ostensibly
+Zoroastrian-ish deity of the Sogdians is obviously represented in a
+manner strongly resemblant of our Shiva. And so have put it down to the
+rather curious presumption that Chinese artisans, not really knowing
+what the Sogdian (or, for that matter, Zoroastrian) deific ‘should’ look
+like, have instead seized upon a Hindu figure.
+
+Straightaway, we can start to see the problems with this notion. There
+was a Sogdian community in Xi’an at the time – nobody thought to check
+with the living Sogdians? Instead, iconography from all the way on the
+other side of the Himalayas is felt to be more ‘familiar’ and
+‘accessible’ to Chinese sculptors than the more immediate inhabitants
+closely engaged in trading with their own realm? Seems a bit of a
+stretch. And that’s *before* we consider the fine Weshparkar depiction
+found at Penjikent in modern-day Tajikistan – another Sogdian site, from
+roughly the same period (various of them are a few decades later), and
+on the other side of the Taklamakan Desert from the Chinese end of the
+trading route. What do we find there? Well, the murals are sadly
+seriously degraded, however to any Hindu it is immediately obvious just
+Whom the Trishula-wielding figure depicted there is – for us, anyway.
+
+So, in other words and to phrase things more succinctly: we can
+demonstrate that to the Sogdians … Weshparkar looking a lot like Shiva
+was NOT some aberration caused by unfamiliar Chinese sculptors just
+seizing upon any old thing due to their lack of care nor knowledge about
+‘foreign’ deifics. Instead – it is a quite correct depiction, if in a
+Chinese-ish aesthetic (something of a necessity, apparently, as the
+Sogdians are reportedly not supposed to have been too big upon this kind
+of stone-carving).
+
+Yet if it’s so immediately apparent that this is the case … why do we
+find the resistance to this from some academics? Well, the answer to
+that is a bit ‘conspiratorial’ sounding – there is a significant
+pressure of orthodoxy to ‘minimize’ Hindu saliency out there upon the
+Steppes. Instead, anything and everything is supposed to be Zoroastrian,
+Buddhist, Greek, or even Mesopotamian … but not Hindu. This may sound an
+extreme claim, but one just has to consider the title of a leading work
+upon the subject – “Iranian Gods in Hindu Garb: the Zoroastrian Pantheon
+of the Bactrians and Sogdians”; or, for that matter, the most curious
+manner in which multiple-armed, lion-riding Mother / War Goddess figures
+are held to be the result of Mesopotamian influence … rather than, you
+know, our Devi Durga – and endogenously Indo-European considering the
+iconographic associations encountered as far afield as Freyja of the
+Norse, etc.
+
+Figures such as an obviously Shiva Weshparkar present an obvious
+challenge to these claims – because it is simply not possible to
+‘explain away’ the depiction in question as being one of ‘Iranic’ and
+more pointedly ‘Zoroastrian’ Vayu. There is simply no major Zoroastrian
+iconographic tradition which depicts Vayu mounted upon a Bull, wielding
+a three-pointed Spear.
+
+More worrisomely for those effectively pushing the line of the Scythian
+sphere as being Zoroastrian but on horseback – the underlying network of
+associations for Lord Shiva are decidedly non-positive within that
+particular religion’sperceptions. Sarva \[‘The Archer’ – a prominent
+theonym of Rudra in the Vedas and subsequent Hindu texts\] is literally
+demonized, along with even the word “Deva” \[ostensibly cognate with
+‘Deus’, ‘-Tyr’, etc., i.e. ‘God’ (more literally ‘Shining One’) – the
+‘Devs’/’Divs’/’Daeva’ of the Zoroastrians are taken to be ‘Demons’
+bitterly opposed to the divine\]. The associations with freedom, the
+broad-rangingness of the wind, the Sons Who turn up upon antlered steeds
+(as mythically attested for the Maruts etc. … and also archaeologically
+attested for the Scythians – as seen at Pazyryk), the provision of the
+Divine Inspiration \[‘Furor’ we would say in the West – Ugra, Vipra, and
+other such terms in the Vedic sphere; with, again, this becoming not
+just demonized but referred to as ‘homosexual’ in Zoroastrian texts\] …
+these do not fit comfortably at all with the Zoroastrian orthodoxy. Even
+as they do fit *most* comfortably with the Scythian and other associated
+para-#GangSteppe Indo-European peoples and deific understandings. Hence,
+in no small part, why we find those archaic Zoroastrian attestations of
+fear and loathing of the ‘Turanian’ religious opposition that their
+heresy had faced, and who had driven them so far to the west to the land
+of Medea in the first instance. And hence, no doubt, why we find archaic
+Hindu texts speaking of Shaivite worshippers living out on the Steppes
+in Saka \[i.e. ‘Scythian’\] country.
+
+Now I have previously made the case, when discussing the ‘Oesho’ figure
+that is prominent upon quite an array of coinage etc. from the Kushan
+and Kushano-Sassanians eras in Bactria and its surrounds – that this is,
+again, Shiva \[see, for instance, “Shaivite Coin Of Kushanshah Peroz II
+– A Hindu God In Hindu Garb – Arte-Facts #9”\]. Upon this, we are on
+firmer ground ‘midst academia, if for no other reason than the Hinduism
+of at least some of these rulers is quite prominently attested and so
+there is a begrudging acceptance that maybe, just maybe, Hindu kings
+might have Hindu Gods upon their coinage. Except even here, we often
+tend to see various explanations advanced for the iconographic resonancy
+that effectively amount to “oh, well it just *looks* like Shiva”. And,
+to my especial lack of surprise, the linkage is once more auto-presumed
+to be an Iranic – and more specifically, Zoroastrian ‘Vayu’ which has
+informed both the representation (and its significance), and the
+nomenclature. ‘Oesho’ being supposed to hail from this same‘Wayaos
+uparo kairyehe’ – rather than the rather more logical ‘Ishvara’
+\[Sanskrit for ‘God-Emperor’, a theonymic epithet for Lord Shiva as
+supreme lord of the Cosmos\].
+
+\[There is also, I have just discovered, an attempt to explicate the
+iconography upon a more Hellenic basis – ascribing various traits to
+Poseidon (which is logical-ish), or Herakles (which is … not). As
+applies Poseidon – while it would be somewhat surprising to find a God
+of the Seas in the relatively more telluric Central Asian Steppe, this
+would not be entirely surprising in essence … due to Poseidon being one
+refraction of the Indo-European Sky Father, and yes, most certainly
+having a bull and trident linkage. Hence why, in *essence*, it is not
+necessarily an incorrect linkage – even if the actual likelihood of the
+Kushan figure of Oesho drawing more exclusively from Hellenic depictions
+of Poseidon brought east all those centuries ago rather than the
+*immediately nearby and very much more prominent at that time* Hindu
+visualizations of Shiva … is limited. With some Sasanian representations
+of Oesho (I suspect the author meant ‘Kushano-Sasanian’), there is
+reportedly a stronger Hellenic influence – Zeus-style figures … but with
+a Crescent Moon upon His Brow. Again, exactly in line with Shiva
+(Chandrasekhara), and not really something found in the ‘Classical’
+Hellenic iconographic corpus for Him. As for Herakles – a moment’s
+consideration ought reveal why this seems very peculiar indeed. Herakles
+is the Striker/Thunderer, the Son of the Sky Father. There are few
+grounds for iconographic, let alone mythographic coterminity … and
+having spent a significant quotient of my morning pouring over the
+evidence raised for such a concept (including “both have animal skins”
+and “a ruler issues some coinage featuring one deific and other coinage
+featuring another”, to paraphrase), it appears very probable that much
+of it hangs on an ancient numismatic typo. One which was corrected,
+meaning the ‘evidence’ is the faint impression of the uncorrected
+version as if that were the ‘true’ one.You see what I mean about
+seemingly looking for *any* excuse, no matter how … peculiar or forced,
+to try and de-legitimate clear Hindu saliency? (To be fair and sure,
+there’s slightly more to the Herakles coin issue, and I may return at
+some later point to examine some of the ‘moving parts’ to this in more
+detail)\]
+
+In any case, the figure of Oesho is quite integral for showing what is
+truly going on here.
+
+For whereas it is often crudely presumed by those who have little
+knowledge nor interest in the Hindu theology, that Oesho represents some
+kind of ‘syncretic’ ‘smooshing together’ of two ostensibly separate
+deifics – Vayu and (Hindu) Shiva – in actuality, Vayu is a *form* of
+Shiva. Something that has been long known in the Hindusphere – for
+example, its quite direct statement in Shatapatha Brahmana VI 1 3 13;
+and which has obvious archaic Indo-European origins, as can be easily
+observed via the comparison of the mythic situation of Nordic Odin to
+both Vedic Vayu and Rudra.
+
+Or, to perhaps phrase it another way – yet also more directly … both
+Vayu and Rudra (and Agni) are forms of the Indo-European Sky Father
+Deific; and yes, yes we most certainly do have the direct Vedic
+statements on Rudra as Dyaus Pitar \[see my earlier ‘On The Still Active
+Dyaus Pitar Of The Indo-Europeans – The Sky Father Still Roars
+Supreme’\].
+
+An intriguing feature attested for each of Rudra and Vayu and Agni in
+the Vedic corpus is a sort of ‘dual-faced’ nature – alternately, ‘Shiva’
+\[that is to say, ‘Auspicious’, ‘Positive’, ‘Nurturing’ \[as in ‘causing
+to grow’, per one reconstructive etymology\], perhaps ‘Lordly’\], and
+yet also at other times … rather more Destructive, Death, and Baelful.
+This is seen quite directly with the two heads of Agni in iconography,
+or the Rudra – Shiva distinction prevalent particularly in modern
+Hinduism’s regarding of the situation (wherein the latter epithet has
+become a theonym quite directly linked to the more ‘kindly’ and
+‘auspicious/fortunate’ correlated facing of the same God).
+
+It is also beheld in slightly different terms when we consider the
+Zoroastrian textual corpus. There, we find it stated in Yasht 15 – the
+‘Ram Yasht’ :
+
+“My name is Vayu, O holy Zarathushtra! My name is Vayu, because I go
+through (vyemi) the two worlds, the one which the Good Spirit has made
+and the one which the Evil Spirit has made.  
+My name is the Overtaker (apaeta), O holy Zarathushtra! My name is the
+Overtaker, because I can overtake the creatures of both worlds, the one
+that the Good Spirit has made and the one that the Evil Spirit has
+made.”
+
+(Variant translation, rather more succinct in its synopsis:  
+“The reason that I am called Vayu is that I pursue (attain, conquer)
+both creations, both that which Spənta Mainyu created and that which
+Aŋra Mainyu created.”)
+
+Now, as for what is being communicated there … it is a sort of ‘dual
+nature’ for the Zoroastrian perception of Vayu. On the one hand, ‘Good’,
+and on the other – more foreboding, indeed downright terrific (for He
+begets Terror). It has been turned from the relatively more nuanced
+Vedic/Hindu and therefore likely archaic Indo-Iranian (and, indeed,
+Proper Post-Andronovo) understanding where these are two facets or
+facings of the God, through to a simultaneously more abstracted and yet
+reified ‘move on two spheres/worlds’. A ‘foot in both camps’, we might
+perhaps idiomatically render it.
+
+However, in-context, there is also something quite remarkable to this
+Yasht. Namely –
+
+“To him did the Maker, Ahura Mazda, offer up a sacrifice in the Airyana
+Vaejah, on a golden throne, under golden beams and a golden canopy, with
+bundles of baresma and offerings of full-boiling \[milk\].  
+He begged of him a boon, saying: ‘Grant me this, O Vayu! who dost work
+highly, that I may smite the creation of Angra Mainyu, and that nobody
+may smite this creation of the Good Spirit!’ \[variant translation:
+“that I may strike down the creatures of Aŋra Mainyu, by no means what
+belongs to Spənta Mainyu”\]  
+Vayu, who works highly, granted him that boon, as the Maker, Ahura
+Mazda, did pursue it.”
+
+Now as for why *that* is interesting – apart from that third line I have
+quoted (actually line 4 in the original Yasht) containing, quite
+directly, our old friend ‘Vayush yo uparo-kairyo’ – it is because it
+depicts Ahura Mazda having to pray to Vayu for empowerment. And it is
+also a rather pointed request that the smiting in question be only of
+the malefic – not of what ‘belongs’ to the realm of Spenta Mainyu (i.e.
+‘Good Spirit’).
+
+The Yashts are, of course, a later layer of Zoroastrian scripture as
+compared to what was composed in Zoroaster’s own day and by Zoroaster’s
+own reputed hand – hence why we begin once more to see an array of
+deifics invoked therein. Zoroaster himself almost pointedly does not do
+this in his own work, instead focusing upon a substantively ‘godless’
+paradigm – simply himself and ‘Wisdom’ \[‘Mazda’\]. It appears that as
+time wore on, the later clades of Zoroastrians felt the need to
+‘re-introduce’ the Indo-Iranic deifics of their pre-Zoroastrian
+ancestors … but usually in ‘sanitized’ and ‘controllable’ format (c.f
+the situation we see with the various points of distinction between
+Vedic Indra (demonized under the same name by the Zoroastrians), and
+later Zoroastrian Verethragna, as I have covered in greater detail
+elsewhere). It is quite likely that, even despite this particular Yasht
+presenting in its lines Zoroaster acting in imitation of Ahura Mazda in
+calling upon Vayu (and a moment’s consideration of the hubris enjoined
+in such a ritual formula … ), that Zoroaster himself would have been
+outward appalled at how his ‘perfect’, ‘pure’, and Godsless\[well,
+Deva-less, at the absolute very least\] nuevo-religion had now wound up
+paying some form of homage to versions of the same beings he’d sought to
+have cast down all those years ago and all those miles to the east in
+Bactria. Especially, as in this case, where it is quite directly and
+overtly stated that there is a power even mightier than the
+pseudo-deific that Zoroaster had invented – and one that was also
+partially of the ‘malefic’ (from Zoroastrian perspective, at least)
+world.
+
+There are an array of potential explanations for why this evident
+transition had eventually occurred – and they are not necessarily
+mutually exclusive from one another. As applies Verethragna, it has been
+suggested that a revolt of the warrior caste may have been in the offing
+if their efforts to propitiate the Striker/Thunderer of their
+forefathers persisted, hence necessitating the congealment of an
+‘acceptable’ substitute that was still recognizably running from the
+similar template as the original. As applies Anahita, it would seem that
+the true and proper archaic Indo-Iranic worship of the Goddess could not
+be suppressed – and so we find archaic Zoroastrian texts referencing
+‘Daevic’ worship of Her, including quite pointedly by the Turanians. As
+we have previously discussed (and done so much more expansively
+elsewhere – see my ‘On Indo-European Divine Inspiration – And The
+Zoroastrian Persecutory Suppression Of Same’, inter many alia), the
+Turanians are Indo-Iranic inhabitants of the Steppe and its surrounds
+that were (largely) significantly unimpressed with Zoroaster’s attempted
+religious “reforms”, and proceeded to make war against him and his
+followers to the point that they had to evacuate all the way across the
+expanse of Central Asia to the land of Medea, which became its new
+heartland reasonably early on in the religion’s history. They are, in
+short, religiously conservative and a definite part of the ‘Scythian’
+sphere. As with the Vedic religion, they would represent a direct
+continuance of the archaic Andronovo (and therefore early Indo-Iranic)
+religious orthodoxy; with the strong contiguity of what we can divine
+about the Turanian religion with the Vedic – thanks almost entirely to
+the Zoroastrians’ identifications by name of what it was they found so
+repulsive and fearful – further speaking to this archaic and
+essence-tial underlying unity for the Indo-Iranian sphere in terms quite
+overtly recognizable to the Vedic.
+
+And all of that brings us – approximately – back full circle, or near
+enough thereabouts, to the Sogdians and their Weshparkar depictions.
+
+Now I absolutely do not disagree that the Zoroastrians had an influence
+on the general Scythian sphere – the only point at issue there is just
+how much of an influence, how substantive, and in what forms that
+influency might be viably demonstrated to have taken.
+
+The presumption so frequently encountered in some circles that the
+Scythians were, in effect, Zoroastrians – I do not think is in any way,
+shape, or form credible. It should require us abandoning quite an
+extensive array of textual and archaeological evidence in order to
+believe such a thing possible; and would represent a sort of ‘final
+triumph’ from the grave of the early Zoroastrians, converting via the
+bluster of their inheritors what they could not hope to seek nor to hold
+in life. Post-mortem appropriations, in other words – so perish the
+thought!
+
+However, that does not mean that particular parts of the Scythian sphere
+were not to varying extents Zoroastrian-influenced – especially as
+applies iconography. After all, the Persians were a notable and opulent
+civilization in their heyday. If one is looting and plundering
+therefrom, one is of course going to wind up with a fair quotient of
+their aesthetics sitting about the place, and perhaps acting in somewhat
+imitation of – in a not entirely dissimilar manner to how we had also
+seen Hellenic elements (for instance, the diadem) turn up in these
+spheres likewise as holdovers from when the Greek cultural saliency was
+greater in those parts. As applies the well-connected Sogdians, with
+their mercantile behavior and enmeshment with the Persian sphere
+specifically at the western end of their networks, it would not be at
+all surprising that the influence would, tthere, be greater for the
+prominent faith of the Persians thereupon.
+
+Except so often in these matters, we semi-consciously confuse the
+‘expression’ (the outer, visual manifestations especially) for the
+‘essence’; and in these particular cases, postulate that the outward
+adoption of some Zoroastrian frippery means that the more archaic and
+authentic Scythian elements have been subsumed, displaced, overwritten
+in fairly direct consequence.
+
+Careful consideration of the evidence demonstrates the inherent
+falsehood of this seemingly default proposition. For example, if we were
+to consider the Indo-Scythian tapestry unearthed in a Xiongnu barrow in
+Mongolia which depicts a Soma ceremony – it is quite clear that yes, yes
+indeed there are Zoroastrian visual elements to the depiction. Yet if we
+look closer, we find that there are also other features – and most
+pointed of these, for our purposes, is that the ‘active ingredient’ in
+this Soma ceremony (and I pointedly phrase that it is a *Soma* ceremony,
+not a Haoma one), appears to be a psilocybin mushroom species held aloft
+by one of its officiants. Given the entirely well-founded observations
+about the likely identity of Soma (and other such ‘Empowering Elixirs’
+across the Indo-European sphere) having such source-material in the
+mycological world, with the utilization of ephedra as ‘active
+ingredient’ in Zoroastrian ‘haoma’ appearing to be a bait-and-switch
+following Zoroaster’s efforts at stamping out the previous religious
+orthodoxy … it is quite telling that it is precisely that orthodoxy we
+appear to see on show there, rather than the Zoroastrian subversion.
+
+As I say – ‘expression’ is one thing … but ‘essence’, it may be quite
+another. These things are old – these things are *true*.
+
+So what does all of this mean for the depiction of Weshparkar, and for
+that matter, for the funerary monument and its occupants at issue here?
+
+Well, to start with the later and work our way both backward and upward
+– it is evident that whatever Zoroastrian influence was exerted upon the
+Sogdian (and, for that matter, broader Scythian) sphere at the time that
+Wolf and his wife Dawn were living … it was at best rather heterodox in
+various particulars (likely, at least partially because of their
+position on the ‘periphery’ of the Persianate sphere even before the
+distance to China is taken into consideration; and at least partially
+also due to the array of other influences ‘crowding it out’). We can
+tell that via the very fact of the tomb’s existence in question.
+Zoroastrians do not, as a rule, tend to bury their dead underground.
+They expose them in a communal location, and let nature and the elements
+erode the remains away to bone. Here, by contrast, we have the opposite
+– the man and his wife, together toward eternity within the earth and
+within a finely wrought sarcophagus tomb of stone.
+
+Now, there are some potential explanations for this otherwise noteworthy
+departure – including a lack of Chinese permission for the more
+traditionally Zoroastrian observances in this regard to actually be
+carried out. However, that absolutely does not explain the core figure
+at issue here – a quite clearly and prominently Hindu-recognizable (if
+Central Asian garbed) Shiva, situated looking down on the
+comings-and-goings across the Bridge to the Afterworld.
+
+What *can*, however, is our easy knowledge of the proper and appropriate
+Indo-European comparanda – that (all-)pervading confluency of the
+Vedic/Hindu, Hellenic/Greek and Roman, Nordic/Germanic, Celtic,
+Scythian, etc. etc. perspectives which help us to arise at the actual
+archaic truth.
+
+Shiva is, as we have earlier noted, Dyaus Pitar – the Sky Father. The
+Sky Father deific has a rather prominent role in the Afterworld – as
+attested via, for instance, Odin, Hades / Pluto , Dis Pater, and Varuna
+(and, for that matter, potentially Brihaspati) in YamaLoka in the
+RigVeda, etc. This may also include a rather important role facilitating
+the *conveyance* of souls to that realm – as seen with Agni as the Wolf
+in RV X 16. In terms of Vayu, this is particularly relevant – after all,
+the investiture of Breath is what brings us to life (an understanding
+also shared with the Nordic anthropogenesis as detailed in the Voluspa
+and Gylfaginning (although it is the Voluspa where Odin’s investiture of
+Önd is made explicit – and it is interesting to note that the term, so
+clearly cognate and coterminous with ‘Wind’, is often translated as
+‘Soul’ here. All-Father, indeed !) ; and therefore, the exhaling of that
+*final breath* which correlates with the soul leaving off upon its next
+phase of its metempsychotic journey (an instance interestingly linked to
+the Rudras in Vedic textual spheres, as applies the last breath’s
+leaving one’s lungs).
+
+That aforementioned Afterworld, I do not call an Underworld, precisely
+because in the more archaic Indo-European understanding it is not one.
+Rather, it is in the Sky – indeed, heading for the High Heaven, hence
+the ‘Solar Afterlife’ concept we have discussed in (A)Arti-cles
+elsewhere; and also the Vyomakeshaunderstanding for the
+‘Heaven-Haired’, ‘Wind-as-Soul’ hair of Lord Shiva which has intriguing
+iconographic and mytho-linguistic resonations in both the Classical and
+Nordic canons \[as discussed, inter alia, in ‘On Valaskjalf, Hlidskjalf,
+Paramevyoman: The Golden Throne And The Indo-European Solar Realm Of The
+Glorious/Ancestral Dead – The Indo-European Cosmology – A Brief Guided
+Tour: Part Dieux’\] … pretty much where we should expect to find a
+‘High-Working’ Deity to be. Welcoming us Home.
+
+And so therefore, to phrase things (reasonably) succinctly – what we are
+seeing here is yet more evidence not for some curious syncreticism of
+unrelated deifics via the magic of trade-routes and cultural
+melting-pots with limited regard for any form of theological integrity,
+as is so commonly alleged. But rather, that thanks to an array of
+Indo-European (and more specifically – Indo-Iranic) influences
+conmingling in this manner, in this sphere and specia Steppe /
+Scythian-ish space … proper elements to the archaic Iranic understanding
+of Vayu being restored, even amidst what was otherwise an erstwhile (if,
+perhaps, peripheral) Zoroastrian-ish populace. Indeed, the infusion of
+Hindu ‘dna’ as guide, empowerment, and template evidently facilitated a
+resurrection of what is, effectively, a *pre-Zoroastrian* (Indo-)Iranic
+perception of the deific. If not *necessarily* various of the
+surrounding context.
+
+There is more that can, should, and must be said upon various of these
+aforementioned matters – but for now, I think, it is enough. It is
+Wednesday – a day that has, within its very name, a point of salient
+linkage for this subject.
+
+And therefore – Hail to the Sky Father Who Is The High-Working Wind !
+
+Jai Ishvara !
