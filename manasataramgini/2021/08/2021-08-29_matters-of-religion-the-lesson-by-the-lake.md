@@ -8,15 +8,11 @@ Source: [here](https://manasataramgini.wordpress.com/2021/08/29/matters-of-relig
 
 Sharvamanyu was with his preceptors Somakhya on Lootika on the shore of
 a lake in the midst of the mountains on a full moon night. It was the
-cremation ground for a lineage of
-V![\_4](https://s0.wp.com/latex.php?latex=_4&bg=ffffff&fg=333333&s=0&c=20201002)s,
-who had historically specialized in the arts of preparing
+cremation ground for a lineage of V_4s, who had historically specialized in the arts of preparing
 medico-recreational substances from Acacias but had risen to the status
 of warriors during the great Jihād-s of the monstrous Mogol tyrants.
 Some distance from where they sat, the shore was whitened by the bones
-of the generations of
-V![\_4](https://s0.wp.com/latex.php?latex=_4&bg=ffffff&fg=333333&s=0&c=20201002)s
-who taken the ladder to confront the glowing jaws of the fearsome
+of the generations of V_4s who taken the ladder to confront the glowing jaws of the fearsome
 Sārameyau en route to the realm of Vivasvān’s dark son. Now, those
 osseous remains gleamed like gold as the bowl of soma climbed over the
 lake to gladden the bands of Vasu-s, Āditya-s and Rudra-s with a
@@ -39,10 +35,7 @@ cemetery with an archaic image of the god. An inscription from the
 Vikrama year 1532 stated that the image had been found in the lake by a
 Gāṇapatya siddha and installed in the shrine. The siddha was said to
 have joined the retinue of his chosen god as a phantom upon his death
-and was believed to manifest occasionally in those regions, especially
-to
-V![\_4](https://s0.wp.com/latex.php?latex=_4&bg=ffffff&fg=333333&s=0&c=20201002)
-votaries who were uncorrupted by religious degeneration that had passed
+and was believed to manifest occasionally in those regions, especially to V_4 votaries who were uncorrupted by religious degeneration that had passed
 through the region thereafter. Somakhya and his wife asked Sharvamanyu
 to worship Vighna with a short stuti and by placing some of the flowers
 they had collected in course of their trek to the lake at the feet of
@@ -70,7 +63,7 @@ intelligible to him — it was neither Sanskrit nor a modern Aprabhraṃśa.
 At climactic phrases in the lyrics, he felt overpowering emotions
 seizing him from deep within. From the midst of the band arose the ghost
 of a
-V![\_1](https://s0.wp.com/latex.php?latex=_1&bg=ffffff&fg=333333&s=0&c=20201002)
+V_1
 named Kiñjalka. The phantom said: “Having performed great acts of valor,
 I was beset by a large band of well-armed enemies when my siddhi-s had
 declined. Hence, I had to do battle as an ordinary man though I was
@@ -149,13 +142,16 @@ together with the entire universe, was within that skull gracing the
 eight-fold god. He spontaneously uttered that Atharvan incantation of
 The god, manifesting both as himself and his son, believed to have been
 said by Prajāpati himself as he was decapitated by Rudra:  
+
 kāpālin rudra babhro .atha bhava kairāta suvrata \|  
 pāhi viśvaṃ viśālākṣa kumāra varavikrama \|\|
 
 Thereafter, he spontaneously uttered the devadeveśvara-stuti:  
+
 namo viṣama-netrāya namas te tryambakāya ca \|  
 namaḥ sahasra-netrāya namas te śūla-pāṇine \|  
 namaḥ khaṭvāṅga-hastāya namas te daṇḍa-dhāriṇe \|\|  
+
 Obeisance to the odd-eyed one and obeisance to you with the three
 goddesses. Obeisance to the thousand-eyed, obeisance to you with a
 trident in hand. Obeisance to the one with the skull-topped brand in
@@ -328,7 +324,7 @@ faltering at the abhyāsa and set the sādhya accordingly.”
 Sh: “Surely the apparition of the phantom of Kiñjalka and the dog that
 kept visiting the cemetery have a lesson here?”  
 L: “The case of said
-V![\_1](https://s0.wp.com/latex.php?latex=_1&bg=ffffff&fg=333333&s=0&c=20201002)
+V_1
 gives an important lesson. A human is a finite being with a relatively
 small window of opportunity. A person usually begins life with no
 special endowments. Even a sahaja soul, while endowed with great
@@ -373,8 +369,7 @@ phantom! But in everyday life, man continues with his toils if he sees
 at least a few positive results else, he gives up. How does one keep
 toiling in face of repeated failure, when one might be reaching for the
 unattainable like the dog at the cemetery? Moreover, [the tale of the
-wicks of
-Bhairavānanda](https://manasataramgini.wordpress.com/2021/07/17/bhairavanandas-wicks-a-retelling/),
+wicks of Bhairavānanda](https://manasataramgini.wordpress.com/2021/07/17/bhairavanandas-wicks-a-retelling/),
 which Lootika had told us in school, comes to mind — would I end up with
 wheel on my head for my persistence?”
 
@@ -399,9 +394,7 @@ must warn you Sharva, that path to the highest siddhi-s is fraught with
 much danger even as the fourth wick of Bhairavānanda. You might see
 warnings as you are headed that way, which you must differentiate from
 benign failures. Indeed, Lootika and I have seen the ghost of more than
-one
-V![\_1](https://s0.wp.com/latex.php?latex=_1&bg=ffffff&fg=333333&s=0&c=20201002),
-who persisted through those warnings and fell in such attempts, like the
+one V_1, who persisted through those warnings and fell in such attempts, like the
 corpses of forgotten climbers on slopes of the Himavant. On the other
 side, if your sādhya has come in clear vision, keep toiling and change
 upāya-s upon repeatedly failing. Like in biology, so also here;
