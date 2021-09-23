@@ -1,0 +1,282 @@
++++
+title = "Asians and Pacific"
+full_title = "Asians and Pacific Islanders The triangle"
+date = "2021-09-21"
+upstream_url = "https://manasataramgini.wordpress.com/2021/09/21/asians-and-pacific-islanders-the-triangle/"
+
++++
+Source: [here](https://manasataramgini.wordpress.com/2021/09/21/asians-and-pacific-islanders-the-triangle/).
+
+Asians and Pacific Islanders: The triangle
+
+In our youth, we read with great excitement old books on anthropology
+obtained from a library with considerable difficulty. The excitement was
+primarily from learning about the osteology of extinct apes and monkeys,
+including the closest sister groups of Homo sapiens. Some of those books
+also had a collection of plates with pictures of stone tools and various
+extant peoples of the world, especially hunter-gatherers who still lead
+a relatively archaic mode of life. Those pages too fascinated us, and we
+spent many an afternoon turning through them wonder-struck by how many
+different morpho- and eco-types of Homo sapiens were around. Of those
+tribes, the Melanesian in particular caught our attention with their
+gripping displays of headhunting, cannibalism and prion neuropathology
+(there was still a debate about what prions were back then). The images
+of Fijian tribesmen and a collection of their braining clubs left a deep
+impression on us (Figure 1). We had a direct experience of the same when
+we visited a coethnic who had been driven out of Fiji during the attack
+on the Hindus by the former islanders. However, in his flight back to
+the subcontinent, he had brought along one of those clubs of the
+ancestors of his Fijian enemies. We wondered about how the Melanesians
+and Polynesians reached their distant outposts in the Pacific. We also
+wondered how these Indo-Pacific peoples might be related to the tribal
+Indians — it did not escape our attention that some of that ancestry was
+visibly present in the non-tribal Indians.
+
+![Fijians](https://manasataramgini.files.wordpress.com/2021/09/fijians.png?w=350&h=571)
+
+Figure 1. Fijian tribal warriors with a club photographed in the late
+1800s.
+
+Answers to many of those questions have come from the genomics of extant
+and prehistoric peoples over the past few years. In its present form,
+this note is by no means a survey of all that. It is just a very brief
+account comprised of a few observations sparked by recent discoveries.
+Unfortunately, due to magazine-fever many molecular paleoanthropology
+papers while presenting important specimens are poorly written and
+illustrated. Also, due to the competing groups involved, the speed with
+which new specimens are piling in, differences in interpretation, and
+the terminological issues, these works do not afford a synthetic picture
+of the history of the people under consideration. So, we have had to
+wade through these presentations, which might ignore each other, to
+summarize the below points of interest regarding the evolution of the
+Asians and Pacific Islanders. At the broad level, the ethnogenesis of
+the Eurasians and Pacific islanders can be summarized by this principal
+component analysis of the genomic variation of extinct and extant
+individuals (Figure 2). Some populations are colored distinctly against
+the gray background of the remaining individuals and labeled. The key
+prehistoric genomes are indicated by big stars and labeled in the
+legend.
+
+[![Asians](https://manasataramgini.files.wordpress.com/2021/09/asians.png?w=640)](https://manasataramgini.files.wordpress.com/2021/09/asians.png)**Figure
+2.** A plot PC1 and PC2 showing various Eurasians and Pacific Islanders.
+LinearBKer: Linearbandkeramik (Early European Farmers: Neolithic);
+Gandhara: Ancient samples from Northwestern India (what is now TSP);
+Aus/Papuan: Australians (squares) and Papuans (triangles); Phil/Mal
+Ngrt.: Aeta, Agta, Jehai and Batak peoples (Philippines/Malaysian
+Negritos, brown triangles); Cam: Cambodians; Twn Ausn: Taiwanese Hanben
+site, likely early Austronesians; Karelia HG: Eastern hunter-gatherers
+from Karelia (Finland-Russia border zone); Iran.Cu: Copper Age people
+from Hajji Firuz site; Iran.Neo: Neolithic people from Ganj Dareh site;
+Geoksyur Neo/Cu: Turkmenistan Neolithic and Copper Age people.
+
+One can see that a triangle of clines describes a major fraction of
+Eurasians and Pacific islanders. The first is the Indian cline extending
+from the Andamanese populations, like the Onge, Jarawa and Great
+Andamanese on one end and at the other end terminating in the [Sintashta
+steppe
+culture](https://manasataramgini.wordpress.com/2018/04/01/a-brief-note-on-some-new-developments-regarding-the-genomics-of-indians/)
+that likely corresponds to the expanding Aryans. The Paniya tribe of
+Kerala and Karnataka represent one of the groups from the mainland that
+is closer to the Andamanese end of this cline. The second notable cline
+is the Australasian cline, with the Papuans and Australians on one end
+(close to the Andamanese) and the East Asians (Hans, among others) at
+the other end. In between lie the Negrito tribes of the Philippines and
+the Malay region (brown triangles), and the Austronesians who spread
+into the Indo-Pacific from Taiwan in a maritime expansion, ultimately
+reaching New Zealand and Rapa Nui (Easter Island) of the coast of Chile.
+The third notable cline completing the triangle is the North Eastern
+Eurasian-First American cline. The Bronze Age Okunevo from Southern
+Siberia, the North and South American native peoples (including the
+prehistoric Kennewick man from the Washington state of USA), Eskimos,
+and Mongols are seen lying on this cline. Based on the prehistoric
+samples we can summarize some key events in the ethnogenesis of the
+Asians and Pacific Islanders thusly:
+
+1\. Before
+![\\approx](https://s0.wp.com/latex.php?latex=%5Capprox&bg=ffffff&fg=333333&s=0&c=20201002)
+50K, there was an unknown number of archaic Homo lineages throughout
+Asia all the way to the Pacific islands. Of these, the Denisovans were
+widespread. We have direct evidence for Denisovan admixture in Tibet,
+Mongolia (the Salkhit woman from 34KYA shows some Denisovan admixture),
+the Philippines and the Indo-Pacific islands. The ancestral Asian
+arrived in this landscape after splitting off from the lineage leading
+to the Western Eurasian in the west. Then the ancestral Asian split up
+into several far-ranging groups, probably by around 50KYA. These early
+Asian lineages included:  
+i. The Tianyuan-like Eastern group prototyped the Tianyuan man from the
+Tianyuan cave near Beijing, dating to
+![\\approx](https://s0.wp.com/latex.php?latex=%5Capprox&bg=ffffff&fg=333333&s=0&c=20201002)
+41KYBP. A recent study posits that the Tianyuan man might have had up to
+3% archaic Homo admixture from a Denisovan source. The Tianyuan-like
+clade was probably basal to the later East Asian clades, which
+eventually split up into Northeast Asian and Southeast Asian clades
+ancestral to modern East Asians.  
+ii Onge-Hòabìnhian group, once extending from at least the Andamans
+(Onge, Jarawa, Great Andamanese) through Laos, Vietnam and Malaysia.
+This group has been recently registered in the ancient specimens from
+Hòabìnhian hunter-gatherers from East Asia from at least 8000 YBP.  
+iii. An early-diverging sister group of the Onge-Hòabìnhian clade were
+the hunter-gatherers of the Indian subcontinent from whom tribal Indians
+\\textit{on an average} get most of their ancestry (e.g., See Paniya in
+Figure 2). The Onge-Paniya gap in Figure 2 represents this deep
+divergence between the Onge-like clade proper and their mainland Indian
+sister group. Varying fractions of this ancestry persist in non-tribal
+Indians with a mostly south to north gradient (“The Ancient Ancestral
+South Indians” (AASI) of the Reich group). Today, other than this Indian
+HG clade, the broader “Onge-like” clade includes the Philippines
+Negritos, Papuans and Australians (Note their proximity in Figure 2).  
+iv. The Tibetan hunter-gatherer-Jomon group, which once stretched over
+Asia from at least Nepal-Tibet to Japan. These people played an
+important role in the ethnogenesis of the modern Japanese. The old Jomon
+were first invaded by a Northeast Asian population from the Amur River
+region, leading to the Yayoi period around 3000 YBP. This was followed
+by the classical Koreanic-type East Asian invasion of Japan, marking the
+emergence of the historical Japanese at the beginning of the Kofun
+period. Pure representatives of this group are extinct now, but their
+Y-chromosome and some autosomal genome survives in Nepal, Tibet and
+Japan. It seems the 2800-year-old Chokopani man from the Mustang cave in
+Nepal had
+![\\approx](https://s0.wp.com/latex.php?latex=%5Capprox&bg=ffffff&fg=333333&s=0&c=20201002)
+16% of this ancestry while a 3500-year-old Jomon Japanese individual
+shows about 44%.
+
+2\. The Onge-Hòabìnhian clade proper lack high Denisovan ancestry but
+their sister group, the Papuans and Australians, show evidence for at
+least two introgression events with Denisovans. The Philippines
+Negritos, too, had 1 or 2 Denisovan admixtures. Thus, greater Onge-like
+clade spreading from India to South East Asia encountered Denisovan
+races all the way from the Philippines to Sahul (the combined
+Pleistocene landmass of Papua+Australia) and annihilated them across the
+Indo-Pacific islands while mating with them on occasion. This raises the
+possibility that the dwarf Homo (e.g., Homo floresiensis and the Luzon
+Homo) on the Philippines and Flores were races of Denisovans. The North
+Asian and Central Asian Denisovans seemed to have had larger body size
+and a characteristic huge molar.
+
+3\. A sister group of the greater Onge-like clade group or alternatively
+a group branching close to the stem after the Tianyuan-like and
+Onge-like groups somehow reached America and contributed a small amount
+to the ancestry of some South Americans. While initially noted by
+Skoglund et al. in the Amazonian tribes like Surui and Karitiana, recent
+work by Brazilian researchers also recovered this ancestry on the South
+American Pacific coast. To date, this ancestry is missing in the North
+and Central Americans or their Beringian predecessors. This favors the
+model in which this Onge-like ancestry reached the Pacific coast of
+South America by sea (see below).
+
+4\. Recently, Carlhoff et al. reported the genome of a pre-Neolithic
+young forager woman from Leang Panninge, South Sulawesi dating to
+7.2-7.3 KY from the \`Toalean’ archaeological complex. This is the first
+genome from Wallacea, the Oceanic islands between the Sunda shelf of
+Indonesia and the Sahul landmass of the Pleistocene. She is modeled as
+having
+![\\approx](https://s0.wp.com/latex.php?latex=%5Capprox&bg=ffffff&fg=333333&s=0&c=20201002)
+50% of Onge-Papuan-like ancestry related to that seen in Sahul peoples
+along with the Denisovan admixture seen in them. However, the best fit
+models also suggest a prehistoric East Asian ancestry of
+![\\approx](https://s0.wp.com/latex.php?latex=%5Capprox&bg=ffffff&fg=333333&s=0&c=20201002)
+50%. The authors say this can be approximated by Qihe, a Southeast Asian
+Neolithic individual from
+![\\approx](https://s0.wp.com/latex.php?latex=%5Capprox&bg=ffffff&fg=333333&s=0&c=20201002)
+8.4 KYA. This suggests that not just Onge-like groups but also the
+Southeast Asian clade expanded into the Pacific, mixing with the former.
+However, this type of
+![\\approx](https://s0.wp.com/latex.php?latex=%5Capprox&bg=ffffff&fg=333333&s=0&c=20201002)
+50-50 Qihe-Onge-like mixture is no longer present in Sulawesi or its
+surroundings. They seemed to have been wiped out in turn by another
+Southeast Asian expansion, the Austronesian expansion from Taiwan in the
+past 4000 years.
+
+5\. Such a see-saw contest between representatives of the greater
+Onge-like clade and the Austronesians of Southeast Asian roots played
+out repeatedly over the Philippines and the Malay archipelago. This is
+supported by the Southeast Asian admixture seen in the various Negritos
+and the remarkable the ancient DNA results from Vanuatu. This cluster of
+about 80 remote islands in the South Pacific is populated by people
+speaking an Austronesian language but having most of the ancestry from a
+Papuan-like group. Like Papuans, several Vanuatu tribesmen wear phallic
+sheaths (koteka). However, the earliest genomes from these islands
+suggest that they were first occupied by the Austronesians. But they
+were soon joined by the Papuan-like group. These Papuan-like people
+seemed to have wiped out the Austronesians on several islands, but the
+latter seemed to have held out on some of the islands. These
+Austronesians then appear to have made a return to mix with the former
+and give rise to the extant Vanuatuans.
+
+6\. If the Austronesians expanded primarily via the maritime route to
+span a vast swath of the globe, another Southeast Asian group, the
+Austroasiatics, appears to have expanded mainly by land and probably by
+sea. These include the speakers of Vietnamese and Khmer in continental
+Southeast Asia, Aslian in peninsular Malaysia and Thailand, the
+Nicobarese in island India, Khasi in North East India and the Munda in
+Eastern and North Eastern India. These Austroasiatics seem to have
+expanded from the Mekong river basin as a group dependent on fisher and
+some neolithic farming for their subsistence. One group probably arrived
+in the Indian mainland around 3200 YBP, where they mixed with the
+original Indian hunter-gatherers to give rise to the Munda-speaking
+tribal groups like the Santhal (Figure 2). It is likely they also
+resorted to a maritime route to reach Nicobar relatively early on.
+
+Finally, we shall make a few remarks regarding the implications of these
+findings for the modes of spread and various language groups. There is
+little evidence for any clear-cut relationships between the languages of
+the Andamanese, Papuans and Australians despite some claims to this
+effect by some of the long-rangers. Nor do they show relationships to
+Dravidian or whatever is reconstructible of the ancient Indian
+substrata. This is keeping with their split in the relatively ancient
+past when Denisovans were still around in the Indo-Pacific region and
+prolonged existence as hunter-gatherer tribes. The Austronesian and
+Austroasiatic languages are well-defined families like Indo-European and
+show the hallmarks of massive, relatively recent expansions. Linguistic
+investigations suggest that the languages of the Kra-Dai family (e.g.,
+Thai) might be a sister group to the Austronesian languages. The genetic
+evidence is not inconsistent with this proposal. The Austronesians were
+the masters of maritime expansion — they probably reached their
+Taiwanese homeland after splitting off from mainland Kra-Dai speakers.
+From there, they returned to the Asian mainland and Malay peninsula
+(Cham in Vietnam and Malay) and spread both East and west. In the East,
+they first moved slowly, taking the Philippines and then around 3500 YBP
+covered most of the Malay Archipelago. Over the next 500 years, they
+took Melanesia and Western Micronesia. By around 1500 YBP, they had
+swung west to Madagascar off the coast of Africa. Over the next 700
+years, they took every remaining Micronesian and Polynesian island all
+the way to Easter Island and Hawaii. The Southeast Asian admixture in
+pre-Austronesian Leang Panninge suggests that the Austronesians were not
+the first to venture into the Oceanic deep East. This is also hinted by
+the presence of the Onge-like ancestry in South America that likely
+reached there directly by sea via the Pacific coast. However,
+Austronesians certainly seem to have been the most successful. This
+raises the question of whether their boats were the critical factor that
+allowed the Papuan-like people to reach Vanuatu after the Austronesians
+got there first. This might also explain why the Austronesian language
+rather than genetics dominated in Vanuatu by functioning as the link
+language between the islands. Finally, this brings us to the recent work
+that has provided evidence for South American admixture from a Zenu-like
+South American tribe among the Polynesians, supporting the much-maligned
+contention of Thor Heyerdahl. Here again, it is peculiar that there is
+no evidence for a greater South American presence in Polynesia if they
+managed to reach some of the islands and transmit the sweet potato
+(Ipomea batatas). We suspect the initiative was with the maritime
+Polynesians who managed to reach the South American coast and bring back
+some admixture to their islands along with the sweet potato. Perhaps, as
+Heyerdahl speculated, this contact might have also contributed to some
+of the iconographic convergences that he noted, like on Easter Island.
+
+Clear monophyletic language families like Austroasiatic and Austronesian
+are not seen as uniting China, the Korean Peninsula and Japan, though
+these East Asians are genetically very close. While Japonic and Koreanic
+have structural similarities, evidence for their monophyly as sister
+groups or as part of a larger Macro-Altaic assemblage is limited. This
+suggests that the Yayoi probably brought the Japonic languages to Japan.
+This might explain the more general structural similarities with North
+East Asian language families like Koreanic and Tungusic but the absence
+of a specific relationship. The Kofun, while contributing most of the
+genetics of the extant Japanese, did not bring the language itself. They
+instead probably rose up in the Yayoi background as an elite that
+adopted the Yayoi language while spreading Kofun genetics.
+
+Thus, ancient DNA is making up for the absence of recorded history.
+Unfortunately, this revolution has not yet touched India. Imagine if we
+were to know something of Jorwe culture or Ash Mound peoples — they
+remain archaeological black boxes along with several other slices of
+Indian history.
