@@ -72,7 +72,7 @@ Finally, **while recording the podcast we uncover intriguing evidence
 that Jon Ossoff, Senator-Elect from Georgia, is “I.D.W.-adjacent.”**
 
 \* It has been brought to my attention that “[Spotted
-Toad](https://mobile.twitter.com/toad_spotted/status/915959944087826432)”
+Toad](https://mobile.twitter.com/toad_spotted/status/915959944087826432) ”
 had been using the term “Great Awokening” in the fall of 2017.
 
 **Subscribe**

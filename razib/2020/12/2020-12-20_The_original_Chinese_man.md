@@ -202,7 +202,7 @@ cast a formative shadow over future dynasties down to the modern period.
 Despite the upheavals of the 20th century, at the end of the day, China
 and its civilization remain rooted in Confucius. Today the Communist
 regime sponsors [“Confucius
-Institutes](https://en.wikipedia.org/wiki/Confucius_Institute)” abroad
+Institutes](https://en.wikipedia.org/wiki/Confucius_Institute) ” abroad
 to flex its soft power. To understand China, you need to understand
 Confucius and his world. To understand Confucius and his world, you need
 to understand the Zhou and the meritocratic world that they created atop

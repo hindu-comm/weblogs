@@ -62,7 +62,7 @@ global 20th century. And not just each of their distinct contrasts with
 the West.
 
 “[The West and the
-Rest](https://www.amazon.com/exec/obidos/ASIN/B0054TVW04/geneexpressio-20)”
+Rest](https://www.amazon.com/exec/obidos/ASIN/B0054TVW04/geneexpressio-20) ”
 has an irresistible ring, but when you get down to it, the
 incommensurability of Indian culture to that of China yawns just as
 unfathomably, or more so than that between the West and either Asian

@@ -170,13 +170,11 @@ for beer.
 
 But in the middle of a global pandemic, a [freak ice storm
 hit](https://razib.substack.com/p/texpocalypse-now-a-postmortem), the
-[electrical grid collapsed
-overnight](https://www.texastribune.org/2021/02/18/texas-power-outages-ercot/),
+[electrical grid collapsed overnight](https://www.texastribune.org/2021/02/18/texas-power-outages-ercot/),
 and most commerce and transport ground to a halt for a week. I weathered
 this, slumped under a blanket, texting my friends about everyone’s water
 and electrical status. The Tech Bros high-tailed it to a luxury hotel.
-And my [prepper
-friend’s](https://unsupervisedlearning.libsyn.com/texpocalypse-now-a-postmortem)
+And my [prepper friend’s](https://unsupervisedlearning.libsyn.com/texpocalypse-now-a-postmortem)
 carefully researched generators turned out not to be rated for 17
 degrees and below and failed. We all had resources and various series of
 safety nets. Where was Duke who had basically none of those things?
@@ -214,8 +212,7 @@ sophisticated literary cultures, and complex conurbations.
 Europe is also Finland, a beautifully remote and marginal land raked
 with thousands of lakes. It can be about as accommodating as a winter
 week during a global pandemic, overlaid with a freak ice storm, no
-snowplows, a [collapsed electrical
-grid](https://www.texastribune.org/2021/02/18/texas-power-outages-ercot/)
+snowplows, a [collapsed electrical grid](https://www.texastribune.org/2021/02/18/texas-power-outages-ercot/)
 and commerce, and transport grinding to a halt. Finland, in other words,
 has not always been ideal for the equivalent of the Tech Bros and me.
 Certainly in the past, our counterparts who might have been doing very
@@ -238,7 +235,7 @@ genomes can now show us that where the prehistoric Finnish equivalent of
 Tex-pocalypse Tech Bros and Razibs tried and failed to make their fancy
 ways stick, it was some kindred spirits of Duke with their weird,
 dark-horse toolkit who ambled in, stole their women, supplanted their
-culture and thrived.
+culture and thrived.+++(4)+++
 
 -   **[Part
     two](https://razib.substack.com/p/weirdness-as-a-national-pastime)**:

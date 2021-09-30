@@ -14,7 +14,7 @@ A whole New World
 ![Kennewick
 Man](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F56a71b31-070e-4398-aac4-3fdb3c321127_2048x1585.jpeg)
 
-**Subscribe**
+
 
 [Give a gift
 subscription](https://razib.substack.com/subscribe?&gift=true)
@@ -34,16 +34,13 @@ the original
 of Kennewick Man looked suspiciously like Patrick Stewart, Captain
 Jean-Luc Picard of *Star Trek The Next Generation* fame, the physical
 anthropologists working on the skull later concluded that Kennewick
-Man’s morphology was [most
-similar](https://web.archive.org/web/20061210135223/http://www.tri-cityherald.com/tch/local/story/7997434p-7890471c.html)
+Man’s morphology was [most similar](https://web.archive.org/web/20061210135223/http://www.tri-cityherald.com/tch/local/story/7997434p-7890471c.html)
 to that of the Ainu, the indigenous people of Japan. But Kennewick Man
 was not fated to remain just a scientific curiosity. Controversy soon
 swirled over whether the native people of the region, like the Umatilla
 Indians, should have a veto over access to the remains as per the
-“[Native American Grave Protection
-Act](https://en.wikipedia.org/wiki/Native_American_Graves_Protection_and_Repatriation_Act).”
-Bizarrely, [Norse
-Neo-Pagans](https://www.washingtonpost.com/archive/politics/1997/09/10/pagans-tribes-scientists-battle-over-ancient-bones/b69c5214-aa3a-4e47-bad2-e28eb6ea9882/)
+“[Native American Grave Protection Act](https://en.wikipedia.org/wiki/Native_American_Graves_Protection_and_Repatriation_Act) .”
+Bizarrely, [Norse Neo-Pagans](https://www.washingtonpost.com/archive/politics/1997/09/10/pagans-tribes-scientists-battle-over-ancient-bones/b69c5214-aa3a-4e47-bad2-e28eb6ea9882/)
 asserted a rival claim to Kennewick Man as an ancestor, due to the
 forensic reconstruction, which implied to them that this individual may
 have been related to European peoples. Though the debate died down over
@@ -61,7 +58,7 @@ the hijinks of the eccentric Neo-Pagans. What I did not know then was
 that away from the media circus, a revolution in our understanding of
 the origins and spread of humans across North America was coming to a
 simmer. A model called “[Clovis
-First](https://en.wikipedia.org/wiki/Clovis_culture)” was being
+First](https://en.wikipedia.org/wiki/Clovis_culture) ” was being
 overturned by new results, and awareness was dawning among
 paleoanthropologists that their longstanding framework no longer
 adequately explained the data coming in. By 2020, the generation-long
@@ -70,13 +67,13 @@ in a more nuanced, and yet still uncertain, understanding of the human
 arrival in North America.
 
 Archaeology now tells us with a high degree of confidence that humans
-were in North America more than 20,000 years ago. And genetics now
+were in North America more than 20,000 years ago.+++(5)+++ And genetics now
 suggests those first peoples may not have been the ancestors of
-contemporary Native Americans. In the last few years, new data and
+contemporary Native Americans.+++(5)+++ In the last few years, new data and
 methods have uncovered tantalizing and previously hidden strands of
 ancestry connecting tribes and ethnicities in the Amazon rainforest to
 the indigenous people of Australia and Papua New Guinea, ancestry
-totally lacking in modern indigenous North Americans or Siberians.
+totally lacking in modern indigenous North Americans or Siberians.+++(4)+++
 
 ### **The Pleistocene Blitzkrieg**
 
@@ -93,10 +90,10 @@ Archaeological sites associated with the Clovis Culture appear in the
 record 13,000 years ago. The view was that Siberian hunters crossed over
 from Eurasia to North America via Beringia, the “lost continent”
 subsequently inundated by sea-level rise after the melting of the ice
-sheets.
+sheets.+++(4)+++
 
 These Siberians brought with them spears with distinctive bifacial
-points, first discovered in Clovis, New Mexico, in 1929. They were
+points, first discovered in Clovis, New Mexico, in 1929.+++(4)+++ They were
 big-game hunters, and in three hundred years, they expanded across the
 virgin territory of North America, which was rich in mammoths, bison,
 sloths and horses. Not coincidentally, these animals soon went extinct.
@@ -139,7 +136,7 @@ New World. The earlier sites researchers have long had to explain away
 as dating mistakes, were probably not as it turns out aberrations, but
 the true legacies of long pre-Clovis human occupation.
 
-**Subscribe**
+
 
 ![Paisley
 Caves](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa16c0e5c-45a6-4298-afeb-bc6b4e854d73_2048x1386.jpeg)
@@ -158,8 +155,7 @@ indubitably a turning point in the impact of human habitation in North
 America, the scientific community now broadly agrees there must have
 been modern humans in North and South America before Clovis.
 
-Oregon’s [Paisley
-Caves](https://en.wikipedia.org/wiki/Paisley_Caves#Recent_finds) show
+Oregon’s [Paisley Caves](https://en.wikipedia.org/wiki/Paisley_Caves#Recent_finds) show
 evidence of human occupation around \~15,000 years ago, thousands of
 years before Clovis. These caves have also yielded human coprolites:
 fossilized feces. In 2008, mitochondrial DNA, the maternal lineage,
@@ -187,7 +183,7 @@ First, in 2020 the
 [publication](https://www.nature.com/articles/s41586-020-2509-0) of
 results from Chiquihuite Cave in Central Mexico pushed back the human
 occupation of North America to at least 19,000 years ago (and perhaps
-33,000 years ago). That team found nearly 2,000 primitive tools from an
+33,000 years ago).+++(5)+++ That team found nearly 2,000 primitive tools from an
 unknown culture at the site. In the year since the publication of the
 paper, the consensus among archaeologists has grown that this much
 earlier range is correct dating and so humans did indeed occupy the New
@@ -229,7 +225,7 @@ morphology. All these populations have high frequencies of
 [shovel-shaped
 incisors](https://en.wikipedia.org/wiki/Shovel-shaped_incisors#Genetics),
 as well as other characteristics like relative hairlessness and high
-cheekbones.
+cheekbones.+++(4)+++
 
 Genetics broadly confirms this pattern. The closest modern relatives of
 Native Americans are the peoples of eastern Siberia. And yet there have
@@ -243,13 +239,13 @@ is the clearest. Haplogroup
 on the mtDNA is found across West Eurasia and in North America. More
 than 90% of the paternal lineages in the New World are haplogroup
 [Q](https://en.wikipedia.org/wiki/Haplogroup_Q-M242). Q is a “brother”
-lineage to haplogroup R, famously found from India to Ireland. The two
+lineage to haplogroup R, famously found from India to Ireland.+++(5)+++ The two
 main branches of R1: R1a and R1b are associated with Indo-Europeans,
 while R2 is mostly found in Iran and India. Q itself is also found in
 low but significant fractions across Central, West and South Asia, as
 well as Siberia.
 
-**Subscribe**
+
 
 ![Native American populations are closest to East Asians, but shifted
 toward
@@ -276,7 +272,7 @@ population to which the Ma’ta boy belonged is called “Ancient North
 Eurasian” (ANE), and it left many descendents. ANE ancestry can be found
 across Europe, in West Asia and South Asia, as well as in some parts of
 East Asia and Siberia. But, perhaps the most surprising result was that
-20-40% of the ancestry of modern Native Americans derives from the ANE.
+20-40% of the ancestry of modern Native Americans derives from the ANE.+++(4)+++
 Meanwhile, 10-20% of the ancestry of Northern Europeans, from England to
 Russia, ultimately comes from the ANE, explaining the suggestive and
 mysterious connections between the two populations. The Mal’ta boy
@@ -284,7 +280,7 @@ himself seemed to be Y-chromosomal haplogroup R, the ancestral lineage
 that exploded in the last 5,000 years with the Indo-Europeans (the
 prehistoric
 [Yamnaya](https://razib.substack.com/p/steppe-20-swipe-right-on-a-steppe)
-were 30-40% ANE in ancestry).
+were 30-40% ANE in ancestry).+++(5)+++
 
 Subjecting ancient and modern DNA results to advanced computational
 models, we now see that the vast majority of the ancestry of
@@ -314,7 +310,7 @@ allowed for exploration of statistical associations between hundreds of
 world populations, researchers uncovered a previously [unidentified
 affinity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4982469/) between
 some native populations in the Amazon and the aboriginal peoples of
-Australia and Papua New Guinea. The lab had set up an open-ended model
+Australia and Papua New Guinea.+++(5)+++ The lab had set up an open-ended model
 to compare populations against each other, and test for evidence of gene
 flow across them. In the vast majority of cases, the data charted no
 special connection. But to the researchers’ surprise, a few groups in
@@ -330,7 +326,7 @@ simply not been powerful enough to pick up statistically robust
 signatures. It is hard to imagine Papuans or Australians migrating
 across the Pacific to South America. Rather, it seems likely that an
 ancient population more closely related to aboriginal Oceanians than to
-East Asians was present in Siberia more than 20,000 years ago. In
+East Asians was present in Siberia more than 20,000 years ago.+++(4)+++ In
 [2018](https://www.science.org/lookup/doi/10.1126/science.aav2621),
 ancient DNA from a skull in Brazil dated to more than 10,000 years ago
 also exhibited a detectable genetic connection to Australians and
@@ -339,7 +335,7 @@ Clovis site, did not. This means that the Australian/Papuan-related
 population did not mix evenly into ancient indigenous populations, and
 may have arrived earlier and been absorbed.
 
-In 2021, a [consortium assembled
+In 2021, a [consortium assembled 
 DNA](https://www.pnas.org/content/118/14/e2025739118) from indigenous
 people from the Pacific to the Atlantic in South America, compared the
 individuals to ancient and modern DNA from across the world, and
@@ -357,7 +353,7 @@ are perhaps less amazing now that archaeologists have confirmed that
 modern humans were almost certainly present in the New World 20-30,000
 years ago.
 
-**Subscribe**
+
 
 ![Kelp
 forest](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5706741e-30d7-4669-9b17-01daaaadd6c5_890x534.jpeg)
@@ -457,7 +453,7 @@ denied their existence for decades, and geneticists failed to pick up
 their trace scent. But now? Both archaeologically and genetically, it’s
 a whole New World.
 
-**Subscribe**
+
 
 [Share](https://razib.substack.com/p/a-whole-new-world?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 

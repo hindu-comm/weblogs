@@ -338,7 +338,7 @@ and is present in all modern human populations from Europe to Australia.
 The most likely scenario is an admixture event in the Middle East then,
 as the nascent migration out of Africa ran into another human lineage
 and promptly absorbed it. If “[Dragon
-Man](https://razib.substack.com/p/here-be-humans)” hadn’t randomly
+Man](https://razib.substack.com/p/here-be-humans) ” hadn’t randomly
 dropped at the same time, we’d probably be talking more about these
 possible Neanderthal ancestors of modern humans in Israel.
 
@@ -467,7 +467,7 @@ levels in Africa. It could be that the migration occurred before the
 Neanderthal admixture. Or, it could be that the immigrants were from an
 early group of non-Africans in the Middle East that never mixed with
 Neanderthals (this is basically the idea of “[Basal
-Eurasians](https://en.wikipedia.org/wiki/Basal_Eurasian)”).
+Eurasians](https://en.wikipedia.org/wiki/Basal_Eurasian) ”).
 
 **Should we give up on ‘We Are All African’?**
 

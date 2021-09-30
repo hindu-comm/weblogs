@@ -121,7 +121,7 @@ reconstruction](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_aut
 
 Because these are brand new finds, there is not yet consensus about
 these fossils. Some researchers want to call “[Dragon
-Man](https://en.wikipedia.org/wiki/Dragon_Man_(archaic_human))” *Homo
+Man](https://en.wikipedia.org/wiki/Dragon_Man_(archaic_human)) ” *Homo
 longi* (龙, pronounced *lóng*, being Chinese for dragon), a new human
 species, and assert its features mean it is more closely related to
 modern humans than Neanderthals. Though Chris Stringer dismisses any

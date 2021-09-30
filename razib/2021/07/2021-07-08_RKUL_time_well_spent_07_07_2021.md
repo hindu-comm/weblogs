@@ -135,7 +135,7 @@ Visscher et
 al.](https://infoproc.blogspot.com/2021/07/polygenic-embryo-screening-comments-on.html)
 
 [Patrick Wyman](https://patrickwyman.substack.com/) on [“Dragon
-Man](https://patrickwyman.substack.com/p/dragon-man-emerges)”.
+Man](https://patrickwyman.substack.com/p/dragon-man-emerges) ”.
 Complementary to my own
 [piece](https://razib.substack.com/p/here-be-humans) here.
 

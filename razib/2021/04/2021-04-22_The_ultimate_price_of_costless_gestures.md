@@ -25,7 +25,7 @@ Those of us who are “Generation X” and older are starting to experience
 the “Great Crime Wave” of the 1970s and 1980s. By the mid-1990’s, the
 wave was receding, but in the broader culture, that really didn’t sink
 in until the end of the decade. 1994’s [“Crime
-Bill](https://en.wikipedia.org/wiki/Violent_Crime_Control_and_Law_Enforcement_Act#:~:text=The%20Violent%20Crime%20Control%20and,it%20became%20law%20in%201994.)”
+Bill](https://en.wikipedia.org/wiki/Violent_Crime_Control_and_Law_Enforcement_Act#:~:text=The%20Violent%20Crime%20Control%20and,it%20became%20law%20in%201994.) ”
 passed in the context of the idea of
 “[superpredators](https://en.wikipedia.org/wiki/Superpredator_theory#:~:text=The%20superpredator%20theory%2C%20now%20often,commit%20violent%20crimes%20without%20remorse.),”
 a legislative reaction to ubiquitous fears of crime across the populace,

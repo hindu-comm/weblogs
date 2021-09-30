@@ -156,7 +156,7 @@ they are an essential part of the cultural stew:
 > [Ojibwe](https://en.wikipedia.org/wiki/Ojibwe) Native American nation.
 > Just as was the case in early Delaware, the outdoors-oriented Finns
 > easily mixed with the native peoples, giving rise to a subculture of
-> “[Finndians](http://blog.asjournal.org/findians-a-journey-to-distant-cousins/)”
+> “[Finndians](http://blog.asjournal.org/findians-a-journey-to-distant-cousins/) ”
 > ([video](https://www.youtube.com/watch?v=vmNv-piZOmo&feature=emb_logo)),
 > who synthesize the customs and traditions of the Old and New World
 > “[birch-tree-belt](https://en.wikipedia.org/wiki/Birch#/media/File:Areal_bereza.png).”

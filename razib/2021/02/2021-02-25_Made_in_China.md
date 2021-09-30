@@ -412,7 +412,7 @@ power and totality of the modern state have progressed far beyond the
 police states are like nothing Qianlong could imagine. Instead of
 exhortations to obey, all that is needed today is a decree specifying
 that authorities should “[show absolutely no
-mercy](https://www.nytimes.com/interactive/2019/11/16/world/asia/china-xinjiang-documents.html)”
+mercy](https://www.nytimes.com/interactive/2019/11/16/world/asia/china-xinjiang-documents.html) ”
 to the Uyghur “separatists.” And like that, the mechanism of the modern
 totalitarian state snaps into motion, a blur of bureaucratic paperwork
 and punctilious attention to the details of slowly destroying another

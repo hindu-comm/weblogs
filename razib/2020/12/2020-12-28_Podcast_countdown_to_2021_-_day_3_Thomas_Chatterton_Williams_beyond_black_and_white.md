@@ -46,7 +46,7 @@ Rethinking
 Race](https://www.amazon.com/exec/obidos/ASIN/0393358542/geneexpressio-20),
 Thomas has also become renowned and reviled for his role in organizing
 “[the
-letter](https://harpers.org/a-letter-on-justice-and-open-debate/)”,
+letter](https://harpers.org/a-letter-on-justice-and-open-debate/) ”,
 which made a calm plea for open debate and discussion on the Left.
 
 Since reaching that level of visibility in the summer of 2020 Thomas has

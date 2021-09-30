@@ -389,7 +389,7 @@ that really means.
 
 -   Clubhouse room: Friday, April 9, 7pm PDT, 10pm EDT “[Eurasian
     Steppes before
-    Christ](https://www.joinclubhouse.com/event/mJwGrOoN)” (find
+    Christ](https://www.joinclubhouse.com/event/mJwGrOoN) ” (find
     me, @RazibKhan)
 
 -   [Why I'm \*not\* leaving
