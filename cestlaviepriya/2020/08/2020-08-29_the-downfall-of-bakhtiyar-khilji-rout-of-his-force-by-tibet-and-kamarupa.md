@@ -1,10 +1,12 @@
 +++
-title = "The Downfall of Bakhtíyár Khiljí : Rout of his Force by Tibet and Kámarúpa"
+title = "Bakhtíyár Khiljí - priyA"
 date = "2020-08-29"
 upstream_url = "https://cestlaviepriya.wordpress.com/2020/08/29/the-downfall-of-bakhtiyar-khilji-rout-of-his-force-by-tibet-and-kamarupa/"
 
 +++
 Source: [here](https://cestlaviepriya.wordpress.com/2020/08/29/the-downfall-of-bakhtiyar-khilji-rout-of-his-force-by-tibet-and-kamarupa/).
+
+The Downfall of Bakhtíyár Khiljí : Rout of his Force by Tibet and Kámarúpa"
 
 A man who is sickened with grief, surrounded by depression, a man who is
 languishing in his own pathetic misery. A man who is too ashamed to come
@@ -32,7 +34,7 @@ Khiljí** and this is the account of his foolhardy campaign to conquer
 account of an attack by our own countrymen from the land of **Kámarúpa**
 *i.e.* Assam that ultimately became the end of Bakhtíyár’s army.
 
-**Background**
+## Background
 
 Bakhtíyár Khiljí of Ghor, of the province of Garmsír had first got into
 the service of the Court of Sultan Mu’ izzu-d dín, at Ghazní,
@@ -55,9 +57,9 @@ resulted in an ultimate full scale invasion of the country. In about
 1200 C.E., with his party which included cavalry of two hundred, he
 invaded the Behár and caught everyone in the town off guard. The
 university town was ravaged, books burnt to ashes, the *Śramaṇas* and
-*Brāhmaṇas* were put to sword.
+*Brāhmaṇas* were put to sword.+++(4)+++
 
-***“According to the 15th century Tibetan chronicler Taranath, Bakhtiyar
+> ***“According to the 15th century Tibetan chronicler Taranath, Bakhtiyar
 on this occassion also captured the monastery towns of Vikramasila and
 Nalanda and erected a fortress on the site of Uddantapur.”***
 
@@ -88,10 +90,10 @@ Sanknat/Sankakot) not far from Ballalsena’s capital Vikrampur in Eastern
 Bengal and soon died but the Senas ruled there for at least, three more
 generations.
 
-***“Over the Rahr country (the districts west of Bhagirathi river) as
+> ***“Over the Rahr country (the districts west of Bhagirathi river) as
 well as Nadia, Hindu rule continued for the next fifty years.”***
 
-**The Idea**
+## The Idea
 
 Ambitions though very important in the life of any upstart, can also be
 their undoing. Bakhtíyár Khiljí got to know about the territories of
@@ -109,7 +111,7 @@ treasures of the Buddhist monasteries, the traditional trade route of
 Bengal that lead to the South East Asia’s gold and silver mines must
 have been very attractive.
 
-***“The ambition of seizing the country of Turkistán and Tibet began to
+> ***“The ambition of seizing the country of Turkistán and Tibet began to
 torment his brain.”***
 
 Another very important lure was the trade of horses – the trade mart
@@ -127,7 +129,7 @@ for Bakhtíyár to commence this campaign.
 ![**A view of Gyantse, Tibet (WikiMedia
 Commons)**](https://cestlaviepriya.files.wordpress.com/2020/09/1024px-gyantse.jpg?w=1024)
 
-**En route to Tibet**
+## En route to Tibet
 
 According to Minháju-s Siráj there were three kinds of tribes in the
 hills between Tibet and Lakhnauti – Kúch, Mích and Tiháru. The chief of
@@ -185,7 +187,7 @@ king of Kámrúpa. His guide left him on this bridge, and Bakhtíyár then
 proceeded towards the hills. On the bridge he had left behind a small
 detachment of troops along with two officers to guard it.
 
-**Reaching the Destination**
+## Reaching the Destination
 
 After travelling for fifteen days through the defiles and various
 mountain passes, finally on the sixteenth day, they reached an open land
@@ -202,7 +204,7 @@ ensued raged for an entire day and many of the invaders were “slain and
 wounded”. The defenders were lightly armed; the only weapon they used
 were bamboo spears and for shield, armour and helmet, they only used
 “raw silk strongly fastened and sewed together.” Yet, they completely
-overwhelmed the Islamic army.
+overwhelmed the Islamic army.+++(4)+++
 
 The same evening, Bakhtíyár got the information from a captive that the
 very next day, they would be facing the local army heavily reinforced
@@ -217,7 +219,7 @@ decided after consultation that they might return next year after being
 much more prepared. They had no idea that this campaign was to be the
 indirect and direct reason for the end of many amongst the invaders.
 
-**The Retreat**
+## The Retreat
 
 Bakhtíyár Khiljí was unaware that the retreat was going to be a bigger
 disaster than what the campaign had been until now. On their way back,
@@ -235,7 +237,7 @@ Khiljí, who hadn’t until now, tasted defeat.
 > **Account of Minháju-s Siráj in The History of India as told by its
 > Own Historians, Volume II by Elliot and Dawson**
 
-**Attack by the Forces of Kamarup**
+## Attack by the Forces of Kamarup
 
 The king of Kámarúpa at this time reportedly was Vishwasunder Deva
 (1185-1228 C.E.) alias Prithu of the Khen dynasty of Assam. He was later
@@ -256,7 +258,7 @@ the temple was a beautiful structure, “very lofty and strong.” When the
 king got know about the situation, he quickly ordered to block the way
 of the Mohammadan forces out of the temple.
 
-***“He issued orders to all the Hindus of his territory to come up, levy
+> ***“He issued orders to all the Hindus of his territory to come up, levy
 after levy, and all around the temple they were to stick their bamboo
 spears in the ground and to plait them together so as to form a kind of
 a wall. “***
@@ -269,14 +271,14 @@ found it to be fordable and the entire force of the invaders followed
 the course. But to their dismay, the water in the stream was way too
 deep and almost everyone perished. From almost ten thousand strong
 cavalry, the strength of the force that managed to cross was too little.
-They were able “reach the opposite bank with only a hundred followers.”
+They were able “reach the opposite bank with only a hundred followers.”+++(5)+++
 
 We find the evidence of this defeat of Bakhtiýar’s forces in a rock
 inscription dated 1127 Saka or 1206 C.E. The spot where the inscription
 is found is called *Kanaibadasibana* or *Kanai Barashi Bowa Sil*. It
 says:
 
-***“sāke turaga-yugamase madhumāsa trayodase  
+> ***“sāke turaga-yugamase madhumāsa trayodase  
 Kāmarupam samāgatya turuskāh ksayam āyayuh.”***
 
 The news of this reached Ali Mích and he sent his relatives to receive
@@ -284,7 +286,7 @@ the utterly defeated Bakhtiýar Khiljí- “a man crushed by the weight of
 the disaster.” He reached Devkot, an ancient town known as Bangarh,
 south west of Dinajpur. This place was to be his grave.
 
-**Bakhtiyar Khilji After His Return**
+## Bakhtiyar Khilji After His Return
 
 We come to same place now where we commenced this account in the year
 1206 C.E; we come to a man sickened with grief, surrounded by
@@ -292,7 +294,7 @@ depression, languishing in his own misery, who never comes out of his
 room lest he has to face the relatives of those who had perished. Minháj
 tells us that he (Bakhtiýar) used to say:
 
-***“Has any misfortune befallen Sultán Ghází Mu’ izzu-d dín Muhammad Sám
+> ***“Has any misfortune befallen Sultán Ghází Mu’ izzu-d dín Muhammad Sám
 that my fortune has turned so bad?”***
 
 Apparently, the Sultan was killed around the same time. It is suggested
@@ -304,7 +306,7 @@ Devkot and hadn’t seen anyone for almost three days due to his illness,
 Alí Mardán got to his room and killed him with a knife. Either way, the
 culprit of Nālandā, Vikramśilā & Uddantapurî was dead.
 
-**Conclusion**
+## Conclusion
 
 This was a man who was disheartened with a gargantuan failure – a huge
 dent in his image and a sorry climax to the story of his “victories” and
@@ -322,7 +324,7 @@ force was utterly routed by tour de force – the soldiers of Kámarúpa.
 This entire campaign became his undoing – the downfall of Ikhtiyáru-d
 dín Muhammad Bakhtíyár Khiljí.
 
-**References**
+## References
 
 1.  The History of India as Told by its Own Historians by Elliot and
     Dawson, Volume II.
