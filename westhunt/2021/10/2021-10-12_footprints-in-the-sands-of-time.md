@@ -91,7 +91,7 @@ For our hypothetical Precursors, this may not have been the case.
 Predators may have excluded them from much of the landscape, reducing
 their access to resources, which may not have been very abundant anyhow
 in the most severe part of the Ice Age.
-
+``
 It is safe to say that they didn’t leave a lot of skeletal fossils,
 since so far we haven’t found a single one. At the same time, any
 skeletal sample with useable DNA would be very valuable: as with the key

@@ -1,0 +1,28 @@
++++
+title = "सर्पबलिः"
+full_title = "सर्पबलिः"
+date = "2016-08-03"
+upstream_url = "https://agnimaan.wordpress.com/2016/08/03/%e0%a4%b8%e0%a4%b0%e0%a5%8d%e0%a4%aa%e0%a4%ac%e0%a4%b2%e0%a4%bf%e0%a4%83/"
+
++++
+Source: [here](https://agnimaan.wordpress.com/2016/08/03/%e0%a4%b8%e0%a4%b0%e0%a5%8d%e0%a4%aa%e0%a4%ac%e0%a4%b2%e0%a4%bf%e0%a4%83/).
+
+सर्पबलिः
+
+श्रावण्यां पूर्णिमायां वेदाध्ययनोपकर्मणासाकं सर्पबलेर् अपि भवितोपक्रमः।
+तदर्थं सङ्गृहीतेयं पद्धतिरस्तु युष्मच्छर्मणे –
+
+-   टिप्पणिर्
+    [अत्र](https://checkvist.com/checklists/113019/export.html?export_notes=true&export_color=true&&task_ids=22799169)सूत्रटीकानुमता।
+-   प्रमाणानि
+    -   आपस्तम्ब-गृह्यसूत्रे[ऽत्र](https://archive.org/stream/APASTHAMBAGRUHYASUTRAMSUDARSHANAHARADATHA/APASTHAMBA%20GRUHYASUTRAM%20%28SUDARSHANA%2CHARADATHA%29#page/n263/mode/2up)।
+        मूले
+        [अत्र](https://archive.org/stream/APASTHAMBAGRUHYASUTRAMSUDARSHANAHARADATHA/APASTHAMBA%20GRUHYASUTRAM%20%28SUDARSHANA%2CHARADATHA%29#page/n31/mode/2up)।
+        देवतानिर्देशो[ऽत्र](https://archive.org/stream/APASTHAMBAGRUHYASUTRAMSUDARSHANAHARADATHA/APASTHAMBA%20GRUHYASUTRAM%20%28SUDARSHANA%2CHARADATHA%29#page/n151/mode/2up)।
+        मन्त्रपाठे
+        [ऽत्र](https://archive.org/stream/EKAGNIKANDABHASHYAMSAMSKRUTHAM/EKAGNIKANDA%20BHASHYAM%20SAMSKRUTHAM#page/n173/mode/2up)।
+    -   टीका विकाव्
+        [अत्र](https://sa.wikisource.org/wiki/%E0%A4%86%E0%A4%AA%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%AE%E0%A5%8D%E0%A4%AC_%E0%A4%97%E0%A5%83%E0%A4%B9%E0%A5%8D%E0%A4%AF%E0%A4%B8%E0%A5%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%BF,_%E0%A4%B9%E0%A4%B0%E0%A4%A6%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B8%E0%A5%8D%E0%A4%AF_%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%95%E0%A5%82%E0%A4%B2%E0%A4%BE,_%E0%A4%B8%E0%A5%81%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%A8%E0%A4%B8%E0%A5%82%E0%A4%B0%E0%A5%87%E0%A4%83_%E0%A4%A4%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AA%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%B6%E0%A4%A8%E0%A4%AE%E0%A5%8D_%E0%A4%9A)।
+
+![](https://i0.wp.com/i.imgur.com/lVRguq7.jpg)
+

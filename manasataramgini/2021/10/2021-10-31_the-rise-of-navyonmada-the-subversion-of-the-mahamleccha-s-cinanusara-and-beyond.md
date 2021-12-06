@@ -1,0 +1,449 @@
++++
+title = "The rise of Navyonmāda,"
+full_title = "The rise of Navyonmāda, the subversion of the Mahāmlecchas, Cīnānusāra and beyond"
+date = "2021-10-31"
+upstream_url = "https://manasataramgini.wordpress.com/2021/10/31/the-rise-of-navyonmada-the-subversion-of-the-mahamleccha-s-cinanusara-and-beyond/"
+
++++
+Source: [here](https://manasataramgini.wordpress.com/2021/10/31/the-rise-of-navyonmada-the-subversion-of-the-mahamleccha-s-cinanusara-and-beyond/).
+
+The rise of Navyonmāda, the subversion of the Mahāmleccha-s, Cīnānusāra and beyond
+
+**The past**  
+The dynamics of the establishment of the counter-religious unmāda-s are
+of some interest. The pūrvonmāda of pharaoh Akhenaten arose from the
+moha in his own head and was imposed on the populace due to his imperial
+power. It was quickly erased by the actions of his successors
+Tutankhamen, Ay and Horemheb and it never was able to take root. The
+mūlavātaroga seems to have spread rapidly within a tightly-knit ethnic
+group and soon evolved into an in-group marker. Hence, there was
+selection against it breaking out into the rest of the populace because
+its value to the in-group would then be lost. However, by being a strong
+in-group marker, it tenaciously persisted by maintaining in-group
+cohesion during military expeditions and raids against out-groups and
+became the incubator for the future unmāda-s. An infective variant of it
+first broke out into the general population in the form of pretonmāda.
+In the early days, pretonmāda appears to have been comparable to the
+mūlarug, providing an in-group marker for some “good-for-nothings”.
+However, it acquired several memes from other natural religions in the
+environs during this period, making it a stronger competitor. Armed with
+this expanded memome, it conquered the Romans through a less-appreciated
+strategy of subterfuge, martyr-creation and elite capture (see below).
+Once in power, it quickly expressed that anti-outgroup militant tendency
+inherited from its parent strain on a much larger scale. After a period
+of expansion via this virulent mode, it oscillated between explosive
+virulence (e.g., South America, Africa and Goa) and its earlier mode of
+creeping person-to-person infection (e.g., Andhra).
+
+The same meme-complex was transferred to the marusthala resulting in
+marūnmāda, which codified “spread by any means” as a duty of every
+adherent. Indeed, the learned māhāmada Ibn Khaldun clearly explains in
+his Muqaddimah that it is the obligate duty of a marūnmatta to convert
+everyone to the unmāda by missionary activity or force. He then goes on
+to add that whereas this is an explicit duty of the marūnmatta-s, it is
+only an incidental or localized activity among the pretonmatta-s or
+ādivātūla-s (M 1.473-474). While he might be correct regarding the
+latter, the former, in reality, are closer to his own. Nevertheless, the
+fact that he explicitly mentions this as a feature of marūnmāda
+distinguishing it from the other unmāda-s suggests that it has always
+been more “in the face” with them. Ibn Khaldun had also emphasized the
+need for a strong power, like the ruler, to enforce the sharia once the
+Adyunmatta dies because it is this enforcement of sharia that keeps the
+people doing the “right thing” from which their natural tendency is to
+lapse (M 1.472). Ibn Khaldun himself furnishes the example of a North
+African woman from the Jewish priestly caste, who, distant from the
+ekarākṣasa core, reverted to a semi-natural religion and as a magician
+queen. Uniting various tribes, she valiantly blocked the advance of the
+rākṣasa-senā until the Ghāzī-s eventually beheaded her and her skull was
+gifted to the Khalif. Thus, the marūnmāda thinkers clearly understood
+that unmāda-s are maintained by internal and external enforcement
+programs, without which they can break down and disappear.
+
+**Coming to the present**  
+These aspects of marūnmāda reemerged in the secular rudhironmāda that in
+turn arose out of the matrix of “enlightenment values”, dear to the
+deluded secular mleccha-s, which itself was a counter-religion to the
+older prathamonmāda-pretonmāda matrix. While rudhironmāda inherited its
+claims for secularity from the “enlightenment values”-roga and turned
+its back to the ethnoreligious mūlavātula-śūlapuruṣīya roots, in its
+attempt at universality, it followed marūnmāda and pretonmāda. On the
+one hand, this allowed it to be easily transmitted and embraced by
+people as diverse as the prathamonmatta-s, śūlapuruṣa-s, the Rus, the
+Vāṅga-s, the Cera-s, and as an outer coat by the Cīna-s. On the other,
+as we shall discuss below, its secular universality proved to be its
+undoing. At its peak, rudhironmāda was held up by the Soviet Rus in the
+great conflict with the Anglosphere and its vassals. However, at the end
+of that struggle, the Soviet empire collapsed, and rudhironmāda failed
+in its grand geopolitical objectives. While it failed as a geopolitical
+force, it quietly thrived for more than half a century in the fertile
+breeding grounds of the Anglospheric academia, especially among the
+Mahāmleccha. There, it underwent a series of mutations before eventually
+emerging as navyonmāda.
+
+What rudhironmāda lacked was the religious facade of pretonmāda and
+rākṣasonmāda, and this was a serious downside. While both rudhironmāda
+and the overt unmāda-s struggled against natural religions, the latter
+were at least able to offer themselves as the ultimate alternative,
+i.e., the “only true religion”. However, rudhironmāda was not able to
+give anything of that kind. As a parallel, one could consider the case
+of Mustafa Kemal Ataturk — he took the Turks out of marūnmāda. Had he
+reintroduced the religion of the Tengri-s, the Turks of Turkey might
+have been a cured people. However, he failed to offer a different
+religion in its place after removing marūnmāda, and sometime later, they
+returned to it with a vengeance. A similar phenomenon happened to
+varying degrees in the marūnmatta states conquered by the Soviets. While
+it is not apparent to the casual observer, navyonmāda eventually
+corrected this critical fault of its rudhironmāda parent — the religious
+vacuum. Navyonmāda neither set out to do this consciously nor did it
+converge on it right away or in any conscious way. Instead, these
+features emerged organically via selection within the movement to fill
+in the vacuum of religiosity created by the earlier rudhironmāda within
+the Mahāmleccha academia. Navyonmāda gradually evolved this feature over
+the period from the 1980s to the 2020s. In many ways, navyonmāda
+resembled the religiosity of the saṃgha of the sugata with its
+veda-virodhaka tendencies when it exploded as a potential religion for a
+section of the anglospheric elite and their arborizations in vassal
+states of the larger leukosphere.
+
+While the religious facet of navyonmāda helped it replace pure
+rudhironmāda, this aspect also created the foundations for their seizing
+power by creating both in-group solidarity and the ever-correcting
+“purge of deviations or moderation” as in marūnmāda. Coming out of
+academia and originally filled with lots of socially low-ranked,
+physically unfit individuals, outright warfare was not an option for it
+to capture power. Instead, it tread on a path very similar to pretonmāda
+in its early days of elite capture. When Gucchaka was the emperor, and
+the marūnmatta-s attacked the Mahāmleccha in their big strike, there was
+a huge surge of military and nationalist sentiment. The result was an
+attack on several rudhironmatta academics, as well as moderates, who now
+organized under the banner of navyonmāda. Gucchaka’s neo-con handlers,
+headed by his deputy duṣṭa Vakrās, the matta Āṇi, and the
+prathamonmatta-s, squandered the swelling nationalism of the mleccha-s
+by engaging in the useless invasion of Iraq. That was followed by
+throwing away a chance to normalize relations with the
+marūnmatta-occupied Iran, and more troubles emerged for the mleccha-s.
+Duṣṭa Gucchaka also set up a police state within state, and to date,
+unironically rationalizes it to the Mahāmleccha by saying that it is a
+“reminder” of the comfort they can feel. This police state, along with
+the financial crisis which followed, strengthened the hands of the
+rising navyonmatta-s when Ardhakṛṣṇa became emperor of the Mahāmleccha
+confederation. While in part unhinged or even evil, the cara-s like
+Himaguha, Harijaṅgala (anti-H), Mānavīya (navyonmatta) and Asaṅga, have
+revealed the depth and the power of the systems, which Gucchaka and
+Vakrās put in place for the pañcanetra-mleccha-s to closely monitor and
+control their own citizens. While not in the face, like that of the Han,
+it has the comparable capacity and only needed a willing player to
+exploit it to its fullest.
+
+Against this backdrop, when Ardhakṛṣṇa became the lord of the mleccha-s,
+under his sympathetic rule, the navyonmatta-s started creeping forward
+aided by his dala. A key factor was the coming of age of the young
+students indoctrinated by professors in the universities into the newer
+strains of navyonmāda with prominent religious (c.f. the marūnmatta
+students from Gandhara in TSP madrasas — The Students). They were
+available to work for Ardhakṛṣṇa’s campaign and entered the śāsana upon
+his victory. In his kalevarā, they found their much-needed bodhisattva.
+With the first of these navyonmatta-s in the śāsana, they could now play
+filter and amplifier with their professors in the universities. They got
+more of their kind, while they punished and purged those who failed to
+fall in line in an alliance with the vālūkavatūla-s (see below). This
+creep leading to the control of the mainstream media, the academia,
+internet-social media-based big tech, and offices of the government (the
+deep state) was rather deep by the end of the reign of Ardhakṛṣṇa. They
+thought that they could easily usher in their preferred candidate
+Jārapatnī and establish their regime with their power. However,
+Mahāmleccha democracy actually worked, and Vijaya, also known as the
+Nāriṅgapuruṣa, became the mleccharāṭ. He tried to push back, but he was
+no Julian and full of his own insufficiencies and inexperience. Alarmed
+by his victory, the navyonmatta-s now went into high gear and used the
+Nāriṅgapuruṣa as an excuse for quickly pushing in their excesses. They
+used all their instruments to constantly hector the Nāriṅgapuruṣa and
+facilitated his ultimate uccāṭana by Piṇḍaka and his deputy Aṭṭahāsakī,
+who was an opportunistic adopter of navyonmāda and their front-end
+person.
+
+**Analyzing the rise of navyonmāda**  
+Now, let us take a closer look at some of the aspects of the rise of
+navyonmāda among the Mahāmleccha. [As noted
+before](https://manasataramgini.wordpress.com/2021/05/23/pandemic-days-vaccines-and-war/),
+when the Mahāmleccha became a superpower after their victory in WW2, the
+world was never more starkly divided into winners and losers. The
+natural resources of Krauñcadvīpa, together with the victory in war,
+paid dividends to them like nothing in recent history. As a result, the
+Mahāmleccha started building sprawling suburbs and zoomed around their
+vast frontier lands in their gas-guzzlers. This prosperity made them
+more and more detached from reality, and the myth of infinite “economic
+expansion” took root in them, making them blind to how unsustainable
+this was. This softened their elite, worsened their health, and also
+precipitated the decline of conventional ekarākṣasa religion in a
+section of their elite. This left them in need of other avenues for
+feeling a sense of “virtue” and piety. In our opinion, this
+psychological complex plowed the soil for navyonmāda to take root
+eventually.
+
+As this was taking place over half a century, there were parallel
+developments in academia. The victory in WW2, the triumphs of the
+nuclear bomb, the shift of the epicenter of frontier physics from
+Śulapuruṣīya to Krauñcadvīpa, and James Watson’s role in the founding of
+molecular biology, made the Mahāmleccha academia emerge as a potent
+accreditation system. But over time, the myth of infinite expansion took
+root in these systems, turning them into pyramid schemes. One
+consequence of this was what some mleccha academics have termed “elite
+production”. Having spent a lot of time with mleccha academics, we can
+say that there are some very tāthāgatan qualities therein — a mix of a
+tendency for plagiarism and lack of attention to detail and subtlety.
+The result is the dominance of mediocre or half-baked models of
+understanding over more complete and nuanced ones. This is nowhere more
+starkly illustrated than the fake studies in psychology churned out by
+the dozen, replete with manufactured statistics. “Cancer biology” comes
+a close second furnished with photoshop artistry. This was mainly
+because a part of the expanding Mahāmleccha academia divorced itself
+from a test against the real world due to the fetish of “peer-review”.
+Here, research gets acclaimed due to publication in “high-profile”
+journals reviewed by peers rather than being a realistic description or
+nature or making predictions that proved to be correct. This was yet
+another fertilizer for the growth of navyonmāda — a system where one can
+get away with fancy beliefs without checking if they hold in the real
+world.
+
+Indeed, this blindness to reality in navyonmāda’s priorities can be seen
+at many levels beyond the obvious. However, it is a kind of māyāvāda
+that not just takes the jagat to be mithyā but creates a mithyā-jagat of
+its own. Most plainly, it is seen in the denial of biological reality in
+the form of sex and race and its replacement with a celebration of
+pseudo-biological shape-shifting. However, this permeates more subtle
+matters too. On the economic front, the classic rudhironmatta-s went on
+endless harangues about economic unevenness in society and acted on it
+by killing or banishing the prosperous elite. In contrast, the
+navyonmatta-s do not rail much about the material; instead, they vent
+against something immaterial termed “privilege”, and their actions are
+aimed at eliminating those whom they perceive as privileged. The elite
+in normal societies either signaled their status or were accorded status
+due to either distribution of material possessions or their praxis of
+rituals. However, in navyonmatta society, the elite signal it via their
+beliefs and claims of purity therein (elite capture). In this aspect,
+they are remarkably similar to vālūkavatūla-s. A critical flashpoint for
+the māyāvāda of the navyomatta-s came with computers masquerading as
+phones and the internet becoming ubiquitous. This allowed commerce and
+social life to transition to a virtual electronic world, completing that
+sensation of a decoupling with reality, which the navyonmatta-s desired.
+
+In such a system, the holders of the allowed beliefs rather than
+producers of work that passes real-life tests are magnified by shallow
+vanity articles as though they are the next bodhisattva-s on the block.
+Recently, we saw such an article on a navyonmatta human geneticist, who
+thoroughly mixes her science with the Nicene creed of navyonmāda, to
+provide that facade of objectivity to those in that pakṣa. A mix of such
+boosterism of particular types as role models and the sense of virtue
+from these beliefs takes the place of a key aspect of religion — the
+sense of belonging among the pious and a concomitant disdain for the
+impious. Thus, the new votary of navyonmāda, usually from a deracinated
+or shallow background, suddenly finds a new purpose in life by
+professing it. It provides for beliefs that touch the human need to feel
+justified and virtuous. These are often reinforced by actual mimicry of
+religious activities, such as rhythmic chanting of slogans against
+enemies (c.f. marūmatta-s stoning the “devil”), internalization of
+concepts such as the “power of the word”, great fear of taboo words,
+sacralized ethnicities and “martyrs”, marches resembling a religious
+procession, and community-building with opportunities for sexual
+encounters and “group therapy”.
+
+Thus, the American university system slid from being institutions of
+accreditation to those of degeneration, furthering the capacity of
+navyonmāda to take over the systems. It was still not straightforward
+because there were still many academics who still had to give up common
+sense to adopt it. It breached this barrier through a series of steps.
+First, it evolved obfuscation of language, wherein common words were
+reused such that they meant something specific to the insider, whereas
+the outsider saw them in their ordinary sense as words of virtue. In old
+religions, for example, in the yoga tradition, words like gomāṃsa did
+not mean what the commoner might take them to mean. Here, the intention
+was to conceal secrets and repel the uninitiated (e.g., he may think a
+yoga text is recommending that he consume gomāṃsa and keep away from
+it). However, the intention of the navyonmatta-s was not repulsion but
+outright deception — it was to purposely obfuscate the uninitiated and
+unwittingly get them onboard with the navyonmāda project. This is rather
+comparable to Tathāgata redefining common religious words like trayi or
+ārṣa or sūkta (=sutta). Thus, the lay votary would not realize that the
+Buddha is subverting the religion and get sucked into the śaraṇa of the
+saṃgha. Thus, driven by the need to feel virtuous and pious, the mleccha
+liberal academics vigorously adopted and supported navyonmāda, even as
+unsuspecting lay ārya-s adopted the cult of the Buddha — after all who
+would want to reject something termed the way of the ārya-satya-s or
+dharma?
+
+As they began winning votaries, they transitioned from a bauddha mode to
+the marūnmatta/pretonmatta mode of counter-religion. The academics who
+resisted navyonmāda, even left-liberals who had some commonsense left,
+were attacked by the mobs of navyonmatta-s, typically recruited from the
+frenzied student body. Some academics were kicked out of their
+institutions, others who were too powerful to evict were sidelined in
+public discourse, yet others converted under this pressure. The campus
+riots, like those of the American Spring (e.g., in Berkeley, a hothouse
+of navyonmāda), pushed the growing body of university administrators
+into submission to the demands of the self-righteous navyonmatta-s. The
+monoculture in academia allowed the capture of institutions founded on
+it like scientific and medical journals, which now amplified the message
+and pushed the credo onto young and impressionable minds. Those who
+sought accreditation from these bodies (academia and journals) had to
+now submit to the new religion, and the rest had to go silent like
+Thabit ibn Qurra.
+
+In the next step, these newly minted young navyonmatta-s gushing out of
+the big-name universities flooded corporations and the government. Those
+who took navyonmāda lightly used to jocularly remark that when these
+indoctrinated students get a real job, they would be jolted out of their
+unmāda into reality. This might have indeed happened in the past with
+rudhironmāda, as we saw with our own classmates. However, here the
+reverse occurred. The navyonmatta-s captured and transformed the
+institutions they invaded. In the days of old rudhironmāda, they
+presented themselves in opposition to the “capitalist” corporations and
+“oppressive” government. However, navyonmatta was more agile and worked
+with the corporations — if the corporations paid them a jaziya and
+supported their demands they were more than happy to play along and
+support the corporations. This was an easy way for corporations to
+appear virtuous too. Like a king who might have committed sins in war,
+building a temple to expiate those, the corporations were more than
+happy to absolve themselves of capitalistic excesses by adopting
+navyonmāda themselves. The mahāduṣṭa-s like guggulu, Dvāra, Mukhagiri,
+Jaka and Bejha all adopted navyonmāda to differing degrees as a
+prāyaścitta while continuing to commit “capitalistic sins”. Thus, came
+about the marriage of these with navyonmāda, which would have been
+impossible under the old rudhironmāda, which would have attacked them
+for their wealth. A very real exhibition of this was the repainting of
+“the occupy movement” working under the old rudhironmāda premises to its
+new navyonmāda colors.
+
+More sinister than even these was the māhāduṣṭa Sora, who had always
+channeled his money into navyonmāda being philosophically in union with
+it. He saw it as an opportunity to enact his grand political plans both
+among the Mahāmleccha and abroad, like in Bhārata. Among the
+Mahāmleccha, he saw navyonmāda as a potential private army to put his
+pakṣa headed by the vṛddha Piṇḍaka on the āsandi. In this, he was mostly
+aligned with other mahāduṣṭa-s. They got their golden chance when the
+pandemic lock-downs followed by some egregious acts of violence by
+daṇḍaka-s on kṛṣṇa-s caused a janakopa. This janakopa was quickly
+channelized by kālāmukha militant wing of the navyonmatta-s (c.f. the
+Mahāmlecchīya gardabha-pakṣa’s earlier militant — the ka-trayam deployed
+against kṛṣṇa-s). This provoked quick and correct action against them by
+the then mleccheśa, Nāriṅgapuruṣa. However, his effort was rendered
+toothless as the navyonmatta-s had subverted the deep-state and the
+Sorādi māhāduṣṭa-s used their riches to provide legal impunity to their
+kālāmukha rioters aided by the likes of Aṭṭahāsakī.
+
+**“Rus! Rus!” and Cīna-capeṭa**  
+As navyonmāda’s priorities are not aligned with the real world, its
+adoption by the elite would eventually be hit by the real world.
+However, this does not mean a correction will be immediate, as
+illustrated by the Dark Ages in the Occident brought on by pretonmāda.
+With the sailing being smooth for the Mahāmleccha, the deep-state actors
+kept themselves busy going blue in the face, shouting, “Russia!
+Russia!”, even as the storm of the Middle Kingdom Corruption was brewing
+in the Orient. As the said corruption broke out of China, the
+Mahāmleccha were oblivious even to their own intelligence agencies;
+instead, they were busy in an internal conflict, with the deep-state and
+the gardabha-pakṣa trying to overthrow the Nāriṅgapuruṣa. Finally, when
+the Middle Kingdom Corruption reached the shores of Krauñcadvīpa, the
+gardabha-pakṣa was trying hard to prevent the appropriate steps from
+being taken to counter it. The compromised deep-state could not mobilize
+a proper supply of masks for the citizens or even guda-pramṛja-s for the
+mleccha-s to sanitize themselves. The result was a massive death toll,
+the full extent of which has definitely been under-reported. To top it
+all up, the mleccha-senānī betrayed his own boss, the Nāriṅgapuruṣa, to
+the cīna-s. Cīna-s saw an opportunity to hit hard at Mahāmleccha power
+using navyonmāda. Even as the navyonmatta-s disparaging their own
+constitution, the Cīna-dūta-s gave the mūlavātūla Nimeṣaka and the
+Mahāmleccha praṇidhipa as resounding slap right in their own den.
+However, lost in the world of their own making, they failed to wake up —
+Nimeṣaka was more concerned about flying navyonmāda’s Indracāpadhvaja-s
+at mleccha-dūtaśālā-s than managing the proper retreat of the mleccha-s
+from Gandhāra. As icing on the cake of their delusions, Piṇḍaka and
+Nimeṣaka declared that they had conducted a great operation to kill
+dreaded ghazi-s of the Khilafat and avenge the death of their baṭa-s,
+when in reality they killed a bunch of children of one of their own
+marūmatta friends.
+
+In contrast, emperor Xi proceeded with strengthening the Cīna-s. He lied
+his way through the Middle Kingdom Corruption, even as the rest of the
+world was tied down by it. He delivered a definitive punch to the
+restive vālūkavatūla-s, whom the Han had earlier subjugated. He was able
+to move ahead with testing hypersonic missiles supposedly. Notably, he
+was above to exploit the navyonmatta movements, like the
+kṛṣṇajīvāndolana, to aid the overthrow of the antagonistic
+Vijaya-nāma-vyāpārin and bring the pliable Piṇḍaka on the āsandi — it is
+notable how the Cīna-s colluded with the tech-duṣṭa-s to silence any
+discussion on Vyādha-piṇḍaka and his yantra. The cīna-s have other
+assets. First, their penetration of the Occidental academia via
+[Galtonism](https://manasataramgini.wordpress.com/2013/04/15/the-euro-american-academic-system-few-more-thoughts/)
+is incredibly deep. Thus, mleccha academics bat for their interests,
+provide them with cutting-edge knowledge, and might even obtain funds
+for their research which might ultimately be to the detriment of the
+mleccha-s themselves. This also provides them a conduit to slip in their
+spaś-es as students. Second, they have cultivated assets among the
+big-tech duṣṭa-s, e.g., Mukhagiri is their jāmātṛ who originally courted
+them before they broke up with him. Perhaps, even the break was not of
+his own accord but due to the pressure from the mleccha side. Finally,
+since the mleccha big-tech depends on delivering cheap opiates to the
+masses, the cīna-s hold them by their balls by controlling
+manufacturing. Thus, as big-tech takes control of the Mahāmleccha as the
+de facto government (something which will accelerate with the strides
+being taken in machine learning and other areas of computing, which in
+turn have been made effective by the more than two decades of data the
+masses have supplied them), the leverage on them that the cīna-s have,
+coupled with their immunity from them, would allow them to use
+navyonmāda as a potent weapon.
+
+**Onward to Bhārata**  
+All unmāda-s, the old counter-religions, and their new secular mutants
+see the dharma as their natural enemy — what Viṣṇuśarman would term
+svabhāvavairam. The one area where this is manifest is the hatred for
+the brāhmaṇa-s and functional H systems. Those among the mleccha-s and
+their sipāhi-s who fight for the so-called “enlightenment values” (the
+older delusion) hate the H as they offer a robust and likely superior
+alternative to their system. This threatens to undermine their
+truth-claim that they have found the only true formula that succeeded
+due to being good rather than being enforced by the smoking end of the
+nālika. Across the mleccha elite, some of the predictions of the
+evolutionary theory for *Homo sapiens* are fundamentally incompatible
+with their cherished beliefs. Thus, the majority of Occidental
+scientists (across ideological camps) focusing on its study slip into
+denialism on one or the other matter. Both the “Western values” types
+and those who fight for navyonmāda are terrified by the fact that H
+succeeded because they created a system that instinctively acknowledges
+the pulls of biology, i.e., human nature, on social structure. Thus,
+Bhārata is the one frontier where there is an alignment of the enemies.
+Paradoxically, while navyonmāda fights pretonmāda and “enlightenment
+values” in the Occident, in Bhārata, these align for the break up the H.
+In contrast, marūnmāda-navyonmāda alliance will be strong in both India
+and the West. Hence, we predict that given the intrinsic lack of
+fecundity in navyonmāda due to celebration of biology-denial it will end
+up aiding marūnmāda in Bhārata.
+
+Historically, H have had to deal with the preta-maru-rudhira triad —
+while there have been the classic heathen failures against these, at
+least they were recognized as such by a large fraction of the elite. In
+contrast, the capacity to recognize navyonmāda is even lower, as can be
+seen from the fact that even pro-H government circles so quickly and
+willingly propagate navyonmāda memes. This has also meant that the H
+elite have adopted navyonmāda memes to differing degrees. The secular
+elite constantly bombard the impressionable with navyonmāda packaged
+within opiates such as spectator sports, product advertisement and
+cinema, as if they were distributing adulterated heroin. Moreover,
+navyonmāda is also “safe for use” even for Cīna subversion operations in
+Bhārata. In particular, government adoption of navyonmāda memes would
+result in undermining the H army. This is something the Cīna-s badly
+want because despite all their show of tech, they have a dearth of young
+men needed to fight wars. On this front, the H still hold an upper hand,
+but if, like the Mahāmleccha, they decided to adopt navyonmāda, they
+could easily ruin their senā on top of having a tech gap with respect to
+the mleccha-s and Cīna-s. We have indeed seen evidence for mass
+deployment of navyonmāda by both Sorādi-duṣṭa-s and cīna-s — the CAA
+riots, the various khaṇḍa-jāti riots, the kīnāśa-uśnīśa-riots and
+Dravidianism — over the past few years. Hence, to cut the chase, we
+argue that the rise of navyonmāda has not only greatly multiplied the
+H’s threats in Bhārata and abroad but could be an existential threat.
+
+This essay builds on an [earlier
+one](https://manasataramgini.wordpress.com/2021/02/08/huntington-and-the-clash-21-years-later/),
+which overlaps in scope, filing in some historical details.
+
