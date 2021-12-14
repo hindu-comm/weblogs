@@ -9,6 +9,7 @@ Source: [here](https://manasataramgini.wordpress.com/2021/11/27/the-strange-case
 
 The strange case of the Āpastamba sprite
 
+## Problem manifests
 This is the second of the two stories that arose from incidents during
 the visit of Yaśaśravas, Somakhya’s cousin. With the autumnal vacations,
 Somakhya was having a good time with his visiting cousin, giving him
@@ -35,6 +36,7 @@ Somakhya a strange tale. Somakhya was shocked by it, but once he had
 gathered himself, he said they should wait until his friend Lootika
 visited before taking any further action.
 
+## Lootika visits
 Somakhya’s mother had wished to invite Lootika’s mother and her
 daughters for the coming festival of Dattātreya that Somakhya’s family
 observed; she thought it might also be an opportunity for some
@@ -56,6 +58,7 @@ mothers drew away the three younger sisters to look at jewelry, clothing
 and watch some video recording with them in another room. This gave
 Somakhya, Yashashravas and Lootika the solitude and time they wanted.
 
+## The graha
 S: “Yashashravas, Lootika is our confidante and will be of great help in
 trying to get to the bottom of your predicament. You can reliably share
 all you need to with us. Let us lose no time and get started. For
@@ -63,7 +66,7 @@ Lootika’s benefit, could you tell your story right from the beginning
 going back to your upanayana?”  
 Y: As you know, Somakhya, for a variety of reasons, my upanayana was
 performed about 6 years past the earliest recommended age at
-Kshayadrajanagara. It was a big affair, and a pity you could not be
+Kshayadrajanagara+++(=??)+++. It was a big affair, and a pity you could not be
 there due to the exams you had to give. However, our cousins and
 relatives like Babhru, Saumanasa, Mandara, Charuchitra and Varaha, as
 also our friend Indrasena and his brother, were all in attendance, and
@@ -74,7 +77,7 @@ Skanda-pūjā the next day, which is customary in our families. For three
 days after the upanayana, a snātaka from Kāśi, who, like me was an
 adherent of the Āpastamba school, was sent by the purohita who had
 performed your Atharvan upanayana. He taught me the correct performance
-of the saṃdhyopāsana along with some scholiastic material of Khaṇdadeva
+of the saṃdhyopāsana along with some scholiastic+++(=ಪ್ರಾಚೀನ ಪಂಡಿತನ ರೀತಿಯ)+++ material of Khaṇdadeva
 for several hours. On the afternoon of fourth day after the upanayana,
 Indrasena and I were seated on the parapet of our grandfather’s house
 yarning away about something when we saw the said snātaka come. I was a
@@ -113,6 +116,7 @@ should ask them to come over to your place too”. That is why I felt some
 relief when you mentioned that this is something you would like to
 handle with Lootika around.”
 
+## Plan
 S: “So, Lootika, what do you think of this?”  
 L: “Most remarkable and ghastly. It should be quite a problem for a V1
 male not to be able to perform his saṃdhyā properly. But I’m puzzled by
@@ -120,7 +124,7 @@ this utterance of “Āpastamba-sūtra”. Is that something peculiar to the
 Āpastamba school? As you know, my family follows the Bodhāyana-sūtra,
 though, as far as I know, the Āpastamba-s are not very divergent, except
 that they have lost the proper recitation of the Śrīsūkta and the
-Skandayāga in its entirety.”  
+Skandayāga in its entirety.”+++(4)+++  
 Somakhya smiled saying:“I know you Bodhāyana-s are pretty proud of your
 Śrīsūkta and Skandayāga”, even as Yashashravas intently turned his gaze
 from one to the other. Suddenly, Lootika excitedly remarked: “Ah!
@@ -137,13 +141,16 @@ L: “Sounds exciting. Can we get him to speak with a Ḍāmara-mantra?”
 S: “We can do so, but we have to take extra precautions and prepare
 Yashashravas for it. I also suggest that you recall the short
 Vīrabhadrāstra and keep it ready in your mind.”  
-Somakhya went to the sacristy and brought out a special svayaṃbhu-liṅga
+
+## Preparation
+Somakhya went to the sacristy+++(=pūjā storage)+++ and brought out a special svayaṃbhu-liṅga
 that he and Lootika had installed, some flowers, incense, a copper
 plate, and a long abhicārika nail. He asked Yashashravas to perform a
 Śivārchana of the liṇga with the following incantations:  
 oṃ rudrāya namaḥ । oṃ uḍḍīśāya namaḥ । oṃ sudurlabhāya namaḥ । oṃ
 kapardine namaḥ । oṃ virūpākṣāya namaḥ । oṃ sarva-graha-bhayāpahāya
 namaḥ ॥  
+
 Somakhya: “Lootika, why don’t you go out to the veranda and ready
 yourself to deploy the Ḍāmara-prayoga; I’ll prep Yashashravas for it in
 the meantime. Yashashravas, we diagnose you as being seized by a sprite
@@ -156,15 +163,18 @@ periodically keep repeating it, if not daily. The biggest danger from
 the sprite lies in interfering with the performance and recall of this
 mantra — this can prove fatal to the victim. While I have never
 encountered an Āpastambagraha before, I have heard of such a fatality in
-the case of a V1 from the Andhra country. Now perform its nyāsa:  
+the case of a V1 from the Andhra country. 
+
+Now perform its nyāsa:  
 Mṛtyulāṅgalasya Vasiṣtha ṛṣiḥ । anuṣṭubh chandaḥ । Kālāgnirudro devatā
 ॥  
 Having done that do japa of it as per the form deployed by the vipraugha
 with the bīja-saṃpuṭi-karaṇa that I’ll specify and not the aiśa form
 heard in the śruti:  
-ṛtaṃ satyam param-brahma-puruṣaṃ kṛṣṇa-piṅgalam ।  
-ūrdhvaretaṃ virūpākṣaṃ viśvarūpaṃ namāmy aham ॥  
-oṃ krāṃ krīṃ huṃ phaṇ namaḥ ॥
+
+> ṛtaṃ satyam param-brahma-puruṣaṃ kṛṣṇa-piṅgalam ।  
+> ūrdhvaretaṃ virūpākṣaṃ viśvarūpaṃ namāmy aham ॥  
+> oṃ krāṃ krīṃ huṃ phaṇ namaḥ ॥
 
 Somakhya then drew a circle and asked his cousin to sit inside it and
 start a japa of the said mantra. He warned him that once Lootika
@@ -179,11 +189,15 @@ not have interest in possessing me as Āpastamba is not my primary school
 but he could still lash out. That’s why I think you should deploy the
 Ḍāmara-prayoga solo so that I can perform a shielding prayoga for you.
 Yet, be warned it might break through; therefore, be ready with the
-Vīrabhadrāstra if it tries to attack you.” Lootika then placed a neem
+Vīrabhadrāstra if it tries to attack you.” 
+
+## The grAhin speaks
+Lootika then placed a neem
 stave on Yaśaśravas’s head and right away deployed the
-Grahavādini-mantra:  
-oṃ namo bhagavate mahākālarudrāya tripuravināśanakāraṇāya virūpākṣāya
-sarvabhūta-graha-vetālādhipataye rudrasyājñayā vada vada vada vada huṃ
+Grahavādini-mantra: 
+
+> oṃ namo bhagavate mahākālarudrāya tripura-vināśana-kāraṇāya virūpākṣāya
+sarva-bhūta-graha-vetālādhipataye rudrasyājñayā vada vada vada vada huṃ
 phaṭ svāhā ॥
 
 About 3 minutes into the prayoga, they noticed that Yashashravas was
@@ -266,7 +280,7 @@ before I could finish him off, he was taken by his people to the
 Piśācamocana-kṣetra at Kāśi, and a gaṇa of Rudra forced me to leave him.
 There I hung out in a tree for centuries before I could seize the
 snātaka who taught you at Kāśī. He had intoned the Mṛtyulāṅgala mantra
-while on a commode, thus, becoming easy prey for me. He died earlier
+while on a commode, thus, becoming easy prey for me.+++(4)+++ He died earlier
 that day when I seized you spawning another Āpastambagraha. Since your
 family had failed to protect you with the Skanda ritual, I knew I had a
 new host and duly took hold of you. I have not yet been able to entirely
@@ -276,6 +290,7 @@ chapter to a close. I also intend taking this pretty girl who had the
 temerity to make me speak along as a slave maid for my ghostly
 wanderings.”
 
+## Lootika reacts
 Terrified, Yashashravas handed the script back to Somakhya: “I seem to
 have scrawled another page full of Āpastamba-sūtra at the end … but is
 there a way out of this? I don’t want to go the way of the snātaka.”
@@ -293,12 +308,18 @@ my japa has resulted in him getting me.” Suddenly Lootika saw her bag
 creeping on the floor towards the door: “He’s going for my
 siddhakāṣṭha.” However, she managed to grab her bag and retrieve her
 siddhakāṣṭha and deploy the mantra:  
-huṃ drutam muñca muñca māṃ bhadrakālī-vīrabhadrau ājñapayataḥ phaṭ ॥  
-With that, she managed to shake off the Āpastamba-graha. S: “That is our
+
+> huṃ drutam muñca muñca māṃ bhadrakālī-vīrabhadrau ājñapayataḥ phaṭ ॥  
+
+With that, she managed to shake off the Āpastamba-graha. 
+
+## Somakhya binds
+S: “That is our
 chance. Yashashravas return to your japa.” Somakhya got out the nail
 and, going over to the liṅga performed a kamaṇḍalu prayoga with the
 mantra:  
-huṃ namaḥ ṣaṇmukhāya huṃ phaṭ duṣṭaṃ graham astreṇa vitudāmi pāśena kīle
+
+> huṃ namaḥ ṣaṇmukhāya huṃ phaṭ. duṣṭaṃ graham astreṇa vitudāmi. pāśena kīle
 badhnāmi ॥
 
 The nail leapt out of his hand and dropped on the plate with a prolonged
@@ -307,12 +328,17 @@ we have him.” S: “Indeed, did you notice how he tried to dissimulate his
 name thinking we may use it in place of an amum in the prayoga?” L:
 “Hmm… I was puzzled by that and unsure if it was written in some strange
 script, and didn’t know what to make of it. That’s why I made sure not
-to use it in any prayoga.” They sprinkled some water on Yashashravas and
+to use it in any prayoga.” 
+
+## Conclusion
+They sprinkled some water on Yashashravas and
 asked him to conclude his japa with an arghya using the Mṛtyulāṅgala
 mantra. S: “Yashashravas, I believe you should have a smooth saṃdhyā
-this evening.” L: “The tale of the late snātaka indeed reminds me of the
+this evening.” 
+
+L: “The tale of the late snātaka indeed reminds me of the
 V1 who is mentioned to have been orginally seized by a piśāca-graha in
-the tale of the Piśācamocana-tīrtha.” Later that evening, Somakhya’s
+the tale of the Piśāca-mocana-tīrtha.” Later that evening, Somakhya’s
 father drove them to the caitya, where, after the initial darśana-s,
 they went to the sub-shrine of the Ātreya to deliver the offerings.
 Since Lootika and Somakhya had a fear of dogs, they let Yashashravas
