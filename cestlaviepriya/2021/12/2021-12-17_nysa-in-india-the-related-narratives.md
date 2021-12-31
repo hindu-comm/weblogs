@@ -65,7 +65,7 @@ classical sources would have to be read and understood in the light of
 and corroboration with the Indian and Persian sources. Only then we
 might get a cohesive account of the events.
 
-***Table of Contents & its Links***
+## Table of Contents & its Links
 
 -   [Eastern Sources](#Eastern-Sources)
 -   [Western Classical Sources](#Western-Classical-Sources)
@@ -81,9 +81,9 @@ might get a cohesive account of the events.
 -   [References](#References)
 -   [Bibliography](#Bibliography)
 
-**Eastern Sources**
+## Eastern Sources
 
-***§******Ancient Persian Sources***
+### Ancient Persian Sources
 
 We all have heard the word Yavana while reading Indian history. In
 ancient Indian literature and inscriptions the word Yavana in Sanskrit
@@ -124,9 +124,10 @@ markets of the Persian Empire. We already know that Indian archers were
 employed in the Persian army by King Xerxes to fight against Greeks in
 the battle of Plataea in 479 BCE (Vasant, 1988: 331).
 
-***§****Ancient Indian Sources***
+### Ancient Indian Sources
 
-***Hindu:*** In ancient Indian literature, it is in *Aṣtādhyāyi* of
+#### Hindu
+ In ancient Indian literature, it is in *Aṣtādhyāyi* of
 Pāṇinī that the term related to the Greeks is first used. Pāṇini was an
 inhabitant of the ancient Indian north-west, in the vicinity of
 Taxila.^(**8**) In one if its sūtra, while teaching the use of an affix,
@@ -192,7 +193,8 @@ with an earliest window of period for first significant contacts between
 Indians and Yavana-s, which might have been increasing steadily since
 Darius’ victory in the north-west.
 
-***Buddhist:*** In Buddhist literature, one of the earliest references
+#### Buddhist
+ In Buddhist literature, one of the earliest references
 to Yavana-s occur in the *Assalāyana Sutta* of the *Majjhima Nikāya*
 that states the following discourse between Buddha and a young Brāhmaṇa
 named Assalāyana –
@@ -230,7 +232,8 @@ made contacts with the Indians in the sub-continent which either were
 transitory contacts due to commerce or even a possibility of some sort
 of small settlement in the outlying regions could be entertained.
 
-***Aśokan Rock Edic******ts**:* The first known inscriptional-epigraphic
+#### Aśokan Rock Edicts
+The first known inscriptional-epigraphic
 evidence for the word Yona comes from Aśokan Rock edicts – specifically
 Rock Edict XIII from Shahbazgarhi in Peshawar of ancient north west
 India (now Pakistan). It mentions Antiochos (Aṅtiyako Yonarāja ) as the
@@ -293,11 +296,14 @@ of the Dardic Indo-Aryan/Indo-Iranian sphere. Hence, it would be prudent
 to treat the question of Nysa of India and the question of Greek
 settlements (pre or post Alexander) in India quite separately.
 
-**Western Classical Sources**
+### Western Classical Sources
 
-***§****Pre-Alexandrian Sources***
 
-***Skylax:*** Now we move towards the classical sources for
+#### §****Pre-Alexandrian Sources*
+
+
+##### Skylax
+ Now we move towards the classical sources for
 pre-Alexandrian information that relate actual contacts between Greek
 travelers/writers and Indians**.** As previously mentioned, Indo-Greek
 contacts happened through the agency of the Persian Empire; it is in the
@@ -319,7 +325,8 @@ might have never known about Greek settlements in the region, it would
 be much more plausible to argue that there were no Yavana settlements in
 India at the time of his visit.
 
-***Herodotus:*** In fact, Herodotus, who was most probably writing on
+##### Herodotus
+ In fact, Herodotus, who was most probably writing on
 the authority of previous writers, in III, 102, refers to Indians that
 live near the town of Kaspátyros (=Kaspápyros) in the Paktyīké country,
 tentatively identified with Kusumpurā and Puṣkalāvatī, both of which
@@ -337,7 +344,8 @@ origin) who as per him lived southeast of Aral Sea in Central Asia. He
 also states that Kallatiai were very much shocked when Darius asked them
 whether they could burn their corpses.^(**21**)
 
-***Ctesias: ***There is also a tendency to ascribe the lighter
+##### Ctesias
+There is also a tendency to ascribe the lighter
 complexion of inhabitants of the north-west to post-Neolithic, Iron Age
 admixture from Europe, particularly to Alexander and his army and thus
 suggesting that the people of the region were Greek descendants. Even if
@@ -348,7 +356,8 @@ Artaxerxes II Mnemon as his physician mentioned in his book Indiká that
 all Indians are not black and that some of them were also extremely
 white although fewer in number (Tola & Dragonetti, 1986: 175).
 
-***§****Post-Alexandrian Sources***
+#### §****Post-Alexandrian Sources
+
 
 ***Arrian: ***Coming to the sources for ‘Nysa in India,’ Arrian gives
 the most detailed description among others. He states that between the
@@ -455,7 +464,8 @@ Graeco-Bactrian cities of Ay-Khanoum and Takht-i-Sangin. Also Tarn
 believed that the two locations (Nagara and Nysa) were actually far away
 from each other.^(**30**)
 
-**Settlement of Branchidae in Sogdiana: A Possibility?**
+##### Settlement of Branchidae in Sogdiana: A Possibility?
+
 
 Was Nysa the only major settlement related to us by the western
 classical sources? The Indian sources, as mentioned above do suggest
@@ -617,7 +627,8 @@ Pāṇini knew about were actually situated in Bactria-Sogidana is as
 strong as (may be even more) the possibility of Yavanas being settled in
 India.
 
-**Numismatics: The Athenian ‘Owls’**
+##### Numismatics: The Athenian ‘Owls’
+
 
 Until now, we were dealing with literary sources regarding the
 pre-Alexandrian evidence for Greek settlements in India were concerned
@@ -783,7 +794,8 @@ Asia Minor; they might not have the resources to mint such coins. But
 this is only a speculation and the results reached could change with new
 archaeological/numismatic finds and studies. 
 
-**The Question of ‘Greek Descent’**
+## The Question of ‘Greek Descent’
+
 
 The claims that these Greek settlements, either Alexandrian or
 pre-Alexandrian left such an imprint on the Indian sub-continent that
@@ -814,7 +826,8 @@ descendants of the Greeks. Though, they were claiming their descent not
 from the tradition of Nysa but through either Alexander or his generals
 or members of his entourage left in India.
 
-***§****The Genetic Studies***
+### The Genetic Studies
+
 
 Before moving further in analysis of these narratives, explaining the
 similarities and what could be the reasons of these parallelisms and
@@ -861,7 +874,8 @@ And, if these people are not connected to the Greeks (as confirmed by
 successive genetic studies), then how can we explain these
 commonalities?
 
-**Explaining the Parallelisms**
+### Explaining the Parallelisms
+
 
 When the British encountered these tribes particularly the Kafirs, their
 habits, culture, religion and their ‘European’ physical appearance
@@ -1199,7 +1213,8 @@ aspects of the Ṛgvedic religion. In fact, the practice of using wooden
 coffins and exposing the interned dead bodies to the sun seems to be
 much more influenced by the ancient Iranian traditions than the Greek.
 
-**History of the Claims of ‘Greek Descent’**
+### History of the Claims of ‘Greek Descent’
+
 
 When it is confirmed that the Kafir-Kalash traditions and culture have
 their ancient independent roots in the native Dardic,
@@ -1422,7 +1437,8 @@ the region with some archaic European connection that certainly cannot
 be due to either Alexander or any of his soldiers left behind in the
 military garrisons.
 
-**Alexander & his Ambitions of Divinity**
+## Alexander & his Ambitions of Divinity
+
 
 Keeping these conclusions in mind, it is fascinating to think that the
 ‘Nysa in India’ found such exhilarating appeal in the western classical
@@ -1788,7 +1804,8 @@ your satyrs, although I am Indian, and I take the part of Dionysus.’
 
 — Nonnus, Dionysiaca 22. 84–100^(**103**)
 
-**Conclusion**
+## Conclusion
+
 
 As perfectly put by Stoneman, *“Alexander came to India not just with a
 research project (if he did) but with a determination to stamp on the
@@ -1840,7 +1857,8 @@ campaign, in mythologisation of his expedition in heroic terms, his
 attempts to surpass his divine ancestors and interestingly, his belief
 in his own divinity.
 
-***References***
+## References
+
 
 -   **¹** M’Crindle, 1896. *The Invasion of India by Alexander the
     Great.* p. 79
@@ -1977,7 +1995,8 @@ in his own divinity.
 -   **¹⁰³** *ibid.* p. 91
 -   **¹⁰⁴** *ibid.* p. 81
 
-***Bibliography***
+## Bibliography
+
 
 1.  Abdullaev, K. (2017). [Funeary Tradition of the Ancient East in
     Examples from Anatolia and Bactria-Margian. Origins or
