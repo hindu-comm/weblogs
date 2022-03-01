@@ -13,7 +13,9 @@ Kalavai venkat, Islam, racists and leftists
 
 The below is from the linked post:
 
-> A few months ago, I had written something to the effect: \[Quote – not
+> A few months ago, I had written something to the effect: 
+> 
+> \[Quote – not
 > verbatim\] Nobody says, “I oppose racism but I welcome racists.”
 > Everyone understands that if racism is terrible then racists are to be
 > shunned. However, even those who are critical of Islam say, “I am
@@ -21,12 +23,14 @@ The below is from the linked post:
 > hateful ideology which spreads the worst forms of bigotry is packaged
 > as religion critics begin to pull punches. I would rather take a
 > principled stance, “I condemn Islam and I welcome ex-Muslims.”
-> \[Unquote\]That post got circulated and eventually reached a leftist
+> \[Unquote\]
+> 
+> That post got circulated and eventually reached a leftist
 > American academic. He interacts with me once in a few months. His tone
 > is generally hostile toward me. I respond with jibes and sarcasm. It
 > was no different this time. He wrote, “You just equated 1.8 billion
 > Muslims with racists. Your prejudice-filled mind didn’t even consider
-> the possibility that you were offending Muslims, did it?”I replied,
+> the possibility that you were offending Muslims, did it?” I replied,
 > “It is the racists who should feel offended by what I had written. In
 > the bygone centuries, racists did quote the Bible for defense. No
 > longer the case. Today, very few racists insist that their bigotry has
