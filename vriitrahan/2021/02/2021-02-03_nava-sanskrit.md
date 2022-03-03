@@ -123,7 +123,7 @@ feminine form) and declined like -a masculine nouns.
 4) भवान – honorific “आप of Hindi”  
 5) एषः/एषा – masculine/fem “this”  
 6) यः/या – relative pronoun “who/whom” (Hindi – जो)  
-7) कः/का – interrogative pronoun “who?/whom?” (Hindi – कौन​)  
+7) कः/का – interrogative pronoun “who?/whom?” (Hindi – कौन)  
   
 The 3PPP “सः” also does double duty as a distal demonstrative “that” Now
 keep in mind, I have maintained gender differences in these. It’s a bit
@@ -143,9 +143,9 @@ We keep same endings as Sanskrit but regularize all of them.
   
 Example:  
   
-√अद् – अत​ (stem) – अत्ति “He eats” (stem + ti ending)  
+√अद् – अत (stem) – अत्ति “He eats” (stem + ti ending)  
 √रुद् – रुत (stem) – रुत्ति “He cries” (stem + ti ending)  
-√सु – सव​ (stem after sandhi) – सवति “He presses” (stem + ti ending)  
+√सु – सव (stem after sandhi) – सवति “He presses” (stem + ti ending)  
   
 Let’s look at some sentence formation in comparison with Sanskrit, Hindi
 and English  
