@@ -9,7 +9,7 @@ Source: [here](https://manasataramgini.wordpress.com/2003/02/27/the-struggle-aga
 The land North of the Syr Darya delta and the Little Aral Sea was the
 domain of the White Horde Khanate. In 1373 the powerful Urus Khan, a
 descendant of Chingiz Khan, through his eldest son Jöchi, was crowned
-ruler of the Horde. He was sixth in line from Orda the son of Jöchi and
+ruler of the Horde. He was sixth in line from Orda the son of sutaJöchi and
 the brother of Batu. His nephew Toqtamish was in conflict with him and
 fled to Samarqand to seek aid from Timur-i-lang in 1376. Timur was
 delighted beyond words to have a descendant of Chingiz as a client and
