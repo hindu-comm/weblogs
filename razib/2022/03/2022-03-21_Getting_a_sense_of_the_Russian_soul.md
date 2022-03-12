@@ -1,5 +1,5 @@
 +++
-title = "Getting a sense of the"
+title = "RK on Russian soul"
 full_title = "Getting a sense of the Russian soul"
 date = "2022-03-21"
 upstream_url = "https://razib.substack.com/p/getting-a-sense-of-the-russian-soul"
@@ -9,25 +9,7 @@ Source: [here](https://razib.substack.com/p/getting-a-sense-of-the-russian-soul)
 
 Getting a sense of the Russian soul
 
-
-
-Share this post
-
-Getting a sense of the Russian soul
-
-razib.substack.com
-
-Copy link
-
-Twitter
-
-Facebook
-
-Email
-
-# Getting a sense of the Russian soul
-
-### Looking into Russian genetics and history (not through Putin’s eyes)
+Getting a sense of the Russian soul- Looking into Russian genetics and history (not through Putin’s eyes)
 
 [TABLE]
 
@@ -124,8 +106,4 @@ In the lead-up to Russia’s invasion of Ukraine, Putin reiterated his position 
 The Russians grew out of the cultural and historical ashes of Kievan Rus. While their Ukrainian cousins to the west suffered under the rule of Polish and Lithuanian landed elites, the Rurikid princes of the northeast received tutelage from the Golden Horde’s khans. Though the term tsar derives from caesar, the capricious behavior of rulers like Ivan the Terrible, who beat his own adult son to death in a fit of rage, reflects a despotism distinct from that of the earlier Rurikids of Kiev. Glib assertions that under the skin Russians are Tatars are false, but it is clearly true from both the genetics and history that Tatar elites did fuse themselves enduringly into the Imperial ruling class. This likely also had an effect culturally. Additionally, while Ukrainians and Central Europeans to the west descend almost entirely from peasants, a substantial proportion of Russians bear the stamp of descent from foraging Finnic tribes that ranged across the circumpolar lands for thousands of years, a cultural history totally alien to mainland Europeans.
 
 It turns out that Putin’s often quixotic espousal of a [Eurasian](https://www.theguardian.com/world/shortcuts/2014/feb/18/brief-primer-vladimir-putin-eurasian-union-trade) geopolitical and cultural vision faithfully reflects a stubborn historical strand that has marked the modern Russian soul. Ukraine, despite its strong ethnic, linguistic and religious commonalities with Russia, faces west and its national identity has never stood athwart two continents. Perhaps it is not surprising in hindsight that 20th-century global communism, with its multiethnic, imperial aspirations, was headquartered in Soviet Russia. Despite the prediction of orthodox Marxism that it should naturally emerge in the capitalist West, the 20th-century’s most imperial ideology gained purchase in the domains of the Russian Empire. Though at their root, Russians may be both genetically and culturally European, history has forged Russia into a civilization-state with a constitutive imperial ambition that will always clash with the more modest, cooperative aspirations of other peoples and nations. It may not have quite been inevitable, but where we are today should not surprise us. History may not be clockwork, but we can count on the past to echo long into the future. Whether we choose to listen or not is up to us.
-
-**Subscribe**
-
-|                                                                                 |                             | |---------------------------------------------------------------------------------|-----------------------------| | [21](https://razib.substack.com/p/getting-a-sense-of-the-russian-soul/comments) | [Share](javascript:void(0)) |
 
