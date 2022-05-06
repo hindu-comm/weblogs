@@ -9,36 +9,6 @@ Source: [here](https://razib.substack.com/p/the-age-of-genetic-engineering-begin
 
 The age of genetic engineering begins
 
-
-
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2b6977e-fbd7-4854-9230-2dd5f994ed7c_1000x667.jpeg)
-
-**Subscribe**
-
-[Give a gift
-subscription](https://razib.substack.com/subscribe?&gift=true)
-
-The holidays are upon us. By way of thanking all of you for being so
-willing to support my fledgling substack project, **this week I'm
-releasing a little set of year-end mini-posts.** These
-are**five**quick daily reads about the state as I see it
-of**five**sectors I follow. Might have been perfect for raising the
-level of chitchat at a normal year's run of December parties. In 2020, I
-hope they'll edify if it's not your field and that you'll let me know
-what I'm missing if it's your bailiwick I'mreflecting on.
-
-Thank you for reading, for
-[subscribing](https://razib.substack.com/subscribe?)**,** and for
-forwarding to friends who you think might enjoy. A quick administrative
-note: I'll be adjusting my Substack price levels upward in the new year
-so now is a great time to grab a paid
-[subscription](https://razib.substack.com/subscribe?) if you've been
-considering. Or to use Substack's
-[gift](https://razib.substack.com/subscribe?gift=true) option while the
-prices are lowest. Cheers!
-
-----------------------------------------------------------------------------------------
-
 In the late 2000s Peter Thiel and Tyler Cowen made waves arguing that
 technological progress had declined since the middle of the 20th
 century. Having spent my adulthood in the period between 2000 and 2020,
@@ -67,12 +37,12 @@ on the theme.
 
 [Share](https://razib.substack.com/p/the-age-of-genetic-engineering-begins?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
-**CRISPR!**
+## CRISPR!
 
 If genomics is the reading revolution, then genetic engineering is
 writing. Strangely, genetic engineering predates genomics by decades, in
 the form of [recombinant DNA
-technology](https://en.wikipedia.org/wiki/Recombinant_DNA#History). This
+technology](https://en.wikipedia.org/wiki/Recombinant_DNA#History).+++(4)+++ This
 is a cumbersome method of modification whereby gene fragments from one
 organism are inserted into vectors such as bacterial plasmids or
 viruses, which can then transfer them into the organism of interest.
@@ -89,7 +59,7 @@ Massive corporate resources were necessary to implement and execute the
 technology as anything more than a curiosity.
 
 If recombinant DNA technology allowed us to play God, it was a small
-primitive tribal god. As long as genetic engineering was restricted to
+primitive tribal god.+++(4)+++ As long as genetic engineering was restricted to
 expensive tinkering you’d be more likely to encounter it in science
 fiction than *Scientific American*.
 
@@ -102,19 +72,18 @@ prominence during a period when genomics was already a banal part of a
 biologist’s toolkit. Not only was CRISPR technology much more effective
 as far as genetic engineering went, biologists now had “maps” that they
 could use as guides, rather than grasping blindly through vast,
-uncharted terrain. It is like the difference between Phoenicians sailing
+uncharted terrain.+++(4)+++ It is like the difference between Phoenicians sailing
 into vast oceans guided only by the positions of the stars, and the
 celestial mechanics deployed by NASA to explore the solar system with
 laser-like precision.
 
-[Share](https://razib.substack.com/p/the-age-of-genetic-engineering-begins?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
-**Innovation’s preconditions**
+## Innovation’s preconditions
 
 The confluence of technologies is critical for takeoff in a particular
 sector. The ancient Greeks had primitive toy steam engines, but their
 mathematical and metallurgical science would not have enabled full-scale
-industrialization. It was not just a lack of vision or focus. The
+industrialization.+++(4)+++ It was not just a lack of vision or focus. The
 ancient world was not ready to harness steam as the motor for
 industrialization.
 
@@ -132,11 +101,11 @@ between the ability to edit genomes and their practical applications in
 medicine and health. CRISPR-Cas9 allows for the efficient and precise
 editing of genomes, but modern stem cell technology allows for the
 production of modified cells at a large scale that will not be rejected
-by the patient’s body.
+by the patient’s body.+++(4)+++
 
-[Share](https://razib.substack.com/p/the-age-of-genetic-engineering-begins?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
-**The end of Mendelian disease**
+
+## The end of Mendelian disease
 
 ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7238df28-f737-440f-9137-772e1ee2935d_1200x630.png)
 
@@ -153,10 +122,10 @@ largest gene in the genome. Trials are [also beginning for cystic
 fibrosis](https://www.nature.com/articles/d41586-020-02111-z). These are
 two childhood and young-adult diseases which inflict great suffering
 upon so many, but which may soon be wholly unfamiliar names to the
-young.
+young.+++(4)+++
 
 What these diseases have in common is that they are Mendelian conditions
-caused by impactful mutations in single genes. Often they are recessive
+caused by impactful mutations in single genes.+++(4)+++ Often they are recessive
 or sex-linked. They are the bread and butter of medical genetics. But
 will they always be?
 
@@ -167,16 +136,15 @@ mutations and fix the diseases.
 A combination of prenatal screening and gene editing in adults may mean
 that many Mendelian diseases are stamped out in the next twenty years.
 
-[Share](https://razib.substack.com/p/the-age-of-genetic-engineering-begins?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
-**The persistence of polygenic disease**
+## The persistence of polygenic disease
 
 Many conditions are not due to simple genetic causes but rather to a
 mutational burden across many genetic positions. There are [hundreds of
 genes](https://medlineplus.gov/genetics/condition/type-2-diabetes/#causes)
 implicated in the risk for type 2 diabetes. And then CRISPR-Cas9 is a
 notably accurate and precise technology, but even it sometimes produces
-errors. “Off-target effects.” Attempting to fix polygenic conditions may
+errors.+++(4)+++ “Off-target effects.” Attempting to fix polygenic conditions may
 introduce many new errors (perhaps, soberingly, even [causing
 cancer](https://cen.acs.org/business/Untangling-CRISPR-cancer-scare/96/i27)).
 
@@ -186,14 +154,13 @@ profile.
 
 The reality is that for most genetic traits, which are due to lots of
 genes, genetic engineering will be a matter of science fiction for at
-least another generation. It is worth noting, that unfortunately, it is
+least another generation.+++(4)+++ It is worth noting, that unfortunately, it is
 unlikely that there will be a genetic cure for schizophrenia or autism,
 which are highly heritable mental illnesses caused by mutations across
-many loci.
+many loci.+++(4)+++
 
-[Share](https://razib.substack.com/p/the-age-of-genetic-engineering-begins?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
-**The genetic engineering of “things”**
+## The genetic engineering of “things”
 
 The other major aspect of the “writing revolution” in genetics in the
 2020’s besides better health through the beating back of Mendelian
@@ -214,26 +181,10 @@ possibility of broad synergies across the tree of life. Keeping things
 “natural” and “organic” may become a developed-world luxury. Intelligent
 design in evolution may not be our past, but it could be our future!
 
-**An unnatural world**
+## An unnatural world
 
 The next decade will not see an end to hunger or illness. But, there may
 well be less disease. There will be more choices for producers in crops
 and livestock. The phrase “better living through chemistry” dates to the
 1930’s. **The 2020’s may usher in “better living through genetics.”**
 Though I suspect that this revolution won’t be advertised...
-
-[Share](https://razib.substack.com/p/the-age-of-genetic-engineering-begins?utm_source=substack&utm_medium=email&utm_content=share&action=share)
-
-----------------------------------------------------------------------------------------
-
-Thank you again for reading, for subscribing and for forwarding to
-friends who you think might enjoy. A quick administrative note: I'll be
-adjusting my Substack price levels upward in the new year so now is a
-great time to grab a paid subscription if you've been considering. Or to
-use Substack's gift option while the prices are lowest. Cheers!
-
-**Subscribe**
-
-[Give a gift
-subscription](https://razib.substack.com/subscribe?&gift=true)
-

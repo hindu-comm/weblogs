@@ -11,43 +11,7 @@ Your roots are showing
 
 
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F18609704-e23a-4664-be21-ff76acca194a_1600x972.gif)
-
-**Subscribe**
-
-[Give a gift
-subscription](https://razib.substack.com/subscribe?&gift=true)
-
-The holidays are upon us. By way of thanking all of you for being so
-willing to support my fledgling substack project,this week I'm
-releasing a set of year-end posts.These arefivereads about the state
-as I see it offivesectors I follow. Might have been perfect for
-raising the level of chitchat at a normal year's run of December
-parties. In 2020, I hope they'll edify if it's not your field and that
-you'll let me know what I'm missing if it's your bailiwick
-I'mreflecting on. So far:
-
--   [The age of genetic engineering
-    begins](https://razib.substack.com/p/the-age-of-genetic-engineering-begins)
-
--   [The original Chinese
-    man](https://razib.substack.com/p/3000-years-of-chinese-history)
-
--   [Applying IQ to IQ](https://razib.substack.com/p/applying-iq-to-iq)
-
-Thank you for reading,
-for[subscribing](https://razib.substack.com/subscribe?)**,**and for
-forwarding to friends who you think might enjoy. A quick administrative
-note: I'll be adjusting my Substack price levels upward in the new year
-so now is a great time to grab a
-paid[subscription](https://razib.substack.com/subscribe?)if you've
-been considering. Or to use
-Substack's[gift](https://razib.substack.com/subscribe?gift=true)option
-while the prices are lowest. Cheers!
-
-----------------------------------------------------------------------------------------
-
-**Beyond black and white**
+## Beyond black and white
 
 The Republican Party was born as an ethnic party. Formed out of a fusion
 of the anti-slavery factions in the Whigs and the Democrats, it absorbed
@@ -105,7 +69,7 @@ Poles, to the Mayflower descendants.
 
 ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F43aaa4e7-2c92-45bc-8029-7e5529ba519c_640x454.jpeg)
 
-**The old ones**
+## The old ones
 
 In the 20th century, the past stream of migrants through Ellis Island
 captured the American imagination. There were several reasons for this.
@@ -157,7 +121,7 @@ Americans are more rooted in the soil of this nation than most whites.
 
 ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa81252a6-f73b-4dbf-a21b-d224b33615df_508x640.jpeg)
 
-**The Other Americans**
+## The Other Americans
 
 The tortured history of black Americans, the descendants of Africans
 enslaved and brought to the New World, is well known. Much of American
@@ -184,7 +148,7 @@ present-day secular theology.
 
 ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb31b325b-7a61-4123-b66d-9433990460ef_1024x813.jpeg)
 
-**The Four Folkways**
+## The Four Folkways
 
 The most prominent theorist of the different cultural streams of
 Anglo-America is [David Hackett
@@ -248,7 +212,7 @@ fighter” culture to emerge on the frontier.
 
 ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbbf1222c-6c2b-4f00-ad4d-d1a3d7036198_600x418.jpeg)
 
-**The past is prologue**
+## The past is prologue
 
 As a child in upstate New York, I was taught about the Civil War with no
 ambiguity over “good guys” vs. “bad guys”. Why? Because upstate New York
@@ -292,7 +256,7 @@ contradictions.
 
 ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F782281fe-e4ec-46d9-9a86-68b9443485e6_723x978.png)
 
-**50 shades of white**
+## 50 shades of white
 
 In 2020 the discourse on ethnicity and race is reductive. The media and
 pundits have registered shock that Americans of Latin American origin
@@ -333,7 +297,7 @@ history than was ever there.
 
 ![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd964abb-2375-4f86-87fd-2ca4a5071602_600x676.jpeg)
 
-**True unity out of the diversity**
+## True unity out of the diversity
 
 The Manichaean temptation is a universal and recurring motif across
 human societies. The light and the dark, the good and the evil. **But
@@ -382,19 +346,5 @@ Americans are out putting up Christmas lights, walking their dogs, and
 hammering in For Sale signs. This cross-section of America is diverse.
 And busy with the real stuff of life.
 
-[Share](https://razib.substack.com/p/your-roots-are-showing?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
-----------------------------------------------------------------------------------------
-
-Thank you again for reading, for
-[subscribing](https://razib.substack.com/subscribe?) and for forwarding
-to friends who you think might enjoy. A quick administrative note: I'll
-be adjusting my Substack price levels upward in the new year so now is a
-great time to grab a paid subscription if you've been considering. Or to
-use Substack's gift option while the prices are lowest. Cheers!
-
-**Subscribe**
-
-[Give a gift
-subscription](https://razib.substack.com/subscribe?&gift=true)
 
