@@ -21,7 +21,7 @@ acutely aware of the archaic Greek meaning to the term – a ‘regime’, a
 realm under Order, in the Divine Sense. Which, of course, Ymir can only
 ‘contribute’ to via virtue of having been slain – as Ymir is chaos (in
 the sense of anti-Order, not how it was meant in the Greek theogony) and
-therefore antithetical to such a sphere.
+therefore antithetical to such a sphere.+++(4)+++
 
 And that, I think, is the quite literally foundational point of
 distinction to be made between the myths of Ymir and Purusha. For
@@ -34,7 +34,7 @@ and reinforcing as part of the Cosmic Being (the Universe as God).
 A few weeks ago, I ran into a person claiming that I had this all wrong
 – and that the accounts of Ymir’s forcibly dysjunctive deconstruction
 *had* to be the same as the self-sacrifice of Purusha in the Purusha
-Sukta \[i.e. RV X 90\]; and that I was entirely aritificially
+Sukta \[i.e. RV X 90\]; and that I was entirely artificially
 distinguishing the two upon the basis of an allegedly false declaration
 of Ymir to be a demon, as well as a blatant ignoring of what they
 suggested to be a suite of direct 1:1 correspondences between these two
@@ -46,9 +46,10 @@ All of which are, obviously, false. But do bear some closer examination.
 Now we shall start with the claim that Ymir’s status as a demon and
 enemy of the Gods is somehow false.
 
-The Gylfaginning puts the matter directly, in the mouth(s) of Odin: “And
-Jafnhárr answered: “By no means do we acknowledge him God; he was evil
-and all his kindred: we call them Rime-Giants.”
+The Gylfaginning puts the matter directly, in the mouth(s) of Odin: 
+
+> And Jafnhárr answered: “By no means do we acknowledge him God; he was evil
+and all his kindred: we call them Rime-Giants.”+++(5)+++
 
 And He, after all, should know !
 
@@ -65,7 +66,7 @@ comparatively resonant terms:
 
 The “Foundation of Earth and Starry Heaven”, “One regal body in which
 everything revolves: Fire and Water and Earth and Aether, and both Night
-and Day”;”Behold His head and handsome countenance, the radiant sky.
+and Day”; ”Behold His head and handsome countenance, the radiant sky.
 Around His golden hair are the gleaming stars twinkling beautifully.”
 
 Further verses go on to extol the pathways of the rising and setting Sun
@@ -84,23 +85,23 @@ Vrātya”, and in referency, of course, to Rudra.
 
 To quote a small sample, because I find it stirring:
 
-“In the eastern region Faith is his leman, the hymn his panegyrist,
-knowledge his vesture, day his turban,  
-night his hair, Indra’s two Bays his circular ornaments, the  
-splendour of the stars his jewel. Present and Future are his  
-running footmen, mind is his war-chariot, Mātarisvan and  
-Pavamāna are they who draw it, Vita is his charioteer, Storm  
-his goad, Fame and Glory are his harbingers. Fame and  
-Glory come to him who hath this knowledge.”  
+> “In the eastern region Faith is his leman,  
+> the hymn his panegyrist, knowledge his vesture,  
+> day his turban, night his hair,  
+> Indra’s two Bays his circular ornaments,  
+> the splendour of the stars his jewel.  
+> Present and Future are his running footmen,  
+> mind is his war-chariot,  
+> Mātarisvan and Pavamāna are they who draw it,  
+> Vita is his charioteer,  
+> Storm his goad, Fame and Glory are his harbingers. 
+> 
+> Fame and Glory come to him who hath this knowledge.”  
 \[…\]  
-“He, having become moving majesty, went to the ends of the  
-earth. He became the sea.  
-Prajāpati and Parameshthin and the Father and the Great Father  
-and the Waters and Faith, turned into rain, followed him.  
-The Waters, Faith, and rain approach him who possesses this  
-knowledge.  
-Faith, and Sacrifice and the world, having become food and  
-nourishment, turned toward him.  
+“He, having become moving majesty, went to the ends of the earth. He became the sea.  
+Prajāpati and Parameshthin and the Father and the Great Father and the Waters and Faith, turned into rain, followed him.  
+> The Waters, Faith, and rain approach him who possesses this knowledge.  
+Faith, and Sacrifice and the world, having become food and nourishment, turned toward him.  
 Faith Sacrifice, the world, food and nourishment approach him  
 who possesses this knowledge.”  
 \[…\]  
@@ -142,15 +143,18 @@ But let us bring things back to a direct textual comparison.
 
 First up, the Gylfaginning’s account:
 
-“They took Ymir and bore him into the middle of the Yawning Void, and
+> “They took Ymir and bore him into the middle of the Yawning Void, and
 made of him the earth: of his blood the sea and the waters; the land was
 made of his flesh, and the crags of his bones; gravel and stones they
 fashioned from his teeth and his grinders and from those bones that were
-broken.” And Jafnhárr said: “Of the blood, which ran and welled forth
+broken.” 
+> 
+> And Jafnhárr said: “Of the blood, which ran and welled forth
 freely out of his wounds, they made the sea, when they had formed and
 made firm the earth together, and laid the sea in a ring round. about
-her; and it may well seem a hard thing to most men to cross over it.”
-Then said Thridi: “They took his skull also, and made of it the heaven,
+her; and it may well seem a hard thing to most men to cross over it.” 
+> 
+> Then said Thridi: “They took his skull also, and made of it the heaven,
 and set it up over the earth with four corners; and under each corner
 they set a dwarf: the names of these are East, West, North, and South.
 Then they took the glowing embers and sparks that burst forth and had
@@ -174,7 +178,7 @@ Clouds were all created.”
 
 And then, RV X 90 \[the Jamison/Brereton translation\]
 
-“1 The Man has a thousand heads, a thousand eyes, and a thousand feet.  
+> “1 The Man has a thousand heads, a thousand eyes, and a thousand feet.  
 Having covered the earth on all sides, he extended ten fingers’ breadth
 beyond.  
 2 The Man alone is this whole (world): what has come into being and what
