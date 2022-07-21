@@ -7,7 +7,7 @@ upstream_url = "https://manasataramgini.wordpress.com/2007/08/15/bija-samputikar
 Source: [here](https://manasataramgini.wordpress.com/2007/08/15/bija-samputikaranas-of-the-kumara-vidya-and-related-mantras/).
 
 The great kaumAra tAntrika, [rAmAnuja
-deshika](http://manollasa.blogspot.com/2007/01/shri-ramnuja-deshika-one-of-last-great.html)
+deshika](http://manasataramgini.wordpress.com/2007/01/shri-ramnuja-deshika-one-of-last-great.html)
 collected several kaumAra vidyA-s into two compendiums the subrahmaNya
 kalpa (SK) and the kumAra-tantra sAra (KTS). These contains fragments of
 the older kaumAra mUla tantras that might be partly or entirely lost.

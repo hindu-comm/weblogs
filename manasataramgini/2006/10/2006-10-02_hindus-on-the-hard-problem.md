@@ -8,7 +8,7 @@ Source: [here](https://manasataramgini.wordpress.com/2006/10/02/hindus-on-the-ha
 
 We had earlier mentioned the interesting discussion we had with Marc and
 kalashajA on what the western philosophers admit is the hard problem of
-[consciousness](http://manollasa.blogspot.com/2004/06/we-are-zombies.html).
+[consciousness](http://manasataramgini.wordpress.com/2004/06/we-are-zombies.html).
 Our other acquaintance of the clan of the kAshyapa-s, had asked me if
 the Indians had contributed anything to the problem. He intuitively felt
 they had done so, but could not place a finger on it. Marc, R and I had

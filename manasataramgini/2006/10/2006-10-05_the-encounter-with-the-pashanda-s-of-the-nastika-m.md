@@ -7,7 +7,7 @@ upstream_url = "https://manasataramgini.wordpress.com/2006/10/05/the-encounter-w
 Source: [here](https://manasataramgini.wordpress.com/2006/10/05/the-encounter-with-the-pashanda-s-of-the-nastika-mata/).
 
 With the due assent I decided to narrate the account of
-[**R1**](http://manollasa.blogspot.com/2006/07/some-notes-of-shatsahasra-tradition.html)‘s
+[**R1**](http://manasataramgini.wordpress.com/2006/07/some-notes-of-shatsahasra-tradition.html)‘s
 father encounter with the vile pAShaNDa-s of the nAstIka mata- this is
 an illustrative example of some technicalities for the complete
 uchChATana of paShaNDa mantras. The other learned vR^iddhA had also

@@ -9,7 +9,7 @@ Source: [here](https://manasataramgini.wordpress.com/2007/03/26/the-purana-of-th
 The Hindu paurANic style never died out. We know of the many responses
 seen in Sanskrit literature to the Mohammedan onslaught. We had earlier
 seen how kShemendra had described the [kali yuga before the coming of
-kalki](http://manollasa.blogspot.com/2005/03/kshemendra-on-kalki.html).
+kalki](http://manasataramgini.wordpress.com/2005/03/kshemendra-on-kalki.html).
 The learned Ravlekar had furnished us with two texts of interest. One
 was the particular text titled the kalki-purANa. In this it is narrated
 that demonic turuShka or mlechCha king named shashi-dhvaja (the
