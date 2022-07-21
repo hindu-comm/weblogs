@@ -16,8 +16,37 @@ version of the same in their collection of Hindu mantras known as
 stuti-s and stava-s from Indonesia (now only surviving in Bali). All
 these with a single input from oral tradition help to obtain the
 critical version of the trailokyavijayA mantra as per the available
-traditions. trailokyavijayA is meditated upon as being deep blue in
+traditions. 
+
+trailokyavijayA is meditated upon as being deep blue in
 color, having 20 hands, and standing on corpses of slaughtered foes.
+
+ॐ हूं क्षूं ह्रूं ॐ नमो भगवती दंष्ट्रिणी भीमवक्त्रे महोग्ररूपे  
+हिलि हिलि रक्तनेत्रे किलि किलि महानिस्वने  
+कुलु ॐ विद्युज्-जिह्वे  
+कुलु ॐ निर्-मांसे  
+कट कट गोनसाभरणे  
+चिलि चिलि शव-माला-धारिणि  
+द्रावय ॐ महारौद्री सार्द्र-चर्मकृत्-कृताम्बरे  
+विजृम्भ ॐ नृत्य असिलताधारिणि  
+भ्रुकुटी-कृतापाङ्गे विषम-नेत्र-कृतानने  
+वसा-मेधो-विलिप्त-गात्रे  
+कह २ ॐ हस २ क्रुद्ध २ ॐ नील-जीमूत-वर्णे  
+मेघ-माला-धारिणि प्रज्वल  
+ॐ घण्टा-किङ्किणि-विभूषित-शरीरे  
+ॐ सिंहिस्थे अरुणवर्णे  
+ॐ ह्राम् ह्रीं ह्रूं रौद्र-रूपे  
+हूं ह्रीं क्लीं ॐ ह्रीं हूं  
+ॐ आकर्ष ॐ धून २  
+ॐ हे हः खः वज्रिणि हूं क्षूं क्षां  
+क्रोध-रूपिणि प्रज्ज्वल २  
+ॐ भीम-भीषणे भिन्दि  
+ॐ महाकाये  
+छिन्दि ॐ करालिनि  
+किटि २ महा-भूत-मातः  
+सर्व-दुष्ट-निवारिणि  
+जये ॐ विजये ॐ  
+त्रैलोक्यविजये हूं फट् स्वाहा
 
 OM hUM kShUM hrUM OM namo bhagavatI daMShTriNI bhImavaktre mahograrUpe
 hili hili raktanetre kili kili mahAnisvane kulu OM vidyuj-jihve kulu OM
