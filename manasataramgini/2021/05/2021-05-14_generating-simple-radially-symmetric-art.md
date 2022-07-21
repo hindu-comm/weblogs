@@ -6,57 +6,13 @@ upstream_url = "https://manasataramgini.wordpress.com/2021/05/14/generating-simp
 +++
 Source: [here](https://manasataramgini.wordpress.com/2021/05/14/generating-simple-radially-symmetric-art/).
 
-Many people experience beauty in structures with bilateral, radial and
-rotational symmetries with or without recursion. The recursive or nested
-structure are the foundation of the beauty in fractal form, the
-generation of which has become increasingly easy for the lay person with
-ever-improving computing power. One could generate beautiful fractal
-structures using a range of open source software; however, there is no
-substitute for writing ones own code and taking in some of the
-mathematics behind the beauty — truly fractal structures provide the
-clearest bridge between mathematics and beauty. While we have presented
-some discussion on such structures on these pages, that is not the topic
-of this note. Here, we shall talk about stuff that is mostly art for
-art’s sake (We fully understand that what constitutes art can have some
-subjectivity) that is generated based on simple repeats of certain
-motifs with an emphasis on radial and rotational symmetries.
+Many people experience beauty in structures with bilateral, radial and rotational symmetries with or without recursion. The recursive or nested structure are the foundation of the beauty in fractal form, the generation of which has become increasingly easy for the lay person with ever-improving computing power. One could generate beautiful fractal structures using a range of open source software; however, there is no substitute for writing ones own code and taking in some of the mathematics behind the beauty — truly fractal structures provide the clearest bridge between mathematics and beauty. While we have presented some discussion on such structures on these pages, that is not the topic of this note. Here, we shall talk about stuff that is mostly art for art’s sake (We fully understand that what constitutes art can have some subjectivity) that is generated based on simple repeats of certain motifs with an emphasis on radial and rotational symmetries.
 
-For at least three generations, there has been a strand in our family
-with an interest in generating such art. While there certainly exist
-people with much greater skill than us (you can even see manifestations
-of genius in this regard), the driving force for us is the pleasure
-derived from process of generating such art. One experiences a climax,
-when the process of polishing the work culminates in a first person
-experience of beatific satisfaction. In the two previous generations,
-the main medium was the powder (rice flour, stone and other colored
-powders) used in traditional alaṃkāra. In our case it began with
-spending time in our youth with a kaleidoscope. That inspiration was
-then transferred to paper, pen and compass but eventually it
-transitioned to computer-aided *in silico* tools. Over the years we have
-used many tools each with its own advantages and disadvantages. The
-first programs we used were CorelDraw and Canvas. The latter, at that
-time, was available to only on a Mac. It was a decent program but
-expensive. Moreover, we never owned a Mac, and using it on a public or a
-borrowed Mac was hardly convenient. Hence, it fell to the way side. I
-continue to use CorelDraw for professional stuff, especially if the work
-needs freedom of the hand and has some complexity; however, it is
-expensive and a typical user might only be able access it via a funding
-agency. Then the open source Inkscape came along, which evolved to be a
-reasonable free substitute for CorelDraw. Although CorelDraw is
-“smoother” to use, the current version of Inkscape is not bad at all.
+For at least three generations, there has been a strand in our family with an interest in generating such art. While there certainly exist people with much greater skill than us (you can even see manifestations of genius in this regard), the driving force for us is the pleasure derived from process of generating such art. One experiences a climax, when the process of polishing the work culminates in a first person experience of beatific satisfaction. In the two previous generations, the main medium was the powder (rice flour, stone and other colored powders) used in traditional alaṃkāra. In our case it began with spending time in our youth with a kaleidoscope. That inspiration was then transferred to paper, pen and compass but eventually it transitioned to computer-aided *in silico* tools. Over the years we have used many tools each with its own advantages and disadvantages. The first programs we used were CorelDraw and Canvas. The latter, at that time, was available to only on a Mac. It was a decent program but expensive. Moreover, we never owned a Mac, and using it on a public or a borrowed Mac was hardly convenient. Hence, it fell to the way side. I continue to use CorelDraw for professional stuff, especially if the work needs freedom of the hand and has some complexity; however, it is expensive and a typical user might only be able access it via a funding agency. Then the open source Inkscape came along, which evolved to be a reasonable free substitute for CorelDraw. Although CorelDraw is “smoother” to use, the current version of Inkscape is not bad at all.
 
-However, we wanted something more “programmable” where one could adjust
-various numerical parameters rather than going freehand — a language for
-graphics. The first such we looked at was MetaPost — it had, what to us
-were unfriendly aspects; however, the time we spent exploring it was not
-a total waste because in the second decade of the 2000s of CE we learnt
-of the existence of the PGF/TikZ (ironically named: “TikZ ist kein
-Zeichenprogramm) languages that greatly improved on MetaPost in our
-subjective opinion. Notably it could be used from within
+However, we wanted something more “programmable” where one could adjust various numerical parameters rather than going freehand — a language for graphics. The first such we looked at was MetaPost — it had, what to us were unfriendly aspects; however, the time we spent exploring it was not a total waste because in the second decade of the 2000s of CE we learnt of the existence of the PGF/TikZ (ironically named: “TikZ ist kein Zeichenprogramm) languages that greatly improved on MetaPost in our subjective opinion. Notably it could be used from within
 ![\\LaTeX](https://s0.wp.com/latex.php?latex=%5CLaTeX&bg=ffffff&fg=333333&s=0&c=20201002).
-Thus, we finally settled on TikZ as the language to write these pieces
-of art in. Following is an example of such with the compiled result
-appended below.
+Thus, we finally settled on TikZ as the language to write these pieces of art in. Following is an example of such with the compiled result appended below.
 
     \documentclass[margin=5mm]{standalone}
     \usepackage{tikz}
@@ -134,22 +90,13 @@ appended below.
     \end{tikzpicture}
     \end{document}
 
-[![](https://manasataramgini.files.wordpress.com/2021/05/deco_fig1.png?w=480&h=481)](https://manasataramgini.files.wordpress.com/2021/05/deco_fig1.png)**Figure
-1.**
+[![](https://manasataramgini.files.wordpress.com/2021/05/deco_fig1.png?w=480&h=481)](https://manasataramgini.files.wordpress.com/2021/05/deco_fig1.png)**Figure 1.**
 
-This example uses decadal symmetry with central tetrad element. In our
-subjective experience tetrad symmetry can be paired with other even
-symmetries as long as they central or the exterior most elements.
+This example uses decadal symmetry with central tetrad element. In our subjective experience tetrad symmetry can be paired with other even symmetries as long as they central or the exterior most elements.
 
-[![](https://manasataramgini.files.wordpress.com/2021/05/deco_fig2.png?w=480&h=489)](https://manasataramgini.files.wordpress.com/2021/05/deco_fig2.png)**Figure
-2.**
+[![](https://manasataramgini.files.wordpress.com/2021/05/deco_fig2.png?w=480&h=489)](https://manasataramgini.files.wordpress.com/2021/05/deco_fig2.png)**Figure 2.**
 
-Ideally all repeated motifs should have at least bilateral symmetry.
-However, one can get away with a layer or two of elements with just
-rotational symmetry, like the “S” element in Figure 2. The choice of
-color is another very important element — we like a degree of contrast
-in all the piece. Appended below are a range of productions illustrating
-different color choices.
+Ideally all repeated motifs should have at least bilateral symmetry. However, one can get away with a layer or two of elements with just rotational symmetry, like the “S” element in Figure 2. The choice of color is another very important element — we like a degree of contrast in all the piece. Appended below are a range of productions illustrating different color choices.
 
 [![](https://manasataramgini.files.wordpress.com/2021/05/deco_fig3.png?w=483&h=480)](https://manasataramgini.files.wordpress.com/2021/05/deco_fig3.png)
 

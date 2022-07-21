@@ -6,12 +6,7 @@ upstream_url = "https://manasataramgini.wordpress.com/2006/06/06/chandas-font/"
 +++
 Source: [here](https://manasataramgini.wordpress.com/2006/06/06/chandas-font/).
 
-The Sanskrit font created by Mihail Bayaryn is the best available now
-for Sanskrit word processing. In a combination with Itranslator of Svami
-Omkarananda Ashram it can now be used for processing Vedic Sanskrit of
-any type including atharvan, sAman and shukla yajurvedic svaras. Below
-is a sample of a screen shot of a taittirIya text processed by this
-method:  
+The Sanskrit font created by Mihail Bayaryn is the best available now for Sanskrit word processing. In a combination with Itranslator of Svami Omkarananda Ashram it can now be used for processing Vedic Sanskrit of any type including atharvan, sAman and shukla yajurvedic svaras. Below is a sample of a screen shot of a taittirIya text processed by this method:  
 Chandas font:  
 <http://chandas.cakram.org/>
 

@@ -13,9 +13,7 @@ Construction of the oval by the method of tangent circular arcs.
 anDAkAra maNDala
 
 Two genuine oval constructions:  
-1) The locus of the mutually perpendicular lines with respect to the
-centers of the two eccentric circles and the points of intersection of
-the radius.
+1) The locus of the mutually perpendicular lines with respect to the centers of the two eccentric circles and the points of intersection of the radius.
 
 [![oval_intersection](https://i1.wp.com/farm4.static.flickr.com/3168/3042323485_a8b91f00a3.jpg)](http://www.flickr.com/photos/24766652@N05/3042323485/ "oval_intersection by somasushma, on Flickr")
 

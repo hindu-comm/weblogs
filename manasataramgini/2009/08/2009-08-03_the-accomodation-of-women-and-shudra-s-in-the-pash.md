@@ -6,26 +6,7 @@ upstream_url = "https://manasataramgini.wordpress.com/2009/08/03/the-accomodatio
 +++
 Source: [here](https://manasataramgini.wordpress.com/2009/08/03/the-accomodation-of-women-and-shudra-s-in-the-pashupata-system/).
 
-As we noted before the pAshupata tradition was originally strictly
-restricted to brAhmaNa males who were educated in the veda-s. They were
-celibate ascetics who kept away from regular social interaction. But by
-the time of the vAmana purANa we note that the pAshupata-s were
-accommodating shUdra-s (VaP 6.92). This is suggested by the mahAvratin
-dhanada having the shUdra arNodara as a disciple. From inscriptional
-evidence in the southern country we note that women and shUdra-s are
-included amongst patrons of the pAshupata maTha-s. Is there any other
-evidence for their accommodation? It is seen that secondary shloka
-texts, resembling the vedic texts to which the shUdra-s had no adhikAra,
-were composed in the paurANic period when the shUdra-s were being
-accommodated. These texts provide the same material as the vedic
-mantra-s on which they are modeled making their purport accessible to
-the 4th varNa. Let us consider some examples briefly that are provided
-by lakShmIdhara and the li\~Nga purANa.. The first of this is a stand in
-for the pa\~nchabrahma-mantra-s. Only 3 brahma mantra-s are represented
-here. I discussed this with R1’s father. He speculated that perhaps the
-bahurUpI and rudra-gayatrI are genuinely vaidika and cannot be
-paraphrased as paurAnic shloka-s. Alternatively, their paraphrase has
-been lost.
+As we noted before the pAshupata tradition was originally strictly restricted to brAhmaNa males who were educated in the veda-s. They were celibate ascetics who kept away from regular social interaction. But by the time of the vAmana purANa we note that the pAshupata-s were accommodating shUdra-s (VaP 6.92). This is suggested by the mahAvratin dhanada having the shUdra arNodara as a disciple. From inscriptional evidence in the southern country we note that women and shUdra-s are included amongst patrons of the pAshupata maTha-s. Is there any other evidence for their accommodation? It is seen that secondary shloka texts, resembling the vedic texts to which the shUdra-s had no adhikAra, were composed in the paurANic period when the shUdra-s were being accommodated. These texts provide the same material as the vedic mantra-s on which they are modeled making their purport accessible to the 4th varNa. Let us consider some examples briefly that are provided by lakShmIdhara and the li\~Nga purANa.. The first of this is a stand in for the pa\~nchabrahma-mantra-s. Only 3 brahma mantra-s are represented here. I discussed this with R1’s father. He speculated that perhaps the bahurUpI and rudra-gayatrI are genuinely vaidika and cannot be paraphrased as paurAnic shloka-s. Alternatively, their paraphrase has been lost.
 
 *vande.ham devam IshAnaM sarveshaM sarvagaM prabhum \|  
 om IshAna namaste .astu mahAdeva namo .astu te \|\|1\|\|  
@@ -48,10 +29,7 @@ vAmadevAya vAmAya namastubhyaM mahAtmane \|\|9\|\|
 jyeShThAya chaiva shreShThAya rudrAya varadAya cha \|  
 kAla-hantre namas tubhyaM namas tubhyaM mahAtmane \|\|10\|\|*
 
-Similarly the following shloka-s attributed to brahmA are a shatarudrIya
-substitute for the 4th varNa to use. It has high frequency of overlap
-with the names of rudra in the shatrarudrIya and also includes an
-abbreviated paraphrase of the pa\~nchabrahma:
+Similarly the following shloka-s attributed to brahmA are a shatarudrIya substitute for the 4th varNa to use. It has high frequency of overlap with the names of rudra in the shatrarudrIya and also includes an abbreviated paraphrase of the pa\~nchabrahma:
 
 *namaste kAlakAlAya namaste rudra manyave \|  
 namaH shivAya rudrAya sha\~NkarAya shivAya te \|\|1\|\|  
@@ -89,9 +67,7 @@ puruShArtha-pradAnAya pataye parameShThine \|
 IshAnAya namas tubhyam IshvarAya namo namaH \|\|17\|\|  
 brahmaNe brahmarUpAya namaH sAkShAchChivAya te \|.5*
 
-This strange mantra is believed to be a rudra gAyatrI substitute
-althought it does not retain meter and has a grammatically strange form
-as it stands:  
+This strange mantra is believed to be a rudra gAyatrI substitute althought it does not retain meter and has a grammatically strange form as it stands:  
 * IshAnAya kadrudrAya prachetase tryaMbakAya sharvAya tanno rudraH
 prachodayAt \|\|*
 

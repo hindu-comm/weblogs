@@ -6,13 +6,9 @@ upstream_url = "https://manasataramgini.wordpress.com/2005/10/10/totalottara-tan
 +++
 Source: [here](https://manasataramgini.wordpress.com/2005/10/10/totalottara-tantra-mahalakshmi-krama/).
 
-The totalottara tantra is one of the important garuDa tantras of which
-fragments relating to special worship of mahAlakShmI are preserved by
-tradition. It may be done on the night of the concluding mahAlakShmI day
-during the sharada navarAtrI or dIpAvalI.
+The totalottara tantra is one of the important garuDa tantras of which fragments relating to special worship of mahAlakShmI are preserved by tradition. It may be done on the night of the concluding mahAlakShmI day during the sharada navarAtrI or dIpAvalI.
 
-Of the great mantra of shrI nArAyaNa is the R^iShi; mahAlakShmI is the
-devatA
+Of the great mantra of shrI nArAyaNa is the R^iShi; mahAlakShmI is the devatA
 
 oM shrAM a\~NguShThAbhyAM namaH /  
 oM shrIM tarjanIbhyAM namaH /  
@@ -33,15 +29,10 @@ shrIM hrIM mahAlakShmyai namaH //
 
 The Asana and the idol are worshipped.
 
-Then the great of mahAlakShmI yantra is drawn with particles of sand
-that represent the atoms that constitute the universe.  
-The yantra shall have the longest diagonals of an octagon and the end of
-each such sector shall have 8 spikes, thus with 64 radiating extremities
-and 8 sectors converging in the centre.  
-A square sacrificial altar shall be set up and the oblations of ghee
-offered:  
-In the four corners of the altar the oblations shall be made thus in
-clockwise order:
+Then the great of mahAlakShmI yantra is drawn with particles of sand that represent the atoms that constitute the universe.  
+The yantra shall have the longest diagonals of an octagon and the end of each such sector shall have 8 spikes, thus with 64 radiating extremities and 8 sectors converging in the centre.  
+A square sacrificial altar shall be set up and the oblations of ghee offered:  
+In the four corners of the altar the oblations shall be made thus in clockwise order:
 
 oM ghaM TaM DaM haM mahAlakShmyai namaH / svAhA // X n times
 

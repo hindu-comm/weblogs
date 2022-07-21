@@ -6,32 +6,13 @@ upstream_url = "https://manasataramgini.wordpress.com/2019/01/06/a-novel-discret
 +++
 Source: [here](https://manasataramgini.wordpress.com/2019/01/06/a-novel-discrete-map-exhibiting-chaotic-behavior/).
 
-The map proposed by R. Lozi over 40 years ago is one of the simplest two
-dimensional maps that exhibits chaotic behavior and generates a wide
-range of interesting structures. The map may be defined thus:
+The map proposed by R. Lozi over 40 years ago is one of the simplest two dimensional maps that exhibits chaotic behavior and generates a wide range of interesting structures. The map may be defined thus:
 
 ![x\_{n+1}=1-a_1\|x_n\|+y_n](https://s0.wp.com/latex.php?latex=x_%7Bn%2B1%7D%3D1-a_1%7Cx_n%7C%2By_n&bg=ffffff&fg=333333&s=0&c=20201002)  
 ![y\_{n+1}=a_2x_n](https://s0.wp.com/latex.php?latex=y_%7Bn%2B1%7D%3Da_2x_n&bg=ffffff&fg=333333&s=0&c=20201002)  
-where ![a_1,
-a_2](https://s0.wp.com/latex.php?latex=a_1%2C+a_2&bg=ffffff&fg=333333&s=0&c=20201002)
-are real parameters.
+where ![a_1, a_2](https://s0.wp.com/latex.php?latex=a_1%2C+a_2&bg=ffffff&fg=333333&s=0&c=20201002) are real parameters.
 
-We have discussed our explorations of this map at some length
-[before](https://manasataramgini.wordpress.com/2016/12/26/some-reminiscences-of-our-study-of-chaotic-maps-2/).
-At that point we also discussed our discovery of certain
-[generalizations](https://manasataramgini.wordpress.com/2017/09/26/some-simple-maps-specifying-strange-attractors/)
-of this class of maps. In course of the quest for the generalized
-[Lozi-like
-maps](https://manasataramgini.wordpress.com/2017/01/17/deliberations-on-richness-and-beauty-discovery-of-some-multi-parameter-iterative-maps/),
-we discovered another generalization remarkable for the diversity of
-forms it produced. We held back from presenting it because we wished to
-investigate its geometry further. As a result we are now able to explain
-the basic geometric determinants of the map; however, there are other
-aspects that still remain mysterious to us. Hence, we are presenting
-this map with whatever understanding we could arrive at along with the
-issues that are still open questions for us. They are maps of great
-beauty; hence, they are also worth beholding for the sake of their
-aesthetics.
+We have discussed our explorations of this map at some length [before](https://manasataramgini.wordpress.com/2016/12/26/some-reminiscences-of-our-study-of-chaotic-maps-2/). At that point we also discussed our discovery of certain [generalizations](https://manasataramgini.wordpress.com/2017/09/26/some-simple-maps-specifying-strange-attractors/) of this class of maps. In course of the quest for the generalized [Lozi-like maps](https://manasataramgini.wordpress.com/2017/01/17/deliberations-on-richness-and-beauty-discovery-of-some-multi-parameter-iterative-maps/), we discovered another generalization remarkable for the diversity of forms it produced. We held back from presenting it because we wished to investigate its geometry further. As a result we are now able to explain the basic geometric determinants of the map; however, there are other aspects that still remain mysterious to us. Hence, we are presenting this map with whatever understanding we could arrive at along with the issues that are still open questions for us. They are maps of great beauty; hence, they are also worth beholding for the sake of their aesthetics.
 
 This map is defined thus:  
 ![x\_{n+1}=a_1+a_2x_n+a_3\|x_n\|+y_n](https://s0.wp.com/latex.php?latex=x_%7Bn%2B1%7D%3Da_1%2Ba_2x_n%2Ba_3%7Cx_n%7C%2By_n&bg=ffffff&fg=333333&s=0&c=20201002)  
@@ -43,77 +24,31 @@ Alternatively, we can also define it as:
 ![y\_{n+1}=
 a_4+x_n](https://s0.wp.com/latex.php?latex=y_%7Bn%2B1%7D%3D+a_4%2Bx_n&bg=ffffff&fg=333333&s=0&c=20201002)
 
-Here ![a_1, a_2, a_3,
-a_4](https://s0.wp.com/latex.php?latex=a_1%2C+a_2%2C+a_3%2C+a_4&bg=ffffff&fg=333333&s=0&c=20201002)
-are real parameters: ![a_2 +
-a_3](https://s0.wp.com/latex.php?latex=a_2+%2B+a_3&bg=ffffff&fg=333333&s=0&c=20201002)
-is in the range
+Here ![a_1, a_2, a_3, a_4](https://s0.wp.com/latex.php?latex=a_1%2C+a_2%2C+a_3%2C+a_4&bg=ffffff&fg=333333&s=0&c=20201002) are real parameters: ![a_2 + a_3](https://s0.wp.com/latex.php?latex=a_2+%2B+a_3&bg=ffffff&fg=333333&s=0&c=20201002) is in the range
 ![(-2,2)](https://s0.wp.com/latex.php?latex=%28-2%2C2%29&bg=ffffff&fg=333333&s=0&c=20201002)
 (see below for explanation), while we explored ![a_1,
-a_4](https://s0.wp.com/latex.php?latex=a_1%2C+a_4&bg=ffffff&fg=333333&s=0&c=20201002)
-primarily in range ![(-1.01,
-1.01)](https://s0.wp.com/latex.php?latex=%28-1.01%2C+1.01%29&bg=ffffff&fg=333333&s=0&c=20201002)
-as this is the range where there is higher tendency for the map to yield
-chaotic attractors. If we take the first definition then the map is
-bilaterally symmetric about the axial line
+a_4](https://s0.wp.com/latex.php?latex=a_1%2C+a_4&bg=ffffff&fg=333333&s=0&c=20201002) primarily in range ![(-1.01, 1.01)](https://s0.wp.com/latex.php?latex=%28-1.01%2C+1.01%29&bg=ffffff&fg=333333&s=0&c=20201002) as this is the range where there is higher tendency for the map to yield chaotic attractors. If we take the first definition then the map is bilaterally symmetric about the axial line
 ![y=-x](https://s0.wp.com/latex.php?latex=y%3D-x&bg=ffffff&fg=333333&s=0&c=20201002).
-It we take the second definition it is similarly symmetric about the
-axis
+It we take the second definition it is similarly symmetric about the axis
 ![y=x](https://s0.wp.com/latex.php?latex=y%3Dx&bg=ffffff&fg=333333&s=0&c=20201002).
-For the below discussion we refer only to the first definition because
-the second one shows comparable behavior with change in signs of some of
-the parameters.
+For the below discussion we refer only to the first definition because the second one shows comparable behavior with change in signs of some of the parameters.
 
-To explore the basic geometric principles behind the attractors
-generated by this map we started with a set of 200 equally spaced
-starting points ![x_0,
-y_0](https://s0.wp.com/latex.php?latex=x_0%2C+y_0&bg=ffffff&fg=333333&s=0&c=20201002)
-all of which lie on the circle ![x=\\cos(t),
-y=\\sin(t)](https://s0.wp.com/latex.php?latex=x%3D%5Ccos%28t%29%2C+y%3D%5Csin%28t%29&bg=ffffff&fg=333333&s=0&c=20201002).
-With each starting point the map was iterated 2000 times. Then the
-evolution of each starting point under the map was plotted in one of 11
-different colors. We were able to determine the following rules for the
-structure of these attractors:
+To explore the basic geometric principles behind the attractors generated by this map we started with a set of 200 equally spaced starting points ![x_0, y_0](https://s0.wp.com/latex.php?latex=x_0%2C+y_0&bg=ffffff&fg=333333&s=0&c=20201002) all of which lie on the circle ![x=\\cos(t), y=\\sin(t)](https://s0.wp.com/latex.php?latex=x%3D%5Ccos%28t%29%2C+y%3D%5Csin%28t%29&bg=ffffff&fg=333333&s=0&c=20201002). With each starting point the map was iterated 2000 times. Then the evolution of each starting point under the map was plotted in one of 11 different colors. We were able to determine the following rules for the structure of these attractors:
 
-1\) The most important determinant of the geometry of the attractor is
-sum of the parameters ![a_2,
-a_3](https://s0.wp.com/latex.php?latex=a_2%2C+a_3&bg=ffffff&fg=333333&s=0&c=20201002).
-When ![a_1,
-a_4](https://s0.wp.com/latex.php?latex=a_1%2C+a_4&bg=ffffff&fg=333333&s=0&c=20201002)
-are closer to 1 and ![a_2+a_3 \\rightarrow
-2\\cos\\left(\\tfrac{2\\pi}{p/q}\\right)](https://s0.wp.com/latex.php?latex=a_2%2Ba_3+%5Crightarrow+2%5Ccos%5Cleft%28%5Ctfrac%7B2%5Cpi%7D%7Bp%2Fq%7D%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002)
-where
+1\) The most important determinant of the geometry of the attractor is sum of the parameters ![a_2, a_3](https://s0.wp.com/latex.php?latex=a_2%2C+a_3&bg=ffffff&fg=333333&s=0&c=20201002). When ![a_1, a_4](https://s0.wp.com/latex.php?latex=a_1%2C+a_4&bg=ffffff&fg=333333&s=0&c=20201002) are closer to 1 and ![a_2+a_3 \\rightarrow 2\\cos\\left(\\tfrac{2\\pi}{p/q}\\right)](https://s0.wp.com/latex.php?latex=a_2%2Ba_3+%5Crightarrow+2%5Ccos%5Cleft%28%5Ctfrac%7B2%5Cpi%7D%7Bp%2Fq%7D%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002) where
 ![p,q](https://s0.wp.com/latex.php?latex=p%2Cq&bg=ffffff&fg=333333&s=0&c=20201002)
 are mutually prime integers, we get a p-ad structure in the attractor
 (e.g. Figure 1).
 
-[![lozi_figure01_4heptas](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure01_4heptas.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure01_4heptas.png)Figure
-1. Emergence of a heptad structure for 4 different values of ![a_2,
-a_3](https://s0.wp.com/latex.php?latex=a_2%2C+a_3&bg=ffffff&fg=333333&s=0&c=20201002)
+[![lozi_figure01_4heptas](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure01_4heptas.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure01_4heptas.png)Figure 1. Emergence of a heptad structure for 4 different values of ![a_2, a_3](https://s0.wp.com/latex.php?latex=a_2%2C+a_3&bg=ffffff&fg=333333&s=0&c=20201002)
 
 In Figure 1,
 ![a_1=a_4=1](https://s0.wp.com/latex.php?latex=a_1%3Da_4%3D1&bg=ffffff&fg=333333&s=0&c=20201002),
-and ![a_2,
-a_3](https://s0.wp.com/latex.php?latex=a_2%2C+a_3&bg=ffffff&fg=333333&s=0&c=20201002)
-takes successively, by row, the following 4 pairs of values (-0.5450419,
-0.1); (-0.2450419; -0.2); (-0.7450419, 0.3); (-0.9450419; 0.5) . In each
-case ![a_2+a_3 \\rightarrow
-2\\cos\\left(\\tfrac{2\\pi}{7/2}\\right)](https://s0.wp.com/latex.php?latex=a_2%2Ba_3+%5Crightarrow+2%5Ccos%5Cleft%28%5Ctfrac%7B2%5Cpi%7D%7B7%2F2%7D%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002).
-This determines the central heptad structure but the rest of the
-attractor shows considerable variability that cannot be explained in a
-straightforward way from these parameters.
+and ![a_2, a_3](https://s0.wp.com/latex.php?latex=a_2%2C+a_3&bg=ffffff&fg=333333&s=0&c=20201002) takes successively, by row, the following 4 pairs of values (-0.5450419, 0.1); (-0.2450419; -0.2); (-0.7450419, 0.3); (-0.9450419; 0.5) . In each case ![a_2+a_3 \\rightarrow 2\\cos\\left(\\tfrac{2\\pi}{7/2}\\right)](https://s0.wp.com/latex.php?latex=a_2%2Ba_3+%5Crightarrow+2%5Ccos%5Cleft%28%5Ctfrac%7B2%5Cpi%7D%7B7%2F2%7D%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002). This determines the central heptad structure but the rest of the attractor shows considerable variability that cannot be explained in a straightforward way from these parameters.
 
-If ![a_2 \\rightarrow
-0](https://s0.wp.com/latex.php?latex=a_2+%5Crightarrow+0&bg=ffffff&fg=333333&s=0&c=20201002)
-and ![a_3 \\rightarrow
-2\\cos\\left(\\tfrac{2\\pi}{p/q}\\right)](https://s0.wp.com/latex.php?latex=a_3+%5Crightarrow+2%5Ccos%5Cleft%28%5Ctfrac%7B2%5Cpi%7D%7Bp%2Fq%7D%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002)
-then there is greater tolerance for the range of values ![a_1,
-a_4](https://s0.wp.com/latex.php?latex=a_1%2C+a_4&bg=ffffff&fg=333333&s=0&c=20201002)
-can take.
+If ![a_2 \\rightarrow 0](https://s0.wp.com/latex.php?latex=a_2+%5Crightarrow+0&bg=ffffff&fg=333333&s=0&c=20201002) and ![a_3 \\rightarrow 2\\cos\\left(\\tfrac{2\\pi}{p/q}\\right)](https://s0.wp.com/latex.php?latex=a_3+%5Crightarrow+2%5Ccos%5Cleft%28%5Ctfrac%7B2%5Cpi%7D%7Bp%2Fq%7D%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002) then there is greater tolerance for the range of values ![a_1, a_4](https://s0.wp.com/latex.php?latex=a_1%2C+a_4&bg=ffffff&fg=333333&s=0&c=20201002) can take.
 
-[![lozi_figure02_a2_0\_nona](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure02_a2_0_nona.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure02_a2_0_nona.png)Figure
-2. ![a_1=0.3, a_2=0, a_3=2cos\\left(\\tfrac{2\\pi}{9/2}\\right),
-a_4=0.7](https://s0.wp.com/latex.php?latex=a_1%3D0.3%2C+a_2%3D0%2C+a_3%3D2cos%5Cleft%28%5Ctfrac%7B2%5Cpi%7D%7B9%2F2%7D%5Cright%29%2C+a_4%3D0.7&bg=ffffff&fg=333333&s=0&c=20201002)
+[![lozi_figure02_a2_0\_nona](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure02_a2_0_nona.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure02_a2_0_nona.png)Figure 2. ![a_1=0.3, a_2=0, a_3=2cos\\left(\\tfrac{2\\pi}{9/2}\\right), a_4=0.7](https://s0.wp.com/latex.php?latex=a_1%3D0.3%2C+a_2%3D0%2C+a_3%3D2cos%5Cleft%28%5Ctfrac%7B2%5Cpi%7D%7B9%2F2%7D%5Cright%29%2C+a_4%3D0.7&bg=ffffff&fg=333333&s=0&c=20201002)
 
 With
 ![a_3=2\\cos\\left(\\tfrac{2\\pi}{9/2}\\right)](https://s0.wp.com/latex.php?latex=a_3%3D2%5Ccos%5Cleft%28%5Ctfrac%7B2%5Cpi%7D%7B9%2F2%7D%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002)
@@ -121,17 +56,11 @@ we get a nonad structure even though
 ![a_1](https://s0.wp.com/latex.php?latex=a_1&bg=ffffff&fg=333333&s=0&c=20201002)
 is relatively low.
 
-When ![a_1 \\rightarrow
-0](https://s0.wp.com/latex.php?latex=a_1+%5Crightarrow+0&bg=ffffff&fg=333333&s=0&c=20201002)
-and ![a_4 \\rightarrow
-1](https://s0.wp.com/latex.php?latex=a_4+%5Crightarrow+1&bg=ffffff&fg=333333&s=0&c=20201002)
+When ![a_1 \\rightarrow 0](https://s0.wp.com/latex.php?latex=a_1+%5Crightarrow+0&bg=ffffff&fg=333333&s=0&c=20201002) and ![a_4 \\rightarrow 1](https://s0.wp.com/latex.php?latex=a_4+%5Crightarrow+1&bg=ffffff&fg=333333&s=0&c=20201002)
 ![a_2+a_3 \\rightarrow
-2\\cos\\left(\\tfrac{2\\pi}{p/q}\\right)](https://s0.wp.com/latex.php?latex=a_2%2Ba_3+%5Crightarrow+2%5Ccos%5Cleft%28%5Ctfrac%7B2%5Cpi%7D%7Bp%2Fq%7D%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002)
-the p-ad structure in the attractor tends to be retained (Figure 3).
+2\\cos\\left(\\tfrac{2\\pi}{p/q}\\right)](https://s0.wp.com/latex.php?latex=a_2%2Ba_3+%5Crightarrow+2%5Ccos%5Cleft%28%5Ctfrac%7B2%5Cpi%7D%7Bp%2Fq%7D%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002) the p-ad structure in the attractor tends to be retained (Figure 3).
 
-[![lozi_figure03_hepta.8](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure03_hepta.8.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure03_hepta.8.png)Figure
-3. ![a_1=-.001, a_2=-.22, a_3=-.22,
-a_4=0.8](https://s0.wp.com/latex.php?latex=a_1%3D-.001%2C+a_2%3D-.22%2C+a_3%3D-.22%2C+a_4%3D0.8&bg=ffffff&fg=333333&s=0&c=20201002)
+[![lozi_figure03_hepta.8](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure03_hepta.8.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure03_hepta.8.png)Figure 3. ![a_1=-.001, a_2=-.22, a_3=-.22, a_4=0.8](https://s0.wp.com/latex.php?latex=a_1%3D-.001%2C+a_2%3D-.22%2C+a_3%3D-.22%2C+a_4%3D0.8&bg=ffffff&fg=333333&s=0&c=20201002)
 
 In this case
 ![a_2+a_3](https://s0.wp.com/latex.php?latex=a_2%2Ba_3&bg=ffffff&fg=333333&s=0&c=20201002)
@@ -139,214 +68,95 @@ is close to
 ![2\\cos\\left(\\tfrac{2\\pi}{7/2}\\right)](https://s0.wp.com/latex.php?latex=2%5Ccos%5Cleft%28%5Ctfrac%7B2%5Cpi%7D%7B7%2F2%7D%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002);
 thus, we get a core with a heptad structure.
 
-Irrespective of ![a_1,
-a_4](https://s0.wp.com/latex.php?latex=a_1%2C+a_4&bg=ffffff&fg=333333&s=0&c=20201002),
-if ![a_2,
-a_3](https://s0.wp.com/latex.php?latex=a_2%2C+a_3&bg=ffffff&fg=333333&s=0&c=20201002)
-are close to each other in magnitude but opposite in sign then we get
-square structure in the core of the attractor (Figure 4). This is
-because ![a_2+a+3 \\rightarrow
-0](https://s0.wp.com/latex.php?latex=a_2%2Ba%2B3+%5Crightarrow+0&bg=ffffff&fg=333333&s=0&c=20201002),
-which is
+Irrespective of ![a_1, a_4](https://s0.wp.com/latex.php?latex=a_1%2C+a_4&bg=ffffff&fg=333333&s=0&c=20201002), if ![a_2, a_3](https://s0.wp.com/latex.php?latex=a_2%2C+a_3&bg=ffffff&fg=333333&s=0&c=20201002) are close to each other in magnitude but opposite in sign then we get square structure in the core of the attractor (Figure 4). This is because ![a_2+a+3 \\rightarrow 0](https://s0.wp.com/latex.php?latex=a_2%2Ba%2B3+%5Crightarrow+0&bg=ffffff&fg=333333&s=0&c=20201002), which is
 ![2\\cos\\left(\\tfrac{2\\pi}{4}\\right)](https://s0.wp.com/latex.php?latex=2%5Ccos%5Cleft%28%5Ctfrac%7B2%5Cpi%7D%7B4%7D%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002)
 
-[![lozi_figure04_opposites](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure04_opposites.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure04_opposites.png)Figure
-4. ![a_1=-0.33, a_2=-0.34, a_3=0.34,
-a_4=0.8](https://s0.wp.com/latex.php?latex=a_1%3D-0.33%2C+a_2%3D-0.34%2C+a_3%3D0.34%2C+a_4%3D0.8&bg=ffffff&fg=333333&s=0&c=20201002)
+[![lozi_figure04_opposites](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure04_opposites.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure04_opposites.png)Figure 4. ![a_1=-0.33, a_2=-0.34, a_3=0.34, a_4=0.8](https://s0.wp.com/latex.php?latex=a_1%3D-0.33%2C+a_2%3D-0.34%2C+a_3%3D0.34%2C+a_4%3D0.8&bg=ffffff&fg=333333&s=0&c=20201002)
 
-2\) For low values of both ![a_1,
-a_4](https://s0.wp.com/latex.php?latex=a_1%2C+a_4&bg=ffffff&fg=333333&s=0&c=20201002)
-or at least
+2\) For low values of both ![a_1, a_4](https://s0.wp.com/latex.php?latex=a_1%2C+a_4&bg=ffffff&fg=333333&s=0&c=20201002) or at least
 ![a_4](https://s0.wp.com/latex.php?latex=a_4&bg=ffffff&fg=333333&s=0&c=20201002),
-including when they are below 0 and ![a_2+a_3 \\rightarrow
-2\\cos\\left(\\tfrac{2\\pi}{p/q}\\right)](https://s0.wp.com/latex.php?latex=a_2%2Ba_3+%5Crightarrow+2%5Ccos%5Cleft%28%5Ctfrac%7B2%5Cpi%7D%7Bp%2Fq%7D%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002)
-we see a loss of the p-ad structure or a flattening of the attractor
-along the axis of symmetry from the top left side (Figure 5).
+including when they are below 0 and ![a_2+a_3 \\rightarrow 2\\cos\\left(\\tfrac{2\\pi}{p/q}\\right)](https://s0.wp.com/latex.php?latex=a_2%2Ba_3+%5Crightarrow+2%5Ccos%5Cleft%28%5Ctfrac%7B2%5Cpi%7D%7Bp%2Fq%7D%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002) we see a loss of the p-ad structure or a flattening of the attractor along the axis of symmetry from the top left side (Figure 5).
 
-[![lozi_figure05_penta](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure05_penta.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure05_penta.png)Figure
-5. Effect of low ![a_1,
-a_4](https://s0.wp.com/latex.php?latex=a_1%2C+a_4&bg=ffffff&fg=333333&s=0&c=20201002)
+[![lozi_figure05_penta](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure05_penta.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure05_penta.png)Figure 5. Effect of low ![a_1, a_4](https://s0.wp.com/latex.php?latex=a_1%2C+a_4&bg=ffffff&fg=333333&s=0&c=20201002)
 
 In both panels
 ![a_2=a_3=0.305](https://s0.wp.com/latex.php?latex=a_2%3Da_3%3D0.305&bg=ffffff&fg=333333&s=0&c=20201002);
 ![a_2+a_3 \\approx
-2\\cos\\left(\\tfrac{2\\pi}{5}\\right)](https://s0.wp.com/latex.php?latex=a_2%2Ba_3+%5Capprox+2%5Ccos%5Cleft%28%5Ctfrac%7B2%5Cpi%7D%7B5%7D%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002).
-In the left panel ![a_1=
-a_4=1](https://s0.wp.com/latex.php?latex=a_1%3D+a_4%3D1&bg=ffffff&fg=333333&s=0&c=20201002)
-and the expected pentad structure is retained. In the right panel
+2\\cos\\left(\\tfrac{2\\pi}{5}\\right)](https://s0.wp.com/latex.php?latex=a_2%2Ba_3+%5Capprox+2%5Ccos%5Cleft%28%5Ctfrac%7B2%5Cpi%7D%7B5%7D%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002). In the left panel ![a_1= a_4=1](https://s0.wp.com/latex.php?latex=a_1%3D+a_4%3D1&bg=ffffff&fg=333333&s=0&c=20201002) and the expected pentad structure is retained. In the right panel
 ![a_1=a_4=0.1](https://s0.wp.com/latex.php?latex=a_1%3Da_4%3D0.1&bg=ffffff&fg=333333&s=0&c=20201002);
-we notice that the pentad structure has been lost with flattening along
-the axis of symmetry.
+we notice that the pentad structure has been lost with flattening along the axis of symmetry.
 
-These are the basic rules by which the core structure of the attractors
-can be accounted for. The parameters ![a_1,
-a_4](https://s0.wp.com/latex.php?latex=a_1%2C+a_4&bg=ffffff&fg=333333&s=0&c=20201002)
-can be seen as scaling parameters whereas ![a_2,
-a_3](https://s0.wp.com/latex.php?latex=a_2%2C+a_3&bg=ffffff&fg=333333&s=0&c=20201002)
-can be seen as rotational parameters. The latter pair sets up the
-rotational structure based on how close their sum approaches
+These are the basic rules by which the core structure of the attractors can be accounted for. The parameters ![a_1, a_4](https://s0.wp.com/latex.php?latex=a_1%2C+a_4&bg=ffffff&fg=333333&s=0&c=20201002) can be seen as scaling parameters whereas ![a_2, a_3](https://s0.wp.com/latex.php?latex=a_2%2C+a_3&bg=ffffff&fg=333333&s=0&c=20201002) can be seen as rotational parameters. The latter pair sets up the rotational structure based on how close their sum approaches
 ![2\\cos\\left(\\tfrac{2\\pi}{p/q}\\right)](https://s0.wp.com/latex.php?latex=2%5Ccos%5Cleft%28%5Ctfrac%7B2%5Cpi%7D%7Bp%2Fq%7D%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002).
-This is the cosine principle that occurs as the primary
-structure-determinant in other chaotic maps, including maps which we
-discovered and discussed before
+This is the cosine principle that occurs as the primary structure-determinant in other chaotic maps, including maps which we discovered and discussed before
 ([1](https://manasataramgini.wordpress.com/2018/08/05/the-geometric-principles-behind-discrete-dynamical-systems-based-on-the-generalized-witch-of-agnesi/),
-[2](https://manasataramgini.wordpress.com/2018/03/25/the-remarkable-behavior-of-a-map-displaying-derived-from-a-simple-model-for-a-biological-conflict/)).
-As in the previously discussed cases, this sets the limits of
+[2](https://manasataramgini.wordpress.com/2018/03/25/the-remarkable-behavior-of-a-map-displaying-derived-from-a-simple-model-for-a-biological-conflict/)). As in the previously discussed cases, this sets the limits of
 ![a_2+a_3](https://s0.wp.com/latex.php?latex=a_2%2Ba_3&bg=ffffff&fg=333333&s=0&c=20201002)
-as (-2, 2); however, here there is greater scope for diversity because
-the cosine principle is distributed over the sum of two separate
-parameters. Beyond the cosine principle,n these attractors exhibit
-additional features whose origins remain mysterious to us:
+as (-2, 2); however, here there is greater scope for diversity because the cosine principle is distributed over the sum of two separate parameters. Beyond the cosine principle,n these attractors exhibit additional features whose origins remain mysterious to us:
 
-1\) For example, In Figure 3 in addition to the core heptad one can see
-additional harmonics like a 11-ad, 18-ad and 29-ad structures. What is
-the explanation for them? In the previous examples of chaotic maps we
-could explain higher harmonics based on other
+1\) For example, In Figure 3 in addition to the core heptad one can see additional harmonics like a 11-ad, 18-ad and 29-ad structures. What is the explanation for them? In the previous examples of chaotic maps we could explain higher harmonics based on other
 ![\\tfrac{p}{q}](https://s0.wp.com/latex.php?latex=%5Ctfrac%7Bp%7D%7Bq%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 whose
 ![\\cos\\left(\\tfrac{2\\pi}{p/q}\\right)](https://s0.wp.com/latex.php?latex=%5Ccos%5Cleft%28%5Ctfrac%7B2%5Cpi%7D%7Bp%2Fq%7D%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002)
-might lie close to the primary cosine. However, in this case the 11-ad,
-the 18-ad and 29-ad correspond to no such cosines. Hence, their
-emergence remains a mystery.
+might lie close to the primary cosine. However, in this case the 11-ad, the 18-ad and 29-ad correspond to no such cosines. Hence, their emergence remains a mystery.
 
-2\) Further, there is an effect of the starting ![x_0,
-y_0](https://s0.wp.com/latex.php?latex=x_0%2C+y_0&bg=ffffff&fg=333333&s=0&c=20201002),
-which can result in the appearance of a n-ad structure independently of
-the cosine principle (Figure 6).
+2\) Further, there is an effect of the starting ![x_0, y_0](https://s0.wp.com/latex.php?latex=x_0%2C+y_0&bg=ffffff&fg=333333&s=0&c=20201002), which can result in the appearance of a n-ad structure independently of the cosine principle (Figure 6).
 
-[![lozi_figure06_hepta_anomal](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure06_hepta_anomal.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure06_hepta_anomal.png)Figure
-6. The effect the initial points.
+[![lozi_figure06_hepta_anomal](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure06_hepta_anomal.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure06_hepta_anomal.png)Figure 6. The effect the initial points.
 
-In both the above cases the four parameters ![a_1, a_2, a_3,
-a_4](https://s0.wp.com/latex.php?latex=a_1%2C+a_2%2C+a_3%2C+a_4&bg=ffffff&fg=333333&s=0&c=20201002)
-are respectively, -0.567115129642189, -0.761931293738961,
--0.347582505706949, -0.069076271019876. However, the left panel was
-initialized with a circle of radius 0.9 and the right panel was
-initialized with a circle of radius
+In both the above cases the four parameters ![a_1, a_2, a_3, a_4](https://s0.wp.com/latex.php?latex=a_1%2C+a_2%2C+a_3%2C+a_4&bg=ffffff&fg=333333&s=0&c=20201002) are respectively, -0.567115129642189, -0.761931293738961, -0.347582505706949, -0.069076271019876. However, the left panel was initialized with a circle of radius 0.9 and the right panel was initialized with a circle of radius
 ![\\tfrac{1}{3}](https://s0.wp.com/latex.php?latex=%5Ctfrac%7B1%7D%7B3%7D&bg=ffffff&fg=333333&s=0&c=20201002).
-Only in the second case we see the emergence of a heptad structure,
-which cannot be accounted for by the sum of ![a_2,
-a_3](https://s0.wp.com/latex.php?latex=a_2%2C+a_3&bg=ffffff&fg=333333&s=0&c=20201002).
-The role of the starting ![x_0,
-y_0](https://s0.wp.com/latex.php?latex=x_0%2C+y_0&bg=ffffff&fg=333333&s=0&c=20201002)
-in generating n-ad structures is another open question.
+Only in the second case we see the emergence of a heptad structure, which cannot be accounted for by the sum of ![a_2, a_3](https://s0.wp.com/latex.php?latex=a_2%2C+a_3&bg=ffffff&fg=333333&s=0&c=20201002). The role of the starting ![x_0, y_0](https://s0.wp.com/latex.php?latex=x_0%2C+y_0&bg=ffffff&fg=333333&s=0&c=20201002) in generating n-ad structures is another open question.
 
-To further explore the diversity of chaotic attractors within the
-above-stated parameter space for the 4 parameters of the map we set up
-our code to search for such maps thus:  
-1) We set ![x_0=0.3\\cos(\\pi/4), y_0=
-0.3\\sin(\\pi/4)](https://s0.wp.com/latex.php?latex=x_0%3D0.3%5Ccos%28%5Cpi%2F4%29%2C+y_0%3D+0.3%5Csin%28%5Cpi%2F4%29&bg=ffffff&fg=333333&s=0&c=20201002)
-as the starting point.  
-2) We then randomly generated a set of parameters ![a_1, a_2, a_3,
-a_4](https://s0.wp.com/latex.php?latex=a_1%2C+a_2%2C+a_3%2C+a_4&bg=ffffff&fg=333333&s=0&c=20201002)
-in the range ![(-1.01,
-1.01)](https://s0.wp.com/latex.php?latex=%28-1.01%2C+1.01%29&bg=ffffff&fg=333333&s=0&c=20201002).  
-3) For each such set we allowed ![(x_0,
-y_0)](https://s0.wp.com/latex.php?latex=%28x_0%2C+y_0%29&bg=ffffff&fg=333333&s=0&c=20201002)
-to evolve for 1000 iterations under the map. If the evolution resulted
-in the divergence to
+To further explore the diversity of chaotic attractors within the above-stated parameter space for the 4 parameters of the map we set up our code to search for such maps thus:  
+1) We set ![x_0=0.3\\cos(\\pi/4), y_0= 0.3\\sin(\\pi/4)](https://s0.wp.com/latex.php?latex=x_0%3D0.3%5Ccos%28%5Cpi%2F4%29%2C+y_0%3D+0.3%5Csin%28%5Cpi%2F4%29&bg=ffffff&fg=333333&s=0&c=20201002) as the starting point.  
+2) We then randomly generated a set of parameters ![a_1, a_2, a_3, a_4](https://s0.wp.com/latex.php?latex=a_1%2C+a_2%2C+a_3%2C+a_4&bg=ffffff&fg=333333&s=0&c=20201002) in the range ![(-1.01, 1.01)](https://s0.wp.com/latex.php?latex=%28-1.01%2C+1.01%29&bg=ffffff&fg=333333&s=0&c=20201002).  
+3) For each such set we allowed ![(x_0, y_0)](https://s0.wp.com/latex.php?latex=%28x_0%2C+y_0%29&bg=ffffff&fg=333333&s=0&c=20201002) to evolve for 1000 iterations under the map. If the evolution resulted in the divergence to
 ![\\infty](https://s0.wp.com/latex.php?latex=%5Cinfty&bg=ffffff&fg=333333&s=0&c=20201002)
-or convergence to one or few point attractors, then we discarded those
-parameters.  
-4) A heuristic for chaos is that very small differences in the initial
-conditions can result in very different end results upon evolution under
-the map after a certain number of iterations. Hence, for those
-parameters which survived the above filters we tested if a second ![x_0,
-y_0](https://s0.wp.com/latex.php?latex=x_0%2C+y_0&bg=ffffff&fg=333333&s=0&c=20201002),
-which differed from the first by
+or convergence to one or few point attractors, then we discarded those parameters.  
+4) A heuristic for chaos is that very small differences in the initial conditions can result in very different end results upon evolution under the map after a certain number of iterations. Hence, for those parameters which survived the above filters we tested if a second ![x_0, y_0](https://s0.wp.com/latex.php?latex=x_0%2C+y_0&bg=ffffff&fg=333333&s=0&c=20201002), which differed from the first by
 ![10^{-7}](https://s0.wp.com/latex.php?latex=10%5E%7B-7%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 in each coordinate diverged from the evolutionary path of the original
 ![x_0,
-y_0](https://s0.wp.com/latex.php?latex=x_0%2C+y_0&bg=ffffff&fg=333333&s=0&c=20201002)
-after the same number of iterations. If it did so, the parameter set was
-retained as it was the sign of being on a chaotic attractor.  
-5) These surviving parameter sets were then explored more fully by
-studying the evolution of 200 equally spaced points on the circle
+y_0](https://s0.wp.com/latex.php?latex=x_0%2C+y_0&bg=ffffff&fg=333333&s=0&c=20201002) after the same number of iterations. If it did so, the parameter set was retained as it was the sign of being on a chaotic attractor.  
+5) These surviving parameter sets were then explored more fully by studying the evolution of 200 equally spaced points on the circle
 ![x=0.3\\cos(t),
-y=0.3\\sin(t)](https://s0.wp.com/latex.php?latex=x%3D0.3%5Ccos%28t%29%2C+y%3D0.3%5Csin%28t%29&bg=ffffff&fg=333333&s=0&c=20201002)
-for 2000 iterations of the map.
+y=0.3\\sin(t)](https://s0.wp.com/latex.php?latex=x%3D0.3%5Ccos%28t%29%2C+y%3D0.3%5Csin%28t%29&bg=ffffff&fg=333333&s=0&c=20201002) for 2000 iterations of the map.
 
-We present below few examples of attractors emerging from the above
-procedure with parameters listed in order from
+We present below few examples of attractors emerging from the above procedure with parameters listed in order from
 ![a_1](https://s0.wp.com/latex.php?latex=a_1&bg=ffffff&fg=333333&s=0&c=20201002)
 to
 ![a_4](https://s0.wp.com/latex.php?latex=a_4&bg=ffffff&fg=333333&s=0&c=20201002).
 
-[![lozi_figure7_27](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure7_27.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure7_27.png)Figure
-7. -0.21947270759847, 0.33858182718046, 0.610763950282708,
-0.315013298424892  
-This attractor assumes of the form reminiscent in some ways of the
-gingerbread man seen in the classical Lozi attractor. The gingerbread
-man has a “heart” in the form a five-lobed structure with a ellipse
-within it.
+[![lozi_figure7_27](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure7_27.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure7_27.png)Figure 7. -0.21947270759847, 0.33858182718046, 0.610763950282708, 0.315013298424892  
+This attractor assumes of the form reminiscent in some ways of the gingerbread man seen in the classical Lozi attractor. The gingerbread man has a “heart” in the form a five-lobed structure with a ellipse within it.
 
-[![lozi_figure8_28](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure8_28.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure8_28.png)Figure
-8. -0.344555260520428, -0.59013448276557, 0.523313496601768,
-0.713451223839074  
-This attractor has parallels to the previous one in being somewhat like
-the gingerbread man with 4 hands.
+[![lozi_figure8_28](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure8_28.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure8_28.png)Figure 8. -0.344555260520428, -0.59013448276557, 0.523313496601768, 0.713451223839074  
+This attractor has parallels to the previous one in being somewhat like the gingerbread man with 4 hands.
 
-[![lozi_figure9_18](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure9_18.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure9_18.png)Figure
-9. -0.26224758869037, -0.488204386695288, 0.879756956817582,
-0.301065913862549  
-This attractor takes the form of a fish or some crustacean naupilus
-larva.
+[![lozi_figure9_18](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure9_18.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure9_18.png)Figure 9. -0.26224758869037, -0.488204386695288, 0.879756956817582, 0.301065913862549  
+This attractor takes the form of a fish or some crustacean naupilus larva.
 
-[![lozi_figure10_2](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure10_2.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure10_2.png)Figure
-10. -0.309558889106847, -0.797052371953614, -0.980002021430992,
-0.34323377257213  
+[![lozi_figure10_2](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure10_2.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure10_2.png)Figure 10. -0.309558889106847, -0.797052371953614, -0.980002021430992, 0.34323377257213  
 This attractor looks somewhat like an echinoderm larva.
 
-[![lozi_figure11_3](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure11_3.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure11_3.png)Figure
-11. -0.482874695337377, -0.819933905000798, -0.381899853958748,
-0.100596646997146  
-This is a representative of a prevalent type of attractor generated by
-this map that may be termed the “Sombrero hat” type. The central heptad
-structure in this attractor is a mystery because it is not explicable by
-the cosine conditions above-presented .
+[![lozi_figure11_3](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure11_3.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure11_3.png)Figure 11. -0.482874695337377, -0.819933905000798, -0.381899853958748, 0.100596646997146  
+This is a representative of a prevalent type of attractor generated by this map that may be termed the “Sombrero hat” type. The central heptad structure in this attractor is a mystery because it is not explicable by the cosine conditions above-presented .
 
-[![lozi_figure12_7](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure12_7.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure12_7.png)Figure
-12. -0.442830848232843, 0.0637841782858595, 0.495140142193995,
-0.24925118080806  
-This form of the attractor resembles the [butterfly
-attractor](https://manasataramgini.wordpress.com/2016/12/26/some-reminiscences-of-our-study-of-chaotic-maps-2/)
-generated by the square-root modification of the Lozi map that we had
-described earlier.
+[![lozi_figure12_7](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure12_7.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure12_7.png)Figure 12. -0.442830848232843, 0.0637841782858595, 0.495140142193995, 0.24925118080806  
+This form of the attractor resembles the [butterfly attractor](https://manasataramgini.wordpress.com/2016/12/26/some-reminiscences-of-our-study-of-chaotic-maps-2/) generated by the square-root modification of the Lozi map that we had described earlier.
 
-[![lozi_figure13_11](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure13_11.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure13_11.png)Figure
-13. -0.170671575525775, -0.671315040569752, 0.563780032042414,
-0.24513541710563  
+[![lozi_figure13_11](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure13_11.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure13_11.png)Figure 13. -0.170671575525775, -0.671315040569752, 0.563780032042414, 0.24513541710563  
 Another version of the “Sombrero hat” type.
 
-[![lozi_figure14_rad1](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure14_rad1.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure14_rad1.png)Figure
-14. -0.517300257436, 0.795868384265341, 1.00516145080794,
-0.493695715968497  
-For this attractor the radius of the ![x_0,
-y_0](https://s0.wp.com/latex.php?latex=x_0%2C+y_0&bg=ffffff&fg=333333&s=0&c=20201002)
-circle was changed from 0.3 to 1, though it is stable and similar at the
-former value too. It vaguely resembles some Cambrian animal.
+[![lozi_figure14_rad1](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure14_rad1.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure14_rad1.png)Figure 14. -0.517300257436, 0.795868384265341, 1.00516145080794, 0.493695715968497  
+For this attractor the radius of the ![x_0, y_0](https://s0.wp.com/latex.php?latex=x_0%2C+y_0&bg=ffffff&fg=333333&s=0&c=20201002) circle was changed from 0.3 to 1, though it is stable and similar at the former value too. It vaguely resembles some Cambrian animal.
 
-[![lozi_figure15_41](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure15_41.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure15_41.png)Figure
-15. -0.307423420087434, -0.0870326082082465, -0.337442451966926,
-0.766096443301067  
-This attractor assumes a bun-shaped morph that is seen quite often under
-these maps. An explanation for the multiple harmonics of this attractor
-remains as yet mysterious to us.
+[![lozi_figure15_41](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure15_41.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure15_41.png)Figure 15. -0.307423420087434, -0.0870326082082465, -0.337442451966926, 0.766096443301067  
+This attractor assumes a bun-shaped morph that is seen quite often under these maps. An explanation for the multiple harmonics of this attractor remains as yet mysterious to us.
 
-[![lozi_figure16_31.4](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure16_31.4.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure16_31.4.png)Figure
-16. -0.0823114865785465, -0.766779959597625, 0.868352874149568,
--0.0100218075420707  
-Another Sombrero hat type form. The radius of the ![x_0,
-y_0](https://s0.wp.com/latex.php?latex=x_0%2C+y_0&bg=ffffff&fg=333333&s=0&c=20201002)
-circle was changed from 0.3 to .4 for this attractor. How one accounts
-for the central pentagonal zone of restriction and the triad of
-octagonal restriction zones around it remains mysterious.
+[![lozi_figure16_31.4](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure16_31.4.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure16_31.4.png)Figure 16. -0.0823114865785465, -0.766779959597625, 0.868352874149568, -0.0100218075420707  
+Another Sombrero hat type form. The radius of the ![x_0, y_0](https://s0.wp.com/latex.php?latex=x_0%2C+y_0&bg=ffffff&fg=333333&s=0&c=20201002) circle was changed from 0.3 to .4 for this attractor. How one accounts for the central pentagonal zone of restriction and the triad of octagonal restriction zones around it remains mysterious.
 
-[![lozi_figure17_12.31](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure17_12.31.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure17_12.31.png)Figure
-17. -0.16997885087505, -0.0931982280220837, -0.631216614013538,
--0.248738911962137  
-Here the radius of the ![x_0,
-y_0](https://s0.wp.com/latex.php?latex=x_0%2C+y_0&bg=ffffff&fg=333333&s=0&c=20201002)
-circle was changed from 0.3 to 0.31. It shows a central pentad
-surrounded by 9 further pentads. An explanation for the emergence of
-these pentads and the 9 fold harmonic however remains elusive.
+[![lozi_figure17_12.31](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure17_12.31.png?w=640)](https://manasataramgini.files.wordpress.com/2019/01/lozi_figure17_12.31.png)Figure 17. -0.16997885087505, -0.0931982280220837, -0.631216614013538, -0.248738911962137  
+Here the radius of the ![x_0, y_0](https://s0.wp.com/latex.php?latex=x_0%2C+y_0&bg=ffffff&fg=333333&s=0&c=20201002) circle was changed from 0.3 to 0.31. It shows a central pentad surrounded by 9 further pentads. An explanation for the emergence of these pentads and the 9 fold harmonic however remains elusive.

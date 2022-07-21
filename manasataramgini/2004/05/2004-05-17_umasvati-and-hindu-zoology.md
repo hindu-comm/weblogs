@@ -6,10 +6,7 @@ upstream_url = "https://manasataramgini.wordpress.com/2004/05/17/umasvati-and-hi
 +++
 Source: [here](https://manasataramgini.wordpress.com/2004/05/17/umasvati-and-hindu-zoology/).
 
-**umAsvati**, the great jaina Acharya produced a remarkable work termed
-the tattvArthAdhigama around 40 AD which contains one the great early
-productions of Hindu zoology. umAsvati believed that all animals could
-be classified into the following groups:
+**umAsvati**, the great jaina Acharya produced a remarkable work termed the tattvArthAdhigama around 40 AD which contains one the great early productions of Hindu zoology. umAsvati believed that all animals could be classified into the following groups:
 
 **Group I invertebrates:**  
 apAdika = nematodes  
@@ -42,26 +39,12 @@ bhujanga=snakes
 pakshi=birds  
 jArayujAs=mammals
 
-This shows that the ancient Hindus had a working knowledge of animal
-diversity and a natural complexity based on biological organization.
-While it may not be the most accurate classification of Animalia it
-shows that the hindu world clearly encouraged the study of biology,
-something which was sorely lacking in later day India.
+This shows that the ancient Hindus had a working knowledge of animal diversity and a natural complexity based on biological organization. While it may not be the most accurate classification of Animalia it shows that the hindu world clearly encouraged the study of biology, something which was sorely lacking in later day India.
 
-The great ancient brahmANa zoologist **lAdyAyana** of a lost atharvan
-shAkha presents a similar picture and made a particular study of
-arthropods and “reptiles”. His entire text does not survive but
-fragments preserved by dalvana present a clear picture of his meticulous
-approach. lAdyAyana states :
+The great ancient brahmANa zoologist **lAdyAyana** of a lost atharvan shAkha presents a similar picture and made a particular study of arthropods and “reptiles”. His entire text does not survive but fragments preserved by dalvana present a clear picture of his meticulous approach. lAdyAyana states :
 
-kaTubiH bindu lekhAbhiH pakshaiH pAdaiH mukaiH nakaiH shUkaiH
-kaNTaka-lAngalaiH samshriShTaiH paksha-romabhiH \|  
-svanaiH pramANaiH saMsthAnaiH li\~ngaishvApi sharIragaiH viSha-vIryaish
-cha kITAnAM rupagyAnaM vibhAvayate \|\|
+kaTubiH bindu lekhAbhiH pakshaiH pAdaiH mukaiH nakaiH shUkaiH kaNTaka-lAngalaiH samshriShTaiH paksha-romabhiH \|  
+svanaiH pramANaiH saMsthAnaiH li\~ngaishvApi sharIragaiH viSha-vIryaish cha kITAnAM rupagyAnaM vibhAvayate \|\|
 
-In order to obtain knowledge of the classification of arthropods one
-must carefully examine: 1) veins, spots and markings 2) wings, 3) legs,
-4) oral appendages 5) mandibles, 6) antennae, 7) claws and spines 8)
-abdominal stings 9) bristles on body and wings 10) sounds 11) structure
-of organs, 12) genitalia 13) toxins and their actions.
+In order to obtain knowledge of the classification of arthropods one must carefully examine: 1) veins, spots and markings 2) wings, 3) legs, 4) oral appendages 5) mandibles, 6) antennae, 7) claws and spines 8) abdominal stings 9) bristles on body and wings 10) sounds 11) structure of organs, 12) genitalia 13) toxins and their actions.
 

@@ -6,12 +6,8 @@ upstream_url = "https://manasataramgini.wordpress.com/2007/01/29/a-vidya-of-atha
 +++
 Source: [here](https://manasataramgini.wordpress.com/2007/01/29/a-vidya-of-atharvana-bhadra-kali/).
 
-The atharvaN-s have several distinctive prescriptions of mantra
-prayoga-s for pratya\~NgirA or atharvaNa-bhadrakAlI. One such is the
-mahAchaNDayogeshvarI vidyA. It is recommended only for those who study
-the AV, though no niyama or purashcharaNa is required for deployment.  
-pippalAda R^iShiH; Chando nAsti yajuShTvataH; atharvaNa-bhadrakAlI
-jayadurgA devatA \|  
+The atharvaN-s have several distinctive prescriptions of mantra prayoga-s for pratya\~NgirA or atharvaNa-bhadrakAlI. One such is the mahAchaNDayogeshvarI vidyA. It is recommended only for those who study the AV, though no niyama or purashcharaNa is required for deployment.  
+pippalAda R^iShiH; Chando nAsti yajuShTvataH; atharvaNa-bhadrakAlI jayadurgA devatA \|  
 OM bIjaM; hrIM shaktiH; jaye cha viniyogaH\|  
 AM AM AM hR^idayAya namaH \|  
 IM IM IM shirase svAhA \|  

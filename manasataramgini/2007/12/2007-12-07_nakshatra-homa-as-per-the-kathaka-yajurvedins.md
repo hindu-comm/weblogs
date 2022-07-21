@@ -6,51 +6,21 @@ upstream_url = "https://manasataramgini.wordpress.com/2007/12/07/nakshatra-homa-
 +++
 Source: [here](https://manasataramgini.wordpress.com/2007/12/07/nakshatra-homa-as-per-the-kathaka-yajurvedins/).
 
-The nakShatra homa as performed by the taittirIyaka-s utilizes the famed
-nakShatra-sUktaM and the elaborate mantra prescriptions from from the
-taittirIya brAhmaNa (3.1). The kaTha-s have a very different tradition
-of nakShatra homa. With the denudation and extinction of the kaTha
-tradition this appears to have been lost, but we can reconstruct it in
-large part due to the commentary of the kaTha ritualist devapAla.
-devapAla was in the line of great kaTha yajurvedins from like: 1)
-gauradhara the R^ig/yajur dvivedI from Kashmir who composed a now lost,
-but supposedly notable, commentary on the kAThaka saMhitA known as
-veda-vilAsa. 2) lakShmIdeva, a noted performer of shrauta rituals and 3)
-Adityadarsha. devapAla appears to have been one of those last great
-brahmin scholars who was intimately acquainted with the rituals of the
-kaTha tradition and he describes the denudation of brahminical tradition
-around him. While by all accounts he was smArta, in terms of tantric and
-laukIka disposition he was inclined towards the Kashimirian lineage of
-pA\~ncharAtra mantra-shAstra and even composed a great stava on viShNu.
-In terms of philosophical affiliations he belonged to the yoga school
-and composed a scholarly commentary on the sUtra-s of pata\~Njali. At
-the same time his work clearly shows that he was a master of the mImAMsa
-school. He was born in Jalandhar, Panjab, to a vedic scholar haripAla
-son of bhaTTa upendra. He wrote his great work on the laugAkShi kalpa
-sUtra-s in jayapura near Shrinagar, Kashmir.
+The nakShatra homa as performed by the taittirIyaka-s utilizes the famed nakShatra-sUktaM and the elaborate mantra prescriptions from from the taittirIya brAhmaNa (3.1). The kaTha-s have a very different tradition of nakShatra homa. With the denudation and extinction of the kaTha tradition this appears to have been lost, but we can reconstruct it in large part due to the commentary of the kaTha ritualist devapAla. devapAla was in the line of great kaTha yajurvedins from like: 1) gauradhara the R^ig/yajur dvivedI from Kashmir who composed a now lost, but supposedly notable, commentary on the kAThaka saMhitA known as veda-vilAsa. 2) lakShmIdeva, a noted performer of shrauta rituals and 3) Adityadarsha. devapAla appears to have been one of those last great brahmin scholars who was intimately acquainted with the rituals of the kaTha tradition and he describes the denudation of brahminical tradition around him. While by all accounts he was smArta, in terms of tantric and laukIka disposition he was inclined towards the Kashimirian lineage of pA\~ncharAtra mantra-shAstra and even composed a great stava on viShNu. In terms of philosophical affiliations he belonged to the yoga school and composed a scholarly commentary on the sUtra-s of pata\~Njali. At the same time his work clearly shows that he was a master of the mImAMsa school. He was born in Jalandhar, Panjab, to a vedic scholar haripAla son of bhaTTa upendra. He wrote his great work on the laugAkShi kalpa sUtra-s in jayapura near Shrinagar, Kashmir.
 
-The offerings are made in the shrauta context as puroDAshas on 8
-kapAla-s or in the aupAsana fire as charu-s of rice or barley. The
-mantras used for the oblations are completely different from those of
-taittirIya tradition (some of them have readings unique to the kaTha
-tradition different from those found in the taittirIya brAhmaNa or
-saMhitA. While I have gathered all these distinct mantra-s due to the
-effort of keying in I will for now stick to pratIka-s):  
+The offerings are made in the shrauta context as puroDAshas on 8 kapAla-s or in the aupAsana fire as charu-s of rice or barley. The mantras used for the oblations are completely different from those of taittirIya tradition (some of them have readings unique to the kaTha tradition different from those found in the taittirIya brAhmaNa or saMhitA. While I have gathered all these distinct mantra-s due to the effort of keying in I will for now stick to pratIka-s):  
 1) kR^ittikA: agnir mUrdha divaH kakutpatiH…  
 2) rohiNi: hiraNyagarbha samvartatAgre…  
 3) mR^igashIrSha: maruto yaddha vo divaH…  
 4) Ardra: mR^iDa no rudro ta no mayas kR^idhi…  
-5) punarvasu: sutrAmANaM pR^ithivIM dyAM anehasaM susharmANaM aditiM
-supraNItiM \|…  
-6) tiShya: tava shriya vyajihIta parvato gavAM gotraM uda sR^ijo yad
-a\~NgiraH \|… (= RV 2.23.18)  
+5) punarvasu: sutrAmANaM pR^ithivIM dyAM anehasaM susharmANaM aditiM supraNItiM \|…  
+6) tiShya: tava shriya vyajihIta parvato gavAM gotraM uda sR^ijo yad a\~NgiraH \|… (= RV 2.23.18)  
 7) AlshleSha: namo astu sarpebhyo ye ke cha …  
 8) magha: Aham pitR^In suvidatrAn avitisi napAtaM …  
 9) purva phAlguni: sadA sugaH pitumAM astu pantha madhvA …  
 10) uttara phAlguni: ye te aryaman bahavo devayAnAH panthAno …  
 11) hasta: tat savitur vareNyaM bhargo devasya …  
-12) chitra: ya ime dyAvA pR^ithivI janitrI … (= tvaShTa mantra from
-bhArgava AprI)  
+12) chitra: ya ime dyAvA pR^ithivI janitrI … (= tvaShTa mantra from bhArgava AprI)  
 13) svAti: vayur agregA yaj\~naprIH sAkaM anmanasA ya\~jnaM …  
 14) vishAkhA: indrAgni rochanA divaH parij …  
 15) anurAdhA: mitro janan yAta yati bruvANo …  
@@ -68,13 +38,5 @@ bhArgava AprI)
 27) ashvinI: pra vAM daMsAMsyashvinAv avochamasya patiH …  
 28) bharaNI: yamo dAdhAra pR^ithivIM
 
-27 or the 28 nakShatra-s have the same deities as in the nakShatra homa
-of the taittirIyaka-s. The only exception being mR^igashIrSha which is
-presided by soma in the taittirIya tradition whereas the kaTha-s
-attribute it to the maruts. The kaTha-s rather than compose new mantra-s
-as in the taittirIya tradition instead resorted to culling mantras for
-the presiding deities from various preexisting collections. In most
-cases their choice is a proper, except in the case of ahirbudhnya,
-where, probably due to the lack of a proper mantra, the redactors were
-forced to chose one which just had the word ahi in it.
+27 or the 28 nakShatra-s have the same deities as in the nakShatra homa of the taittirIyaka-s. The only exception being mR^igashIrSha which is presided by soma in the taittirIya tradition whereas the kaTha-s attribute it to the maruts. The kaTha-s rather than compose new mantra-s as in the taittirIya tradition instead resorted to culling mantras for the presiding deities from various preexisting collections. In most cases their choice is a proper, except in the case of ahirbudhnya, where, probably due to the lack of a proper mantra, the redactors were forced to chose one which just had the word ahi in it.
 

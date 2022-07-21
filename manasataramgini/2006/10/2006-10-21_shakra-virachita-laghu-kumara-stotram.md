@@ -6,8 +6,7 @@ upstream_url = "https://manasataramgini.wordpress.com/2006/10/21/shakra-virachit
 +++
 Source: [here](https://manasataramgini.wordpress.com/2006/10/21/shakra-virachita-laghu-kumara-stotram/).
 
-laghu kumAra stotrasya shatakratuH R^iShiH \| anuShTup ChandaH \| skando
-devata \|\|  
+laghu kumAra stotrasya shatakratuH R^iShiH \| anuShTup ChandaH \| skando devata \|\|  
 OM hrAM \~NaM  
 deva-devaM namasyAmi kumAraM varamachyutaM \|  
 kArttikeyaM durArAdhyaM vahni-tejaH samudbhavaM \|\| 1 \|\|  

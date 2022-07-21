@@ -30,10 +30,7 @@ Then in SB 4.1.5.17 the tale of yet another bhArgava, dadhichi is mentioned in r
 
 This leads us to the those mysterious mantras of RV 10.170/171 which clears some of this up: The vikarNa sAman amongst the divAkIrtya-s is based on RV 10.170.1. This sUktaM is noteworthy in some other respects:
 
-1) It uses the word bhrAjaH which corresponds to the name of one of the divAkIrtya-s.
-2) Prominent words in this sUktaM like s \[vi\]bhrAT, bhrAjaH, jyotiH, divaH, ayuH, satya, dharman occur as \[or as parts of\] the magical stobhas of the divAkIrtya-s.
-3) This is one of those relatively few mantra-s to the sun \[sUrya\] in the RV.
-4) It has the word asura in a negative connotation– such a negative usage of asura is rare in the RV and occurs elsewhere in the context of sUrya and the eclipse (svarbhAnu is also called asura).
+1) It uses the word bhrAjaH which corresponds to the name of one of the divAkIrtya-s. 2) Prominent words in this sUktaM like s \[vi\]bhrAT, bhrAjaH, jyotiH, divaH, ayuH, satya, dharman occur as \[or as parts of\] the magical stobhas of the divAkIrtya-s. 3) This is one of those relatively few mantra-s to the sun \[sUrya\] in the RV. 4) It has the word asura in a negative connotation– such a negative usage of asura is rare in the RV and occurs elsewhere in the context of sUrya and the eclipse (svarbhAnu is also called asura).
 
 When we look more carefully at the second mantra some interesting elements come to light:
 

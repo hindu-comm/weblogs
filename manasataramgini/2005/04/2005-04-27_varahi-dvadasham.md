@@ -6,9 +6,7 @@ upstream_url = "https://manasataramgini.wordpress.com/2005/04/27/varahi-dvadasha
 +++
 Source: [here](https://manasataramgini.wordpress.com/2005/04/27/varahi-dvadasham/).
 
-vArahI dvAdashaM iti mantrasya shrI ashvAnanaH R^iShiH \| anuShTup
-ChandaH \| vArAhI devatA \| shrI vArahi devI prasAda siddhi dvAra sarva
-sa\~NkaTa haraNaM jape viniyogaH \|\|
+vArahI dvAdashaM iti mantrasya shrI ashvAnanaH R^iShiH \| anuShTup ChandaH \| vArAhI devatA \| shrI vArahi devI prasAda siddhi dvAra sarva sa\~NkaTa haraNaM jape viniyogaH \|\|
 
 pa\~nchamI danDanAthA cha sa\~Nketa samayeshvarI /  
 tathA samaya-sa\~NketA vArAhI potriNI shivA //  

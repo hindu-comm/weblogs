@@ -6,6 +6,5 @@ upstream_url = "https://manasataramgini.wordpress.com/2014/06/19/a-stotra-to-shi
 +++
 Source: [here](https://manasataramgini.wordpress.com/2014/06/19/a-stotra-to-shiva-and-vishnu-with-a-few-allusions-to-kumara-thrown-in/).
 
-The stotra is attributed to the R^iShi agastya and is embedded in the
-vAmana purANa:  
+The stotra is attributed to the R^iShi agastya and is embedded in the vAmana purANa:  
 [![shivaviShNu](https://manasataramgini.files.wordpress.com/2014/06/shivavishnu2.jpg?w=640)](https://manasataramgini.files.wordpress.com/2014/06/shivavishnu2.jpg)

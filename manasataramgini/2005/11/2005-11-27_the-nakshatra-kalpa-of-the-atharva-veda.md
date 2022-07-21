@@ -6,11 +6,7 @@ upstream_url = "https://manasataramgini.wordpress.com/2005/11/27/the-nakshatra-k
 +++
 Source: [here](https://manasataramgini.wordpress.com/2005/11/27/the-nakshatra-kalpa-of-the-atharva-veda/).
 
-The nakshatra kalpa of the Atharva veda that is considered the first
-parishishhTa of the AV adduces a R^ishi in addition to the tutelary
-deity to each nakshatra. These connections appears to have emerged much
-later than the devata-nakshtra connection, but may be of interest to
-investigate what these R^ishis meant. The list is:  
+The nakshatra kalpa of the Atharva veda that is considered the first parishishhTa of the AV adduces a R^ishi in addition to the tutelary deity to each nakshatra. These connections appears to have emerged much later than the devata-nakshtra connection, but may be of interest to investigate what these R^ishis meant. The list is:  
 asterism \|seer \|god  
 kR^ittika \|agnivesha \|agni  
 rohini \|anurohI \|prajapati  
@@ -41,11 +37,5 @@ revatI \|shA\~nkyAyana \| pUshA
 ashvayuja \|kAtyAyana \| ashvinau  
 bharanI \|R^ishi-patnya\| yama
 
-It must be noted that hasta (Corvus is called the hand of savitA) and
-the phrase devo vah savitA hiraNyapANi pratigR^ihnAtu is used often in
-the vedic literature. I wonder if this has a link with the position of
-Corvus in the East point position during the time these sacrificial
-rituals were initiated. As Narahari Achar points out the association of
-the constellation with the East point may have been of significance for
-sacrificial initiation.
+It must be noted that hasta (Corvus is called the hand of savitA) and the phrase devo vah savitA hiraNyapANi pratigR^ihnAtu is used often in the vedic literature. I wonder if this has a link with the position of Corvus in the East point position during the time these sacrificial rituals were initiated. As Narahari Achar points out the association of the constellation with the East point may have been of significance for sacrificial initiation.
 

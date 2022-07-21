@@ -6,10 +6,7 @@ upstream_url = "https://manasataramgini.wordpress.com/2011/07/06/some-notes-on-t
 +++
 Source: [here](https://manasataramgini.wordpress.com/2011/07/06/some-notes-on-the-goddess-sipe-gyalmo/).
 
-A translation of the tAntrika stotra to Sipe Gyalmo from the Tibetan
-tantra: Ma mo ‘dus pa’i yang snying gi rgyud issued by the Bön monastery
-at Ochghat, Himachal Pradesh. The translation, with some modifications,
-follows Kvaerne and shrI lokesha chandra:
+A translation of the tAntrika stotra to Sipe Gyalmo from the Tibetan tantra: Ma mo ‘dus pa’i yang snying gi rgyud issued by the Bön monastery at Ochghat, Himachal Pradesh. The translation, with some modifications, follows Kvaerne and shrI lokesha chandra:
 
 As for her three faces,  
 The face to the right is white and smiling,  
@@ -62,6 +59,5 @@ To which are attached stirrups made of skulls.
 The four hoofs of her mule  
 Are supported by the Four Great Kings of the Quarters.
 
-She is surrounded by a entourage of wangmo goddesses who correspond to
-the regents of the 27 nakShatra-s.
+She is surrounded by a entourage of wangmo goddesses who correspond to the regents of the 27 nakShatra-s.
 

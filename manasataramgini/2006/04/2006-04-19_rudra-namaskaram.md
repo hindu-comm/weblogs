@@ -6,8 +6,7 @@ upstream_url = "https://manasataramgini.wordpress.com/2006/04/19/rudra-namaskara
 +++
 Source: [here](https://manasataramgini.wordpress.com/2006/04/19/rudra-namaskaram/).
 
-Some of the kaTha-s record a praise of rudra when ever they see evidence
-for rudra in nature:  
+Some of the kaTha-s record a praise of rudra when ever they see evidence for rudra in nature:  
   
 daMShTrA-karAlaM divi nR^ityamAnaM hutAsha-vaktraM jvalanArka-rUpaM \|  
 sahasra-pAdAkShi-shirobhi yuktaM bhavantam-ekaM praNamAmi rudraM \|\|  

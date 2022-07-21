@@ -7,8 +7,7 @@ upstream_url = "https://manasataramgini.wordpress.com/2004/12/05/the-magic-formu
 Source: [here](https://manasataramgini.wordpress.com/2004/12/05/the-magic-formula-of-the-bhrigus/).
 
 pra suvAnaH soma R^itayush chiketendrAya brahMa jamadagnir archan /  
-vR^iShA yantA .asi shavasas turasyAntaryachCha gR^iNate dhartaM dR^igMha
-//
+vR^iShA yantA .asi shavasas turasyAntaryachCha gR^iNate dhartaM dR^igMha //
 
 soma, endowed with the R^ita becomes visible when extracted,  
 jamadagni chants the hymn to indra;  

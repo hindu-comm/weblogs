@@ -6,32 +6,23 @@ upstream_url = "https://manasataramgini.wordpress.com/2017/06/05/the-two-squares
 +++
 Source: [here](https://manasataramgini.wordpress.com/2017/06/05/the-two-squares-theorem/).
 
-I do not know who might have discovered this simple relationship first.
-I stumbled upon it while drawing figures in the notebook during a
-seminar.
+I do not know who might have discovered this simple relationship first. I stumbled upon it while drawing figures in the notebook during a seminar.
 
-Take any two squares such that they are joined at one side and the two
-sides of the respective squares perpendicular to the junction side lie
-along the same straight line in opposite directions. Join their corners
-as below. Then irrespective of the size of the squares points A, B, C
-and D are collinear.
+Take any two squares such that they are joined at one side and the two sides of the respective squares perpendicular to the junction side lie along the same straight line in opposite directions. Join their corners as below. Then irrespective of the size of the squares points A, B, C and D are collinear.
 
 ![2_squares_theorem_proof](https://manasataramgini.files.wordpress.com/2017/06/2_squares_theorem_proof.jpg?w=640)
 
 Figure 1
 
-This can be easily proved as below by placing the origin of the x-y
-coordinate axis at the lower left corner of the left square. Let
+This can be easily proved as below by placing the origin of the x-y coordinate axis at the lower left corner of the left square. Let
 ![a](https://s0.wp.com/latex.php?latex=a&bg=ffffff&fg=333333&s=0&c=20201002)
 be the side of the left square and
 ![b](https://s0.wp.com/latex.php?latex=b&bg=ffffff&fg=333333&s=0&c=20201002)
 the side of the right square.
 
-![2_squares_theorem_proof](https://manasataramgini.files.wordpress.com/2017/06/2_squares_theorem_proof.png?w=640)Figure
-2
+![2_squares_theorem_proof](https://manasataramgini.files.wordpress.com/2017/06/2_squares_theorem_proof.png?w=640)Figure 2
 
--Then we can use the coordinates of the corners of the squares to obtain
-the equations of the 5 lines as shown in the figure.  
+-Then we can use the coordinates of the corners of the squares to obtain the equations of the 5 lines as shown in the figure.  
 -Solve
 ![y=x](https://s0.wp.com/latex.php?latex=y%3Dx&bg=ffffff&fg=333333&s=0&c=20201002)
 and
@@ -51,32 +42,23 @@ to obtained the coordinates of point C as
 -These points satisfy
 ![y=\\frac{b-a}{a+b}x+a](https://s0.wp.com/latex.php?latex=y%3D%5Cfrac%7Bb-a%7D%7Ba%2Bb%7Dx%2Ba&bg=ffffff&fg=333333&s=0&c=20201002).
 Hence, A, B, C, D are collinear.  
--The angle between two lines with slope ![m_1,
-m_2](https://s0.wp.com/latex.php?latex=m_1%2C+m_2&bg=ffffff&fg=333333&s=0&c=20201002)
-is,
+-The angle between two lines with slope ![m_1, m_2](https://s0.wp.com/latex.php?latex=m_1%2C+m_2&bg=ffffff&fg=333333&s=0&c=20201002) is,
 
-![\\theta=
-\\arctan\\left(\\dfrac{m_1-m_2}{1+m_1m_2}\\right)](https://s0.wp.com/latex.php?latex=%5Ctheta%3D+%5Carctan%5Cleft%28%5Cdfrac%7Bm_1-m_2%7D%7B1%2Bm_1m_2%7D%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002)
+![\\theta= \\arctan\\left(\\dfrac{m_1-m_2}{1+m_1m_2}\\right)](https://s0.wp.com/latex.php?latex=%5Ctheta%3D+%5Carctan%5Cleft%28%5Cdfrac%7Bm_1-m_2%7D%7B1%2Bm_1m_2%7D%5Cright%29&bg=ffffff&fg=333333&s=0&c=20201002)
 
-Thus, the two intersections shown in the figure are always at right
-angles because
+Thus, the two intersections shown in the figure are always at right angles because
 ![\\frac{\\pi}{2}=\\arctan(\\infty)](https://s0.wp.com/latex.php?latex=%5Cfrac%7B%5Cpi%7D%7B2%7D%3D%5Carctan%28%5Cinfty%29&bg=ffffff&fg=333333&s=0&c=20201002).  
--Hence, by the cyclic quadrilateral rule the top corners of the two
-squares on the junction sides define the diameter
+-Hence, by the cyclic quadrilateral rule the top corners of the two squares on the junction sides define the diameter
 ![d=a-b](https://s0.wp.com/latex.php?latex=d%3Da-b&bg=ffffff&fg=333333&s=0&c=20201002)
 of a circle on which points B and C lie.
 
-Now we see that the height (and width) of point B is the arithmetic mean
-of the sides of the two squares. But is there any significance to point
-C? From above it can be seen that the ratio of its coordinates is
+Now we see that the height (and width) of point B is the arithmetic mean of the sides of the two squares. But is there any significance to point C? From above it can be seen that the ratio of its coordinates is
 ![\\frac{a}{b}](https://s0.wp.com/latex.php?latex=%5Cfrac%7Ba%7D%7Bb%7D&bg=ffffff&fg=333333&s=0&c=20201002).
-As can be seen in the figure below it turns out that the coordinates of
-C are respectively ratio of the volume of two cuboids with sides
+As can be seen in the figure below it turns out that the coordinates of C are respectively ratio of the volume of two cuboids with sides
 ![(a,b,a+b)](https://s0.wp.com/latex.php?latex=%28a%2Cb%2Ca%2Bb%29&bg=ffffff&fg=333333&s=0&c=20201002)
 and
 ![(a,a,a+b)](https://s0.wp.com/latex.php?latex=%28a%2Ca%2Ca%2Bb%29&bg=ffffff&fg=333333&s=0&c=20201002)
-to the sum of the areas of the two squares. The ratio of the volumes of
-the cuboids is
+to the sum of the areas of the two squares. The ratio of the volumes of the cuboids is
 ![\\frac{a}{b}](https://s0.wp.com/latex.php?latex=%5Cfrac%7Ba%7D%7Bb%7D&bg=ffffff&fg=333333&s=0&c=20201002),
 i.e. ratio of the coordinates of C.
 

@@ -26,8 +26,7 @@ kuberabhairava where one learns mahālīlādevī’s teachings,
 śrīnāyaka, outside which the andhra-s flock to brothels,  
 aṭṭahāsa, wherein cerikā-s are possessed by bhūta-s,  
 ghorāndhakāra, from beneath which hiṅgulā prances,  
-And kilikilārava where saṃkarṣaṇa slew the ape of gargantuan
-proportions.
+And kilikilārava where saṃkarṣaṇa slew the ape of gargantuan proportions.
 
 He marched forth seize the ball and horseshoe of śaktigola;  
 He was bold in and ruthless in his advance like bhagadatta;  

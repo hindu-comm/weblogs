@@ -16,8 +16,5 @@ mohinIM sarvalokAnAM bIjAM shAmbhavIM trayIM \|
 sarvArtha sAdhinIM bAlAM tripurAM shAmbhavIM priyAM \|  
 abhIShTaphaladAM devIM vande tAM jagadIshvarIM \|\|
 
-aiM IM sauM sakalasurAsura sarva bhramarI sarva-saMkShobhiNI
-sarva-vidrAviNI sarva-kledinI sarva-manonmAdinI bhakta-trANa parAyaNI OM
-hrIM raktachAmUNDI kuru kuru AkarShaya OM hrIM kroM paramayoginI
-paramakalyANI pavitrI IshvarI svAhA \|\|
+aiM IM sauM sakalasurAsura sarva bhramarI sarva-saMkShobhiNI sarva-vidrAviNI sarva-kledinI sarva-manonmAdinI bhakta-trANa parAyaNI OM hrIM raktachAmUNDI kuru kuru AkarShaya OM hrIM kroM paramayoginI paramakalyANI pavitrI IshvarI svAhA \|\|
 

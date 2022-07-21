@@ -11,8 +11,5 @@ Source: [here](https://manasataramgini.wordpress.com/2010/01/15/namah-shivabhyam
 umAyAH pataye chaiva hiraNyapataye sadA  \|  
 hiraNyabAhave tubhyaM vR^iShA\~NkAya namo namaH \|\|
 
-The image is supposedly from very close to the time of reign of
-rAghavadeva who ousted the chIna-bhoTAdi from the land of himAlaya-s.
-There is one element of this image that only the true knowers of the
-deva-s can comprehend.
+The image is supposedly from very close to the time of reign of rAghavadeva who ousted the chIna-bhoTAdi from the land of himAlaya-s. There is one element of this image that only the true knowers of the deva-s can comprehend.
 

@@ -6,22 +6,7 @@ upstream_url = "https://manasataramgini.wordpress.com/2014/07/12/poem-on-subutai
 +++
 Source: [here](https://manasataramgini.wordpress.com/2014/07/12/poem-on-subutais-attack-on-qazvin/).
 
-The great Mongol Noyan Jebe upon receiving the news of the death of the
-Moslem Sultan Khwarizm Shah asked Chingiz Khan’s permission to extend
-their conquests westwards. At the head of 10,000 men he joined in the
-meantime with Sübütäi’s own force of 10,000 and advanced via Iraq, Iran
-and Azerbaijan. They received the surrender of the Kurds in Kurdistan,
-who swelled the Mongol ranks hoping to seek revenge against the Khwarizm
-Turks and obtain some plunder in the invasions that were to follow. Jebe
-and Sübütäi then smashed their way through the cities Raiy, Zanjan and
-Qazvin. The Mohammedan chronicler Mustawfī Qazvinī wrote a poem in his
-chronicle on Sübütäi’s assault on Qazvin in Iran on 7th October 1220 CE.
-Sübütäi stormed the fortifications after a short siege of 3 days and cut
-down the Moslem forces in a matter of few hours. Then the Mongols slew
-several descendants of Mohammed the founder of Islam and burned the big
-Masjid in that city. The Mohammedans thought it was the end of Islam
-before the forces of heathenism. We append below the translation
-provided by Lane with some minor modifications:
+The great Mongol Noyan Jebe upon receiving the news of the death of the Moslem Sultan Khwarizm Shah asked Chingiz Khan’s permission to extend their conquests westwards. At the head of 10,000 men he joined in the meantime with Sübütäi’s own force of 10,000 and advanced via Iraq, Iran and Azerbaijan. They received the surrender of the Kurds in Kurdistan, who swelled the Mongol ranks hoping to seek revenge against the Khwarizm Turks and obtain some plunder in the invasions that were to follow. Jebe and Sübütäi then smashed their way through the cities Raiy, Zanjan and Qazvin. The Mohammedan chronicler Mustawfī Qazvinī wrote a poem in his chronicle on Sübütäi’s assault on Qazvin in Iran on 7th October 1220 CE. Sübütäi stormed the fortifications after a short siege of 3 days and cut down the Moslem forces in a matter of few hours. Then the Mongols slew several descendants of Mohammed the founder of Islam and burned the big Masjid in that city. The Mohammedans thought it was the end of Islam before the forces of heathenism. We append below the translation provided by Lane with some minor modifications:
 
 From Zanjan to the town of Qazvin, Sübütäi  
 Like raging tiger came right speedily.  

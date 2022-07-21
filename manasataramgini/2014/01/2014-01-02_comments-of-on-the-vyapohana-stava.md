@@ -6,43 +6,16 @@ upstream_url = "https://manasataramgini.wordpress.com/2014/01/02/comments-of-on-
 +++
 Source: [here](https://manasataramgini.wordpress.com/2014/01/02/comments-of-on-the-vyapohana-stava/).
 
-The vyapohana stava is an important saiddhAntika purificatory
-incantation. It may be compared with other works composed by deshika-s
-of the Urdhvasrotas such as: 1) the vyomavApistava of the Kashmirian
-commentator bhaTTa rAmakANTha-II; 2) the shiva-pUjA-stava of
-j\~nAnashambhu, a scholar from the Tamil country who worked in Kashi; 3)
-the pa\~nchAvarNa-stava by the illustrious aghorashiva of the Tamil
-country; 4) the ananta-vijaya-maNDala-stava of rAjA bhojadeva paramAra.
-While those stava-s are of clearly human composition, the vyapohana
-presents itself as a scriptural text of divine origin only retold by
-human agents.
+The vyapohana stava is an important saiddhAntika purificatory incantation. It may be compared with other works composed by deshika-s of the Urdhvasrotas such as: 1) the vyomavApistava of the Kashmirian commentator bhaTTa rAmakANTha-II; 2) the shiva-pUjA-stava of j\~nAnashambhu, a scholar from the Tamil country who worked in Kashi; 3) the pa\~nchAvarNa-stava by the illustrious aghorashiva of the Tamil country; 4) the ananta-vijaya-maNDala-stava of rAjA bhojadeva paramAra. While those stava-s are of clearly human composition, the vyapohana presents itself as a scriptural text of divine origin only retold by human agents.
 
 sUta uvAcha  
 vyapohana stavaM vakShye sarva-siddhi-pradaM shubham  
 nandinash cha mukhAch-ChrutvA kumAreNa mahAtmanA \|\| 1  
 vyAsAya kathitaM tasmAd bahumAnena vai mayA
 
-The sUta said: I will now narrate the auspicious vyapohana-stava which
-confers all success. And having heard it from the mouth of nandin it was
-expounded by the great kumAra to vyAsa. From him indeed it was
-respectfully received by me \[the sUta\].
+The sUta said: I will now narrate the auspicious vyapohana-stava which confers all success. And having heard it from the mouth of nandin it was expounded by the great kumAra to vyAsa. From him indeed it was respectfully received by me \[the sUta\].
 
-\[The sUta here is transmitting information from vyAsa as is typical of
-purANa-s. However, as the post-vaidika shaiva tradition was expanding it
-gradually began absorbing the kaumAra tradition within it in large part
-in a subordinate position (However, in south India, especially the Tamil
-country, the kaumAra tradition while colored by the saiddhAntika shaiva
-tradition still retained much independence). In course of the absorption
-of the kaumAra-mata kumAra was often placed as a intermediary who
-transmitted the shaiva shAstra-s. In the early skanda-purANa, which is
-primarily a shaiva text, shiva mostly does not act by himself, rather
-using his agents to act on his behalf. In this kumAra is an agent of
-rudra who acts repeatedly on his behalf. The other notable agent of
-shiva is his famous gaNa nandin who is also often shown acting on his
-behalf. Importantly, he is also presented as a major transmitter of
-shaiva shAstra-s. Thus, kumAra and nandin, the major transmitters of
-shaiva lore, are here placed before vyAsa and the sUta stressing the
-point that this inheres from the core shaiva tradition.
+\[The sUta here is transmitting information from vyAsa as is typical of purANa-s. However, as the post-vaidika shaiva tradition was expanding it gradually began absorbing the kaumAra tradition within it in large part in a subordinate position (However, in south India, especially the Tamil country, the kaumAra tradition while colored by the saiddhAntika shaiva tradition still retained much independence). In course of the absorption of the kaumAra-mata kumAra was often placed as a intermediary who transmitted the shaiva shAstra-s. In the early skanda-purANa, which is primarily a shaiva text, shiva mostly does not act by himself, rather using his agents to act on his behalf. In this kumAra is an agent of rudra who acts repeatedly on his behalf. The other notable agent of shiva is his famous gaNa nandin who is also often shown acting on his behalf. Importantly, he is also presented as a major transmitter of shaiva shAstra-s. Thus, kumAra and nandin, the major transmitters of shaiva lore, are here placed before vyAsa and the sUta stressing the point that this inheres from the core shaiva tradition.
 
 sadAshivaH:  
 namaH shivAya shuddhAya nirmalAya yashasvine \|  
@@ -52,68 +25,19 @@ shuddha-sphaTika-saMkAshaH sarvAbharaNa-bhUShitaH \|\|
 sarvaj\~naH sarvagaH shAntaH sarvopari susaMsthitaH \|  
 padmAsanasthaH someshaH pApam Ashu vyapohatu \|\|
 
-\[Like several saiddhAntika shaiva AvaraNa stava-s, this one too begins
-with the worship of the innermost maNDala and proceeds outwards. The
-innermost deity here is sadAshiva with 5 heads, 10 arms and 15 eyes. As
-is typical of the saiddhAntika tradition, he is seated in padmAsana on
-top of all. A superb representation of such a sadAshiva from the Vanga
-country, as expounded in the saiddhAntika tantra-s, might be seen in the
-University Museum of U Penn. Despite the progressive establishment of
-many levels of rudra ectypes in shaiva tradition, passing through the
-early pAshupata-s, lakula-s, kAlAmukha-s and finally to the
-saiddhAntika-s, his organic link to the old vaidika rudra remains clear
-by the use of the ancient epithets bhava and sharva. Indeed, this is
-made clear by the deshika-s, j\~nAnashambhu and the great-great grandson
-of trilochanashiva, where they term the preferred form of sadAshiva
-worshiped by them as rudrasadAshiva. Tradition informs us that in this
-form he is visualized as holding the following in the ten hands: 1)
-trishUla (trident); 2) khatvA\~Nga (skull-topped brand); 3) shakti
+\[Like several saiddhAntika shaiva AvaraNa stava-s, this one too begins with the worship of the innermost maNDala and proceeds outwards. The innermost deity here is sadAshiva with 5 heads, 10 arms and 15 eyes. As is typical of the saiddhAntika tradition, he is seated in padmAsana on top of all. A superb representation of such a sadAshiva from the Vanga country, as expounded in the saiddhAntika tantra-s, might be seen in the University Museum of U Penn. Despite the progressive establishment of many levels of rudra ectypes in shaiva tradition, passing through the early pAshupata-s, lakula-s, kAlAmukha-s and finally to the saiddhAntika-s, his organic link to the old vaidika rudra remains clear by the use of the ancient epithets bhava and sharva. Indeed, this is made clear by the deshika-s, j\~nAnashambhu and the great-great grandson of trilochanashiva, where they term the preferred form of sadAshiva worshiped by them as rudrasadAshiva. Tradition informs us that in this form he is visualized as holding the following in the ten hands: 1) trishUla (trident); 2) khatvA\~Nga (skull-topped brand); 3) shakti
 (spear); 4) varada-mudra; 5) abhayamudra; 6) indIvara (lotus); 7) ahi
 (snake); 8) Damaru (dumbbell drum); 9) pomegranate; 10) akShasUtra
 (rosary). His praise here begins with the ancient pa\~nchAkSharI mantra,
-which also has its beginnings in the shatarudrIya of the yajurveda. The
-worship of each deity in this stava concludes with the verb vyapoh in
-imperative mood applied to pApa, meaning remove the sins of the
-worshiper\]
+which also has its beginnings in the shatarudrIya of the yajurveda. The worship of each deity in this stava concludes with the verb vyapoh in imperative mood applied to pApa, meaning remove the sins of the worshiper\]
 
 pa\~ncha-mUrtayaH:  
 IshAnaH puruShash-chaiva aghoraH sadya eva cha \|  
 vAmadevash cha bhagavAn pApam Ashu vyapohatu \|\|
 
-\[The pa\~nchabrahma-s or the five face mantra-s, as a group, come from
-the early layer of the shaiva tradition recorded in the late vaidika
-period and used by shaiva-s ever since. They are central to the
-pAshupata tradition practice and the five sections of the pAshupata
-sUtra-s have been identified with these mantra-s. They stand for the
-faces of sadAshiva or the rudra repesenting each of the five faces. The
-saiddhAntika tradition holds that their tantra-s were narrated by the
-upward face or the IshAna face, hence their appellation Urdhavasrotas.
-Keeping with this, we have the list here begin with IshAna and then go
-around east-south-west-north. This is an interesting departure from the
-common brahmabha\~Ngi sequence of the saiddhAntika texts (e.g parAkhya
-tantra) of ishAna-tatpuruSha-aghora-vAmadeva-sadyojAta or its reverse
-seen in the veda and tantra-s like kiraNa and mR^igendra. In the
-saiddhAntika tradition these five faces are shown as IshAna (quartz ),
-sadyojAta (conch-white), vAmdeva (red), aghora (black), and tatpuruSha
+\[The pa\~nchabrahma-s or the five face mantra-s, as a group, come from the early layer of the shaiva tradition recorded in the late vaidika period and used by shaiva-s ever since. They are central to the pAshupata tradition practice and the five sections of the pAshupata sUtra-s have been identified with these mantra-s. They stand for the faces of sadAshiva or the rudra repesenting each of the five faces. The saiddhAntika tradition holds that their tantra-s were narrated by the upward face or the IshAna face, hence their appellation Urdhavasrotas. Keeping with this, we have the list here begin with IshAna and then go around east-south-west-north. This is an interesting departure from the common brahmabha\~Ngi sequence of the saiddhAntika texts (e.g parAkhya tantra) of ishAna-tatpuruSha-aghora-vAmadeva-sadyojAta or its reverse seen in the veda and tantra-s like kiraNa and mR^igendra. In the saiddhAntika tradition these five faces are shown as IshAna (quartz ), sadyojAta (conch-white), vAmdeva (red), aghora (black), and tatpuruSha
 (yellow). If they are visualized as faces of sadAshiva then that of
-IshAna is shown as a boy, that of tatpuruSha as a young man, that of
-aghora as a fierce one with a prominent mustache, that of vAmadeva as a
-seductive woman, and that of sadyojAta as a great king. If they are
-visualized as separate rudra-s then several distinct prescriptions are
-given: In the mata\~NgapArameshvara tantra they are visualized with 4
-heads and 4 arms during mantra-practice. If idols are made then they
-have 4 heads and 8 arms with gems embedded in them. In the Chera
-country, the deshika ravi in his prayogama\~njarI recommends visualizing
-the 4 directional rudra-s thus – sadyojAta 4 heads, 4 arms; vAmadeva as
-a goddess with 4 heads and 4 hands; aghora with 4 heads with fangs and 8
-arms; tatpuruSha as yogin with 1 head and 4 arms; Ishana just like
-sadAshiva with 5 heads and 10 arms. In the bhairava-srotas (svachChanda
-tantra) they are all visualized with 5 heads and 10 arms around
-svachChanda-bhairava with 5 heads and 18 hands. The manual from the
-Kashmira country by kShemarAja, student of abhinavagupta states that
-these rudra-s should be depicted as holding varada, abhaya, a sword,
-shield, a lasso, a hook, arrows, a pinAka bow,a severed head and the
-khaTvA\~Nga.\]
+IshAna is shown as a boy, that of tatpuruSha as a young man, that of aghora as a fierce one with a prominent mustache, that of vAmadeva as a seductive woman, and that of sadyojAta as a great king. If they are visualized as separate rudra-s then several distinct prescriptions are given: In the mata\~NgapArameshvara tantra they are visualized with 4 heads and 4 arms during mantra-practice. If idols are made then they have 4 heads and 8 arms with gems embedded in them. In the Chera country, the deshika ravi in his prayogama\~njarI recommends visualizing the 4 directional rudra-s thus – sadyojAta 4 heads, 4 arms; vAmadeva as a goddess with 4 heads and 4 hands; aghora with 4 heads with fangs and 8 arms; tatpuruSha as yogin with 1 head and 4 arms; Ishana just like sadAshiva with 5 heads and 10 arms. In the bhairava-srotas (svachChanda tantra) they are all visualized with 5 heads and 10 arms around svachChanda-bhairava with 5 heads and 18 hands. The manual from the Kashmira country by kShemarAja, student of abhinavagupta states that these rudra-s should be depicted as holding varada, abhaya, a sword, shield, a lasso, a hook, arrows, a pinAka bow,a severed head and the khaTvA\~Nga.\]
 
 vidyeshvarAH:  
 anantaH sarva-vidyeshaH sarvaj\~naH sarvadaH prabhuH \|  
@@ -133,23 +57,9 @@ shivArchana-rataH shrImAn sa me pApaM vyapohatu \|\|
 \[shikhaNDI shUla-dR^ik dhImAn shaktIsho gaNapUjitaH \|  
 shivArchanarataH shrImAn sa me pApaM vyapohatu \|\|\]
 
-\[The vidyeshvara-s are rudra-s who represent the apotheosis of the
-shaiva mantra-s. In a sense this directly represents a key feature of
-the tAntrika mantra-mArga inherited from a stream of the mImAMsa
-tradition where there and no extra-natural deities. Rather, the deities
-are the mantra-s themselves. Hence, these vidyA-s have been deified as 8
-distinct deities, the vidyeshvara-s, who are depicted thus: ananta
+\[The vidyeshvara-s are rudra-s who represent the apotheosis of the shaiva mantra-s. In a sense this directly represents a key feature of the tAntrika mantra-mArga inherited from a stream of the mImAMsa tradition where there and no extra-natural deities. Rather, the deities are the mantra-s themselves. Hence, these vidyA-s have been deified as 8 distinct deities, the vidyeshvara-s, who are depicted thus: ananta
 (golden); sUkShma (fiery); shivottama (black); ekanetra (bee-colored);
-ekarudra (white); trimUrti (grey); shrIkaNTha (red); shikhaNDin (light
-pink). In this system they occupy the circuit of the maNDala around the
-pa\~nchabrahma-s in the 8 cardinal directions. The vidyeshvara-s are
-depicted as 2 armed, 8 armed or 10 armed. The saiddhAntika manual from
-Nepal pratiShTha-lakShaNa-sAra-samuchchaya states that the 8 armed
-vidyesha-s are shown with 4 heads and if two armed they grip a spear and
-a trident in the crooks of their elbows. The commonly preserved readings
-appear to drop the names in brackets of ekarudra and shikhaNDin probably
-because of the unfamiliarity of the later paurANika transmitters with
-the intricacies of saiddhAntika tradition.\]
+ekarudra (white); trimUrti (grey); shrIkaNTha (red); shikhaNDin (light pink). In this system they occupy the circuit of the maNDala around the pa\~nchabrahma-s in the 8 cardinal directions. The vidyeshvara-s are depicted as 2 armed, 8 armed or 10 armed. The saiddhAntika manual from Nepal pratiShTha-lakShaNa-sAra-samuchchaya states that the 8 armed vidyesha-s are shown with 4 heads and if two armed they grip a spear and a trident in the crooks of their elbows. The commonly preserved readings appear to drop the names in brackets of ekarudra and shikhaNDin probably because of the unfamiliarity of the later paurANika transmitters with the intricacies of saiddhAntika tradition.\]
 
 mahAdevI:
 
@@ -177,23 +87,7 @@ bhaktA-nAmArtihA bhavyA bhava-bhAva-vinAshanI \|\| 23
 bhukti-mukti-pradA divyA bhaktAnAm-aprayatnataH  
 sA me sAkShAn-mahAdevI pApam Ashu vyapohatu \|\| 24
 
-\[It seems that in the iconography of the earlier saiddhAntika tantra-s
-sadAshiva was an ekavIra depicted without the accompanying shakti. But
-in the pa\~nchAvarNa stava of aghorashiva we find the shakti very much
-in place. However, her visualization is not described there as it seem
-the unity of the shakti with sadAshiva is emphasized this way.
-Interestingly, in this stava she receives a longer praise than
-sadAshiva. This, points to the parallel saiddhAntika stream where she
-played a major role, reminiscent of what was seen in the development of
-the bhairava- and vAma- srotAMsi. She is praised with her usual epithets
-from paurANika legend and also described as the mother of the four fold
-kumAra-s starting with naigameya. This rather archaic feature is
-reiterated in this text (see below). Moreover, she is also described as
-the mother of nandin, gaNesha and the deva-s. She is identified with
-prakR^iti and its 23 evolutes as described in the sAMkhya tradition.
-This is in opposition to the saiddhAntika situation where 36 tattva-s
-are believed to exist. Thus, this seems to represent a paurANika
-“smArtization” of the saiddhAntika shaiva position.\]
+\[It seems that in the iconography of the earlier saiddhAntika tantra-s sadAshiva was an ekavIra depicted without the accompanying shakti. But in the pa\~nchAvarNa stava of aghorashiva we find the shakti very much in place. However, her visualization is not described there as it seem the unity of the shakti with sadAshiva is emphasized this way. Interestingly, in this stava she receives a longer praise than sadAshiva. This, points to the parallel saiddhAntika stream where she played a major role, reminiscent of what was seen in the development of the bhairava- and vAma- srotAMsi. She is praised with her usual epithets from paurANika legend and also described as the mother of the four fold kumAra-s starting with naigameya. This rather archaic feature is reiterated in this text (see below). Moreover, she is also described as the mother of nandin, gaNesha and the deva-s. She is identified with prakR^iti and its 23 evolutes as described in the sAMkhya tradition. This is in opposition to the saiddhAntika situation where 36 tattva-s are believed to exist. Thus, this seems to represent a paurANika “smArtization” of the saiddhAntika shaiva position.\]
 
 chaNDeshvaraH:  
 chaNDaH sarvagaNeshAno mukhAch-ChaMbhor-vinirgataH  

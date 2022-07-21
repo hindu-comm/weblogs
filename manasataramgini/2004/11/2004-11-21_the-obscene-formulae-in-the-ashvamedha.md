@@ -8,8 +8,7 @@ Source: [here](https://manasataramgini.wordpress.com/2004/11/21/the-obscene-form
 
 The male participants (the priests and the bard) say:  
 
-> ambe ambAly ambike na mA yabhati kashchana \| sa sastyashvakaH \| haye cha haye asau \|\|
->
+> ambe ambAly ambike na mA yabhati kashchana \| sa sastyashvakaH \| haye cha haye asau \|\| >
 > Ladies (ambA, ambAli and ambikA) no one seems to have sex with me. The bad horse is sleeping. That is the horse and you are the mare princess.
 
 The princess says the following anuShTubh (one of the dialogs ):  

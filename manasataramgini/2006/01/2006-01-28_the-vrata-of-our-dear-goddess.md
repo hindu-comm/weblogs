@@ -6,9 +6,7 @@ upstream_url = "https://manasataramgini.wordpress.com/2006/01/28/the-vrata-of-ou
 +++
 Source: [here](https://manasataramgini.wordpress.com/2006/01/28/the-vrata-of-our-dear-goddess/).
 
-We bow humbly to the 6th part of prakR^iti. On the 6th bright lunar day
-or for pediatric purposes on the 6th day after childbirth he performs
-the vrata to ShaShThI
+We bow humbly to the 6th part of prakR^iti. On the 6th bright lunar day or for pediatric purposes on the 6th day after childbirth he performs the vrata to ShaShThI
 
 dhyAnaM  
 suputradAM cha shubhadAM dayA-rUpAM jagat-prasU \|  
@@ -18,15 +16,7 @@ pavitra-rUpAM paramAM devasenAM parAM bhaje \|\|
 He does japa, homa and tarpaNa with the following ShaShThI mantra:  
 praNava+bhuvaneshvari+ShaShThI-devyai+agni priyA \|\|
 
-Thus meditating using the dhyAna, the worshipper should place a flower
-on ones own head. Then again meditating and muttering the above mUla
-mantra the votary offers pAdya, arghya and AchamanIya, and sandal-paste,
-flowers, incense, lamp waving, naivedyam of food, delightful bhojya
-roots and fruits with the pa\~NchopachAra formulae. The one should do
-japa of the mUla mantra. Finally one should utter the below stotra of
-kShatriya priyavrata connected with the kauthuma school of the sAmaveda
-and offer devote worship. Then one may ritually dismiss the deity asking
-her to be favorable, pleased and boon-giving.
+Thus meditating using the dhyAna, the worshipper should place a flower on ones own head. Then again meditating and muttering the above mUla mantra the votary offers pAdya, arghya and AchamanIya, and sandal-paste, flowers, incense, lamp waving, naivedyam of food, delightful bhojya roots and fruits with the pa\~NchopachAra formulae. The one should do japa of the mUla mantra. Finally one should utter the below stotra of kShatriya priyavrata connected with the kauthuma school of the sAmaveda and offer devote worship. Then one may ritually dismiss the deity asking her to be favorable, pleased and boon-giving.
 
 namo devyai mahAdevyai siddhyai shAntyai namo namaH \|  
 shubhAyai devasenAyai ShaShThyai devyai namo namaH \|  

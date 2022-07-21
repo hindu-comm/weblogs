@@ -6,20 +6,9 @@ upstream_url = "https://manasataramgini.wordpress.com/2007/08/15/bija-samputikar
 +++
 Source: [here](https://manasataramgini.wordpress.com/2007/08/15/bija-samputikaranas-of-the-kumara-vidya-and-related-mantras/).
 
-The great kaumAra tAntrika, [rAmAnuja
-deshika](http://manasataramgini.wordpress.com/2007/01/shri-ramnuja-deshika-one-of-last-great.html)
-collected several kaumAra vidyA-s into two compendiums the subrahmaNya
-kalpa (SK) and the kumAra-tantra sAra (KTS). These contains fragments of
-the older kaumAra mUla tantras that might be partly or entirely lost.
-These old mUla tantra-s include: 1) gauhAsphandA 2) analakAntha 3)
-viShachChadA 4) shaishava 5) mayUrashikhA 6) ramanodbhava 7) varadA 8)
-lIlotpatamAlikA. The main information in this regard comes from 2
-relatively good paper and pen transcripts prepared from the palm leaf
-originals of the SK and KTS in my possession.
+The great kaumAra tAntrika, [rAmAnuja deshika](http://manasataramgini.wordpress.com/2007/01/shri-ramnuja-deshika-one-of-last-great.html) collected several kaumAra vidyA-s into two compendiums the subrahmaNya kalpa (SK) and the kumAra-tantra sAra (KTS). These contains fragments of the older kaumAra mUla tantras that might be partly or entirely lost. These old mUla tantra-s include: 1) gauhAsphandA 2) analakAntha 3) viShachChadA 4) shaishava 5) mayUrashikhA 6) ramanodbhava 7) varadA 8) lIlotpatamAlikA. The main information in this regard comes from 2 relatively good paper and pen transcripts prepared from the palm leaf originals of the SK and KTS in my possession.
 
-One of the important elements from the great mayUrashikhA are the bIja
-sampuTikaraNa-s for the kumAra vidyA-s. The mantroddhAra-s are given for
-the following forms:  
+One of the important elements from the great mayUrashikhA are the bIja sampuTikaraNa-s for the kumAra vidyA-s. The mantroddhAra-s are given for the following forms:  
 aShTavarga dvitIyA yat skanda bIjam idaM paraM \|  
 ShaShThAnala samopetaM bindunAda samAyutaM \|  
 mUla-mantram idam j\~neyaM sarva kAmArtha siddhidaM\|\|  
@@ -58,18 +47,13 @@ OM seM tatpuruShAya namaH \| \[tatpuruShAya …\]
 OM sAM IshAna-mUrdhne namaH\| \[IshAna sarva …\]
 
 Then the ShaN-mUrti mantras:  
-OM suM subrahmaNyAya namaH \| OM kuM kumArAya namaH \| OM haM harasUnave
-namaH \| OM suM surAgrajAya namaH \| OM seM senApataye namaH \| OM suM
-sureshAya namaH \|\|
+OM suM subrahmaNyAya namaH \| OM kuM kumArAya namaH \| OM haM harasUnave namaH \| OM suM surAgrajAya namaH \| OM seM senApataye namaH \| OM suM sureshAya namaH \|\|
 
 Then the shaktyuta mUrti ShaDakSharI vidyA-s:  
-OM jagadbhuve namaH \| OM vachadbhuve namaH \| OM vishvabhuve namaH \|
-OM rudrabhuve namaH \| OM brahMabhuve namaH \| OM bhuvotbhuve namaH \|\|
+OM jagadbhuve namaH \| OM vachadbhuve namaH \| OM vishvabhuve namaH \| OM rudrabhuve namaH \| OM brahMabhuve namaH \| OM bhuvotbhuve namaH \|\|
 
 kaumAra vashIkaraNAdi vidyA:  
-OM shrIM hrIM klIM suM vaM yaM sarva-lokaM me vashamAnaya ShaNmukhAya
-mayUravAhanAya sarva-rAja bhaya vinAshAya sarva deva-senAdhipataye sarva
-shatrunAshAya sUM subrahmaNyAya namaH \|
+OM shrIM hrIM klIM suM vaM yaM sarva-lokaM me vashamAnaya ShaNmukhAya mayUravAhanAya sarva-rAja bhaya vinAshAya sarva deva-senAdhipataye sarva shatrunAshAya sUM subrahmaNyAya namaH \|
 
 homa mantra:  
 OM sharavanabhava hrIM svAhA \|\|

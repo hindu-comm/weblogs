@@ -7,8 +7,7 @@ upstream_url = "https://manasataramgini.wordpress.com/2007/01/21/on-the-samarang
 
 The vimAna has been noticed by many since the publication of the samarA\~NgaNa sUtradhAra (SS) of the great [rAja bhoja-deva paramAra](http://manasataramgini.wordpress.com/2005/12/raja-bhoja-glory-and-tragedy-of.html). The description is certainly obscure in parts (especially given the corrupt manuscripts), but what can be made sense of in the account definitely describes a flying machine. Many years ago when we had talked about this and both Mis-creant and dvipakSha-kesha expressed their skepticism that anything like this could have ever been really mentioned in the Hindu texts. After all, they chimed, there is enough reason to believe that the vaimAnika shAstra was a hoax of a text. While I was skeptic of the vaimAnika, I did know that bhoja-deva’s work was real and so also the mention of the vimAna in it. So, I took these two to the library of Samskrit texts where I had a special inner access and showed them the text. Now many years later while planning new scripts for nATaka-s we ended up talking of it again- of course starting with the famous topic: did Hindus have an airplane?
 
-## SS vimAna
-The SS 31 clearly mentions a ambara-chAri-vimAna in addition to several other mysterious yantras which apparently include “robots” like dvArapAla yantra, yodhA yantra and gaja-yantra. In describing the vimAna the SS states the following SS 31.95-98:
+## SS vimAna The SS 31 clearly mentions a ambara-chAri-vimAna in addition to several other mysterious yantras which apparently include “robots” like dvArapAla yantra, yodhA yantra and gaja-yantra. In describing the vimAna the SS states the following SS 31.95-98:
 
 > लघु-दारु-मयं महाविहङ्गं  
 > दृढ-सुश्लिष्ट-तनुं विधाय तस्य ।  
@@ -39,16 +38,13 @@ vyomno jhagityAbharaNa tvameti santatapta-garjad-rasa-rAja-shaktyA ||
 
 From the description its fairly clear, even factoring in the mention of rasa, that it is not a vimAna flying by mantra prayoga, but a real mechanical yantra.+++(5)+++ Amongst the scholars the learned VRR Dikshitar in his book on war in ancient India, and the great V. Raghavan in his essay on Hindu machines, are inclined to believe that vimAna was a real flying machine. But the other erudite scholar Vasudevasharan Agarwala who re-edited the SS with a new manuscript believes it is imaginary. While I fully admit that the description given by the king can hardly be used to make a vimAna today, one can glean some prominent features of it:  
 
-1) It was made of light wood- at least conceptually it was something light so as to fly.
-2) It had a mercury-containing device in its “belly” and fire and at the rear end. 
+1) It was made of light wood- at least conceptually it was something light so as to fly. 2) It had a mercury-containing device in its “belly” and fire and at the rear end. 
 3) Its body was well-welded (or firmly joined) and had two wings and resembled a large bird. 
 4) Repeatedly the king says it runs by the “power” of mercury, which is described as contained in four firm pots/vessels. These are heated by a slow fire from an iron heating vessel. “Powered by mercury it roars into the sky”.
 
-### Mercury engine
-Now the SS is fairly serious about this mercury power business+++(4)+++: Immediately after the vimAna, king bhoja mentions a yantra powered by heated mercury again, which is used for duShTa-gajochchATana (over-throwing of enemy elephants). It is supposed to create a roar like nR^isimha. The possibility of engine using mercury comes to mind – between the 1930-1950 there were experimental engine designs (The William Emmet engines) using Hg as the working fluid used in power plants. While they were more efficient than the steam turbines, cost and hazards of mercury put an end to the endeavors. It should be remarked that one of the early models of James Watt’s rotary engines also used Hg as a working fluid. However, the possibility of such devices powering flight is considered remote by engineers.
+### Mercury engine Now the SS is fairly serious about this mercury power business+++(4)+++: Immediately after the vimAna, king bhoja mentions a yantra powered by heated mercury again, which is used for duShTa-gajochchATana (over-throwing of enemy elephants). It is supposed to create a roar like nR^isimha. The possibility of engine using mercury comes to mind – between the 1930-1950 there were experimental engine designs (The William Emmet engines) using Hg as the working fluid used in power plants. While they were more efficient than the steam turbines, cost and hazards of mercury put an end to the endeavors. It should be remarked that one of the early models of James Watt’s rotary engines also used Hg as a working fluid. However, the possibility of such devices powering flight is considered remote by engineers.
 
-## Hero of Alexandria
-Having reached the end of this line of inquiry, we looked at comparative evidence from other texts and civilization. In the west the invention of the engine is normally attributed to a yavana sage Hero of Alexandria who composed on mechanics around 50-100 CE. One of his devices is the aeoli-pile, which literally means the door of wind (Aeolus and his 11 sons the Aeolii being wind deities). 
+## Hero of Alexandria Having reached the end of this line of inquiry, we looked at comparative evidence from other texts and civilization. In the west the invention of the engine is normally attributed to a yavana sage Hero of Alexandria who composed on mechanics around 50-100 CE. One of his devices is the aeoli-pile, which literally means the door of wind (Aeolus and his 11 sons the Aeolii being wind deities). 
 
 Interestingly, many of the machines of Hero are parallel to that of bhoja’s yantra-s. His collections include water machines (Pneumatica), machines for creating wonders in temples like opening temple doors, statues that pour libations etc. (Automata), figures the move and perform drama (automata theater), directions for architects, including means of lifting heavy objects (Mechanica) and siege and war machines (Belopoeica). Likewise amongst bhoja-s yantra-s we have: 
 
@@ -63,8 +59,7 @@ These parallels are reminiscent of such other similarities between the Greek and
 
 Another point to note in this context is the parallel between Hero’s formula for the area of a triangle and brahmagupta’s generalization for the the cyclic quadrilateral. Thus, irrespective of their place of origin, we may surmise that ideas for mechanical devices, along with many other scientific, pagan religious, cultural and mathematical ideas, were very much a part of the shared ancient thought system that encompassed bhArata and Greece. Given the aeolipile, it is not impossible that Hindu-s devised some version of an engine (perhaps rotary) with Hg as the working fluid (the howls of the skeptics and the toxicity of mercury notwithstanding). While I am personally skeptical about how such a device might have powered flight, we should at least credit bhoja with a rather prescient bit of thinking: using an engine to power an aircraft.+++(5)+++
 
-## Planetary model
-Finally, one yantra mentioned by king bhoja caught my attention — the sUryAdi-graha-gati-pradarshana-paraM gola-bhramaNaM.  
+## Planetary model Finally, one yantra mentioned by king bhoja caught my attention — the sUryAdi-graha-gati-pradarshana-paraM gola-bhramaNaM.  
 The king says (SS 31.61-62): 
 
 > गोलश् च सूचि-विहितः  

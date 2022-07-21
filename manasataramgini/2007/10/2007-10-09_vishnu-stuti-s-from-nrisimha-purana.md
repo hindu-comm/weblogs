@@ -10,12 +10,7 @@ Source: [here](https://manasataramgini.wordpress.com/2007/10/09/vishnu-stuti-s-f
 
 [![](https://i2.wp.com/bp1.blogger.com/_ZhvcTTaaD_4/RwxhMMEvi5I/AAAAAAAAAPU/XjcdNMSRT7o/s320/nArAyaNa.jpg)](http://bp1.blogger.com/_ZhvcTTaaD_4/RwxhMMEvi5I/AAAAAAAAAPU/XjcdNMSRT7o/s1600-h/nArAyaNa.jpg)
 
-The below stuti/ divya-nAma pArAyaNaM was recited by rudra to praise
-viShNu to incite him to slay hiraNyakashipu. A person who due to
-inability or lack of time cannot recite the viShNu-sahasranAma stotraM
-on a day of laukika worship of viShNu might recite this stotra instead.
-A person of the 4th varNa wanting a suitable stuti in deva bhASha for
-his devotions might sincerely recite this stuti.
+The below stuti/ divya-nAma pArAyaNaM was recited by rudra to praise viShNu to incite him to slay hiraNyakashipu. A person who due to inability or lack of time cannot recite the viShNu-sahasranAma stotraM on a day of laukika worship of viShNu might recite this stotra instead. A person of the 4th varNa wanting a suitable stuti in deva bhASha for his devotions might sincerely recite this stuti.
 
 \|\| mahAdeva virachita vAsudeva stuti \|\|  
 viShNur-jiShNur-vibhur-devo yaj\~nesho yaj\~napAlakaH \|  
@@ -55,11 +50,7 @@ namo devAtidevAya viShNave shAshvatAya cha \|\| 17
 
 anantAyAprameyAya namaste garuDadhvaja \|\|
 
-The deva-s composed the below stuti in the connection with the
-incarnation of viShNu as matsya. A person desiring victory over his foes
-may circle a sarvatobhadra maNDala five times, like the one built by
-emperor vikramAditya of the gupta-s at Deogarh, uttering the below
-stuti:
+The deva-s composed the below stuti in the connection with the incarnation of viShNu as matsya. A person desiring victory over his foes may circle a sarvatobhadra maNDala five times, like the one built by emperor vikramAditya of the gupta-s at Deogarh, uttering the below stuti:
 
 \|\| deva-virachita vijayArtha stuti \|\|  
 namaste devadevAya lokanAthAya shAr\~NgiNe \|  

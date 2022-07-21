@@ -6,27 +6,12 @@ upstream_url = "https://manasataramgini.wordpress.com/2017/07/22/means-and-conic
 +++
 Source: [here](https://manasataramgini.wordpress.com/2017/07/22/means-and-conics/).
 
-By the time one reaches high school one learns that: (i) there are four
-means that one might find some use of in life (I know there are more
-though they are hardly used) – the arithmetic mean which is most widely
-used; the geometric mean; the harmonic mean; root mean squared (RMS),
-which most people would have encountered while studying Maxwell’s
-brilliant derivation of the ideal gas velocities from theory. (ii) By
-then one also might have learned the geometric construction of the
-arithmetic mean and the geometric mean. The later is merely the midpoint
-of the length of two collinear segments and the latter arises from the
-famous geometric mean theorem. But fewer learn of or discover a simple
-geometric construction that gives all these four means (Figure 1).
+By the time one reaches high school one learns that: (i) there are four means that one might find some use of in life (I know there are more though they are hardly used) – the arithmetic mean which is most widely used; the geometric mean; the harmonic mean; root mean squared (RMS), which most people would have encountered while studying Maxwell’s brilliant derivation of the ideal gas velocities from theory. (ii) By then one also might have learned the geometric construction of the arithmetic mean and the geometric mean. The later is merely the midpoint of the length of two collinear segments and the latter arises from the famous geometric mean theorem. But fewer learn of or discover a simple geometric construction that gives all these four means (Figure 1).
 
 [![means_sized](https://manasataramgini.files.wordpress.com/2017/07/means_sized.png?w=640)](https://manasataramgini.files.wordpress.com/2017/07/means_sized.png)  
 Figure 1
 
-The arithmetic and geometric means are obvious in Figure 1. If one does
-some elementary calculations using parallel-lines, similarity of
-triangles and bhujā-koṭi-karṇa-nyāya one realizes why the other two
-lengths are respectively the harmonic mean and RMS. Moreover, it gives
-an immediate proof of the famous statement one might have also studied
-in high-school:  
+The arithmetic and geometric means are obvious in Figure 1. If one does some elementary calculations using parallel-lines, similarity of triangles and bhujā-koṭi-karṇa-nyāya one realizes why the other two lengths are respectively the harmonic mean and RMS. Moreover, it gives an immediate proof of the famous statement one might have also studied in high-school:  
 ![HM \\le GM \\le AM \\le RMS
 ](https://s0.wp.com/latex.php?latex=HM+%5Cle+GM+%5Cle+AM+%5Cle+RMS+&bg=ffffff&fg=333333&s=0&c=20201002)latex  
 One also then sees that:  
@@ -48,23 +33,13 @@ varies as point B moves along the horizontal line.
 as shown in Figure 1.  
 3) Draw a perpendicular at point B to
 ![\\overleftrightarrow{AB}](https://s0.wp.com/latex.php?latex=%5Coverleftrightarrow%7BAB%7D&bg=ffffff&fg=333333&s=0&c=20201002).
-Mark off segments of length equal to the means as constructed in the
-above step (e.g. point F, I).
+Mark off segments of length equal to the means as constructed in the above step (e.g. point F, I).
 ![\\overline{BF}](https://s0.wp.com/latex.php?latex=%5Coverline%7BBF%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 is the segment corresponding to the harmonic mean and
 ![\\overline{BI}](https://s0.wp.com/latex.php?latex=%5Coverline%7BBI%7D&bg=ffffff&fg=333333&s=0&c=20201002)
 is that corresponding to the RMS.  
 4) Determine the locus of these points as point B moves.
 
-One notices that the HM and the RMS give two distinct hyperbolas (Figure
-2). The HM hyperbola has asymptotes ![y=2, \\;
-x=-1](https://s0.wp.com/latex.php?latex=y%3D2%2C+%5C%3B+x%3D-1&bg=ffffff&fg=333333&s=0&c=20201002).
-The RMS hyperbola has asymptotes ![y=-\\sqrt{2}x, \\;
-y=\\sqrt{2}x](https://s0.wp.com/latex.php?latex=y%3D-%5Csqrt%7B2%7Dx%2C+%5C%3B+y%3D%5Csqrt%7B2%7Dx&bg=ffffff&fg=333333&s=0&c=20201002).
-The arithmetic mean by the same construction specifies a straight line
-and the geometric mean specifies a parabola which corresponds to the
-[lost construction of
-Apollonius](https://manasataramgini.wordpress.com/2016/09/25/the-apollonian-parabola/).
-All four conics are tangent to each other a
+One notices that the HM and the RMS give two distinct hyperbolas (Figure 2). The HM hyperbola has asymptotes ![y=2, \\; x=-1](https://s0.wp.com/latex.php?latex=y%3D2%2C+%5C%3B+x%3D-1&bg=ffffff&fg=333333&s=0&c=20201002). The RMS hyperbola has asymptotes ![y=-\\sqrt{2}x, \\; y=\\sqrt{2}x](https://s0.wp.com/latex.php?latex=y%3D-%5Csqrt%7B2%7Dx%2C+%5C%3B+y%3D%5Csqrt%7B2%7Dx&bg=ffffff&fg=333333&s=0&c=20201002). The arithmetic mean by the same construction specifies a straight line and the geometric mean specifies a parabola which corresponds to the [lost construction of Apollonius](https://manasataramgini.wordpress.com/2016/09/25/the-apollonian-parabola/). All four conics are tangent to each other a
 ![(1,1)](https://s0.wp.com/latex.php?latex=%281%2C1%29&bg=ffffff&fg=333333&s=0&c=20201002)
 and illustrate how the four means diverge from each other.

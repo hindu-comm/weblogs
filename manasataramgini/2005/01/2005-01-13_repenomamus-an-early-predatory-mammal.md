@@ -14,14 +14,5 @@ Source: [here](https://manasataramgini.wordpress.com/2005/01/13/repenomamus-an-e
 
 [![](https://i2.wp.com/bp3.blogger.com/_ZhvcTTaaD_4/RnCeuE5tW5I/AAAAAAAAAKU/G6p9--fJvpI/s320/repenomamus2.jpg)](http://bp3.blogger.com/_ZhvcTTaaD_4/RnCeuE5tW5I/AAAAAAAAAKU/G6p9--fJvpI/s1600-h/repenomamus2.jpg)
 
-A fossil of the early branching mammal Repenomamus robustus and related
-species Repenomamus giganticus (may be even a larger version of the
-previous species) were recently described from fossil found in the
-Liaoning Province, China. R.robustus had a juvenile Psittacosaurus in
-its gut, suggesting it was one the earliest classical mammals of
-sufficiently large size to prey on other vertebrates. However, the
-mammals do not appear to have been major predators in the Mesozoic and
-Repenomamus may be more of an exception (?). However, the immediate
-ancestors of the mammals, Triassic pro-mammals were definitely larger
-active predators.
+A fossil of the early branching mammal Repenomamus robustus and related species Repenomamus giganticus (may be even a larger version of the previous species) were recently described from fossil found in the Liaoning Province, China. R.robustus had a juvenile Psittacosaurus in its gut, suggesting it was one the earliest classical mammals of sufficiently large size to prey on other vertebrates. However, the mammals do not appear to have been major predators in the Mesozoic and Repenomamus may be more of an exception (?). However, the immediate ancestors of the mammals, Triassic pro-mammals were definitely larger active predators.
 

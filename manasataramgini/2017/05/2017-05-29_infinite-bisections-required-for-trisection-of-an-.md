@@ -13,10 +13,6 @@ Figure 1: Self-evident demonstration of
 
 ![serial_trisection](https://manasataramgini.files.wordpress.com/2017/05/serial_trisection.png?w=640)
 
-Figure 2: Application of the same as serial bisections to trisect the
-angle. In the example chosen here we have ![\\theta=102^o; \\;
-\\frac{\\theta}{3}=34^o](https://s0.wp.com/latex.php?latex=%5Ctheta%3D102%5Eo%3B+%5C%3B+%5Cfrac%7B%5Ctheta%7D%7B3%7D%3D34%5Eo&bg=ffffff&fg=333333&s=0&c=20201002).
-In ten steps we get to
+Figure 2: Application of the same as serial bisections to trisect the angle. In the example chosen here we have ![\\theta=102^o; \\; \\frac{\\theta}{3}=34^o](https://s0.wp.com/latex.php?latex=%5Ctheta%3D102%5Eo%3B+%5C%3B+%5Cfrac%7B%5Ctheta%7D%7B3%7D%3D34%5Eo&bg=ffffff&fg=333333&s=0&c=20201002). In ten steps we get to
 ![33.97^o](https://s0.wp.com/latex.php?latex=33.97%5Eo&bg=ffffff&fg=333333&s=0&c=20201002)
-which is a pretty close, though in principle it shows that with a
-compass and straight-edge we would need infinite steps.
+which is a pretty close, though in principle it shows that with a compass and straight-edge we would need infinite steps.

@@ -8,8 +8,7 @@ Source: [here](https://manasataramgini.wordpress.com/2009/09/15/kumara-trishati/
 
 OM asya shrI kumAra trishatI mahAmantrasya  
 mArkaNDeya R^iShiH \| anuShTup ChandaH \| kumAra-ShaNmukho devatA \|  
-kumAra iti bIjaM \| shAkha iti shaktiH \| vishAkha iti kIlakaM \|
-nejameSha ityargalaM \|  
+kumAra iti bIjaM \| shAkha iti shaktiH \| vishAkha iti kIlakaM \| nejameSha ityargalaM \|  
 kArttikeya iti kavachaM \| ShaNmukha iti dhyAnaM \|
 
 dhyAyet ShaNmukham indu-koTi-sadR^ishaM ratnaprabhA-shobhitaM \|  

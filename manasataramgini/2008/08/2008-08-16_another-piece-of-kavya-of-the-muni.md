@@ -6,9 +6,7 @@ upstream_url = "https://manasataramgini.wordpress.com/2008/08/16/another-piece-o
 +++
 Source: [here](https://manasataramgini.wordpress.com/2008/08/16/another-piece-of-kavya-of-the-muni/).
 
-The muni and me, who are like one atmAn in two different sharIra-s;
-hence I took the liberty of posting another of his literary productions.
-Unfortunately the muni has neither used Itrans nor unicode.
+The muni and me, who are like one atmAn in two different sharIra-s; hence I took the liberty of posting another of his literary productions. Unfortunately the muni has neither used Itrans nor unicode.
 
 ***Asthapada and Kesin, being an ode to Rati and Manmatha***
 
@@ -31,8 +29,7 @@ Unfortunately the muni has neither used Itrans nor unicode.
 * not just by tors and tarns, sedges and swards, but even in the grey
 dust.*
 
-*And thus it was that he saw the hirsute Asthapada, in his grim, grey
-corner.*  
+*And thus it was that he saw the hirsute Asthapada, in his grim, grey corner.*  
 * In no hurry was he, nor any oppressive thoughts clouded his mind.*  
 *So, time was all his to talk and make merry with all creatures, big and
 small.*  
@@ -47,8 +44,7 @@ here?*
 * Besides, the delights of women this lair can’t give, for none pass by
 this lonely spot.”*
 
-*“Tell me Asthapada, are you a Sanyasin or what? Have you no need for
-food and love?*  
+*“Tell me Asthapada, are you a Sanyasin or what? Have you no need for food and love?*  
 * Come outside and look at the wide world — all buzzing with bees and
 wasps,*  
 *their sentries guarding the fortresses of madhu, the whirring flies,
@@ -99,8 +95,7 @@ our days*
 memories. *  
 * Sometimes fate plays tricks by placing people in such stations*
 
-*It would seem that Rati and Manmatha in highest heaven heard these
-words.*  
+*It would seem that Rati and Manmatha in highest heaven heard these words.*  
 * For, Manmatha, of floral bow, glancing at his doe-eyed consort said
 :*  
 *“Let’s have fun, Rati. Surely, Asthapada deserves better luck.
@@ -125,8 +120,7 @@ jutting out from his forehead.*
 * “How on earth did they get there? How did they seek him out here? ” he
 wondered*
 
-*But there was no time for wonder, for soon a most fierce duel broke
-out.*  
+*But there was no time for wonder, for soon a most fierce duel broke out.*  
 * Asthapada was the larger, and the fiercer is true,*  
 *But Sahasraksha was not to be left far behind, for he was deft and
 virulent.*  
@@ -136,8 +130,7 @@ virulent.*
 day and her hand.*  
 *Asthapada reeled and retreated to a farther corner.*
 
-*The whole silvery web seemed to throb as the mighty contestants
-clashed,*  
+*The whole silvery web seemed to throb as the mighty contestants clashed,*  
 * Just as Suyodhana and the son of Kunti, with their maces, in the days
 of yore.*  
 *Asthapada presently made another rush and speared Sahasraksha.*  
@@ -151,8 +144,7 @@ now.*
 vigorously,*  
 * like Anjaneya shredding a tree. Sahasraksha fell lifeless.*
 
-*His deflated corpse, sucked dry of all vitality was hurled away in
-disdain.*  
+*His deflated corpse, sucked dry of all vitality was hurled away in disdain.*  
 * His maiden having thus been won, the bard left the spot,*  
 *expecting him to celebrate his victory by throbbing in nuptial frenzy
 with Kesin,*  

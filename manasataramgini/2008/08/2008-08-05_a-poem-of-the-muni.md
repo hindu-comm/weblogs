@@ -6,9 +6,7 @@ upstream_url = "https://manasataramgini.wordpress.com/2008/08/05/a-poem-of-the-m
 +++
 Source: [here](https://manasataramgini.wordpress.com/2008/08/05/a-poem-of-the-muni/).
 
-That muni, enlightened in the lore, but leading the ways of a vrAtya
-composed this poem in the days of peace, when he beheld a coconut
-shedding bark in our ancestral dwelling.  
+That muni, enlightened in the lore, but leading the ways of a vrAtya composed this poem in the days of peace, when he beheld a coconut shedding bark in our ancestral dwelling.  
 ….  
 The Shedding of the Dead Wood
 

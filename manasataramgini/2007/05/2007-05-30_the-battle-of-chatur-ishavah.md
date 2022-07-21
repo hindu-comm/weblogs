@@ -6,9 +6,7 @@ upstream_url = "https://manasataramgini.wordpress.com/2007/05/30/the-battle-of-c
 +++
 Source: [here](https://manasataramgini.wordpress.com/2007/05/30/the-battle-of-chatur-ishavah/).
 
-Our powerful and vicious bhrAtR^ivya-s were bearing down on us in the
-battle of 4 arrows. But indra has conferred victory on us by sending his
-mAyA to cloud them and placing the vajra behind us!
+Our powerful and vicious bhrAtR^ivya-s were bearing down on us in the battle of 4 arrows. But indra has conferred victory on us by sending his mAyA to cloud them and placing the vajra behind us!
 
 You two heroes who trample the dasyu-s,  
 the wide-strider who is the plunderer of forts,  
@@ -27,9 +25,5 @@ with that aid us in the thick of battle.
 
 -+-+-
 
-We saw a remarkable sight- it was raining with thunders from great
-heights, but above the prAchya mayUkha the moon was shining brightly at
-the same time. This is the upAmshu graha of soma. We uttered the
-vauShaT-s and with that performed a soma yAga. indra and viShNu had
-drunk the heavenly soma.
+We saw a remarkable sight- it was raining with thunders from great heights, but above the prAchya mayUkha the moon was shining brightly at the same time. This is the upAmshu graha of soma. We uttered the vauShaT-s and with that performed a soma yAga. indra and viShNu had drunk the heavenly soma.
 

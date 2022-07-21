@@ -6,8 +6,6 @@ upstream_url = "https://manasataramgini.wordpress.com/2008/11/12/the-complete-in
 +++
 Source: [here](https://manasataramgini.wordpress.com/2008/11/12/the-complete-index/).
 
-[The complete
-index](https://manasataramgini.wordpress.com/the-complete-index/)
+[The complete index](https://manasataramgini.wordpress.com/the-complete-index/)
 
-Of course it should be kept in mind that my views have evolved on
-certain issues over the past several years.
+Of course it should be kept in mind that my views have evolved on certain issues over the past several years.

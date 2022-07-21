@@ -16,8 +16,7 @@ OM vaM vaM shaM raM NaM bhaM skandAya khe khe namaH \|
 OM raM vaM NaM bhaM vaM shaM skandAya khe khe namaH \|  
 OM NaM vaM bhaM vaM shaM raM skandAya khe khe namaH \|  
 OM NaM vaM bhaM shaM raM vaM skandAya khe khe namaH \|  
-OM bhaM vaM shaM raM NaM vaM skandAya khe khe namaH \|\|OM shrIM klIM
-hrIM aiM IM naM laM taM sauM sharavaNabhava \|\|
+OM bhaM vaM shaM raM NaM vaM skandAya khe khe namaH \|\|OM shrIM klIM hrIM aiM IM naM laM taM sauM sharavaNabhava \|\|
 
 [![](https://i0.wp.com/bp3.blogger.com/_ZhvcTTaaD_4/RsjH4fXcXgI/AAAAAAAAANU/GVO1EveItz0/s320/shaktyuta_mUrti_yantra.jpg)](http://bp3.blogger.com/_ZhvcTTaaD_4/RsjH4fXcXgI/AAAAAAAAANU/GVO1EveItz0/s1600-h/shaktyuta_mUrti_yantra.jpg)  
 shaktyuta mUrti yantra

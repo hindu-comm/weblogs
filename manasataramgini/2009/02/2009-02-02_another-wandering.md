@@ -7,8 +7,7 @@ upstream_url = "https://manasataramgini.wordpress.com/2009/02/02/another-wanderi
 Source: [here](https://manasataramgini.wordpress.com/2009/02/02/another-wandering/).
 
 We wandered on earth following the path of the heavenly stream,  
-Towards the cemetery of kilikilArava, above which rose the heavenly
-archer.  
+Towards the cemetery of kilikilArava, above which rose the heavenly archer.  
 There the cry of the ape dvividha in the dark was still reverberating,  
 Long after he had fallen to the club of the saMkarShaNa, his killer.
 

@@ -26,32 +26,20 @@ namo mantrAya chid-vyoma-vAsine paramAtmane \|\| 7*
 A citation by miThThu on the blue tiraskariNI:  
 *nIlaM hayaM samadhiruhya puraM prayAntI
 nIlAMshukAbharaNa-mAlya-vilepanADyA \|  
-nidrApaTena bhuvanAni tirodadhAnA khadgAyudhA bhagavatI paripAtu bhaktAn
-\|\|*  
-According to this Agama cited by miThThu tiraskarinI is a blue robed,
-blue ornamented goddess mounted on a blue horse with a sword in hand.
+nidrApaTena bhuvanAni tirodadhAnA khadgAyudhA bhagavatI paripAtu bhaktAn \|\|*  
+According to this Agama cited by miThThu tiraskarinI is a blue robed, blue ornamented goddess mounted on a blue horse with a sword in hand.
 
-As per the shrIkula tradition of the kAdi stream in the dakShiNAmnAya
-the mantra of tiraskariNI is given as:  
+As per the shrIkula tradition of the kAdi stream in the dakShiNAmnAya the mantra of tiraskariNI is given as:  
 *aiM hrIM shrIM aiM klIM sauH OM namo bhagavatyai tiraskariNyai mahAmAye
-mahAnidre sakala-pashu-jana-manash-chakShush-shrotra-tiraskaraNaM kuru
-kuru svAhA \|\|*  
-This invocation the deity matches with the description given by miThThu
-to his wife in the section on tiraskariNI in the haMsavilAsa. He also
-mentions aindrajAli (illusions) and mentions the visions emerging from
-mantra and drugs (auShadhi) in this context.
+mahAnidre sakala-pashu-jana-manash-chakShush-shrotra-tiraskaraNaM kuru kuru svAhA \|\|*  
+This invocation the deity matches with the description given by miThThu to his wife in the section on tiraskariNI in the haMsavilAsa. He also mentions aindrajAli (illusions) and mentions the visions emerging from mantra and drugs (auShadhi) in this context.
 
-Additionally, the shrIkula tradition also has two other mantra-s to a
-goddess related to tiraskariNI known as indrajAli, which are deployed in
-the dakShiNAmnAya.  
+Additionally, the shrIkula tradition also has two other mantra-s to a goddess related to tiraskariNI known as indrajAli, which are deployed in the dakShiNAmnAya.  
 The first is the mAyA indrajAli:  
 *OM hrIM OM namo namo bhagavatyai mahAmAyAyai manomaye jagatkShobhiNI
 vara-varade sarvajanaM mohaya mohaya IM hrIM svAhA \|\|*
 
 The second is amR^ita-indrajAli:  
 *vaM saM jhraM jhaM juM raM hrIM shrIM moM bhagavati chitravidye
-mahAmAye amR^iteshvarI ehyehi prasanna-vadane amR^itaM plAvaya analaM
-shItalaM kuru \| sarva-viShaM nAshaya \| jvaraM hana hana \| unmAdaM
-mochaya mochaya \| uShNaM shamaya shamaya \| sarvajanaM mohaya mohaya
-mAM pAlaya moM shrIM hrIM raM juM jhaM jhraM saM vaM svAhA \|\|*
+mahAmAye amR^iteshvarI ehyehi prasanna-vadane amR^itaM plAvaya analaM shItalaM kuru \| sarva-viShaM nAshaya \| jvaraM hana hana \| unmAdaM mochaya mochaya \| uShNaM shamaya shamaya \| sarvajanaM mohaya mohaya mAM pAlaya moM shrIM hrIM raM juM jhaM jhraM saM vaM svAhA \|\|*
 

@@ -6,142 +6,22 @@ upstream_url = "https://manasataramgini.wordpress.com/2021/08/29/matters-of-reli
 +++
 Source: [here](https://manasataramgini.wordpress.com/2021/08/29/matters-of-religion-the-lesson-by-the-lake/).
 
-Sharvamanyu was with his preceptors Somakhya on Lootika on the shore of
-a lake in the midst of the mountains on a full moon night. It was the
-cremation ground for a lineage of V_4s, who had historically specialized in the arts of preparing
-medico-recreational substances from Acacias but had risen to the status
-of warriors during the great Jihād-s of the monstrous Mogol tyrants.
-Some distance from where they sat, the shore was whitened by the bones
-of the generations of V_4s who taken the ladder to confront the glowing jaws of the fearsome
-Sārameyau en route to the realm of Vivasvān’s dark son. Now, those
-osseous remains gleamed like gold as the bowl of soma climbed over the
-lake to gladden the bands of Vasu-s, Āditya-s and Rudra-s with a
-pleasing draught. Mātariśvan, who is also known as Śambhu, drafted a
-pleasant breeze over the lake making waves lap the banks, even as the
-music of the sons of Rudra playing on the vāṇa-s sounded in the airy
-realm. Sharvamanyu sought the mysterious experience of yoga from his
-preceptors. He had been practicing a mantra for six months but had met
-with nothing but failure. The ensign of Soma climbing the celestial
-vault occulted the great mass of stars known as Tiṣyā, marking the day
-of the great bull-sacrifice of yore to Rudra. That conjunction is indeed
-a sign of the gods Somārudrā — the Taittirīya-śruti has declared: “rudro
-vai tiṣyaḥ \|”. Somakhya and Lootika had verily received a signal of The
-god in that regard. It is said that on that day the dānava Maya had
-built the Tripura-s, and it was on that day that Rudra had destroyed the
-triple-planets.
+Sharvamanyu was with his preceptors Somakhya on Lootika on the shore of a lake in the midst of the mountains on a full moon night. It was the cremation ground for a lineage of V_4s, who had historically specialized in the arts of preparing medico-recreational substances from Acacias but had risen to the status of warriors during the great Jihād-s of the monstrous Mogol tyrants. Some distance from where they sat, the shore was whitened by the bones of the generations of V_4s who taken the ladder to confront the glowing jaws of the fearsome Sārameyau en route to the realm of Vivasvān’s dark son. Now, those osseous remains gleamed like gold as the bowl of soma climbed over the lake to gladden the bands of Vasu-s, Āditya-s and Rudra-s with a pleasing draught. Mātariśvan, who is also known as Śambhu, drafted a pleasant breeze over the lake making waves lap the banks, even as the music of the sons of Rudra playing on the vāṇa-s sounded in the airy realm. Sharvamanyu sought the mysterious experience of yoga from his preceptors. He had been practicing a mantra for six months but had met with nothing but failure. The ensign of Soma climbing the celestial vault occulted the great mass of stars known as Tiṣyā, marking the day of the great bull-sacrifice of yore to Rudra. That conjunction is indeed a sign of the gods Somārudrā — the Taittirīya-śruti has declared: “rudro vai tiṣyaḥ \|”. Somakhya and Lootika had verily received a signal of The god in that regard. It is said that on that day the dānava Maya had built the Tripura-s, and it was on that day that Rudra had destroyed the triple-planets.
 
-They led Sharvamanyu to a small shrine of the awful Vināyaka by the
-cemetery with an archaic image of the god. An inscription from the
-Vikrama year 1532 stated that the image had been found in the lake by a
-Gāṇapatya siddha and installed in the shrine. The siddha was said to
-have joined the retinue of his chosen god as a phantom upon his death
-and was believed to manifest occasionally in those regions, especially to V_4 votaries who were uncorrupted by religious degeneration that had passed
-through the region thereafter. Somakhya and his wife asked Sharvamanyu
-to worship Vighna with a short stuti and by placing some of the flowers
-they had collected in course of their trek to the lake at the feet of
-the image. Sharvamanyu recalled one their teacher Shilpika had taught
-them:  
+They led Sharvamanyu to a small shrine of the awful Vināyaka by the cemetery with an archaic image of the god. An inscription from the Vikrama year 1532 stated that the image had been found in the lake by a Gāṇapatya siddha and installed in the shrine. The siddha was said to have joined the retinue of his chosen god as a phantom upon his death and was believed to manifest occasionally in those regions, especially to V_4 votaries who were uncorrupted by religious degeneration that had passed through the region thereafter. Somakhya and his wife asked Sharvamanyu to worship Vighna with a short stuti and by placing some of the flowers they had collected in course of their trek to the lake at the feet of the image. Sharvamanyu recalled one their teacher Shilpika had taught them:  
 namas te gajavatrāya namas te gaṇanāyaka \|  
 vināyaka namas te .astu namaste caṇḍavikrama \|\|  
-Obeisance to you, the elephant-faced, obeisance to you the lord of the
-hosts; obeisance be to you the Vināyaka; obeisance to you of fierce
-valor.
+Obeisance to you, the elephant-faced, obeisance to you the lord of the hosts; obeisance be to you the Vināyaka; obeisance to you of fierce valor.
 
 namo .astu te vighnakarte namas te sarpamekhala \|  
 namas te rudravaktrottha-pralamba-jaṭharāśrita \|\|  
-Obeisance be to you the creator of obstacles, obeisance to you with a
-snake-girdle; obeisance to you endowed with a pendant belly, who emerged
-from Rudra’s face.
+Obeisance be to you the creator of obstacles, obeisance to you with a snake-girdle; obeisance to you endowed with a pendant belly, who emerged from Rudra’s face.
 
-Then, they asked Sharvamanyu to do the kara- and aṅga-nyāsa-s
-appropriately and begin the japa of his mantra 324 times. As he was in
-the midst of that, Lootika pointed her siddha-kāṣṭha, whose tip bore the
-carving of the head of Garuḍa, at him. Suddenly, he had a vision of a
-huddled band of people wearing bone-ornaments singing songs in a strange
-language. He could catch many words, but it was not entirely
-intelligible to him — it was neither Sanskrit nor a modern Aprabhraṃśa.
-At climactic phrases in the lyrics, he felt overpowering emotions
-seizing him from deep within. From the midst of the band arose the ghost
-of a
-V_1
-named Kiñjalka. The phantom said: “Having performed great acts of valor,
-I was beset by a large band of well-armed enemies when my siddhi-s had
-declined. Hence, I had to do battle as an ordinary man though I was
-still powered by all the experience I had acquired from my assiduous
-practice from a young age. Thus, fighting my foes like the sūtaputra in
-his last fight, I was slain and passed into the retinue of Paśupati
-Deva.” Then, he saw the apparition of a beautiful woman. As she faded
-away from his vision, he felt all his strength had ebbed away, and he
-involuntarily fell to the ground. As he struggled to get up, he saw a
-dog repeatedly going to the cemetery and waiting for someone who had
-joined the Pitṛrāṭ. As the apparition of the dog rose up into the sky
-and merged with the constellation graced by the bright Procyon, he saw a
-cat descending from a pole and run towards a large bowl with a goldfish.
-It knocked down the bowl, and the fish jumped out to swim away into the
-great lake stretching before him clearing the prior apparitions. Then,
-despite the moon being there in the sky, all went pitch black — he felt
-he was in a subterranean cave with no lamp. That utter darkness remained
-for some time during which he lost track of everything except the mantra
-whose japa he was performing. He then saw his friend Vidrum being
-dragged away with a lasso around his neck by a buffalo. He wanted to
-shout out to his companions to aid his friend, but his voice deserted
-him. Now, to his utter horror, he saw Abhirosha’s corpse being eaten by
-a voracious dog and crows. Then, he saw himself being dragged the same
-way but now he felt an utter calm — death no longer seemed to cause him
-any concern at all and all his emotions were stilled.
+Then, they asked Sharvamanyu to do the kara- and aṅga-nyāsa-s appropriately and begin the japa of his mantra 324 times. As he was in the midst of that, Lootika pointed her siddha-kāṣṭha, whose tip bore the carving of the head of Garuḍa, at him. Suddenly, he had a vision of a huddled band of people wearing bone-ornaments singing songs in a strange language. He could catch many words, but it was not entirely intelligible to him — it was neither Sanskrit nor a modern Aprabhraṃśa. At climactic phrases in the lyrics, he felt overpowering emotions seizing him from deep within. From the midst of the band arose the ghost of a V_1 named Kiñjalka. The phantom said: “Having performed great acts of valor, I was beset by a large band of well-armed enemies when my siddhi-s had declined. Hence, I had to do battle as an ordinary man though I was still powered by all the experience I had acquired from my assiduous practice from a young age. Thus, fighting my foes like the sūtaputra in his last fight, I was slain and passed into the retinue of Paśupati Deva.” Then, he saw the apparition of a beautiful woman. As she faded away from his vision, he felt all his strength had ebbed away, and he involuntarily fell to the ground. As he struggled to get up, he saw a dog repeatedly going to the cemetery and waiting for someone who had joined the Pitṛrāṭ. As the apparition of the dog rose up into the sky and merged with the constellation graced by the bright Procyon, he saw a cat descending from a pole and run towards a large bowl with a goldfish. It knocked down the bowl, and the fish jumped out to swim away into the great lake stretching before him clearing the prior apparitions. Then, despite the moon being there in the sky, all went pitch black — he felt he was in a subterranean cave with no lamp. That utter darkness remained for some time during which he lost track of everything except the mantra whose japa he was performing. He then saw his friend Vidrum being dragged away with a lasso around his neck by a buffalo. He wanted to shout out to his companions to aid his friend, but his voice deserted him. Now, to his utter horror, he saw Abhirosha’s corpse being eaten by a voracious dog and crows. Then, he saw himself being dragged the same way but now he felt an utter calm — death no longer seemed to cause him any concern at all and all his emotions were stilled.
 
-Then, he saw a great procession of reptiles and other strange animals,
-of which he recognized only a few, but the rest still seemed vaguely
-familiar to him as he had seen Somakhya and Lootika draw them when they
-were in school. In that utter darkness, he saw a clear vision of the
-temple of Rudra in the cemetery with the liṅga blazing forth as though
-self-luminescent — he remembered his teachers telling of the term
-sadyojyotis — now he realized what that meant. He heard the mantra-s
-from the Taittirīya-śruti by which the liṅga is installed. Suddenly, the
-terrifying five-headed god after whom his parents had named him
-manifested from the liṅga. Each of the brahma-mantra-s from the upaniṣat
-of the Taittirīyaka-s, revealing the five-fold form of the god known as
-Mahādeva, sequentially manifested in his mind. The first was that of
-Sadyojāta with which he saw the face of Kumāra. The next was that of
-Vāmadeva with which he saw the perfect face of Manonmanī. Then the
-Aghora mantra manifested, and he saw the dreaded face of the Bhairava.
-After that came the Tatpuruṣa mantra, and he beheld an aquiline face
-with a solar orb, glowing like the eagle of the god Savitṛ. Finally,
-came the Iśāna mantra, and he saw that glorious face known as
-Rudra-sadāśiva. The apparition of Rudra was more real than any
-experience he had had. His mind involuntarily remarked over the japa:
-“He is known as Paśupati; he is Īśāna.”
+Then, he saw a great procession of reptiles and other strange animals, of which he recognized only a few, but the rest still seemed vaguely familiar to him as he had seen Somakhya and Lootika draw them when they were in school. In that utter darkness, he saw a clear vision of the temple of Rudra in the cemetery with the liṅga blazing forth as though self-luminescent — he remembered his teachers telling of the term sadyojyotis — now he realized what that meant. He heard the mantra-s from the Taittirīya-śruti by which the liṅga is installed. Suddenly, the terrifying five-headed god after whom his parents had named him manifested from the liṅga. Each of the brahma-mantra-s from the upaniṣat of the Taittirīyaka-s, revealing the five-fold form of the god known as Mahādeva, sequentially manifested in his mind. The first was that of Sadyojāta with which he saw the face of Kumāra. The next was that of Vāmadeva with which he saw the perfect face of Manonmanī. Then the Aghora mantra manifested, and he saw the dreaded face of the Bhairava. After that came the Tatpuruṣa mantra, and he beheld an aquiline face with a solar orb, glowing like the eagle of the god Savitṛ. Finally, came the Iśāna mantra, and he saw that glorious face known as Rudra-sadāśiva. The apparition of Rudra was more real than any experience he had had. His mind involuntarily remarked over the japa: “He is known as Paśupati; he is Īśāna.”
 
-Thereafter, he could discern the great bow of the god and the missile
-mentioned in the scriptures as the Pāśupata — the great arrow of
-Nīlarudra. He then saw the terrifying trident of the god with which he
-had impaled Andhaka in the vast White Forest; the cakra with which he
-had severed the head of Jalandhara who had even bound the Vaḍavānala;
-the Aghora-missile with which he had destroyed the triple-forts; the
-vajra praised in the śruti; the bhindipāla, the śataghni, the tomara,
-the prāsa and the terrifying sword with which had dealt death to
-numerous dānava-s as described in the national epic. He was accompanied
-by an awful troop of gaṇeśvara-s, the ape-faced Nandin, the skeletal
-Bhṛṅgin, the many-armed lion-headed Vīrabhadra who had beheaded Dakṣa
-and flayed the giant daitya Nala, the black Mahākāla, the Kṣetrapāla
-emitting a meteor that blazed through the firmament and Caṇḍeśa. He also
-saw Kīrtimukha, of the form of a standalone leonine head, and the
-Śiva-kṛtyā, who had emerged from the mouth of Rudra to snare the
-Bhārgava in her vulva, both inspiring a primal fear. He saw a great
-churn of rapidly moving Pramatha-s holding tridents, axes, and other
-weapons looking like smaller Rudra-s. Then he saw the Śiva-gaṇa-s with
-lion-, elephant-, horse-, donkey-, dolphin-, hog-, bovine-, goat- and
-ram- faces prancing along, brandishing various weapons. He also saw the
-axe-wielding Gaṇapa surrounded by a great host of ferocious, black
-elephant-headed Vināyaka-s. For a moment, the realization of the
-profound gaṇa-vidyā, illuminating the meaning of the multitude of gaṇa-s
-of Mahādeva flashed in him. He simultaneously saw the import of Rudra in
-the śruti and the śaiva-śāstra. At that point, he beheld the skull of
-Prajāpati held by Rudra. At once, he had the realization that he,
-together with the entire universe, was within that skull gracing the
-eight-fold god. He spontaneously uttered that Atharvan incantation of
-The god, manifesting both as himself and his son, believed to have been
-said by Prajāpati himself as he was decapitated by Rudra:  
+Thereafter, he could discern the great bow of the god and the missile mentioned in the scriptures as the Pāśupata — the great arrow of Nīlarudra. He then saw the terrifying trident of the god with which he had impaled Andhaka in the vast White Forest; the cakra with which he had severed the head of Jalandhara who had even bound the Vaḍavānala; the Aghora-missile with which he had destroyed the triple-forts; the vajra praised in the śruti; the bhindipāla, the śataghni, the tomara, the prāsa and the terrifying sword with which had dealt death to numerous dānava-s as described in the national epic. He was accompanied by an awful troop of gaṇeśvara-s, the ape-faced Nandin, the skeletal Bhṛṅgin, the many-armed lion-headed Vīrabhadra who had beheaded Dakṣa and flayed the giant daitya Nala, the black Mahākāla, the Kṣetrapāla emitting a meteor that blazed through the firmament and Caṇḍeśa. He also saw Kīrtimukha, of the form of a standalone leonine head, and the Śiva-kṛtyā, who had emerged from the mouth of Rudra to snare the Bhārgava in her vulva, both inspiring a primal fear. He saw a great churn of rapidly moving Pramatha-s holding tridents, axes, and other weapons looking like smaller Rudra-s. Then he saw the Śiva-gaṇa-s with lion-, elephant-, horse-, donkey-, dolphin-, hog-, bovine-, goat- and ram- faces prancing along, brandishing various weapons. He also saw the axe-wielding Gaṇapa surrounded by a great host of ferocious, black elephant-headed Vināyaka-s. For a moment, the realization of the profound gaṇa-vidyā, illuminating the meaning of the multitude of gaṇa-s of Mahādeva flashed in him. He simultaneously saw the import of Rudra in the śruti and the śaiva-śāstra. At that point, he beheld the skull of Prajāpati held by Rudra. At once, he had the realization that he, together with the entire universe, was within that skull gracing the eight-fold god. He spontaneously uttered that Atharvan incantation of The god, manifesting both as himself and his son, believed to have been said by Prajāpati himself as he was decapitated by Rudra:  
 
 kāpālin rudra babhro .atha bhava kairāta suvrata \|  
 pāhi viśvaṃ viśālākṣa kumāra varavikrama \|\|
@@ -152,254 +32,79 @@ namo viṣama-netrāya namas te tryambakāya ca \|
 namaḥ sahasra-netrāya namas te śūla-pāṇine \|  
 namaḥ khaṭvāṅga-hastāya namas te daṇḍa-dhāriṇe \|\|  
 
-Obeisance to the odd-eyed one and obeisance to you with the three
-goddesses. Obeisance to the thousand-eyed, obeisance to you with a
-trident in hand. Obeisance to the one with the skull-topped brand in
-hand, obeisance to you bearing the cudgel.
+Obeisance to the odd-eyed one and obeisance to you with the three goddesses. Obeisance to the thousand-eyed, obeisance to you with a trident in hand. Obeisance to the one with the skull-topped brand in hand, obeisance to you bearing the cudgel.
 
 tvaṃ deva hutabhug-jvālā-koṭi-bhānu-samaprabhaḥ \|  
 adarśane vayaṃ deva mūḍha-vijñānato .adhunā \|\|  
-You, o god, have the luster like that of the flames of the eater of
-oblations (Agni) and a crore suns. Before seeing you, o god, we were
-foolish; now we have been enlightened.
+You, o god, have the luster like that of the flames of the eater of oblations (Agni) and a crore suns. Before seeing you, o god, we were foolish; now we have been enlightened.
 
 namas trinetrārtiharāya śambho triśūlapāṇe vikṛtāsyarūpa \|  
 samasta-deveśvara śuddhabhāva prasīda rudrācyuta sarvabhāva \|\|  
-Obeisance to the three-eyed remover of troubles. O one, who is
-trident-handed, with a mouth of fierce form, the lord of all the gods,
-of pure nature, Rudra, the infallible and of all natures, be pleased.
+Obeisance to the three-eyed remover of troubles. O one, who is trident-handed, with a mouth of fierce form, the lord of all the gods, of pure nature, Rudra, the infallible and of all natures, be pleased.
 
 pūṣṇo .asya dantāntaka bhīmarūpa pralamba-bhogīndra-lulunta-kaṇṭha \|  
 viśāla-dehācyuta nīlakaṇṭha prasīda viśveśvara viśvamūrte \|\|  
-O destroyer of teeth of Pūṣan, one of terrible form, with the dangling
-lord of the snakes hanging from your neck, of gigantic body, infallible,
-the blue-throated one, the lord of the world, whose form is the world,
-be pleased.
+O destroyer of teeth of Pūṣan, one of terrible form, with the dangling lord of the snakes hanging from your neck, of gigantic body, infallible, the blue-throated one, the lord of the world, whose form is the world, be pleased.
 
 bhagākṣi-saṃsphoṭana dakṣa-karmā gṛhāṇa bhāgaṃ makhataḥ pradhānam \|  
 prasīda deveśvara nīlakaṇṭha prapāhi naḥ sarvaguṇopapanna \|\|  
-O one how blew up Bhaga’s eyes, of skilled actions, may you take the
-foremost offering of the ritual. O lord of the gods, the blue-throated
-one be pleased. Protect us, o one endowed with all qualities.
+O one how blew up Bhaga’s eyes, of skilled actions, may you take the foremost offering of the ritual. O lord of the gods, the blue-throated one be pleased. Protect us, o one endowed with all qualities.
 
 sitāṅga-rāgāpratipannamūrte kapāladhārims tripuraghna deva \|  
 prapāhi naḥ sarvabhayeṣu caivaṃ umāpate puṣkara-nāla-janma \|\|  
-O god of unattainable form smeared with white ashes, the skull-bearer,
-the slayer of the Tripura-s, the husband of Umā, and the one born from
-the lotus-stalk (as Agni or from Prajāpati) protect us from all fears.
+O god of unattainable form smeared with white ashes, the skull-bearer, the slayer of the Tripura-s, the husband of Umā, and the one born from the lotus-stalk (as Agni or from Prajāpati) protect us from all fears.
 
 paśyāmi te dehagatān sureśa sargādayo vedavarānananta \|  
 sāṅgān savidyān sapada-kramāṃś ca sarvān nilīnāṃs tvayi devadeva \|\|  
-O eternal lord of the gods, the root of all lineages of the universe, I
-see in your body the excellent Veda-s together with the Vedāṅga-s, the
-various branches of knowledge, and the Pada and Krama recitations of the
-Veda, everything is inside you, o god of the gods.
+O eternal lord of the gods, the root of all lineages of the universe, I see in your body the excellent Veda-s together with the Vedāṅga-s, the various branches of knowledge, and the Pada and Krama recitations of the Veda, everything is inside you, o god of the gods.
 
 bhava śarva mahādeva pinākin rudra te hara \|  
 natāḥ sma sarve viśveśa trāhi naḥ parameśvara \|\|  
-O Bhava, Śarva, Mahādeva, the yielder of the Pināka, Rudra, Hara. We all
-bow to you, o lord of the universe. Protect us, o foremost lord.
+O Bhava, Śarva, Mahādeva, the yielder of the Pināka, Rudra, Hara. We all bow to you, o lord of the universe. Protect us, o foremost lord.
 
-Thereafter, Sharvamanyu saw in place of Rudra, his consort, the great
-goddess Kālarātrī, surrounded by diverse yoginī-s filling the whole
-field of view up to the horizon with an eight-fold symmetry. At that
-sight, he spontaneously uttered the Kalarātrī-stuti:  
+Thereafter, Sharvamanyu saw in place of Rudra, his consort, the great goddess Kālarātrī, surrounded by diverse yoginī-s filling the whole field of view up to the horizon with an eight-fold symmetry. At that sight, he spontaneously uttered the Kalarātrī-stuti:  
 jayasva devi cāmuṇḍe jaya bhūtāpahāriṇi \|  
 jaya sarvagate devi kālarātre namo .astu te \|\|  
-Victory be to you the goddess Cāmuṇḍā; victory to you who snatches away
-all beings. Victory to the omnipresent goddess; obeisance to you, o
-Kālarātri
+Victory be to you the goddess Cāmuṇḍā; victory to you who snatches away all beings. Victory to the omnipresent goddess; obeisance to you, o Kālarātri
 
 viśvamūrte śubhe śuddhe virūpākṣi trilocane \|  
 bhīmarūpe śive vedye mahāmāye mahodaye \|\|  
-O world-formed one, the auspicious one, the pure one, the odd-eyed one,
-the three-eyed one, one of terrible form, benign one, one of the form of
-knowledge, one of great illusory powers, one of great preeminence.
+O world-formed one, the auspicious one, the pure one, the odd-eyed one, the three-eyed one, one of terrible form, benign one, one of the form of knowledge, one of great illusory powers, one of great preeminence.
 
 manojave jaye jṛmbhe bhīmākṣi kṣubhitakṣaye \|  
 mahāmāri vicitrāṅge jaya nṛtyapriye śubhe \|\|  
-Victory to you, o one of the speed of mind, the victorious one, the
-great blossoming, the terrible-eyed one, suppressoress of all agitation,
-the bringer of great disease, of marvelous body, lover of dance and the
-auspicious one.
+Victory to you, o one of the speed of mind, the victorious one, the great blossoming, the terrible-eyed one, suppressoress of all agitation, the bringer of great disease, of marvelous body, lover of dance and the auspicious one.
 
 vikarāli mahākāli kālike pāpahāriṇī \|  
 pāśahaste daṇḍahaste bhīmarūpe bhayānake \|\|  
-O fierce one, the great goddess of time, time, the remover of sins,
-wielder of a noose, with a rod in your hand, of terrible form, the
-fear-inspiring one.
+O fierce one, the great goddess of time, time, the remover of sins, wielder of a noose, with a rod in your hand, of terrible form, the fear-inspiring one.
 
 cāmuṇḍe jvalamānāsye tīkṣṇadaṃṣṭre mahābale \|  
 śata-yāna-sthite devi pretāsanagate śive \|\|  
-O Cāmuṇḍā, with a flaming mouth, with sharp fangs, you of great might,
-the goddess riding a hundred vehicles, seated on a corpse, the benign
-one.
+O Cāmuṇḍā, with a flaming mouth, with sharp fangs, you of great might, the goddess riding a hundred vehicles, seated on a corpse, the benign one.
 
 bhīmākṣi bhīṣaṇe devi sarvabhūtabhayaṅkari \|  
 karāle vikarāle ca mahākāle karālini \|  
 kālī karālī vikrāntā kālarātri namo .astu te \|\|  
-Obeisance be to you, o terrible-eyed one, frightful goddess, striking
-terror in all beings, terrifying one, formidable one, the great time
-goddess and the terrifying one. She is time, the terrible one, striding
-boldly and the night of dissolution.
+Obeisance be to you, o terrible-eyed one, frightful goddess, striking terror in all beings, terrifying one, formidable one, the great time goddess and the terrifying one. She is time, the terrible one, striding boldly and the night of dissolution.
 
-Sharvamanyu concluded his japa and rose, wanting to ask his companions
-about his visions, but they pressed their fingers to their lips,
-directing him to be quiet and continue the japa as they climbed one of
-the proximal hills on the rim of the lake. As they made their way up,
-they paused to take yet another look at the great occultation of Tiṣya
-nearing its conclusion. Reaching the top of the prominence, they arrived
-at the little shrine of Śiva. On the wall of the shrine was the relief
-of a siddhayoṣit Stṛkā performing liṅgārcana. Somakhya and Lootika
-offered some flowers there and performed a tarpaṇa to the feet of the
-said siddhayoṣit. They asked Sharvamanyu to do the same and remarked:
-“This siddhayoṣit, Stṛkā, impelled by Mahādeva arrived from the
-continent of Śvetadvīpa to become a student of the charismatic
-siddhayoṣit Indramaṇidevī of the śūdra-varṇa at Śūrpāraka. There having
-studied the Śambhu-para scriptures and observing the vrata of chastity,
-she acquired siddhi-s in various Māheśvara-mantra-s. Then, she performed
-mantra-sādhanā at the cemeteries of Kollagiri, Kilakilārava, where the
-yadu hero had slain the giant ape Dvividha, and Avimukta, where
-Kālabhairava had imparted the kāpālika rite to Kubera. She then settled
-here under the patronage of the lord Jayakeśin. Due to her siddhi-s in
-the Netra, Koṭarākṣa, Vyādibhakṣa and Aghoreśvarī vidyā-s, she lived a
-long life free of trouble teaching the Māheśvara-śāstra-s and
-experiencing the glories of Nīlarudra.”
+Sharvamanyu concluded his japa and rose, wanting to ask his companions about his visions, but they pressed their fingers to their lips, directing him to be quiet and continue the japa as they climbed one of the proximal hills on the rim of the lake. As they made their way up, they paused to take yet another look at the great occultation of Tiṣya nearing its conclusion. Reaching the top of the prominence, they arrived at the little shrine of Śiva. On the wall of the shrine was the relief of a siddhayoṣit Stṛkā performing liṅgārcana. Somakhya and Lootika offered some flowers there and performed a tarpaṇa to the feet of the said siddhayoṣit. They asked Sharvamanyu to do the same and remarked: “This siddhayoṣit, Stṛkā, impelled by Mahādeva arrived from the continent of Śvetadvīpa to become a student of the charismatic siddhayoṣit Indramaṇidevī of the śūdra-varṇa at Śūrpāraka. There having studied the Śambhu-para scriptures and observing the vrata of chastity, she acquired siddhi-s in various Māheśvara-mantra-s. Then, she performed mantra-sādhanā at the cemeteries of Kollagiri, Kilakilārava, where the yadu hero had slain the giant ape Dvividha, and Avimukta, where Kālabhairava had imparted the kāpālika rite to Kubera. She then settled here under the patronage of the lord Jayakeśin. Due to her siddhi-s in the Netra, Koṭarākṣa, Vyādibhakṣa and Aghoreśvarī vidyā-s, she lived a long life free of trouble teaching the Māheśvara-śāstra-s and experiencing the glories of Nīlarudra.”
 
-Then seating themselves on the platform around the shrine Somakhya and
-Lootika bade Sharvamanyu to ask them questions that he might have
-regarding his sādhanā. Sh: “The experience I had finally opened me to
-the possibility of what the lakṣya of the sādhāna might be. I had
-struggled for months failing with the dhyāna and, after that, with the
-avadhāna. But the sudden manifestation of a clear vision of the deva and
-his parivāra has cleared that issue in one stroke.”
+Then seating themselves on the platform around the shrine Somakhya and Lootika bade Sharvamanyu to ask them questions that he might have regarding his sādhanā. Sh: “The experience I had finally opened me to the possibility of what the lakṣya of the sādhāna might be. I had struggled for months failing with the dhyāna and, after that, with the avadhāna. But the sudden manifestation of a clear vision of the deva and his parivāra has cleared that issue in one stroke.”
 
-L: “Indeed, succeeding at dhyāna is an impediment for many. A small
-number of people are endowed with sahaja-dhyāna capacity — the same is
-true for the other steps in sādhanā. Such folks might wonder why others
-should even raise the matter. Let me be clear, devatā-dhyāna does not
-come automatically to the majority. However, it can be achieved by
-multiple means: (i) through the repeated study of mantra-siddhānta-s
-that give accounts of the devatā-s; (ii) through purāṇa readings; (iii)
-through study of properly prepared texts known as
-devatā-citra-saṃgraha-s; (iv) by visits to temples or attending temple
-festivals or cala-pujā-s to behold the icons of the deities; (v) by an
-experience induced by teachers or other interested mantravādin-s. We
-attempted that last option with you, and believe it should help you
-going forward.”
+L: “Indeed, succeeding at dhyāna is an impediment for many. A small number of people are endowed with sahaja-dhyāna capacity — the same is true for the other steps in sādhanā. Such folks might wonder why others should even raise the matter. Let me be clear, devatā-dhyāna does not come automatically to the majority. However, it can be achieved by multiple means: (i) through the repeated study of mantra-siddhānta-s that give accounts of the devatā-s; (ii) through purāṇa readings; (iii) through study of properly prepared texts known as devatā-citra-saṃgraha-s; (iv) by visits to temples or attending temple festivals or cala-pujā-s to behold the icons of the deities; (v) by an experience induced by teachers or other interested mantravādin-s. We attempted that last option with you, and believe it should help you going forward.”
 
-Sh: “Still, I wonder if ī might succeed at the avadhāna and if the
-siddhi might manifest at all? Pray tell me what are the rahasya-s of
-that?”  
-S: “Abhyāsa is the first and foremost step. As with physical exercise,
-for most people, the ability to perform something at a certain level
-does not come as sahaja. They have to use their will often with enormous
-force to get themselves to practice. At first, the going is hard, the
-fruits are limited, and there could even be negatives like pain. One has
-to calibrate the right level the body can take and slowly step up the
-gradient — you know this well in physical practice. Eventually, one
-starts seeing the benefits of it and liking the action. Unfortunately,
-the path to even a modicum of siddhi is littered with sādhaka-s who
-failed at this step. That is the reason many of our traditions emphasize
-physical yoga with āsana, prāṇāyāma, and the like. It gives you a
-tangible object of control — your own body. By observing how you
-succeeded in that control, you will develop a model that can be imitated
-at the mental level to acquire the control needed for avadhāna. Lootika,
-do you want to add something?”
+Sh: “Still, I wonder if ī might succeed at the avadhāna and if the siddhi might manifest at all? Pray tell me what are the rahasya-s of that?”  
+S: “Abhyāsa is the first and foremost step. As with physical exercise, for most people, the ability to perform something at a certain level does not come as sahaja. They have to use their will often with enormous force to get themselves to practice. At first, the going is hard, the fruits are limited, and there could even be negatives like pain. One has to calibrate the right level the body can take and slowly step up the gradient — you know this well in physical practice. Eventually, one starts seeing the benefits of it and liking the action. Unfortunately, the path to even a modicum of siddhi is littered with sādhaka-s who failed at this step. That is the reason many of our traditions emphasize physical yoga with āsana, prāṇāyāma, and the like. It gives you a tangible object of control — your own body. By observing how you succeeded in that control, you will develop a model that can be imitated at the mental level to acquire the control needed for avadhāna. Lootika, do you want to add something?”
 
-L: “Regarding siddhi, I would remark that svayaṃsiddha-s are rare. The
-siddhayoṣit, at whose shrine we are now seated, is a case in point.
-However, she became one due to two points that are often overlooked.
-First, she had sahaja capacity for abhyāsa — without that, she could not
-have become a svayaṃsiddha. Second, she was an example of a daivarakṣitā
-— otherwise, how could she have come safely from Śvetadvīpa to
-Jambudvīpa — she could have been captured and borne away by any number
-of men in the process. Then, she managed to perform kṣetrāṭana, reaching
-difficult śmaśāna-s to perform sādhanā. Hence, one has to be cognizant
-of one’s condition. The probability of being daivrakṣita is low; one
-cannot make that a default assumption; likewise with
-sahajābhāyasa-śakti. Hence, one has to gauge one’s capacity while not
-faltering at the abhyāsa and set the sādhya accordingly.”
+L: “Regarding siddhi, I would remark that svayaṃsiddha-s are rare. The siddhayoṣit, at whose shrine we are now seated, is a case in point. However, she became one due to two points that are often overlooked. First, she had sahaja capacity for abhyāsa — without that, she could not have become a svayaṃsiddha. Second, she was an example of a daivarakṣitā — otherwise, how could she have come safely from Śvetadvīpa to Jambudvīpa — she could have been captured and borne away by any number of men in the process. Then, she managed to perform kṣetrāṭana, reaching difficult śmaśāna-s to perform sādhanā. Hence, one has to be cognizant of one’s condition. The probability of being daivrakṣita is low; one cannot make that a default assumption; likewise with sahajābhāyasa-śakti. Hence, one has to gauge one’s capacity while not faltering at the abhyāsa and set the sādhya accordingly.”
 
-Sh: “Surely the apparition of the phantom of Kiñjalka and the dog that
-kept visiting the cemetery have a lesson here?”  
-L: “The case of said
-V_1
-gives an important lesson. A human is a finite being with a relatively
-small window of opportunity. A person usually begins life with no
-special endowments. Even a sahaja soul, while endowed with great
-potential, cannot make that manifest entirely without appropriate
-abhyāsa. Then he reaches a high point upon honing his sahaja capacity by
-abhyāsa at some point in his youth. After that, he plateaus. This is
-because he comes under two opposing forces, one of physical decline with
-age and the other of the growing wisdom and experience fueled by his
-constant sādhana. At some point, his physical decline overshoots his
-accruing wisdom and ability; thus, his downward slide begins. In some
-sādhaka-s, the fame of their sādhana attracts pupils from the ranks of
-others seeking glory. They seek para-saṃyogāt mahattvam, which in turn
-feeds into the sādhaka, for he is now possessed of an army of pupils. As
-we have told you before, vidyā is enhanced by the resonance with good
-antevāsin-s. Thus, he may rightly (due to wise counseling of his army)
-or wrongly (living off the deeds of his students) be buoyed up much
-longer than his true personal capacity. In the case of Kiñjalka, he was
-unable to get a troop of any size and had to live off his own capacity.
-Hence, when confronted by a bhrātṛvya with a larger force, he was killed
-with his own capacity limited by physical decline. Thus, the lesson is
-one may experience a plateau in the sādhanā, after which the decline and
-death follow. Thus, many sādhaka-s have come and gone, and nobody
-remembers them. Other things can happen. Either when human decline sets
-in, or when a sādhaka has had an experience like you had today, or when
-he witnessed the siddhi of his guru from close quarters, he might think
-that the siddhi is close by and will repeatedly try to grasp it.
-However, it would be as futile as the dog hoping day after day that its
-master who has taken the southern path would return from the cemetery.”
+Sh: “Surely the apparition of the phantom of Kiñjalka and the dog that kept visiting the cemetery have a lesson here?”  
+L: “The case of said V_1 gives an important lesson. A human is a finite being with a relatively small window of opportunity. A person usually begins life with no special endowments. Even a sahaja soul, while endowed with great potential, cannot make that manifest entirely without appropriate abhyāsa. Then he reaches a high point upon honing his sahaja capacity by abhyāsa at some point in his youth. After that, he plateaus. This is because he comes under two opposing forces, one of physical decline with age and the other of the growing wisdom and experience fueled by his constant sādhana. At some point, his physical decline overshoots his accruing wisdom and ability; thus, his downward slide begins. In some sādhaka-s, the fame of their sādhana attracts pupils from the ranks of others seeking glory. They seek para-saṃyogāt mahattvam, which in turn feeds into the sādhaka, for he is now possessed of an army of pupils. As we have told you before, vidyā is enhanced by the resonance with good antevāsin-s. Thus, he may rightly (due to wise counseling of his army) or wrongly (living off the deeds of his students) be buoyed up much longer than his true personal capacity. In the case of Kiñjalka, he was unable to get a troop of any size and had to live off his own capacity. Hence, when confronted by a bhrātṛvya with a larger force, he was killed with his own capacity limited by physical decline. Thus, the lesson is one may experience a plateau in the sādhanā, after which the decline and death follow. Thus, many sādhaka-s have come and gone, and nobody remembers them. Other things can happen. Either when human decline sets in, or when a sādhaka has had an experience like you had today, or when he witnessed the siddhi of his guru from close quarters, he might think that the siddhi is close by and will repeatedly try to grasp it. However, it would be as futile as the dog hoping day after day that its master who has taken the southern path would return from the cemetery.”
 
-Sh: “Somakhya, I note that you are in silent contemplation with almost a
-tinge of disapproval. Have I done something wrong?”  
-S: “You know me from so long back that you picked something just from my
-face that you felt was disapproval. It is not — it is just that I was
-mentally wanting to head off certain questions that I felt would ensue
-from you. As for the rest of the apparitions in your experience, spend
-some days contemplating them in silence, and you will get your answers.
-You may ask other questions, though.”  
-Sh: “I now realize that the path can be the climb up the slopes of
-Kailāsa — some go up to glimpse the god and return to the world of men,
-but others make an exit midway to join the retinue of the god as a
-phantom! But in everyday life, man continues with his toils if he sees
-at least a few positive results else, he gives up. How does one keep
-toiling in face of repeated failure, when one might be reaching for the
-unattainable like the dog at the cemetery? Moreover, [the tale of the
-wicks of Bhairavānanda](https://manasataramgini.wordpress.com/2021/07/17/bhairavanandas-wicks-a-retelling/),
-which Lootika had told us in school, comes to mind — would I end up with
-wheel on my head for my persistence?”
+Sh: “Somakhya, I note that you are in silent contemplation with almost a tinge of disapproval. Have I done something wrong?”  
+S: “You know me from so long back that you picked something just from my face that you felt was disapproval. It is not — it is just that I was mentally wanting to head off certain questions that I felt would ensue from you. As for the rest of the apparitions in your experience, spend some days contemplating them in silence, and you will get your answers. You may ask other questions, though.”  
+Sh: “I now realize that the path can be the climb up the slopes of Kailāsa — some go up to glimpse the god and return to the world of men, but others make an exit midway to join the retinue of the god as a phantom! But in everyday life, man continues with his toils if he sees at least a few positive results else, he gives up. How does one keep toiling in face of repeated failure, when one might be reaching for the unattainable like the dog at the cemetery? Moreover, [the tale of the wicks of Bhairavānanda](https://manasataramgini.wordpress.com/2021/07/17/bhairavanandas-wicks-a-retelling/), which Lootika had told us in school, comes to mind — would I end up with wheel on my head for my persistence?”
 
-S: “That is indeed the hardest part. You may have the great svayaṃsiddhi
-but not be daivarakṣita. Thus, your attainments could be modest.
-However, due to your svayaṃsiddhi you might have perfect jñāna of what
-it would be like to be mahāsiddha but still not be one in reality. If
-you have that jñāna, you may keep trying, though, in the end, your fate
-would be no different from that of the dog. It might be frustrating, but
-at least you would have only failed from being a daivahataka. But then
-take the case of our former classmate Hemaliṅga; he definitely had
-enormous mathematical capacity and smashed his way to a certain level.
-But he sought to reach the levels of the great gaṇitajña-s of all times
-that lay out of his reach. Attempting hard, like trying to leap onto a
-high ledge, he only hit the cliff-face and dropped down. However, that
-was not fatal; Vrishcika tells us that his abhyāsa at least [brought him
-comfort in
-life](https://manasataramgini.wordpress.com/2015/12/23/lutika-somakhyo%e1%b8%a5-pravada%e1%b8%a5/).
-Thus, the great failed attempt at mahāsiddhi often builds character and
-gives you a minor siddhi that might bring pleasure in life. However, we
-must warn you Sharva, that path to the highest siddhi-s is fraught with
-much danger even as the fourth wick of Bhairavānanda. You might see
-warnings as you are headed that way, which you must differentiate from
-benign failures. Indeed, Lootika and I have seen the ghost of more than
-one V_1, who persisted through those warnings and fell in such attempts, like the
-corpses of forgotten climbers on slopes of the Himavant. On the other
-side, if your sādhya has come in clear vision, keep toiling and change
-upāya-s upon repeatedly failing. Like in biology, so also here;
-remember, once one has entered the stream, one sinks when the toil
-ceases. So you have to do so just to stay afloat. The good teacher
-should tell those who cannot keep up to exit early.”  
-Lootika: “Now, let us resume our trek back to reach in time to catch the
-train back to the city.”
+S: “That is indeed the hardest part. You may have the great svayaṃsiddhi but not be daivarakṣita. Thus, your attainments could be modest. However, due to your svayaṃsiddhi you might have perfect jñāna of what it would be like to be mahāsiddha but still not be one in reality. If you have that jñāna, you may keep trying, though, in the end, your fate would be no different from that of the dog. It might be frustrating, but at least you would have only failed from being a daivahataka. But then take the case of our former classmate Hemaliṅga; he definitely had enormous mathematical capacity and smashed his way to a certain level. But he sought to reach the levels of the great gaṇitajña-s of all times that lay out of his reach. Attempting hard, like trying to leap onto a high ledge, he only hit the cliff-face and dropped down. However, that was not fatal; Vrishcika tells us that his abhyāsa at least [brought him comfort in life](https://manasataramgini.wordpress.com/2015/12/23/lutika-somakhyo%e1%b8%a5-pravada%e1%b8%a5/). Thus, the great failed attempt at mahāsiddhi often builds character and gives you a minor siddhi that might bring pleasure in life. However, we must warn you Sharva, that path to the highest siddhi-s is fraught with much danger even as the fourth wick of Bhairavānanda. You might see warnings as you are headed that way, which you must differentiate from benign failures. Indeed, Lootika and I have seen the ghost of more than one V_1, who persisted through those warnings and fell in such attempts, like the corpses of forgotten climbers on slopes of the Himavant. On the other side, if your sādhya has come in clear vision, keep toiling and change upāya-s upon repeatedly failing. Like in biology, so also here; remember, once one has entered the stream, one sinks when the toil ceases. So you have to do so just to stay afloat. The good teacher should tell those who cannot keep up to exit early.”  
+Lootika: “Now, let us resume our trek back to reach in time to catch the train back to the city.”

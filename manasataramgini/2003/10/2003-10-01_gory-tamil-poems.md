@@ -38,12 +38,9 @@ she gave him birth.
 
 nacceLLaiyAr kAkkaipADiniyAr vide Ramanujam
 
-Old tamil society was a heroic and gory one, full of cattle raids
-leading to skirmishes and full fledged battles. They were fought with
-spears, arrows and swords with no ritual show, but plain ferocity.
+Old tamil society was a heroic and gory one, full of cattle raids leading to skirmishes and full fledged battles. They were fought with spears, arrows and swords with no ritual show, but plain ferocity.
 
-Poetess auvaiyAr sings of the fall of her patron, a tamil war lord
-atiyamAn neDumAn a\~Nchi:  
+Poetess auvaiyAr sings of the fall of her patron, a tamil war lord atiyamAn neDumAn a\~Nchi:  
 “Pointing at the enemy  
 the tongues of lances,  
 new-forged and whetted,  
