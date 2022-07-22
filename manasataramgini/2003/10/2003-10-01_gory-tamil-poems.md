@@ -6,42 +6,43 @@ upstream_url = "https://manasataramgini.wordpress.com/2003/10/01/gory-tamil-poem
 +++
 Source: [here](https://manasataramgini.wordpress.com/2003/10/01/gory-tamil-poems/).
 
-The old woman’s shoulders  
+> The old woman’s shoulders  
 were dry, unfleshed,  
 with outstanding veins;  
 her low belly  
 was like a lily pad.
-
-When people said  
+>
+> When people said  
 her son had taken fright,  
 had turned his back on battle  
 and died,
-
-she raged  
+>
+> she raged  
 and shouted,  
 ” If he really broke down  
 in the thick of strife,  
 I’ll slash these breasts  
 that gave him suck,”
-
-and went there  
-sword in hand.
-
-Turning over body after fallen body,  
+>
+> and went there  
+> sword in hand.
+>
+> Turning over body after fallen body,  
 she rummaged through the blood-red field  
 till she found her son,  
 cut, in four pieces,
-
-and she rejoiced  
+>
+> and she rejoiced  
 more than on the day  
 she gave him birth.
-
-nacceLLaiyAr kAkkaipADiniyAr vide Ramanujam
+>
+> nacceLLaiyAr kAkkaipADiniyAr vide Ramanujam
 
 Old tamil society was a heroic and gory one, full of cattle raids leading to skirmishes and full fledged battles. They were fought with spears, arrows and swords with no ritual show, but plain ferocity.
 
 Poetess auvaiyAr sings of the fall of her patron, a tamil war lord atiyamAn neDumAn a\~Nchi:  
-“Pointing at the enemy  
+
+> “Pointing at the enemy  
 the tongues of lances,  
 new-forged and whetted,  
 urging soldiers forward  
@@ -56,31 +57,31 @@ his body hacked to pieces.”
 
 auvaiyAr singing on her dead warlord adiyamAn neDumAn Anchi
 
-“He gave us  
+> “He gave us  
 all the flesh  
 on the bones.  
 where is he now?
-
-wherever spear and arrow flew,  
+>
+> wherever spear and arrow flew,  
 he was there.  
 where is he now?
-
-with his hands scented  
+>
+> with his hands scented  
 with lemon grass,  
 he caressed my hair  
 smelling of meat.  
 where is he now?  
-The vEl that pierced his chest  
+>
+> The vEl that pierced his chest  
 pierced at once  
 the wide eating bowls  
-of great and famous minstrels,
-
+of great and famous minstrels,  
 and, dimming the images in the eyes  
 of men he sheltered,  
 it went right through the subtle tongues  
 of poets  
 skilled in the search  
 for good words.
-
-Where is he now?
+>
+> Where is he now?
 

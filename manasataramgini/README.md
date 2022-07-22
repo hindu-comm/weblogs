@@ -5,27 +5,6 @@ Reading pos:
 
 
 ## Unprocessed
-- 2003/08/2003-08-13_charlottes-tale.md
-- 2003/08/2003-08-15_netaji-palkar.md
-- 2003/08/2003-08-17_rohinis-cart.md
-- 2003/09/2003-09-03_the-malhotran-theory-of-u-turns.md
-- 2003/09/2003-09-06_frontline-warriors.md
-- 2003/09/2003-09-11_jinnah-and-huntington.md
-- 2003/09/2003-09-16_american-theory-of-operation-iraqi-flypaper.md
-- 2003/09/2003-09-18_testosteroniya-stuti.md
-- 2003/09/2003-09-28_indiansa-bunch-of-idiots.md
-- 2003/09/2003-09-30_mahakali.md
-- 2003/10/2003-10-01_gory-tamil-poems.md
-- 2003/10/2003-10-04_apaurusheya-shrutialien-hour.md
-- 2003/11/2003-11-18_hindutva-ko-fek-do.md
-- 2003/11/2003-11-20_warrior-on-the-steppe.md
-- 2003/11/2003-11-27_i-am-indra.md
-- 2003/11/2003-11-30_the-fall-of-brahmins.md
-- 2003/12/2003-12-03_shri-sitaram-goel.md
-- 2003/12/2003-12-16_the-mother-of-all-battles.md
-- 2004/03/2004-03-02_brooding-over-hindu-woes.md
-- 2004/03/2004-03-09_the-brave-pancholi.md
-- 2004/03/2004-03-16_limbya-shinde.md
 - 2004/03/2004-03-18_french-wine-practical-symbolism.md
 - 2004/03/2004-03-22_vedic-beer.md
 - 2004/03/2004-03-26_vema-reddy.md
