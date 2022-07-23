@@ -10,8 +10,7 @@ Many many moons ago the good old Padishaw of Dilli, Akbar, was locked in a morta
 
 Fast forward many years: apparently we are no longer ruled by Islamic tyrants from Dilli. Is this true?
 
-We recently heard in the news that a bunch of Ghazis ran amok in Khobar, Saudi Arabia claiming a number of Dhimmis and Kaffrs in their rampage. Most Western news outlets told us that a few whitemen had been sent to their graves by the Ghazis- of course Kaffrs are Kaffrs even for other Dhimmis. We later heard from Indian sources that the bulk of the victims of were Kaffrs from Hindustan.  
-So what does our government say in response:
+We recently heard in the news that a bunch of Ghazis ran amok in Khobar, Saudi Arabia claiming a number of Dhimmis and Kaffrs in their rampage. Most Western news outlets told us that a few whitemen had been sent to their graves by the Ghazis- of course Kaffrs are Kaffrs even for other Dhimmis. We later heard from Indian sources that the bulk of the victims of were Kaffrs from Hindustan. So what does our government say in response:
 
 **“The Indian casualties were victims of the circumstances rather than pre-meditated targets for attack.”**
 

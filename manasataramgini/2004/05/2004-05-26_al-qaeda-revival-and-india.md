@@ -20,7 +20,7 @@ However, in the mean time some titanic event happened in our lands. The BJP gove
   
 3) The aversion of Manmohan towards defence spending will have its effects on building a massive and mighty military. “True greatness of a nation is defined by its military might”  
   
-4)Smothering of Hindu feelings in the name of communalism and free reign for Christian moles will help in undermining the true inner unity of India. The effects of this are already apparent in Tamil Nad and Andra.  
+4) Smothering of Hindu feelings in the name of communalism and free reign for Christian moles will help in undermining the true inner unity of India. The effects of this are already apparent in Tamil Nad and Andra.  
   
 5) Indians will be distracted by rapid government changes and this may weaken the economic strength, there by curtailing military development.
 

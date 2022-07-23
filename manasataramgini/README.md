@@ -5,25 +5,6 @@ Reading pos:
 
 
 ## Unprocessed
-- 2004/03/2004-03-18_french-wine-practical-symbolism.md
-- 2004/03/2004-03-22_vedic-beer.md
-- 2004/03/2004-03-26_vema-reddy.md
-- 2004/04/2004-04-01_the-rape-of-araja.md
-- 2004/04/2004-04-09_indo-european-divine-tripartation.md
-- 2004/04/2004-04-12_max-mueller-good-bad-or-a-malhotran-u-turner.md
-- 2004/04/2004-04-19_hindu-armies-the-forgotten-struggle-against-the-mo.md
-- 2004/04/2004-04-20_khusroo-waxing-eloquent.md
-- 2004/05/2004-05-17_americans-in-fallujah.md
-- 2004/05/2004-05-22_on-cicadas-and-their-kin.md
-- 2004/05/2004-05-23_sanskrit-poetry-in-hindu-inscriptions.md
-- 2004/05/2004-05-24_the-new-american-crusade.md
-- 2004/05/2004-05-26_al-qaeda-revival-and-india.md
-- 2004/06/2004-06-01_indians-still-slaves.md
-- 2004/06/2004-06-05_panchatantra-indias-great-product-origin-and-evolu.md
-- 2004/06/2004-06-20_hammira-devas-last-stand.md
-- 2004/06/2004-06-20_jalal-ud-din.md
-- 2004/06/2004-06-20_the-early-post-mahmud-struggle.md
-- 2004/06/2004-06-22_skaldskaparmal.md
 - 2004/07/2004-07-02_islamism-and-the-west.md
 - 2004/07/2004-07-11_islamic-vandalism-in-gujarat.md
 - 2004/07/2004-07-15_wasps-by-the-iron-fort.md
