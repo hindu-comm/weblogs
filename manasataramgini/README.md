@@ -5,10 +5,6 @@ Reading pos:
 
 
 ## Unprocessed
-- 2004/09/2004-09-01_inter-caste-strife.md
-- 2004/09/2004-09-01_the-festival-of-kama.md
-- 2004/09/2004-09-07_the-weakness-of-russia.md
-- 2004/09/2004-09-18_maitreyas-atomism.md
 - 2004/09/2004-09-23_categories-of-hindus.md
 - 2004/09/2004-09-26_divergence-in-the-constraining-motifs-of-the-gayat.md
 - 2004/09/2004-09-30_why-did-you-lose.md
