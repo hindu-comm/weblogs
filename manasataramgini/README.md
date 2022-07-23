@@ -5,16 +5,6 @@ Reading pos:
 
 
 ## Unprocessed
-- 2004/07/2004-07-02_islamism-and-the-west.md
-- 2004/07/2004-07-11_islamic-vandalism-in-gujarat.md
-- 2004/07/2004-07-15_wasps-by-the-iron-fort.md
-- 2004/07/2004-07-16_re-programming-in-the-sub-continent.md
-- 2004/07/2004-07-17_a-glorious-chrysidid.md
-- 2004/07/2004-07-30_end-of-crick.md
-- 2004/08/2004-08-10_some-motifs-in-the-geser-khan-epic.md
-- 2004/08/2004-08-12_enemies-and-their-ilk.md
-- 2004/08/2004-08-19_the-death-of-chingiz-khakhan.md
-- 2004/08/2004-08-26_the-brahmin-brain-drain.md
 - 2004/09/2004-09-01_inter-caste-strife.md
 - 2004/09/2004-09-01_the-festival-of-kama.md
 - 2004/09/2004-09-07_the-weakness-of-russia.md
