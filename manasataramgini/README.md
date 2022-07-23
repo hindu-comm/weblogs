@@ -5,18 +5,7 @@ Reading pos:
 
 
 ## Unprocessed
-- 2004/12/2004-12-13_some-deeds-of-bahmanid-sultans-i.md
-- 2004/12/2004-12-16_comet-machholz-2004.md
-- 2004/12/2004-12-18_deeds-of-the-bahmanid-sultans-ii.md
-- 2004/12/2004-12-23_zipfs-law.md
-- 2004/12/2004-12-24_mythologists.md
-- 2004/12/2004-12-29_the-ghost-again.md
-- 2005/01/2005-01-01_kuriltai-and-other-affairs.md
-- 2005/01/2005-01-04_the-gavishti.md
-- 2005/01/2005-01-05_south-indian-hindu-legal-authorities-of-the-middle.md
-- 2005/01/2005-01-13_repenomamus-an-early-predatory-mammal.md
 - 2005/02/2005-02-26_agni-the-divine-hotars-and-the-adhrigupraishasampr.md
-- 2005/02/2005-02-26_neuquenraptor-argentinus-and-the-deinonychosaurs.md
 - 2005/02/2005-02-26_the-adaptive-radiation-of-avian-and-para-avian-cla.md
 - 2005/02/2005-02-28_the-apparition-of-saturn-on-13th-jan.md
 - 2005/03/2005-03-08_the-wicks-of-bhairavananda.md

@@ -7,7 +7,8 @@ upstream_url = "https://manasataramgini.wordpress.com/2005/02/26/agni-the-divine
 Source: [here](https://manasataramgini.wordpress.com/2005/02/26/agni-the-divine-hotars-and-the-adhrigupraishasampraisha/).
 
 Before the animal sacrifice of the pashubandha the maitravaruNa priest utters the chant (RV 4.15.1-3):  
-****agnir hotA no adhvare vAjI san pari nIyate/ devo deveShu yaGNYiyaH
+
+agnir hotA no adhvare vAjI san pari nIyate/ devo deveShu yaGNYiyaH
 //  
   
 agni, the hotar, being the booty bearing horse, is led around in our sacrifice; a deva to be worshipped amongst the devas.
@@ -33,6 +34,7 @@ agnIm ILe purohitaM yaGNYasya devam R^itvijaM / hotAraM ratnadhAtamaM //
 The same point is suggested by a parallel triShtubh chant to the gAyatri chant of the maitravaruNa which was noted above. It is from the same vAmadeva collection (RV 4.6.2):
 
 But then the AprIis mention two divine always hotars (even the soma only AprI of the kAshyapas). So who were the 2 hotars? The bR^ihaddevatA explains that the two hotars of the AprIs are the terrestrial and the middle forms of agni (BD3.11). This explanation was evidently prevalent in the Vedic world as is suggested by yAska’s statement in the nirukta: “daivyau hotArav ayaM chAgnir asau cha madhyamaH (Nk8.2)”. They are said to be daivya because both the middle and the earthly forms of agni are born from the celestial (divya) agni. Elsewhere, the BD clarifies these earthly and middle forms of agni.  
+
 BD 1.91: Because this \[terrestrial agni\] is lead by men and that \[other agni\] leads him from this \[other world\], therefore these two \[agnis\], while having the same name, have performed their work separately.  
 1.92: Because he is know when born (jAtaH) or because his known here by all beings (jAtaiH), therefore these two, while having an identical name pervade both worlds separately.  
 1.93: He as the middlemost if these 3 agnis, shines in the air discharging rain: accordingly some name of agni are only incidently.  
