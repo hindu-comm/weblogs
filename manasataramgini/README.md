@@ -5,17 +5,6 @@ Reading pos:
 
 
 ## Unprocessed
-- 2004/09/2004-09-23_categories-of-hindus.md
-- 2004/09/2004-09-26_divergence-in-the-constraining-motifs-of-the-gayat.md
-- 2004/09/2004-09-30_why-did-you-lose.md
-- 2004/10/2004-10-03_box-india.md
-- 2004/10/2004-10-03_watch-out-democracymarxism-is-for-all.md
-- 2004/10/2004-10-22_shambhajis-inaugural-campaign.md
-- 2004/11/2004-11-17_the-dravidians-emerge-from-the-woodwork.md
-- 2004/11/2004-11-23_the-census-of-marine-life-project.md
-- 2004/12/2004-12-04_dravidianism.md
-- 2004/12/2004-12-05_the-magic-formula-of-the-bhrigus.md
-- 2004/12/2004-12-11_recombination-of-meters.md
 - 2004/12/2004-12-13_some-deeds-of-bahmanid-sultans-i.md
 - 2004/12/2004-12-16_comet-machholz-2004.md
 - 2004/12/2004-12-18_deeds-of-the-bahmanid-sultans-ii.md

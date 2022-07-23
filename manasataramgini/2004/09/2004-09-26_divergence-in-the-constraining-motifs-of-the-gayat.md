@@ -8,21 +8,17 @@ Source: [here](https://manasataramgini.wordpress.com/2004/09/26/divergence-in-th
 
 The vedic gAyatrI meter is constructed as per the following rules:  
   
-#1 It shall ideally have 24 syllables in two hemistiches  
-  
-#2 hemistich 1 shall have 16 syllables and hemistich 2 shall have 8
-syllables.  
-  
-#3 Thus there shall be 3 pAdas each of 8 syllables divded into 4
-syllable units on which the further rules shall act.
+1. It shall ideally have 24 syllables in two hemistiches  
+2. hemistich 1 shall have 16 syllables and hemistich 2 shall have 8 syllables.  
+3. Thus there shall be 3 pAdas each of 8 syllables divded into 4 syllable units on which the further rules shall act.
 
-The following are defined as light or short syllables denoted by U  
+The following are defined as light or short syllables denoted by **U**  
   
 a; i; u; R^i  
   
 these vowels make a syllable short.
 
-The following are defined as heavy or long syllables denoted by –  
+The following are defined as heavy or long syllables denoted by **–**  
   
 A; I; U; e; ai; o; au; R^I  
   
@@ -32,15 +28,13 @@ The combination with a consonant (eg. ag in agni) makes a light vowel heavy or l
   
 A position which is either short or long is denote by .
 
-#4 The ideal structure of each pAda of the gayatrI is then given as
-(syllables 1 -8; each 4 syllable unit divided by ‘/’ ):  
+4. The ideal structure of each pAda of the gayatrI is then given as (syllables 1 -8; each 4 syllable unit divided by ‘/’ ):  
   
 \[.\]\[->U\]\[.\]\[->U\]/ \[U\]\[->U\]\[U\]\[.\]  
   
 ->U means long is preferred over short or vice-versa.  
   
-#5 If in the open set of 4 syllables of the second syllable is chosen as
-the less-preferred U then the 3rd syllable is preferred to be long.
+5. If in the open set of 4 syllables of the second syllable is chosen as the less-preferred U then the 3rd syllable is preferred to be long.
 
 Another frequent but not universal feature is that the 4 syllable halves of each pAda split a word in the 2nd and 3rd pAda of the gAyatrI.
 
@@ -70,7 +64,10 @@ agnim dUtaM/ vR^iNImahe /: hotAraM vish/vavedasaM :: asya yaGNYas/ya sukratuM ::
   
 -UU-/U-U-
 
-This is the most frequent gAyatri used by the vipras of most clans. However, the kANvas tend to have an additional consistent usage from time to time giving a peculiar gAyatrI structure of their own.
+This is the most frequent gAyatri used by the vipras of most clans. 
+
+## kANvas
+However, the kANvas tend to have an additional consistent usage from time to time giving a peculiar gAyatrI structure of their own.
 
 This is given by the rule (for each 8- syllabled pAda):  
   
@@ -94,7 +91,5 @@ UU–/UU–
   
 —-/-U–
 
-This variant of the gAyatri interestingly occurs elsewhere in the 3\*8 syllabled meter of the **avesta**. While this suggests a potential connection between the kANvas and the Iranians of the avesta it is not immediately clear as to which form was the primitive gAyatri. The more frequent classical gAyatrI form is likely to be primitive as it is also seen in the underlying motif of syllables used in the non-sholka type anuShTubhs of the R^igveda. Thus, it is possible that the kANva-type gAyatri that follows the pattern of the European trochaic meterical foot
-(as against the equivalence to the iambic foot of the classic gAyatri)
-in the closing 4 syllables is a derivation that arose in the milieu shared with the Iranians. These forms may also have relationship with the construction of specialized gAyatra gAnaMs which are alluded to by the kANvas in their hymns (gAyatraM gIyamAnaM).
+This variant of the gAyatri interestingly occurs elsewhere in the 3\*8 syllabled meter of the **avesta**. While this suggests a potential connection between the kANvas and the Iranians of the avesta it is not immediately clear as to which form was the primitive gAyatri. The more frequent classical gAyatrI form is likely to be primitive as it is also seen in the underlying motif of syllables used in the non-sholka type anuShTubhs of the R^igveda. Thus, it is possible that the kANva-type gAyatri that follows the pattern of the European trochaic meterical foot (as against the equivalence to the iambic foot of the classic gAyatri) in the closing 4 syllables is a derivation that arose in the milieu shared with the Iranians. These forms may also have relationship with the construction of specialized gAyatra gAnaMs which are alluded to by the kANvas in their hymns (gAyatraM gIyamAnaM).
 
