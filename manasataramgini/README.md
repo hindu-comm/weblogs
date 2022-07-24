@@ -1,8 +1,5 @@
 Archive of writings from mAnasatarangiNI blog. 
 
-Reading pos: 
-- 2004 12 - divakritya
-
 
 ## Unprocessed
 - 2005/04/2005-04-25_the-new-farce-of-banabhatta.md
