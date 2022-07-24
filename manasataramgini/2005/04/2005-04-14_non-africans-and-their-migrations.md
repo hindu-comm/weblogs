@@ -10,10 +10,8 @@ One of the most idiotic ideas that has entered the minds of many contemporary In
 
 Using the Y -marker terminology of the Spencer Wells team we see the following picture of the genetic events emerging thus far:
 
-1\) The M168 lineage, the common male ancestor of practically all non-African people emerged in Sudan or Ethiopia in a rather imprecise time band of 79,000 to 31,000 years before present.  
-2) The first to branch of from the M168 lineage was defined by the M174
-(around 50,000 years BP) lineage that travelled by the coastal route of
-Middle East to the Andamans, South East Asia and then turning upwards to Japan and Mongolia. More recently from Mongolia it moved to Tibet. This lineage appears to have be the major substratum lineage in Japan constituting 40% of the males and may represent a significant ancient East-Asian substratum  
+1) The M168 lineage, the common male ancestor of practically all non-African people emerged in Sudan or Ethiopia in a rather imprecise time band of 79,000 to 31,000 years before present.  
+2) The first to branch of from the M168 lineage was defined by the M174 (around 50,000 years BP) lineage that travelled by the coastal route of Middle East to the Andamans, South East Asia and then turning upwards to Japan and Mongolia. More recently from Mongolia it moved to Tibet. This lineage appears to have be the major substratum lineage in Japan constituting 40% of the males and may represent a significant ancient East-Asian substratum  
 3) About the same another branch emerged from M168, that is M130 that appears to have accompanied M174 in the same great coastal migration from Africa. M130 is found in India and Lanka in large numbers and represents one of the oldest substratum populations of India. It also reached Australia and founded the human population in that continent. A branch of it went north-east just like M174 and eventually reached North America as the second human group around 8000 yr BP. The M130 and M174 migrations are excellent candidates for explaining Johanna Nichols’ “Pacific Rim necklace” theory.  
 4) M168 also gave rise to yet another lineage in north-east Africa or the Middle East- M89 around 45,000 years BP, which gave rise to over 80% of the extant Y-chromosome lineages of the Non-African men.  
 5) The major successor of the M89 lineage was the M9 lineage, which started migrating towards the steppes of central Asia and underwent a remarkable explosion there to spawn lineages in all direction. This M9 lineage may be termed the principal Eurasian ancestor.  

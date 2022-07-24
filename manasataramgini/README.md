@@ -5,17 +5,6 @@ Reading pos:
 
 
 ## Unprocessed
-- 2005/02/2005-02-26_agni-the-divine-hotars-and-the-adhrigupraishasampr.md
-- 2005/02/2005-02-26_the-adaptive-radiation-of-avian-and-para-avian-cla.md
-- 2005/02/2005-02-28_the-apparition-of-saturn-on-13th-jan.md
-- 2005/03/2005-03-08_the-wicks-of-bhairavananda.md
-- 2005/03/2005-03-12_the-recombination-game.md
-- 2005/03/2005-03-20_rv-8411.md
-- 2005/03/2005-03-20_the-revenge-of-the-temple-of-rama-i.md
-- 2005/03/2005-03-21_the-anglosphere-and-india-new-events.md
-- 2005/03/2005-03-24_some-great-men-from-other-cultures.md
-- 2005/04/2005-04-10_this-nights-exploits.md
-- 2005/04/2005-04-14_non-africans-and-their-migrations.md
 - 2005/04/2005-04-19_on-the-pishachis-rakshasis-apasaras-and-the-vajray.md
 - 2005/04/2005-04-19_the-location-of-vijayanagara.md
 - 2005/04/2005-04-22_madanotsava-and-military-movements.md
