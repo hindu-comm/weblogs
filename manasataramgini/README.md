@@ -2,21 +2,6 @@ Archive of writings from mAnasatarangiNI blog.
 
 
 ## Unprocessed
-- 2005/05/2005-05-29_the-great-chera-magicians.md
-- 2005/05/2005-05-29_the-rise-and-fall-of-khan-abul-khair.md
-- 2005/06/2005-06-30_the-imprisonment.md
-- 2005/07/2005-07-04_tu-111.md
-- 2005/07/2005-07-05_friedrich-wilhelm-herschels-clan.md
-- 2005/07/2005-07-19_the-jihads-of-shihabuddin-the-sultankalka-of-ghur.md
-- 2005/07/2005-07-27_the-discourse-on-cats-tastes.md
-- 2005/07/2005-07-29_the-silent-journey.md
-- 2005/07/2005-07-30_paninis-spirals.md
-- 2005/07/2005-07-30_paninis-trees.md
-- 2005/08/2005-08-06_pratyangira-stotram.md
-- 2005/08/2005-08-07_the-fall-of-prahlada.md
-- 2005/08/2005-08-08_the-temple-of-nature-by-erasmus-darwin.md
-- 2005/08/2005-08-10_some-ramblings-on-indo-european.md
-- 2005/08/2005-08-14_johannes-kepler.md
 - 2005/08/2005-08-16_turning-of-the-turkic-wheel.md
 - 2005/08/2005-08-20_the-sleep-of-dhumavati.md
 - 2005/08/2005-08-26_the-end-of-the-era-of-tamil-warlords.md
