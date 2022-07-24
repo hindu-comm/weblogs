@@ -2,16 +2,6 @@ Archive of writings from mAnasatarangiNI blog.
 
 
 ## Unprocessed
-- 2005/08/2005-08-16_turning-of-the-turkic-wheel.md
-- 2005/08/2005-08-20_the-sleep-of-dhumavati.md
-- 2005/08/2005-08-26_the-end-of-the-era-of-tamil-warlords.md
-- 2005/08/2005-08-27_samkarshanae28099s-deeds.md
-- 2005/08/2005-08-27_samkarshanas-deeds.md
-- 2005/08/2005-08-28_the-clash-of-saxons.md
-- 2005/08/2005-08-30_the-chakra-of-indravayu.md
-- 2005/08/2005-08-31_law-and-order-in-mlechcha-desha.md
-- 2005/09/2005-09-01_the-rise-of-the-kirghiz-khaganate.md
-- 2005/09/2005-09-02_the-prelude-to-manas.md
 - 2005/09/2005-09-05_wanderings-in-the-sun.md
 - 2005/09/2005-09-09_the-evolving-brain.md
 - 2005/09/2005-09-16_the-purusha-and-the-superorganism.md
