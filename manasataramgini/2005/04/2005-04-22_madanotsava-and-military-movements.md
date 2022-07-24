@@ -25,7 +25,7 @@ Spread with thy tongue the flying flames, O agni; unstoppable, hurl forth firebr
 prati spasho vi sR^ija tUrNitamo bhavA pAyur visho asyA adabdhaH \|  
 yo no dUre aghashaMso yo anty agne mAkiSh Te vyathir A dadharShIt \|\|
 
-Dispath your spies forward, the fast moving one, being undeceived, the guardian of this people \[the Aryas\]. From him who, near or far, is bent on evil, O agni let no trouble sent over overcome us.
+Dispatch your spies forward, the fast moving one, being undeceived, the guardian of this people \[the Aryas\]. From him who, near or far, is bent on evil, O agni let no trouble sent over overcome us.
 
 ud agne tiShTha praty A tanuShva ny amitrAM oShatAt tigmahete \|  
 yo no arAtiM samidhAna chakre nIchA taM dhakShy atasaM na shuShkam \|\|

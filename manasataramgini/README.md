@@ -5,9 +5,6 @@ Reading pos:
 
 
 ## Unprocessed
-- 2005/04/2005-04-19_on-the-pishachis-rakshasis-apasaras-and-the-vajray.md
-- 2005/04/2005-04-19_the-location-of-vijayanagara.md
-- 2005/04/2005-04-22_madanotsava-and-military-movements.md
 - 2005/04/2005-04-25_the-new-farce-of-banabhatta.md
 - 2005/04/2005-04-26_ramanujacharyas-encounter-with-the-chera-magicians.md
 - 2005/04/2005-04-30_kaumari.md
