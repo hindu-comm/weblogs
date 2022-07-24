@@ -2,9 +2,6 @@ Archive of writings from mAnasatarangiNI blog.
 
 
 ## Unprocessed
-- 2005/04/2005-04-25_the-new-farce-of-banabhatta.md
-- 2005/04/2005-04-26_ramanujacharyas-encounter-with-the-chera-magicians.md
-- 2005/04/2005-04-30_kaumari.md
 - 2005/05/2005-05-29_the-great-chera-magicians.md
 - 2005/05/2005-05-29_the-rise-and-fall-of-khan-abul-khair.md
 - 2005/06/2005-06-30_the-imprisonment.md
@@ -603,9 +600,7 @@ Archive of writings from mAnasatarangiNI blog.
 - 2009/10/2009-10-31_ifs-addiction.md
 - 2009/11/2009-11-01_bilateralia.md
 - 2009/11/2009-11-02_an-account-from-lama-taranathae28099s-history.md
-- 2009/11/2009-11-02_an-account-from-lama-taranathas-history.md
 - 2009/11/2009-11-03_lama-taranathae28099s-account-of-the-nastika-virup.md
-- 2009/11/2009-11-03_lama-taranathas-account-of-the-nastika-virupa-the-.md
 - 2009/11/2009-11-07_the-prelude-to-the-philosophical-penetration.md
 - 2009/11/2009-11-08_the-madman-the-seeker-of-knowledge-and-the-sociolo.md
 - 2009/11/2009-11-10_some-speculation-on-the-indo-aryan-cult-of-the-vas.md
