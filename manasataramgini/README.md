@@ -2,7 +2,6 @@ Archive of writings from mAnasatarangiNI blog.
 
 
 ## Unprocessed
-- 2005/09/2005-09-05_wanderings-in-the-sun.md
 - 2005/09/2005-09-09_the-evolving-brain.md
 - 2005/09/2005-09-16_the-purusha-and-the-superorganism.md
 - 2005/09/2005-09-24_kamesha-gnyata-saubhagya-mardavoru-dvyanvita.md
