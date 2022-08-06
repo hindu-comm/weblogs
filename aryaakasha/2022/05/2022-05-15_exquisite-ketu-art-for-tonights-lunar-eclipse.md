@@ -5,6 +5,7 @@ date = "2022-05-15"
 upstream_url = "https://aryaakasha.com/2022/05/15/exquisite-ketu-art-for-tonights-lunar-eclipse/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/05/15/exquisite-ketu-art-for-tonights-lunar-eclipse/).
 
 Exquisite Ketu Art – For Tonight’s Lunar Eclipse
@@ -23,5 +24,5 @@ To quote from our last year’s Rahu piece via way of further explication on Ket
 
 You can read the full piece here:
 
-> [Rahu – The Dark Graha And His > VeiledGrasp](https://aryaakasha.com/2021/11/10/rahu-the-dark-graha-and-his-veiled-grasp/)
 
+> [Rahu – The Dark Graha And His > VeiledGrasp](https://aryaakasha.com/2021/11/10/rahu-the-dark-graha-and-his-veiled-grasp/)

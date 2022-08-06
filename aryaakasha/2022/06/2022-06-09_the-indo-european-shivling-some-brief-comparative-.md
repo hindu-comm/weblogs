@@ -5,6 +5,7 @@ date = "2022-06-09"
 upstream_url = "https://aryaakasha.com/2022/06/09/the-indo-european-shivling-some-brief-comparative-points-arya-akasha-arka/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/06/09/the-indo-european-shivling-some-brief-comparative-points-arya-akasha-arka/).
 
 The Indo-European ShivLing – Some Brief Comparative Points [Arya Akasha Arka]
@@ -35,18 +36,13 @@ In the Gylfaginning, we find the following:
 
 “It is further said that these Norns who dwell by the Well of Urdr take water of the well every day, and with it that clay which lies about the well, and sprinkle it over the Ash, to the end that its limbs shall not wither nor rot; for that water is so holy that all things which come there into the well become as white as the film which lies within the egg-shell,–as is here said:
 
-I know an Ash standing \| called Yggdrasill,  
-A high tree sprinkled \| with snow-white clay;  
-Thence come the dews \| in the dale that fall–  
-It stands ever green \| above Urdr’s Well.
+I know an Ash standing \| called Yggdrasill, A high tree sprinkled \| with snow-white clay; Thence come the dews \| in the dale that fall– It stands ever green \| above Urdr’s Well.
 
-That dew which falls from it onto the earth is called by men honey-dew, and thereon are bees nourished. Two fowls are fed in Urdr’s Well: they are called Swans, and from those fowls has come the race of birds which is so called.”  
-\[Brodeur Translation\]
+That dew which falls from it onto the earth is called by men honey-dew, and thereon are bees nourished. Two fowls are fed in Urdr’s Well: they are called Swans, and from those fowls has come the race of birds which is so called.” \[Brodeur Translation\]
 
 We have written voluminously about the cognate broader Indo-European resonancies for what has just been attested there, and shall not repeat it here, except to note that:
 
-i\) this phenomenon is “something that is also known via the curious Greek ‘double-meanings’ for the Ash Tree – as ‘Meliai’ (not at all coincidentally a term that informs words linked to ‘Spear’), but also producing ‘Meli’ (Ancient Greek for Honey), and the Meliai (singular – ‘Melia’), the Ash-Nymphs that look after the infant Zeus and feed Him Honey (Meli again) and the Milk of Amalthea.”  
-\[to quote myself upon the subject\]  
+i\) this phenomenon is “something that is also known via the curious Greek ‘double-meanings’ for the Ash Tree – as ‘Meliai’ (not at all coincidentally a term that informs words linked to ‘Spear’), but also producing ‘Meli’ (Ancient Greek for Honey), and the Meliai (singular – ‘Melia’), the Ash-Nymphs that look after the infant Zeus and feed Him Honey (Meli again) and the Milk of Amalthea.” \[to quote myself upon the subject\]
 
 ii\) the word being utilized to translate as ‘clay’ – ‘auri’ – isn’t exactly ‘clay’, but rather connotes a wet substance (in fact, given the white liquid of the relevant Wellspring of Urðr is the key ingredient, the Bellows translation not unreasonably has ‘Water’ in lieu of ‘Clay’ there for the libation); and to my mind, recalls our smearing of the ShivLing with light-coloured ritual unguents – or, for that matter, the rather thicker nature of a Panchamrut \[Panchamrit – Five-Element Amrit\] libation due to the yoghurt / curd etc. involved (along with the Honey, jaggery (raw cane sugar), ghee, and of course, the milk … a pointedly white liquid of life).
 

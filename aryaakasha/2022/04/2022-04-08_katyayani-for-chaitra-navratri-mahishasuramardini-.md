@@ -5,6 +5,7 @@ date = "2022-04-08"
 upstream_url = "https://aryaakasha.com/2022/04/08/katyayani-for-chaitra-navratri-mahishasuramardini-the-destroyer-of-the-demon-herself/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/04/08/katyayani-for-chaitra-navratri-mahishasuramardini-the-destroyer-of-the-demon-herself/).
 
 Katyayani for Chaitra Navratri – MahishasuraMardini (The Destroyer of the Demon) Herself
@@ -113,15 +114,18 @@ To quote from the text (V 10;Vijñanananda translation):
 
 “Now see that your master Mahiṣa has shown his intelligence, when he courted his death from the hands of a woman. For that very reason, I have come here in the shape of a woman to effect my purpose; why shall I fear, then, to hear your words, contradictory to those of the Śāstras.
 
-When Fate goes against any one, a grass comes like a thunderbolt; and when fate goes in favour of anyone, a thunderbolt becomes as soft as a bundle of cotton.  
-What does it avail even when one possesses an extensive army or various weapons in abundance, taking shelter in a wide extending fort? What will his soldiers do to him, whose death has come close at hand?  
-\[…\]  
-Know this as certain, very certain, that death will come to him in the manner as written by the hands of Fate; it will never be otherwise.  
-As the birth and death of Brahmā and other gods are ordained, your death has been similarly ordained; no, there is no need of taking the example further than this.  
+When Fate goes against any one, a grass comes like a thunderbolt; and when fate goes in favour of anyone, a thunderbolt becomes as soft as a bundle of cotton.
+
+What does it avail even when one possesses an extensive army or various weapons in abundance, taking shelter in a wide extending fort? What will his soldiers do to him, whose death has come close at hand? \[…\] Know this as certain, very certain, that death will come to him in the manner as written by the hands of Fate; it will never be otherwise.
+
+As the birth and death of Brahmā and other gods are ordained, your death has been similarly ordained; no, there is no need of taking the example further than this.
+
 Those who are tied up by the hands of death are surely fools and of extremely blunt intellect, if they think simply on the strength of their getting some boons “that they would never die.”
 
-Therefore go quickly to your king and speak to him what I have said; you will then surely obey what he commands you to do.  
-If he wants his life, he, with his retinue, would at once go down to Pātāla; let Indra and the other Devas get possession of the Heavens and their share of Yajñas.  
+Therefore go quickly to your king and speak to him what I have said; you will then surely obey what he commands you to do.
+
+If he wants his life, he, with his retinue, would at once go down to Pātāla; let Indra and the other Devas get possession of the Heavens and their share of Yajñas.
+
 If he holds a contrary opinion, let him be eager to go to the house of Death and come and fight with Me.
 
 If he thinks that Viṣṇu and the other Devas have fled from the battle-fields, he has nothing to boast of; for he has not shown his manliness at all even then; for his victory is solely due to his having got the boon from Brahmā. ””
@@ -130,26 +134,30 @@ The message is relayed to Mahishasur … who asks his advisors what it is that h
 
 One of these, Durdhara, offers this counsel (V 11):
 
-“As far as I think, I consider that woman with beautiful teeth as passionate. For that woman of broad hips has expressed a desire to bring you under control by making you fearful; the mistresses, proud of their beauty generally use such words when they become passionate.  
-When they behave in this way, people call these amorous gestures. These crooked words of mistresses are the chief causes in attracting dear persons unto them.  
-Those who are skilled in the art of love affair, some of them can know these things thoroughly well.  
-O King! That woman has said:  
-“I will pierce and kill you by arrows, face to face, in the battlefield.”  
-The sense of this is different. The wise persons that are clever and experienced in the art of finding out the cause, declare that the above sentence is pregnant with deep and esoteric meaning.  
-You can easily see that the handsome women have no other arrows with them; their side-glances are their arrows. And their words carry their hidden meanings, and, expressing their desires, are their flowers.  
-O King! Brahmā, Viṣṇu and Maheśa even have no powers to shoot arrows at you; how can, then, that helpless woman, who appears so passionate, dart real arrows at you?  
-O King! That lady said:  
-“O Stupid! I will kill your King by my arrow-like eye-sight.”  
-But the messenger was wanting in that power to appreciate; so he, no doubt, understood her words in their contrary sense.  
-The saying of that lady:  
-“I will lay your lord in the death-bed in the battle-field”  
-is to be taken in the light of inverted sexual intercourse, where woman is above the man.  
-Her utterance:  
-“I will take away the vitality (life) of your lord” – is also significant.  
-The semen virile is known as the vitality (life). Therefore the above expression means that she will make you devoid of your virility. There can be no other meaning.  
-O King! Those women that are excellent show by too much of their covert expressions (innuendos) that they select and like very much their beloved. The experts only in these amorous affairs will be able to appreciate these things.  
-Knowing thus, dealings ought to be made with Her so that the harmony in amorous sentiments be not broken.  
-O King! Sāma (conciliation) and Dana (gifts) are the two means to be adopted; there is no other way. By these two, that Lady, whether she be proud or angry, is sure to have brought under control; I will go now and bring Her before you by such sweet words.  
+“As far as I think, I consider that woman with beautiful teeth as passionate. For that woman of broad hips has expressed a desire to bring you under control by making you fearful; the mistresses, proud of their beauty generally use such words when they become passionate.
+
+When they behave in this way, people call these amorous gestures. These crooked words of mistresses are the chief causes in attracting dear persons unto them.
+
+Those who are skilled in the art of love affair, some of them can know these things thoroughly well.
+
+O King! That woman has said: “I will pierce and kill you by arrows, face to face, in the battlefield.” The sense of this is different. The wise persons that are clever and experienced in the art of finding out the cause, declare that the above sentence is pregnant with deep and esoteric meaning.
+
+You can easily see that the handsome women have no other arrows with them; their side-glances are their arrows. And their words carry their hidden meanings, and, expressing their desires, are their flowers.
+
+O King! Brahmā, Viṣṇu and Maheśa even have no powers to shoot arrows at you; how can, then, that helpless woman, who appears so passionate, dart real arrows at you? O King! That lady said: “O Stupid! I will kill your King by my arrow-like eye-sight.” But the messenger was wanting in that power to appreciate; so he, no doubt, understood her words in their contrary sense.
+
+The saying of that lady: “I will lay your lord in the death-bed in the battle-field” is to be taken in the light of inverted sexual intercourse, where woman is above the man.
+
+Her utterance: “I will take away the vitality (life) of your lord” – is also significant.
+
+The semen virile is known as the vitality (life). Therefore the above expression means that she will make you devoid of your virility. There can be no other meaning.
+
+O King! Those women that are excellent show by too much of their covert expressions (innuendos) that they select and like very much their beloved. The experts only in these amorous affairs will be able to appreciate these things.
+
+Knowing thus, dealings ought to be made with Her so that the harmony in amorous sentiments be not broken.
+
+O King! Sāma (conciliation) and Dana (gifts) are the two means to be adopted; there is no other way. By these two, that Lady, whether she be proud or angry, is sure to have brought under control; I will go now and bring Her before you by such sweet words.
+
 O King! What is the use of my talking too much? I will make Her submissive to you like a slave girl.”
 
 You can just imagine how this actually plays out in practice.
@@ -180,7 +188,8 @@ It is intriguing to note that which happens next:
 
 “Thereupon commenced a battle between them both, the goddess and Śumbha, while all the gods and the Asuras looked on —a battle without quarter. With showers of arrows, with sharp weapons and also with pitiless missiles both engaged anew in a combat which set all the world in fear. And the lord of the Daityas broke the heavenly missiles, which Ambikā discharged in hundreds, with weapons that parried them. And the supreme goddess in merest play broke the heavenly missiles that he discharged, with fierce shouts, ejaculations and other sounds.”
 
-We are unsurprised to find that Vocalization is such a prominent combat-form here. Vak, as we have said (in multiple senses), Over All.  
+We are unsurprised to find that Vocalization is such a prominent combat-form here. Vak, as we have said (in multiple senses), Over All.
+
 Although, of course, more conventional forms of martial engagement then ensue – which we shall not quote here for length.
 
 Our point in quoting that aforementioned excerpt was simple – as She Herself states: the Powers, the Divinities that had taken to the field … well, She Alone outnumbers the foe, precisely because all of these other forms are expressions, emanations of Her. The various Goddess-forms mentioned are, indeed, Shaktis of the male Gods as well in many of these cases. Just as we had stated much earlier.

@@ -5,6 +5,7 @@ date = "2022-06-17"
 upstream_url = "https://aryaakasha.com/2022/06/17/on-idol-worship-a-curious-charge/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/06/17/on-idol-worship-a-curious-charge/).
 
 On ‘Idol Worship’ – A Curious Charge
@@ -45,10 +46,9 @@ As Ugraśravas [noted in reply](https://twitter.com/Ugrashravas/status/153764012
 
 “Funny thing is, they understand the concept very well and also its necessity; But their book forbids exactly this (worshipping other “false Gods” through Idols/Forms). So they cope by creating this false idolatry/iconography distinction”
 
-—  
-Addendum:  
-  
-We should also like to add that [this is a further useful perspective](https://twitter.com/mangosinfonia/status/1537522660011175936). Also found on Twitter as the result of the same thread. Who said social media couldn’t foster useful and positive communication !  
-  
+— Addendum:
+
+We should also like to add that [this is a further useful perspective](https://twitter.com/mangosinfonia/status/1537522660011175936). Also found on Twitter as the result of the same thread. Who said social media couldn’t foster useful and positive communication !
+
 
 ![](https://aryaakasha.files.wordpress.com/2022/06/idolatry-reply-t.png?w=613)

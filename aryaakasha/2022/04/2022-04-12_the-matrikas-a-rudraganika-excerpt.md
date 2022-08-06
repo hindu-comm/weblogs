@@ -5,6 +5,7 @@ date = "2022-04-12"
 upstream_url = "https://aryaakasha.com/2022/04/12/the-matrikas-a-rudraganika-excerpt/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/04/12/the-matrikas-a-rudraganika-excerpt/).
 
 The Matrikas – A RudraGanika Excerpt
@@ -23,6 +24,7 @@ Art, as ever, by our excellent associate, HC – and I’m rather amazed at how 
 
 \[-C.A.R.\]
 
+
 **The Adi Female Alpha**
 
 The obvious question confronting us here is if the Vedic texts are so pronounced in their hailing of the female Retinue of Rudra – where is this Retinue to be found in the subsequent annals of scripture? Did it become de-emphasized and simply drop out of common knowledge for some reason?
@@ -35,21 +37,14 @@ One very prominent occurrence of this expression is to be found in the work of t
 
 To quote from the Griffith translation of hisKumārasambhava \[‘The Birth of the War-God’\]:
 
-“The Matrons \[Matrikas\] followed Him, a saintly throng,  
-Their ear-rings waving as they dashed along —  
-Sweet faces, with such glories round them shed  
-As made the air one lovely Lotus bed.  
-On flew those bright Ones — Kali came behind,  
-The skulls that decked Her rattling in the wind :  
-Like the dark rack that scuds across the sky,  
-With herald Lightning and the Crane’s shrill cry.
+“The Matrons \[Matrikas\] followed Him, a saintly throng, Their ear-rings waving as they dashed along — Sweet faces, with such glories round them shed As made the air one lovely Lotus bed.
 
-Hark ! from the glorious bands that lead the way,  
-Harp, drum, and pipe, and shrilling trumpet’s bray,  
-Burst through the sky upon the startled ear  
-And tell the Gods the hour of worship ‘s near.”
+On flew those bright Ones — Kali came behind, The skulls that decked Her rattling in the wind : Like the dark rack that scuds across the sky, With herald Lightning and the Crane’s shrill cry.
 
-Now this is rather curious, because what we see here is Kali accompanying Lord Shiva … as Lord Shiva goes to meet His Bride – Parvati, the Daughter of King Himavat. An appropriate mythic occurrence to cite here as it is, of course, in large measure what MahaShivRatri is all about. Except whereas these days the more contemporarily-familiar expression for the Bhole Ki Baraat \[armed wedding procession of Lord Shiva\] is to be found in human devotees adorning themselves as the fearsome BhutaGana \[‘Ghost Company’\] and parading through the streets in accompaniment of a Shiva murti as an act of Eliadian Eternal Return / mythic resonance … here, as we can see, in the archaic perception there was also scope for our \*female\* mythic coterie of Rudra to be present in the wedding processional as well.  
+Hark ! from the glorious bands that lead the way, Harp, drum, and pipe, and shrilling trumpet’s bray, Burst through the sky upon the startled ear And tell the Gods the hour of worship ‘s near.”
+
+Now this is rather curious, because what we see here is Kali accompanying Lord Shiva … as Lord Shiva goes to meet His Bride – Parvati, the Daughter of King Himavat. An appropriate mythic occurrence to cite here as it is, of course, in large measure what MahaShivRatri is all about. Except whereas these days the more contemporarily-familiar expression for the Bhole Ki Baraat \[armed wedding procession of Lord Shiva\] is to be found in human devotees adorning themselves as the fearsome BhutaGana \[‘Ghost Company’\] and parading through the streets in accompaniment of a Shiva murti as an act of Eliadian Eternal Return / mythic resonance … here, as we can see, in the archaic perception there was also scope for our \*female\* mythic coterie of Rudra to be present in the wedding processional as well.
+
 And we shall also address the broader scope for Eternal Returning and mythic engagement later in the piece.
 
 To return to the perhaps under-expected scenario of Kali in amidst these Matrikas, this is enormously instructive as to the true nature of what these fearsome female figures really are.

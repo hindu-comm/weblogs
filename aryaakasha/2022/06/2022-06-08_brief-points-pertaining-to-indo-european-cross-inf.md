@@ -5,6 +5,7 @@ date = "2022-06-08"
 upstream_url = "https://aryaakasha.com/2022/06/08/brief-points-pertaining-to-indo-european-cross-influence-viz-ancient-near-east-egyptian-spheres-arya-akasha-arka/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/06/08/brief-points-pertaining-to-indo-european-cross-influence-viz-ancient-near-east-egyptian-spheres-arya-akasha-arka/).
 
 brief points pertaining to Indo-European cross-influence viz. Ancient Near East & Egyptian spheres [Arya Akasha Arka]
@@ -63,5 +64,4 @@ Hence .. well, you get the idea.
 
 We are on surer ground with the Indo-European internal comparanda precisely because we can *demonstrate* that it’s the same mythology at its inception carried forward in multiple directions (and yes, thence undergoing loka-lized development in the relevant environments in question). It doesn’t require the detailed attestation of trade routes or reasons for other cultures to have wholesale incorporated rather significant religious swathes into their religions (which, to be sure, sometimes could and did happen).
 
-—  
-ENDS
+— ENDS

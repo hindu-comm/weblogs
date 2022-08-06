@@ -5,6 +5,7 @@ date = "2022-04-05"
 upstream_url = "https://aryaakasha.com/2022/04/05/kushmanda-for-chaitra-navratri-the-power-of-the-sun/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/04/05/kushmanda-for-chaitra-navratri-the-power-of-the-sun/).
 
 Kushmanda for Chaitra Navratri – The Power of the Sun
@@ -31,28 +32,33 @@ Names do, indeed, not only ‘reference’ but also ‘encapsulate’ Being, as 
 
 Kushmanda, however, defies easy conceptualization in such a regard. ‘The Power of the Sun’ is, I believe, an accurate ‘essence’ – yet it is not truly what the words involved literally mean. They are more evocatively expressive than that. And contain within them Multitudes in terms of what is actually meant, entailed, and what links up with what elsewhere within its appropriate, attendant mythic sphere and context. Fanon’s point about speaking upholding the weight of a civilization even through the minutiae of words and other such formulations seems apt for the intricacies of interleavened resonancy here.
 
-A more direct translation is usually given as something along the lines of “a little (Ku) warmth (Ushma)” in relation to a certain Egg (Anda).  
+A more direct translation is usually given as something along the lines of “a little (Ku) warmth (Ushma)” in relation to a certain Egg (Anda).
+
 However this I consider to be … somewhat inaccurate – and, indeed, there seem to be quite a few attempted translations or unpackings of ‘Kushmanda’ out there even amidst Hindu commentaries that seem to leave a bit to be desired.
 
-So, let us start from the bottom. ‘Ku’ (कु ) – while it \*can\* be applied as a diminutive, also tends to have an array of connotations that should make it rather curious in this context.  
-As it’s not so much “little” as it is “meagre”, “mean”, “insufficient”, “inferior”, or even outright false and negative.  
+So, let us start from the bottom. ‘Ku’ (कु ) – while it \*can\* be applied as a diminutive, also tends to have an array of connotations that should make it rather curious in this context.
+
+As it’s not so much “little” as it is “meagre”, “mean”, “insufficient”, “inferior”, or even outright false and negative.
+
 That is not something which fits with the Goddess or Her cosmological role – it should certainly prove a most curious manner to address the Solar Power Herself !
 
 Two other ‘Ku’ renditions are perhaps more immediately salient for us here.
 
 The first of these concerns ‘Ku’ as a ‘base’ or the ‘Earth’. A foundation, we might suggest.
 
-The second, is a \*Sound\* – likely a rather \*indistinct\* sound that we are not quite able to grasp the meaning of as a language.  
+The second, is a \*Sound\* – likely a rather \*indistinct\* sound that we are not quite able to grasp the meaning of as a language.
+
 Experienced followers of my work shall instantly apprehend where we’re going with this …
 
-The ‘Ushma’ (उष्म) particle being understood as ‘Warmth’ is, again, not inaccurate – although may be somewhat incomplete.  
-For in addition to ‘Heat’, there is also a cheerful ‘Summer’ sense to it – and, of course, ‘Fire’.  
+The ‘Ushma’ (उष्म) particle being understood as ‘Warmth’ is, again, not inaccurate – although may be somewhat incomplete.
+
+For in addition to ‘Heat’, there is also a cheerful ‘Summer’ sense to it – and, of course, ‘Fire’.
+
 We might figuratively compare ‘Tapas’, for reasons that we shall address later on.
 
-‘Anda’, as Egg, has at least three not-necessarily-exclusive interpretations we could foster.  
-The first and most obvious being the Egg at the beginning of everything;  
-The second, a more generalized connotation of fertility and generative fostering for the necessary fundaments of life in this universe of ours – in a more ongoing sense than that Cosmic Egg, I mean;  
-And the third, the Sun – an ‘Egg’, or a ‘Source of Life’, that is, we might figuratively suggest .. ‘Sunny Side Up’.
+‘Anda’, as Egg, has at least three not-necessarily-exclusive interpretations we could foster.
+
+The first and most obvious being the Egg at the beginning of everything; The second, a more generalized connotation of fertility and generative fostering for the necessary fundaments of life in this universe of ours – in a more ongoing sense than that Cosmic Egg, I mean; And the third, the Sun – an ‘Egg’, or a ‘Source of Life’, that is, we might figuratively suggest .. ‘Sunny Side Up’.
 
 Except there is another possibility … that of the final component to ‘Kushmanda’ in fact being ‘Da’ (ड ) – which, once again, connotes ‘Sound’ (particularly that of a rhythmic beat) – and potentially the drum that makes it; or a basket or carrying device, an epithet of Shiva, a Bird, or ‘Submarine Fire’. There is also some suggestion that, in fact, the particle is ‘Daa’ ( डा ) – which would pertain to a Dakini.
 
@@ -66,7 +72,8 @@ We have long observed that there is a remarkable mytholinguistic pattern in the 
 
 The best example of which would be terms derived from the two Proto-Indo-European \*bʰeh₂ roots – the one that means ‘illumination’, and the one that pertains to ‘communication’.
 
-We considered quite an extensive array of these in our previous piece, imaginatively entitled – “On The Mytholinguistics Of The Solar Speech”. We shall not endeavour to seek to repeat that work here.  
+We considered quite an extensive array of these in our previous piece, imaginatively entitled – “On The Mytholinguistics Of The Solar Speech”. We shall not endeavour to seek to repeat that work here.
+
 [https://aryaakasha.com/2022/01/09/on-the-mytholinguistics-of-the-solar-speech/](https://aryaakasha.com/2022/01/09/on-the-mytholinguistics-of-the-solar-speech/)
 
 However, there is another dimension to proceedings. Two, in fact. Three, if we really think about it.
@@ -75,15 +82,14 @@ The first – and it is literally the first – concerns the Sound at the Start 
 
 To quote me some Terry Pratchett \[from one of his earlier works – ‘The Light Fantastic’\] –
 
-“There was a rustling in the darkness.  
-‘In the beginning was the word,’ said a dry voice right behind him.  
-‘It was the Egg,’ corrected another voice. ‘I distinctly remember. The Great Egg of the Universe. Slightly rubbery.’  
-‘You’re both wrong, in fact. I’m sure it was the primordial slime.’  
-A voice by Rincewind’s knee said: ‘No, that came afterwards. There was firmament first. Lots of firmament. Rather sticky, like candyfloss. Very syrupy, in fact—.’  
-‘In case anyone’s interested,’ said a crackly voice on Rincewind’s left, ‘you’re all wrong. In the beginning was the Clearing of the Throat—’  
-‘—then the word—'”
+“There was a rustling in the darkness.
 
-Now, this is a work of satire that is briefly name-checking a few prominent cosmogonical perspectives encountered in various of the religions of the world.  
+‘In the beginning was the word,’ said a dry voice right behind him.
+
+‘It was the Egg,’ corrected another voice. ‘I distinctly remember. The Great Egg of the Universe. Slightly rubbery.’ ‘You’re both wrong, in fact. I’m sure it was the primordial slime.’ A voice by Rincewind’s knee said: ‘No, that came afterwards. There was firmament first. Lots of firmament. Rather sticky, like candyfloss. Very syrupy, in fact—.’ ‘In case anyone’s interested,’ said a crackly voice on Rincewind’s left, ‘you’re all wrong. In the beginning was the Clearing of the Throat—’ ‘—then the word—'”
+
+Now, this is a work of satire that is briefly name-checking a few prominent cosmogonical perspectives encountered in various of the religions of the world.
+
 Any Christian shall recognize “In the beginning was the Word”; the “Egg”, we have earlier met as one of the (various) Hindu perspectives – and we can find … well, ‘primordial slime’ we might have to get a bit creative with. Certainly The Waters are somewhat relevant here.
 
 But it is this ‘Clearing of the Throat’ that has caught my imagination herein. For you see – what we find at the absolute beginning of everything is not a ‘Word’ in the sense that should prove intelligible to us. Indeed, it may not even be the Speaker that many are used to thinking of in such a capacity – Vishvakarman etc. as a ‘Solar Smith’, a Priest Who Speaks the world into being (c.f my work on Svarog). But rather, there is the ‘getting ready’ for that Voice to take flight.
@@ -122,22 +128,15 @@ For you see – we know via Hestia of the Greeks that the Indo-Europeans also co
 
 The innate integrality of Hestia to the cosmos (and here I am meaning it in the archaic Greek sense – the ‘regime’, the ‘Divine Realm’ and ‘Rule’) is aptly demonstrated via the relevant Orphic Hymnal unto Her:
 
-“Daughter of Kronos, venerable dame,  
-Who dwellest amidst great fire’s eternal flame;  
-In sacred rites these ministers are Thine,  
-Mystics much blessed, holy and divine.  
-In Thee the Gods have fixed Their dwelling place,  
-Strong, stable basis of the mortal race.  
-Eternal, much formed, ever florid queen,  
-Laughing and blessed, and of lovely mien;  
-Accept these rites, accord each just desire,  
-And gentle health and needful good inspire.”  
-\[Taylor translation\]
+“Daughter of Kronos, venerable dame, Who dwellest amidst great fire’s eternal flame; In sacred rites these ministers are Thine, Mystics much blessed, holy and divine.
 
-And, because sometimes people look a bit sideways at the Orphic corpus – from Homeric Hymnal 29″  
-“Hestia, in the high dwellings of All, both deathless Gods and men who walk on earth, You have gained an everlasting abode and highest honor: glorious is Your portion and Your right.  
-For without You mortals hold no banquet, – where one does not duly pour sweet wine in offering to Hestia both first and last.”  
-\[Evelyn-White translation\]
+In Thee the Gods have fixed Their dwelling place, Strong, stable basis of the mortal race.
+
+Eternal, much formed, ever florid queen, Laughing and blessed, and of lovely mien; Accept these rites, accord each just desire, And gentle health and needful good inspire.” \[Taylor translation\]
+
+And, because sometimes people look a bit sideways at the Orphic corpus – from Homeric Hymnal 29″ “Hestia, in the high dwellings of All, both deathless Gods and men who walk on earth, You have gained an everlasting abode and highest honor: glorious is Your portion and Your right.
+
+For without You mortals hold no banquet, – where one does not duly pour sweet wine in offering to Hestia both first and last.” \[Evelyn-White translation\]
 
 But what does all of this have to do with the Vedic sphere? And, more pointedly, Shakta theology?
 
@@ -147,15 +146,13 @@ Within the ritual manuals of the Shatapatha Brahmana, we observe several vitally
 
 We shall quote a verse to elucidate:
 
-“9 Now as to why he pours ghee on the high altar, while the fire is held (over it). Because the Gods said to Her \[Vak\] on that occasion, ‘The offering shall reach Thee before Agni,’ therefore the offering now does reach Her before (it reaches) Agni.  
-And because She said to the Gods, ‘Whatsoever blessing Ye will invoke through Me, all that shall be accomplished unto You!’ therefore the priests now invoke through Her that blessing upon the sacrificer, and it is fully accomplished unto him.”  
-\[SBr III 5 2, Eggeling translation\]
+“9 Now as to why he pours ghee on the high altar, while the fire is held (over it). Because the Gods said to Her \[Vak\] on that occasion, ‘The offering shall reach Thee before Agni,’ therefore the offering now does reach Her before (it reaches) Agni.
+
+And because She said to the Gods, ‘Whatsoever blessing Ye will invoke through Me, all that shall be accomplished unto You!’ therefore the priests now invoke through Her that blessing upon the sacrificer, and it is fully accomplished unto him.” \[SBr III 5 2, Eggeling translation\]
 
 However, we can go \*further\*.
 
-“23 And, accordingly, when he \[the sacrificer / ritualist\] pours ghee on the high altar, while the fire is held (over it)–  
-since the Gods said to Her on that occasion, ‘The offering shall reach Thee even before Agni’–then that offering does reach Her even before (it reaches) Agni; for this (high altar) is in reality Vâk. And when he raises the high altar, it is for the completeness of the sacrifice, for the sacrifice is Vâk (speech) and that (high altar) is Vâk.”  
-\[SBr III 5 1, Eggeling translation\]
+“23 And, accordingly, when he \[the sacrificer / ritualist\] pours ghee on the high altar, while the fire is held (over it)– since the Gods said to Her on that occasion, ‘The offering shall reach Thee even before Agni’–then that offering does reach Her even before (it reaches) Agni; for this (high altar) is in reality Vâk. And when he raises the high altar, it is for the completeness of the sacrifice, for the sacrifice is Vâk (speech) and that (high altar) is Vâk.” \[SBr III 5 1, Eggeling translation\]
 
 As we had noted elsewhere and in previous – “It is also good to note the direct linkage of Vak with the ‘high altar’ of the rites under discussion – as this comports with the etymology for ‘Hestia’ : which directly comes from an Ancient Greek term for a fireplace, ‘Hearth’, or altar : ἑστίᾱ (‘Estia’).” We shall explain the purport of this momentarily. But let us go \*further\* still !
 
@@ -177,25 +174,26 @@ Earlier, I suggested that the Universe was, in essence, Sound – Speech. I also
 
 We find a most intriguing ‘esonance’ for both of these principles when considering RV X 114 8 – an indelibly complex verse within a beautifully poised ‘allusive’ Hymn. We shall not seek to unpack its full purport here. But to briefly parse its meaning:
 
-“sahasradhā pañcadaśāny ukthā yāvad dyāvāpṛthivī tāvad it tat \|  
-sahasradhā mahimānaḥ sahasraṃ yāvad brahma viṣṭhitaṃ tāvatī vāk \|\|”
+“sahasradhā pañcadaśāny ukthā yāvad dyāvāpṛthivī tāvad it tat \| sahasradhā mahimānaḥ sahasraṃ yāvad brahma viṣṭhitaṃ tāvatī vāk \|\|”
 
 What does this mean?
 
-Sahasradha – ‘a thousandfold’; panchadasany– ‘fifteen’; uktha – ‘prayers’, ‘hymns’ (uktha is from ‘Vak-Thak’ – the ‘expressed’ (Thak) Vak); yavad (yavat) – ‘as far as’, ‘co-extensive with’, ‘to the bounds of’, ‘as long as’, etc.; dyavaprithvi – ‘heaven and earth’ (i.e. ‘everywhere’); tavad – ‘so great’, ‘so expansive’, ‘so much’; it – ‘indeed’; tat – ‘that’.  
+Sahasradha – ‘a thousandfold’; panchadasany– ‘fifteen’; uktha – ‘prayers’, ‘hymns’ (uktha is from ‘Vak-Thak’ – the ‘expressed’ (Thak) Vak); yavad (yavat) – ‘as far as’, ‘co-extensive with’, ‘to the bounds of’, ‘as long as’, etc.; dyavaprithvi – ‘heaven and earth’ (i.e. ‘everywhere’); tavad – ‘so great’, ‘so expansive’, ‘so much’; it – ‘indeed’; tat – ‘that’.
+
 Mahimanah – ‘Greatness’, ‘Glory’, ‘Majesty’, ‘Power’, ‘Might’; sahasram – ‘thousand’; brahma – here short for ‘brahman’, and meant in the older Vedic sense not necessarily as the Absolute, but rather ‘ritual formulation’, ‘prayer’, ‘hymnal’, ‘invocation’; visthitam – ‘standing’, ‘spreading’; Vak .. should by this point require no introduction!
 
 So, now that we have the individual words … the purport should become more readily apparent. The verse is stating that the Universe is permeated by the Expressions of Vak. Whether in the sense of Words or Song in Prayer – or the ‘animating’ Devi that underpins each and all of these and renders these more than mere flapping of gums and expulsion of air and meaningless except as atmospherics. These are not merely ‘permeating’ of the Universe – but are ‘co-extensive’ with. And, as we can see, the bounds of the ritual operations area (the ritual space and sphere) are likewise … both coterminous with the Universe and also with Her.
 
 There is more to it that can unquestionably be extracted, but it is enough for now.
 
-The point is – the ‘animating principle’ of the Ritual Space is Vak.  
-The ‘animating principle’ of the Universe is \*also\* Vak (and we may direct one’s attention to RV X 125 – the famed DeviSuktam – for more upon this general and vitally important theme !)  
-The Universe Itself, Entire, is \*also\* a (macroscopic, macrocosmic) Ritual Sphere.
+The point is – the ‘animating principle’ of the Ritual Space is Vak.
+
+The ‘animating principle’ of the Universe is \*also\* Vak (and we may direct one’s attention to RV X 125 – the famed DeviSuktam – for more upon this general and vitally important theme !) The Universe Itself, Entire, is \*also\* a (macroscopic, macrocosmic) Ritual Sphere.
 
 And what makes the Ritual Sphere? Why, the very same thing that makes a ‘House’ into a ‘Home’ per our Ancient Greek influenced development … or, rather, I should say our Proto-Indo-European mytholinguistic-originated conceptry.
 
-‘Hestia’ is, we surmise, from PIE\*h₂wes- (‘to dwell’, ‘to spend the night’), which, via PIE\*h₂wéseti (the suffix being a ‘thematic’), gives us Sanskrit ‘Vasati’ – a term, indeed, for a Dwelling, a House; and via PIE\*h₂wóstu (which underpins .. an array of other such terms in other IE languages), it produces ‘Vastu’ … a term that is rather ‘foundational’ to the conception of ‘Home’. And, from this latter, ‘Vastospati’ – ‘Protector of the Home (& Hearth)’, an epithet used with intriguing prominence for Rudra in the RigVeda etc.  
+‘Hestia’ is, we surmise, from PIE\*h₂wes- (‘to dwell’, ‘to spend the night’), which, via PIE\*h₂wéseti (the suffix being a ‘thematic’), gives us Sanskrit ‘Vasati’ – a term, indeed, for a Dwelling, a House; and via PIE\*h₂wóstu (which underpins .. an array of other such terms in other IE languages), it produces ‘Vastu’ … a term that is rather ‘foundational’ to the conception of ‘Home’. And, from this latter, ‘Vastospati’ – ‘Protector of the Home (& Hearth)’, an epithet used with intriguing prominence for Rudra in the RigVeda etc.
+
 There is some further intriguing resonancy viz. terminology for ‘Essence’ and \*its\* housing, which we do not think is at all coincidental. But we should, perhaps get into that at some other point in time.
 
 Our Universe, as with the conceptual ‘space’ that must surely underpin the above-mentioned, becomes ‘habitable’ in just the same fashion. Through Her – investing and empowering, emanating, carrying, speaking, and above all \*Smiling\*.

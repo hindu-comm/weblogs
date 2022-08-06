@@ -5,6 +5,7 @@ date = "2022-07-03"
 upstream_url = "https://aryaakasha.com/2022/07/03/on-the-wolves-of-rudra-the-terrific-well-storied-wolves-and-wolf-forms-of-the-indo-european-sky-father/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/07/03/on-the-wolves-of-rudra-the-terrific-well-storied-wolves-and-wolf-forms-of-the-indo-european-sky-father/).
 
 On The Wolves Of Rudra – The Terrific, Well-Storied Wolves And Wolf Forms Of The Indo-European Sky Father
@@ -23,27 +24,14 @@ Yet when we speak of Rudra – it is seemingly only for a rather more rarified a
 
 Allow us to change that. With a Prayer. This, drawn from the Calland translation of the Shankhayana Shrauta Sutras (aptly, perhaps, IV 20):
 
-“O Lord of the Earth, O Lord of the Intermediate Region  
-O Lord of the World, O Lord of the Spirits,  
-O Lord of the Great Spirit, spare our two footed and our four footed cattle  
-Treat kindly our two footed ones and our Four footed cattle  
-He who hates us and whom we hate (for him) art Thou difficult to satisfy  
-with Thy Shadow, because of Thy Insidiousness  
-The Heart is Thy Bow, the Mind is Thy Arrow, the Shooting is Thy Eye  
-As such we know Thee  
-Homage to Thee !  
-May Soma refresh Thee  
-Do not hurt me  
-The Two Who like Wolves with Jaws Wide Opened , roam in the forest  
-Bhava and Sarva, the sons of the Great God, (may) homage (be paid) and with the (four) hymns (beginning)  
-‘What might we say to Rudra” (RV I 43), “These prayers we offer to Rudra” (RV I 114), “Let, O Father of the Maruts ” (RV II 33), “These praises bring to Rudra of strong bow” (RV VII 46)”
+“O Lord of the Earth, O Lord of the Intermediate Region O Lord of the World, O Lord of the Spirits, O Lord of the Great Spirit, spare our two footed and our four footed cattle Treat kindly our two footed ones and our Four footed cattle He who hates us and whom we hate (for him) art Thou difficult to satisfy with Thy Shadow, because of Thy Insidiousness The Heart is Thy Bow, the Mind is Thy Arrow, the Shooting is Thy Eye As such we know Thee Homage to Thee ! May Soma refresh Thee Do not hurt me The Two Who like Wolves with Jaws Wide Opened , roam in the forest Bhava and Sarva, the sons of the Great God, (may) homage (be paid) and with the (four) hymns (beginning) ‘What might we say to Rudra” (RV I 43), “These prayers we offer to Rudra” (RV I 114), “Let, O Father of the Maruts ” (RV II 33), “These praises bring to Rudra of strong bow” (RV VII 46)”
 
-And rest assured – we have far further Roudran regalings to detail to our cause further on into this piece !  
-\[One hopes this enables us to say we managed to measure up to the standard set by S. Iyer with the fantastic artwork with which this (A)Arti-cle opened!\]
+And rest assured – we have far further Roudran regalings to detail to our cause further on into this piece ! \[One hopes this enables us to say we managed to measure up to the standard set by S. Iyer with the fantastic artwork with which this (A)Arti-cle opened!\]
 
 However, this conception of the Wolf in relation to the Deific is also known ‘midst the Classical sphere. And we shall come to cover this in due course viz. particular observances pertaining to Zeus, Apollo, and of course, Leto or Latona.
 
 Yet we do find it useful to begin with a brief etymological point favourably illuminated via the Ancient Greek.
+
 
 **Lykeios – On The Wolves of Light and Lycia \[ I \]**
 
@@ -57,6 +45,7 @@ This suite of co-occurrence helps to account for the otherwise most curious situ
 
 Yet these are peripheral matters to us. And we ought best keep moving.
 
+
 **The Wolves Who Stalk Between The Stars \[ II \]**
 
 The Lycians, we find to the East of the Hellenics – and it is therefore somewhat appropriate to hear of ‘Morning Pre-Dawn’ ‘Gloaming’ light in such regard. However there is a rather more direct means via which we may seek to explicate this potential ‘Light’ root for Apollo Lykeios.
@@ -69,12 +58,12 @@ Some corroboration for my theorizing may, perhaps, be offered by SBr XI 1 5, whe
 
 So … I would posit this notion of the ‘Wolf Form’ of the Sky Father being something along the lines of ‘The Wolf That Stalks Between The Stars” – yet before somebody makes the inverted-suggestion, we do NOT mean this in anything like the sense of the Nordic Hati Hróðvitnisson (another ‘Son of Famous Wolf’, it should seem … but, of course, a dark and devilish counterpart to the Divine Great Wolf Whom we should righteously hail). Instead, we contend that this *particular* Wolf is, in addition to being a Hunter – is a Guardian.
 
+
 **De Natura Lupōrum – The ‘Temple Wolf’, The Custodes of the Holy Ground; The Guardian Typology of the Wolf-Born Lord of the Bow \[ III \]**
 
 This brings us back to that work of Aelian whom we had mentioned just above. We shall quote the passage in full, for reasons that shall become apparent subsequently:
 
-“\[26\] G The neck of a wolf is short and compressed; the animal is thus incapable of turning but always looks straight ahead. And if it wants to look back at any time, it turns its whole body. It has the sharpest sight of any animal, and indeed it can even see at night when there is no moon. Hence the name Lycophos (wolf’s-light, i.e. gloaming) is applied to that season of the night in which the wolf alone has light with which Nature provides him. And I think that Homer gives the name \[Il. 7. 433\] ‘ twilight of the night,’ to the time during which wolves can see to move about. And they say that the wolf is beloved of the Sun \[Helios\]; and there are those who assert that the year is called Lycabas in honour of this animal. It is said also that Apollo takes pleasure in the wolf, and the reason which is commonly reported has reached me too. It is this : they say that the god was born after Leto had changed herself into a she-wolf. That is why Homer speaks of ‘ the wolf-born lord of the bow ‘ \[Il. 4.101 \] . That is why, as I learn, at Delphi a bronze wolf is set up, in allusion to the birth-pangs of Leto. Others however deny this, maintaining that it was because a wolf gave information that offerings had been stolen from the temple and had been buried by the sacrilegious thieves. For it made its way into the temple and with its mouth pulled one of the priests by his sacred robe and drew him to the spot in which the offerings had been hidden, and then proceeded to dig the spot with its forepaws.”  
-\[A.F.Scholfield Translation, Attalus edition\]
+“\[26\] G The neck of a wolf is short and compressed; the animal is thus incapable of turning but always looks straight ahead. And if it wants to look back at any time, it turns its whole body. It has the sharpest sight of any animal, and indeed it can even see at night when there is no moon. Hence the name Lycophos (wolf’s-light, i.e. gloaming) is applied to that season of the night in which the wolf alone has light with which Nature provides him. And I think that Homer gives the name \[Il. 7. 433\] ‘ twilight of the night,’ to the time during which wolves can see to move about. And they say that the wolf is beloved of the Sun \[Helios\]; and there are those who assert that the year is called Lycabas in honour of this animal. It is said also that Apollo takes pleasure in the wolf, and the reason which is commonly reported has reached me too. It is this : they say that the god was born after Leto had changed herself into a she-wolf. That is why Homer speaks of ‘ the wolf-born lord of the bow ‘ \[Il. 4.101 \] . That is why, as I learn, at Delphi a bronze wolf is set up, in allusion to the birth-pangs of Leto. Others however deny this, maintaining that it was because a wolf gave information that offerings had been stolen from the temple and had been buried by the sacrilegious thieves. For it made its way into the temple and with its mouth pulled one of the priests by his sacred robe and drew him to the spot in which the offerings had been hidden, and then proceeded to dig the spot with its forepaws.” \[A.F.Scholfield Translation, Attalus edition\]
 
 We would note the Wolf as ‘beloved of the Sun’ with some interest – as it could pertain to a number of things in our yet-emergent comparative schema. One of which being the Wolf as ‘favoured’ by the Sun, as in the Sky Father; another as in the Wolf as in – well, *beloved* of the Sun … either as a Wife in the case of a Male Solar God (i.e. the Sky Father, most likely), or in the case of a Female Solar Goddess (in which case, the Wolf should prove Her Husband). We shall elaborate upon this in due course. Oh, and just briefly – the rendition of “wolf-lord born of the bow” for Apollo is perhaps not quite correct. In fact, as the Murray translation puts it: “the wolf-born god, famed for his bow” should prove better – the actual word being κλυτότοξος (‘Klytotoxos’), with the foreparticle being coterminous with that justly-famed ‘Kleos’ (‘Kleos Aphthiton’ – ‘Undying Glory’ – being the watchword of the Homeric Hero; or Sravas Aksitam if we are being Vedic) and interestingly from the same root that gives us modern English ‘Loud’; ‘Toxon’ we shall perhaps examine at some other point but suffice to say it means ‘Bow’, and may have some relation to an apparently Scythian loanword into Latin to refer to the wood of the Yew (or its manufactured projectiles). In terms of a ‘famous’ Archer – in Vedic perception we need look no further than Sarva.
 
@@ -84,9 +73,7 @@ However what has drawn our attention is this *other* interpretation which Aelian
 
 That of the Wolf Murti being present at the Temple “because a wolf gave information that offerings had been stolen from the temple and had been buried by the sacrilegious thieves. For it made its way into the temple and with its mouth pulled one of the priests by his sacred robe and drew him to the spot in which the offerings had been hidden, and then proceeded to dig the spot with its forepaws.”
 
-This is corroborated in the position provided for us by Pausanias:  
-“Near the great altar is a bronze wolf, an offering of the Delphians themselves. They say that a fellow robbed the god of some treasure, and kept himself and the gold hidden at the place on Mount Parnassus where the forest is thickest. As he slept a wolf attacked and killed him, and every day went to the city and howled. When the people began to realize that the matter was not without the direction of heaven, they followed the beast and found the sacred gold. So to the god they dedicated a bronze wolf.”  
-\[X 14, Jones & Ormerod translation\]
+This is corroborated in the position provided for us by Pausanias: “Near the great altar is a bronze wolf, an offering of the Delphians themselves. They say that a fellow robbed the god of some treasure, and kept himself and the gold hidden at the place on Mount Parnassus where the forest is thickest. As he slept a wolf attacked and killed him, and every day went to the city and howled. When the people began to realize that the matter was not without the direction of heaven, they followed the beast and found the sacred gold. So to the god they dedicated a bronze wolf.” \[X 14, Jones & Ormerod translation\]
 
 As you can see, he details the same incident occurring at the same place, and – to my mind – justly commemorated in the same fashion. Except with one key difference: there it is not that the Wolf has only alerted the authorities as to a theft and the ill-gotten loot’s secreted location – rather, the Wolf has, in fact, dispatched the evildoer himself via the mechanism of tooth and claw.
 
@@ -96,16 +83,17 @@ Now … the question becomes – can we *substantiate* this claim in any way ?
 
 And, as a matter of fact … we can. In a manner that helpfully further buttresses some of the comparative Indo-European theological linkages of which we had been pursuing driving at earlier.
 
+
 **Sālāvṛka – The Wolves of the Temple, the Enclosure And Ancestral Warding – ‘Cruel Sanction’ Meted Out Via The Howling Hounds Of Heaven \[ IV \]**
 
 We might also, at this point, invoke KYV VI 2 7 – which includes as its conclusion a set of verses for the ‘cleansing’ of an altar-space of the presence of Demons:
 
-“‘May the cry of Indra guard thee in front with the Vasus’, he says; verily he sprinkles it from the quarters. ‘Since the high altar has gone to the gods, here must we conquer’ (thought) the Asuras, and with bolts ready they advanced on the gods. Them the cry of Indra with the Vasus repelled in front \[4\]; the swift of mind with the Pitrs on the right, the wise one with the Rudras behind, and Viçvakarman with the Adityas on the left. In that he sprinkles the high altar, verily thus does the sacrificer repel his foes from the quarters. Indra gave the Yatis to the Salavrkas; them they ate on the right of the high altar. Whatever is left of the sprinkling waters he should pour on the right of the high altar; whatever cruel is there that he appeases thereby. He should think of whomever he hates; verily he brings affliction upon him.”  
-\[Keith translation\]
+“‘May the cry of Indra guard thee in front with the Vasus’, he says; verily he sprinkles it from the quarters. ‘Since the high altar has gone to the gods, here must we conquer’ (thought) the Asuras, and with bolts ready they advanced on the gods. Them the cry of Indra with the Vasus repelled in front \[4\]; the swift of mind with the Pitrs on the right, the wise one with the Rudras behind, and Viçvakarman with the Adityas on the left. In that he sprinkles the high altar, verily thus does the sacrificer repel his foes from the quarters. Indra gave the Yatis to the Salavrkas; them they ate on the right of the high altar. Whatever is left of the sprinkling waters he should pour on the right of the high altar; whatever cruel is there that he appeases thereby. He should think of whomever he hates; verily he brings affliction upon him.” \[Keith translation\]
 
 Now as for what this means – well, ‘Salavrka’ ( सालावृक – however also encountered as शालावृक : ‘Shalavrka’) combines our familiar Sanskrit ‘Vrka’ ( वृक ), which means ‘Wolf’, with a foreparticle. In later texts we tend to find the combination term utilized in a somewhat … broader sense – to mean a hyena, jackal, or wild dog. Sometimes it even seems to be deployed to refer to a deer or a monkey. Yet in that archaic Taittiriya Samhita setting, I have little doubt as to its meaning.
 
-Here, the foreparticle, ‘Sala’, has done something interesting. In the original TS YV text, it should seem to be साल (Sala) rather than शाल (Shala). The two *do* have significantly overlapping senses, however it is useful to our purposes to make a bit of a distinguishment.  
+Here, the foreparticle, ‘Sala’, has done something interesting. In the original TS YV text, it should seem to be साल (Sala) rather than शाल (Shala). The two *do* have significantly overlapping senses, however it is useful to our purposes to make a bit of a distinguishment.
+
 ‘Sala’ would refer to a ‘Wall’, a ‘Walled Enclosure’; ‘Shala’ would refer to a ‘Building’ (with walls, ostensibly). In later texts, ‘Shala’ *does* get used to mean a ‘Temple’ (ostensibly by the time of the AtharvaVeda), and of course, a ‘House’ – it’s from PIE \*ḱel-, which refers to a ‘cover’, and also gives us our modern English ‘Hall’ (via K =\> H sound-shift). ‘Sala’ \*can\* be utilized in this sense (just as ‘Shala’ can also be used in that other sense of the ‘wall’, ‘fence’, ‘perimeter’) – yet here it is seemingly being utilized in that older notion of an exterior boundary.
 
 Why? Because this ritual instruction is from the archaic Vedic age – wherein fixed, settled Temples were not (yet) a thing; and instead, the ‘ritual space’ was prepared anew outside to purpose. Hence, the exterior barrier to the ritual space is not the wall of a Temple (Shala), but rather that which ‘covers’ of a different kind – a ‘wall’. We can tell this, in part, due to KYV VI 2 4, wherein Indra Himself takes the form of a Salavrka in order to race (thrice) around the perimeter of the mythic ‘inhabitable space’ that forms the template for the Vedic ritual space, in order to win it from the Demons. That is to say – Indra directly turns into a Wolf (Vrka) in order to delineate this Boundary (Sala), and is therefore in the form of the Salavrka.
@@ -126,8 +114,8 @@ To bring things back to the actual liturgy itself – we find it expressly said 
 
 The Sanskrit word utilized there is ‘Kruram’ – an interesting choice, as it comes from PIE \*krewh₂- (i.e. ‘blood’, but ‘cold blood’, in the sense of death or indeed ‘raw meat’, and savagery). We are familiar with ‘Kravyada’ (again, same PIE root) in other Vedic contexts to effectively mean ‘Carnivore’ and implicitly incorporating the Wolf within its scope; however something else is meant to be entailed here.
 
-‘Krura’ ( क्रूर ) itself means not only ‘Cruel’ or ‘Bloody’ – but also ‘Wrathful’, ‘Pitiless’, ‘Savage’, ‘Formidable’, ‘Frightful’, ‘Violent’, ‘Aggressive’, ‘Harsh’, and rather ‘Barbaric’. It is therefore likely to nobody’s especial surprise that it is also an attested Name of Rudra.  
-  
+‘Krura’ ( क्रूर ) itself means not only ‘Cruel’ or ‘Bloody’ – but also ‘Wrathful’, ‘Pitiless’, ‘Savage’, ‘Formidable’, ‘Frightful’, ‘Violent’, ‘Aggressive’, ‘Harsh’, and rather ‘Barbaric’. It is therefore likely to nobody’s especial surprise that it is also an attested Name of Rudra.
+
 The utilization of ‘Kruram’ to convey the nature of the Guardian force which dwells in that quarter of the ritual space is therefore, likely uncoincidental. A Wolf God’s Specter invoked in amidst the Wolves. (Although before somebody says it – yes, yes we *do* also have *the Rudras* given place in the ‘behind’ space to the Rite’s focal. This does not vitiate such a Roudran quality also being present in another quarter – not least as the figure stated to be leading these Rudras in the Behind Quarter, is ‘Pracetas’ … an enigmatic sort that, going off Sayana’s commentary on the RV etc., is encountered as a hailing for Varuna. Although other interpretations are certainly possible, including the notion of a more generalized ‘quality’ executor rather than a specific major Deity)
 
 In any case, and with specific aim at the Demonic forces thusly targeted through the ritual invocation and commentary in question, we note with relish the conclusion:
@@ -137,6 +125,7 @@ In any case, and with specific aim at the Demonic forces thusly targeted through
 The Sacrificer / Priest, we may say, ‘Sends The Wolves’ ‘gainst his foeman. The ‘Wild Hunt’ typology, no doubt, continues to resonate via inference.
 
 (As a point of perhaps comparative interest, the SBr liturgy for (broadly) the same ritual undertaking , SBr III 5 2 8 , actually makes the above process inherent in that last line rather optional. And, intriguingly, what is entailed is rather more overt – an “exorcism” (to borrow from the Eggeling translation – going through particle-by-particle on that delicious phrase ‘abhicaredādiśedidamahaṃ’ would be rather beyond the scope of this piece) … one wherein it is the discontent (‘Ashanta’) and ‘sorrow’ (‘Shocati’) of Vak which is ‘weaponized’ in such a fashion. Vak, as we had noted earlier, being here encountered in the forms of both the Altar (compare Hellenic Hestia) … and also a very annoyed Lioness – another Carnivore of the Wilds, encountered in this situation instead of the Salavrka yet with a not entirely uncotermious ambit of a ‘Devourer’ of those who would seek to violate the dictates of propriety and Cosmic Law.!)
+
 
 **Bhairava Kshetrapala – The Terrifying Guardian Of The Temple , Castellan Of The Holy City And His Hounds Of Furious Vengeance And Law’s Upholding \[ V \]**
 
@@ -150,7 +139,8 @@ Also of interest for our purposes concerns the folk-telling of an incident from 
 
 That would prove an exemplary enough instance of our typology by itself. Yet the situation then develops *further*. The soldiers that had been bitten by the canine fangs then *themselves* underwent a ‘change’ of a sort – they began to act with ‘madness’, and in fact with a certain canine behavior which saw them begin to bite other soldiers *themselves*. The whole thing was so disruptive as to cause the Mughal executor in charge of the operation (some accounts somewhat fancifully have it as Aurangzeb himself) to flee.
 
-It should seem simplistic to seek to explicate the above as rabies or something of the like. Yet rabies does not, to my knowledge, have an onset of minutes or seconds. I am not an infectious diseases specialist, so it shall have to be to others to seek to provide a bacteriological or viral agent that could be at play here. Yet I do not know that that is necessary. Rather, the account should seem to my mind to recall with some interest those tellings we are familiar with from the Classical sphere wherein a certain transgressor or transgressors upon the bounds of religious propriety suffers such a fate. We recall the popular telling of the myth of Lykaon – the Greek king that was transformed into a wolf by Zeus due to the former’s outrage in daring to serve an honoured guest the human flesh of a slaughtered child.  
+It should seem simplistic to seek to explicate the above as rabies or something of the like. Yet rabies does not, to my knowledge, have an onset of minutes or seconds. I am not an infectious diseases specialist, so it shall have to be to others to seek to provide a bacteriological or viral agent that could be at play here. Yet I do not know that that is necessary. Rather, the account should seem to my mind to recall with some interest those tellings we are familiar with from the Classical sphere wherein a certain transgressor or transgressors upon the bounds of religious propriety suffers such a fate. We recall the popular telling of the myth of Lykaon – the Greek king that was transformed into a wolf by Zeus due to the former’s outrage in daring to serve an honoured guest the human flesh of a slaughtered child.
+
 However, there is something rather more going on with the Lykaon myth as attested in other source-material, and we shall come to that in due course.
 
 This incident does draw out a rather useful point of distinction to the ‘canid’ sphere. For on the one hand, we have those ‘wild’ dogs that arrive and act as the direct enforcers of the God’s Will, upholders and protectors of the religious sphere (whether physically or in terms of propriety – and, in this particular case, both at once). However we *also* have these human would-be iconoclastic interlopers – who wind up *acting* like wild animals (indeed, directly like their righteous assailants) due to the Curse of the God that their actions have made trenchantly manifest. It should prove altogether *far* too simplistic – and indeed downright occlusionary to both our purpose and any hope of accuracy to artificially conflate these two categories. We shall addeuce and further attest that which we mean upon this score towards the conclusion of this overarching piece.
@@ -171,48 +161,53 @@ As well they should be ! For one must be truly formidable and excellently terrif
 
 Yet we can take things further still – and, as applies Rudra, yet more directly as well in train.
 
+
 **Sirius Amidst Vastopati – Space Wolf : The Lupine Lord Of Over-Night And Terrific Starlight (Tvesha) Glittering In The Darkness \[ VI \]**
 
 RV VII 55, dedicated to Vastopati, makes for intriguing reading in this light. Here we have a Hymnal dedicated to a (bright) ‘Son of Sarama’ – that is to say, a Wolf. Sarama being the famed Wolf(-Mother) amidst the Gods, and Herself quite the Guardian – as demonstrated in Her Major Hymnal, RV X 108, wherein She harries the Panis and intimidates those demons into abandoning their stronghold and stolen wealth of cows. We shall simply quote directly the Griffith translation and then provide some brief annotation:
 
-1 VASTOSPATI, Who killest all disease and wearest every form,  
-Be an auspicious Friend to us.  
-2 When, O bright Son of Saramā, Thou showest, tawny-hued! Thy teeth,  
-They gleam like lances’ points within Thy mouth when Thou wouldst bite; go Thou to steep.  
-3 Saramā’s Son, retrace Thy way: bark at the robber and the thief.  
-At Indra’s singers barkest Thou? Why dust Thou seek to terrify us? Go to sleep.  
-4 Be on Thy guard against the boar, and let the boar beware of Thee.  
-At Indra’s singers barkest Thou? Why dost Thou seek to terrify us? Go to sleep.  
-5 Sleep mother, let the father sleep, sleep dog and master of the house.  
-Let all the kinsmen sleep, sleep all the people who are round about.  
-6 The man who sits, the man who walks, and whosoever looks on us,  
-Of these we closely shut the eyes, even as we closely shut this house.  
-7 The Bull Who hath a thousand horns, Who rises up from out the sea,—  
-By Him the Strong and Mighty One we lull and make the people sleep.  
-8 The women sleeping in the court, lying without, or stretched on beds,  
-The matrons with their odorous sweets these, one and all, we lull to sleep.
+1 VASTOSPATI, Who killest all disease and wearest every form, Be an auspicious Friend to us.
+
+2 When, O bright Son of Saramā, Thou showest, tawny-hued! Thy teeth, They gleam like lances’ points within Thy mouth when Thou wouldst bite; go Thou to steep.
+
+3 Saramā’s Son, retrace Thy way: bark at the robber and the thief.
+
+At Indra’s singers barkest Thou? Why dust Thou seek to terrify us? Go to sleep.
+
+4 Be on Thy guard against the boar, and let the boar beware of Thee.
+
+At Indra’s singers barkest Thou? Why dost Thou seek to terrify us? Go to sleep.
+
+5 Sleep mother, let the father sleep, sleep dog and master of the house.
+
+Let all the kinsmen sleep, sleep all the people who are round about.
+
+6 The man who sits, the man who walks, and whosoever looks on us, Of these we closely shut the eyes, even as we closely shut this house.
+
+7 The Bull Who hath a thousand horns, Who rises up from out the sea,— By Him the Strong and Mighty One we lull and make the people sleep.
+
+8 The women sleeping in the court, lying without, or stretched on beds, The matrons with their odorous sweets these, one and all, we lull to sleep.
 
 Even were we not in possession of the additional constellation of identification information provided elsewhere within the scriptural canon, it should prove reasonably straightforward to identify just Whom is meant here.
 
 It is Rudra. Hence the commentary over being able to dispel disease. Hence also the rather familiar pattern wherein the Priests effectively seek to placate Him and ask that His baleful attentions be directed elsewhere. Something that we shall also see with deference to Sirius specifically in a little-known Hellenic occurrence provided for us by Apollonius of Rhodes in an occurrence we shall detail in due course.
 
-The recent Jamison/Brereton RigVeda translation makes an intriguing point in its commentary pertaining to the ‘Bull Who Hath A Thousand Horns’ in relation to the Moon. It is certainly not improbable. Although we should, perhaps, note that Sayana commentary instead suggests said Bull to in fact be the Sun. And then goes further in linking this Solar potency to the figure of Kumara – here, we would infer, the *earlier* Vedic conception (also Agni-Rudra) rather than the later Son of the Sky Father referred to via the same name (i.e. Skanda).  
+The recent Jamison/Brereton RigVeda translation makes an intriguing point in its commentary pertaining to the ‘Bull Who Hath A Thousand Horns’ in relation to the Moon. It is certainly not improbable. Although we should, perhaps, note that Sayana commentary instead suggests said Bull to in fact be the Sun. And then goes further in linking this Solar potency to the figure of Kumara – here, we would infer, the *earlier* Vedic conception (also Agni-Rudra) rather than the later Son of the Sky Father referred to via the same name (i.e. Skanda).
+
 But this is not of chief interest to us here, so we shall move forward.
 
 What *is* is that theonymic epithet – Vastopati (or Vastospati).
 
 I shall quote from some of my own previous work:
 
-“This casts the theonymic of Rudra so prominent in the Vedas – ‘Vastopati’ ( वास्तोष्पतिं ), ‘Lord of the Dwelling’ – into a most intriguing light (that’s a Sanskrit pun for those of you in the audience who … you know what? We’ll leave that for now.).  
-  
-The PIE root in that case, viz. ‘Vaastu’, is \*h₂wes- – ‘to dwell’, of course, but also to do so on a much more temporary basis (consider Ancient Greek ἄεσᾰ – to spend the night somewhere). Oh, and to pick up upon that pun briefly aforementioned … वस्तु (‘Vastu’), as in ‘Light’, or ‘Essence’. In this, it may have some coterminity with Proto-Germanic \*wesaną – ‘to be’, ‘to exist’, ‘to remain’. Certainly, the latter’s immediate descendant, PG \*wistiz – ‘essence’, ‘nature’, ‘being’ – should seem eerily pertinent herein.”  
-\[…\]  
-“Now, intriguingly, in the most archaic direct textual expression of the situation which we have, in the Xth Mandala of the RigVeda, Rudra is manifested from the combined anger of the rest of the Pantheon – and is hailed as वास्तोष्पतिं : Vastopati.
+“This casts the theonymic of Rudra so prominent in the Vedas – ‘Vastopati’ ( वास्तोष्पतिं ), ‘Lord of the Dwelling’ – into a most intriguing light (that’s a Sanskrit pun for those of you in the audience who … you know what? We’ll leave that for now.).
+
+The PIE root in that case, viz. ‘Vaastu’, is \*h₂wes- – ‘to dwell’, of course, but also to do so on a much more temporary basis (consider Ancient Greek ἄεσᾰ – to spend the night somewhere). Oh, and to pick up upon that pun briefly aforementioned … वस्तु (‘Vastu’), as in ‘Light’, or ‘Essence’. In this, it may have some coterminity with Proto-Germanic \*wesaną – ‘to be’, ‘to exist’, ‘to remain’. Certainly, the latter’s immediate descendant, PG \*wistiz – ‘essence’, ‘nature’, ‘being’ – should seem eerily pertinent herein.” \[…\] “Now, intriguingly, in the most archaic direct textual expression of the situation which we have, in the Xth Mandala of the RigVeda, Rudra is manifested from the combined anger of the rest of the Pantheon – and is hailed as वास्तोष्पतिं : Vastopati.
 
 This term – Vastopati, Vastos Patim – is the Lord / Protector \[‘Pati’\] of the House or Dwelling \[‘Vaastu’\]; however it is perhaps interesting to consider the related ‘Vastu’ – which sets out an ambit for definitional interpretation corresponding more closely to ‘Reality’, ‘Divine Plan’ (perhaps we may suggest रचना – ‘Rachana’ – the Divine Plan in Her Active Immanentization), or for that matter, given the nature of the Roudran appearance there in RV X 61 7, with वास्तु (‘Vaastu’), referring to the Light and Direction of the Universe (c.f. the Eight Vasus; and an intriguing saliency given that it is ‘Diva’ – the ‘Light of Heaven’ – implicitly under such threat in the first place).”
 
-Now I have quite deliberately quoted from one of those pieces in particular, as it details an evidently very archaic Indo-European mythic episode – wherein the Sky Father manifests (or is manifested as) a Guardian … and, rather pointedly, a Wolf.  
-  
+Now I have quite deliberately quoted from one of those pieces in particular, as it details an evidently very archaic Indo-European mythic episode – wherein the Sky Father manifests (or is manifested as) a Guardian … and, rather pointedly, a Wolf.
+
 We have detailed this typology at much greater length in my earlier ‘[Of Artemis And Actaeon, The Wolf As Defender Of The Goddess – A Forensic Theology Examination Of A Classical Myth In The Vedas And In The Stars](https://aryaakasha.com/2021/11/20/of-artemis-and-actaeon-the-wolf-as-defender-of-the-goddess-a-forensic-theology-examination-of-a-classical-myth-in-the-vedas-and-in-the-stars/)‘. But suffice to say that we find not only Apollo acting to defend Artemis in such a manner (acting as a Huntsman) … but also Zeus acting to defend Semele through hunting-canid intervention. And, of course, Artemis defended Herself through exactly the same fashion. That most excellent of all-purpose problem-solving techniques: Wolves.
 
 In the Vedic typology, still found amidst the Stars, we find this “Vastopati’ occurrent as the Great Huntsman (Mrgavyadha, per Sayana’s commentary upon RV X 61 7) – the Wolf-Star Who shoots a three-pointed Arrow (known in the West as Orion’s Belt) at His the prey (the would-be interferer with His Wife). That Wolf-Star, of course, being Sirius. Just as it is in the West. But more upon that some other time. Perhaps we might term Him a ‘Space’ Wolf (this goes also with another sense to the luminous ‘Vastu’ aforementioned in terms of ‘dimensionality’).
@@ -225,25 +220,23 @@ However, as applies the Light of the Wolf, we would be extraordinarily remiss if
 
 “Ancient Greek ‘Sirius’ (‘Σείρῐος’ – ‘Seirios’, as we have met before), is speculated to harbour an underlying, archaic meaning that is, effectively, ‘Searing’, ‘Scorching’, ‘Glowing’; and/or, on a non-exclusive basis, ‘Shining’, ‘Sparkling’, ‘Flickering’.
 
-The etymological root for this ‘Sirius’ / ‘Σείρῐος’ – is supposedly Ancient Greek ‘Seiso’ / ‘σείω’, also the root of our modern English ‘Seismic’. Unsurprisingly, it means ‘To Shake’.  
-\[…\]  
-The point is – ‘Shaking’ as the result of being ‘Seized’ by this Divine Investiture, is exactly as we should expect. Becoming, as we might suggest, akin to the Ulfhednar – the Wolf-Skin / Wolf-Head Warriors, and their assorted Indo-European cognate expressions.  
-\[…\]  
-It is perhaps no wonder that the cognates for ‘Sirius’ in Sanskrit – ‘Tvis’ ( त्विष् ) and ‘Tvesha’ ( त्वेष ) have such relevant meaning-fields. The latter, encompassing not only the illumination of Brightness, Glittering quality – but also the bringing of Fear, and possessing the quality of emphatic, impetuous, vehement, forceful action amidst Their radiancy of Glory.  
-\[…\]  
-‘Tvis’ is even more intriguing in this manner – For in addition to the ‘Shining’, ‘Sparking’, ‘Blazing’, and general incandescent Brilliancy … we find Vehemence, Violence, Beauty, Authority, Agitation (especially of the ‘Violent’ kind), Desire or Wish, … and Speech.”
+The etymological root for this ‘Sirius’ / ‘Σείρῐος’ – is supposedly Ancient Greek ‘Seiso’ / ‘σείω’, also the root of our modern English ‘Seismic’. Unsurprisingly, it means ‘To Shake’.
+
+\[…\] The point is – ‘Shaking’ as the result of being ‘Seized’ by this Divine Investiture, is exactly as we should expect. Becoming, as we might suggest, akin to the Ulfhednar – the Wolf-Skin / Wolf-Head Warriors, and their assorted Indo-European cognate expressions.
+
+\[…\] It is perhaps no wonder that the cognates for ‘Sirius’ in Sanskrit – ‘Tvis’ ( त्विष् ) and ‘Tvesha’ ( त्वेष ) have such relevant meaning-fields. The latter, encompassing not only the illumination of Brightness, Glittering quality – but also the bringing of Fear, and possessing the quality of emphatic, impetuous, vehement, forceful action amidst Their radiancy of Glory.
+
+\[…\] ‘Tvis’ is even more intriguing in this manner – For in addition to the ‘Shining’, ‘Sparking’, ‘Blazing’, and general incandescent Brilliancy … we find Vehemence, Violence, Beauty, Authority, Agitation (especially of the ‘Violent’ kind), Desire or Wish, … and Speech.”
 
 Now we mention that, of course, because the Indo-European mythopoetic canon does. And quite pointedly, at that. RV I 114 4 begins with ‘Tvesam’ in its invocation to the ‘Wandering Kavi’ (the word utilized as ‘Wandering’, is in fact Vanku – which means to proceed in a ‘crooked’ manner (an indirect trajectory?) or with an emphatic swiftness) – asking for Aid for the Worshipper, and that His Divine Wrath be directed elsewhere (incipiently toward the justly-deserving enemy yonder). The Hymnal itself is one of those that had been cited in the Shankhayana Shrauta Sutra section with which we had opened this (A)Article – and rather prominently features Rudra called upon as the “Lord of Heroes”. We mention *that* due to the Iliad specifically:
 
 Diomedes, for instance, in Book V, is described having been invested with the ‘Menos’ (‘Furor’) potency by Athena (another deific expression of close confederacy with Rudra – long story, have covered at length elsewhere), is described thusly:
 
-“Then Pallas Athena put valor \[‘Menos’\] into the heart of Diomedes, son of Tydeus, that he might excel all the other Argives, and cover himself with glory. She made a stream of fire flare from his shield and helmet like the star \[Sirius\] that shines most brilliantly in summer after its bath in the waters of Okeanos – even such a fire did She kindle upon his head and shoulders as She bade him speed into the thickest uproar of the fight.”  
-\[Butler translation\]
+“Then Pallas Athena put valor \[‘Menos’\] into the heart of Diomedes, son of Tydeus, that he might excel all the other Argives, and cover himself with glory. She made a stream of fire flare from his shield and helmet like the star \[Sirius\] that shines most brilliantly in summer after its bath in the waters of Okeanos – even such a fire did She kindle upon his head and shoulders as She bade him speed into the thickest uproar of the fight.” \[Butler translation\]
 
 Or, in Book XXII and with deferent regard for that other of Athena’s Chosen, Achilles:
 
-“On this, with fell intent he made towards the city, and as the winning horse in a chariot race strains every nerve when he is flying over the plain, even so fast and furiously did the limbs of Achilles bear him onwards. King Priam was first to note him as he scoured the plain, all radiant as the star which men call Orion’s Hound, and whose beams blaze forth in time of harvest more brilliantly than those of any other that shines by night; brightest of them all though he be, he yet sends an ill sign \[sêma\] for mortals, for he brings fire and fever in his train – even so did Achilles’ armor gleam on his breast as he sped onwards.”  
-\[Butler Translation\]
+“On this, with fell intent he made towards the city, and as the winning horse in a chariot race strains every nerve when he is flying over the plain, even so fast and furiously did the limbs of Achilles bear him onwards. King Priam was first to note him as he scoured the plain, all radiant as the star which men call Orion’s Hound, and whose beams blaze forth in time of harvest more brilliantly than those of any other that shines by night; brightest of them all though he be, he yet sends an ill sign \[sêma\] for mortals, for he brings fire and fever in his train – even so did Achilles’ armor gleam on his breast as he sped onwards.” \[Butler Translation\]
 
 Phrased another way and more succinctly (a challenge) – Sirius, the Terrifying Wolf-Star and Hunter (Lubdhaka ( लुब्धक ) and Mrigavyadha ( मृगव्याध ) – both terms for ‘Hunter’, that are explicitly that of Rudra) shines not only up above ‘midst the Firmament … but also within the hearts (and brows) of those most illustrious of the Heroes aforementioned. Thus situating They, too, as part of this Star-Wolf mytho-poetic and no doubt ritualine also tradition.
 
@@ -252,6 +245,7 @@ And if They strike such balestruck apprehensiveness into those officially *favou
 Our ‘sin’, should we have had one, is collectively failing to maintain this vitally necessary differentiation. And therefore so frequently encountering this depictive description of the Wolf as ferociously unconstrained by *us* and of demonstrably lethal proficiency … we have forgotten that it is not *us* who ought be most afraid of the Wolf.
 
 Provided that He is *Our* Wolf – Our Champion, Our Hero, Our Holy (Infused) Warrior – then just as we are a Gods-Fearing People … So, Too, Shall The Enemy Learn That They Have *Much* To Fear.
+
 
 **The Sons of the Wolf Mother – A Lupine Scourge ‘Gainst The Interloper \[ VII \]**
 
@@ -263,15 +257,13 @@ Aristotle, in his ‘History of Animals’ (‘Historia Animalium’ … or, if 
 
 Or, as Aelian had put it, in the manner we had seen (and briefly sought to somewhat correct viz. the Iliad rendering), earlier:
 
-“It is said also that Apollo takes pleasure in the wolf, and the reason which is commonly reported has reached me too. It is this : they say that the god was born after Leto had changed herself into a she-wolf. That is why Homer speaks of ‘ the wolf-born lord of the bow ‘ \[Il. 4.101 \] . That is why, as I learn, at Delphi a bronze wolf is set up, in allusion to the birth-pangs of Leto.”  
-\[A.F.Scholfield Translation, Attalus edition\]
+“It is said also that Apollo takes pleasure in the wolf, and the reason which is commonly reported has reached me too. It is this : they say that the god was born after Leto had changed herself into a she-wolf. That is why Homer speaks of ‘ the wolf-born lord of the bow ‘ \[Il. 4.101 \] . That is why, as I learn, at Delphi a bronze wolf is set up, in allusion to the birth-pangs of Leto.” \[A.F.Scholfield Translation, Attalus edition\]
 
 Now, to pick up upon that point in a slightly different directly, we should also like to quote Antoninus Liberalis’ ‘Metamorphoses’ (Celoria translation) :
 
 “§ 35 THE HERDSMEN: Menecrates from Xanthus tells this tale in his Lyciaca; also Nicander. Leto, after giving birth to Apollo and Artemis on the isle of Asteria, went to Lycia, taking her children with her, to the baths of Xanthus. As soon as she arrived in that land, she came first upon the spring of Melite and wanted very much to bathe her children there before going on to Xanthus. But some herdsmen drove her away so that their own cattle could drink at the spring. Leto made off and left Melite. Wolves came out to meet her and, wagging their tails, led the way, guiding her to the River Xanthus. She drank the water and bathed the babes and consecrated the Xanthus to Apollo while the land which had been called Tremilis she renamed Lycia \[Wolf Land\] from the wolves that had guided her. Then she returned to the spring to inflict a penalty on the herdsmen who had driven her away. They were then still washing their cattle besides the spring. Leto changed them all into frogs whose backs and shoulders she scratched with a rough stone. Throwing them all into the spring she made them live in water. To this day they croak away by rivers and ponds.”
 
-Why do we quote this? Because it presents the Wolf-Mother that we had aforementioned accompanied by rather helpful Wolves. ‘Guarded’ by Them, we may fairly impute, indeed !  
-However, there is another purpose.
+Why do we quote this? Because it presents the Wolf-Mother that we had aforementioned accompanied by rather helpful Wolves. ‘Guarded’ by Them, we may fairly impute, indeed ! However, there is another purpose.
 
 AtharvaVeda Śaunakīya VII 95 makes for intriguing reading with the addition of Whitney’s commentary. Griffith entitles the Hymnal as “An incantation against an undetected thief” – and were that the only point of saliency it should still prove useful for informing our overarching typology, per the much-aforementioned descriptions granted by Aelian. Which, to reference once more, has interlocutors “maintaining that it was because a wolf gave information that offerings had been stolen from the temple and had been buried by the sacrilegious thieves. For it made its way into the temple and with its mouth pulled one of the priests by his sacred robe and drew him to the spot in which the offerings had been hidden, and then proceeded to dig the spot with its forepaws.”
 
@@ -295,26 +287,24 @@ Now perhaps, of course, it is ‘coincidental’ that we find these notions – 
 
 As it should happen, Vultures (Grdha) are *also* to be found quite expressly in amidst the Animals of Rudra. AV-S XI 2, to Bhava and Sarva (those two aforementioned Forms of Rudra – Wolf-Forms, too, I might add, at least as we had earlier encountered Them in the Shankhayana Shrauta Sutras), makes a point of mentioning these – alongside an array of other such creatures … including not only the Wolves, but also our good friends the Ravens. Yes, just as with Odin – Rudra, too, has both Wolves and Ravens. As, funnily enough, does Apollo *also* have both Lupine and Corvid (more specifically, Crow – although in truth it is a somewhat artificial distinction) forms and emissarial associations.
 
-Indeed, AV-S XII 5 adds a further (by now, to our readership, no doubt quite familiar) figure to the midst: that of the Keshini (also found in AV-S XI – aptly enough, for example, in line 11 alongside the Canid contingent). A female spirit (or Devotee) of Fury and Vengeance (XII 5 48). Accompanied, of course, by – Vultures (XII 5 47) and Wolves (XII 5 49).  
+Indeed, AV-S XII 5 adds a further (by now, to our readership, no doubt quite familiar) figure to the midst: that of the Keshini (also found in AV-S XI – aptly enough, for example, in line 11 alongside the Canid contingent). A female spirit (or Devotee) of Fury and Vengeance (XII 5 48). Accompanied, of course, by – Vultures (XII 5 47) and Wolves (XII 5 49).
+
 We have detailed rather extensively elsewhere how Apollo’s female retinue(s) are close concordants of the Roudran (‘RudraGanika’) typology (see my ‘[RudraGanika – A Study In Eternal Return As Manifested Through The Sky Father’s Female Retinue Across The Indo-European World](https://aryaakasha.com/2022/03/08/rudraganika-a-study-in-eternal-return-as-manifested-through-the-sky-fathers-female-retinue-across-the-indo-european-world/)‘), and shall not repeat that work here.
 
 But what we *shall* most pointedly note is that the purport and the purpose of AV-S XII 5 is quite simple: to call upon the dire forces and Dread Guardian figures that might assail the most blasphemous sort of would-be interloper who would *dare* to interfere with a certain (Divine) Cow. You may recall this typology having been expressed within the myth somewhere before …
 
 The consequences of this for the wrongdoer are, of course, both swift and violent.
 
-To quote in the Griffith translation:  
-“47 Quickly, when he is smitten down by death, the clamorous vultures cry:  
-48 Quickly around his funeral fire dance women with dishevelled locks,  
-Striking the hand upon the breast and uttering their evil shriek.  
-49 Quickly the wolves are howling in the habitation where he lived:  
-50 Quickly they ask about him, What is this? What thing hath happened here?  
-51Rend, rend to pieces, rend away, destroy, destroy him utterly.”
+To quote in the Griffith translation: “47 Quickly, when he is smitten down by death, the clamorous vultures cry: 48 Quickly around his funeral fire dance women with dishevelled locks, Striking the hand upon the breast and uttering their evil shriek.
+
+49 Quickly the wolves are howling in the habitation where he lived: 50 Quickly they ask about him, What is this? What thing hath happened here? 51Rend, rend to pieces, rend away, destroy, destroy him utterly.”
 
 And whilst I’m not *usually* the greatest fan of the Tulsi Ram AV-S translation … just this once, we shall make an exception for his rendering of AV-S XII 5 49:
 
 “Soon after, Wolves rush into his homes and secret vaults and raise a deathly howl of loot”
 
 Indeed.
+
 
 **A Wolf Is More Than Just A ‘Dog Outside’ – The Wolf Against The Outlaw \[ VIII \]**
 
@@ -366,6 +356,7 @@ A decidedly ‘Uncivilized’-seeming yet inherently necessary Defender for ‘C
 
 ‘Savage Weapons’ unleashed upon most deserving opponents. As inescapable and unsettling as the sounds of Their Howling resounding throughout the Night.
 
+
 **Concluding Remarks – Whilst The Wolf Still Howls, There Is Hope \[ IX \]**
 
 We have covered a truly remarkable swathe of territory in this piece. Far more than I had initially intended – and with quite some ground yet left for a mostly-written follow-up.
@@ -404,11 +395,8 @@ This is from AtharvaVeda Śaunakīya X 1 – aptly entitled, within the Griffith
 
 In fact, we shall go for one more. This time, from the concluding lines \[again, in Griffith translation\] of AtharvaVeda Śaunakīya XI 2 – a Hymnal to Rudra as Bhava and Sarva, aptly enough. And one which, intriguingly, presents a suite of epithets therein that at once seemingly refer to the Wolves – yet may *also* refer to the RUDRAGANIKA clade that is the Female Retinue of the Indo-European Sky Father. We do rather think it eminently fitting that the hailed Wolf in service to Rudra should find His Female Counterpart, a Rudraganika, towards the conclusion of this piece …
 
-“This lowly reverence have I paid to Rudra’s dogs with mighty mouths,  
-Hounds terrible with bark and howl, who gorge unmasticated food.  
-Homage to thy loud-shouting hosts and thy long-haired followers!  
-Homage to hosts that are adored, homage to armies that enjoy  
-Homage to all thy troops, O God. Security and bliss be ours!”
+“This lowly reverence have I paid to Rudra’s dogs with mighty mouths, Hounds terrible with bark and howl, who gorge unmasticated food.
 
-ॐ नमः शिवाय  
-  
+Homage to thy loud-shouting hosts and thy long-haired followers! Homage to hosts that are adored, homage to armies that enjoy Homage to all thy troops, O God. Security and bliss be ours!”
+
+ॐ नमः शिवाय

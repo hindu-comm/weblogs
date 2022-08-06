@@ -5,6 +5,7 @@ date = "2022-04-06"
 upstream_url = "https://aryaakasha.com/2022/04/06/skandamata-for-chaitra-navratri-mother-of-the-assault/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/04/06/skandamata-for-chaitra-navratri-mother-of-the-assault/).
 
 Skandamata for Chaitra Navratri – Mother of The Assault
@@ -19,7 +20,8 @@ The Fifth Night of \#NavRatri is dedicated to Ma as Skandamata
 
 Now as one might presume – She is the Mother (Mata) of Lord Skanda, one of our … many War Gods. Takes after His Mother in that regard!
 
-The story of Skanda’s conception and birth is perhaps a bit of a curious one – as it is not, in fact. Devi Herself Who gives birth to the young prince (Kumara – another epithetic theonym of He).  
+The story of Skanda’s conception and birth is perhaps a bit of a curious one – as it is not, in fact. Devi Herself Who gives birth to the young prince (Kumara – another epithetic theonym of He).
+
 Instead, He comes to us from the Krttikacluster (hence His Six Heads – One for each Mother) – better known to us here in the West as the Pleiades. Something which I believe to resonate with the circumstances for the conception of Heimdallr in the Nordic sphere.
 
 But let us take things back a few steps.
@@ -80,13 +82,11 @@ Although another Puranic narrative presents the circumstances somewhat different
 
 As the Markandeya Purana then puts it:
 
-“Such was Rudra Himself. He found Satī for his wife; and through Dakṣa’s curse Satī quitted Her body. She was the Daughter of Himavat by Menā, O brāhman; Her brother was Maināka, the chiefest friend of Ambhodhi (the Ocean.) And the Lord Bhava \[Rudra\] married Her again as His Only Wife.”  
-(F. Eden Pargiter translation)
+“Such was Rudra Himself. He found Satī for his wife; and through Dakṣa’s curse Satī quitted Her body. She was the Daughter of Himavat by Menā, O brāhman; Her brother was Maināka, the chiefest friend of Ambhodhi (the Ocean.) And the Lord Bhava \[Rudra\] married Her again as His Only Wife.” (F. Eden Pargiter translation)
 
 We might also ponder the situation of the Krittikas Themselves – wherein They go from numbering Seven in the archaic Vedic Age, through to Six by the time of the Puranas. This is not something unique to the Hindusphere – as it also prominently occurs amongst the Greeks. In both cases, mythic explanations present the reasoning for one of the Seven Sisters having become dimmed – or even outright leaving the Heavens.
 
-We have considered some of the Vaidika star-lore pertaining to the Krttikasin our earlier work explicating the Krittika ‘Six Swords of the Stars’ bindrune row that I had created for somebody –  
-[https://aryaakasha.com/2021/12/02/krttika-the-six-swords-of-the-stars/](https://aryaakasha.com/2021/12/02/krttika-the-six-swords-of-the-stars/)
+We have considered some of the Vaidika star-lore pertaining to the Krttikasin our earlier work explicating the Krittika ‘Six Swords of the Stars’ bindrune row that I had created for somebody – [https://aryaakasha.com/2021/12/02/krttika-the-six-swords-of-the-stars/](https://aryaakasha.com/2021/12/02/krttika-the-six-swords-of-the-stars/)
 
 One point that I would quote from the above that is pointedly relevant for current circumstances is the following:
 

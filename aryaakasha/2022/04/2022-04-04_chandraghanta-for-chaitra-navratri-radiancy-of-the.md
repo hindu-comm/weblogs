@@ -5,6 +5,7 @@ date = "2022-04-04"
 upstream_url = "https://aryaakasha.com/2022/04/04/chandraghanta-for-chaitra-navratri-radiancy-of-the-foe-destroying-splendorous-moon/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/04/04/chandraghanta-for-chaitra-navratri-radiancy-of-the-foe-destroying-splendorous-moon/).
 
 Chandraghanta for Chaitra Navratri – Radiancy of the Foe-Destroying Splendorous Moon
@@ -17,9 +18,9 @@ Now a Ghanta, for us, is a bell. Particularly of the sort rung during religious 
 
 These are feelings of piety, these are feelings of reassurance – and to those who would endeavour to stand \*against\* the Gods … these are feelings of terror.
 
-Ghanta, in Sanskrit, does not only refer to a Bell – its meaning-field also incorporates a quality of being ‘Shining’, ‘Radiant’, ‘Splendour’.  
-As we have often explored, there is a most intriguing coterminity between ‘Sound’ and ‘Light’ in various Indo-European languages – this further expresses that. (And we are further reminded of Her command over speech, too)  
-Both Sound and Shining Splendour, after all, radiate out from their source to reach us. And both Sound and Light can ‘illuminate’ concepts – impart them to us, clarify and clear our minds of doubt and darkened obscurity.
+Ghanta, in Sanskrit, does not only refer to a Bell – its meaning-field also incorporates a quality of being ‘Shining’, ‘Radiant’, ‘Splendour’.
+
+As we have often explored, there is a most intriguing coterminity between ‘Sound’ and ‘Light’ in various Indo-European languages – this further expresses that. (And we are further reminded of Her command over speech, too) Both Sound and Shining Splendour, after all, radiate out from their source to reach us. And both Sound and Light can ‘illuminate’ concepts – impart them to us, clarify and clear our minds of doubt and darkened obscurity.
 
 In this sense, ‘Chandra-Ghanta’ is a most eloquent phrasing indeed. For within the course of the Mythic Cycle of the NavaDurgas, Her appearance coincides with just such an occurrence.
 
@@ -37,7 +38,8 @@ Except at this point, Devi takes action – and assumes the ChandraGhanta Aspect
 
 Via the Light of the Moon, the scene is shown to be as it actually is – and not as it had at first \*appeared\* to be to the unfamiliar eyes of Her family.
 
-The terrific host of demonic and dancing crazed figures of baleful disposition or barbarous visage are, in fact, revealed to bethe trusted retainers of Rudra, here as a traditional and expected customary part of the Marriage Ritual.  
+The terrific host of demonic and dancing crazed figures of baleful disposition or barbarous visage are, in fact, revealed to bethe trusted retainers of Rudra, here as a traditional and expected customary part of the Marriage Ritual.
+
 The trepidation of impending harm gives way to the joy of impending reunification. The illusions, the preconceptions, the barriers to what’s fact – are dispelled via the glinting light of the Moon.
 
 This is the Light which shines most brightly in the Dark – it’s the radiant splendour of ‘Chandra’, indeed. And it fights back against the anti-divine \[‘A’Suric’ we would say – Opposed to the Gods, Anti-Sura\] in a slightly different fashion to the ‘Ultra-Violent Light’ that we see in some of the ‘Daylight’ Warrior Aspects of Devi. Whereas They burn away what is impure and oppositional, the ChandraGhanta saliency is rather to simply show what is actually there. Darkness is ‘transcended’ via illumination – illusion is dispelled not necessarily via destruction, but rather through clarity. The necessary provision of light – at Night, when things are darkest and scariest and we do, in fact, need it the most. Directly into the mind, even, it would seem.
@@ -54,8 +56,7 @@ Yet also to reveal what is actually there – and so to show the real dangers, s
 
 The one often avails the other, and as we have seen viz. Mahishasur – demons often have a noted potency with illusions and false fronts, the better to ensnare the unwary and disguise their true motions with. They can even make a great friend or a husband seem to be something entirely other than what they (or even They) truly are. If we let them.
 
-We have written at far grander length and expository detail upon Chandraghanta in our previous years’ tribute-piece to Her, which can be found here –  
-[https://aryaakasha.com/2019/10/02/chandraghanta-third-of-the-navadurgas-the-third-night-of-navratri-2/](https://aryaakasha.com/2019/10/02/chandraghanta-third-of-the-navadurgas-the-third-night-of-navratri-2/)
+We have written at far grander length and expository detail upon Chandraghanta in our previous years’ tribute-piece to Her, which can be found here – [https://aryaakasha.com/2019/10/02/chandraghanta-third-of-the-navadurgas-the-third-night-of-navratri-2/](https://aryaakasha.com/2019/10/02/chandraghanta-third-of-the-navadurgas-the-third-night-of-navratri-2/)
 
 But I hope that this shall (un)cover us clear enough for now. And help to praise the Moonlight such that the illusory barriers of a mythically salient nature are, themselves, dissolved – revealing the pathway via moonlight back to the pious, wolflike truth.
 

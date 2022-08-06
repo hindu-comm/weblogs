@@ -5,6 +5,7 @@ date = "2022-05-07"
 upstream_url = "https://aryaakasha.com/2022/05/07/on-brigid-and-brhati-some-preliminary-observation/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/05/07/on-brigid-and-brhati-some-preliminary-observation/).
 
 On Brigid And Brhati – Some Preliminary Observation
@@ -71,8 +72,8 @@ But we are running a very serious risk when we over-read into one that might be 
 
 After all, it is exactly this kind of thing that leads to Doniger et co attempting to try and claim that the deific known today as Shiva (i.e. Rudra) is somehow Indra. A clearly nonsensical position which they buttress through, inter alia, the observation that you *can* use ‘Shiva’ as a more generalized adjective / quality to a deific – and yes, this *does* feature as a term utilized in relation to Indra in portions of the Vedas.
 
-\[it’s also, while I am up upon my pulpit, a situation that applies to ‘Indra’ – people often forget that *that too* is a title. Something that we can clearly demonstrate when a particular Shruti source alternates between describing Tvastr or Indra as the lord of the Chitra nakshatra … clearly Tvastr is not Indra; but Tvastr *might* be feasibly described by a title ‘Indra’ in-context … \]  
-  
+\[it’s also, while I am up upon my pulpit, a situation that applies to ‘Indra’ – people often forget that *that too* is a title. Something that we can clearly demonstrate when a particular Shruti source alternates between describing Tvastr or Indra as the lord of the Chitra nakshatra … clearly Tvastr is not Indra; but Tvastr *might* be feasibly described by a title ‘Indra’ in-context … \]
+
 Anyway – linguistics is, indeed, very useful.
 
 But it must be applied with a ‘feel’ for the theology as well.

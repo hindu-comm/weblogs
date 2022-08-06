@@ -5,6 +5,7 @@ date = "2022-05-25"
 upstream_url = "https://aryaakasha.com/2022/05/25/on-becoming-rudra-the-indo-european-investiture-of-the-divine-essence-in-ritual-and-beyond/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/05/25/on-becoming-rudra-the-indo-european-investiture-of-the-divine-essence-in-ritual-and-beyond/).
 
 On Becoming Rudra – The Indo-European Investiture Of The Divine Essence In Ritual And Beyond
@@ -15,7 +16,8 @@ It is Wednesday ! Odin’s Day !
 
 And so therefore, some absolutely excellent (A)Art-i and accompanying commentary upon the relevant Indo-European theological precept, in His Name – quite literally, as it should happen.
 
-The art is by HC – and was initially destined to evocatively illustrate a section of my ongoing RUDRAGANIKA series.  
+The art is by HC – and was initially destined to evocatively illustrate a section of my ongoing RUDRAGANIKA series.
+
 Yet it … it seemed almost to militate having a standalone piece dedicated to it, in order to more fulsomely explore what is going on therein.
 
 So – what we see here is quite simple. We have a Shaivite, a Roudran – and we have Shiva, Rudra. The Two are becoming quite coterminous in a manner that we shall soon see.
@@ -26,13 +28,9 @@ That is what is meant by the Sanskrit text that is infused within the Lightning.
 
 ![](https://aryaakasha.files.wordpress.com/2022/05/arya-akasha-hc-close-in-rudra-placement.png?w=1024)
 
-śivo dātā śivo bhoktā śivaḥ sarvamidaṃ jagat \|\|  
-śivo yajati sarvatra yaḥśivaḥ so’hameva tu \|
+śivo dātā śivo bhoktā śivaḥ sarvamidaṃ jagat \|\| śivo yajati sarvatra yaḥśivaḥ so’hameva tu \|
 
-“Shiva is the ‘Giver’ \[‘Data’ – like ‘Dative’ etc.\]  
-Shiva is the Enjoyer  
-Shiva is All in this universe  
-It is Śiva Himself Who worships (‘Yajati’) everywhere
+“Shiva is the ‘Giver’ \[‘Data’ – like ‘Dative’ etc.\] Shiva is the Enjoyer Shiva is All in this universe It is Śiva Himself Who worships (‘Yajati’) everywhere
 
 I am Shiva”
 
@@ -54,17 +52,19 @@ Insofar as – instead of ‘acting as’ such a figure, the human in the releva
 
 But let us return to those aforementioned ‘broader’ understandings.
 
-The more ‘general’ typology would be that these humans have a ‘Furor’ brought into them.  
-Whether Furor Poeticus or Furor Teutonicus – it is our belief that these are fundamentally, foundationally, the same energy and of the same ultimate sourcing.  
-We have demonstrated this in various ways – and the utilization of Sanskrit Ugra in RV X 125 5 remains a favourite.  
-There, the term for ‘fierce’, ‘berserk rage’ – is utilized in reference to the potency of a Vedic Seer, a Rsi, the human figure that pours forth the Divine Verse.  
+The more ‘general’ typology would be that these humans have a ‘Furor’ brought into them.
+
+Whether Furor Poeticus or Furor Teutonicus – it is our belief that these are fundamentally, foundationally, the same energy and of the same ultimate sourcing.
+
+We have demonstrated this in various ways – and the utilization of Sanskrit Ugra in RV X 125 5 remains a favourite.
+
+There, the term for ‘fierce’, ‘berserk rage’ – is utilized in reference to the potency of a Vedic Seer, a Rsi, the human figure that pours forth the Divine Verse.
+
 And it is Vak Devi Who empowers Her chosen human with this force. Just as, elsewhere in the Hindu perspective, we find Devi acting as the ‘Shakti’ of Shiva.
 
 Or, to phrase this in Ancient Greek terms – just as we find Athena investing Diomedes, one of Her Chosen, with that furious ‘Menos’.
 
-As She Herself puts it, per Book V of the Iliad \[125-126\]:  
-“Fear not, Diomedes, to do battle with the Trojans, for I have set in your heart the spirit of your father, the horseman Tydeus.”  
-\[Butler translation\]
+As She Herself puts it, per Book V of the Iliad \[125-126\]: “Fear not, Diomedes, to do battle with the Trojans, for I have set in your heart the spirit of your father, the horseman Tydeus.” \[Butler translation\]
 
 The term being rendered as ‘Spirit’ there, is the aforementionedμένος (Menos) – and, as we have repeatedly spoken upon elsewhere (and so shall not repeat in any great depth nor detail here), this is a very strong cognate for Sanskrit ‘Manyu’ (a prominent Roudran theonym, for the most formidable of the War Gods – c.f also ‘Minerva’ in Latin), deriving from PIE \*Men (referring to ‘Mental Activity’, ‘Mind’, ‘Spirit’).
 
@@ -76,17 +76,22 @@ In other instances it seems instead almost as if something pre-existing within u
 
 That same PIE root has some very interesting further permutations that we have discussed elsewhere (Sanskrit ऋति (‘Rti’), for instance, I cite for personal reasons) – for example viz.\*h₃reyH- taking things in the particular direction of ‘boiling’ or ‘flowing’. We most certainly have attestations for the Furor state as correlating with quite some heat (Sanskrit – ‘Tapas’; and the situation of Cu Chulainn building up a truly impressive degree of body-heat through his combative exertions); and the ‘flow state’, or the idea of a divine energy ‘flowing through’ one also connects quite strongly with the Poetic Inspiration and the saliency of the Vedic Rsi. The verses ‘Flow Forth’.
 
-We might likewise speak of something in the individual in question being ‘impelled’ – viz. ‘Ire’ etc., coming down to us from PIE\*h₁eysh₂- .  
-What does this Proto-Indo-European term mean? Exactly that. ‘To Impel’, ‘To Strengthen’, perhaps ‘To Animate’ or to set into motion.  
+We might likewise speak of something in the individual in question being ‘impelled’ – viz. ‘Ire’ etc., coming down to us from PIE\*h₁eysh₂- .
+
+What does this Proto-Indo-European term mean? Exactly that. ‘To Impel’, ‘To Strengthen’, perhaps ‘To Animate’ or to set into motion.
+
 We should also noteइष्णाति (‘Isnati’) as containing not only these aforementioned senses, the ‘incitement’ and almost ‘firing’ (‘throwing’, ‘letting fly’ – but modern English is more familiar with the ballistic in its contemporary sense than the more archaic Graecian one) – but also, quite pointedly, vocal formulations for same. ‘Declarations’, ‘Proclamations’, ‘Acclamations’ – forceful speech flowing forth, particularly to the purpose of causing those acts of ‘incitement’ and ‘animation’, ‘strengthening’ so vociferously aforementioned herein.
 
 And, of course, the ‘Aeshma’ familiar to many through the Zoroastrian rendering … that appears to be cognate with Sanskrit ‘Ismin’ (इष्मिन् ), which both has the expected meaning-field of ‘swiftness’, ‘impetuousness’, and other related shades of meaning (we must acknowledge the debt owed to Manasataramgini for his work in this area). We shall expand upon this in due course.
 
-English “Ire” hardly requires translation (and we thank N. Mukhopādhyāyaḥ for drawing this term and its lineage to our attention).  
-Yet it is definitely intriguing to note its likely (although another root is also possible) cognate-correlation with Ancient Greekῐ̔ερός (‘Hieros’) – a term that is overtly familiar for its connexion to the ‘Sacred’, the Divine.  
+English “Ire” hardly requires translation (and we thank N. Mukhopādhyāyaḥ for drawing this term and its lineage to our attention).
+
+Yet it is definitely intriguing to note its likely (although another root is also possible) cognate-correlation with Ancient Greekῐ̔ερός (‘Hieros’) – a term that is overtly familiar for its connexion to the ‘Sacred’, the Divine.
+
 Indeed, that is precisely the point we shall soon be addressing. The notion of the Divine Connexion; that something – or someone – is, indeed, fairly directly sanctified via the Divine Presence *through* just such a connectivity.
 
-In yet further occasions we seem to hear that one has been ‘Taken’, ‘Grasped’, ‘Seized’ by it. The most prominent exemplar for which being Jung’s ‘Ergreifen’ concept as discussed in his famed ‘Wotan’ essay.  
+In yet further occasions we seem to hear that one has been ‘Taken’, ‘Grasped’, ‘Seized’ by it. The most prominent exemplar for which being Jung’s ‘Ergreifen’ concept as discussed in his famed ‘Wotan’ essay.
+
 Although it also shows up in other ways, elsewhere, too – the θεὸς λαμβάνει (‘Theos Lamvanei’ – being ‘taken’, ‘seized’, ‘possessed’ by the God) descriptor for a male Bacchic initiate observed in a ritual context, given in Herodotus IV 79.
 
 Indeed, I suspect rather strongly that the etymology of ‘Furor’ itself – which is generally … not agreed upon (there are several somewhat unsatisfactory proposals – a major one being a simple calque of the Greek ‘Erinyes’ style terminology) – may also be approached in the similar fashion. That is to say : Latin ‘Furō’ (‘I Rage’) being very closely coterminous with the *other* Latin ‘Fūrō’ – a term for a thief. One who ‘takes’. The same situation repeats when we switch each of these from verb to noun and noun to verb respectively in terms of formulation – Latin ‘Furor’ for the rage (i.e. the noun), Latin ‘Fūror’ for the acts of theft and taking (i.e. the verb).The root for which would be PIE\*bʰer- – whence our modern ‘To Bear’. Certainly, to be imbued with the Furor is ‘to bear’ an essence !
@@ -95,48 +100,46 @@ In a certain sense this is not distinct from what is illustrated in the image. T
 
 Except there is something much more direct, much more focused, much more ‘refined’ to what we are witnessing here in this image.
 
-There, it is not ‘Furor’ in this rather general sense that we are observing to be imbued. It is Him, Himself. Even if it is, for very obvious reasons, a ‘partial’ Incarnating that is taking place.  
+There, it is not ‘Furor’ in this rather general sense that we are observing to be imbued. It is Him, Himself. Even if it is, for very obvious reasons, a ‘partial’ Incarnating that is taking place.
+
 And one which, perhaps, we may also surmise is not something ‘foreign’ being introduced into the human in question. But, per the words of the ShivaDharmashastra, more the ‘awakening’ of something that was already there a long time ago …
 
 To quote therefrom \[ŚiDhŚ 1.16 & 1.24\]
 
-ye ’rcayanti sadā rudraṃ na te prakṛtimānuṣāḥ \|  
-rudralokāt paribhraṣṭās te rudrā nātra saṃśayaḥ ∥  
-\[…\]  
-nārudraḥ saṃsmared rudraṃ nārudro rudram arcayet \|  
-nārudraḥ kīrtayed rudraṃ nārudro rudram āpnuyāt ∥
+ye ’rcayanti sadā rudraṃ na te prakṛtimānuṣāḥ \| rudralokāt paribhraṣṭās te rudrā nātra saṃśayaḥ ∥ \[…\] nārudraḥ saṃsmared rudraṃ nārudro rudram arcayet \| nārudraḥ kīrtayed rudraṃ nārudro rudram āpnuyāt ∥
 
 Which, in translation :
 
-“They who always worship Rudra, they are no ordinary men. They are Rudras who have come down from Rudraloka. There is no doubt about this.  
-\[…\]  
-One who is not Rudra cannot call to mind Rudra. One who is not Rudra cannot worship Rudra. One who is not Rudra cannot praise Rudra. One who is not Rudra cannot attain Rudra.”  
-\[Nina Mirnig translation\]
+“They who always worship Rudra, they are no ordinary men. They are Rudras who have come down from Rudraloka. There is no doubt about this.
 
-Now, of course, this must be contextualized. It does not literally mean that every human devotee who engages in ordinary Shaivite devotional activities is a Rudra.  
-At least, particularly not in this rather powerful metaphysical and ritualine sense.  
+\[…\] One who is not Rudra cannot call to mind Rudra. One who is not Rudra cannot worship Rudra. One who is not Rudra cannot praise Rudra. One who is not Rudra cannot attain Rudra.” \[Nina Mirnig translation\]
+
+Now, of course, this must be contextualized. It does not literally mean that every human devotee who engages in ordinary Shaivite devotional activities is a Rudra.
+
+At least, particularly not in this rather powerful metaphysical and ritualine sense.
+
 However, at the same time, simply being an ‘ordinary’ devotee of Shiva does not *not* mean that one is not and cannot be a Rudra incarnate, either.
 
-It would be interesting to speculate that part of the reasoning for the greater emphasis upon the ‘Shiva’ facing to Rudra in post-Vedic times might be precisely because of this underlying reasoning.  
+It would be interesting to speculate that part of the reasoning for the greater emphasis upon the ‘Shiva’ facing to Rudra in post-Vedic times might be precisely because of this underlying reasoning.
+
 That is – as Rudra is so fearsome and terrifying to approach as any but a Rudra (whether Rudra Himself – or one of His Sons or Daughters or broader Retinue of alike figures to Himself, and therefore already bearing ‘Rudra Essence’, likely cultivated through fairly active emulation of He), that the more ‘calm’ and ‘approachable’ facing may have been a useful facility for the less fanatically engaged worshipper. Indeed, even to this day, ‘Bholenath’ etc. are generally figuratively rendered in ways to communicate this remarkable ‘ease of approach’ to Him – directly contrasting with the perilous and inapproachableRudra of the Vedic and Tantrika sphere. Which does NOT, either, imply that the ‘Shiva’ facing is some form of contrivance or convenience of artifice – only that something that is a part to the broader complex has expanded in the perception … precisely because it’s what most people via default come into contact with; the more specialized and, in a word, ‘elite’ understandings and means for engagement being by their nature, restricted to those likely to actually be participating in the heavier-grade ritualistic frameworks.
 
 However, we would also draw attention to anotherŚivadharmaśāstra verse \[ŚDh 12.103–104\]:
 
-rudro rudrākṣadānena bhavatīti kim adbhutam \|  
-tanmālayā sadā haste rudraś ca kramate kṣitau \|\|  
-rudrākṣāṇi svayaṃ rudro ye ca rudrākṣadhārakāḥ \|  
-rudrākṣadhāraṇāt tasmād iha rudraḥ paratra ca \|\|.
+rudro rudrākṣadānena bhavatīti kim adbhutam \| tanmālayā sadā haste rudraś ca kramate kṣitau \|\| rudrākṣāṇi svayaṃ rudro ye ca rudrākṣadhārakāḥ \| rudrākṣadhāraṇāt tasmād iha rudraḥ paratra ca \|\|.
 
 Translated:
 
-“How wonderful is it that one becomes Rudra through the gift of rudrākṣa-beads!  
-\[He who carries\] his rosary in his hand at all times is a Rudra walking on earth.  
-The rudrākṣa-beads themselves are Rudra, and so are those who carry the rudrākṣas.  
-By carrying the rudrākṣas one is Rudra in this world and the next.”  
-\[Nina Mirnig translation\]
+“How wonderful is it that one becomes Rudra through the gift of rudrākṣa-beads! \[He who carries\] his rosary in his hand at all times is a Rudra walking on earth.
 
-Or, phrased another way – we have remarked elsewhere upon the vitality of having and utilizing Rudrakshmala in the course of Shaivite piety and ritual.  
-It should seem that part of the reasoning for this, is that by having such a mala within one’s hands, one is able to gain some measure (at least, in the external sense) of ‘being as’ (a ) Rudra.  
+The rudrākṣa-beads themselves are Rudra, and so are those who carry the rudrākṣas.
+
+By carrying the rudrākṣas one is Rudra in this world and the next.” \[Nina Mirnig translation\]
+
+Or, phrased another way – we have remarked elsewhere upon the vitality of having and utilizing Rudrakshmala in the course of Shaivite piety and ritual.
+
+It should seem that part of the reasoning for this, is that by having such a mala within one’s hands, one is able to gain some measure (at least, in the external sense) of ‘being as’ (a ) Rudra.
+
 It is not so much a ‘disguise’ as it may be thought of as a bit of a ‘protection mechanism’ and ‘keycard’, of sorts. A ‘visitor’s pass’, we may suggest.
 
 Yet let us return to the emergent suite of mytholinguistics in earnest.
@@ -145,8 +148,10 @@ The term which we had utilized to introduce this broad and pervasive concept in 
 
 This is comprised of several elements. ‘Rudra’ we all know. But ‘Avesha’ … ?
 
-We note with some amusement that in modern Hindi, Avesha (आवेश ) is quite literally ‘charged’ terminology. That’s partially what it means.  
-The property of bearing an (electrical) charge. Or, in psychoemotive terms, exhibiting a heightened emotive state – that of excitement, that of frenzy.  
+We note with some amusement that in modern Hindi, Avesha (आवेश ) is quite literally ‘charged’ terminology. That’s partially what it means.
+
+The property of bearing an (electrical) charge. Or, in psychoemotive terms, exhibiting a heightened emotive state – that of excitement, that of frenzy.
+
 We are instantly reminded of PIE\*weh₂t- (whence Woden, óðr etc.). However that is not \*quite\* what the term is there to convey.
 
 Let us look a little … deepa.
@@ -161,19 +166,22 @@ Interestingly, perhaps, for our purposes is the Balto-Slavic suite of terms deri
 
 Effectively, then, the underlying sense to ‘Avesha’ is quite clear – ‘Enter Into’, in one perspective … move into a ‘housing’, another.
 
-This casts the theonymic of Rudra so prominent in the Vedas – ‘Vastopati’ ( वास्तोष्पतिं ), ‘Lord of the Dwelling’ – into a most intriguing light (that’s a Sanskrit pun for those of you in the audience who … you know what? We’ll leave that for now.).  
+This casts the theonymic of Rudra so prominent in the Vedas – ‘Vastopati’ ( वास्तोष्पतिं ), ‘Lord of the Dwelling’ – into a most intriguing light (that’s a Sanskrit pun for those of you in the audience who … you know what? We’ll leave that for now.).
+
 The PIE root in that case, viz. ‘Vaastu’, is\*h₂wes- – ‘to dwell’, of course, but also to do so on a much more temporary basis (consider Ancient Greek ἄεσᾰ – to spend the night somewhere). Oh, and to pick up upon that pun briefly aforementioned … वस्तु (‘Vastu’), as in ‘Light’, or ‘Essence’. In this, it may have some coterminity with Proto-Germanic\*wesaną – ‘to be’, ‘to exist’, ‘to remain’. Certainly, the latter’s immediate descendant, PG\*wistiz – ‘essence’, ‘nature’, ‘being’ – should seem eerily pertinent herein.
 
 But I am digressing even more wildly than usual. The simple point to be considered here is whether as a ‘shadowed’ sense to ‘Vastopati’ as ‘Lord of *the* Dwelling’, we might have Rudra as Vastopati as ‘Lord *of* Dwelling’. That is: Chief that Dwells (within), or the Chief presiding over the acts of dwelling within. An intriguing point for us, perhaps, to consider at some other point in time. Along with how the blessed ‘illumination’ (correlate, perhaps, also with the Divine Speech and its (or, we ought say, with deference to the similarly rooted Vesta & Hestia, Her) empowerment of Her chosen vessel) may so prove relevant likewise. The ‘inner fire’ most definitely seems to accompany that scenario of Diomedes, as one such example, upon His receipt of the ‘Menos’ potency from Blessed Athena.
 
 Yet we have spent all these words to discuss various ways to ‘triangulate’ the underlying sense to the Indo-European theological – and ritualine – understanding in question. We have placed precious few of these into actual more substantive matters. Let us now move to remedify that in earnest !
 
-We had earlier made brief reference to the ‘Aeshma’ of the Zoroastrian corpus. It is remarkably familiar to Western audiences – albeit through a perhaps unexpected means.  
+We had earlier made brief reference to the ‘Aeshma’ of the Zoroastrian corpus. It is remarkably familiar to Western audiences – albeit through a perhaps unexpected means.
+
 “Asmodeus” is a rather prominent demonic figure in the general Abrahamic (i.e. Judaic, Christian, Islamic) milieu. Unsurprisingly, this also means a considerable prominency in the Western Esoteric sphere.
 
 Before we go further we must re-emphasize something that has often come to mind with these elements. While we *can* demonstrate that the *name* for the demon has a good Indo-European origination – this does *not* mean that one ought be so cavalier as to attempt to engage with that is regarded as a demonic entity in the Abrahamic sphere, simply because of the name. Who is to say that the name has not been misappropriated, purloined, misapplied? Who is to say that the figure bearing it in those (substantively) non-IE texts is not, in fact, actually some demon?
 
-Play it safe. If you want to engage with an IE deific – *engage with the IE deific* – not the form of an Abrahamic demon, because you want to believe that it’s just a ‘reskinned’ IE deific.  
+Play it safe. If you want to engage with an IE deific – *engage with the IE deific* – not the form of an Abrahamic demon, because you want to believe that it’s just a ‘reskinned’ IE deific.
+
 And do so in the proper and appropriate manner *through an IE sphere*. Ideally, given the traits under discussion, in the proper manner *within* said sphere as well.
 
 And now, with that out of the way …
@@ -206,13 +214,11 @@ In essence – quite literally, as it happens – when the RudraGanikas would ri
 
 All of which brings us to those other Indo-European occurrences we have frequently meant to make broader mention upon.
 
-We have already drawn attention to Herodotus IV 79. There, it is declared that the Initiates of Dionysus are subject to a state of θεοῦ μαίνεται (‘Theou Mainetai’ – ‘Divine Furor’, and one can easily note the cognate of the second Greek word to our (Hindu and Sanskrit)  
-‘Manyu’). Indeed, this should seem to fairly directly pertain to the roots of ‘Maenad’ in both word and deed.
+We have already drawn attention to Herodotus IV 79. There, it is declared that the Initiates of Dionysus are subject to a state of θεοῦ μαίνεται (‘Theou Mainetai’ – ‘Divine Furor’, and one can easily note the cognate of the second Greek word to our (Hindu and Sanskrit) ‘Manyu’). Indeed, this should seem to fairly directly pertain to the roots of ‘Maenad’ in both word and deed.
 
 We would draw attention to the work of Diodorus Siculus –
 
-“Consequently in many Greek cities every other year Bacchic bands of women gather, and it is lawful for the maidens to carry the thyrsus and to join in the frenzied revelry, crying out “Euai!” and honouring the god; while the matrons, forming in groups, offer sacrifices to the god and celebrate his mysteries and, in general, extol with hymns the presence of Dionysus, in this manner acting the part of the Maenads who, as history records, were of old the companions of the god.”  
-\[Oldfather translation, Bibliotheca Historica 4 3 1124\]
+“Consequently in many Greek cities every other year Bacchic bands of women gather, and it is lawful for the maidens to carry the thyrsus and to join in the frenzied revelry, crying out “Euai!” and honouring the god; while the matrons, forming in groups, offer sacrifices to the god and celebrate his mysteries and, in general, extol with hymns the presence of Dionysus, in this manner acting the part of the Maenads who, as history records, were of old the companions of the god.” \[Oldfather translation, Bibliotheca Historica 4 3 1124\]
 
 And, to take things further, to quote from my own previous work upon the subject:
 
@@ -228,21 +234,22 @@ The overarching point of these later string of exemplars is to observe that the 
 
 As the Shivadharmashastra \[IV 9\] puts it :
 
-rudrātmāno rudraparā rudrāṃśā rudrabhāvanāḥ \|  
-ityācārasamāyuktā bhavanti bhuvi mānavāḥ\|\|
+rudrātmāno rudraparā rudrāṃśā rudrabhāvanāḥ \| ityācārasamāyuktā bhavanti bhuvi mānavāḥ\|\|
 
-“They consist of Rudra, they are intent on Rudra, they are in part Rudra, they feel devotion to Rudra;  
-\[these\] are men on earth endowed with such conducts.”  
-\[Mirnigtranslation\]
+“They consist of Rudra, they are intent on Rudra, they are in part Rudra, they feel devotion to Rudra; \[these\] are men on earth endowed with such conducts.” \[Mirnigtranslation\]
 
-On a certain level, of course, one might feasibly argue that everybody has some ‘part’ bestowed by the God.  
-We can approach this in a number of ways.  
+On a certain level, of course, one might feasibly argue that everybody has some ‘part’ bestowed by the God.
+
+We can approach this in a number of ways.
+
 The ‘Breath of Life’ concept that we have briefly mentioned via allusion is one such example; and we would encourage a read of our earlier ‘The Mytholinguistics Of The Smoking Breath’ for more in this direction.
 
 And yet, the distinction – the gradient of both degree and yet also of kind – is a vitally important one.
 
-We *all* have Breath in our lungs, as the necessary precondition for our life. In the metaphysical sense, it is doubly so.  
-That ‘Breath’ seems frequently to crossover into the sphere of the ‘Furor’ conceptry – as I have occasionally synoptically observed, there seems a veer-y good case that for the (Proto-)Indo-European, ‘To Be Alive’ might very well also have meant ‘To Be Angry’.  
+We *all* have Breath in our lungs, as the necessary precondition for our life. In the metaphysical sense, it is doubly so.
+
+That ‘Breath’ seems frequently to crossover into the sphere of the ‘Furor’ conceptry – as I have occasionally synoptically observed, there seems a veer-y good case that for the (Proto-)Indo-European, ‘To Be Alive’ might very well also have meant ‘To Be Angry’.
+
 And certainly, various terms for ‘Breath’ cross-over easily in their definitional ambit to utilization for ‘Fury’ (‘Hot Breath’, ‘Smoking Breath’, for obvious reasons proving pertinent) – and ‘Fury’, likewise, it should seem, for ‘Soul’.
 
 But all being in possession of a Gods-given Soul, Gods-given Breath, and even Gods-given opportunities to draw near to Them in Worship … do not, themselves, make one the God.

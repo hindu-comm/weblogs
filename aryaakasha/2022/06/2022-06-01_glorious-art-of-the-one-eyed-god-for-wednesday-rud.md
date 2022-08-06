@@ -5,6 +5,7 @@ date = "2022-06-01"
 upstream_url = "https://aryaakasha.com/2022/06/01/glorious-art-of-the-one-eyed-god-for-wednesday-rudra/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/06/01/glorious-art-of-the-one-eyed-god-for-wednesday-rudra/).
 
 Glorious Art Of The One Eyed God For Wednesday – Rudra
@@ -25,12 +26,14 @@ These are all Shaivite theonyms – and, likely entirelyuncoincidentally, with t
 
 Canonically, we should usually expect that the ‘One Eye’ in question refers to His (Blazing) Third Eye.
 
-The sense being connoted, particularly via Ekadrishti, is that of an incredibly intensive, fixed and high-potency focused stare.  
+The sense being connoted, particularly via Ekadrishti, is that of an incredibly intensive, fixed and high-potency focused stare.
+
 It is again uncoincidental that the ‘drishti’ (दृष्टि) is from the same PIE root (\*derḱ-) which gives us Ancient Greekδρᾰ́κων (‘Drakon’) – and thence our modern ‘Dragon’.
 
 It should also connote, in terms of ‘Drish’ (दृश्), the sense of a ‘Seer’ – One Who Sees Things More Deeply, penetrating with that Gaze unto the heart of matters; and possessed of great Wisdom as a result. Or, perhaps, being able to see further and more perspicaciously than others *precisely because* He is possessed of such great wisdom so as to know how to Look more properly in earnest.
 
-‘Netra’ (नेत्र), meanwhile, in addition to its customary saliency viz. the Third Eye in the Forehead – has a similarly interesting PIE root to it:\*neyH-, which should appear contingent upon context to either mean ‘to lead’, or ‘to be angry’.  
+‘Netra’ (नेत्र), meanwhile, in addition to its customary saliency viz. the Third Eye in the Forehead – has a similarly interesting PIE root to it:\*neyH-, which should appear contingent upon context to either mean ‘to lead’, or ‘to be angry’.
+
 In Sanskrit, the aforementioned Netra can mean, in addition to Eye, or an element that ‘leads’, provides ‘guidance’.
 
 In Proto-Germanic, meanwhile, the other sense comes to the fore –\*nīþą, referring to ‘hatred’, which also then produces the suite of ‘Nithing’ conceptry in later Germanic / Nordic languages … for one who is subjected to such hatred; and Old Englishnīþ which also entails the violence via which this trenchant animosity might be given potentially lethal tangible effect.

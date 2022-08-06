@@ -5,14 +5,15 @@ date = "2022-06-09"
 upstream_url = "https://aryaakasha.com/2022/06/09/a-nepali-vaishno-devi/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/06/09/a-nepali-vaishno-devi/).
 
 A Nepali Vaishno Devi
 
 ![](https://aryaakasha.files.wordpress.com/2022/06/tumblr_e077a48e5775dadf19dc8eb9b46aa1f2_65cec49c_1280.jpg?w=1024)
 
-Beautiful Murti of Vaishno Devi, from Nepal.  
-  
+Beautiful Murti of Vaishno Devi, from Nepal.
+
 \[[as posted by the excellent Kala Kshetram](https://arjuna-vallabha.tumblr.com/post/686533021508206592)\]
 
 Now, ‘Vaishno Devi’ is rather more well-known in the context of the expansive eponymous temple-complex to Her located in Jammu; indeed, a large photograph of that site adorns the backdrop to my own Mandir’s Durga Shrine.

@@ -5,6 +5,7 @@ date = "2022-06-08"
 upstream_url = "https://aryaakasha.com/2022/06/08/brief-notes-on-eternal-return-in-answer-to-questions-from-a-reader-arya-akasha-arka/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/06/08/brief-notes-on-eternal-return-in-answer-to-questions-from-a-reader-arya-akasha-arka/).
 
 brief notes on ‘eternal return’ – in answer to questions from a reader [Arya Akasha Arka]
@@ -41,28 +42,28 @@ And this means, as well, that as the famed author Kurt Vonnegut put it –
 
 Now, of course, me being me .. I take this in uh … some ‘different’ directions – or at least some perhaps underexpected ones.
 
-For example –  
-[https://aryaakasha.com/2019/09/23/on-adopting-the-mantle-of-myth-and-pakistans-perilously-pained-pretensions-to-same/](https://aryaakasha.com/2019/09/23/on-adopting-the-mantle-of-myth-and-pakistans-perilously-pained-pretensions-to-same/)
+For example – [https://aryaakasha.com/2019/09/23/on-adopting-the-mantle-of-myth-and-pakistans-perilously-pained-pretensions-to-same/](https://aryaakasha.com/2019/09/23/on-adopting-the-mantle-of-myth-and-pakistans-perilously-pained-pretensions-to-same/)
 
-And –  
-[https://aryaakasha.com/2019/09/28/cybele-in-spain-the-return-of-myth-to-madrid/](https://aryaakasha.com/2019/09/28/cybele-in-spain-the-return-of-myth-to-madrid/)
+And – [https://aryaakasha.com/2019/09/28/cybele-in-spain-the-return-of-myth-to-madrid/](https://aryaakasha.com/2019/09/28/cybele-in-spain-the-return-of-myth-to-madrid/)
 
 You’ll get the hang of the concept.
 
-It can *also*, of course, *go the other way* – and that is what we would, perhaps, term ‘Apotheosis’. Earning One’s Place ‘Midst The Stars.  
+It can *also*, of course, *go the other way* – and that is what we would, perhaps, term ‘Apotheosis’. Earning One’s Place ‘Midst The Stars.
+
 [https://aryaakasha.com/2022/01/15/on-indo-european-glory-imperishable-and-becoming-the-myth/](https://aryaakasha.com/2022/01/15/on-indo-european-glory-imperishable-and-becoming-the-myth/)
 
 Oh, and that is *another* important ‘caveat’
 
-Nietzsche had that bit about gazing long into an abyss and being aware that the abyss gazes also back into you.  
+Nietzsche had that bit about gazing long into an abyss and being aware that the abyss gazes also back into you.
+
 Terry Pratchett refined the concept with the ‘abyss’ “waving back” – much to the surprise of various and sundry.
 
 I would point to ward this occurrence from the Greek canon wherein the Dioscuri \[Divo Napata we would say – the Nasatyas, the Asvins, Hengist & Horsa\] .. well .. They turned up.
 
-As Yakov Smirnoff’s ‘Soviet Reversal’ / ‘Russian Reversal’ would have it – in regular Eternal Return, you participate in Myth. In this kind .. Myth participates in (or, perhaps, ‘at’) *You*.  
-[https://aryaakasha.com/2020/12/31/the-near-dioscuri-experience-of-simonides-the-pious-poet/](https://aryaakasha.com/2020/12/31/the-near-dioscuri-experience-of-simonides-the-pious-poet/)
+As Yakov Smirnoff’s ‘Soviet Reversal’ / ‘Russian Reversal’ would have it – in regular Eternal Return, you participate in Myth. In this kind .. Myth participates in (or, perhaps, ‘at’) *You*.
 
 [https://aryaakasha.com/2020/12/31/the-near-dioscuri-experience-of-simonides-the-pious-poet/](https://aryaakasha.com/2020/12/31/the-near-dioscuri-experience-of-simonides-the-pious-poet/)
 
-—  
-ENDS
+[https://aryaakasha.com/2020/12/31/the-near-dioscuri-experience-of-simonides-the-pious-poet/](https://aryaakasha.com/2020/12/31/the-near-dioscuri-experience-of-simonides-the-pious-poet/)
+
+— ENDS

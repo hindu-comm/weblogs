@@ -5,6 +5,7 @@ date = "2022-06-27"
 upstream_url = "https://aryaakasha.com/2022/06/27/the-carnyx-a-celtic-war-horn/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/06/27/the-carnyx-a-celtic-war-horn/).
 
 The Carnyx – A Celtic War-Horn
@@ -39,13 +40,11 @@ This is, perhaps, because it evidently made such an impression upon those others
 
 Diodorus Siculus, for instance, makes a passing reference of their exoticism in amidst a catalogue of other details that had seemed rather remarkable (if not outright intimidating) about the Celts:
 
-“Their trumpets are of peculiar nature and such as barbarians use, for when they are blown upon they give forth a harsh sound, appropriate to the tumult of war.”  
-\[V 30, Oldfather translation\]
+“Their trumpets are of peculiar nature and such as barbarians use, for when they are blown upon they give forth a harsh sound, appropriate to the tumult of war.” \[V 30, Oldfather translation\]
 
 Polybius, in his Histories \[II 29\], gives some indication of their usage whilst detailing the battle of Telamon in 225 BC:
 
-“It was surely a peculiar and surprising battle to witness, and scarcely less so to hear described. A battle, to begin with, in which three distinct armies were engaged, must have presented a strange and unusual appearance, and must have been fought under strange and unusual conditions. Again, it must have seemed to a spectator open to question, whether the position of the Gauls were the most dangerous conceivable, from being between two attacking forces; or the most favourable, as enabling them to meet both armies at once, while their own two divisions afforded each other a mutual support: and, above all, as putting retreat out of the question, or any hope of safety except in victory. For this is the peculiar advantage of having an army facing in two opposite directions. The Romans, on the other hand, while encouraged by having got their enemy between two of their own armies, were at the same time dismayed by the ornaments and clamour of the Celtic host. For there were among them such innumerable horns and trumpets, which were being blown simultaneously in all parts of their army, and their cries were so loud and piercing, that the noise seemed not to come merely from trumpets and human voices, but from the whole country-side at once. Not less terrifying was the appearance and rapid movement of the naked warriors in the van, which indicated men in the prime of their strength and beauty: while all the warriors in the front ranks were richly adorned with gold necklaces and bracelets. These sights certainly dismayed the Romans; still the hope they gave of a profitable victory redoubled their eagerness for the battle.”  
-\[Shuckburgh translation\]
+“It was surely a peculiar and surprising battle to witness, and scarcely less so to hear described. A battle, to begin with, in which three distinct armies were engaged, must have presented a strange and unusual appearance, and must have been fought under strange and unusual conditions. Again, it must have seemed to a spectator open to question, whether the position of the Gauls were the most dangerous conceivable, from being between two attacking forces; or the most favourable, as enabling them to meet both armies at once, while their own two divisions afforded each other a mutual support: and, above all, as putting retreat out of the question, or any hope of safety except in victory. For this is the peculiar advantage of having an army facing in two opposite directions. The Romans, on the other hand, while encouraged by having got their enemy between two of their own armies, were at the same time dismayed by the ornaments and clamour of the Celtic host. For there were among them such innumerable horns and trumpets, which were being blown simultaneously in all parts of their army, and their cries were so loud and piercing, that the noise seemed not to come merely from trumpets and human voices, but from the whole country-side at once. Not less terrifying was the appearance and rapid movement of the naked warriors in the van, which indicated men in the prime of their strength and beauty: while all the warriors in the front ranks were richly adorned with gold necklaces and bracelets. These sights certainly dismayed the Romans; still the hope they gave of a profitable victory redoubled their eagerness for the battle.” \[Shuckburgh translation\]
 
 In any case, it remains a singularly impressive instrument – and one that it occurs one must have had to possess some noteworthy physical capacity in order to not only be able to *blow* and *play* the thing at such volume and endurance, but also to be able to move and maneuver whilst holding all of that bronze heavily aloft whilst doing so.
 

@@ -5,23 +5,24 @@ date = "2022-05-16"
 upstream_url = "https://aryaakasha.com/2022/05/16/extraordinary-rendition-specifically-limb-from-limb-sambhunjati-a-rudraganika-excerpt/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/05/16/extraordinary-rendition-specifically-limb-from-limb-sambhunjati-a-rudraganika-excerpt/).
 
 Extraordinary Rendition – Specifically, Limb From Limb : Sambhunjati – A RUDRAGANIKA Excerpt
 
 ![](https://aryaakasha.files.wordpress.com/2022/05/arya-akasha-hc-extraordinary-rendition.png?w=984)
 
-We present a further excerpt from [our RUDRAGANIKA work](https://aryaakasha.com/2022/03/08/rudraganika-a-study-in-eternal-return-as-manifested-through-the-sky-fathers-female-retinue-across-the-indo-european-world/) – this time, looking at a most intriguing co-expression in the Vedic, Hellenic, and Nordic spheres. That of figures drawn from this female retinue of the Sky Father ‘playing with Their food’, and tearing apart wrongdoers. Whilst also weaving webs of fate using the entrails.  
-  
-This is the famed Sparagmos & Omophagia so terrifically prominent in the Greek tragedians’ presentation of the Bacchae and Maenads, the Valkyries’ webcasting in the Darraðarljóð section of the Saga of Burnt Njal, and what we suspect very strongly to underpin the Sambhunjati \[‘Those Who Eat \[Their Prey\] Together’\] epithet of the Vedic Rudraganika attested in the AtharvaVeda. We also believe it to resonate most strongly with the still-well-known Tantrika concept whereby a violator of the bounds and oaths of secrecy of the Tantrika Kaula and its cultic initiation … is said to become “Food for the Yoginis”.  
-  
-This notion of the Rudraganika as Avenger – and as Desolator – we consider through the course of AV-S XII 5, a hymnal in which the dread potency of Rudra’s Female Retinue is deployed ‘gainst the scoundrel who should DARE to attempt to steal the Brahmin’s Cow.  
-  
-But on with the show ! Art, as ever, by HC !  
-  
+We present a further excerpt from [our RUDRAGANIKA work](https://aryaakasha.com/2022/03/08/rudraganika-a-study-in-eternal-return-as-manifested-through-the-sky-fathers-female-retinue-across-the-indo-european-world/) – this time, looking at a most intriguing co-expression in the Vedic, Hellenic, and Nordic spheres. That of figures drawn from this female retinue of the Sky Father ‘playing with Their food’, and tearing apart wrongdoers. Whilst also weaving webs of fate using the entrails.
+
+This is the famed Sparagmos & Omophagia so terrifically prominent in the Greek tragedians’ presentation of the Bacchae and Maenads, the Valkyries’ webcasting in the Darraðarljóð section of the Saga of Burnt Njal, and what we suspect very strongly to underpin the Sambhunjati \[‘Those Who Eat \[Their Prey\] Together’\] epithet of the Vedic Rudraganika attested in the AtharvaVeda. We also believe it to resonate most strongly with the still-well-known Tantrika concept whereby a violator of the bounds and oaths of secrecy of the Tantrika Kaula and its cultic initiation … is said to become “Food for the Yoginis”.
+
+This notion of the Rudraganika as Avenger – and as Desolator – we consider through the course of AV-S XII 5, a hymnal in which the dread potency of Rudra’s Female Retinue is deployed ‘gainst the scoundrel who should DARE to attempt to steal the Brahmin’s Cow.
+
+But on with the show ! Art, as ever, by HC !
+
 ॐ नमः शिवाय
 
-  
+
 
 A final element I shall raise – for now – pertaining to the specifically Dionysian iteration of these female Ganas amidst the Greeks, concerns the situation of the Sparagmos and Omophagia. There are many things which could – and most definitely *should* – be said about these particular (reputed) cultic practices, but for now we shall simply focus in upon some potential Hindu correlated understandings – as handily illuminated via our typology.
 
@@ -35,15 +36,15 @@ So, in AV-S XII 5 47, we find the Vulture (stated in the Bhava & Sarva hymnal to
 
 Most intriguingly, we then have a further suite of references to ‘Avenger’ figures here. I shall not go through all of these at this time, yet there is one in particular who is most directly relevant to our purposes herein. That being the ‘Angirasi’ invoked in line 52. In fact, I shall quote the verse in context (at least, in translation):
 
-“51 Rend, rend to pieces, rend away, destroy, destroy him utterly.  
-52 Destroy Angirasi! the wretch who robs and wrongs the Brahmans, born.”  
-\[Griffith translation\]
+“51 Rend, rend to pieces, rend away, destroy, destroy him utterly.
+
+52 Destroy Angirasi! the wretch who robs and wrongs the Brahmans, born.” \[Griffith translation\]
 
 And, for ‘variety’:
 
-“51 Cut thou, cut on, cut forth, scorch, burn (kṣā).  
-52 O daughter of An̄giras, exhaust thou the Brahman-scather, that takes to himself \[the cow\].”  
-\[Whitney translation\]
+“51 Cut thou, cut on, cut forth, scorch, burn (kṣā).
+
+52 O daughter of An̄giras, exhaust thou the Brahman-scather, that takes to himself \[the cow\].” \[Whitney translation\]
 
 As I say, we could go into quite some further depth with various of the ensuing lines in this hymnal – and it is intriguing to note that the Cow Herself, implicitly the Devi, is *also* invoked to go and carry out Her most implacable contribution to this ‘extraordinary rendition’ of the maleficant. We might be tempted to infer from this that, once again, it is a case of the Goddess leading and acting as apex for the female retinue in question \[the ‘Daughter of Angiras’ perhaps being meant figuratively – a vengeful Devi invoked into our plane by the priest\] – or, perhaps, that the Goddess is present and invoked *in* the female retinue-members in question. Either way, there is a clear coterminity at play.
 

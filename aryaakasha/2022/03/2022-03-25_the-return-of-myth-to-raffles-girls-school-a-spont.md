@@ -5,6 +5,7 @@ date = "2022-03-25"
 upstream_url = "https://aryaakasha.com/2022/03/25/the-return-of-myth-to-raffles-girls-school-a-spontaneous-singaporean-resurgence-of-athenian-piety-opposed-by-school-authorities/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/03/25/the-return-of-myth-to-raffles-girls-school-a-spontaneous-singaporean-resurgence-of-athenian-piety-opposed-by-school-authorities/).
 
 The Return Of Myth To Raffles Girls’ School – A Spontaneous Singaporean Resurgence Of Athenian Piety … Opposed By School Authorities
@@ -27,8 +28,7 @@ Those “School Values”.
 
 [The School Song](https://www.rgs.edu.sg/alumnae/alumnae-relations-office/our-songs) – surely an expression of ‘School Values’ as clear as any – begins, and I quote:
 
-“From High Olympus flows to us the glory,  
-On us the sacred fire descends.”
+“From High Olympus flows to us the glory, On us the sacred fire descends.”
 
 If we examine the Classical textual corpus, we find that yes … yes Athena *does* bestow what we might term ‘divine inspiration’ and empowerment to devotees. Frequently (as we see viz. the situations of Diomedes and Achilles in the Iliad), this manifests in a ‘fiery’ sense.
 
@@ -70,8 +70,7 @@ The parallels with this occurrence in Singapore are instructive:
 
 There, you have young people beseechingly invoking the following:
 
-“From High Olympus flows to us the glory,  
-On us the sacred fire descends.”
+“From High Olympus flows to us the glory, On us the sacred fire descends.”
 
 You have a statue of Athena, and other pointedly Hellenic elements on-campus as well.
 

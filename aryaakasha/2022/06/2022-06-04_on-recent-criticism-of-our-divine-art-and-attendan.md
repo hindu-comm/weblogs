@@ -5,6 +5,7 @@ date = "2022-06-04"
 upstream_url = "https://aryaakasha.com/2022/06/04/on-recent-criticism-of-our-divine-art-and-attendant-legal-threats-surmounted/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/06/04/on-recent-criticism-of-our-divine-art-and-attendant-legal-threats-surmounted/).
 
 On Recent Criticism Of Our Divine Art – And Attendant Legal Threats Surmounted
@@ -29,9 +30,9 @@ We would also note the Agamic attestations and other such source materials where
 
 In the Kamika Agama, for example, we find direction for the (South-Facing) Aghora facing of Shiva to be rendered with ‘damstradantura karkasham’ \[Kamika Agama Purva Pada IV 344\].
 
-To translate for those in the audience – it is indeed with quite a frightful appearance and very prominent, protruding, jagged even fangs or teeth or tusks. Right there. Scripturally mandated as how one is *supposed* to depict a most pertinent ‘Facing’ of Mahadev.  
+To translate for those in the audience – it is indeed with quite a frightful appearance and very prominent, protruding, jagged even fangs or teeth or tusks. Right there. Scripturally mandated as how one is *supposed* to depict a most pertinent ‘Facing’ of Mahadev.
 
-  
+
 
 ![*\[captioning of above image from [its source](https://twitter.com/vairisimha/status/1218084816245133313) reads – “Rare sculpture of pre tantrik era where shiva was worshipped as Aghora and the temple faced South. Here the front image is Aghora with fangs, on the right side is parvati and on the left is Tatpurusa. It is from the ruins of original Mahakal temple of Ujjain which faces South.” \]*](https://aryaakasha.files.wordpress.com/2022/06/image-4.png?w=629)
 
@@ -49,10 +50,7 @@ For starters, we have Ekanetra utilized in the context of the 8 Vidyeśvara Shiv
 
 Or, for instance, the list given in the Agni Purana \[90 3-4\] for ritual utilization & placement –
 
-niveśayed yathāsaṅkhyamaṣṭau vidyeśvarānatha  
-ekaṃ śikhaṇḍinaṃ rudraṃ śrīkaṇṭhantu dvitīyakaṃ  
-trimūrtamekarudrākṣamekanetraṃ śivottamaṃ  
-saptamaṃ sūkṣmanāmānamanantaṃ rudramaṣṭamaṃ
+niveśayed yathāsaṅkhyamaṣṭau vidyeśvarānatha ekaṃ śikhaṇḍinaṃ rudraṃ śrīkaṇṭhantu dvitīyakaṃ trimūrtamekarudrākṣamekanetraṃ śivottamaṃ saptamaṃ sūkṣmanāmānamanantaṃ rudramaṣṭamaṃ
 
 You will, of course, note the ‘Ekanetram’ (‘One Eyed’) in the third line there.
 
@@ -62,22 +60,15 @@ But let us also delve into the Smriti canon.
 
 We shall quote in Sanskrit so that there is no allegation we are making things up in translation:
 
-वासुदेव उवाच ।  
-युधिष्ठिर महाबाहो महाभाग्यं महात्मनः ।  
-रुद्राय बहुरूपाय बहुनाम्ने निबोध मे ॥ १ ॥
+वासुदेव उवाच । युधिष्ठिर महाबाहो महाभाग्यं महात्मनः । रुद्राय बहुरूपाय बहुनाम्ने निबोध मे ॥ १ ॥
 
-vāsudeva uvāca \|  
-yudhiṣṭhira mahābāho mahābhāgyaṃ mahātmanaḥ \|  
-rudrāya bahurūpāya bahunāmne nibodha me \|\| 1 \|\|
+vāsudeva uvāca \| yudhiṣṭhira mahābāho mahābhāgyaṃ mahātmanaḥ \| rudrāya bahurūpāya bahunāmne nibodha me \|\| 1 \|\|
 
-वदन्त्यग्निं महादेवं तथा स्थाणुं महेश्वरम् ।  
-एकाक्षं त्र्यम्बकं चैव विश्वरूपं शिवं तथा ॥ २ ॥
+वदन्त्यग्निं महादेवं तथा स्थाणुं महेश्वरम् । एकाक्षं त्र्यम्बकं चैव विश्वरूपं शिवं तथा ॥ २ ॥
 
-vadantyagniṃ mahādevaṃ tathā sthāṇuṃ maheśvaram \|  
-ekākṣaṃ tryambakaṃ caiva viśvarūpaṃ śivaṃ tathā \|\| 2 \|\|
+vadantyagniṃ mahādevaṃ tathā sthāṇuṃ maheśvaram \| ekākṣaṃ tryambakaṃ caiva viśvarūpaṃ śivaṃ tathā \|\| 2 \|\|
 
-“Vasudeva said, ‘O mighty-armed Yudhishthira, listen to me as I recite to thee the many names of Rudra as also the high blessedness of that high-souled one. The Rishis describe Mahadeva as Agni, and Sthanu, and Maheswara; as one-eyed, and three-eyed, of universal form, and Siva or highly auspicious.”  
-\[Ganguli translation\]
+“Vasudeva said, ‘O mighty-armed Yudhishthira, listen to me as I recite to thee the many names of Rudra as also the high blessedness of that high-souled one. The Rishis describe Mahadeva as Agni, and Sthanu, and Maheswara; as one-eyed, and three-eyed, of universal form, and Siva or highly auspicious.” \[Ganguli translation\]
 
 Now, as applies his charge that Gods are never depicted romantically linked or in posing suggestive of such (his exact phrasing was, and I quote: “this kind of intimation is what Gods are never depicted. Like they are some bf-gf stuffs. It looks and feels Tamasic in every sense.”, or “And what’s with this girlfriend pose of Maa Kali with a pajama?”) … this is prima facie wrong. I have some further thoughts on this that I shall detail elsewhere (having just bombarded a noble associate’s chat-window with a few of them, in earnest 😛 ) … but it occurs to me that there is something most peculiar indeed going on if he genuinely does not believe it proper and appropriate to depict the God and Goddess Who are acknowledged as *the* Divine Couple with a union so perfect that They are occasionally depicted literally ‘as one’ (viz. Ardhanarishvara) … as expressing affection via Devi having Her Arm about Mahadev’s shoulders in a half-embrace. Especially because *there are quite an extensive array of sculptures and scriptural elements* that would appear to flagrantly offend his sensibilities.
 
@@ -163,7 +154,8 @@ Yet what we *did* get was quite instructive.
 
 Some responded with ‘their’ rendering – that, in fact, turned out to be word-for-word the Griffith translation produced in the 1890s.
 
-The Griffith translation produced, I should add, in a climate of decidedly Victorian morality – and which by that translator’s own direct admission meant that he had ‘self-censored’ various portions.  
+The Griffith translation produced, I should add, in a climate of decidedly Victorian morality – and which by that translator’s own direct admission meant that he had ‘self-censored’ various portions.
+
 In one prominent case, choosing only to present certain lines translated *into Latin* so as to keep them out of the head of the ordinary reader; yet in this particular case, only choosing to phrase things in rather bowdlerized fashion that meant that you would have little idea of what was really going on from his work.
 
 This was the version – these were the meanings – that we were told by these respondents to be the ‘proper’ and ‘authentic’ and ‘true’ ones.
@@ -190,7 +182,7 @@ I do not mean to group our interlocutor into such unfortunate company (even if h
 
 ![*\[context for these – he’d objected to some modern art depicting Kali wielding, inter alia, an assault rifle – his reasoning appeared to have been something about a Christian-Marxist conspiracy. Which included a rather … curious statement about the Pope being, literally, some kind of Marxist, if memory serves.\]*](https://aryaakasha.files.wordpress.com/2022/06/image-3.png?w=617)
 
-  
+
 But that is another travail for another time. And this response has already grown far more in the telling than I had initially intended.
 
 I cannot speak for the artist, HC, but I can speak most resoundingly (and, it should seem, at great length) for myself.

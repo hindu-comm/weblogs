@@ -5,6 +5,7 @@ date = "2022-06-08"
 upstream_url = "https://aryaakasha.com/2022/06/08/on-wyrd-women-dwelling-in-waters-handing-out-swords-as-the-supernal-basedness-for-a-system-of-government-part-2-the-coronation-of-the-demigod-king-hercules-indra-varuna-and-those-render/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/06/08/on-wyrd-women-dwelling-in-waters-handing-out-swords-as-the-supernal-basedness-for-a-system-of-government-part-2-the-coronation-of-the-demigod-king-hercules-indra-varuna-and-those-render/).
 
 On Wyrd Women Dwelling In Waters Handing Out Swords As The Supernal Basedness For A System Of Government – Part 2 – The Coronation Of The DemiGod King : Hercules, Indra-Varuna And Those Rendered Alike To Him
@@ -13,17 +14,19 @@ On Wyrd Women Dwelling In Waters Handing Out Swords As The Supernal Basedness Fo
 
 ![](https://aryaakasha.files.wordpress.com/2022/06/fl7jmfhvgame7s9.jpg)
 
-  
+
 If you’ve just joined us … a brief catch-up on The Story So Far.
 
 A few days ago, an associate asked about the relationship of the Goddess to the coronation of a King in comparative Indo-European terms. Me being me, this lead to … the dedicated need for an (A)Arti-cle upon the subject. Several, in fact!
 
-[The previous (first) installment introduced the concept](https://aryaakasha.com/2022/05/31/on-wyrd-women-dwelling-in-waters-handing-out-swords-as-the-supernal-basedness-for-a-system-of-government-part-1/). We took a brief look at two prominent exemplars for the theology ‘in motion’ – that ofKing Arthur and Excalibur from the Lady of the Lake; and ShivaJi of the Marathas being granted the Bhavani Tulwar by Devi.  
-  
+[The previous (first) installment introduced the concept](https://aryaakasha.com/2022/05/31/on-wyrd-women-dwelling-in-waters-handing-out-swords-as-the-supernal-basedness-for-a-system-of-government-part-1/). We took a brief look at two prominent exemplars for the theology ‘in motion’ – that ofKing Arthur and Excalibur from the Lady of the Lake; and ShivaJi of the Marathas being granted the Bhavani Tulwar by Devi.
+
 The effective idea was that a Goddess, hailing from the Waters (a liminal sphere for the world of men – and even the universe entire – in Indo-European terms), would ‘choose’ and thusly ’empower’ a given human figure. Often granting him a weapon (indeed, in certain cases and senses, it may even seem to be Her \*in\* the Weapon ! After all, ‘Ultima Ratio Regum’ foremost in mind, ‘Speech’ (and ‘Force’ – particularly in Sanskrit, where this is ‘Shakti’) can indeed be a most formidable Weapon or Instrument of the Rulership) as externally visible signifier as to this process.
 
-We then explored some of the associated theology to further demonstrate (and, for that matter, directly attest) what was going on ‘beneath the hood’ in those two majornarrative examples aforementioned.  
-These detailings included Vak bestowing the Vajra (as a congealed ‘spark’ of Rta – Cosmic Law), Athena ‘unlocking’ the Thunderbolt of Zeus, and part of the role for The Waters in all of this.  
+We then explored some of the associated theology to further demonstrate (and, for that matter, directly attest) what was going on ‘beneath the hood’ in those two majornarrative examples aforementioned.
+
+These detailings included Vak bestowing the Vajra (as a congealed ‘spark’ of Rta – Cosmic Law), Athena ‘unlocking’ the Thunderbolt of Zeus, and part of the role for The Waters in all of this.
+
 Which, to save you going back and reading it all again – included the notion of the Waters housing both Goddess and that ultimate Cosmic Order (Herself); and with particular exemplars includingVak hailing from Samudra (whence, also, that aforementioned Vajra), Athena Tritogeneia, Frigg in Fensalir, and Sága in Sökkvabekkr, etc.
 
 We closed off Part One with the following:
@@ -48,7 +51,8 @@ The best way to approach the concept of Coronation in the Indo-European world-vi
 
 One of the Hymnals which expresses this essential precept is AtharvaVedaShaunakiya III 8. Which, interestingly enough, is also utilized in some of its components for \*other\* forms of Initiation, potentially – including students having completed particular Vedic instruction. Given that the Hymnal has as one of its primary ‘functions’ the gathering to one and ‘binding’ in of Wisdom, that is perhaps not as surprising as it might otherwise perhaps happen to be.
 
-We won’t go through the whole hymnal – suffice to say the basic idea is, as we have said, to instill particular Divinely keyed qualities into the reign of the aspirant-ruler in question, and to bring together his kinsmen and compatriots in support of him and his incipient regime.  
+We won’t go through the whole hymnal – suffice to say the basic idea is, as we have said, to instill particular Divinely keyed qualities into the reign of the aspirant-ruler in question, and to bring together his kinsmen and compatriots in support of him and his incipient regime.
+
 Not for nothing does the Griffith translation entitle this Hymnal as: “A charm to secure the submission, love, and fidelity of kinsmen”; whilst the much more recent Dr Tulsi Ram rendition declares its purpose to be ‘Rashtra \[i.e. ‘National’\] Unity’. Taciturn as ever, Whitney contents himself by labelling the Hymn by both title and purpose as, simply, : “For Authority”.
 
 Now our interest for the purposes of this series is chiefly concentrated in the second part to Line Two:
@@ -93,8 +97,7 @@ And, as everybody knows – Indra and Herakles are both expressions of the Indo-
 
 One dimension that is pertinent in ways which may become apparent later on, is the situation recounted in the canon (specifically, in this case, Diodorus Siculus IV 9 6), wherein Hera winds up nursing the infant Hercules.
 
-“After Alcmenê had brought forth the babe, fearful of Hera’s jealousy she exposed it at a place which to this time is called after him the Field of Heracles. Now at this very time Athena, approaching the spot in the company of Hera and being amazed at the natural vigour of the child, persuaded Hera to offer it the breast.”  
-\[Oldfather Translation\]
+“After Alcmenê had brought forth the babe, fearful of Hera’s jealousy she exposed it at a place which to this time is called after him the Field of Heracles. Now at this very time Athena, approaching the spot in the company of Hera and being amazed at the natural vigour of the child, persuaded Hera to offer it the breast.” \[Oldfather Translation\]
 
 ![](https://aryaakasha.files.wordpress.com/2022/06/mid_00320621_001.jpg?w=747)
 
@@ -166,8 +169,7 @@ One very emphatic passage from the Shatapatha Brahmana (V 5 2 8-10) helps to bri
 
 9 They then seize a dappled one, which is clearly with calf, (as a victim) for the Maruts. The mode of procedure regarding this one is the same. The Maruts being the clans, he thereby makes him the embryo of the clans. The sacrificial fee for this (cow-offering) is just such a dappled (cow) that is clearly with calf.
 
-10 These two animal victims, whilst being such, are seized (by some) in a different way. The one that is seized for Aditi, (some) seize for the Âdityas,–the Âdityas being the All, he (the priest) thereby makes him the embryo of the All (universe). And the one that is seized for the Maruts, (some) seize for the All-gods,–the All-gods being the All, he thereby makes him the embryo of the All.”  
-\[Eggeling Translation\]
+10 These two animal victims, whilst being such, are seized (by some) in a different way. The one that is seized for Aditi, (some) seize for the Âdityas,–the Âdityas being the All, he (the priest) thereby makes him the embryo of the All (universe). And the one that is seized for the Maruts, (some) seize for the All-gods,–the All-gods being the All, he thereby makes him the embryo of the All.” \[Eggeling Translation\]
 
 We should also add viz. the situation of SBr V 5 2 9, and its description of the nascent (no-longer-\*quite\*-) human Ruler as being made the ’embryo of the clans’ – per Eggeling’s footnoting: “That is, he causes him to spring forth from the midst of the people, and be protected by them on all sides.”
 
@@ -197,32 +199,17 @@ The human king serving as a Regent of Hers down here upon this Earth amidst the 
 
 In closing for this component to our series, we can do little better than quote (even in English translation – for which I shall spare you the footnoting!) from the Shruti:
 
-AV-S VII 6:  
-“We call for help the Queen of Law and Order, Great Mother of  
- All those whose ways are righteous,  
- Far-spread, unwasting strong in Her Dominion, Aditi wisely lead-  
- ing, well protecting.  
-\[…\]  
-Earth, our Strong Guard, incomparable Heaven, Aditi wisely lead-  
- ing, well protecting.  
-Let us bring hither, in pursuit of riches, Aditi with Our Word,  
- the Mighty Mother,  
- Her in Whose Lap the spacious air is lying: may She afford us  
- triply-guarding shelter!”  
-\[Griffith Translation\]
+AV-S VII 6: “We call for help the Queen of Law and Order, Great Mother of  All those whose ways are righteous,  Far-spread, unwasting strong in Her Dominion, Aditi wisely lead-  ing, well protecting.
+
+\[…\] Earth, our Strong Guard, incomparable Heaven, Aditi wisely lead-  ing, well protecting.
+
+Let us bring hither, in pursuit of riches, Aditi with Our Word,  the Mighty Mother,  Her in Whose Lap the spacious air is lying: may She afford us  triply-guarding shelter!” \[Griffith Translation\]
 
 And, further:
 
-White YV 21:  
-“5 We call to succour us the mighty Mother of those whose  
-sway is just, the Queen of Order,  
-Strong-ruler, far-expanding, ne’er decaying, Aditi gracious  
-Guide and Good Protectress.  
-6 Sinless may we ascend, for weal, this vessel rowed with  
-good oars, divine, that never leaketh,  
-Earth our Strong Guard, incomparable Heaven. Aditi gracious  
-guide and Good Protectress.”  
-\[Griffith Translation\]
+White YV 21: “5 We call to succour us the mighty Mother of those whose sway is just, the Queen of Order, Strong-ruler, far-expanding, ne’er decaying, Aditi gracious Guide and Good Protectress.
+
+6 Sinless may we ascend, for weal, this vessel rowed with good oars, divine, that never leaketh, Earth our Strong Guard, incomparable Heaven. Aditi gracious guide and Good Protectress.” \[Griffith Translation\]
 
 Not for nothing, it should seem, [did Jung once opine](https://aryaakasha.com/2022/03/11/adoption-by-a-divine-mother/):
 

@@ -5,14 +5,15 @@ date = "2022-02-04"
 upstream_url = "https://aryaakasha.com/2022/02/04/kali-as-fire-of-time-glorious-modern-hindu-art-for-devis-day/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/02/04/kali-as-fire-of-time-glorious-modern-hindu-art-for-devis-day/).
 
 Kali As Fire Of Time – Glorious Modern Hindu Art For Devi’s Day
 
 ![](https://aryaakasha.files.wordpress.com/2022/02/a6279debe8fbf0ae931e2f26ca647d1b.jpg?w=672)
 
-JAI MATA DI !  
-  
+JAI MATA DI !
+
 Further art from Ravi Zupa
 
 We also note, with regard to the lower portion of the text, the Vedic mention of ‘KaalAgniRudra’ – quite directly, the (Black) Fire of Time, and with the specific Rudra involvement (rendered in the relevant text as ‘KaalAgniRudraya’, because it is in the Sri Rudram of the Yajurveda and this is an invocation of offering To *Him*) connoting that it is the *Apocalyptic* Fire that is at the *End* of Time \[the preceding TrikAgniKaalaya implicitly connoting, as the Three Fires which are carried out at different points of the Day, the Fire as Time (and its marking) *within* the span of existence *afore* the Night at the End of the World\].

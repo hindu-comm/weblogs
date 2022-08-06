@@ -5,6 +5,7 @@ date = "2022-04-03"
 upstream_url = "https://aryaakasha.com/2022/04/03/brahmacharini-for-chaitra-navratri-seeker-of-the-absolute/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/04/03/brahmacharini-for-chaitra-navratri-seeker-of-the-absolute/).
 
 Brahmacharini for Chaitra Navratri – Seeker of the Absolute
@@ -75,15 +76,13 @@ The ‘Cycle’, the ‘Turning’ of the High (\*bʰerǵʰ-), is complete.
 
 Jai Mata Di
 
-As I put it in our more comprehensive Brahmacharini commentary  
-(available here – [https://aryaakasha.com/2019/10/01/brahmacharini-the-second-of-the-navadurgas-the-second-night-of-navratri-2/](https://aryaakasha.com/2019/10/01/brahmacharini-the-second-of-the-navadurgas-the-second-night-of-navratri-2/) )
+As I put it in our more comprehensive Brahmacharini commentary (available here – [https://aryaakasha.com/2019/10/01/brahmacharini-the-second-of-the-navadurgas-the-second-night-of-navratri-2/](https://aryaakasha.com/2019/10/01/brahmacharini-the-second-of-the-navadurgas-the-second-night-of-navratri-2/) )
 
 “The Lesson of Brahmacharini, therefore, is simple:
 
 When you are Going through Kel \[PIE\] …
 
-KEEP  
-GOING
+KEEP GOING
 
 ॐ देवी ब्रह्मचारिण्यै नमः॥”
 

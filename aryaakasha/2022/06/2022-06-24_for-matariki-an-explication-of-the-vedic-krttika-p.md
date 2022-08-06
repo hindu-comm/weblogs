@@ -5,6 +5,7 @@ date = "2022-06-24"
 upstream_url = "https://aryaakasha.com/2022/06/24/for-matariki-an-explication-of-the-vedic-krttika-pleiades-constellation/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/06/24/for-matariki-an-explication-of-the-vedic-krttika-pleiades-constellation/).
 
 For Matariki – An Explication Of The Vedic Krttika (Pleiades) Constellation
@@ -37,17 +38,18 @@ Another understanding concerns the application of fire for ‘cooking’ – som
 
 Now, translations of the relevant Vedic texts into English are rather few and far between, but I have nevertheless managed to source several which help to elucidate what it is that I’m about here. Here’s the Nealy rendition for several relevant sections of the Taittiriya Brahmana:
 
-Taittirīya Brāhmaṇa: Aṣṭaka 1, Prapāṭhaka 1, Anuvāka 2  
-“1 One should offer to Agni among the Kṛttikās. Indeed, that is the nakṣatra of Agni. Indeed who, having offered to the Kṛttikās and him \[Agni\] among one’s own deity becomes eminent in sacred knowledge. That is indeed the foremost of the nakṣatras, which are the Kṛttikās. The one who offers to Agni among the Kṛttikās, indeed becomes the foremost.”
+Taittirīya Brāhmaṇa: Aṣṭaka 1, Prapāṭhaka 1, Anuvāka 2 “1 One should offer to Agni among the Kṛttikās. Indeed, that is the nakṣatra of Agni. Indeed who, having offered to the Kṛttikās and him \[Agni\] among one’s own deity becomes eminent in sacred knowledge. That is indeed the foremost of the nakṣatras, which are the Kṛttikās. The one who offers to Agni among the Kṛttikās, indeed becomes the foremost.”
 
-Taittirīya Brāhmaṇa: Aṣṭaka 3, Prapāṭhaka 1, Anuvākas 1 and 2  
-“1 May Agni protect the Kṛttikās for us.This nakṣatra has a distinct deity and power of those \[Kṛttikās\]. Having come into possession of an oblation, may you sacrifice.  
+Taittirīya Brāhmaṇa: Aṣṭaka 3, Prapāṭhaka 1, Anuvākas 1 and 2 “1 May Agni protect the Kṛttikās for us.This nakṣatra has a distinct deity and power of those \[Kṛttikās\]. Having come into possession of an oblation, may you sacrifice.
+
 2 The rays of light of whom and the comets of whom shine and the divine Agni of whom dwells in all those places and creatures with the Kṛttikās, he should bestow upon us the good path.”
 
 And, to give another sense of that latter pair of verses – the Dumont rendition:
 
-“(1.a) Let Agni protect us, (let) the Krttikas, the Naksatra (of Agni), the divine manly power (protect us).  
-Pour (O priests) this radiant oblation into their mouth.  
+“(1.a) Let Agni protect us, (let) the Krttikas, the Naksatra (of Agni), the divine manly power (protect us).
+
+Pour (O priests) this radiant oblation into their mouth.
+
 (1.b) Let him, whose rays, whose banners, shine, to whom all these beings, all, belong, who wraps himself in the Krttikas, – let god Agni establish us in welfare.”
 
 As we can see, this sense of bestowing to the worshipper the correct ‘insight’ – the guidance to great and powerful (often secret) knowledge – has Vedic precedency. As, of course, does the notion of being Guided upon the path – the Pathway of the Stars.
@@ -56,8 +58,7 @@ As Leonard Cohen put it in ‘First We Take Manhattan’: “I’m Guided by a S
 
 Further occurrences for the Krittikas of saliency for us here are to be found in the actual main text (Sanhita) of the Taittiriya Yajurveda:
 
-IV 4 10  
-“\[line a\] (Thou art) Krttikas, the Naksatra, Agni, the deity; Ye are the radiances of Agni, of Prajapati, of the Creator, of Soma; to the Re Thee, to Radiance Thee, to the Shining Thee, to the Blaze Thee, to the Light Thee”
+IV 4 10 “\[line a\] (Thou art) Krttikas, the Naksatra, Agni, the deity; Ye are the radiances of Agni, of Prajapati, of the Creator, of Soma; to the Re Thee, to Radiance Thee, to the Shining Thee, to the Blaze Thee, to the Light Thee”
 
 For the second half of the line, the actual text is interesting. In the Sanskrit: “Rce Tva Ruce Tva Dyute Tva Bhase Tva Jyotise Tva”. ‘Tva’ is, of course, ‘\[To\] Thee’ (like ‘Tu’ etc. in Latin, French – or, for that matter, ‘Thee’ itself is a direct cognate); but these ‘operative phrases’: ‘Rce’, ‘Ruce’, ‘Dyute’, ‘Bhase’, and ‘Jyotise’ … two of these are reasonably straightforward (if understated in the translation) terms. ‘Dyute’ and ‘Jyotise’ (which, again, rather interestingly, are actually two forms of the same root – with the latter deriving from the former after having been ‘re-absorbed’ into the Sanskrit corpus from a Prakrit sojourn, allegedly) refer to Celestial Radiancy – ‘Dyu’ as in ‘Shining Heaven’, (like ‘Day’-light – which also comes from the same PIE root; or, of course, Dyaus Pitar – Our Father Who Art Heaven), and ‘Jyotis’, which means ‘Celestial Light’ in another way, and often refers to the illumination of particular heavenly bodies such as stars (hence ‘Jyotisha’ as the Hindu star-science).
 
@@ -75,8 +76,7 @@ Goes rather well with that Anglo-Saxon understanding of what had become of Ansuz
 
 One final point which ought be made is that the Krttika Nakshatra has an indelible association with warfare – and its champions. This ought be obvious via the birth of Kartikeya (one of the prominent Hindu War Gods) to these Six Mothers, as well as the coterminity with what we in the West would think of as Aries in terms of Sun Houses. However, in addition to the often overlooked strong saliency of Agni in warfare (c.f the ‘Anikavat’ understanding aforementioned – and there is quite a suite of RigVedic verses etc. likewise upon a similar theme), we also have an extended mention in the Mahabharat for another august figure ‘born’ under the Krttika Sign: The Asi, the First Sword.”
 
-You can read the full piece up upon the site –  
-[https://aryaakasha.com/2021/12/02/krttika-the-six-swords-of-the-stars/](https://aryaakasha.com/2021/12/02/krttika-the-six-swords-of-the-stars/)
+You can read the full piece up upon the site – [https://aryaakasha.com/2021/12/02/krttika-the-six-swords-of-the-stars/](https://aryaakasha.com/2021/12/02/krttika-the-six-swords-of-the-stars/)
 
 Which more fully-explicates this fine bind-rune row that I had prepared for the Krittika asterism.
 

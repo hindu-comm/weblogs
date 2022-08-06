@@ -5,6 +5,7 @@ date = "2022-02-18"
 upstream_url = "https://aryaakasha.com/2022/02/18/the-goddess-given-empowerment-of-the-indo-european-hero-as-beautifully-illustrated-via-athena-in-the-iliad-and-vak-devi/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/02/18/the-goddess-given-empowerment-of-the-indo-european-hero-as-beautifully-illustrated-via-athena-in-the-iliad-and-vak-devi/).
 
 The Goddess-Given Empowerment Of The Indo-European Hero – As Beautifully Illustrated Via Athena In The Iliad And Vak Devi
@@ -51,8 +52,7 @@ This poem opens with that immortal line –
 
 “The wrath sing, goddess, of Peleus’ son, Achilles, that destructive wrath \[…\]” \[Augustus Taber Murray translation\] would be things in a more direct word-order for the actual Ancient Greek itself –
 
-“μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος  
-οὐλομένην \[…\]”
+“μῆνιν ἄειδε θεὰ Πηληϊάδεω Ἀχιλῆος οὐλομένην \[…\]”
 
 That first word you see there, is ‘Menis’ (μῆνῐς) – a close confederate of Ancient Greek ‘Menos’ (μένος). And, interestingly enough, Sanskrit ‘Meni’ (मेनि). Which I mention due to that most eloquent meaning-field for ‘Meni’ as encompassing both a ‘weapon’ and Anger, Vengeance (especially of the Divine variety), and the Thunderbolt … but also, rather saliently, the Power of Speech: Vak.
 
@@ -212,9 +212,12 @@ Indeed, this should therefore make the second line of RV VIII 100 rather interes
 
 In context:
 
-1 I move before Thee here present in person, and all the Deities follow behind Me.  
-When, Indra, Thou securest Me My portion, with Me Thou shalt perform heroic actions.  
-2 The food of meath in foremost place I give Thee, Thy Soma shall be pressed, Thy share appointed.  
+1 I move before Thee here present in person, and all the Deities follow behind Me.
+
+When, Indra, Thou securest Me My portion, with Me Thou shalt perform heroic actions.
+
+2 The food of meath in foremost place I give Thee, Thy Soma shall be pressed, Thy share appointed.
+
 Thou on my right shalt be My Friend and Comrade: then shall We Two smite dead full many a foeman.
 
 Or, phrased another way, that most prototypical of Indo-European Heroes, the Lord Indra, directed to make proper and appropriate pledge (of) offering to Vak (Who has appeared ‘In Person’ (Tanu), so to speak – and ‘In Person’ is rather interesting considering the relevant Vedic ritual metaphysics of ‘Speaking on Her Behalf’) in order to attain Her Boon …

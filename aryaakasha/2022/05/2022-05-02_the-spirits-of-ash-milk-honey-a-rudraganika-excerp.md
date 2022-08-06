@@ -5,21 +5,22 @@ date = "2022-05-02"
 upstream_url = "https://aryaakasha.com/2022/05/02/the-spirits-of-ash-milk-honey-a-rudraganika-excerpt/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/05/02/the-spirits-of-ash-milk-honey-a-rudraganika-excerpt/).
 
 The Spirits Of Ash, Milk, & Honey – A RUDRAGANIKA Excerpt
 
 ![](https://aryaakasha.files.wordpress.com/2022/05/279340846_369981231745539_1106476884686222868_n.jpg?w=819)
 
-An excerpt from my recent RUDRAGANIKA (A)Arti-cle looking at the Female Retinue of the Indo-European Sky Father – in this piece, uncovering the remarkable concordancy of elements concerning members of this Retinue as tenders to the Axis Mundi, the World Tree or Sthambha.  
-  
-This is particularly oriented toward the Ash Nymphs, although also links into various other salient understandings for both mythic and archaic female figures acting in a ‘priestess’ competency as well (c.f. [the Thyiades we had considered elsewhere and in a previous extract](https://aryaakasha.com/2022/04/20/the-thiasos-of-dionysus-a-rudraganika-excerpt/)).  
-  
+An excerpt from my recent RUDRAGANIKA (A)Arti-cle looking at the Female Retinue of the Indo-European Sky Father – in this piece, uncovering the remarkable concordancy of elements concerning members of this Retinue as tenders to the Axis Mundi, the World Tree or Sthambha.
+
+This is particularly oriented toward the Ash Nymphs, although also links into various other salient understandings for both mythic and archaic female figures acting in a ‘priestess’ competency as well (c.f. [the Thyiades we had considered elsewhere and in a previous extract](https://aryaakasha.com/2022/04/20/the-thiasos-of-dionysus-a-rudraganika-excerpt/)).
+
 The full-length piece can be found here –
 
 [https://aryaakasha.com/2022/03/08/rudraganika-a-study-in-eternal-return-as-manifested-through-the-sky-fathers-female-retinue-across-the-indo-european-world/](https://aryaakasha.com/2022/03/08/rudraganika-a-study-in-eternal-return-as-manifested-through-the-sky-fathers-female-retinue-across-the-indo-european-world/)
 
-Illustration, as per usual, by HC – who’s done a beautiful job of bringing together various elements and the ‘feeling’ for the essence under discussion !  
+Illustration, as per usual, by HC – who’s done a beautiful job of bringing together various elements and the ‘feeling’ for the essence under discussion !
 
 —-
 
@@ -33,14 +34,12 @@ A potential point for follow-up in these regards might incorporate the later Nor
 
 In the earlier Nordic sphere, the female beings that perform this vital service of oblation for the Axis Mundi are, per the Gylfaginning, Norns. To quote from the text:
 
-“It is further said that these Norns who dwell by the Well of Urdr take water of the well every day, and with it that clay which lies about the well, and sprinkle it over the Ash, to the end that its limbs shall not wither nor rot; for that water is so holy that all things which come there into the well become as white as the film which lies within the egg-shell”  
-\[Brodeur translation\]
+“It is further said that these Norns who dwell by the Well of Urdr take water of the well every day, and with it that clay which lies about the well, and sprinkle it over the Ash, to the end that its limbs shall not wither nor rot; for that water is so holy that all things which come there into the well become as white as the film which lies within the egg-shell” \[Brodeur translation\]
 
 We might ponder whether the underlying etymology for ‘Norn’ – which effectively traces back to a PIE term (\*h₁ner-) for ‘Inner’, ‘Under’, ‘Within’ \[c.f. Ancient Greek ‘Nerthen’ (νέρθεν), ‘From Under’ (the ‘-then’ (-θεν) being ‘from’)\] should prove pertinent. Not to \*displace\* the conventional understanding of Norn as deriving from, effectively, a term for ‘Northern’ – after all \*the\* Axis Mundi is likely in the North – but, of course, this notion that the cultic situation ‘at the root’ (both figuratively and mytho-literally) might be thusly located is clearly not exclusive with it being, well, a ‘cultic’ situation. Helpfully, ‘North’ etc. is also from that exact same Proto-Indo-European root.
 
 Perhaps this situation, of a female coterie performing sacred offerings to an embodied form of the God, is what is referenced in that passage of Pausanias which speaks of the worship in the city ofBryseae –
 
-“A temple of Dionysos still survives there with a statue in the open air; only women are allowed to see the statue inside the temple; and all the ceremonies of sacrifice are performed in secret by women.”  
-\[Guide to Greece, 3 20 3, Levi translation\]
+“A temple of Dionysos still survives there with a statue in the open air; only women are allowed to see the statue inside the temple; and all the ceremonies of sacrifice are performed in secret by women.” \[Guide to Greece, 3 20 3, Levi translation\]
 
 Yet let us move forward, in earnest.

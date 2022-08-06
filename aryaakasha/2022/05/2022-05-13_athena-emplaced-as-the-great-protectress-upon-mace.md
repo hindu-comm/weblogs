@@ -5,6 +5,7 @@ date = "2022-05-13"
 upstream_url = "https://aryaakasha.com/2022/05/13/athena-emplaced-as-the-great-protectress-upon-macedonian-royal-armour-arte-facts-15/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/05/13/athena-emplaced-as-the-great-protectress-upon-macedonian-royal-armour-arte-facts-15/).
 
 Athena Emplaced As The Great Protectress Upon Macedonian Royal Armour [ Arte-Facts #15 ]
@@ -45,49 +46,35 @@ They *empower* him, they make him both mighty and sovereign (and we shall, perha
 
 As applies the former, we observe the situation elucidated in the famed Rabatak Inscription of the Kushan (interestingly, written in Greek script) – wherein the Emperor Kanishka is said to have been given his power and station by the Goddess Nana, Umma. We also observe those situations of Devi’s invocation in coronation rites more ‘closer in’ to the core of the orthodox Hindusphere in India, as well.
 
-Yet in terms of protection – well, we shall just quote a few Vedic verses via way of exceptionally brief illustration as to the latter:  
+Yet in terms of protection – well, we shall just quote a few Vedic verses via way of exceptionally brief illustration as to the latter:
 
-AV VII 6:  
-“We call for help the Queen of Law and Order, Great Mother of all those whose ways are righteous,  
-Far-spread, unwasting strong in Her Dominion, Aditi wisely leading, well protecting.  
-\[…\]  
-Earth, our strong guard, incomparable Heaven, Aditi wisely leading, well protecting.  
-Let us bring hither, in pursuit of riches, Aditi with our Word, the Mighty Mother,  
-Her in whose lap the spacious air is lying: may She afford us triply-guarding shelter!”  
+AV VII 6: “We call for help the Queen of Law and Order, Great Mother of all those whose ways are righteous, Far-spread, unwasting strong in Her Dominion, Aditi wisely leading, well protecting.
 
-RV VIII 47:  
-“8 Resting in You, O Gods, we are like men who fight in coats of mail.  
-Ye guard us from each great offence, ye guard us from each lighter fault.  
-9 May Aditi defend us, may Aditi guard and shelter us,  
-Mother of wealthy Mitra and of Aryaman and Varuṇa.  
-10 The shelter, Gods, that is secure, auspicious, free from malady,  
-A sure protection, triply strong, even that do Ye extend to us.”  
+\[…\] Earth, our strong guard, incomparable Heaven, Aditi wisely leading, well protecting.
 
-RV VIII 56:  
-“10 And Thee too, O Great Aditi, Thee also, Goddess, I address,  
-Thee very gracious to assist.  
-11 Save us in depth and shallow from the foe, Thou Mother of Strong Sons  
-Let no one of our seed be harmed.”  
+Let us bring hither, in pursuit of riches, Aditi with our Word, the Mighty Mother, Her in whose lap the spacious air is lying: may She afford us triply-guarding shelter!”
 
-RV VIII 18:  
-“4 With Gods come thou whose fostering care none checks, O Goddesss Aditi:  
-Come, dear to many, with the Lords who guard us well.  
-5 For well these Sons of Aditi know to keep enmities aloof,  
-Unrivalled, giving ample room, they save from woe.  
-6 Aditi guard our herd by day, Aditi, free from guile, by night,  
-Aditi, ever strengthening, save us from grief!  
-7 And in the day our hymn is this: May Aditi come nigh to help,  
-With loving-kindness bring us weal and chase our foes.”  
+RV VIII 47: “8 Resting in You, O Gods, we are like men who fight in coats of mail.
 
-White YV 21:  
-“5 We call to succour us the mighty Mother of those whose  
-sway is just, the Queen of Order,  
-Strong-ruler, far-expanding, ne’er decaying, Aditi gracious  
-guide and good protectress.  
-6 Sinless may we ascend, for weal, this vessel rowed with  
-good oars, divine, that never leaketh,  
-Earth our strong guard, incomparable Heaven. Aditi gracious  
-guide and good protectress.”  
+Ye guard us from each great offence, ye guard us from each lighter fault.
+
+9 May Aditi defend us, may Aditi guard and shelter us, Mother of wealthy Mitra and of Aryaman and Varuṇa.
+
+10 The shelter, Gods, that is secure, auspicious, free from malady, A sure protection, triply strong, even that do Ye extend to us.”
+
+RV VIII 56: “10 And Thee too, O Great Aditi, Thee also, Goddess, I address, Thee very gracious to assist.
+
+11 Save us in depth and shallow from the foe, Thou Mother of Strong Sons Let no one of our seed be harmed.”
+
+RV VIII 18: “4 With Gods come thou whose fostering care none checks, O Goddesss Aditi: Come, dear to many, with the Lords who guard us well.
+
+5 For well these Sons of Aditi know to keep enmities aloof, Unrivalled, giving ample room, they save from woe.
+
+6 Aditi guard our herd by day, Aditi, free from guile, by night, Aditi, ever strengthening, save us from grief! 7 And in the day our hymn is this: May Aditi come nigh to help, With loving-kindness bring us weal and chase our foes.”
+
+White YV 21: “5 We call to succour us the mighty Mother of those whose sway is just, the Queen of Order, Strong-ruler, far-expanding, ne’er decaying, Aditi gracious guide and good protectress.
+
+6 Sinless may we ascend, for weal, this vessel rowed with good oars, divine, that never leaketh, Earth our strong guard, incomparable Heaven. Aditi gracious guide and good protectress.”
 
 There are literal litanies of additional ritualistic invocation that we could further quote to elucidate our purpose here – but I think the point is made.
 

@@ -5,6 +5,7 @@ date = "2022-05-06"
 upstream_url = "https://aryaakasha.com/2022/05/06/on-minerva-and-the-very-threatening-cat/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/05/06/on-minerva-and-the-very-threatening-cat/).
 
 On Minerva And The Very Threatening Cat
@@ -41,19 +42,17 @@ Meaning that She *insists* on bringing this great terrifying tiger home with Her
 
 To skip ahead a bit ..
 
-“The Goddess said:—  
-2 Is this tiger that has resorted to Me seen by You? He has guarded My penance grove from wicked animals.
+“The Goddess said:— 2 Is this tiger that has resorted to Me seen by You? He has guarded My penance grove from wicked animals.
 
 3 Dedicating his mind to Me he worships Me without thinking of anything else. There is nothing more pleasing to Me than his protection.
 
 4 He shall be appointed as an official in My harem. Out of pleasure Śiva will grant him the post of Ganeśvara.
 
-5 I wish to return with My friends keeping him ahead. I seek permission from you the lord of the subjects.  
-  
+5 I wish to return with My friends keeping him ahead. I seek permission from you the lord of the subjects.
+
 6 Thus addressed, Brahmā smiled and told the Goddess describing the lion’s wicked antecedents as though the Goddess was unaware.
 
-Brahmā said:—  
-7 O Goddess, animals are cruel. How can Your blissful thought be directed to these? Why do You sprinkle nectar in the mouth of the serpent?
+Brahmā said:— 7 O Goddess, animals are cruel. How can Your blissful thought be directed to these? Why do You sprinkle nectar in the mouth of the serpent?
 
 8 This is a certain night-prowling wicked demon in the garb of a tiger (vyāghra). Cows, Brahmins and saints have been devoured by him.
 
@@ -61,12 +60,10 @@ Brahmā said:—
 
 10 Why shall mercy be shown to wicked souls like this? What is the purpose served by one innately sinful?
 
-The Goddess said:—  
-11 What You have said is entirely true. Let him be like this. Still he has resorted to Me. One who has sought refuge in Me shall not be abandoned.
+The Goddess said:— 11 What You have said is entirely true. Let him be like this. Still he has resorted to Me. One who has sought refuge in Me shall not be abandoned.
 
-Brahmā said:—  
-12 I narrated his antecedents without realising his devotion. If there be devotion, sins are not effective? Your devotee never perishes.  
-  
+Brahmā said:— 12 I narrated his antecedents without realising his devotion. If there be devotion, sins are not effective? Your devotee never perishes.
+
 13 What can a man of virtuous rites achieve without depending on Your behest? You alone are the unborn, intelligent, ancient Goddess.
 
 14 Bondage and liberation depend on You. There is no greater Śakti than You. Without You rites cannot achieve results.
@@ -89,13 +86,11 @@ Brahmā said:—
 
 23 Thus requested by Brahmā after duly reminding Her of Her great aspect the Goddess ceased from Her penance.
 
-24-29 Then taking leave of the Goddess Brahmā vanished. \[…\]  
-The Goddess was impatient to see Her lord. She kept the tiger ahead thinking Him as son born of Herself, out of affection. With the brilliant lustre of Her Body She illuminated the quarters. Thus Gaurī reached Mandara where Lord Śiva was staying—the Lord Who is the Creator, Protector and Annihilator of the Worlds.”
+24-29 Then taking leave of the Goddess Brahmā vanished. \[…\] The Goddess was impatient to see Her lord. She kept the tiger ahead thinking Him as son born of Herself, out of affection. With the brilliant lustre of Her Body She illuminated the quarters. Thus Gaurī reached Mandara where Lord Śiva was staying—the Lord Who is the Creator, Protector and Annihilator of the Worlds.”
 
 \[…\]
 
-“The Goddess said:—  
-25 Was not Kauśiki, created by Me seen by My Lord? Such a girl has never been before in the world nor will ever be.
+“The Goddess said:— 25 Was not Kauśiki, created by Me seen by My Lord? Such a girl has never been before in the world nor will ever be.
 
 26-27 Brahma will tell You about Her prowess, strength, residence on the Vindhya, Her victory in the battle with Śumbha and Niśumbha, their death, Her blessing to the Devotees and Her protection of the Worlds.
 
@@ -105,8 +100,7 @@ The Goddess was impatient to see Her lord. She kept the tiger ahead thinking Him
 
 30-32 My penance-grove was guarded by him from wicked hosts. He is greatly devoted to Me. In view of his protecting Me he is trustworthy. He has left his native place and come here for your favour. If You are pleased with him and if You love Me, O God, let him stay at the door of the harem along with the other guards and under the charge of Nandin Himself.”
 
-Vāyu said:—  
-33-34 On hearing the auspicious, loving and sweet words of the Goddess the Lord said to him “I am pleased”. Immediately he was seen like Gaṇeśa wearing the dress and features of a watchman, holding the cane made of gold and a dagger of serpentine lustre and wearing a bodice set with various gems.
+Vāyu said:— 33-34 On hearing the auspicious, loving and sweet words of the Goddess the Lord said to him “I am pleased”. Immediately he was seen like Gaṇeśa wearing the dress and features of a watchman, holding the cane made of gold and a dagger of serpentine lustre and wearing a bodice set with various gems.
 
 35 He was named Somanandin because Soma means Śiva and this tiger pleased Soma as well as Nandin.
 

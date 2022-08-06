@@ -5,6 +5,7 @@ date = "2022-04-17"
 upstream_url = "https://aryaakasha.com/2022/04/17/on-the-etymology-of-bacchus-the-roarer/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/04/17/on-the-etymology-of-bacchus-the-roarer/).
 
 On The Etymology Of Bacchus – The Roarer
@@ -33,10 +34,10 @@ We might also note that the *specific nature* of one of the better-attested ‘c
 
 After all, as Aristophanes puts it:
 
-“Dionysos, who delightest to mingle with the dear choruses of the Nymphai Oreiai, and who repeatest, while dancing with them, the sacred hymn, Euios, Euios, Euoi! Echo, the Nymphe of Cithaeron, returns thy words, which resound beneath the dark vaults of the thick foliage and in the midst of the rocks of the forest; the ivy enlaces thy brow with its tendrils charged with flowers.”  
-\[Thesmophoriazusae 990\]
+“Dionysos, who delightest to mingle with the dear choruses of the Nymphai Oreiai, and who repeatest, while dancing with them, the sacred hymn, Euios, Euios, Euoi! Echo, the Nymphe of Cithaeron, returns thy words, which resound beneath the dark vaults of the thick foliage and in the midst of the rocks of the forest; the ivy enlaces thy brow with its tendrils charged with flowers.” \[Thesmophoriazusae 990\]
 
-That ‘Euios’ (εὐαί – ‘Euae’) cry, in case you had been wondering, is effectively a ‘Howl’. Whether ecstatic, or perhaps somewhat otherwise. Goes nicely with the Wolves in that regard. And the prominent Dionysian theonymics ‘Euaster’ and ‘Euios’.  
+That ‘Euios’ (εὐαί – ‘Euae’) cry, in case you had been wondering, is effectively a ‘Howl’. Whether ecstatic, or perhaps somewhat otherwise. Goes nicely with the Wolves in that regard. And the prominent Dionysian theonymics ‘Euaster’ and ‘Euios’.
+
 I should note that it is more conventionally regarded as ‘εὐοῖ’ (Euoi), with a potentially folk-etymology of ‘Good Son’ (‘Eu’ and ‘Huios’ respectively); yet whilst ‘Good Son!’ might indeed seem a potential joyous refrain for Dionysian devotees, it nevertheless seems to lack the ‘organic’ nature of the more simple and decidedly onomatopoeic explanation. One which, as it happens, may render this ‘Howl’ a cognate to our modern ‘Ovation’.
 
 So, what does all of this mean ? Well, for a start, it posits yet another point (indeed – full-scale suite) of distinct coterminity between Dionysus and Rudra. This is unsurprising to us.”

@@ -5,6 +5,7 @@ date = "2022-07-07"
 upstream_url = "https://aryaakasha.com/2022/07/07/the-sacrifice-to-the-fourteen-gods-of-tripura-of-the-enemies-of-that-state/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/07/07/the-sacrifice-to-the-fourteen-gods-of-tripura-of-the-enemies-of-that-state/).
 
 The Sacrifice to the Fourteen Gods of Tripura of the Enemies of that State
@@ -17,7 +18,8 @@ The religious situation of Tripura at this point is intriguing, as here we see s
 
 Or, as we can see here … well, *very* large scale human sacrifice taking place even in the 16th century, per the Rajmala (‘Chronicle (or Lineage) of Kings’).
 
-The Fourteen Gods (Chaturdasa Devata) mentioned are the pantheon of the traditional patrons of Tripura – Lord Shiva (Hara) and His Wife Durga (Uma – Shankari), Vishnu (Hari) and Lakshmi (Ma), Saraswati (Bani (Vani) – Bagdevi), Kartikeya (Kumara), Ganesha (Ganapa -Siddhidata), Chandra (Biddhu), Brahma (Ka), Abdhi (Ocean), Ganga, Agni (Sekhi), Kama, and Himadri (the Himalayas).  
+The Fourteen Gods (Chaturdasa Devata) mentioned are the pantheon of the traditional patrons of Tripura – Lord Shiva (Hara) and His Wife Durga (Uma – Shankari), Vishnu (Hari) and Lakshmi (Ma), Saraswati (Bani (Vani) – Bagdevi), Kartikeya (Kumara), Ganesha (Ganapa -Siddhidata), Chandra (Biddhu), Brahma (Ka), Abdhi (Ocean), Ganga, Agni (Sekhi), Kama, and Himadri (the Himalayas).
+
 \[One list has Prithvi rather than Chandra, I should note\]
 
 I must say, the notion of sacrificing captured foemen to the God of Love (in amidst the rest of this Pantheon, of course), is a rather intriguing one.

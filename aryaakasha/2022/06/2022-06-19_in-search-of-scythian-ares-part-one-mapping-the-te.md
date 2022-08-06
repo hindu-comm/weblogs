@@ -5,13 +5,14 @@ date = "2022-06-19"
 upstream_url = "https://aryaakasha.com/2022/06/19/in-search-of-scythian-ares-part-one-mapping-the-terrain/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/06/19/in-search-of-scythian-ares-part-one-mapping-the-terrain/).
 
-In Search Of Scythian Ares – Part One : Mapping The Terrain 
+In Search Of Scythian Ares – Part One : Mapping The Terrain
 
 ![](https://aryaakasha.files.wordpress.com/2022/06/ekaterina-vitkovskaya-sword-in-the-stone.jpg?w=757)
 
-  
+
 Now before we begin, we consider it of some importance to set out a few ‘preliminary considerations’ – sketch out how these things have been generally thought about previously, and why we are departing on a rather different trajectory with our own quest for this most scintillatingly shrouded of Sword-Gods.
 
 This shall also serve as something of a handy primer for some of my more general observations (and infuriated castigations) of the ‘state of the field’ when it comes to endeavouring to piece together the Steppe-Iranic-sphere religion(s) of the time of Herodotus and beyond.
@@ -28,8 +29,8 @@ For even though this is evidently a Scythian figure … the identification as an
 
 Effectively, the major ways to try and ‘unlock’ Scythian deifics have been to approach things either ‘laterally’ or ‘vertically’ … and often with rather limited reference pools.
 
-By ‘vertically’, we mean in terms of Time. It is quite natural, in its way, to look to the descendants of the Scythians for a glimpse in at the beliefs of their forebears – and so it is almost impossible, in discussion of this nature, to avoid the imminent mention of the Nart Sagas.  
-  
+By ‘vertically’, we mean in terms of Time. It is quite natural, in its way, to look to the descendants of the Scythians for a glimpse in at the beliefs of their forebears – and so it is almost impossible, in discussion of this nature, to avoid the imminent mention of the Nart Sagas.
+
 That is as it should be. For even though the tales as they have come down to us have evidently undergone ‘evolution’ in various fashions (partially as a necessity for their survival in amidst turbulent and Islamicized times; partially because folk-traditions inevitably change somewhat over two and a half millennia; and partially, because the versions that we have were collected so ‘late’ in proceedings), there are still eminently familiar Indo-European ‘foundational’ elements to be found therein. In amidst an array of other elements that \*may\* turn out to be likewise … or to be introduced from other sources. However we must remember that when we are dealing in the realms of the Narts – it is one specific regional cluster, and so it may prove complex to extrapolate too heavily to attempt to encompass the \*entire\* Scythian sphere (or spectrum) all up. A remark, I am sure, of most general application considering the latter’s size and temporal scope.
 
 As applies this ‘Vertical’ approach in particular, there is a prominent effort inVasily Ivanovich Abaev’s ‘Tales of the Narts’ to link ‘Scythian Ares’ to the figure of Batraz and what he terms “the heathen cults of the Scythians” \[we should thank S.B. for his recommendation drawing this to our attention\]. Such a linkage is not impossible. However considering the typological understanding for the much-later-attested Batraz as seeming to express the Indo-European Striker/Thunderer deific complex … this sits to us rather curiously. We would surmise that either something has ‘shifted’ in the interim – or the ‘shift’ is one conjured from academia’s own occasionally rather fraught post-facto analysis and nothing more.

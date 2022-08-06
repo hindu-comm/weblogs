@@ -5,6 +5,7 @@ date = "2022-02-12"
 upstream_url = "https://aryaakasha.com/2022/02/12/toward-the-indo-european-identification-of-janus-some-preliminary-observations/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/02/12/toward-the-indo-european-identification-of-janus-some-preliminary-observations/).
 
 Toward The Indo-European Identification Of Janus – Some Preliminary Observations
@@ -59,9 +60,9 @@ More upon this in due time.
 
 The *other* potential etymology we shall consider is the one which should trace us back through to Proto-Indo-European \*Dyew. This is an immensely prominent particle in a lot of our work for obvious reasons. It informs, of course, the “Dyaus” of “Dyaus Pitar”, the “Ju-” of “Jupiter”, the “Zeus” of “Zeus Pater”, and so forth. It is the Bright, Shining Sky – the Heaven and Heaven’s Radiancy. Now, there are two \*other\* spheres it shows up – the first, and quite directly relevant to Janus for reasons that shall also become apparent, is in Latin ‘Dies’ : ‘Day’. This, contrary to occasional misapprehension, isn’t a linguistic cognate with ‘Day’, but nevertheless we can see the parallel sense of meaning.
 
-Day derives from PIE \*dʰegʷʰ- – a term for ‘Burning’, ‘Heat’. Because, of course, the Sun is up and blessing us with warmth during the Day-time. It is, indeed, the salient characteristic which, both physically and linguistically, \*renders\* it the ‘Day’ time.  
-(As a point of brief comparative interest, Proto-Germanic *appears* to have archaically had both forms – \*Dagaz from the aforementioned ‘Burning’ PIE root; and \*Tinaz from the aforementioned ‘Radiant Sky’ one. The latter should seem to have fallen from common use and therefore left us with only the former’s descendants, for the most part. At least, here in the Germanic linguistic sphere.)  
-We should likewise observe the parallel occurrence viz. Dies in Latin – wherein even though, again, ‘Dies’ and ‘Day’ are *not* linguistically cognate, they are nevertheless quite functionally coterminous in their ultimate construction of meaning.
+Day derives from PIE \*dʰegʷʰ- – a term for ‘Burning’, ‘Heat’. Because, of course, the Sun is up and blessing us with warmth during the Day-time. It is, indeed, the salient characteristic which, both physically and linguistically, \*renders\* it the ‘Day’ time.
+
+(As a point of brief comparative interest, Proto-Germanic *appears* to have archaically had both forms – \*Dagaz from the aforementioned ‘Burning’ PIE root; and \*Tinaz from the aforementioned ‘Radiant Sky’ one. The latter should seem to have fallen from common use and therefore left us with only the former’s descendants, for the most part. At least, here in the Germanic linguistic sphere.) We should likewise observe the parallel occurrence viz. Dies in Latin – wherein even though, again, ‘Dies’ and ‘Day’ are *not* linguistically cognate, they are nevertheless quite functionally coterminous in their ultimate construction of meaning.
 
 ‘Dies’ – it is when the Bright, Shining Sky is in evidence. The Sun is up, and therefore the Sky is Radiant. And we can similarly see that the ‘Bright’ – literally ‘Burning’ – element to the Heavens is prominent within the Proto-Indo-European understanding by considering the archaic Sanskrit derivatives, as these are immediately close in terms of both language and world-view to the most archaic sphere. द्यु (‘Dyu’), for instance, which also incorporates ‘Fire’ in its ambit of meaning, as well as ‘Day’, of course, the illuminating radiancy and the Celestial Heavens, Sky Itself.
 
@@ -97,8 +98,7 @@ Well, let us turn once more to Macrobius:
 
 “In his book On The Gods, Gavius Bassus says that Janus is represented with two faces as the doorkeeper of both heaven and the underworld, and as a compound of four figures because his majesty embraces the cardinal points of the world. The Salii, too, sing of him as the “god of gods” in their very ancient hymn. Marcus Messala, Gnaius Domitius colleague as consul \[53 BCE\] and fifty-five years an augur, begins his account of Janus as follows:
 
-He who fashions all and rules all has joined together, beneath the surrounding heavens, the nature and essence of water and earth, heavily falling headlong into the depths, and of fire and spirit, lightly escaping into the immeasurable spaces above: the vast power of heaven has bound together these two opposing forces”  
-\[…\]
+He who fashions all and rules all has joined together, beneath the surrounding heavens, the nature and essence of water and earth, heavily falling headlong into the depths, and of fire and spirit, lightly escaping into the immeasurable spaces above: the vast power of heaven has bound together these two opposing forces” \[…\]
 
 “We call him “Father” as the god of gods, “Junonian” because he controls the entry-way not just of January but of all the months, and all the Kalends are under Juno’s authority; that is why Varro, in book 5 of his Divine Antiquities, writes that twelve altars are dedicated to Janus, to equal the number of months.”
 
@@ -108,7 +108,8 @@ Gosh, a ‘Spear’ associated figure, that is also the Sun (the Brightness / Ra
 
 And that point around the presiding over the seeming organization of Time is also most intriguing to us.
 
-Within the Gobhila Grhya sutras attached to the SamaVeda, we find mention for the figure of Virupaksha (a form of Rudra) having Twelve Sons carrying out annual sacrifices unto Him. These Twelve Sons are said to be the Twelve Months in the commentary.  
+Within the Gobhila Grhya sutras attached to the SamaVeda, we find mention for the figure of Virupaksha (a form of Rudra) having Twelve Sons carrying out annual sacrifices unto Him. These Twelve Sons are said to be the Twelve Months in the commentary.
+
 It is not hard to see how the mention we find in Macrobius for Janus as a Father presiding over the Twelve Months and Twelve Altars for Sacrifice is coterminous with this. Even before we consider the mentions in the same verses of the relevant Sanskrit text for the God in question as being at the Heart of the Gods and having a Golden housing are taken into account.
 
 This strong association with ‘Time’ we also find in the more well-known ‘facings’ of Rudra – ‘Kaal’, for instance, as the sort of ‘negative’ equivalent; meaning ‘Time’, referring also to ‘Darkness’ and ‘Death’ – rather than the “Light” and “Life” of the Day-lit hours. Although, of course, vitally necessary to demarcate time as the junctures *between* Days \[c.f my earlier voluminous work pertaining to Kaal in relation to PIE \*Kel, etc.\].

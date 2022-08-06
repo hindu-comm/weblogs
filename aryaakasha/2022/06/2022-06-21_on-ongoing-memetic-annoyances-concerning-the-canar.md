@@ -5,13 +5,14 @@ date = "2022-06-21"
 upstream_url = "https://aryaakasha.com/2022/06/21/on-ongoing-memetic-annoyances-concerning-the-canardic-conflation-of-dasas-dasyus-with-the-ivc-and-or-dravidians/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/06/21/on-ongoing-memetic-annoyances-concerning-the-canardic-conflation-of-dasas-dasyus-with-the-ivc-and-or-dravidians/).
 
 On Ongoing Memetic Annoyances Concerning The Canardic Conflation Of Dasas / Dasyus With The IVC And/Or ‘Dravidians’
 
 ![](https://aryaakasha.files.wordpress.com/2022/06/twitter-south-india-culture-what.png?w=999)
 
-  
+
 
 Every. Dang. Time.
 

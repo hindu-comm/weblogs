@@ -5,6 +5,7 @@ date = "2022-04-28"
 upstream_url = "https://aryaakasha.com/2022/04/28/brief-comparanda-on-krishna-as-an-indo-european-striker-thunderer-deific-expression-for-thursday/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/04/28/brief-comparanda-on-krishna-as-an-indo-european-striker-thunderer-deific-expression-for-thursday/).
 
 Brief Comparanda On Krishna As An Indo-European Striker / Thunderer Deific Expression For Thursday
@@ -61,8 +62,7 @@ In course of a single day, O Daruka, I shall dispel the wrath and the diverse wo
 
 O charioteer, I tell thee that Vibhatsu will certainly succeed in slaying all these for whose slaughter He will strive.”
 
-“Daruka said, ‘He is certain to have victory whose charioteership, O Tiger among men, hath been taken by Thee. Whence, indeed, can defeat come to Him? As regards myself, I will do that which Thou hast commanded me to do. This night will bring (on its train) the auspicious morn for Arjuna’s victory.'”  
-\[Mahabharata VII : Drona Parva – 79, Ganguli Translation\]
+“Daruka said, ‘He is certain to have victory whose charioteership, O Tiger among men, hath been taken by Thee. Whence, indeed, can defeat come to Him? As regards myself, I will do that which Thou hast commanded me to do. This night will bring (on its train) the auspicious morn for Arjuna’s victory.'” \[Mahabharata VII : Drona Parva – 79, Ganguli Translation\]
 
 As I say, i am not a Vaishnava – but i do rather like the sentiment.
 

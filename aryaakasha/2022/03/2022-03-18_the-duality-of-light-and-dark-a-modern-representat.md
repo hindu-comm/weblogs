@@ -5,6 +5,7 @@ date = "2022-03-18"
 upstream_url = "https://aryaakasha.com/2022/03/18/the-duality-of-light-and-dark-a-modern-representation-of-indo-european-divinity/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/03/18/the-duality-of-light-and-dark-a-modern-representation-of-indo-european-divinity/).
 
 The Duality Of Light And Dark – A Modern Representation Of Indo-European Divinity
@@ -23,7 +24,8 @@ Nordic / Germanic resurrectionists shall note the noose, the one eye, the feathe
 
 And, of course, in the Hindu sectors of the audience – well, is that figure on the right with the leopard garmentry drawing from Dionysus’ description in such a manner .. or Rudra? Is the Trident that of Poseidon or Shiva? Is that *subtle* Third Eye on the forehead of the enthroned figure actually Zeus Triophthalmos (‘Three-Eyed’) And so many, many other elements besides.
 
-Behind it all, the ‘River of Stars’ that resonates with the River of the Dead in the archaic (Proto-)Indo-European cosmology can be seen.  
+Behind it all, the ‘River of Stars’ that resonates with the River of the Dead in the archaic (Proto-)Indo-European cosmology can be seen.
+
 Bodies flowing to meet the realm on a golden flowing torrent of what might just be Fire.
 
 ![](https://aryaakasha.files.wordpress.com/2022/03/arya-akasha-hc-reflection-both.png?w=415)

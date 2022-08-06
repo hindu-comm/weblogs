@@ -5,6 +5,7 @@ date = "2022-04-09"
 upstream_url = "https://aryaakasha.com/2022/04/09/kalaratri-for-chaitra-navratri-the-black-night-of-unveiling-the-night-of-death/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/04/09/kalaratri-for-chaitra-navratri-the-black-night-of-unveiling-the-night-of-death/).
 
 KalaRatri for Chaitra Navratri – The Black Night of Unveiling, The Night of Death
@@ -37,8 +38,7 @@ As we have detailed at … quite some considerable length – the Vedas do most 
 
 But we are perhaps getting a bit away from our central theme here. The Indo-European elements are interesting and useful for us for an array of purposes and reasonings, but they are not quite so direct in their essentiality for our intended glorification of Her.
 
-What is, perhaps, is an array of succinct scriptural quotations that may help to get across the proper understanding (limited though it might be –the Skanda Purana (VI 1 54 20) literally declares Her – Kalaratri –
-to be the ‘Incomprehensible One’) for how Kalaratri is to be regarded. So much more than ‘just’ a Very Scary Devi, or of horrifying appearance, and ending the world, etc.
+What is, perhaps, is an array of succinct scriptural quotations that may help to get across the proper understanding (limited though it might be –the Skanda Purana (VI 1 54 20) literally declares Her – Kalaratri – to be the ‘Incomprehensible One’) for how Kalaratri is to be regarded. So much more than ‘just’ a Very Scary Devi, or of horrifying appearance, and ending the world, etc.
 
 We’ll call it an ‘Apocalypse’ – but that’s only meant in the sense of a ‘Revelation’.
 
@@ -128,10 +128,7 @@ We can, I suspect, do little better than quoting in closing the Skanda Purana (V
 
 “19 Be victorious, O omnipresent Goddess, O excellent Carmamuṇḍadharā. Be victorious, O splendid Daughter of Dakṣa, efficient in the annihilation of the race of demons.
 
-20. Be victorious, O Kālarātri, O incomprehensible one, O Goddess fond
-    of Navamī and Aṣṭamī (9th and 8th lunar days). O three-eyed One, O
-    Beloved of the Three-eyed One. Be victorious, O goddess adored by
-    Suras.
+20. Be victorious, O Kālarātri, O incomprehensible one, O Goddess fond     of Navamī and Aṣṭamī (9th and 8th lunar days). O three-eyed One, O     Beloved of the Three-eyed One. Be victorious, O goddess adored by     Suras.
 
 21 O terrible One, O beautiful One, O great Deity of learning of great power, O Goddess of huge body and great prosperity. Be victorious, O Goddess of great Vratas.
 
@@ -157,11 +154,9 @@ And SHE is On My Side.
 
 ॐ देवी कालरात्र्यै नम॥
 
-नमो नमो दुर्गे  
-रूप कराल कालिका धारा
+नमो नमो दुर्गे रूप कराल कालिका धारा
 
-जै माता कालि जै माता दुर्गे।  
-कालि दुर्गे नमो नमः॥
+जै माता कालि जै माता दुर्गे। कालि दुर्गे नमो नमः॥
 
 ॐ क्रीं कालिकायै नमः॥ “
 

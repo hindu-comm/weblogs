@@ -5,14 +5,15 @@ date = "2022-03-08"
 upstream_url = "https://aryaakasha.com/2022/03/08/rudraganika-a-study-in-eternal-return-as-manifested-through-the-sky-fathers-female-retinue-across-the-indo-european-world/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/03/08/rudraganika-a-study-in-eternal-return-as-manifested-through-the-sky-fathers-female-retinue-across-the-indo-european-world/).
 
 RudraGanika – A Study In Eternal Return As Manifested Through The Sky Father’s Female Retinue Across The Indo-European World
 
 ![](https://aryaakasha.files.wordpress.com/2022/03/arya-akasha-hc-rudraganika-art.jpg?w=895)
 
-\[Author’s Note: This work brings together several (my)themes close and dear to my heart. It had been intended to be published upon MahaShivRatri – the 1st of March in 2022 – however, Time waits for no man (other than Her Husband); and my continuing to find further elements which cried out to be included resulted in a delay in its release. We trust that the enhancements of its quality and caliber shall ensure that it proves ‘worth the wait’.  
-  
+\[Author’s Note: This work brings together several (my)themes close and dear to my heart. It had been intended to be published upon MahaShivRatri – the 1st of March in 2022 – however, Time waits for no man (other than Her Husband); and my continuing to find further elements which cried out to be included resulted in a delay in its release. We trust that the enhancements of its quality and caliber shall ensure that it proves ‘worth the wait’.
+
 It has also grown out of my ongoing research and writing efforts for a conference paper that I’ll be presenting upon this subject later this month. I would not have been able to get this to the state that it is presently in without the support and assistance of several persons, who know who they are (M, O.R., S.W., S.S.; and art by HC).
 
 We must also, of course, dedicate this piece to that most particular of manyufestations of Devi and the RudraGanika Retinue. Theरचना – The Divine Plan.
@@ -40,6 +41,7 @@ Until finally, all which has been left for most of us is ‘stories’. And not 
 It is, therefore, both a story of excitement (indeed, ‘furor’ is most relevant here – as it ever is) – and a ‘cautionary tale’ to us moderns as we seek to rediscover and to resurrect these most ancient and most truthful of traditions of ours.
 
 Yet let us go forward to the past.
+
 
 **Spear-Maidens, With Weapons Raised**
 
@@ -73,6 +75,7 @@ The mention in AV-S XI 2 11 for these Vikesi is additionally interesting for rea
 
 Yet let us move forward.
 
+
 **The Adi Female Alpha**
 
 The obvious question confronting us here is if the Vedic texts are so pronounced in their hailing of the female Retinue of Rudra – where is this Retinue to be found in the subsequent annals of scripture? Did it become de-emphasized and simply drop out of common knowledge for some reason?
@@ -85,21 +88,14 @@ One very prominent occurrence of this expression is to be found in the work of t
 
 To quote from the Griffith translation of hisKumārasambhava \[‘The Birth of the War-God’\]:
 
-“The Matrons \[Matrikas\] followed Him, a saintly throng,  
-Their ear-rings waving as they dashed along —  
-Sweet faces, with such glories round them shed  
-As made the air one lovely Lotus bed.  
-On flew those bright Ones — Kali came behind,  
-The skulls that decked Her rattling in the wind :  
-Like the dark rack that scuds across the sky,  
-With herald Lightning and the Crane’s shrill cry.
+“The Matrons \[Matrikas\] followed Him, a saintly throng, Their ear-rings waving as they dashed along — Sweet faces, with such glories round them shed As made the air one lovely Lotus bed.
 
-Hark ! from the glorious bands that lead the way,  
-Harp, drum, and pipe, and shrilling trumpet’s bray,  
-Burst through the sky upon the startled ear  
-And tell the Gods the hour of worship ‘s near.”
+On flew those bright Ones — Kali came behind, The skulls that decked Her rattling in the wind : Like the dark rack that scuds across the sky, With herald Lightning and the Crane’s shrill cry.
 
-Now this is rather curious, because what we see here is Kali accompanying Lord Shiva … as Lord Shiva goes to meet His Bride – Parvati, the Daughter of King Himavat. An appropriate mythic occurrence to cite here as it is, of course, in large measure what MahaShivRatri is all about. Except whereas these days the more contemporarily-familiar expression for the Bhole Ki Baraat \[armed wedding procession of Lord Shiva\] is to be found in human devotees adorning themselves as the fearsome BhutaGana \[‘Ghost Company’\] and parading through the streets in accompaniment of a Shiva murti as an act of Eliadian Eternal Return / mythic resonance … here, as we can see, in the archaic perception there was also scope for our \*female\* mythic coterie of Rudra to be present in the wedding processional as well.  
+Hark ! from the glorious bands that lead the way, Harp, drum, and pipe, and shrilling trumpet’s bray, Burst through the sky upon the startled ear And tell the Gods the hour of worship ‘s near.”
+
+Now this is rather curious, because what we see here is Kali accompanying Lord Shiva … as Lord Shiva goes to meet His Bride – Parvati, the Daughter of King Himavat. An appropriate mythic occurrence to cite here as it is, of course, in large measure what MahaShivRatri is all about. Except whereas these days the more contemporarily-familiar expression for the Bhole Ki Baraat \[armed wedding procession of Lord Shiva\] is to be found in human devotees adorning themselves as the fearsome BhutaGana \[‘Ghost Company’\] and parading through the streets in accompaniment of a Shiva murti as an act of Eliadian Eternal Return / mythic resonance … here, as we can see, in the archaic perception there was also scope for our \*female\* mythic coterie of Rudra to be present in the wedding processional as well.
+
 And we shall also address the broader scope for Eternal Returning and mythic engagement later in the piece.
 
 To return to the perhaps under-expected scenario of Kali in amidst these Matrikas, this is enormously instructive as to the true nature of what these fearsome female figures really are.
@@ -126,6 +122,7 @@ Yet let us return to the most fascinating ‘broader’ expression of the typolo
 
 Namely, the one wherein it starts to emanate out into our human, sidereal, mortal realm.
 
+
 **Myth, In Motion – Enter The RudraGanika**
 
 Now as we have aforementioned, there is a customary tradition of, upon the night of MahaShivRatri, human devotees of the Great God acting as His Ganas in the course of the Bhole Ki Baraat. This is part, we may suggest, of a broader style of ritualistic action wherein persons worshipping Him take up such ‘mythic roles’ – a necessary thing, per theNandikeśvara and various other such source-material, wherein it is effectively stated that in the more esoteric and powerful ritual sphere one must \*be\* a Rudra in order to properly \*worship\* Rudra; we may surmise both due to the terror and potency of the forces bound up in of His engagement and the difficulty of otherwise engaging with Him with an ordinary human mind and its consequential limitations.
@@ -144,8 +141,8 @@ At the heart of ‘RudraGanika’ is ’Gana’ – grouping. It is a term for a
 
 However,‘Gana’ can also mean a public or a tribe – hence the interpretation for ‘Ganika‘ (‘Of the Gana’) as ‘Public Woman‘, ‘Property of the Gana‘. Yet while this might indeed be plausible for the \*general\* usage of Ganika (and from memory, we seem to see this in evidence in the Manusmriti etc.), we believe another sense to have been meant for the Ganika of RudraGanika – with the two terms becoming conflated due to homophony, along with the Temple situation of the RudraGanika placing her in a context where outsiders might attempt to conflate her with other figures also occasionally found adjacent to or therein.
 
-Instead, ’RudraGanika’ is likely a feminine / diminunative formulation for ’RudraGana’, in a similar fashion to how Siksa (teacher) becomes Siksika (female teacher), Rsi becomes Rsika, etc.  
-  
+Instead, ’RudraGanika’ is likely a feminine / diminunative formulation for ’RudraGana’, in a similar fashion to how Siksa (teacher) becomes Siksika (female teacher), Rsi becomes Rsika, etc.
+
 RudraGanika is, therefore, ’Female Gana of Rudra’. Something which fits far better with various of the aforementioned historical materials which draw quite a distinction between Temple RudraGanikas \[and Devadasis\] and ’courtesans’ in terms of purity and role, whilst also understandably connecting the RudraGanikas to RudraKanyas (Rudra’s Girls / Daughters of Rudra).
 
 So who are these mysterious (in both this and the more archaic Greek senses of the term) ‘Rudra Women’? Well, in essence, that is \*just exactly\* whom They are. Rudra Women. Mythic figures who are incarnated here upon this Earth and out here in the ‘sidereal’ sphere as human women. Of ravishing beauty, serious skill in the arts of dance or song, and seemingly also martially proficient as well (as we shall soon see) – if one were to go looking for the Hindu co-expressive of the Valkyries of Odin in Valhalla, then this should surely prove a most admirable place to begin one’s quest. Without, it may be hypothesized, having to die and thusly begin a metempsychotic (or, for that matter, katabatic) journey aforehand.
@@ -160,7 +157,7 @@ In this sense, then,these activities are, for most devotees, a rare and infreque
 
 However,for the RudraGanika, the situation of these essences and their engagement is indescribably different. They are her raison d’etre. She exists as an incarnation of these essences, these beings. One of them, in human form.
 
-Indeed, per the later era mythology which established her as a Daughter of Rudra Himself, these mythic roles – they are a tangible restatement to her own mythic-ancestral past. She does not simply opt upon isolated occasion to take up the mythic role within the specific framework of the rite – she is a living embodiment of such as the fact of her essence. 
+Indeed, per the later era mythology which established her as a Daughter of Rudra Himself, these mythic roles – they are a tangible restatement to her own mythic-ancestral past. She does not simply opt upon isolated occasion to take up the mythic role within the specific framework of the rite – she is a living embodiment of such as the fact of her essence.
 
 An intriguing potential demonstration of this in practice concerns the well-known myth of the RudraGanika Paravai, bride of the Nayanar Shaivite saint Sundarar. It is a fascinating myth in various of its tellings, which we shall not delve too deeply into here. Suffice to say it has some … resonancies that mean I am saving it for a later culminative engagement.
 
@@ -170,27 +167,28 @@ Another demonstration to the RudraGanikas’ embodiment of mythic essence is pro
 
 Yet while I have chosen to emphatically emphasize that these women are \*living\* expressions of the mythic essences in question, and continue to be so even outside the strictly-speaking bounds of ritual (where more ordinary mortals might also so happen to become occasional bearers of an essence from time to time – or, simply, ‘step into a mythic role’ at others and more frequently); it is also instructive to examine one rite in particular as the tangible demonstration of, we might say, ‘Myth In Motion’.
 
-**The MrgaYatra – The Agamic Hindu Rite of the Wild Hunt**  
-  
-One of the most evocative illustrations of the RudraGanika as mythic-recurrent is to be found in the documentation detailing the Mrgayatra ritual carried out in the context of the Agamic Mahotsava festival. Performed upon the eighth day of the Mahotsava, the form of Rudra that is invoked is either Tripurantaka (’Destroyer of the Three Forts’ – and importantly, Pashupati) or Kirata (Mountain Barbarian ’Hunter’) – although He may also appear as Bhikshatana (’The Wanderer’).  
-  
+
+**The MrgaYatra – The Agamic Hindu Rite of the Wild Hunt**
+
+One of the most evocative illustrations of the RudraGanika as mythic-recurrent is to be found in the documentation detailing the Mrgayatra ritual carried out in the context of the Agamic Mahotsava festival. Performed upon the eighth day of the Mahotsava, the form of Rudra that is invoked is either Tripurantaka (’Destroyer of the Three Forts’ – and importantly, Pashupati) or Kirata (Mountain Barbarian ’Hunter’) – although He may also appear as Bhikshatana (’The Wanderer’).
+
 The Mrgayatra is often thought of as a ’Hunting Expedition’ – indeed, I would slightly figuratively render it as ’Wild Hunt’ (running ‘Mrga’ backwards to its sense of ‘wild’ rather than ‘wild animal’, and ‘yatra’ as an ‘expedition’).
 
-However, it also has a potent martial aspect to it. Shiva is mounted upon horseback, and the coterie of RudraGanikas who ride with Him can include not only the archers one might expect upon a hunt, but women wearing armour and carrying shields, equipped with swords and spears. The spectacle of the God surrounded by His well-armed retinue, martial rhythms beaten out upon the drums as Bull banners flutter behind would certainly put one in the mind of ”an army is setting forth for an invasion”, as Manasataramgini had put it.  
-  
+However, it also has a potent martial aspect to it. Shiva is mounted upon horseback, and the coterie of RudraGanikas who ride with Him can include not only the archers one might expect upon a hunt, but women wearing armour and carrying shields, equipped with swords and spears. The spectacle of the God surrounded by His well-armed retinue, martial rhythms beaten out upon the drums as Bull banners flutter behind would certainly put one in the mind of ”an army is setting forth for an invasion”, as Manasataramgini had put it.
+
 This observance is not merely a ceremonial procession in the sense of a modern-day military ‘parade’. Despite its contemporary cousin merely entailing the shooting of a coconut, in older times, the hunt appears to have been a literal one featuring wild animals indeed captured or killed; whilst the martial display also incorporated a mock battle against demons.
 
 Intriguingly, Manasataramgini has also noted mention from the reign of the Vijayanagara ruler Bukkadeva of an attempt by Muslim interlopers to interfere with the Mrgayatra – being met with deadly force by the embodied Retinue of Rudra and killed or driven off in the ensuing combat. Sometimes, it would appear, ‘myth’ takes on a life of its own in terms of ‘filling itself out’ via sidereal participants – witting or otherwise.
 
-In terms of the rite itself, the invocation of Shiva as Tripurantaka here is interesting – as the Shruti establishes that it is this form of Rudra Who is accorded the title of Pashupati; elsewhere linking this with His shooting of Prajapati in Deer (Mrga) form. AV-S X 2 11, meanwhile, invokes alongside Pashupati and His (Hunting) Dogs the Vikesi whom we had met earlier.  
-  
-Elsewhere in the scriptural canon, we find Rudra in the form of a Kirata – a barbaric mountain hunter – and likewise accompanied by Uma and a legion of women similarly arrayed \[MBh 3 39\]. These constitute a ‘hunting party’ of sorts – there to slay a demon, Muka, in the form of a most formidable boar. And whilst it is frequently simply taken-as-read that ‘Kirata’ \*must\* mean those particular Nepali tribesmen, the Kirati – we instead subscribe to quite a different view. At the root of ‘Kirata’ is Sanskrit ‘Kr’ – कॄ . This effectively produces a term for ‘Thrower’, ‘Caster’, ‘Injurer’ – a suite of conceptry quite apt for an archer or a spear-equipped person, especially acting as a Hunter. And one which must fit better – as we have it in quite archaic attestation in the Vedas themselves, describing an evidently near-pan-Indo-European phenomenon rather than one which could only have developed in reasonably direct contact with the realms of eastern Nepal. Effectively, in this way, it is a term somewhat similar to ‘Sarva’ – ‘Archer’, ‘Injurer’, and a well-known Shaivite theonym of demonstrable antiquity given its co-occurrence within the names of the Zoroastrians’ ‘Daevas’.  
-  
-Clearly, then, in the course of the MrgaYatra the RudraGanikas are embodying their mythic forerunners. Something which, assumedly, they have and had been doing since the approximate time that these Shruti scriptures were first composed to express them with. 
+In terms of the rite itself, the invocation of Shiva as Tripurantaka here is interesting – as the Shruti establishes that it is this form of Rudra Who is accorded the title of Pashupati; elsewhere linking this with His shooting of Prajapati in Deer (Mrga) form. AV-S X 2 11, meanwhile, invokes alongside Pashupati and His (Hunting) Dogs the Vikesi whom we had met earlier.
 
-**The Parodos of the Thiasos  
-**  
-However, this notion of the ‘Wild God’ embarked upon an ‘invasion’ or a ‘trooping’ is not something exclusive to the Hindu sphere. It most definitely expresses itself via occurrence elsewhere – at least, within the realms of the myth, somewhat more haphazardly as applies the attested realms of ritual, due to the fact that no other Indo-European canon has been preserved with anything like the same rigour in that specific regard. Most accountings we have of what appear to be cognate ritual from, say, the Hellenic sphere are eyewitness at best (often simply the aftermath thereof), or heady extrapolations from fictionalized renditions which leave ample room for conjecture and doubt as to specific details.
+Elsewhere in the scriptural canon, we find Rudra in the form of a Kirata – a barbaric mountain hunter – and likewise accompanied by Uma and a legion of women similarly arrayed \[MBh 3 39\]. These constitute a ‘hunting party’ of sorts – there to slay a demon, Muka, in the form of a most formidable boar. And whilst it is frequently simply taken-as-read that ‘Kirata’ \*must\* mean those particular Nepali tribesmen, the Kirati – we instead subscribe to quite a different view. At the root of ‘Kirata’ is Sanskrit ‘Kr’ – कॄ . This effectively produces a term for ‘Thrower’, ‘Caster’, ‘Injurer’ – a suite of conceptry quite apt for an archer or a spear-equipped person, especially acting as a Hunter. And one which must fit better – as we have it in quite archaic attestation in the Vedas themselves, describing an evidently near-pan-Indo-European phenomenon rather than one which could only have developed in reasonably direct contact with the realms of eastern Nepal. Effectively, in this way, it is a term somewhat similar to ‘Sarva’ – ‘Archer’, ‘Injurer’, and a well-known Shaivite theonym of demonstrable antiquity given its co-occurrence within the names of the Zoroastrians’ ‘Daevas’.
+
+Clearly, then, in the course of the MrgaYatra the RudraGanikas are embodying their mythic forerunners. Something which, assumedly, they have and had been doing since the approximate time that these Shruti scriptures were first composed to express them with.
+
+
+**The Parodos of the Thiasos
+** However, this notion of the ‘Wild God’ embarked upon an ‘invasion’ or a ‘trooping’ is not something exclusive to the Hindu sphere. It most definitely expresses itself via occurrence elsewhere – at least, within the realms of the myth, somewhat more haphazardly as applies the attested realms of ritual, due to the fact that no other Indo-European canon has been preserved with anything like the same rigour in that specific regard. Most accountings we have of what appear to be cognate ritual from, say, the Hellenic sphere are eyewitness at best (often simply the aftermath thereof), or heady extrapolations from fictionalized renditions which leave ample room for conjecture and doubt as to specific details.
 
 I can probably do little better than an ‘old master’ of the literary arts, so here’s Nonnus, from his Dionysiaca extolling the grandeur of Dionysus’ assembling war-host:
 
@@ -244,6 +242,7 @@ Manyu is also the name of the foremost of the Vedic War Gods – entirely uncoin
 
 I shall not expand in any great depth nor detail upon this seeming-coterminity around origination myths here – we shall save that for a future article. But it seems to me quite likely that what is stated in the Shatapatha Brahmana’s accounting of the SataRudriya rite, wherein immediately upon emanation, The Manyu is surrounded by a coterie of Rudras Who make quite the terrifying din around the newly-emanated young God. We see this pattern most definitely play out viz. Dionysus – and we may also see, in the course of the same rite, that invocation of the ‘Spear-wielding’ and ‘Weapons-raised’ female Ganas is included in the step at IX 1 1 21.
 
+
 **The Spirits Of Ash, Milk, & Honey**
 
 However, it is my suspicion that some of what is entailed by the many and various ‘Nurses’ of Dionysus is also drawn from this attendant well. Insofar as we find these figures later hailed amidst the Nymphs etc. of Dionysus alongside these other more direct ‘RudraGanika’ style clades. Perhaps the ‘Matrika’ conceptry we have aforementioned has similar genesis – after all, a Mother is, in amidst other characteristics, potentially one who grants milk to a newborn child. And, considering that it seems quite likely that milk played a key role in oblationary libations to the Sky Father deific in ‘post’ form (that which informs the ShivLing of the Hindus, the Irminsul of the Germanics … and we may fairly presume the ‘Phallic’ altars of Dionysus) – perhaps here, too, we find the Priestess typology in esteemed evidence. Offerings of Milk, figuratively referenced, at the time of the God’s unveiling and immanentization out here into this world of ours through the mechanism of the Rites.
@@ -256,17 +255,16 @@ A potential point for follow-up in these regards might incorporate the later Nor
 
 In the earlier Nordic sphere, the female beings that perform this vital service of oblation for the Axis Mundi are, per the Gylfaginning, Norns. To quote from the text:
 
-“It is further said that these Norns who dwell by the Well of Urdr take water of the well every day, and with it that clay which lies about the well, and sprinkle it over the Ash, to the end that its limbs shall not wither nor rot; for that water is so holy that all things which come there into the well become as white as the film which lies within the egg-shell”  
-\[Brodeur translation\]
+“It is further said that these Norns who dwell by the Well of Urdr take water of the well every day, and with it that clay which lies about the well, and sprinkle it over the Ash, to the end that its limbs shall not wither nor rot; for that water is so holy that all things which come there into the well become as white as the film which lies within the egg-shell” \[Brodeur translation\]
 
 We might ponder whether the underlying etymology for ‘Norn’ – which effectively traces back to a PIE term (\*h₁ner-) for ‘Inner’, ‘Under’, ‘Within’ \[c.f. Ancient Greek ‘Nerthen’ (νέρθεν), ‘From Under’ (the ‘-then’ (-θεν) being ‘from’)\] should prove pertinent. Not to \*displace\* the conventional understanding of Norn as deriving from, effectively, a term for ‘Northern’ – after all \*the\* Axis Mundi is likely in the North – but, of course, this notion that the cultic situation ‘at the root’ (both figuratively and mytho-literally) might be thusly located is clearly not exclusive with it being, well, a ‘cultic’ situation. Helpfully, ‘North’ etc. is also from that exact same Proto-Indo-European root.
 
 Perhaps this situation, of a female coterie performing sacred offerings to an embodied form of the God, is what is referenced in that passage of Pausanias which speaks of the worship in the city ofBryseae –
 
-“A temple of Dionysos still survives there with a statue in the open air; only women are allowed to see the statue inside the temple; and all the ceremonies of sacrifice are performed in secret by women.”  
-\[Guide to Greece, 3 20 3, Levi translation\]
+“A temple of Dionysos still survives there with a statue in the open air; only women are allowed to see the statue inside the temple; and all the ceremonies of sacrifice are performed in secret by women.” \[Guide to Greece, 3 20 3, Levi translation\]
 
 Yet let us move forward, in earnest.
+
 
 **Theos Manenai – The Mythic Essence, Emplaced**
 
@@ -284,8 +282,7 @@ My effective contention, I suspect, is that the ‘Thiasos’ institution is, it
 
 The fact that this is a quite deliberate ‘Eternal Return’ or ‘Mythic Embodiment’ situation is amply spelled out in the work of Diodorus Siculus –
 
-“Consequently in many Greek cities every other year Bacchic bands of women gather, and it is lawful for the maidens to carry the thyrsus and to join in the frenzied revelry, crying out “Euai!” and honouring the god; while the matrons, forming in groups, offer sacrifices to the god and celebrate his mysteries and, in general, extol with hymns the presence of Dionysus, in this manner acting the part of the Maenads who, as history records, were of old the companions of the god.”  
-\[Oldfather translation, Bibliotheca Historica 4 3 1124\]
+“Consequently in many Greek cities every other year Bacchic bands of women gather, and it is lawful for the maidens to carry the thyrsus and to join in the frenzied revelry, crying out “Euai!” and honouring the god; while the matrons, forming in groups, offer sacrifices to the god and celebrate his mysteries and, in general, extol with hymns the presence of Dionysus, in this manner acting the part of the Maenads who, as history records, were of old the companions of the god.” \[Oldfather translation, Bibliotheca Historica 4 3 1124\]
 
 Indeed, to speak of those ‘Bacchic’ bands – whilst the conventional attempts at etymology often seek to link it to some as-yet unreconstructed archaic particle meaning ‘Berry’ (c.f Latin ‘Bacca’), I am not so convinced.
 
@@ -303,10 +300,10 @@ We might also note that the \*specific nature\* of one of the better-attested �
 
 After all, as Aristophanes puts it:
 
-“Dionysos, who delightest to mingle with the dear choruses of the Nymphai Oreiai, and who repeatest, while dancing with them, the sacred hymn, Euios, Euios, Euoi! Echo, the Nymphe of Cithaeron, returns thy words, which resound beneath the dark vaults of the thick foliage and in the midst of the rocks of the forest; the ivy enlaces thy brow with its tendrils charged with flowers.”  
-\[Thesmophoriazusae 990\]
+“Dionysos, who delightest to mingle with the dear choruses of the Nymphai Oreiai, and who repeatest, while dancing with them, the sacred hymn, Euios, Euios, Euoi! Echo, the Nymphe of Cithaeron, returns thy words, which resound beneath the dark vaults of the thick foliage and in the midst of the rocks of the forest; the ivy enlaces thy brow with its tendrils charged with flowers.” \[Thesmophoriazusae 990\]
 
-That ‘Euios’ (εὐαί – ‘Euae’) cry, in case you had been wondering, is effectively a ‘Howl’. Whether ecstatic, or perhaps somewhat otherwise. Goes nicely with the Wolves in that regard. And the prominent Dionysian theonymics ‘Euaster’ and ‘Euios’.  
+That ‘Euios’ (εὐαί – ‘Euae’) cry, in case you had been wondering, is effectively a ‘Howl’. Whether ecstatic, or perhaps somewhat otherwise. Goes nicely with the Wolves in that regard. And the prominent Dionysian theonymics ‘Euaster’ and ‘Euios’.
+
 I should note that it is more conventionally regarded as ‘εὐοῖ’ (Euoi), with a potentially folk-etymology of ‘Good Son’ (‘Eu’ and ‘Huios’ respectively); yet whilst ‘Good Son!’ might indeed seem a potential joyous refrain for Dionysian devotees, it nevertheless seems to lack the ‘organic’ nature of the more simple and decidedly onomatopoeic explanation. One which, as it happens, may render this ‘Howl’ a cognate to our modern ‘Ovation’.
 
 So, what does all of this mean ? Well, for a start, it posits yet another point (indeed – full-scale suite) of distinct coterminity between Dionysus and Rudra. This is unsurprising to us. The precise situation of Iacchus viz. Demeter / Persephone (Kore) is also quite an intriguing one – but for another time for us to address in greater depth and discursion.
@@ -315,15 +312,13 @@ But more importantly, it links not only the situation of one of these characteri
 
 So, given all which we have said, we are therefore unsurprised to find in the course of Strabo, this referenced excerpt from Euripides:
 
-“And in ‘the Palamedes’ the Chorus says, ‘Thysa, daughter of Dionysos, who on Ida rejoices with his dear mother in the Iakkhic revels of tambourines.’”  
-\[Geography 10 3 13, Jones translation\]
+“And in ‘the Palamedes’ the Chorus says, ‘Thysa, daughter of Dionysos, who on Ida rejoices with his dear mother in the Iakkhic revels of tambourines.’” \[Geography 10 3 13, Jones translation\]
 
 I reference this here, in no small part due to the mention for Thysa as \*daughter\* of Dionysus. If we recall the later mythic presentation for the origins of the RudraGanika clade, what we find is that these women are stated to have (as their ancestors, in later ‘sidereal’ manifestations’) status as the Daughters of Rudra.
 
 So, further, from Pausanias –
 
-“Opposite is what is called the Knoll, with a temple of Dionysus of the Knoll, by which is a precinct of the hero who they say guided Dionysus on the way to Sparta. To this hero sacrifices are offered before they are offered to the god by the daughters of Dionysus and the daughters of Leucippus. For the other eleven ladies who are named daughters of Dionysus there is held a footrace; this custom came to Sparta from Delphi.”  
-\[‘Description of Greece’ 3 13 7, Jones translation\]
+“Opposite is what is called the Knoll, with a temple of Dionysus of the Knoll, by which is a precinct of the hero who they say guided Dionysus on the way to Sparta. To this hero sacrifices are offered before they are offered to the god by the daughters of Dionysus and the daughters of Leucippus. For the other eleven ladies who are named daughters of Dionysus there is held a footrace; this custom came to Sparta from Delphi.” \[‘Description of Greece’ 3 13 7, Jones translation\]
 
 Evidently, this is a case of, in ‘sidereal’ terms, young women being ‘elevated’ to the station of ‘Daughters of Dionysus’ for a particular ritual engagement. We might also be tempted to query the number eleven here – as while it should seem that there are \*twelve\* in total, eleven in that particular race has an intriguing Roudran resonancy. There are often groupings of Eleven when we are speaking of the Roudran forms and associations.
 
@@ -333,13 +328,9 @@ In many of the Greek Hymnals to Dionysus – whether Homeric or Orphic or otherw
 
 Homeric Hymnal 26, for instance:
 
-“The rich-haired Nymphs received him in their bosoms \[…\]  
-And the Nymphai followed in his train with him for their leader; and the boundless forest was filled with their outcry.”  
-\[Allen translation\]
+“The rich-haired Nymphs received him in their bosoms \[…\] And the Nymphai followed in his train with him for their leader; and the boundless forest was filled with their outcry.” \[Allen translation\]
 
-Orphic Hymn 53 to Amphietus Bacchus \[also numbered 52 in older translations\] :  
-“Khthonion Dionysos, hear my prayer, rise vigilant with Nymphai of lovely hair : great Bakkhos Amphietos, annual God, Who laid asleep in Persephone’s abode, Her sacred seat, didst lull to drowsy rest the rites triennial and the sacred feast; which roused again by Thee, in graceful ring, Thy nurses round Thee mystic anthems sing; when briskly dancing with rejoicing powers, Thou movest in concert with the circling hours.”  
-\[Taylor translation\]
+Orphic Hymn 53 to Amphietus Bacchus \[also numbered 52 in older translations\] : “Khthonion Dionysos, hear my prayer, rise vigilant with Nymphai of lovely hair : great Bakkhos Amphietos, annual God, Who laid asleep in Persephone’s abode, Her sacred seat, didst lull to drowsy rest the rites triennial and the sacred feast; which roused again by Thee, in graceful ring, Thy nurses round Thee mystic anthems sing; when briskly dancing with rejoicing powers, Thou movest in concert with the circling hours.” \[Taylor translation\]
 
 Homeric Hymn 1 has Dionysus as “Inspirer of frenzied women” \[the word being ‘gynaimanes’ (γυναιμανής in the original text) – and it is rather telling thatμαίνομαι (mainomai), the second portion of the word, is so close to Sanskrit मन्यते (‘Manyate’); recall the earlier Maenad / Manyu / PIE \*Men typology\]; whilst Orphic Hymnal 30 (29 in older translation), depicts Him as “surrounded with Thy choir of nurses fair.” You get the idea.
 
@@ -347,8 +338,7 @@ What we can also say – indeed must make a point of saying – is that the situ
 
 And yet, as others have pointed out – we find something quite remarkable in that passage from Pausanias detailing the cultic performances of the Thyiades across various towns in Greece:
 
-“Homer speaks of the beautiful dancing-floors of Panopeus \[in Phokis\], I could not understand until I was taught by the women whom the Athenians call Thyiades. The Thyiades are Attic women, who with the Delphian women go to Parnassos every other year and celebrate orgies in honour of Dionysos. It is the custom for these Thyiades to hold dances at places, including Panopeus, along the road from Athens. The epithet Homer applies to Panopeus is thought to refer to the dance of the Thyiades.”  
-\[Pausanias Guide to Greece, 10 4 3, Levi translation\]
+“Homer speaks of the beautiful dancing-floors of Panopeus \[in Phokis\], I could not understand until I was taught by the women whom the Athenians call Thyiades. The Thyiades are Attic women, who with the Delphian women go to Parnassos every other year and celebrate orgies in honour of Dionysos. It is the custom for these Thyiades to hold dances at places, including Panopeus, along the road from Athens. The epithet Homer applies to Panopeus is thought to refer to the dance of the Thyiades.” \[Pausanias Guide to Greece, 10 4 3, Levi translation\]
 
 It is something that seems to be somewhat supported in the commentary of Plutarch, in Moralia, when he discusses a Maenadic procession of Phokis that had in the course of their return from their observances, ‘run out of energy’ upon entering Amphissa.
 
@@ -358,9 +348,9 @@ Now it is certainly true that in later times, the Bacchic / Dionysian etc. revel
 
 Another point which must be made concerns the rather surprising social station of women associated with these ‘Bacchic’ or ‘Pseudo-Bacchic’ clades. J.N. Bremmer’s work in this area makes the insightful observation of a persistent pattern in evidence for the ‘Maenadic’ groupings of women as frequently being ‘upper class’, even ‘aristocratic’ in origination. This is important for us to observe for a few reasons – some of which shall only become apparent later. However, it bears repeating precisely because there is something of a stereotype we often seem to encounter about women in the God’s service being of ‘marginal’ character – and, indeed, in terms of where their cousins in India eventually wound up (effectively, often, amidst the Shudra clades in contemporary perception), always worth revisiting to ‘revaluate’ in light of different contextual eventualization.
 
-**Extraordinary Rendition – Specifically, Limb From Limb : Sambhunjati  
-**  
-A final element I shall raise – for now – pertaining to the specifically Dionysian iteration of these female Ganas amidst the Greeks, concerns the situation of theSparagmos and Omophagia. There are many things which could – and most definitely \*should\* – be said about these particular (reputed) cultic practices, but for now we shall simply focus in upon some potential Hindu correlated understandings – as handily illuminated via our typology.
+
+**Extraordinary Rendition – Specifically, Limb From Limb : Sambhunjati
+** A final element I shall raise – for now – pertaining to the specifically Dionysian iteration of these female Ganas amidst the Greeks, concerns the situation of theSparagmos and Omophagia. There are many things which could – and most definitely \*should\* – be said about these particular (reputed) cultic practices, but for now we shall simply focus in upon some potential Hindu correlated understandings – as handily illuminated via our typology.
 
 The first of these concerns that AtharvaVedic hailing for these female Ganas of Rudra –Sambhunjati. This effectively means ‘They Who Eat (or Enjoy) Together’, translated by Manasataramgini as “\[who\] devour their targets”. It is not hard to see how the Dionysiac cultic practice of the women in question … eating together (in fittingly gruesome fashion in the legendary presentations of such) might concord with this. Although at the same time, we must emphasize that various of these tellings are likely not quite literal in their impetus – for example, there is some (well-founded) suspicion that the presentation of Bacchic women tearing apart their own infant children was meant as a symbolic register for them deserting their domestic station in order to go and take up station within the retinue of the God. Once strict-literalism is safely placed to one side, we are able to examine in perhaps better depth various of these elements in order to divine something more keeping of their likely true nature.In a similar regard, the Omophagia has been suggested to perhaps instead pertain to the handling of raw meat in order to provide this as sacral offering to the God Himself. This is … unusual in Indo-European terms, where ‘burnt offerings’ are quite often the order of the day – but we see no overt reason for it to be impossible.
 
@@ -372,15 +362,15 @@ So, in AV-S XII 5 47, we find the Vulture (stated in the Bhava & Sarva hymnal to
 
 Most intriguingly, we then have a further suite of references to ‘Avenger’ figures here. I shall not go through all of these at this time, yet there is one in particular who is most directly relevant to our purposes herein. That being the ‘Angirasi’ invoked in line 52. In fact, I shall quote the verse in context (at least, in translation):
 
-“51 Rend, rend to pieces, rend away, destroy, destroy him utterly.  
-52 Destroy Angirasi! the wretch who robs and wrongs the Brahmans, born.”  
-\[Griffith translation\]
+“51 Rend, rend to pieces, rend away, destroy, destroy him utterly.
+
+52 Destroy Angirasi! the wretch who robs and wrongs the Brahmans, born.” \[Griffith translation\]
 
 And, for ‘variety’:
 
-“51 Cut thou, cut on, cut forth, scorch, burn (kṣā).  
-52 O daughter of An̄giras, exhaust thou the Brahman-scather, that takes to himself \[the cow\].”  
-\[Whitney translation\]
+“51 Cut thou, cut on, cut forth, scorch, burn (kṣā).
+
+52 O daughter of An̄giras, exhaust thou the Brahman-scather, that takes to himself \[the cow\].” \[Whitney translation\]
 
 As I say, we could go into quite some further depth with various of the ensuing lines in this hymnal – and it is intriguing to note that the Cow Herself, implicitly the Devi, is \*also\* invoked to go and carry out Her most implacable contribution to this ‘extraordinary rendition’ of the maleficant. We might be tempted to infer from this that, once again, it is a case of the Goddess leading and acting as apex for the female retinue in question \[the ‘Daughter of Angiras’ perhaps being meant figuratively – a vengeful Devi invoked into our plane by the priest\] – or, perhaps, that the Goddess is present and invoked \*in\* the female retinue-members in question. Either way, there is a clear coterminity at play.
 
@@ -392,9 +382,9 @@ I would therefore suggest that, in this light, the situations of Sparagmos & Omo
 
 Either way – that succinct Vedic expression, ‘Sambhunjati’, should seem eloquent to encapsulate same.
 
-**Apollo Of The Amazons, Artemis Of The Rout  
-**  
-Something which has often fascinated me is the manner in which our work has a certain ‘predictive’ quality to it. A theory, a typology congeals – and then we are able to ‘test’ it, because elements we had not anticipated out there in the various IE textual spheres make themselves known to us, and happen to be \*exactly where they should be\*. So it is with this situation. I have not overtly highlighted some of the other occurrences – however this one, I feel, does deserve some prominency to it as a more ‘standalone’ encounter.
+
+**Apollo Of The Amazons, Artemis Of The Rout
+** Something which has often fascinated me is the manner in which our work has a certain ‘predictive’ quality to it. A theory, a typology congeals – and then we are able to ‘test’ it, because elements we had not anticipated out there in the various IE textual spheres make themselves known to us, and happen to be \*exactly where they should be\*. So it is with this situation. I have not overtly highlighted some of the other occurrences – however this one, I feel, does deserve some prominency to it as a more ‘standalone’ encounter.
 
 We have earlier identified a suite of reasonably strong concordances between Vedic Rudra and Hellenic Apollo. This does not vitiate the situation of Rudra, as Dyaus Pitar, being Zeus – nor does it vitiate the situation of Rudra having similar strong concordancy with Dionysus. It is our position that the … intricate interior complexities of the Hellenic sphere (wherein it seems that certain groups continually ‘re-encountered’ versions of their own mythology and put it ‘back together’ in curious fashion – perhaps understandably influenced by influxes of also-Indo-European influence from the Anatolian sphere, etc.) has lead to quite some ‘double-ups’ … instances wherein what would be thought of as different names for the same God in Hindu terms, may have become much more ‘free-standing’ personas in much of the Classical sphere. You can see this as applies Dionysus Himself – and the fact that by the later Classical era, something like three or perhaps even five ‘Dionysus’ deifics were semi-independently recognized (the former, per Diodorus Siculus; the latter, per Cicero – although one of these, Osiris, is non-Indo-European and we do not count), and with decidedly unclear levels of ‘coterminity’ or ‘co-identification’ between these. One good example being the vexed situation of Sabazius – variously stated to be Dionysus, a particular form of Dionysus, or the Father of Dionysus (i.e. Zeus), or a Son of Dionysus. And this is before we get into the ‘Zeus Triophthalmos’ (‘Three-Eyed’) conceptry, wherein we have Zeus, Hades, and Poseidon all as the same deific – or, for that matter, per Heraclitus etc., Dionysus being the same deific as Hades … and so on and so forth.
 
@@ -412,8 +402,7 @@ But does He?
 
 The situation of Apollo which we seek to draw attention to, here, is that described in Pausanias – which we shall now quote:
 
-“At Pyrrhichus there is a well in the market-place, considered to be the gift of Silenus. If this were to fail, they would be short of water. The sanctuaries of the Gods, that they have in the country, are of Artemis, called Astrateia, because the Amazons stayed their advance (strateia) here, and an Apollo Amazonius. Both gods are represented by wooden images, said to have been dedicated by the women from Thermodon.”  
-\[Description of Greece, 3 25 3, Jones translation\]
+“At Pyrrhichus there is a well in the market-place, considered to be the gift of Silenus. If this were to fail, they would be short of water. The sanctuaries of the Gods, that they have in the country, are of Artemis, called Astrateia, because the Amazons stayed their advance (strateia) here, and an Apollo Amazonius. Both gods are represented by wooden images, said to have been dedicated by the women from Thermodon.” \[Description of Greece, 3 25 3, Jones translation\]
 
 Why do we find this remarkable? Well, here we behold a theonymic for Apollo occurring seemingly nowhere else – “Apollo Amazonios”.
 
@@ -433,10 +422,10 @@ Ah, but \*which\* Fearsome Women? Surely Maenads are somewhat distinct from Amaz
 
 And the answer to that is … yes, but also no.
 
-To quote from Seneca’s Oedipus\[Miller translation\] –  
-Dionysus wins over through force of arm (as in, the one in particular), as a result of which “those Thermodontian hordes, gave up at length their light arrows, and became maenads.”
+To quote from Seneca’s Oedipus\[Miller translation\] – Dionysus wins over through force of arm (as in, the one in particular), as a result of which “those Thermodontian hordes, gave up at length their light arrows, and became maenads.”
 
-This occurs in a passage contextualizing the event with relation to the ‘Gelonians’ (i.e. Scythians – although as ever when dealing with the Classical presentation of Scythians, how ‘literal’ this might be versus ‘mythic’ is another matter) – and, as we can see, Thermodon.  
+This occurs in a passage contextualizing the event with relation to the ‘Gelonians’ (i.e. Scythians – although as ever when dealing with the Classical presentation of Scythians, how ‘literal’ this might be versus ‘mythic’ is another matter) – and, as we can see, Thermodon.
+
 Where had Pausanias said the “women” who had “dedicated” the two murtis atPyrrhichus hailed from? Thermodon. Where’s Thermodon? Well, that gets a bit .. complicated, but suffice to say that it’s often associated with ‘mountains’ of a rather ‘oriental’ placement (specifically, although not necessarily definitively, in Anatolia and proximate to the Black Sea).
 
 We find an additional mention for Dionysus with an army of Amazons in Diodorus Siculus \[Oldfather translation\] –
@@ -472,6 +461,7 @@ We would be instead intrigued to consider the idea that ‘Astrateia’ might ac
 In any case, the point is a simple one. What we have here, preserved in Pausanias (and then utilized by me as a springboard to ride across a rather appreciable proportion of the Indo-European world in earnest), is exactly what we ought expect:
 
 Apollo as a Lord of Amazons, Artemis as a Commandant of this clade, and Dionysus linked to the feature as well (viz. this Well integral to the town, even before we get to my broader commentaries from Diodorus Siculus etc.).
+
 
 **Ride of the Valkyries**
 
@@ -519,6 +509,7 @@ That is to say – we may infer that this is the (admittedly indirect) evidence 
 
 Our second point flows out of the first – noting the aristocratic pedigree for various of the women concerned. This concords rather well with what had been noted in other scholars’ analysis for the ‘seed clades’ of the Dionysian Thyiadic / Maenadic / Bacchic groups of human women – wherein, whilst it does seem that particularly with time, strictures upon joining the Cult of Dionysus may have become quite ‘loose’ ones … in various of the particular specific ‘lineages’ involved, an ‘elite’ origination appears also to have been present.
 
+
 **Valkyrie-Yogini**
 
 The third is something else entirely. Namely, a rather under-thought of understanding for the Valkyrie as something remarkably similar in some regards to what we would understand of a Yogini in the (particularly Tantrika) Hindusphere.Sigrdrífa (Brynhildr), in the eponymously namedSigrdrífumál, for example, having been sought out upon a mountain by the protagonist, bestows to Her male interactor a series of metaphysical empowerments. These include theminnisveig (‘Memory-Draught’) immediately prior to her invocation of Gods and forces in a prayer-like formula (which pointedly includes a request for the bestowal of wisdom (mannvit) and speech (mál); and, following Sigurd being confronted with the challenge that he must be, in effect, without fear if he is to marry the Valkyrie – an array of Runic conceptry. This is of particular interest to us given what happens in verse 13-14, wherein it \*seems\* (at least, according to Bellows’ translation-notes) that somebody has interpolated the verses in question from some other source – as what is detailed there is, by name and deed, \*Odin\* (Hropt) receiving the Runes via a mechanism that also entails drinking an empowering elixir.
@@ -541,14 +532,13 @@ We may return to this particular theme at some subsequent point as part of our �
 
 But that is, for now, for another time.
 
-**Concluding Remarks – The Dance Goes Eternally On  
-**  
-We have covered a phenomenal breadth and depth of material in the above piece. Much of it far less thoroughly than it rightfully deserves. There is certainly both more evidence to be drawn from to further flesh out that which we \*have\* said – and an incredible array of directions in which one might head if one wished to ‘go further out’ rather than ‘bringing more in’, and more fully explore particular individual areas that we have but briefly touched upon herein. One example might be chasing up the mentions for an Amazonian legion fighting under Dionysus (and/or Apollo – but, then, I repeat myself), and examining whether there could be some parallel structure out there amidst the Iranic sphere Steppes to the east. Certainly, occasional mentions – in \*highly\* disapproving tones – amidst the Zoroastrian canon for women who seem to have been acting in a manner aligned to their perception of Jahi should prove pertinent. Perhaps those accounts of formations of Shield-maidens – such as those three hundred said to have fought at the Battle of Brávellir under Harald Wartooth of Zealand – might further be of probative value.
+
+**Concluding Remarks – The Dance Goes Eternally On
+** We have covered a phenomenal breadth and depth of material in the above piece. Much of it far less thoroughly than it rightfully deserves. There is certainly both more evidence to be drawn from to further flesh out that which we \*have\* said – and an incredible array of directions in which one might head if one wished to ‘go further out’ rather than ‘bringing more in’, and more fully explore particular individual areas that we have but briefly touched upon herein. One example might be chasing up the mentions for an Amazonian legion fighting under Dionysus (and/or Apollo – but, then, I repeat myself), and examining whether there could be some parallel structure out there amidst the Iranic sphere Steppes to the east. Certainly, occasional mentions – in \*highly\* disapproving tones – amidst the Zoroastrian canon for women who seem to have been acting in a manner aligned to their perception of Jahi should prove pertinent. Perhaps those accounts of formations of Shield-maidens – such as those three hundred said to have fought at the Battle of Brávellir under Harald Wartooth of Zealand – might further be of probative value.
 
 We might also enquire of the Celtic sphere, and whether passages such as these in Tacitus’ Annals might have broader linkages that yet-further confirm our general typology:
 
-“On the shore stood the opposing army with its dense array of armed warriors, while between the ranks dashed women, in black attire like the Furies, with hair dishevelled, waving brands. All around, the Druids, lifting up their hands to heaven, and pouring forth dreadful imprecations, scared our soldiers by the unfamiliar sight, so that, as if their limbs were paralysed, they stood motionless, and exposed to wounds. Then urged by their general’s appeals and mutual encouragements not to quail before a troop of frenzied women, they bore the standards onwards, smote down all resistance, and wrapped the foe in the flames of his own brands.”  
-\[XIV 30 , Church & Brodribb translation\]
+“On the shore stood the opposing army with its dense array of armed warriors, while between the ranks dashed women, in black attire like the Furies, with hair dishevelled, waving brands. All around, the Druids, lifting up their hands to heaven, and pouring forth dreadful imprecations, scared our soldiers by the unfamiliar sight, so that, as if their limbs were paralysed, they stood motionless, and exposed to wounds. Then urged by their general’s appeals and mutual encouragements not to quail before a troop of frenzied women, they bore the standards onwards, smote down all resistance, and wrapped the foe in the flames of his own brands.” \[XIV 30 , Church & Brodribb translation\]
 
 However, ultimately, as interesting and useful as it has always been to be able to set out an ever-greater enumeration of the general expressions of our typology – indeed, to experience the thrill as our theorizing becomes downright ‘predictive’ in its scoping grandeur – it must ever be ‘anchored’ through Purpose. We must know that which we are doing, otherwise we are simply ‘scrapbooking’ our way through the Indo-European past. And the construction of a mere panoply of museum-exhibits is most assuredly not that which we are here to do.
 

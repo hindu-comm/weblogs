@@ -5,15 +5,17 @@ date = "2022-04-15"
 upstream_url = "https://aryaakasha.com/2022/04/15/the-vitality-of-the-universe-entire-on-mahagauri-siddhidhatri-and-demeter/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/04/15/the-vitality-of-the-universe-entire-on-mahagauri-siddhidhatri-and-demeter/).
 
 The Vitality of the Universe Entire – On MahaGauri, SiddhiDhatri, and Demeter
 
 ![](https://aryaakasha.files.wordpress.com/2022/04/245373991_10165652449085574_4211106801139868985_n.jpg?w=596)
 
-The Eighth Night of \#NavRatri is dedicated to MahaGauri – The Great Beauty, The ‘Great White One’ ;  
-The Ninth Night of NavRatri, to Siddhidhatri – the Bestower of Boons, The Giver of Empowerment.  
-Both because I am rather late in my finishing of this piece – but also due to a certain underlying thematic unity … it has seemed only appropriate to consider these Two in the course of the same commentary.  
+The Eighth Night of \#NavRatri is dedicated to MahaGauri – The Great Beauty, The ‘Great White One’ ; The Ninth Night of NavRatri, to Siddhidhatri – the Bestower of Boons, The Giver of Empowerment.
+
+Both because I am rather late in my finishing of this piece – but also due to a certain underlying thematic unity … it has seemed only appropriate to consider these Two in the course of the same commentary.
+
 Via way of the Hellenic figure of Demeter – for reasons that shall no doubt prove eminently apparent.
 
 One way to think about the procession of the NavaDurgas is that of a ‘progression of opposites’.
@@ -90,12 +92,7 @@ We are therefore utterly unsurprised to find such prominent Solar, Stellar, Cele
 
 So, for instance, in the Tantrikahymnal of theBhairavistotra(sung, as one would expect, by Bhairava – although interestingly, to the Goddess as \*within\* the Lingam) found in the Srimatottara, we have –
 
-“Victory! Victory (to You) O Goddess (Bhagavatī)!  
-(You) Who are like the solar orb of the emergence of Supreme Reality!  
-(You Who are) the star that is the circle of all the directions illumined by the halo of the light of Your Own body!  
-O plane of stability!  
-(You Whose) body of enjoyment (saˆbhogadeha) is radiant white (svacchā) and unlimited in all (its) limbs!  
-O Mahāgaurī (Great White One) !”
+“Victory! Victory (to You) O Goddess (Bhagavatī)! (You) Who are like the solar orb of the emergence of Supreme Reality! (You Who are) the star that is the circle of all the directions illumined by the halo of the light of Your Own body! O plane of stability! (You Whose) body of enjoyment (saˆbhogadeha) is radiant white (svacchā) and unlimited in all (its) limbs! O Mahāgaurī (Great White One) !”
 
 If we were to incorporate the various ‘Gauri’ citations for Devi within the Puranic canon there are further attestations to be drawn from; although it should be noted that some of these are for ‘lightning’ rather than ‘solar light’, and in other cases (as with, for instance ‘SvarnaGauri’), there is a pointedly ‘Gold’ saliency that is implicitly Solar yet nevertheless also potentially ‘freestanding’.
 
@@ -115,8 +112,7 @@ What do we find underpinning all of this? Is it ‘merely’ incredible, incande
 
 Of course not.
 
-We had considered at far grander length various of the approaches to MahaGauri in our previous (Sharada) Navratri piece –  
-([https://aryaakasha.com/2019/10/06/mahagauri-the-eighth-night-of-navratri-eighth-of-the-navadurgas-2/](https://aryaakasha.com/2019/10/06/mahagauri-the-eighth-night-of-navratri-eighth-of-the-navadurgas-2/))
+We had considered at far grander length various of the approaches to MahaGauri in our previous (Sharada) Navratri piece – ([https://aryaakasha.com/2019/10/06/mahagauri-the-eighth-night-of-navratri-eighth-of-the-navadurgas-2/](https://aryaakasha.com/2019/10/06/mahagauri-the-eighth-night-of-navratri-eighth-of-the-navadurgas-2/))
 
 We shall not seek to reproduce all of that (considerable) swathe of material here.
 
@@ -150,14 +146,11 @@ However, for our broader cosmological point (and that of the comparative mytho-t
 
 First and foremost, as Brahma Himself observes –
 
-“What can a man of virtuous rites achieve without depending on Your behest? You alone are the unborn, intelligent, ancient Goddess. \[…\]There is no greater Śakti than You. Without You rites cannot achieve results.  
-You alone constitute Śakti of living beings. Himself incompetent to do anything \[without Your empowerment\] what will a mere agent do?  
-It is only Your behest that is the cause of acquisition of prosperity and glory by Viṣṇu, by Me or by any of these—Gods, Dānavas or Rākṣasas. \[…\]  
-O Goddess of the Gods without propitiating You the fourfold arms of life cannot be acquired by all of Us. \[…\]  
-You are the primordial and eternal Śakti of Śiva the great soul, the lord of the universe, the Śakti without beginning, middle or death.  
-For the functioning of the universe You assume some form or other and play about in different aspects. Who knows you factually?  
-Hence let this wicked tiger (vyāghra) too attain the great Siddhi by Your blessings. Nothing can prevent it”  
-(Shastri translation)
+“What can a man of virtuous rites achieve without depending on Your behest? You alone are the unborn, intelligent, ancient Goddess. \[…\]There is no greater Śakti than You. Without You rites cannot achieve results.
+
+You alone constitute Śakti of living beings. Himself incompetent to do anything \[without Your empowerment\] what will a mere agent do? It is only Your behest that is the cause of acquisition of prosperity and glory by Viṣṇu, by Me or by any of these—Gods, Dānavas or Rākṣasas. \[…\] O Goddess of the Gods without propitiating You the fourfold arms of life cannot be acquired by all of Us. \[…\] You are the primordial and eternal Śakti of Śiva the great soul, the lord of the universe, the Śakti without beginning, middle or death.
+
+For the functioning of the universe You assume some form or other and play about in different aspects. Who knows you factually? Hence let this wicked tiger (vyāghra) too attain the great Siddhi by Your blessings. Nothing can prevent it” (Shastri translation)
 
 Now, how does this pertain to that which we are seeking to sketch out here?
 
@@ -169,13 +162,11 @@ The description given in the Second Homeric Hymn phrases it thusly:
 
 “But golden-haired Demeter sat there apart from all the blessed Gods and stayed, wasting with yearning for Her deep-bosomed Daughter. Then She caused a most dreadful and cruel year for mankind over the all-nourishing earth: the ground would not make the seed sprout, for rich-crowned Demeter kept it hid. In the fields the oxen drew many a curved plough in vain, and much white barley was cast upon the land without avail. So She would have destroyed the whole race of man with cruel famine and have robbed Them who dwell on Olympus of Their glorious right of gifts and sacrifices, had not Zeus perceived and marked this in His heart. First He sent golden-winged Iris to call rich-haired Demeter, lovely in form. So He commanded. And She obeyed the dark-clouded Son of Cronos, and sped with swift feet across the space between. She came to the stronghold of fragrant Eleusis, and there finding dark-cloaked Demeter in Her temple, spake to Her and uttered winged words: “Demeter, Father Zeus, Whose wisdom is everlasting, calls You to come join the tribes of the eternal Gods: come therefore, and let not the message I bring from Zeus pass unobeyed.”
 
-Thus said Iris imploring Her. But Demeter’s heart was not moved. Then again the Father sent forth all the blessed and eternal Gods besides: and They came, One after the Other, and kept calling Her and offering many very beautiful gifts and whatever right She might be pleased to choose among the deathless Gods. Yet no One was able to persuade Her mind and will, so wrath was She in Her heart; but She stubbornly rejected all their words: for She vowed that She would never set foot on fragrant Olympus nor let fruit spring out of the ground, until She beheld with Her Eyes Her own fair-faced Daughter.”  
-(Evelyn-White translation)
+Thus said Iris imploring Her. But Demeter’s heart was not moved. Then again the Father sent forth all the blessed and eternal Gods besides: and They came, One after the Other, and kept calling Her and offering many very beautiful gifts and whatever right She might be pleased to choose among the deathless Gods. Yet no One was able to persuade Her mind and will, so wrath was She in Her heart; but She stubbornly rejected all their words: for She vowed that She would never set foot on fragrant Olympus nor let fruit spring out of the ground, until She beheld with Her Eyes Her own fair-faced Daughter.” (Evelyn-White translation)
 
 Earlier in the Hymnal we also find the following –
 
-“But grief yet more terrible and savage came into the heart of Demeter, and thereafter She was so angered with the dark-clouded Son of Cronos that She avoided the gathering of the Gods and high Olympus, and went to the towns and rich fields of men, disfiguring Her Form a long while. And no one of men or deep-bosomed women knew Her when they saw Her, until She came to the house of wise Celeus who then was lord of fragrant Eleusis. Vexed in Her dear heart, She sat near the wayside by the Maiden Well, from which the women of the place were used to draw water, in a shady place over which grew an olive shrub. And She was like an ancient woman who is cut off from childbearing and the gifts of garland-loving Aphrodite, like the nurses of king’s children who deal justice, or like the house-keepers in their echoing halls.”  
-(Evelyn-White translation)
+“But grief yet more terrible and savage came into the heart of Demeter, and thereafter She was so angered with the dark-clouded Son of Cronos that She avoided the gathering of the Gods and high Olympus, and went to the towns and rich fields of men, disfiguring Her Form a long while. And no one of men or deep-bosomed women knew Her when they saw Her, until She came to the house of wise Celeus who then was lord of fragrant Eleusis. Vexed in Her dear heart, She sat near the wayside by the Maiden Well, from which the women of the place were used to draw water, in a shady place over which grew an olive shrub. And She was like an ancient woman who is cut off from childbearing and the gifts of garland-loving Aphrodite, like the nurses of king’s children who deal justice, or like the house-keepers in their echoing halls.” (Evelyn-White translation)
 
 To phrase it more succinctly – we have Demeter variously described in terms that are ‘Black(ened)’, that are ‘Shrouded’ or ‘Cloaked’, and that of a rather prominently aged old woman. If we cast our minds back to some of the descriptive conceptry for Kali / KaalRatri – we find that these are close matches.
 
@@ -191,13 +182,11 @@ At which point, as we have seen, the ‘dark’ visage and mytho-literal cloak f
 
 There is a ‘presaging’ of this earlier in that same Homeric Hymn, when She reveals Herself to Queen Metaneira:
 
-“When she had so said, the goddess changed her stature and her looks, thrusting old age away from her: beauty spread round about her and a lovely fragrance was wafted from her sweet-smelling robes, and from the divine body of the goddess a light shone afar, while golden tresses spread down over her shoulders, so that the strong house was filled with brightness as with lightning.”  
-(Evelyn-White translation)
+“When she had so said, the goddess changed her stature and her looks, thrusting old age away from her: beauty spread round about her and a lovely fragrance was wafted from her sweet-smelling robes, and from the divine body of the goddess a light shone afar, while golden tresses spread down over her shoulders, so that the strong house was filled with brightness as with lightning.” (Evelyn-White translation)
 
 Another presentation of the same underlying Indo-European myth (albeit with some different manifest particulars) is that found in Pausanias:
 
-“At first, they say, Demeter was angry at what had happened, but later on She laid aside Her Wrath and wished to bathe in the Ladon. So the Goddess has obtained two surnames, Erinys (Fury) because of Her avenging anger, because the Arkadians call being wrathful ‘being furious,’ and Lousie (Bather) because She bathed in the Ladon.”  
-(Jones translation)
+“At first, they say, Demeter was angry at what had happened, but later on She laid aside Her Wrath and wished to bathe in the Ladon. So the Goddess has obtained two surnames, Erinys (Fury) because of Her avenging anger, because the Arkadians call being wrathful ‘being furious,’ and Lousie (Bather) because She bathed in the Ladon.” (Jones translation)
 
 Again – if we recall the situation of Kali / KaalRatri, we find that She undertakes to bathe in order to remove Her Black and Furious state – and thus become the ‘Golden’, ‘Light’, in a word, ‘MahaGauri’ Form once more.
 
@@ -211,8 +200,7 @@ So – as we have said: the situation of MahaGauri as a Bestower of Boons is one
 
 Curiously, as we have seen, in the course of the Shiva Purana’s accounting (VII 1 34-35, Shastri translation)– this also applies to Her, evidently, carrying out acts of devotion to Herself:
 
-“Brahmā said:—  
-34 O Goddess, why did You perform a severe penance for this purpose? Was not Your Wish alone sufficient for that? Indeed this is only Your sport
+“Brahmā said:— 34 O Goddess, why did You perform a severe penance for this purpose? Was not Your Wish alone sufficient for that? Indeed this is only Your sport
 
 35 O Mother of the Universe, Your play too benefits the Worlds. Hence some benefit pleasing to Me may be sought through it.”
 
@@ -258,18 +246,15 @@ It is in this latter sense that ‘Siddhi’ as ‘Cooking’ or a ‘Work of Ar
 
 After all, asAdi Shankara phrased it in his Saundarya Lahari \[‘The Waves of Beauty’\] –
 
-“sivah saktya yukto yadi bhavati saktah prabhavitum  
-na cedevam devo na khalu kusalah spanditumapi”
+“sivah saktya yukto yadi bhavati saktah prabhavitum na cedevam devo na khalu kusalah spanditumapi”
 
 Or, phrased in a language we can perhaps grasp somewhat better (most of here in the audience, anyway) –
 
-“Shiva with Shakti joined (Yukta), if (Yadi) comes to be (Bhavati) empowered / endowed with (Sakta) is able to influence / manifest / effect (Prabhavitum)  
-If Without (Na Cet), the God (Devo) is indeed (Khalu) not capable / competent (Kusala) even (Api) to ‘pulsate’ / ‘move’ / ‘engage in mental activity’ (Spanditum).”
+“Shiva with Shakti joined (Yukta), if (Yadi) comes to be (Bhavati) empowered / endowed with (Sakta) is able to influence / manifest / effect (Prabhavitum) If Without (Na Cet), the God (Devo) is indeed (Khalu) not capable / competent (Kusala) even (Api) to ‘pulsate’ / ‘move’ / ‘engage in mental activity’ (Spanditum).”
 
 Putting this into a more straightforward-for-English approach:
 
-“If Shiva is joined with His Shakti, then He becomes empowered to Manifest and Impel the Universe  
-But without Her, Even the Mighty God is indeed unable to even Move nor Mentally Conceive”
+“If Shiva is joined with His Shakti, then He becomes empowered to Manifest and Impel the Universe But without Her, Even the Mighty God is indeed unable to even Move nor Mentally Conceive”
 
 Various translations have chosen – quite understandably – to render particulars of the above rather more ‘figuratively’ than I have done here.
 

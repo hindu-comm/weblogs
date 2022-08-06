@@ -5,6 +5,7 @@ date = "2022-03-11"
 upstream_url = "https://aryaakasha.com/2022/03/11/adoption-by-a-divine-mother/"
 
 +++
+
 Source: [here](https://aryaakasha.com/2022/03/11/adoption-by-a-divine-mother/).
 
 Adoption By A Divine Mother
@@ -33,8 +34,7 @@ The major mythic instance which sprang into my mind upon reading this was, of co
 
 Fitting, one might say – because His acts having lead to Him Becoming a God proper, also therefore correlated with His being adopted by, quite literally, the Mother of Divinity. In Diodorus Siculus we find the tale thusly:
 
-“We should add to what has been said about Heracles, that after his apotheosis Zeus persuaded Hera to adopt him as her son and henceforth for all time to cherish him with a mother’s love, and this adoption, they say, took place in the following manner. Hera lay upon a bed, and drawing Heracles close to her body then let him fall through her garments to the ground, imitating in this way the actual birth; and this ceremony is observed to this day by the barbarians whenever they wish to adopt a son.”  
-\[IV, 39, 2 – Oldfather translation\]
+“We should add to what has been said about Heracles, that after his apotheosis Zeus persuaded Hera to adopt him as her son and henceforth for all time to cherish him with a mother’s love, and this adoption, they say, took place in the following manner. Hera lay upon a bed, and drawing Heracles close to her body then let him fall through her garments to the ground, imitating in this way the actual birth; and this ceremony is observed to this day by the barbarians whenever they wish to adopt a son.” \[IV, 39, 2 – Oldfather translation\]
 
 Interestingly, there is a prominent motif amidst the Etruscans, wherein Hercle and Uni are depicted in a scene that is clearly reminiscent of the above – except rather less figurative, as the rendering is of a decidedly adult Hercules being nursed from the breast of Juno.
 
@@ -42,8 +42,7 @@ Interestingly, there is a prominent motif amidst the Etruscans, wherein Hercle a
 
 Diodorus Siculus *does* make reference to a somewhat cognate incident earlier on in his narrative, which we shall quote here:
 
-“After Alcmenê had brought forth the babe, fearful of Hera’s jealousy she exposed it at a place which to this time is called after him the Field of Heracles. Now at this very time Athena, approaching the spot in the company of Hera and being amazed at the natural vigour of the child, persuaded Hera to offer it the breast. But when the boy tugged upon her breast with greater violence than would be expected at his age, Hera was unable to endure the pain and cast the babe from her, whereupon Athena took it to its mother and urged her to rear it.”  
-\[IV, 9, 6, Oldfather translation\]
+“After Alcmenê had brought forth the babe, fearful of Hera’s jealousy she exposed it at a place which to this time is called after him the Field of Heracles. Now at this very time Athena, approaching the spot in the company of Hera and being amazed at the natural vigour of the child, persuaded Hera to offer it the breast. But when the boy tugged upon her breast with greater violence than would be expected at his age, Hera was unable to endure the pain and cast the babe from her, whereupon Athena took it to its mother and urged her to rear it.” \[IV, 9, 6, Oldfather translation\]
 
 There is clearly a dysjunction here – insofar as the Etruscan telling has an adult Hercle, and the breastmilk involved proximate to Hercules’ Apotheosis ; whilst Diodorus Siculus’ account places the nursing incident when Hercules was but an infant.
 
@@ -69,9 +68,9 @@ To quote from that aforementioned Homeric Hymnal directly via way of further exp
 
 \[…\]
 
-Forthwith She \[Demeter\] said to well-girded Metaneira : ‘Witless are you mortals and dull to foresee your lot, whether of good or evil, that comes upon you. For now in your heedlessness you have wrought folly past healing; for – be witness the oath of the gods, the relentless water of Styx – I would have made your dear son deathless and unaging all his days and would have bestowed on him everlasting honour, but now he can in no way escape death and the fates. Yet shall unfailing honour always rest upon him, because he lay upon My knees and slept in My arms. But, as the years move round and when he is in his prime, the sons of the Eleusinians shall ever wage war and dread strife with one another continually.’ . . .  
-And the child, he grew up like an immortal being.”  
-\[Homeric Hymn 2 to Demeter, Evelyn-White translation\]
+Forthwith She \[Demeter\] said to well-girded Metaneira : ‘Witless are you mortals and dull to foresee your lot, whether of good or evil, that comes upon you. For now in your heedlessness you have wrought folly past healing; for – be witness the oath of the gods, the relentless water of Styx – I would have made your dear son deathless and unaging all his days and would have bestowed on him everlasting honour, but now he can in no way escape death and the fates. Yet shall unfailing honour always rest upon him, because he lay upon My knees and slept in My arms. But, as the years move round and when he is in his prime, the sons of the Eleusinians shall ever wage war and dread strife with one another continually.’ . . .
+
+And the child, he grew up like an immortal being.” \[Homeric Hymn 2 to Demeter, Evelyn-White translation\]
 
 A similar situation seems to eventuate as applies Triptolemos \[Triptolemus if we are being Latin\] – a figure that is, again, most instructive. Partially because Triptolemos *does* wind up becoming, in effect, a divinity – but also because the etymology to His Name appears to render as ‘Triple-Press’; which entirely uncoincidentally reminds one instantly of the Soma conceptry of the Vedas.
 
