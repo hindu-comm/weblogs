@@ -71,7 +71,7 @@ socrates, and rjrasva@ quoting a bAlinese hindu on the topic:
     a literal look at the new altar to pagan gods they might consider it
     satanic.([DailyBeast](http://www.thedailybeast.com/articles/2015/02/05/why-iceland-is-building-a-temple-to-its-pagan-gods.html))
 
-Well, Guan Yu/ varuNa was kind to me that day – the Hispanictech (who
+Well, Guan Yu/ varuNa was kind to me that day – the Hispanic tech (who
 identified the statue upon asking) allowed me to take my car home and
 return with my wallet.
 
