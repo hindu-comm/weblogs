@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/rkul-time-well-spent-01012021).
 
 RKUL: Time Well Spent 01/01/2022
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd03767bd-fa4d-484e-99b1-c2bc8927680b_1061x600.jpeg)
 
 RKUL: Time Well Spent 01/01/2022
 
@@ -29,11 +29,39 @@ Email
 
 ### Recommendations for everything, New Year's edition
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
 
-One quick housekeeping note for anyone considering a monthly subscription. I will be upping the monthly rate from $8 to $9 on January 3rd (the annual rate will remain the same for the time being). It’s worth noting that Substack’s subscription model seems to lock in whatever annual or monthly rate you come in at for you perpetually. Thank you to all who have already subscribed!
+[Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd03767bd-fa4d-484e-99b1-c2bc8927680b_1061x600.jpeg)
+Jan 1
+
+13
+
+[](https://razib.substack.com/p/rkul-time-well-spent-01012021/comments)
+
+7
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd03767bd-fa4d-484e-99b1-c2bc8927680b_1061x600.jpeg)
+
+RKUL: Time Well Spent 01/01/2022
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+One quick housekeeping note for anyone considering a monthly subscription. I will be upping the monthly rate from \$8 to \$9 on January 3rd (the annual rate will remain the same for the time being). It’s worth noting that Substack’s subscription model seems to lock in whatever annual or monthly rate you come in at for you perpetually. Thank you to all who have already subscribed!
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd03767bd-fa4d-484e-99b1-c2bc8927680b_1061x600.jpeg)
 
 **Subscribe**
 
@@ -45,7 +73,7 @@ Your time is finite. Your phone and the internet stand ready to help you squande
 
 It’s 2022. What’s in my stack? Some books I have to read for reviews, others I get to read for podcasts. Others because I read compulsively. Below is a mix of assignment and aspiration.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc1454c9-0bb2-4783-9c64-ceddeedcf2a9_800x162.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbc1454c9-0bb2-4783-9c64-ceddeedcf2a9_800x162.jpeg)
 
 Everyone keeps asking me about the David Graeber book, [The Dawn of Everything: A New History of Humanity](https://www.amazon.com/exec/obidos/ASIN/B08R2KL3VY/geneexpressio-20). I plan on reading it, because I’ve tentatively agreed to review it. Most of the economic historians I respect seem to view Graeber’s work dimly, but [others](https://www.wsj.com/articles/the-dawn-of-everything-book-review-prehistoric-man-graeber-wengrow-wrong-from-the-start-11639168007) have a more mixed response.
 
@@ -127,18 +155,17 @@ All my podcasts go [ungated](https://unsupervisedlearning.libsyn.com/) two weeks
 
 Here are my guests since the last Time Well Spent in mid-December:
 
--   [Leighton Woodhouse: from the labor left to the radical
-    center.](https://razib.substack.com/p/leighton-woodhouse-from-the-labor)
+- [Leighton Woodhouse: from the labor left to the radical
+  center.](https://razib.substack.com/p/leighton-woodhouse-from-the-labor)
 
--   [Eric Kaufmann: shall the religious still inherit the
-    earth?](https://razib.substack.com/p/eric-kaufmann-shall-the-religious)
+- [Eric Kaufmann: shall the religious still inherit the
+  earth?](https://razib.substack.com/p/eric-kaufmann-shall-the-religious)
 
--   [R. Taylor Raborn: evolutionary genetics, good enough for government
-    work…](https://razib.substack.com/p/r-taylor-raborn-evolutionary-genetics)
+- [R. Taylor Raborn: evolutionary genetics, good enough for government
+  work…](https://razib.substack.com/p/r-taylor-raborn-evolutionary-genetics)
 
--   And here are the [currently ungated
-    podcasts](https://unsupervisedlearning.libsyn.com/) all in one
-    place.
+- And here are the [currently ungated
+  podcasts](https://unsupervisedlearning.libsyn.com/) all in one place.
 
 For subscribers, I now post transcripts (automatically generated, though I have someone going through to catch errors).
 
@@ -152,35 +179,35 @@ https://www.razib.com
 
 . You’ll find links to the few different podcasts I’ve contributed to or run, my total [RSS](https://feeds.feedburner.com/RazibKhansTotalFeed) feed, links to more mainstream or print articles when I remember to post them, my Twitter, the occasional guest appearance here and there, etc.
 
--   [Email](mailto:contactgnxp@gmail.com) me
+- [Email](mailto:contactgnxp@gmail.com) me
 
--   [DM](https://twitter.com/razibkhan) me
+- [DM](https://twitter.com/razibkhan) me
 
--   [Facebook](https://www.facebook.com/razibkhan99) message me
+- [Facebook](https://www.facebook.com/razibkhan99) message me
 
--   My [total feed](http://www.razib.com/wordpress/) of content
+- My [total feed](http://www.razib.com/wordpress/) of content
 
--   My long-time blog, [GNXP](http://gnxp.com/)
+- My long-time blog, [GNXP](http://gnxp.com/)
 
--   A group blog, [Secular Right](http://secularright.org/), vintage at
-    this point, but worthwhile for Heather Mac Donald’s prescience
+- A group blog, [Secular Right](http://secularright.org/), vintage at
+  this point, but worthwhile for Heather Mac Donald’s prescience
 
--   My Indian/South Asian focused blog, [Brown
-    Pundits](https://www.brownpundits.com/)
+- My Indian/South Asian focused blog, [Brown
+  Pundits](https://www.brownpundits.com/)
 
--   Some of my past pieces for
-    [UnHerd](https://unherd.com/author/razib-khan/), [National
-    Review](https://www.nationalreview.com/author/razib-khan/), [The
-    Manhattan
-    Institute](https://www.city-journal.org/contributor/razib-khan_1620),
-    [Quillette](https://quillette.com/author/razib-khan/), and [The New
-    York
-    Times](https://www.nytimes.com/2014/11/25/opinion/our-cats-ourselves.html)
+- Some of my past pieces for
+  [UnHerd](https://unherd.com/author/razib-khan/), [National
+  Review](https://www.nationalreview.com/author/razib-khan/), [The
+  Manhattan
+  Institute](https://www.city-journal.org/contributor/razib-khan_1620),
+  [Quillette](https://quillette.com/author/razib-khan/), and [The New
+  York
+  Times](https://www.nytimes.com/2014/11/25/opinion/our-cats-ourselves.html)
 
--   My old podcast, [The Insight](https://insitome.libsyn.com/)
+- My old podcast, [The Insight](https://insitome.libsyn.com/)
 
--   My podcast today, [Unsupervised
-    Learning](https://unsupervisedlearning.libsyn.com/)
+- My podcast today, [Unsupervised
+  Learning](https://unsupervisedlearning.libsyn.com/)
 
 I’m also a regular guest on [The Study of Antiquity and the Middle Ages](https://www.youtube.com/channel/UCxRSpkGOH_09pxKvgD8S5jQ) and [The Carvaka](https://www.youtube.com/channel/UCKPxuul6zSLAfKSsm123Vww).
 
@@ -198,5 +225,26 @@ The plain truth is that Wilson *was* a deeply problematic figure from the perspe
 
 Comments are open to all for this post, so if you have more reading/listening suggestions or tips on who I should be talking to or what I really should be writing for you, lay it on me.
 
-|                                                                          |                             | |--------------------------------------------------------------------------|-----------------------------| | [7](https://razib.substack.com/p/rkul-time-well-spent-01012021/comments) | [Share](javascript:void(0)) |
+[](https://razib.substack.com/p/rkul-time-well-spent-01012021/comments)
 
+7
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd03767bd-fa4d-484e-99b1-c2bc8927680b_1061x600.jpeg)
+
+RKUL: Time Well Spent 01/01/2022
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

@@ -9,9 +9,9 @@ Source: [here](https://rasajournal.substack.com/p/the-sisters).
 
 The Sisters
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1857858a-9100-40b7-bc6e-e6dad46c84ac_6016x4016.jpeg)
 
 The Sisters
 
@@ -29,9 +29,37 @@ Email
 
 ### Exploring the eight states of the North-East India and the narratives surrounding them.
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2493377a-60dd-44d9-a41e-4aff3778a15c_660x1006.jpeg)](https://substack.com/profile/4266017-garima?utm_source=author-byline-face)
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1857858a-9100-40b7-bc6e-e6dad46c84ac_6016x4016.jpeg)
+[Garima](https://substack.com/profile/4266017-garima)
+
+Mar 26
+
+3
+
+[](https://rasajournal.substack.com/p/the-sisters/comments)
+
+4
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1857858a-9100-40b7-bc6e-e6dad46c84ac_6016x4016.jpeg)
+
+The Sisters
+
+rasajournal.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1857858a-9100-40b7-bc6e-e6dad46c84ac_6016x4016.jpeg)
 
 *Sanamahis of Manipur. Photo by [Siddharth Haobijam](https://www.sahapedia.org/amaibis-manipur-gender-fluid-priestesses-sanamahi-religion#lg=1&slide=12), courtesy Sahapedia.*
 
@@ -69,7 +97,26 @@ However, Hausing says that there have been positive changes in academia in the l
 
 “North-East is now looked at with renewed interest and there is far more deeper engagement with rest of India politically, economically, and even with corporate houses,” says Hauzel. “Corporates are looking at it in terms of investments and what they can get out of it, therefore that is creating buzz,” she says. There are now 15 operational airports in the region with two international ones in Guwahati and Imphal and a third one planned in Agartala. There is a much better connectivity and infrastructural intervention now, Hauzel says, but there is a need to not just look at the region as a playground. “What is anchoring all of this are the people and so the importance of people should never be overridden by the sudden and renewed interest that India has towards the region,” she concludes.
 
-[2](https://rasajournal.substack.com/p/the-sisters/comments)
+[](https://rasajournal.substack.com/p/the-sisters/comments)
 
-[Share](javascript:void(0))
+4
 
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1857858a-9100-40b7-bc6e-e6dad46c84ac_6016x4016.jpeg)
+
+The Sisters
+
+rasajournal.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

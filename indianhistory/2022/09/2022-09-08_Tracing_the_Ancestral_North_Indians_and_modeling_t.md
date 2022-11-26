@@ -33,7 +33,7 @@ Email
 
 Sep 8
 
-6
+8
 
 [](https://eruditus.substack.com/p/tracing-the-ancestral-north-indians/comments)
 
@@ -179,8 +179,6 @@ Thanks for reading Shiṣṭagoṣṭhī \| Collegium Eruditi! Subscribe for fre
 
 **Subscribe**
 
-Like this post
-
 [](https://eruditus.substack.com/p/tracing-the-ancestral-north-indians/comments)
 
 4
@@ -202,3 +200,5 @@ Twitter
 Facebook
 
 Email
+
+Like this post

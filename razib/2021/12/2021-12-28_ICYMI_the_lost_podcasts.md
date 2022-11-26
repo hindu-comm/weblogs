@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/icymi-the-lost-podcasts-dec-2021).
 
 ICYMI: the lost podcasts
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2c766e0-046a-4eba-ae67-b47637eaeb9c_800x389.jpeg)
 
 ICYMI: the lost podcasts
 
@@ -29,9 +29,33 @@ Email
 
 ### Six conversations not to be missed
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2c766e0-046a-4eba-ae67-b47637eaeb9c_800x389.jpeg)
+[Razib Khan](https://substack.com/profile/1400665-razib-khan)
+
+Dec 28, 2021
+
+3
+
+[](https://razib.substack.com/p/icymi-the-lost-podcasts-dec-2021/comments)[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2c766e0-046a-4eba-ae67-b47637eaeb9c_800x389.jpeg)
+
+ICYMI: the lost podcasts
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2c766e0-046a-4eba-ae67-b47637eaeb9c_800x389.jpeg)
 
 **Subscribe**
 
@@ -47,7 +71,7 @@ I hear Anders is coming out with a new paper, so a second chat might be in order
 
 [Charles Murray](https://razib.substack.com/p/a-conversation-with-charles-murray) ([ungated](https://unsupervisedlearning.libsyn.com/a-conversation-with-charles-murray)) is the author of [The Bell Curve: Intelligence and Class Structure in American Life](https://www.amazon.com/exec/obidos/ASIN/B003L77VY2/geneexpressio-20), [Coming Apart: The State of White America, 1960-2010](https://www.amazon.com/exec/obidos/ASIN/B00540PAXS/geneexpressio-20), and [Human Accomplishment: The Pursuit of Excellence in the Arts and Sciences, 800 B.C. to 1950](https://www.amazon.com/exec/obidos/ASIN/B000OVLJSC/geneexpressio-20), among many other books. He’s retired from *The American Enterprise Institute* now, living in rural Maryland, with more time to reflect. So I wanted to probe him on his background (he grew up in Iowa), and where he thinks America is going over the long-term (he’s quite ambivalent though tries to retain his Midwestern optimism). The podcast was recorded in the fall of 2020, and looking back, we find his rosy view of how the COVID-19 pandemic would play out in the US ran up against the unfortunate reality of new [variants](https://www.cdc.gov/coronavirus/2019-ncov/variants/about-variants.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fvariants%2Fvariant.html) that shifted the herd immunity threshold upward.
 
-![Lion Gate of Mycenae](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8b14f9c0-f169-4138-b75a-1100a2109430_480x320.jpeg)
+![Lion Gate of Mycenae](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8b14f9c0-f169-4138-b75a-1100a2109430_480x320.jpeg)
 
 Social media is usually a cesspool, but [Eric Cline](https://razib.substack.com/p/eric-cline-on-the-end-of-the-bronze) ([ungated](https://unsupervisedlearning.libsyn.com/eric-cline-and-the-end-of-the-bronze-age)) is someone I got to know on [Twitter](https://twitter.com/digkabri?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), though I’d been familiar with his work through his excellent book [1177 B.C.: The Year Civilization Collapsed](https://www.amazon.com/exec/obidos/ASIN/B08KKTCS22/geneexpressio-20). My primary interests are genetics, evolution, and paleoanthropology, so I’m not surprised when I run into people from those fields on my Twitter. But I am not as familiar with the academic world of history and archaeology, so when Eric showed up in my “replies,” I was flattered to know *I* was on *his* radar. I’ve been fascinated with Bronze-Age civilizations since I was a young child, so I was keen to find out what we knew in 2021 that would have surprised the little boy who raptly watched Michael Wood’s [miniseries](https://www.youtube.com/watch?v=CkbUQKyie_w&list=PL3ZUbEmAkM2tvrhsw3NzBj7ntUqY1CP84) on the Trojan War in the late 1980’s.
 
@@ -60,7 +84,7 @@ If you are minimally aware of the wonkish end of contemporary electoral politics
 I marked the transition from 2020 to 2021 with a conversation with my friend [Armand Leroi](https://razib.substack.com/p/armand-leroi-an-evolutionist-in-repose), an evolutionary biologist who also could be a candidate for “the most interesting man in the world” (and no, not because for a period in the 2010’s he [dated](https://www.telegraph.co.uk/news/celebritynews/10605081/Jerry-Hall-seeks-compatibility-with-top-genetics-professor.html) [Jerry Hall](https://en.wikipedia.org/wiki/Jerry_Hall), Mick Jagger’s ex, and Rupert Murdoch’s now-wife). Armand is the author of [Mutants: On Genetic Variety and the Human Body](https://www.amazon.com/exec/obidos/ASIN/B00AFYEM5U/geneexpressio-20) and [The Lagoon: How Aristotle Invented Science](https://www.amazon.com/exec/obidos/ASIN/B00INIXJL8/geneexpressio-20). [Mutants](https://www.amazon.com/exec/obidos/ASIN/B00AFYEM5U/geneexpressio-20) is a very brisk, dense read, while [The Lagoon](https://www.amazon.com/exec/obidos/ASIN/B00INIXJL8/geneexpressio-20) meanders far more. Armand is candid that [The Lagoon](https://www.amazon.com/exec/obidos/ASIN/B00INIXJL8/geneexpressio-20) grew so extensive because whereas as a geneticist he was very confident while writing [Mutants](https://www.amazon.com/exec/obidos/ASIN/B00AFYEM5U/geneexpressio-20), [The Lagoon](https://www.amazon.com/exec/obidos/ASIN/B00INIXJL8/geneexpressio-20)’s focus on the history of science left him with a completist urge to head off accusations of dilettantism (I enjoyed [The Lagoon](https://www.amazon.com/exec/obidos/ASIN/B00INIXJL8/geneexpressio-20), but I like big books). I first started talking to Armand when I did a [Q &
 A](http://www.gnxp.com/blog/2005/12/10-questions-for-armand-m-leroi.php) with him in 2005, and we had a lot to catch up on, as a lot has changed in science and culture in that period (for example, I doubt Armand would have been allowed to pen an op-ed in *The New York Times* defending the race concept from a [biological perspective](https://www.nytimes.com/2005/03/14/opinion/a-family-tree-in-every-gene.html) today).
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0a69c08b-a180-472e-b189-cb9d2068aa11_1200x1200.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0a69c08b-a180-472e-b189-cb9d2068aa11_1200x1200.jpeg)
 
 Finally, in early January of 2021, I discussed the “lab leak” theory with [Alina Chan](https://razib.substack.com/p/alina-chan-on-sars-cov-2-and-lab) ([ungated](https://unsupervisedlearning.libsyn.com/alina-chan-on-sars-cov-2-and-lab-leak)). Today she’s the co-author of [Viral: The Search for the Origin of COVID-19](https://www.amazon.com/exec/obidos/ASIN/B09794TRBB/geneexpressio-20), but at the time Alina was experiencing a great deal of [blowback](https://www.bostonmagazine.com/news/2020/09/09/alina-chan-broad-institute-coronavirus/) to her questioning the details of the beginnings of the pandemic in China. I wanted to talk to her because there was a strange discordance between what people were saying in public (or not saying), and the sentiment among many geneticists I knew who thought that she was well within her rights to express doubts. In May of 2021, some of the people who I had heard were privately supportive of Alina publically put their names to a comment in *Science*, [Investigate the origins of COVID-19](https://www.science.org/doi/10.1126/science.abj0016).
 
@@ -72,5 +96,22 @@ Throughout 2021, I’ve posted *at least* one podcast per week. Sometimes I post
 
 [Share](https://razib.substack.com/p/icymi-the-lost-podcasts-dec-2021?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
-|                                                                                   |                             | |-----------------------------------------------------------------------------------|-----------------------------| | [Comment](https://razib.substack.com/p/icymi-the-lost-podcasts-dec-2021/comments) | [Share](javascript:void(0)) |
+[](https://razib.substack.com/p/icymi-the-lost-podcasts-dec-2021/comments)[](javascript:void(0))
 
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2c766e0-046a-4eba-ae67-b47637eaeb9c_800x389.jpeg)
+
+ICYMI: the lost podcasts
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

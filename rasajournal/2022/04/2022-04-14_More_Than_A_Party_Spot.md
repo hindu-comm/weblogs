@@ -9,9 +9,9 @@ Source: [here](https://rasajournal.substack.com/p/more-than-a-party-spot).
 
 More Than A Party Spot 
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F84c555ad-5cbf-4a86-9f7b-4dcb1b6fa49a_1158x709.jpeg)
 
 More Than A Party Spot
 
@@ -29,9 +29,37 @@ Email
 
 ### Why Goa is more than an escapade
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2493377a-60dd-44d9-a41e-4aff3778a15c_660x1006.jpeg)](https://substack.com/profile/4266017-garima?utm_source=author-byline-face)
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F84c555ad-5cbf-4a86-9f7b-4dcb1b6fa49a_1158x709.jpeg)
+[Garima](https://substack.com/profile/4266017-garima)
+
+Apr 14
+
+2
+
+[](https://rasajournal.substack.com/p/more-than-a-party-spot/comments)
+
+2
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F84c555ad-5cbf-4a86-9f7b-4dcb1b6fa49a_1158x709.jpeg)
+
+More Than A Party Spot
+
+rasajournal.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F84c555ad-5cbf-4a86-9f7b-4dcb1b6fa49a_1158x709.jpeg)
 
 *A beach shack in Goa. Stock Photo from iStock.*
 
@@ -69,7 +97,26 @@ Much would also depend on people who choose to call Goa home out of choice. Delh
 
 The space, originally a 90-year-old Portuguese home, was converted to have a modern look and is probably one of the first such establishment in Goa. Clay offers range from renting a space for a few hours to monthly plans, where one can get a seat, beverages, local food, and rooms for meetings. Ask him if this may run people into conflict with locals over a possible disconnect, he adds, “we've personally seen so many coworkers take time out and enjoy San Joao festival, Christmas Mass, the city wide parades, harvesting of the first batch of Urrak and so many other smaller traditions”. Manwatkar is optimistic about the growing trend of co-working in Goa, having watched its evolution over the past few years.
 
-[2](https://rasajournal.substack.com/p/more-than-a-party-spot/comments)
+[](https://rasajournal.substack.com/p/more-than-a-party-spot/comments)
 
-[Share](javascript:void(0))
+2
 
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F84c555ad-5cbf-4a86-9f7b-4dcb1b6fa49a_1158x709.jpeg)
+
+More Than A Party Spot
+
+rasajournal.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

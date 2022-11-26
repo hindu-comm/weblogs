@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/did-daddy-write-about-iq-again-yet).
 
 Did Daddy write about IQ again yet?
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F247fb8af-0dc0-4f5b-b0e5-282de9da2be3_1600x594.png)
 
 Did Daddy write about IQ again yet?
 
@@ -29,9 +29,37 @@ Email
 
 ### Parsing a year's worth of Substack traffic data with my daughter
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
 
-![**Traffic over the last 14 months, with major posts labeled**](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F247fb8af-0dc0-4f5b-b0e5-282de9da2be3_1600x594.png)
+[Razib Khan](https://substack.com/profile/1400665-razib-khan)
+
+Dec 31, 2021
+
+25
+
+[](https://razib.substack.com/p/did-daddy-write-about-iq-again-yet/comments)
+
+13
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F247fb8af-0dc0-4f5b-b0e5-282de9da2be3_1600x594.png)
+
+Did Daddy write about IQ again yet?
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+![**Traffic over the last 14 months, with major posts labeled**](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F247fb8af-0dc0-4f5b-b0e5-282de9da2be3_1600x594.png)
 
 **Subscribe**
 
@@ -53,7 +81,7 @@ But of all the paid posts, [Ashkenazi Jewish genetics: a match made in the Medit
 
 It is also rather clear that human evolution seriously interests a large faction of this newsletter’s readership. I put good odds on more exciting results shaking out in 2022, so count on more coverage of this particular topic.
 
-And speaking of the podcast, here are the top 10 by downloads (all ungated podcasts are at <https://unsupervisedlearning.libsyn.com>):
+And speaking of the podcast, here are the top 10 by downloads (all ungated podcasts are at [https://unsupervisedlearning.libsyn.com](https://unsupervisedlearning.libsyn.com)):
 
 1.  [Freddie deBoer: the "hereditarian
     Left"](https://razib.substack.com/p/freddie-deboer-the-hereditarian-left)
@@ -162,5 +190,26 @@ And that’s a wrap on 2021. Thank you, sincerely, to everyone who subscribes, g
 
 [Share](https://razib.substack.com/p/did-daddy-write-about-iq-again-yet?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
-|                                                                                |                             | |--------------------------------------------------------------------------------|-----------------------------| | [13](https://razib.substack.com/p/did-daddy-write-about-iq-again-yet/comments) | [Share](javascript:void(0)) |
+[](https://razib.substack.com/p/did-daddy-write-about-iq-again-yet/comments)
 
+13
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F247fb8af-0dc0-4f5b-b0e5-282de9da2be3_1600x594.png)
+
+Did Daddy write about IQ again yet?
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

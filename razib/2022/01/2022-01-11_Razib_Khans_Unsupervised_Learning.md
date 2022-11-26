@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/david-sloan-wilson-and-charles-c).
 
 Razib Khan's Unsupervised Learning
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F966cc2e2-d2f3-46a7-9a20-612c249813bc_976x549.jpeg)
 
 David Sloan Wilson and Charles C. Mann on E. O. Wilson's legacy
 
@@ -25,17 +25,13 @@ Facebook
 
 Email
 
-![](https://substackcdn.com/image/fetch/w_512,h_512,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F966cc2e2-d2f3-46a7-9a20-612c249813bc_976x549.jpeg)
+![](https://substackcdn.com/image/fetch/w_512,h_512,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2c48569f-373c-4d04-96a3-1aad755a419b_3000x3000.png)
 
 Jan 11 • 1HR 30M
 
 # David Sloan Wilson and Charles C. Mann on E. O. Wilson's legacy
 
 ### A life in science
-
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
-
-[Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
 Jan 11
 
@@ -48,6 +44,8 @@ Jan 11
 [](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F966cc2e2-d2f3-46a7-9a20-612c249813bc_976x549.jpeg)
 
 David Sloan Wilson and Charles C. Mann on E. O. Wilson's legacy
 
@@ -72,6 +70,12 @@ Email
 Open in playerListen on
 
 Audio playback is not supported on your browser. Please upgrade.
+
+#### Appears in this episode
+
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face-podcast)
+
+Razib Khan
 
 Conversations about science, culture, and current affairs
 
@@ -107,8 +111,6 @@ One of the things about E. O. Wilson’s life that many have observed was his gr
 
 [Share](https://razib.substack.com/p/david-sloan-wilson-and-charles-c?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
-Like this post
-
 [](https://razib.substack.com/p/david-sloan-wilson-and-charles-c/comments)
 
 1
@@ -116,6 +118,8 @@ Like this post
 [](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F966cc2e2-d2f3-46a7-9a20-612c249813bc_976x549.jpeg)
 
 David Sloan Wilson and Charles C. Mann on E. O. Wilson's legacy
 
@@ -129,3 +133,4 @@ Facebook
 
 Email
 
+Like this post

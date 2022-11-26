@@ -39,7 +39,7 @@ Jul 8
 
 [](https://razib.substack.com/p/rkul-time-well-spent-07072022/comments)
 
-9
+10
 
 [](javascript:void(0))
 
@@ -64,8 +64,6 @@ Email
 Your time is finite. Your phone and the internet stand ready to help you squander it. Here are my latest picks for spending it well instead. Feel free to add more in the comments.
 
 ### **The first Unsupervised Learning Survey**
-
-[](https://razib.substack.com/i/62921360/the-first-unsupervised-learning-survey)
 
 In the 20 years I’ve been writing on the internet I’ve been doing polls and surveys every few years. I have a general quantitative sense of my readership already, but I wanted to see what the breakdowns were for Substack specifically. I asked for some demographic information, posed some questions relating to this website (how did you find me?), and solicited thoughts on future post topics.
 
@@ -110,8 +108,6 @@ There is a lot more survey we could go over (you can find some memorable direct 
 
 ### **Thought**
 
-[](https://razib.substack.com/i/62921360/thought)
-
 [On a fallacious argument about ethnicity and genetics](https://wyclif.substack.com/p/on-a-fallacious-argument-about-ethnicity). [Wyclif’s Dust](https://wyclif.substack.com/) has a title that always makes me think it’s going to be written by a 90-year-old Oxford don with a fascination for Reformation thought, but the author is actually David Hugh-Jones, coauthor of works like [Genetic correlates of social stratification in Britain](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QRoAIBIAAAAJ&citation_for_view=QRoAIBIAAAAJ:RgMnzfD6kpIC), and his opinions on ‘social genomics’ are always worth checking out.
 
 [A Guide Map For Reading the East Asian Canon](https://scholars-stage.org/a-guide-map-for-reading-the-east-asian-canon/). Tanner Greer reads and it makes all the difference to his content. I’ve read about a third of his list, and can recommend that subset for sure, but may check the others out (I’ve read F. W. Mote’s [Imperial China](https://www.amazon.com/exec/obidos/ASIN/0674012127/geneexpressio-20) twice and consider it indispensable if you are interested in Chinese history).
@@ -126,8 +122,6 @@ There is a lot more survey we could go over (you can find some memorable direct 
 
 ### **Data**
 
-[](https://razib.substack.com/i/62921360/data)
-
 [Genetic substructure and complex demographic history of South African Bantu speakers](https://www.nature.com/articles/s41467-021-22207-y). This paper digs deep into the nature of the Khoisan assimilation into Bantu populations, as well as the earlier Nilo-Saharan assimilation into the Khoisan (and the emergence of the Khoekhoe).
 
 [Genomic evidence for ancient migration routes along South America’s Atlantic coast](https://www.biorxiv.org/content/10.1101/2022.06.27.497820v2). “To further add to the existing complexity, we also detect greater Denisovan than Neanderthal ancestry in ancient Uruguay and Panama individuals. Moreover, we find a strong Australasian signal in an ancient genome from Panama.” The first part is a really weird result. The second part is probably robust, but no one gets what’s going on with the Australasian signal.
@@ -140,8 +134,6 @@ There is a lot more survey we could go over (you can find some memorable direct 
 
 ### **My Two Cents**
 
-[](https://razib.substack.com/i/62921360/my-two-cents)
-
 There’s still no free lunch, free subscribers; my most in-depth pieces for this Substack remain beyond the paywall (although this month, my big two-part series on the history and [utility of haplogroups](https://razib.substack.com/p/the-haplogroup-is-dead-long-live) was free for all). Since the last “Time Well Spent” I’ve posted one in-depth paid piece, but it looks like it will become one of my most-read regional genetic histories, like [Ashkenazi Jewish genetics: a match made in the Mediterranean](https://razib.substack.com/p/ashkenazi-jewish-genetics-a-match) and [Red hair is about as recessive as St. Patrick was Irish](https://razib.substack.com/p/red-hair-is-about-as-recessive-as).
 
 [Eternal as the Nile: Three millennia of Egyptian genetic continuity](https://razib.substack.com/p/eternal-as-the-nile):
@@ -152,103 +144,96 @@ There’s still no free lunch, free subscribers; my most in-depth pieces for thi
 
 ### **Discussion**
 
-[](https://razib.substack.com/i/62921360/discussion)
-
 All my podcasts go [ungated](https://unsupervisedlearning.libsyn.com/) two weeks after their Substack release. So I encourage subscribers on the free plan who’d like to automatically get them to [subscribe](https://unsupervisedlearning.libsyn.com/) to that podcast stream.
 
 Here are my guests since the last Time Well Spent:
 
--   [Manuel L. Quezon III: Explaining the
-    Philippines](https://razib.substack.com/p/manuel-l-quezon-iii-explaining-the#details)
+- [Manuel L. Quezon III: Explaining the
+  Philippines](https://razib.substack.com/p/manuel-l-quezon-iii-explaining-the#details)
 
--   [Claire Lehmann: an Australian at the heart of the heterodox
-    web](https://razib.substack.com/p/claire-lehmann-an-australian-at-the#details)
+- [Claire Lehmann: an Australian at the heart of the heterodox
+  web](https://razib.substack.com/p/claire-lehmann-an-australian-at-the#details)
 
--   [Stuart Buck: making 21st-century science
-    better](https://razib.substack.com/p/stuart-buck-making-21st-century-science#details)
+- [Stuart Buck: making 21st-century science
+  better](https://razib.substack.com/p/stuart-buck-making-21st-century-science#details)
 
--   [Dr. Iona Italia: a cosmopolitan liberal in an identitarian
-    age](https://razib.substack.com/p/dr-iona-italia-a-cosmopolitan-liberal#details)
+- [Dr. Iona Italia: a cosmopolitan liberal in an identitarian
+  age](https://razib.substack.com/p/dr-iona-italia-a-cosmopolitan-liberal#details)
 
--   [Judge Glock: It’s still morning in
-    America](https://razib.substack.com/p/judge-glock-its-still-morning-in#details)
+- [Judge Glock: It’s still morning in
+  America](https://razib.substack.com/p/judge-glock-its-still-morning-in#details)
 
--   And here are the [currently ungated
-    podcasts](https://unsupervisedlearning.libsyn.com/) all in one
-    place.
+- And here are the [currently ungated
+  podcasts](https://unsupervisedlearning.libsyn.com/) all in one place.
 
 ### **Over to you**
-
-[](https://razib.substack.com/i/62921360/over-to-you)
 
 Comments are open to all for this post, so if you have more reading/listening suggestions or tips on who I should be talking to, what I really should be writing for you, or just missed your chance to sound off in the survey, lay it on me.
 
 Many of you have long since noticed that Substack remains down-home enough that you can simply reply to my mailings and it comes directly to me. I love those informal little notes people fire off upon finishing one of my deep-dive posts. Please feel free to keep them coming. The free-form sections of this survey were fun though because people I don’t think I’d usually hear from sounded off, including some who might not have said what they did with their reply email attached. For your entertainment, here are a few memorable notes and recurrent themes:
 
--   Follow your instincts. What I like is that you seem unfazed when
-    your priors lead you to the unpopular side of controversies. I
-    suppose that irascibility goes hand in hand with being opposed to
-    following the diktats of cancel culture.
+- Follow your instincts. What I like is that you seem unfazed when your
+  priors lead you to the unpopular side of controversies. I suppose that
+  irascibility goes hand in hand with being opposed to following the
+  diktats of cancel culture.
 
--   Love your great work, your fearlessness and your general
-    friendliness Razib.
+- Love your great work, your fearlessness and your general friendliness
+  Razib.
 
--   Keep up the good work! I appreciate your fearlessness to discuss
-    topics that send most people cowering in terror.
+- Keep up the good work! I appreciate your fearlessness to discuss
+  topics that send most people cowering in terror.
 
-Multiple free subscribers informed me that my value to them was more on the order of $1, $2 or the $5 per month I originally charged. A couple of notes. I’ve heard Chris Best explain that Substack had to force the minimum floor of $5 per month because writers are so prone to undervaluing their output. They had writers wanting to charge 25 cents per month.
+Multiple free subscribers informed me that my value to them was more on the order of \$1, \$2 or the \$5 per month I originally charged. A couple of notes. I’ve heard Chris Best explain that Substack had to force the minimum floor of \$5 per month because writers are so prone to undervaluing their output. They had writers wanting to charge 25 cents per month.
 
-One respondent said *Eight dollars a month is a lot for me - I pay every couple months and binge the archive.* I want to explicitly endorse this approach. Many subscribers do this and this is absolutely how I would have done it at other points in my life. As for the person complaining that it is no longer $5 per month like it was when they first subscribed, the cool thing in Substack’s current model is that for the early adopters who haven’t bailed, it actually still is $5/month now and forever. **
+One respondent said *Eight dollars a month is a lot for me - I pay every couple months and binge the archive.* I want to explicitly endorse this approach. Many subscribers do this and this is absolutely how I would have done it at other points in my life. As for the person complaining that it is no longer \$5 per month like it was when they first subscribed, the cool thing in Substack’s current model is that for the early adopters who haven’t bailed, it actually still is \$5/month now and forever. **
 
 Some of the input was just enjoyable for the specificity of the detail included.
 
--   Come to Australia!
+- Come to Australia!
 
--   Being 84, I didn't know how to get your podcasts going, but thanks
-    to a tip from Razib I'm chewing them all up starting from the
-    beginning.
+- Being 84, I didn't know how to get your podcasts going, but thanks to
+  a tip from Razib I'm chewing them all up starting from the beginning.
 
--   Love your blog and podcast but your Twitter is annoying
+- Love your blog and podcast but your Twitter is annoying
 
--   Petty technical detail: I need to be able to download the MP3 file
-    before I can listen to your podcasts (due to the obsolete technology
-    in my old Dodge pickup), so I patiently wait for the ungated
-    versions.
+- Petty technical detail: I need to be able to download the MP3 file
+  before I can listen to your podcasts (due to the obsolete technology
+  in my old Dodge pickup), so I patiently wait for the ungated versions.
 
 Of course many had a bone to pick with me, some exceedingly personal, others general enough to apply to multiple cheerfully abrasive figures at once:
 
--   No \[suggestions\]. but you unfollowed me, and I will always
-    remember that :)
+- No \[suggestions\]. but you unfollowed me, and I will always remember
+  that :)
 
--   during interviews you talk too much; I want to hear your guests.
-    BUT, yer a good writer.
+- during interviews you talk too much; I want to hear your guests. BUT,
+  yer a good writer.
 
--   Razib (and Richard Hanania, who is worse) could practise completing
-    a sentence without jumping to the next thought when speaking.
+- Razib (and Richard Hanania, who is worse) could practise completing a
+  sentence without jumping to the next thought when speaking.
 
 Naturally, there was lots of supportive input, some of it even earned by me personally.
 
--   l love your kid's voice at the start of the podcast.
+- l love your kid's voice at the start of the podcast.
 
--   I LOVE the \[podcast\] intro with the music and your kids talking.
-    So cute. Look forward to the intro. Makes me want to start up a new
-    podcast when I finish one.
+- I LOVE the \[podcast\] intro with the music and your kids talking. So
+  cute. Look forward to the intro. Makes me want to start up a new
+  podcast when I finish one.
 
--   The
-    [interview](https://razib.substack.com/p/alina-chan-on-sars-cov-2-and-lab#details)
-    with Alina Chan from early 2021 was excellent and proved you (and
-    she) did not cower in fear.
+- The
+  [interview](https://razib.substack.com/p/alina-chan-on-sars-cov-2-and-lab#details)
+  with Alina Chan from early 2021 was excellent and proved you (and she)
+  did not cower in fear.
 
--   You're doing a great job. I'm a retired professor. The quality of
-    your work is light years beyond the nonsense I had to deal with in
-    my career.
+- You're doing a great job. I'm a retired professor. The quality of your
+  work is light years beyond the nonsense I had to deal with in my
+  career.
 
--   its like reading old time newspapers with better depth.
+- its like reading old time newspapers with better depth.
 
--   I very much love and appreciate how you maintain a scientific view
-    on genetics and history (as much as there can be). You really have
-    no idea how much pleasure I've received from your posts and podcasts
-    over the years. Thank you so much.
+- I very much love and appreciate how you maintain a scientific view on
+  genetics and history (as much as there can be). You really have no
+  idea how much pleasure I've received from your posts and podcasts over
+  the years. Thank you so much.
 
 One respondent entertained me with the idea of a superabundance of Razibs. *I’d started following your Twitter at some point for the smart takes on culture war crap, and it took way too long for me to realize “Holy crap, he’s THAT Razib Khan!” (.....from your genetics writing, which I had enjoyed for years.)*
 
@@ -256,11 +241,9 @@ My family’s favorite was the slightly gnomic *Razib is officially a bad person
 
 And finally, one of the first respondents simply closed by informing me, *I would like shorter surveys.* Amen.
 
-Like this post
-
 [](https://razib.substack.com/p/rkul-time-well-spent-07072022/comments)
 
-9
+10
 
 [](javascript:void(0))
 
@@ -279,3 +262,5 @@ Twitter
 Facebook
 
 Email
+
+Like this post

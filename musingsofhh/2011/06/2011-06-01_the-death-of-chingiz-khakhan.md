@@ -39,6 +39,8 @@ Reaching Kentei Khan, they dug a huge grave near a large conifer tree which had 
 
 The Tangut emperor failed to surrender as promised and the Mongols in a bloody offering to their dead leader, obliterated the entire Tangut capital to the last man emperor and all.
 
+Advertisement
+
 **Category:**
 
 [Central Asian History](https://musingsofhh.wordpress.com/category/central-asian-history/)
@@ -47,7 +49,7 @@ The Tangut emperor failed to surrender as promised and the Mongols in a bloody o
 
 **Tagged with:**
 
--   [Alatic](https://musingsofhh.wordpress.com/tag/alatic/) -   [china](https://musingsofhh.wordpress.com/tag/china/) -   [chingiz](https://musingsofhh.wordpress.com/tag/chingiz/) -   [Death](https://musingsofhh.wordpress.com/tag/death/) -   [Genghis Khan](https://musingsofhh.wordpress.com/tag/genghis-khan/) -   [History](https://musingsofhh.wordpress.com/tag/history/) -   [kublai](https://musingsofhh.wordpress.com/tag/kublai/) -   [mongols](https://musingsofhh.wordpress.com/tag/mongols/)
+- [Alatic](https://musingsofhh.wordpress.com/tag/alatic/) - [china](https://musingsofhh.wordpress.com/tag/china/) - [chingiz](https://musingsofhh.wordpress.com/tag/chingiz/) - [Death](https://musingsofhh.wordpress.com/tag/death/) - [Genghis Khan](https://musingsofhh.wordpress.com/tag/genghis-khan/) - [History](https://musingsofhh.wordpress.com/tag/history/) - [kublai](https://musingsofhh.wordpress.com/tag/kublai/) - [mongols](https://musingsofhh.wordpress.com/tag/mongols/)
 
 **[Is Ayurveda reallyscientific?](https://musingsofhh.wordpress.com/2011/05/15/is-ayurveda-really-scientific/)**
 

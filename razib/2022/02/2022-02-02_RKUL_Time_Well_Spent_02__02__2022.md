@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/rkul-time-well-spent-02022022).
 
 RKUL: Time Well Spent 02/02/2022
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fec2bebf3-0f8e-47f9-9ff5-940282aa28c9_800x627.png)
 
 RKUL: Time Well Spent 02/02/2022
 
@@ -29,9 +29,37 @@ Email
 
 ### Recommendations for everything, the depths of winter edition
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fec2bebf3-0f8e-47f9-9ff5-940282aa28c9_800x627.png)
+[Razib Khan](https://substack.com/profile/1400665-razib-khan)
+
+Feb 2
+
+15
+
+[](https://razib.substack.com/p/rkul-time-well-spent-02022022/comments)
+
+15
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fec2bebf3-0f8e-47f9-9ff5-940282aa28c9_800x627.png)
+
+RKUL: Time Well Spent 02/02/2022
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fec2bebf3-0f8e-47f9-9ff5-940282aa28c9_800x627.png)
 
 **Subscribe**
 
@@ -43,7 +71,7 @@ Your time is finite. Your phone and the internet stand ready to help you squande
 
 It’s February 2022 and everyone is talking about Eastern Europe. I have no strong opinions on foreign policy that might add value, so I don’t say much (I personally usually tend toward non-interventionism), but I do think it might be a good time to read some histories of Europe’s east and north.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9fa6f5e-c433-4c8d-aab8-dc90e515166f_1025x259.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9fa6f5e-c433-4c8d-aab8-dc90e515166f_1025x259.jpeg)
 
 First, [Strange Parallels: Mainland Mirrors: Europe, Japan, China, South Asia, and the Islands: Southeast Asia in Global Context, c.800–1830](https://www.amazon.com/exec/obidos/ASIN/B003AT11FG/geneexpressio-20) is a massive interdisciplinary work that places Eastern Europe in the context of the emerging world-system of the Mongols. This book extends the tradition of Halford Mackinder’s [The Geographical Pivot of History](https://en.wikipedia.org/wiki/The_Geographical_Pivot_of_History), which argues that the interaction between the Eurasian core and periphery has been the critical dynamic in world history (it is the sequel to [Strange Parallels: Integration on the Mainland: Southeast Asia in Global Context, c.800–1830](https://www.amazon.com/exec/obidos/ASIN/B01LZKNRFN/geneexpressio-20), but I didn’t find the first necessary to enjoy the second).
 
@@ -126,27 +154,26 @@ All my podcasts go [ungated](https://unsupervisedlearning.libsyn.com/) two weeks
 
 Here are my guests since the last Time Well Spent in mid-December:
 
--   [Chris Arnade: walking across
-    America](https://razib.substack.com/p/chris-arnade-walking-across-america)
+- [Chris Arnade: walking across
+  America](https://razib.substack.com/p/chris-arnade-walking-across-america)
 
--   [David Sloan Wilson and Charles C. Mann on E. O. Wilson's
-    legacy](https://razib.substack.com/p/david-sloan-wilson-and-charles-c)
+- [David Sloan Wilson and Charles C. Mann on E. O. Wilson's
+  legacy](https://razib.substack.com/p/david-sloan-wilson-and-charles-c)
 
--   [William Gunn: from the bench to
-    tech](https://razib.substack.com/p/william-gunn-from-the-bench-to-tech)
+- [William Gunn: from the bench to
+  tech](https://razib.substack.com/p/william-gunn-from-the-bench-to-tech)
 
--   [Chad Orzel: A Brief History of
-    Timekeeping](https://razib.substack.com/p/chad-orzel-a-brief-history-of-timekeeping)
+- [Chad Orzel: A Brief History of
+  Timekeeping](https://razib.substack.com/p/chad-orzel-a-brief-history-of-timekeeping)
 
--   [Rav Arora: psychedelics and
-    spirituality](https://razib.substack.com/p/rav-arora-psychedelics-and-spirituality)
+- [Rav Arora: psychedelics and
+  spirituality](https://razib.substack.com/p/rav-arora-psychedelics-and-spirituality)
 
--   [Caleb Watney: onward and upward with
-    progress](https://razib.substack.com/p/caleb-watney-onward-and-upward-with)
+- [Caleb Watney: onward and upward with
+  progress](https://razib.substack.com/p/caleb-watney-onward-and-upward-with)
 
--   And here are the [currently ungated
-    podcasts](https://unsupervisedlearning.libsyn.com/) all in one
-    place.
+- And here are the [currently ungated
+  podcasts](https://unsupervisedlearning.libsyn.com/) all in one place.
 
 For subscribers, I now post transcripts (automatically generated, though I have someone going through to catch errors).
 
@@ -164,5 +191,26 @@ Comments are open to all for this post, so if you have more reading/listening su
 
 [Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
 
-|                                                                           |                             | |---------------------------------------------------------------------------|-----------------------------| | [16](https://razib.substack.com/p/rkul-time-well-spent-02022022/comments) | [Share](javascript:void(0)) |
+[](https://razib.substack.com/p/rkul-time-well-spent-02022022/comments)
 
+15
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fec2bebf3-0f8e-47f9-9ff5-940282aa28c9_800x627.png)
+
+RKUL: Time Well Spent 02/02/2022
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/rkul-time-well-spent-03032022).
 
 RKUL: Time Well Spent 03/03/2022
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8b8cf91-4723-4b0f-8bc0-2d3218905c5b_1356x668.jpeg)
 
 RKUL: Time Well Spent 03/03/2022
 
@@ -29,9 +29,37 @@ Email
 
 ### Spring is around the corner edition (OK, it's here in Texas)
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8b8cf91-4723-4b0f-8bc0-2d3218905c5b_1356x668.jpeg)
+[Razib Khan](https://substack.com/profile/1400665-razib-khan)
+
+Mar 3
+
+7
+
+[](https://razib.substack.com/p/rkul-time-well-spent-03032022/comments)
+
+12
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8b8cf91-4723-4b0f-8bc0-2d3218905c5b_1356x668.jpeg)
+
+RKUL: Time Well Spent 03/03/2022
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8b8cf91-4723-4b0f-8bc0-2d3218905c5b_1356x668.jpeg)
 
 **Subscribe**
 
@@ -45,7 +73,7 @@ Your time is finite. Your phone and the internet stand ready to help you squande
 
 Why are humans altruistic? Is it simply a matter of luck, conscious choice, or is there an evolutionary rationale? Why are any organisms altruistic at all? Isn’t nature “red in tooth and claw”? When [W. D. Hamilton](https://en.wikipedia.org/wiki/W._D._Hamilton) proposed to study the question of altruism at Oxford in the 1950’s his mentors discouraged him. They did not consider it a problem at all. Hamilton disagreed, and went on to formulate the concepts that we now know as inclusive fitness.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F344c491d-7752-48fc-8443-cb9411fa2bb3_1201x313.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F344c491d-7752-48fc-8443-cb9411fa2bb3_1201x313.jpeg)
 
 Robert Trivers’ [Natural Selection and Social Theory](https://www.amazon.com/exec/obidos/ASIN/B00A8SL2M4/geneexpressio-20) is a collection of his papers with extensive commentary as well as reminiscences and anecdotes. Trivers is still active, but due to his issues with interpersonal aggression and mental illness, his academic career has been checkered (This is not gratuitous ad hominem on my part! For the gory details, see his autobiography, [Wild Life: Adventures of an Evolutionary Biologist](https://www.amazon.com/exec/obidos/ASIN/B017L6EHJ0/geneexpressio-20)). He’s made numerous contributions to evolutionary biology, but probably the best known and most impactful has been [reciprocal altruism](https://en.wikipedia.org/wiki/Reciprocal_altruism), analogous to tit-for-tat in game theory. Papers are papers, and I think Trivers’ scholarly work is important and often elegant, but the commentary between the publications adds a lot of color to the research and is suffused with the author’s impish humor.
 
@@ -137,23 +165,21 @@ All my podcasts go [ungated](https://unsupervisedlearning.libsyn.com/) two weeks
 
 Here are my guests since the last Time Well Spent:
 
--   [A black American technologist in China: Reflecting on a generation
-    of
-    change](https://razib.substack.com/p/a-black-american-technologist-in?s=w)
+- [A black American technologist in China: Reflecting on a generation of
+  change](https://razib.substack.com/p/a-black-american-technologist-in?s=w)
 
--   [Suhag Shukla: American Hinduism in 2022 Hindus in the 21st century
-    in the US and on the world
-    stage](https://razib.substack.com/p/suhag-shukla-american-hinduism-in?s=w)
+- [Suhag Shukla: American Hinduism in 2022 Hindus in the 21st century in
+  the US and on the world
+  stage](https://razib.substack.com/p/suhag-shukla-american-hinduism-in?s=w)
 
--   [Muhammad Sohail Raza: A Pakistani genomicist in
-    Beijing](https://razib.substack.com/p/muhammad-sohail-raza-a-pakistani?s=w)
+- [Muhammad Sohail Raza: A Pakistani genomicist in
+  Beijing](https://razib.substack.com/p/muhammad-sohail-raza-a-pakistani?s=w)
 
--   [Sarah Haider: from Ex-Muslim to gender
-    atheist](https://razib.substack.com/p/sarah-haider-from-ex-muslim-to-gender?s=w)
+- [Sarah Haider: from Ex-Muslim to gender
+  atheist](https://razib.substack.com/p/sarah-haider-from-ex-muslim-to-gender?s=w)
 
--   And here are the [currently ungated
-    podcasts](https://unsupervisedlearning.libsyn.com/) all in one
-    place.
+- And here are the [currently ungated
+  podcasts](https://unsupervisedlearning.libsyn.com/) all in one place.
 
 For subscribers, I now post transcripts (automatically generated, though I have someone going through to catch errors).
 
@@ -161,39 +187,39 @@ For subscribers, I now post transcripts (automatically generated, though I have 
 
 Some of you follow me on my [newsletter](http://razib.substack.com/), [blog](https://www.gnxp.com/), or [Twitter](https://twitter.com/razibkhan). But my own domain also has all of the links and updates:
 
-<https://www.razib.com>
+[https://www.razib.com](https://www.razib.com)
 
 You’ll find links to the few different podcasts I’ve contributed to or run, my total [RSS](https://feeds.feedburner.com/RazibKhansTotalFeed) feed, links to more mainstream or print articles when I remember to post them, my Twitter, the occasional guest appearance here and there, etc.
 
--   [Email](mailto:contactgnxp@gmail.com) me
+- [Email](mailto:contactgnxp@gmail.com) me
 
--   [DM](https://twitter.com/razibkhan) me
+- [DM](https://twitter.com/razibkhan) me
 
--   [Facebook](https://www.facebook.com/razibkhan99) message me
+- [Facebook](https://www.facebook.com/razibkhan99) message me
 
--   My [total feed](http://www.razib.com/wordpress/) of content
+- My [total feed](http://www.razib.com/wordpress/) of content
 
--   My long-time blog, [GNXP](http://gnxp.com/)
+- My long-time blog, [GNXP](http://gnxp.com/)
 
--   A group blog, [Secular Right](http://secularright.org/), vintage at
-    this point, but worthwhile for Heather Mac Donald’s prescience
+- A group blog, [Secular Right](http://secularright.org/), vintage at
+  this point, but worthwhile for Heather Mac Donald’s prescience
 
--   My Indian/South Asian focused blog, [Brown
-    Pundits](https://www.brownpundits.com/)
+- My Indian/South Asian focused blog, [Brown
+  Pundits](https://www.brownpundits.com/)
 
--   Some of my past pieces for
-    [UnHerd](https://unherd.com/author/razib-khan/), [National
-    Review](https://www.nationalreview.com/author/razib-khan/), [The
-    Manhattan
-    Institute](https://www.city-journal.org/contributor/razib-khan_1620),
-    [Quillette](https://quillette.com/author/razib-khan/), and [The New
-    York
-    Times](https://www.nytimes.com/2014/11/25/opinion/our-cats-ourselves.html)
+- Some of my past pieces for
+  [UnHerd](https://unherd.com/author/razib-khan/), [National
+  Review](https://www.nationalreview.com/author/razib-khan/), [The
+  Manhattan
+  Institute](https://www.city-journal.org/contributor/razib-khan_1620),
+  [Quillette](https://quillette.com/author/razib-khan/), and [The New
+  York
+  Times](https://www.nytimes.com/2014/11/25/opinion/our-cats-ourselves.html)
 
--   My old podcast, [The Insight](https://insitome.libsyn.com/)
+- My old podcast, [The Insight](https://insitome.libsyn.com/)
 
--   My podcast today, [Unsupervised
-    Learning](https://unsupervisedlearning.libsyn.com/)
+- My podcast today, [Unsupervised
+  Learning](https://unsupervisedlearning.libsyn.com/)
 
 I’m also a regular guest on [The Carvaka](https://www.youtube.com/channel/UCKPxuul6zSLAfKSsm123Vww).
 
@@ -215,5 +241,26 @@ Comments are open to all for this post, so if you have more reading/listening su
 
 [Share](https://razib.substack.com/p/rkul-time-well-spent-03032022?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
-|                                                                           |                             | |---------------------------------------------------------------------------|-----------------------------| | [12](https://razib.substack.com/p/rkul-time-well-spent-03032022/comments) | [Share](javascript:void(0)) |
+[](https://razib.substack.com/p/rkul-time-well-spent-03032022/comments)
 
+12
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8b8cf91-4723-4b0f-8bc0-2d3218905c5b_1356x668.jpeg)
+
+RKUL: Time Well Spent 03/03/2022
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

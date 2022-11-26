@@ -9,9 +9,9 @@ Source: [here](https://hindoohistory.substack.com/p/baba-bharati-journalist-swam
 
 Baba Bharati: Journalist, Swami, Anti-Colonial Agitator 
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F52865669-1fd1-4a7f-918d-ab6be76c0c16_403x637.jpeg)
 
 Baba Bharati: Journalist, Swami, Anti-Colonial Agitator
 
@@ -38,6 +38,8 @@ Jun 1
 [](https://hindoohistory.substack.com/p/baba-bharati-journalist-swami-anti/comments)[](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F52865669-1fd1-4a7f-918d-ab6be76c0c16_403x637.jpeg)
 
 Baba Bharati: Journalist, Swami, Anti-Colonial Agitator
 
@@ -163,11 +165,11 @@ In melding his spiritual work with a broader anti-colonial outlook, Baba Bharati
 
 Carney, Gerald. *Baba Premanand Bharati: His Trajectory into and through Bengal Vaisnavism and the West* in The Legacy of Vaiṣṇavism in Colonial Bengal (Routledge Hindu Studies Series) (p. 87). Taylor and Francis.
 
-Like this post
-
 [](https://hindoohistory.substack.com/p/baba-bharati-journalist-swami-anti/comments)[](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F52865669-1fd1-4a7f-918d-ab6be76c0c16_403x637.jpeg)
 
 Baba Bharati: Journalist, Swami, Anti-Colonial Agitator
 
@@ -181,3 +183,4 @@ Facebook
 
 Email
 
+Like this post

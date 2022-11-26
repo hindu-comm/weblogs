@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/revisiting-chris-stringer-the-state)
 
 Razib Khan's Unsupervised Learning
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28c89d25-5bdb-4d97-b363-210d6b413a62_600x338.jpeg)
 
 Podcast countdown to 2021 - day 6, Chris Stringer: the state of paleoanthropology in the 2010's
 
@@ -25,17 +25,11 @@ Facebook
 
 Email
 
-![](https://substackcdn.com/image/fetch/w_512,h_512,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28c89d25-5bdb-4d97-b363-210d6b413a62_600x338.jpeg)
+![](https://substackcdn.com/image/fetch/w_512,h_512,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2c48569f-373c-4d04-96a3-1aad755a419b_3000x3000.png)
 
 Dec 31, 2020 • 1HR 4M
 
 # Podcast countdown to 2021 - day 6, Chris Stringer: the state of paleoanthropology in the 2010's
-
-### 
-
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
-
-[Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
 Dec 31, 2020
 
@@ -44,6 +38,8 @@ Dec 31, 2020
 [](https://razib.substack.com/p/revisiting-chris-stringer-the-state/comments)[](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28c89d25-5bdb-4d97-b363-210d6b413a62_600x338.jpeg)
 
 Podcast countdown to 2021 - day 6, Chris Stringer: the state of paleoanthropology in the 2010's
 
@@ -68,6 +64,12 @@ Email
 Open in playerListen on
 
 Audio playback is not supported on your browser. Please upgrade.
+
+#### Appears in this episode
+
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face-podcast)
+
+Razib Khan
 
 Conversations about science, culture, and current affairs
 
@@ -113,11 +115,11 @@ And in case you missed them in the busy runup to the holidays, here is my series
 
 [Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
 
-Like this post
-
 [](https://razib.substack.com/p/revisiting-chris-stringer-the-state/comments)[](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28c89d25-5bdb-4d97-b363-210d6b413a62_600x338.jpeg)
 
 Podcast countdown to 2021 - day 6, Chris Stringer: the state of paleoanthropology in the 2010's
 
@@ -131,3 +133,4 @@ Facebook
 
 Email
 
+Like this post

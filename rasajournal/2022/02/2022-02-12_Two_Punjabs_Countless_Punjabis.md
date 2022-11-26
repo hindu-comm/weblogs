@@ -9,9 +9,9 @@ Source: [here](https://rasajournal.substack.com/p/two-punjabs-countless-punjabis
 
 Two Punjabs, Countless Punjabis
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fba14d31c-90bd-4287-9dbd-db2d34713fe4_4032x3024.jpeg)
 
 Two Punjabs, Countless Punjabis
 
@@ -29,13 +29,41 @@ Email
 
 ### What does it mean to be a Punjabi today?
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2493377a-60dd-44d9-a41e-4aff3778a15c_660x1006.jpeg)](https://substack.com/profile/4266017-garima?utm_source=author-byline-face)
+
+[Garima](https://substack.com/profile/4266017-garima)
+
+Feb 12
+
+3
+
+[](https://rasajournal.substack.com/p/two-punjabs-countless-punjabis/comments)
+
+4
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fba14d31c-90bd-4287-9dbd-db2d34713fe4_4032x3024.jpeg)
+
+Two Punjabs, Countless Punjabis
+
+rasajournal.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
 
 *Where are you from? Your parents? Your grand-parents?*
 
 Many of us have often encountered these questions any time we have stepped out of our homes, whether literal or metaphorical. In the age of nauseatingly instant and global online connections, it still somehow means something to trace one’s roots to a place. But when we do that, it’s not just about a latitudinal and longitudinal point but an entire universe that exists within it. It spans religions, languages, traditions and customs, architecture, food, clothing, dance, music, literature, poetry, and popular entertainment, and so much more. Almost as if out of nowhere, this place can bring alive a past, present, and possibly even a future that didn’t exist minutes ago. It brings forth much that we didn’t consciously know but which still feels like an important part of who we are, even if only subconsciously.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fba14d31c-90bd-4287-9dbd-db2d34713fe4_4032x3024.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fba14d31c-90bd-4287-9dbd-db2d34713fe4_4032x3024.jpeg)
 
 *A traditional Punjabi home in Bathinda. Photo by Garima Garg.*
 
@@ -67,5 +95,26 @@ Malhotra, who visited Lahore and Karachi in 2014 and 2018 to research and talk a
 
 Perhaps, the realities of two Punjabs and countless Punjabis is really that inconvenient and complex to be put in words. While a country is shaped by much more than its culture, it bears repetition that it is in fact not any less important. Because even though the pain of estrangement between India and Pakistan cannot be undone, it might be softened in decades to come. Even though threads of the connections that run through the lives of Punjabis may loosen, even snap at some point, it may be worthwhile to hold on to them in order to constantly remember and renew them.
 
-|                                                                                 |                             | |---------------------------------------------------------------------------------|-----------------------------| | [4](https://rasajournal.substack.com/p/two-punjabs-countless-punjabis/comments) | [Share](javascript:void(0)) |
+[](https://rasajournal.substack.com/p/two-punjabs-countless-punjabis/comments)
 
+4
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fba14d31c-90bd-4287-9dbd-db2d34713fe4_4032x3024.jpeg)
+
+Two Punjabs, Countless Punjabis
+
+rasajournal.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

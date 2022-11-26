@@ -67,8 +67,6 @@ Your time is finite. Your phone and the internet stand ready to help you squande
 
 ### **Books, what else?**
 
-[](https://razib.substack.com/i/67744145/books-what-else)
-
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F05bf909f-fa68-4ec2-af05-2de5185dc170_953x207.jpeg)
 
 Now and then readers ask for books that will give them some tools to understand the basic foundations underlying my most quantitative posts. I have recommended technical population genetics textbooks before…and I know these have benefited many readers. Still, I realize that level of granularity is overkill for a larger faction of my readers. If you are not a scientist or engineer and want some familiarity with population genetics, John H. Gillespie’s [Population Genetics: A Concise Guide](https://www.amazon.com/exec/obidos/ASIN/0801880092//geneexpressio-20) will give you that. Biology graduate students are routinely assigned this, but it’s short, and the mathematical level doesn’t go beyond algebra (even here you can often ignore the equations). Nevertheless, it will ground you in enough 20th-century population genetics that you will know the [Hardy-Weinberg Equilibrium](https://www.nature.com/scitable/definition/hardy-weinberg-equilibrium-122/) and why it matters.
@@ -91,8 +89,6 @@ Finally, to understand the last 10,000 years, [The Human Web: A Bird's-Eye View 
 
 ### **Thought**
 
-[](https://razib.substack.com/i/67744145/thought)
-
 [The New Politics of Abortion](https://www.nytimes.com/2022/08/06/opinion/abortion-kansas-politics.html). Most people in the US don’t agree with the Republican or Democratic party activists on this issue, instead holding more moderate views. Any party that tries to bring too much “moral clarity” to the issue will probably be in for a disappointment.
 
 [The monkeypox situation keeps getting worse: The virus isn't particularly deadly, but the bad public health response is terrifying](https://www.slowboring.com/p/the-monkeypox-situation-keeps-getting). I’m of a generation where our teachers told us we’d probably get AIDS and [die of the disease](https://www.youtube.com/watch?v=k2h6CrIOrKg) at some point. Reading Michael Fumento’s 1990 [The Myth of Heterosexual AIDS](https://www.amazon.com/exec/obidos/ASIN/0465098037/geneexpressio-20) in high school was shocking; as he outlines the reality that in developed countries the AIDS epidemic had never (and still has not) broken out into the straight population, despite years of warnings that it would. But today information isn’t so constrained and controlled by big institutions determined to stay “on message.”
@@ -102,8 +98,6 @@ Finally, to understand the last 10,000 years, [The Human Web: A Bird's-Eye View 
 [The Second Anglo-Indian Empire Will we see the Modi-fication of the Tory Party?](https://edwest.substack.com/p/the-second-anglo-indian-empire) I say probably not, but I like that [Ed West](https://razib.substack.com/p/ed-west-albion-past-and-future#details) isn’t scared to “go there.”
 
 ### **Data**
-
-[](https://razib.substack.com/i/67744145/data)
 
 [A minimal role for synonymous variation in human disease](https://www.biorxiv.org/content/10.1101/2022.07.13.499964v1?rss=1). This preprint is a rebuttal to a *Nature* paper, [Synonymous mutations in representative yeast genes are mostly strongly non-neutral](https://www.nature.com/articles/s41586-022-04823-w). Synonymous mutations don’t result in a change to the amino acid coded, so the prior expectation is they shouldn’t impact disease or function. The paper in *Nature* found something different…but a single paper doesn’t update science like this. This should remind people not to be super credulous with sensational publications in glam journals.
 
@@ -116,8 +110,6 @@ Finally, to understand the last 10,000 years, [The Human Web: A Bird's-Eye View 
 [Full epistatic interaction maps retrieve part of missing heritability and improve phenotypic prediction](https://www.biorxiv.org/content/10.1101/2022.07.20.500572v1?rss=1). Genetic interactions probably explain the missing heritability of some traits, though I now give it less importance than twenty years ago. But the great thing about modern genomics is that you can afford to focus on many things, not just the most important things. We have the resources and tools.
 
 ### **My Two Cents**
-
-[](https://razib.substack.com/i/67744145/my-two-cents)
 
 There’s still no free lunch, free subscribers; my most in-depth pieces for this Substack are beyond the paywall. Since the last “Time Well Spent” I’ve posted two big pieces for paying subscribers.
 
@@ -138,73 +130,66 @@ If you want to browse my more geographically focused pieces, [Dry.io](https://dr
 
 ### **Discussion**
 
-[](https://razib.substack.com/i/67744145/discussion)
-
 All my podcasts go [ungated](https://unsupervisedlearning.libsyn.com/) two weeks after their Substack release. So I encourage subscribers on the free plan who’d like to automatically get them to [subscribe](https://unsupervisedlearning.libsyn.com/) to that podcast stream ([Apple](https://podcasts.apple.com/gb/podcast/razib-khans-unsupervised-learning/id1542136715?ls=1), [Stitcher](https://www.stitcher.com/show/razib-khans-unsupervised-learning), and [Spotify](https://open.spotify.com/show/0qC7KtuzPG9azwjt3opYlI)).
 
 Here are my guests since the last Time Well Spent:
 
--   [Ed West: Albion past and
-    future](https://razib.substack.com/p/ed-west-albion-past-and-future#details)
+- [Ed West: Albion past and
+  future](https://razib.substack.com/p/ed-west-albion-past-and-future#details)
 
--   [Ethan Strauss: the sports journalism disruptor is in the
-    house](https://razib.substack.com/p/ethan-strauss-the-sports-journalism#details)
+- [Ethan Strauss: the sports journalism disruptor is in the
+  house](https://razib.substack.com/p/ethan-strauss-the-sports-journalism#details)
 
--   [Maxim Lott: getting to the truth of the
-    matter](https://razib.substack.com/p/maxim-lott-getting-to-the-truth-of#details)
+- [Maxim Lott: getting to the truth of the
+  matter](https://razib.substack.com/p/maxim-lott-getting-to-the-truth-of#details)
 
--   [Manvir Singh: beyond anthropological
-    dreams](https://razib.substack.com/p/manvir-singh-beyond-anthropological#details)
+- [Manvir Singh: beyond anthropological
+  dreams](https://razib.substack.com/p/manvir-singh-beyond-anthropological#details)
 
--   And here are the [currently ungated
-    podcasts](https://unsupervisedlearning.libsyn.com/) all in one
-    place.
+- And here are the [currently ungated
+  podcasts](https://unsupervisedlearning.libsyn.com/) all in one place.
 
 For subscribers, I’m now posting transcripts (automatically generated, though I have someone quickly scanning for the most egregious errors).
 
 ### **ICYMI**
 
-[](https://razib.substack.com/i/67744145/icymi)
-
 Some of you follow me on my [newsletter](http://razib.substack.com/), [blog](https://www.gnxp.com/), or [Twitter](https://twitter.com/razibkhan). But my own domain also has all of the links and updates: [https://www.razib.com](https://www.razib.com)
 
 You’ll find links to the few different podcasts I’ve contributed to or run, my total [RSS](https://feeds.feedburner.com/RazibKhansTotalFeed) feed, links to more mainstream or print articles when I remember to post them, my Twitter, the occasional guest appearance here and there, etc.
 
--   [Email](mailto:contactgnxp@gmail.com) me
+- [Email](mailto:contactgnxp@gmail.com) me
 
--   [DM](https://twitter.com/razibkhan) me
+- [DM](https://twitter.com/razibkhan) me
 
--   [Facebook](https://www.facebook.com/razibkhan99) message me
+- [Facebook](https://www.facebook.com/razibkhan99) message me
 
--   My [total feed](http://www.razib.com/wordpress/) of content
+- My [total feed](http://www.razib.com/wordpress/) of content
 
--   My long-time blog, [GNXP](http://gnxp.com/)
+- My long-time blog, [GNXP](http://gnxp.com/)
 
--   My Dry.io [archive](https://unsupervisedlearning.dry.io/)
+- My Dry.io [archive](https://unsupervisedlearning.dry.io/)
 
--   A group blog, [Secular Right](http://secularright.org/), vintage at
-    this point, but worthwhile for Heather Mac Donald’s prescience
+- A group blog, [Secular Right](http://secularright.org/), vintage at
+  this point, but worthwhile for Heather Mac Donald’s prescience
 
--   My Indian/South Asian-focused blog, [Brown
-    Pundits](https://www.brownpundits.com/)
+- My Indian/South Asian-focused blog, [Brown
+  Pundits](https://www.brownpundits.com/)
 
--   Some of my past pieces for
-    [UnHerd](https://unherd.com/author/razib-khan/), [National
-    Review](https://www.nationalreview.com/author/razib-khan/), [The
-    Manhattan
-    Institute](https://www.city-journal.org/contributor/razib-khan_1620),
-    [Quillette](https://quillette.com/author/razib-khan/), and [The New
-    York
-    Times](https://www.nytimes.com/2014/11/25/opinion/our-cats-ourselves.html)
+- Some of my past pieces for
+  [UnHerd](https://unherd.com/author/razib-khan/), [National
+  Review](https://www.nationalreview.com/author/razib-khan/), [The
+  Manhattan
+  Institute](https://www.city-journal.org/contributor/razib-khan_1620),
+  [Quillette](https://quillette.com/author/razib-khan/), and [The New
+  York
+  Times](https://www.nytimes.com/2014/11/25/opinion/our-cats-ourselves.html)
 
--   My old podcast, [The Insight](https://insitome.libsyn.com/)
+- My old podcast, [The Insight](https://insitome.libsyn.com/)
 
--   My podcast today, [Unsupervised
-    Learning](https://unsupervisedlearning.libsyn.com/)
+- My podcast today, [Unsupervised
+  Learning](https://unsupervisedlearning.libsyn.com/)
 
 ### **On the blog**
-
-[](https://razib.substack.com/i/67744145/on-the-blog)
 
 [Only The Inner Party](https://www.gnxp.com/WordPress/2022/07/14/only-the-inner-party/):
 
@@ -212,15 +197,11 @@ You’ll find links to the few different podcasts I’ve contributed to or run, 
 
 ### **Over to you**
 
-[](https://razib.substack.com/i/67744145/over-to-you)
-
 Comments are open to all for this post, so if you have more reading/listening suggestions or tips on who I should be talking to or what I really should be writing for you, lay it on me.
 
 Razib Khan's Unsupervised Learning is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
 
 **Subscribe**
-
-Like this post
 
 [](https://razib.substack.com/p/rkul-time-well-spent-08082022/comments)
 
@@ -243,3 +224,5 @@ Twitter
 Facebook
 
 Email
+
+Like this post

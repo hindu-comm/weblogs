@@ -33,7 +33,7 @@ Email
 
 Sep 20
 
-4
+10
 
 [](https://eruditus.substack.com/p/darius-speaks-in-sanskrit-2/comments)
 
@@ -139,8 +139,6 @@ Thanks for reading Shiṣṭagoṣṭhī \| Collegium Eruditi! Subscribe for fre
 
 **Subscribe**
 
-Like this post
-
 [](https://eruditus.substack.com/p/darius-speaks-in-sanskrit-2/comments)
 
 1
@@ -162,3 +160,5 @@ Twitter
 Facebook
 
 Email
+
+Like this post

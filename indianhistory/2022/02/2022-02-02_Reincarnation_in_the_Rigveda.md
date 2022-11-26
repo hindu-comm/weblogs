@@ -2,20 +2,20 @@
 title = "Reincarnation in the"
 full_title = "Reincarnation in the Rigveda"
 date = "2022-02-02"
-upstream_url = "https://indianhistory.substack.com/p/reincarnation-in-the-rigveda"
+upstream_url = "https://eruditus.substack.com/p/reincarnation-in-the-rigveda"
 
 +++
-Source: [here](https://indianhistory.substack.com/p/reincarnation-in-the-rigveda).
+Source: [here](https://eruditus.substack.com/p/reincarnation-in-the-rigveda).
 
 Reincarnation in the Rigveda
-
-
 
 Share this post
 
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc8c88b5-3ab5-409e-bb8a-0297a7b7dd52_800x563.jpeg)
+
 Reincarnation in the Rigveda
 
-indianhistory.substack.com
+eruditus.substack.com
 
 Copy link
 
@@ -27,9 +27,37 @@ Email
 
 # Reincarnation in the Rigveda
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff55c507-5601-44d2-b554-d11fd9802b94_613x770.jpeg)](https://substack.com/profile/47730865-aryamsa?utm_source=author-byline-face)
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc8c88b5-3ab5-409e-bb8a-0297a7b7dd52_800x563.jpeg)
+[Aryāṃśa](https://substack.com/profile/47730865-aryamsa)
+
+Feb 2
+
+16
+
+[](https://eruditus.substack.com/p/reincarnation-in-the-rigveda/comments)
+
+1
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc8c88b5-3ab5-409e-bb8a-0297a7b7dd52_800x563.jpeg)
+
+Reincarnation in the Rigveda
+
+eruditus.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc8c88b5-3ab5-409e-bb8a-0297a7b7dd52_800x563.jpeg)
 
   
 Our religion is very old, the oldest religion that is still practised. ([Mazdayasna](https://en.wikipedia.org/wiki/Zoroastrianism) is a close-second, followed by [the roots of Rabbinical Judaism](https://en.wikipedia.org/wiki/Yahwism)). Not only is our religion very old, but it was also fertilized in an oral tradition that looked down upon the written word. If this wasn’t enough, our oral tradition managed to preserve our canonical scripture *better* than any of the people of the book. *The Rigveda is a tape-recording from the late-Bronze Age*. Our religion and that of our cousins, the Parsees, formed the basis for reconstructing the putative [Proto-Indo-European religion](https://en.wikipedia.org/wiki/Proto-Indo-European_mythology) of our ancestors. This hoary past of an oral-culture that *‘froze in time’* and never lost its continuity (unlike the Hellenes); seamlessly flowing into the 21st century, complicates things a lot. It bring out the best of the inner skeptic of those who want to readily discredit our theological, ritual and doctrinal continuity: secular scholars, Occidental polemics, agnostic atheists. It colors their perception as sometimes they simply cannot believe it. This often lead to attempts to straight away deny that Hinduism is a religion; it is labelled a colonial construct, an amalgamation of dozens of closely related doctrines. Such views have been rebutted quite thoroughly (*[see Andrew J. Nicholson’s work](http://cup.columbia.edu/book/unifying-hinduism/9780231149860)* or that of *[Walter Slaje writing on Hindu-Muslim identity](https://uni-halle.academia.edu/WalterSlaje) in medieval Kashmir*)
@@ -44,26 +72,29 @@ In fact, in many ways, retributive karma represented the natural conclusion of V
 
 It must be noted that ***I am not suggesting that Hinduism is immutable*** while other religions keep changing.
 
-***All translations into English are my own unless specified. I will add long footnotes to the translations, as they are not easy at all.**  
+***All translations into English are my own unless specified. I will add long footnotes to the translations, as they are not easy at all.**   
   
 **Please read the footnotes at the end of the post for more details, some of which are necessary.***
 
 ### `RV 10.16.5 `
 
-> **`अव॑ सृज॒ पुन॑रग्ने पि॒तृभ्यो॒ यस्त॒ आहु॑त॒श्चर॑ति स्व॒धाभिः॑आयु॒र्वसा॑न॒ उप॑ वेतु॒ शेषः॒ सं ग॑च्छतां त॒न्वा॑ जातवेदः`**[1](#footnote-1)
+> **`अव॑ सृज॒ पुन॑रग्ने पि॒तृभ्यो॒ यस्त॒ आहु॑त॒श्चर॑ति स्व॒धाभिः॑`  
+> `आयु॒र्वसा॑न॒ उप॑ वेतु॒ शेषः॒ सं ग॑च्छतां त॒न्वा॑ जातवेदः`**[1](#footnote-1)
 
 *O Agni, release him to the forefathers, and again \[down from them\]  
-\[he\] who has been offered to you, \[he who\] travels by his own will.  
-Let him, who is wearing life \[as a cloth\], come \[down\] to his offspring.  
+\[he\] who has been offered to you, \[he who\] travels by his own will.
+  
+Let him, who is wearing life \[as a cloth\], come \[down\] to his offspring.   
 Let him unite with his body! O Jatavedas*
 
 ### `RV 10.14.8`
 
-> **`सं ग॑च्छस्व पि॒तृभिः॒ सं य॒मेने॑ष्टापू॒र्तेन॑ पर॒मे व्यो॑मन्हि॒त्वाया॑व॒द्यं पुन॒रस्त॒मेहि॒ सं ग॑च्छस्व त॒न्वा॑ सु॒वर्चाः॑`**[2](#footnote-2)
+> **`सं ग॑च्छस्व पि॒तृभिः॒ सं य॒मेने॑ष्टापू॒र्तेन॑ पर॒मे व्यो॑मन्`  
+> `हि॒त्वाया॑व॒द्यं पुन॒रस्त॒मेहि॒ सं ग॑च्छस्व त॒न्वा॑ सु॒वर्चाः॑`**[2](#footnote-2)
 
-*Unite with the forefathers, unite with Yama,  
-\[unite with\] the merit of sacred rites \[stored up\] in the highest heaven.  
-Having left behind imperfection, come home again.  
+*Unite with the forefathers, unite with Yama,   
+\[unite with\] the merit of sacred rites \[stored up\] in the highest heaven.   
+Having left behind imperfection, come home again.   
 \[You who is\] full of vigor, unite with your body.*
 
 ### `Shatapatha Brahmana 11.2.7.33`
@@ -80,7 +111,8 @@ In this passage, it is clear that the world after death sees a sort of karmic ju
 
 1.  `Vedic Hinduism by S. W. Jamison and M. Witzel`
 
-2.  `Fire, Death and Philosophy: A History of Ancient Indian Thinking`**``**`Joanna Jurewicz`
+2.  `Fire, Death and Philosophy: A History of Ancient Indian Thinking`**  
+    **`Joanna Jurewicz`
 
 3.  `The Vedic origins of Karma. Herman Wayne Tull`
 
@@ -100,5 +132,26 @@ iṣṭāpūrta in the instrumental with the verb √saṃgam (left unexpressed)
 
 following Eggeling’s translation here. That {other} world is a translation of amuṣmin (locative singular of adas); adas refers to a known & distant place, not as distant as when tad is used. Technically, विप्रकृष्ट but not परोक्ष (out of sight, not visible).
 
-|                                                                                       |                             | |---------------------------------------------------------------------------------------|-----------------------------| | [Comment](https://indianhistory.substack.com/p/reincarnation-in-the-rigveda/comments) | [Share](javascript:void(0)) |
+[](https://eruditus.substack.com/p/reincarnation-in-the-rigveda/comments)
 
+1
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc8c88b5-3ab5-409e-bb8a-0297a7b7dd52_800x563.jpeg)
+
+Reincarnation in the Rigveda
+
+eruditus.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

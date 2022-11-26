@@ -98,6 +98,8 @@ combine with Japan, Russia and USA inflict a crushing blow on it and
 split it up. Once communism goes away the Chinese will return to  
 normalcy on their own.
 
+Advertisement
+
 **Category:**
 
 [Uncategorized](https://musingsofhh.wordpress.com/category/uncategorized/)
@@ -106,6 +108,6 @@ normalcy on their own.
 
 **Tagged with:**
 
--   [arab](https://musingsofhh.wordpress.com/tag/arab/) -   [china](https://musingsofhh.wordpress.com/tag/china/) -   [han](https://musingsofhh.wordpress.com/tag/han/) -   [hindu](https://musingsofhh.wordpress.com/tag/hindu/) -   [india](https://musingsofhh.wordpress.com/tag/india/) -   [islam](https://musingsofhh.wordpress.com/tag/islam/) -   [japan](https://musingsofhh.wordpress.com/tag/japan/) -   [legalism](https://musingsofhh.wordpress.com/tag/legalism/) -   [russia](https://musingsofhh.wordpress.com/tag/russia/) -   [talas](https://musingsofhh.wordpress.com/tag/talas/) -   [us](https://musingsofhh.wordpress.com/tag/us/)
+- [arab](https://musingsofhh.wordpress.com/tag/arab/) - [china](https://musingsofhh.wordpress.com/tag/china/) - [han](https://musingsofhh.wordpress.com/tag/han/) - [hindu](https://musingsofhh.wordpress.com/tag/hindu/) - [india](https://musingsofhh.wordpress.com/tag/india/) - [islam](https://musingsofhh.wordpress.com/tag/islam/) - [japan](https://musingsofhh.wordpress.com/tag/japan/) - [legalism](https://musingsofhh.wordpress.com/tag/legalism/) - [russia](https://musingsofhh.wordpress.com/tag/russia/) - [talas](https://musingsofhh.wordpress.com/tag/talas/) - [us](https://musingsofhh.wordpress.com/tag/us/)
 
 **[German Christian in Dialogue with Balinese on Ramayana’s Historicity](https://musingsofhh.wordpress.com/2012/09/23/german-christian-in-dialogue-with-balinese-on-ramayanas-historicity/)**

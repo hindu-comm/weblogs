@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/rkul-time-well-spent-06062022).
 
 RKUL: Time Well Spent 06/06/2022
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbaf1d8ca-405c-4e3e-9e76-8fee9fb1750f_800x393.jpeg)
 
 RKUL: Time Well Spent 06/06/2022
 
@@ -33,7 +33,7 @@ Email
 
 Jun 7
 
-24
+25
 
 [](https://razib.substack.com/p/rkul-time-well-spent-06062022/comments)
 
@@ -42,6 +42,8 @@ Jun 7
 [](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbaf1d8ca-405c-4e3e-9e76-8fee9fb1750f_800x393.jpeg)
 
 RKUL: Time Well Spent 06/06/2022
 
@@ -137,21 +139,20 @@ All my podcasts go [ungated](https://unsupervisedlearning.libsyn.com/) two weeks
 
 Here are my guests since the last Time Well Spent:
 
--   [Jason Richwine: an immigration restrictionist
-    speaks](https://razib.substack.com/p/jason-richwine-an-immigration-restrictionist?s=w#details)
+- [Jason Richwine: an immigration restrictionist
+  speaks](https://razib.substack.com/p/jason-richwine-an-immigration-restrictionist?s=w#details)
 
--   [Stuart Ritchie: bad science, good science and behavior
-    genetics](https://razib.substack.com/p/stuart-ritchie-bad-science-good-science?s=w#details)
+- [Stuart Ritchie: bad science, good science and behavior
+  genetics](https://razib.substack.com/p/stuart-ritchie-bad-science-good-science?s=w#details)
 
--   [Ananyo Bhattacharya: The Life of John von
-    Neumann](https://razib.substack.com/p/ananyo-bhattacharya-the-life-of-john?s=w#details)
+- [Ananyo Bhattacharya: The Life of John von
+  Neumann](https://razib.substack.com/p/ananyo-bhattacharya-the-life-of-john?s=w#details)
 
--   [Alex Palazzo: drifting into molecular
-    evolution](https://razib.substack.com/p/alex-palazzo-drifting-into-molecular?s=w#details)
+- [Alex Palazzo: drifting into molecular
+  evolution](https://razib.substack.com/p/alex-palazzo-drifting-into-molecular?s=w#details)
 
--   And here are the [currently ungated
-    podcasts](https://unsupervisedlearning.libsyn.com/) all in one
-    place.
+- And here are the [currently ungated
+  podcasts](https://unsupervisedlearning.libsyn.com/) all in one place.
 
 For subscribers, I’m now posting transcripts (automatically generated, though I have someone going through to catch errors).
 
@@ -163,35 +164,35 @@ https://www.razib.com
 
 . You’ll find links to the few different podcasts I’ve contributed to or run, my total [RSS](https://feeds.feedburner.com/RazibKhansTotalFeed) feed, links to more mainstream or print articles when I remember to post them, my Twitter, the occasional guest appearance here and there, etc.
 
--   [Email](mailto:contactgnxp@gmail.com) me
+- [Email](mailto:contactgnxp@gmail.com) me
 
--   [DM](https://twitter.com/razibkhan) me
+- [DM](https://twitter.com/razibkhan) me
 
--   [Facebook](https://www.facebook.com/razibkhan99) message me
+- [Facebook](https://www.facebook.com/razibkhan99) message me
 
--   My [total feed](http://www.razib.com/wordpress/) of content
+- My [total feed](http://www.razib.com/wordpress/) of content
 
--   My long-time blog, [GNXP](http://gnxp.com/)
+- My long-time blog, [GNXP](http://gnxp.com/)
 
--   A group blog, [Secular Right](http://secularright.org/), vintage at
-    this point, but worthwhile for Heather Mac Donald’s prescience
+- A group blog, [Secular Right](http://secularright.org/), vintage at
+  this point, but worthwhile for Heather Mac Donald’s prescience
 
--   My Indian/South Asian focused blog, [Brown
-    Pundits](https://www.brownpundits.com/)
+- My Indian/South Asian focused blog, [Brown
+  Pundits](https://www.brownpundits.com/)
 
--   Some of my past pieces for
-    [UnHerd](https://unherd.com/author/razib-khan/), [National
-    Review](https://www.nationalreview.com/author/razib-khan/), [The
-    Manhattan
-    Institute](https://www.city-journal.org/contributor/razib-khan_1620),
-    [Quillette](https://quillette.com/author/razib-khan/), and [The New
-    York
-    Times](https://www.nytimes.com/2014/11/25/opinion/our-cats-ourselves.html)
+- Some of my past pieces for
+  [UnHerd](https://unherd.com/author/razib-khan/), [National
+  Review](https://www.nationalreview.com/author/razib-khan/), [The
+  Manhattan
+  Institute](https://www.city-journal.org/contributor/razib-khan_1620),
+  [Quillette](https://quillette.com/author/razib-khan/), and [The New
+  York
+  Times](https://www.nytimes.com/2014/11/25/opinion/our-cats-ourselves.html)
 
--   My old podcast, [The Insight](https://insitome.libsyn.com/)
+- My old podcast, [The Insight](https://insitome.libsyn.com/)
 
--   My podcast today, [Unsupervised
-    Learning](https://unsupervisedlearning.libsyn.com/)
+- My podcast today, [Unsupervised
+  Learning](https://unsupervisedlearning.libsyn.com/)
 
 ### **On the blog**
 
@@ -204,8 +205,6 @@ https://www.razib.com
 
 Comments are open to all for this post, so if you have more reading/listening suggestions or tips on who I should be talking to or what I really should be writing for you, lay it on me.
 
-Like this post
-
 [](https://razib.substack.com/p/rkul-time-well-spent-06062022/comments)
 
 6
@@ -213,6 +212,8 @@ Like this post
 [](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbaf1d8ca-405c-4e3e-9e76-8fee9fb1750f_800x393.jpeg)
 
 RKUL: Time Well Spent 06/06/2022
 
@@ -226,3 +227,4 @@ Facebook
 
 Email
 
+Like this post

@@ -9,9 +9,9 @@ Source: [here](https://rasajournal.substack.com/p/ami-bangla).
 
 Ami Bangla 
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F574e80a7-f3cc-476d-a413-bd009f7fb8da_6264x4180.jpeg)
 
 Ami Bangla
 
@@ -29,9 +29,37 @@ Email
 
 ### What connects the Indian and Bangladeshi Bengali life in the subcontinent and beyond?
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2493377a-60dd-44d9-a41e-4aff3778a15c_660x1006.jpeg)](https://substack.com/profile/4266017-garima?utm_source=author-byline-face)
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F574e80a7-f3cc-476d-a413-bd009f7fb8da_6264x4180.jpeg)
+[Garima](https://substack.com/profile/4266017-garima)
+
+Mar 11
+
+1
+
+[](https://rasajournal.substack.com/p/ami-bangla/comments)
+
+2
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F574e80a7-f3cc-476d-a413-bd009f7fb8da_6264x4180.jpeg)
+
+Ami Bangla
+
+rasajournal.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F574e80a7-f3cc-476d-a413-bd009f7fb8da_6264x4180.jpeg)
 
 *The Yellow ambassador taxi in India’s Kolkata. Photo by Garima Garg.*
 
@@ -73,7 +101,26 @@ Adila Noor, a Bangladeshi-Australian musician in her mid-40s, has recorded sever
 
 “I encourage my son to speak Bangla but nowadays in Bangladesh, young people are forgetting the Bangla culture and adopting Western culture,” she says. Noor shares that she is concerned about the increasing religious nationalism in Bangladesh and feels that people should speak out against it. “We’re losing our culture,” she worries.
 
-[2](https://rasajournal.substack.com/p/ami-bangla/comments)
+[](https://rasajournal.substack.com/p/ami-bangla/comments)
 
-[Share](javascript:void(0))
+2
 
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F574e80a7-f3cc-476d-a413-bd009f7fb8da_6264x4180.jpeg)
+
+Ami Bangla
+
+rasajournal.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

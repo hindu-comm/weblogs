@@ -9,8 +9,6 @@ Source: [here](https://vikramdialogues.substack.com/p/in-the-beginning).
 
 In the Beginning
 
-
-
 Share this post
 
 In the Beginning
@@ -29,7 +27,33 @@ Email
 
 ### A Welcome to My Readers
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcaf6393b-4597-4a8a-9cf0-cc10abb447ee_144x144.png)](https://substack.com/profile/85083132-vikram?utm_source=author-byline-face)
+
+[Vikram](https://substack.com/profile/85083132-vikram)
+
+Apr 7
+
+7
+
+[](https://vikramdialogues.substack.com/p/in-the-beginning/comments)
+
+1
+
+[](javascript:void(0))
+
+Share this post
+
+In the Beginning
+
+vikramdialogues.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
 
 The dialogue, as a literary form, has its origins in antiquity. Plato’s are literary devices that limn Socrates’s philosophical positions and stage his aphoristic wisdom. In the Indian tradition, the Bhagavad Gita, set on the battlefield of Kurukshetra, is the most famous example, but there are dialogues in the Vedic*mantras*, the Upanishads, and the Puranas. Indeed, the*sutra*, the cryptic statement, the scaffolding of much Indian philosophical exposition, invites a response, a conversation.
 
@@ -47,7 +71,24 @@ Readers, I am going to open this venture with quite the detonation. Amit Majmuda
 
 Thereafter I hope to produce dialogues in “seasons” of five or six episodes. Think David Letterman’s Netflix show. Such a goal seems eminently attainable for a working man like me!
 
-[1](https://vikramdialogues.substack.com/p/in-the-beginning/comments)
+[](https://vikramdialogues.substack.com/p/in-the-beginning/comments)
 
-[Share](javascript:void(0))
+1
 
+[](javascript:void(0))
+
+Share this post
+
+In the Beginning
+
+vikramdialogues.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

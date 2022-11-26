@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/as-american-as-a-first-library-card)
 
 As American as a first library card
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbbb27293-14e9-4020-a45b-e17641c36cec_700x722.png)
 
 As American as a first library card
 
@@ -33,17 +33,19 @@ Email
 
 [Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
-22 hr ago
+Jul 5
 
-29
+36
 
 [](https://razib.substack.com/p/as-american-as-a-first-library-card/comments)
 
-6
+9
 
 [](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbbb27293-14e9-4020-a45b-e17641c36cec_700x722.png)
 
 As American as a first library card
 
@@ -99,21 +101,21 @@ Colin shared [Jonathan Rauch](https://www.brookings.edu/experts/jonathan-rauch/)
 
 And as for me, all I ever do is flog books, but I can’t resist throwing in a few recs today, my ultra predictable go-to’s alongside a couple of curveballs (for me)**:**
 
--   [Albion's Seed: Four British Folkways in
-    America](https://www.amazon.com/exec/obidos/ASIN/B000SEKM9C/geneexpressio-20)
+- [Albion's Seed: Four British Folkways in
+  America](https://www.amazon.com/exec/obidos/ASIN/B000SEKM9C/geneexpressio-20)
 
--   [East Of
-    Eden](https://www.amazon.com/exec/obidos/ASIN/B09W2TF86M/geneexpressio-20)
+- [East Of
+  Eden](https://www.amazon.com/exec/obidos/ASIN/B09W2TF86M/geneexpressio-20)
 
--   [The Age of
-    Jackson](https://www.amazon.com/exec/obidos/ASIN/0316773433/geneexpressio-20)
+- [The Age of
+  Jackson](https://www.amazon.com/exec/obidos/ASIN/0316773433/geneexpressio-20)
 
--   John Brown Biography: [To Purge This Land with
-    Blood](https://www.amazon.com/exec/obidos/ASIN/1648370888/geneexpressio-20)
+- John Brown Biography: [To Purge This Land with
+  Blood](https://www.amazon.com/exec/obidos/ASIN/1648370888/geneexpressio-20)
 
--   [The Age of Abundance: How Prosperity Transformed America's Politics
-    and
-    Culture](https://www.amazon.com/exec/obidos/ASIN/B000QUCO0I/geneexpressio-20)
+- [The Age of Abundance: How Prosperity Transformed America's Politics
+  and
+  Culture](https://www.amazon.com/exec/obidos/ASIN/B000QUCO0I/geneexpressio-20)
 
 And speaking of [Sarah,](https://sarahhaider.substack.com/) she has a [lovely piece](https://sarahhaider.substack.com/p/american-pride-american-shame) out today on her Substack about the privilege of being an American. It generously acknowledges my July 4 post from 2021, [Get Lucky](https://razib.substack.com/p/get-lucky), which, aside from January’s [E.O. Wilson post](https://razib.substack.com/p/setting-the-record-straight-open), in which I was speaking for more than just myself, remains my most loved Substack piece.
 
@@ -127,15 +129,15 @@ I hope everyone had an excellent July 4th! Happy 246th, America!
 
 [Share](https://razib.substack.com/p/as-american-as-a-first-library-card?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
-Like this post
-
 [](https://razib.substack.com/p/as-american-as-a-first-library-card/comments)
 
-6
+9
 
 [](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbbb27293-14e9-4020-a45b-e17641c36cec_700x722.png)
 
 As American as a first library card
 
@@ -149,3 +151,4 @@ Facebook
 
 Email
 
+Like this post

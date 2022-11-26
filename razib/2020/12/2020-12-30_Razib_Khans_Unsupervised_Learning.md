@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/podcast-countdown-to-2021-day-5-suha
 
 Razib Khan's Unsupervised Learning
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F392744d1-9c87-4015-a57c-140f64f44537_400x400.jpeg)
 
 Podcast countdown to 2021 - day 5, Suhag Shukla: Hindus in America
 
@@ -25,17 +25,11 @@ Facebook
 
 Email
 
-![](https://substackcdn.com/image/fetch/w_512,h_512,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F392744d1-9c87-4015-a57c-140f64f44537_400x400.jpeg)
+![](https://substackcdn.com/image/fetch/w_512,h_512,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2c48569f-373c-4d04-96a3-1aad755a419b_3000x3000.png)
 
 Dec 30, 2020 • 1HR 10M
 
 # Podcast countdown to 2021 - day 5, Suhag Shukla: Hindus in America
-
-### 
-
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
-
-[Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
 Dec 30, 2020
 
@@ -48,6 +42,8 @@ Dec 30, 2020
 [](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F392744d1-9c87-4015-a57c-140f64f44537_400x400.jpeg)
 
 Podcast countdown to 2021 - day 5, Suhag Shukla: Hindus in America
 
@@ -72,6 +68,12 @@ Email
 Open in playerListen on
 
 Audio playback is not supported on your browser. Please upgrade.
+
+#### Appears in this episode
+
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face-podcast)
+
+Razib Khan
 
 Conversations about science, culture, and current affairs
 
@@ -119,8 +121,6 @@ Also, if you were too busy over the holidays, my series of five quick pieces fro
 
 [Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
 
-Like this post
-
 [](https://razib.substack.com/p/podcast-countdown-to-2021-day-5-suhag/comments)
 
 1
@@ -128,6 +128,8 @@ Like this post
 [](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F392744d1-9c87-4015-a57c-140f64f44537_400x400.jpeg)
 
 Podcast countdown to 2021 - day 5, Suhag Shukla: Hindus in America
 
@@ -141,3 +143,4 @@ Facebook
 
 Email
 
+Like this post

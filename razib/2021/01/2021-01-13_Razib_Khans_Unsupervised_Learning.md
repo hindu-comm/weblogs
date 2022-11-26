@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/american-civil-war-richard-hanania).
 
 Razib Khan's Unsupervised Learning
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F90f5a71a-55f3-4392-9eac-efc465b30649_1095x851.jpeg)
 
 American Civil War? Richard Hanania thinks it unlikely
 
@@ -25,17 +25,11 @@ Facebook
 
 Email
 
-![](https://substackcdn.com/image/fetch/w_512,h_512,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F90f5a71a-55f3-4392-9eac-efc465b30649_1095x851.jpeg)
+![](https://substackcdn.com/image/fetch/w_512,h_512,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2c48569f-373c-4d04-96a3-1aad755a419b_3000x3000.png)
 
 Jan 13, 2021 • 1HR 26M
 
 # American Civil War? Richard Hanania thinks it unlikely
-
-### 
-
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
-
-[Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
 Jan 13, 2021
 
@@ -44,6 +38,8 @@ Jan 13, 2021
 [](https://razib.substack.com/p/american-civil-war-richard-hanania/comments)[](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F90f5a71a-55f3-4392-9eac-efc465b30649_1095x851.jpeg)
 
 American Civil War? Richard Hanania thinks it unlikely
 
@@ -68,6 +64,12 @@ Email
 Open in playerListen on
 
 Audio playback is not supported on your browser. Please upgrade.
+
+#### Appears in this episode
+
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face-podcast)
+
+Razib Khan
 
 Conversations about science, culture, and current affairs
 
@@ -105,11 +107,11 @@ Finally, **while recording the podcast we uncover intriguing evidence that Jon O
 
 [Share](https://razib.substack.com/p/american-civil-war-richard-hanania?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
-Like this post
-
 [](https://razib.substack.com/p/american-civil-war-richard-hanania/comments)[](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F90f5a71a-55f3-4392-9eac-efc465b30649_1095x851.jpeg)
 
 American Civil War? Richard Hanania thinks it unlikely
 
@@ -123,3 +125,4 @@ Facebook
 
 Email
 
+Like this post

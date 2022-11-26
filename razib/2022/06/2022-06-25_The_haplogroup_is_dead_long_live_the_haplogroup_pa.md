@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/the-haplogroup-is-dead-long-live-16d
 
 The haplogroup is dead, long live the haplogroup! (part 2)
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F93749173-2ec0-4f95-8bdf-be7df2dfae71_820x1000.jpeg)
 
 The haplogroup is dead, long live the haplogroup! (part 2)
 
@@ -33,17 +33,19 @@ Email
 
 [Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
-6 hr ago
+Jun 25
 
-10
+44
 
 [](https://razib.substack.com/p/the-haplogroup-is-dead-long-live-16d/comments)
 
-3
+11
 
 [](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F93749173-2ec0-4f95-8bdf-be7df2dfae71_820x1000.jpeg)
 
 The haplogroup is dead, long live the haplogroup! (part 2)
 
@@ -131,15 +133,15 @@ In the table below, you will find the 11 most numerous Y-chromosome haplogroups 
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F64ca3c5b-5084-41de-aac4-1dd19febffe9_778x349.jpeg)
 
-Like this post
-
 [](https://razib.substack.com/p/the-haplogroup-is-dead-long-live-16d/comments)
 
-3
+11
 
 [](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F93749173-2ec0-4f95-8bdf-be7df2dfae71_820x1000.jpeg)
 
 The haplogroup is dead, long live the haplogroup! (part 2)
 
@@ -153,3 +155,4 @@ Facebook
 
 Email
 
+Like this post

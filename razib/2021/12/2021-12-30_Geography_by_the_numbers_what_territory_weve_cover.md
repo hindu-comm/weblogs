@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/geography-by-the-numbers-what-territ
 
 Geography by the numbers: what territory we've covered
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F19c8fee9-ff8a-4e1d-97f8-dcfdde7c1022_2526x1059.png)
 
 Geography by the numbers: what territory we've covered
 
@@ -27,9 +27,37 @@ Email
 
 # Geography by the numbers: what territory we've covered
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
 
-![**Bubbles proportional to the word count by region**](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F19c8fee9-ff8a-4e1d-97f8-dcfdde7c1022_2526x1059.png)
+[Razib Khan](https://substack.com/profile/1400665-razib-khan)
+
+Dec 30, 2021
+
+12
+
+[](https://razib.substack.com/p/geography-by-the-numbers-what-territory/comments)
+
+6
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F19c8fee9-ff8a-4e1d-97f8-dcfdde7c1022_2526x1059.png)
+
+Geography by the numbers: what territory we've covered
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+![**Bubbles proportional to the word count by region**](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F19c8fee9-ff8a-4e1d-97f8-dcfdde7c1022_2526x1059.png)
 
 **Subscribe**
 
@@ -55,143 +83,142 @@ Looking back, I’m surprised I didn’t talk about Africa more in 2021. But tha
 
 **Siberia**
 
--   [What happens in Denisova Cave stays in Denisova Cave... until
-    now](https://razib.substack.com/p/what-happens-in-denisova-cave-stays)
+- [What happens in Denisova Cave stays in Denisova Cave... until
+  now](https://razib.substack.com/p/what-happens-in-denisova-cave-stays)
 
--   [Here be humans](https://razib.substack.com/p/here-be-humans)
+- [Here be humans](https://razib.substack.com/p/here-be-humans)
 
 **China**
 
--   [Made in China](https://razib.substack.com/p/made-in-china)
+- [Made in China](https://razib.substack.com/p/made-in-china)
 
--   [The original Chinese
-    man](https://razib.substack.com/p/3000-years-of-chinese-history)
+- [The original Chinese
+  man](https://razib.substack.com/p/3000-years-of-chinese-history)
 
--   [Our Three-Body
-    Problem](https://razib.substack.com/p/library-of-the-steppe)
+- [Our Three-Body
+  Problem](https://razib.substack.com/p/library-of-the-steppe)
 
 **India**
 
--   [Stark Truth About Aryans: a story of
-    India](https://razib.substack.com/p/stark-truth-about-aryans-a-story)
+- [Stark Truth About Aryans: a story of
+  India](https://razib.substack.com/p/stark-truth-about-aryans-a-story)
 
--   [Stark Truth About Humans: a story of
-    India](https://razib.substack.com/p/stark-truth-about-humans-a-story)
+- [Stark Truth About Humans: a story of
+  India](https://razib.substack.com/p/stark-truth-about-humans-a-story)
 
--   [The character of
-    caste](https://razib.substack.com/p/the-character-of-caste)
+- [The character of
+  caste](https://razib.substack.com/p/the-character-of-caste)
 
--   [Our Three-Body
-    Problem](https://razib.substack.com/p/library-of-the-steppe)
+- [Our Three-Body
+  Problem](https://razib.substack.com/p/library-of-the-steppe)
 
 **Southeast Asia**
 
--   [What happens in Denisova Cave stays in Denisova Cave... until
-    now](https://razib.substack.com/p/what-happens-in-denisova-cave-stays)
+- [What happens in Denisova Cave stays in Denisova Cave... until
+  now](https://razib.substack.com/p/what-happens-in-denisova-cave-stays)
 
 **Central Asia**
 
--   [Among Afghans: jewel of the
-    dragon](https://razib.substack.com/p/among-afghans-jewel-of-the-dragon)
+- [Among Afghans: jewel of the
+  dragon](https://razib.substack.com/p/among-afghans-jewel-of-the-dragon)
 
 **Steppe**
 
--   [Entering Steppelandia: pop. 7.7
-    billion](https://razib.substack.com/p/entering-steppelandia-pop-77-billion)
+- [Entering Steppelandia: pop. 7.7
+  billion](https://razib.substack.com/p/entering-steppelandia-pop-77-billion)
 
--   [Library of the
-    Steppe](https://razib.substack.com/p/library-of-the-steppe)
+- [Library of the
+  Steppe](https://razib.substack.com/p/library-of-the-steppe)
 
--   [Steppe 1.0, Going
-    Nomad](https://razib.substack.com/p/steppe-10-going-nomad)
+- [Steppe 1.0, Going
+  Nomad](https://razib.substack.com/p/steppe-10-going-nomad)
 
--   [Steppe 1.1a: A nowhere man's
-    world](https://razib.substack.com/p/steppe-11a-a-nowhere-mans-world)
+- [Steppe 1.1a: A nowhere man's
+  world](https://razib.substack.com/p/steppe-11a-a-nowhere-mans-world)
 
--   [Library of
-    the](https://razib.substack.com/p/library-of-the-steppe), [Steppe
-    1.1b: culture vultures
-    descend](https://razib.substack.com/p/steppe-11b-culture-vultures-descend)
+- [Library of the](https://razib.substack.com/p/library-of-the-steppe),
+  [Steppe 1.1b: culture vultures
+  descend](https://razib.substack.com/p/steppe-11b-culture-vultures-descend)
 
--   [Steppe 2.0: would you swipe right on a steppe
-    brother?](https://razib.substack.com/p/steppe-20-swipe-right-on-a-steppe)
+- [Steppe 2.0: would you swipe right on a steppe
+  brother?](https://razib.substack.com/p/steppe-20-swipe-right-on-a-steppe)
 
--   [Dark Horse out of the
-    Steppe](https://razib.substack.com/p/dark-horse-out-of-the-steppe)
+- [Dark Horse out of the
+  Steppe](https://razib.substack.com/p/dark-horse-out-of-the-steppe)
 
 **Finland**
 
--   [Duke Tales: I see Finland in the strangest
-    places](https://razib.substack.com/p/i-see-finland-in-the-strangest-places)
+- [Duke Tales: I see Finland in the strangest
+  places](https://razib.substack.com/p/i-see-finland-in-the-strangest-places)
 
--   [Weirdness as a national
-    pastime](https://razib.substack.com/p/weirdness-as-a-national-pastime)
+- [Weirdness as a national
+  pastime](https://razib.substack.com/p/weirdness-as-a-national-pastime)
 
--   [Go west, young
-    Siberian](https://razib.substack.com/p/go-west-young-siberian)
+- [Go west, young
+  Siberian](https://razib.substack.com/p/go-west-young-siberian)
 
--   [From deepest Siberia to Europe’s
-    edge](https://razib.substack.com/p/from-deepest-siberia-to-europes-edge)
+- [From deepest Siberia to Europe’s
+  edge](https://razib.substack.com/p/from-deepest-siberia-to-europes-edge)
 
--   [Frontier Finns: cabins, rakes &
-    Indians](https://razib.substack.com/p/frontier-finns-cabins-rakes-and-indians)
+- [Frontier Finns: cabins, rakes &
+  Indians](https://razib.substack.com/p/frontier-finns-cabins-rakes-and-indians)
 
--   [Finnish brains, baiting and
-    bottlenecks](https://razib.substack.com/p/finnish-brains-baiting-and-bottlenecks)
+- [Finnish brains, baiting and
+  bottlenecks](https://razib.substack.com/p/finnish-brains-baiting-and-bottlenecks)
 
 **Balkans**
 
--   [1,000 years of Romani survival, a genetic
-    tale](https://razib.substack.com/p/outcast-as-i-wanna-be)
+- [1,000 years of Romani survival, a genetic
+  tale](https://razib.substack.com/p/outcast-as-i-wanna-be)
 
--   [Romani survival, and the power of
-    culture](https://razib.substack.com/p/outcast-as-i-wanna-be-5fd)
+- [Romani survival, and the power of
+  culture](https://razib.substack.com/p/outcast-as-i-wanna-be-5fd)
 
 **Hungary**
 
--   [Hungarians as the ghost of the Magyar
-    confederacy](https://razib.substack.com/p/hungarians-as-the-ghost-of-the-magyar)
+- [Hungarians as the ghost of the Magyar
+  confederacy](https://razib.substack.com/p/hungarians-as-the-ghost-of-the-magyar)
 
 **Poland**
 
--   [Ashkenazi Jewish genetics: a match made in the
-    Mediterranean](https://razib.substack.com/p/ashkenazi-jewish-genetics-a-match)
+- [Ashkenazi Jewish genetics: a match made in the
+  Mediterranean](https://razib.substack.com/p/ashkenazi-jewish-genetics-a-match)
 
 **Mediterranean**
 
--   [They came, they saw, they left no
-    trace](https://razib.substack.com/p/they-came-they-saw-they-left-no-trace)
+- [They came, they saw, they left no
+  trace](https://razib.substack.com/p/they-came-they-saw-they-left-no-trace)
 
--   [The eternal wanderers: Sephardic Jewish genetics and
-    culture](https://razib.substack.com/p/the-eternal-wanderers-sephardic-jewish)
+- [The eternal wanderers: Sephardic Jewish genetics and
+  culture](https://razib.substack.com/p/the-eternal-wanderers-sephardic-jewish)
 
 **Africa**
 
--   [Beyond "Out of
-    Africa"?](https://razib.substack.com/p/beyond-out-of-africa)
+- [Beyond "Out of
+  Africa"?](https://razib.substack.com/p/beyond-out-of-africa)
 
--   [Out-of-Africa's midlife
-    crisis](https://razib.substack.com/p/out-of-africas-midlife-crisis)
+- [Out-of-Africa's midlife
+  crisis](https://razib.substack.com/p/out-of-africas-midlife-crisis)
 
--   [Yo mama's mama's mama's mama...
-    etc.](https://razib.substack.com/p/yo-mamas-mamas-mamas-mama-etc)
+- [Yo mama's mama's mama's mama...
+  etc.](https://razib.substack.com/p/yo-mamas-mamas-mamas-mama-etc)
 
--   [Our African origins: the more we understand, the less we
-    know](https://razib.substack.com/p/our-african-origins-the-more-we-understand)
+- [Our African origins: the more we understand, the less we
+  know](https://razib.substack.com/p/our-african-origins-the-more-we-understand)
 
 **North America**
 
--   [Your roots are
-    showing](https://razib.substack.com/p/your-roots-are-showing)
+- [Your roots are
+  showing](https://razib.substack.com/p/your-roots-are-showing)
 
--   [In God We Trusted](https://razib.substack.com/p/in-god-we-trusted)
+- [In God We Trusted](https://razib.substack.com/p/in-god-we-trusted)
 
--   [The ultimate price of costless
-    gestures](https://razib.substack.com/p/the-ultimate-price-of-costless-gestures)
+- [The ultimate price of costless
+  gestures](https://razib.substack.com/p/the-ultimate-price-of-costless-gestures)
 
--   [A whole New World](https://razib.substack.com/p/a-whole-new-world)
+- [A whole New World](https://razib.substack.com/p/a-whole-new-world)
 
--   [Get Lucky](https://razib.substack.com/p/get-lucky)
+- [Get Lucky](https://razib.substack.com/p/get-lucky)
 
 **Subscribe**
 
@@ -199,5 +226,26 @@ Looking back, I’m surprised I didn’t talk about Africa more in 2021. But tha
 
 [Share](https://razib.substack.com/p/geography-by-the-numbers-what-territory?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
-|                                                                                    |                             | |------------------------------------------------------------------------------------|-----------------------------| | [6](https://razib.substack.com/p/geography-by-the-numbers-what-territory/comments) | [Share](javascript:void(0)) |
+[](https://razib.substack.com/p/geography-by-the-numbers-what-territory/comments)
 
+6
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F19c8fee9-ff8a-4e1d-97f8-dcfdde7c1022_2526x1059.png)
+
+Geography by the numbers: what territory we've covered
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

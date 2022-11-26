@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/casting-out-the-wolf-in-our-midst).
 
 Casting out the wolf in our midst
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1e7bafe1-3cb5-4bb2-ab89-e7a66940866f_1024x577.jpeg)
 
 Casting out the wolf in our midst
 
@@ -29,9 +29,37 @@ Email
 
 ### How shepherd and wolf remade Eurasia in their image (part 2)
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1e7bafe1-3cb5-4bb2-ab89-e7a66940866f_1024x577.jpeg)
+[Razib Khan](https://substack.com/profile/1400665-razib-khan)
+
+May 3
+
+84
+
+[](https://razib.substack.com/p/casting-out-the-wolf-in-our-midst/comments)
+
+15
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1e7bafe1-3cb5-4bb2-ab89-e7a66940866f_1024x577.jpeg)
+
+Casting out the wolf in our midst
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1e7bafe1-3cb5-4bb2-ab89-e7a66940866f_1024x577.jpeg)
 
 **Subscribe**
 
@@ -43,7 +71,7 @@ Email
 
 Our species is unique in that we are both extremely social, and incredibly diverse in our cultures. The eusocial insects are a match for us in gregariousness, with their colonies of millions, but their social structures are far less multifarious and hew closely to particular prescribed forms species by species. Army ants advance as columns in their millions, fungus-farming ants cultivate their “crops” peacefully, while bees swarm in colonies that split like clockwork upon reaching a predetermined population size. Human societies do not exhibit such fixed regularities and may morph within a single generation, or vary radically on opposite slopes of a mountain. Human culture is marvelously plastic, and it can be adaptive due to intense selection pressure, or simply buffeted by the winds of randomness and whimsy.
 
-But despite the likely role of chance in our social evolution, the shape of human cultural phenomena always rests upon a bedrock of our inherited biology overlaid with environmental influences dictated by place and time. Our societies develop their characteristic outlines at the intersection of fixed eternal instincts and protean social innovations. Despite our cultural diversity, it is little surprise that under similar conditions, we often converge on similar outcomes. As James C. Scott articulates in *[Against The Grain: A Deep History of the Earliest States](https://www.amazon.com/exec/obidos/ASIN/B0747RTP2W/geneexpressio-20)*, cereal-based agriculture reliably results in states that control and sequester surplus production, and then use it to support a military or cultural elite. Whether in ancient Mesopotamia, China or Mesoamerica, early cereal-based societies evolved progressively toward tighter social integration and class stratification, as well as achieving an increase in political scale.
+But despite the likely role of chance in our social evolution, the shape of human cultural phenomena always rests upon a bedrock of our inherited biology overlaid with environmental influences dictated by place and time. Our societies develop their characteristic outlines at the intersection of fixed eternal instincts and protean social innovations. Despite our cultural diversity, it is little surprise that under similar conditions, we often converge on similar outcomes. As James C. Scott articulates in* [Against The Grain: A Deep History of the Earliest States](https://www.amazon.com/exec/obidos/ASIN/B0747RTP2W/geneexpressio-20)*, cereal-based agriculture reliably results in states that control and sequester surplus production, and then use it to support a military or cultural elite. Whether in ancient Mesopotamia, China or Mesoamerica, early cereal-based societies evolved progressively toward tighter social integration and class stratification, as well as achieving an increase in political scale.
 
 Fully-fledged pastoral nomadism emerged far later than sedentary agriculture, and its social and political configuration is markedly different than cereal-based agricultural societies’. As I [noted](https://razib.substack.com/p/the-wolf-at-historys-door?s=w), pastoral nomads are patrilineal and patriarchal, in contrast to sedentary agriculturists who exhibit more variety in the expectations of their gender relations. And notably, nomadic pastoralists put a particular demographic in the driver’s seat: groups of young men shaped, bonded and tempered by their experiences both protecting their tribe’s wealth from enemies and plundering that of others. Collective acts of shocking and transgressive violence were traditionally the fires that kindled into existence these young men’s cohesion and ferocity, and thus the culture that they subsequently shaped. If a thousand platoons bound society together, these cadres of adolescents and young men drove their tribes forward at the literal tip of their spears.
 
@@ -81,7 +109,7 @@ The circumstantial evidence was always there in the cross-cultural myth and text
 
 ### **The age of the wolf**
 
-The ranging of these human “wolf-packs” across Eurasia 5,000 years ago altered the course of history, triggering a cascade of changes that reconfigured the Bronze Age world. To get a sense of the magnitude of this cataclysmic overhaul, perhaps we should consider a well-known example of change and transformation temporally closer to us, in the early historical period. Bryan Ward-Perkins’ *[The Fall of Rome: And the End of Civilization](https://www.amazon.com/exec/obidos/ASIN/B006OYD2K6/geneexpressio-20)* documents the material realities of the Roman Empire’s collapse in the 4th to 6th centuries AD. Rather than spin out extended textually-based arguments, as historians often do, Ward-Perkins, an archaeologist by training, simply points out that pollution deposits left by industry did not regain Roman levels in British ponds for another 1,400 years. The end of the Roman Empire was not just a political collapse; it was a cultural, economic and social catastrophe, recorded and reflected in the material remains. The term “Dark Age” to describe what followed wasn’t hyperbolic, it was dead honest.
+The ranging of these human “wolf-packs” across Eurasia 5,000 years ago altered the course of history, triggering a cascade of changes that reconfigured the Bronze Age world. To get a sense of the magnitude of this cataclysmic overhaul, perhaps we should consider a well-known example of change and transformation temporally closer to us, in the early historical period. Bryan Ward-Perkins’ *[The Fall of Rome: And the End of Civilization](https://www.amazon.com/exec/obidos/ASIN/B006OYD2K6/geneexpressio-20) *documents the material realities of the Roman Empire’s collapse in the 4th to 6th centuries AD. Rather than spin out extended textually-based arguments, as historians often do, Ward-Perkins, an archaeologist by training, simply points out that pollution deposits left by industry did not regain Roman levels in British ponds for another 1,400 years. The end of the Roman Empire was not just a political collapse; it was a cultural, economic and social catastrophe, recorded and reflected in the material remains. The term “Dark Age” to describe what followed wasn’t hyperbolic, it was dead honest.
 
 I thought of this when J. P. Mallory [told me last year](https://unsupervisedlearning.libsyn.com/james-p-mallory-finding-the-indo-europeans) that one reason archaeologists studying early Indo-Europeans in Northern Europe rely almost exclusively upon grave goods in their investigations is that for roughly 1,000 years, that is all the material record offers. Mallory, trained as an archaeologist, had an intuitive feel for this issue that I naturally lacked, and it was at that moment that I realized the collapse of the great European Neolithic societies around 3000 BC was a prehistoric “end of civilization.” And despite the catalytic role likely played by cultural decline and climate change, the appearance of aggressive Indo-European agro-pastoralists was responsible for the ultimate extinction of Europe’s Neolithic civilizations. The post-Neolithic Indo-European Bell Beaker and Corded Ware cultures known to us by their distinctive, but indisputably humble vessels, never constructed anything as grand as what had been wrought by the megalith builders of Western Europe, nor did they craft richly vibrant pottery like the [Cucuteni–Trypillia](https://en.wikipedia.org/wiki/Cucuteni%E2%80%93Trypillia_culture) of Eastern Europe had. They were among Stonehenge’s inheritors, not its creators. Likewise, in the Indian subcontinent, the Indo-Aryans would not replicate the material accomplishments of the Indus Valley Civilization (IVC) for over a millennium after their arrival around 1800 BC. The IVC at its peak, around 2100 BC, boasted a network of vast cities with public sanitation and hydraulic works that spanned 25% of South Asia. But after its decline and collapse, urbanism only regained its footing in the subcontinent after 500 BC. Like the Anglo-Saxons in post-Roman Britain, the early Indo-Europeans ruled over a fallen world. But their reign of barbarity lasted more than a millennium, rather than the century of Anglo-Saxon darkness.
 
@@ -91,7 +119,7 @@ How barbaric were these early people exactly? In 2019, the Danish archaeologist 
 
 Kristiansen, in short, is presenting a theory that argues the *koryos*, the ‘black youth’ (black was the color associated with Indo-European *koryos* across many societies) were instrumental in expanding the range of Indo-European culture through aggressive raiding and eventually conquest. Like the early Romans under Romulus and Remus, they procured mates through means [violent and foul](https://en.wikipedia.org/wiki/The_Rape_of_the_Sabine_Women). This may have been a general Indo-European trend. Sociolinguist Peggy Mohan argues in *[Wanderers, Kings and Merchants](https://www.amazon.com/exec/obidos/ASIN/B091CYW65Z/geneexpressio-20)* that the Vedas leave open the possibility that the wives of Indo-Aryan warriors and priests did not themselves speak Sanskrit, but a native Indian language. The expansion and conquests spearheaded by the *koryos* may have been unplanned, but it’s also easy to see their inevitability in the face of a massive social reorganization triggered by steppe nomadism. Just as water flows downhill, the crystallization of the *koryos* with the rise of steppe nomadism may have rendered conquest of the supercontinent's rich western and southern flanks by nomads nearly inevitable.
 
-![Early Indo-European cultures and Y chromosomes](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F50a26403-b1e3-457d-86e8-14a5530b23d1_677x449.png)
+![Early Indo-European cultures and Y chromosomes](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F50a26403-b1e3-457d-86e8-14a5530b23d1_677x449.png)
 
 The thesis then is that a migration of males drove the cultural shift is supported by copious genetic evidence. Data from both [Europe](https://www.pnas.org/doi/full/10.1073/pnas.1616392114) and [India](https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-017-0936-9) indicate that steppe ancestry was brought by males and that the maternal lineage (mtDNA) of modern Europeans and Indians is [predominantly indigenous](https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-017-0936-9). More concretely, the expansion of Indo-Europeans is associated with the spread of two paternal lineages, haplogroup R1b and R1a. Haplogroup R1b appears mostly in Central and Western Europe, while haplogroup R1a is today found in Eastern Europe, and across the Indo-Iranian world. The genetic separation between European and Indo-Iranian R1a lineages dates to about 3500 BC, suspiciously close to when the Yamnaya seem to have adopted nomadism.
 
@@ -99,7 +127,7 @@ But perhaps the most striking thing about R1a and R1b is that these lineages fou
 
 To the victors go the spoils, indeed.
 
-![**Credit**: Punctuated bursts in human male demography inferred from 1,244 worldwide Y-chromosome sequences](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd204af3-e6db-4a45-8e2f-8e28daff8d00_1088x1556.png)
+![**Credit**: Punctuated bursts in human male demography inferred from 1,244 worldwide Y-chromosome sequences](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd204af3-e6db-4a45-8e2f-8e28daff8d00_1088x1556.png)
 
 ### **Creative destruction**
 
@@ -121,7 +149,26 @@ In the new age after the dark receded, the brutal barbarism wrought by the *kory
 
 **Subscribe**
 
-[9](https://razib.substack.com/p/casting-out-the-wolf-in-our-midst/comments)
+[](https://razib.substack.com/p/casting-out-the-wolf-in-our-midst/comments)
 
-[Share](javascript:void(0))
+15
 
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1e7bafe1-3cb5-4bb2-ab89-e7a66940866f_1024x577.jpeg)
+
+Casting out the wolf in our midst
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

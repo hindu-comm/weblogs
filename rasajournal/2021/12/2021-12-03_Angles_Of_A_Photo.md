@@ -9,9 +9,9 @@ Source: [here](https://rasajournal.substack.com/p/angles-of-a-photo).
 
 Angles Of A Photo 
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F65c3d3a8-d4a3-405c-b0ed-09745effa342_1809x706.jpeg)
 
 Angles Of A Photo
 
@@ -29,15 +29,39 @@ Email
 
 ### How does the visual medium shape cultural narratives?
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2493377a-60dd-44d9-a41e-4aff3778a15c_660x1006.jpeg)](https://substack.com/profile/4266017-garima?utm_source=author-byline-face)
+
+[Garima](https://substack.com/profile/4266017-garima)
+
+Dec 3, 2021
+
+3
+
+[](https://rasajournal.substack.com/p/angles-of-a-photo/comments)[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F65c3d3a8-d4a3-405c-b0ed-09745effa342_1809x706.jpeg)
+
+Angles Of A Photo
+
+rasajournal.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
 
 In 2017, the New York Times commissioned a [photo essay](https://www.nytimes.com/2017/05/06/style/capturing-the-colorful-style-of-punjab-india.html) about life in Punjab’s Amritsar to a photographer based in Brooklyn, New York City, N.Y. The article begins with informing us how the shutterbug, Mark Hartman, is fascinated by Nihang Sikhs and yet none of the fifteen photos that comprise the essay show us a Nihang Sikh. Instead, what we get is parachute photojournalism that is neither visually appealing nor offers an insightful narrative.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0570ce41-e023-40a7-8748-4d8808e6bf75_753x655.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0570ce41-e023-40a7-8748-4d8808e6bf75_753x655.jpeg)
 
 *A screengrab of a photo and its caption from the essay.*
 
-The average pay rate for such a publication is anything between $500-1000 and can go even higher. There are perhaps hundreds of teenaged photographers in Punjab itself who could have done a much better job for a much lower price. Photojournalism and creative photography related to India such as this one is not uncommon. It is, in fact, more mainstream, especially when it comes to prominent international and sometimes even national publications.
+The average pay rate for such a publication is anything between \$500-1000 and can go even higher. There are perhaps hundreds of teenaged photographers in Punjab itself who could have done a much better job for a much lower price. Photojournalism and creative photography related to India such as this one is not uncommon. It is, in fact, more mainstream, especially when it comes to prominent international and sometimes even national publications.
 
 Is it a logistics problem (“how will an editor in U.S find a local photographer across continents"), a publishing standard problem (“an American editor needs a photographer who can understand the American audience”), or something else? And most importantly, why do we see it replicated in India?
 
@@ -55,15 +79,15 @@ Among other reasons, she mentions lack of enough money to sustain a comfortable 
 
 In 2018, the editor-in-chief at National Geographic, Susan Goldberg, penned a [note](https://www.nationalgeographic.com/magazine/article/from-the-editor-race-racism-history) in which she acknowledged the magazine’s reportage as having been racist. The magazine launched in 1888 has been the undisputed leader in travel and culture journalism but has consistently featured photos along with captions such as this one.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8f4c6e83-d61a-4c7d-8278-aa0ec51cef89_1037x766.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8f4c6e83-d61a-4c7d-8278-aa0ec51cef89_1037x766.jpeg)
 
 *A screengrab from Susan Goldberg’s note*.
 
 Goldberg seemed earnest in her self-reflection and hoped her successors would be able to look at the magazine’s work during her time more favorably. Has anything changed since then? Sample the two screengrabs from recent posts on Nat Geo’s Instagram account.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4caafa4-fdb9-497e-a124-46c95c812d3a_1860x785.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4caafa4-fdb9-497e-a124-46c95c812d3a_1860x785.jpeg)
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc725bd6f-149d-480c-af47-9fef2e53f460_1889x815.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc725bd6f-149d-480c-af47-9fef2e53f460_1889x815.jpeg)
 
 Now while these photos, along with their captions, may reflect a particular reality in both Switzerland and Afghanistan, the question is whether these are the only realities of the countries in question? Obviously not but the magazine, even though it managed to adapt to the digital medium and latest platforms, clearly hasn’t caught up with the times when it comes to its photos despite ample self-awareness. However, Karat says that the National Geographic Society, which functions separately than the company’s magazine and shows, has done great work in walking the talk.
 
@@ -79,7 +103,7 @@ Citing the example of Nagaland’s Konyak tribe, which has often been featured i
 
 Indian photographers, he says, don’t focus on the reporting which is essential for a good caption. It is a caption that tells us more about the ‘subject’— age, name, profession, and the story behind the image. The caption, then, is what makes the photo worth its thousand words. “We have to brief photographers on this, we talk to them about how to see the environment around them,” he adds.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F65c3d3a8-d4a3-405c-b0ed-09745effa342_1809x706.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F65c3d3a8-d4a3-405c-b0ed-09745effa342_1809x706.jpeg)
 
 *A screengrab from Sahapedia’s photo essay— Breaking the Race Barrier: Sports Culture among the Siddis*.
 
@@ -87,13 +111,13 @@ Ghosh enlisted Indrajit Khambe, a photographer based in a small town near the Go
 
 “We didn’t want to exoticize them as their story is already known,” he says. Eventually both he and Khambe zeroed in on the community’s sporting culture. The [photo essay](https://www.sahapedia.org/breaking-race-barrier-sports-culture-among-siddis), then, not only shows us that particular aspect but does it with familiarity and intimacy to the point that they feel relatable rather than just ‘subjects’. Similarly, with a [photo essay](https://www.sahapedia.org/cobra-catchers-kalbeliya-nomads-rajasthan) about snake charmers, we see a deftness in dealing with tricky topics. “It was a challenge to look at snake charmers in a way that was not colonial,” Ghosh admits.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7645a38-c226-4543-8d61-489b12894ab0_1800x741.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7645a38-c226-4543-8d61-489b12894ab0_1800x741.jpeg)
 
 *A screengrab from Sahapedia’s photo essay— Cobra Catchers: Kalbeliya Nomads of Rajasthan.*
 
 Done as sponsored content by the Indian Premier League’s Rajasthan Royals cricket team, it manages to turn the Indian snake charmer stereotype on its head and present an insightful narrative. Among other things, it tells us that snake charmers were actually snake catchers who lived as nomads because they were not allowed to live in villages owing to their caste and work. Their job was to catch snakes in the village and release them into the wild and so in doing so, they played the role of conservationists rather than mystical entertainers. In 1972, the Kalbeliya community faced an existential crisis and they had to adapt by performing as dancers and entertainers at events. Some of them even have their own bands that are hired for weddings.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4a2a6dc-db9c-4943-93d0-0b502da71f13_1810x759.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4a2a6dc-db9c-4943-93d0-0b502da71f13_1810x759.jpeg)
 
 *A screengrab from Sahapedia’s photo essay— The Amaibis of Manipur: Gender-fluid Priestesses of the Sanamahi Religion.*
 
@@ -105,5 +129,22 @@ At times, that can go wrong as well. Souvid Datta, a British Indian photojournal
 
 Both Karat and Ghosh acknowledge how common it can be to see Indian photojournalists and photographers cater to the biases of international publications, organizations in order to win fellowships, grants, and of course, the recognition. Both feel that in order for things to get better, the onus lies on Indian photojournalists, photographers, editors and other stakeholders to present their stories with more depth and investing in their visual narratives.
 
-|                                                                          |                             | |--------------------------------------------------------------------------|-----------------------------| | [Comment](https://rasajournal.substack.com/p/angles-of-a-photo/comments) | [Share](javascript:void(0)) |
+[](https://rasajournal.substack.com/p/angles-of-a-photo/comments)[](javascript:void(0))
 
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F65c3d3a8-d4a3-405c-b0ed-09745effa342_1809x706.jpeg)
+
+Angles Of A Photo
+
+rasajournal.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

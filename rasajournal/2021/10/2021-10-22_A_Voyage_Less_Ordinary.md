@@ -9,9 +9,9 @@ Source: [here](https://rasajournal.substack.com/p/a-voyage-less-ordinary).
 
 A Voyage Less Ordinary 
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2987ecbf-9510-4bd7-9b40-6fdab2776544_570x350.jpeg)
 
 A Voyage Less Ordinary
 
@@ -29,7 +29,35 @@ Email
 
 ### The journey of the Indo-Caribbean community, V.S Naipaul, and the question of identity.
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2493377a-60dd-44d9-a41e-4aff3778a15c_660x1006.jpeg)](https://substack.com/profile/4266017-garima?utm_source=author-byline-face)
+
+[Garima](https://substack.com/profile/4266017-garima)
+
+Oct 22, 2021
+
+6
+
+[](https://rasajournal.substack.com/p/a-voyage-less-ordinary/comments)
+
+2
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2987ecbf-9510-4bd7-9b40-6fdab2776544_570x350.jpeg)
+
+A Voyage Less Ordinary
+
+rasajournal.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
 
 *‘Jimmy! Jimmy! Jimmy!’*
 
@@ -39,13 +67,13 @@ So crooned Parvati Khan for the Bollywood superstar, Mithun Chakraborty, for his
 
 It is a tragic irony that the story of the Indo-Caribbean community begins after the abolition of slavery in European colonies in 1833. The wealthy sugarcane plantation owners still needed workers and the solution came from [Sir John Gladstone](https://www.bl.uk/windrush/articles/indenture-to-windrush) who had plantations in Jamaica and Guyana. It was him who wrote to a firm in Kolkata, then Calcutta, Gillanders Arbuthnot & Co, if they could arrange indentured labourers to work in West Indies after noting the firm’s success in Mauritius. They responded in affirmative and declared that the potential recruits had nothing better to do than eating, sleeping, and drinking, and were ‘more akin to the monkey than the man’. This dehumanization would go on to shape the experiences of these immigrants for a very long time.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F81f7f74a-cb56-4f97-a532-bf1593188ade_525x700.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F81f7f74a-cb56-4f97-a532-bf1593188ade_525x700.jpeg)
 
 *“Coolie Women”, India, 1855-1862.DeGolyer Library, Southern Methodist University.*  
   
 Between 1838 and 1917, over one million Indian immigrants were taken from villages of Uttar Pradesh, Bihar, and Tamil Nadu, for indentured labourership. These included Hindus across castes and Muslims as well. They were often called Girmityas after the term, *girmit*, which was the Indian way of pronouncing the word, agreement. More pejoratively, they were called [Coolies](https://scroll.in/article/984271/a-womans-account-from-1800s-reveals-the-plight-of-indian-indentured-labour-in-the-caribbean). These immigrants, however, often did not know that they were migrating to a different country. “Some thought they were leaving Calcutta and going to Madras or Mauritius,” says Vinay Harrichan, 24, host and producer of [The Cutlass](https://open.spotify.com/show/2cttZyYZl9rsYThDdhfUbv?si=PGXA9WjLSzyVVEEKOjXvzA&nd=1) podcast, which focuses on the history and experiences of the Indo-Caribbean community. “For a lot of them, Trinidad sounded like Chinidad, as in *chini* for sugar, and Suriname was the land of Sri Ram to them,” he explains. “They thought they would be able to bring back riches and gold for their families and that they were going away for only a few years,” he adds. This deception was intentionally fueled by the recruits who brought these villagers to Calcutta. Some were even kidnapped and forced to go against their will.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F77ae56d3-9ab5-4550-93ca-6b3c68e921a6_528x446.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F77ae56d3-9ab5-4550-93ca-6b3c68e921a6_528x446.jpeg)
 
 *Indentured Labourers preparing rice, Jamaica, 1890-1899. DeGolyer Library, Southern Methodist University.*
 
@@ -57,7 +85,7 @@ The indentured labourers were mostly illiterate and worked in hard conditions. M
 
 Harrichan, who is an engineer by profession but an archivist and linguist by passion, believes that all of this became more of a reason for them to hold on to their Indian and predominantly Hindu identity. “A lot of times the indentured labourers were not allowed to leave their villages (in the Caribbean) and so because of that, they developed a common language and practiced their religion,” he adds, “I have interviewed people in their 80s and 90s and they talk about how Indian people would light a torch and use the fire to be able to read the Ramayana at the night after working the entire day in the fields”. They would sometimes even fashion musical instruments out of matchboxes and sing Bhajans and folk songs under trees in order to bond with one another.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2987ecbf-9510-4bd7-9b40-6fdab2776544_570x350.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2987ecbf-9510-4bd7-9b40-6fdab2776544_570x350.jpeg)
 
 *Indo-Caribbeans celebrating their Indian heritage through music and dance in the 19th century.*
 
@@ -67,11 +95,11 @@ However, they were also prudent enough to let go of orthodox Hindu practices, es
 
 “They let go of what didn’t aid their survival but they held on to their food, music, culture, and religion,” Harrichan says. “Practicing their culture was their way to rebel, their way to survive,” he adds. A particularly vibrant way in which Indian culture thrived in the Caribbean is in form of what is known as the Chutney music. It started out as the Bhojpuri version of pre-wedding songs sung by ladies on both the groom’s and the bride’s side. Anyone who has ever heard one of those will attest to their naughty or *nok-jhok* nature and it was this spiciness that got them termed as Chutney. What followed was Chutney Soca. It was supposed to be written as Sokah, where So represented the African Calypso elements whereas Kah symbolized Indian influences as the first alphabet in Hindi is Ka.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb976337-0363-4892-8b31-275d9f366f2e_640x640.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb976337-0363-4892-8b31-275d9f366f2e_640x640.jpeg)
 
 [Sundar Popo](https://www.youtube.com/watch?v=nPCJqqYCXBs), an Indian musician from Trinidad and Tobago, is credited with being the father of this genre of music. These songs have Indian lyrics, which includes Bhojpuri and Bollywood influences, but also include Calypso beats and rhythms. These songs could be much raunchier than your average Ladies Sangeet but they drove the Indian crowds in the region crazy. They felt so authentically Bhojpuri that even Gangs Of Wasseypur (Part 2), which is set in Bihar and Varanasi, featured a Chutney song, [Electric Piya](https://www.caribbeanreview.org/2017/08/when-chutney-goes-bollywood/), by a Chutney singer, Rasika Dindial. The song is a variation of a 1950s song of the genre, Bhabhana Aawe Jaaye, originally sung by a Surinamese Indian singer, Ramdew Chaitoe.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fda9b9241-2266-40c3-b14c-e9e3659c999b_464x462.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fda9b9241-2266-40c3-b14c-e9e3659c999b_464x462.jpeg)
 
 *The logo of The Cutlass, a podcast about the Indo-Caribbean community by Vinay Harrichan.*
 
@@ -87,7 +115,7 @@ And then, there was V.S Naipaul.
 
 A man celebrated for his [literary brilliance](https://www.nobelprize.org/prizes/literature/2001/naipaul/facts/), he was decidedly ill at ease with his cultural and national identities. He disowned his home country of Trinidad and Tobago, was majorly disappointed in his ancestral country of India, and finally took refuge in the country of his colonizers of United Kingdom. His poignant explorations of identity, however, still have much to offer to India and Indians at large.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4da03087-c372-488f-8f55-7349e0a70db6_2048x1366.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4da03087-c372-488f-8f55-7349e0a70db6_2048x1366.jpeg)
 
 *V.S Naipaul in 1991, New York Times.*
 
@@ -99,5 +127,26 @@ Naipaul grew up in the post-indentureship period in an influential family but wa
 
 Looking at how the unlikely voyage of the indentured labourers in 19th century has evolved into the Indo-Caribbean community as well as the its diasporas across the West, it won’t be amiss to conclude that identity is a constant interplay of fluid influences and fixed foundations. Where the former helped the community evolve and stay relevant locally on a cultural, social, and political level, the latter helped them survive on a much deeper existential level.
 
-|                                                                         |                             | |-------------------------------------------------------------------------|-----------------------------| | [2](https://rasajournal.substack.com/p/a-voyage-less-ordinary/comments) | [Share](javascript:void(0)) |
+[](https://rasajournal.substack.com/p/a-voyage-less-ordinary/comments)
 
+2
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2987ecbf-9510-4bd7-9b40-6fdab2776544_570x350.jpeg)
+
+A Voyage Less Ordinary
+
+rasajournal.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

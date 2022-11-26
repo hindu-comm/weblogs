@@ -72,6 +72,8 @@ become shahids to expand the Umma. If one looks harder, this analogy
 is not a merely chance coincidence but a time tested model inherited  
 by the ISI quite directly from their Kilafat precursors.
 
+Advertisement
+
 **Category:**
 
 [Uncategorized](https://musingsofhh.wordpress.com/category/uncategorized/)
@@ -80,7 +82,7 @@ by the ISI quite directly from their Kilafat precursors.
 
 **Tagged with:**
 
--   [europe](https://musingsofhh.wordpress.com/tag/europe/) -   [hindus](https://musingsofhh.wordpress.com/tag/hindus/) -   [islam](https://musingsofhh.wordpress.com/tag/islam/) -   [jihad](https://musingsofhh.wordpress.com/tag/jihad/) -   [kafir](https://musingsofhh.wordpress.com/tag/kafir/) -   [marathas](https://musingsofhh.wordpress.com/tag/marathas/) -   [mogols](https://musingsofhh.wordpress.com/tag/mogols/) -   [mughal](https://musingsofhh.wordpress.com/tag/mughal/) -   [ottoman](https://musingsofhh.wordpress.com/tag/ottoman/) -   [sikhs](https://musingsofhh.wordpress.com/tag/sikhs/) -   [yenicheri](https://musingsofhh.wordpress.com/tag/yenicheri/)
+- [europe](https://musingsofhh.wordpress.com/tag/europe/) - [hindus](https://musingsofhh.wordpress.com/tag/hindus/) - [islam](https://musingsofhh.wordpress.com/tag/islam/) - [jihad](https://musingsofhh.wordpress.com/tag/jihad/) - [kafir](https://musingsofhh.wordpress.com/tag/kafir/) - [marathas](https://musingsofhh.wordpress.com/tag/marathas/) - [mogols](https://musingsofhh.wordpress.com/tag/mogols/) - [mughal](https://musingsofhh.wordpress.com/tag/mughal/) - [ottoman](https://musingsofhh.wordpress.com/tag/ottoman/) - [sikhs](https://musingsofhh.wordpress.com/tag/sikhs/) - [yenicheri](https://musingsofhh.wordpress.com/tag/yenicheri/)
 
 **[Amir Khusroo the sUfi’s Jihadistprose](https://musingsofhh.wordpress.com/2011/09/23/amir-khusroo-the-sufis-jihadist-prose/)**
 

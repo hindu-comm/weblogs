@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/dragon-man-ascending-two-geneticists
 
 Razib Khan's Unsupervised Learning
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7006e54a-20dd-4856-b72e-252de5dcd49c_1200x675.jpeg)
 
 Dragon Man ascending: two geneticists discuss the latest paleoanthropological discoveries
 
@@ -25,17 +25,13 @@ Facebook
 
 Email
 
-![](https://substackcdn.com/image/fetch/w_512,h_512,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7006e54a-20dd-4856-b72e-252de5dcd49c_1200x675.jpeg)
+![](https://substackcdn.com/image/fetch/w_512,h_512,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2c48569f-373c-4d04-96a3-1aad755a419b_3000x3000.png)
 
 Jul 1, 2021 • 1HR 2M
 
 # Dragon Man ascending: two geneticists discuss the latest paleoanthropological discoveries
 
 ### A conversation with Vagheesh Naramsimhan
-
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
-
-[Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
 Jul 1, 2021
 
@@ -48,6 +44,8 @@ Jul 1, 2021
 [](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7006e54a-20dd-4856-b72e-252de5dcd49c_1200x675.jpeg)
 
 Dragon Man ascending: two geneticists discuss the latest paleoanthropological discoveries
 
@@ -72,6 +70,12 @@ Email
 Open in playerListen on
 
 Audio playback is not supported on your browser. Please upgrade.
+
+#### Appears in this episode
+
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face-podcast)
+
+Razib Khan
 
 Conversations about science, culture, and current affairs
 
@@ -103,35 +107,33 @@ Both of us agreed that we can’t conclude Dragon Man is closest to modern human
 
 **Past paleoanthropology podcasts:**
 
--   [Chris Stringer: 1,000,000 years of human
-    evolution](https://podcasts.apple.com/au/podcast/chris-stringer-1-000-000-years-of-human-evolution/id1542136715?i=1000516463718)
+- [Chris Stringer: 1,000,000 years of human
+  evolution](https://podcasts.apple.com/au/podcast/chris-stringer-1-000-000-years-of-human-evolution/id1542136715?i=1000516463718)
 
--   [Chris Stringer on paleoanthropology in
-    2020](https://podcasts.apple.com/ca/podcast/chris-stringer-on-paleoanthropology-in-2020/id1324744423?i=1000474609717)
+- [Chris Stringer on paleoanthropology in
+  2020](https://podcasts.apple.com/ca/podcast/chris-stringer-on-paleoanthropology-in-2020/id1324744423?i=1000474609717)
 
--   [Chris Stringer and The Human
-    Revolution](https://podcasts.apple.com/ca/podcast/chris-stringer-and-the-human-revolution/id1324744423?i=1000404302261)
+- [Chris Stringer and The Human
+  Revolution](https://podcasts.apple.com/ca/podcast/chris-stringer-and-the-human-revolution/id1324744423?i=1000404302261)
 
--   [Multiregionalism is Dead...Long Live
-    Multiregionalism!](https://insitome.libsyn.com/multiregionalism-is-deadlong-live-multiregionalism)
+- [Multiregionalism is Dead...Long Live
+  Multiregionalism!](https://insitome.libsyn.com/multiregionalism-is-deadlong-live-multiregionalism)
 
--   [A conversation with John Hawks: a life in
-    paleoanthropology](https://unsupervisedlearning.libsyn.com/category/Human+Evolution)
+- [A conversation with John Hawks: a life in
+  paleoanthropology](https://unsupervisedlearning.libsyn.com/category/Human+Evolution)
 
--   John Hawks on Neanderthals:[part
-    1](https://podcasts.apple.com/ie/podcast/neander-me-part-1/id1324744423?i=1000399026557),[part
-    2](https://podcasts.apple.com/ie/podcast/neander-me-part-2/id1324744423?i=1000399569917)
+- John Hawks on Neanderthals:[part
+  1](https://podcasts.apple.com/ie/podcast/neander-me-part-1/id1324744423?i=1000399026557),[part
+  2](https://podcasts.apple.com/ie/podcast/neander-me-part-2/id1324744423?i=1000399569917)
 
--   [Lee Berger and the Dawn of "Big Data" in
-    Paleoanthropology](https://insitome.libsyn.com/lee-berger-and-the-dawn-of-big-data-in-paleoanthropology)
+- [Lee Berger and the Dawn of "Big Data" in
+  Paleoanthropology](https://insitome.libsyn.com/lee-berger-and-the-dawn-of-big-data-in-paleoanthropology)
 
 **Subscribe**
 
 [Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
 
 [Share](https://razib.substack.com/p/dragon-man-ascending-two-geneticists?utm_source=substack&utm_medium=email&utm_content=share&action=share)
-
-Like this post
 
 [](https://razib.substack.com/p/dragon-man-ascending-two-geneticists/comments)
 
@@ -140,6 +142,8 @@ Like this post
 [](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7006e54a-20dd-4856-b72e-252de5dcd49c_1200x675.jpeg)
 
 Dragon Man ascending: two geneticists discuss the latest paleoanthropological discoveries
 
@@ -153,3 +157,4 @@ Facebook
 
 Email
 
+Like this post

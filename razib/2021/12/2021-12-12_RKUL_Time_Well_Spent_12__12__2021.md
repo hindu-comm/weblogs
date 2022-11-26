@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/rkul-time-well-spent-12122021).
 
 RKUL: Time Well Spent 12/12/2021
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa351b685-1c53-4071-a306-de701fa2ab91_1024x576.jpeg)
 
 RKUL: Time Well Spent 12/12/2021
 
@@ -29,9 +29,37 @@ Email
 
 ### Recommendations for everything, Solstice edition
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa351b685-1c53-4071-a306-de701fa2ab91_1024x576.jpeg)
+[Razib Khan](https://substack.com/profile/1400665-razib-khan)
+
+Dec 12, 2021
+
+16
+
+[](https://razib.substack.com/p/rkul-time-well-spent-12122021/comments)
+
+7
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa351b685-1c53-4071-a306-de701fa2ab91_1024x576.jpeg)
+
+RKUL: Time Well Spent 12/12/2021
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa351b685-1c53-4071-a306-de701fa2ab91_1024x576.jpeg)
 
 **Subscribe**
 
@@ -43,7 +71,7 @@ Your time is finite. Your phone and the internet stand ready to help you squande
 
 Recently someone asked me if it was worth reading [David Anthony’s](https://unsupervisedlearning.libsyn.com/david-anthony-the-origin-of-indo-europeans) *[The Horse, the Wheel, and Language: How Bronze-Age Riders from the Eurasian Steppes Shaped the Modern World](https://www.amazon.com/exec/obidos/ASIN/B003TSEL1Y/geneexpressio-20)* in the interest of understanding the early Indo-Europeans. That would be an emphatic yes from me. The book is nearly fifteen years old now and has since been proven wrong on some details, but qualitatively it’s an incredible resource. I re-read it last spring and gained much from the repeat endeavor. The errors are often simply matters of magnitude. Whereas Anthony hypothesized steppe Indo-Europeans were a small minority of modern European ancestry, ancient DNA indicates they’re closer to 50%. But he completely nails the general dynamic of the cultural and linguistic hurricane that exploded out of the steppe.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5c8d0bee-5a85-4112-a256-d10c19bb6467_893x183.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5c8d0bee-5a85-4112-a256-d10c19bb6467_893x183.jpeg)
 
 If you want something more recent and are not intimidated by an academically dense compilation of essays, *[Tracing the Indo-Europeans: New evidence from archaeology and historical linguistics](https://www.amazon.com/exec/obidos/ASIN/B07W7Z8J2L/geneexpressio-20)* is the book for you. It has chapters on topics as diverse as yogic ideas in early Sweden and dog sacrifice in ancient Kazakhstan. [Thomas Olander’s](https://unsupervisedlearning.libsyn.com/thomas-olander-the-origin-and-spread-of-indo-european-languages) introductory chapter is also a must-read on the state of Indo-European historical linguistics in 2021.
 
@@ -51,7 +79,7 @@ If you want something more recent and are not intimidated by an academically den
 
 The above texts are broad works that cover much of Eurasia. It’s often worth focusing on narrower regions to flesh out dynamics in detail. Today the Indian subcontinent is dominated in various ways by Indo-European culture, as over 80% of the inhabitants speak Indo-Aryan languages. The dominant religion, Hinduism, still contains within it ancient and holy texts, the Vedas, that crystallized and recall ancestral steppe culture. It is through Hinduism that many of the cultural practices of steppe Indo-Europeans, like the ritual of horse sacrifice in all its peculiar detail, otherwise only faintly visible in isolated fragments of European folklore, are preserved. And yet today India, unlike Europe, has hundreds of millions of indigenous non-Indo-European speakers, those speaking the south’s numerous Dravidian languages. Peggy Mohan’s *[Wanderers, Kings, Merchants](https://www.amazon.com/exec/obidos/ASIN/0670093688/geneexpressio-20)* tackles this reality, exploring thousands of years of the interplay between Indo-Aryan and Dravidian languages, and in particular Sanskrit and the languages it may have encountered during the Aryan migration into the subcontinent. Mohan focuses a great deal on “retroflex consonants,” which span Indo-Aryan and Dravidian language families and even extend to eastern Iranian languages like Pashto and the dialects of the Andamanese.
 
-If Sanskrit is the ancient Indo-European language of the east, Greek is the western equivalent. Because of the emphasis on fidelity of oral mantras, the Indo-Aryans may have recited the Vedas in a fossilized form of Sanskrit for 1,000 years before they were written down. For Greek, we have Linear-B tablets that go back to 1400 BC. Robert Drews’ *[Coming of the Greeks](https://www.amazon.com/exec/obidos/ASIN/0691029512/geneexpressio-20)* is a bit dated and wrong in many details ([ancient DNA](https://www.sciencedirect.com/science/article/pii/S0092867421003706) now implies Greeks arrived 500 years before Drews’ hypothesis), but I believe it gets many of the dynamics of the intrusion of the people who became the Hellenes correct. While the Indo-Aryans were absorbed into a Bronze-Age Indic world that preceded them, the Greeks fused with indigenous Mediterranean people. These represent two independent experiments in synthesis between the steppe and the civilizations of the Eurasian *[oikumene](https://en.wikipedia.org/wiki/Ecumene#Greece).*
+If Sanskrit is the ancient Indo-European language of the east, Greek is the western equivalent. Because of the emphasis on fidelity of oral mantras, the Indo-Aryans may have recited the Vedas in a fossilized form of Sanskrit for 1,000 years before they were written down. For Greek, we have Linear-B tablets that go back to 1400 BC. Robert Drews’ *[Coming of the Greeks](https://www.amazon.com/exec/obidos/ASIN/0691029512/geneexpressio-20) *is a bit dated and wrong in many details ([ancient DNA](https://www.sciencedirect.com/science/article/pii/S0092867421003706) now implies Greeks arrived 500 years before Drews’ hypothesis), but I believe it gets many of the dynamics of the intrusion of the people who became the Hellenes correct. While the Indo-Aryans were absorbed into a Bronze-Age Indic world that preceded them, the Greeks fused with indigenous Mediterranean people. These represent two independent experiments in synthesis between the steppe and the civilizations of the Eurasian *[oikumene](https://en.wikipedia.org/wiki/Ecumene#Greece).*
 
 If you read my recent [Dark Horse out of the Steppe](https://razib.substack.com/p/dark-horse-out-of-the-steppe), you know that the Scythians were introduced to the civilized world in large part through the Greeks. My source for many elements of the post is Barry Cunliffe’s *[The Scythians: Nomad Warriors of the Steppe](https://www.amazon.com/exec/obidos/ASIN/B07SD6ZYN5/geneexpressio-20)*. His is mostly a work of archaeology and biogeography when focused on the Scythians, but there is a great deal of history from the viewpoint of the people liminal to these steppe warriors. This is the book you want to read to bridge the period between what Anthony covers, and the “real history” of the Iron Age 2,000 years ago.
 
@@ -124,22 +152,21 @@ All my podcasts go [ungated](https://unsupervisedlearning.libsyn.com/) two weeks
 
 Here are my guests since the last Time Well Spent:
 
--   [Timothy B Lee: reporting on the intersection between policy and
-    economics](https://razib.substack.com/p/timothy-b-lee-reporting-on-the-intersection)
+- [Timothy B Lee: reporting on the intersection between policy and
+  economics](https://razib.substack.com/p/timothy-b-lee-reporting-on-the-intersection)
 
--   [Charles C. Mann: 1491 fifteen years later Reflections on
-    environmental history over 500
-    years](https://razib.substack.com/p/charles-c-mann-1491-to-2021)
+- [Charles C. Mann: 1491 fifteen years later Reflections on
+  environmental history over 500
+  years](https://razib.substack.com/p/charles-c-mann-1491-to-2021)
 
--   [Megan McArdle: Escape from New
-    York](https://razib.substack.com/p/megan-mcardle-escape-from-new-york)
+- [Megan McArdle: Escape from New
+  York](https://razib.substack.com/p/megan-mcardle-escape-from-new-york)
 
--   [Xiaotong Yao: a Chinese biologist in
-    America](https://razib.substack.com/p/xiaotong-yao-a-chinese-biologist)
+- [Xiaotong Yao: a Chinese biologist in
+  America](https://razib.substack.com/p/xiaotong-yao-a-chinese-biologist)
 
--   And here are the [currently ungated
-    podcasts](https://unsupervisedlearning.libsyn.com/) all in one
-    place.
+- And here are the [currently ungated
+  podcasts](https://unsupervisedlearning.libsyn.com/) all in one place.
 
 For subscribers, I’m now posting transcripts (automatically generated, though I have someone going through to catch errors).
 
@@ -147,7 +174,7 @@ For subscribers, I’m now posting transcripts (automatically generated, though 
 
 And you don’t have to because my kids go to American public schools. At this point, I think the kids just find it cathartic to show us the horrors they’re asked to slog through. They now come to us routinely to say, “Look at this one! Do you want me to screen-cap it for Substack?” Here in an English lesson, within a very small amount of text, not only do you have “a part” for “apart” the original reason the kid came to us skeptical, you get “the miser” vs. “the Miser” vs. “the Mister” and multiple other crimes against punctuation and grammar.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ae1e1d0-5fda-4ab8-952c-cf9b6252ef62_800x530.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8ae1e1d0-5fda-4ab8-952c-cf9b6252ef62_800x530.jpeg)
 
 ### **ICYMI**
 
@@ -169,5 +196,26 @@ Comments are open to all for this post, so if you have more reading/listening su
 
 [Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
 
-|                                                                          |                             | |--------------------------------------------------------------------------|-----------------------------| | [7](https://razib.substack.com/p/rkul-time-well-spent-12122021/comments) | [Share](javascript:void(0)) |
+[](https://razib.substack.com/p/rkul-time-well-spent-12122021/comments)
 
+7
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa351b685-1c53-4071-a306-de701fa2ab91_1024x576.jpeg)
+
+RKUL: Time Well Spent 12/12/2021
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

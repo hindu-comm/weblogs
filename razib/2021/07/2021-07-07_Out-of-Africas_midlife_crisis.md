@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/out-of-africas-midlife-crisis).
 
 Out-of-Africa's midlife crisis
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff478f560-91c3-45de-a9c6-4ce13ed3b0c0_1024x719.jpeg)
 
 Out-of-Africa's midlife crisis
 
@@ -29,9 +29,37 @@ Email
 
 ### on bottlenecks, crashes and what diversity really looks like
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff478f560-91c3-45de-a9c6-4ce13ed3b0c0_1024x719.jpeg)
+[Razib Khan](https://substack.com/profile/1400665-razib-khan)
+
+Jul 7, 2021
+
+53
+
+[](https://razib.substack.com/p/out-of-africas-midlife-crisis/comments)
+
+12
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff478f560-91c3-45de-a9c6-4ce13ed3b0c0_1024x719.jpeg)
+
+Out-of-Africa's midlife crisis
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff478f560-91c3-45de-a9c6-4ce13ed3b0c0_1024x719.jpeg)
 
 **Subscribe**
 
@@ -57,13 +85,13 @@ Here is how the groups break down:
 
 Alone on our planet today, those maybe half a million very-diverse souls hint at our species’ one-time amazing levels of genetic diversity. In our DNA, we all contain multitudes. But once, we all contained mega-multitudes. Only the very-diverse retain much of it today.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbea4d3ba-4ebb-467c-af32-8d91e2b12e89_844x362.png)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbea4d3ba-4ebb-467c-af32-8d91e2b12e89_844x362.png)
 
 ### **The genes must be crazy: genetically very-diverse humans**
 
 The very-diverse are hunter-gatherer populations who live in clusters scattered across Central and Southern Africa, in Namibia, Botswana, the Congo and a dozen other nations. They include the Khoi, the San, the Mbuti, the Mbenga, the Twa and the Hadza. Inside their DNA, they carry such a dazzling diversity of single-nucleotide-polymorphisms (SNPS), that even two San from different groups both living in Namibia’s Northern Kalahari desert, and speaking click languages from the same family, are more [genetically distinct](https://www.nature.com/articles/nature08795) from one another, by a solid 20%, than a person from Stockholm is from a person from Shanghai. That is, they average a rate of 1.2 nucleotide differences per kilobase (1000 SNPs), where a Northern European and Chinese person differ from each other at a rate of only one difference per kilobase. And the San in this example were both from the Kalahari; imagine comparing samples from peoples who live thousands of miles apart!
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2d29022-fc29-4e13-a7b8-4c30d9bb6f40_1200x674.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2d29022-fc29-4e13-a7b8-4c30d9bb6f40_1200x674.jpeg)
 
 ### **The DNA results are in. You are.... NOT genetically diverse (all 7.7 billion of you)**
 
@@ -75,7 +103,7 @@ In the case of the *very*-not-diverse (fully 6.42 billion-ish of us), our models
 
 Those 1,000-10,000 human beings who made it through their ordeal, smuggled out in their nuclei all the genetic diversity 6.42 billion *very*-not-diverse humans among us today would have to draw on ever after. Take a native each from say Santa Fe, Stockholm, Shanghai, Ulaanbaatar in Mongolia, Uluru in the Australian outback and a [Sentinelese](https://en.wikipedia.org/wiki/Sentinelese) person from the [Andaman Islands](https://en.wikipedia.org/wiki/Andamanese_peoples) and you behold a little of the amazing superficial variety of the human race. They and their relatives have peopled almost every corner of the earth. They speak a riot of different languages and they look nothing like one another. And yet, aside from a dash of [Denisovan](https://en.wikipedia.org/wiki/Denisovan) here and a trace of [Neanderthal](https://en.wikipedia.org/wiki/Interbreeding_between_archaic_and_modern_humans#Neanderthals) there, as far as we can tell, they all trace the entirety of their ancestry back to a single founder event about 60,000 years ago. An event when just a tiny subsample of 1,000-10,000 humans of that day passed through a brutal, extended bottleneck. Whether it was in Africa or just after leaving the continent, they burst out of that dire strait and re-peopled the globe.
 
-![This is not what genetic diversity looks like: human faces in Santa Fe NM, Stockholm Sweden, Shanghai China, Ulaanbaatar Mongolia, Uluru Australia and North Sentinel Island.](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fde7c5840-2cb8-47a8-885f-78c11f9ec823_695x114.jpeg)
+![This is not what genetic diversity looks like: human faces in Santa Fe NM, Stockholm Sweden, Shanghai China, Ulaanbaatar Mongolia, Uluru Australia and North Sentinel Island.](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fde7c5840-2cb8-47a8-885f-78c11f9ec823_695x114.jpeg)
 
 But bottlenecks are not rare. They can and do happen to any population, any species. Have you met a bulldog? In the case of humans, we can already tell that the ancestors of all of our extant groups today had to squeeze through bottlenecks somewhere between 60,000 and 120,000 years ago. And not just the *very*-not-diverse. But as you probably already guessed, the *very-*not-diverse got hit the hardest, the very-diverse the least and the not-very-diverse somewhere in between.
 
@@ -97,13 +125,13 @@ Finally, of course, we have that most unique group, our scant half-million genet
 
 **Subscribe**
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F94495c39-e470-4147-abcf-ca546131198a_1600x1042.png)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F94495c39-e470-4147-abcf-ca546131198a_1600x1042.png)
 
 ### **What we thought we knew**
 
 In 2014, Richard Dawkins tweeted a picture of himself in a t-shirt that read “We Are All Africans.” Beside lending fertile basis for a [meme](https://knowyourmeme.com/memes/we-are-all-africans) (fitting, given the source), it is rooted in a central truth that genetics and paleoanthropology both have converged upon over the past 40 years: *Homo sapiens* is a “young” species with origins within the last few hundred thousand years on the continent of Africa.
 
-In 1987, [Allan Wilson](https://en.wikipedia.org/wiki/Allan_Wilson)’s group published a blockbuster result in *[Nature](https://www.nature.com/articles/325031a0)* that gave rise to the popular conception of [Mitochondrial Eve](https://en.wikipedia.org/wiki/Mitochondrial_Eve), the “mother of us all." Spun into a [Nova documentary](https://www.imdb.com/title/tt1457348/), Mitochondrial Eve reflected the discovery that all women could be shown to descend from a common ancestress around 200,000 years ago. This owed to the fact that all direct maternal lineages (recorded in our mitochondrial DNA (mtDNA) which passes from mother to daughter) can be traced back to a common genetic ancestor. Because most of the branches of the family tree of Eve wend their way back into Africa, the continent with the greatest mtDNA diversity, the team was able to conclude that our last common maternal ancestor was an ancient African.
+In 1987, [Allan Wilson](https://en.wikipedia.org/wiki/Allan_Wilson)’s group published a blockbuster result in *[Nature](https://www.nature.com/articles/325031a0) *that gave rise to the popular conception of [Mitochondrial Eve](https://en.wikipedia.org/wiki/Mitochondrial_Eve), the “mother of us all." Spun into a [Nova documentary](https://www.imdb.com/title/tt1457348/), Mitochondrial Eve reflected the discovery that all women could be shown to descend from a common ancestress around 200,000 years ago. This owed to the fact that all direct maternal lineages (recorded in our mitochondrial DNA (mtDNA) which passes from mother to daughter) can be traced back to a common genetic ancestor. Because most of the branches of the family tree of Eve wend their way back into Africa, the continent with the greatest mtDNA diversity, the team was able to conclude that our last common maternal ancestor was an ancient African.
 
 From a [paleontological](https://en.wikipedia.org/wiki/Omo_remains) finding of the earliest anatomically modern human in Ethiopia, the theory was further refined to have Eve living in East Africa. And from there, all of us, her descendants, were imagined to have spread to every corner of the globe. This, in turn, was followed and seemed substantiated by “[Y-chromosomal Adam](https://en.wikipedia.org/wiki/Y-chromosomal_Adam).” As with the mtDNA, the Y phylogeny’s [deepest lineages](https://en.wikipedia.org/wiki/Haplogroup_A_(Y-DNA)#A00) lie within Africa.
 
@@ -115,7 +143,7 @@ In short, the classic model was coming closest to fitting convincingly for non-A
 
 **Subscribe**
 
-![*Plot showing inferred effective population sizes of four human populations over time (running left to right, present to the past, 20,000 years ago to four million years ago) with Khoisan a good proxy for hunter-gatherers and Yoruba for other Sub-Saharan Africans. NB: the period before two million years ago isn’t statistically informative, and actually predates the hominin lineage*](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2123fcc-7a87-47df-b4e1-4415bc955c75_523x315.jpeg)
+![*Plot showing inferred effective population sizes of four human populations over time (running left to right, present to the past, 20,000 years ago to four million years ago) with Khoisan a good proxy for hunter-gatherers and Yoruba for other Sub-Saharan Africans. NB: the period before two million years ago isn’t statistically informative, and actually predates the hominin lineage*](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2123fcc-7a87-47df-b4e1-4415bc955c75_523x315.jpeg)
 
 But even as we home ever closer in on some clarity, we are still left with a host of unsolved mysteries. Why were the ancestors of non-Africans isolated for so long? Were they trapped on the other side of the Sahara from their African kin? If not there, where then? Arabia is another spot we can’t rule out. And why did they begin expanding explosively 60,000 years ago from a very small population? We still don’t know.
 
@@ -186,17 +214,38 @@ Replacement suggestion (and you can see why my t-shirt company went out of busin
 
 **Related:**
 
--   [Here Be Humans, We keep discovering how much less of humanity is…
-    us](https://razib.substack.com/p/here-be-humans)
+- [Here Be Humans, We keep discovering how much less of humanity is…
+  us](https://razib.substack.com/p/here-be-humans)
 
--   [Dragon Man ascending: two geneticists discuss the latest
-    paleoanthropological
-    discoveries](https://razib.substack.com/p/dragon-man-ascending-two-geneticists)
+- [Dragon Man ascending: two geneticists discuss the latest
+  paleoanthropological
+  discoveries](https://razib.substack.com/p/dragon-man-ascending-two-geneticists)
 
--   [Chris Stringer: 1,000,000 years of human
-    evolution](https://razib.substack.com/p/chris-stringer-1000000-years-of-human)
+- [Chris Stringer: 1,000,000 years of human
+  evolution](https://razib.substack.com/p/chris-stringer-1000000-years-of-human)
 
 **Subscribe**
 
-|                                                                           |                             | |---------------------------------------------------------------------------|-----------------------------| | [10](https://razib.substack.com/p/out-of-africas-midlife-crisis/comments) | [Share](javascript:void(0)) |
+[](https://razib.substack.com/p/out-of-africas-midlife-crisis/comments)
 
+12
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff478f560-91c3-45de-a9c6-4ce13ed3b0c0_1024x719.jpeg)
+
+Out-of-Africa's midlife crisis
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

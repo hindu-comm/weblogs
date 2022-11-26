@@ -31,6 +31,8 @@ During the reign of this successor Alp Kuelug Kha’Khan in 839 there was heavy 
 
 In terms of cultural achievements the Uighurs were the most advanced of the peoples of Mongolia. Their unique urban-nomadic civilization, in many ways resembled the early Indo-Iranian states, that were founded millennia earlier, and they were again poised like the Blue Turks to take Turkic civilization to new levels. But they fell to the vicissitudes of the steppes and the Kirghiz promptly returned Mongolia to its old nomadic pastoralism. However, the survivors, of this last great group of literate of Altaic peoples of the early Middle Ages, lived on and passed their script and skills in government to Mongolic tribes of the Khitan and those of Chingiz Kha’Khan, and contributed to their spectacular success.
 
+Advertisement
+
 **Category:**
 
 [Central Asian History](https://musingsofhh.wordpress.com/category/central-asian-history/)
@@ -39,7 +41,7 @@ In terms of cultural achievements the Uighurs were the most advanced of the peop
 
 **Tagged with:**
 
--   [altaic](https://musingsofhh.wordpress.com/tag/altaic/) -   [central asia](https://musingsofhh.wordpress.com/tag/central-asia/) -   [empire](https://musingsofhh.wordpress.com/tag/empire/) -   [History](https://musingsofhh.wordpress.com/tag/history/) -   [mongols](https://musingsofhh.wordpress.com/tag/mongols/) -   [turk](https://musingsofhh.wordpress.com/tag/turk/) -   [uighur](https://musingsofhh.wordpress.com/tag/uighur/)
+- [altaic](https://musingsofhh.wordpress.com/tag/altaic/) - [central asia](https://musingsofhh.wordpress.com/tag/central-asia/) - [empire](https://musingsofhh.wordpress.com/tag/empire/) - [History](https://musingsofhh.wordpress.com/tag/history/) - [mongols](https://musingsofhh.wordpress.com/tag/mongols/) - [turk](https://musingsofhh.wordpress.com/tag/turk/) - [uighur](https://musingsofhh.wordpress.com/tag/uighur/)
 
 **[The death of ChingizKha’Khan](https://musingsofhh.wordpress.com/2011/06/01/the-death-of-chingiz-kha%e2%80%99khan/)**
 

@@ -43,6 +43,8 @@ Another excerpt on Maliq Kafar’s sack of rAmeshvaraM in TN.
 
 Point to note: The trivilization of Hindu Iconography is not recent phenomenon of the missionaries but was also carried out by the Islamist. We all know what the origin of the Linga symbol is, but note how the Islamist delights in specifically vulgarizing it.
 
+Advertisement
+
 **Category:**
 
 [Hindu History](https://musingsofhh.wordpress.com/category/hindu-history/)
@@ -51,7 +53,7 @@ Point to note: The trivilization of Hindu Iconography is not recent phenomenon o
 
 **Tagged with:**
 
--   [altaic](https://musingsofhh.wordpress.com/tag/altaic/) -   [hindus](https://musingsofhh.wordpress.com/tag/hindus/) -   [india](https://musingsofhh.wordpress.com/tag/india/) -   [jihad](https://musingsofhh.wordpress.com/tag/jihad/) -   [kafir](https://musingsofhh.wordpress.com/tag/kafir/) -   [khusro](https://musingsofhh.wordpress.com/tag/khusro/) -   [mongols](https://musingsofhh.wordpress.com/tag/mongols/) -   [pagan](https://musingsofhh.wordpress.com/tag/pagan/) -   [sufi](https://musingsofhh.wordpress.com/tag/sufi/)
+- [altaic](https://musingsofhh.wordpress.com/tag/altaic/) - [hindus](https://musingsofhh.wordpress.com/tag/hindus/) - [india](https://musingsofhh.wordpress.com/tag/india/) - [jihad](https://musingsofhh.wordpress.com/tag/jihad/) - [kafir](https://musingsofhh.wordpress.com/tag/kafir/) - [khusro](https://musingsofhh.wordpress.com/tag/khusro/) - [mongols](https://musingsofhh.wordpress.com/tag/mongols/) - [pagan](https://musingsofhh.wordpress.com/tag/pagan/) - [sufi](https://musingsofhh.wordpress.com/tag/sufi/)
 
 **[The rise and fall of the Uighurempire](https://musingsofhh.wordpress.com/2011/06/01/the-rise-and-fall-of-the-uighur-empire/)**
 

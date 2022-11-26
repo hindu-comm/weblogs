@@ -53,6 +53,8 @@ sUryAchandramasau vR^ikyAbhAgaM shyAma shabalau matsnAbhyAM ( inTS
 cortex of the kidney. So they were not missing anatomy out of  
 ignorance.
 
+Advertisement
+
 **Category:**
 
 [Heathen Thought](https://musingsofhh.wordpress.com/category/heathen-thought/)
@@ -61,9 +63,9 @@ ignorance.
 
 **Tagged with:**
 
--   [anatomy](https://musingsofhh.wordpress.com/tag/anatomy/) -   [ashvamedha](https://musingsofhh.wordpress.com/tag/ashvamedha/) -   [hayamedha](https://musingsofhh.wordpress.com/tag/hayamedha/) -   [horse
-    sacrifice](https://musingsofhh.wordpress.com/tag/horse-sacrifice/) -   [horses](https://musingsofhh.wordpress.com/tag/horses/) -   [taittriya
-    samhita](https://musingsofhh.wordpress.com/tag/taittriya-samhita/) -   [vedas](https://musingsofhh.wordpress.com/tag/vedas/)
+- [anatomy](https://musingsofhh.wordpress.com/tag/anatomy/) - [ashvamedha](https://musingsofhh.wordpress.com/tag/ashvamedha/) - [hayamedha](https://musingsofhh.wordpress.com/tag/hayamedha/) - [horse
+  sacrifice](https://musingsofhh.wordpress.com/tag/horse-sacrifice/) - [horses](https://musingsofhh.wordpress.com/tag/horses/) - [taittriya
+  samhita](https://musingsofhh.wordpress.com/tag/taittriya-samhita/) - [vedas](https://musingsofhh.wordpress.com/tag/vedas/)
 
 **[On eunuchs, immortality & the shivalinga](https://musingsofhh.wordpress.com/2011/05/12/on-eunuchs-immortality-the-shiva-linga/)**
 

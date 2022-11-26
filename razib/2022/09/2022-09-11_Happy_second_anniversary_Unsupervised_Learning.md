@@ -35,11 +35,11 @@ Email
 
 Sep 11
 
-60
+61
 
 [](https://razib.substack.com/p/happy-second-anniversary-unsupervised/comments)
 
-12
+14
 
 [](javascript:void(0))
 
@@ -75,8 +75,6 @@ My interest in the Substack model was piqued by Andrew Sullivan’s resurrection
 
 ### **More quality less quantity**
 
-[](https://razib.substack.com/i/72915455/more-quality-less-quantity)
-
 Yglesias admits his “superpower” is the volume of content generation. I’m not a total slouch in this sector. As of the fall of 2020, I’d spent eighteen years writing and had published north of 15,000 posts and 20 million words on my blogs. And though I would often do the quickest reread before hitting publish, editing and reshaping the prose were never priorities. I was all about substance, immediacy and information density. Life was short; I left readability to people who were in less of a rush to inhale the entire library.
 
 But Substack was a pivot. Starting in the last months of 2020, for the first time I chilled out on volume and suppressed my inborn compulsion to match my output to my lifelong hyperactive volume of inputs. It went against my every impatient instinct, but I began to reduce quantity with the intent of honing quality (through collaboration with a long-suffering editor).
@@ -87,8 +85,6 @@ Over the past twenty years, population genetics and ancient DNA have transformed
 
 ### **It's always Substack, Substack, Substack**
 
-[](https://razib.substack.com/i/72915455/its-always-substack-substack-substack)
-
 You have probably come across mainstream journalists accusing Substack of being a haven for thought-crime. The least charitable read is that this is sour grapes as they watch bolder people with more marketable talent chart their own course, while they remain tethered to a dying industry and exploitative institutions. I suppose posterity will render a more measured verdict soon enough. In the meantime, friends who know how bullish I am on this platform often privately ask whether I am confident Substack will continue to defend free speech. I am happy to say I have complete confidence that as long as the current leadership team is intact, Substack will stay true to the classical liberal vision of openness and debate. I have interacted enough with the leadership team personally and heard enough encouraging things from old friends I trust in Silicon Valley to be highly confident in this prediction.
 
 As a technical platform, Substack is not perfect, but the team consistently invests resources and energy into improving it. And in the long run, “content is king.” Having self-hosted websites for a couple of decades now, it’s not news to me that technical glitches always require attention in ways you don’t anticipate. Over my two years using it, Substack has been progressively reducing the friction of writing on the internet. They prioritize allowing writers to write.
@@ -97,8 +93,6 @@ Given the combination of the platform and the company’s corporate values, I ha
 
 ### **On day jobs and second rounds**
 
-[](https://razib.substack.com/i/72915455/on-day-jobs-and-second-rounds)
-
 I sat down with some of Substack's founders and core team when they were in Austin recently. One of my biggest questions was how in a climate like 2022 America even an ultra-principled team of founders can safeguard their strong free-speech commitment long-term. My core anxiety was the risk of erosion from the bottom of the company's structure upward when their runaway success entails constant growth and hiring.
 
 As we chatted, my genomics startup came up and one founder was startled that I also work full-time. He expressed surprise that I do Substack around the edges of my day job and insisted boosterishly that "we've got to get you on Substack full-time!"
@@ -106,8 +100,6 @@ As we chatted, my genomics startup came up and one founder was startled that I a
 The funny thing though is that his startup had already given me exactly what I wanted: just the dose of Substack I needed and a second chance at something almost-perfect I had thought was gone forever.
 
 ### **My golden age**
-
-[](https://razib.substack.com/i/72915455/my-golden-age)
 
 In 2005, I was in my late 20's. I worked days as a programmer at a little startup. Most evenings I had time to read and blog and I would head straight from the office to a coffee shop/wine bar and my off-hours intellectual life. It was a golden age online. My blog was a few years old and as I churned through my compulsive diet of books on history, genetics, psychology, economics and politics, the blog was where I publicly digested my prodigious recreational intake. I enjoyed brilliant fellow bloggers and a vibrant, raucous comment section that kept me honest. I interacted daily with other early figures of the science and politics blogospheres, almost all of whom today are either writing prominently, running startups or publishing prodigiously from their academic labs.
 
@@ -118,8 +110,6 @@ In later years, around my dining table, we would look back at what we had lost i
 I continued blogging every year for two decades (March 2022 marked 20 years since my first post), but there were clearly years where the joy had gone out of the format for me. So honestly, two Septembers ago, when I ported over my mailing list and dumped it into this new-to-me platform, in the back of my mind, I wondered if I would end up doing much on this particular publishing platform. It frankly did feel a bit like rearranging deck chairs.
 
 ### **A renaissance you don’t take for granted**
-
-[](https://razib.substack.com/i/72915455/a-renaissance-you-dont-take-for-granted)
 
 Fast forward less than two years, and I was getting drinks with the platform's founders. The golden-age internet of my late 20's was gone, but in its place they were busily charting a small renaissance in independent publishing and I'd been enjoying a front-row seat to the improbable second round. The thing about a renaissance versus that shiny golden age it resurrects is you take nothing for granted. This time you know how lucky you are.
 
@@ -148,8 +138,6 @@ Cheers, Substack! Thanks for a couple years of enjoyment and quality output I di
 
 ### **Looking ahead and looking back**
 
-[](https://razib.substack.com/i/72915455/looking-ahead-and-looking-back)
-
 The next few years will likely continue to advance our understanding of human origins, and I expect to write more on that. I go where the most interesting data and my historical interests lead me, but I think it’s safe to predict that my bread and butter on this Substack will remain genetically-informed histories of particular nations and regions, genetics explainers, plus posts delving deep into paleoanthropology.
 
 Finally, one comment I cannot say I’ve received from my [astute readers](https://razib.substack.com/p/rkul-time-well-spent-07072022) over the years is “this isn’t data-dense enough.” To be sure, I get (and welcome!) occasional complaints that an hour and a half podcast was too short and they’d have preferred my guest and I continue our abstruse meanderings for hours. But in terms of content, I’ve always had the privilege of attracting brilliant readers who realize how little we/they know. For their entertainment, I looked through thesecouple years of data-dense posts and [thrown together a quiz](https://take.quiz-maker.com/QEU2UTJ23). Give it a whirl. There’s no downside; either you retained a ton of detail or you have so much more good re/reading ahead of you!
@@ -158,11 +146,9 @@ If you take it and want to submit your email at the end or tweet your [quiz](htt
 
 ![*SHOULD HAVE KNOWN BETTER: but no shame in having more yet to learn.*](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F69379718-fafc-44f3-a76e-b3f7322cca58_531x296.png)
 
-Like this post
-
 [](https://razib.substack.com/p/happy-second-anniversary-unsupervised/comments)
 
-12
+14
 
 [](javascript:void(0))
 
@@ -181,3 +167,5 @@ Twitter
 Facebook
 
 Email
+
+Like this post

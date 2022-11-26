@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/rkul-time-well-spent-04042022).
 
 RKUL: Time Well Spent 04/04/2022
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc32a5309-c7d6-4261-850b-a0def8af0a57_800x283.jpeg)
 
 RKUL: Time Well Spent 04/04/2022
 
@@ -29,9 +29,37 @@ Email
 
 ### Spring has sprung!
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
 
-![Mt. Tai](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf7bab78-b9b0-4bd2-8753-925a20925259_800x283.jpeg)
+[Razib Khan](https://substack.com/profile/1400665-razib-khan)
+
+Apr 4
+
+15
+
+[](https://razib.substack.com/p/rkul-time-well-spent-04042022/comments)
+
+11
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc32a5309-c7d6-4261-850b-a0def8af0a57_800x283.jpeg)
+
+RKUL: Time Well Spent 04/04/2022
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+![Mt. Tai](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf7bab78-b9b0-4bd2-8753-925a20925259_800x283.jpeg)
 
 **Subscribe**
 
@@ -45,7 +73,7 @@ Your time is finite. Your phone and the internet stand ready to help you squande
 
 The geopolitics of the 21st century is going to be driven by the rise of China, and global power’s pivot toward Asia looks inevitable (Asia is already [half the world](https://statisticstimes.com/economy/asia-gdp.php#:~:text=Asia%20accounts%20for%2039%25%20of,%2468.7%20trillion.) economy in purchasing-power-parity terms). But I’m of the school that to understand China you need to understand its deeper past, as this is a civilization with a 3,068-year [continuous history](https://en.wikipedia.org/wiki/Battle_of_Muye). Luckily, Chinese history is extensively documented by the Chinese themselves, providing copious source material, [(Sima Qian](https://en.wikipedia.org/wiki/Sima_Qian), the Chinese Thucydides, lived over 2,000 years ago), and it comes well periodized as dynasties. It’s easy to dig into because there is a preexistent structure.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0a4a408-58b6-4818-b127-68b168ed518a_1600x267.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0a4a408-58b6-4818-b127-68b168ed518a_1600x267.jpeg)
 
 For me, the best dynasty-by-dynasty walkthrough has to be the [History of Imperial China](https://www.amazon.com/exec/obidos/ASIN/B08LN22WR1//geneexpressio-20) series from Harvard University Press. These six books start from before 200 BC, from the first classical dynasties, and run down to the Qing Dynasty of the Manchus, which lasted until 1912 (considering that there are many Americans [older than 110 years](https://en.wikipedia.org/wiki/List_of_American_supercentenarians), it is also likely that there are some people among China’s 1.4 billion who were born under Qing rule).
 
@@ -117,27 +145,26 @@ All my podcasts go [ungated](https://unsupervisedlearning.libsyn.com/) two weeks
 
 Here are my guests since the last *Time Well Spent*:
 
--   [Zack Stentz: Andromeda to
-    X-Men](https://razib.substack.com/p/zack-stentz-andromeda-to-x-men?s=w)
+- [Zack Stentz: Andromeda to
+  X-Men](https://razib.substack.com/p/zack-stentz-andromeda-to-x-men?s=w)
 
--   [Samo Burja: Bismarck Analysis and geopolitical
-    uncertainty](https://razib.substack.com/p/samo-burja-bismarck-analysis-and?s=w)
+- [Samo Burja: Bismarck Analysis and geopolitical
+  uncertainty](https://razib.substack.com/p/samo-burja-bismarck-analysis-and?s=w)
 
--   [Sambo Burja (bonus episode): Russia invades Ukraine and ends
-    globalization?](https://razib.substack.com/p/russia-invades-ukraine-and-ends-globalization?s=w)
+- [Sambo Burja (bonus episode): Russia invades Ukraine and ends
+  globalization?](https://razib.substack.com/p/russia-invades-ukraine-and-ends-globalization?s=w)
 
--   [Jacob L. Shapiro: geopolitical pasts, present and
-    futures](https://razib.substack.com/p/jacob-l-shapiro-geopolitical-pasts?s=w)
+- [Jacob L. Shapiro: geopolitical pasts, present and
+  futures](https://razib.substack.com/p/jacob-l-shapiro-geopolitical-pasts?s=w)
 
--   [Josiah Neeley: energy
-    matters](https://razib.substack.com/p/josiah-neeley-energy-matters?s=w)
+- [Josiah Neeley: energy
+  matters](https://razib.substack.com/p/josiah-neeley-energy-matters?s=w)
 
--   [James Lee: genes and educational
-    attainment](https://razib.substack.com/p/james-lee-genes-and-educational-attainment?s=w)
+- [James Lee: genes and educational
+  attainment](https://razib.substack.com/p/james-lee-genes-and-educational-attainment?s=w)
 
--   And here are the [currently ungated
-    podcasts](https://unsupervisedlearning.libsyn.com/) all in one
-    place.
+- And here are the [currently ungated
+  podcasts](https://unsupervisedlearning.libsyn.com/) all in one place.
 
 For subscribers, I now post transcripts (automatically generated, though I have someone going through to catch errors).
 
@@ -153,11 +180,11 @@ Since many on this list are techies, I want to give a shout out to a [friend](ht
 
 He’s looking for:
 
--   developers with 2-10 years of serious technical experience (beyond
-    academic work) — in big tech, startup, significant open source
-    projects, etc
+- developers with 2-10 years of serious technical experience (beyond
+  academic work) — in big tech, startup, significant open source
+  projects, etc
 
--   interested in machine learning and Web 3.0/crypto
+- interested in machine learning and Web 3.0/crypto
 
 **Read more**: [DeepNFTValue: Machine Learning-Driven Crypto Asset Pricing](https://nikocrypto.substack.com/p/deepnftvalue-machine-learning-driven?s=r).
 
@@ -169,29 +196,48 @@ Some of you follow me on my [newsletter](http://razib.substack.com/), [blog](htt
 
 You’ll find links to the few different podcasts I’ve contributed to or run, my total [RSS](https://feeds.feedburner.com/RazibKhansTotalFeed) feed, links to more mainstream or print articles when I remember to post them, my Twitter, the occasional guest appearance here and there, etc.
 
--   My [total feed](http://www.razib.com/wordpress/) of content
+- My [total feed](http://www.razib.com/wordpress/) of content
 
--   My long-time blog, [GNXP](http://gnxp.com/)
+- My long-time blog, [GNXP](http://gnxp.com/)
 
--   Some of my past pieces for
-    [UnHerd](https://unherd.com/author/razib-khan/), [National
-    Review](https://www.nationalreview.com/author/razib-khan/), [The
-    Manhattan
-    Institute](https://www.city-journal.org/contributor/razib-khan_1620),
-    [Quillette](https://quillette.com/author/razib-khan/), and [The New
-    York
-    Times](https://www.nytimes.com/2014/11/25/opinion/our-cats-ourselves.html)
+- Some of my past pieces for
+  [UnHerd](https://unherd.com/author/razib-khan/), [National
+  Review](https://www.nationalreview.com/author/razib-khan/), [The
+  Manhattan
+  Institute](https://www.city-journal.org/contributor/razib-khan_1620),
+  [Quillette](https://quillette.com/author/razib-khan/), and [The New
+  York
+  Times](https://www.nytimes.com/2014/11/25/opinion/our-cats-ourselves.html)
 
--   My old podcast, [The Insight](https://insitome.libsyn.com/)
+- My old podcast, [The Insight](https://insitome.libsyn.com/)
 
--   My podcast today, [Unsupervised
-    Learning](https://unsupervisedlearning.libsyn.com/)
+- My podcast today, [Unsupervised
+  Learning](https://unsupervisedlearning.libsyn.com/)
 
 ### **Over to you**
 
 Comments are open to all for this post, so if you have more reading/listening suggestions or tips on who I should be talking to or what I really should be writing for you, lay it on me.
 
-[11](https://razib.substack.com/p/rkul-time-well-spent-04042022/comments)
+[](https://razib.substack.com/p/rkul-time-well-spent-04042022/comments)
 
-[Share](javascript:void(0))
+11
 
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc32a5309-c7d6-4261-850b-a0def8af0a57_800x283.jpeg)
+
+RKUL: Time Well Spent 04/04/2022
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

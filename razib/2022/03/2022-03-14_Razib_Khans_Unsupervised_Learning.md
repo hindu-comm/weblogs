@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/russia-invades-ukraine-and-ends-glob
 
 Razib Khan's Unsupervised Learning
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc01be1cc-977c-4ba8-ad7a-0320f9fdb39a_960x960.jpeg)
 
 Russia invades Ukraine and ends globalization?
 
@@ -25,7 +25,7 @@ Facebook
 
 Email
 
-![](https://substackcdn.com/image/fetch/w_512,h_512,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc01be1cc-977c-4ba8-ad7a-0320f9fdb39a_960x960.jpeg)
+![](https://substackcdn.com/image/fetch/w_512,h_512,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2c48569f-373c-4d04-96a3-1aad755a419b_3000x3000.png)
 
 Mar 14 • 30M
 
@@ -33,13 +33,9 @@ Mar 14 • 30M
 
 ### How the current troubles are going to impact us all
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
-
-[Razib Khan](https://substack.com/profile/1400665-razib-khan)
-
 Mar 14
 
-16
+17
 
 [](https://razib.substack.com/p/russia-invades-ukraine-and-ends-globalization/comments)
 
@@ -48,6 +44,8 @@ Mar 14
 [](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc01be1cc-977c-4ba8-ad7a-0320f9fdb39a_960x960.jpeg)
 
 Russia invades Ukraine and ends globalization?
 
@@ -72,6 +70,12 @@ Email
 Open in playerListen on
 
 Audio playback is not supported on your browser. Please upgrade.
+
+#### Appears in this episode
+
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face-podcast)
+
+Razib Khan
 
 Conversations about science, culture, and current affairs
 
@@ -103,8 +107,6 @@ Welcome back to the multipolar world, dominated by Keynes’ old animal spirits 
 
 [Share](https://razib.substack.com/p/russia-invades-ukraine-and-ends-globalization?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
-Like this post
-
 [](https://razib.substack.com/p/russia-invades-ukraine-and-ends-globalization/comments)
 
 12
@@ -112,6 +114,8 @@ Like this post
 [](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc01be1cc-977c-4ba8-ad7a-0320f9fdb39a_960x960.jpeg)
 
 Russia invades Ukraine and ends globalization?
 
@@ -125,3 +129,4 @@ Facebook
 
 Email
 
+Like this post

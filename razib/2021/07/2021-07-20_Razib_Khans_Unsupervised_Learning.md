@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/patrick-wyman-luther-columbus-and).
 
 Razib Khan's Unsupervised Learning
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F82f10d07-fe28-450d-8ce3-35c52bf2e10e_500x500.jpeg)
 
 Patrick Wyman: Luther, Columbus and Gutenberg
 
@@ -25,17 +25,13 @@ Facebook
 
 Email
 
-![](https://substackcdn.com/image/fetch/w_512,h_512,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F82f10d07-fe28-450d-8ce3-35c52bf2e10e_500x500.jpeg)
+![](https://substackcdn.com/image/fetch/w_512,h_512,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2c48569f-373c-4d04-96a3-1aad755a419b_3000x3000.png)
 
 Jul 20, 2021 • 1HR 15M
 
 # Patrick Wyman: Luther, Columbus and Gutenberg
 
 ### We talk about the new book, The Verge: Reformation, Renaissance, and Forty Years that Shook the World
-
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
-
-[Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
 Jul 20, 2021
 
@@ -48,6 +44,8 @@ Jul 20, 2021
 [](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F82f10d07-fe28-450d-8ce3-35c52bf2e10e_500x500.jpeg)
 
 Patrick Wyman: Luther, Columbus and Gutenberg
 
@@ -72,6 +70,12 @@ Email
 Open in playerListen on
 
 Audio playback is not supported on your browser. Please upgrade.
+
+#### Appears in this episode
+
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face-podcast)
+
+Razib Khan
 
 Conversations about science, culture, and current affairs
 
@@ -101,34 +105,32 @@ Patrick and I also tackle meta-historical questions such as the importance of �
 
 **Cross-promotion:** The six-part series on Finland is done, check it out:
 
--   **[Part
-    one:](https://razib.substack.com/p/i-see-finland-in-the-strangest-places)**Duke
-    Tales: shades of Finnish cultural weirdness in my own backyard
+- **[Part
+  one:](https://razib.substack.com/p/i-see-finland-in-the-strangest-places)**Duke
+  Tales: shades of Finnish cultural weirdness in my own backyard
 
--   **[Part
-    two:](https://razib.substack.com/p/weirdness-as-a-national-pastime)
-    **Weirdness as a national pastime: culture
+- **[Part
+  two:](https://razib.substack.com/p/weirdness-as-a-national-pastime)
+  **Weirdness as a national pastime: culture
 
--   **[Part three:](https://razib.substack.com/p/go-west-young-siberian)
-    **Go West Young Siberian: genetics findings
+- **[Part three:](https://razib.substack.com/p/go-west-young-siberian)
+  **Go West Young Siberian: genetics findings
 
--   **[Part
-    four:](https://razib.substack.com/p/from-deepest-siberia-to-europes-edge)**From
-    deepest Siberia to Europe’s edge: more genetics
+- **[Part
+  four:](https://razib.substack.com/p/from-deepest-siberia-to-europes-edge)**From
+  deepest Siberia to Europe’s edge: more genetics
 
--   **[Part
-    five](https://razib.substack.com/p/frontier-finns-cabins-rakes-and-indians)**:
-    Frontier Finns: cabins, rakes & Indians
+- **[Part
+  five](https://razib.substack.com/p/frontier-finns-cabins-rakes-and-indians)**:
+  Frontier Finns: cabins, rakes & Indians
 
--   **[Part
-    six](https://razib.substack.com/p/finnish-brains-baiting-and-bottlenecks):**Finnish
-    brains, baiting and bottlenecks: education and medical genetics
+- **[Part
+  six](https://razib.substack.com/p/finnish-brains-baiting-and-bottlenecks):**Finnish
+  brains, baiting and bottlenecks: education and medical genetics
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2019b3f7-01a3-4e50-9293-ed2193e48e8e_1200x900.jpeg)
 
 **Subscribe**
-
-Like this post
 
 [](https://razib.substack.com/p/patrick-wyman-luther-columbus-and/comments)
 
@@ -137,6 +139,8 @@ Like this post
 [](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F82f10d07-fe28-450d-8ce3-35c52bf2e10e_500x500.jpeg)
 
 Patrick Wyman: Luther, Columbus and Gutenberg
 
@@ -150,3 +154,4 @@ Facebook
 
 Email
 
+Like this post

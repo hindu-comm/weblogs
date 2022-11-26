@@ -9,9 +9,9 @@ Source: [here](https://rasajournal.substack.com/p/seeking-kalaripayattu).
 
 Seeking Kalaripayattu 
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9ff3690d-c6cb-4929-8995-df5a1c36a0a7_2612x1639.jpeg)
 
 Seeking Kalaripayattu
 
@@ -29,33 +29,61 @@ Email
 
 ### How has the ancient martial art from Kerala managed to stay relevant even today?
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2493377a-60dd-44d9-a41e-4aff3778a15c_660x1006.jpeg)](https://substack.com/profile/4266017-garima?utm_source=author-byline-face)
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9ff3690d-c6cb-4929-8995-df5a1c36a0a7_2612x1639.jpeg)
+[Garima](https://substack.com/profile/4266017-garima)
+
+Jan 29
+
+2
+
+[](https://rasajournal.substack.com/p/seeking-kalaripayattu/comments)
+
+2
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9ff3690d-c6cb-4929-8995-df5a1c36a0a7_2612x1639.jpeg)
+
+Seeking Kalaripayattu
+
+rasajournal.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9ff3690d-c6cb-4929-8995-df5a1c36a0a7_2612x1639.jpeg)
 
 *A Kalaripayattu performance in progress at Taj Vivanta in Kochi, in December 2011. Photo by Garima Garg.*
 
 In 16th century Kerala, there lived a warrior by the name of Aromal Chekavar. A Kalaripayattu adept, he was hired by a man from a higher caste, i.e., a Nair, to settle an inheritance dispute with his elder brother. He was to fight an opponent unto death— a special kind of public duel known as ankam. This was done to declare a clear winner in a dispute in the eyes of the society. Chekavar, like many others like him, belonged to the community of Ezhavas. When the warrior sought his brother to inform him about the duel and seek his permission as per the custom, a ballad records the following as the eloquent appeal made by him—
 
-*Grain or wealth we can buy or borrow,  
-But honour we cannot beg or borrow.  
-When father went for combats  
-How much younger was I than you now are.  
-Father asked my consent,  
-Which I readily gave;  
-Even so do I ask of you.  
-Our forefathers came here  
+*Grain or wealth we can buy or borrow,   
+But honour we cannot beg or borrow.   
+When father went for combats   
+How much younger was I than you now are.   
+Father asked my consent,   
+Which I readily gave;   
+Even so do I ask of you.   
+Our forefathers came here   
 Adorned as professional combatants  
 When one is born a Chekavan  
-The Chekor has to earn his bread at the point of his sword.  
+The Chekor has to earn his bread at the point of his sword.   
 If anybody comes for ankam  
 He cannot refuse to go  
-Better to die with honour  
+Better to die with honour   
 Than to die a plain death  
 Have you not heard of the four states?  
-Ankam fighting alone makes a Chekor,  
-As girding the sword makes a Nayar,  
-And the sacred thread makes a Namboodiri,  
+Ankam fighting alone makes a Chekor,   
+As girding the sword makes a Nayar,   
+And the sacred thread makes a Namboodiri,   
 And wearing the tali makes a woman.*
 
 He lost the duel because of a betrayal by a family member but his legend lives on in popular imagination in modern-day Kerala as does that of his sister, [Unniyarcha](https://www.deccanchronicle.com/nation/current-affairs/281117/what-mt-did-to-unniyarcha.html), who was even fiercer warrior of the two.
@@ -94,5 +122,26 @@ Kavumpurathu works as a freelance teacher and takes classes in the coastal city�
 
 Today, Kalaripayattu is not being practiced as a martial art in limited parts of the country only but has taken many shapes and forms across the world. It may be fused with dance, theatre, Ayurveda, and other related new-age practices. While we may not witness Kalaripayattu battles or ankams anymore, there is a duel that rages on eternally— the one within. It is this fight that Kalaripayattu seeks to win as peacefully as possible.
 
-|                                                                        |                             | |------------------------------------------------------------------------|-----------------------------| | [2](https://rasajournal.substack.com/p/seeking-kalaripayattu/comments) | [Share](javascript:void(0)) |
+[](https://rasajournal.substack.com/p/seeking-kalaripayattu/comments)
 
+2
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9ff3690d-c6cb-4929-8995-df5a1c36a0a7_2612x1639.jpeg)
+
+Seeking Kalaripayattu
+
+rasajournal.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

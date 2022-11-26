@@ -9,9 +9,9 @@ Source: [here](https://ekavali.substack.com/p/hamvira-devathe-forgotten-warrior)
 
 HAMVIRA DEVA:THE FORGOTTEN WARRIOR PRINCE OF ODISHA
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6cae7b4b-1e2d-4991-9c2a-3d6b9e0ca6e8_897x1026.png)
 
 HAMVIRA DEVA:THE FORGOTTEN WARRIOR PRINCE OF ODISHA
 
@@ -29,9 +29,31 @@ Email
 
 ### A brief narrative of the valorous warrior-prince Hamvira Deva of Odisha's famous Suryavamsa Gajapati dynasty.
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa11ca545-ebbb-48e4-a150-dcc589f4bbdc_225x225.jpeg)](https://substack.com/profile/21872020-sibashis-mahapatra?utm_source=author-byline-face)
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6cae7b4b-1e2d-4991-9c2a-3d6b9e0ca6e8_897x1026.png)
+[Sibashis Mahapatra](https://substack.com/profile/21872020-sibashis-mahapatra)
+
+Apr 2
+
+[](https://ekavali.substack.com/p/hamvira-devathe-forgotten-warrior/comments)[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6cae7b4b-1e2d-4991-9c2a-3d6b9e0ca6e8_897x1026.png)
+
+HAMVIRA DEVA:THE FORGOTTEN WARRIOR PRINCE OF ODISHA
+
+ekavali.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6cae7b4b-1e2d-4991-9c2a-3d6b9e0ca6e8_897x1026.png)
 
 **The political situation in Bharatavarsh in the medieval period**
 
@@ -75,7 +97,7 @@ Historian HK Sherwani writes of the Devarakonda drubbing:
 
 This battle of Devarakonda is reported to have occurred in 1458. Following the battle, Linga became a vassal of Kapilendradeva, and Kapilendradeva took the title Kalabargeswara (Lord of Kalaburagi or Gulbarga region).
 
-![*Present-day ruins of Devarakonda fort. Credit: https://twitter.com/devarakondafort*](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F894c05e0-3719-4d07-88df-82cf975eece4_400x400.jpeg)
+![*Present-day ruins of Devarakonda fort. Credit: https://twitter.com/devarakondafort*](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F894c05e0-3719-4d07-88df-82cf975eece4_400x400.jpeg)
 
 **Hamvira wins the Warangal fort**
 
@@ -83,17 +105,17 @@ Humayun Shah was taken aback by the surprise defeat, but he needed to return to 
 
 Two sets of inscriptions unearthed on the Eastern and Western gates of the Warangal fort in Telangana mention the capture of the fort from the hands of the Bahmani Sultan by the great Suryavamsa king – Gajapati Kapilendradeva of Odisha. The eastern gate’s inscription credits Kumara Hamviradeva Mahapatra, the eldest son of Maharaja Kapilendradeva, with capturing the fort, while the other inscription hails Hamvira’s cousin and Kapilendradeva’s nephew Raghudeva Narendra Mahapatra for routing the enemy forces at Warangal. According to historian DC Sircar, it is possible that Hamvira led the army and Raghudeva was his deputy.
 
-![*Hamvira’s inscription at Warangal Fort*](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe0c0285-66d0-438c-901c-78b582b613b5_1030x684.jpeg)
+![*Hamvira’s inscription at Warangal Fort*](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe0c0285-66d0-438c-901c-78b582b613b5_1030x684.jpeg)
 
-![*Raghudeva Mahapatra’s Warangal inscription*](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbba4f70f-fad1-45c1-8d8e-74b426d7150a_847x390.png)
+![*Raghudeva Mahapatra’s Warangal inscription*](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbba4f70f-fad1-45c1-8d8e-74b426d7150a_847x390.png)
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F96d42b3b-089f-4a41-b7f3-3f6930c4f9ad_757x374.png)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F96d42b3b-089f-4a41-b7f3-3f6930c4f9ad_757x374.png)
 
 Both inscriptions are dated February 2nd, 1460 AD (Kali year 4561, Pramathin, Magha Su 10, Mrgasira, Brhavasara). According to historian R. Subrahmanyam, the siege of the fort would have ended on February 2nd, 1460.
 
 The Warangal fort had been built by the rulers of the Kakatiya dynasty. The Velama kings of Devarakonda and Rachakonda were successors of the Kakatiya dynasty in Telangana, among other kings. The Recherla Nayakas, as they were called, had their base at Rachakonda (in present-day Yadadri Bhuvanagiri district of Telangana) and controlled the Warangal fort. In the 15th century, Warangal fell into the hands of the Bahmani Sultanate. The Velamas’ rebellion provided Hamvira with the ideal opportunity to wrest it from the hands of the Bahmanis and turn the Recherlas into his allies, allies who would assist him in any future campaign against the Bahmanis.
 
-![*Image credit- Wikipedia,Manjit Keshari Nayak*](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3e794e0-7f6b-4ab2-b953-fea295c8f85f_540x619.png)
+![*Image credit- Wikipedia,Manjit Keshari Nayak*](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3e794e0-7f6b-4ab2-b953-fea295c8f85f_540x619.png)
 
 **Later life of Hamviradeva**
 
@@ -107,7 +129,22 @@ In the annals of Odia history, the last half of Hamvira’s life is shrouded in 
 
 Such is the saga of the forgotten warrior-prince of Odisha
 
-[Comment](https://ekavali.substack.com/p/hamvira-devathe-forgotten-warrior/comments)
+[](https://ekavali.substack.com/p/hamvira-devathe-forgotten-warrior/comments)[](javascript:void(0))
 
-[Share](javascript:void(0))
+Share this post
 
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6cae7b4b-1e2d-4991-9c2a-3d6b9e0ca6e8_897x1026.png)
+
+HAMVIRA DEVA:THE FORGOTTEN WARRIOR PRINCE OF ODISHA
+
+ekavali.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

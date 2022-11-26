@@ -9,9 +9,9 @@ Source: [here](https://eruditus.substack.com/p/wer-ist-der-konservativrevolution
 
 Who is the Revolutionary Conservative?
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff875f1f0-09eb-4bdc-939a-8263741f8834_900x506.jpeg)
 
 Who is the Revolutionary Conservative?
 
@@ -27,15 +27,39 @@ Email
 
 # Who is the Revolutionary Conservative?
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff55c507-5601-44d2-b554-d11fd9802b94_613x770.jpeg)](https://substack.com/profile/47730865-aryamsa?utm_source=author-byline-face)
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff875f1f0-09eb-4bdc-939a-8263741f8834_900x506.jpeg)
+[Aryāṃśa](https://substack.com/profile/47730865-aryamsa)
 
-Following are important excerpts from *[Armin Mohler’s Die Konservative Revolution in Deutschland](https://www.amazon.com/Die-Konservative-Revolution-Deutschland-1918/dp/3902475021);* these excerpts provide useful working definitions of conservatism and explain why the adjective revolutionary has been appendaged to it. The *[Conservative Revolutionary movement](https://en.wikipedia.org/wiki/Conservative_Revolution)* has long been eclipsed (and appropriated!) by Nazism, or the brand of fascism peculiar to Germany after the Weimar interregnum. This has led to the dogmatic branding of a coterie of thinkers as proto-Nazis: *Julius Evola, Ernst Jünger, Gottfried Benn, Oswald Spengler and Moeller Van Den Bruck*; however, this is not the case and is very reductionist. These thinkers had uncertain relationships with Nazism, and were more often than not bitterly critical of the hyperrealist biological reductionism of Nazi fascism, as well as its upending of the Prussian aristocratic order, which had been replaced by one man; the *‘Führerstaat’ (Führer’s state)* as Evola called it. Hitler had, in fact, faced assassination attempts [from the Prussian aristocracy](https://en.wikipedia.org/wiki/20_July_plot#:~:text=On%2020%20July%201944%2C%20Claus,associated%20with%20the%20entire%20event.) and his state was considered a bourgeois revolt against the erstwhile blue-blood of Germany. For people like Thomas Mann, a noble laureate and member of the Hanseatic Mann family, ***Hitler was too democratic & too plebian***. [He called Nazism](https://www.google.co.in/books/edition/The_Anatomy_of_Fascism/ZmV1moZB6EAC?hl=en&gbpv=1&dq=the+novelist+thomas+mann+noted+in+his+diary&pg=PT18&printsec=frontcover) a movement *“against everything noble”, a power grab by the “common scum”*
+Feb 8
+
+5
+
+[](https://eruditus.substack.com/p/wer-ist-der-konservativrevolutionar/comments)[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff875f1f0-09eb-4bdc-939a-8263741f8834_900x506.jpeg)
+
+Who is the Revolutionary Conservative?
+
+eruditus.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff875f1f0-09eb-4bdc-939a-8263741f8834_900x506.jpeg)
+
+Following are important excerpts from *[Armin Mohler’s Die Konservative Revolution in Deutschland](https://www.amazon.com/Die-Konservative-Revolution-Deutschland-1918/dp/3902475021); *these excerpts provide useful working definitions of conservatism and explain why the adjective revolutionary has been appendaged to it. The *[Conservative Revolutionary movement](https://en.wikipedia.org/wiki/Conservative_Revolution)* has long been eclipsed (and appropriated!) by Nazism, or the brand of fascism peculiar to Germany after the Weimar interregnum. This has led to the dogmatic branding of a coterie of thinkers as proto-Nazis: *Julius Evola, Ernst Jünger, Gottfried Benn, Oswald Spengler and Moeller Van Den Bruck*; however, this is not the case and is very reductionist. These thinkers had uncertain relationships with Nazism, and were more often than not bitterly critical of the hyperrealist biological reductionism of Nazi fascism, as well as its upending of the Prussian aristocratic order, which had been replaced by one man; the *‘Führerstaat’ (Führer’s state)* as Evola called it. Hitler had, in fact, faced assassination attempts [from the Prussian aristocracy](https://en.wikipedia.org/wiki/20_July_plot#:~:text=On%2020%20July%201944%2C%20Claus,associated%20with%20the%20entire%20event.) and his state was considered a bourgeois revolt against the erstwhile blue-blood of Germany. For people like Thomas Mann, a noble laureate and member of the Hanseatic Mann family, ***Hitler was too democratic & too plebian***. [He called Nazism](https://www.google.co.in/books/edition/The_Anatomy_of_Fascism/ZmV1moZB6EAC?hl=en&gbpv=1&dq=the+novelist+thomas+mann+noted+in+his+diary&pg=PT18&printsec=frontcover) a movement *“against everything noble”, a power grab by the “common scum”*
 
 Digressions aside, I recommend Mohler’s book as the best summary on the Conservative Revolution (though it is in German).
 
-A few helpful English overviews: [](https://www.google.co.in/books/edition/Critics_of_Modernity/M_FbAAAAMAAJ?hl=en) *[Critics of Modernity: The Literature of the Conservative Revolution in Germany, 1890-1933](https://www.google.co.in/books/edition/Critics_of_Modernity/M_FbAAAAMAAJ?hl=en)* and *[The Conservative Revolution in the Weimar Republic](https://www.google.co.in/books/edition/The_Conservative_Revolution_in_the_Weima/MEKHDAAAQBAJ?hl=en&gbpv=1&printsec=frontcover).*
+A few helpful English overviews: [](https://www.google.co.in/books/edition/Critics_of_Modernity/M_FbAAAAMAAJ?hl=en) *[Critics of Modernity: The Literature of the Conservative Revolution in Germany, 1890-1933](https://www.google.co.in/books/edition/Critics_of_Modernity/M_FbAAAAMAAJ?hl=en) *and *[The Conservative Revolution in the Weimar Republic](https://www.google.co.in/books/edition/The_Conservative_Revolution_in_the_Weima/MEKHDAAAQBAJ?hl=en&gbpv=1&printsec=frontcover). *
 
 **Herein lie the translated excerpts:**
 
@@ -63,7 +87,22 @@ In the editorial cited in A 3.7, there is an attempt to call the revolutionary p
 
 In any case, one thing becomes clear: in the "Conservative Revolution" lives a will to change certain conditions by force, which justifies the use of the word "revolutionary" and which is also repeatedly called "revolutionary" by the opposing side. Since, as already said, our task is not the establishment of a logically elaborated system, but the description of an existing world view, we can leave it at this delimitation of the words "conservative" - "reactionary" - "revolutionary".
 
-[Comment](https://eruditus.substack.com/p/wer-ist-der-konservativrevolutionar/comments)
+[](https://eruditus.substack.com/p/wer-ist-der-konservativrevolutionar/comments)[](javascript:void(0))
 
-[Share](javascript:void(0))
+Share this post
 
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff875f1f0-09eb-4bdc-939a-8263741f8834_900x506.jpeg)
+
+Who is the Revolutionary Conservative?
+
+eruditus.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

@@ -9,9 +9,9 @@ Source: [here](https://rasajournal.substack.com/p/reimagined-strokes).
 
 Reimagined Strokes
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcfa37c3e-ddb9-4564-b125-5e5c2ba902ac_1280x960.jpeg)
 
 Reimagined Strokes
 
@@ -29,9 +29,33 @@ Email
 
 ### How can we reimagine the Mahabharata?
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2493377a-60dd-44d9-a41e-4aff3778a15c_660x1006.jpeg)](https://substack.com/profile/4266017-garima?utm_source=author-byline-face)
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcfa37c3e-ddb9-4564-b125-5e5c2ba902ac_1280x960.jpeg)
+[Garima](https://substack.com/profile/4266017-garima)
+
+Dec 18, 2021
+
+3
+
+[](https://rasajournal.substack.com/p/reimagined-strokes/comments)[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcfa37c3e-ddb9-4564-b125-5e5c2ba902ac_1280x960.jpeg)
+
+Reimagined Strokes
+
+rasajournal.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcfa37c3e-ddb9-4564-b125-5e5c2ba902ac_1280x960.jpeg)
 
 *Krishna with the Pandava brothers. Painting by Giampaolo Tomassetti.*
 
@@ -47,7 +71,7 @@ And so, as endless as it is, it has been told endlessly since its inception. At 
 
 It’s a complicated task, then, to reimagine and reinvent a seemingly war story to fit the contours of each of our lives. But it’s what Giampaolo Tomassetti and Amruta Patil have done. Where Tomassetti’s Mahabharata paintings invite us to speculate on the grandeur of the story, Patil’s Parva Duology graphic novels lay threadbare the humanity of it.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9248ac5c-c169-4e18-bb2f-bc413e0c52f6_1280x890.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9248ac5c-c169-4e18-bb2f-bc413e0c52f6_1280x890.jpeg)
 
 *Dialogue between princess Amba and Bheeshma, where she chastises him for her misfortune. From Amruta Patil’s Adi Parva, the first of the duology.*
 
@@ -61,7 +85,7 @@ Both, however, agree that their art has been a spiritual experience for them. Pa
 
 Like many, he too found himself moved by the story of Karna, who was born a Pandava but nursed by the Kauravas. He likens the tragic exchange between him and his mother Kunti with that of Madonna, or Mary, with her infant, Jesus Christ. “I called that painting Piety and in general, I like those moments of love between friends and parents as moments of hope in between of a huge tragedy”, Tomassetti explains.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6fe2f49b-00bb-4466-8925-a73cf5661265_960x1280.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6fe2f49b-00bb-4466-8925-a73cf5661265_960x1280.jpeg)
 
 *Karna and Kunti before the war. Painting by Giampaolo Tomassetti.*
 
@@ -69,11 +93,11 @@ But while many may have the intent to reimagine and reinvent a tale as timeless 
 
 Patil says that while she was moved by Yusuf Lien ‘Bangalorewala’’s Mirabai title for Amar Chitra Katha, for her visual style she was inspired by South Indian sculptures, the color schematics of Rajasthani miniature paintings, French painters Paul Gauguin and Odilon Redon, and Mexican painter Diego Rivera. Tomassetti, on the other hand, researched the television depictions of Mahabharata but ultimately used his imagination in marrying the Indian aesthetics to the Italian art of Renaissance and Baroque styles. “My mood was not to be overwhelmed by the tradition itself, neither from my main one because I would be stiff in the mud of rules which is the opposite of a possible evolution and of uncovering new languages to actually say the same things,” he says.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4a3dcf34-54cd-48b7-a413-d66d54022fb2_1280x960.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4a3dcf34-54cd-48b7-a413-d66d54022fb2_1280x960.jpeg)
 
 *From Amruta Patil’s Adi Parva.*
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F66946283-5bfd-410a-b661-ab536ab5b28b_1280x960.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F66946283-5bfd-410a-b661-ab536ab5b28b_1280x960.jpeg)
 
 *From Giampaolo Tomassetti’s Mahabharata.*
 
@@ -91,5 +115,22 @@ In his book, Dance of Siva, the SriLankan writer Anand Coomaraswamy emphasized t
 
 It is also believed that most Hindu works, whether of philosophy, religion, art, literature, or music, are attempts at lifting the veil of maya or illusion to uncover the ultimate reality of human experience. In Patil’s context, the maya may be a certain socio-political context that many may find hard to go let of because of ingrained traditional beliefs. In Tomassetti’s, it could be the scale and aesthetics that one may never have thought to associate with these stories. Either way, while the artists may reinvent a timeless story over and over again by becoming one with themselves, it is also incumbent upon the audience to receive the timeless story over and over again by broadening their sense of rapture and recognition.
 
-|                                                                           |                             | |---------------------------------------------------------------------------|-----------------------------| | [Comment](https://rasajournal.substack.com/p/reimagined-strokes/comments) | [Share](javascript:void(0)) |
+[](https://rasajournal.substack.com/p/reimagined-strokes/comments)[](javascript:void(0))
 
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcfa37c3e-ddb9-4564-b125-5e5c2ba902ac_1280x960.jpeg)
+
+Reimagined Strokes
+
+rasajournal.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

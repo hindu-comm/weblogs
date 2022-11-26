@@ -9,9 +9,9 @@ Source: [here](https://rasajournal.substack.com/p/pieces-of-a-puzzle).
 
 Pieces Of A Puzzle 
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf5abbbb-02b4-4340-96cf-5c95a3b3b30b_1050x1228.jpeg)
 
 Pieces Of A Puzzle
 
@@ -29,7 +29,31 @@ Email
 
 ### How the work of three individuals is making history and culture come alive.
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2493377a-60dd-44d9-a41e-4aff3778a15c_660x1006.jpeg)](https://substack.com/profile/4266017-garima?utm_source=author-byline-face)
+
+[Garima](https://substack.com/profile/4266017-garima)
+
+Nov 8, 2021
+
+3
+
+[](https://rasajournal.substack.com/p/pieces-of-a-puzzle/comments)[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf5abbbb-02b4-4340-96cf-5c95a3b3b30b_1050x1228.jpeg)
+
+Pieces Of A Puzzle
+
+rasajournal.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
 
 ***Context, not content***
 
@@ -39,13 +63,13 @@ Email
 
 If the last of these sounds silly, then you should know that that’s exactly what the Bollywood poet and lyricist Anand Bakshi did when his family had to flee their ancestral home in Pakistan’s Rawalpindi to Delhi in India during the 1947 Partition. The photos were of his mother, Sumitra Bali, whom he had lost at a young age as well as of the family in general. When his father yelled at him for carrying such “useless things”, he shot back, “Money we can earn when we find work, but if these photos of her were lost, no amount of money could ever bring them back for me. Pictures of her are all I have to live with, my entire life!”
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2845781-a927-4b60-9058-1478b6ea44ec_438x543.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2845781-a927-4b60-9058-1478b6ea44ec_438x543.jpeg)
 
 *One of the photos saved by Anand Bakshi while leaving Pakistan for India during the Partition*. *Image Courtesy: Indian Memory Project.*
 
 These photos then travelled the Bakshi household from one residence to another in India and have been treasured as precious gems. This [story](https://www.indianmemoryproject.com/137/) by the lyricist’s son, Rakesh Anand Bakshi, may have remained only a family anecdote if it wasn’t for Anusha Yadav’s Indian Memory Project. Launched in 2010, it was her attempt at trying to bridge the gap between the history she read in books or saw in museums and the personal histories she had heard from family, friends, and acquaintances.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F54429d5e-cb03-415c-8fa2-15e9d69350b3_750x1000.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F54429d5e-cb03-415c-8fa2-15e9d69350b3_750x1000.jpeg)
 
 *A screengrab of Indian Memory Project’s Instagram account.*
 
@@ -79,7 +103,7 @@ In 2020, a twenty-something set up a Twitter and Instagram account which now hav
 
 For instance, a post about the [Ardhanārīśvara](https://www.instagram.com/p/CP2_GqnrO3Y/?utm_medium=copy_link) form of Shiva and Parvati on Instagram is done in three parts where one can not only see various versions of the deity in painting and sculpture but also read about the story behind it as mentioned in the Puranic literature. The same concept is elucidated even more in its Medium [publication](https://hinduaesthetic.medium.com/ardhan%C4%81r%C4%AB%C5%9Bvara-4fc793998b26) with more artwork. So, through the post, we learn about the plays where the ace Indian playwright Kalidasa wrote about this godly manifestation— Kumarasambhava and Raghuvamsa— along with the relevant verses. The post continues, “Kalidasa refers to them as ‘jagatah pitarau’ or the parents of the universe, as Parvati and Paramesvara are said to be the primordial prakriti and purusa, unite to cause the existence of the entire cosmos. The post, like all others, is replete with references for all the visual and textual references used, which can be helpful for anyone wanting to explore further or verify the details.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf5abbbb-02b4-4340-96cf-5c95a3b3b30b_1050x1228.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf5abbbb-02b4-4340-96cf-5c95a3b3b30b_1050x1228.jpeg)
 
 *One of the Ardhanārīśvara visual artworks featured by the hindu aesthetic. Image courtesy: Cleveland Museum of Art.*
 
@@ -89,7 +113,7 @@ While *hindu aesthetic*’s own field in daily life is far removed from art and 
 
 Where we tend to spend a minute or sometimes even less on a social media post, the creators have to spend a lot more on it. “Posts take me upwards of a week to look up material for research and writing, including tracking down books, papers, and art. This can be extremely demanding when attempting to balance with life,” the *hindu aesthetic* creator adds. Buoyed by the feedback and engagement from the ‘followers’, the creator wants to eventually set up a website and branch out into a YouTube channel with video essays.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7978cd7-ac06-4d29-872b-ab06fbd77bd3_750x1006.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7978cd7-ac06-4d29-872b-ab06fbd77bd3_750x1006.jpeg)
 
 *A screengrab from hindu aesthetic’s Instagram account.*
 
@@ -104,5 +128,22 @@ Today, when Indians find themselves wanting for ‘real’ histories in order to
   
   
 
-|                                                                           |                             | |---------------------------------------------------------------------------|-----------------------------| | [Comment](https://rasajournal.substack.com/p/pieces-of-a-puzzle/comments) | [Share](javascript:void(0)) |
+[](https://rasajournal.substack.com/p/pieces-of-a-puzzle/comments)[](javascript:void(0))
 
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf5abbbb-02b4-4340-96cf-5c95a3b3b30b_1050x1228.jpeg)
+
+Pieces Of A Puzzle
+
+rasajournal.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

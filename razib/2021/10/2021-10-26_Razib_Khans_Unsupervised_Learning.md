@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/trent-colbert-standing-athwart-the).
 
 Razib Khan's Unsupervised Learning
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff85f569c-71fe-4000-b507-55fc986c1b9c_499x374.jpeg)
 
 Trent Colbert: standing athwart the mob
 
@@ -25,17 +25,13 @@ Facebook
 
 Email
 
-![](https://substackcdn.com/image/fetch/w_512,h_512,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff85f569c-71fe-4000-b507-55fc986c1b9c_499x374.jpeg)
+![](https://substackcdn.com/image/fetch/w_512,h_512,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2c48569f-373c-4d04-96a3-1aad755a419b_3000x3000.png)
 
 Oct 26, 2021 • 38M
 
 # Trent Colbert: standing athwart the mob
 
 ### How an individual stood up to the collective and lived to tell the tale
-
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
-
-[Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
 Oct 26, 2021
 
@@ -48,6 +44,8 @@ Oct 26, 2021
 [](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff85f569c-71fe-4000-b507-55fc986c1b9c_499x374.jpeg)
 
 Trent Colbert: standing athwart the mob
 
@@ -72,6 +70,12 @@ Email
 Open in playerListen on
 
 Audio playback is not supported on your browser. Please upgrade.
+
+#### Appears in this episode
+
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face-podcast)
+
+Razib Khan
 
 Conversations about science, culture, and current affairs
 
@@ -109,8 +113,6 @@ Overall, perhaps the take-home lesson is that it doesn’t take an exceptional p
 
 [Share](https://razib.substack.com/p/trent-colbert-standing-athwart-the?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
-Like this post
-
 [](https://razib.substack.com/p/trent-colbert-standing-athwart-the/comments)
 
 2
@@ -118,6 +120,8 @@ Like this post
 [](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff85f569c-71fe-4000-b507-55fc986c1b9c_499x374.jpeg)
 
 Trent Colbert: standing athwart the mob
 
@@ -131,3 +135,4 @@ Facebook
 
 Email
 
+Like this post

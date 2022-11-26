@@ -71,8 +71,6 @@ Your time is finite. Your phone and the internet stand ready to help you squande
 
 ### **Books, what else?**
 
-[](https://razib.substack.com/i/72575191/books-what-else)
-
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fde49b555-eebc-45a2-b21c-3c3fcf9e5bdb_1062x210.jpeg)
 
 Despite not having been a religious adherent past the age of seven, as an adult, I’ve taken a deep interest in religion as a social and cultural phenomenon. To understand human experience and history, you have to grapple with religion. In my youth, I trusted you simply needed to ask people what they believed or perhaps read the books believers claimed to be guided by or hold sacred. This simplistic logic explains why after 9/11 so many Americans purchased the Koran or went to informational sessions at mosques. They wanted to understand Islam, so they read its holy book and listened to Muslims.
@@ -99,8 +97,6 @@ But what about the richly textured narratives of the major world religions? Reli
 
 ### **Thought**
 
-[](https://razib.substack.com/i/72575191/thought)
-
 [The gossip trap: How civilization came to be and how social media is ending it](https://erikhoel.substack.com/p/the-gossip-trap). If you assign time to one “long-read” this month, make it Erik Hoel’s explanation for why human cultural evolution exploded only in the last 10,000 years, and why it might end soon.
 
 [Schools should try to teach kids the basics](https://www.slowboring.com/p/schools-should-try-to-teach-kids). This seems so common sense you might wonder why someone would have to write it, but if you have children in American elementary schools, you’ll understand. Far too few basics and far too much…well, I don’t know what “[social-emotional learning](https://casel.org/fundamentals-of-sel/)” is supposed to teach.
@@ -113,8 +109,6 @@ But what about the richly textured narratives of the major world religions? Reli
 
 ### **Data**
 
-[](https://razib.substack.com/i/72575191/data)
-
 [Hunter-gatherer admixture facilitated natural selection in Neolithic European farmers](https://www.biorxiv.org/content/10.1101/2022.09.05.506481v1?rss=1). This should be expected theoretically. The mixing of two populations is like reciprocally adding new mutations, many of which have already been selected to be neutral or beneficial. The finding that immunological alleles from hunter-gatherers were favored is exciting and is in line with the need for diversity at these loci, as well as the possibility of local European diseases to which the natives were adapted.
 
 [Genomes from a medieval mass burial show Ashkenazi-associated hereditary diseases that pre-date the 12th century](https://www.sciencedirect.com/science/article/pii/S0960982222013550). Seems in line with earlier work. Shows that the basic outlines of Ashkenazi heritage were already present in Europe in the 1100’s, though some demographic processes reshaped it in the subsequent centuries.
@@ -126,8 +120,6 @@ But what about the richly textured narratives of the major world religions? Reli
 [Genome-wide DNA methylation profiles in smoking discordant and concordant monozygotic twin pairs](https://www.biorxiv.org/content/10.1101/2022.08.17.504357v1?rss=1). Epigenetics is a real thing in specific contexts. This is one case where environmental “insults” have obvious genomic consequences.
 
 ### **My Two Cents**
-
-[](https://razib.substack.com/i/72575191/my-two-cents)
 
 There’s still no free lunch, free subscribers; my most in-depth pieces for this Substack are beyond the paywall. Since the last “Time Well Spent” I’ve had a few big pieces for paying subscribers.
 
@@ -146,8 +138,6 @@ Next, I wrote a post about inbreeding that used a pop-culture hook, [Only from t
 If you want to browse my more geographically focused pieces, [Dry.io](https://dry.io/) has created an [interactive map](https://unsupervisedlearning.dry.io/v?mv=false&t=tsr&oc=$3djle7rg85g8l&st=$3_xg52r0d0m1m) of them. We’ll keep adding to that [page](https://unsupervisedlearning.dry.io/v?mv=false&t=tsr&oc=$3djle7rg85g8l&st=$3_xg52r0d0m1m) over time. Also, [Dry.io](https://dry.io/) set up a nice skin for my [pinboard bookmarks](https://unsupervisedlearning.dry.io/v?t=tsr&oc=$5hodbpn3bqsbe&st=$5dwav6axuh9ad) and a page for reader-submitted links.
 
 ### **Discussion**
-
-[](https://razib.substack.com/i/72575191/discussion)
 
 All my podcasts go [ungated](https://unsupervisedlearning.libsyn.com/) two weeks after their Substack release. So I encourage subscribers on the free plan who’d like to automatically get them to [subscribe](https://unsupervisedlearning.libsyn.com/) to that podcast stream ([Apple](https://podcasts.apple.com/gb/podcast/razib-khans-unsupervised-learning/id1542136715?ls=1), [Stitcher](https://www.stitcher.com/show/razib-khans-unsupervised-learning), and [Spotify](https://open.spotify.com/show/0qC7KtuzPG9azwjt3opYlI)).
 
@@ -173,8 +163,6 @@ The two podcasts under “Razib Khan” are monologues where I reflect on a topi
 For subscribers, I’m now posting transcripts (automatically generated, though I have someone quickly scanning for the most egregious errors).
 
 ### **ICYMI**
-
-[](https://razib.substack.com/i/72575191/icymi)
 
 Some of you follow me on my [newsletter](http://razib.substack.com/), [blog](https://www.gnxp.com/), or [Twitter](https://twitter.com/razibkhan). But my own domain also has all of the links and updates:
 
@@ -214,23 +202,17 @@ Some of you follow me on my [newsletter](http://razib.substack.com/), [blog](htt
 
 ### **On the blog**
 
-[](https://razib.substack.com/i/72575191/on-the-blog)
-
 [The Re-Enchantment Of The World](https://www.gnxp.com/WordPress/2022/08/24/the-re-enchantment-of-the-world/):
 
 > This is not to say that scientists were ever objective. They’re human. > But in past generations, there was a sense that in some cases, in some > instances, they had to put aside their views. To give a concrete > example, I know the case of an eminent geneticist who spoke in front > of a conservative group, even though his own politics leaned toward > socialism. My understanding is that when queried about this choice he > stated that he believes in setting aside politics when it comes to > science. Today this would be seen as a regressive viewpoint. Most > young geneticists would I’m sure avoid speaking in front of a > conservative group.
 
 ### **Over to you**
 
-[](https://razib.substack.com/i/72575191/over-to-you)
-
 Comments are open to all for this post, so if you have more reading/listening suggestions or tips on who I should be talking to or what I really should be writing for you, lay it on me.
 
 Razib Khan's Unsupervised Learning is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
 
 **Subscribe**
-
-Like this post
 
 [](https://razib.substack.com/p/rkul-time-well-spent-09092022/comments)
 
@@ -253,3 +235,5 @@ Twitter
 Facebook
 
 Email
+
+Like this post

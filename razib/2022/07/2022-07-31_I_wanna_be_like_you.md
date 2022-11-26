@@ -35,7 +35,7 @@ Email
 
 Jul 31
 
-73
+75
 
 [](https://razib.substack.com/p/i-wanna-be-like-you/comments)
 
@@ -81,8 +81,6 @@ Perhaps one of the most mystifying questions though, is how does it make sense t
 
 ### **Better estimation through chemistry**
 
-[](https://razib.substack.com/i/66447548/better-estimation-through-chemistry)
-
 In genetics’ “Dark Ages,” by which I mean before 1950, researchers tracked patterns of inheritance in populations via breeding experiments or observations in nature. They saw traits and assigned presumptive genes to them, laboriously noting the correlations in inheritance patterns of characteristics to infer how far apart they were on the “genetic map.” Then, DNA’s discovery triggered a revolution in our ability to track genetic inheritance. Researchers began to use properties and patterns of biomolecules to assay the underlying genetic variation which had previously only been inferred through external characteristics.
 
 A significant catalyst for the methodological revolution was Francis Crick’s “Central Dogma of Molecular Biology,” first articulated in 1958: DNA transcribes to RNA which translates to proteins. Proteins are the building blocks of organisms, so the characteristics that geneticists were tracking earlier were often the product of protein variation. By the 1960’s geneticists were directly [assessing](https://academic.oup.com/genetics/article/203/4/1497/6067212) protein variation to investigate all sorts of interesting evolutionary questions with more precision and rigor.
@@ -98,8 +96,6 @@ But what about that percentage we’re focused on? How did it turn out to be rou
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F434c038a-e19e-4d81-b99e-8d0ef3c8f965_900x241.png)
 
 ### **46 vs 48**
-
-[](https://razib.substack.com/i/66447548/-vs-)
 
 Some of us are old enough to remember that for several decades, to their shame, geneticists [miscounted](https://geneticsunzipped.com/news/2019/4/25/the-case-of-the-missing-human-chromosomes) the number of human chromosomes, with 24 pairs for a total of 48. In fact, we have just 23 pairs for a total of 46. One pair are sex chromosomes, XX in females, XY in males. The remaining 22 are autosomal chromosomes subject to conventional Mendelian inheritance patterns. Our chimp relatives do have 48 chromosomes, though. As seen in the figure above, the simple divergence occurs at our chromosome 2, a human fusion of what is preserved as two ancestral chromosomes in chimpanzees and gorillas.
 
@@ -119,8 +115,6 @@ But wait, how can siblings be 50% identical but be up to 99.93% genomically iden
 
 ### **Segments not SNPs**
 
-[](https://razib.substack.com/i/66447548/segments-not-snps)
-
 The above screenshot is from [23andMe](https://www.amazon.com/exec/obidos/ASIN/B01G7PYQTM/geneexpressio-20), which focuses on health, traits, genealogy and ancestry. Ignoring the exact estimate of DNA shared (since they’re leaving out the sex chromosomes); you can see that I share about “half my DNA” in this method with my son. This is as you’d expect. But notice that we apparently share 22 “segments.”. What does that mean?
 
 When 23andMe returns segment matches between two individuals, these are whole long sequences of the genome that read precisely identical. For example, my son’s chromosome 1 has one copy from me, and those 250,000,000 bases match mine almost perfectly (at the most he might have a few new mutations). If I were comparing my chromosome 1 with a random person’s, I’d expect about 250,000 single nucleotide polymorphism (SNP) differences breaking up the homogeneity of segment matches.
@@ -133,8 +127,6 @@ Since you don’t share recent ancestors with chimpanzees, when you see a number
 
 ### **But what does 98 or 99% mean to us?**
 
-[](https://razib.substack.com/i/66447548/but-what-does-or-mean-to-us)
-
 When geneticists initially concluded that chimpanzees and humans were 98 to 99 identical, the public was shocked because our two species look so different. Or at least that’s what we like to tell ourselves. The humans who find this statistic shocking presumably react as they do because *Homo sapiens* and *Pan troglodytes* (chimpanzees) are physically different. There are two problems with this puzzle of how a small genetic change could lead to such large differences. First, who is to say that chimpanzees and humans look that different? We know humans are evolutionarily young, but a diminutive brown-skinned Mbuti tribesman looks very different from Dirk Nowitzki, a pale, gangly, German former NBA player. And yet they share ancestry within the last 100,000 years. The time since our last common ancestor with chimpanzees is about 100 times longer than between the Mbuti tribesman and Dirk Nowitzki, so why should we be surprised that the various great apes exhibit a lot of diversity in appearance?
 
 Second, we didn’t have many good intuitions about genetic divergence in the 1970’s. A 1983 article in *The New York Times*, [Keeping up with the genetic revolution](https://www.nytimes.com/1983/11/06/magazine/keeping-up-with-the-genetic-revolution.html), stated that “Of the estimated 100,000 genes found tucked up inside a human cell, some 800 have now been tracked to their chromosomal locations, with new genes being mapped at a rate of 200 per year.” We now know there are just 19,000 genes, though at a steady rate of 200 per year it still would have taken until 2074 to map the whole genome.
@@ -142,8 +134,6 @@ Second, we didn’t have many good intuitions about genetic divergence in the 19
 Understanding that we’re about 1% different from chimpanzees was good enough to quantify the complex evolutionary relationships between ourselves and the great apes. It turns out that we are great apes too, it’s not us vs. them. Jared Diamond’s *[The Third Chimpanzee](https://www.amazon.com/exec/obidos/ASIN/0060845503/geneexpressio-20)*, written in 1987, alluded to this fact in the title, as by then it was clear humans were in the same evolutionary family as chimpanzees and bonobos, with gorillas looking in from the outside. We three are the hominins.
 
 ### **So what?**
-
-[](https://razib.substack.com/i/66447548/so-what)
 
 At the end of the day, the questions of how genetically related humans are to chimps, how long ago our lineages must have diverged, and which chromosomes have merged or otherwise become scrambled... are perhaps the very definition of trivia. Who cares? Does it matter?
 
@@ -158,8 +148,6 @@ And the act of finalizing those refinements, closing each pending case by dottin
 ------------------------------------------------------------------------
 
 **Reference:** Suntsova, Maria V., and Anton A. Buzdin. "Differences between human and chimpanzee genomes and their implications in gene expression, protein functions and biochemical properties of the two species." *BMC genomics* 21.7 (2020): 1-12.
-
-Like this post
 
 [](https://razib.substack.com/p/i-wanna-be-like-you/comments)
 
@@ -182,3 +170,5 @@ Twitter
 Facebook
 
 Email
+
+Like this post

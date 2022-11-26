@@ -95,6 +95,8 @@ the assakas. This confirms the position of the assakas of bAvarI. Apparently
 this was an out flanking operation to prevent  
 the assakas from making common cause with the draviDas attacking kalinga by sea.
 
+Advertisement
+
 **Category:**
 
 [Hindu History](https://musingsofhh.wordpress.com/category/hindu-history/)
@@ -103,7 +105,7 @@ the assakas from making common cause with the draviDas attacking kalinga by sea.
 
 **Tagged with:**
 
--   [bauddha](https://musingsofhh.wordpress.com/tag/bauddha/) -   [brahmana](https://musingsofhh.wordpress.com/tag/brahmana/) -   [buddhist](https://musingsofhh.wordpress.com/tag/buddhist/) -   [dravidian](https://musingsofhh.wordpress.com/tag/dravidian/) -   [indo-aryan](https://musingsofhh.wordpress.com/tag/indo-aryan/) -   [pali](https://musingsofhh.wordpress.com/tag/pali/) -   [sangam](https://musingsofhh.wordpress.com/tag/sangam/) -   [tamil](https://musingsofhh.wordpress.com/tag/tamil/)
+- [bauddha](https://musingsofhh.wordpress.com/tag/bauddha/) - [brahmana](https://musingsofhh.wordpress.com/tag/brahmana/) - [buddhist](https://musingsofhh.wordpress.com/tag/buddhist/) - [dravidian](https://musingsofhh.wordpress.com/tag/dravidian/) - [indo-aryan](https://musingsofhh.wordpress.com/tag/indo-aryan/) - [pali](https://musingsofhh.wordpress.com/tag/pali/) - [sangam](https://musingsofhh.wordpress.com/tag/sangam/) - [tamil](https://musingsofhh.wordpress.com/tag/tamil/)
 
 **[3 types of Westernscholarship](https://musingsofhh.wordpress.com/2011/05/12/3-types-of-western-scholarship/)**
 

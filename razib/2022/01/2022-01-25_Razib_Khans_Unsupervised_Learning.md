@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/rav-arora-psychedelics-and-spiritual
 
 Razib Khan's Unsupervised Learning
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F646c3890-9aae-4338-8878-e66368468b44_800x533.jpeg)
 
 Rav Arora: psychedelics and spirituality
 
@@ -25,7 +25,7 @@ Facebook
 
 Email
 
-![](https://substackcdn.com/image/fetch/w_512,h_512,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F646c3890-9aae-4338-8878-e66368468b44_800x533.jpeg)
+![](https://substackcdn.com/image/fetch/w_512,h_512,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2c48569f-373c-4d04-96a3-1aad755a419b_3000x3000.png)
 
 Jan 25 • 59M
 
@@ -33,13 +33,9 @@ Jan 25 • 59M
 
 ### What has psilocybin to do with enlightenment?
 
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
-
-[Razib Khan](https://substack.com/profile/1400665-razib-khan)
-
 Jan 25
 
-10
+11
 
 [](https://razib.substack.com/p/rav-arora-psychedelics-and-spirituality/comments)
 
@@ -48,6 +44,8 @@ Jan 25
 [](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F646c3890-9aae-4338-8878-e66368468b44_800x533.jpeg)
 
 Rav Arora: psychedelics and spirituality
 
@@ -73,6 +71,12 @@ Open in playerListen on
 
 Audio playback is not supported on your browser. Please upgrade.
 
+#### Appears in this episode
+
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face-podcast)
+
+Razib Khan
+
 Conversations about science, culture, and current affairs
 
 **Subscribe**
@@ -97,8 +101,6 @@ But much of the discussion goes deeper into issues of metaphysics. What is spiri
 
 The substack is [The Noble Truths with Rav Arora](https://ravarora.substack.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile), where he posts essays on the science of mystical experience and psychedelics. Paid subscribers can also get Rav’s post-psychedelic trip audio recordings and FaceTime podcasts with ‘IDW’ figures.
 
-Like this post
-
 [](https://razib.substack.com/p/rav-arora-psychedelics-and-spirituality/comments)
 
 8
@@ -106,6 +108,8 @@ Like this post
 [](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F646c3890-9aae-4338-8878-e66368468b44_800x533.jpeg)
 
 Rav Arora: psychedelics and spirituality
 
@@ -119,3 +123,4 @@ Facebook
 
 Email
 
+Like this post

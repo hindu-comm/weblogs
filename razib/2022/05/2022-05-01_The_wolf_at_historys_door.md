@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/the-wolf-at-historys-door).
 
 The wolf at history's door
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faea3071c-e69a-4e39-aad7-53138a7fac6b_1200x675.jpeg)
 
 The wolf at history's door
 
@@ -29,9 +29,37 @@ Email
 
 ### How shepherd and wolf remade Eurasia in their image (part 1)
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
 
-![Amleth, a Scandinavian warrior and king, during a koryos initiation in the film *The Northman*](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faea3071c-e69a-4e39-aad7-53138a7fac6b_1200x675.jpeg)
+[Razib Khan](https://substack.com/profile/1400665-razib-khan)
+
+May 1
+
+97
+
+[](https://razib.substack.com/p/the-wolf-at-historys-door/comments)
+
+24
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faea3071c-e69a-4e39-aad7-53138a7fac6b_1200x675.jpeg)
+
+The wolf at history's door
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+![Amleth, a Scandinavian warrior and king, during a koryos initiation in the film *The Northman*](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faea3071c-e69a-4e39-aad7-53138a7fac6b_1200x675.jpeg)
 
 **Subscribe**
 
@@ -49,7 +77,7 @@ On June 25–26th of 1876, at Little Bighorn in Montana, a coalition of Sioux, C
 
 Today Americans view these wars with ambivalence, as the expansionist US, seeking its “Manifest Destiny,” conquered the doomed underdog natives of the continent with wanton brutality. But the Plains Indians were themselves a people of conquest, hardened and cruel, and would have bridled at the mantle of the underdog. They espoused an ethos exemplified by their warrior braves who wasted no pity on their enemies and expected none in return. In S.C. Gwynne’s book, *[Empire of the Summer Moon](https://www.amazon.com/exec/obidos/ASIN/B003KN3MDG/geneexpressio-20)*, he notes that during Comanche raids all “the men were killed, and any men who were captured alive were tortured; the captive women were gang raped. Babies were invariably killed.” Comanche brutality was not total; young boys and girls were captured and enslaved during these raids, but could eventually be adopted into the tribe if they survived a trial by fire: showing courage and toughness even in the face of ill-treatment as slaves. Quanah Parker, the last chief of the Comanche, was the son of a white woman who had been kidnapped when she was nine.
 
-![Quanah Parker, the last chief of the Comanche](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd80903de-7066-4893-a831-e58551052476_891x660.jpeg)
+![Quanah Parker, the last chief of the Comanche](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd80903de-7066-4893-a831-e58551052476_891x660.jpeg)
 
 These tribes were warlike because the mobilization of cadres of violent young men was instrumental to the organization of their societies. They were all patrilineal and patriarchal, for though women were not chattel, tribal identity passed from the father to the son. A Sioux or Comanche was by definition the offspring of a Sioux or Comanche father. The birth of a Comanche boy warranted special congratulations for the father, reflecting the importance of sons genealogically for the line to continue. It was the sons who would grow up to feed the tribe through mass-scale horseback buffalo hunts. It was the sons who undertook daring raids and came home draped in plunder. The religion of these warriors was victory, and they stoically accepted that defeat meant death.
 
@@ -57,7 +85,7 @@ These mounted warrior societies of the Plains Indians were a recent product of t
 
 That this final chapter in the history of the planet’s mounted nomads played out in the full light of American history allows us to vividly imagine the lives of their prehistoric cultural forebears. Just as the Sioux and the Comanche were ruled by the passions of their fearless braves, who were driven to seek glory and everlasting fame on the battlefield, so bands of youth out of the great grassland between Hungary and Mongolia had long ago wreaked havoc on Eurasia from the Atlantic to the Pacific, and the tundra to the Indian ocean. These feral werewolves of the steppe resculpted the cultural topography of the known world three to five thousand years ago. Their ethos was an eagerly grasping pursuit not of what was theirs by right, but of anything they could grab by might. Where the Sioux and Commanche were crushed by the organized might of a future world power, their reign soon consigned to a historical footnote, the warriors of yore marched from victory to conquest. They remade the world in their brutal image, inadvertently laying the seedbeds for gentler ages to come, when roving bands of youth were recast as the barbarian enemy beyond the gates, when peace and tranquility, not a glorious death in battle, became the highest good.
 
-![Early pastoralists](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1737df2e-13ee-412e-9ca2-fe9f35436654_939x607.jpeg)
+![Early pastoralists](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1737df2e-13ee-412e-9ca2-fe9f35436654_939x607.jpeg)
 
 ### **A whirlwind of wagons**
 
@@ -79,13 +107,13 @@ It is unlikely that this male-focused society was the result of an ideological r
 
 This facility for organized violence did not emerge from a vacuum. Rather, the newly freeing nomadic lifestyle found a unique outlet for the innate impulses and passions of these young men that had stood their forager ancestors in good stead for millions of years, from the African savanna to the Siberian tundra. Brutality had been bred into them by the natural history of our species, red in tooth and claw. Ancient instincts that had been restrained were now cultivated anew, nurtured and channeled into striking and often cruel new forms. The Paleolithic foragers who had survived the brutal cold of the Ice Age had to balance their instinct for cooperation with hard, calculating competitiveness. They could also kill without remorse; we know that hunter-gatherers raided and slaughtered each other [long before](https://www.sciencenews.org/article/hunter-gatherers-warfare-stone-age-jebel-sahaba) the emergence of agriculture. Though the farming societies that succeeded the hunter-gatherers were not [peaceful idylls](https://www.google.com/search?q=lbk+massacre+europe&rlz=1C5CHFA_enUS970US970&oq=lbk+massacre+europe&aqs=chrome..69i57j0i13i30j0i390.2312j0j4&sourceid=chrome&ie=UTF-8), the rhythms of the season and the limitations of settled village life served as a check on the instinct to wreak havoc on one’s enemies, narrowing the horizons of brutality in both time and space. Nomadism freed Neolithic humans from these constraints, giving free rein to the well-honed ancient instincts of young men who were emerging into the fullness of their strength and ferocity.
 
-![FBI UCR data from 2019](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F07a9e785-f1aa-4f6d-9117-12017f9c0751_500x391.jpeg)
+![FBI UCR data from 2019](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F07a9e785-f1aa-4f6d-9117-12017f9c0751_500x391.jpeg)
 
 ### **Ferocity as biology**
 
 Murder is a crime committed by young men, from the US to [Japan](http://www.ceacb.ucl.ac.uk/cultureclub/files/2004-2005/CC2005-07-07-Hiraiwa-Hasegawa.pdf), and [worldwide](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222996) generally. The reason for this universality in age (and sex) distribution of offenders is at its root human nature, and not due to contingent material or ideological conditions, even if the latter may exacerbate the tendency toward violence. The violent and amoral behavior of Bronze Age nomadic warriors is ultimately a downstream consequence of human sexual dimorphism, not something concocted out of whole cloth by a malign sage of the steppe.
 
-A male bent toward aggression is not simply a function of environmental incentives and culturally driven socialization. It is rooted in impulses that can bubble up out of our biology. Carole Hooven in *[T: The Story of Testosterone, the Hormone that Dominates and Divides Us](https://www.amazon.com/exec/obidos/ASIN/B08HKX6GWH/geneexpressio-20)* observes that testosterone levels in men peak in their early 20’s, and studies have consistently shown a correlation between [testosterone and violence](https://jual.nipissingu.ca/wp-content/uploads/sites/32/2018/09/Carre-Bird-et-al-chapter.pdf), as well as a correlation between the hormone and competitive drive. These phenomena have an evolutionary basis; young men must scramble for limited resources to obtain mates, a dynamic that long predates humanity itself. While women are constrained to at most 30-some gestations in their lifetime (assuming an extreme of near-continuous pregnancy from menarche to menopause), men can potentially father a far larger number of offspring. The founder of modern Saudi Arabia, [Ibn Saud](https://en.wikipedia.org/wiki/Ibn_Saud#Personal_life), had 45 sons and approximately 65 daughters (daughters never being as punctiliously accounted for in the patriarchal kingdom). But if Ibn Saud had so many sons, then there must have been many men in his kingdom who fathered no children at all. In the American Mormon polygamous subculture, the term [“lost boys”](https://en.wikipedia.org/wiki/Lost_boys_(Mormon_fundamentalism)) refers to young men expelled from the community on pretexts to pave the way for higher-status men to accrue harems.
+A male bent toward aggression is not simply a function of environmental incentives and culturally driven socialization. It is rooted in impulses that can bubble up out of our biology. Carole Hooven in* [T: The Story of Testosterone, the Hormone that Dominates and Divides Us](https://www.amazon.com/exec/obidos/ASIN/B08HKX6GWH/geneexpressio-20) *observes that testosterone levels in men peak in their early 20’s, and studies have consistently shown a correlation between [testosterone and violence](https://jual.nipissingu.ca/wp-content/uploads/sites/32/2018/09/Carre-Bird-et-al-chapter.pdf), as well as a correlation between the hormone and competitive drive. These phenomena have an evolutionary basis; young men must scramble for limited resources to obtain mates, a dynamic that long predates humanity itself. While women are constrained to at most 30-some gestations in their lifetime (assuming an extreme of near-continuous pregnancy from menarche to menopause), men can potentially father a far larger number of offspring. The founder of modern Saudi Arabia, [Ibn Saud](https://en.wikipedia.org/wiki/Ibn_Saud#Personal_life), had 45 sons and approximately 65 daughters (daughters never being as punctiliously accounted for in the patriarchal kingdom). But if Ibn Saud had so many sons, then there must have been many men in his kingdom who fathered no children at all. In the American Mormon polygamous subculture, the term [“lost boys”](https://en.wikipedia.org/wiki/Lost_boys_(Mormon_fundamentalism)) refers to young men expelled from the community on pretexts to pave the way for higher-status men to accrue harems.
 
 Though most human cultures are not polygamous, in [almost every society](https://www.sciencedirect.com/science/article/pii/S0002929710000339), more females in a given generation reproduce than males. Even in the US, with norms of monogamy that mean most adults are married at some point (two-thirds of American adults are married or cohabitating with a partner at any given moment), 18% of men over 55 do not have children, as opposed to 15% of women at that age. If variation in reproductive success in males is due to genetic differences, then one major pressure on natural selection will be driven by this sex imbalance.
 
@@ -95,7 +123,7 @@ But humans are not invertebrates or fish, we’re a behaviorally flexible and so
 
 But human culture is diverse and varied, and the past history of a society can be as critical as the current environmental conditions in determining its character. Nearly 2,000 years ago, the originally Jewish sect of Christianity adopted the pagan Greco-Roman norm of obligate legal monogamy even for high-status men. Julius Caesar’s son by Cleopatra, Caesarion, was illegitimate, so Caesar had to adopt his grandnephew, Octavian, as his son and heir. This constraint on powerful men continues down to the present in Western societies. Elon Musk, the richest man in the world, is seen as prolific, with six sons and one daughter, but his fertility is lower than that of the median woman in Massachusetts in the late 1600’s. At that time family sizes of over ten children were common in New England. Warren Buffett and Bill Gates, who combined have more wealth than the poorest half of Americans combined, only have three children each.
 
-Over five thousand years ago, a few simple changes in the role of domestic animals in Eurasian societies resulted in the emergence of nomadism on the Pontic steppe and triggered a cultural and social revolution across the supercontinent. In the millennia since, our cultural mores, values and religions have changed immensely. It can be hard to comprehend the ramifications of the nomadic revolution from our vantage point because it colors so many background conditions in our civilizations. Bill Gates's net worth is on the order of one million times that of the average American man, while his advantage in numbers of offspring is only 50% greater. While Gates deploys his wealth to acquire a $127 million house and [transform](https://www.washingtonpost.com/politics/how-bill-gates-pulled-off-the-swift-common-core-revolution/2014/06/07/a830e32e-ec34-11e3-9f5c-9075d5508f0a_story.html) American education, the newfound livestock moguls of the Pontic steppe had different values and different options. In a world before advanced technology and the status symbol of a palatial estate (nomads were, literally, homeless), the men of the steppe invested their wealth and power in their descendants. They raised massive broods that would eventually overflow the steppe and wash across the civilized world, transforming human society as they went.
+Over five thousand years ago, a few simple changes in the role of domestic animals in Eurasian societies resulted in the emergence of nomadism on the Pontic steppe and triggered a cultural and social revolution across the supercontinent. In the millennia since, our cultural mores, values and religions have changed immensely. It can be hard to comprehend the ramifications of the nomadic revolution from our vantage point because it colors so many background conditions in our civilizations. Bill Gates's net worth is on the order of one million times that of the average American man, while his advantage in numbers of offspring is only 50% greater. While Gates deploys his wealth to acquire a \$127 million house and [transform](https://www.washingtonpost.com/politics/how-bill-gates-pulled-off-the-swift-common-core-revolution/2014/06/07/a830e32e-ec34-11e3-9f5c-9075d5508f0a_story.html) American education, the newfound livestock moguls of the Pontic steppe had different values and different options. In a world before advanced technology and the status symbol of a palatial estate (nomads were, literally, homeless), the men of the steppe invested their wealth and power in their descendants. They raised massive broods that would eventually overflow the steppe and wash across the civilized world, transforming human society as they went.
 
 **Subscribe**
 
@@ -103,7 +131,26 @@ Over five thousand years ago, a few simple changes in the role of domestic anima
 
 [Share](https://razib.substack.com/p/the-wolf-at-historys-door?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
-[23](https://razib.substack.com/p/the-wolf-at-historys-door/comments)
+[](https://razib.substack.com/p/the-wolf-at-historys-door/comments)
 
-[Share](javascript:void(0))
+24
 
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faea3071c-e69a-4e39-aad7-53138a7fac6b_1200x675.jpeg)
+
+The wolf at history's door
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

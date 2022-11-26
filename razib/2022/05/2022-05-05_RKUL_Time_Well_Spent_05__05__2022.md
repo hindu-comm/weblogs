@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/rkul-time-well-spent-05052022).
 
 RKUL: Time Well Spent 05/05/2022
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fad0908d6-eac6-41d0-b2d7-ba2db9efed56_1730x1428.jpeg)
 
 RKUL: Time Well Spent 05/05/2022
 
@@ -35,7 +35,7 @@ Email
 
 May 5
 
-20
+21
 
 [](https://razib.substack.com/p/rkul-time-well-spent-05052022/comments)
 
@@ -44,6 +44,8 @@ May 5
 [](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fad0908d6-eac6-41d0-b2d7-ba2db9efed56_1730x1428.jpeg)
 
 RKUL: Time Well Spent 05/05/2022
 
@@ -131,24 +133,23 @@ All my podcasts go [ungated](https://unsupervisedlearning.libsyn.com/) two weeks
 
 Here are my guests since the last Time Well Spent:
 
--   [Alex Nowrasteh: the last migration expert
-    standing](https://razib.substack.com/p/alex-nowrasteh-the-last-migration?s=w)
+- [Alex Nowrasteh: the last migration expert
+  standing](https://razib.substack.com/p/alex-nowrasteh-the-last-migration?s=w)
 
--   [Molson Hart: "Chimerica" and the supply
-    chain](https://razib.substack.com/p/molson-hart-chimerica-and-the-supply?s=w)
+- [Molson Hart: "Chimerica" and the supply
+  chain](https://razib.substack.com/p/molson-hart-chimerica-and-the-supply?s=w)
 
--   [Rand Simberg: Elon Musk's Starship and making spaceflight great
-    again](https://razib.substack.com/p/rand-simberg-elon-musks-starship?s=w)
+- [Rand Simberg: Elon Musk's Starship and making spaceflight great
+  again](https://razib.substack.com/p/rand-simberg-elon-musks-starship?s=w)
 
--   [Francis Young: Lithuanian paganism during the
-    Reformation](https://razib.substack.com/p/francis-young-lithuanian-paganism?s=w)
+- [Francis Young: Lithuanian paganism during the
+  Reformation](https://razib.substack.com/p/francis-young-lithuanian-paganism?s=w)
 
--   [Sir Walter F. Bodmer: R.A. Fisher to
-    genomics](https://razib.substack.com/p/sir-walter-f-bodmer-ra-fisher-to?s=w)
+- [Sir Walter F. Bodmer: R.A. Fisher to
+  genomics](https://razib.substack.com/p/sir-walter-f-bodmer-ra-fisher-to?s=w)
 
--   And here are the [currently ungated
-    podcasts](https://unsupervisedlearning.libsyn.com/) all in one
-    place.
+- And here are the [currently ungated
+  podcasts](https://unsupervisedlearning.libsyn.com/) all in one place.
 
 For subscribers, I now post transcripts (automatically generated, though I have someone going through to catch errors).
 
@@ -160,27 +161,27 @@ Some of you follow me on my [newsletter](http://razib.substack.com/), [blog](htt
 
 . You’ll find links to the few different podcasts I’ve contributed to or run, my total [RSS](https://feeds.feedburner.com/RazibKhansTotalFeed) feed, links to more mainstream or print articles when I remember to post them, my Twitter, the occasional guest appearance here and there, etc.
 
--   [Email](mailto:contactgnxp@gmail.com) me
+- [Email](mailto:contactgnxp@gmail.com) me
 
--   [Facebook](https://www.facebook.com/razibkhan99) message me
+- [Facebook](https://www.facebook.com/razibkhan99) message me
 
--   My [total feed](http://www.razib.com/wordpress/) of content
+- My [total feed](http://www.razib.com/wordpress/) of content
 
--   My long-time blog, [GNXP](http://gnxp.com/)
+- My long-time blog, [GNXP](http://gnxp.com/)
 
--   Some of my past pieces for
-    [UnHerd](https://unherd.com/author/razib-khan/), [National
-    Review](https://www.nationalreview.com/author/razib-khan/), [The
-    Manhattan
-    Institute](https://www.city-journal.org/contributor/razib-khan_1620),
-    [Quillette](https://quillette.com/author/razib-khan/), and [The New
-    York
-    Times](https://www.nytimes.com/2014/11/25/opinion/our-cats-ourselves.html)
+- Some of my past pieces for
+  [UnHerd](https://unherd.com/author/razib-khan/), [National
+  Review](https://www.nationalreview.com/author/razib-khan/), [The
+  Manhattan
+  Institute](https://www.city-journal.org/contributor/razib-khan_1620),
+  [Quillette](https://quillette.com/author/razib-khan/), and [The New
+  York
+  Times](https://www.nytimes.com/2014/11/25/opinion/our-cats-ourselves.html)
 
--   My old podcast, [The Insight](https://insitome.libsyn.com/)
+- My old podcast, [The Insight](https://insitome.libsyn.com/)
 
--   My podcast today, [Unsupervised
-    Learning](https://unsupervisedlearning.libsyn.com/)
+- My podcast today, [Unsupervised
+  Learning](https://unsupervisedlearning.libsyn.com/)
 
 I’m also a regular guest on [The Carvaka](https://www.youtube.com/channel/UCKPxuul6zSLAfKSsm123Vww).
 
@@ -195,8 +196,6 @@ I’m also a regular guest on [The Carvaka](https://www.youtube.com/channel/UCKP
 
 Comments are open to all for this post, so if you have more reading/listening suggestions or tips on who I should be talking to or what I really should be writing for you, lay it on me.
 
-Like this post
-
 [](https://razib.substack.com/p/rkul-time-well-spent-05052022/comments)
 
 10
@@ -204,6 +203,8 @@ Like this post
 [](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fad0908d6-eac6-41d0-b2d7-ba2db9efed56_1730x1428.jpeg)
 
 RKUL: Time Well Spent 05/05/2022
 
@@ -217,3 +218,4 @@ Facebook
 
 Email
 
+Like this post

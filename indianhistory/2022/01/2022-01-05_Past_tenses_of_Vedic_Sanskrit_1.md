@@ -2,20 +2,20 @@
 title = "Past tenses of Vedic"
 full_title = "Past tenses of Vedic Sanskrit"
 date = "2022-01-05"
-upstream_url = "https://indianhistory.substack.com/p/past-tenses-of-vedic-sanskrit-1"
+upstream_url = "https://eruditus.substack.com/p/past-tenses-of-vedic-sanskrit-1"
 
 +++
-Source: [here](https://indianhistory.substack.com/p/past-tenses-of-vedic-sanskrit-1).
+Source: [here](https://eruditus.substack.com/p/past-tenses-of-vedic-sanskrit-1).
 
 Past tenses of Vedic Sanskrit (1)
-
-
 
 Share this post
 
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F91ff14e7-78db-4fd8-9885-7d4bcc9e2bca_564x265.png)
+
 Past tenses of Vedic Sanskrit (1)
 
-indianhistory.substack.com
+eruditus.substack.com
 
 Copy link
 
@@ -27,11 +27,35 @@ Email
 
 # Past tenses of Vedic Sanskrit (1)
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff55c507-5601-44d2-b554-d11fd9802b94_613x770.jpeg)](https://substack.com/profile/47730865-aryamsa?utm_source=author-byline-face)
+
+[Aryāṃśa](https://substack.com/profile/47730865-aryamsa)
+
+Jan 5
+
+3
+
+[](https://eruditus.substack.com/p/past-tenses-of-vedic-sanskrit-1/comments)[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F91ff14e7-78db-4fd8-9885-7d4bcc9e2bca_564x265.png)
+
+Past tenses of Vedic Sanskrit (1)
+
+eruditus.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
 
   
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F36828cb4-ec0b-4567-a2c1-0ca5b4d70479_564x265.png)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F36828cb4-ec0b-4567-a2c1-0ca5b4d70479_564x265.png)
 
 The functions of the past tense in the indicative mood of the verbal stems of the earliest layers of the vedic language is one of the most daunting tasks at hand. Right before I begin, I must admit that this post will be loaded with linguistic terminology and I will not try to spend too much time explaining it. I intend for this post to serve as a “primer” on vedic tense usage for those already familiar with Saṃskṛta.
 
@@ -126,7 +150,7 @@ Someone has \*just\* screamed as shown by akrukṣat. Sayanacharya translates th
 These are sufficient examples for the main function of the aorist. There is one “subfunction” of t. It’s used in an occasion in which, 1) It expresses what results from a ritual act or is antecedent to it.
 
 >   
-> *पुत्रस्य नाम गृह्णाति, प्रजाम् एव अनु सम् अतनीत्*  
+> *पुत्रस्य नाम गृह्णाति, प्रजाम् एव अनु सम् अतनीत्*   
 > “He gives his son a name, he **has thus extended** his race”
 
   
@@ -138,7 +162,7 @@ Example –
 
 >   
 > *विश्वे॑ दे॒वासो॑ अमद॒न्ननु॑ त्वा  
-> शुष्णं॒ पिप्रुं॒ कुय॑वं वृ॒त्रमि॑न्द्र य॒दाव॑धी॒र्वि पुरः॒ > शम्ब॑रस्य  
+> शुष्णं॒ पिप्रुं॒ कुय॑वं वृ॒त्रमि॑न्द्र य॒दाव॑धी॒र्वि पुरः॒ शम्ब॑रस्य  
 > víśve devā́so amadann ánu tvā;  
 > śúṣṇam pípruṁ kúyavaṁ vr̥trám indra yadā́vadhīr ví púraḥ śámbarasya*  
 > “All the gods cheered you, O Indra, **when you had smashed** śuṣna, > pipru, kuyava, vṛtra and the forts of śambara”
@@ -164,9 +188,9 @@ Examples –
 > याव॒त्तरो॑ मघव॒न्याव॒दोजो॒ वज्रे॑ण॒ शत्रु॑मवधीः पृत॒न्युम्*  
 > “Indra struck down Ilībiśa’s forts and split apart the horned Shuṣna . > . . with your thunderbolt **you have slain the enemy** (o Indra)
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc958ad71-99af-4f10-a615-9e118923a29e_564x265.png)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc958ad71-99af-4f10-a615-9e118923a29e_564x265.png)
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F563a2397-672d-41f4-8f7e-a845a7ab1ecf_564x265.png)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F563a2397-672d-41f4-8f7e-a845a7ab1ecf_564x265.png)
 
 Notice how the imperfects are used for the entire narration of the indra story and then aorist comes in the fact to summarize the narration and comment upon it in a closer.  
   
@@ -178,5 +202,22 @@ In non-indicative moods (optative, subjunctive etc), the aorist simply marks asp
   
 Sometime in the next month or so, we shall try to list out all uses of the most complex tense the perfect (liT) in a “Part II” to summarize the theory of vedic tense.  
 
-|                                                                                          |                             | |------------------------------------------------------------------------------------------|-----------------------------| | [Comment](https://indianhistory.substack.com/p/past-tenses-of-vedic-sanskrit-1/comments) | [Share](javascript:void(0)) |
+[](https://eruditus.substack.com/p/past-tenses-of-vedic-sanskrit-1/comments)[](javascript:void(0))
 
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F91ff14e7-78db-4fd8-9885-7d4bcc9e2bca_564x265.png)
+
+Past tenses of Vedic Sanskrit (1)
+
+eruditus.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

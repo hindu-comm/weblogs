@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/all-i-want-for-christmas-is-a-few).
 
 All I want for Christmas is a few good reads
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F04bb8482-aaf3-4153-9b25-20ba5e38fcd4_800x704.jpeg)
 
 All I want for Christmas is a few good reads
 
@@ -27,73 +27,51 @@ Email
 
 # All I want for Christmas is a few good reads
 
-### Best Books + $25 annual subscriptions
+### Best Books + \$25 annual subscriptions
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
 
-What to give that favorite person on your list who has it all? Ideas are
-always my go-to. Two suggestions for you today, one a little humbler,
-one self-serving.
+[Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
-Self-serving first: a year into my personal substack experiment, I can’t
-say enough about the healthy challenge this platform has been for me.
-Over nearly 12 months of content, in addition to weekly podcasts with
-50+ fascinating souls, in my long-form pieces for subscribers, I’ve
-delved deep into everything from many aspects of the underappreciated
-[Eurasian Steppe](https://razib.substack.com/p/steppe-10-going-nomad) to
-[China](https://razib.substack.com/p/made-in-china), to
-[India](https://razib.substack.com/p/our-three-body-problem), to ancient
-[Rome](https://razib.substack.com/p/they-came-they-saw-they-left-no-trace),
-to [Gypsies](https://razib.substack.com/p/outcast-as-i-wanna-be), to
-[Hungarians](https://razib.substack.com/p/hungarians-as-the-ghost-of-the-magyar),
-to
-[Jews](https://razib.substack.com/p/ashkenazi-jewish-genetics-a-match),
-to [New-World genetics](https://razib.substack.com/p/a-whole-new-world),
-to the unique
-[people](https://razib.substack.com/p/from-deepest-siberia-to-europes-edge)
-that are [the
-Finns](https://razib.substack.com/p/finnish-brains-baiting-and-bottlenecks),
-just to name a few.
+Nov 29, 2021
 
-If you’re coming to the end of your annual subscription, or if you think
-a friend would enjoy a gift of my unusual content, you have my gratitude
-and I hope you’ll feel free to grab a new yearly subscription, **today
-only**, for a song.
+17
 
-For the early birds, I’m offering an annual subscription for:
+[](https://razib.substack.com/p/all-i-want-for-christmas-is-a-few/comments)
 
--   $25 (a $54 savings!) to the first 20 yearly subscribers (I will
-    refund you manually via Stripe. Substack doesn’t let me go that
-    low.)
+5
 
--   $35 (a $44 savings!) to the next 20 yearly subscribers (I will
-    refund you manually via Stripe. Substack doesn’t let me go that
-    low.)
+[](javascript:void(0))
 
--   $45 (a $34 savings!) to the next 20 yearly subscribers (I will
-    manually refund you the $5 via Stripe. Substack doesn’t let me go
-    that low)
+Share this post
 
--   $55 (a $24 savings) to the next 20 yearly subscribers
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F04bb8482-aaf3-4153-9b25-20ba5e38fcd4_800x704.jpeg)
 
--   $65 (a $14 savings) to any other yearly subscribers before midnight
-    PST Monday, November 29th.
+All I want for Christmas is a few good reads
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
 
 **Subscribe**
 
-[Give a gift
-subscription](https://razib.substack.com/subscribe?&gift=true)
+[Give a gift subscription](https://razib.substack.com/subscribe?&gift=true)
+
+[Share](https://razib.substack.com/p/all-i-want-for-christmas-is-a-few?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+What to give that favorite person on your list who has it all? Ideas are always my go-to.
 
 ### **Shoulders of Giants**
 
-And then there are the shoulders of giants we’re all lucky enough to
-stand upon, if we choose. Here are some of [my all-time favorite go-to
-gift-worthy
-books](https://www.amazon.com/ideas/amzn1.account.AE2UID4MLISUM2QPB3LDOST6JOJQ/33O2M1P4S36HU?type=explore&ref=idea_cp_vl_ov_d),
-by category. Please feel free to add your own personal recs in the
-comments!
+And then there are the shoulders of giants we’re all lucky enough to stand upon, if we choose. Here are some of [my all-time favorite go-to gift-worthy books](https://www.amazon.com/ideas/amzn1.account.AE2UID4MLISUM2QPB3LDOST6JOJQ/33O2M1P4S36HU?type=explore&ref=idea_cp_vl_ov_d), by category. Please feel free to add your own personal recs in the comments!
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F04bb8482-aaf3-4153-9b25-20ba5e38fcd4_800x704.jpeg)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F04bb8482-aaf3-4153-9b25-20ba5e38fcd4_800x704.jpeg)
 
 ### My top 10 books that bear repeat re-reading
 
@@ -390,5 +368,26 @@ comments!
 10. [Imperial China,
     900–1800](https://www.amazon.com/exec/obidos/ASIN/0674012127//geneexpressio-20)
 
-[TABLE]
+[](https://razib.substack.com/p/all-i-want-for-christmas-is-a-few/comments)
 
+5
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F04bb8482-aaf3-4153-9b25-20ba5e38fcd4_800x704.jpeg)
+
+All I want for Christmas is a few good reads
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

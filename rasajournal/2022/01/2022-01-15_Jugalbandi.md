@@ -9,9 +9,9 @@ Source: [here](https://rasajournal.substack.com/p/jugalbandi-2dc).
 
 Jugalbandi
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fea7d7029-64e8-4aeb-bd50-d1073aa740a6_459x793.jpeg)
 
 Jugalbandi
 
@@ -29,9 +29,37 @@ Email
 
 ### How are Hindustani and Carnatic music staying rooted in tradition while also adapting to the changing times?
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2493377a-60dd-44d9-a41e-4aff3778a15c_660x1006.jpeg)](https://substack.com/profile/4266017-garima?utm_source=author-byline-face)
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fea7d7029-64e8-4aeb-bd50-d1073aa740a6_459x793.jpeg)
+[Garima](https://substack.com/profile/4266017-garima)
+
+Jan 15
+
+2
+
+[](https://rasajournal.substack.com/p/jugalbandi-2dc/comments)
+
+2
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fea7d7029-64e8-4aeb-bd50-d1073aa740a6_459x793.jpeg)
+
+Jugalbandi
+
+rasajournal.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fea7d7029-64e8-4aeb-bd50-d1073aa740a6_459x793.jpeg)
 
 *A Ragamala painting depicting the rainy Megh raga.*
 
@@ -59,7 +87,7 @@ Amonkar, who passed away in 2017, was a Maharashtrian Hindustani classical music
 
 So, how is one to understand the world of Indian classical music? That music is a sadhna, i.e., a spiritual discipline where one has to weather most difficult challenges is something one hears all too often. But what exactly does it mean, more so in an age of Instagram and Tik-Tok? Chaitanya Tamhane’s The Disciple, now streaming on Netflix, explored that in a way that was almost “under-glamorized”, as Aditya Dipankar puts it. Dipankar, 36, lives in Mumbai which is also the setting for the movie. While he studied graphic design at National Institute of Design in Gujarat, his life has been majorly defined by music right from his childhood. “I started playing tabla at five \[and\] singing around the time I was in college,” he says, sharing that now he plays the saxophone as well. He is also the founder of a music streaming app, Ragya, which is exclusively dedicated to the Hindustani classical music.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3299d2b-8861-4379-a2a3-6d12d8efa304_750x1334.png)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3299d2b-8861-4379-a2a3-6d12d8efa304_750x1334.png)
 
 *A screenshot from Ragya’s mobile app*.
 
@@ -77,9 +105,30 @@ But both The Disciple and Amazon Prime’s Bandish Bandits also touch upon somet
 
 It’s a step towards modernizing of what is traditional but how far can one go? From Hindustani musicians being asked to [play](https://www.thehindu.com/entertainment/music/is-the-time-raga-theory-still-relevant-in-hindustani-music/article35541515.ece) ragas irrespective of the time of the day to those making [rap](https://www.thehindu.com/news/cities/mumbai/two-cultures-one-beat-carnatic-to-meet-rap/article30580134.ece) out of the deity-based Carnatic music, it would irritate the purist but may also be akin to feeding fast-food to the uninitiated listener by modernizing without retaining the essence of the traditions. “When the audience doesn’t want to put in effort, there already exists music for them such as filmy music and that’s fine,” says Suresh. “But there are certain artforms that demand effort and classical music is one of those,” he says. If you were listening to K.J. Yesudas, he says, you may catch on to it even as a beginner but if you were listening to T. Brinda, it may take you over twenty years to understand her music.
 
-Suresh explains that Carnatic music has modernized in terms of style, tones, and innovations, even to the point of changes in what the musical tradition was and is at its core. “There is also more access, you can attend many free concerts or listen to them online,” he says. As with Hindustani music, he admits that there are gatekeepers on the Carnatic circuit too. A determined musician may manage to navigate these barriers but in doing so, they may also overwhelm the others. He feels that Carnatic musicians are unable to earn as well as Hindustani musicians, partly because the latter has a broader appeal. To supplement their incomes, they sometimes teach music to students, both in India and abroad, via Skype or a similar online platform, earning anything between $15 to $40 per hour. Learning early is the key to understanding the tradition, after all. “It can be harder to appreciate Carnatic as compared to Hindustani music,” he says, “a lot of people who enjoy this have grown up with it.”
+Suresh explains that Carnatic music has modernized in terms of style, tones, and innovations, even to the point of changes in what the musical tradition was and is at its core. “There is also more access, you can attend many free concerts or listen to them online,” he says. As with Hindustani music, he admits that there are gatekeepers on the Carnatic circuit too. A determined musician may manage to navigate these barriers but in doing so, they may also overwhelm the others. He feels that Carnatic musicians are unable to earn as well as Hindustani musicians, partly because the latter has a broader appeal. To supplement their incomes, they sometimes teach music to students, both in India and abroad, via Skype or a similar online platform, earning anything between \$15 to \$40 per hour. Learning early is the key to understanding the tradition, after all. “It can be harder to appreciate Carnatic as compared to Hindustani music,” he says, “a lot of people who enjoy this have grown up with it.”
 
 Both traditions are undergoing their churning of modernization and rediscovery in a variety of ways, given their individual challenges. It remains to be seen what kind of melody this jugalbandi will yield in years to come.
 
-|                                                                 |                             | |-----------------------------------------------------------------|-----------------------------| | [2](https://rasajournal.substack.com/p/jugalbandi-2dc/comments) | [Share](javascript:void(0)) |
+[](https://rasajournal.substack.com/p/jugalbandi-2dc/comments)
 
+2
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fea7d7029-64e8-4aeb-bd50-d1073aa740a6_459x793.jpeg)
+
+Jugalbandi
+
+rasajournal.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

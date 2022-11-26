@@ -9,9 +9,9 @@ Source: [here](https://ekavali.substack.com/p/battle-of-katasin-charge-of-the-re
 
 BATTLE OF KATASIN:CHARGE OF THE RETREATING BULL
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fabe6e301-3e38-4aa9-845e-69495d4d53f7_449x384.jpeg)
 
 BATTLE OF KATASIN:CHARGE OF THE RETREATING BULL
 
@@ -29,11 +29,33 @@ Email
 
 ### One of the successful campaigns of Odishan king Narasimhadeva-I against the Delhi Sultanate & a fine example of feigned retreat warfare in early medieval India
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa11ca545-ebbb-48e4-a150-dcc589f4bbdc_225x225.jpeg)](https://substack.com/profile/21872020-sibashis-mahapatra?utm_source=author-byline-face)
+
+[Sibashis Mahapatra](https://substack.com/profile/21872020-sibashis-mahapatra)
+
+Apr 13
+
+[](https://ekavali.substack.com/p/battle-of-katasin-charge-of-the-retreating/comments)[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fabe6e301-3e38-4aa9-845e-69495d4d53f7_449x384.jpeg)
+
+BATTLE OF KATASIN:CHARGE OF THE RETREATING BULL
+
+ekavali.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
 
 Narasimhadeva-I or Langula Narasinghadeva is one of the famous Indian kings & a popular name from modern state of Odisha,better known as the builder of the famous Konarka Sun temple. He belonged to the Eastern Ganga dynasty which is known for its heroic resistance against Islamic armies from the north of Odisha along with military activities against other neighboring kingdoms , and more importantly for construction of beautiful temples of Kalingan school of architecture.(Narasimhadeva’s ancestor Anantavarman Chodaganga started the construction of the Jagannath Temple of Puri).Narasimhadeva’s father Anangabhima-III and grandfather Rajaraja-III had successfully defended their kingdom from the onslaught of the Khalji forces of Bengal.
 
-![An Eastern Ganga coin belonging to the times of Devendravarman.The coin depicts a sitting bull and a sign of moon(Chandravamsi).Pic via twitter handle @Vadkri](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fabe6e301-3e38-4aa9-845e-69495d4d53f7_449x384.jpeg "Image")
+![An Eastern Ganga coin belonging to the times of Devendravarman.The coin depicts a sitting bull and a sign of moon(Chandravamsi).Pic via twitter handle @Vadkri](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fabe6e301-3e38-4aa9-845e-69495d4d53f7_449x384.jpeg "Image")
 
 The year was 1244 AD-roughly 6 years after the ascension of Narasimhadeva. The Delhi Sultanate under Mamluks, which started ruling & expanding post 2nd Battle of Tarrain, was gradually weakening at the centre. The Mamluk Governor at Bengal of Turkic descent- Tughril Tughan Khan had become quite powerful and dreamt of establishing an independent East Indian Sultanate and had some plans of expanding south into Eastern Ganga terittory.But Narasimhadeva seems to have read the opponent’s mind and had good understanding of the situation. He decided what a few Indian kings had dared of doing ie going for an aggressive move before the opponent has time to attack.Most of the evidence of Narasimhadeva-Tughan conflict comes from the literary work Tabaqat-i-Nasiri of Persian chronicler Minhaj-ud-Siraj Juzjani who was accompanying the Mamluk forces in Bengal and other places.
 
@@ -47,7 +69,7 @@ Katasin was more of a cane jungle and seems to be well known to the Narasimhadev
 
 From the canegroves, two hundred infantrymen and fifty cavalrymen roared with the flag of ***Bull & Moon insignia (***insignia * of Eastern Gangas) * at the front and pounced upon the unprepared soldiers of Tughan Khan from behind. The Mamluk forces were thrown into confusion and started retreating north. However their retreat proved disastrous with loss of men on the way. The Ganga cavalry seems to have chased Tughan’s forces for about 70 miles till Lakhnor[2](#footnote-2). Tughan was lucky to get away for this time, until he again faced the Eastern Ganga army at Battle of Lakhnauti on 14th March,1245 AD.The Ganga army again clashed with the Mamluk forces in around 1260 AD at Umardan.
 
-![*PC-Punyabhumi Odisha*](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd5bbcf6-dc64-4dde-9a49-f2735e65e9ea_619x554.png)
+![*PC-Punyabhumi Odisha*](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd5bbcf6-dc64-4dde-9a49-f2735e65e9ea_619x554.png)
 
 Narasimhadeva has been eulogized in the works of his courtpoet Vidyadhara. Vidyadhara in his treatise of Sanskrit poetics ***Ekavali*** (& yes the inspiration behind the name of my newsletter) described him as *Yavanavani vallaba, Hammira mana mardana(Conqueror of Yavana forces and Destroyer of the pride of Hammrias).*
 
@@ -59,7 +81,7 @@ Some 300 years after the reign of Narasimhadeva,the scholars of Suryavamsi Gajap
 
 *“His highness Narsingha having a tail like thing attached to his body who through the grace of God took birth in the famous Ganga dynasty and was the only eminent warrior to destroy Delhi”*  
 
-![*Snippet of the account from Maj. Raverty’s translation of Tabaqat-i-Nasiri*(*Jajnagar refers to Odisha here.A form of Jajanagara or Yayatinagara as Odisha was previously known)*](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf91fe3e-db2f-40dd-9359-3e685b84be6b_379x457.png)
+![*Snippet of the account from Maj. Raverty’s translation of Tabaqat-i-Nasiri*(*Jajnagar refers to Odisha here.A form of Jajanagara or Yayatinagara as Odisha was previously known)*](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf91fe3e-db2f-40dd-9359-3e685b84be6b_379x457.png)
 
 The date of the battle falls on 16th April,1244 AD (some books mention it to be 15th April, I guess it is not much of an issue)as calculated from date given by Minhaj i.e 6th of the month of Zi-Kadah,641 H.
 
@@ -70,13 +92,13 @@ Battle of Katasin is perhaps one of the fine examples of feigned retreat warfare
 Historians RP Mohapatra and Jagadish N Sarkar opine ,after having studied the sculptures of Konark temple,that there is good enough reason to believe that Eastern Ganga army had a mounted archer unit.  
   
 
-![*The horse sculpture at Konark Temple.A quiver is seen to be attached to the horse,as generally seen among mounted archers*](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1feec815-6d01-4c6f-a22a-0116498a0fc4_279x181.jpeg "Great Wheel of Konark, War Horses of Konark Temple, Figures of Konark Sun  Temple")
+![*The horse sculpture at Konark Temple.A quiver is seen to be attached to the horse,as generally seen among mounted archers*](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1feec815-6d01-4c6f-a22a-0116498a0fc4_279x181.jpeg "Great Wheel of Konark, War Horses of Konark Temple, Figures of Konark Sun  Temple")
 
 Horse archery wasn’t new to India in medieval times and existed since long .It was quite well known during the Gupta age.
 
-![*A Satavahana era horse archer*](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff55dd813-35a3-42c6-8374-631bfaf925b3_235x214.jpeg "Did Indian horse archers have any significance? | History Forum")
+![*A Satavahana era horse archer*](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff55dd813-35a3-42c6-8374-631bfaf925b3_235x214.jpeg "Did Indian horse archers have any significance? | History Forum")
 
-![*A possible Gupta era horse archer*](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28552b86-4b2e-4e3f-a9b2-50e3cd7a5c36_194x260.jpeg "Did Indian horse archers have any significance? | History Forum")
+![*A possible Gupta era horse archer*](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28552b86-4b2e-4e3f-a9b2-50e3cd7a5c36_194x260.jpeg "Did Indian horse archers have any significance? | History Forum")
 
 There is a general opinion among scholars that mounted archery declined among Hindu kingdoms and this proved to be a weakness for medieval Hindu kingdoms against Turkic armies. But Katasin might be an exception here
 
@@ -92,7 +114,22 @@ Whatever be the views on possibility of use of mounted archers by Eastern Ganga 
 
 Ibid
 
-[Comment](https://ekavali.substack.com/p/battle-of-katasin-charge-of-the-retreating/comments)
+[](https://ekavali.substack.com/p/battle-of-katasin-charge-of-the-retreating/comments)[](javascript:void(0))
 
-[Share](javascript:void(0))
+Share this post
 
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fabe6e301-3e38-4aa9-845e-69495d4d53f7_449x384.jpeg)
+
+BATTLE OF KATASIN:CHARGE OF THE RETREATING BULL
+
+ekavali.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

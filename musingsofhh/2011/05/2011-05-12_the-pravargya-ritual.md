@@ -103,6 +103,8 @@ humble opinion completely flawed. Gonda talks of psychic effects of
 soma, and ghee drinking in the rite…. But i doubt these were really  
 relevant.
 
+Advertisement
+
 **Category:**
 
 [Heathen Thought](https://musingsofhh.wordpress.com/category/heathen-thought/)
@@ -111,7 +113,7 @@ relevant.
 
 **Tagged with:**
 
--   [brahmin](https://musingsofhh.wordpress.com/tag/brahmin/) -   [farming](https://musingsofhh.wordpress.com/tag/farming/) -   [nakshatras](https://musingsofhh.wordpress.com/tag/nakshatras/) -   [pravargya](https://musingsofhh.wordpress.com/tag/pravargya/) -   [ritual](https://musingsofhh.wordpress.com/tag/ritual/) -   [vedic](https://musingsofhh.wordpress.com/tag/vedic/) -   [yagna](https://musingsofhh.wordpress.com/tag/yagna/) -   [yajna](https://musingsofhh.wordpress.com/tag/yajna/)
+- [brahmin](https://musingsofhh.wordpress.com/tag/brahmin/) - [farming](https://musingsofhh.wordpress.com/tag/farming/) - [nakshatras](https://musingsofhh.wordpress.com/tag/nakshatras/) - [pravargya](https://musingsofhh.wordpress.com/tag/pravargya/) - [ritual](https://musingsofhh.wordpress.com/tag/ritual/) - [vedic](https://musingsofhh.wordpress.com/tag/vedic/) - [yagna](https://musingsofhh.wordpress.com/tag/yagna/) - [yajna](https://musingsofhh.wordpress.com/tag/yajna/)
 
 **[Danava and other issues withOIT](https://musingsofhh.wordpress.com/2011/05/12/danava-and-other-issues-with-oit/)**
 

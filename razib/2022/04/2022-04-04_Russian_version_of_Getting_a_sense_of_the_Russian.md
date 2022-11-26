@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/russian-version-of-getting-a-sense).
 
 Russian version of "Getting a sense of the Russian soul" - Понять Русскую Душу 
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F41c7aa29-5d60-4f46-b7cb-026010d3e686_448x335.png)
 
 Russian version of "Getting a sense of the Russian soul" - Понять Русскую Душу
 
@@ -29,9 +29,33 @@ Email
 
 ### Непутинский взгляд на генетику и историю русских
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9119716f-72b1-405b-93df-8c70fd1f9b8d_469x294.png)
+[Razib Khan](https://substack.com/profile/1400665-razib-khan)
+
+Apr 4
+
+4
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F41c7aa29-5d60-4f46-b7cb-026010d3e686_448x335.png)
+
+Russian version of "Getting a sense of the Russian soul" - Понять Русскую Душу
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9119716f-72b1-405b-93df-8c70fd1f9b8d_469x294.png)
 
 **Subscribe**
 
@@ -73,7 +97,7 @@ Email
 В конце концов, вы можете сказать, что один ничего не стоящий жест не хуже любого другого. Возможно это так. Вы чувствуете себя не такими пассивными, меняя, увы, крайне мало или вообще ничего для жителей Украины. Я лично не склонен к таким символическим жестам, но я разделяю потребность в том, чтобы сделать что-нибудь уместное, понимая, что от этого не будет никакой непосредственной разницы. Начнем, разумеется, с книг. Вот список для чтения, который многие просили, чтобы углубить свои познания в истории этого региона. Далее следует моя попытка обогатить дискуссию о России и бывших Советских республиках, которые застряли в
 ее орбите, новым анализом, рассматривающим вклад современной геномики в понимание последнего тысячелетия человеческой истории в России, Украине и соседних странах.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6729132e-d32e-44c4-8bac-8f8190453a4e_467x102.png)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6729132e-d32e-44c4-8bac-8f8190453a4e_467x102.png)
 
 ### **Россия – генетический гуляш**
 
@@ -87,7 +111,7 @@ Email
 
 А теперь к русским. В отличие от поляков и украинцев, они не сконцентрированы рядом с немцами. Вместо этого они расположены ближе к восточным популяциям. Это соответствует истории русской экспансии на восток (и на север) от восточнославянских соседей. Русские находятся ближе к татарам, но при этом все равно являются легко отличимой группой, вопреки русофобским утверждениям западных европейцев 19-го века, что «поскреби русского — найдешь татарина». Но это всего лишь обзор различий на уровне популяций, не дающий увидеть внутригрупповые различия. Давайте взглянем на индивидов с помощью метода главных компонент (principal component analysis, PCA) , где генетические вариации представлены в двух измерениях.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F32d42107-87e6-4acd-a9e7-4e3dca4cb368_440x282.png)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F32d42107-87e6-4acd-a9e7-4e3dca4cb368_440x282.png)
 
 Эта диаграмма дает больше информации, чем древо, так как каждый индивид расположен в зависимости от его генетического сходства с другими людьми, показанного в виде обозначенный цветом кластеров. Ось икс обозначает протяженность с запада на восток (от Европы до Восточной Азии, слева направо), в то время как ось игрек обозначает ось север-юг в Европе и Азии. Как вы видите, некоторые популяции четко обозначены в виде отдельных кластеров, например грузины и сардинцы, в то время как греки и сербы имеют растянутый диапазон с различными уровнями близости к северным европейцам, что отражает средневековый славянский адмикс из-за которого сербы являются балканской популяцией со славянским языком, помесью местного населения и мигрантов, а многие северные греки из Фессалии имеют славянские корни, будучи носителями чисто греческой культуры.
 
@@ -109,7 +133,7 @@ Email
 
 Чтобы проиллюстрировать генетические различия среди русских, я создал диаграмму адмиксов, моделирующую совокупность корней индивидов. Моделирующей программе необходимо предположительное число популяций предков, которое я установил на уровне «максимум четыре». Алгоритм просто смотрит на генетическую вариативность всей популяции, разбивает ее на столько кластеров, сколько вам надо, и затем присваивает индивидуальные соотношения каждому кластеру в зависимости от генов. Я выбрал четыре кластера для этого графика, веря, что это выделит азиатские корни, и также различные направления в европейском наследии (южном, северном и восточном).
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F251c1ae3-e2bd-42cf-99d6-f7627c958205_451x245.png)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F251c1ae3-e2bd-42cf-99d6-f7627c958205_451x245.png)
 
 Я дал условные названия для четырех широких кластеров в зависимости от популяций, среди которых они наиболее распространены. Не забывайте, что это абстрактные категории, которые были созданы алгоритмом, но относительные паттерны принадлежности к тем или иным кластерам полезны для изучения различий в составе происхождения.
 
@@ -117,7 +141,7 @@ Email
 
 Такая общая картина русского космополитизма по сравнению с украинцами или поляками также отражена в отцовской линии, идущей от отца к сыну. Если вы посмотрите на более обширную базу данных, чем мои 500 русских, почти 25% всех Y хромосом из Российской Федерации принадлежат к гаплогруппе N. Эта гаплогруппа ассоциируется с финно-угорскими народами (для сравнения, ее частота среди финских мужчин — 80%), в то время как всего 5% мужчин в Польше и Украине связаны с этой линией родства. Это указывает на то, что целые сообщества собирателей, включая их элиты, были ассимилированы, а не просто, что южные славяне нашли себе жен среди убывающего местного населения.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F41c7aa29-5d60-4f46-b7cb-026010d3e686_448x335.png)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F41c7aa29-5d60-4f46-b7cb-026010d3e686_448x335.png)
 
 ### **От Руси до России**
 
@@ -142,7 +166,7 @@ Email
 национализма Европы 19-го века, а убеждения ее элит формируются в этом
 векеблагодаря экзистенциальному конфликту с Россией и союзу с Западом, в то время как они сознательно отбрасывают русский язык, который они учили в школе, в пользу украинского.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F97a834b3-a26b-46c5-893b-66654d649032_427x294.png)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F97a834b3-a26b-46c5-893b-66654d649032_427x294.png)
 
 ### **Империя Наносит Ответный Удар**
 
@@ -159,5 +183,22 @@ Email
 
 Возможно, это и не было неизбежным, но то, что мы видим сегодня, не должно нас удивлять. Пускай история и не работает как часы, но мы можем рассчитывать на то, что прошлое будет долго отзываться в будущем. Будем ли мы слушать или нет, решать нам.
 
-[Share](javascript:void(0))
+[](javascript:void(0))
 
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F41c7aa29-5d60-4f46-b7cb-026010d3e686_448x335.png)
+
+Russian version of "Getting a sense of the Russian soul" - Понять Русскую Душу
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/setting-the-record-straight-open).
 
 Setting the record straight: open letter on E.O. Wilson's legacy 
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf5382de-c10f-4097-9e96-322bf8c56120_1024x537.jpeg)
 
 Setting the record straight: open letter on E.O. Wilson's legacy
 
@@ -29,9 +29,37 @@ Email
 
 ### Response to Scientific American's "The Complicated Legacy..."
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf5382de-c10f-4097-9e96-322bf8c56120_1024x537.jpeg)
+[Razib Khan](https://substack.com/profile/1400665-razib-khan)
+
+Jan 19
+
+177
+
+[](https://razib.substack.com/p/setting-the-record-straight-open/comments)
+
+75
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf5382de-c10f-4097-9e96-322bf8c56120_1024x537.jpeg)
+
+Setting the record straight: open letter on E.O. Wilson's legacy
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf5382de-c10f-4097-9e96-322bf8c56120_1024x537.jpeg)
 
 **Subscribe**
 
@@ -165,5 +193,26 @@ It surely says more about the spirit of our age than it does about Wilson that t
 
 ###### Dr. Charleen Adams, Postdoctoral Research Fellow, Harvard School of Public Health
 
-|                                                                              |                             | |------------------------------------------------------------------------------|-----------------------------| | [75](https://razib.substack.com/p/setting-the-record-straight-open/comments) | [Share](javascript:void(0)) |
+[](https://razib.substack.com/p/setting-the-record-straight-open/comments)
 
+75
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf5382de-c10f-4097-9e96-322bf8c56120_1024x537.jpeg)
+
+Setting the record straight: open letter on E.O. Wilson's legacy
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

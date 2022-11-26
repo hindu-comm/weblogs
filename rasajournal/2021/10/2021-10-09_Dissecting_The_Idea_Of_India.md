@@ -9,9 +9,9 @@ Source: [here](https://rasajournal.substack.com/p/whats-the-big-deal-with-the-id
 
 Dissecting The Idea Of India 
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0828d5a-e20f-4ba4-a9f5-e5c934ca9791_549x372.png)
 
 Dissecting The Idea Of India
 
@@ -29,9 +29,37 @@ Email
 
 ### On decolonizing history in order to understand the present better.
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2493377a-60dd-44d9-a41e-4aff3778a15c_660x1006.jpeg)](https://substack.com/profile/4266017-garima?utm_source=author-byline-face)
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0828d5a-e20f-4ba4-a9f5-e5c934ca9791_549x372.png)
+[Garima](https://substack.com/profile/4266017-garima)
+
+Oct 9, 2021
+
+6
+
+[](https://rasajournal.substack.com/p/whats-the-big-deal-with-the-idea/comments)
+
+2
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0828d5a-e20f-4ba4-a9f5-e5c934ca9791_549x372.png)
+
+Dissecting The Idea Of India
+
+rasajournal.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0828d5a-e20f-4ba4-a9f5-e5c934ca9791_549x372.png)
 
 The lingua franca of the world today, English, arrived in India in 17th century as the language of the traders from Britain. But after the East Indian Company solidified its presence and established colonial rule, the language too colonized our minds. By 1830s, the Indian middle class, most notably in Kolkata, [wanted to learn it](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=http%3A%2F%2Fwww.ijsrp.org%2Fresearch-paper-0514%2Fijsrp-p29121.pdf&chunk=true) because it could get them a government job and so private tutors and learning centers mushroomed. It has been almost a century but nothing much seems to have changed. This is important because our languages are not just about communicating with one another but how we communicate actively shapes our culture. The Kenyan writer Ngugi wa Thiong’o in his Decolonizing the Mind (1986) wrote, “Language carries culture, and culture carries \[…\] the entire body of values by which we come to perceive ourselves and our place in the world”.
 
@@ -79,5 +107,26 @@ In both of these countries, the ruling elite sought to maintain harmony by using
 
 In order for the modern India to synthesize Bharat to move along the process of its decolonization, it needs to foster an indigenous cultural anthropology. “We need to read our texts for an insider’s perspective,” Shukla says, “because right now most of the interpretations are from the outsider’s perspective”. Even the works of Indian academics tend to follow Western methods, which makes them just as alien as a British or a German Indologist. “The texts should be read from the Hermeneutics (the method or theory of interpretation in academia) of respect and understanding, not from that of problematizing them,” he says. Re-evaluation, then, cannot come without a re-discovery of India.
 
-|                                                                                   |                             | |-----------------------------------------------------------------------------------|-----------------------------| | [2](https://rasajournal.substack.com/p/whats-the-big-deal-with-the-idea/comments) | [Share](javascript:void(0)) |
+[](https://rasajournal.substack.com/p/whats-the-big-deal-with-the-idea/comments)
 
+2
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0828d5a-e20f-4ba4-a9f5-e5c934ca9791_549x372.png)
+
+Dissecting The Idea Of India
+
+rasajournal.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

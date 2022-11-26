@@ -202,6 +202,8 @@ in the worst ways. Because of this should stop eating Zilebia,
 Jahangiri, Roti, some paneer dishes etc? At least I am not prepared to  
 do so.
 
+Advertisement
+
 **Category:**
 
 [Heathen Thought](https://musingsofhh.wordpress.com/category/heathen-thought/)
@@ -210,7 +212,7 @@ do so.
 
 **Tagged with:**
 
--   [astrology](https://musingsofhh.wordpress.com/tag/astrology/) -   [atma](https://musingsofhh.wordpress.com/tag/atma/) -   [management](https://musingsofhh.wordpress.com/tag/management/) -   [mathematics](https://musingsofhh.wordpress.com/tag/mathematics/) -   [soul](https://musingsofhh.wordpress.com/tag/soul/) -   [vedas](https://musingsofhh.wordpress.com/tag/vedas/) -   [vedic](https://musingsofhh.wordpress.com/tag/vedic/)
+- [astrology](https://musingsofhh.wordpress.com/tag/astrology/) - [atma](https://musingsofhh.wordpress.com/tag/atma/) - [management](https://musingsofhh.wordpress.com/tag/management/) - [mathematics](https://musingsofhh.wordpress.com/tag/mathematics/) - [soul](https://musingsofhh.wordpress.com/tag/soul/) - [vedas](https://musingsofhh.wordpress.com/tag/vedas/) - [vedic](https://musingsofhh.wordpress.com/tag/vedic/)
 
 **[Muhammad Tuglaq’s invasion ofChina](https://musingsofhh.wordpress.com/2011/05/12/muhammad-tuglaqs-invasion-of-china/)**
 

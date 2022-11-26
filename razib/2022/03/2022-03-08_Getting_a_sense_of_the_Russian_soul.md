@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/getting-a-sense-of-the-russian-soul)
 
 Getting a sense of the Russian soul
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0759ea5d-0ade-416e-9aef-567ccaa0a1eb_645x405.jpeg)
 
 Getting a sense of the Russian soul
 
@@ -29,9 +29,37 @@ Email
 
 ### Looking into Russian genetics and history (not through Putin’s eyes)
 
-[TABLE]
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0759ea5d-0ade-416e-9aef-567ccaa0a1eb_645x405.jpeg)
+[Razib Khan](https://substack.com/profile/1400665-razib-khan)
+
+Mar 8
+
+107
+
+[](https://razib.substack.com/p/getting-a-sense-of-the-russian-soul/comments)
+
+31
+
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0759ea5d-0ade-416e-9aef-567ccaa0a1eb_645x405.jpeg)
+
+Getting a sense of the Russian soul
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0759ea5d-0ade-416e-9aef-567ccaa0a1eb_645x405.jpeg)
 
 **Subscribe**
 
@@ -65,7 +93,7 @@ Putin's behavior is obviously beyond the pale, but what do you do from this vant
 
 In the end, perhaps you can argue that one costless gesture is as good as any other. Maybe so. You get to feel slightly less passive while alas changing little or nothing for the good people of Ukraine. My personal tastes don't really run to these symbolic gestures, but I share a need to do something germane, even knowing it won’t make any immediate difference. First up, books, of course. [Here](https://www.amazon.com/ideas/amzn1.account.AE2UID4MLISUM2QPB3LDOST6JOJQ/1YMRC447WSS5S?type=explore) is a reading list as many have requested, to go deeper on the history of the region. And second, what follows is my attempt to actually contribute new analysis to the conversation about Russia and the former Soviet republics stuck in its orbit: a closer look at what 21st-century genomics can add to our understanding of the last millennium or so of human history across Russia, Ukraine and their neighbors.
 
-![Visualization of between-population genetic distance (Fst)](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fca62aabb-c65f-4455-9abe-326cbad49b96_891x304.png)
+![Visualization of between-population genetic distance (Fst)](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fca62aabb-c65f-4455-9abe-326cbad49b96_891x304.png)
 
 ### **The genetic goulash that is Russia**
 
@@ -79,7 +107,7 @@ The Poles, Germans and Ukrainians are so close on this plot the differentiation 
 
 This brings us to the Russians. Unlike the Poles and Ukrainians, they do not cluster with the Germans. Rather, they are positioned more toward the eastern populations. This is in keeping with the fact that Russians did spread eastward (and north) from their East Slavic neighbors. They are shifted toward Tatars but are clearly distinct, *contra* 19th-century Western European Russophobic [assertions](https://www.thecrimson.com/article/1922/5/3/scratch-a-russian-pthe-soviets-delegation/#:~:text=Napoleon's%20famous%20saying%2C%20%22Scratch%20a,nomadic%20tribes%20of%20the%20Steppes.) that if you “scratch a Russian you will find a Tatar.” But this is a population-wide summary that masks and hides variation within populations. Let’s next look at the individuals using principal component analysis (PCA), where genetic variation is plotted on two dimensions:
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fea24b90f-56cf-4c6f-aec9-f42b38a71460_1456x931.png)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fea24b90f-56cf-4c6f-aec9-f42b38a71460_1456x931.png)
 
 This plot is more informative than the tree. Each individual is positioned on the chart based on genetic relatedness, with genetic similarity from person to person represented and color-coded by population cluster. The x-axis is a west-to-east plane geographically (European to East-Asian, running left to right), while the y-axis is a north-south axis, within both Europe and Asia. You can see that some of the populations appear cleanly as discrete clusters. This is the case with Georgians and Sardinians, whereas Greeks and Serbians both show a stretched-out range with variable levels of affinity to Northern Europeans. This reflects early medieval Slavic admixture that resulted in Serbians emerging as a Slavic-speaking Balkan population, a fusion of natives and migrants, while many northern Greeks from Thessaly have clear Slavic ancestry despite their fully Hellenic culture.
 
@@ -93,7 +121,7 @@ But a quick look back at the PCA plot shows that even more numerous than the Rus
 
 To further illustrate Russian genetic variation, I created an admixture plot to model all the individuals’ mixes of ancestry. The modeling software requires a presupposition about a number of ancestral populations, which I set to “at most four.” The algorithm simply looks at the whole population’s genetic variation, breaks it into however many clusters you decree, and then assigns individual proportions to each cluster based on the sample’s genes. For the purposes of this graphic I selected four clusters, trusting this would break out the Asian ancestry, as well as various directionalities in European ancestry (Southern, Northern and Eastern).
 
-![ADMIXTURE K = 4 populations, each narrow line is an individual, clustered by population](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4fa4e3c4-6f5b-4a08-a127-bd175489aac6_1600x720.png)
+![ADMIXTURE K = 4 populations, each narrow line is an individual, clustered by population](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4fa4e3c4-6f5b-4a08-a127-bd175489aac6_1600x720.png)
 
 I’ve given tentative labels to the four broader clusters based on which populations they appear most commonly in. Remember, these are abstractions that the algorithm generated, but the relative cluster membership patterns are useful in exploring comparative differences in ancestry composition.
 
@@ -101,7 +129,7 @@ Just as on the PCA and genetic-distance tree, Ukrainians and Poles are very simi
 
 This general picture of Russian cosmopolitanism compared to Ukrainians and Poles is also evident in the paternal lineages, passed from father to son. Looking at a much broader dataset than just my 500 Russians, nearly 25% of the [Y chromosomes](https://www.eupedia.com/europe/european_y-dna_haplogroups.shtml) from the Russian Federation are haplogroup N. This haplogroup is associated with Finnic people (80% frequency in Finnish men, for comparison), while only 5% of men in Poland and Ukraine carry this lineage. This indicates that whole forager communities culturally assimilated, including their elites. It was not simply a matter of southern Slavic men finding wives from collapsing local communities.
 
-![Kievan Rus at its peak](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F447c619e-dc33-4816-a7b1-dbfc1a56685a_1090x775.png)
+![Kievan Rus at its peak](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F447c619e-dc33-4816-a7b1-dbfc1a56685a_1090x775.png)
 
 ### **From Rus to Russia**
 
@@ -115,7 +143,7 @@ As is clear from genetics, history and geography, unlike Ukraine or Poland, Russ
 
 Russia and Ukraine have many similarities, both superficially and substantively, but politically comparing them is a category error. At the United Nations, they are both present as nation-states, but the Russian Federation is a multiethnic and multireligious empire that is clearly heir to the Russia of the Tsars. Putin’s long-time [girlfriend](https://www.the-sun.com/news/1601251/alina-kabaeva-vladimir-putin-girlfriend/) is a woman of Tatar Muslim background who [converted](https://www.kp.ru/daily/23016/3153/) to Russian Orthodoxy in 2003, a classic case in a long history of mixing between Russians and Turkic steppe people. Russia inherits a tumultuous history with disparate threads that stretch back more than 1,000 years. Ukraine, in contrast, is a self-made nation, new to the world in this form. It is a 21st-century heir to 19th-century European linguistic nationalism, its elites’ sensibilities being forged in this century through existential conflict with Russia and alliance with the West, as they consciously abandon the Russian language they were taught in schools in favor of Ukrainian.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F42da7e3b-b81e-4170-b36f-8292a4a2b329_773x557.png)
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F42da7e3b-b81e-4170-b36f-8292a4a2b329_773x557.png)
 
 ### **The Empire Strikes Back**
 
@@ -127,7 +155,26 @@ It turns out that Putin’s often quixotic espousal of a [Eurasian](https://www.
 
 **Subscribe**
 
-[29](https://razib.substack.com/p/getting-a-sense-of-the-russian-soul/comments)
+[](https://razib.substack.com/p/getting-a-sense-of-the-russian-soul/comments)
 
-[Share](javascript:void(0))
+31
 
+[](javascript:void(0))
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0759ea5d-0ade-416e-9aef-567ccaa0a1eb_645x405.jpeg)
+
+Getting a sense of the Russian soul
+
+razib.substack.com
+
+Copy link
+
+Twitter
+
+Facebook
+
+Email
+
+Like this post

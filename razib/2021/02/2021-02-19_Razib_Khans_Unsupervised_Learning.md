@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/texpocalypse-now-a-postmortem).
 
 Razib Khan's Unsupervised Learning
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5dfc51c5-2e75-4904-89ac-2b6a9ef30e3e_760x507.jpeg)
 
 Texpocalypse Now: a postmortem
 
@@ -25,17 +25,11 @@ Facebook
 
 Email
 
-![](https://substackcdn.com/image/fetch/w_512,h_512,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5dfc51c5-2e75-4904-89ac-2b6a9ef30e3e_760x507.jpeg)
+![](https://substackcdn.com/image/fetch/w_512,h_512,c_fill,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2c48569f-373c-4d04-96a3-1aad755a419b_3000x3000.png)
 
 Feb 19, 2021 • 2HR 11M
 
 # Texpocalypse Now: a postmortem
-
-### 
-
-[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face)
-
-[Razib Khan](https://substack.com/profile/1400665-razib-khan)
 
 Feb 19, 2021
 
@@ -48,6 +42,8 @@ Feb 19, 2021
 [](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5dfc51c5-2e75-4904-89ac-2b6a9ef30e3e_760x507.jpeg)
 
 Texpocalypse Now: a postmortem
 
@@ -73,6 +69,12 @@ Open in playerListen on
 
 Audio playback is not supported on your browser. Please upgrade.
 
+#### Appears in this episode
+
+[![](https://substackcdn.com/image/fetch/w_64,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)](https://substack.com/profile/1400665-razib-khan?utm_source=author-byline-face-podcast)
+
+Razib Khan
+
 Conversations about science, culture, and current affairs
 
 **Subscribe**
@@ -97,35 +99,35 @@ This week’s guests made time to chat at a moment’s notice over the last 24 h
 
 My guests:
 
--   **[Jon
-    Stokes](https://twitter.com/jonst0kes?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)**,
-    a deputy editor at [The Prepared](https://theprepared.com/). Jon
-    talks about how and why even he was caught flat-footed, even though
-    he has long been a prepper.
+- **[Jon
+  Stokes](https://twitter.com/jonst0kes?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)**,
+  a deputy editor at [The Prepared](https://theprepared.com/). Jon talks
+  about how and why even he was caught flat-footed, even though he has
+  long been a prepper.
 
--   **Gareth Highnam**, a scientist in Austin who managed to lose not
-    one but two roofs over his head in a single day, thanks to condo
-    sprinkler systems bursting.
+- **Gareth Highnam**, a scientist in Austin who managed to lose not one
+  but two roofs over his head in a single day, thanks to condo sprinkler
+  systems bursting.
 
--   **Marina Roberts**, of [Austin DSA](https://www.austindsa.org/) and
-    [Homes not
-    Handcuffs](https://grassrootsleadership.org/reports/homes-not-handcuffs-how-austin-criminalizes-homelessness),
-    talks about how the crisis has impacted the large population of
-    homeless in the metro area.
+- **Marina Roberts**, of [Austin DSA](https://www.austindsa.org/) and
+  [Homes not
+  Handcuffs](https://grassrootsleadership.org/reports/homes-not-handcuffs-how-austin-criminalizes-homelessness),
+  talks about how the crisis has impacted the large population of
+  homeless in the metro area.
 
--   **Lisa Mahapatra**, a tech worker who recently relocated to Austin
-    from California talks about what it’s like being a new homeowner in
-    a new city in the grips of a local disaster.
+- **Lisa Mahapatra**, a tech worker who recently relocated to Austin
+  from California talks about what it’s like being a new homeowner in a
+  new city in the grips of a local disaster.
 
--   Finally, I caught up with two friends for a discussion of power
-    grids, supply chains, and American decline: **Josiah Neeley**, an
-    Austin-based energy analyst at [R
-    Street](https://www.rstreet.org/team/josiah-neeley/), and of the
-    [Urbane
-    Cowboys](https://lonestarpolicyinstitute.org/urbane-cowboys-podcast-2/)
-    podcast, and **Byrne Hobart**, a recent Brooklyn-to-Austin
-    transplant who writes [The Diff](https://diff.substack.com/), a
-    finance and economics Substack.
+- Finally, I caught up with two friends for a discussion of power grids,
+  supply chains, and American decline: **Josiah Neeley**, an
+  Austin-based energy analyst at [R
+  Street](https://www.rstreet.org/team/josiah-neeley/), and of the
+  [Urbane
+  Cowboys](https://lonestarpolicyinstitute.org/urbane-cowboys-podcast-2/)
+  podcast, and **Byrne Hobart**, a recent Brooklyn-to-Austin transplant
+  who writes [The Diff](https://diff.substack.com/), a finance and
+  economics Substack.
 
 **Subscribe**
 
@@ -135,8 +137,6 @@ My guests:
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5f6d5e4-6c19-4b94-abed-d19a0458dfbd_1920x1080.jpeg)
 
-Like this post
-
 [](https://razib.substack.com/p/texpocalypse-now-a-postmortem/comments)
 
 4
@@ -144,6 +144,8 @@ Like this post
 [](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5dfc51c5-2e75-4904-89ac-2b6a9ef30e3e_760x507.jpeg)
 
 Texpocalypse Now: a postmortem
 
@@ -157,3 +159,4 @@ Facebook
 
 Email
 
+Like this post

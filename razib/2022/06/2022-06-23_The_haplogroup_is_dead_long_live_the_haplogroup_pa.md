@@ -9,9 +9,9 @@ Source: [here](https://razib.substack.com/p/the-haplogroup-is-dead-long-live).
 
 The haplogroup is dead, long live the haplogroup! (part 1)
 
-
-
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1867d05d-d7e6-4add-97b6-96034c46f8e9_800x440.jpeg)
 
 The haplogroup is dead, long live the haplogroup! (part 1)
 
@@ -35,7 +35,7 @@ Email
 
 Jun 23
 
-24
+39
 
 [](https://razib.substack.com/p/the-haplogroup-is-dead-long-live/comments)
 
@@ -44,6 +44,8 @@ Jun 23
 [](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1867d05d-d7e6-4add-97b6-96034c46f8e9_800x440.jpeg)
 
 The haplogroup is dead, long live the haplogroup! (part 1)
 
@@ -137,8 +139,6 @@ In the concluding post of this two-part series, we’ll begin to explore what ha
 
 [Share](https://razib.substack.com/p/the-haplogroup-is-dead-long-live?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
-Like this post
-
 [](https://razib.substack.com/p/the-haplogroup-is-dead-long-live/comments)
 
 3
@@ -146,6 +146,8 @@ Like this post
 [](javascript:void(0))
 
 Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1867d05d-d7e6-4add-97b6-96034c46f8e9_800x440.jpeg)
 
 The haplogroup is dead, long live the haplogroup! (part 1)
 
@@ -159,3 +161,4 @@ Facebook
 
 Email
 
+Like this post
