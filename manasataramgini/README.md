@@ -2,16 +2,6 @@ Archive of writings from mAnasatarangiNI blog.
 
 
 ## Unprocessed
-- 2005/12/2005-12-24_man-the-troglodyte-and-environment.md
-- 2005/12/2005-12-25_chenchus-lambadis-and-the-l1-haplogroup.md
-- 2005/12/2005-12-31_the-wonder-of-whippos-i.md
-- 2006/01/2006-01-06_the-evolution-of-cats.md
-- 2006/01/2006-01-07_the-mysteries-in-the-radiation-of-feliformia.md
-- 2006/01/2006-01-17_the-vighnas.md
-- 2006/01/2006-01-21_iran-and-the-terrorist-state-of-pakistan.md
-- 2006/01/2006-01-28_alick-walker.md
-- 2006/01/2006-01-28_prestosuchus.md
-- 2006/01/2006-01-28_the-crocodile-line.md
 - 2006/01/2006-01-28_the-vrata-of-our-dear-goddess.md
 - 2006/01/2006-01-29_purussaurus-and-crocodylian-recursiveness.md
 - 2006/01/2006-01-30_the-three-yakshinis.md
