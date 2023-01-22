@@ -6,9 +6,17 @@ upstream_url = "https://manasataramgini.wordpress.com/2005/11/29/the-mlechcha-su
 +++
 Source: [here](https://manasataramgini.wordpress.com/2005/11/29/the-mlechcha-subversionists/).
 
-I have never been a great fan of many modern Hindu fads: 1) They include the foolish opposition to the ultimate non-Indian origin of the Indo-Aryan and their incursion into India. 2) The statement that all religions say the same thing only their practioners distort the “Truth”. This is especially frightening ignorance with respect to Islam and Christism. 3) The Hindus in reality worship only one god. 4) Hindus do not believe in the evolutionary theory. But I have always held that it is up to Hindus themselves to chose their desired level of ignorance rather than be “saved” by some blathering Indologist. As I have argued before, Indologists are not all bad, their translations of the veda have given uneducated Hindus the chance to understand them at some superficial level. Without these aids, the lack of proper Sanskrit education in India may have kept the masses even more ignorant.
+I have never been a great fan of many modern Hindu fads: 
+
+1) They include the foolish opposition to the ultimate non-Indian origin of the Indo-Aryan and their incursion into India. 
+2) The statement that all religions say the same thing only their practioners distort the “Truth”. This is especially frightening ignorance with respect to Islam and Christism. 
+3) The Hindus in reality worship only one god. 
+4) Hindus do not believe in the evolutionary theory. 
+
+But I have always held that it is up to Hindus themselves to chose their desired level of ignorance rather than be “saved” by some blathering Indologist. As I have argued before, Indologists are not all bad, their translations of the veda have given uneducated Hindus the chance to understand them at some superficial level. Without these aids, the lack of proper Sanskrit education in India may have kept the masses even more ignorant.
 
 Yet the weight of the evidence shows that many mlechCha, turuShka, prAchya and yavana Indologists are a dangerous creed with a subversive anti-Hindu streak. The recent letter signed by them in the California school book affair shows this. Let us analyze some of these Indologists:  
+
 Michael Witzel: A pompous German crusader with a growing anti-Hindu streak. He made his Malhotran U-turn in the 1990s and has been driving on the opposite lane ever since. Witz in German means a joke and much of what Witzel has been saying recently seems to be a joke: “Mit Witzel herum haben wir nur viele Witze“.  
 Steve Farmer: A bright mind in the orbit of Witzel, whom he serves as a faithful lackey. Of course he oversells his brain storms as though they are the best theories possible.  
 Homi Bhabha: One of those fuzzy heads at Harvard making gold out of the gas of “Post-colonial studies”  

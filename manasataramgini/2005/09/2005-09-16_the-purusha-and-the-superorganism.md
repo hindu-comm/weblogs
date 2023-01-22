@@ -6,7 +6,7 @@ upstream_url = "https://manasataramgini.wordpress.com/2005/09/16/the-purusha-and
 +++
 Source: [here](https://manasataramgini.wordpress.com/2005/09/16/the-purusha-and-the-superorganism/).
 
-yat puruṣaṃ vyadadhuḥ katidhā vyakalpayan \|   
+> yat puruṣaṃ vyadadhuḥ katidhā vyakalpayan \|   
 mukhaṃ kimasya kau bāhū kā ūrū pādā ucyete \|\|   
 brāhmaṇo.asya mukhamāsīd bāhū rājanyaḥ kṛtaḥ \|   
 ūrūtadasya yad vaiśyaḥ padbhyāṃ śūdro ajāyata \|\|  
