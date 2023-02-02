@@ -242,7 +242,6 @@ Archive of writings from mAnasatarangiNI blog.
 - 2007/10/2007-10-26_the-gaze-of-indra.md
 - 2007/10/2007-10-27_the-mandala-graph-for-rishi-sharing.md
 - 2007/10/2007-10-28_the-extraordinary-case-of-comet-holmes.md
-- 2007/10/2007-10-31_genes-affecting-human-intelligence.md
 - 2007/11/2007-11-02_demographic-fate-of-hindus-in-the-us.md
 - 2007/11/2007-11-09_any-reason-to-be-excited-by-the-happenings-in-tsp.md
 - 2007/11/2007-11-12_the-third-hero-and-khandavans-clash.md
@@ -414,7 +413,6 @@ Archive of writings from mAnasatarangiNI blog.
 - 2008/11/2008-11-19_the-andakara-mandala-of-vishnu-shripati.md
 - 2008/11/2008-11-21_high-alert.md
 - 2008/11/2008-11-22_some-doha-s-of-mahabrahmana-sarahapada.md
-- 2008/11/2008-11-23_the-spectrum-of-synesthesia-metaphors-and-samdhya-.md
 - 2008/11/2008-11-25_fractal-lacework.md
 - 2008/11/2008-11-26_namo-brahmastra-devyai.md
 - 2008/11/2008-11-27_the-mohammedan-invasion-of-bharata-nov-26-27-2008.md
