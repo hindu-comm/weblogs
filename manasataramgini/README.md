@@ -269,9 +269,8 @@ Archive of writings from mAnasatarangiNI blog.
 - 2008/02/2008-02-13_thinking-of-kshemendra.md
 - 2008/02/2008-02-17_on-bats.md
 - 2008/02/2008-02-19_a-lost-kaumara-mahasthala.md
-- 2008/02/2008-02-21_some-musing-on-wars.md
+- 2008/02/2008-02-21_some-musing-on-wars.md 
 - 2008/02/2008-02-23_arthur-avalon.md
-- 2008/02/2008-02-23_early-temples-and-iconic-worship.md
 - 2008/02/2008-02-24_the-other-vira-appears.md
 - 2008/02/2008-02-25_coopers-book-on-marathas.md
 - 2008/02/2008-02-26_the-panchavarna-stava.md
