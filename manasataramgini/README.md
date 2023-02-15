@@ -547,7 +547,6 @@ Archive of writings from mAnasatarangiNI blog.
 - 2010/02/2010-02-10_early-kaumara-iconography-from-mathura.md
 - 2010/02/2010-02-14_of-dogs-and-underdogs.md
 - 2010/02/2010-02-15_three-of-the-heroes-had-fallen.md
-- 2010/02/2010-02-18_the-oldest-surviving-planetary-ritual-of-the-hindu.md
 - 2010/03/2010-03-06_the-epic-on-stone.md
 - 2010/03/2010-03-07_asilisaurus-and-the-rise-of-the-dinosaur-line.md
 - 2010/03/2010-03-09_the-rasa-yoshana.md
