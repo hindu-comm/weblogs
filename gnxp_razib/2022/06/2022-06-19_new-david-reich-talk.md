@@ -1,0 +1,30 @@
++++
+title = "New David Reich talk"
+full_title = "New David Reich talk"
+date = "2022-06-19"
+upstream_url = "https://www.gnxp.com/WordPress/2022/06/19/new-david-reich-talk/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2022/06/19/new-david-reich-talk/).
+
+New David Reich talk
+
+[Eurogenes](https://eurogenes.blogspot.com/2022/06/david-reich-on-origin-of-yamnaya-people.html) points me to a new talk by David Reich, that has a nice new long [abstract online](https://iias.huji.ac.il/event/david-reich-lecture). I’ll just insert my comments within the blockquote…
+
+> We present an integrative genetic history of the Southern Arc, an area > divided geographically between West Asia and Europe, but which we > define as spanning the culturally entangled regions of Anatolia and > its neighbors, in both Europe (Aegean and the Balkans), and in West > Asia (Cyprus, Armenia, the Levant, Iraq and Iran). We employ a new > analytical framework to analyze genome-wide data at the individual > level from a total of 1,320 ancient individuals, 731 of which are > newly reported and address major gaps in the archaeogenetic record. We > report the first ancient DNA from the world’s earliest farming > cultures of southeastern Anatolia and northern Mesopotamia, as well as > the first Neolithic period data from Cyprus and Armenia, and discover > that it was admixture of Natufian-related ancestry from the > Levant—mediated by Mesopotamian and Levantine farmers, and marked by > at least two expansions associated with dispersal of pre-pottery and > pottery cultures—that generated a pan-West Asian Neolithic continuum > ***\[“it was” refers to Cyprus and Armenia? How Mesopatamian farmers > related to the Zagros-Levant-Anatolian trichotomy?\]***. Our > comprehensive sampling shows that Anatolia received hardly any genetic > input from Europe or the Eurasian steppe from the Chalcolithic to the > Iron Age; this contrasts with Southeastern Europe and Armenia that > were impacted by major gene flow from Yamnaya steppe pastoralists > ***\[I believe Southeastern Europe had both patchy early Yamnaya and > later Indo-Europeans? Armenia on the other hand seems unique\]***. >
+> In the Balkans, we reveal a patchwork of Bronze Age populations with > diverse proportions of steppe ancestry in the aftermath of the \~3000 > BCE Yamnaya migrations, paralleling the linguistic diversity of > Paleo-Balkan speakers. We provide insights into the Mycenaean period > of the Aegean by documenting variation in the proportion of steppe > ancestry (including some individuals who lack it altogether), and > finding no evidence for systematic differences in steppe ancestry > among social strata, such as those of the elite buried at the Palace > of Nestor in Pylos ***\[Mycenanean Greece starts at 1750 BC, so > probably at least 500 years at least from the major penetration of > Indo-Europeans, so that’s 20 generations or so. That seems enough time > for status-gene correlations to breakdown if there’s no endogamous > caste-like structure\].*** >
+> A striking signal of steppe migration into the Southern Arc is evident > in Armenia and northwest Iran where admixture with Yamnaya patrilineal > descendants occurred, coinciding with their 3rd millennium BCE > displacement from the steppe itself. This ancestry, pervasive across > numerous sites of Armenia of \~2000-600 BCE, was diluted during the > ensuing centuries to only a third of its peak value ***\[Looking > online, there’s a 2012 paper that indicates that modern Armenians have > of the specifically [Yamnaya R1b > lineage](https://www.nature.com/articles/ejhg2011192). If this, true > might explain why Armenian is so hard to place within a Indo-European > tree, as Celtic, Germanic, Balto-Slavic and Indo-Iranian seem to come > out of a broader Corded Ware cultural complex\]***, making no further > western inroads from there into any part of Anatolia, including the > geographically adjacent Lake Van center of the Iron Age Kingdom of > Urartu. The impermeability of Anatolia to exogenous migration > contrasts with our finding that the Yamnaya had two distinct gene > flows ***\[David of Eurogenes does not like this, but this could mean > Anatolian and CHG/Iranian pulses?\]***, both from West Asia, > suggesting that the Indo-Anatolian language family originated in the > eastern wing of the Southern Arc and that the steppe served only as a > secondary staging area of Indo-European language dispersal. The > demographic significance of Anatolia on a Mediterranean-wide scale is > further documented by our finding that following the Roman conquest, > the Anatolian population remained stable and became the geographic > source for much of the ancestry of Imperial Rome itself.
+
+### Related Posts:
+
+- [The southern arc
+  papers](https://www.gnxp.com/WordPress/2022/08/25/the-southern-arc-papers/) - [Carl Zimmer profile of the Reich group at
+  work](https://www.gnxp.com/WordPress/2018/03/20/carl-zimmer-profile-of-the-reich-group-at-work/) - [David Reich has Two Post-doctoral
+  positions](https://www.gnxp.com/WordPress/2016/03/29/david-reich-has-two-post-doctoral-positions/) - [David Reich interview on
+  Edge](https://www.gnxp.com/WordPress/2016/02/23/david-reich-interview-on-edge/) - [Humanity
+  2.0](https://www.gnxp.com/WordPress/2012/07/28/humanity-2-0/) - [The mystery of the origin of the Indo-Europeans may
+  be…](https://www.gnxp.com/WordPress/2012/07/01/the-mystery-of-the-origin-of-the-indo-europeans-may-be-solved-within-the-next-2-years/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2022%2F06%2F19%2Fnew-david-reich-talk%2F&linkname=New%20David%20Reich%20talk "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2022%2F06%2F19%2Fnew-david-reich-talk%2F&linkname=New%20David%20Reich%20talk "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2022%2F06%2F19%2Fnew-david-reich-talk%2F&linkname=New%20David%20Reich%20talk "Email")[](https://www.addtoany.com/share)
