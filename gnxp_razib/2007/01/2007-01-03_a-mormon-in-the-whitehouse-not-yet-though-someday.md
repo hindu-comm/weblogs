@@ -1,0 +1,38 @@
++++
+title = "A Mormon in the"
+full_title = "A Mormon in the Whitehouse, not yet, though someday…"
+date = "2007-01-03"
+upstream_url = "https://www.gnxp.com/WordPress/2007/01/03/a-mormon-in-the-whitehouse-not-yet-though-someday/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2007/01/03/a-mormon-in-the-whitehouse-not-yet-though-someday/).
+
+A Mormon in the Whitehouse, not yet, though someday….
+
+I finally read Damon Linker’s piece, [The Big Test](http://www.tnr.com/docprint.mhtml?i=20070115&s=linker011507), where he expresses worries about the possibility of Mitt Romney becoming president ([my post](https://www.gnxp.com/blog/2005/09/one-nation-under-gods-and-mitt-romney.php) on Romney & Mormonism from last fall). I am generally rather skeptical of Linker’s piece, though he is an erudite fellow it seems to me that he misses the details while surveying all from the intellectual commanding heights (his background seems to be in history and philosophy).
+
+1\) Linker suggests that while Protestantism and Catholicism have given rise to sophisticated liberal forms, Mormonism might not be capable of this because of its prophetic nature (he makes an analogy to Islam). My first caution would be that the Mormonism of Joseph Smith already has: the [Community of Christ](http://www.cofchrist.org/) was until recently called [The Reorganized Church of Latter Day Saints](https://en.wikipedia.org/wiki/Reorganized_Church_of_Jesus_Christ_of_Latter-day_Saints). Though far less numerous than the Utah Mormons, this midwestern branch of the church has basically morphed into a moderate Protestant denomination. There are plenty of other splinter sects, most of them far crazier than the Utah Mormon church derived from Brigham Young’s leadership. The point is that Linker suggests that there is a structural deficiency in Mormon beliefs which prevents them from changing, but I have a hard time not seeing how their very prophetic nature (continuous revelation) can’t but make them pretty adaptable to the times. The Mormons who remained in Missouri eventually assimilated into the Middle American religious culture and lost their distinctiveness, suggesting that geographical separation, as opposed to a specified set of beliefs, is what really set Utah Mormonism off on its different path.
+
+2\) The fact that Mormons have an attenuated theology and by and large reject Greek philosophy as a modality of their faith is not looked upon positively by Linker. That the Mormon God is a physical being who has a wife and lives embedded within this universe might seem really bizarre to most sophisticated believers, but I have come to believe that this is actually far closer to the mental conceptualization of God that is genuinely accessible to the human mind than the definitions of most “higher religions.” Mormons believe that God was once a human being, that righteous Mormon males will become Gods and rule their own universes, and that the New World was once populated by white skinned Jews. This all seems bizarre to most people, but let’s compare it to [Transubstantiation](https://en.wikipedia.org/wiki/Transubstantiation), [Tawhid](https://en.wikipedia.org/wiki/Tawhid) or [Nirvana](https://en.wikipedia.org/wiki/Nirvana). One reason that Mormonism is so bizarre is that it is so intelligible! The basic Mormon canon of beliefs seems ludicrous and falsifiable, but it is such precisely because it is accessible to conventional analysis (i.e., Mormonism is clearly false, many other theisms have fled into incoherency and semantical obfuscation to escape critique). The Mormon God is a constrained being, though far grander than you or I. Mormonism does not make recourse to a complex theology to justify a Trinity, they simply accept a multiplicity of divine entities. God did not mysteriously withdraw revelation from the world thousands of years ago, in Mormon belief God speaks directly through their prophet as he always has and always will (until they change their minds of course).
+
+3\) We shouldn’t neglect the fact that Mormonism is an American religion which can be comprehended in part by understanding its social historical background, and that of Joseph Smith. Smith was from the region of upstate New York and New England which was the scene of much religious revival in the early 19th century. Some aspects of Smith’s background are evident in the Mormon religion. There is some consideration as to whether he was involved in Universalism, which rejects hell. To this day Mormons do not accept hell, and non-Mormons who are righteous may not become Gods, but they will not be consigned to eternal damnation. It is important to remember than in many ways at its core Mormonism is rather liberal and adventurous because of its historical origin, even though socially it has a conservative air about it because of the character of the believers.
+
+4\) I will not elaborate much on this point, but I do not believe that Damon Linker properly frames the psychological complexity which religious belief is. He seems to read it straight from texts, professed creeds and historical councils. The fact is that the average Mormon is as engaged with his or her theology as the average Protestant, Catholic or Jew. Not much. I really don’t know what the fact that Mormons don’t draw from the thoughts of classically educated church fathers tells us in terms of their behavorial tendencies.
+
+This does not mean that I think that Romney can become president. Though I don’t believe in the functional significance of theology, it does have a role in demarcating barriers. I believe that like Catholics, Mormons will be accepted by other Protestant Christians over time. But the mental reconciliation won’t happen overnight. Mitt Romney’s run for the presidency will be futile, but it will serve as the building block for the future absorption of his demonination into the American mainstream.
+
+Update: Daniel Larison [has 12,000 posts](http://larison.org/) on Mormonism & Romney. He also [reports](http://larison.org/2007/01/05/note-to-anti-romneyites-keep-up-the-good-work/) on polling data which shows that anti-Mormonism matters.
+
+### Related Posts:
+
+- [Mormons in The
+  Corner](https://www.gnxp.com/WordPress/2006/11/22/mormons-in-the-corner/) - [No Mormons allowed in the
+  Whitehouse](https://www.gnxp.com/WordPress/2006/07/04/no-mormons-allowed-in-the-whitehouse/) - [Mormons and evolution, part
+  n](https://www.gnxp.com/WordPress/2006/04/09/mormons-and-evolution-part-n/) - [Mormonism isn't that
+  weird](https://www.gnxp.com/WordPress/2008/01/07/mormonism-isnt-that-weird/) - [Atheists still more hated than Mormons &
+  Muslims](https://www.gnxp.com/WordPress/2007/09/29/atheists-still-more-hated-than-mormons-muslims/) - [A sympathy for
+  statistics](https://www.gnxp.com/WordPress/2007/10/28/a-sympathy-for-statistics/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2007%2F01%2F03%2Fa-mormon-in-the-whitehouse-not-yet-though-someday%2F&linkname=A%20Mormon%20in%20the%20Whitehouse%2C%20not%20yet%2C%20though%20someday%E2%80%A6. "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2007%2F01%2F03%2Fa-mormon-in-the-whitehouse-not-yet-though-someday%2F&linkname=A%20Mormon%20in%20the%20Whitehouse%2C%20not%20yet%2C%20though%20someday%E2%80%A6. "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2007%2F01%2F03%2Fa-mormon-in-the-whitehouse-not-yet-though-someday%2F&linkname=A%20Mormon%20in%20the%20Whitehouse%2C%20not%20yet%2C%20though%20someday%E2%80%A6. "Email")[](https://www.addtoany.com/share)

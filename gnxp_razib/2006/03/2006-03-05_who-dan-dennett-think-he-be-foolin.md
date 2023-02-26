@@ -1,0 +1,29 @@
++++
+title = "Who Dan Dennett think he"
+full_title = "Who Dan Dennett think he be foolin’?"
+date = "2006-03-05"
+upstream_url = "https://www.gnxp.com/WordPress/2006/03/05/who-dan-dennett-think-he-be-foolin/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2006/03/05/who-dan-dennett-think-he-be-foolin/).
+
+Who Dan Dennett think he be foolin’?
+
+I listened to Dan Dennett on the most recent [Tech Nation](http://www.technation.com/) with Moira Gunn (not online yet), and he went on about the ideas proposed in his book [Breaking the Spell](https://www.amazon.com/exec/obidos/ASIN/067003472X/geneexpressio-20/). Some of the ideas were interesting, though I’ve read more well developed versions in most of the supporting literature. Nevertheless, Dennett’s schtick that those who think that religious people can’t analyze their beliefs rationally are being patronizing seems really laughable to me. Most atheists I know have a hard time getting around the fact that many people who are ***extremely*** bright (no pun intended in the context of Dennett) sincerely believe that supernatural agents exist and affect the world around us. To use an analogy, in [Why I am Not a Muslim](https://www.amazon.com/exec/obidos/ASIN/0879759844/geneexpressio-20/) Ibn Warraq notes that many Muslims simply can not believe that an intelligent person can not believe in Islam when they are informed of its content and message. In other words, if you do not believe, you are either ignorant, or you are obstinate.  
+I think many atheists have the same attitude toward intellectual theists. I have read some [Paul Tillich](http://www.theology.ie/theologians/tillich.htm) and [Marcus Borg](http://oregonstate.edu/dept/philosophy/borg.html), liberal Christian theologians (you might know Borg as one of the figures behind [The Jesus Seminar](http://www.westarinstitute.org/Jesus_Seminar/jesus_seminar.html)). I used to find their “rationalizations” and verbal circumlocutions around the nature of the God Hypothesis rather bemusing. To some extent I often expressed the opinion that Christian fundamentalists were “more honest” and engaged in a plainer and realer reading of the texts of the faith than these intellectualized believers.  
+I would admit now that my understanding lacked nuance, and was psychologically uninformed. First, I no longer believe that religion is a proto-science for most people, that the textually elaborated truths of the “high religions” are the core of the experience of the phenomenon of faith. I have also come to the conclusion that the historical record tells us that textual fundamentalism is an exception, not the rule. Though some form of inerrantism and literalism have always existed, the revolt against non-religious science, that is, the conflict between science and religious scripture, is a somewhat modern occurrence. Additionally, even “textual literalists” often engage in verbal gymnastics to save the literal and inerrant character of the scripture so that “plain reading” becomes a farce. Finally, we have to remember that religious believers actually believe in God. Not only do they believe, but to some extent they believe *a priori* of any philosophical “proof.” The assumptions that theologians that Paul Tillich or Marcus Borg begin with includes a God, a God with particular characteristics and traits. When viewed in light of the “truths” that they hold about the God that they believe in their verbal acrobatics are far more intelligible and reasonable. **Of course it seems ridiculous to unbelievers, but *we don’t believe in the first place, so the whole exercise is futile to our eyes***. By the principle of parsimony the simpler jumping-jacks of literalists seem rather quaint and charming in comparison to the baroque exercises of more intellectually sophisticated theists.  
+In [Descartes Error](https://www.amazon.com/exec/obidos/ASIN/014303622X/geneexpressio-20/) Antonio Damasio argues that emotional imperatives and drives are crucial to the functioning of our rational faculties. If the likes of Dennett wish to examine religion as a “natural phenomenon,” they need to acknowledge that perhaps for many humans it is as crucial to their cognitive functioning as elimination is to their digestive system. As it is, Dennett seems to want to pretend that religious folk can set aside the stars that burn brightly in their sky by simply closing their eyes. Some can do this, as I [have noted before](https://www.gnxp.com/blog/2005/12/gods-of-cognitive-scientists.php), but let us not forget that fear of the dark is no small thing.
+
+### Related Posts:
+
+- [Dan Dennett on Radio Open
+  Source](https://www.gnxp.com/WordPress/2006/03/23/dan-dennett-on-radio-open-source/) - [The nature of religion and Breaking the
+  Spell](https://www.gnxp.com/WordPress/2006/02/22/the-nature-of-religion-and-breaking-the-spell/) - [Naturally
+  human](https://www.gnxp.com/WordPress/2006/02/16/naturally-human/) - [The adaptiveness of
+  religion](https://www.gnxp.com/WordPress/2007/04/23/the-adaptiveness-of-religion/) - [The tactics of
+  deceit](https://www.gnxp.com/WordPress/2007/02/25/the-tactics-of-deceit/) - [The New
+  Atheism](https://www.gnxp.com/WordPress/2006/10/23/the-new-atheism/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2006%2F03%2F05%2Fwho-dan-dennett-think-he-be-foolin%2F&linkname=Who%20Dan%20Dennett%20think%20he%20be%20%20foolin%E2%80%99%3F "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2006%2F03%2F05%2Fwho-dan-dennett-think-he-be-foolin%2F&linkname=Who%20Dan%20Dennett%20think%20he%20be%20%20foolin%E2%80%99%3F "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2006%2F03%2F05%2Fwho-dan-dennett-think-he-be-foolin%2F&linkname=Who%20Dan%20Dennett%20think%20he%20be%20%20foolin%E2%80%99%3F "Email")[](https://www.addtoany.com/share)

@@ -1,0 +1,34 @@
++++
+title = "Crosstalk on"
+full_title = "Crosstalk on \"Intelligent Design\""
+date = "2005-07-08"
+upstream_url = "https://www.gnxp.com/WordPress/2005/07/08/cross-talk-on-intelligent-design/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2005/07/08/cross-talk-on-intelligent-design/).
+
+Cross-talk on "Intelligent Design"
+
+One thing that came up in the [survey of conservatives](https://www.gnxp.com/blog/2005/07/new-republics-survey-of-conservative_07.php) in *The New Republic* is the confusion over terms like “Intelligent Design.” An acquaintance of mine who has a background in phylogenetics and molecular evolution subjected me to a long tirade on “Intelligent Design,” in the midst of which I realized he was actually rebutting Youth Earth Creationism. Does this matter? On the first aproximation it didn’t, because I tended to understand where he was coming from, but the truth of the matter is that very few biologists give much thought to irreducible complexity, let alone [search algorithms](http://www.bostonreview.net/BR27.3/orr.html). And the truth of it is that very few proponents of “Intelligent Design” care about these topics either.
+
+“Intelligent design” is simply a verbal token which means different things to different people. Theorists within this narrow and marginal field themselves are not in total agreemant. William Dembski focuses on “No Free Lunch Theorems” while Michael Behe highlights “irreducible complexity” (basically taking the “how could the eye couldn’t evolve argument” to the molecular and cytological level). Ultimately these thinkers are waging a battle against what Phillip Johnson terms “methodological naturalism,” a stance toward science generally accepted by the majority of practioners within the field which was defined and elucidated at Wheaton, America’s premier Christian evangelical institution. Add to this the clear reality that men like Dembski are motivated in large part by what seems religious, as much as scientific considerations, and you get a situation where there are multiple meanings ascribed to “Intelligent Design” from various antagonists in the debate.
+
+So here I will reiterate what I think “Intelligent Design,” or its predecessor, “Creationism,” [is all about](https://www.gnxp.com/MT2/archives/003325.html). Many lay persons of faith seem to posit a dichotomy between Intelligent Design and evolutionary theory, and assume that Intelligent Design is wholly coterminus with religion. There is, therefore, a knee-jerk tendency to be “open” to “alternatives” (roughly speaking, Intelligent Design alternatives, not Native American Creation myths) because of the identification of Intelligent Design with religion. But, I think the identification only holds **for a particular conception of religion**. The fact that a Catholic theologian [can thoroughly reject](http://www.firstthings.com/ftissues/ft0101/reviews/oakes.html) Intelligent Design should be a clue to this reality. I hold that Intelligent Design is an outgrowth of a particular trend in Protestantism which seeks to sanctify **every** aspect of human life, to suffuse it with religious meaning and intent, in a very direct manner. This mode of thought is not limited to religious movements that come out of the Protestant Reformation, one reason Intelligent Design is so popular with Islamic thinkers is that (as we all know) there are strong movements within the Muslim community which seek to regulate all of human existence. Similarly, Hindu thinkers who come out of the fundamentalist-modernist mold, that is, a reconstructed Hinduism “purified” of post-Vedic accretions, attempt to glean evidence of nuclear technology in their own religious mythos. In a non-religious context Marxist scientists have also attempted “Communist science,” toward the aim of absorbing all of human life into one materialist system of the world.
+
+I am not saying that intellectual proponents of Intelligent Design believe they are doing any such thing, I am implying that the root cognitive impulse to make all aspects of life intelligible through a central system is what is at the heart of the new more high brow attacks on methodological naturalism (and yes, Daniel Dennett and to a far lesser extent Richard Dawkins do the same thing with “Darwinism”). Additionally, I am also making the case that the popular supporters of Intelligent Design do not understand this (the need to rationally systemetize all of life tends to be most urgent in the congitive elite of any given subculture, but that cognitive elite tends to wield influence far beyond its weight of numbers), rather, their support of the movement is based on a misconception of science as a **bundle of facts** with which they disagree (that is, a bundle of facts which nullify the God hypothesis) rather than a **mode of gleaning information about the world and making it intelligible in prosaic natural models** (a method which does falsify some God hypotheses,1 but is structurally unable to grapple with other God hypotheses and render any verdict).
+
+1 – Some axiomatic God hypotheses are [logically incoherent](http://encyclopedia.laborlawtalk.com/Strong_atheism). Some empirical God hypotheses seem to be falsifiable (there are still people walking about who claim to be incarnations of God and give the impression that they have extraordinary powers).
+
+### Related Posts:
+
+- [Intelligent Design at
+  Stanford](https://www.gnxp.com/WordPress/2005/08/07/intelligent-design-at-stanford/) - [Conservatives against Intelligent Design -
+  update](https://www.gnxp.com/WordPress/2006/06/05/conservatives-against-intelligent-design-update/) - [Conservatives against Intelligent Design against Ann
+  Coulter](https://www.gnxp.com/WordPress/2006/06/18/conservatives-against-intelligent-design-against-ann-coulter/) - [Why I signed on "against Intelligent Design" as
+  a…](https://www.gnxp.com/WordPress/2006/06/02/why-i-signed-on-against-intelligent-design-as-a-conservative/) - [NOVA: Judgment Day: Intelligent Design on
+  Trial](https://www.gnxp.com/WordPress/2007/11/13/nova-judgment-day-intelligent-design-on-trial/) - [Muslims are often
+  Creationists](https://www.gnxp.com/WordPress/2006/07/11/muslims-are-often-creationists/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2005%2F07%2F08%2Fcross-talk-on-intelligent-design%2F&linkname=Cross-talk%20on%20%22Intelligent%20Design%22 "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2005%2F07%2F08%2Fcross-talk-on-intelligent-design%2F&linkname=Cross-talk%20on%20%22Intelligent%20Design%22 "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2005%2F07%2F08%2Fcross-talk-on-intelligent-design%2F&linkname=Cross-talk%20on%20%22Intelligent%20Design%22 "Email")[](https://www.addtoany.com/share)

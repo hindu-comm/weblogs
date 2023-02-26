@@ -1,0 +1,38 @@
++++
+title = "A Turkish analogy for"
+full_title = "A Turkish analogy for IndoEuropeans?"
+date = "2007-03-20"
+upstream_url = "https://www.gnxp.com/WordPress/2007/03/20/a-turkish-analogy-for-indo-europeans/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2007/03/20/a-turkish-analogy-for-indo-europeans/).
+
+A Turkish analogy for Indo-Europeans?
+
+[](https://www.gnxp.com/blog/uploaded_images/turk-742573.jpg)  
+After reading J.P. Mallory’s [In search of the Indo-Europeans](https://www.amazon.com/Search-Indo-Europeans-Language-Archaeology-Myth/dp/0500276161/ref=pd_bbs_sr_1/002-9954258-8060061?ie=UTF8&s=books&amp;amp;amp;amp;amp;amp;amp;amp;qid=1174373442&sr=1-1) I am much more convinced of a possible analogy with the expansion of th Turkic peoples for the rise of the Indo-Europeans. Roughly, in 400 Turks would have been confined to the area around where presently the borders of Russia, China, Mongolia and Kazakhstan converge. 1,200 years later Turks ruled vast swaths of middle-west Eurasia. Both India and Iran were ruled by Turk dynasties. The Ottomans were self-consciously of Turkish origin. Much of central Asia was going through turnover from being predominantly Iranian speaking to Turkish speaking. In [Sons of the Conquerors](https://www.amazon.com/Sons-Conquerors-Rise-Turkic-World/dp/158567804X) journalist Hugh Pope traveled around the Turkish world, and one thing he offers (which I had understood before) is that the many Turkic “languages” are very close, and pretty much intelligible. So linguistically Turks are very close, but what about genetically? Not so much. I won’t review the studies here, you can google them, but, if you’ve met a Turk from central Asia and another from Anatolia, it is pretty obvious that the former is way too hairy to be a true blue “Mongoloid” (Borat = Turk from Turkey, not Kazakhstan). The studies I’ve seen suggest anywhere from 5% to 25% admixture between local Anatolian substrate and immigrant central Asian Turks over the last thousand years (they seem to converge around 15%). This means that some Anatolian Turks do look Asian, because the alleles that code for Asianness are going to be distributed unequally throughout the population, but, most look pretty much like what you would expect being situated between Iran, Greece and the Arab Middle East.1
+
+Of course, Turk cultural domination did not entail wholesale Turkicization. Though modern Iran is about 1/3 Turk (Azeris plus other odd groups), Indo-Iranian elements still dominate. Similarly, Turk rule in India didn’t leave a strong cultural imprint (aside from names and adherence to the Hanafi school amongst Muslims). Interestingly, one could argue that in India Turk rule served as a vector for Persian cultural ascendancy, as Farsi was the court language of the Mughals. Similarly, Farsi was also in high esteem at the court of the Ottomans. So the rise of Turk rule also resulted in the spread of Persian cultural forms, and in places like India the Turkic military elite recruited heavily from Persia to fill their civilian bureaucracies.
+
+So what does this have to do with Indo-Europeans? Well, I speak two Indo-European languages. English and Bengali. I am familiar with a third (I took several years of French). Even as a child I was struck by the similarities between Bengali and English, though not knowing of the Indo-European language family I had a difficult time understanding why the cognates would exist. A new position in Indo-European studies is that this language group spread from Anatolia with the Neolithic revolution, beginning 8 to 9 thousand years ago. This would place the diversification of Indo-European very far back in time, and historical linguists have a serious problem with this: Indo-European languages are just too similar. There are many variants of the Out-of-Anatolia theory, but they all suffer from this conflict with historical linguists. Some of the wrinkles include adding secondary homelands, epicycles if you will. In the case of Indo-Iranians their precursor culture, the [Andronovo](https://en.wikipedia.org/wiki/Andronovo_culture), is known. Believe it or not, a disproportionate number of borrowings of Indo-European words into Finno-Ugric are clearly Indo-Iranian forms! (take that you uncreative Finns!) This dovetails well with the Andronovo as the predecessors of the Indo-Iranian groups, as this culture was extant to the south and east of the Finno-Ugric “homeland” (or, roughly the central tendency of these languages). Explaining these findings is a difficult project for the Out-of-Anatolia hypothesis, and at some point the complexity begins to resemble apologia in my opinion.2
+
+In any case, it seems to me that the odds on favorite is still the Pontic-Steppe hypothesis. And this is where I think the Turk analogy is so obvious: Indo-Europeans could have expanded rather quickly as mobile war bands. In some places, like Syria (the Mitanni) the dynamic was similar to India or Iran for the Turks, the local substrate absorbed the Indo-Europeans (who in Syria were Indo-Aryans). On other regions, such as Europe and India, the dynamic was more like Anatolia, though some genetic signatures can be discerned (perhaps [M17/R1a](https://en.wikipedia.org/wiki/Haplogroup_R1a1_%28Y-DNA%29)?), the local population was large enough that the demographic impact was not substantial, but, the cultural impact was enormous (i.e., the language you speak is a big deal, even though I think a good argument can be made that pre-Indo-European forms still predominate in the civilizations of Greece or India, for example, or that the non-Indo-European Etruscan input into Latin culture was a fundamental distinctive characteristic).
+
+**Addendum:** On the map, Turks were dominant through most of the area shaded by 1200. Anatolia was already dominated by Turkic tribes, most of the Middle East was controlled by various Turkic military elites, Turks were soon to be dominant in the make up of the Mongol Golden Horde, and India was being invaded and conquered by Turkic warlords. 1600 was simply the apogee before the long decline.
+
+1 – Many Balkan Turks were resettled after the great exchange with Greece in the early 20th century, so modern Turkish citizens might be somewhat less Asian then they would be otherwise.
+
+2 – Renfrew’s model was on the heels of Cavalli-Sforza’s demic diffusion wave of advance regarding the spread of agriculture in Europe.
+
+### Related Posts:
+
+- [The sons of the
+  wolf](https://www.gnxp.com/WordPress/2017/11/12/the-sons-of-the-wolf/) - [Indo-European
+  podcasts](https://www.gnxp.com/WordPress/2021/10/07/indo-european-podcasts/) - [Revenge of the
+  herders](https://www.gnxp.com/WordPress/2012/03/31/revenge-of-the-herders/) - [What it means to be a
+  Turk](https://www.gnxp.com/WordPress/2009/06/04/what-it-means-to-be-a-turk/) - [Indo-Europeans!](https://www.gnxp.com/WordPress/2021/03/10/indo-europeans/) - [The Lost White Civilization of
+  China](https://www.gnxp.com/WordPress/2008/11/19/the-lost-white-civilization-of-china/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2007%2F03%2F20%2Fa-turkish-analogy-for-indo-europeans%2F&linkname=A%20Turkish%20analogy%20for%20Indo-Europeans%3F "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2007%2F03%2F20%2Fa-turkish-analogy-for-indo-europeans%2F&linkname=A%20Turkish%20analogy%20for%20Indo-Europeans%3F "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2007%2F03%2F20%2Fa-turkish-analogy-for-indo-europeans%2F&linkname=A%20Turkish%20analogy%20for%20Indo-Europeans%3F "Email")[](https://www.addtoany.com/share)

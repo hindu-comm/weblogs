@@ -1,0 +1,34 @@
++++
+title = "God & man at"
+full_title = "God & man at ScienceBlogs, stand and be counted!"
+date = "2006-11-20"
+upstream_url = "https://www.gnxp.com/WordPress/2006/11/20/god-man-at-scienceblogs-stand-and-be-counted/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2006/11/20/god-man-at-scienceblogs-stand-and-be-counted/).
+
+God & man at ScienceBlogs, stand and be counted!
+
+![dawkins.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2006/11/dawkins.jpg?resize=300%2C224)![dawkins.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2006/11/dawkins.jpg?resize=300%2C224)Wow, wow. Lots of chatter around the [ScienceBlogs](http://www.scienceblogs.com) about religion and evolution, etc. etc. Ed Brayton [starts it off](http://scienceblogs.com/dispatches/2006/11/with_friends_like_these_1.php), drawing a line in the sand against those with an “anti-theist agenda.” John Lynch tends to [side](http://scienceblogs.com/strangerfruit/2006/11/in_which_i_agree_with_ed.php) [with Ed](http://scienceblogs.com/strangerfruit/2006/11/on_atheists_agnostics_and_dawk.php). Our resident Ozzie, John Wilkins has been [getting into it](http://scienceblogs.com/evolvingthoughts/2006/11/agnostic_still_1.php) with [Jason Rosenhouse](http://scienceblogs.com/evolutionblog/2006/11/wilkins_on_dawkins.php). Josh at Thoughts from Kansas has [criticized Dawkins](http://scienceblogs.com/tfk/2006/10/the_god_confusion_dawkins_on_t.php). And of course [P.Z. Myers](http://scienceblogs.com/pharyngula/) has his own views on these topics.  
+A few points.  
+1) This isn’t a two-faced coin. I think in Ed’s post he overreaches a bit. Some people who are militant atheists are pretty nuts. Other people aren’t. Some people really do verge on being inversions of the theocrats they detest, while other individuals make narrow, pointed critiques.  
+2) Nevertheless, as someone who is politically Right-of-Center, and has some rather un-PC viewpoints, I know that there is a tendency for those who fight the good fight for evolutionary science against the depredations of the Other Side to assume that we are all “good liberals” who believe in “social justice” and all the rest. Believe it or, just like atheism, accepting evolution as the best explanation for the tree of life does not necessarily entail any other viewpoints. There do tend to be particular correlations between being anti-evolutionist and right-wing in the United States, but please note that in Europe this tendency does not seem to exist, to be conservative does not imply rejection of evolutionary biology. The correlations and patterns we see before us may not be necessary functions of the structure of ideas that we see bundled together, but simply coincidences emerging from historical contingency.¹
+
+  
+3) Going back to \#1, not only are there manifold viewpoints and nuanced positions, but I think **this is a good thing**. When it comes to 2 + 2 = 4, I think people should agree on this. When it comes to the earth being round, or biological evolution being the most compelling scientific explanation for the diversity of life, I believe that right thinking rational humans should accept these without any controversy. But, when it comes to issues like “is religion good?” I am not particularly invested in the idea that we all need to agree on this. I have stated my own position multiple times, I am not a believer, and I am seriously critical of some aspects of religion, but I also believe it is probably a default human condition which would require too much social engineering and perhaps even totalitarianism to eliminate. It isn’t worth it. That being said, I do believe that individuals such as Richard Dawkins play an essential role in the ecology of ideas and the public discourse. I am not one who believes that a religious position by the nature of being religious is automatically invalidated from public discussion, and similarly, I do not believe that anti-religious ideas should be barred or considered impolite. The various positions result in a pluralism of ideas and opinions which sustain a tense metastability which is probably the best we can attain in a liberal society where views differ on normative issues at far remove from the material world.  
+4) On the specific issue, **“But is it good for evolutionary science?” I think the existence of *both* Ken Miller and Richard Dawkins is a good thing**. My reasoning is simple, Dawkins allows Miller to triangulate, while Miller makes the charge of evolutionism necessitating atheism a lie. Just like an army is best when there are specialities, so the cause of evolutionary science in the public forum needs special forces who are tailored toward their own roles and niches.  
+1 – A real life example of this, in *The Creationists* Ronald L. Numbers offers that in 1930 Mormons at BYU rejected evolution at a 30% clip, but by the late 20th century this had shot up to 70%. Why? The reality is that the Mormon church has no official stand on this topic, but in local seminaries (religious schooling) Creationism is taught as implied form Mormon doctrine. Numbers suggests this is a function of the identification of Mormons with Protestant conservative culture on political issues, and we all know that conservative Protestantism in the United States is the North Pole of Creationism. Mormon adherence to Creationism is probably simply a cultural identification, not something inherent to the Mormon belief system.
+
+### Related Posts:
+
+- [Jason Rosenhouse is a memetic
+  genius!](https://www.gnxp.com/WordPress/2006/06/21/jason-rosenhouse-is-a-memetic-genius/) - [Links of
+  note](https://www.gnxp.com/WordPress/2009/05/24/links-of-note/) - [10 assertions about
+  evolution](https://www.gnxp.com/WordPress/2006/08/20/10-assertions-about-evolution/) - [Thoughts from Kansas on The God
+  Delusion](https://www.gnxp.com/WordPress/2006/10/16/thoughts-from-kansas-on-the-god-delusion/) - [10 assertions,
+  postscript](https://www.gnxp.com/WordPress/2006/08/28/10-assertions-postscript/) - [Bloggingheads ScienceBlogs
+  edition](https://www.gnxp.com/WordPress/2008/05/24/bloggingheads-scienceblogs-edition/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2006%2F11%2F20%2Fgod-man-at-scienceblogs-stand-and-be-counted%2F&linkname=God%20%26%20man%20at%20ScienceBlogs%2C%20stand%20and%20be%20counted%21 "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2006%2F11%2F20%2Fgod-man-at-scienceblogs-stand-and-be-counted%2F&linkname=God%20%26%20man%20at%20ScienceBlogs%2C%20stand%20and%20be%20counted%21 "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2006%2F11%2F20%2Fgod-man-at-scienceblogs-stand-and-be-counted%2F&linkname=God%20%26%20man%20at%20ScienceBlogs%2C%20stand%20and%20be%20counted%21 "Email")[](https://www.addtoany.com/share)

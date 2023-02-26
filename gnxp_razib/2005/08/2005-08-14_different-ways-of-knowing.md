@@ -1,0 +1,36 @@
++++
+title = "\"Different\" ways of"
+full_title = "\"Different\" ways of \"knowing\""
+date = "2005-08-14"
+upstream_url = "https://www.gnxp.com/WordPress/2005/08/14/different-ways-of-knowing/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2005/08/14/different-ways-of-knowing/).
+
+"Different" ways of "knowing"
+
+One of most of the frustrating things about the modern intellectual discourse is that those of us who hew to the Enlightenment tradition, that empirical investigation can shape a rational model of the world as it is, are having to battle two sides. On the one hand, you have traditionalist religious fundamentalists, particularly in the United States, who can mobilize massive ground troops. On the other hand, you have the hyper-Post Modernist project which attempts to deprivilege Western science from its monopoly on descriptions of the physical and biological world around us by periodically blind siding us with massive air raids. This story about [Maori objections](http://www.nzherald.co.nz/index.cfm?ObjectID=10338228) to the [Genographic Project](https://www5.nationalgeographic.com/genographic/) illustrates how the two can work in tandem, in particular when the focus is on non-white peoples who have a history of being at a disadvantage.
+
+For example, see this quote, “For Tongans, we were created in Tonga. We have gods, our own gods, which we created the same as the people of Israel. We have our own stories….” Or, ” “We didn’t come from anywhere. We know that our Dreamtime stories tell us we were always here, in Australia. Can this be twisted to say we came from Africa….” The analogy with Christian fundamentalists is not too strained here as far as the religion goes, though while the fundamentalists want to preserve a certain model of the world that they think validates their literal faith in the Bible and underpins their morality, the indigenous spokespersons have a different ax to grind: “Maori representatives at a Health Research Council conference in Wellington called for the project’s “immediate halt”, saying genetic information belonged to hapu, whanau and iwi collectively, not to individuals.” Ultimately, this is politics that is at work, as small ethnic groups attempt to maintain their own traditions in the face of the acidifying effects of modern society (the same acid that Christian fundamentalists fear).
+
+The fact is, contra this talk of “gods,” almost all the inhabitants of [Tonga](http://www.state.gov/g/drl/rls/irf/2004/35430.htm) are Christian. According to [The Joshua Project](http://www.joshuaproject.net/peopctry.php) the vast majority of Maori are Christian. So are the majority of Australian Aboriginals. An emphasis on “traditional beliefs” is belied by the reality on the ground (if you read the article one researcher in New Zealand notes that he’s had little trouble in convincing individual Maori to give blood). I am not a hard-core believer in either the Dawkinsian or Gouldian position on the Religion-Science relationship, that is, conflict vs. nonoverlapping magisteria. But, when mythology conflicts with science, I think that the universal acid will always win. It doesn’t matter if the mythology is Christian or non-Christian, in the face of modern science they are simply presenting unneeded and superseded hypotheses.
+
+**Update:** John Hawks has [more commentary](http://johnhawks.net/weblog/topics/race/genographic_maori_objection_2005.html) on this topic. Let me stipulate **that I am as skeptical as John is about the grandiloquent claims made on behalf of the Genographic Project**. Copious Y and mtDNA studies have been going on for the past 10 years, so it isn’t like Wells and company are going into uncharted waters. I think John is correct that the main yield of the study will be finding a few oddball relationships between populations. Nevertheless, notwithstanding grand claims, science proceeds quite often by small increments. And we all know to get funding and exposure scientists make claims about their research and its relevance to our understanding of humanity (or practicality) which upon further review are often tendentious.
+
+All that said, as a matter of principle I think we simply shouldn’t give much ground at all to “other ways of knowing.” In terms of outcomes, there will always be other ways of knowing, whether it be religion, astrology or urban legends. Those of us who believe that science is particularly fruitful though should stick by our guns, because the history of the world suggests that science is not inevitable and endemic to our species. Religion and astrology and other assorted “ways of knowing” are, they need no grand defense because humans are already biased toward privileging them. Particular specific beliefs do not persist, but myth-making does. Similarly, specific scientific hypotheses might fall by the wayside, but the method and social enterprise of science continues. I do not put great weight in specific hypotheses (whatever inferences the scientists of the Genographic Project might make from their data), but I do defend (strenuously) the endeavor.
+
+The other aspect of these stories, which sets them apart from the standard science vs. religion narrative, is the “indigenous people” angle. It seems clear that some leaders, or spokespersons, for these groups are asserting a communal claim on their genetic history. This flies in the face of western individualism, and I do not think that this should stand. Legitimacy is conferred, it is not inherent. As a matter of practicality communal claims are executed and implemented by specific individuals, so what one is really doing if one cordon’s off scientific avenues of inquiry due to political sensitivities is transferring control from a distributed network of individuals to a few specific individuals (who claim to speak for everyone of a particular group).
+
+### Related Posts:
+
+- [Nominations, what is "biological
+  evolution"](https://www.gnxp.com/WordPress/2005/12/09/nominations-what-is-biological-evolution/) - [Minor note on "the
+  hack"](https://www.gnxp.com/WordPress/2012/02/17/minor-note-on-the-hack/) - [Living Neandertals - visual "evidence"
+  (?)](https://www.gnxp.com/WordPress/2006/11/09/living-neandertals-visual-evidence/) - ["You are not the
+  father"](https://www.gnxp.com/WordPress/2006/12/02/you-are-not-the-father/) - [How "Predator" should have
+  ended](https://www.gnxp.com/WordPress/2010/06/19/how-predator-should-have-ended/) - [The New York Times "pay
+  wall"](https://www.gnxp.com/WordPress/2011/03/31/the-new-york-times-pay-wall/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2005%2F08%2F14%2Fdifferent-ways-of-knowing%2F&linkname=%22Different%22%20ways%20of%20%22knowing%22 "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2005%2F08%2F14%2Fdifferent-ways-of-knowing%2F&linkname=%22Different%22%20ways%20of%20%22knowing%22 "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2005%2F08%2F14%2Fdifferent-ways-of-knowing%2F&linkname=%22Different%22%20ways%20of%20%22knowing%22 "Email")[](https://www.addtoany.com/share)

@@ -1,0 +1,36 @@
++++
+title = "Multiunit recording SFN"
+full_title = "Multiunit recording SFN decompression"
+date = "2006-10-17"
+upstream_url = "https://www.gnxp.com/WordPress/2006/10/17/multi-unit-recording-sfn-decompression/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2006/10/17/multi-unit-recording-sfn-decompression/).
+
+Multi-unit recording: SFN decompression
+
+Almost done with ATL and the Society for Neuroscience conference. To gel all this info in my head I’ll try to write some of it down. A friend and I went to a short course on Friday organized by [Gyorgy Buzsaki](http://osiris.rutgers.edu/frontmid/indexmid.html) entitled, “Visualizing large-scale patterns of activity in the brain: optical and electrical signals.” I am currently reading Buzsaki’s book “[Rhythms of the Brain](http://www.oup.com/uk/catalogue/?ci=9780195301069)” (recently [reviewed in Science](http://www.sciencemag.org/cgi/content/summary/314/5796/58?maxtoshow=&HITS=10&hits=10&RESULTFORMAT=&fulltext=buzsaki&searchid=1&FIRSTINDEX=0&resourcetype=HWCIT)). Buzsaki is a leader in his field and is making substantial contributions to the understanding of electrical signals in the brain and the organization of neuronal assemblies. I recorded all the lectures on my cell, but somehow in the midst of lots of BootCamping have (i hope temporarily) fried my ability to establish a relationship via bluetooth. The upshot is that I will try to provide you with decent-quality audio of the lectures when I get organized again.
+
+Buzsaki did the intro and the first talk, which is basically a reiteration of Cycle 3 in his new book. Here’s the deal. Neurons produce electrical signals that correlate with stimuli and behavioral states. We would like to be able to speak this language so we can read neurons and know what they are talking about while an animal is awake and behaving. The possibility exists in the future of using this information to speak to neurons directly with electrical stimulation. Currently, the best way to listen to neurons is with extracellular unit recording. With this technique you mainly capture short large-amplitude changes in the potential difference across the neuronal membrane. Most of these are action potentials, in which positively-charged sodium rushes into the cell creating a negativity outside the cell near the cell body (soma, a current sink). It is becoming increasingly clear that to understand some very important brain functions we need to be able to do more than sample individual neurons. We need to be able to look at the covariation in the “noise” of single-unit firing. To do this you need contemporaneous recording from a large number of neurons. So techniques have been developed for inserting multiple extracellular electrodes into, say, a rat hippocampus, and analyzing the temporal relationships between firing patterns of individual neurons.
+
+If you just put one electrode in, you can’t tell whether all the spikes you record are coming from a unique source. That electrode might capture activity from ten neurons that you can’t tell apart. For instance, if the electrode was placed directly in between two neurons with similar firing properties you might confuse them with one neuron that fires a whole lot. To get around this you need to triangulate using multiple recording sites close together with a known spatial configuration. Now neuron B will be slightly weaker than neuron A in electrode B, but both electrodes will pick up the signal and you can do math to figure out that neurons B and A are separate signals. Most of Buzsaki’s talk was on refinements of this process because it is really really difficult to actually be sure you are uniquely identifying a unit. Action potential sizes and signatures change, especially during really interesting complex burst firing patterns. More recording sites buys you more information, but at the cost of tissue damage.
+
+Most multi-unit recording is performed using “tetrodes” four small wires wrapped around each other to give you four recording sites near each other. They can be implanted in an array in the ballpark of 30-100 tetrodes. These are still very much in use and are producing some beautiful data. Buzsaki is developing an alternative: Micro-Electro-Mechanical System-based recoding devices. These are silicon probes created using the techniques established for creating microchips, integrate circuits, etc.. (I don’t know how this works, I assume some of you do). These have the advantage of being thinner, producing less tissue damage, having more refined control over the spatial configuration of the recording surfaces, and allowing some on-chip processing (i.e. signal amplification).
+
+I won’t dazzle you with my poor understanding of the algorithms he is developing to sort out the unit isolation and identification problems. One of the major issues as far as I could tell is that extracellular potentials don’t always come from the axon-hillock at the cell soma, but instead can be generated by activity spikes in the dendrites, so algorithms that treat units as a point-source miss the complexity of electrical signals coming from a ramified polar cell-type. Another issue is the classification of cell-types. You can begin to guess at an inhibitory connection when you see a spike from one unit followed almost immediately by decreased activity in a separate unit. Those sorts of things. There is incredible diversity especially in the inhibitory neuron population. Neurons can be classified in terms of spiking patterns and forms and the effect of their spikes on other neurons. This last classifier is only achievable using multi-unit techniques.
+
+The book is recommended. I’ll hit you back with the mp3s soon I hope. I have nothing to report about ATL. No playas playin, no ridin on them thangs.. Looks mostly like rainin on my thangs, like everyday.
+
+### Related Posts:
+
+- [Buzsaki and
+  Wilson](https://www.gnxp.com/WordPress/2006/10/30/buzsaki-and-wilson/) - [10 Questions for György
+  Buzsáki](https://www.gnxp.com/WordPress/2007/01/22/10-questions-for-gyorgy-buzsaki/) - [Chimp & human resting brain
+  state](https://www.gnxp.com/WordPress/2007/10/16/chimp-human-resting-brain-state/) - [10 Questions for György
+  Buzsáki](https://www.gnxp.com/WordPress/2007/01/22/10-questions-for-gy-ouml-rgy-buzs-aacute-ki/) - [Organizations and
+  cannabinoids](https://www.gnxp.com/WordPress/2006/12/10/organizations-and-cannabinoids/) - [Glia are just support
+  cells](https://www.gnxp.com/WordPress/2007/05/30/glia-are-just-support-cells/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2006%2F10%2F17%2Fmulti-unit-recording-sfn-decompression%2F&linkname=Multi-unit%20recording%3A%20SFN%20decompression "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2006%2F10%2F17%2Fmulti-unit-recording-sfn-decompression%2F&linkname=Multi-unit%20recording%3A%20SFN%20decompression "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2006%2F10%2F17%2Fmulti-unit-recording-sfn-decompression%2F&linkname=Multi-unit%20recording%3A%20SFN%20decompression "Email")[](https://www.addtoany.com/share)
