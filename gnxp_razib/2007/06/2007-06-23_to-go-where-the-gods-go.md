@@ -1,0 +1,32 @@
++++
+title = "To go where the gods"
+full_title = "To go where the gods go"
+date = "2007-06-23"
+upstream_url = "https://www.gnxp.com/WordPress/2007/06/23/to-go-where-the-gods-go/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2007/06/23/to-go-where-the-gods-go/).
+
+To go where the gods go
+
+I was having a discussion with a friend last month about the effect of religious belief on morality. My own hunch was that all things controlled religion makes a minimal impact upon average life time behavior. Rather, I suspected that religious beliefs tended to increase the [amplitude](https://en.wikipedia.org/wiki/Image:Wave.png) of fluctuation between being “good” and “bad.” Religion tends to motivate humans toward intense and acute enthusiasm. From the outside on occasion we can judge those enthusiasms to be abominable (Holy Wars, witch hunts and inquisitions), and on other occasions they are admirable (charitable activities, the drive for social justice underpinned by divine certitude, etc.). Additionally, on a personal level the immoral often use religious [casuistry](https://en.wikipedia.org/wiki/Casuistry) to absolve themselves of guilt, blame or shame at the same time that the moral are driven toward ever more incredible acts of compassion, humanity and selflessness. In other words, religion may act as a dispersive parameter on the distribution of human behaviors. A [Humean](https://en.wikipedia.org/wiki/Humean) skepticism and moderation may lead to a life of relative tranquility and stability, but it may also be perceived by some as pedestrian, without the element of high art that comes with extreme variations in one’s character and station in life. To some extent these thoughts strangely meandered over into my reflections on this essay: [Don’t become a Scientist!](http://wuphys.wustl.edu/%7Ekatz/scientist.html) by physicist Jonathan Katz:
+
+> Typical postdoctoral salaries begin at \$27,000 annually in the > biological sciences and about \$35,000 in the physical sciences > (graduate student stipends are less than half these figures). Can you > support a family on that income? It suffices for a young couple in a > small apartment, though I know of one physicist whose wife left him > because she was tired of repeatedly moving with little prospect of > settling down. When you are in your thirties you will need more: a > house in a good school district and all the other necessities of > ordinary middle class life. Science is a profession, not a religious > vocation, and does not justify an oath of poverty or celibacy.
+
+Not a religious vocation, yes. And yet why is it that so many very bright men and women go into a field notorious for the lack of remuneration? The fact is that 99.99% of scientists will turn to dust, their names forgotten to generations of the future, their theses left to rot in the back rooms or in degrading digital archives. Their toil ultimately in vain. Of course there is the flip side, the prestige (if you get a tenure track slot at a decent institution), and on very rare occasions the fame of equivalent to being a rock star (though rarely do the greatest researchers overlap with the greatest scientific rock stars). Our very civilization is dependent and contingent upon the findings of science, and yet the reality is that most scientists will never achieve fame or fortune. But the hope and the dream is what drives men and women of ostensibly high intellectual aptitude.
+
+Aristotle Onassis once said that without women what would be the point of wealth? I have joked that civilization is what men invented to impress women. The point is that rationality, the ground of our being, is ultimately a bit ludicrous if we engage in excessive cogitation and seek out its roots and fundamentals. During the 18th and 19th centuries scientific discoveries were made by gentlemen who wished to one-up each other and make their mark on the world. Their wealth was expended in the acquisition of knowledge to increase their reputation and status in the proximate, and to assure their everlasting fame and glory in the ultimate. Human behavior varies; for every Charles Darwin there were no doubt thousands of gentlemen of leisure who wiled away their time with the hunt and the drink. But the key point is that there was a Charles Darwin. History and the advance of our species is driven by the irrational dreams of the few. A history of Human moderation would likely have been far less traumatic and uneventful, but would history have ratcheted up toward the modern world that we see around us? I have spoken with some admiration of the stability and continuity of the Imperial Chinese civilization, which maintained its basic shape for 2,000 years, from the age of the Hellenistic empires in the wake of Alexander all the way down to the 20th century. But many of have adduced that this very stability was the reason that the Middle Kingdom never gave birth to modernity. The dampening powers of the Chinese system, its careful repeated evasions of cultural collapse, might have been the very cause for its inability to soar into the heavens like the phoenix exploding from its own ashes.
+
+### Related Posts:
+
+- [Religious attendance = more
+  generosity](https://www.gnxp.com/WordPress/2009/09/08/religious-attendance-more-generosity/) - [Thoughts from Kansas on The God
+  Delusion](https://www.gnxp.com/WordPress/2006/10/16/thoughts-from-kansas-on-the-god-delusion/) - [Go to church & be
+  faithful!](https://www.gnxp.com/WordPress/2009/07/18/go-to-church-be-faithful/) - [Are people naturally religious?
+  Yes....](https://www.gnxp.com/WordPress/2006/09/10/are-people-naturally-religious-yes/) - [The adaptiveness of
+  religion](https://www.gnxp.com/WordPress/2007/04/23/the-adaptiveness-of-religion/) - [Religion &
+  loneliness](https://www.gnxp.com/WordPress/2008/02/17/religion-loneliness/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2007%2F06%2F23%2Fto-go-where-the-gods-go%2F&linkname=To%20go%20where%20the%20gods%20go "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2007%2F06%2F23%2Fto-go-where-the-gods-go%2F&linkname=To%20go%20where%20the%20gods%20go "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2007%2F06%2F23%2Fto-go-where-the-gods-go%2F&linkname=To%20go%20where%20the%20gods%20go "Email")[](https://www.addtoany.com/share)

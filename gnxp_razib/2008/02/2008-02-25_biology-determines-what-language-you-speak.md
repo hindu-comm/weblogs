@@ -1,0 +1,31 @@
++++
+title = "Biology determines what"
+full_title = "Biology determines what language you speak…"
+date = "2008-02-25"
+upstream_url = "https://www.gnxp.com/WordPress/2008/02/25/biology-determines-what-language-you-speak/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2008/02/25/biology-determines-what-language-you-speak/).
+
+Biology determines what language you speak….
+
+Well, sort of. I’m reading [Henry Kamen’s](https://en.wikipedia.org/wiki/Henry_Kamen) [Empire: How Spain Became a World Power](https://www.amazon.com/Empire-Spain-Became-World-1492-1763/dp/B0002D6CXE/ref=sr_1_1?ie=UTF8&s=books&qid=1203918720&sr=1-1). Kamen is no [Charles C. Mann](https://en.wikipedia.org/wiki/Charles_C._Mann), his story isn’t [1491](https://www.amazon.com/1491-Revelations-Americas-Before-Columbus/dp/1400032059/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1203918748&sr=1-1). For him the conquest of the Aztecs and Incas were haphazard affairs driven more by entrepreneurial intent than religious zeal or Spanish patriotism; his lens is that of social and economic history. Kamen’s goal is to debunk those who would attempt to assert that the colonization of the New World was part of some grand imperial plan. It obviously wasn’t, the personal correspondence of [Charles V](https://en.wikipedia.org/wiki/Charles_V%2C_Holy_Roman_Emperor), the titular sovereign under whom the original New World conquests occurred, show a far greater attention and focus upon the geopolitical circumstances of Central Europe.¹ Nevertheless, **Kamen can not ignore the large role that the immunological parameter played in aiding the Spanish conquest.** More accurately, Spain did not conquer the New World, the societies of the New World collapsed and the Spaniards took over in the vacuum. I couldn’t but help note that Kamen points out that the Inca redoubt at Vilcabamba, which remained an independent locus of indigenous political power for decades after the initial Spanish victories, was being wracked by pestilence as the final defeat loomed. Obviously if you are going to engage in a guerilla rearguard action it is tough going when your demographic base is being wiped out from under you. It seems that a good conservative rule of thumb is that 9/10^(th) of the indigenous American population in any given region was struck down within a generation of contact.² Luckily for the peoples of the Andes, they have their own biological adaptations to high altitudes which the Spaniards did not. This meant they were better suited to eventually bounce back as outsiders had a harder time settling their lands.
+
+  
+A contrast with the New World is the Spanish attempt to create an empire in the East Indies, specifically in the [Philippines](https://en.wikipedia.org/wiki/History_of_the_Philippines#Spanish_rule_.281565.E2.80.931898.29). Kamen rightly points out that distance was an issue and it was difficult to get settlers to make the journey to the older side of the world; in fact, a disproportionate number of the Spanish were in fact mixed-race Mestizos from [New Spain](https://en.wikipedia.org/wiki/New_Spain). Nevertheless, the Spanish managed to establish a base in Manila, and over time their religion became the dominant one in the Philippines archipelago. In some ways the Philippines experience did not differ greatly from the New World at first, the Spaniards’ rule was loose, and their real power was limited to their few settlements. But Kamen’s book highlights in passing a big contrast: **whereas the local indigenous people in New Spain suffered demographic collapse in the decades after Spanish rule, those in the Philippines remained robust in their numbers.** During the original conquest of both the New World and the Philippines much of the work was done via proxies; similar to what occurred in India where the British led armies of Indian sepoys against native powers and formed alliances with friendly potentates. But in Mexico, for example, it seems likely that the local powers were rendered totally irrelevant in a few decades because of the parameter of disease. In contrast, in Asia and Africa it was the Europeans who were vulnerable to local ailments and the natives who were more robust. While in the New World Spanish became the *lingua franca*, in the Philippines only 10% of the population could speak it in 1900 (before the American conquest). The Spanish colonialists in the Philippines were no less brutal or inhumane as those of the New World. Rather, they simply were not aided by any noticeable biological advantage when it came to susceptibility to disease.  
+1 – One of the Mestizo sons of Hernan Cortes, the conquer of the Aztecs, fought in the wars of Charles the V in both North Africa in Central Europe.  
+2 – Even today first contact with Brazilian natives usually results in demographic contraction within a few decades.
+
+### Related Posts:
+
+- [A Spanish
+  coincidence?](https://www.gnxp.com/WordPress/2008/02/28/a-spanish-coincidence/) - [10 Questions for Charles C.
+  Mann](https://www.gnxp.com/WordPress/2011/09/02/10-questions-for-charles-c-mann/) - [The old
+  Amazon](https://www.gnxp.com/WordPress/2012/01/14/the-old-amazon/) - [1493: Uncovering the New World Columbus
+  Created](https://www.gnxp.com/WordPress/2011/05/23/1493-uncovering-the-new-world-columbus-created/) - [Language(s), then and
+  now](https://www.gnxp.com/WordPress/2009/10/20/language-s-then-and-now/) - [The boring truth about Charles Martel and
+  Tours](https://www.gnxp.com/WordPress/2014/02/11/the-boring-truth-about-charles-martel-and-tours/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2008%2F02%2F25%2Fbiology-determines-what-language-you-speak%2F&linkname=Biology%20determines%20what%20language%20you%20speak%E2%80%A6. "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2008%2F02%2F25%2Fbiology-determines-what-language-you-speak%2F&linkname=Biology%20determines%20what%20language%20you%20speak%E2%80%A6. "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2008%2F02%2F25%2Fbiology-determines-what-language-you-speak%2F&linkname=Biology%20determines%20what%20language%20you%20speak%E2%80%A6. "Email")[](https://www.addtoany.com/share)

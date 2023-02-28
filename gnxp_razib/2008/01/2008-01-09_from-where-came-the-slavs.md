@@ -1,0 +1,35 @@
++++
+title = "From where came the"
+full_title = "From where came the Slavs?"
+date = "2008-01-09"
+upstream_url = "https://www.gnxp.com/WordPress/2008/01/09/from-where-came-the-slavs/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2008/01/09/from-where-came-the-slavs/).
+
+From where came the Slavs?
+
+![19.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/19.jpg?resize=379%2C341)![19.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/19.jpg?resize=379%2C341)In my previous post I contended that biology is an important causal factor to keep in mind when we model the behavioral ecology (a.k.a., history) of *H. sapiens*. A separate, but complementary, tack is to use genetic data to supplement what we know from other historical sciences (history, archeology, economic history, etc.) to obtain a better picture of the dynamics which were operative in the past and the sequence of events which result in the shape of the present. The [Etruscan genetics](https://www.google.com/search?q=etruscan&btnG=Search!&domains=scienceblogs.com%2Fgnxp&sitesearch=scienceblogs.com%2Fgnxp) story is a perfect case study; genetic data pretty much sealed the deal in allowing us to distinguish between equally plausible hypotheses (or, more honestly, it radically altered the weights of plausibility). Another historical demographic question that I’ve been mulling recently: **how is it that the Slavic speaking peoples expanded to occupy their current range with the last 2,000 years?** Did they migrate or expand through demic diffusion? Maybe a small elite acculturated a pre-Slavic substratum? Or was it a combination of both contingent upon the period and locale?
+
+  
+The question isn’t going to be an easy one to answer. Until relatively recently Slavic languages were preliterate, the critical period of their expansion west into Central and Southeast Europe is going to never bee resolved through analysis of documents because those documents simply do not exist. There are references to Slavs from the outside, such as the Byzantines who noted how they swept across the Balkans between the 6th and 9th centuries. To the east we obviously have a better record of Russian expansion out to the Pacific, but it is not inconsequential to note that Slavic speaking peoples were already extant across a great swath of West-Central Eurasia by the time that Kievan Rus emerged as a superpower. Even the ethnogenesis of Rus is an issue of debate; specifically, the extent and role of Scandinavians in serving as a stimulus for state formation and their contribution to the overall culture.  
+All that being said, genetics does have something to say about this. It seems that to make a broad sweeping claim: **Slavicization was not always a function of genetic replacement, but in part one of assimilative absorption of local substratum.** There is data on this from the Balkans, which I will address at some point, but [Dienekes](https://dienekes.blogspot.com/2008/01/russian-y-chromosomes.html) points me to a new paper, [Two sources of the Russian patrilineal heritage in their Eurasian context](http://www.ncbi.nlm.nih.gov/pubmed/18179905?dopt=Abstract):
+
+> …we show that the patrilineages within the pre-Ivan the Terrible > historic borders of Russia have two main distinct sources. One of > these antedates the linguistic split between West and East > Slavonic-speaking people and is common for the two groups; **the other > is genetically highlighted by the pre-eminence of [haplogroup (hg) > N3](https://en.wikipedia.org/wiki/Haplogroup_N_(Y-DNA)) and is most > parsimoniously explained by extensive assimilation of (or language > change in) northeastern indigenous Finno-Ugric tribes.** Although hg > N3 is common for both East European and Siberian Y chromosomes, other > typically Siberian or Mongolian hgs (Q and C) have negligible > influence within the studied Russian Y chromosome pool. The > distribution of all frequent Y chromosome haplogroups (which account > for 95% of the Y chromosomal spectrum in Russians) follows a similar > north-south clinal pattern among autosomal markers, apparent from > synthetic maps….
+
+![lebed.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/lebed.jpg?resize=150%2C193)![lebed.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/lebed.jpg?resize=150%2C193)The late Russian general [Alexander Lebed](https://en.wikipedia.org/wiki/Lebed) might seem to have a vague “Mongolian” caste to his features, but the likelihood is that this is not [Kalmyk](https://en.wikipedia.org/wiki/Kalmyk) ancestry, but an expression of the underlying normal range of appearance among Northeast European peoples. If we (that is, Anglo-Americans) take the normal range of Western European facial features as exemplars then naturally some Eastern Europeans will fall outside of that range because of differences between the two groups. There was a saying that if you scratch a Russian you’ll find a Tartar; I suspect a much more accurate expression would be that if you scratch a Russian you might stumble upon a Finn.  
+**Note:** Unlike the Etruscan genetics work this is not resolving an issue, but rather calibrating and quantitizing a likely model. The [distribution](https://upload.wikimedia.org/wikipedia/commons/b/b4/Human_Language_Families_(wikicolors).png) of Finno-Ugric languages as well as historical linguistics strongly implies the expansion of Slavs into the lands of the Finns, it seems unlikely that genetic admixture would not have occurred. But phylogenetic analysis makes our understanding more precise and gives more confidence to our background assumptions.
+
+### Related Posts:
+
+- [Reconstructing human origins in the genomic
+  era](https://www.gnxp.com/WordPress/2006/08/18/reconstructing-human-origins-in-the-genomic-era/) - [The History and Geography of Genes...not the
+  book](https://www.gnxp.com/WordPress/2008/01/14/the-history-and-geography-of-genes-not-the-book/) - [History through
+  biology](https://www.gnxp.com/WordPress/2008/04/11/history-through-biology/) - [Genetic map of Europe
+  again](https://www.gnxp.com/WordPress/2008/08/31/genetic-map-of-europe-again/) - [Human behavior; no more models
+  please!!!](https://www.gnxp.com/WordPress/2008/10/09/human-behavior-no-more-models-please/) - [Neandertal & H. sapiens sapiens
+  interbreeding](https://www.gnxp.com/WordPress/2006/11/01/neandertal-h-sapiens-sapiens-interbreeding/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2008%2F01%2F09%2Ffrom-where-came-the-slavs%2F&linkname=From%20where%20came%20the%20Slavs%3F "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2008%2F01%2F09%2Ffrom-where-came-the-slavs%2F&linkname=From%20where%20came%20the%20Slavs%3F "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2008%2F01%2F09%2Ffrom-where-came-the-slavs%2F&linkname=From%20where%20came%20the%20Slavs%3F "Email")[](https://www.addtoany.com/share)

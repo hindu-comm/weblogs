@@ -1,0 +1,43 @@
++++
+title = "The mediocrity of local"
+full_title = "The mediocrity of local peaks"
+date = "2008-02-18"
+upstream_url = "https://www.gnxp.com/WordPress/2008/02/18/the-mediocrity-of-local-peaks/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2008/02/18/the-mediocrity-of-local-peaks/).
+
+The mediocrity of local peaks
+
+Steve on [Extended families and materialism](https://isteve.blogspot.com/2008/02/extended-families-and-materialism.html):
+
+> Anyway, I have a theory about why West Asian materialism runs in such > narrow ruts. If you are Ed Begley, you want to impress other people > who share your tastes and values, so you socialize primarily with > other environmental fanatics who will be impressed that your house is > off the power grid. But if you are from a West Asian group, there’s > much pressure on you to socialize mostly within your extended family > and their in-laws and in-laws’ in-laws. **And because extended > families are pretty average on average, specialized interests don’t > cut much ice.** Instead, the common denominators are the surest road > to approbation. >
+> You just bought a state-of-the-art kayak? Ho-hum. Sure, your kayak-nut > friends will be wowed, but your family? Yawn. In contrast, your cousin > Aram just bought the most expensive BMW. Now, that’s something that > everybody in the family can be floored by!
+
+I think he’s on to something here. When I visited Bangladesh in 2004 I found myself seeking out my uncle who is a religious fundamentalist for conversation. Trained as a geologist he spends all his marginal time engaging in [dawah](https://en.wikipedia.org/wiki/Dawah) and harassing less strident Muslims about following all the picayune details of shariah. Why did I seek his company? It wasn’t because I enjoyed chit-chatting about the inanity of Islamic law, or that I agreed with him about the negative implications of Muslim immigration to the West because of inevitable assimilation. No, when a critical mass of Bengali women come together the constant talk about the family-matters makes you want to commit [seppuku](https://en.wikipedia.org/wiki/Seppuku). I really didn’t give a shit that my second cousin was going to marry some random loser who was from across-the-river and spoke-Bengali-with-a-weird-accent; or whatever banal chatter that they were obsessing over.
+
+There were two ways to escape this sort of mind-asphyxiating conversation. First, seek out people not interested in mundane topics. Despite my secularity my uncle’s rationales and preoccupations were interesting from an academic perspective; his relative admiration of Buddhism for example was not something one might expect from a Sunni fundamentalist (he had traveled to Australia and Southeast Asia with his religious order multiple times). Even better conversation was my cousin who had a master’s degree in math, an interest in cosmology and was employed as a systems administrator. She was much more like the sort of person I would proactively associate with in my natural environment, and despite the fact that we shared relatives in common she didn’t have a great need to review every last incident of gossip that she’d stumbled upon. But there was another way to dampen family-gossip: don’t hang out with family! One of my father’s best friends from college was an engineer, and we went to have dinner at his house one day. His brother, a physics professor at Dhaka university was there, and much of the conversation hinged upon whether the current excitement within the biological sciences compensated enough for the fact that it lacked the elegance and beauty which physics could offer. Now there’s a conversation I could bite into! Of course we weren’t going to talk much family gossip because they weren’t family.
+
+As family sizes shrink within a society I assume that the mind-numbing chatter which emerges from the social-networking of families will slowly diminish. People will associate based on shared-traits instead of shared lineages, mostly because lower fertility means that there’s less lineage to go around. I have on the order of half a dozen aunts and uncles on each side of my family (paternal and maternal). But in my own generation the average number children is about 2 (some have 1, some have 3, etc.). There simply won’t be hordes of cousins in the next generation because the sibling groups are too small (and some of them won’t reproduce, as a few in my parents’ generation have not).
+
+Values, norms and ideas float on a social surface. If one’s local network is saturated with family members…family values will be preeminent. Eccentric interests are not likely to be shared across the family network unless one is totally inbred. So there is a strong selection for banal conversation topics which everyone can participate in, or signalers that everyone can appreciate. There’s a local fitness peak of mediocrity around which a family gathers in terms of topic and creative expression; everyone knows uncle-so-and-so or the terrible thing that happened to that particular cousin. Remove the close relations and the landscape is no longer so regular and coalescence around a local fitness peak no longer as inevitable. An isolated individual you move to a new location and float in and out of social circles based on common affinity. In other words, the non-family world is one of a shifting balance of ideas and an exploration of a more rugged topography. The sample space of possibilities is larger, the risks greater, the comfort zone less incestuous. Depending on your values, that might be a good thing….
+
+Addendum: The point can be generalized. Even shared affinity groups can become too incestuous, to the point where all creativity is removed. As an example, consider that William D. Hamilton believed that the George Price’s [formalism](https://en.wikipedia.org/wiki/Price_equation), which was far superior and more general than that which he had introduced earlier, was a product in large part of the Price’s ignorance of what had come before in the field of evolutionary biology. Because of his ignorance George Price started in a very strange part of gene land and stumbled upon very startling vistas unknown to mainstream theoreticians who were constrained by the precedents of their elders.
+
+Update: I do want to be clear, the dangers of family conversation isn’t even that family members are that mediocre. It’s that you have so much in common with family that the topics tend to be pretty banal. Even if your brother has a Ph.D. you might be more likely to talk about figuring out how to handle the fact that your parent is succumbing to dementia. These are needful conversations, but if your socialization experience is strong skewed toward family members they start swallowing up all your marginal time. The same dangers are applicable to the tendency for many Americans to spend all their marginal time with their significant other. Diversity is good.
+
+Related: Theresa’s cousin on [cousin marriage & corruption](https://hiberniagirl.blogspot.com/2008/02/consanguineous-marriage-and-corruption_17.html). And the [famous profile](http://www.nytimes.com/2007/10/14/magazine/14syrians-t.html?amp;ei=5070&en=3b4b5b5e474a5613&ex=1193112000&pagewanted=print) of the Syrian Jews of Brooklyn.
+
+### Related Posts:
+
+- [Asian American kids in the 1970s and 1980s the WEIRDest
+  in…](https://www.gnxp.com/WordPress/2020/06/24/asian-american-kids-in-the-1970s-and-1980s-the-weirdest-in-the-world/) - [The end of
+  corruption?](https://www.gnxp.com/WordPress/2012/06/27/the-end-of-corruption/) - [The waning of the nuclear
+  family](https://www.gnxp.com/WordPress/2012/09/02/the-waning-of-the-nuclear-family/) - [The West Asian
+  mix](https://www.gnxp.com/WordPress/2012/09/10/the-west-asian-mix/) - [Evolution & gravity, law &
+  theory....](https://www.gnxp.com/WordPress/2008/01/09/evolution-gravity-law-theory/) - [Academic evolution at a
+  discount](https://www.gnxp.com/WordPress/2010/06/14/academic-evolution-at-a-discount/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2008%2F02%2F18%2Fthe-mediocrity-of-local-peaks%2F&linkname=The%20mediocrity%20of%20local%20peaks "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2008%2F02%2F18%2Fthe-mediocrity-of-local-peaks%2F&linkname=The%20mediocrity%20of%20local%20peaks "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2008%2F02%2F18%2Fthe-mediocrity-of-local-peaks%2F&linkname=The%20mediocrity%20of%20local%20peaks "Email")[](https://www.addtoany.com/share)

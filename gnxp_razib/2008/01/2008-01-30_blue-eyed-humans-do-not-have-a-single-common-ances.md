@@ -1,0 +1,31 @@
++++
+title = "‘Blueeyed Humans’ do not"
+full_title = "‘Blueeyed Humans’ do not ‘Have A Single, Common Ancestor;"
+date = "2008-01-30"
+upstream_url = "https://www.gnxp.com/WordPress/2008/01/30/blue-eyed-humans-do-not-have-a-single-common-ancestor/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2008/01/30/blue-eyed-humans-do-not-have-a-single-common-ancestor/).
+
+‘Blue-eyed Humans’ do not ‘Have A Single, Common Ancestor;
+
+*ScienceDaily* has a most-retarded title up for a report on some new research, [Blue-eyed Humans Have A Single, Common Ancestor](http://www.sciencedaily.com/releases/2008/01/080130170343.htm). I already [blogged the paper](https://www.gnxp.com/blog/2008/01/herc2-blue-eye-color-danes.php) at [my other blog](https://www.gnxp.com/blog/2008/01/herc2-blue-eye-color-danes.php). The paper roughly confirms the previous finding that I blogged that an SNP on the gene *HERC2* might regulate expression of *OCA2* so that there is depigmentation; in particular in the iris. I have another post coming up tomorrow morning on another study on *HERC2* (it’s in schedule).
+
+  
+Anyway, the title is stupid, because yes, the *HERC2*–*OCA2* region probably has increased in frequency from a **single gene copy**, but blue-eyed people, and brown-eyed people, and white people and black people and Chinese people, **share innumerable common ancestors within the last 10,000 years** (though the number of times specific individuals show up in the genealogy varies quite a bit; we’re all related, just not equally). The key point here isn’t demographic, it is genetic. *OCA2* is one of the [longest](http://biology.plosjournals.org/perlserv?request=get-document&doi=10.1371/journal.pbio.0040072) [haplotype](https://en.wikipedia.org/wiki/Haplotype) blocks of any appreciable frequency in the European genome, suggesting massive selection within the last 10,000 years. We need to be careful about confounding conventional genealogical and demographic descriptions with evolutionary genetic dynamics driven by selection. **The history of genes is not always the history of peoples, or, you’re ancestors.** Here a Dawkinsian distinction between replicators and vehicles is probably useful.  
+I know it is a pedantic point, but this sort of sloppiness makes it harder to communicate at the the intersection of genetics and other fields. Genes subject to powerful selection within the last 10,000 years, such as *LCT*, often sweep through huge areas and derive from one copy in one individual (as ascertained from the extraneous genetic sequence flanking the locus subject to selection). Concomitantly, there are demographic inferences one can make (e.g., a population with a higher frequency of allele X that population have a higher average fitness than another population, resulting in differential contributions to total genome content in the descendants of the two combined groups), but, over long time spans through [segregation](https://en.wikipedia.org/wiki/Mendelian_inheritance#Law_of_Segregation), [independent assortment](https://en.wikipedia.org/wiki/Mendelian_inheritance#Law_of_Independent_Assortment) and [recombination](https://en.wikipedia.org/wiki/Genetic_recombination) a particular [allele](https://en.wikipedia.org/wiki/Allele) will bleed out of its ancestral genetic background proportional to the power of selection. In other words, the genetic sweep can outrun the demographic wave of advance. That’s why Indians from Uttar Pradesh and Swedes both carry the same variant of *LCT* which is probably derived from the Volga region of Russia and do not look similar at all, while Arabs carry a different variant. Despite the phylogeny of *LCT*, where Arabs are the outgroup, across most genes Indians are the outgroup. **Over evolutionary time scales phenetic similarity does not necessarily entail genetic similarity, and, genetic similarity does not necessarily entail phenetic similarity.**  
+**Addendum:** I do acknowledge that it is correct that the vast majority of of people who exhibit blue-eyes do share a common ancestor within the last 10,000 years. But I think emphasizing this point obscures **the genetic facts which underly this assertion.** Genomic history and genealogy are obviously related, but they are not coterminous. I think with this story it is important to get across to the typical person that one allele subject to positive selection swept through populations and increased in frequency. Alluding to the fact that the original copy was in one individual seems a trivial point; it is much more noteworthy when the same trait is underpinned by genes not identical by descent, because that defies out expectations.
+
+### Related Posts:
+
+- [Blue-eyed lemurs: not
+  HERC2](https://www.gnxp.com/WordPress/2009/03/10/blue-eyed-lemurs-not-herc2/) - [HERC2 & blue eye color &
+  Danes](https://www.gnxp.com/WordPress/2008/01/30/herc2-blue-eye-color-danes/) - [Blue eyes correlate with lighter skin, OCA2 &
+  HERC2](https://www.gnxp.com/WordPress/2008/02/01/blue-eyes-correlate-with-lighter-skin-oca2-herc2/) - [HERC2 and eye
+  color](https://www.gnxp.com/WordPress/2008/01/28/herc2-and-eye-color/) - [Blue eyes correlate with lighter skin, OCA2 &
+  HERC2](https://www.gnxp.com/WordPress/2008/02/01/blue-eyes-correlate-with-lighter-skin-oca2-herc2/) - [Japanese are brown-eyed a bit
+  differently](https://www.gnxp.com/WordPress/2009/07/20/japanese-are-brown-eyed-a-bit-differently/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2008%2F01%2F30%2Fblue-eyed-humans-do-not-have-a-single-common-ancestor%2F&linkname=%E2%80%98Blue-eyed%20Humans%E2%80%99%20do%20not%20%E2%80%98Have%20A%20Single%2C%20Common%20Ancestor%3B "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2008%2F01%2F30%2Fblue-eyed-humans-do-not-have-a-single-common-ancestor%2F&linkname=%E2%80%98Blue-eyed%20Humans%E2%80%99%20do%20not%20%E2%80%98Have%20A%20Single%2C%20Common%20Ancestor%3B "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2008%2F01%2F30%2Fblue-eyed-humans-do-not-have-a-single-common-ancestor%2F&linkname=%E2%80%98Blue-eyed%20Humans%E2%80%99%20do%20not%20%E2%80%98Have%20A%20Single%2C%20Common%20Ancestor%3B "Email")[](https://www.addtoany.com/share)

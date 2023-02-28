@@ -1,0 +1,35 @@
++++
+title = "How the human races got"
+full_title = "How the human races got their stripes"
+date = "2007-09-27"
+upstream_url = "https://www.gnxp.com/WordPress/2007/09/27/how-the-human-races-got-their-stripes/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2007/09/27/how-the-human-races-got-their-stripes/).
+
+How the human races got their stripes
+
+In my post [The new races of man](https://www.gnxp.com/blog/2007/09/new-races-of-man.php) I tried to offer a verbal exposition of my current thinking as to *how* and *why* human physical variation shows the patterns we see around us. In short, I believe that powerful selective forces have reshaped a subset of the human genome in similar and different ways across a range of populations over the past 10,000 years. Empirically, I would predict that the physical appearance we denote as stereotypically “Chinese” or “Swedish” or “West African” might be rather recent ecotypes, adapted to new circumstances, both environmental and cultural. The types we see are simply a collection of correlations of salient phenotypic featuers (e.g., skin color, nasal form) which are the outcomes of selection driving evolutionary change on a [small set of loci](https://www.google.com/search?q=recent+human+evolution&btnG=Search%21&domains=scienceblogs.com%2Fgnxp&sitesearch=scienceblogs.com%2Fgnxp) in the recent human past. But a great proportion of the genome might be relatively unaffected. And I believe this proportion is what we generally look toward to ascertain the phylogenetic characteristics of a population (generally you examine selectively neutral genes assuming that their evolution has proceeded via a constant molecular clock). **Therefore, their may be a discordance between what a small number of recently selected alleles and their salient phenotypic outcomes may imply, and what the total genome content suggests**.  
+Below the fold is my attempt to illustrate all that with a simple schematic representation.
+
+  
+![variationschematic.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/variationschematic.jpg?resize=500%2C465)![variationschematic.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/variationschematic.jpg?resize=500%2C465)  
+So what’s going on here? The eyes are pretty cheesy, but I’m trying to get across that selection may “see” only a small proportion of the genome at any given time. Like light filtering down into the ocean most of the genome is dark and perturbed by constant but slow moving forces (neutral forces). In contrast the surface waters are bathed in sunlight and relatively dynamic in terms of their ecological output (selective forces). Additionally, winds and all sorts of extra-oceanic inputs can roil the surface. Though the oceanic depths are not trivial, as human beings we tend to see the surface and make our judgments based upon them. We classify waters as tropical based on their surface temperature, though at the greatest depths the variation across latitudes is sharply diminished. Similarly, we judge humans based on gross outward phenotypes, even if they don’t necessarily match the phylogenetic relationships which trace ancestry. Old style anthropologists classified the Ainu as “Caucasoid,” while many peoples of Oceania were classified as “Melanesians” or “Oceanic Negroes” because of their superficial physical resemblances with the peoples of Africa.  
+With the rise of cheap sequencing technology and more sophisticated analytic tools the broad outlines of the human tree of life are coming into focus. The Ainu were in fact an ancient East Asian people, and in terms of their ancestry shared more with the other peoples of Northeast Eurasia than they did with the distant Europeans. The peoples of Melanesia are not related to Africans, they are a branch of the large cluster of peoples of the western fringe of the Pacific. And so on.  
+What is occurring here? 10,000 years ago I believe there was relatively little difference between the Ainu and the peoples of mainland East Asia. But around the region which has now become China selective forces led to the emergence of a new phenotype, what old style anthropologists would term “classical Mongoloids.” Nevertheless, the neutral markers drifted at a slower pace, so in terms of total genome content the Ainu and the other peoples of East Asia are not particularly distant. Instead, on a subset of loci subject to selection powerful divergent evolutionary forces have taken the Ainu and the Han on radically different tracks.  
+So what is more important? The surface, or the total sum of the depths? That depends on your perspective. For example, in Brazil there is some evidence that the non-European ancestry among white Brazilians is far higher than they suspect. Their physical appearance doesn’t necessarily reflect their total genome content. How could this be? It seems plausible that assortative mating might have worked to separate out the traits associated with “whites” and “blacks” from an admixed population which exhibited the full phenotypic range. But the non-white ancestry of white Brazilians might mask the presence of alleles such as sickle cell.  
+In the end, it’s all a matter of emphasis. What is your interest? What is your passion? Nature is wide and deep, we can never truly comprehend it. We shouldn’t straight-jacket it into our narrow categories but attempt to capture its fullness and subtlety.  
+**Note:** Obviously phenotypes “visible” to selection don’t have to be literally visible. For example, the human immune system is always roiling with evolutionary activity.
+
+### Related Posts:
+
+- [Origin of the
+  races](https://www.gnxp.com/WordPress/2007/09/08/origin-of-the-races/) - [Selectives sweeps and the alleles that love
+  them](https://www.gnxp.com/WordPress/2008/09/29/selectives-sweeps-and-the-alleles-that-love-them/) - [Intogression-1](https://www.gnxp.com/WordPress/2006/08/01/intogression-1/) - [Why phenotypic races may not
+  disappear](https://www.gnxp.com/WordPress/2007/12/21/why-phenotypic-races-may-not-disappear/) - [Jerry Coyne on race: a reflection of
+  evolution](https://www.gnxp.com/WordPress/2012/02/29/jerry-coyne-on-race-a-reflection-of-evolution/) - [The dam of ancient DNA starts to
+  break](https://www.gnxp.com/WordPress/2013/01/21/the-dam-of-ancient-dna-starts-to-break/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2007%2F09%2F27%2Fhow-the-human-races-got-their-stripes%2F&linkname=How%20the%20human%20races%20got%20their%20stripes "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2007%2F09%2F27%2Fhow-the-human-races-got-their-stripes%2F&linkname=How%20the%20human%20races%20got%20their%20stripes "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2007%2F09%2F27%2Fhow-the-human-races-got-their-stripes%2F&linkname=How%20the%20human%20races%20got%20their%20stripes "Email")[](https://www.addtoany.com/share)

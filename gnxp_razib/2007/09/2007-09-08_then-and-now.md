@@ -1,0 +1,30 @@
++++
+title = "Then and now"
+full_title = "Then and now"
+date = "2007-09-08"
+upstream_url = "https://www.gnxp.com/WordPress/2007/09/08/then-and-now/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2007/09/08/then-and-now/).
+
+Then and now
+
+*The New York Times* has a [story up](http://www.nytimes.com/2007/09/09/us/09polygamy.html?hp=&pagewanted=all) about the boys who have to be expelled from the [Fundamentalist Church of Jesus Christ of Latter Day Saints](https://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter_Day_Saints) of Warren Jeffs. This group practices obligate polygyny (you have to have at least three wives to make it to heaven) so teenage boys are thrown out of the community with the merest pretense to maintain a suitable sex ratio. Because they have led regimented lives and lack much formal education the transition to “normalcy” is often difficult. A [story](http://www.cnn.com/2007/US/09/07/lost.boys/index.html?iref=newssearch) at CNN emphasizes the large role that alcohol and drugs end up playing in their lives after expulsion; what was forbidden now becomes the ends of existence.
+
+Obviously a fundamentalist Mormon sect is atypical in many ways. Nevertheless, I do think that it is simply an exaggeration of cultural forms which were and are quite normal across much of the world. The values of fundamentalist Mormons are not so opaque to someone from a ‘traditional’ cultural perspective. Here you have a society where a group of older men have fiat power over the most basic and critical aspects of the lives of their flock. There are fierce social and psychological controls at work which serve as tools for Warren Jeffs and his acolytes. The boys profiled note that they were terrified that they were going to hell if they disobeyed the leaders of their church. In terms of individual worth the only figures who have a modicum of autonomy are the powerful old men who control the levers of the culture. Most individuals are boxed in by birth and circumstance, they have minimal choice in terms of alternatives options, their social networks are within the same group so the norms of authority and control are reinforced and replicated.
+
+These oppressive cultural systems are certainly at variance with the liberty and autonomy which are held in such esteem in the modern West. But they “work,” as can be attested by their pervasiveness. I believe that the past 10,000 years has been the [story of the rise of patrilineages](http://scienceblogs.com/gnxp/2006/09/why_patriarchy.php), cabals of powerful men who monopolize and control the surplus of any given society. Though rarely as totalitarian as Warren Jeffs and his cronies, they regulated the lives of their close relations and other figures of note to maximize the status of their lineage. Even if the peasantry were not impacted by the taboos and incentives which pervaded the lives of the elite because of practical constraints, they certainly knew what the “right” way to live life was. Modernization and increasing affluence often lead to emulation of traditional elites so that the median “best practices” in a given society become more regressive from a Western angle as it becomes more “advanced.”
+
+This trend of increased inequality and the monopolization of economic surplus by an oligarchy has only been reversed over the past few centuries in the West. Concomitantly we have seen the decreased role for the religious institutions which offered an imprimatur of sacredness to the political and social systems of control. Though individuals may still be religious, they pick and choose an institutional affiliation and no longer fear the synergistic coercive power of church and state. Liberty is an idea we hold dear, but it is also an economic reality insofar as the average man or woman in the West now lives far above basic subsistence and can choose from a wide array of luxury goods to satisfy their wants and needs. Social systems which arose during the agricultural interlude, when the typical human lived on the margins of subsistence through perpetual back-breaking labor and a small leisured elite warred and philosophized, still remain with us as ghosts from a bygone age. The rate of economic and social growth, and the disjointed nature of the process, means that the past and the present and the future all face each other every day. In the modern West one of the major manifestations of this trend is the experience of 1st generation immigrants and their offspring. The parents grew up in a subsistence society, often buttressed by familial obligations and expectations. The children socialize in a consumer world where choice is a given. A father kills his daughter because she has entered into a sexual relationship with an outsider before marriage and without his permission. These are the things that happen when the past faces the present.
+
+### Related Posts:
+
+- [Sex ratio &
+  preferences](https://www.gnxp.com/WordPress/2007/12/22/sex-ratio-preferences/) - [Belief-O-Matic](https://www.gnxp.com/WordPress/2006/11/16/belief-o-matic/) - [When the weirdos are
+  white](https://www.gnxp.com/WordPress/2008/04/20/when-the-weirdos-are-white/) - [The Boy Crisis in Education and Serial
+  Monogamy](https://www.gnxp.com/WordPress/2006/01/29/the-boy-crisis-in-education-and-serial-monogamy/) - [Are late bloomers
+  losers?](https://www.gnxp.com/WordPress/2006/04/07/are-late-bloomers-losers/) - [Boy crisis?](https://www.gnxp.com/WordPress/2006/07/03/boy-crisis/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2007%2F09%2F08%2Fthen-and-now%2F&linkname=Then%20and%20now "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2007%2F09%2F08%2Fthen-and-now%2F&linkname=Then%20and%20now "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2007%2F09%2F08%2Fthen-and-now%2F&linkname=Then%20and%20now "Email")[](https://www.addtoany.com/share)

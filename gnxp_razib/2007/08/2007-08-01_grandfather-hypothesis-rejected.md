@@ -1,0 +1,35 @@
++++
+title = "Grandfather hypothesis"
+full_title = "Grandfather hypothesis rejected?"
+date = "2007-08-01"
+upstream_url = "https://www.gnxp.com/WordPress/2007/08/01/grandfather-hypothesis-rejected/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2007/08/01/grandfather-hypothesis-rejected/).
+
+Grandfather hypothesis rejected?
+
+In biological anthropology there is a [Grandmother Hypothesis](https://www.google.com/search?q=grandmother+hypothesis&btnG=Search%21&domains=scienceblogs.com%2Fgnxp&sitesearch=scienceblogs.com%2Fgnxp) as an explanation for why adult human females live so long **after** their reproduction ceases, and, why menopause occurs in the first place (male fertility tapers off over time, while women undergo a concerted physiological change which shuts down their ability to reproduce). The basic idea is that beyond a particular age women can increase their own genetic fitness to a greater extent by investing in their daughters reproductive output.  
+The idea is pretty easy to illustrate. Imagine an allele, **M**, which induces menopause in an autosomal dominant manner (only one copy is necessary). If there is a woman who exhibits a *de novo* mutation for this trait, and her biosocial phenotype results in increased fitness then that allele will have a higher fitness than the “wild type.” In the next generation half her daughters will exhibit the same trait and be more fit than their sisters, and so on. In terms of why fitness would be beneficial the reasoning is that shutting down reproduction reduces the chance of mortality during childbirth, extending lifespan. **This lifespan can then be utilized toward investment in their grandchildren** (even if the woman does not die in childbirth the immediate costs would be investing in her offspring as opposed to her numerous grandchildren, in whose survival chances she might make a marginally significant dent).
+
+  
+Some of the most recent work has been by Virpi Lummaa using Finnish church records. Now she and her colleagues report new results in regards to the “Grandfather Hypothesis.” [Selection for long lifespan in men: benefits of grandfathering?](http://www.journals.royalsoc.ac.uk/content/85857337652w703n/fulltext.html) (**Open Access**):
+
+> …The results of our study have at least three general and important > implications. First, that we found significant effects of father > presence on underlying offspring life-history traits but no effect on > offspring fitness highlights the importance of measuring fitness > before concluding whether statistically significant effects on > individual life-history traits are biologically important. Second, > that we have previously shown significant fitness consequences of > grandmothering but failed to find a similar effect of grandfathering > in the same population strongly suggests that the grandmother result > is real and not a consequence of an unknown confounding variable. > Finally, that we failed to find a significant grandfather effect in > our monogamous society in which we restricted our data to those men > who married only once in their lifetimes (and hence could only gain > fitness by grandfathering after the menopause of their wife) strongly > suggests that the evolution of prolonged life in men cannot be > explained by the selective benefits of grandfathering. This counters > accumulating evidence to suggest that mothers can gain significant > increments to fitness by helping their offspring following > menopause…We suggest that if evidence for a grandfather hypothesis is > lacking in a monogamous western society, then its general importance > in shaping male lifespan during our more promiscuous…evolutionary past > is likely to be negligible. **Long life in men must therefore arise > through either the benefits of continued mating throughout life or as > the unselected consequence of genes for longevity in females**.
+
+Lummaa found the Finnish records illustrative for an important reason: **monogamy**. Not only did Finns engage in obligate monogamy, but their extramarital relations are assumed to be minimal taking into account social mores and the high rates of justified paternity confidence in the modern Finnish population. This means that the **only fitness increment that a Finnish man could expect after their wife entered menopause was through investment in their grandchildren**. The relative lack of a strong effect suggests that the long lives of grandfathers are simply a byproduct of the long life of grandmothers (analogous to the breasts that males have), or, that in the relatively recent past males exhibited far higher reproductive skew (polygyny, etc.) which resulted in continuous reproduction through their lifetime.  
+Now, please note that the emergence of sexual dimorphism can be a [slow process](https://www.gnxp.com/MT2/archives/003689.html) in relation to conventional directional evolution via selection. So, it can not be discounted out of hand that male long life is a byproduct of female long life, and that selection has simply not had time to equilibrate (i.e., select for modifier alleles on other loci which express and regulate conditional upon sex). That being said, I tend to find the idea that males commonly engaged in polygyny in the recent past relatively plausible, though this might not be the full explanation (Lummaa found some evidence for grandfathers reducing the fitness of their grandchildren, though if it was mostly neutral it might persist for a long time). Additionally, as I noted earlier, powerful older males could possibly increase the fitness at the level of deme (population) while not increasing the fitness of their own family. I tend to think that this last dynamic would be more prevalent in a hunter-gatherer/tribal society than in a modern one.
+
+### Related Posts:
+
+- [Grandmother effect and Mormon
+  America](https://www.gnxp.com/WordPress/2007/01/03/grandmother-effect-and-mormon-america/) - [Mothers
+  matter](https://www.gnxp.com/WordPress/2006/05/14/mothers-matter/) - [Menopause in Matrilineal
+  Whales](https://www.gnxp.com/WordPress/2007/08/30/menopause-in-matrilineal-whales/) - [Menopause in chimps? Or
+  not?](https://www.gnxp.com/WordPress/2007/12/14/menopause-in-chimps-or-not/) - [Grandmother hypothesis
+  article](https://www.gnxp.com/WordPress/2007/05/04/grandmother-hypothesis-article/) - [Menopause as an
+  adaptation](https://www.gnxp.com/WordPress/2009/10/13/menopause-as-an-adaptation/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2007%2F08%2F01%2Fgrandfather-hypothesis-rejected%2F&linkname=Grandfather%20hypothesis%20rejected%3F "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2007%2F08%2F01%2Fgrandfather-hypothesis-rejected%2F&linkname=Grandfather%20hypothesis%20rejected%3F "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2007%2F08%2F01%2Fgrandfather-hypothesis-rejected%2F&linkname=Grandfather%20hypothesis%20rejected%3F "Email")[](https://www.addtoany.com/share)
