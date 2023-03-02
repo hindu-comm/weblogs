@@ -1,0 +1,40 @@
++++
+title = "Cultures of constraint;"
+full_title = "Cultures of constraint; Islam, India and Marxism"
+date = "2009-12-18"
+upstream_url = "https://www.gnxp.com/WordPress/2009/12/18/cultures-of-constraint-islam-india-and-marxism/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2009/12/18/cultures-of-constraint-islam-india-and-marxism/).
+
+Cultures of constraint; Islam, India and Marxism
+
+Pew has a new report, [Global Restrictions on Religion](https://pewforum.org/docs/?DocID=491) (HT [JohnPI](http://talkislam.info/2009/12/18/study-religion-repressed-in-third-of-al/)). It illustrates rather clearly some general trends which I’ve been mulling over for several years looking at cross-cultural data. Here’s a 2-dimensional chart which plots the 50 most populous nations in their data set along an axis of governmental vs. social restrictions on religion.
+
+There are the set of countries which have been shaped by Marxism in the recent past, or still are officially Marxist, which have strong legal sanctions against organized religion. China, Eritrea and Uzbekistan fall into this camp. But look at Russia. Perhaps Russian intolerance is a function of its Eastern Orthodoxy, but it seems plausible that Communist era elites have simply continued the tendency to control “subversive” religious groups that they had honed during the Soviet period (most Western nations were very restrictive of minority religions when the Russian Revolution occurred, but during the Soviet period many evolved toward a more tolerant state).
+
+Then there are the Muslim countries. While China has official atheism, religious groups can flourish (at least within the natural bounds of the religiosity of the Chinese people, which seems to be set rather low) so long as they keep a low profile and don’t get on the wrong side of the state. But in many Muslim countries hostility toward non-mainstream religious movements runs very deep. I don’t need to elaborate on this, Muslims are the modern apotheosis of the Abrahamists of old, atheists toward other gods and promoters of their own (listening to the radio recently I noticed how talk show hosts given Muslims a pass when they get all effusive about how incredible their religion is. If a white Christian did this it would seem gauche). This probably explains on some level the extreme outrage in Muslim majority countries when Muslim expression in the non-Muslim majority countries is restrained. This response is totally not dampened by the strong tendency for Muslims to severely constrain the rights of non-Muslims when they themselves are in the majority. The Single Truth needs no apology, and why would one want to be fair and balanced between Truth and delusion? (I think back here to debates between pagans and Christians in Late Antiquity, as the latter brushed aside the pleas from the former for tolerance of belief and practice by arguing in effect that freedom of religion would only give succor to delusion and was therefore ultimately an obscenity. This stance remained dominant in the West down to the Enlightenment)
+
+Finally, there’s India. By India, I don’t mean the nation of India. I mean the civilization, which includes Bangladesh, Nepal, Sri Lanka and yes, Pakistan. Poking through survey data it seems that Hindus are quite religious, like Muslims, but they are far less atheistic, as one would expect. The philosophical aspects of Hinduism which tend toward universalism and cultural parallelism seem to percolate down rather far (though the survey data I see probably excludes the illiterate masses). On the other hand, like Muslims Hindus seem to have really strong attitudes when it comes to religious defection or switching. India has laws discouraging or banning conversion which might be appropriate in the Muslim or (post-)Marxist world. When looking at survey data on South Asians from India in the UK or USA it is interesting to me that though the Hindus are only moderately religious in their self-conception, very few avow that they have “No Religion.” This is in strong contrast with East Asia, and among East Asian immigrants, who routinely assert that they have no religious affiliation. While Indian Hindus by and large have no need to convert the world in totality to their religion, as Muslims and Marxists must in regards to their faiths, they are strong believers in the necessity of some religious identity. Additionally, they have an attachment to the idea that people should not defect or switch between identities, lest inter-communal harmony be disrupted.
+
+In the report they express some surprise that Africa is relatively tolerant. I am not. From what I have read religious conversion and switching is very common in Africa, from Protestantism to Catholicism to Islam and back. Even heads of state have switched religions without extreme controversy. Perhaps this has something to do with the sheer fragmentation and diversity of most African nations, which are cleaved along many dimensions besides religion. Additionally, the roots of any given organized religion are generally rather shallow in most of these nations. So unlike Indian civilization switching religion doesn’t carry a lot of historical baggage. The best analogy to Africa seems like the United States, which also have a huge diversity of religious sects, and where switching is generally not particularly surprising or controversial. Individual preference is balanced with communal identification.
+
+Finally, I want to note the distinction between some European nations which are secular (France) and East Asian ones (Korea, Japan). Without the totalist influence of Marxism East Asian nations tend to take a relatively muted stance toward religion. Just as Sri Lankan Buddhists show that the identitarian reflex of Indians is not a function of Hinduism, Taiwan, Singapore and Hong Kong all illustrate that without official Marxism there is relatively robust tolerance of religious sectarianism. The power of *one* organized religion in East Asia was always much less than it was in Europe. Talking to many Europeans who are secular, though they themselves are not believers, they often find “non-traditional” religions rather weird. There is clearly a particular favoritism toward the traditional religion of a society, and a suspicion of new religions. This in some ways resembles the Indian attitude, except it is much more stripped of any supernatural content in terms of belief.
+
+Here are two maps which illustrate the axes above:
+
+[](http://scienceblogs.com/gnxp/upload/2009/12/govrel1.png)
+
+### Related Posts:
+
+- [Religious freedom in
+  2009](https://www.gnxp.com/WordPress/2009/10/26/religious-freedom-in-2009/) - [Egypt vs. Indonesia in
+  attitudes](https://www.gnxp.com/WordPress/2011/02/02/egypt-vs-indonesia-in-attitudes/) - [Religiosity vs. GDP PPP Per
+  Capita](https://www.gnxp.com/WordPress/2009/12/06/religiosity-vs-gdp-ppp-per-capita/) - [Attitudes about evolution across
+  countries](https://www.gnxp.com/WordPress/2009/07/06/attitudes-about-evolution-across-countries/) - [A religious
+  analogy](https://www.gnxp.com/WordPress/2007/03/28/a-religious-analogy/) - [Pew Religion in
+  America](https://www.gnxp.com/WordPress/2008/02/25/pew-religion-in-america/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2009%2F12%2F18%2Fcultures-of-constraint-islam-india-and-marxism%2F&linkname=Cultures%20of%20constraint%3B%20Islam%2C%20India%20and%20Marxism "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2009%2F12%2F18%2Fcultures-of-constraint-islam-india-and-marxism%2F&linkname=Cultures%20of%20constraint%3B%20Islam%2C%20India%20and%20Marxism "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2009%2F12%2F18%2Fcultures-of-constraint-islam-india-and-marxism%2F&linkname=Cultures%20of%20constraint%3B%20Islam%2C%20India%20and%20Marxism "Email")[](https://www.addtoany.com/share)

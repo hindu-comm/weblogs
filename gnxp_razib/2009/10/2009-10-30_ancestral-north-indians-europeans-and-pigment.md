@@ -1,0 +1,37 @@
++++
+title = "\"Ancestral North"
+full_title = "\"Ancestral North Indians\", Europeans and pigment"
+date = "2009-10-30"
+upstream_url = "https://www.gnxp.com/WordPress/2009/10/30/ancestral-north-indians-europeans-and-pigment/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2009/10/30/ancestral-north-indians-europeans-and-pigment/).
+
+"Ancestral North Indians", Europeans and pigment
+
+Something that has been nagging me about the [recent paper](http://www.nature.com/nature/journal/v461/n7263/abs/nature08365.html) by Reich et al. which models Indian populations as a hybridization event between two ancestral groups, “Ancestral South Indians” (ASI) and “Ancestral North Indians” (ANI). As a reminder, the ANI seem to have been rather like Europeans in their allele frequencies, or at least far closer to Europeans than they were to the ASI (it seems that they compared ANI with Western Europeans). This is interesting. They found in the populations surveyed that the low bound for ANI was 40%, the high \~80% (in the supplements they included some Pathans and Sindhis from the HGDP, and that’s where that number comes from). The \~40% low bound for ANI rather surprised me. The populations which they sampled included South Indian tribal groups. In other words, these were the groups arguably least affected by what we term Hinduism and Indian culture (their status as “tribals” as opposed to lower caste or outcaste was generally a function of the fact that they rejected integration and assimilation into mainstream Indian culture and isolated themselves both geographically and in terms of their customs). Just seems weird that these groups would be so ANI.
+
+[](https://www.gnxp.com/blog/uploaded_images/indiaMODEL-783101.png)For a few weeks now Greg Cochran has been asking if I saw something in the paper above about when the admixture between ANI and ASI occurred, or at least if there was a hint about when the authors think it occurred. I said no, there are only hints. **I was wrong, I skimmed over the supplement too quickly, *they assume 200 generations ago* as a parameter in a model they use for simulations.** Bingo. Just click the image to the left, and look at the lower right. 200 generations = 5,000 years ago, assuming 25 years for generation time. Let’s assume that a South Indian tribal group is a small deme of ASI surrounded by a very large (infinite) deme of ANI for 200 generations. If I assume a constant outmarriage rate of 0.25% per generation (1 out of 400) then at the present time you’d have the tribal group being \~40% ANI.
+
+OK, what about my idea which I presented to John Hawks that Indians “don’t really look” like a hybridization between Northern Europeans and the ASI, ASI assumed to be similar to the Andaman Islanders (who I do not believe were necessarily “Negritos,” insofar as I suspect their small stature is due to contact with Europeans and Indians, as those who have avoided such contact are seen to be of normal or even above average size for South Asians). Specifically the frequency of light eyes and hair is just way too low among groups which are on the 70-80% ANI range such as Punjabis and Kashmiris, though these groups do tend have more Caucasoid features and lighter (olive) skin. On the other hand, here is something which jumped out at me about the Reich et al. paper: they added two Pakistani populations who fit well in the ANI-ASI cline which most of the Indian groups mapped onto (some groups with “Eastern” origin in both Pakistan and India were discarded from the analysis), and their ANI frequency proportions seemed familiar to me. There are three ANI estimates for both groups:
+
+Sindhi – 78%, 70.7%, 73.7% (78%)  
+Pathan – 81%, 74.2%, 76.9% (81%)
+
+In the parenthesis is the frequency for the derived (European-like) variant of [SLC24A5](http://hgdp.uchicago.edu/cgi-bin/alfreqs.cgi?pos=46213776&chr=chr15&rs=rs1426654&imp=true). The data sets were the same, from the HGDP, though the ancestry estimates used only 10 and 15 of the approximately 50 of each group respectively. There’s a suspicious correspondence here. The lowest frequency of the derived variant of SLC24A5 I’ve seen for a South Asian population is \~30% for [Sri Lankan Tamils](http://www.ncbi.nlm.nih.gov/pubmed/16847698), with \~50% for Sri Lankan Sinhalese. Remember that a reasonable low bound for ANI for South Asian groups is on the order of 40%.
+
+But what about my contention that other European-like pigmentation alleles don’t fit because the phenotype isn’t what you’d expect. You can look at a blue vs. brown eye variant of OCA2 in the [HGDP](http://hgdp.uchicago.edu/cgi-bin/alfreqs.cgi?pos=26039213&chr=chr15&rs=&imp=false). Another eye color variant, [HERC2](http://hgdp.uchicago.edu/cgi-bin/alfreqs.cgi?pos=26039213&chr=chr15&rs=rs12913832&imp=false). And here is a variant of [TYR](http://hgdp.uchicago.edu/cgi-bin/alfreqs.cgi?pos=88551344&chr=chr11&rs=rs1042602&imp=false) which causes light skin. The interesting point would be to look at the Indian samples, but I don’t have really good proxies for that (in one paper which surveyed [Indian American](http://www.biomedcentral.com/1471-2156/9/13)s various language groups ranged from 70-100% in derived SLC24A5 frequency, but it is very difficult to imagine that these correspond well to many groups in the Reich paper. Specifically, it’s biased toward higher status/caste groups). I might have spoken too soon, though it still seems to me that something is off. Perhaps Europeans changed after ANI left. Or perhaps ANI changed when it arrived in India. One recent data point which I find curious is that [a paper just came out](http://www.springerlink.com/content/e48j28227r67184u/) which suggests that populations of the [Andronovo culture](https://en.wikipedia.org/wiki/Andronovo_culture) in Trans-Siberia, which is assumed to be the precursor to the Indo-Iranians, seem to resemble modern day Russians in pigment phenotype. At least judging from the genes extracted and sequenced.  
+More later when my thoughts become more settled.
+
+### Related Posts:
+
+- [Genome bloggers & Indian
+  genomics](https://www.gnxp.com/WordPress/2011/03/22/genome-bloggers-indian-genomics/) - [SMBE 2012](https://www.gnxp.com/WordPress/2012/06/24/smbe-2012/) - [Rise of the planet of the
+  Indo-Europeans](https://www.gnxp.com/WordPress/2012/08/16/rise-of-the-planet-of-the-indo-europeans/) - [David Reich interview on
+  Edge](https://www.gnxp.com/WordPress/2016/02/23/david-reich-interview-on-edge/) - [Signal of Indo-Aryan admixture in South Indian
+  Brahmins](https://www.gnxp.com/WordPress/2012/09/29/signal-of-indo-aryan-admixture-in-south-indian-brahmins/) - [Kalash haplotype
+  sharing](https://www.gnxp.com/WordPress/2012/02/18/kalash-haplotype-sharing/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2009%2F10%2F30%2Fancestral-north-indians-europeans-and-pigment%2F&linkname=%22Ancestral%20North%20Indians%22%2C%20Europeans%20and%20pigment "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2009%2F10%2F30%2Fancestral-north-indians-europeans-and-pigment%2F&linkname=%22Ancestral%20North%20Indians%22%2C%20Europeans%20and%20pigment "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2009%2F10%2F30%2Fancestral-north-indians-europeans-and-pigment%2F&linkname=%22Ancestral%20North%20Indians%22%2C%20Europeans%20and%20pigment "Email")[](https://www.addtoany.com/share)

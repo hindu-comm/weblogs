@@ -1,0 +1,33 @@
++++
+title = "Charles Darwin was a"
+full_title = "Charles Darwin was a genius"
+date = "2010-02-08"
+upstream_url = "https://www.gnxp.com/WordPress/2010/02/08/charles-darwin-was-a-genius-i-think/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2010/02/08/charles-darwin-was-a-genius-i-think/).
+
+Charles Darwin was a genius (I think)
+
+After watching Creation last week I decided to take the plunge and read [Origin of Species](https://www.amazon.com/exec/obidos/ASIN/0451529065/geneexpressio-20/). As I’ve mentioned before I did read *Origin* early in my teen years, but in hindsight with minimal comprehension. Since then I’ve occasionally started to read *Origin*, or perused an extract, but I’ve never made it from front to back as a sentient adult. At this point I’m 3/4 of the way through, and I need to get something off my chest: **I now believe that Charles Darwin was a very smart man, a genius.** I had heard other people to refer to Darwin in such a fashion, but reading his original works has brought home to me much more viscerally his incredible power of insight.  
+One of the reasons I hadn’t reread [Origin of Species](https://www.amazon.com/exec/obidos/ASIN/0451529065/geneexpressio-20/) was that I assumed that because it was the modern root of evolutionary biology what was correct would have been integrated into conventional wisdom and what was false would have been falsified. This impression seems to have been right. But I was shocked by the magnitude of Darwin’s intellectual creativity, so many basic aspects of evolutionary biological orthodoxy are in evidence in [Origin of Species](https://www.amazon.com/exec/obidos/ASIN/0451529065/geneexpressio-20/), down to a very low level of specificity. Page after page I have encountered hypotheses and empirical observations which are seamlessly integrated into the body of conventional background wisdom within a modern biological education. Granted, he does not use contemporary terminology. For example, when Darwin discusses pleiotropic traits in depth he refers to “laws of correlation.” But it is clear what is being elucidated in the section nonetheless, the substance has the same force even if the style is a bit peculiar.
+
+  
+I do have to qualify that my reading of 19th century biology is rather thin, so my assessment of Charles Darwin’s genius from primary reading is not contextualized by any firsthand knowledge of Robert Chambers’ [Vestiges of the Natural History of Creation and Other Evolutionary Writings](https://www.amazon.com/exec/obidos/ASIN/0226100731/geneexpressio-20/) or William Paley’s [Natural Theology](https://www.amazon.com/exec/obidos/ASIN/0199535752/geneexpressio-20/). Perhaps Darwin’s originality is less than I perceive because I am ignorant of the original sources which he did not credit within the text of *Origin*. Here I must defer to the judgments of historians of science and others who have immersed themselves in the primary literature, and so can speak from direct authority. I think Charles Darwin is a genius based on *Origin*, and I trust the scholars who say he is a genius. But I am not a scholar of 19th century biological science so I must qualify my enthusiasm a bit.  
+It must also be said that the prose of [Origin of Species](https://www.amazon.com/exec/obidos/ASIN/0451529065/geneexpressio-20/) can sometimes seem quaint and florid to modern sensibilities. I do not begrudge a man his semicolons, but Mr. Darwin goes too far rather often for my own taste in the direction of sentences which never end. Nevertheless, despite my stylistic quibbles I am now encouraged to delve more deeply into the primary works of Charles Darwin, I will soon be tackling [Descent of Man](https://www.amazon.com/exec/obidos/ASIN/1595478868/geneexpressio-20/) and [The Expression of the Emotions in Man and Animals](https://www.amazon.com/exec/obidos/ASIN/0141439440/geneexpressio-20/). Again, I suspect that all that is worthy in these works will already be known to me secondarily because of their integration into the modern consensus, while all that is false will long since have been purged.  
+But though it may not be particularly rational, I feel as if I owe it to the memory of Charles Darwin to appreciate his works fully after feeling that I had never appreciated his true intellectual greatness because I was not deeply familiar with his original works. Though I have never read [The Principia](https://www.amazon.com/exec/obidos/ASIN/0520088174/geneexpressio-20/) I have adhered to the position that Isaac Newton accomplished more than any other scientist in the history of the world. By contrast on occasion I did express some sympathy with the position that Charles Darwin had a rather obvious Big Idea (Natural Selection), which he only happened to stumble upon through luck or happenstance. After reading Darwin’s most famous work I think that this is a ludicrous position to take. Such are the wages of ignorance.  
+**Note:** I was prompted to read [Origin of Species](https://www.amazon.com/exec/obidos/ASIN/0451529065/geneexpressio-20/) in part because of the fact that I was reminded that it had sold out immediately. I wanted to get a firsthand sense as to whether *Origin* was a work of scientific narrative or a popular treatment. Though it is accessible to a general audience, I see it by and large as a work of original science, larded with abstruse concepts and almost trivial detail.
+
+### Related Posts:
+
+- [Darwin Overload
+  Alert](https://www.gnxp.com/WordPress/2009/01/04/darwin-overload-alert/) - [Our Lord &
+  Savior](https://www.gnxp.com/WordPress/2009/01/12/our-lord-savior/) - [Creation, Charles Darwin
+  biopic](https://www.gnxp.com/WordPress/2009/09/09/creation-charles-darwin-biopic/) - [What Charles Darwin
+  said!](https://www.gnxp.com/WordPress/2014/07/08/what-charles-darwin-said/) - [Darwin's Origin: the Variorum
+  Edition](https://www.gnxp.com/WordPress/2007/03/29/darwin-s-origin-the-variorum-edition/) - [Darwin
+  Texts](https://www.gnxp.com/WordPress/2006/01/06/darwin-texts/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2010%2F02%2F08%2Fcharles-darwin-was-a-genius-i-think%2F&linkname=Charles%20Darwin%20was%20a%20genius%20%28I%20think%29 "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2010%2F02%2F08%2Fcharles-darwin-was-a-genius-i-think%2F&linkname=Charles%20Darwin%20was%20a%20genius%20%28I%20think%29 "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2010%2F02%2F08%2Fcharles-darwin-was-a-genius-i-think%2F&linkname=Charles%20Darwin%20was%20a%20genius%20%28I%20think%29 "Email")[](https://www.addtoany.com/share)

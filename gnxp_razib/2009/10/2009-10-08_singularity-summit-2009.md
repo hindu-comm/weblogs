@@ -1,0 +1,62 @@
++++
+title = "Singularity Summit 2009"
+full_title = "Singularity Summit 2009"
+date = "2009-10-08"
+upstream_url = "https://www.gnxp.com/WordPress/2009/10/08/singularity-summit-2009/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2009/10/08/singularity-summit-2009/).
+
+Singularity Summit 2009
+
+My thoughts on the talks at [The Singularity Summit 2009](http://www.singularitysummit.com/) below the fold….
+
+  
+Shaping the Intelligence Explosion – Anna Salamon: A qualitative analysis of the implications of the emergence of [artificial general intelligence](https://en.wikipedia.org/wiki/Strong_AI). Having talked to Anna before, and knowing the general thrust of the work of the [SIAI](http://singinst.org/), not too surprising. AGI will come fast if it comes, it will be beyond our comprehension, etc. The main issue with Anna’s talk was that it was hurried at the end, so perhaps we missed some points.  
+Technical Roadmap for Whole Brain Emulation – Anders Sandberg: Interesting. Lots of pictures. The whole field turned out to be a bit more brute force than I’d imagined. The “whole brain emulation” route seemed a bit at cross-purposes with discussions of AGI insofar as it seems to be a smaller ontological jump.  
+The time is now: As a species and as individuals we need whole brain emulation – Randal Koene: The *ought* to the previous talk’s *is*. Didn’t really convince that whole brain emulation is *the* technology we need to focus on (as opposed to more piecemeal enhancements for forms of cognition which don’t attempt to emulate our current brains as explicitly). Questions of consciousness & continuity which jump out of work as old as David Hume’s kept cropping up in the questions in regards to these talks. I tend to be of the opinion that consciousness & continuity is an illusion, and we shouldn’t stress too much about that aspect.  
+Technological Convergence Leading to Artificial General Intelligence – Itamar Arel: The thrust of this talk was that AGI was coming soon, perhaps on the order of 10 years. Most of the audience disagreed (he took a poll with a show of hands). The technical aspects of this talk were not too interesting or really comprehensible to me (yes, I know what parallel processing is superficially, but….).  
+Pathways to Beneficial Artificial General Intelligence: Virtual Pets, Robot Children, Artificial Bioscientists, and Beyond – Ben Goertzel: I’ve never tried out “Second Life,” so a lot of this presentation was lost on me.  
+Neural Substrates of Consciousness and the ‘Conscious Pilot’ Model – Stuart Hameroff: Basically the same presentation as he gave at *Beyond Belief*. Cribbed from [Emperor’s New Mind](https://www.amazon.com/exec/obidos/ASIN/0099771705/geneexpressio-20/).  
+Quantum Computing: What It Is, What It Is Not, What We Have Yet to Learn – Michael Nielsen: One of the best technical talks I’ve seen when limited to 20-30 minutes in front of an audience which doesn’t consist of specialists. This was made doubly difficult since a substantial minority of the audience were specialists, while a substantial minority were non-technical (the largest number would have been technically oriented non-specialists). Stuart Hameroff was kind of aggressive during the Q & A, and it looked like Nielsen took a long time answering one question so that he didn’t have to deal with a follow up question from Hameroff.  
+DNA: Not Merely the Secret of Life – Ned Seeman: Using DNA as a structural material in nanotech, etc. I’d encountered this stuff before, but it seemed that the non-biologically oriented people at the Summit were really wowed by this presentation.  
+Compression Progress: The Algorithmic Principle Behind Curiosity, Creativity, Art, Science, Music, Humor – Juergen Schmidhuber: Probably my favorite presentation. He was really funny, and even if you disagreed with the thrust of his points you had to acknowledge that he pulled off his arguments with aplomb. I’m still thinking about Schmidhuber’s arguments in regards to novelty and patterns, though I’d encountered the ideas before.  
+Conversation on the Singularity – Stephen Wolfram and Gregory Benford: Mostly Stephen Wolfram talking. Lots of stuff from [A New Kind of Science](https://www.amazon.com/exec/obidos/ASIN/1579550088/geneexpressio-20/). When Wolfram was talking up [Wolfram Alpha](http://www.wolframalpha.com/), [Carl Zimmer](http://blogs.discovermagazine.com/loom/), who was sitting next to me, jotted down the question [“search for *Homo erectus”*](http://johnhawks.net/node/2239) on his notepad.  
+Simulation and the Singularity – David Chalmers: It was a pretty funny talk. Chalmers admitted he was an outsider and played around with the Singulitarian assumptions.\*  
+Choice Machines, Causality, and Cooperation – Gary Drescher: I missed this.  
+Synthetic Neurobiology: Optically Engineering the Brain to Augment Its Function – Ed Boyden: Weird coincidence, I had drinks with one of Boyden’s post-docs the previous night. He lost a \$5 bet with me in regards to who was older. Boyden’s talk was dense, and I was already familiar with some of his work at the intersection of optics and neuroscience because I was hanging with his post-doc, if you’re curious just look it up, it’s pretty mind-blowing.  
+Foundations of Intelligent Agents – Marcus Hutter: I think I was at this talk, but I don’t really remember an impression. I think it was good, but the fact that I don’t remember it is rather strange.  
+Cognitive Ability: Past and Future Enhancements and Implications – William Dickens: A lot of the stuff from [What is Intelligence?](https://www.amazon.com/exec/obidos/ASIN/0521741475/geneexpressio-20/) was in this talk. Many people asked what I thought about this talk after, because they knew that I have given a lot of consideration to the reality that most of the human race are morons. My basic attitude is that even if a lot of the trait-value difference is due to [gene-environment correlation](https://en.wikipedia.org/wiki/Gene-environment_correlation), what are you going to do about it? We don’t live in Stalin’s USSR. Also, Dickens reported that he had unpublished data which suggested that there was a 0.70 correlation between economic growth (GDP) and increase in the Flynn Effect.  
+The Ubiquity and Predictability of the Exponential Growth of Information Technology- Ray Kurzweil: Kurzweil(x) = [The Law of Accelerating Returns](http://www.kurzweilai.net/articles/art0134.html?printable=1).  
+More than Moore: Comparing Forecasts of Technological Progress – Bela Nagy: I wanted to see this, but I missed it. It was at 8 AM and I’d only gotten 4 hours of sleep, after getting 2 hours the previous night. Nerds party hard.  
+The “Petaflop Macroscope” – Gary Wolf: I watched this talk, and thought it was OK. Basically about experiments which deal in more decentralized forms of data collection and analysis; e.g., personal experimentation. Some of the questioners asked about controls and what not, but I thought they were being a little too nerdy. A lot of “Big Science” sucks too.  
+Collaborative Networks In Scientific Discovery – Michael Nielsen: Props to Nielsen for being able to present two very different talks. I enjoyed this, though the general idea is pretty obvious. They’re important, and probably have a big future.  
+How Does Society Identify Experts and When Does It Work? – Robin Hanson: Read [Overcoming Bias](http://www.overcomingbias.com/).  
+Artificial Biological Selection for Longevity – Gregory Benford: Talks about his new longevity supplement company based around the [Methuselah Flies](https://en.wikipedia.org/wiki/Experimental_evolution#Modern_experimental_evolution).  
+Critics of the Singularity – Ray Kurzweil: [The Law of Accelerating Returns](http://www.kurzweilai.net/articles/art0134.html?printable=1). More charts (updated).  
+The Finger of AI: Automated Electrical Vehicles and Oil Independence –  
+Brad Templeton: Interesting, though it did seem more like something out of *Popular Mechanics*.  
+The Fallibility and Improvability of the Human Mind – Gary Marcus: Just read [Kluge](https://www.amazon.com/exec/obidos/ASIN/054723824X/geneexpressio-20/). Focused on memory, and suggested that since the mind is imperfectly engineered there’s plenty of room for design improvements.  
+Macroeconomics and Singularity – Peter Thiel: The main argument here is that modern economic projections are based on expectations of technological innovations, ergo productivity growth, ergo GDP growth, and those projections may be wrong. In particular, Thiel suggests we look at science fiction from the 1950s and notice how little the world has changed, and the famous fact that median wages have remained static since 1973 in the United States (an indication of the lack of productivity growth driven by technology). Overall a pessimistic view. Read [Knowledge and the Wealth of Nations](https://www.amazon.com/exec/obidos/ASIN/0393329887/geneexpressio-20/).  
+Venture Capitalist Panel: Peter Thiel, David Rose, Mark Gorenberg: This was weird. I mentioned to someone that it was like we were watching CNBC. The moderator was a bizarre shouter. Well, someone told me that *he was* from [CNBC](https://en.wikipedia.org/wiki/Bob_Pisani). Pathetic.  
+The Singularity and the Methuselarity: Similarities and Differences – Aubrey De Grey: Same old Aubrey presentation, but he wanted to suggest that the Methuselarity was going to be a bigger change than the Singularity. Trying to provoke, but it didn’t seem like too many people bit.  
+Cognitive Biases and Giant Risks – Eliezer Yudkowsky: Most people are stupid. Read [Judgment under Uncertainty: Heuristics and Biases](https://www.amazon.com/exec/obidos/ASIN/0521284147/geneexpressio-20/).  
+Discussion: Eliezer Yudkowsky, Aubrey De Grey, Peter Thiel. Moderator: Michael Vassar: This was funny. Michael made a joke about a cure for AIDS being driven by Ed Witten contracting HIV. Thiel was a little out of place. It was pretty amusing.  
+How much it matters to know what matters: A back of the envelope calculation – Anna Salamon: Preach it girl!  
+**Note:** I go to the Summit mostly to socialize, as do many others judging by how many people are always lounging around the coffee room. I found the discussions pretty interesting, as well as a few of the talks. Probably though I will take away more the contacts I made with some really interesting people after the talks at bars and what not.  
+**Related:** A few responses to this post. [Accelerating Future](http://www.acceleratingfuture.com/michael/blog/2009/10/razib-khan-on-singularity-summit-2009/), [Built on Facts](http://scienceblogs.com/builtonfacts/2009/10/singularity_summit.php) and [Less Wrong](http://lesswrong.com/lw/1ax/im_not_saying_people_are_stupid/).  
+\* The original version of this entry cast an aspersion at Chalmers due to an interaction we had at a bar. After emailing with him about this, this goes into the category of “drunk guy misunderstanding” at the worst (I was probably more drunk than Chalmers taking into account size differentials and our ethnic backgrounds in relation to the independent effect of alcohol). I withdraw my aspersion and apologize.
+
+### Related Posts:
+
+- [Singularity Summit
+  2012](https://www.gnxp.com/WordPress/2012/06/18/singular-summit-2012/) - [Singularity Summit
+  2010](https://www.gnxp.com/WordPress/2010/07/12/singularity-summit-2010/) - [Singularity Summit
+  2011](https://www.gnxp.com/WordPress/2011/09/22/singularity-summit-2011/) - [The Singularity
+  Summit](https://www.gnxp.com/WordPress/2009/07/26/the-singularity-summit/) - [Skepticism about the
+  Singularity](https://www.gnxp.com/WordPress/2009/10/08/skepticism-about-the-singularity/) - [Peter Thiel thinks we're in irrational
+  exuberance,…](https://www.gnxp.com/WordPress/2010/04/12/peter-thiel-thinks-were-in-irrational-exuberance-crazy-edition/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2009%2F10%2F08%2Fsingularity-summit-2009%2F&linkname=Singularity%20Summit%202009 "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2009%2F10%2F08%2Fsingularity-summit-2009%2F&linkname=Singularity%20Summit%202009 "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2009%2F10%2F08%2Fsingularity-summit-2009%2F&linkname=Singularity%20Summit%202009 "Email")[](https://www.addtoany.com/share)

@@ -1,0 +1,35 @@
++++
+title = "Civilization makes you"
+full_title = "Civilization makes you short the Andaman Islanders"
+date = "2009-10-15"
+upstream_url = "https://www.gnxp.com/WordPress/2009/10/15/civilization-makes-you-short-the-andaman-islanders/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2009/10/15/civilization-makes-you-short-the-andaman-islanders/).
+
+Civilization makes you short: the Andaman Islanders
+
+![Andamanese_comparative_dist.png](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/Andamanese_comparative_dist.png?resize=200%2C415)![Andamanese_comparative_dist.png](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/Andamanese_comparative_dist.png?resize=200%2C415)A few days ago I pointed to a paper, [Stature, Mortality, and Life History among Indigenous Populations of the Andaman Islands, 1871-1986](http://www.journals.uchicago.edu/doi/abs/10.1086/605429). It looks at the specific case of the Andaman Islanders to explore the general phenomenon of “pygmy” populations, especially among “[Negritos](https://en.wikipedia.org/wiki/Negrito).” The Andaman Islanders are an interesting test case, as the authors note, because the disparate groups have taken different stances toward interaction with the outside world. The Great Andaman Islanders have mixed for over a century with the British and Indian settlers. The Onge began to interact with the outside world in the 20th century. While the Jarawa only in the past few decades. Finally, the tribe on Sentinel Island has remained totally isolated to this day. (the recent paper on Indian genetics shows this, the Great Andaman Islanders are heavily admixed with mainland Indian populations, while the Jarawa and Onge are not)  
+The authors of the paper collected a series of anthropometric data and relate it to measured mortality rates. It is striking to note how the populations of the Andaman Islands were struck with a host of ills which make the Noble Savage look a lot more appealing; syphilis, plagues of measles and tuberculosis. 10,000 years of dense settled Eurasian civilization and its ailments were unleashed upon this isolated population in the course of under 2 centuries. But the impact of these ailments was directly proportional to contact. As I noted above the Andaman Islanders of Sentinel remain isolated, and it is striking that physical reports of these peoples indicate their relatively greater size vis-a-vis the tribes who are in contact with the outside world, with males likely taller than the median Indian norm.  
+Why the differences in height? The authors suggest there may be many causes, including the one I assumed, a trade-off between maximum growth and battling exotic infections. But another factor they bring up are possible plasticities of phenotype and behavior contingent upon stress. In short, in an environment of high mortality individuals will be prone to mate and breed as early as possible, and this will result in early maturation and cessation of growth. This seems of the same flavor of argument as the [Trivers-Willard hypothesis](https://en.wikipedia.org/wiki/Trivers-Willard_hypothesis), different social contexts engendering varied bio-behavioral responses. But their argument is not purely verbal. Below is a figure which shows the correlation which pops out of their results:
+
+  
+![rsquareandaman.png](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/rsquareandaman.png?resize=500%2C564)![rsquareandaman.png](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/rsquareandaman.png?resize=500%2C564)  
+I am not particularly surprised by these data. One thing that needs to be explored is whether small-bodied populations which live on the margins of settled groups have always been so small, or whether their small size is simply a function of the fact that they’ve been driven to a lifestyle which demands fast reproduction and minimal investment in large stature. Human populations shifted toward a lower median after the last Ice Age and the spread of agriculture. As I noted in an earlier post modern hunter-gatherers are not necessarily representative of ancient hunter-gatherers. The fishing and gathering peoples of the Pacific Northwest created complex societies due to the surplus of resources in their local ecology. This was to a great extent an accident of history, over time North American societies would have become more diversified in their agricultural systems and squeezed the local resources to the point where individual surplus would disappear. The United States appeared on the scene and cut-short this natural evolution. But they do show that hunter-gatherer societies not driven into resource poor regions can be quite wealthy. The phenomenon of small-bodies Negritos might then be a function of European ethnographers appearing on the scene only after agriculturalists have marginalized these older populations and a stable *modus vivendi* enforced a lifestyle that resulted in smaller size.  
+Do I believe the authors’ particular argument, that small size is simply a byproduct of a hasty reproductive clock? Not really. I think the more banal explanation is that disease saps biological resources and size is a casualty. But this an area where more research needs to be done, I don’t dismiss out of hand a life history story. The decrease in age of menarche in the developed world over the past few decades shows that biological processes are sensitive to environmental changes.  
+**Citation:** Reexamining Human Origins in Light of Ardipithecus ramidus,  
+C. Owen Lovejoy (2 October 2009) Science 326 (5949), 74. \[DOI: 10.1126/science.1175834\]
+
+### Related Posts:
+
+- [Mortality leads to small
+  stature](https://www.gnxp.com/WordPress/2009/10/12/mortality-leads-to-small-stature/) - [The diversity of the
+  east](https://www.gnxp.com/WordPress/2009/12/23/the-diversity-of-the-east/) - [When ferocity is a feature, not a
+  bug](https://www.gnxp.com/WordPress/2018/11/23/when-ferocity-is-a-feature-not-a-big/) - [Seeing Ötzi through our
+  eyes](https://www.gnxp.com/WordPress/2012/03/08/seeing-otzi-through-our-eyes/) - [The end of the Andaman
+  Islanders?](https://www.gnxp.com/WordPress/2005/03/07/the-end-of-the-andaman-islanders/) - [Why "primitive" people won't stay primitive
+  long....](https://www.gnxp.com/WordPress/2006/05/11/why-primitive-people-wont-stay-primitive-long/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2009%2F10%2F15%2Fcivilization-makes-you-short-the-andaman-islanders%2F&linkname=Civilization%20makes%20you%20short%3A%20the%20Andaman%20Islanders "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2009%2F10%2F15%2Fcivilization-makes-you-short-the-andaman-islanders%2F&linkname=Civilization%20makes%20you%20short%3A%20the%20Andaman%20Islanders "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2009%2F10%2F15%2Fcivilization-makes-you-short-the-andaman-islanders%2F&linkname=Civilization%20makes%20you%20short%3A%20the%20Andaman%20Islanders "Email")[](https://www.addtoany.com/share)
