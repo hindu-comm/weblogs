@@ -1,0 +1,42 @@
++++
+title = "Weird lands of the tails"
+full_title = "Weird lands of the tails"
+date = "2008-08-22"
+upstream_url = "https://www.gnxp.com/WordPress/2008/08/22/weird-lands-of-the-tails/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2008/08/22/weird-lands-of-the-tails/).
+
+Weird lands of the tails
+
+Yesterday’s post on the speed of Jamaican sprinters, and [Genetic Future’s](http://www.genetic-future.com/2008/08/gene-for-jamaican-sprinting-success-no.html) skepticism of a one-gene answer for their dominance. The discussion brought up some adaptive talk; I’m not against adaptation, and I think it’s entirely plausible that populations differ enough in the distribution of phenotypes that there are different genetic potentialities…but, I have some issues with the intersection of the two in this particular case. Here’s my logic….
+
+  
+Sprinters at the Olympic level are the best of the best. They’re not just good, they’re not just superior, they are the pushing the limits of human capabilities in a particular direction. In other words, **they’re the extreme tail of a distribution.** What’s that distribution? I suspect it’s approximately [normal](https://en.wikipedia.org/wiki/Normal_distribution) (or can be so with easy scaling, I wouldn’t be surprised if the “fast” end of the tail is very long while the median is rather low; [positive skew](https://en.wikipedia.org/wiki/Skewness)). Let’s just go with the normal for now, because the fudge doesn’t affect my logic even if it is a fudge. How good are the Olympic level winners?  
+Let’s assume that they’re 0.00000083 of the plausible full sample space of male winners. I got that number by figuring that the winners are among the 10,000 fastest men out of 3,000,000,000 X 0.25. I multiplied by 0.25 because there’s obviously an age constraint, though the world’s population is generally rather youthful. So, on a distribution where the area under the curve = 1, you’re looking at 0.00000083 out of that. If the mean = 0, and standard deviation is 1 unit, then the whole area under the distribution beyond 4.79 standard deviations represents the 0.00000083 who are potential world class male sprinters.  
+A [standard deviation](https://en.wikipedia.org/wiki/Standard_deviation) is just an easy way to measure the spread or dispersion of the distribution, but let’s make this concrete. The standard deviation of IQ is 15, and the mean is 100. Mensa level IQ is 130, 2 standard deviations above the norm and in the top 2-3% of the population. An equivalent to the proportion above for world class sprinters is an IQ of 172. Chances are you’ve never met someone who has a repeatedly tested IQ of 172 (I specify repeatedly because many bright people take many IQ tests and there’s a distribution of these scores; and many smart people just offer up their highest scores as somehow representative when they should really just average all the scores). In other words, **world class sprinters are almost inhuman in terms of their abilities when it comes any comparison to the typical person.**  
+Now, let’s go back to the original distribution, where the mean = 0 and standard deviation = 1. Obviously don’t take the mean as 0 too seriously, it’s just standardized for convenience. Let’s recall that 4.79 standard deviations above the mean is the cut off for world class sprinters. What happens when we increase the mean?  
+at 0.01, a 1% increment in standard deviation units, 0.00000088 of the distribution is above 4.79  
+at 0.05, a 5% increment up in the distribution, 0.0000011 of the distribution is above 4.79  
+at 0.1, a 10% increment up in the distribution, 0.0000014 of the distribution is above 4.79  
+In other words, a 10% increase in the mean value (standard deviation units) of the distribution resulted in a 1.6 fold increase in the number of the highest level caliber sprinters. The point being that very small deviations in the initial parameters of the distribution can result in very big effects on the tails. This is often an issue when we talk about sex differences, **but the distance down the tail is much greater when we’re talking about the highest level sprinters**, or athletics in general. Granted, athletic performance is strongly conditioned on training and will, but there is clearly a major component of innate potentiality at the highest levels where any edge on the margins is the difference between good and great (ergo, the payoff of performance enhancing drugs in many sports).  
+As I said above my assumptions are certainly way off somewhere, but, I think the logic is robust in the face of major deviations in the values of the parameters. The basic idea here is that elite sports, the best of the best, are simply so far off the norm that trivial differences between populations which do not manifest within 2 or 3 standard deviations in any visible manner may do so at the far ends of the distribution.  
+This brings me to the issue of adaptation. A comment below is illustrative:
+
+> All of the 100m sprinters are American/Caribbeans. All are West > African in heritage. Those are the fastest people in the world, on > average (in these events). **They were artificially selected in > slavery**, making them even faster than they would have been > otherwise.
+
+What exactly does this add in terms of value? We assume that slave masters weren’t playing a game of Russian Roulette with sprinting heats. One can make the general case that selection for robusticity or strength might have resulted in somewhat greater speed, but to me some of these explanatory models for why West Africans and their descendants dominate sprints and East Africans dominate longer distances, or why South Asians just suck at sports, aren’t even wrong. They’re just ad hoc band-aids thrown on top of our ignorance. **We just don’t know.**  
+I want to emphasize how small the deviations need to be in some of these parameters for there to be a noticeable difference in potentiality at the edges. It is quite possible that these small differences in the distribution are due to [genetic correlations](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6VJ1-461XBM0-H&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_version=1&_urlVersion=0&_userid=10&md5=5d370a56e759d56ec517344dc3469178) between traits, or rather banal byproducts of morphological features. There is quite a large [range in human metabolic processes](https://www.google.com/cse?cx=017254414699180528062%3Auyrcvn__yd0&q=metabolism+site%3Ahttp%3A%2F%2Fscienceblogs.com%2Fgnxp%2F&sa=Search), and some of these differences operate on the level of populations. It is entirely possible that these upstream phenotypic differences would be what is truly relevant when you’re talking 4 or more standard deviations from the norm on a trait. There doesn’t need to be any strong selection regime predicated on an exceptional event or period such as slavery; all there needs to be are some genetic differences between populations. When it comes to top level athletic events the range of between population differences in talents can be almost random since the independent variables are buffeted by innumerable selective forces and stochastic dynamics.
+
+### Related Posts:
+
+- [Olympic
+  fever](https://www.gnxp.com/WordPress/2008/08/20/olympic-fever/) - [Why it's not surprising West Africans dominate
+  sprinting](https://www.gnxp.com/WordPress/2016/08/15/why-its-not-surprising-west-africans-dominate-sprinting/) - [The G matrix, pleiotropy and quantitative
+  traits](https://www.gnxp.com/WordPress/2008/08/22/the-g-matrix-pleiotropy-and-quantitative-traits/) - [Why are Jamaicans so
+  fast?](https://www.gnxp.com/WordPress/2008/08/21/why-are-jamaicans-so-fast/) - [Complex traits &
+  evolution](https://www.gnxp.com/WordPress/2008/12/06/complex-traits-evolution/) - [Heart & HBD](https://www.gnxp.com/WordPress/2009/01/16/heart-hbd/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2008%2F08%2F22%2Fweird-lands-of-the-tails%2F&linkname=Weird%20lands%20of%20the%20tails "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2008%2F08%2F22%2Fweird-lands-of-the-tails%2F&linkname=Weird%20lands%20of%20the%20tails "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2008%2F08%2F22%2Fweird-lands-of-the-tails%2F&linkname=Weird%20lands%20of%20the%20tails "Email")[](https://www.addtoany.com/share)

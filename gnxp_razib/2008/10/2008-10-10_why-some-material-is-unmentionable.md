@@ -1,0 +1,38 @@
++++
+title = "Why some material is"
+full_title = "Why some material is unmentionable"
+date = "2008-10-10"
+upstream_url = "https://www.gnxp.com/WordPress/2008/10/10/why-some-material-is-unmentionable/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2008/10/10/why-some-material-is-unmentionable/).
+
+Why some material is unmentionable
+
+*Slate* has [some very interesting excerpts](http://www.slate.com/id/2201466/entry/2201467/) from [The Big Necessity: The Unmentionable World of Human Waste and Why It Matters](https://www.amazon.com/exec/obidos/ASIN/0805082719/geneexpressio-20/) posted today. The reality that a great deal of the illness in today’s world is caused by fecal contamination is well known. The proximate cause of many minor illnesses is mild food poisoning, but food poisoning itself is ultimately generally caused by [poor hygiene](http://www.emedicinehealth.com/food_poisoning/page2_em.htm#Food%20Poisoning%20Causes). ÂIt seems straightforward to imagine that poor sanitation can be a significant drain on economic productivity. But on this weblog we’ve also addressed the possibility of [pathogens](https://www.google.com/search?ie=UTF-8&oe=UTF-8&q=pathogens&btnG=With+Google&domains=gnxp.com&sitesearch=gnxp.com) playing a role in changing personalities and temperaments. In [Farewell to Alms](https://www.amazon.com/exec/obidos/ASIN/0691121354/geneexpressio-20/) Greg Clark made the case that the greater mortality due to poor hygiene shifted the death schedule and so relieved Malthusian pressure. In contrast, East Asia was notable for having a rather efficient system of human waste disposal and reuse, and the concomitant lower death rate resulted in more Malthusian pressures and lower per capita wealth. One of the positive developments in the historical disciplines has been the a shift away from narrative annals describing political and social happenings on the elite level, to a more thorough quantitative analysis of the state of mass culture and material condition. Both perspectives are important; in [War and Peace and War](https://www.amazon.com/exec/obidos/ASIN/0452288193/geneexpressio-20) Peter Turchin reports military historical research which suggests that the presence of Napoleon at a battle was the equivalent of the French having 30% more troops! This suggests that to some extent [Great Men](https://en.wikipedia.org/wiki/Great_man) do matter, but one must remember that the emergence of parvenu such as Napoleon was conditioned upon the Malthusian economic and social stresses of late 18th century France.
+
+But the *Slate* piece also puts the spotlight on the particular nature of human psychology and its relation to feces:
+
+> Reuse works better when it involves camouflage. This technique is > used, appropriately for a militarized country, in Israel. During a > presentation at a London wastewater conference, a beautiful woman from > Israel’s Mekorot wastewater treatment utility, who stood out in a room > full of gray suits, explained that they fed the effluent into an > aquifer, withdrew it, then used it as potable water. **“It is > psychologically very important,” she told the rapt audience, “for > people to know that the water is coming from the aquifer.”** This is a > clever way of getting around fecal aversion. Not having wastewater-and > not wasting water-would be better still.
+
+I’m sure this is not surprising to most readers, especially if you have read something like Paul Bloom’s [Descartes’ Baby](https://www.gnxp.com/blog/2005/07/inducing-disgust.php). One can posit pretty straightforward adaptive reasons for why humans tend to have an aversion to feces and rot; but whatever the ultimate root of these instincts they’re pretty universal. Of course, like eating spicy peppers humans seem able to get around these hardwired instincts, or leverage them in some way so as to invert their effect. For example, the application of feces upon wounds had a long history in pre-modern medicine, all the way back to the Egyptians. The detailed inferences can sometimes be surprising, but the point is that though most humans reflectively accept the atomic and molecular understanding of the world, reflexively they are [Aristotelians](https://en.wikipedia.org/wiki/Substance_theory#The_concept_of_substance_in_Western_philosophy). Intuitions can be overcome or unlearned to a great extent, but if one wishes to reform the human outlook one needs to take into account its *a priori* biases. The human mind is not amorphous clay which one can mold into any shape in an infinite manner of ways, rather, it is a collection of blocks and units which likely have innumerable combinatorial possibilities, but certainly a finite number subject to various constraints and conditions.
+
+The cultural variation in attitudes which is overlain on human universals illustrates the reality that despite innate tendencies human minds are elastic. Consider:
+
+> Sanitation professionals sometimes divide the world into fecal-phobic > and fecal-philiac cultures. India is the former (though only when the > dung is not from cows); China is definitely and blithely the latter. > Nor is the place of excrement confined to the fields. It has featured > prominently in Chinese public life and literature for at least a > thousand years.
+
+The recycling of [“night soil”](https://en.wikipedia.org/wiki/Night_soil#Historical_examples) mentioned in the *Slate* piece was also highly developed in Tokugawa Japan. Not only did the practice increase crop yields so that a large population was feasible with pre-modern agricultural techniques, but it had a byproduct effect of fostering public hygiene and reducing the disease burden (noted above). As far as the Chinese go, the attitude toward utilization of human waste, as well as other cultural traits such as minimal food taboos, illustrate the deep strain of [pragmatic rationalism](https://www.gnxp.com/blog/2007/09/heavenly-metaphors.php) which many early or proto-Enlightenment [philosophers](https://en.wikipedia.org/wiki/Gottfried_Leibniz#Sinophile) so admired. As for the South Asia tendency to [extend and elaborate](http://www.commondreams.org/headlines02/1012-03.htm) on human intuitions and tendencies as opposed to channeling toward material ends, if you have nothing good to say, say nothing at all….
+
+### Related Posts:
+
+- [Reality check on American
+  "hunger"](https://www.gnxp.com/WordPress/2009/11/28/reality-check-on-american-hunger/) - ["Pulling a chipotle" on our
+  culture](https://www.gnxp.com/WordPress/2015/12/18/pulling-a-chipotle-on-our-culture/) - [Obesity germ - pass it
+  on!](https://www.gnxp.com/WordPress/2006/03/06/obesity-germ-pass-it-on/) - [Pedophiles: born that
+  way?](https://www.gnxp.com/WordPress/2012/09/09/pedophiles-born-that-way/) - [Who doesn't like Genetically Modified
+  Organisms?](https://www.gnxp.com/WordPress/2008/07/06/who-doesnt-like-genetically-modified-organisms/) - [Less sleep = more
+  illness?](https://www.gnxp.com/WordPress/2009/01/13/less-sleep-more-illness/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2008%2F10%2F10%2Fwhy-some-material-is-unmentionable%2F&linkname=Why%20some%20material%20is%20unmentionable "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2008%2F10%2F10%2Fwhy-some-material-is-unmentionable%2F&linkname=Why%20some%20material%20is%20unmentionable "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2008%2F10%2F10%2Fwhy-some-material-is-unmentionable%2F&linkname=Why%20some%20material%20is%20unmentionable "Email")[](https://www.addtoany.com/share)

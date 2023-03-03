@@ -1,0 +1,36 @@
++++
+title = "Secular Cycles of the"
+full_title = "Secular Cycles of the human animal"
+date = "2009-04-29"
+upstream_url = "https://www.gnxp.com/WordPress/2009/04/29/secular-cycles-of-the-human-animal/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2009/04/29/secular-cycles-of-the-human-animal/).
+
+Secular Cycles of the human animal
+
+Quantitative ecologist [Peter Turchin’s](http://www.eeb.uconn.edu/people/turchin/) [Secular Cycles](https://www.amazon.com/exec/obidos/ASIN/0691136963/geneexpressio-20/) is not available for purchase, but you can [get a final draft copy online](http://www.eeb.uconn.edu/people/turchin/SEC.htm). His previous books, [War and Peace and War: The Life Cycles of Imperial Nations](https://www.amazon.com/exec/obidos/ASIN/0131499963/geneexpressio-20/) & [Historical Dynamics: Why States Rise and Fall](https://www.amazon.com/exec/obidos/ASIN/0691116695/geneexpressio-20/), prefigure many of the arguments that are fleshed out in [Secular Cycles](https://www.amazon.com/exec/obidos/ASIN/0691136963/geneexpressio-20/). Turchin’s aim is audacious. The last paragraph of [Secular Cycles](https://www.amazon.com/exec/obidos/ASIN/0691136963/geneexpressio-20/)Âlays out the vision:
+
+> Our concluding thoughts are these. We believe that we showed that it > is possible to obtain quantitative empirical estimates for many > variables that are needed to test theories of historical dynamics. > Furthermore, our models, and the demographic-structural theory in > particular, have matured to the point where they can make quantitative > and testable predictions. Many of these predictions are supported by > the data; others failed, but often in interesting ways that suggest > further development of the theory. The historical process is very > complex, we have to live with severe data limitations, but > nevertheless it is possible to apply the standard scientific approach > to the study of history. We are optimistic about the future prospects > of History as Science.
+
+If history is any guide Turchin’s optimism is misplaced, and a general theory of historical dynamics will elude us. But the nature of science is that it is exhibits a strong ahistorical\* bent and the past can be a weak guide to the future. ÂIf [cliodynamics](http://www.eeb.uconn.edu/people/turchin/Clio.htm) emerges as a respectable field we would expect it to overturn precedent. As someone trained in the former Soviet Union it should be Âno surprise I suppose that Turchin would be the one making an attempt to resurrect theoretical history in the English speaking world. An intellectual who was shaped by a Marxist Zeitgeist would be more easily inclined to consider the possibility that history could be formalized so as to produce systems of non-trivial inferential power.
+
+So what makes this latest effort different from the speculations of [Arnold Toynbee](https://en.wikipedia.org/wiki/Arnold_J._Toynbee) and [Oswald Spengler](https://en.wikipedia.org/wiki/Oswald_spengler)? First, as a biological scientist Turchin comes the table with a methodological toolkit which is far superior in precision to that available to historians of the early 20th century. From game theory to systems ecology there are many new formal frameworks which can be brought to bear upon human historical dynamics which were not extant in earlier epochs. Secondly, the data sets are far more extensive than they once were due to the prominence of [cliometrics](https://en.wikipedia.org/wiki/Cliometrics), as well as the greater power of traditional fields such as archaeology due to improvements in method. Finally, Turchin’s ambition is constrained to the pre-modern era when Malthusian parameters were ascendant. This is not to say that I do not think that some of his inferences and conjectures have no contemporary salience, but there is no overarching lesson or ideological implication to be derived from his models (in contrast to Marxism).
+
+Nevertheless, I am obviously somewhat intrigued by Turchin’s attempt to add some quant juice to qual questions & observations. I recently read Niall Ferguson’s [The House of Rothschild: Volume 1: Money’s Prophets: 1798-1848](https://www.amazon.com/exec/obidos/ASIN/0140240845/geneexpressio-20/). Because of the fact that the [House of Rothschild](https://en.wikipedia.org/wiki/Rothschild_family) was incomprehensibly wealthy at its peak via its involvement in public bond markets there was naturally a whole genre which emerged exposing their power and malice as conspirators at the center of a vast web of influence (see the [Age of Metternich](https://en.wikipedia.org/wiki/Age_of_Metternich)). Ferguson does emphasize that the financial interests of the Rothschild’s, public debt, compelled them to attempt to block conflicts between major European powers. But another reality which has nothing to do with the Rothschild’s is that Europe during the early years of the family’s rise was recovering from the [Napoleonic Wars](https://en.wikipedia.org/wiki/Napoleonic_wars), and nations and elites which have experienced sustained and strenuous conflict tend to be wary of future conflicts. In Turchin’s data sets he present evidence that these qualitative cycles are evident in clear generational terms throughout the historical record for regions where we have good records. He also presents a causal motive force behind the explosions of violence which tend to prune military aristocracies. Ultimately one would also want to explore the neurological basis of memory and its effect on how humans make decisions and weight risks, and how long traumatic events can effect behavior, but the gross patterns and the expected period of the recession of violence are also of interest. The point being that despite their wealth even the House of Rothschild might have been accidental players in broader macrosocial dynamics.
+
+\* Though operationally it is historical because of the weakness of human cognitive powers.
+
+### Related Posts:
+
+- [Massimo Pigliucci on
+  Cliodynamics](https://www.gnxp.com/WordPress/2008/09/06/massimo-pigliucci-on-cliodynamics/) - [Blogging
+  elsewhere....](https://www.gnxp.com/WordPress/2009/01/22/blogging-elsewhere/) - [On understanding the algebra of
+  history](https://www.gnxp.com/WordPress/2017/05/01/on-understanding-the-algebra-of-history/) - [10 questions for Peter
+  Turchin](https://www.gnxp.com/WordPress/2010/02/16/10-questions-for-peter-turchin/) - [Peter Turchin @ Beyond
+  Belief](https://www.gnxp.com/WordPress/2009/03/05/peter-turchin-beyond-belief/) - [10 questions for Peter
+  Turchin](https://www.gnxp.com/WordPress/2010/02/16/10-questions-for-peter-turchin/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2009%2F04%2F29%2Fsecular-cycles-of-the-human-animal%2F&linkname=Secular%20Cycles%20of%20the%20human%20animal "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2009%2F04%2F29%2Fsecular-cycles-of-the-human-animal%2F&linkname=Secular%20Cycles%20of%20the%20human%20animal "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2009%2F04%2F29%2Fsecular-cycles-of-the-human-animal%2F&linkname=Secular%20Cycles%20of%20the%20human%20animal "Email")[](https://www.addtoany.com/share)

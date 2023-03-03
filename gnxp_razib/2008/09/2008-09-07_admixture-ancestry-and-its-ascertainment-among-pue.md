@@ -1,0 +1,39 @@
++++
+title = "Admixture, ancestry and"
+full_title = "Admixture, ancestry and its ascertainment among Puerto Ricans"
+date = "2008-09-07"
+upstream_url = "https://www.gnxp.com/WordPress/2008/09/07/admixture-ancestry-and-its-ascertainment-among-puerto-ricans/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2008/09/07/admixture-ancestry-and-its-ascertainment-among-puerto-ricans/).
+
+Admixture, ancestry and its ascertainment among Puerto Ricans
+
+Earlier this week I posted a link to new research on the genomics of Mexican populations and the impact of selective evolutionary pressures within the last 500 years. I also pointed to the fact that despite Argentina’s self-conception as a European settler nation, a non-trivial Amerindian ancestral proportion remains detectable. Puerto Rico is another interesting case; new research strongly suggests that Taino ancestry exists among the modern peoples of the island, contrary to the assumption by many scholars that they disappeared within the first generation of European settlement.  
+Today I stumbled on to an older paper, [Ancestral proportions and their association with skin pigmentation and bone mineral density in Puerto Rican women from New York city](http://www.ncbi.nlm.nih.gov/pubmed/15118905):
+
+> Hispanic and African American populations exhibit an increased risk of > obesity compared with populations of European origin, a feature that > may be related to inherited risk alleles from Native American and West > African parental populations. However, a relationship between West > African ancestry and obesity-related traits, such as body mass index > (BMI), fat mass (FM), and fat-free mass (FFM), and with bone mineral > density (BMD) in African American women has only recently been > reported. In order to evaluate further the influence of ancestry on > body composition phenotypes, we studied a Hispanic population with > substantial European, West African, and Native American admixture. We > ascertained a sample of Puerto Rican women living in New York…for whom > we measured BMI and body composition variables…skin pigmentation was > measured as the melanin index by reflectance spectroscopy. We > genotyped 35 autosomal ancestry informative markers and estimated > population and individual ancestral proportions in terms of European, > West African, and Native American contributions to this population. > **The ancestry proportions corresponding to the three parental > populations are: 53.3+/-2.8% European, 29.1+/-2.3% West African, and > 17.6+/-2.4% Native American.** We detected significant genetic > structure in this population with a number of different tests. A > highly significant correlation was found between skin pigmentation and > individual ancestry…that was not attributable to differences in > socioeconomic status. A significant association was also found between > BMD and European admixture…but no such correlation was evident with > BMI or the remaining body composition measurements. We discuss the > implications of our findings for the potential use of this Hispanic > population for admixture mapping.
+
+Obviously the rationale behind this study was medical. Ancestry gives you more information you can pump into the structure of the paradigm you are utilizing when making any particular difference. Any extra edge is critical on the margins when life and quality of life are at issue. That being said, it is interesting that:  
+1) A significant portion of total genome content is Amerindian  
+2) There is variation even within their small sample of estimated ancestral proportions of European, African and Amerindian  
+3) This variation can explain some the differences in phenotype within the population  
+![ancestrytriple.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/ancestrytriple.jpg?resize=500%2C500)![ancestrytriple.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/ancestrytriple.jpg?resize=500%2C500)  
+As noted this figure illustrates the estimated ancestral makeup of the 64 women within this study. Inspection makes it rather evident that European ancestry is the largest fraction, followed by African and finally Amerindian.  
+![ancestrymelanin.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/ancestrymelanin.jpg?resize=500%2C300)![ancestrymelanin.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/ancestrymelanin.jpg?resize=500%2C300)  
+![miss_universe_mexico_puerto.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/miss_universe_mexico_puerto.jpg?resize=148%2C157)![miss_universe_mexico_puerto.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/miss_universe_mexico_puerto.jpg?resize=148%2C157)You can see here that the proportion of European ancestry is a reasonable predictor of skin color. The M index for northern Europeans is on the order of 30 or so, and for West Africans between 55-60. Since this paper was published [skin color genetics](https://www.google.com/cse?cx=017254414699180528062:uyrcvn__yd0&q=skin+color+site:http://scienceblogs.com/gnxp/&sa=Search) has been elucidated to a far greater extent, and the nature of this figure is relatively comprehensible. They show that the R² is \~0.60. This means that 60% of the variation in skin color an be predicated by variation in European ancestry. So what’s with the other 40%? Because only about 6 genes are varying in skin color to account for most of the difference between populations there is considerable sample variance as admixture occurs. In other words, some people are deviating from the trend line considerably, as you can see. They are getting more, or less, than their expected share of of ancestrally distinctive alleles because of the relatively small number of genes which control skin color variation.  
+That being said, it seems that the correlation between skin color and European ancestry is actually higher than I would have thought after so many centuries of admixture. So here’s a possible inference that I think I want to make: relatively recent waves of migration from Europe (probably Spain) are overlain upon a panmictic population. This is why sampling variance hasn’t gummed upon the ancestral inference based on phenotype as much as it might have (inversely, the slave trade resulted in recent waves of Africans as well).
+
+### Related Posts:
+
+- [The perils of human
+  genomics](https://www.gnxp.com/WordPress/2011/10/25/the-perils-of-human-genomics/) - [Really recent human
+  evolution](https://www.gnxp.com/WordPress/2007/08/01/really-recent-human-evolution/) - [Latin America is not
+  panmixia](https://www.gnxp.com/WordPress/2009/11/20/latin-america-is-not-panmixia/) - [Skin color is not
+  race](https://www.gnxp.com/WordPress/2009/05/14/skin-color-is-not-race/) - [Buddy, can you spare an
+  SNP?](https://www.gnxp.com/WordPress/2007/09/20/buddy-can-you-spare-an-snp/) - [Population substructure of Mexican
+  Mestizos](https://www.gnxp.com/WordPress/2009/05/12/population-substructure-of-mexican-mestizos/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2008%2F09%2F07%2Fadmixture-ancestry-and-its-ascertainment-among-puerto-ricans%2F&linkname=Admixture%2C%20ancestry%20and%20its%20ascertainment%20among%20Puerto%20Ricans "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2008%2F09%2F07%2Fadmixture-ancestry-and-its-ascertainment-among-puerto-ricans%2F&linkname=Admixture%2C%20ancestry%20and%20its%20ascertainment%20among%20Puerto%20Ricans "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2008%2F09%2F07%2Fadmixture-ancestry-and-its-ascertainment-among-puerto-ricans%2F&linkname=Admixture%2C%20ancestry%20and%20its%20ascertainment%20among%20Puerto%20Ricans "Email")[](https://www.addtoany.com/share)

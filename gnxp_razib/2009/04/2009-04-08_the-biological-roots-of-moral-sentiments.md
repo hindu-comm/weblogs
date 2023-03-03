@@ -1,0 +1,32 @@
++++
+title = "The biological roots of"
+full_title = "The biological roots of moral sentiments?"
+date = "2009-04-08"
+upstream_url = "https://www.gnxp.com/WordPress/2009/04/08/the-biological-roots-of-moral-sentiments/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2009/04/08/the-biological-roots-of-moral-sentiments/).
+
+The biological roots of moral sentiments?
+
+David Brooks has a new column grandly titled [The End of Philosophy](http://www.nytimes.com/2009/04/07/opinion/07Brooks.html?_r=1&ref=opinion). Heather Mac Donald at [Secular Right](http://secularright.org) chides him for his [criticism of the New Atheists](http://secularright.org/wordpress/?p=1812), while John Derbyshire offers [guarded praise](http://secularright.org/wordpress/?p=1826). It seems to me that the jab at the New Atheists was something of a throwaway line and I lean more toward John’s position. I give Brooks credit for attempting to inject insights from the new [cognitive sciences](https://en.wikipedia.org/wiki/Cognitive_science) into contemporary political commentary. Politics is a phenomenon which manifests on a grand scale, but its ultimate roots are at least in part in individual human psychology. The empirical patterns of that psychology, and its deep structure, are being elucidated by contemporary researchers (and some of the work can be found in popular works such as [The Blank Slate](https://www.amazon.com/exec/obidos/ASIN/0670031518/geneexpressio-20)). Humans believe they have an intuitive understanding of our species’ psychology and nature in a manner which is unlike our mystification by much of the physical sciences. And that belief is rooted in [a reality](https://en.wikipedia.org/wiki/Theory_of_mind). Nevertheless, on the margins there is a great deal of fine-grained description which is open to exploration by systematic scientific methods, and though there are many human cognitive universals, there are also critical individual differences which individuals are often ignorant of because of their own peculiar position. The armchair is appealing, but it does not suffice to construct an accurate and precise map of reality.  
+My friend [John Schwenkler](http://johnschwenkler.wordpress.com/2009/04/07/the-end-of-moral-philosophy/) says in response to Brooks’ column:
+
+> But in addition to all of this, I think it’s important to see that the > role of servant to the high priest of emotion involves a good deal > more than mere bowing and scraping. Even if we credit the emotions > with the kind of role that Brooks follows Haidt and others in > envisioning for them, that still leaves to be done all the work of > ***systematizing* all those axiomatic intuitions into a rationally > cohesive *structure***; of working out the tensions, lacks, and – > perhaps – outright contradictions among them; of developing a robust > theoretical understanding of the good that respects those intuitions > even as it moves beyond them toward an articulation of the deeper > principles that make them true in the first place; and so on….
+
+I think the main disagreement that I might have with John is the pragmatic feasibility of a grand systematic structure, as opposed to my own sense of there being many ad hoc localized moral structures to address issues on a case-by-case basis. Most everyone can agree that conscious reflection and reason, and emotively driven intuitive and reflexive response, have roles in the cognition of morality. The devil lay in the details of the relative weights, and how the two parameters relate together. This is one issue where I think individual differences come into play. In [The Myth Of The Rational Voter](https://www.amazon.com/exec/obidos/ASIN/0691138737/geneexpressio-20/) Bryan Caplan lays out copious social science data on human irrationality, or more precisely systematic biases in thinking. But Caplan also observes that **systematic biases likely rooted in intuition and reflex vary across the population.** In short the more intelligent, for one, tend to be closer approximations to rational calculators than the less intelligent. My suspicion that only relatively modest plural moral structures are possible, as opposed to an integrated and coherent grand system, is due to the fact that I simply find it unlikely that most humans are have the intellectual disposition to engage in deep and concerted moral reasoning which involves more than a small number of propositions.  
+This does not of course mean that reason has no place. And intellectual elites are capable of moving the *Zeitgeist*, but that may be less due to the power of their reasoning faculties than their social status and the respect and authority which so accrues upon them. In the end Brooks’ piece was badly titled. A discipline of moral science which draws upon contemporary philosophy, cognitive science and biology, is simply a return to the roots of philosophy before the time when natural philosophy evolved into science. Perhaps “The Return Of Natural Philosophy” would be more apt?
+
+### Related Posts:
+
+- [The Secular
+  Right](https://www.gnxp.com/WordPress/2008/11/27/the-secular-right/) - [10 Questions for Heather Mac
+  Donald](https://www.gnxp.com/WordPress/2007/01/02/10-questions-for-heather-mac-donald/) - [The Secular Right
+  (again)](https://www.gnxp.com/WordPress/2006/08/29/the-secular-right-again/) - [Heather Mac Donald interview
+  responses](https://www.gnxp.com/WordPress/2007/01/14/heather-mac-donald-interview-responses/) - [The unbelieving
+  conservatives](https://www.gnxp.com/WordPress/2007/03/11/the-unbelieving-conservatives/) - [Heather Mac Donald, atheist &
+  conservative](https://www.gnxp.com/WordPress/2006/08/10/heather-mac-donald-atheist-conservative/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2009%2F04%2F08%2Fthe-biological-roots-of-moral-sentiments%2F&linkname=The%20biological%20roots%20of%20moral%20sentiments%3F "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2009%2F04%2F08%2Fthe-biological-roots-of-moral-sentiments%2F&linkname=The%20biological%20roots%20of%20moral%20sentiments%3F "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2009%2F04%2F08%2Fthe-biological-roots-of-moral-sentiments%2F&linkname=The%20biological%20roots%20of%20moral%20sentiments%3F "Email")[](https://www.addtoany.com/share)
