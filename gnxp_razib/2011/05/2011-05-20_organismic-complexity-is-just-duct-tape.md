@@ -1,0 +1,43 @@
++++
+title = "Organismic complexity is"
+full_title = "Organismic complexity is just duct tape"
+date = "2011-05-20"
+upstream_url = "https://www.gnxp.com/WordPress/2011/05/20/organismic-complexity-is-just-duct-tape/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2011/05/20/organismic-complexity-is-just-duct-tape/).
+
+Organismic complexity is just duct tape
+
+[![ResearchBlogging.org](https://i0.wp.com/www.researchblogging.org/public/citation_icons/rb2_large_gray.png?w=640)![ResearchBlogging.org](https://i0.wp.com/www.researchblogging.org/public/citation_icons/rb2_large_gray.png?w=640)](http://www.researchblogging.org)***The Pith:** Biological complexity may be a particular evolutionary path taken due to to random acts of nature, not because there is a selective advantage to complexity.*
+
+The title above basically describes the message of evolutionary biologist [Mike Lynch](http://www.bio.indiana.edu/faculty/directory/profile.php?person=milynch) from what I can gather. His basic argument is outlined in long form in[The Origins of Genome Architecture](https://www.amazon.com/exec/obidos/ASIN/0878934847//geneexpressio-20), though the outline of the thesis is evident over 10 years back (see [Preservation of Duplicate Genes by Complementary, Degenerative Mutations](http://www.genetics.org/content/151/4/1531.short)). Verbally I think the easiest way to explain Lynch’s framework is that in species with small [effective population sizes](https://en.wikipedia.org/wiki/Effective_population_size) the creativity of stochastic forces in generating non-adaptive structure and complexity tends to overwhelm the power of natural selection to prune this tendency toward baroque. I [reviewed a paper last year which argued that Lynch’s](http://blogs.discovermagazine.com/gnxp/2010/08/not-the-origin-of-genome-complexity/) observation of an inverse relation between effective population and genome size was an artifact, that once you controlled for phylogenetic history it disappeared. Suffice it to say this is an area of dispute and active research, so we shouldn’t take any individual’s word for it. This is science on the broadest canvas. Extraordinary general claims need to backed by a generation of publication I’d think.
+
+Lynch is now a co-author on a new letter to*Nature* (which is open access, so read it!), [Non-adaptive origins of interactome complexity](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature09992.html). Imagine if you took biochemistry, specifically the nearly impenetrable language of protein interactions, and crossed it with evolutionary genomics. This is what you’d get.
+
+  
+[![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/05/nature09992-f2.2.jpeg?resize=350%2C560)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/05/nature09992-f2.2.jpeg?resize=350%2C560)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/05/nature09992-f2.2.jpeg)The gist of the letter is in the figure to the left. You see 36 species in order of relative “interactome complexity.” An interactome is a basically a network of [biochemical interactions](https://en.wikipedia.org/wiki/File:Network_of_how_100_of_the_528_genes_identified_with_significant_differential_expression_relate_to_DISC1_and_its_core_interactors.png), in this case in particular at the level of protein chemistry. Organisms which we presume to be complex, such as *H. sapiens*, have a more complex interactome than organisms which we presume to be less complex, such as prokaryotes.
+
+Why does interactome complexity matter? Let me quote from the abstract*: “This leads to the hypothesis that the accumulation of mildly deleterious mutations in populations of small size induces secondary selection for protein–protein interactions that stabilize key gene functions. By this means, the complex protein architectures and interactions essential to the genesis of phenotypic diversity may initially emerge by non-adaptive mechanisms.”*
+
+You probably know about [neutral theory](https://en.wikipedia.org/wiki/Neutral_theory_of_molecular_evolution), whereby most evolution on the molecular level is due to substitutions which have neither positive nor negative selective effects. That is, they’re not adaptive. A related model is the [nearly neutral theory](http://authors.library.caltech.edu/5456/1/hrst.mit.edu/hrs/evolution/public/transcripts/nearlyneutral_trancript.html), where a substantial fraction of substitutions are ever so mildly deleterious. So mild in fact that selection does not “see” these mutations as harmful enough to “purge” them from the genome. This is related to effective population size, which measures the proportion of individuals which matter for purposes of genetics in a set of individuals (if a population is 100, but only 10 breed, then there’s a huge difference between census and effective population size). As effective population size declines the power of random genetic drift becomes more evident. This is simply [sample variance](http://mathworld.wolfram.com/SampleVariance.html), which converges upon zero as *N* approaches infinite. If you flip a coin 100 times you will expect it to deviate proportionally from expectation (0.50 of both sides) more than if you flipped the coin 1000 times. Low effective population sizes are like the swell of noise against which natural selection is attempting to “make music.”
+
+In this paper the authors seem to be suggesting that these broader population genetic dynamics result in suboptimal functionality on the molecular level as deleterious mutations build up. Complex molecular interactions then emerge through secondary natural selection pressures as a way for the whole Rube Goldberg system from collapsing in on itself. Wheels within wheels. The implication then is that **complex organisms evolved not because they were better in a reproductively fit sense in relation to simple organisms, but that organismic complexity is simply a way for collections of simple organisms to not fall apart when subject to stochastic forces which increase the mutational load.**
+
+Back in the day my background was in biochemistry, but there’s a reason that I don’t talk about it much in this space. I’m not too excited about the prospect of visualizing the shape and character of a protein and its various subunits (I should have realized something was up when I found that I preferred physical chemistry to biochemistry!). But I’d be curious about the impression of readers who are versed and fluent in the biochemistry to evaluate the claims within. After the criticism of the genome size – effective population size correlation I’m a touch wary about an argument which relies on just 36 species. I also haven’t totally given up on the idea that one could introduce a [fitness landscape](https://en.wikipedia.org/wiki/Fitness_landscape) model here, where organism complexity may initially have been a response to suboptimal fitness, but that after crossing the fitness “valley” the species could then ascend a new “peak.”
+
+**Citation:** Ariel Fernández, & Michael Lynch (2011). Non-adaptive origins of interactome complexity Nature : [10.1038/nature09992](https://dx.doi.org/10.1038/nature09992)
+
+### Related Posts:
+
+- [Michael Lynch on non-adaptive
+  evolution](https://www.gnxp.com/WordPress/2007/09/18/michael-lynch-on-non-adaptive-evolution/) - [Origins of genome
+  architecture???](https://www.gnxp.com/WordPress/2008/01/04/origins-of-genome-architecture/) - [Not the origin of genome
+  complexity](https://www.gnxp.com/WordPress/2010/08/27/not-the-origin-of-genome-complexity/) - [Neutral origins of
+  complexity?](https://www.gnxp.com/WordPress/2007/05/10/neutral-origins-of-complexity/) - [A neo-neo-Darwinian
+  Synthesis?](https://www.gnxp.com/WordPress/2005/12/27/a-neo-neo-darwinian-synthesis/) - [Origins of Genome Architecture
+  one-sided?](https://www.gnxp.com/WordPress/2008/03/06/origins-of-genome-architecture-one-sided/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2011%2F05%2F20%2Forganismic-complexity-is-just-duct-tape%2F&linkname=Organismic%20complexity%20is%20just%20duct%20tape "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2011%2F05%2F20%2Forganismic-complexity-is-just-duct-tape%2F&linkname=Organismic%20complexity%20is%20just%20duct%20tape "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2011%2F05%2F20%2Forganismic-complexity-is-just-duct-tape%2F&linkname=Organismic%20complexity%20is%20just%20duct%20tape "Email")[](https://www.addtoany.com/share)

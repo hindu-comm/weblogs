@@ -1,0 +1,38 @@
++++
+title = "Shades of preference in"
+full_title = "Shades of preference in storytelling"
+date = "2011-10-16"
+upstream_url = "https://www.gnxp.com/WordPress/2011/10/16/shades-of-preference-in-storytelling/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2011/10/16/shades-of-preference-in-storytelling/).
+
+Shades of preference in storytelling
+
+Humans seem to have a strong bias toward narratives. We like stories. This is obvious when you read sports columns. Most of the time there’s really no substantive value-add. If you want substance, just check box scores. **But we want a story.** So sports columnists give us a story. Usually something *mildly* counter-intuitive, general platitudes and conventional wisdom with just a twist. It doesn’t matter if you’re wrong, no one cares. How many people remember Bill Walton talking about how Shawn Bradley was a better basketball player than Shaquille O’Neil?
+
+Much the same applies to political punditry. There was no point in speculating whether Rick Perry would, or wouldn’t, do well as an aspirant nominee of the Republican party for the presidency. We’d know sooner or later. I really got tired of Texas pundits like [Eric Greider](http://www.ericagrieder.com/1/post/2011/8/what-people-get-wrong-about-rick-perry.html) going on about how we shouldn’t underestimate him. Aside from the fact that he was smart enough to be an air force officer, everything else implies that he’s not too sharp, validated especially by his recent debate performances. But we wanted a story, so there was a demand for pundits from Texas talking Perry’s prospects up. Now we have pundits like [Ross Douthat](http://douthat.blogs.nytimes.com/2011/10/12/romney-the-inexorable/)echoing the line that Mitt Romney is inevitable as the nominee. Great. But remember when Ross and Matt Yglesias simply couldn’t imagine a scenario in which Hillary Clinton wasn’t the nominee in December of 2007? I do.
+
+So we love stories. **That’s a human universal.** As human beings we have particular cognitive orientations which are general across our species. Our facility for language for example. An appreciation of art and other cultural productions which don’t seem to have immediate utility. But there is also variation. Our tastes differ. But sometimes we forget that. I thought of that when reading this piece in *Slate*, [For the Love of Science Fiction](http://www.slate.com/articles/technology/future_tense/2011/10/margaret_atwood_s_in_other_worlds_sf_and_the_human_imagination_.html). The author begins “…I disdained science fiction for many years, considering it too short on humanity and too long on ***pointless* technical specs.**”**There is definitely going to be a mention of Ursula K. Le Guin.** The author concludes:
+
+> Perhaps the most important guidance Atwood offers on reading and > loving science fiction is to respect the craft’s ability to explore > unintended consequences but not to overstate its predictive qualities: > “I carefully say*a*future rather than*the*future because the > future is an unknown: from the moment*now*, an infinite number of > roads lead away to ‘the future,’ each heading in a different > direction,” she writes. I will cling to those words the next time I > read a terrifying depiction of a technologically rich but morally > bankrupt society in the years to come. Like the author who’s next up > in my science fiction education:[Neal > Stephenson](https://www.amazon.com/gp/product/0061977969/ref=as_li_ss_tl?ie=UTF8&tag=slatmaga-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=0061977969).
+
+The first thing that came to mind is that the author has a background in liberal arts if they could throw out a line about “pointless technical specs.” Some people actually enjoy understanding technical specs! I mention Ursula K. Le Guin because in one of her essays she discusses her attitude toward science fiction and admitted her lack of interest in a lot of natural science, and her fascination with social science. Le Guin varies the parameters of sociology to generate her stories. In contrast, writers such as [Greg Egan](https://en.wikipedia.org/wiki/Greg_Egan) vary the laws of physics. Whether the former or latter is to your taste depends on your background and predispositions. In any case, the author of the above piece majored in “English with minors in business, media studies, and Latin.” If she had majored in engineering or physics I suspect that the technical sidebars and exposition which much of science fiction is larded with would seem less pointless, and much more illuminating. **So this a matter of taste, not objective truth in terms of what is, and isn’t, good science fiction.**
+
+Somehow great literature is measured by psychological complexity rather than material complexity. “World building” is seen as a bonus, instead of essential context. But whether you see it as essential context or not is probably a matter of your own psychological orientation. And this exists on a continuum. Some readers of hard science fiction can not brook the fudges which are necessary in even this genre when it comes concepts such as faster-than-light travel. [L. Sprague de Camp](https://en.wikipedia.org/wiki/L._Sprague_de_Camp#Science_fiction) famously focused more on fantasy than hard science fiction because his background in engineering made it impossible for him to suspend disbelief even for the purpose of writing a story.
+
+As I grow older I seem to be turning away from hard science fiction (when I have time to read fiction, which is not often). Does this mean that I am developing more refined taste? Perhaps. But I suspect that my brain is aging and changing, and so my preferences are as well. I’ve lived enough of a life that I have a requisite stock of social intelligence with which I can appreciate the subtlety in more psychologically oriented fiction, where characters have more texture and grayness. Additionally, my own technical interests in science have narrowed to the point where I get a lot less out of science fiction which is predicated on some knowledge of disciplines where my comprehension is thin. This is a case where the child is not the father of the man. Just as I have changed over time, so humans a a species have different aesthetic preferences, rather than superior and inferior ones. I wish that people would be a bit more self-aware about this.
+
+### Related Posts:
+
+- [Prediction is very
+  hard](https://www.gnxp.com/WordPress/2011/10/28/prediction-is-very-hard/) - [Basketball in
+  China](https://www.gnxp.com/WordPress/2009/07/23/basketball-in-china/) - [Andrew Gelman makes political punditry
+  boring](https://www.gnxp.com/WordPress/2009/08/06/andrew-gelman-makes-political-punditry-boring/) - [ACTN3 sports gene test is a
+  con!](https://www.gnxp.com/WordPress/2008/11/30/actn3-sports-gene-test-is-a-con/) - [Sports political
+  donations](https://www.gnxp.com/WordPress/2006/07/28/sports-political-donations/) - [And you're
+  surprised?](https://www.gnxp.com/WordPress/2006/09/22/and-you-re-surprised/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2011%2F10%2F16%2Fshades-of-preference-in-storytelling%2F&linkname=Shades%20of%20preference%20in%20storytelling "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2011%2F10%2F16%2Fshades-of-preference-in-storytelling%2F&linkname=Shades%20of%20preference%20in%20storytelling "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2011%2F10%2F16%2Fshades-of-preference-in-storytelling%2F&linkname=Shades%20of%20preference%20in%20storytelling "Email")[](https://www.addtoany.com/share)

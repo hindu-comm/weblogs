@@ -1,0 +1,75 @@
++++
+title = "A mediocre man's great"
+full_title = "A mediocre man's great son, a great man's mediocre son"
+date = "2011-12-24"
+upstream_url = "https://www.gnxp.com/WordPress/2011/12/24/a-mediocre-mans-great-son-a-great-mans-mediocre-son/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2011/12/24/a-mediocre-mans-great-son-a-great-mans-mediocre-son/).
+
+A mediocre man's great son, a great man's mediocre son
+
+[![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/12/233px-Kobe_Bryant_Washington1.jpg?resize=233%2C347)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/12/233px-Kobe_Bryant_Washington1.jpg?resize=233%2C347)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/12/233px-Kobe_Bryant_Washington1.jpg)[Kobe Bryant](https://en.wikipedia.org/wiki/Kobe_Bryant) is an exceptional professional basketball player. His father was a [“journeyman”](https://en.wikipedia.org/wiki/Joe_Bryant). Similarly, [Barry Bonds](https://en.wikipedia.org/wiki/Barry_bonds) and [Ken Griffey Jr.](https://en.wikipedia.org/wiki/Ken_Griffey,_Jr.) both surpassed their fathers as baseball players. Both of [Archie Manning’s](https://en.wikipedia.org/wiki/Archie_Manning#NFL_career) sons are [superior](https://en.wikipedia.org/wiki/Peyton_Manning#NFL_career_statistics) [quarterbacks](https://en.wikipedia.org/wiki/Eli_Manning#Statistics_2) in relation to their father. This is not entirely surprising. Though there is a correlation between parent and offspring in their traits, that correlation is imperfect.
+
+Note though that I put journeyman in quotes above because **any success at the professional level in major league athletics indicates an extremely high level of talent and focus.** Kobe Bryant’s father was among the top 500 best basketball players of his age. His son is among the top 10. This is a large realized difference in professional athletics, but across the whole distribution of people playing basketball at any given time it is not so great of a difference.
+
+What is more curious is how this related to the reality of [regression toward the mean](https://en.wikipedia.org/wiki/Regression_toward_the_mean). This is a very general statistical concept, but for our purposes we’re curious about its application in quantitative genetics. People often misunderstand the idea from what I can tell, and treat it as if there is an [orthogenetic-like](https://en.wikipedia.org/wiki/Orthogenesis) tendency of generations to regress back toward some idealized value.
+
+Going back to the basketball example: **[Michael Jordan](https://en.wikipedia.org/wiki/Michael_Jordan#Personal_life), the greatest basketball player in the history of the professional game, has two sons who are [modest](https://en.wikipedia.org/wiki/Marcus_Jordan) [talents](https://en.wikipedia.org/wiki/Jeffrey_Jordan) at best.** The probability that either will make it to a professional league seems low, a reality acknowledged by one of them. In fact, from what I recall both received special attention and consideration because they were Michael Jordan’s sons. It is still noteworthy of course that both had the talent to make it onto a roster of a Division I NCAA team. This is not typical for any young man walking off the street. But the range in realized talent here is notable. Similarly, [Joe Montana’s son](https://en.wikipedia.org/wiki/Nate_Montana) has been bouncing around college football teams to find a roster spot. Again, it suggests a very high level of talent to be able to plausibly join a roster of a Division I football team. **But for every Kobe Bryant there are many, many, Nate Montanas.** There have been enough generations of professional athletes in the United States to illustrate regression toward the mean.
+
+  
+So how does it work? A few years ago a friend told me that the best way to think about it was a [bivariate distribution](https://en.wikipedia.org/wiki/Joint_probability_distribution), where the two random variables are additive genetic variation and environmental genetic variation. Clearer? For many, probably not. To make it concrete, let’s go back to the old standby: **the quantitative genetics of height.**
+
+For height in developed societies we know that \~80% of the variation of the trait in the population can be explained by variation of genes in the population. That is, the heritability of the trait is 0.80. This means that the correspondence between parents and offspring on this trait is rather high. Having tall or short parents is a decent predictor of having tall or short offspring. But the heritability is imperfect. **There is a random “environmental” component of variation.** I put environmental in quotations because that really just means it’s a random noise effect which we can’t capture in the additive or dominance components (this sort of thing may be why homosexual orientation in individuals is mostly biologically rooted, even if its population-wide heritability is modest). It could be biological, such as developmental stochasticity, or gene-gene interactions. The point is that this is the component which adds an element of randomness to our ability to predict the outcomes of offspring from parents. It is the darkening of the mirror of our perceptions.
+
+[![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/12/Rplot01-300x237.png?resize=300%2C237)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/12/Rplot01-300x237.png?resize=300%2C237)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/12/Rplot01.png)Going back to height, the plot to the left shows an idealized normal distribution of height for males. I set the mean as 70 inches, or 5 feet 10 inches. The standard deviation is 2.5, ~~which means that if you randomly sampled any two males from the dataset the most likely value of the difference would be 2.5 inches~~ which is just the average deviation from the mean (it’s a measure of dispersion). Obviously the height of a male is dependent upon the height of a father, but the mother matters as well (perhaps more due to maternal effects!). Here we have to note that there’s clearly a sex difference in height. How do you handle this problem? Actually, that’s easy. Just convert the heights of the parents to sex-controlled standard deviation units. For example, if you are 5 feet and 7.5 inches as a male you are 1 standard deviation unit below the mean. If you are a female at the same height you are 1.4 standard deviation units above the mean (assuming female mean height of 5 feet and 4 inches, and standard deviation of 2.5 inches). If height was nearly \~100% heritable you’d just average the two parental values in standard deviation units to get the expectation of the offspring in standard deviation units. In this case, the offspring should be 0.2 standard deviation units above the mean.
+
+But height is **not \~100% heritable.** There is an environmental component of variation which isn’t accounted for by the parental genotypic values (at least the ones with effects of interest to us, the additive components). If height is \~80% heritable then you’d expect the offspring to regress 1/5th of the way back to the population mean. For the example above, the expectation of the offspring would be 0.16 standard deviation units, not 0.20.
+
+Let’s make this more concrete. Imagine you sampled a large number of couples whose midparent phenotypic value is 0.20 standard deviation units above the mean in height. This means that if you convert the father and mother into standard deviation units, their average is 0.20. So one pair could be 0.20 and 0.20, and another could be of someone 2.0 and -1.6 standard deviation units. What’s the expected distribution of male offspring height?
+
+[![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/12/Rplot21.png?resize=617%2C387)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/12/Rplot21.png?resize=617%2C387)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/12/Rplot21.png)
+
+[![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/12/Rplot3.png?resize=312%2C336)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/12/Rplot3.png?resize=312%2C336)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/12/Rplot3.png)The relevant points:
+
+1\) The midparent value naturally is constrained to have no variance (though as I indicate above since it’s an average the selected parents may have a wide variance)
+
+2\) The male offspring are somewhat above the average population in distribution of height
+
+3\) It remains a distribution. The expected value of the offspring is a specific value, but environmental and genetic variation remains to produce a range of outcomes (e.g., Mendelian segregation and recombination)
+
+4\) There has been some regression back to the population mean
+
+I only displayed the males. There are obviously going to be females among the offspring generation. What would the outcome be if you mated the females with the males? Recall that the female heights would exhibit the same mean, 0.16 units above the original population mean. **This is where many people get confused** (frankly, those whose intelligence is somewhat closer to the mean!). They presume that a subsequent generation of mating would result in further regression back to the mean. No! Rather, the expected value of the offspring would be 0.16 units. Why?
+
+Because through the process of selection you’ve created a new genetic population. The selection process is imperfect in ascertaining the exact causal underpinning of the trait value of a given individual. In other words, because height is imperfectly heritable some of the tall individuals you select are going to be tall for environmental reasons, and will not pass that trait to heir offspring. But height is \~80% heritable, which means that the filtering process of genes by using phenotype is going to be rather good, and the genetic makeup of the subsequent population will be somewhat deviated from the original parental population. **In other words, the reference population to which individuals “regress” has now changed.** The environmental variation remains, but the additive genetic component around which the regression is anchored is now no longer the same.
+
+This is why I state that regression toward the mean is not magical in a biological sense. There is no population with fixed traits to which selected individuals naturally regress or revert to. Rather, populations are useful abstractions in making sense of the statistical correlations we see around us. The process of selection is informed by population-wide trends, so we need to bracket a set of individuals as a population. But what we really care about are the genetic variables which underpin the variation across the population. And those variables can change rather easily through selection. Obviously regression toward the mean would be exhibit the magical reversion-toward-ideal-type property that some imagine if the variables were static and unchanging.**But if this was the matter of things, then evolution by natural selection would never occur!**
+
+Therefore, in quantitative genetics regression toward the mean is a useful dynamic, a heuristic which allows us to make general predictions. But we shouldn’t forget that it’s really driven by biological processes. Many of the confusions which I see people engage in when talking about the dynamic seem to be rooted in the fact that individuals forget the biology, and adhere to the principle as if it is an unthinking mantra.
+
+And that is why there is a flip side: even though the offspring of exceptional individuals are likely to regress back toward the mean, **they are also much more likely to be even more exceptional than the parents than any random individual off the street!**Let’s go back to height to make it concrete. Kobe Bryant is 6 feet 6 inches tall. His father is 6 feet 9 inches. I don’t know his mother’s height, but her brother was a basketball player whose height is 6 feet 2 inches. Let’s use him as a proxy for her (they’re siblings, so not totally inappropriate), and convert everyone to standard deviation units.
+
+Kobe’s father: 4.4 units above mean
+
+Kobe: 3.2 units above mean
+
+Kobe’s mother: 1.6 units above the mean
+
+Using the values above the expected value for the offspring of Kobe’s father & mother is a child 2.4 units above the mean. Kobe is somewhat above the expected value (assuming that Kobe’s mother is a taller than average woman, which seems likely from photographs). But here’s the important point: **his odds of being this height are much higher with the parents he has than with any random parents.**Using a perfect normal distribution (this is somewhat distorted by “fat-tailing”) the odds of an individual being Kobe’s height are around 1 in 1,500. But with his parents the odds that he’d be his height are closer to 1 out of 5. In other words, Kobe’s parentage increased the odds of his being 6 feet 6 inches by a factor of 300! The odds were still against him, but the die was loaded in his direction**in a relative sense. By analogy, in the near future we’ll see many more children of professional athletes become professional athletes both due to nature and nurture. But, we’ll continue to see that most of the children of professional athletes will not have the requisite talent to become professional athletes.
+
+*Image Credit: [Wikipedia](https://en.wikipedia.org/wiki/File:Kobe_Bryant_Washington.jpg)*
+
+### Related Posts:
+
+- [Genes are probability, not
+  destiny](https://www.gnxp.com/WordPress/2012/04/04/genes-are-probability-not-destiny/) - [Version 2.0 of Montana &
+  Gretzky](https://www.gnxp.com/WordPress/2009/10/14/version-2-0-of-montana-gretzky/) - [Beware the causal silver
+  bullet](https://www.gnxp.com/WordPress/2014/07/15/beware-the-causal-silver-bullet/) - [How do relatives correlate in
+  traits?](https://www.gnxp.com/WordPress/2011/12/30/how-do-relatives-correlate-in-traits/) - [Tiger Woods is a
+  golfer](https://www.gnxp.com/WordPress/2009/12/01/tiger-woods-is-a-golfer/) - [Human inequality is not fair: NBA
+  edition](https://www.gnxp.com/WordPress/2016/05/25/human-inequality-is-not-fair-nba-edition/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2011%2F12%2F24%2Fa-mediocre-mans-great-son-a-great-mans-mediocre-son%2F&linkname=A%20mediocre%20man%27s%20great%20son%2C%20a%20great%20man%27s%20mediocre%20son "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2011%2F12%2F24%2Fa-mediocre-mans-great-son-a-great-mans-mediocre-son%2F&linkname=A%20mediocre%20man%27s%20great%20son%2C%20a%20great%20man%27s%20mediocre%20son "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2011%2F12%2F24%2Fa-mediocre-mans-great-son-a-great-mans-mediocre-son%2F&linkname=A%20mediocre%20man%27s%20great%20son%2C%20a%20great%20man%27s%20mediocre%20son "Email")[](https://www.addtoany.com/share)

@@ -1,0 +1,57 @@
++++
+title = "Really fine grained"
+full_title = "Really fine grained genetic maps of Europe"
+date = "2010-07-15"
+upstream_url = "https://www.gnxp.com/WordPress/2010/07/15/really-fine-grained-genetic-maps-of-europe/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2010/07/15/really-fine-grained-genetic-maps-of-europe/).
+
+Really fine grained genetic maps of Europe
+
+![genmap1](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2010/07/genmap1.jpg?resize=400%2C312)![genmap1](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2010/07/genmap1.jpg?resize=400%2C312)A few years ago you started seeing the crest of studies which basically took several hundred individuals (or thousands) from a range of locations, and then extracted out the two largest components of genetic variation from the hundreds of thousands of variants. The clusters which fell out of the genetic data, with each point being an individual’s position, were transposed onto a geographical map. The figure to the left (from [this paper](http://blogs.discovermagazine.com/gnxp/2008/08/genetic-map-of-europe-genes-vary-as-a-function-of-distance/))
+ has been widely circulated. You don’t have to be a deep thinker to understand why things shake out this way; people are more closely related to those near than those far because gene flow ties populations together, and its power decreases as a function of distance.
+
+Of course the world isn’t flat, and history perturbs regularities. Jews for example [often don’t shake out](http://blogs.discovermagazine.com/gnxp/2010/06/genetics-the-jews-its-still-complicated/) where they “should” geographically, because of their historical mobility contingent upon random and often capricious geopolitical or social pressures. The [Hazara](http://blogs.discovermagazine.com/gnxp/2009/09/yes-uyghurs-are-a-new-hybrid-population/) of Afghanistan have their ethnogenesis in the melange of peoples who were thrown together after the Mongol conquest of Central Asia and Iran in the 13th century, and the subsequent collapse of the [Ilkhan](http://blogs.discovermagazine.com/gnxp/2009/09/yes-uyghurs-are-a-new-hybrid-population/) dynasty. Though the Hazara have mixed with their Persian, Tajik and Pashtun neighbors, they still retain a strong stamp of Mongolian ancestry which means that they are at some remove on the “genetic map” from their geographical neighbors.
+
+  
+So when interpreting these sorts of results you have two extreme dynamics operative. On the one hand you have an equilibrium state where gene flow is mediated through continuous but small flows of migration; women moving between villages, younger sons venturing out of the village in search of better opportunities. Then you have the random (or perhaps modeled as a poisson distribution) “shocks” which are attributed to world-historical (or region-historical) events which leave an outsized and often perplexing stamp and distort the genetic map from the geographic one. Sometimes the two are not in balance. In much of the New World and Australasia the native populations were genetically replaced by settlers from the outside. Thousands of years of genetic variation accumulated and shaped by localized gene flow events were wiped clean off the map by the demographic tsunami.
+
+Obviously that’s an extreme scenario. The macroscale does not always render the microscale irrelevant in such a fashion. A new short paper in [The European Journal of Human Genetics](http://www.nature.com/ejhg/journal/vaop/ncurrent/full/ejhg201092a.html#abs) gives us an example. [Genes predict village of origin in rural Europe](http://www.nature.com/ejhg/journal/vaop/ncurrent/full/ejhg201092a.html#abs):
+
+> The genetic structure of human populations is important in population > genetics, forensics and medicine. Using genome-wide scans and > individuals with all four grandparents born in the same settlement, we > here demonstrate remarkable geographical structure across 8–30 km in > three different parts of rural Europe. **After excluding close kin and > inbreeding, village of origin could still be predicted correctly on > the basis of genetic data for 89–100% of individuals.**
+
+Here’s the ubiquitous PC chart, except on the scale of villages:
+
+![village1](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2010/07/village1.png?resize=600%2C838)![village1](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2010/07/village1.png?resize=600%2C838)
+
+As noted above they excluded close relatives, out to second cousins. They judge the genetic time depth is about \~120 years into the past back to the common ancestry. Remember that if their grandparents are from this village they obviously are going to be somewhat inbred, from the perspective of an American whose ancestors are from different nations. But for most of history the European case was the typical one, not the American one where people from different continents mingled.
+
+Here’s part of the discussion which I think needs highlighting:
+
+> To explore how many markers are required to recover these fine scale > patterns of structure, we ranked SNPs by FST among villages and > repeated the PCA for the most differentiated subsets of 30 000, > 10 000, 3000 and 300 SNPs in each population. In all three > populations, 10 000 or more high FST SNPs recovered an essentially > identical picture to that using the full data set, and even 3000 SNPs > preserved considerable separation between the villages (not shown). > **Using only the most discriminating 300 SNPs, little structure could > be observed between the two Croatian villages; however, in Scotland > and Italy one of the three settlements included in each location > remained completely differentiated from the other two (not shown).** > We note that these results are only indicative of the minimum number > of SNPs required to separate these populations, as by necessity SNPs > have been selected intrinsically on the basis of FST within the same > data set, rather than extrinsically from other data. >
+> The slightly lower differentiation of the Croatian villages is not > surprising given the fact that they are physically the closest of > those considered here, being 8 km apart, with only low hills > separating them. **In contrast, the settlements in the Scottish Isles > and Italy are separated by 15–30 km of sea in the former case, and of > 3000 m mountains in the latter, although there are deep connecting > valleys.**
+
+First, we get a sense of the range of informative markers necessary to discern population structure well in much of the Old World. For continental races (e.g., Europeans vs. East Asians) you need on the order of 10-100 markers to distinguish them with a high degree of confidence (closer to the low bound than the high). It looks like in the case of village vs. village differences, it will be on the order of 100-1000 markers. I suspect in Iraq or the Caucasus you’ll need *less* than 300 markers, because genetic differentiation is higher over a shorter distance due to inbreeding, ethnic diversity, and geography (more the former in Iraq, more the latter in the Caucasus). In contrast, in regions where geography is conducive to transport and local norms enforce exogamy I wouldn’t be surprised if you need more like a thousand markers.
+
+Second, observe the importance of topographical detail. I have observed before than Sardinia is a genetic outlier in Europe. That’s not because Sardinians interbred with native elves of that island. Rather, a water barrier serves as a major check on continuous gene flow mediated by banal contacts (e.g., going to the market and meeting a person from the neighboring village). Islands become worlds unto themselves. Though they are effected by the exogenous shocks, they are less subject to the continuous gene flow at the equilibrium because the water serves as a barrier. Similarly mountains can produce genetic barriers as well, because they make travel rather difficult. In [Consanguinity, Inbreeding, and Genetic Drift in Italy](https://www.amazon.com/exec/obidos/ASIN//0691089914/geneexpressio-20/) L. L. Cavalli-Sforza documents in detail through Roman Catholic Church records what a big impact modern roads had on inbreeding coefficients, which plunged in the 19th century. Distortions of the genetic map tells about variations in elevation in the third dimension on the geographic map!
+
+The utility of this sort of data collection and analysis in the modern world is an empirical question. On the one hand many Europeans are relatively less inclined to move in comparison to Americans. And yet the breaking down of borders with the European Union and the likely need for a more productive economic sector on that continent because of changing demographics point to greater mobility, migration and mixing, which would make these sorts of studies of only near-term use. Of more interest to me are going to be fine-grained analyses of social groups. For example the Indian caste system. Last fall in the [Reich et al.](http://blogs.discovermagazine.com/gnxp/2009/09/indians-as-hybrids-a-k-a-aryan-invasion-in-the-house/) paper the authors seemed to be indicating the likelihood of a lot of between population variance groups these groups. It doesn’t matter if a particular Bania sub-caste from Gujarat is scattered across the world, from Kenya to England to the United States. They may all still marry amongst a set of individuals who hale from the same original few villages.
+
+Good times.
+
+**Citation:** O’Dushlaine, C., McQuillan, R., Weale, M., Crouch, D., Johansson, Aulchenko, Y., Franklin, C., Polašek, O., Fuchsberger, C., Corvin, A., Hicks, A., Vitart, V., Hayward, C., Wild, S., Meitinger, T., van Duijn, C., Gyllensten, U., Wright, A., Campbell, H., Pramstaller, P., Rudan, I., & Wilson, J. (2010). Genes predict village of origin in rural Europe European Journal of Human Genetics DOI: [10.1038/ejhg.2010.92](https://dx.doi.org/10.1038/ejhg.2010.92)
+
+### Related Posts:
+
+- [The Genetic Map of
+  Europe](https://www.gnxp.com/WordPress/2008/08/14/the-genetic-map-of-europe/) - [Reprising genes &
+  geography](https://www.gnxp.com/WordPress/2012/04/16/reprising-genes-geography/) - [Genetic map of Europe
+  again](https://www.gnxp.com/WordPress/2008/08/31/genetic-map-of-europe-again/) - [Genetic map of Europe; genes vary as a function of
+  distance](https://www.gnxp.com/WordPress/2008/08/31/genetic-map-of-europe-genes-vary-as-a-function-of-distance/) - [The genetic map of Europe we already
+  knew....](https://www.gnxp.com/WordPress/2008/11/24/the-genetic-map-of-europe-we-already-knew/) - [Population substructure in
+  Japan](https://www.gnxp.com/WordPress/2008/09/25/population-substructure-in-japan/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2010%2F07%2F15%2Freally-fine-grained-genetic-maps-of-europe%2F&linkname=Really%20fine%20grained%20genetic%20maps%20of%20Europe "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2010%2F07%2F15%2Freally-fine-grained-genetic-maps-of-europe%2F&linkname=Really%20fine%20grained%20genetic%20maps%20of%20Europe "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2010%2F07%2F15%2Freally-fine-grained-genetic-maps-of-europe%2F&linkname=Really%20fine%20grained%20genetic%20maps%20of%20Europe "Email")[](https://www.addtoany.com/share)

@@ -1,0 +1,38 @@
++++
+title = "The end of environmental"
+full_title = "The end of environmental inequality means the rise of genetic inequality"
+date = "2011-08-15"
+upstream_url = "https://www.gnxp.com/WordPress/2011/08/15/the-end-of-environmental-inequality-means-the-rise-of-genetic-inequality/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2011/08/15/the-end-of-environmental-inequality-means-the-rise-of-genetic-inequality/).
+
+The end of environmental inequality means the rise of genetic inequality
+
+A few people have pointed me to Charles Murray’s [comment](http://blog.american.com/2011/08/the-debate-about-heritability-of-general-intelligence-radically-narrows/) at [The Enterprise Blog](http://blog.american.com/2011/08/the-debate-about-heritability-of-general-intelligence-radically-narrows/), [The Debate about Heritability of General Intelligence Radically Narrows](http://blog.american.com/2011/08/the-debate-about-heritability-of-general-intelligence-radically-narrows/), which [alludes to the recent finding of genomic confirmation of the behavior genetic heritability measure for intelligence](http://blogs.discovermagazine.com/gnxp/2011/08/half-the-variation-in-i-q-is-due-to-genes/). Murray indicates that this should end the “debate” on the heritability of intelligence as a quantitative trait. As I implied earlier much of this debate had more to do with rhetoric and ideology than reality, in that I doubt many people support a very low heritability measure for intelligence ( \< \~0.30) in **developed societies** when they don’t have strong ideological commitments. These commitments being that social policy can homogenize environments enough that only the genetic components of variation of a trait value will be important in the future, so that heritability values will go from \~0 to \~1.0.
+
+  
+At this point some of you may be rather confused. What I’m saying here is that the logical end point of a quasi-“blank slate” policy position is the diminution of environmental impacts so that **only genes matter.** For a complex trait like intelligence this final state of \~100% of the variation being due to genes is probably not possible. Variation in height for example is indubitably biologically specified, but even in developed nations where there is a surfeit of nutrition only \~90% of the population level variation is due to variation in genes. That means that \~10% of the variation remains “environmental,” which is a catchall category and may include biological dynamics such as gene-gene interactions or developmental [stochasticity](https://en.wikipedia.org/wiki/Stochastic). But the 90% figure for height is recent. In the 19th century a considerable proportion of the variation in height corresponded with variation in class. The upper classes ate well, and the lower classes did not. But this truism varied by locale. [For example](https://books.google.com/books?id=zeyGOrJ7jjIC&lpg=PA527&dq=Europe%20height%20class%20America&pg=PA527#v=onepage&q&f=false):
+
+> Income was protective of nutritional status as one would expect. The > height of the upper class in America did not decline in the mid-19th > century. In fact, the difference in height of upper class men and the > average increased from 1 cm to 3 cm between 1830 and 1840. This was > much less than the social differences in Europe. The greatest social > gradient in height ever recorded was found in early industrial > England, where the difference between the upper and lower class > 15-year-olds reached 20 cm….
+
+The following figure is likely to shock, and highlight the different median ecological conditions on the two sides of the Atlantic:
+
+[![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/08/height1.jpg?resize=600%2C300)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/08/height1.jpg?resize=600%2C300)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/08/height1.jpg)
+
+Observe that in the 19th century American slaves were taller than the English lower class! That’s a testament to the fact that America was in a state of incredible land surplus and labor shortage, which high per unit agricultural productivity. Even the slaves prospered (the slaves in the United States of America had above replacement fertility, which was exceptional among New World black slave populations). In other words, **the environmental variation (nutrition) was less of a factor in determining height in the New World than the Old, so heritability of height was far higher in the New World than the Old.** Of course because class exhibits heritability in the colloquial non-genetic sense in the Old World height was a strong tell as to one’s position in the status hierarchy. Far less so in the New World, where genetic endowment loomed larger. Likely the range of height decreased in the New World, as the very small malnourished individuals were not present within the population, but of the variation which remained a much larger proportion was explained by genes than had previously been the case. This still stands in some very poor nations today, where the heritability of height is lower than in the developed world.
+
+If it turns out that the heritability of intelligence is relatively high in the developed world, then it may be that the Left-progressive project of ameliorating class based differences in access to cognitively enhancing environments has succeeded to a large extent. Barring genetic engineering **this is the “end of history” for this project.** It is a matter of *when*, not *if* (i.e., if you reject that the project has hit sharply diminishing marginal returns, logically it *should* at some point if the Left-progressive project succeeds).Assortative mating and more transparent meritocracy should allow for cleaner sorting within the population, and inter-generational class churn should decrease and stabilize at a basal level dictated by the random environmental variables which no amount of social engineering can squeeze out of the system. **A perfect meritocracy would replace cultural class with biological caste.**
+
+### Related Posts:
+
+- [What Heritability is
+  Not](https://www.gnxp.com/WordPress/2009/12/15/what-heritability-is-not/) - [Murray on education and
+  intelligence](https://www.gnxp.com/WordPress/2007/01/18/murray-on-education-and-intelligence/) - [I.Q. and
+  genomics](https://www.gnxp.com/WordPress/2011/05/13/i-q-and-genomics/) - [Genes & IQ](https://www.gnxp.com/WordPress/2008/09/22/genes-iq/) - [Like modestly attracts
+  like](https://www.gnxp.com/WordPress/2011/09/26/like-modestly-attracts-like/) - [Heritability and
+  fitness](https://www.gnxp.com/WordPress/2010/10/11/heritability-and-fitness/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2011%2F08%2F15%2Fthe-end-of-environmental-inequality-means-the-rise-of-genetic-inequality%2F&linkname=The%20end%20of%20environmental%20inequality%20means%20the%20rise%20of%20genetic%20inequality "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2011%2F08%2F15%2Fthe-end-of-environmental-inequality-means-the-rise-of-genetic-inequality%2F&linkname=The%20end%20of%20environmental%20inequality%20means%20the%20rise%20of%20genetic%20inequality "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2011%2F08%2F15%2Fthe-end-of-environmental-inequality-means-the-rise-of-genetic-inequality%2F&linkname=The%20end%20of%20environmental%20inequality%20means%20the%20rise%20of%20genetic%20inequality "Email")[](https://www.addtoany.com/share)

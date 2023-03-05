@@ -1,0 +1,39 @@
++++
+title = "The divisibility of"
+full_title = "The divisibility of human ancestry"
+date = "2011-08-25"
+upstream_url = "https://www.gnxp.com/WordPress/2011/08/25/the-divisibility-of-human-ancestry/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2011/08/25/the-divisibility-of-human-ancestry/).
+
+The divisibility of human ancestry
+
+[![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/08/intro.jpg?resize=300%2C332)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/08/intro.jpg?resize=300%2C332)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/08/intro.jpg)The class human or *H. sapiens* refers to a set of individuals. On the grand scale it’s really not all that clear and distinct. When do “archaic” humans become “modern” humans? Taking into account human variation, what is a “human universal”? A set of organisms are given a name which denotes the reality that they may share common ancestry, and interact behaviorally, and are potential mates. But many of these phenomenon are fuzzy on the margins. Many of the same issues which emerge in the [“species concept”](https://en.wikipedia.org/wiki/Species#Historical_development_of_the_species_concept) debates are rather general up and down the scales of natural complexity. A similar problem crops up **when we conflate the history of genes with the history of populations.** Such a conflation has value and utility to a first approximation. The story of [mitochondrial Eve](https://en.wikipedia.org/wiki/Mitochondrial_Eve) was actually the history of one particular locus, the mitochondrial genome. But it did tell us quite a bit about the history of the human species, even if in hindsight it looks as if some scientists overinterpreted those findings. One of the major issues I’ve noticed over the past year, with the [heightened likelihood of archaic admixture](http://blogs.discovermagazine.com/gnxp/2010/12/the-paradigm-is-dead-long-live-the-paradigm/) in the modern human genome, is that people regularly get confused by the difference between total genome ancestry, and the evolutionary history of one particular gene.
+
+  
+Consider the possibility that a substantial proportion of the genetic variants at the [dystrophin](http://blogs.discovermagazine.com/gnxp/2011/01/neandertal-haplotype-in-the-family/) locus amongst Eurasicans (non-Africans) derive from Neanderthals. As I have observed one of my siblings carries **only** the Neanderthal variant (males have only one copy as this gene is on the X chromosome). Does this mean he is 100% Neanderthal? Obviously not. The patterns at one gene tell you the history of that one gene. Since the patterns across genes are correlated because of shared evolutionary history (ergo, the existence of geographical racial clusters) one gene can tell you more than just its own history because you are aware of the correlations. But you can’t take this too far. My sibling is less than 5% Neanderthal across his whole genome. He just happens to be “100% Neanderthal” at that gene. There isn’t a great contradiction here. His genome is not a Platonic ideal or a pure category of human vs. non-human.
+
+I bring this up because a few months ago [I relayed the findings at a conference](http://blogs.discovermagazine.com/gnxp/2011/06/massive-neandertal-denisovan-introgression/) as to the evidence of lots of introgression into the human genome from archaic hominins on immune related loci. The [paper](http://www.sciencemag.org/content/early/2011/08/19/science.1209202.abstract) reporting those findings is now out in *Science*, [The Shaping of Modern Human Immune Systems by Multiregional Admixture with Archaic Humans](http://www.sciencemag.org/content/early/2011/08/19/science.1209202.abstract):
+
+> Whole-genome comparisons identified introgression from archaic to > modern humans. Our analysis of highly polymorphic HLA class I, vital > immune system components subject to strong balancing selection, shows > how modern humans acquired the HLA-B\*73 allele in west Asia through > admixture with archaic humans called Denisovans, a likely sister group > to the Neandertals. Virtual genotyping of Denisovan and Neandertal > genomes identified archaic HLA haplotypes carrying functionally > distinctive alleles that have introgressed into modern Eurasian and > Oceanian populations. These alleles, of which several encode unique or > strong ligands for natural killer cell receptors, now represent more > than half the HLA alleles of modern Eurasians and also appear to have > been later introduced into Africans. **Thus, adaptive introgression of > archaic alleles has significantly shaped modern human immune > systems.**
+
+Introgression implies more than just ancestry. These results indicate that Denisovan ancestry at particular immunologically relevant loci is rather high amongst East Asian groups which have no discernible Denisovan ancestry across the total genome. Presumably that’s an artifact of the limits of statistical power in detecting very low levels of admixture. But out of tens of thousand of genes it is not unimaginable that there are some few gene copies from exotic sources which turn out to be adaptive, and so favored over “native” alleles (cultural analogs come to mind; the Roman language remains, but the Roman religion has been replaced by a Jewish derived sect). The paper has little new beyond the conference talk. Note this result:
+
+> From the combined frequencies of these six alleles, we estimate the > putative archaic HLA-A ancestry to be \>50% in Europe, \>70% in Asia, > and \>95% in parts of PNG (Fig. 4, C and D). These estimates for HLA > class I are much higher than the genome-wide estimates of > introgression….
+
+More precisely, the introgression estimates are around an order of magnitude greater than admixture. Intriguingly the authors note that though most Africans exhibit some evidence of introgression from Eurasian populations, **Khoisan and Pygmies do not.** This seems to point to the possibility that the generic class “African” may hide a lot of interesting population structure and history. It is clear that peoples from the Horn of Africa seem to have been recently influenced by Eurasian groups, but it may be that West and East Africans more generally have been touched by deep-time back-migrations. Though I’ve been skeptical of attempts to portray Khoisan and Pygmies as “ur-humans,” these results suggest that that characterization may be closer to the mark than I had argued earlier.
+
+### Related Posts:
+
+- [Humans mostly out of
+  Africa?](https://www.gnxp.com/WordPress/2008/03/06/humans-mostly-out-of-africa/) - [Complex history of archaic
+  ancestry](https://www.gnxp.com/WordPress/2021/07/19/complex-history-of-archaic-ancestry/) - [The point mutation which made
+  humanity](https://www.gnxp.com/WordPress/2011/08/16/the-point-mutation-which-made-humanity/) - [The expanding crest of modern
+  humanity](https://www.gnxp.com/WordPress/2012/07/20/the-expanding-crest-of-modern-humanity/) - [Introgression, the
+  sequel](https://www.gnxp.com/WordPress/2006/12/18/introgression-the-sequel/) - [Species
+  concepts](https://www.gnxp.com/WordPress/2005/07/14/species-concepts/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2011%2F08%2F25%2Fthe-divisibility-of-human-ancestry%2F&linkname=The%20divisibility%20of%20human%20ancestry "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2011%2F08%2F25%2Fthe-divisibility-of-human-ancestry%2F&linkname=The%20divisibility%20of%20human%20ancestry "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2011%2F08%2F25%2Fthe-divisibility-of-human-ancestry%2F&linkname=The%20divisibility%20of%20human%20ancestry "Email")[](https://www.addtoany.com/share)

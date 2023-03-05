@@ -1,0 +1,38 @@
++++
+title = "The past as a cultural"
+full_title = "The past as a cultural landscape"
+date = "2012-07-12"
+upstream_url = "https://www.gnxp.com/WordPress/2012/07/12/the-past-as-a-cultural-landscape/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2012/07/12/the-past-as-a-cultural-landscape/).
+
+The past as a cultural landscape
+
+By now you have read that the [Clovis people](https://en.wikipedia.org/wiki/Clovis_culture) may [have had contemporaries](http://www.sciencemag.org/content/337/6091/223). In case you didn’t know, until about \~10 years the “standard model” of the peopling of the Americas was that around \~13,000 years ago one single population crossed into the New World via Beringia, and rapidly swept north to south in \~1,000 years. These were the Clovis people, associated with a particular toolkit, and perhaps implicated in megafaunal extinctions. **Today this model is no longer held to be sacrosanct, though no clear successor has emerged.** It does seem likely that some sort of pre-Clovis population is presumed to exist. These data are interesting because they indicate that there may have been geographical structure in cultural forms even at this early stage in North America, implying that the original peopling of America was *not*homogeneous. That is, there may have been several founding groups.
+
+[![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/07/Beringia_-_late_wisconsin_glaciation.gif?resize=269%2C371)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/07/Beringia_-_late_wisconsin_glaciation.gif?resize=269%2C371)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/07/Beringia_-_late_wisconsin_glaciation.gif)I find this entirely plausible. It strikes me that a fear years ago a tendency toward rhetorical extremism occasionally found purchase when it came to the settlement of the peripheries of the human range, Oceania and the New World. Jared Diamond famously proposed that Australia and Papua may have been colonized by one pregnant woman! (presumably she then reproduced with her own son, as Gaia did with Uranus) In hindsight it seems more likely that migration of pre-modern humans was a far more organized affair, and not an *ad hoc* expansion in a state of anarchy, with family groups splitting off in a random fashion due to demographic pressures.Note that archaic humans did not settle Oceania and the New World, despite having a million years to do so.
+
+Many researchers suppose that the ancestors of the First Americans sojourned in Berengia before they crossed over into the New World (their progress being blocked by glaciers). This may explain why genetic estimates of the populations’ origin tend to be deeper than the archaeological conclusions, even if you push the dates back due to [Monte Verde](https://en.wikipedia.org/wiki/Monte_Verde). **From the media reports archaeologists seem to be emphasizing that the original population which settled the New World may have been culturally diverse, even if they are genetically similar.**Presumably this is a counterpoint to the paper which posits a “First American” group at the heart of the genomic variation of the New World groups.
+
+First, let’s remember culture evolves fast. We know this intuitively. Second, culture can maintain a great deal of between group variation even if gene variation is minimal. One can imagine a few groups of Siberian tribes settling Berengia, and then becoming relatively isolated from their cousins to the west due to geographic barriers. At this point this genetic island would then start to shift toward homogenization of allele frequencies across these populations because of continuous gene flow. At some point in the future you might see little between population variation if you tested these groups. **But it does not follow from this that cultural differences would disappear. Rather, they may be maintained despite gene flow**. We see plenty of examples of this. In India speakers of Indo-Aryan and Dravidian languages which are geographically adjacent are only marginally different genetically. In Europe the Hungarians speak a very distinctive language, despite having a very uninteresting genetic profile. One can imagine a plausible scenario where an expansive Berengian landscape retains cultural diversity, perhaps due to ecological differences, but a long period of isolation in relation to the outside world, and close contact between Berengians, eliminates most major genetic differences across these groups.
+
+[![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/07/F3.large_.png?resize=300%2C531)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/07/F3.large_.png?resize=300%2C531)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/07/F3.large_.png)L. L. Cavalli-Sforza was one of the first scholars to point out the genuine correspondences between language families and genetic variation. This was a step forward from the pre-World War II anthropologists, who simply assumed a correlation between genetic identity and linguistic identity, and the post World War II anthropologists who rejected any connection. The association is a real one, but we must always keep in mind the details of the differences in realized outcomes and process when comparing the two phenomena. Because of genetic variation’s reliance on Mendelian inheritance as well as dependence upon a relatively fixed number of parameters (e.g., drift and selection) it tends to differ in its long term arc of evolution from culture. Cultural variation is subject to the same parameters, but it is also more flexible and plastic, in ways that lead to both greater diversity and greater homogeneity (i.e., identity markers and human universals). Evolutionary genetics has the simplicity of physics in relation to evolutionary memetics.
+
+
+
+We can not understand the peopling of the past without taking into account both genetic and cultural diversity, but the differences between the two processes always need to be kept in mind to produce a better map of reality as it was. This is probably a general point, which is too often forgotten, in part due to laziness, and the linguistic construction of ethnic identities, which elide the genetic and cultural.
+
+### Related Posts:
+
+- [pre-Clovis ancient
+  DNA?](https://www.gnxp.com/WordPress/2008/04/03/pre-clovis-ancient-dna/) - [How were the Americas
+  peopled?](https://www.gnxp.com/WordPress/2007/10/29/how-were-the-americas-peopled/) - [Beringians
+  vindicated!](https://www.gnxp.com/WordPress/2014/02/13/beringians-vindicated/) - [The new paradigm of the peopling of the New
+  World](https://www.gnxp.com/WordPress/2022/02/08/the-new-paradigm-of-the-peopling-of-the-new-world/) - [The Solutrean hypothesis
+  vindicated?](https://www.gnxp.com/WordPress/2011/05/09/the-solutrean-hypothesis-vindicated/) - [Contingent
+  conditions](https://www.gnxp.com/WordPress/2005/08/04/contingent-conditions/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2012%2F07%2F12%2Fthe-past-as-a-cultural-landscape%2F&linkname=The%20past%20as%20a%20cultural%20landscape "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2012%2F07%2F12%2Fthe-past-as-a-cultural-landscape%2F&linkname=The%20past%20as%20a%20cultural%20landscape "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2012%2F07%2F12%2Fthe-past-as-a-cultural-landscape%2F&linkname=The%20past%20as%20a%20cultural%20landscape "Email")[](https://www.addtoany.com/share)

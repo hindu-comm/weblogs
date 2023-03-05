@@ -1,0 +1,42 @@
++++
+title = "The returns on"
+full_title = "The returns on homogeneity"
+date = "2010-06-19"
+upstream_url = "https://www.gnxp.com/WordPress/2010/06/19/the-returns-on-homogeneity/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2010/06/19/the-returns-on-homogeneity/).
+
+The returns on homogeneity
+
+A few days ago on Twitter I wondered if economists had calculated the costs of the world having a diversity of languages, instead of one language. The logic is that unintelligibility naturally throws up barriers to communication, and the flow of ideas and labor. This is one reason why the European Union necessarily has less labor mobility than the United States all things equal, the vast majority of Americans can understand each other to a very high level of clarity, while Europeans can attain this only within their nations. Even in societies where English is widely understood the level fluency variance and lack of uniform idiom may produce a suboptimal *lingua franca* across these English semi-fluent societies.
+
+But [Christopher Burd](https://twitter.com/christopherburd) challenged me on this. He suggested that semi-permeability across cultures may actually be a feature, not a bug. As an example he offered the relative isolation of the Russian academic community, and so its insulation from the orthodoxies of English-speaking linguistics, allowed for the wider acceptance of heterodox models such as the [Nostratic superfamily](https://en.wikipedia.org/wiki/Nostratic_languages). I asked Burd if he was making an analogy to the [shifting balance theory](https://en.wikipedia.org/wiki/Shifting_balance_theory), and he stated that he was.  
+  
+In 20th century evolutionary genetics the importance of population substructure in shaping the arc of adaptation was at the heart of some of the [Fisher-Wright controversies](http://drrob.typepad.com/hpb_etc/2006/07/whatever_happen.html). In short R. A. Fisher conceived of the adaptive landscape as a relatively simple geometry whereby the total census size could be thought of as a breeding population and favored alleles scaled a topography characterized by a single adaptive fitness peak. Sewall Wright’s adaptive landscape exhibited a “rugged” topography, with multiple peaks. The relative genetic isolation between the groups could allow for exploration of the non-additive space of epistatic interactions, as well as temporary shifts through low fitness valleys via random genetic drift.
+
+To some extent the nature of this argument was obscure and nearly intractable in an analytical sense. Will Provine in his biographical treatment of Wright’s ideas has argued that Wright himself had a vague and incoherent conception of his fitness landscapes. In evolutionary genetics fitness landscapes may serve more as illuminating metaphors useful for the general public as opposed crisp models which trigger empirical research programs (see [Sergey Gavrilets](http://www.tiem.utk.edu/~gavrila/) for a contemporary attempt to make sense of fitness landscapes).
+
+But culture is different from genetics. What Christopher Burd was implicitly alluding to I believe is the problem of [herd behavior](https://en.wikipedia.org/wiki/Herd_behavior) among humans; positive feedback loops which swing too far and may be counterproductive. [Fisherian runaway sexual selection](https://en.wikipedia.org/wiki/Fisherian_runaway) is probably the evolutionary genetic analog to the cultural phenomenon of irrational herds. Eventually natural selection kicks in and the positive feedback loop will run up against limits. If a whole species is subject to runaway sexual selection its census size may start decreasing if sexy traits have lower ecological utility than unsexy traits (those with unsexy traits may survive, but may not be able to find mates during the initial stages). Eventually the process will “self-correct” and the runaway will exhaust itself.
+
+By analogy with irrational herds if the whole world shifted toward a crazy idea which spread through positive feedback loops it could cause a great deal of damage before people came to their senses. In contrast, if the world was broken up into distinct segments then the irrationalities would differ, and perhaps some of the societies would benefit from having less destructive irrationalities.
+
+In evolutionary biology the importance of structure beyond the level of the individual has generally been dismissed until recently, when the debate has reemerged. But in the social sciences the methodological individualism of the rational actor has had less of a stranglehold, excepting economics. In regards to my question about language I suppose the bigger framing question is **whether institutions and organizations really matter on a deep level as more than the sum of their parts.** I suppose I lean toward the idea that they do matter, because humans are profoundly social creatures, far more than the vast majority of the world’s organisms. Pluralism of institution and organization, the existence of nation-states, is I think useful for human flourishing. So I suppose I will retract my assumption in the question I posed, because I now think it is an open matter as to whether one world language would truly be beneficial, rather than an open and shut case.
+
+This question also is embedded in more abstract or general issues. Some economic historians have argued that one reason that the United States flourished despite the rise of tariffs in the 19th century was that it was in and of itself a huge free trade zone. In other words there were diminishing returns to trade, and much of what was to be gained in comparative advantage was already gained via the emergence of canal and rail networks within the continent United States. **The extreme linguistic diversity of less developed regions of the world, or even 18th century France and Italy, is probably detrimental to economic growth and economies of scale, but do diminishing returns kick in at some point?** And once diminishing returns kick in is there a point where linguistic difference as a way to foster some distinction between nation-states or groups of nation-states is a net utility positive? I still think that the European Union, for example, would benefit from fewer languages. In particular, speakers of languages with less subscription tend to suffer in my opinion, and they would benefit from “trading up.”
+
+Even more generally what about other markers of cultural distinctiveness? Would the world benefit from one higher religion, or are we in the best of all worlds, where half a dozen religions dominate almost all societies (Christianity, Islam, Hinduism, Buddhism and East Asian religio-philosophy)? It is true that the narcissism of small differences would still be problematic (in Pakistan Sunnis kill Shias and Shias kill Sunnis, in India the conflict is Muslim vs. Hindu, and so forth), but it does seem one world religion would at least result in a commensurability of metaphysical presuppositions (more concretely, for all the differences between Roman Catholics and most Protestant groups, the two groups accept each other as Christians in good standing).
+
+### Related Posts:
+
+- [Linguistic diversity =
+  poverty](https://www.gnxp.com/WordPress/2010/07/15/linguistic-diversity-poverty/) - [What does Mark Thoma
+  mean?](https://www.gnxp.com/WordPress/2007/06/06/what-does-mark-thoma-mean/) - [How to reconstruct the
+  Indo-Europeans](https://www.gnxp.com/WordPress/2011/12/16/how-to-reconstruct-the-indo-europeans/) - [There is no mystery to persistence of some languages
+  despite…](https://www.gnxp.com/WordPress/2021/09/26/there-is-no-mystery-to-persistence-of-some-languages-despite-gene-flow/) - [America, the way we
+  are](https://www.gnxp.com/WordPress/2008/12/31/america-the-way-we-are/) - [Language(s), then and
+  now](https://www.gnxp.com/WordPress/2009/10/20/language-s-then-and-now/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2010%2F06%2F19%2Fthe-returns-on-homogeneity%2F&linkname=The%20returns%20on%20homogeneity "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2010%2F06%2F19%2Fthe-returns-on-homogeneity%2F&linkname=The%20returns%20on%20homogeneity "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2010%2F06%2F19%2Fthe-returns-on-homogeneity%2F&linkname=The%20returns%20on%20homogeneity "Email")[](https://www.addtoany.com/share)

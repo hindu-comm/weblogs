@@ -1,0 +1,70 @@
++++
+title = "You are a mutant!"
+full_title = "You are a mutant!"
+date = "2011-06-12"
+upstream_url = "https://www.gnxp.com/WordPress/2011/06/12/you-are-a-mutant/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2011/06/12/you-are-a-mutant/).
+
+You are a mutant!
+
+[![ResearchBlogging.org](https://i0.wp.com/www.researchblogging.org/public/citation_icons/rb2_large_gray.png?w=640)![ResearchBlogging.org](https://i0.wp.com/www.researchblogging.org/public/citation_icons/rb2_large_gray.png?w=640)](http://www.researchblogging.org)  
+***The Pith**: You are expected to have 30 new mutations which differentiate you from your parents. But, there is wiggle room around this number, and you may have more or less. This number may vary across siblings, and explain differences across siblings. Additionally, previously used estimates of mutation rates which may have been too high by a factor of 2. This may push the “last common ancestor” of many human and human-related lineages back by a factor of 2 in terms of time.*
+
+There’s a new letter in *Nature Genetics* on *de novo* mutations in humans which is sending the headline writers in the press into a natural frenzy trying to “hook” the results into the [X-Men](https://en.wikipedia.org/wiki/X-Men) franchise. I implicitly assume most people understand that they all have new genetic mutations specific and identifiable to them. The important issue in relation to “mutants” as commonly understood is that they have salient identifiable phenotypes, not that they have subtle genetic variants which are invisible to us. Another implicit aspect is that phenotypes are an accurate signal or representation of high underlying mutational load. In other words, if you can *see* that someone is weird in their traits, presumably they are rather strange in their underlying genetics. This is the logic behind models which assume that mutational load has correlates with [intelligence](https://www.amazon.com/exec/obidos/ASIN/038549517X/geneexpressio-20) or [beauty](https://www.amazon.com/exec/obidos/ASIN/0670031100/geneexpressio-20), and these naturally tie back into evolutionary rationales for human aesthetic preferences (e.g., “good genes” models of sexual selection).
+
+[Variation in genome-wide mutation rates within and between human families](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.862.html):
+
+> J.B.S. Haldane proposed in 1947 that the male germline may be more > mutagenic than the female germline…Diverse studies have supported > Haldane’s contention of a higher average mutation rate in the male > germline in a variety of mammals, including humans…Here we present, to > our knowledge, the first direct comparative analysis of male and > female germline mutation rates from the complete genome sequences of > two parent-offspring trios. Through extensive validation, we > identified 49 and 35 germline de novo mutations (DNMs) in two trio > offspring, as well as 1,586 non-germline DNMs arising either > somatically or in the cell lines from which the DNA was derived. Most > strikingly, in one family, we observed that 92% of germline DNMs were > from the paternal germline, whereas, in contrast, in the other family, > 64% of DNMs were from the maternal germline. These observations > suggest considerable variation in mutation rates within and between > families.
+
+From what I gather there’s a straightforward reason why the male germline, the genetic information which is transmitted by sperm to a male’s offspring, is more mutagenetic: **sperm are produced throughout your whole life, and over time replication errors creep in.** This is in contrast to a female’s eggs, where the full complement are present at birth. The fact that mutations creep in through sperm is just a boundary condition of how mutations creep in to the germline in the first place, errors in the [DNA repair](https://en.wikipedia.org/wiki/DNA_repair) process. This is good on rare occasions (in that mutations may actually be fitness enhancing), more often this is bad (in that mutations are fitness detracting), and, oftentimes it is neutral. Remember that in terms of function and fitness a large class of mutations don’t have any effect. Consider the fact that 1 out of 25 people of European descent carry a mutation which can cause cystic fibrosis in the general population if it manifests in a homozygote genotype. But the vast majority of cystic fibrosis mutations are present in people who are heterozygote, and have a conventional functional gene which “masks” the deleterious allele.\* And there are many mutations which are silent even in homozogyote form (e.g., if there is a change in a base at a [synonymous position](https://en.wikipedia.org/wiki/Synonymous_substitution)).
+
+As noted in the letter above until recently estimating mutation rates was a matter of inference. On the broadest canvas one simply looked at differences between two related lineages which had been long separated (e.g., chimpanzee vs. human), and so accumulated many differential mutations, and assayed the differences. It may have been a fine-grained inference in the case of individuals who manifested a disease which exhibited a dominant expression pattern, so that one *de novo* mutation in the offspring could change the phenotype. For most humans this is thankfully not a major issue, and mutations remain cryptic for most of our lives. But no longer. With cheaper sequencing at some point in the near future most of us will have accurate and precise copies of our genomes available to us, and we will be able to see exactly where we have unique mutations which differentiate us from our parents and our siblings.
+
+In this paper the authors took two “trios,” parent-child triplets, and compared their patterns of genetic variation at the scale of the full genome to a very high level of accuracy. Accuracy obviously matters a great deal when you might be looking for *de novo* mutations which are going to be counted on the scale of hundreds when base pairs are counted in billions. In the future when we have billions and billions of genomes on file and omnipotent computational tools I suspect there will be all sorts of ways to ascertain “typicality” of regions of your genome, but in this paper the authors naturally compared the parents to the children. If a mutation is *de novo* it should be underivable from the genetic patterns of the parent. But, sequencing technologies are not perfect, so there’s going to be a high risk for false positives when you are looking for the *de novo* mutations “in the haystack” (e.g., an error in the read of the offspring can be picked up as a mutation).
+
+So they started with \~3,000 candidate *de novo* mutations (DNMs) for each family trio after comparing the genomes of the trios, but narrowed it down further experimentally as they filtered out the false positives. You can read the gory details in the supplements, but it seems that they focused on the identified candidates to see if they were: germline DNMs, non-germline DNMs, variant inherited from the parents, or a false positive call. So it turns out that half of the preliminary DNMs were somatic and about 1% turned out to be germline. Remember that the difference is that the germline mutations are going to be passed on to one’s offspring, while the somatic mutations only have impact on one’s physiological fitness over one’s life history. For the purposes of evolution germline mutations are much more important, though over your lifetime somatic mutations are going to be very important as you age.
+
+After the methodological heavy-lifting the results themselves are interesting, albeit of somewhat limited generalizability because you are focusing on two trios only. Before we examine the results here’s a figure which illustrates the study design:
+
+[![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/06/ng.862-F1.jpeg?resize=600%2C450)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/06/ng.862-F1.jpeg?resize=600%2C450)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/06/ng.862-F1.jpeg)
+
+From what I can gather there are two primary findings in this paper:
+
+1\) Variance in the sex-mediated nature of DNMs across trios. One of the pairs was much closer to expectation. The male germline contribution was responsible for the vast majority of DNMs.
+
+2\) A more precise estimate of human mutational rates which might have implications for “molecular clock” estimates used in evolutionary phylogenetics.
+
+Here are the findings in a figure which shows the 95% confidence intervals around estimated mutation rates:
+
+[![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/06/ng.862-F2.jpeg?resize=600%2C250)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/06/ng.862-F2.jpeg?resize=600%2C250)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/06/ng.862-F2.jpeg)
+
+CEU refers to the sample of white Utah Mormons commonly used in medical genetics, while YRI refers to Yoruba from Nigerians. Remember, these are two families only. That severely limits the power of the insights which you can draw, but already you see that while the CEU trio shows the expected imbalance between male and female contribution to DNMs, the YRI trio does not. But, both of the trios do suggest a lower mutation rate than found in previous studies which inferred the value from species divergence. Here is the portion which is relevant for human evolution: “These apparently discordant estimates can be largely reconciled if the age of **the human-chimpanzee divergence is pushed back to 7 million years**, as suggested by some interpretations of recent fossil finds.” I wouldn’t put my money on this quite yet, going by just this one study, but I’ve been hearing that this paper doesn’t come to this number in a scientific vacuum. Other researchers are converging upon a similar recalibration of mutational rates which might push back the time until the last common ancestor of many divergent hominoid and hominin lineages (including modern humans).
+
+Moving the lens back to the present and of more personal genomic relevance:
+
+> Mutation is a random process and, as a result, considerable variation > in the numbers of mutations is to be expected between contemporaneous > gametes within an individual. If modeled as a Poisson process, the 95% > confidence intervals on a mean of **\~30 DNMs per gamete (as expected > from a mutation rate of \~1 × 10−8) ranges from 20 to 41, which is a > twofold difference.** Truncating selection might act to remove the > most mutated gametes and thus reduce this variation among gametes that > successfully reproduce, however, any additional heterogeneity in > stem-cell ancestry or environment (for example, variation in the > number of cell divisions leading to contemporaneous gametes) would > likely increase inter-gamete variation in the number of mutations.
+
+Using the much smaller marker set obtained from 23andMe I found that two of my siblings are nearly 3 standard deviations apart in in identity-by-descent when it comes to the distribution of full-siblings. In the near future we might be able to ascertain the realized, not just theoretical, extent of mutational load across a family. As noted by the authors **much of this might be a function of paternal age.** Rupert Murdoch has children who are younger than many of his grandchildren, so there are many, many, “natural experiments” out there, as males are having offspring over 40 years apart.
+
+On a societal level we may be able to estimate the exact cost in terms of public health costs of rising mean age of fathers. Personally we may also be able to note the correlations within families between high levels of DNMs and traits of interest such as intelligence and beauty. Compared to more fine-grained tools of ancestry inference I presume this is going to be dynamite. But it isn’t as if we didn’t know siblings varied before.
+
+**Citation:** Donald F Conrad, Jonathan E M Keebler, Mark A DePristo, Sarah J Lindsay, Yujun Zhang, Ferran Casals, Youssef Idaghdour, Chris L Hartl, Carlos Torroja, Kiran V Garimella, Martine Zilversmit, Reed Cartwright, Guy A Rouleau, Mark Daly, Eric A Stone, Matthew E Hurles, & Philip Awadalla (2011). Variation in genome-wide mutation rates within and between human families Nature Genetics : [10.1038/ng.862](10.1038/ng.862)
+
+\* In a random mating population the proportions are defined by the Hardy-Weinberg Equilibrium, p² + 2pq + q² = 1, so where q = 0.04, q² = 0.0016 and 2pq = 0.0768. Heterozygote genotypes of CF outnumber homozygote ones 50 to 1.
+
+**Bloggy addendum:** The first author of this letter is Don Conrad who is a contributor to [Genomes Unzipped](http://www.genomesunzipped.org/).
+
+### Related Posts:
+
+- [Human mutation
+  unveiled](https://www.gnxp.com/WordPress/2013/05/21/human-mutation-unveiled/) - [Why siblings can produce offspring with each
+  other](https://www.gnxp.com/WordPress/2014/07/29/why-siblings-can-produce-offspring-with-each-other/) - [The "unfit"](https://www.gnxp.com/WordPress/2006/09/04/the-unfit/) - [Is human uniqueness a matter of copy
+  number?](https://www.gnxp.com/WordPress/2009/02/12/is-human-uniqueness-a-matter-of-copy-number/) - [We're all Jesus' Children? Some more so
+  than…](https://www.gnxp.com/WordPress/2006/03/17/we-re-all-jesus-children-some-more-so-than-others-probably/) - [Somatic mutations make twins' brain less
+  similar](https://www.gnxp.com/WordPress/2011/05/25/somatic-mutations-make-twins-brain-less-similar/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2011%2F06%2F12%2Fyou-are-a-mutant%2F&linkname=You%20are%20a%20mutant%21 "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2011%2F06%2F12%2Fyou-are-a-mutant%2F&linkname=You%20are%20a%20mutant%21 "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2011%2F06%2F12%2Fyou-are-a-mutant%2F&linkname=You%20are%20a%20mutant%21 "Email")[](https://www.addtoany.com/share)
