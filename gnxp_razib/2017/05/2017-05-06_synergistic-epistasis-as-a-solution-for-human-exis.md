@@ -1,0 +1,60 @@
++++
+title = "Synergistic epistasis as"
+full_title = "Synergistic epistasis as a solution for human existence"
+date = "2017-05-06"
+upstream_url = "https://www.gnxp.com/WordPress/2017/05/06/synergistic-epistasis-as-a-solution-for-human-existence/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2017/05/06/synergistic-epistasis-as-a-solution-for-human-existence/).
+
+Synergistic epistasis as a solution for human existence
+
+[![](https://i0.wp.com/gnxp.com/WordPress/wp-content/uploads/2017/05/51C2YXWQKDL._SX321_BO1204203200_.jpg?resize=300%2C463)![](https://i0.wp.com/gnxp.com/WordPress/wp-content/uploads/2017/05/51C2YXWQKDL._SX321_BO1204203200_.jpg?resize=300%2C463)](https://www.amazon.com/exec/obidos/ASIN/0195128060/geneexpressio-20)[Epistasis](https://en.wikipedia.org/wiki/Epistasis) is one of those terms in biology which has multiple meanings, to the point that even biologists can get turned around (see this 2008 review, [Epistasis — the essential role of gene interactions in the structure and evolution of genetic systems](http://www.nature.com/nrg/journal/v9/n11/full/nrg2452.html), for a little background). Most generically epistasis is the interaction of genes in terms of producing an outcome. But historically its meaning is derived from the fact that early geneticists noticed that crosses between individuals segregating for a Mendelian characteristic (e.g., smooth vs. curly peas) produced results conditional on the genotype of a secondary locus.
+
+Molecular biologists tend to focus on a classical, and often mechanistic view, whereby epistasis can be conceptualized as biophysical interactions across loci. **But population geneticists utilize a statistical or evolutionary definition, where epistasis describesthe extend of deviation from additivity and linearity, with the “phenotype” often being fitness**. This goes back to early debates between R. A. Fisher and Sewall Wright. Fisher believed that in the long run epistasis was not particularly important. Wright eventually put epistasis at the heart of his enigmatic [shifting balance theory](https://en.wikipedia.org/wiki/Shifting_balance_theory), though according to Will Provine in [Sewall Wright and Evolutionary Biology](https://www.amazon.com/exec/obidos/ASIN/0226684733/geneexpressio-20) even he had a difficult time understanding the model he was proposing (e.g., Wright couldn’t remember what the different axes on his charts actually meant all the time).
+
+These different definitions can cause problems for students. A few years ago I was a teaching assistant for a genetics course, and the professor, a molecular biologist asked a question about epistasis. The only answer on the key was predicated on a classical/mechanistic understanding. But some of the students were obviously giving the definition from an evolutionary perspective! (e.g., they were bringing up non-additivity and fitness) Luckily I noticed this early on and the professor approved the alternative answer, so that graders would not mark those using a non-molecular answer down.
+
+My interested in epistasis was fed to a great extent in the middle 2000s by my reading of [Epistasis and the Evolutionary Process](https://www.amazon.com/exec/obidos/ASIN/0195128060/geneexpressio-20). Unfortunately not too many people read this book. I believe this is so because when I just went to look at the [Amazon page](https://twitter.com/razibkhan/status/860755262549917697) it told me that “Customers who viewed this item also viewed” Robert Drews’ [The End of the Bronze Age](https://www.amazon.com/exec/obidos/ASIN/0691025916/geneexpressio-20). As it happened I read this book at about the same time as [Epistasis and the Evolutionary Process](https://www.amazon.com/exec/obidos/ASIN/0195128060/geneexpressio-20)…and to my knowledge I’m the only person who has a very deep interest in statistical epistasis and Mycenaean Greece (if there is someone else out there, do tell).
+
+[![](https://i0.wp.com/gnxp.com/WordPress/wp-content/uploads/2017/05/1118952111.jpg?resize=300%2C431)![](https://i0.wp.com/gnxp.com/WordPress/wp-content/uploads/2017/05/1118952111.jpg?resize=300%2C431)](https://www.amazon.com/exec/obidos/ASIN/1118952111/geneexpressio-20)In any case, when I was first focusedon this topic **genomics was in its infancy.** Papers with 50,000 SNPs in humans were all the rage, and the [HapMap paper](https://www.nature.com/nature/journal/v437/n7063/full/nature04226.html) had literally just been published. A lot has changed.
+
+So I was interestedto see this come out in *Science*, [Negative selection in humans and fruit flies involves synergistic epistasis](http://science.sciencemag.org/content/356/6337/539) ([preprint version](http://biorxiv.org/content/early/2016/07/29/066407)). Since the authors are looking at humans and *Drosophila* and because it’s 2017 I assumed that genomic methods would loom large, and they do.
+
+And as always on the first read through some of the terminology got confusing (various types of statistical epistasis keep getting renamed every few years it seems to me, and it’s hard to keep track of everything). So I went to Google. And because it’s 2017 a citation of the paper and further elucidation popped up in Google Books in[Crumbling Genome: The Impact of Deleterious Mutations on Humans](https://www.amazon.com/exec/obidos/ASIN/1118952111/geneexpressio-20). Weirdly, or not, the book has not been published yet. Since the author is the second to last author on the above paper it makes sense that it would be cited in any case.
+
+[![](https://i0.wp.com/gnxp.com/WordPress/wp-content/uploads/2017/05/Screenshot-2017-05-06-02.43.13.png?resize=400%2C237)![](https://i0.wp.com/gnxp.com/WordPress/wp-content/uploads/2017/05/Screenshot-2017-05-06-02.43.13.png?resize=400%2C237)](http://science.sciencemag.org/content/356/6337/539)So what’s happening in this paper? **Basically they are looking to reduced variance of really bad mutations because a particular type of epistasis amplifies their deleterious impact** (fitness is almost always really hard to measure, so you want to look at proxy variables).
+
+Because*de novo*mutations are rare, they estimate about 7 are in functional regions of the genome (I think this may be high actually), and that the distribution should be [Poisson](https://en.wikipedia.org/wiki/Poisson_distribution). This distribution just tells youthat the mean number of mutations and thevariance of the the number of mutations should be the same (e.g., mean should be 5 and variance should 5).
+
+Epistasis refers (usually) to interactions across loci. That is, different genes at different locations in the genome. Synergistic epistasis means that the total cumulative fitness aftereach successive mutation drops faster than the sum of the negative impact of each mutation. In other words, the negative impact is greater than the sum of its parts. In contrast, antagonistic epistasis produces a situation where new mutations on the tail of the distributions cause a lower decrement in fitness than you’d expect through the sum of its parts (diminishing returns on mutational load when it comes to fitness decrements).
+
+[![](https://i0.wp.com/gnxp.com/WordPress/wp-content/uploads/2017/05/41u1SOjvcL._SX258_BO1204203200_.jpg?resize=260%2C341)![](https://i0.wp.com/gnxp.com/WordPress/wp-content/uploads/2017/05/41u1SOjvcL._SX258_BO1204203200_.jpg?resize=260%2C341)](https://www.amazon.com/exec/obidos/ASIN/0198502311/geneexpressio-20)These two dynamics have an effect the linkage disequilibrium (LD) statistic. This measures the association of two different alleles at two different loci. When populations are recently admixed (e.g., Brazilians) you have a lot of LD because racial ancestry results in lots of distinctive alleles being associated with each other across genomic segments in haplotypes. It takes manygenerations for recombination to break apart these associations so that allelic state at one locus can’t be used to predict the odds of the state at what was an associated locus. **What synergistic epistasis does is disassociate deleterious mutations**. In contrast, antagonistic epistasis results in increased association of deleterious mutations.
+
+Why? Because of selection. If a greater number of mutations means huge fitness hits, then there will strong selection against individuals who randomly segregate out with higher mutational loads. This means that the variance of the mutational load is going to lower than the value of the mean.
+
+How do they figure out mutational load? They focus on the distribution of[LoF](https://macarthurlab.org/lof/) mutations. These are extremely deleterious mutations which are the most likely to be a major problem for function and therefore a huge fitness hit. What they found was that the distribution of LoF mutations exhibited a variance which was 90-95% of a null Poisson distribution. **In other words, there was stronger selection against high mutation counts, as one would predict due to synergistic epistasis**.
+
+They conclude:
+
+> Thus, the average human should carry at least seven de novo > deleterious mutations. If natural selection acts on each mutation > independently, the resulting mutation load and loss in average fitness > are inconsistent with the existence of the human population (1 − e−7 > \> 0.99). To resolve this paradox, it is sufficient to assume that the > fitness landscape is flat only outside the zone where all the > genotypes actually present are contained, so that selection within the > population proceeds as if epistasis were absent (20, 25). However, > **our findings suggest that synergistic epistasis affects even the > part of the fitness landscape that corresponds to genotypes that are > actually present in the population**.
+
+Overall this is fascinating, because evolutionary genetic questions which were still theoretical a little over ten years ago are now being explored with genomic methods. This is part of why I say genomics did not fundamentally revolutionize how we understand evolution. There were plenty of models and theories. **Now we are testing them extremely robustly and thoroughly.**
+
+**Addendum:** Reading this paper reinforces to me how difficult it is to keep up with the literature, and how important it is to know the literature in a very narrow area to get the most out of a paper. Really the citations are essential reading for someone like me who just “drops” into a topic after a long time away….
+
+**Citation:** *Science*,[Negative selection in humans and fruit flies involves synergistic epistasis](http://science.sciencemag.org/content/356/6337/539).
+
+### Related Posts:
+
+- [Epistasis correlates with genomic
+  complexity](https://www.gnxp.com/WordPress/2006/09/27/epistasis-correlates-with-genomic-complexity/) - [Sex &
+  epistasis](https://www.gnxp.com/WordPress/2007/07/27/sex-epistasis/) - [Jim Manzi on
+  epistasis](https://www.gnxp.com/WordPress/2008/10/30/jim-manzi-on-epistasis/) - [More on the
+  landscape....](https://www.gnxp.com/WordPress/2005/07/22/more-on-the-landscape/) - [Biology is what you study, not how you
+  study](https://www.gnxp.com/WordPress/2007/07/10/biology-is-what-you-study-not-how-you-study/) - [Fisher on Epistasis: another
+  Addendum](https://www.gnxp.com/WordPress/2008/07/20/fisher-on-epistasis-another-addendum/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2017%2F05%2F06%2Fsynergistic-epistasis-as-a-solution-for-human-existence%2F&linkname=Synergistic%20epistasis%20as%20a%20solution%20for%20human%20existence "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2017%2F05%2F06%2Fsynergistic-epistasis-as-a-solution-for-human-existence%2F&linkname=Synergistic%20epistasis%20as%20a%20solution%20for%20human%20existence "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2017%2F05%2F06%2Fsynergistic-epistasis-as-a-solution-for-human-existence%2F&linkname=Synergistic%20epistasis%20as%20a%20solution%20for%20human%20existence "Email")[](https://www.addtoany.com/share)

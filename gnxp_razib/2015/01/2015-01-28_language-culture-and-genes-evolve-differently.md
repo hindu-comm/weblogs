@@ -1,0 +1,36 @@
++++
+title = "Language and genes"
+full_title = "Language and genes evolve differently"
+date = "2015-01-28"
+upstream_url = "https://www.gnxp.com/WordPress/2015/01/28/language-culture-and-genes-evolve-differently/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2015/01/28/language-culture-and-genes-evolve-differently/).
+
+Language (culture) and genes evolve differently
+
+[![9780226520438](https://i0.wp.com/www.unz.com/wp-content/uploads/2014/12/9780226520438-200x300.jpg?resize=200%2C300)![9780226520438](https://i0.wp.com/www.unz.com/wp-content/uploads/2014/12/9780226520438-200x300.jpg?resize=200%2C300)](https://www.amazon.com/exec/obidos/ASIN/0226520447/geneexpressio-20)Evolutionary process can be modeled in both genes and culture. The former is defined by vertical transmission, while the latter can be vertical and/or horizontal. Unlike heritable biological traits, cultural phenotypes have no discernible units of inheritance in a straightforward fashion which can be easily mapped. But some of the formal models common in evolutionary genetics are also utilized in social evolution and behavioral ecology.
+
+One of the easiest aspects of culture to gain a comprehension of is language. Unlike other cultural phenomena, such as religion, language is clear and distinct. Many believe that in some way it is a deep biological competency, and in fact would put it outside of the domain culture altogether because of its unique role at the center of the propagation of cultural “memes.” A new paper in *PNAS* explores the correlations of language and genes and geography, [A comparison of worldwide phonemic and genetic variation in human populations](http://www.pnas.org/content/early/2015/01/15/1424033112.abstract) (open access!). In short, **the authors find that the differences in transmission of genes and language result in differences in their patterns of distribution.** The correlation between genes and geography scales over the whole world. The more distant a population is from a focal group of interest, the more genetically different it is. In contrast the signal of linguistic affinity (or lack thereof) exhibits spatial limits, beyond which the linear relation decays. Beyond 10,000 kilometers more distant languages are no more dissimilar.
+
+[![bravo](https://i0.wp.com/www.unz.com/wp-content/uploads/2015/01/bravo-199x300.jpg?resize=199%2C300)![bravo](https://i0.wp.com/www.unz.com/wp-content/uploads/2015/01/bravo-199x300.jpg?resize=199%2C300)](https://www.amazon.com/exec/obidos/ASIN/B0037Z7LCU/geneexpressio-20)There are a few issues to unpack here. First, they used a database of [phonemes](https://en.wikipedia.org/wiki/Phoneme). I have no idea how one would categorize differences using syntactic features, but it strikes me that someone without more familiarity with this field might argue that looking at variation in phonemes is a bit like looking for the key under the lamp. Interestingly the authors found that phoneme similarities transcend language family. In other words, nearness breeds familiarity through horizontal transmission even if the linguistic groups are dissimilar rather than being part of a dialect continuum.
+
+Second, they suggest that one aspect of phonemes and how they differ from genes is that **isolated populations exhibit more richness and diversity, rather than less.** This illustrates that there are differences between genetic and cultural process. Not only is there a great deal of horizontal transmission, but cultural processes are subject to a greater “mutation” rate, and selection can be much more efficacious. The latter is why group level selection is more mathematically plausible for culture than genes; competing demes can be much more distinct in culture than genes because minimal gene flow can equilibrate biological differences, while biased transmission of culture can result in insulation of different groups from homogenization (e.g., inheriting your cultural traits from your father, rather than your mother, who may have been kidnapped from an enemy tribe).
+
+Finally, in line with the high mutation rate of language the authors reject earlier findings that it follows the same serial founder model detected in [a 2005 paper](http://www.pnas.org/content/102/44/15942.full) from some of the same authors. I have to jump in here to suggest that we need be careful about assuming that this paper is a robust result upon which we should build up our model. See [Towards a new history and geography of human genes informed by ancient DNA](http://www.cell.com/trends/genetics/abstract/S0168-9525(14)00120-6) for a slight revision. In any case, the results from the language patterns suggest that Europe is the source of human language, using the same framework as genes where there is a decay of diversity from the ancestral homeland. The authors point out that this is a artifact of the fact that phoneme richness is very low in Oceania and South America, and Europe is equally distant from both regions. In other words **language is too protean to gain a signal of the “Out of Africa” movement.** I do agree with this. It strikes me that those who attempt to reconstruct language as it was 50,000 years ago are grasping for straws. For example, I do not think that we can presume that clicks are ancestral just because the Khoisan have clicks in their language.
+
+The relationship of patterns of genetic variation and cultural variation are essential to elucidate. That is because I believe that we can’t understand patterns of genetic variation without a clear grasp of the common cultural processes by which human genes propagated over time and space. Language is probably the cultural trait that’s lowest down on the tree, so hopefully researchers will keeping picking at it until the big questions get resolved.
+
+### Related Posts:
+
+- [The ways of the forefathers &
+  foremothers](https://www.gnxp.com/WordPress/2010/03/30/the-ways-of-the-forefathers-foremothers/) - [Cladistics & culture - Wilkins responds,
+  etc.](https://www.gnxp.com/WordPress/2006/09/27/cladistics-culture-wilkins-responds-etc/) - [Admixture, cultural and
+  biological](https://www.gnxp.com/WordPress/2015/03/03/admixture-cultural-and-biological/) - [Cultural vs. genetic "group
+  selection"](https://www.gnxp.com/WordPress/2007/03/05/cultural-vs-genetic-group-selection/) - [By our genes, though not
+  alone](https://www.gnxp.com/WordPress/2010/09/14/by-our-genes-though-not-alone/) - [Language vs. genes, similarities &
+  differences](https://www.gnxp.com/WordPress/2008/10/31/language-vs-genes-similarities-differences/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2015%2F01%2F28%2Flanguage-culture-and-genes-evolve-differently%2F&linkname=Language%20%28culture%29%20and%20genes%20evolve%20differently "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2015%2F01%2F28%2Flanguage-culture-and-genes-evolve-differently%2F&linkname=Language%20%28culture%29%20and%20genes%20evolve%20differently "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2015%2F01%2F28%2Flanguage-culture-and-genes-evolve-differently%2F&linkname=Language%20%28culture%29%20and%20genes%20evolve%20differently "Email")[](https://www.addtoany.com/share)

@@ -1,0 +1,32 @@
++++
+title = "Thais may have more"
+full_title = "Thais may have more Indian ancestry than Cambodians and less than Burmese"
+date = "2020-01-25"
+upstream_url = "https://www.gnxp.com/WordPress/2020/01/25/thais-may-have-more-indian-ancestry-than-cambodians-and-less-than-burmese/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2020/01/25/thais-may-have-more-indian-ancestry-than-cambodians-and-less-than-burmese/).
+
+Thais may have more Indian ancestry than Cambodians and less than Burmese
+
+![Click to enlarge](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/Rplot13.jpg?resize=625%2C387&ssl=1)
+
+There were some questions about the Indian ancestry of the Thai. The dataset released by the Reich lab has some Thai. I pulled that data, and some other Southeast Asian groups, and Tamils and Tajiks. The merging only left 62,000 SNPs, but that’s probably enough to answer this question. The PCA above shows the West Eurasian shift of some groups. The Thai definitely seem pulled to the Tamils, and are similar to the Cambodians, but with a bit more Indian ancestry and less “southern” Southeast Asian.
+
+Below the fold are admixture and TreeMix plots. Basically you see what I’m talking about but in more detail. The Indian-like ancestry in the Luzon samples is really Spanish. The Ami and Atyal are Taiwanese aborigines. You see that they have the least West Eurasian ancestry. Even southern mainland Chinese seem to have some of that, indicating long-distance gene flow. But groups like Miao, Vietnamese/Kinh, and Dusun (Austronesians from Borneo) don’t the Indian ancestry that Thai/Lao/Cambodians/Malay have.
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/admixthai.jpg?resize=149%2C300&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/admixthai.jpg?resize=149%2C300&ssl=1)](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/admixthai.jpg?ssl=1)[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/Screenshot-2020-01-24-23.37.09.jpg?resize=150%2C150&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/Screenshot-2020-01-24-23.37.09.jpg?resize=150%2C150&ssl=1)](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/Screenshot-2020-01-24-23.37.09.jpg?ssl=1) [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/Screenshot-2020-01-24-23.37.43.jpg?resize=150%2C150&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/Screenshot-2020-01-24-23.37.43.jpg?resize=150%2C150&ssl=1)](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/Screenshot-2020-01-24-23.37.43.jpg?ssl=1) [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/Screenshot-2020-01-24-23.38.13.jpg?resize=150%2C150&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/Screenshot-2020-01-24-23.38.13.jpg?resize=150%2C150&ssl=1)](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/Screenshot-2020-01-24-23.38.13.jpg?ssl=1) [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/Screenshot-2020-01-24-23.38.54.jpg?resize=150%2C150&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/Screenshot-2020-01-24-23.38.54.jpg?resize=150%2C150&ssl=1)](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/Screenshot-2020-01-24-23.38.54.jpg?ssl=1) [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/Screenshot-2020-01-24-23.40.22.jpg?resize=150%2C150&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/Screenshot-2020-01-24-23.40.22.jpg?resize=150%2C150&ssl=1)](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/Screenshot-2020-01-24-23.40.22.jpg?ssl=1) [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/Screenshot-2020-01-24-23.43.35.jpg?resize=150%2C150&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/Screenshot-2020-01-24-23.43.35.jpg?resize=150%2C150&ssl=1)](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/Screenshot-2020-01-24-23.43.35.jpg?ssl=1) [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/Screenshot-2020-01-24-23.49.29.jpg?resize=150%2C150&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/Screenshot-2020-01-24-23.49.29.jpg?resize=150%2C150&ssl=1)](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/01/Screenshot-2020-01-24-23.49.29.jpg?ssl=1)
+
+### Related Posts:
+
+- [Indian ancestry in Southeast Asia is older than
+  statistical…](https://www.gnxp.com/WordPress/2020/12/29/indian-ancestry-in-southeast-asia-is-older-than-statistical-genetic-tests-suggest/) - [Indian ancestry in Cambodia was present \~2,000 years
+  ago](https://www.gnxp.com/WordPress/2020/01/05/indian-ancestry-in-cambodia-was-present-2000-years-ago/) - [Indian Ancestry In Thailand During the Iron
+  Age](https://www.gnxp.com/WordPress/2020/01/09/indian-ancestry-in-thailand-during-the-iron-age/) - [The Indian admixture into Southeast Asia is not just
+  a…](https://www.gnxp.com/WordPress/2020/01/25/the-indian-admixture-into-southeast-asia-is-not-just-a-function-of-distance/) - [Swidden rice farming does not lead to high
+  population…](https://www.gnxp.com/WordPress/2019/03/13/swidden-rice-farming-does-not-lead-to-high-population-density/) - [Burmese are a bit
+  Bengali](https://www.gnxp.com/WordPress/2018/06/19/south-asian-ancestry-in-southeast-asians/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2020%2F01%2F25%2Fthais-may-have-more-indian-ancestry-than-cambodians-and-less-than-burmese%2F&linkname=Thais%20may%20have%20more%20Indian%20ancestry%20than%20Cambodians%20and%20less%20than%20Burmese "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2020%2F01%2F25%2Fthais-may-have-more-indian-ancestry-than-cambodians-and-less-than-burmese%2F&linkname=Thais%20may%20have%20more%20Indian%20ancestry%20than%20Cambodians%20and%20less%20than%20Burmese "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2020%2F01%2F25%2Fthais-may-have-more-indian-ancestry-than-cambodians-and-less-than-burmese%2F&linkname=Thais%20may%20have%20more%20Indian%20ancestry%20than%20Cambodians%20and%20less%20than%20Burmese "Email")[](https://www.addtoany.com/share)

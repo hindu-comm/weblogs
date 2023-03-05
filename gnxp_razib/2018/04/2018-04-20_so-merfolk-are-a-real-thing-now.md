@@ -1,0 +1,67 @@
++++
+title = "So merfolk are a real"
+full_title = "So merfolk are a real thing now adaptation to diving"
+date = "2018-04-20"
+upstream_url = "https://www.gnxp.com/WordPress/2018/04/20/so-merfolk-are-a-real-thing-now/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2018/04/20/so-merfolk-are-a-real-thing-now/).
+
+So merfolk are a real thing now: adaptation to diving
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/04/merfolk.jpeg?resize=192%2C263&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/04/merfolk.jpeg?resize=192%2C263&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/1440538573/geneexpressio-20/ref=as_at?creativeASIN=0393067785&linkCode=w61&imprToken=UMJ3C18GV4dO9xue2pQJyQ&slotNum=31)When Rasmus Nielsen presented preliminary work on diving adaptations a few years ago at ASHG I really didn’t know what to think. To be honest it seemed kind of crazy. Everyone was freaking out over it…and I guess I should have. But it just seemed so strange I couldn’t process it. High altitude adaptations, I understood. But **underwater adaptations?**
+
+The paper is out now, and open access, [Physiological and Genetic Adaptations to Diving in Sea Nomads](http://www.cell.com/action/showMethods?pii=S0092-8674%2818%2930386-6). There are a lot of moving parts in it, so I really recommend Carl Zimmer’s piece, [Bodies Remodeled for a Life at Sea](https://www.nytimes.com/2018/04/19/science/bajau-evolution-ocean-diving.html?hpw&rref=science&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well):
+
+> On Thursday in the journal Cell, a team of researchers reported a new > kind of adaptation — not to air or to food, but to the ocean. A group > of sea-dwelling people in Southeast Asia have evolved into better > divers. >
+> … >
+> When Dr. Ilardo compared scans from the two villages, she found a > stark difference. The Bajau had spleens about 50 percent bigger on > average than those of the Saluan. >
+> … >
+> Only some Bajau are full-time divers. Others, such as teachers and > shopkeepers, have never dived. But they, too, had large spleens, Dr. > Ilardo found. It was likely the Bajau are born that way, thanks to > their genes. >
+> … >
+> A number of genetic variants have become unusually common in the > Bajau, she found. The only plausible way for this to happen is natural > selection: the Bajau with those variants had more descendants than > those who lacked them.
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/04/10Kexplosion.jpeg?resize=181%2C278&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/04/10Kexplosion.jpeg?resize=181%2C278&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/0465020429/geneexpressio-20/ref=as_at?creativeASIN=0393067785&linkCode=w61&imprToken=UMJ3C18GV4dO9xue2pQJyQ&slotNum=31)As some of you might know [“sea nomads”](https://en.wikipedia.org/wiki/Sea_Gypsies) are common across much of Southeast Asia. The Bajau are just one major group. The anthropology here is not surprising…but the biology most definitely is. For various technical reasons, the authors didn’t have extremely fine-grained genome data (high coverage sequence data, or very high-density chips). So they didn’t do some haplotype-based tests (e.g., iHS), though that might not matter anyhow (see below why). But, looking at the genome-wide relatedness and comparing that to makers which deviated from that expectation, both of which they could do robustly, the authors narrowed in on candidates for targets of selection. From the paper: “Remarkably, **the top hit of our selection scan (Table 1) is SNP rs7158863, located just upstream of BDKRB2, the only gene thus far suggested to be associated with the *diving* response in humans.**”
+
+There are many cases where researchers find selectionsignals in an [ORF](https://en.wikipedia.org/wiki/Open_reading_frame) of unknown function. In this case, the top hit happens to be exactly in light with the biological characteristic you’re already curious about. The alignment is so good it’s hard to believe.
+
+But wait, there’s more! Spleen size variation is not due to variation on just one locus. It’s polygenic, albeit probably dominated by larger effect quantitative trait loci (QTLs) than something like height (so more like skin color). They compared the Bajau to a nearby population, the Saluan, as well as Han Chinese as an outgroup. On the whole the distribution of allele frequency differences should reflect the phylogeny (Han(Bajau, Saluan)). The key is to look for cases where the **Bajau are the outgroup.** From the paper:
+
+> While some of the selection signals uniquely present in the Bajau may > be related to other environmental factors, such as the pathogens, > several of the other top hits also fall in candidate genes associated > with traits of possible importance for diving. Examples include > FAM178B, which encodes a protein that forms a stable complex with > carbonic anhydrase, the primary enzyme responsible for maintaining > carbon dioxide/bicarbonate balance, thereby helping maintain the pH of > the blood….
+
+FAM1788 shows up again later:
+
+> We identified one region overlapping chr2:97627143, which falls in the > gene FAM178B, that falls in the 99% quantile of the genome-wide > distribution for the fD statistic (Martin et al., 2015). **Of the > populations considered, this region exclusively stands out in the > Bajau, and the signal appears strongest when using Denisova as > source.** Notably, this region was also proposed as a candidate for > Denisovan introgression in Oceanic populations by….
+
+What they’re saying here is that the allele at this locus adapted to diving may have come originally from the Denisovans! Remember, we already know that [one of the Tibetan high altitude adaptations come from the Denisovans](http://www.sciencemag.org/news/2014/07/tibetans-inherited-high-altitude-gene-ancient-human). So this isn’t surprising, but it is pretty cool. But most of the other hits don’t seem to be introgressed. That is, they come from modern humans (or have been segregating in our species for a long, long, time).
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/03/eden_in_the_east.jpeg?resize=180%2C279&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/03/eden_in_the_east.jpeg?resize=180%2C279&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/0753806797/geneexpressio-20)Many of the alleles found at high frequencies in the Bajau are found in other populations, just as very low frequencies. **This implies that selection is operating on standing variation.** Another suggestion that this is so is that the widths of the regions of the genome impacted by selection seem rather narrow. In contrast, the Eurasian adaptation to lactose digestion is from a *de novo* mutation, something that wasn’t at high frequency at all in the ancestral humanpopulations. The sweep is strong and powerful around that single mutation, and huge swaps of the genome around it “hitchhiked” along so that on a population-wide level the area around the mutational target was homogenized (basically, a lot of one single original mutant human is found around that causal variant for lactase persistence).
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/04/quant_genetics.jpeg?resize=177%2C285&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/04/quant_genetics.jpeg?resize=177%2C285&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/0582243025/geneexpressio-20)Anyone who has learned basic quantitative genetics knows that one way to change a mean trait value is just to change the allele frequencies at a lot of different loci…over time you’ll have a lot of low-frequency alleles present in an individual which would otherwise never have occurred. Eventually, you can have a median value which is outside of the range of the original distribution. The mechanism here in a dynamic sense seems totally comprehensible, though as Carl Zimmer notes, and the rather short-shrift given in the*Cell*paper suggest, they’re not sure in a proximate sense how the selection is working (i.e., obviously there is a fitness implication but how does it manifest? Do people die? Are they unable to support a family?).
+
+One key issue is to consider the demographic history of these people. The authors tried to model it genetically:
+
+> We found a model compatible with the data that has a divergence time > of ∼16 kya, with subsequent high migration from Bajau to Saluan and > low migration from Saluan to Bajau (for details see STAR Methods). We > note that the estimate of 16 kya may reflect the divergence of old > admixture components shared in different proportions by the Saluan and > the Bajau, similarly to, for example, European populations being > closely related to each other but differing in the proportion of > ancient admixture components….
+
+The authors cite papers which outline the real story about what happened, so they know that the model is somewhat unrealistic. For example, [Ancient genomes document multiple waves of migration in Southeast Asian prehistory](https://www.biorxiv.org/content/early/2018/03/10/279646):
+
+> Southeast Asia is home to rich human genetic and linguistic diversity, > but the details of past population movements in the region are not > well known. Here, we report genome-wide ancient DNA data from thirteen > Southeast Asian individuals spanning from the Neolithic period through > the Iron Age (4100-1700 years ago). Early agriculturalists from Man > Bac in Vietnam possessed a mixture of East Asian (southern Chinese > farmer) and deeply diverged eastern Eurasian (hunter-gatherer) > ancestry characteristic of Austroasiatic speakers, with similar > ancestry as far south as Indonesia providing evidence for an expansive > initial spread of Austroasiatic languages. In a striking parallel with > Europe, later sites from across the region show closer connections to > present-day majority groups, **reflecting a second major influx of > migrants by the time of the Bronze Age.**
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/01/whoweare.png?resize=183%2C276&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/01/whoweare.png?resize=183%2C276&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/110187032X/geneexpressio-20)The upshot is that the **predominant genetic character of Southeast Asia dates to the Neolithic, and to a great extent even more recently.** The deep divergence between two Austronesian groups may be an artifact of drift in one group (probably the Bajau), or different proportions of admixture from the primary ancestral components in maritime Southeast Asia: Austronesian, Austro-Asiatic, and indigenous hunter-gatherer. As per [Lipson 2014](https://www.nature.com/articles/ncomms5689) the Bajau are probably mostly Austronesian but may have Negrito ancestry from the Phillippines, as well as indigenous hunter-gatherer more closely related to Malaysian Negritos. There probably isn’t so much Austro-Asiatic in Sulawesi, but I’d bet the farmers have more of that.
+
+**Ultimately the question here is are the adaptations to diving old or new?** Anthropologists and historians have all sorts of theories, as reported in the Carl Zimmer article and hinted at in the paper. My own bet is that they are both old and new. By this, I mean that some sort of maritime lifestyle was surely practiced by indigenous people between the end of the last Ice Age and the arrival of farmers. But if the variation was present in humans more generally, the Austronesians would probably also have the capacity for the diving adaptations. Mixing with hunter-gatherers and another bout of selection could have done the trick in concert. So the adaptations and lifestyleare old, but the Bajau people may date to the last 2,000 years, and selection within this population may be that recent.
+
+A lot of the answer might be found in looking at the other sea nomad groups….
+
+### Related Posts:
+
+- [We don't know why Ethiopians breathe
+  easy](https://www.gnxp.com/WordPress/2012/12/11/we-dont-know-why-ethiopians-breathe-easy/) - [How the Amhara breathe
+  differently](https://www.gnxp.com/WordPress/2012/01/22/how-the-amhara-breathe-differently/) - [Getting better with
+  age!](https://www.gnxp.com/WordPress/2007/09/10/getting-better-with-age/) - [Born to run?](https://www.gnxp.com/WordPress/2007/04/20/born-to-run/) - [Evolution's gears don't reverse
+  easily](https://www.gnxp.com/WordPress/2011/05/12/evolutions-gears-dont-reverse-easily/) - [From admixture to
+  adaptation](https://www.gnxp.com/WordPress/2014/02/10/from-admixture-to-adaptation/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2018%2F04%2F20%2Fso-merfolk-are-a-real-thing-now%2F&linkname=So%20merfolk%20are%20a%20real%20thing%20now%3A%20adaptation%20to%20diving "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2018%2F04%2F20%2Fso-merfolk-are-a-real-thing-now%2F&linkname=So%20merfolk%20are%20a%20real%20thing%20now%3A%20adaptation%20to%20diving "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2018%2F04%2F20%2Fso-merfolk-are-a-real-thing-now%2F&linkname=So%20merfolk%20are%20a%20real%20thing%20now%3A%20adaptation%20to%20diving "Email")[](https://www.addtoany.com/share)

@@ -1,0 +1,45 @@
++++
+title = "The origins of “Lucky"
+full_title = "The origins of “Lucky Arabia”"
+date = "2019-08-29"
+upstream_url = "https://www.gnxp.com/WordPress/2019/08/29/the-origins-of-lucky-arabia/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2019/08/29/the-origins-of-lucky-arabia/).
+
+The origins of “Lucky Arabia”
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2019/06/arabsmack.jpg?resize=150%2C211&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2019/06/arabsmack.jpg?resize=150%2C211&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B07P77P1V4/geneexpressio-20/ref=as_at?imprToken=3SzvErsqk0uegISbc6B6.g&slotNum=0&imprToken=T99HvL7y.cNmVg.TW4Q7EQ&slotNum=0&imprToken=67TxncJrNOO11LKRkLbXog&slotNum=23&creativeASIN=0878933085&linkCode=w61&imprToken=QiG2bf7fc5-czG6VLZ9cSg&slotNum=164)One of the benefits of reading [Arabs](https://www.amazon.com/exec/obidos/ASIN/B07P77P1V4/geneexpressio-20/ref=as_at?imprToken=3SzvErsqk0uegISbc6B6.g&slotNum=0&imprToken=T99HvL7y.cNmVg.TW4Q7EQ&slotNum=0&imprToken=67TxncJrNOO11LKRkLbXog&slotNum=23&creativeASIN=0878933085&linkCode=w61&imprToken=QiG2bf7fc5-czG6VLZ9cSg&slotNum=164) is that the author is an expert on Yemen, which often gets short-shrift in works focused on the Arab peoples. As noted in the book itself this is not entirely unfair, **insofar as until the past thousand years or so the peoples of Yemen did not even speak “Arabic.”** Rather, they spoke various South Arabian languages more closely related to Semitic Ethiopian languages. In contrast, Arabic’s origins are probably along the northern fringes of the Arabian peninsula.
+
+Historically, the various dialects (some of which are unintelligible to each other) of modern Arabic derive from the Arabic of the Koran, which seems to be quite similar to [Nabataean Arabic](https://en.wikipedia.org/wiki/Nabataean_Arabic). A revisionist model of the origins of the Arab conquests under Islam posits that they emerged at the margins of the Byzantines and Persians, in northern Arabia (where there had been Arabs for over 1,000 years), with the southward locus of the Islamic mythos in the Hejaz a later grafting upon the tradition.
+
+But this post is not about that. Rather, one thing to note is that despite the ethnolinguistic differences between north Arabians (proto-Arabs *qua* Arabs), and south Arabians (the ancestors of Yemenis and Omanis), [Arabs](https://www.amazon.com/exec/obidos/ASIN/B07P77P1V4/geneexpressio-20/ref=as_at?imprToken=3SzvErsqk0uegISbc6B6.g&slotNum=0&imprToken=T99HvL7y.cNmVg.TW4Q7EQ&slotNum=0&imprToken=67TxncJrNOO11LKRkLbXog&slotNum=23&creativeASIN=0878933085&linkCode=w61&imprToken=QiG2bf7fc5-czG6VLZ9cSg&slotNum=164) argues that there was extensive contact and migration between the two very habitable poles of the Arabian peninsula (the fringes of the Fertile Crescent in the north, and the highlands of Yemen in the south).
+
+In the early Islamic period, there was a purported distinction between tribes of the north and the south, but these are often less about geography than genealogy. The [Ghassanids](https://en.wikipedia.org/wiki/Ghassanids) of northern Arabia, who were a major Roman client people for centuries had their origins in the highlands of Yemen. More antiquely it seems likely that the settlement of southern Arabia was due to the impact of agriculturalists whose origins were in the Fertile Crescent, at the beginning of the Holocene.
+
+A new preprint, [Insight into the genomic history of the Near East from whole-genome sequences and genotypes of Yemenis](https://www.biorxiv.org/content/10.1101/749341v1), is broadly consonant with this framework:
+
+> We report high coverage whole genome sequencing data from 46 Yemeni > individuals as well as genome wide genotyping data from 169 Yemenis > from diverse locations. We use this dataset to define the genetic > diversity in Yemen and how it relates to people elsewhere in the Near > East. Yemen is a vast region with substantial cultural and geographic > diversity, but we found little genetic structure correlating with > geography among the Yemenis, probably reflecting continuous movement > of people between the regions. African ancestry from admixture in the > past 800 years is widespread in Yemen and is the main contributor to > the countrys limited genetic structure, with some individuals in > Hudayda and Hadramout having up to 20% of their genetic ancestry from > Africa. In contrast, **individuals from *Maarib* appear to have been > genetically isolated from the African gene flow and thus have genomes > likely to reflect Yemens ancestry before the admixture.** This > ancestry was comparable to the ancestry present during the Bronze Age > in the distant Northern regions of the Near East. After the Bronze > Age, the South and North of the Near East therefore followed different > genetic trajectories: in the North the Levantines admixed with a > Eurasian population carrying steppe ancestry whose impact never > reached as far south as the Yemen, where people instead admixed with > Africans leading to the genetic structure observed in the Near East > today.
+
+By coincidence, Maarib is also the purported homeland of the Ghassanids mentioned above. In any case, it is not surprising that they found such an admixture cline. They note in the paper that the Yemenis exhibit little geographic structure. This could reflect recent settlement and demographic expansion, or, lots of localized gene-flow. I’m putting my money on the former due to the rugged terrain in much of the highlands.
+
+Again, the integrative and assimilative impact of the Islamic period is evident, as all the genetics suggests that the major (if not exclusive) admixture of African ancestry due to slavery occurred within the last 1,000 years. There were pre-Islamic empires in the region, but they had a marginal effect in comparison (the “Asian” admixture in people in southeast Yemen is probably in large part Indian, as they detect R1a Y chromosomes there).
+
+The second issue is that looking at Yemenis from Maarib the authors got a better handle on later Eurasian gene-flow into the Levant. On the order of 20% of the ancestry in the Levant seems to post-date the Bronze Age (pegged by the 1800 BCE Sidon samples). This pulse has shared drift with Ancient North Eurasians. If I had to bet I think the various migrations of barbaric peoples such as the Mitanni and Guti are the likely culprits, along with possible later Roman era overlay. **I suspect that this later gene-flow is why Yemenis are the supposed “source” population of the Eurasian ancestry within Ethiopians in naive admixture analysis.**
+
+Ethiopians lack the later Eurasian pulse with enriched Ancient North Eurasian, just like Yemenis. But, looking at other statistics such as identity by descent tracts the Eurasian ancestry looks more like that of the Levant. For me, the most obvious resolution is that the original Levantine pastoralists who spread Cushitic languages into eastern Africa pre-date the Bronze Age. This means that modern Levantine genetic profiles with too much Ancient North Eurasian are seen as not a good fit in the model, though modern Levantines are in some ways the parent population of **both** these pastoralists and Yemenis.
+
+Finally, I suspect that the presence of South Arabian languages in some parts of Ethiopia indicate later cultural and genetic influence directly from Yemen far later than the expansion of agro-pastoralism. Samples from the highlands of northern Ethiopia are normally a bit enriched for Eurasian ancestry, and I think what we are seeing here are later waves of culturally influential Semitic-speaking peoples even in the greater proportion of non-Sub-Saharan African.
+
+### Related Posts:
+
+- [The genetic palimpsest of the Horn of
+  Africa](https://www.gnxp.com/WordPress/2019/01/10/the-genetic-palimpsest-of-the-horn-of-africa/) - [I'm brown
+  dammit!](https://www.gnxp.com/WordPress/2006/12/30/i-m-brown-dammit/) - [The late emergence of Semitic
+  Ethiopia](https://www.gnxp.com/WordPress/2019/07/08/the-late-emergence-of-semitic-ethiopia/) - [Political unification leads to the spread of
+  languages](https://www.gnxp.com/WordPress/2009/04/21/political-unification-leads-to-the-spread-of-languages/) - [Borders we forget: Saudi Arabia &
+  Yemen](https://www.gnxp.com/WordPress/2010/10/21/borders-we-forget-saudi-arabia-yemen/) - [Salaam](https://www.gnxp.com/WordPress/2007/04/16/salaam/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2019%2F08%2F29%2Fthe-origins-of-lucky-arabia%2F&linkname=The%20origins%20of%20%E2%80%9CLucky%20Arabia%E2%80%9D "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2019%2F08%2F29%2Fthe-origins-of-lucky-arabia%2F&linkname=The%20origins%20of%20%E2%80%9CLucky%20Arabia%E2%80%9D "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2019%2F08%2F29%2Fthe-origins-of-lucky-arabia%2F&linkname=The%20origins%20of%20%E2%80%9CLucky%20Arabia%E2%80%9D "Email")[](https://www.addtoany.com/share)

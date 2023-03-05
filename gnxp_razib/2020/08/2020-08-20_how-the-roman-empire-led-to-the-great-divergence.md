@@ -1,0 +1,36 @@
++++
+title = "How the Roman Empire led"
+full_title = "How the Roman Empire led to the Great Divergence"
+date = "2020-08-20"
+upstream_url = "https://www.gnxp.com/WordPress/2020/08/20/how-the-roman-empire-led-to-the-great-divergence/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2020/08/20/how-the-roman-empire-led-to-the-great-divergence/).
+
+How the Roman Empire led to the Great Divergence
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2019/12/escapefromrome.jpeg?resize=183%2C276&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2019/12/escapefromrome.jpeg?resize=183%2C276&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/0691172188/geneexpressio-20)Joe Henrich argued in [The WEIRDest People in the World: How the West Became Psychologically Peculiar and Particularly Prosperous](https://www.amazon.com/exec/obidos/ASIN/B07RZFCPMD/geneexpressio-20) that the post-Roman order is what you have to look to to understand the nature of Western exceptionalism, and how it led to modernity as we understand it. Walter Schiedel in [Escape from Rome: The Failure of Empire and the Road to Prosperity](https://www.amazon.com/exec/obidos/ASIN/0691172188/geneexpressio-20) makes the same argument. **But whereas Henrich emphasizes the peculiar family system of Western Europe, imposed in part by the Roman Catholic Church, Scheidel engages in geographic determinism of a sort, emphasizing the special position and ecology of Europe after the fall of Rome and how it was conducive to multiple polities.**
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/06/weirdestpeopleintheworld.jpeg?resize=183%2C275&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/06/weirdestpeopleintheworld.jpeg?resize=183%2C275&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B07RZFCPMD/geneexpressio-20)The two books are fundamentally complementary. If Scheidel had written [Escape from Rome](https://www.amazon.com/exec/obidos/ASIN/0691172188/geneexpressio-20) a few years later, I think he would integrate insights from [The WEIRDest People in the World](https://www.amazon.com/exec/obidos/ASIN/B07RZFCPMD/geneexpressio-20).
+
+Perhaps the biggest takeaway from [Escape from Rome](https://www.amazon.com/exec/obidos/ASIN/0691172188/geneexpressio-20) is that the **rise of Rome, and the persistence of the Roman Empire, was something of a miracle.** Scheidel hammers home again and again how the human and physical geography of Europe mitigates against the development of a large unified imperial order analogous to China (he agrees with the argument that proximity to the steppe and large core zones such as the North China plain were critical in the formation of large states over and over).
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/10/warwhatgoodfor.jpeg?resize=182%2C277&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/10/warwhatgoodfor.jpeg?resize=182%2C277&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/0374286000/geneexpressio-20)From what I can tell Scheidel’s argument is that the Roman city-state employed various “social technologies” to mobilize massive armies at a minimal cost. This allowed the Romans to conquer their rivals in the eastern Mediterranean and Carthage through the sheer robustness of their system (the strategy [Quintus Fabius Maximus Verrucosus](https://en.wikipedia.org/wiki/Quintus_Fabius_Maximus_Verrucosus) employed was only possible due to its ability to mobilize). Second, Western and Northern Europe was relatively underdeveloped before the rise of Rome, allowing the Italian power to conquer them in short order. In contrast, after the fall of Rome, the social and political system of Western and Northern Europe was complex and well developed enough that imperial conquests were much more difficult. Peter Heather in [The Fall of the Roman Empire: A New History of Rome and the Barbarians](https://www.amazon.com/exec/obidos/ASIN/0195325419/geneexpressio-20) argues that the existence of the Roman Empire spurred the development of larger barbarian groupings just beyond the limes, which eventually were able to invade the Empire.
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/10/strangep1.jpeg?resize=183%2C275&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/10/strangep1.jpeg?resize=183%2C275&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B01LZKNRFN/geneexpressio-20)To be honest I suspect the “Roman miracle” may have been an inevitable “one-off” exception. By this, I mean that many of the arguments for polycentrism presented by Scheidel really apply to the period after 0 A.D. **The rise of the Empire was going to occur, of some sort, but after its inevitable collapse in Europe, the system was not going to be “rewound” for structural reasons**.
+
+Scheidel accepts Victor Lieberman’s argument in [Strange Parallels](https://www.amazon.com/exec/obidos/ASIN/B01LZKNRFN/geneexpressio-20) that mainland Southeast Asia shares many geographic features with Europe. But the difference between Europe and Southeast Asia is that the Roman Empire served as a cultural template and left institutional legacies that bound European polities together more tightly as a social whole than Southeast Asia. Henrich’s argument about the role of the Western Church in breaking down the power of kindreds in post-Roman Western Europe is contingent upon the Church existing as a powerful **Roman** institution. Not only did Europe benefit from competitive polycentrism, as argued by Scheidel, but Western Europe also benefited from a powerful multinational binding institution which was the “ghost of the Roman Empire,” the Church.
+
+### Related Posts:
+
+- [The Dark Age roots of Western
+  modernity](https://www.gnxp.com/WordPress/2020/07/04/the-dark-age-roots-of-western-modernity/) - [Against the
+  WEIRD!](https://www.gnxp.com/WordPress/2020/10/24/against-the-weird/) - [Open Thread -
+  06/15/2020](https://www.gnxp.com/WordPress/2020/06/15/open-thread-06-15-2020/) - [Asian American kids in the 1970s and 1980s the WEIRDest
+  in…](https://www.gnxp.com/WordPress/2020/06/24/asian-american-kids-in-the-1970s-and-1980s-the-weirdest-in-the-world/) - [The triumph of idealism over materialism in the long
+  run](https://www.gnxp.com/WordPress/2020/07/11/the-triumph-of-idealism-over-materialism-in-the-long-run/) - [A Black
+  Swan?](https://www.gnxp.com/WordPress/2008/11/05/a-black-swan/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2020%2F08%2F20%2Fhow-the-roman-empire-led-to-the-great-divergence%2F&linkname=How%20the%20Roman%20Empire%20led%20to%20the%20Great%20Divergence "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2020%2F08%2F20%2Fhow-the-roman-empire-led-to-the-great-divergence%2F&linkname=How%20the%20Roman%20Empire%20led%20to%20the%20Great%20Divergence "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2020%2F08%2F20%2Fhow-the-roman-empire-led-to-the-great-divergence%2F&linkname=How%20the%20Roman%20Empire%20led%20to%20the%20Great%20Divergence "Email")[](https://www.addtoany.com/share)

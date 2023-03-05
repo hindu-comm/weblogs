@@ -1,0 +1,58 @@
++++
+title = "The lack of progress in"
+full_title = "The lack of progress in science sex differences"
+date = "2016-07-31"
+upstream_url = "https://www.gnxp.com/WordPress/2016/07/31/the-lack-of-progress-in-science-sex-differences/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2016/07/31/the-lack-of-progress-in-science-sex-differences/).
+
+The lack of progress in science: sex differences
+
+[![Pa3fEwuyuzaNqxWWfjkfuQecyVO6IZcSiNsl7n5uEg8](https://i0.wp.com/www.unz.com/wp-content/uploads/2016/07/Pa3fEwuyuzaNqxWWfjkfuQecyVO6IZcSiNsl7n5uEg8.png?resize=600%2C600)![Pa3fEwuyuzaNqxWWfjkfuQecyVO6IZcSiNsl7n5uEg8](https://i0.wp.com/www.unz.com/wp-content/uploads/2016/07/Pa3fEwuyuzaNqxWWfjkfuQecyVO6IZcSiNsl7n5uEg8.png?resize=600%2C600)](https://www.reddit.com/r/dataisbeautiful/comments/4vcxd0/almost_all_men_are_stronger_than_almost_all_women/)  
+The above visualization is from a Reddit thread, [Almost all men are stronger than almost all women](https://www.reddit.com/r/dataisbeautiful/comments/4vcxd0/almost_all_men_are_stronger_than_almost_all_women/). It’s based on grip strength, and basically reiterates my post from last year, [Men Are Stronger Than Women (On Average)](http://www.unz.com/gnxp/men-are-stronger-than-women-on-average/). The same metric, grip strength, is highlighted. The plot above shows that the “great divergence” occurs on the cusp of puberty, exactly when secondary sexual characteristic of males and females become much more pronounced. In my post I pointed out that the **Olympic caliber female German fencers were on the lower end of the male distribution.**
+
+This came to my mind when reading this nice piece in *The New York Times Magazine*, [The Phenom: The most dominant swimmer in the pool this summer is 19-year-old Katie Ledecky. The question isn’t whether she’ll win, but by how much](http://www.nytimes.com/interactive/2016/07/31/magazine/rio-olympics-issue.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=second-column-region&region=top-news&WT.nav=top-news#/katie-ledecky-olympics-rio-the-phenom):
+
+> It’s not unusual for men and women swimmers to train together, but > being in the pool with Ledecky is something that many men can’t > handle. In April, Conor Dwyer, a 6-foot-5, 27-year-old American > swimmer who won a gold medal in the 4-by-200 freestyle relay in > London, gave a revealing interview posted online by USA Swimming. In > it, he talked about male swimmers being “broken” by Ledecky when they > practiced together at the Olympic Training Center in Colorado Springs. >
+> … >
+> Ledecky’s ability to crush men in practice does not necessarily mean > she would defeat them in competition. **There’s a difference between > imposing her will, and perhaps superior conditioning, over the course > of a two-hour practice and doing it in a shorter race in which men’s > generally greater strength provides an advantage.** Her best chance > would probably be in the 1,500 freestyle, which women race at the FINA > World Championships but not at the Olympics. (The men don’t swim the > 800 in the Olympics, so there are the same number of events for male > and female swimmers.) Ledecky’s best time in the event would put her > among the dozen or so top American men and is 25 seconds faster than > their qualifying time at the United States Olympic trials — but it is > much too slow to earn a medal at the Games. On the other hand, because > no other woman offers a real challenge to her, she is never pushed in > that event. I asked Andrew Gemmell, who specializes in the 1,500 free, > a hypothetical question: What if, **in some dystopian swim universe**, > Ledecky was told that there would be no women’s events and that she > would have to try to make the American team by competing with the men > in the 1,500? >
+> His father, who trains her, had told me that he did not think she > could qualify, a feat that under current rules would require her to > finish first or second at the trials. Andrew, who trains side by side > with her, had a different answer. “It would be really difficult, but I > would never bet against her,” he said. “I don’t think anybody knows > yet what she’s capable of.”
+
+[![9781440838101](https://i0.wp.com/www.unz.com/wp-content/uploads/2016/07/9781440838101.jpg?resize=195%2C294)![9781440838101](https://i0.wp.com/www.unz.com/wp-content/uploads/2016/07/9781440838101.jpg?resize=195%2C294)](https://www.amazon.com/Why-Sex-Matters-Darwinian-Behavior-ebook/dp/1440838100?ie=UTF8&redirect=true&tag=geneexpressio-20)I’m a little surprised honestly that the term “dystopian” got in there, **because there are now people with academic appointments arguing for the ending of sex segregation in sports.** Often they are sociologists, who believe all things are socially constructed, and take some element of non-binary aspect to gender to meaning that the distribution of possibilities are entirely flat and arbitrary.
+
+Katie Ledecky has preternatural gifts, as well as opportunities afforded to her by her class status. The whole piece highlights Ledecky’s exceptional physical abilities and mental attributes. **But even it acknowledges she would likely not beat the top men in her events.**
+
+One of the authors of the above book, [Sex Segregation in Sports: Why Separate Is Not Equal](https://www.amazon.com/Why-Sex-Matters-Darwinian-Behavior-ebook/dp/1440838100?ie=UTF8&redirect=true&tag=geneexpressio-20), [Adrienne Milner](https://conditionallyaccepted.com/2015/02/17/invisibly-disabled/), was [interviewed last year](https://news.wbhm.org/feature/2015/sociologists-book-urges-end-of-sex-division-in-sports/) on NPR about the thesis. The interviewer was polite, but a little incredulous. When he brought up biological differences, her response was illuminating, after a fashion.
+
+First, she argued that sex segregation in sport denoted women’s inferiority, and that was a problem. **The fact is that when it comes to strength, especially upper body strength, all the data do suggest that women, on average, are markedly inferior to men.** This is a fact. This fact causes problems. But the fact that this fact causes problems does not entail that we literally deny the fact. At least that’s my opinion.
+
+Second, she analogizes sex and gender as social constructs to race as a social construct. I knew she was going to go there, because this is a rhetorical nuclear option which is going to quickly defenestrate interlocutors. She observes that:
+
+> “We look at race as a social construction. It is not genetic, it is > not biological, and we believe the same is \[true\] for sex … The > male-female dichotomy doesn’t cover everyone, right? We have trans > people, intersex people.”
+
+As I said above, the reporter was incredulous, but he had a hard time responding after Dr. Milner explicitly connected race and sex, because it is the mainstream position now that race is a social construct and lacks any biological basis. The facts may not be on Milner’s side, but she has the theory and the “moral arc of history” backing her. It would take great courage to still dig in and defend reality as it is, as opposed to her preferences.
+
+The reality is that **race and sex/gender are social constructs.** The atom is a social construct. Matter and energy are social constructs. Cities are social constructs. **Everything is a social construct, as we look through the glass darkly.** But social constructs operate on various levels of clarity and distinctiveness and exhibit different levels of pliability and utility. Dalton’s atomic model is profoundly wrong. It has long been superseded by [quantum physical models](https://en.wikipedia.org/wiki/Atomic_theory#First_steps_toward_a_quantum_physical_model_of_the_atom), which have the utility of making correct predictions, whatever their correspondence to reality on a metaphysical level might be. But the Daltonian model is still often implicitly the one introduced to children to allow them to gain some intuition as to the nature of how matter is constituted. In contrast, the [metaphysical](https://en.wikipedia.org/wiki/Thales#Cosmology:_water_as_a_first_principle) ideas of the ancients as to the material nature of the universe are both wrong, and, lacking in utility.
+
+**All models are wrong, but there are still superior and inferior models.** Their measure is in how they correspond to, and predict, reality. Not how they correspond to our ethical judgements of how the universe should be.
+
+Many sociologists dissent from this position. They’ve marched into the academy and taken it over. Because of their ideology that all things are social, they believe they can reshape the fabric of the universe through their own normative preferences. To me this is a problem. I struggle against it. Our deep human intuitions often reject, and recoil, against fragments of reality. But to successfully grapple with reality we need to attempt to understand reality **on its own terms, not our own.**
+
+I may struggle in vain. Could it be the liberal Whiggish scientific moment in history is over? History is written by the winners, but perhaps in the future science will also be written by the winners. I’m not sure that the truth will win out. Perhaps the glass will become darker, rather than clearer. There are genuine difficult empirical questions about the nature of human variation and our dispositions, and how it relates to the values that we hold to be true. **The fact that we’re still discussing sex segregation in sports and how it is unjust illustrates how far we’ve come in the solipsistic and socially constructionist direction.**
+
+Imagine that in the end of days all the mandarins will be sociologists, who come not to bring illumination of the truth, but to determine the nature of the truth for us to agree upon. Perhaps this is the true end of history, as humanity returns to an equilibrium where the bracing aspects of reality are shielded from the masses, which lay indolent in their delusions, while the technocrats and artificial intelligences confront the outside.
+
+### Related Posts:
+
+- [In grip strength a woman in the 90th percentile would be
+  at…](https://www.gnxp.com/WordPress/2017/05/04/in-grip-strength-a-woman-in-the-90th-percentile-would-be-at-the-10th-percentile-for-men/) - [Going beyond the sex "grip strength"
+  binary](https://www.gnxp.com/WordPress/2019/05/08/going-beyond-the-sex-grip-strength-binary/) - [Why men should never hit
+  women](https://www.gnxp.com/WordPress/2015/12/02/why-men-should-never-hit-women/) - [Men are stronger than women (on
+  average)](https://www.gnxp.com/WordPress/2015/02/25/men-are-stronger-than-women-on-average/) - [Sex-specific genetic
+  networks](https://www.gnxp.com/WordPress/2007/07/07/sex-specific-genetic-networks/) - [Heights of female adult film stars: Perfectly
+  average](https://www.gnxp.com/WordPress/2007/11/25/heights-of-female-adult-film-stars-perfectly-average/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2016%2F07%2F31%2Fthe-lack-of-progress-in-science-sex-differences%2F&linkname=The%20lack%20of%20progress%20in%20science%3A%20sex%20differences "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2016%2F07%2F31%2Fthe-lack-of-progress-in-science-sex-differences%2F&linkname=The%20lack%20of%20progress%20in%20science%3A%20sex%20differences "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2016%2F07%2F31%2Fthe-lack-of-progress-in-science-sex-differences%2F&linkname=The%20lack%20of%20progress%20in%20science%3A%20sex%20differences "Email")[](https://www.addtoany.com/share)

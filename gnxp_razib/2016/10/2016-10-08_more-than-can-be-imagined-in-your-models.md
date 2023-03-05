@@ -1,0 +1,43 @@
++++
+title = "More than can be"
+full_title = "More than can be imagined in your models"
+date = "2016-10-08"
+upstream_url = "https://www.gnxp.com/WordPress/2016/10/08/more-than-can-be-imagined-in-your-models/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2016/10/08/more-than-can-be-imagined-in-your-models/).
+
+More than can be imagined in your models
+
+[![Migraciones_austronesias](https://i0.wp.com/www.unz.com/wp-content/uploads/2016/10/Migraciones_austronesias.png?resize=600%2C372)![Migraciones_austronesias](https://i0.wp.com/www.unz.com/wp-content/uploads/2016/10/Migraciones_austronesias.png?resize=600%2C372)](https://en.wikipedia.org/wiki/Austronesian_peoples#/media/File:Migraciones_austronesias.png)[![Ggas_human_soc](https://i0.wp.com/www.unz.com/wp-content/uploads/2016/10/Ggas_human_soc.jpg?resize=205%2C300)![Ggas_human_soc](https://i0.wp.com/www.unz.com/wp-content/uploads/2016/10/Ggas_human_soc.jpg?resize=205%2C300)](https://www.amazon.com/exec/obidos/ASIN/0393317552/geneexpressio-20)One of the most incredible journeys that the human species has undergone is the Austronesian expansion of the past 4,000 years. These maritime peoples seem to have emerged from the islands of Taiwan, and pushed forward south, west, and east, so that their expansion pushed to East Africa, and the fringes of South America. There now also some [circumstantial](http://www.cell.com/current-biology/abstract/S0960-9822(14)01274-3?_returnURL=http%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982214012743%3Fshowall%3Dtrue) [evidence](http://www.sciencedirect.com/science/article/pii/S0960982214012202) that Polynesian contact with the Americas predates the Columbian Exchange. Looking at the map above in hindsight it seems natural to imagine such contacts.
+
+Though **where** the Austronesians went is incredible, their origins are somewhat more opaque, but rather tantalizing. That is because their original expansion was likely just before the horizon of history. In [Guns, Germs, and Steel](https://www.amazon.com/exec/obidos/ASIN/0393317552/geneexpressio-20) Jared Diamond alluded to the [“express train” vs. “slow boat”](https://www.ganino.com/games/Science/science%20magazine%202001-2002/root/data/Science%202001-2002/pdf/2001_v291_n5509/p5509_1735.pdf) models of the expansion. Basically, whether the Lapita peoples rapidly pushed out from Taiwan, or whether there was a long period of coexistence with Melanesians in Near Oceania. Over the past few years genetics seems to have supported the “slow boat” model.
+
+Here is a paper from 2012, [Population Genetic Structure and Origins of Native Hawaiians in the Multiethnic Cohort Study](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0047881):
+
+> The “Express Train” and the “Slow Boat” models of Polynesian migration > are expected to have uniquely distinct genetic signatures on present > day genomes of Native Hawaiians. Under the “Express Train” model, the > proportion of admixture in Native Hawaiians of Melanesian and Asian > ancestry is expected to be near zero, whereas under the “Slow Boat” > model, the proportion of admixture is expected to be substantially > greater than zero. To test these two models, we conducted a supervised > ADMIXTURE analysis using Papuan and Melanesians as one source > population of Polynesians and Han Chinese, She, Cambodian, Japanese, > Yakut, and Yi as surrogates for the second source population of > Taiwanese aborigines \[18\], \[19\]. Importantly, we did not fix > ancestry for the Melanesians or Asians and therefore allowed for > admixture within either ancestral groups–thus, mitigating bias by > earlier admixture processes and allowing for accurate clusters of > ancestry membership. We set K = 2 and estimated in 40 100% Native > Hawaiians an average of 32% and 68% of their genomes to be derived > from Melanesian and Asian origins, respectively (Figure 4). **This > notable proportion of Melanesian admixture (32%) among Native > Hawaiians, substantially greater than zero, lends support of the “Slow > Boat” model of ancestral origins.**
+
+This is not an isolated study. Y chromosomes indicate substantial Melanesian admixture, while the mtDNA does not. One inference then was a “slow boat” model predicated on matrifocality. That is, expanding Polynesian groups were centered around matrilineal lineages, and absorbed Melanesian men into their communities. The above research was from a Hawaiian data set, but the results are consistent across Polynesia in relation the proportion of Melanesian ancestry.
+
+Case closed? No so fast! **Ancient DNA has now been brought to the question, and fundamentally changed our perceptions.** [Genomic insights into the peopling of the Southwest Pacific](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature19844.html):
+
+> The appearance of people associated with the Lapita culture in the > South Pacific around 3,000 years ago1 marked the beginning of the last > major human dispersal to unpopulated lands. However, the relationship > of these pioneers to the long-established Papuan people of the New > Guinea region is unclear. Here we present genome-wide ancient DNA data > from three individuals from Vanuatu (about 3,100–2,700 years before > present) and one from Tonga (about 2,700–2,300 years before present), > and analyse them with data from 778 present-day East Asians and > Oceanians. Today, indigenous people of the South Pacific harbour a > mixture of ancestry from Papuans and a population of East Asian origin > that no longer exists in unmixed form, but is a match to the ancient > individuals. Most analyses have interpreted the minimum of twenty-five > per cent Papuan ancestry in the region today as evidence that the > first humans to reach Remote Oceania, including Polynesia, were > derived from population mixtures near New Guinea, before their further > expansion into Remote Oceanian…**our finding that the ancient > individuals had little to no Papuan ancestry implies that later human > population movements spread Papuan ancestry through the South Pacific > after the first peopling of the islands.**
+
+These results strong indicate that the original Lapita migration **did not** mix with Melanesians. And, the ancient samples share common ancestry with modern Polynesians, so that their heritage persists down to the present. Looking at the distribution of Melanesian ancestry they concluded this admixture occurred on the order of \~1,500 years before the present (their intervals were wide, but the ancient samples serve as a boundary). Additionally, in line with the Y and mtDNA the X chromosome indicated more of the ancient ancestry than the autosome. The authors conclude that “it is also possible that some of these patterns reflect a scenario in which the later movement of Papuan ancestry into Remote Oceania was largely mediated by males  
+who then mixed with resident females.”
+
+The take home message than is that **we need to be more modest with our models.** Without ancient DNA it seems likely that we would not have stumbled onto this result; the ancestry deconvolution methods which date admixture have wide confidence intervals when you go back far in time.
+
+### Related Posts:
+
+- [Austronesians out of the
+  cauldron](https://www.gnxp.com/WordPress/2014/03/17/austronesians-out-of-the-cauldron/) - [The New World in three easy
+  steps](https://www.gnxp.com/WordPress/2010/08/31/the-new-world-in-three-easy-steps/) - [No Polynesian origin for pre-Columbian
+  chickens???](https://www.gnxp.com/WordPress/2008/07/29/no-polynesian-origin-for-pre-columbian-chickens/) - [The Austronesian cultural
+  explosion](https://www.gnxp.com/WordPress/2014/05/29/the-austronesian-cultural-explosion/) - [The Austronesian explosion was crazier than we
+  thought](https://www.gnxp.com/WordPress/2014/10/26/the-austronesian-explosion-was-crazier-than-we-thought/) - [Thor Herydhal was
+  right!](https://www.gnxp.com/WordPress/2020/07/08/thor-herydhal-was-right/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2016%2F10%2F08%2Fmore-than-can-be-imagined-in-your-models%2F&linkname=More%20than%20can%20be%20imagined%20in%20your%20models "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2016%2F10%2F08%2Fmore-than-can-be-imagined-in-your-models%2F&linkname=More%20than%20can%20be%20imagined%20in%20your%20models "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2016%2F10%2F08%2Fmore-than-can-be-imagined-in-your-models%2F&linkname=More%20than%20can%20be%20imagined%20in%20your%20models "Email")[](https://www.addtoany.com/share)

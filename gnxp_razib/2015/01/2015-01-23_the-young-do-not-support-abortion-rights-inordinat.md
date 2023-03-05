@@ -1,0 +1,37 @@
++++
+title = "The young do not support"
+full_title = "The young do not support abortion rights inordinately"
+date = "2015-01-23"
+upstream_url = "https://www.gnxp.com/WordPress/2015/01/23/the-young-do-not-support-abortion-rights-inordinately/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2015/01/23/the-young-do-not-support-abortion-rights-inordinately/).
+
+The young do not support abortion rights inordinately
+
+A few weeks ago I wrote on something [on the data on abortion views](http://www.nytimes.com/2015/01/03/opinion/the-abortion-stereotype.html) for *The New York Times*. The main reason is because of the sort of commentary which is now percolating through the media in response to some abortion related legislation. In particular, the implicitly liberal media.\* As an example of what I mean, Donald Graham in *The Atlantic* has a piece titled [The Republican Party’s Abortion Bind: Female GOP lawmakers withdrew their support for a late-term ban, demonstrating that the leadership is more than just old, white men.](http://www.theatlantic.com/politics/archive/2015/01/the-republican-partys-abortion-bind/384736/) Notice the subhead here, the reference to “old, white men” is the trope which is regularly trotted out. But as I showed in my piece above **there’s no sex difference on the whole when it comes to abortion**, though conservative women are more likely to be pro-life than conservative men. Graham suggests that “female Republican lawmakers…worried that the rape-reporting restriction was too strict, and that the bill would alienate young voters and women from the party.” From [other reporting](http://www.slate.com/articles/news_and_politics/politics/2015/01/the_republican_party_isn_t_as_pro_life_as_you_think_the_gop_s_abortion_stance.html) this is the **perception** of the lawmakers. Graham also makes an allusion to the fact “everyone knows the GOP faces a demographic time bomb, since its voters are older and whiter and more pro-life than the general population, so it’s risky to do anything that might make it harder to win them over.” Yet despite relaying that some Republican lawmakers think the abortion issue alienates younger voters, he acknowledges that that’s not the case, stating that “It’s a surprising and little-known fact that opinions about abortion have barely budged in the American public in the 42 years since *Roe*.” If there was a major secular age effect then attitudes toward abortion would change over time as older cohorts died.
+
+There has been trend in recent years for liberal commentators to decry the fact that the media relays the opinions of politicians without scrutinizing their factual content. But that’s somewhat selective. Here is a case where a group of Republican lawmakers are expressing opinions based on facts which are simply not true. Either they know they are not true, or they are not aware of the facts. The media should perhaps enlighten them. But they’re not, because as it happens the reality is most of the media is not sympathetic to the pro-life position.
+
+Here are the facts, as told by Gallup (found with something called Google) and the General Social Survey. From Gallup a few years back, [Generational Differences on Abortion Narrow: Support for making abortion broadly illegal growing fastest among young adults](http://www.gallup.com/poll/126581/generational-differences-abortion-narrow.aspx). The results show a small trend toward millenials being less supportive of abortion rights than previous generations. I wouldn’t make too big of a deal about this, because the differences are often not that great. But, the trend is real. Rather than being monotonic, there is a pro-choice “peak” among late boomers and gen-Xers, with the oldest cohorts being the most pro-life, but the youngest ones being next in line.
+
+![CatusWildAutoCluster_htm_m2d838ae4](https://i0.wp.com/www.unz.com/wp-content/uploads/2015/01/CatusWildAutoCluster_htm_m2d838ae4-285x300.jpg?resize=285%2C300)![CatusWildAutoCluster_htm_m2d838ae4](https://i0.wp.com/www.unz.com/wp-content/uploads/2015/01/CatusWildAutoCluster_htm_m2d838ae4-285x300.jpg?resize=285%2C300)I repeated the analysis using the “ABANY” variable in the GSS, comparing to age cohorts from 1931 onward. What you can see is that the most pro-choice voters were born between 1951 and 1970. There has been a shift back toward more pro-life positions on the part of gen-Xers, and even more among millenials.
+
+So the young do not support abortion rights to a greater extent than the older cohorts, unless you are talking about senior citizens, though soon enough the most pro-choice generations will actually fall into that category. **The more interesting question is why some Republicans often bring up these sorts of talking points whenever push comes to shove on social issues which they purportedly support.** Even granting the sincerity of the pro-life views of many Republicans, I think the issue is that it’s really not something they want to get into a war over, because it’s not a primary concern for most of the party. They rely on social conservatives, and so faithfully and stridently pay lip service to their concerns, but generally balk at toughing it out when it comes to legislation.
+
+In the end I think Jon Chait is right in his polemic [The Big Con](https://www.amazon.com/exec/obidos/ASIN/B003JTHWMI/geneexpressio-20). Economic conservatives call the final shots, and get results. Republicans oppose tax increases on “job creators” passionately. When it comes to legislation around abortion a large portion of the party heads for the hills. What set of issues do you think the Republican party would shut the government down over?
+
+\* Here I’m not talking about *Mother Jones*, but more mainstream journals. Though most of their writers do not take strident liberal positions, they are personally social liberals, and this usually shows. What set of issues do you think the Republican party would shut the government down over?
+
+### Related Posts:
+
+- [Men and women really don't differ in the generality
+  on…](https://www.gnxp.com/WordPress/2020/09/21/me-and-women-really-dont-differ-in-the-generality-on-abortion/) - [Abortion](https://www.gnxp.com/WordPress/2009/11/08/abortion/) - [Pro forma hand
+  wringing?](https://www.gnxp.com/WordPress/2007/05/12/pro-forma-hand-wringing/) - [Pro forma hand
+  wringing?](https://www.gnxp.com/WordPress/2007/05/12/pro-forma-hand-wringing/) - [Latest op-ed in The New York
+  Times](https://www.gnxp.com/WordPress/2015/01/02/latest-op-ed-in-the-new-york-times/) - [Republican dominated states that are more pro-choice
+  than…](https://www.gnxp.com/WordPress/2022/06/24/republican-dominated-states-that-are-more-pro-choice-than-you-think/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2015%2F01%2F23%2Fthe-young-do-not-support-abortion-rights-inordinately%2F&linkname=The%20young%20do%20not%20support%20abortion%20rights%20inordinately "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2015%2F01%2F23%2Fthe-young-do-not-support-abortion-rights-inordinately%2F&linkname=The%20young%20do%20not%20support%20abortion%20rights%20inordinately "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2015%2F01%2F23%2Fthe-young-do-not-support-abortion-rights-inordinately%2F&linkname=The%20young%20do%20not%20support%20abortion%20rights%20inordinately "Email")[](https://www.addtoany.com/share)

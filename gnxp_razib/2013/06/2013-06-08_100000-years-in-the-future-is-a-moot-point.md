@@ -1,0 +1,39 @@
++++
+title = "100,000 years in the"
+full_title = "100,000 years in the future is a moot point"
+date = "2013-06-08"
+upstream_url = "https://www.gnxp.com/WordPress/2013/06/08/100000-years-in-the-future-is-a-moot-point/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2013/06/08/100000-years-in-the-future-is-a-moot-point/).
+
+100,000 years in the future is a moot point
+
+  
+*H. sapiens sailermoon?*
+
+I’m somewhat interested in genetics and evolution, to engage in a bit of understatement. My friends know this, so whenever a genetics and evolution themed story or meme explodes in the media they ask me about it. A large fraction of the time I get irritated, **because the media often grasps upon very sensational nuggets, distorts them out of shape, and makes genuine understanding difficult.** A few weeks ago it was the [story](http://www.forbes.com/sites/matthewherper/2013/05/31/turning-found-dna-into-portraits-what-an-imagination/?utm_campaign=techtwittersf&utm_source=twitter&utm_medium=social) of an artist being able to reconstruct portraits from DNA, credulously reported by [NPR](http://www.npr.org/2013/05/12/183363361/litterbugs-beware-turning-found-dna-into-portraits) and [The Smithsonian](http://blogs.smithsonianmag.com/artscience/2013/05/creepy-or-cool-portraits-derived-from-the-dna-in-hair-and-gum-found-in-public-places/). As someone who [tries to keep up on the latest genetic research](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1002932)in forensic geneticsI knew the media depictions of what this individual was doing were simply not realistic. Either the artist in question was a fraud, or the media was engaging in conscious or unconscious misrepresentation and conflation. If Matthew Herper’s reporting is correct, and I see no reason to doubt it, seems more likely the [latter than the former](http://www.forbes.com/sites/matthewherper/2013/05/31/turning-found-dna-into-portraits-what-an-imagination/?utm_campaign=techtwittersf&utm_source=twitter&utm_medium=social). Before that there was the [genius Chinese babies meme](http://blogs.discovermagazine.com/gnxp/2013/03/those-genius-chinese-babies/), the robustness of which is attested to by its interjection into [the Geoffrey Miller saga](http://www.psmag.com/health/geoffrey-miller-fat-shaming-tweet-chinese-eugenics-59327/) (an update was offered, but it is still notable that the*original sensationalism* has had more legs than subsequent corrections of that sensationalism). Finally, today there emerged a bizarre critique of weblogs over at[*Current Biology*](http://www.cell.com/current-biology/fulltext/S0960-9822(13)00514-9), which was nicely satirized by [Christie Wilcox.](http://blogs.discovermagazine.com/science-sushi/#.UbLPaUA4t8E)It always strikes me as rich when institutions which still publish in print and have reasonable overhead costs (e.g. editors) make a big show of their oversight, but due to their power and prominence they are often invariably the exact sort of organization which is perfectly placed to launch a ridiculous meme in the first place!
+
+So in this vein today *Forbes* publishes a piece titled [How The Human Face Might Look In 100,000 Years](http://www.forbes.com/sites/parmyolson/2013/06/07/how-the-human-face-might-look-in-100000-years/). I saw this on Twitter and Facebook, and my first thought after seeing the headline was 1) **probably totally unfounded** in substance 2) multiple people are going to try and sound me out on this. That’s exactly what happened. When Herper [asked on Twitter](https://twitter.com/matthewherper/status/343153276193210369) for thoughts on the piece [I responded with a vulgarity](https://twitter.com/razibkhan/status/343153645120016384) and a query as to why the **faces of the future had the hair of men and women of 2013.** I also suggested that [these](http://southparkstudios.mtvnimages.com/shared/downloads/images/season-5/510/image-11.gif?width=320) are more likely to be the faces of the future. Why is the piece so ridiculous? Just click through to [the article](http://www.forbes.com/sites/parmyolson/2013/06/07/how-the-human-face-might-look-in-100000-years/) and you’ll see that the faces of the future look something like [Rick Hunter](https://en.wikipedia.org/wiki/File:Rick_Hunter.JPG) and [Lynn Minmay](https://en.wikipedia.org/wiki/Lynn_Minmay).
+
+As far as the text of the piece **it reminds me of the incoherence of mediocre space opera.** On the one hand humans have access to all sorts of advanced genetic engineering, and yet they value being human-looking due to a mysterious implicit [Orange Catholic Bible](https://en.wikipedia.org/wiki/Orange_Catholic_Bible#Teachings). Actually taking the inferences seriously is even more humorous:
+
+> Eyes will meanwhile get larger, as attempts to colonize Earth’s solar > system and beyond see people living in the dimmer environments of > colonies further away from the Sun than Earth. Similarly, skin will > become more pigmented to lessen the damage from harmful UV radiation > outside of the Earth’s protective ozone.
+
+Does anyone believe that future Titanians will deal with the distance from the sun simply via enlarging their eyes? Even today we have infrared goggles, so one presumes that more modular technologies which one might discard and rotate between are going to be more important. Similarly, the nature of solar radiation is such that one will need more than darker skin. Of course there is likely going to be terraforming, but in that case humans could probably create their own artificial ozone layers as well. For more entertainment read the whole thing.
+
+**The bigger issue is that these sorts of projections into the far future are folly.** It presumes that while technological advancement accelerates by leaps and bounds, our culture is as static as the [Oldowan](https://en.wikipedia.org/wiki/Oldowan). I am very skeptical even of 100 year projections! And you should be too. If technological civilization still exists 100,000 years from now, and our species has not gone through cycles of booms and busts, then I presume that these far future individuals will live in worlds far less recognizable than that of Alvin in [The City and the Stars](https://en.wikipedia.org/wiki/The_City_and_the_Stars). **If the world of 98,000 years A.D. *is* recognizable, then something has seriously gone wrong with technological civilization and human cultural evolution.**
+
+### Related Posts:
+
+- [Eric Cartman interviewed on
+  NPR](https://www.gnxp.com/WordPress/2008/04/05/eric-cartman-interviewed-on-npr/) - [The Human Edge (on
+  NPR)](https://www.gnxp.com/WordPress/2010/07/06/the-human-edge-on-npr/) - [Fear not the
+  gene!](https://www.gnxp.com/WordPress/2012/10/04/fear-not-the-gene/) - [Daily Data Dump
+  (Wednesday)](https://www.gnxp.com/WordPress/2010/05/12/daily-data-dump-wednesday-4/) - [John McWhorter
+  24-7](https://www.gnxp.com/WordPress/2006/01/06/john-mcwhorter-24-7/) - [The dam of ancient DNA starts to
+  break](https://www.gnxp.com/WordPress/2013/01/21/the-dam-of-ancient-dna-starts-to-break/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2013%2F06%2F08%2F100000-years-in-the-future-is-a-moot-point%2F&linkname=100%2C000%20years%20in%20the%20future%20is%20a%20moot%20point "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2013%2F06%2F08%2F100000-years-in-the-future-is-a-moot-point%2F&linkname=100%2C000%20years%20in%20the%20future%20is%20a%20moot%20point "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2013%2F06%2F08%2F100000-years-in-the-future-is-a-moot-point%2F&linkname=100%2C000%20years%20in%20the%20future%20is%20a%20moot%20point "Email")[](https://www.addtoany.com/share)

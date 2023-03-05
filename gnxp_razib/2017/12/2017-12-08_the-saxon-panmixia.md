@@ -1,0 +1,42 @@
++++
+title = "The Saxon Panmixia"
+full_title = "The Saxon Panmixia"
+date = "2017-12-08"
+upstream_url = "https://www.gnxp.com/WordPress/2017/12/08/the-saxon-panmixia/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2017/12/08/the-saxon-panmixia/).
+
+The Saxon Panmixia
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/12/ireland.jpg?resize=625%2C485)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/12/ireland.jpg?resize=625%2C485)](https://www.biorxiv.org/content/early/2017/12/08/230797)  
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/12/the_isles.jpeg?resize=181%2C278)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/12/the_isles.jpeg?resize=181%2C278)](https://www.amazon.com/exec/obidos/ASIN/0195148312/geneexpressio-20)One reason I quite like Norman Davies’ book [The Isles](https://www.amazon.com/exec/obidos/ASIN/0195148312/geneexpressio-20) is that it is a history of Britain and Ireland which explicitly aims to not privilege the story of the English inordinately. As the most powerful and numerous people of the British Isles the English loom large, but in the period between Gildas and Bede things were very different. In the early 600s the Welsh king [Cadwallon ap Cadfan](https://en.wikipedia.org/wiki/Cadwallon_ap_Cadfan) conquered and held Northumbria for a period, northern England from the Irish Sea to the North Sea. But this was the last time that a Celtic monarch held land in eastern England, unless you count the Tudors.
+
+In[The Isles](https://www.amazon.com/exec/obidos/ASIN/0195148312/geneexpressio-20), written at the turn of the century, Davies promotes the view dominant among historians at that time that the transition from British Celtic to Anglo-Saxon occurred through diffusion of elite culture. He alludes to the fact that in the year 700 the law code of Wessex alludes explicitly to the fact the weregild paid for the death of a Saxon was many-fold greater than that paid for a Briton (of the same class status). This suggests that many Britons were still resident in the Anglo-Saxon kingdoms. The contrasting view, which was dominant in the early 20th century, was that the English replaced the Celts *in toto*. The Irish, Welsh, and to some extent the Scots, were viewed as racially distinct from the Germanic English.
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/12/emss-65760-f0001.jpg?resize=300%2C347)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/12/emss-65760-f0001.jpg?resize=300%2C347)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4632200/)2015’s [The fine scale genetic structure of the British population](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4632200/) answered many of these questions. **It turns out the maximal positions were incorrect.** The authors estimate that 10-40% of the ancestry in eastern and southern England (the red positions on the map) derive from Germanic peoples which we might term Saxon, Angles, and Jutes. Even if the fraction is as low as 10% that is not trivial. If we take a value closer to \~25%, unless there were massive reproductive advantages for elites, it could not have just been diffusion from the elite. Archaeologists also see wholesale changes in agricultural patterns in eastern England, indicative of a transfer of a whole folkway.
+
+All that being said it is likely that the majority of the ancestry of the population of England proper descends from Britons. In fact, once the Anglo-Saxon cultural hegemony was established it seems that some elite Britons may also have changed their identity. It is always a curious fact that the names of the first kings in the genealogy of the [House of Wessex](https://en.wikipedia.org/wiki/List_of_monarchs_of_Wessex#House_of_Wessex_family_tree) are distinctively Celtic. Just as Romano-Gallic aristocrats began aping the styles and mores of the Frankish elite in the 6th century, so perhaps some British warlords became Saxons.
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/12/originsoftheirish.jpeg?resize=182%2C277)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/12/originsoftheirish.jpeg?resize=182%2C277)](https://www.amazon.com/exec/obidos/ASIN/0500293309/geneexpressio-20)Using similar methods many of the same authors have now put out a preprint on Ireland, [Insular Celtic population structure and genomic footprints of migration](https://www.biorxiv.org/content/early/2017/12/08/230797). Unlike the earlier work on Britain, they’ve acknowledged the [ancient DNA](http://www.pnas.org/content/113/2/368)results which have reshaped our understanding of population turnover in Ireland. That being said, they are focused on more recent events, as well as spatial structure in the modern era.
+
+Though they don’t have access to as detailed a regional data set as in the earlier work on Britain, in this case, the authors managed to detect a lot of regional population structure within Ireland. Why? Though the Irish are relatively homogeneous, as all Northern Europeans are, looking at long tracts of the genome and the patterns therein can squeeze out more information.
+
+The figure at the top of this post shows how well they can cluster individuals geographically: they’ve basically recapitulated the “map of the British Isles.” There aren’t too many surprises. Western Ireland seems to exhibit greater genetic differences as a function of distance. Probably because it’s less developed, and perhaps because it has been less impacted by outsiders. Ulster and southern Scotland are strongly connected genetically. There are two issues going on here. First, the famous migration of Protestants into this region of Ireland from Scotland and northern England that occurred after the conquest of the 16th century. And second, the earlier migration of Irish to Scotland, which resulted in the creation of the Dal Riata kingdom.
+
+Additionally, the authors detect more admixture in several parts of Ireland from Norse than they had anticipated. The mixing of Scandinavians and Irish created a hybrid culture, the [Norse-Gaels](https://en.wikipedia.org/wiki/Norse%E2%80%93Gaels), which was highly influential around the Irish Sea. So it would not be exactly surprising if there was a greater Scandinavian contribution to Irish ancestry than had been anticipated.
+
+Of greater interest to me is the impact of social-political institutions on the genetic structure or lack thereof. **Both Britain and Ireland have homogenized modal clusters**. In Britain, this is associated with the expanding cultural zone of Anglo-Saxon rule, and later became the core of England. In Ireland, it seems to be the Pale, where Anglo-Norman rule was dominant for many centuries. **Rapid cultural change seems to induce a state of panmixia**. Genetic distinctiveness in the British Isles seems to have persisted in populations which were geographically isolated, or politically insulated, from expansive, assimilative, and integrative cultures. The modal cluster in Ireland is far smaller than in England, which nicely correlates with the much more limited impact of the Anglo-Norman ascendency of the medieval period.
+
+### Related Posts:
+
+- [The Anglo-Saxonization of England happened through a
+  mass…](https://www.gnxp.com/WordPress/2022/09/21/the-anglo-saxonization-of-england-happened-through-a-mass-migration/) - [A day late...](https://www.gnxp.com/WordPress/2005/03/18/a-day-late/) - [Celts & Anglo-Saxons, part
+  n](https://www.gnxp.com/WordPress/2006/07/18/celts-anglo-saxons-part-n/) - [Britons, English, and
+  Dutch](https://www.gnxp.com/WordPress/2011/06/19/britons-english-and-dutch/) - [The English & Irish, together
+  again](https://www.gnxp.com/WordPress/2010/06/24/the-english-are-like-the-irish-genetically/) - [British or
+  English?](https://www.gnxp.com/WordPress/2005/02/06/british-or-english/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2017%2F12%2F08%2Fthe-saxon-panmixia%2F&linkname=The%20Saxon%20Panmixia "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2017%2F12%2F08%2Fthe-saxon-panmixia%2F&linkname=The%20Saxon%20Panmixia "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2017%2F12%2F08%2Fthe-saxon-panmixia%2F&linkname=The%20Saxon%20Panmixia "Email")[](https://www.addtoany.com/share)

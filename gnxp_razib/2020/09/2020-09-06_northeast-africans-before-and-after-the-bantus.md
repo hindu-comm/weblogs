@@ -1,0 +1,62 @@
++++
+title = "Northeast Africans"
+full_title = "Northeast Africans before and after the Bantus"
+date = "2020-09-06"
+upstream_url = "https://www.gnxp.com/WordPress/2020/09/06/northeast-africans-before-and-after-the-bantus/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2020/09/06/northeast-africans-before-and-after-the-bantus/).
+
+Northeast Africans before and after the Bantus
+
+![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/09/africalanguagefamilies.jpg?resize=300%2C340&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/09/africalanguagefamilies.jpg?resize=300%2C340&ssl=1)One of the major changes in our understanding of human genetic demographic patterning across the world over the last twenty years is that we no longer believe most of the extant patterns date to the Last Glacial Maximum \~20,000 years ago. If you do not think this was a view held a generation ago, read Stephen Oppenheimer’s [The Real Eve: Modern Man’s Journey Out of Africa](https://www.amazon.com/exec/obidos/ASIN/0786711922/geneexpressio-20). In a broad sense, the current understanding is reflected in 2014’s [Toward a new history and geography of human genes informed by ancient DNA](https://pubmed.ncbi.nlm.nih.gov/25168683/). There has been a lot of change, and a lot of admixture.
+
+One of the regions subject to this change has been Africa. The expansion of the Bantu-languages across much of the continent seems to have been accompanied by [widespread genetic replacement](https://www.cell.com/cell/pdf/S0092-8674(17)31008-5.pdf). Groups like the Pygmies of the Congo rainforest, the Hadza of Tanzania, and the various Khoi and San people of southern Africa, reflect a broad underlying genetic diversity that was to a great extent erased. Though it is correct that African people as a whole exhibit more genetic diversity than all other people in the world, when looking at genetic variation across peoples (as opposed to within them), Bantu Kenyans and people in Malawai are quite similar.
+
+The reason for this is straightforward. The differentiation of Bantu peoples dates to the last four to one thousand years. This is not a great deal of time for genetic drift to accumulate differences. Rather, a primary avenue for a variation to occur is through admixture with the local substrate, which as noted above did not occur in much of the range of the expansion.
+
+All that being said, **the landscape that the Bantus expanded into obviously wasn’t empty.** And it wasn’t just hunter-gatherers. Ancient DNA and cultural anthropology make it obvious that Cushitic-origin pastoralists occupied large zones of East Africa. They interacted with the Khoi pastoralists of southern Africa at some point, transmitting pastoralism (and some genes!). But to the northeastern edge of the Bantu range, there were other people, who did not speak Afro-Asiatic languages. These are what we today call “Nilo-Saharan” populations.
+
+As can be seen on any language map, the Nilo-Saharan people seem to be squeezed between two expanding cultural zones: the Afro-Asiatic and Bantu. But after the decline of Cushitic speakers in East Africa (due to absorption into expanding Bantus), Nilo-Saharan peoples like the Masai seem to have moved southward, and specialized in pastoralism. Nilo-Saharans are a diverse bunch, and I’m not sure how ethno-linguistically coherent they are. Some of them, like the Masai, seem to have assimilated Cushitic pastoralists. Others, such as the Dinka of Sudan, have almost no Eurasian ancestry.
+
+A new paper in *AJHG*, [High Levels of Genetic Diversity within Nilo-Saharan Populations: Implications for Human Adaptation](https://www.sciencedirect.com/science/article/pii/S0002929720302378), uses whole-genome sequencing to look at the relationships of these peoples to others in Africa. The abstract:
+
+> Africa contains more human genetic variation than any other continent, > but the majority of the population-scale analyses of the African > peoples have focused on just two of the four major linguistic groups, > the Niger-Congo and Afro-Asiatic, leaving the Nilo-Saharan and Khoisan > populations under-represented. In order to assess genetic variation > and signatures of selection within a Nilo-Saharan population and > between the Nilo-Saharan and Niger-Congo and Afro-Asiatic, we > sequenced 50 genomes from the Nilo-Saharan Lugbara population of > North-West Uganda and 250 genomes from 6 previously unsequenced > Niger-Congo populations. We compared these data to data from a further > 16 Eurasian and African populations including the Gumuz, another > putative Nilo-Saharan population from Ethiopia. Of the 21 million > variants identified in the Nilo-Saharan population, **3.57 million > (17%) were not represented in dbSNP and included predicted > non-synonymous mutations with possible phenotypic effects.** We found > greater genetic differentiation between the Nilo-Saharan Lugbara and > Gumuz populations than between any two Afro-Asiatic or Niger-Congo > populations. F3 tests showed that Gumuz contributed a genetic > component to most Niger-Congo B populations whereas Lugabara did not. > We scanned the genomes of the Lugbara for evidence of selective > sweeps. **We found selective sweeps at four loci (SLC24A5, SNX13, > TYRP1, and UVRAG) associated with skin pigmentation, three of which > already have been reported to be under selection.** These selective > sweeps point toward adaptations to the intense UV radiation of the > Sahel.
+
+There are few moving parts in this paper. The three primary ones involve genomics, phylogenetics, and evolutionary and population genetics. Basically, discovering new variation, genetic relationships, and the possibility of adaptation.
+
+As noted in the paper these are under-sequenced populations. Using deep-sequencing they were able to discover variation particular to Nilo-Saharans, more than three million novel variants. This is unsurprising. As a stylized fact non-Africans diverged a bit over 50,000 years ago. If you look for new variants, you’ll find some, but there’s only so much new variation that could accumulate in 50,000 years. In contrast, African populations have lineages that are 100,000 to 300,000 years diverged. This means there is a lot of time for the variation to accumulate (also, less variation lost through bottlenecks due to larger effective population sizes).
+
+Nilo-Saharans are particularly interesting **because many people suspect that they are the closest Sub-Saharan Africans to the ancestors of the people who expanded outside of Africa 50-60,000 years ago.** Part of this is geography, but there are suggestive signs in the genetics this is true (though perhaps the Hadza are the closet to non-Africans?). The main issue with these sorts of suppositions is that the real population history is always more complex than stylized models.
+
+For example, the Bantu expansion is in some ways a “reflux” migration. That is, the people of West Africa seem to be derived mostly from an eastern population which mixed with deeply indigenous local lineages (termed “Basal Human” in some papers). Out of this synthesis emerged the “West African” populations, which eventually adopted an advantageous cultural toolkit 4,000 years ago, and migrated back eastward (the Bantu origins seem on the eastern edge of this western Africa zone).
+
+![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/09/1-s2.0-S0002929720302378-gr2-2.jpg?resize=300%2C286&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/09/1-s2.0-S0002929720302378-gr2-2.jpg?resize=300%2C286&ssl=1)This PCA panel illustrates the major phylogenetic trend. First, you can see the non-African to African cline. It is well known that some Ethiopian groups (usually Semitic language ones) have more West Eurasian than Somalis (Cushitic speakers). But all these Horn of Africa populations are on the cline.
+
+Then there is the West Africa/Bantu vs. Nilo-Saharan cline. There is a strong correlation across East Africa in language and genes, though there has been admixture between various groups. This is why Zambian Bantus are Nilo-Saharan shifted. The migration southward resulted in the assimilation of Cushitic and Nilo-Saharan people.
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/09/1-s2.0-S0002929720302378-gr3.jpg?resize=239%2C300&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/09/1-s2.0-S0002929720302378-gr3.jpg?resize=239%2C300&ssl=1)](https://www.sciencedirect.com/science/article/pii/S0002929720302378#mmc1)The admixture plot recapitulates the same patterns. Note, as observed by Dienekes Pontikos over a decade ago, **the populations of Horn of Africa are mixed between Sub-Saharan African and Eurasian, but their Sub-Saharan African donor population is not Bantu/West African.** Rather, they seem close to Nilo-Saharan populations. The latest work out of Ethiopia I’ve seen suggests admixture between three and two thousand years ago, so that makes temporal sense in terms of the donor populations, as well as the fact that there seem to have been ecological limits to the Bantu cultural package in very arid regions.
+
+The most interesting aspect of this paper though is in regard to adaptation. I’ll just quote:
+
+> Nilo-Saharans have some of the darkest skin tones in the world82 and > the Lugbara generally have a darker skin compared to the Basoga.83 > Skin reflectance is correlated with UV radiation84 and the dark skin > tones of the Nilo-Saharans could be an adaptation to the open savannah > conditions of the Sahel where there is limited tree and cloud cover > and which is predicted by models to be one of the regions of the world > with darkest skin pigmentation UVRAG may be an important contributor > to the exceptionally dark skin tones of the Nilo-Saharans in > conjunction with SNX13 and TYROBP in particular and possibly also > IRF4, TYRP1, HERC2, SLC24A5, and OPRM1.
+
+Nilotic peoples are famously very dark. You may remember some of these genes from other GWAS in regards to pigmentation. [Crawford et al.](https://science.sciencemag.org/content/358/6365/eaan8433) also discussed the selection for darker skin in parts of East Africa due to the ecological pressures. The methods used in this particular paper, such as iHS and EHH, are indicative of relatively recent sweeps.
+
+Humans have been in Africa for hundreds of thousands of years. Many have lived in the savanna. In fact, that’s supposedly our environment of evolutionary adaptiveness. **How is it that Nilotic peoples weren’t already very dark? Did they live in the rainforest?** In other words, I’m a bit confused as to why they moved into the savanna, and where the moved from. It’s not like they were not present on this continent during the Pleistocene. Did solar radiation increase?
+
+The selection story is not what we think in some fundamental way I can’t put my finger on.
+
+### Related Posts:
+
+- [The dam of ancient DNA starts to
+  break](https://www.gnxp.com/WordPress/2013/01/21/the-dam-of-ancient-dna-starts-to-break/) - [Human population replacement as megafaunal
+  extinction](https://www.gnxp.com/WordPress/2016/02/04/human-population-replacement-as-megafaunal-extinction/) - [Out of who knows
+  where](https://www.gnxp.com/WordPress/2012/01/30/out-of-who-knows-where/) - [Two wave theory & the New
+  World](https://www.gnxp.com/WordPress/2006/04/17/two-wave-theory-the-new-world/) - [The hunt for ancient
+  DNA](https://www.gnxp.com/WordPress/2011/08/09/the-hunt-for-ancient-dna/) - [A reticulation + pulse expansion of modern human
+  genetic…](https://www.gnxp.com/WordPress/2017/06/06/a-reticulation-pulse-expansion-of-modern-human-genetic-variation/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2020%2F09%2F06%2Fnortheast-africans-before-and-after-the-bantus%2F&linkname=Northeast%20Africans%20before%20and%20after%20the%20Bantus "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2020%2F09%2F06%2Fnortheast-africans-before-and-after-the-bantus%2F&linkname=Northeast%20Africans%20before%20and%20after%20the%20Bantus "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2020%2F09%2F06%2Fnortheast-africans-before-and-after-the-bantus%2F&linkname=Northeast%20Africans%20before%20and%20after%20the%20Bantus "Email")[](https://www.addtoany.com/share)

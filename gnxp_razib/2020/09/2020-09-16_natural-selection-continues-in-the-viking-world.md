@@ -1,0 +1,47 @@
++++
+title = "Natural selection"
+full_title = "Natural selection continues"
+date = "2020-09-16"
+upstream_url = "https://www.gnxp.com/WordPress/2020/09/16/natural-selection-continues-in-the-viking-world/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2020/09/16/natural-selection-continues-in-the-viking-world/).
+
+Natural selection continues (in the Viking world)
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/09/Screenshot-from-2020-09-16-14-26-00.jpg?resize=600%2C393&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/09/Screenshot-from-2020-09-16-14-26-00.jpg?resize=600%2C393&ssl=1)](https://www.nature.com/articles/s41586-020-2688-8)  
+![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/09/milkmaid.jpeg?resize=201%2C251&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2020/09/milkmaid.jpeg?resize=201%2C251&ssl=1)*Nature* has published a new Viking genomics paper. This morning I didn’t even bother to check it out, as I had other things going on, and there’s been so much ancient DNA from Scandinavia that my thought was “what else could we learn?” Well, it turns out I should have checked it out. **The sample size is large enough that it reinforces and nails home the important point that natural selection in many traits has been continuing across the world.**
+
+[Population genomics of the Viking world](https://www.nature.com/articles/s41586-020-2688-8):
+
+> The maritime expansion of Scandinavian populations during the Viking > Age (about AD 750–1050) was a far-flung transformation in world > history1,2. Here we sequenced the genomes of 442 humans from > archaeological sites across Europe and Greenland (to a median depth of > about 1×) to understand the global influence of this expansion. We > find the Viking period involved gene flow into Scandinavia from the > south and east. We observe genetic structure within Scandinavia, with > diversity hotspots in the south and restricted gene flow within > Scandinavia. **We find evidence for a major influx of Danish ancestry > into England; a Swedish influx into the Baltic; and Norwegian influx > into Ireland, Iceland and Greenland. Additionally, we see substantial > ancestry from elsewhere in Europe entering Scandinavia during the > Viking Age.** Our ancient DNA analysis also revealed that a Viking > expedition included close family members. By comparing with modern > populations, we find that **pigmentation-associated loci have > undergone strong population differentiation during the past > millennium, and trace positively selected loci—including the > lactase-persistence allele of LCT and alleles of ANKA that are > associated with the immune response**—in detail. We conclude that the > Viking diaspora was characterized by substantial transregional > engagement: distinct populations influenced the genomic makeup of > different regions of Europe, and Scandinavia experienced increased > contact with the rest of the continent.
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2019/07/vikings.jpg?resize=140%2C209&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2019/07/vikings.jpg?resize=140%2C209&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/0143118013/geneexpressio-20)The phylogenetic patterns are not surprising at all. I’ve looked at enough Scandinavian genomes from Norway, Sweden, and Denmark, to be able to intuitively figure out the sources of random genomes without a label as long as I know they’re Nordic. The Danes will be south-shifted, the Swedes will be Finn-shifted (unless they’re from the far south across from Denmark), while the Norwegians will be neither. Basically this massive ancient DNA transect just confirms that things such as geographic proximity matters, and, that differential population size matters.
+
+Gene flow from Denmark to Sweden, and from continental Europe into Denmark, is not surprising. This follows naturally from different population sizes, and after extensive Christianization of Denmark, the marriage networks of northern Germany and further south no doubt included Denmark. Perhaps of more interest is confirmation of reflux gene flow from the British Isles into Scandinavia. Some of these individuals may have been slaves, but also likely would be people of mixed background, as was the norm in Iceland Greenland, or even individuals who assimilated into totality to the Scandinavian culture through induction into warbands.
+
+There are lots of details of phylogenomic note. For example, look in the supplements, and it seems that the “Picts” were pretty generic post-Bell Beaker people. Their “mystery” is somewhat solved? On the whole, most of the genomic variation of Northern Europe was established by the Bronze Age, but not all. On the margins, there are subtle and nuanced stories you can tell, and you need a sample size this large to tell that.
+
+The most interesting aspect though is that this dataset confirms what many of us have suspected and seen in other results more tentatively: **natural selection on complex traits is reshaping the human genome, in the past, and now**. In [2016 Field et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5182071/) came out with a paper using pretty intense genomic methods to detect lots of sweeps in the European genome recently, and continuing. The method was persuasive, but the results were perplexing. I didn’t know if they were some strange artifact or not, and when I asked people in that lab at ASHG many of them weren’t sure either. **Ancient DNA shows us that these were not artifacts or flukes, the allele frequencies have been changing over the last 2,000 years.**
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/06/evolutionary_quantitative_genetics.jpeg?resize=183%2C276&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/06/evolutionary_quantitative_genetics.jpeg?resize=183%2C276&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/041212971X/geneexpressio-20)Last year [last year](https://www.gnxp.com/WordPress/2019/05/09/inventing-the-whites-what-hath-fog-wrought/) I noticed that ancient DNA from the Baltic indicates that these people, the palest in the world using most measures, have gotten more lightly complected since the Iron Age. Noticeably so. If you look at the supplements of this paper the pigmentation loci don’t make it as clear. I think on the whole Vikings would not be visually distinctive from modern Scandinavians. But their statistical method makes it hard to refute that this ancient DNA transect is indicative of a reduction in frequency associated with very dark hair in Scandinavia. **The fact that this happened in both the western and eastern Baltic region with culturally distinctive people tells me that some underlying cultural or more likely environmental pressure was being applied.**
+
+And, it is clear we don’t know the whole story with lactase persistence. Denmark and southern Sweden have among the highest percentages in the world, and that’s clearly not a function of the deep past, but sweeps continuing down into the present.
+
+Are Scandinavians exceptional? I doubt it. It’s just that the climate and concentration of researchers mean that there is a whole lot of study and analysis of many individuals across Holocene time periods. Rather, think of them as a “model organism.” Evolution isn’t done with our species, not by a long-shot, and though we can detect a lot of selection in the genome…there is very little clarity why the selection is occurring (i.e., what are humans adapting to?).\*
+
+\* Most human population geneticists seem to be now coming to a consensus that there’s a lot of “soft sweeps” on “standing genetic variation.” Since a lot of these soft sweeps happen at a lot of genomic positions, strong selection for trait *x* is going to result in side effects on a lot of other traits. The “genetic correlation.”
+
+### Related Posts:
+
+- [The genomics of the Viking
+  Age](https://www.gnxp.com/WordPress/2019/07/17/the-genomics-of-the-viking-age/) - [The cats came, they conquered, and they
+  purred](https://www.gnxp.com/WordPress/2016/09/20/the-cats-came-they-conquered-and-they-purred/) - [The abuse of ancestry testing is bad for personal
+  genomics](https://www.gnxp.com/WordPress/2013/02/25/the-abuse-of-ancestry-testing-is-bad-for-personal-genomics/) - [Shield-maidens, fact and
+  fiction](https://www.gnxp.com/WordPress/2022/05/01/shield-maidens-fact-and-fiction/) - [Open Thread: Ash and
+  Elm...](https://www.gnxp.com/WordPress/2023/02/02/open-thread-ash-and-elm/) - [More on recombination & natural
+  selection](https://www.gnxp.com/WordPress/2010/03/28/more-on-recombination-natural-selection/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2020%2F09%2F16%2Fnatural-selection-continues-in-the-viking-world%2F&linkname=Natural%20selection%20continues%20%28in%20the%20Viking%20world%29 "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2020%2F09%2F16%2Fnatural-selection-continues-in-the-viking-world%2F&linkname=Natural%20selection%20continues%20%28in%20the%20Viking%20world%29 "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2020%2F09%2F16%2Fnatural-selection-continues-in-the-viking-world%2F&linkname=Natural%20selection%20continues%20%28in%20the%20Viking%20world%29 "Email")[](https://www.addtoany.com/share)

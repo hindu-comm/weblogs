@@ -1,0 +1,37 @@
++++
+title = "There could be 100"
+full_title = "There could be 100 million genotyping kits sold by January 1st 2020"
+date = "2018-08-26"
+upstream_url = "https://www.gnxp.com/WordPress/2018/08/26/there-could-be-100-million-genotyping-kits-sold-by-january-1st-2020/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2018/08/26/there-could-be-100-million-genotyping-kits-sold-by-january-1st-2020/).
+
+There could be 100 million genotyping kits sold by January 1st 2020
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/08/kitsByYear.png?resize=600%2C373&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/08/kitsByYear.png?resize=600%2C373&ssl=1)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1506-1)  
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/08/13059_2018_1506_Fig1_HTML.jpg?resize=300%2C222&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/08/13059_2018_1506_Fig1_HTML.jpg?resize=300%2C222&ssl=1)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1506-1)The figure to the right is from the comment David Mittelman and I wrote for [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1506-1), [Consumer genomics will change your life, whether you get tested or not](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1506-1). The original numbers are from [ISOGG](https://isogg.org/wiki/Autosomal_DNA_testing_comparison_chart), which does a great job collating information from a variety of sources. When final revisions for the comment were due, we only found data up to 5/1/2018.
+
+That being said, I thought it would be useful to generate a chart where I combined and smoothed the results from the various companies. It is clear that the period after 2016 is when you see massive takeoff and adoption, driven first by [Ancestry](https://www.amazon.com/exec/obidos/ASIN/B00TRLVKW0/geneexpressio-20/ref=as_at/?imprToken=KR8R04HmBKSBniuZHuV8Mw&slotNum=40&creativeASIN=0878933085&linkCode=w61&imprToken=QiG2bf7fc5-czG6VLZ9cSg&slotNum=164), but later by [23andMe](https://www.amazon.com/exec/obidos/ASIN/B01LZ5K87Z/geneexpressio-20/ref=as_at/?imprToken=kkhfYlYNLpyTjAFAO.tJKg&slotNum=40&creativeASIN=0878933085&linkCode=w61&imprToken=QiG2bf7fc5-czG6VLZ9cSg&slotNum=164) joining the race. The other companies have been increasing their sales as well, with new players such as [MyHeritage](https://www.amazon.com/exec/obidos/ASIN/B072SY5JHQ/geneexpressio-20/ref=as_at/?imprToken=kkhfYlYNLpyTjAFAO.tJKg&slotNum=40&creativeASIN=0878933085&linkCode=w61&imprToken=QiG2bf7fc5-czG6VLZ9cSg&slotNum=164) making a big play.
+
+All this makes me wonder: what does the future have it store? Year-to-year the total number of kits in circulation were doubling in 2013 and 2014. That rate dropped to \~1.6-fold increases in 2015 and 2016. A lot of this is due to[23andMe](https://www.amazon.com/exec/obidos/ASIN/B01LZ5K87Z/geneexpressio-20/ref=as_at/?imprToken=kkhfYlYNLpyTjAFAO.tJKg&slotNum=40&creativeASIN=0878933085&linkCode=w61&imprToken=QiG2bf7fc5-czG6VLZ9cSg&slotNum=164) turning away from customer acquisition (more marketing always leads to more sales). With[23andMe](https://www.amazon.com/exec/obidos/ASIN/B01LZ5K87Z/geneexpressio-20/ref=as_at/?imprToken=kkhfYlYNLpyTjAFAO.tJKg&slotNum=40&creativeASIN=0878933085&linkCode=w61&imprToken=QiG2bf7fc5-czG6VLZ9cSg&slotNum=164) competingwith [Ancestry](https://www.amazon.com/exec/obidos/ASIN/B00TRLVKW0/geneexpressio-20/ref=as_at/?imprToken=KR8R04HmBKSBniuZHuV8Mw&slotNum=40&creativeASIN=0878933085&linkCode=w61&imprToken=QiG2bf7fc5-czG6VLZ9cSg&slotNum=164) again in 2017 one saw a \>2.5-fold increase in the number of kits sold.
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/exploringpersonalgenomics.jpeg?resize=196%2C257&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/exploringpersonalgenomics.jpeg?resize=196%2C257&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B00C7S753I/geneexpressio-20/ref=as_at/?imprToken=xIlpguYgNH89KY4LnN2ixg&slotNum=0&imprToken=VdcOIiX2dlVvIXkGiO3Z3w&slotNum=39&creativeASIN=0878933085&linkCode=w61&imprToken=QiG2bf7fc5-czG6VLZ9cSg&slotNum=164)My back-of-the-envelope calculations indicate that around 1.8 million kits were being sold per month between the big players in the first in the first 4 months of 2018. That’s about 18 million kits this year. That means 29 million kits total in circulation by January 1st of 2019. The wildcard here though is that this space is “consumer”, which means that a disproportionate number of kits are going to be sold between Halloween and Christmas. Extrapolating from the period between January 1st to May 1st, as I’m doing above, could be way too conservative.
+
+The sales in markets outside of the USA, along with customer acquisition through marketing, need to keep increasing up until January 1st of 2020 for there to be 100 million kits sold. **But I think it’s very possible**. I’m on the bubble of saying even likely. The wholesale price of arrays (the chips) keeps decreasing, so the price point of the consumer product is also decreasing. This isn’t a situation where the market is growing linearly, it’s exponential. A few positive shocks here and there 100 million by January 1st of 2020 may seem conservative.
+
+**Addendum**: There has been some confusion in the media between sequencing and genotyping platforms. These are different technologies. Genotyping platforms, SNP-arrays, are targeting a genome-wide subset of polymorphisms. 23andMe’s current chip seems to probe about 630,000 markers. The whole genome consists of 3 billion bases. In the 2020s sequencing will probably replace targeted genotyping arrays in consumer products, but it will probably really come to the fore first in the medical space.
+
+### Related Posts:
+
+- [Consumer Genomics in 2018, beyond the future's
+  threshold](https://www.gnxp.com/WordPress/2018/08/20/consumer-genomics-2018/) - [Personal genomics
+  lives!](https://www.gnxp.com/WordPress/2018/04/16/personal-genomics-lives/) - [Introducing
+  DNAGeeks.com](https://www.gnxp.com/WordPress/2017/11/02/introducing-dnageeks-com/) - [Sequence them all and let God sort it
+  out!](https://www.gnxp.com/WordPress/2018/09/14/sequence-them-all-and-let-god-sort-it-out/) - [At least today we can explore personal
+  genomics](https://www.gnxp.com/WordPress/2018/07/02/at-least-today-we-can-explore-personal-genomics/) - [Personal genomics gets very
+  personal](https://www.gnxp.com/WordPress/2011/03/30/personal-genomics-gets-very-personal/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2018%2F08%2F26%2Fthere-could-be-100-million-genotyping-kits-sold-by-january-1st-2020%2F&linkname=There%20could%20be%20100%20million%20genotyping%20kits%20sold%20by%20January%201st%202020 "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2018%2F08%2F26%2Fthere-could-be-100-million-genotyping-kits-sold-by-january-1st-2020%2F&linkname=There%20could%20be%20100%20million%20genotyping%20kits%20sold%20by%20January%201st%202020 "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2018%2F08%2F26%2Fthere-could-be-100-million-genotyping-kits-sold-by-january-1st-2020%2F&linkname=There%20could%20be%20100%20million%20genotyping%20kits%20sold%20by%20January%201st%202020 "Email")[](https://www.addtoany.com/share)

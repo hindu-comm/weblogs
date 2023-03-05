@@ -1,0 +1,33 @@
++++
+title = "Most people gain from"
+full_title = "Most people gain from resistance training"
+date = "2015-12-18"
+upstream_url = "https://www.gnxp.com/WordPress/2015/12/18/most-people-gain-from-resistance-training/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2015/12/18/most-people-gain-from-resistance-training/).
+
+Most people gain from resistance training
+
+[![The_Sports_Gene_Book_Cover_2013](https://i0.wp.com/www.unz.com/wp-content/uploads/2015/12/The_Sports_Gene_Book_Cover_2013.jpg?resize=257%2C388)![The_Sports_Gene_Book_Cover_2013](https://i0.wp.com/www.unz.com/wp-content/uploads/2015/12/The_Sports_Gene_Book_Cover_2013.jpg?resize=257%2C388)](https://www.amazon.com/exec/obidos/ASIN/B00AEDDQKE/geneexpressio-20)Can everyone get stronger, bigger, and more fit, from [resistance training](https://en.wikipedia.org/wiki/Strength_training)? Well, not literally everyone, but the vast majority of people. In the [comments](http://www.unz.com/gnxp/everyone-knows-how-to-get-shredded/#comment-1264095) [Jason Malloy](http://humanvarieties.org/author/jasonmalloy/) made a reference to David Epstein’s [The Sports Gene](https://www.amazon.com/exec/obidos/ASIN/B00AEDDQKE/geneexpressio-20), where there is mention of people who don’t respond to strength (or endurance) training. I don’t doubt such people exist; I just doubt that they’re that numerous.
+
+As it happens I have a copy of [The Sports Gene](https://www.amazon.com/exec/obidos/ASIN/B00AEDDQKE/geneexpressio-20). I haven’t read it because I have a lot to read ([Consciousness and the Brain](https://www.amazon.com/exec/obidos/ASIN/B00DMCVXO0/geneexpressio-20) is as good as some readers reported!), and frankly the marginal return for me toward reading books on genetics as opposed to papers is often not that much. But I skimmed through [The Sports Gene](https://www.amazon.com/exec/obidos/ASIN/B00AEDDQKE/geneexpressio-20) just now, **and I have to say it’s very good.** There’s a chapter on sex differences and it reports all the results I’ve been blogging about with amazement recently. If I’d read Epstein’s book I wouldn’t have been quite so surprised. He reports that men have 80 percent more upper body muscle mass, about 50 percent more lower body muscle mass, that our punches are twice as powerful, and that the average man has more upper body strength than 997 out of 1000 women drawn at random.
+
+[![Screenshot from 2015-12-17 23:09:28](https://i0.wp.com/www.unz.com/wp-content/uploads/2015/12/Screenshot-from-2015-12-17-230928.png?resize=400%2C338)![Screenshot from 2015-12-17 23:09:28](https://i0.wp.com/www.unz.com/wp-content/uploads/2015/12/Screenshot-from-2015-12-17-230928.png?resize=400%2C338)](https://www.researchgate.net/publication/7794282_Variability_in_muscle_size_and_strength_gain_after_unilateral_resistance_training)**But I was interested about the research Malloy pointed to.** Probably the best paper was [Variability in Muscle Size and Strength Gain after Unilateral Resistance Training](https://www.researchgate.net/profile/Heather_Gordish-Dressman/publication/7794282_Variability_in_muscle_size_and_strength_gain_after_unilateral_resistance_training/links/09e41510b06b11712a000000.pdf). My intuition that you need to be pathological to exhibit no gains from strength training is probably too strong. As the distribution to the right shows \~5-10% of men and women seem to show **no gains in muscle mass in the bicep after 3 months of training.** The sample size was 585, and included men and women. But, the modal gain was \~25% for men and \~20% for women.
+
+[![Screenshot from 2015-12-17 23:15:12](https://i0.wp.com/www.unz.com/wp-content/uploads/2015/12/Screenshot-from-2015-12-17-231512.png?resize=350%2C310)![Screenshot from 2015-12-17 23:15:12](https://i0.wp.com/www.unz.com/wp-content/uploads/2015/12/Screenshot-from-2015-12-17-231512.png?resize=350%2C310)](https://www.researchgate.net/publication/7794282_Variability_in_muscle_size_and_strength_gain_after_unilateral_resistance_training)Out of 585 subjects, 232 subjects showed an increase in muscle size of between 15 and 25%. Ten subjects gained over 40%, while 36 subjects gained less than 5%. The distribution of gains in strength on the bicep curl motion were somewhat more erratic, but again, most men and women gained strength. For strength 232 subjects showed an increase of between 40 and 60%. Out of 585, 36 subjects gained over 100%, while 12 subjects gained less than 5%. Interestingly, **women gained more in relative terms in relation to strength than men did.**
+
+In short, these results indicate that there’s about a 90% chance that you’ll see appreciable gains in size and strength with resistance training. The results will vary, but the average person seems to gain about 20 to 25 percent in mass. My on and off trainer (some postdocs have interesting past careers) always tells me to focus on myself and not all the jacked up monsters in the gym, but now that I have a sense of the average returns to normal amounts of resistance training it strikes me I’m about average in relation to gains in size and strength in the upper body. If this is genetic then it’s not surprising, as both my brothers have had periods of lifting (one of them pretty regularly through his life) and gain at minimum normal amounts of muscle mass.
+
+### Related Posts:
+
+- [The Sports Gene, not as reductive as the
+  title](https://www.gnxp.com/WordPress/2013/08/06/the-sports-gene-not-as-reductive-as-the-title/) - [Diversity Training in
+  Action](https://www.gnxp.com/WordPress/2006/11/05/diversity-training-in-action/) - [Boredom](https://www.gnxp.com/WordPress/2009/09/27/boredom/) - [Pinker on the gay
+  gene](https://www.gnxp.com/WordPress/2005/05/17/pinker-on-the-gay-gene/) - [In grip strength a woman in the 90th percentile would be
+  at…](https://www.gnxp.com/WordPress/2017/05/04/in-grip-strength-a-woman-in-the-90th-percentile-would-be-at-the-10th-percentile-for-men/) - [Meet the
+  Neets](https://www.gnxp.com/WordPress/2005/03/27/meet-the-neets/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2015%2F12%2F18%2Fmost-people-gain-from-resistance-training%2F&linkname=Most%20people%20gain%20from%20resistance%20training "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2015%2F12%2F18%2Fmost-people-gain-from-resistance-training%2F&linkname=Most%20people%20gain%20from%20resistance%20training "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2015%2F12%2F18%2Fmost-people-gain-from-resistance-training%2F&linkname=Most%20people%20gain%20from%20resistance%20training "Email")[](https://www.addtoany.com/share)

@@ -1,0 +1,43 @@
++++
+title = "David Reich has Two"
+full_title = "David Reich has Two Postdoctoral positions"
+date = "2016-03-29"
+upstream_url = "https://www.gnxp.com/WordPress/2016/03/29/david-reich-has-two-post-doctoral-positions/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2016/03/29/david-reich-has-two-post-doctoral-positions/).
+
+David Reich has Two Post-doctoral positions
+
+It has recently come to my attention that [David Reich](http://genetics.med.harvard.edu/reich/Reich_Lab/Jobs.html) has two post-doctoral positions open which might interest readers of this weblog. Since I really enjoy writing about the research that his lab produces it is in my interest that he find the right people to work on the projects that he has. **If you are one of those rare people in the world who has a background in history *and* statistical population genetics or data science this might be for you!** Here are the [listings](http://genetics.med.harvard.edu/reich/Reich_Lab/Jobs.html), ignore the deadline date as they have been extended:
+
+> **1) Post-doctoral fellow: Ancient DNA** >
+> Our ancient DNAlaboratory has pioneered large-scale studies of human > population history with large numbers of samplessimultaneously and we > are looking for a highly motivated post-doctoral researcher with > appropriate experienceand interests to work on analysis of these > data. >
+> The successful candidate will have previous experience in a world > class ancient DNA laboratory, as well asanalytical and computer > skills that allow exploration of large and complex genetic data sets. >
+> Description of additional projects in our lab, as well as papers we > have recently published, is > provided[here](http://genetics.med.harvard.edu/reichlab/Reich_Lab/Welcome.html "http://genetics.med.harvard.edu/reichlab/Reich_Lab/Welcome.html"). >
+> The position will be supervised by Dr. David Reich. >
+> Please write to reich at genetics \[dot\] med \[dot\] harvard \[dot\] > edu by March 1, 2016 if you are interested. >
+> **2) Post-doctoral fellow: Learning about history using genetic data** >
+> We are searching for a highly motivated post-doctoral researcher to > join our group. >
+> The successful candidate will have exceedingly strong statistical / > mathematical / computational skills, andan interest in history. While > a background in population genetics, bioinformatics or experimental > biology isadvantageous, it is not necessary. Our lab has the > resources to not only analyze large public data sets, butalso has > access to some of the world’s best new genetic data, whether generated > by collaborators or in ourown laboratory. Possible projects are: >
+> • Studying human history using data from present-day populations >
+> • Studying human history using ancient DNA >
+> • Studying the process of speciation and the mechanisms of natural > selection and mutation using genetic data >
+> Description of projects in our lab, as well as papers we have recently > published, is > provided[here](http://genetics.med.harvard.edu/reichlab/Reich_Lab/Welcome.html "http://genetics.med.harvard.edu/reichlab/Reich_Lab/Welcome.html"). >
+> The position will be jointly supervised by Drs. David Reich and Nick > Patterson, and will involve work atboth Harvard Medical School and > the Broad Institute of Harvard and MIT. >
+> Please write toreich at genetics \[dot\] med \[dot\] harvard \[dot\] > eduby March 1, 2016 if you are interested. >
+> 
+
+### Related Posts:
+
+- [Carl Zimmer profile of the Reich group at
+  work](https://www.gnxp.com/WordPress/2018/03/20/carl-zimmer-profile-of-the-reich-group-at-work/) - [Assessing the utility of models in ancient DNA
+  admixture…](https://www.gnxp.com/WordPress/2020/04/13/assessing-the-utility-of-models-in-ancient-dna-admixture-analyses/) - [Open Thread,
+  6/7/2015](https://www.gnxp.com/WordPress/2015/06/07/open-thread-672015/) - [DNA, history, and
+  genealogy](https://www.gnxp.com/WordPress/2014/09/30/dna-history-and-genealogy/) - [New version of Reich lab
+  dataset](https://www.gnxp.com/WordPress/2020/03/10/new-version-of-reich-lab-dataset/) - [David Reich drops the
+  mic](https://www.gnxp.com/WordPress/2019/01/20/david-reich-drops-the-mic/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2016%2F03%2F29%2Fdavid-reich-has-two-post-doctoral-positions%2F&linkname=David%20Reich%20has%20Two%20Post-doctoral%20positions "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2016%2F03%2F29%2Fdavid-reich-has-two-post-doctoral-positions%2F&linkname=David%20Reich%20has%20Two%20Post-doctoral%20positions "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2016%2F03%2F29%2Fdavid-reich-has-two-post-doctoral-positions%2F&linkname=David%20Reich%20has%20Two%20Post-doctoral%20positions "Email")[](https://www.addtoany.com/share)

@@ -1,0 +1,51 @@
++++
+title = "The population genetic"
+full_title = "The population genetic structure of China"
+date = "2018-10-06"
+upstream_url = "https://www.gnxp.com/WordPress/2018/10/06/the-population-genetic-structure-of-china-through-noninvasive-prenatal-testing/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2018/10/06/the-population-genetic-structure-of-china-through-noninvasive-prenatal-testing/).
+
+The population genetic structure of China (through noninvasive prenatal testing)
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/10/pchina.jpg?resize=620%2C613&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/10/pchina.jpg?resize=620%2C613&ssl=1)](https://www.cell.com/cell/fulltext/S0092-8674(18)31032-8)  
+This week a big whole genome analysis of China was published in *Cell*, [Genomic Analyses from Non-invasive Prenatal Testing Reveal Genetic Associations, Patterns of Viral Infections, and Chinese Population History](https://www.cell.com/cell/fulltext/S0092-8674(18)31032-8). The abstract:
+
+> We analyze whole-genome sequencing data from 141,431 Chinese women > generated for non-invasive prenatal testing (NIPT). We use these data > to characterize the population genetic structure and to investigate > genetic associations with maternal and infectious traits. We show that > the present day distribution of alleles is a function of both ancient > migration and very recent population movements. We reveal novel > phenotype-genotype associations, including several replicated > associations with height and BMI, an association between maternal age > and EMB, and between twin pregnancy and NRG1. Finally, we identify a > unique pattern of circulating viral DNA in plasma with high prevalence > of hepatitis B and other clinically relevant maternal infections. A > GWAS for viral infections identifies an exceptionally strong > association between integrated herpesvirus 6 and MOV10L1, which > affects piwi-interacting RNA (piRNA) processing and PIWI protein > function. These findings demonstrate the great value and potential of > accumulating NIPT data for worldwide medical and genetic analyses.
+
+In *The New York Times* [write-up](https://www.nytimes.com/2018/10/05/science/china-genetics.html) there is an interesting detail, “This study served as proof-of-concept, he added. **His team is moving forward on evaluating prenatal testing data from more than 3.5 million Chinese people.**” So what he’s saying is that this study with \>100,000 individuals is a “pilot study.” Let that sink in.
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/08/elephantsretreat.jpeg?resize=180%2C280&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/08/elephantsretreat.jpeg?resize=180%2C280&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/0300119933//geneexpressio-20/ref=as_at/?imprToken=K0HQNOKYxwDMS4DuYN6jhg&slotNum=36&creativeASIN=0878933085&linkCode=w61&imprToken=QiG2bf7fc5-czG6VLZ9cSg&slotNum=164)The PCA at the top of the post is a bit busy, so I want to highlight the salient aspect. **These results confirm that 5-10% of the ancestry of the Hui, Chinese speaking Muslims, is West Eurasian.** The Uygur and Kazakh are about \~40% on the left of the plot. The authors note that the Manchus overlapped almost perfectly with individuals sampled from Northern China. This is expected because by the end of the Ching dynasty most of the Manchus had been fully Sinicized, and in the 20th century fully assimilated. Recently due to an emphasis on “national minorities” and some privileges granted therein many people have identified as Manchu due to some ancestry who in all other ways simply northern Han (the Manchu language is moribund).
+
+The sections on particular adaptations which vary by region are not surprising. In books like [The Retreat of Elephants](https://www.amazon.com/exec/obidos/ASIN/0300119933//geneexpressio-20/ref=as_at/?imprToken=2oTBG6.yr2LbXn-Pu-0G8A&slotNum=0&imprToken=K0HQNOKYxwDMS4DuYN6jhg&slotNum=36&creativeASIN=0878933085&linkCode=w61&imprToken=QiG2bf7fc5-czG6VLZ9cSg&slotNum=164) the slow, gradual, and inexorable expansion of the Chinese beyond the Yangzi basin is described in a way that makes it clear that southern diseases and climate were a major impediment. But through a process of acclimation, assimilation of local peoples, and adaptation, by 1000 AD the center of demographic gravity had shifted to the south.
+
+There is a section of the text which I think will be falsified though:
+
+> After removing participants with 49bp read length and with sequencing > error rate \>0.00325, a principal component analysis of 45,387 > self-reported Han Chinese from the 31 administrative divisions showed > that the greatest differentiation of Han Chinese is along a > latitudinal gradient (Figures S3E and S3F), consistent with previous > studies (Chen et al., 2009, Xu et al., 2009). In contrast, there is, > perhaps surprisingly, very little differentiation from East to West. > This observation may be explained by the fact that a large proportion > of the western Han populations in China are recent immigrants > organized by the central government starting from 1949 when the > People’s Republic of China was founded (Liang and White, 1996).
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/10/gunsgermssteel.jpeg?resize=182%2C277&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/10/gunsgermssteel.jpeg?resize=182%2C277&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/0393354326/geneexpressio-20/ref=as_at/?imprToken=nlq68Txv6fDc3WDq29UYTQ&slotNum=36&creativeASIN=0878933085&linkCode=w61&imprToken=QiG2bf7fc5-czG6VLZ9cSg&slotNum=164)I don’t think there’s any need to make recourse to migration from 1949 and after. The argument in [Guns, Germs, and Steel](https://www.amazon.com/exec/obidos/ASIN/0393354326/geneexpressio-20/ref=as_at/?imprToken=nlq68Txv6fDc3WDq29UYTQ&slotNum=36&creativeASIN=0878933085&linkCode=w61&imprToken=QiG2bf7fc5-czG6VLZ9cSg&slotNum=164) suffices: it’s just easier to move across latitudes than longitudes. The people of the north eat noodles made from wheat, and the people of the south eat rice. This is a big cultural transition for peasants to make, and so it didn’t happen as often as moving to the coast, or inland. We have documented instances of mass migrations from adjacent provinces due to famine and political instability. In the 17th century conflicts resulted in the [depopulation](https://en.wikipedia.org/wiki/Sichuan#Ming_dynasty) of Sichuan and the arrival of large numbers of people from Hunan and Hubei to the east.
+
+The plot below is one of the more interesting ones from the paper. From left to right, private alleles found in the HapMap Utah whites also found in all individuals in a given province, and then just Han, and then private alleles to ethnic Telugu Indians (from South India) found in all individuals in a given province, and then just Han.
+
+![Click to enlarge](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/10/privateallele.jpg?resize=640%2C159&ssl=1)
+
+The first thing to notice is that **there is a correlation between the Han and non-Han**. This shouldn’t be surprising. Plenty of ethnic groups have become Han through acculturation and become demographically absorbed. This is probably truer in parts of the south than in the north, but southern Chinese ethnic minorities are genetically and culturally much more like the Han in the first place.
+
+Private alleles shared with Northern Europeans (CEU) almost certainly has to do with the interaction sphere of the steppe pastoralists, which extends from the Carpathians to Mongolia. The relatively high frequency of R1a, and to a lesser extent R1b, among many [Turkic/Central Asian peoples](https://en.wikipedia.org/wiki/Y-DNA_haplogroups_in_populations_of_Central_and_North_Asia) is a pretty good sign of where this West Eurasian ancestry comes from.
+
+The Indian affinity is perhaps more interesting. To be honest I was surprised at the high affinity in Yunnan and Hainan. Tibet has strong cultural connections to India through its form of Buddhism. But its interesting that Qinghai, where many Tibetans also live, does not have the affinity with India. What’s going on in the other provinces? I suspect that the aboriginal peoples assimilated by the Han and other groups in this region probably had some distant connections to the non-West Eurasian ancestry in South Asia.
+
+### Related Posts:
+
+- [The age of non-invasive pre-natal testing is
+  here](https://www.gnxp.com/WordPress/2013/02/20/the-age-non-invasive-pre-natal-testing-is-here/) - [GWAS, population structure and the Han
+  Chinese](https://www.gnxp.com/WordPress/2009/11/25/gwas-population-structure-and-the-han-chinese/) - [Genome sequencing of the
+  unborn](https://www.gnxp.com/WordPress/2012/06/06/genome-sequencing-of-the-unborn/) - [Prenatal Down syndrome tests are a go (at some
+  point)](https://www.gnxp.com/WordPress/2009/08/10/prenatal-down-syndrome-tests-are-a-go-at-some-point/) - [The Age of Fetal
+  Genomics](https://www.gnxp.com/WordPress/2014/05/01/the-age-of-fetal-genomics/) - [Minding the base rate
+  fallacy](https://www.gnxp.com/WordPress/2019/03/11/minding-the-base-rate-fallacy/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2018%2F10%2F06%2Fthe-population-genetic-structure-of-china-through-noninvasive-prenatal-testing%2F&linkname=The%20population%20genetic%20structure%20of%20China%20%28through%20noninvasive%20prenatal%20testing%29 "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2018%2F10%2F06%2Fthe-population-genetic-structure-of-china-through-noninvasive-prenatal-testing%2F&linkname=The%20population%20genetic%20structure%20of%20China%20%28through%20noninvasive%20prenatal%20testing%29 "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2018%2F10%2F06%2Fthe-population-genetic-structure-of-china-through-noninvasive-prenatal-testing%2F&linkname=The%20population%20genetic%20structure%20of%20China%20%28through%20noninvasive%20prenatal%20testing%29 "Email")[](https://www.addtoany.com/share)

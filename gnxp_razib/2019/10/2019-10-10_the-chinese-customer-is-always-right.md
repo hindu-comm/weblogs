@@ -1,0 +1,53 @@
++++
+title = "The Chinese customer is"
+full_title = "The Chinese customer is always right"
+date = "2019-10-10"
+upstream_url = "https://www.gnxp.com/WordPress/2019/10/10/the-chinese-customer-is-always-right/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2019/10/10/the-chinese-customer-is-always-right/).
+
+The Chinese customer is always right
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/08/whenChinaRulesTheWorld.jpeg?resize=173%2C291&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/08/whenChinaRulesTheWorld.jpeg?resize=173%2C291&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B002SZUDI4/geneexpressio-20)Unless you have been sleeping under a rock you are aware that there is a controversy around [China and the NBA](https://www.bbc.com/news/world-asia-china-49995985) due to different standards of political speech in the USA and China. Obviously the major issue that looms over the debate is the reality that at some point in the 2020s China will become the world’s largest economy, and one of the major consumer engines of the world. From a corporate perspective, this hangs over all the discussion and consideration. The Chinese market is like El Dorado.
+
+But I would like to draw attention to something Joe Tsai, owner of the Brooklyn Nets and co-founder of Alibaba, said on [Facebook](https://www.facebook.com/100001583307192/posts/2653378931391524?sfns=mo):
+
+> The one thing that is terribly misunderstood, and often ignored, by > the western press and those critical of China is that **1.4 billion > Chinese citizens stand united when it comes to the territorial > integrity of China and the country’s sovereignty over her homeland**. > This issue is non-negotiable. >
+> A bit of **historical perspective is important.** In the > mid-19thcentury, China fought two Opium Wars with the British, aided > by the French, who forced through illegal trade of opium to China. A > very weak Qing Dynasty government lost the wars and the result was the > ceding of Hong Kong to the British as a colony.
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2019/10/manufacturingconsent.jpeg?resize=183%2C276&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2019/10/manufacturingconsent.jpeg?resize=183%2C276&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B0055PJ4R0/geneexpressio-20)The substance of the dispute here on their face-value isn’t too important. Rather, from a commercial perspective the opinions of Chinese matter because there are **1.4 billion of them**. Additionally, from a commercial perspective, **the “objective truth” doesn’t matter.** The “customer” is always right. Whether the Chinese have legitimate grounds for their beliefs is less important than what their beliefs are, because there are so many of them. The substance of beliefs may dictate consumption. Whether those beliefs are true or not is secondary (ask the supplements industry in the USA).
+
+But this is not a dynamic limited to this context. Do you remember the [Islamic mosque and cultural center](https://www.nytimes.com/2017/05/12/realestate/muslim-museum-world-trade-center.html) that was slated to be built near the World Trade Center? The project was abandoned after various groups, including some 9/11 victim families, **felt** that it was **offensive.** Though I didn’t believe that the center had anything to do with 9/11 as such, I do recall being vaguely sympathetic to their **feelings**. In hindsight, this was clearly the wrong call by me in light of broader trends in our culture.
+
+Since that time the reign of feelings over facts has proceeded apace. In American society, the facts at hand matter less and less, than who the people are who have their own reaction, perception, and subjective experience, of the facts. The fact that 9/11 families were uncomfortable determined the ultimate course of construction. The fact that college students are uncomfortable that someone is going to speak who wrote something that offends them 20 years ago is key factor that determines if the invitation will be rescinded. The overall objective fact of something is incidental in comparison to the visceral reaction.
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2019/10/thegoddelusion.jpeg?resize=183%2C275&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2019/10/thegoddelusion.jpeg?resize=183%2C275&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B003JTHWJQ/geneexpressio-20)One of the things that I have witnessed which illustrates this trend is the way Richard Dawkins is viewed by young “enlightened” people. Dawkins has always been a bit of a brusque and direct individual in regards to what he believes are the facts irrespective of the target. In 2006 he was commissioned by Britain’s Channel 4 to take lead on a documentary titled [The Root of all Evil](https://en.wikipedia.org/wiki/The_Root_of_All_Evil%3F). When [The God Delusion](https://www.amazon.com/exec/obidos/ASIN/B003JTHWJQ/geneexpressio-20) was published Dawkins’ intellectual celebrity rose to new heights.
+
+Not so in 2019. The reason? Richard Dawkins is 78. In fundamental ways, he has not changed. He is an old man. And, he has a naive and to my mind an overly simplistic view of the importance of truth above all things. But those are his sincere beliefs. As such, he expresses his views without much equivocation and in a simple and open manner which is now often highly offensive to many people who a decade ago admired him. The primary reason is that Richard Dawkins is an upper-middle-class white male, and the targets of his criticism, for example, a hijabi in Bradford, England, are not. How sympathetic the targets are matters a great deal. The logic or empirical basis less so.
+
+In the late 2000s I recall a friend of mine at the time, an academic philosopher, explaining to me that in the context of the offense, the intent of the offender is irrelevant when compared to the reaction of the offended. This seemed like a bizarre view to me at the time, but in this decade this view has become more and more mainstream.
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/twlight_of_atheism.jpeg?resize=184%2C275&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/twlight_of_atheism.jpeg?resize=184%2C275&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/0385500629//geneexpressio-20)When these ideas were first being articulated several decades ago there was still a strong hope and expectation that economic liberalization in China would lead to political liberalization. **I shared that hope.** It seems that in many ways we were wrong. Rather than the internet as a means for free expression, it has become an essential tool of commerce and social control and manipulation. My vague impression is that most
+Chinese are either politically apathetic or somewhat nationalist and anticipating warmly the geopolitical power of their nation-state on the world stage.
+
+In contrast, in the United States I feel we are in a parochial cultural moment. On the Right, the slogan “Make America Great Again” is reflective of nostalgia for the 20th-century. On the Left, particular concerns with the failings of the **American** project loom larger than the larger dynamics in **human** history (as opposed to the mass decline of poverty in places like China over the last generation). Around the year 2000 many Americans had a view of the 21st-century where prosperity would transform the rest of the world into cultural clones of America. This would have resulted in universal particularisms and sensitivities. That is, the ascendency of post-modern thinking, and the rise of subjectivism would have been constrained by a common cultural framework directed and shaped by American and European elites. What is “problematic” here would be “problematic” there.
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2019/10/1984.jpeg?resize=183%2C275&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2019/10/1984.jpeg?resize=183%2C275&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B07YNCMYPY//geneexpressio-20)That has not happened. Rather, Alistar McGrath’s general prediction in [The Twilight of Atheism](https://www.amazon.com/exec/obidos/ASIN/0385500629//geneexpressio-20) has come to be. I say general because atheism has not collapsed in a specific sense (on the contrary, as irreligion has increased greatly in the United States). But particular cultural understandings of what is right and proper have come to the foreground with more muscular robustness as the Enlightenment ideal of a **universal** shared reality fades.
+
+One of the more nihilistic aspects of the intellectual revolution triggered by the influence of Michel Foucault is to reduce perception and comprehension as simply outcomes of power relations. **I would argue that what we see today in the corporate response to the rise of Chinese economic power is the reshaping of truth and sensitivities toward broadly Chinese outlines due to Chinese power**. What one sees here is the convergence between capitalist kowtowing toward power, and the reality that more and more people acknowledge and accept that power determines our understanding of reality.
+
+The world is not out there, the world is created by us.
+
+### Related Posts:
+
+- [The past and the
+  future](https://www.gnxp.com/WordPress/2007/09/12/the-past-and-the-future/) - [China is \#2](https://www.gnxp.com/WordPress/2010/08/16/china-is-2/) - [The rise of the South
+  (China)](https://www.gnxp.com/WordPress/2009/09/10/the-rise-of-the-south-china/) - [The rise of Chinese science and
+  CRISPR](https://www.gnxp.com/WordPress/2018/01/22/the-rise-of-chinese-science-and-crispr/) - [Islam in China
+  website](https://www.gnxp.com/WordPress/2009/02/07/islam-in-china-website/) - [Thomas Friedman: Brains vs.
+  Language](https://www.gnxp.com/WordPress/2005/09/23/thomas-friedman-brains-vs-language/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2019%2F10%2F10%2Fthe-chinese-customer-is-always-right%2F&linkname=The%20Chinese%20customer%20is%20always%20right "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2019%2F10%2F10%2Fthe-chinese-customer-is-always-right%2F&linkname=The%20Chinese%20customer%20is%20always%20right "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2019%2F10%2F10%2Fthe-chinese-customer-is-always-right%2F&linkname=The%20Chinese%20customer%20is%20always%20right "Email")[](https://www.addtoany.com/share)

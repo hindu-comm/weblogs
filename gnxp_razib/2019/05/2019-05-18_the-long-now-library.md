@@ -1,0 +1,34 @@
++++
+title = "The long now library?"
+full_title = "The long now library?"
+date = "2019-05-18"
+upstream_url = "https://www.gnxp.com/WordPress/2019/05/18/the-long-now-library/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2019/05/18/the-long-now-library/).
+
+The long now library?
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2019/05/mapofknowledge.jpeg?resize=225%2C225&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2019/05/mapofknowledge.jpeg?resize=225%2C225&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B07H1YGPF1/geneexpressio-20/ref=as_at?imprToken=oYGgTxXTphoTU5dzuP1ETA&slotNum=0&imprToken=0XzgnqFoqv9McaeN0tN1YA&slotNum=0&imprToken=U3zyopNifeYDKAyHLu3UYg&slotNum=0&imprToken=yfMkIVFBg1ffLOFYHjm8Sg&slotNum=16&creativeASIN=0878933085&linkCode=w61&imprToken=QiG2bf7fc5-czG6VLZ9cSg&slotNum=164)Violet Moller’s [The Map of Knowledge: A Thousand-Year History of How Classical Ideas Were Lost and Found](https://www.amazon.com/exec/obidos/ASIN/B07H1YGPF1/geneexpressio-20/ref=as_at?imprToken=oYGgTxXTphoTU5dzuP1ETA&slotNum=0&imprToken=0XzgnqFoqv9McaeN0tN1YA&slotNum=0&imprToken=U3zyopNifeYDKAyHLu3UYg&slotNum=0&imprToken=yfMkIVFBg1ffLOFYHjm8Sg&slotNum=16&creativeASIN=0878933085&linkCode=w61&imprToken=QiG2bf7fc5-czG6VLZ9cSg&slotNum=164) is written for a non-academic audience, and relays the story of how Classical knowledge was passed down to the West, which eventually leads to the Renaissance. This is a well-known story, and iut is written engagingly (at least so far). I do get a sense that the author writes intending to suggest the importance of a liberal open society to the public. But these moral lessons can be ignored if you are aware.
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2019/05/sailingfrombyzantium.jpeg?resize=184%2C274&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2019/05/sailingfrombyzantium.jpeg?resize=184%2C274&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B001NJUPJS/geneexpressio-20/ref=as_at?imprToken=0XzgnqFoqv9McaeN0tN1YA&slotNum=0&imprToken=U3zyopNifeYDKAyHLu3UYg&slotNum=0&imprToken=yfMkIVFBg1ffLOFYHjm8Sg&slotNum=16&creativeASIN=0878933085&linkCode=w61&imprToken=QiG2bf7fc5-czG6VLZ9cSg&slotNum=164)For a work attempting to resurrect the importance of non-European societies, in particular, that of the Islamic civilization, it is to this point strangely Eurocentric, in particular, Western European centric. The importance of Al-Andalus is particularly important, from what I recall, to the intellectuals of Paris and Oxford, who are the forebears in many ways of the Anglo intellectual tradition. In contrast, Italians were just as much influenced by the emigration of Byzantine scholars west to the peninsula during the medieval period. And though the Muslim societies did an excel at transmitting the philosophy of the ancient world, **it is to the Byzantines that we owe the humanistic worlds.** The great Greek playwrights would be names in encyclopedias without the efforts of men such as [Constantine VII](https://en.wikipedia.org/wiki/Constantine_VII).
+
+If you want to read a book that covers the lacunae in [The Map of Knowledge](https://www.amazon.com/exec/obidos/ASIN/B07H1YGPF1/geneexpressio-20/ref=as_at?imprToken=oYGgTxXTphoTU5dzuP1ETA&slotNum=0&imprToken=0XzgnqFoqv9McaeN0tN1YA&slotNum=0&imprToken=U3zyopNifeYDKAyHLu3UYg&slotNum=0&imprToken=yfMkIVFBg1ffLOFYHjm8Sg&slotNum=16&creativeASIN=0878933085&linkCode=w61&imprToken=QiG2bf7fc5-czG6VLZ9cSg&slotNum=164), I’d suggest [Sailing to Byzantium](https://www.amazon.com/exec/obidos/ASIN/B001NJUPJS/geneexpressio-20/ref=as_at?imprToken=0XzgnqFoqv9McaeN0tN1YA&slotNum=0&imprToken=U3zyopNifeYDKAyHLu3UYg&slotNum=0&imprToken=yfMkIVFBg1ffLOFYHjm8Sg&slotNum=16&creativeASIN=0878933085&linkCode=w61&imprToken=QiG2bf7fc5-czG6VLZ9cSg&slotNum=164), which is also written at a popular level. Additionally, the end point of the book is the efflorescence of Western Europe. But it might be interesting to write a book at some point how Galenic medical philosophy became a basis for Tibetan traditional medicine! (a fact mentioned in [The Map of Knowledge](https://www.amazon.com/exec/obidos/ASIN/B07H1YGPF1/geneexpressio-20/ref=as_at?imprToken=oYGgTxXTphoTU5dzuP1ETA&slotNum=0&imprToken=0XzgnqFoqv9McaeN0tN1YA&slotNum=0&imprToken=U3zyopNifeYDKAyHLu3UYg&slotNum=0&imprToken=yfMkIVFBg1ffLOFYHjm8Sg&slotNum=16&creativeASIN=0878933085&linkCode=w61&imprToken=QiG2bf7fc5-czG6VLZ9cSg&slotNum=164))
+
+All that being said, **one of the points brought home in this book is the importance of institutions in copying and maintaining knowledge**. Aside from exceptional conditions (e.g., papyrus in the Egyptian desert!), ancient texts simply will not survive into the present. It turns out that this sort of information is actually less robust than DNA. Papyrus scrolls, parchment, and paper, all have half-lives on the order of a century or so. Our current digital formats are even more tenuous. Though I’m not necessarily an alarmist, is it that unlikely that in the next few thousand years technological civilization won’t go through a major shock and regression?
+
+Then what? What if there are no physical books around, and the electronic cloud disappears? What I propose is a massive Rosetta Stone project to make copies of books in hyper-durable materials, translated into hundreds of languages, and deposited in safe caches all across the world. A literary version of the [Millennium Seed Bank Project](https://en.wikipedia.org/wiki/Millennium_Seed_Bank_Partnership).
+
+### Related Posts:
+
+- [The history of us
+  all](https://www.gnxp.com/WordPress/2010/12/08/the-history-of-us-all/) - [Short
+  memories](https://www.gnxp.com/WordPress/2007/03/28/short-memories/) - [Marc Hauser on leave from
+  Harvard](https://www.gnxp.com/WordPress/2010/08/10/marc-hauser-on-leave-from-harvard/) - [Religion is merely a contemporary
+  issue?](https://www.gnxp.com/WordPress/2006/12/09/religion-is-merely-a-contemporary-issue/) - [The possible impossibility of truth and the importance
+  of…](https://www.gnxp.com/WordPress/2010/10/30/the-impossibility-of-truth-and-the-importance-of-incorrectness/) - [Imperialism before
+  history](https://www.gnxp.com/WordPress/2005/03/07/imperialism-before-history/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2019%2F05%2F18%2Fthe-long-now-library%2F&linkname=The%20long%20now%20library%3F "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2019%2F05%2F18%2Fthe-long-now-library%2F&linkname=The%20long%20now%20library%3F "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2019%2F05%2F18%2Fthe-long-now-library%2F&linkname=The%20long%20now%20library%3F "Email")[](https://www.addtoany.com/share)

@@ -1,0 +1,34 @@
++++
+title = "Admixture mapping in"
+full_title = "Admixture mapping in Northern Europeans?"
+date = "2013-09-19"
+upstream_url = "https://www.gnxp.com/WordPress/2013/09/19/admixture-mapping-in-northern-europeans/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2013/09/19/admixture-mapping-in-northern-europeans/).
+
+Admixture mapping in Northern Europeans?
+
+[![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2013/09/African_cave_paintings-300x226.jpg?resize=210%2C158 "African_cave_paintings")![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2013/09/African_cave_paintings-300x226.jpg?resize=210%2C158 "African_cave_paintings")](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2013/09/African_cave_paintings.jpg)[Dienekes](https://dienekes.blogspot.com/2013/09/ancient-genomes-mirror-mode-of.html) has a post up highlighting[a preprint](https://dienekes.blogspot.com/2013/09/ancient-genomes-mirror-mode-of.html) out of [Pontus Skoglund’s](http://www.ebc.uu.se/Research/IEG/evbiol/people/pages/Skoglund_Pontus/?languageId=1) group. It is titled [Ancient genomes mirror mode of subsistence rather than geography in prehistoric Europe](https://dienekes.blogspot.com/2013/09/ancient-genomes-mirror-mode-of.html). It doesn’t seem to be online (fingers crossed that it shows up linked at [Haldane’s Sieve](http://haldanessieve.org/) soon). In any case **I am not surprised by the broad outlines of the thesis.** And, it is not as if Skoglund’s group is the only one working in this area, I have suspicions that [others](https://en.wikipedia.org/wiki/Svante_P%C3%A4%C3%A4bo) are finding something very similar. These results out of Europe are probably reflective of the fact that much of the model in Peter Bellwood’s [First Farmers](https://www.amazon.com/exec/obidos/ASIN/0631205667/geneexpressio-20) is generally correct, the emergence of an agriculture revolution in a few select world societies **produced a cultural *and* demographic revolution.**
+
+But one can take things too far, and I think Bellwood did. The results above, and [elsewhere](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2842210/), **also confirm that there was not total demographic replacement**. In many regions the agriculturalists absorbed the hunter-gatherers. Using light coverage of whole genomes Skoglund’s group inferred that the farmers who arrived in prehistoric Europe from the Middle East seem to have contributed most of the ancestry of Southern Europeans, and also match nearly perfectly the genetic profiles of farming populations in Scandinavia. In contrast, ancient hunter-gatherers in Scandinavia **and** prehistoric Spain resemble contemporary Baltic groups (e.g., Lithuanians, Finns, and Scanadinavians). Finally, they conclude that modern Scandinavians are*slightly*more close to ancient hunter-gatherers than the farmers. This implies substantial farmer admixture in demographic terms. The group notes that previous inferences of Middle Eastern admixture were compromised by the fact that modern groups often exhibit African admixture. When you look only at the non-African portion, they are a much better proxy. One reason I am curious about the preprint in full is that I believe that even removing African admixture, one might be biased by selection of ‘reference’ populations. It seems likely that there were major eruptions from Arabia in antiquity and the medieval period (inferred by comparing religious isolates such as Arab Christians with their Muslim neighbors).
+
+Setting aside that a two-way admixture seems [unlikely to be the whole story](http://www.genetics.org/content/early/2012/09/06/genetics.112.145037.short?rss=1)\*, it does offer up a way to explore an interesting question: **on what sort of genes do hunter-gatherers and farmers differ**? Specifically I’m wondering about utilizing [admixture mapping](http://genepath.med.harvard.edu/~reich/Section%201.htm). In Scandinavian populations regions of the genome where there are adaptations for farming are localized should be enriched for farmer ancestry, and vice versa for hunter-gathering. In the case of Northern Europeans farmers moved up latitudinal clines, and adapted to local conditions only halting. This explains in part that it seems Iberia and parts of Western Europe have more farmer ancestry than regions of Northeast Europe which are closer to the original zone of expansion as the crow flies. Not only did the hunter-gatherers have some cultural traits which conferred benefits in the deep north, but likely there were particular adaptations in these climes which aided their survival.
+
+I understand that admixture mapping for populations which have mixed (and frankly were not*that*genetically different in the first place) may be difficult. But linkage disequilibrium based methods have been pushed much further back than I could have imagined, and it has been done with South Asians in regards to “Ancestral Northern Indian” vs. “Ancestral South Indian” ancestry and genetic functionality (specifically disease risk alleles).
+
+\* In addition, I am more skeptical of a simple demic diffusion model than I was in the past. I think there may have been multiple demographic pulses, followed by equilibration phases.
+
+### Related Posts:
+
+- [Northern Europeans as children of the Corded
+  Ware](https://www.gnxp.com/WordPress/2014/09/11/northern-europeans-as-children-of-the-corded-ware/) - [Evolutionary & population genetics preprints -
+  Haldane's…](https://www.gnxp.com/WordPress/2012/08/28/evolutionary-population-genetics-preprints-haldanes-sieve/) - [Beyond trees and European
+  trees](https://www.gnxp.com/WordPress/2012/03/07/beyond-trees-and-european-trees/) - [Beringians
+  vindicated!](https://www.gnxp.com/WordPress/2014/02/13/beringians-vindicated/) - [Bell Beaker going to crash-land and blow our minds
+  soon?](https://www.gnxp.com/WordPress/2017/05/09/bell-beaker-going-to-crash-land-and-blow-our-minds-soon/) - [I doubt the ancestors of the Khoisan were ever the
+  most…](https://www.gnxp.com/WordPress/2014/12/08/i-doubt-the-ancestors-of-the-khoisan-were-every-the-most-numerous-human-population-on-this-planet/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2013%2F09%2F19%2Fadmixture-mapping-in-northern-europeans%2F&linkname=Admixture%20mapping%20in%20Northern%20Europeans%3F "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2013%2F09%2F19%2Fadmixture-mapping-in-northern-europeans%2F&linkname=Admixture%20mapping%20in%20Northern%20Europeans%3F "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2013%2F09%2F19%2Fadmixture-mapping-in-northern-europeans%2F&linkname=Admixture%20mapping%20in%20Northern%20Europeans%3F "Email")[](https://www.addtoany.com/share)

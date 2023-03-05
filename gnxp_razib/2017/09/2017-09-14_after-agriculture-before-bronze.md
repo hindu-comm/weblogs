@@ -1,0 +1,50 @@
++++
+title = "After agriculture,"
+full_title = "After agriculture, before bronze"
+date = "2017-09-14"
+upstream_url = "https://www.gnxp.com/WordPress/2017/09/14/after-agriculture-before-bronze/"
+
++++
+Source: [here](https://www.gnxp.com/WordPress/2017/09/14/after-agriculture-before-bronze/).
+
+After agriculture, before bronze
+
+[](http://science.sciencemag.org/content/357/6356/1160)[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/png1.jpg?resize=600%2C574)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/png1.jpg?resize=600%2C574)](http://science.sciencemag.org/content/357/6356/1160)
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/war_before_civilization.jpeg?resize=182%2C277)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/war_before_civilization.jpeg?resize=182%2C277)](https://www.amazon.com/exec/obidos/ASIN/0195119126/geneexpressio-20)The above plot shows genetic distance/variation between highland and lowland populations in Papa New Guinea (PNG). It is from a paper in*Science* that I have been anticipating for a few months (I talked to the first author at SMBE), [A Neolithic expansion, but strong genetic structure, in the independent history of New Guinea](http://science.sciencemag.org/content/357/6356/1160).
+
+What does “strong genetic structure” mean? Basically F_(st) is showing the proportion of genetic variation which is partitioned between groups. Intuitively it is easy to understand, in that if \~1% of the genetic variation is partitioned between groups in one case, and \~10% in another, **then it is reasonable to suppose that the genetic distance between groups in the second case is larger than in the first case**. On a continental scale F_(st)between populations is often on the order of \~0.10. That is the value for example when you pool the variation amongst Northern Europeans and Chinese, and assess how much of it can be apportionedin a manner which differentiates populations (so it’s about \~10% of the variation).
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/withinHighlands.jpg?resize=250%2C238)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/withinHighlands.jpg?resize=250%2C238)](http://science.sciencemag.org/content/357/6356/1160)This is why ancient DNA results which reported that Mesolithic hunter-gatherers and Neolithic farmers in Central Europe who coexisted in rough proximity for thousands of years [exhibiteddifferences on the order of \~0.10](https://www.livescience.com/40332-genetics-of-european-farmers.html) elicited surprise. These are values we are now expecting from continental-scale comparisons. Perhaps an appropriate analogy might be the coexistence of Pygmy groups and Bantu agriculturalists? Though there is some gene flow, the two populations exist in symbiosis and exhibit local ecological segregation.
+
+In PNG continental scaleF_(st)values are also seen among indigenous people. The differences between the peoples who live in the highlands and lowlands of PNG are equivalent to those between huge regions of Eurasia. This is not entirely surprising because there has been non-trivial gene flow into lowland populations from Austronesian groups, such as the [Lapita culture](https://en.wikipedia.org/wiki/Lapita_culture). Many lowland groups even speak Austronesian languages today.
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/admixturePNG.jpg?resize=300%2C161)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/admixturePNG.jpg?resize=300%2C161)](http://science.sciencemag.org/content/357/6356/1160)Using standard ADMIXTURE analysis the paper shows that many lowland groups have significant East Asian ancestry (red), while none of the highland groups do (some individuals with East Asian admixture seem to be due to very recent gene flow). But even within the highlands the genetic differences are striking. TheF_(st)values between Finns and Southern European groups such as Spaniards are very high in a European context (due to Finnish Siberian ancestry as well as drift through a bottleneck), but most comparisons within the highland groups in PNG still exceeds this.
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/Map_of_Sunda_and_Sahul.jpg?resize=251%2C238)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/Map_of_Sunda_and_Sahul.jpg?resize=251%2C238)](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/Map_of_Sunda_and_Sahul.jpg)The paper also argues that genetic differences between Papuans and the natives of Australia pre-date the rising sea levels at the beginning of the Holocene, when Sahul divided between its various constituents. This is not entirely surprising considering that the ecology of the highlands during the Pleistocene would have been considerably different from Australia to the south, resulting in sharp differences in the hunter-gatherer lifestyles. Additionally, there does not seem to have been a genetic cline. Papuans are symmetrically related to all Australian groups they had samples from.
+
+Using coalescence-based genomic methods they inferred that separation between highlands and some lowland groups occurred \~10-20,000 years ago. That is, after the Last Glacial Maximum. For the highlands, the differences seem to date to within the last 10,000 years. The Holocene. Additionally, they see population increases in the highlands, correlating with the shift to agriculture (cultivation of taro).
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/ultrasociety-1.jpeg?resize=178%2C284)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/ultrasociety-1.jpeg?resize=178%2C284)](https://www.amazon.com/exec/obidos/ASIN/0996139516/geneexpressio-20)None of the above is entirely surprising, though I would take the date inferences with a grain of salt. **The key is to observe that large genetic differences, as well as cultural differences, accrued in the highlands of PNG during the Holocene**. In the paper they have a social and cultural explanation for what’s going on:
+
+> F_(st)values in PNG fall between those of hunter-gatherers and > present-day populations of west Eurasia, suggesting that a transition > to cultivation alone does not necessarily lead to genetic > homogenization. >
+> A key difference might be that PNG had no Bronze Age, which in west > Eurasia was driven by an expansion of herders and led to massive > population replacement, admixture, and cultural and linguistic change > (7, 8), or Iron Age such as that linked to the expansion of > Bantu-speaking  
+> farmers in Africa (24). Such cultural events have resulted in rapid > Y-chromosome lineage expansions due to increased male reproductive > variance (25), but we consistently find no evidence for this in PNG > (fig. S13). **Thus, in PNG, wemay be seeing the genetic, linguistic, > and cultural diversity that sedentary human societies can achieve in > the absence of massive technology-driven expansions.**
+
+[![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/war_in_human_civ.jpeg?resize=183%2C275)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/war_in_human_civ.jpeg?resize=183%2C275)](https://www.amazon.com/exec/obidos/ASIN/0199236631/geneexpressio-20)Peter Turchin in books like [Ultrasociety](https://www.amazon.com/exec/obidos/ASIN/0996139516/geneexpressio-20) has aruged that one of the theses in Steven Pinker’s [The Better Angels of Our Nature](https://www.amazon.com/exec/obidos/ASIN/B0052REUW0/geneexpressio-20) is incorrect: **that violence has not decreased monotonically, but peaked in less complex agricultural societies.** PNG is clearly a case of this, as endemic warfare was a feature of highland societies when they encountered Europeans. Lawrence Keeley’s [War Before Civilization: The Myth of the Peaceful Savage](https://www.amazon.com/exec/obidos/ASIN/0195119126/geneexpressio-20) gives so much attention to highland PNG because it is a contemporary illustration of a Neolithic society which until recently had not developed state-level institutions.
+
+What papers like these are showing is that **cultural and anthropological dynamics strongly shape the nature of genetic variation among humans**. Simple models which assume as a null hypothesis that gene flow occurs through diffusion processes across a landscape where only geographic obstacles are relevant simply do not capture enough of the dynamic. Human cultures strongly shape the nature of interactions, and therefore the genetic variation we see around us.
+
+### Related Posts:
+
+- [Cultural group selection across
+  time](https://www.gnxp.com/WordPress/2020/08/13/cultural-group-selection-across-time/) - [Finland, still going its own
+  way](https://www.gnxp.com/WordPress/2010/07/30/finland-still-going-its-own-way/) - [Visualizing intra-European phylogenetic
+  distances](https://www.gnxp.com/WordPress/2017/12/10/visualizing-intra-european-phylogenetic-distances/) - [The steel and the
+  star](https://www.gnxp.com/WordPress/2019/05/23/the-steel-and-the-star/) - [Twists in
+  Out-of-Africa](https://www.gnxp.com/WordPress/2009/03/23/twists-in-out-of-africa/) - [Optimal personality and way of
+  life](https://www.gnxp.com/WordPress/2008/06/09/optimal-personality-and-way-of-life/)
+
+### *Related*
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2017%2F09%2F14%2Fafter-agriculture-before-bronze%2F&linkname=After%20agriculture%2C%20before%20bronze "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2017%2F09%2F14%2Fafter-agriculture-before-bronze%2F&linkname=After%20agriculture%2C%20before%20bronze "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.gnxp.com%2FWordPress%2F2017%2F09%2F14%2Fafter-agriculture-before-bronze%2F&linkname=After%20agriculture%2C%20before%20bronze "Email")[](https://www.addtoany.com/share)
