@@ -481,7 +481,6 @@ Archive of writings from mAnasatarangiNI blog.
 - 2009/06/2009-06-14_deva-yajana.md
 - 2009/06/2009-06-19_more-on-the-tragic-failure-of-the-brahma.md
 - 2009/07/2009-07-02_some-notes-on-khechari-mudra.md
-- 2009/07/2009-07-08_a-fine-point-in-krishna-yajur-vedic-recitation.md
 - 2009/07/2009-07-09_the-rise-and-fall-of-the-uighur-empire.md
 - 2009/07/2009-07-10_some-philological-considerations-on-indic-transmis.md
 - 2009/07/2009-07-13_smarta-kaula-intersections.md
