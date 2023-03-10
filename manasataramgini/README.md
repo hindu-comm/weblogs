@@ -481,7 +481,6 @@ Archive of writings from mAnasatarangiNI blog.
 - 2009/06/2009-06-14_deva-yajana.md
 - 2009/06/2009-06-19_more-on-the-tragic-failure-of-the-brahma.md
 - 2009/07/2009-07-02_some-notes-on-khechari-mudra.md
-- 2009/07/2009-07-09_the-rise-and-fall-of-the-uighur-empire.md
 - 2009/07/2009-07-10_some-philological-considerations-on-indic-transmis.md
 - 2009/07/2009-07-13_smarta-kaula-intersections.md
 - 2009/07/2009-07-17_sanketa.md
@@ -546,7 +545,6 @@ Archive of writings from mAnasatarangiNI blog.
 - 2010/02/2010-02-10_early-kaumara-iconography-from-mathura.md
 - 2010/02/2010-02-14_of-dogs-and-underdogs.md
 - 2010/02/2010-02-15_three-of-the-heroes-had-fallen.md
-- 2010/03/2010-03-06_the-epic-on-stone.md
 - 2010/03/2010-03-07_asilisaurus-and-the-rise-of-the-dinosaur-line.md
 - 2010/03/2010-03-09_the-rasa-yoshana.md
 - 2010/03/2010-03-11_akbariya-chitra-katha.md
