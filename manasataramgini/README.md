@@ -704,7 +704,6 @@ Archive of writings from mAnasatarangiNI blog.
 - 2013/04/2013-04-19_anantaghanah.md
 - 2013/04/2013-04-20_platonic-cnidaria-brachiolaria-and-tornaria.md
 - 2013/04/2013-04-22_rudraksha-s-from-the-shuddha-bhuvanadhvan-s-or-pla.md
-- 2013/04/2013-04-25_chinese-incursion-of-2013-just-the-beginning.md
 - 2013/04/2013-04-28_a-brief-note-on-spies-subversionists-white-indolog.md
 - 2013/04/2013-04-30_a-hindu-polemic-against-the-pretamata.md
 - 2013/05/2013-05-01_a-brief-note-on-the-spitzer-manuscript-and-related.md
