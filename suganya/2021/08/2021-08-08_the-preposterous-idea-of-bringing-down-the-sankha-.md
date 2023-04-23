@@ -1,0 +1,22 @@
++++
+title = "The preposterous idea of"
+full_title = "The preposterous idea of “bringing down” the śaṅkhacakratāpa at death!"
+upstream_url = "https://suganyasmusingsscribblings.wordpress.com/2021/08/08/the-preposterous-idea-of-bringing-down-the-sa%e1%b9%85kha-cakra-tapa-at-death/"
+date = "2021-08-08"
+
++++
+Source: [here](https://suganyasmusingsscribblings.wordpress.com/2021/08/08/the-preposterous-idea-of-bringing-down-the-sa%e1%b9%85kha-cakra-tapa-at-death/).
+
+The preposterous idea of “bringing down” the śaṅkha-cakra-tāpa at death!
+
+While reading Periyavāccāṉ Piḷḷai’s *Sakalapramāṇatātparyam*, whose translation I’ll probably take years to publish, I remembered something I had heard years ago, and something that had left me confused and incredulous: that an initiated Śrīvaiṣṇava should have the *śaṅkha-cakra-tāpa* “brought down” (இறக்குதல்) at death. Meaning, somebody else does that for them when they have passed on, presumably to Vaikuṇṭha. Gosh! Does that mean scraping the tāpa mark out?? Terrible! Who does that? And I also heard of people countering that, saying that this rite should not be performed, as the soul would be lost without its identity, which in this case is that of a Vaiṣṇava. As if the *tāpa* could be removed, and as if merely the *tāpa* guarantees Vaikuṇṭha!! The one idea is more preposterous than the other! I didn’t dig any further then, just thought the ideas weird. But as I mentioned this in the reading session, I could see Marion’s eyes gleam: hardly surprising, given that she’s just given a paper on this *tāpa-saṃskāra*, and even so much as adding a footnote on this in her forthcoming article would be so interesting.
+
+Since I first heard of these claims and counterclaims years ago, I have had the occasion to read many, many Śrīvaiṣṇava works, listen to hundreds of hours of Śrīvaiṣṇava discourses, and interact with many scholars and knowledgeable people. I have even head a full description of rites performed at death. Never once have I come across such ideas mentioned. So I decided to tackle my source of information at that time: my mother. She reiterated this and put through a phone call to Trichy, where she had heard about this. So here’s what I got (and please keep in mind that this is a non-Brahmin family, many of whom are not Śrīvaiṣṇavas anymore): in trichy, Rama Bhargavi, said that the notion of “bringing down” Perumāḷ (i.e. Nārāyana) was true, as one cannot consign the body to the fire with Perumāḷ still on/in (?) it (and He seems to enter that body at the time of *pañcasaṃskāram*). And that it is a Śrīvaiṣṇava Brahmin Swami who performs this rite, which is nothing more than a symbolic sprinkling of water. Confusion. Are they taking some other rite to mean this??
+
+The phone receiver was passed on to Rama’s mother-in-law, Kanchana Mami, who said that actually, it is the *mudrādānam* (i.e., *śaṅkha-cakra-tāpa*) that is (hopefully only symbolically!) “brought down”, as you cannot burn a body with a *mudrādānam* (Please note that this is the term that these people use to refer to the *pañcasaṃskāra*s, as this particular rite seems to hold more importance in their view than the other four). Mami added something that my mother’s elderly cousin also apparently used to say decades ago: many people avoid getting initiated into Śrīvaiṣṇavism because of this particular funerary rite, which they think would be a bother for those family members upon whom the burden of cremating them falls.
+
+By the time the call was over, I had more questions than answers, and was more confused than ever. Is that one of the practices of popular Śrīvaiṣṇavism, especially among non-Brahmins? Perhaps of a certain region or family? Are they misinterpreting some other funerary rite? Who told them this? Is there any textual evidence for this practice? It made me aghast to think of what the Ācāryas would do if they heard of it. But then, are they already aware of it? Did I miss something in the texts? Any idea?
+
+You know what? I’ll let Marion do the field trips and do the digging, and just sit back and await her article!
+
+Updated on August 8th, 2022: I have asked about this to Sri APN Swami since then. And it seems that quite a few non-Brahmin Śrīvaiṣṇavas have this practice, and their families cite it as a reason not to get pañca-saṃskāram, because it’s a hassle after that initiated person dies. Swami also confirmed that the whole notion is utter nonsense, and God knows where and when this belief surfaced. Nice topic for research though.

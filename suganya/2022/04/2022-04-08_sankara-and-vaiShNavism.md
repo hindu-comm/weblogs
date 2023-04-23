@@ -1,0 +1,26 @@
++++
+title = "Śaṅkara and Vaiṣṇavism"
+full_title = "Śaṅkara and Vaiṣṇavism"
+upstream_url = "https://suganyasmusingsscribblings.wordpress.com/2022/04/08/sa%e1%b9%85kara-and-vai%e1%b9%a3%e1%b9%87avism/"
+date = "2022-04-08"
+
++++
+Source: [here](https://suganyasmusingsscribblings.wordpress.com/2022/04/08/sa%e1%b9%85kara-and-vai%e1%b9%a3%e1%b9%87avism/).
+
+Śaṅkara and Vaiṣṇavism
+
+As I’m writing an article on modern-day Manipravala, I started looking for interesting 20th-century texts of different types. And I bumped into this book by Puttūr Vakīl (S. Krishnaswamy Aiyangar) in my own library at home (I don’t know most books that I have here – I should catalogue them if I want to make the most of them, clearly). The first article of this collection sets the tone for the rest of them: a fiery opening whose fire never abates!
+
+![](https://suganyasmusingsscribblings.files.wordpress.com/2022/04/bfc64e11e672b0a0eb081c4383d281ed.jpg.jpg?w=380)
+
+What causes such an outburst is apparently an article published in the popular magazine *Vikaṭaṉ*, presumably in the late 1960s – early 1970s. Called “Vaiṣṇavam”, it was presumably written by a non-Vaiṣṇava called Bālādāsaṉ, “from what he writes, a Śaivādvaiti”. Puttūr Swami first wonders why someone not well-versed in Vaiṣṇavism was chosen to write about Vaiṣṇavism. Why did *Vikaṭaṉ* not pick one of the Vaiṣṇavas from among their editorial team and writers, since there are many who are close to the head of the Kāñci Kāmakōṭi Pīṭham. Like Agnihotram Rāmānuja Tātācāryar, he says, before getting thoroughly sarcastic and scathingly critical of this scholar (who, incidentally, is the person who claimed that Rāmānuja did not author the *Gadyatrayam* and the *Nityagrantham*, and who also wrote a controversial book, *Indumatam eṅkē pōkiṟatu?* ‘Where is Hinduism headed?’ – I should really read it some day and write a blog post on it!)
+
+Anyway, Puttūr Swami then proceeds to quote a large chunk of the article that upset him so much, which claims that Śaṅkara established the Six Doctrines (*ṣaṇmatam*), and that because the five others were tough to practice (since they had a very *tīvra upāsanā mārga*), he gave, out of his innate compassion, Vaiṣṇavism for the common man, since it is not based on the *tattva*s. He quotes Āṇṭāḷ’s line *tattuvam aṉṟu takavu* to make his point! Now that is most hilarious!
+
+The author then proceeds to show that none of the Prācīna Advaitācāryas wrote about these *ṣaṇmata*s (nor do the other thinkers of the time and later betray the knowledge of its existence), and that it was the product of imagination of a few works like *Śaṅkaravijayam* that are barely 500 years old. Puttūr Swami then proceeds to prove that Śaṅkara actually established Nārāyaṇa as the Supreme Goal in his commentaries on the *Brahmasūtra, Bhagavadgītā*, and so forth. He even quotes passages from these works, and presents an elaborate argument, in what I consider modern-day Manipravalam, clearly reminiscent of the medieval Ācāryas.
+
+He then takes up the topic as to why the theory of *ṣaṇmata*s was created: he claims that the Caṅkam Tamils worshipped Nārāyaṇa (he’s written a book on it, does anyone have a copy?), but the Śaivas tried to establish Śiva’s supremacy based on the “*tāmasa purāṇa*s” and Śaivāgamas, which he claims the Vaidikas did not endorse. He even claims that till about 500 years ago, the Advaitis were actually Vaiṣṇavas. And that it was Appayya Dīkṣita who tried to establish the supremacy of Śiva based on the Vedic statements, but those efforts were successfully repelled by the Śrīvaiṣṇava Ācāryas and Dvaitamatācāryas. As a result, Appayya Dikṣita and his retinue cooked up new theories, such as creating upaniṣads that are “Śaivādvaitapara”, bringing the total number of upaniṣads to 108; switching from the sandalwood paste *tilaka* made to the *tiryakpuṇḍra* with ashes (for the Advaitis); creating a doctrine that “no one seems to have followed” called Śaivaviśiṣṭādvaitamata” by creating a *Brahmasūtrabhāṣya* called *Śrīkaṇṭhabhāṣya* (which he later on claims plagiarizes on the *Śrībhāṣya*); composing stotras on deities like Śiva, etc. and attributing them Śaṅkara; and composing the *Śaṅkaravijayam* “to establish that Śrīkaṇṭha is prācīna” and so is the *ṣaṇmata* doctrine.
+
+His structured attack goes on for a few more pages. How much of this (especially the claims on Appayya Dikṣīta) is based on facts? I’m pretty sure I read an (academic) article on Śaṅkara being a Vaiṣṇava, but I can’t remember who wrote it. Do you have an idea? Also, I’m sure I have seen some work dealing with this all (at least partly). Which is it? For some reason, this *Śrīkaṇṭhabhāṣyam* has surfaced in the recent exchanges I had with people. Is there any literature on it? This essay above also reminded me of an anecdote that I heard, that Appayya Dīkṣita was humiliated by some Vaiṣṇavas, so he decided that he would erase Vaiṣṇavism from the face of the earth by means of his wits, but that later on, he admitted that he couldn’t, and even wrote a work in praise of Nārāyaṇa. Where does this story come from? Is it historically accurate to attribute such deep changes to one man? Not that one wo/man can’t change the world, but still.
+
+Advertisement
