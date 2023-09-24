@@ -10,6 +10,9 @@ Source: [here](https://aryaakasha.com/2022/07/07/the-sacrifice-to-the-fourteen-g
 
 The Sacrifice to the Fourteen Gods of Tripura of the Enemies of that State
 
+> Vijoy Manikya (A.D. 1535-1583) soon had the army chief murdered and become a powerful ruler. He defeated the Mughs at Chittagong and regained the districts of Sylhet, Comilla, and Noakhali. One thousand Pathan horsemen in his cavalry revolted and marched on Chittagong, but they were captured and sacrificed before the fourteen gods. The indignant king of Gaur struck with a powerful force but was defeated after a prolonged struggle lasting eight months. The Gaur general was likewise sacrificed before the fourteen gods.
+Vijoy Manikya followed up this victory by marching to Bengal at the head of a huge force comprising 26,000 infantry and 5,000 horse besides artillery. The Persian Sultan Daud Khan, then engaged in a fierce struggle with the Mughals, could not do much to oppose him. Vijoy was thus left as the unrivalled master of East Bengal. He led his victorious troops to the banks of the Brahmputra and sailed to the Padma in 5,000 boats. After plundering the country including Sonargaon, the Mughal capital of Bengal, he returned to his capital, Rangamati.
+
 ![](https://aryaakasha.files.wordpress.com/2022/07/tripura-sacrifice-1.png?w=568)
 
 To provide some measure of context: at the time, Bengal was significantly under Muslim (and, indeed, Afghan – Pathan) domination, in the form of the Bengal Sultanate. Tripura had been a vassal-state – although not long afore this incident had occurred, Tripura had begun to throw off the foreign yoke in earnest (and more upon *that* in another post).
