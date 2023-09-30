@@ -8,19 +8,18 @@ upstream_url = "https://aryanthought.wordpress.com/2018/02/02/sectarian-adambara
 Source: [here](https://aryanthought.wordpress.com/2018/02/02/sectarian-adambara-in-internet-hinduverse-more-noisy-than-jayanta-bhattas-agamadambara-not-nearly-as-insightful-or-constructive/).
 
 
-					Sectarian ADambara in Internet Hinduverse: More noisy than jayanta bhaTTa’s AgamADambara & not nearly as insightful or constructive				
+Sectarian ADambara in Internet Hinduverse: More noisy than jayanta bhaTTa’s AgamADambara & not nearly as insightful or constructive				
 
 
 
-[ February 2, 2018 
-](https://aryanthought.wordpress.com/2018/02/02/sectarian-adambara-in-internet-hinduverse-more-noisy-than-jayanta-bhattas-agamadambara-not-nearly-as-insightful-or-constructive/ "Permalink to Sectarian ADambara in Internet Hinduverse: More noisy than jayanta bhaTTa’s AgamADambara & not nearly as insightful orconstructive")
+[ February 2, 2018](https://aryanthought.wordpress.com/2018/02/02/sectarian-adambara-in-internet-hinduverse-more-noisy-than-jayanta-bhattas-agamadambara-not-nearly-as-insightful-or-constructive/ "Permalink to Sectarian ADambara in Internet Hinduverse: More noisy than jayanta bhaTTa’s AgamADambara & not nearly as insightful orconstructive")
 
 -   in
     [Uncategorized](https://aryanthought.wordpress.com/category/uncategorized/)
 -   [1
     Comment](https://aryanthought.wordpress.com/2018/02/02/sectarian-adambara-in-internet-hinduverse-more-noisy-than-jayanta-bhattas-agamadambara-not-nearly-as-insightful-or-constructive/#comments)
 
-# Sectarian ADambara in Internet Hinduverse: More noisy than jayanta bhaTTa’s AgamADambara & not nearly as insightful orconstructive
+Sectarian ADambara in Internet Hinduverse: More noisy than jayanta bhaTTa’s AgamADambara & not nearly as insightful orconstructive
 
 Context:<https://twitter.com/MadhvaHistory/status/959408605152739329>
 

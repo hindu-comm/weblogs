@@ -7,20 +7,7 @@ upstream_url = "https://aryanthought.wordpress.com/2018/07/22/a-short-discussion
 +++
 Source: [here](https://aryanthought.wordpress.com/2018/07/22/a-short-discussion-on-pertinent-issues-presented-by-the-sabarimala-matter/).
 
-
-					A short discussion on pertinent issues presented by the sabarimalA matter				
-
-
-
-[ July 22, 2018 
-](https://aryanthought.wordpress.com/2018/07/22/a-short-discussion-on-pertinent-issues-presented-by-the-sabarimala-matter/ "Permalink to A short discussion on pertinent issues presented by the sabarimalAmatter")
-
--   in
-    [Uncategorized](https://aryanthought.wordpress.com/category/uncategorized/)
--   [Leave a
-    comment](https://aryanthought.wordpress.com/2018/07/22/a-short-discussion-on-pertinent-issues-presented-by-the-sabarimala-matter/#respond)
-
-# A short discussion on pertinent issues presented by the sabarimalAmatter
+A short discussion on pertinent issues presented by the sabarimalA matter
 
 It’s often argued that restrictive rules, in terms of temple entry or
 offering worship at one, impinge upon the “right to participate in
@@ -173,32 +160,5 @@ This is nothing to do with ayyappa’s “mind” as some idiots wrongly
 understand, Nothing can upset or agitate the mind of a transcendental
 being. But when the same transcendental being is installed in an icon
 with mantra-s, etc, certain formalities come into effect.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
