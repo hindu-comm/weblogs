@@ -1,0 +1,126 @@
++++
+title = "The Dawn of Everything"
+full_title = "The Dawn of Everything"
+upstream_url = "https://dothemath.ucsd.edu/2023/09/the-dawn-of-everything/"
+date = "2023-09-12"
+
++++
+Source: [here](https://dothemath.ucsd.edu/2023/09/the-dawn-of-everything/).
+
+The Dawn of Everything
+
+[![](https://dothemath.ucsd.edu/wp-content/uploads/2023/09/dawn-cover-200x300.jpg)](https://dothemath.ucsd.edu/wp-content/uploads/2023/09/dawn-cover.jpg)Graeber and Wengrow’s book [*The Dawn of Everything*](https://us.macmillan.com/books/9780374157357/thedawnofeverything) keeps coming up in my life—especially as I dip an amateur toe into trying to understand human prehistory—so I thought I had better take a look. The title sounded promising, and I had heard that the book offers many pieces of interpreted evidence from humanity’s distant past. I like data.
+
+I elected to “preview” the book as an audiobook borrowed from the library, jotting 32 pages of notes as I went along. 24 audio-hours later, I am ready to report. A key point from the authors is: it didn’t have to be this way. To which I say: but it is. Making a convincing case that it could have gone much differently is a tall order given a single—seemingly conclusive—global experimental run. But we’ll get to all that.
+
+I will say up front that I am unqualified to supply a scholarly critique of the book. I can’t argue about any of the archeological evidence, but do find that I have a few bones to pick when it comes to logic and interpretation.
+
+Before I got very far into the book, I wrote down some things I wanted to learn from it.
+
+1.  Is my basic understanding correct: that [agriculture leads straight
+    to
+    modernity](https://dothemath.ucsd.edu/2023/08/our-time-on-the-river/),
+    in time? 2.  Will the book provide insight into the emergence of [human
+    supremacy](https://dothemath.ucsd.edu/2022/02/human-exceptionalism/)—a
+    false sense of separateness or transcendence above nature that
+    drives much of modernity? 3.  Does the book talk about animist belief systems and how languages
+    embodied different ways of thinking? 4.  Does the book present our history in the context of one-time
+    inheritance spending of, e.g., fossil fuels and ecological health? 5.  Is the “Everything” in the title broader than an anthropocentric
+    focus on the last 10,000 years as civilizations arose?
+
+I can say that the answer to all these questions is, disappointingly, no. But I’ll be a bit slippery on the first point, in due time.
+
+# A Rough Start
+
+I got off on the wrong foot with the book (before later growing to like it, briefly) because Chapter 1 revealed something I considered to be fundamentally wrong with the approach. The authors put forth two Enlightenment-era views of the nature of humanity that remain influential today. Hobbes characterized life before modernity as “solitary, poor, nasty, brutish, and short,” implying a sort of barbarism intrinsic to humans (see my earlier [counterpoint](https://dothemath.ucsd.edu/2023/08/desperate-odds/)), remedied by civilizational constructs. Meanwhile, Rousseau imagined an innocent age of idyllic harmony with nature that was destroyed by the very same trappings of civilization—starting with agriculture 10,000 years ago. In reaction to these schools of thought, the authors enumerate their three motivations for writing the book:
+
+> …we don’t much like the choice between these two alternatives. Our > objections can be classified into three broad categories. As accounts > of the general course of human history, they: >
+> 1.  simply aren’t true; > 2.  have dire political implications; > 3.  make the past needlessly dull.
+
+On the first: by all means let’s get the facts right. On the third: I looked forward to learning about the richly storied past. On the second: they lost me. It seems like working backwards—much like IPCC models that start with politically acceptable trends in economic and energy growth and examine the resulting climate consequences (rather than the harder job of evaluating what is biophysically likely or possible). Sometimes implications *are* dire, and we don’t get to choose. But okay, I’ve been warned that a primary motivation is rejection of implications.
+
+# Core Content and Themes
+
+The primary message I took away is not terribly surprising to me in hindsight, and actually reinforces an important message: early humans were impressive, diverse, thoughtful, logical, creative, generous, and fiercely free as groups. The picture that emerges is far more multi-dimensional than facile characterizations of early humans—by either Hobbes or Rousseau. In many ways, modernity has served to dumb us down as individuals. Particularly engaging were stories of French encounters with Indigenous Americans, who often ran circles around Europeans in reasoned, eloquent discourse. I am also a sucker for (apparently numerous and overwhelmingly lopsided) accounts of people who tried both European and Indigenous lifestyles and ran back to (or stayed in) Indigenous communities having acquired full, adult knowledge of the pros and cons of each. Perhaps Indigenous life held onto a sense of meaning, place, and unconditional community that has long disappeared in modernity.
+
+## Down with Determinism!
+
+A recurrent theme of the book is pushback against determinism or any sense of inevitability, supported by myriad examples of places and times that defied conventional expectations. People tried all manner of organizational arrangements in almost every order and combination—some even flip-flopping between radically different regimes on a seasonal basis. The argument seems to be that if even one society (and in fact, there were many) goes against the deterministic, evolutionary narrative, then determinism is destroyed.
+
+For example, a common narrative they repeatedly reject is the evolutionary sequence that horticultural hunter-gatherers began practicing more full-time agriculture, formed settlements, then cities, then a state, complete with kings and armies and all that. Since plenty of cultures did *not* follow this prescription or even traversed backwards or back-and-forth, then the purported sequence is dismissed as bunk—or at least not universally supported by all the actual data.
+
+I get it, and I appreciate the wealth of archeological findings the authors presented. But to what degree can variations invalidate the overall pattern?
+
+That is, in broad brush we know that humans started as foragers and hunters: not as citizens of states and not practicing full-time agriculture. Today, virtually all humans live under state rule and are fed by means other than hunting and foraging. The nations of the world are sovereign entities sporting bureaucracies, political machines, market systems, hierarchy, extreme division of labor—and all the various tributaries depicted in the [river system metaphor](https://dothemath.ucsd.edu/2023/08/our-time-on-the-river/). The small fraction of humans alive today operating outside of this global order tend to be those who managed to evade making the transition. No modern-era nations have broken rank and reverted to earlier ways. That’s the main flow: some water might have hidden in pockets or swirled in turbulent eddies, but most of it is decidedly gushing in a coherent direction.
+
+## No Revolution to See Here…
+
+Yes, the process was not linear, or simple, and it took a while to play out. We might compare the beginning of agriculture to lighting a fire in a fireplace. Sometimes an initial flame will not manage to spread to the logs, and the whole thing winks out. But with persistence, or if the match is applied to enough places having favorable conditions, some regions will catch fire and then propagate to other regions where efforts may have previously started then faltered, or stubbornly resisted all along. Once in full swing, it becomes hard to walk it back.
+
+The authors at one point describe laboratory results indicating that when all the right actions are taken, wild grasses can be domesticated into something like wheat in as little as 20–200 years. Since the agricultural transition took 3,000 years, the authors express contempt for the term Agricultural Revolution, on the basis that something taking 3,000 years to unfold can hardly be called a revolution.
+
+> The transition from living mainly on wild resources to a life based on > food production took something in the order of 3,000 years. \[…\] > Clearly, it no longer makes any sense to use phrases like ‘the > Agricultural Revolution’ when dealing with processes of such > inordinate length and complexity.
+
+Excuse me? To me, it seems that a radical change in methods is revolutionary even if it takes 3,000 years. I don’t know of a rule that it has to transpire in a single person’s lifetime, for instance. More important to me is what 3,000 years represents on the scale of Homo sapiens: 1–2% of its time? That’s pretty darned fast—especially compared to the pace of biological evolution. The very same diversity of approaches lauded by the authors also means that people were free to *not* follow the quickest laboratory route to domestication. The important thing is that it eventually happened—somewhat inexorably, I would say—and had enormous consequences. We’ll return to the central friction around determinism later, after laying out a few more key pieces.
+
+## It’s a Trap!
+
+The book rejects the characterization of agriculture as a trap, since plenty of people abandoned the practice of agriculture in its early days. And it’s no wonder, at some level: farming is hard work! But this is an example of metaphors being tricky. If one pictures a mouse trap on a hair-trigger that snaps shut in inescapable finality, then indeed agriculture is not such a trap. The [river metaphor](https://dothemath.ucsd.edu/2023/08/our-time-on-the-river/) plays better, here, as it is easier to get in and out of the stream when the flow is gentle nearer the headwaters. Now that we’re in the middle of a raging river, the trap is more fully realized. Escape is never *impossible*: it just becomes increasingly more difficult and unlikely.
+
+The actual operation of the trap might simply look more like many other forms of technological adoption: early adopters, holdouts/abstainers, and some who try it and then give it up. But virtually everyone—in the U.S., for instance—ends up with a smart phone, a computer, a television, and a car. The advantages for the many overwhelm the sometimes principled downsides of the few. The new capability becomes essentially ubiquitous, the few exceptions lost in obscurity.
+
+If, rather than a snapping mouse trap, we view agriculture as a “deep attractor” whose dynamical foundation ensnares most people in due time, then we’re closer to the mark. Painting it as an instant, irreversible trap that has 100% efficacy is indeed inaccurate, and not how most proponents of the “trap” concept would present it.
+
+## Agricultural Ubiquity
+
+I paid close attention to any mention of food acquisition practices in early cities. I never caught an example of a city that did not have some agricultural/livestock practice: **no purely hunter-gatherer cities**. Many early settlements *supplemented* with foraging and hunting—perhaps even outweighing domestic food production in some cases. But time after time, I heard mention of the rich soils of this or that settlement region. I came away satisfied that agriculture sensibly led to cities—rather than, say, the puzzling reverse.
+
+## The Fall
+
+Several times, the authors reject an interpretation if it in any way echos the story of “The Fall” from the Garden of Eden. For instance, a common telling has it that adoption of agriculture was a major event that set most of humanity on its current (now obviously destructive) path. Besides sounding like determinism, it conjures the old “Fall” trope, which is discarded simply because it’s a stale tale. Yet, sometimes the oldest and most persistent stories are based on a kernel of truth. If modernity proves itself to be a failure mode, and agriculture was a monumental transition that kicked off the process, then the well-worn shoe fits.
+
+## But: North America!
+
+A centerpiece of their case against the inevitability of European-style modernity is Indigenous North America, which I admit to viewing with awe, respect, deep regret, and longing. A number of tribes had tried agriculture, building large settlements and regional hegemony, only to melt away. This is held up as a reflection of deliberate choice, which certainly *may* be the case. Does it mean that North America had forever consciously rid itself of agriculturally-based city life? Who can say? The main example of Cahokia near present-day Saint Louis disbanded only a few hundred years before Europeans upended the continent. Given the much longer and extensively detailed history of Eurasian fits and starts thousands of years prior, it seems premature to declare North America as forever settled in its wholesale rejection of agricultural city-states based on this short pause.
+
+Also compelling to me is the recognition that Eurasia got a head start in developing agriculture. Okay, sure, the post-glacial stability of the Holocene arrived simultaneously in both places, but North America’s wild spaces had been subjected to human pressures for far less time, perhaps staving off the widespread impetus to move to a more labor-intensive way of life. In other words, I could believe that Americans enjoyed a greater degree of natural freedom in terms of a vibrant ecology that still left plenty of room for prolonged enactment of the easy life. These things take enough time to cause the authors to shun the word “revolution.” North America had simply seen fewer matches trying to get the agricultural blaze going. Europe saw to that, in a conclusive conflagration.
+
+# The Big Miss: Dynamics
+
+The authors repeatedly admonish the sloppiness of (seemingly all) previous research for coming to conclusions that are inconsistent with various specific cases. Granted, it’s clearly nuanced. But they themselves make plenty of sweeping statements that are similarly inconclusive and appear to me to be a matter of taste. My impression is that they offer a delightfully rich tapestry of the complex and diverse cultures of the past, and criticize the logic of many, while not demonstrating the most solid, unbiased logic themselves.
+
+As alluded to above, the book offers myriad “exceptions to the rule” from early instances of societies in an attempt to break the idea of determinism or inevitability. Property rights did not always accompany agriculture. Cities did not always have sovereign rule. Surplus did not always mean standing armies. Bureaucracy did not always imply state rule. Chiefs or kings did not always have unquestionable authority. Agricultural settlements were not always hierarchical. Yes—point taken—undoubtedly, early examples displayed almost every combination of properties, and sometimes reverted to notionally more “primitive” arrangements. They conclude from this evidence that none of the usual associations are deterministic or evolutionary, which they like because then it means we can now select any combination from the extensive menu and do civilization better.
+
+What they miss, in my view, is **interaction and game theory**. Early on, and in relative isolation, every experiment is likely to be tried somewhere by a highly creative and versatile species. Although virtually all instances leave archeological traces, some fail on their own lack of merits, others get by for a time, and a few prosper and expand. Now let them *interact*. The more advantageous arrangements simply outperform, displace, eliminate, or assimilate others. Fast forward to today, and we’re (essentially) all in sovereign states under military protection, all agriculturally based, all respecting property rights, all hierarchical, all living with bureaucracies, and all engaged in competitive market systems using money. Is it all just some random accident that could have gone any other way? We all just happened to pick the same courses off the menu?
+
+We might compare the book’s dizzying array of archeological examples to a menagerie of exotic animals. Each is fascinating to study, and offers lessons on what’s possible in isolation. Now open all the cages, let the animals interact (play?) together and see what happens. Graeber and Wengrow never do this—instead pointing to each animal, safe in its archeological cage, and emphasizing how different it is from today’s arrangement. In my view, the ubiquity of today’s systems marks the outcome after all the animals are “played” out, leaving one dominant beast. Erp. (*Note: then it dies of its own success, having consumed the “world.” Of course, I’m referring to modernity. Finding remains in the bowels of the beast is certainly interesting, but does not overturn the story that actually unfolded.*)
+
+Just upstream of a waterfall, one might find pockets of still water, turbulence, and even eddies where water momentarily runs counter to the overall flow. Meanwhile, the relentless grip of gravity—the chief dynamical element—pulls the bulk flow along and over the edge, at which point acknowledgement of the varied motions upstream seem less relevant. It’s hard to understand a waterfall using snapshots of water motions upstream while ignoring how gravity interacts with the landscape. The dynamics rule!
+
+The completeness of the transition to modernity, which indeed took a long time and had plenty of turbulence, smells essentially inevitable to me. At one point, the authors acknowledge this *apparent* inevitability based on the ubiquity of today’s system, but counter that the ubiquitous order all seems to be falling apart now \[data, please?\]. They point to global institutions not based on sovereign power, like the WTO and IMF (can we combine these to make WTF?), or note that non-sovereign entities like cryptocurrencies can undermine sovereign powers. Except: A) no state has yet fallen to such threats to my knowledge; B) if they did, another state would likely assume control of the failed region; and C) how exactly would global entities like the IMF convince nations to dissolve their governments and cede their sovereign power? Until I see the flow reverse, I’ll remain skeptical.
+
+To be fair, I also believe that the ubiquitous order will fall apart, and is arguably already starting. But this is more a matter of other near-deterministic dynamical forces involving biophysical constraints and the fundamental incompatibility between modernity and planetary limits—not because of cultural evolution such as ultra-globalization or due to conscious decisions to pull the plug on the underlying dynamics driving the bulk flow, much as I would cheer the latter course.
+
+# So: Why are We Stuck?
+
+The authors repeatedly asked the question: “why are we stuck” in the current systems, if indeed we have a diverse menu of choices available to us? The authors never deliver an answer, and my sense is that this was a truly perplexing question for them. Given their rejection of deterministic forces that put us all in essentially the same system today, very little is left to explain why we are all in this situation. If one does *not* banish determinism from the scene, the answer is far easier to elucidate. It is at least some progress that they *recognize* our “stuckness.” I’m not claiming that I have the right answer, but can say that the question does not bother me in the way it appears to flummox the authors.
+
+In the end, my impression is that the authors had strong allergic reactions to certain credible—and in some cases I would say obvious—explanations for how we got here, and an impressive-enough command of archeological details to throw a bunch of sand in the gears (while trying to argue that there *are* no gears). To me, this doesn’t wash well, and feels like middle-school science fair projects I have judged that almost invariably miss the point of science and work desperately to prove the initial hypothesis rather than take in all the evidence and see what story it has to tell when considered in full.
+But, as I pointed out in the introduction, they indicated exactly this ideological motivation in Chapter 1.
+
+# Reconciliation?
+
+Despite the long rant, I did like a number of things about the book. It *more* than quadrupled my detailed knowledge of the emergence of civilization. It provided insights into the variety of Indigenous social structures. I liked their suggestion to think of civilization as extended moral communities based on mutual aid and political wisdom (i.e., civilization need not be like modernity).
+
+I can also find common cause with the authors in one of their core messages, but perhaps from a different vantage. That is, the human animal is indeed a plastic being: a high-end piece of hardware capable of running any number of operating systems (my characterization, not theirs). The disagreement is whether we had to go through this phase called modernity. I think the forces are too powerful for it to have been avoided. But once modernity loses power by its own hand, new ways of living indeed are likely to fill the void and benefit from hard-won lessons. We’ve seen evidence that people can live differently, and profess profoundly sustainable philosophies that seem alien to the modernist, human-supremacist mind. Therefore, I share their underlying hope in organizational diversity, but place less stock in navigational agency in the face of overwhelming dynamics. I would have appreciated delving below the superficial arrangements to better understand the forces involved, the conditions under which various schemes emerge and persist or (mostly) perish, and the philosophies (and languages) that accompanied sustainable practices. Even without the ability to plot a course, it’s good to have a deeper understanding of what has worked or failed before, *and why*. But who am I kidding? We’ll just wing it and some groups will stumble onto something that works.
+
+Coming back to the first question I posed in the introduction, while my [river metaphor](https://dothemath.ucsd.edu/2023/08/our-time-on-the-river/) is admittedly vastly oversimplified, I am not persuaded that it’s garbage. I still think we would not have modernity without agriculture (and that the time-ordering and thus causal relationship is clear, however nuanced). Likewise for all the tributaries: most are contextualized to the overall amalgam, and are not particularly likely to persist in isolation. What the book shows, in essence, is that no single map can depict an exact sequence of tributaries. But I knew the map was not “correct” in this sense. In aggregate, though, we unambiguously find ourselves now on the raging river, and all those tributaries have influenced every modern society in a process of turbulent mixing following a variety of historical orderings.
+
+Given all this, I’m not going to recommend your reading the book, unless you are thirsty for extensive archeological tidbits. Perhaps it’s like the old ad campaign for the “scrubbing bubbles” bathroom cleaner: I worked hard, so you don’t have to.
+
+*Note: I am grateful for feedback and comments I received on a draft of this post by Alf Hornborg, Robert Jensen, Tom Love, and Bonnie Nardi (many of whom are anthropologists). Tom Love pointed me to a much more professional [review](https://www.journals.uchicago.edu/doi/10.1086/720603) by Ian Morris that makes some eerily similar points. I later was pointed to a multi-episode insightful deep-dive treatment of the book on the [What is Politics](https://www.youtube.com/playlist?list=PLU4FEuj4v9eAU706Cz_fCvcG44pNow14Y) YouTube channel (episodes 10, 10.1, etc.).  
+*
+
+Hits: 1900
+
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fdothemath.ucsd.edu%2F2023%2F09%2Fthe-dawn-of-everything%2F&linkname=The%20Dawn%20of%20Everything "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fdothemath.ucsd.edu%2F2023%2F09%2Fthe-dawn-of-everything%2F&linkname=The%20Dawn%20of%20Everything "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fdothemath.ucsd.edu%2F2023%2F09%2Fthe-dawn-of-everything%2F&linkname=The%20Dawn%20of%20Everything "Email")[](https://www.addtoany.com/share)

@@ -1,0 +1,42 @@
++++
+title = "Of races and other"
+full_title = "Of races and other castes"
+upstream_url = "https://indianphilosophyblog.org/2023/10/13/book-review-of-capitalism-its-nature-and-its-replacement-buddhist-and-marxist-insights-by-graham-priest-reviewed-by-david-simone/"
+date = "2023-10-13"
+
++++
+Source: [here](https://indianphilosophyblog.org/2023/10/13/book-review-of-capitalism-its-nature-and-its-replacement-buddhist-and-marxist-insights-by-graham-priest-reviewed-by-david-simone/).
+
+Of races and other castes
+
+**Graham Priest. *Capitalism – its Nature and its Replacement: Buddhist and Marxist Insights*. Xvii + 234 pp., index. Routledge, 2022. \$39.16 (paperback).**
+
+Graham Priest’s insightful and brilliant new book explores how Buddhist philosophy compliments Marxist (and anarchist) philosophy, providing a path beyond the current capitalist paradigm. It ushers in a new wave of Engaged Buddhism which is informed by the recent scholarly developments in Buddhist philosophy of (i) moral phenomenology (as espoused by Garfield and Heim), (ii) moral particularism, and (iii) free will in Buddhism literature.
+
+Priest divides the book into two parts: (1) Right View and (2) Right Action. These parts correspond to different aspects of the Eightfold Path in Buddhism. Part one introduces and explains key Buddhist and Marxist ideas. Part two uses the ideas from part one to show how we change our current capitalist paradigm. I will first summarize each part in order.
+
+In order to make his comparison, Priest introduces many Buddhist ideas in part one, which are shared by all Buddhist traditions and not just one in particular. Here are the four main Buddhist ideas which I think are integral to his analysis (not in any particular order): (i) dependent orgination (*pratītyasamutpāda*), (ii) impermanence (*anitya*), (iii) no-self (*anātman*), and (iv) compassion (*karuṇā*).
+
+The most important Buddhist idea for Priest is (i), and he uses it in order to make the case that no person is a “social atom” but is rather part of an interdependent network of causes and events. He says that both Buddhist and Marxist philosophy talk about interdependence, albeit in a slightly different manner. The failure of persons to recognize their interdependence with others is a fundamental misunderstanding of the world, and a symptom of our current capitalist sickness which over-emphasizes individualism. In order to overcome this sickness we must help people realize they are interdependent with others.
+
+What *pratītyasamutpāda* implies, along with *karuṇā*, is that we should foster solidarity (in the anarchist sense) among people. While I think this usage of *pratītyasamutpāda* is extremely apt, especially when considering the intersection of Buddhist and political/social philosophy, others (such as Heim) may see it as a modernist interpretation. As to (ii)*,* most people fundamentally misunderstand the world by ignoring the impermanence of things, and this leads to suffering (*duḥkha*). In the case of (iii), our mistaken view of self creates sense of “me-ness” which obscures the fact that a person is what they are due to the network of interconnectedness that is *pratītyasamutpāda*. Priest heavily emphasizes is (iv) *karuṇā*. Compassion is the central virtue of later Indian Buddhism, and building a sense of compassion is vital to changing our current capitalist paradigm.
+
+As for Marxism, Priest relies mostly on the interpretation of Ernest Mandel, but also brings in other scholars at points. The Marxist ideas most integral to Priest’s analysis are: (i) commodification (ii) dialectics, and (iii) the interaction between the economic base and the political/social superstructure.
+
+Priest uses (i) in order to show that capitalist ideology teaches people to see everything as something to be bought and sold, and that this even extends to persons themselves. In short, people view the worlds in terms of property rather than in terms of compassion, and this is detrimental to change. As for (ii), “reality is not static but is in a constant state of change, in which oppositions arise and are transcended (*aufgehoben*).” (73) Priest makes a comparison here between dialectics and *anitya*. Marx’s historical dialectics are about change in the world, emphasizing the impermanence of economical, political, and other systems. The causal interactions and oppositions of Marx’s dialectic Priest sees as a special case of *pratītyasamutpāda.*
+
+Though (iii) is covered detail in part two, here it is worth mentioning he reads Marx as advocating that the economic base of a society determines the political/social superstructure. While I don’t think Marx is explicit on this point, I do think many later Marxists understand him this way. Priest, however, rejects the idea that the base determines the superstructure. Instead he sees the two mutually informing one another in a dialectical manner, a view which he attributes to Gramsci. I agree that this way of way reading Marx into *pratītyasamutpāda* is integral to melding of Buddhist and Marxist philosophy.
+
+In part two, Priest expounds upon his vision for a better society, drawing inspiration from anarchist philosophers such as Bakunin, Kropotkin, and Bookchin. He asserts that compassion, symbolized by “*karuṇā*,” should serve as the foundational principle for future political and economic systems (107). This examination leads Priest to scrutinize institutional power within a capitalist state.
+
+While Marx advocated for a centralized transitional state post-capitalism, Priest aligns with anarchists in favor of a grassroots, bottom-up power structure (124). His central organizational model is Self-Organizing Cooperatives (SOCs) – local, interdependent groups making collective decisions through consensus. SOCs are designed to have the flexibility to unite and create higher-order cooperation, forming a Structure of SOCs (SSOCs). Similar to sporting leagues forming a national league, this structure can be termed a “confederation,” “libertarian municipalism,” or “communalism,” echoing Bookchin’s ideas. Crucially, even at the highest level, it retains its grassroots orientation, staying accountable to local individuals. This design prioritizes flexibility and democracy over top-down structures. Ultimately, SSOCs promote the interdependence of individuals, nurturing a profound sense of solidarity and compassion within the societal framework.
+
+For Priest solidarity and compassion are integral to education and weeding out “ideology”.He uses “ideology” in the Marxist sense, meaning “a system of beliefs that obscures or covers up the real nature of reality” (172). Capitalism’s ideology covers up the fact that people are interdependent and instead emphasizes social atomism. Education under capitalism is part of the ideological machinery, and thus tends to reinforce capitalism. Under a post-capitalist system education would instead reinforce the compassion and solidarity. In this sense education becomes a tool for liberation rather than oppression.
+
+Next Priest emphasizes moral phenomenology as a means for political and social change. In order to change the world, we must first change our experience of it. This affects how we comport ourselves in the world. These internal changes are achieved through behavioral practices. So for example, if we practice compassion toward others we will eventually experience the world in terms of compassion and act accordingly.
+
+Priest is careful to note in his epilogue that what he describes is not a one-size fits all path, reflecting Marxist and Buddhist particularism. However, we must still recognize our interdependence with others. Change must be grounded in collective action. Priest ends in agood place, by emphasizing interdependence, solidarity, and compassion as basis for making the world a more humane and rational place (234).
+
+Overall, this book will be informative for anyone interested in the intersection of Buddhist ethics and political/social philosophy. My only major qualm is that more needs to be said about meditation. While he mentions meditation briefly, since the topic is voluminous, he does not talk about its role in the educational system of post-capitalist societies. Classical Buddhists emphasized the importance of meditation, so I think developing compassion and recognition of *pratītyasamutpāda*, and thus political, social, and economic change requires more than intellectualism.
+
+*Reviewed by David Simone, University of Hawai’i at Mānoa*
