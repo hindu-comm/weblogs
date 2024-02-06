@@ -1,0 +1,206 @@
++++
+title = "Get lucky"
+full_title = "Get lucky"
+upstream_url = "https://www.razibkhan.com/p/get-lucky"
+date = "245-02-05"
+
++++
+Source: [here](https://www.razibkhan.com/p/get-lucky).
+
+Get lucky
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff00f0dc7-4bbe-4d79-be70-38e1ec512add_700x721.jpeg)
+
+#### Get lucky
+
+www.razibkhan.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
+# Get lucky
+
+### Happy 245th, America!
+
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F30cd40d1-bcaf-4c2c-8697-716bf5fcee2d_300x300.jpeg)
+
+[Razib Khan](https://substack.com/@razib)
+
+Jul 5, 2021
+
+194
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff00f0dc7-4bbe-4d79-be70-38e1ec512add_700x721.jpeg)
+
+#### Get lucky
+
+www.razibkhan.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
+[](https://www.razibkhan.com/p/get-lucky/comments)
+
+20
+
+[](javascript:void(0))
+
+Share
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff00f0dc7-4bbe-4d79-be70-38e1ec512add_700x721.jpeg)
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff00f0dc7-4bbe-4d79-be70-38e1ec512add_700x721.jpeg)
+
+Subscribe
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/get-lucky?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+I chose America.
+
+I came at five, preliterate, marching self-importantly from one Heathrow connecting gate to another, my mother trailing serenely behind me, carrying the baby and everything else. Letting me believe I was leading us to our destination.
+
+We came to keep my dad company while he finished his PhD. He had done his Masters outside Bangladesh, too, and returned after. For the first couple of years, I knew my idyll was a temporary one. It didn’t keep me from getting attached.
+
+Once my dad had a PhD and sponsorship, I began to hope. I became America’s most ardent booster. My parents would waffle. They never got very good at being Americans. On a good day, it was the land of opportunity and everything was better than Bangladesh. On a bad day, everything was worse. I had very little use for my parents’ conversations, save for the stay-or-go ones. Then, I hung on their every emotional hue. It is the only question on which I ever remember advocating for myself. According to my mother, I also once threatened to throw myself out an upstairs window if they didn’t buy me a bike like everyone else had. She has no concept of how much more heavily the question of whether I could have America forever hung on me at that age. It felt like life and death.
+
+[](https://www.gnxp.com/WordPress/2020/09/21/three-teachers/comment-page-1/)
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F548a7d33-1e53-4359-ad0d-0f388e8a1012_1000x687.jpeg)
+
+PS 24, 1982
+
+It’s hard to express how lucky it feels to be an American to someone who’s never lived in fear of it ending.
+
+My children will never know how it feels to choose America. Half of their friends have an immigrant parent. They think everyone comes to stay. Old people asked me where I was “really from” or marveled at my perfect English. But my kids barely meet anyone who doesn’t understand that their blur of skinny tan legs pounding down the pavement, fruit of first-generation and fourth-generation immigrants who chose this country, is as American a creation as it gets. One of those uncomprehending souls accosted our little family of four in a supermarket when our son was a few days old. *Oh!* she said, poking her face in the newborn’s, *So little! What nationality IS he?*
+
+My sleep-deprived wife was mostly annoyed that our nation is so obnoxiously bad at talking about race. But think of it, not only was he one of the planet’s newest Americans, he was something else that could probably then only happen in America. This was our only baby we managed to get even low-coverage [whole-genome sequenced](https://www.technologyreview.com/2014/06/13/172528/for-one-baby-life-begins-with-genome-revealed/) before birth. If she really wanted to get into his ancestry and “nationality” as she put it, I alone among parents of newborns in the world on that day, could have already told her things like that this few-days-old human had randomly come up with fully three times the Norwegian ancestry of his squishy-cheeked toddler sister standing there holding my hand.
+
+I don’t have any illusions that other parents are as fascinated by access to this futuristic trivia as we were, but if you want to push the boundaries of knowledge, if you want to try something audacious, if you crave to *know* things for the sake of knowing, if you want to live in your full weirdness, you come to America. Or if you’re little like I was, you do everything in your power to stay.
+
+Questions of human populations and ancestry have fascinated me since before I could even adequately articulate them. I first tried asking my dad’s grad-student friends at parties, but their answers were patently idiotic. They were physicists and engineers. They thought it was funny how much I wanted to know about humans. At 17, I found the work of human population-genetics giant [Luigi Luca Cavalli-Sforza](https://www.amazon.com/exec/obidos/ASIN/0691029059/geneexpressio-20) (another immigrant who chose America as backdrop for his massive contributions to human knowledge) and a whole world opened up.
+
+Before I was 30, [Linda Avey](https://en.wikipedia.org/wiki/Linda_Avey) had co-founded [23andMe](https://www.amazon.com/exec/obidos/ASIN/B01G7PYQTM/geneexpressio-20). I now lived in the future of my dreams. Screw Craig Venter’s [three-billion-dollar genome](https://en.wikipedia.org/wiki/Human_Genome_Project); I immediately started fantasizing about whole-genome sequences anyone could afford. I’d survey people: *Would you pay a million dollars for your WGS? Would you pay \$100,000? How about \$10,000? What if someday it’s like... under \$1000?* I’d ask melodramatically like I was asking if they’d live forever if it became possible in their lifetimes. As it turned out, I got my [WGS](https://us.dantelabs.com/) in a flash sale for \$299. Just a decade earlier I’d pinched myself that I could pay [23andMe](https://www.amazon.com/exec/obidos/ASIN/B01G7PYQTM/geneexpressio-20) \$399 on “DNA Day” to get my million little markers read.
+
+Now every day was DNA Day. I lived and breathed direct-to-consumer genomics. People’s results weren’t telling them enough of what they wanted to know. They’d reach out to me to tell them more. I got to help multiple friends tease family tales buried generations deep out of their surprising results. Asian adoptees and African Americans were particularly hungry for details about their roots. I started the African Ancestry Project and hundreds of strangers came to me, results in hand so I could try to tell them more about where they came from. Millions of people shared my old drive to know more about our species.
+
+I went on to help shape ancestry products for half a dozen companies. I reviewed results before they went live for Henry Louis Gates Jr.’s [Finding Your Roots](https://www.pbs.org/weta/finding-your-roots) series. I worked for and became friends with Linda Avey. I lived my dream.
+
+Everywhere I went in America, people had believed me when I showed them who I was. On my first day in a new school, I was different-looking, so the boys would jump me. I’d pull off my glasses, fight back like a deranged maniac and no one would touch me again. The brown kid of Muslim parents, I showed up at the atheist club and they let me be vice president. I’ve always asked everyone I met impertinent questions, from maintenance workers to [MacArthur Geniuses](https://en.wikipedia.org/wiki/Carlos_D._Bustamante). Often the minute we meet. Once they get used to it, interesting people are usually down to talk about absolutely anything. I truly don’t judge. I enjoy hearing about absolutely everything. I don’t quite understand taboos. I never have. For nearly two decades, I’ve blogged whatever I felt like exploring.
+
+When I was going through school, as American as I was becoming, my teachers could see my parents didn’t have a clue. They’d tell them what to do. With mixed results. One told them Rajib wasn’t a good spelling. So I got a much more googleable first name. And so did my little brother, so we could still match. Another could see that I was bored and not challenged. She lobbied my harried dad until he got fed up and agreed to move me to a magnet elementary with an accelerated track. In 7th grade, my teacher trekked through the snow to try to coax me off my sickbed long enough to come qualify for the National Geographic [Geo Bee](https://www.nationalgeographic.org/education/student-experiences/geobee/). She knew my geography and demography obsessions made me a shoo-in. My mother didn’t care. I needed to recover from my Nth bout of pneumonia (It wasn’t until adulthood that I understood scratchy wool sweaters weren’t meant to be worn against the skin. God, I hated sweaters. My family never adapted to [lake-effect snow](https://en.wikipedia.org/wiki/Lake-effect_snow).).
+
+My lack of interest in self-censorship or taboos suited me. I grew up in a golden age for the restlessly curious. Masses of data became freely available, whether [DNA data sets](https://www.genome.gov/27528684/1000-genomes-project) or [General Social Survey](http://www.gss.norc.org/) and [World Values Survey](https://www.worldvaluessurvey.org/wvs.jsp). Anything I’ve wanted to know, I could chip away at, data point by data point. Almost anyone fascinating I’ve wished to talk to, I could email. Often I’ve met them. Brilliant, curious people would join me in blogging about interesting questions, often pseudonymously, before slipping back into their high-profile career tracks. I never tried to be anonymous. I didn’t crave any renown or responsibility beyond that of always knowing more. And I was fine having my name on that. I’ve never been ashamed to be curious.
+
+It was truly bewildering when in the middle of my PhD *The New York Times* asked me to join a [big batch](https://www.politico.com/media/story/2015/03/new-york-times-adding-20-online-opinion-writers-003580/) of occasional editorial contributors. I think they were trying to show they could still handle viewpoint diversity. There were some cool people, like [Zeynep](https://www.theinsight.org/). But even alongside people I admire, I knew I didn’t belong on any *New York Times* list. The [couple](https://www.nytimes.com/2014/11/25/opinion/our-cats-ourselves.html?) of [op-eds](https://www.nytimes.com/2015/01/03/opinion/the-abortion-stereotype.html) I’d already written for them had been most-read pieces that week, but that’s different than an actual official affiliation. I dig into data and write things people find interesting, but I don’t toe a “party line” well.
+
+So it seemed like an odd fit. But I went along with it. They wanted a bio. They wanted a headshot. I didn’t have time for this, but I remember googling local photographers. In the end, we decided f\*\*\* it, I put on a clean shirt, we parked the baby at the foot of a chair, and took a bunch of pictures against a wall of peeling siding before sunset. I still use one of those for my headshot some [places](https://twitter.com/razibkhan). But not at *The New York Times*.
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F21d4e36f-ffa6-4dce-a90d-d5d45f43a659_800x443.jpeg)
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F21d4e36f-ffa6-4dce-a90d-d5d45f43a659_800x443.jpeg)
+
+When my editor called that night to apologize for the about-face (the original line, earlier in the day was NBD, sorry about all this man, it will blow over), he said *Christ, man, how did you have time to write that much?* They’d thought they had vetted me. They had no idea how much an uncensored human can write and think when all he cares about is knowing more. I was 38 years old.
+
+I have no idea what the optimal age to get canceled is. There weren’t so many of us in 2015 when it happened to me. The N is getting big enough at this point that we can probably do that survey soon. I *can* tell you that getting canceled for being exactly who you are, saying exactly what you think and see, and talking/writing with absolutely anyone is kind of a non-event. It’s a funny commentary on our times that one of the people they say was most rabid behind the scenes about protecting the readership of *The New York Times* from a dangerous mind like mine, has since joined *The New York Times*. Does America feel safe now, buddy?
+
+A guy I couldn’t even place asked me to meet him for drinks recently. He was very sincere and he wanted to apologize to me for piling on on Twitter when I was canceled. I’m not going to pretend I can even begin to remember this guy. He wanted to know how to reach [David Shor](https://razib.substack.com/p/david-shor-the-uncancellable) to apologize to him, too. Lol. You know where this is going, right? Now that *he* had been canceled for earnestly observing something he thought would be useful to know based on data, he realized what he had previously participated in.
+
+Can I tell you his offense? His polling found that Democrats are alienating many voters with the relentless focus on race and social justice. With putting symbolism over substantive changes. He basically found that the party could benefit African Americans more if they chilled out on purity and virtue-signaling and drove away fewer moderates so they could actually win. Sounds like useful intel, doesn’t it? He was fired, blackballed, and had “friends” who shunned him. He’s a smart guy and he landed on his feet, but the dude had a harrowed look.
+
+My experience couldn’t be more different. Six years on, I cannot think of a single person I value or a single place I’ve wanted to be that I no longer have access to because the New York Times deemed me beyond the pale. There are a boatload of fascinating, principled people in America and beyond who don’t care who the 21st-century New York Times thinks is pure enough. I’ve recorded podcasts with dozens of them. Thousands more give me their emails and pay me good money to tell them data-backed stories about the history of the human race on Substack.
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0fa0e48f-c6b5-412c-8354-a7a6a224795a_800x343.jpeg)
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0fa0e48f-c6b5-412c-8354-a7a6a224795a_800x343.jpeg)
+
+When I was a gawky preteen, I had a promotional t-shirt that said “*Get Lucky” Ask me how...* from [Bruegger’s](https://en.wikipedia.org/wiki/Bruegger%27s) Bagel Bakery. My parents, as I mentioned, have always been kind of oblivious. They had no idea my shirt was inappropriate, so I wore it everywhere. I had realized I was an atheist when I was 8. They’re on-again, off-again devout Muslims, so they took locking myself in my room to read when I was stuck at home as evidence that I was a devout, studious and shy child. Actually, I was an extremely big-mouthed blasphemer, the minute I got out of earshot of the house.
+
+In the 2010’s, a small group of men from my parents’ homeland, which is officially secular but has a 90% Muslim population, took the bold step of blogging under their own names about themes including science, evolution, secularism and atheism. Between 2013 and 2016, responding to a call by [Islamic seminary teachers](https://www.theguardian.com/world/2015/may/12/third-atheist-blogger-killed-in-bangladesh-after-knife-attack), young religious fundamentalist students systematically [hunted down](https://www.theguardian.com/commentisfree/2015/may/12/guardian-view-on-murder-of-ananta-bijoy-das) 11 of them from a list of 80 blasphemers and hacked them to death, usually with machetes. The most prominent one, a US citizen, engineer [Avijit Roy](https://www.theguardian.com/world/2015/feb/27/american-atheist-blogger-hacked-to-death-in-bangladesh) was visiting Dhaka from America with his wife when two assailants pulled them from a bicycle rickshaw. In the middle of the street, they hacked at them until Roy bled to death and his wife was badly injured. She escaped with her life, losing her husband and a finger. Roy was a few years older than me.
+
+Other times, assailants pretended to be repairmen to gain entry to the bloggers’ apartments before hacking them to death in front of their families. I think I remember one who was fearlessly discussing atheism in a setting like a dorm. Word got out, a mob broke into the campus area, poured into the room and beat him to death while the people he’d been chatting with stood by. In another instance, the Islamic seminary teachers called a street protest against the bloggers, which escalated into a riot, killing 50 people.
+
+[](https://www.straitstimes.com/asia/south-asia/bangladesh-professor-who-pushed-for-ban-on-full-face-veils-hacked-to-death-police)
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc321ecb7-80d3-4a08-ad57-824e9ac0afc5_844x921.png)
+
+Shortly before his death, Roy said this on Facebook: “I have profound interest in freethinking, skepticism, philosophy, scientific thoughts and human rights of people. I write in the internet blogs . . . and occasionally in some newspapers.”
+
+Diction aside, me too, brother, me too. Six years later, one of us is dead and one has the privilege of watching his babies grow up taking America for granted.
+
+I’m pretty sure I’m one of the luckiest human beings who’s ever lived. I get to look inside modern and archaic human genomes from anywhere on the planet whenever I want, something beyond my wildest futurist dreams (or his!) when I first picked up a [Cavalli-Sforza](https://med.stanford.edu/news/all-news/2018/09/luigi-luca-cavalli-sforza-a-giant-in-population-genetics-dies-at-96.html) book. I get to teach people about genetics, human populations and history. I can read any book or paper I choose. I think, say and write whatever I want and people even pay me to do it. I chat with some of the most interesting people alive and call many of them friends.
+
+Ours is not the first society to plunge into a completely moronic frenzy of witch hunts and moral purity tests in an effort to vanquish some non-existent foe or avenge some imagined victim. [Some](https://en.wikipedia.org/wiki/Red_Scare#:~:text=A%20Red%20Scare%20is%20the,referred%20to%20by%20this%20name.) [frenzies](https://en.wikipedia.org/wiki/Joseph_McCarthy) [of](https://en.wikipedia.org/wiki/Satanic_ritual_abuse) [idiocy](https://en.wikipedia.org/wiki/Salem_witch_trials) [come](https://en.wikipedia.org/wiki/Killing_Fields) [and](https://en.wikipedia.org/wiki/Spanish_Inquisition) [go](https://en.wikipedia.org/wiki/Monkey-man_of_Delhi) fast. [Some](https://en.wikipedia.org/wiki/Cultural_Revolution) [wrack a nation](https://en.wikipedia.org/wiki/Moscow_Trials#:~:text=The%20Moscow%20Trials%20were%20a,Party%20of%20the%20Soviet%20Union.) for a [decade](https://en.wikipedia.org/wiki/Spanish_Inquisition), kill millions, ruin the lives of millions more and require decades of recovery. Much as I love the whole grand, brutal sweep of human history, I don’t have a crystal ball any more than anyone else. Three things I will tell you with absolute certainty:
+
+1.  Just as in every mass idiocy of the past, the vast majority of
+    humans keeping quiet don’t deeply believe in the “truths” we’re all
+    supposed to pledge blind allegiance to. They’ll turn on a dime as
+    soon as it feels safe to. Cold comfort when you’re in it, but in the
+    long run, you can bank on this.
+
+2.  There’s never been a better place on earth than this one to be a
+    “thought criminal” or get “canceled” for saying something true. To
+    me, that’s a testament to the work of the imperfect Americans who
+    came before us. They weren’t all fools.
+
+3.  I don’t know when it will end, but I’m at peace with how I’ve used
+    my glorious gift of freedom. Are you?
+
+Happy birthday, America. I love you. You’re the luckiest thing that ever happened to me.
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28cb6e3c-e0aa-4046-a100-190e4259db6f_800x494.jpeg)
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28cb6e3c-e0aa-4046-a100-190e4259db6f_800x494.jpeg)
+
+Subscribe
+
+[Give a gift subscription](https://www.razibkhan.com/subscribe?&gift=true)
+
+[Share](https://www.razibkhan.com/p/get-lucky?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+194
+
+Share this post
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff00f0dc7-4bbe-4d79-be70-38e1ec512add_700x721.jpeg)
+
+#### Get lucky
+
+www.razibkhan.com
+
+Copy link
+
+Facebook
+
+Email
+
+Note
+
+Other
+
+[](https://www.razibkhan.com/p/get-lucky/comments)
+
+20
+
+[](javascript:void(0))
+
+Share
