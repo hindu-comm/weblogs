@@ -1,0 +1,700 @@
++++
+title = "The Manusmriti is a"
+full_title = "The Manusmriti is a Bitter Medicine for the socalled Modern Man"
+upstream_url = "https://thedharmadispatch.substack.com/p/the-manusmriti-is-a-bitter-medicine"
+date = "2024-03-05"
+
++++
+Source: [here](https://thedharmadispatch.substack.com/p/the-manusmriti-is-a-bitter-medicine).
+
+The Manusmriti is a Bitter Medicine for the so-called Modern Man
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
+
+Share this post
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8bfad57-e853-4964-b099-e1cb6b61d060_1200x1284.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### The Manusmriti is a Bitter Medicine for the so-called Modern Man
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+thedharmadispatch.substack.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Copy link
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Facebook
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-header">
+
+# The Manusmriti is a Bitter Medicine for the so-called Modern Man
+
+### There is nothing to be apologetic about the Manusmriti. In Manu's eyes, the modern man is in a pathetic condition and needs therapy.
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingBottom-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-16 pc-paddingBottom-16 pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-12 pc-alignItems-center pc-reset byline-wrapper">
+
+<div class="pencraft pc-display-flex pc-reset">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-alignItems-center _flexGrow_1cr80_199 pc-reset facepile">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset">
+
+<div class="pencraft pc-display-flex pc-alignItems-center pc-reset _faces_dhr36_7 _size-40_dhr36_15">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+![](https://substackcdn.com/image/fetch/w_80,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5a13699f-43ed-49f6-8d07-86f7f3bc9e6e_40x40.png)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-reset">
+
+<div class="pencraft pc-reset _color-pub-primary-text_13a18_204 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
+
+<div class="profile-hover-card-target _profileHoverCardTarget_ooez6_45">
+
+[The Dharma Dispatch](https://substack.com/@thedharmadispatch)
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-4 pc-reset">
+
+<div class="pencraft pc-reset _color-pub-secondary-text_13a18_207 _line-height-20_13a18_95 _font-meta_13a18_131 _size-11_13a18_35 _weight-medium_13a18_162 _transform-uppercase_13a18_239 _reset_13a18_1 _meta_13a18_439">
+
+Feb 21, 2023
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+7
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
+
+Share this post
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8bfad57-e853-4964-b099-e1cb6b61d060_1200x1284.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### The Manusmriti is a Bitter Medicine for the so-called Modern Man
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+thedharmadispatch.substack.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Copy link
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Facebook
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://thedharmadispatch.substack.com/p/the-manusmriti-is-a-bitter-medicine/comments)
+
+<div class="label">
+
+1
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div>
+
+<div class="available-content">
+
+<div class="body markup" dir="auto">
+
+<div class="captioned-image-container">
+
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8bfad57-e853-4964-b099-e1cb6b61d060_1200x1284.jpeg)
+
+</div>
+
+THE WHOLE OF *MANUSMRITI* IS PERVADED by one thought — the thought of the world as a playground of the spirit and of man’s life as a quest after the spirit. The body is both an instrument and an impediment. Divesting the body of its impedimental character and not rejecting the instrument is the purpose of Dharma.
+
+Life must be lived, but lived to good purpose; and that purpose is achieved not by pampering the bodily hungers, but by rationing their food. Through such regulation of the life of the body, its impedimental character is eliminated, and the quest then makes good progress. To the serious student of life’s values, there can be nothing terrifying in this; and there should be to him a great deal that is encouraging and strengthening.
+
+*This frankly is a bitter medicine for the palate of the modern man.* He imagines that the good of life is good eating and good gadding about. *In the eyes of Manu, such moderns are in a morbid condition, and they need medicine*. If only they would summon patience and introspection enough to take the medicine for a while, they will come to find that it is not a bitter drug, but sweet ambrosia.
+
+<div class="subscription-widget-wrap">
+
+<div class="subscription-widget show-subscribe">
+
+<div class="preamble">
+
+**The Dharma Dispatch Digest is a reader-supported publication.** To receive new articles and to support the sacred work we’re doing, consider becoming a paid subscriber.
+
+</div>
+
+<div class="subscribe-widget" component-name="SubscribeWidget">
+
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+THERE IS NOTHING IN MANU ABOUT WHICH ONE NEED BE APOLOGETIC. He has his traducers, and they are in high places too. But I do not think it necessary to take serious notice of them. We all know of a party in South India which pleased itself some time ago by the ceremonious burning of Manu’s book in public. We have also read of the tearing off of its pages literally to pieces on the floor of parliament in Delhi by an angry member.
+
+A few days ago, a Frenchman (a friend of mine) gave me an instance of how far prejudice wedded to ignorance can go in being slanderous. That Frenchman is a student of Hindu philosophy and culture. He has been learning Sanskrit and visiting centres of Hindu learning and enlightenment.
+
+On his way to Delhi from Bombay, he found for a fellow-passenger in the train a certain member of parliament. My friend had apparently been expressing himself in enthusiastic terms about Hinduism and its institutions to his Indian companion. As the train passed by an industrial town, he noticed a large colony of coolie hutments and asked the parliamentarian whether government was doing anything about slums. Our politician burst out: “It is all Manu. It is all the work of Manu.” It is clear that our compatriot did not know that there were and even today are slums in countries where the voice of Manu never reached.
+
+If I were within talking distance of the politician, I should make bold to tell him that the responsibility for slums belongs, not to Manu in any sense or degree, but to James Watt and Richard Arkwright, inventors of steam engine and spinning jenny. *Industrialism is the parent of the slumland;* and its offspring are really of two classes: one grovelling in hutments, and another revelling in saloons.
+
+The medicine for both is in such educational and moral reforms as are indicated by that heightened view of life and its purposes which Manu posits as his starting point. This view is that life is lived not on one plane, but on two planes, the physical and the super-physical; that the visible realities of the world have their roots in an invisible field of reality. That the right ethic for the world is to be derived from an understanding of that super-world which is the unapparent foundation and support of our familiar fields of being and moving.
+
+## **The Primacy of the Brahmana in the Manusmriti**
+
+<div id="§the-primacy-of-the-brahmana-in-the-manusmriti" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://thedharmadispatch.substack.com/i/104270553/the-primacy-of-the-brahmana-in-the-manusmriti">
+
+</div>
+
+</div>
+
+</div>
+
+Manu exalts the Brahmana above other *varnas*. He assigns special honours and special privileges and special immunities to the Brahmana. This does look inequitable on the surface. But it must be remembered that he assigns special vows, special responsibilities and special restrictions of freedom to the Brahmana.
+
+If bodily punishment for lapse is less severe, the punishment for the mind is far more severe than for others. The special treatment is in the interests of the special function allotted to the Brahmana.
+
+Why are special immunities and privileges of various kinds granted to members of parliament, ministers, judges, military officers and certain other classes of public servants in our democratic day? Because they are concessions necessary if the functionaries should perform their functions with their heart in the duty and in an atmosphere of public confidence and prestige. If they should render something to the public, there is something which the public should render to them while they are at work. When the public honours a public functionary, the public does a thing to promote their own interests.
+
+Whether the Brahmana who gives himself that name merely by virtue of his birth is entitled to what Manu recommends for the Brahmana is an altogether different question. Manu is not ambiguous here. Again and again he declares that the Brahmana who tries to exploit his *varna* coming from his birth is to be counted as far worse than one fallen. Such a Brahmana is ridiculed as a *Dharma-dhvajin*: the bearer of Dharma’s flag.
+
+It should be firmly borne in mind that Manu is mainly concerned not with what is due to the Brahmana, but with what is due to the community as a whole. The Brahmana is an incident in the scheme of Dharma, though an incident of the highest significance to the community. Incident and consequence are both to be evaluated from the point of view of the whole of which the Brahmana is but a part.
+
+## **Futile Condemnation of Manu**
+
+<div id="§futile-condemnation-of-manu" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://thedharmadispatch.substack.com/i/104270553/futile-condemnation-of-manu">
+
+</div>
+
+</div>
+
+</div>
+
+*To assail Manu in our day is to beat the still air, for he is no longer an active force in the life of the State*. When he was a living force, it was by virtue of the Kshatriya ruler who had accepted him as superior to himself and to his assemblies of subjects and ministers. *Manu was then the living Voice of God*.
+
+Manu counts today only in the eyes of a thinning class of people:
+
+\(i\) who have faith in the existence and potency of a nonphysical background to life on earth
+
+\(ii\) who accept the significance of ancient usage and traditional ritual to the evolution of the soul, and
+
+\(iii\) who regard society not as a haphazard phenomenon, but as an organism in continuous evolution, by an inner law of its own being, drawn from a long-extending past.
+
+*To those who have no care for spiritual values in human life and for historical continuity in social development, Manusmrti can be of no interest except as a museum piece.*
+
+*To be continued*
+
+<div>
+
+------------------------------------------------------------------------
+
+</div>
+
+## A Heartfelt Appeal: Please Support Our Sacred Work @ The Dharma Dispatch
+
+<div id="§a-heartfelt-appeal-please-support-our-sacred-work-the-dharma-dispatch" class="header-anchor-widget offset-top">
+
+<div class="header-anchor-widget-button-container">
+
+<div class="header-anchor-widget-button" href="https://thedharmadispatch.substack.com/i/104270553/a-heartfelt-appeal-please-support-our-sacred-work-the-dharma-dispatch">
+
+</div>
+
+</div>
+
+</div>
+
+Please take a moment to consider opting for a paid subscription to The Dharma Dispatch, *which is sustained entirely through discerning readers like you*.
+
+It has taken us weeks of sustained research, thorough preparation and loving writing to produce this ongoing essay series. **It is our constant endeavour on our part to produce such ennobling and sacred stories from the spiritual civilisation of Bharatavarsha.**
+
+*It is your subscriptions that enables and empowers* *us to produce such content*. *Every rupee of your subscription pays our bills and helps us offer more and better content to our readership*.
+
+To take a paid subscription and help our work in disseminating the best elements of Sanatana Dharma, click the button below.
+
+<div class="subscribe-widget" component-name="SubscribeWidget">
+
+<div class="pencraft pc-display-flex pc-justifyContent-center pc-reset">
+
+<div class="_container_1xsdj_1">
+
+<div class="_sideBySideWrap_1xsdj_10">
+
+<div class="_emailInputWrapper_1xsdj_55">
+
+</div>
+
+Subscribe
+
+</div>
+
+<div id="error-container">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+------------------------------------------------------------------------
+
+</div>
+
+</div>
+
+</div>
+
+<div class="visibility-check">
+
+</div>
+
+<div class="post-footer">
+
+<div class="pencraft pc-display-flex pc-gap-16 pc-paddingTop-16 pc-paddingBottom-16 pc-justifyContent-space-between pc-alignItems-center _flexGrow_1cr80_199 pc-reset _border-top-detail-themed_1cr80_48 _border-bottom-detail-themed_1cr80_51 post-ufi">
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+<div class="like-button-container post-ufi-button style-button">
+
+<div class="label">
+
+7
+
+</div>
+
+<div class="modal typography out gone share-dialog popup" inert="" role="dialog">
+
+<div class="modal-table">
+
+<div class="modal-row">
+
+<div class="modal-cell modal-content no-fullscreen">
+
+<div class="container">
+
+<div class="share-dialog-title">
+
+Share this post
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-gap-32 pc-paddingLeft-24 pc-paddingRight-24 pc-paddingTop-32 pc-paddingBottom-48 pc-reset">
+
+<div class="pencraft pc-display-flex pc-padding-8 pc-reset _border-detail_1cr80_25 pc-borderRadius-md social-preview-box post">
+
+<div class="social-image-box">
+
+![](https://substackcdn.com/image/fetch/w_120,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8bfad57-e853-4964-b099-e1cb6b61d060_1200x1284.jpeg)
+
+</div>
+
+<div class="pencraft pc-display-flex pc-flexDirection-column pc-paddingTop-8 pc-paddingBottom-8 pc-paddingLeft-12 pc-reset">
+
+#### The Manusmriti is a Bitter Medicine for the so-called Modern Man
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+thedharmadispatch.substack.com
+
+</div>
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-justifyContent-space-between pc-reset share-dialog-buttons-wrapper">
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Copy link
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Facebook
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Email
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1">
+
+Note
+
+</div>
+
+<div class="action-icon">
+
+</div>
+
+<div class="pencraft pc-reset _color-secondary_13a18_186 _line-height-20_13a18_95 _font-text_13a18_121 _size-13_13a18_45 _weight-regular_13a18_159 _reset_13a18_1" translated="">
+
+Other
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+[](https://thedharmadispatch.substack.com/p/the-manusmriti-is-a-bitter-medicine/comments)
+
+<div class="label">
+
+1
+
+</div>
+
+</div>
+
+<div class="pencraft pc-display-flex pc-gap-8 pc-reset">
+
+[](javascript:void(0))
+
+<div class="label">
+
+Share
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="post-footer use-separators post-ufi themed next-prev">
+
+<div>
+
+<div class="label">
+
+<div class="tw-flex tw-items-center">
+
+Previous
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+<div class="label">
+
+<div class="tw-flex tw-items-center">
+
+Next
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
