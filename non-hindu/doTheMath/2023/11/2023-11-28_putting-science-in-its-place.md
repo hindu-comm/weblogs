@@ -15,13 +15,7 @@ Photo by Noam R
 
 Although I might be described as a dyed-in-the-wool scientist, I’m about to say some things that are critical of science, which may be upsetting to some. It’s like those warnings on a movie or show: strong language, nudity, smoking, badmouthing science. So, before I lay into it, let me express some appreciation for what science does remarkably well.
 
-1.  Science exemplifies careful observation—isolating confounding
-    factors to focus on a particular interaction. 2.  Science follows a method that suppresses personal attachment to an
-    idea: nature becomes the arbiter of truth. 3.  When it comes to elementary particles and fundamental physics, one
-    can hardly do any better; although even an atomic nucleus is complex
-    enough to defy exact treatment. 4.  Science advances by trying to tear itself apart, so that surviving
-    notions are very strong. 5.  Because of science, we have a decent outline of how cosmology,
-    evolution, and biophysical systems work.
+1.  Science exemplifies careful observation—isolating confounding factors to focus on a particular interaction. 2.  Science follows a method that suppresses personal attachment to an idea: nature becomes the arbiter of truth. 3.  When it comes to elementary particles and fundamental physics, one can hardly do any better; although even an atomic nucleus is complex enough to defy exact treatment. 4.  Science advances by trying to tear itself apart, so that surviving notions are very strong. 5.  Because of science, we have a decent outline of how cosmology, evolution, and biophysical systems work.
 
 It has its place.
 

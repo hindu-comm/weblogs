@@ -51,12 +51,7 @@ But informational entropy does not generally transfer into the thermodynamic rea
 
 To determine whether two different states of some real or imagined system is meaningfully different in thermodynamic entropy, ask yourself these questions:
 
-1.  If I took the system to zero temperature and then added energy until
-    getting back to the original temperature, would the amount of energy
-    required be different for the two configurations? 2.  Is there an intrinsic physical process by which one state may evolve
-    to the other spontaneously? In other words, are the items
-    continuously jostling about and changing configuration via
-    collisions or some other form of agitation?
+1.  If I took the system to zero temperature and then added energy until getting back to the original temperature, would the amount of energy required be different for the two configurations? 2.  Is there an intrinsic physical process by which one state may evolve to the other spontaneously? In other words, are the items continuously jostling about and changing configuration via collisions or some other form of agitation?
 
 The first question primarily boils down to whether the microscopic structure has been changed, so that the places energy gets stored will look different before and after. If the change has been chemical in nature, then almost certainly the micro-level energy storage properties will be different. If it’s just a matter of moving macroscopic pieces about, then any entropy change is probably too small to care about.
 
@@ -122,11 +117,7 @@ The context of this discussion is mis-application of the Second Law of Thermodyn
 
 Simpler statements that are consistent with the laws of thermodynamics and bear on our societal options are:
 
-1.  Energy may be extracted when temperature differences exist (e.g.,
-    combustion chamber compared to ambient environment; solar surface
-    temperature compared to Earth surface). Entropy measures of the
-    energy itself are not meaningful. 2.  Net energy from fossil fuels may only be extracted once. 3.  Efficiencies are capped at 100%, and often are theoretically much
-    lower as a consequence of the Second Law.
+1.  Energy may be extracted when temperature differences exist (e.g., combustion chamber compared to ambient environment; solar surface temperature compared to Earth surface). Entropy measures of the energy itself are not meaningful. 2.  Net energy from fossil fuels may only be extracted once. 3.  Efficiencies are capped at 100%, and often are theoretically much lower as a consequence of the Second Law.
 
 Meanwhile, we should break the habit of invoking the Second Law to point to the irreversibility or even just the energy cost of restoring ordered arrangements of matter (as in mined ores and recycling). Even if the thermodynamic entropy of processed goods is higher than the feedstock (usually not the case, and at best negligibly different), the Second Law is not the primary barrier to reversing the process. As long as 10¹⁷W flows from the Sun to the Earth, physics and entropy impose no fundamental limits on irreversibility. Our limitations are more on the practical than on the theoretical side.
 

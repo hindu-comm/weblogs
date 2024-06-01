@@ -21,9 +21,7 @@ Despite a lifetime of overlap, and many opportunities to cross paths, I am only 
 
 What is it that I mean by The Game of Life? Aren’t we all caught up in it? I refer, here, to a zero-player “game” taking place on a two-dimensional grid of square cells (pixels) that can either be alive (on; black) or dead (off; white). Only two simple rules govern whether a cell will live or die in the next time step of the game:
 
-1.  Only “live” squares having two or three adjacent live neighbors (out
-    of 8 possible) survive to the next step. 2.  An empty (“dead”) square having exactly three live neighbors will be
-    “born” into living status on the next step.
+1.  Only “live” squares having two or three adjacent live neighbors (out of 8 possible) survive to the next step. 2.  An empty (“dead”) square having exactly three live neighbors will be “born” into living status on the next step.
 
 The first rule captures a sense of balanced population density: too sparse and survival is hard; too dense and overshoot kills. The second rule is a sexy three-way approach to procreation. Settle down, people.
 

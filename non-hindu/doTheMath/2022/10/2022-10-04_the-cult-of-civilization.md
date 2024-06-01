@@ -23,17 +23,7 @@ Leaving that for another time, let me now condemn myself in the court of civil o
 
 Let’s start by just unloading them all, in compact form, each point to be briefly unpacked in what follows. Some of the points essentially follow from previous ones, but are powerful (jarring) enough to deserve their own statement.
 
-1.  Humans are not the reason for all of creation: not the end point or
-    goal in this universe. 2.  A human life is no more sacred than that of a wolf (as just one
-    example). 3.  Our civilization is not any sort of destiny: not he only or best way
-    to organize ourselves on this planet. 4.  We are not building civilization—brick by brick—according to some
-    master plan aiming toward a “better” end: no paradise/salvation
-    awaits on the current path. 5.  Technology and innovation are slowing, not accelerating. 6.  Technology (ahem; renewable energy) will not solve our big problems. 7.  Space colonization is an infantile fantasy that is not part of our
-    future. 8.  Growth is destined to end: we have hitched ourselves to a losing
-    wagon. 9.  Monetary valuations **badly** miss the mark by orders-of-magnitude,
-    so that decisions based on money (i.e., most societal decisions)
-    will be bad ones. 10. Malthus was wrong only in his *optimism* that population will
-    saturate and stabilize.
+1.  Humans are not the reason for all of creation: not the end point or goal in this universe. 2.  A human life is no more sacred than that of a wolf (as just one example). 3.  Our civilization is not any sort of destiny: not he only or best way to organize ourselves on this planet. 4.  We are not building civilization—brick by brick—according to some master plan aiming toward a “better” end: no paradise/salvation awaits on the current path. 5.  Technology and innovation are slowing, not accelerating. 6.  Technology (ahem; renewable energy) will not solve our big problems. 7.  Space colonization is an infantile fantasy that is not part of our future. 8.  Growth is destined to end: we have hitched ourselves to a losing wagon. 9.  Monetary valuations **badly** miss the mark by orders-of-magnitude, so that decisions based on money (i.e., most societal decisions) will be bad ones. 10. Malthus was wrong only in his *optimism* that population will saturate and stabilize.
 
 I don’t expect many to make it through the list without at least a “wait a minute…”  
 Okay, readers of this blog are perhaps more predisposed to this way of thinking, but that’s a skewed representation of “normal” people—many of whom may find themselves to be offended or even apoplectic. To me, that sort of reaction betrays a bit of…cultishness. Perhaps the best way to explain is for me to state as succinctly as I can why each of the statements seems like obvious dispassionate truth once free of the baggage.

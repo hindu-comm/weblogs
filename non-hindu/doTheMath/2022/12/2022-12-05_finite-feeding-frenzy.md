@@ -37,9 +37,7 @@ A common reaction to models of human population is a belief that humans can’t 
 
 So I spent a few hours (fewer than three, but I did not run a stopwatch) creating a model on the afternoon of November 30—after a busy and productive day on unrelated tasks. I bring this up to emphasize that:
 
-1.  this isn’t rocket science; 2.  useful insights can come out of a small amount of work; 3.  I have not fine-tuned or added bells and whistles to force a better
-    match to data; 4.  One should not take the result literally: it illustrates a pattern,
-    even if the details are sketchy
+1.  this isn’t rocket science; 2.  useful insights can come out of a small amount of work; 3.  I have not fine-tuned or added bells and whistles to force a better match to data; 4.  One should not take the result literally: it illustrates a pattern, even if the details are sketchy
 
 Let me defer the explanation of the model for a bit and just show the result. Then we’ll pick our way through the details.
 
@@ -92,9 +90,7 @@ First, the red solid curve does a reasonable job following blue points (data) up
 
 But the big headline is the **peak and rapid decline** of human population. Granted, this model peaks too early, and can be rejected as an *accurate* model for humanity. But it’s not trying to be that. It’s trying to illustrate some basic *real* features:
 
-1.  Propping up human population on a non-renewable finite resource is
-    setting us up for a real sting of unprecedented scale; 2.  The exploitation of that same resource degrades the ecosphere and
-    therefore Earth’s “natural” carrying capacity to support humans; 3.  These two act in concert to make the downside especially hard.
+1.  Propping up human population on a non-renewable finite resource is setting us up for a real sting of unprecedented scale; 2.  The exploitation of that same resource degrades the ecosphere and therefore Earth’s “natural” carrying capacity to support humans; 3.  These two act in concert to make the downside especially hard.
 
 In fact, I could make an argument for this model being too optimistic, in that once fossil fuels begin to fail us, cold, hungry people will hack down what remains of forests and wild animal populations with reckless abandon. So the carrying capacity could drop even more precipitously than the gentle “civilized” blue curve indicates.
 

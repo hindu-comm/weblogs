@@ -23,13 +23,7 @@ So allow me to pull back from our present age of baffling complexity to outline 
 
 In order to make comprehensible the vast tract of human time on this planet—itself 5,000 times shorter than the age of the universe—I will compare the 2.5–3 million year presence of humans (genus Homo) on Earth to a 75 year human lifespan: a span that we can grasp intuitively. On this scale, we get the following analogous periods:
 
-1.  First 70 years: various species of humans evolve and coexist
-    (sustainably) on the planet; 2.  Last 5 years: the age of Homo Sapiens (about 200,000 yr; mostly
-    sustainably); 3.  Last 15 weeks: the age of civilization (agriculture; then cities)
-    (10,000 yr); 4.  Last 4 days: the age of science (400 yr); 5.  Last 36 hours: the age of fossil fuels (150 yr of [increasingly
-    significant
-    use](https://dothemath.ucsd.edu/2022/12/finite-feeding-frenzy/)); 6.  Last 12 hours: the age of rapid global ecological devastation (50
-    yr).
+1.  First 70 years: various species of humans evolve and coexist (sustainably) on the planet; 2.  Last 5 years: the age of Homo Sapiens (about 200,000 yr; mostly sustainably); 3.  Last 15 weeks: the age of civilization (agriculture; then cities) (10,000 yr); 4.  Last 4 days: the age of science (400 yr); 5.  Last 36 hours: the age of fossil fuels (150 yr of [increasingly significant use](https://dothemath.ucsd.edu/2022/12/finite-feeding-frenzy/)); 6.  Last 12 hours: the age of rapid global ecological devastation (50 yr).
 
 On this lifetime scale, agriculture is a recent, unexpected hobby we picked up, and one that is still pretty new to us in the scheme of tings. Or maybe we can compare it to a gateway drug that radically changed our behavior, values, attitudes, and expectations (gave us the munchies?). Or maybe it’s like the rapid onset of a mental disorder. In any case, our friends and relatives would be pretty alarmed by this uncharacteristic change toward the end of a long life.
 

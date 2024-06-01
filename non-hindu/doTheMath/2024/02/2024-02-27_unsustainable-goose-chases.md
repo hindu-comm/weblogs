@@ -19,15 +19,7 @@ Why so bold? Glad you asked.
 
 Past posts of mine have dealt with the question of what sustainability means, and associated timescales:
 
-1.  [Ultimate
-    Success](https://dothemath.ucsd.edu/2021/04/ultimate-success/):
-    thinking 10,000 years ahead, what’s still possible? 2.  [Can Modernity
-    Last?](https://dothemath.ucsd.edu/2023/09/can-modernity-last/): an
-    attempt to synthesize why continuance is not in the cards 3.  [Sustainable
-    Timescales](https://dothemath.ucsd.edu/2024/02/sustainable-timescales/):
-    the relevant scope is that of biological evolution 4.  [Inexhaustible
-    Flows](https://dothemath.ucsd.edu/2024/02/inexhaustible-flows/): the
-    dead end of materials-hungry “renewable” energy technology
+1.  [Ultimate Success](https://dothemath.ucsd.edu/2021/04/ultimate-success/): thinking 10,000 years ahead, what’s still possible? 2.  [Can Modernity Last?](https://dothemath.ucsd.edu/2023/09/can-modernity-last/): an attempt to synthesize why continuance is not in the cards 3.  [Sustainable Timescales](https://dothemath.ucsd.edu/2024/02/sustainable-timescales/): the relevant scope is that of biological evolution 4.  [Inexhaustible Flows](https://dothemath.ucsd.edu/2024/02/inexhaustible-flows/): the dead end of materials-hungry “renewable” energy technology
 
 Additionally, [The Simple Story of Civilization](https://dothemath.ucsd.edu/2022/12/the-simple-story/) frames the current epoch as so mind-numbingly new and rapid that it boggles the mind how we could ever think of modernity as a normal time that might have staying power, rather than a fireworks show. It’s only because that’s all our short lives have shown us.
 

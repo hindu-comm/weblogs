@@ -15,20 +15,7 @@ But where was I? Oh my—I got derailed before even starting. This post is about
 
 In the past, my attention to population has been limited to the following points.
 
-1.  The growth rate is grossly unsustainable, has accelerated
-    historically, and is a reflection of
-    [temporary](https://dothemath.ucsd.edu/2022/12/finite-feeding-frenzy/)
-    fossil fuels ([Section 3.1 of my
-    textbook](https://escholarship.org/uc/item/9js5291m#section.3.1)). 2.  *Despite* lower birth rates, population growth in **prosperous**
-    countries [constitutes the largest population-growth-related
-    resource
-    burden](https://escholarship.org/uc/item/9js5291m#subsection.3.3.2)
-    on the planet (not poor countries). 3.  The demographic transition that worked in a past age for today’s
-    “developed” countries is not really an option for the rest in a
-    thoroughly-exploited world. Also, the inevitable population surge
-    and resource demand accompanying the transition is an [ecological
-    double-whammy](https://escholarship.org/uc/item/9js5291m#subsection.3.3.2)
-    that Earth is not obligated to (and cannot) support.
+1.  The growth rate is grossly unsustainable, has accelerated historically, and is a reflection of [temporary](https://dothemath.ucsd.edu/2022/12/finite-feeding-frenzy/) fossil fuels ([Section 3.1 of my textbook](https://escholarship.org/uc/item/9js5291m#section.3.1)). 2.  *Despite* lower birth rates, population growth in **prosperous** countries [constitutes the largest population-growth-related resource burden](https://escholarship.org/uc/item/9js5291m#subsection.3.3.2) on the planet (not poor countries). 3.  The demographic transition that worked in a past age for today’s “developed” countries is not really an option for the rest in a thoroughly-exploited world. Also, the inevitable population surge and resource demand accompanying the transition is an [ecological double-whammy](https://escholarship.org/uc/item/9js5291m#subsection.3.3.2) that Earth is not obligated to (and cannot) support.
 
 These views are still valid for me, with an asterisk on the first point that will be the focus of this post. [Last week’s post](https://dothemath.ucsd.edu/2024/05/growth-or-scale/) included a plot of human population growth over time. I was struck by the recent phenomenon of rapidly declining growth rates, which I had noticed in tables (pre-COVID) but had never seen in visual form. Here is the relevant graph in a larger format, straight from the [United Nations’ 2022 population report](https://population.un.org/wpp/) and associated [data](https://population.un.org/dataportal/).
 

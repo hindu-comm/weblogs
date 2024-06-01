@@ -61,44 +61,7 @@ But now, recognizing that current institutions are urging us toward ultimate unw
 
 The first sentence in the preceding paragraph may lose many of my colleagues, though, sounding alarmist and kooky. I struggle with this, and as such have re-evaluated my position countless times—digging deep in an attempt to understand the foundations of the predicament. I will dedicate an upcoming post to summarizing the logic. For now, I would recommend following the [new textbook](https://escholarship.org/uc/item/9js5291m) (free PDF). At least read the introductory paragraphs for each chapter, and the short Upshot sections at the end of each for a brief tour of the emergent message. To compactify it even more, the arc is:
 
-1.  Physics says continued growth at familiar rates is impossible beyond
-    a few centuries ([Chapter
-    1](https://escholarship.org/uc/item/9js5291m#chapter.1)). 2.  Economic and population growth must also end, perhaps even
-    overshooting due to the ubiquitous presence of delayed negative
-    feedback ([Chapters
-    2](https://escholarship.org/uc/item/9js5291m#chapter.2) and
-    [3](https://escholarship.org/uc/item/9js5291m#chapter.3)). 3.  Space is a marvelous stage for exploration, but does not offer a
-    tangible, realistic solution to the problems above ([Chapter
-    4](https://escholarship.org/uc/item/9js5291m#chapter.4)). 4.  Fossil fuels have many amazing attributes that are hard to replace.
-    They made explosive growth possible, but will necessarily fade away
-    and perhaps trigger destructive resource wars in the decline phase
-    ([Chapter 8](https://escholarship.org/uc/item/9js5291m#chapter.8)). 5.  Climate change, as a consequence of fossil fuels, is a serious
-    threat, but just one of a long list of ills inflicted on ecosystems
-    and finite resources ([Chapter
-    9](https://escholarship.org/uc/item/9js5291m#chapter.9)). 6.  Alternative energy technologies have trouble preserving
-    expectations, so that not only is growth destined to stop: we may
-    very well face a decline in available energy ([Chapters
-    10](https://escholarship.org/uc/item/9js5291m#chapter.10) through
-    [17](https://escholarship.org/uc/item/9js5291m#chapter.17)). 7.  Human psychology and political/economic institutions turn a
-    technically difficult predicament into a nearly hopeless trap.
-    Incentives are staggeringly biased toward short term reward in
-    explicit ignorance of future peril. Prevailing optimism is based on
-    backward-looking assessment (history) and sentiments like “so far so
-    good,” “humans are amazing and will solve any problem,” and “things
-    always get better” rather than on an objective assessment using
-    tools of math and science to elucidate the unavoidable consequences
-    of continued growth and resource use ([Chapters
-    18](https://escholarship.org/uc/item/9js5291m#chapter.18),
-    [19](https://escholarship.org/uc/item/9js5291m#chapter.19), and
-    [Epilogue](https://escholarship.org/uc/item/9js5291m#chapter*.265)). 8.  We are lamentably ill-equipped to appreciate the abnormality of our
-    time and assess a more accurate picture of what long-term “normal”
-    must look like. Failure to do so leads to uncontrolled…failure.
-    Evolution may well have discovered by its usual blind
-    experimentation a limit to how smart a successful species may be
-    ([Epilogue](https://escholarship.org/uc/item/9js5291m#chapter*.265),
-    [Appendix
-    D.5](https://escholarship.org/uc/item/9js5291m#section.D.5) and
-    [D.6](https://escholarship.org/uc/item/9js5291m#section.D.6)).
+1.  Physics says continued growth at familiar rates is impossible beyond a few centuries ([Chapter 1](https://escholarship.org/uc/item/9js5291m#chapter.1)). 2.  Economic and population growth must also end, perhaps even overshooting due to the ubiquitous presence of delayed negative feedback ([Chapters 2](https://escholarship.org/uc/item/9js5291m#chapter.2) and [3](https://escholarship.org/uc/item/9js5291m#chapter.3)). 3.  Space is a marvelous stage for exploration, but does not offer a tangible, realistic solution to the problems above ([Chapter 4](https://escholarship.org/uc/item/9js5291m#chapter.4)). 4.  Fossil fuels have many amazing attributes that are hard to replace. They made explosive growth possible, but will necessarily fade away and perhaps trigger destructive resource wars in the decline phase ([Chapter 8](https://escholarship.org/uc/item/9js5291m#chapter.8)). 5.  Climate change, as a consequence of fossil fuels, is a serious threat, but just one of a long list of ills inflicted on ecosystems and finite resources ([Chapter 9](https://escholarship.org/uc/item/9js5291m#chapter.9)). 6.  Alternative energy technologies have trouble preserving expectations, so that not only is growth destined to stop: we may very well face a decline in available energy ([Chapters 10](https://escholarship.org/uc/item/9js5291m#chapter.10) through [17](https://escholarship.org/uc/item/9js5291m#chapter.17)). 7.  Human psychology and political/economic institutions turn a technically difficult predicament into a nearly hopeless trap. Incentives are staggeringly biased toward short term reward in explicit ignorance of future peril. Prevailing optimism is based on backward-looking assessment (history) and sentiments like “so far so good,” “humans are amazing and will solve any problem,” and “things always get better” rather than on an objective assessment using tools of math and science to elucidate the unavoidable consequences of continued growth and resource use ([Chapters 18](https://escholarship.org/uc/item/9js5291m#chapter.18), [19](https://escholarship.org/uc/item/9js5291m#chapter.19), and [Epilogue](https://escholarship.org/uc/item/9js5291m#chapter*.265)). 8.  We are lamentably ill-equipped to appreciate the abnormality of our time and assess a more accurate picture of what long-term “normal” must look like. Failure to do so leads to uncontrolled…failure. Evolution may well have discovered by its usual blind experimentation a limit to how smart a successful species may be ([Epilogue](https://escholarship.org/uc/item/9js5291m#chapter*.265), [Appendix D.5](https://escholarship.org/uc/item/9js5291m#section.D.5) and [D.6](https://escholarship.org/uc/item/9js5291m#section.D.6)).
 
 In summary, we can ignore the warning signs and insist on continuing the current trajectory, only tolerating minor tweaks as long as we experience little or no inconvenience. But *to what end*? If that approach leads to failure of civilization, is it still the right choice? We’re smart enough to have dug an impressive hole for ourselves. Are we wise enough to look past our shovels to understand where this ends, and change behaviors enough to avoid the worst fate? I am eternally and perhaps irrationally hopeful that we are, but still yearn for reassuring evidence.
 

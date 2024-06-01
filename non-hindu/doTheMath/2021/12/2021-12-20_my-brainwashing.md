@@ -96,12 +96,7 @@ Science, on the other hand, receives its “authority” *from nature itself*—
 
 I must say that part of me admires the clever and effective manipulation that right-wing media outlets have perfected. Rather than studying political science, international relations, and history, politicos on the right often study marketing, psychology, and communications. The recipe that hooks the audience is to hammer the messages:
 
-1.  The condescending elitists on the other side think you’re dumb. 2.  We know that you’re smart (wink; we’re experts at lying). 3.  In fact, we can trust you to understand the following insight that
-    the elitists will label as conspiratorial: you will know it (in your
-    bones) to be true, being as smart as you are. 4.  Only *we* can be trusted to tell the truth: don’t bother even
-    *looking* at the pack of lies in all the the “lamestream” media
-    outlets, even if they are all oddly and independently consistent
-    with each other (see: conspiracy!).
+1.  The condescending elitists on the other side think you’re dumb. 2.  We know that you’re smart (wink; we’re experts at lying). 3.  In fact, we can trust you to understand the following insight that the elitists will label as conspiratorial: you will know it (in your bones) to be true, being as smart as you are. 4.  Only *we* can be trusted to tell the truth: don’t bother even *looking* at the pack of lies in all the the “lamestream” media outlets, even if they are all oddly and independently consistent with each other (see: conspiracy!).
 
 How brilliant is that? The Soviet propagandists would be proud. The targeted victims/viewers don’t stand a chance against this psychological Jiu Jitsu. They feel belonging, validation, purpose, and—well—*smart*.
 Who doesn’t like feeling smart? Having established this bad-faith trust, the outlets can peddle any narrative they want. As long as it has some “truthy” hooks, it will not be questioned. Now, what will they do with this power? Good things, surely.

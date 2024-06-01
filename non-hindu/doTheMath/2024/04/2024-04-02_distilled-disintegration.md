@@ -44,11 +44,7 @@ I was, of course, aware that storage was the main technical problem. But if stor
 
 What I had not fully considered yet was that:
 
-1.  Electricity is not obviously able to satisfy modernity’s demands in
-    agricultural, manufacturing, and transportation domains. 2.  The ecologically-destructive materials treadmill required by diffuse
-    forms of energy would never be renewable/sustainable. 3.  Most importantly: what we use energy to **do** on this planet is
-    itself fundamentally unsustainable. A “win” in technology/energy is
-    a loss for life and humanity.
+1.  Electricity is not obviously able to satisfy modernity’s demands in agricultural, manufacturing, and transportation domains. 2.  The ecologically-destructive materials treadmill required by diffuse forms of energy would never be renewable/sustainable. 3.  Most importantly: what we use energy to **do** on this planet is itself fundamentally unsustainable. A “win” in technology/energy is a loss for life and humanity.
 
 I eventually developed some awareness of the first point via my [Alternative Energy Matrix](https://dothemath.ucsd.edu/2012/02/the-alternative-energy-matrix/) and had glimmers of the second point in my evaluation of a [battery large enough](https://dothemath.ucsd.edu/2011/08/nation-sized-battery/) to satisfy demand. The third was still off my radar.
 
@@ -78,9 +74,7 @@ Modernity has supplied the temporary illusion—initiated by our foray into agri
 
 I find that this argument often falls on deaf ears, as our culture has lost basic ecological awareness—fed by grocery stores and living in sterilized boxes. We have lost the understanding that [WE](https://dothemath.ucsd.edu/2023/10/are-we-lucky/) ([all life](https://dothemath.ucsd.edu/2023/10/are-we-lucky/)) are all in this together, and succeed or fail as a community. The fact that modernity is a short-lived stunt based on rapid depletion of non-renewable stocks (even arable land, in practice) is somehow not obvious to most. In our typical narrow-boundary analysis, it feels like we’ve finally figured it all out. If we manage to shut out the facts that:
 
--   growth can’t continue, -   modernity has always been utterly dependent on a one-time stock of
-    fossil fuels, -   the low-hanging fruit of materials has been exhausted, -   “renewable” energy is still completely dependent on diminishing
-    non-renewable materials, -   it has all happened in a blinding flash (fireworks show), and -   all at tremendous cost to the web of life,
+-   growth can’t continue, -   modernity has always been utterly dependent on a one-time stock of fossil fuels, -   the low-hanging fruit of materials has been exhausted, -   “renewable” energy is still completely dependent on diminishing non-renewable materials, -   it has all happened in a blinding flash (fireworks show), and -   all at tremendous cost to the web of life,
 
 then I suppose the limited view that remains looks pretty great. It just leaves out too much for me to go along.
 
@@ -98,28 +92,13 @@ Our cultural tendency is to focus on one detail at a time by deliberately removi
 
 When holding all the factors together, in relation to each other, it is exceedingly difficult to argue that modernity is at all likely to succeed. In order to contrast our actual situation with the sorts of contextual inputs that would offer convincing—but counterfactual—evidence that modernity has a decent chance of sustaining itself, consider the following list of statements in an alternate universe:
 
--   Versions of modernity have succeeded numerous times in the universe,
-    as evidenced by advanced alien civilizations almost everywhere we
-    look. -   Modernity has been around on our planet for millions of years, so
-    that life on Earth is fully adapted and compatible in an
-    evolutionary sense. -   Modernity is not reliant on non-renewable energy sources, and has
-    not been so for tens of thousands of years. -   Modernity hasn’t needed to mine new materials from geological
-    deposits for countless millennia. -   Biodiversity is holding steady: with population increases balancing
-    decreases; and extinctions consistent with background rates. -   Forest cover, fresh water, habitat, are all stable—as is climate in
-    keeping with long-term natural variation (i.e., no anthropogenic
-    contribution). -   \[Late addition\] Wildlife can move unimpeded through contiguous
-    habitats, because modernity is unobtrusive and self-limits its
-    footprint.
+-   Versions of modernity have succeeded numerous times in the universe, as evidenced by advanced alien civilizations almost everywhere we look. -   Modernity has been around on our planet for millions of years, so that life on Earth is fully adapted and compatible in an evolutionary sense. -   Modernity is not reliant on non-renewable energy sources, and has not been so for tens of thousands of years. -   Modernity hasn’t needed to mine new materials from geological deposits for countless millennia. -   Biodiversity is holding steady: with population increases balancing decreases; and extinctions consistent with background rates. -   Forest cover, fresh water, habitat, are all stable—as is climate in keeping with long-term natural variation (i.e., no anthropogenic contribution). -   \[Late addition\] Wildlife can move unimpeded through contiguous habitats, because modernity is unobtrusive and self-limits its footprint.
 
 Each of these is demonstrably and overwhelmingly false, yet many would have to be simultaneously true to be convincing. Modernity, therefore, doesn’t have a leg to stand on in arguing for prospects of its long-term continuance. It’s empty, sputtering hope. Not only do we obviously lack the track record to demonstrate longevity (on [timescales relevant to evolution](https://dothemath.ucsd.edu/2024/02/sustainable-timescales/)), but this set of conditions cannot be convincingly illustrated even in *theory*—while paying attention to the full context. No one really knows how any of this could work, long-term, in anything other than vague, hand-wavy form.
 
 Some might say that I am equally hand-wavy—unable to offer conclusive proof of modernity’s terminal condition. Sure: no one can claim certainty about the future, but I ask: which seems like a safer bet to manifest into the indefinite future:
 
-1.  A new mode unknown to exist elsewhere in the universe, dependent on
-    one-time non-renewable inputs, causing lightning-fast ecological
-    degradation on Earth (mass extinction), and by means that are not
-    evaluated in terms of ecological sustainability; or 2.  A reversion to the way things have worked for 99.9998% of Earth’s
-    history?
+1.  A new mode unknown to exist elsewhere in the universe, dependent on one-time non-renewable inputs, causing lightning-fast ecological degradation on Earth (mass extinction), and by means that are not evaluated in terms of ecological sustainability; or 2.  A reversion to the way things have worked for 99.9998% of Earth’s history?
 
 ## Justifications
 
@@ -127,12 +106,7 @@ As a physicist, I came to value end-run arguments that quickly differentiate the
 
 So here’s the question: if modernity is bound to fail (likely via inelegant [collapse](https://dothemath.ucsd.edu/2021/05/why-worry-about-collapse/)), what degree of longevity would justify its existence? Under the presumption that the inherent unsustainability of modernity means it perishes and that all its “gains” are lost, what toll on other species justifies the experience? Bear in mind that the longer it runs, the worse it is for everyone—human and more-than-human alike. Here’s a suggestive menu to help:
 
-1.  Any duration (even 50 years) is awesome: I mean, lunar landings!
-    Worth the damage. 2.  A few centuries, even if Earth takes many thousands of years to
-    recover. 3.  It would need to go at least 1,000 years to justify itself, given
-    the permanent toll on biodiversity. 4.  Many thousands of years would justify it, even if mass extinction is
-    guaranteed (likely including humans). 5.  A million years, even if it results in extinction of most complex
-    life on Earth (including humans).
+1.  Any duration (even 50 years) is awesome: I mean, lunar landings! Worth the damage. 2.  A few centuries, even if Earth takes many thousands of years to recover. 3.  It would need to go at least 1,000 years to justify itself, given the permanent toll on biodiversity. 4.  Many thousands of years would justify it, even if mass extinction is guaranteed (likely including humans). 5.  A million years, even if it results in extinction of most complex life on Earth (including humans).
 
 Some might reject the premise, and imagine open-ended technological flourishing. Imagination allows many unconstrained flights, divorced from reality. My point is that we need to ground ourselves and not get carried away in unsupportable fantasy just because we like the sound of it.
 

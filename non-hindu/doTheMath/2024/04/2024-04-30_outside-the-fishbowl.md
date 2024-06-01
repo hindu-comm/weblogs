@@ -45,8 +45,7 @@ Our spatial isolation suggests that we ought to [care deeply](https://dothemath.
 
 When musing about the “far” future (few-millennia scale; not really *that* far), most people in my experience take it for granted that we will have some form of:
 
--   electricity; -   computers; -   metals; -   houses; -   plumbing; -   cities; -   mechanized transportation; -   books; -   satellites; -   universities; -   nations; -   money; -   in short: almost all the things you lay eyes on when looking up from
-    your screen.
+-   electricity; -   computers; -   metals; -   houses; -   plumbing; -   cities; -   mechanized transportation; -   books; -   satellites; -   universities; -   nations; -   money; -   in short: almost all the things you lay eyes on when looking up from your screen.
 
 I’m not here to tell you that none of these things *can* or *will* persist, but to say: it’s not **at all** obvious. Welcome to thinking outside the fishbowl. It may seem crazy to suggest that we would lose all or most of these things, but outside the fishbowl it seems even more crazy (unsubstantiated, unexamined) to assume they’ll stay.
 
@@ -66,57 +65,7 @@ I will admit that my starting point was just like that of most people: an unques
 
 Keeping the example of continuing to use electricity indefinitely—as a stand-in for many other items on the list—it seems easy to imagine its preservation simply because we have it right now. We’ve figured it out and would seem unlikely to forget how to produce it. Don’t we lock in that knowledge, and isn’t it possible or even likely that *knowledge* is the secret ingredient that can turn a “transient” into a new normal? What’s missing are the broader contextual and material conditions that are present today and are not guaranteed or even likely to persist. Consider for instance this exhausting heap of potentially relevant points (or skip if weeds aren’t your thing right now):
 
--   Commercial electricity began in 1882, well after fossil fuels had
-    transformed capabilities, and has thus only existed alongside
-    temporary fossil fuels. -   Materials processing to make the necessary components have relied on
-    [heat from fossil
-    fuels](https://dothemath.ucsd.edu/2022/06/shedding-our-fossil-fuel-suit/)
-    all this time (hard to replicate using
-    “[renewable](https://dothemath.ucsd.edu/2024/02/inexhaustible-flows/)”
-    electricity). -   Fossil fuels are finite, and it isn’t clear how we would maintain
-    current manufacturing capability (and mining) to support electricity
-    without them. -   Producing, distributing, and utilizing electricity requires almost
-    exclusively non-renewable resources: materials in addition to fossil
-    fuels. -   Non-renewable resources are a sort-of one-time inheritance, not an
-    indefinite guaranteed flow. -   Manufactured things break, corrode, and are discarded, so that their
-    materials eventually become lost or (energetically, entropically)
-    useless. -   Recycling is never 100% effective, and often recovery is well below
-    50%. Even aspirational 90% recovery is down to half the material
-    after 7 cycles (taking decades, not millennia). -   Maintaining technology dependent on non-renewable materials requires
-    perpetual mining, which gets progressively harder (and destructive)
-    until it’s essentially prohibitive. -   Together, these spell a metal-starved future, making many present
-    capabilities progressively harder to maintain. -   Manufacture of electronic equipment relies on non-renewable
-    resources from global or at least widespread regions, access to
-    which is also relatively new and fragile—and something we’ve never
-    managed without fossil fuels. -   Depleted soils, aquifers, and other hits to agricultural
-    productivity could lead to enough hunger and disruption that the
-    stability required for maintaining high-tech industry is eroded. -   Demographic trends by themselves could lead to a substantial
-    diminution of human population, the associated disruption also
-    making it difficult or impossible to maintain electricity production
-    and distribution. -   Economic collapse brought about by the inevitable failure of
-    requisite growth, substantial future uncertainty, resource wars,
-    loss of confidence, a shrinking workforce, or any number of other
-    factors could leave industry in ruins and reliable electricity
-    diminishingly rare around the world. -   Climate change plays its own role via geopolitical disruption and
-    storms that make electrical distribution increasingly difficult to
-    maintain (on top of many other environmental challenges), all while
-    exacerbating ecological damage. -   Underneath all of this is **ecological health**: without it, life on
-    Earth struggles and the domino effects are beyond our reckoning, as
-    helpless dependents on the web of life’s integrity. -   Having initiated a sixth mass extinction, carried out by access to
-    energy, continued powering of modernity (via electricity, for
-    instance) most likely means compounding ecological harm, piling up
-    accelerating extinctions, under which conditions high-maintenance
-    humans are unlikely to fare well. (More likely, electricity will
-    stop before modernity manages to extinguish most species on the
-    planet, giving humans a chance to try again without
-    electricity/modernity.) -   Core question: is electricity (and all that must come with it)
-    *compatible* with ecosystem health, biodiversity, and evolution?
-    Answer: **we have no idea**; but it certainly has not stood the test
-    of time, and the present [alarming
-    declines](https://dothemath.ucsd.edu/2023/08/ecological-cliff-edge/)
-    should be a massive warning sign indicating: one is probably crazy
-    to think so. What enormous set of concerns must we ignore to imagine
-    it could work?
+-   Commercial electricity began in 1882, well after fossil fuels had transformed capabilities, and has thus only existed alongside temporary fossil fuels. -   Materials processing to make the necessary components have relied on [heat from fossil fuels](https://dothemath.ucsd.edu/2022/06/shedding-our-fossil-fuel-suit/) all this time (hard to replicate using “[renewable](https://dothemath.ucsd.edu/2024/02/inexhaustible-flows/)” electricity). -   Fossil fuels are finite, and it isn’t clear how we would maintain current manufacturing capability (and mining) to support electricity without them. -   Producing, distributing, and utilizing electricity requires almost exclusively non-renewable resources: materials in addition to fossil fuels. -   Non-renewable resources are a sort-of one-time inheritance, not an indefinite guaranteed flow. -   Manufactured things break, corrode, and are discarded, so that their materials eventually become lost or (energetically, entropically) useless. -   Recycling is never 100% effective, and often recovery is well below 50%. Even aspirational 90% recovery is down to half the material after 7 cycles (taking decades, not millennia). -   Maintaining technology dependent on non-renewable materials requires perpetual mining, which gets progressively harder (and destructive) until it’s essentially prohibitive. -   Together, these spell a metal-starved future, making many present capabilities progressively harder to maintain. -   Manufacture of electronic equipment relies on non-renewable resources from global or at least widespread regions, access to which is also relatively new and fragile—and something we’ve never managed without fossil fuels. -   Depleted soils, aquifers, and other hits to agricultural productivity could lead to enough hunger and disruption that the stability required for maintaining high-tech industry is eroded. -   Demographic trends by themselves could lead to a substantial diminution of human population, the associated disruption also making it difficult or impossible to maintain electricity production and distribution. -   Economic collapse brought about by the inevitable failure of requisite growth, substantial future uncertainty, resource wars, loss of confidence, a shrinking workforce, or any number of other factors could leave industry in ruins and reliable electricity diminishingly rare around the world. -   Climate change plays its own role via geopolitical disruption and storms that make electrical distribution increasingly difficult to maintain (on top of many other environmental challenges), all while exacerbating ecological damage. -   Underneath all of this is **ecological health**: without it, life on Earth struggles and the domino effects are beyond our reckoning, as helpless dependents on the web of life’s integrity. -   Having initiated a sixth mass extinction, carried out by access to energy, continued powering of modernity (via electricity, for instance) most likely means compounding ecological harm, piling up accelerating extinctions, under which conditions high-maintenance humans are unlikely to fare well. (More likely, electricity will stop before modernity manages to extinguish most species on the planet, giving humans a chance to try again without electricity/modernity.) -   Core question: is electricity (and all that must come with it) *compatible* with ecosystem health, biodiversity, and evolution? Answer: **we have no idea**; but it certainly has not stood the test of time, and the present [alarming declines](https://dothemath.ucsd.edu/2023/08/ecological-cliff-edge/) should be a massive warning sign indicating: one is probably crazy to think so. What enormous set of concerns must we ignore to imagine it could work?
 
 Okay, that dose of context is a lot to take in. Maybe not every point delivers a death knell to electricity and its associated/required practices. But why would each one *in isolation* need to kill electricity when even one or a few operating simultaneously could do the job. The way the real world works is that lots of things are happening all at once, interrelated, and beyond control. Perhaps more important is that I threw this list together off the top of my head and probably missed the main factors that will *actually* spell the end for electricity. For those who assume we will preserve the capability, what is the fully-contextualized analysis that simultaneously knocks out all these concerns and also the ones I failed to conceive? Whence the improbable certainty?
 

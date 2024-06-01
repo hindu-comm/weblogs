@@ -29,8 +29,7 @@ The purpose of the movie was obviously not to warn us of the literal threat of a
 
 But this intended substitution exercise is one place where the movie risks losing impact. Consider that the cometary threat:
 
-1.  had a well-defined date that was only six months out; 2.  was of a pretty unambiguous nature (look up!); 3.  promised total devastation—not a matter of degree; 4.  was consistent with prehistoric events that have unambiguously
-    caused mass extinctions on Earth.
+1.  had a well-defined date that was only six months out; 2.  was of a pretty unambiguous nature (look up!); 3.  promised total devastation—not a matter of degree; 4.  was consistent with prehistoric events that have unambiguously caused mass extinctions on Earth.
 
 Present-day threats are a bit murkier, lacking all four of these qualities. Stood up side-by-side, our real perils may elicit mere shrugs.
 

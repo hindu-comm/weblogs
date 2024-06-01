@@ -29,37 +29,7 @@ Another qualm I have is that pre-agricultural humans operating fully in hunter-g
 
 Below are ten core principles that represent a melding of my own pre-*Ishmael* views and those from the book. Because the alignment was already pretty good, it is not meaningful to discern which *came* from Quinn, although only the last two are sentiments I had not expressed in prior writings, so those I would attribute more wholly to Quinn. For me, I feel that *Ishmael* (and other books in the collection) have served to sharpen and organize a pre-existing awareness for me. In any case, all of the items below were crystallized by Quinn’s work.
 
-1.  Humans are not exempted from the laws of nature: physics, chemistry,
-    biology, or ecology. 2.  The world was not made for humans: humans do not own it and are not
-    ordained by biophysical reality to rule it. 3.  Our civilization began with the agricultural revolution, branching
-    off the traditional paths that continued to co-exist, in
-    ever-diminishing numbers. 4.  Our civilization is rather new in the long arc of human history,
-    occupying 0.3% of the 3 million year span, and 5% of the Homo
-    sapiens timeline, so that we might see the present global culture as
-    abnormal in the long view: human history and our civilization’s
-    history (what we simply call “history”) are not the same thing. 5.  Short-term deviations from long-term sustainable practices can
-    redefine a “new normal” for a number of generations, but even 10,000
-    years of departure is too short to have been tested in ecological or
-    evolutionary terms. 6.  It is not hard to find evidence that our present culture is causing
-    rapid degradation of Earth’s ecological health on numerous fronts:
-    failing the test. 7.  Our radical departure from the modality prepared by evolution and
-    found to be ecologically stable over the long term has produced an
-    explosion of human presence on the planet, now resulting in 96% of
-    mammal mass in the form of humans and their domesticated species
-    (e.g., livestock). Only 2% of mammal mass is found in wild land
-    animals, in absolute terms down to 20% its pre-civilization
-    level—most of which has been lost in the last century. 8.  The human explosion has accelerated across the millennia, most
-    recently reaching a fever pitch owing to the employment of fossil
-    fuels—leveraging stored solar energy about a million times faster
-    than it was created. The ensuing access to minerals and ability to
-    transform landscapes has rapidly and radically altered our world
-    within just a few human generations. 9.  Culture is not humanity. Civilization—or modernity—is not humanity.
-    Humans themselves are not fundamentally flawed, but rather live now
-    in a flawed framework that practically guarantees failure by being
-    inconsistent with ecological principles. 10. Our salvation is not about humans or individual spirituality, but
-    tied to collective choices about how to live on this planet.
-    Rejecting the foundational underpinnings of modernity is both within
-    our power and necessary to find long-term success on this planet.
+1.  Humans are not exempted from the laws of nature: physics, chemistry, biology, or ecology. 2.  The world was not made for humans: humans do not own it and are not ordained by biophysical reality to rule it. 3.  Our civilization began with the agricultural revolution, branching off the traditional paths that continued to co-exist, in ever-diminishing numbers. 4.  Our civilization is rather new in the long arc of human history, occupying 0.3% of the 3 million year span, and 5% of the Homo sapiens timeline, so that we might see the present global culture as abnormal in the long view: human history and our civilization’s history (what we simply call “history”) are not the same thing. 5.  Short-term deviations from long-term sustainable practices can redefine a “new normal” for a number of generations, but even 10,000 years of departure is too short to have been tested in ecological or evolutionary terms. 6.  It is not hard to find evidence that our present culture is causing rapid degradation of Earth’s ecological health on numerous fronts: failing the test. 7.  Our radical departure from the modality prepared by evolution and found to be ecologically stable over the long term has produced an explosion of human presence on the planet, now resulting in 96% of mammal mass in the form of humans and their domesticated species (e.g., livestock). Only 2% of mammal mass is found in wild land animals, in absolute terms down to 20% its pre-civilization level—most of which has been lost in the last century. 8.  The human explosion has accelerated across the millennia, most recently reaching a fever pitch owing to the employment of fossil fuels—leveraging stored solar energy about a million times faster than it was created. The ensuing access to minerals and ability to transform landscapes has rapidly and radically altered our world within just a few human generations. 9.  Culture is not humanity. Civilization—or modernity—is not humanity. Humans themselves are not fundamentally flawed, but rather live now in a flawed framework that practically guarantees failure by being inconsistent with ecological principles. 10. Our salvation is not about humans or individual spirituality, but tied to collective choices about how to live on this planet. Rejecting the foundational underpinnings of modernity is both within our power and necessary to find long-term success on this planet.
 
 ### A New Hope
 

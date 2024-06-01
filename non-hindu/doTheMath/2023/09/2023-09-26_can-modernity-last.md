@@ -61,10 +61,7 @@ The last thing I’ll say about energy foreshadows the ecology section. The ques
 
 In summary, energy:
 
-1.  is fundamental to modernity; 2.  is
-    [responsible](https://dothemath.ucsd.edu/2022/12/finite-feeding-frenzy/)
-    for the human population surge and other [hockey
-    sticks](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/); 3.  cannot continue increasing into the future; 4.  has been utterly dominated by a temporary spike of fossil energy; 5.  may not permit modernity’s continuance in non-fossil form; 6.  powers ecological devastation, independent of its source.
+1.  is fundamental to modernity; 2.  is [responsible](https://dothemath.ucsd.edu/2022/12/finite-feeding-frenzy/) for the human population surge and other [hockey sticks](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/); 3.  cannot continue increasing into the future; 4.  has been utterly dominated by a temporary spike of fossil energy; 5.  may not permit modernity’s continuance in non-fossil form; 6.  powers ecological devastation, independent of its source.
 
 ## Materials and Recycling
 

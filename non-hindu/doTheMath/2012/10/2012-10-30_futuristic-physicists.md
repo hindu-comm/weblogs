@@ -37,33 +37,7 @@ Okay; here is the set of twenty questions:
 
 #### What do you think is the likelihood that humans can:
 
-1.  Have widespread personal transport that can replace the task of
-    driving with a fully-automated piloting system (auto-pilot)? 2.  See jet-packs as practical transportation devices on a daily basis? 3.  Carry out the bulk of transportation in personal flying machines,
-    rather than being tied to the ground in cars (what are wheels,
-    daddy?)? 4.  Routinely teleport live human bodies respectable distances—enough to
-    revolutionize the way we travel? 5.  Come up with a means of interstellar travel that allows round-trips
-    to locales tens of light-years away within years or decades, without
-    having Earth (and its people) age substantially more than the
-    traveler—thus operating outside the normal confines imposed by
-    sub-luminal travel and special relativity (the equivalent of warp
-    drive in Star Trek)? 6.  Use wormholes as tools to move across vast distances? 7.  Visit the vicinity of a black hole to study it up-close? 8.  Do astrophysics by traveling to sources (outside our solar system)
-    rather than via telescopes? 9.  Be able to create local gravity (not just magnetic boots) in a
-    spaceship by some means other than kinematically (e.g., rotation or
-    acceleration of spacecraft)? 10. Have a permanent colony on the Moon, where some might live their
-    entire (normal-length) lives? 11. Have a permanent colony on Mars, also with whole lives spent there? 12. Terra-form a planet (like Mars) to make it human-habitable? 13. Power our society with fusion, opening up practically inexhaustible
-    supplies of deuterium on the planet (forget about tritium
-    here—imagine D–D reactions)? 14. Create our food without growing or raising it—like the Star Trek
-    method of “replicating” food by patterning atoms/molecules
-    appropriately, maybe straight from the source of energy? 15. Have robots as common entities among us that can intelligently
-    converse with us and perform sophisticated tasks (housework,
-    transport repair, nanny for the kids)? I’m talking about C-3PO,
-    nothing like today’s machines. 16. Have cloaking devices that, at the flip of a switch, can render a
-    macroscopic device like a car, plane, or spaceship impossible—or
-    exceedingly difficult—to see from virtually any angle? 17. Be able to travel back in time by an amount significant enough to
-    change actions? 18. Communicate with intelligent alien species (extra-terrestrial),
-    sharing technology, history, etc.? 19. Either physically visit or be visited by an intelligent alien
-    species? 20. Substantially eliminate disease and block aging so that we may
-    routinely see lives exceeding 200 years?
+1.  Have widespread personal transport that can replace the task of driving with a fully-automated piloting system (auto-pilot)? 2.  See jet-packs as practical transportation devices on a daily basis? 3.  Carry out the bulk of transportation in personal flying machines, rather than being tied to the ground in cars (what are wheels, daddy?)? 4.  Routinely teleport live human bodies respectable distances—enough to revolutionize the way we travel? 5.  Come up with a means of interstellar travel that allows round-trips to locales tens of light-years away within years or decades, without having Earth (and its people) age substantially more than the traveler—thus operating outside the normal confines imposed by sub-luminal travel and special relativity (the equivalent of warp drive in Star Trek)? 6.  Use wormholes as tools to move across vast distances? 7.  Visit the vicinity of a black hole to study it up-close? 8.  Do astrophysics by traveling to sources (outside our solar system) rather than via telescopes? 9.  Be able to create local gravity (not just magnetic boots) in a spaceship by some means other than kinematically (e.g., rotation or acceleration of spacecraft)? 10. Have a permanent colony on the Moon, where some might live their entire (normal-length) lives? 11. Have a permanent colony on Mars, also with whole lives spent there? 12. Terra-form a planet (like Mars) to make it human-habitable? 13. Power our society with fusion, opening up practically inexhaustible supplies of deuterium on the planet (forget about tritium here—imagine D–D reactions)? 14. Create our food without growing or raising it—like the Star Trek method of “replicating” food by patterning atoms/molecules appropriately, maybe straight from the source of energy? 15. Have robots as common entities among us that can intelligently converse with us and perform sophisticated tasks (housework, transport repair, nanny for the kids)? I’m talking about C-3PO, nothing like today’s machines. 16. Have cloaking devices that, at the flip of a switch, can render a macroscopic device like a car, plane, or spaceship impossible—or exceedingly difficult—to see from virtually any angle? 17. Be able to travel back in time by an amount significant enough to change actions? 18. Communicate with intelligent alien species (extra-terrestrial), sharing technology, history, etc.? 19. Either physically visit or be visited by an intelligent alien species? 20. Substantially eliminate disease and block aging so that we may routinely see lives exceeding 200 years?
 
 ### Who’s the Expert?
 

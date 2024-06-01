@@ -19,33 +19,7 @@ What I have in mind is to recapture my own journey over the last couple of years
 
 Let’s start just by capturing the chronological list, and then I’ll say a few things about the significance of each item.
 
-1.  [Energy and Human
-    Ambitions](https://escholarship.org/uc/item/9js5291m) textbook;
-    especially
-    [Epilogue](https://escholarship.org/uc/item/9js5291m#chapter*.265);
-    Appendix
-    [D.5](https://escholarship.org/uc/item/9js5291m#section.D.5) and
-    [D.6](https://escholarship.org/uc/item/9js5291m#section.D.6) 2.  [Sapiens](https://www.ynharari.com/book/sapiens-2/), by Yuval Noah
-    Harari 3.  [Human
-    Exceptionalism](https://dothemath.ucsd.edu/2022/02/human-exceptionalism/)
-    (Do the Math post) 4.  [Daniel
-    Schmachtenberger](https://www.thegreatsimplification.com/episode/20-daniel-schmactenberger)
-    on The Great Simplification 5.  [Daniel Quinn’s books](https://www.ishmael.org/books/): Ishmael; The
-    Story of B; My Ishmael; Beyond Civilization 6.  Post-Ishmael Do the Math posts
-    ([Sticks](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/);
-    [Love](https://dothemath.ucsd.edu/2022/09/a-climate-love-story/);
-    [Cults](https://dothemath.ucsd.edu/2022/10/the-cult-of-civilization/)
-    and a [Story](https://dothemath.ucsd.edu/2022/12/the-simple-story/)) 7.  [An Inconvenient
-    Apocalypse](https://undpress.nd.edu/9780268203665/an-inconvenient-apocalypse/),
-    by Wes Jackson and Robert Jensen 8.  [We Are the Middle of
-    Forever](https://thenewpress.com/books/we-are-middle-of-forever) by
-    Dahr Jamail and Stan Rushworth 9.  [Braiding Sweetgrass](https://milkweed.org/book/braiding-sweetgrass)
-    by Robin Wall Kimmerer 10. [The Myth of Human
-    Supremacy](https://derrickjensen.org/myth-of-human-supremacy/) by
-    Derrick Jensen 11. [Bitter Harvest](https://sunypress.edu/Books/B/Bitter-Harvest) by
-    Lisi Krall 12. [Hospicing
-    Modernity](https://www.penguinrandomhouse.com/books/675703/hospicing-modernity-by-vanessa-machado-de-oliveira/)
-    by Vanessa Machado de Oliveira
+1.  [Energy and Human Ambitions](https://escholarship.org/uc/item/9js5291m) textbook; especially [Epilogue](https://escholarship.org/uc/item/9js5291m#chapter*.265); Appendix [D.5](https://escholarship.org/uc/item/9js5291m#section.D.5) and [D.6](https://escholarship.org/uc/item/9js5291m#section.D.6) 2.  [Sapiens](https://www.ynharari.com/book/sapiens-2/), by Yuval Noah Harari 3.  [Human Exceptionalism](https://dothemath.ucsd.edu/2022/02/human-exceptionalism/) (Do the Math post) 4.  [Daniel Schmachtenberger](https://www.thegreatsimplification.com/episode/20-daniel-schmactenberger) on The Great Simplification 5.  [Daniel Quinn’s books](https://www.ishmael.org/books/): Ishmael; The Story of B; My Ishmael; Beyond Civilization 6.  Post-Ishmael Do the Math posts ([Sticks](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/); [Love](https://dothemath.ucsd.edu/2022/09/a-climate-love-story/); [Cults](https://dothemath.ucsd.edu/2022/10/the-cult-of-civilization/) and a [Story](https://dothemath.ucsd.edu/2022/12/the-simple-story/)) 7.  [An Inconvenient Apocalypse](https://undpress.nd.edu/9780268203665/an-inconvenient-apocalypse/), by Wes Jackson and Robert Jensen 8.  [We Are the Middle of Forever](https://thenewpress.com/books/we-are-middle-of-forever) by Dahr Jamail and Stan Rushworth 9.  [Braiding Sweetgrass](https://milkweed.org/book/braiding-sweetgrass) by Robin Wall Kimmerer 10. [The Myth of Human Supremacy](https://derrickjensen.org/myth-of-human-supremacy/) by Derrick Jensen 11. [Bitter Harvest](https://sunypress.edu/Books/B/Bitter-Harvest) by Lisi Krall 12. [Hospicing Modernity](https://www.penguinrandomhouse.com/books/675703/hospicing-modernity-by-vanessa-machado-de-oliveira/) by Vanessa Machado de Oliveira
 
 ### Energy and Human Ambitions on a Finite Planet
 

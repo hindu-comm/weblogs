@@ -17,16 +17,7 @@ I will say up front that I am unqualified to supply a scholarly critique of the 
 
 Before I got very far into the book, I wrote down some things I wanted to learn from it.
 
-1.  Is my basic understanding correct: that [agriculture leads straight
-    to
-    modernity](https://dothemath.ucsd.edu/2023/08/our-time-on-the-river/),
-    in time? 2.  Will the book provide insight into the emergence of [human
-    supremacy](https://dothemath.ucsd.edu/2022/02/human-exceptionalism/)—a
-    false sense of separateness or transcendence above nature that
-    drives much of modernity? 3.  Does the book talk about animist belief systems and how languages
-    embodied different ways of thinking? 4.  Does the book present our history in the context of one-time
-    inheritance spending of, e.g., fossil fuels and ecological health? 5.  Is the “Everything” in the title broader than an anthropocentric
-    focus on the last 10,000 years as civilizations arose?
+1.  Is my basic understanding correct: that [agriculture leads straight to modernity](https://dothemath.ucsd.edu/2023/08/our-time-on-the-river/), in time? 2.  Will the book provide insight into the emergence of [human supremacy](https://dothemath.ucsd.edu/2022/02/human-exceptionalism/)—a false sense of separateness or transcendence above nature that drives much of modernity? 3.  Does the book talk about animist belief systems and how languages embodied different ways of thinking? 4.  Does the book present our history in the context of one-time inheritance spending of, e.g., fossil fuels and ecological health? 5.  Is the “Everything” in the title broader than an anthropocentric focus on the last 10,000 years as civilizations arose?
 
 I can say that the answer to all these questions is, disappointingly, no. But I’ll be a bit slippery on the first point, in due time.
 

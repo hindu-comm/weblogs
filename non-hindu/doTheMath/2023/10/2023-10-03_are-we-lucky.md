@@ -45,24 +45,7 @@ Don’t be a pest. It’s beside the point that nuclear is not renewable—you k
 
 Wait: too many things at once:
 
-1.  Of course unlimited energy is a great thing—why the hell
-    [wouldn’t](https://dothemath.ucsd.edu/2022/09/a-climate-love-story/)
-    it be? 2.  Why should it be relevant that we’ve never built solar panels or
-    wind turbines
-    [without](https://dothemath.ucsd.edu/2022/06/shedding-our-fossil-fuel-suit/)
-    fossil fuels? 3.  What does it even matter if these technologies use [ten times the
-    mined
-    resources](https://www.energy.gov/sites/prod/files/2017/03/f34/qtr-2015-chapter10.pdf)
-    as fossil fuels? Earth is enormous. 4.  Surely, you jest that we don’t have ways to make concrete and steel,
-    carry on our mining practices, support air travel and global
-    shipping
-    [without](https://dothemath.ucsd.edu/2022/06/shedding-our-fossil-fuel-suit/)
-    fossil fuels. I can probably find a cute demonstration blasting each
-    of these, or at least imagine them—which is theoretically enough. 5.  I don’t understand the relevance of your point that most of our 8
-    billion people are
-    [fed](https://dothemath.ucsd.edu/2022/12/finite-feeding-frenzy/) by
-    the fruits of fossil fuels for fertilizer and mechanization: we’ll
-    just do something different/better!
+1.  Of course unlimited energy is a great thing—why the hell [wouldn’t](https://dothemath.ucsd.edu/2022/09/a-climate-love-story/) it be? 2.  Why should it be relevant that we’ve never built solar panels or wind turbines [without](https://dothemath.ucsd.edu/2022/06/shedding-our-fossil-fuel-suit/) fossil fuels? 3.  What does it even matter if these technologies use [ten times the mined resources](https://www.energy.gov/sites/prod/files/2017/03/f34/qtr-2015-chapter10.pdf) as fossil fuels? Earth is enormous. 4.  Surely, you jest that we don’t have ways to make concrete and steel, carry on our mining practices, support air travel and global shipping [without](https://dothemath.ucsd.edu/2022/06/shedding-our-fossil-fuel-suit/) fossil fuels. I can probably find a cute demonstration blasting each of these, or at least imagine them—which is theoretically enough. 5.  I don’t understand the relevance of your point that most of our 8 billion people are [fed](https://dothemath.ucsd.edu/2022/12/finite-feeding-frenzy/) by the fruits of fossil fuels for fertilizer and mechanization: we’ll just do something different/better!
 
 So don’t get hung up on fossil fuels! Yes, they are causing climate change, but that’s just another hiccup that we’ll master and tame in the usual heroic fashion: just look at the explosion of solar and wind and electric cars (now roaring up to a few percent penetration!). *We’re lucky*, remember! Fossil fuels are just a stepping stone to an even richer future. Failure is not an option, say I: we’re increasingly capable and increasingly in control. Our destiny is clear: just look at how far we’ve come! This trajectory **must** continue. To think otherwise ludicrously ignores a centuries-long trend—even if you do claim to rest your argument on biophysical reality and not on an inheritance-spending extrapolation lasting only a handful of human lifetimes. It’s only your toxic (lack of?) imagination and lack of faith that threatens our greatness: we have to *believe* in order to mold reality to our dreams.
 
@@ -102,10 +85,7 @@ I encourage you to take a minute (or more, please) to reflect on this new defini
 
 Now. Let’s come at our purported luckiness again from a new understanding, pausing on each question to consider this wider lens of what WE really means. Think in terms of the happiness and health of the collective ecosphere, on the whole. Listen for the sound of your synapses cracking as you read and answer each one in the traditional antrhopocentric sense then in the more inclusive sense.
 
-1.  Were WE lucky to have found fossil fuels? 2.  Were WE lucky to have started agriculture, civilization, and
-    modernity? 3.  Has medical technology made US healthier than ever? 4.  Would WE celebrate a cure for cancer, or unlocking human
-    immortality? 5.  Is modernity in OUR collective best interest? Is it helping US? 6.  Is this OUR destiny—what WE are meant to be doing? 7.  Are WE eager to see modernity’s continuance, fully powered by panels
-    and turbines? 8.  Are WE having fun, yet?
+1.  Were WE lucky to have found fossil fuels? 2.  Were WE lucky to have started agriculture, civilization, and modernity? 3.  Has medical technology made US healthier than ever? 4.  Would WE celebrate a cure for cancer, or unlocking human immortality? 5.  Is modernity in OUR collective best interest? Is it helping US? 6.  Is this OUR destiny—what WE are meant to be doing? 7.  Are WE eager to see modernity’s continuance, fully powered by panels and turbines? 8.  Are WE having fun, yet?
 
 Once shedding the menacing mantle of [human supremacy](https://dothemath.ucsd.edu/2022/02/human-exceptionalism/) and affording consideration for *all life*, the answers to these questions flip from the unthinking and obvious “yes” to a more informed but very clear “no”—or at least “not so fast.” When wild land mammal mass is down to 20% the pre-industrial level and the average decline in vertebrate populations is 70% since 1970, WE are not doing very well at all. Something has gone horribly wrong, and is rapidly [heading for disaster](https://dothemath.ucsd.edu/2023/08/ecological-cliff-edge/).
 It’s really not okay. We need to acknowledge that modernity has come at a tremendous—and perhaps unrecoverable—cost to the community of life and therefore ultimately to ourselves.

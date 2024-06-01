@@ -45,14 +45,7 @@ A large part of this thinking is guided by the only context many of us have: the
 
 Here’s why this mindset is not as valid as it seems:
 
-1.  Most of the change in the last 10,000 years has happened in the last
-    200 years: much more local and fast-moving, and therefore more
-    tractable to understand and predict. 2.  The tools of math and physics permit us to define *some* things that
-    are **not** possible to maintain for 10,000 years, allowing us to
-    usefully constrain the “head-space.” In this sense, we can turn the
-    usual argument on its head and say that people 10,000 years ago
-    could not possibly fathom that we would have tools today to help
-    meaningfully constrain possibilities 10,000 years hence.
+1.  Most of the change in the last 10,000 years has happened in the last 200 years: much more local and fast-moving, and therefore more tractable to understand and predict. 2.  The tools of math and physics permit us to define *some* things that are **not** possible to maintain for 10,000 years, allowing us to usefully constrain the “head-space.” In this sense, we can turn the usual argument on its head and say that people 10,000 years ago could not possibly fathom that we would have tools today to help meaningfully constrain possibilities 10,000 years hence.
 
 The first lesson from physics is that [growth cannot be a long-term prospect](https://dothemath.ucsd.edu/2011/07/galactic-scale-energy/). The last few-hundred years are the anomaly. We can be sure of that. A 1% growth rate—thought of as modest in the present era—has a doubling time of 70 years. 10,000 years means 140 doublings, which is 42 orders of magnitude. Physics says: not gonna happen. If each year, 1% of any resource is “destroyed” (mined, chopped, burned), it will be utterly gone in 10,000 years. [According to the Attenborough show,](https://dothemath.ucsd.edu/2021/03/sir-david-nails-it/) *A Life on Our Planet*, wild spaces declined from 62% of the planet to 35% from 1960 to 2020 (very close to 1% reduction per year). Clearly, we’ve been doing it all wrong for the last 60 years, so that the lifestyle to which we’ve become accustomed is a terrible template for the future, and should probably be utterly ignored: discarded like smelly trash. We have been deceived by rapid exhaustion of the extravagant inheritance into thinking life will always be at least this rich.
 

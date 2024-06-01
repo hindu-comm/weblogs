@@ -21,18 +21,7 @@ The following discussion about belief systems may seem out of place coming from 
 
 Why should we consider a major change?
 
--   Because we don’t know everything, and [never
-    can](https://dothemath.ucsd.edu/2023/11/putting-science-in-its-place/). -   Because what we *do* know tells us we’re on the wrong track,
-    [initiating](https://dothemath.ucsd.edu/2023/08/ecological-cliff-edge/)
-    a sixth mass extinction—not just from CO₂, but from [modernity
-    itself](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/). -   Because we now (collectively) believe in the wrong things, like
-    [human
-    supremacy](https://dothemath.ucsd.edu/2022/02/human-exceptionalism/)
-    and
-    [economics](https://dothemath.ucsd.edu/2023/11/nothing-without-bugs/)
-    (gross). -   These beliefs are actively hurting the [living
-    creatures](https://dothemath.ucsd.edu/2023/10/are-we-lucky/) of the
-    planet, including us.
+-   Because we don’t know everything, and [never can](https://dothemath.ucsd.edu/2023/11/putting-science-in-its-place/). -   Because what we *do* know tells us we’re on the wrong track, [initiating](https://dothemath.ucsd.edu/2023/08/ecological-cliff-edge/) a sixth mass extinction—not just from CO₂, but from [modernity itself](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/). -   Because we now (collectively) believe in the wrong things, like [human supremacy](https://dothemath.ucsd.edu/2022/02/human-exceptionalism/) and [economics](https://dothemath.ucsd.edu/2023/11/nothing-without-bugs/) (gross). -   These beliefs are actively hurting the [living creatures](https://dothemath.ucsd.edu/2023/10/are-we-lucky/) of the planet, including us.
 
 Science has revealed *so much* about the origins and rules of the universe, and how life came to be so exquisitely diverse. Let’s tap into what this tells us. Let’s also acknowledge that mysteries will always remain. Rather than continue to be paralyzed in this urgent time by what we don’t yet know, let’s fill in the gaps with **belief**—or even **faith**—rooted in the science we already do know. Let’s move beyond the current stories we tell ourselves in modernity, and fashion new ones that move us in a better direction—to the enduring benefit of *all* life on Earth.
 
