@@ -31,7 +31,7 @@ The approach here is to assume that Earth’s ecology would crash without *any* 
 
 Therefore, **no bugs, no humans**. No them, no us. The same argument could probably be made for other phyla, producing slightly different quantitative results than what follows, but the same in spirit.
 
-# The Value of Bugs
+## The Value of Bugs
 
 Okay, so I will assume agreement that we need the arthropods, as part of Earth’s biological [context](https://dothemath.ucsd.edu/2023/10/context-is-king/) and as prerequisite participants in our own dance (but see other games below if still not buying it). Let’s now try another association: **no bugs, no humans, no economy**. Our modern market economy is not some abstraction that exists beyond the context of humans, or independent of the ecological foundation in which we are embedded. Our entire economy therefore owes its very existence to bugs.
 
@@ -43,7 +43,7 @@ We’re talking about a total arthropod mass of 1Gt, or 10¹²kg. If we wipe the
 
 A single bee has a wet mass a little over 0.1g, which would be \$1 if not correcting for the dry-carbon to wet-mass ratio, so you’d actually get about 6 bees to the dollar.
 
-# Not Literally
+## Not Literally
 
 Obviously, our economic system is not explicitly tied to bug mass—and that’s part of our problem, I would say. So an annual loss of 1% of bugs does not translate into a 1% loss in GDP, or even more starkly 1% of the \$10¹⁶ total value that’s on the line. Were that to be true, our annual GDP would be wholly swallowed by bug/insect decline, which perhaps is another way of saying that we’ve exceeded planetary limits, and are not paying for our destruction.
 
@@ -51,7 +51,7 @@ We also don’t pay \$0.15 per bee on the planet. This is not a pedantic proposi
 
 We might say that bugs are economically extremely elastic and non-linear: almost zero value until they are more valuable than anything else (when on the brink of extinction). As far as the idiotic market is concerned, we now have a glut of bugs, squashing their value. In fact, we pay good money to exterminate them dead, using pesticides (hint: the “cide” suffix is erudite-speak for “murder”). Cheeky buggers, thinking **our** food (?) belongs to anyone but Lord Man!
 
-# What, Then?
+## What, Then?
 
 If I am not *literally* saying that a kilogram of arthropods has a market value of \$10,000, then what *am* I saying?
 
@@ -68,7 +68,7 @@ I should also clarify that the individual bugs don’t matter as much as the ove
 
 To restate the case, then, [we are not WE without all of US](https://dothemath.ucsd.edu/2023/10/are-we-lucky/): without bugs, no humans, no economy. Since we can quantify the biomass of bugs, and the economy is quantified every which way, we can calculate so many dollars per kilogram of biomass. More importantly, we can confidently state that the economic metric would be zero without bugs, and therefore owes its *entire value* to the existence of bugs.
 
-## Other Games
+### Other Games
 
 I picked arthropods because they are sufficiently foundational in the web of life that I have an easier time imagining ecosystem collapse if that particular (bug) rug is pulled out from underneath the animal kingdom (some members of other kingdoms rely on bugs as well). In doing so, I cast the net rather wide, catching both butterflies and krill. I might have preferred to use insects alone—still able to make the case. But the data I used did not subdivide into insects. Had it done so, we can be sure the insect mass would be *smaller* than the total arthropod mass, thereby only serving to *increase* their calculated economic value.
 
@@ -82,11 +82,11 @@ Wild mammals register 0.007Gt, which is roughly evenly split between land and se
 
 On the other extreme, we could throw our net wider and count the entire 2.4 Gt of animal biomass and be even more confident that we would not survive without *any* animals except humans on the planet. As this is only 2.4× the arthropod mass, the basic math is hardly changed: same order-of-magnitude as the case for bugs alone (\$4,000 per kilogram).
 
-## A Techno-Optimist Trap
+### A Techno-Optimist Trap
 
 One thing I like about this exercise is that the more enamored one is of our economy, our technology, and our prospects, the *more* valuable animals become! The unflinching optimist will assume we can go longer and grow more, thus only increasing the total accumulated economic value of the enterprise and putting more at stake. In some sense, the less biophysically-aware a person is—placing premium value on our artificial creations—the more valuable the natural world actually becomes. Maybe that paradox will trouble the techno-love-blind mind. But no one likes a trap, so the more likely reaction is rejection of the premise, out of hand.
 
-# Wake the Fup!
+## Wake the Fup!
 
 This is really simple and obvious. What we might call modernity, civilization, or the “world made by humans” is a layer built on top of fundamental prerequisites like air, water, materials, and **life**. Humans cannot exist in ecological isolation. Our context is unfathomably deep in time and in biodiversity. The hierarchy is crystal clear: humans require ecological health rather than the reverse. This means all our constructs, which do not exist without us, cannot exist without a functioning ecology. We might be forgiven for taking a prerequisite for granted—like oxygen in the atmosphere—except when we are actively destroying the prerequisite with marvelous efficiency.
 

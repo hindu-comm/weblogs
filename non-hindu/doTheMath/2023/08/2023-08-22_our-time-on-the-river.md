@@ -20,13 +20,13 @@ Metaphorical map of modernity’s journey. The orange time references relate to 
 Here is a [PDF (vector graphics) version](https://dothemath.ucsd.edu/wp-content/uploads/2023/08/river-map2.pdf).
 I suggest having this open in another window while reading the post.
 
-# Before Wading In
+## Before Wading In
 
 Humans have been around in some form for 2.5–3 million years. Homo sapiens came onto the scene at least 200,000 years ago. During much of our time on the planet, we dabbled in horticulture: favoring certain plants, tending to “food forests” and landscapes, sometimes using fire to condition the land. Metaphorically, we might say this was dipping a toe, or even wading into the headwaters of modernity.
 
 When Europeans encountered Native American territories, they did not recognize the “tended” landscapes as agriculture, because they still looked untamed. For instance, some tribes planted corn, squash, and beans—the three sisters—intermingled in an unruly but cooperative mess that looked nothing like well-ordered (civilized) row crops.
 
-# Agriculture: The Commitment
+## Agriculture: The Commitment
 
 Roughly 10,000 years ago, some humans began a new form of agriculture that is recognizable today: clear a field, plant a single crop on it, yank weeds, eliminate pests, fence out intruders, fence in beasts of burden. It did not happen overnight, obviously, but adoption of these techniques is what we mean by the agricultural revolution. Daniel Quinn calls this style “totalitarian agriculture.” It was at this point that we committed ourselves to the stream. We allowed our feet to lose contact with the rocky bottom, and enjoyed being pushed along by a gentle current.
 
@@ -36,49 +36,49 @@ This new system had a number of obvious advantages, making its adoption very har
 
 Once set on our course and drifting down the stream of Agriculture, many other tributaries joined to invigorate the flow. What follows is an accounting of these different tributaries, accompanied by brief notes as to their nature and significance. Each tributary incrementally increased the rate of flow, whether perceptible or not. I can’t guarantee I have the ordering right: it’s hard to keep track of so many tributaries! And in practice, these influences often operated in gradual, overlapping progression—rather than as a sudden jolt of fully-formed novelty. So don’t take the map metaphor literally: it’s not meant for navigational purposes.
 
-## Settlements
+### Settlements
 
 Once tending fields, the nomadic life was essentially over. Fertile soil dictated where people lived, and settlements sprang up in these locations. It made sense to live next to the field where so much time was spent toiling. Living structures became more elaborate and permanent. It was no longer necessary to relocate periodically, so settlement structures became larger and relied more on heavy materials.
 
-## Possessions
+### Possessions
 
 Relatedly, once settled into a sedentary arrangement, it was possible to accumulate possessions. Before this, few things were “owned” by a tribe, and many of those things might be considered to be communal. Now, living in the same dwelling year after year, personal belongings could be hoarded and treasured.
 
-## Surplus
+### Surplus
 
 This was a pretty sizable tributary. Control over how much to plant, together with periodically poor yields suggested a “safe” strategy of planting *more* than was absolutely necessary. In most years, this translated into surplus food. A surplus has all kinds of implications, some of which will appear below. But primarily, it served to encourage higher rates of reproduction—with the added bonus of more hands to work the fields. More people meant the need to transform more land, to maintain the surplus buffer in the face of having more mouths to feed. The expansion game was on!
 
-## Security
+### Security
 
 Food surpluses and possessions needed protection—both from invading competitors and from members of your own community (introducing: crime!). The fruits of so much work would not be taken without a fight. So we developed ways to lock up food and task some with its protection. Full-time soldiers fit the bill, and had the bonus of being able to bring home loot from the invasion of bordering regions!
 
-## Property Rights
+### Property Rights
 
 Once individuals had permanent structures containing personal possessions adjacent to land that they worked, it was an obvious step to associate those holdings with the person. In a move that still baffles those who live as reciprocal members of the community of life, it became customary to assign *ownership* of land to individuals. Usually, this meant that anything—living or inanimate—within its boundaries was owned by the master of the land. It’s a subtle formality, but the philosophical implications are huge in terms of how humans relate to the natural world.
 
-## Patriarchy
+### Patriarchy
 
 As soon as land, home, and possessions were associated with an individual (a man, in practice), the parental (paternal) instinct to pass every possible advantage to direct offspring predictably led to patriarchy. The male lineage became hugely important. This also promoted obsessive attention to rules regulating which offspring were truly entitled (often the eldest born in “legitimate” circumstances). Note that monotheistic religions took root during this same time and context.
 
-## Division of Labor
+### Division of Labor
 
 This tributary has already been exerting influence for a while, but at an ever-increasing scale. I deferred its coverage because it is obvious by now how multi-dimensional the society has become. We already saw the need to have security guards or even a standing army. Folks would emerge specializing in construction, farming tools, weapons, lock and key, and law—among other vocations. Even on the farm, we could imagine specializations developing.
 
-## Hierarchy and Classes
+### Hierarchy and Classes
 
 A natural consequence of division of labor and differing amounts of possessions is a ranking system establishing degree of importance. This is in contrast to our egalitarian past, where age might confer a certain respected status, but otherwise instability-seeding hierarchies were deliberately squelched by a variety of clever norms. Allowed to flourish, hierarchy will run the gamut from divine monarchs to sub-human slaves. Note that hierarchies among humans will not exist without also perceiving a hierarchy within nature, with humans obviously perched at the top. It is a small step from hierarchies to semi-permanent classes as status and privilege are locked in and inherited.
 
-## The State
+### The State
 
 For some time now, we have been cruising through the realm called *Civilization*, guided by a culture of human supremacy. All of our recorded history is in this context. At every point along the journey to this point, new questions arose. Who is the boss of the security forces? Who sees to their payment? Who controls surpluses? Who adjudicates property rights? I had difficulty deciding where to bring in this tributary, since it evolved at every stage and scale from villages to kingdoms. So we rename the river at this point: the river *State*. Who knows how long we’ve been on it, exactly? I could just as easily have called the realm *State* and the river *Civilization*, or even *Human Supremacy*. Don’t make the mistake of expecting the metaphor to be, you know, accurate. Just go with the flow.
 
-## Subjugation of Life
+### Subjugation of Life
 
 Agricultural life is labor-intensive. It also means that individuals have little of the self-sufficient autonomy that most members of a hunter-gatherer tribe possess—where almost everyone shared an impressive suite of skills and could acquire food by their own lights. Once food was the result of a segmented, labor-intensive process placed under lock and key, humans were beholden to power structures, which often were not terribly compassionate. Slavery provided necessary labor and was another one of those tributaries that accelerated the flow. It is hard to see how it would *not* have emerged from the conditions unleashed by committing to the agricultural stream.
 
 Besides enslaving humans, we have a long and continuing history of enslaving animals to perform services for us (with their food under lock and key). Some may defend the practice as offering shelter, food, parasite control, protection from predators, and other amenities. We’re doing them a favor, it is claimed. My question is: if you remove the fences (prison bars; chains), do they still decide to stay? Granted, at this point the genetics of many domesticated species are so compromised as to render them non-viable in the wild—stripped of much of their initial (and considerable) bio-intelligence. But what would we think if human slavery had persisted long enough to produce similar genetic alterations and incapacities? Would that then make it okay to retain institutionally-dulled humans as slaves? Humans are animals, too, and applying different rules and considerations is a hallmark of human supremacy.
 
-## Objectification and Exploitation
+### Objectification and Exploitation
 
 This is not so much a tributary as a characterization of the rain that sourced *all* these tributaries. But it makes the most sense to talk about it now. As soon as we take control of who lives and dies (crops, weeds, pests, animals), decide that we can “own” land, accumulate a lot of “things,” commodify food, and transform living beings into property, we have stepped deep into dangerous territory. It is no surprise that such a culture would develop an ingrained sense of human supremacy.
 
@@ -86,23 +86,23 @@ Even our language reflects this transformation. Compared to many Indigenous lang
 
 General-purpose money—exchangeable for practically anything of value—is an outward manifestation of this objectification, and arrived as a seemingly inevitable partner to our objectifying, agricultural ways. This construct facilitated and accelerated the pace of unfortunate, exploitative decisions.
 
-## Ecological Ills
+### Ecological Ills
 
 Having established the core character of the now swiftly-flowing river, it begins to exercise erosive power over the landscape. Early on, it became apparent that totalitarian agriculture was a form of soil mining. Nutrients were depleted. Salt accumulated from irrigation. Tilled soil lost its root structures and blew or washed away. What was once a forest, then a crop field, became a spent desert—a bad bargain for the community of life. Habitats were ruined and lost forever. Species were unwittingly driven to extinction as collateral damage. This segment of the map is riddled with tributaries representing one or another ecological tragedy. Civilization built itself up at the expense of ecological health. We lack evidence that one is possible without the other.
 
-## Science
+### Science
 
 This isn’t just another tributary, but the confluence of a fully-formed (even larger) river. Up to this point, a key subtext has been **control**: over plants, animals/humans, and the environment in general. Science (or perhaps more generally the Enlightenment) provided systematic tools for more effective control. Experiments methodically improved our understanding and ability to predict and manipulate the world in which we lived. At almost every turn, this knowledge was used to increase profit, increase the human footprint, and drive technological development—all to provide goods and services to a single exploding species in the short term. The primary application of this knowledge has *not* been to benefit the entire community of life, and generally has had quite the opposite effect.
 
 The introduction of science marked the beginning of a rapid acceleration of the modern enterprise. It deepened the sense of separateness and transcendence from nature. It planted the false notion that we could overcome any limit—ultimately perhaps even death itself. It was the elixir of godly ambitions. I can hardly overstate how much of a game changer it was to merge our already-destructive stream with science. Incidentally, the science label here also covers technology, as an application of the scientific approach.
 
-## Fossil Fuels
+### Fossil Fuels
 
 As if the Enlightenment was not enough, in quick succession we joined another enormous river. One could say that the process of science opened the door to fossil fuels, but science and fossil fuels might be best described as a dynamic duo. Fossil fuels gave us the **power** to advance our science-amplified degree of control to an entirely new level. Resources that had been previously inaccessible became available. It became far easier to clear land for agriculture and other uses. We learned to make fertilizer from methane, unleashing unprecedented agricultural surpluses that inevitably resulted in a human population overshoot. Fossil-fueled furnaces led to steel, concrete, and other materials on a massive scale, paving the way to megacities and global trade. Science itself was amplified by having access to fossil fuels, via a flood of new devices and capabilities invented with—and powered by—cheap energy. Advances in science and technology in turn allowed greater access to buried fossil energy. This positive feedback arrangement facilitated runaway expansion of the enterprise, leading to a [battery of hockey stick curves](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/).
 
 Now we find ourselves racing along in a raging torrent! It is both thrilling to think of the seemingly infinite possibilities, and scary to realize how precarious our position has become. On the dramatic end, we have developed the power to annihilate most life on Earth in a matter of minutes. But just in case nuclear war did not come to pass, we set about annihilating life on a more modest schedule of a century or so.
 
-## Ecocide and the Boat
+### Ecocide and the Boat
 
 I no longer seem to be able to write a post without calling attention to the tragic and rapid decline in wild animal populations (see [Death by Hockey Sticks](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/)). Our raging river is rapidly eroding the foundations of biodiversity—drowning out most life and extinguishing the vitality of the planet. We have succeeded in [whittling down wild land mammals to 2.5 kg per person](https://dothemath.ucsd.edu/2023/08/ecological-cliff-edge/)—small enough to drown in the bathtub (or sink, really).
 
@@ -110,13 +110,13 @@ How are we, ourselves, surviving the turbulence and not drowning? Well, first le
 
 We also make room on the boat for *some* selected plants and animals. It’s like Noah’s Ark, except that we dispatch most animals (and some people) who try to climb aboard. It’s not a very bio-inclusive boat.
 
-## Waterfall!
+### Waterfall!
 
 Where do we go from here? One feature of the river metaphor is a sense of inevitability, as was emphasized in [The Ride of Our Lives](https://dothemath.ucsd.edu/2022/07/the-ride-of-our-lives/). Logical consequences (all those associated tributaries) teamed up with game theory to ensure dominance of the agricultural, technological, industrial, scientific, market-driven, fossil-fueled juggernaut. This system had the adolescent power to overwhelm older, wiser, gentler ways, and required little thought or deliberate design: just go with the flow, and stay in the center of the channel to maximize speed.
 
 Now we are beginning to see the next inevitable development. A system dependent on growth, stacked to favor one species in the very short term, utterly reliant on non-renewable materials and temporarily copious energy, obliterating ecological health, objectifying nature and leaving important decisions to mindless money writes its own demise in the most elegant, efficient, optimized fashion. This churning, awesome mega-river leads itself over a [waterfall](https://dothemath.ucsd.edu/2023/08/ecological-cliff-edge/). That’s just what it does. It was always so, but not at all obvious from upstream. Even now, so close to the edge, our vantage point on the river is the least advantageous for seeing the waterfall clearly, so that most people are still unaware or unconvinced. But increasing numbers of people see the clouds of mist and hear a mounting sound of continuous thunder. Others at least sense that something is not quite right.
 
-# A Bigger Boat?
+## A Bigger Boat?
 
 Probably the most common reaction among the subset of the billions of privileged humans in the boat who even *acknowledge* the danger is to focus on the *boat*, and how it might be modified to continue insulating us from limits and danger. Technology, innovation, ingenuity, science, and extraction/exploitation have done marvels in getting us to this state (overlooking the dominant role of the river itself, as we are prone to do), so let’s double down and do more of that! Such reactions tend to be piecemeal: dividing the predicament into identifiable problems that individually might have viable “solutions” but do little to change the overall state of affairs. Solar panels might address CO₂, for instance, but not the “meta” peril of ecological overshoot enabled by a hubristic, supremacist relationship to the natural world.
 

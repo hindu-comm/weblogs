@@ -19,7 +19,7 @@ I never imagined creating a blog that would get millions of pageviews, although 
 
 But I think there is something more fundamental going on here. I think we’re dealing with personality traits cooked into human nature. Are we capable of mitigating a far-off potential calamity via proactive efforts decades ahead of a putative crisis? In this post, I’ll use some survey data suggesting that we may be in trouble.
 
-# Evidence of a Problem
+## Evidence of a Problem
 
 About a year ago, a friend shared with me a graphic from an informal survey on the [Peak Prosperity website](http://www.peakprosperity.com/ "Peak Prosperity"). This is Chris Martenson’s site, which hosts a “[Crash Course](http://www.peakprosperity.com/crashcourse "Chris Martenson's Crash Course")” consisting of 4.6 hours of quality video content describing why we should worry that tomorrow may not be bigger than today, and why the growth *phase* may be just that. As a related aside, I once did a [podcast interview](https://dothemath.ucsd.edu/2012/05/chris-martenson-podcast/ "Chris Martenson Podcast") for Chris Martenson.
 
@@ -29,7 +29,7 @@ But that blind spot may be stamped into human nature. So what about this survey?
 
 The survey asked people to indicate their personality type as classified by the [Myers-Briggs mechanism](http://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator "Wikipedia: Myers Briggs"). Keep in mind that these are people visiting the Peak Prosperity forum. We’ll call these people “*receptive* to the cautionary message.” Or at least *engaged* in the issue—be they supporters or detractors.
 
-# The Survey Result
+## The Survey Result
 
 I’ll define the types in a bit, but first let’s look at the data from Peak Prosperity.
 
@@ -43,29 +43,29 @@ The result was pretty stunning. Of the 114 responses, site visitors were **domin
 
 Motivated by this stunning result, I went to Do the Math readers to get another survey of the same nature—but this time with a much greater degree of control and knowledge about the methods. I got almost 1000 unique responses, and the result is strikingly similar—if not even *more* skewed. I’ll defer showing it until a bit later. We will first take a detour to explain the Myers-Briggs indicator, and then tease out some interesting results from the new data.
 
-## Myers Briggs Types
+### Myers Briggs Types
 
 I can’t add to what’s been said about MB types, and recommend the [Wikipedea page](http://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator "Wikipedia: Myers Briggs") for background. I will, however, offer a brief elucidation so that you don’t have to run off elsewhere to at least master the lingo.
 
 The MB indicator has four fields/characteristics that each contain one of two possible letters/traits. Thus there are 16 possible combinations/types, which would result in 6% per type if uniformly distributed (not the case, of course). Every person has *some* of both polar characteristics, and some individuals will be kind-of in the middle (not convincingly to one side or the other).
 
-### Introvert/Extravert
+#### Introvert/Extravert
 
 The first field is either an I or E depending on whether a person tends to feel depleted or energized by social interaction.
 
-### Sensing/iNtuiting
+#### Sensing/iNtuiting
 
 The second field is S or N. Does a person rely mostly on direct sensory input for their information, or does it come more from a synthesized, abstract, intuitive read of a larger set of inputs? Think of this one as concrete vs. abstract tendencies. Someone who holds a snowball in front of Congress to argue against climate change is a hard-over S-type. The S/N dichotomy is perhaps the **most important** attribute when it comes to whether an individual would entertain Do the Math views.
 
-### Thinking/Feeling
+#### Thinking/Feeling
 
 The T/F dichotomy is pretty self-explanatory. Does a person place more stock in cold logic and deduction rather than in consideration of other peoples’ needs and feelings? Spock or Kirk?
 
-### Judging/Perceiving
+#### Judging/Perceiving
 
 The J/P designation is the hardest for me to describe. Judging does not mean judgmental. Technically, J-types rely more heavily on their T/F facility and P-types rely more on S/N when it comes to processing information from the world. As an emergent property, combine T with J (like me) and you have a punctual planner on your hands.
 
-## Making People
+### Making People
 
 Put these four traits together and you make people. There are loads of pages and books describing attributes of the MB types. The official Myers-Briggs test costs money to take. But there are plenty of knock-offs you can find on the web (like [here](http://www.humanmetrics.com/cgi-win/jtypes2.asp "humanometrics Myers-Briggs test")—be aware that scoring 56% in a category means 56% of the way from neutral to hard-over; or [here](http://www.16personalities.com/personality-types "another Myers-Briggs test"); or [here](http://www.truity.com/personality-type "a third Myers-Briggs test")). If you want to see a pretty accurate description of the INTJ type, for instance, see [this link](http://www.humanmetrics.com/personality/intj "INTJ description") (and edit last four letters of URL to see other types).
 
@@ -73,7 +73,7 @@ It can be fascinating to read about the various types. When I read about INTJ, I
 
 And just pause to consider: do you think a poll of Peak Prosperity or Do the Math readers would show a correlation or strong preference for astrological sign or birth month? When any type classification scheme produces such dramatic results as we see above, there *must* be *something* “real” to the scheme—even if you do not understand what it is. The fact that so many scientists are INTJs is no accident. Personality type matters, and often manifests very early in life.
 
-## Prevalence
+### Prevalence
 
 The [Wikipedia page](http://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator "Wikipedia: Myers Briggs") has some stats on the prevalence of the 16 types in the U.S. population, as well as some temperament labels. Other sites have their own labels; the table below provides some synthesis.
 
@@ -81,7 +81,7 @@ The [Wikipedia page](http://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indi
 
 For full disclosure, I tweaked the high end of the ISTJ and ISFJ ranges by 1% each so that the sum of average values would come out to 100%. In the “adopted prevalence” column, I put two numbers: the first is the average of the range shown in the second column, and the other comes from the [Truity](http://www.truity.com/view/types "Truity types") site (which also has gender breakdown).
 
-# Do the Math Results
+## Do the Math Results
 
 So I put up a [survey invitation](https://dothemath.ucsd.edu/2015/03/one-question-survey-for-dtm-readers/ "One-question Survey for DtM Readers") on Do the Math to see if the Peak Prosperity result held up. I wanted to make the survey super-simple (one question with 16 drop-down choices), but one day and hundreds of responses later, I came to wish that I had asked a couple more questions (Did you already know your MB type?; Do you subscribe to the cautionary message?). So I made [another appeal](https://dothemath.ucsd.edu/2015/04/okay-three-question-survey-for-dtm-readers/ "Okay: Three Question Survey for DtM Readers") and had 230 do-overs plus about 500 new respondents for a total of 958 (725 in total responded to the second poll with additional questions).
 
@@ -95,7 +95,7 @@ Do the Math respondents (958): looks nothing like the overall population!
 
 Pretty much the same story as in the original Peak Prosperity poll. The main difference is that DtM lacks as many INFJ as PP. Maybe DtM’s analytic, quantitative bent selects T over F people somewhat more. But in any case, note that the DtM personality distribution and the general population **look nothing alike**! Look at all that red hair in the audience! Who knew drill bits were so exclusively interesting to that crowd?
 
-## Receptive Population
+### Receptive Population
 
 Okay, now that we have some of the basics about types and prevalence under our collective belt, and have seen the Do the Math data, let’s assess what the results mean.
 
@@ -129,11 +129,11 @@ Cassandra—while being right in the end—is invoked as a label of unjustified 
 
 If the cautionary message is way off base, then perhaps it’s just as well that the adherents never reach critical mass—though I’m not sure what damage would result from an aggressive campaign to reduce depletion of fossil fuels and other resources, other than economic slowdown/reversal. Of course if you buy into the utopian dream this is criminal enough—depriving countless individuals of comfort and easy-living.
 
-# You Call this Science?
+## You Call this Science?
 
 Well, no. I’m not calling what I’m doing here “science.” It’s analysis, based on a couple of selective sets of survey data. It’s interesting. It has a significant chance of being right, guided by some intuition I’ll discuss in a bit. At the very least it seems to be something we should pay attention to, and if nothing else try to do a more controlled scientific study. I think it’s important. If humans as a whole are wired not to plan far ahead for contingencies of a sort never before seen, then we should know this about ourselves and acknowledge a fundamental vulnerability (other suitable words here are: shortcoming; liability; blind-spot).
 
-## Could something be wrong with the data?
+### Could something be wrong with the data?
 
 My first exposure to this amazing skew was via the Peak Prosperity forum survey for which I had no personal knowledge of the source and methods employed: was there a link to take a MB type test in case it wasn’t already known? Were we just seeing a reflection of who already knew their types, and the INTX folks really go in for this sort of thing? Do INTX people *love* taking surveys (I don’t, particularly)? The result was so striking I also contemplated the possibility that it was fabricated to make a point. I didn’t really think so, but could not truly say.
 
@@ -149,13 +149,13 @@ Previous familiarity with MB type; number of respondents of each type are indica
 
 The other thing I found was that 76% of respondents agreed with the statement: “I worry that we risk systemic failure if we don’t acknowledge limits to resources and growth.” A small 6% opted for the statement: “Human innovation and economic markets will avert any collapse scenario.” 18% said that neither statement captured them well. I did not see compelling evidence that the optimist camp tends toward certain types (although ISTJ almost stands out here). Note, however, that most types are not well represented in this poll: the non-INTX types are oddball outliers among their fellow types as DtM visitors, so it is risky to draw conclusions about the attitudes of non-INTX folks with respect to the cautionary message. The only statistically significant anomalies are that INTPs are less likely to be pinned down (26% rejected both statements), and 17% of ISTJs liked the optimist answer.
 
-## Selection Effects
+### Selection Effects
 
 Various selection effects could be operating here to skew the PP and DtM results so markedly. Maybe INTJs, being analytical creatures, are more likely to know about Myers-Briggs and know their personality type. I did (but the result described above does not bear this out). Maybe INTJs were more likely to see value in responding to the survey. Maybe INTJs are more likely to participate in online forums of *any* type. Maybe the way word spreads about online forums involves consort selection effects like co-workers, where correlations exist (I, for instance have no shortage of INTJ types around me at work). Maybe all these things are playing a role at once.
 
 I’m sure some of these effects are distorting the numbers. But is it a whole factor of two? Three, even? Even at this level, we still have \< 20% of people on board with the message (again under the unlikely assumption *all* INTJs would be). My sense is that this still fails to meet critical mass for large-scale action in a non-crisis democracy, any way we slice it.
 
-## N-tuition
+### N-tuition
 
 Being an INTJ, I rely more on intuition and abstraction than on what I sense around me in the here-and-now. Scientists *must* do so in order to develop theoretical frameworks. I have a healthy appreciation for the concrete (experimentalist in me), but do still lean on abstraction. I have noticed that I tend to generalize situations looking for the common lesson. I like to synthesize. It’s the distilled product that sticks with me in long term memory. I am prone to make a statement based on a wide variety of inputs over the years, but when challenged to cite specific examples, I struggle to recreate them: I’ve already chucked them out in favor of the overarching principle.
 
@@ -167,7 +167,7 @@ Even if the survey was *deeply* flawed, such that in reality 20% of S-types were
 
 In summary, if you base your world view on concrete, “provable” facts sitting in plain sight, then you’ll have little truck with future extrapolations and musings. The more radically the projection departs from the “normal,” the less likely it can be taken seriously. These are good, solid traits for humans to have—and we can imagine their merit in an evolutionary sense. Things usually *are* as they are and have been throughout living memory. Except when they’re not.
 
-## Bring on the Extraverts!
+### Bring on the Extraverts!
 
 One other dimension worth poking: what if, for instance, an ENTJ is every bit as likely to be persuaded to heed the cautionary message as an INTJ, except they spend their time socializing (in person or virtually) rather than reclusively reading scary websites? What if they could be brought on board? Indeed, the interest level among ENXX types somewhat mirrors the descending staircase seen in the INXX group in the Interest Level plot. What if the extraverts were boosted (by a factor of 13, it turns out) so that 100% of ENTJs would be receptive?
 
@@ -179,7 +179,7 @@ The Party’s Over: getting the extraverts’ attention still results in a small
 
 Welcome aboard, party people! Now we are 11–18% of the population, depending on prevalence numbers—up from 4.5–6.8% when you were busy socializing. Hmm. Still not an impressive showing. Still sub-critical—even if this distortion/boost is justified.
 
-# Reinforced Resignation
+## Reinforced Resignation
 
 As stated at the beginning, my impetus for all the Do the Math work was to lay out a rational, quantitative foundation for why we should not take future growth/wealth/happiness for granted. We could really blow this thing. Our best hope, as I saw it, was to get people to acknowledge and accept the threat and thereby endeavor to make it go away. As with any 12-step program, admitting that there is a problem is step one.
 

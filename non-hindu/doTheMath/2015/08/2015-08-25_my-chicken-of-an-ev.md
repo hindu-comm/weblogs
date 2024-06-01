@@ -29,7 +29,7 @@ Gasoline vs. on-board electrical consumption over time
 
 The horizontal axis tallies gasoline usage in gallons, while the vertical axis is the electrical energy used, in [kWh](https://dothemath.ucsd.edu/useful-energy-relations/#kilowatt-hour "Useful Energy Relations") (as reported by the car: charging supplies 22% more than this). Road trips shoot over to the right, while long stints of around-town driving are more vertical tracks. Color coding signifies progress through time (the same scheme is used for many of the plots to follow). Soon after getting the car, we took a ~4000 mile road trip to the Pacific Northwest (charges along the way), and a more recent one to Yosemite. The black line represents an approximate parity between EV driving and gasoline driving. Traveling a total of 24,200miles using 280 gallons means a literal MPG of 86 (37km/L).
 
-## MPGe
+### MPGe
 
 Rather than focusing on miles per literal gallon of gas, the car also reports MPGe: miles per gallon-equivalent. Reverse-engineering, it uses a conversion of about 33kWh per gallon of gasoline, which is consistent with the thermodynamic [lower heating value of gasoline](https://en.wikipedia.org/wiki/Gasoline_gallon_equivalent "Wikipedia: Gasoline Energy").
 
@@ -51,7 +51,7 @@ One more point before leaving the topic of MPGe. Our car has trained us to be mo
 
 This is the only plot for which dot color is *not* tied to the timeline. In this case, it represents the fraction of the trip energy provided by electricity. Dark blue is effectively gasoline-only, while dark red is pure EV mode. We see a steep initial “training” curve, especially in the EV-only points. One anomalous cyan point sits on the lower line. The car was in the shop at this time, and I can’t figure out what they did to use so much battery juice for not very many miles. I also detect a seasonal variation: more efficient in summer.
 
-## Decline
+### Decline
 
 Okay, now for the bad news. We used to frequently pull into the garage on battery “fumes,” and note 5.5kWh delivered by the car battery. But we have not seen this for many months now. Time to plot up all our hard-earned data. The plot below shows the energy expended on pure-EV trips (or collections of small trips) that ended with an estimated remaining range of three miles or less. For those trips with some range remaining, the “full” capacity was estimated by adding estimated range divided by 5.5 miles per kWh, which is the empirically-determined (optimistic) range estimate scaling the car seems to use. In other words, if we use 4.7kWh and have 3 miles left, I report this as 5.2kWh total capacity. The curve looks no different (just sparser) when including only points with 0 or 1 miles remaining.
 
@@ -65,11 +65,11 @@ Could it be that the car is simply reporting less energy used by the battery, bu
 
 Short answer: no. I had hoped for something like this. We not only keep track of charge times, but [our electricity monitoring system](https://dothemath.ucsd.edu/2012/07/ted-stravaganza/ "TED-Stravaganza") also tells us how much we’re actually delivering. Comparing initial charge efficiency to recent efficiency shows no change at the few-percent level.
 
-## Economics
+### Economics
 
 Although there is a generous warranty on the battery (8 years or 100,000 miles; 10 years or 150,000 miles in CA and some other states), this does not apply to gradual capacity loss, since this is considered to be normal wear and tear. So if the \$4,400 battery cost crops up in four years, my cost analysis (\$3/gal gasoline, \$0.15/kWh electricity, 5,000 miles/year in EV mode) indicates a propulsion cost savings of \$100 per year (about 15% savings on yearly total propulsion cost, assuming 10,000 miles total per year). Compared to the \$1100/year in battery premium cost, this saving is practically invisible/meaningless. Batteries becoming twice or even four times cheaper will not offset the differential.
 
-## Take Away
+### Take Away
 
 While obligated to point out the financials, I am the last to feel enslaved by a strict dollars-and-cents analysis. There are other reasons to go for an EV: reduced reliance on petroleum, solar charge capability, quiet, efficient, support of a nascent technology, etc. For me, energy is a hobby. I buy an expensive car and expensive solar batteries because I want to learn more about their pros and cons. In part, I am glad that I can export what I learn to the people. Most folks do not have the financial or technical capabilities to look into possibly-hyped technologies and report, free of financial agenda.
 

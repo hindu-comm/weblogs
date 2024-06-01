@@ -21,19 +21,19 @@ The figure at left shows the rate of global economic growth over the last centur
 
 The difference between economic and energy growth can be split into efficiency gains—we extract more activity per unit of energy—and “everything else.” The latter category includes sectors of economic activity not directly tied to energy use. Loosely, this could be thought of as non-manufacturing activity: finance, real estate, innovation, and other aspects of the “service” economy. My focus, as a physicist, is to understand whether the impossibility of indefinite physical growth (i.e., in energy, food, manufacturing) means that economic growth in general is also fated to end or reverse. We’ll start with a close look at efficiency, then move on to talk about more spritely economic factors.
 
-## Exponential vs. Linear Growth
+### Exponential vs. Linear Growth
 
 First, let’s address what I mean when I say *growth*. I mean a steady rate of fractional expansion each year. For instance, 5% economic growth means any given year will have an economy 5% larger than the year before. This leads to exponential behavior, which is what drives the conclusions. If you object that exponentials are unrealistic, then we’re in agreement. But such growth is the foundation of our current economic system, so we need to explore the consequences. If you think we could save ourselves much of the mess by transitioning to *linear* growth, this indeed dramatically shifts the timeline—but it’s also a death knell for economic growth.
 
 Let’s say we lock in today’s 5% growth and make it linear, so that we increase by a fixed absolute amount every year—not by a fixed fraction of that year’s level. We would then double in 20 years, and in a century would be five times bigger (as opposed to 132 times bigger under exponential 5% growth). But after just 20 years, the fractional growth rate is 2.5%, and after a century, it’s 1%. So linear growth starves the economic beast, and would force us to abandon our current debt-based financial system of interest and loans. This post is all about whether we can maintain our current, exponential trajectory.
 
-## Squeezing Efficiency: Rabbits out of the Hat
+### Squeezing Efficiency: Rabbits out of the Hat
 
 It seems clear that we could, in principle, rely on efficiency alone to allow continued economic growth even given a no-growth raw energy future (as is inevitable). The idea is simple. Each year, efficiency improvements allow us to drive further, light more homes, manufacture more goods than the year before—all on a fixed energy income. Fortunately, market forces favor greater efficiency, so that we have enjoyed the fruits of a constant drum-beat toward higher efficiency over time. To the extent that we could continue this trick forever, we could maintain economic growth indefinitely, and all the institutions that are built around it: investment, loans, banks, etc.
 
 But how many times can we pull a rabbit out of the efficiency hat? Barring perpetual motion machines (fantasy) and heat pumps (real; discussed below), we must always settle for an efficiency less than 100%. This puts a bound on how much gain we might expect to accomplish. For instance, if some device starts out at 50% efficiency, there is no way to squeeze more than a factor of two out of its performance. To get a handle on how much there is to gain, and how fast we might expect to saturate, let’s look at what we *have* accomplished historically.
 
-### The Good, the Bad, and the Average
+#### The Good, the Bad, and the Average
 
 A few shining examples stand out. Refrigerators use half the energy that they did about 35 years ago. The family car that today gets 40 miles per gallon achieved half this value in the 1970’s. Both cases point to a 2% per year improvement (doubling time of 35 years).
 
@@ -41,7 +41,7 @@ Not everything has seen such impressive improvements. The Boeing 747 established
 
 Taken as a whole, we might then loosely guess that overall efficiency has improved by about 1% per year over the past few decades—being bounded by 0% and 2%. This corresponds to a doubling time of 70 years. How many more doublings might we expect?
 
-### Potential Gains and Limits
+#### Potential Gains and Limits
 
 Many of our large-scale applications of energy use *heat engines* to extract useful energy out of combustion or other source of heat. These include fossil-fuel and nuclear power plants operating at 30–40% efficiency, and automobiles operating at 15–25% efficiency. Heat engines therefore account for about *two-thirds* of the total energy use in the U.S. (27% in transportation, 36% in electricity production, a bit in industry). The requirement that the entropy of a closed system may never decrease sets a hard limit on how much efficiency one might physically achieve in any heat engine. The maximum theoretical efficiency, in percent, is given by 100×(*T_(h)−T_(c)*)/*T_(h)*, where *T_(h)* and *T_(c)* denote absolute temperatures (in Kelvin) of the hot part of the heat engine and the “cold” environment, respectively. Engineering limitations prevent realization of the theoretical maximum. But in any case, a heat engine operating between 1500 K (hot for a power plant) and room temperature could at most achieve 80% efficiency. So a factor of two improvement is probably impractical in this dominant domain.
 
@@ -53,17 +53,17 @@ The efficiency of gasoline-powered cars can not easily improve by any large fact
 
 As mentioned above, a broad swath of common devices already operate at close to perfect efficiency. Electrical devices in particular can be quite impressively frugal with energy. That which isn’t used constructively appears as waste heat, which is one way to quickly assess efficiency for devices that do not have heat generation as a goal: power plants are hot; car engines are hot; incandescent lights are hot. On the flip side, hydroelectric plants stay cool, LED lights are cool, and a car battery being charged stays cool.
 
-### Summing it Up
+#### Summing it Up
 
 Given that two-thirds of our energy resource is burned in heat engines, and that these cannot improve much more than a factor of two, more significant gains elsewhere are diminished in value. For instance, replacing the 10% of our energy budget spent on direct heat (e.g., in furnaces and hot water heaters) with heat pumps operating at their maximum theoretical efficiency effectively replaces a 10% expenditure with a 1% expenditure. A factor of ten sounds like a fantastic improvement, but the overall efficiency improvement in society is only 9%. Likewise with light bulb replacement: large gains in a small sector. We should still pursue these efficiency improvements with vigor, but we should not expect this gift to provide a form of unlimited growth.
 
 On balance, the most we might expect to achieve is a factor of two net efficiency increase before theoretical limits and engineering realities clamp down. At the present 1% overall rate, this means we might expect to run out of gain this century. Some might quibble about whether the factor of two is too pessimistic, and might prefer a factor of 3 or even 4 efficiency gain. Such modifications may change the timescale of saturation, but not the ultimate result.
 
-## Faith in Technology
+### Faith in Technology
 
 We have developed an unshakable faith in technology to address our problems. Its track record is most impressive. I myself can sit at my dining room table in California and direct a laser in New Mexico to launch pulses at the astronaut-placed reflectors on the moon and measure the distance to one millimeter. I built much of the system, so I am no stranger to technology, and embrace the possibilities it offers. And we’ve *seen* the future in our movies—it’s almost palpably real.  But we have to be careful about faith, and periodically reexamine its validity or possible limits. Following are a few key examples.
 
-## What About Substitutions?
+### What About Substitutions?
 
 The previous discussion is rooted in the technologies of today: coal-fired power plants, for goodness sake! Any self-respecting analysis of the long term future should recognize the near-certainty that tomorrow’s solutions will look different than today’s. We may not even have a *name* yet for the energy source of the future!
 
@@ -72,18 +72,18 @@ First, I refer you to the [previous post](https://dothemath.ucsd.edu/2011/07/gal
 Second, you might wonder: can’t we consider solar, wind and other renewables to be more efficient than fossil fuel power, since the energy has free delivery? It’s true that unlike the business model for the printer (cheap printer, expensive ink cartridges that ruin you in the end), the substantial cost for renewables is in the initial investment, with little in the way of consumables. But fossil fuels—although a limited-time offer—are also a free gift of nature. We do have to put effort into retrieving them (delivery not free), although far less than the benefit they deliver. The important metric on the energy/efficiency front is energy return on energy invested (EROEI). Fossil fuels have enjoyed EROEI values typically in the range of 20:1 to 100:1, meaning that less than 5% of the eventual benefit must be invested up front.
 Solar and wind are less, at [10:1](http://www.theoildrum.com/node/3910 "EROEI of solar") and [18:1](http://www.theoildrum.com/node/1863 "EROEI of wind"), respectively. These technologies would avoid wasting a majority of the energy in heat engines, but the lower EROEI means it’s less of a freebee than the current juice. And yes, the 15% efficiency of many solar panels does mean that most of the remaining 85% goes to heating the dark panel.
 
-## What About Accomplishing the Same Tasks with Less?
+### What About Accomplishing the Same Tasks with Less?
 
 One route to coping with a fixed energy income is to invent new devices or techniques that accomplish the same tasks using less energy, rather than incrementally improve on the efficiency of current devices. This works marvelously in some areas (e.g., generational changes in computers, cell phones, shift to online banking/news).
 
 But some things are hard to shave down substantially. Global transportation means pushing through air or water over vast distances that will not shrink. Cooking means heating meal-sized portions of food and water. Heating a home against the winter cold involves a certain amount of thermal energy for a fixed-size home. A hot shower requires a certain amount of energy to heat a sufficient volume of water. Can all of these things be done more efficiently with better aero/hydrodynamics or traveling more slowly; foods requiring less heat to cook; insulation and heat pumps in homes; and taking showers using less water?
 Absolutely. Can this go on forever to maintain growth? No. As long as these physically-bounded activities comprise a finite portion of our portfolio, no amount of gadget refinement will allow indefinite economic growth. If it did, eventually economic activity would be wholly dominated by us “servicing” each other, and not the physical “stuff.”
 
-## What About Paying More to Use Less?
+### What About Paying More to Use Less?
 
 Owners of solar panels or Prius cars have elected to plunk down a significant amount of money to consume fewer resources. Sometimes these decisions are based on more than straight dollars and cents calculations, in that the payback can be very long term and may not be competitive against opportunity cost. Could social conscientiousness become fashionable enough to drive overall economic growth? I suppose it’s *possible*, but generally most people are only interested in this when the cost of energy is high to start with. Below, we’ll see that if the economy continues its growth trend after energy use flattens, the cost of energy becomes negligibly small—deflating the incentive to pay more for less.
 
-## The Unphysical Economy
+### The Unphysical Economy
 
 In a future world where energy growth has ceased, and efficiency has been squeezed to a practical limit, can we still expect to grow our economy through innovation, technology, and services? One way to approach the problem is to demand that we maintain 5% economic growth over the long term, and see what fraction of economic activity has to come from the non-energy-demanding sector. Of course all economic activity requires *some* energy, so by “non-energy” or “unphysical,” I mean those activities that require minimal energy inputs and approach the economist’s dream of “decoupling.”
 
@@ -101,7 +101,7 @@ Another way to put it is that since we all must eat, and a certain, finite fract
 
 I’m not claiming that certain industries will not grow: there will *always* be growth in some sector. But *net* growth will be constrained. Winners will not outpace the losers. Nor am I claiming that some economic activities cannot exist virtually independent of energy. We can point to plenty of examples of this today. But these things can’t grow to 90%, then 99%, then 99.9%, etc. of the total economic activity—as would be mandated if economic growth is to continue apace.
 
-## Where Does this Leave Us?
+### Where Does this Leave Us?
 
 Together with the [last post](https://dothemath.ucsd.edu/2011/07/galactic-scale-energy/ "Galactic-Scale Energy"), I have used physical analysis to argue that sustained economic growth in the long term is fantastical. Maybe for some, this is stating the obvious. After all, Adam Smith imagined a 200-year phase of economic growth followed by a steady state. But our mentality is currently centered on growth. Our economic systems rely on growth for investment, loans, and interest to make any sense. If we don’t deliberately put ourselves onto a steady state trajectory, we risk a complete and unchoreographed collapse of our economic institutions.
 

@@ -11,13 +11,13 @@ Basking in the Sun
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2012/01/Hippos_relaxing_at_Dublin_Zoo._-_geograph.org_.uk_-_1220668-150x150.jpg "Hippos_relaxing_at_Dublin_Zoo._-_geograph.org.uk_-_1220668")](https://dothemath.ucsd.edu/wp-content/uploads/2012/01/Hippos_relaxing_at_Dublin_Zoo._-_geograph.org_.uk_-_1220668.jpg)Who *hasn’t* enjoyed heat from the sun? Doing so represents a direct energetic transfer—via radiation—from the sun’s hot surface to your skin. One square meter can catch about 1000W, which is comparable to the output of a portable space heater. A dark surface can capture the energy at nearly 100% efficiency, beating (heating?) the pants off of solar photovoltaic (PV) capture efficiency, for instance. We have already seen that solar PV qualifies as a super-abundant resource, requiring panels covering only about 0.5% of land to meet our entire energy demand (still huge, granted). So direct thermal energy from the sun, gathered more efficiently than what PV can do, is automatically in the abundant club. Let’s evaluate some of the practical issues surrounding solar thermal: either for home heating or for the production of electricity.
 
-## Heat as Something Useful
+### Heat as Something Useful
 
 In physics classes, I often catch myself repeating the mantra that **heat** is a *disordered*, *useless* state of energy that is generically the endpoint of an energy flow process. For example, the energy allocated to the fast-spinning wheel of an upside-down bicycle will slowly drain away as the wheel stirs the air, makes sound, and suffers friction at the bearing. Every one of these energy paths results in heat, until 100% of the invested energy is dissipated and the room is a tad warmer as a result. We will never reassemble the lost energy into useful form, once entropy has claimed it. All of this is true enough, but I feel very awkward uttering the words that heat is the graveyard of energy flow, and must place an asterisk on the statement.
 
 The asterisk is that the *overwhelming majority* of our societal energy consumption makes use of heat—over 90% in the U.S.! So heat does not deserve the bad rap as a worthless waste product. Rather, *heat runs our world*! Sometimes we just want the heat directly, via: natural gas for furnaces, hot water, and cooking; heating oil for the home; and gas and coal for industrial process heat. This accounts for 20% of our total energy demand, leaving about two-thirds of our total energy consumption in the form of heat that powers heat engines for electricity production, transportation, and machinery. In short, all the energy we get from fossil fuels, nuclear, and biomass derives from heat. That’s hardly useless!
 
-## Radiant Heat
+### Radiant Heat
 
 The Sun transmits its energy to Earth across the emptiness of space via radiation. Each square meter of surface at a temperature, *T*, emits radiation at a rate of *σT*⁴, where *T* is expressed in Kelvin (important!) and *σ*=5.67×10⁻⁸W/m²/K⁴. This constant is easy to remember via the sequence 5-6-7-8. Ignoring for now the subtleties of greenhouse gases, the surface of Earth—typically at 288K—emits 390W/m². The Sun, on the other hand, at 5800K, emits 64MW per square meter!
 
@@ -25,7 +25,7 @@ Summing over the area of the spherical Sun, at 109 times the radius of Earth, we
 
 We can also turn the *σT*⁴ relation on its head and say that a patch of full sun (at the ground) receiving 1000W/m² corresponds to a radiant temperature of 364K, or a blistering 91°C. This means that a black panel in full sun could get this hot if no paths other than radiation were available for cooling the panel. We would then say that the panel is in radiative equilibrium with the Sun. But air can carry away heat by convection. The self-convection of a hot, flat plate will be about 10W/m² per degree of difference between the panel and the surrounding air. Requiring the sum of radiative and convective losses to add up to the input power of 1000W/m² yields a solution of about 55°C (328K; 131°F) if the surrounding air is at 20°C. This assumes that the plate has no heat paths available through the (insulated) back side. If, on the other hand, it is a thin panel allowing convection on both sides, it will be cooler—although the “heat rises” phenomenon will suppress heat flow on the back side relative to the front, if the plate is indeed level. Just for fun, if we get an additional 5W/m²/K of convective loss off the back, the equilibrium temperature drops to 47°C (117°F). It all seems reasonable.
 
-## Passive Solar: Putting Heat to Use
+### Passive Solar: Putting Heat to Use
 
 The simplest way to replace fossil fuel energy with solar energy is called a *window*. A single uncoated piece of glass will transmit 92% of visible light (the rest reflected) when light comes straight in (down to 75% at a 20° grazing incidence, 60% at 10° grazing). The glass is opaque to ultraviolet light and mid- to far-infrared (IR) light, but lets over 95% of the unreflected incident solar spectrum pass.
 
@@ -37,7 +37,7 @@ Fraction of incident direct energy (perpendicular to rays) making it through a v
 
 So it is not a stretch to admit energy in excess of 500W/m² into your home in winter sun. You can stack up the equivalent of a dozen or so space heaters pretty quickly.
 
-### Drab Winter?
+#### Drab Winter?
 
 Sounds great, but winters are not always the sunniest of times. However, it’s not as bad as you might fear. Every photon of visible light that makes it through your window—even if coming from a drab gray cloud—deposits the same amount of heat no mater how convoluted its path from the Sun. Indeed, a measurement campaign in my home has revealed that the attic gets surprisingly warmer (10°C, or 18°F) than the ambient air even on a day of heavy clouds when my solar PV system only caught one-quarter of the usual amount of light. So we can use the [NREL database](http://rredc.nrel.gov/solar/pubs/redbook/ "NREL redbook") for a flat plate collector (in this case, a window) oriented south at a 90° tilt to represent the amount of energy a window would grab. The following table indicates the equivalent number of full-sun hours per day during the heating months for Seattle, WA (on the poor end), St. Louis MO (a representative U.S. average solar city), and San Diego (my home).
 
@@ -53,7 +53,7 @@ It is also often advantageous to have several days’ worth of thermal storage i
 
 Of course a number of engineering challenges surround clever passive solar thermal design, and I should pull away before the post gets bogged down (too late, you say?). Perhaps I will return to the topic later. For now, it is worth understanding that the amount of solar radiation incident on a house can be sufficient to provide heating even in unfavorable climates. I should add one caveat: that passive heating may be sufficient 90% of the time, requiring either backup heat or—preferably—flexibility in dealing with a colder house the other 10% of the time.
 
-## Hot Water
+### Hot Water
 
 Using the sun to heat water is a very similar concept. We saw that a flat black plate in the sun can get pretty toasty. In practice, flat panel collectors can hang onto about 60% of the incident solar energy, transferring this to the water. Heat paths via radiation through the glass on the front, convection of air within the panel, and conduction through the back and mounting frame all contribute to loss. For radiative loss, radiation from the black panel is intercepted by the glass (thermal IR is not transmitted by glass), warming it up. This can then radiate both skyward and back to the absorber. A second piece of glass (double-pane) can cut down radiation losses, by returning approximately half of what would otherwise have been lost off the front panel. Some fancy units evacuate air to minimize convective loss, and the backs can be insulated to reduce loss. Given all these thermal leaks, holding on to 60% of the incident energy is pretty impressive.
 
@@ -67,7 +67,7 @@ Let’s assume your household requires 300liters of hot water each day—the equ
 
 Two panels on roof provide hot water.
 
-## Solar Thermal Electricity
+### Solar Thermal Electricity
 
 The relatively low temperatures achieved by flat panels in the sun do not encourage exploitation in the form of heat engines for making electricity. But we can fix this through the simple act of **concentration**. No—not simply thinking really hard about it. Much like a magnifying glass can be used to burn paper, any piling-up of solar flux can elevate the temperature. I have personally melted pennies, boiled water, and turned sand into glass with a large hand-held Fresnel lens. Even a bunch of flat mirrors directing sunlight onto a common spot can create formidably high temperatures.
 
@@ -81,7 +81,7 @@ Another downside of concentration is that it requires real direct sunlight to wo
 
 The table above gives average daily yields (kWh/m²/day, or equivalent hours at 1000W/m²) for three types of solar collection in four locations, each entry giving worst-month/**yearly-average**/best-month values. The first is for a flat plate tilted to the site latitude (appropriate for PV or hot water), followed by 1-axis concentration tilting along a N-S axis, and finally a 2-axis concentration configuration. Solar thermal makes the most sense in areas where more energy will be collected than with PV panels—but this is not a rigorous criterion, since solar thermal offers some advantages over PV, as we’ll discuss in a bit. In the table above, only Dagget, California—in the Mojave desert— has concentration beating flat-panel PV for total energy. Other desert cities in the Southwestern U.S. likewise are favorable toward solar thermal electricity. But it’s definitely a location-dependent technology.
 
-## Solar Thermal Schemes
+### Solar Thermal Schemes
 
 Schemes abound: 1) power towers where an array of individually-steered flat mirrors are angled to put sunlight at the top of a tower in the middle of the array; 2) satellite-dish-looking segmented bowls with a heat engine at the focus; 3) parabolic trough arrays with a hot-oil-carrying pipe running down the focus; 4) and others topologies, I am sure.
 
@@ -99,11 +99,11 @@ Parabolic troughs are pretty neat, I think, for a variety of reasons. First, the
 
 Evaluating a realized example, the [Nevada Solar One](http://en.wikipedia.org/wiki/Nevada_Solar_One "Wikipedia") plant has a 64MW nominal capacity, generating 134 million kilowatt-hours of energy per year. Dividing these two implies about 2100 hours of full-power operation per year, for a duty cycle of 24%, or 5.7 hours per day. The NREL database for Las Vegas expects a north-south single-axis tracker to get an average of 6.2 hours per day horizon-to-horizon. So not too far off. The plant cost \$266 million to build, amounting to \$4.15 per Watt. Pretty similar to installed solar PV. The plant occupies about 1.6km² of land, computing to 40W/m² at nominal full power. This is 4% of the incident 1000W/m² (at the height of summer), which is pretty close to what we would guess for a 15% efficient collector occupying 25% of the land area. I love it when the numbers make sense!
 
-### A Storage Boon
+#### A Storage Boon
 
 One serious perk to solar thermal—not yet exploited as fully as it might be—is thermal storage. Make hay when the sun shines, and squirrel it away for overnight use. All solar thermal plants have short-term immunity from intermittency due simply to the thermal mass in the system. Solar thermal plants are designed with varying degrees of storage, many just aiming for several hours to better follow the peak demand curve into the evening. But as renewables gain dominance over fossil fuels (as I’m hoping they do), storage will become increasingly important. To my mind, the ratio of storage to collection is pretty straightforward to change (i.e., bigger vat of hot fluid), so that in principle solar thermal plants could achieve days of storage with little added complexity. We can’t say this about PV or wind. And storage efficiency for a large container grows linearly with the tank’s dimension, since it the energy contained scales like volume, while thermal loss paths tend to scale with area.
 
-## One of the Winners
+### One of the Winners
 
 We looked at three categories of using heat from the Sun: passive home heating, hot water, and solar thermal electricity. Virtually anything involving direct use of solar energy—as opposed to hydroelectric, wind, waves, etc. as secondary and tertiary derivatives of solar input—is bound to end up on the **abundant** side of the story. And so it is with these three, although perhaps given that the first two are confined to the meager area represented by rooftops and/or windows—rather than the entire land area—they should more fairly be stashed in the “potent” box.
 

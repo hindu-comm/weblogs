@@ -13,13 +13,13 @@ Heat Pumps Work Miracles
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2012/06/heat-pump-150x150.png "heat-pump")](https://dothemath.ucsd.edu/wp-content/uploads/2012/06/heat-pump.png)Part of the argument that we cannot expect growth to continue indefinitely is that efficiency gains are capped. Many of our energy applications are within a factor of two of theoretical efficiency limits, so we can’t squeeze too much more out of this orange. After all, nothing can be more than 100% efficient, can it? Well, it turns out there is *one* domain in which we can gleefully break these bonds and achieve far better than 100% efficiency: heat pumps (includes refrigerators). Even though it sounds like magic, we still must operate within physical limits, naturally. In this post, I explain how this is possible, and develop the thermodynamic limit to heat engines and heat pumps. It’s a story of entropy.
 
-## Entropy, Quantified
+### Entropy, Quantified
 
 Whole books can be written about the gnarly properties of entropy. Put simply, entropy is a measure of disorder. Strictly speaking, entropy is all about counting the number of quantum-mechanical states that can be occupied at a certain system energy. In this sense, the total entropy of a system is *S=k_(B)*ln(*Ω*), where *Ω* is the number of states available (a rather large number), ln(x) is the natural log function, and *k_(B)* is the Boltzmann constant, having a value of 1.38×10⁻²³J/K (Joules per Kelvin) in SI units.
 
 Okay, that’s deep and cool, but let’s not bog ourselves down counting states. The main purpose of the previous paragraph is to indicate that entropy has a fundamental prescription, and that it carries *actual units*. Mostly entropy is discussed in a hand-wavy way, but it *can* be pinned down.
 
-## Change Heat: Change Entropy
+### Change Heat: Change Entropy
 
 More relevant to *our* discussion is the thermodynamic result that if we add/subtract thermal energy (heat) to/from a thermal “bath” (large reservoir of thermal energy, like outside air, a body of water, rock) at a temperature *T*—measured on an absolute scale like Kelvin—the entropy changes according to:
 
@@ -32,7 +32,7 @@ Wait a minute! Did I just allow for the condition that entropy could decrease? I
 Almost right. The entropy of a *closed system* cannot decrease. But it can easily decrease locally at the expense of an increase elsewhere. You can re-stack books on the shelves after an earthquake, restoring order.
 But via exertion, you transfer heat to the ambient air in the process—increasing its entropy.
 
-## Moving Heat
+### Moving Heat
 
 A **heat pump**, rather than *creating* heat, simply **moves heat**. It may move thermal energy from cooler outdoor air into the warmer inside, or from the cooler refrigerator interior into the ambient air. It pushes heat in a direction counter to its normal flow (cold to hot, rather then hot to cold). Thus the word *pump*.
 
@@ -50,11 +50,11 @@ A little algebra with the relations above (the steps are shown in the following 
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2012/06/entropy-eff-300x255.png "entropy-eff")](https://dothemath.ucsd.edu/wp-content/uploads/2012/06/entropy-eff.png)If, instead, you want to cool something down (refrigeration, A/C), the figure of merit is how much heat is removed from the cold zone divided by the input work: *ε*=−*ΔQ*_(c)/*ΔW*. In this case, the maximum efficiency works out to *ε\<T*_(c)/*ΔT*.
 
-### Heat Engines
+#### Heat Engines
 
 As an aside, if we turn the heat flow around, so that *ΔQ*_(h) flows naturally *out* of the hot source (*ΔQ*_(h) is negative in this case) and a lesser *ΔQ*_(c) flows *into* the cold source (positive), the same entropy considerations lead us to derive a maximum amount of work that is extractable from the heat flow, and the efficiency, *ε=ΔW/ΔQ*_(h) works out to be no better than *ΔT/T*_(h). (The bolder among you may want to take up the algebraic challenge.) This is the familiar thermodynamic limit for the amount of work obtainable from a **heat engine**, like a car’s engine, a coal-fired power plant, or even a nuclear plant. The reason we hit a maximum efficiency is really all about not violating the second law of thermodynamics: that the total entropy of a system may never decrease.
 
-## Extreme Efficiency
+### Extreme Efficiency
 
 The remarkable thing about the heat pump efficiencies we derived above is that *ΔT* is *in the denominator*! Since *T* is absolute temperature (Kelvin), typical situations will have *T*≈300K, and *ΔT* often a few tens of Kelvin—leading to efficiencies around **10×**, or 1000%!! *How can this possibly be true?* It seems like a total cheat on nature.
 
@@ -62,7 +62,7 @@ The key is that unlike an electric coil or a flame, the heat pump does not *crea
 
 One aspect of heat pump efficiency worthy of note is that the theoretical limit gets better as *ΔT* gets smaller. So a refrigerator in a hot garage will not only have to work harder to maintain a larger *ΔT*, but it becomes *less efficient* at the same time, compounding the problem. Likewise, heat pumps operate more efficiently in mild-winter climates than in extreme arctic zones. For instance, the theoretical efficiency of a heat pump operating between 293K indoors (20°C, or 68°F) and freezing outside is 293/20=14.7, while a frigid −20°C (−4°F) would only allow a theoretical efficiency of 7—half as good.
 
-## COP and EER
+### COP and EER
 
 If shopping for heat pumps, one should look for the specification called the Coefficient of Performance, or COP, which is essentially the same *ε*=*ΔQ*_(h)/*ΔW* metric from before. Realized values are typically around 3–4. This is a factor of several below the theoretical limit, as is so often the case. But still, it’s **rather impressive** to me that I can add 4J of heat energy into my home while expending only 1J to make it happen (apply any energy unit you wish: kWh, Btu, etc. and get the same 4:1 ratio for a COP=4).
 
@@ -70,7 +70,7 @@ But before we get carried away, let’s say your electricity comes from natural 
 
 For cooling applications, one may also see a COP reported. But in the U.S., the efficiency metric is often the Energy Efficiency ratio, or EER The EER. is a freak of nature, and I hope it asphyxiates on its own stupidity. It is the rate of heat extraction, in Btu/hr, divided by the electrical power supplied, in Watts. Geez—Btu/hr is already a power: 1Btu/hr is 1055J in 3600s, or 0.293J/s=0.293W. Why complicate things?! So multiply EER by 0.293 to get an apples-to-apples comparison, arriving at a COP for cooling that corresponds to our measure from before: *ε*=−*ΔQ*_(c)/*ΔW*. Air conditioners getting EER values above about 11 qualify as Energy Star, corresponding to a COP above about 3.
 
-## My Fridge Performance
+### My Fridge Performance
 
 I had a thought that I could test the \> 100% efficiency delivered by a heat pump by watching my fridge go through a defrost cycle. The idea is that a bunch of heat is dumped into the coils periodically to melt accumulated ice. I noticed that the first cooling cycle after the defrost is always longer, as the deposited heat must be removed.
 
@@ -88,11 +88,11 @@ Impossibly high, methinks. One problem is that the defrost cycle puts energy int
 
 In retrospect, the defrost cycle is not the best way to experimentally determine the COP—despite the fact that the “experiment” runs all the time without my having to lift a finger.
 
-## A More deliberate Experiment
+### A More deliberate Experiment
 
 Taking matters into my own hands, I rigged an incandescent light bulb operating on a timer and stuffed in the fridge (in a clip-light fixture). I set the timer to pop the light on from 3AM to 4AM, figuring the fridge would be perfectly quiescent (no door openings, etc. during that time). A couple of long, tapered pieces of wood provided a channel for the cord without compromising the door seal. I shifted the fridge over to utility for the night so TED would catch the action. It took three times to get a good result. “When are you going to take that light out of the fridge?!”
 
-### Take One
+#### Take One
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2012/06/fridge-pic1.jpg "fridge-pic1")](https://dothemath.ucsd.edu/wp-content/uploads/2012/06/fridge-pic1.jpg)
 
@@ -102,7 +102,7 @@ I placed the light high in the refrigerator, and shone the light onto aluminum f
 
 I presume the bulb was near enough to the thermostat as to elevate the local temperature and fool the refrigerator into staying on the full time. Bet the ice cream got rock hard…
 
-### Take Two
+#### Take Two
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2012/06/fridge-pic2.jpg "fridge-pic2")](https://dothemath.ucsd.edu/wp-content/uploads/2012/06/fridge-pic2.jpg)
 
@@ -110,7 +110,7 @@ This time, the light is lower in the fridge.
 
 I moved the light to a lower portion of the refrigerator, hopefully well-enough baffled that the thermostat would not be impacted. This time, I was foiled by a sleepless wife, who turned on and off all manner of electrical devices during the course of the experiment. The refrigerator itself was not disturbed, and if pressed, I could still identify cooling cycles and extract useful data. Just like in astronomy, crummy nights produce crummy data, and you have to work much harder to get marginally useful results. Better to wait for a clear night, if you can. I could at least see that the fridge *cycled* this time during the light-on phase.
 
-### Take Three
+#### Take Three
 
 Fool me once, shame on you. Fool me twice, shame on me. Since the saying has no “thrice” aspect, I felt I had no choice but to make it work. Actually, I did nothing different (no straps to confine wife to bed—patience was already wearing thin on the interminable experiment in the refrigerator). But fortunately, a quiet night resulted in a clean dataset.
 
@@ -122,13 +122,13 @@ The bulb turned out to expend energy at a rate of 52W. Subtracting a baseload of
 
 Hmmm. Not in the ballpark of 3. It’s bigger than 1, at least—indicating *some* degree of heat-pump magic. But I am disappointed in the result.
 
-### Reflections on the Experiments
+#### Reflections on the Experiments
 
 My mode of testing certainly deviated from the intended operation of refrigerators. A concentrated pulse of constant heat is not *quite* the same as putting warm food into the refrigerator. It may also be that the freezer achieves a COP around 3 while the refrigerator volume does not. I would be curious to know how the COP is actually measured. Do we realize similar values in daily operation? After all, the light bulb test fell short. If I average the ice-melt-corrected defrost value and the light bulb value, I get a COP around 3, but I have no solid justification for performing this average.
 
 Alternative tests may include placing a known thermal mass into the refrigerator and seeing how much energy is required to bring it to temperature. Door access is a problem, though.
 
-## Close the Door!
+### Close the Door!
 
 While I’m on the subject of refrigerators, how about a quick detour to assess how problematic it is to stand with the door open, or to repeatedly and inefficiently access items within. Should I be irked?
 
@@ -142,7 +142,7 @@ So depending on how moist the air is, we may drop anywhere from 12–35 kJ. Our 
 
 Another consideration is that each door opening may trip the thermostat before it ordinarily would have been. In doing so, the cooling “schedule” advances forward, and could result in more “on” activity than would otherwise occur.
 
-## Parting Perspective
+### Parting Perspective
 
 Heat pumps are really cool, and seem to violate our sense that 100% is the best efficiency we can ever get. Cooling applications have little choice but to use heat pumps, as cooling inevitably involves getting rid of (moving; pumping) thermal energy. Heating applications can see a factor of three or more increase in efficiency over direct heating.
 Increasingly, the stable thermal mass of the ground is used as the “bath”—often erroneously referred to as geothermal.

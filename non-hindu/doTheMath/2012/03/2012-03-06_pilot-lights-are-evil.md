@@ -15,7 +15,7 @@ familyhandyman.com
 
 My personal journey into home energy reduction began with taking stock of past energy use as reported on my utility bills. I quickly migrated toward reading the meters *directly* to gauge the impact of particular activities. What I learned from our gas meter shocked me, and ultimately led to our single-biggest energy-saving behavioral shift. I’ve already ruined any hope of suspense in the title of the post, but just how bad does something have to be before I’ll resort to a word like “evil?” And how bad are your own demons? Ah—now you can’t wait to find out!
 
-## Gas Gauges and Units
+### Gas Gauges and Units
 
 We must first confront the asinine measurement and units scheme of the natural gas delivery system. At least it’s asinine in the U.S. For one thing, the billing units are [Therms](http//physics.ucsd.edu/do-the-math/useful-energy-relations/#therm "Do the Math: Therm"). One Therm is 100,000Btu, or 1.055×10⁸J, equating to 29.3kWh. My main beef with the Therm is that the way my utility bill is formatted, my gas usage in Therms is printed within a few millimeters of my electricity usage in kWh. Since one may be directly converted to the other (both are units of energy), **why not use kWh for both!?** Not only is the [kilowatt-hour](http//physics.ucsd.edu/do-the-math/useful-energy-relations/#kilowatt-hour "Do the Math: kWh") already in common use in the U.S., it’s a metric measure shared by the rest of the world.
 
@@ -25,7 +25,7 @@ The second misfortune about our measurement scheme is that we locked into cubic 
 
 The third annoyance with the metering scheme is that the analog meters I have experienced have dials for which a full turn represents 0.5cf, 2.0cf, 1000cf, 10,000cf, and so on. Did you notice the gap? That gap makes it very difficult to do meaningful monitoring of home usage—which may be partly deliberate, I sometimes think. But we’ll push on and discuss how to use the meter for measuring pilot lights and their implications.
 
-## Measuring the Slow Burn
+### Measuring the Slow Burn
 
 Below are two photos of my gas meter, taken exactly an hour apart, when no activities in the house demanded gas (water heater idle; no cooking; no home heating).
 
@@ -37,7 +37,7 @@ The following table may help to navigate the various conversions involved in int
 
 |                |           |               |          | |----------------|-----------|---------------|----------| | On Dial        | Therms    | Btu           | Metric   | | 1 turn of ½ cf | 0.0051    | 510           | 0.15 kWh | | 1 turn of 2 cf | 0.0204    | 2040          | 0.60 kWh | | 1 cf/hr        | 7.5 Th/mo | 1020 Btu/hr   | 299 W    | | 184 sec/½cf    | 0.1 Th/hr | 10,000 Btu/hr | 2930 W   |
 
-## My First Encounter
+### My First Encounter
 
 In the spring of 2007, when I first gazed at the gas gauges, I was renting a condominium that used gas for only two things: hot water, and home heating. During a day when neither service was being utilized, I observed the 2cf dial to be making 0.72 turns per hour, or 1.44cf/hr. That adds up to 1050 cf/month, or 10.7 Therms per month (equivalent to 314kWh/mo). At the time, I paid \$1.30 per Therm, amounting to \$14/month or about \$170/yr **just to run two pilot lights**. That’s a lot of burritos, folks.
 
@@ -47,7 +47,7 @@ Having uncovered this ugly truth, I promptly shut off the furnace pilot light, s
 
 Pleased with our summer savings, we decided to hold off on re-lighting the pilot light the next fall until we simply could no longer tolerate the cold in the condo. That day never came. So discovering just how wasteful the furnace pilot light was unlocked a path to energy reduction on a large scale. How we cope without heat (in San Diego, granted) is a story for another time.
 
-## Over-eager Pilot Light
+### Over-eager Pilot Light
 
 In my current house, as indicated in the photos and associated numbers above, the hot water heater’s pilot light consumes about 0.44 cf/hr, or 3.3 Therm/mo. This is pretty comparable to the old condo’s hot water heater, so is probably pretty typical.
 
@@ -63,7 +63,7 @@ My wife and I are pretty sparing in our use of hot water: an average of five min
 
 From above, we see that my pilot light uses natural gas energy at a rate of 130W. Over one day, this comes to about 11 MJ of energy. So we can easily accommodate our modest 5MJ demand for hot water based on the steady expenditure from the pilot light. Of course there are losses due to heat escaping through the not-perfectly-insulated walls of the hot water tank and other paths. But we can use this investigation to conclude that such losses do not much exceed something like 50% given the 5 vs. 11 MJ matchup.
 
-## The Rub
+### The Rub
 
 So that’s kind-of cool that our hot water demand is below the level provided by the pilot light during summer. On the flip side, we **lose regulation** of the hot water temperature.
 
@@ -73,11 +73,11 @@ So I would prefer a water heater with no pilot light (using electronic ignition 
 
 Of course other considerations keep me from rushing out to get a replacement water heater (embodied energy and expense to consider). Ideally, I’d like to move in the direction of solar hot water with natural gas backup. I am tempted to build the system myself—because it’s low-tech enough that I probably *can*, it would be cheaper to do it on my own, and I would learn *a lot* from the process.
 
-## Beyond Pilot Lights
+### Beyond Pilot Lights
 
 Another profitable activity is to monitor the dials when a gas-consumer is on: furnace, hot water, stove, oven, etc. Not only can you confirm or discover the usage rate (often visible on a label in Btu/hr, for instance), but once calibrated you can use simple timing to tally gas usage. For example, if you know that it takes 20 seconds for the ½cf dial to make a full turn when the furnace is on, and the furnace tends to stay on for 15 minutes at a time, then you know that each furnace cycle consumes 0.23Therms, or about 7kWh of energy.
 
-## What’s on Your Meter
+### What’s on Your Meter
 
 I encourage you to check out your natural gas meter to learn how quickly you burn through gas 24/7 during quiescent times. I was truly surprised by what I found, and the behavioral changes fostered by this knowledge have had a tremendous impact on out home’s natural gas resource footprint.
 

@@ -15,7 +15,7 @@ Flex-Fuel Humans
 
 An earlier post on [how many miles per gallon a human gets](https://dothemath.ucsd.edu/2011/11/mpg-of-a-human/ "Do the Math: MPG of a Human") while walking or biking touched on the fact that fossil fuels undergird our food supply. As a result, walking to the grocery store effectively uses as much fossil fuel as would a typical sedan. The lesson is *not* to walk less, but to change that 10:1 ratio for the better by eating more smartly. Once upon a time, we put less than one kilocalorie of energy into food production per kilocalorie obtained (or else we and our draft animals would have starved to death). So the 10:1 ratio is not at all inescapable, and depends strongly on the foods we choose to eat.
 
-## My Flex Transition
+### My Flex Transition
 
 Several years back, I engaged in a broad spectrum of energy reduction strategies. I had learned enough to know that our energy future was not likely to follow an ever-growing trajectory. The back-side of the fossil fuel age could bring with it challenges unimagined by our many-generation boom society. Technology can play an important role over the long term. But tech solutions generally do not hold a candle to voluntary reduction when it comes to having enormous short-term impacts. I was curious to know how life would be if I reduced energy use by something like a factor-of-two across-the-board. As a result, I not only have the personal satisfaction of knowing that it can be done without drastic changes in lifestyle, but I am also much better-prepared to adapt to a world where energy reduction may not be as much a choice as an imposition foisted on us by failing supply.
 
@@ -29,15 +29,15 @@ Being semi-quantitative about it, although based on questionable numbers, I figu
 
 I have to admit that I have never been a big fan of vegetables themselves. But somehow I really like being a flexitarian. It feels like a responsible choice, and between pasta, bread, rice, beans, cereals, dairy products, and nuts, I do not spend my days feeling deprived of good things to eat. An alternate approach of moderation is to use meat as an accent, or garnish in a meal—constituting a very small portion of the caloric value.
 
-### An Aside About Protein
+#### An Aside About Protein
 
 Somewhere along the way, our culture developed something of a fixation on protein. It’s not as important to a healthy diet as many assume. In fact, read [*The China Study*](http://www.thechinastudy.com/ "The China Study: description") for a fascinating and compelling story recounting mountains of evidence to the contrary—especially exposing the deleterious effects of animal protein. It’s not hard to get plenty of protein from plant matter. You don’t really even have to be vigilant—rice and beans will do you well. Unless you’re a body builder or actively increasing muscle mass, maintaining your physique requires just 10% of your calories in protein form. Billions test the idea daily, without shriveling up from lack of protein.
 
-### Other Considerations
+#### Other Considerations
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2012/04/cafo-300x214.jpg "cafo")](https://dothemath.ucsd.edu/wp-content/uploads/2012/04/cafo.jpg)Energy is not the only component to the story, even though it’s the one I focus on here. Livestock practices in the U.S. have become ever-more industrialized, packing animals into giant feedlots, raising chickens too top-heavy to walk properly, and feeding grains to naturally grass-eating cows resulting in chronic stomach pain. Genetic engineering, waste pools, rampant antibiotics, heavy water use, and wholly unnatural lives of animals all make the modern meat industry a twisted enterprise. Although it’s not a primary motivation for me, I am relieved to bear less personal responsibility for this mode of feeding ourselves.
 
-## Digging Deeper: Energetics of Food Choices
+### Digging Deeper: Energetics of Food Choices
 
 Eventually, I felt I should learn more about the impacts my choices were having. Was I fooling myself? Was I making poor choices based on erroneous information? How reliable were these 8×, 5×, etc. factors? I was pretty sure that my diet was at least going in the *right direction* with regard to energy, but should I fine-tune it based on more solid analysis?
 
@@ -61,7 +61,7 @@ Meanwhile, the typical American diet has a weighted energy expenditure of 0.72/2
 
 So from a pure production point of view, the vegan uses *one-sixth* the energy resources that the typical American does to grow/raise food. What about someone like me who has not given up dairy/eggs? I’m not replacing all of the normal 28% animal product with dairy/eggs: I make up a good deal of the difference via grains, etc. Let’s say that I am 15% dairy and 2% eggs, just for the sake of getting some numbers down. My math looks like 0.83/2.0 (plant) + 0.15/0.206 (dairy) + 0.02/0.112 (eggs) for a production energy requirement of **1.3 times** the fossil fuel input. So I’m not below the magic 1:1, but more than a factor of two less than the typical diet. I would drop to 1.15× if giving up eggs, or all the way to 0.5× if I dropped all animal products.
 
-## The Rest of the Energy
+### The Rest of the Energy
 
 There is more to the food energy story than production and processing alone. We also have transportation (actually not that large), packaging, refrigeration, retail operations, and preparation. If the average American diet uses a production energy input that is 3.3 times the metabolic energy output of the food, and total energy inputs amount to ten times the metabolic energy, then production/processing accounts for *one-third* of the total expenditure. We’ll call the non-production aspects “*overhead*,” and assess this at 6.7 times the metabolic energy, so that the average American diet—consuming 3.3 times the metabolic energy for production—adds to the familiar 10× total.
 
@@ -71,7 +71,7 @@ But this is likely not true. Vegan-friendly foods, for example, tend to require 
 
 The sort of diet I’m on (allowing eggs and dairy) will likely fall in between vegan and average American on the energy overhead front. If my diet requires 75% of the overhead that a typical diet would, then I’m at 1.3× for production, plus 5× for overhead. In this case, my diet choices result in 63% of the energy that the average American consumes. Given that I tend to waste little food, perhaps I am operating below 60% on the energy scale. I am less sure of the food being wasted on my account before it ever makes it to my hands: otherwise I would claim a bigger share of savings in this sector—after all, using 2100 out of every 3774 kcal corresponds to a 44% waste.
 
-## The Net Effect & Perspective
+### The Net Effect & Perspective
 
 Put in more familiar terms, we saw before that the food enterprise in the U.S. consumes 27kWh/day per person—turning into about 75kWh per household. Compare this to American household average daily consumption of 30kWh of electricity (typically demanding ~90kWh of thermal energy in power plants), 37kWh of natural gas consumption, and 2.9 gallons of gasoline amounting to 105kWh. Dietary choices can obviously have a sizable effect on our total energy budget.
 
@@ -81,7 +81,7 @@ In other [Do the Math posts](https://dothemath.ucsd.edu/category/personal-energy
 
 Operating at about 60% of the typical food-energy allocation isn’t *quite* the factor-of two cut that I typically like to achieve, but it’s still pretty significant (and *may* in fact reach 50% given the large uncertainties in my crude calculation). I could go the vegan route and be more assured of making a factor-of-two difference, but this feels too restrictive given prevalent choices in today’s society. Plus, I have the unfortunate pleasure of being essentially a vegetarian who doesn’t actually *like* vegetables very much. It’s not as dire as it sounds: bread, beans, rice, pasta, polenta, etc. form the foundation of my diet, and I don’t struggle through life yearning for better.
 
-## Flexitarian Reflections
+### Flexitarian Reflections
 
 I try to strike a balance: mindfulness without rigidity; disciplined minus judgment; sacrifice without dismal deprivation; flexibility without wanton rationalization.
 

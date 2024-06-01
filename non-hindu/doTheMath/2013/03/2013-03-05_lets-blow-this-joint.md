@@ -15,12 +15,12 @@ Even though this little vignette *does* relate to the common Do the Math theme o
 
 As a bonus, after the nominal audit activities were over, I was able to spend some quality time with the blower door, doing extensive tests in virtually every room in the house. What I found was certainly instructive for me, and hopefully will be useful to a broad audience as well.
 
-## Drafts Prevent Suffocation
+### Drafts Prevent Suffocation
 
 Air infiltration can be a major piece of a house’s thermal loss budget. We all know that “drafty” homes are cold in the winter. Yet obviously we need enough circulation to breathe. As reported in [a previous post](https://dothemath.ucsd.edu/2012/11/this-thermal-house/ "This Thermal House"), one can find several different standards for air exchanges per hour. Modern construction aims for a “tight” house to register 0.35 air exchanges per hour. Effectively, this means that the rate of air infiltration (in m³/s or cfm: cubic feet per minute) divided by the volume of the living space should come out to something around three hours. [Another site](http://www.toolbase.org/Home-Building-Topics/Remodeling/house-air-leakage "toolbase.org: air leakage")
 points to ASHRAE Standard 62.2, which uses a more targeted approach specific to a home’s footprint. For example, my home calculates to an ideal rate of 0.22 air exchanges per hour. I have also seen a building tightness limit (BTL) standard of 15 cubic feet per minute per occupant, which translates to 0.15 exchanges per hour for my situation. Just open the window a crack if guests stay over…
 
-## Blower Door Concept
+### Blower Door Concept
 
 A blower door is a fan that fits into a doorway, and seals against the doorframe so that a house may be pressurized (or depressurized) by the action of the fan. A two-channel pressure meter (manometer) monitors the difference between internal and external pressure, and also between internal and fan intake pressure. The latter maps to the rate of airflow provided by the fan.
 
@@ -37,7 +37,7 @@ Because we only have two pressures at play, and all leaks between the inside and
 
 But the blower door imposes an extreme condition on the house in terms of differential pressure. How do we translate this into normal conditions? After all, the implied 12 air exchanges per hour is 60 times bigger than my ideal target of around 0.2.
 
-## Calibrating to Normalcy
+### Calibrating to Normalcy
 
 The blower door asserts 50Pa of pressure, and although this is only 0.05% of atmospheric pressure (~10⁵Pa, or ~15psi), it is substantially larger than natural conditions tend to produce. And natural conditions vary from one place to the other. We’re really talking about wind here: it is the interaction of wind with a house that creates pressure differentials inside and outside of the house.
 
@@ -45,7 +45,7 @@ The Lawrence Berkeley Laboratory has defined a [correction factor (PDF)](http://
 
 For San Diego, a normally-shielded (by trees, structures) single-story house has a conversion factor of 24.5. It’s higher because San Diego is less windy than the average location. Let’s call it 25, so that my normal pressure differential is 2Pa. Scaling down the 2530cfm measurement, I would then expect a natural airflow rate of 100cfm, amounting to about 0.5 air exchanges per hour. So my house is not nearly as bad as I expected: not terribly far from the tight building standard of 0.35 exchanges per hour (72cfm for me), but still a factor of 2.2× the more targeted ASHRAE standard (45cfm for me).
 
-## Thermal Impact
+### Thermal Impact
 
 We care about limiting ventilation primarily for thermal reasons. We don’t want ambient air (hot or cold) infiltrating our house and defeating our efforts to stay comfortable. So how serious is a bit of leakage? For every 100m² (1076ft²) of floorspace, an air exchange rate of once per hour will require 85W of power for every 1°C (1.8°F) of temperature difference between inside and outside. So if it’s at the freezing point outside and 20°C (68°F) inside, an air exchange rate of once per hour will require 1700W to neutralize (per 100m² of floorspace).
 
@@ -53,13 +53,13 @@ Putting this into perspective, the ugly theorist’s home modeled in [a previous
 
 So air leaks certainly can be responsible for a substantial fraction of thermal loss. For my house, the (measured) impact translates to 60W/°C (72 when the fireplace damper is left open, as it had been for years). This is clearly an important thermal contribution, but not nearly enough to explain the horrendous (measured) heating requirement of 1465W/°C for my house, as detailed in [an earlier post](https://dothemath.ucsd.edu/2012/09/rocking-the-ac/ "Rocking the AC"). I had hoped that sticking a blower door on my house would allow me to account for the difference, and reveal the culprits that I could then remedy. I still have a mystery on my hands, but nonetheless managed to learn a bunch from the blower door experiments.
 
-## Blower Door Extravaganza
+### Blower Door Extravaganza
 
 Getting a whole-house measurement from a blower door is a useful bit of information. But just as it is hard to decide on specific energy reductions by looking at a monthly energy bill, it is hard to know what the blower door test is telling us to *do*, without performing some breakdown.
 
 Seeing how much fun I was having gathering blower door data, Jason was kind enough to give me some time alone with the blower door. We did it in every room. No—my wife is *not* jealous; accustomed, more like.
 
-### Room by Room
+#### Room by Room
 
 The first interesting test one can perform is to close all interior doors in the house to reduce the volume under test by the (front door) blower. Then opening up one door at a time provides an understanding of that room’s contribution. Because the blower senses and maintains a constant pressure difference, the airflow through any given leak is not altered by the opening or closing some other part of the house. In what follows, I will quantify each room’s conductance in units of cfm/Pa (straight division of cfm read off the meter by the 50Pa operating point). Adding conductances for every room should match the whole-house measure. Since the whole house measured 2530cfm, the total conductance is 50.6 units.
 
@@ -79,7 +79,7 @@ The ducting for heating/cooling—though seldom used in my house— contributes 
 
 So now I know where I stand room by room. This can help focus attention on the worst areas. But to really dig down, some nit-picky detail work needs to be done.
 
-### Really Room by Room
+#### Really Room by Room
 
 My next round of explorations involved setting up the blower door in individual rooms to measure their airflow in isolation of the rest of the house. The numbers were generally consistent with the whole-house approach, if not tending to be a little higher (suspect some leakage around blower foor frame). But the main advantage of narrowing the scope of the blower was that I could detect relatively small changes from sealing one thing or another.
 
@@ -100,7 +100,7 @@ Here’s what I learned, in a nutshell:
 
 Lots of nickel-and-dime stuff here. Adding it all up, I can account for over half of the air loss in the house. I suspect that the remainder is from doors, windows, plumbing entry/exit, and the odd gap hiding behind baseboards or other moulding. But the good news is that I have a list of action items that collectively could make my house twice as tight as it is. Throw on some better door seals and pay attention to plumbing entry/exit and I may even be able to accomplish a factor of three reduction.
 
-## Is it really so simple?
+### Is it really so simple?
 
 I’ve been treating my house like a big resistor following the oh-so-linear Ohm’s Law analogy. Does this assumption hold up? I did a mapping of airflow vs. pressure in steps of 10Pa, finding that the relationship is sub-linear. In particular, I found an exponent of 0.66. For example, at one point I had tightened down my common area to 645cfm at 50Pa (started at 890; could have gone to 435 if I blocked all known offenders), then measured airflow at different pressures. I got the curve shown below, with a fit of 225×(*P*/10Pa)^(0.66).
 
@@ -112,11 +112,11 @@ So there we are. Confirmed experimentally in Joe Random House.
 
 What this means is that the factor of 20 (or 25 in San Diego) adjustment used to convert the 50Pa test into natural conditions does not simply map to 2.5 (or 2.0) Pascals of inside/outside pressure differential in the linear way. Instead, we hit a factor of 20 in flow at a pressure of 0.53Pa indoor/outdoor differential. The implied wind speed using a simple Bernoulli pressure is now down to about 1m/s, but I’m not going to worry myself over what this means in practice. What I *can* say is that windier days will increase the indoor/outdoor pressure differential and promote more vigorous air exchange according to something like the graph above. The fact that the curve is steep at its beginning means that small changes in pressure/wind can have outsized impacts on airflow.
 
-### A Side Experiment
+#### A Side Experiment
 
 While checking an especially tight room, I had the blower at 50Pa of pressure and only 125cfm of flow. Then I opened the window to a 1-inch (25mm) gap, 44 inches tall. The airflow soared higher by 550cfm. At half that gap width, I saw a 340cfm increase over the baseline. Half again and we’re at 255cfm. Then I closed the window until I saw no daylight, but it was not pushed all the way into its housing against the seal: 85cfm over the baseline. Roughly, we’re looking at a scaling law with an exponent around 0.55 as a function of crack width. This general curve shape is again indicating that gaps and cracks don’t act linearly: reducing the area of a gap by a factor of two or four reduces the flow not by the same factors, but by about 1.5 and 2, respectively. So attention to detail becomes important. The little gaps matter. This is also reflected in my finding that I had to tape all sides of a door, even if the gap looked tight, in order to knock out all the flow.
 
-## My Take-Away
+### My Take-Away
 
 I am simultaneously pleased and disappointed by the blower door results. In the plus column, I now have a measure of my house’s permeability, and can point to over 50% of the offenders, which means I can start knocking them off at will. Additionally, my house was not a drafty embarrassment by modern green standards, which I fully expected to be the case. On the down side, the source of almost half my air leaks remain mysterious—although I do have my suspicions. Also, the air leaks I measure cannot come close to accounting for the exorbitant heating/cooling requirements I previously measured for my house. The books remain open. One approach at this stage would be to seal up known leakers (at known impact), and repeat a heating/cooling test.
 

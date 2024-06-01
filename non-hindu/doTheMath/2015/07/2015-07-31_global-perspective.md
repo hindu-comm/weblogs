@@ -33,7 +33,7 @@ By the numbers: 28.5% of the Earth’s surface is land, so randomly one would ex
 
 The cutest pairings for me (besides the China overlap) are New Zealand–Spain and Hawaii–southern Africa. The former is just somehow striking to me, while the latter carries significance for some friends of mine who split their time between Hawaii and Namibia (among other far-flung places). In fact, one of them moved from South Africa to Hawaii as a youngster: hard to contrive a more distant move.
 
-## In Other News
+### In Other News
 
 Despite keeping a low profile on Do the Math, I am very busy otherwise. I intend to report soon on two major personal explorations: a plug-in car used mostly as an EV (two years now) and nickel-iron batteries for my solar setup (a little over one year). Battery assessment takes time, and I have accumulated an overhang of data to crunch. While I certainly have good things to say about both, my mantra that [batteries disappoint](https://dothemath.ucsd.edu/2012/08/battery-performance-deficit-disorder/ "Battery Performance Deficit Disorder") is no less true.
 

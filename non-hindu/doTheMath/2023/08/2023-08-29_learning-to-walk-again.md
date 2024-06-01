@@ -33,7 +33,7 @@ In the face of potential peril, clinging to the boat and trying to make it even 
 
 Remember, the boat is called Modernity, and modernity can’t be saved: it’s a system that is fundamentally incompatible with long term life on this planet. People who cling to modernity only imperil themselves and those who depend on them. Those brave enough to let go have a chance to begin a new phase of life. The key here is: **people and the boat are two different things**. We made the boat, but it does not define us. Conflating modernity and humanity is a common fallacy that is not only wrong, but detrimental. Despair over modernity’s fate need not translate to despair over the fate of humanity. They are simply different things.
 
-## The Brave Transition
+### The Brave Transition
 
 Okay, so we decide to save ourselves. It’s scary, but we’ll jump into the churning water and make our way toward shore as best we can. We’re in over our heads, unable to touch the bottom, awash in uncertainty. We can’t walk yet. But eventually, we start making contact with the bottom and propelling ourselves awkwardly on each bobbing footfall. As the water gets shallower, our motions begin to more closely resemble walking, bit by bit, until we eventually trudge up on shore—water streaming from our clothes and perhaps the occasional comedic fish jumping out of a pocket.
 

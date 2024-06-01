@@ -13,7 +13,7 @@ My Great Hope for the Future
 
 In this post, I offer a rosy vision for what I think we *could* accomplish in the near term to maximize our chances of coming out shiny and happy on the tail end of the fossil fuel saga. I’m no visionary, and this exercise represents a stretch for a physicist. But at least I can sketch a low-risk, physically viable route to the future. I can—in part—vouch for its physical viability based on my own dramatic reductions in energy footprint. I *cannot* vouch for the realism of the overall scheme. It’s a dream and a hope—a fool’s hope, really—and very, very far from a prediction or a blueprint. I’ve [closed all the exits](https://dothemath.ucsd.edu/2012/02/the-way-is-shut/) to get your attention. Now we’ll start looking at ways to nose out of our box in a safe and satisfying way.
 
-## The Chief Problems
+### The Chief Problems
 
 To recapitulate, the principal challenges we face in confronting our transition from fossil fuels while living on a finite planet are (with links to earlier posts):
 
@@ -66,7 +66,7 @@ To recapitulate, the principal challenges we face in confronting our transition 
   population pressures via reduced food production and possibly
   hoarding.
 
-## Be Positive, Dude!
+### Be Positive, Dude!
 
 There I go again. I promised to offer a rosier picture of the future, rather than keep pounding the problematic side. But what I am going to propose may not sit well with the average citizen, so it is important to remind everyone what we are up against: a host of interrelated problems that are not easily waved off. I like the characterization that what we face here is a **predicament**, rather than a *problem*. Problems call for solutions. Predicaments must settle for **responses**. *Our* predicament is that we rode the fossil fuel bonanza to the highest possible heights, without a plan for what to do when the inheritance tapers off. Surely we mustn’t entertain the notion of *getting a job* when the inheritance wanes!
 
@@ -88,7 +88,7 @@ By voluntarily adopting substantial reductions in energy in the manner described
 
 The secret for the raccoon to get out of the nail-in-hole trap described in *Where the Red Fern Grows* is to first let go of the shiny trinket inside. Unrelenting demand is our enemy here, and *completely* under our own control. Want phenomenal gas mileage? Slow the truck down. The velocity-squared term in drag/energy matters. There’s a gas pedal. We have control.
 
-## What’s Rosy about this Picture?
+### What’s Rosy about this Picture?
 
 Maybe this “future” doesn’t sound all that great to the average reader. But consider it in this light. If we step off the growth train and simultaneously reduce our material demands, we won’t have to work quite as hard to keep life on an even keel. The competitive urge for a business to grow disappears, so that employees would spend less time slaving for the boss in the name of profit, and more time enjoying friends and family. In this world, people are interested in satisfying their needs rather than their wants, and people already know what they *need*, so there is no need to advertise in order to create demand for a product. The economy settles down into a system where needs are met by normal (more often *local*) market forces, but the ambition to grow for the sake of growth (and shareholder dividends, etc.) is gone. The 99% take the driver’s seat.
 
@@ -100,7 +100,7 @@ Rather than isolating ourselves in self-sufficient castles, we would work togeth
 
 In many ways, what I describe is a return to a simpler time. But with some key differences. We have made important advances in science, medicine, and technology that we treasure and would work hard to maintain and improve. The future I imagine does not give up on *all* our pursuits—just the ones aimed at growth and commanding a high resource throughput. Those activities centered on developing knowledge, and understanding what it means to be human, would thrive.
 
-## Yeah, Right
+### Yeah, Right
 
 I know. What I describe may cut against human nature. What business owner would *not* want to expand territory, income, power, etc.? What about the people who would not *welcome* a simpler lifestyle? What about the folks who *already* live in a manner somewhat like what I describe and would actually prefer a more go-go lifestyle? Politically, what competitive party would adopt no growth (or negative growth) as a primary platform? Okay, the Green Party [has done so](http://www.gp.org/committees/platform/2010/economic-justice.php#241615 "Green Party platform on economic growth"), and hats-off to a courageous stance—attracting 0.2% of registered voters in the U.S. (although implementing [instant runoff voting](http://en.wikipedia.org/wiki/Instant-runoff_voting "Wikipedia") would unmask more true supporters). Business interest—which finances both political and advertising campaigns—would be hard-set against this folding-the-tents approach. There are *all kinds of reasons* why this future path has little chance of deliberate adoption.
 
@@ -111,7 +111,7 @@ Self-sufficiency—at least at a community level—is most attractive to me in t
 
 But if a physically viable future is fundamentally incompatible with human nature, we may be fated to boom and bust cycles. To say this is to proclaim that humans are incapable of achieving the feat called “sustainability”—a disappointing shame, if true. We’ve seen civilizations boom and bust repeatedly through history, but the civilizations were always somewhat isolated, preventing the busts from being global. This time, more is at stake in a bust. Frustratingly, I *know* there is a way for us to do better. I hope we find ourselves to be capable of taming our expectations and desires and moving in a smart direction.
 
-## A Values Shift
+### A Values Shift
 
 So if we want to guarantee our ability to cope with physical constraints, we increase our chances of success if we change our values first. Today, we admire the individual who rises to the top of the corporate ladder—owning mansions and yachts and a business empire. What if our values shifted so that we considered such extravagance to be *immoral*? Today, we esteem the premier status of the frequent flyer racking up 100,000 miles each year. What if we considered this level of travel *inexcusable*? No red carpet for you! You must board the plane through a gauntlet of passengers swatting at you with boarding passes! Presently, we feel that eating meat at every meal means we’ve earned a desired status in the world. But what if it was considered *indulgent* to do so, unless you or your immediate community raised the livestock yourselves. Today, driving solo at freeway speeds is seen as an inalienable right and a reflection of our freedom. What if the prevailing attitude was that such activities on a routine basis were *wasteful* and *selfish*? Rearing families of two children is currently considered to be a responsible, replacement practice. If replacement is ultimately understood to be too taxing, we may come to value numbers like *zero* or *one* more than we do two. Consider the leisure activities of jet skiing, motorcycling, or snowmobiling and compare to kayaking, mountain-biking or cross-country skiing. Now imagine that the former activities are not considered to be *responsible* ways to enjoy yourself in nature.
 
@@ -119,7 +119,7 @@ Sure, some people have similar sets of values already today. We have names for s
 
 Along the same vein, I initially wrote this post as a set of rules that, if adopted, may put us on a sustainable path. Then I realized that if I were a reader confronted with a list of rules for how I should modify my behaviors, I would likely chafe at being told what I should do, and dismiss the “rules.” It’s much better to set out the *goals* and the *rationale*, and let people invent for themselves ways in which they can meet those goals if they decide that the rationale is desirable. In this way, the responses become personal ones, bringing with them a vested interest in seeing them succeed. In posts to follow, I will outline some of the adjustments *I* have made that may serve to seed ideas for others: suggesting rather than bossing. I recognize that I’m falling into the classic mind-trap: if everyone would just behave like me, the world would be a fine place.
 
-## Worth a Try?
+### Worth a Try?
 
 If we alter our values and behaviors, only later to develop technologies and solutions that obviate the need to maintain such a lifestyle, then fine: get on with the new ways—to the extent that the proposals are sound. A population sharing the new value set will be better able to judge the sustainable nature of some new direction (fusion, or what have you). Perhaps the very act of easing off the pressures on society are the thing that frees us up to find better ways or technologies. And as long as I’m dreaming—more time devoted to living well may also mean a better-educated, better-read, critically-thinking society; less obsessed with maintaining a frantic pace of life. Taking the growth imperative out of life will shift focus to *content* rather than *profit*. News will be about substance and informed debate rather than about entertainment for bucks. We could build on the better angels of our nature, rather than appealing to base instincts like greed.
 
@@ -127,7 +127,7 @@ And in the end, what would be the downside of slowing down for a bit? The natura
 
 When the World Trade Towers were attacked on September 11, 2001, I was at a technical conference on Maui. Air travel stopped for the next several days, silencing the skies. Only then was I aware of the absence of the drone that had been a companion of normal life. I felt stuck, and no one knew what might happen next. But pretty soon, people realized there was nothing to be done, and lived in the moment. I spent a lot of time breathing through a snorkel. The pace instantly slowed, and this brought with it a few perks.
 
-## A Conservative Road
+### A Conservative Road
 
 The picture of the world I paint here is unfamiliar, and quite frankly, unlikely. But my motivation is to devise a strategy that is *not* a game of chicken between growth and finite resources. I advocate swerving away—the sooner the better: what have I got to prove? Otherwise we are destined to lose the fight with nature. My suggestions may not represent an optimal response, but the benefit is that it’s an approach to life that I believe is far more likely to succeed than is the current path of trying to maintain business as usual. In that sense, the plan is a conservative one. Pulling back on the throttle gives us the opportunity to take stock, collectively assess what a viable future looks like, and plot some sensible course. It’s a plea to use our big brains rather than enslaving ourselves to a trajectory out of our control.
 
@@ -135,15 +135,15 @@ As pointed out in the [post on sustainability](https://dothemath.ucsd.edu/2011/1
 
 When we reflect on the fact that we are at a special place in history approaching the peak rate of our one-time fossil fuel inheritance, it is hard to swallow overconfident statements about how our amazing ingenuity will propel us into a spectacular high-tech future beyond our dreams. The narrative is an attractive one, I’ll admit. The fact that we cannot plot an assured map along this route even for the rest of this century could either tell us that we lack faith, lack foresight, lack imagination, or that perhaps we should call for a timeout and regroup. I’m gonna vote for the timeout. But enough of us need to heed the call to make it effective. Future posts will explore specific ways in which we might collectively give our future a better chance at a fulfilling life.
 
-## A Better Future; More or Less
+### A Better Future; More or Less
 
 I’ll leave with a montage to illustrate why the slower world I describe may in fact be more fulfilling than the current scheme: emphasizing the good of one and the bad of another. One could naturally make up an inverse set. If you’re looking for utopia, you’ve come to the wrong shop—sorry.
 
-### Expect More:
+#### Expect More:
 
 Reading; story-telling; gardening; connection with nature; community; fishing; whittling; lemonade; sitting on the front porch; cross-breezes; seasonal adjustment; blankets; wool socks; sweaters; connection to sunrise/sunset; local governance; mom & pop stores; crafts; goats and chickens; bicycles; train rides; pies cooling on the sill; music; singing and playing musical instruments; rain catchment; canning; craftsmanship; repair; durable goods.
 
-### Expect Less:
+#### Expect Less:
 
 Waiting for airplanes; commuting; abstract/meaningless jobs; Wal-Mart; fast food; strip malls; four-car families; climate change; dominance of banks; capital gains; disposable junk; junk mail; species extinction; minibar charges; traffic jams; identity theft; freeway noise; advertisements; consumerism; faddish gizmos; cheap plastic crap; outsourcing; industrial effluent; credit card debt.
 

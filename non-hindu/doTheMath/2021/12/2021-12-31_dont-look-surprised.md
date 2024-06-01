@@ -23,7 +23,7 @@ This post lacks a single overarching message, but explores a few worthy themes t
 
 Firstly, a 10 km direct-impact comet is about the most extreme version of an existential threat that could be credibly conjured for the story. Such events have happened in the history of the planet, although having it fall during humans’ technology window may be one-in-a-million odds. Falling in from the Oort cloud, as posited in the movie, the comet would be traveling about 45 km/s by the time it hit the earth. Depending on direction of impact, Earth’s 30 km/s velocity could add to or subtract from this number. Taking 45 km/s as a representative closing velocity, the 10 km comet’s kinetic energy would be about 5×10²³ J, or about 100 million megatons of TNT-equivalent (about one modern nuclear bomb for every 80 people on the planet—plenty of annihilation to go around!). Yes, that’s seriously deadly.
 
-## But What’s Our Comet?
+### But What’s Our Comet?
 
 The purpose of the movie was obviously not to warn us of the literal threat of an inbound comet. It was about more realistic threats that get shoved aside in favor of more fun pursuits. In fact, the Presidential staff in the movie rattled off all the existential threats that they’ve felt justified in waving aside: economic collapse; loose nukes; rogue AI; car exhaust killing the atmosphere; drought; famine; alien invasion; population growth; the hole in the ozone. But which threat does the movie really represent? Is it climate change (probably, in the minds of those who produced the movie)? Is it COVID? Is it nuclear war? Is it something else, or does it even have to be identified? Maybe it’s an apt stand-in for any or all of the challenges we face, and focusing on what *the* threat is “supposed” to be is a pointless distraction.
 
@@ -42,7 +42,7 @@ Part of the root problem is that too few people have the ability to independentl
 
 The inability to internalize unfamiliar, uncertain, or unsettling news was on frequent display in the movie. I have often encountered a similar phenomenon in what might be called “hope insistence.” One could imagine the talk show hosts in the movie insisting on the “upside” to any scenario as a way to close out the segment and soften the blow: otherwise the viewer may be left in a state of concern, heaven forbid. Even mostly-grim documentaries almost universally end in a feel-good hopeful way. It is as if humans are incapable of receiving inconvenient views without an antidote at the ready to counteract lasting concern. How can that be a good sign that we will accept and confront upcoming global hardships?
 
-# Exaggerated Competence
+## Exaggerated Competence
 
 This movie bugged me in a way that is all-too-common in the entertainment world: it grossly misrepresented how competent humans are. Pulling the Space Shuttle out of mothballs/museums, ready to take flight alongside an armada of rockets on new launch pads in a matter of months is beyond the pale. The world does not work like that. Likewise, the idea that industry could design and manufacture never-before-attempted comet drones to rip apart and manipulate cometary fragments on a similarly short timescale is just bonkers.
 
@@ -54,7 +54,7 @@ In fact, I was hugely disappointed by the movie’s ending, as comical as it was
 
 Oh well, it’s a typical movie in that regard: yet another misfire on technological competence. It’s just disappointing that even so cynical a movie can’t bring itself to assault our tech hubris. That ground must be sacred indeed. On the other hand, I suppose that portraying our technical skills in a negative light could backfire, giving viewers the wrong impression that in the “real” world, we’d manage such feats with much more grace and therefore dismiss the threat as overblown. Maybe you have to speak the audience’s language and cater to their already-warped perspectives.
 
-## Miscellaneous Nitpicks
+### Miscellaneous Nitpicks
 
 I don’t typically write movie reviews, and if I haven’t already convinced you that I shouldn’t, the next part should do the trick. I’m difficult to satisfy when it comes to scientific accuracy. Generally, I set aside such qualms and just enjoy entertaining, effective storytelling. My friends have learned not to ask if some bit of a movie was accurate. A “yes” answer is not unknown, but frustratingly rare. If I were being thorough in reporting obvious inaccuracies, we’d be here all day. I’ll spare us all such a waste of time and just highlight a few things here.
 
@@ -72,7 +72,7 @@ So the point in bringing this up is that we can easily fall victim to prediction
 
 Finally, I’ll end on one they got right. The opening scene was at a telescope, whose sleek, shiny blue finish instantly told me it was the Subaru Telescope, on Mauna Kea (having visited/touched it myself). Then the external shot showing the laser coming out of a boxy dome was again the actual Subaru facility (showing the twin Keck domes in the background)—an unusual bit of self-consistency! But I was truly impressed when a later scene said that the astronomers discovered the comet using the Subaru Telescope. This seldom happens in movies. I also appreciated the side comment by one of the talk show hosts: “I had no idea that Subaru made telescopes,” as if Subaru was the brand of the telescope. This is a common reaction I’ve encountered before, and loved the fact that the movie captured this amusing misunderstanding. Subaru is the Japanese name for the Pleiades, or the Seven Sisters: a conspicuous star cluster in Taurus (notice that the car also uses this asterism in its logo). The Subaru Telescope is a national facility of Japan, and not associated with the car company. We also “ford” rivers and streams and admire Saturn in the sky, without reference to automotive manufacturers. As far as I know, we never Chevrolet anything, unless it’s a cooking technique of which I am wholly ignorant.
 
-# Final Thoughts
+## Final Thoughts
 
 I very much liked that the movie occasionally interposed scenes from nature, reminding us that it’s not all about us. I also liked the line: “They’re not even smart enough to be as evil as you’re giving them credit for,” describing the holders of power.
 

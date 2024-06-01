@@ -15,7 +15,7 @@ For me, the most delightful turn of events in the ultimate nerd-song [“Particl
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2011/07/us-battery-300x201.jpg "us-battery")](https://dothemath.ucsd.edu/wp-content/uploads/2011/07/us-battery.jpg)I will take my usual approach and estimate what I can—as opposed to researching the results of detailed studies. It’s part of the process of personal mastery of the big-picture issues, while also providing a sanity-check. In exploring useful reactions to the looming [peak oil](https://dothemath.ucsd.edu/2011/11/peak-oil-perspective/ "Do the Math: Peak Oil Perspective") crisis (or pick your favorite rationale for weaning ourselves from fossil fuels), an appropriate strategy is to assess ballpark capacities of the various options. Some will prove to be orders-of-magnitude more prodigious than we need, others will be marginal, and many will show themselves to be woefully inadequate to match the required scale. So the goal is to perform this crude sorting process into **abundant**, **useful**, and **waste of time**.
 
-## Earth’s Energy Budget
+### Earth’s Energy Budget
 
 Since many of the options I will discuss in the coming weeks ultimately derive from the Sun, it is useful to throw up an energy budget.
 
@@ -23,7 +23,7 @@ Since many of the options I will discuss in the coming weeks ultimately derive f
 
 For comparison, the energy consumption (conversion) rate of the human race is about 13TW (13 trillion Watts), which works out to an average of about 2,000W per person on the globe (Americans are 10kW). We can also divide by the area of the globe to get a power density of 0.025W per square meter, or 0.09W/m² if we just count land area.
 
-## Solar Potential
+### Solar Potential
 
 If 50% of the incoming solar radiation makes its way to the ground, then we have about 700W/m² for the average terrestrial square meter facing the Sun. But the Sun puts this onto the projected *πR*² area of the Earth (the disk of the Earth as seen from the Sun), while the actual 3-D globe has an area of 4*πR*². So we must divide by four to get the flux per unit area of actual terra firma, yielding 170 W/m². We can think of this factor of four as being made up of a factor of two for day and night, plus a factor of two because the Sun is not overhead all the time, resulting in a loss of intensity per square meter at the ground.
 
@@ -39,7 +39,7 @@ The land area needed to produce 18 terawatts (50% larger than 2010 value) using 
 
 I’ll put solar in the “abundant” box.
 
-## Capturing Sun
+### Capturing Sun
 
 Catching energy from the Sun is pretty simple. Sit in the sun on a cool day and benefit from its warmth. Situate your house so that south-facing windows can swallow sunlight and offset (or obviate) conventional sources of heat. Use thermal collectors for domestic hot water and/or interior heating. Stick a PV panel outside and it will generate electricity provided it is not placed face-down. Concentrate sunlight to heat a fluid and/or create steam for electricity production in a heat engine (possibly combined with thermal storage). Lots of options, when the sun shines.
 
@@ -53,7 +53,7 @@ A table comparing the worst, typical, and best sites in the U.S. provides some u
 
 I threw in San Diego, California and Fairbanks, Alaska for reference. I could devote a whole post to chewing on these results and what they tell us. I won’t, but I can’t help pointing out that Fairbanks—at 65° latitude—is competitive with Quillayute, and on an annual average basis gathers 50% as much energy as the smokin’ California desert! Yes, December is bleak, and *seasonal* storage is *very* tough. But still, I’m impressed.
 
-## Wind Potential
+### Wind Potential
 
 Wind represents a secondary solar energy flow, coming from differential solar heating of the land and from convection induced by temperature gradients in the atmosphere (hot below, cool on top). Wind is therefore like solar crumbs on the table and is destined to be a small fraction of the direct solar potential. How much would you guess? 1%, 5%, 10%? What handles might we put on it as an estimate?
 
@@ -61,7 +61,7 @@ One approach is to note that convection is a thermal process driven by the tempe
 
 Another handle we might try is to guess that a typical wind speed in the troposphere is 20m/s (44m.p.h.), and note that each square meter of land has 10⁴kg sitting on top of it (leading to *mg*=10⁵N/m² of pressure, or 14 pounds per square inch). So the kinetic energy in the air is ½*mv*²=2MJ over each square meter. Now comes the tricky part. If we instantly sapped all that energy from the air, how long would it take to re-establish the full flow as if nothing had happened? I’m going to say one day, or 86,400 seconds. I am simultaneously tempted to go longer and shorter. Neurosis can be the sign of a decent guess. This translates to a power density of about 25W/m², which is about 7% of total solar input. Not bad for ballpark. Noting that the energy budget graphic above puts rising air at 7% of the total solar budget, we might guess 5% in horizontal winds as an upper bound. This gives 17W/m², an order of magnitude less than sunlight available at the surface. Ah—but how much of this wind energy is available at the surface?
 
-## Capturing Wind
+### Capturing Wind
 
 Catching the wind can be a subtle enterprise. Greed is punished. By robbing all the kinetic energy out of an oncoming wind, the air must necessarily stop, so that the oncoming airflow diverts around the obstacle. Theoretically, an isolated windmill could capture 59% of the kinetic energy incident on the rotor area before becoming self-limited (called the Betz limit). Engineering practicalities impose further limitations, so that the best windmills today achieve 40–50% total efficiency.
 
@@ -71,7 +71,7 @@ Assuming that our windmills could lay claim only to the lower 150m of the atmosp
 
 On balance, wind certainly goes into the “useful” box. But considering practicalities, wind *may* not be capable of satisfying our total demand the way solar so easily can, even if deployed across 100% of the land area.
 
-## Solar and Wind Have a Fight
+### Solar and Wind Have a Fight
 
 Who wins? It depends on what you value most. If it’s installed capacity, wind smokes solar. If it’s total available resource, solar wins hands-down. Economically, wind comes in cheaper per peak Watt or per kWh produced, so it wins this contest. Small scale (home) installations: solar takes it. Night-time: advantage wind. Intermittency: both lose (though often in complementary ways).
 
@@ -93,7 +93,7 @@ The upshot is that a 1m² patch of flat land in the Texas panhandle might get 20
 
 As a side exploration, if I look at the wind picture above, and use Lake Michigan as a reference area for water and Nebraska as a typical area for a state (at 60,000km² and 200,000km², respectively), I count about 8 lakes’-worth of offshore red, one lake’s-worth of offshore blue, and about 7 more of orange-to pink. Add to this 8 states’-worth of orange-pink on land and we have 13TW of offshore wind potential and 4.5TW of land-based potential represented in the graphic (while using 3TW). My earlier estimate of 0.15W/m² of wind potential, when multiplied by the area of the lower-48 states gives about 1.2TW. I am left to puzzle over the disparity. My estimate is capped by the 7% of energy allocated to moving air in the solar energy budget, so either the estimates based on the map are wildly optimistic (e.g., the power density is based on isolated windmills, while full-scale deployment may create enough friction to substantially alter wind patterns; and/or because I did not apply efficiency factors), or my restriction of using the bottom 150m of atmosphere neglected possible energy replenishment from vertical currents. See the Appendix for comparison to studies and some insight into the mismatch.
 
-## Triangle Wins
+### Triangle Wins
 
 Solar and Wind have been vying for purchase in the energy game for many years now. Who is winning? **Fossil fuels**: they still beat the pants off either one. That’s our triangle. Fossil fuels are cheap **and** reliable **and** are their own storage **and** allow transportation by car, truck, ship, airplane, **and** fit seamlessly into our current infrastructure. Wind—and especially solar—don’t generally compete price-wise. Both are intermittent, so that they won’t fit into our current infrastructure at a large scale, requiring substantial storage and transmission in order to become major providers of energy. Neither one really helps with the liquid fuels crunch we will experience in the oil decline phase. Electric cars are unlikely to penetrate the market quickly and cheaply enough to avert hardship.
 
@@ -101,7 +101,7 @@ Don’t get me wrong. I am a huge fan of both forms of energy production—espec
 
 I know these things are possible, and that we have in the Sun and wind resources that can satisfy our (hopefully reduced) needs from a physical point of view. But the idea that people would voluntarily commit to this more expensive course of action in a timely manner seems to be pure fantasy. Only rising energy costs will drive us. And we risk waiting too late. And we find ourselves in [The Energy Trap](https://dothemath.ucsd.edu/2011/10/the-energy-trap/ "Do the Math: The Energy Trap"). And we learn that *everything* gets more expensive when energy prices soar—even the renewables that are supposed to be the escape route. Our indebted economy and polarized political system crack under the stress. Substitutes do not sweep in to save the day. Person-man meets Energy-man. They have a fight, triangle wins. Triangle-Man.
 
-### Appendix
+#### Appendix
 
 As part of an undergraduate research project, Thomas Tu sifted through credible assessments of wind potential for comparison to my estimations. For context, my endpoint estimate was 0.15W/m², which translates to about 21TW if 100% of Earth’s land area were to be developed. We consume about 13TW globally, and have 0.045TW of wind power installed.
 

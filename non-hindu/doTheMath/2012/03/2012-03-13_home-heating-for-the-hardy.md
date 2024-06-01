@@ -19,7 +19,7 @@ Last week, I described how to read gas meters, in the process discovering [how o
 
 In this post, I will talk about some of the ups and downs of adjusting to a colder house in the winter. Granted, we live in moderate San Diego, and could not get away with the same tactic in many locales. Even so, I will quantify the gains one might expect elsewhere for similar living conditions.
 
-## My Natural Gas History
+### My Natural Gas History
 
 Below is a plot of natural gas usage for me and my wife since early 2006. It was at this time that we sold our home and moved into a large, 1960’s condominium that used natural gas only for heating and hot water. The data are straight from our utility bill, with a point plotted for each month (months shown as alternating gray/white stripes).
 
@@ -41,7 +41,7 @@ The lessons we derive from this are that:
   how much we were using and where/how. - Gas use follows **people**, not houses. We moved: *no big change*.
   Different people in the same place: *significant change*.
 
-## How Cold are We Talking?
+### How Cold are We Talking?
 
 Okay, clever trick. Turn off the heat. Brilliant. But then it gets cold, genius.
 
@@ -53,7 +53,7 @@ Below is a plot of temperature within our house over the course of 8 days in lat
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2012/03/home-heat-1024x768.png "home-heat")](https://dothemath.ucsd.edu/wp-content/uploads/2012/03/home-heat.png)Meanwhile, the outside temperature averaged about 11°C, making for a 5°C (9°F) average difference. Why would the average internal temperature of the house be warmer than the average outdoor temperature? It’s not because of the appliances within, although this contributes *some* small amount. Mainly, it’s solar heating through windows and rooftop. Our house is not designed to be a passive solar collector, but stick a house in the sun and some of that heat is bound to end up inside.
 
-## The Christmas Heating Experiment
+### The Christmas Heating Experiment
 
 On the morning of December 25, I turned the thermostat in our house up to a toasty 20°C (68°F). Room temperature! I monitored gas consumption needed both to charge up the house to this temperature, as well as to maintain it for the next 24 hours. The indoor temperature sensor, near the ceiling in the hall, displays spikes when the heat is on and blowing hot air into the house. This appears as “hair” on the blue curve in the plot above. Below is a close-up.
 
@@ -61,7 +61,7 @@ On the morning of December 25, I turned the thermostat in our house up to a toas
 
 Overall, the one-day experiment used about 5 Therms of energy, commensurate with our usual *monthly* expenditure: thus the extra spike on the natural gas history plot at the end of 2011. The daily expenditure of 102kWh to heat our home translates to an average power of 4,250W. I react with horror. We try to keep our electricity average power below 200W, for instance.
 
-## Coping Mechanisms
+### Coping Mechanisms
 
 First of all, I should express my gratitude that my wife is on board with living a cooler winter existence. It takes two to make such cuts a reality. Living in an unheated house was a bit of a difficult adjustment the first year, but now we hardly notice. It’s *supposed* to be a bit cold in winter. We wear appropriate layers, have down-boot slippers, and have an electric mattress pad on the bed.
 
@@ -73,7 +73,7 @@ Blankets on the couch make curling up for a movie or chatting with friends perfe
 
 And in the end, the motivation as to *why* we go without heat is itself sustaining: we simultaneously have a smaller impact on the world—living more within our collective means, and we are conditioning ourselves to be tougher so that we will more easily adapt to potentially harsher situations in the future. We also remind ourselves that humans have not always been pampered with luxuriant heat during the winter, and we got by as a species *just fine*. Less princess; more villager.
 
-## Expectations in Other Climates
+### Expectations in Other Climates
 
 Despite the accomplishment of trimming our gas usage by a factor of five, I’m sure many readers are wholly unimpressed. “Any fool can turn off the heat in a San Diego winter—if you can even call it winter. Where I live, oh-ho! This hair-brained strategy has no chance.”
 
@@ -113,13 +113,13 @@ For assessing the heat-tightness of a house, we have several units from which to
 
 One caveat worth pointing out: the amount of savings calculated in the foregoing paragraphs is based only on average temperatures. This will work perfectly well for the months when the outdoor temperature stays well below the set-point (by at least 3°C) all day. In milder weather the daily swings may still force the heat to come on in the wee hours, even if the calculation based on averages suggests that heat will not be needed. A well-insulated house will suffer smaller swings and may be able to resist kicking the heat on during the nightly cycle.
 
-## Implications
+### Implications
 
 We are not utterly victim to our energy demands: *we* create those demands. Adopting an attitude that houses do not *need* to be warm as long as the *person* can remain warm means that we can have a substantial impact on our energy use. By adopting a winter-time set-point temperature that would be thought of as a mild spring day outside, we could slash our national heating demand by a factor of two at least! Further reductions could come in the form of smaller houses (or heated areas within houses), better insulation, and deliberate enhancement of passive solar heat inputs.
 
 So. Are you ready to be a low-heat trooper, donning layers and blankets, or do you insist on shorts and tee-shirts inside in the winter? Perhaps our ancient ancestors would have opted for the same, given a choice. But they survived their winters, and we’re made of the same stern stuff.
 
-### Addendum: Position Statement
+#### Addendum: Position Statement
 
 *In this and other posts that I write about energy reduction schemes, please note that I am not trying to establish my own efforts as superior (my location plays a big role in my success). Lots of folks have been far more effective than I have been in reducing energy usage—and they have my admiration. For me, reduction by factors of 2, 3, 4, etc. are satisfying enough to give me a sense of what can be done. I am now more interested in getting more people to catch up with me than I am in pushing to further extremes. Also, Do the Math readers may wonder why I fuss over home efforts, when many of these tactics do not directly address the impending liquid fuels shortage—identified as our biggest near-term hardship. My answer is that I have adopted a philosophy that **all** energy is precious and that its consumption (together with consumerism) should be reduced as substantially as we can tolerate. At scale, such an approach relieves pressures on many fronts: environmental; transport; agricultural; resource depletion; etc. Let’s not dink around, and instead change the game across the board. We have the power!*
 

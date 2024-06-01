@@ -27,7 +27,7 @@ To either side, it seems inconceivable that someone could deny the truths that a
 
 In this post, I will provide an example of how I evaluate the question of whether I have been brainwashed in the case of climate change, contrasting the way my knowledge is “received” to that of the opposition.
 
-## Precipitating Event
+### Precipitating Event
 
 This post was motivated by someone in the financial world noticing my [textbook](https://escholarship.org/uc/item/9js5291m), thinking well of it, and writing a piece that began with an extended quote from [Appendix D.6](https://escholarship.org/uc/item/9js5291m#section.A.11):
 
@@ -45,7 +45,7 @@ The former showed up so often that I took it as a learned reaction to signal one
 
 Ironically, climate change was not even the main point of the quoted message, as it seldom is for me. Yet it’s a third rail that made some readers’ eyes bug out, hair stand on end, ears vent steam, and brains shut out the possibility of absorbing anything else in the article.
 
-## My Programming on Climate Change
+### My Programming on Climate Change
 
 So let me unpack how I became brainwashed to believe that climate change is anthropogenic, and is responsible for rising global temperatures.
 
@@ -73,7 +73,7 @@ The final step is an understanding of heat transfer and radiative transport in t
 
 Given an understanding of how infrared radiation interacts with atmospheric constituents, I can perform calculations of expected heating from trapped solar input that reasonably match observations and climate science. It all becomes rather transparent and personally accessible.
 
-## Epistemology
+### Epistemology
 
 I should be careful throwing around words I rarely use (physics does not often concern itself with lofty language), but I think this one fits: how we know what we know. I have given an account of my background understanding of climate change. It would be fascinating to get a comparably explicit account from one of the Zero Hedge deniers. I suspect many of them would not operate on that plane, and may not even see the value in such a challenge. But if someone *did* try to articulate their opposition, what themes would emerge?
 
@@ -86,13 +86,13 @@ But I hope I have provided a window into the asymmetry of the situation. I stand
 As a result, it is easier for me to accept the veracity of scientific outcomes than it is for me to embrace proclamations from other domains.
 I know something about the *process*. While not every scientific publication stands up to the inevitable scrutiny of the scientific community (especially if appearing in the sensational-leaning journal *Nature*, as we often joke), I have some basis for trusting that experts in the field will pick it apart if they can. Surviving results are strong, indeed. The fact that it’s not a *blind* trust in science is what makes science trustworthy at all.
 
-## On Who’s Authority?
+### On Who’s Authority?
 
 One last comment is that academics who actually use the term “epistemology” on a daily basis often concern themselves with the question of authority. In philosophy, for instance, the body of work has come entirely from the words of people (authorities)—whose names we remember, and whose pictures will be in textbooks (why the picture of a bearded fellow has any relevance, I’ll never know—maybe the beard certifies authority?). When coupled with a political predilection toward authoritarianism, one can see how a statement of some right-wing ideology (e.g., about climate change or COVID) from an authority figure might be taken for truth.
 
 Science, on the other hand, receives its “authority” *from nature itself*—not from people. The findings are repeatable and testable by experimenters, with or without beards. We would still understand electromagnetism without Maxwell (bearded), or relativity without Einstein (no beard). These bright but happenstance people were in the right place at the right time to be the first to stumble on these emergent truths, but they did not *create* those truths—much as continents and islands would be just as well known today without Columbus or Magellan having ever been born. The individual is incidental, and authority is irrelevant. This ties to my [last post](https://dothemath.ucsd.edu/2021/11/caught-up-in-complexity/) on the primacy of physical constructs over artificial human ones. It’s not all about humans, people!
 
-## Brainwashing, Perfected
+### Brainwashing, Perfected
 
 I must say that part of me admires the clever and effective manipulation that right-wing media outlets have perfected. Rather than studying political science, international relations, and history, politicos on the right often study marketing, psychology, and communications. The recipe that hooks the audience is to hammer the messages:
 

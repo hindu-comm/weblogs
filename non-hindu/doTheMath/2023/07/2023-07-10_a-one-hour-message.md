@@ -15,7 +15,7 @@ As with many things we do in life, I have mixed feelings about the result: thing
 
 Below is a video capture of the event over a zoom channel. The slides are shown well, but the audio quality varies depending on my movements (could be worse). Questions from the audience are hard to make out. Zoom does amazing things for noise suppression, which also applies to audience reactions (applause, laughter). But hey, you get what you pay for.
 
-# An error occurred.
+## An error occurred.
 
 [Try watching this video on www.youtube.com](https://www.youtube.com/watch?v=6-1oUMNX64Y), or enable JavaScript if it is disabled in your browser.
 

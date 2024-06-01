@@ -19,7 +19,7 @@ But this post is heading somewhere else: lament about the un-wilding of the plan
 
 What follows has absurd elements to it, but hopefully in forgivable service of a larger point about the value of life on this planet and in shining a glaring spotlight on current human values.
 
-## Comparative Value
+### Comparative Value
 
 Notice that food labels, listing metabolic content and essential vitamins and minerals never mention gold: no recommended daily allowance. I point this out to justify the separability in the choice posed above: it seems that it *is* possible to have one without the other. Gold does not appear to be essential to the preservation of animal life on the planet, and of course gold doesn’t give a flip about whether animals exist. So I ask again: which is worth more to you as an individual, and to the human race?
 
@@ -31,7 +31,7 @@ Now a neat quantitative coincidence falls into our laps. The mass of gold under 
 
 Having concluded that animal life is more valuable than gold, and that the masses are effectively the same, we conclude that animals are at least **worth their weight in gold**—if not considerably more.
 
-## Mayhem
+### Mayhem
 
 That’s cute, but here’s where it gets ugly. Gold is valued at about \$2,000 per ounce, or about \$60,000 per kilogram. A large-ish gold coin is about an ounce, and therefore worth about \$2,000. Imagine, for the sake of absorbing the meaning of this valuation, that every time an animal was destroyed, it left behind a pile of gold coins of equal weight—capturing the conclusion above that the value of the animal is at least that of gold. It’s like a video game where some quarry is made to go poof, turning into floating coins that make a satisfying bling sound.
 
@@ -43,13 +43,13 @@ It’s a truly dismal thought. Of course, not every individual would act to cash
 
 In our Mad-Max life-purging scenario, how long would it take before the survivors—giddy on their piles of gold—recognized their foolishness? What, of value, could they possibly buy with all this gold? No amount of money can recreate life. We’re not that smart. We’re the first species smart enough and powerful enough to *destroy* much of creation, but nowhere near smart enough to effect creation of life on our own. So be careful, there.
 
-## Flaws and Fixes
+### Flaws and Fixes
 
 Some may object that a \$60,000 chicken (1 kg of gold) is too outlandish to take seriously, and that the flaw lies in the fact that we can’t easily access all the gold atoms within 6 kilometers of the surface. If we could, the value of gold would surely be far less. But I would say that’s another way to make the broader point. No accumulation of material resources can hold value comparable to that of animal life, since we can’t trade in the direction of creating lost life (extinct species).
 
 An alternative would be to compare the value of all our stuff: buildings, infrastructure, machinery, vehicles, and possessions. How much money would it take to replace every scrap of our “valuable” things if a tornado wiped it all off the face of the earth (miraculously sparing all life)? One way to answer is that it would take a long time to recover from something that catastrophic. In order-of-magnitude terms, maybe between 10 and 100 years—if not longer. We’ll say 60 years for comparative convenience. 60 years of global GDP is about 6 quadrillion dollars. If we again conclude that all animal life on the planet is more valuable than the sum-total of our dear stuff, then we’re at \$600 per kilogram (\$6 quadrillion for 10 Gt of animal mass), which is 100 times less than the flawed valuation of all gold down to 6 km depth. But still, a chicken is roughly \$1,000, and an elephant will buy a \$600,000 house. The mad rush is still on!
 
-## Take-Aways
+### Take-Aways
 
 Independent of the approach, or adjustments to make it more seem more reasonable, we probably always must conclude that life carries incredible, unappreciated value. Rather than getting hung up on the quantitative absurdity, try walking away with the following, more robust conclusions:
 
@@ -65,12 +65,12 @@ Independent of the approach, or adjustments to make it more seem more reasonable
     splendid and life-sustaining natural world—which is the *real
     treasure*.
 
-## Flipping the Script
+### Flipping the Script
 
 Now imagine for a minute the opposite conjecture, in which financial advantage accrued to those who **protect and preserve** wild animals and ecosystems. Instead of a rush to destroy, people would be falling over themselves to reverse our destruction and create *more* wild space and biodiversity. It’s worth imagining ways this might be brought about, as such a construct is more closely aligned with an ultimately successful future.. Currently, our economy is structured backwards: there’s no money (financial profit/gain) in *restoring* resources and wild spaces: just in hacking them down and exploiting the great inheritance. Perhaps more troublesome is the inherent human desire to acquire personal stuff, so that the only reason to make money in the first place is to be able to afford personal gain at the expense of some unseen parcel of nature.
 Maybe prioritizing nature over ourselves will always be hard, and against our core programming.
 
-## Additional Perspective
+### Additional Perspective
 
 For what it’s worth, I took a stab at a crude dollar value of planet Earth in Box 19.1 of the [Energy and Human Ambitions on a Finite Planet](https://escholarship.org/uc/energy_ambitions) textbook. The sums are staggering, amounting to something like a million times annual global world product. Even if the approach is dubious and raises quibbles, the margin is large enough to still make the point: the **real treasure** is Earth and its biology. As Box 14.3 in the textbook points out, all life on Earth would compress to a 4 mm uniform layer across the planet, emphasizing how thin and precious life is. Compared to the real value of earth and its organisms, our minuscule annual economy is like a flea on the dog, yet our decisions are always about maximizing short-term gain for the flea, as if it’s all that matters. Without the dog, the flea loses any worth it presumed it had.
 

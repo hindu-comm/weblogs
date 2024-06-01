@@ -17,7 +17,7 @@ Last week, as soon as I put [tidal power](https://dothemath.ucsd.edu/2011/12/can
 
 I should also point out that all along, my approach is to pretend that our goal is to keep up our current energy standards in a post-fossil-fuel world. In the process, we will see just how hard that will be to do. It is by no means impossible, but it’s much more difficult and compromised than most people realize. In the end, it is not clear that we *will* maintain our current global rate of energy usage: the future is unwritten. On the plus side, some of the approaches I cast into the “niche” box may become “potent” in a scaled-down world. Firewood was once abundant, then moved to potent, and is now a niche. But a reversal of fortunes could change all that.
 
-## Hydro Basics
+### Hydro Basics
 
 I may be starting to sound like a broken record, covering the basic physics of hydroelectricity now in [several posts](https://dothemath.ucsd.edu/tag/hydroelectric/ "Do the Math: Hydro Posts"). But we learn by repetition, right? So in the spirit of self-containment, here we go…
 
@@ -27,7 +27,7 @@ The height of the water behind the dam is the relevant height for the potential 
 
 Now, it is the job of the turbine(s) to extract some of the kinetic energy this water would have if it were allowed to shoot out of the bottom of the dam. As a consequence, it comes out at a much more sedate pace. *Some* of the 10% inefficiency in hydroelectric dams is due to generator inefficiency, but some is because you can’t take *all* of the kinetic energy out of the water or it would stop flowing and stall the flow of the next batch. But nature is kind here, since kinetic energy goes as the square of the velocity. The velocity of the energy-sapped water is therefore sqrt(1−*η*). So if we pull 96% of the energy out of the water, its flow velocity is 20% of the free-flow value (13m/s in the foregoing example). Or we can grab 99% at a 10% exit speed (7m/s, or 15m.p.h.). This sounds much more reasonable—and seems like a good bargain. The area needed now expands accordingly, but that’s what large turbines/penstocks are for.
 
-## Hydroelectricity in Practice
+### Hydroelectricity in Practice
 
 The U.S. has 78GW of hydroelectric capacity installed. In a year, these plants produce 272TWh. Divide by 8766 hours in a year, and we find 0.031TW (31GW) of *average* power. This implies a 40% capacity factor. I was surprised by this: I thought dams churned along at a steady rate all the live-long day. Seasonal variations are apparently much larger than I appreciated—snow-melt being one factor. The following table lists all hydroelectric facilities in the U.S. bigger than 1GW—representing 30% of total installed capacity in just 11 dams. The table shows each dam’s nameplate (peak) capacity, height, implied flow at peak generation capacity (after which spillways must be activated; assumes 90% efficiency), and capacity factor.
 
@@ -35,11 +35,11 @@ The U.S. has 78GW of hydroelectric capacity installed. In a year, these plants p
 
 Eight of the eleven dams in the table are in the Pacific Northwest. Of possible interest is the fact that the power-capacity-weighted heights of these dams is 113m, while for the entire U.S. fleet, it is 88m (much higher than I thought). For reference, the newly completed Three Gorges dam in China is rated at 20.3 GW, has a nominal head height of 81 m, an implied flow of 28,500 m³/s, and a capacity factor of 0.45.
 
-## Current Contribution
+### Current Contribution
 
 What fraction of our energy currently comes from hydroelectricity? Such a simple question deserves a simple answer. Yet numbers range all over. The hard answer is that 272TWh of annually delivered electricity in the U.S. corresponds to 0.9% of the primary energy use, or 2.3% of primary energy associated with electricity. Of the *delivered* *electricity*, it’s 7.3%. Much of the variation is due to an apples-to-oranges comparison of efficient hydroelectricity to heat engines that convert only 35% of their primary energy into useful energy. For instance, the Department of Energy’s Annual Energy Review (whose numbers are well-depicted in the [LLNL graphic](https://flowcharts.llnl.gov/content/energy/energy_archive/energy_flow_2010/LLNLUSEnergy2010.png "LLNL Energy Flow for 2010")) artificially inflates the contribution from hydro to put it on the same footing as the fossil fuel inputs. But however you want to slice it, hydro is on the small side.
 
-## Global Hydro Potential
+### Global Hydro Potential
 
 Now the fun part. How much hydro power is theoretically achievable? Hydroelectricity is cashing in on residual potential energy provided by the rain cycle. A look at the Earth’s energy budget shows that a whopping 23% of the solar budget goes into evaporating water! The water cycle is a **big deal**.
 
@@ -63,7 +63,7 @@ I’ll make a rough guess and knock off a factor of two for the energy lost in t
 
 At present, the U.S. has 78GW of installed hydro power (out of which we get 31 GW, averaged annually). The world has about 1TW installed, likely realizing 400GW on an annual average. The realized capacity therefore undershoots our crude estimate of global potential by a factor of 10 or more. Does this mean we could go nuts and expand hydro to amazing new levels? Should I ask for water skis for Christmas?
 
-## Realistic Assessments
+### Realistic Assessments
 
 I don’t want to discount the top-down approach we did here. After all, if anyone tried to tell me that hydro could deliver much more than 25TW of power, I would know that the basic physics of the planet does not allow it. But at the same time, the upper limit we established does not account for a whole host of practical considerations, like actual rivers with known flow rates and geographic potential for damming. So I turn to a study that has put some more time into the question than I can afford personally, outside of my day job. Specifically, a [report](http://www.eurelectric.org/Download/Download.aspx?DocumentID=5601) by the Eurelectric group assessed global hydro potential in four cascading steps:
 
@@ -77,7 +77,7 @@ For technical feasibility, these same sources estimate 1.6–2.3TW globally. Eco
 
 For the U.S., the [Idaho National Laboratory](http://hydropower.inl.gov/resourceassessment/pdfs/main_report_appendix_a_final.pdf) estimates a gross potential of 0.3TW, and a technical potential of 0.17TW. The latter was determined after a study of 500,000 potential sites, out of which 130,000 made the cut. It is also estimated that existing dams with no hydroelectric capacity could add 0.013TW (13GW). So here in the U.S., we could expand by a factor of 5 according to this report—ignoring economic and environmental barriers. Such a boost would bring hydro up to 5% of our gross energy, or 12% if we correct for the heat-engine effect (40% of our electricity). I have seen other reports less optimistic about our expansion potential, coming in closer to a doubling of current capacity—likely factoring in economic and environmental considerations, and consistent with the lower end of the range estimated for global potential.
 
-## Which Box?
+### Which Box?
 
 At a global potential of approximately 10% of our current energy scale, my initial reaction is to throw hydro into the “niche” box with tidal, since my criterion is that a resource be theoretically able to meet a quarter of our demand to be labeled “potent”—which incidentally is in line with what oil, natural gas, and coal each deliver to us today: all are momentarily “potent” sources by this reckoning. If we consider that thermodynamic losses in conventional electricity production do not apply to hydro, we might be tempted to boost it into the “potent” category. But I didn’t need to do this for wind, and certainly not for solar. And even *this* boost does not put it over the top in the U.S. (at 12%), even if entertaining a 5× increase in hydro development. So I think I’ll leave it in the niche box. It’s a borderline call (and meaningless, really). Hydro beats the pants off of tidal, and is currently used to good effect the world over. But it’s a real stretch to make it a big player in the energy game at today’s rates of usage.
 

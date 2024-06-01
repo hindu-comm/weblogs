@@ -23,7 +23,7 @@ I did not expect to stay in academia (the statistics were not encouraging to a m
 
 So, what happened?
 
-# A Gradual Exit
+## A Gradual Exit
 
 My path away from science involved a number of key elements.
 
@@ -84,7 +84,7 @@ In short, I came to realize I was one of the bad guys. I like the saying that ev
 
 I now find myself to be in an odd position: possessing well-honed skills in reductive, logical, quantitative analysis while recognizing the [narrowness](https://dothemath.ucsd.edu/2023/11/putting-science-in-its-place/) of those mental modes. I can “robot” with the best of them, but no longer see the appeal of always thinking like a bot, even though this form of thinking is revered in scientific circles. As one indicator, blog posts of mine that crunch the numbers—robot style—tend to get a lot more attention than ones that say to forget the numbers and take in the wider picture.
 
-# What’s It All For?
+## What’s It All For?
 
 As a scientist at a university, I found myself asking: [what is it we’re doing](https://dothemath.ucsd.edu/2021/05/to-what-end/), here? Once we look past the self-important huffiness so common among my cohort, is science helping or hurting US? By US, [I mean the entire community of life](https://dothemath.ucsd.edu/2023/10/are-we-lucky/). We are [nothing without](https://dothemath.ucsd.edu/2023/11/nothing-without-bugs/) the collective WE. Clever scientists might be able to spin a tale of how one day in the future their work *might* benefit the more-than-human world. But set against the harms we *know* come from the work today, the more likely case is more of the same: terminal damage.
 

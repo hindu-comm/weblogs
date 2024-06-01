@@ -21,11 +21,11 @@ So how might we stamp out human supremacy? One step is to employ tools that help
 
 This post proposes a crude test for deep-seated human supremacist attitudes. It has echoes of the classic “trolley problem,” and I hate myself for that. But the setup is not as hypothetical or unlikely. Also, rather than the intractable weighing of (sacred) human lives against action/inaction, I think this one has a clearer logical resolution.
 
-## The Scenario
+### The Scenario
 
 Two cars rapidly approach each other on a two-lane road that for a short span has no shoulders (e.g., guard rails, steep bluffs). Shortly before the cars reach each other, a large deer suddenly pops out into one lane and freezes. It is too late to brake in time to avoid hitting the deer, so the only choice on the part of the unlucky driver is to plow into the massive deer at windshield height or swerve into the oncoming car for a destructive head-on collision and near-certain death of those in both cars. In order to bypass the effect of self-preservation, let us stipulate that the driver in the lane with the deer will die either way, and knows this. Which choice makes sense? Is it obvious to you?
 
-# Assigning Fault
+## Assigning Fault
 
 One approach is to ask: who is in the wrong? Is the deer in the wrong for trespassing onto a human-made road? Should he know better, or hemming himself in to whatever land is crossed by no roads? Or, are the humans at fault for constructing roads and hurtling along in large metal boxes at great speeds, presenting a danger that evolution has not prepared the deer to avoid?
 
@@ -39,13 +39,13 @@ To get in a car and launch down a paved road is, ideally, to take responsibility
 
 What about the “innocent” oncoming driver, whose lane is clear? Don’t they have a right to travel unmolested by a head-on collision? Firstly, rights are simply human fabrications to justify stuff we want (and politics is squabbling over claimed rights that others deny). Secondly, no. Both drivers made the same choice to get in a car, so it is immaterial which lane the deer is in. But wait—our society is structured so that we drive because we *have* to, for jobs or whatever. That’s still “on us,” and not the deer’s problem. Modernity created the situation. Modernity (and its human participants) should bear the cost, even if those drivers did not invent the system themselves. Why should the deer (always) pay for modernity’s dastardly decisions? If we operated according to a new ethic, favoring the deer, we might decide that driving (fast) is not worth the risk or that it is not justifiable in the context of a larger community of life—and that would pull a crucial rug out from under modernity, which may be just as well.
 
-## Indigenous Perspective
+### Indigenous Perspective
 
 Keeping in mind that many Indigenous cultures today have little choice but to operate within modernity (their lands having been stolen using the clever fabrication of property “rights”), we might muse about how an Indigenous elder untainted by modernity might react to the scenario presented above.
 
 I would like to think that the elder would have difficulty even comprehending the scenario, asking: what is a paved road—that most unnatural surface? Once past that: why is the person in a large metal box? Why are they going so fast? If insisting on doing this odd thing, why not travel more slowly? I would hope that the questions would help point out how bizarrely incongruent (and not *innately* human) the activity really is. Why indeed do we do these things, other than because we *can* for now—which is a lame answer? It seems on the whole to be a fairly adolescent practice, to me—lacking wisdom. The least we could do, then, is to accept personal responsibility and not slaughter innocents.
 
-# Contributions to Biodiversity
+## Contributions to Biodiversity
 
 Another angle is to ask which life is more valuable on the planet. I suppose it depends on what exactly one considers to be of value.
 
@@ -57,7 +57,7 @@ On these grounds, the deer would seem to win hoofs-down. Not only are they far m
 
 Therefore, from the standpoint of biodiversity, losing a deer is more costly than losing a few humans. Suck it up, humans. Own up to your choices. Of course, such statements are likely to enrage the human supremacist, who may even daydream of hate crimes (against another human, ironically) in reaction. To be clear, I will be quick to defend a human’s desire to live, but not so quickly for those insisting on a “right” to do any fool thing they want to do on the planet, in contempt of other life. Think about your attitude toward serial murderers, for instance, and look at how we are collectively [demolishing life on Earth](https://dothemath.ucsd.edu/2023/08/ecological-cliff-edge/).
 
-# Advocacy
+## Advocacy
 
 Deer don’t have money (’cause no pockets), can’t hire lawyers, have no newspapers or blogs, do not vote, can’t own property, and as such are essentially invisible to modernity. Does that mean they lack value, or just that modernity has its head screwed on backwards?
 
@@ -65,7 +65,7 @@ In the present system, the driver who decides to swerve into the oncoming car fa
 
 The deer deserves more advocacy, consideration, and respect.
 
-# Did You Pass?
+## Did You Pass?
 
 This exercise helps shine a light on our distorted sense of human supremacy: the damaging notion that we are worth more than other species, and are entitled to run (amok on) this planet in any way we see fit.
 

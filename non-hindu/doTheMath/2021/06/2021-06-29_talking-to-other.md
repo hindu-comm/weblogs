@@ -23,9 +23,9 @@ First, we’ll start with my neighbor, Chip. That’s not his real name, but I w
 
 I took some honey harvested from my bees to thank Chip for loaning me two massive iron spikes that I used as anchors driven deep into the ground to drag something heavy across the dirt. The conversation we had ranged all over, but I capture main themes here as an example of how one might make progress, perhaps offering tips that may allow others to have similar success.
 
-# The Conversation
+## The Conversation
 
-## Vaccinations
+### Vaccinations
 
 Approaching Chip on the street by his truck, I announced that I was vaccinated but would put on my wrist-strapped mask if he wished. After I handed him a jar of honey that he tasted and admired, he said that his wife just got her second vaccination shot, and was feeling terrible. To him, this only fueled the concern that COVID vaccinations were a bad idea.
 
@@ -33,7 +33,7 @@ I responded by enthusiastically describing how cool the vaccination idea was: gr
 
 He had never heard an account of the vaccine’s mechanism, and followed the description with interest. My communication was not meant to make *me* seem impressive (what’s the point of that?!), but to optimally convey the idea in as clear and understandable a way as I could. This is one hint: don’t make it about you; make it about them—the difference is easy to perceive. My enthusiasm may have played some additional, infectious role. In any case, he genuinely appreciated getting the scoop, and said maybe he should get vaccinated after all. I never suggested one way or another: just provided the narrative.
 
-## News Sources
+### News Sources
 
 As a byproduct of the vaccine conversation, Chip likely was trying to reconcile what I told him with what he hears via his information sources—the usual suspects of Fox News and its ilk. He said he’s not sure who to trust.
 
@@ -47,7 +47,7 @@ Roger Stone’s daughter then boo-hooed about how unfair all this was to her fat
 
 Sometimes news actually *is* exciting and emotionally triggering, which no news outlet can suppress. The 9/11 attacks were shocking no matter what channel, resulting in fear, anger, and deep sadness across the board. But on normal days news is pretty boring. The PBS News Hour, for instance, is exceedingly well put together with thoughtful analysis, questions, and conversations. It’ll put you to sleep, but they get key experts who know the topics inside and out and have discussions of real substance from various points of view. Has anyone ever thrown the remote control at the TV in response to something Judy Woodruff said?
 
-## Conspiracies
+### Conspiracies
 
 Chip asked what I think about the origin of the coronavirus: was it from a Chinese lab? Having already covered the “boring equals more likely true” thesis, I could apply a similar logic here. Scandalous yet specious charges spread quickly because they’re exciting to hear and exciting to tell.
 
@@ -57,7 +57,7 @@ The phenomenon bears some relation to the [Dunning-Kruger effect](https://en.wik
 
 So conspiracies, I expressed to Chip, are attractive but often very miscalibrated. The world I know, having accessed some “inner circle” gatherings, doesn’t work that way. Think of it like this: “boring” is a cousin to “probable.” Probable things are commonplace, and thus boring.
 
-# Favorable Attributes
+## Favorable Attributes
 
 My conversation with Chip seemed to go quite well. It was helped by a foundation of trust and respect. We worked on a landscaping project together, and he saw me dig up a number of massive stumps, pulling literally tons of wood out of the ground single-handedly. That’s manly work. I toiled like a tenacious mule, neither whining nor crowing. Just got ‘er done, day after day. My comfort with and effective use of tools likely also helped.
 
@@ -65,7 +65,7 @@ But as much as anything, our relationship started with respect on day one. I nev
 
 Because Chip feels genuine respect coming *from* me, and has seen with his own eyes my capabilities in problem solving and getting stuff done (not because I ever *told* him of my abilities like a braggard; that would be counterproductive), his returned respect *for* me comes naturally. He said as much in our conversation. He was asking about news sources and conspiracies because he valued my opinion and insight. He trusted that I would not be condescending or act superior. He seems to view me as an accidental member of the elite/smart club, but not like all them others.
 
-# Other Tips for Effectiveness
+## Other Tips for Effectiveness
 
 In today’s polarized culture and tribal battlefield, it pays to defy easy characterization or labeling. In some sense, having the views that I do:
 
@@ -87,13 +87,13 @@ I can appreciate liberal stances on tolerance, fairness, opportunity, and enviro
 
 All these things help me break tribal barriers, failing to adhere to a monolithic portrait. I endeavor to find common concerns, respect the other, and speak from the heart in ways that I hope seem like obvious statements of common sense that cannot help but meet with agreement. I can’t say I have some magical power to be persuasive or completely diffuse tribal tensions. But I believe I can do tolerably well. My biggest handicap is that I really *care*, and can get a little wound up when my points are dismissed without honest reflection.
 
-## Personal Adjustments
+### Personal Adjustments
 
 People can’t change their past, so the recipe that gives me various cross-over advantages will not be shared by all. But perhaps some of the advantages delivered by my past can be identified and amplified in you. Think about commonalities that connect you to the “other,” and emphasize those things. Expand your life experience to give yourself more common ground.
 
 Effective teaching involves meeting the student where they are, and trying to gently guide them to a new place. The first step is developing a sense for their present state, and engaging with them in that space, rather than demanding that they immediately come to your way of thinking, on your terms. I think the same goes for effective communication on tricky subjects. Consider the world they must see through their eyes, and identify the disconnects. Then you can craft the bridge that allows them to set foot into a different world, if they choose to cross it. Create the opportunity, and leave the choice to them.
 
-# A Campaign
+## A Campaign
 
 As a related aside, imagine a national program of one-year compulsory service that mixed young people from all backgrounds in efforts to perform useful tasks of national or global interest (my vote would be for actions that benefit ecosystem health). Like the bonds that form between combat soldiers, differences get swallowed up by common experiences and by the undeniable, recognizable humanity of people of every stripe who otherwise would not come into direct contact. Mutual respect can be borne out of shared experience and endured hardships. It becomes harder to demonize group X when your new friend-for-life is associated with that group. Such a program could act as a reset button restoring a sense of national (or better yet global) unity and that we’re all in this together.
 

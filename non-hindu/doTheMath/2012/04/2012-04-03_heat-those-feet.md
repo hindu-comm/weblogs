@@ -17,11 +17,11 @@ One of the more bothersome aspects of living in an [unheated house](https://doth
 
 The main problem I have with cold feet is that they make it hard to go to sleep. Otherwise cold feet don’t seem to distract me from normal activities. But let’s say that your feet are cold and that you cannot stand it any longer, and therefore must warm them up. I’ll look at a number of options, assessing how much energy is consumed for each. We’ll try hot water in the sink, a space heater (or blow dryer) under a blanket, a heating pad wrapped around the feet, or good-old metabolic energy.
 
-## Defining Cold Feet
+### Defining Cold Feet
 
 First, let’s establish an energy scale for cold feet. Normal body temperature is 37°C (98,6°F). Feet can feel pretty cold at 25°C (which is what my left-foot measured in the infrared picture above). Let’s say that this is their temperature through-and-through. Let’s further say that your feet occupy a liter of volume together (at the density of water, this corresponds to a mass of 1kg, weighing 2.2lbs). At the specific heat capacity of water (4184J/kg/K), the 12°C decrement amounts to a **50kJ** energy deficit. Remember this number.
 
-## Hot Water Treatment
+### Hot Water Treatment
 
 Let’s say you fill a sink or small basin with hot water in which to stick your feet. Better that than a whole bathtub—requiring vastly more water to creep up over the feet. About a gallon and a half (6*ℓ*) should do it.
 
@@ -31,7 +31,7 @@ But we’re not done. Unless the hot water heater is right next to the tap, a fa
 
 Why such low efficiency? Think about the fact that when your feet are warmed up, the water temperature in the sink is still pretty high, and this thermal energy either dissipates into the room or is simply dumped down the drain—where it does not even contribute to house heating. Also, the hot pipes between the heater and sink will sit there oozing heat into their environment after the tap is shut off. Very little is available to your feet.
 
-## Fire-Prone Power-Heating
+### Fire-Prone Power-Heating
 
 Alternatively, you could put your feet in front of a toasty space heater. Or you could direct a blow dryer onto your feet. Again, you should expect low efficiency, since the air bouncing off your feet is still pretty warm: very little gets transferred into the feet.
 
@@ -39,7 +39,7 @@ So you can help matters by putting a towel or blanket over the heater and your f
 
 In any case, we have a crude approximation for the energy associated with this method. It requires something on the order of 500kJ: less than for the hot water approach, but still only getting 10% of the energy into your feet. You’ll be much better off (and safer) if the heater is thermostat-limited, but will still lose significant heat through the surface area of your “tent.”
 
-## Heating Pad
+### Heating Pad
 
 A heating pad a little larger than a sheet of paper can get plenty toasty with just 40W of power input. It may take five minutes before it feels warm, and then perhaps another 10–15 minutes wrapped around your feet to bring them up as well. But even running the pad for half an hour, we’re looking at only 72kJ of energy consumed. This is suddenly *vastly* more efficient than the previous methods.
 
@@ -47,7 +47,7 @@ The efficiency stems from applying heat **exactly where it’s needed**. Picture
 
 Our electric mattress pad (30W per side over a much larger area) is a variant on this theme, and is what I typically rely upon to prepare cold feet for sleep-mode.
 
-## Burrito Power
+### Burrito Power
 
 No, not that kind of power. I covered natural gas a few weeks back. I’m referring to metabolic power to get the feet back in line. If you eat 2000kcal/day, this is equivalent to about 100W of continuous power. If you could magically channel all of this straight to your feet, it would take 500 seconds (a bit over 8 minutes) to get 50kJ into your feet. Of course, a much smaller fraction of your metabolic power will be routed to your most extreme appendages, so it will naturally take much longer to warm up. If only 5% of your metabolic energy is channeled to your feet, it may take 2–3 hours. But heat flow is always proportional to temperature differences, so as long as circulation to your feet is decent, a disproportionate amount of energy may be exchanged there. In my experience, less than an hour is required for feet to warm up on their own, once insulated well.
 
@@ -57,7 +57,7 @@ If you want to up the ante, **exercise**. Then you ratchet up your power plant c
 
 As an amusing variant, a friend suggested the **spousal belly power** approach. Cold feet? No problem: just place them on hubby’s warm tummy for a few minutes and all is right with one person’s world.
 
-## Who Cares?
+### Who Cares?
 
 A post on warming up cold feet may seem pretty lame. After all, are not our problems much bigger than cold feet? Indeed. But the post serves to illustrate a few valuable lessons:
 

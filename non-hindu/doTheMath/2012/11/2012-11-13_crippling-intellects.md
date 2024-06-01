@@ -23,7 +23,7 @@ Let me preface what I am about to say by the disclaimer that most of this is con
 
 One other disclaimer: this isn’t a post whose veiled message is how smart *I* am. I might once have thought so, but then I met bona-fide geniuses when I was in grad school at Caltech. Fortunately, I was mature enough at that point for it not to cause a crisis of confidence or identity, and rather enjoyed the window I had into the off-scale brilliance of some individuals. So let’s go ahead and put me in the dumb box so we can move on to what I want to say.
 
-## The Smart Handicap
+### The Smart Handicap
 
 Some people are so freakishly smart that they have little insight into the minds of us mere mortals. It can therefore be hard for these individuals to navigate the world of ordinary people; like trying to get somewhere fast on a bicycle, hemmed in by throngs of sluggish pedestrians on the sidewalk. In theory, the bike is fast. In the real world, it has limited effect. It is, of course, possible to build a model for how people are likely to behave, and cope with the result. But I imagine smart people still often get caught off guard when someone stubbornly fails to understand what is obvious to them.
 
@@ -39,7 +39,7 @@ There were some ridiculous guesses in the class. I recall that someone—no joke
 
 Actually, I must admit that while I quickly understood the downward tug, I did not recognize until the game was over the beauty and perfection of zero as the only “right” answer. Lower numbers made me nervous, short-circuiting the theoretical pull to take the game to the extreme. This corrective impulse was apparently missing in the “smartest” students in the room, attracted as they were to the “perfect” answer.
 
-## When it Comes to the Energy Challenge
+### When it Comes to the Energy Challenge
 
 So how does the “smart handicap” play out on the biggest challenges we face? Or asked another way, what do really smart people think is going to happen? I can report that many of them are not nearly as worried as I am. That said, a number of my colleagues (10–20% if I had to make a crude guess) *do* share my concerns—and the ones that don’t are frequently immersed in unrelated research anyway.
 
@@ -61,7 +61,7 @@ Likewise, while it’s true that we have more hydrocarbons in the ground than we
 
 Not all “smart” people are handicapped by attraction to singularly clever ideas, obviously, and some are exceptionally talented at managing uncertainty and complexity. Even so, I believe the fixation on gnarly concepts to be a real phenomenon, and suspect that many of us share similar attractions to ideas that *just* fit in our minds.
 
-## Politicians are Victims to Us Idiots
+### Politicians are Victims to Us Idiots
 
 Leaving aside the prodigies among us, everyday people make choices and decisions based on personal needs and local conditions—without investing much time into researching the state of the world and future prospects as they relate to those same choices. In an ideal world, those whose attentions are focused on long-term challenges would help to chart a course for the rest of us to follow. These “smart” people—even if individually focused on an incomplete picture—would presumably collectively make some good decisions on behalf of society.
 
@@ -73,7 +73,7 @@ On the topic of climate change, Bill McKibben brought up some interesting points
 
 The result is that it **does not matter** whether the President, our Senators, or our Representatives personally accept and understand climate change or any other long-term threat to the status quo. Let’s pretend they are “smart” in this context. As long as giant buckets full of voters oppose action that would increase energy costs, require reductions of energy usage, or mandate greater efficiency, the (vote-conscious) politicians have their hands tied and their feet in a sack. So here’s our companion to the smart handicap: we get a dumb handicap too, keeping smart ideas from being implemented.
 
-## Political Paralysis
+### Political Paralysis
 
 I am at least as worried by this paralysis as I am about the path the future will take. I believe that an economy based on growth is on a collision course, being set on the stage of a finite and filling Earth. I believe this will manifest most sharply in the oil (liquid fuel; transportation) domain, but fossil fuels in general are also on the hook. And we face no shortage of other existential challenges associated with a growing population exerting pressure on atmospheric quality, water, agriculture, fish and species survival, etc.
 
@@ -83,7 +83,7 @@ Moreover, the recognition that a politician only needs to stoke the denial and l
 
 When we combine physical limitations with political ambition, natural aversion to a reduced standard of living, and a population insufficiently prepared to evaluate the fundamental problem, I can predict an unfortunate outcome.
 
-## Hobbled Reaction
+### Hobbled Reaction
 
 A unifying theme here is that people across the intellectual spectrum exert influence on our future. No one is smart enough to see all ends or anticipate the path to the future. Very smart people often disagree on fundamental issues, may get trapped into narrow yet compelling lines of argument, or refrain from prognosticating on account of a high degree of uncertainty. Meanwhile, ambitious people find it easy to manipulate public opinion to stymie action—especially when such action brings easily exposed short-term sacrifices.
 

@@ -27,7 +27,7 @@ Over timescales relevant to civilization (which began 10,000 years ago with agri
 
 Almost all of this explosive impact can be traced to fossil fuels, which I have started visualizing as a **suit** donned by humans that has given us literal **superpowers**. What would we be without our fancy suit?
 
-## It’s All Based on Fossil Fuels
+### It’s All Based on Fossil Fuels
 
 The fossil fuel suit epiphany was partly stimulated by recognizing that we have not built a single hydroelectric dam of any consequence *without* the aid of fossil fuels. No nuclear plants, wind turbines, or solar panels have been made without the bulk of the work (energy) required coming from fossil fuels. From mining to earth-moving to materials processing to transporting ingredients and final products, the renewable/alternative energy enterprise has been a fossil endeavor through and through.
 
@@ -41,7 +41,7 @@ To understand this, think about the usual method of creating electrical heat. To
 
 This view may be oversimplified, but I think it helps us understand the nature of the challenge, and why heating by burning is an *entirely* different animal—and much easier—than heating by electricity.
 
-## Without Fossil Fuels?
+### Without Fossil Fuels?
 
 What, then, is left when fossil fuels are more scarce? One possibility is a well ordered world in which sophisticated new technology maintains our modern capabilities in an utterly transformed way. This is probably the default assumption of most, but not a carefully examined one that can be easily supported based on current knowledge/evidence: owing in part to the grossly distorted perspective fostered by the fossil fuel age. The other world is one in which life gets tougher, high technology is harder to maintain, resource wars are the most obvious and common strategies to secure basic needs, and the resulting disruptions make it difficult to achieve the utopian vision of a high-tech future dependent on global supplies. Today’s energy-rich lifestyle may well turn out to be a privilege conferred by the fossil fuel suit, as if satisfying a dress code for the high-tech club. Once the enabling elixir is spent, we may be kicked out of the club.
 
@@ -49,7 +49,7 @@ While we can’t know the future, one thing we *can* do is ask what might be lea
 
 It is entertaining to muse about what we might not have today if fossil fuels had never been available or utilized. Would we have computers or lasers? Would we have skyscrapers or photovoltaics? Would we have understood nuclear energy or fundamental physics that relied on high-energy experiments? Would we even have bicycles? It is, of course, impossible to say with any certainty. But since all of these things first emerged *after* fossil fuels took hold, and built upon each other in ways that at least *had access* to the benefits of fossil fuels, it is plausible that most of what we see around us in the developed world owes its existence to fossil fuels. In fact, one might say that it is a much tougher case to argue the counterfactual that we would still have comparable technology today had fossil fuels not burst onto the scene.
 
-## Aren’t We Special?
+### Aren’t We Special?
 
 People tend to prefer the narrative that we, ourselves, are the superheros, and that our superpowers are not from the fossil fuel suit, but are cognitive in nature. Yet we have the same neural hardware (if not slightly downsized) as our prehistoric ancestors. The main cognitive revolution happened about 70,000 years ago when humans started to believe in things that do not exist (like spirits or potential future gains) that allowed large-scale coordination and shared identity to outcompete evolution’s more biophysical tricks of sharp teeth/claws, speed, strength, camouflage, poison, or overwhelming numbers. Global spread of homo sapiens and megafauna extinctions quickly followed, and it is at this point that the human experiment began to smolder: something was off. About 10,000 years ago, agriculture started and the fist visible flame ignited. About 300–400 years ago, the Enlightenment lit a fuse by developing a scientific approach to understanding the world. It was not long before the fuse found fossil fuels and we now witness the predictable explosion that ensued. The explosion is breathtakingly rapid on any meaningful timeline, only appearing in slow motion to the few generations experiencing the phenomenon and thus seeming “normal.”
 

@@ -17,7 +17,7 @@ You may be familiar with the term “hockey stick curve,” used describe a tren
 
 This post is structured as a gauntlet of hockey stick curves that may leave the reader feeling a bit bruised. Depending on what’s being plotted, many of the graphs shoot up like an exponential, but a few are careening downwards. A theme emerges: the “bads” go up, and the “goods” go down—and not by coincidence.
 
-## People and Money
+### People and Money
 
 We’ll start simply. Human population looks like a hockey stick curve. This is not a surprise to anyone. The fact is greeted with a range of reactions from joy to despair, but mostly simple acceptance. Whatever your disposition, here’s what it looks like.
 
@@ -43,7 +43,7 @@ Gross World Product on a per-capita basis.
 
 This, to me, is truly alarming from an ecological point of view: not only has the human population grown like gangbusters, but the level of affluence per person has soared by an even larger factor. The impact on our planet scales as the *product* of these two (essentially, the GWP curve from before).
 
-## Energy and Materials
+### Energy and Materials
 
 A similar story is visible in energy resources. Although the [data](https://ourworldindata.org/global-energy-200-years) for this plot starts in 1800, biomass provided a low-level baseline (roughly scaling with population) prior to this time. Yup: another hockey stick.
 
@@ -69,7 +69,7 @@ Because I don’t continue plotting per capita versions, you can confirm for you
 
 I don’t see much point in tracking down data for other mined materials like aluminum or lithium, or products like cement. (I could be accused of the unsavory crime of beating a dead horse—with hockey sticks) We would not expect anything but hockey stick curves to emerge from such an exercise—at least in broad-brush.
 
-## Pollution and Waste
+### Pollution and Waste
 
 So that’s a snapshot of resource use. What about pollution and waste? A very obvious form of pollution is CO₂, which is probably why most people have heard the term “hockey stick curve” to begin with. Here is the annual (not cumulative) emission of carbon dioxide due to burning fossil fuels.
 
@@ -87,7 +87,7 @@ Annual mass of discarded plastic; data from OWID
 
 Plastic was a little late to the landfill scene, but despite a monotonically growing recycled (and incinerated) fraction, the total amount of waste continues to climb like a mountain goat trying to escape its fleas.
 
-## Ecological Impacts
+### Ecological Impacts
 
 So what has all this bustle of activity done to the non-human biosphere? Are the squirrels happy with our progress? The first hint comes in the form of extinction rates. The background rate is expected to be about 0.1 extinctions per year per million species. For context, we estimate something like 10 million species that are alive today, so the background rate translates to a normal level of one extinction per year across the globe.
 
@@ -132,11 +132,11 @@ Old-growth forest cover as a fraction of global land area; data synthesized from
 
 It doesn’t look good: gone by the end of this century. How many animals and species do we consign to elimination as a result? Is the palm oil worth it?
 
-### More Where That Came From
+#### More Where That Came From
 
 This is not an exhaustive set of such curves. I spent less than one day scooping up data, plotting it and drafting the post. You can easily imagine other metrics that would have the same form: they’re everywhere we look. Hint: almost anything dealing with modern human activity is likely to realize the hockey stick shape. But I think I’ve landed enough blows to leave a lasting mark.
 
-## Sorting Good and Bad
+### Sorting Good and Bad
 
 Whatever model we have adopted for existing on this planet, it seems to be a poor choice. It appears to be on track to fail. The dream of eventually having 10 billion people living at American standards completely ignores the glaring fact that we seem to be circling the drain even at today’s impact level (i.e., overshoot). How could we possibly entertain the factor-of-five increase in resource demand that would accompany a realization of “the dream?” It seems delusional to me—and likely to turn into a nightmare if pursued.
 
@@ -158,7 +158,7 @@ What will it take to dowse the fuse, or shut off the roller coaster? How big of 
 
 \[See also a companion follow-on post: [A Climate Love Story](https://dothemath.ucsd.edu/2022/09/a-climate-love-story/).\]
 
-### Postscript
+#### Postscript
 
 On the day I posted this piece on [Do the Math](https://dothemath.ucsd.edu/), someone threw it onto [Hacker News](https://news.ycombinator.com/), where it got a fair bit of attention. As a result, the site statistics looked like the following:
 
@@ -168,7 +168,7 @@ Do the Math overall statistics for three weeks leading up to this post.
 
 I trust I need not explain how funny I think this is. I also have a fairly robust idea for how this curve will look a week from now. Just sayin’.
 
-### Post-Postscript
+#### Post-Postscript
 
 A week has gone by, and what did the graph end up doing? No surprise here (see below). Many of the hockey sticks in this post could end up like this—and those that deal with non-renewable resources *must*, ultimately.
 

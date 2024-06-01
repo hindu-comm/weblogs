@@ -18,7 +18,7 @@ The following is organized into three sections. The first takes a brief tour of 
 Rather than laboriously inserting associated graphics into this post, my intent is that you treat this as a companion to be used side-by-side with the [downloadable PDF](https://escholarship.org/uc/energy_ambitions) of the book.
 References are to sections, figures, boxes, etc. rather than page numbers, which vary between electronic and print forms. So go ahead and get a version of the PDF up, and let’s jump in…
 
-# Brief Tour of New Content
+## Brief Tour of New Content
 
 The Preface may be worth reading for overall framing and motivation. The middle part about student learning and approach to mathematics/problems might not be as worthwhile, but the beginning and end are likely of interest.
 
@@ -40,7 +40,7 @@ The Epilogue is completely new, and likely of interest to Do the Math readers.
 
 Appendix D is the most thoughtful Appendix. Of greatest interest will be D.3 on electric transportation, D.5 on the long view of human success, and D.6 on an evolutionary perspective regarding human intelligence and how that may or may not mesh well in the natural world.
 
-# Highlights of New Results
+## Highlights of New Results
 
 The following tidbits are arranged in chronological order, and for the sake of brevity only represent the more thought-provoking additions.
 
@@ -76,17 +76,17 @@ Chapter 20 works to frame individual adaptation and quantitative assessment of e
 
 Section D.3 in the Appendices represents a first attempt on my part to nail down the implications of electrified transport for shipping as well as personal transport. Part of the work was already done for Box 17.1 (airplanes), but I had never put pencil to paper on cargo ships or long-haul trucking. The results address the “why can’t we just…” musings on electrifying all transportation. It’s hard. Table D.2 is still new enough to me that I need to study it more and internalize it.
 
-# Big Stuff
+## Big Stuff
 
 Okay—that takes care of the nuts-and-bolts additions. What larger messages might emerge from the textbook that may not have been apparent in previous Do the Math content?
 
-## Life is Precious
+### Life is Precious
 
 Much of the focus of this blog, and of the textbook, is on energy and resources. But a consistent undercurrent advocates prioritizing nature above ourselves. See, for instance, the reference to Box 14.3 in the section above. Also, Box 19.1—in computing the monetary value of the planet—stresses the backwards way we assess value. We put the flea (economy) in charge of the dog (Earth), ignoring the important fact that the flea can’t live without the dog. An upcoming post will illustrate this theme in an absurd yet compelling manner.
 
 In the end, as the Epilogue wraps up, I try to encapsulate this in a message to the future (but not too soon to adopt the message now!!): **Treat nature *at least* as well as we treat ourselves**. It’s a partnership, and the health of the former is a prerequisite to the health of the latter.
 
-## Focus on the Long Term
+### Focus on the Long Term
 
 Chapters 18 and 19 discuss the limitations of short-term focus in the face of our challenges. Democracy and business interests tend to have a very short focus, making us vulnerable to the [Energy Trap](https://dothemath.ucsd.edu/2011/10/the-energy-trap/).
 
@@ -96,7 +96,7 @@ What would it take to achieve success? As spelled out in section D.5, almost not
 
 Section D.6 follows this up with musings on the role of human intelligence in an evolutionary context. My conclusion is that evolution tinkers, and is capable of producing a being that is too smart to succeed. We have the power to create our own failure, and take many species down with us. It’s time to “ask not” what we *can* do with our power, but what we *should* do to best ensure a long, rewarding existence in partnership with the rest of nature.
 
-## This Moment is Abnormal
+### This Moment is Abnormal
 
 Perhaps the most important message the new textbook can convey is that the abnormality of the last few centuries has turned us into the worst judges of future possibilities. Several times in the book, I compare the present era to a fireworks show: dazzling, awe inspiring, and a short-lived exception to “normal” activity. At least we can appreciate the aberration that a fireworks display represents by comparing it to a longer baseline: we have a broader context. Yet for those born and raised entirely *within* the fireworks show, it is easy to understand how their world view would be badly distorted.
 
@@ -108,7 +108,7 @@ I came to think as I put finishing touches on the textbook that if asked to pick
 
 A grounded understanding that our time is grossly abnormal in the long view is, I think, a necessary first step in snapping out of our current mindset, shaking off fantastical dreams, and getting to work defining and implementing a future that can actually work. It’s time to break the spell.
 
-### help spread the word
+#### help spread the word
 
 I am too close/biased to judge whether this book has enough intrinsic merit and appeal to “catch on” and reach a broad audience. But people will not give it a chance and instructors won’t adopt it for classrooms if too few people even know about it. Because I intentionally bypassed a for-profit publisher to make the book freely available, I lose the benefit of any publicity apparatus a publishing company might provide.
 So it’s down to “the people” to let others know of its existence.

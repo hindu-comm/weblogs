@@ -17,7 +17,7 @@ Our so-far dashed expectations seem incompatible with our sense of progress. Som
 
 I am sympathetic to delayed predictions, and the fact that fusion has failed to deliver on the promise that it’s “just around the corner” for decades does not mean that it will never arrive. I can compare this to Malthus’ insight that exponential population growth was on a collision course with finite agricultural capability, or to various warnings about collapse along the way. Just because the predictions have not yet been satisfied does not mean that they will not be someday. In fact, the two divergent predictions become related. If we can manage to hold it together this century and maintain a high-tech civilization during our forced transition off of fossil fuels, it becomes far more likely that we will get to the point of employing fusion. If, on the other hand, we overshoot and collapse, we may descend too far to viably pursue fusion this century.
 
-## Fusion by the Numbers
+### Fusion by the Numbers
 
 What’s fusion all about, anyhow? Let’s come at it with numbers. We saw in the post on nuclear fission that allowing a heavy nucleus like uranium to split into two comparable pieces resulted in the sum of the resultant masses being *less* than the initial mass. The missing mass emerges as (kinetic) energy according to *E=Δmc*², where *Δm* is the change in mass, and *c*≈3×10⁸m/s is the speed of light. In essence, some of the nuclear *binding energy* invested the heavy nucleus—which actually *reduces* the net mass of the nucleus—has been liberated.
 
@@ -39,7 +39,7 @@ Compared to fission, where each split releases about 200MeV of energy, it might 
 
 On a *per mass*, or *per nucleon* basis, fusion wins hands-down: one gram of deuterium results in 10¹²J of energy, or 275 *million* kcal. Fission gives a comparatively small 20 million kcal per gram of ²³⁵U. So fusion is over ten times as potent. Keep in mind that chemical energy like that in fossil fuels is capped around 10kcal/g. Note the conspicuous absence of the word *million*. On the energy scale, then, nuclear in *either* form is outrageously more potent than chemical energy.
 
-## Fusion Fuel Options
+### Fusion Fuel Options
 
 The two fusion schemes for which we can produce the requisite fuel are D-D and D-T, involving deuterium and/or tritium. Deuterium comprises 0.0115% of natural hydrogen, and is thus abundant in anything containing hydrogen—e.g., water. Tritium, on the other hand, is virtually non-existent in the natural world because it is unstable and decays with a half-life of 12.3 years. But as it happens, the requirements on D-T fusion are less impossible than for D-D, so all current efforts are focused on a technique for which there is **no natural resource available.**
 
@@ -72,7 +72,7 @@ For fun, let’s look at how much water each person needs to supply each year to
 
 I think now you’re seeing a big part of the reason why fusion makes our eyes sparkle. Even given lithium limitations, I place D-D and D-T fusion in the “abundant” box.
 
-## What Makes Fusion Hard
+### What Makes Fusion Hard
 
 A simple obstacle stands between us and fusion. It’s called the **Coulomb barrier**. Protons hate to get near each other, on account of their mutual positive charge and concomitant electrostatic repulsion. And they must get *very* close—about 10⁻¹⁵m—before the strong nuclear force overpowers Coulomb’s vote. Even on a perfect collision course, two protons would have to have a closing velocity of 20 million meters per second (7% the speed of light) to get within 10⁻¹⁵m of each other, corresponding to a temperature around 5 billion degrees! Even if the velocity is sufficient, the slightest misalignment will cause the repulsive duo to veer off course, not even flirting with contact. Quantum tunneling can take a bit of the edge off, requiring maybe a factor of two less energy/closeness, but all the same, it’s frickin’ *hard* to get protons together.
 
@@ -84,7 +84,7 @@ But there’s a catch. As soon as D and T touch, they stick together.
 Conversely, when D touches D, a photon (light) must be emitted in order for them to stick, which doesn’t usually happen. It is therefore said that D-T has a greater **cross section** for fusion than D-D.
 [Estimates for the critical temperature](http://hyperphysics.phy-astr.gsu.edu/hbase/nucene/coubar.html "hyperphysics from GSU") required to achieve fusion come in at 400 million Kelvin for D-D fusion, and 45 million K for the D-T variety. But these temperature thresholds depend on the density of the plasma involved, so should not be taken as hard-and-fast. Still, we need our fusion reactors to be hotter than the center of the Sun because we do not have the luxury of volume and density that the solar core enjoys. Does this fact give you pause?
 
-## Confinement
+### Confinement
 
 Overcoming the Coulomb barrier requires enormous kinetic energies of the particles, translating into enormous temperatures—well beyond any container’s ability to hold. No material resists melting above a mere 5000K. 50 million degrees is not even funny.
 
@@ -94,7 +94,7 @@ The main scheme being pursued in the world today is magnetic confinement in a pl
 
 The other primary scheme gives up on trying to confine the plasma in some steady state, instead following a path similar to the philosophy behind fusion bombs: force an implosion of the fuel to extraordinarily high densities and temperatures, and let the cursed thing *explode*. This scheme goes under the name **inertial confinement**, since one relies on the inertia of the implosion to bring nuclei close together. In the U.S., the National Ignition Facility (NIF) focuses 192 high-power laser beams onto a small pellet to initiate a symmetric crunch. The idea for a power plant would be that pellets are loaded one after the other, detonated, and the effluent heat collected to make steam. As far as I know, there is no current plan to harness any heat generated at the NIF—being experimental, like ITER.
 
-## Flies in the Ointment
+### Flies in the Ointment
 
 The ITER experiment, if it adheres to its schedule and projected budget, will cost something like \$20 billion to build and produce pops of unharnessed thermal power by 2026. I should note that most large experimental projects have slipping schedules, and it would be a fantastic irony if a *fusion* experiment violated this trend! In any case, we could imagine *another* several decades before commercial fusion tentatively steps onto the scene, putting us at mid-century. The projects will undoubtedly be very expensive, require intimate involvement of the highest level of expertise, and will likely not catch on in a big way until investors see a track record of profitability—if that ever comes to pass. So that’s fly number one: we’re looking at very long term.
 
@@ -108,7 +108,7 @@ Another possible fly is that the superconducting magnets used to generate the ex
 
 Each fly translates into cost. In the end, it is unclear whether a fusion plant—even after the physics is tamed—would be economically viable, and attractive enough for investors to take on endeavors of this scale, complexity, and risk.
 
-## A Solar Perspective
+### A Solar Perspective
 
 A few days after watching a television show on fusion, I had an epiphany while walking to the bus. Why are we enamored with fusion? Because the fuel supply is virtually unlimited; the energetics represent the epitome of what physics has to offer; the primary emission is useful helium; the radioactive waste is shorter-lived than for fission (damning with faint praise?); fusion plants could presumably be sited anywhere; surely it’s one step closer to warp drive. But then I realized that the Sun (being its own fusion reactor) also provides billions of years of energy, well in excess of our current demand. And my refrigerator and other appliances *already* are run by this source in a modest PV/battery installation at my home. I personally can’t ignore the asymmetry between the promise of future technology and technology that sits on my roof! If we removed the storage barrier for solar, would fusion still be viewed as the holy grail?
 
@@ -120,7 +120,7 @@ I can only muse about the appeals of fusion over solar. I think area is one: fus
 
 Naturally, it’s not an all-or-nothing proposition. I support research whatever the direction. But I want to make sure we aren’t falling victim to irrational hangups and expectations. We at least need to evaluate this notion: to know ourselves. One may object that I’ve simply replaced one holy grail (fusion) for another (storage). Which one is voted more likely to succeed?
 
-## Fusion Prospects
+### Fusion Prospects
 
 No one can truly say whether we will achieve fusion in a way that is commercially practical. If teams of PhDs have spent over 60 years wailing on the problem while spending tens of billions of dollars, I think it’s safe to use our fusion quest as the *definition* of **hard**. It’s a much larger challenge than sending men to the Moon. We have no historical precedent for an arduous technological problem on this scale that ultimately succeeded to become a ho-hum commercial reality. But for that matter, I don’t think we have any precedent for something on this scale that has failed. In short, we’re out of our depths and can’t be cocky about predictions in either direction.
 

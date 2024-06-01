@@ -13,7 +13,7 @@ After inaugurating the [Do the Math](https://dothemath.ucsd.edu/) blog with two 
 
 To borrow a word from a comment on the Do the Math site, I’m *gobsmacked* by how prescient some of the statements and reflections in the book are. Leaving aside remarkably good agreement in the anticipated world population and CO₂ levels thirty years out (**can’t fake this**), I am amazed that many of the thoughts and conclusions I have formed over the past several years are not at all new, but were in black-and-white shortly after I was born.
 
-## Cornucopian Contrast
+### Cornucopian Contrast
 
 This post will provide many extended quotes from *The Limits to Growth*, the first of which are themselves quotes within the book, appearing on page 130 (all page references are based on the second edition, printed in 1974). I include these external quotes to contrast the so-far-so-good track record of *The Limits to Growth* in terms of providing a credible framework for how things unfold.
 
@@ -29,7 +29,7 @@ Next, we have R. Buckminster Fuller saying in 1967:
 
 I’m just pointing out to those who discount the credibility of rocky-future warnings based on repeated “failures” of such warnings to materialize, that there is perhaps a greater preponderance of hallucinatory hubris that also fails to materialize. We should approach projections of the future with humility. We should realize that there really is something special about these past few centuries (the one-time fossil fuel joy-ride), and admit that we don’t have a consensus model for what happens next. Only then can we be smart in our preparation for the unknown.
 
-## The Model Outcomes
+### The Model Outcomes
 
 Back to *The Limits to Growth* and the sobering analysis within.
 
@@ -43,7 +43,7 @@ Various runs under differing assumptions about the future were used to crudely m
 
 Almost independent of the scenario, the models tended to result in a declining standard of living by the end of this century—the “standard run” crashing as soon as 2020. This generic result was robust even when doubling the amount of assumed resources, aggressively recycling materials, aggressively controlling pollution, substantially increasing agricultural productivity per unit area, *and* implementing “perfect” birth control (no unplanned/unwanted children). **All** of these acting **together** *still failed* to stave off a downturn. Only by imposing strict policy changes to *force* zero population growth *and* zero growth in industrial output could they produce a stable outcome. Over the decades, increased data and model sophistication have not changed the basic modal behaviors exhibited by World3. Moreover, a [comparison of three decades of data](https://web.archive.org/web/20080824035207/http://csiro.au/files/files/plje.pdf "Graham Turner's data comparison to LTG (PDF)") against the standard run model from 1972 shows impressive fidelity thus far.
 
-## Might As Well Be Peanut Butter
+### Might As Well Be Peanut Butter
 
 Those unfamiliar with computer modeling might easily dismiss this result. A neighbor, learning that I am an astrophysicist, once grumbled to me that he just read about astrophysicists who had used a computer model to “prove” that neutron stars were made of matter in a state similar to that inside an atomic nucleus. “Heck, I could program my computer to tell me that these stars are made of peanut butter, and that’s exactly what it would do,” he boasted. I didn’t bite: good fences make good neighbors.
 
@@ -51,7 +51,7 @@ Those who understand that such models involve defining the fundamental interacti
 
 But those in the know are also aware of the “garbage in, garbage out” pitfall: that unrealistic initial conditions and/or model dynamics can render the output meaningless. While I can’t personally vouch for the viability of the World3 model—it does, after all, have to cut corners in modeling something as complex as global human activity—I can offer my take based on my limited exposure.
 
-## Model Insights
+### Model Insights
 
 First, although not the most important aspect, the researchers earned my respect in describing their approach and attitudes. They come across as honest scientists trying to do the best, most realistic job they could in getting the story right. They were careful to explain assumptions, disclose the limitations of their approach, and gave the model every chance to find Utopia. I got the impression that they were shocked and dismayed by the stark and universal outcome of their scenarios.
 
@@ -65,9 +65,9 @@ A particularly apt analogy from the book paints this picture nicely (p. 144):
 
 > Delays in a dynamic system have serious effects only if the system > itself is undergoing rapid change. Perhaps a simple example will > clarify that statement. When you drive a car there is a very short, > unavoidable delay between your perception of the road in front of you > and your reaction to it. There is a longer delay between your action > on the accelerator or brakes and the car’s response to that action. > You have learned to deal with those delays. You know that, because of > the delays, it is unsafe to drive too fast. If you do, you will > certainly experience the overshoot and collapse mode, sooner or later. > If you were blindfolded and had to drive on the instructions of a > front-seat passenger, the delay between perception and action would be > considerably lengthened. The only safe way to handle the extended > delay would be to slow down. If you tried to drive your normal speed, > or if you tried to accelerate continuously (as in exponential growth), > the result would be disastrous.
 
-## 
+### 
 
-## A Simple Delay/Overshoot Model
+### A Simple Delay/Overshoot Model
 
 I had to see this for myself in a simple model. So I inserted a delay mechanism into the negative feedback portion of the differential equation describing the logistic curve. This is the standard S-shaped curve followed, for instance, by a population adapting to a fixed rate of nutrient input. We often think of the logistic curve in terms of population, but it could also represent standard of living, energy production, agricultural output, or other quantities that we might think (or hope) will stabilize at some equilibrium value in the future. In general, we will denote the amount (of whatever) at time, *t* as *A*(*t*).
 
@@ -83,7 +83,7 @@ The figure above shows the result of adding various delays, *τ*. The black curv
 
 Let’s be clear that I do **not** claim this to be a model of our future! It’s a simple demonstration of the generic effect delays have in what would otherwise be logistic behavior. There are all kinds of reasons behavior may not be logistic. If a population explosion of rabbits overgrazes the available land, erosion may result, removing topsoil vital to the support of growing back the resource. The act of overshoot can therefore reduce the ultimately sustainable value (in contrast, the model above converges to 1.0 in all cases). Likewise, overtaxing agricultural lands results in soil loss, increased salinity, and/or desertification, reducing the overall carrying capacity of the land. Also, who is to say that we can achieve level energy usage? A failure to implement replacements for fossil fuels at a grand scale could deny us an energy operating point as high as we enjoy today.
 
-## Faith in Technology
+### Faith in Technology
 
 Many of us are technological optimists, and have faith that we will cleverly craft our way out of a bad situation when the need drives us—as we have often done in the past. But to the extent that we need social changes—like a steady state economy, truly sustainable attitudes, or a paradigm shift from a generations-old mentality centered on growth—we may find it difficult to adapt in time. The *Limits to Growth* authors say (p. 148):
 

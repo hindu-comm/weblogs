@@ -20,7 +20,7 @@ I will use the term modernity throughout, but personally am willing to substitut
 
 The term “anthropocene” is often used to describe the modern age. This is meant to delineate a new geological era dominated by the presence of humans on the planet. The idea has definite merit, given the overflowing presence of humans on the planet and our devastating impact on climate and biodiversity. My main beef with the anthropocentric term is that I wonder if it makes sense to give an era (or epoch) name to something that may be over as quickly as it started. We don’t have a name for the era between the Mesozoic and Cenozoic marked by the chaotic period in the aftermath of the comet impact 66 million years ago. Likewise, this disruptive moment may simply delineate two eras, while the disruption itself is brief enough to appear like the thin black layer in the rock between two periods. In any case, this post will partly lean on this human-dominance aspect in assessing inevitability.
 
-# Defining Modernity
+## Defining Modernity
 
 In establishing what we mean by modernity, a real scholar might diligently comb the literature for previous definitions and perhaps synthesize some coherence out of what is bound to be a heterogeneous mess. But where’s the fun in that? Let’s see what we can do shooting from the hip.
 
@@ -48,19 +48,19 @@ Let’s try to build a list of modernity’s attributes. These aren’t definiti
 
 If I did this right, then all of these describe the present state of modernity, but would not as easily apply to traditional Indigenous ways of living, or to the ways of plants and most animals on the planet (some do practice agriculture). I was deliberately careful about technology, as many other animals make and employ tools. I sought a rough dividing line between the kinds of stone-and-wood tools of prehistory and “modern technology.”
 
-## Optional Elements?
+### Optional Elements?
 
 So here’s the thing: while it *may* be possible to maintain modernity without one or a few of these items (which are not independent, by the way), we know that these elements *are* a part of modernity. We lack evidence that modernity functions without having all of these in place.
 
 We also don’t know if any of these elements are tolerated by the planet for the long term. We know that their *absence* in human cultures were tolerated for hundreds of thousands of years. Their introduction over the last few millennia kicked off an accelerating experiment that hasn’t really been around that long and may soon self-terminate due to spiraling ecological harm or other planetary limits.
 
-## Long-term Compatibility
+### Long-term Compatibility
 
 What I am ultimately interested in is identifying activities that can be maintained indefinitely. I think it is obvious to most people at this point that the present prescription won’t cut it. Lots will have to change if we want to keep a livable ecosphere. For many, this awareness is primarily associated with climate change. Clearly, cooking the planet is an unsustainable plan, but would elimination of fossil fuels in favor of renewable energy technologies solve the problem and allow a continuation of modernity? Is modernity itself capable of persisting, given the right technologies? As I’ll elaborate in the next post, I would say: no.
 
 In the end, anything that mounts cumulative damage to biodiversity and ecosphere health is probably out of bounds. Most, if not all, of the items on the list above answer “guilty” on this count—unless they have lawyers. Thus, all of the elements are potentially problematic (more on this in the next post). Even eliminating any one of these might cripple modernity, but if all are problematic, well…modernity does not stand much of a chance.
 
-## Pre-modern technology
+### Pre-modern technology
 
 What about earlier technologies, like fire, arrowheads, stone axes, etc.? Where is the line between technologies that are okay vs. not okay for long-term living on the planet?
 
@@ -68,11 +68,11 @@ It is *possible* that *all* of these are over the line, ultimately—that Homo s
 
 Well, if that’s true, then so be it: nothing for us to do except ride out the evolutionary game in shame. But I’ll operate on the more hopeful assumption that humans are *capable* of long-term life on the planet, bolstered by evidence from the distant past. The ecosphere is never in equilibrium, but until the dawn of agriculture, human impacts on the planet were slow and largely accommodated by the rest of the community. Yes, megafauna extinctions cropped up as a result of migrations into areas that did not experience co-evolution with humans. But that’s part of what can happen in the great game, by the usual rules. Humans are not unique in this sense.
 
-## Eliminate One?
+### Eliminate One?
 
 If I had to pick one item to eliminate on the list above in order to achieve a sustainable existence, it would be the sense of human transcendence ([supremacy](https://dothemath.ucsd.edu/2022/02/human-exceptionalism/)). Armed instead with humility and a respect for limits, we would either automatically eliminate other items on the list—seeing their folly—or we would approach such things in utterly different ways, cognizant of their negative impacts. Would (or could) the result still resemble modernity? It’s hard to say, but I struggle to see it. This would be a world of deliberate restraint, of aversion to exploitation of the natural world. Can one have a smart phone in such a world? Or does the only route to a smart phone run through an exploitative disregard for the natural world? Again, we lack evidence to suggest it could be otherwise. And while it’s no great feat to *imagine* something might be possible, practical reality may express its own opinion.
 
-# Inevitability
+## Inevitability
 
 Let’s now turn to the question of whether modernity *had* to develop. For me, the start of agriculture marks the most important break with earlier ways, setting the stage for modernity. I say this largely because of the speed with which things changed once agriculture had taken root. It took only several thousand years for the “technology” of agriculture to explode into modernity, whereas fire, for instance, has been used by humans for over a million years without a similar result.
 
@@ -102,7 +102,7 @@ Extrapolations are fun and all, but could human population have ever actually re
 
 I think of the process on entropic grounds. An ensemble is free to explore all energetically-possible states. It’s how we learned the uses of various herbs and medicinal plants: people try stuff. It’s not purely random, though, like monkeys accidentally banging out Hamlet. Advantages are kept, and disadvantages discarded in a systematic process that self-reinforces.
 
-## Modernity without Fossil Fuels?
+### Modernity without Fossil Fuels?
 
 Given this framework, I would say that the employment of fossil fuels was essentially inevitable, given their availability. But what might have happened had Earth not been endowed with fossil fuels? Would we still have modernity?
 
@@ -112,7 +112,7 @@ Obviously, I would be foolish to claim that we would have reached the *same* pla
 
 Of course, we *do* have fossil fuels, and the effect has been to super-charge modernity and create a [population surge](https://dothemath.ucsd.edu/2022/12/finite-feeding-frenzy/) that puts the entire planet in danger.
 
-# Conclusion
+## Conclusion
 
 Was modernity inevitable? We could play a lot of “what if” games: what if fossil fuels were not generated on Earth; what if the stability of the Holocene had not presented itself; what if humans had not evolved; what if the comet had not hit Earth and killed off the dinosaurs? While I poked into the first question above, I’m most interested in the world as we find it: one with humans and no dinosaurs; one enjoying a stable climate period; one loaded with fossil fuels. Given that particular chess board, is something like the game we see playing out around us essentially inevitable? I tend to think so.
 

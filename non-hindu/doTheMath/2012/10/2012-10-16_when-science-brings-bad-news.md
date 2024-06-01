@@ -15,7 +15,7 @@ I think for many people in our society, personal contact with science is limited
 
 So let me take a moment to explain science as I have come to understand it. (You can [skip](#beyond-science) if you already have a firm grip.)
 
-## The Scientific Method
+### The Scientific Method
 
 The best description of the scientific method I have ever seen is from a conceptual physics [textbook by Hobson](http://books.google.com/books/about/Physics.html?id=j9cLQgAACAAJ "Hobson: Physics Concepts and Connections textbook"). Paraphrasing:
 
@@ -27,7 +27,7 @@ Meanwhile, science fair projects across the nation—under the advisement of tea
 
 I can’t pass up the opportunity to share with you the “best” high school science fair project I ever saw (when I was myself a student participant in the fair—and no, it was not *my* project): “Does light travel through the dark?” Setup: light-tight cardboard box painted black on the inside; flashlight shining through a hole in one end; a peephole in the other end to see if the light made it. Any guesses?
 
-## A Hungry Snake
+### A Hungry Snake
 
 What is so special about science is that it is *constantly trying to tear itself apart*, like a snake eating its tail. While such an action may not actually make a *snake* stronger, it *does* make science stronger.
 
@@ -39,7 +39,7 @@ I think this surprises non-scientists, who might perceive the scientific establi
 
 \[Late addition: Lest I convey a slanted view of scientists, I should also point out that scientists are almost universally driven by **curiosity**, a spirit of exploration, and are in it because discovery and understanding are *fun*.\]
 
-## What Holds it Together?
+### What Holds it Together?
 
 So with all these scientists itching to overturn the applecart, why isn’t the whole enterprise in a woeful state of chaos? Why do we see headlines about consensus views? Do I even know what I’m talking about?
 
@@ -51,7 +51,7 @@ So years of professional training and research experience, reading and writing j
 
 I’ve known several scientists who jumped onto global warming confident that they could bring a wrecking ball to the hype and expose mistakes in analysis, data, or interpretation—only to find that the thing is much more robust than they imagined at first. They generally change their tune after personally experiencing the weight of evidence. I am not claiming that every detail is wrapped up, or that there is no chance that the whole story may unravel someday. But the odds get slimmer with every failed attempt.
 
-## Emergent Robustness
+### Emergent Robustness
 
 The result of all this scheming is a sort of scientific Darwinism. Prominent new theories stand out as bigger prizes for the taking, attracting more gunfire. Every failed shot gives the theory more strength, feeding a cycle of continued challenge. In the process, more experiments are conducted and the mountain of data grows. Eventually, exhausted scientists cease fire, and start working with the theory as a useful and as-far-as-we-know accurate description of nature, often providing a stepping stone to explore new frontiers. One upshot is that the emerging consensus does not come easily. Meanwhile, *some* scientists will continue to probe the foundations of all the important theories in the high-stakes game of seeking ultimate truth.
 
@@ -59,13 +59,13 @@ Very rarely, revolutionary ideas *do* prevail, but generally in a way that prese
 
 I like to say that physicists did not gleefully adopt quantum mechanics, general relativity, or ghostly neutrinos because they were eager for the novelty, or thought the idea just sounded really cool, or deferred to some authoritative figure (like Einstein) whose opinions on such matters were not to be questioned. Rather, ideas of this sort were *forced down the throats* of fussy physicists who didn’t *want* to adopt these strange notions. And it is the tight agreement between theory and experiment that does the throat-cramming.
 
-## Is it Truth?
+### Is it Truth?
 
 It would be too strong a statement to claim that science achieves **truth**. But truth is certainly the aim, and at the very least science achieves an admirable level of [Truthiness](http://en.wikipedia.org/wiki/Truthiness "Colbert's invention"). Perhaps it is sufficient to say that science provides us with the best version of the truth we are currently capable of realizing.
 
 All the same, science is never written in stone: it cannot become religious dogma. It’s only as good as the observations that support it, and the door is always open to new observations and new interpretations. So we can never call it Truth with a capital “T.” It’s just a whole heck of a lot better than anything we could spout from the comfort of our armchair—being vetted by nature and experiments.
 
-## The Good, the Bad, and the Jerk Called Science
+### The Good, the Bad, and the Jerk Called Science
 
 The preceding exposition serves to emphasize the fact that science builds into itself a level of objectivity despite depending on the efforts of subjective practitioners. Science therefore acquires a certain indifference, exercising little in the way of value judgments. It’s jerky that way.
 
@@ -94,7 +94,7 @@ And it’s what this ornery uncle has to say about our future that makes me sit 
   that may wreak havoc on crops and the interconnected web of species on
   the planet.
 
-## Burn the Observatory
+### Burn the Observatory
 
 So my main question is: how will the public react to grumpy Uncle Science as the message pivots away from telling us about all the amazing things that *are* possible to detailing why some of our dreams are *not* possible? As our planet “fills up,” the balance will certainly shift—as it has begun to do already—to the negative side effects and to pointing out practices that cannot continue without dire consequences.
 

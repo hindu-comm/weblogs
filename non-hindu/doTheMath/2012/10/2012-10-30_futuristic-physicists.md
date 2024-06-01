@@ -15,7 +15,7 @@ www.dvdtoponline.com
 
 One day, sitting around with a group of undergraduate physics students, I listened as one made the bold statement: “If it can be imagined, it can be done.” The others nodded in agreement. It sounded like wisdom. It took me all of two seconds to violate this dictum as I imagined myself jumping straight up to the Moon. I may have asked if the student really thought what he said was true, but resisted the impulse to turn it into an impromptu teaching moment. Instead, I wondered how pervasive this attitude was among physics students and faculty. So I put together a survey and in this post report what I found. The overriding theme: experts say don’t count on a Star Trek future. Ever.
 
-## The Survey
+### The Survey
 
 First, we’ll take a look at the questions in the survey. If you want to try it for yourself before being tainted with results, I have set up a separate survey at SurveyMonkey that you are welcome to try. If you’re reading this post on Do the Math (the *original source*), please identify yourself as a Do the Math reader when you [fill out the survey here](https://www.surveymonkey.com/s/2ZC6RD9 "SurveyMonkey futuristic survey").
 
@@ -35,7 +35,7 @@ Note that answers 5 and 6 qualify as pessimistic: probably not *ever*. Answer 4 
 
 Okay; here is the set of twenty questions:
 
-### What do you think is the likelihood that humans can:
+#### What do you think is the likelihood that humans can:
 
 1.  Have widespread personal transport that can replace the task of
     driving with a fully-automated piloting system (auto-pilot)? 2.  See jet-packs as practical transportation devices on a daily basis? 3.  Carry out the bulk of transportation in personal flying machines,
@@ -65,7 +65,7 @@ Okay; here is the set of twenty questions:
     species? 20. Substantially eliminate disease and block aging so that we may
     routinely see lives exceeding 200 years?
 
-## Who’s the Expert?
+### Who’s the Expert?
 
 I will be using the term “expert” to distinguish the level of knowledge/experience within the physics discipline. But don’t take the term too literally. There is no such thing as an expert on warp drive or teleportation—outside of geeky fan clubs, where one might find full blueprints of imaginary spaceships. But if you sought an opinion on the possibility or likelihood of these futuristic ideas having a chance of being realized (and on what timescale), what sort of expert might you seek?
 
@@ -75,7 +75,7 @@ And which academic department would you visit to query about teleportation, arti
 
 I invited physics faculty at a handful of top-20 schools across the U.S. (using graduate program rankings from the [US News and World Report](http://grad-schools.usnews.rankingsandreviews.com/best-graduate-schools/top-science-schools/physics-rankings "US News & World Report physics grad program rankings")) to participate in the anonymous survey. I promised that neither they nor their institutions would be revealed. I also invited physics graduate students and physics undergraduates to contribute, so that I could track attitudes as a function of age, expertise, or selected path in life.
 
-## Graphical Results
+### Graphical Results
 
 We’ll pick apart the results in a variety of ways. First, let’s get a look at all the questions in turn.
 
@@ -139,7 +139,7 @@ What about an actual **close encounter** with an alien? First piece of advice: d
 
 Finally, what can we expect in terms of **aging**? Will we solve the problem and extend life to 200 years or more? Almost no one says “impossible.” Students are nearly identical in outlook, expecting this to be common within 500 years, but not in time for them personally. Faculty think it will be much longer than this, but 84% think it will ultimately happen. It is worth pointing out that this question is perhaps less in the domain of physics than most of the other questions.
 
-## Group Attitudes
+### Group Attitudes
 
 Group-wise, a somewhat predictable trend emerges—reflected by the “expert gradient” seen in many of the individual answers.
 
@@ -147,7 +147,7 @@ Group-wise, a somewhat predictable trend emerges—reflected by the “expert gr
 
 The median answer goes from 3.4 to 3.7 to 4.0 for undergrads through faculty: a steady progression toward more guarded outlooks. Meanwhile, we see a less steady progression of the mean—more clearly separating faculty from students—but still conveying the same overall story. Note the optimistic outlier in the faculty ranks. We saw this individual stand out on the wormhole question. Examining this person’s responses, it’s all 1, 2, and 3 responses, save one 4 for time travel. Nothing is off limits to this professor, and most things deserve a timescale. This individual is clearly out of step with the cohort, and tying the most optimistic undergrad: forever young.
 
-## Expert Gradient and Biggest Dissimilarities
+### Expert Gradient and Biggest Dissimilarities
 
 Most questions show the “expert trend,” wherein the median, mean, and percent pessimistic increase with level, often accompanied by decreasing standard deviation.
 
@@ -157,7 +157,7 @@ The biggest differences between faculty and grad students crop up on questions p
 
 Meanwhile the jetpack and time travel questions have the most similar statistics.
 
-## Expert Opinion, Summarized
+### Expert Opinion, Summarized
 
 The table below is organized in rank order according to median opinion among physics faculty members. Within each group sharing the same median, the mean is used as the sorting metric. Columns are given for the mean and percentage of pessimistic responses, followed by a verbal characterization of what the median expert says in response to the question. In cases where the mean is between 1–3, a timescale conversion is offered for the mean opinion.
 
@@ -179,7 +179,7 @@ So it appears to me that the respondents to the survey were doing more than extr
 
 Indeed, physicists get into the game motivated by the thrill of exploration and discovery in one of the few remaining frontiers. There is no selection effect for attracting pessimistic downers. Probably the opposite, in fact. Most are fans of science fiction at some level—at least to the point of having positive feelings toward classics like Star Trek and Star Wars. Despite this, their physics-informed opinions don’t paint those genres as likely future paths for us.
 
-## Escapism Won’t Help Us
+### Escapism Won’t Help Us
 
 A primary motivation for my performing this survey stemmed from a sense that un-allayed optimism (“If it can be imagined, it can be done”) is *detrimental* to our successful navigation of the challenges foisted upon us this century. I perceive that a pervasive attitude in our society is that “we’ll solve any big problem that comes our way: we’ve got brilliant scientists working on it.” I would bet that most members of our society would put us living on the Moon and Mars within a few hundred years. I think they would be shocked to learn that the experts largely disagree.
 

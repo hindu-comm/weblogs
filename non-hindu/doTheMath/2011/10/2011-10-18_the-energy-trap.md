@@ -19,7 +19,7 @@ When I first encountered the concept of peak oil, I was most distressed about th
 
 I still consider economic panic to be a distinctly possible eventuality, but psychology can be hard to predict. Market optimists would see the tremendous investment potential of a new energy infrastructure as an antidote against such an outbreak. Given this uncertainty, let’s shy away from economic prognostication and look at a purely physical dimension to the problem—namely, the Energy Trap.
 
-## Energy Return on Energy Invested
+### Energy Return on Energy Invested
 
 Our goal will be to quantitatively assess the Energy Trap, and see if there is any substance to the idea. We will rely on a concept that has acquired a central role in evaluating our energy future. This is **energy return on energy invested**, or **EROEI**.
 
@@ -29,7 +29,7 @@ In its early days, oil frequently yielded an EROEI in excess of 100:1, meaning t
 
 To round out the introduction, coal typically has an EROEI around 50–85:1, and natural gas tends to come in around [20–40:1](http://www.theoildrum.com/node/3673 "Friese, 2008"), though falling below the lower end of this range as the easy fields are depleted. Meanwhile, solar photovoltaics are estimated to require [3–4 years’ worth of energy output](http://www.nrel.gov/docs/fy04osti/35489.pdf "NREL study results") to fabricate, including the frames and associated electronics systems. Assuming a 30–40 year lifetime, this translates into an EROEI around 10:1. Wind is estimated to have EROEI around [20:1](http://www.theoildrum.com/node/1863 "Kubisewski & Cleveland, 2006"), and new nuclear installations are expected to come in at approximately [15:1](http://www.theoildrum.com/node/3877 "Powers & Hall, 2008"). These are all positive net-energy approaches, which is the good news.
 
-## The Inevitable Fossil Fuel Decline
+### The Inevitable Fossil Fuel Decline
 
 Let’s explore what happens as we try to compensate for an energy decline with an alternative resource having modest EROEI. On the upslope of our fossil fuel bonanza, we saw a characteristic annual growth rate of around 3% per year. The asymmetric [Seneca Effect](http://cassandralegacy.blogspot.com/2011/08/seneca-effect-origins-of-collapse.html "Ugo Bardi: Cassandra's Legacy") notwithstanding, a logistic evolution of the resource would result in a symmetric rate of contraction on the downslope: 3% per year. I borrow a graphic from the [post on the meaning of “sustainable”](https://dothemath.ucsd.edu/2011/10/sustainable-means-bunkty-to-me/ "Do the Math: Sustainable Means Bunkty to Me") to illustrate the rationale for expecting an era of decline for a one-time finite resource.
 
@@ -39,7 +39,7 @@ On the long view, the fossil fuel age is a blip, with a down side mirroring the 
 
 We could use any number for the decline rate in our analysis, but I’ll actually soften the effect to a 2% annual decline to illustrate that we run into problems even at a modest rate of decline. By itself, a 2% decline year after year—while sounding mild—would send our growth-based economy into a tailspin. As detailed in [a previous post](https://dothemath.ucsd.edu/2011/07/can-economic-growth-last/ "Do the Math: Can Economic Growth Last?"), across-the-board efficiency improvements cannot tread water against a rate as high as 2% per year. As we’ll see next, the Energy Trap just makes things worse.
 
-## Arresting the Decline: Take 1
+### Arresting the Decline: Take 1
 
 Let’s say that our nation (or world) uses 100 units of fossil fuel energy one year, and expects to get only 98 units the following year. We need to come up with 2 units of replacement energy within a year’s time to fill the gap. If, for example, the replacement:
 
@@ -58,7 +58,7 @@ Another aspect of the trap is that we cannot **build** our way out of the proble
 
 We can mess with the numbers to get different results. If only half the total energy invested is up-front, and the rest is distributed across the life of the resource (mining and enriching uranium, for instance), then we take a 4% hit instead of 8%. Likewise, a 40-year windmill at 20:1 EROEI and full up-front investment will require 2 years of its 2-unit gap-filling contribution to install, amounting to an energy cost of 4 units and therefore a 4% hit. It’s still bigger than the do-nothing 2%, which, remember, is *already a source of pain*. Anyone want to double the pain? Anyone? Elect me, and that’s what we’ll do. Any takers? No? Wimps.
 
-## Ramp It Up!
+### Ramp It Up!
 
 It is unrealistic to imagine that we could jump into a full-scale infrastructure replacement in one year. To set the scale, the U.S. uses about 3TW of continuous power. A 1% drop corresponds to 30GW of power. Our modest 2% replacement therefore would require the construction of about 60 new 1GW power plants in a single year, or a rate of one per week! Worldwide, we quadruple this number.
 
@@ -66,7 +66,7 @@ What capability have we demonstrated in the past? In 2010, global production of 
 
 I am being cavalier about comparing the thermal energy in fossil fuels to electricity delivered (factor of 3 in heat engine), but I more-than-compensate by not incorporating the large intermittency factor for wind and solar (factor of 4–5). For nuclear, expressing the replacement in terms of displaced fossil fuel makes for fair play. But in the end, this point only addresses realistic rates of infrastructure addition, and does not bear on the general Energy Trap phenomenon.
 
-## Arresting the Decline: Take 2
+### Arresting the Decline: Take 2
 
 Let’s imagine a more realistic trajectory for the replacement effort. In our scenario, the world faces a huge crisis, so we could perhaps outperform France’s impressive nuclear push and ultimately replace energy infrastructure at a rate of 4% per year. But it takes time to get there. If it takes 10 years to ramp up to full speed, we have the situation seen in the following graph.
 
@@ -78,7 +78,7 @@ The energy investment still forces us to steepen the decline, initially looking 
 
 Note that anywhere along the path, a cessation of the replacement effort will bring instant relief. For example, at the beginning of year 6, having installed 6 units of replacement energy up to that point, abandoning the effort will see 88 units of fossil fuel plus the 6 units of replacement for a total of 94 units. This would be a considerable step up from the previous year’s 88 units of available energy, and an even larger apparent gain over the 86.8 units that would be available under a continuation of the crash program. Likewise, if one stopped the program at the end of ten years, the installed 22 units of replacement would complement the eleventh-year fossil fuel amount of 78 units to bring us back to a peachy 100 units—like nothing had ever happened, and *far* better than the 88 units that we would otherwise endure under a continuation of the program. But stopping renews the dangerous decline. The point is that there will always be a *strong temptation* to end the short-term pain for immediate relief.
 
-## General Behaviors
+### General Behaviors
 
 As mentioned before, the Energy Trap is a generic consequence of modest-EROEI sources requiring substantial up-front investment in energy. We would need the EROEI to be equal to the resource lifetime in order to have a null effect during the decline years, or better than this to ease the pain or allow growth. For a 40 year lifetime (e.g., power plant, solar panels, wind turbines), this means we would need 40:1 EROEI or better to avoid the trap. **Our alternatives simply don’t measure up**. Curses!
 
@@ -88,7 +88,7 @@ Conversely, solar photovoltaics, solar thermal, wind, and nuclear, are **all way
 
 We must therefore *compound* the Energy Trap problem if we want to replace oil with any of the renewable sources listed above, because we need to add the energy investment associated with manufacturing a new fleet of electric vehicles of one form or another (plug-in hybrid qualifies). This can’t happen overnight, and will result in a prolonged transportation energy shortfall even greater in magnitude than depicted above.
 
-## Do We Have What it Takes?
+### Do We Have What it Takes?
 
 Many of us have great hopes for our energy future that involve a transition to a gleaming renewable energy infrastructure, but we need to realize that we face a serious bottleneck in its implementation. The up-front energy investment in renewable energy infrastructures has not been visible as a hurdle thus far, as we have had surplus energy to invest (and smartly, at that; if only we had started in earnest earlier!). Against a backdrop of energy decline—which I feel will be the only motivator strong enough to make us serious about a replacement path—we may find ourselves paralyzed by the Trap.
 

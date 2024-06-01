@@ -27,7 +27,7 @@ Next we stumbled on Enlightenment (**scientific**) thinking. The advantage is ob
 
 Rather than beat this drum to excess, I’ll lump the next four into one giant roll: **fossil fuels**, **technology**, **capitalism** (a market economy), and **democracy** (or other political systems, but the pairing of capitalism and democracy has been especially potent for maximizing growth). I know—it’s a lot. All four together have promoted breathtakingly rapid growth of the human endeavor. Never mind that said growth comes at the expense of over-exploitation of the biophysical substrate—likely to the point of its own eventual demise. The selection process operates on the short term. Any society electing *not* to use these tools self-limits to its own detriment and potential demise.
 
-## No Agency
+### No Agency
 
 In this light, we can see that we never sat around a table and debated whether to use fire, agriculture, science, fossil fuels, technology, or capitalism. Sure, we had discussions, and may fool ourselves into thinking we were in control—yet another facet of our [human exceptionalism](https://dothemath.ucsd.edu/2022/02/human-exceptionalism/). But it wasn’t a true choice, in that those opting *out* are either gone or not faring well in our current global civilization. So it can seem in hindsight like a series of deliberate moves that put us on the “right” track—where “right” just means “current,” possibly translating to “disastrous.”
 
@@ -35,7 +35,7 @@ Yet, based on the **obligate** nature of all these branches, we actually had lit
 
 Today, markets and financial systems obligate the victors of this world to pursue short term returns, robbing humanity of the opportunity to exercise wisdom or consider the far future. As an illustration, Bret Stephens of the New York Times disappointingly [asserted](https://www.nytimes.com/2022/07/04/opinion/trump-biden-cassidy-hutchinson.html) that “Democrats need to figure out a set of climate-change policies that don’t threaten people’s wallets, jobs or businesses.” Those are indeed the elements firmly clutching the steering wheel, navigating a route to failure by naively inverting the hierarchy of artificial systems with respect to biophysical reality—as if proclaiming that nature dare not impose bounds on our ambitions and ideals. Such tantrums demand Immediate “empty calorie” gains that in practice out-compete more rational approaches.
 
-## Class 5 Rapids
+### Class 5 Rapids
 
 Continuing the raft metaphor, we can think of the agricultural shift as people stepping onto a raft on a slow, gentle stream. The choice conferred some modest advantage at first, traveling toward resource security more swiftly than would be possible by bushwhacking along the shore. But it was still possible to safely hop back and forth between the shore and raft for a time. Eventually, those who stayed on the raft got ahead of the shore-bound folks. The stream joined another and picked up speed—now undoubtedly superior to travel along the shore. The larger stream, joined by other branches, became a small river. Fast-forward to today, and we find ourselves bumping along on a class-5 rapid. It’s exhilarating, more than a touch dangerous, and unbelievably fast.
 
@@ -43,7 +43,7 @@ Since the acceleration to our current breakneck speed has taken many generations
 
 Techno-optimists might suggest retrofitting our raft with thrusters so that we can take to the air as we cross the waterfall’s edge. At least that approach acknowledges the waterfall, but let’s be more realistic. A friend suggested that we really need to throw a line to the shore, but lack any rope in our raft. We have to make a rope out of materials on hand. Well, we could use our own *hair*! This is apt, because getting out of our current situation will involve pain and sacrifice. Are we capable of it? Do we even have time?
 
-## Part and Parcel
+### Part and Parcel
 
 No metaphor is perfect, and I may be over-using the stream/raft/waterfall construct, but the essential aspect is the inexorable nature of the beast. Once we stepped onto the raft, the path was set. The watercourse does what it does. Powerful forces pushed us into our current configuration. Sure, history could have gone many other ways in the details, but whoever mastered fire, agriculture, technology and fossil fuels was destined to prevail. Picture a sailing ship-of-the-line from the Napoleonic era up against a modern battleship: no number of cannon shots from the wooden ship would risk sinking the battleship, while a single, precise blow from the battleship would knock the primitive craft into splinters—as if swatting a pesky gnat to its instant oblivion.
 
@@ -55,7 +55,7 @@ After drafting this post, I happened upon Ronald Wright’s *A Short History of 
 
 > This \[human\] experiment has never been tried before. And we, its > unwitting authors, have never controlled it. This experiment is now > moving very quickly and on a colossal scale. \[…\] We have reached a > stage where we must bring the experiment under rational control, and > guard against present and potential dangers. It’s entirely up to us. > If we fail—if we blow up or degrade the biosphere so it can no longer > sustain us—nature will merely shrug and conclude that letting apes run > the laboratory was fun for a while but in the end a bad idea.
 
-## What’s the Point?
+### What’s the Point?
 
 Some may find my perspective about lack of agency and a [collapse](https://dothemath.ucsd.edu/2021/05/why-worry-about-collapse/)-scale waterfall ahead to be fatalistic and full of despair. That’s not how I feel. First, I would rather understand the situation than not. Secondly, at some level, it absolves us of responsibility: not so much a matter of us screwing up as just inhabiting a world where this sort of thing is natural or even inevitable.
 

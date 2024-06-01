@@ -13,7 +13,7 @@ Can Tides Turn the Tide?
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2011/12/tide-earth-clip-150x150.png "tide-earth-clip")](https://dothemath.ucsd.edu/wp-content/uploads/2011/12/tide-earth-clip.png)Now is the time on Do the Math when we scan the energy landscape for viable alternatives to fossil fuels. In this post, we’ll look at tidal power, which is virtually inexhaustible on relevant timescales, is less intermittent than solar/wind (although still variable), and uses old-hat technology to make electricity. For this exercise, we mainly care about the scale at which the alternatives can contribute, leaving practical and economic considerations sitting in the cold for a bit (spoiler alert: most are hard and expensive). Last week, we looked at [solar and wind](https://dothemath.ucsd.edu/2011/12/wind-fights-solar/ "Do the Math: Wind Fights Solar"), finding that solar can satisfy our current demand without batting an eyelash, and that wind can be a serious contributor, although apparently incapable of carrying the load on its own. Thus we put solar in the “abundant” box and wind in the “useful” box. There’s an empty box labeled “waste of time.” Any guesses where I’m going to put tidal power? Don’t get upset yet.
 
-## The Sphere Makes a Good Point
+### The Sphere Makes a Good Point
 
 Tides are simply a consequence of putting an extended body in the gravitational field from another body. We exert tides on each other, in fact—though don’t try to use this as an excuse for the bulge that forms around your waist this holiday season!
 
@@ -21,7 +21,7 @@ Some gravity background: since Newton’s time, we have understood gravity to va
 
 As an aside, if the Sun turned into a black hole—keeping its present mass in the process—Earth’s orbit would not change. The Sun is already *acting* like a gravitational point as far as the Earth is concerned. All that matters is mass and distance to the center, as far as gravity is concerned. Of course in this scenario, I would have to drastically revise my statements about the abundance of solar energy in last week’s post.
 
-## Tidal Origin
+### Tidal Origin
 
 What does this have to do with tides? Well, the Moon—siting about 60 Earth-radii away— pulls on the Earth as if from a point. And the extended size of the Earth means that if we say the gravitational pull from the Moon at Earth’s center has strength 1/60², the pull on the near side is 1/59², while the pull at the far side is 1/61². In other words, the Moon’s pull varies by ±3.4% as we cross the Earth. Compared to the average response of the Earth (its center), the side facing the Moon *really* wants to get closer to the Moon, while the side opposite doesn’t understand what all the fuss is about, and is more sluggish in its attraction to the Moon. The result is an eager bulge on one side and a lethargic bulge on the other side. This is why a location sees two high tides per day, as the Earth rotates under the Moon-pointing bulge (but interaction with continental shelves/coastlines can delay it significantly, so that seeing the Moon high in the sky only means you’re at high tide in the middle of the open ocean).
 
@@ -33,7 +33,7 @@ Meanwhile, the Sun is 23,500 Earth-radii away, so its gravity varies by only ±0
 
 For the mathy among you, because tides deal with a *difference* of force across a small change in distance, tidal force is just the *derivative* of the underlying gravitational force times the displacement distance. Differentiating 1/*r*² gives 2/*r*³, so that the force difference is proportional to 2*ΔR*/*r*³, where *ΔR* is the displacement from the nominal (center) point. For numerical simplicity, I expressed everything above in units of Earth’s radius, so *ΔR*=1.
 
-## Slosh Factor
+### Slosh Factor
 
 For a perfect fluid body (oceanic Earth), the lunar tides would result in a peak-to-trough tidal amplitude of approximately one meter. To get the scale, we realize that the Moon’s mass is one eightieth that of Earth’s and 60 times farther away from the oceans as the Earth center. So lunar gravity is 1/(80×60²) times that of Earth gravity. Since we saw earlier that lunar tides constitute a 3.4% variation of lunar gravity, we end up with the Moon’s gravity varying by ±1.2×10⁻⁷ times Earth’s gravity. A small number, yes, but we multiply by the radius of Earth (6378km) to get the deformation height that establishes potential energy balance. Now we have 0.75m. Add in solar tides, and we’re close to a meter.
 
@@ -41,7 +41,7 @@ Most of us have seen tides well in excess of a meter. Some special places exceed
 
 In the middle of the ocean, water does not have to move very far to raise the tide. Everyone just scrunches a little closer together laterally, forcing some water up. But introduce a continental shelf or an inlet, and we have a pinch point so that lots of water must actually *flow* past the bottleneck to raise a tide on the other side of the restriction. The flow can get carried away and rise up on the shore more than the tides actually demanded. The sloshing sometimes gets really out of hand when the geography produces a resonant cavity: when the natural fill/drain period is close to the six-hour tidal span. It’s just like how pushing on a playground swing at the resonant frequency produces big motion with little force (kids hate when I push because I like to experiment with out-of-phase pushes).
 
-## Putting Tides to Work
+### Putting Tides to Work
 
 These special resonant-sloshy places are natural candidates for harnessing tidal power. Open the gates for the flow, close it off and exact a toll on the ebb. If you’re really clever, you can charge both ways. As we saw in the post on [pumped storage](https://dothemath.ucsd.edu/2011/11/pump-up-the-storage/ "Do the Math: Pumped Storage"), the power available to a hydro dam, in Watts, is *P*=*ρFgh*, where *ρ*=1000kg/m³ is the density of water, *g*=10m/s² is surface gravity, *F* is the flow rate of water in cubic meters per second, and *h* is the height of the water behind the dam.
 
@@ -57,7 +57,7 @@ The average power extracted in the ideal scenario is *P*_(avg)=(1/8)*πρgAH*²/
 
 Compared to the naïve picture of emptying a volume, *V*=*AH*, of water with an average height of ½*H* in time *T*, the 45° phase scheme gets about three-quarters the average power of the dumb guess (*P*_(avg)=½*ρgAH*²/*T*).
 
-## Real and Imagined Installations
+### Real and Imagined Installations
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2011/12/Barrage_de_la_Rance-1024x640.jpg "Barrage_de_la_Rance")](https://dothemath.ucsd.edu/wp-content/uploads/2011/12/Barrage_de_la_Rance.jpg)
 
@@ -69,7 +69,7 @@ That these modest plants are the largest yet built is some indication of the lim
 
 But some people speak of bigger plans. The large Penzhina Bay at the armpit of the Kamchatka Peninsula in Siberia (not a comment on the region or people: merely a geographic analogy) has an area of 20,000km² and 10m tides. *Cha-ching*! It is thought this could provide as much as 87GW if fully developed. A [list of proposed future concepts](http://en.wikipedia.org/wiki/List_of_tidal_power_stations "Wikipedia: Tidal Power Stations") total about 115GW.
 
-## Global Potential
+### Global Potential
 
 Clearly there are special locations where tidal power can be easily trapped and put to use. In this sense, tidal is a lot like geothermal power: mostly diffuse, but with a few hotspots. By all means, grab it where it’s easy. To put things in context, the world operates today on an energy diet of 13TW. The 115GW of dreams mentioned above—when combined with a typical 30% capacity factor— represent 0.26% of our global demand. Hopefully, we’ve overlooked 400 times more potential than what we see in the best spots. Hmmm.
 
@@ -81,7 +81,7 @@ If you’re thinking that I should have ringed the world *twice* instead of once
 
 A final measure of scale comes from my own line of research. The Moon is slipping away from us at a rate of 3.8cm per year due to tidal dissipation on Earth. Friction as the continents rotate through the water-bulge like a super-slow egg-beater drags the bulge slightly off the Earth-Moon line, providing a gravitational “carrot” urging the Moon to accelerate forward in its orbit. The extra angular momentum imparted to the Moon (robbed from Earth as its rotation slows) causes the orbit to swell. I’ll spare you the potential/kinetic energy calculation here, but the result is a change of 4×10¹⁸J every year, working out to 0.1TW. So natural barriers interacting with all the tides around the globe siphon 0.1TW from the lunar orbit. The wild schemes above would exceed this amount, which is certainly possible—i.e., the current 0.1TW is not a top-down constraint. Extracting tidal power at the rate of 115GW—the total of proposed projects—would double the egress rate of the Moon and further slow Earth’s rotation. Not to worry though: I’m guessing you don’t notice or care about the current rates of egress/slowing, so why would doubling either be cause for concern?
 
-## Put it in a Box
+### Put it in a Box
 
 I have tidal power dangling from my fingers. I hover over the “abundant” box momentarily simply for amusement. I move over to “useful,” where we put wind power due to its practical capability of producing perhaps several TW of power and offsetting more than a sliver of our present demand. Tidal doesn’t fit here, so I’ll drop it in the “waste of time” box.
 

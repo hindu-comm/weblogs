@@ -19,7 +19,7 @@ Then, during my absence over the course of Thanksgiving weekend, one of the batt
 
 In this post, I’ll show the metrics on my system detailing the demise of “Battery E.” The gruesome graphics are intended for mature audiences.
 
-## Everything was Peachy
+### Everything was Peachy
 
 Let me first recount the status of my battery system as detailed in a [post](https://dothemath.ucsd.edu/2012/09/blow-by-blow-pv-system-efficiency/ "Blow-by-Blow PV System Efficiency: A Case Study for Storage") from September of this year.
 
@@ -47,7 +47,7 @@ I calculated my average daily cycle depth to be 31%, and from [cycle curves](htt
 
 Oh that it were true.
 
-## Watching the Crash
+### Watching the Crash
 
 Every day, an automated script grabs data off of my solar recording apparatus, and most nights I check the day’s performance. Below is a typical plot of the five-minute resolution data. The [post on PV efficiency](https://dothemath.ucsd.edu/2012/09/blow-by-blow-pv-system-efficiency/ "Blow-by-Blow PV System Efficiency: A Case Study for Storage") details the curves, but in brief: red is solar input; cyan is the load (refrigerator cycle spikes evident), black is battery voltage (right-hand scale), green is battery state of charge (percent full), and the **yellow dots** indicate what fraction of battery current is flowing to battery chain E/F. The reference line at 50% is a useful gauge. Ideally, battery chains C/D and E/F would contribute equally to sourcing or sinking current, and the dots would always be at 50%. Minor ticks on the horizontal axis are at one-hour intervals, so it’s fairly straightforward to read the time (0.25 days is 06:00, etc.).
 
@@ -55,7 +55,7 @@ Every day, an automated script grabs data off of my solar recording apparatus, a
 
 Notice also the gentle slope of battery voltage decline during the night.
 
-## Chronicling the Demise
+### Chronicling the Demise
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2012/12/1211181-1024x768.png "121118")](https://dothemath.ucsd.edu/wp-content/uploads/2012/12/1211181.png)November 18 was a partly cloudy day, as seen by the spiky nature in the red (solar input) curve. The battery did not get fully charged, but we see the typical dance of the yellow dots; just shy of 50% for the most part.
 
@@ -92,13 +92,13 @@ Testing the cells with a hydrometer, it is not hard to identify the weak cell, w
 
 |          |           |           | |----------|-----------|-----------| | **Cell** | **Bat E** | **Bat F** | | 1        | 1.235     | 1.275     | | 2        | 1.235     | 1.230     | | 3        | 1.290     | 1.275     | | 4        | \<1.1     | 1.245     | | 5        | 1.275     | 1.275     | | 6        | 1.275     | 1.250     |
 
-## The Edge of the Cliff
+### The Edge of the Cliff
 
 If I plot the fraction of juice accepted (blue) and sourced (red) from Battery E/F during 2012, We see the dramatic endgame.
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2012/12/bat-ef-percent-1024x768.png "bat-ef-percent")](https://dothemath.ucsd.edu/wp-content/uploads/2012/12/bat-ef-percent.png)I think this plot nicely illustrates the degree to which the battery failure caught me off guard. Aside from the “while you were away” twist, the failure was **really fast**. There were no instances outside the 45–50% window the whole year, and then **bam**.
 
-## Now the Conundrum
+### Now the Conundrum
 
 Okay, so I have a bad cell in a battery. Maybe the situation is salvageable. Perhaps a “battery doctor” could bring the battery back to an operable state. I’ve seen prescriptions online for how to recover some functionality from a bad cell. You can’t expect original performance, I gather. But perhaps it is possible to turn an otherwise heavy block of junk into a useful battery again.
 
@@ -119,7 +119,7 @@ So it seems like a really bum deal! Must I replace all batteries at once?
 
 I suspect that I am missing something here, and that a new battery in an otherwise old set may work itself out in some non-destructive way. I am still adapting to my reduced-capacity PV reality, and meanwhile needed a bloggable topic that I could cover quickly, even if the saga is incomplete. I still need to do some research, and perhaps comments will help set things straight.
 
-## Perspective
+### Perspective
 
 I have written before about the disappointment inherent in batteries.
 Now I have another personal example. Just when I had decided that my batteries were in their prime, crash. In our forced migration from fossil fuels over the coming century, large scale implementations of solar and/or wind are likely to transpire only in connection to energy storage solutions. With storage comes headaches, even for technologies as mature as lead-acid. Batteries will fail, and seldom at convenient times. I liken my recent experience to driving a car without a gas gauge. How tolerable will this situation be to our demanding society?

@@ -15,7 +15,7 @@ In this post, we’ll put a physical, comprehendible scale on the amount of ener
 
 The resulting analysis is more mathy/quantitative than most of my posts, which might not make for the smoothest reading. Don’t let the math bog you down: the details are there if you want them—but if you just want the answers, they are not too hard to find.
 
-## Overall Scale
+### Overall Scale
 
 Okay, we can capture almost the entire story of energy use if we consider oil, natural gas, coal, nuclear fission, and hydroelectric. These take up approximately 40%, 23%, 22%, 7%, and 7% of our total energy diet. We have to correct the hydro and nuclear numbers because the 7% figures are adjusted to put their electricity contribution on the same (thermal) footing as the raw inputs from fossil fuels. The electricity that each contributes amounts to about 3% of the total energy pie. (The fossil fuels are counted by thermal energy *input*, but hydro and nuclear are more easily tabulated by electrical *output*.)
 
@@ -27,33 +27,33 @@ You may object: certainly you are not so energy intensive, based on what you see
 
 10kW. Such a nice round number! We can therefore quickly say that a typical American uses energy from oil at a rate of 4kW, natural gas at 2.3kW, coal at 2.2kW, 300W of nuclear, and 300W of hydroelectric power. In a bit, we will find it convenient to convert to kilocalories (kcal). So 1W of power run for a year totals 31MJ, or 7,500kcal.
 
-## The Fossil Fuels
+### The Fossil Fuels
 
 First, we’ll tackle the fossil fuels. The chemical energy in fossil fuels is not very different from that in the food we eat. Natural gas has 13 kilocalories per gram, oil/gasoline has about 10kcal/g, and coal typically ranges from 4–7kcal/g, depending on grade. We’ll use 6kcal/g for coal.
 
-### Oil
+#### Oil
 
 Putting numbers together, we see that 4kW of oil—run for a year—requires 30 million kcal, which amounts to 3 million grams, or 3,000kg. Three metric tons of oil each year per person! At 135kg per barrel, this is 22 barrels per year. Does this make sense? The U.S. consumes about 20 million barrels of oil per day, so that each of us uses 24 barrels per year—close enough for a sanity check!
 
 In my lifetime of about 40 years (the brilliance of estimation is that 40 can be “good enough” for a number of years!), I am responsible for the consumption of 120 metric tons of oil. How big of a box do I need? Water requires a cubic meter per metric ton, and oil is about 85% the density of water. So I need 140 cubic meters. The cube root of 140 is about 5.4 meters. So I need a box about 17 feet cubed! That’s going to be an eyesore in my back yard!
 
-### Coal
+#### Coal
 
 For coal, the numbers work out to 17 million kcal per year, or about 2.8 million grams (much like oil!). At an average of 1.2 times the density of water, 40 years amounts to 92 cubic meters, which corresponds to a box 4.5m, or 15 feet on a side. Not too different from oil. Note that we get much less of our energy from coal than from oil, but the energy density is much lower, so that the volumes are comparable.
 
-### Natural Gas
+#### Natural Gas
 
 Our 2.3kW of natural gas, like coal, requires 17 million kcal, or 1.3 million grams per year. You *might* remember from chemistry classes that gas at standard temperature and pressure (0°C and 1atm) occupies 22.4liters per mole. Methane is CH₄, with a molecular weight of 16g/mol. Our annual 1.3 million grams is therefore 83 thousand moles and occupies 1.9 million liters, or 1900 cubic meters. Over 40 years, this becomes 76000m³ The corresponding cube is 42 meters (140 feet) on a side. This would certainly catch the whole neighborhood’s attention. And you’ll need one for each member of the household (sized according to age).
 
 If we forgot that this is just a visualization exercise, we might agitate for compressing the gas, as anyone in their right minds would do for storage purposes. In this case, at 190atmospheres of pressure (a practical limit for steel tanks), the volume is reduced to 400 cubic meters, or 7.4m (24ft) on a side. Note the trick of using 190atm instead of a round 200. Made the math easy, and we’re totally allowed to do such things while we’re estimating (not engineering).
 
-## Hydroelectric
+### Hydroelectric
 
 What is a relevant volume for the hydroelectric energy you’ve consumed? How about the volume of water that has moved through a dam to produce that energy. Here, the story is simple gravitational potential energy, converted to electrical output at an efficiency of about 90%. The gravitational potential energy of a cubic meter of water is its mass times gravitational acceleration times the height of the water behind the dam. A cubic meter of water has a mass of 1000kg, turning into 10,000N of weight when multiplied by *g*=10m/s². What is a typical height for a hydroelectric dam? I’ll guess 50 m.
 
 So each cubic meter of water delivers 450,000J of energy, incorporating the dam efficiency. At a rate of 300W (300J/s), this cubic meter provides power for about 1500 seconds (25 minutes). For reference, this water rate corresponds to 15,000 gallons per day—over five-hundred times my household water demand. In 40 years, I need a whopping 850,000 cubic meters of water to flow through a dam somewhere on my behalf. Now we have a cube 95 meters on a side. I have no idea where I’m going to put it! This is a small lake’s worth of water (keep in mind that lakes tend to be *much* flatter than cubes). Okay, in California, this would be called a small lake, not a large pond, as may be the case elsewhere.
 
-## Nuclear
+### Nuclear
 
 This one is less straightforward than the preceding ones. Each fissioning uranium nucleus releases about 200MeV (million [electron-volts](htp://physics.ucsd.edu/do-the-math/useful-energy-relations/#electron-volt)) of energy. This computes to 30 picojoules per fission event (3×10⁻¹¹J), so that we need 10 trillion fissions per second to supply our 300 Watt allocation of nuclear power. But we’ve jumped the gun a bit. The fission event creates heat, and this thermal energy is converted into electricity in a heat engine achieving 40% efficiency. So we *really* need to make 25 trillion fission events per second per person in the U.S.
 
@@ -65,13 +65,13 @@ As for volume, yellowcake is 9 times more dense than water, and 2 kg of water wo
 
 An alternate take, though not a “fair” comparison: uranium has an average abundance of 2.7 parts per million by mass in the Earth’s crust. So to get the requisite mass of uranium atoms (1.6kg), we need just over a half-million kilograms of rock. At a density of about 3000kg/m³, this means about 200 cubic meters of rock, or about 6 meters on a side. This is amazingly close to our fossil fuel volumes! Of course, uranium mining doesn’t work this way: we go for the concentrations, and any random piece of surface rock is likely to fall far short of the average crustal concentration (so don’t try this in your backyard!).
 
-## Personalizing the Numbers
+### Personalizing the Numbers
 
 I used 40 years for these figures. You can scale volumes (but not cube edge lengths!) by the ratio of your age to 40 years. You may also wish to account for the fact that energy consumption in the past was not as high as today’s numbers we used for the analysis.
 
 But these wrinkles will not change the story very much. And since the exercise is one of visualization, precision is of no consequence.
 
-## Picturing the Impact
+### Picturing the Impact
 
 We’ve worked out all the numbers. Let’s put it into pictures to get a more visceral feel for what the numbers mean. I use a typical San Diego house and yard (2000ft², and 7200ft², respectively) for comparison. Note these cubes apply to *just* me. My wife requires another set (but I’ve run out of room in the backyard!).
 
@@ -91,13 +91,13 @@ Also shown for reference is the size a 15% efficient photovoltaic (PV) array wou
 
 Not shown are the resources needed to make the PV panels. With an energy return on energy invested around 10:1 (takes about 3 years-worth of the panel’s energy output to make each one; lasts at least 30 years), we could either increase the array area by 10% to cover a PV-supplied energy chain, or use our conventional boxes at one tenth the volume shown.
 
-## Price Tags
+### Price Tags
 
 The installed solar array would cost approximately \$200,000 (no storage). Meanwhile, the cube of oil, at \$100/bbl would cost \$88,000, and the coal and natural gas—if used to produce electricity at 35% efficiency and \$0.05/kWh—would cost about \$40,000 each (over twice this in California), for a total outlay of at least \$170,000. Same ballpark, actually. If I instead use gas for cooking and heating, I would pay \$26,000 rather than \$40,000 for the gas at \$1 per [Therm](https://dothemath.ucsd.edu/useful-energy-relations/#therm) (100ft³ = 2.8m³ contains 1.02Therms of energy).
 
 Yes, I used today’s prices and not the average prices over the last 40 years. But the comparison between fossil fuels and solar, for instance, is of interest for the *future* and not the past. Anyone want to guess whether the fossil fuel prices over the next 40 years will go up or down?
 
-## What of It?
+### What of It?
 
 The results of this exercise are intended to do little more than put a visual scale on the materials involved in the energy requirements of a typical American citizen. Some may be amazed at how large the volumes are, while others may be amazed by how small. They are what they are, and we can carry these visualizations around in our heads for whatever purpose.
 

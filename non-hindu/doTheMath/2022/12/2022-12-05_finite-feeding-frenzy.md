@@ -23,7 +23,7 @@ Because human population has been substantially boosted by fossil fuel input, we
 
 It’s been a while since I did any, you know, math for this blog, as I seem to be living my own worst nightmare and turning into an armchair philosopher (oh the shame). In this post, I return to something closer to math. It’s illustrative rather than quantitative, but helps frame the peril we have put ourselves into in a low-effort sort of way.
 
-# Population Models
+## Population Models
 
 Let’s start simply. A population given unlimited resources and no negative feedback mechanisms (e.g., predation, disease) will grow exponentially. The differential equation underlying this is
 
@@ -31,7 +31,7 @@ Let’s start simply. A population given unlimited resources and no negative fee
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2022/12/pop-mod-f2.png)](https://dothemath.ucsd.edu/wp-content/uploads/2022/12/pop-mod-f2.png)Here, *Q* is known as the **carrying capacity**, so that the ratio (*Q*−*P*)/*Q* reflects the fraction of the “full” space that is occupied. When *P* is much smaller than *Q*, the available room is near 1.0, and the equation simplifies to the earlier exponential-producing relation. As *P* approaches *Q*, the ratio becomes very small and suppresses population growth, bending the exponential over into a logistic curve gracefully approaching the carrying capacity: no drama. Of course the real world has delays in negative feedback, which can cause overshoot, oscillation, and other crazy dynamics. [Chapter 3 in my textbook](https://escholarship.org/uc/item/9js5291m#section.3.2) provides a more complete introduction to this sort of modeling.
 
-# Non-Renewable Subsidy
+## Non-Renewable Subsidy
 
 A common reaction to models of human population is a belief that humans can’t (or shouldn’t?) be modeled as if analogous to a deer population: we have transcended the normal bounds of nature via technology. This is where Malthus was so, so wrong—the thinking goes. Indeed, Malthus missed a **major** new influence that was not on his radar at the time: fossil fuels. Then, why not throw into this simple model a finite resource that directly boosts population growth? Why not, indeed?
 
@@ -80,7 +80,7 @@ Now, one final piece. Our fossil fuel bonanza has left our ecosystem in a perilo
 
 As we destroy ecosystems, we lower the carrying capacity of the planet to support humans in the absence of “artificial” and temporary schemes. Therefore, our bonanza has costs, and I wanted to reflect this in the model. The simplest way to do so was to scale the carrying capacity (originally set to 2 billion) according to resources remaining. For reference, the model portrayed here leaves 38% of the NRFR in the year 2020, which is *roughly* commensurate with the scale of animal population loss—even a little less severe. Note that without downgrading *Q*, the population would *still* experience a peak/crash. At a population of 8 billion, the overhang from realistic carrying capacity numbers is severe whether we’re talking 0.5, 1, or 2 billion for *Q*. The present model uses up all the resource, sending Q to zero, but it’s easy to imagine a model tweak in which it does not go all the way down, so don’t waste time obsessing over this model “feature.”
 
-# Emerging Features
+## Emerging Features
 
 Having slogged through the details (which honestly took more time to write up and format than to implement in the actual work), what do we get? Let’s repeat the graphic for convenience.
 
@@ -98,7 +98,7 @@ But the big headline is the **peak and rapid decline** of human population. Gran
 
 In fact, I could make an argument for this model being too optimistic, in that once fossil fuels begin to fail us, cold, hungry people will hack down what remains of forests and wild animal populations with reckless abandon. So the carrying capacity could drop even more precipitously than the gentle “civilized” blue curve indicates.
 
-# Flaws in the Model
+## Flaws in the Model
 
 Oh boy; where to begin? Simple models have their pros and cons. On the plus side, they can elucidate robust, important, big-picture features of a problem with little work. I intentionally decided not to try making the model ever-more realistic (i.e., more faithfully tracking data points) because to some degree the virtue of simplicity is sacrificed in doing so. On the negative side, it is not hard to point out lots of missing nuances. But be warned: these can go both ways in terms of making the situation more or less dire.
 
@@ -106,7 +106,7 @@ If I wanted to track the data more reliably, I might factor in the evolving agri
 
 As I mentioned before, a careful job might separately model birth rates and death rates, initially following typical [demographic transition trajectories](https://escholarship.org/uc/item/9js5291m#section.3.3). But how to handle these in an uncertain and possibly chaotic future involves difficult decisions that are not particularly defensible. Do birth rates (per surviving person) go down as people starve and give up hope, or do they go back up to pre-demographic-transition levels to offset higher infant mortality, lack of birth control, and erosion of education? Death rates presumably climb in these dire scenarios, but what role might conflict play as we fight over scraps?
 
-# Keep it Simple, Stupid
+## Keep it Simple, Stupid
 
 For what it’s worth, all this has likely been done elsewhere, by others, long before. I could have checked, but that’s not how I roll: self-exploration has its own rewards. Also, something so simple would have trouble passing peer review because it lacks sophistication (bells and whistles)—which is perhaps its own kind of problem. Gotta love the blog channel!
 
@@ -118,7 +118,7 @@ I think we have a tendency to be skeptical of “too simple” narratives for su
 
 Lest you be tempted to flee to the comfortable embrace of faith in technology, ask what it is that electricity can do to alleviate our agricultural challenges, because that’s what the renewables deliver. The resource impact of a massive infrastructure build-out on this scale, including adequate storage capacity, only escalates our assault on natural resources—meaning reductions in habitat, critter populations, and ultimate carrying capacity (see the [Love Story post](https://dothemath.ucsd.edu/2022/09/a-climate-love-story/) for more thoughts along this line). Also,[a well-aligned article](https://theintercept.com/2022/12/03/climate-biodiversity-green-energy/) just hit as I was poised to publish this post (I was amused at some very similar language choices).
 
-# The Obvious Answer, Again
+## The Obvious Answer, Again
 
 Sure, Malthus missed predicting this enormous surge in human population, not factoring in stored fossil energy. That doesn’t mean we should declare human population a mystery beyond our grasp and refrain from any attempt to understand its trajectory and future. This post sketches out the effects of a gigantic infusion of ancient energy storage. Up and down, the story goes. The burden of proof for why this *won’t* happen comes down to foretelling the next major inheritance on the scale of fossil fuels. Anyone? Are we feeling lucky?
 

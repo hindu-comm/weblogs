@@ -33,7 +33,7 @@ Also, having more people be aware of the inevitable failure of modernity will al
 
 I can appreciate that my assertions of modernity’s necessary demise may strike many readers as unjustified and overly-dramatic. This topic deserves a post (or more) of its own, which I am preparing. But in brief, unsustainable things fail—by definition. Any growth-based system fails on a finite planet. Any system reliant on non-renewable resources (fossil fuels, mined materials, drained aquifers) fails. Any system that drives ecological collapse fails. Any system whose population, scale, and complexity is based on a temporary resource (ahem…fossil fuels) fails. A look at the [cliff edge plot](https://dothemath.ucsd.edu/2023/08/ecological-cliff-edge/) might suggest shifting the label of “overly-dramatic” away from *me* and onto modernity’s destructive capacity. I’m not the one producing the dramatic assault on Earth’s vitality.
 
-## A Comment on Comparisons
+### A Comment on Comparisons
 
 Getting people to recognize the atrocities of modernity (seeing beyond the numerous and obvious personal benefits) is most effective when comparing its many negatives to atrocities *against humans*. We don’t tend to register other kinds of atrocities as reliably. In the foregoing metaphor, it goes without saying that the axe murderer is targeting human beings. This fact seems to be what makes the murderous behavior abhorrent In fact, we typically restrict the word “murder” to the killing of *humans* for some reason. At a larger scale, when speaking of the obliteration of the natural world, we might relate it to a holocaust (again, typically applied only to humans), which we universally recognize as a bad thing. To me, this speaks to our human-supremacist cultural tendencies: we view human lives to be “sacred” in ways that we fail to apply to the more-than-human world. Think about the question: is it possible to murder a plant or animal? Does the context matter?
 Might we categorize killing for subsistence differently than for extermination, elimination, eradication (e.g., pest control)? What if the same result is a matter of negligence? Can we still go to jail for the unwitting slaughter of the natural world?
@@ -44,7 +44,7 @@ I’m sure that just like our axe murderer, Nazi Germany provided many welcome p
 
 Anyway, it’s a bit of a sad confirmation of our culture’s human supremacist leanings that analogizing to an atrocity against human beings seems like the only sure-fire way to make the point that something is bad.
 
-# Next Time Around
+## Next Time Around
 
 I’ll say this: after the ordeal with the axe-murderer is over, you’ll ask better questions on future first dates! In the post-modernity case, those questions might be:
 

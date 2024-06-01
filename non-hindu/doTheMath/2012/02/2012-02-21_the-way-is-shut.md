@@ -15,19 +15,19 @@ Alright, I’m overstating things a bit. The good news is that there *do* exist 
 
 In this post, I will reflect on the lessons we learn after having characterized the various alternatives to fossil fuels. There will still be some tidying-up to do on energy alternatives not treated thus far, but by and large the nature of content on Do the Math is about to pivot toward addressing the question “What *can* we do now?” In some sense, a common thread so far has been: “easier said than done,” or “don’t count on that technology saving our bacon.” I’ve closed all the exits to get your attention. **We’re boxed in**. Okay, the exits aren’t *really* closed: they’re just not as wide open as they would need to be for me to be complacent. So now we’ll start looking at ways to nose out of our box in a safe and satisfying way.
 
-## Summary Matrix
+### Summary Matrix
 
 A few weeks back, I organized assessments of fossil fuel alternatives into a scoring matrix to provide—at a glance—a sense for the pluses and minuses of each option. We saw from this exercise that most alternatives are inferior replacements for fossil fuels in one way or another (although superior in terms of carbon dioxide emission). We also saw that transportation will be the hard part. Here is a repeat of the matrix (click to enlarge). See the [post](https://dothemath.ucsd.edu/2012/02/the-alternative-energy-matrix/ "Do the Math: Alternatives Matrix") for details and commentary, or click [here](https://dothemath.ucsd.edu/wp-content/uploads/2012/02/energy-score-cb1.png "Do the Math: Alternative Energy Matrix, B/Y") for the colorblind-friendly version.
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2012/02/energy-score1-1024x803.png "energy-score")](https://dothemath.ucsd.edu/wp-content/uploads/2012/02/energy-score1.png)
 
-### My Biggest Surprise
+#### My Biggest Surprise
 
 The raft of comments following the [summary post](https://dothemath.ucsd.edu/2012/02/the-alternative-energy-matrix/#comments "Do the Math: Alternatives Matrix") highlighted something that for me was unexpected. Even though my primary messages were that alternatives fail to stack up to the familiar benefits of fossil fuels, and that transportation is particularly challenging to cover, I seem to have stirred a hornets’ nest in ranking nuclear options well below solar. I saw many comments arguing for nuclear’s superiority over solar energy. I never appreciated the apparent rivalry. So that was interesting. It seemed that nuclear enthusiasts were too perturbed by my admittedly simplistic ranking scheme to appreciate the larger points. I’ll bet this tendency extends to enthusiasts of all stripes, and imagine that had I inverted the rankings, the solar enthusiasts would have come out swinging.
 
 To some degree, this is worrisome to me. If we see alternative energy as a competition, we may all lose. Let’s fight the fossil fuels, not one another; get started transforming our future; let’s clamor for funding for *all* of our viable alternative approaches—each offering unique advantages (and, yes, disadvantages).
 
-## Your Nearest Exit May Be Behind You
+### Your Nearest Exit May Be Behind You
 
 How do we respond to our looming energy predicament?
 
@@ -45,7 +45,7 @@ In much the same way, kidney failure does not directly impact the function of ha
 
 As in the airplane, the nearest exit may be behind us: meaning that we may do well to consider a simpler lifestyle that may strike some as moving backwards.
 
-## Conservatism and Asymmetric Risk
+### Conservatism and Asymmetric Risk
 
 I will disclose that politically I am a registered Independent with both liberal and conservative sympathies, having voted for presidential candidates across the political spectrum. But when I say **conservative**, I mean it in the traditional sense—not by today’s ideological definition of the term. Conservatism to me means taking a **low-risk** approach to our future: not gambling the prosperity of future generations on uncertainties of today. Conservatism to me means conserving resources, conserving energy, balancing budgets (raising taxes is certainly a viable option in my book), and having a well-thought plan for the future that also acknowledges uncertainties. I have been tempted to make a bumper sticker asking ideologically-identified conservatives: “What have you conserved for me lately?” But alas, I don’t drive my truck enough to make the effort worth my time.
 
@@ -71,7 +71,7 @@ One of my most compelling pieces of empirical evidence that we are at risk of co
 
 In the face of serious resource challenges, I would hope to see more attention given to a high-stakes loss/collapse scenario. The opposite of attention is inattention, and that’s not going to help mitigate the problem.
 
-## Differentiating Opinion from Wisdom
+### Differentiating Opinion from Wisdom
 
 I only fell into this “limits” camp because practically every time I performed quantitative analyses on this, that, or the other alternative energy proposal, I came up disappointed. I really *did* want the pleasure of personal discovery that we have an obvious path forward. I am delighted by the abundance of solar energy input to the planet. I am reassured by the vastness of thermal energy in the oceans and crust. I am tentatively excited about the vast energy represented by uranium in the oceans and by thorium using functional molten salt reactors. I truly do see these as positive lights in the darkness.
 
@@ -87,7 +87,7 @@ Any argument/rebuttal that starts with “It’s simple,” or “It’s obvious
 
 My “hunch” tells me that we work in an imperfect world full of irrational reactions, uneducated citizens, dysfunctional politics, competitive nation-states willing to wage war, ruthless extrapolation based on our fossil fuel bonanza, and simple, stupid inertia. The problem transcends narrow academic and quantitative analysis—although I treasure the math and believe it should always be a *vital* part of any analysis. Obviously, quantitative failure trumps other concerns, although quantitative success is only the first step of many in a full assessment of viability. And it is against these myriad subjective factors that I find myself down-weighting the strictly quantitative conclusions, finding plenty of room to worry.
 
-## What’s at Stake
+### What’s at Stake
 
 Talking with a friend, I cast our impending collision between finite resources and a growth trajectory as being akin to driving full-speed toward a cliff. If you pass a sign that says “Cliff Ahead: Road Ends,” why would you *possibly* decide to keep barreling ahead? His answer: “I’ve seen that sign 20 times already. Why should I believe it this time?” Yeah. Why should he? I’m totally sympathetic to this reaction. Had I not been stymied time after time by my own quantitative analyses and consideration of practical challenges, I might well have the same attitude.
 

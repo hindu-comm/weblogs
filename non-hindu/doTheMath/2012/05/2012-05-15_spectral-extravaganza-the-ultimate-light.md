@@ -11,7 +11,7 @@ Spectral Extravaganza: The Ultimate Light
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2012/05/mex-sign-300x201.jpg "mex-sign")](https://dothemath.ucsd.edu/wp-content/uploads/2012/05/mex-sign.jpg)What do you get when you cross an astronomically-inclined physicist with concerns over energy efficiency in lighting? Spectra. Lots and lots of spectra. In this post, we’ll become familiar with spectral characterization of light, see example spectra of a number of household light sources, and I’ll even throw in some mind-blowing photos. In the process, we’ll evaluate just how efficient lighting could *possibly* be, along the way understanding something about the physiology of light perception and the definition of the increasingly ubiquitous lighting measure called the **lumen**. Buckle your physics seat-belt and prepare to think like a photon.
 
-## Spectral Introduction
+### Spectral Introduction
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2012/05/hollywood-full.jpg "hollywood-full")](https://dothemath.ucsd.edu/wp-content/uploads/2012/05/hollywood-full.jpg)
 
@@ -37,7 +37,7 @@ Figure 4: Colored LEDs each result in short spectra, almost pure in color. The g
 
 The photos above from around my neighborhood illustrate various forms of spectra in a rich, but sometimes bafflingly complex, way—obtained by placing a transmissive diffraction grating film in front of the lens. The combined-light (un-dispersed) scene is visible in each, but stretching off at an (arbitrarily-set) angle is the “dispersed” version of the same. Line sources produce replications of their shape at each emission wavelength, while continuous sources smear out. The distance from the un-dispersed source to its spectral replica is proportional to the wavelength of light (deep blue/violet is closer, at 400nm, than deep red, at 700nm). But the camera helpfully color codes these as well. Note that the low pressure sodium lights are essentially monochromatic—so make a single, sharp, replica at 589nm. Gas-discharge tubes (as seen in Figures 1 & 2 and intro figure) have a forest of lines. Meanwhile, the colored decorative LED lights produce short, stubby spectra in their “fat monochromatic” way (Figure4).
 
-## Color Perception
+### Color Perception
 
 Our eyes are essentially tri-color devices. If you look at a sharp spectrum of white light (a rainbow is too mushy, with overlapping colors), you mainly see red, green, and a blue-violet: not much yellow or cyan between the colors. It is only in *combination* that we create mixture colors. This is why an RGB monitor can synthesize almost any color by varying the brightness of red, green, and blue pixels. Figure5 shows a representation of the visual spectrum that is not far from our perception, showing the sensitivity curves of the three color receptors in the eye. When we perceive L\>M, we call it red, and if we sense L\<M, we call it green—until S starts to perk up. I am guessing the S, M, and L labels mean short, medium, and long wavelength.
 
@@ -59,7 +59,7 @@ Figure 7: The photopic sensitivity curve (blue) compared to the solar blackbody 
 
 I will be referring to **blackbody** spectral distributions, also called Planck functions, after Max Planck. Don’t take the word “black” literally here: think of it as “dull,” as in not shiny like metal. Any “dull” object emits thermal radiation (shiny ones do too, but at suppressed strength). As the temperature climbs, the radiation shifts from the infrared into visible wavelengths, so that a poker may get red-hot; coals get orange-hot, and the Sun is white-hot. These are all blackbodies, and we generally strive to emulate them in our artificial lighting sources. Incandescent bulbs cleverly manage to do this by *actually being* hot, radiating blackbodies. Their only problem is that most of the light is generated outside of the visible domain. More on this later.
 
-## The Lumen
+### The Lumen
 
 The **lumen** is a unit that captures how bright a source appears to the human eye. A laser pointer putting out 5mW of light at 532nm (green) will emit 3 lumens (lm) of light, while a red laser pointer at 633nm emitting the *same amount of power* is only seen to be 0.8lm. Meanwhile, an infrared laser of any (modest) power output will register *zero* lumens, since the eye cannot perceive its brightness.
 
@@ -69,7 +69,7 @@ The lumen is defined so that at the peak of the photopic sensitivity curve (555n
 
 If you stand in front of a selection of light bulbs at the store, you should be able to find the brightness in lumens listed somewhere on the box. You’ll also usually find the *actual* power consumed by the light bulb. In the case of fluorescent or LED lights, this is not the “replacement wattage” in incandescent terms, but the actual electrical power consumed when the device is on. Dividing these numbers, you’ll find that incandescent lights have luminous efficacies around 15lm/W. Fluorescent and LED lights tend to be closer to 60–80lm/W. Much better, but far short of our 683lm/W monochromatic green source.
 
-## Luminous Efficacy of Incandescents
+### Luminous Efficacy of Incandescents
 
 You can figure out the luminous efficacy of any monochromatic (laser) source by gauging how high the photopic curve is at that wavelength relative to the peak, and multiplying this fraction by 683. But what about a *distribution*? In this case, an *integral* (piecewise sum of wavelength slices) of the photopic curve times the source spectrum in question does the job.
 
@@ -83,7 +83,7 @@ Figure 8: Luminous efficacy of pure blackbody sources.
 
 So we could make incandescents more efficient by getting them hotter. The problem is that filaments melt if you get them much hotter than they are already. Halogen bulbs surround the filament with gases that redeposit evaporated atoms back onto the filament, letting them operate at slightly higher temperature. But even these are still far down on the curve.
 
-## How Good Can it Get?
+### How Good Can it Get?
 
 Okay, so a blackbody source near 6000K like the Sun gets up to nearly 100lm/W. But how good would an ideal white light source be if we could engineer its spectrum to be anything we want? A quick-and-dirty answer can be had by using the fact that 37% of the solar spectrum is within visible limits. If we could design a source to mimic the solar spectrum, but emit *not one* photon of light at wavelengths we can’t see, we’d get something like 93/0.37≈250lm/W.
 
@@ -99,7 +99,7 @@ The efficacy gets better and better as we decrease the range. Ultimately, as we 
 
 So truncating the spectrum comes at a cost. Color rendering will not be as good when we drop the deep reds and deep violet/blues from the spectrum. If we’re going to cut corners for the sake of efficiency, we need to also evaluate the *quality of color rendering* to establish criteria for an acceptable white light source.
 
-## Color Rendering Index
+### Color Rendering Index
 
 There is a heinously twisted procedure by which one can evaluate the color rendering index (CRI) of a light, given its spectrum. I’ll spare you the details (and secretly wish I had also been spared), but essentially it boils down to “illuminating” eight specially-selected sample color swatches—not particularly attractive colors, I must say—with the test spectrum, and comparing the proximity in color space (think color wheel) to what would happen if the same source were illuminated by a blackbody (incandescent) at the same effective (color) temperature.
 
@@ -136,7 +136,7 @@ Now, we slide all the way up to about 370lm/W before busting the Planckian offse
 
 So if we could design a magic light source that emitted a blackbody-like spectrum across a finite wavelength range, generating photons at 100% electrical efficiency (such a source would not even be *warm* to the touch), we could hope to achieve luminous efficacy values in the range of about 300–370lm/W. This is roughly a factor of five better than present sources, almost all because of electrical efficiency rather than spectral efficiency.
 
-## Example Spectra of Alternative Lights
+### Example Spectra of Alternative Lights
 
 Enough with the theoretical, magical light. What do real lights achieve? Below is a gallery of example spectra I acquired for various lights. Descriptions follow each one.
 
@@ -186,7 +186,7 @@ Figure 19: Three-LED (blue, green, red) mixture giving a white-ish light.
 
 The best I could do is still not terribly good, by lighting standards. If I constrain the source to have an acceptably low Planckian offset, I only get a CRI of 63, and a luminous efficacy of 243lm/W. If I allow any old offset from “white,” I can get the CRI as high as 77, but the offset is five times the “acceptable” limit (and luminous efficacy hardly budges—up to 246lm/W). In both cases, the color temperature is absurdly high. The wavelengths of these three LEDs are not at all optimized for this task, so undoubtedly one could do better. Four LEDs (e.g., adding a yellow) would make it even easier.
 
-## Lessons
+### Lessons
 
 For most readers, this is **way** more than you ever wanted to know about light sources, spectral distributions, and maximum theoretical efficiency. I warned you at the beginning that this might happen when mixing astronomy and energy efficiency.
 
@@ -196,7 +196,7 @@ This means that present efficient lighting (spanning 60–100lm/W) has only abou
 
 Meanwhile, as we adjust to progress in lighting, we will find ourselves shaking off the old calibration of lighting intensity tied to Watts. The **lumen** is the *right* way to measure perceived brightness. If you keep in mind that standard incandescents are about 15lm/W, then you can make the calibration yourself. A 1500lm bulb is at the bright end. A reasonable general-purpose light might be around 600lm. Flashlights can register in the tens of lumens. A recent excursion to look for LED headlamps demonstrated to me that the lumen is taking off as the primary figure of merit, with numbers typically ranging from 20lm to 75lm. I hope to see something like the CRI—and maybe even something akin to the Planckian offset—begin to play a role on the packaging as well, as consumers look for lights that have a natural feel. But who am I kidding? Silly rabbit: the only number people tend to care about is on the price tag.
 
-### Aside: The Story of Why
+#### Aside: The Story of Why
 
 *It’s perhaps worth a paragraph to explain why I went to all this trouble to evaluate the maximum theoretical efficiency of white light. It started with curiosity, which—as so often happens—quickly turned into a visit to Wikipedia. A nice table on the [Luminous Efficacy](http://en.wikipedia.org/wiki/Luminous_efficacy "Wikipedia: Luminous Efficacy") page lacked the entry I wanted. So I computed a value for a perfect, truncated blackbody and stuck it in the table. A year or two later, I read a report that quoted a similar maximum, to my delight. I sought the source and found out that it was…me—or Wikipedia, in any case. Looking back at the page, I saw a “citation needed” note. I was surprised to discover that I could not find a published work detailing this maximum. Seeing this hole in the literature, I decided to plug it. A paper conveying much of the content found here was recently [published](https://tmurphy.physics.ucsd.edu/papers/JAP_111_104909.pdf "Maximum spectral luminous efficacy of white light; JAP 111 104909") in the Journal of Applied Physics ([official link](http://jap.aip.org/resource/1/japiau/v111/i10/p104909_s1 "Maximum spectral luminous efficacy of white light; JAP 111 104909"), © AIP). I thought I’d share the juicy parts with those of you having the stomach for this sort of thing. At the very least, it’s a nice collection of spectra of actual household light sources. And even if those bring you no joy, maybe the pictures will?*
 

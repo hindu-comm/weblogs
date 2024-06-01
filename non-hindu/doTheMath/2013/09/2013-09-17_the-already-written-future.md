@@ -28,7 +28,7 @@ The *only limits*, huh? I will not be sticking this one in the box labeled “wi
 
 As a highly trained natural scientist (although not in the fields of biology, ecology, etc.), the reason I fail to subscribe to historical precedent as our most prescient guide is that nature doesn’t respect our dreams, or our historical trends. Maybe this cold, hard fact is overwhelming, so we make up stories about how it will all be okay in the end: in much the same way that religious traditions give us stories to cope with the inevitable death we all must face. Sure, it’s a downer, but nature doesn’t care. And me, the sucker: I still love her all the same.
 
-### NYT Post-Script
+#### NYT Post-Script
 
 A few days after the original article, the author had a chance to [clarify a few points](http://dotearth.blogs.nytimes.com/2013/09/16/an-ecologist-explains-contested-view-of-planetary-limits/?src=rechp&_r=0). The statement of “no carrying capacity” is qualified, but on the whole the main problems I expressed above still stand.
 

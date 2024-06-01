@@ -23,7 +23,7 @@ Recently, participating in a panel discussion in front of a room full of physics
 
 So in the spirit of looking at the numbers, let’s explore in particular various connections between population and energy. In the process I will expose the United States, rather than Africa, for instance, as the real problem when it comes to population growth.
 
-## A Brief Look at Population History
+### A Brief Look at Population History
 
 For many thousands of years following the end of the last Ice Age, human population rose steadily and slowly, at a rate of about 0.032% per year—translating into a leisurely doubling time of some 2000 years. About 3000 years ago, spreading agricultural practices led to a modest boost in growth rates. But the wild ride did not start in earnest until modern times.
 
@@ -45,13 +45,13 @@ We can perhaps attribute the 1700 jump to the Renaissance and scientific progres
 
 This leads to a rather simple thesis: the surplus energy presented to us by fossil fuels allowed us to feed people more easily the world over. The bounty of fossil-fuel-turned-food encouraged an explosion in birth rates, as happens for virtually all organisms given similar circumstances. It’s so blindingly obvious that I am embarrassed to have belabored the point as long as I have.
 
-## Does Energy Grow Babies?
+### Does Energy Grow Babies?
 
 Surplus energy grows babies. That was my statement to the audience, based on the dots I connected above. So what about the astute comment that countries with the largest excesses display the weakest—and even negative—population growth rates? This statement also rings true, so how can we hold both thoughts in the head?
 
 Before digging into data, I’ll share my intuitive response. Developing countries are recipients of food, medicine, and manufactured goods from the industrial nations of the world. Surplus energy “here” can grow babies “there.” Such redistribution seems plausible, in any case. But why energy rich nations slow down was less obvious to me, aside from increased education and greater autonomy of women.
 
-## Dump Truck of Data
+### Dump Truck of Data
 
 Clear some space, because I’m about to back up a truck full of data and dump it on your lap. Mostly, it comes from the [International Energy Agency’s Key World Energy Statistics, 2012](http://www.iea.org/publications/freepublications/publication/name,31287,en.html "IEA Key World Energy Statistics, 2012"). Ten pages in this publication contain tabular data on the world’s energy appetite, along with population, GDP, and CO₂ emissions. A little cut-and-paste, editor magic, and Python parsing can turn this into a truckload of graphs. I added data on population growth rates, mostly from the CIA statistics. Spooky, yes, but these were the most up-to-date numbers on the [Wikipedia page](http://en.wikipedia.org/wiki/List_of_countries_by_population_growth_rate "Wikipedia on population growth rates").
 
@@ -109,11 +109,11 @@ CO2 production as a function of income for the countries of the world.
 
 Now we pull income back into the mix to see how CO₂ emission correlates to wealth. European OECD countries tend to appear on the “good” side of the correlation, while the Middle East tends to perform poorly by this measure.
 
-### Population Preview
+#### Population Preview
 
 Looking at the above graphs, we can learn something important about adding people to the planet. Adding a person in Africa has very little impact on energy use and (therefore) CO₂ emissions compared to adding a person to the U.S., by a factor of 20. Picture an American baby 20 times bigger than an African baby. A Quatari towers 45 times higher than a typical African citizen when it comes to CO₂. If one is inclined to think about *where* to limit population growth, the countries high on these graphs have their necks sticking out. Just sayin’.
 
-## Population Growth Correlations
+### Population Growth Correlations
 
 So far, we’ve only looked at metrics present in the [IEA Key World Energy Statistics](http://www.iea.org/publications/freepublications/publication/name,31287,en.html "IEA Key World Energy Statistics, 2012") publication. Now let’s add population growth rate and see how things stack up.
 
@@ -143,7 +143,7 @@ Population growth rates as a function of fractional energy produced by the count
 
 I had to put the horizontal axis on a logarithmic scale to spread the points out reasonably. Many countries are cut off on the left-hand side (less than one-tenth of their energy consumption is domestically produced), but all net energy exporters are represented. We see that countries with surplus energy (the exporters) tend to be growers of population as well. To the left of the parity line (10⁰=1 means balanced production and consumption), countries are far more likely to have lower or negative growth rates. Looking at the aggregate data points (colored shapes) perhaps reveals the correlation more strongly. Surplus energy tends to lead to surplus people, in our real world.
 
-## Collecting Thoughts
+### Collecting Thoughts
 
 This is a complex topic. To do a thorough job I would have to disentangle immigration from domestic birthrates. But certainly the graphs above cast doubt on the intuitive story that nations rich in energy or money trend toward lower growth rates.
 
@@ -153,7 +153,7 @@ It makes me question the global benefit of increasing population by providing fo
 
 In any case, it is easy enough to find reasons why the growth rate should plummet as energy/wealth break free from the bottom of the barrel. But why the reversal? One way to answer is to ask: why did the U.S. experience a baby boom after World War II? Significantly, the U.S. dominated oil production in this period: we were to the world then what the Middle East is now. Times were swell. We were full of hope and optimism, and believed we could do anything. That’s good baby-making weather, folks. We make decisions about what we can afford to support based on current conditions and some sense of the brightness of the future. Energy surplus, combined with a primal instinct for passing our genes and raising families, sets us up on a predictable path.
 
-## Where is the Real Population Problem?
+### Where is the Real Population Problem?
 
 We in the Western World tend to point the finger at developing countries as being the major culprit for population growth. And it is true that the fractional growth rates in such places is alarming, with doubling times of a few decades. We are justified in wondering how this population will be fed.
 
@@ -181,11 +181,11 @@ Annual absolute CO2 added as a result of population growth, as a function of the
 
 Something moderately interesting happens when we cast the plot in terms of CO₂. Because India and China use “dirtier” energy sources, in terms of CO₂, the gap between the U.S. and China/India is reduced. The U.S. still stays on top, but less overwhelmingly so. Some Middle-Eastern countries are straining to break away from the pack as well—but not in a good way.
 
-## Child Free by Choice
+### Child Free by Choice
 
 The list of reasons for why my wife and I decided not to have kids is long (not to say that we did not also see benefits). This post gets at one of the facets. Adding a child in the U.S. has a disproportionately large impact on global resources, whose finite nature is becoming increasingly apparent. At some level, ours is an attempt to arrest the innate human drive to reproduce (which I *do* share), because this results in adding more people to the planet—perhaps not the wisest course at present. Parents readily portray our choice as selfish—probably because we have more freedom in how we spend our time. But selfish arguments are destined to fail: virtually all choices humans make involve self-consideration, and therefore have a selfish component. Flipping the argument around, by not having kids, we deprive ourselves of: the undeniable joys of parenthood (mixed with occasional exasperation); potential caretakers as we age and lose facilities; and a genetic link to the future. In part, I forfeit these advantages because I have trouble justifying why my personal needs should come at an outsized cost to a unprecedentedly challenged civilization. In this way, I can just as easily cast the decision to *have* kids as the selfish choice. Not popular with the breeding sort: people don’t appreciate being labeled as selfish. I expect a few howls.
 
-## Oil-Clouded Crystal Ball
+### Oil-Clouded Crystal Ball
 
 I try to be careful not to convey certainty about the future—which I note is not a behavior i often witness from optimists. Rather, I try to point out distinct possibilities that we collectively tend to ignore or deny. Only via increased awareness to neglected issues can I ever hope to be proven *wrong* in my concern. That would be a lovely outcome, and in fact is the whole point for me.
 

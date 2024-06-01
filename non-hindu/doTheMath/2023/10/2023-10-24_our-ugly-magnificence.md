@@ -29,7 +29,7 @@ What I thought I might try is to express the underlying beliefs of techno-optimi
 
 It might be fascinating to pass the next section (four paragraphs) to others in your circles and see if it raises objections. To facilitate that, [here is a link](https://dothemath.ucsd.edu/the-long-brilliant-future/) to a separate page that contains the same text in isolation, with minimal context. I would *want* **every sentence** to raise objections. But I’m guessing that most statements will go down easy, swallowed as familiar and correct mythology.
 
-# The Long Brilliant Future
+## The Long Brilliant Future
 
 Humans have emerged on Earth as the epitome of evolution. No other species comes close in terms of intelligence, dexterity, or resilience. A clear dividing line therefore exists between humans and the other species. We are *more* than just animals. Humans have something that other animals do not: emotions, and *soul*. Moreover, unlike every other species on the planet, humans possess free will. We get to shape our destiny, independent of our primitive past or physiological baggage.
 
@@ -39,7 +39,7 @@ Having accomplished this amazing leap, we recognize that humans now have the pow
 
 Next to this grand vision, the slow, grinding, biological mechanisms that led to this point become obsolete. That past is exciting mainly to the extent that it gave birth to the great awakening, when the universe became self-aware through us and things changed forever. Nothing should stand in the way of the human quest for more knowledge, more control, more amazingness. Next to the soaring human endeavor, which may now last indefinitely, no single other species measures up. In the name of science; in the name of progress; in the name of continued human ascendancy, the fate of other species takes a back seat. While it might be nice to preserve them, doing so is not critical to what really matters. After all, anything humans do in advancing our greatness serves to make the world a better place.
 
-# Give it some Blitz!
+## Give it some Blitz!
 
 What did you think? You already know that I disagree, but do you struggle to identify fault from end to end?
 
@@ -47,7 +47,7 @@ Now I’m going to take the same sentences, but punch them up in a way that peri
 
 In what follows, think of “Humans” as those “legitimate” persons participating in or benefiting from the Nazi regime—or in the parallel sense, humans in the club of modernity. One might also use race and species interchangeably to appreciate the parallel interpretations.
 
-# Million Year Reich
+## Million Year Reich
 
 The Human Race has emerged on Earth as the epitome of evolution. No other race comes close in terms of intelligence, dexterity, or resilience. A clear dividing line therefore exists between Humans and the other (mongrel) creatures on the planet—mere animals. Humans have something that other animals do not: emotions, and *soul*. Moreover, unlike every other wretched beast on the planet, Humans possess free will. We get to shape Our destiny, independent of Our primitive past or physiological dreck.
 
@@ -57,7 +57,7 @@ Having accomplished this amazing leap, We recognize that Humans now have the pow
 
 Next to this grand vision, the slow, grinding, biological mechanisms that led to this point become obsolete. That past is only exciting in that it gave birth to the Great Awakening, when the universe became self-aware through Us and things changed forever. Nothing should stand in the way of the Human quest for more knowledge, more control, more amazingness. Next to the soaring Human Reich, which may now last for a million years or more (during which We might hope to escape Our primitive corporeal prisons), no squalid stepping-stone species measures up. In the name of science; in the name of progress; in the name of continued Human ascendancy, the fate of the mongrels does not matter one whit. They lost the race, and can get out of the way now that We invented the rungs to the ladder, so that We may climb out of the muck. Anything Humans do in advancing Our Greatness makes the world a better place. Heil Humans!
 
-# Despicable We
+## Despicable We
 
 I hope you feel like taking a shower to wash off the self-aggrandizing filth. Note that the basic sentiment is the same in both versions, sentence for sentence—so both versions ought to require a post-reading cleanse. It’s true that modernity’s disregard for the natural world is not as contemptuous or hateful or conscious as the Nazi attitude toward other races. But in some ways, we give the living world even *less* credit and recognition than Nazis did to their non-Aryan allies and enemies. It’s as if the more-than-human world **isn’t even important enough to merit contempt**. It’s just pointless, worthless, collateral fodder that generally gets in the way of our material and comfort demands, and thus can be discarded without a second thought if it means smart phones for us.
 
@@ -65,7 +65,7 @@ I hope this comparison does not come off as insensitive to the tragic fate of vi
 
 Smile for the selfie! You’ve earned this! Bonus points if the background shows deforestation, habitat loss, polluted dead zones, or roadkill.
 
-# Point by Point
+## Point by Point
 
 At the cost of swelling the length of the post, I thought it would be worthwhile pointing out why *every sentence* in the Statement of Greatness strikes me as wrong. I’ll use the original, gentler version, and sometimes address responses to the fictional speaker (so please don’t take the “you” references personally, unless the sentence gets your full support).
 
@@ -122,7 +122,7 @@ So predictable…
 
 If unconvinced, and preferring the original statements to the rebuttals, then at least own what that makes you.
 
-# Disembodied Delusion
+## Disembodied Delusion
 
 A recurring theme in the content above is a sense of transcendence from the physical, or a disembodied, decontextualized plane on which human thought, will, and ambition operate. I have encountered this time and again: adopting the model over reality; the map over the territory; the product of human thought over the *real* thing it fails to represent in full.
 

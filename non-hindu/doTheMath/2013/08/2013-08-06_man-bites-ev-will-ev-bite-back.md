@@ -28,7 +28,7 @@ It turns out that:
   discounts; - the CO₂ emissions are cut in half in electric mode (considering
   upstream electricity production in our region); - batteries still stink compared to liquid fuel, and likely always will.
 
-## EV Pro or Con? Decide, Dammit!
+### EV Pro or Con? Decide, Dammit!
 
 I remain skeptical that EVs or PHEVs will capture a large fraction of the U.S. market share. Yet I just voted with my own dollars to get one. Does this make me a hypocrite? A double-talking, contrarian, dirty hippy? Not in my view, naturally. I’m a very unusual consumer: hyper energy-conscious, generally frugal despite a relatively high-income, but all the same prone to take on energy-related hobbies that may not be a win in the strict financial sense. In this case, \$3750 of federal tax credit, \$1500 from California, and \$4000 off the MSRP (corresponding to a shocking \$2000 below *invoice* price) conspired to make the choice attractive and affordable. But these three discounts do not speak to the steady state fate of EV cars. The first two will expire at some point, and the deep price drop likely signals a panic from Ford responding to disappointing sales numbers that could portend doom and lost investment for the C-Max Energi line. These cars won’t be sold indefinitely at a loss. So I bought the car under highly unsustainable pretenses. Optimistically, maybe the incentives provide a necessary kick start while EVs become cheaper. Time will tell.
 
@@ -42,7 +42,7 @@ Still, as I often find, applying a strict dollars-and-cents assessment imposes a
 
 We’ll get back to some basic EV math in a bit. First, we’ll take a detour into environmental factors.
 
-## CO₂ Emissions
+### CO₂ Emissions
 
 While [climate change](https://dothemath.ucsd.edu/2011/08/recipe-for-climate-change/ "Recipe for Climate Change in Two Easy Steps") is not a primary motivator for me (resource depletion, growth reliance, and fossil-fuel dependence in general are my main concerns), I *do* take it seriously. If I’m unjustified in worrying about a resource crunch on a shorter timescale, and we therefore continue profligate consumption of fossil fuels, then climate change is there to make sure we get bitten either way.
 
@@ -70,23 +70,23 @@ At the EPA rating of 34kWh/100 mi, 1MWh would propel the C-Max Energi 2940 miles
 
 In either case, it is clear that driving a car on electric propulsion can offer a net savings in CO₂ emissions—especially in California. Picking on my home state of Tennessee, obtaining 59% of its electricity from coal (and only 9% from hydro, despite the Tennessee Valley Authority system of dams) puts its carbon intensity at a little more than double that of California. In such places, it’s questionable whether electric drive produces a net CO₂ benefit. In places like Wyoming, Kansas, and Missouri, it is decidedly *worse* to tool around in an EV powered by utility electricity, from a carbon standpoint. The national average carbon intensity is 1.84 times the California value, according to the EPA. Here, too, the question of net benefit becomes mushy. One lesson is that it may be wiser to drive toward low-carbon sources before driving the country on electric cars.
 
-### Other Pollutants
+#### Other Pollutants
 
 While power plants do nothing to capture CO₂ emissions at present, they *do* tend to be proficient at scrubbing other pollutants, like nitrous oxides (NO_(x)) and sulfur dioxide (SO₂) from the exhaust stream. Catalytic converters in cars achieve some reductions (on NO_(x)), but we can’t expect a compact, lightweight, mobile device to perform as well as a giant piece of fixed infrastructure. The [EPA site](http://www.epa.gov/cleanenergy/energy-and-you/how-clean.html "EPA electricity source by zip code") also presents intensities of these two pollutants stemming from regional electricity production (in graph above). Here, California shines again: for NO_(x), the national average is 1.12 pounds per MWh, while San Diego gets 0.42 pounds per MWh. For SO₂, it’s even better: 0.18lbs/MWh in California vs. a national average of 3.08.
 
 On the flip side, the manufacture of EVs and PHEVs incur greater energy costs than do conventional cars, and also employ rare earth elements in the motors and involve caustic chemicals in battery production. A recent [article in IEEE Spectrum](http://spectrum.ieee.org/energy/renewables/unclean-at-any-speed "IEEE Spectrum: Unclean at Any Speed") surveys studies that put the net environmental impact of EVs slightly worse than that of conventional cars—despite achieving CO₂ reductions in propelling the vehicles. I have not personally delved into the numbers and analysis, but the result is credible. Assuming the conclusion applies to the national average electricity mix, the fact that California undercuts the national average CO₂ emissions by nearly a factor of two (and even better on other pollutants) means that EVs in California are very likely still a net environmental win—although not dramatically so. This again illustrates the importance of switching our electricity supply before (or at least in tandem with) large scale adoption of electric transportation.
 
-## Batteries Stink
+### Batteries Stink
 
 I have [warned before](https://dothemath.ucsd.edu/2012/08/battery-performance-deficit-disorder/ "Battery Performance Deficit Disorder") that electric vehicles are not obviously going to provide a viable large-scale path away from fossil fuels. In a connected vein, I have also expressed [disappointment](https://dothemath.ucsd.edu/2012/08/battery-performance-deficit-disorder/ "Battery Performance Deficit Disorder") in batteries in general. Have I softened my stance on batteries? Am I endorsing EVs as the “right” way to mitigate our future challenges? Mostly, my answer is “no.”
 
 I don’t hold out tremendous hope that electrified transport can smoothly replace our fossil fuel dependence. The energy density of batteries remains disappointing; most people are priced out (incentives help, but are temporary); recharging is slow and often inconvenient. What follows is some basic EV math exposing some of the hurdles.
 
-## EV Math
+### EV Math
 
 To illustrate some of the challenges facing electric cars, let’s consider parameters that most Americans would find to be acceptable as an equivalent trade. We’ll imagine a car that can drive a range of 300 miles (480km): comparable to typical gasoline car ranges. Impatient Americans would like to recharge in five minutes or less. Let’s impose *some* hardship and say it’ll take a whole ten minutes to charge and then evaluate some of the fallout from these choices.
 
-### Charge Power and Thermal Limitations
+#### Charge Power and Thermal Limitations
 
 Firstly, a person filling a gasoline tank at a rate of 0.1gal/sec (topping off a typical tank in about two minutes) is delivering energy to the car at a rate of about **13MW**. Think about this. That’s 2,000 homes running air conditioners. Two people filling up at a gas station reaches parity with the UCSD campus’ electrical power demand. Right away you see the problem with transferring electrical energy to a car at similar rates.
 
@@ -96,7 +96,7 @@ But let’s get back to numbers more relevant to EVs. A 300 mile range will requ
 
 But the charging problem is also bad on the thermal front. At an 80% charge efficiency, 20% is lost as heat. For reference I measure my C-Max to consistently get just 70% efficiency at 11.5 amps and 120VAC; and 80% at 14.5 amps and 240VAC. A 20% heat loss for our dream battery becomes 120kW nightmare of waste heat to dissipate. Distributed over a 6m² area (picture a cube 1m on a side, or a flatter package fitting under the car), this is 20,000W/m². Aggressive ventilation may achieve a convection coefficient of around 50W/m²/°C, but this still leaves a 400°C surface temperature above ambient. Wowzers. We have ourselves a thermal problem, folks. Partial charges at a lower state of charge may manage to be more efficient, but that’s not a full solution to the problem.
 
-### Energy Density and Mass
+#### Energy Density and Mass
 
 [![From Tesla site.](https://dothemath.ucsd.edu/wp-content/uploads/2013/08/BatteryPacks_0.png)](https://dothemath.ucsd.edu/wp-content/uploads/2013/08/BatteryPacks_0.png)
 
@@ -104,7 +104,7 @@ From [Tesla](http://www.teslamotors.com/roadster/technology/battery "Tesla Techn
 
 Modern EV batteries achieve energy densities from 0.08kWh/kg (Nissan Leaf) to 0.12kWh/kg (Tesla Roadster: \$\$). Gasoline, by contrast, packs 36.6kWh into each gallon, with a mass of 2.77kg, or 13.2kWh/kg—over 100 times better than batteries. Better conversion efficiency reduces the factor of 100 down to 20–30, but still, our 80kWh battery will be in the ballpark of 1000kg, which is a lot to haul around.
 
-### Economics
+#### Economics
 
 How about the economics? Typical real costs of EV batteries today run about \$500/kWh. So our 80kWh battery costs \$40,000. Actually, EV batteries only provide access to part of the capacity, lest extreme discharges ruin the battery. So our example really demands \>100kWh of battery, pushing the cost above \$50,000. And that doesn’t yet count the cost of the car. I think it becomes clear why the Tesla cars (longest range EVs) are so darned pricy. It’s more than the sleek looks and status.
 
@@ -118,7 +118,7 @@ From past experience, I expect to be attacked by vested EV owners on this point.
 
 Since pure EVs have trouble breaking even on propulsion cost, what about PHEVs, which can tolerate shorter electric ranges? As soon as a portion of the miles are driven in gasoline mode, the propulsion savings erodes, translating into a diminished break-even battery size. A vicious cycle begins, wherein each battery/range reduction translates to greater gasoline reliance and therefore further-diminished savings. Maybe the battery lifetime increases as well with lighter use. But this depends on driving profiles, number of cycles, etc. It isn’t clear that there is a pure financial win on the PHEV side, either (plus the PHEVs are more complex than EVs, driving up the non-battery portion of the cost).
 
-## My Take-Away
+### My Take-Away
 
 Despite “buying in,” I remain unconvinced of the degree to which EVs will revolutionize transportation. Don’t get me wrong: I am very satisfied with our PHEV. We went 1304 miles on our first tank of gas, lasting 58 days (697 of 700 around-town miles were on pure electric; gasoline was used for 220 miles of a round trip to Pasadena, plus the first 380 miles of road trip). I now have a car that I can charge from my [off-grid PV system](https://dothemath.ucsd.edu/2012/07/my-modest-solar-setup/ "My Modest Solar Setup") even if long gas lines coincide with a power outage. I love the freedom and versatility. And the car is (for me) a leap into futuristic technology that is very nice, albeit causing me some discomfort as someone who prefers simplicity (e.g., still got the flip phone) over pizzazz.
 

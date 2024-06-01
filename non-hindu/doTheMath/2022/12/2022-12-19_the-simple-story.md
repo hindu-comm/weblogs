@@ -19,7 +19,7 @@ Two major problems I have with this attitude are that 1) we *are* animals, and 2
 
 So allow me to pull back from our present age of baffling complexity to outline a simple story covering the broad sweep of the human saga. The result may be a little startling, and, for a number of readers, sure to be rejected by cultural antibodies as “not applicable” (see also my views of our [civilization as a cult](https://dothemath.ucsd.edu/2022/10/the-cult-of-civilization/)).
 
-# Story Timeline
+## Story Timeline
 
 In order to make comprehensible the vast tract of human time on this planet—itself 5,000 times shorter than the age of the universe—I will compare the 2.5–3 million year presence of humans (genus Homo) on Earth to a 75 year human lifespan: a span that we can grasp intuitively. On this scale, we get the following analogous periods:
 
@@ -44,7 +44,7 @@ So, reflect on how you would react to a 75-year-old relative who went on a eupho
 
 The backdrop, or fabric of your entire existence—the few hours for which you’ve been alive on our scale—seems entirely *normal* to you, but the whole point of this post is that it’s really just *not*.
 
-# No Facile Solution
+## No Facile Solution
 
 This condition seems unlikely to be solved by technology. Wouldn’t we say that technology is a primary *ingredient* of the illness? Cleverness and an illusion of control got us here, and they are not our best tools for extracting ourselves from the mess.
 
@@ -60,7 +60,7 @@ I like flight analogies here. A rock is not designed on the aerodynamic principl
 
 An important aside is that this condition is not *intrinsic* to the human animal. Most of our life on this planet has *not* been characterized by a smash-and-grab rampage. That’s our new trick for the last 15 weeks, recently perfected and at fever pitch. Dazzling! We can learn other tricks—take up new hobbies that don’t wreck our lives and those of our loved ones (i.e., other species): slow, thoughtful hobbies rather than this frenetic one.
 
-# Can’t We Just…?
+## Can’t We Just…?
 
 You might be thinking: well okay, maybe we’ve overhsot a bit and need to dial things back…but surely (Shirley?) we can hold on to something we would recognize as civilization—I mean, come-on! Well, truthfully, I don’t *know* if it’s possible to preserve civilization—and *neither does anyone else!* To state the obvious: *wanting* civilization to continue is not enough without biophysical backing. I suspect that for most people who assume a continuation and even expansion into space, their examination is paper thin—not based on a careful consideration of biophysical limits, but more a matter of uncritical and fantastical extrapolation based on an admittedly head-spinning recent ~~binge~~…I mean history.
 
@@ -68,7 +68,7 @@ My reasonable doubt is semi-quantitative. We have consumed a sizable fraction of
 
 I’m not interested in fantastical or magical thinking. The suggestion—against mounting evidence to the contrary—that we could (or should) maintain the architecture for this ecologically devastating mode of living for any significant duration strikes me as simply wishful and also heartbreaking. I’d like to get beyond that and be hard-nosed about what can *really* happen, subject to planetary limits: most importantly, preserving habitat and biodiversity.
 
-# But Big Brains?
+## But Big Brains?
 
 A common reaction is: can’t we use our big brains to solve this problem? Extending civilization for even another 1,000 years will *surely* give us time to think of *something*, our faith tells us. What if that “something” is the realization that civilization is inherently unsustainable and must be replaced with alternate, simpler (but richly meaningful) approaches to life on Earth? Maybe we can use our brains to save ourselves some time, agony, and further devastation by reaching this conclusion sooner.
 
@@ -76,7 +76,7 @@ Implicit in the leading question above is usually the notion of a *technological
 
 What we need to learn instead is how to live with the long-term constraints of the natural world as it is presented to us—not take it upon ourselves to shape it to our unrealistic wants and whims, which is a proposition certain to fail. It’s about *responding* and *adapting* in an attitude of humility, not solving, mastering, exerting, defining, and dictating. Our brains are nowhere near big enough to pull off complete wizardry over nature, but *maybe* they are big enough to make this leap of intentional humility. We’ve been there before. I hope we still have what it takes.
 
-# Priorities for Success
+## Priorities for Success
 
 It is in this context that the push to transition to renewable energy is [misguided](https://dothemath.ucsd.edu/2022/09/a-climate-love-story/), in my view. The implicit aim is to preserve civilization in essentially its current glorious state by keeping it fueled to carry on in the least disruptive way. Disruptive to what? Economic concerns? Civilization is proving to be frighteningly disruptive to the natural world. In prioritizing a preservation of civilization, we are elevating this ephemeral, artificial construct above biodiversity and a healthy ecosystem: a prescription for certain failure. It’s doubling down on the wrong thing: propping up and accelerating the machine that’s eating the planet alive. Barreling forward on renewable energy is the last thing Earth’s critters would vote for, and would be considered one of the more disruptive decisions we could make.
 
@@ -85,7 +85,7 @@ Granted, any sustainable future must by definition utilize renewable energy in t
 Any path to success **must start** on a sound ecological foundation, whatever the field of concern: economics, politics, belief systems, human rights, science, engineering, and the rest. Is that the first chapter/lecture in any of these fields? Of course not, but it ought to be. Otherwise we are teaching a blind path to failure. Think of it this way: what would you trade (technology, comforts, materials, even relationships) for **all** the (non-human) animals/life on Earth?
 Probably nothing, upon realizing that we ourselves can’t live without a functioning (healthy) ecosystem, and that we are just one of ten million species. Okay. Then we need to act like it. Make biodiversity and ecological health the *highest* priority and work *within* the resulting constraints. All decisions should start with the question: “would this action *help* or *harm* the (larger, and ultimately more important) non-human world?”
 
-## Post-Script: Recent Influences
+### Post-Script: Recent Influences
 
 As my posting history reveals, I have been on a journey of expanded thinking about the nature of our predicament, moving beyond the initial phase of quantitative assessment of energy (during which I was still in the mindset of a tech-driven solution space), into deeper questions of what we’re all about and why we do the things we do. In the summer of 2022, after several recommendations over the years, I finally sat down to read [*Ishmael*](https://www.ishmael.org/), a novel by Daniel Quinn. I was simultaneously impressed by how familiar the logic already was to me and by the degree to which it sharpened my ability to separate successful approaches from (ultimately) unsuccessful ones. I followed this up by the two other installments in the series (*The Story of B* and *My Ishmael*) and Quinn’s non-fiction framing work, *Beyond Civilization*. I have valued them all, and view them as helping to crystalize the path I was already walking down. I wouldn’t call myself a faithful *adherent*—accepting all arguments/premises—but a largely-resonant admirer of the worth of these important works. Check your library and give it a try!
 

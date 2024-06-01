@@ -23,13 +23,13 @@ An answer—or at least a partial one—is beginning to resolve itself in my hea
 
 I already gave away the big secret in the title. And it may not seem particularly profound. Perhaps not, but bear with me.
 
-# Human Primacy
+## Human Primacy
 
 Most belief systems in the world today cast humans as the prime actors. Monotheistic gods (amusing to make gods plural in this context, don’t you think?) seem to consider humans as a primary concern, which is very flattering. For these religions, the world was created for us. Buddhism concerns itself with freedom from human suffering (enlightenment). In secular circles, humanism stresses the sanctity of human life, freedom, rights, and agency. Blends are also possible: many Americans hold both Christian and humanist beliefs. Political/economic ideologies, whether capitalist, socialist, or communist are essentially various flavors of humanist belief systems. Even Nazis could be described as evolutionary humanists.
 
 Perhaps this is not surprising or particularly deep. Political regimes necessarily concern themselves with humans and their well being.
 
-## Reality Dose
+### Reality Dose
 
 The trouble starts when these human-centric frameworks are extended to non-human realms—which, let’s face it, is pretty much everything. By almost any physical measure in the universe, humans are insignificant: mere specks on a larger speck moving around a luminous speck within a smudge of a galaxy among many billions of other smudges.
 
@@ -37,7 +37,7 @@ In high school, when reading a news update in *Sky & Telescope* magazine about a
 
 Meanwhile, we live on a biophysical planet governed by physical laws that exist without the consent of humans, and would be the same with or without us. Yet our conceit is that the artificial world of human constructs is the one true reality—or at least the [most important one](https://dothemath.ucsd.edu/2021/11/caught-up-in-complexity/).
 
-## Prevalence of Primacy
+### Prevalence of Primacy
 
 It is the rare individual in the modern world who does not consciously or subconsciously believe in human primacy. Ask someone what their chief concern is: what they care most about; what they would fix if they could. How many times out of ten (or do we need to go to 100?) would the answer be human-centered? Poverty, hunger, justice, inequality, jobs, health, family, economic security, tribalism, wrong-number dialers—the list goes on. This is a signal that humanity is pretty self-centered.
 
@@ -45,7 +45,7 @@ That’s okay: it’s understandable, or even expected for any species. Why woul
 
 Given our self-centered nature, it is no wonder that we collectively neglect the broader menagerie of life on this planet. We do not prioritize nature above ourselves, and are likely to pay the ultimate price for our selfishness as we compromise the very substrate on which we—and other species—ultimately depend.
 
-# Message Lost
+## Message Lost
 
 But more broadly, this phenomenon may help explain why messages of warning about overshoot and potential [collapse](https://dothemath.ucsd.edu/2021/05/why-worry-about-collapse/) fall on deaf ears. Overshoot implies that we don’t have all the answers, that we can screw up big time, that nature can smack us down, and that all the king’s horses and all the king’s men (i.e., technology) aren’t enough to realize our arbitrary dreams.
 
@@ -68,7 +68,7 @@ This is a tall order, in today’s world. The overshoot message creates instant 
 
 On the plus side, many of these tendencies are not necessarily baked into human DNA. These beliefs have not been constants of human cultures across the ages. We are capable of new (or old) mental models of ourselves and our relation to the world in which we live.
 
-# What’s the Alternative?
+## What’s the Alternative?
 
 I can imagine various horrified over-reactions to the suggestion that we place too much value on human life. Am I for murder, then? Genocide? Just how monstrous am I? I might even be an atheist, the way I’m talking! Easy there, partner.
 
@@ -80,7 +80,7 @@ But we need to figure out how to do so *not* at the expense of the rest of the p
 
 In a strange sense, I only care about these issues because I *do* value humanity, and celebrate some of our accomplishments. I want to see our best discoveries preserved for eons. So I’m all for having lots of humans on the planet through the ages, just not all at once. We’ve overfilled the lifeboat, and risk its foundering. Our present course may, in fact, *minimize* the total human footprint on the planet in the long term!
 
-## A More Balanced Mindset
+### A More Balanced Mindset
 
 Human exceptionalism, then, is ironically about the worst curse you could cast on the human race: practically assuring a hubristic overreach and collapse. Some attitudes that would help us better navigate our tricky future are:
 

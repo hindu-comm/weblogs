@@ -19,7 +19,7 @@ Really? By what margin? The mere fact that the balance of power has taken so lon
 
 I have an idea that could make a huge difference. It’s an idea that has essentially no hope of gaining traction—especially since: who the hell am I? But I will put it out there all the same. Maybe others will see the logic.
 
-# History of the Problem
+## History of the Problem
 
 The U.S. has essentially always been a two-party system. But before 1970 the Democratic party had a healthy mix of both liberals and conservatives, as did the Republican party. Bipartisan deals were common, as liberals or conservatives from both sides of the aisle would find common cause and push legislation. I think of it as a well-shaken beaker of oil and water.
 
@@ -31,7 +31,7 @@ In any case, the partisan primary system has resulted in giving the more ideolog
 
 Now in the general election, we end up with candidates that are not attractive to the 50% in the middle, and the winner is only well-liked by a distinct minority. We therefore create a machine that disfavors centrist candidates who have cross-over appeal. Because primaries are partisan, any cross-over appeal is wasted in the nomination process, and therefore a liability rather than an asset. **Of course** we end up in this ultra-polarized mess. How could our partisan primary system accomplish anything else?
 
-# A Random Fix
+## A Random Fix
 
 Fixing polarization, therefore, must involve fixing the nomination process. To do this, we need to allow centrist voices to speak. That only happens if we bring down the artificial partition dividing the primary process, cleaving centrists into two non-interacting camps.
 
@@ -43,13 +43,13 @@ This is the heavy lift here. Don’t run away in horror until you hear me out. B
 
 What emerges is good-faith efforts to pick candidates who you could tolerate, even if not your overall preference. Lots of consequences come out of this, which I’ll return to after addressing some nuances.
 
-## Nuances
+### Nuances
 
 Nuance 1: *Not a literal coin*. The “coin” should not produce 50/50 odds, but should be weighted to represent the district’s composition. For instance, in Wyoming (a deep “red” or Republican state), maybe the electorate is 70% Republican, 25% Democratic, and 5% Libertarian. So fashion a “coin” that transparently produces outcomes following those odds (maybe with a lower cutoff: “you must be this tall to go on this ride”). Ideas for implementing this appear farther down. So all the Republicans in Wyoming will have a say in the candidates from each party, knowing that the odds are in their favor that their selection will advance to office. All the same, they’ll have a say in a Democratic candidate who they believe could represent their state well enough, if it came to that.
 
 Nuance 2: *Need not be equal voices*. Why would a Republican want a Democrat to have equal say about their candidate? One could imagine a weighting system, where you have a weight of 1.0 in your own party, and 0.75 (or whatever) in others. You’d want it to be significant enough to hold sway, but would want to prevent outsiders from dominating decisions within the party. In all likelihood, the weights would be set in accordance with the electorate composition to maintain dominant weight within the party. It’s easy to come up with prescriptions for this, even in a multi-party system.
 
-# Consequences
+## Consequences
 
 Most significantly, imagine how the elected official behaves in office. They know that in order to get re-elected, they have to satisfy **all** their voters—not just their polarized base. Isn’t this what we mean by democracy? Aren’t we aiming for our officials to represent all of us? Shouldn’t we be seeking the collective good?
 
@@ -65,7 +65,7 @@ Increased interaction also becomes more common: right now the teams stay in thei
 
 I encourage you to think about other upsides (and sure, downsides) to the scheme.
 
-# Mechanisms
+## Mechanisms
 
 A brief detour into how to make the random selection truly random, transparent, and unhackable. I have not gone to great lengths to think this through—not worth the effort at this conceptual stage. But imagine this as a template.
 
@@ -77,13 +77,13 @@ Now, a second stage of randomness selects which ball of the 1,000 is the “winn
 
 The exact mechanism is not critical, and this is just one serving suggestion. It should not be hard to devise a fair and transparent system immune to foul play. Plus, it would be fun to watch as a national event!
 
-# General Election?
+## General Election?
 
 In the scheme outlined here, the “coin flip” becomes the general election. Voters express their preferences at what we now call the primary stage, then sit back and watch the random result. It does not have to be this way. A second round of voting could be injected after the “primary” winners have had a chance to state their cases, debate, etc. Either a straight vote or ranked choice could establish voter preference and set the lines for the random partitions. It is important to keep the randomness at the end, though. Otherwise we slip right back into the tyranny of the majority wing and marginalize the minority (and centrist majority) voices.
 
 The electoral college could co-exist with this scheme, if wished, or it could be abandoned. Compelling arguments exist for either. Without it, a single random process could be used for national office (i.e., President). Otherwise each state conducts its own, as they also would for Senators. And so it goes as districts get smaller: each contest ultimately comes down to a weighted “coin flip.”
 
-# Final Reflection
+## Final Reflection
 
 It is amusing to ponder how many ills a random element could fix. We tend to think of randomness as a lack of control. The fallacy is in thinking that we’re good at control. How is it working out? Nature is full of randomness, and in fact thrives and evolves as a result. Our political system could perhaps use a bit more of it.
 

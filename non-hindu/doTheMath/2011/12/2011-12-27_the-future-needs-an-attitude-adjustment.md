@@ -15,7 +15,7 @@ Festivus Pole.
 
 Kids these days. When I was a lad, tantrums were redressed with a spanking. Heck, spankings (at school) were answered by further spanking (at home). In polite company, we might apply the euphemism “attitude adjustment” to mask the unpleasant image of a bawling kid bent over the knee getting red in the tail. I’m not going to wade into the issue of whether or not such treatment is the most effective way to shape responsible adults, but I *will* say that I think our society needs some sort of attitude adjustment when it comes to expectations of our future. I’ll take a pause from the renewable energy juggernaut recently featured on Do the Math and offer some seasonal scolding. Think of it as my “airing of grievances” component of *Festivus*: “a holiday for the rest-of-us,” as introduced on *Seinfeld*.
 
-## People Want Stuff
+### People Want Stuff
 
 Over the years, my diligent observation of people has led me to a deep insight: people want stuff. I know—bear with me as I support my argument. Donald Trump. Okay, I think I’ve covered it. No, it’s true. On the whole, we don’t seem to be satiable creatures. Imagine the counter-examples: “No thanks, boss. I really don’t need a raise.” “I’m done with this money—anybody want it?” “Where should I invest my money to guarantee 0% return?” (Answer: anywhere, lately.) I’m not saying that the world lacks generosity/charity. But how many examples do we have of someone making \$500,000/yr (in whatever form) and donating \$400,000 per year to those in need, figuring \$100,000/yr is plenty to live comfortably? I want names (and actually *hope* there are *some* examples).
 
@@ -25,7 +25,7 @@ As we stand on the precipice of a transition away from this magic elixir, we are
 
 How many people are offended, scandalized, or just plain irritated by my suggestion that the future *may* be a step backward from where we are today? If you’re one of these, then you’re a candidate for an attitude adjustment. Don’t *you* give me that look!
 
-## The Case for Reversal
+### The Case for Reversal
 
 Bear in mind that I am no more qualified than *any living person* to know what the future will bring. Be very wary of anyone who expresses confidence about where we will be in 200, 100, or even 50 years from now. In truth, the future *could be* unrecognizably harder than today in as little as 20 years. To reject this real possibility is to be willfully biased toward a bright future. Just because I warn of a possible future of hardship does not mean that I reject the notion that we could pull through the transition ahead in glorious fashion to a splendid shiny future for all. In fact, I’d love to see this happen, and I’d love it if we find a way around all my worries. But given the scale of our challenges, we would be foolish to *assume* that this path will materialize.
 
@@ -41,7 +41,7 @@ On a related note, the fossil fuel boom has brought with it a population boom, u
 
 See the Do the Math [post on peak oil](https://dothemath.ucsd.edu/2011/11/peak-oil-perspective/ "Peak Oil Perspective") for particulars on one scenario that has me worried. In brief, a declining petroleum output leads to supply disruptions in many commodities, price spikes, decline of travel/tourism industries, international withholding of oil supplies, possibly resource wars, instability, uncertainty, a sea change in attitudes and hope for the future, loss of confidence in investment and growth in a contracting world, rampant unemployment, electric cars and other renewable dreams out of reach and silly-sounding when keeping ourselves fed is more pressing, an [Energy Trap](https://dothemath.ucsd.edu/2011/10/the-energy-trap/ "The Energy Trap") preventing us from large scale meaningful infrastructure replacement, etc. There can be positive developments as well—especially in demand and in “attitude adjustments.” And perhaps the market offers more magic than my skeptical mind allows. But any way you slice it, our transition away from fossil fuels will bring myriad challenges that will require more forethought, cooperation, and maturity than I tend to see in headlines today.
 
-## Reactions
+### Reactions
 
 People often misinterpret my message that “we risk collapse,” believing me to say instead that “we’re going to collapse.” It’s interesting to me that the concept of collapse is taboo to the point of coming across as an offensive slap in the face. It clearly touches an emotional nerve. I think we should try to understand that. Personally, this reaction scares me. It suggests an irrational faith that we cannot collapse. If I did not think the possibility for collapse was real, I might just find this reaction intellectually intriguing. But when the elements for collapse are in place (unprecedented stresses, energy challenges, resource limitations, possible overshoot of carrying capacity), the aversion to this possible fate leaves me wondering how we can mitigate a problem we cannot even look in the eye.
 
@@ -51,7 +51,7 @@ Another common reaction (that I have had myself) is to get excited about a techn
 
 It may well be that our energy/resource salvation lies in some presently obscure or unappreciated technique. But realizing that obsession with these notions means bypassing tried-and-true “conventional” technologies like solar photovoltaics, solar thermal, wind, hydroelectric, geothermal, conventional fission, lead-acid storage, etc. to me is a tacit acknowledgment that the main ideas we have on the table are not obviously going to cut it. Such enthusiasm for the unproven—often accompanied by statements of unmitigated hope (“our best hope,” “the only real solution,” “we must aggressively develop,” etc.)—carries with it a ring of desperation. It’s maybe like a dog whistle: I’m not sure all of us hear it. The trick is to remain attentive to the real potential underneath the shrill sound of fantastical thinking, in case salvation actually does lie within.
 
-## Addiction to Growth
+### Addiction to Growth
 
 I kicked off the Do the Math blog with a two-part argument that [growth is fated to end](https://dothemath.ucsd.edu/2011/07/galactic-scale-energy/ "Do the Math: Galactic Scale Energy"). A surprisingly common reaction to the irrefutable physics telling us that growth on Earth must cease was the exuberant assertion that we would just move our growth show to space and to other planets. I was (temporarily) at a loss for words. I later addressed this attitude in a [post on the hardships of space](https://dothemath.ucsd.edu/2011/10/why-not-space/ "Do the Math: Why Not Space?"), but was still dumbfounded by the cult-like tenacity of the space-faithful. How did we create this phenomenon? Again, I’m not opposed to the notion that space futures may be possible someday, but how will we confront our near-term challenges in a rational way when many see space as the solution?
 
@@ -63,7 +63,7 @@ A colleague pointed me to [a well-thought article in The Nation](http://www.then
 
 As an aside, science has enjoyed broad public support as a foundation for technology. But as science increasingly tells us what we *can’t* expect to do in a world of diminished resources and compromised environment—rather than only opening up new possibilities—we’ll see how popular science remains. The ideological lines are already forming.
 
-## Where are the Adults?
+### Where are the Adults?
 
 We’ve all seen kids present parents with irrational demands. It could be a pony, a jet pack, a real light saber, a trip to the Moon, or a swimming pool on the roof of the (single-story) house. Adults are adept at deflecting these requests—sometimes with logic, and sometimes with distraction tactics. Adults know that some of the demands are technically impossible, or that others are simply outside their financial means. Just because we want something doesn’t mean it is possible to have it. Just because we want our fossil fuel alternatives to be as cheap and convenient doesn’t mean they will be, no matter how much we might belly-ache.
 

@@ -19,7 +19,7 @@ Normally I allow comments on Do the Math for ten days after each post. I’ve ta
 
 But getting back to soccer numerology, my question becomes: given a final score (which is taken to be the ultimate “truth” of the match) how likely is it that the victor is *actually* a better team?
 
-## Expectations and Subtleties
+### Expectations and Subtleties
 
 One could imagine other measures of a team’s prowess in a game besides final score, like how many shots on goal, what fraction of the time a team’s offense keeps the ball downfield, how many goals the keeper directly prevented, etc. But it’s the final score that dictates the fate of the team in the series. So I’ll go with the measure that has actual consequences and most directly influences the high emotions of the fans.
 
@@ -29,7 +29,7 @@ Now, the value *X_(A)* is not a universal characteristic of team A. It’s only 
 
 All this is to say that I get the subtleties (at least some of them). I am not saying that I can reduce the entire sport to algorithmic expectations. That’s why I want to focus on **a particular game** resulting in **a particular score**. Given that there are *some* “true” expectation values for that match-up, how much meaning can we place in the final score given random fluctuations?
 
-## Poisson Statistics
+### Poisson Statistics
 
 First, a look at the math of Poisson statistics. If I have an expected (average) outcome of *X* (traditionally labeled *&lambda*), what are the chances that in a given trial (game) I get *N* as a result, where *N* is an integer? Under Poisson statistics, the answer is:
 
@@ -45,7 +45,7 @@ We can turn the Poisson distribution around, and ask: if a team scores *N* point
 
 An example appears in the plot below. The way to read it is: if I have an expectation value of \<*value on the horizontal axis*\>, what is the probability of having 2 as an outcome? Or inversely—which is the point—if I have an outcome of 2, what is the probability (density) of this being due to an expectation value of \<*value on the horizontal axis*\>?
 
-## [![inverse-poisson](https://dothemath.ucsd.edu/wp-content/uploads/2014/06/inverse-poisson-1024x768.png)](https://dothemath.ucsd.edu/wp-content/uploads/2014/06/inverse-poisson.png)Example Application
+### [![inverse-poisson](https://dothemath.ucsd.edu/wp-content/uploads/2014/06/inverse-poisson-1024x768.png)](https://dothemath.ucsd.edu/wp-content/uploads/2014/06/inverse-poisson.png)Example Application
 
 By applying this inversion to both teams’ final scores, we can assess the frequency that the winning team is actually better (i.e., has a higher expectation value) than the losing team. We form a two-dimensional parameter space comprised of all values of *X_(A)* and *X_(B)*, and for each one can assess the joint probability of getting the score *N* to *M*. The joint probability is found by multiplying the individual probabilities. Figuring joint probabilities in this way assumes independence of the two scores, which is certainly open to criticism. Don’t mistake this independence for claiming that the teams have no effect on each other: the expectation values embody this dynamic, and are particular to the match-up. This independence is basically saying that the expectation values do not change as a result of how many goals the other team winds up scoring in the game. Maybe a team is galvanized by the others’ score, or maybe demoralized. This would impact independence, but I can think of lots of scenarios in which it would go either way, so will not bias in one particular direction.
 
@@ -57,7 +57,7 @@ The winning team’s expectation value increases along the left hand side, and t
 
 If we sum the probabilities in the table where the winning team’s expectation is indeed higher than the losing team’s (correct game outcome), splitting the probabilities when the expectations are matched, we get 58.5% (though out of 87% total, so we might expect about 67% if we had extended the table. The implication is that a 2 to 1 score is correctly interpreted as a statement of dominance two-thirds of the time.
 
-## Calculated Results
+### Calculated Results
 
 But the above example is a bit coarse-grained. A more thorough exploration of parameter space would include fractional expectation values. So get ready for the full deal. In the table that follows, each row represents a score for a non-tie game (from which all we can conclude is that each team has a 50% chance of being better than the other). Following are percent chances that the winning team is truly better than the losing team. The second column examines every expectation value between 0 and 16 in steps of 0.01, uniformly weighted. That’s 1600 cases for each team, for a total of 2.6 million test cases. You’ll forgive me for not including the table associated table this time. It does not pay to extend beyond expectations of about 16, because the Poisson inverse probability is pretty much dead by this time.
 
@@ -75,7 +75,7 @@ The final three columns in the huge table above correspond to these three cases.
 
 Therefore, given a final score, you can look at this table and see how meaningful the score is in the face of Poisson statistics. A 3:2 score gives the winning team only a 5-in-8 chance of actually being a better team—in the absence of any additional information. But that’s the criterion for advancing: the score is paramount, and no other considerations are entertained.
 
-## Reflection
+### Reflection
 
 Personally, I don’t find this to be very impressive. Even a 6:1 blowout leaves a 7% chance that it was a statistical fluke. More typical scores are even less decisive.
 

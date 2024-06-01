@@ -15,7 +15,7 @@ The ancient Mayans laboriously accumulated a substantial set of observational da
 
 I have often consulted and enjoyed the product of this work over the years—called the [NREL Redbook](http://rredc.nrel.gov/solar/pubs/redbook/ "NREL redbook"), or more formally, the Solar Radiation Data Manual for Flat Plate and Concentrating Collectors. But with a snazzy blog post as motivation, I have taken it up a notch and produced a variety of graphical representations of the dataset to explore what it can tell us. Let’s begin the guided tour.
 
-## What’s in the Dataset?
+### What’s in the Dataset?
 
 In 1961, various sensors were installed in 56 locations distributed throughout the U.S. to measure solar illumination on an *hourly* basis. Measuring both diffuse and direct sunlight, it is possible to reconstruct what a flat panel (or concentrating collector) will receive in a particular orientation. In addition to the 56 “primary” stations, 183 “secondary” locations contributed meteorological measurements—including cloud cover—which were bootstrapped into the dataset by modeling the solar illumination. The map below illustrates the locations of the stations, leaving out the two stations in Puerto Rico and Guam.
 
@@ -48,25 +48,25 @@ I clipped out the final block of monthly climatic conditions in the image above.
 
 For each block, the monthly averages and minima/maxima are presented, the annual average appearing at right. This page represents summary statistics, but monthly values spanning 360 months are also [available](http://rredc.nrel.gov/solar/old_data/nsrdb/1961-1990/redbook/ "NREL redbook data").
 
-### What Can We Learn?
+#### What Can We Learn?
 
 Using the St. Louis data as an example, what can we make of all these numbers?
 
 Let’s say you buy a panel and want to know how to get the most from it. If you don’t want to mess with tracking, then according to the St. Louis data it hardly matters how you tilt the panel, so long as it’s within 15 degrees of site latitude: you’ll get an annual average of 4.6–4.8 full-sun-equivalent hours per day. But if you want more constancy throughout the year, the latitude-plus-15 solution is better. You’d sacrifice 4% on the annual average (4.6 vs. 4.8), but the variation throughout the year is from 72% to 113% of the average (3.3 to 5.2), whereas if we went for latitude-minus-15, we’d see 56% to 131% variation (2.7 to 6.3). Of course the variation in both cases is bigger if considering minima and maxima instead of the monthly averages over 30 years.
 
-### Tracking and Concentration
+#### Tracking and Concentration
 
 What about tracking? One-axis tracking (**much** simpler than dual-axis tracking) buys a 27% boost over a fixed panel (6.1 vs. 4.8). Is it easier and cheaper just to buy 27% more panels and avoid tracking complications? Often it will be. Going to a full-up 2-axis tracker buys only 3% over the 1-axis tracker (6.3 vs. 6.1). That’s because a 1-axis tracker with the rotation axis tilted at the latitude angle and facing north (thus parallel to the Earth’s axis of rotation) will never see the sun more than 23.5° away from the panel direction. The cosine projection of a 23.5° offset then results in capturing 92% of the light that a perfectly-pointed panel would see—and this is the *worst-case* projection, around the solstices. On average, the effect drops to something like a 4% loss, in rough agreement with the 3% number pulled out of the NREL data. One-axis tracking will generally see greater seasonal variation than the fixed-panel analog, due to much-improved performance in the summer.
 
 If you want to do concentrated solar power, Missouri might not be the ideal place. At its best (2-axis tracking; and tracking is *vital* to concentration), we only get 85% as much as we would from a fixed panel (4.1 vs. 4.8). Of course, this compares area of the *concentrator* to area of the *panel*. If the concentrator is dirt-cheap compared to panels, it could turn out to be a better route. But tracking will always increase complications, cost, and maintenance issues. Concentration (and thus solar thermal) strongly favor the cloudless skies characteristic of desert locales.
 
-### Inferring Weather
+#### Inferring Weather
 
 Somewhat more interesting is to compare 2-axis tracking in the flat panel vs. concentration cases, since geometrical factors are removed and we are left with a sense of how much direct sun is available at a site. In St. Louis, the concentrator pulls in 65% of what the flat panel would (4.1 vs. 6.3). This says that 65% of the light hitting the tracking panel in St. Louis is from direct vs. indirect sunlight. When clouds are in the way, concentrators become virtually useless, while the flat panel still enjoys diffuse light from the bright cloudy sky. Because direct sun generally delivers more light than its diffuse counterpart, we can say that the skies over St. Louis are cloudy more than 35% of the time during daylight hours. On a monthly basis, we can ascertain that October is the month with clearest skies (69% of light from direct sun), while May is the cloudiest (62%). Not a great deal of variation, actually.
 
 So that’s a snapshot of the type of information available in the NREL Redbook. Now let’s expand our scope beyond the midwest.
 
-## Comparing Sites
+### Comparing Sites
 
 I copy below a table that appeared in an [earlier post](https://dothemath.ucsd.edu/2011/12/wind-fights-solar/ "Wind Fights Solar; Triangle Wins"). The table represents the best location in the NREL database (Dagget, near Barstow, CA), St. Louis as a typical place, the worst place in the continental U.S. (on the Olympic Peninsula), and a few extras for flavor. For each location, three modes are considered: flat panel tilted at latitude (typical situation); flat panel with 2-axis tracking of the Sun; and concentration employing 2-axis tracking. For each mode and location, three daily-average numbers are given: worst average month—**yearly average**—best average month.
 
@@ -74,11 +74,11 @@ I copy below a table that appeared in an [earlier post](https://dothemath.ucsd.e
 
 The thing that’s always impressed me most about the NREL dataset is the fact that the **worst** location in the continental U.S. is only a factor of **two** worse than the **best** solar location. Intuitively, I would expect the Mojave Desert to outperform the Olympic Peninsula rain forest by leaps and bounds. But a meager factor of two! Even Fairbanks, Alaska performs well on the yearly average metric.
 
-## On to the Graphs
+### On to the Graphs
 
 Enough with the tables of numbers. Let’s look at some graphical results.
 
-## Fixed Panel, South at Latitude
+### Fixed Panel, South at Latitude
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2012/08/statlat.png "statlat")](https://dothemath.ucsd.edu/wp-content/uploads/2012/08/statlat.png)Above is a graphical representation of the yearly averages from each of the stations. The area of each circle corresponds to the solar yield, so at a glance we can compare relative performances across the country. If your brain works like mine does, the shocking thing is **how similar** all the circles are! Are they really different in size? At a glance, it’s hard to identify cruelly disadvantaged sites. On closer inspection, we *can* tell that the Pacific Northwest coast has smaller dots than the Desert Southwest. And the Alaskan spots *are* smaller than most (same map scale, so direct comparisons valid). But mostly I see a lot of suns out there, folks.
 
@@ -88,7 +88,7 @@ Let’s invert the question to ask how large the solar array would have to be to
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2012/08/arr-size.png "arr-size")](https://dothemath.ucsd.edu/wp-content/uploads/2012/08/arr-size.png)Same story from a different perspective: the array size (cost) does not look grossly different no matter where you go. Note that this is **not** the area of solar collectors needed for each region: those dots would generally be too small to see! Rather, it’s just the relative size in each location to deliver the same amount of annual energy.
 
-### Yearly Variation
+#### Yearly Variation
 
 Yearly averages are nice as a composite number, and is the most relevant metric for the ubiquitous grid-tie systems taking advantage of annualized net metering. But for stand-alone installations, unless your electricity use correlates with summer (as may be the case for air conditioning, refrigeration, or pumping water for irrigation), the system needs to be sized based on the poorest monthly performance rather than the annual average. If we had long-term storage (liquid fuels would be nice), we could ignore seasonal variations. Unfortunately, that’s not where we are—right now or in the foreseeable future.
 
@@ -98,7 +98,7 @@ So how does a fixed panel—pointing south and tilted to site latitude—perform
 
 Alaska is a whole different story. Huge variations. Forget about reaping much sunlight in December near the Arctic Circle (nada at Barrow, the northernmost point in the sample). On the flip side, the long summer days make these locales comparable to many summer sites in the lower 48. And this even with a south-facing panel missing a lot of the fun when the rising and setting sun slip *well* to the north, behind the panel.
 
-### Solar Extremes
+#### Solar Extremes
 
 The fixed panel minimum/maximum is perhaps a very *practical* representation given the ease and predominance of this mounting option. But if we look instead at the two-axis (non-concentration) tracking, we get to ask how much the actual sunlight varies at a site. A fixed south-pointing panel misses substantial sunlight opportunities in the morning and evening around summer solstice, when the sun is north of the east-west line.
 
@@ -106,7 +106,7 @@ The fixed panel minimum/maximum is perhaps a very *practical* representation giv
 
 The winter-time performance is not substantially enhanced by tracking, especially for higher latitudes where a south-facing tilted panel is well situated to take in the whole show. But the summertime gain can be substantial. This has the effect of modestly enhancing aggregate yearly yield, but also results in larger variations throughout the year.
 
-## A Look at the Weather
+### A Look at the Weather
 
 We can play the same game we did for St. Louis in regard to evaluating direct vs. diffuse light by comparing the two-axis tracking results with and without concentration. Here I restrict attention to the months of December and June for all locations, and for each month form a *ratio* of concentration yield to flat panel yield (concentration is always less per square meter of collector vs. panel). I make an outer circle for June (sized the same for all locations) and an inner circle for December (also of uniform size). The grayscale indicates the degree of cloud opacity: darker is cloudier. For high-latitude stations in Alaska, I ignored points for which the daily average yield came out to 0.5 hours or less, opting instead to turn these winter interiors fittingly black.
 
@@ -114,7 +114,7 @@ We can play the same game we did for St. Louis in regard to evaluating direct vs
 
 But as interesting as this plot might be, don’t let it be the deciding factor about whether a location is amenable to solar power. The previous maps are *far* better suited for that evaluation, addressing the solar potential directly. For instance, the statement above that it is sunnier in San Diego in December than in June does not translate into greater solar potential in December than June: the days are shorter and the sun at a lower elevation. It’s just that the *fraction* of daylight hours that the sun is directly visible is greater in the December than in June in San Diego.
 
-## Sizing for Variability
+### Sizing for Variability
 
 Thirty years of good data is a wonderful thing. The bad years and the good years are well represented. And three decades is a timescale commensurate with the likely lifetime of a photovoltaic (PV) installation.
 
@@ -156,7 +156,7 @@ Now let’s look at some other cases.
 
 Note that in every one of the cases above, the latitude-plus-15° curves offered the lowest overbuild factor once into the range above 80% reliability. Over-tilting the panels pays off in the dismal parts of the year. Also, the dots based on the minimum reported month generally land in the 90–95% range.
 
-### All Together, Now
+#### All Together, Now
 
 Seven down, 232 to go! Or why don’t I just put it into map form and hit everything with one swat?
 
@@ -168,7 +168,7 @@ Let’s fold into this the differing annual yields as a function of location. Wh
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2012/08/arr-overbuild.png "arr-overbuild")](https://dothemath.ucsd.edu/wp-content/uploads/2012/08/arr-overbuild.png)Again, the area of the circles scale with the size of the array needed. Now you see Alaskan winters taking their toll on year-round reliable performance. Too bad that off-grid is *so* Alaska—but at least northern Alaska isn’t having it.
 
-## Why Not 100% Reliability
+### Why Not 100% Reliability
 
 Why did I stop short and satisfy myself with a mere 90–95% reliability? Well, the shallow slopes of the curves at the high end offer a hint. Filling in that last gap in reliability costs dearly in system size. My PV system at home keeps the batteries up to snuff about this fraction of the time. In dark times, I fall back on utility power. But what if I couldn’t do this?
 

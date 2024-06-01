@@ -23,7 +23,7 @@ I was somewhat stunned to see this article. I am accustomed to seeing articles e
 
 Rephrasing: the physics we currently understand is not sufficient to deliver the kind of battery we need to make the future work without fossil fuels. Red flags go up for me when it is our *understanding of physics* rather than practical engineering challenges standing in the way—as serious as the latter can be. Physics limitations instantly present a much taller order to overcome.
 
-## Anecdotes
+### Anecdotes
 
 I’m sure everyone has tales of how batteries have let them down—ranging from the merely annoying to life-threatening situations. I find that I am more often disappointed than pleasantly surprised when it comes to batteries. Here are some examples:
 
@@ -46,7 +46,7 @@ I’m sure everyone has tales of how batteries have let them down—ranging from
 
 A counter-example is the occasional amazement I experience when alkaline batteries in a device that has not been utilized in *years* crackle to life after all that time—if the batteries haven’t gooped themselves up, that is.
 
-## Energy-Power Tradeoff
+### Energy-Power Tradeoff
 
 The chief measure of a battery, in my mind, is how much **energy** it can store. But it makes sense to adjust this concept to the size or mass of a battery. Obviously, a more massive and voluminous battery can pack in more energy. So for a given mass (we’ll take a kilogram), we want to know how much energy a battery can store, called **specific energy**.
 
@@ -62,7 +62,7 @@ Note that the Internal Combustion Engine (ICE) exceeds both specific energy and 
 
 As useful as this plot is, it does not convey the whole story. While it looks like Li-ion meets the the goal for plug-in hybrid electric vehicles, this does not necessarily remain true if demanding 5,000 deep charge cycles, a ten-year lifetime, a moderately inexpensive product, etc.
 
-## Spider Diagrams
+### Spider Diagrams
 
 The U.S. Department of Energy teamed up with the automotive and battery industries to define benchmark performance targets for batteries that would result in electric vehicles being competitive with ICE vehicles on a mass-produced basis. The resulting coalition was called [USABC](http://www.uscar.org/guest/teams/12/U-S-Advanced-Battery-Consortium "US Advanced Battery Consortium")/FreedomCAR, and their various target requirements are [available here](http://www.uscar.org/guest/article_view.php?articles_id=85), with a useful summary presentation [also available](http://www.scribd.com/doc/66052706/3/USABC-FreedomCAR-Battery-Requirements). Below is a subset of the target parameters pulled from these sources, and I have also thrown in the Chevrolet Volt for a side-by-side comparison to current capabilities.
 
@@ -86,7 +86,7 @@ Spider chart for the Volt in relation to the USABC/FreedomCAR targets, using my 
 
 Besides looking like some sort of cool fighter jet in a dive, the diagram highlights performance deficits on several fronts. It is not terribly hard to get lots of current out of a battery, translating to more-than-adequate power performance. But all other measures fall short of the goals by varying degrees. The [APS article](http://www.aps.org/publications/apsnews/201207/electriccars.cfm "APS article on electric car batteries") intones that we should not hold our collective breaths to see a march of progress in lithium-ion technology at a level that would satisfy this (still hungry) spider. In practice, improving *one* aspect of performance tends to *decrease* another somewhere else (see the [piece by Srinivasan](http://gigaom.com/cleantech/the-three-laws-of-batteries-and-a-bonus-zeroth-law/) for more on this principle). So it’s not a simple matter of advancing on all fronts independently and incrementally.
 
-## Full Cost of Electric Drive
+### Full Cost of Electric Drive
 
 Let’s say you pay \$0.10 per kWh for electricity delivered to your home. Charging the Volt battery with 10.5kWh at 90% efficiency to replace the drain from 38 miles of driving will cost \$1.17. If using gasoline alone, the same car uses about a gallon of gas to go the same distance. Let’s put the cost of that gallon at \$4.00. Electric looks pretty good, at these rates!
 
@@ -94,13 +94,13 @@ Now figure in the estimated price of the Volt battery at \$8,000 (a disputed num
 
 If the price of gasoline goes up (it will; but so will electricity), and the cost of the battery goes down (it *should*), the two *may* cross. But there are other added costs to the Volt (or hybrids in general) besides just the battery. After all, hybrids can’t jettison the ICE, and require an electric drive train to boot. Even the fact that the space occupied by the battery forces bucket seats in the back of the Volt is a “cost” that must be paid.
 
-## Beyond Cars
+### Beyond Cars
 
 Batteries are, of course, useful for purposes other than transportation. While transportation hardship may be the most pressing problem in the decades following peak petroleum production, solar and wind resources cannot scale to be very large without a viable storage solution.
 
 I worked out in [an earlier post](https://dothemath.ucsd.edu/2011/08/nation-sized-battery/ "A Nation-Sized Battery") how large a lead-acid battery would have to be to support the entire U.S. energy demand in the presence of solar/wind intermittency. It turned out that our estimates for recoverable lead in the world do not satisfy the need. Lithium and Nickel are even more constrained. It is possible that some other approach like sodium-sulfer or zinc-air can step in. But these are already relatively well-known options and have not blazed a wide path into storage over the past few decades.
 
-## Sigh
+### Sigh
 
 Don’t get me wrong: even though I dwell on the shortcomings of batteries in this post, I still hold a net positive view. When it’s dark at my house, my refrigerator, television, computers, and internet goodies are all powered by [stored sunlight](https://dothemath.ucsd.edu/2012/07/my-modest-solar-setup/ "My Modest Solar Setup") in lead-acid batteries. My laptop battery gets me through many a bus ride and an occasional airplane ride. Batteries *really do work*, and provide value. Moreover, electric cars are more than a notion or fantasy: they are actually on the road getting people where they want to go. Despite their lackluster performance next to fossil fuel storage, batteries still [beat the pants off of mechanical or gravitational storage](https://dothemath.ucsd.edu/2011/09/got-storage-how-hard-can-it-be/ "Got Storage? How Hard Can it Be?").
 
@@ -108,7 +108,7 @@ And even though I might appear to be picking on the Chevy Volt by highlighting i
 
 The real point is that batteries fall pathetically short of our customary fossil fuel energy storage medium. When we wake up to a declining global availability of petroleum, we won’t *just* switch over to electric cars. We may not be able to collectively afford such a transition, given the huge up-front costs in both money *and* energy. Where will the prosperity come from? If oil shortages drive recession in the usual fashion, expensive options may be off the table.
 
-### Addendum
+#### Addendum
 
 The same author of the APS article referenced above wrote an [extended version](http://www.aps.org/publications/apsnews/201208/backpage.cfm "extended APS article"), worth a look.
 

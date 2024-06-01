@@ -34,13 +34,13 @@ The first thing I will say is that I have never before tried to depict details o
 
 But maybe I’m still being insensitive to the bruises. I get it. I went through the same thing, once implicitly imagining the future in these idyllic terms. Such visions are not limited to wild-eyed techno-optimists. Even many of the folks presently suffering existential dread about climate change would likely embrace this story as the best-case outcome that we hope can come to pass if we put our shoulders into it and advocate the right policies. Write your Senators!
 
-## Facile Fascination
+### Facile Fascination
 
 Before getting into the substance of why the dream scenario is likely a prescription for “failure by fantasy,” I’ll point out that our imaginations and ambitions are disconnected from reality by the mere fact that the actual physical world is finite and limited in ways that our thoughts are not. Some react by suggesting that we harness this human virtue of unlimited creativity to shape the world to our vision. For people in this camp, I recommend a simple exercise: come up with five examples of something you can *imagine*, but will never be possible in this physical universe. If you find it hard to do, we’ve found the problem: stop reading and go work some things out (which likely means absorbing some key concepts in physics). The point is, our brains are capable of visualizing convincing impossibilities in a flash, which can be both a gift and a very dangerous talent.
 
 It is far easier to outline a grand vision than it is to appreciate its myriad practical limitations and unintended consequences. It’s also more appealing. Imagine inviting two guest speakers to a classroom: a fantastical futurist weaving a story of wonder, and a finite physicist pointing out all the ways the real universe will put a damper on those lazy-minded dreams. Which will the students like more, and transmit to their friends later? I know from teaching physics students that their drooping eyes open wide when I veer into impossible domains like time travel, a journey into a black hole (and back?), faster-than-light drive, teleportation, etc. We likes the magic.
 
-## Finite Materials
+### Finite Materials
 
 If humans are to be successful on this planet for the long term (i.e., [tens of thousands of years](https://dothemath.ucsd.edu/2021/04/ultimate-success/)), we need a healthy ecosystem and we need to live off natural renewable flows rather than continue to spend our finite non-renewable inheritance. We’ve exploited the low-hanging fruit already, so cannot expect mining to continue producing a bonanza of non-renewable goods into the indefinite future. Recycling is also a limited-time prospect. Even a 90% recovery rate on a material that is recycled every 10 years is down to 10% of the original stock in a few short centuries \[the number of cycles is log(0.1)/log(0.9) for reaching 10% given 90% recovery\]. Long-term success can’t rely on these materials. The enduring commodities are the ones that replace themselves: living matter.
 
@@ -48,7 +48,7 @@ Besides the fact that we have never built any alternative energy infrastructure 
 
 Meanwhile, plants will continue to capture and store solar energy to fuel virtually all life on this planet, including our own. The natural world is built to last, and has stood the test of time (billions of years)—unlike our grossly unsustainable flash of “modernity” that has done nothing of the sort. Depictions of a gleaming future always leave out the unattractive yet inevitable rust, decay, waste, and cost to the biosphere.
 
-## Unlimited Energy
+### Unlimited Energy
 
 Part of the dream is to slip out of the yoke of finite, non-renewable fossil fuels and bathe in the unending abundance of renewable flows. Roughly speaking, the amount of solar energy striking Earth in one hour exceeds our annual energy appetite. The sun will continue providing this service free of charge for billions of years (before engulfing the earth in plasma). Likewise, enough deuterium exists in ocean water to power our current energy needs for billions of years via fusion—should it ever become practical. These inspirational facts suggest that we just need to round the corner: get through the present pinch point and we’ll be on easy street. Energy will be abundant and—to all intents and purposes—unlimited.
 
@@ -65,7 +65,7 @@ Enjoy your flight.
 
 I like an analogy I heard recently (from Dennis Meadows at 26:45 in [this podcast](https://www.thegreatsimplification.com/episode/12-dennis-meadows)): If a man is coming at you with the intent to do you harm, it hardly matters what *technology* he employs: hammer, gun, knife, mace, sword. The technology is neither the problem nor the solution. The fundamental problem is the *intent* of the assailant. Unless we radically change our *intent* on this planet, “unlimited” energy—by *any* technological means—only accelerates our demise. I think of it this way: if every jackass on the planet has access to cheap and abundant energy, what do you think they’ll do with it? Will they use it to *restore* ecosystems, or hack more of it down for their own short-term gain?
 
-## More to this Planet than Humans
+### More to this Planet than Humans
 
 To my knowledge, no species has ever been penalized for putting its own needs ahead of the needs of all other species. In fact, they would not likely have survived natural selection had they done so. Thus, it is no surprise that humans do the same thing. If more for us means less for other species, so be it (or even: all the better). The catch is that humans have reached a state of capability far in excess of any other species—largely facilitated by our ability to amplify our metabolic energy by orders-of-magnitude via the harnessing of external energy sources. So our selfishness is now deadly at an extinction-relevant scale. We are no longer [playing by the rules](https://dothemath.ucsd.edu/2021/04/in-breach-of-contract/) that got us here as “fair play” members of the ecosystem.
 
@@ -73,7 +73,7 @@ If we do not devise an intentional method of suppressing [human exceptionalism](
 
 Let’s not be *those* people. The path forward is to put less emphasis on “smart” and “clever” (which got us into this mess), and more on “wise.” This looks like intentionally stepping off our throne as conquerors and masters of planet Earth, appreciating that we are all (all species) in this together, and all need each other to survive. [Biodiversity is our greatest ally](https://dothemath.ucsd.edu/2021/03/sir-david-nails-it/). Give the squirrels, newts, and nuthatches a voice. Ask what’s good for them, what measures they would vote for, what legal action they would take if they could. Would they vote for “solving” climate change by bestowing more energy and growth on the human race? Does the introduction to this piece leave them applauding in admiration, or diving for cover?
 
-## This Time is Unusual
+### This Time is Unusual
 
 It is easy to get [caught up](https://dothemath.ucsd.edu/2021/11/caught-up-in-complexity/) in the heady whirlwinds of modernity. We have accomplished amazing feats in these past few centuries, and our extrapolative minds envision a continued acceleration. Given that our life span overlaps only a portion of the tale, it is easy to lose the context that our boom (the Industrial Revolution and what followed) is [almost entirely due to fossil fuels](https://dothemath.ucsd.edu/2022/06/shedding-our-fossil-fuel-suit/). This energy surge in turn powered a surge in material access and economic activity (and human population) in what is perhaps fittingly described as a fireworks show.
 
@@ -86,7 +86,7 @@ In this context, it should be noted that the remarkable turnaround from the 1930
 Expecting the rest of the world to follow in the footsteps of developed countries in terms of birth rates and affluence overlooks this colossal point: now-developed countries had the tremendous advantage of starting with a cornucopia of untapped resources. Those just arriving at the party are finding a picked-over scene that is more depressing than fun.
 The moment has passed, and the old playbook has been rendered obsolete.
 
-## Dream Becomes Nightmare
+### Dream Becomes Nightmare
 
 As “fun” as it was to write the introduction fantasy, part of me was terrified. Looking beyond the shiny surface to the implications for ecosystems on a finite planet already in peril brings an element of horror to each point. I have explained above how abundant energy could backfire and have alluded to the ecosystem destruction accompanying a biofuel expansion. A growing economy is terrible news for the newts. Increasing the standard of living of a growing population makes today’s ecological pressures look adorable. I think of the [hockey sticks](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/) and fear what happens if they continue to soar upwards—or even just level off at today’s crippling state of accumulating ecosystem damage, for that matter. Aside from CO₂, the “dream” scenario makes every hockey stick worse: population, GWP, energy, waste, extinctions, deforestation.
 
@@ -94,7 +94,7 @@ This is why I worry about the disproportionate attention climate change gets. Wh
 
 Let’s not engineer a nightmare for ourselves in the misguided attempt to realize a poorly considered dream. It starts by recognizing that the vision many hold as “the dream” is itself utterly unsustainable and thus may even accelerate failure, rather than avert it. The predicament has wide boundaries that reach deep foundations of our civilization’s structure. We only succeed by altering our mental models of how we live on this planet—not by finding “superior” substitutes for the very things that have put us in this precarious position—and thus will only dig our hole faster, better, and cheaper.
 
-## A Starting Place
+### A Starting Place
 
 I suppose it is unsporting of me to dash dreams and then just walk away without offering some form of hopeful replacement. Unfortunately, I don’t have any fully-formed vision of how to build a future that works. What I *can* offer is a set of principles that can guide and constrain our thinking.
 

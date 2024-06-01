@@ -13,7 +13,7 @@ Warm and Fuzzy on Geothermal?
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2012/01/Earthlayers_simplified-150x150.png "Earthlayers_simplified")](https://dothemath.ucsd.edu/wp-content/uploads/2012/01/Earthlayers_simplified.png)The Earth started its existence as a red-hot rock, and has been cooling ever since. It’s still quite toasty in the core, and will remain so for billions of years, yet. Cooling implies a flow of heat, and where heat flows, the possibility exists of capturing useful energy. Geysers and volcanoes are obvious manifestations of geothermal energy, but what role can it play toward satisfying our current global demand? Following the recent theme of Do the Math, we will put geothermal in one of three boxes labeled abundant, potent, or niche (puny). Have any guesses?
 
-## The Physics of Heat
+### The Physics of Heat
 
 Thermal energy is surprisingly hefty. Consider that putting a room-temperature rock into boiling water transfers to it an equivalent amount of energy as would hurling it to a super-sonic speed! We characterize the amount of heat an object can hold by its **specific heat capacity**, in Joules per kilogram per degree Celsius (or Kelvin, since one degree of change is the same in either system). Tying some energy concepts together, the definition of a [kilocalorie](https://dothemath.ucsd.edu/useful-energy-relations/#kcal "Useful Energy Relations") (4184J) is the amount of energy it takes to raise 1kg (1 liter) of water 1°C. So we can read the specific heat capacity straight away as 4184J/kg/K. This is a rather large heat capacity, on the scale of things. As a rule of thumb, 1000J/kg/K is a marvelously convenient universal number for most substances: it works for wood, air, rock, etc. Liquids tend to be higher (typ. 2000J/kg/K), and metals tend to be lower (150–500J/kg/K). Rocks—relevant for geothermal energy—range from about 700–1100J/kg/K, and although I would be happy enough to use the convenient 1000J/kg/K for crude analysis, I will be somewhat more refined and use 900J/kg/K for rock in this post—although I feel silly for it.
 
@@ -23,7 +23,7 @@ The next property to understand is **thermal conductivity**: how readily heat is
 
 How do we apply thermal conductivity? Imagine a flat panel of stuff with area, *A*, and thickness, *t*. Using the Greek letter kappa (*κ*) to represent thermal conductivity, the rate at which thermal energy flows across the panel given a temperature difference *ΔT* across it is *κAΔT/t*, which comes out in Watts.
 
-## Sources of Heat
+### Sources of Heat
 
 Two sources contribute to the Earth’s heat. The first, contributing 20% of the total, derives from gravity. As proto-planetary chunks fell together under the influence of gravity, the kinetic energy they carried (converted gravitational potential energy) ended up heating the clumps that stuck together. If this were the only contributor, Earth’s center would have cooled significantly below its present levels by today. The other 80% of heating is the gift that keeps on giving: long-lived radioactive nuclei given to us by ancient supernovae (as with most of the other elements comprising Earth and ourselves). Specifically—in order of significance to heating—we have ²³²Th, ²³⁸U, ⁴⁰K, and ²³⁵U, with half-lives of 14, 4.5, 1.25, and 0.7 billion years, respectively. Ironically, one can view the radioactive contribution as gravitational in origin also! This is because supernovae result from fusion losing the fight to gravity, and the heavy elements are created in the resulting gravitational collapse.
 
@@ -31,11 +31,11 @@ In total, the radioactive decay produces about 7×10⁻¹²W/kg; in the mantle. 
 
 We can work up another estimate of the total geothermal heat flow by observing that the temperature gradient in the crust is 22°C/km. This gradient can be used as the *ΔT/t* part of the thermal conduction heat flow rate, *κAΔT/t*. Taking a square meter for *A* and 2.5W/m/K for *κ*, we calculate a geothermal “loading” of 0.055W/m². Indeed, [Wikipedia](http://en.wikipedia.org/wiki/Geothermal_gradient "Wikipedia: Geothermal Gradient") reports a land-based heat flow of 0.065W/m² while the ocean (due to thinner crust and thermally greedy water) averages 0.1W/m².
 
-## Compared to Human Use
+### Compared to Human Use
 
 Using the Wikipedia value of 0.065W/m² over land, multiplying by land area yields 9TW. Humans use 13TW currently. So if we managed to catch every scrap of land-based geothermal flow (and could use it efficiently), we would not fully cover our present demand. Needless to say, we’re not remotely capable of doing this.
 
-## Diffuse Use vs. Hotspots
+### Diffuse Use vs. Hotspots
 
 Naturally, some places are better than others for tapping into geothermal energy. A map of the continental U.S. in heat flow (below) reveals that the west has more flow than the east. A similar map for North America (including oceans) can be found on the [SMU website](http://smu.edu/geothermal/2004NAMap/2004NAmap.htm). On a large regional basis, some spots in the U.S. dip down to 0.03W/m², while some of the better regions reach up beyond 0.1W/m².
 
@@ -55,13 +55,13 @@ The U.S. has about 3GW of geothermal electricity installed, out of the worldwide
 
 I don’t have any handy back-of-the-envelope way to estimate the abundance of hotspots. Out of the 9TW of diffuse land-based heat flow, I might guess that something like 1% (90GW) may be available in the form of geyser-like surface steam. In short, these are rare beasts.
 
-## Direct Use
+### Direct Use
 
 Rather than try to generate electricity, we could use direct heat from geothermal, or use the thermal mass of the ground as a push-point for heat pumps. The latter should not be called geothermal, since it is not tapping into the geothermal heat flow. As such, I will ignore it here and return to it at some later time together with a discussion of heat pumps for controlled climate applications.
 
 The difficulty with extracting heat from the ground is that the *gradient* is rather small. For instance, hot water in the home generally wants to be about 45°C. This requires drilling 1.5km (about a mile) down to get this warm—certainly impractical for individual homes. It could possibly be effective for communities or cooperatives that distribute hot water to a number of houses/businesses. Using geothermal energy for home heating faces similar distribution challenges.
 
-## Sustainable Extraction
+### Sustainable Extraction
 
 When drawing heat out of a region in the ground, that region will cool relative to its surroundings if heat is extracted at a rate faster than the nominal flow—leading to a depletion of thermal capacity. The replacement heat must ultimately come primarily from radioactive decay. Let’s ask how much rock volume needs to supply thermal energy for one house on a sustainable basis.
 
@@ -69,13 +69,13 @@ The average American household used 80 thousand cubic feet of natural gas in 200
 
 Can you believe this? All that volume for one house! This does not mean that the collection network needs to be this large. After all, heat is flowing from deeper down all the time. In this context, the average house needs to intercept an area 200 meters on a side at 0.065W/m². Still quite a large outlay of piping 1.5 kilometers deep.
 
-## Thermal Depletion
+### Thermal Depletion
 
 What if we cheat and use a smaller collection network, relying on conduction to fill in with surrounding heat? How long will our resource be useful? I’ll spare you the derivation, but the recharge time via thermal conduction is proportional to density times specific heat capacity divided by thermal conductivity. Most importantly, it scales as the square of the dimension (think radius of the depleted zone). Using numbers for an egg (typical food will have values like: *ρ*≈1000kg/m³; *κ*≈1W/m/K; *c*_(p)≈2000J/kg/K; *R*≈0.02m), I get a timescale of 800 seconds, or about 13 minutes. This is how long it would take an egg to cool down (or heat up in boiling water). Not to bad, as estimates go. Using numbers for rock, I get a one year time constant when *R*≈5m. Crudely speaking, this means we’d have access to a yearly “sustainable” volume—recharging in summer, for instance—around 500 cubic meters, holding 45GJ (*c*_(p)*ρVΔT*) of thermal energy at a *ΔT* of 30°C. Used over a year, this provides something like 1400W of average power—about half of the typically desired amount.
 
 The danger is that once you try to go larger scale than this, the depletion volume gets larger, and the time to recharge scales up accordingly. Fundamentally, thermal depletion is a dimensional problem. You can draw out energy according to volume, but it is recharged according to area. So the problem is dimensionally stacked to come up short, leading to thermal depletion. This analysis deals with straight conduction. An underground fluid flow would change the story, and developed geothermal sites usually have this feature.
 
-## Damn the Depletion!
+### Damn the Depletion!
 
 Still, if we don’t care about sustainable use of geothermal, we can just keep drilling new holes to deplete one region after the other. In this sense, we could evaluate the thermal endowment in the upper 5km of crust under land. The average temperature in this layer is about 60°C above the surface value, so that each cubic meter (3300kg) contains 180MJ of thermal energy. Summed over 1.4×10¹⁴m², we get about 10²⁶J. This is 250,000 years of our global appetite. A quarter-million years might seem close enough to indefinite that we’re willing to call it sustainable. Truly it is a substantial endowment. It’s the practical considerations that hold us off from rushing into this resource.
 
@@ -84,7 +84,7 @@ The energy derived is mostly useful for heat, being inefficient at producing ele
 In short, even though the thermal energy sitting under our feet is enormous in magnitude, it does not strike me as a lucky find. No one is racing to dig in. Perhaps it is simpler to say that it’s economically excluded, at present. And will it ever be cheaper to drill? For me, this falls into a category similar to [space resources](https://dothemath.ucsd.edu/2011/10/stranded-resources/ "Stranded Resources").
 Sure, they exist, but getting to them means that they might as well *not* be there, for practical purposes.
 
-## Geothermal In Perspective
+### Geothermal In Perspective
 
 Abundant, potent, or niche? Hmmm. It’s complex. On paper, we have just seen that the Earth’s crust contains abundant thermal energy, with a very long depletion time. But extraction requires a constant effort to drill new holes and share the derived heat among whole communities. Consider that two-thirds of our fossil energy goes up as waste heat, and often in cold environments. Waste is an appropriate word, in this context. But distributing the heat into useful places is a practical challenge to which we seldom rise.
 

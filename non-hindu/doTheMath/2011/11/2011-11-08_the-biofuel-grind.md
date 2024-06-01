@@ -13,7 +13,7 @@ The Biofuel Grind
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2011/11/biofuel-grind-150x150.jpg "biofuel-grind")](https://dothemath.ucsd.edu/wp-content/uploads/2011/11/biofuel-grind.jpg)When we enter the decline phase of conventional oil—likely before 2020—we will scramble to fill the gap with alternative liquid fuels. The [Hirsch Report](http://www.acus.org/docs/051007-Hirsch_World_Oil_Production.pdf) of 2005, commissioned by the U.S. Department of Energy, took a hard look at alternatives that could respond to the scale of the problem in time to have an impact. Not one of the approaches deemed to be currently viable in the report departs from fossil fuels. But what about biofuels? To what extent can they solve our problem? We’ll dip our toes into the math and see where a first-cut analysis leaves us.
 
-## Photosynthetic Scale
+### Photosynthetic Scale
 
 If you add up all the photosynthetic activity on the planet—accounting for virtually all life except for oddball extremophiles—you get a number like 80TW (80 trillion watts; I see credible estimates ranging from 40–140TW). About half is from all the plankton in the ocean (and its derivative food chain), and the other half happens on land, capturing every microbe, plant, and dependents. Compare this to human power consumption around 13TW, and to human metabolic activity of about 500GW (7 billion people operating on a little less than 100 W, or 2000kcal/day).
 
@@ -27,7 +27,7 @@ So our first stop along the way is to notice that converting our fossil fuel ent
 
 Note that the dream of continuing growth to five times the current scale, as discussed in the [post on what “sustainable” means](https://dothemath.ucsd.edu/2011/10/sustainable-means-bunkty-to-me/ "Do the Math: Sustainable Means Bunkty to Me") is not possible via the bio-route alone.
 
-## Photosynthetic Efficiency
+### Photosynthetic Efficiency
 
 On the [global scale](http://en.wikipedia.org/wiki/Earth%27s_energy_budget "Wikipedia: Earth's Energy Budget"), we can say that 70% of the sunlight incident on the *πR*² projected face of the Earth is collected by the Earth (the rest is reflected by clouds, atmosphere and land), and 50% of the total is absorbed at ground level. At 1370W/m² of incident power flux, this means that the Earth’s surface is absorbing about 100,000TW of solar energy. Thus global photosynthetic efficiency is about 0.1%. Pretty weak.
 
@@ -39,7 +39,7 @@ How does an individual plant fare, given adequate care and feeding? One way to e
 
 This is not too far from reported photosynthetic efficiencies: many plants in the world realize 0.01–0.1% efficiency, while well-tended crop plants tend to be around 1–2% efficient, and algae can reach numbers like 4–6%. I have to say that I gain much more trust in such reported numbers when common-sense estimation puts me in the same ballpark.
 
-## Case Study: Replacing U.S. Oil with Corn Ethanol
+### Case Study: Replacing U.S. Oil with Corn Ethanol
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2011/11/corn-150x150.jpg "corn")](https://dothemath.ucsd.edu/wp-content/uploads/2011/11/corn.jpg)Most people have already caught on to the fact that corn ethanol is a poor substitute for petroleum in the U.S. Leaving aside corrosive challenges to storage, distribution, and politics, we’ll just look at energetics.
 
@@ -53,7 +53,7 @@ Square area needed to replace U.S. oil demand with corn ethanol.
 
 Ethanol from sugar cane can have a substantially better EROEI, somewhere in the neighborhood of 5–10:1. Brazil has pursued sugar cane ethanol in a big way, at the expense of rain forest. The resulting changes in micro-climate (desertification) and in soil quality/erosion may present significant barriers to sustaining this practice at a large scale.
 
-## Feeding the Beast
+### Feeding the Beast
 
 Another way to highlight how daunting a full-scale embrace of biofuels would be, consider that global oil consumption amounts to 6TW of power (30 billion barrels per year, or 1000 barrels per second, at 6GJ per barrel). This is about 12 times the human metabolic dietary intake—largely derived from agricultural lands. We’re not about to give up eating, so in the simplest analysis, we would have to find an additional cropland approximately **ten times the area of our current cropland.**
 
@@ -63,7 +63,7 @@ Farmers work hard. Land issues aside, if we wanted to take the biofuel plunge, w
 
 This is why I call it the Biofuel Grind. We’ve become accustomed to living off of a fossil fuel inheritance, and we have been living like kings as a result. Transitioning to biofuels is like having to get a *real job* and **work** for the annual yield, year after year. No more freebees from nature, sitting around for millions of years waiting to be scooped up.
 
-## Cellulosic Plant Waste and Algae.
+### Cellulosic Plant Waste and Algae.
 
 I have been treating biofuels as coming from food-crop-like sources. Some may think this to be unfair, given the potential for using agricultural byproduct, algae, etc. We’ll get to that. But first I’ll point out that virtually all the present biofuels **are indeed** from food crops: ethanol from sugar-cane and corn; and biodiesel from soy and vegetable oil crops. (I looked at why waste cooking oil for biodiesel is not scalable in a [previous post](https://dothemath.ucsd.edu/2011/08/garbage-in-garbage-out/).)
 
@@ -81,7 +81,7 @@ If we start with 6% efficient algae, and imagine that we could convert 50% of th
 
 The numbers for algae are certainly more favorable than for traditional (proven) biofuel sources. But keep in mind that we don’t see a clear path yet to squeeze useful juice from algae at appropriate scales/efficiencies. Much of the talk is around genetic engineering to make the algae excrete something useful in quantity. I need not repeat my case for non-complacency regarding this prospect. Also, anyone who has failed at aquarium maintenance (everyone who has tried?) knows how pernicious algae can be at clogging the plumbing and sticking to tube walls, etc. So they should also be working on genetically engineered teflon-coated algae. By that time I’ll also be able to enjoy that three-headed goat!
 
-## A Synthetic Approach
+### A Synthetic Approach
 
 The one approach in all this mess I find I’m able to get excited about is synthetic photosynthesis. In particular, a large effort (\$115M over 5 years) led by Prof. Nate Lewis of Caltech seeks to develop a solar-to-liquid process via artificial photosynthesis. I had already read about Prof. Lewis’ research, and was intrigued, when I saw a talk he gave at a recent conference. The talk was filmed and can be accessed [here](http://fora.tv/conference/compass_summit_2011 "Compass Summit Videos"). Search for the word “Leaf.” (Incidentally, I also gave a talk summarizing some previous Do the Math posts: search “Expiration” if interested.)
 
@@ -93,7 +93,7 @@ There are 1350 ways that three elements out of 20 can be combined in X, XY, and 
 
 I don’t mean this in a disparaging way, but it’s a lot like *picking up the periodic table by its ankles, shaking vigorously* (for a few years), *and seeing if anything interesting falls out*. I absolutely think this is what we should be doing: if we *can*, what *possible reason* would we have *not* to try? How will we know if it’s possible otherwise? But at the same time, it speaks to a bit of desperation. We honestly don’t know if it will work. Not everybody can be a catalyst, and one wonders why a catalyst better than any we have discovered by ordinary scientific processes has escaped our attention for this long. It could happen, and I **sure** hope it does. But let’s have a plan C.
 
-## Not an All-or-Nothing World
+### Not an All-or-Nothing World
 
 I have acted like we need biofuels to be able to completely replace our current oil consumption in the foregoing analysis. No one who is serious about the matter is proposing we do so, exactly. But I think it’s useful to appreciate limitations to ideas on our horizon so that no one is misinformed or simply assumes that any of the myriad solutions we discuss can plug the hole and make us whole. Don’t trust anyone who says that biofuels are the answer. Fine if they want to say “part of the solution,” but I’m not breathing easy at the claim that they’ll fix our wagon.
 

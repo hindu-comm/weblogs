@@ -17,7 +17,7 @@ I finally read the book last summer (2022), and…wow; yeah. What *he* said… I
 
 In this post, I synthesize a set of ten principles that capture my current thinking, unambiguously fortified and sharpened by the teachings in *Ishmael*. I want to encourage others to read the book, so will only relay a sense of the content here. My best recommendation is to set this post aside until you’ve had a chance to read it yourself. Perhaps the quickest route runs through your library, rather then FedEx.
 
-## A Few Caveats
+### A Few Caveats
 
 Before diving into the good stuff, I’ll point out a few areas where I have reservations about the book.
 
@@ -25,7 +25,7 @@ First, I don’t see our flawed model for how to live on this planet as the resu
 
 Another qualm I have is that pre-agricultural humans operating fully in hunter-gatherer mode (called Levers in *Ishmael*) were responsible for the Quaternary Megafauna Extinction (QME), and thus were capable of unsustainably wiping out populations and species. The book does not address this black mark, giving the impression that Leavers would never do such a thing. Yet two things are worth pointing out: 1) these eliminations were not part of a quest to exterminate—as modern humans might “wage war” on perceived pests or dangerous predators; and 2) the place where megafauna survived in great numbers to this day is the very place where humans co-evolved alongside said animals: Africa. These animals watched the emergence of humans and learned from the start to be wary of these oddly dangerous upright apes. In other parts of the world to which humans migrated, it was more like an alien invasion—but by deceptively harmless-looking gangly creatures. Such things will happen occasionally by the normal rules of evolution. I should also put into context that the QME is estimated to have eliminated 25% of wild mammal mass on the planet over tens of thousands of years, while modernity has eliminated 80% of what remained in the last 10,000 years (most of that just since 1900). So lest we throw stones…
 
-## Bedrock Principles
+### Bedrock Principles
 
 Below are ten core principles that represent a melding of my own pre-*Ishmael* views and those from the book. Because the alignment was already pretty good, it is not meaningful to discern which *came* from Quinn, although only the last two are sentiments I had not expressed in prior writings, so those I would attribute more wholly to Quinn. For me, I feel that *Ishmael* (and other books in the collection) have served to sharpen and organize a pre-existing awareness for me. In any case, all of the items below were crystallized by Quinn’s work.
 
@@ -61,7 +61,7 @@ Below are ten core principles that represent a melding of my own pre-*Ishmael* v
     Rejecting the foundational underpinnings of modernity is both within
     our power and necessary to find long-term success on this planet.
 
-## A New Hope
+### A New Hope
 
 In a sense, *Ishmael* reinforced the notion that what we’re doing now (modernity) is not going to last. It is built on a flawed mental framework (human supremacy and transcendence) that will cause its self-destruction in due time. Because the pace has quickened so dramatically, it seems likely (to me) that the reckoning is scheduled for this century.
 
@@ -75,7 +75,7 @@ As an example (not a prediction), what if some time in the future we no longer h
 
 As more people become disillusioned with the relentless march of modernity—no longer buying into its deluded destiny and suspecting a mindless march toward a cliff edge—they may simply stop participating in the expected ways. Institutions will suffer a crisis of faith. Young people may have no interest in pursuing a career that straps itself to modernity. Modernity tastes sweet to many people right now, but it could increasingly develop a bitter aftertaste, and atrophy as more people find meaning in different ways. That’s the best case for modernity’s end: a peaceful fading away. More likely, it won’t go without a fight.
 
-## More from Quinn
+### More from Quinn
 
 After reading *Ishmael*, I jumped into *The Story of B*, then *My Ishmael*. [These three](https://www.ishmael.org/books/) make something of a trilogy. At the author’s recommendation (based on the Foreword in the 25th anniversary edition of *Ishmael*), I also followed up with *Beyond Civilization: Humanity’s Next Great Adventure*. If you like *Ishmael*, check them out!
 

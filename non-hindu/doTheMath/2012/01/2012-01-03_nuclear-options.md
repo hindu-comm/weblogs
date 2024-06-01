@@ -17,7 +17,7 @@ simpsons.wikia.com
 
 A recent thrust on Do the Math has been to sort our renewable energy options into “abundant,” “potent,” and “niche” boxes. This is a reflection of my own mathy introduction to the energy scene, the result of which convinced me that we face giant—and ultimately insurmountable—hurdles in our quest to continue a growth trajectory. It is not obvious that we will even manage to maintain today’s energy standards. We have many more sources/topics to cover before moving on to the “now what” phase of Do the Math. Meanwhile, requests for me to address the nuclear story are mounting. So before readers become mutinous, I should interrupt the renewable thread to present my nuclear reaction. It’s a rich topic, and in this post I will only give a tutorial introduction and my big-picture take. A single post can’t possibly address all the nuances, so my main goal here is to demystify what nuclear is all about, build a vocabulary, and set a foundation for further discussion in later posts.
 
-## Nuclear Basics
+### Nuclear Basics
 
 First of all, it is important to understand that a nuclear power plant operates in almost entirely the same way as a coal-fired plant. The chief difference is in the source of heat. For the coal plant, pulverized coal is combusted in a giant furnace to deliver *heat* to water, thereby generating steam that drives the turbines. Nuclear plants use energetic fission events to create *heat*, generating steam that drives the turbines. Did you pick up on the similarity?
 
@@ -31,7 +31,7 @@ Before we go on, let’s make sure we’re all on the same phonetic page. A bran
 
 Okay, I just had to get that off my chest—partly to confront my Southern heritage. The main point so far is that nuclear plants are only complicated in *how* they produce their heat. After that, it’s standard fare. And due to their similar design, both achieve something like 30–40% efficiency in converting thermal energy into useful electricity.
 
-## Fission Basics
+### Fission Basics
 
 Heavy nuclei can be split apart by blasting them with high-energy particles and having extremely good aim. But this is no fun, since the requisite energetic particles can be hard to produce. Nature provides a subtle trick, however, in that three semi-stable nuclei are capable of splitting apart by the mere introduction of an extra (slow) neutron. These are ²³³U, ²³⁵U, and ²³⁹Pu. That’s uranium and plutonium to most of us. The preceding superscript denotes the *total* number of **nucleons**—another name for protons and neutrons—contained in the nucleus. Uranium always has 92 protons, while plutonium always has 94 protons (it’s what makes them what they are: chemically, it’s all about how the neutral atoms behave, containing 92 and 94 electrons in differing configurations, respectively). This leaves 141, 143, and 145 neutrons in ²³³U, ²³⁵U, and ²³⁹Pu, respectively.
 
@@ -49,7 +49,7 @@ Fission yield probabilities for the three fissile nuclei, generally yielding a b
 
 We’ve looked at the accounting of splitting atoms, but where does the heat come from? When these nuclei and neutrons erupt from the unstable nucleus, they fly apart, carrying kinetic energy. As they rudely bump into surrounding atoms, they deposit this energy as a cacophony of motion/vibration in the solid lattice. We call this heat. A typical fission event releases about 200[MeV](https://dothemath.ucsd.edu/useful-energy-relations/#electron-volt "Do the Math: electron volt") of energy—the energetics of which we will revisit later.
 
-## Fuel Options
+### Fuel Options
 
 Of the three slow-neutron fissile nuclei, only ²³⁵U is found naturally. The other two have substantially shorter half-lives, so the ²³³U and ²³⁹Pu provided in the initial supernova-generated stock of material for Earth has long since decayed away. Meanwhile, ²³⁵U has decayed much faster than its sister ²³⁸U, which has a half-life of 4.5 billion years (coincidentally about the age of Earth, so we have half of our original stock of ²³⁸U). Today, 99.3% of natural uranium is the impotent ²³⁸U variety, the remaining 0.7% being the fissile ²³⁵U. This is a very significant fact.
 
@@ -63,13 +63,13 @@ The bottom line is that ²³²U contamination of thorium-produced ²³³U makes 
 
 I will no doubt get a lot of flak for not gushing over the advantages of thorium over conventional uranium reactors. It is not hard to find accounts extolling all the virtues—including chewing through our current stock of spent fuel (though no help on daughter products) and passive dumping in a loss-of-cooling emergency (if the salt plugs work properly). But it’s not all a bed of roses, and I sense that there’s a bit of “hopium” mixed in. I will need to spend time studying thorium more fully before I can say much more.
 
-## Energetics
+### Energetics
 
 Because it’s fun to apply *E*=*mc*², I’ll use the example above of ²³⁵U plus a neutron producing ⁹⁷Rb and ¹³⁷Cs plus two neutrons. A neutron has a rest-mass of 1.0087 atomic mass units (a.m.u.: 1.6605×10⁻²⁷kg), and ²³⁵U has a rest-mass of 235.043a.m.u. On the other side, ⁹⁷Rb is 96.937a.m.u. and ¹³⁷Cs is 136.907a.m.u. If we add up the initial mass, we get 236.05a.m.u., and for the final mass we get 235.86a.m.u. (235.83 after all beta decays are done).
 
 Somebody stole 0.2 atomic mass units! Putting this into *E*=*mc*² (with mass in kg and *c*≈3×10⁸m/s), we find the missing amount to be 3×10⁻¹¹ Joules. It might not sound like much, but a gram of ²³⁵U contains 2.6×10²¹ atoms, for a net of 76GJ of energy. This amounts to about 20 million kilocalories per gram—over a million times more potent than chemical energy. This is why nuclear is such hot stuff—literally.
 
-## Fuel Availability
+### Fuel Availability
 
 To put a scale on things, the world’s energy appetite, at 13TW, would require the expenditure of about 20 grams of ²³⁵U per second: a seemingly paltry amount. That works out to about 600 tons per year. In terms of total uranium (²³⁵U is only 0.7%), we would therefore need to dig out about 800,000 tons yearly. At present, the world uses about 60,000 tons of uranium per year (correcting for the fact that 85% of the yellowcake ore—U₃O₈—is actual uranium), even though only 0.75TW (thermal) of power currently derives from nuclear reactors worldwide. Scaling this number to 13TW implies a need for 1 million tons of uranium per year, in reasonable agreement with our first estimate.
 
@@ -81,7 +81,7 @@ If it became economical, we could harvest uranium from the ocean, where each cub
 
 We also must consider the breeder angle. Only 0.7% of natural uranium is fissile, so breeders can extend the scope by a factor of 140. Now our decade scale is a millennium scale. Likewise for thorium, which is a breeder program from the start, and arrives on the scene more abundant than uranium.
 
-## So Do We, or Don’t We?
+### So Do We, or Don’t We?
 
 You are indeed a patient lot, bearing with me through a lengthy pedagogical exposition when all along you just want to know whether nuclear will be a major component of our future and can scale sufficiently to put our minds at ease with respect to energy scarcity.
 
@@ -92,7 +92,7 @@ It’s worth emphasizing that we can’t simply ramp up the nuclear we know and�
 
 So the prospects for nuclear are all over the map. As such, economic, sociological, and practical concerns—more so than physics/math—will determine how large a role nuclear will play.
 
-## Practical Matters
+### Practical Matters
 
 Let’s start with the obvious. Nuclear represents yet another way of creating electricity. Between solar photovoltaics, solar thermal, wind, hydroelectric, geothermal, tidal, wave, ocean currents, etc.—granted, some of these are puny—*we are not running short of ways to generate electricity*. Nuclear has no special power over the others to alleviate the liquid fuels crunch we will soon experience. Like all the other options, it’s no panacea. It’s not the silver bullet we might hope to find.
 
@@ -102,7 +102,7 @@ Unlike solar or wind, nuclear will not be distributed, but will be centralized i
 
 Then of course we have the pesky issues of waste storage (unsolved worldwide after five decades), proliferation of weapons-grade material (relevant for breeders), and safety. True, radiation levels outside a coal-fired plant are higher than outside a nuclear plant—until they’re not. Three-mile Island, Chernobyl, and Fukushima certainly violated this “truism.” When nuclear plants have trouble, the trouble can be pretty unsettling.
 
-## Societal Factors
+### Societal Factors
 
 This brings us to the societal angle. People fear nuclear power, almost as much as they fear *nukular* power. First, we form a mental connection with the most destructive weapons known to man. The connection becomes real when proliferation is considered. Second, when nuclear plants have trouble, it’s big news—leading to out-sized fear. More people die from bee stings than from shark attacks, yet our fear of the shark is vastly greater than our fear of bees. Crazier yet, we don’t run screaming from cars—as deadly as they are—and will actually wade into a parking lot packed with these killers. Third, we have not been able to implement a waste storage scheme yet, holding spent fuel indefinitely at nuclear plants in swimming pools that were meant to provide temporary storage only.
 
@@ -114,7 +114,7 @@ As a scientist who understands what nuclear energy is all about—that a power p
 
 Sure, molten salt thorium reactors could ease some of these concerns (and bring about new ones). As I said, I need to look at this option in more depth. One thing I know already: nuclear is far more complicated than many of our other other options (e.g., solar, wind), relies on rare materials for fuel, and has serious societal barriers. That said, it has some very nice properties as well: stable power output, low carbon, potentially abundant fuel (if economies allow), and decades of experience (on certain reactor types).
 
-## On Balance
+### On Balance
 
 In the end, I think nuclear is likely to play an increasing role in our energy story. Energy hardship will trump concerns over waste, proliferation, and safety. As long as such hardship does not bind us in an [Energy Trap](https://dothemath.ucsd.edu/2011/10/the-energy-trap/ "Do the Math: The Energy Trap") or plunge us into dysfunction, we will likely build more plants. But because nuclear does not smack the primary problem right on the kisser (fossil fuel substitute), I doubt it will be heralded as the answer to our prayers, and imagine that its role will be correspondingly modest.
 

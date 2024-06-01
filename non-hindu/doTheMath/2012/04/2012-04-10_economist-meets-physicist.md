@@ -17,7 +17,7 @@ Cast of characters: **Physicist**, played by me; **Economist**, played by an est
 
 *Note: because I have a better retention of my own thoughts than those of my conversational companion, this recreation is lopsided to represent my own points/words. So while it may look like a physicist-dominated conversation, this is more an artifact of my own recall capabilities. I also should say that the other people at our table were not paying attention to our conversation, so I don’t know what makes me think this will be interesting to readers if it wasn’t even interesting enough to others at the table! But here goes…*
 
-## Act One: Bread and Butter
+### Act One: Bread and Butter
 
 **Physicist:** Hi, I’m Tom. I’m a physicist.
 
@@ -69,7 +69,7 @@ Second, thermodynamic limits impose a cap to energy growth lest we cook ourselve
 
 **Economist:** I see. That does make sense.
 
-## Act Two: Salad
+### Act Two: Salad
 
 **Economist:** So I’m as convinced as I need to be that growth in raw energy use is a limited proposition—that we must one day at the very least stabilize to a roughly constant yearly expenditure. At least I’m willing to accept that as a starting point for discussing the long term prospects for economic growth. But coming back to your first statement, I don’t see that this threatens the indefinite continuance of *economic* growth.
 
@@ -93,7 +93,7 @@ For one thing, we can keep energy use fixed and still do more with it in each pa
 
 **Physicist:** Not me. I suspect many would prefer the smell of real flowers—complete with aphids and sneezing; the feel of real wind messing up their hair; even real rain, real bee-stings, and all the rest. You might be able to simulate all these things, but not everyone will want to live an artificial life. And as long as there are *any* holdouts, the plan of squeezing energy requirements to some arbitrarily low level fails. Not to mention meeting fixed bio-energy needs.
 
-## Act Three: Main Course
+### Act Three: Main Course
 
 **Physicist:** But let’s leave the Matrix, and cut to the chase. Let’s imagine a world of steady population and steady energy use. I think we’ve both agreed on these physically-imposed parameters. If the flow of energy is fixed, but we posit continued economic growth, then GDP continues to grow while energy remains at a fixed scale. This means that energy—a physically-constrained resource, mind—must become arbitrarily cheap as GDP continues to grow and leave energy in the dust.
 
@@ -133,7 +133,7 @@ For one thing, we can keep energy use fixed and still do more with it in each pa
 
 **Physicist:** Even early economists like Adam Smith foresaw economic growth as a temporary phase lasting maybe a few hundred years, ultimately limited by land (which is where energy was obtained in that day). If humans are successful in the long term, it is clear that a steady-state economic theory will **far** outlive the transient growth-based economic frameworks of today. Forget Smith, Keynes, Friedman, and that lot. The economists who devise a functioning steady-state economic system stand to be remembered for a longer eternity than the growth dudes. \[Economist stares into the distance as he contemplates this alluring thought.\]
 
-## Act Four: Dessert
+### Act Four: Dessert
 
 **Economist:** But I have to object to the statement that growth must stop once energy amount/price saturates. There will always be innovations that people are willing to purchase that do not require additional energy.
 
@@ -153,7 +153,7 @@ For one thing, we can keep energy use fixed and still do more with it in each pa
 
 My point is that the stunning presentation of desserts will not have universal value to society. It all goes in the same place, after all. \[I’ll share a little-known secret. It’s hard to beat a Hostess Ding Dong for dessert. At 5% the cost of fancy desserts, it’s not clear how much value the fancy things add.\]
 
-## After-Dinner Contemplations
+### After-Dinner Contemplations
 
 The evening’s after-dinner keynote speech began, so we had to shelve the conversation. Reflecting on it, I kept thinking, “This should not have happened. A prominent economist should not have to walk back statements about the fundamental nature of growth when talking to a scientist with no formal economics training.” But as the evening progressed, the original space in which the economist roamed got painted smaller and smaller.
 
@@ -171,7 +171,7 @@ I recently was motivated to read a *real* economics textbook: one written by peo
 
 This is a book for me!
 
-## Epilogue
+### Epilogue
 
 The conversation recreated here did challenge my own understanding as well. I spent the rest of the evening pondering the question: “Under a model in which GDP is fixed—under conditions of stable energy, stable population, steady-state economy: if we accumulate knowledge, improve the quality of life, and thus create an unambiguously more desirable world within which to live, doesn’t *this* constitute a form of economic growth?”
 

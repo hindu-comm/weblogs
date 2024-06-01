@@ -13,7 +13,7 @@ Sustainable Means Bunkty to Me
 
 I think most would agree that the rapid depletion we currently witness in natural resources and services, climate stability, water availability, soil quality, and fisheries—to name a few—suggests that we do not live sustainably at present. We can not expect to keep up our current practices with 7 billion people in this world without some major changes.
 
-## Sustainability, in Numbers
+### Sustainability, in Numbers
 
 I have made the case in the past that growth—either in [physical measures](https://dothemath.ucsd.edu/2011/07/galactic-scale-energy/ "Do the Math: Galactic-scale Energy") like population, energy use, etc., or in [economic terms](https://dothemath.ucsd.edu/2011/07/can-economic-growth-last/ "Can Economic Growth Last?")—cannot continue indefinitely in our finite world. This post rounds out the trilogy.
 
@@ -25,7 +25,7 @@ If we are not sustainable today, how could we *possibly* achieve sustainability 
 
 You may object that Americans don’t *eat* five times more food than the average Earthling today. True enough, but we eat a meat-rich diet that consumes much more land, grain, and energy than would a simpler diet by something close to that same factor. You might also object that Americans use energy at an obscene rate, and that this should not be the goal for the rest of the world. I won’t argue. This post is aimed at those who see nothing wrong with such an approach.
 
-## Yeah, But… and Other Clever Dodges
+### Yeah, But… and Other Clever Dodges
 
 Might we not improve our efficiency in tandem with development so that standards of living could improve at a constant energy/impact? This is the subtext behind many of today’s sustainability drives. We just need to do things better and smarter and we’ll be fine.
 
@@ -43,7 +43,7 @@ Sure, hanging the towel back up on a multi-day hotel visit is definitely a step 
 
 Thanks to Luke for creating a pony made of gerbils strapped together!
 
-## Blowing Through Our Inheritance
+### Blowing Through Our Inheritance
 
 All of this would bother me less if we were at least living within our budget presently. But we are tearing through one-time resources like mineral deposits, aquifers, and the big one: fossil fuels. The easy stuff is grabbed first, and it gets harder and harder as time passes.
 
@@ -81,7 +81,7 @@ I fittingly pick a “blue sky” color to represent this state of affairs, agai
 
 My skepticism that we can make it to the 5× sustainable future has led me to anticipate that Americans will have to reduce their energy, material, and dietary consumption. I have reacted by modifying my own behavior, and in so doing have proven to myself that the challenge is one that can be met at a personal level while maintaining a less-than-primitive lifestyle. Choices in diet, indoor temperature, transportation, hot water use, household appliances, etc. have reduced my home impact by a factor of four or more, and this gives me great hope. But I am cheating by riding on top of an energy-rich society. It is not as clear that an entire civilization can ratchet down by a similar factor and maintain today’s basic functionality.
 
-## Why Now is Special
+### Why Now is Special
 
 Energy is not the only dimension to this problem. From a purely energetic point of view, we have enough solar input to allow sustained energy use at high rates (though not sustained *growth*). That’s the good news. But we would still strain the **throughput** of materials harvested from the planet. Pollution will continue to pile up; arable land will be lost to erosion, desertification, salinity increase, and exhaustion of ancient aquifers; fisheries will collapse; important metals will become ever harder to find and extract; we will learn too late that species driven to extinction by climate change and other human impositions are actually vital to our well-being. No one knows for sure what the ultimate carrying capacity of the Earth is: many estimates indicate that we have already exceeded it. And it is distressing that we do not have a *plan* for living within our means at *today’s* level of industrial activity, let alone a 5× expansion.
 

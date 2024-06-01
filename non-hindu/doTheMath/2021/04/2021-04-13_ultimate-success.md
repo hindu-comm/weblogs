@@ -25,7 +25,7 @@ Humans have embarked on a 10,000 year experiment to separate from nature: to bui
 
 Of course, this is not a question that I or anyone can answer with any confidence, but that’s not the point. The question provides a compelling framework against which to assess what long term success for humans on this planet would mean, by forcing us to think on appropriate timescales. [Appendix section D.5](https://escholarship.org/uc/item/9js5291m#appendix.D) in the new [textbook](https://escholarship.org/uc/item/9js5291m) explores this topic in a complementary way to this post.
 
-## Local Limitations
+### Local Limitations
 
 General Relativity casts gravity as a curvature of spacetime, so that a particle (or planet) simply responds to the local curvature imposed by nearby masses, executing the straightest path that it can in that twisted space, which distorts into orbits traced out on a global scale. In this sense, we say that gravity is **local**. It’s not Newton’s “action at a distance” but a locally-felt influence, via the mechanism of curved space.
 
@@ -37,7 +37,7 @@ Maybe this dismal framing simply captures human nature accurately. But maybe it 
 
 That’s what is so powerful about the question: is human civilization nearer its end or its beginning? It forces a completely different perspective and timescale for consideration. It suddenly places *value* on the distant future, and has the potential to reshape actions today to help steer outcomes on such long timescales. It says: “Hey: do you even *care* what happens to humanity in the long term?”
 
-## Futile Future Fantasies?
+### Futile Future Fantasies?
 
 At this stage, many say: “Sure, but we can’t possibly predict well enough the developments over such timescales to have a meaningful impact by our actions today.”
 
@@ -58,7 +58,7 @@ The first lesson from physics is that [growth cannot be a long-term prospect](ht
 
 Human civilization in 10,000 years therefore cannot afford to continue *any* exploitation or destruction of one-time resources. Fossil fuels will be long gone or abandoned. Deforestation must stop. Aquifer depletion must stop. Jeopardizing the survival of any species must stop. Soil erosion or degradation must stop. Anything that is not replenished by nature as fast as we’re using it cannot be part of a successful future.
 
-## Success, Sustainability: Synonymous
+### Success, Sustainability: Synonymous
 
 To me, that rock-solid and rather obvious insight is a big deal. Suddenly, we have a rule book for success. In the end, *success* can **only** mean *sustainability*. The rule book could get by with that one line. The converse is also true: unsustainable is unsuccessful. Which should we aim to be?
 
@@ -66,13 +66,13 @@ To satisfy our desire to be in our infancy as a civilization, and not near the e
 
 In this stark—and ultimately correct—view, almost everything we do today is **not compliant** with the success rule book. Can you guess what is left in the absence of success? That’s right: failure.
 
-## Fueling Failure
+### Fueling Failure
 
 A restatement is therefore: most things we do today are contributing to our ultimate failure. The dinner table question: “What did you do today?” might as well be asked as “What did you do today that contributes to humanity’s ultimate failure?” The answer is generally the same. Whatever we did likely contributed more to ultimate failure than to ultimate success. Shouldn’t we be shouted at for our juvenile negligence and be sent to our rooms without any dinner?
 
 If, in the course of your day: you used fossil fuels; utilized mined materials; ate food grown using industrially-produced fertilizer or other soil amendments; used furniture whose wood was harvested from a place that is no longer forest; worked for a company whose focus is monetary rather than ecosystem health, enjoyed electricity produced by devices whose materials or fuel were extracted from the ground; lived in a house or building made from extracted materials or chopped forests; ate food irrigated from an aquifer (or animals fed on such food); or looked at a computer screen; then you contributed to ultimate failure. In other words, if you are a member of modern society and not living in harmony with the land like a primitive outcast, then you are perhaps unwillingly and/or unwittingly an accessory to crimes against the ultimate success of humanity.
 
-## Scrapping the Script
+### Scrapping the Script
 
 That’s okay, maybe. It’s not over yet. Nature is resilient and can rebound to support us for the long haul if we take our hands off its throat. It won’t bear a grudge (the upside of its indifference to our fate). We “just” need to sort activities into those that contribute to success and those that contribute to failure, and stop doing the latter in favor of the former. As long as we turn the tanker ship before too much irreversible damage is done to ecosystems, they can recover. But it has to be a system-wide shift, and we don’t have much time. Many ecosystems have already been hacked into small enough disconnected parcels that we cannot be assured of their springing back.
 
@@ -84,7 +84,7 @@ To help discern successful modes, think about natural flows: things nature repla
 
 Conversely, mined materials are not replaced. We may be able to recycle materials, but for how long? How many cycles before corrosion and dispersal preclude indefinite use? 10,000 years is many hundreds of human generations. It is true that the atoms don’t disappear, but our ability to gather them profitably may suffer. Recycling mined materials may not be a viable possibility in 10,000 years.
 
-## Remaining Reflection
+### Remaining Reflection
 
 I would hope that the far future, while necessarily blending more intimately into nature, can also preserve some critical technology so that we can maintain and improve upon our knowledge of the world. But I honestly don’t know if nature is *compatible* with a technological species for the long term. We simply have no evidence on Earth or beyond, inspiring this thing I made up (not sure what the rules are, so is this a passage, a quote, or a poem?):
 

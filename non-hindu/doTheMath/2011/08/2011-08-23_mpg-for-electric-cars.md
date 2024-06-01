@@ -13,7 +13,7 @@ A typical efficient car in the U.S. market gets about 40MPG (miles per gallon) r
 
 This post addresses these questions.
 
-## Using the Wrong Measure
+### Using the Wrong Measure
 
 Okay, first of all, MPG (called fuel economy) has always been a poor choice of units. We don’t usually put a gallon of gas in the car and drive as far as it might take us. Rather, we tend to have a destination in mind and care about how much gas it will take to get there. The inverse, GPM (called fuel consumption), would therefore be a better measure, and is akin to the measure used in some parts of the world (e.g., Europe’s liters per 100 km).
 
@@ -23,7 +23,7 @@ Let’s say for numerical simplicity that you want to go 240 miles in both. In y
 
 |                |           |         |            |           |         |           | |----------------|-----------|---------|------------|-----------|---------|-----------| | Scenario       | truck MPG | car MPG | gal/240 mi | truck GPM | car GPM | total GPM | | Original       | 12        | 30      | 28         | 0.0833    | 0.0333  | 0.1167    | | Replace Car    | 12        | 40      | 26         | 0.0833    | 0.025   | 0.1083    | | Replace Truck  | 16        | 30      | 23         | 0.0625    | 0.0333  | 0.0958    | | Equivalent Car | 12        | 80      | 23         | 0.0833    | 0.0125  | 0.0958    |
 
-## A New Measure for All Cars: Electric and Gasoline
+### A New Measure for All Cars: Electric and Gasoline
 
 With this lesson in mind, we would like a measure of energy per distance traveled. I’m a big fan of picking a universal energy unit and applying it to all forms of energy we use. Among the zoo of energy units: Joule, kilocalorie, Btu, Therm, kilowatt-hour, gallon of gas, barrel of oil, etc., I prefer the [kilowatt-hour](https://dothemath.ucsd.edu/useful-energy-relations/#kilowatt-hour) as a common standard. I like this because my favorite unit is the Watt (is it *wrong* to have a favorite?), and using the kWh makes it straightforward to flip between energy and power. Like ya do.
 
@@ -39,13 +39,13 @@ How do electric cars or other electric/hybrids stack up? In order of performance
 
 If you pay \$0.10/kWh for electricity, these three cars travel 100mi for costs of \$4.50, \$3.30, \$2.20, respectively (triple this for Hawaii). At \$3.50 per gallon of gasoline, a car getting 50MPG will cost \$7.00 to travel the same distance. So in almost all cases, the “fuel” cost is less to the consumer at current prices.
 
-## Theoretical Expectations
+### Theoretical Expectations
 
 Are the energy consumption numbers we calculated *good*? Besides being obviously better than gasoline cars, are they close to the theoretical limit? To get at this, we follow the analysis developed in the [earlier post on gas mileage](https://dothemath.ucsd.edu/2011/07/100-mpg-on-gasoline/ "100 MPG on Gasoline: Could We Really?"). The energy it takes to fight air resistance when traveling a distance *D* at velocity *v* is *E* = ½*c*_(D)*ρADv*², where *c*_(D) is the drag coefficient (0.25 for the Prius, for example), *ρ*=1.3kg/m³ is the density of air, and *A* is the frontal area (\<2.5m² for a deliberately efficient small car). Putting in 160,934 meters for *D* to represent 100 miles, and converting the result (in Joules) to kWh by dividing by 3,600,000J/kWh, we get 16kWh/100-mi when traveling at a freeway speed of 30m/s (67m.p.h.).
 
 If we add rolling resistance, at about 1% of the car’s weight, we get an additional tax of about 5kWh/100-mi for a 1000kg car, independent of speed. Therefore, the low 20’s is about as good as you might ever see at freeway speeds. For city driving, regenerative braking and the much smaller contribution from air resistance will reduce the theoretical expectation, approaching the rolling resistance limit in extreme cases. The Tesla figure of 22kWh/100-mi, for example, represents a combined profile of driving conditions/speeds. The energy consumption at freeway speeds is undoubtedly higher than the combined figure, and not in danger of challenging the theoretical limit. But on the whole, not a bad show for the first wave of mass-market electric cars.
 
-# Not So Fast
+## Not So Fast
 
 The present analysis leaves out two important bits. First, the energy consumption (and electricity costs) I calculated for the Volt, Leaf, and Tesla simply use the battery capacity—not the electricity delivered for charging. Charging efficiency may be anywhere from 70% to 90%. But that’s a small caveat compared to the second issue (and similar to the 25% energy overhead for refining gasoline from oil—which itself has an energy overhead of only about 5% in the extraction/delivery process).
 

@@ -11,7 +11,7 @@ Easing Off the Gas
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2012/04/GASCAN-red-copy-181x300.jpg "GASCAN-red copy")](https://dothemath.ucsd.edu/wp-content/uploads/2012/04/GASCAN-red-copy.jpg)The Do the Math blog series has built the case that physical growth cannot continue indefinitely; that fossil fuel availability will commence a decline this century—starting with petroleum; that alternative energy schemes constitute imperfect substitutes for fossil fuels; and has concluded that a very **smart** strategy for us to adopt is to **slow down** while we sort out the biggest transition humans have ever faced. The idea is to relieve pressure on the system, avoid the [Energy Trap](https://dothemath.ucsd.edu/2011/10/the-energy-trap/ "Do the Math: The Energy Trap"), and give ourselves the best possible chance for a successful transformation to a stable future. Since building this case, I have described substantial adaptations in our home energy use, but have not yet addressed the one that bears most directly on the immediate problem: transportation and liquid fuels. Let’s take a look at what can be done here.
 
-## What are Our Goals?
+### What are Our Goals?
 
 Yearly production of conventional liquid fuels may decline at rates of 2–5% once the decline starts. Artificial (geopolitical) factors may steepen the decline. But even at a modest 3% per year decline, we will be down to half the annually available fuel in a two-decade timeframe. Substantial energy transitions of the past have taken much longer to accomplish, so dreams of shiny replacements—like a fleet of electric vehicles for everyone—need to be tempered with some sense of historically demonstrated reality. Indeed, Chevrolet has scaled back their production of the Volt due to flagging demand. Is it because oil prices are low? Are gasoline prices too low to send the right signal? **No!** Oil prices have hovered at or above \$100/bbl for **over a year now**. Gasoline prices are in the red. And Chevy ramps down production of arguably the most impressive plug-in hybrid vehicle on the market.
 
@@ -25,7 +25,7 @@ The point is, I backed away from my drooling attraction to the Volt because I ju
 
 Again, I come to the conclusion that one thing we *can* do—totally under our own control—is to reduce our demand of liquid fuels faster than the naturally-imposed decline rate. And again, I look for **factor-of-two** level solutions, rather than piddly few-percent window-dressing. Let’s kick this problem in the teeth!
 
-## Comparing Scales
+### Comparing Scales
 
 According to the U.S. [Energy Information Agency](http://205.254.135.7/emeu/rtecs/nhts_survey/2001/index.html "EIA: Household Vehicle Energy Use") (EIA), in 2001, 107 million households drove 191 million vehicles an average of 12,000 miles each (19,400km), consuming a household average of 1057 gallons (an even 4,000 liters) per year.
 
@@ -39,7 +39,7 @@ The lesson is that reducing one’s use of gasoline is not only addressing the i
 
 Obviously a couple in San Diego can get by with less gasoline usage than suburban or rural families can. And a New York City household can do just fine with no car at all. But even among our cohort in San Diego, our driving habits/dependencies require substantially less gasoline than standard practices. And this is the comfort zone for me: a factor of two reduction provides enough breathing room for me to feel that widespread uptake at this level can deliver the game-changer we need to evade the chaos and pain that a supply shortfall will bring. Coupled with an aggressive strategy to build a truly energy-resilient future, such voluntary reduction may be just the ticket for us.
 
-## Strategies
+### Strategies
 
 Okay, let’s say you buy into the notion that we should personally strive to reduce fuel consumption by something approaching a factor of two. But you sense that it’s easier said than done. True. If it were easy, you would have been there already. After all, paying high prices at the pump is not something you do for fun. Here are some suggestions that *we* try to implement, and that *may* work for others as well.
 
@@ -49,7 +49,7 @@ Okay, let’s say you buy into the notion that we should personally strive to re
 
 **Carpool**: Another unoriginal suggestion, in plain sight. Even finding one person to share a ride immediately provides that magic factor of two savings. Coordination can be a slight inconvenience. But the benefit may far outweigh the cost. This is another place where an attitude shift can make all the difference. If you begin to view single-occupancy as an unacceptable standard practice, the burden of arranging shared rides may seem worthwhile. Social media is making it far easier to find and arrange rides. I wonder how many Egyptians protesting in Tahrir Square used the same social media that was so instrumental in organizing the protest to also arrange shared rides to Cairo or to the Square.
 
-## Full-Cost Accounting
+### Full-Cost Accounting
 
 It’s easy enough to say “hop on a bus and avoid putting gas in your tank.” But gas has to go in the bus’ tank. And each rider needs to claim a share of that expenditure. I don’t buy the argument that “the airplane is going there anyway, so the fuel is spent whether or not I occupy a seat.” This kind of marginal thinking is correct to a point, but also tends to be a barrier to change. It also kills democracy: “the candidate will be elected whether I vote or not, since the polling margin is 10 points in her favor.” Gee. If everyone came to that same conclusion, democracy would self-destruct. Passenger airplanes don’t travel between cities if no one is (or too few are) signed up to ride. Demand creates the service. It’s a cop-out to think that your choices carry no consequences. Remember that you are one of an aggregate, and aggregate demand creates massive impact.
 
@@ -59,7 +59,7 @@ Looking at the whole MTS fleet for fiscal-year 2011, 179 million passenger-miles
 
 Of course, bus service passenger-miles per gallon is a complex subject with many logistical complications. One could achieve higher occupancy by flooding the route with buses during peak hours, running many fewer at other times. While this would be a fuel-efficient strategy, the capital cost (and embodied energy) of a standing fleet may make this impractical in other ways. Even so, packing the buses at peak times yields a fairly significant overall reduction of liquid fuel use. Even better if the buses use alternative fuels, as MTS does. The problem is further complicated by the fact that bus service is also a social service for people who can’t drive. Supporting off-peak ridership is a form of community service, even if less efficient than at peak times. Perhaps I should leave this topic for now and devote a future post to public transportation.
 
-## Other Avenues
+### Other Avenues
 
 There are other ways to reduce your share of liquid fuel consumption in society. Agriculture is a heavily fossil-fuel subsidized activity, for instance. Dietary changes can cut the associated fossil fuel use by at least a factor of two—another topic that deserves its own post. Discretionary travel by air can often be cut by a factor of two or more. Even travel for work can often be reduced once personal reduction becomes a priority. I have turned down a number of invitations to speak at conferences far away (especially overseas), partly on this basis. One might also consider solar-charged golf carts for local mobility; moving to a walkable community; more bicycling; rickshaws; whatever. There are options.
 

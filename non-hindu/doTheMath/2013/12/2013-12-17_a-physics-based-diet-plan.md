@@ -13,7 +13,7 @@ A Physics-Based Diet Plan
 
 I’ll spare the suspense and reveal the physics trick (unlike magicians, physicists are all too eager to explain the how and why of nature’s tricks). In this case, your body mass adheres to a simple bookkeeping of mass–in vs. mass–out. Mass comes in by ingesting food and water. Mass goes out by many mechanisms: some obvious, some not. Skipping over the obvious unmentionable forms—often ascribed a numerical sequence of \#1 and \#2—we also have \#3, \#4, \#5, …
 
-## Invisible Weight Loss
+### Invisible Weight Loss
 
 A surprising fraction of our weight loss occurs right under our noses—literally. The air we exhale is loaded with carbon dioxide and water that were not present in the intake. Yes, we do grab oxygen out of the air, but these atoms are returned to the air attached to carbon and hydrogen. Our skin also perspires, which is another mechanism for mass loss. So really we’re emitting a constant stream of carbon and hydrogen from our bodies. Brick by brick, these atoms add up to significant mass.
 
@@ -21,7 +21,7 @@ The chemistry is straightforward. Taking a unit block of carbohydrates (like sug
 
 The math is pretty simple. If we eat a mixture of carbohydrates, proteins, and fats averaging, say, 5kcal per gram, and have a diet of 2000kcal/day, this amounts to 400g (about a pound) of food mass each day (ignoring the non-nutritional and water components of the food). And in steady state, this means we lose a similar amount per day largely by continuing to breathe, perspire, and occasionally “using the facilities.”
 
-### Aside: More Weight Loss Math
+#### Aside: More Weight Loss Math
 
 Another angle on the whole breathing thing: according to [Wikipedia](http://en.wikipedia.org/wiki/Breathing "Wikipedia on Breathing"), the air we inhale is 21% oxygen, by volume, along with trace amounts of CO₂, H₂O, etc. Meanwhile, we exhale CO₂ at 4–5% concentration, reducing oxygen to 14–16%.
 
@@ -31,7 +31,7 @@ Water vapor is also an interesting parameter. Saturated air at body temperature 
 
 Two factors reduce the effective mass loss from exhaling water, however. One is that the air we breathe isn’t necessarily bone dry. Air at normal room temperature and 50% humidity contains about 10g/m³ of H₂O—reducing the effect by 25%. But more significant is the question of where the exhaled water originated. If it’s ingested water, count the mass loss at full freight. If it is reacted water from inhaled oxygen, only the part from hydrogen (2 mass units out of 18, or 11%) of the exhaled mass came from ingestion—the rest borrowed from the air as oxygen.
 
-## The Diet Plan
+### The Diet Plan
 
 Now understanding that the body will continuously shed mass even if the food supply is shut off, we’re ready to examine my dirt-simple, but extremely effective diet plan. The idea is to cut back on the amount of mass that goes *in*, and let the numbers take care of the rest to balance the books and put me back on target. How do I limit mass in: **skip meals**.
 
@@ -45,7 +45,7 @@ It wasn’t always this way in the history of the human animal, and many in the 
 
 Alright, it would not be at all healthy to operate our bodies like cars, pulling in to the feeding station once every couple of weeks on fumes. So while the 98% metric provides some startling context, it’s unfair. All the same, we should recognize that the world won’t end if we miss a meal or two.
 
-## Battling Psychology
+### Battling Psychology
 
 This brings us to the real challenge of diet: psychology. How one responds to the physiological signal of hunger is vitally important. Hunger is an interesting experience. It comes on strong: the stomach protesting with audible growls. I can only assume that for many people, these alarms displace thoughts of almost anything else but feeding the hunger.
 
@@ -53,7 +53,7 @@ I personally respond to these pangs with detached amusement. I think of hunger a
 
 Ignoring the hunger, I focus on other items of greater interest. Hunger will periodically reassert itself and demand attention, but it becomes a barely-noticed distraction that can be tuned out. Similarly, a barking dog next door may be annoying, but need not consume all your mental attention. I find that after an initial wave lasting an hour or two, the hunger gives up and stops being so annoying. I wonder how many people in our well-fed society know that hunger will not simply continue to build, if left alone? It comes in waves. I can wake up less hungry than when I went to sleep the night before.
 
-## A Broader Context
+### A Broader Context
 
 So ignoring hunger is really not that hard. I think it’s a matter of shifting priorities and emphasis, especially in relation to the internal vs. external world. We all have an internal world pertaining to our individual bodies. And we live in an external world that shares an objective reality. A rumble in my stomach has effectively zero impact on the external world, if I decide to ignore it. Because I value the external more than the internal (the shared rather than the “me”), I prioritize the impact I have *there*. In my rank-ordering, I consider science the most important, fundamental thing, followed by the physical universe that science describes, then the Earth and its ecosystem, then humans, and then me. Perhaps this is an oddly inverted hierarchy.
 

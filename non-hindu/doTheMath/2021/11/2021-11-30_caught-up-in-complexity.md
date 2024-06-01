@@ -21,7 +21,7 @@ But I still try to understand *why* so few of my colleagues have reached similar
 
 In this post, I venture some guesses about the disconnect—some of which may even be on target. I will loosely frame the discussion in the context of academia, but much of the logic also applies beyond this scope. The basic idea is: complexity makes it hard to differentiate between **real** and **artificial** worlds.
 
-## Too Much Confusion
+### Too Much Confusion
 
 Sharp minds are capable of coping with complexity, and are apt to revel in the convolutions and nuances of ideas. Thought feeds the soul, for the intellectual sort.
 
@@ -29,7 +29,7 @@ In the panoply of fields and ideas represented within academia, one finds a rich
 
 Amidst all these concerns, isolating the problem and devising a system that would tame our most significant ills seems to be hopelessly mired in complexity. Opinions/ideas abound, making it effectively impossible to arrive at consensus on the relative merits of ideas. So the wheels of academia spin, churning out heaps of well-considered publications, and sometimes achieving demonstrable bits of progress.
 
-## The Two Worlds
+### The Two Worlds
 
 A Planetary Limits perspective steps to the side and starts by acknowledging a non-negotiable physical basis to everything.
 
@@ -39,7 +39,7 @@ Meanwhile, the physical foundation is taken for granted like the air we breathe;
 
 As an extreme example: whatever your passion, try making your case without any air in the room. Not only won’t the sound propagate, but you’ll be in a bad way for oxygen. Try maintaining your position for days or weeks without allowing any intake of water or food. The physical foundation is so obviously important as a **prerequisite** for anything else that it deserves its own (necessarily finite) canvas, within which everything else must operate in deference to the limitations/boundaries. Yet we take it for granted: treating something of paramount importance with little regard.
 
-## But is it Critical?
+### But is it Critical?
 
 It makes sense that we do this, when hard limits have seemed remote or irrelevant this past century and more. The oxygen example above borders on ludicrous, since we are not in serious jeopardy of running out of air to breathe—space fantasies pushed aside. Food and water are less guaranteed. But generally speaking, ignoring physical limits is unwise when suddenly 8 billion people are scooping out the inheritance of Earth’s finite one-time resources as fast as humanly possible. We have not seen the full consequences yet, and can no longer take the foundation for granted, as we have already used up a shocking fraction of Earth’s offerings in the blink of an eye on timescales of evolution or even of civilization. We are chewing on the power cord to our life support machine, as if it’s just another fun choice on the menu. It’s the worst choice we could make, as exciting as Amazon deliveries might be.
 
@@ -47,7 +47,7 @@ To most, it seems that physical resources have always been available in sufficie
 
 Perhaps a useful way to drive the point home is to pause and look around you. Most eyes will land on a lot of physical “stuff.” Or think about the stream of delivery trucks, unloaded car trunks, and curbside waste as a marker of material throughput in most households. Where does it all come from? Is the source limitless? Could you gather the resources that make your life possible on your own little patch of land: metals, plastics, wood, energy resources? Who, in fact, can? Or can you at least offer something of value that can be traded for things you don’t happen to have on your property? Can the things you need even be sourced in your local region? The stuff we rely upon is not exactly easy to acquire, and it gets harder as the prime resources are fully exploited/depleted on this ever-smaller globe.
 
-## Dismissing Limits
+### Dismissing Limits
 
 Ignoring physical limitations allows [human exceptionalism](https://dothemath.ucsd.edu/2022/02/human-exceptionalism/) to take center stage, subsuming physical concerns under the “engineering” category of human mastery. And many engineers are perfectly happy to receive well-defined “kits” to puzzle out, creating the temporary illusion that cleverness triumphs over natural limits.
 
@@ -63,7 +63,7 @@ Another common focus of how we might fix many of the world’s ills is redistrib
 
 Our tendency to ignore the value of physical resources in relation to our artificial pursuits is also seen in the way we treat resources as essentially free in our price structures. The cost is dominated by the extraction effort (a human activity), land rights (another artificial construct), and maybe a little profit for those who have the means to secure and perform the extraction/exploitation. No one pays into a global coffer for the extracted oil, or the cut-down tree. The actual thing that’s valuable is plucked for free—uncompensated. No wonder we fail to properly value those resources as special. Our woefully inadequate construct of money is not up to the task of protecting our life support machine.
 
-## Good News: Bad News
+### Good News: Bad News
 
 As a jarring illustration of our tendency to value the human side over the prerequisite physical/ecological side, imagine that somehow we manage to emerge from the coming centuries having established a truly sustainable existence. All resources are renewed by nature at the rate of extraction for human needs; population is steady and at a level *just* tolerable to the planet in terms of indefinite support. Diverse ecosystems are left to thrive in their natural states. But imagine that we are still plagued by cancer and other maladies, so that life expectancy is, say, 90 years.
 
@@ -71,7 +71,7 @@ Then what if a team of researchers hits on a cure for (most forms of) cancer? Hu
 
 Well, not so fast. All other elements held the same, longer life spans translate to a higher population, putting additional resource burdens on the planet that it cannot handle in the long term. In order to adopt and implement the cure for cancer, we would have to either deliberately reduce population or lower the standard of living to accommodate the change. All other considerations of the complex society about economic impacts, equity of distribution, legal and political facets, or interaction with religious belief systems must take a back seat to the most fundamental and important question: is this change physically viable on this finite planet in the long term?
 
-## Physical Priority
+### Physical Priority
 
 Physical limits should be the start of every discussion. Every policy, every philosophical argument, every religious choice, every economic decision should *first* consider the immutable impact on the physical world: the real and non-negotiable world. Will the proposal have a net negative or a net positive effect on ecosystems (neutral also okay)? Only *after* planetary limits are respected should considerations in our artificially constructed world be applied. Otherwise we write the prescription for failure.
 

@@ -37,7 +37,7 @@ Meanwhile, physics is very clear: the growth that has been characteristic of the
 
 So the up-close and familiar conditions of today do not form a good basis for judgment of long-term prospects. Our brains are addled by the sugar-high of this special time—this dazzling fireworks show. To appreciate the longer view, we need to recognize this fact and pull back to a [bigger perspective](https://dothemath.ucsd.edu/2021/04/ultimate-success/). Reluctance to do so is dangerous and, frankly, a bit bratty.
 
-## The Web of Life
+### The Web of Life
 
 The terms of our contract with nature are rooted in ecosystem services and roles. The intricate web of living organisms forms a type of interconnected and interdependent life-support system. Not only have we substantially removed ourselves from this web, we are picking at and destroying it as we go.
 
@@ -51,7 +51,7 @@ Come on, people. That’s not smart. Or maybe I should say that’s not wise. Th
 
 We’re plenty smart as a species: too smart. That’s kind-of our core problem: too smart to guarantee our own success in partnership with nature. From an evolutionary perspective, increased intelligence confers an advantage, until it does not any more. Do we win the prize for being the first species to cross the line into maladaptive intelligence territory? When is the ceremony?
 
-## Restoring Faith
+### Restoring Faith
 
 How do we return to the good graces of our contract? A simple, yet unsatisfying answer would have us revert to a primitive state. That fate *could* await us, willing or not. The classic story *Earth Abides*, a mid-century fiction—painfully hokey in spots—paints a persuasive picture of human reaction to collapse of civilization: some of the immediate survivors are keen to recapture the old ways and conveniences, but those born into the new world see little value and are more intent on enjoying and thriving in the world *as they find it*. The adaptability of humans means our species is likely to survive in some form, and those individuals will largely accept the world in whatever state, without regret*.*
 

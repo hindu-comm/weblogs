@@ -15,7 +15,7 @@ Part of my motivation comes from the bruised, and bruising comments in reaction 
 
 Leaving the sociology aside—but before we get busy with the math—I’ll share the story that during the comment firestorm, an individual contacted me from NASA headquarters (not to revoke my funding, thankfully), offering thoughtful perspectives on space policy. The part I can’t shake is the statement that it takes decades of serious research to answer two simple questions: “Can humans live and work in space for the long term?” and “Can an economically viable activity be found in space?” Opinions aside, **these are open questions**, and have been for some time. We have no *proof*—or even firm expectation—that either is practical or possible.
 
-## Lots of Stuff
+### Lots of Stuff
 
 Around the time of the final U.S. Space Shuttle flight, a NASA official was asked in a radio interview to explain what was left to inspire young kids about space. The answer was that mining asteroids and the Moon offered a new grand challenge to inspire our kidlets. Granted, space mining probably *is* a bit more inspiring than off-shore drilling or coal mining as a career choice. It’s got *space* in it. But are we *really* serious about getting materials from other bodies within the solar system?
 
@@ -33,7 +33,7 @@ Likewise, our hydrocarbon endowment on Earth cannot compare to the enormous amou
 
 Finally, folks speak of the helium-3 (³He) resource on the Moon at a trace concentration of about 10 parts per billion by mass. Such fuel could be useful in fusion reactors of the future. I will not address this option here, except to compare the energy density to that of fossil fuels. One gram of lunar soil has about 10⁻⁸g of ³He, or about 3×10⁻⁹ moles, becoming 2×10¹⁵ particles. Reacting with deuterium, this process releases 18.6[MeV](http:/physics.ucsd.edu/do-the-math/useful-energy-relations/#electron-volt) of energy, becoming 1.4kcal/g. Compare this to coal at 4–7kcal/g, oil at 10kcal/g, and natural gas (methane) at 13kcal/g. The energy density is not ridiculously small, but the resource is very diffuse, expensive to collect and deliver, and with no current application for its use. That’s why I’ll say no more here.
 
-## Easy to Get?
+### Easy to Get?
 
 How easy is it to get at these various extraterrestrial resources? Nothing but empty space stands between us. Once in space, how easy is it to zip about from one place to the other? It doesn’t seem too bad, judging from movies.
 
@@ -55,7 +55,7 @@ The next plot puts this in perspective, albeit only in simplified, approximate t
 
 Each planet is represented by three dots: the top one being outside the planet’s grip in an identical solar orbit, the next one down at low-planet orbit (akin to LEO), and the lowest represents being at rest on the surface. For Saturn and Jupiter, these surface points are off the chart—so taxing is this requirement. And for these two, there’s no “there” there anyway to land on. Crudely speaking, we must have the means to accomplish *all vertical traverses* in order to make a trip. For instance, landing on Mars from Earth requires about 17km/s of climb, followed by a controlled 5km/s of deceleration for the descent. Thus it takes something like 20km/s of capability to land on Mars, and LEO is *approximately* half the battle. Similarly, it takes about 20km/s to get to the asteroid belt at 2–3A.U. LEO is a good deal less than halfway to Mercury, Jupiter, Saturn, and beyond. This is especially true if one wants to enter orbits around the giants.
 
-## Rocket Science
+### Rocket Science
 
 Why all this talk of delta-v? Isn’t *energy* a more appropriate metric, since this relates to fuel requirements? Yes. I’ll leave the derivation for the [Appendix](#appendix), but the energy expended comes out to be the mass of fuel exhausted times ½*v*²_(exhaust), where *v*_(exhaust) is the rocket exhaust velocity (usually about 3–5km/s) in the frame of the rocket. Meanwhile, the velocity acquired by the spacecraft is
 
@@ -65,7 +65,7 @@ where the final piece is the natural logarithm of the ratio of initial spacecraf
 
 For larger burns, though, the non-linearity of the logarithm comes into play. Somewhat counter-intuitively, it is possible to get the rocket moving faster than the exhaust velocity once the fuel mass exceeds 63% of the total initial mass. In order to get delta-v values in the 20km/s range when the exhaust velocity is less than 5km/s requires almost nothing *but* fuel. See the [Appendix](#appendix) for more on this.
 
-## Refuel in Space?
+### Refuel in Space?
 
 Since the large delta-v’s required to get around the solar system require a *lot* of fuel, and we have to work hard to lift all that fuel from the Earth’s surface, could we just grab hydrocarbons from Jupiter or Titan and be on our way?
 
@@ -79,7 +79,7 @@ In the first case, we necessarily deliver less than 20% of the tank capacity to 
 
 This scenario pre-supposes that we can find oxygen on Titan, so we can arrive on the surface light and empty. If we had to carry oxygen to Titan from the inner solar system, the energy cost balloons to absurdity—as if it was not there already.
 
-## Grab That Asteroid!
+### Grab That Asteroid!
 
 Now on to getting materials from asteroids. I will assume that we want the resources to end up somewhere else in the solar system, so that we must move the mass across the potential well.
 
@@ -93,7 +93,7 @@ Big mass, small force per unit area. We’re going to need a big sail. Let’s t
 
 The acceleration of our 10¹³kg asteroid, using Newton’s *F=ma* comes to about 50 nano-*g* (*g*≈10m/s²) It takes 350 years to reach 5km/s. At least it can *do* it, given great patience. But there are big problems. Even if we could conceive of an Egypt-sized solar sail (difficult for me to swallow), orbital maneuvers don’t generally have the luxury of time. As the asteroid approaches Earth, it needs to be slowed down *during the fly-by*, otherwise it will just, well, fly by.
 
-## Rocket Exhaust?
+### Rocket Exhaust?
 
 I may not have exhausted the possibilities, but I’m personally exhausted. I had never worked through these computations before, and took my typical approach of estimating obvious, brute-force solutions to a problem. When such things do not work out, it sends up a red flag that maybe this thing isn’t so simple. The ideas *sound* good, but are easier said than done. It looks to me as if the resources of space are effectively stranded in place.
 
@@ -103,7 +103,7 @@ I still support the economics of space-enabled science. Some of our most preciou
 
 The original post on space was not as quantitative as most Do the Math posts are, so I felt I had some unfinished business. I conclude with a reminder that the space angle is a **distraction** to the resource problems we will face on Earth this century—chiefly in the energy domain. I enjoyed doing the calculations, but at the same time feel that I could have spent my time on more meaningful and productive pursuits, rather than evaluating fantastical schemes.
 
-## Appendix: Rocket Math
+### Appendix: Rocket Math
 
 For the brave/curious, I include here a mathematical description of the ideal rocket. Not part of the main post, so stop here if you’ve seen enough.
 

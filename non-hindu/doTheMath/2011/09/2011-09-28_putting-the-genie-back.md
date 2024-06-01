@@ -11,7 +11,7 @@ Putting the Genie Back in the Toothpaste Tube
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2011/09/co2-cubes-close-150x150.png "co2-cubes-close")](https://dothemath.ucsd.edu/wp-content/uploads/2011/09/co2-cubes-close.png)You may have heard about the excess carbon dioxide in the atmosphere as a [result of our combustion of fossil fuels](https://dothemath.ucsd.edu/2011/08/recipe-for-climate-change/ "Do the Math: Recipe for Climate Change"). If we wanted to sweep the excess CO₂ out of the air, what would it take? How much is there? Where would we put it? In this post, we will put the numbers in perspective and briefly examine a few of the possibilities for storage.
 
-## Setting the Scale
+### Setting the Scale
 
 First, let’s explore a typical American’s annual contribution to CO₂ to get some context. I will be drawing on methods developed in the previous posts on [climate change](https://dothemath.ucsd.edu/2011/08/recipe-for-climate-change/ "Do the Math: Recipe for Climate Change") and  
 [personal energy cubes](https://dothemath.ucsd.edu/2011/08/personal-energy-cubes/ "Do the Math: Personal Energy Cubes"), so if the numbers I pick seem to come from nowhere, check these pages for backup.
@@ -20,7 +20,7 @@ We know that the average American is responsible for 10kW of continuous power pr
 
 Other useful calibrators: a tank of gas (10gal, or ~40L) produces 80kg of CO₂, and air travel produces 75kg per passenger per 1000km flown (and you thought your luggage was heavy!). Since I can’t resist comparing these numbers, a single-occupancy car beats air travel if it gets better than 66MPG, and if two people are traveling, the car produces less CO₂ once it gets better than about 33MPG.
 
-## It’s a Gas
+### It’s a Gas
 
 Let’s reflect on what we learned above: *each American produces roughly their body weight in CO₂ **per day***! At a density of about 2kg/m³, this turns into 25 cubic meters, which would fill a bedroom with *pure* CO₂ *every day*, per person.
 
@@ -32,7 +32,7 @@ Volumes of CO2; in relation to a house. See text for details.
 
 The red cube sitting in the back yard is the *daily* CO₂ contribution per American. The much larger pink cube underneath the house represents a 40-year accumulation of one person’s CO₂.
 
-## A Solid Result
+### A Solid Result
 
 Now we’ll abandon our gaseous state and look at a more practical packing for the purposes of sequestration: binding the CO₂ into limestone, or calcium carbonate (CaCO₃). I do not claim this to be an optimal solution, but CaO is the most abundant crustal oxide capable of forming a carbonate. Primarily, I pick on CaCO₃ just to set a scale for visualization and to muse about where we’d put the stuff.
 
@@ -40,13 +40,13 @@ CaCO₃ has a molecular weight of 100g/mol and a density of 2700kg/m³ (2.7 time
 
 Over 40 years, we would produce a cube 8.6 meters on a side, seen as the gray cube in the back yard above. This house-sized behemoth is just for one person’s 40-year contribution. If we wanted to get back to the pre-industrial CO₂ level of 280ppm by volume (and equivalent restoration of ocean water), we would need to sequester 1200Gton of CO₂, so that each person on the planet would have a cube over 5 meters on a side.
 
-## Not in My Back Yard!
+### Not in My Back Yard!
 
 Where could we stash these giant bricks of limestone? They’re kind-of an eyesore in the back yard. In total, we’re talking about a Mount Everest-scale cube 10km on a side. Wait a minute—didn’t we make a hole in the ground to extract the CaO in the first place? Yes, but this hole is only 45% the volume of the ultimate value-added brick. Maybe that’s half the battle, but half of a gigantic volume is still a gigantic volume. The point is not that we do not have enough room on the planet to accommodate these fantasy bricks of limestone, but just that they are not inconsequential things, at a personal scale.
 
 I know! We’ll dump them in the ocean, and never speak of them again. Ironically, one of the disastrous consequences of CO₂-induced climate change is sea level rise, yet if we drop our carbon bricks into the ocean, sea level will still rise! Are we hosed either way? Displacing a cube 10km on a side in an ocean with a surface area of 0.72×4*πR*² = 3.7×10¹⁴m³ would raise the level 2.7mm. Whew. Were you scared?
 
-## Forest Green
+### Forest Green
 
 Plants obviously offer a means to store CO₂, if only temporarily. But planting a *new* forest and maintaining it in a mature state in perpetuity would represent a net decrease in atmospheric CO₂. When I don’t know a subject very well, I try to come at it from as many angles as I can muster. If I get agreement, I feel I understand the problem. If I get disagreements within a factor of ten, I feel that I’ve got the basics right, but the mismatch is an indication of uncertainty. If I get wild disagreement, I figure I don’t understand the problem well enough to make confident and meaningful calculations. Let’s follow this approach for plants.
 
@@ -62,7 +62,7 @@ A mature forest might have a large tree every 5–10m. Let’s split the differe
 
 These methods are convergent enough for me to conclude that **global-scale** re-forestation can be part of a solution. It may not be feasible to rely on this alone, but it may well contribute enough to be meaningful.
 
-## Back in the Toothpaste Tube?
+### Back in the Toothpaste Tube?
 
 One appealing proposal for where to stash atmospheric CO₂ is to inject it into spent oil and/or natural gas wells—perhaps even recovering reluctant oil by pressurizing the field. Could we use this tidy arrangement? Gas is far less dense than oil, but what about when pressurized for injection?
 
@@ -78,7 +78,7 @@ I do not personally have the expertise to evaluate how leak-proof such a storage
 
 My sense is that it’s probably stable enough over relevant timescales, and could work to solve part of the problem for oil and gas. Doing the same replacement trick with coal is not possible. In fact, the mountain that used to sit atop the coal often no longer exists. But presumably other stable and impermeable geologic formations that played no role in fossil fuel extraction could also be used to hold CO₂, so from this point of view, adequate storage may not be a real limitation.
 
-## Air Scrubber Scheme
+### Air Scrubber Scheme
 
 But how might we recapture the genie from the air in the first place? A recent [story on NPR](http://www.npr.org/2011/09/19/140513014/this-machine-can-suck-carbon-out-of-the-air "NPR story") described a prototype machine to suck carbon dioxide out of the air by passing air over plastic sheets dripping with sodium-hydroxide-laced water. The CO₂ reacts with the sodium hydroxide to make sodium carbonate and water. The sodium carbonate solids are collected and sent to a natural gas burner, which liberates the CO₂ for collection while the sodium ash is reunited with water to reform sodium hydroxide.
 
@@ -96,11 +96,11 @@ I may be way off in my estimate of how much CO₂ is removed from the air during
 
 Finally, if we wanted to use such machines to stabilize CO₂ at today’s level—assuming we could turn on enough units *today*—one-seventh of our total energy budget would be needed to run the units. If we wanted to drive ourselves back to pre-industrial levels we may need to double this figure. If my estimate that 50% of the CO₂ can be scrubbed from the intake air is off, it could become as much as a factor of two easier in one direction, but who knows how bad in the other direction (imagine the right number is 10%, now five times harder , and risking less-than-break-even performance). This obviously isn’t the best way to offset all of our CO₂ emission. Stationary emitters (power plants) are much better off collecting the CO₂ at the source and not dispersing it far and wide for some hungry mouth to slurp up later.
 
-## Reality Check
+### Reality Check
 
 Okay, after all this, I cheated and dug into the specs for the apparatus. There, I found an estimated energy requirement of 8.2GJ to extract one ton (1000kg) of CO₂. My numbers above amount to a requirement of 9000J to pull out 4g of CO₂, which turns into 2.25GJ/ton. So I was indeed too optimistic by 3.6 times. Now the energy balance does not look as favorable, though it still exceeds the break-even threshold by about a factor of two. It should also be acknowledged that the fledgling machine may yet improve with time. So why do I leave the *wrong* calculations above? Because it illustrates the power in making estimates in [Do the Math](https://dothemath.ucsd.edu/ "Do the Math") fashion. We had the basic idea right without a ton of work, complete with appropriate (original) caveats.
 
-## Some Perspective
+### Some Perspective
 
 As I have [said before](https://dothemath.ucsd.edu/2011/08/recipe-for-climate-change "Do the Math: Recipe for Climate Change"), I do not see climate change and CO₂ as the largest immediate challenge we face when stood up against the crisis of finite fossil energy resources and a society built on the premise that they continue to be cheap and readily available. But it is certainly important and the two threats share a common solution in the aggressive reduction of our reliance on fossil energy sources.
 

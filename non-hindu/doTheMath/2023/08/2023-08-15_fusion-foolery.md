@@ -27,7 +27,7 @@ Stunts hide the pains and present an appearance of ease and grace, but it’s a 
 
 Quantitatively, it’s as if you spot a slot machine in a casino that looks very promising. You’re dying to play, because it just feels right—mysteriously appealing to your sense of self. It calls to you. You notice that it takes \$2 tokens, but you have none. You go to the window to purchase a token, and are shocked to learn that one \$2 token costs \$400. Not wanting to look like an uninformed fool, you gulp and buy the token. This slot machine had better live up to its promise! You pull the lever, and surprise! You actually *do* win! You put in a \$2 token and the machine makes very happy noises and flashes lots of lights as it spits out…\$3 (and some neutrons, oddly). Queue the headlines! Want to play again? Actually, this wasn’t your first shot: just the first success after years of trying (but hush!).
 
-## Energetics
+### Energetics
 
 That’s the essence of the story. The December announcement indicated that they launched 2.05MJ of laser energy onto the target sphere, and 3.15MJ came out. The recent articles indicate a second “score,” but fail to give energy specifics, other than “more” energy out. I am assuming an incremental bump, still under 4MJ—otherwise the factor of improvement would be prominently touted in the coverage.
 
@@ -49,7 +49,7 @@ And that’s just the laser energetics. The whole facility consumes scads more f
 
 The emphasis is mine, to highlight the point that this is a massive laser and facility. It’s like ten Walmart superstores stacked on top of each other. The lighting *alone* is likely taking tens of kilowatts, which could hypothetically be run for less than a minute on the energy gain from the fusion pop. It would be fun to count all the megajoules that went into press coverage of the event!
 
-## Power Plant Energetics
+### Power Plant Energetics
 
 Let’s connect the 3 MJ output to that of actual power plants, forgetting for a moment the tremendous energy loss represented in getting 3 MJ out from a 400 MJ input. A typical electrical power plant (nuclear, coal, etc.) delivers about 1 GW of electrical power. But it’s a heat engine operating at 30–40% thermodynamic efficiency. So it takes roughly 3 GW of *thermal* energy to export 1GW as electricity. 3GW is 3GJ per second, or 3,000MJ per second.
 
@@ -57,7 +57,7 @@ The same efficiency factor would apply to a putative fusion plant. The concept b
 
 Laser repetition rates can be all over the map. 1,000 Hz is not in itself unusually fast by any stretch. What is the repetition rate of the NIF laser? Handily, LLNL [provides these statistics](https://lasers.llnl.gov/for-users/nif-target-shot-metrics). The average since 2015 is 377 shots per year, with a high of 417 and a low of 327. That’s about a shot per day—or two on a good day. It’s only 100 million times shy of 1 kHz. Oh dear.
 
-## Economics
+### Economics
 
 An [interview](https://thebulletin.org/2022/12/the-energy-departments-fusion-breakthrough-its-not-really-about-generating-electricity/) of physicist Bob Rosner in the Bulletin of Atomic Scientists helpfully puts the NIF in context (it’s not about societal energy). In it, he reinforces some of what we’ve covered, and adds some financial detail.
 
@@ -71,7 +71,7 @@ Granted, the research and development phase is not characteristic of operational
 
 This massive reduction, incidentally, translates to a cost of \$5 per pellet. I don’t care what mass-production slave labor you might dream of employing. A cryogenic hydrogen-ice target made to demanding precision specifications, containing deuterium and transmuted lithium (to make tritium) is not going to cost \$5. You lost me at cryogenic. Also, they would have made many pellets by now and I’m sure don’t relish spending \$100,000 each. If they’re clever enough to accomplish fusion, they would be clever enough to have already reduced costs dramatically if it were straightforward.
 
-## Fusion Efficiency
+### Fusion Efficiency
 
 Here’s the part where I earn my keep as a physicist translating technical matters. I found details about the NIF targets in a [2017 paper](https://www.tandfonline.com/doi/abs/10.13182/FST10-3697) by Bernard Koziokiemski et al. The abstract alone clarifies much. The target is a shell of hydrogen ice 75 μm thick on a 1 mm radius sphere, cooled below 19 K. Pause for a moment to contemplate the challenges that would be involved if trying to maintain the targets at such low temperatures in a 3 GW power plant “furnace” environment.
 
@@ -83,7 +83,7 @@ This event therefore produced a 4% yield. I’m actually very impressed! That’
 
 So this news is both good and bad. Hats off for cracking into single-digit yield! But that leaves less room to improve. Even at 100% efficiency, we’d get just 25 times more energy out, or 75MJ. That’s still not enough to pay for the price of admission (400MJ, just for the laser part).
 
-## NIF Purpose
+### NIF Purpose
 
 This avenue, therefore, seems painfully far away from achieving practical societal energy. Even 100% yield (for the present design) could not produce net energy. Even if it *could* produce net energy, the laser repetition rate is a million times too slow. And then, even if the laser could fire fast enough, the cost of each target is prohibitively high by over four orders-of-magnitude.
 
@@ -93,7 +93,7 @@ But the NIF was never “about” societal energy. Its primary purpose is nuclea
 
 Inertial confinement fusion (ICF) constitutes a small fraction of [NIF’s laser shots](https://lasers.llnl.gov/for-users/nif-target-shot-metrics). Most of the work is labeled HED for high-energy-density research. The people at NIF are under no false impression about the potential of this type of approach for generating societal energy. They know what they’re about. At the same time, why not poke? It certainly has some benefits in terms of public attention, translating to funding.
 
-## How Embarrassing
+### How Embarrassing
 
 So what can we say about the public reaction to this news? Headlines in December gushed about the dawn of a new era of limitless energy. People got excited. Many of my students came away thinking it was basically a done deal—now just a matter of putting into practice. That’s how it works in entertainment: a genius breakthrough followed by immediate implementation free of complication. The emphasis is on human ingenuity, not on physical reality. In my experience, ideas are a dime-a-dozen. The hard part is coming up with an idea that can be practically brought to fruition.
 

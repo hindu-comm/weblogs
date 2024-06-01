@@ -19,7 +19,7 @@ A close-up of a polycrystalline photovoltaic (PV) cell, showing blue tint and a 
 
 First, let’s look at the efficiencies of other familiar uses of energy to put PV into perspective. I will act as if I’m directly addressing the PV efficiency snob, because it’s fun—and I would never be this rude in person. This may not apply to you, the reader, so please take the truculent tone in stride.
 
-## Snark Attack
+### Snark Attack
 
 So 15% is far too low for you? Perhaps you reason that laboratory prototypes and expensive spacecraft applications can get 40%-plus results, so let’s not take the plunge prematurely, given the abysmal 15%.
 
@@ -33,19 +33,19 @@ If you’re low on energy, you might consider eating. But on second thought, our
 
 Perhaps you are a fan of biofuels. This is perhaps the best apples-to-apples comparison to PV, being solar-driven. An Iowa corn field captures solar energy at a paltry efficiency of 1.5%! Okay, but we know by now that corn ethanol has a number of problems. Algae can be far more efficient, right? But even here, photosynthesis tops out at something like 5–6% efficiency under ideal conditions.
 
-## PV is Actually Rather Remarkable
+### PV is Actually Rather Remarkable
 
 Considering this last point, I think it’s rather impressive that we beat biology by a factor of 3 in just a few decades of effort (biology had much longer to work on the problem). Moreover, 15% is perfectly adequate for our needs, as we’ll see at the end.
 
 Qualitative assessments aside, it is rewarding to understand the origin of PV efficiency, and to appreciate that we’re not terribly far from the theoretical limit. The point is that we shouldn’t hold out for some arbitrary efficiency before we embrace solar PV: we don’t really need the extra efficiency, and in any case, physics has something to say about how high we might expect to go.
 
-## PV Basics
+### PV Basics
 
 A photovoltaic cell is most typically a slice of crystalline silicon 200—300μm thick. (μm = micron = micro-meter = one-millionth of a meter). The construction can either be *monocrystalline*—slowly grown from a large single-crystal boule, or *polycrystalline*, cast in an ingot and with a patchwork of crystal domains in varying orientations (translation: pretty to look at). Monocrystalline varieties have a slight advantage in efficiency: like 18% vs. 15%. The cell is *doped* into what we call a *p-n* junction, which is basically a diode. What is important here is that the junction is very near the front surface of the cell, and it is here that energy is effectively harvested.
 
 It works like this: a photon of light comes in from the sky, penetrating some depth into the silicon. If it has enough energy (imagine a sign out front: “you must be this tall to go on this ride”), it can pop an electron out of the lattice, leaving a “hole” behind.
 
-## The Big Hit: Spectral Limit
+### The Big Hit: Spectral Limit
 
 This is all we need to know to take our first stab at an efficiency expectation. The first piece of knowledge is that photons below a certain energy cutoff called the **bandgap energy** (1.12[eV](https://dothemath.ucsd.edu/useful-energy-relations/#electron-volt "definition of electron-volt") in silicon; corresponding to a wavelength of 1.1μm) are not absorbed by the material: they sail right through as if going through clear glass. Second, the photons that *are* absorbed only need to have 1.12eV of energy to liberate an electron out of the lattice. Any extra is wasted, popping the electron out at high speed. It rattles around the lattice, depositing its “sugar-high” as heat as it calms down.
 
@@ -59,7 +59,7 @@ We see these effects in the figure above. At 1.1μm, the photon is well-matched 
 
 So this most basic analysis indicates that we are doing reasonably well to capture 16% efficiency out of a silicon PV cell when the crudely-determined upper limit is 44%. This is not much different from cars or power plants, in terms of how far below the theoretical thermodynamic limit we achieve in practice.
 
-## Better than Silicon?
+### Better than Silicon?
 
 As an aside, the bandgap energy of silicon is 1.12eV, corresponding to a wavelength of 1.1μm. Other semiconductor materials have different bandgap energies. Why restrict ourselves to silicon—even though it is very abundant and we benefit from substantial knowledge and experience via the computer chip industry and related enterprises? I was curious to know what would happen to our 44% theoretical efficiency calculation if we allow ourselves to pick any bandgap.
 
@@ -71,7 +71,7 @@ Considering only spectral losses, silicon sits near the maximum possible efficie
 
 I was amazed to see silicon perched near the maximum efficiency position in this trade-off. Who knew? A [more careful treatment](http://en.wikipedia.org/wiki/File:ShockleyQueisserFullCurve.svg "maximum PV efficiency vs. bandgap: WikiMedia:")—using the spectrum as received on the ground and effects like those explored below—finds the peak performance closer to 0.9μm (1.38eV), at around 34%.
 
-## Into the Weeds: Other Pernicious Limitations
+### Into the Weeds: Other Pernicious Limitations
 
 *A word of warning: we’re about to get into the nitty-gritty here, so if you’re already feeling a little queasy, there won’t be much harm in skipping to the last paragraph in this section.*
 
@@ -119,17 +119,17 @@ The modified curves appear above. I have added a curve for the probability of co
 
 In summary, we have reduced our initial 44% expectation to something in the neighborhood of 35% by considering physical processes that are practically unavoidable. We could continue this trek, accounting for all the physical phenomena that lead to 16% efficiency in practice, but I think I have already overdone the point: that there are really good reasons why the efficiencies will not climb to arbitrarily high values. Basic physics stands in the way, and I am left impressed with what we’ve got.
 
-## A Fantastic PV Tutorial
+### A Fantastic PV Tutorial
 
 After developing the analysis above, I came across a [great site](http://www.pveducation.org/pvcdrom "PV Education tutorial site") explaining the fundamental physical processes involved in photovoltaics. The abundant interactive graphics are especially delightful. For the parts with which I am familiar, I find the information to be reliable and accurate. I was especially pleased to see confirmation of the [collection probability](http://www.pveducation.org/pvcdrom/solar-cell-operation/collection-probability "PV Collection Probability: PV-Education") scheme I implemented (you get the same linear effect in the interactive simulation if you neglect bulk recombination by increasing the diffusion length and crank up the surface recombination effect).
 
-## PV Shenanigans
+### PV Shenanigans
 
 How is it that some lab tests or expensive spacecraft PV panels do better than the theoretical maximum calculated above? Most often, these are multi-junction devices. If we form a stack of PV junctions made from materials other than silicon, each with a different bandgap, we can more efficiently utilize the spectrum. We’d put a thin layer of material with a blue bandgap up front, followed by a green-bandgap material, and maybe silicon underneath. The longer wavelengths will sail through the first two layers and get used by the silicon. The short wavelengths, which had trouble in silicon, are more efficiently tapped by the layers in front. More of the photon energy goes into liberating the electron rather than into its velocity (heat), and more of the photons are captured.
 
 Such devices are certainly possible to make. They are more complex, require less standard semiconductor materials, and can therefore be very expensive. For a satellite, the cost of the panels is a trivial fraction of the total cost, and launch mass means everything. So it’s worth paying a premium price to meet their power requirements in a smaller panel. For large-scale deployment, we’re likely to go cheap and low efficiency. In fact, it is more likely that a massive deployment would use thin film (amorphous silicon, e.g.) devices, which typically have efficiencies lower than 10% but are easier to mass-produce.
 
-## It Comes Down to This
+### It Comes Down to This
 
 This brings us to some practical matters. Returning to the PV efficiency snob, efficiency effectively maps to **area**. A typical location within the U.S. gets an annual average of 5 full-sun-equivalent hours per day. This means that the 1000W/m² solar flux reaching the ground when the sun is straight overhead is effectively available for 5 hours each day. Each square meter of panel is therefore exposed to 5[kWh](https://dothemath.ucsd.edu/useful-energy-relations/#kilowatt-hour/ "definition of kilowatt-hour") of solar energy per day. At 15% efficiency, our square meter captures and delivers 0.75kWh of energy to the house. A typical American home uses 30kWh of electricity per day, so we’d need 40 square meters of panels. This works out to 430 square feet, or about one sixth the typical American house’s roof (the roof area of a two-car garage). **What’s the problem?**
 

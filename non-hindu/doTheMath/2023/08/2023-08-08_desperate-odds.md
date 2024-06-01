@@ -35,17 +35,17 @@ At this 99.99% daily survival rate, a simple “half-life” exponential decay p
 
 Admittedly, this model is dirt-simple. But it is still capable of illustrating a reasonable point. Unless following the strategy of having offspring by the thousands or millions, species don’t survive if the odds of individual survival are stacked heavily against them. Survivors have things figured out well enough that each day is pretty mellow. As a whole, you know how to find sufficient food. You know how to stay warm enough or cool enough. You know how to avoid predation day to day. If not, bye bye, species. Any species that has survived for the last several million years is demonstrably capable of dealing with one-in-a-million bad-luck years—including whole strings of tough years such as during ice ages.
 
-## Media Skew
+### Media Skew
 
 Sometimes I see movies set in an exotic environment (often other-worldly), where a fast-paced life depicts one thing eating another and then getting eaten itself moments later. If that’s how things went, the show of life would be over pretty quickly. If it’s not boring, it’s probably not realistic. Nature documentaries, while showing real life, involve editing months of time in the field to a few minutes of captivating footage. Most of the time involves a whole lot of “nothing much” going on. High drama is the exception.
 
-## Life in the Wild
+### Life in the Wild
 
 It can help to think of the strategies various plants and animals have devised to survive, reproduce, and thrive. A squirrel has its food situation figured out, as does a bird, or a fish, or a wasp. They also have strategies for dealing with seasons. Trees might shed leaves for winter. Some animals hibernate, migrate, or have the fortitude to accommodate large temperature ranges. While perhaps subject to predation, life can’t involve significant daily deathly danger or too few individuals would be around long enough to propagate the species.
 
 So ask yourself: do you think animals in the wild are *miserable*? Do you think every waking moment is a torment of fear, and that even sleep is fitful and given to nightmares and sudden starts? That’s no way to live. Sure, each life form has to be on its toes to seize opportunities and stay safe, but most moments are relaxed and mundane. A while back I saw in a documentary a study of stress levels in deer (or similar animals). When they lower their head to graze or browse, they show no physiological signs of stress. They might hear something and pause their foraging to assess possible danger—during which time stress is measurably higher—but revert to low stress when returning attention to their food. They’re not wound particularly tight.
 
-## Wild Humans
+### Wild Humans
 
 Now the big surprise: humans are also animals that evolved on this planet. We also had strategies for finding plenty and surviving for decades. Lots of that time was available for relaxing, laughing, sporting, loving, storytelling, and supporting the health of our communities. Sure, we might have had a fright now and again, and some lean periods (for which we necessarily had strategies). But such trials don’t rob life of pleasure or meaning, which were not inventions of modernity.
 

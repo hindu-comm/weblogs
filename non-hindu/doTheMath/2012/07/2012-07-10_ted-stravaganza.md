@@ -17,7 +17,7 @@ Who is TED? TED is [The Energy Detective](http://www.theenergydetective.com/ "TE
 
 This post is not meant to convey anything deep and meaningful about the energy challenges we face, except for the fact that those challenges provided a background motivation for me to explore and monitor energy data in my home (it should be obvious by now that I’m a data-holic). Rather, I will simply showcase a number of data captures from TED so you can see for yourself the interesting hidden behaviors of appliances, and develop some intuition about how much of a toll various devices take.
 
-## TED Basics
+### TED Basics
 
 I should spend a little time telling you a bit about TED. At the heart of TED are two *current*-measuring clamps that each encircle power lines delivering two phases of AC electricity into the home. Tying into a two-phase circuit breaker via wire, it also knows the *voltages* of the two phases. *Power* is current times voltage, so TED simply accumulates the instantaneous current times voltage for each of the two phases. Out pops Watts, measured once per second.
 
@@ -43,13 +43,13 @@ Activity over the last 24 hours, plotted. Voltage (uninteresting) is in red, and
 
 The last 15 days show our household using about 1.5 kWh per day of utility electricity. In the summer, we supplement this with typically about 4 kWh of off-grid solar input, most of which runs the attic fan during the hottest (and happily, sunniest) part of the day.
 
-## TED Funhouse
+### TED Funhouse
 
 Okay, let’s take a look at examples of TED data captures. I will be using units of Watts and Watt-hours (Wh) to describe the results. For example, consuming electricity at a rate of 30W for 10 minutes (one-sixth of an hour) accumulates 5Wh, or 0.005kWh in more familiar billing terms.
 
 My TED data records are especially clean because many of the periodic/variable power draws in my house are serviced by the off-grid solar installation: refrigerator, computers, wireless and modem, entertainment console, etc.
 
-### Getting Warmed Up
+#### Getting Warmed Up
 
 As a rule of thumb, electrical devices designed to generate *heat* are power hogs—simply because significant thermal energy tends to cost a lot of Joules. Two exceptions in our house are a heating pad and a heated mattress pad: targeted, small-scale heat.
 
@@ -65,7 +65,7 @@ Mattress pad heater (also barely visible around 19:00 in the 24 hour plot above)
 
 The mattress pad, like the heating pad, is about as modest as it gets when it comes to energy for heating. The pad we have has dual controls for each side of the bed, and this test represents only one side. The maximum scale is 30W per side, with five equal steps of about 6W. Now that the vertical scale only extends to about 70W, we can see the TED measurement dithering at the 1W level. In this case, I evaluated the baseline to be at 38.5W, and the test consumed 10.7Wh above baseline activity.
 
-### Garage Door Opener
+#### Garage Door Opener
 
 This one will make appearances in some of the forthcoming examples, so let’s get it out of the way.
 
@@ -75,7 +75,7 @@ Opening and closing of the garage door, showing also the light (a compact fluore
 
 Raising the door required 1299J, or 0.36Wh, while the light (staying on for 290 seconds) consumed 4263J (1.18Wh), so that *the light accounts for more than three-quarters of the total expenditure*. Imagine what an incandescent would do! On the way down, the closing action required 951J. All together, the opening and closing cost 2.95Wh—even when the light was allowed to stay on. It is often easy to turn off the light manually, so why not make it a habit? One lesson from these small numbers: opening and closing the garage door is not a serious energy concern.
 
-### Domestic Service
+#### Domestic Service
 
 Okay, let’s get busy. About a year ago, I made stairs to ascend the bank at the back of my yard. I cut the stringers out of four 2×12 10-foot boards, accommodating 9 stairs per stringer, making for 18 saw cuts per board. The 65-minute capture caught the tail end of the first set (board), followed by the next three complete sets.
 
@@ -91,7 +91,7 @@ The dominant activity visible here is use of an electric lawn mower, but the seq
 
 This sequence shows a variety of actions, starting with laptop use (generally wiggly/variable). Normally our computers are powered by the off-grid solar setup, but sometimes a change of venue might put one of them on utility power. After opening the garage door, I failed to turn the light off manually. Three sections of yard were mowed, costing 57Wh at a typical power of 600W. After the mowing was done, the mower was wheeled into the garage, tripping the light—promptly turned off this time—then the garage door was closed and the light turned off immediately after. Naturally, I had to wake up the laptop to export the data from TED.
 
-### Furnace
+#### Furnace
 
 Our gas furnace uses natural gas at a rate of about 75,000Btu/hr (22kW). But the air handling adds 600W to this. Below are two furnace cycles in our house (rarely used: part of the test described in [an earlier post](https://dothemath.ucsd.edu/2012/03/home-heating-for-the-hardy/ "Home Heating for the Hardy")).
 
@@ -103,7 +103,7 @@ First, the furnace’s internal blower turns on, followed by ignition of the gas
 
 Another useful measure that comes from such analysis is that, for my house, each Therm of energy (29.3kWh) delivered by natural gas burned in the furnace is accompanied by 1kWh of on-site electrical expenditure.
 
-### Appliances
+#### Appliances
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2012/07/ted-fridge-dvd.png "ted-fridge-dvd")](https://dothemath.ucsd.edu/wp-content/uploads/2012/07/ted-fridge-dvd.png)
 
@@ -135,7 +135,7 @@ Dishwasher, plus a bit of microwave (twice).
 
 Finally, we have the dishwasher. Unfortunately, my tardy initiation of data export resulted in my missing the first three minutes of the dishwashing activity. But I know when it started based on the one-minute-sampled data (and set the left-hand extent of the axis to correspond to this time, for visual effect). The microwave oven makes two appearances, roughly compensating the unaccounted dishwasher energy at the beginning of the record. In total, this capture represents 660Wh of energy expended. I don’t have much insight into the meanings of the various pulses, other than the general observation that the early big pulses must represent the wash phase, and the later period must involve rinsing and possibly heating—though we generally don’t use the high temperature wash option and turn off heated dry.
 
-## Cloudy Periods
+### Cloudy Periods
 
 As mentioned before, a number of our electrical devices are supported by the off-grid solar installation at our house. But during cloudy or rainy periods, my undersized battery bank will drain to the point that the smart inverter switches to utility input. During these times, the activity recorded by TED may be more typical of “normal” households, albeit still at modest scale.
 
@@ -145,7 +145,7 @@ Two days of data when the solar input was mostly bypassed (solar re-engages at d
 
 The refrigerator forms the visually dominant feature of this sequence, tirelessly cycling on and off. It can be easier to look at the bottom envelope of activity to sense the overall usage pattern. I note refrigerator defrost cycles at 346.94 and 348.36 days—corroborated by the longer cooling cycle after each heat pulse (see [post on heat pumps](https://dothemath.ucsd.edu/2012/06/heat-pumps-work-miracles/ "Heat Pumps Work Miracles")). Most spikes are due to the microwave (or sometimes similar-power toaster oven). I recognize the lopsided signature of a clothes-washing cycle at 348.53, and the tell-tale two-horned visage of the dishwasher at 347.87. We hosted a dinner on the evening of day 347 (though the guests were likely unaware of the day number), which accounts for a higher-than-normal evening energy use (compare to evenings before and after), as well as the use of the dishwasher.
 
-## Summary Table
+### Summary Table
 
 As a matter of convenience, I gather the results of the various measurements represented throughout this post. I crudely estimate the daily impact of each, based on our usage patterns—some of which are seasonal, and some of which don’t really apply to us (like the furnace, which we almost never use).
 
@@ -153,7 +153,7 @@ As a matter of convenience, I gather the results of the various measurements rep
 
 |                                      |                 |               |                              | |--------------------------------------|-----------------|---------------|------------------------------| | **Activity**                         | **Energy (Wh)** | **Daily Use** | **Notes/Conditions**         | | Garage Door Open                     | 0.36            | 1.4           | 2 open/close per day         | | Garage Door with Light               | 1.5             | 6.0           | 2 open/close per day         | | Mowing Small Lawn                    | 57              | 8             | weekly, summer months        | | Clothes Washer Cycle                 | 132             | 30            | at 1.5 loads per week        | | Rice Cooker                          | 180             | 50            | at twice per week            | | Heating Pad, 1 hour                  | 30              | 90            | at 3 hr/day in winter        | | Sawing 40 ft of Stair Stringers      | 370             | —             | not habitual                 | | Microwave, 5 minutes                 | 150             | 150           | 5 min/day                    | | Furnace Blower, 1 cycle              | 80              | 160           | at 20 cycles/day (if used)   | | Mattress Pad, full-blast, both sides | 60              | 240           | 8 hr/day, half-blast, winter | | Space Heater, 1 hour                 | 1400            | 280           | at 12 minutes/day, winter    | | Refrigerator, 1 cycle                | 20              | 1000          | efficient (40 W) fridge      |
 
-## Postlude
+### Postlude
 
 As I disclosed at the beginning, I was not aiming for any momentous conclusion in this post. And maybe a post with plot after plot of energy activities in my home is of little interest to people outside my household—and maybe only to half of those within, come to think of it. But hey, I learned something from each one of them, and hope the plots are worthwhile to others as well.
 
@@ -161,7 +161,7 @@ There are many appliances I *don’t* have, so cannot show. And our usage is mod
 
 I would still like to test our almost-never-used air conditioning unit sometime and see how the thermal performance of our house in cooling mode compares to heating mode, and what kind of efficiency leverage we’re getting from the heat pump. I know many in the U.S. will cringe to hear it, and I’m not saying this to be mean, but we have yet to see temperatures this year in San Diego that call for cooling. Our July 4 was a cold and windy day. No wonder the fireworks all went off in a 15 second frenzy: they couldn’t stand the cold and wanted to hurry up the show!
 
-## Okay—Irresistible Aside
+### Okay—Irresistible Aside
 
 If you haven’t heard about it, a technical glitch caused the coordinated fireworks displays across San Diego to fire all at once during this year’s July 4^(th) celebration. I was at a party where we managed to get atop a local hill in time to see the Sea World fireworks a bit later, but missed the municipal debacle. So I had to watch a [youtube video](http://www.youtube.com/watch?v=lrPCEubDZ9A) (or see [here for a view of three displays in one frame](http://www.youtube.com/watch?v=JuJHfkXEI-o)). All I can say is that had I been close at hand to one of the accelerated displays, I would have been laughing so hard I might have had trouble breathing for the next several minutes. Many spectators were deeply disappointed and complained bitterly. But this would have been the **best fireworks display of my life**, and one I would never forget—unlike all the rest that become boring by the end and then fade into obscurity. **Awesome!**
 

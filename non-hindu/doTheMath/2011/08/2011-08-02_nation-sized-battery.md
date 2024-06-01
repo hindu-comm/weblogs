@@ -23,7 +23,7 @@ It’s worth pausing to appreciate this fact. Compare this scheme to the dream s
 
 Storage works on the small scale, as many stand-aloners can attest. How would it scale up? Can it?
 
-## Meeting Requirements
+### Meeting Requirements
 
 So what would it take? We’re not a nation tolerant of power outages. Those big refrigerators can spoil a lot of food when the electricity drops away. A rule of thumb for remote solar installations is that you should design your storage to last for a minimum of three days with no energy input. Even then, sometimes you will “go dark” in the worst storm of the winter.This does not mean literally three days of total deprivation, but could be four consecutive days at 25% average input, so that you only haul in one day’s worth over a four day period, leaving yourself short by three.
 
@@ -33,7 +33,7 @@ Let’s also plan ahead and have *all* of our country’s energy needs met by th
 
 Running a 2TW electrified country for 7 days requires 336 billion kWh of storage. We could also use nuclear power as a baseload to offset a significant portion of the need for storage—perhaps chopping the need in two. This post deals with the narrower topic of what it would take to implement a full-scale renewable-energy battery. Scale the result as you see fit.
 
-## Lead-Acid Delivers
+### Lead-Acid Delivers
 
 I’ll use lead-acid batteries as a baseline. Why? Because lead-acid batteries are the cheapest way to store electricity today. They’re bulky, sloshy, and very heavy, which makes them unsuitable for electric cars or laptop computers. But they’re very efficient, commonly achieving 85% or better energy efficiency in a charge cycle. The technology is well tested, having been around since 1859. And lead is a common element, being the endpoint of the alpha-decay chain of heavy elements like uranium and thorium. Their economic favorability makes lead-acid batteries hands-down the most common battery type in stand-alone renewable systems worldwide.
 
@@ -43,11 +43,11 @@ How do we put this into more familiar terms? A 12 V battery rated at 200 A-h (am
 
 I can’t resist the temptation to ask: what is the minimum amount of lead that is theoretically needed to build the battery? The chemical reaction for a lead-acid battery is such that each interaction involving the transformation of one lead atom to PbSO₄ liberates one electron at a 2.1-volt potential. This electron then is bestowed 2.1 electron-volts (eV) of energy, amounting to 3.4×10⁻¹⁹J (see [page on energy relations](https://dothemath.ucsd.edu/useful-energy-relations/#electron-volt "Useful Energy Relations: Electron volt")). One kilowatt-hour is 3.6 million Joules (1000W times 3600 seconds), so that it takes 10²⁵ lead atoms (where *every one* participates). If you remember that Avogadro’s number is 6×10²³, we need about 20 moles of lead atoms. At 207g/mol, this comes out to about 4kg per kWh of energy, which is a factor of four less than the realized value above. Real implementations always fall short of theoretical ideals, so this isn’t new. We would do well to push for future improvements on this score, although we should bear in mind that lead-acid has had 150 years of development before we get carried away by dreams of perfection.
 
-## The National Battery
+### The National Battery
 
 Putting the pieces together, our national battery occupies a volume of 4.4 billion cubic meters, equivalent to a cube 1.6km (one mile) on a side. The size in itself is not a problem: we’d naturally break up the battery and distribute it around the country. This battery would demand 5 trillion kg (**5 billion tons**) of lead.
 
-## Get the Lead Out!
+### Get the Lead Out!
 
 A [USGS report from 2011](http://minerals.usgs.gov/minerals/pubs/commodity/lead/mcs-2011-lead.pdf) reports 80 million tons (Mt) of lead in known reserves worldwide, with 7Mt in the U.S. A note in the report indicates that the recent demonstration of lead associated with zinc, silver, and copper deposits places the estimated (undiscovered) lead resources of the world at 1.5 billion tons. That’s still not enough to build the battery for the U.S. alone. We could chose to be optimistic and assume that more lead will be identified over time. But let’s not ignore completely the fact that at this moment in time time, no one can point to a map of the world and tell you where even 2% of the necessary lead would come from to build a lead-acid battery big enough for the U.S. And even the undiscovered, but suspected lead falls short.
 
@@ -55,7 +55,7 @@ What about cost? At today’s price for lead, \$2.50/kg, the national battery wo
 
 But even then, we aren’t done: batteries are good for only so many cycles (roughly 1000, depending on depth of discharge), so the national battery would require a rotating service schedule to recycle each part once every 5 years or so. This servicing would be a massive, expensive, and never-ending undertaking.
 
-## Who Needs Lead-Acid?
+### Who Needs Lead-Acid?
 
 I focus here on lead-acid because it’s the devil we know, it’s the cheapest storage at present, and the materials are far more abundant than lithium (13 Mt reserves worldwide, 33 Mt estimated global resources), or nickel (76 Mt global reserves, 130 Mt estimated land resources worldwide). If we ever got serious about building big storage, there will be choices other than lead-acid. But I nonetheless find it immensely instructive (and daunting) to understand what it *would* mean to scale a mature technology to meet our needs. It worries me that the cheapest solution we have today would break the bank just based on today’s cost of raw materials, and that we can’t even identify enough in the world to get the job done.
 

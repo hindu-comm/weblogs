@@ -27,7 +27,7 @@ It has its place.
 
 But the very thing that makes science powerful is also its biggest weakness. It relentlessly pushes wrinkles aside, smoothing its zone of interest to the least complex system one can obtain for study. This is ideal when wanting to observe a Bose-Einstein condensate in isolation, or the genetic mechanism for producing a certain protein. Science also tends to dissect a problem (or literal critter) into the smallest, disembodied pieces—which then have trouble relating back to the whole integration of relationships between pieces. Other “ways of knowing” attempt to grapple with the **whole**, accepting it *as it is* and not applying reductionist tools.
 
-# Limits of Science
+## Limits of Science
 
 In promoting the cut and dried, dissected, abstracted, tidy realm of science, we can lose the ability to celebrate the wonder, mystery, and awe of complexity and relationship that defy simple frameworks. The artificial, rectilinear, ordered, Cartesian world we construct around ourselves alienates us from more durable but messy realities. We infantilize ourselves by insisting on unambiguous truth. What is the one **right** way to: live; eat; exercise; socialize; earn; recycle; energize; travel? What’s the right solution to climate change? What is the right set of human rights? What’s the right approach to the Israel/Palestine situation? Science has trained us to expect correct, repeatable solutions that can be confirmed by a peek at the back of the book. Complex relationships often have *no* right answer, in which case it is counterproductive to cast around seeking one. We are conditioned to be attracted to authoritative answers, and might as a whole lack the poise to admit that many real-world situations will never be reduced to black and white; right and wrong.
 
@@ -37,7 +37,7 @@ We might know some relevant things around the margins of such questions, but not
 
 Science, being both a powerful tool and itself unconcerned with the intractable whole, has to be tempered by something bigger than itself. It plays a role, but ideally not as the master.
 
-# Fever Dreams
+## Fever Dreams
 
 This is going to seem a little “out there,” but a significant epiphany came to me during a recent illness. When I’m sick, I have these repetitive dreams (they might be called fever dreams?) in which I am trying to do something simple, but it fails time after time. I might be trying to draw a circle or square in a graphical program, which involves holding the shift key until releasing the mouse button. But something goes wrong *every* time and I get ellipses or rectangles. For hour after grueling hour, I will be tormented by serial failure. Such dreams have also taken the form of Tetris before: falling shapes that refuse to go where I try to put them, or simply aren’t shapes I can place without creating holes. I muse that my brain is paralleling my immune system’s relentless trial-and-error process in building an antibody that will crack the virus. Around the time the fever dream stops, I feel that I’ve broken through the illness and can finally get good rest as I move on to a recovery phase.
 
@@ -49,7 +49,7 @@ In a similar vein, consider the proverbial Gordian knot—a knot so complex as t
 
 I guess the point here is that science operates in a space that is not always compatible with complex reality. Science seeks certainty and struggles to accommodate ambiguity. Back to Tetris. Perhaps the fundamental problem with the game is an insistence on building a tight-packed pile. Sure, that’s how the (arbitrary) game is structured, and how to keep it going and build up a score. But compare this artificial space to something like soil. If soil were tight-packed without air pockets, it would be dead to life. Pockets are a plus! The problem with Tetris is the rigid goal of eradicating any pockets. What’s the intrinsic value in that? It’s much less stressful if you’re willing to take life as it is and perhaps create pleasing or even random patterns, if we can abide such things.
 
-# Sometimes True
+## Sometimes True
 
 I like this passage in Vanessa Machado de Oliveira’s [*Hospicing Modernity*](https://www.penguinrandomhouse.com/books/675703/hospicing-modernity-by-vanessa-machado-de-oliveira/). The book describes common themes in Indigenous storytelling about “little people” in the forest who can help humans navigate their realm if shown the proper respect, or bring them to peril if not. Then a quote:
 
@@ -61,7 +61,7 @@ The author goes on to say that the story is not as much about whether it’s *tr
 
 I really like this, and especially the clash with the narrow Western mentality that truth is absolute and forever. “Sometimes true” just does not compute, to the scientific mind, and might blow a fuse—usefully.
 
-# Acceptance
+## Acceptance
 
 I sense that Indigenous cultures (speaking here of cultures that have developed long-lasting sustainable relationships with their land and communities) look at and accept the entire Gordian knot, and simply ask how they might respect it: how to co-exist in reciprocal relationship. It is not a threat. We need not be at war with it. The adolescent impulse to untangle it may not serve any useful end, other than to leave what was beautiful in a frayed wreck.
 
@@ -76,7 +76,7 @@ Science gets stuck on this unprovable conjecture of bio-intelligence, as we don�
 
 I am reminded of a scene in the sobering movie *Saving Private Ryan*. Early on, a group of soldiers who are tasked with finding James Ryan in Normandy indeed find a fellow by that name. Not realizing it’s the wrong one, they break the news that all his brothers died. This James Ryan, who had two young brothers in elementary school, asked how they died. In combat. When they realized their mistake and apologized for the confusion, the poor Ryan couldn’t shake the idea that his brothers back home might still have met an ill fate, not knowing exactly where the disconnect might lie. “But how do you know they’re okay?” “I’m sure they’re fine” didn’t mollify him. The guy was a wreck, and as a result could no longer enjoy the hellhole of a war he was in. Science likewise can work itself into an unproductive fit by not being able to prove something one way or another, and it will always be so. It needs to chillax.
 
-# Subservient Science
+## Subservient Science
 
 This is why a healthy approach to living on this planet cannot place all—or I would say even most—of its eggs in the science basket. It simply won’t deliver all the answers (especially the most important ones), and impedes deeper appreciations and relationships.
 

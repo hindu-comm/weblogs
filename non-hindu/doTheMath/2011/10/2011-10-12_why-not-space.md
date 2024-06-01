@@ -19,7 +19,7 @@ I was completely astonished by the prevalence of the “space” reaction to the
 
 The connotation is that we should not heed repeated warnings about our current collision course with a finite world when—by some clairvoyant means that eludes me—we **know** we are destined to colonize the infinite void beyond. Space is therefore seen as an escape hatch for the human endeavor and from our arguably botched track record on Earth. Escapism may be more accurate.
 
-## Survey Says…
+### Survey Says…
 
 Before we get going on practical matters, let me share the results of a survey question I have posed to college students in my classes. Let’s see how you fare, imagining yourself to be in the same age bracket of 18–22:
 
@@ -37,7 +37,7 @@ Out of a total of 109 students responding (one group in 2006, another in 2010), 
 
 I could easily get sidetracked on this astounding result. But I’ll just point out that the idea that we are no longer able to accomplish feats we once could do (like travel to the Moon) clashes with the **prevailing narrative** that we march forever forward. Not only can’t we get to the Moon at present, but the U.S. no longer has a space shuttle program—originally envisioned to make space travel as routine as air travel. And for that matter, I no longer have the option to purchase a ticket to fly trans-Atlantic at supersonic speeds on the Concorde. Narratives can break. I’ll leave it at that.
 
-## A Moment of Silence
+### A Moment of Silence
 
 A [recent article in the Economist](http://www.economist.com/node/18897425 "Economist article") about the end of the space age—besides generating howls of protest—noted that, short of signs of life turning up on Mars, public interest in the surviving unmanned space program will wane. I think this is especially insightful given my survey of what young folks assume we’re already doing. It would be hard to sell this upcoming generation on an expensive plan to return to the Moon when the act of announcing the plan will backfire in angst that lunar trips are not already a routine part of NASA’s activities. Travel to Mars, carrying a multi-hundred-billion dollar price tag, is even less likely to see support.
 
@@ -45,7 +45,7 @@ John Michael Greer followed this piece with a [delightfully well-written elegy](
 
 Surely the termination of the NASA shuttle program has forced us to accept setbacks in our dreams of space. But this does not have to be a predictor of the future. After all, we *could have* decided to keep the shuttle program alive if economic and political winds had favored doing so, and we do not lack the know-how for going back to the Moon if it became a priority. Perhaps, then, we are looking at only a temporary bump in the road.
 
-## Down to Brass Tacks
+### Down to Brass Tacks
 
 However, there are practical realities to consider. If we extend our solar system model using the standard-size Earth globe as our reference, the Moon is 30ft (9m) away, and is about the size of an apple. The sun is 2.2miles (3.6km) away. Mars is sometimes as close as 0.8mi (1.3km) and sometimes as far as 6mi (10km). Light travels at a sprinting speed of 16m.p.h. (26kph) in this scale, but an energetically feasible transfer orbit to Mars would take 8.5 months, effectively traveling slower than a snail.
 
@@ -55,7 +55,7 @@ First, reflect on the vastly different scale in travel to the Moon vs. Mars. In 
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2011/10/sunspot-hwy.jpg "sunspot-hwy")](https://dothemath.ucsd.edu/wp-content/uploads/2011/10/sunspot-hwy.jpg)
 
-## Space is no Luxury Cruise
+### Space is no Luxury Cruise
 
 Space is a hostile place for humans. It’s mostly empty, though not lacking in deadly ionizing radiation and cosmic rays. What few resources exist are so mind-blowingly scattered that they would seem to be utterly absent to the casual observer. Some point out that the open ocean is *also* hostile to human life, and conjure the image of a **luxury ocean liner** placidly plying the waters, oblivious to the surrounding harshness. If we can picture *that*, why is it such a stretch to imagine a luxury liner in space? It’s a gripping image, and would seem to counter worries about the cruelty of space. But let’s look at the oh-so-many ways the two situations cannot compare.
 
@@ -69,7 +69,7 @@ And let’s not forget: ships take us to places that are naturally habitable. Wh
 
 No, the ability to picture a luxury liner in the hostile open ocean is hopelessly insufficient for me to extend the analogy to space. We’ll see our oceans teeming with people-laden vessels or inhabitation of the ocean floor before we see a population explode into space. These options are just so much easier, and carry some hope of acquiring vital resources.
 
-## Failure of a Narrative
+### Failure of a Narrative
 
 This brings us back to the compelling narrative that our evolutionary ancestors finned their way out of the water, so it is only natural—nay, inevitable—that we will wing our way off the planet. When creatures crawled out of the water to inhabit the land, it was to reap the *unbelievable vegetative bounty of the land, free of the threat of predation*. No bounty of food or sense of safety tugs us into space. It’s quite the opposite on both fronts, in fact. **We live on the bounty right now**.
 
@@ -79,7 +79,7 @@ Likewise, attempts to create a self-contained biosphere to support human life ha
 
 Despite this, and the winding-down of the NASA shuttle program, the optimism of many space enthusiasts is not fazed. They look forward to future mining operations on asteroids and on the Moon. I would think we would tear up the much closer ocean floor first, given the comparative convenience and cheapness of such operations.
 
-## Insider Out!
+### Insider Out!
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2011/10/mercury-astronauts-225x300.jpg "mercury-astronauts")](https://dothemath.ucsd.edu/wp-content/uploads/2011/10/mercury-astronauts.jpg)Having said all of this, it may come as a surprise when I say that I am a *proponent* of the space program. As a teenager, I fell in love with the movie *The Right Stuff*. I cherished visits to the nearby space museum in Huntsville, Alabama, and was thrilled to see Chuck Yeager in person at the National Air and Space Museum. Inspired by the passage of Halley’s Comet, I built a telescope and through it saw all nine planets in one night—when there *were* nine!. I saw a quasar over 2 billion light years away, and a supernova rivaling the brightness of its host galaxy 36 million light years away in Leo. My eyes have been out there, in some sense (and I never saw any food).
 

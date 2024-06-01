@@ -15,7 +15,7 @@ In 2007, I acquired a single, second-hand solar panel—intent on doing *somethi
 
 I have enough to say about my solar setup (and PV systems in general) that I must break this topic into multiple posts. In this, the first, I will describe the components, functions, and evolution of the system. In a [future post](https://dothemath.ucsd.edu/2012/09/blow-by-blow-pv-system-efficiency/ "Blow-by-Blow PV System Efficiency: A Case Study for Storage"), I will present system performance data and an assessment of efficiency of the various components. Perhaps even later I can explore the impacts of panel orientation, tracking, horizon obstructions, and geographic location.
 
-## Beginnings
+### Beginnings
 
 I was teaching a class at UCSD on Energy and the Environment (for the second time), and was about to get to the part where I described solar power and photovoltaics when I happened upon an Earth Day demonstration on campus. Some guy had a truck decked out in solar panels, and was thumping out youth-magnet music on large speakers. I chatted with him for a bit about practical issues of PV panels and systems, which led to his giving me a sweet deal on a spare panel he had. I figured I owed it to myself and to my students to transcend the theoretical and learn more about the *practical* side of an apparently important player in our energy future.
 
@@ -33,38 +33,38 @@ The two panels I started out using in my dual PV system. At left is a 130 W poly
 
 First cut at the electronics for my dual PV system (June 2007); keeping it simple at first. Two golf cart batteries are in the back, and mounted on the plywood are two different charge controllers, two 400 W inverters, a couple of shunts (for current measurement), and fuses here and there. The class-T 110 A fuses for the batteries are hidden on the back of the plywood.
 
-### Parts List for Initial System
+#### Parts List for Initial System
 
 The following list isn’t quite at the level of detail you would need to replicate my initial system without a bit of your own design/thought. But it certainly fleshes out the principal components.
 
-#### System 1: Running Television, DVD/VCR, stereo
+##### System 1: Running Television, DVD/VCR, stereo
 
 - Kyocera 130W polycrystalline panel, 16% efficient - Xantrex C-35 charge controller - 400W modified sine wave inverter (cheap!) - Trojan T-1275 golf-cart battery (12-volt, 150 amp-hour) - Class-T 110 Amp fuse & holder
 
-#### System 2: Running Two CFL Torchier Lights
+##### System 2: Running Two CFL Torchier Lights
 
 - Unisolar 64W multi-junction thin-film PV panel, 8% efficient - Phocos CML-20 charge controller - 400W modified sine wave inverter - Trojan T-1275 golf-cart battery (12-volt, 150 amp-hour) - Class-T 110 Amp fuse
 
-#### Shared Items
+##### Shared Items
 
 - Current shunts for later use with system monitor - Extension cords for delivering power indoors - Lots of \#6, \#8, \#10 stranded wire in red, white, and green - Quality crimper, crimp rings, heat shrink - Conduit, feedthroughs, terminals, ground clamp, etc.
 
 Trojan T-105 batteries (6-volt 225 amp-hours) are more frequently seen in PV systems than are T-1275 units. I opted for the T-1275 because I favored a single 12-volt unit for convenience. Later, in researching battery details for the [nation-sized battery post](https://dothemath.ucsd.edu/2011/08/nation-sized-battery/ "A Nation-Sized Battery"), I learned from a Trojan engineer that the T-1275 and T-105 cells use exactly the same lead plates/grids. So they should have the same cycle performance—just packaged differently and with differing capacity.
 Incidentally, a battery’s storage capacity in kilowatt-hours can be obtained simply by multiplying voltage and amp-hour capacity (then dividing by 1000). So the T-1275 battery, at 12V and 150Ah, comes to 1.8 kWh, for instance.
 
-### Installation
+#### Installation
 
 Assembling the parts into a working system was not terribly difficult. It really comes down to lots of **stripping** and **crimping** large wires. Heat shrink (especially the kind that oozes sealant/goop as it melts/shrinks) is useful to protect the crimp joints from corrosion.
 
 At the time, I was renting a condominium, and could not make arbitrary alterations to the place. Because I was simply running extension cords inside, I did not need to mess with the condo’s electrical system—and I found a way to get the extension cords inside without drilling any new holes. I was even able to follow existing holes in kitchen cabinet partitions made for supplying the refrigerator with water. I only needed to drill through one wall, with the landlord’s permission, to get into the living room. The panels sat on the carport, and as such (not being attached to a dwelling), I did not have to provision the system with a ground-fault protection device (GFPD). The rest of the electronics and batteries occupied a space outside in a protected alcove of our patio, safe from rain.
 
-## Big Lesson: Energy is Precious
+### Big Lesson: Energy is Precious
 
 Having such a small system, I had to be vigilant about energy use in the living room. The energy I was using had become very *personal*. I felt it was *my energy* in a way that I had not remotely felt before. I paid more attention to the weather, and to the forecast (boring as this tends to be in Southern California). Cloudy periods meant we should ration our television watching. A sunny afternoon when the batteries had reached full charge meant “free” energy that otherwise would go unused. Break out the movie!
 
 The kind of energy awareness that accompanies personal on-site energy production—even if representing a small fraction of total use—turns out to have *tremendous leverage*. That’s because increased awareness and the resulting behavioral shifts transfer to all sectors. You’ll never look at energy the same way. Energy becomes personal; precious. Once you’ve experienced horror at realizing you’ve left the solar-powered lights on while out of the room (unnecessarily draining batteries and making the system’s job that much harder the next day), you’re unlikely to ever do it again, and that much less likely to perpetrate the same crime on *any* lights *anywhere*. Similarly, I have found that energy monitoring (as with a [TED system](https://dothemath.ucsd.edu/2012/07/ted-stravaganza/ "TED-Stravaganza")) is another effective way to *personalize* energy use.
 
-## Messing Around
+### Messing Around
 
 Buoyed by the proof-of concept, I settled into fleshing out the dual system a bit, doing things “right.” I added circuit breakers and a monitoring system.
 
@@ -96,11 +96,11 @@ More general wiring diagram for single off-grid system. Shunts placed at positio
 
 After the system stabilized and was happily powering my living room, I wrote an [article for Physics Today](http://ptonline.aip.org/journals/doc/PHTOAD-ft/vol_61/iss_7/42_1.shtml?bypassSSO=1 "Physics Today: Home Photovoltaics for Physicists") on how to build and set up a small-scale off-grid PV system. It would be something of a waste for this post to rehash that work, so I strongly recommend you look at that article to fill in important gaps that I gloss over here, if you have not already (I’ll wait, in fact). It is there that you will find a more complete description of the roles that the various components play, how to size the system, and many other practical tips. In a sense, this post serves more as a detailed system composition and evolution and an update to the original article.
 
-## Growth Phase
+### Growth Phase
 
 As satisfying as it was to watch movies and entertain guests on the modest system, the house was begging for more. Anything that I could plug into an extension cord was fair game. So I took the plunge and bought seven more 130W panels, upgraded to a 3500W Outback VFX3524 inverter (24 volt), and also purchased additional communication and indoor display units for the Outback devices (now inverter and charge controller). The 24-volt inverter demanded that I put my two 12-volt batteries in series, so at this point I abandoned my dual system and consolidated into one. The 64W panel took a break from the sun.
 
-### New Items:
+#### New Items:
 
 - Outback VFX3524 3500 Watt, 24 volt inverter - Outback “Mate” for indoor display and access to advanced inverter
   settings - Outback Hub to link charge controller and inverter with the “Mate”
@@ -116,7 +116,7 @@ At this stage, I was powering a refrigerator that averaged 75W (50W in winter, 1
 The more sophisticated inverter can be configured to sense a low battery charge state—at a user-selectable voltage threshold—switching to utility power input to give the batteries a break. It can also use utility input to recharge the batteries, but I consider this to be cheating, and have disabled this service. I want my batteries to be 100% solar, for whatever reason. My inverter does not export energy back to the grid: it’s a one-way utility connection. But that limited utility connection saves the batteries from deep depletion during poor weather periods.
 And I don’t have to be vigilant about the battery state-of-charge with the ever-watchful smart inverter on duty.
 
-## The Next Big Move (to the present)
+### The Next Big Move (to the present)
 
 In late 2009, we stepped back into the housing market after a crash-hiatus. This meant I could configure my house any way I wanted, up to spousal approval. Okay. Eight panels this time. More power. More stuff connected. But extension cords running through the house was a non-starter. So I set about running standard household electrical cable through the house (attic/walls) to dedicated PV power outlets (colored gray) throughout the house in strategic locations. I put a breaker box next to the PV installation so the dedicated PV circuits would have over-current protection. At present, I have five outlets throughout the house running on PV, plus the direct-wired attic fan. The items powered by the PV system change a bit from time to time (no longer run TiVo; changed fridge; changed television). At present, we run:
 
@@ -135,7 +135,7 @@ I also added a Lantronix UDS1100 terminal server to form an interface between th
 
 Eight panels on the garage roof, plus our old 64 W friend now tasked with pumping water in my rain catchment system.
 
-## What’s Next?
+### What’s Next?
 
 As far as my blogging duties are concerned, I still owe you an efficiency analysis of my PV system. But for me personally, I’m pretty happy with my current PV setup. I have gained valuable experience through the process of setting up the various stages of the system. I have a system that can move with me wherever I go. The PV system has helped me develop a keener awareness of wasteful energy practices. I don’t have to worry about loss of refrigeration [during power outages](https://dothemath.ucsd.edu/2011/09/power-out-people-out/ "Power Out, People Out").
 The door is open to expansion if I need it: I can always throw more panels on the roof or add batteries for greater capacity. I can add circuits to my house to support more devices.
@@ -144,7 +144,7 @@ But mainly, having learned first-hand what it means to build, operate, and maint
 After all, [we can’t expect growth forever](https://dothemath.ucsd.edu/2011/07/galactic-scale-energy/ "Galactic-Scale Energy").
 At some point, it’s nice to sit back and enjoy the steady-state.
 
-## Warning: Do Not Try this at Home (Apparently)
+### Warning: Do Not Try this at Home (Apparently)
 
 A few readers have informed me that the 2011 NEC standards on PV installations have taken the DIY out of solar installations. So doing what I did would now be against code, since I am not an authorized installer. Even John Wiles, who *wrote* much of the NEC code is not authorized to install a system, and another individual who trains installers to take the test is not himself eligible to take the test, and could not today install the 7 kW system that he previously installed at his home. So here I thought I was doing people a favor by providing information on how I did it myself. Turns out you can’t. Bummer.
 

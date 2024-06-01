@@ -15,31 +15,31 @@ But I digress, already. This post is not about the narrow, literalist, and almos
 
 But neither is this a post about brain functions. Come on, Murphy, get it together! What this post **is** about is how intransigent people are, in general. After a few familiar examples, we’ll turn an important case: people have a very hard time seeing how unusual and temporary this moment is, it having lasted all their lives and more. The claim that most humans don’t appreciate the obvious temporary nature of modernity might seem as dismissive as the claim that animals don’t appreciate their own mortality. Yet some can, and that’s very important.
 
-# Everyone is the Hero of their Own Story
+## Everyone is the Hero of their Own Story
 
 Few people behave knowingly as villains. Based on who they are, their set of experiences, what they know, and what they believe, they are acting in internal good faith toward what they think is best. Even people acting outwardly in bad faith (and there are plenty of these) often do so in an honest attempt to achieve something they think to be justified. In some cases, they may be aware that many disagree with them, and surely find this to be frustrating. If convinced they are pursuing the best course, they can only think that most others would either do the same in their shoes, or otherwise don’t have their heads screwed on straight. In either case, the problems of others should not compromise their principles and actions. The *right* people know they’re a hero.
 
 Convincing someone who has already committed to a certain attitude or path that they are wrong is exceedingly difficult, as it may involve a somewhat public admission of their error. Doubling down becomes attractive, perhaps as a matter of pride. Psychological mechanisms kick in to convince them they are right. I imagine that even history’s most notorious villains had themselves convinced that what they did was in service of a noble vision, and that their picture would be on money for years to come.
 
-# Adolescents Know it All
+## Adolescents Know it All
 
 I am assuming that most people reading this blog have passed the adolescent stage in life, and can appreciate perspectives from either side of the divide. Adolescents blossom into independent, reasoning adults, and the process can be rather heady. They begin to recognize that adults don’t always have the answers, and are not infallible. The tendency is to take this too far: adults therefore know *nothing* and never get *anything* right. Enough daily evidence piles up to reinforce the conviction. Parents are the worst!
 
 Adults are exasperated in their dealings with adolescents, as there’s no winning. They know that they themselves tuned out clever attempts at advice by adults starting with things like: “I know you think you know everything, and I was the same way. But take it from me: I was wrong and I wish I understood the following thing when I was your age and hadn’t tossed it aside.” Nice try, old bag. Don’t you have a PTA meeting or something?
 
-# Whippersnappers Can’t Tell Me What to Do!
+## Whippersnappers Can’t Tell Me What to Do!
 
 A similar phenomenon happens in older people. Some elderly parents endure constant nagging from their younger loved ones. You shouldn’t do that or you might fall. What are you thinking, driving at night? Call when you need help: don’t try to do stuff alone. We need to move you to a “home” because you left the stove on once and could burn down the house. We’re only trying to do what’s best for you.
 
 I can imagine that these senior sentinels of society look on their middle-aged naggers in much the way adults look on adolescents. They think they know everything. Wait until they get to be my age, then maybe they’ll understand. This is no doubt true, as the nagging middle-agers will almost certainly follow similar tendencies and resist nagging by their juniors in the same way.
 
-# I’m Not Crazy!
+## I’m Not Crazy!
 
 For a more extreme case, how would you convince someone that they are not “all there” mentally? It’s often impossible. Whatever cognitive squirrels they might have running around, those squirrels insist that they see everything accurately (and maybe that everyone else is off their rocker).
 
 The point here, and with all the cases above, is that the “customer” is always right. Or: brains in almost any state are self-assured that they have the story basically correct. The only reality they know is the one in their own heads—how could it be otherwise? And in case you are wondering: yes, I am aware that the notion applies to me as well, and I constantly evaluate whether my minority opinion is a sign that I’ve got it all wrong. It would be the easiest way out, and I have often wished for such relief—but not at the expense of what I perceive to be a better understanding a complex reality.
 
-# This Time is Far from Normal
+## This Time is Far from Normal
 
 Now we get to the main event. The same thing that gives me the most hope for the future is one of our biggest impediments at the moment. That is, human brains do not come pre-loaded with an operating system, and thus can adapt to a completely new set of circumstances, accepting the world of their youth as they find it. A child born 1,000 years from now will know nothing of modernity, will not lament its loss, and will carry on playing, laughing, learning, and simply getting on with life in the world they encounter.
 
@@ -47,31 +47,31 @@ On the flip side of that coin, people of modernity have experienced nothing else
 
 But, how on Earth do you convince a B person (basically everyone you run into) that their time period—lasting many human generations—is the oddball? Most will readily acknowledge that B is strikingly different from A, and likely believe it to be *superior* in almost every regard. But they imagine the present to be the beginning of a new normal. Sure, many will acknowledge that the future could be markedly different than the present, but most typically in an extrapolative fantasy that evolves in the direction of Star Trek. Let’s explore a few of the possible patterns.
 
-## The New Normal
+### The New Normal
 
 Probably a common default assumption is: AAAAAAAAAAA–BBBBBBBBBBB. We have figured out how to live on the planet, and will carry modernity forward in basically recognizable form from here on out, improving along the way. This one requires the least imagination, and may seem the safest bet, given that we’ve been in mode B for generations, and it seems pretty solid. This is not to say that it’s static, but that the basic way of living (houses, grocery stores, electronic gadgets, global travel, jobs, economy, government) is here to stay, and will be recognizable thousands of years hence. Although perhaps common, this vision—if one can call it that—is perhaps the result of putting very little thought into the matter. The butterfly emerges from the chrysalis, and then flaps happily ever after. I suspect these folks have trouble staring down their own inevitable deaths, as well.
 
-## March of Progress
+### March of Progress
 
 The next-most-common assumption might be: AAAAAAAAAAA–B–C–D–E–F… We keep reinventing ourselves and changing modes. Each is almost unrecognizable to the one before, an a steady march toward perfection. The fact that humans stayed in mode A for millions of years is the anomaly. Normalcy is the progressive march, now that we have ignited the flame. The butterfly emerges from the chrysalis, and then morphs into something better, and something better, and something better…
 
-## Buzz Lightyear
+### Buzz Lightyear
 
 As a (meaningless) variant on the previous, the real dreamer is not content with the predictable sequence above, and prefers the flashier acceleration AAAAAAAAAAA–B–D–H–P–Z–θ–∞ (and beyond). These are just meaningless labels, so this one and the previous do not differ in substance. All the same, I’ll bet we’d find preferences between the two. The butterfly becomes a bird, a plane, a starship, a galaxy, the universe, the Marvel multiverse (took longer than expected to get from “plane” to Superman and his ilk, huh?).
 
-## Modernity Lite
+### Modernity Lite
 
 The somewhat more realistic among us might be aware that mode B is [hopelessly destructive](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/), and [cannot continue](https://dothemath.ucsd.edu/2023/09/can-modernity-last/) in present form. But a number of shrewd tweaks to the present might bring things in line: [renewable energy](https://dothemath.ucsd.edu/2022/09/a-climate-love-story/), pollution control, recycling, circular economy, equality and justice—a well-designed modern machine that is built to last. This sequence might be labeled AAAAAAAAAAA–B–bbbbbbbbbbb. Mode b would be essentially familiar to us, just perhaps more subdued. We’d still have access to global transportation, hospitals, cities, agriculture, computers, and smart phones—but somehow no more of the bad stuff that presently allows those things to exist: the elusive single-sided coin. Perhaps this is the butterfly suffering itself to be a moth?
 
 In general structure, this mode has much in common with AAAAAAAAAAA–B–AAAAAAAAAAA, just swapping the latter run of AAA to bbb, while importantly highlighting the current mode (B) as unsustainable and therefore temporary. I differentiate the two because Modernity Lite is qualitatively different from mode A, which is integrated with the rhythms of nature—living primarily by the rules of the community of life rather than being dominated by the overlay of ecologically-blind cultural rules.
 
-## Most Likely Sequence?
+### Most Likely Sequence?
 
 While I see mode b (modernity lite) as another form of unsustainable fantasy, I won’t defend mode A as the only or even most likely next phase, as I doubt we are looking at a complete reversion to hunter-gatherer mode. We are unlikely to shake the etch-a-sketch and start from scratch, carrying *nothing* forward. Yet, I would venture that what comes after, for the long duration that lies ahead, is closer to A than to b. Acknowledging similarities and differences, perhaps an appropriate labeling would look like AAAAAAAAAAA–B–ααααααααααα. Mode α (alpha) might preserve some of the really cool things we learned in mode B, but operate on a solid ecological footing akin to mode A—humbling ourselves as a small piece of the larger and more important community of life. I’m out of butterfly comparisons: real butterflies execute a cyclic pattern, hatching new caterpillars to one day become the next generation of butterflies. The long-lived α pattern might itself integrate cycles, but never revisiting the B-mode butterfly.
 
 Whatever replaces the unsustainable—and thus short-lived—period of modernity (B) will almost *have* to be sustainable and long-lived, as it is practically impossible to build an unsustainable existence of any duration on top of a reeling ruin. If the biosphere is not given space and time to recover, then following mode B with another unsustainable mode would risk ending it all for us. I guess one *could* argue for an unsustainable mode C following B, but then by definition precluding continuance of C and probably mode D, etc. In fact, trying to follow B with C either terminates the human experiment or at best makes full reversion to mode A more likely than finding our way to α.
 
-# The Tough Sell
+## The Tough Sell
 
 Back to the main thread of the post. To my mind, the current mode is utterly disastrous to the community of life and [therefore](https://dothemath.ucsd.edu/2023/11/nothing-without-bugs/) to our own eventual well-being. This not only rules out continuance of mode B, but also the extrapolative elaborations that double down on the same assumptions of [human greatness](https://dothemath.ucsd.edu/2022/02/human-exceptionalism/) and transcendence form natural law.
 

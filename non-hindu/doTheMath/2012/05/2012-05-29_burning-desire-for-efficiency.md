@@ -13,13 +13,13 @@ Burning Desire for Efficiency
 
 I recently devised a laser-phototransistor gauge to monitor my natural gas meter dial—like ya do. As a side benefit, I acquired good data on how much energy goes into various domestic uses of natural gas. Using this, I was able to figure out how much energy it takes to heat water on the stove, cook something in the oven, or heat water for a shower. Together with the knowledge of the heat capacity of water, I can compute heating efficiency from my measurements. What could be more fun? I’ll share the results here, some of which surprised me.
 
-## Heating Basics
+### Heating Basics
 
 The amount of energy it takes to heat water is so well-established, that it is the *basis* for several prominent units of energy. For instance, the calorie is the amount of energy it takes to heat one gram (1mℓ) of water by 1°C. As a straightforward extension, 1[kcal](https://dothemath.ucsd.edu/useful-energy-relations/#kcal "Useful Energy Relations: kilocalorie")=4184J (often Calorie with capital C) is how much energy it takes to heat one kilogram (or liter) of water by 1°C. Likewise, 1[Btu](https://dothemath.ucsd.edu/useful-energy-relations/#btu "Useful Energy Relations: Btu")=1055J is the amount of energy it takes to heat one pound of water by 1°F.
 
 So if I want to take 500mℓ of water from 18°C to boiling, I need to expend 82×0.5kcal to get the job done, or 171.6kJ.
 
-## Measuring the Gas
+### Measuring the Gas
 
 My natural gas meter usually receives little attention from me—which is saying something for a person as measurement/data crazed as myself. The reason is that the meter does not provide sufficient information to track small expenditures without vigilant monitoring. As explained in the [pilot lights post](https://dothemath.ucsd.edu/2012/03/pilot-lights-are-evil/ "Pilot Lights are Evil"), there are dials that make revolutions once every half-cubic-foot and two-cubic-feet, then a jump to 1000 cubic feet. The jump is so large that one cannot walk up to the meter and know at a glance how many wraps the high-resolution dials have made since the last look.
 
@@ -45,7 +45,7 @@ Even without the extra benefit from the hub, one can determine how much gas was 
 
 Each half-cubic-foot of gas is equivalent to 510Btu, since 100 cubic feet delivers 1.02Therms, and a Therm is 100,000Btu. Therefore, each turn amounts to 538kJ, or 0.149kWh.
 
-## Stove-top Boil
+### Stove-top Boil
 
 Enough with the preliminaries. I lured you in with promises of efficiency measurements, and went off instead into some mad scientist tangent.
 
@@ -65,7 +65,7 @@ Okay, so a 68% improvement over the full-throttle approach is a significant gain
 
 Incidentally, from the rate of cooling after the burner was turned off, I gather that the water remaining in the open pot lost heat at a rate of about 300W through convection, radiation, and possibly some conduction to the grate. These mechanisms are roughly proportional to *ΔT* between the water and the environment, so on average come to about 150W during the linear ramp-up of temperature from ambient to boiling. This would have cost 63kJ in the slow case (about 10% of the total), or about 35kJ in the full-blast case (3% of the total). But the lidded case would actually lose heat less quickly than these numbers indicate, as the loss rate is based on an *open* pot after the boiling test was complete. In either case, loss from the pot to the environment appears to play a relatively minor role.
 
-## How About Microwaves?
+### How About Microwaves?
 
 Okay, the stove top delivered disappointing efficiency results. But right above the stove, I have a microwave. Naively, I expected the microwave to be something like 80% efficient at delivering energy to the water. The thinking goes like this: the interior of the microwave oven is a good reflector for microwaves, so they rattle around until they find an absorber; namely, the food/water. Of course there will be some loss in generation at the magnetron tube (I imagine it gets hot). And the walls may not be perfect reflectors, so that after twenty bounces, there may not be much energy left. But still, 80%—right?
 
@@ -73,7 +73,7 @@ This time, I put 500mℓ of 18°C water into a plastic measuring cup (63g) and h
 
 Considering that electricity often comes from fossil fuels at 30–40% efficiency, the microwave (as tested by me) is only 15% efficient at transforming fossil fuel heat into heated water. That’s worse than the stove top—especially the slow-and-steady version.
 
-## Electric Kettles
+### Electric Kettles
 
 What about electric kettles, where a heating element is immersed into the water, directly heating the thing you *care* about? To boot, these kettles often have insulated sides, keeping the heat where you want it.
 
@@ -87,7 +87,7 @@ The first is the one raised for the microwave. If your electricity comes from fo
 
 The second caveat is that kettles suffer a sometimes rather large inefficiency due to lax filling practices. A kettle is considered to be a reservoir. Few measure the amount of water they put in. As long as it’s *enough*, game on. So the tendency is to overfill. All the water gets heated. Only some is used. This practice is probably even more pervasive in communally-shared kettles, and could easily cut a deep hole into the net efficiency. By contrast, microwave practices typically heat exactly as much as is consumed. A kettle with 50% over-fill turning off on its own sweet time can easily sink to the levels achieved by the microwave.
 
-## Hot Water Heater
+### Hot Water Heater
 
 While we’re talking about the efficiency of heating water, how well does my gas-fired hot water heater perform in transferring combustion energy into the water tank? Seems like it should be pretty good: few places for the heat to go except into the water (although the flue does get super-hot).
 
@@ -103,7 +103,7 @@ On the second withdrawal—this time based on a recently heated tank, it took 51
 
 Again, I find myself disappointed. I need to re-adjust my intuition about how straightforward it is to channel heat from a flame into water on the other side of a metal wall.
 
-## Bonus Round: Gas Oven
+### Bonus Round: Gas Oven
 
 I seriously doubt I’ll get around to another post detailing the things I learned from my laser-gauge gas meter. So I’ll stick in here what I learned about my gas oven. How much energy does it take to “charge” up? How much power to keep steady? How much “on” time equivalent does it take for the pre-heat phase?
 
@@ -113,7 +113,7 @@ If you’re heating a pizza in the oven that requires ten minutes of cook time, 
 
 Although I am embarrassed to reveal the efficiency of cooking pizza in the oven (since this is not unknown in my household), I owe it to myself to carry out the calculation. Let’s say I heat a 383g pizza by 200°C (but that it’s heat capacity is in between that of water (at the high end) and more typical materials—say 2000J/kg/K. So I need to inject 0.383·2000·200=153kJ. Meanwhile, my oven heats up for ten minutes and then the pizza spends ten minutes in the oven. I count 2.6MJ for preheat, and an additional 0.9MJ for the cook time. In the end, I manage to get 4.4% of the expended energy into the pizza. If I instead tried 6 minutes of full-power equivalent in the microwave oven (at 1750W), I might get near 25% efficiency—and a flaccid crust.
 
-## Summary Table
+### Summary Table
 
 Lots of numbers thrown around in this post. Here’s a table of my results.
 
@@ -122,7 +122,7 @@ Lots of numbers thrown around in this post. Here’s a table of my results.
 The adjusted efficiency is the fossil fuel equivalent if electricity is derived from fossil resources (coal, natural gas) at 35% efficiency.
 The range on the electric kettle depends on how quickly the kettle shuts off in response to boiling water.
 
-## Testing Without Lasers
+### Testing Without Lasers
 
 If you wanted to replicate or extend these experiments, is it hopeless without the laser-sensor gauge I created? Not at all—although slightly less convenient. In fact, I carried out the hot water heater test after I had already dismantled the gauge. Here’s one trick. Once you’ve characterized the burn rate of various devices (e.g., stove burners on max flame; oven while burner is on; water heater; furnace; etc.) then all you need is a way to measure time when the (audible) burner is on.
 
@@ -130,7 +130,7 @@ As alluded to above, keeping track of the fraction of time the oven burner is on
 
 To measure the rate of gas usage of various devices, make sure that device is the only thing on, and time how long it takes the half-cubic-foot (or 2cf) dial to make one revolution. Together with knowledge that each half-cf translates to 510Btu (538kJ), you’re pretty much set. Having a way to measure volumes and temperatures also came in handy for me.
 
-## What of It?
+### What of It?
 
 Heating water is less efficient than I originally thought. All the same, it will always take 1kcal to heat 1kg of water 1°C, and heating water is something we will always be interested in doing. Yet, efficiencies are middling-enough that we can’t expect gigantic improvements. Heat pumps could break the 100% efficiency barrier (by a factor of several), but these are impractical for small-scale applications.
 

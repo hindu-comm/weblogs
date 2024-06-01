@@ -19,7 +19,7 @@ Image obtained from [saucesome.net](http://saucesome.net/pic/tag/lisa)
 
 Marge shrieks and is ready to do whatever it takes to protect her daughter against this cruel fate. Extrapolation can, of course, be used to argue both for impending doom *or* future prosperity—sometimes based on the same data. I [started](https://dothemath.ucsd.edu/2011/07/galactic-scale-energy/ "Galactic-Scale Energy") this blog with an extrapolative foil to demonstrate the insanity of continued physical growth, in fact. A tangential [follow-up](https://dothemath.ucsd.edu/2011/08/does-the-logistic-shoe-fit/ "Does the Logistic Shoe Fit?") illustrated the hopelessness of differentiating a steady-state energy future from an energy crash using current data (although a continued exponential rise is already a poor fit).
 
-## The Problem with Extrapolation
+### The Problem with Extrapolation
 
 The danger with extrapolation is that it can’t work forever. Trends change. The picture I carry in my head is one I’ve shown before: the long-view history of fossil fuel energy use on Earth.
 
@@ -35,11 +35,11 @@ We sit near the peak of the fossil fuel saga (the star on the plot). Our tendenc
 
 I recently became aware of a story that highlights the degree to which the Earth has already been scoured for resources. In the remote, glacier-ridden Wrangell mountains of Alaska, prospectors found a certain copper-rich deposit in 1900. By 1911, a railroad was constructed and the copper bonanza began, discovering ores that were as rich as [70% copper](http://www.nps.gov/history/history/online_books/yuch/golden_places/chap13.htm). Compare this to typical copper ore mined today containing 0.3–6% copper (usually less than 1%). Production from the Kennecott mines peaked in 1916, declining more sharply after 1927, becoming uneconomic from 1932–1935, and reopening from 1935–1938 after which the resource was depleted. The mines and town of Kennecott were hastily abandoned. No ores this rich have been found since. It’s hard to get more remote and inaccessible than the interior mountains of Alaska a century ago. Yet if the rich resources were found and exploited so efficiently so long ago, I am left with lowered expectations for low-hanging fruit elsewhere in the resource world. Seems a bit picked-over.
 
-## Examples of Ruthless Extrapolation
+### Examples of Ruthless Extrapolation
 
 We have no shortage of examples, but I’ll throw out a few to give a flavor of what I’m talking about. I think it would be fun to have readers contribute other glaring instances of ruthless extrapolation in the comments section.
 
-### To Infinity, and Beyond!
+#### To Infinity, and Beyond!
 
 I have [commented previously](https://dothemath.ucsd.edu/2011/10/why-not-space/ "Why Not Space?") on the disappointment of space. Shouldn’t we be living on Mars right now? Ask an American in 1962 where they think we would be fifty years hence with respect to space travel. How many would say: “grounded, without a means to launch humans even into low-earth orbit”? No, only a lunatic would say that: the trend was clear. The space race was on, and we were tooling up for our first trip to set foot on another planetary body. Common sense (another term for ruthless extrapolation) would demand that the answer be far more ambitious than the Moon—millions of miles from the correct answer of “grounded.”
 
@@ -49,7 +49,7 @@ Science fiction—as inspiring and entertaining as it may be—is largely an exe
 
 Note that I’m not saying that all extrapolation is *wrong*—just flimsy to sometimes extraordinary degrees.
 
-### Faster than a Speeding Bullet
+#### Faster than a Speeding Bullet
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2012/06/transatlantic-1024x768.png "transatlantic")](https://dothemath.ucsd.edu/wp-content/uploads/2012/06/transatlantic.png)
 
@@ -63,7 +63,7 @@ Sometimes we step backwards: the space program and the Concorde are two striking
 
 There are several oopses on the plot above: sometimes missing game changers that improved things; and sometimes missing the exhaustion or saturation of a technology. Moore’s Law is today’s celebrated joy ride of amazing progress. Physical limits are bringing this ride to a stop too. Note that the new mode of CPU expansion is in multiple cores, not intrinsically faster chips.
 
-### Visionary Virus
+#### Visionary Virus
 
 I attended a conference (the [Compass Summit](http://compass-summit.com/ "Compass Summit Main Page"); talks [viewable online](http://fora.tv/conference/compass_summit_2011 "Fora TV online Compass Summit Talks")) in October 2011 aimed at mapping out our future path. Its subtitle was: “what’s possible, what matters, what’s ahead.” It was here that I first put the words “ruthless” and “extrapolation” together, in reaction to many of the talks. The boiler-plate talk was: look at the tremendous advances we’ve seen in the last decades; what amazing, mind-blowing futures await if we extrapolate these trends forward? Only a few speakers rung alarm bells about soils, monetary systems, and the impossibility of maintaining growth indefinitely ([ahem](http://fora.tv/2011/10/26/Growth_Has_an_Expiration_Date "Growth Has an Expiration Date: video")).
 
@@ -73,7 +73,7 @@ Meanwhile, we are attracted to stories of optimism. They are *infectious*. It’
 
 I recently listened to a radio segment on 3-D printing and the arbitrarily complex structures and devices whose fabrication by this method may soon be possible. In response to the question about whether there is anything that *can’t* conceivably be made by this technique, the answer was the familiar refrain that human ingenuity is unlimited—so no—nothing is out of bounds. A lovely sentiment that is all well and good in the absence of physical limitations. Again, the allure of ruthless extrapolation wins out.
 
-### The Trajectory of Physics
+#### The Trajectory of Physics
 
 Okay, this one is a little obscure as a form of extrapolation, but it’s one I relate to professionally in the world of physics. Physics has a marvelous track record of *reductionism*. The same thing that pulls an apple from the tree keeps the Moon moving about the Earth. Electricity and magnetism—seemingly much different—are in fact different shades of a unified theory of electromagnetism. In the latter half of the 20^(th) century, all fundamental particles and forces (including nuclear flavors) were bundled into the symmetry-group-fashioned “Standard Model”—leaving only gravity in the lurch as a thing unto its own. But the sense of imminent grand unification (theory of everything) was palpable. String theory pounded out many-dimensional mathematics in an attempt to provide a coherent framework for uniting gravity and the quantum domain of the Standard Model.
 
@@ -87,7 +87,7 @@ In this case, one could argue that there is little downside to assuming that the
 
 For me, I think there are questions that are too fundamental for physics to ever touch—like: why is there something rather than nothing? So I am not willing to embrace the ultimate extrapolation that physics holds all the answers to the how and why of our Universe. Meanwhile, physics certainly offers abundant opportunity to *describe* our world in a systematic and prediction-enabling way. And continued exploration is bound to be fun no matter what the ultimate end.
 
-## Human Boon; Human Bane
+### Human Boon; Human Bane
 
 Our ability to extrapolate is indeed a valuable adaptation for our survival. I do not claim that it is *unique* to humans (other animals can anticipate and prepare), but we have abstracted the practice to a real art form. Many of our greatest accomplishments owe to this fundamental skill.
 

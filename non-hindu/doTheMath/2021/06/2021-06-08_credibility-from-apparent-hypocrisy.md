@@ -29,7 +29,7 @@ I often point out the unsustainability of any form of growth. Institutions like 
 
 In performing the analysis of my energy/resource footprint ([Chapter 20](https://escholarship.org/uc/item/9js5291m#chapter.20)), the most personally disappointing sector is air travel. Yet I found myself visiting my mother and sister in May 2021 after vaccinations permitted post-pandemic travel again. As giant as the energy cost is, nullifying much of my progress elsewhere for the whole year, other pressures/factors prevailed.
 
-## Apparent Hypocrisy May Not Expose a Lie
+### Apparent Hypocrisy May Not Expose a Lie
 
 This is not an exhaustive list of personal failings, but helps illustrate the range of domains in which I knowingly transgress principles that are indeed important to me.
 
@@ -41,7 +41,7 @@ One possible dynamic is that the suggestion of a difficult future—having reduc
 
 If this is indeed a common reaction, it exposes a deep flaw in comprehension of the human role in the natural world. It operates on the conceit that it’s all a matter of choice, of attitudes, of desire. The individual warning of dire challenges does not *want* those hardships to come to pass—which is the whole point of the warning. Perhaps the core message has not been internalized: humans operate within physical limits and should be careful not to extrapolate the boom-time fossil fuel years under low population and ecosystem pressures into a “full” world of resource limitations. A rejection of that foundational concept or disconnect at that level will lead to all manner of problems in interpretation.
 
-## Gravity, not Hypocrisy
+### Gravity, not Hypocrisy
 
 But my main purpose in writing about this topic is that I believe seemingly hypocritical behavior can also point to the grave nature of the problem, only adding to its credibility.
 

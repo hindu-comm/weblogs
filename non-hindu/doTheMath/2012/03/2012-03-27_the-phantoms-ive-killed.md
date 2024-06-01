@@ -11,7 +11,7 @@ The Phantoms I’ve Killed
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2012/03/elec-meter-150x150.jpg "elec-meter")](https://dothemath.ucsd.edu/wp-content/uploads/2012/03/elec-meter.jpg)Two weeks ago, I described my factor-of-five reduction of [natural gas usage](https://dothemath.ucsd.edu/2012/03/home-heating-for-the-hardy/ "Do the Math: Home Heating for the Hardy") at home, mostly stemming from a decision not to heat our San Diego house. We have made similar cuts to our use of utility electricity, using one-tenth the amount that comparable San Diego homes typically consume. In this post, I will reveal how we pulled this off…with plots. Some changes are simple; some require behavioral changes; some might be viewed as outright trickery.
 
-## Measurement and Data
+### Measurement and Data
 
 My several-year journey started—as it often does for me—with *measurement and data*. Utility bills are the best starting point, accumulating the number of [kilowatt-hours](http//physics.ucsd.edu/do-the-math/useful-energy-relations/#kilowatt-hour "Do the Math: kWh") used in a month. This information is certainly useful as a baseline against which to judge future improvement. But how do you know when you’ve got a reasonable footprint?
 
@@ -21,7 +21,7 @@ When I first took stock of my energy usage in 2007, my wife and I totaled 3466kW
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2012/03/elec-use-sd.png "elec-use-sd")](https://dothemath.ucsd.edu/wp-content/uploads/2012/03/elec-use-sd.png)Above is a plot of our electricity use over time as we migrated into energy awareness and also moved from a condominium to a house. Alternating gray and white bars represent months within the year. Electricity use of typical San Diego condos and houses matched to the ones we occupied is shown in blue—including two curves for houses with and without air conditioning. Our (red) curve was once roughly comparable in scale, but has edged downward over time due to a variety of changes. A house-sitter in the latter part of 2011 blew our trend, probably by befriending our space heater. But this deviation serves to illustrate the importance of **people** and **behaviors** over the physical house.
 
-## Okay Mister; What’s Up Your Sleeve?
+### Okay Mister; What’s Up Your Sleeve?
 
 You can always tell a physicist from a magician, even if both show tricks/demonstrations in front of an audience. The physicist is eager to explain how and why the “trick” works, perhaps repeating the performance and encouraging onlookers to view from all angles. So I can’t *wait* to tell you how we pulled off this fantastic reduction.
 
@@ -33,7 +33,7 @@ Besides the Thanksgiving fiasco, my wife was reluctant to have *yet another* dat
 
 What do these “trick” devices have to do with reduction of power consumption? **Knowledge is power**. And knowledge *of* power is spectacularly useful. We got rid of wasteful devices like a stereo that had an inexcusable 12W standby power drain (9kWh/month). Knowing the power associated with various lighting choices guides our decisions about what lights we might want to use and when. We have identified various phantom loads (devices that suck “standby” power without providing benefit) and eliminated them by unplugging when not in use. These include a 9W pull from the printer even when off; 11W from the central air circulator that we were not even using; 5W from the sprinkler control that we also were not using; and others as well—you get the idea. Some countries have on/off switches at the wall outlet to make such savings simpler to effect.
 
-## Killing Phantoms
+### Killing Phantoms
 
 One of the most important reductions one can make is reduction of **baseload power**: devices that consume energy 24/7. Every 1W eliminated removes 9kWh from the yearly tally and about \$1 of yearly cost at nominal electricity prices. Each constant Watt removed saves as much daily energy as one minute of microwave oven cook time (one Watt times 24 hours is the same as 1440W times 1/60^(th) of an hour: 24 Wh). Constancy is the killer here. We’ve reduced our utility baseload to about 40W continuous from an initial 100W or so. That’s about equivalent to the total utility electricity we *use* now. It can be a big deal.
 
@@ -41,7 +41,7 @@ Lawrence Berkeley Lab put together [a useful table](http://standby.lbl.gov/summa
 
 Imagine that we assign specific tasks to power plants. We have the power plants assigned to lighting applications. There are a goodly number of power plants assigned to running televisions. We’ve got the hair dryer power plants—fewer now than in the big-hair era of the 1980’s. A worker at any one of these plants may feel proud to provide essential services to fellow citizens. Then you’ve got your dozen standby power plants. Imagine the morale at one of those plants: Wally working hard all day, coming home exhausted. But because of poor Wally, our printer could sit doing absolutely nothing and slurping power all day. He really doesn’t *deserve* the nickname Wally Wall-Wart (after the name given to plug-in transformers), because it’s our own silly habits and inattention that make Wally go in each day to keep the plant thumping.
 
-### Monitoring Baseload
+#### Monitoring Baseload
 
 The deluxe way to monitor baseload is with TED (see note at bottom). One productive trick is to turn off one breaker at a time during a quiet period and see which ones host standby power. From there, the specific culprits can be tracked down. A far cheaper solution is the Kill-A-Watt, which can at least tell you about the items that plug in to the wall (almost all phantoms are of this variety). But you can also use the utility meter already attached to the house to measure baseload power.
 
@@ -51,13 +51,13 @@ Be careful that the refrigerator is off for the measurement. Run out the door ri
 
 Digital meters eliminated the disk. It is infuriating to me that the meter internally **measures** the instantaneous power—it simply accumulates this to arrive at an energy measurement—but this value is not presented to the homeowner. It’s arguably *the most useful* measurement a *power* meter can supply, yet it’s just simply absent. I spent hours on the phone with my utility company trying to understand how I might access this information. I ended up spending most of this time patiently explaining that kWh and kW are not the same thing, and a time or two found myself discouraging erroneous use of the unit: kilowatts *per* hour. In the end, I learned that the digitally simulated disk (little blocks that appear and disappear) carry the meaning that each appearance/disappearance corresponds to the passage of 1Wh. For me, this means that one complete cycle of the three-block pattern is 6Wh. For very slow rates, I can measure just one block. For instance, at my house it takes 94 seconds between the appearance of consecutive blocks, computing to 38W. For 1Wh blocks, Kh=1, so standby power is just 3600/*T*, where *T* is now the time for one block. I do not know how universal this behavior is, but I suspect it is relatively reliable from place to place. I note that my meter has 1.0Kh printed on it, which I’ll bet means one block equals 1 Wh. So look for something like this on yours as well.
 
-## Lighting Replacement
+### Lighting Replacement
 
 An easy move to reduce electricity consumption is to switch to fluorescent or LED lighting. These typically consume one-quarter of the energy that incandescent lights do for the same level of light output. If a house uses 1000W of incandescent lighting for six hours of the day (6kWh), then the same practices using efficient lighting consumes only 1.5kWh and therefore reduces the typical American house’s electricity usage by 15%. I’ll take it.
 
 Incidentally, You can buy a 100W incandescent bulb for about \$1 that will last 1000 hours. Or you can spend \$5 to get a quality compact fluorescent light (CFL) that will last 10,000 hours (don’t spend \$3, or your CFL may not last long). Over the same period, you would need to buy 10 incandescent bulbs for a total outlay of \$10. But that’s not the worst of it. In that 10,000 hour period, the incandescent bulb racks up 1000kWh of electricity, costing about \$100 at a price of \$0.10/kWh. Meanwhile the CFL sips power at 25W and will cost \$25 in its lifetime. In either case, the electricity cost dwarfs the hardware cost. In the end, you can spend \$110 for incandescent lighting (and nine bulb changes) or \$30 for CFL lighting of the same intensity. Yet many people huff at the \$5 CFL cost (and as a result may get cheap versions that don’t last so long and turn them off further).
 
-## Behavioral Changes
+### Behavioral Changes
 
 Killing baseload and changing lights can have a substantial impact on electrical energy used. But behavioral adjustments can be equally important. Behavioral changes stem from changes in attitude or values. Treat electricity as precious, and you’ll find yourself using it more frugally. Here I will describe some of the adaptations we have made to cut our electricity usage.
 
@@ -67,7 +67,7 @@ We learned that our neighbors were looking for a refrigerator, so we gave them o
 
 We also became far more vigilant about not leaving lights or devices on when not in use. It’s not unusual for an American house to be “all on” in the evening: daylight throughout the house. But light switches are conveniently placed near the doors of every room, so it’s really not much of a bother to keep lighting where you *are*, and allow darkness to rule where you *aren’t*. Part of this training/awareness derived from an experiment to make our living room off-grid using solar panels and batteries. We treated our harvested energy as precious, and did not dare leave the television or living room lights on when we were not using them. Energy became very *personal*, and this attitude transferred to the house as a whole.
 
-## The Big, Sneaky Trick
+### The Big, Sneaky Trick
 
 The plot above of our electricity use over time shows a progressive decline year over year (ignoring the house-sitter contribution). Some of this is indeed due to all the reasons mentioned above. But I left out a key piece. The living room solar experiment started out as a single 130W panel for the television/DVD/stereo and a 64W panel for the lights—as described in an [article I wrote for Physics Today](http://ptonline.aip.org/journals/doc/PHTOAD-ft/vol_61/iss_7/42_1.shtml?bypassSSO=1 "Physics Today: Home Photovoltaics for Physicists") in 2008. But over time I kept upgrading the system—adding panels and batteries. Before I left the condo, I was up to 6 130W panels and two golf-cart batteries. After we moved, I bumped up to 8 panels and 4 batteries. The combined effect is shown in the next graph.
 
@@ -77,11 +77,11 @@ Note the step reduction at the start of 2011. This coincides with the arrival of
 
 Looking back at the period before “energy awareness” arrived, The winter-time electricity usage looks suspiciously like the gas profile from the [post two weeks ago](https://dothemath.ucsd.edu/2012/03/home-heating-for-the-hardy/ "Do the Math: Home Heating for the Hardy"). At first I imagined that the electricity used to run the furnace blower may be to blame. But closer inspection suggests that this is not the case. A typical furnace in the U.S. may consume somewhere between 50,000–100,000Btu/hr of energy, which is 0.5–1.0[Therms](https://dothemath.ucsd.edu/useful-energy-relations/#therm "Useful Energy Relations: Therm") of energy per hour. Meanwhile, the blower may operate at something between 500–1000W. Therefore, each Therm expended in the furnace may be accompanied by anywhere from 0.5–2kWh of electricity to push the air around. Direct measurements in my current house land right at 1kWh of blow-energy per Therm burned. Consulting the gas expenditure plot from a few weeks back, we find that the winter peak in gas added no more than about 40Therms per month of gas use, or 1.3Therms/day. So I might expect no more than an extra 2.6kWh of accompanying electricity use per day: nowhere near the extra 12kWh/day we seemed to use in February of 2007. Other adaptations must take the credit.
 
-## Where is the To-Do List?
+### Where is the To-Do List?
 
 I have offered examples of the things we have done to shave energy use. But I held back from making a list of things you could/should do on your own. If I have one piece of advice, though, it’s to **start measuring** your usage. Information is the key. Once you know where you are, and start gauging the effects of various options, you’ll make your own list. Then you’ll *own* your improvements.
 
-## The Combined Effect
+### The Combined Effect
 
 We have made substantial (factor-of-five level) reductions in our use of household energy on both the natural gas and utility electricity fronts. For a house matching our size, occupancy, and vintage in our area, we now use one-sixth as much natural gas and one-tenth as much utility electricity as is typical (one-eighth the electricity if compared to houses without air conditioning). The ratio for electricity is closer to one-fourth if including our solar-generated electricity. Even so, it is clear that our behavioral choices have resulted in a dramatic reduction of our energy demands. This is far more powerful than the usual trimmings at the 10% level.
 

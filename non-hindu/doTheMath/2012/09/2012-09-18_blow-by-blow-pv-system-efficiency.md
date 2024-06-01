@@ -11,13 +11,13 @@ Blow-by-Blow PV System Efficiency: A Case Study for Storage
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2012/09/solar_day-150x150.png "solar_day")](https://dothemath.ucsd.edu/wp-content/uploads/2012/09/solar_day.png)A short while back, I described [my standalone (off-grid) urban photovoltaic (PV) energy system](https://dothemath.ucsd.edu/2012/07/my-modest-solar-setup/ "My Modest Solar Setup"). At the time, I promised a follow-up piece evaluating the realized efficiency of the system. *What was I thinking*? The resulting analysis is a lot of work! But it was good for me, and hopefully it will be useful to some of you lot as well. I’ll go ahead and give you the final answer: 62%. So you could peel away now and risk using this number out of context, or you could come with me into the rabbit hole…
 
-## System Recap
+### System Recap
 
 I started small, with two panels and a handful of parts. Intent on learning the ropes, I built two independent systems—one for each panel. I described the initial system(s) in a [2008 article in Physics Today](http://ptonline.aip.org/journals/doc/PHTOAD-ft/vol_61/iss_7/42_1.shtml?bypassSSO=1 "Physics Today: Home Photovoltaics for Physicists"). The system has since evolved to the point that I now have eight 130W panels and four golf-cart batteries providing 60% of my home electricity needs. Primarily, the system powers our refrigerator, attic fan, television and associated entertainment components, two laptop computers, the cable modem and wireless hub, and a printer. Occasionally I’ll throw something else on the PV (in much the same way an Australian might casually throw some shrimp on the “barbie”). The current system is described in [an earlier post](https://dothemath.ucsd.edu/2012/07/my-modest-solar-setup/ "My Modest Solar Setup").
 
 I now have two-and-a-half years of stable operation/configuration, and I collect data as impulsively as a squirrel collects nuts. I use the [Pentametric](http://www.bogartengineering.com/products/PentaMetric "Bogart Engineering: Pentametric") system to measure three currents and two voltages in the system, which lets me monitor energy use, battery health, etc. I collect the data in five minute intervals (accumulated, not sampled), and have nearly uninterrupted data spanning years. Are you ready for me to unload it on you?
 
-## What’s Being Measured?
+### What’s Being Measured?
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2012/09/pv-monitor-1024x172.png "pv-monitor")](https://dothemath.ucsd.edu/wp-content/uploads/2012/09/pv-monitor.png)
 
@@ -33,7 +33,7 @@ Almost all of the analysis to follow comes from the Pentametric dataset. Current
 
 *V*_(A) times *I*_(C) gives the power delivered by the charge controller. We’ll call this *P*_(MPPT), where MPPT stands for the maximum power-point tracker charge controller. *V*_(A) times *I*_(D) gives the net power going into or emerging from the battery, which we’ll call *P*_(batt). *I*_(D) minus *I*_(E) gives the current in the other (unmonitored) battery chain, for checking that one chain is not unequally splitting the workload. Once we account for any input current from the solar side, and the net current into the battery, the difference constitutes the total load. At night, when the solar current is zero, the story is simple: the battery must do all the work, so whatever current escapes is going to the load. In the daytime, the battery may or may not be *receiving* charge depending on whether the solar input exceeds load demand at that moment.
 
-## A Peek at the Data
+### A Peek at the Data
 
 So what kind of information can we get from the above data? The plot below represents a simplified version (leaving out the battery competition piece) of something I look at daily to check the system performance.
 
@@ -51,7 +51,7 @@ Note also the declining amount of power needed to maintain absorb state, ultimat
 
 Finally, the green curve at bottom is the battery state of charge. It’s pegged at 100% for most of the afternoon, declining to about 70% by the end of the night. In warmer weather (in a non air-conditioned house), the refrigerator demands more power, so the battery sees more overnight drain. But in this sense, the supply and demand are somewhat matched. The refrigerator demands less energy in winter, when less solar energy is available.
 
-## Energy Produced
+### Energy Produced
 
 Before we talk efficiency, let’s just have a look at the energy haul over the last 30 months. Presto—we have a graph:
 
@@ -64,7 +64,7 @@ Obviously more solar energy is harnessed in the summer months. Various inefficie
 The green dashed curve representing utility power has three noteworthy anomalies. In the Fall of 2010, we had a housesitter, who used 190, 464, and 389 kWh in three months, blowing our typical 60 kWh out of the water. Second, we were away during the Spring of 2011, this time producing an anomalously low utility footprint. Finally, August 2012 featured a two day air-conditioning experiment featured in a [recent Do the Math post](https://dothemath.ucsd.edu/2012/09/rocking-the-ac/ "Rocking the AC").
 Yeah, that’s going to leave a mark. Look at the sacrifices I make for you folks!
 
-## System Efficiency
+### System Efficiency
 
 So how well does the system perform, after we account for all the nickel-and-dime tolls of inefficient components? To answer this, we need a model for the energy flow in the system.
 
@@ -96,7 +96,7 @@ So we’re almost there. The last piece is *η*_(MPPT), which I am not outfitted
 
 Right. When we put it all together, my system over the last 30 months averages—you guessed it—*η*_(tot)=62.2% efficient. Over this time, my system received an average of 4.3kWh of input per day, and delivered an average 2.7kWh into the house. Over the last 20 months (for which I have TED data), our average utility energy use is 1.8kWh per day. That makes for a total daily electricity use of 4.5kWh, 60% of which is from the PV system. The inverter was on 94% of the time, the other 6% spent rerouting utility power while waiting for the Sun’s return.
 
-## A Step Backward
+### A Step Backward
 
 Hold on. I have 8×130W panels on the roof, for a total of 1040W. According to the NREL database (see my [exposition of this](https://dothemath.ucsd.edu/2012/08/solar-data-treasure-trove/ "Do the Math: Solar Data Treasure Trove")), San Diego should be getting about 5.7kWh per day for each 1000W of panel. I should be receiving 5.9kWh per day, not 4.3kWh. The implied mystery efficiency is around 75%.
 
@@ -110,7 +110,7 @@ Above is a plot of the monthly system efficiency (the one that averages to 62%, 
 
 One oddity of the plot above is a few months when my system appears to be getting nearly 100% of the available energy. This tends to happen in months plagued by a marine layer of clouds. The ragged clouds dissipate sooner the farther one lives from the ocean. My house is a bit farther from the ocean than my friends’ house, so I could easily believe that I’m receiving more direct sun on a number of these days, boosting my figures a bit. It is also true that the attic fan taxes the system in the summer, so I spend less time in absorb state rejecting power. I more efficiently grab solar energy, but at the expense of not fully satisfying the fussy batteries.
 
-## Component Efficiency
+### Component Efficiency
 
 From before, we saw that my off-grid system converts 62% of the solar energy it accepts into energy we use in the house. Where does the other 38% go? We can reframe the problem into additive (subtractive) component contributions, *f*_(comp), such that:
 
@@ -126,7 +126,7 @@ Doing this, I get that *f*_(MPPT)=0.048; *f*_(inv) = 0.112; *f*_(bat)=0.080; *f*
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2012/09/pv-loss-1024x768.png "pv-loss")](https://dothemath.ucsd.edu/wp-content/uploads/2012/09/pv-loss.png)In the winter, when the attic fan does not blow, and the refrigerator cycles less frequently, the inverter baseload becomes a more prominent fractional draw. Long winter nights and winter storms also mean that the batteries spend more time contributing power, and at a lower average state of charge. More of the system energy goes into charging batteries during this time of year, increasing their contribution to inefficiency.
 
-## A Look at the Batteries
+### A Look at the Batteries
 
 It’s a lot for one post, I know. But the battery part probably doesn’t justify a post of its own, and we’ve come this far. So one more bit of exploration…
 
@@ -138,7 +138,7 @@ If your wits have not been overly dulled by this long post, you might have caugh
 
 The key is that the batteries do not supply all the energy to the inverter/system. Generally speaking, this happens at night. And generally nights comprise half the time. Also relevant is *when* the big loads are demanded. Our use of an attic fan shifts load demand to the daytime, so much of the energy input from the sun goes to directly driving appliances *while* the batteries are being charged in parallel. It so happens that over the last 30 months, I compute that 50.2% of the total system load has been sourced from the battery. If we had no night-time loads, this number would drop, and if we had *only* night-time loads, it would approach 100%. It’s almost coincidental that I land so close to 50%. But 50% of the 17% energy deficit is pretty close to our 8% decomposition.
 
-## Battery Health
+### Battery Health
 
 I can also look at battery health in one other way. The Pentametric knows my battery amp-hour rating (though I lied to it and said they were 125 Ah, not 150Ah batteries). As it watches current flow in and out, it keeps track of the state of charge, accounting for a nominal charge efficiency. When it senses a successful absorb condition (high voltage, low current demand), it resets to 100%. In practice, this dead-reckoning comes out pretty close to the mark, so that the 100% recalibration is hardly needed.
 
@@ -160,7 +160,7 @@ And one last trick. If I collect SOC values from the Pentametric and correspondi
 
 Do I think these batteries will continue to get better with age? Ha! Just this weekend I saw disappointing performance during equalization (required more current than I expected). And I haven’t seen absorb state settle down to sipping just 50W for some time. My first set of batteries took a rapid nosedive after less than two years. This set appears to be doing better, but I’m not driving them quite as hard (safety in numbers: 4 is better than 2; new refrigerator is less jarring when it turns on and the defrost is half the power, so the batteries are not slammed as hard as a result).
 
-## Oh Battery: How Gently Must We Treat Thee?
+### Oh Battery: How Gently Must We Treat Thee?
 
 Incidentally, it is well known that batteries will survive more cycles at lower depth of discharge. A useful graph from [here](http://www.mpoweruk.com/life.htm) shows this clearly:
 
@@ -176,7 +176,7 @@ On the economic side, taking the advertised capacity for a lead-acid battery at 
 
 At this point, I have sourced 1686 kWh from my four batteries in 30 months, or 422 kWh each. At a de-rated 1.5 kWh per battery, I have gone through 281 full-depth equivalent cycles. In about 915 days, this means my average cycle depth is 31% and I might expect 2000 such cycles (5.5 years; 620 full-depth equivalent cycles) at this level. So judging by this, I’m almost halfway done. Luckily for you, we’re *much* more than halfway done with this post. Here’s the wrap-up…
 
-## So is 62% Good or Bad? Waffle time…
+### So is 62% Good or Bad? Waffle time…
 
 The primary result is that I only get to use 62% of the energy delivered by my panels. The comparable number for a grid-tied system is something like 87–90% (inverter efficiency). My system suffers an additional 87% efficiency factor due to its full-tummy effect. This is close to the grid-tied inverter efficiency, so we can say that a panel in a small-scale off-grid system will likely deliver only something like 60–65% as much total energy as a grid-tied panel.
 

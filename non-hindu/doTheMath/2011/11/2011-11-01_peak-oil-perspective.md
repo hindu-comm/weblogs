@@ -13,7 +13,7 @@ Peak Oil Perspective
 
 Aside from excursions here and there, Do the Math represents—in computer terms—a “core dump” of years of accumulated thoughts and analysis on energy, growth, and the largely unappreciated challenges we face on both short and long terms. During this queued process—with much more to come—I have made references to peak oil, but have refrained from a head-on treatment. As important as peak oil has been in motivating my quantitative exploration of life beyond fossil fuels, it seems overdue that I share my thoughts.  
 
-## Calling the Bubble
+### Calling the Bubble
 
 Before I dive into oil—no, not literally—I’ll share a story that has some resonant parallels. When my wife and I moved to San Diego in 2003, we understood that if we wanted to buy a house, we should do so without delay—as prices were climbing fast. Spending a year optimizing a search for the perfect house risked pricing us out of the market. Interest rates were at historic lows, meaning that prices were soaring while keeping the monthly payment—the key determinant of house affordability—roughly constant. We bought a house practically overnight in the summer of 2003. In 2005, I became nervous about the spectre of rising interest rates and the effect this would have on prices. Since we were not yet firmly tied to San Diego, we wanted to keep options open for moving elsewhere. I worried that a fall in house prices—for any reason—could trap us underwater in debt.
 
@@ -27,7 +27,7 @@ Take a look at the home price index published in the New York Times in 2006. The
 
 Can you believe that rational people were claiming we had hit a new normal? That this fantastic rise would not come down? I certainly couldn’t swallow it. My wife and I decided to sell in mid-2005, and managed to break free in early 2006, at the height of the market in San Diego. Quantitative analysis was on our side.
 
-## An Even Stronger Case
+### An Even Stronger Case
 
 A plot of fossil fuel consumption over the long term looks somewhat like the right-hand-side of the house price figure above—in that it has rocketed up in near-exponential fashion over the last couple of centuries. So what? Fossil fuel production has little in common with real estate prices, so the fact that the housing bubble crashed holds no predictive power for fossil fuels. But in this case, the quantitative evaluation of where fossil fuels will go is even **more convincing** than market predictions for housing. In the fossil fuel case, it comes down to *physics*, and I’m on my home turf. I am far more confident that finite fossil fuels will peak and decline than I was about the housing market in San Diego prior to the crash. And it should tell you something that I was confident enough in *that* to sell my house and move into a rental, at significant personal inconvenience.
 
@@ -35,11 +35,11 @@ Despite the certainty of its occurrence, peak oil is such a complex, multi-facet
 
 Keep in mind that I am not making predictions here or demanding that readers are persuaded by the same arguments/analysis that I have found compelling. I’m just laying out a set of reasons why I think the phenomenon deserves our directed attention. I should also clarify that while I speak of “peak oil,” my main concern is the decline that follows a peak (or plateau). The peak itself is nothing but fun!
 
-## Getting Calibrated
+### Getting Calibrated
 
 Any discussion of oil production is much easier if you enter knowing a few basic numbers. The world uses about 86 million barrels per day (Mbpd) of petroleum in its various forms, about 20Mbpd of which is consumed in the U.S. This comes to 31 billion barrels (Gbbl) per year globally, and a little over 7Gbbl for the U.S. Conventional crude oil makes up about 73Mbpd of the 86 total, the rest coming primarily from natural gas plant liquids (NGPL), and some from tar sands and other alternatives.
 
-## Sub-subsistence Living
+### Sub-subsistence Living
 
 Imagine that your lifestyle demands \$30,000 per year for rent, food, travel, entertainment, clothing, etc. in order to “subsist.” Now what if I tell you that your earnings potential amounts to only \$10,000 per year, and is almost certain to only go down from here. I expect you should feel distressed. But because you once pulled in a salary of \$60,000 and were frugal at the time, you have a bit of a cushion in savings. Still, the current situation and dimming prospects should raise serious concern. This is similar to the case with oil discoveries, or “income.” Just replace “dollars” with “million barrels of oil” and we have our analogy.
 
@@ -55,13 +55,13 @@ Why aren’t we hammered with this headline year after year? Instead, it’s alw
 
 Rational people agree on the peaking of conventional oil. The fights are over timing. Most estimates fall between 2005–2020, although a minority of vested voices (with poor predictive track records) speak of a plateau lasting for decades. I will note that we lately appear to be on a plateau that began around 2004.
 
-## Peaks Happen
+### Peaks Happen
 
 It is well known that individual oil fields universally see a production peak—often early in their production lifetimes—followed by persistent decline. The geological upshot is that **oil is not a lake into which we thrust a straw, slurping as fast as we wish**. Rather, oil is a viscous fluid in porous, permeable rock that resists rapid recovery. It’s **not** a spigot or valve that we can turn at will. Nature has a say in how fast we can claim the oil. When economists speak of reserves-to-production (R/P) ratios to set a time scale on oil depletion (usually a few decades), this “lake” is the implied model. The R/P ratio is a useful number, but its use obscures geological limitations to the rate of recovery. In truth, oil will last longer than the R/P indicates, but at a reduced rate of flow. The decline, meanwhile, is closer at hand than the R/P number alone conveys.
 
 The lesson is that we don’t have full control over oil production. If previous discoveries are in decline, and we are not adding new fields at a replacement rate, we should *expect aggregate decline*. This is why *well over half* the major oil-producing countries have passed their peak performance (see the [Hirsch Report Summary](http://www.acus.org/docs/051007-Hirsch_World_Oil_Production.pdf)—reporting 33 of 48 in decline, and a [2008 analysis](http://www.theoildrum.com/node/5576) showing similar asymmetry). It is thought that Saudi Arabia is the only country left with any spare production capacity—effectively like a spigot that can be opened wider on demand. Even this is a debatable point, and at most amounts to something like one Mbpd (out of 86 globally).
 
-## If It Can Happen Here…
+### If It Can Happen Here…
 
 Indeed, it was clear (to some, like Hubbert) as early as the 1950’s that the peak of oil discoveries in the U.S. in the 1930’s portended a peak of domestic oil production around 1970. Since 1970, the U.S. has seen overall decline in oil production, now about half what it once was. Demand has continued to rise, so that we have shifted to an oil supply dominated by imports.
 
@@ -71,7 +71,7 @@ We see above (source: [EIA](http://www.eia.gov/totalenergy/data/annual/index.cfm
 
 Note that the U.S. decline happened **not** for lack of stability (wars on our turf), lack of technology, lack of management acumen, or lack of political will to be more self-sufficient in energy. The decline happened because geology is in the driver’s seat. Dramatic price shocks in 1973 and 1979—amounting to a factor of 8 price increase—were insufficient to drive production beyond the 1970 peak. The shocks played a role in stimulating the Alaskan oil flow, which indeed arrested the decline for a time. Yet the overall story is one of increasing demand atop declining production.
 
-## Straining at the Plateau
+### Straining at the Plateau
 
 Since about 2004—well before the economic disasters of late 2008—global oil production hit something of a plateau, oscillating within ±3% of 86Mbpd (source: [EIA](http://www.eia.gov/cfapps/ipdbproject/IEDIndex3.cfm)).
 
@@ -85,7 +85,7 @@ Above is a plot of oil production as a function of price from 1997 to 2011, insp
 
 As an aside, a compelling story about the financial collapse of 2008 puts this production limit at center stage. As supply failed to meet demand and prices rose (amplified by speculation, yes), the transportation, airline, tourism, automotive, and other directly related industries began to suffer and fold under pressure. The resulting economic slowdown deprived the sub-prime racket of oxygen, forcing the house of cards to collapse on itself. The racket worked as long as growth continued and housing prices did not falter. So we *may* have seen our first peak-oil economic disruption. The sub-prime tinder-box added to the pop. A [recent article in Mother Jones](http://motherjones.com/kevin-drum/2011/10/peak-oil-and-great-recession "Mother Jones: Peak Oil and the Great Recession") touches on this interplay.
 
-## Logistically Speaking
+### Logistically Speaking
 
 I am additionally swayed by the frequent success of logistic functions to predict total amount of resource well before it is exhausted. This does not always work (i.e., don’t pepper me with exceptions, of which there are plenty). But the fact that it has worked so well for major resources in the past is interesting and compelling.
 
@@ -105,7 +105,7 @@ For U.S. oil, we are far enough along to estimate that the total recoverable res
 
 For global oil resources (all liquids), we have consumed 1.2 trillion barrels so far. The data did not follow a logistic path in its early years, but has done so for the past three decades. If this portion is predictive, it says that our total resource is about 2.4 trillion barrels, putting us half-way along (therefore around the peak of the logistic rate). This by itself is a weak prediction. But the discovery rate we have seen (peaking in the 1960’s) does not lay the groundwork for us to expect a radical departure from the logistic line any time soon.
 
-## Possible Reaction to Oil Decline
+### Possible Reaction to Oil Decline
 
 It is rather clear that conventional oil is fated to peak (or plateau) and decline. The worry, then, is that economies are forced into ramping-down use of liquid fuels while oil prices skyrocket. Recession ensues; demand flags; prices return to *almost* normal; rinse and repeat. If you’ve ever watched a hummingbird (or some large insects) trapped inside, they repeatedly crash into the ceiling. Economic attempts to resume growth likewise will soon rediscover the ever-declining oil supply ceiling. Like the confused bird who does not notice the open window, those who would establish expensive new ventures for alternatives will be hampered bymarket volatility and uncertainty—worried about going bust in the next half-cycle.
 
@@ -117,7 +117,7 @@ The potential exists, therefore, for major disruption to our accustomed ways of 
 
 I am not claiming any crystal ball clarity in imagining these scenarios, but I do believe they represent distinct possibilities. Only by acknowledging the potential for such developments would we intentionally safeguard ourselves against them, to the degree possible.
 
-## Plenty of Hydrocarbons
+### Plenty of Hydrocarbons
 
 A decline in conventional oil production represents a **liquid fuels** problem. Crash programs in solar, wind, or nuclear infrastructure—besides suffering from the [Energy Trap](https://dothemath.ucsd.edu/2011/10/the-energy-trap/ "Do the Math: The Energy Trap") phenomenon—do not address the fundamental problem. Replacing a fleet of vehicles with electric cars or plug-in hybrids will take decades to accomplish, amidst decline and hardship. Biofuels that can scale to meet the demand gap and that do not compete directly with food supply have not been demonstrated. But wait! There are **loads** more hydrocarbons in the ground besides conventional oil.
 
@@ -141,7 +141,7 @@ Why am I prone to heed the conclusions of this report? In large part, it is beca
 
 Because we will more likely wait until the pain of decline has made itself clear, we may find ourselves handicapped by recession and debt, hampering our ability to act boldly.
 
-## Quick Wrap-Up
+### Quick Wrap-Up
 
 This post has swelled to larger dimensions than is ideal. I have covered the main points, and may circle back for another pass at a later date. For now, I will end with a by-now-familiar plea that we not wave off potentially debilitating threats to the stability of our civilization. The risk is asymmetric: starting a crash program toward replacement of finite fossil fuels too early has great up-sides and marginal downsides (opportunity cost); but failure to act has enormous downside for marginal upside.
 

@@ -13,7 +13,7 @@ The Energy-Water Nexus
 
 Substitution silliness aside, water and energy are intimately related in what has been termed the Energy-Water Nexus (see for example the [article by Michael Webber](http://proceedings.aip.org/resource/2/apcpcs/1401/1/84_1 "Webber article on energy-water nexus") from [this conference compilation](http://proceedings.aip.org/resource/2/apcpcs/1401/1 "AIP volume 1401 conference proceedings: physics of sustainable energy"); sorry about the paywall). We’ll explore aspects of this connection here, touching on pumping water, use of water for the production and extraction of energy, and desalination. As glaciers and snowpack melt and drought becomes more common in the face of climate change, our water practices will need to be modified, hitting energy right in the nexus.
 
-## Household Water
+### Household Water
 
 Let’s start at the familiar level. A typical San Diego residence uses 14 hundred cubic feet (1hcf = 748 U.S. gallons = 2831L) of water each month—working out to 138gal/day (520L/day) per person, assuming an average of 2.5 people per residence. Based on backpacking experience, this is more than one hundred times as much water as is necessary to satisfy basic needs.
 
@@ -29,11 +29,11 @@ Presumably, much of it goes into creating green lawns in a semi-arid desert: San
 
 One final comment on domestic water. Each month, I pay a \$19.33 base rate for water service (not including wastewater service, which is a comparable charge). Then it’s \$3.61 per hcf of water used. So my monthly water bill comes to about \$26. Meanwhile, the average residence pays \$70 for their 14hcf allocation. I’m paying about 2.7 times as much per gallon as the average resident: my reward for conserving, apparently. A further amusement is that my water service issued a “20 gallon challenge,” which asks residents to shed 20 gallons per day per person. Setting aside the temporary native-plant irrigation, our 38gal/day household usage would mean that rising to the challenge would result in our **complete abstention** of utility water usage. In fact, it would require each of us to cough up (not literally) a gallon of water each month to donate to the utility. Good thing we have rain catchment.
 
-## National and Statewide Usage
+### National and Statewide Usage
 
 The USGS provides [national water use estimates](http://pubs.usgs.gov/fs/2009/3098/ "USGS water report, 2005") every five years. For 2005, the total 410 billion gallons per day works out to about 1330gal/day per person. This drops in half if excluding water used for cooling power plants. For California, 81% of the withdrawals were for power plants and irrigation, leaving 240 gallons per day per individual in the state.
 
-## Energy for Water
+### Energy for Water
 
 A [2006 report](http://www.fypower.org/pdf/CA_WaterSupply_Electricity.pdf "CA Water Supply & Electricity") pegs the total amount of water-related energy use in California at 52 billion kilowatt-hours annually. This computes to about 6GW of continuous power expenditure, or 160W per person. Not a trivial amount. Of the 52TWh, 32 are performed by the end user for heating, cooling, moving, filtering, or pressurizing the water. The other 20TWh goes into pumping water across the state, including over mountain ranges. That’s about 8% of California’s electricity demand!
 
@@ -41,7 +41,7 @@ As a lark, if we dumped all 52TWh of energy into the annual California water sup
 
 Combining the energy and volume numbers in another way, each gallon of water in California comes with an average energy price tag of 0.004kWh, or 0.0015kWh for the pumped-delivery charge alone. This means that a 1hcf unit costs just a bit over 1kWh to deliver.
 
-## Water for Energy
+### Water for Energy
 
 But there is another direction to consider as well. Power plants generally use water as a conveyance for waste heat, and withdraw far more water than any other entity in the U.S. (including agriculture). According to the [EPA](http://www.epa.gov/region9/waterinfrastructure/waterenergy.html "EPA water-energy connection"), every kWh of energy delivered demands the participation of 25 gallons (95L) of water. Most of this is either returned to the source (warmer by 17°C, I calculate) or preserved in a closed system. But 2 gallons are lost for each kWh of energy delivered (regionally variable: much higher in arid regions). Luckily, the resulting kWh is sufficient to deliver another 750gal to the door, so there’s no spiraling trap preventing us from consuming water in this way.
 
@@ -53,7 +53,7 @@ Hydraulic Fracturing (“fracking”) for natural gas appears to require [10L/GJ
 
 But the real water hog for energy purposes is **biofuels**. Each gallon of fuel produced may consume something on the order of 1000 gallons of water ([regionally variable](http://www.livescience.com/3487-study-biofuel-threatens-water-supplies.html "LiveScience article")). That’s about 25 gallons per kWh, to put it in the same units as we discussed for power plants. Naturally, the impact depends on the degree to which irrigation is employed vs. natural rainfall. I would assume that the amount of water used in the refining/processing is similar to that for gasoline and therefore does not contribute much additional burden.
 
-## Desalination
+### Desalination
 
 Another domain in which energy and water concerns collide is in desalination operations. One possible solution to Southern California’s reliance on water pumped over mountains from the north is to make use of the ocean of water breaking onto the local beaches.
 
@@ -81,7 +81,7 @@ What about California as a whole? San Diego county is not a heavy agricultural c
 
 Another way to slice this problem is to ask what fraction of California’s water could be provided by using the amount of energy that currently goes into pumping water around the state. We use 20 billion kWh of annual electricity for pumping, translating to about 6.5GW of continuous thermal power. This amount of thermal power could meet 4.5% of California’s water needs via desalination. When we currently spend 8% of our electricity delivering 100% of our water, and would only meet 4.5% of our water needs by the same energy investment directed to desalination, we can appreciate the crunch.
 
-## Will the Nexus Vex Us?
+### Will the Nexus Vex Us?
 
 What a surprise—the world is a complicated place with interdependencies. Is the water-energy connection more than an academically interesting tangle? I think so. Water is undeniably important to our physical survival, and energy is the main physical ingredient in our development of modern society. Shortages in either could have major impacts, and their entanglement means that a shortage in one could trigger a shortage in *both*. Seems like a problem—especially in light of increasing population pressure and intensifying effects of climate change.
 

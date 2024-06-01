@@ -19,7 +19,7 @@ For example, it does not much matter that Titan has enormous pools of methane un
 
 In this post, we will summarize the ins and outs of the various prospects. Interpretation will come later. For now, let’s just wrap it all up together.
 
-## The Matrix
+### The Matrix
 
 Would you like to know what the matrix is? Okay. I’ll tell you—in a bit. For each of the major energy hopefuls I have discussed on Do the Math, I characterize their various attributes in a three-tier classification: adequate (green); marginal (yellow); or insufficient (red)—possibly a showstopper. The scheme is qualitative, and I am sure some will disagree with my assignments. Before I go any further, let me say that I will not entertain comments griping about why I made a certain square the color I did. I won’t have time to respond at that level, given that there are 200 colored boxes in the matrix. But the beauty is, you can change the matrix *any way you see fit* and make your own custom version. Go buy some crayons today!. The matrix I’ve created is not without its biases and subjectivity. Whose would be?
 
@@ -53,11 +53,11 @@ Yellow boxes tend to deserve explanation. It is usually clear why something woul
 
 Now, equal weighting on all ten criteria is boneheaded. But the assessment is imprecise enough not to warrant a more elaborate weighting scheme. I do not stand firm behind the order that results, and am half-tempted to monkey with weighting schemes until a more preferred order emerges. But I would be cooking the books to further match my preferences. Feel free to weight any way you see fit, and change anything else while you’re at it. Just remember. No griping.
 
-## Fossil Fuels, Compared
+### Fossil Fuels, Compared
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2012/02/ff-score-1024x155.png "ff-score")](https://dothemath.ucsd.edu/wp-content/uploads/2012/02/ff-score.png)Note that **conventional fossil fuels**, matrixed-out above, score *green in almost every category*, except—unfortunately—abundance (see [here](https://dothemath.ucsd.edu/wp-content/uploads/2012/02/ff-score-cb.png "ff-score R/G colorblind-friendly") for R/G colorblind version). The efficiency is high for direct heating (most often natural gas), and middling for electricity or transport. Coal gets no points for transportation, and natural gas is of limited use here (although the bus I’m riding as I type this is powered by natural gas, so I can’t entirely nix its transportation capability). All things considered, *all* of the fossil fuels get a score of 7 or 8. Note the **striking gap** we face between fossil fuels and their alternatives, topping out at a score of 5. One might ding the fossil fuels a point or two for their greenhouse gas contributions, closing the gap a bit. None of the options in the alternatives matrix are intrinsic carbon emitters.
 
-## Quick Lessons
+### Quick Lessons
 
 Looking at some of the main trends, **very few** options are both **abundant and easy**. Solar PV and solar thermal qualify. A similar exclusion principle often holds for abundant and demonstrated/available. There is a reason why folks (myself included) like solar.
 
@@ -73,7 +73,7 @@ A **few options** are available for the **homestead**. A passive solar home with
 
 The missing category here is **cost**, although difficulty may be an imperfect proxy. As a result, some of the high-scoring options may more be costly than we’d like. Actually, some of the lowest-scoring options are the costliest! If you’re expecting that we’ll replace fossil fuels *and* do it on the cheap, you might as well learn to bawl on the floor kicking and pounding your fists, tears streaming. This is our predicament. We have to buck up and deal with it, somehow.
 
-## Individual Discussion
+### Individual Discussion
 
 For each topic, the link at the beginning points to a more complete discussion on Do the Math. Here, I just briefly characterize each resource in relation to the matrix criteria.
 
@@ -117,7 +117,7 @@ For each topic, the link at the beginning points to a more complete discussion o
 
 [D-D Fusion](https://dothemath.ucsd.edu/2012/01/nuclear-fusion/): Replacing tritium with deuterium means abundance of materials is no concern whatsoever for many billions of years. As a trade, it’s substantially harder than D-T fusion (or we would not even consider D-T). D-D fusion requires higher temperatures, making confinement that much more difficult. It is for this reason that I gave D-D fusion a −2 score for difficulty. It’s not something we should rely upon to get us out of the impending energy pinch, which is my primary motivation.
 
-## End of an Era
+### End of an Era
 
 Not only does this conclude the end of the phase on Do the Math where we evaluate the quantitative and qualitative benefits and challenges of alternatives to fossil fuels, it also points to the fact that we face the end of a golden era of energy. Sure, we managed to make scientific and cultural progress based on energy from animals, slaves, and firewood prior to discovering the fossil fuels. But it was in unlocking our one-time inheritance that we really came into our own. Soon, we will see a yearly decrease in our trust fund dividend, forcing us to either adapt to less or try to fill the gap with replacements. What this post and the series preceding it demonstrates is that we do not have a delightful menu from which to select our future. Most of the options leave a bad taste of one form or the other.
 

@@ -19,7 +19,7 @@ In the slapdash scoring scheme I employed in [the alternative energy matrix](htt
 
 The gulf between fossil fuels and their alternatives tends to be rather large in terms of utility, energy density, practicality, ease of use, versatility, energy return on energy invested, etc. In other words, we do not merrily step off the fossil fuel ride onto the next one by “just” allowing the transition to happen. The alternatives come at a cost, and we will miss the golden days of fossil fuels. But wait…what’s that murmur? Not dead yet?
 
-## Still Got It?
+### Still Got It?
 
 Before we leave fossil fuels for dead, we should understand that peak oil happens around the time that the resource is half-depleted. So we’ll have many decades of conventional oil, albeit at dwindling rates. Likewise for gas and coal, whose peaks may be decades away still (but likely this century all the same). My main concern is how we cope with the decline stage of fossil fuels, which is not as final as being dead, but effectively forces us into a new era of energy transition. Because conventional oil will begin its decline first, a chief concern is how we might replace its function for transportation. Rather than write off fossil fuels completely, some see promise in what alternative fossil fuels might offer.
 
@@ -34,7 +34,7 @@ Cost of extraction tends to rise as energy prices rise, and these estimates are 
 
 Let’s just put a timescale on this resource. 4.5 trillion barrels of remaining “liquid” hydrocarbons, at today’s rate of petroleum use, would last about 150 years. But it does not work this way. In most aggregate resource situations, the peak rate of production is reached when half the resource is gone. In this case, our total 5.5 trillion barrel “liquid” resource—past and present, devoting remaining coal and gas to liquid form—would be halfway depleted in 60 years, assuming the alternative fossil fuels can step up to the rates we enjoy today. And this does not allow for competing uses for gas and coal, acting to reduce substantially the time-to-peak if fully exploited, so these numbers are too optimistic. Even so, by another measure, if we resumed our growth track of energy use, for instance at 2% per year (more modest than historically typical 3% per year), we would burn through 4.5 trillion barrels of liquid fuel in 70 years. We would reach the halfway point (peak) in 50 years, before tapering down. Any way you cut it, chasing after sub-prime hydrocarbons is another short ride, ending this century, that has the ill side effect of putting us deeper in the climate hole.
 
-## The Hirsch Report
+### The Hirsch Report
 
 In 2005, the U.S. Department of Energy commissioned a study of peak oil and its ramifications. Called the [Hirsch Report](http://www.netl.doe.gov/publications/others/pdf/Oil_Peaking_NETL.pdf "Full Report (PDF)") ([summary](http://www.acus.org/docs/051007-Hirsch_World_Oil_Production.pdf "Hirsch Report Summary")) after its lead author, the focus centered not on *when* the peak would occur, but rather on *what we could do* to mitigate the damaging effects. The report rightly identified the peak oil predicament as a **liquid fuels** problem, since electricity and heat are more easily substituted by alternative means—though not trivially so.
 
@@ -62,7 +62,7 @@ Collecting some thoughts, the mere existence of alternative hydrocarbons in the 
 
 Now let’s look at the Hirsch Report options, recognizing that at best, all but the first are stopgap “solutions” based on a finite resource.
 
-## Improved Efficiency
+### Improved Efficiency
 
 Not technically a finite fossil fuel resource, improving the efficiency of our current automotive fleet does not represent a departure from fossil fuels, but aims to slow down their rate of use. I am a big fan of efficiency gains, and think there are always places to cut. On the other hand, efficiency gains tend to be slow, and do not have unlimited potential, as detailed in the post on [limits to economic growth](https://dothemath.ucsd.edu/2011/07/can-economic-growth-last/ "Do the Math: Can Economic Growth Last?").
 
@@ -70,11 +70,11 @@ Consider that improved efficiency has been an ever-present goal of our car indus
 
 Largely, efficient transport is a well-squeezed lemon. Sure, we’ll get more drops out and should make every effort to do so: 1% per year can make a respectable dent in a 3% decline. Accepting behavioral changes could bring a fresh lemon to the scene. Another way to say this is that we will only see *substantial* improvements in vehicle efficiency if we change our expectations about what a car is supposed to do (or migrate away from personal cars as a primary means of transportation).
 
-## Enhanced Oil Recovery
+### Enhanced Oil Recovery
 
 A number of techniques exist to improve the fraction of oil in a well that can be brought to the surface. Of course oil developers use every practical tool at hand to stimulate oil flow: pressurized water injection, horizontal drilling, hydraulic fracturing, and injection of gas like CO₂ to dissolve into the oil and allow it to flow more easily. This last technique generally goes under the heading of Enhanced Oil Recovery (EOR), and can improve the extraction of oil by about 10% of the original in-ground amount. It runs a bit on the expensive side, but **future energy will be expensive** anyway. So this technique will help offset the decline, if employed at large scale, and has the advantage of delivering light crude oil that our infrastructure is geared to process.
 
-## Heavy Oil and Tar Sands
+### Heavy Oil and Tar Sands
 
 Some oil, like the stuff in Venezuela, is substantially more viscous than conventional oil, approximating tar. Additionally, tar sands in Canada offer similar raw material for making synthetic crude oil. These two resources combined may supply something like half-a-trillion barrels of feedstock. California has a bit as well. Presently, Canadian production is a little over 1 million barrels per day (Mbpd), while Venezuelan production is a little less than this. Optimistic projections expect 3–4Mbpd by 2020 in Canada. For scale, ten years of conventional oil decline at 3% per year will leave a shortfall over 20Mbpd. Venezuela is not expected to move so quickly. Put together, these might be able to offset a quarter of the conventional decline—having a head start over other options.
 
@@ -82,7 +82,7 @@ Heavy oil and tar sands require more effort to extract and process than conventi
 
 Heavy oil and tar sands will no doubt relieve some pressure on declining conventional oil, but they are capable of only partial relief. In other words, just because we believe the resource to be half-a-trillion barrels, rate-limited extraction will limit its ability to mitigate conventional oil decline. Did anyone notice that the U.S. does not own either of the large heavy deposits? Hey. Don’t discount Canada: last time we were in a war with them they burned down our White House!
 
-## Coal Liquefaction
+### Coal Liquefaction
 
 When pressed, societies have in the past resorted to synthesizing gasoline out of coal, in a method known as the Fischer-Tropsch (F-T) process. Coal, which is mostly carbon, is partially combusted, or “gasified,” to make carbon monoxide. The CO is combined with hydrogen gas to make long-chain alkanes like octane, spitting the oxygen out in the form of water. One typically uses CO also to create the hydrogen gas from water via CO+H₂O→H₂+CO₂. Thus only one of every two carbon atoms winds up in the synthetic fuel, the other lost to CO₂.
 
@@ -100,7 +100,7 @@ How do these numbers translate into oil production? One kilogram of coal, contai
 
 Could we imagine ramping up coal production at anything approximating this scale? Again, it could certainly contribute to easing the decline, but is likely incapable of carrying the load on its own—if we would even want it to do so, given the many downsides of coal. We are presently striving to use *less*, not more.
 
-## Gas to Liquids
+### Gas to Liquids
 
 As with coal, methane gas can be synthesized into liquids like octane via the Fischer-Tropsch method. In this case, steam is mixed with methane (CH₄) to produce CO and hydrogen gas. Then the CO is combined with hydrogen in the usual F-T dance. This time, all the carbon goes into the fuel since the necessary hydrogen is provided by methane, and is therefore a more efficient process. In either the coal or natural gas route, all the carbon ends up in the atmosphere after combustion anyway (unless one of the carbons is captured in the coal version), so no big difference there.
 
@@ -110,7 +110,7 @@ Estimates of how much natural gas is available is all over the map. Conventional
 
 For example, the U.S. Energy Information Agency projects that shale gas—currently at about 15% of domestic gas production— will nearly triple by 2035 to be our single biggest resource for natural gas. This is on top of a conventional supply that falls by 29% over the same period. In aggregate, the rapid expansion of shale gas allows a slow net growth rate of 0.4% per year. The faith in shale gas to deliver already seems stretched a bit, so that it is difficult to assess the likelihood of net gas production growth at all. And even if it does grow, the 0.4% per year projection falls *far* short of the 6% level that would be needed to offset a 3% per year decline in oil.
 
-## Where Does this Leave Us?
+### Where Does this Leave Us?
 
 We built this world on fossil fuels. It is distressing to realize that our primary fuels will begin an inexorable decline this century. The result is that we will have difficulty even maintaining our current energy expenditure rate—let alone continuing our historical 3% annual energy growth rate. A major adjustment is in the offing. Economic growth, look out!
 

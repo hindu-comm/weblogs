@@ -17,7 +17,7 @@ A narrative has developed around this theme that we take in low entropy energy a
 
 But wait just a minute! The preceding paragraph is **mostly wrong**! An unfortunate conflation of the concepts of **entropy** and **disorder** has resulted in widespread misunderstanding of what **thermodynamic entropy** actually means. And if you want to invoke the gravitas of the Second Law of Thermodynamics, you’d better make darned sure you’re talking about *thermodynamic* entropy—whose connection to order is not as strong as you might be led to believe. Entropy can be quantified, in Joules per Kelvin. Let’s build from there.
 
-## The Measure of Entropy
+### The Measure of Entropy
 
 From a thermodynamic standpoint, the total entropy of a system has a simple definition. If I add an amount of energy *ΔE* (measured in Joules, say), to a system at temperature *T* (measured on an absolute scale, like Kelvin), the entropy changes according to *ΔS=ΔE/T*. The units are Joules per Kelvin.
 
@@ -29,7 +29,7 @@ Most materials have a specific heat capacity dropping to zero at zero temperatur
 
 Because entropy and heat capacity are so intimately related, we can instantly order entropies of everyday substances: metals are lowest, followed by stuff like wood and rock, and liquids have the highest (water, especially), on a per-kilogram basis.
 
-## Where is the Disorder?
+### Where is the Disorder?
 
 Note that we have managed to quantify entropy—at least in broad brush, order-of-magnitude style—without making reference to order.
 
@@ -37,7 +37,7 @@ Well, it turns out that if one can count the number of quantum mechanical states
 
 It is this amazing relationship that forms the foundation of **statistical mechanics**, by which classical thermodynamics can be understood as the way energy distributes among microscopic states in the form of velocity distributions, collisions, vibrations, rotations, etc. Intuitively, the more ways energy can tuck into microscopic modes of motion, the less apparent it is to the outside world in the form of increased temperature. A system with deep pockets will not increase temperature as much for a given injection of energy. Substances with higher heat capacities have deep pockets, and therefore more ways to spread out the energy internally. The states of these systems require a greater amount of information to describe (e.g., rotational and vibrational modes of motion in addition to velocities, intermolecular interactions, etc.): they are a mess. This is the origin of the notion of entropy as disorder. But we must always remember that it is in the context of how energy can be distributed into the *microscopic* states (microstates) of a system.
 
-## Informational Entropy
+### Informational Entropy
 
 The fans went wild. In 1949, Claude Shannon was characterizing information loss, and needed a term for the degree to which information is scrambled. Visiting mathematical physicist John von Neumann, he received the following advice:
 
@@ -47,7 +47,7 @@ Gee, von Neumann couldn’t have been more right. The resulting duplicate use of
 
 But informational entropy does not generally transfer into the thermodynamic realm. A deck of cards has the **same** thermodynamic properties (including thermodynamic entropy) *no matter how* the cards are sequenced within the deck. A shuffled deck has increased informational entropy, but is thermodynamically identical to the ordered deck.
 
-## What’s the Difference?
+### What’s the Difference?
 
 To determine whether two different states of some real or imagined system is meaningfully different in thermodynamic entropy, ask yourself these questions:
 
@@ -72,7 +72,7 @@ Same grains, mixed up: entropy unchanged.
 
 Another way to say this is: it does not make sense to characterize the entropy of a given frozen arrangement. The salt and coffee example, whether mixed or separated (with no barrier between, let’s say) are both equally probable instances of the same system energy. Yes, there are myriad more ways to arrange a mixed state. But a *particular* mixed state is just as special as the separated piles. If we had a removable barrier between separated piles and provided a random agitating process by which grains could rearrange themselves on relevant timescales, then we *could* describe the entropy difference between the *ensemble* of separated states *with* a barrier to the *ensemble* of mixed states *without* a barrier. But we can’t really get away with discussing the entropy of a particular non-thermalized (static) arrangement.
 
-### Nitpicky Difference
+#### Nitpicky Difference
 
 Okay, after saying that configuration changes of macroscopic arrangements effectively carry no difference in thermodynamic entropy, I will make the tiniest retraction and clarify that this is not *exactly* true. Going back to the coffee/salt grains example, a system of two species of particles *does* carry a finite and quantifiable entropic change associated with mixing—assuming some agitating mechanism exists. In the case where the number of grains per unit area is the same for the two clusters, the post-mixed arrangement (occupying the same area as the initial separate piles) has an entropy change of
 
@@ -82,13 +82,13 @@ In atomic and molecular arrangements, we commonly deal with **moles** of particl
 
 So there *can be* a real thermodynamic difference between the two states, some twenty orders of magnitude down from the gross thermodynamic entropy of the system. Why do I use the words “can be” and not the simpler “is?” Because question 2 comes in. If there is no statistical process by which the particles can thermalize (mix) over timescales relevant to our interest, then the entropy difference has no meaning. If we apply the test in question 1 to the pre-mixed and post-mixed piles, the procedure does not provide an opportunity for random rearrangements, and thus no measured change in system entropy will manifest itself in an observable way.
 
-## Some Examples
+### Some Examples
 
 In order to clarify some mistaken themes relating to entropy, let’s look again at the third paragraph of the post, repeated here:
 
 > A narrative has developed around this theme that we take in low > entropy energy and emit a high entropy wake of waste. That life > displays marvelous order—permitted by continuous feeding of this low > entropy energy—while death and decay represent higher entropy end > states. That we extract low entropy concentrations of materials (ores) > from the ground, then disperse the contents around the world in a > higher entropy arrangement. The Second Law warns that there is no > going back: at least not without substantial infusion of energy.
 
-### Low Entropy Energy?
+#### Low Entropy Energy?
 
 Characterizing an energy source as high or low entropy makes little sense. Take the Sun, for example. The surface of the Sun is about 5800K. Every Joule of energy that leaves the Sun removes about 0.17mJ/K of entropy from the Sun, according to *ΔS=ΔE/T*. In this way, the Sun’s total entropy actually *decreases* with time (internally, it consolidates micro-particles: hydrogen into helium; externally, it spews photons, neutrinos, and solar wind hither and yon). So the Sun is a prodigious *exporter* of entropy. Let’s say we catch this Joule of energy on Earth. When absorbed at a temperature of 300K, we could say that we have deposited 3.3mJ/K of entropy. So that Joule of energy does not have a fixed entropic price tag associated with it: 0.17mJ/K became 3.3mJ/K. If we cleverly divert the energy into a useful purpose, rather than letting it thermalize (heat something up), the Second Law requires that we at least increase terrestrial entropy by 0.17mJ/K to balance the books. We are therefore mandated to deposit at least 0.17/3.3, or 5% (50mJ) of the energy into thermal absorption, leaving 0.95J free to do useful work. This results in a 95% efficiency, which is the standard thermodynamic limit associated with operation between 5800K and 300K (see related [post on heat pumps](https://dothemath.ucsd.edu/2012/06/heat-pumps-work-miracles/ "Heat Pumps Work Miracles")).
 
@@ -96,7 +96,7 @@ The point is that rather than characterize solar input energy as low entropy (li
 
 By the way, the entropy of the Earth as a whole, like the Sun, also decreases in the long term, made possible by a net exodus of stored thermal energy and the lightest gases (hydrogen and helium).
 
-### The Quick and the Dead
+#### The Quick and the Dead
 
 What about the entropy of living vs. dead things? If we drop our notion of which is more or less orderly, and think thermodynamics, it becomes easy. A 50kg living person has lots of water content. The heat capacity is high. The entropy of this system is large. A dry, decaying corpse, let’s say also 50kg, has a lower heat capacity, lacking liquids. So the thermodynamic entropy of the corpse is lower than that of the living thing.
 
@@ -104,7 +104,7 @@ This comparison may or may not be surprising, but it wasn’t necessarily fair. 
 
 A related matter is the notion that we eat low entropy food and produce high entropy waste. In this context we associate “usefulness” with entropy—or lack thereof. We can eat a useful burrito, but cannot derive sustenance by eating our solid waste. In a direct comparison, the solid waste (out of which our bodies remove as much water as possible) has lower thermodynamic entropy than the same mass of burrito—since the latter has more water content. Sorry to be gross here, but this makes the comparisons personally relevant. Sure, the *system* entropy increased in the process of digesting food (e.g., via respirated gases). But the measure of thermodynamic entropy for a “thing” is not a measure of its usefulness.
 
-### Mining Materials
+#### Mining Materials
 
 The story goes that we extract low entropy (i.e., concentrated) resources from the ground, and turn them into high entropy products. Sometimes this happens, but often it is the reverse. When we pull fossil fuels out of the ground and combust them into several species of gases, we increase entropy. All the king’s horses and all the king’s men will never put fossil fuels back together again. At least not at an energetic bargain.
 
@@ -116,7 +116,7 @@ Note that if for some reason I happened to be interested in the material with hi
 
 The other way to look at the ore situation is to take 100kg of a 1% concentration ore, and separate it into 99kg of rock and 1kg of the target material. What is the entropy difference in the original ore and the separated piles? As long as the grain size of the good stuff is semi-macroscopic (well away from atomic scale), then the entropic difference is negligible. If it is chemically mixed at the atomic scale, like if we wanted to extract chlorine from salt, then the entropy difference could in principle go either way, depending on resultant material properties. But the sorting process has negligible impact on entropy.
 
-## Interpretation
+### Interpretation
 
 The context of this discussion is mis-application of the Second Law of Thermodynamics to systems that might appear to exhibit entropy differences in the form of orderliness of macroscopic arrangements of matter. But many of these “intuitive” cases of entropy differences translate to little or no *thermodynamic* entropy differences, and therefore do not fall under the jurisdiction of the Second Law.
 

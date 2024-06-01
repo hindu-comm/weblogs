@@ -23,7 +23,7 @@ Some of that admiration will surely stay with me forever, but when I peel back l
 
 For the first example, I will spell out the exchange, but will condense the process for future examples. Be aware that these are not actual exchanges: I am doing my best to provide answers that I *think* would likely come from scientifically-minded people in our society, based on having been one and still being immersed in the culture. But it’s worth knowing that I may not be fairly representing the other side of the imagined conversation.
 
-# Bananas!
+## Bananas!
 
 Statement: We have learned that ripening bananas in proximity to others cause them to ripen faster due to ethylene emissions from nearby ripening fruit.
 
@@ -55,7 +55,7 @@ I’ll stop it here, but perhaps see my comments on the [implications of support
 
 In this scenario, the underlying value judgments (what’s good or bad) involved humans, and cannot be buttressed by scientific argument or logic. Sure, lots of people may *want* to support as many humans as possible, but we lack objective proof that this is the best thing to do. Ecological trends might credibly argue the reverse. In general, following the chain in this way eventually leads to beliefs or values—usually of the unquestioned sort.
 
-# Cancer Cause
+## Cancer Cause
 
 Here’s another sequence. Statement: We understand that mutations to DNA from high-energy particles (e.g., cosmic rays, radioactive decay) can lead to runaway growth, which causes cancer.
 
@@ -79,7 +79,7 @@ What might possibly be amiss, here? Enhancing benefits that are exclusive to dom
 
 This example is, understandably, laced with connection to human concerns from the very first bullet. Yet, note that both examples (quickly) led to the topic of human health and well-being. I suspect that would be typical of many of these chains. Let’s try one that seems less directly related to humans at the start.
 
-# Pascal’s Triangle
+## Pascal’s Triangle
 
 Statement: Pascal’s Triangle is super cool. It connects to so many applications, like probabilities (combinatorics), binomial expansions, series and sums, and even the Twelve Days of Christmas song.
 
@@ -107,7 +107,7 @@ And why is that desirable?
 
 This one took longer to connect to human concerns, but wound up there. I suspect most any statement, when pressed in this way, would end up in a similar place for most people in our society: the values of modernity are anthropocentric, so digging down to root values will probably lead to a similar result from almost any starting point.
 
-# An Important Window
+## An Important Window
 
 It’s probably obvious why I am pursuing this line of thought. Dogged repetition of the “why is that desirable” question provides a window into our human supremacist culture. According to this pervasive club, anything that’s good for humans (in the short term) is unambiguously good.
 
@@ -117,7 +117,7 @@ Maybe none of this seems problematic: why would centering values around human co
 
 The issue I have is that humans have developed such profoundly powerful capabilities that operating so powerfully under an anthropocentric paradigm becomes staggeringly destructive to the more-than-human world. The Nazis would not have been threatening if their capabilities did not extend much beyond baring teeth and throwing feces. But the Wehrmacht was a formidable force. Supremacism and crack capabilities make a dangerous pair, which describes modernity pretty well. By favoring ourselves, and stacking the deck so that we [win practically every contest](https://dothemath.ucsd.edu/2023/10/cheaters/), we not only destroy innocent and intrinsically valuable species but in the end ironically make ourselves losers as well. And why is that desirable?
 
-# Postscript
+## Postscript
 
 As an afterthought, it might be instructive to tackle this exercise from an Indigenous perspective—being clear that I am not well qualified to do so. When asked “and why is that desirable?” to the three cases above, what if the answers are all: “It’s not.” End of chain. No connection to deep values. Ambivalent, at best.
 

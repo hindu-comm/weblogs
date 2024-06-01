@@ -13,7 +13,7 @@ MPG of a Human
 
 Okay, the “miles” part is straightforward. And we can handle the “per.” But what’s up with the gallon? A gallon of what? Here we have all kinds of options, as humans are flex-fuel machines. But food energy is not *much* different from fossil fuel energy in terms of energy density.
 
-## Food Energy
+### Food Energy
 
 Nutrition labels in the U.S. use **kilocalories** (or Calories with a capital “C”) as an energy measure. One [kilocalorie](https://dothemath.ucsd.edu/useful-energy-relations#kilocalorie "Do the Math: useful energy relations") (kcal) is 4.18kJ of energy. Carbohydrates and protein come in at 4kcal/gram, while fat registers 9kcal/g. For comparison, coal ranges from 4–7kcal/g, gasoline is 10kcal/g, and natural gas is 13kcal/g. So fat is pretty much like gasoline.
 
@@ -23,7 +23,7 @@ Besides the energetic components, water and fiber also contribute to mass/volume
 
 Couldn’t we do better by eating a bucket of lard? Energetically, yes. But would you really feel like walking or biking afterward? Or would you rather lie on the floor moaning in discomfort? I will default to packing our gallon of food with the “standard” fare of burritos, lasagna, etc. to make for a realistic calculation, but we’ll occasionally multiply our result by a factor of 4.5 to get the gas/lard equivalent.
 
-## Biking Drag
+### Biking Drag
 
 For the bike, the approach is pretty similar to that for the car, in that the dominant effect is aerodynamic resistance. For the [car case](https://dothemath.ucsd.edu/2011/07/100-mpg-on-gasoline/ "Do the Math: 100 MPG from Gasoline?"), we learned that the energy required to go a distance *D* at velocity *v* is ½*c*_(D)*ρADv*², where *A* is the frontal area presented to the wind, *ρ*=1.3kg/m³ is the density of air at sea level, and *c*_(D) is the coefficient of drag (about 0.8 for a cyclist). If we take the area to be 0.5m² (approximately a half-meter wide by a meter tall in biking posture), we find that it takes about 13 Newtons of force to push against the wind, turning into 13kJ to travel 1km (1000 meters) at 7m/s (15m.p.h.). Interestingly, the effective “drag area,” *c*_(D)*A*≈0.4m² for a bicycle can be beat by an entire four-seat car having, for example, a frontal area around 2m² and *c*_(D)≈0.2.
 
@@ -37,13 +37,13 @@ Once you’ve recovered from that perversion, we should add rolling resistance, 
 
 A mile is 1.6 times as far, so that we require 25kJ = 6kcal of delivered energy to bike a mile. This is a tiny fraction of the caloric content of our gallon of food, implying that we could go for almost 1150 miles per gallon!
 
-## Physique Physics
+### Physique Physics
 
 Alas, our bodies are not 100% efficient at converting food energy into mechanical output. But at about 25% efficiency, we’re surprisingly good considering that most cars are around 20%, and that an Iowa cornfield is only about 1.5% efficient at converting incoming sunlight into chemical storage.
 
 Factoring in the efficiency, it takes about 24kcal to cycle a mile, which yields 290 miles per gallon of food. **290MPG!** And the gas/lard equivalent is about 1300MPG! But before our victory lap in the velodrome, we should put the bike activity in some context.
 
-## Long-Haul Biking
+### Long-Haul Biking
 
 We have only counted the *marginal* energy required to bike. For short trips around town, this is the sensible number. But for a cross-country bike trip that may last days, you would consider the cycling to be your sole energetic activity and should count *all* your food energy as going in support of that mission (even sleeping and resting are necessary to keep going).
 
@@ -51,13 +51,13 @@ We all have a baseline metabolism to just run our bodies and carry out our daily
 
 If you’re in good-enough biking shape to contemplate a multi-day cross-country trip, you can probably maintain about 100 miles (160km) per day. That 100 miles will take an extra third of a gallon of food per day, or an extra 2400kcal. Each day therefore consumes about 60% of a gallon of food, and you would therefore make 160 miles on the 7000kcal gallon of food (720 miles per gallon of gas/lard).
 
-## Biking Conclusions
+### Biking Conclusions
 
 So depending on the mode of biking and how you want to do your accounting, we got about 290MPG in town, 160MPG on the open road. Converting to the [more universal and useful measure](https://dothemath.ucsd.edu/2011/08/mpg-for-electric-cars/ "Do the Math: MPG for Electric Cars") of energy per unit distance, these numbers map to 5kWh/100-mi, and 2.8kWh/100-mi. For comparison, electric cars turn in performances around 30kWh/100-mi, and a 40MPG car uses 90kWh/100-mi (but beware a direct comparison between these last two: if the electricity is derived from fossil fuels, the fossil fuel investment becomes similar for the two: we’ll get to this for food in a bit).
 
 We didn’t take hills into account, but to the extent that ups compensate downs, and you pedal at about the same intensity regardless, the power output is constant and we can use the average flatland speed to determine the rate at which energy is exerted. In the case of a net uphill climb, a daily gain of 1000m (3300feet) elevation adds 800kcal of gravitational potential energy for our 80kg (180lb) rider-plus-bike—again using a 25% efficiency. This effectively adds a 33% energetic cost to the 100-mile day. We also neglected the start/stop energy dissipated in braking for the in-town rider, which will reduce the mileage a bit. So far, our bodies have not figured out regenerative braking.
 
-## These Boots Were Made for Walking!
+### These Boots Were Made for Walking!
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2011/11/hiking-boots-150x150.jpg "hiking-boots")](https://dothemath.ucsd.edu/wp-content/uploads/2011/11/hiking-boots.jpg)And that’s just what we’ll do now. Walking is an entirely different regime from biking. Air resistance is negligible. Power expended against the air is proportional to the cube of velocity, so a biking speed of 7m/s (15m.p.h.) expends 7³~350 times as much power to fight the air as a walking speed of 1m/s (2.2m.p.h.).
 
@@ -67,7 +67,7 @@ For walking, our 7000kcal gallon of food will propel us 75 miles down the road a
 
 If we are on a multi-day trek covering 25 miles (40km) per day, and lump the baseline metabolic energy into the mix as simply supporting the journey, we get about 40MPG on food, and 180MPG for gas/lard.
 
-## Summary Table
+### Summary Table
 
 We’ve worked through a lot of numbers, under various interpretations. I hesitate to put these numbers into a table for fear that they will be taken literally and treated as definitive numbers. *This is meant to be ballpark, people*: good to a factor of two. So here’s a table.
 
@@ -75,7 +75,7 @@ We’ve worked through a lot of numbers, under various interpretations. I hesita
 
 Another consideration to bear in mind: in most cases, cycling and walking involve a single “passenger.” A Prius loaded with four people effectively gets 200 MPG per passenger (18kWh/100-mi per passenger), so make sure to account for this when making comparisons.
 
-## Fly in the Ointment
+### Fly in the Ointment
 
 Our walking or biking economies look pretty decent stacked up against cars—especially if we considered consuming foodstuff as potent as gasoline. This is all well and good until one appreciates that because of the way Americans grow, harvest, distribute, and prepare their food, **every one kilocalorie of food eaten has consumed about 10kcal of fossil fuel energy** (dominated by oil). Our 7000kcal gallon of food therefore took 70,000kcal of fossil-fuel energy to produce, or a little over two gallons of gasoline. So you would divide the “food economy” values we calculated by 2.2 to get the fuel economy that supported your bike trip or hike. Now walking consumes 18–34MPG of oil equivalent, and biking comes in at 70–130MPG.
 

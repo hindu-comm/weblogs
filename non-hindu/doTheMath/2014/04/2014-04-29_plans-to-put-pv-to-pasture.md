@@ -13,7 +13,7 @@ Plans to Put PV to Pasture?
 
 In summary, they target two laws that give a big boost to solar: net metering, and renewable mandates. Both impart crucial advantages to solar installations that can change the economics by a large factor.
 
-## Net Metering
+### Net Metering
 
 Net metering is the practice in which a solar PV array may run the utility meter backwards in the daytime, during times of over-production, then spin the meter forward at night when the house is a net consumer. The customer only pays for net power imported over some defined period of time. Different states and municipalities have different timescales for assessing net balance. The most generous (e.g., California and many others) use an annual timescale, so that under-production in winter may be compensated by summer sunshine. Others use a monthly balance sheet. Very few states require utilities to cut a check to PV owners for net over-production. Those that do often compensate at a cost-avoided rate of a few cents per kilowatt-hour (kWh).
 
@@ -25,7 +25,7 @@ A well-sized system in an annual net-metering state will balance the books and l
 
 But it gets worse. The Koch proposal also points out that PV producers are using an electricity grid for free, even though it is costly to maintain this system. They propose that solar producers pay \$50 to \$100 per month for the grid service. That pretty much destroys *any* financial advantage to putting solar panels on your roof—however slim it already was.
 
-## Renewable Portfolio Standards
+### Renewable Portfolio Standards
 
 The mandate for a state to acquire some fraction (or absolute amount) of its electricity generation via renewable sources (solar, wind, hydro, geothermal, etc.) goes by the name: Renewable Portfolio Standards (RPS). According the [Wikipedia page](http://en.wikipedia.org/wiki/Renewable_portfolio_standard "RPS: Wikipedia"), 36 states in the U.S. have some form of RPS in place. Usually, this takes the form of a target percentage at a certain date: commonly something like 20% by 2020.
 
@@ -33,7 +33,7 @@ The RPS puts pressure on utilities to build and embrace renewable installations,
 
 The whole point of these incentives is to give an economy-of-scale kick-start to an underdog technology that is deemed likely to be important for our future. The advantages seem to be working: PV panel cost has dropped precipitously in the last five years. Given more incubation time, the hope is that solar will reach cost parity and be able to outcompete fossil interests on its own. In a similar vein, we don’t throw children (seen by some as important to our future) into adult roles at age 5: we protect and nurture (advantage) them until they are ready to face the world without help. Do the mega-rich advocate throwing auspicious children to the wolves?
 
-## Siding with the Kochs?
+### Siding with the Kochs?
 
 The solar-killing initiative is being tested in a few of the more conservative states having net metering and RPS mandates. The utility companies are giddy. Stepping into a business mindset, what the Koch brothers are trying to do makes sense. No free rides; no artificial distortions to the market (government meddling); no penalty to hard-working, legitimate, successful, and important service companies.
 
@@ -47,7 +47,7 @@ But let me share a quote hanging on the wall of the undergraduate advisor in the
 
 Tough love, but wise words. \[Clarification: I don’t want to give the wrong impression of our fabulous undergraduate advisor, who will bend over backwards to help students—within a fair framework.\] So when you hear someone—whether a kid or a billionaire—say “it’s not fair!” you are usually safe to substitute the words: “it’s not in my favor!” Sometimes both are true, but the latter phrase is nearly always on target.
 
-## A Broader View
+### A Broader View
 
 It is clear enough that net metering and RPS targets are not favorable to electric utility companies. Are they fair? That depends entirely on your world view and what you think should be the governing principles behind the rules of the game.
 

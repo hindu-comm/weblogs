@@ -11,7 +11,7 @@ Pump Up the Storage
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2011/11/Racoomtn.jpg "Racoomtn")](https://dothemath.ucsd.edu/wp-content/uploads/2011/11/Racoomtn.jpg)If we adopt solar and wind as major components of our energy infrastructure as we are weaned from fossil fuels, we have to solve the energy storage problem in a big way. An [earlier post](https://dothemath.ucsd.edu/2011/08/nation-sized-battery/ "Do the Math: Nation Sized Battery") demonstrated that we do not likely possess enough materials in the world to simply build giant lead-acid (or nickel-based or lithium-based) batteries to do the job. Comments frequently pointed to pumped hydro storage as a far more sensible answer. Indeed, pumped storage is currently the dominant—and nearly only—grid-scale storage solution out there. Here, we will take a peek at pumped hydro and evaluate what it can do for us.
 
-## Gravitational Storage Basics
+### Gravitational Storage Basics
 
 When you lift an object, you must supply a *force* to counter gravity (the weight of the object) and apply this force over the *height* through which you lift the object. The weight of an object—and therefore the force applied to lift it—is its mass times the acceleration due to gravity (application of Newton’s *F*=*ma*; in this case, *mg*, where *g* is the gravitational acceleration, or about 10m/s²). Work is defined as force times distance, so lifting an object of mass *m* a height *h* results in an energy (work) investment of *mgh*. This is called *gravitational potential energy*.
 
@@ -27,7 +27,7 @@ The main problem with gravitational storage is that it is **incredibly** weak co
 
 What we lack in energy density, we make up in volume. Lakes of water behind dams, for instance represent substantial storage.
 
-## Flow Power
+### Flow Power
 
 When water is let out from the bottom of a dam, it carries energy as if it had been “shelved” at the surface of the lake behind the dam. How does water at the bottom “know” how high the lake surface is? Pressure—which is proportional to the weight of water overhead. So let’s take a cubic meter of water, at a mass of 1000kg, and send it through the turbine. The *mgh* energy in the cube of water for a 100m high dam is (1000kg)(10m/s²)(100m) = 10⁶J, or one megajoule.
 
@@ -35,7 +35,7 @@ If this 100m high dam only has one cubic meter per second flowing through, it wo
 
 So the recipe is simple for understanding a hydroelectric dam: multiply the height of water behind the dam (in meters) by ten-thousand times the flow rate in cubic meters per second to get the power in Watts.
 
-## We Need *How* Much Storage?
+### We Need *How* Much Storage?
 
 The U.S. has a power diet of about 3×10¹²W, or 3TW. Two-thirds of this feeds heat engines (power plants, cars, etc.), at an average efficiency of 30%, delivering 0.6TW of useful work in the bargain. The other 1TW is direct heat (lots of this in industrial process heat), and electricity from nuclear and hydro sources. Imagining that we replace our heat engines with direct electricity and electrified transport, we need something like 2TW of total power, accounting for some inefficiency. If you’re happier with half this, fine—a factor of two will not qualitatively change the giant scale of the problem.
 
@@ -45,7 +45,7 @@ Note that 7 days of storage does not literally mean that we are prepared to expe
 
 So 2TW for 7 days means 336 billion kWh of storage capability.
 
-## First-Blush Pumped Hydro
+### First-Blush Pumped Hydro
 
 What scale would this amount of storage require if we did a pumped-hydro scheme? One immediate scale reference is to note that we have 78GW of installed hydroelectric power in the U.S., amounting to 4% of the target 2TW demand. Our traditional hydro capacity could not be scaled up by even a factor of two—since the premier river sites have been plucked already.
 
@@ -77,7 +77,7 @@ Hoover Dam: 221 m high; 2.0 GW power; 2.5 million cubic meters of concrete.
 
 I think at this point, you can see why quibbling about the need for 1TW vs. 2TW or requiring 2 days of storage vs. 7 days is not going break the logjam of a hard problem. Even accomplishing 1% of the requirement I have laid out would be super-impressive.
 
-## All That Concrete!
+### All That Concrete!
 
 These dam walls will require a lot of concrete. A survey of dam construction suggests that the base thickness is approximately 65–90% the height of the dam. Picking 75% and tapering to a cusp, our foregoing geometry requires a concrete volume 25% larger than *h*³, where *h* is the dam height. For our 250m set of dams, we need 19 million cubic meters of concrete apiece. Each dam then contains as much concrete as exists in the Three Gorges and Grand Coulee dams combined! And this is the “**small**” version of our dams. And we need over 2,500 of them. I’m just sayin’.
 
@@ -85,7 +85,7 @@ At an energy cost of 2.5GJ per ton of concrete, and a density of 2.4 tons per cu
 
 Note that I’m totally ignoring requirements for the lower reservoir.
 
-## Ample Room for Water Skiing
+### Ample Room for Water Skiing
 
 I’m keen now to understand what this looks like relative to our landscape. How much area will all these lakes take?
 
@@ -97,7 +97,7 @@ We get an area equivalent to 160km on a side. This is the same area as Lake Erie
 
 It is worth also comparing to the area of a photovoltaic system providing the 2TW of average power. Such performance would require 10TW of installed capacity (accounting for day/night, sun angle, weather). At 15% efficiency and 1kW/m² of incident peak solar energy, we need about 65,000 square kilometers of panel—roughly comparable scales. Keep in mind that the water area is based on over 2,500 gigantic 250m dams, each taller than Hoover Dam, and containing 8 times as much concrete. For smaller, more realistic projects, the area of water could easily exceed the solar panel area. Converting land to pumped storage carries **far** greater environmental impact than converting to a solar farm, so that storage concerns dominate. Wind takes substantially more land (about 50 times) than solar, so the pumped storage lakes would not rival the area dedicated to wind farms.
 
-## Variations and Scalings
+### Variations and Scalings
 
 We’ve relied on loads of assumptions in our exploration of the potential for pumped storage. It is easy to lose track of the choices and the impacts they have. Is the 20% slope on the sides important? How do things scale with the dam height?
 
@@ -111,7 +111,7 @@ Of course any real implementation would have a wide variety of dam heights in th
 
 A common trick is to build a large feed-tube from the bottom of the upper dam to a turbine/pump located far below. This will not be easy to accomplish everywhere, but an additional 500m drop improves the 250m dam by a factor of 3.6, and a 500m dam by a factor of 2.3. Doing this reduces the number of such projects needed by a similar factor (still large numbers). But don’t get too excited by this option: we still need a place to put the lower reservoir. If you give up too much height, you run out of natural walls and vertical relief, demanding a very large flooded area to catch the water.
 
-## Comparison to Real Examples
+### Comparison to Real Examples
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2011/11/ludington.jpg "ludington")](https://dothemath.ucsd.edu/wp-content/uploads/2011/11/ludington.jpg)
 
@@ -127,7 +127,7 @@ Raccoon Mountain: 302 m; 1.53 GW; 22 hours; 34 million kWh.
 
 What can these *real* numbers tell me about my simplified geometry and the guesses that went in? The main difference is that the Raccoon Mountain geometry has much gentler slopes: something like 3–5% up the “hollow,” and about 8% up the sides. We would need 10,000 Raccoon Mountains to meet my baseline energy capacity—although we could scale back on power per unit. This becomes 50,000 if you can’t use the trick of dumping to a reservoir far below. For 10,000 replicas of Raccoon Mountain, the total lake area (including the area of the lake below) is about three times the size of Lake Erie (Lake Superior-size). The dam volume is about one-fifth what we had before, becoming comparable to the extent that the deep-drop trick is not employed. The total volume of water sequestered is comparable for the two cases (because this is just *mgh*, and our baseline had *h*=250m, while Raccoon Mountain uses *h*=300m).
 
-## Re-purposing the Hydroelectric Infrastructure
+### Re-purposing the Hydroelectric Infrastructure
 
 If at any point in this development you thought, “wait a minute: why build all these giant dams in the mountains when we’ve got large lakes and dams already, with water already delivered to the doorstep?!” then you are not alone: I wondered the same thing.
 
@@ -137,7 +137,7 @@ The next note is that water flow is not always available to realize the capacity
 
 These points are relevant because in order to achieve the necessary 2TW power output, we need to multiply the hydroelectric capacity **flow** by a factor of 25, or a factor of 60 greater than the average flow. We might predict a few erosion problems here and there.
 
-## Let’s Do It Anyway!
+### Let’s Do It Anyway!
 
 Let’s not be wimps. Let’s just beef up our hydroelectric capacity at the developed sites and ask whether we have enough energy storage behind the dams. One way to look at this is to figure out how much power would be generated if all lakes impounded behind hydroelectric plants dropped by one meter over a 24 hour period. Computing this for each dam based on each lake’s surface area yields a total of 170GW of power. We need more than this. Our demand for electricity alone in this country averages 450GW, and of course we’re shooting for about four times this to cover all our energy demands.
 
@@ -145,7 +145,7 @@ The upshot is that getting sufficient energy out of the current infrastructure w
 
 But let’s not forget that our scheme here involves emptying all the lakes and rivers of water, and at a rate far in excess of what the channels are accustomed to carrying. It’s an extreme maneuver.
 
-## Drain the Great Lakes
+### Drain the Great Lakes
 
 While we’re having “fun,” let’s see what we could get out of the Great Lakes. The upper four lakes are all at essentially the same elevation (6 meter drop from Superior to Erie), while there is a 99m drop between Erie and Ontario. We call this Niagra Falls, although only half the drop is developed across the falls proper.
 
@@ -155,7 +155,7 @@ If we tried to trap the water in Lake Ontario so-as to spare those downstream of
 
 The pipe delivering this water to the turbines would have to be over 125 meters in diameter (or 160 tubes each 10m in diameter) to limit the velocity of the water through the pipes/turbines to below freeway speeds! What fun.
 
-## Am I Insane?
+### Am I Insane?
 
 Why do I always do this: pick a challenge and show how ridiculous it is to solve the problem by a monolithic approach? Maybe *I’m* the one being ridiculous!
 

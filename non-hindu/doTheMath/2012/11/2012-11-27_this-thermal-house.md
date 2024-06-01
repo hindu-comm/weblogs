@@ -13,21 +13,21 @@ This Thermal House
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2012/11/thermal-house-150x150.png "thermal-house")](https://dothemath.ucsd.edu/wp-content/uploads/2012/11/thermal-house.png)If you want to make your house more efficient at repelling the unpleasantness outdoors (whether hot or cold), what should you do first? Insulate the walls? Insulate the ceiling? The roof? Better windows? Draft elimination? What has the biggest effect? While I have regrettably little practical experience tightening up a house (it’s on my bucket list), I at least *do* understand heat transfer from a physics/engineering perspective, and can walk through some insightful calculations. So let’s build a fantasy house and evaluate thermal tradeoffs at 1234 Theoretical Lane.
 
-## Heat Transport
+### Heat Transport
 
 There are only three ways for heat to travel: **conduction**, **convection**, and **radiation**. No other options.
 
-### Conduction
+#### Conduction
 
 The [power](https://dothemath.ucsd.edu/useful-energy-relations/#power "Useful Energy Relations: Power") (energy per unit time) flowing across a material by conduction sensibly depends on the material properties (thermal conductivity, *κ*), the thickness of the material, *t*, the area, *A* participating in the conduction (between the cold and hot environments), and the temperature difference, *ΔT*. Without much thought, you could construct the correct relationship for the power transported by conduction by figuring out how it should scale as we change one variable or the other: *P*_(cond)=*κAΔT/t*, where *κ* is the thermal conductivity of the material, taking on units of W/m/°C in the metric system. For many building materials, *κ* is in the range of 0.1–1W/m/°C. A sheet of plywood, at the lower end of the range (*κ*≈0.12, measuring 4×8 feet, or 3m²; *t*= 0.019m, or 0.75 inches, thick) would conduct about 19W per degree Celsius presented across it.
 
-### R-value
+#### R-value
 
 The building industry characterizes materials by their R-value, which in the U.S. has the unfortunate units of ft²·°F·hr/Btu. The SI equivalent is a slightly more tidy m²·°C/W. The R-value builds the thickness, *t*, into the measure, so the same material in twice the thickness will earn twice the R-value.
 
 Relating to intrinsic properties of the material, *κ* and *t*, R_(US)=5.7×*t/κ* in the U.S., or more simply, R_(SI)=*t/κ* overseas. Our plywood from before would be characterized as R=0.9 in the U.S., or 0.16 internationally. Note that the R-value is independent of area. To get the power flow across a surface, in Watts, we replace the relation two paragraphs back with *P*_(cond)=5.7×*AΔT*/R_(US), or *P*_(cond)=*AΔT*/R_(SI).
 
-### Convection
+#### Convection
 
 Convection is at its core just conduction into a moving fluid, which then carries the heat away by simply wafting it along. Adjacent to any surface in a fluid flow is a *boundary layer* of fluid that clings to the surface, so that the thermal flow is controlled by conduction across the boundary layer. For air, *κ*≈0.02W/m/°C, and boundary layer thickness is often in the neighborhood of a few millimeters, putting the effective R-value (US) in the neighborhood of 1.
 
@@ -35,7 +35,7 @@ Boundary layers aside, convection power should be proportional to the area expos
 
 Note that we can relate *h* to the R-value in a generic equation that looks just like the conduction relation: *P=*hAΔT**=5.7×AΔT/R_(US), in which case we can identify *h*=5.7/R_(US)=1/R_(SI). In this case, the light airs of the outdoors (*h*=5) may be associated with R_(US)≈1.
 
-### Radiation
+#### Radiation
 
 Every object radiates electromagnetically. At familiar temperatures, this all transpires in the mid-infrared, peaking at a wavelength of 10 microns and petering out completely by 2μm (meanwhile, human vision is 0.4–0.7μm). The net flow, naturally, is from hot to cold, and obeys the relation: *P*_(rad)=*Aσ*(*ε*_(h)*T*⁴_(h)−*ε*_(c)*T*⁴_(c)), where *σ*=5.67×10⁻⁸W/m²/K⁴. The *ε* factors are *emissivity* values, ranging from 0.0 (shiny) to 1.0 (dull). The temperatures *must* be expressed in Kelvin, as the amount of radiation depends on the *absolute* temperature of the object. Subscripts denote hot and cold objects. We’ll ignore complications from non-uniform environments.
 
@@ -45,7 +45,7 @@ A word about emissivity. Most things have very high emissivity. Anything organic
 
 Annoyingly, radiation is not just proportional to *ΔT*, being instead proportional to the difference between the *fourth powers* of the temperatures. However, for small temperature differences on the absolute scale (fortunately commonplace), we can linearize the relation (here assuming unit emissivity) to *P*_(rad)≈*4AσT*³*ΔT*, where the *T* in the cubic term is a representative temperature, perhaps between the hot and cold. Notice that the form now looks just like convection, with 4*σT*³ replacing *h*. For the foregoing examples, if we pick *T*=283K, we find an equivalent *h*-value of 4*σT*³≈5.1. Again, this illustrates the similar magnitude of radiation and convection, in ordinary circumstances. In this example, the linearized approximation is well within a percent of the correct answer when the midpoint is chosen as the “reference” temperature, deviating by ~10% if one of the endpoints is used instead. Because radiation may be linearized in this way and expressed as an *h*-value, it, too, can be cast in terms of an equivalent R-value.
 
-## The Whole Enchilada
+### The Whole Enchilada
 
 In a real-world situation, we typically must deal with all three thermal paths simultaneously. So let’s consider a wall situated between a toasty interior and a cold, breezy exterior. From experience, the wall will be a little cool to the touch, so we have thermal flow from the room to the wall via convection and radiation. The wall itself conducts heat to the outside surface. Then convection and radiation carry heat away from there. In equilibrium (and since thermal energy is not being created or destroyed in the wall), we have a balance of equations such that *P*_(conv,in)+*P*_(rad,in) = *P*_(cond) = *P*_(conv,out)+*P*_(rad,out).
 
@@ -61,7 +61,7 @@ For an explicit example of how all this works, let’s construct a wall out of a
 
 Our total transfer through the wall therefore has three R-values in series: 0.74 to get heat into the wall, 0.9 to get heat through the wall, and 0.39 to get it off the outside surface. Summing these, we have R_(US)≈2.03 in total. For an inside-outside *ΔT*=20°C, each square meter of this wall would conduct 5.7×20/2.03≈56W.
 
-## Get Real
+### Get Real
 
 Now that we have some sense for how to handle conduction, convection, and radiation in the R-value context, we can find and use relevant R-values for common building materials. I get most of my information from this [very useful site](http://www.coloradoenergy.org/procorner/stuff/r-values.htm "R-values for building materials"), many values also being available at the [Wikipedia site](http://en.wikipedia.org/wiki/R-value_(insulation) "Wikipedia on R-values").
 
@@ -71,7 +71,7 @@ Let’s now assemble a table of values for relevant building blocks. Divide R_(U
 
 |                     |               |                                              |            | |---------------------|---------------|----------------------------------------------|------------| | **Structure**       | **% Framing** | **Elements**                                 | **R_(US)** | | Uninsulated Wall    | 15%           | air; drywall; stud/bay; plywood; siding; air | 4.1        | | Insulated Wall      | 15%           | replace bay with insulation                  | 13.3       | | Uninsulated Ceiling | 8%            | air; drywall; rafter/open; air               | 1.65       | | Insulated Ceiling   | 8%            | replace open with insulation                 | 13.0       | | Uninsulated Floor   | 15%           | air; tile; plywood; joists/open; air         | 2.5        | | Insulated Floor     | 15%           | replace open with insulation                 | 12.7       | | Uninsulated Roof    | 8%            | air; framing/open; plywood; shingles; air    | 1.85       | | Insulated Roof      | 8%            | replace open with insulation                 | 13.2       | | Single-Pane Window  | —             | no coatings                                  | 0.9        | | Dual-Pane Window    | —             | half-inch air space                          | 2.0        | | Best Window         | —             | suspended film, low E                        | 4.0        | | Door                | —             | wood, solid core                             | 3.0        |
 
-## Our Boring House
+### Our Boring House
 
 For the sake of simplicity, we’re going to make a one-story house with a square footprint. We’ll have a pitched roof with attic space, and will look at raised foundations with a crawl space underneath, and also slab foundations. We’ll adorn each side of the house with two moderate-sized windows and a front and back door. For size, we’ll go with something close to the American average of 2700ft² and take the opportunity to go metric by making our house 15m on a side, resulting in an area of 225m² or 2422ft². The walls will be 2.5m (8ft) high. For windows, we’ll make each one 1.5m² (equivalent to 16ft², or 4×4 feet). Our doors will take up 2m² each.
 
@@ -91,17 +91,17 @@ Now we’ll look at the other extreme and put R-13 insulation in the walls, ceil
 
 The floor loss is slightly exaggerated here, as the simple numbers assume the crawl space is as cold as the exterior. To the degree that this is not true, the numbers soften a bit, in proportion to the relative temperature rise. It is also the case that the air near the floor is likely to be cooler than the air near the ceiling, unless the interior air is being well mixed. This also reduces heat loss through the floor in the case that it’s colder outside than inside. Still, it is likely that insulating the floor will bring a pretty noticeable improvement.
 
-### Roof Considerations
+#### Roof Considerations
 
 Perhaps the assumption of a fully ventilated attic caused consternation. Had I assumed a sealed attic (the other extreme), the ceiling and roof would act in series to produce an R-value of 3.5 in the uninsulated case or 26.2 in the insulated case. The thermal admittance values would then be 366W/°C and 49W/°C, respectively. Our totals would go from 1150W/°C to 232W/°C. The biggest single gain would then stem from insulating the floor. But in reality, the attic tends to be closer to ambient than to interior, so that ceiling insulation is likely to remain the most important step.
 
 Assuming the attic is ventilated, most of the temperature difference between interior and exterior will appear across the ceiling, rendering the roof’s insulating qualities of secondary importance. But this neglects solar load onto the roof. Anyone who has experienced a hot attic knows that attic ventilation is inadequate to prevent the roof from heating the space. Therefore insulating the roof may become an important step in environments where cooling is a large energy sink. For places where heating is more important than cooling, it may actually be better to leaving the roof insulation off so that the winter sun provides some heating benefit by warming the attic a bit.
 
-### Slab Floors
+#### Slab Floors
 
 For slab floors, the evaluation is somewhat more complicated than for raised floors. A six-inch slab of concrete itself has an R-value of around 0.5. But below the slab is dirt. Cobbling together information from a few sources ([here](http://apps.leg.wa.gov/wac/default.aspx?cite=51-11-1003 "Washington State slab floor guidelines") and [here](http://www.geotherm.net/new_page_4.htm "some info on soil thermal properties")), I gather that dry soil has a thermal conductivity around 0.8W/m/°C, and an effective thermal thickness (length scale over which temperature gradient exists) around 0.2m. This would give it an R-value around 1.4 for a combined slab-ground R-value of 1.9, or 2.6 once factoring in the radiative/conductive coupling. But all this may not matter because the ground temperature is pretty stable throughout the year, and may reach approximate equilibrium with your house temperature—at least away from the slab edge. To address leakage out the sides of the slab (air and ground), the [Washington State site](http://apps.leg.wa.gov/wac/default.aspx?cite=51-11-1003 "Washington State slab floor guidelines") implies a loss rate of 1.2W/°C per meter of perimeter, or 72W/°C for our lovely house, which is not too different from what we computed for the insulated raised floor.
 
-## I Feel a Draft
+### I Feel a Draft
 
 Some time ago, I evaluated the thermal performance of my house (which is a slab house about two-thirds the size we’re considering in this post) in the context of [heating](https://dothemath.ucsd.edu/2012/03/home-heating-for-the-hardy/ "Home Heating for the Hardy"), and in doing so computed that my house requires 610W/°C to heat. A bit later, I looked at the [cooling performance](https://dothemath.ucsd.edu/2012/09/rocking-the-ac/ "Rocking the AC") and in the process recognized a shortcoming in my previous method of analysis. A more complete method ended up suggesting 1465W/°C. Big difference! But not only that, it seems that my house performs *worse* than our example house—despite being smaller, having insulation in the walls, varying degrees of insulation in the ceiling (some is very old and mashed thin), and double-pane windows virtually everywhere. In my case, the disappointing thermal performance does not translate into wasted energy, since I normally do not heat or cool the house. But a snugger house would be more comfortable. So what’s the deal?
 
@@ -117,13 +117,13 @@ I found the following information from [this site](http://epb.apogee.net/res/ree
 > 
 > > To get an idea of what your home’s air change rate might be, consider > that a tight, well sealed newly constructed home usually achieves .6 > air changes per hour or less. A reasonably tight, well constructed > older home typically has an air change rate of about 1 per hour. A > somewhat loose older home with no storm windows and caulk missing in > spots has an air change rate of about 2. A fairly loose, drafty house > with no caulk or weatherstripping and entrances used might have an air > change rate as high as 4, and a very drafty, dilapidated house might > have an air change rate of as high as 8.
 
-## Draft Dodging
+### Draft Dodging
 
 I am motivated to do a [blower-door](http://energy.gov/energysaver/articles/blower-door-tests "Dept. of Energy site") test to check the draftiness of my house. The idea is to seal up the house, install a large fan on the front door that pulls air out of the house, and measure the difference in pressure as a function of air exhaust rate. Also, once the house is under negative pressure, leaks can be hunted down by listening for whistles or hissing, using a smoke source, and partitioned by alternately closing/sealing parts of the house to isolate where the biggest problems lie. How can that *not* be fun?!
 
 Another technique worth mentioning is that after tightening up a house, one can still manage to provide adequate ventilation without incurring the full thermal hit by using a [heat recovery ventilator](http://en.wikipedia.org/wiki/Heat_recovery_ventilation "Wikipedia on heat recovery ventilators"). The idea is to pass the incoming air past the outgoing air in a heat exchanger (air is separated by a thin metal membrane, for instance). By the time the air emerges from either side, the incoming air has acquired the temperature of the house’s ambient air, while the exhaust air becomes much like the exterior air before emerging. The thermal losses associated with air exchange can be cut by a factor of four or more using such an approach. This would bring the previously calculated 32 W/°C down to well less than 10, and into the same ballpark as high-performance windows.
 
-## Lessons Learned
+### Lessons Learned
 
 The thermal performance of a house is not *that* hard to understand, given a bit of background and some relevant numbers. The tools developed here allow exploration of the relative merits of new windows, insulation projects, ventilation management, etc. Of primary importance is the ability to lump all three thermal pathways into an R-value framework so that composite structures may be evaluated and compared. By adopting units of W/°C, we can quickly understand the heating requirements for a given temperature difference, or simply use the number as an indication of thermal quality.
 

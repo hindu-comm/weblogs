@@ -110,7 +110,7 @@ Now. Let’s come at our purported luckiness again from a new understanding, pau
 Once shedding the menacing mantle of [human supremacy](https://dothemath.ucsd.edu/2022/02/human-exceptionalism/) and affording consideration for *all life*, the answers to these questions flip from the unthinking and obvious “yes” to a more informed but very clear “no”—or at least “not so fast.” When wild land mammal mass is down to 20% the pre-industrial level and the average decline in vertebrate populations is 70% since 1970, WE are not doing very well at all. Something has gone horribly wrong, and is rapidly [heading for disaster](https://dothemath.ucsd.edu/2023/08/ecological-cliff-edge/).
 It’s really not okay. We need to acknowledge that modernity has come at a tremendous—and perhaps unrecoverable—cost to the community of life and therefore ultimately to ourselves.
 
-# Bio-JEDI
+## Bio-JEDI
 
 Probably most professions now express varying degrees of concern over justice, equity, diversity, and inclusion (JEDI). While the topic can be polarizing in its own right, the controversy is never around the thing that concerns me most. The concept is horribly, painfully, ruefully anthropocentric (human-supremacist) in nature. Not a thought goes beyond the borders of Homo sapiens. While I applaud awareness and sensitivity, it is usually confined to a narrow, tunnel-vision beam.
 
@@ -127,7 +127,7 @@ I like the idea of prepending “Bio” in front of JEDI:
 
 Think about this when you encounter discussions of JEDI issues. How narrow is the scope? How might you broach the subject with people who are unaware of how steeped they are in an anthropocentric culture? Easy does it, but maybe start slipping in a comment now and again to broaden the dialog—one gentle nudge at a time.
 
-# Wait: Curing Cancer is Bad?
+## Wait: Curing Cancer is Bad?
 
 Did the cancer question in the list above cause a stumble? I pick a “cure” for cancer because it has been a primary goal of research for at least half-a-century. I acknowledge that cancer is a class of disease, and no universal cure is likely to emerge. But feel free to substitute any longstanding cause of death. Note that I have had close, dear family members die of cancer, and mourn their loss. It’s hard. In a sense, it is death that makes life special and worthy of celebration. So my apologies if this hits close to home and seems insensitive. I choose to see it as *extending* sensitivity beyond the usual human-only boundary.
 
@@ -142,7 +142,7 @@ It’s a matter of priorities. I’d love to see cures for our diseases if they 
 
 I would say that perhaps we should quit while we’re ahead, but WE are not ahead at all. We should quit before WE get further behind.
 
-# How to Succeed
+## How to Succeed
 
 Until humans—capable as we are of inflicting planetary harm—put the community of life (US) first, we can expect failure. Don’t let the transient orgy of inheritance-spending excess fool you into thinking that modernity can work. Good decisions are considerate of the whole: the wasps and the moss. It is not impossible to live this way: many others have done so, only to be trampled by modernity. Try it on. We won’t be good at it right away, but it is rewarding to begin thinking more broadly and feeling like a valued member of a more inclusive community. It may help to think of animals—and plants, even—as **people**: quirky people with a lot of verve.
 

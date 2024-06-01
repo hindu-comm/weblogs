@@ -27,7 +27,7 @@ It is a heavy lift for one blog post to do a complete job in motivating collapse
 What remains might not maintain much of our present technology, and in the worst cases lose much of our accumulated science/knowledge. I am not talking about extinction of our species or necessarily reversion to hunter-gatherer lifestyles (thought that’s certainly on the table).
 Most would see this trajectory as a colossal failure of the enterprise.
 
-# To Those Who Won’t Have Any of It
+## To Those Who Won’t Have Any of It
 
 First, if like many you find yourself resisting the idea of collapse—even before getting into the details—ask yourself why. Is it because you somehow know it won’t happen? Have you thought through how society organizes itself to confront global resource limits and to cope for thousands of years on natural flows? Have you identified a scheme for—and transition path to—global cooperation and governance that protects substantial areas of wilderness on land and sea for countless generations? Have you thought of a compelling reason why humans would abruptly stop competing and exploiting resources as quickly as possible, or stop striving to accumulate more possessions and luxuries for themselves? Does it seem obvious that humans will—for the first time en masse—adopt an attitude that nature is at least as important as ourselves, and deserves top priority?
 
@@ -39,13 +39,13 @@ It may be that pride in our accomplishments has swollen into an unshakable faith
 
 In order to have a constructive conversation about collapse, we must set aside what we *want* to be true and try to detach from the enormity of the prospect in favor of a cool analysis. Just as fearing and denying our own death will not prevent its ultimate arrival, similar evasive reactions will not decide our fate on the question of collapse. In fact, they may act to secure a catastrophe. Only by breathing deeply and accepting that collapse is a legitimate possible outcome, and one that many current elements are directing us toward, can we justify any confidence in averting such an end. So collapse, unlike death, is not inevitable unless we fail to take the prospect seriously.
 
-# Do I Think Collapse is Coming?
+## Do I Think Collapse is Coming?
 
 Before getting to the main event, I should clear the air on the question of whether I am a “collapsist,” if that’s a word (spell-checker is saying no). My simplest answer is: I am decidedly anti-collapse, and am optimistically and perhaps irrationally motivated to do whatever it takes to prevent such a catastrophe from materializing. But I see the risk as being real enough and scary enough that I’ll take sober acknowledgement of the possibility over careless dismissal any day.
 
 So my decision is to communicate the risk of collapse as perhaps the best way to ultimately dispel my concerns. Nothing would give me greater joy than for heightened awareness and consequent mitigation efforts to prove my worries to be wrong. Dismissal, sadly, plays right into my worst fears. Thus, until I see global efforts explicitly aimed at mitigating the collapse-prone elements detailed below, I am afraid that my fundamentally conservative core *requires* a default position that collapse is the most likely outcome: assume the risk real, so that it may be prevented.
 
-# Elements Promoting Collapse
+## Elements Promoting Collapse
 
 What follows are separate but not always independent points of consideration. The goal is to hold all these in mind simultaneously. As a builder of scientific instruments, I have become accustomed to respecting a handful of different constraints and objectives all at once in order to forge a compromise path in developing a device that works and delivers useful data. Forgetting any one of several dozen—sometimes interacting—constraints can lead to a failed instrument. What follows is a bit like that for me: a swirling collection of important elements, none of which may be ignored. Ask yourself as you go along which of the 21 points/perspectives are firmly planted in the public consciousness as an obvious matter enjoying broad agreement.
 
@@ -337,7 +337,7 @@ What follows are separate but not always independent points of consideration. Th
 
 Remember, any of these elements in isolation may not commit us to collapse, per se. But we don’t get to choose one element at a time—whack-a-mole style—or call for a timeout: they all operate simultaneously, and nature will not be a forgiving referee or listen to our howling protests of “no fair.” Hold it all in your head, if you can. Then do something about it!
 
-# Conflicting Views
+## Conflicting Views
 
 I have been grappling with these sets of concerns for a long while now, and keep looking for ways to stop worrying. The arguments I typically hear downplaying the threat often amount to steadfast faith in humanity (amazingly effective spenders of the inheritance that we are) to prevail over any challenge. I hear much less in the way of specific reasons why the suite of fundamental elements can be ignored or are wrong. The arguments usually aren’t on that plane, and thus to me lack substance.
 
@@ -351,7 +351,7 @@ One way to probe underlying sentiments of the person warning of collapse (I’m 
 
 On the other hand, maybe the individuals dismissing concerns of collapse are right. Smart people may be able to imagine some form of success, but the question is less about how it *could* go in someone’s mind than about how it *will* go in the human free-for-all in which we find ourselves. Granted, we’ve got a lot riding on this, and virtually no one wants to see collapse. So we’ll fight tooth and nail to prevent a crash if it becomes a clear and present danger, and maybe if we’re lucky it’s not too late when the risk becomes apparent. My concern is that the tactics we use may be reasonably effective at delaying the result for several years at a time, commensurate with political terms. No one wants collapse on their watch. But kicking the can down the road is not a plan, just a delay.
 
-# Avoiding the Worst
+## Avoiding the Worst
 
 The structural transformations that would be necessary to truly put off collapse indefinitely are enormous, and will not happen without first openly acknowledging that collapse is the likely result of inaction (i.e., of business as usual). We would have to transform economies to stop or reverse growth, assess and adopt practices geared for long-term sustainability, prioritize nature over ourselves in deciding what activities are tolerated, and establish a global cooperative to live within our means for generation after generation. Since this will likely involve leaving “goodies” on the shelves, within easy reach but protected from exploitation, it is unclear whether we can even *get* there and maintain such an unprecedented level of self-control for thousands of years.
 

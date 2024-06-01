@@ -11,7 +11,7 @@ Rocking the AC
 
 [![](https://dothemath.ucsd.edu/wp-content/uploads/2012/09/320px-Air_conditioner_armaflex_insulation-150x150.jpg "320px-Air_conditioner_armaflex_insulation")](https://dothemath.ucsd.edu/wp-content/uploads/2012/09/320px-Air_conditioner_armaflex_insulation.jpg)When it comes up in casual conversation that I do not generally heat or cool my house, people either move to another seat or look at me with some mixture of admiration and disbelief. When non-Californians then find out that I live in San Diego, they might huff or spew, which often involves some embarrassing projectile escaping their mouth. But the locals are more consistently impressed—more so by my forsaking heat than AC (San Diego has very mild summers by U.S. standards). This summer, I turned on the AC for the first time since we bought the house three years ago. All in the name of science! I was blown away. Here is what I learned.
 
-## A Happy Convergence
+### A Happy Convergence
 
 I occasionally embark on a campaign to track temperatures throughout my house in order to understand how it behaves thermally in response to fluctuations in sunlight and external temperature. I keep telling myself that I’m establishing a baseline against which to compare the results of a hypothetical insulation upgrade/replacement. So far, I keep getting baseline data.
 
@@ -19,7 +19,7 @@ Most telling are campaigns when the external temperature is extreme in some way.
 
 As it happened, the first day into the campaign was unusually hot and muggy for San Diego (high 30°C, or 86°F, 62% humidity). And we had invited 2500W over for a surprise party (non-physicists might instead say *25 people*). Okay, so Thermochron campaign, hot and muggy, loads of people coming over…if there was ever a *right* time to fire up our AC, this was it!
 
-## We Have Liftoff!
+### We Have Liftoff!
 
 I set the thermostat to 75°F (24°C) flipped the switch at 4PM, and immediately rushed to [TED](https://dothemath.ucsd.edu/2012/07/ted-stravaganza/ "TED-Stravaganza") to see what he thought of our unfamiliar visitor. I had never seen anything like it. TED was screaming that we had over five kilowatts running! Previously, the highest rate of electricity consumption I had ever seen in our household was in the neighborhood of 3kW when both the microwave and toaster oven were in simultaneous operation.
 
@@ -33,7 +33,7 @@ I clocked 32.6kWh that day. This may not sound like a lot. In fact, it’s prett
 
 Daily energy use surrounding the air conditioning test. The test stands out like a huge, sore thumb. The vertical scale is kilowatt-hours.
 
-## Are We There Yet?
+### Are We There Yet?
 
 As much as I learned from this experience, the day of the “test” could hardly be called typical. Lots of people, lots of in-and-out traffic, a late start turning on the AC, etc. So I decided to dedicate the next day to a more stable test. Setting the thermostat at 76°F (24.4°C), the compressor kicked into action just before 10AM, executing 24 cycles over the next 11 hours.
 
@@ -48,7 +48,7 @@ So here we are during our day-long “test,” suffering the unnatural cold of 7
 
 Adding to the trial, on the same day the New York Times Sunday Review had a fascinating [article on air conditioning](http://www.nytimes.com/2012/08/19/sunday-review/air-conditioning-is-an-environmental-quandary.html?_r=1&hp&pagewanted=all) and its energy/environmental cost—to which I was now contributing. It also felt very strange to read about reluctance among many to bump up their thermostats to 75° or higher, while I was itching to ditch 76° as unpleasantly, unnaturally cold. Noting the outsized energy demand imposed by air conditioning, the article shared the scary statistic that if Mumbai, India adopted universal air conditioning for its inhabitants at American standards, the associated energy demand *from this city alone* would come to *a quarter* of the cooling demand for the entire U.S. That’s scary, folks.
 
-## Evaluating the Damage
+### Evaluating the Damage
 
 Okay. Experiment Complete. What’s the damage? The air conditioning ran for about 400 minutes that day (nearly seven hours out of eleven). In this time, the air conditioning racked up 31.5kWh of energy use. Over a 24-hour period, this averages to about 1300W of continuous power. Imagine my fright: two days in a row over 30kWh: more electrical energy in two days than we normally expend in a month!
 
@@ -76,7 +76,7 @@ We can get an energy cost per degree by taking the power expended and dividing b
 
 What does this mean? Is it good? Is it bad?
 
-## Comparison to Fans
+### Comparison to Fans
 
 A box fan might typically run at about 90W and move something like 2000 cubic feet of air per minute (cfm), or about a cubic meter per second. Imagine enveloping the fan within a window to efficiently move air between inside and outside (pushing either direction). Roughly speaking, if the replacement air is 1°C cooler than the interior air, then each second, the kilogram (cubic meter) of cooler air removes about 1000J of thermal energy from the house (specific heat capacity of air is about 1000J/kg/°C). All that for 90J of input, each second: a leverage of 11×. Good bargain. Better than a heat pump.
 
@@ -86,7 +86,7 @@ How much *ΔT* might we expect a fan to deliver? In terms of volume flow, it loo
 
 Yet experience says it’s not *that* easy. That’s because all the items and walls in your house are storing thermal energy, and donate this heat to any cool air that happens by, warming it back up. Every kilogram of material in your house (including interior walls and some fraction of the exterior walls) takes another roughly 1000J to cool down by 1°C, gobbling up another second’s worth of air using the foregoing numbers. So in practice, a single box fan will have difficulty moving enough air through a large house to substantially take down its average temperature. But what effect it *does* have will be a total bargain. Especially, blowing cool air into an occupied room is a good idea. And a beefier air exchange system can get some serious cooling done at a much lower energy cost per delivered degree than AC. But this mode of cooling is not available until the night cools off, so a well-insulated house is key to help preserve the night-time coolness for the rest of the coming day.
 
-## Comparison to Heating
+### Comparison to Heating
 
 Some time ago, I evaluated how much energy it took to heat my home in a [similar “special day” experiment](https://dothemath.ucsd.edu/2012/03/home-heating-for-the-hardy/ "Home Heating for the Hardy")—this time as a Christmas treat. Using the construct of degree-days, I computed a cost of 610W/°C for heating. Compared to this number, 440W/°C for cooling is only marginally better, while I expected the energy efficiency ratio (EER) of the [heat pump](https://dothemath.ucsd.edu/2012/06/heat-pumps-work-miracles/ "Heat Pumps Work Miracles") to exceed the direct-energy heating value by a factor of three or so.
 
@@ -102,11 +102,11 @@ Doing so cost 3.5[Therms](https://dothemath.ucsd.edu/useful-energy-relations/#th
 
 So the same house *is* less energy-intensive to cool via heat pump technology than to heat by direct flame. But let’s not forget that my utility electricity is largely derived from fossil-fuels, driving heat engines at maybe 35% efficiency. So in terms of primary energy use, every degree of environmental conditioning costs about the same for me.
 
-### Winter/Summer Aside
+#### Winter/Summer Aside
 
 An interesting feature emerges when comparing temperatures in our house in the summer vs. winter. In winter, the interior temperature tends to be about 5°C warmer than the outside temperature, on average. In summer, this is more like 2–3°C warmer inside. I attribute the difference to our use of an attic fan during the summer (usually PV-powered), opening the windows at night, closing curtains during the day, and a different solar loading profile (eaves keep light out of windows during mid-day in summer; more summer loading onto roof and less into windows and walls).
 
-## Back to Normal
+### Back to Normal
 
 Our experiment is over. On my way home from the bus stop in the evenings, I pass houses with their AC on. But around that time, the outside temperature is dropping, so that opening up the house makes for a pleasant temperature. Granted, I’m in San Diego, where things aren’t so tough. Yet people *did* used to live without AC (and still do). Houses were built for it, with many windows allowing cross-ventilation. Those practices have faded, as AC is a feature taken for granted in the design of new houses.
 

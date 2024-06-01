@@ -17,11 +17,11 @@ It amazes me how long an insight can take to fully develop, sometimes simmering 
 
 In this post, I’ll extract highlights on my path to greater awareness of contextual importance, and its relevance to the present predicament—using a few metaphors to help paint the picture.
 
-# Application to Learning
+## Application to Learning
 
 Perhaps an appropriate beginning to the story is in connection to my role as an educator. I constantly strove to recreate for students the relevance I myself found in new concepts that I stumbled upon as a young student. Admittedly, a large fraction of those stumblings took place outside of the curriculum, as a result of my own motivated explorations.
 
-## The Early Years
+### The Early Years
 
 A few early examples will help illustrate the “warehouse” framework I’ll describe in a bit. First, as a teenager, I had a poster on my wall of the Moon’s face. I noticed that the lines of longitude—each 10° apart—were broadly separated in the center and got closer together toward the edge. I had an intuitive understanding for why this must be so, as a matter of the projection of a sphere onto a plane. But I wanted to understand how to describe it *mathematically*. Careful measurements and plotting revealed an elegant curve, but my attempts to get a parabola (poor) or hyperbola (better) to match it left me unsatisfied, so I *shelved* the problem (emphasis will later become clear).
 
@@ -33,7 +33,7 @@ So, the next year when my math class introduced some calculus preliminaries, a k
 
 In a word, I had **context**! I had already laid a foundation of connections to the broader world. The abstraction had immediate, larger relevance—rather than sitting on its own, as it does for many students. As others crammed for math exams, I didn’t bother, because I owned the concepts, thanks to a rich contextual framework.
 
-## The Warehouse
+### The Warehouse
 
 I only appreciated the importance of such context as an educator when trying to understand how my approach differed from that of students in my classes. I developed a metaphor for how the brain works. Firstly, I recognized that the physical basis of learning must come down to rearranging (re-weighting) neural connections, you know, in the brain. **Connections** are an expression of **context** (the two words are indeed hard for me to separate). Thinking of the brain as a warehouse in which to store knowledge and concepts, I realized that my various experiences had worked to prepare **labeled shelf space** waiting for new deliveries, pre-loaded with contextual connections to things that had personal meaning for me. When a class delivered new information, I either already had a space waiting for it (at last!), or recognized that I needed to work proactively to contextualize the new piece so that I might know where to put it and what other things I might connect it to (picture yarn criss-crossing the shelves making a web; not very unlike the actual neural network in your brain).
 
@@ -41,19 +41,19 @@ My mental picture for how education works for most students is that every day a 
 
 I began encouraging students to build a bank of their own questions—motivated by genuine curiosity—that would essentially prepare labeled shelves awaiting future deliveries. I taught freshman seminars where every session involved reading questions submitted by every student, centered on some fundamental curiosity about the physical world (it was a physics seminar, after all). By reading them aloud, I hoped to spread the seeds of curiosity all around: more shelves for everyone! I have no idea if it made a bit of difference, but sessions were entertaining, mostly spent tackling the less trivial and most richly contextual of the topics.
 
-## More than a Number
+### More than a Number
 
 I also noticed that many students had an unhealthy relationship with numbers. To them, numbers were fixed, exact, literal, untouchable. To me, they’re only as good as their context. Numbers become fluid, fungible, friendly. Approximate estimates are sort-of my thing, and usually the inputs are too crude to worry about the difference between π, √10, 10/3, or 3. They’re all “three.” To make math easier to carry out in my head, I might round up here, down there, striving to maintain approximate balance in the process—not stressing about inconsequential imprecision. Professionally, meanwhile, I was measuring Earth–Moon distance to millimeter accuracy (loads of digits!). Contextually, both approaches have their place.
 
 For students, if the calculator says it, it’s sacrosanct. They’ll write down all the digits, because they are not keeping in mind what the number represents in its original context. To these students, “significant digits” is just an annoying practice required (only) in chemistry classes that has no relevance elsewhere: just more rules to follow when grades depend on it.
 
-## Algorithmic Bots
+### Algorithmic Bots
 
 Student reactions to my [textbook](https://escholarship.org/uc/item/9js5291m)—which is meant to expose general-education classes to highly contextual quantitative reasoning—often expressed distaste over integrating math (equations) into prose in a back-and-forth “codeswitch” format. Such students want math relegated to side boxes in recipe form so that they can replicate the steps when given a problem whose setup appears to parallel a boxed case. I understand why. Not only is this an easier process of pattern-matching—requiring less cognitive heavy lifting—but their educational experience has prepared them for little else. They do not instinctively see equations as I do: as precise, compact sentences that communicate tons of relationships (within some limited context) and that can both ground and echo intuition. Surrounding sentences bring the equation-sentence to life, contextualizing it to the world: why it’s useful, what it says, and when its use is appropriate.
 
 Students seem to resist my efforts to provide context. It’s harder; messier; less cut-and-dried; less algorithmic. Our educational system has, unfortunately, reduced thought to robotic forms—emphasizing exactness, uniformity, repeatability, standardization (thus ease of grading), recipes. Students are not practiced at the art of contextual understanding, where numerous particulars might come into play and ambiguity looms. How would we measure and produce boatloads of students on ambiguous, contextual turf? Machine no likey.
 
-# Context’s Opposite
+## Context’s Opposite
 
 I would say that the opposite of context is abstraction. Both have their uses, but abstraction deliberately strips away particulars to leave a clean, universal, compartmentalized, prescriptive form. Such a bare remnant of reality becomes easier to conceptualize and manipulate. In many modern concerns, the result pays off, which is why the practice has been encouraged. The fundamental building blocks of the universe indeed appear to operate by such well-defined and repeatable rules (physics), so that the act of abstraction facilitates powerful application.
 
@@ -61,23 +61,23 @@ However, beyond a certain degree of complexity, abstraction loses its grip and c
 
 I should briefly mention that this whole topic gained even more relevance recently upon reading Iain McGilchrist’s *The Master and His Emissary*, about hemispheric specializations stemming from clinical research. While much of the focus is on which hemisphere does which kind of thinking, the most important lessons from the book have little to do with assignment to a particular hemisphere, but elucidate keen insights on different ways of thinking and their values vs. limitations. It’s helped me to more clearly see the faults in modernity’s mindset (and in my own tendencies), and underlies a number of the points in this post.
 
-# Example Contextual Metaphors
+## Example Contextual Metaphors
 
 Metaphorical thinking might be considered to be the counterpart to algorithmic thinking. Metaphor aims to build a picture that is graspable in its entirety as a ready-made insight—in a flash. Once implanted, it needs no words or step-wise elaboration for its value and applicability to be perceived. The following metaphors help illustrate the importance of context.
 
-## Clueless Cats
+### Clueless Cats
 
 House cats often find that furniture suits very well as scratching posts for claw maintenance. All they know is that it’s convenient, feels right, performs a function, and that sometimes their house brutes get loud, clap, and throw things at them. They cannot appreciate the context leading to your dislike of their actions. What are aesthetics? What are visitor opinions, and why do they matter? What is money (then get more, stupid)? What is a job? Why do you do things you don’t want to do? [There is no logic in this place](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiov5-ni5-CAxU0AzQIHRwrA0YQwqsBegQIDRAF&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPKffm2uI4dk&usg=AOvVaw2nuIr8Bgor1kgDrReM7DH4&opi=89978449).
 
 How much context are we missing in our destruction of Earth’s furnishings, oblivious to the larger picture? We’re sawing the branch we’re standing on, marveling at the technology and power without appreciating the dire consequences.
 
-## Riderless Bike
+### Riderless Bike
 
 If you were like me as a kid, you sometimes pushed your bicycle down a hill to see how far it would go without you. Like the cat, you failed to grasp the context that would make your parents steam at this careless action. We could go on and on about adolescent misdeeds as failures of contextual understanding.
 
 In any case, the bike might go for a while (or sometimes not very far at all) before colliding with something, getting tripped by a bump, or just pathetically leaning over. The riderless bike is a bike out of context. It might appear to work for a while, but failure is virtually assured. Humans are a species out of context, as Wes Jackson put it. We might go on for a while in the current mode (modernity), but we can’t stay out of context forever.
 
-## Look Out the Window!
+### Look Out the Window!
 
 Context relates to the whole world, as it is *presented*—rather than an impoverished, abstracted facsimile (**re**presentation) of the world. The artificial version is attractive, as it is easier to grasp, while the full picture defies facile reduction.
 
@@ -91,7 +91,7 @@ Our society likewise tends to focus on the small bits, without looking out to se
 
 I am reminded of the movie *Men in Black*, in which Will Smith’s character repeatedly outperforms other job applicants by displaying a broad contextual understanding of his environment, rather than focusing on the more obvious but narrow tasks to which he and the other applicants are set. *That’s* the kind of thinking we need in novel situations like the one presented to us today by the predicament.
 
-# Contextualizing the Predicament
+## Contextualizing the Predicament
 
 I recognize that a very large part of what I have consistently tried to accomplish in my communication efforts is a matter of contextualization. Why not [growth](https://rdcu.be/cR8Pp)? Why not [space](https://escholarship.org/uc/item/9js5291m#chapter.4)? Why not [fusion](https://escholarship.org/uc/item/9js5291m#section.15.5)? Why not [renewable energy](https://dothemath.ucsd.edu/2022/09/a-climate-love-story/)? Why not [modernity](https://dothemath.ucsd.edu/2023/09/can-modernity-last/)? What’s so bad about our [current path](https://dothemath.ucsd.edu/2023/08/ecological-cliff-edge/)? Each case is a battle against narrow-boundary thinking. Our society has become ever-more compartmentalized, and the “paid thinkers” (academics) along with it—each field in its own silo.
 

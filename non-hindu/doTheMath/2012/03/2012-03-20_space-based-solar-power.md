@@ -13,7 +13,7 @@ Space-Based Solar Power
 
 I’ll take a break from writing about behavioral adaptations and get back to Do the Math roots with an evaluation of solar power from space and the giant hurdles such a scheme would face. On balance, I don’t expect to see this technology escape the realm of fantasy and find a place in our world. The expense and difficulty are incommensurate with the gains.
 
-## How Much Better is Space?
+### How Much Better is Space?
 
 First, let’s understand the ground-based alternative well enough to know what space buys us. But in comparing ground-based solar to space-based solar, I will depart from what I think may be the most practical/economic path for ground-based solar. I do this because space-based solar adds so much expense and complexity that we gain a large margin for upping the expense and complexity on the ground as well.
 
@@ -29,7 +29,7 @@ Even though the 1347 W/m² solar constant in space is 35% larger than that on th
 
 What follows can apply to straight-up PV panels as collectors, or to concentrated reflectors so that less photovoltaic material is used. Once we are comparing to two-axis tracking on the ground, concentration is on the table.
 
-## Orbital Options
+### Orbital Options
 
 Are we indeed dealing with 24 hours of exposure in space? A common run-of-the mill low-earth-orbit (LEO) satellite orbits at a height of about 500km. At this height, the earth-hugging satellite spends almost half its time blocked from the Sun by the Earth. The actual number for that altitude is 38% of the time, or 15 hours per day of sun exposure. It is possible to arrange a nearly polar “sun synchronous” orbit that rides the sunrise/sunset line on Earth so that the satellite is always bathed in sunlight, with no eclipsing by Earth.
 
@@ -43,7 +43,7 @@ A geosynchronous satellite indeed orbits the Earth, but the Earth rotates undern
 
 Being so far from the Earth, the satellite rarely enters eclipse. When it does, the duration will be something like 70 minutes. But this only happens once per day during periods when the Sun is near the equatorial plane, within about ±22 days of the equinox, twice per year. In sum, we can expect shading about 0.7% of the time. Not too bad.
 
-## Power Transmission
+### Power Transmission
 
 Now here’s the tricky part. Getting the power back to the ground is non-trivial. We are accustomed to using copper wire for power transmission. For the space-Earth interconnect, we must resort to electromagnetic means. Most discussions of electromagnetic power transmission centers on lasers or microwaves. I’ll immediately dismiss lasers as impractical for this purpose, because clouds block transmission, because converting the power into electricity is not as direct/efficient as it can be for microwaves, and because generation of laser power tends to be inefficient (my laser pointer is about 2%, for instance, though one can do far better).
 
@@ -61,17 +61,17 @@ Launching a microwave dish this large should strike anyone as prohibitively diff
 
 Now you can see why I wanted to keep the frequency high, rather than dipping into the radio, where dishes would need only get bigger in proportion to the wavelength.
 
-## Converting Back to Electrical Power
+### Converting Back to Electrical Power
 
 At microwave frequencies, it is straightforward to directly rectify the oscillating electric field into direct current at something like 85% efficiency. The generation of beamed microwave energy in space, the capture of the energy at the ground, then conversion to electrical current all take their toll, so that the end-to-end process may be expected to have something in the neighborhood of 50% efficiency.
 
-## Beam Safety and Consequences
+### Beam Safety and Consequences
 
 I don’t worry too much about keeping the beam from veering off the collection region. There are clever, fail-safe schemes for ensuring proper alignment/pointing. According to the [Wikipedia page](http://en.wikipedia.org/wiki/Space-based_solar_power "Wikipedia: Space-Based Solar Power") on the topic, the recommended transmission strength would be 230W/m² in the center of the beam. This is about a quarter the strength of full sunlight, and is thought to be a safe level through which aircraft and birds can fly.
 
 At this level, our 3.6km diameter collecting area would generate about 40GWh of energy in a day, at an assumed reception/conversion efficiency of 70%. By comparison, a flat array of 15%-efficient PV panels occupying the same area in the Mojave Desert would generate about a fourth as much energy averaged over the year. So these beaming hotspots are not terribly more concentrated than what the sunlight provides already. Again, I find myself scratching my head as to why we should go to so much trouble.
 
-## Launch Costs
+### Launch Costs
 
 This brings us to the tremendous cost of launching stuff into space. Today’s cost for putting stuff into geosynchronous orbit is about [\$20,000 per kilogram](http://www.aviationweek.com/aw/generic/story.jsp?channel=space&headline=Study%20Finds%20Launch%20Costs%20Dropping&id=news/awst/2010/05/03/AW_05_03_2010_p34-222909.xml "Aviation Week article") of launched material. We have a history of hope and optimism that launch costs will plummet in the future. So far, that has not really happened, and rising energy prices are not going to help drive costs ever-lower.
 Meanwhile, the U.S. space program appears to be scaling back.
@@ -80,7 +80,7 @@ In 1999, NASA initiated a \$22 million study investigating the feasibility of sp
 
 Let’s do our own quick analysis. A standard rooftop panel delivers about 10W per kilogram of mass (slightly better than this, but I will stick to round numbers). Let’s say a light-weighted version for space achieves an impressive factor-of-100 improvement: same power for 1% the mass. This gives 1kW/kg. I might be grossly over-optimistic in this estimate, but we’ll see where it takes us. Ignoring other infrastructure overhead (wiring, propulsion systems, structural support, microwave transmission antenna, communications, etc.), we end up with a launch cost of \$40 per delivered Watt, accounting for 50% delivery efficiency—and this is just the launch cost. I’ll bet the space-qualified ultralight PV panels are not as cheap as the knock-about panels we put on our roofs for \$2/W. So maybe the cost of the space hardware, launch of all systems, and build-out of expansive ground systems will cost upwards of \$60/W—becoming \$400/W if we don’t manage the 100× weight reduction per Watt, settling for 10× instead. Granted, the constant illumination provides a factor of three in favor of space, so we can give it a 3× discount for its full-time contribution. But still, compared to typical ground installation costs at \$5/W, we find that the solar approach is *at least* four times more expensive. You can even throw in batteries in the ground system without exceeding the space cost, and all the reasons for going to space have melted away.
 
-## Energy Return on Energy Invested
+### Energy Return on Energy Invested
 
 My initial reaction to the notion of flinging solar panels in space was that the energy needed to launch panels to geosynchronous orbit might totally undermine the energy delivered by such a system. Let’s take a quick look with approximate numbers.
 
@@ -94,7 +94,7 @@ If I take my ultra-lightweight panel producing 1kW/kg, I must launch 100kg of ro
 
 In the end, the EROEI is not as prohibitive as I imagined: it’s not a net energy drain as I might have feared. But it’s not obviously better than conventional solar either.
 
-## In Summary
+### In Summary
 
 I sense that people have a tendency to think space is easy. We have lots of satellites, we’ve gone to the Moon (remember that?!), we used to have a space shuttle program, and we have seen many movies and television shows set in space. But space is a very challenging environment, and it is extremely costly and difficult to deliver things there. If you go to the Fed-Ex site to get delivery costs, you immediately get hung up on not knowing the postal-code for space. Once in space, failures cannot be serviced. The usual mitigation strategy is redundancy, adding weight and cost. A space-based solar power system might sound very cool and futuristic, and it may seem at first blush an obvious answer to intermittency, but this comes at a big cost. Among the possibly unanticipated challenges:
 

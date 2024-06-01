@@ -23,7 +23,7 @@ Whether modernity can last is perhaps a more important question than whether gro
 
 \[*Note: I had another post in 2021 enumerating [reasons to worry about collapse](https://dothemath.ucsd.edu/2021/05/why-worry-about-collapse/), which is a relevant but—I would say—less enlightened precursor to this piece. Since then, I have become aware of the important role of human supremacy, the materials difficulties associated with renewable energy, the crushing numbers on loss of biodiversity, and have released my anxious grasp on modernity—having better appreciated the more-than-human world and our role within the greater community of life.*\]
 
-# Growth
+## Growth
 
 We start on familiar ground. I won’t rehash the arguments, as the first paragraph provides an over-abundance of links to material on this topic. For the purposes of this post, I will just restate that growth has been a centuries-long trend, such that our energy/materials use, economic systems, political systems, social safety net systems, labor and retirement systems, and even mental frameworks have become predicated on growth. I still routinely encounter surprise and push-back to the simple and obvious statement that growth isn’t forever.
 
@@ -33,7 +33,7 @@ While adjusting to a life without growth would constitute a monumental challenge
 
 To the extent that modernity depends on growth—an open question but with no evidence to support the contrary—then modernity cannot last. But let’s not give up just yet.
 
-# Energy and Fossil Fuels
+## Energy and Fossil Fuels
 
 Energy has been fundamental to our story of growth. The various [hockey stick curves](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/) over the last century or so are a reflection of energy and population. What’s more, human population *itself* is a [reflection of energy](https://dothemath.ucsd.edu/2022/12/finite-feeding-frenzy/), as mechanized, fertilized agriculture was made possible by fossil fuels. Since energy *per capita* has *also* increased like a hockey stick, the ecological impact (and many other metrics like GDP) takes on the shape of a super-exponential (still resembling a hockey stick on a logarithmic plot).
 
@@ -66,11 +66,11 @@ In summary, energy:
     for the human population surge and other [hockey
     sticks](https://dothemath.ucsd.edu/2022/09/death-by-hockey-sticks/); 3.  cannot continue increasing into the future; 4.  has been utterly dominated by a temporary spike of fossil energy; 5.  may not permit modernity’s continuance in non-fossil form; 6.  powers ecological devastation, independent of its source.
 
-# Materials and Recycling
+## Materials and Recycling
 
 Connecting to the energy side is another set of physical considerations. Besides our reliance on energy, we rely on atoms. Atoms are not all the same flavor and are not of infinite variety—nor are their practical combinations (compounds). Their supply is finite on the planet, and the energy required to access and process them limits what we can expect to do in utilizing them.
 
-## Materials for Renewable Energy
+### Materials for Renewable Energy
 
 The interaction between energy and materials is fundamental. Solar energy means nothing to us until it interacts with matter, for instance. This becomes apparent when assessing the material demands of renewable energy. Because solar and wind are diffuse, low-intensity energy flows, a lot of “stuff” is required to harness their energy. Table 10.4 of the [Department of Energy’s Quadrennial Report](https://www.energy.gov/sites/prod/files/2017/03/f34/qtr-2015-chapter10.pdf) illustrates that renewable energy technologies require an order-of-magnitude more materials than fossil fuels for generating the same amount of electrical energy (not including the fossil fuel material itself, which is considerable). Setting aside the fact that we rely on fossil fuels for material extraction and processing, this means that replacing our fossil fuel habit with renewable energy would require a substantial *increase* in material extraction (mining, scraping) on the planet—translating to more deforestation, more habitat loss, more pollution (tailings), more processing, and more extinctions.
 
@@ -86,7 +86,7 @@ Besides the vast absolute amount of material required, material extraction rate 
 
 I should note that the energy-based material calculation in the original table assumed a lifetime for the facility, which may be off in either direction. But since we’re talking about an order-of-magnitude increase in material per unit of energy delivered, even a factor of two error in the lifetime estimate is not a game-changer.
 
-## Recycling Renewables
+### Recycling Renewables
 
 Now, on the recycling front, we never expect to get 100% return in recycling. Even getting 90% of the copper out of all the solar panels ever built would be a feat. This would mean that to keep the infrastructure up, we’d need to source 10% of the material from the ground on a continuing basis. Since solar replacement demands a 6× increase in copper, a steady 10% “new” replacement means a continuous 0.6× increase, or a 60% increase over current practices. So, after extracting at 6× the present pace for a few decades, we could settle down to 1.6× the current pace for the indefinite long haul.
 
@@ -98,7 +98,7 @@ From [Crowson (2012)](https://www.sciencedirect.com/science/article/abs/pii/S030
 
 It needs to be understood that renewable energy is not actually about saving the *planet*: clearly it will ravage more land and habitats in pursuit of materials. It’s really about preserving *modernity* in the face of CO₂. Let’s be clear on the goal, here, and how ultimately narrow/misguided it is. Which is more valuable—modernity or the ecological health of the planet? Which depends on which?
 
-## Recycling More Generally
+### Recycling More Generally
 
 Specific cases aside, we can make a more general statement about materials. Modernity is very dependent on metals. Sophisticated electronic devices routinely employ 40 or so metals from the Periodic Table. Meanwhile, recycling recovery is never complete. For consumer goods it can be quite low. The metals in electronic devices can be so dispersed as to render recycling non-viable (requiring ever-more energy, for one thing). And, of course, as soon as one critical component fails (or even well before), we tend to replace the entire device in our current schemes.
 
@@ -108,7 +108,7 @@ Before knocking recycling entirely, we could point out that 90% recovery might a
 
 As with energy, material limits *alone* do not preclude modernity’s continuance, but the warning signs are up. It’s not at all clear that the low-hanging inheritance we are now rapidly spending will sustain us for centuries more in anything like the present mode.
 
-# Biodiversity and Ecological Vitality
+## Biodiversity and Ecological Vitality
 
 To me, this is the non-negotiable element. Humans are one of many species on a planet that has developed a complex web of interdependent life. We have barely scratched the surface in understanding the connections and cooperations in the living world, and likely never will have a full grasp (which would suggest it’s not a legitimate goal, anyway). We therefore depend on the health of countless other species in ways that we do not fathom.
 
@@ -122,7 +122,7 @@ The dots are not difficult to connect: deforestation, habitat destruction and fr
 
 Put simply, modernity has come at the expense of ecological health and the vitality of the community of life. It is not at all clear if modernity can exist any other way. Modernity could very well be a self-terminating prospect for exactly this reason, as humans can’t survive without a functioning ecosphere. Right now, the ecosphere is gasping for breath. I *would* say that it’s on life support, or in the ICU. But no—that would imply concern and remedial action. It’s just bleeding out in a ditch as we motor past, largely oblivious to its condition as we inflict even more damage.
 
-# Philosophical Underpinning
+## Philosophical Underpinning
 
 This brings me to a foundational concern. I would claim that the philosophy upon which modernity is built is fundamentally incompatible with its own longevity: a fatal flaw in the operating system. At its center is the notion that humans are the apex species, rulers of the planet, increasingly in control of our own destiny and the world around us, on our way to becoming godlike masters of the world—and galaxy/universe among the more imagination-challenged. I lump this all into what I think is best characterized as a human supremacist culture.
 
@@ -142,7 +142,7 @@ An [article by Robin Wall Kimmerer](https://www.nytimes.com/2023/09/22/opinion/c
 
 She is more polite (effective) than I am, using exceptionalism rather than supremacism (which is how I [started out](https://dothemath.ucsd.edu/2022/02/human-exceptionalism/), too).
 
-# A Workable Path
+## A Workable Path
 
 The longevity of our species ultimately depends on the longevity of the broader community of life. Since humans have developed the *capability* to quickly destroy ecological health, tearing the community of life to shreds, we come to the conclusion that this behavior is not in our species’ own best self-interest. Modernity puts us on the path of destruction, while markets lash the steering wheel in place. All the “goods” we can readily identify from modernity are just one side of a coin whose back-side ills cannot be sliced or wished away. The only way to a better path, as I see it, is to **demote** humans. Eliminate human supremacist cultural values (the Human Reich, as [Eileen Crist calls it in a brilliant piece](https://www.resilience.org/stories/2015-01-23/ptolemaic-environmentalism/)). Put the community of life first. Trade hubris for humility. Live in service to and in reciprocity with the more-than-human world. If this means the end of gadgets or other unsustainable perks, so be it. What’s more important?
 
