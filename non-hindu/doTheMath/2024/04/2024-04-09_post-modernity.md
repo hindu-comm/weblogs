@@ -63,7 +63,7 @@ I can’t prove we won’t colonize space any more than I can prove you won’t 
 It’s just phenomenally unlikely given the stack of low-probability conditions that would need to be met.  
 I need to watch my word count here (I elaborate on the juvenile fantasy [elsewhere](https://escholarship.org/uc/item/9js5291m#chapter.4)), so will attempt a short-hand list of fundamental barriers. Like rolling a die, each in isolation might not seem like “game over,” but in aggregate, it stacks up to a pretty outlandish prospect.
 
-Contextual hardships of living in space include:
+Contextual hardships of living in space include (The first three translate to minutes, days, and weeks for survival.):
 
 1.  Nothing to breathe: we’re adapted to Earth’s atmosphere and need oxygen. 
 2.  Nothing to drink: water is thin on the ground out there. 
@@ -78,12 +78,13 @@ Contextual hardships of living in space include:
 11. We have not succeeded in creating an artificial environment capable of supporting human life even on Earth where it would be far simpler and cheaper than trying in space. What took evolution billions of years to sort out is not easily replicated or even fully understood. 
 12. Interstellar travel brings in a new list of even crazier insanity. Really. It’s insane. Proponents need serious help relocating grounded reality.
 
-The first three translate to minutes, days, and weeks for survival. In short, Earth is our context, surrounded by a biodiverse ecology.  
+In short, Earth is our context, surrounded by a biodiverse ecology. 
+
 Don’t succumb to the mental disease of taking anything else seriously. Isolated internal logic and the rare space stunt are nothing to [context](https://dothemath.ucsd.edu/2023/10/context-is-king/).
 
 ### Non-Renewable Resources
 
-We are ripping through key deposits and concentrations of non-renewable resources (fossil fuels, aquifers, minerals, metals, fertile soils) on a centuries or even decades timescale.  
+We are ripping through key deposits and concentrations of non-renewable resources (fossil fuels, aquifers+++(borewells!)+++, minerals, metals, fertile soils) on a centuries or even decades timescale.  
 It’s all anyone alive today has ever known, although the scale is substantially higher today than our elders experienced as kids. Nothing like this can persist into even the intermediate future.  
 Certainly on civilizational timescales (10,000 years since we began agriculture, then cities), the gig is up. Technically, some of these things may be said to be renewable (eventually and slowly replaced), but at nothing near the rate at which modernity consumes (requires) them.
 
@@ -135,7 +136,7 @@ Our capabilities exceeded what evolution prepared the ecosphere to tolerate, so 
 
 At this point, we can rifle through elements of modernity that fail to meet the criteria for long-term sustainable living.  
 Consequences of the renewable-only provision are the easiest to examine.  
-We probably don’t have skyscrapers, paved roads, cars, tractors, airplanes, solar panels, wind generators, electricity, computers, phones, appliances, guns, plastic crap, and depending on where you’re sitting most of the things in your field of vision (except perhaps out the window, depending on how much nature is left where you are).
+We probably don’t have skyscrapers, paved roads, cars, tractors, airplanes, solar panels, wind generators, electricity, computers, phones, appliances, guns, plastic crap, and depending on where you’re sitting - most of the things in your field of vision (except perhaps out the window, depending on how much nature is left where you are).
 
 Whoa, whoa, whoa, you might say. To many, it will seem preposterous to write off such a sweeping list that seems to encompass practically everything familiar.  
 We mistakenly attribute temporary material excess to human innovation, and imagine that the key step is one of conception, which is immune to erasure.  
