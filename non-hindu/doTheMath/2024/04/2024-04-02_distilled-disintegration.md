@@ -9,15 +9,7 @@ Source: [here](https://dothemath.ucsd.edu/2024/04/distilled-disintegration/).
 
 Distilled Disintegration
 
-<div id="attachment_5734" class="wp-caption alignright" style="width: 310px">
-
-[![](https://dothemath.ucsd.edu/wp-content/uploads/2024/04/Diverging_tracks-300x201.jpg)](https://dothemath.ucsd.edu/wp-content/uploads/2024/04/Diverging_tracks.jpg)
-
-Photo by Nigel Brown; licensed under Creative Commons
-
-</div>
-
-My adult life has run on two diverging tracks. On one, I [played science](https://dothemath.ucsd.edu/2023/12/confessions-of-a-disillusioned-scientist/). The other track branched off at age 34—twenty years ago this month—when I started teaching a class on Energy and the Environment. I was eager to piece together our likely energy future: how we would beat climate change and leave fossil fuels in the dust. Against my wishes, this fork presented unexpected turns that took a long time to sink in. The two tracks eventually became too divergent to keep a foot on each. At this stage, I can’t seem to muster the denial it would take to disregard what I have learned so that I might return to the more blissful play-time track.
+My adult life has run on two diverging tracks. On one, I [played science](https://dothemath.ucsd.edu/2023/12/confessions-of-a-disillusioned-scientist/). The other track branched off at age 34—twenty years ago this month—when I started teaching a class on Energy and the Environment. I was eager to piece together our likely energy future: how we would beat climate change and leave fossil fuels in the dust. Against my wishes, this fork presented unexpected turns that took a long time to sink in.+++(5)+++ The two tracks eventually became too divergent to keep a foot on each. At this stage, I can’t seem to muster the denial it would take to disregard what I have learned so that I might return to the more blissful play-time track.
 
 Much of my writing in the last few years has tried to capture why I have become convinced that [modernity can’t last](https://dothemath.ucsd.edu/2023/09/can-modernity-last/), likely to begin disintegrating in the near-term. In this post, I attempt to distill core elements informing this sense. My apologies if this seems like a rehash. For what it’s worth, the packaging exercise is something that helps me address the question I constantly ask myself: what part of this might I have wrong? It’s a way to take stock.
 
