@@ -101,4 +101,12 @@ Just breathe.
 
 Hits: 31802
 
-[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fdothemath.ucsd.edu%2F2021%2F05%2Fwhy-worry-about-collapse%2F&linkname=Why%20Worry%20About%20Collapse%3F "Facebook")[](https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fdothemath.ucsd.edu%2F2021%2F05%2Fwhy-worry-about-collapse%2F&linkname=Why%20Worry%20About%20Collapse%3F "Twitter")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fdothemath.ucsd.edu%2F2021%2F05%2Fwhy-worry-about-collapse%2F&linkname=Why%20Worry%20About%20Collapse%3F "Email")[](https://www.addtoany.com/share)
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Alice Friedemann on 2021-05-18 at 12:23 said:
+Wonderful article! I became aware of peak oil in 2000 after reading my geologist Grandfather Pettijohn's memoir in the section he talks about student and life-long friend M. King Hubbert. I found more information at the Colorado School of Mines and elsewhere on Hubbert's curve and peak everything. In 2004 a peak oil meetup group was formed in Oakland that lasted about ten years. Hundreds came and hundreds left because our message of "consume less, organic agriculture, bicycling not cars" and so on is not what people want to hear. They live wind and solar, they can continue to consume endlessly without guilt. People are incredibly resistant to the message that our way of life may not continue. Even my husband who edited my book "Life After Fossil Fuels" refuses to lose hope, though he rationally knows I'm probably right, he can't bear to believe it because he has a son and grandson. I collected why people reject peak everything here: https://energyskeptic.com/2020/telling-others-about-peak-oil/
+A lot of the denial comes from not understanding the implications of exponential growth, which I didn't fully realize until meeting Albert Bartlett at the 2005 Denver ASPO conference (which mayor Hickenlooper, not governor, presided over).
+Fossils can "paper over" depletion. We can still get water 500 feet down from aquifers. We can get the last schools of fish with factory ships that can travel to the ends of the earth. Hunger would be orders of magnitude greater if diesel trucks couldn't harvest crops in the small window of a few weeks before rain and snow and deliver them nation and world-wide. 4 billion of us depend on the natural gas used as the energy and feedstock to make nitrogen fertilizer.
+Ah well, if peak oil did happen in 2018 as per the EIA, or 2008 (conventional) as per the IEA, you may know some of the answers unfortunately…
+</details>
