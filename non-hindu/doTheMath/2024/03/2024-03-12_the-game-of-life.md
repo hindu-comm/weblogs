@@ -73,7 +73,18 @@ Sure, we might peek into sub-units and understand the complex emergence of, say,
 
 To be sure, our world is *not* well represented by The Game of Life (GoL), which possesses the merest shadow of the degree of complexity found in our real world. The table below highlights some of the key differences.
 
-|                |                  |                        | |----------------|------------------|------------------------| | Attribute      | Game of Life     | Real World             | | Dimensionality | 2                | 3                      | | Space          | discrete squares | continuous             | | Time           | discrete steps   | continuous             | | Range          | adjacent only    | infinite               | | Reactions      | binary: live/die | continuous             | | States         | 2                | multitude              | | Rules          | 2, simple        | many, nuanced          | | Surroundings   | empty void       | connected, interactive | | Determinism    | strict           | quantum probabilities  |
+|                |                  |                        |
+|----------------|------------------|------------------------|
+| Attribute      | Game of Life     | Real World             |
+| Dimensionality | 2                | 3                      |
+| Space          | discrete squares | continuous             |
+| Time           | discrete steps   | continuous             |
+| Range          | adjacent only    | infinite               |
+| Reactions      | binary: live/die | continuous             |
+| States         | 2                | multitude              |
+| Rules          | 2, simple        | many, nuanced          |
+| Surroundings   | empty void       | connected, interactive |
+| Determinism    | strict           | quantum probabilities  |
 
 In every way, the GoL is simpler than the real world: fewer dimensions; more restricted interaction range; binary states and reactions; and only two rules (vs. what is found in a physics textbook). Many GoL simulations produce gliders heading off into the void, predictably lasting “forever” as they cruise into empty space. Life on Earth affords no such escape from interaction.
 

@@ -13,7 +13,15 @@ Last week [I reported](http://blogs.discovermagazine.com/gnxp/2011/01/neandertal
 
 The dystrophin haplotype though has higher frequencies in some populations than expectation. \~9% in non-Africans as a whole, and higher in some groups. So there was a reasonable expectation that people might find that they carried it snooping through their genomes. Now that my parents (RF and RM) have come through, as well as sibling \#2 (RS2), I can show you this:
 
-|           |           |           |           |           |             |          |          |          |          | |-----------|-----------|-----------|-----------|-----------|-------------|----------|----------|----------|----------| |           | **SNPs**  |           |           |           |             |          |          |          |          | |           | rs1456740 | rs6628685 | rs331370  | rs2854965 | rs6653863   | rs331369 | rs331368 | rs331367 | rs331366 | | **RF**    | A         | A         | T         | G         | A           | A        | T        | T        | T        | | **RS1**   | A/G       | A/A       | C/T       | G/G       | A/G         | A/C      | T/T      | T/T      | G/T      | | **Razib** | G         | A         | C         | G         | (not typed) | C        | T        | T        | G        | | **RM**    | A/G       | A/A       | C/T       | G/G       | A/G         | A/C      | T/T      | T/T      | G/T      | | **RS2**   | A         | A         | (no call) | G         | A           | A        | T        | T        | T        |
+|           |           |           |           |           |             |          |          |          |          |
+|-----------|-----------|-----------|-----------|-----------|-------------|----------|----------|----------|----------|
+|           | **SNPs**  |           |           |           |             |          |          |          |          |
+|           | rs1456740 | rs6628685 | rs331370  | rs2854965 | rs6653863   | rs331369 | rs331368 | rs331367 | rs331366 |
+| **RF**    | A         | A         | T         | G         | A           | A        | T        | T        | T        |
+| **RS1**   | A/G       | A/A       | C/T       | G/G       | A/G         | A/C      | T/T      | T/T      | G/T      |
+| **Razib** | G         | A         | C         | G         | (not typed) | C        | T        | T        | G        |
+| **RM**    | A/G       | A/A       | C/T       | G/G       | A/G         | A/C      | T/T      | T/T      | G/T      |
+| **RS2**   | A         | A         | (no call) | G         | A           | A        | T        | T        | T        |
 
 As you can see RS2 and RF have a single copy of the Neandertal haplotype. That’s because males only have one X chromosome. In contrast, females have two, so you can’t know immediately what the haplotype necessarily is just by looking at the sequence of genotypes which you can extract out of the 23andMe browser. But since males inherit the X chromosome from their mother, one can infer that my mother is a heterozygote for the Neandertal haplotype, B006, and B001, the most common Eurasian one. So here’s what I can figure out:
 

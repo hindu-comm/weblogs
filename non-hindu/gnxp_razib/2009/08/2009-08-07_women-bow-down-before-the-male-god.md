@@ -11,7 +11,17 @@ Women bow down before the male god
 
 On another weblog someone alluded to the sex difference in religious belief among black Americans, to the effect that it was more pronounced than among whites. Is this true? I decided to check the [GSS](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss08), and found something interesting, though not too surprising. It’s a robust [cross-cultural finding](https://www.gnxp.com/blog/2008/08/male-vs-female-religiosity-difference.php) that women are more religious than men, and it holds for the United States. But how does it break down across demographics?
 
-|                     |        |          |              |                           | |---------------------|--------|----------|--------------|---------------------------| | **Know God Exists** |        |          |              |                           | |                    | *Male* | *Female* | *Difference* | *Proportional Difference* | | *All*               | 55.3   | 70.7     | 15.4         | 28%                       | | *Whites*            | 52.4   | 67.8     | 15.4         | 29%                       | | *Blacks*            | 73.7   | 86.6     | 12.9         | 18%                       | | *College+*          | 44.7   | 58.9     | 14.2         | 32%                       | | *No college*        | 58.9   | 74.1     | 15.2         | 26%                       | | *Liberal*           | 41.6   | 56.8     | 15.2         | 37%                       | | *Conservative*      | 63.9   | 79.3     | 15.5         | 24%                       |
+|                     |        |          |              |                           |
+|---------------------|--------|----------|--------------|---------------------------|
+| **Know God Exists** |        |          |              |                           |
+|                    | *Male* | *Female* | *Difference* | *Proportional Difference* |
+| *All*               | 55.3   | 70.7     | 15.4         | 28%                       |
+| *Whites*            | 52.4   | 67.8     | 15.4         | 29%                       |
+| *Blacks*            | 73.7   | 86.6     | 12.9         | 18%                       |
+| *College+*          | 44.7   | 58.9     | 14.2         | 32%                       |
+| *No college*        | 58.9   | 74.1     | 15.2         | 26%                       |
+| *Liberal*           | 41.6   | 56.8     | 15.2         | 37%                       |
+| *Conservative*      | 63.9   | 79.3     | 15.5         | 24%                       |
 
 As you can see women are more religious than men across various population segments in a rather consistent manner. Contrary to the intuition of some there is actually less difference among blacks than among whites. In fact inspection seems to show that **the more secular a class is, the greater the sex difference**. In other words, secularization seems to effect males to a greater extent than females within any give class. The diagram below illustrates it for the population segments above:
 

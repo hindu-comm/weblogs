@@ -25,7 +25,53 @@ Results below….
 
 Here are the correlations in responses between the categories sorted:
 
-|                                         |      | |-----------------------------------------|------| | New England & East South Central        | 0.6  | | Black & New England                     | 0.61 | | Black & Mid Atlantic                    | 0.69 | | Mid Atlantic & East South Central       | 0.7  | | Black & Pacific                         | 0.73 | | East South Central & Pacific            | 0.75 | | New England & West South Central        | 0.78 | | Black & Mountain                        | 0.8  | | New England & South Atlantic            | 0.81 | | Black & Midwest                         | 0.81 | | Black & Great Lakes                     | 0.83 | | East South Central & Mountain           | 0.84 | | Mid Atlantic & West South Central       | 0.85 | | Black & South Atlantic                  | 0.86 | | Midwest & East South Central            | 0.87 | | Mid Atlantic & South Atlantic           | 0.87 | | Black & West South Central              | 0.87 | | Great Lakes & East South Atlantic       | 0.88 | | New England & Midwest                   | 0.88 | | New England & Great Lakes               | 0.88 | | West South Central & Pacific            | 0.89 | | Black & East South Central              | 0.89 | | South Atlantic & Pacific                | 0.9  | | New England & Mountain                  | 0.9  | | Mid Atlantic & Midwest                  | 0.93 | | Mid Atlantic & Mountain                 | 0.93 | | Mid Atlantic & Great Lakes              | 0.94 | | New England & Pacific                   | 0.94 | | Mid Atlantic & Pacific                  | 0.94 | | South Atlantic & East South Central     | 0.95 | | West South Central & Mountain           | 0.95 | | Great Lakes & Pacific                   | 0.95 | | South Atlantic & Mountain               | 0.95 | | East South Central & West South Central | 0.95 | | New England & Mid Atlantic              | 0.96 | | Midwest & West South Central            | 0.96 | | Midwest & South Atlantic                | 0.96 | | Midwest & Pacific                       | 0.96 | | Great Lakes & West South Atlantic       | 0.97 | | Great Lakes & South Atlantic            | 0.97 | | Mountain & Pacific                      | 0.98 | | Great Lakes & Mountains                 | 0.98 | | Midwest & Mountain                      | 0.99 | | Great Lakes & Midwest                   | 0.99 | | South Atlantic & West South Central     | 0.99 |
+|                                         |      |
+|-----------------------------------------|------|
+| New England & East South Central        | 0.6  |
+| Black & New England                     | 0.61 |
+| Black & Mid Atlantic                    | 0.69 |
+| Mid Atlantic & East South Central       | 0.7  |
+| Black & Pacific                         | 0.73 |
+| East South Central & Pacific            | 0.75 |
+| New England & West South Central        | 0.78 |
+| Black & Mountain                        | 0.8  |
+| New England & South Atlantic            | 0.81 |
+| Black & Midwest                         | 0.81 |
+| Black & Great Lakes                     | 0.83 |
+| East South Central & Mountain           | 0.84 |
+| Mid Atlantic & West South Central       | 0.85 |
+| Black & South Atlantic                  | 0.86 |
+| Midwest & East South Central            | 0.87 |
+| Mid Atlantic & South Atlantic           | 0.87 |
+| Black & West South Central              | 0.87 |
+| Great Lakes & East South Atlantic       | 0.88 |
+| New England & Midwest                   | 0.88 |
+| New England & Great Lakes               | 0.88 |
+| West South Central & Pacific            | 0.89 |
+| Black & East South Central              | 0.89 |
+| South Atlantic & Pacific                | 0.9  |
+| New England & Mountain                  | 0.9  |
+| Mid Atlantic & Midwest                  | 0.93 |
+| Mid Atlantic & Mountain                 | 0.93 |
+| Mid Atlantic & Great Lakes              | 0.94 |
+| New England & Pacific                   | 0.94 |
+| Mid Atlantic & Pacific                  | 0.94 |
+| South Atlantic & East South Central     | 0.95 |
+| West South Central & Mountain           | 0.95 |
+| Great Lakes & Pacific                   | 0.95 |
+| South Atlantic & Mountain               | 0.95 |
+| East South Central & West South Central | 0.95 |
+| New England & Mid Atlantic              | 0.96 |
+| Midwest & West South Central            | 0.96 |
+| Midwest & South Atlantic                | 0.96 |
+| Midwest & Pacific                       | 0.96 |
+| Great Lakes & West South Atlantic       | 0.97 |
+| Great Lakes & South Atlantic            | 0.97 |
+| Mountain & Pacific                      | 0.98 |
+| Great Lakes & Mountains                 | 0.98 |
+| Midwest & Mountain                      | 0.99 |
+| Great Lakes & Midwest                   | 0.99 |
+| South Atlantic & West South Central     | 0.99 |
 
 As hinted in Lind’s piece, **the group of white Americans that black Americans resemble most of their values and outlook are Southerners, in particular the most culturally conservative Southern block.** On a host of social issues black Americans resemble white Americans from Mississippi, Alabama, Kentucky and Tennessee. But, since they vote Democrat all is forgiven I suppose. Now, if I blacks ever did start voting their social attitudes, I wonder what equivalent of “crackers” they would be labelled. Oh, [wait](http://rodonline.typepad.com/rodonline/2008/11/n-word-and-raci.html)….  
 **Addendum:** Removing political party affiliation, and the correlation between blacks and the “East South Central” goes from 0.89 to 0.95.

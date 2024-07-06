@@ -112,7 +112,20 @@ if ![ad=bc](https://s0.wp.com/latex.php?latex=ad%3Dbc&bg=ffffff&fg=333333&s=0&c=
 
 Thus, it is a parametrization that allows one to find six numbers such that the sum of the squares and the fourth powers respectively of the first 3 is equal to those of the last 3.
 
-|     |     |     |     |     |     | |----:|----:|----:|----:|----:|----:| |   1 |   9 |  10 |   5 |   6 |  11 | |   2 |  11 |  13 |   7 |   7 |  14 | |   3 |  13 |  16 |   9 |   8 |  17 | |   4 |  15 |  19 |  11 |   9 |  20 | |   5 |  17 |  22 |  13 |  10 |  23 | |   6 |  19 |  25 |  15 |  11 |  26 | |   7 |  21 |  28 |  17 |  12 |  29 | |   8 |  23 |  31 |  19 |  13 |  32 | |   9 |  25 |  34 |  21 |  14 |  35 | |  10 |  27 |  37 |  23 |  15 |  38 | |  11 |  29 |  40 |  25 |  16 |  41 | |  12 |  31 |  43 |  27 |  17 |  44 |
+|     |     |     |     |     |     |
+|----:|----:|----:|----:|----:|----:|
+|   1 |   9 |  10 |   5 |   6 |  11 |
+|   2 |  11 |  13 |   7 |   7 |  14 |
+|   3 |  13 |  16 |   9 |   8 |  17 |
+|   4 |  15 |  19 |  11 |   9 |  20 |
+|   5 |  17 |  22 |  13 |  10 |  23 |
+|   6 |  19 |  25 |  15 |  11 |  26 |
+|   7 |  21 |  28 |  17 |  12 |  29 |
+|   8 |  23 |  31 |  19 |  13 |  32 |
+|   9 |  25 |  34 |  21 |  14 |  35 |
+|  10 |  27 |  37 |  23 |  15 |  38 |
+|  11 |  29 |  40 |  25 |  16 |  41 |
+|  12 |  31 |  43 |  27 |  17 |  44 |
 
 With this parametrization, we can obtain the above hexad where the first term is every positive integer; the second term is every odd integer starting with 9; the fourth term is every odd integer starting with 5; the fifth term is every positive integer starting with 6. The third and sixth terms are the sums of the previous two terms. The sum of the squares of the two triads constituting these hexads will be defined by: ![14n^2 + 70n + 98; \\; n=1, 2, 3 \dots](https://s0.wp.com/latex.php?latex=14n%5E2+%2B+70n+%2B+98%3B+%5C%3B+n%3D1%2C+2%2C+3+%5Cdots&bg=ffffff&fg=333333&s=0&c=20201002) The sum of the 4th powers is given by ![98 (n^4+ 10 n^3 + 39 n^2+ 70 n +49 )](https://s0.wp.com/latex.php?latex=98+%28n%5E4%2B+10+n%5E3+%2B+39+n%5E2%2B+70+n+%2B49+%29&bg=ffffff&fg=333333&s=0&c=20201002).
 
@@ -127,7 +140,18 @@ Ramanujan gives parametrizations to solve such equations: if ![a+b+c=0](https://
 The equation ![\S 1](https://s0.wp.com/latex.php?latex=%5CS+1&bg=ffffff&fg=333333&s=0&c=20201002) is quite trivial. For the equation ![\S 2](https://s0.wp.com/latex.php?latex=%5CS+2&bg=ffffff&fg=333333&s=0&c=20201002), using Ramanujan’s parametrization one can obtain several sets of tetrads. Below is an example where we take ![a](https://s0.wp.com/latex.php?latex=a&bg=ffffff&fg=333333&s=0&c=20201002) to be successive integers starting from 0 and ![b](https://s0.wp.com/latex.php?latex=b&bg=ffffff&fg=333333&s=0&c=20201002) to be 1 more than ![a](https://s0.wp.com/latex.php?latex=a&bg=ffffff&fg=333333&s=0&c=20201002):  
 ![a=0,1,2,3\dots; b=a+1](https://s0.wp.com/latex.php?latex=a%3D0%2C1%2C2%2C3%5Cdots%3B+b%3Da%2B1&bg=ffffff&fg=333333&s=0&c=20201002)
 
-|   w |   x |   y |   z | |----:|----:|----:|----:| |   1 |   0 |   1 |   1 | |   7 |   5 |   3 |   8 | |  19 |  16 |   5 |  21 | |  37 |  33 |   7 |  40 | |  61 |  56 |   9 |  65 | |  91 |  85 |  11 |  96 | | 127 | 120 |  13 | 133 | | 169 | 161 |  15 | 176 | | 217 | 208 |  17 | 225 | | 271 | 261 |  19 | 280 |
+|   w |   x |   y |   z |
+|----:|----:|----:|----:|
+|   1 |   0 |   1 |   1 |
+|   7 |   5 |   3 |   8 |
+|  19 |  16 |   5 |  21 |
+|  37 |  33 |   7 |  40 |
+|  61 |  56 |   9 |  65 |
+|  91 |  85 |  11 |  96 |
+| 127 | 120 |  13 | 133 |
+| 169 | 161 |  15 | 176 |
+| 217 | 208 |  17 | 225 |
+| 271 | 261 |  19 | 280 |
 
 For this tetrad, one sees that ![y](https://s0.wp.com/latex.php?latex=y&bg=ffffff&fg=333333&s=0&c=20201002) is the sequence of odd numbers. ![w](https://s0.wp.com/latex.php?latex=w&bg=ffffff&fg=333333&s=0&c=20201002) (first column) are the [hex numbers](https://manasataramgini.wordpress.com/2017/10/23/triangles-hexes-and-cubes/), i.e., the centered hexagonal numbers given by the quadratic expression ![3n^2+3n+1](https://s0.wp.com/latex.php?latex=3n%5E2%2B3n%2B1&bg=ffffff&fg=333333&s=0&c=20201002). The sequence defined by ![w](https://s0.wp.com/latex.php?latex=w&bg=ffffff&fg=333333&s=0&c=20201002) also defines the maximum number of bounded areas you can obtain by drawing triangles on a plane: With 1 triangle you can obtain at most 1 bounded area; with 2 you can obtain at most 7 (hexastar); with 3 you obtain 19 and so on. ![x](https://s0.wp.com/latex.php?latex=x&bg=ffffff&fg=333333&s=0&c=20201002) (second column) is the square star numbers (Figure 4), i.e., square numbers with triangular numbers on each side, given by the quadratic expression ![3n^2+2n](https://s0.wp.com/latex.php?latex=3n%5E2%2B2n&bg=ffffff&fg=333333&s=0&c=20201002), while ![z](https://s0.wp.com/latex.php?latex=z&bg=ffffff&fg=333333&s=0&c=20201002) (fourth column) are the square grid numbers given by the expression ![3n^2-2n](https://s0.wp.com/latex.php?latex=3n%5E2-2n&bg=ffffff&fg=333333&s=0&c=20201002) (Figure 5).
 
@@ -144,7 +168,18 @@ Figure 6. The hexadic spiral. The 3 linearities in blue boxes correspond to 3 of
 
 We can again use Ramanujan’s parametrization for ![\S 2](https://s0.wp.com/latex.php?latex=%5CS+2&bg=ffffff&fg=333333&s=0&c=20201002) with ![a=1](https://s0.wp.com/latex.php?latex=a%3D1&bg=ffffff&fg=333333&s=0&c=20201002) and ![b](https://s0.wp.com/latex.php?latex=b&bg=ffffff&fg=333333&s=0&c=20201002) as successive integers starting with 0. This yields the below sequence of tetrads:
 
-|   w |   x |   y |   z | |----:|----:|----:|----:| |   1 |   1 |   1 |   0 | |   3 |   3 |   0 |   3 | |   7 |   5 |   3 |   8 | |  13 |   7 |   8 |  15 | |  21 |   9 |  15 |  24 | |  31 |  11 |  24 |  35 | |  43 |  13 |  35 |  48 | |  57 |  15 |  48 |  63 | |  73 |  17 |  63 |  80 | |  91 |  19 |  80 |  99 |
+|   w |   x |   y |   z |
+|----:|----:|----:|----:|
+|   1 |   1 |   1 |   0 |
+|   3 |   3 |   0 |   3 |
+|   7 |   5 |   3 |   8 |
+|  13 |   7 |   8 |  15 |
+|  21 |   9 |  15 |  24 |
+|  31 |  11 |  24 |  35 |
+|  43 |  13 |  35 |  48 |
+|  57 |  15 |  48 |  63 |
+|  73 |  17 |  63 |  80 |
+|  91 |  19 |  80 |  99 |
 
 The sequence corresponding to ![w](https://s0.wp.com/latex.php?latex=w&bg=ffffff&fg=333333&s=0&c=20201002) in this tetrad is specified by ![n^2 - n + 1](https://s0.wp.com/latex.php?latex=n%5E2+-+n+%2B+1&bg=ffffff&fg=333333&s=0&c=20201002). Remarkably, this sequence appears in multiple geometric contexts. One is the Euler (Venn) diagram problem. It is an analog of the problem of the maximum number of bounded areas obtained with triangles. What is the maximum number of bounded compartments you can represent using circles (Figure 7)? The answer is this sequence.
 

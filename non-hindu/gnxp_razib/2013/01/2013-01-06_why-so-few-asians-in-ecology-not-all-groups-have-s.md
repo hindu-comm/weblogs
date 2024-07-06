@@ -15,7 +15,29 @@ We can look at this issue another way. In 2010 US News & World Report listed the
 
 The raw results are:
 
-|                             |           |               |             | |-----------------------------|-----------|---------------|-------------| | **University & Department** | **Asian** | **Not Asian** | **% Asian** | | Berkeley – Ecology          | 0         | 46            | 0.0%        | | Berkeley – Neuroscience     | 4         | 40            | 10.0%       | | Harvard – Ecology           | 3         | 48            | 6.3%        | | Harvard – Neuroscience      | 21        | 127           | 16.5%       | | Davis – Ecology             | 8         | 117           | 6.8%        | | Davis – Neuroscience        | 12        | 73            | 16.4%       | | Chicago – Ecology           | 3         | 22            | 13.6%       | | Chicago – Neuroscience      | 11        | 65            | 16.9%       | | Stanford – Ecology          | 2         | 17            | 11.8%       | | Stanford – Neuroscience     | 19        | 74            | 25.7%       | | Cornell – Ecology           | 1         | 31            | 3.2%        | | Cornell – Neuroscience      | 3         | 39            | 7.7%        | | UTexas – Ecology            | 3         | 43            | 7.0%        | | UTexas – Neuroscience       | 7         | 63            | 11.1%       | | Yale – Ecology              | 0         | 23            | 0.0%        | | Yale – Neuroscience         | 13        | 83            | 15.7%       | | Princeton – Ecology         | 0         | 15            | 0.0%        | | Princeton – Neuroscience    | 2         | 17            | 11.8%       | | Arizona – Ecology           | 0         | 54            | 0.0%        | | Arizona – Neuroscience      | 0         | 20            | 0.0%        |
+|                             |           |               |             |
+|-----------------------------|-----------|---------------|-------------|
+| **University & Department** | **Asian** | **Not Asian** | **% Asian** |
+| Berkeley – Ecology          | 0         | 46            | 0.0%        |
+| Berkeley – Neuroscience     | 4         | 40            | 10.0%       |
+| Harvard – Ecology           | 3         | 48            | 6.3%        |
+| Harvard – Neuroscience      | 21        | 127           | 16.5%       |
+| Davis – Ecology             | 8         | 117           | 6.8%        |
+| Davis – Neuroscience        | 12        | 73            | 16.4%       |
+| Chicago – Ecology           | 3         | 22            | 13.6%       |
+| Chicago – Neuroscience      | 11        | 65            | 16.9%       |
+| Stanford – Ecology          | 2         | 17            | 11.8%       |
+| Stanford – Neuroscience     | 19        | 74            | 25.7%       |
+| Cornell – Ecology           | 1         | 31            | 3.2%        |
+| Cornell – Neuroscience      | 3         | 39            | 7.7%        |
+| UTexas – Ecology            | 3         | 43            | 7.0%        |
+| UTexas – Neuroscience       | 7         | 63            | 11.1%       |
+| Yale – Ecology              | 0         | 23            | 0.0%        |
+| Yale – Neuroscience         | 13        | 83            | 15.7%       |
+| Princeton – Ecology         | 0         | 15            | 0.0%        |
+| Princeton – Neuroscience    | 2         | 17            | 11.8%       |
+| Arizona – Ecology           | 0         | 54            | 0.0%        |
+| Arizona – Neuroscience      | 0         | 20            | 0.0%        |
 
 
 

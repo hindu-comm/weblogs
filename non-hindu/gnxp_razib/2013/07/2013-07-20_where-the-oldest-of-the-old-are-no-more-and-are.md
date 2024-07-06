@@ -21,7 +21,26 @@ But we don’t need to focus on prehistory. **The recent history and semi-histor
 
 One way we can further explore this issue is through genetics. For example, here are some results from the [Harappa](https://docs.google.com/spreadsheet/ccc?key=0AuW3R0Ys-P4HdDhib1M5OE1wWENNb2haUFFWZzNBMEE) data set. I’ve posted only the most relevant ancestral components, and pruned the populations.\*
 
-|                 |              |                |                |                | |-----------------|--------------|----------------|----------------|----------------| | **Ethnicity**   | **“Indian”** | **“SE Asian”** | **“NE Asian”** | **“Siberian”** | | Iban            | 5%           | 87%            | 0%             | 4%             | | Malay-Singapore | 11%          | 72%            | 6%             | 3%             | | Cambodian       | 11%          | 71%            | 10%            | 3%             | | Dai-China       | 0%           | 69%            | 30%            | 0%             | | Vietnamese      | 2%           | 62%            | 35%            | 0%             | | Thai            | 14%          | 61%            | 12%            | 3%             | | Lahu            | 3%           | 55%            | 37%            | 3%             | | Miao            | 0%           | 37%            | 61%            | 1%             | | Han-Singapore   | 0%           | 36%            | 63%            | 0%             | | Han-South       | 0%           | 33%            | 66%            | 0%             | | Burman          | 17%          | 28%            | 42%            | 6%             | | Han-Beijing     | 0%           | 19%            | 76%            | 3%             | | Santhal         | 72%          | 17%            | 0%             | 1%             | | Naxi            | 4%           | 15%            | 73%            | 7%             | | Japanese        | 1%           | 11%            | 74%            | 11%            | | Mongola         | 0%           | 7%             | 62%            | 23%            | | Bengali         | 47%          | 6%             | 5%             | 2%             |
+|                 |              |                |                |                |
+|-----------------|--------------|----------------|----------------|----------------|
+| **Ethnicity**   | **“Indian”** | **“SE Asian”** | **“NE Asian”** | **“Siberian”** |
+| Iban            | 5%           | 87%            | 0%             | 4%             |
+| Malay-Singapore | 11%          | 72%            | 6%             | 3%             |
+| Cambodian       | 11%          | 71%            | 10%            | 3%             |
+| Dai-China       | 0%           | 69%            | 30%            | 0%             |
+| Vietnamese      | 2%           | 62%            | 35%            | 0%             |
+| Thai            | 14%          | 61%            | 12%            | 3%             |
+| Lahu            | 3%           | 55%            | 37%            | 3%             |
+| Miao            | 0%           | 37%            | 61%            | 1%             |
+| Han-Singapore   | 0%           | 36%            | 63%            | 0%             |
+| Han-South       | 0%           | 33%            | 66%            | 0%             |
+| Burman          | 17%          | 28%            | 42%            | 6%             |
+| Han-Beijing     | 0%           | 19%            | 76%            | 3%             |
+| Santhal         | 72%          | 17%            | 0%             | 1%             |
+| Naxi            | 4%           | 15%            | 73%            | 7%             |
+| Japanese        | 1%           | 11%            | 74%            | 11%            |
+| Mongola         | 0%           | 7%             | 62%            | 23%            |
+| Bengali         | 47%          | 6%             | 5%             | 2%             |
 
 
 

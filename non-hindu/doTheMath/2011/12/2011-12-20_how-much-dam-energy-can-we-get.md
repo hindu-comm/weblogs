@@ -31,7 +31,20 @@ Now, it is the job of the turbine(s) to extract some of the kinetic energy this 
 
 The U.S. has 78GW of hydroelectric capacity installed. In a year, these plants produce 272TWh. Divide by 8766 hours in a year, and we find 0.031TW (31GW) of *average* power. This implies a 40% capacity factor. I was surprised by this: I thought dams churned along at a steady rate all the live-long day. Seasonal variations are apparently much larger than I appreciated—snow-melt being one factor. The following table lists all hydroelectric facilities in the U.S. bigger than 1GW—representing 30% of total installed capacity in just 11 dams. The table shows each dam’s nameplate (peak) capacity, height, implied flow at peak generation capacity (after which spillways must be activated; assumes 90% efficiency), and capacity factor.
 
-|                     |               |            |                  |                 | |---------------------|---------------|------------|------------------|-----------------| | Name                | Capacity (GW) | Height (m) | Peak Flow (m³/s) | Capacity Factor | | Grand Coulee        | 6.495         | 168        | 4300             | 0.36            | | Chief Joseph        | 2.456         | 70         | 3970             | 0.54            | | Robert Moses Niagra | 2.429         | 29.6       | 9300             | 0.63            | | John Day            | 2.160         | 70         | 3500             | 0.47            | | Hoover              | 2.079         | 222        | 1060             | 0.22            | | The Dalles          | 1.820         | 61         | 3380             | 0.41            | | Glen Canyon         | 1.312         | 216        | 690              | 0.30            | | Rocky Reach         | 1.300         | 40         | 3720             | 0.55            | | Bonneville          | 1.093         | 60         | 2060             | 0.48            | | Boundary            | 1.040         | 110        | 1070             | 0.40            | | Wanapum             | 1.039         | 63         | 1870             | 0.58            |
+|                     |               |            |                  |                 |
+|---------------------|---------------|------------|------------------|-----------------|
+| Name                | Capacity (GW) | Height (m) | Peak Flow (m³/s) | Capacity Factor |
+| Grand Coulee        | 6.495         | 168        | 4300             | 0.36            |
+| Chief Joseph        | 2.456         | 70         | 3970             | 0.54            |
+| Robert Moses Niagra | 2.429         | 29.6       | 9300             | 0.63            |
+| John Day            | 2.160         | 70         | 3500             | 0.47            |
+| Hoover              | 2.079         | 222        | 1060             | 0.22            |
+| The Dalles          | 1.820         | 61         | 3380             | 0.41            |
+| Glen Canyon         | 1.312         | 216        | 690              | 0.30            |
+| Rocky Reach         | 1.300         | 40         | 3720             | 0.55            |
+| Bonneville          | 1.093         | 60         | 2060             | 0.48            |
+| Boundary            | 1.040         | 110        | 1070             | 0.40            |
+| Wanapum             | 1.039         | 63         | 1870             | 0.58            |
 
 Eight of the eleven dams in the table are in the Pacific Northwest. Of possible interest is the fact that the power-capacity-weighted heights of these dams is 113m, while for the entire U.S. fleet, it is 88m (much higher than I thought). For reference, the newly completed Three Gorges dam in China is rated at 20.3 GW, has a nominal head height of 81 m, an implied flow of 28,500 m³/s, and a capacity factor of 0.45.
 

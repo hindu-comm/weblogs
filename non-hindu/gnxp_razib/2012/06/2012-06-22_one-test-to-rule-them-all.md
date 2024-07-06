@@ -17,7 +17,13 @@ ER also observes that in fact minorities, and in particular Asians, make use of 
 
 **Use of Test-Prep Courses and Gains, by Race and Ethnicity**
 
-|                     |                               |                                       | |---------------------|-------------------------------|---------------------------------------| | **Group**           | **% Taking Test-Prep Course** | **Post-Course Gain in Points on SAT** | | East Asian American | 30%                           | 68.8                                  | | Other Asian         | 15%                           | 23.8                                  | | White               | 10%                           | 12.3                                  | | Black               | 16%                           | 14.9                                  | | Hispanic            | 11%                           | 24.6                                  |
+|                     |                               |                                       |
+|---------------------|-------------------------------|---------------------------------------|
+| **Group**           | **% Taking Test-Prep Course** | **Post-Course Gain in Points on SAT** |
+| East Asian American | 30%                           | 68.8                                  |
+| Other Asian         | 15%                           | 23.8                                  |
+| White               | 10%                           | 12.3                                  |
+| Black               | 16%                           | 14.9                                  | | Hispanic            | 11%                           | 24.6                                  |
 
 When I was in kindergarten I scored in the bottom 5 percent on an IQ test in the first week. At the end of the year I scored in the top 5 percent. I didn’t know English very well at the beginning of the year, and full immersion helped me catch up by year’s end (my English converged to nearly 100% fluency by 1st grade). Additionally, I might add that until I was in about 12 I assumed that my generally good standardized test cores and academic performance was due to my own work ethic, and that the vast majority of children who scored lower than me were just lazy (that is what my parents told me; a teacher had to explain to me that it was obvious I actually spent less time on schoolwork than some of my peers, whose realized performance was weaker).
 

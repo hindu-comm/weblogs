@@ -18,7 +18,8 @@ This is on my mind because of the emergence of packages such as [TreeMix](https:
 
 The big result from MixMapper is that it extends the result of [Patterson et al.](http://www.genetics.org/content/early/2012/09/06/genetics.112.145037.abstract), and confirms that **modern Europeans seem to be an admixture between a “north Eurasian” population, and a vague “west Eurasian” population.** Importantly, they find evidence of admixture in Sardinians, which implies that Patterson et al.’s original were not sensitive to admixture in putative reference populations (note that Patterson is a coauthor on this paper as well). The rub, as noted in the paper, is that it is difficult to estimate admixture when you don’t have “pure” ancestral reference populations. And yet here the takeaway for me is that we may need to rethink our whole conception of pure ancestral populations, and imagine a human phylogenetic tree as a series of lattices in eternal flux, with admixed nodes periodically expanding so as to generate the artifice of a diversifying tree. The closer we look, the more likely that it seems that most of the populations which have undergone demographic expansion in the past 10,000 years are also the products of admixture. Any story of the past 10,000 years, and likely the past 100,000 years, must give space at the center of the narrative arc lateral gene flow across populations.
 
-|       |                                                                | |-------|----------------------------------------------------------------| | Cite: | [arXiv:1212.2555](http://arxiv.org/abs/1212.2555)\[q-bio.PE\] |
+|       |                                                                |
+|-------|----------------------------------------------------------------| | Cite: | [arXiv:1212.2555](http://arxiv.org/abs/1212.2555)\[q-bio.PE\] |
 
 ### Related Posts:
 

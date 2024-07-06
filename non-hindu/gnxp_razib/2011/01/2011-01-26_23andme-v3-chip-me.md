@@ -18,11 +18,43 @@ I’m line \#2. A sibling is line \#1. Looking at this sort of stuff makes it re
 
 In a bit of a surprise, while I’m 43% “Asian,” my sibling is 40% “Asian.” This is somewhat reflected in [global similarity](https://www.23andme.com/you/globalsim/).
 
-|                    |           |             |                | |--------------------|-----------|-------------|----------------| |                    | **Razib** | **Sibling** | **Difference** | | Northern Europe    | 66.56     | 66.53       | 0.03           | | Southern Europe    | 66.47     | 66.43       | 0.04           | | Middle Eastern     | 66.38     | 66.35       | 0.03           | | Northern Africa    | 65.78     | 65.68       | 0.1            | | Central/South Asia | 67.18     | 67.14       | 0.04           | | East Asia          | 67.66     | 67.56       | 0.1            | | Siberia            | 67.47     | 67.36       | 0.11           | | Oceania            | 67.39     | 67.32       | 0.07           | | North America      | 67.2      | 67.15       | 0.05           | | South America      | 67.33     | 67.18       | 0.15           | | West African       | 63.99     | 63.87       | 0.12           | | Central African    | 64        | 63.89       | 0.11           | | Eastern African    | 64.15     | 64.06       | 0.09           | | South African      | 64.04     | 63.93       | 0.11           |
+|                    |           |             |                |
+|--------------------|-----------|-------------|----------------|
+|                    | **Razib** | **Sibling** | **Difference** |
+| Northern Europe    | 66.56     | 66.53       | 0.03           |
+| Southern Europe    | 66.47     | 66.43       | 0.04           |
+| Middle Eastern     | 66.38     | 66.35       | 0.03           |
+| Northern Africa    | 65.78     | 65.68       | 0.1            |
+| Central/South Asia | 67.18     | 67.14       | 0.04           |
+| East Asia          | 67.66     | 67.56       | 0.1            |
+| Siberia            | 67.47     | 67.36       | 0.11           |
+| Oceania            | 67.39     | 67.32       | 0.07           |
+| North America      | 67.2      | 67.15       | 0.05           |
+| South America      | 67.33     | 67.18       | 0.15           |
+| West African       | 63.99     | 63.87       | 0.12           |
+| Central African    | 64        | 63.89       | 0.11           |
+| Eastern African    | 64.15     | 64.06       | 0.09           |
+| South African      | 64.04     | 63.93       | 0.11           |
 
 I was curious if the differences were v3 vs. v2 chip, so I compared two individuals of Northern European ancestry:
 
-|                    |                        |                        |                | |--------------------|------------------------|------------------------|----------------| |                    | **Northern Europe v2** | **Northern Europe v3** | **Difference** | | Northern Europe    | 67.82                  | 67.88                  | -0.06          | | Southern Europe    | 67.74                  | 67.73                  | 0.01           | | Middle Eastern     | 67.14                  | 67.12                  | 0.02           | | Northern Africa    | 66.42                  | 66.37                  | 0.05           | | Central/South Asia | 66.88                  | 66.94                  | -0.06          | | East Asia          | 65.73                  | 65.77                  | -0.04          | | Siberia            | 66.05                  | 66.07                  | -0.02          | | Oceania            | 65.62                  | 65.74                  | -0.12          | | North America      | 66.11                  | 66.15                  | -0.04          | | South America      | 66.01                  | 66.02                  | -0.01          | | West African       | 63.29                  | 63.21                  | 0.08           | | Central African    | 63.35                  | 64.24                  | -0.89          | | Eastern African    | 63.48                  | 63.43                  | 0.05           | | South African      | 63.37                  | 63.27                  | 0.1            |
+|                    |                        |                        |                |
+|--------------------|------------------------|------------------------|----------------|
+|                    | **Northern Europe v2** | **Northern Europe v3** | **Difference** |
+| Northern Europe    | 67.82                  | 67.88                  | -0.06          |
+| Southern Europe    | 67.74                  | 67.73                  | 0.01           |
+| Middle Eastern     | 67.14                  | 67.12                  | 0.02           |
+| Northern Africa    | 66.42                  | 66.37                  | 0.05           |
+| Central/South Asia | 66.88                  | 66.94                  | -0.06          |
+| East Asia          | 65.73                  | 65.77                  | -0.04          |
+| Siberia            | 66.05                  | 66.07                  | -0.02          |
+| Oceania            | 65.62                  | 65.74                  | -0.12          |
+| North America      | 66.11                  | 66.15                  | -0.04          |
+| South America      | 66.01                  | 66.02                  | -0.01          |
+| West African       | 63.29                  | 63.21                  | 0.08           |
+| Central African    | 63.35                  | 64.24                  | -0.89          |
+| Eastern African    | 63.48                  | 63.43                  | 0.05           |
+| South African      | 63.37                  | 63.27                  | 0.1            |
 
 There’s less of a consistent difference here. So I really don’t know what to think.
 

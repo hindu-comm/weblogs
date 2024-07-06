@@ -39,7 +39,28 @@ You see here that the infections are occurring in the range of absolute humidity
 
 Using a temperature and humidity table I computed when cities get “warm enough” to reduce the risk of COVID-19 transmission (I ignored the cold as a mitigator because I don’t think we really have enough reliable data):
 
-|                |                                         | |:---------------|:----------------------------------------| | **Metro Area** | **The month when it gets humid enough** | | New York       | June                                    | | Los Angeles    | June                                    | | Chicago        | May                                     | | Dallas         | April                                   | | Houston        | April                                   | | Washington DC  | May                                     | | Miami          | (all year within the zone)              | | Philadelphia   | June                                    | | Atlanta        | May                                     | | Boston         | June                                    | | San Francisco  | (all year outside of zone)              | | Seattle        | July                                    | | Milan          | June                                    | | London         | June                                    | | Tehran         | June                                    | | Mumbai         | (all year within the zone)              | | Cairo          | June                                    | | Karachi        | (all year within the zone)              | | Lahore         | July                                    |
+|                |                                         |
+|:---------------|:----------------------------------------|
+| **Metro Area** | **The month when it gets humid enough** |
+| New York       | June                                    |
+| Los Angeles    | June                                    |
+| Chicago        | May                                     |
+| Dallas         | April                                   |
+| Houston        | April                                   |
+| Washington DC  | May                                     |
+| Miami          | (all year within the zone)              |
+| Philadelphia   | June                                    |
+| Atlanta        | May                                     |
+| Boston         | June                                    |
+| San Francisco  | (all year outside of zone)              |
+| Seattle        | July                                    |
+| Milan          | June                                    |
+| London         | June                                    |
+| Tehran         | June                                    |
+| Mumbai         | (all year within the zone)              |
+| Cairo          | June                                    |
+| Karachi        | (all year within the zone)              |
+| Lahore         | July                                    |
 
 **The key point to note is that absolute humidity is dependent upon relative humidity and temperature**. Very dry cities, such as Cairo and Tehran don’t do so well, because even though they get warm rapidly in spring, they remain dry. There should be a huge difference in Pakistan, between balmy Karachi, and Lahore inland, which is drier and more continental.
 
@@ -47,7 +68,34 @@ Unfortunately, San Francisco is too cool all year, though the whole region has m
 
 **Another major wild-card here is that air-conditioning is now very popular and widespread**. This reduces absolute humidity in the environments that many people live in. Rural residents of tropical countries, who have less access to air-conditioning (and live at lower densities), may actually be relatively lightly impacted by COVID-19 compared to their jet-setting urban compatriots, who work in air-conditioned offices.
 
-|          |          |           |           |           |           |           | |:---------|:---------|:----------|:----------|:----------|:----------|:----------| | Temp – C | Temp – F | 10.00%    | 20.00%    | 30.00%    | 40.00%    | 50.00%    | | 50       | 122      | ***8.3*** | **16.6**  | **24.9**  | **33.2**  | **41.5**  | | 45       | 113      | ***6.5*** | **13.1**  | **19.6**  | **26.2**  | **32.7**  | | 40       | 104      | ***5.1*** | **10.2**  | **15.3**  | **20.5**  | **25.6**  | | 35       | 95       | ***4***   | ***7.9*** | **11.9**  | **15.8**  | **19.8**  | | 30       | 86       | **3**     | ***6.1*** | ***9.1*** | **12.1**  | **15.2**  | | 25       | 77       | **2.3**   | ***4.6*** | ***6.9*** | ***9.2*** | **11.5**  | | 20       | 68       | **1.7**   | **3.5**   | ***5.2*** | ***6.9*** | ***8.7*** | | 15       | 59       | **1.3**   | **2.6**   | **3.9**   | ***5.1*** | ***6.4*** | | 10       | 50       | **0.9**   | **1.9**   | **2.8**   | **3.8**   | ***4.7*** | | 5        | 41       | **0.7**   | **1.4**   | **2**     | **2.7**   | **3.4**   | | 0        | 32       | **0.5**   | **1**     | **1.5**   | **1.9**   | **2.4**   | |          |          |           |           |           |           |           | | Temp – C | Temp – F | 60.00%    | 70.00%    | 80.00%    | 90.00%    | 100.00%   | | 50       | 122      | **49.8**  | **58.1**  | **66.4**  | **74.7**  | **83**    | | 45       | 113      | **39.3**  | **45.8**  | **52.4**  | **58.9**  | **65.4**  | | 40       | 104      | **30.7**  | **35.8**  | **40.9**  | **46**    | **51.1**  | | 35       | 95       | **23.8**  | **27.7**  | **31.7**  | **35.6**  | **39.6**  | | 30       | 86       | **18.2**  | **21.3**  | **24.3**  | **27.3**  | **30.4**  | | 25       | 77       | **13.8**  | **16.1**  | **18.4**  | **20.7**  | **23**    | | 20       | 68       | **10.4**  | **12.1**  | **13.8**  | **15.6**  | **17.3**  | | 15       | 59       | ***7.7*** | ***9***   | **10.3**  | **11.5**  | **12.8**  | | 10       | 50       | ***5.6*** | ***6.6*** | ***7.5*** | ***8.5*** | ***9.4*** | | 5        | 41       | 4.1       | ***4.8*** | ***5.4*** | ***6.1*** | ***6.8*** | | 0        | 32       | **2.9**   | **3.4**   | **3.9**   | ***4.4*** | ***4.8*** | |          |          |           |           |           |           |           |
+|          |          |           |           |           |           |           |
+|:---------|:---------|:----------|:----------|:----------|:----------|:----------|
+| Temp – C | Temp – F | 10.00%    | 20.00%    | 30.00%    | 40.00%    | 50.00%    |
+| 50       | 122      | ***8.3*** | **16.6**  | **24.9**  | **33.2**  | **41.5**  |
+| 45       | 113      | ***6.5*** | **13.1**  | **19.6**  | **26.2**  | **32.7**  |
+| 40       | 104      | ***5.1*** | **10.2**  | **15.3**  | **20.5**  | **25.6**  |
+| 35       | 95       | ***4***   | ***7.9*** | **11.9**  | **15.8**  | **19.8**  |
+| 30       | 86       | **3**     | ***6.1*** | ***9.1*** | **12.1**  | **15.2**  |
+| 25       | 77       | **2.3**   | ***4.6*** | ***6.9*** | ***9.2*** | **11.5**  |
+| 20       | 68       | **1.7**   | **3.5**   | ***5.2*** | ***6.9*** | ***8.7*** |
+| 15       | 59       | **1.3**   | **2.6**   | **3.9**   | ***5.1*** | ***6.4*** |
+| 10       | 50       | **0.9**   | **1.9**   | **2.8**   | **3.8**   | ***4.7*** |
+| 5        | 41       | **0.7**   | **1.4**   | **2**     | **2.7**   | **3.4**   |
+| 0        | 32       | **0.5**   | **1**     | **1.5**   | **1.9**   | **2.4**   |
+|          |          |           |           |           |           |           |
+| Temp – C | Temp – F | 60.00%    | 70.00%    | 80.00%    | 90.00%    | 100.00%   |
+| 50       | 122      | **49.8**  | **58.1**  | **66.4**  | **74.7**  | **83**    |
+| 45       | 113      | **39.3**  | **45.8**  | **52.4**  | **58.9**  | **65.4**  |
+| 40       | 104      | **30.7**  | **35.8**  | **40.9**  | **46**    | **51.1**  |
+| 35       | 95       | **23.8**  | **27.7**  | **31.7**  | **35.6**  | **39.6**  |
+| 30       | 86       | **18.2**  | **21.3**  | **24.3**  | **27.3**  | **30.4**  |
+| 25       | 77       | **13.8**  | **16.1**  | **18.4**  | **20.7**  | **23**    |
+| 20       | 68       | **10.4**  | **12.1**  | **13.8**  | **15.6**  | **17.3**  |
+| 15       | 59       | ***7.7*** | ***9***   | **10.3**  | **11.5**  | **12.8**  |
+| 10       | 50       | ***5.6*** | ***6.6*** | ***7.5*** | ***8.5*** | ***9.4*** |
+| 5        | 41       | 4.1       | ***4.8*** | ***5.4*** | ***6.1*** | ***6.8*** |
+| 0        | 32       | **2.9**   | **3.4**   | **3.9**   | ***4.4*** | ***4.8*** |
+|          |          |           |           |           |           |           |
 
 ### Related Posts:
 

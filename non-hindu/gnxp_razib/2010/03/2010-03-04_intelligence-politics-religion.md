@@ -25,7 +25,54 @@ I filtered so that only whites in the sample were included (blacks invariably ha
 I combined categories for WORDSUM, so 0-4 = dumb, 5-8 = average, and 9-10 = smart. 18.5% are dumb, are 66.4% are average, and 15.2% are smart in this sample. The N for the total sample is over 20,000, but some variables have smaller N’s, so I invite you replicate and poke around the data yourself (which is why I provide link and variables). You can look at the confidence intervals and how robust these findings are yourself.  
 The rows below add up to 100%. So for example in the first row of data, 23.8% of atheists are smart. What you’re seeing are the proportion of smart, average and dumb people in each class.
 
-|                                              |            |               |             | |----------------------------------------------|------------|---------------|-------------| |                                             | ***Dumb*** | ***Average*** | ***Smart*** | |                                             |           |              |            | | **Confidence in the existence of God**       |            |               |             | | Atheist                                      | 20.3       | 55.9          | 23.8        | | Agnostic                                     | 6.2        | 66.6          | 27.2        | | Higher Power                                 | 12.6       | 64.8          | 22.6        | | Believe Sometimes                            | 18.3       | 66.9          | 14.8        | | Believe but Doubts                           | 14.1       | 71.7          | 14.2        | | Know God Exists                              | 18.2       | 70.2          | 11.2        | |                                             |           |              |            | | **Feelings about the Bible**                 |            |               |             | | Word of God                                  | 29.1       | 65.4          | 5.5         | | Inspired Word                                | 12.4       | 71.6          | 16          | | Book of Fables                               | 13         | 59.2          | 27.8        | |                                             |           |              |            | | **Think of self as liberal or conservative** |            |               |             | | Extreme Liberal                              | 21.3       | 51            | 27.7        | | Liberal                                      | 17         | 59.3          | 23.7        | | Slight Liberal                               | 15.7       | 63.6          | 20.7        | | Moderate                                     | 20.4       | 69.5          | 10.1        | | Slightly Conservative                        | 13.9       | 68.9          | 17.2        | | Conservative                                 | 16.8       | 67.3          | 15.9        | | Extreme Conservative                         | 24.9       | 62.8          | 12.4        | |                                             |           |              |            | | **Abortion if woman wants for any reason**   |            |               |             | | Yes                                          | 13.6       | 65.7          | 20.7        | | No                                           | 22.4       | 66.6          | 11          | |                                             |           |              |            | | **Homosexual relations are….**               |            |               |             | | Always Wrong                                 | 23.7       | 66.3          | 10.1        | | Almost Always Wrong                          | 13.8       | 68.5          | 17.7        | | Sometimes Wrong                              | 8.5        | 64.6          | 26.9        | | Not Wrong at All                             | 9.6        | 63.9          | 26.6        | |                                             |           |              |            | | **More trade, less jobs in USA**             |            |               |             | | Created More Jobs                            | 10.3       | 64.7          | 25          | | About the Same                               | 10         | 70.3          | 19.8        | | Taken them Away                              | 19.1       | 77.8          | 3.2         | |                                             |           |              |            | | **Free trade leads to better products**      |            |               |             | | Strongly Agree                               | 10.9       | 65.2          | 23.9        | | Agree                                        | 12.8       | 73.1          | 14.2        | | Neither Agree nor Disagree                   | 9.4        | 72            | 18.6        | | Disagree                                     | 9.9        | 74.7          | 15.4        | | Strongly Disagree                            | 11.4       | 81.9          | 6.6         | |                                             |           |              |            |
+|                                              |            |               |             |
+|----------------------------------------------|------------|---------------|-------------|
+|                                             | ***Dumb*** | ***Average*** | ***Smart*** |
+|                                             |           |              |            |
+| **Confidence in the existence of God**       |            |               |             |
+| Atheist                                      | 20.3       | 55.9          | 23.8        |
+| Agnostic                                     | 6.2        | 66.6          | 27.2        |
+| Higher Power                                 | 12.6       | 64.8          | 22.6        |
+| Believe Sometimes                            | 18.3       | 66.9          | 14.8        |
+| Believe but Doubts                           | 14.1       | 71.7          | 14.2        |
+| Know God Exists                              | 18.2       | 70.2          | 11.2        |
+|                                             |           |              |            |
+| **Feelings about the Bible**                 |            |               |             |
+| Word of God                                  | 29.1       | 65.4          | 5.5         |
+| Inspired Word                                | 12.4       | 71.6          | 16          |
+| Book of Fables                               | 13         | 59.2          | 27.8        |
+|                                             |           |              |            |
+| **Think of self as liberal or conservative** |            |               |             |
+| Extreme Liberal                              | 21.3       | 51            | 27.7        |
+| Liberal                                      | 17         | 59.3          | 23.7        |
+| Slight Liberal                               | 15.7       | 63.6          | 20.7        |
+| Moderate                                     | 20.4       | 69.5          | 10.1        |
+| Slightly Conservative                        | 13.9       | 68.9          | 17.2        |
+| Conservative                                 | 16.8       | 67.3          | 15.9        |
+| Extreme Conservative                         | 24.9       | 62.8          | 12.4        |
+|                                             |           |              |            |
+| **Abortion if woman wants for any reason**   |            |               |             |
+| Yes                                          | 13.6       | 65.7          | 20.7        |
+| No                                           | 22.4       | 66.6          | 11          |
+|                                             |           |              |            |
+| **Homosexual relations are….**               |            |               |             |
+| Always Wrong                                 | 23.7       | 66.3          | 10.1        |
+| Almost Always Wrong                          | 13.8       | 68.5          | 17.7        |
+| Sometimes Wrong                              | 8.5        | 64.6          | 26.9        |
+| Not Wrong at All                             | 9.6        | 63.9          | 26.6        |
+|                                             |           |              |            |
+| **More trade, less jobs in USA**             |            |               |             |
+| Created More Jobs                            | 10.3       | 64.7          | 25          |
+| About the Same                               | 10         | 70.3          | 19.8        |
+| Taken them Away                              | 19.1       | 77.8          | 3.2         |
+|                                             |           |              |            |
+| **Free trade leads to better products**      |            |               |             |
+| Strongly Agree                               | 10.9       | 65.2          | 23.9        |
+| Agree                                        | 12.8       | 73.1          | 14.2        |
+| Neither Agree nor Disagree                   | 9.4        | 72            | 18.6        |
+| Disagree                                     | 9.9        | 74.7          | 15.4        |
+| Strongly Disagree                            | 11.4       | 81.9          | 6.6         |
+|                                             |           |              |            |
 
 One thing to take away: **the intelligent are more liberal, broadly.** That is, they support liberal trade policies, even though the modern Left-liberal party, the Democrats, is more hostile to free trade than the Republicans, who have traditionally operated as a Right-liberal party. It is not coincidental I think that the Democratic party in the United States, led by cognitive elites, have done little to rollback the push of globalization which has resulted in an erosion of the employment possibilities of working class Americans. Similarly, it is not coincidental I think that the modern Republican party, led by cognitive elites, has done little to rollback the push toward liberal social permissiveness in the United States. I recall back when George W. Bush was elected that Bob Guccione’s lawyers were drafting a new porn code which would protect them from obscenity prosecutions (something with John Ashcroft was actually working on before 9/11). That all seems quaint now.
 

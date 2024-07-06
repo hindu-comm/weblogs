@@ -9,7 +9,30 @@ Source: [here](https://www.gnxp.com/WordPress/2017/04/02/the-vast-majority-of-mu
 
 The vast majority of Muslims believe that being gay is not morally acceptable
 
-|                         |                                                     |                      |                   | |-------------------------|-----------------------------------------------------|----------------------|-------------------| |                         | “Do you personally believe that Homosexuality is….” |                      |                   | |                         | Morally acceptable                                  | Morally unacceptable | Not a moral issue | | United States           | 23                                                  | 37                   | 35                | | Britain                 | 30                                                  | 15                   | 50                | | Russia                  | 9                                                   | 72                   | 9                 | | Turkey                  | 4                                                   | 78                   | 12                | | Egypt                   | 1                                                   | 95                   | 1                 | | Jordan                  | 2                                                   | 95                   | 3                 | | Lebanon                 | 7                                                   | 80                   | 11                | | Palestinian Territories | 1                                                   | 94                   | 4                 | | Tunisia                 | 0                                                   | 92                   | 4                 | | Israel                  | 27                                                  | 43                   | 25                | | China                   | 13                                                  | 61                   | 17                | | Indonesia               | 3                                                   | 93                   | 2                 | | Malaysia                | 4                                                   | 88                   | 6                 | | Pakistan                | 1                                                   | 85                   | 3                 | | Ghana                   | 1                                                   | 98                   | 1                 | | Kenya                   | 3                                                   | 88                   | 9                 | | Nigeria                 | 1                                                   | 85                   | 11                | | Senegal                 | 3                                                   | 68                   | 26                | | South Africa            | 18                                                  | 62                   | 12                | | Uganda                  | 1                                                   | 93                   | 5                 |
+|                         |                                                     |                      |                   |
+|-------------------------|-----------------------------------------------------|----------------------|-------------------|
+|                         | “Do you personally believe that Homosexuality is….” |                      |                   |
+|                         | Morally acceptable                                  | Morally unacceptable | Not a moral issue |
+| United States           | 23                                                  | 37                   | 35                |
+| Britain                 | 30                                                  | 15                   | 50                |
+| Russia                  | 9                                                   | 72                   | 9                 |
+| Turkey                  | 4                                                   | 78                   | 12                |
+| Egypt                   | 1                                                   | 95                   | 1                 |
+| Jordan                  | 2                                                   | 95                   | 3                 |
+| Lebanon                 | 7                                                   | 80                   | 11                |
+| Palestinian Territories | 1                                                   | 94                   | 4                 |
+| Tunisia                 | 0                                                   | 92                   | 4                 |
+| Israel                  | 27                                                  | 43                   | 25                |
+| China                   | 13                                                  | 61                   | 17                |
+| Indonesia               | 3                                                   | 93                   | 2                 |
+| Malaysia                | 4                                                   | 88                   | 6                 |
+| Pakistan                | 1                                                   | 85                   | 3                 |
+| Ghana                   | 1                                                   | 98                   | 1                 |
+| Kenya                   | 3                                                   | 88                   | 9                 |
+| Nigeria                 | 1                                                   | 85                   | 11                |
+| Senegal                 | 3                                                   | 68                   | 26                |
+| South Africa            | 18                                                  | 62                   | 12                |
+| Uganda                  | 1                                                   | 93                   | 5                 |
 
 **Source:** [Global Views On Morality](https://www.pewglobal.org/2014/04/15/global-morality/)
 

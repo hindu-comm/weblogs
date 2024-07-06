@@ -25,7 +25,14 @@ First, the paper, [Facial averageness and genetic quality: Testing heritability,
 
 I’m going to reproduce some of the results from Table 4 below.
 
-|         |                  |                   |                    |                   |                    |                | |---------|------------------|-------------------|--------------------|-------------------|--------------------|----------------| |         | **Averageness**  |                   | **Attractiveness** |                   | ****              | ****          | |         | **Heritability** | **Non-heritable** | **Heritability**   | **Non-heritable** | **Genetic correl** | **Env correl** | | Female  | 0.21             | 0.79              | 0.6                | 0.38              | 0.11               | 0.21           | | Male    | 0.22             | 0.78              | 0.62               | 0.39              | 0.11               | 0.08           | | Overall | 0.21             | 0.79              | 0.6                | 0.4               | 0.11               | 0.16           | |         |                  |                   |                    |                   |                    |                |
+|         |                  |                   |                    |                   |                    |                |
+|---------|------------------|-------------------|--------------------|-------------------|--------------------|----------------|
+|         | **Averageness**  |                   | **Attractiveness** |                   | ****              | ****          |
+|         | **Heritability** | **Non-heritable** | **Heritability**   | **Non-heritable** | **Genetic correl** | **Env correl** |
+| Female  | 0.21             | 0.79              | 0.6                | 0.38              | 0.11               | 0.21           |
+| Male    | 0.22             | 0.78              | 0.62               | 0.39              | 0.11               | 0.08           |
+| Overall | 0.21             | 0.79              | 0.6                | 0.4               | 0.11               | 0.16           |
+|         |                  |                   |                    |                   |                    |                |
 
 What you see is very modest heritability for averageness, and a decent one for attractiveness. But, there’s no statistically significant evidence that the genetic correlation is there (the confidence intervals are huge around 0.11, from 0 to 0.35). Though they state the environmental correlation passes statistical muster (so common environmental variables might be producing attractiveness and facial averageness). Please note that a heritability of 0.6 does no mean a correlation of 0.6. The heritability of height is 0.8 to 0.9, but correlation of the trait across siblings is \~0.5. Heritability is the proportion of variation of the trait explained by variation in genes, in the population.
 

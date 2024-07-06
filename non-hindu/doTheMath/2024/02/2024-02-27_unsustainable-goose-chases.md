@@ -73,7 +73,17 @@ Since Earth does not import resources, we can look at global metrics of forest c
 
 As a measure of ecological decline, extinctions are swelling in number, and have been for quite a while. For a depressing time, see the [Wikipedia page](https://en.wikipedia.org/wiki/Timeline_of_extinctions_in_the_Holocene) enumerating a chronological list of over 800 extinctions. While this surely is not a complete list (strong vertebrate bias, for instance), the simple exercise of counting the entries is revealing: it’s more than just the Dodo in 1688. Tables that initially are broken into millennia become just decade-long tables near the end, and actually have more entries than their millennial counterparts! I can’t vouch for uniform completeness across the span, but the planet has been crawling with naturalists for the last few hundred years, so I tend to trust the recent numbers. All the same, I am impressed with how much we *do* know about prehistoric extinctions from the various pieces of forensic evidence left behind. The table below captures the trend of extinctions per century across various time spans (in years).
 
-|        |       |                | |--------|-------|----------------| | From   | To    | Extinctions/Cy | | −10000 | −2000 | 1.5            | | −2000  | 0     | 2.5            | | 0      | 1000  | 5              | | 1000   | 1600  | 10             | | 1600   | 1800  | 35             | | 1800   | 1900  | 130            | | 1900   | 1950  | 275            | | 1950   | 1990  | 385            |
+|        |       |                |
+|--------|-------|----------------|
+| From   | To    | Extinctions/Cy |
+| −10000 | −2000 | 1.5            |
+| −2000  | 0     | 2.5            |
+| 0      | 1000  | 5              |
+| 1000   | 1600  | 10             |
+| 1600   | 1800  | 35             |
+| 1800   | 1900  | 130            |
+| 1900   | 1950  | 275            |
+| 1950   | 1990  | 385            |
 
 After 1990, the numbers begin to taper, presumably because many extinctions become official only after a conclusive delay. All the numbers are above the long-term background rate, but swell by a couple orders-of-magnitude as modernity revs up. Only three of the causes offered in the Wikipedia table are potentially attributed to modern climate change. The rest stem from the usual suspect list of deforestation, habitat loss/destruction, hunting, invasive introductions (by humans) and related diseases. In short: what we do with energy. No: 1800 was not sustainable, even with a small fraction of the globe living like Europeans. This leaves us with little confidence that even a billion people could live sustainably in that way.
 

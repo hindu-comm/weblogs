@@ -35,7 +35,13 @@ The identity to other populations is consistent. About 74% to Tamils. 72-73% for
 
 But most people do not receive statistics of the form:
 
-|     |          |                  | |-----|----------|------------------| |     |          | **SNP Identity** | | You | Yoruba   | 0.69             | | You | German   | 0.72             | | You | Japanese | 0.73             | | You | Tamil    | 0.74             |
+|     |          |                  |
+|-----|----------|------------------|
+|     |          | **SNP Identity** |
+| You | Yoruba   | 0.69             |
+| You | German   | 0.72             |
+| You | Japanese | 0.73             |
+| You | Tamil    | 0.74             |
 
 Mind you, this is informative. It’s basically saying I am most genetically distant from Yoruba and closer in sequence to Tamils. But this is somewhat thin gruel for most people. Consider the below which is a zoom in of PC 2 vs. PC 4. I am blue and the purple/pink are Tamils, and the population at the bottom left are East Asians.
 
@@ -47,7 +53,27 @@ How do we summarize this sort of information for a regular person? **The standar
 
 An easy way to make one’s genetic variation comprehensible to the general public is to model them as a mixture of various populations that they already know of. So consider the ones above in the plink file. I ran ADMIXTURE in supervised model progressively removing populations for my three genotypes. The results are below.
 
-|               |         |              |              |              |            |               |           |           |            | |---------------|---------|--------------|--------------|--------------|------------|---------------|-----------|-----------|------------| | ****         | **Dai** | **Druze**    | **German**   | **Japanese** | **Papuan** | **Sardinian** | **Surui** | **Tamil** | **Yoruba** | | Razib23andMe  | 11%     | 3%           | 8%           | 4%           | 1%         | 0%            | 1%        | 73%       | 1%         | | RazibAncestry | 10%     | 2%           | 8%           | 4%           | 1%         | 0%            | 1%        | 73%       | 1%         | | RazibFTDNA    | 11%     | 2%           | 8%           | 3%           | 1%         | 0%            | 1%        | 72%       | 1%         | |              |        |             |             |             |           |              |          |          |           | |              | **Dai** | **Druze**    | **German**   | **Japanese** | **Papuan** | **Sardinian** | **Surui** | **Tamil** |           | | Razib23andMe  | 11%     | 3%           | 8%           | 4%           | 1%         | 0%            | 1%        | 73%       |           | | RazibAncestry | 10%     | 3%           | 8%           | 4%           | 1%         | 0%            | 1%        | 74%       |           | | RazibFTDNA    | 11%     | 3%           | 8%           | 3%           | 1%         | 0%            | 1%        | 73%       |           | |              |        |             |             |             |           |              |          |          |           | |              | **Dai** | **Druze**    | **Japanese** | **Papuan**   | **Surui**  | **Tamil**     |          |          |           | | Razib23andMe  | 10%     | 9%           | 4%           | 1%           | 1%         | 74%           |          |          |           | | RazibAncestry | 10%     | 9%           | 4%           | 1%           | 1%         | 75%           |          |          |           | | RazibFTDNA    | 11%     | 9%           | 4%           | 1%           | 1%         | 74%           |          |          |           | |              |        |             |             |             |           |              |          |          |           | |              | **Dai** | **Japanese** | **Surui**    | **Tamil**    |           |              |          |          |           | | Razib23andMe  | 11%     | 4%           | 1%           | 84%          |           |              |          |          |           | | RazibAncestry | 10%     | 4%           | 1%           | 85%          |           |              |          |          |           | | RazibFTDNA    | 11%     | 3%           | 1%           | 84%          |           |              |          |          |            |
+|               |         |              |              |              |            |               |           |           |            |
+|---------------|---------|--------------|--------------|--------------|------------|---------------|-----------|-----------|------------|
+| ****         | **Dai** | **Druze**    | **German**   | **Japanese** | **Papuan** | **Sardinian** | **Surui** | **Tamil** | **Yoruba** |
+| Razib23andMe  | 11%     | 3%           | 8%           | 4%           | 1%         | 0%            | 1%        | 73%       | 1%         |
+| RazibAncestry | 10%     | 2%           | 8%           | 4%           | 1%         | 0%            | 1%        | 73%       | 1%         |
+| RazibFTDNA    | 11%     | 2%           | 8%           | 3%           | 1%         | 0%            | 1%        | 72%       | 1%         |
+|              |        |             |             |             |           |              |          |          |           |
+|              | **Dai** | **Druze**    | **German**   | **Japanese** | **Papuan** | **Sardinian** | **Surui** | **Tamil** |           |
+| Razib23andMe  | 11%     | 3%           | 8%           | 4%           | 1%         | 0%            | 1%        | 73%       |           |
+| RazibAncestry | 10%     | 3%           | 8%           | 4%           | 1%         | 0%            | 1%        | 74%       |           |
+| RazibFTDNA    | 11%     | 3%           | 8%           | 3%           | 1%         | 0%            | 1%        | 73%       |           |
+|              |        |             |             |             |           |              |          |          |           |
+|              | **Dai** | **Druze**    | **Japanese** | **Papuan**   | **Surui**  | **Tamil**     |          |          |           |
+| Razib23andMe  | 10%     | 9%           | 4%           | 1%           | 1%         | 74%           |          |          |           |
+| RazibAncestry | 10%     | 9%           | 4%           | 1%           | 1%         | 75%           |          |          |           |
+| RazibFTDNA    | 11%     | 9%           | 4%           | 1%           | 1%         | 74%           |          |          |           |
+|              |        |             |             |             |           |              |          |          |           |
+|              | **Dai** | **Japanese** | **Surui**    | **Tamil**    |           |              |          |          |           |
+| Razib23andMe  | 11%     | 4%           | 1%           | 84%          |           |              |          |          |           |
+| RazibAncestry | 10%     | 4%           | 1%           | 85%          |           |              |          |          |           |
+| RazibFTDNA    | 11%     | 3%           | 1%           | 84%          |           |              |          |          |            |
 
 Please observe again that they are broadly congruent. These methods exhibit a stochastic element, so there is some noise baked into the cake, but with 200,000+ markers and a robust number of reference populations the results come out the same across all methods (also, 23andMe and Family Tree DNA seem to correlate a bit more, which makes sense since these two genotypes are more similar to each other than they are to Ancestry).
 
@@ -59,7 +85,27 @@ The question then comes into the stage of subtle choices one makes to obtain the
 
 Let’s do something different. I’m going to swap out the West Eurasian populations with equivalents.
 
-|               |                   |            |                   |              |              |           |            |           | |---------------|-------------------|------------|-------------------|--------------|--------------|-----------|------------|-----------| |              | **Armenians**     | **Dai**    | **French_Basque** | **Japanese** | **Mandenka** | **Surui** | **Sweden** | **Tamil** | | Razib23andMe  | 6%                | 11%        | 0%                | 4%           | 1%           | 1%        | 5%         | 72%       | | RazibAncestry | 5%                | 11%        | 0%                | 4%           | 1%           | 1%        | 5%         | 73%       | | RazibFTDNA    | 6%                | 11%        | 0%                | 4%           | 1%           | 1%        | 5%         | 72%       | |              |                  |           |                  |             |             |          |           |          | |               | **German**        | **Papuan** | **Yoruba**        |             |             |          |           |          | | Razib23andMe  | 68%               | 20%        | 13%               |             |             |          |           |          | | RazibAncestry | 68%               | 20%        | 13%               |             |             |          |           |          | | RazibFTDNA    | 68%               | 20%        | 13%               |             |             |          |           |          | |              |                  |           |                  |             |             |          |           |          | |               | **French_Basque** | **Tamil**  |                  |             |             |          |           |          | | Razib23andMe  | 8%                | 92%        |                  |             |             |          |           |          | | RazibAncestry | 7%                | 93%        |                  |             |             |          |           |          | | RazibFTDNA    | 8%                | 92%        |                  |             |             |          |           |          | |              |                  |           |                  |             |             |          |           |          | |               | **Tamil**         | **Yoruba** |                  |             |             |          |           |          | | Razib23andMe  | 97%               | 3%         |                  |             |             |          |           |          | | RazibAncestry | 97%               | 3%         |                  |             |             |          |           |          | | RazibFTDNA    | 97%               | 3%         |                  |             |             |          |           |           |
+|               |                   |            |                   |              |              |           |            |           |
+|---------------|-------------------|------------|-------------------|--------------|--------------|-----------|------------|-----------|
+|              | **Armenians**     | **Dai**    | **French_Basque** | **Japanese** | **Mandenka** | **Surui** | **Sweden** | **Tamil** |
+| Razib23andMe  | 6%                | 11%        | 0%                | 4%           | 1%           | 1%        | 5%         | 72%       |
+| RazibAncestry | 5%                | 11%        | 0%                | 4%           | 1%           | 1%        | 5%         | 73%       |
+| RazibFTDNA    | 6%                | 11%        | 0%                | 4%           | 1%           | 1%        | 5%         | 72%       |
+|              |                  |           |                  |             |             |          |           |          |
+|               | **German**        | **Papuan** | **Yoruba**        |             |             |          |           |          |
+| Razib23andMe  | 68%               | 20%        | 13%               |             |             |          |           |          |
+| RazibAncestry | 68%               | 20%        | 13%               |             |             |          |           |          |
+| RazibFTDNA    | 68%               | 20%        | 13%               |             |             |          |           |          |
+|              |                  |           |                  |             |             |          |           |          |
+|               | **French_Basque** | **Tamil**  |                  |             |             |          |           |          |
+| Razib23andMe  | 8%                | 92%        |                  |             |             |          |           |          |
+| RazibAncestry | 7%                | 93%        |                  |             |             |          |           |          |
+| RazibFTDNA    | 8%                | 92%        |                  |             |             |          |           |          |
+|              |                  |           |                  |             |             |          |           |          |
+|               | **Tamil**         | **Yoruba** |                  |             |             |          |           |          |
+| Razib23andMe  | 97%               | 3%         |                  |             |             |          |           |          |
+| RazibAncestry | 97%               | 3%         |                  |             |             |          |           |          |
+| RazibFTDNA    | 97%               | 3%         |                  |             |             |          |           |           |
 
 I have no ancestry from French Basque, but I do have ancestry from Armenians and Swedes in this model. Why? If you keep track of the most recent population genomic ancestry this all makes sense. But if you don’t, well, it’s harder to unpack. This is part of the problem with these sorts of tests: **how to make it comprehensible to the public while maintaining fidelity to the latest research.**
 
@@ -71,7 +117,17 @@ Even when you model my ancestry as Tamil or Yoruba, you see that there is a Yoru
 
 Just adding a few populations fixes this problem:
 
-|               |         |            |            |            | |---------------|---------|------------|------------|------------| |              | **Dai** | **Tamil**  | **Yoruba** |           | | Razib23andMe  | 14%     | 83%        | 2%         |           | | RazibAncestry | 14%     | 84%        | 2%         |           | | RazibFTDNA    | 14%     | 83%        | 2%         |           | |              |        |           |           |           | |              | **Dai** | **German** | **Tamil**  | **Yoruba** | | Razib23andMe  | 15%     | 10%        | 74%        | 1%         | | RazibAncestry | 14%     | 9%         | 75%        | 1%         | | RazibFTDNA    | 15%     | 10%        | 74%        | 1%         |
+|               |         |            |            |            |
+|---------------|---------|------------|------------|------------|
+|              | **Dai** | **Tamil**  | **Yoruba** |           |
+| Razib23andMe  | 14%     | 83%        | 2%         |           |
+| RazibAncestry | 14%     | 84%        | 2%         |           |
+| RazibFTDNA    | 14%     | 83%        | 2%         |           |
+|              |        |           |           |           |
+|              | **Dai** | **German** | **Tamil**  | **Yoruba** |
+| Razib23andMe  | 15%     | 10%        | 74%        | 1%         |
+| RazibAncestry | 14%     | 9%         | 75%        | 1%         |
+| RazibFTDNA    | 15%     | 10%        | 74%        | 1%         |
 
 Notice how my Tamil fraction is almost the same as when I had included in many more reference populations. Why? My ancestral history is complex, like most humans, **but it’s not that complex**. The goal for public comprehensibility is to reduce the complexity into digestible units which give insight.
 

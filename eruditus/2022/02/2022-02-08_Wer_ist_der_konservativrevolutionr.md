@@ -63,5 +63,7 @@ In the editorial cited in A 3.7, there is an attempt to call the revolutionary p
 
 In any case, one thing becomes clear: in the "Conservative Revolution" lives a will to change certain conditions by force, which justifies the use of the word "revolutionary" and which is also repeatedly called "revolutionary" by the opposing side. Since, as already said, our task is not the establishment of a logically elaborated system, but the description of an existing world view, we can leave it at this delimitation of the words "conservative" - "reactionary" - "revolutionary".
 
-|                                                                                              |                             | |----------------------------------------------------------------------------------------------|-----------------------------| | [Comment](https://indianhistory.substack.com/p/wer-ist-der-konservativrevolutionar/comments) | [Share](javascript:void(0)) |
+|                                                                                              |                             |
+|----------------------------------------------------------------------------------------------|-----------------------------|
+| [Comment](https://indianhistory.substack.com/p/wer-ist-der-konservativrevolutionar/comments) | [Share](javascript:void(0)) |
 

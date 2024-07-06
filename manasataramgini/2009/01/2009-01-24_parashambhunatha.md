@@ -13,5 +13,39 @@ Or in their elemental forms we have for the bhairava: h-s-rauM and for the kulay
 In the middle of the chakra dwells the conjoined pair of chitparAMbA and parashaMbhunAtha. Around them are the 32 emanations of parA devI seated on the laps the 32 bhairava-s emanating from parashaMbhunAtha.  
 
 
-|                |                     | |:--------------:|:-------------------:| | **bhairava **  |     **yoginI **     | |      para      |        parA         | |     bhara      |        bharA        | |      chit      |      chitparA       | |    mahAmAyA    |    mahAmAyA-parA    | |    sR^iShTi    |    sR^iShTi-parA    | |     ichChA     |     ichChA-parA     | |     stithi     |     stithi-parA     | |    nirodha     |    nirodha-parA     | |     mukti      |     mukti-parA      | |    j\~nAna     |    j\~nAna-parA     | |      sat       |      sati-parA      | |      asat      |     asati-parA      | |    sad-asat    |   sad-asati-parA    | |     kriyA      |     kriyA-parA      | |     Atman      |      Atma-parA      | | indriyAshraya  | indriyAshraya-parA  | |    gochara     |    gochara-parA     | |   lokamukhya   |   lokamukhyA-parA   | |    vedavat     |    vedavat-parA     | |     samvid     |     samvit-parA     | |   kuNDalinI    |   kuNDalinI-parA    | |   sauShuMnI    |   sauShuMnI-parA    | |   prANasUtra   |   prANasUtra-parA   | |     syAnda     |     syAnda-parA     | |    mAtR^ikA    |    mAtR^ikA-parA    | |  svarodbhava   |  svarodbhavA-parA   | |    varNaja     |    varNajA-parA     | |    shabdaja    |    shabdajA-parA    | | varNa-j\~nAta  | varNa-j\~nAta-parA  | |    vargaja     |    vargajA-parA     | |   saMyogaja    |   saMyogajA-parA    | | mantra-vigraha | mantra-vigrahA-parA |
+|                |                     |
+|:--------------:|:-------------------:|
+| **bhairava **  |     **yoginI **     |
+|      para      |        parA         |
+|     bhara      |        bharA        |
+|      chit      |      chitparA       |
+|    mahAmAyA    |    mahAmAyA-parA    |
+|    sR^iShTi    |    sR^iShTi-parA    |
+|     ichChA     |     ichChA-parA     |
+|     stithi     |     stithi-parA     |
+|    nirodha     |    nirodha-parA     |
+|     mukti      |     mukti-parA      |
+|    j\~nAna     |    j\~nAna-parA     |
+|      sat       |      sati-parA      |
+|      asat      |     asati-parA      |
+|    sad-asat    |   sad-asati-parA    |
+|     kriyA      |     kriyA-parA      |
+|     Atman      |      Atma-parA      |
+| indriyAshraya  | indriyAshraya-parA  |
+|    gochara     |    gochara-parA     |
+|   lokamukhya   |   lokamukhyA-parA   |
+|    vedavat     |    vedavat-parA     |
+|     samvid     |     samvit-parA     |
+|   kuNDalinI    |   kuNDalinI-parA    |
+|   sauShuMnI    |   sauShuMnI-parA    |
+|   prANasUtra   |   prANasUtra-parA   |
+|     syAnda     |     syAnda-parA     |
+|    mAtR^ikA    |    mAtR^ikA-parA    |
+|  svarodbhava   |  svarodbhavA-parA   |
+|    varNaja     |    varNajA-parA     |
+|    shabdaja    |    shabdajA-parA    |
+| varNa-j\~nAta  | varNa-j\~nAta-parA  |
+|    vargaja     |    vargajA-parA     |
+|   saMyogaja    |   saMyogajA-parA    |
+| mantra-vigraha | mantra-vigrahA-parA |
 

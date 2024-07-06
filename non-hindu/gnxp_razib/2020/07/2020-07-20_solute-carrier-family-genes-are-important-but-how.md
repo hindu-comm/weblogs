@@ -23,7 +23,19 @@ In the paper, they used whole genomes to reconstruct the ancestral steppe/Irania
 
 But this isn’t the most interesting part of the paper. It’s the selection. Here are the top, top, candidates:
 
-|           |                            |                                                | |:----------|:---------------------------|:-----------------------------------------------| | Component | \# of Pops with Sig Value  | Genes (±50-kb Region)                          | | ANI       | 22 (percentile = 99.9949) | THUMPD3,SETD5                                | |           | 21 (percentile = 99.9814) | SNAP91, RIPPLY2, CYB5R4, MRAP2, CEP162, TBX18 | |           | 21 (percentile = 99.9814) | TRIM31, TRIM40, TRIM10, TRIM15, TRIM26,HLA-L | |           | 19 (percentile = 99.9383) | Intergenic                                    | |           | 18 (percentile = 99.9195) | ZNF681, ZNF726, ZNF254                        | | ASI       | −21 (percentile = 0.0057) | RXFP3,SLC45A2, AMACR, C1QTNF3, ADAMTS12      | |           | −16 (percentile = 0.038)  | SRXN1, SCRT2, SLC52A3                         | |           | −16 (percentile = 0.038)  | Intergenic                                    | |           | −15 (percentile = 0.0757) | Intergenic                                    | |           | −14 (percentile = 0.1268) | ATP6V1H, RGS20, TCEA1, LYPLA1, MRPL15         |
+|           |                            |                                                |
+|:----------|:---------------------------|:-----------------------------------------------|
+| Component | \# of Pops with Sig Value  | Genes (±50-kb Region)                          |
+| ANI       | 22 (percentile = 99.9949) | THUMPD3,SETD5                                |
+|           | 21 (percentile = 99.9814) | SNAP91, RIPPLY2, CYB5R4, MRAP2, CEP162, TBX18 |
+|           | 21 (percentile = 99.9814) | TRIM31, TRIM40, TRIM10, TRIM15, TRIM26,HLA-L |
+|           | 19 (percentile = 99.9383) | Intergenic                                    |
+|           | 18 (percentile = 99.9195) | ZNF681, ZNF726, ZNF254                        |
+| ASI       | −21 (percentile = 0.0057) | RXFP3,SLC45A2, AMACR, C1QTNF3, ADAMTS12      |
+|           | −16 (percentile = 0.038)  | SRXN1, SCRT2, SLC52A3                         |
+|           | −16 (percentile = 0.038)  | Intergenic                                    |
+|           | −15 (percentile = 0.0757) | Intergenic                                    |
+|           | −14 (percentile = 0.1268) | ATP6V1H, RGS20, TCEA1, LYPLA1, MRPL15         |
 
 
 

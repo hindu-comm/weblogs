@@ -11,7 +11,16 @@ Diminishing returns to communication in scholarship?
 
 ------------------------------------------------------------------------
 
-|          |                | |----------|----------------| | **Year** | **Event**      | | 1000 BC  | Alphabet       | | 500 BC   |                | | 0 AD     | The codex      | | 500 AD   |                | | 1000 AD  |                | | 1500 AD  | Printing press | | 2000 AD  | The internet   |
+|          |                |
+|----------|----------------|
+| **Year** | **Event**      |
+| 1000 BC  | Alphabet       |
+| 500 BC   |                |
+| 0 AD     | The codex      |
+| 500 AD   |                |
+| 1000 AD  |                |
+| 1500 AD  | Printing press |
+| 2000 AD  | The internet   |
 
 ------------------------------------------------------------------------
 

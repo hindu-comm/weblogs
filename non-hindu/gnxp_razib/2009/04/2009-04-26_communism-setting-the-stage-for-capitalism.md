@@ -11,7 +11,30 @@ Communism setting the stage for capitalism
 
 Over at [ScienceBlogs](http://scienceblogs.com/gnxp/2009/04/revenge_of_the_roader_chinese.php) I have a post which highlights the bizarre likelihood that in China atheists are actually some more hostile to the precepts of godless Communism than the religious. I talked to Michael Vassar about this and he thought it was curious that Chinese atheists are probably among the segments of the world population most likely to appreciate the non-zero sum power of capitalism and economic growth. Well, I guess Mao and the Cultural Revolution would do that to you, right? In any case, in the World Values Survey there is a question about income inequality, here 0 = Incomes Should Be Made More Equal, and 10 = We need larger income differences as incentives. Below the fold are a selection of nations with the proportions of those in the 15-29 age ranges who agree with a “10” when it comes to income inequality.
 
-|               |      | |:--------------|-----:| | France        |  4.7 | | Great Britain |  5.2 | | Italy         |  3.7 | | United States |  5.3 | | Canada        |  6.4 | | Japan         |  6.2 | | Australia     |  4.8 | | Sweden        |  2.9 | | Finland       |  3.1 | | South Korea   |   12 | | Poland        | 11.9 | | Brazil        | 16.7 | | Slovenia      |  5.4 | | Romania       |  8.7 | | China         | 14.7 | | Taiwan        | 12.9 | | Ukraine       | 21.4 | | Russia        | 34.4 | | Thailand      |  9.8 | | Serbia        | 13.8 | | New Zealand   |  6.4 | | Hong Kong     |  1.7 |
+|               |      |
+|:--------------|-----:|
+| France        |  4.7 |
+| Great Britain |  5.2 |
+| Italy         |  3.7 |
+| United States |  5.3 |
+| Canada        |  6.4 |
+| Japan         |  6.2 |
+| Australia     |  4.8 |
+| Sweden        |  2.9 |
+| Finland       |  3.1 |
+| South Korea   |   12 |
+| Poland        | 11.9 |
+| Brazil        | 16.7 |
+| Slovenia      |  5.4 |
+| Romania       |  8.7 |
+| China         | 14.7 |
+| Taiwan        | 12.9 |
+| Ukraine       | 21.4 |
+| Russia        | 34.4 |
+| Thailand      |  9.8 |
+| Serbia        | 13.8 |
+| New Zealand   |  6.4 |
+| Hong Kong     |  1.7 |
 
 Hong Kong, by the way, had the population which was most averse to income inequality….
 

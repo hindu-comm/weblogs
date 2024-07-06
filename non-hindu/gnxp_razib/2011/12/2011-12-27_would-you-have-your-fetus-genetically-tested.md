@@ -23,7 +23,44 @@ The biggest surprise for me is that there wasn’t much difference between the 1
 
 [![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/12/webpreview_htm_m1585574a.jpg?resize=573%2C905)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/12/webpreview_htm_m1585574a.jpg?resize=573%2C905)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2011/12/webpreview_htm_m1585574a.jpg)
 
-|                                               |           |          |     | |-----------------------------------------------|-----------|----------|-----| | **Yes to fetal genetic tests by demographic** |           |          |     | | **Demographic**                               | **1990s** | **2004** |     | | Male                                          | 69        | 67       |     | | Female                                        | 68        | 65       |     | | White                                         | 67        | 65       |     | | Black                                         | 79        | 72       |     | | Hispanic                                      | \*        | 71       |     | | Less than HS                                  | 72        | 67       |     | | High School                                   | 68        | 65       |     | | Junior College                                | 64        | 69       |     | | Bachelor                                      | 71        | 65       |     | | Graduate                                      | 69        | 71       |     | | Protestant                                    | 69        | 65       |     | | Catholic                                      | 62        | 63       |     | | Jewish                                        | 95        | 78       |     | | No Religion                                   | 78        | 69       |     | | Dull                                          | 74        | 71       |     | | Average                                       | 65        | 65       |     | | Smart                                         | 71        | 66       |     | | Liberal                                       | 80        | 77       |     | | Slight Liberal                                | 70        | 64       |     | | Moderate                                      | 70        | 69       |     | | Slight Conservative                           | 68        | 66       |     | | Conservative                                  | 59        | 52       |     | | Democrat                                      | 73        | 74       |     | | Independent                                   | 69        | 67       |     | | Republican                                    | 65        | 58       |     | | Yes to abortion on demand                     | 80        | 75       |     | | No to abortion on demand                      | 61        | 56       |     | | Bible Word of God                             | 63        | 61       |     | | Bible Inspired Word                           | 68        | 65       |     | | Bible Book of Fables                          | 82        | 75       |     | | Evolution definitely true                     | \*        | 81       |     | | Evolution probably true                       | \*        | 70       |     | | Evolution probably not true                   | \*        | 67       |     | | Evolution definitely not true                 | \*        | 58       |     |
+|                                               |           |          |     |
+|-----------------------------------------------|-----------|----------|-----|
+| **Yes to fetal genetic tests by demographic** |           |          |     |
+| **Demographic**                               | **1990s** | **2004** |     |
+| Male                                          | 69        | 67       |     |
+| Female                                        | 68        | 65       |     |
+| White                                         | 67        | 65       |     |
+| Black                                         | 79        | 72       |     |
+| Hispanic                                      | \*        | 71       |     |
+| Less than HS                                  | 72        | 67       |     |
+| High School                                   | 68        | 65       |     |
+| Junior College                                | 64        | 69       |     |
+| Bachelor                                      | 71        | 65       |     |
+| Graduate                                      | 69        | 71       |     |
+| Protestant                                    | 69        | 65       |     |
+| Catholic                                      | 62        | 63       |     |
+| Jewish                                        | 95        | 78       |     |
+| No Religion                                   | 78        | 69       |     |
+| Dull                                          | 74        | 71       |     |
+| Average                                       | 65        | 65       |     |
+| Smart                                         | 71        | 66       |     |
+| Liberal                                       | 80        | 77       |     |
+| Slight Liberal                                | 70        | 64       |     |
+| Moderate                                      | 70        | 69       |     |
+| Slight Conservative                           | 68        | 66       |     |
+| Conservative                                  | 59        | 52       |     |
+| Democrat                                      | 73        | 74       |     |
+| Independent                                   | 69        | 67       |     |
+| Republican                                    | 65        | 58       |     |
+| Yes to abortion on demand                     | 80        | 75       |     |
+| No to abortion on demand                      | 61        | 56       |     |
+| Bible Word of God                             | 63        | 61       |     |
+| Bible Inspired Word                           | 68        | 65       |     |
+| Bible Book of Fables                          | 82        | 75       |     |
+| Evolution definitely true                     | \*        | 81       |     |
+| Evolution probably true                       | \*        | 70       |     |
+| Evolution probably not true                   | \*        | 67       |     |
+| Evolution definitely not true                 | \*        | 58       |     |
 
 
 

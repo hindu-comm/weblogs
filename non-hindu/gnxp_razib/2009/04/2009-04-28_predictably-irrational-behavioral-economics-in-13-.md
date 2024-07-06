@@ -27,7 +27,16 @@ Most people choose c) in the first circumstance, but a) in the second (“people
 In auction for various products students were asked to write down their bids, after entering the last 2-digits of their social security number (presumably for purposes of identification, but actually to “prime” them with those numbers as “anchors”).  
 Here are the bids along with SSN’s:
 
-|                                                       |         |         |         |         |         |                 | |-------------------------------------------------------|---------|---------|---------|---------|---------|-----------------| | **Average bids for products by last 2 digits of SNN** |         |         |         |         |         |                 | |                                                      | *00-19* | *20-39* | *40-59* | *60-79* | *80-89* | **Correlation** | | *Cordless trackball*                                  | \$8.64  | \$11.82 | \$13.45 | \$21.18 | \$26.18 | 0.42            | | *Cordless keyboard*                                   | \$16.09 | \$26.82 | \$29.97 | \$34.55 | \$55.64 | 0.52            | | *Design book*                                         | \$12.82 | \$16.18 | \$15.82 | \$19.27 | \$30.00 | 0.32            | | *Neuhaus chocolates*                                  | \$9.55  | \$10.64 | \$12.45 | \$13.27 | \$20.64 | 0.42            | | *1998 Cotes du Rhone*                                 | \$8.64  | \$14.45 | \$12.55 | \$15.45 | \$27.91 | 0.33            | | *1996 Hermitage*                                      | \$11.73 | \$22.45 | \$18.09 | \$24.55 | \$37.55 | 0.33            |
+|                                                       |         |         |         |         |         |                 |
+|-------------------------------------------------------|---------|---------|---------|---------|---------|-----------------|
+| **Average bids for products by last 2 digits of SNN** |         |         |         |         |         |                 |
+|                                                      | *00-19* | *20-39* | *40-59* | *60-79* | *80-89* | **Correlation** |
+| *Cordless trackball*                                  | \$8.64  | \$11.82 | \$13.45 | \$21.18 | \$26.18 | 0.42            |
+| *Cordless keyboard*                                   | \$16.09 | \$26.82 | \$29.97 | \$34.55 | \$55.64 | 0.52            |
+| *Design book*                                         | \$12.82 | \$16.18 | \$15.82 | \$19.27 | \$30.00 | 0.32            |
+| *Neuhaus chocolates*                                  | \$9.55  | \$10.64 | \$12.45 | \$13.27 | \$20.64 | 0.42            |
+| *1998 Cotes du Rhone*                                 | \$8.64  | \$14.45 | \$12.55 | \$15.45 | \$27.91 | 0.33            |
+| *1996 Hermitage*                                      | \$11.73 | \$22.45 | \$18.09 | \$24.55 | \$37.55 | 0.33            |
 
 3\) **The Cost of Zero Cost**  
 Choice between Lindt truffles & Hershey’s Kisses:  

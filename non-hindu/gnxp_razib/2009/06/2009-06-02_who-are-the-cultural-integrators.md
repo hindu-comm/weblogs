@@ -13,7 +13,13 @@ On a recent diavlog between [Dayo Olopade and Reihan Salam](http://bloggingheads
 But the same applies to white Americans. There are vast swaths of the United States where white Americans are not 70% of the population, rather, they’re closer to 95% of the population. And there are prominent regions where they are closer to 50% or less of the population. And because non-Hispanic white Americans are around 70% of the population, even if a small number of them are integrators by the function of being a minority they may be very numerous indeed.  
 Consider the numbers for interracial marriage.
 
-|               |            |            |            |            | |---------------|------------|------------|------------|------------| |               | White Wife | Black Wife | Asian Wife | Other Wife | | White Husband | 50,224,000 | 117,000    | 530,000    | 489,000    | | Black Husband | 286,000    | 3,965,000  | 34,000     | 45,000     | | Asian Husband | 174,000    | 6,000      | 2,493,000  | 13,000     | | Other Husband | 535,000    | 23,000     | 41,000     | 558,000    |
+|               |            |            |            |            |
+|---------------|------------|------------|------------|------------|
+|               | White Wife | Black Wife | Asian Wife | Other Wife |
+| White Husband | 50,224,000 | 117,000    | 530,000    | 489,000    |
+| Black Husband | 286,000    | 3,965,000  | 34,000     | 45,000     |
+| Asian Husband | 174,000    | 6,000      | 2,493,000  | 13,000     |
+| Other Husband | 535,000    | 23,000     | 41,000     | 558,000    |
 
 Married Couples in the United States in 2006^([](#cite_note-census5-20))
 
@@ -26,13 +32,26 @@ The above is from a [Wikipedia article](https://en.wikipedia.org/wiki/Interracia
 
 No surprise. Whites outmarry at low frequencies. Blacks more. Asians more. And Hispanics (Latinos) are confused because though half of them identify as white, another half identify as “Other race,” and the various combinations might not necessarily be exogamy with that culture. But in any case, here are the raw numbers:
 
-|                           |           | |---------------------------|-----------| | \# of Whites who outmarry | 2,131,000 | | \# of Blacks who outmarry | 978,004   | | \# of Asians who outmarry | 798,000   | | \# of Other who outmarry  | 1,146,000 |
+|                           |           |
+|---------------------------|-----------|
+| \# of Whites who outmarry | 2,131,000 |
+| \# of Blacks who outmarry | 978,004   |
+| \# of Asians who outmarry | 798,000   |
+| \# of Other who outmarry  | 1,146,000 |
 
 If you looked at the frequency data you would assume that Asian Americans play an essential role as integrators because of the rates. But because there are so many more black Americans, there are actually more of them who outmarry in absolute terms. In other words, blacks are involved in a higher proportion of interracial marriages than Asian Americans. And of course, despite the strong white tendency toward endogamy, because this group is so numerous it naturally has an outsized representation in the absolute numbers. This makes sense since in marriages people have to pair off. Focusing on minorities who have to integrate or interact misses a part of the equation, as whites who interact with these minorities are not simply passive receivers of cultural manna.  
 This doesn’t negate the role that minorities play as a catalysts in the process of cultural evolution, but large numbers of whites experience what it is to be a minority today. As a fraction it is naturally smaller than other groups, but because whites are so numerous in absolute terms they are substantial.  
 Let’s look at this another way. The GSS has a variable, ACQMYRAC, which asks the racial background of one’s acquaintances. The question was asked in 2006, relatively recently. Here are the breakdowns for blacks and whites:
 
-|                                                                   |           |           | |-------------------------------------------------------------------|-----------|-----------| | **Proportion of same race as respondent among all acquaintances** |           |           | |                                                                  | **White** | **Black** | | **Almost all the same race as you**                               | 38.3      | 26.3      | | **Mostly the same race as you**                                   | 43.7      | 27.2      | | **About evenly divided**                                          | 15.6      | 36.5      | | **Mostly a different rage than you**                              | 1.7       | 7.2       | | **Almost all a different race than you**                          | 0.7       | 2.6       |
+|                                                                   |           |           |
+|-------------------------------------------------------------------|-----------|-----------|
+| **Proportion of same race as respondent among all acquaintances** |           |           |
+|                                                                  | **White** | **Black** |
+| **Almost all the same race as you**                               | 38.3      | 26.3      |
+| **Mostly the same race as you**                                   | 43.7      | 27.2      |
+| **About evenly divided**                                          | 15.6      | 36.5      |
+| **Mostly a different rage than you**                              | 1.7       | 7.2       |
+| **Almost all a different race than you**                          | 0.7       | 2.6       |
 
 It is what you would expect. More blacks than whites have diverse circles of friends. 18% of whites had a circle of friends which were evenly divided, or majority-minority. For blacks, 46.3% had evenly divided, or majority-non-black, networks. But the raw numbers are different. The proportions above who are integrators as N’s are 185 and respectively 71. If I weighted the proportions by the frequency of whites and blacks in the population a little over double as many whites would have racially diverse circles of friends as opposed to blacks (similar to the GSS raw numbers).
 

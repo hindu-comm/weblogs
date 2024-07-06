@@ -95,7 +95,18 @@ To get more specific, the National Oceanographic and Atmospheric Administration 
 
 As an example, heating degree-day values for select cities are shown below, in both °C (°F) formats. Both the annual sum and the value for January—typically the coldest month—are shown.
 
-|                  |            |              |              | |------------------|------------|--------------|--------------| | City, State      | January    | Annual       | Jan. at 12°C | | Miami, FL        | 32 (58)    | 86 (155)     | 0            | | San Diego, CA    | 126 (227)  | 591 (1063)   | 0            | | Atlanta, GA      | 384 (692)  | 1571 (2827)  | 0.27         | | Washington, D.C. | 503 (903)  | 2222 (3999)  | 0.45         | | St. Louis, MO    | 609 (1097) | 2643 (4757)  | 0.54         | | Seattle, WA      | 415 (747)  | 2665 (4797)  | 0.33         | | Boston, MA       | 613 (1104) | 3128 (5630)  | 0.54         | | Minneapolis, MN  | 898 (1616) | 4379 (7882)  | 0.69         | | Anchorage, AK    | 848 (1526) | 5817 (10470) | 0.67         |
+|                  |            |              |              |
+|------------------|------------|--------------|--------------|
+| City, State      | January    | Annual       | Jan. at 12°C |
+| Miami, FL        | 32 (58)    | 86 (155)     | 0            |
+| San Diego, CA    | 126 (227)  | 591 (1063)   | 0            |
+| Atlanta, GA      | 384 (692)  | 1571 (2827)  | 0.27         |
+| Washington, D.C. | 503 (903)  | 2222 (3999)  | 0.45         |
+| St. Louis, MO    | 609 (1097) | 2643 (4757)  | 0.54         |
+| Seattle, WA      | 415 (747)  | 2665 (4797)  | 0.33         |
+| Boston, MA       | 613 (1104) | 3128 (5630)  | 0.54         |
+| Minneapolis, MN  | 898 (1616) | 4379 (7882)  | 0.69         |
+| Anchorage, AK    | 848 (1526) | 5817 (10470) | 0.67         |
 
 Since January has 31 days, we can divide each of the January numbers by 31 to get the average offset from 18°C (65°F). For instance, San Diego’s average January temperature computes to 14°C (58°F)—a bit warmer than the period displayed on the 8-day temperature record above.
 
@@ -109,7 +120,13 @@ How much heating energy does a monthly 279 degree-day savings translate into? On
 
 For assessing the heat-tightness of a house, we have several units from which to choose. The Therms per degree day measure may be somewhat convenient in the U.S., but a more natural unit is W/°C. One Therm per day equates to a *power* of 1.22kW. Here is a useful table for comparison for U.S. houses in the northeast, midwest, and west with a square-footage of 2000ft² (186m²). Data are from this [useful website](http://www.kouba-cavallo.com/bnchmrk.htm "Benchmarking houses").
 
-|                |                     |                     |        | |----------------|---------------------|---------------------|--------| | Characteristic | Therms/deg-day (°F) | Therms/deg-day (°C) | W/°C   | | Best 10%       | \<0.1               | \<0.18              | \<220  | | Typical        | 0.2                 | 0.36                | 440    | | My House       | 0.28                | 0.5                 | 610    | | Worst 10%      | \>0.5               | \>0.9               | \>1100 |
+|                |                     |                     |        |
+|----------------|---------------------|---------------------|--------|
+| Characteristic | Therms/deg-day (°F) | Therms/deg-day (°C) | W/°C   |
+| Best 10%       | \<0.1               | \<0.18              | \<220  |
+| Typical        | 0.2                 | 0.36                | 440    |
+| My House       | 0.28                | 0.5                 | 610    |
+| Worst 10%      | \>0.5               | \>0.9               | \>1100 |
 
 One caveat worth pointing out: the amount of savings calculated in the foregoing paragraphs is based only on average temperatures. This will work perfectly well for the months when the outdoor temperature stays well below the set-point (by at least 3°C) all day. In milder weather the daily swings may still force the heat to come on in the wee hours, even if the calculation based on averages suggests that heat will not be needed. A well-insulated house will suffer smaller swings and may be able to resist kicking the heat on during the nightly cycle.
 

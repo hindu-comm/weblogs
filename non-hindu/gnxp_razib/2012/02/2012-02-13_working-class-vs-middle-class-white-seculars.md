@@ -21,7 +21,17 @@ Below are some responses to a selection of questions.
 
 
 
-|                          |                |             |                |             | |--------------------------|----------------|-------------|----------------|-------------| |                          | **Secular**    |             | **Religious**  |             | |                          | **No College** | **College** | **No College** | **College** | | Atheist + agnostic       | 13             | 32          | 1              | 2           | | Know God Exists          | 39             | 17          | 89             | 79          | | Bible World of God       | 18             | 2           | 57             | 31          | | Bible Book of Fables     | 31             | 61          | 3              | 6           | | Religious fundamentalist | 18             | 5           | 45             | 29          | | Humans from animals      | 68             | 91          | 18             | 40          | | Hell definitely exists   | 33             | 10          | 82             | 65          |
+|                          |                |             |                |             |
+|--------------------------|----------------|-------------|----------------|-------------|
+|                          | **Secular**    |             | **Religious**  |             |
+|                          | **No College** | **College** | **No College** | **College** |
+| Atheist + agnostic       | 13             | 32          | 1              | 2           |
+| Know God Exists          | 39             | 17          | 89             | 79          |
+| Bible World of God       | 18             | 2           | 57             | 31          |
+| Bible Book of Fables     | 31             | 61          | 3              | 6           |
+| Religious fundamentalist | 18             | 5           | 45             | 29          |
+| Humans from animals      | 68             | 91          | 18             | 40          |
+| Hell definitely exists   | 33             | 10          | 82             | 65          |
 
 Qualitatively Dreher is roughly correct. Working class seculars are more ‘religious’ than middle class seculars. But they are still more secular than the religious middle class. This isn’t too surprising. In many Western societies there is a pattern where:
 

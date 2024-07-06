@@ -11,7 +11,20 @@ Geologists are Republicans?
 
 I was poking around [Fund Race 2008](http://fundrace.huffingtonpost.com/) and was curious how different scientist professions were giving in regards to political parties in the USA. Below is what I found….
 
-|                     |              |            |              |            |              |            | |---------------------|--------------|------------|--------------|------------|--------------|------------| | **profession**      | **Repub \#** | **Dem \#** | **Repub \$** | **Dem \$** | **Ratio \#** | **Dem \$** | | mathematician       | 18           | 98         | 13740        | 72837      | 5.44         | 5.3        | | physicist           | 86           | 532        | 65722        | 425105     | 6.19         | 6.47       | | chemist             | 172          | 397        | 111058       | 247742     | 2.31         | 2.23       | | biochemist          | 23           | 117        | 16567        | 100415     | 5.09         | 6.06       | | biologist           | 27           | 278        | 13809        | 156868     | 10.3         | 11.36      | | geologist           | 321          | 294        | 321835       | 195143     | 0.92         | 0.61       | | electrical engineer | 321          | 374        | 184539       | 244717     | 1.17         | 1.33       | | mechanical engineer | 155          | 149        | 109542       | 86466      | 0.96         | 0.79       | | civil engineer      | 555          | 419        | 488337       | 284625     | 0.75         | 0.58       | | chemical engineer   | 123          | 97         | 87113        | 54524      | 0.79         | 0.63       | | economist           | 205          | 798        | 239043       | 784461     | 3.89         | 3.28       |
+|                     |              |            |              |            |              |            |
+|---------------------|--------------|------------|--------------|------------|--------------|------------|
+| **profession**      | **Repub \#** | **Dem \#** | **Repub \$** | **Dem \$** | **Ratio \#** | **Dem \$** |
+| mathematician       | 18           | 98         | 13740        | 72837      | 5.44         | 5.3        |
+| physicist           | 86           | 532        | 65722        | 425105     | 6.19         | 6.47       |
+| chemist             | 172          | 397        | 111058       | 247742     | 2.31         | 2.23       |
+| biochemist          | 23           | 117        | 16567        | 100415     | 5.09         | 6.06       |
+| biologist           | 27           | 278        | 13809        | 156868     | 10.3         | 11.36      |
+| geologist           | 321          | 294        | 321835       | 195143     | 0.92         | 0.61       |
+| electrical engineer | 321          | 374        | 184539       | 244717     | 1.17         | 1.33       |
+| mechanical engineer | 155          | 149        | 109542       | 86466      | 0.96         | 0.79       |
+| civil engineer      | 555          | 419        | 488337       | 284625     | 0.75         | 0.58       |
+| chemical engineer   | 123          | 97         | 87113        | 54524      | 0.79         | 0.63       |
+| economist           | 205          | 798        | 239043       | 784461     | 3.89         | 3.28       |
 
 I suspect that geologists are explicable when you note how many are employed in natural resources industries (e.g., oil).
 

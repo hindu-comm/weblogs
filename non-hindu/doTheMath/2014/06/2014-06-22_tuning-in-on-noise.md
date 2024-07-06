@@ -37,7 +37,16 @@ First, a look at the math of Poisson statistics. If I have an expected (average)
 
 where *e* represents the exponential function, and *N!* is *N*-factorial, or *N*(*N*−1)(*N*−2)…1 (e.g., 4!=24). Some relevant examples appear in the table below.
 
-|     |         |         |         |         | |-----|---------|---------|---------|---------| | *N* | *X*=0.7 | *X*=1.0 | *X*=2.0 | *X*=2.4 | | 0   | 0.496   | 0.368   | 0.135   | 0.091   | | 1   | 0.348   | 0.368   | 0.271   | 0.218   | | 2   | 0.122   | 0.184   | 0.271   | 0.261   | | 3   | 0.028   | 0.061   | 0.180   | 0.209   | | 4   | 0.005   | 0.015   | 0.090   | 0.125   | | 5   | 0.001   | 0.003   | 0.036   | 0.060   | | 6   | 0.000   | 0.001   | 0.012   | 0.024   |
+|     |         |         |         |         |
+|-----|---------|---------|---------|---------|
+| *N* | *X*=0.7 | *X*=1.0 | *X*=2.0 | *X*=2.4 |
+| 0   | 0.496   | 0.368   | 0.135   | 0.091   |
+| 1   | 0.348   | 0.368   | 0.271   | 0.218   |
+| 2   | 0.122   | 0.184   | 0.271   | 0.261   |
+| 3   | 0.028   | 0.061   | 0.180   | 0.209   |
+| 4   | 0.005   | 0.015   | 0.090   | 0.125   |
+| 5   | 0.001   | 0.003   | 0.036   | 0.060   |
+| 6   | 0.000   | 0.001   | 0.012   | 0.024   |
 
 Each column (when extended to all *N*) sums to 1.0, as probability should. Note all “teams” above may score zero by chance, even if “expected” to score 2.4 in a game. Sure, the probability of zero is reduced to 9% for the *X*=2.4 team, but it will happen. The point is that the Poisson distribution is pretty spread out, but in a sensible way: the team with an expectation of 0.7 has essentially no chance of scoring 6 by dumb luck, while the 2.4 team (coincidentally) has a 2.4% chance of doing so.
 
@@ -51,7 +60,17 @@ By applying this inversion to both teams’ final scores, we can assess the freq
 
 If you’re on board and keen to see the results, skip ahead. But if you still want a feel for how this scheme works in practice, an illustrative table appears below for the case of a 2 to 1 final score.
 
-|          |       |       |       |      |      |        | |----------|-------|-------|-------|------|------|--------| | *X* vals | 1     | 2     | 3     | 4    | 5    | totals | | 1        | 6.77  | 4.98  | 2.75  | 1.35 | 0.62 | 16.47  | | 2        | 9.96  | 7.33  | 4.04  | 1.98 | 0.91 | 24.22  | | 3        | 8.24  | 6.06  | 3.35  | 1.64 | 0.75 | 20.04  | | 4        | 5.39  | 3.97  | 2.19  | 1.07 | 0.49 | 13.11  | | 5        | 3.10  | 2.28  | 1.26  | 0.62 | 0.28 | 7.54   | | 6        | 1.64  | 1.21  | 0.67  | 0.33 | 0.15 | 4.00   | | 7        | 0.82  | 0.60  | 0.33  | 0.16 | 0.08 | 1.99   | | totals   | 35.92 | 26.43 | 14.59 | 7.15 | 3.28 | 87.37  |
+|          |       |       |       |      |      |        |
+|----------|-------|-------|-------|------|------|--------|
+| *X* vals | 1     | 2     | 3     | 4    | 5    | totals |
+| 1        | 6.77  | 4.98  | 2.75  | 1.35 | 0.62 | 16.47  |
+| 2        | 9.96  | 7.33  | 4.04  | 1.98 | 0.91 | 24.22  |
+| 3        | 8.24  | 6.06  | 3.35  | 1.64 | 0.75 | 20.04  |
+| 4        | 5.39  | 3.97  | 2.19  | 1.07 | 0.49 | 13.11  |
+| 5        | 3.10  | 2.28  | 1.26  | 0.62 | 0.28 | 7.54   |
+| 6        | 1.64  | 1.21  | 0.67  | 0.33 | 0.15 | 4.00   |
+| 7        | 0.82  | 0.60  | 0.33  | 0.16 | 0.08 | 1.99   |
+| totals   | 35.92 | 26.43 | 14.59 | 7.15 | 3.28 | 87.37  |
 
 The winning team’s expectation value increases along the left hand side, and the losing team’s expectation value runs along the top. This table captures 87% of the possibilities; had I extended in both directions (to larger expectation values) and sampled less coarsely, we would have gotten 100%. The way to interpret this table is that if the final score was 2 to 1, the chances that the expectation values were actually 2 vs. 1—in line with the final score—is 10%. The chances that the roles are reversed, and the expectation values were 1 vs. 2 is 5%. There is a 2% chance that the losing team had an expectation of 4 while the winning team had an expectation of 2, making this a dramatic upset. The most probable “truth” is an expectation of 2 vs. 1, in accordance with the actual score. Looking at the totals, the most probable expectation for team A (winner) is 2, while for team B the most likely expectation score is 1—again in accordance with expectation.
 
@@ -61,7 +80,30 @@ If we sum the probabilities in the table where the winning team’s expectation 
 
 But the above example is a bit coarse-grained. A more thorough exploration of parameter space would include fractional expectation values. So get ready for the full deal. In the table that follows, each row represents a score for a non-tie game (from which all we can conclude is that each team has a 50% chance of being better than the other). Following are percent chances that the winning team is truly better than the losing team. The second column examines every expectation value between 0 and 16 in steps of 0.01, uniformly weighted. That’s 1600 cases for each team, for a total of 2.6 million test cases. You’ll forgive me for not including the table associated table this time. It does not pay to extend beyond expectations of about 16, because the Poisson inverse probability is pretty much dead by this time.
 
-|        |         |              |              |              | |--------|---------|--------------|--------------|--------------| | Score  | Uniform | μ=1.5, σ=2.0 | μ=2.0, σ=2.0 | μ=2.0, σ=1.5 | | 1 to 0 | 75.1    | 73.1         | 72.7         | 71.2         | | 2 to 1 | 68.7    | 66.4         | 66.1         | 64.9         | | 2 to 0 | 87.6    | 84.7         | 84.3         | 82.4         | | 3 to 2 | 65.6    | 63.3         | 63.1         | 62.1         | | 3 to 1 | 81.2    | 77.6         | 77.2         | 75.4         | | 3 to 0 | 93.8    | 91.1         | 90.7         | 88.9         | | 4 to 3 | 63.7    | 61.4         | 61.2         | 60.4         | | 4 to 2 | 77.3    | 73.5         | 73.1         | 71.6         | | 4 to 1 | 89.1    | 85.1         | 84.7         | 82.8         | | 4 to 0 | 96.9    | 94.7         | 94.4         | 92.9         | | 5 to 4 | 62.3    | 60.1         | 59.9         | 59.3         | | 5 to 3 | 74.6    | 70.7         | 70.4         | 69.0         | | 5 to 2 | 85.5    | 81.0         | 80.6         | 78.9         | | 5 to 1 | 93.7    | 90.1         | 89.7         | 87.9         | | 5 to 0 | 98.4    | 96.8         | 96.5         | 95.4         | | 6 to 5 | 61.2    | 59.1         | 59.0         | 58.4         | | 6 to 4 | 72.5    | 68.7         | 68.4         | 67.2         | | 6 to 3 | 82.8    | 78.0         | 77.6         | 76.1         | | 6 to 2 | 91.0    | 86.6         | 86.1         | 84.4         | | 6 to 1 | 96.5    | 93.5         | 93.1         | 91.6         | | 6 to 0 | 99.2    | 98.0         | 97.8         | 96.9         |
+|        |         |              |              |              |
+|--------|---------|--------------|--------------|--------------|
+| Score  | Uniform | μ=1.5, σ=2.0 | μ=2.0, σ=2.0 | μ=2.0, σ=1.5 |
+| 1 to 0 | 75.1    | 73.1         | 72.7         | 71.2         |
+| 2 to 1 | 68.7    | 66.4         | 66.1         | 64.9         |
+| 2 to 0 | 87.6    | 84.7         | 84.3         | 82.4         |
+| 3 to 2 | 65.6    | 63.3         | 63.1         | 62.1         |
+| 3 to 1 | 81.2    | 77.6         | 77.2         | 75.4         |
+| 3 to 0 | 93.8    | 91.1         | 90.7         | 88.9         |
+| 4 to 3 | 63.7    | 61.4         | 61.2         | 60.4         |
+| 4 to 2 | 77.3    | 73.5         | 73.1         | 71.6         |
+| 4 to 1 | 89.1    | 85.1         | 84.7         | 82.8         |
+| 4 to 0 | 96.9    | 94.7         | 94.4         | 92.9         |
+| 5 to 4 | 62.3    | 60.1         | 59.9         | 59.3         |
+| 5 to 3 | 74.6    | 70.7         | 70.4         | 69.0         |
+| 5 to 2 | 85.5    | 81.0         | 80.6         | 78.9         |
+| 5 to 1 | 93.7    | 90.1         | 89.7         | 87.9         |
+| 5 to 0 | 98.4    | 96.8         | 96.5         | 95.4         |
+| 6 to 5 | 61.2    | 59.1         | 59.0         | 58.4         |
+| 6 to 4 | 72.5    | 68.7         | 68.4         | 67.2         |
+| 6 to 3 | 82.8    | 78.0         | 77.6         | 76.1         |
+| 6 to 2 | 91.0    | 86.6         | 86.1         | 84.4         |
+| 6 to 1 | 96.5    | 93.5         | 93.1         | 91.6         |
+| 6 to 0 | 99.2    | 98.0         | 97.8         | 96.9         |
 
 So far, we have considered no prior information on likely expectation values for a team. We have let the low scores effectively kill the chances of the actual expectation being very large (it would be unlikely indeed for a team with *X_(A)*=45 to end up scoring 3 points in a game). So the calculation converges without needing to assume any priors. But we can do better than this. We already have a sense for typical soccer game scores. We can model this reasonably with a Gaussian distribution whose mean, *μ* might be around 2, and whose standard deviation, *σ*, may be similar. Such a distribution would slightly disfavor a team’s average score from getting too low or too high.
 

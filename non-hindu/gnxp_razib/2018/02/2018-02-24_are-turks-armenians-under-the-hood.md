@@ -51,7 +51,40 @@ Georgians have none of the Northern European sort of ancestry, but Armenians do,
 
 It’s hard to tell from these results whether Turks have more of an affinity with Greek or Armenians as their non-Turkic ancestors. So I ran a three population test.
 
-|              |               |               |              |             |          | |--------------|---------------|---------------|--------------|-------------|----------| | **Outgroup** | **X1**        | **X2**        | **f3**       | **error**   | **z**    | | Turkey       | Armenians     | Yakut         | -0.00253688  | 6.70852e-05 | -37.8158 | | Turkey       | Greece3       | Yakut         | -0.00246931  | 6.72384e-05 | -36.7247 | | Turkey       | Georgian      | Yakut         | -0.00256555  | 7.60158e-05 | -33.7502 | | Turkey       | Armenians     | Dai           | -0.00246779  | 7.40038e-05 | -33.3468 | | Turkey       | Greece3       | Dai           | -0.0024101   | 7.34629e-05 | -32.8071 | | Turkey       | Georgian      | Dai           | -0.00249174  | 8.11957e-05 | -30.688  | | Turkey       | Greece2       | Yakut         | -0.00222382  | 7.62368e-05 | -29.1699 | | Turkey       | Greece2       | Dai           | -0.00231001  | 8.39207e-05 | -27.5261 | | Turkmen      | Turkey        | Dai           | -0.00288213  | 0.000108049 | -26.6742 | | Turkmen      | Turkey        | Yakut         | -0.00254805  | 0.000102816 | -24.7826 | | Turkey       | Greece1       | Yakut         | -0.00225638  | 9.94722e-05 | -22.6836 | | Turkey       | GreekCentral  | Dai           | -0.00235681  | 0.000104014 | -22.6587 | | Turkey       | Greece3       | Tajik         | -0.000622671 | 2.76666e-05 | -22.5063 | | Turkey       | GreekCentral  | Yakut         | -0.00221985  | 0.000101654 | -21.8373 | | Turkey       | Greece1       | Dai           | -0.00243254  | 0.000112011 | -21.717  | | Turkey       | Greece3       | Turkmen       | -0.000640439 | 3.33529e-05 | -19.2019 | | Turkey       | GreekThessaly | Yakut         | -0.00208436  | 0.00011042  | -18.8767 | | Turkey       | Dai           | GreekThessaly | -0.00225435  | 0.00012241  | -18.4163 | | Turkey       | Greece2       | Turkmen       | -0.000584983 | 3.29819e-05 | -17.7365 | | Turkey       | Armenians     | Turkmen       | -0.000520887 | 3.07253e-05 | -16.953  | | Turkey       | Armenians     | Tajik         | -0.000421139 | 2.55274e-05 | -16.4975 | | Tajik        | Turkey        | Dai           | -0.00140423  | 8.51697e-05 | -16.4875 | | Tajik        | Turkey        | Yakut         | -0.00124601  | 7.60725e-05 | -16.3793 | | Turkey       | Georgian      | Turkmen       | -0.000532496 | 3.80694e-05 | -13.9875 | | Turkey       | Greece2       | Tajik         | -0.000412419 | 3.04172e-05 | -13.5587 | | Turkey       | Armenians     | Lithuanians   | -0.000459831 | 3.75838e-05 | -12.2348 | | Turkey       | Greece1       | Turkmen       | -0.000570715 | 4.7753e-05  | -11.9514 | | Turkey       | Kurds         | Yakut         | -0.00146087  | 0.000124799 | -11.7058 | | Turkey       | GreekThessaly | Turkmen       | -0.000516877 | 4.46683e-05 | -11.5714 | | Turkey       | Georgian      | Tajik         | -0.000328859 | 3.02443e-05 | -10.8734 | | Turkey       | GreekCentral  | Turkmen       | -0.000504962 | 4.92555e-05 | -10.2519 |
+|              |               |               |              |             |          |
+|--------------|---------------|---------------|--------------|-------------|----------|
+| **Outgroup** | **X1**        | **X2**        | **f3**       | **error**   | **z**    |
+| Turkey       | Armenians     | Yakut         | -0.00253688  | 6.70852e-05 | -37.8158 |
+| Turkey       | Greece3       | Yakut         | -0.00246931  | 6.72384e-05 | -36.7247 |
+| Turkey       | Georgian      | Yakut         | -0.00256555  | 7.60158e-05 | -33.7502 |
+| Turkey       | Armenians     | Dai           | -0.00246779  | 7.40038e-05 | -33.3468 |
+| Turkey       | Greece3       | Dai           | -0.0024101   | 7.34629e-05 | -32.8071 |
+| Turkey       | Georgian      | Dai           | -0.00249174  | 8.11957e-05 | -30.688  |
+| Turkey       | Greece2       | Yakut         | -0.00222382  | 7.62368e-05 | -29.1699 |
+| Turkey       | Greece2       | Dai           | -0.00231001  | 8.39207e-05 | -27.5261 |
+| Turkmen      | Turkey        | Dai           | -0.00288213  | 0.000108049 | -26.6742 |
+| Turkmen      | Turkey        | Yakut         | -0.00254805  | 0.000102816 | -24.7826 |
+| Turkey       | Greece1       | Yakut         | -0.00225638  | 9.94722e-05 | -22.6836 |
+| Turkey       | GreekCentral  | Dai           | -0.00235681  | 0.000104014 | -22.6587 |
+| Turkey       | Greece3       | Tajik         | -0.000622671 | 2.76666e-05 | -22.5063 |
+| Turkey       | GreekCentral  | Yakut         | -0.00221985  | 0.000101654 | -21.8373 |
+| Turkey       | Greece1       | Dai           | -0.00243254  | 0.000112011 | -21.717  |
+| Turkey       | Greece3       | Turkmen       | -0.000640439 | 3.33529e-05 | -19.2019 |
+| Turkey       | GreekThessaly | Yakut         | -0.00208436  | 0.00011042  | -18.8767 |
+| Turkey       | Dai           | GreekThessaly | -0.00225435  | 0.00012241  | -18.4163 |
+| Turkey       | Greece2       | Turkmen       | -0.000584983 | 3.29819e-05 | -17.7365 |
+| Turkey       | Armenians     | Turkmen       | -0.000520887 | 3.07253e-05 | -16.953  |
+| Turkey       | Armenians     | Tajik         | -0.000421139 | 2.55274e-05 | -16.4975 |
+| Tajik        | Turkey        | Dai           | -0.00140423  | 8.51697e-05 | -16.4875 |
+| Tajik        | Turkey        | Yakut         | -0.00124601  | 7.60725e-05 | -16.3793 |
+| Turkey       | Georgian      | Turkmen       | -0.000532496 | 3.80694e-05 | -13.9875 |
+| Turkey       | Greece2       | Tajik         | -0.000412419 | 3.04172e-05 | -13.5587 |
+| Turkey       | Armenians     | Lithuanians   | -0.000459831 | 3.75838e-05 | -12.2348 |
+| Turkey       | Greece1       | Turkmen       | -0.000570715 | 4.7753e-05  | -11.9514 |
+| Turkey       | Kurds         | Yakut         | -0.00146087  | 0.000124799 | -11.7058 |
+| Turkey       | GreekThessaly | Turkmen       | -0.000516877 | 4.46683e-05 | -11.5714 |
+| Turkey       | Georgian      | Tajik         | -0.000328859 | 3.02443e-05 | -10.8734 |
+| Turkey       | GreekCentral  | Turkmen       | -0.000504962 | 4.92555e-05 | -10.2519 |
 
 Armenians beat out Greece3 a bit better, but really it’s hard to say from this that this is definitive. It’s likely that my Turkish sample has both, and/or the original Turkic nomads had Iranian-like ancestry which was more like Armenian than Greek? Hard to say. Additionally, the face that Greece3 is better than the other options suggests to me that the source are Anatolian Greeks who were less impacted by migrations from the north than Greeks in Greece proper.
 

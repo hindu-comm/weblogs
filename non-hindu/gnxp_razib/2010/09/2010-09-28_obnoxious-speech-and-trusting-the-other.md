@@ -25,7 +25,41 @@ In any case, enough commentary. **How about if the shoe was on the other foot?**
 
 ------------------------------------------------------------------------
 
-|                        |                                                        | |------------------------|--------------------------------------------------------| | **Demographic**        | **Ban preaching by Anti-American Muslim in community** | | Male                   | 51                                                     | | Female                 | 65                                                     | | Northeast              | 57                                                     | | Midwest                | 56                                                     | | South                  | 63                                                     | | West                   | 56                                                     | | White                  | 56                                                     | | Black                  | 70                                                     | | Hispanic               | 74                                                     | | Protestant             | 62                                                     | | Catholic               | 65                                                     | | Jewish                 | 68                                                     | | No religion            | 42                                                     | | No High School Diploma | 82                                                     | | High School            | 62                                                     | | Junior College         | 57                                                     | | Bachelor               | 45                                                     | | Graduate               | 30                                                     | | Dumb (Wordsum 0-4)     | 75                                                     | | Average (Wordsum 5-8)  | 61                                                     | | Smart (Wordsum 8-10)   | 34                                                     | | Atheist and agnostic   | 30                                                     | | Know god exists        | 68                                                     | | Bible Word of God      | 76                                                     | | Bible Inspired Word    | 55                                                     | | Bible Book of Fables   | 38                                                     | | Liberal                | 45                                                     | | Moderate               | 62                                                     | | Conservative           | 61                                                     | | Democrat               | 56                                                     | | Independent            | 66                                                     | | Republican             | 59                                                     |
+|                        |                                                        |
+|------------------------|--------------------------------------------------------|
+| **Demographic**        | **Ban preaching by Anti-American Muslim in community** |
+| Male                   | 51                                                     |
+| Female                 | 65                                                     |
+| Northeast              | 57                                                     |
+| Midwest                | 56                                                     |
+| South                  | 63                                                     |
+| West                   | 56                                                     |
+| White                  | 56                                                     |
+| Black                  | 70                                                     |
+| Hispanic               | 74                                                     |
+| Protestant             | 62                                                     |
+| Catholic               | 65                                                     |
+| Jewish                 | 68                                                     |
+| No religion            | 42                                                     |
+| No High School Diploma | 82                                                     |
+| High School            | 62                                                     |
+| Junior College         | 57                                                     |
+| Bachelor               | 45                                                     |
+| Graduate               | 30                                                     |
+| Dumb (Wordsum 0-4)     | 75                                                     |
+| Average (Wordsum 5-8)  | 61                                                     |
+| Smart (Wordsum 8-10)   | 34                                                     |
+| Atheist and agnostic   | 30                                                     |
+| Know god exists        | 68                                                     |
+| Bible Word of God      | 76                                                     |
+| Bible Inspired Word    | 55                                                     |
+| Bible Book of Fables   | 38                                                     |
+| Liberal                | 45                                                     |
+| Moderate               | 62                                                     |
+| Conservative           | 61                                                     |
+| Democrat               | 56                                                     |
+| Independent            | 66                                                     |
+| Republican             | 59                                                     |
 
 ------------------------------------------------------------------------
 

@@ -11,7 +11,14 @@ Liberal Creationists Are Not Very Intelligent
 
 A comment below about intelligent people who believe in dumb ideas made me want to revisit the Creationism demographics in the [GSS](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss08). More on point I wanted to look at the relationship between IQ and Creationism crossed with demographic variables. I used the WORDSUM variable as a proxy for IQ (the correlation is \~[0.70](http://blogs.discovermagazine.com/gnxp/2010/05/wordsum-iq/)). WORDSUM scores range from 0 to 10; 10 being a perfect and 0 being not so perfect. To get a sense of the range, here are **mean** WORDSUM scores by highest degree attained, constrained for the years 2004 and later:
 
-|                            |                  | |----------------------------|------------------| |                            | **Mean WORDSUM** | | **No High School Diploma** | 4.57             | | **High School Diploma**    | 5.91             | | **Junior College**         | 6.29             | | **Bachelor**               | 6.82             | | **Graduate**               | 7.73             |
+|                            |                  |
+|----------------------------|------------------|
+|                            | **Mean WORDSUM** |
+| **No High School Diploma** | 4.57             |
+| **High School Diploma**    | 5.91             |
+| **Junior College**         | 6.29             |
+| **Bachelor**               | 6.82             |
+| **Graduate**               | 7.73             |
 
 I decided to limit the year to 2004 and later because to explore Creationism I want to use the variable EVOLVED, which was asked in 2004 and 2008. I selected EVOLVED because the sample size was not that small, nearly 1,500, and, the response is dichotomous. Here’s what EVOLVED asked:
 

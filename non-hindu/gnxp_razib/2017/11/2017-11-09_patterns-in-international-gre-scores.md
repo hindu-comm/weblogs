@@ -31,13 +31,78 @@ Finally, I want to observe Saudi Arabia, as opposed to Iran. Both countries have
 
 Saudi Arabia wants to move beyond being purely a resource-driveneconomy. These sorts of results show why many people are skeptical: in the generations since the oil-boom began **the Saudi state has not cultivated and matured the human capital of its population**. To get a better sense, here are the scores with N’s of MENA nations and a few others:
 
-|             |       |                  | |-------------|-------|------------------| | **Country** | **N** | **Quantitative** | | Saudi       | 4462  | 141.6            | | Libya       | 113   | 146.2            | | Iraq        | 148   | 146.6            | | Oman        | 98    | 146.9            | | UAE         | 238   | 147.2            | | Qatar       | 85    | 147.3            | | Kuwait      | 386   | 147.8            | | Algeria     | 86    | 149.5            | | Yemen       | 68    | 149.9            | | Bahrain     | 55    | 150.9            | | Ethiopia    | 353   | 151.3            | | Jordan      | 472   | 152.1            | | Egypt       | 1044  | 153.2            | | Morocco     | 191   | 153.7            | | Tunisia     | 128   | 154.1            | | Georgia     | 71    | 154.2            | | Lebanon     | 691   | 154.7            | | Armenia     | 84    | 154.9            | | Azerbaijan  | 125   | 155.1            | | Eritrea     | 223   | 155.2            | | Israel      | 344   | 156.8            | | Iran        | 5319  | 157.3            | | Turkey      | 2370  | 158.9            |
+|             |       |                  |
+|-------------|-------|------------------|
+| **Country** | **N** | **Quantitative** |
+| Saudi       | 4462  | 141.6            |
+| Libya       | 113   | 146.2            |
+| Iraq        | 148   | 146.6            |
+| Oman        | 98    | 146.9            |
+| UAE         | 238   | 147.2            |
+| Qatar       | 85    | 147.3            |
+| Kuwait      | 386   | 147.8            |
+| Algeria     | 86    | 149.5            |
+| Yemen       | 68    | 149.9            |
+| Bahrain     | 55    | 150.9            |
+| Ethiopia    | 353   | 151.3            |
+| Jordan      | 472   | 152.1            |
+| Egypt       | 1044  | 153.2            |
+| Morocco     | 191   | 153.7            |
+| Tunisia     | 128   | 154.1            |
+| Georgia     | 71    | 154.2            |
+| Lebanon     | 691   | 154.7            |
+| Armenia     | 84    | 154.9            |
+| Azerbaijan  | 125   | 155.1            |
+| Eritrea     | 223   | 155.2            |
+| Israel      | 344   | 156.8            |
+| Iran        | 5319  | 157.3            |
+| Turkey      | 2370  | 158.9            |
 
 **The “natural break” is between the Saudis and everyone else.**In recent years Saudis indigenized their non-essential workforce. I’m broadly skeptical of the consequences of this.
 
 The data for the plot at the top is below the fold.
 
-|              |            |           |             | |--------------|------------|-----------|-------------| | **Country**  | **Verbal** | **Quant** | **Writing** | | China        | 148.4      | 165.6     | 3           | | Taiwan       | 147.1      | 162.2     | 2.9         | | Hong Kong    | 150.2      | 161.1     | 3.4         | | Singapore    | 157.8      | 160.4     | 4.3         | | S Korea      | 149.9      | 160.3     | 3.2         | | Vietnam      | 147.6      | 159.1     | 3.2         | | Turkey       | 144.9      | 158.9     | 2.9         | | Japan        | 146.4      | 158.2     | 3.1         | | Iran         | 143.5      | 157.3     | 2.8         | | France       | 154        | 157.1     | 3.5         | | Greece       | 150.4      | 156.7     | 3.6         | | Germany      | 153.7      | 156.3     | 3.8         | | Thailand     | 144.7      | 156.2     | 2.9         | | Russia       | 149.3      | 156.1     | 3.2         | | Malaysia     | 150.8      | 155.8     | 3.6         | | Bangladesh   | 144.8      | 155.7     | 2.9         | | Italy        | 154.8      | 155.6     | 3.4         | | Sri Lanka    | 144.4      | 155.4     | 3.1         | | Chile        | 150.5      | 155.3     | 3.1         | | Nepal        | 144.8      | 155       | 3           | | Spain        | 152.3      | 155       | 3.4         | | Lebanon      | 147.5      | 154.7     | 3.3         | | Canada       | 156.1      | 154.6     | 4.2         | | UK           | 157.4      | 154.1     | 4.3         | | Egypt        | 145        | 153.2     | 3.1         | | India        | 144        | 153.2     | 2.9         | | Pakistan     | 147.9      | 152.5     | 3.4         | | Indonesia    | 147        | 152.2     | 3.1         | | Brazil       | 150.3      | 152.2     | 3.1         | | Philippines  | 150.7      | 150.9     | 3.6         | | Ecuador      | 147.4      | 150.5     | 3.1         | | USA          | 152.8      | 150.2     | 3.8         | | Colombia     | 148.6      | 150.1     | 3           | | Mexico       | 148.9      | 149.5     | 3.1         | | Kenya        | 147.3      | 147.8     | 3.4         | | Ghana        | 146.1      | 147.4     | 3.2         | | Nigeria      | 146.4      | 146.9     | 3.1         | | Saudi Arabia | 137.5      | 141.6     | 2           |
+|              |            |           |             |
+|--------------|------------|-----------|-------------|
+| **Country**  | **Verbal** | **Quant** | **Writing** |
+| China        | 148.4      | 165.6     | 3           |
+| Taiwan       | 147.1      | 162.2     | 2.9         |
+| Hong Kong    | 150.2      | 161.1     | 3.4         |
+| Singapore    | 157.8      | 160.4     | 4.3         |
+| S Korea      | 149.9      | 160.3     | 3.2         |
+| Vietnam      | 147.6      | 159.1     | 3.2         |
+| Turkey       | 144.9      | 158.9     | 2.9         |
+| Japan        | 146.4      | 158.2     | 3.1         |
+| Iran         | 143.5      | 157.3     | 2.8         |
+| France       | 154        | 157.1     | 3.5         |
+| Greece       | 150.4      | 156.7     | 3.6         |
+| Germany      | 153.7      | 156.3     | 3.8         |
+| Thailand     | 144.7      | 156.2     | 2.9         |
+| Russia       | 149.3      | 156.1     | 3.2         |
+| Malaysia     | 150.8      | 155.8     | 3.6         |
+| Bangladesh   | 144.8      | 155.7     | 2.9         |
+| Italy        | 154.8      | 155.6     | 3.4         |
+| Sri Lanka    | 144.4      | 155.4     | 3.1         |
+| Chile        | 150.5      | 155.3     | 3.1         |
+| Nepal        | 144.8      | 155       | 3           |
+| Spain        | 152.3      | 155       | 3.4         |
+| Lebanon      | 147.5      | 154.7     | 3.3         |
+| Canada       | 156.1      | 154.6     | 4.2         |
+| UK           | 157.4      | 154.1     | 4.3         |
+| Egypt        | 145        | 153.2     | 3.1         |
+| India        | 144        | 153.2     | 2.9         |
+| Pakistan     | 147.9      | 152.5     | 3.4         |
+| Indonesia    | 147        | 152.2     | 3.1         |
+| Brazil       | 150.3      | 152.2     | 3.1         |
+| Philippines  | 150.7      | 150.9     | 3.6         |
+| Ecuador      | 147.4      | 150.5     | 3.1         |
+| USA          | 152.8      | 150.2     | 3.8         |
+| Colombia     | 148.6      | 150.1     | 3           |
+| Mexico       | 148.9      | 149.5     | 3.1         |
+| Kenya        | 147.3      | 147.8     | 3.4         |
+| Ghana        | 146.1      | 147.4     | 3.2         |
+| Nigeria      | 146.4      | 146.9     | 3.1         |
+| Saudi Arabia | 137.5      | 141.6     | 2           |
 
 \* I suspect the poor English language skills of Iranian students is partly a function of the nation’s isolation the past two generations, but that’s speculation on my part.
 

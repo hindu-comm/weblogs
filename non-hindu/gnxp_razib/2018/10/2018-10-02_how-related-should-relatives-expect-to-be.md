@@ -19,7 +19,16 @@ The sample principle applies to siblings. Though they should be 50% related on t
 
 I didn’t find empirical data on that (imagine assembling a dataset with large numbers of *known*third cousins…perhaps in Iceland), but I did find this paper, [Variation in actual relationship as a consequence of Mendelian sampling and linkage](https://www.cambridge.org/core/journals/genetics-research/article/variation-in-actual-relationship-as-a-consequence-of-mendelian-sampling-and-linkage/12D801902473A0F212EF49489DF0D687)that was useful. The authors modeled the expectation and variance (and so standard deviation) of identity by descent, genomic relatedness. One of their models gives 3.84% standard deviation for siblings, so that seems pretty close to the empirical mark. Here is a table I put together from a subset of their results:
 
-|                           |                 |                  | |:--------------------------|:----------------|:-----------------| | **Relationship**          | **Relatedness** | **Standard Dev** | | Parent-child              | 0.5             | 0                | | Full sibling              | 0.5             | 0.0384           | | Grandparent-Grandchildren | 0.25            | 0.0251           | | Uncle-Aunt/Nephew-Niece   | 0.25            | 0.0251           | | Cousin                    | 0.125           | 0.0241           | | 2nd Cousin                | 0.0312          | 0.0117           | | 3rd Cousin                | 0·0078          | 0·0054           |
+|                           |                 |                  |
+|:--------------------------|:----------------|:-----------------|
+| **Relationship**          | **Relatedness** | **Standard Dev** |
+| Parent-child              | 0.5             | 0                |
+| Full sibling              | 0.5             | 0.0384           |
+| Grandparent-Grandchildren | 0.25            | 0.0251           |
+| Uncle-Aunt/Nephew-Niece   | 0.25            | 0.0251           |
+| Cousin                    | 0.125           | 0.0241           |
+| 2nd Cousin                | 0.0312          | 0.0117           |
+| 3rd Cousin                | 0·0078          | 0·0054           |
 
 The distribution of relatedness among siblings [seems about normal](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0020041). So there are individuals who are less than 40% related to their “full-sibling” while others are more than 60% related. Notice that when it comes to third cousins the variation in expected relatedness is in the same range as expected relatedness. Some “3rd cousins” won’t share any genomic relatedness as defined by identity by descent from recent ancestors.
 

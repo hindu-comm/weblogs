@@ -14,19 +14,45 @@ A few years ago a poll came out, [Religious Views and Beliefs Vary Greatly by Co
   
 “Thinking now about religion, would you say that you are a…?”
 
-|                                                                               |                    |             |            |            |              |                    | |-------------------------------------------------------------------------------|--------------------|-------------|------------|------------|--------------|--------------------| |                                                                               |  **Great Britain** |  **France** |  **Italy** |  **Spain** |  **Germany** |  **United States** | |                                                                               | %                  | %           | %          | %          | %            | %                  | | Believer in any form of God or any type of supreme being                      | 35                 | 27          | 62         | 48         | 41           | 73                 | | Agnostic (one who is sceptical about the existence of God but not an atheist) | 35                 | 32          | 20         | 30         | 25           | 14                 | | Atheist (one who denies the existence of God)                                 | 17                 | 32          | 7          | 11         | 20           | 4                  | | Would prefer not to say                                                       | 6                  | 6           | 8          | 8          | 10           | 6                  | | Not sure                                                                      | 7                  | 4           | 3          | 3          | 4            | 3                  |
+|                                                                               |                    |             |            |            |              |                    |
+|-------------------------------------------------------------------------------|--------------------|-------------|------------|------------|--------------|--------------------|
+|                                                                               |  **Great Britain** |  **France** |  **Italy** |  **Spain** |  **Germany** |  **United States** |
+|                                                                               | %                  | %           | %          | %          | %            | %                  |
+| Believer in any form of God or any type of supreme being                      | 35                 | 27          | 62         | 48         | 41           | 73                 |
+| Agnostic (one who is sceptical about the existence of God but not an atheist) | 35                 | 32          | 20         | 30         | 25           | 14                 |
+| Atheist (one who denies the existence of God)                                 | 17                 | 32          | 7          | 11         | 20           | 4                  |
+| Would prefer not to say                                                       | 6                  | 6           | 8          | 8          | 10           | 6                  |
+| Not sure                                                                      | 7                  | 4           | 3          | 3          | 4            | 3                  |
 
 “Do you feel that religion should be taught in state schools?”
 
-|          |                    |             |            |            |              |                    | |----------|--------------------|-------------|------------|------------|--------------|--------------------| |          |  **Great Britain** |  **France** |  **Italy** |  **Spain** |  **Germany** |  **United States** | |          | %                  | %           | %          | %          | %            | %                  | | Yes      | 56                 | 20          | 68         | 40         | 56           | 28                 | | No       | 29                 | 72          | 25         | 49         | 35           | 59                 | | Not Sure | 15                 | 8           | 7          | 11         | 9            | 13                 |
+|          |                    |             |            |            |              |                    |
+|----------|--------------------|-------------|------------|------------|--------------|--------------------|
+|          |  **Great Britain** |  **France** |  **Italy** |  **Spain** |  **Germany** |  **United States** |
+|          | %                  | %           | %          | %          | %            | %                  |
+| Yes      | 56                 | 20          | 68         | 40         | 56           | 28                 |
+| No       | 29                 | 72          | 25         | 49         | 35           | 59                 |
+| Not Sure | 15                 | 8           | 7          | 11         | 9            | 13                 |
 
 “Do you feel that children should be allowed to wear a religious sign or article of clothing at school which is representative of their beliefs (such as crucifixes, headscarves)?”
 
-|          |                    |             |            |            |              |                    | |----------|--------------------|-------------|------------|------------|--------------|--------------------| |          |  **Great Britain** |  **France** |  **Italy** |  **Spain** |  **Germany** |  **United States** | |          | %                  | %           | %          | %          | %            | %                  | | Yes      | 48                 | 10          | 61         | 44         | 40           | 77                 | | No       | 36                 | 83          | 29         | 43         | 51           | 14                 | | Not Sure | 15                 | 7           | 10         | 13         | 10           | 8                  |
+|          |                    |             |            |            |              |                    |
+|----------|--------------------|-------------|------------|------------|--------------|--------------------|
+|          |  **Great Britain** |  **France** |  **Italy** |  **Spain** |  **Germany** |  **United States** |
+|          | %                  | %           | %          | %          | %            | %                  |
+| Yes      | 48                 | 10          | 61         | 44         | 40           | 77                 |
+| No       | 36                 | 83          | 29         | 43         | 51           | 14                 |
+| Not Sure | 15                 | 7           | 10         | 13         | 10           | 8                  |
 
 “Do you feel that governments should legislate against religious blasphemy, such as depriving something of its sacred character (for example, burning a bible or the Koran)?”
 
-|          |                    |             |            |            |              |                        | |----------|--------------------|-------------|------------|------------|--------------|------------------------| |          |  **Great Britain** |  **France** |  **Italy** |  **Spain** |  **Germany** |  **United** **States** | |          | %                  | %           | %          | %          | %            | %                      | | Yes      | 37                 | 42          | 58         | 46         | 41           | 31                     | | No       | 41                 | 41          | 28         | 42         | 40           | 52                     | | Not sure | 22                 | 17          | 15         | 12         | 19           | 17                     |
+|          |                    |             |            |            |              |                        |
+|----------|--------------------|-------------|------------|------------|--------------|------------------------|
+|          |  **Great Britain** |  **France** |  **Italy** |  **Spain** |  **Germany** |  **United** **States** |
+|          | %                  | %           | %          | %          | %            | %                      |
+| Yes      | 37                 | 42          | 58         | 46         | 41           | 31                     |
+| No       | 41                 | 41          | 28         | 42         | 40           | 52                     |
+| Not sure | 22                 | 17          | 15         | 12         | 19           | 17                     |
 
 ### Related Posts:
 

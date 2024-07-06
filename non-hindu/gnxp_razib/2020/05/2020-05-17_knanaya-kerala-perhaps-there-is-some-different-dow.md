@@ -55,7 +55,29 @@ Now TreeMix:
 
 Here is an admixturegraph (using the Narasimhan et al. right-populations):
 
-|              |        |        |             | |--------------|--------|--------|-------------| | Test_Pop     | Steppe | AHG    | IndusValley | | Bengali      | 0.152  | 0.413  | 0.435       | | Cochin_Jews  | 0.212  | 0.188  | 0.6         | | K_Bunt       | 0.197  | 0.307  | 0.496       | | K_Ezhava     | 0.147  | 0.281  | 0.572       | | K_Iyer       | 0.271  | 0.164  | 0.565       | | K_Knanaya    | 0.149  | 0.186  | 0.665       | | K_Mapilla    | 0.141  | 0.293  | 0.565       | | K_Nair       | 0.172  | 0.244  | 0.584       | | K_Nambudiri  | 0.248  | 0.183  | 0.569       | | K_Nasrani    | 0.134  | 0.27   | 0.596       | | K_Poduval    | 0.2    | 0.276  | 0.524       | | K_Vaniya     | 0.215  | 0.139  | 0.646       | | K_Varma      | 0.213  | 0.116  | 0.67        | | Brahui       | 0.236  | -0.181 | 0.945       | | Mumbai_Jews  | 0.271  | -0.134 | 0.863       | | Patel        | 0.167  | 0.27   | 0.562       | | Pulliyar     | 0.05   | 0.575  | 0.375       | | TamilBrahmin | 0.191  | 0.262  | 0.547       | | UP_Brahmin   | 0.293  | 0.223  | 0.484       | | Velamas      | 0.101  | 0.298  | 0.601       |
+|              |        |        |             |
+|--------------|--------|--------|-------------|
+| Test_Pop     | Steppe | AHG    | IndusValley |
+| Bengali      | 0.152  | 0.413  | 0.435       |
+| Cochin_Jews  | 0.212  | 0.188  | 0.6         |
+| K_Bunt       | 0.197  | 0.307  | 0.496       |
+| K_Ezhava     | 0.147  | 0.281  | 0.572       |
+| K_Iyer       | 0.271  | 0.164  | 0.565       |
+| K_Knanaya    | 0.149  | 0.186  | 0.665       |
+| K_Mapilla    | 0.141  | 0.293  | 0.565       |
+| K_Nair       | 0.172  | 0.244  | 0.584       |
+| K_Nambudiri  | 0.248  | 0.183  | 0.569       |
+| K_Nasrani    | 0.134  | 0.27   | 0.596       |
+| K_Poduval    | 0.2    | 0.276  | 0.524       |
+| K_Vaniya     | 0.215  | 0.139  | 0.646       |
+| K_Varma      | 0.213  | 0.116  | 0.67        |
+| Brahui       | 0.236  | -0.181 | 0.945       |
+| Mumbai_Jews  | 0.271  | -0.134 | 0.863       |
+| Patel        | 0.167  | 0.27   | 0.562       |
+| Pulliyar     | 0.05   | 0.575  | 0.375       |
+| TamilBrahmin | 0.191  | 0.262  | 0.547       |
+| UP_Brahmin   | 0.293  | 0.223  | 0.484       |
+| Velamas      | 0.101  | 0.298  | 0.601       |
 
 I ran f3-stat. [Here it is](https://www.dropbox.com/s/h2xagkh7lliqrow/f3.knan.csv?dl=0) filtered of any z-scores that are \> -2.
 

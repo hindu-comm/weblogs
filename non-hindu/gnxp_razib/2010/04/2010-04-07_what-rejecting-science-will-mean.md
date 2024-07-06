@@ -13,7 +13,26 @@ I am reading that a [scholar](http://www.jrdkirk.com/?p=500) affiliated with an 
 
 Obviously I don’t have relevant opinions about whether evangelicals should, or should not, accept evolution from the perspective of an evangelical Christian. But, we can look at the type of person who accepts and rejections evolution in American society. The [General Social Survey](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss08) has a vocabulary test which it gives to people, and the scores range from 0 out of 10 correct, to 10 out of 10 correct. Over the history of the GSS a little under 25% of the survey respondents scored on the interval 0 to 4. 13% scored on the interval 9 to 10. Let’s label the first “Not Smart” and the second “Smart.” Below are the proportion who accept evolution for the various GSS variables which speak to this issue (I’ve given the GSS labels, you can look up the specific question at the [GSS browser](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss08) under “selected” at the top left).
 
-|                             |              |         |     |     | |-----------------------------|--------------|---------|-----|-----| |                            |              |         |     |     | |                            | *Not Smart*  | *Smart* |    |     | |                            | **EVOLVED**  |        |     |     | | True                        | 45           | 73      |     |     | |                            |             |        |     |     | |                            | **SCITEST4** |        |     |     | | Definitely True             | 10           | 34      |     |     | | Probably True               | 32           | 32      |     |     | |                            |             |        |     |     | |                            | **SCITESTY** |        |     |     | | Definitely True             | 11           | 31      |     |     | | Probably True               | 31           | 35      |     |     | |                            |             |        |     |     | |                            | **CREATION** |        |     |     | | God Created Man             | 41           | 25      |     |     | | Man Has Evolved, God Guided | 42           | 48      |     |     | | Man Has Evolved             | 12           | 22      |     |     | |                            |              |         |     |     |
+|                             |              |         |     |     |
+|-----------------------------|--------------|---------|-----|-----|
+|                            |              |         |     |     |
+|                            | *Not Smart*  | *Smart* |    |     |
+|                            | **EVOLVED**  |        |     |     |
+| True                        | 45           | 73      |     |     |
+|                            |             |        |     |     |
+|                            | **SCITEST4** |        |     |     |
+| Definitely True             | 10           | 34      |     |     |
+| Probably True               | 32           | 32      |     |     |
+|                            |             |        |     |     |
+|                            | **SCITESTY** |        |     |     |
+| Definitely True             | 11           | 31      |     |     |
+| Probably True               | 31           | 35      |     |     |
+|                            |             |        |     |     |
+|                            | **CREATION** |        |     |     |
+| God Created Man             | 41           | 25      |     |     |
+| Man Has Evolved, God Guided | 42           | 48      |     |     |
+| Man Has Evolved             | 12           | 22      |     |     |
+|                            |              |         |     |     |
 
 I don’t know if rejecting scientific consensus will turn evangelical Christianity into a cult, but it will drive a particular self-selection….
 

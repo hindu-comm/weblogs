@@ -70,7 +70,14 @@ So that’s a snapshot of the type of information available in the NREL Redbook.
 
 I copy below a table that appeared in an [earlier post](https://dothemath.ucsd.edu/2011/12/wind-fights-solar/ "Wind Fights Solar; Triangle Wins"). The table represents the best location in the NREL database (Dagget, near Barstow, CA), St. Louis as a typical place, the worst place in the continental U.S. (on the Olympic Peninsula), and a few extras for flavor. For each location, three modes are considered: flat panel tilted at latitude (typical situation); flat panel with 2-axis tracking of the Sun; and concentration employing 2-axis tracking. For each mode and location, three daily-average numbers are given: worst average month—**yearly average**—best average month.
 
-|                |                 |                  |                 | |----------------|-----------------|------------------|-----------------| | Location       | Fixed Tilt      | 2-axis Tracking  | Concentration   | | Dagget, CA     | 5.2—**6.6**—7.4 | 6.8—**9.4**—12.0 | 5.4—**7.5**—9.7 | | St. Louis, MO  | 3.1—**4.8**—5.9 | 3.7—**6.3**—8.5  | 2.4—**4.1**—5.5 | | Quillayute, WA | 1.5—**3.4**—4.8 | 1.7—**4.4**—6.8  | 1.0—**2.6**—4.0 | | San Diego, CA  | 4.6—**5.7**—6.5 | 5.9—**7.4**—8.9  | 4.5—**5.3**—6.3 | | Fairbanks, AK  | 0.3—**3.3**—5.6 | 0.3—**4.7**—8.7  | 0.3—**2.9**—5.3 |
+|                |                 |                  |                 |
+|----------------|-----------------|------------------|-----------------|
+| Location       | Fixed Tilt      | 2-axis Tracking  | Concentration   |
+| Dagget, CA     | 5.2—**6.6**—7.4 | 6.8—**9.4**—12.0 | 5.4—**7.5**—9.7 |
+| St. Louis, MO  | 3.1—**4.8**—5.9 | 3.7—**6.3**—8.5  | 2.4—**4.1**—5.5 |
+| Quillayute, WA | 1.5—**3.4**—4.8 | 1.7—**4.4**—6.8  | 1.0—**2.6**—4.0 |
+| San Diego, CA  | 4.6—**5.7**—6.5 | 5.9—**7.4**—8.9  | 4.5—**5.3**—6.3 |
+| Fairbanks, AK  | 0.3—**3.3**—5.6 | 0.3—**4.7**—8.7  | 0.3—**2.9**—5.3 |
 
 The thing that’s always impressed me most about the NREL dataset is the fact that the **worst** location in the continental U.S. is only a factor of **two** worse than the **best** solar location. Intuitively, I would expect the Mojave Desert to outperform the Olympic Peninsula rain forest by leaps and bounds. But a meager factor of two! Even Fairbanks, Alaska performs well on the yearly average metric.
 

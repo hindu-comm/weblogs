@@ -11,12 +11,33 @@ Jhumpa Lahiri as cultural commentary; quality vs. quantity
 
 *TNR* has a new piece titled [The Assimilation Artist](http://www.tnr.com/politics/story.html?id=b458594b-ac96-4572-8b8b-bedcd27bbf5e), which has the subheading “Jhumpa Lahiri’s books are more about the coastal elite experience than they are about the Indian-American one.” Well, that’s because **the Indian American experience is in large part the coastal elite experience.** Here are the [numbers](https://religions.pewforum.org/pdf/table-education-by-tradition.pdf) from the Pew [U.S. Religious Landscape Survey](https://religions.pewforum.org/reports/detailed_tables) for levels of education of Hindus and the general population:
 
-|                      |                           |                      |                  |                      |                   |          | |----------------------|---------------------------|----------------------|------------------|----------------------|-------------------|----------| |                     | **Less than High School** | **High School Grad** | **Some College** | **College Graduate** | **Post-graduate** | ***N***  | | **Total Population** | 14                        | 36                   | 23               | 16                   | 11                | *35,298* | | **Hindu**            | 4                         | 12                   | 10               | 26                   | 48                | *253*    |
+|                      |                           |                      |                  |                      |                   |          |
+|----------------------|---------------------------|----------------------|------------------|----------------------|-------------------|----------|
+|                     | **Less than High School** | **High School Grad** | **Some College** | **College Graduate** | **Post-graduate** | ***N***  |
+| **Total Population** | 14                        | 36                   | 23               | 16                   | 11                | *35,298* |
+| **Hindu**            | 4                         | 12                   | 10               | 26                   | 48                | *253*    |
 
   
 Obviously not all Indian Americans are Hindu, but they are a good proxy for the general trends. Below are the outmarriage rates for Indian Americans who were born or predominantly raised in the United States:
 
-|                          |                                       |     |     | |--------------------------|---------------------------------------|-----|-----| |                         | ***US born/raised X US born/raised*** |     |     | | **Asian Indians**        |                                       |     |     | | ***Men***                |                                      |     |     | | Asian Indian             | 56.7                                  |     |     | | Other Asian              | 2.8                                   |     |     | | White                    | 31.3                                  |     |     | | Black                    | 0.8                                   |     |     | | Hispanic/Latino          | 5.8                                   |     |     | | Multiracial & All Others | 2.7                                   |     |     | | ***Women***              |                                      |     |     | | Asian Indian             | 54.2                                  |     |     | | Other Asian              | 2.0                                   |     |     | | White                    | 36.3                                  |     |     | | Black                    | 2.8                                   |     |     | | Hispanic/Latino          | 2.7                                   |     |     | | Multiracial & All Others | 1.9                                   |     |     |
+|                          |                                       |     |     |
+|--------------------------|---------------------------------------|-----|-----|
+|                         | ***US born/raised X US born/raised*** |     |     |
+| **Asian Indians**        |                                       |     |     |
+| ***Men***                |                                      |     |     |
+| Asian Indian             | 56.7                                  |     |     |
+| Other Asian              | 2.8                                   |     |     |
+| White                    | 31.3                                  |     |     |
+| Black                    | 0.8                                   |     |     |
+| Hispanic/Latino          | 5.8                                   |     |     |
+| Multiracial & All Others | 2.7                                   |     |     |
+| ***Women***              |                                      |     |     |
+| Asian Indian             | 54.2                                  |     |     |
+| Other Asian              | 2.0                                   |     |     |
+| White                    | 36.3                                  |     |     |
+| Black                    | 2.8                                   |     |     |
+| Hispanic/Latino          | 2.7                                   |     |     |
+| Multiracial & All Others | 1.9                                   |     |     |
 
 From the *TNR* piece:
 

@@ -17,7 +17,38 @@ I look at nations which had large Catholic and non-Catholic populations. Not jus
 
 As you can see, most of the variation is **between** nations, not within them. In many cases Protestants are more pro-life than Catholics. In nations such as Chile most Protestants are relatively conservative evangelicals, disproportionately from the lower socioeconomic strata. In the Netherlands I suspect it has to do with the [conservative Protestant Bible Belt](https://en.wikipedia.org/wiki/Bible_Belt_(Netherlands)), while most liberal Dutch Reformed have simply become “Nones.”
 
-|                      |                         |              | |:---------------------|------------------------:|-------------:| |                      | **Protestant/Orthodox** | **Catholic** | | **Great Britan**     |                    14.5 |         38.5 | | **Netherlands**      |                    29.9 |         19.8 | | **USA**              |                    23.7 |         27.8 | | **Canada**           |                    33.3 |         28.9 | | **Australia**        |                      21 |         27.6 | | **Brazil**           |                    75.2 |         65.1 | | **Chile**            |                    73.5 |         61.2 | | **Ghana**            |                    65.3 |           63 | | **Colombia**         |                    87.6 |         72.6 | | **Trinidad**         |                    68.2 |         60.8 | | **Germany**          |                      18 |         17.5 | | **Albania**          |                    12.7 |         25.7 | | **Bosnia**           |                    32.9 |         43.1 | | **Chile**            |                    84.8 |         69.3 | | **Czech Republic**   |                    17.8 |         19.6 | | **South Korea**      |                    41.6 |         40.6 | | **Latvia**           |                    25.2 |         30.6 | | **Netherlands**      |                    23.5 |         18.2 | | **Nigeria**          |                    70.2 |         59.1 | | **Puerto Rico**      |                    84.3 |           77 | | **South Africa**     |                    64.2 |         61.3 | | **Zimbabwe**         |                    92.4 |         88.9 | | **Switzerland**      |                    22.1 |         21.9 | | **Uganda**           |                    76.9 |         74.2 | | **Great Britan**     |                    25.2 |         32.7 | | **Tanzania**         |                    87.2 |         91.5 | | **USA**              |                      35 |         38.2 | | **Venezuela**        |                      81 |           70 | | **Northern Ireland** |                    40.3 |         62.6 |
+|                      |                         |              |
+|:---------------------|------------------------:|-------------:|
+|                      | **Protestant/Orthodox** | **Catholic** |
+| **Great Britan**     |                    14.5 |         38.5 |
+| **Netherlands**      |                    29.9 |         19.8 |
+| **USA**              |                    23.7 |         27.8 |
+| **Canada**           |                    33.3 |         28.9 |
+| **Australia**        |                      21 |         27.6 |
+| **Brazil**           |                    75.2 |         65.1 |
+| **Chile**            |                    73.5 |         61.2 |
+| **Ghana**            |                    65.3 |           63 |
+| **Colombia**         |                    87.6 |         72.6 |
+| **Trinidad**         |                    68.2 |         60.8 |
+| **Germany**          |                      18 |         17.5 |
+| **Albania**          |                    12.7 |         25.7 |
+| **Bosnia**           |                    32.9 |         43.1 |
+| **Chile**            |                    84.8 |         69.3 |
+| **Czech Republic**   |                    17.8 |         19.6 |
+| **South Korea**      |                    41.6 |         40.6 |
+| **Latvia**           |                    25.2 |         30.6 |
+| **Netherlands**      |                    23.5 |         18.2 |
+| **Nigeria**          |                    70.2 |         59.1 |
+| **Puerto Rico**      |                    84.3 |           77 |
+| **South Africa**     |                    64.2 |         61.3 |
+| **Zimbabwe**         |                    92.4 |         88.9 |
+| **Switzerland**      |                    22.1 |         21.9 |
+| **Uganda**           |                    76.9 |         74.2 |
+| **Great Britan**     |                    25.2 |         32.7 |
+| **Tanzania**         |                    87.2 |         91.5 |
+| **USA**              |                      35 |         38.2 |
+| **Venezuela**        |                      81 |           70 |
+| **Northern Ireland** |                    40.3 |         62.6 |
 
 ### Related Posts:
 

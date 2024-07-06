@@ -40,7 +40,45 @@ earliest RV to the Ṛgvidhāna which clings to the very edge of the late Vedic 
 
 Table 1. The occurrence of Viṣṇu in Vedic texts
 
-| Text                               | Veda |   # | |:-----------------------------------|:-----|----:| | Ṛgveda                             | RV   | 113 | | Ṛgveda-khilāni                     | RV   |  15 | | Kauṣītaki-brāhmaṇa                 | RV   |  14 | | Aitareya-Brahmana                  | RV   |  24 | | Āśvalāyana-śrautasūtra             | RV   |  39 | | Śāṅkhāyana-śrautasūtra             | RV   |  48 | | Āśvalāyana-gṛhyasūtra              | RV   |   1 | | Śāṅkhāyana-gṛhyasūtra              | RV   |  10 | | Ṛgvidhāna                          | RV   |  14 | | Atharvaveda (vulgate)              | AV   |  69 | | Atharvaveda (Paippalāda)           | AV   |  71 | | Gopatha-brāhmaṇa                   | AV   |  22 | | Vaitāna-sūtra                      | AV   |  14 | | Kauśika-sūtra                      | AV   |  11 | | Maitrāyaṇī-saṃhitā                 | KYV  | 233 | | Kāṭha-Saṃhitā                      | KYV  | 197 | | Taittirīya-Saṃhitā                 | KYV  | 175 | | Taittirīya-Brāhmaṇa                | KYV  |  79 | | Baudhāyana-Śrautasūtra             | KYV  | 165 | | Āpastamba-Śrautasūtra              | KYV  | 101 | | Hiraṇyakeśi/Satyāṣāḍha-Śrautasūtra | KYV  |  88 | | Mānava-Śrautasūtra                 | YYV  |  84 | | Vārāha-gṛhyasūtra                  | KYV  |   5 | | Mānava-gṛhyasūtra                  | KYV  |   7 | | Vaikhānasa-gṛhyasūtra              | KYV  |  23 | | Hiraṇyakeśi-gṛhyasūtra             | KYV  |   7 | | Laugākṣī-gṛhyasūtra                | KYV  |   2 | | Vājasaneyi-Saṃhitā (Mādhyandina)   | SYV  |  76 | | Śatapatha-Brāhmaṇa (Mādhyandina)   | SYV  | 223 | | Kāṭyāyana-Śrautasūtra              | SYV  |  40 | | Pāraskara-Gṛhyasūtra               | SYV  |  12 | | Sāmaveda Kauthuma-saṃhitā          | SV   |  22 | | Pañcaviṃśa-brāhmaṇa                | SV   |  28 | | Mantra-brāhmaṇa                    | SV   |  18 | | Khādira-gṛhyasūtra                 | SV   |   4 | | Jaimini-gṛhyasūtra                 | SV   |  12 | | Kauthuma-gṛhyasūtra                | SV   |   4 |
+| Text                               | Veda |   # |
+|:-----------------------------------|:-----|----:|
+| Ṛgveda                             | RV   | 113 |
+| Ṛgveda-khilāni                     | RV   |  15 |
+| Kauṣītaki-brāhmaṇa                 | RV   |  14 |
+| Aitareya-Brahmana                  | RV   |  24 |
+| Āśvalāyana-śrautasūtra             | RV   |  39 |
+| Śāṅkhāyana-śrautasūtra             | RV   |  48 |
+| Āśvalāyana-gṛhyasūtra              | RV   |   1 |
+| Śāṅkhāyana-gṛhyasūtra              | RV   |  10 |
+| Ṛgvidhāna                          | RV   |  14 |
+| Atharvaveda (vulgate)              | AV   |  69 |
+| Atharvaveda (Paippalāda)           | AV   |  71 |
+| Gopatha-brāhmaṇa                   | AV   |  22 |
+| Vaitāna-sūtra                      | AV   |  14 |
+| Kauśika-sūtra                      | AV   |  11 |
+| Maitrāyaṇī-saṃhitā                 | KYV  | 233 |
+| Kāṭha-Saṃhitā                      | KYV  | 197 |
+| Taittirīya-Saṃhitā                 | KYV  | 175 |
+| Taittirīya-Brāhmaṇa                | KYV  |  79 |
+| Baudhāyana-Śrautasūtra             | KYV  | 165 |
+| Āpastamba-Śrautasūtra              | KYV  | 101 |
+| Hiraṇyakeśi/Satyāṣāḍha-Śrautasūtra | KYV  |  88 |
+| Mānava-Śrautasūtra                 | YYV  |  84 |
+| Vārāha-gṛhyasūtra                  | KYV  |   5 |
+| Mānava-gṛhyasūtra                  | KYV  |   7 |
+| Vaikhānasa-gṛhyasūtra              | KYV  |  23 |
+| Hiraṇyakeśi-gṛhyasūtra             | KYV  |   7 |
+| Laugākṣī-gṛhyasūtra                | KYV  |   2 |
+| Vājasaneyi-Saṃhitā (Mādhyandina)   | SYV  |  76 |
+| Śatapatha-Brāhmaṇa (Mādhyandina)   | SYV  | 223 |
+| Kāṭyāyana-Śrautasūtra              | SYV  |  40 |
+| Pāraskara-Gṛhyasūtra               | SYV  |  12 |
+| Sāmaveda Kauthuma-saṃhitā          | SV   |  22 |
+| Pañcaviṃśa-brāhmaṇa                | SV   |  28 |
+| Mantra-brāhmaṇa                    | SV   |  18 |
+| Khādira-gṛhyasūtra                 | SV   |   4 |
+| Jaimini-gṛhyasūtra                 | SV   |  12 |
+| Kauthuma-gṛhyasūtra                | SV   |   4 |
 
 First, let us get some caveats regarding this table out of the way. These texts are of very different sizes; thus, someone could claim that the counts could simply reflect the size differences. Hence, one would wish to normalize it by text size. But what unit do you use for normalization? The word would be the ideal unit but it is difficult to obtain for all these texts because of samasta-pada-s typical of Sanskrit not being separated in each case. An alternative is the size of the file in bits. However, this depends on the encoding/format used and we do not have all the texts in a common encoding/format. Next, we have ascii or utf-8/16 encoding files for many of them but not all. The rest were counted using the html files on the TITUS system. We cannot be sure of the completeness of all the texts in TITUS. This said, we can still use the absolute counts reasonable well by comparing “apples with apples”. The Saṃhitā-s may be approximately seen to be of the same order of magnitude. The Brāhmaṇa can be again approximately compared, and the equivalent classes of kalpa texts can be similarly compared.
 

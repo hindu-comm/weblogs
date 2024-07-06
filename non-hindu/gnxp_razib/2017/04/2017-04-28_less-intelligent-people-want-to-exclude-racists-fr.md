@@ -9,7 +9,19 @@ Source: [here](https://www.gnxp.com/WordPress/2017/04/28/less-intelligent-people
 
 Less intelligent people want to exclude racists from the public square
 
-|                    |            |             |                   | |--------------------|------------|-------------|-------------------| | ***Coefficients*** |            |             | ******           | | ******            | ***B***    | ***SE(B)*** | ***Probability*** | | **SEX**            | **0.739**  | **0.217**   | **0.001**         | | **DEGREE**         | **-0.302** | **0.092**   | **0.001**         | | **WORDSUM**        | **-0.338** | **0.068**   | **0**             | | POLVIEWS           | -0.078     | 0.078       | 0.317             | | INCOME             | -0.026     | 0.06        | 0.671             | | AGE                | 0.007      | 0.007       | 0.283             | | **ATTEND**         | **0.09**   | **0.046**   | **0.05**          | | GOD                | -0.018     | 0.077       | 0.819             | | Constant           | 3.341      | 0.937       | 0                 |
+|                    |            |             |                   |
+|--------------------|------------|-------------|-------------------|
+| ***Coefficients*** |            |             | ******           |
+| ******            | ***B***    | ***SE(B)*** | ***Probability*** |
+| **SEX**            | **0.739**  | **0.217**   | **0.001**         |
+| **DEGREE**         | **-0.302** | **0.092**   | **0.001**         |
+| **WORDSUM**        | **-0.338** | **0.068**   | **0**             |
+| POLVIEWS           | -0.078     | 0.078       | 0.317             |
+| INCOME             | -0.026     | 0.06        | 0.671             |
+| AGE                | 0.007      | 0.007       | 0.283             |
+| **ATTEND**         | **0.09**   | **0.046**   | **0.05**          |
+| GOD                | -0.018     | 0.077       | 0.819             |
+| Constant           | 3.341      | 0.937       | 0                 |
 
 ![](https://i0.wp.com/gnxp.com/WordPress/wp-content/uploads/2017/04/41mS3TGKdXL._SX280_BO1204203200_.jpg?resize=282%2C498)![](https://i0.wp.com/gnxp.com/WordPress/wp-content/uploads/2017/04/41mS3TGKdXL._SX280_BO1204203200_.jpg?resize=282%2C498)It’s been a while since I’ve done much [GSS](http://sda.berkeley.edu/sdaweb/analysis/?dataset=gss14) blogging. Part of it is that I’ve got only so much attention I can devote to things, and most of my focus has been on the area of science that I’m interested in, and one or two non-scientific topics. The second variable is that I started blogging about GSS data a long time ago (\~2008), and there’s only so much interesting stuff you can talk about.
 
@@ -25,31 +37,61 @@ The question was asked in 2010 and 2014, and 2,651 individuals answered this. Th
 
 The above results suggest that political ideology does not predict your response to this question much once you account for other variables. In fact, I did a query on ideological views first, and the results indicated to me what was really going on.
 
-|                                     |           |      |               |              |                  |          |               | |-------------------------------------|-----------|------|---------------|--------------|------------------|----------|---------------| |                                    | EXT. LIB. | LIB. | SLIGHTLY LIB. | **MODERATE** | SLGHTLY CONSERV. | CONSERV. | EXT. CONSERV. | | 1: Should definitely be allowed     | 39        | 24   | 17            | **15**       | 22               | 17       | 20            | | 2: Should probably be allowed       | 12        | 24   | 24            | **21**       | 22               | 22       | 15            | | 3: Should probably not be allowed   | 26        | 20   | 19            | **22**       | 19               | 24       | 22            | | 4: Should definitely not be allowed | 23        | 32   | 40            | **43**       | 37               | 38       | 43            |
+|                                     |           |      |               |              |                  |          |               |
+|-------------------------------------|-----------|------|---------------|--------------|------------------|----------|---------------|
+|                                    | EXT. LIB. | LIB. | SLIGHTLY LIB. | **MODERATE** | SLGHTLY CONSERV. | CONSERV. | EXT. CONSERV. |
+| 1: Should definitely be allowed     | 39        | 24   | 17            | **15**       | 22               | 17       | 20            |
+| 2: Should probably be allowed       | 12        | 24   | 24            | **21**       | 22               | 22       | 15            |
+| 3: Should probably not be allowed   | 26        | 20   | 19            | **22**       | 19               | 24       | 22            |
+| 4: Should definitely not be allowed | 23        | 32   | 40            | **43**       | 37               | 38       | 43            |
 
 As you can see **moderates are relatively skeptical of allowing racists to have a public meeting.** All of my analysis of the GSS indicates that [moderates are not as smart as more liberal or conservative](http://blogs.discovermagazine.com/gnxp/2012/10/political-moderates-and-independents-are-not-as-smart-on-average/) people.
 
 Let’s go through the variables which were significant predictors above. First, sex.
 
-|                                     |      |        | |-------------------------------------|------|--------| |                                     | Male | Female | | 1: Should definitely be allowed     | 21   | 13     | | 2: Should probably be allowed       | 22   | 21     | | 3: Should probably not be allowed   | 20   | 23     | | 4: Should definitely not be allowed | 36   | 43     |
+|                                     |      |        |
+|-------------------------------------|------|--------|
+|                                     | Male | Female |
+| 1: Should definitely be allowed     | 21   | 13     |
+| 2: Should probably be allowed       | 22   | 21     |
+| 3: Should probably not be allowed   | 20   | 23     |
+| 4: Should definitely not be allowed | 36   | 43     |
 
 These results were expected. On the whole women tend to be more skeptical of absolutist free speech positions which allow offensive material to be promoted (women are more skeptical of allowing Communists to speak too in comparison to men, so it’s not because of the ideology of the speaker or viewpoint).
 
 Then church attendance frequency:
 
-|                                     |                      |     |     |     |     |                       |     |     |     | |-------------------------------------|----------------------|-----|-----|-----|-----|-----------------------|-----|-----|-----| |                                     | Never attends church |     |     |     |     | More than once a week |     |     |     | | 1: Should definitely be allowed     | 20                   | 23  | 19  | 14  | 21  | 15                    | 13  | 14  | 13  | | 2: Should probably be allowed       | 21                   | 21  | 27  | 24  | 13  | 16                    | 26  | 22  | 20  | | 3: Should probably not be allowed   | 21                   | 17  | 20  | 18  | 28  | 24                    | 18  | 24  | 23  | | 4: Should definitely not be allowed | 37                   | 39  | 34  | 44  | 37  | 45                    | 43  | 40  | 44  |
+|                                     |                      |     |     |     |     |                       |     |     |     |
+|-------------------------------------|----------------------|-----|-----|-----|-----|-----------------------|-----|-----|-----|
+|                                     | Never attends church |     |     |     |     | More than once a week |     |     |     |
+| 1: Should definitely be allowed     | 20                   | 23  | 19  | 14  | 21  | 15                    | 13  | 14  | 13  |
+| 2: Should probably be allowed       | 21                   | 21  | 27  | 24  | 13  | 16                    | 26  | 22  | 20  |
+| 3: Should probably not be allowed   | 21                   | 17  | 20  | 18  | 28  | 24                    | 18  | 24  | 23  |
+| 4: Should definitely not be allowed | 37                   | 39  | 34  | 44  | 37  | 45                    | 43  | 40  | 44  |
 
 A modest difference.
 
 Next, highest educational attainment:
 
-|                                     |       |     |              |         |          | |-------------------------------------|-------|-----|--------------|---------|----------| |                                     | No HS | HS  | Some college | College | Graduate | | 1: Should definitely be allowed     | 7     | 14  | 11           | 26      | 32       | | 2: Should probably be allowed       | 14    | 20  | 23           | 29      | 27       | | 3: Should probably not be allowed   | 20    | 23  | 21           | 19      | 20       | | 4: Should definitely not be allowed | 59    | 43  | 45           | 26      | 21       |
+|                                     |       |     |              |         |          |
+|-------------------------------------|-------|-----|--------------|---------|----------|
+|                                     | No HS | HS  | Some college | College | Graduate |
+| 1: Should definitely be allowed     | 7     | 14  | 11           | 26      | 32       |
+| 2: Should probably be allowed       | 14    | 20  | 23           | 29      | 27       |
+| 3: Should probably not be allowed   | 20    | 23  | 21           | 19      | 20       |
+| 4: Should definitely not be allowed | 59    | 43  | 45           | 26      | 21       |
 
 The big gap here is between those with college and those without college educations.
 
 Finally, we look at WORDSUM, [which is a proxy for intelligence](http://blogs.discovermagazine.com/gnxp/2010/05/wordsum-iq/#.WQQqW1PyvBI). It’s a tenword vocabulary test. Below in the columns are the number of answers a respondent got correct:
 
-|                                     |     |     |     |     |     |     |     | |-------------------------------------|-----|-----|-----|-----|-----|-----|-----| |                                     | \<5 | 5   | 6   | 7   | 8   | 9   | 10  | | 1: Should definitely be allowed     | 8   | 10  | 12  | 16  | 24  | 30  | 36  | | 2: Should probably be allowed       | 13  | 22  | 18  | 24  | 26  | 34  | 33  | | 3: Should probably not be allowed   | 27  | 20  | 23  | 22  | 21  | 18  | 18  | | 4: Should definitely not be allowed | 52  | 48  | 47  | 38  | 29  | 18  | 12  |
+|                                     |     |     |     |     |     |     |     |
+|-------------------------------------|-----|-----|-----|-----|-----|-----|-----|
+|                                     | \<5 | 5   | 6   | 7   | 8   | 9   | 10  |
+| 1: Should definitely be allowed     | 8   | 10  | 12  | 16  | 24  | 30  | 36  |
+| 2: Should probably be allowed       | 13  | 22  | 18  | 24  | 26  | 34  | 33  |
+| 3: Should probably not be allowed   | 27  | 20  | 23  | 22  | 21  | 18  | 18  |
+| 4: Should definitely not be allowed | 52  | 48  | 47  | 38  | 29  | 18  | 12  |
 
 I combined those who scored below 5 out of 10 (0-4) into one class. **You can see that as score on this vocabulary test goes up, the viewthat racists should be allowed to meet in public goes up**. It’s almost monotonic. The smartest people are more tolerant than the next smartest people who are more tolerant than the next smartest people, with the dumb being the least tolerant.
 

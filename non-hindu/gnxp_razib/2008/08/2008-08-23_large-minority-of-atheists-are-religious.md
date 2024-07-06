@@ -11,7 +11,23 @@ Large minority of atheists are religious
 
 Just noticed something weird. Seems like around 20% of atheists in the United States self-identify as a member of a religion. By atheist, I mean someone who states that they “Do not believe in God.” 19% of Buddhists are atheists. 10% of Jews. 5% of Muslims and Hindus. 9% of “Other Faiths.” And of course, 22% of the Unaffiliated (those without a religious identification). To get to my 20% number I just went to the Pew [US Religious Landscape Survey](https://religions.pewforum.org/), checked belief in God by religion and cross-referenced with the proportion within the sample of each religion. I think it’s a rather peculiar situation that the same proportion of atheists are religious as non-religious are atheists! Chart and data below the fold….
 
-|                        |               |                     |                                 | |------------------------|:--------------|:--------------------|:--------------------------------| |                       | **% atheist** | **% in population** | **% atheist X % in population** | | **Evangelical**        | 0             | 26.3                | 0.0                             | | **Mainline**           | 1             | 18.1                | 18.1                            | | **Historically Black** | 0             | 6.9                 | 0.0                             | | **Catholic**           | 1             | 23.9                | 23.9                            | | **Mormon**             | 0             | 1.7                 | 0.0                             | | **Orthodox**           | 4             | 0.7                 | 2.8                             | | **Jehovah’s Witness**  | 0             | 0.6                 | 0.0                             | | **Other Christian**    | 1             | 0.3                 | 0.3                             | | **Jew**                | 10            | 1.7                 | 17                              | | **Muslim**             | 5             | 0.7                 | 3.5                             | | **Buddhism**           | 19            | 0.6                 | 11.4                            | | **Hindu**              | 5             | 0.4                 | 2                               | | **Other Faith**        | 9             | 1.2                 | 10.8                            | | **Unaffiliated**       | 22            | 16.1                | 354.2                           |
+|                        |               |                     |                                 |
+|------------------------|:--------------|:--------------------|:--------------------------------|
+|                       | **% atheist** | **% in population** | **% atheist X % in population** |
+| **Evangelical**        | 0             | 26.3                | 0.0                             |
+| **Mainline**           | 1             | 18.1                | 18.1                            |
+| **Historically Black** | 0             | 6.9                 | 0.0                             |
+| **Catholic**           | 1             | 23.9                | 23.9                            |
+| **Mormon**             | 0             | 1.7                 | 0.0                             |
+| **Orthodox**           | 4             | 0.7                 | 2.8                             |
+| **Jehovah’s Witness**  | 0             | 0.6                 | 0.0                             |
+| **Other Christian**    | 1             | 0.3                 | 0.3                             |
+| **Jew**                | 10            | 1.7                 | 17                              |
+| **Muslim**             | 5             | 0.7                 | 3.5                             |
+| **Buddhism**           | 19            | 0.6                 | 11.4                            |
+| **Hindu**              | 5             | 0.4                 | 2                               |
+| **Other Faith**        | 9             | 1.2                 | 10.8                            |
+| **Unaffiliated**       | 22            | 16.1                | 354.2                           |
 
 [](https://www.gnxp.com/blog/uploaded_images/religiousatheists-737876.jpg)
 

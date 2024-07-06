@@ -9,7 +9,20 @@ Source: [here](https://www.gnxp.com/WordPress/2018/10/06/likely-male-mediated-in
 
 Likely male-mediated Indianization in Southeast Asia
 
-|                                                                       |     |     |       |          |     | |:----------------------------------------------------------------------|:----|:----|:------|:---------|:----| | **Pop**                                                               |    |    | **N** | **R1a1** |     | | *Cambodian*                                                           |    |    | 125   | 7%       |     | | *Balinese*                                                            |    |    | 551   | 2%       |     | | *Southern Han*                                                        |    |    | 166   | 0%       |     | | *Northern Han*                                                        |    |    | 65    | 0%       |     | | *Miao*                                                                |    |    | 25    | 0%       |     | | *Hui*                                                                 |    |    | 25    | 17%      |     | | *Sala*                                                                |    |    | 43    | 21%      |     | | *Bo’an*                                                               |    |    | 44    | 25%      |     | | *Dongxiang*                                                           |    |    | 47    | 32%      |     | |                                                                       |     |     |       |          |     | | Black, Michael L., et al. “Genetic ancestries in northwest Cambodia.” |     |     |       |          |     |
+|                                                                       |     |     |       |          |     |
+|:----------------------------------------------------------------------|:----|:----|:------|:---------|:----|
+| **Pop**                                                               |    |    | **N** | **R1a1** |     |
+| *Cambodian*                                                           |    |    | 125   | 7%       |     |
+| *Balinese*                                                            |    |    | 551   | 2%       |     |
+| *Southern Han*                                                        |    |    | 166   | 0%       |     |
+| *Northern Han*                                                        |    |    | 65    | 0%       |     |
+| *Miao*                                                                |    |    | 25    | 0%       |     |
+| *Hui*                                                                 |    |    | 25    | 17%      |     |
+| *Sala*                                                                |    |    | 43    | 21%      |     |
+| *Bo’an*                                                               |    |    | 44    | 25%      |     |
+| *Dongxiang*                                                           |    |    | 47    | 32%      |     |
+|                                                                       |     |     |       |          |     |
+| Black, Michael L., et al. “Genetic ancestries in northwest Cambodia.” |     |     |       |          |     |
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/03/strange_parallel.jpeg?resize=183%2C275&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/03/strange_parallel.jpeg?resize=183%2C275&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/0521804965/geneexpressio-20/ref=as_at/?imprToken=DzT2hH8rb9QBXBxZj8wVVQ&slotNum=35&creativeASIN=0878933085&linkCode=w61&imprToken=QiG2bf7fc5-czG6VLZ9cSg&slotNum=164)In the [comments](https://www.gnxp.com/WordPress/2018/09/26/vietnamese-are-not-that-much-like-the-cambodians/comment-page-1/#comment-10416) [below](https://www.gnxp.com/WordPress/2018/09/26/vietnamese-are-not-that-much-like-the-cambodians/comment-page-1/#comment-10198) a reader has pointed out that there are Y and mtDNA results for [Cham people](https://en.wikipedia.org/wiki/Chams).
 

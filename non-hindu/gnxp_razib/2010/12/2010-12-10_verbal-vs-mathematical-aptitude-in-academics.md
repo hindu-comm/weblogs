@@ -33,7 +33,45 @@ Some observations:
 
 The raw data below.
 
-|                         |            |           |             | |-------------------------|------------|-----------|-------------| | **Major**               | **Verbal** | **Quant** | **Writing** | | Philosophy              | 589        | 636       | 5.1         | | English                 | 559        | 552       | 4.9         | | History                 | 543        | 556       | 4.8         | | Art History             | 538        | 554       | 4.7         | | Religion                | 538        | 583       | 4.8         | | Physics                 | 534        | 738       | 4.5         | | Anthropology            | 532        | 571       | 4.7         | | Foreign Language        | 529        | 573       | 4.6         | | Political Science       | 522        | 589       | 4.8         | | Economics               | 504        | 706       | 4.5         | | Math                    | 502        | 733       | 4.4         | | Earth Science           | 495        | 637       | 4.4         | | Engineering, Materials  | 494        | 729       | 4.3         | | Biology                 | 491        | 632       | 4.4         | | Art & Performance       | 489        | 571       | 4.3         | | Chemistry               | 487        | 682       | 4.4         | | Sociology               | 487        | 545       | 4.6         | | Education, Secondary    | 486        | 577       | 4.5         | | Engineering, Chemical   | 485        | 727       | 4.3         | | Architecture            | 477        | 614       | 4.3         | | Banking & Finance       | 476        | 709       | 4.3         | | Communications          | 470        | 533       | 4.5         | | Psychology              | 470        | 543       | 4.5         | | Computer Science        | 469        | 704       | 4.2         | | Engineering, Mechanical | 467        | 723       | 4.2         | | Education, Higher       | 465        | 548       | 4.6         | | Agriculture             | 461        | 596       | 4.2         | | Engineering, Electrical | 461        | 728       | 4.1         | | Engineering, Civil      | 457        | 702       | 4.2         | | Public Administration   | 452        | 513       | 4.3         | | Education, Elementary   | 443        | 527       | 4.3         | | Engineering, Industrial | 440        | 710       | 4.1         | | Business Administration | 439        | 562       | 4.2         | | Social Work             | 428        | 468       | 4.1         | | Accounting              | 415        | 595       | 3.9         | |                         |            |           |             |
+|                         |            |           |             |
+|-------------------------|------------|-----------|-------------|
+| **Major**               | **Verbal** | **Quant** | **Writing** |
+| Philosophy              | 589        | 636       | 5.1         |
+| English                 | 559        | 552       | 4.9         |
+| History                 | 543        | 556       | 4.8         |
+| Art History             | 538        | 554       | 4.7         |
+| Religion                | 538        | 583       | 4.8         |
+| Physics                 | 534        | 738       | 4.5         |
+| Anthropology            | 532        | 571       | 4.7         |
+| Foreign Language        | 529        | 573       | 4.6         |
+| Political Science       | 522        | 589       | 4.8         |
+| Economics               | 504        | 706       | 4.5         |
+| Math                    | 502        | 733       | 4.4         |
+| Earth Science           | 495        | 637       | 4.4         |
+| Engineering, Materials  | 494        | 729       | 4.3         |
+| Biology                 | 491        | 632       | 4.4         |
+| Art & Performance       | 489        | 571       | 4.3         |
+| Chemistry               | 487        | 682       | 4.4         |
+| Sociology               | 487        | 545       | 4.6         |
+| Education, Secondary    | 486        | 577       | 4.5         |
+| Engineering, Chemical   | 485        | 727       | 4.3         |
+| Architecture            | 477        | 614       | 4.3         |
+| Banking & Finance       | 476        | 709       | 4.3         |
+| Communications          | 470        | 533       | 4.5         |
+| Psychology              | 470        | 543       | 4.5         |
+| Computer Science        | 469        | 704       | 4.2         |
+| Engineering, Mechanical | 467        | 723       | 4.2         |
+| Education, Higher       | 465        | 548       | 4.6         |
+| Agriculture             | 461        | 596       | 4.2         |
+| Engineering, Electrical | 461        | 728       | 4.1         |
+| Engineering, Civil      | 457        | 702       | 4.2         |
+| Public Administration   | 452        | 513       | 4.3         |
+| Education, Elementary   | 443        | 527       | 4.3         |
+| Engineering, Industrial | 440        | 710       | 4.1         |
+| Business Administration | 439        | 562       | 4.2         |
+| Social Work             | 428        | 468       | 4.1         |
+| Accounting              | 415        | 595       | 3.9         |
+|                         |            |           |             |
 
 ### Related Posts:
 

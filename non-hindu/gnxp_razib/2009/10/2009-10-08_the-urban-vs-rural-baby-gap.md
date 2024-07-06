@@ -13,7 +13,15 @@ A comment on the [post below](https://www.gnxp.com/blog/2009/10/semitocracy.php)
 
 [](https://www.gnxp.com/blog/uploaded_images/urbanvsrural-797458.png)
 
-|                         |      |                        |      | |-------------------------|------|------------------------|------| | **Mean \# of children** |      |                        |      | | **City**                | 1.99 | **12 Largest cities**  | 1.79 | | **Suburb**              | 2.16 | **Other cities**       | 2.09 | | **Town**                | 2.41 | **12 Largest suburbs** | 2.18 | | **Rural & farm**        | 2.5  | **Other suburbs**      | 2.14 | |                        |      | **Towns**              | 2.41 | |                         |      | **Rural & farm**       | 2.5  |
+|                         |      |                        |      |
+|-------------------------|------|------------------------|------|
+| **Mean \# of children** |      |                        |      |
+| **City**                | 1.99 | **12 Largest cities**  | 1.79 |
+| **Suburb**              | 2.16 | **Other cities**       | 2.09 |
+| **Town**                | 2.41 | **12 Largest suburbs** | 2.18 |
+| **Rural & farm**        | 2.5  | **Other suburbs**      | 2.14 |
+|                        |      | **Towns**              | 2.41 |
+|                         |      | **Rural & farm**       | 2.5  |
 
 Seems like cultural clustering. I disaggregated in the means to show how the super-cities are somewhat different; New York is a different beast from Minneapolis I assume when it comes to cost of living. One thing to note of course is that many people who are suburbanites at 45 are likely urbanites at 25 and suburbanites at 15, and so forth. It it interesting that suburbanites and urbanites converge at around 4 children, while those in rural and small town locales have a higher frequency of very large families. This is probably reflecting that “2 child norm” is stronger in urban and suburban areas where college degree holders predominate.
 

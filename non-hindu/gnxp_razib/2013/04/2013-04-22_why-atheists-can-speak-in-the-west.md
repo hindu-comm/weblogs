@@ -26,7 +26,15 @@ Second, on a more specific note the name which I was given by my parents is Raji
 
 And yet I’m not worried in the United States. Why? The ultimate reasons are products of history (e.g., the longstanding Anglo commitment to freedom of conscience). But more proximately **there is a broad American consensus that atheistic speech (and offensive speech more generally) should be protected, especially on the part of cultural *elites*.** You an confirm this with the [General Social Survey](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss10). The SPKATH variables asks if people should be allowed to speak against churches and religion in their communities. Below are the results by political ideology and education by respondents after 1989:
 
-|                                      |         |          |              | |--------------------------------------|---------|----------|--------------| | Yes, allow anti-religionist to speak |         |          |              | |                                      | Liberal | Moderate | Conservative | | \< HS education                      | 59      | 59       | 52           | | HS degree                            | 79      | 75       | 72           | | Junior college                       | 87      | 78       | 80           | | Bachelor                             | 93      | 87       | 86           | | Graduate                             | 96      | 89       | 86           |
+|                                      |         |          |              |
+|--------------------------------------|---------|----------|--------------|
+| Yes, allow anti-religionist to speak |         |          |              |
+|                                      | Liberal | Moderate | Conservative |
+| \< HS education                      | 59      | 59       | 52           |
+| HS degree                            | 79      | 75       | 72           |
+| Junior college                       | 87      | 78       | 80           |
+| Bachelor                             | 93      | 87       | 86           |
+| Graduate                             | 96      | 89       | 86           |
 
 An interesting aspect here is that college educated conservatives are even more protective of this freedom than non-college liberals (still true if you correct for race). This is a trend when it comes to speech: **cultural elites are particularly protective of this liberty**. To me this is reasonable if thought of in a [Maslow’s hierarchy of needs](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs) sort of fashion. The ability to persuade, entertain ideas, and engage in unfettered debate, has been a privilege and avocation in particular of those who are less concerned with want and day to day subsistence. In the pre-modern world this would encompass the leisured classes, while today it expands to include much of the middle class.
 

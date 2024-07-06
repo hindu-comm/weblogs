@@ -27,7 +27,26 @@ There has been enough work on these populations over the past few years to admit
 
 Earlier I noted that Heather seems to have been correct that the barbarian invasions of the Roman Empire were events that involved the migration of women and children, as well as men. The steppe was probably a bit different. Here are the Y and mtDNA results for males from these data that are new to this paper:
 
-|                    |                      |                  | |--------------------|----------------------|------------------| | **Culture**        | **MtDNA Haplogroup** | **Y Haplogroup** | | Late Sarmatian     | U5b2b                | R1b1a1a2?        | | Scythian           | U5a2a1               | R1b1a1a2?        | | Late Sarmatian     | D4q                  | R1b1a1a2         | | Scythian           | J2b1a6               | R1b1a1a2         | | Scythian           | U5a1a1               | R1b1a1a2         | | Scythian           | U5b2a3               | R1b1a1a2         | | Scythian           | U4\*                 | R1b1a1a2         | | Scythian           | U5a2b                | R1b1a1a2         | | Cimmerian          | H9a                  | R1b1a            | | Srubno-alakulskaya | T2a1                 | R1a1a1?          | | Srubno-alakulskaya | J1c3a                | R1a1a1           | | Srubno-alakulskaya | H                    | R1a1a1           | | Srubno-alakulskaya | HV0a                 | R1a1a1           | | Srubno-alakulskaya | U5a1                 | R1a1a1           | | Srubno-alakulskaya | HV0a                 | R1a1a1           | | Late Sarmatian     | T1a1                 | R1a1a            | | Cimmerian          | C5c (50%)            | Q1a1             |
+|                    |                      |                  |
+|--------------------|----------------------|------------------|
+| **Culture**        | **MtDNA Haplogroup** | **Y Haplogroup** |
+| Late Sarmatian     | U5b2b                | R1b1a1a2?        |
+| Scythian           | U5a2a1               | R1b1a1a2?        |
+| Late Sarmatian     | D4q                  | R1b1a1a2         |
+| Scythian           | J2b1a6               | R1b1a1a2         |
+| Scythian           | U5a1a1               | R1b1a1a2         |
+| Scythian           | U5b2a3               | R1b1a1a2         |
+| Scythian           | U4\*                 | R1b1a1a2         |
+| Scythian           | U5a2b                | R1b1a1a2         |
+| Cimmerian          | H9a                  | R1b1a            |
+| Srubno-alakulskaya | T2a1                 | R1a1a1?          |
+| Srubno-alakulskaya | J1c3a                | R1a1a1           |
+| Srubno-alakulskaya | H                    | R1a1a1           |
+| Srubno-alakulskaya | HV0a                 | R1a1a1           |
+| Srubno-alakulskaya | U5a1                 | R1a1a1           |
+| Srubno-alakulskaya | HV0a                 | R1a1a1           |
+| Late Sarmatian     | T1a1                 | R1a1a            |
+| Cimmerian          | C5c (50%)            | Q1a1             |
 
 I’m assuming you aren’t surprised. These steppe tribes seem to be defined by extended paternal lineage networks. The Srubna people are R1a1a1, as is dominant in Eastern Europe today. But, **an ancient Srubna male dating to 1800 BC was found to have the Asian variant of R1a1a1**, found in South and Central Asia, not the one predominant among Slavic peoples.
 

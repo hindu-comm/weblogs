@@ -94,7 +94,14 @@ The last thousand years of human population, broken into regions of differing ex
 
 Extrapolating the line fits (representing exponential curves on a logarithmic scale) results in crossing 8 billion at ever-sooner dates.
 
-|                  |        |                         | |------------------|--------|-------------------------| | Era              | Rate   | Reach 8 Billion in year | | Agriculture      | 0.042% | 8800                    | | City-State       | 0.12%  | 3800                    | | Enlightenment    | 0.41%  | 2300                    | | Fossil Fuels     | 0.82%  | 2090                    | | Green Revolution | 1.7%   | 2020                    |
+|                  |        |                         |
+|------------------|--------|-------------------------|
+| Era              | Rate   | Reach 8 Billion in year |
+| Agriculture      | 0.042% | 8800                    |
+| City-State       | 0.12%  | 3800                    |
+| Enlightenment    | 0.41%  | 2300                    |
+| Fossil Fuels     | 0.82%  | 2090                    |
+| Green Revolution | 1.7%   | 2020                    |
 
 The point I want to make is that even without the advances of recent centuries, population growth was on track for human domination of the planet (thus, large scale ecological harm) in a time that is still short compared to the duration of hunter-gatherer humans on the planet. Agriculture lit a fuse. The various advancements in more recent times simply accelerated the process—dramatically.
 

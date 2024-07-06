@@ -33,7 +33,45 @@ Next, I decided to confirm things by running a three population test. If you rea
 
 Here they are:
 
-|                    |             |                    |         |        | |:-------------------|------------:|-------------------:|--------:|-------:| | **Outgroup**       |    **Pop1** |           **Pop2** |  **f3** |  **z** | | Bantu_NE           | EsanNigeria |              Dutch | -0.0009 |  -6.54 | | Bantu_NE           | EsanNigeria | South_Africa_White | -0.0010 |  -6.54 | | Bantu_NE           | EsanNigeria |              Malay | -0.0009 |  -6.33 | | Bantu_NE           | EsanNigeria |             Telegu | -0.0008 |  -6.00 | | Bantu_NE           |     Bantu_S | South_Africa_White | -0.0008 |  -4.84 | | Bantu_NE           |     Bantu_S |              Dutch | -0.0008 |  -4.77 | | Bantu_NE           |     Bantu_S |              Malay | -0.0007 |  -4.21 | | Bantu_NE           |     Bantu_S |             Telegu | -0.0007 |  -4.05 | | Bantu_NE           |       Dutch |        San_Ancient | -0.0009 |  -3.02 | | Bantu_NE           |       Hadza |        EsanNigeria | -0.0004 |  -2.97 | | Bantu_NE           |      Telegu |        San_Ancient | -0.0007 |  -2.32 | | Bantu_NE           |       Malay |        San_Ancient | -0.0007 |  -2.04 | | Bantu_S            | EsanNigeria |         San_Modern | -0.0028 | -21.62 | | Bantu_S            | EsanNigeria |        San_Ancient | -0.0039 | -20.78 | | Bantu_S            | San_Ancient |           Bantu_NE | -0.0030 | -12.91 | | Bantu_S            |  San_Modern |           Bantu_NE | -0.0019 | -12.45 | | Bantu_S            |       Dutch |        San_Ancient | -0.0031 | -10.63 | | Bantu_S            |      Telegu |        San_Ancient | -0.0030 | -10.33 | | Bantu_S            | San_Ancient | South_Africa_White | -0.0027 |  -9.17 | | Bantu_S            |       Malay |        San_Ancient | -0.0029 |  -8.97 | | San_Modern         |       Dutch |        San_Ancient | -0.0091 | -34.96 | | San_Modern         |      Telegu |        San_Ancient | -0.0087 | -33.86 | | San_Modern         | San_Ancient | South_Africa_White | -0.0089 | -33.54 | | San_Modern         | San_Ancient |           Bantu_NE | -0.0063 | -31.93 | | San_Modern         |       Malay |        San_Ancient | -0.0085 | -30.98 | | San_Modern         |     Bantu_S |        San_Ancient | -0.0052 | -28.91 | | San_Modern         |       Hadza |        San_Ancient | -0.0051 | -27.58 | | South_Africa_White |       Dutch |           Bantu_NE | -0.0017 | -12.96 | | South_Africa_White | EsanNigeria |              Dutch | -0.0017 | -12.68 | | South_Africa_White |  San_Modern |              Dutch | -0.0018 | -12.41 | | South_Africa_White |     Bantu_S |              Dutch | -0.0017 | -12.36 | | South_Africa_White |       Dutch |        San_Ancient | -0.0021 | -12.14 | | South_Africa_White |       Hadza |              Dutch | -0.0014 | -10.41 | | South_Africa_White |       Malay |              Dutch | -0.0007 |  -5.97 | | South_Africa_White |      Telegu |              Dutch | -0.0003 |  -3.64 | | Telegu             |       Malay |              Dutch | -0.0004 |  -2.79 |
+|                    |             |                    |         |        |
+|:-------------------|------------:|-------------------:|--------:|-------:|
+| **Outgroup**       |    **Pop1** |           **Pop2** |  **f3** |  **z** |
+| Bantu_NE           | EsanNigeria |              Dutch | -0.0009 |  -6.54 |
+| Bantu_NE           | EsanNigeria | South_Africa_White | -0.0010 |  -6.54 |
+| Bantu_NE           | EsanNigeria |              Malay | -0.0009 |  -6.33 |
+| Bantu_NE           | EsanNigeria |             Telegu | -0.0008 |  -6.00 |
+| Bantu_NE           |     Bantu_S | South_Africa_White | -0.0008 |  -4.84 |
+| Bantu_NE           |     Bantu_S |              Dutch | -0.0008 |  -4.77 |
+| Bantu_NE           |     Bantu_S |              Malay | -0.0007 |  -4.21 |
+| Bantu_NE           |     Bantu_S |             Telegu | -0.0007 |  -4.05 |
+| Bantu_NE           |       Dutch |        San_Ancient | -0.0009 |  -3.02 |
+| Bantu_NE           |       Hadza |        EsanNigeria | -0.0004 |  -2.97 |
+| Bantu_NE           |      Telegu |        San_Ancient | -0.0007 |  -2.32 |
+| Bantu_NE           |       Malay |        San_Ancient | -0.0007 |  -2.04 |
+| Bantu_S            | EsanNigeria |         San_Modern | -0.0028 | -21.62 |
+| Bantu_S            | EsanNigeria |        San_Ancient | -0.0039 | -20.78 |
+| Bantu_S            | San_Ancient |           Bantu_NE | -0.0030 | -12.91 |
+| Bantu_S            |  San_Modern |           Bantu_NE | -0.0019 | -12.45 |
+| Bantu_S            |       Dutch |        San_Ancient | -0.0031 | -10.63 |
+| Bantu_S            |      Telegu |        San_Ancient | -0.0030 | -10.33 |
+| Bantu_S            | San_Ancient | South_Africa_White | -0.0027 |  -9.17 |
+| Bantu_S            |       Malay |        San_Ancient | -0.0029 |  -8.97 |
+| San_Modern         |       Dutch |        San_Ancient | -0.0091 | -34.96 |
+| San_Modern         |      Telegu |        San_Ancient | -0.0087 | -33.86 |
+| San_Modern         | San_Ancient | South_Africa_White | -0.0089 | -33.54 |
+| San_Modern         | San_Ancient |           Bantu_NE | -0.0063 | -31.93 |
+| San_Modern         |       Malay |        San_Ancient | -0.0085 | -30.98 |
+| San_Modern         |     Bantu_S |        San_Ancient | -0.0052 | -28.91 |
+| San_Modern         |       Hadza |        San_Ancient | -0.0051 | -27.58 |
+| South_Africa_White |       Dutch |           Bantu_NE | -0.0017 | -12.96 |
+| South_Africa_White | EsanNigeria |              Dutch | -0.0017 | -12.68 |
+| South_Africa_White |  San_Modern |              Dutch | -0.0018 | -12.41 |
+| South_Africa_White |     Bantu_S |              Dutch | -0.0017 | -12.36 |
+| South_Africa_White |       Dutch |        San_Ancient | -0.0021 | -12.14 |
+| South_Africa_White |       Hadza |              Dutch | -0.0014 | -10.41 |
+| South_Africa_White |       Malay |              Dutch | -0.0007 |  -5.97 |
+| South_Africa_White |      Telegu |              Dutch | -0.0003 |  -3.64 |
+| Telegu             |       Malay |              Dutch | -0.0004 |  -2.79 |
 
 
 
@@ -43,7 +81,14 @@ No surprises so far. One thing that did surprise me though was the extent of the
 
 Re-running the three population test with these “pure” populations I only got significant results for the below cases:
 
-|                    |          |             |         |          | |:-------------------|---------:|------------:|--------:|---------:| | **Outgroup**       | **Pop1** |    **Pop2** |  **f3** |    **z** | | South_Africa_White |    Dutch | EsanNigeria | -0.0017 | -13.1937 | | South_Africa_White |      San |       Dutch | -0.0020 | -12.6910 | | South_Africa_White |    Hadza |       Dutch | -0.0014 |  -9.7246 | | South_Africa_White |    Malay |       Dutch | -0.0009 |  -6.6481 | | South_Africa_White |   Telegu |       Dutch | -0.0004 |  -4.6167 |
+|                    |          |             |         |          |
+|:-------------------|---------:|------------:|--------:|---------:|
+| **Outgroup**       | **Pop1** |    **Pop2** |  **f3** |    **z** |
+| South_Africa_White |    Dutch | EsanNigeria | -0.0017 | -13.1937 |
+| South_Africa_White |      San |       Dutch | -0.0020 | -12.6910 |
+| South_Africa_White |    Hadza |       Dutch | -0.0014 |  -9.7246 |
+| South_Africa_White |    Malay |       Dutch | -0.0009 |  -6.6481 |
+| South_Africa_White |   Telegu |       Dutch | -0.0004 |  -4.6167 |
 
 No big surprise.
 

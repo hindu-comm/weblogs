@@ -79,7 +79,17 @@ At the limit of our visual perception (naked eye), and only in the darkest sites
 
 Even out to the limit of our vision, 90% of the stars we might point to—even at the dimmest end—are closer than roughly 1,000 light years. This is only 1% the scale of our galaxy, emphasizing the very local nature of our experience when looking at the stars. The following table counts how many stars are farther than 1,000 light years (out of how many in each magnitude bin), computing the percentage beyond 1,000 light years—both within the bin and cumulatively up to that magnitude.
 
-|     |              |        |      |              | |-----|--------------|--------|------|--------------| | Mag | \>1,000 l.y. | out of | %    | cumulative % | | −1  | 0            | 2      | 0    | 0            | | 0   | 0            | 8      | 0    | 0            | | 1   | 1            | 12     | 8.3  | 4.6          | | 2   | 5            | 71     | 7.0  | 6.5          | | 3   | 12           | 192    | 6.3  | 6.3          | | 4   | 59           | 622    | 9.5  | 8.5          | | 5   | 210          | 1909   | 11.0 | 10.2         | | 6   | 943          | 5967   | 15.8 | 14.0         |
+|     |              |        |      |              |
+|-----|--------------|--------|------|--------------|
+| Mag | \>1,000 l.y. | out of | %    | cumulative % |
+| −1  | 0            | 2      | 0    | 0            |
+| 0   | 0            | 8      | 0    | 0            |
+| 1   | 1            | 12     | 8.3  | 4.6          |
+| 2   | 5            | 71     | 7.0  | 6.5          |
+| 3   | 12           | 192    | 6.3  | 6.3          |
+| 4   | 59           | 622    | 9.5  | 8.5          |
+| 5   | 210          | 1909   | 11.0 | 10.2         |
+| 6   | 943          | 5967   | 15.8 | 14.0         |
 
 ## Theory Comparison
 
@@ -117,7 +127,33 @@ Even though stars dimmer than this are the most abundant in the galaxy, none are
 
 Using the luminosity function for stars, which shows increased abundance for smaller/dimmer stars, we can examine the space density at each absolute magnitude to determine how far such stars likely are from each other (the cube-root of how large a volume each tends to occupy). The table below has, for each absolute magnitude, the typical distance between stars of that intrinsic brightness and also the distance between all stars this bright or brighter. For instance, the sun has an absolute magnitude of *M* = 4.8 (call it 5). On average, such stars might be found every 22 light years, and you’d go 16 light years on average before hitting any star as (intrinsically) bright or brighter.
 
-|          |                   |            | |----------|-------------------|------------| | Abs. Mag | Avg. Dist. (l.y.) | Cumulative | | −8       | \>4040            | 4040       | | −7       | 2300              | 2180       | | −6       | 1330              | 1240       | | −5       | 770               | 715        | | −4       | 450               | 420        | | −3       | 270               | 250        | | −2       | 165               | 150        | | −1       | 105               | 95         | | 0        | 70                | 62         | | 1        | 49                | 43         | | 2        | 37                | 31         | | 3        | 29                | 24         | | 4        | 25                | 19         | | 5        | 22                | 16         | | 6        | 20                | 14         | | 7        | 18.5              | 12.4       | | 8        | 17                | 11.2       | | 9        | 16.6              | 10.3       | | 10       | 16                | 9.5        | | 11       | 15.4              | 8.8        | | 12       | 14.8              | 8.3        | | 13       | 14.4              | 7.8        | | 14       | 13.9              | 7.4        | | 15       | 13.5              | 7          |
+|          |                   |            |
+|----------|-------------------|------------|
+| Abs. Mag | Avg. Dist. (l.y.) | Cumulative |
+| −8       | \>4040            | 4040       |
+| −7       | 2300              | 2180       |
+| −6       | 1330              | 1240       |
+| −5       | 770               | 715        |
+| −4       | 450               | 420        |
+| −3       | 270               | 250        |
+| −2       | 165               | 150        |
+| −1       | 105               | 95         |
+| 0        | 70                | 62         |
+| 1        | 49                | 43         |
+| 2        | 37                | 31         |
+| 3        | 29                | 24         |
+| 4        | 25                | 19         |
+| 5        | 22                | 16         |
+| 6        | 20                | 14         |
+| 7        | 18.5              | 12.4       |
+| 8        | 17                | 11.2       |
+| 9        | 16.6              | 10.3       |
+| 10       | 16                | 9.5        |
+| 11       | 15.4              | 8.8        |
+| 12       | 14.8              | 8.3        |
+| 13       | 14.4              | 7.8        |
+| 14       | 13.9              | 7.4        |
+| 15       | 13.5              | 7          |
 
 Even the super-abundant dim-@$$ stars at the bottom of the list tend to be over ten light years apart, and the cumulative effect is stars of any size averaging 7 light years apart. So it’s a bit of a fluke that we have nearly-twin stars less than 5 light yeas away, and [Sirius](https://en.wikipedia.org/wiki/Sirius) (absolute magnitude *M* = 1.43) within 10 light years (expect over 30 light years before finding one this intrinsically bright).
 

@@ -18,7 +18,47 @@ Below are results limited to non-Hispanic whites with college educations. Note e
   
 **Attitudes toward divorce laws:**
 
-|                                     |                |           |           |           |           | |-------------------------------------|----------------|-----------|-----------|-----------|-----------| |                                     |                | **1970s** | **1980s** | **1990s** | **2000s** | | Born before 1946                    | Easier         | 35        | 19        | 18        | 15        | |                                     | More Difficult | 40        | 52        | 54        | 50        | |                                     | Stay Same      | 25        | 28        | 28        | 35        | | Born 1946-1964                      | Easier         | 43        | 22        | 20        | 18        | |                                     | More Difficult | 31        | 48        | 50        | 47        | |                                     | Stay Same      | 26        | 31        | 30        | 35        | | Born after 1965                     | Easier         | \*        | \*        | 16        | 17        | |                                     | More Difficult | \*        | \*        | 53        | 52        | |                                     | Stay Same      | \*        | \*        | 32        | 31        | | Liberals                            | Easier         | 49        | 27        | 26        | 26        | |                                     | More Difficult | 26        | 40        | 35        | 32        | |                                     | Stay Same      | 26        | 33        | 39        | 42        | | Moderates                           | Easier         | 36        | 23        | 19        | 17        | |                                     | More Difficult | 33        | 51        | 51        | 47        | |                                     | Stay Same      | 30        | 27        | 30        | 36        | | Conservatives                       | Easier         | 26        | 16        | 14        | 9         | |                                     | More Difficult | 52        | 57        | 65        | 65        | |                                     | Stay Same      | 21        | 27        | 21        | 26        | | Protestant                          | Easier         | 32        | 18        | 14        | 11        | |                                     | More Difficult | 42        | 56        | 60        | 58        | |                                     | Stay Same      | 26        | 26        | 26        | 31        | | Catholic                            | Easier         | 29        | 19        | 18        | 15        | |                                     | More Difficult | 45        | 54        | 55        | 53        | |                                     | Stay Same      | 26        | 27        | 27        | 32        | | No Religion                         | Easier         | 63        | 35        | 32        | 28        | |                                     | More Difficult | 14        | 18        | 26        | 28        | |                                     | Stay Same      | 22        | 47        | 42        | 44        | | 1986 index income \<\$20,000        | Easier         | 36        | 18        | 20        | 16        | |                                     | More Difficult | 40        | 56        | 51        | 46        | |                                     | Stay Same      | 24        | 26        | 29        | 38        | | 1986 index income \$20,000-\$50,000 | Easier         | 37        | 21        | 19        | 16        | |                                     | More Difficult | 37        | 49        | 54        | 55        | |                                     | Stay Same      | 26        | 30        | 28        | 29        | | 1986 index income \$50,000\>        | Easier         | 39        | 22        | 20        | 18        | |                                     | More Difficult | 36        | 47        | 49        | 46        | |                                     | Stay Same      | 25        | 31        | 32        | 36        | |                                     |                |           |           |           |           | |                                     |                |           |           |           |           |
+|                                     |                |           |           |           |           |
+|-------------------------------------|----------------|-----------|-----------|-----------|-----------|
+|                                     |                | **1970s** | **1980s** | **1990s** | **2000s** |
+| Born before 1946                    | Easier         | 35        | 19        | 18        | 15        |
+|                                     | More Difficult | 40        | 52        | 54        | 50        |
+|                                     | Stay Same      | 25        | 28        | 28        | 35        |
+| Born 1946-1964                      | Easier         | 43        | 22        | 20        | 18        |
+|                                     | More Difficult | 31        | 48        | 50        | 47        |
+|                                     | Stay Same      | 26        | 31        | 30        | 35        |
+| Born after 1965                     | Easier         | \*        | \*        | 16        | 17        |
+|                                     | More Difficult | \*        | \*        | 53        | 52        |
+|                                     | Stay Same      | \*        | \*        | 32        | 31        |
+| Liberals                            | Easier         | 49        | 27        | 26        | 26        |
+|                                     | More Difficult | 26        | 40        | 35        | 32        |
+|                                     | Stay Same      | 26        | 33        | 39        | 42        |
+| Moderates                           | Easier         | 36        | 23        | 19        | 17        |
+|                                     | More Difficult | 33        | 51        | 51        | 47        |
+|                                     | Stay Same      | 30        | 27        | 30        | 36        |
+| Conservatives                       | Easier         | 26        | 16        | 14        | 9         |
+|                                     | More Difficult | 52        | 57        | 65        | 65        |
+|                                     | Stay Same      | 21        | 27        | 21        | 26        |
+| Protestant                          | Easier         | 32        | 18        | 14        | 11        |
+|                                     | More Difficult | 42        | 56        | 60        | 58        |
+|                                     | Stay Same      | 26        | 26        | 26        | 31        |
+| Catholic                            | Easier         | 29        | 19        | 18        | 15        |
+|                                     | More Difficult | 45        | 54        | 55        | 53        |
+|                                     | Stay Same      | 26        | 27        | 27        | 32        |
+| No Religion                         | Easier         | 63        | 35        | 32        | 28        |
+|                                     | More Difficult | 14        | 18        | 26        | 28        |
+|                                     | Stay Same      | 22        | 47        | 42        | 44        |
+| 1986 index income \<\$20,000        | Easier         | 36        | 18        | 20        | 16        |
+|                                     | More Difficult | 40        | 56        | 51        | 46        |
+|                                     | Stay Same      | 24        | 26        | 29        | 38        |
+| 1986 index income \$20,000-\$50,000 | Easier         | 37        | 21        | 19        | 16        |
+|                                     | More Difficult | 37        | 49        | 54        | 55        |
+|                                     | Stay Same      | 26        | 30        | 28        | 29        |
+| 1986 index income \$50,000\>        | Easier         | 39        | 22        | 20        | 18        |
+|                                     | More Difficult | 36        | 47        | 49        | 46        |
+|                                     | Stay Same      | 25        | 31        | 32        | 36        |
+|                                     |                |           |           |           |           |
+|                                     |                |           |           |           |           |
 
 ------------------------------------------------------------------------
 

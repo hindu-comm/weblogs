@@ -17,7 +17,58 @@ Well, I was pretty sure that there is a statistically significant difference bet
 ![atheistvsnoreligion.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/atheistvsnoreligion.jpg?resize=500%2C511)![atheistvsnoreligion.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/atheistvsnoreligion.jpg?resize=500%2C511)  
 The geographic patterns are interesting. Note that the West has many nonreligious, or those who are not affiliated. In contrast, parts of the Northeast have a great number of atheists, but lack of affiliation is relatively rare in comparison to someplace like Washington or Wyoming. The American South is a relatively distinctive cluster as well, with low levels of atheism and high rates of affiliation. The Midwest is a bit more diverse, but you can also see a discernible cluster there, with similar rates of affiliation as much of the Northeast but lower rates of atheism. The raw data is below the fold….
 
-|                |                         |                              | |:---------------|:------------------------|:-----------------------------| |                | Does not believe in god | Has no religious affiliation | | Vermont        | 9                       | 22                           | | Oregon         | 9                       | 21                           | | Connecticut    | 9                       | 12                           | | Rhode Island   | 9                       | 15                           | | New Hamsphire  | 9                       | 17                           | | Massachusetts  | 8                       | 16                           | | Maine          | 8                       | 16                           | | Colorado       | 8                       | 21                           | | New York       | 7                       | 13                           | | California     | 7                       | 19                           | | Washington     | 7                       | 25                           | | Washington DC  | 6                       | 13                           | | Iowa           | 6                       | 15                           | | Nevada         | 6                       | 20                           | | Arizona        | 6                       | 17                           | | Maryland       | 6                       | 13                           | | New Jersey     | 6                       | 15                           | | Florida        | 6                       | 12                           | | Virginia       | 5                       | 12                           | | South Dakota   | 5                       | 8                            | | Delaware       | 5                       | 17                           | | North Dakota   | 5                       | 3                            | | New Mexico     | 5                       | 18                           | | Idaho          | 5                       | 19                           | | Michigan       | 5                       | 15                           | | Pennsylvania   | 4                       | 12                           | | Ohio           | 4                       | 15                           | | Wyoming        | 4                       | 20                           | | Wisconsin      | 4                       | 14                           | | Illinois       | 4                       | 14                           | | Montana        | 4                       | 17                           | | Kansas         | 4                       | 15                           | | Minnesota      | 3                       | 14                           | | South Carolina | 3                       | 7                            | | Missouri       | 3                       | 15                           | | Utah           | 3                       | 17                           | | Indiana        | 3                       | 16                           | | West Virginia  | 3                       | 13                           | | Louisiana      | 2                       | 9                            | | North Carolina | 2                       | 10                           | | Tennessee      | 2                       | 9                            | | Oklahoma       | 2                       | 14                           | | Texas          | 2                       | 11                           | | Arkansas       | 2                       | 13                           | | Georgia        | 2                       | 12                           | | Alabama        | 2                       | 6                            | | Nebraska       | 1                       | 9                            | | Kentucky       | 1                       | 14                           | | Mississipi     | 1                       | 7                            |
+|                |                         |                              |
+|:---------------|:------------------------|:-----------------------------|
+|                | Does not believe in god | Has no religious affiliation |
+| Vermont        | 9                       | 22                           |
+| Oregon         | 9                       | 21                           |
+| Connecticut    | 9                       | 12                           |
+| Rhode Island   | 9                       | 15                           |
+| New Hamsphire  | 9                       | 17                           |
+| Massachusetts  | 8                       | 16                           |
+| Maine          | 8                       | 16                           |
+| Colorado       | 8                       | 21                           |
+| New York       | 7                       | 13                           |
+| California     | 7                       | 19                           |
+| Washington     | 7                       | 25                           |
+| Washington DC  | 6                       | 13                           |
+| Iowa           | 6                       | 15                           |
+| Nevada         | 6                       | 20                           |
+| Arizona        | 6                       | 17                           |
+| Maryland       | 6                       | 13                           |
+| New Jersey     | 6                       | 15                           |
+| Florida        | 6                       | 12                           |
+| Virginia       | 5                       | 12                           |
+| South Dakota   | 5                       | 8                            |
+| Delaware       | 5                       | 17                           |
+| North Dakota   | 5                       | 3                            |
+| New Mexico     | 5                       | 18                           |
+| Idaho          | 5                       | 19                           |
+| Michigan       | 5                       | 15                           |
+| Pennsylvania   | 4                       | 12                           |
+| Ohio           | 4                       | 15                           |
+| Wyoming        | 4                       | 20                           |
+| Wisconsin      | 4                       | 14                           |
+| Illinois       | 4                       | 14                           |
+| Montana        | 4                       | 17                           |
+| Kansas         | 4                       | 15                           |
+| Minnesota      | 3                       | 14                           |
+| South Carolina | 3                       | 7                            |
+| Missouri       | 3                       | 15                           |
+| Utah           | 3                       | 17                           |
+| Indiana        | 3                       | 16                           |
+| West Virginia  | 3                       | 13                           |
+| Louisiana      | 2                       | 9                            |
+| North Carolina | 2                       | 10                           |
+| Tennessee      | 2                       | 9                            |
+| Oklahoma       | 2                       | 14                           |
+| Texas          | 2                       | 11                           |
+| Arkansas       | 2                       | 13                           |
+| Georgia        | 2                       | 12                           |
+| Alabama        | 2                       | 6                            |
+| Nebraska       | 1                       | 9                            |
+| Kentucky       | 1                       | 14                           |
+| Mississipi     | 1                       | 7                            |
 
 ### Related Posts:
 

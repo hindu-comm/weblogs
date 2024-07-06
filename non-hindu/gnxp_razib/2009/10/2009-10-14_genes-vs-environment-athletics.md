@@ -17,7 +17,13 @@ In other words, if someone gives the response 1, they think that George’s athl
 
 [](https://www.gnxp.com/blog/uploaded_images/heritabilityathletes-753568.png)
 
-|               |         |            |           |          |             |             |                       |                    |          |             |           | |---------------|--------:|-----------:|----------:|---------:|------------:|------------:|----------------------:|-------------------:|---------:|------------:|----------:| | **% Genetic** | **All** | **Whites** | **Black** | **Male** | **Liberal** | **Conserv** | **No College Degree** | **College Degree** | **Dumb** | **Average** | **Smart** | | 75-100        |    21.1 |       19.3 |      29.6 |       21 |        21.7 |        19.6 |                  24.2 |               13.8 |     28.2 |          23 |      15.1 | | 50-75         |    27.8 |       28.7 |        28 |     26.4 |        29.4 |        24.6 |                  26.5 |               31.1 |     31.9 |        26.8 |      27.6 | | 25-50         |    22.4 |       23.4 |      16.2 |     23.1 |        24.8 |        24.5 |                  20.5 |               27.1 |     11.2 |        22.4 |      25.6 | | 0-25          |    28.6 |       28.6 |      26.2 |     29.4 |        24.1 |        31.3 |                  28.9 |                 28 |     28.7 |        27.8 |      31.7 |
+|               |         |            |           |          |             |             |                       |                    |          |             |           |
+|---------------|--------:|-----------:|----------:|---------:|------------:|------------:|----------------------:|-------------------:|---------:|------------:|----------:|
+| **% Genetic** | **All** | **Whites** | **Black** | **Male** | **Liberal** | **Conserv** | **No College Degree** | **College Degree** | **Dumb** | **Average** | **Smart** |
+| 75-100        |    21.1 |       19.3 |      29.6 |       21 |        21.7 |        19.6 |                  24.2 |               13.8 |     28.2 |          23 |      15.1 |
+| 50-75         |    27.8 |       28.7 |        28 |     26.4 |        29.4 |        24.6 |                  26.5 |               31.1 |     31.9 |        26.8 |      27.6 |
+| 25-50         |    22.4 |       23.4 |      16.2 |     23.1 |        24.8 |        24.5 |                  20.5 |               27.1 |     11.2 |        22.4 |      25.6 |
+| 0-25          |    28.6 |       28.6 |      26.2 |     29.4 |        24.1 |        31.3 |                  28.9 |                 28 |     28.7 |        27.8 |      31.7 |
 
 At first when I saw little difference between liberals & conservatives and across age groups I wondered if it was coded wrong. But the outcomes for intelligence & education seem to fit. Perhaps it has something to do with George being a black athlete, so the intelligent and educated know what they *should* say about this sort of question?
 

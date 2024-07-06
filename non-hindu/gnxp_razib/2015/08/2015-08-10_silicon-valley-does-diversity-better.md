@@ -22,7 +22,41 @@ It’s not that hard to look up CEOs, and that’s what I did. The results are b
 
 **To my surprise there’s actually a fair number of minorities as CEOs at large firms with a a presence in Silicon Valley.** This went against my expectation. 5 out of 32 CEOs in “Fortune 1000” Silicon Valley firms were of Indian ethnicity. That’s \~16%. As \~1% of the American population is Indian American, **that means they are more than an order of magnitude over-represented among CEOs.** 21 out of the 32 CEOs were white, 23 if you include the two Middle Eastern men (if they had Southern European names they would definitely be categorized as white). So whites are actually barely over-represented among these CEOs in comparison to the general American population (\~63% for non-Hispanic whites). Of course I don’t deny that in comparison to their representation in professional ranks at these types of firms [people of Asian origin](http://fortune.com/2015/05/06/silicon-valley-asians-report/) do seem under-represented in management overall. But, I’d challenge the null hypothesis that society can or should aim for perfect proportionality in all facets of life, and deviations are only due to invidious discrimination, implicit or explicit (there’s very little explicit discrimination, but there is some implicit discrimination when people use words like “corporate culture”). We don’t know all the various factors which result in these sorts of statistics, and Silicon Valley is too important to American productivity to tinker with too much.
 
-|                                |                    | |--------------------------------|--------------------| | **Fortune 1000 Company**       | **Demographic**    | | Adobe Systems                  | Brown man          | | Marvell Semiconductors         | Asian man          | | Nvidia                         | Asian man          | | Advanced Micro Devices (AMD)   | Asian woman        | | Brocade Communications Systems | Black man          | | Google                         | Brown man          | | LSI Logic                      | Brown man          | | NetApp                         | Brown man          | | SanDisk                        | Brown man          | | Juniper Networks               | Middle Eastern man | | Maxim Integrated Products      | Middle Eastern man | | Agilent Technologies           | White man          | | Apple Inc.                     | White man          | | Applied Materials              | White man          | | Cisco Systems                  | White man          | | eBay                           | White man          | | Electronic Arts                | White man          | | Facebook                       | White man          | | Intel                          | White man          | | Intuit                         | White man          | | KLA Tencor                     | White man          | | National Semiconductor         | White man          | | Netflix                        | White man          | | Oracle Corporation             | White man          | | Salesforce.com                 | White man          | | Sanmina-SCI                    | White man          | | Symantec                       | White man          | | Western Digital Corporation    | White man          | | Xilinx                         | White man          | | Hewlett-Packard                | White woman        | | Lockheed Martin                | White woman        | | Yahoo!                         | White woman        |
+|                                |                    |
+|--------------------------------|--------------------|
+| **Fortune 1000 Company**       | **Demographic**    |
+| Adobe Systems                  | Brown man          |
+| Marvell Semiconductors         | Asian man          |
+| Nvidia                         | Asian man          |
+| Advanced Micro Devices (AMD)   | Asian woman        |
+| Brocade Communications Systems | Black man          |
+| Google                         | Brown man          |
+| LSI Logic                      | Brown man          |
+| NetApp                         | Brown man          |
+| SanDisk                        | Brown man          |
+| Juniper Networks               | Middle Eastern man |
+| Maxim Integrated Products      | Middle Eastern man |
+| Agilent Technologies           | White man          |
+| Apple Inc.                     | White man          |
+| Applied Materials              | White man          |
+| Cisco Systems                  | White man          |
+| eBay                           | White man          |
+| Electronic Arts                | White man          |
+| Facebook                       | White man          |
+| Intel                          | White man          |
+| Intuit                         | White man          |
+| KLA Tencor                     | White man          |
+| National Semiconductor         | White man          |
+| Netflix                        | White man          |
+| Oracle Corporation             | White man          |
+| Salesforce.com                 | White man          |
+| Sanmina-SCI                    | White man          |
+| Symantec                       | White man          |
+| Western Digital Corporation    | White man          |
+| Xilinx                         | White man          |
+| Hewlett-Packard                | White woman        |
+| Lockheed Martin                | White woman        |
+| Yahoo!                         | White woman        |
 
 ### Related Posts:
 

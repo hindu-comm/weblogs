@@ -11,7 +11,18 @@ How much bigger Americans are in two generations
 
 
 
-|                                |                        |                        | |--------------------------------|------------------------|------------------------| | **Average American Size 2015** |                        |                        | |                               | *Men*                  | *Women*                | | Height                         | 69.2 inches (175.8 cm) | 63.7 inches (161.8 cm) | | Weight                         | 195.7 lbs (88.8 kg)    | 168.5 lbs (76.4 kg)    | | Waist                          | 40 inches (101.5 cm)   | 38.1 (96.9 cm)         | |                               |                       |                       | | **Average American Size 1960** |                        |                        | |                               | *Men*                  | *Women*                | | Height                         | 68 inches (173 cm)     | 63 inches (160 cm)     | | Weight                         | 166.3 lbs (75.3 kg)    | 140 lbs (63.5 kg)      |
+|                                |                        |                        |
+|--------------------------------|------------------------|------------------------|
+| **Average American Size 2015** |                        |                        |
+|                               | *Men*                  | *Women*                |
+| Height                         | 69.2 inches (175.8 cm) | 63.7 inches (161.8 cm) |
+| Weight                         | 195.7 lbs (88.8 kg)    | 168.5 lbs (76.4 kg)    |
+| Waist                          | 40 inches (101.5 cm)   | 38.1 (96.9 cm)         |
+|                               |                       |                       |
+| **Average American Size 1960** |                        |                        |
+|                               | *Men*                  | *Women*                |
+| Height                         | 68 inches (173 cm)     | 63 inches (160 cm)     |
+| Weight                         | 166.3 lbs (75.3 kg)    | 140 lbs (63.5 kg)      |
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/07/download-9-1.jpeg?resize=184%2C273)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/07/download-9-1.jpeg?resize=184%2C273)](https://www.amazon.com/exec/obidos/ASIN/B003QTWR08/geneexpressio-20)The film [WALL-E](https://www.amazon.com/exec/obidos/ASIN/B003QTWR08/geneexpressio-20) came out in 2008, and at this point it seems already quaint. Remember, when[WALL-E](https://www.amazon.com/exec/obidos/ASIN/B003QTWR08/geneexpressio-20)was in theaters smartphones were not ubiquitous. Today it is not abnormal for people in social situations to always have one eye on their phone, or for people to text each other in close proximity.
 

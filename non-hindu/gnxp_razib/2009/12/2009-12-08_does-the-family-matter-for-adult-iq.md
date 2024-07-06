@@ -24,7 +24,12 @@ In an email exchange with Dr. McGue (one of the co-authors of the paper) he told
 One failing of this study, though, is that it doesn’t go far enough into adulthood. The young adult group ranges from 14 to 34 years of age, with an average age of 17. In contrast, [McGue (1993)](http://psycnet.apa.org/psycinfo/1993-98367-003) looked seperately at data on adults over 20 years of age. He found that the shared environment diminished to zero impact at that point. Here’s his chart:  
 [](https://www.gnxp.com/blog/uploaded_images/mcgue-1993-increase-of-h2-decline-of-c2-755807.JPG)Looking at that chart, you might quickly conclude that shared environmental influence evaporates by age 20. However, this conclusion is premature. Twin studies make a great number of assumptions, some of which increase and others of which decrease estimates of the shared environment. A straightforward way of bypassing these assumptions is to compare monozygotic twins reared apart (MZAs) to monozygotic twins reared together (MZTs). The following data comes from a comparison of MZTs and MZAs, of average age 41, in [Bouchard (1990)](http://www.sciencemag.org/cgi/content/abstract/250/4978/223):
 
-|                     |                 |                 | |---------------------|-----------------|-----------------| | Measure             | MZA correlation | MZT correlation | | WAIS IQ-Full Scale  | 0.69            | 0.88            | | WAIS IQ-Verbal      | 0.64            | 0.88            | | WAIS IQ-Performance | 0.71            | 0.79            |
+|                     |                 |                 |
+|---------------------|-----------------|-----------------|
+| Measure             | MZA correlation | MZT correlation |
+| WAIS IQ-Full Scale  | 0.69            | 0.88            |
+| WAIS IQ-Verbal      | 0.64            | 0.88            |
+| WAIS IQ-Performance | 0.71            | 0.79            |
 
 Differences between MZA’s and MZT’s on Raven’s Progressive Matrices follow the same pattern but are even more extreme. [Bouchard (1981)](http://www.ncbi.nlm.nih.gov/pubmed/7195071) reported a median correlation of only 0.58 for adult MZA’s on the Raven’s. Curiously, though, MZA’s are equally if not more correlated than MZT’s on the Mill-Hill vocabulary test. Apparently, the pattern is that more g-loaded tests tend to show stronger evidence of lasting shared environmental impact.
 

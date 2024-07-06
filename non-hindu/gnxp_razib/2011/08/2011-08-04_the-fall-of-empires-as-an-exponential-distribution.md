@@ -28,7 +28,50 @@ Here’s the original data:
 
 ------------------------------------------------------------------------
 
-|                                 |               |              | |---------------------------------|---------------|--------------| | **Empire**                      | **Adulthood** | **Duration** | | Western Turk (C. Asia)          | 582           | 0.7          | | Avar (Europe)                   | 580           | 2            | | T’u Chueh Turk (C. Asia)        | 550           | 0.9          | | Visigoth (Europe)               | 470           | 2.4          | | White Hun (Indo-Iran)           | 460           | 1            | | Toba (China)                    | 440           | 1.3          | | Yuen-Yuen (C. Asia)             | 400           | 0.3          | | Byzantine (Europe)              | 395           | 3.5          | | Hun (Europe)                    | 380           | 0.8          | | Gupta (India)                   | 370           | 0.9          | | Liu-Sung (China)                | 330           | 2.1          | | Ptolemaic (Africa)              | 323           | 2.9          | | Bactria (Indo-Iran)             | 200           | 0.6          | | Kushan (Indo-Iran)              | 75            | 2            | | Rome (Europe)                   | 0             | 4            | | Saka (Indo-Iran)                | -50           | 1.2          | | Parthia (Iran)                  | -60           | 7            | | Ch’in (China)                   | -90           | 2.9          | | Andhra (India)                  | -170          | 3.7          | | Hsiung Nu Hun (C. Asia)         | -190          | 1            | | Maghada-Maurya (India)          | -300          | 0.9          | | Achaemenid (Iran)               | -540          | 3.2          | | Lydia (Anatolia)                | -610          | 0.6          | | New Babylon (Mesopotamia)       | -610          | 0.7          | | New Assyrian (Mesopotamia)      | -700          | 0.8          | | Late Period (Egypt)             | -715          | 1.9          | | Phrygia (Anatolia)              | -760          | 0.6          | | Urartu (Mesopotamia)            | -810          | 0.9          | | Babylon (Mesopotamia)           | -1000         | 2.5          | | Middle Assyrian (Mesopotamia)   | -1090         | 0.5          | | Hittite (Anatolia)              | -1320         | 1.3          | | Hsia-Shang (China)              | -1350         | 4            | | New Empire (Egypt)              | -1500         | 5            | | Mitanni (Mesopotamia)           | -1500         | 1.4          | | Elam (Mesopotamia)              | -1600         | 10           | | Hykso (Syria)                   | -1650         | 0.8          | | Babylon—Hammurabi (Mesopotamia) | -1700         | 2            | | Old Assyria (Mesopotamia)       | -1800         | 1            | | Middle Empire (Egypt)           | -2000         | 3            | | Akadia (Mesopotamia)            | -2310         | 1            | | Old Empire (Egypt)              | -2800         | 5            |
+|                                 |               |              |
+|---------------------------------|---------------|--------------|
+| **Empire**                      | **Adulthood** | **Duration** |
+| Western Turk (C. Asia)          | 582           | 0.7          |
+| Avar (Europe)                   | 580           | 2            |
+| T’u Chueh Turk (C. Asia)        | 550           | 0.9          |
+| Visigoth (Europe)               | 470           | 2.4          |
+| White Hun (Indo-Iran)           | 460           | 1            |
+| Toba (China)                    | 440           | 1.3          |
+| Yuen-Yuen (C. Asia)             | 400           | 0.3          |
+| Byzantine (Europe)              | 395           | 3.5          |
+| Hun (Europe)                    | 380           | 0.8          |
+| Gupta (India)                   | 370           | 0.9          |
+| Liu-Sung (China)                | 330           | 2.1          |
+| Ptolemaic (Africa)              | 323           | 2.9          |
+| Bactria (Indo-Iran)             | 200           | 0.6          |
+| Kushan (Indo-Iran)              | 75            | 2            |
+| Rome (Europe)                   | 0             | 4            |
+| Saka (Indo-Iran)                | -50           | 1.2          |
+| Parthia (Iran)                  | -60           | 7            |
+| Ch’in (China)                   | -90           | 2.9          |
+| Andhra (India)                  | -170          | 3.7          |
+| Hsiung Nu Hun (C. Asia)         | -190          | 1            |
+| Maghada-Maurya (India)          | -300          | 0.9          |
+| Achaemenid (Iran)               | -540          | 3.2          |
+| Lydia (Anatolia)                | -610          | 0.6          |
+| New Babylon (Mesopotamia)       | -610          | 0.7          |
+| New Assyrian (Mesopotamia)      | -700          | 0.8          |
+| Late Period (Egypt)             | -715          | 1.9          |
+| Phrygia (Anatolia)              | -760          | 0.6          |
+| Urartu (Mesopotamia)            | -810          | 0.9          |
+| Babylon (Mesopotamia)           | -1000         | 2.5          |
+| Middle Assyrian (Mesopotamia)   | -1090         | 0.5          |
+| Hittite (Anatolia)              | -1320         | 1.3          |
+| Hsia-Shang (China)              | -1350         | 4            |
+| New Empire (Egypt)              | -1500         | 5            |
+| Mitanni (Mesopotamia)           | -1500         | 1.4          |
+| Elam (Mesopotamia)              | -1600         | 10           |
+| Hykso (Syria)                   | -1650         | 0.8          |
+| Babylon—Hammurabi (Mesopotamia) | -1700         | 2            |
+| Old Assyria (Mesopotamia)       | -1800         | 1            |
+| Middle Empire (Egypt)           | -2000         | 3            |
+| Akadia (Mesopotamia)            | -2310         | 1            |
+| Old Empire (Egypt)              | -2800         | 5            |
 
 ### Related Posts:
 

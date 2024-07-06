@@ -74,7 +74,22 @@ Let’s imagine a more realistic trajectory for the replacement effort. In our s
 
 The energy investment still forces us to steepen the decline, initially looking like a 3.2% rather than a 2% decline. But it’s not as jarring as a sudden 8% drop. On the other hand, we fall farther before pulling out, bottoming out at \>14% total drop around years 8–9. It takes more than 10 years to make out better than the do-nothing approach in terms of net energy loss. A table corresponding to the plot appears below for those interested in poring over the numbers to figure out how this game is played.
 
-|      |              |     |       |        |        |         |          | |------|--------------|-----|-------|--------|--------|---------|----------| | year | fossil fuels | add | total | invest | avail. | FF loss | net loss | | 0    | 100          | 0   | 0     | 0      | 100    | 0       | 0        | | 1    | 98           | 0.4 | 0.4   | 1.6    | 96.8   | 2       | 3.2      | | 2    | 96           | 0.8 | 1.2   | 3.2    | 94.0   | 6       | 9.2      | | 3    | 94           | 1.2 | 2.4   | 4.8    | 91.6   | 12      | 17.6     | | 4    | 92           | 1.6 | 4.0   | 6.4    | 89.6   | 20      | 28.0     | | 5    | 90           | 2.0 | 6.0   | 8.0    | 88.0   | 30      | 40.0     | | 6    | 88           | 2.4 | 8.4   | 9.6    | 86.8   | 42      | 53.2     | | 7    | 86           | 2.8 | 11.2  | 11.2   | 86.0   | 56      | 67.2     | | 8    | 84           | 3.2 | 14.4  | 12.8   | 85.6   | 72      | 81.6     | | 9    | 82           | 3.6 | 18.0  | 14.4   | 85.6   | 90      | 96.0     | | 10   | 80           | 4.0 | 22.0  | 16.0   | 86.0   | 110     | 110      | | 11   | 78           | 4.0 | 26.0  | 16.0   | 88.0   | 132     | 122      | | 12   | 76           | 4.0 | 30.0  | 16.0   | 90.0   | 156     | 132      |
+|      |              |     |       |        |        |         |          |
+|------|--------------|-----|-------|--------|--------|---------|----------|
+| year | fossil fuels | add | total | invest | avail. | FF loss | net loss |
+| 0    | 100          | 0   | 0     | 0      | 100    | 0       | 0        |
+| 1    | 98           | 0.4 | 0.4   | 1.6    | 96.8   | 2       | 3.2      |
+| 2    | 96           | 0.8 | 1.2   | 3.2    | 94.0   | 6       | 9.2      |
+| 3    | 94           | 1.2 | 2.4   | 4.8    | 91.6   | 12      | 17.6     |
+| 4    | 92           | 1.6 | 4.0   | 6.4    | 89.6   | 20      | 28.0     |
+| 5    | 90           | 2.0 | 6.0   | 8.0    | 88.0   | 30      | 40.0     |
+| 6    | 88           | 2.4 | 8.4   | 9.6    | 86.8   | 42      | 53.2     |
+| 7    | 86           | 2.8 | 11.2  | 11.2   | 86.0   | 56      | 67.2     |
+| 8    | 84           | 3.2 | 14.4  | 12.8   | 85.6   | 72      | 81.6     |
+| 9    | 82           | 3.6 | 18.0  | 14.4   | 85.6   | 90      | 96.0     |
+| 10   | 80           | 4.0 | 22.0  | 16.0   | 86.0   | 110     | 110      |
+| 11   | 78           | 4.0 | 26.0  | 16.0   | 88.0   | 132     | 122      |
+| 12   | 76           | 4.0 | 30.0  | 16.0   | 90.0   | 156     | 132      |
 
 Note that anywhere along the path, a cessation of the replacement effort will bring instant relief. For example, at the beginning of year 6, having installed 6 units of replacement energy up to that point, abandoning the effort will see 88 units of fossil fuel plus the 6 units of replacement for a total of 94 units. This would be a considerable step up from the previous year’s 88 units of available energy, and an even larger apparent gain over the 86.8 units that would be available under a continuation of the crash program. Likewise, if one stopped the program at the end of ten years, the installed 22 units of replacement would complement the eleventh-year fossil fuel amount of 78 units to bring us back to a peachy 100 units—like nothing had ever happened, and *far* better than the 88 units that we would otherwise endure under a continuation of the program. But stopping renews the dangerous decline. The point is that there will always be a *strong temptation* to end the short-term pain for immediate relief.
 

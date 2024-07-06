@@ -27,7 +27,39 @@ Of course, I ran Treemix too. Again, the closeness of the Anatolian Greeks/Cypri
 
 Finally, there’s the f3 statistics. They basically show what I’m saying above: Armenians and Anatolian Greeks are both good model sources for Turks. The likely truth is that there is gene flow from all across Anatolia into these Turkish samples.
 
-|               |                   |             |         |          | |---------------|-------------------|-------------|---------|----------| | **Group**     | **X1**            | **X2**      | **f3**  | **z**    | | Turkey        | anatolian_cypriot | Dai         | -0.0029 | -36.3940 | | Turkey        | Armenians         | Dai         | -0.0026 | -34.2083 | | Turkey        | Greece3           | Dai         | -0.0025 | -32.7389 | | Turkey        | Georgian          | Dai         | -0.0026 | -30.8836 | | Turkey        | Greece2           | Dai         | -0.0024 | -29.5462 | | Turkey        | GreekCentral      | Dai         | -0.0025 | -23.6454 | | Turkey        | Greece1           | Dai         | -0.0026 | -23.0283 | | Turkey        | GreekThessaly     | Dai         | -0.0024 | -20.1595 | | Turkey        | Armenians         | Lithuanians | -0.0005 | -11.5356 | | Turkey        | Lithuanians       | Dai         | -0.0012 | -10.7473 | | Turkey        | Georgian          | Lithuanians | -0.0004 | -7.9691  | | GreekThessaly | Armenians         | Lithuanians | -0.0006 | -6.6390  | | GreekThessaly | anatolian_cypriot | Lithuanians | -0.0006 | -6.3748  | | GreekThessaly | Greece3           | Lithuanians | -0.0005 | -4.6347  | | Greece2       | anatolian_cypriot | Lithuanians | -0.0008 | -15.7114 | | Greece2       | Armenians         | Lithuanians | -0.0008 | -14.4083 | | Greece2       | Greece3           | Lithuanians | -0.0005 | -10.4508 | | Greece2       | Georgian          | Lithuanians | -0.0005 | -8.2727  | | Greece1       | anatolian_cypriot | Lithuanians | -0.0006 | -6.5563  | | Greece1       | Armenians         | Lithuanians | -0.0005 | -6.3712  | | Greece1       | Greece3           | Lithuanians | -0.0004 | -4.7896  | | Greece1       | Georgian          | Lithuanians | -0.0003 | -3.1104  | | balkan_turk   | Greece1           | Dai         | -0.0024 | -7.1425  | | balkan_turk   | GreekThessaly     | Dai         | -0.0021 | -6.1764  | | balkan_turk   | GreekCentral      | Dai         | -0.0021 | -5.7848  | | balkan_turk   | Greece2           | Dai         | -0.0019 | -5.6794  | | balkan_turk   | anatolian_cypriot | Dai         | -0.0019 | -5.5944  | | balkan_turk   | Armenians         | Lithuanians | -0.0014 | -5.3207  | | balkan_turk   | Greece3           | Dai         | -0.0017 | -5.0815  | | balkan_turk   | Lithuanians       | Dai         | -0.0017 | -5.0190  |
+|               |                   |             |         |          |
+|---------------|-------------------|-------------|---------|----------|
+| **Group**     | **X1**            | **X2**      | **f3**  | **z**    |
+| Turkey        | anatolian_cypriot | Dai         | -0.0029 | -36.3940 |
+| Turkey        | Armenians         | Dai         | -0.0026 | -34.2083 |
+| Turkey        | Greece3           | Dai         | -0.0025 | -32.7389 |
+| Turkey        | Georgian          | Dai         | -0.0026 | -30.8836 |
+| Turkey        | Greece2           | Dai         | -0.0024 | -29.5462 |
+| Turkey        | GreekCentral      | Dai         | -0.0025 | -23.6454 |
+| Turkey        | Greece1           | Dai         | -0.0026 | -23.0283 |
+| Turkey        | GreekThessaly     | Dai         | -0.0024 | -20.1595 |
+| Turkey        | Armenians         | Lithuanians | -0.0005 | -11.5356 |
+| Turkey        | Lithuanians       | Dai         | -0.0012 | -10.7473 |
+| Turkey        | Georgian          | Lithuanians | -0.0004 | -7.9691  |
+| GreekThessaly | Armenians         | Lithuanians | -0.0006 | -6.6390  |
+| GreekThessaly | anatolian_cypriot | Lithuanians | -0.0006 | -6.3748  |
+| GreekThessaly | Greece3           | Lithuanians | -0.0005 | -4.6347  |
+| Greece2       | anatolian_cypriot | Lithuanians | -0.0008 | -15.7114 |
+| Greece2       | Armenians         | Lithuanians | -0.0008 | -14.4083 |
+| Greece2       | Greece3           | Lithuanians | -0.0005 | -10.4508 |
+| Greece2       | Georgian          | Lithuanians | -0.0005 | -8.2727  |
+| Greece1       | anatolian_cypriot | Lithuanians | -0.0006 | -6.5563  |
+| Greece1       | Armenians         | Lithuanians | -0.0005 | -6.3712  |
+| Greece1       | Greece3           | Lithuanians | -0.0004 | -4.7896  |
+| Greece1       | Georgian          | Lithuanians | -0.0003 | -3.1104  |
+| balkan_turk   | Greece1           | Dai         | -0.0024 | -7.1425  |
+| balkan_turk   | GreekThessaly     | Dai         | -0.0021 | -6.1764  |
+| balkan_turk   | GreekCentral      | Dai         | -0.0021 | -5.7848  |
+| balkan_turk   | Greece2           | Dai         | -0.0019 | -5.6794  |
+| balkan_turk   | anatolian_cypriot | Dai         | -0.0019 | -5.5944  |
+| balkan_turk   | Armenians         | Lithuanians | -0.0014 | -5.3207  |
+| balkan_turk   | Greece3           | Dai         | -0.0017 | -5.0815  |
+| balkan_turk   | Lithuanians       | Dai         | -0.0017 | -5.0190  |
 
 ### Related Posts:
 

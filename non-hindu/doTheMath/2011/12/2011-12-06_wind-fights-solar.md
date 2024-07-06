@@ -49,7 +49,14 @@ The National Renewable Energy Lab (NREL) performed a 30-year study of insolation
 
 A table comparing the worst, typical, and best sites in the U.S. provides some useful numbers to chew on. For each location, three modes are considered: flat panel tilted at latitude (typical PV); flat panel with 2-axis tracking of the Sun; and concentration requiring 2-axis tracking and direct sun (e.g., for solar thermal, which is intolerant of clouds). For each mode, three daily-average numbers are given: worst month—**yearly average**—best month. Values are in kWh/m²/day, and averaged over the 30-year data span. Yearly variation is detailed in the raw data. Think of the numbers as equivalent full-sun hours per day.
 
-|                |                 |                  |                 | |----------------|-----------------|------------------|-----------------| | Location       | Fixed Tilt      | 2-axis Tracking  | Concentration   | | Dagget, CA     | 5.2—**6.6**—7.4 | 6.8—**9.4**—12.0 | 5.4—**7.5**—9.7 | | San Diego, CA  | 4.6—**5.7**—6.5 | 5.9—**7.4**—8.9  | 4.5—**5.3**—6.3 | | St. Louis, MO  | 3.1—**4.8**—5.9 | 3.7—**6.3**—8.5  | 2.4—**4.1**—5.5 | | Quillayute, WA | 1.5—**3.4**—4.8 | 1.7—**4.4**—6.8  | 1.0—**2.6**—4.0 | | Fairbanks, AK  | 0.3—**3.3**—5.6 | 0.3—**4.7**—8.7  | 0.3—**2.9**—5.3 |
+|                |                 |                  |                 |
+|----------------|-----------------|------------------|-----------------|
+| Location       | Fixed Tilt      | 2-axis Tracking  | Concentration   |
+| Dagget, CA     | 5.2—**6.6**—7.4 | 6.8—**9.4**—12.0 | 5.4—**7.5**—9.7 |
+| San Diego, CA  | 4.6—**5.7**—6.5 | 5.9—**7.4**—8.9  | 4.5—**5.3**—6.3 |
+| St. Louis, MO  | 3.1—**4.8**—5.9 | 3.7—**6.3**—8.5  | 2.4—**4.1**—5.5 |
+| Quillayute, WA | 1.5—**3.4**—4.8 | 1.7—**4.4**—6.8  | 1.0—**2.6**—4.0 |
+| Fairbanks, AK  | 0.3—**3.3**—5.6 | 0.3—**4.7**—8.7  | 0.3—**2.9**—5.3 |
 
 I threw in San Diego, California and Fairbanks, Alaska for reference. I could devote a whole post to chewing on these results and what they tell us. I won’t, but I can’t help pointing out that Fairbanks—at 65° latitude—is competitive with Quillayute, and on an annual average basis gathers 50% as much energy as the smokin’ California desert! Yes, December is bleak, and *seasonal* storage is *very* tough. But still, I’m impressed.
 

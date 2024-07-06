@@ -90,7 +90,15 @@ Tired of having the dead battery act as an energy drain on the system, I finally
 
 Testing the cells with a hydrometer, it is not hard to identify the weak cell, which has an off-scale-low specific density (below 1.10). For a sense of the numbers/variation, the table below lists measured values.
 
-|          |           |           | |----------|-----------|-----------| | **Cell** | **Bat E** | **Bat F** | | 1        | 1.235     | 1.275     | | 2        | 1.235     | 1.230     | | 3        | 1.290     | 1.275     | | 4        | \<1.1     | 1.245     | | 5        | 1.275     | 1.275     | | 6        | 1.275     | 1.250     |
+|          |           |           |
+|----------|-----------|-----------|
+| **Cell** | **Bat E** | **Bat F** |
+| 1        | 1.235     | 1.275     |
+| 2        | 1.235     | 1.230     |
+| 3        | 1.290     | 1.275     |
+| 4        | \<1.1     | 1.245     |
+| 5        | 1.275     | 1.275     |
+| 6        | 1.275     | 1.250     |
 
 ### The Edge of the Cliff
 

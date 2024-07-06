@@ -9,7 +9,20 @@ Source: [here](https://www.gnxp.com/WordPress/2017/04/12/this-website-is-wicked-
 
 This website is wicked popular in Boston
 
-|                                                     |                  | |:----------------------------------------------------|:-----------------| | **Traffic Feb 1 2017 to Apr 1 2017, top 10 cities** |                  | | **GNXP.COM**                                        | **GNXP.NOFE.ME** | | New York                                            | Boston           | | London                                              | New York         | | Sydney                                              | London           | | Los Angeles                                         | Los Angeles      | | Melbourne                                           | Chicago          | | Madrid                                              | Washington       | | Toronto                                             | San Francisco    | | Chicago                                             | Seattle          | | Washington                                          | Toronto          | | Brisbane                                            | Dallas           |
+|                                                     |                  |
+|:----------------------------------------------------|:-----------------|
+| **Traffic Feb 1 2017 to Apr 1 2017, top 10 cities** |                  |
+| **GNXP.COM**                                        | **GNXP.NOFE.ME** |
+| New York                                            | Boston           |
+| London                                              | New York         |
+| Sydney                                              | London           |
+| Los Angeles                                         | Los Angeles      |
+| Melbourne                                           | Chicago          |
+| Madrid                                              | Washington       |
+| Toronto                                             | San Francisco    |
+| Chicago                                             | Seattle          |
+| Washington                                          | Toronto          |
+| Brisbane                                            | Dallas           |
 
 Weird pattern in terms of top cities that read this new version of GNXP. I’m comparing to the old blog over the same time…most of that is search engine traffic, so it’s not totally representative. The Australian overrepresentation is strange to me but it may be some Australian focused blog posts were promoted on some site down under. As search engine traffic increases on this website I’m assuming New York will be taking the top slot….
 

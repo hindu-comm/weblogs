@@ -17,7 +17,13 @@ When the “average person on the street” thinks upper class they think first 
 
 
 
-|                    |                |         |              |         |              |         |                | |--------------------|----------------|---------|--------------|---------|--------------|---------|----------------| | **Family Income**  | **Strong Dem** | **Dem** | **Lean Dem** | **Ind** | **Lean Rep** | **Rep** | **Strong Rep** | | Less than \$20,000 | 12             | 15      | 12           | 24      | 9            | 15      | 12             | | \$20-\$40,000      | 12             | 15      | 10           | 18      | 11           | 19      | 15             | | \$40-\$80,000      | 11             | 14      | 10           | 13      | 11           | 24      | 18             | | More than \$80,000 | 12             | 12      | 10           | 11      | 11           | 23      | 21             |
+|                    |                |         |              |         |              |         |                |
+|--------------------|----------------|---------|--------------|---------|--------------|---------|----------------|
+| **Family Income**  | **Strong Dem** | **Dem** | **Lean Dem** | **Ind** | **Lean Rep** | **Rep** | **Strong Rep** |
+| Less than \$20,000 | 12             | 15      | 12           | 24      | 9            | 15      | 12             |
+| \$20-\$40,000      | 12             | 15      | 10           | 18      | 11           | 19      | 15             |
+| \$40-\$80,000      | 11             | 14      | 10           | 13      | 11           | 24      | 18             |
+| More than \$80,000 | 12             | 12      | 10           | 11      | 11           | 23      | 21             |
 
 [![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/03/rep1.jpg?resize=540%2C309)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/03/rep1.jpg?resize=540%2C309)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/03/rep1.jpg)
 

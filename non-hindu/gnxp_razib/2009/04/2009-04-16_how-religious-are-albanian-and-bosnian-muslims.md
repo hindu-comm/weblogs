@@ -13,19 +13,76 @@ There are some really weird comments about Albania below. Part of these confusio
 The [World Values Survey](http://www.worldvaluessurvey.org/) can help answer these questions, or least put some numbers on them. In addition to Bosnia & Albania, I also present data from Poland and Turkey, as points of comparison. Poland being one of the more Christian European countries, and Turkey being a secular, of not ex-communist, Muslim one.  
 Below are the data….
 
-|     |             |         |        |        |        | |-----|-------------|---------|--------|--------|--------| |    |             | Albania | Bosnia | Poland | Turkey | |    | Atheist     | 8.3     | 12     | 2.7    | 1.9    | |    | Not Atheist | 91.7    | 88     | 97.3   | 98.1   | |    |            |        |       |       |       |
+|     |             |         |        |        |        |
+|-----|-------------|---------|--------|--------|--------|
+|    |             | Albania | Bosnia | Poland | Turkey |
+|    | Atheist     | 8.3     | 12     | 2.7    | 1.9    |
+|    | Not Atheist | 91.7    | 88     | 97.3   | 98.1   |
+|    |            |        |       |       |       |
 
-|     |                    |         |        |        |        | |-----|--------------------|---------|--------|--------|--------| |    |                   | Albania | Bosnia | Poland | Turkey | |    | A religious person | 68.3    | 74.3   | 94.4   | 80.6   | |    | Not religious      | 26.2    | 20.0   | 4.4    | 18.4   | |    | Convinced atheist  | 5.5     | 5.7    | 1.2    | 1.0    | |    |                   |        |       |       |       |
+|     |                    |         |        |        |        |
+|-----|--------------------|---------|--------|--------|--------|
+|    |                   | Albania | Bosnia | Poland | Turkey |
+|    | A religious person | 68.3    | 74.3   | 94.4   | 80.6   |
+|    | Not religious      | 26.2    | 20.0   | 4.4    | 18.4   |
+|    | Convinced atheist  | 5.5     | 5.7    | 1.2    | 1.0    |
+|    |                   |        |       |       |       |
 
-|     |                    |         |        |        |        | |-----|--------------------|---------|--------|--------|--------| |    |                    | Albania | Bosnia | Poland | Turkey | |    | No Religion        | 13      | 24.7   | 4.3    | 1.9    | |    | Belong to Religion | 87      | 75.3   | 95.7   | 98.1   | |    |                   |        |       |       |       |
+|     |                    |         |        |        |        |
+|-----|--------------------|---------|--------|--------|--------|
+|    |                    | Albania | Bosnia | Poland | Turkey |
+|    | No Religion        | 13      | 24.7   | 4.3    | 1.9    |
+|    | Belong to Religion | 87      | 75.3   | 95.7   | 98.1   |
+|    |                   |        |       |       |       |
 
-|     |          |         |        |        |        | |-----|----------|---------|--------|--------|--------| |    |         | Albania | Bosnia | Poland | Turkey | |    | Muslim   | 66.9    | 54.5   | –      | 99.4   | |    | Orthodox | 20.8    | 27.8   | 0.3    | –      | |    | Catholic | 10.1    | 17.3   | 98.3   | 0.4    | |    |         |        |       |       |       |
+|     |          |         |        |        |        |
+|-----|----------|---------|--------|--------|--------|
+|    |         | Albania | Bosnia | Poland | Turkey |
+|    | Muslim   | 66.9    | 54.5   | –      | 99.4   |
+|    | Orthodox | 20.8    | 27.8   | 0.3    | –      |
+|    | Catholic | 10.1    | 17.3   | 98.3   | 0.4    |
+|    |         |        |       |       |       |
 
-|                                      |                           |         |        |        |        | |--------------------------------------|---------------------------|---------|--------|--------|--------| | **Attendance At Religious Services** |                           | Albania | Bosnia | Poland | Turkey | |                                     | More than once a week     | 3.8     | 11.8   | 8.6    | 18.4   | |                                     | Once a week               | 16.5    | 15.9   | 50.4   | 19.2   | |                                     | Once a month              | 9.1     | 17.5   | 19.2   | 1.9    | |                                     | Only on special holy days | 32.4    | 29.4   | 9.3    | 16     | |                                     | Once a year               | 5       | 4.6    | 1.6    | 5.8    | |                                     | Less often                | 9.9     | 7.1    | 3.2    | 3.3    | |                                     | Never                     | 23      | 13.8   | 5.3    | 35.3   | |                                     |                          |        |       |       |       |
+|                                      |                           |         |        |        |        |
+|--------------------------------------|---------------------------|---------|--------|--------|--------|
+| **Attendance At Religious Services** |                           | Albania | Bosnia | Poland | Turkey |
+|                                     | More than once a week     | 3.8     | 11.8   | 8.6    | 18.4   |
+|                                     | Once a week               | 16.5    | 15.9   | 50.4   | 19.2   |
+|                                     | Once a month              | 9.1     | 17.5   | 19.2   | 1.9    |
+|                                     | Only on special holy days | 32.4    | 29.4   | 9.3    | 16     |
+|                                     | Once a year               | 5       | 4.6    | 1.6    | 5.8    |
+|                                     | Less often                | 9.9     | 7.1    | 3.2    | 3.3    |
+|                                     | Never                     | 23      | 13.8   | 5.3    | 35.3   |
+|                                     |                          |        |       |       |       |
 
-|                                                                      |     |     |         |          |          |        |          |          |          |        | |----------------------------------------------------------------------|-----|-----|---------|----------|----------|--------|----------|----------|----------|--------| | **Politicians Who Don’t Believe In God Are Unfit For Public Office** |     |     |         |          |          |        |          |          |          |        | |                                                                     |    |    | Albania |         |         | Bosnia |         |         | Poland   | Turkey | |                                                                     |    |    | Muslim  | Orthodox | Catholic | Muslim | Orthodox | Catholic | Catholic | Muslim | | Agree strongly                                                       |     |     | 17      | 9.4      | 19.7     | 5.4    | 5.6      | 5.3      | 7.4      | 31.2   | | Agree                                                                |     |     | 29.9    | 27.6     | 27.6     | 12.3   | 13.0     | 4.7      | 9.9      | 30.2   | | Neither agree or disagree                                            |     |     | 27.2    | 27.1     | 27.6     | 37.5   | 30.2     | 40       | 19.6     | 12.3   | | Disagree                                                             |     |     | 18.9    | 24.1     | 21.1     | 25.6   | 37.7     | 26       | 45.1     | 17.9   | | Disagree Strongly                                                    |     |     | 7       | 11.8     | 3.9      | 19.2   | 13.5     | 24       | 19       | 8.4    | |                                                                     |     |     |        |         |         |       |         |         |         |       |
+|                                                                      |     |     |         |          |          |        |          |          |          |        |
+|----------------------------------------------------------------------|-----|-----|---------|----------|----------|--------|----------|----------|----------|--------|
+| **Politicians Who Don’t Believe In God Are Unfit For Public Office** |     |     |         |          |          |        |          |          |          |        |
+|                                                                     |    |    | Albania |         |         | Bosnia |         |         | Poland   | Turkey |
+|                                                                     |    |    | Muslim  | Orthodox | Catholic | Muslim | Orthodox | Catholic | Catholic | Muslim |
+| Agree strongly                                                       |     |     | 17      | 9.4      | 19.7     | 5.4    | 5.6      | 5.3      | 7.4      | 31.2   |
+| Agree                                                                |     |     | 29.9    | 27.6     | 27.6     | 12.3   | 13.0     | 4.7      | 9.9      | 30.2   |
+| Neither agree or disagree                                            |     |     | 27.2    | 27.1     | 27.6     | 37.5   | 30.2     | 40       | 19.6     | 12.3   |
+| Disagree                                                             |     |     | 18.9    | 24.1     | 21.1     | 25.6   | 37.7     | 26       | 45.1     | 17.9   |
+| Disagree Strongly                                                    |     |     | 7       | 11.8     | 3.9      | 19.2   | 13.5     | 24       | 19       | 8.4    |
+|                                                                     |     |     |        |         |         |       |         |         |         |       |
 
-|                                        |     |     |         |          |          |        |          |          |          |        | |----------------------------------------|-----|-----|---------|----------|----------|--------|----------|----------|----------|--------| | **How Important Is God In Your Life?** |     |     |         |          |          |        |          |          |          |        | |                                       |    |    | Albania |         |         | Bosnia |         |         | Poland   | Turkey | |                                       |    |    | Muslim  | Orthodox | Catholic | Muslim | Orthodox | Catholic | Catholic | Muslim | | Not Important                          |     |     | 4.4     | 4.4      | 2.3      | 3.5    | 5.3      | 2.6      | 0.5      | 1.5    | | 2                                      |     |     | 2.8     | 2.8      | 1.1      | 0.2    | 2        | 1.9      | 0.6      | 0.4    | | 3                                      |     |     | 4       | 6.7      | 1.1      | 0.6    | 2.8      | 1.9      | 0.7      | 0.9    | | 4                                      |     |     | 4.4     | 6.7      | 1.1      | 1      | 1.2      | 5.2      | 1.8      | 0.5    | | 5                                      |     |     | 5.7     | 12.2     | 2.3      | 7.2    | 13.8     | 7.8      | 7        | 2.8    | | 6                                      |     |     | 4.5     | 3.9      | 3.4      | 4.8    | 5.3      | 7.1      | 5.2      | 1.2    | | 7                                      |     |     | 12.9    | 13.3     | 5.7      | 6.8    | 13       | 8.4      | 8.7      | 1.7    | | 8                                      |     |     | 11      | 9.4      | 10.2     | 9.1    | 18       | 9.7      | 11.3     | 4.6    | | 9                                      |     |     | 15.2    | 13.9     | 18.2     | 10.3   | 11       | 4.5      | 10.3     | 6.4    | | Very Important                         |     |     | 35.2    | 26.7     | 54.5     | 56.4   | 27.2     | 50.6     | 53.8     | 79.9   | |                                       |     |     |        |         |         |       |         |         |         |       |
+|                                        |     |     |         |          |          |        |          |          |          |        |
+|----------------------------------------|-----|-----|---------|----------|----------|--------|----------|----------|----------|--------|
+| **How Important Is God In Your Life?** |     |     |         |          |          |        |          |          |          |        |
+|                                       |    |    | Albania |         |         | Bosnia |         |         | Poland   | Turkey |
+|                                       |    |    | Muslim  | Orthodox | Catholic | Muslim | Orthodox | Catholic | Catholic | Muslim |
+| Not Important                          |     |     | 4.4     | 4.4      | 2.3      | 3.5    | 5.3      | 2.6      | 0.5      | 1.5    |
+| 2                                      |     |     | 2.8     | 2.8      | 1.1      | 0.2    | 2        | 1.9      | 0.6      | 0.4    |
+| 3                                      |     |     | 4       | 6.7      | 1.1      | 0.6    | 2.8      | 1.9      | 0.7      | 0.9    |
+| 4                                      |     |     | 4.4     | 6.7      | 1.1      | 1      | 1.2      | 5.2      | 1.8      | 0.5    |
+| 5                                      |     |     | 5.7     | 12.2     | 2.3      | 7.2    | 13.8     | 7.8      | 7        | 2.8    |
+| 6                                      |     |     | 4.5     | 3.9      | 3.4      | 4.8    | 5.3      | 7.1      | 5.2      | 1.2    |
+| 7                                      |     |     | 12.9    | 13.3     | 5.7      | 6.8    | 13       | 8.4      | 8.7      | 1.7    |
+| 8                                      |     |     | 11      | 9.4      | 10.2     | 9.1    | 18       | 9.7      | 11.3     | 4.6    |
+| 9                                      |     |     | 15.2    | 13.9     | 18.2     | 10.3   | 11       | 4.5      | 10.3     | 6.4    |
+| Very Important                         |     |     | 35.2    | 26.7     | 54.5     | 56.4   | 27.2     | 50.6     | 53.8     | 79.9   |
+|                                       |     |     |        |         |         |       |         |         |         |       |
 
 Some notes:  
 1) The data are probably best as comparisons **across countries**. They don’t match up with other data from other surveys, probably because of the way wording influences people.  

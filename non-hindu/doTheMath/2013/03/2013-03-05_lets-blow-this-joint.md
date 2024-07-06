@@ -69,7 +69,16 @@ The other necessary preparation for this room-by-room test is sealing off all ce
 
 Below is a table of the separate partitions in my house and how much conductance I found for each, along with some indication about what makes that room have the characteristics it does. Cans refer to can lights. Doors refer to external-access doors.
 
-|                 |          |                                                       |                 | |-----------------|----------|-------------------------------------------------------|-----------------| | **Section**     | **Area** | **Features**                                          | **Conductance** | | Kitchen/DR/Hall | 29%      | fireplace, 7 cans, hood/vent, attic access, 2 windows | 17.8            | | Master Suite    | 28%      | double door, 8 cans, two vent fans, 2 skylights       | 11.8            | | Living Room     | 24%      | sliding door, door to garage, 10 cans, skylight       | 8               | | Guest Bath      | 2.7%     | vent fan, 3 cans, skylight                            | 5.4             | | Bedroom         | 9.1%     | 1 window                                              | 1.6             | | Bedroom         | 2.4%     | 1 window                                              | 1.2             | | Ducting         | —        | intake and 12 vents                                   | 4.8             |
+|                 |          |                                                       |                 |
+|-----------------|----------|-------------------------------------------------------|-----------------|
+| **Section**     | **Area** | **Features**                                          | **Conductance** |
+| Kitchen/DR/Hall | 29%      | fireplace, 7 cans, hood/vent, attic access, 2 windows | 17.8            |
+| Master Suite    | 28%      | double door, 8 cans, two vent fans, 2 skylights       | 11.8            |
+| Living Room     | 24%      | sliding door, door to garage, 10 cans, skylight       | 8               |
+| Guest Bath      | 2.7%     | vent fan, 3 cans, skylight                            | 5.4             |
+| Bedroom         | 9.1%     | 1 window                                              | 1.6             |
+| Bedroom         | 2.4%     | 1 window                                              | 1.2             |
+| Ducting         | —        | intake and 12 vents                                   | 4.8             |
 
 The common area connected to the front door in my house includes the kitchen, dining room, and hallway. Of significance, this space hosts a fireplace, a ventilation hood, 7 can lights in the ceiling, and three central air ducts. I measured a conductance of 17.8 (890cfm at 50Pa). Opening the fireplace damper added a whopping 11 units of conductance.
 

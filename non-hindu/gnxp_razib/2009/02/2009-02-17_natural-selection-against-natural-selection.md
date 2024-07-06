@@ -11,7 +11,24 @@ Natural selection against natural selection
 
 I looked in the GSS on the number of children and age when first child born for evolution related questions. The number of children and age when first child is born should determine the rate of natural increase of a population (balanced with deaths).
 
-|                                         |                    |                               | |-----------------------------------------|--------------------|-------------------------------| |                                        | **\# of children** | **Age when first child born** | | **Humans Evolved From Animals**         |                   |                              | | *Definitely True*                       | 1.40               | 26.37                         | | *Probably True*                         | 1.75               | 23.72                         | | *Probably Not True*                     | 1.85               | 23.31                         | | *Definitely Not True*                   | 2.12               | 23.00                         | |                                        |                   |                              | | **Origin and Development of Man**       |                   |                              | | *God Created Man*                       | 2.14               | 23.60                         | | *Man Has Evolved, But God Guided*       | 1.56               | 25.13                         | | *Man Has Evolved*                       | 1.62               | 26.22                         | |                                        |                   |                              | | **Human Beings Developed From Animals** |                   |                              | | *True*                                  | 1.39               | 25.68                         | | *False*                                 | 2.09               | 23.04                         | |                                        |                   |                              |
+|                                         |                    |                               |
+|-----------------------------------------|--------------------|-------------------------------|
+|                                        | **\# of children** | **Age when first child born** |
+| **Humans Evolved From Animals**         |                   |                              |
+| *Definitely True*                       | 1.40               | 26.37                         |
+| *Probably True*                         | 1.75               | 23.72                         |
+| *Probably Not True*                     | 1.85               | 23.31                         |
+| *Definitely Not True*                   | 2.12               | 23.00                         |
+|                                        |                   |                              |
+| **Origin and Development of Man**       |                   |                              |
+| *God Created Man*                       | 2.14               | 23.60                         |
+| *Man Has Evolved, But God Guided*       | 1.56               | 25.13                         |
+| *Man Has Evolved*                       | 1.62               | 26.22                         |
+|                                        |                   |                              |
+| **Human Beings Developed From Animals** |                   |                              |
+| *True*                                  | 1.39               | 25.68                         |
+| *False*                                 | 2.09               | 23.04                         |
+|                                        |                   |                              |
 
 ### Related Posts:
 

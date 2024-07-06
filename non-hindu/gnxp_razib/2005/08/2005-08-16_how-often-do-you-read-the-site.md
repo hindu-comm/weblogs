@@ -11,7 +11,16 @@ How often do you read the site….
 
   
 
-|                                                          |                      | |----------------------------------------------------------|----------------------| | **How often do you read the site?**                      |                      | |                                                          | More than once a day | |                                                          | Once a day           | |                                                          | A few times a week   | |                                                          | Once a week          | |                                                          | A few times a month  | |                                                        |                      | | [Free polls from Pollhost.com](http://www.pollhost.com/) |                      |
+|                                                          |                      |
+|----------------------------------------------------------|----------------------|
+| **How often do you read the site?**                      |                      |
+|                                                          | More than once a day |
+|                                                          | Once a day           |
+|                                                          | A few times a week   |
+|                                                          | Once a week          |
+|                                                          | A few times a month  |
+|                                                        |                      |
+| [Free polls from Pollhost.com](http://www.pollhost.com/) |                      |
 
 If you want to know why I ask, I’m curious as to how many days old the posts on the front page should get. I shift it between 3-5 days, with 4 being the mode.
 

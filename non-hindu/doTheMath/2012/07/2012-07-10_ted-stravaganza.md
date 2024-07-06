@@ -151,7 +151,21 @@ As a matter of convenience, I gather the results of the various measurements rep
 
 
 
-|                                      |                 |               |                              | |--------------------------------------|-----------------|---------------|------------------------------| | **Activity**                         | **Energy (Wh)** | **Daily Use** | **Notes/Conditions**         | | Garage Door Open                     | 0.36            | 1.4           | 2 open/close per day         | | Garage Door with Light               | 1.5             | 6.0           | 2 open/close per day         | | Mowing Small Lawn                    | 57              | 8             | weekly, summer months        | | Clothes Washer Cycle                 | 132             | 30            | at 1.5 loads per week        | | Rice Cooker                          | 180             | 50            | at twice per week            | | Heating Pad, 1 hour                  | 30              | 90            | at 3 hr/day in winter        | | Sawing 40 ft of Stair Stringers      | 370             | —             | not habitual                 | | Microwave, 5 minutes                 | 150             | 150           | 5 min/day                    | | Furnace Blower, 1 cycle              | 80              | 160           | at 20 cycles/day (if used)   | | Mattress Pad, full-blast, both sides | 60              | 240           | 8 hr/day, half-blast, winter | | Space Heater, 1 hour                 | 1400            | 280           | at 12 minutes/day, winter    | | Refrigerator, 1 cycle                | 20              | 1000          | efficient (40 W) fridge      |
+|                                      |                 |               |                              |
+|--------------------------------------|-----------------|---------------|------------------------------|
+| **Activity**                         | **Energy (Wh)** | **Daily Use** | **Notes/Conditions**         |
+| Garage Door Open                     | 0.36            | 1.4           | 2 open/close per day         |
+| Garage Door with Light               | 1.5             | 6.0           | 2 open/close per day         |
+| Mowing Small Lawn                    | 57              | 8             | weekly, summer months        |
+| Clothes Washer Cycle                 | 132             | 30            | at 1.5 loads per week        |
+| Rice Cooker                          | 180             | 50            | at twice per week            |
+| Heating Pad, 1 hour                  | 30              | 90            | at 3 hr/day in winter        |
+| Sawing 40 ft of Stair Stringers      | 370             | —             | not habitual                 |
+| Microwave, 5 minutes                 | 150             | 150           | 5 min/day                    |
+| Furnace Blower, 1 cycle              | 80              | 160           | at 20 cycles/day (if used)   |
+| Mattress Pad, full-blast, both sides | 60              | 240           | 8 hr/day, half-blast, winter |
+| Space Heater, 1 hour                 | 1400            | 280           | at 12 minutes/day, winter    |
+| Refrigerator, 1 cycle                | 20              | 1000          | efficient (40 W) fridge      |
 
 ### Postlude
 

@@ -13,7 +13,12 @@ In the comments below [a reader](http://blogs.discovermagazine.com/gnxp/2011/12/
 
 ------------------------------------------------------------------------
 
-|                          |                     |                                  |                   | |--------------------------|---------------------|----------------------------------|-------------------| | ***Average difference*** | **Identical twins** | **Identical twins raised apart** | **Full siblings** | | **Height, inches**       | 0.67                | 0.71                             | 1.8               | | **Weight, pounds**       | 4.2                 | 9.9                              | 10.4              | | **IQ**                   | 5.9                 | 8.2                              | 9.8               |
+|                          |                     |                                  |                   |
+|--------------------------|---------------------|----------------------------------|-------------------|
+| ***Average difference*** | **Identical twins** | **Identical twins raised apart** | **Full siblings** |
+| **Height, inches**       | 0.67                | 0.71                             | 1.8               |
+| **Weight, pounds**       | 4.2                 | 9.9                              | 10.4              |
+| **IQ**                   | 5.9                 | 8.2                              | 9.8               |
 
 ------------------------------------------------------------------------
 

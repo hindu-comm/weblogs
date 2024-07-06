@@ -37,7 +37,92 @@ To infer that 503F was the target of natural selection the authors used a haplot
 
 ------------------------------------------------------------------------
 
-|                             |                      |                      |               | |-----------------------------|----------------------|----------------------|---------------| | **Population**              | **N = 503f alleles** | **N = 503L alleles** | **% of 503f** | | Sardinian                   | 40                   | 16                   | 71%           | | Tuscan                      | 9                    | 7                    | 56%           | | Turku                       | 11                   | 9                    | 55%           | | Basque                      | 23                   | 23                   | 50%           | | Adygei                      | 15                   | 17                   | 47%           | | Orcadian                    | 15                   | 17                   | 47%           | | Italian                     | 12                   | 16                   | 43%           | | Utah                        | 40                   | 56                   | 42%           | | French                      | 24                   | 34                   | 41%           | | Kuopio                      | 8                    | 12                   | 40%           | | Tuscan                      | 23                   | 35                   | 40%           | | Pole                        | 7                    | 13                   | 35%           | | Druze                       | 27                   | 67                   | 29%           | | Russian                     | 13                   | 35                   | 27%           | | Uygur                       | 5                    | 15                   | 25%           | | Terekli-Mektab (Daghestani) | 13                   | 43                   | 23%           | | Makrani                     | 11                   | 39                   | 22%           | | Balochi                     | 10                   | 40                   | 20%           | | Mozabite                    | 12                   | 48                   | 20%           | | Palestinian                 | 19                   | 83                   | 19%           | | Kalash                      | 8                    | 42                   | 16%           | | Pathan                      | 8                    | 42                   | 16%           | | Kubachi (Daghestani)        | 7                    | 39                   | 15%           | | Brahmin Niyogi              | 4                    | 26                   | 13%           | | Brahmin                     | 5                    | 33                   | 13%           | | Hazara                      | 6                    | 42                   | 13%           | | Burusho                     | 6                    | 44                   | 12%           | | Brahmin Vydika              | 5                    | 41                   | 11%           | | Sindhi                      | 5                    | 43                   | 10%           | | Bedouin                     | 10                   | 88                   | 10%           | | Brahui                      | 5                    | 45                   | 10%           | | BantuSouthAfrica            | 1                    | 15                   | 6%            | | Yakut                       | 3                    | 47                   | 6%            | | Xibo                        | 1                    | 17                   | 6%            | | Daur                        | 1                    | 19                   | 5%            | | Lahu                        | 1                    | 19                   | 5%            | | Tu                          | 1                    | 19                   | 5%            | | Yi                          | 1                    | 19                   | 5%            | | Cambodian                   | 1                    | 21                   | 5%            | | Mbuti Pygmy                 | 2                    | 74                   | 3%            | | Mbuti Pygmy                 | 2                    | 74                   | 3%            | | Mbuti Pygmy                 | 2                    | 74                   | 3%            | | Mbuti Pygmy                 | 2                    | 74                   | 3%            | | Mandenka                    | 1                    | 47                   | 2%            | | Khonda Dora                 | 1                    | 51                   | 2%            | | Irula                       | 1                    | 59                   | 2%            | | BiakaPygmy                  | 1                    | 69                   | 1%            | | !Kung (San)                 | 0                    | 22                   | 0%            | | Alur                        | 0                    | 16                   | 0%            | | BantuKenya                  | 0                    | 22                   | 0%            | | Biaka Pygmy                 | 0                    | 10                   | 0%            | | Cambodian                   | 0                    | 10                   | 0%            | | Chinese                     | 0                    | 16                   | 0%            | | Dai                         | 0                    | 20                   | 0%            | | Han                         | 0                    | 70                   | 0%            | | Han-NChina                  | 0                    | 18                   | 0%            | | Hema                        | 0                    | 42                   | 0%            | | Hezhen                      | 0                    | 20                   | 0%            | | Japanese                    | 0                    | 62                   | 0%            | | Japanese                    | 0                    | 38                   | 0%            | | Khmer Cambodian             | 0                    | 8                    | 0%            | | Malasian                    | 0                    | 12                   | 0%            | | MbutiPygmy                  | 0                    | 30                   | 0%            | | Melanesian                  | 0                    | 44                   | 0%            | | Miao                        | 0                    | 18                   | 0%            | | Mongola                     | 0                    | 20                   | 0%            | | Nande                       | 0                    | 36                   | 0%            | | Naxi                        | 0                    | 20                   | 0%            | | Oroqen                      | 0                    | 20                   | 0%            | | Papuan                      | 0                    | 34                   | 0%            | | Pedi (northern Sotho)       | 0                    | 22                   | 0%            | | San                         | 0                    | 14                   | 0%            | | She                         | 0                    | 20                   | 0%            | | Sotho                       | 0                    | 10                   | 0%            | | Southern Chinese            | 0                    | 8                    | 0%            | | Taiwan                      | 0                    | 6                    | 0%            | | Tsonga                      | 0                    | 12                   | 0%            | | Tswana                      | 0                    | 14                   | 0%            | | Tujia                       | 0                    | 20                   | 0%            | | Vietnamese                  | 0                    | 18                   | 0%            | | Xhosa                       | 0                    | 4                    | 0%            | | Yoruba                      | 0                    | 50                   | 0%            | | Zulu (Nguni)                | 0                    | 18                   | 0%            |
+|                             |                      |                      |               |
+|-----------------------------|----------------------|----------------------|---------------|
+| **Population**              | **N = 503f alleles** | **N = 503L alleles** | **% of 503f** |
+| Sardinian                   | 40                   | 16                   | 71%           |
+| Tuscan                      | 9                    | 7                    | 56%           |
+| Turku                       | 11                   | 9                    | 55%           |
+| Basque                      | 23                   | 23                   | 50%           |
+| Adygei                      | 15                   | 17                   | 47%           |
+| Orcadian                    | 15                   | 17                   | 47%           |
+| Italian                     | 12                   | 16                   | 43%           |
+| Utah                        | 40                   | 56                   | 42%           |
+| French                      | 24                   | 34                   | 41%           |
+| Kuopio                      | 8                    | 12                   | 40%           |
+| Tuscan                      | 23                   | 35                   | 40%           |
+| Pole                        | 7                    | 13                   | 35%           |
+| Druze                       | 27                   | 67                   | 29%           |
+| Russian                     | 13                   | 35                   | 27%           |
+| Uygur                       | 5                    | 15                   | 25%           |
+| Terekli-Mektab (Daghestani) | 13                   | 43                   | 23%           |
+| Makrani                     | 11                   | 39                   | 22%           |
+| Balochi                     | 10                   | 40                   | 20%           |
+| Mozabite                    | 12                   | 48                   | 20%           |
+| Palestinian                 | 19                   | 83                   | 19%           |
+| Kalash                      | 8                    | 42                   | 16%           |
+| Pathan                      | 8                    | 42                   | 16%           |
+| Kubachi (Daghestani)        | 7                    | 39                   | 15%           |
+| Brahmin Niyogi              | 4                    | 26                   | 13%           |
+| Brahmin                     | 5                    | 33                   | 13%           |
+| Hazara                      | 6                    | 42                   | 13%           |
+| Burusho                     | 6                    | 44                   | 12%           |
+| Brahmin Vydika              | 5                    | 41                   | 11%           |
+| Sindhi                      | 5                    | 43                   | 10%           |
+| Bedouin                     | 10                   | 88                   | 10%           |
+| Brahui                      | 5                    | 45                   | 10%           |
+| BantuSouthAfrica            | 1                    | 15                   | 6%            |
+| Yakut                       | 3                    | 47                   | 6%            |
+| Xibo                        | 1                    | 17                   | 6%            |
+| Daur                        | 1                    | 19                   | 5%            |
+| Lahu                        | 1                    | 19                   | 5%            |
+| Tu                          | 1                    | 19                   | 5%            |
+| Yi                          | 1                    | 19                   | 5%            |
+| Cambodian                   | 1                    | 21                   | 5%            |
+| Mbuti Pygmy                 | 2                    | 74                   | 3%            |
+| Mbuti Pygmy                 | 2                    | 74                   | 3%            |
+| Mbuti Pygmy                 | 2                    | 74                   | 3%            |
+| Mbuti Pygmy                 | 2                    | 74                   | 3%            |
+| Mandenka                    | 1                    | 47                   | 2%            |
+| Khonda Dora                 | 1                    | 51                   | 2%            |
+| Irula                       | 1                    | 59                   | 2%            |
+| BiakaPygmy                  | 1                    | 69                   | 1%            |
+| !Kung (San)                 | 0                    | 22                   | 0%            |
+| Alur                        | 0                    | 16                   | 0%            |
+| BantuKenya                  | 0                    | 22                   | 0%            |
+| Biaka Pygmy                 | 0                    | 10                   | 0%            |
+| Cambodian                   | 0                    | 10                   | 0%            |
+| Chinese                     | 0                    | 16                   | 0%            |
+| Dai                         | 0                    | 20                   | 0%            |
+| Han                         | 0                    | 70                   | 0%            |
+| Han-NChina                  | 0                    | 18                   | 0%            |
+| Hema                        | 0                    | 42                   | 0%            |
+| Hezhen                      | 0                    | 20                   | 0%            |
+| Japanese                    | 0                    | 62                   | 0%            |
+| Japanese                    | 0                    | 38                   | 0%            |
+| Khmer Cambodian             | 0                    | 8                    | 0%            |
+| Malasian                    | 0                    | 12                   | 0%            |
+| MbutiPygmy                  | 0                    | 30                   | 0%            |
+| Melanesian                  | 0                    | 44                   | 0%            |
+| Miao                        | 0                    | 18                   | 0%            |
+| Mongola                     | 0                    | 20                   | 0%            |
+| Nande                       | 0                    | 36                   | 0%            |
+| Naxi                        | 0                    | 20                   | 0%            |
+| Oroqen                      | 0                    | 20                   | 0%            |
+| Papuan                      | 0                    | 34                   | 0%            |
+| Pedi (northern Sotho)       | 0                    | 22                   | 0%            |
+| San                         | 0                    | 14                   | 0%            |
+| She                         | 0                    | 20                   | 0%            |
+| Sotho                       | 0                    | 10                   | 0%            |
+| Southern Chinese            | 0                    | 8                    | 0%            |
+| Taiwan                      | 0                    | 6                    | 0%            |
+| Tsonga                      | 0                    | 12                   | 0%            |
+| Tswana                      | 0                    | 14                   | 0%            |
+| Tujia                       | 0                    | 20                   | 0%            |
+| Vietnamese                  | 0                    | 18                   | 0%            |
+| Xhosa                       | 0                    | 4                    | 0%            |
+| Yoruba                      | 0                    | 50                   | 0%            |
+| Zulu (Nguni)                | 0                    | 18                   | 0%            |
 
 ------------------------------------------------------------------------
 

@@ -37,7 +37,26 @@ What I am doing here is looking at the extreme tail end: the oldest person on th
 
 What follows is a table of estimated birth years of the sequence of oldest people on Earth. Due to the rather large population involved, and evidence for exceeding 100 years 2,000 years ago, I use 100 years until the year “zero,” 90 years for a while before that, and 80 into the more distant past. This is quite probably conservative: It is possible that Earth has frequently hosted at least one person over 100 years old for the last 10,000 years.
 
-|           |            | |-----------|------------| | spans ago | birth year | | 1         | 1907       | | 2         | 1800       | | 3         | 1700       | | 4         | 1600       | | 5         | 1500       | | 10        | 1000       | | 15        | 500        | | 20        | 0          | | 30        | −900       | | 40        | −1800      | | 50        | −2700      | | 60        | −3500      | | 70        | −4300      | | 80        | −5100      | | 90        | −5900      | | 100       | −6700      | | 110       | −7500      |
+|           |            |
+|-----------|------------|
+| spans ago | birth year |
+| 1         | 1907       |
+| 2         | 1800       |
+| 3         | 1700       |
+| 4         | 1600       |
+| 5         | 1500       |
+| 10        | 1000       |
+| 15        | 500        |
+| 20        | 0          |
+| 30        | −900       |
+| 40        | −1800      |
+| 50        | −2700      |
+| 60        | −3500      |
+| 70        | −4300      |
+| 80        | −5100      |
+| 90        | −5900      |
+| 100       | −6700      |
+| 110       | −7500      |
 
 It therefore takes only about 5 individual human lives stretched end-to-end to reach back to European conquest of the Americas. I don’t know the *names* of these people, but it would only take five names to stack back to these times. Only 20 names reach back to the Roman Empire. Sixty names gets back to the earliest writing. Roughly a hundred names stretches to the dawn of agriculture. That’s a small-to-medium-sized high school class. We are capable of knowing and retaining the names of that many individuals.
 

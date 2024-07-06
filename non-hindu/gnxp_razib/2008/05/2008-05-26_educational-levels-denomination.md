@@ -19,7 +19,31 @@ Note that if you remove Roman Catholics out of this the R² goes up to 0.81. I t
 **Note:** I know that Jehovah’s Witnesses and Unitarian-Universalists aren’t Protestant, but they come out of Protestant culture.  
 **Update:** In response to John’s comment below, I took the education data from [The Pew Religion Survey](https://religions.pewforum.org/reports/detailed_tables) and calculated the index of diversity. I’ve sorted it and normalized it below from the least diverse to the most (most would = 1). Most religious groups seem pretty diverse from what I can tell when it comes to educational level. Hindus are the least diverse, and Presbyterians the most, but it is interesting to note that conservative sects are also less diverse in terms of education. This would tend to agree with supply-side models which suggest that these sects are “high tension” and generally only those who are very proactive in identifying with these groups opt-in.
 
-|                                |      | |:-------------------------------|-----:| | Hindu                          | 0.85 | | American Baptist               | 0.85 | | Church of Nazarene             | 0.87 | | Free Methodist                 | 0.87 | | Independent Baptist            | 0.88 | | Assemblies of God              | 0.89 | | Southern Baptist               | 0.91 | | Evangelical Lutheran           | 0.92 | | Church of Christ               | 0.92 | | Lutheran Church, Missouri      | 0.93 | | Jewish                         | 0.93 | | Episcopalian                   | 0.94 | | Unitarian                      | 0.94 | | Seventh-Day Adventist          | 0.95 | | Mormon                         | 0.95 | | United Church of Christ        | 0.95 | | United Methodist               | 0.95 | | Catholic                       | 0.95 | | Orthodox                       | 0.96 | | Atheist                        | 0.97 | | Disciplines of Christ          | 0.97 | | Presbyterian Church USA        | 0.97 | | Presbyterian Church in America | 0.98 |
+|                                |      |
+|:-------------------------------|-----:|
+| Hindu                          | 0.85 |
+| American Baptist               | 0.85 |
+| Church of Nazarene             | 0.87 |
+| Free Methodist                 | 0.87 |
+| Independent Baptist            | 0.88 |
+| Assemblies of God              | 0.89 |
+| Southern Baptist               | 0.91 |
+| Evangelical Lutheran           | 0.92 |
+| Church of Christ               | 0.92 |
+| Lutheran Church, Missouri      | 0.93 |
+| Jewish                         | 0.93 |
+| Episcopalian                   | 0.94 |
+| Unitarian                      | 0.94 |
+| Seventh-Day Adventist          | 0.95 |
+| Mormon                         | 0.95 |
+| United Church of Christ        | 0.95 |
+| United Methodist               | 0.95 |
+| Catholic                       | 0.95 |
+| Orthodox                       | 0.96 |
+| Atheist                        | 0.97 |
+| Disciplines of Christ          | 0.97 |
+| Presbyterian Church USA        | 0.97 |
+| Presbyterian Church in America | 0.98 |
 
 ### Related Posts:
 

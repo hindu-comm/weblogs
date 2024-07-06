@@ -48,7 +48,36 @@ Let’s look at the broader financial indicators that occured during WWII (1941-
 
 U.S. Fiscal Indicators During Periods of WarYear[Public Debt/GDP](http://www.taxpolicycenter.org/TaxFacts/TFDB/TFTemplate.cfm?Docid=199) (%)[Top Marginal Tax Rate](http://www.taxpolicycenter.org/TaxFacts/TFDB/TFTemplate.cfm?Docid=213) (%)[Individual Tax/GDP](http://www.taxpolicycenter.org/TaxFacts/TFDB/TFTemplate.cfm?Docid=205) (%)[Corporate Tax/GDP](http://www.taxpolicycenter.org/TaxFacts/TFDB/TFTemplate.cfm?Docid=205) (%)[Excise Tax/GDP](http://www.taxpolicycenter.org/TaxFacts/TFDB/TFTemplate.cfm?Docid=205) (%)[Other Tax/GDP](http://www.taxpolicycenter.org/TaxFacts/TFDB/TFTemplate.cfm?Docid=205) (%) World War II Korean War Vietnam War Iraq War
 
-|      |       |       |     |     |     |     | |------|-------|-------|-----|-----|-----|-----| |      |       |       |     |     |     |     | |      |       |       |     |     |     |     | |      |       |       |     |     |     |     | | 1941 | 42.3  | 81.00 | 1.2 | 1.9 | 2.2 | 0.7 | | 1942 | 47.0  | 88.00 | 2.3 | 3.3 | 2.4 | 0.6 | | 1943 | 70.9  | 88.00 | 3.6 | 5.3 | 2.3 | 0.4 | | 1944 | 88.3  | 94.00 | 9.4 | 7.1 | 2.3 | 0.5 | | 1945 | 106.2 | 94.00 | 8.3 | 7.2 | 2.8 | 0.5 | |      |       |       |     |     |     |     | | 1950 | 80.2  | 91.00 | 5.8 | 3.8 | 2.8 | 0.5 | | 1951 | 66.9  | 91.00 | 6.7 | 4.4 | 2.7 | 0.5 | | 1952 | 70.9  | 88.00 | 3.6 | 5.3 | 2.3 | 0.4 | | 1953 | 88.3  | 94.00 | 9.4 | 7.1 | 2.3 | 0.5 | |      |       |       |     |     |     |     | | 1965 | 37.9  | 70.00 | 7.1 | 3.7 | 2.1 | 0.8 | | 1966 | 34.9  | 70.00 | 7.3 | 4.0 | 1.7 | 0.9 | | 1967 | 32.9  | 70.00 | 7.6 | 4.2 | 1.7 | 0.9 | | 1968 | 33.3  | 75.25 | 7.9 | 3.3 | 1.6 | 0.9 | | 1969 | 29.3  | 77.00 | 9.2 | 3.9 | 1.6 | 0.9 | | 1970 | 28.0  | 71.75 | 8.9 | 3.2 | 1.6 | 0.9 | | 1971 | 28.1  | 70.00 | 8.0 | 2.5 | 1.5 | 0.9 | | 1972 | 27.4  | 70.00 | 8.0 | 2.7 | 1.3 | 1.0 | | 1973 | 26.0  | 70.00 | 7.9 | 2.8 | 1.2 | 0.9 | |      |       |       |     |     |     |     | | 2001 | 33.1  | 38.60 | 9.9 | 1.5 | 0.7 | 0.9 | | 2002 | 34.1  | 38.60 | 8.3 | 1.4 | 0.7 | 0.9 | | 2003 | 36.1  | 35.00 | 7.3 | 1.2 | 0.6 | 0.7 | | 2004 | 37.2  | 35.00 | 7.0 | 1.6 | 0.6 | 0.7 |
+|      |       |       |     |     |     |     |
+|------|-------|-------|-----|-----|-----|-----|
+|      |       |       |     |     |     |     |
+|      |       |       |     |     |     |     |
+|      |       |       |     |     |     |     |
+| 1941 | 42.3  | 81.00 | 1.2 | 1.9 | 2.2 | 0.7 |
+| 1942 | 47.0  | 88.00 | 2.3 | 3.3 | 2.4 | 0.6 |
+| 1943 | 70.9  | 88.00 | 3.6 | 5.3 | 2.3 | 0.4 |
+| 1944 | 88.3  | 94.00 | 9.4 | 7.1 | 2.3 | 0.5 |
+| 1945 | 106.2 | 94.00 | 8.3 | 7.2 | 2.8 | 0.5 |
+|      |       |       |     |     |     |     |
+| 1950 | 80.2  | 91.00 | 5.8 | 3.8 | 2.8 | 0.5 |
+| 1951 | 66.9  | 91.00 | 6.7 | 4.4 | 2.7 | 0.5 |
+| 1952 | 70.9  | 88.00 | 3.6 | 5.3 | 2.3 | 0.4 |
+| 1953 | 88.3  | 94.00 | 9.4 | 7.1 | 2.3 | 0.5 |
+|      |       |       |     |     |     |     |
+| 1965 | 37.9  | 70.00 | 7.1 | 3.7 | 2.1 | 0.8 |
+| 1966 | 34.9  | 70.00 | 7.3 | 4.0 | 1.7 | 0.9 |
+| 1967 | 32.9  | 70.00 | 7.6 | 4.2 | 1.7 | 0.9 |
+| 1968 | 33.3  | 75.25 | 7.9 | 3.3 | 1.6 | 0.9 |
+| 1969 | 29.3  | 77.00 | 9.2 | 3.9 | 1.6 | 0.9 |
+| 1970 | 28.0  | 71.75 | 8.9 | 3.2 | 1.6 | 0.9 |
+| 1971 | 28.1  | 70.00 | 8.0 | 2.5 | 1.5 | 0.9 |
+| 1972 | 27.4  | 70.00 | 8.0 | 2.7 | 1.3 | 1.0 |
+| 1973 | 26.0  | 70.00 | 7.9 | 2.8 | 1.2 | 0.9 |
+|      |       |       |     |     |     |     |
+| 2001 | 33.1  | 38.60 | 9.9 | 1.5 | 0.7 | 0.9 |
+| 2002 | 34.1  | 38.60 | 8.3 | 1.4 | 0.7 | 0.9 |
+| 2003 | 36.1  | 35.00 | 7.3 | 1.2 | 0.6 | 0.7 |
+| 2004 | 37.2  | 35.00 | 7.0 | 1.6 | 0.6 | 0.7 |
 
 You’ll note that there was a big increase in Public Debt during World War II, but there was a steady rate of decreasing the Public Debt/GDP ratio through the Korean and Vietnam Wars. The top marginal tax rate was either raised, or reduced to the long term average rate, during those wars. The contribution of individual tax collected increased as a share of GDP during times of war. It is only during the administration of President Bush and the Iraq war that all of these indicators don’t follow historical patterns. At times of war we usually make the sacrifices needed to finance those wars, rather than pushing the cost onto the backs of our children while we add irresponsibilty onto irresponsibility by backing multiple tax cuts that have disproportionate benefit across socio-economic classes.
 

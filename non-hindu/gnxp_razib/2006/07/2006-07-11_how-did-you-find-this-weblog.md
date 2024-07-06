@@ -13,7 +13,21 @@ This is a shout out to regular readers, I’m asking a survey in this entry to g
 
   
 
-|                                                          |                           | |----------------------------------------------------------|---------------------------| | **How did you find Gene Expression – Science Blogs**     |                           | |                                                          | Gene Expression – Classic | |                                                          | Science Blogs front page  | |                                                          | Another Science Blogger   | |                                                          | Another Blogger           | |                                                          | Search engine             | |                                                          | Message Board             | |                                                          | Stumble Upon              | |                                                          | Email                     | |                                                          | Word of mouth             | |                                                          | Other                     | |                                                        |                           | | [Free polls from Pollhost.com](http://www.pollhost.com/) |                           |
+|                                                          |                           |
+|----------------------------------------------------------|---------------------------|
+| **How did you find Gene Expression – Science Blogs**     |                           |
+|                                                          | Gene Expression – Classic |
+|                                                          | Science Blogs front page  |
+|                                                          | Another Science Blogger   |
+|                                                          | Another Blogger           |
+|                                                          | Search engine             |
+|                                                          | Message Board             |
+|                                                          | Stumble Upon              |
+|                                                          | Email                     |
+|                                                          | Word of mouth             |
+|                                                          | Other                     |
+|                                                        |                           |
+| [Free polls from Pollhost.com](http://www.pollhost.com/) |                           |
 
 ### Related Posts:
 

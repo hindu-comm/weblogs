@@ -19,21 +19,80 @@ The [US Religious Landscape Survey](https://religions.pewforum.org/) by Pew does
 
 Here are some breakdowns:
 
-|                                                        |                        |                    |                   |                   | |--------------------------------------------------------|------------------------|--------------------|-------------------|-------------------| | *Percentage of Adults Entering and Leaving Each Group* |                        |                    |                   |                   | |                                                       | **Childhood Religion** | **Entering Group** | **Leaving Group** | **Current Group** | | **Atheist**                                            | 0.5                    | +1.4               | -0.3              | 1.6               | | **Agnostic**                                           | \<0.3                  | +2.3               | -\<0.3            | 2.4               | | **Nothing in particular**                              | 6.6                    | +9.6               | -4.1              | 12.1              |
+|                                                        |                        |                    |                   |                   |
+|--------------------------------------------------------|------------------------|--------------------|-------------------|-------------------|
+| *Percentage of Adults Entering and Leaving Each Group* |                        |                    |                   |                   |
+|                                                       | **Childhood Religion** | **Entering Group** | **Leaving Group** | **Current Group** |
+| **Atheist**                                            | 0.5                    | +1.4               | -0.3              | 1.6               |
+| **Agnostic**                                           | \<0.3                  | +2.3               | -\<0.3            | 2.4               |
+| **Nothing in particular**                              | 6.6                    | +9.6               | -4.1              | 12.1              |
 
 But do note that **not all unaffiliated people are atheists are agnostics, in fact, the majority are not.** The Pew study notes that this unaffiliated group is divided between those who are secular (religious sentiments are not important) and those who are believers of some sort, if not affiliated (one could term these the “spiritual” segment). Below are some tables of interest from the Pew study.
 
-|                            |           |           |           |         | |----------------------------|-----------|-----------|-----------|---------| | *Age Distribution*         |           |           |           |         | |                           | **18-29** | **30-49** | **50-64** | **65+** | | **All unaffiliated**       | 31        | 40        | 20        | 8       | | **Atheist**                | 37        | 36        | 16        | 12      | | **Agnostic**               | 34        | 34        | 22        | 9       | | **Secular unaffiliated**   | 29        | 41        | 21        | 8       | | **Religious unaffiliated** | 30        | 43        | 20        | 7       |
+|                            |           |           |           |         |
+|----------------------------|-----------|-----------|-----------|---------|
+| *Age Distribution*         |           |           |           |         |
+|                           | **18-29** | **30-49** | **50-64** | **65+** |
+| **All unaffiliated**       | 31        | 40        | 20        | 8       |
+| **Atheist**                | 37        | 36        | 16        | 12      |
+| **Agnostic**               | 34        | 34        | 22        | 9       |
+| **Secular unaffiliated**   | 29        | 41        | 21        | 8       |
+| **Religious unaffiliated** | 30        | 43        | 20        | 7       |
 
-|                        |                       |             |              |         |                 | |------------------------|-----------------------|-------------|--------------|---------|-----------------| | *Education*            |                       |             |              |         |                 | |                       | Less than High School | High School | Some College | College | Graduate School | | All Americans          | 13                    | 36          | 23           | 16      | 11              | | All unaffiliated       | 13                    | 34          | 24           | 16      | 13              | | Atheist                | 8                     | 28          | 23           | 21      | 21              | | Agnostic               | 5                     | 22          | 29           | 23      | 20              | | Secular unaffiliated   | 10                    | 35          | 24           | 17      | 13              | | Religious unaffiliated | 21                    | 40          | 22           | 11      | 6               |
+|                        |                       |             |              |         |                 |
+|------------------------|-----------------------|-------------|--------------|---------|-----------------|
+| *Education*            |                       |             |              |         |                 |
+|                       | Less than High School | High School | Some College | College | Graduate School |
+| All Americans          | 13                    | 36          | 23           | 16      | 11              |
+| All unaffiliated       | 13                    | 34          | 24           | 16      | 13              |
+| Atheist                | 8                     | 28          | 23           | 21      | 21              |
+| Agnostic               | 5                     | 22          | 29           | 23      | 20              |
+| Secular unaffiliated   | 10                    | 35          | 24           | 17      | 13              |
+| Religious unaffiliated | 21                    | 40          | 22           | 11      | 6               |
 
-|                            |               |                   |                    |                | |----------------------------|---------------|-------------------|--------------------|----------------| | *Income*                   |               |                   |                    |                | |                           | **\< \$30 K** | **\$30 – \$50 K** | **\$50 – \$100 K** | **\> \$100 K** | | **All Americans**          | 31            | 22                | 30                 | 18             | | **All unaffiliated**       | 29            | 23                | 29                 | 19             | | **Atheist**                | 21            | 20                | 31                 | 28             | | **Agnostic**               | 18            | 22                | 35                 | 25             | | **Secular unaffiliated**   | 25            | 24                | 30                 | 21             | | **Religious unaffiliated** | 40            | 24                | 25                 | 12             |
+|                            |               |                   |                    |                |
+|----------------------------|---------------|-------------------|--------------------|----------------|
+| *Income*                   |               |                   |                    |                |
+|                           | **\< \$30 K** | **\$30 – \$50 K** | **\$50 – \$100 K** | **\> \$100 K** |
+| **All Americans**          | 31            | 22                | 30                 | 18             |
+| **All unaffiliated**       | 29            | 23                | 29                 | 19             |
+| **Atheist**                | 21            | 20                | 31                 | 28             |
+| **Agnostic**               | 18            | 22                | 35                 | 25             |
+| **Secular unaffiliated**   | 25            | 24                | 30                 | 21             |
+| **Religious unaffiliated** | 40            | 24                | 25                 | 12             |
 
-|                            |          |            | |----------------------------|----------|------------| | *Sex*                      |          |            | |                           | **Male** | **Female** | | **All Americans**          | 48       | 52         | | **All unaffiliated**       | 59       | 41         | | **Atheist**                | 70       | 30         | | **Agnostic**               | 64       | 36         | | **Secular unaffiliated**   | 60       | 40         | | **Religious unaffiliated** | 52       | 48         |
+|                            |          |            |
+|----------------------------|----------|------------|
+| *Sex*                      |          |            |
+|                           | **Male** | **Female** |
+| **All Americans**          | 48       | 52         |
+| **All unaffiliated**       | 59       | 41         |
+| **Atheist**                | 70       | 30         |
+| **Agnostic**               | 64       | 36         |
+| **Secular unaffiliated**   | 60       | 40         |
+| **Religious unaffiliated** | 52       | 48         |
 
-|                            |             |             |                        |             |                   | |----------------------------|-------------|-------------|------------------------|-------------|-------------------| | *Marital Status*           |             |             |                        |             |                   | |                           | **Married** | **Partner** | **Divorced/Separated** | **Widowed** | **Never Married** | | **All Americans**          | 54          | 6           | 12                     | 8           | 19                | | **All unaffiliated**       | 46          | 10          | 12                     | 3           | 28                | | **Atheist**                | 39          | 11          | 10                     | 3           | 37                | | **Agnostic**               | 41          | 10          | 10                     | 3           | 36                | | **Secular unaffiliated**   | 49          | 11          | 11                     | 3           | 26                | | **Religious unaffiliated** | 47          | 10          | 13                     | 4           | 25                |
+|                            |             |             |                        |             |                   |
+|----------------------------|-------------|-------------|------------------------|-------------|-------------------|
+| *Marital Status*           |             |             |                        |             |                   |
+|                           | **Married** | **Partner** | **Divorced/Separated** | **Widowed** | **Never Married** |
+| **All Americans**          | 54          | 6           | 12                     | 8           | 19                |
+| **All unaffiliated**       | 46          | 10          | 12                     | 3           | 28                |
+| **Atheist**                | 39          | 11          | 10                     | 3           | 37                |
+| **Agnostic**               | 41          | 10          | 10                     | 3           | 36                |
+| **Secular unaffiliated**   | 49          | 11          | 11                     | 3           | 26                |
+| **Religious unaffiliated** | 47          | 10          | 13                     | 4           | 25                |
 
-|                                                  |       |       |       |        | |--------------------------------------------------|-------|-------|-------|--------| | *Number of children under age 18 living at home* |       |       |       |        | |                                                 | **0** | **1** | **2** | **3+** | | **All Americans**                                | 65    | 13    | 13    | 9      | | **All unaffiliated**                             | 67    | 13    | 13    | 7      | | **Atheist**                                      | 75    | 11    | 10    | 5      | | **Agnostic**                                     | 75    | 11    | 9     | 4      | | **Secular unaffiliated**                         | 67    | 15    | 13    | 5      | | **Religious unaffiliated**                       | 60    | 14    | 14    | 12     |
+|                                                  |       |       |       |        |
+|--------------------------------------------------|-------|-------|-------|--------|
+| *Number of children under age 18 living at home* |       |       |       |        |
+|                                                 | **0** | **1** | **2** | **3+** |
+| **All Americans**                                | 65    | 13    | 13    | 9      |
+| **All unaffiliated**                             | 67    | 13    | 13    | 7      |
+| **Atheist**                                      | 75    | 11    | 10    | 5      |
+| **Agnostic**                                     | 75    | 11    | 9     | 4      |
+| **Secular unaffiliated**                         | 67    | 15    | 13    | 5      |
+| **Religious unaffiliated**                       | 60    | 14    | 14    | 12     |
 
 Notice a trend? **There is a spectrum of in terms of the clustering of demographic profiles, atheist & agnostics are at one end, and the “religious” unaffiliated at the other.** In fact, in many ways the non-religious Americans who still exhibit a spiritual orientation are more like the typical American than they are like atheists or agnostics (with the secular, but still theist, group in the middle). In some characteristics, such as income and education, the spiritual segment is very different from the atheist & agnostic group, because attainment or level is below the American median for the former but above for the latter. What’s the explanation? I think it probably has do with an alienation from bourgeois orientation of American religion on the part of some lower and working class sectors. Think the mullet/wife-beater/Ricki Lake demographic. Religion and god are actually different things on a fundamental level, and atheists & agnostics reject the latter, which as a necessity usually implies rejection of the former, but many Americans who reject the former do not turn away from the latter.
 

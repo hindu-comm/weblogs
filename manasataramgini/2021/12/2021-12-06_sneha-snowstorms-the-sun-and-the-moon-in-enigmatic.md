@@ -35,7 +35,13 @@ This ṛk attributed to Kakṣivant Dairghatamasa \[Footnote 2\] is an allusion 
 
 Returning to sneha-, we tabulate below the occurrence of this word in some old Vedic texts relative to hima- (while we count both senses of hima- we do not count the season hemanta in the below table).
 
-|                          |       |      | |--------------------------|-------|------| | Text                     | sneha | hima | | Ṛgveda                   | 2     | 11   | | Atharvaveda (vulgate)    | 1     | 16   | | Atharvaveda (Paippalāda) | 0     | 35   | | Taittirīya Saṃhitā       | 0     | 10   |
+|                          |       |      |
+|--------------------------|-------|------|
+| Text                     | sneha | hima |
+| Ṛgveda                   | 2     | 11   |
+| Atharvaveda (vulgate)    | 1     | 16   |
+| Atharvaveda (Paippalāda) | 0     | 35   |
+| Taittirīya Saṃhitā       | 0     | 10   |
 
 Thus, it is clear that sneha, while attested in the oldest surviving Indo-Aryan text (the single AV-vulgate instance is identical to the ṛk found in the RV), it is absent in the successor texts though hima- remains as common or is more frequently used. However, we should also add that a related form snīhiti (snowstorm) occurs once in the RV and once in the Taittirīya Āraṇyaka. In the case of sneha, a semantic shift occurred in Sanskrit, where it came to denote a wide range of things, including fluidity, smoothness, oil/fat and love. We will next examine the two occurrences in the RV and suggest that they are semantically aligned with the Middle and New Indo-Aryan forms. Both occur in enigmatic sūkta-s/ṛk-s that need further discussion.
 

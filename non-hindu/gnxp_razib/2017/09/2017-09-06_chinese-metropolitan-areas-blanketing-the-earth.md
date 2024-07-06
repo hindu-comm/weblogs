@@ -15,7 +15,32 @@ A photo essay in *The Guardian*, [The great leap upward: China’s Pearl River D
 
 Below is a table I constructed of **metropolitan regions.** The data are from Wikipedia and I selected the administrative classifications which seemed the most equivalent. Using a cut-off of 5 million inhabitants you can see China has many more metropolitan areas than the United States already. I know an decent amount of Chinese geography for a foreigner, but I don’t even recognize 7 of the 22 metropolitan areas!
 
-|           |                  |                    |                  |            |                  | |-----------|------------------|--------------------|------------------|------------|------------------| | **China** |                 | **USA**            |                 | **Europe** |                 | | ****     | ***population*** | ****              | ***population*** | ****      | ***population*** | | Shanghai  | 24500000         | New York City      | 20153634         | Ruhr       | 13400000         | | Beijing   | 21500000         | Los Angles         | 13310447         | Istanbul   | 11400000         | | Guangzhou | 20800654         | Chicago            | 9512999          | Paris      | 11200000         | | Chongqing | 18384000         | Dallas-Forth Worth | 7233323          | Milan      | 8247125          | | Chengdu   | 17677122         | Houston            | 6772470          | London     | 8200000          | | Tianjin   | 15500000         | Washington DC      | 6131977          | Amsterdam  | 7500000          | | Shenzhen  | 12357938         | Philadelphia       | 6070500          | Munich     | 6100000          | | Harbin    | 12000000         | Miami              | 6066387          | Berlin     | 6000000          | | Wuhan     | 10670000         | Atlanta            | 5789700          | Madrid     | 5600000          | | Suzhou    | 10349090         |                   |                 | Frankfurt  | 5600000          | | Hangzhou  | 9018000          |                   |                 |           |                 | | Xi’an     | 8627500          |                   |                 |           |                 | | Shenyang  | 8255921          |                   |                 |           |                 | | Dongguan  | 8220937          |                   |                 |           |                 | | Nanjing   | 8216000          |                   |                 |           |                 | | Foshan    | 7197394          |                   |                 |           |                 | | Jinan     | 7067900          |                   |                 |           |                 | | Wenzhou   | 6642592          |                   |                 |           |                 | | Qingdao   | 6188100          |                   |                 |           |                 | | Quanzhou  | 6107475          |                   |                 |           |                 | | Shantou   | 5346708          |                   |                 |           |                 | | Changsha  | 5288800          |                   |                 |           |                  |
+|           |                  |                    |                  |            |                  |
+|-----------|------------------|--------------------|------------------|------------|------------------|
+| **China** |                 | **USA**            |                 | **Europe** |                 |
+| ****     | ***population*** | ****              | ***population*** | ****      | ***population*** |
+| Shanghai  | 24500000         | New York City      | 20153634         | Ruhr       | 13400000         |
+| Beijing   | 21500000         | Los Angles         | 13310447         | Istanbul   | 11400000         |
+| Guangzhou | 20800654         | Chicago            | 9512999          | Paris      | 11200000         |
+| Chongqing | 18384000         | Dallas-Forth Worth | 7233323          | Milan      | 8247125          |
+| Chengdu   | 17677122         | Houston            | 6772470          | London     | 8200000          |
+| Tianjin   | 15500000         | Washington DC      | 6131977          | Amsterdam  | 7500000          |
+| Shenzhen  | 12357938         | Philadelphia       | 6070500          | Munich     | 6100000          |
+| Harbin    | 12000000         | Miami              | 6066387          | Berlin     | 6000000          |
+| Wuhan     | 10670000         | Atlanta            | 5789700          | Madrid     | 5600000          |
+| Suzhou    | 10349090         |                   |                 | Frankfurt  | 5600000          |
+| Hangzhou  | 9018000          |                   |                 |           |                 |
+| Xi’an     | 8627500          |                   |                 |           |                 |
+| Shenyang  | 8255921          |                   |                 |           |                 |
+| Dongguan  | 8220937          |                   |                 |           |                 |
+| Nanjing   | 8216000          |                   |                 |           |                 |
+| Foshan    | 7197394          |                   |                 |           |                 |
+| Jinan     | 7067900          |                   |                 |           |                 |
+| Wenzhou   | 6642592          |                   |                 |           |                 |
+| Qingdao   | 6188100          |                   |                 |           |                 |
+| Quanzhou  | 6107475          |                   |                 |           |                 |
+| Shantou   | 5346708          |                   |                 |           |                 |
+| Changsha  | 5288800          |                   |                 |           |                  |
 
 ### Related Posts:
 

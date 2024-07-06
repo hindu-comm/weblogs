@@ -11,7 +11,28 @@ Credibility of the Wikio science blogs rankings
 
 [Greg Laden](http://scienceblogs.com/gregladen/2010/04/wikio_science_blogs_rankings.php) posted the Wikio science blogs rankings for this month. Here they are:
 
-|     |                                                                                              | |-----|----------------------------------------------------------------------------------------------| | 1   | [Wired Science – Wired Blog](http://blog.wired.com/wiredscience)                             | | 2   | [Watts Up With That?](http://wattsupwiththat.wordpress.com/)                                 | | 3   | [Climate Progress](http://climateprogress.org/)                                              | | 4   | [RealClimate](http://www.realclimate.org/)                                                   | | 5   | [Bad Astronomy](http://blogs.discovermagazine.com/badastronomy)                              | | 6   | [Climate Audit](http://www.climateaudit.org/)                                                | | 7   | [Next Generation Science](http://www.nextgenerationscience.com/)                             | | 8   | [Respectful Insolence](http://scienceblogs.com/insolence)                                    | | 9   | [Dispatches from the Culture Wars](http://scienceblogs.com/dispatches)                       | | 10  | [The Frontal Cortex](http://scienceblogs.com/cortex)                                         | | 11  | [Deltoid](http://scienceblogs.com/deltoid)                                                   | | 12  | [FuturePundit](http://www.futurepundit.com/)                                                 | | 13  | [Gene Expression](http://scienceblogs.com/gnxp)                                              | | 14  | [Uncertain Principles](http://scienceblogs.com/principles)                                   | | 15  | [BPS Research Digest](https://bps-research-digest.blogspot.com/)                             | | 16  | [Living the Scientific Life (Scientist, Interrupted)](http://scienceblogs.com/grrlscientist) | | 17  | [A Blog Around The Clock](http://scienceblogs.com/clock)                                     | | 18  | [Greg Laden’s Blog](http://scienceblogs.com/gregladen)                                       | | 19  | [TierneyLab – New York Times blog](http://tierneylab.blogs.nytimes.com/)                     | | 20  | [Stoat](http://scienceblogs.com/stoat)                                                       |
+|     |                                                                                              |
+|-----|----------------------------------------------------------------------------------------------|
+| 1   | [Wired Science – Wired Blog](http://blog.wired.com/wiredscience)                             |
+| 2   | [Watts Up With That?](http://wattsupwiththat.wordpress.com/)                                 |
+| 3   | [Climate Progress](http://climateprogress.org/)                                              |
+| 4   | [RealClimate](http://www.realclimate.org/)                                                   |
+| 5   | [Bad Astronomy](http://blogs.discovermagazine.com/badastronomy)                              |
+| 6   | [Climate Audit](http://www.climateaudit.org/)                                                |
+| 7   | [Next Generation Science](http://www.nextgenerationscience.com/)                             |
+| 8   | [Respectful Insolence](http://scienceblogs.com/insolence)                                    |
+| 9   | [Dispatches from the Culture Wars](http://scienceblogs.com/dispatches)                       |
+| 10  | [The Frontal Cortex](http://scienceblogs.com/cortex)                                         |
+| 11  | [Deltoid](http://scienceblogs.com/deltoid)                                                   |
+| 12  | [FuturePundit](http://www.futurepundit.com/)                                                 |
+| 13  | [Gene Expression](http://scienceblogs.com/gnxp)                                              |
+| 14  | [Uncertain Principles](http://scienceblogs.com/principles)                                   |
+| 15  | [BPS Research Digest](https://bps-research-digest.blogspot.com/)                             |
+| 16  | [Living the Scientific Life (Scientist, Interrupted)](http://scienceblogs.com/grrlscientist) |
+| 17  | [A Blog Around The Clock](http://scienceblogs.com/clock)                                     |
+| 18  | [Greg Laden’s Blog](http://scienceblogs.com/gregladen)                                       |
+| 19  | [TierneyLab – New York Times blog](http://tierneylab.blogs.nytimes.com/)                     |
+| 20  | [Stoat](http://scienceblogs.com/stoat)                                                       |
 
 First, where’s [Pharyngula](http://scienceblogs.com/pharyngula/)? Like him or hate him P. Z. Myers has to be high on this list. Where’s [Cosmic Variance](http://blogs.discovermagazine.com/cosmicvariance/)? [Not Exactly Rocket Science](http://blogs.discovermagazine.com/notrocketscience)? Perhaps some of these weblogs opted out of the rankings, I don’t know. But whatever is going on, something doesn’t pass the smell test here. For what it’s worth, my own weblog is ranked highly, but at the old URL, so I assume I’ll slowly start journeying south on the rankings as people start switching links.
 

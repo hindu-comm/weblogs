@@ -17,7 +17,15 @@ Though New Englanders were often outnumbered by later waves of immigration from 
 
 Here’s a table from page 209:
 
-|                        |               |                   |                 |                     |           |            | |:-----------------------|:--------------|:------------------|:----------------|:--------------------|:----------|:-----------| | **Nativity in 1850**   |               |                   |                 |                     |           |            | | **State of residence** | **Own State** | **Old Northwest** | **New England** | **Middle Atlantic** | **South** | **Europe** | | Ohio                   | 64%           | 0%                | 3%              | 15%                 | 8%        | 10%        | | Indiana                | 53%           | 14%               | 1%              | 8%                  | 18%       | 6%         | | Illinois               | 41%           | 13%               | 4%              | 13%                 | 15%       | 13%        | | Michigan               | 35%           | 5%                | 8%              | 38%                 | 1%        | 14%        | | Wisconsin              | 21%           | 8%                | 9%              | 26%                 | 2%        | 35%        |
+|                        |               |                   |                 |                     |           |            |
+|:-----------------------|:--------------|:------------------|:----------------|:--------------------|:----------|:-----------|
+| **Nativity in 1850**   |               |                   |                 |                     |           |            |
+| **State of residence** | **Own State** | **Old Northwest** | **New England** | **Middle Atlantic** | **South** | **Europe** |
+| Ohio                   | 64%           | 0%                | 3%              | 15%                 | 8%        | 10%        |
+| Indiana                | 53%           | 14%               | 1%              | 8%                  | 18%       | 6%         |
+| Illinois               | 41%           | 13%               | 4%              | 13%                 | 15%       | 13%        |
+| Michigan               | 35%           | 5%                | 8%              | 38%                 | 1%        | 14%        |
+| Wisconsin              | 21%           | 8%                | 9%              | 26%                 | 2%        | 35%        |
 
 There’s an important note to this table, a disproportionate number of those from the “Middle Atlantic” are from areas of upstate New York which were settled from New England, so the proportions for New England are large underestimates. You can see that even in 1850 the general cultural outline of many states was established. In Wisconsin and Minnesota the original Yankee stock paled in comparison to the numbers of Scandinavians and Germans. Far less of this would occur in Michigan, and some immigrant groups such as the Dutch in southwest portion of the state had folkways very similar to those of the Yankees from New England. Some states, such as Illinois and Ohio, were bisected between a northern and southern half where migrants from different areas of the United States settled. In contrast, Indiana was settled mostly from neighboring regions of the South.
 

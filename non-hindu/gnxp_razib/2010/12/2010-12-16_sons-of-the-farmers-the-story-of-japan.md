@@ -31,7 +31,27 @@ First, it is reasonable that the Denver and Singapore Chinese sample would have 
 
 ------------------------------------------------------------------------
 
-|                             |        | |-----------------------------|--------| | **Population**              | **13** | | Melanesian                  | 99.99  | | Paniya (South Indian tribe) | 6.18   | | Malayan                     | 2.85   | | North Kannada               | 1.44   | | Malay, Singapore            | 1.34   | | Sakilli (South Indian)      | 1.02   | | Japanese                    | 0.71   | | Japanese \#2                | 0.7    | | Papuan                      | 0.56   | | Cambodians                  | 0.53   | | Ethiopians                  | 0.51   | | Yizu                        | 0.48   | | Ket                         | 0.41   | | Uygur                       | 0.39   | | Yakut                       | 0.08   | | Chinese, Beijing            | 0.06   | | Chinese, Singapore          | 0.03   | | Chukchi                     | 0.03   |
+|                             |        |
+|-----------------------------|--------|
+| **Population**              | **13** |
+| Melanesian                  | 99.99  |
+| Paniya (South Indian tribe) | 6.18   |
+| Malayan                     | 2.85   |
+| North Kannada               | 1.44   |
+| Malay, Singapore            | 1.34   |
+| Sakilli (South Indian)      | 1.02   |
+| Japanese                    | 0.71   |
+| Japanese \#2                | 0.7    |
+| Papuan                      | 0.56   |
+| Cambodians                  | 0.53   |
+| Ethiopians                  | 0.51   |
+| Yizu                        | 0.48   |
+| Ket                         | 0.41   |
+| Uygur                       | 0.39   |
+| Yakut                       | 0.08   |
+| Chinese, Beijing            | 0.06   |
+| Chinese, Singapore          | 0.03   |
+| Chukchi                     | 0.03   |
 
 ------------------------------------------------------------------------
 

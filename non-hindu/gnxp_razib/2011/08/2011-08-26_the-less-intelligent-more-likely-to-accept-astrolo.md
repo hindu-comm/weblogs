@@ -17,7 +17,43 @@ It’s also nice that this question was only asked in the latter half of the 200
 
 ------------------------------------------------------------------------
 
-|                                         |                     |                        |                           | |-----------------------------------------|---------------------|------------------------|---------------------------| |                                         | **Very scientific** | **Sort of scientific** | **Not at all scientific** | | Male                                    | 5                   | 26                     | 69                        | | Female                                  | 5                   | 30                     | 65                        | | Age 18-34                               | 8                   | 34                     | 58                        | | Age 35-64                               | 4                   | 26                     | 70                        | | Age 65-                                 | 4                   | 24                     | 72                        | | White                                   | 4                   | 25                     | 72                        | | Black                                   | 11                  | 38                     | 51                        | | Hispanic                                | 8                   | 40                     | 51                        | | Extreme liberal                         | 7                   | 31                     | 62                        | | Liberal                                 | 5                   | 30                     | 65                        | | Slightly iberal                         | 4                   | 28                     | 68                        | | Moderate                                | 5                   | 34                     | 61                        | | Slightly conservative                   | 5                   | 25                     | 70                        | | Conservative                            | 6                   | 19                     | 75                        | | Extreme conservative                    | 6                   | 18                     | 76                        | | No high school diploma                  | 9                   | 41                     | 50                        | | High school diploma                     | 7                   | 32                     | 62                        | | Junior college                          | 4                   | 28                     | 68                        | | Bachelor                                | 2                   | 17                     | 80                        | | Graduate degree                         | 1                   | 13                     | 85                        | | Atheist and agnostic                    | 6                   | 23                     | 71                        | | Higher power                            | 4                   | 28                     | 68                        | | Believes in god sometimes               | 7                   | 24                     | 70                        | | Believe in god, but with doubts         | 4                   | 27                     | 69                        | | Know god exists                         | 6                   | 30                     | 65                        | | Protestant                              | 5                   | 27                     | 68                        | | Catholic                                | 5                   | 31                     | 64                        | | Jewish                                  | 6                   | 16                     | 78                        | | No religion                             | 7                   | 28                     | 65                        | | Bible word of god                       | 6                   | 31                     | 64                        | | Bible inspired word of god              | 5                   | 28                     | 67                        | | Bible book of fables                    | 6                   | 25                     | 70                        | | Human beings developed from animals     | 6                   | 28                     | 66                        | | Human beings don’t develop from animals | 5                   | 26                     | 69                        |
+|                                         |                     |                        |                           |
+|-----------------------------------------|---------------------|------------------------|---------------------------|
+|                                         | **Very scientific** | **Sort of scientific** | **Not at all scientific** |
+| Male                                    | 5                   | 26                     | 69                        |
+| Female                                  | 5                   | 30                     | 65                        |
+| Age 18-34                               | 8                   | 34                     | 58                        |
+| Age 35-64                               | 4                   | 26                     | 70                        |
+| Age 65-                                 | 4                   | 24                     | 72                        |
+| White                                   | 4                   | 25                     | 72                        |
+| Black                                   | 11                  | 38                     | 51                        |
+| Hispanic                                | 8                   | 40                     | 51                        |
+| Extreme liberal                         | 7                   | 31                     | 62                        |
+| Liberal                                 | 5                   | 30                     | 65                        |
+| Slightly iberal                         | 4                   | 28                     | 68                        |
+| Moderate                                | 5                   | 34                     | 61                        |
+| Slightly conservative                   | 5                   | 25                     | 70                        |
+| Conservative                            | 6                   | 19                     | 75                        |
+| Extreme conservative                    | 6                   | 18                     | 76                        |
+| No high school diploma                  | 9                   | 41                     | 50                        |
+| High school diploma                     | 7                   | 32                     | 62                        |
+| Junior college                          | 4                   | 28                     | 68                        |
+| Bachelor                                | 2                   | 17                     | 80                        |
+| Graduate degree                         | 1                   | 13                     | 85                        |
+| Atheist and agnostic                    | 6                   | 23                     | 71                        |
+| Higher power                            | 4                   | 28                     | 68                        |
+| Believes in god sometimes               | 7                   | 24                     | 70                        |
+| Believe in god, but with doubts         | 4                   | 27                     | 69                        |
+| Know god exists                         | 6                   | 30                     | 65                        |
+| Protestant                              | 5                   | 27                     | 68                        |
+| Catholic                                | 5                   | 31                     | 64                        |
+| Jewish                                  | 6                   | 16                     | 78                        |
+| No religion                             | 7                   | 28                     | 65                        |
+| Bible word of god                       | 6                   | 31                     | 64                        |
+| Bible inspired word of god              | 5                   | 28                     | 67                        |
+| Bible book of fables                    | 6                   | 25                     | 70                        |
+| Human beings developed from animals     | 6                   | 28                     | 66                        |
+| Human beings don’t develop from animals | 5                   | 26                     | 69                        |
 
 ------------------------------------------------------------------------
 
@@ -25,7 +61,20 @@ But what about intelligence? To look at that I used the WORDSUM variable, which 
 
 ------------------------------------------------------------------------
 
-|             |                     |                        |                           | |-------------|---------------------|------------------------|---------------------------| | **WORDSUM** | **Very scientific** | **Sort of scientific** | **Not at all scientific** | | 0           | 13                  | 37                     | 50                        | | 1           | 14                  | 35                     | 51                        | | 2           | 14                  | 47                     | 39                        | | 3           | 8                   | 43                     | 49                        | | 4           | 5                   | 43                     | 52                        | | 5           | 4                   | 31                     | 65                        | | 6           | 7                   | 28                     | 65                        | | 7           | 4                   | 20                     | 76                        | | 8           | 4                   | 18                     | 79                        | | 9           | 1                   | 19                     | 80                        | | 10          |                     | 14                     | 86                        |
+|             |                     |                        |                           |
+|-------------|---------------------|------------------------|---------------------------|
+| **WORDSUM** | **Very scientific** | **Sort of scientific** | **Not at all scientific** |
+| 0           | 13                  | 37                     | 50                        |
+| 1           | 14                  | 35                     | 51                        |
+| 2           | 14                  | 47                     | 39                        |
+| 3           | 8                   | 43                     | 49                        |
+| 4           | 5                   | 43                     | 52                        |
+| 5           | 4                   | 31                     | 65                        |
+| 6           | 7                   | 28                     | 65                        |
+| 7           | 4                   | 20                     | 76                        |
+| 8           | 4                   | 18                     | 79                        |
+| 9           | 1                   | 19                     | 80                        |
+| 10          |                     | 14                     | 86                        |
 
 ------------------------------------------------------------------------
 

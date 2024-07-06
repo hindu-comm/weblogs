@@ -11,7 +11,19 @@ The revival of the American city?
 
 I’ve never watched *Mad Men*, but I really can’t help but hear all about the show. One thing that has struck me about the change from then, \~1960, to now, \~2010, is the alignment of quantitative demographic trends with impressionistic cultural ones. **The 1970s were a disaster for the old urban order.** Below are the [top 10 cities by population](https://en.wikipedia.org/wiki/Largest_cities_in_the_United_States_by_population_by_decade#1960) in 1960 and 2010.
 
-|          |              |              | |:---------|:-------------|:-------------| | **Rank** | **1960**     | **2010**     | | 1        | New York     | New York     | | 2        | Chicago      | Los Angeles  | | 3        | Los Angeles  | Chicago      | | 4        | Philadelphia | Houston      | | 5        | Detroit      | Philadelphia | | 6        | Baltimore    | Phoenix      | | 7        | Houston      | San Antonio  | | 8        | Cleveland    | San Diego    | | 9        | Washington   | Dallas       | | 10       | St. Louis    | San Jose     |
+|          |              |              |
+|:---------|:-------------|:-------------|
+| **Rank** | **1960**     | **2010**     |
+| 1        | New York     | New York     |
+| 2        | Chicago      | Los Angeles  |
+| 3        | Los Angeles  | Chicago      |
+| 4        | Philadelphia | Houston      |
+| 5        | Detroit      | Philadelphia |
+| 6        | Baltimore    | Phoenix      |
+| 7        | Houston      | San Antonio  |
+| 8        | Cleveland    | San Diego    |
+| 9        | Washington   | Dallas       |
+| 10       | St. Louis    | San Jose     |
 
 The rise of the [“Sun Belt”](https://en.wikipedia.org/wiki/Sun_Belt), housing bubble notwithstanding, is a real and awesome phenomenon. Below the fold I’ve taken some demographic trend data for the top 10 cities of 1960. The first two panels show raw population data. The second two panels show the decade-to-decade change in population in terms of multiples (i.e., 1.2 for 2010 means that the population in 2010 was 1.2 times that in 2000).
 

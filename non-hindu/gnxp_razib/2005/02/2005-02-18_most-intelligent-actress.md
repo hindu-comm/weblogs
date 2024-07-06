@@ -31,7 +31,21 @@ We don’t often read about brainy actresses, so I thought I’d do my part to b
 
 ![](https://images.google.com/images?q=tbn:CSkxMKSs2yMJ:http://www.chez.com/celebritey/stone/Sharon_stone86.JPG)![](http://images.google.com/images?q=tbn:CSkxMKSs2yMJ:http://www.chez.com/celebritey/stone/Sharon_stone86.JPG) Sharon Stone: At the age of fifteen won a [scholarship](http://askmen.com/women/actress_60/90b_sharon_stone.html) to Pennsylvania’s Edinboro University, is a member of MENSA and has a [reputed](http://www.celebwelove.com/Sharon_Stone/) IQ of 154.
 
-|                                                          |                 | |----------------------------------------------------------|-----------------| | Most Intelligent Actress                                 |                 | |                                                          | Hedy Lamar      | |                                                          | Danica McKellar | |                                                          | Natalie Portman | |                                                          | Cindy Crawford  | |                                                          | Teri Hatcher    | |                                                          | Ally Walker     | |                                                          | Jodie Foster    | |                                                          | Lisa Kudrow     | |                                                          | Brooke Shields  | |                                                          | Sharon Stone    | |                                                        |                 | | [Free polls from Pollhost.com](http://www.pollhost.com/) |                 |
+|                                                          |                 |
+|----------------------------------------------------------|-----------------|
+| Most Intelligent Actress                                 |                 |
+|                                                          | Hedy Lamar      |
+|                                                          | Danica McKellar |
+|                                                          | Natalie Portman |
+|                                                          | Cindy Crawford  |
+|                                                          | Teri Hatcher    |
+|                                                          | Ally Walker     |
+|                                                          | Jodie Foster    |
+|                                                          | Lisa Kudrow     |
+|                                                          | Brooke Shields  |
+|                                                          | Sharon Stone    |
+|                                                        |                 |
+| [Free polls from Pollhost.com](http://www.pollhost.com/) |                 |
 
 Posted by TangoMan at [01:47 AM](https://www.gnxp.com/MT2/archives/003614.html) [](http://js-kit.com/api/static/pop_comments?ref=http://gnxp.com&path=/3614?url=http://www.gnxp.com/MT2/archives/003614.html&thetime=%20021805&MT=true)
 

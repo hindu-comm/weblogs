@@ -21,7 +21,13 @@ Besides this philosophical advantage, the GPM approach has a numerical advantage
 
 Let’s say for numerical simplicity that you want to go 240 miles in both. In your initial situation, it takes 20 gallons for the truck and 8 gallons for the car, for 28 gallons total. If you replace the car, the same journey will take 6 gallons for the car for a total of 26 gallons. If you replace the truck, the new one takes only 15 gallons for a total of 23 gallons. It’s a *much* better deal to replace the truck, even though the MPG gain seemed less impressive. We would have had to replace the 30MPG car with one that gets 80MPG to achieve the same 23 gallon result. If we had been using GPM instead of MPG, we’d never get confused on this point, and would therefore make smarter decisions. Try adding the values of 1/MPG to see that this is true, as in the following table.
 
-|                |           |         |            |           |         |           | |----------------|-----------|---------|------------|-----------|---------|-----------| | Scenario       | truck MPG | car MPG | gal/240 mi | truck GPM | car GPM | total GPM | | Original       | 12        | 30      | 28         | 0.0833    | 0.0333  | 0.1167    | | Replace Car    | 12        | 40      | 26         | 0.0833    | 0.025   | 0.1083    | | Replace Truck  | 16        | 30      | 23         | 0.0625    | 0.0333  | 0.0958    | | Equivalent Car | 12        | 80      | 23         | 0.0833    | 0.0125  | 0.0958    |
+|                |           |         |            |           |         |           |
+|----------------|-----------|---------|------------|-----------|---------|-----------|
+| Scenario       | truck MPG | car MPG | gal/240 mi | truck GPM | car GPM | total GPM |
+| Original       | 12        | 30      | 28         | 0.0833    | 0.0333  | 0.1167    |
+| Replace Car    | 12        | 40      | 26         | 0.0833    | 0.025   | 0.1083    |
+| Replace Truck  | 16        | 30      | 23         | 0.0625    | 0.0333  | 0.0958    |
+| Equivalent Car | 12        | 80      | 23         | 0.0833    | 0.0125  | 0.0958    |
 
 ### A New Measure for All Cars: Electric and Gasoline
 

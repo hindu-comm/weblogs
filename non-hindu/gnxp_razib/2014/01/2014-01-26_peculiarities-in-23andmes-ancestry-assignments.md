@@ -15,7 +15,13 @@ Everyone knows that I think [23andme](https://www.23andme.com//) provides a grea
 
 But this is a minor concern in comparison to something else I’ve noticed. Here are some ancestral proportions from my family:
 
-|                           |                     |                     | |---------------------------|---------------------|---------------------| | ****                     | **French & German** | **British & Irish** | | **Razib’s daughter**      | 14.0%               | 8.0%                | | **Razib’s wife**          | 5.8%                | 1.6%                | | **Razib’s father-in-law** | 5.2%                | 2.4%                | | **Razib’s mother-in-law** | 3.0%                | 3.1%                |
+|                           |                     |                     |
+|---------------------------|---------------------|---------------------|
+| ****                     | **French & German** | **British & Irish** |
+| **Razib’s daughter**      | 14.0%               | 8.0%                |
+| **Razib’s wife**          | 5.8%                | 1.6%                |
+| **Razib’s father-in-law** | 5.2%                | 2.4%                |
+| **Razib’s mother-in-law** | 3.0%                | 3.1%                |
 
 I’ll tell you right now that **I don’t have any European ancestry according to 23andMe, so my daughter’s elevated French & German and British & Irish have nothing to do with her paternal lineage.** In addition I can look at the chromosome level ancestry. Most of my daughter’s chromosome 3 and all of chromosome 6 are French & German (at least the ones obviously inherited from her mother). But there is no French & German ancestry for my wife on these chromosomes (either copy). There is one recombination event from her maternal chromosome 6 and three for chromosome 3, but I don’t think that should have such a large effect.
 

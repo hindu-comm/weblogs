@@ -19,7 +19,48 @@ But this section of the *Quartz* piece jumped out at me:
 
 Two East Asian nations have large numbers of Catholics, Protestants, Buddhists, and those who are irreligious, in [The World Values Survey](http://www.worldvaluessurvey.org/WVSOnline.jsp). There is a question which asks, “is abortion ever justifiable?” The respondents are given a 1 t o 10 scale. 10 is “always justifiable,” and “1” is “never justifiable.” Below are the results (Poland is a “control”).
 
-|                    |             |          |            |          | |--------------------|-------------|----------|------------|----------| | **Abortion is….**  |             |          |            |          | | ****              |             |          |            |          | | **Singapore**      | No Religion | Buddhist | Protestant | Catholic | | Never justifiable  | 19.4        | 20.0     | 33.3       | 24.6     | | 2                  | 5.0         | 10.4     | 10.4       | 13.8     | | 3                  | 9.0         | 12.0     | 16.6       | 11.0     | | 4                  | 11.7        | 13.5     | 8.4        | 9.7      | | 5                  | 28.5        | 26.2     | 20.9       | 25.5     | | 6                  | 10.6        | 6.9      | 4.5        | 4.6      | | 7                  | 7.0         | 6.9      | 3.9        | 7.6      | | 8                  | 5.7         | 3.1      | 0.8        | 2.5      | | 9                  | 0.9         | 0.6      | 0.9        | 0.7      | | Always justifiable | 2.2         | 0.4      | 0.4        | 0        | | N                  | 349         | 579      | 197        | 120      | |                    |             |          |            |          | | **South Korea**    | None        | Buddhist | Protestant | Catholic | | Never justifiable  | 31.8        | 41.0     | 38.6       | 41.1     | | 2                  | 5.5         | 6.0      | 7.8        | 9.6      | | 3                  | 9.4         | 17.0     | 13.4       | 7.9      | | 4                  | 11.1        | 6.6      | 9.6        | 11.9     | | 5                  | 21.4        | 14.9     | 14.1       | 14.9     | | 6                  | 9.5         | 3.7      | 8.1        | 3.3      | | 7                  | 5.5         | 5.2      | 3.8        | 6.2      | | 8                  | 4.3         | 3.2      | 1.0        | 3.4      | | 9                  | 0.7         | 1.2      | 3.4        | 1.3      | | Always justifiable | 0.8         | 1.1      | 0.2        | 0.4      | | N                  | 493         | 244      | 252        | 188      | |                    |             |          |            |          | | **Poland**         | None        |          |            | Catholic | | Never justifiable  | 13.2        |          |            | 48.4     | | 2                  | 4.0         |          |            | 10.1     | | 3                  | 8.3         |          |            | 8.0      | | 4                  | 4.1         |          |            | 3.8      | | 5                  | 27.2        |          |            | 14.0     | | 6                  | 14.7        |          |            | 5.0      | | 7                  | 5.9         |          |            | 3.9      | | 8                  | 9.3         |          |            | 3.0      | | 9                  | 2.1         |          |            | 1.3      | | Always justifiable | 11.2        |          |            | 2.5      | | N                  | 45          |          |            | 844      |
+|                    |             |          |            |          |
+|--------------------|-------------|----------|------------|----------|
+| **Abortion is….**  |             |          |            |          |
+| ****              |             |          |            |          |
+| **Singapore**      | No Religion | Buddhist | Protestant | Catholic |
+| Never justifiable  | 19.4        | 20.0     | 33.3       | 24.6     |
+| 2                  | 5.0         | 10.4     | 10.4       | 13.8     |
+| 3                  | 9.0         | 12.0     | 16.6       | 11.0     |
+| 4                  | 11.7        | 13.5     | 8.4        | 9.7      |
+| 5                  | 28.5        | 26.2     | 20.9       | 25.5     |
+| 6                  | 10.6        | 6.9      | 4.5        | 4.6      |
+| 7                  | 7.0         | 6.9      | 3.9        | 7.6      |
+| 8                  | 5.7         | 3.1      | 0.8        | 2.5      |
+| 9                  | 0.9         | 0.6      | 0.9        | 0.7      |
+| Always justifiable | 2.2         | 0.4      | 0.4        | 0        |
+| N                  | 349         | 579      | 197        | 120      |
+|                    |             |          |            |          |
+| **South Korea**    | None        | Buddhist | Protestant | Catholic |
+| Never justifiable  | 31.8        | 41.0     | 38.6       | 41.1     |
+| 2                  | 5.5         | 6.0      | 7.8        | 9.6      |
+| 3                  | 9.4         | 17.0     | 13.4       | 7.9      |
+| 4                  | 11.1        | 6.6      | 9.6        | 11.9     |
+| 5                  | 21.4        | 14.9     | 14.1       | 14.9     |
+| 6                  | 9.5         | 3.7      | 8.1        | 3.3      |
+| 7                  | 5.5         | 5.2      | 3.8        | 6.2      |
+| 8                  | 4.3         | 3.2      | 1.0        | 3.4      |
+| 9                  | 0.7         | 1.2      | 3.4        | 1.3      |
+| Always justifiable | 0.8         | 1.1      | 0.2        | 0.4      |
+| N                  | 493         | 244      | 252        | 188      |
+|                    |             |          |            |          |
+| **Poland**         | None        |          |            | Catholic |
+| Never justifiable  | 13.2        |          |            | 48.4     |
+| 2                  | 4.0         |          |            | 10.1     |
+| 3                  | 8.3         |          |            | 8.0      |
+| 4                  | 4.1         |          |            | 3.8      |
+| 5                  | 27.2        |          |            | 14.0     |
+| 6                  | 14.7        |          |            | 5.0      |
+| 7                  | 5.9         |          |            | 3.9      |
+| 8                  | 9.3         |          |            | 3.0      |
+| 9                  | 2.1         |          |            | 1.3      |
+| Always justifiable | 11.2        |          |            | 2.5      |
+| N                  | 45          |          |            | 844      |
 
 What’s this telling us? In South Korea there really isn’t much of a difference between the religions, and the gap between religious and irreligious is modest. South Korea has historically been the most Confucian nation in the world. But there is a lot of ambivalence about abortion. The results for Poland show that the irreligious are very different from Catholics. Singapore shows that Buddhists and those with no religion cluster together, but Catholics are not particularly anti-abortion, but Protestants are.
 

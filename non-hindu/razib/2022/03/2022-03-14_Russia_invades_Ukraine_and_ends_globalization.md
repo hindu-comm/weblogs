@@ -33,7 +33,9 @@ Email
 
 Audio playback is not supported on your browser. Please upgrade.
 
-|     |                        |                                                                                                                                                                               |                        |     | |-----|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----| |    | [](javascript:void(0)) | [![](https://cdn.substack.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Faudio-player-play.png)](javascript:void(0)) | [](javascript:void(0)) |    |
+|     |                        |                                                                                                                                                                               |                        |     |
+|-----|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----|
+|    | [](javascript:void(0)) | [![](https://cdn.substack.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Faudio-player-play.png)](javascript:void(0)) | [](javascript:void(0)) |    |
 
 1x1.25x1.5x1.75x2x
 

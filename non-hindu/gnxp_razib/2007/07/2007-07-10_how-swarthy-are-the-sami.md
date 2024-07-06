@@ -11,7 +11,16 @@ How swarthy are the Sami?
 
 ![renee-zellweger-picture-1.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2007/07/renee-zellweger-picture-1.jpg?resize=200%2C178)![renee-zellweger-picture-1.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2007/07/renee-zellweger-picture-1.jpg?resize=200%2C178)Someone asked below if the [Sami](https://en.wikipedia.org/wiki/Sami_people) are actually darker than the Finns. Since I’ve been making this assumption in previous posts I thought I’d check this out. I found [this source](https://finnanthro.blogspot.com/2007/02/sami-of-finnish-lapland.html) for the Finnish Sami where they cite a 1936 paper written in German. I’ve translated the relevant table (hair and skin color) below. The source above also has data on some provinces of central and southern Finland where one presumes the Sami presence is minimal, though I can’t vouch for proper calibration of the metrics, I’ve included the appropriate snippets.
 
-|     |               |       |       |     |                |             |            |       |     |           | |-----|---------------|-------|-------|-----|----------------|-------------|------------|-------|-----|-----------| |    | **Eye color** |       |       |     | **Hair color** |             |            |       |     |          | |     |              |       |       |     |                |             |            |       |     |           | |     | Light         | Mixed | Brown | *n* | Blonde         | Light Brown | Dark Brown | Black | *n* | *Males*   | |     | 31.1%         | 53.7% | 15.2% | 164 | 2.4%           | 14.8%       | 68.6%      | 14.2% | 169 |           | |     |              |       |       |     |                |             |            |       |     |           | |     |              |       |       |     |                |             |            |       |     |           | |     | 19.9%         | 49.4% | 30.7% | 166 | 0.6%           | 16.4%       | 70.3%      | 12.7% | 165 | *Females* | |     |              |       |       |     |                |             |            |       |     |           |
+|     |               |       |       |     |                |             |            |       |     |           |
+|-----|---------------|-------|-------|-----|----------------|-------------|------------|-------|-----|-----------|
+|    | **Eye color** |       |       |     | **Hair color** |             |            |       |     |          |
+|     |              |       |       |     |                |             |            |       |     |           |
+|     | Light         | Mixed | Brown | *n* | Blonde         | Light Brown | Dark Brown | Black | *n* | *Males*   |
+|     | 31.1%         | 53.7% | 15.2% | 164 | 2.4%           | 14.8%       | 68.6%      | 14.2% | 169 |           |
+|     |              |       |       |     |                |             |            |       |     |           |
+|     |              |       |       |     |                |             |            |       |     |           |
+|     | 19.9%         | 49.4% | 30.7% | 166 | 0.6%           | 16.4%       | 70.3%      | 12.7% | 165 | *Females* |
+|     |              |       |       |     |                |             |            |       |     |           |
 
 Data from parts of southern Finland:
 

@@ -19,7 +19,23 @@ Below I took the data from [Pew’s Religious Identification Survey](https://rel
 
 ------------------------------------------------------------------------
 
-|                       |                  |                  |             | |-----------------------|------------------|------------------|-------------| | ***All Americans***   | **Lean Rep/Rep** | **Lean Dem/Dem** | **No Lean** | | Evangelical Churches  | 50%              | 34%              | 16%         | | Mainline Churches     | 41%              | 43%              | 16%         | | Catholics             | 33%              | 48%              | 19%         | | Buddhists             | 18%              | 67%              | 15%         | | Hindus                | 13%              | 63%              | 24%         | | Unaffiliated          | 23%              | 55%              | 23%         | |                       |                  |                  |             | | ***Asian Americans*** |                  |                  |             | | Evangelical Churches  | 56%              | 28%              | 16%         | | Mainline Churches     | 37%              | 44%              | 18%         | | Catholics             | 42%              | 41%              | 17%         | | Buddhists             | 27%              | 56%              | 17%         | | Hindus                | 9%               | 72%              | 19%         | | Unaffiliated          | 21%              | 63%              | 16%         |
+|                       |                  |                  |             |
+|-----------------------|------------------|------------------|-------------|
+| ***All Americans***   | **Lean Rep/Rep** | **Lean Dem/Dem** | **No Lean** |
+| Evangelical Churches  | 50%              | 34%              | 16%         |
+| Mainline Churches     | 41%              | 43%              | 16%         |
+| Catholics             | 33%              | 48%              | 19%         |
+| Buddhists             | 18%              | 67%              | 15%         |
+| Hindus                | 13%              | 63%              | 24%         |
+| Unaffiliated          | 23%              | 55%              | 23%         |
+|                       |                  |                  |             |
+| ***Asian Americans*** |                  |                  |             |
+| Evangelical Churches  | 56%              | 28%              | 16%         |
+| Mainline Churches     | 37%              | 44%              | 18%         |
+| Catholics             | 42%              | 41%              | 17%         |
+| Buddhists             | 27%              | 56%              | 17%         |
+| Hindus                | 9%               | 72%              | 19%         |
+| Unaffiliated          | 21%              | 63%              | 16%         |
 
 ------------------------------------------------------------------------
 

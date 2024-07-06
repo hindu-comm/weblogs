@@ -15,7 +15,43 @@ Blogging on an island as opposed to an archipelago
 
 And I’m not the only one. I have Google Analytics that go back very far. Below are referrals by site for equivalent periods in 2007, 2012, and 2017. I’ve standardized the top referral source (in pageviews) to 100.
 
-|     |                         |     | |-----|-------------------------|-----| |     | **2017, June – Aug**    |     | | 1   | **twitter**             | 100 | | 2   | mobile facebook         | 38  | | 3   | **unz.com**             | 36  | | 4   | facebook                | 33  | | 5   | **feedly.com**          | 20  | | 6   | slatestarcodex.com      | 19  | | 7   | **razib.com**           | 11  | | 8   | **brownpundits.com**    | 9   | | 9   | eurogenes.blogspot.com  | 9   | | 10  | vox.com                 | 6   | |     |                         |     | |     | **2012, June – Aug**    |     | | 1   | reddit.com              | 100 | | 2   | stumbleupon.com         | 60  | | 3   | facebook.com            | 49  | | 4   | **scienceblogs.com**    | 34  | | 5   | **gnxp.com**            | 31  | | 6   | fark.com                | 31  | | 7   | pulsenews               | 21  | | 8   | **twitter**             | 13  | | 9   | digg.com                | 12  | | 10  | isteve.blogspot.com     | 10  | |     |                         |     | |     | **2007, June – Aug**    |     | | 1   | digg.com                | 100 | | 2   | reddit.com              | 38  | | 3   | slashdot.org            | 20  | | 4   | isteve.com              | 19  | | 5   | stumbleupon.com         | 17  | | 6   | **scienceblogs.com**    | 11  | | 7   | dilbertblog.typepad.com | 6   | | 8   | instapundit.com         | 4   | | 9   | del.icio.us             | 4   | | 10  | buzzfeed.com            | 3   |
+|     |                         |     |
+|-----|-------------------------|-----|
+|     | **2017, June – Aug**    |     |
+| 1   | **twitter**             | 100 |
+| 2   | mobile facebook         | 38  |
+| 3   | **unz.com**             | 36  |
+| 4   | facebook                | 33  |
+| 5   | **feedly.com**          | 20  |
+| 6   | slatestarcodex.com      | 19  |
+| 7   | **razib.com**           | 11  |
+| 8   | **brownpundits.com**    | 9   |
+| 9   | eurogenes.blogspot.com  | 9   |
+| 10  | vox.com                 | 6   |
+|     |                         |     |
+|     | **2012, June – Aug**    |     |
+| 1   | reddit.com              | 100 |
+| 2   | stumbleupon.com         | 60  |
+| 3   | facebook.com            | 49  |
+| 4   | **scienceblogs.com**    | 34  |
+| 5   | **gnxp.com**            | 31  |
+| 6   | fark.com                | 31  |
+| 7   | pulsenews               | 21  |
+| 8   | **twitter**             | 13  |
+| 9   | digg.com                | 12  |
+| 10  | isteve.blogspot.com     | 10  |
+|     |                         |     |
+|     | **2007, June – Aug**    |     |
+| 1   | digg.com                | 100 |
+| 2   | reddit.com              | 38  |
+| 3   | slashdot.org            | 20  |
+| 4   | isteve.com              | 19  |
+| 5   | stumbleupon.com         | 17  |
+| 6   | **scienceblogs.com**    | 11  |
+| 7   | dilbertblog.typepad.com | 6   |
+| 8   | instapundit.com         | 4   |
+| 9   | del.icio.us             | 4   |
+| 10  | buzzfeed.com            | 3   |
 
 I removed stuff like organic Google search, which I get a fair amount of. Additionally, I bolded all the sites where I am somehow involved in driving the traffic. So in 2017 I bolded Twitter because I have a big Twitter footprint that drives a lot of the traffic. I did not bold Facebook because I don’t use Facebook much to promote this website. Other people are sharing my posts. I separated mobile and non-mobile Facebook to show you that in 2017 **mobile really matters**.
 

@@ -30,7 +30,41 @@ Variables for replication: race, partyid(r:1-3;4;5-7)\*, hispanic, degree, cohor
 
 Tables below
 
-|                         |                |                |                  |                   | |-------------------------|----------------|----------------|------------------|-------------------| |                         | White Democrat | Black Democrat | White Republican | Hispanic Democrat | | Always Wrong            | 15             | 59             | 48               | 29                | | Almost always wrong     | 2              | 4              | 5                | 5                 | | Sometimes wrong         | 7              | 3              | 6                | 6                 | | Not wrong at all        | 76             | 33             | 41               | 60                | |                         |                |                |                  |                   | | Born 1985 and later     |                |                |                  |                   | |                         | White Democrat | Black Democrat |                  |                   | | Always Wrong            | 1              | 43             |                  |                   | | Almost always wrong     | 1              | 2              |                  |                   | | Sometimes wrong         | 4              | 5              |                  |                   | | Not wrong at all        | 94             | 49             |                  |                   | |                         |                |                |                  |                   | | Born 1975 and earlier   |                |                |                  |                   | |                         | White Democrat | Black Democrat |                  |                   | | Always Wrong            | 21             | 69             |                  |                   | | Almost always wrong     | 3              | 5              |                  |                   | | Sometimes wrong         | 8              | 2              |                  |                   | | Not wrong at all        | 67             | 23             |                  |                   | |                         |                |                |                  |                   | | With college degrees    |                |                |                  |                   | |                         | White Democrat | Black Democrat |                  |                   | | Always Wrong            | 5              | 55             |                  |                   | | Almost always wrong     | 1              | 2              |                  |                   | | Sometimes wrong         | 7              | 3              |                  |                   | | Not wrong at all        | 87             | 40             |                  |                   | |                         |                |                |                  |                   | | Without college degrees |                |                |                  |                   | |                         | White Democrat | Black Democrat |                  |                   | | Always Wrong            | 22             | 61             |                  |                   | | Almost always wrong     | 3              | 5              |                  |                   | | Sometimes wrong         | 7              | 3              |                  |                   | | Not wrong at all        | 68             | 31             |                  |                   |
+|                         |                |                |                  |                   |
+|-------------------------|----------------|----------------|------------------|-------------------|
+|                         | White Democrat | Black Democrat | White Republican | Hispanic Democrat |
+| Always Wrong            | 15             | 59             | 48               | 29                |
+| Almost always wrong     | 2              | 4              | 5                | 5                 |
+| Sometimes wrong         | 7              | 3              | 6                | 6                 |
+| Not wrong at all        | 76             | 33             | 41               | 60                |
+|                         |                |                |                  |                   |
+| Born 1985 and later     |                |                |                  |                   |
+|                         | White Democrat | Black Democrat |                  |                   |
+| Always Wrong            | 1              | 43             |                  |                   |
+| Almost always wrong     | 1              | 2              |                  |                   |
+| Sometimes wrong         | 4              | 5              |                  |                   |
+| Not wrong at all        | 94             | 49             |                  |                   |
+|                         |                |                |                  |                   |
+| Born 1975 and earlier   |                |                |                  |                   |
+|                         | White Democrat | Black Democrat |                  |                   |
+| Always Wrong            | 21             | 69             |                  |                   |
+| Almost always wrong     | 3              | 5              |                  |                   |
+| Sometimes wrong         | 8              | 2              |                  |                   |
+| Not wrong at all        | 67             | 23             |                  |                   |
+|                         |                |                |                  |                   |
+| With college degrees    |                |                |                  |                   |
+|                         | White Democrat | Black Democrat |                  |                   |
+| Always Wrong            | 5              | 55             |                  |                   |
+| Almost always wrong     | 1              | 2              |                  |                   |
+| Sometimes wrong         | 7              | 3              |                  |                   |
+| Not wrong at all        | 87             | 40             |                  |                   |
+|                         |                |                |                  |                   |
+| Without college degrees |                |                |                  |                   |
+|                         | White Democrat | Black Democrat |                  |                   |
+| Always Wrong            | 22             | 61             |                  |                   |
+| Almost always wrong     | 3              | 5              |                  |                   |
+| Sometimes wrong         | 7              | 3              |                  |                   |
+| Not wrong at all        | 68             | 31             |                  |                   |
 
 \* I merged Democrat and Republican categories of intensity.
 

@@ -13,7 +13,106 @@ The Future is Kennedy
 
 So is my intuition about the Kennedy clan correct? There’s a helpful [Wikipedia page](https://en.wikipedia.org/wiki/List_of_descendants_of_Joseph_P._and_Rose_Fitzgerald_Kennedy) which lists the descendants of Joseph P. Kennedy and Rose Fitzgerald Kennedy. Several of their children died too early to have any children of their own, or did not have children. Nevertheless, I count 69 great-grandchildren of Joseph P. Kennedy! Since his coefficient of relatedness to his great-grandchildren is 1/8, you get 8.63 in terms of his contribution to the current generation. But the real action is in two of Joseph P. Kennedy’s children, Eunice and Robert, whose own children seem to be quite prolific themselves. Below the fold is a list of the descendants. I’ve omitted some of those with no children in the first two generations.
 
-|                  |                     |                            | |------------------|---------------------|----------------------------| | John F Kennedy   |                     |                            | |                  | Caroline Kennedy    |                            | |                  |                     | Rose Schlossberg           | |                  |                     | Tatiana Schlosserg         | |                  |                     | John Schlossberg           | | Eunice Kennedy   |                     |                            | |                  | Robert Shriver      |                            | |                  |                     | Rosemary Shriver           | |                  | Maria Shriver       |                            | |                  |                     | Katherine Schwarzenegger   | |                  |                     | Christina Schwarzenegger   | |                  |                     | Patrick Schwarzengger      | |                  |                     | Christopher Schwarzenegger | |                  | Tim Shriver         |                            | |                  |                     | Sophia Shriver             | |                  |                     | Timothy Shriver            | |                  |                     | Sam Shriver                | |                  |                     | Kathleen Shriver           | |                  |                     | Caroline Shriver           | |                  | Mark Shriver        |                            | |                  |                     | Mary Shriver               | |                  |                     | Thomas Shriver             | |                  |                     | Emma Shriver               | |                  | Anthony Shriver     |                            | |                  |                     | Jorge Shriver              | |                  |                     | Eunice Shriver             | |                  |                     | Francesca Shriver          | |                  |                     | Carolina Shriver           | |                  |                     | John Shriver               | | Patricia Kennedy |                     |                            | |                  | Christopher Lawford |                            | |                  |                     | David Lawford              | |                  |                     | Savannah Lawford           | |                  |                     | Matthew Lawford            | |                  | Sydney Lawford      |                            | |                  |                     | James McKelvy              | |                  |                     | Christopher McKelvy        | |                  |                     | Patrick McKelvy            | |                  |                     | Anthrony McKelvy           | |                  | Victoria Lawford    |                            | |                  |                     | Alexandra Pender           | |                  |                     | Caroline Pender            | |                  |                     | Victoria Pender            | | Robert Kennedy   |                     |                            | |                  | Kathleen Kennedy    |                            | |                  |                     | Meaghan Townsend           | |                  |                     | Maeve Townsend             | |                  |                     | Kerry Townsend             | |                  | Joe Kennedy III     |                            | |                  |                     | Matthew Kennedy            | |                  |                     | Joseph Kennedy             | |                  | Robert Kennedy Jr.  |                            | |                  |                     | Robert Kennedy III         | |                  |                     | Kathleen Kennedy           | |                  |                     | Conor Kennedy              | |                  |                     | Kyra Kennedy               | |                  |                     | William Kennedy            | |                  |                     | Aidan Kennedy              | |                  | Mary Kennedy        |                            | |                  |                     | Saoirse Hill               | |                  | Michael Kennedy     |                            | |                  |                     | Michael Kennedy Jr.        | |                  |                     | Kyle Kennedy               | |                  |                     | Rory Kennedy               | |                  | Kerry Kennedy       |                            | |                  |                     | Mariah Cuomo               | |                  |                     | Cara Cuomo                 | |                  |                     | Michaela Cuomo             | |                  | Christopher Kennedy |                            | |                  |                     | Katherine Kennedy          | |                  |                     | Christopher Kennedy Jr.    | |                  |                     | Sarah Kennedy              | |                  |                     | Care Kennedy               | |                  | Matthew Kennedy     |                            | |                  |                     | Matthew Kennedy Jr.        | |                  |                     | Caroline Kennedy           | |                  |                     | Noah Kennedy               | |                  | Douglas Kennedy     |                            | |                  |                     | Riley Kennedy              | |                  |                     | Mary Kennedy               | |                  |                     | Rowen Kennedy              | |                  | Rory Kennedy        |                            | |                  |                     | Georgia Kennedy-Bailey     | |                  |                     | Bridget Kennedy-Bailey     | |                  |                     | Zachary Kennedy-Bailey     | |                  | Jean Kennedy        |                            | |                  |                     | Stephen Smith Jr.          | |                  |                     | William Smith              | |                  |                     | Amanda Smith               | |                  |                     |                            | |                  |                     | Kym Smith                  | | Edward Kennedy   |                     |                            | |                  | Kara Kennedy        |                            | |                  |                     | Grace Allen                | |                  |                     | Max Allen                  | |                  | Edward Kennedy Jr.  |                            | |                  |                     | Kiley Kennedy              | |                  |                     | Edward Kennedy III         |
+|                  |                     |                            |
+|------------------|---------------------|----------------------------|
+| John F Kennedy   |                     |                            |
+|                  | Caroline Kennedy    |                            |
+|                  |                     | Rose Schlossberg           |
+|                  |                     | Tatiana Schlosserg         |
+|                  |                     | John Schlossberg           |
+| Eunice Kennedy   |                     |                            |
+|                  | Robert Shriver      |                            |
+|                  |                     | Rosemary Shriver           |
+|                  | Maria Shriver       |                            |
+|                  |                     | Katherine Schwarzenegger   |
+|                  |                     | Christina Schwarzenegger   |
+|                  |                     | Patrick Schwarzengger      |
+|                  |                     | Christopher Schwarzenegger |
+|                  | Tim Shriver         |                            |
+|                  |                     | Sophia Shriver             |
+|                  |                     | Timothy Shriver            |
+|                  |                     | Sam Shriver                |
+|                  |                     | Kathleen Shriver           |
+|                  |                     | Caroline Shriver           |
+|                  | Mark Shriver        |                            |
+|                  |                     | Mary Shriver               |
+|                  |                     | Thomas Shriver             |
+|                  |                     | Emma Shriver               |
+|                  | Anthony Shriver     |                            |
+|                  |                     | Jorge Shriver              |
+|                  |                     | Eunice Shriver             |
+|                  |                     | Francesca Shriver          |
+|                  |                     | Carolina Shriver           |
+|                  |                     | John Shriver               |
+| Patricia Kennedy |                     |                            |
+|                  | Christopher Lawford |                            |
+|                  |                     | David Lawford              |
+|                  |                     | Savannah Lawford           |
+|                  |                     | Matthew Lawford            |
+|                  | Sydney Lawford      |                            |
+|                  |                     | James McKelvy              |
+|                  |                     | Christopher McKelvy        |
+|                  |                     | Patrick McKelvy            |
+|                  |                     | Anthrony McKelvy           |
+|                  | Victoria Lawford    |                            |
+|                  |                     | Alexandra Pender           |
+|                  |                     | Caroline Pender            |
+|                  |                     | Victoria Pender            |
+| Robert Kennedy   |                     |                            |
+|                  | Kathleen Kennedy    |                            |
+|                  |                     | Meaghan Townsend           |
+|                  |                     | Maeve Townsend             |
+|                  |                     | Kerry Townsend             |
+|                  | Joe Kennedy III     |                            |
+|                  |                     | Matthew Kennedy            |
+|                  |                     | Joseph Kennedy             |
+|                  | Robert Kennedy Jr.  |                            |
+|                  |                     | Robert Kennedy III         |
+|                  |                     | Kathleen Kennedy           |
+|                  |                     | Conor Kennedy              |
+|                  |                     | Kyra Kennedy               |
+|                  |                     | William Kennedy            |
+|                  |                     | Aidan Kennedy              |
+|                  | Mary Kennedy        |                            |
+|                  |                     | Saoirse Hill               |
+|                  | Michael Kennedy     |                            |
+|                  |                     | Michael Kennedy Jr.        |
+|                  |                     | Kyle Kennedy               |
+|                  |                     | Rory Kennedy               |
+|                  | Kerry Kennedy       |                            |
+|                  |                     | Mariah Cuomo               |
+|                  |                     | Cara Cuomo                 |
+|                  |                     | Michaela Cuomo             |
+|                  | Christopher Kennedy |                            |
+|                  |                     | Katherine Kennedy          |
+|                  |                     | Christopher Kennedy Jr.    |
+|                  |                     | Sarah Kennedy              |
+|                  |                     | Care Kennedy               |
+|                  | Matthew Kennedy     |                            |
+|                  |                     | Matthew Kennedy Jr.        |
+|                  |                     | Caroline Kennedy           |
+|                  |                     | Noah Kennedy               |
+|                  | Douglas Kennedy     |                            |
+|                  |                     | Riley Kennedy              |
+|                  |                     | Mary Kennedy               |
+|                  |                     | Rowen Kennedy              |
+|                  | Rory Kennedy        |                            |
+|                  |                     | Georgia Kennedy-Bailey     |
+|                  |                     | Bridget Kennedy-Bailey     |
+|                  |                     | Zachary Kennedy-Bailey     |
+|                  | Jean Kennedy        |                            |
+|                  |                     | Stephen Smith Jr.          |
+|                  |                     | William Smith              |
+|                  |                     | Amanda Smith               |
+|                  |                     |                            |
+|                  |                     | Kym Smith                  |
+| Edward Kennedy   |                     |                            |
+|                  | Kara Kennedy        |                            |
+|                  |                     | Grace Allen                |
+|                  |                     | Max Allen                  |
+|                  | Edward Kennedy Jr.  |                            |
+|                  |                     | Kiley Kennedy              |
+|                  |                     | Edward Kennedy III         |
 
 ### Related Posts:
 

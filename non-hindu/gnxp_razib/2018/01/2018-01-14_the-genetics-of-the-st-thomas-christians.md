@@ -27,7 +27,22 @@ I did some f-3 tests and there isn’t anything conclusive I see to suggest Midd
 
 Finally, I ran ADMIXTURE in supervised mode. Here are the average results for a set of South Asian populations (mean values):
 
-|                      |           |              |         |             |            |                  | |----------------------|-----------|--------------|---------|-------------|------------|------------------| | **Group**            | **Druze** | **Georgian** | **Han** | **Iranian** | **Telugu** | **Yemenite Jew** | | Bangladeshi          | 1%        | 2%           | 12%     | 1%          | 83%        | 1%               | | Chamar               | 0%        | 0%           | 3%      | 0%          | 97%        | 0%               | | Gujurati_Patel       | 0%        | 1%           | 0%      | 10%         | 89%        | 0%               | | UP Kshatriya         | 0%        | 3%           | 1%      | 21%         | 76%        | 0%               | | Nasrani              | 0%        | 4%           | 1%      | 12%         | 83%        | 0%               | | Pathan               | 0%        | 4%           | 1%      | 55%         | 40%        | 0%               | | Piramalai_Kallar     | 0%        | 0%           | 2%      | 0%          | 97%        | 0%               | | SI_Brahmin           | 0%        | 4%           | 1%      | 16%         | 78%        | 0%               | | Telugu_Reddy         | 0%        | 3%           | 0%      | 0%          | 94%        | 3%               | | UP_Brahmin           | 0%        | 4%           | 1%      | 26%         | 69%        | 0%               | | UP_Kayastha          | 0%        | 0%           | 1%      | 20%         | 79%        | 0%               | | Velama               | 1%        | 1%           | 0%      | 2%          | 96%        | 0%               | | West_Bengal_Kayastha | 0%        | 0%           | 7%      | 8%          | 85%        | 0%               |
+|                      |           |              |         |             |            |                  |
+|----------------------|-----------|--------------|---------|-------------|------------|------------------|
+| **Group**            | **Druze** | **Georgian** | **Han** | **Iranian** | **Telugu** | **Yemenite Jew** |
+| Bangladeshi          | 1%        | 2%           | 12%     | 1%          | 83%        | 1%               |
+| Chamar               | 0%        | 0%           | 3%      | 0%          | 97%        | 0%               |
+| Gujurati_Patel       | 0%        | 1%           | 0%      | 10%         | 89%        | 0%               |
+| UP Kshatriya         | 0%        | 3%           | 1%      | 21%         | 76%        | 0%               |
+| Nasrani              | 0%        | 4%           | 1%      | 12%         | 83%        | 0%               |
+| Pathan               | 0%        | 4%           | 1%      | 55%         | 40%        | 0%               |
+| Piramalai_Kallar     | 0%        | 0%           | 2%      | 0%          | 97%        | 0%               |
+| SI_Brahmin           | 0%        | 4%           | 1%      | 16%         | 78%        | 0%               |
+| Telugu_Reddy         | 0%        | 3%           | 0%      | 0%          | 94%        | 3%               |
+| UP_Brahmin           | 0%        | 4%           | 1%      | 26%         | 69%        | 0%               |
+| UP_Kayastha          | 0%        | 0%           | 1%      | 20%         | 79%        | 0%               |
+| Velama               | 1%        | 1%           | 0%      | 2%          | 96%        | 0%               |
+| West_Bengal_Kayastha | 0%        | 0%           | 7%      | 8%          | 85%        | 0%               |
 
 In these results, the Nasrani do look shifted in the same direction as South Indian Brahmins, though less so. Observe that there is no clear Middle Eastern signal in the Nasrani above and beyond what you see in South Asians. This, despite the fact that Indian Jews show a very strong signal of admixture from the Middle East. At this point, I am confident in rejecting Nasrani St. Thomas Christian origins in a converted Jewish community, or one with a large degree of West Asian admixture.
 

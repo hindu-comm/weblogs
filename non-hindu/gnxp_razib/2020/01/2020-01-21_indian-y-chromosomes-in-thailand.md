@@ -15,7 +15,11 @@ But around 1000 A.D. the whole zone from the India ocean out toward the Mekong w
 
 I have posted several times about the reality that it seems the whole zone between Burma and Cambodia seems to be impacted by a non-trivial proportion of South Asian (Indian) ancestry. A new [preprint](https://www.biorxiv.org/content/10.1101/2020.01.21.913582v1) has a lot of Y chromosomes from various groups in Thailand. Below are frequencies I pulled out of two ethnic groups with large sample sizes (from table 3 in the supplements):
 
-|                  |           |       |        |       |                 | |------------------|-----------|-------|--------|-------|-----------------| |                  | **R1a+R** | **L** | **J2** | **H** | **Sample Size** | | **Mon**          | 15%       | 2%    | 5%     | 2%    | 105             | | **Central Thai** | 13%       | 0%    | 3%     | 5%    | 129             |
+|                  |           |       |        |       |                 |
+|------------------|-----------|-------|--------|-------|-----------------|
+|                  | **R1a+R** | **L** | **J2** | **H** | **Sample Size** |
+| **Mon**          | 15%       | 2%    | 5%     | 2%    | 105             |
+| **Central Thai** | 13%       | 0%    | 3%     | 5%    | 129             |
 
 These lineages are clearly more evidence of Indian males settling in this region.
 

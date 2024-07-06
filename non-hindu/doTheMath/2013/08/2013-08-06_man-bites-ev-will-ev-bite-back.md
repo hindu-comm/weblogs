@@ -92,7 +92,14 @@ Firstly, a person filling a gasoline tank at a rate of 0.1gal/sec (topping off a
 
 But let’s get back to numbers more relevant to EVs. A 300 mile range will require approximately 80kWh of on-board battery storage. This is based on typical EV performance demanding about 33kWh from the wall to propel the car 100 miles (characteristic of Tesla, Leaf, Volt, C-Max, Prius; *see table below*, and [post on EV energy efficiency](https://dothemath.ucsd.edu/2011/08/mpg-for-electric-cars/ "MPG for Electric Cars?")), so that 300 miles demands 100kWh from the wall outlet. At 80% charge efficiency, the battery holds onto (has a capacity of) 80kWh. Delivering 100kWh in 10 minutes (one sixth of an hour) demands a charge rate of 600kW. That’s serious. We’re talking about a 2500 amp breaker at 240VAC. Not in my house! Upscale neighborhoods beware of Tesla-induced brownouts…
 
-|                      |      |            |               |            | |----------------------|------|:----------:|:-------------:|:----------:| | Model                | Type | kWh/100 mi | kWh to charge | range (mi) | | Tesla Roadster       | EV   |     30     |      75       |    245     | | Nissan Leaf          | EV   |     34     |      25       |     73     | | Chevy Volt           | PHEV |     35     |      13       |     38     | | Ford C-Max Energi    | PHEV |     34     |       7       |     21     | | Toyota Prius Plug-in | PHEV |     29     |      3.2      |     11     |
+|                      |      |            |               |            |
+|----------------------|------|:----------:|:-------------:|:----------:|
+| Model                | Type | kWh/100 mi | kWh to charge | range (mi) |
+| Tesla Roadster       | EV   |     30     |      75       |    245     |
+| Nissan Leaf          | EV   |     34     |      25       |     73     |
+| Chevy Volt           | PHEV |     35     |      13       |     38     |
+| Ford C-Max Energi    | PHEV |     34     |       7       |     21     |
+| Toyota Prius Plug-in | PHEV |     29     |      3.2      |     11     |
 
 But the charging problem is also bad on the thermal front. At an 80% charge efficiency, 20% is lost as heat. For reference I measure my C-Max to consistently get just 70% efficiency at 11.5 amps and 120VAC; and 80% at 14.5 amps and 240VAC. A 20% heat loss for our dream battery becomes 120kW nightmare of waste heat to dissipate. Distributed over a 6m² area (picture a cube 1m on a side, or a flatter package fitting under the car), this is 20,000W/m². Aggressive ventilation may achieve a convection coefficient of around 50W/m²/°C, but this still leaves a 400°C surface temperature above ambient. Wowzers. We have ourselves a thermal problem, folks. Partial charges at a lower state of charge may manage to be more efficient, but that’s not a full solution to the problem.
 

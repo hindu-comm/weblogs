@@ -22,11 +22,46 @@ The tension between social and economic orientations of different regions of Chi
 
 With all this in mind, I was curious about the origins of the 20 wealthiest Chinese as of 2017. Below you see the results:
 
-|                        |                     |                         |              |               | |------------------------|---------------------|-------------------------|--------------|---------------| | **Name**               | **Net worth(USD)** | **Sources of wealth**   | **Province** | **Certainty** | | Wang Wenyin            | 14 billion          | mining, copper products | *Anhui*      |              | | Liu Yongxing           | 6.6 billion         | agribusiness            | *Fujian*     |              | | Ma Huateng             | 24.9 billion        | internet media          | *Guangdong*  |              | | He Xiangjian           | 12.3 billion        | home appliances         | *Guangdong*  |              | | Yang Huiyan            | 9 billion           | real estate             | *Guangdong*  |              | | Yao Zhenhua            | 8.4 billion         | conglomerate            | *Guangdong*  | ?             | | Zhang Zhidong          | 8.4 billion         | internet media          | *Guangdong*  | ?             | | Hui Ka Yan (Xu Jiayin) | 10.2 billion        | real estate             | Henan        |              | | Lei Jun                | 6.8 billion         | smartphones             | *Hubei*      |              | | Liu Qiangdong          | 7.7 billion         | e-commerce              | *Jiangsu*    |              | | Zhang Shiping          | 6.7 billion         | aluminum products       | Shandong     |              | | Wang Wei               | 15.9 billion        | package delivery        | *Shanghai*   |              | | Robin Li               | 13.3 billion        | internet search         | Shanxi       |              | | Wang Jianlin           | 31.3 billion        | real estate,            | *Sichuan*    |              | | Xu Shihui              | 21.1 billion        | solar power equipment   | *Sichuan*    |              | | Jack Ma                | 28.3 billion        | e-commerce              | *Zhejiang*   |              | | William Ding           | 17.3 billion        | online games            | *Zhejiang*   |              | | Zong Qinghou           | 7.2 billion         | beverages               | *Zhejiang*   |              | | Li Shufu               | 21.1 billion        | automobiles             | *Zhejiang*   |              | | Guo Guangchang         | 6.3 billion         | diversified             | *Zhejiang*   |               |
+|                        |                     |                         |              |               |
+|------------------------|---------------------|-------------------------|--------------|---------------|
+| **Name**               | **Net worth(USD)** | **Sources of wealth**   | **Province** | **Certainty** |
+| Wang Wenyin            | 14 billion          | mining, copper products | *Anhui*      |              |
+| Liu Yongxing           | 6.6 billion         | agribusiness            | *Fujian*     |              |
+| Ma Huateng             | 24.9 billion        | internet media          | *Guangdong*  |              |
+| He Xiangjian           | 12.3 billion        | home appliances         | *Guangdong*  |              |
+| Yang Huiyan            | 9 billion           | real estate             | *Guangdong*  |              |
+| Yao Zhenhua            | 8.4 billion         | conglomerate            | *Guangdong*  | ?             |
+| Zhang Zhidong          | 8.4 billion         | internet media          | *Guangdong*  | ?             |
+| Hui Ka Yan (Xu Jiayin) | 10.2 billion        | real estate             | Henan        |              |
+| Lei Jun                | 6.8 billion         | smartphones             | *Hubei*      |              |
+| Liu Qiangdong          | 7.7 billion         | e-commerce              | *Jiangsu*    |              |
+| Zhang Shiping          | 6.7 billion         | aluminum products       | Shandong     |              |
+| Wang Wei               | 15.9 billion        | package delivery        | *Shanghai*   |              |
+| Robin Li               | 13.3 billion        | internet search         | Shanxi       |              |
+| Wang Jianlin           | 31.3 billion        | real estate,            | *Sichuan*    |              |
+| Xu Shihui              | 21.1 billion        | solar power equipment   | *Sichuan*    |              |
+| Jack Ma                | 28.3 billion        | e-commerce              | *Zhejiang*   |              |
+| William Ding           | 17.3 billion        | online games            | *Zhejiang*   |              |
+| Zong Qinghou           | 7.2 billion         | beverages               | *Zhejiang*   |              |
+| Li Shufu               | 21.1 billion        | automobiles             | *Zhejiang*   |              |
+| Guo Guangchang         | 6.3 billion         | diversified             | *Zhejiang*   |               |
 
 A few of the individuals I’m not totally sure about in terms of where they were born, but I think I guessed correctly. Comparing representation on the list to national population by province, and you get:
 
-|              |           |             | |--------------|-----------|-------------| | **Province** | **Pop %** | **On list** | | Guangdong    | 8%        | 25%         | | Zheijiang    | 4%        | 25%         | | Sichuan      | 8%        | 10%         | | Fujian       | 3%        | 5%          | | Anhui        | 5%        | 5%          | | Henan        | 7%        | 5%          | | Hubei        | 4%        | 5%          | | Jiangsu      | 6%        | 5%          | | Shanghai     | 2%        | 5%          | | Shanxi       | 3%        | 5%          | | Shandong     | 7%        | 5%          |
+|              |           |             |
+|--------------|-----------|-------------|
+| **Province** | **Pop %** | **On list** |
+| Guangdong    | 8%        | 25%         |
+| Zheijiang    | 4%        | 25%         |
+| Sichuan      | 8%        | 10%         |
+| Fujian       | 3%        | 5%          |
+| Anhui        | 5%        | 5%          |
+| Henan        | 7%        | 5%          |
+| Hubei        | 4%        | 5%          |
+| Jiangsu      | 6%        | 5%          |
+| Shanghai     | 2%        | 5%          |
+| Shanxi       | 3%        | 5%          |
+| Shandong     | 7%        | 5%          |
 
 Zheijang-Jiangsu-Shangai is the core economic region highlighted by Pomeranz. About 12% of China’s population resides in these jurisdictions, but 35%, 7 out of 20, of its 20 wealthiest individuals were born here. Guangdong, as ground zero of the new economic revolution has clearly benefited.
 

@@ -8,15 +8,42 @@ Source: [here](https://manasataramgini.wordpress.com/2009/07/10/some-philologica
 
 The vaiShNava had brought my attention to a fragment of a text on vArAhI sAdhana of the brAhmaNa shrIdhara that was transmitted to both the Uighurs and the Chingizid Mongols. It described the yoginI-s in the AvaraNa of eka-virA vajravArAhI. It presented a number of interesting philological features that lead us to the study in greater detail of the material collected by Shogaito in his analysis of Uighur and Mongolian vocabularies:
 
-|            |               |             | |------------|---------------|-------------| | Sanskrit   | Uighur        | Mongolian   | | chakravegA | cakira-a-vigi | cagr-a-bigi | | khaNDarohA | kanta-roxi    | khaNDarohi  | | mahAvIryA  | maxa-viry-a   | mahA-biry-a | | suvirA     | suviri        | subiri      |
+|            |               |             |
+|------------|---------------|-------------|
+| Sanskrit   | Uighur        | Mongolian   |
+| chakravegA | cakira-a-vigi | cagr-a-bigi |
+| khaNDarohA | kanta-roxi    | khaNDarohi  |
+| mahAvIryA  | maxa-viry-a   | mahA-biry-a |
+| suvirA     | suviri        | subiri      |
 
 Other words:
 
-|            |            |           | |------------|------------|-----------| | Sanskrit   | Uighur     | Mongolian | | chitra     | chitri     | citiri    | | brAhmaNa   | biraman    | biraman   | | kalpa      | kalp       | galb      | | preta      | prit/pirit | birit     | | shloka     | shlok      | silüg     | | vajra      | vcir       | vcir      | | virupAkSha | virupakshi | virubagsi |
+|            |            |           |
+|------------|------------|-----------|
+| Sanskrit   | Uighur     | Mongolian |
+| chitra     | chitri     | citiri    |
+| brAhmaNa   | biraman    | biraman   |
+| kalpa      | kalp       | galb      |
+| preta      | prit/pirit | birit     |
+| shloka     | shlok      | silüg     |
+| vajra      | vcir       | vcir      |
+| virupAkSha | virupakshi | virubagsi |
 
 Then we have the names of various deities:
 
-|             |             |             | |-------------|-------------|-------------| | Sanskrit    | Uighur      | Mongolian   | | mahAdeva    | maxadivi    | maqadivi    | | Aditya      | aditya      | naran (Mon) | | soma        | soma        | saran (Mon) | | bR^ihaspati | barxasuvadi | briqasbadi  | | vaishravaNa | bishaman    | bisman      | | buddha      | burxan      | purghan     | | garuDa      | garudi      | garudi      | | asura       | asuri       | asuri       | | gandharva   | gandarvi    | gandarwi    | | mahAsena    | maxaseni    | maqasini    |
+|             |             |             |
+|-------------|-------------|-------------|
+| Sanskrit    | Uighur      | Mongolian   |
+| mahAdeva    | maxadivi    | maqadivi    |
+| Aditya      | aditya      | naran (Mon) |
+| soma        | soma        | saran (Mon) |
+| bR^ihaspati | barxasuvadi | briqasbadi  |
+| vaishravaNa | bishaman    | bisman      |
+| buddha      | burxan      | purghan     |
+| garuDa      | garudi      | garudi      |
+| asura       | asuri       | asuri       |
+| gandharva   | gandarvi    | gandarwi    |
+| mahAsena    | maxaseni    | maqasini    |
 
 E.g. of an Uighur text with recognizable words of Sanskrit origin (from an inscription near Beijing from the reign of Toghun Temür):  
 abitalI shaki-munili sarva-vitñeli  

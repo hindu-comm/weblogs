@@ -26,7 +26,73 @@ In any case, I began to think of this after a recent post by the quant-blogger [
 
 You can see the full list at the [Audacious Epigone](https://anepigone.blogspot.com/2011/01/average-iq-by-occupation-estimated-from.html)‘s place, but here’s a selection I found of interest:
 
-|                                    |                                     | |------------------------------------|-------------------------------------| | **Occupation**                     | **Estimated IQ from median income** | | Surgeon                            | 234                                 | | Physician                          | 161                                 | | CEO                                | 148                                 | | Dentist                            | 140                                 | | Attorney                           | 128                                 | | Petroleum engineer                 | 126                                 | | Pharmacist                         | 126                                 | | Physicist                          | 125                                 | | Astronomer                         | 125                                 | | Financial planner                  | 123                                 | | Nuclear engineer                   | 121                                 | | Optometrist                        | 121                                 | | Aerospace engineer                 | 120                                 | | Mathematician                      | 120                                 | | Economist                          | 117                                 | | Software engineer                  | 117                                 | | School principle                   | 116                                 | | Electrical engineer                | 115                                 | | Web developer                      | 115                                 | | Construction foreman               | 115                                 | | Geologist                          | 114                                 | | Veterinarian                       | 114                                 | | Mechanical engineer                | 113                                 | | Biologist                          | 111                                 | | Statistician                       | 111                                 | | Architect                          | 111                                 | | Chemist                            | 109                                 | | Stockbroker                        | 109                                 | | Registered nurse                   | 107                                 | | Historian                          | 107                                 | | Philosopher                        | 106                                 | | Accountant                         | 106                                 | | Farmer                             | 105                                 | | Zoologist                          | 104                                 | | Author                             | 103                                 | | Undertaker                         | 103                                 | | Librarian                          | 103                                 | | Anthropologist                     | 103                                 | | Dietician                          | 102                                 | | Archeologist                       | 102                                 | | Physiologist                       | 102                                 | | Teacher                            | 102                                 | | Police officer                     | 101                                 | | Actor                              | 101                                 | | Electrician                        | 100                                 | | Paralegal                          | 100                                 | | Plumber                            | 100                                 | | Clergy                             | 98                                  | | Social worker                      | 97                                  | | Carpenter                          | 97                                  | | Machinist                          | 96                                  | | Nuclear decontamination technician | 96                                  | | Welder                             | 95                                  | | Roofer                             | 95                                  | | Bus driver                         | 95                                  | | Agricultural scientist             | 95                                  | | Typist                             | 94                                  | | Travel Agent                       | 93                                  | | Butcher                            | 92                                  | | Barber                             | 90                                  | | Janitor                            | 90                                  | | Maid                               | 88                                  | | Dishwasher                         | 88                                  | |                                    |                                     |
+|                                    |                                     |
+|------------------------------------|-------------------------------------|
+| **Occupation**                     | **Estimated IQ from median income** |
+| Surgeon                            | 234                                 |
+| Physician                          | 161                                 |
+| CEO                                | 148                                 |
+| Dentist                            | 140                                 |
+| Attorney                           | 128                                 |
+| Petroleum engineer                 | 126                                 |
+| Pharmacist                         | 126                                 |
+| Physicist                          | 125                                 |
+| Astronomer                         | 125                                 |
+| Financial planner                  | 123                                 |
+| Nuclear engineer                   | 121                                 |
+| Optometrist                        | 121                                 |
+| Aerospace engineer                 | 120                                 |
+| Mathematician                      | 120                                 |
+| Economist                          | 117                                 |
+| Software engineer                  | 117                                 |
+| School principle                   | 116                                 |
+| Electrical engineer                | 115                                 |
+| Web developer                      | 115                                 |
+| Construction foreman               | 115                                 |
+| Geologist                          | 114                                 |
+| Veterinarian                       | 114                                 |
+| Mechanical engineer                | 113                                 |
+| Biologist                          | 111                                 |
+| Statistician                       | 111                                 |
+| Architect                          | 111                                 |
+| Chemist                            | 109                                 |
+| Stockbroker                        | 109                                 |
+| Registered nurse                   | 107                                 |
+| Historian                          | 107                                 |
+| Philosopher                        | 106                                 |
+| Accountant                         | 106                                 |
+| Farmer                             | 105                                 |
+| Zoologist                          | 104                                 |
+| Author                             | 103                                 |
+| Undertaker                         | 103                                 |
+| Librarian                          | 103                                 |
+| Anthropologist                     | 103                                 |
+| Dietician                          | 102                                 |
+| Archeologist                       | 102                                 |
+| Physiologist                       | 102                                 |
+| Teacher                            | 102                                 |
+| Police officer                     | 101                                 |
+| Actor                              | 101                                 |
+| Electrician                        | 100                                 |
+| Paralegal                          | 100                                 |
+| Plumber                            | 100                                 |
+| Clergy                             | 98                                  |
+| Social worker                      | 97                                  |
+| Carpenter                          | 97                                  |
+| Machinist                          | 96                                  |
+| Nuclear decontamination technician | 96                                  |
+| Welder                             | 95                                  |
+| Roofer                             | 95                                  |
+| Bus driver                         | 95                                  |
+| Agricultural scientist             | 95                                  |
+| Typist                             | 94                                  |
+| Travel Agent                       | 93                                  |
+| Butcher                            | 92                                  |
+| Barber                             | 90                                  |
+| Janitor                            | 90                                  |
+| Maid                               | 88                                  |
+| Dishwasher                         | 88                                  |
+|                                    |                                     |
 
 Off the top of my head, I would say that the highest disjunction in the low income direction would be clergy. This is *especially* true for Roman Catholic and mainline Protestant denominations in the United States, which have moderately stringent educational prerequisites for their clerics. I assume that the biggest in the other direction are surgeons and medical doctors, who enter a market where there’s [less and less](http://econlog.econlib.org/archives/2011/01/the_great_recon.html) real price signalling, where labor controls the supply of future labor, as well as well influencing the range of services that competitive professions (e.g., nurses) can provide.
 

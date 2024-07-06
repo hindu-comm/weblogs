@@ -13,7 +13,39 @@ Evolution is a signal for real Republican populism
 
 In the [General Social Survey](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss10) they asked in the late 2000s whether respondents accepted that “humans developed from animals.” The response was dichotomous. Here are some results for various population groups:
 
-|                        |                                            | |------------------------|--------------------------------------------| |                        | **Accepts human development from animals** | | Democrat               | 59                                         | | Independent            | 53                                         | | Republican             | 42                                         | | Liberal                | 69                                         | | Moderate               | 52                                         | | Conservative           | 39                                         | | White                  | 54                                         | | Black                  | 35                                         | | Hispanic               | 52                                         | | No high school diploma | 42                                         | | High school diploma    | 46                                         | | Junior college         | 53                                         | | Bachelor               | 63                                         | | Graduate               | 72                                         | | New England            | 81                                         | | Mid Atlantic           | 60                                         | | Great Lakes            | 52                                         | | Upper Midwest          | 54                                         | | South Atlantic         | 46                                         | | East South Central     | 29                                         | | Southwest              | 38                                         | | Mountain               | 53                                         | | Pacific                | 64                                         | | Protestant             | 35                                         | | Catholic               | 65                                         | | Jewish                 | 79                                         | | No religion            | 79                                         | | Age 18-34              | 58                                         | | Age 36-64              | 51                                         | | Age 65-\*              | 43                                         |
+|                        |                                            |
+|------------------------|--------------------------------------------|
+|                        | **Accepts human development from animals** |
+| Democrat               | 59                                         |
+| Independent            | 53                                         |
+| Republican             | 42                                         |
+| Liberal                | 69                                         |
+| Moderate               | 52                                         |
+| Conservative           | 39                                         |
+| White                  | 54                                         |
+| Black                  | 35                                         |
+| Hispanic               | 52                                         |
+| No high school diploma | 42                                         |
+| High school diploma    | 46                                         |
+| Junior college         | 53                                         |
+| Bachelor               | 63                                         |
+| Graduate               | 72                                         |
+| New England            | 81                                         |
+| Mid Atlantic           | 60                                         |
+| Great Lakes            | 52                                         |
+| Upper Midwest          | 54                                         |
+| South Atlantic         | 46                                         |
+| East South Central     | 29                                         |
+| Southwest              | 38                                         |
+| Mountain               | 53                                         |
+| Pacific                | 64                                         |
+| Protestant             | 35                                         |
+| Catholic               | 65                                         |
+| Jewish                 | 79                                         |
+| No religion            | 79                                         |
+| Age 18-34              | 58                                         |
+| Age 36-64              | 51                                         |
+| Age 65-\*              | 43                                         |
 
 ### Related Posts:
 

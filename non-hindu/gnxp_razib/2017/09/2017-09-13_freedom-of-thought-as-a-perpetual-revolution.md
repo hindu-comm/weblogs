@@ -35,7 +35,17 @@ What is clear above is that **those with more education and those who are more i
 
 **I ran a quick logistic regression model** which attempts to predict the odds of two outcomes (support or reject free speech here) across a range of variables simultaneously. Statistically significant***B***coefficients are bolded. You can see that the demographics which support speech across the two are consistent:
 
-|              |                      |                      |                               | |--------------|----------------------|----------------------|-------------------------------| |              | **B – Allow Muslim** | **B – Allow racist** | **Who supports free speech?** | | **AGE**      | **0.01**             | **0.006**            | Younger people                | | **SEI**      | -0.008               | **-0.007**           | Higher SES people             | | **POLVIEWS** | 0.061                | **0.072**            | Liberals                      | | **WORDSUM**  | **-0.306**           | **-0.145**           | Smart people                  | | **DEGREE**   | **-0.274**           | **-0.153**           | More education                | | **INCOME**   | -0.026               | -0.026               | Richer                        | | **SEX**      | **0.45**             | **0.24**             | Men                           | | **GOD**      | **0.151**            | **0.159**            | Less religious                |
+|              |                      |                      |                               |
+|--------------|----------------------|----------------------|-------------------------------|
+|              | **B – Allow Muslim** | **B – Allow racist** | **Who supports free speech?** |
+| **AGE**      | **0.01**             | **0.006**            | Younger people                |
+| **SEI**      | -0.008               | **-0.007**           | Higher SES people             |
+| **POLVIEWS** | 0.061                | **0.072**            | Liberals                      |
+| **WORDSUM**  | **-0.306**           | **-0.145**           | Smart people                  |
+| **DEGREE**   | **-0.274**           | **-0.153**           | More education                |
+| **INCOME**   | -0.026               | -0.026               | Richer                        |
+| **SEX**      | **0.45**             | **0.24**             | Men                           |
+| **GOD**      | **0.151**            | **0.159**            | Less religious                |
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/theEnlightenedEconomy.jpeg?resize=184%2C275)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/theEnlightenedEconomy.jpeg?resize=184%2C275)](https://www.amazon.com/exec/obidos/ASIN/0300189516/geneexpressio-20)From looking at the GSS data moderates are the less interested in politics overall, and also less educated and intelligent. **In general, when they respond to a political issue they’re going with their gut**. Humans are social animals and tend to not look favorably upon public disruption. The rationales for why one should discourage offensive and taboo speech are rather coherent. The liberal instrumental argument for freedom of thought as a social good tends to take a longer view that the proliferation of ideas will lead to greater prosperity and moral advancement.
 

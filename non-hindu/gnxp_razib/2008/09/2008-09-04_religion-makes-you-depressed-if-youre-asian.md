@@ -32,7 +32,20 @@ But I don’t think that the specific results here are very important. Rather, i
 Religious Beliefs and Practices, By Race  
 (Source: The Barna Group, Ventura, CA)
 
-|                                                        |       |       |          |       | |--------------------------------------------------------|-------|-------|----------|-------| |                                                        | white | black | Hispanic | Asian | | Read the Bible in the last week                        | 36%   | 59%   | 39%      | 20%   | | Attended religious service in past week                | 41%   | 48%   | 38%      | 23%   | | Prayed to God in the past week                         | 81%   | 91%   | 86%      | 46%   | | Participated in a small group, past week               | 16%   | 31%   | 27%      | 13%   | | Bible is totally accurate (strongly agree)             | 36%   | 57%   | 40%      | 24%   | | Satan is not a living being (strongly disagree)        | 30%   | 27%   | 30%      | 14%   | | Jesus Christ sinned while on earth (strongly disagree) | 37%   | 49%   | 35%      | 22%   | | Born again Christian                                   | 41%   | 47%   | 29%      | 12%   | | Atheist or agnostic                                    | 12%   | 5%    | 7%       | 20%   | | Aligned with a non-christian faith                     | 11%   | 12%   | 10%      | 45%   | | Subgroup size                                          | 1695  | 330   | 360      | 94    |
+|                                                        |       |       |          |       |
+|--------------------------------------------------------|-------|-------|----------|-------|
+|                                                        | white | black | Hispanic | Asian |
+| Read the Bible in the last week                        | 36%   | 59%   | 39%      | 20%   |
+| Attended religious service in past week                | 41%   | 48%   | 38%      | 23%   |
+| Prayed to God in the past week                         | 81%   | 91%   | 86%      | 46%   |
+| Participated in a small group, past week               | 16%   | 31%   | 27%      | 13%   |
+| Bible is totally accurate (strongly agree)             | 36%   | 57%   | 40%      | 24%   |
+| Satan is not a living being (strongly disagree)        | 30%   | 27%   | 30%      | 14%   |
+| Jesus Christ sinned while on earth (strongly disagree) | 37%   | 49%   | 35%      | 22%   |
+| Born again Christian                                   | 41%   | 47%   | 29%      | 12%   |
+| Atheist or agnostic                                    | 12%   | 5%    | 7%       | 20%   |
+| Aligned with a non-christian faith                     | 11%   | 12%   | 10%      | 45%   |
+| Subgroup size                                          | 1695  | 330   | 360      | 94    |
 
 ### Related Posts:
 

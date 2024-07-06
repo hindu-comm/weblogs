@@ -117,7 +117,16 @@ Although I am embarrassed to reveal the efficiency of cooking pizza in the oven 
 
 Lots of numbers thrown around in this post. Here’s a table of my results.
 
-|                                                     |            |                     | |-----------------------------------------------------|------------|---------------------| | Activity                                            | Efficiency | Adjusted Efficiency | | Boiling water on gas stove, full blast, no lid      | 16%        | —                   | | Boiling water in same pot, smaller burner, with lid | 27%        | —                   | | Boiling water in kettle on small gas burner         | 27%        | —                   | | Heating water in microwave oven                     | 43%        | 15%                 | | Boiling water in electric kettle                    | 50–80%     | 18–28%              | | Hot water heater, including tank loss               | 55%        | —                   | | Hot water heater, without tank loss                 | 64%        | —                   |
+|                                                     |            |                     |
+|-----------------------------------------------------|------------|---------------------|
+| Activity                                            | Efficiency | Adjusted Efficiency |
+| Boiling water on gas stove, full blast, no lid      | 16%        | —                   |
+| Boiling water in same pot, smaller burner, with lid | 27%        | —                   |
+| Boiling water in kettle on small gas burner         | 27%        | —                   |
+| Heating water in microwave oven                     | 43%        | 15%                 |
+| Boiling water in electric kettle                    | 50–80%     | 18–28%              |
+| Hot water heater, including tank loss               | 55%        | —                   |
+| Hot water heater, without tank loss                 | 64%        | —                   |
 
 The adjusted efficiency is the fossil fuel equivalent if electricity is derived from fossil resources (coal, natural gas) at 35% efficiency.
 The range on the electric kettle depends on how quickly the kettle shuts off in response to boiling water.

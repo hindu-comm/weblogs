@@ -17,13 +17,44 @@ In the year 2008 1,400 people were asked this question in the [GSS](http://sda.b
 
 I was curious because I ran into some stuff on pro-life sites today about how animal rights activist don’t oppose abortion, and how hypocritical that is. So naturally I was curious about how attitudes varied on that issue.
 
-|                               |                                                |           |              |                       | |-------------------------------|------------------------------------------------|-----------|--------------|-----------------------| |                               | **Allow animal testing which might case pain** |           |              |                       | |                               | **Strongly agree**                             | **Agree** | **Disagree** | **Strongly Disagree** | | **Yes to abortion on demand** | 8                                              | 31        | 39           | 22                    | | **No to abortion on demand**  | 7                                              | 32        | 39           | 23                    |
+|                               |                                                |           |              |                       |
+|-------------------------------|------------------------------------------------|-----------|--------------|-----------------------|
+|                               | **Allow animal testing which might case pain** |           |              |                       |
+|                               | **Strongly agree**                             | **Agree** | **Disagree** | **Strongly Disagree** |
+| **Yes to abortion on demand** | 8                                              | 31        | 39           | 22                    |
+| **No to abortion on demand**  | 7                                              | 32        | 39           | 23                    |
 
 **What the results above show is that **there is almost no difference in attitudes toward animal research when you vary attitudes toward abortion on demand.**** In other words, 22 percent of pro-choice people oppose such research strongly, while 23 percent of pro-life people do. How does this vary by demographic?
 
 [](http://blogs.discovermagazine.com/gnxp/files/2012/07/webpreview_htm_m26fe5c25.jpg)
 
-|                       |                    |           |              |                       | |-----------------------|--------------------|-----------|--------------|-----------------------| |                       | **Strongly agree** | **Agree** | **Disagree** | **Strongly Disagree** | | Male                  | 8                  | 44        | 34           | 14                    | | Female                | 4                  | 23        | 42           | 31                    | | Liberal               | 6                  | 34        | 38           | 22                    | | Moderate              | 5                  | 32        | 38           | 25                    | | Conservative          | 7                  | 35        | 38           | 20                    | | White                 | 6                  | 31        | 39           | 24                    | | Black                 | 7                  | 41        | 36           | 16                    | | No College Degree     | 6                  | 32        | 38           | 24                    | | College Degree        | 7                  | 36        | 38           | 19                    | | Stupid (WORDSUM 0-4)  | 8                  | 33        | 38           | 22                    | | Average (WORDSUM 5-8) | 6                  | 34        | 36           | 25                    | | Smart (WORDSUM 9-10)  | 13                 | 29        | 41           | 16                    | | Age 18-35             | 4                  | 34        | 40           | 22                    | | Age 36-65             | 7                  | 32        | 37           | 24                    | | Age 66 and up         | 8                  | 33        | 39           | 20                    | | Protestant            | 6                  | 35        | 39           | 20                    | | Catholic              | 7                  | 32        | 38           | 24                    | | Jewish                | 12                 | 29        | 36           | 23                    | | No Religion           | 7                  | 31        | 36           | 26                    | | Atheist & agnostic    | 9                  | 36        | 33           | 21                    | | Theist                | 6                  | 33        | 38           | 23                    | | Bible Word of God     | 5                  | 36        | 39           | 20                    | | Bible Inspired Word   | 5                  | 32        | 39           | 24                    | | Bible Book of Fables  | 10                 | 32        | 35           | 22                    |
+|                       |                    |           |              |                       |
+|-----------------------|--------------------|-----------|--------------|-----------------------|
+|                       | **Strongly agree** | **Agree** | **Disagree** | **Strongly Disagree** |
+| Male                  | 8                  | 44        | 34           | 14                    |
+| Female                | 4                  | 23        | 42           | 31                    |
+| Liberal               | 6                  | 34        | 38           | 22                    |
+| Moderate              | 5                  | 32        | 38           | 25                    |
+| Conservative          | 7                  | 35        | 38           | 20                    |
+| White                 | 6                  | 31        | 39           | 24                    |
+| Black                 | 7                  | 41        | 36           | 16                    |
+| No College Degree     | 6                  | 32        | 38           | 24                    |
+| College Degree        | 7                  | 36        | 38           | 19                    |
+| Stupid (WORDSUM 0-4)  | 8                  | 33        | 38           | 22                    |
+| Average (WORDSUM 5-8) | 6                  | 34        | 36           | 25                    |
+| Smart (WORDSUM 9-10)  | 13                 | 29        | 41           | 16                    |
+| Age 18-35             | 4                  | 34        | 40           | 22                    |
+| Age 36-65             | 7                  | 32        | 37           | 24                    |
+| Age 66 and up         | 8                  | 33        | 39           | 20                    |
+| Protestant            | 6                  | 35        | 39           | 20                    |
+| Catholic              | 7                  | 32        | 38           | 24                    |
+| Jewish                | 12                 | 29        | 36           | 23                    |
+| No Religion           | 7                  | 31        | 36           | 26                    |
+| Atheist & agnostic    | 9                  | 36        | 33           | 21                    |
+| Theist                | 6                  | 33        | 38           | 23                    |
+| Bible Word of God     | 5                  | 36        | 39           | 20                    |
+| Bible Inspired Word   | 5                  | 32        | 39           | 24                    |
+| Bible Book of Fables  | 10                 | 32        | 35           | 22                    |
 
 [![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/07/webpreview_htm_m26fe5c25.jpg?resize=589%2C1025)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/07/webpreview_htm_m26fe5c25.jpg?resize=589%2C1025)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/07/webpreview_htm_m26fe5c25.jpg)
 

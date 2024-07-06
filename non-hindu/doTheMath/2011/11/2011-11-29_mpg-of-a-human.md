@@ -71,7 +71,13 @@ If we are on a multi-day trek covering 25 miles (40km) per day, and lump the bas
 
 We’ve worked through a lot of numbers, under various interpretations. I hesitate to put these numbers into a table for fear that they will be taken literally and treated as definitive numbers. *This is meant to be ballpark, people*: good to a factor of two. So here’s a table.
 
-|                     |          |              |            | |---------------------|----------|--------------|------------| | Activity            | MPG food | MPG gas/lard | kWh/100-mi | | Biking, incidental  | 290      | 1300         | 2.8        | | Biking, long-haul   | 160      | 720          | 5.1        | | Walking, incidental | 75       | 340          | 10.4       | | Walking, long-haul  | 40       | 180          | 20         |
+|                     |          |              |            |
+|---------------------|----------|--------------|------------|
+| Activity            | MPG food | MPG gas/lard | kWh/100-mi |
+| Biking, incidental  | 290      | 1300         | 2.8        |
+| Biking, long-haul   | 160      | 720          | 5.1        |
+| Walking, incidental | 75       | 340          | 10.4       |
+| Walking, long-haul  | 40       | 180          | 20         |
 
 Another consideration to bear in mind: in most cases, cycling and walking involve a single “passenger.” A Prius loaded with four people effectively gets 200 MPG per passenger (18kWh/100-mi per passenger), so make sure to account for this when making comparisons.
 

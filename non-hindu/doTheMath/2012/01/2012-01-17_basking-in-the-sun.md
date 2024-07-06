@@ -41,7 +41,15 @@ So it is not a stretch to admit energy in excess of 500W/m² into your home in w
 
 Sounds great, but winters are not always the sunniest of times. However, it’s not as bad as you might fear. Every photon of visible light that makes it through your window—even if coming from a drab gray cloud—deposits the same amount of heat no mater how convoluted its path from the Sun. Indeed, a measurement campaign in my home has revealed that the attic gets surprisingly warmer (10°C, or 18°F) than the ambient air even on a day of heavy clouds when my solar PV system only caught one-quarter of the usual amount of light. So we can use the [NREL database](http://rredc.nrel.gov/solar/pubs/redbook/ "NREL redbook") for a flat plate collector (in this case, a window) oriented south at a 90° tilt to represent the amount of energy a window would grab. The following table indicates the equivalent number of full-sun hours per day during the heating months for Seattle, WA (on the poor end), St. Louis MO (a representative U.S. average solar city), and San Diego (my home).
 
-|                     |      |      |      |      |      |      |      | |---------------------|------|------|------|------|------|------|------| | City                | Oct. | Nov. | Dec. | Jan. | Feb. | Mar. | Apr. | | Seattle, window     | 2.7  | 1.7  | 1.3  | 1.5  | 2.2  | 2.8  | 3.0  | | Seattle, full sun   | 2.3  | 1.1  | 0.9  | 1.0  | 1.7  | 2.5  | 3.1  | | St. Louis, window   | 3.8  | 3.2  | 3.0  | 3.5  | 3.7  | 3.4  | 3.1  | | St. Louis, full sun | 4.1  | 2.9  | 2.4  | 2.9  | 3.2  | 3.6  | 4.3  | | San Diego, window   | 4.4  | 4.6  | 4.5  | 4.5  | 4.3  | 3.9  | 3.2  | | San Diego, full sun | 5.3  | 4.9  | 4.5  | 4.5  | 4.8  | 5.1  | 5.8  |
+|                     |      |      |      |      |      |      |      |
+|---------------------|------|------|------|------|------|------|------|
+| City                | Oct. | Nov. | Dec. | Jan. | Feb. | Mar. | Apr. |
+| Seattle, window     | 2.7  | 1.7  | 1.3  | 1.5  | 2.2  | 2.8  | 3.0  |
+| Seattle, full sun   | 2.3  | 1.1  | 0.9  | 1.0  | 1.7  | 2.5  | 3.1  |
+| St. Louis, window   | 3.8  | 3.2  | 3.0  | 3.5  | 3.7  | 3.4  | 3.1  |
+| St. Louis, full sun | 4.1  | 2.9  | 2.4  | 2.9  | 3.2  | 3.6  | 4.3  |
+| San Diego, window   | 4.4  | 4.6  | 4.5  | 4.5  | 4.3  | 3.9  | 3.2  |
+| San Diego, full sun | 5.3  | 4.9  | 4.5  | 4.5  | 4.8  | 5.1  | 5.8  |
 
 The table also includes the number of equivalent full-sun hours per day a 2-axis concentrating system would recover, which is a good proxy for the average daily number of hours of direct sun. The window can often get more energy than is present in full sun due to the diffuse gain, which is the case for six out of the seven months for Seattle in the table above.
 
@@ -77,7 +85,13 @@ One downside is that concentration implies tracking, which adds to complexity. T
 
 Another downside of concentration is that it requires real direct sunlight to work. Can you see a sharp shadow on the ground? If not, concentration is effectively dead. In essence, the concentrator is forming an image of the sun—sometimes a stretched-out linear image in the case of trough collectors. Forming images of clouds onto the collector will not get it very excited. It needs the real thing. Comparing the effective yield for tracking configurations at different sites gives some sense for how some places are differently advantaged to exploit solar thermal. In general, desert areas do very well.
 
-|               |                    |                 |                 | |---------------|--------------------|-----------------|-----------------| | City          | Flat Panel at Lat. | 1-axis, N–S     | 2-axis          | | Seattle, WA   | 1.4/**3.7**/5.7    | 0.4/**2.5**/5.2 | 0.9/**2.9**/5.5 | | St. Louis, MO | 3.1/**4.8**/5.9    | 1.5/**3.5**/5.3 | 2.4/**4.1**/5.5 | | San Diego, CA | 4.6/**5.7**/6.5    | 3.8/**4.1**/4.9 | 4.5/**5.3**/6.3 | | Dagget, CA    | 5.2/**6.6**/7.4    | 3.5/**6.6**/9.6 | 5.4/**7.5**/9.7 |
+|               |                    |                 |                 |
+|---------------|--------------------|-----------------|-----------------|
+| City          | Flat Panel at Lat. | 1-axis, N–S     | 2-axis          |
+| Seattle, WA   | 1.4/**3.7**/5.7    | 0.4/**2.5**/5.2 | 0.9/**2.9**/5.5 |
+| St. Louis, MO | 3.1/**4.8**/5.9    | 1.5/**3.5**/5.3 | 2.4/**4.1**/5.5 |
+| San Diego, CA | 4.6/**5.7**/6.5    | 3.8/**4.1**/4.9 | 4.5/**5.3**/6.3 |
+| Dagget, CA    | 5.2/**6.6**/7.4    | 3.5/**6.6**/9.6 | 5.4/**7.5**/9.7 |
 
 The table above gives average daily yields (kWh/m²/day, or equivalent hours at 1000W/m²) for three types of solar collection in four locations, each entry giving worst-month/**yearly-average**/best-month values. The first is for a flat plate tilted to the site latitude (appropriate for PV or hot water), followed by 1-axis concentration tilting along a N-S axis, and finally a 2-axis concentration configuration. Solar thermal makes the most sense in areas where more energy will be collected than with PV panels—but this is not a rigorous criterion, since solar thermal offers some advantages over PV, as we’ll discuss in a bit. In the table above, only Dagget, California—in the Mojave desert— has concentration beating flat-panel PV for total energy. Other desert cities in the Southwestern U.S. likewise are favorable toward solar thermal electricity. But it’s definitely a location-dependent technology.
 

@@ -17,7 +17,15 @@ This hits close to home, asthma and eczema both run in my family (atopic dermati
 
 **Poll on whether you have asthma or eczema in your “family” (defined as out to 1st cousins and up to grandparents)**:
 
-|                                                                   |                       | |-------------------------------------------------------------------|-----------------------| | **What is the relationship of asthma and eczema to your family?** |                       | |                                                                   | Both run in my family | |                                                                   | Only asthma           | |                                                                   | Only eczema           | |                                                                   | Neither               | |                                                                 |                       | | [Free polls from Pollhost.com](http://www.pollhost.com/)          |                       |
+|                                                                   |                       |
+|-------------------------------------------------------------------|-----------------------|
+| **What is the relationship of asthma and eczema to your family?** |                       |
+|                                                                   | Both run in my family |
+|                                                                   | Only asthma           |
+|                                                                   | Only eczema           |
+|                                                                   | Neither               |
+|                                                                 |                       |
+| [Free polls from Pollhost.com](http://www.pollhost.com/)          |                       |
 
 ### Related Posts:
 

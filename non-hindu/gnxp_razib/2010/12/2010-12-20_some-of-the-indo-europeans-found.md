@@ -49,7 +49,41 @@ An aspect of his model which I do not understand is why it has to be Indo-Aryan,
 
 ------------------------------------------------------------------------
 
-|                       |              | |-----------------------|--------------| | **Population**        | **Dagestan** | | Urkarah               | 93           | | Lezgins               | 47.9         | | Stalskoe              | 38.7         | | Adygei                | 16.4         | | **Orcadian (Orkney)** | 12.6         | | Georgians             | 12.4         | | **White_Utahns**      | 11.2         | | Iranian               | 10.9         | | **Scandinavian_D**    | 10.2         | | Armenian_D            | 9.9          | | **German_D**          | 9.1          | | Turks                 | 8.8          | | Armenians             | 8.4          | | French                | 7.9          | | Hungarians            | 7.5          | | Russian_D             | 6.3          | | Spanish_D             | 4.6          | | North_Italian         | 4.5          | | Spaniards             | 4.4          | | Romanian              | 4.1          | | Finnish_D             | 4.1          | | Russian               | 4            | | Greek_D               | 3.8          | | Portuguese_D          | 3.6          | | Tuscan                | 3.5          | | Tuscans               | 3.4          | | Lithuanians           | 2.9          | | S_Italian_Sicilian_D  | 2.8          | | Belorussian           | 2.5          | | Cypriots              | 2            | | Sardinian             | 1.5          | | French_Basque         | 0.7          |
+|                       |              |
+|-----------------------|--------------|
+| **Population**        | **Dagestan** |
+| Urkarah               | 93           |
+| Lezgins               | 47.9         |
+| Stalskoe              | 38.7         |
+| Adygei                | 16.4         |
+| **Orcadian (Orkney)** | 12.6         |
+| Georgians             | 12.4         |
+| **White_Utahns**      | 11.2         |
+| Iranian               | 10.9         |
+| **Scandinavian_D**    | 10.2         |
+| Armenian_D            | 9.9          |
+| **German_D**          | 9.1          |
+| Turks                 | 8.8          |
+| Armenians             | 8.4          |
+| French                | 7.9          |
+| Hungarians            | 7.5          |
+| Russian_D             | 6.3          |
+| Spanish_D             | 4.6          |
+| North_Italian         | 4.5          |
+| Spaniards             | 4.4          |
+| Romanian              | 4.1          |
+| Finnish_D             | 4.1          |
+| Russian               | 4            |
+| Greek_D               | 3.8          |
+| Portuguese_D          | 3.6          |
+| Tuscan                | 3.5          |
+| Tuscans               | 3.4          |
+| Lithuanians           | 2.9          |
+| S_Italian_Sicilian_D  | 2.8          |
+| Belorussian           | 2.5          |
+| Cypriots              | 2            |
+| Sardinian             | 1.5          |
+| French_Basque         | 0.7          |
 
 ------------------------------------------------------------------------
 

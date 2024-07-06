@@ -13,7 +13,49 @@ Infidelity around the world….
 
 I got [Lust in Translation: The Rules of Infidelity from Tokyo to Tennessee](https://www.amazon.com/Lust-Translation-Rules-Infidelity-Tennessee/dp/1594201145/ref=pd_bbs_sr_1/002-9954258-8060061?ie=UTF8&s=books&qid=1178772029&sr=8-1), a few weeks ago. It’s a pretty fluffy book that really doesn’t have much meat. But, there was a nice collation of world wide data (that is available) on infidelity. I’ve reproduced it below the fold. Note: **if you are going to comment, please don’t analyze one particular data point, the regional trends are what you need to look at**. This data is merged from a host of different surveys and obviously isn’t entirely representative nationally.
 
-|                             |         |           | |-----------------------------|---------|-----------| | **Country**                 | **Men** | **Women** | | Togo (1998)                 | 37.0    | 0.5       | | Cameroon (2004)             | 36.5    | 4.4       | | Ivory Coast (1998)          | 36.1    | 1.9       | | Mozambique (2003)           | 28.9    | 3.1       | | Tanzania (2005)             | 27.6    | 2.6       | | Niger (1998)                | 27.2    | 0.1       | | Haiti (2000)                | 25.4    | 0.8       | | Benin (2001)                | 23.4    | 0.6       | | Zambia (2002)               | 22.6    | 1.5       | | Mali (2001)                 | 22.4    | 0.7       | | Uganda (2001)               | 22.3    | 1.2       | | Burkina Faso (2003)         | 20.1    | 0.5       | | Chad (2004)                 | 19.9    | 0.7       | | China urban (2000)          | 18.3    | 3.2       | | Dominican Republican (2002) | 18.0    | 0.8       | | Malawi (2000)               | 16.3    | 0.5       | | Nigeria (2003)              | 15.2    | 0.6       | | Mexico City (2001)          | 15.0    | n/a       | | Zimbabwe (1999)             | 13.8    | 0.7       | | Peru (1996)                 | 13.5    | 0.1       | | Ghana (2003)                | 13.0    | 0.4       | | Namibia (2000)              | 13.0    | 1.2       | | Brazil (1996)               | 12.0    | 0.8       | | Kenya (2003)                | 11.5    | 1.6       | | Norway (1997)               | 10.8    | 6.6       | | China ( 2000)               | 10.5    | n/a       | | Great Britain\*\*\*\*       | 9.3     | 5.1       | | Bolivia (2003)              | 8.6     | 0.4       | | Ethiopia (2000)             | 6.9     | 1         | | Armenia (2000)              | 4.7     | 0.1       | | Philippines (2003)          | 4.5     | 0         | | U.S.A. (2004)\*             | 3.9     | 3.1       | | France (2004)\*\*           | 3.8     | 2         | | Italy (1998)                | 3.5     | 0.9       | | Rwanda (2000)               | 3.2     | 0.1       | | Nepal (2001)                | 3.0     | 0         | | Switzerland (1997)          | 3.0     | 1.1       | | Australia (2002)            | 2.5     | 1.8       | | Bangladesh (2004)           | 1.6     | n/a       | | Kazakhstan (1999)           | 1.6     | 0.9       |
+|                             |         |           |
+|-----------------------------|---------|-----------|
+| **Country**                 | **Men** | **Women** |
+| Togo (1998)                 | 37.0    | 0.5       |
+| Cameroon (2004)             | 36.5    | 4.4       |
+| Ivory Coast (1998)          | 36.1    | 1.9       |
+| Mozambique (2003)           | 28.9    | 3.1       |
+| Tanzania (2005)             | 27.6    | 2.6       |
+| Niger (1998)                | 27.2    | 0.1       |
+| Haiti (2000)                | 25.4    | 0.8       |
+| Benin (2001)                | 23.4    | 0.6       |
+| Zambia (2002)               | 22.6    | 1.5       |
+| Mali (2001)                 | 22.4    | 0.7       |
+| Uganda (2001)               | 22.3    | 1.2       |
+| Burkina Faso (2003)         | 20.1    | 0.5       |
+| Chad (2004)                 | 19.9    | 0.7       |
+| China urban (2000)          | 18.3    | 3.2       |
+| Dominican Republican (2002) | 18.0    | 0.8       |
+| Malawi (2000)               | 16.3    | 0.5       |
+| Nigeria (2003)              | 15.2    | 0.6       |
+| Mexico City (2001)          | 15.0    | n/a       |
+| Zimbabwe (1999)             | 13.8    | 0.7       |
+| Peru (1996)                 | 13.5    | 0.1       |
+| Ghana (2003)                | 13.0    | 0.4       |
+| Namibia (2000)              | 13.0    | 1.2       |
+| Brazil (1996)               | 12.0    | 0.8       |
+| Kenya (2003)                | 11.5    | 1.6       |
+| Norway (1997)               | 10.8    | 6.6       |
+| China ( 2000)               | 10.5    | n/a       |
+| Great Britain\*\*\*\*       | 9.3     | 5.1       |
+| Bolivia (2003)              | 8.6     | 0.4       |
+| Ethiopia (2000)             | 6.9     | 1         |
+| Armenia (2000)              | 4.7     | 0.1       |
+| Philippines (2003)          | 4.5     | 0         |
+| U.S.A. (2004)\*             | 3.9     | 3.1       |
+| France (2004)\*\*           | 3.8     | 2         |
+| Italy (1998)                | 3.5     | 0.9       |
+| Rwanda (2000)               | 3.2     | 0.1       |
+| Nepal (2001)                | 3.0     | 0         |
+| Switzerland (1997)          | 3.0     | 1.1       |
+| Australia (2002)            | 2.5     | 1.8       |
+| Bangladesh (2004)           | 1.6     | n/a       |
+| Kazakhstan (1999)           | 1.6     | 0.9       |
 
 \* married only; ages 18 or older  
 \*\* married only, ages 18.54  

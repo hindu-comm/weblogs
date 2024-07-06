@@ -59,7 +59,17 @@ Students squirm because what they want to see—they tell me—is a box containi
 
 I’m not blaming students. It’s gotten worse over the years, which must trace to systemic influences rather than an improbable spate of defective individuals. I recently compared midterm exams that I constructed (thus employing the same style/difficulty in creating problems) for the same course in 2004 and 2023—populated by the same general-education audience, 19 years apart. Questions were similarly divided between quantitative (requiring calculation), semi-quantitative (requiring reasoning in numerical contexts), and conceptual (requiring core understanding).
 
-|                                  |        |        | |----------------------------------|--------|--------| | Attribute                        | 2004   | 2023   | | Duration                         | 50 min | 50 min | | Number of Multiple Choice        | 30     | 15     | | Number of True/False             | 10     | 5      | | Number of Short Answer           | 5      | 3      | | Allowed printed study guide      | No     | Yes    | | Allowed handwritten notes        | No     | Yes    | | Fraction turned in at 49 minutes | half   | 5%     | | Raw score, average               | 72%    | 65%    |
+|                                  |        |        |
+|----------------------------------|--------|--------|
+| Attribute                        | 2004   | 2023   |
+| Duration                         | 50 min | 50 min |
+| Number of Multiple Choice        | 30     | 15     |
+| Number of True/False             | 10     | 5      |
+| Number of Short Answer           | 5      | 3      |
+| Allowed printed study guide      | No     | Yes    |
+| Allowed handwritten notes        | No     | Yes    |
+| Fraction turned in at 49 minutes | half   | 5%     |
+| Raw score, average               | 72%    | 65%    |
 
 In 2004, the exam was about twice as long, yet a much higher fraction of students finished before the 50 minute mark. In 2023, I allowed students to bring in a printed study guide, from which I *directly* created the exam, item by item. They could also write anything on the sheet they wanted. Despite all this, the scores were lower in 2023. Other colleagues who have been at the job for decades report the same phenomenon: having to pare down content, difficulty, and number of problems to track declining student preparedness/capability. If I held the same standard I did in 2004, I would probably be handing out more F and D grades than A and B grades. What do you think would happen to me if I didn’t bend to accommodate changing times? The university administration would notice, by god. We’re all in the same pickle.
 

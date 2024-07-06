@@ -20,7 +20,52 @@ When I hear the word “bet” I start thinking of laying down odds and stealing
 The [General Social Survey](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss10) has a variable, EVOLVED, which records the response to the question “Human beings developed from animals,” with a true vs. false outcome. It was asked between 2006 and 2010. You can see the results for numerous demographics below.  
 [![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/11/webpreview_htm_m4785dd9c.jpg?resize=596%2C967)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/11/webpreview_htm_m4785dd9c.jpg?resize=596%2C967)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/11/webpreview_htm_m4785dd9c.jpg)
 
-|                                     |                                                | |-------------------------------------|------------------------------------------------| | ***Demographic***                   | Agree that human beings developed from animals | | **Democrat**                        | 59                                             | | **Independent**                     | 53                                             | | **Republican**                      | 42                                             | | **White Non-Hispanic Democrat**     | 66                                             | | **White Non-Hispanic Independent**  | 55                                             | | **White Non-Hispanic Republican**   | 41                                             | | **No College Democrat**             | 50                                             | | **No College Independent**          | 50                                             | | **No College Republican**           | 37                                             | | **College Educated Democrat**       | 78                                             | | **College Educated Independent**    | 67                                             | | **College Educated Republican**     | 52                                             | | **Liberal**                         | 69                                             | | **Moderate**                        | 52                                             | | **Conservative**                    | 39                                             | | **White non-Hispanic Liberal**      | 77                                             | | **White non-Hispanic Moderate**     | 55                                             | | **White non-Hispanic Conservative** | 38                                             | | **No College Liberal**              | 58                                             | | **No College Moderate**             | 49                                             | | **No College Conservative**         | 36                                             | | **College Educated Liberal**        | 86                                             | | **College Educated Moderate**       | 66                                             | | **College Educated Conservative**   | 47                                             | | **White Non-Hispanic**              | 53                                             | | **Black Non-Hispanic**              | 35                                             | | **Hispanic**                        | 52                                             | | **Protestant**                      | 35                                             | | **Catholic**                        | 65                                             | | **Jewish**                          | 79                                             | | **No Religion**                     | 79                                             | | **Bible is Word of God**            | 28                                             | | **Bible is Inspired Word of God**   | 58                                             | | **Bible is Book of Fables**         | 87                                             | | **Southern Baptist**                | 27                                             | | **United Method**                   | 51                                             | | **Presbyterian**                    | 64                                             | | **Episcopalian**                    | 91                                             | | **Scandinavian**                    | 59                                             | | **German**                          | 51                                             | | **British**                         | 50                                             | | **Irish**                           | 54                                             | | **Italian**                         | 66                                             |
+|                                     |                                                |
+|-------------------------------------|------------------------------------------------|
+| ***Demographic***                   | Agree that human beings developed from animals |
+| **Democrat**                        | 59                                             |
+| **Independent**                     | 53                                             |
+| **Republican**                      | 42                                             |
+| **White Non-Hispanic Democrat**     | 66                                             |
+| **White Non-Hispanic Independent**  | 55                                             |
+| **White Non-Hispanic Republican**   | 41                                             |
+| **No College Democrat**             | 50                                             |
+| **No College Independent**          | 50                                             |
+| **No College Republican**           | 37                                             |
+| **College Educated Democrat**       | 78                                             |
+| **College Educated Independent**    | 67                                             |
+| **College Educated Republican**     | 52                                             |
+| **Liberal**                         | 69                                             |
+| **Moderate**                        | 52                                             |
+| **Conservative**                    | 39                                             |
+| **White non-Hispanic Liberal**      | 77                                             |
+| **White non-Hispanic Moderate**     | 55                                             |
+| **White non-Hispanic Conservative** | 38                                             |
+| **No College Liberal**              | 58                                             |
+| **No College Moderate**             | 49                                             |
+| **No College Conservative**         | 36                                             |
+| **College Educated Liberal**        | 86                                             |
+| **College Educated Moderate**       | 66                                             |
+| **College Educated Conservative**   | 47                                             |
+| **White Non-Hispanic**              | 53                                             |
+| **Black Non-Hispanic**              | 35                                             |
+| **Hispanic**                        | 52                                             |
+| **Protestant**                      | 35                                             |
+| **Catholic**                        | 65                                             |
+| **Jewish**                          | 79                                             |
+| **No Religion**                     | 79                                             |
+| **Bible is Word of God**            | 28                                             |
+| **Bible is Inspired Word of God**   | 58                                             |
+| **Bible is Book of Fables**         | 87                                             |
+| **Southern Baptist**                | 27                                             |
+| **United Method**                   | 51                                             |
+| **Presbyterian**                    | 64                                             |
+| **Episcopalian**                    | 91                                             |
+| **Scandinavian**                    | 59                                             |
+| **German**                          | 51                                             |
+| **British**                         | 50                                             |
+| **Irish**                           | 54                                             |
+| **Italian**                         | 66                                             |
 
 
 

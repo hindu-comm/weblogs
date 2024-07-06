@@ -60,7 +60,20 @@ I’ve highlighted the important bits. Two notes. First, I think you do see the 
 
 Additionally, **please note in the ADMIXTURE result above the similarity between the Tai and the Zhuang.** The [Zhuang](https://en.wikipedia.org/wiki/Zhuang_people) are China’s second largest ethnic group, and reputedly the source population for the Tai migrations into mainland Southeast Asia. Before I move on, you should have some sense of the locations and ethno-linguistic affinities of some of the more obscure groups:
 
-|                                      |           |                    | |--------------------------------------|-----------|--------------------| | **Location**                         | **Group** | **Language group** | | Northern Thailand                    | Htin      | Austro-Asiatic     | | Northern Thailand                    | Lawa      | Austro-Asiatic     | | Northern Thailand                    | Mon       | Austro-Asiatic     | | Northern Thailand                    | Palong    | Austro-Asiatic     | | Northern Thailand                    | Plang     | Austro-Asiatic     | | Southern China                       | Wa        | Austro-Asiatic     | | Northern Thailand                    | Yao       | Hmong-Mien (Mien)  | | Southern China and Northern Thailand | Hmong     | Hmong-Mien         | | Southern China                       | Zhuang    | Tai                | | Northern Thailand                    | Karen     | Tibeto-Burman      | | Southern China                       | Jinuo     | Tibeto-Burman      |
+|                                      |           |                    |
+|--------------------------------------|-----------|--------------------|
+| **Location**                         | **Group** | **Language group** |
+| Northern Thailand                    | Htin      | Austro-Asiatic     |
+| Northern Thailand                    | Lawa      | Austro-Asiatic     |
+| Northern Thailand                    | Mon       | Austro-Asiatic     |
+| Northern Thailand                    | Palong    | Austro-Asiatic     |
+| Northern Thailand                    | Plang     | Austro-Asiatic     |
+| Southern China                       | Wa        | Austro-Asiatic     |
+| Northern Thailand                    | Yao       | Hmong-Mien (Mien)  |
+| Southern China and Northern Thailand | Hmong     | Hmong-Mien         |
+| Southern China                       | Zhuang    | Tai                |
+| Northern Thailand                    | Karen     | Tibeto-Burman      |
+| Southern China                       | Jinuo     | Tibeto-Burman      |
 
 One aspect which isn’t listed here is the classification of some of these populations as “hill tribes” or not. The Mon and the H’tin are both Austro-Asiatic, but the former are in some ways analogous to the Greeks on mainland Southeast Asia, while the latter are a tribal isolate which has preserved its identity in the hills of northern Thailand. By Greeks, I mean that the Mon have been assimilated or dominated by the Bamar in Burma and the Tai in Thailand, but in both cases have imparted to these groups the essence of Southeast Asian Indic high culture. The Mon were at one point ascendant from the lower Irrawaddy in southern Burma to the lower Chao Praya basin in Thailand, the terminus of which today is Bangkok. In contrast, groups like the H’tin and Lawa were presumably relatively insulated from Indic influence. The Hmong are relative newcomers to Southeast Asia, which explains their status as animists for example. Finally, you have groups like the Wa which are technically not even Southeast Asian, but *are* Austro-Asiatic. They should give us a sense of Austro-Asiatics without an Indic imprint.
 
@@ -72,7 +85,15 @@ Again, the Mon have the Indian component. And so do the Cambodians. Remember tha
 
 Below are the genetic distances between the inferred ancestral groups. The labels given the modal population, and then the language family:
 
-|               |              |             |       |            |               |       | |---------------|--------------|-------------|-------|------------|---------------|-------| |               | Jinuo_Burman | Htin_Austro | Tai   | SouthAsian | Palong_Austro | Hmong | | Jinuo_Burman  | 0            | 0.073       | 0.057 | 0.115      | 0.092         | 0.085 | | Htin_Austro   | 0.073        | 0           | 0.03  | 0.088      | 0.065         | 0.06  | | Tai           | 0.057        | 0.03        | 0     | 0.09       | 0.064         | 0.047 | | SouthAsian    | 0.115        | 0.088       | 0.09  | 0          | 0.117         | 0.117 | | Palong_Austro | 0.092        | 0.065       | 0.064 | 0.117      | 0             | 0.09  | | Hmong         | 0.085        | 0.06        | 0.047 | 0.117      | 0.09          | 0     |
+|               |              |             |       |            |               |       |
+|---------------|--------------|-------------|-------|------------|---------------|-------|
+|               | Jinuo_Burman | Htin_Austro | Tai   | SouthAsian | Palong_Austro | Hmong |
+| Jinuo_Burman  | 0            | 0.073       | 0.057 | 0.115      | 0.092         | 0.085 |
+| Htin_Austro   | 0.073        | 0           | 0.03  | 0.088      | 0.065         | 0.06  |
+| Tai           | 0.057        | 0.03        | 0     | 0.09       | 0.064         | 0.047 |
+| SouthAsian    | 0.115        | 0.088       | 0.09  | 0          | 0.117         | 0.117 |
+| Palong_Austro | 0.092        | 0.065       | 0.064 | 0.117      | 0             | 0.09  |
+| Hmong         | 0.085        | 0.06        | 0.047 | 0.117      | 0.09          | 0     |
 
 Here are some visualizations:
 
@@ -92,7 +113,12 @@ Finally, we move to the Indo-centric run. I’ve removed a lot of the Southeast 
 
 The Fsts are straightforward in this case:
 
-|                |                |       |             | |----------------|----------------|-------|-------------| |                | Austro-Asiatic | Tai   | South Asian | | Austro-Asiatic | 0              | 0.028 | 0.084       | | Tai            | 0.028          | 0     | 0.085       | | South Asian    | 0.084          | 0.085 | 0           |
+|                |                |       |             |
+|----------------|----------------|-------|-------------|
+|                | Austro-Asiatic | Tai   | South Asian |
+| Austro-Asiatic | 0              | 0.028 | 0.084       |
+| Tai            | 0.028          | 0     | 0.085       |
+| South Asian    | 0.084          | 0.085 | 0           |
 
 It’s the PCA which is *really* interesting in this run. The first isn’t too exceptional:
 

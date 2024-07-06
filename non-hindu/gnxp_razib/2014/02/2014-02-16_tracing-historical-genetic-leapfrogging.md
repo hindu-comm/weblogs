@@ -28,7 +28,24 @@ You might wonder how they could test if their methods were on the right track as
 
 The Kalash are famous because they are pagans who reside in the fastness of the Chitral in northwestern Pakistan. It is highly likely that they will be subject to cultural genocide by their Muslim neighbors within the next 10-20 years, as the Taliban has been threatening them with forced conversion for the past few years, and it seems unlikely that the broader Pakistani society would be willing to expend much more in blood & treasure to protect them. Additionally, many of the Kalash also evince a very European physiognomy, making the legend of a Macedonian origin plausible on the face of it. The 95% confidence interval for date of admixture actually does fall within the period of Alexander’s invasion of the Persian east. But what are truly the chances of this? My own hunch is that the admixture into the Kalash is a real phenomenon, **but probably because of another migration event which we are less aware of**. This conjecture is based on some prior information. Zack Ajmal has been running the [Harappa Ancestry Project](http://www.harappadna.org/) for many years now, and has assembled a very large database of Indian ethnicities and castes. And there are already some suggestive patterns which I think may shed light on what is going on with the Kalash. I’ve taken Zack’s data and sorted it by particular ancestral quanta for a subset of populations:
 
-|                       |             |       |              | |-----------------------|-------------|-------|--------------| | **Ethnicity**         | **Dataset** | **N** | **S Indian** | | haryana-jatt          | harappa     | 5     | 27%          | | rajasthani-jatt       | harappa     | 2     | 25%          | | punjabi-jatt-sikh     | harappa     | 13    | 28%          | | brahmin-uttar-pradesh | metspalu    | 8     | 42%          | | pathan                | hgdp        | 23    | 23%          | | kalash                | hgdp        | 23    | 22%          | | burusho               | hgdp        | 25    | 23%          | | pushtikar-brahmin     | harappa     | 1     | 31%          | | bengali-brahmin       | harappa     | 7     | 42%          | | kashmiri-pandit       | reich       | 5     | 32%          | | punjabi               | harappa     | 12    | 33%          | | up-kshatriya          | metspalu    | 7     | 45%          | | punjabi-arain         | xing        | 25    | 31%          | | sindhi                | hgdp        | 24    | 29%          | | iyer-brahmin          | harappa     | 11    | 47%          |
+|                       |             |       |              |
+|-----------------------|-------------|-------|--------------|
+| **Ethnicity**         | **Dataset** | **N** | **S Indian** |
+| haryana-jatt          | harappa     | 5     | 27%          |
+| rajasthani-jatt       | harappa     | 2     | 25%          |
+| punjabi-jatt-sikh     | harappa     | 13    | 28%          |
+| brahmin-uttar-pradesh | metspalu    | 8     | 42%          |
+| pathan                | hgdp        | 23    | 23%          |
+| kalash                | hgdp        | 23    | 22%          |
+| burusho               | hgdp        | 25    | 23%          |
+| pushtikar-brahmin     | harappa     | 1     | 31%          |
+| bengali-brahmin       | harappa     | 7     | 42%          |
+| kashmiri-pandit       | reich       | 5     | 32%          |
+| punjabi               | harappa     | 12    | 33%          |
+| up-kshatriya          | metspalu    | 7     | 45%          |
+| punjabi-arain         | xing        | 25    | 31%          |
+| sindhi                | hgdp        | 24    | 29%          |
+| iyer-brahmin          | harappa     | 11    | 47%          |
 
 The “NE Euro” cluster is strongly correlated with Northern Europe. It peaks in Finns at 80%, with Lithuanians next at 72%. It’s striking to me that the peasant cultivators of eastern Punjab, the Jatts, have a high fraction of this component, which drops off as you go east and south, as you’d expect, but also into Pakistan. The Jatts have legends of “Scythian” ancestry. This might not be true, but I think something is going on in their history to explain their elevated “NE Euro,” which is above the fraction of North Indian upper castes. Interestingly the ratio between “Baloch” and “S Indian” is \~1.4, almost exactly that of the Punjabi Arain of Pakistan, who are also peasant farmers. **What this suggests to me is that the “NE Euro” among the Jatt may be an overlay upon the peasant substrate of the Punjab.** I also believe that it post-dated any primary Indo-Aryan contribution, as the upper castes of the North Indian plain do not exhibit the same patterns as the Jatt. Such specific stories are likely common, and illustrate the process of demographic “leapfrogging,” where populations translocate themselves rapidly over great distances, and admix with the local substrate in a single pulse.
 

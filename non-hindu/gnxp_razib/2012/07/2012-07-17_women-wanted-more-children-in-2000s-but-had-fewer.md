@@ -16,7 +16,31 @@ This brings me to a follow up of my post from yesterday, [People wanted more chi
   
 [![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/07/femalenumber.jpg?resize=581%2C612)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/07/femalenumber.jpg?resize=581%2C612)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/07/femalenumber.jpg)[![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/07/idealfemalenumber.jpg?resize=587%2C616)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/07/idealfemalenumber.jpg?resize=587%2C616)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/07/idealfemalenumber.jpg)
 
-|                |              |       |       |       | |----------------|--------------|-------|-------|-------| |                | **Realized** |       |       |       | |                | 1970s        | 1980s | 1990s | 2000s | | \< HS          | 2.73         | 3.19  | 3.02  | 2.79  | | HS             | 2.67         | 2.91  | 2.59  | 2.22  | | Junior College | 3            | 2.75  | 2.38  | 2.06  | | Bachelor       | 2.31         | 2.47  | 2.11  | 1.71  | | Graduate       | 2.11         | 2.07  | 1.89  | 1.56  | | \< \$20 K      | 2.52         | 2.89  | 2.57  | 2.23  | | \$20-40 K      | 2.57         | 2.9   | 2.46  | 2.02  | | \$40-80 K      | 2.91         | 2.95  | 2.49  | 1.99  | | \> \$80 K      | 3.08         | 2.86  | 2.35  | 1.95  | |                |              |       |       |       | |                | **Ideal**    |       |       |       | |                | 1970s        | 1980s | 1990s | 2000s | | \< HS          | 3.08         | 2.96  | 2.73  | 2.85  | | HS             | 3.04         | 2.89  | 2.61  | 2.97  | | Junior College | 2.58         | 2.8   | 2.95  | 3.31  | | Bachelor       | 3.01         | 2.95  | 2.86  | 3.15  | | Graduate       | 2.73         | 2.52  | 3.63  | 3.02  | | \< \$20 K      | 3            | 2.84  | 2.79  | 3.04  | | \$20-40 K      | 3.04         | 3.01  | 2.69  | 2.96  | | \$40-80 K      | 3.06         | 2.83  | 2.89  | 3.06  | | \> \$80 K      | 3.13         | 2.87  | 2.84  | 3.06  |
+|                |              |       |       |       |
+|----------------|--------------|-------|-------|-------|
+|                | **Realized** |       |       |       |
+|                | 1970s        | 1980s | 1990s | 2000s |
+| \< HS          | 2.73         | 3.19  | 3.02  | 2.79  |
+| HS             | 2.67         | 2.91  | 2.59  | 2.22  |
+| Junior College | 3            | 2.75  | 2.38  | 2.06  |
+| Bachelor       | 2.31         | 2.47  | 2.11  | 1.71  |
+| Graduate       | 2.11         | 2.07  | 1.89  | 1.56  |
+| \< \$20 K      | 2.52         | 2.89  | 2.57  | 2.23  |
+| \$20-40 K      | 2.57         | 2.9   | 2.46  | 2.02  |
+| \$40-80 K      | 2.91         | 2.95  | 2.49  | 1.99  |
+| \> \$80 K      | 3.08         | 2.86  | 2.35  | 1.95  |
+|                |              |       |       |       |
+|                | **Ideal**    |       |       |       |
+|                | 1970s        | 1980s | 1990s | 2000s |
+| \< HS          | 3.08         | 2.96  | 2.73  | 2.85  |
+| HS             | 3.04         | 2.89  | 2.61  | 2.97  |
+| Junior College | 2.58         | 2.8   | 2.95  | 3.31  |
+| Bachelor       | 3.01         | 2.95  | 2.86  | 3.15  |
+| Graduate       | 2.73         | 2.52  | 3.63  | 3.02  |
+| \< \$20 K      | 3            | 2.84  | 2.79  | 3.04  |
+| \$20-40 K      | 3.04         | 3.01  | 2.69  | 2.96  |
+| \$40-80 K      | 3.06         | 2.83  | 2.89  | 3.06  |
+| \> \$80 K      | 3.13         | 2.87  | 2.84  | 3.06  |
 
 
 

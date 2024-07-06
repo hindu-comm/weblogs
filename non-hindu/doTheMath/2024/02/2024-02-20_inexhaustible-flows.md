@@ -31,11 +31,28 @@ Human construction requires very few mineral elements that do not come to us fro
 
 This [Wikipedia page](https://en.wikipedia.org/wiki/Composition_of_the_human_body) provides a compositional breakdown of the human body—presented both by mass and by atoms. Note, however, that the two forms listed on the Wikipedia page are not wholly self-consistent, so I arbitrarily adopt the by-atom numbers (more significant digits, meaningful or not) and produce by-mass fractions from them—though the result is not qualitatively different if starting from the by-mass numbers instead. Below are two tables that capture approximate numbers, broken up according to elements that derive from air and water, and those that we get from the ground. The first table also notes the elemental origins within our environment.
 
-|          |        |         |                                     | |----------|--------|---------|-------------------------------------| | Element  | % Mass | % Atoms | Source                              | | Oxygen   | 61.2   | 24.0    | direct from air and water           | | Carbon   | 23.0   | 12.0    | air via plants/photosynthesis       | | Hydrogen | 10.0   | 62.0    | water: direct and via plants/sugars | | Nitrogen | 2.5    | 1.1     | air via plants and microbes         | | Totals   | 96.7   | 99.1    |                                     |
+|          |        |         |                                     |
+|----------|--------|---------|-------------------------------------|
+| Element  | % Mass | % Atoms | Source                              |
+| Oxygen   | 61.2   | 24.0    | direct from air and water           |
+| Carbon   | 23.0   | 12.0    | air via plants/photosynthesis       |
+| Hydrogen | 10.0   | 62.0    | water: direct and via plants/sugars |
+| Nitrogen | 2.5    | 1.1     | air via plants and microbes         |
+| Totals   | 96.7   | 99.1    |                                     |
 
 So, about 99% of the atoms in our bodies come from air and water, often processed by other lifeforms before entering our mouths. That’s a **very neat trick**! By mass, it’s 97%. The difference is due to the most abundant elements in our bodies being on the lighter side (especially hydrogen), while the rarer minerals tend to be heavier atoms. Now for the *dirt* elements.
 
-|            |        |         | |------------|--------|---------| | Element    | % Mass | % Atoms | | Calcium    | 1.4    | 0.22    | | Phosphorus | 1.1    | 0.22    | | Potassium  | 0.19   | 0.03    | | Sulfur     | 0.19   | 0.038   | | Sodium     | 0.14   | 0.037   | | Chlorine   | 0.14   | 0.024   | | Magnesium  | 0.06   | 0.015   | | Totals     | 3.22   | 0.574   |
+|            |        |         |
+|------------|--------|---------|
+| Element    | % Mass | % Atoms |
+| Calcium    | 1.4    | 0.22    |
+| Phosphorus | 1.1    | 0.22    |
+| Potassium  | 0.19   | 0.03    |
+| Sulfur     | 0.19   | 0.038   |
+| Sodium     | 0.14   | 0.037   |
+| Chlorine   | 0.14   | 0.024   |
+| Magnesium  | 0.06   | 0.015   |
+| Totals     | 3.22   | 0.574   |
 
 Other minerals appear in trace amounts, totaling a small fraction of one percent. The elements in the table above are typically found in soils and rocks, accessed by fungi and roots. The comparatively small amount of ash left over from burning a log completely tends to be composed of elements on this list. The sources of these elements in our diets can be found on [this website](https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/) (and similar variants on the URL for other elements).
 
@@ -55,7 +72,16 @@ Thus, biology has *far* exceeded technology in capturing the inexhaustible flow 
 
 What about the fact that the human body does not store its minerals indefinitely, but requires dietary replenishment? By contrast, solar and wind infrastructure lasts a few decades (it is not indefinite, either). To get a *lower limit* for replenishment times, I look at the recommended daily allowance (RDA) of minerals, [provided at this site](https://www.hsph.harvard.edu/nutritionsource/vitamins/), represented as the RDA column in the table below.
 
-|            |         |             |                 | |------------|---------|-------------|-----------------| | Element    | RDA (g) | In Body (g) | Duration (days) | | Calcium    | 1.0     | 870         | 870             | | Phosphorus | 0.7     | 670         | 960             | | Potassium  | 3.0     | 120         | 40              | | Sodium     | 1.5     | 85          | 60              | | Chlorine   | 2.0     | 85          | 40              | | Magnesium  | 0.35    | 40          | 110             | | Total      | 8.55    | 1870        | 220             |
+|            |         |             |                 |
+|------------|---------|-------------|-----------------|
+| Element    | RDA (g) | In Body (g) | Duration (days) |
+| Calcium    | 1.0     | 870         | 870             |
+| Phosphorus | 0.7     | 670         | 960             |
+| Potassium  | 3.0     | 120         | 40              |
+| Sodium     | 1.5     | 85          | 60              |
+| Chlorine   | 2.0     | 85          | 40              |
+| Magnesium  | 0.35    | 40          | 110             |
+| Total      | 8.55    | 1870        | 220             |
 
 Dividing the amount of elemental mass in the body (obtained via mass percentage in the second table) by the RDA produces a timescale for complete replacement, as indicated in the last column of the table above. It makes some sense to me that calcium and phosphorus—locked up in bones—would persist for a long time, while mediators of biochemistry might flush more routinely. Still, I would imagine the RDA numbers to be conservative (a bit overkill; while staying short of harmful), translating into a more mineral-hungry portrait than is actually necessary. For instance, it seems unlikely that the average dwell time of calcium in your bones is just a few years. I’d be willing to bet that an RDA-consuming person passes unabsorbed calcium (and other minerals) in their poop. But I’m not likely to wade in there, experimentally.
 
@@ -63,7 +89,14 @@ In any case, in a 24-hour day, our 135W standard human cranks out 3.2kWh of ener
 
 According to Table 10.4 of the Department of Energy [Quadrennial Technology Review](https://www.energy.gov/sites/prod/files/2017/03/f34/qtr-2015-chapter10.pdf), the production of electricity entails the following material requirements (in the form of aluminum, concrete/cement, copper, glass, steel, etc.):
 
-|            |         |        | |------------|---------|--------| | Technology | ton/TWh | Factor | | Coal       | 1185    | 0.45   | | Gas        | 572     | 0.22   | | Solar PV   | 16447   | 6.2    | | Wind       | 10260   | 3.9    | | Hydro      | 14068   | 5.3    |
+|            |         |        |
+|------------|---------|--------|
+| Technology | ton/TWh | Factor |
+| Coal       | 1185    | 0.45   |
+| Gas        | 572     | 0.22   |
+| Solar PV   | 16447   | 6.2    |
+| Wind       | 10260   | 3.9    |
+| Hydro      | 14068   | 5.3    |
 
 We see that on this measure as well renewable energy technologies are more mineral-hungry than biological systems (at 2,600 ton/TWh) by substantial factors—and more if RDA is conservatively overstated. Moreover, the required elements are different from those needed for life—more “exotic” so-as to require mining, vs. readily at hand on the surface in biological circulation.
 

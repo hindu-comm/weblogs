@@ -22,11 +22,64 @@ A major reason I want to go north of 500 responses is that I can **compare acros
 
 First, let’s compare the cross-tabs of sex by other variables in a table. You see below the percentage of males and females who fall into a particular class. So below you can see that 73 percent of males support abortion on demand vs. 82 percent of females. While 36 percent of male respondents have made a non-trivial edit to Wikipedia, only 12 percent of female respondents have.
 
-|                                                                                    |          |            | |------------------------------------------------------------------------------------|----------|------------| | **Variable**                                                                       | **Male** | **Female** | | Upper class                                                                        | 4        | 1          | | Upper middle class                                                                 | 36       | 31         | | Middle Class                                                                       | 46       | 57         | | Lower middle class                                                                 | 12       | 16         | | Lower class                                                                        | 2        | 0          | | Less than secondary school                                                         | 1        | 0          | | Secondary school                                                                   | 2        | 0          | | Some university without completion or higher education less than bachelors degree  | 17       | 19         | | Bachelors degree                                                                   | 27       | 34         | | Masters degree (or equivalent)                                                     | 25       | 30         | | Advanced degree (professional degree or doctorate)                                 | 28       | 17         | | Yes to abortion on demand                                                          | 73       | 82         | | Accepts the existence of supernatural                                              | 13       | 19         | | ESTJ – Overseer                                                                    | 2        | 3          | | ESFJ – Supporter                                                                   | 1        | 1          | | ISTJ – Examiner                                                                    | 10       | 10         | | ISFJ – Defender                                                                    | 0        | 1          | | ESTP – Persuader                                                                   | 1        | 1          | | ESFP – Entertainer                                                                 | 1        | 1          | | ISTP – Craftsman                                                                   | 3        | 9          | | ISFP – Artist                                                                      | 2        | 4          | | ENTJ – Chief                                                                       | 4        | 0          | | ENTP – Originator                                                                  | 10       | 1          | | INTJ – Strategist                                                                  | 29       | 28         | | INTP – Engineer                                                                    | 24       | 15         | | ENFJ – Mentor                                                                      | 3        | 0          | | ENFP – Advocate                                                                    | 2        | 1          | | INFJ – Confidant                                                                   | 2        | 13         | | INFP – Dreamer                                                                     | 7        | 7          | | Yes, has done recreational genomics                                                | 28       | 24         | | Conversant in programming language                                                 | 56       | 35         | | Interested in transhumanism                                                        | 50       | 36         | | Knows what narrow-sense heritability is                                            | 38       | 27         | | Have to be on guard against genetic determinism                                    | 6        | 7          | | Genetic determinism is a concern, but often overblown                              | 50       | 67         | | Genetic determinism is not a concern                                               | 44       | 26         | | Biologically derived behavioral differences between the sexes trivial              | 3        | 14         | | Biologically derived behavioral differences between the sexes very modest          | 13       | 24         | | Biologically derived behavioral differences between the sexes somewhat significant | 52       | 51         | | Biologically derived behavioral differences between the sexes very significant     | 33       | 11         | | Has made non-trivial edit to Wikipedia                                             | 36       | 12         |
+|                                                                                    |          |            |
+|------------------------------------------------------------------------------------|----------|------------|
+| **Variable**                                                                       | **Male** | **Female** |
+| Upper class                                                                        | 4        | 1          |
+| Upper middle class                                                                 | 36       | 31         |
+| Middle Class                                                                       | 46       | 57         |
+| Lower middle class                                                                 | 12       | 16         |
+| Lower class                                                                        | 2        | 0          |
+| Less than secondary school                                                         | 1        | 0          |
+| Secondary school                                                                   | 2        | 0          |
+| Some university without completion or higher education less than bachelors degree  | 17       | 19         |
+| Bachelors degree                                                                   | 27       | 34         |
+| Masters degree (or equivalent)                                                     | 25       | 30         |
+| Advanced degree (professional degree or doctorate)                                 | 28       | 17         |
+| Yes to abortion on demand                                                          | 73       | 82         |
+| Accepts the existence of supernatural                                              | 13       | 19         |
+| ESTJ – Overseer                                                                    | 2        | 3          |
+| ESFJ – Supporter                                                                   | 1        | 1          |
+| ISTJ – Examiner                                                                    | 10       | 10         |
+| ISFJ – Defender                                                                    | 0        | 1          |
+| ESTP – Persuader                                                                   | 1        | 1          |
+| ESFP – Entertainer                                                                 | 1        | 1          |
+| ISTP – Craftsman                                                                   | 3        | 9          |
+| ISFP – Artist                                                                      | 2        | 4          |
+| ENTJ – Chief                                                                       | 4        | 0          |
+| ENTP – Originator                                                                  | 10       | 1          |
+| INTJ – Strategist                                                                  | 29       | 28         |
+| INTP – Engineer                                                                    | 24       | 15         |
+| ENFJ – Mentor                                                                      | 3        | 0          |
+| ENFP – Advocate                                                                    | 2        | 1          |
+| INFJ – Confidant                                                                   | 2        | 13         |
+| INFP – Dreamer                                                                     | 7        | 7          |
+| Yes, has done recreational genomics                                                | 28       | 24         |
+| Conversant in programming language                                                 | 56       | 35         |
+| Interested in transhumanism                                                        | 50       | 36         |
+| Knows what narrow-sense heritability is                                            | 38       | 27         |
+| Have to be on guard against genetic determinism                                    | 6        | 7          |
+| Genetic determinism is a concern, but often overblown                              | 50       | 67         |
+| Genetic determinism is not a concern                                               | 44       | 26         |
+| Biologically derived behavioral differences between the sexes trivial              | 3        | 14         |
+| Biologically derived behavioral differences between the sexes very modest          | 13       | 24         |
+| Biologically derived behavioral differences between the sexes somewhat significant | 52       | 51         |
+| Biologically derived behavioral differences between the sexes very significant     | 33       | 11         |
+| Has made non-trivial edit to Wikipedia                                             | 36       | 12         |
 
 Next I looked at the open ended questions. **What’s the difference in sexual partners?** I’m not going to give you a chart here because what you see isn’t too unexpected. Most people have less than 20 sexual partners, but a few people claim hundreds and even thousands of partners.
 
-|                                 |        |      |                    | |---------------------------------|--------|------|--------------------| | **\# of sex partners**          |        |      |                    | |                                 | Median | Mean | Standard Deviation | | Male                            | 4      | 15.5 | 68                 | | Female                          | 4      | 11.8 | 26                 | |                                 |        |      |                    | | *Limited to \< 50 sex partners* |        |      |                    | |                                 |        |      |                    | | Male                            | 3      | 6    | 7.8                | | Female                          | 4      | 7.44 | 9.7                |
+|                                 |        |      |                    |
+|---------------------------------|--------|------|--------------------|
+| **\# of sex partners**          |        |      |                    |
+|                                 | Median | Mean | Standard Deviation |
+| Male                            | 4      | 15.5 | 68                 |
+| Female                          | 4      | 11.8 | 26                 |
+|                                 |        |      |                    |
+| *Limited to \< 50 sex partners* |        |      |                    |
+|                                 |        |      |                    |
+| Male                            | 3      | 6    | 7.8                |
+| Female                          | 4      | 7.44 | 9.7                |
 
 The median and mean are different because the mean is much more sensitive to outliers than the median. You see that there are some really promiscuous males who are driving the average up. So I decided to limit the sample to a more realistic range (for mortals). Interestingly you now see that female readers have somewhat more sexual partners than males! There are some obvious interpretations of what’s going on here, but I’ll leave it to you guys.
 
@@ -42,7 +95,12 @@ Just so you know, some people left their sex undefined, so that’s why you see 
 
 Next let’s look at how many years individuals have been reading *Gene Expression*. Here at the summary statistics:
 
-|                |        |      |                    | |----------------|--------|------|--------------------| | **Years read** |        |      |                    | |                | Median | Mean | Standard Deviation | | Male           | 3      | 3.2  | 2.4                | | Female         | 1      | 2.4  | 1.8                |
+|                |        |      |                    |
+|----------------|--------|------|--------------------|
+| **Years read** |        |      |                    |
+|                | Median | Mean | Standard Deviation |
+| Male           | 3      | 3.2  | 2.4                |
+| Female         | 1      | 2.4  | 1.8                |
 
 Males have been reading much longer. I’ve long noticed greater “churn” among the female readership. The proportion of females is the same, but they tend to always report reading for not as long. This can be explained by women coming and going more often. Here’s the density distribution with two curves, one for males and one for females:
 

@@ -15,17 +15,66 @@ Addendum: Gnxp readers, please take the sex-and-MBTI survey in the extended entr
 
 It would be nice if something as fixable as iron deficiency totally informed the differences between the sexes in math aptitude, but I doubt that is a viable hypothesis. There are gross morphological variations between male and female brains and hormonal differences as well. Would you help me test my hypothesis? I remember the last time razib polled readership gnxp was 92% XY. Please vote. 🙂
 
-|      |     | |------|-----| | Sex? |     | |      | XY  | |      | XX  | |    |     |
+|      |     |
+|------|-----|
+| Sex? |     |
+|      | XY  |
+|      | XX  |
+|    |     |
 
 And while we’re polling, let’s see the distribution of gnxp readers against MBTI–If your type is not in the voting box, leave it blank. Note separate voting boxen for guyz and grrls.
 
-|                |      | |----------------|------| | MBTI part I XY |      | |                | ESTJ | |                | ESTP | |                | ISTJ | |                | ISTP | |                | ESFJ | |                | ESFP | |                | ISFJ | |                | ISFP | |              |      |
+|                |      |
+|----------------|------|
+| MBTI part I XY |      |
+|                | ESTJ |
+|                | ESTP |
+|                | ISTJ |
+|                | ISTP |
+|                | ESFJ |
+|                | ESFP |
+|                | ISFJ |
+|                | ISFP |
+|              |      |
 
-|                 |      | |-----------------|------| | MTBI Part II XY |      | |                 | ENFJ | |                 | ENFP | |                 | INFJ | |                 | INFP | |                 | ENTJ | |                 | ENTP | |                 | INTJ | |                 | INTP | |               |      |
+|                 |      |
+|-----------------|------|
+| MTBI Part II XY |      |
+|                 | ENFJ |
+|                 | ENFP |
+|                 | INFJ |
+|                 | INFP |
+|                 | ENTJ |
+|                 | ENTP |
+|                 | INTJ |
+|                 | INTP |
+|               |      |
 
-|                |      | |----------------|------| | MBTI Part I XX |      | |                | ESTJ | |                | ESTP | |                | ISTJ | |                | ISTP | |                | ESFJ | |                | ESFP | |                | ISFJ | |                | ISFP | |              |      |
+|                |      |
+|----------------|------|
+| MBTI Part I XX |      |
+|                | ESTJ |
+|                | ESTP |
+|                | ISTJ |
+|                | ISTP |
+|                | ESFJ |
+|                | ESFP |
+|                | ISFJ |
+|                | ISFP |
+|              |      |
 
-|                 |      | |-----------------|------| | MTBI Part II XX |      | |                 | ENFJ | |                 | ENFP | |                 | INFJ | |                 | INFP | |                 | ENTJ | |                 | ENTP | |                 | INTJ | |                 | INTP | |               |      |
+|                 |      |
+|-----------------|------|
+| MTBI Part II XX |      |
+|                 | ENFJ |
+|                 | ENFP |
+|                 | INFJ |
+|                 | INFP |
+|                 | ENTJ |
+|                 | ENTP |
+|                 | INTJ |
+|                 | INTP |
+|               |      |
 
 Posted by jinnderella at [11:38 AM](https://www.gnxp.com/MT2/archives/003477.html) [](http://js-kit.com/api/static/pop_comments?ref=http://gnxp.com&path=/3477?url=http://www.gnxp.com/MT2/archives/003477.html&thetime=%20012005&MT=true)
 

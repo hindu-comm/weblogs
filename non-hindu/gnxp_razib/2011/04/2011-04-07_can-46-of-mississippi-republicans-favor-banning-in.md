@@ -31,7 +31,33 @@ The outcomes were:
 
 Remember that the sample was limited to Mississippi Republicans. Let’s go back and look at some of the demographic correlates for the responses to RACMAR between 1998 and 2002, when the proportion responding yes and no was relatively constant. I’ll focus on region and politics.
 
-|                             |                            | |-----------------------------|----------------------------| |                             | *Ban interracial marriage* | | Liberal                     | 7                          | | Moderate                    | 10                         | | Conservative                | 12                         | | Democrat                    | 10                         | | Independent                 | 10                         | | Republican                  | 11                         | | New England                 | 7                          | | Middle Atlantic             | 8                          | | East North Central          | 9                          | | West North Central          | 9                          | | South Atlantic              | 11                         | | East South Central          | 26                         | | West South Central          | 15                         | | Mountain                    | 7                          | | Pacific                     | 5                          | |                             |                            | | **East South Central Only** |                            | |                             | *Ban interracial marriage* | | Liberal                     | 16                         | | Moderate                    | 28                         | | Conservative                | 30                         | | Democrat                    | 19                         | | Independent                 | 28                         | | Republican                  | 34                         |
+|                             |                            |
+|-----------------------------|----------------------------|
+|                             | *Ban interracial marriage* |
+| Liberal                     | 7                          |
+| Moderate                    | 10                         |
+| Conservative                | 12                         |
+| Democrat                    | 10                         |
+| Independent                 | 10                         |
+| Republican                  | 11                         |
+| New England                 | 7                          |
+| Middle Atlantic             | 8                          |
+| East North Central          | 9                          |
+| West North Central          | 9                          |
+| South Atlantic              | 11                         |
+| East South Central          | 26                         |
+| West South Central          | 15                         |
+| Mountain                    | 7                          |
+| Pacific                     | 5                          |
+|                             |                            |
+| **East South Central Only** |                            |
+|                             | *Ban interracial marriage* |
+| Liberal                     | 16                         |
+| Moderate                    | 28                         |
+| Conservative                | 30                         |
+| Democrat                    | 19                         |
+| Independent                 | 28                         |
+| Republican                  | 34                         |
 
 ------------------------------------------------------------------------
 

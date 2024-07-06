@@ -19,7 +19,19 @@ And that basically comes down to evolution. If you presuppose that the Left oppo
 
 Not only that, my perusal of the [General Social Survey](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss10) suggests that the gap between liberals and conservatives is likely far greater than between liberals and conservatives on other scientific topics, with the exception of highly politicized ones such as anthropogenic climate change. Unfortunately I haven’t found information on vaccination, but there are some questions about nuclear weapons and genetically modified organism. Compare & contrast.
 
-|                                                              |             |              |                  | |--------------------------------------------------------------|-------------|--------------|------------------| |                                                              | **Liberal** | **Moderate** | **Conservative** | | Humans developed from animals                                | 69          | 52           | 39               | | Humans developed from animals (non-Hispanic white)           | 77          | 55           | 38               | | Humans developed from animals (college educated)             | 86          | 66           | 47               | | Strongly favor nuke power                                    | 16          | 13           | 12               | | Favor nuke power                                             | 49          | 50           | 64               | | Oppose nuke power                                            | 28          | 27           | 16               | | Strongly oppose nuke power                                   | 7           | 9            | 8                | | Don’t care whether or not food has been genetically modified | 15          | 20           | 18               | | Willing to eat but would prefer unmodified foods             | 56          | 53           | 55               | | Will not eat genetically modified food                       | 29          | 27           | 27               |
+|                                                              |             |              |                  |
+|--------------------------------------------------------------|-------------|--------------|------------------|
+|                                                              | **Liberal** | **Moderate** | **Conservative** |
+| Humans developed from animals                                | 69          | 52           | 39               |
+| Humans developed from animals (non-Hispanic white)           | 77          | 55           | 38               |
+| Humans developed from animals (college educated)             | 86          | 66           | 47               |
+| Strongly favor nuke power                                    | 16          | 13           | 12               |
+| Favor nuke power                                             | 49          | 50           | 64               |
+| Oppose nuke power                                            | 28          | 27           | 16               |
+| Strongly oppose nuke power                                   | 7           | 9            | 8                |
+| Don’t care whether or not food has been genetically modified | 15          | 20           | 18               |
+| Willing to eat but would prefer unmodified foods             | 56          | 53           | 55               |
+| Will not eat genetically modified food                       | 29          | 27           | 27               |
 
 My own prediction is that on something like vaccination & autism you won’t see a major Left-Right difference. Rather, a small subculture on the Left as taken up this cause, and is rather vocal, but it is not a major group conformity marker like evolution vs. creation. The GMO question illustrates here that there isn’t a strong Left-Right difference either. This doesn’t mean that differences don’t exist. **But we need more quantitative, and fewer impressionistic, examples.**
 

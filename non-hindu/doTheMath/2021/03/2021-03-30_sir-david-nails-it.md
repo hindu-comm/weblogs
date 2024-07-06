@@ -19,7 +19,15 @@ I have now watched the show three times. The first instance resonated strongly w
 
 The introduction elegantly frames the story as a tragic loss of wild places, in which we mindlessly eliminate biodiversity and unwittingly dismantle our own life-support machine on this spectacular marvel of a planet. Starting a clock when he was a boy of eleven years, in 1937, key figures are updated during the course of the show. Collected in one place, the figures are as follows:
 
-|      |            |         |             | |------|------------|---------|-------------| | Year | Population | CO₂ ppm | Wild Spaces | | 1937 | 2.3 B      | 280     | 66%         | | 1954 | 2.7 B      | 310     | 64%         | | 1960 | 3.0 B      | 315     | 62%         | | 1978 | 4.3 B      | 335     | 55%         | | 1997 | 5.9 B      | 360     | 46%         | | 2020 | 7.8 B      | 415     | 35%         |
+|      |            |         |             |
+|------|------------|---------|-------------|
+| Year | Population | CO₂ ppm | Wild Spaces |
+| 1937 | 2.3 B      | 280     | 66%         |
+| 1954 | 2.7 B      | 310     | 64%         |
+| 1960 | 3.0 B      | 315     | 62%         |
+| 1978 | 4.3 B      | 335     | 55%         |
+| 1997 | 5.9 B      | 360     | 46%         |
+| 2020 | 7.8 B      | 415     | 35%         |
 
 The 1950s are portrayed as a time of boundless optimism. World War II was over; the middle class was growing and prospering; technologies, innovations, ideas, and conveniences flooded into peoples’ lives. What could humanity *not* accomplish?
 

@@ -14,7 +14,11 @@ A few days ago I began a survey of Martin Nowak’s treatment of modern game the
   
 Here’s a payoff matrix for a Prisoner’s Dillemma:¹
 
-|           |           |        | |-----------|-----------|--------| |          | Cooperate | Defect | | Cooperate | 3         | 0      | | Defect    | 5         | 1      |
+|           |           |        |
+|-----------|-----------|--------|
+|          | Cooperate | Defect |
+| Cooperate | 3         | 0      |
+| Defect    | 5         | 1      |
 
 The rows to the left are “your” strategies, while the top row indicates the strategy you play against. The integers represent your payoff. So,  
 If you cooperate and the other person cooperates payoff = 3  
@@ -33,11 +37,19 @@ So why cooperation? Well, reality is a bit more complicated. Let’s modify the 
 GRIM,² where the player cooperates initially and continues to cooperate unless the other player defects, and which point it will defect permanently. And ALLD, always defect, which is pretty straightforward.  
 The payoff matrix will be defined like so:
 
-|      |            |              | |------|------------|--------------| |     | GRIM       | ALLD         | | GRIM | mR         | S + (m – 1)P | | ALLD | T + (m-1)P | mP           |
+|      |            |              |
+|------|------------|--------------|
+|     | GRIM       | ALLD         |
+| GRIM | mR         | S + (m – 1)P |
+| ALLD | T + (m-1)P | mP           |
 
 Where a generic payoff matrix uses the notation:
 
-|     |     |     | |-----|-----|-----| |    | C   | D   | | C   | R   | S   | | D   | T   | P   |
+|     |     |     |
+|-----|-----|-----|
+|    | C   | D   |
+| C   | R   | S   |
+| D   | T   | P   |
 
 If you read my previous post about [reciprocal altruism](https://en.wikipedia.org/wiki/Reciprocal_altruism) you know that **a particular number of iterations is necessary for recriprocation to be important**. In other words, “one off” encounters reward selfishness, repetitions reward more complex strategies, including facultative cooperation. So, for a given payoff matrix the the parameter m, the number of iterations, can be defined where GRIM can beat ALLD. Formally the condition where GRIM can resist invasion against ALLD (that is, it is an [ESS](https://en.wikipedia.org/wiki/Evolutionarily_stable_strategies)) is defined by:  
 m \> (T – P)/(R – P), or, verbally  
@@ -48,7 +60,11 @@ There is where the famous [Tit-for-Tat](https://en.wikipedia.org/wiki/Tit-for-Ta
 TFT is a deterministic strategy which reacts to the opponent. It may seem like such a simple idea, but Matt Ridley wrote a whole book, [The Origins of Virtue: Human Instincts and the Evolution of Cooperation](https://www.amazon.com/Origins-Virtue-Instincts-Evolution-Cooperation/dp/0140264450/ref=pd_bbs_sr_1/002-9954258-8060061?ie=UTF8&s=books&qid=1174281193&sr=8-1), which revolved around Tit-for-Tat. It is a strategy which appeals to human concepts of “fair play,” and makes nature a bit less “red in tooth and claw.”  
 Here’s the payoff matrix:
 
-|      |                 |                   | |------|-----------------|-------------------| |     | TFT             | ALLD              | | TFT  | ave(m)R         | S + (ave(m) – 1)P | | ALLD | T + (ave(m)-1)P | ave(m)P           |
+|      |                 |                   |
+|------|-----------------|-------------------|
+|     | TFT             | ALLD              |
+| TFT  | ave(m)R         | S + (ave(m) – 1)P |
+| ALLD | T + (ave(m)-1)P | ave(m)P           |
 
 It should be familiar. The main difference here is that I’ve added the *average* number of rounds, as opposed to a fixed number. But all does not end with TFT, Nowak points out that **TFT is unforgiving, so adding an error parameter into the simulation tends to result in TFT being far less effective**. In other words, TFT tends to be a poor strategy in the context of behavorial noise. This is obviously an Achilles Heal because perfection is an aspiration, not a reality, in normal biosocial systems. Additionally, it also seems that when TFT facing an “Always Cooperate” (ALLC) strategy it has no advantage, since TFT is neither a Nash Equilibrium or an ESSin this scenario. A number of mutations toward ALLC in a finite population will result in TFT’s ceding ground to this strategy over time. Thinking about it on a biological level it is plausible to accept that TFT requires more energenetic (cognitive) outlay than a simpler ALLC strategy, which is positively “dumb.” But if dumb is effective, it is often cheaper than a more sophisticated strategy which requires more mental computations (e.g., cockroaches are evolutionary winners!). So how to resolve these problems with TFT?  
 There are two other strategies that Nowak introduces as alternatives to TFT. “Generous Tit-for-Tat” (GTFT) is similar to TFT, but it is more “forgiving” of “mistakes” on the part of its oppenents. While TFT will **always** defect when faced with defection, GTFT will forgive a percentage of the time mistakes made by its opponents. In other words, GTFT will cooperate an x proportion of the time when its opponent defects (presumably by mistake).  

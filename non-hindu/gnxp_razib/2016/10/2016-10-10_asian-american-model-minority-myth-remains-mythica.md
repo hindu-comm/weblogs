@@ -27,7 +27,15 @@ This is the “Hmong gambit.” I’ve been hearing about this for 20 years from
 
 [UC Berkeley](http://opa.berkeley.edu/uc-berkeley-fall-enrollment-data) provides undergraduate (non-international) student data. And you can find various Asian American ethnic numbers from the Census and other sites.
 
-|             |                     |                       |           | |-------------|---------------------|-----------------------|-----------| |             | **Berkeley 2015%** | **California 2010%** | **Ratio** | | Chinese     | 20.5%               | 3.9%                  | 5.26      | | Filipino    | 3.4%                | 3.9%                  | 0.87      | | Japanese    | 2.1%                | 0.7%                  | 2.82      | | Korean      | 5.3%                | 1.4%                  | 3.94      | | South Asian | 8.2%                | 1.8%                  | 4.55      | | Vietnamese  | 3.6%                | 1.7%                  | 2.1       |
+|             |                     |                       |           |
+|-------------|---------------------|-----------------------|-----------|
+|             | **Berkeley 2015%** | **California 2010%** | **Ratio** |
+| Chinese     | 20.5%               | 3.9%                  | 5.26      |
+| Filipino    | 3.4%                | 3.9%                  | 0.87      |
+| Japanese    | 2.1%                | 0.7%                  | 2.82      |
+| Korean      | 5.3%                | 1.4%                  | 3.94      |
+| South Asian | 8.2%                | 1.8%                  | 4.55      |
+| Vietnamese  | 3.6%                | 1.7%                  | 2.1       |
 
 One thing you can see immediately is that the reporting is sloppy and uninformed. Vietnamese shouldn’t be bracketed with other Southeast Asians. They are somewhat overrepresented at Berkeley. This is not surprising. Many of the Vietnamese are themselves [Hoa](https://en.wikipedia.org/wiki/Hoa_people#Diaspora_communities), or from the Catholic middle class. The Filipinos are represented at about their proportion in the population. The Chinese, South Asians (mostly Indian), Koreans, and Japanese are all overrepresented.
 

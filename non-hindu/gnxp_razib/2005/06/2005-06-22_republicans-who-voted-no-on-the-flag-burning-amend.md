@@ -11,7 +11,21 @@ Republicans who voted "No" on the Flag Burning Amendment
 
 Sometimes peculiar intersections can be interesting. Here are the American Conservative Union ratings of the 12 Republicans who voted against H J RES 10 (“Proposing an amendment to the Constitution of the United States authorizing the Congress to prohibit the physical desecration of the flag of the United States”):
 
-|           |                | |-----------|----------------| | Name      | Lifetime score | | Shadegg   | 98             | | Flake     | 93             | | Dreir     | 92             | | Hoekstra  | 90             | | Paul      | 83             | | Petri     | 77             | | Kolbe     | 74             | | Ehlers    | 71             | | Gilchrest | 64             | | Shays     | 48             | | Leach     | 43             | | Schwarz   | \*             |
+|           |                |
+|-----------|----------------|
+| Name      | Lifetime score |
+| Shadegg   | 98             |
+| Flake     | 93             |
+| Dreir     | 92             |
+| Hoekstra  | 90             |
+| Paul      | 83             |
+| Petri     | 77             |
+| Kolbe     | 74             |
+| Ehlers    | 71             |
+| Gilchrest | 64             |
+| Shays     | 48             |
+| Leach     | 43             |
+| Schwarz   | \*             |
 
 The only note I would make is that Ron Paul, TX, votes against basically everything (he’s an anti-federal paleolibertarian). For reference, Nancy Pelosi has a lifetime score of 3 and Tom Delay a 96. Posted by razib at [02:05 PM](https://www.gnxp.com/MT2/archives/004099.html) [](http://js-kit.com/api/static/pop_comments?ref=http://gnxp.com&path=/4099?url=http://www.gnxp.com/MT2/archives/004099.html&thetime=%20062205&MT=true)
 

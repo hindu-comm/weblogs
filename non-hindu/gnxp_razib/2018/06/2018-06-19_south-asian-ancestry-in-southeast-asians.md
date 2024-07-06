@@ -21,7 +21,22 @@ I had a lot of Southeast Asian datasets to play with, and did a lot of pruning t
 
 But what about the question of Southeast Asian affinities? This needs deeper analysis. Three-population tests, which measure admixture with outgroups when compared to a dyad of populations which are modeled as a clade, can be informative.
 
-|              |               |               |              |          | |-------------:|--------------:|--------------:|-------------:|---------:| | **Outgroup** |      **Pop1** |      **Pop2** |       **f3** |    **z** | |  Bangladeshi |        Telugu |    Cambodians |  -0.00183999 | -46.3322 | |  Bangladeshi |        Telugu |           Han |  -0.00220121 |  -46.046 | |        Burma |        Telugu |           Han |  -0.00406071 | -51.0018 | |        Burma |           Han |   Bangladeshi |  -0.00348186 | -49.1398 | |        Burma |           Han | Punjabi_ANI_2 |  -0.00418193 | -47.2351 | |   Cambodians |        Telugu |          Viet |  -0.00126923 |   -16.91 | |   Cambodians | Punjabi_ANI_2 |          Viet |  -0.00129881 | -15.6039 | |   Cambodians |   Bangladeshi |          Viet | -0.000970022 | -14.5642 | |        Malay |        Igorot |        Telugu |  -0.00249795 |  -18.758 | |        Malay |        Igorot |   Bangladeshi |  -0.00223454 | -18.5212 | |        Malay |        Igorot | Punjabi_ANI_2 |  -0.00250732 | -18.3027 | |        Malay |        Igorot |    Cambodians |  -0.00107817 | -16.6214 | |         Viet |           Han |    Cambodians | -0.000569337 | -13.1139 |
+|              |               |               |              |          |
+|-------------:|--------------:|--------------:|-------------:|---------:|
+| **Outgroup** |      **Pop1** |      **Pop2** |       **f3** |    **z** |
+|  Bangladeshi |        Telugu |    Cambodians |  -0.00183999 | -46.3322 |
+|  Bangladeshi |        Telugu |           Han |  -0.00220121 |  -46.046 |
+|        Burma |        Telugu |           Han |  -0.00406071 | -51.0018 |
+|        Burma |           Han |   Bangladeshi |  -0.00348186 | -49.1398 |
+|        Burma |           Han | Punjabi_ANI_2 |  -0.00418193 | -47.2351 |
+|   Cambodians |        Telugu |          Viet |  -0.00126923 |   -16.91 |
+|   Cambodians | Punjabi_ANI_2 |          Viet |  -0.00129881 | -15.6039 |
+|   Cambodians |   Bangladeshi |          Viet | -0.000970022 | -14.5642 |
+|        Malay |        Igorot |        Telugu |  -0.00249795 |  -18.758 |
+|        Malay |        Igorot |   Bangladeshi |  -0.00223454 | -18.5212 |
+|        Malay |        Igorot | Punjabi_ANI_2 |  -0.00250732 | -18.3027 |
+|        Malay |        Igorot |    Cambodians |  -0.00107817 | -16.6214 |
+|         Viet |           Han |    Cambodians | -0.000569337 | -13.1139 |
 
 Bangladeshis show strong signatures with both Cambodians and Han. This is in accordance with earlier analysis which suggests Austro-Asiatic and Tibeto-Burman contributions to the “East Asian” element of Bengali ancestry. The Burmese always have Han ancestry, with a South Asian donor as well. This aligns with other PCA analysis which shows the Burmese samples skewed toward Han Chinese. Burma is a compound of different ethnic groups. Some are Austro-Asiatic. The Bamar, the core “Burman” group, have some affinities to Tibetans. And the Shan are a Thai people who are relatively late arrivals.
 

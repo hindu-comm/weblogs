@@ -11,7 +11,17 @@ Creationism among doctors and the general public
 
 A few years ago there was a [survey](http://www.hcdi.net/polls/J5776/) of Creationism among medical doctors. The short of is that though medical doctors are not as Creationist as the general public, a large minority are Creationists. The N’s for some of the groups are rather small, but I thought it might be illustrative to compare the proportion of doctors who believed that humans were created by God as they appear now, and those who mostly or complete disagree with the contention that evolution is the best explanation for human life. Since the medical survey didn’t disaggregate Protestants into evangelical and mainline, I substituted from another [survey](http://www.usatoday.com/tech/science/2005-10-10-evolution-debate-centerpiece_x.htm).
 
-|                                          |             |                    | |------------------------------------------|-------------|--------------------| | **Acceptance of Creationism for Humans** |             |                    | |                                         |            |                   | |                                         | **Doctors** | **General Public** | | Jewish                                   | 3           | 17                 | | Catholic                                 | 11          | 35                 | | Hindu                                    | 11          | 14                 | | Orthodox                                 | 37          | 36                 | | Muslim                                   | 43          | 51                 | | Protestant                               | 35          | 66                 |
+|                                          |             |                    |
+|------------------------------------------|-------------|--------------------|
+| **Acceptance of Creationism for Humans** |             |                    |
+|                                         |            |                   |
+|                                         | **Doctors** | **General Public** |
+| Jewish                                   | 3           | 17                 |
+| Catholic                                 | 11          | 35                 |
+| Hindu                                    | 11          | 14                 |
+| Orthodox                                 | 37          | 36                 |
+| Muslim                                   | 43          | 51                 |
+| Protestant                               | 35          | 66                 |
 
 ### Related Posts:
 

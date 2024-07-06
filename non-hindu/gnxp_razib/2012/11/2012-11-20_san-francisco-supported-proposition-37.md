@@ -11,7 +11,12 @@ San Francisco supported Proposition 37!
 
 A few weeks ago I [alluded to the controversy around proposition 37](http://blogs.discovermagazine.com/gnxp/2012/10/prop-37-and-the-right-to-have-the-government-enforce-your-right-to-know/). This was the [GMO labeling law proposal](http://ballotpedia.org/wiki/index.php/California_Proposition_37,_Mandatory_Labeling_of_Genetically_Engineered_Food_(2012)). Many life scientists in California [opposed this law](http://www.michaeleisen.org/blog/?p=1210). One aspect of this issue is that it is an area where the Left may be stated to be “anti-science.” This is why this was highlighted in [Science Left Behind](https://www.amazon.com/exec/obidos/ASIN/1610391640/geneexpressio-20). But there’s a problem with this narrative: **the survey data for it is weak.** There are broad suggestive patterns…but the reality is that the strongest predictor of skepticism of genetically modified organisms is lower socioeconomic status. The GSS has a variable, EATGM. Here are the results by ideology:
 
-|                                                              |             |              |                  | |--------------------------------------------------------------|-------------|--------------|------------------| |                                                              | **Liberal** | **Moderate** | **Conservative** | | Don’t care whether or not food has been genetically modified | 15          | 16           | 17               | | Willing to eat but would prefer unmodified foods             | 55          | 53           | 52               | | Will not eat genetically modified food                       | 30          | 30           | 31               |
+|                                                              |             |              |                  |
+|--------------------------------------------------------------|-------------|--------------|------------------|
+|                                                              | **Liberal** | **Moderate** | **Conservative** |
+| Don’t care whether or not food has been genetically modified | 15          | 16           | 17               |
+| Willing to eat but would prefer unmodified foods             | 55          | 53           | 52               |
+| Will not eat genetically modified food                       | 30          | 30           | 31               |
 
 
 

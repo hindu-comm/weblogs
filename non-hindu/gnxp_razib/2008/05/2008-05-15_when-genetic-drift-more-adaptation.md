@@ -15,7 +15,12 @@ I know I’ve posted on this topic before, but I thought I’d revisit it again.
 My exposition here is borrowed from [Evolutionary Genetics: Case Studies and Concepts](https://www.amazon.com/exec/obidos/ASIN/0195168186/geneexpressio-20) (an excellent book which has been much blog fodder over the past few years). We start with the idea of [statistical epistasis](https://www.gnxp.com/blog/2005/07/through-rugged-roads-of-gene-land.php); gene by gene interaction which varies the trait value. Additive genetic variance is pretty simple, you take a locus (gene) and substitue alleles (variants of genes) and see the effect it is has on the trait. Obviously you have variation on other genes, but for additive genetic variance you just assume the average of the genetic background; in other words, *ceteris paribus* is the order of the day. When it comes to epistasis this sort of averaging of the background won’t do because it’s the combinations across the genes which are relevant; think of epistatic effects as non-linear and additive ones as linear.  
 The example from [Evolutionary Genetics](https://www.amazon.com/exec/obidos/ASIN/0195168186/geneexpressio-20) uses additive-by-additive epistasis across two loci; the elements of the matrix are show the outcomes of genotype combinations.
 
-|          |          |          |          | |----------|----------|----------|----------| |         | **A₁A₁** | **A₁A₂** | **A₂A₂** | | **B₁B₁** | 1        | 0        | -1       | | **B₁B₂** | 0        | 0        | 0        | | **B₂B₂** | -1       | 0        | 1        |
+|          |          |          |          |
+|----------|----------|----------|----------|
+|         | **A₁A₁** | **A₁A₂** | **A₂A₂** |
+| **B₁B₁** | 1        | 0        | -1       |
+| **B₁B₂** | 0        | 0        | 0        |
+| **B₂B₂** | -1       | 0        | 1        |
 
 As you can see, the effect of the genotypes of A invert contingent upon the background of B. Now imagine that you start with a large [panmictic population](https://en.wikipedia.org/wiki/Panmictic) where A & B are at intermediate frequencies. Obviously there’s only a weak correlaton of phenotype with genotype for change on A in this case; no additive genetic variance. **But if stochastic pressures result in a deviaton from a balance between the allelic variants of B, then A will contribute to additive genetic variance.**  
 Here’s a figure which illustrates what I’m talking about….  

@@ -13,7 +13,20 @@ Russia homophobia has little to do with religion
 
 But perhaps more interesting that realpolitik is that **Russia and the West are now diverging culturally.** Or, at least their cultural divergences are just very stark at this moment. The universalist post-materialist globalist wave which began swelling out of the West has crashed up against Russia nationalism and social conservatism. The brouhaha over homosexuality during the Sochi Olympics highlights one of the major fissures. But despite these deep differences Westerners still attempt to understand Russia on Western terms (this is actually a general problem). So, for example, the [assumption that contemporary Russian aversion to homosexuality](http://globalpublicsquare.blogs.cnn.com/2014/02/07/young-and-gay-in-russia-inside-a-documentary/) is a function of the real rise in Orthodox religious affiliation over the past generation. This is wrong. Using data from the [World Values Survey](http://www.worldvaluessurvey.org/) we can see that Russians have become more, not less, liberal about homosexuality over the past generation. Below are the results. Observe that as Russia has become more nationalistic and Orthodox, the average Russian has exhibited less avowed hostility to homosexuality.
 
-|                    |        | |--------------------|--------| | Homosexuality is…. |        | |                    | 1990   | | Never justifiable  | 88.30% | | 2                  | 3.10%  | | 3                  | 1.60%  | | 4                  | 1.00%  | | 5                  | 2.90%  | | 6                  | 0.90%  | | 7                  | 0.40%  | | 8                  | 0.90%  | | 9                  | 0.30%  | | Always justifiable | 0.50%  |
+|                    |        |
+|--------------------|--------|
+| Homosexuality is…. |        |
+|                    | 1990   |
+| Never justifiable  | 88.30% |
+| 2                  | 3.10%  |
+| 3                  | 1.60%  |
+| 4                  | 1.00%  |
+| 5                  | 2.90%  |
+| 6                  | 0.90%  |
+| 7                  | 0.40%  |
+| 8                  | 0.90%  |
+| 9                  | 0.30%  |
+| Always justifiable | 0.50%  |
 
 More importantly though, what’s the relationship between religion and attitudes toward homosexuality? I used the 2005-2008 WVS question, and broke it down by religious self assessment for Swedes, Americans, and Russians. Here are the results:
 

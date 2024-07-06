@@ -33,7 +33,19 @@ Using the [GSS](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss08) you can see 
 
 ------------------------------------------------------------------------
 
-|              |              |     |              |         |      | |--------------|--------------|-----|--------------|---------|------| | **All**      |              |     |              |         |      | |              | Less Than HS | HS  | Some college | College | Grad | | Atheist      | 2            | 2.5 | 2            | 3       | 4    | | Agnostic     | 3            | 4   | 3            | 7       | 9    | | None         | 15           | 15  | 13           | 15      | 18   | |              |              |     |              |         |      | | **Liberals** |              |     |              |         |      | |              | Less Than HS | HS  | Some college | College | Grad | | Atheist      | 2            | 5   | 4            | 6       | 7    | | Agnostic     | 7            | 5   | 6            | 17      | 12   | | None         | 16           | 23  | 26           | 32      | 30   |
+|              |              |     |              |         |      |
+|--------------|--------------|-----|--------------|---------|------|
+| **All**      |              |     |              |         |      |
+|              | Less Than HS | HS  | Some college | College | Grad |
+| Atheist      | 2            | 2.5 | 2            | 3       | 4    |
+| Agnostic     | 3            | 4   | 3            | 7       | 9    |
+| None         | 15           | 15  | 13           | 15      | 18   |
+|              |              |     |              |         |      |
+| **Liberals** |              |     |              |         |      |
+|              | Less Than HS | HS  | Some college | College | Grad |
+| Atheist      | 2            | 5   | 4            | 6       | 7    |
+| Agnostic     | 7            | 5   | 6            | 17      | 12   |
+| None         | 16           | 23  | 26           | 32      | 30   |
 
 ------------------------------------------------------------------------
 
@@ -41,7 +53,19 @@ Weighting Congress by education, I get the following values:
 
 ------------------------------------------------------------------------
 
-|                         |     | |-------------------------|-----| | **Predicated All**      |     | |                         |     | | Atheist                 | 4   | | Agnostic                | 8   | | None                    | 17  | |                         |     | | **Predicated Liberals** |     | |                         |     | | Atheist                 | 7   | | Agnostic                | 13  | | None                    | 30  |
+|                         |     |
+|-------------------------|-----|
+| **Predicated All**      |     |
+|                         |     |
+| Atheist                 | 4   |
+| Agnostic                | 8   |
+| None                    | 17  |
+|                         |     |
+| **Predicated Liberals** |     |
+|                         |     |
+| Atheist                 | 7   |
+| Agnostic                | 13  |
+| None                    | 30  |
 
 ------------------------------------------------------------------------
 

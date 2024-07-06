@@ -27,7 +27,60 @@ The results from the survey will be analyzed in three parts:
 
 – A final section examines some scatter plots of estimated height vs. IQ heritabilities. An interesting point to remember here is that many people who weren’t totally clear on what narrow-sense heritability was nevertheless offered up a heritability estimate, probably because they got the gist of what the value was.
 
-|                                                                                   |     | |-----------------------------------------------------------------------------------|-----| | **Knows what “narrow-sense heritability” is**                                     |     | |                                                                                   |     | | Male                                                                              | 34  | | Female                                                                            | 29  | | Some university                                                                   | 16  | | Bachelors                                                                         | 30  | | Masters                                                                           | 30  | | Advanced degree                                                                   | 53  | | Supports abortion on demand                                                       | 32  | | Rejects abortion on demand                                                        | 33  | | Accepts supernatural                                                              | 25  | | Rejects supernatural                                                              | 34  | | Mathematics background                                                            | 34  | | Computer science background                                                       | 30  | | Physical sciences background                                                      | 27  | | Life sciences background                                                          | 60  | | Psychology background                                                             | 38  | | Economics background                                                              | 37  | | Anthropology background                                                           | 48  | | Other social sciences background                                                  | 19  | | Philosophy background                                                             | 36  | | Other humanities background                                                       | 23  | | Law background                                                                    | 45  | | Medicine background                                                               | 50  | | Has engaged in recreational genomics                                              | 47  | | Has not engaged in recreational genomics                                          | 28  | | Can program                                                                       | 34  | | Can not program                                                                   | 32  | | Is interested in transhumanism                                                    | 29  | | Is not interested in transhumanism                                                | 34  | | Need to always be on guard against genetic determinism                            | 35  | | Genetic determinism is a concern, but often overblown                             | 34  | | We don’t have to be concerned about genetic determinism                           | 34  | | Biological sex differences in behavior trivial                                    | 6   | | Biological sex differences in behavior very modest                                | 29  | | Biological sex differences in behavior somewhat significant                       | 32  | | Biological sex differences in behavior very significant                           | 42  | | Biological race differences in behavior trivial                                   | 25  | | Biological race differences in behavior very modest                               | 32  | | Biological race differences in behavior somewhat significant                      | 41  | | Biological race differences in behavior very significant                          | 40  | | Biological within population differences in behavior trivial                      | 18  | | Biological within population differences in behavior very modest                  | 27  | | Biological within population differences in behavior somewhat significant         | 39  | | Biological within population differences in behavior very significant             | 46  | | Biological across sibling differences in behavior trivial                         | 21  | | Biological across sibling population differences in behavior very modest          | 30  | | Biological across sibling population differences in behavior somewhat significant | 38  | | Biological across sibling population differences in behavior very significant     | 40  | | Has made a non-trivial edit to Wikipedia                                          | 38  | | Has not made a non-trivial edit to Wikipedia                                      | 30  | |                                                                                   |     |
+|                                                                                   |     |
+|-----------------------------------------------------------------------------------|-----|
+| **Knows what “narrow-sense heritability” is**                                     |     |
+|                                                                                   |     |
+| Male                                                                              | 34  |
+| Female                                                                            | 29  |
+| Some university                                                                   | 16  |
+| Bachelors                                                                         | 30  |
+| Masters                                                                           | 30  |
+| Advanced degree                                                                   | 53  |
+| Supports abortion on demand                                                       | 32  |
+| Rejects abortion on demand                                                        | 33  |
+| Accepts supernatural                                                              | 25  |
+| Rejects supernatural                                                              | 34  |
+| Mathematics background                                                            | 34  |
+| Computer science background                                                       | 30  |
+| Physical sciences background                                                      | 27  |
+| Life sciences background                                                          | 60  |
+| Psychology background                                                             | 38  |
+| Economics background                                                              | 37  |
+| Anthropology background                                                           | 48  |
+| Other social sciences background                                                  | 19  |
+| Philosophy background                                                             | 36  |
+| Other humanities background                                                       | 23  |
+| Law background                                                                    | 45  |
+| Medicine background                                                               | 50  |
+| Has engaged in recreational genomics                                              | 47  |
+| Has not engaged in recreational genomics                                          | 28  |
+| Can program                                                                       | 34  |
+| Can not program                                                                   | 32  |
+| Is interested in transhumanism                                                    | 29  |
+| Is not interested in transhumanism                                                | 34  |
+| Need to always be on guard against genetic determinism                            | 35  |
+| Genetic determinism is a concern, but often overblown                             | 34  |
+| We don’t have to be concerned about genetic determinism                           | 34  |
+| Biological sex differences in behavior trivial                                    | 6   |
+| Biological sex differences in behavior very modest                                | 29  |
+| Biological sex differences in behavior somewhat significant                       | 32  |
+| Biological sex differences in behavior very significant                           | 42  |
+| Biological race differences in behavior trivial                                   | 25  |
+| Biological race differences in behavior very modest                               | 32  |
+| Biological race differences in behavior somewhat significant                      | 41  |
+| Biological race differences in behavior very significant                          | 40  |
+| Biological within population differences in behavior trivial                      | 18  |
+| Biological within population differences in behavior very modest                  | 27  |
+| Biological within population differences in behavior somewhat significant         | 39  |
+| Biological within population differences in behavior very significant             | 46  |
+| Biological across sibling differences in behavior trivial                         | 21  |
+| Biological across sibling population differences in behavior very modest          | 30  |
+| Biological across sibling population differences in behavior somewhat significant | 38  |
+| Biological across sibling population differences in behavior very significant     | 40  |
+| Has made a non-trivial edit to Wikipedia                                          | 38  |
+| Has not made a non-trivial edit to Wikipedia                                      | 30  |
+|                                                                                   |     |
 
 In the plots below **red = those who know what narrow-sense heritability is, and blue = those who do not.**
 

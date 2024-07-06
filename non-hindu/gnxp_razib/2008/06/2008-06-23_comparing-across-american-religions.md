@@ -13,7 +13,20 @@ The Pew [US Religious Landscape Survey](https://religions.pewforum.org/compariso
 
 (Caution: don’t read that much into the percentages on the margins. 6% of atheists and 14% of agnostics [believe in a Personal God](https://religions.pewforum.org/reports) according to the survey! Also, readers will probably be [interested in the detailed tables](https://religions.pewforum.org/reports#) which breakdown by denominations)
 
-|                                                            |                 |            |              |                         | |:-----------------------------------------------------------|:---------------:|:----------:|:------------:|:-----------------------:| |                                                            | **Evangelical** | **Muslim** | **Catholic** | **Mainline Protestant** | | **Abortion legal in all cases**                            |        9        |     13     |      16      |           20            | | **Homosexuality should be accepted by society**            |       26        |     27     |      58      |           56            | | **Receives answers to prayer once a week**                 |       29        |     31     |      15      |           14            | | **Attend religion service more than once a week**          |       30        |     17     |      9       |            8            | | **Own religion is one true faith leading to eternal life** |       36        |     33     |      16      |           12            | | **Only one true way to interpret religion**                |       41        |     33     |      19      |           14            | | **Gov. should do more to protect morality**                |       50        |     59     |      43      |           33            | | **Scripture literally true word of god**                   |       59        |     50     |      23      |           22            | | **Frequency of prayer**                                    |       78        |     71     |      58      |           53            | | **Religion very important**                                |       79        |     72     |      56      |           52            | | **Belief in God: absolutely certain**                      |       90        |     82     |      72      |           73            |
+|                                                            |                 |            |              |                         |
+|:-----------------------------------------------------------|:---------------:|:----------:|:------------:|:-----------------------:|
+|                                                            | **Evangelical** | **Muslim** | **Catholic** | **Mainline Protestant** |
+| **Abortion legal in all cases**                            |        9        |     13     |      16      |           20            |
+| **Homosexuality should be accepted by society**            |       26        |     27     |      58      |           56            |
+| **Receives answers to prayer once a week**                 |       29        |     31     |      15      |           14            |
+| **Attend religion service more than once a week**          |       30        |     17     |      9       |            8            |
+| **Own religion is one true faith leading to eternal life** |       36        |     33     |      16      |           12            |
+| **Only one true way to interpret religion**                |       41        |     33     |      19      |           14            |
+| **Gov. should do more to protect morality**                |       50        |     59     |      43      |           33            |
+| **Scripture literally true word of god**                   |       59        |     50     |      23      |           22            |
+| **Frequency of prayer**                                    |       78        |     71     |      58      |           53            |
+| **Religion very important**                                |       79        |     72     |      56      |           52            |
+| **Belief in God: absolutely certain**                      |       90        |     82     |      72      |           73            |
 
 ### Related Posts:
 

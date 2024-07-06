@@ -11,7 +11,39 @@ Fertility by non-Hispanic white ethnic group, etc.
 
 In my [post on American fertility rates by racial group](http://blogs.discovermagazine.com/gnxp/2010/09/which-american-racial-group-has-the-lowest-fertility/) [Mike Keesey asks](http://blogs.discovermagazine.com/gnxp/2010/09/which-american-racial-group-has-the-lowest-fertility/#comment-34072): ‘It’d also be interesting to see what’s going on within “non-Hispanic whites”.’ One can explore this question in the [GSS](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss08). Let’s look at ancestry group (e.g., German, French, etc.), religion, belief in God, political ideology, intelligence and education, for non-Hispanic whites. The data is limited to the 2000s, and I also constrained to those age 45 and up. Then I looked at the “CHILDS” variable, which asks the respondent how many children they have. Taking the mean of this value gives us a sense of the rank order in fertility. **Note that this is not total fertility rate.** That should be clear from the values being well above 2 in most cases. Additionally, I recombined some categories, so that “British” is the amalgamation of English, Scottish and Welsh ancestry. The “Irish” class almost certainly includes both Scotch-Irish (doing the regional and religious breakdown this seems obvious), and the Irish without modifiers. For intelligence I used [“WORDSUM”](http://blogs.discovermagazine.com/gnxp/2010/05/wordsum-iq/). The variables I input into the GSS can be found at the bottom of the post so you can replicate.
 
-|                                    |                         |       | |------------------------------------|-------------------------|-------| |                                    | **Mean \# of children** | **N** | | **Ancestry**                       |                         |       | | German                             | 2.47                    | 911   | | French                             | 2.43                    | 169   | | Nordic                             | 2.22                    | 277   | | Irish                              | 2.36                    | 759   | | Italian                            | 2.18                    | 311   | | British                            | 2.26                    | 1033  | |                                    |                         |       | | **Intelligence**                   |                         |       | | Low intelligence                   | 2.45                    | 287   | | Average intelligence               | 2.39                    | 1153  | | Above average intelligence         | 2.19                    | 709   | |                                    |                         |       | | **Highest educational attainment** |                         |       | | Less than high school              | 2.93                    | 720   | | High school                        | 2.37                    | 2970  | | Junior college                     | 2.25                    | 412   | | Bachelor                           | 2.03                    | 952   | | Graduate                           | 1.93                    | 687   | |                                    |                         |       | | **Political ideology**             |                         |       | | Liberal                            | 1.99                    | 954   | | Moderate                           | 2.37                    | 1690  | | Conservative                       | 2.43                    | 1855  | |                                    |                         |       | | **Religious preference**           |                         |       | | Protestant                         | 2.39                    | 3355  | | Catholic                           | 2.53                    | 1342  | | Jewish                             | 1.83                    | 155   | | No religion                        | 1.78                    | 639   |
+|                                    |                         |       |
+|------------------------------------|-------------------------|-------|
+|                                    | **Mean \# of children** | **N** |
+| **Ancestry**                       |                         |       |
+| German                             | 2.47                    | 911   |
+| French                             | 2.43                    | 169   |
+| Nordic                             | 2.22                    | 277   |
+| Irish                              | 2.36                    | 759   |
+| Italian                            | 2.18                    | 311   |
+| British                            | 2.26                    | 1033  |
+|                                    |                         |       |
+| **Intelligence**                   |                         |       |
+| Low intelligence                   | 2.45                    | 287   |
+| Average intelligence               | 2.39                    | 1153  |
+| Above average intelligence         | 2.19                    | 709   |
+|                                    |                         |       |
+| **Highest educational attainment** |                         |       |
+| Less than high school              | 2.93                    | 720   |
+| High school                        | 2.37                    | 2970  |
+| Junior college                     | 2.25                    | 412   |
+| Bachelor                           | 2.03                    | 952   |
+| Graduate                           | 1.93                    | 687   |
+|                                    |                         |       |
+| **Political ideology**             |                         |       |
+| Liberal                            | 1.99                    | 954   |
+| Moderate                           | 2.37                    | 1690  |
+| Conservative                       | 2.43                    | 1855  |
+|                                    |                         |       |
+| **Religious preference**           |                         |       |
+| Protestant                         | 2.39                    | 3355  |
+| Catholic                           | 2.53                    | 1342  |
+| Jewish                             | 1.83                    | 155   |
+| No religion                        | 1.78                    | 639   |
 
 I believe much of the difference among white non-Hispanics by ancestry is caused by other variables. In particular, the low values for Italians is probably a function of their disproportionately urban residence patterns in comparison to German Americans. Other white ethnic groups (the sample sizes were smaller for these constraints) with a strong urban bias show the same pattern.
 

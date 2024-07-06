@@ -33,7 +33,9 @@ Finally, the authors also inferred diverse relationships for the Native admixtur
 
 Overall this is an interesting study because I think it is a test run at the sort of historical-demographic questions that genomics will be used for. There has long been a ‘genetics as a tool’ school of thought among many ecologists and phylogeneticists, and now you shall have a ‘genomics as a tool’ to sit right along side that in many more diverse fields. Caribbean and Latin American populations are the low hanging fruit, because the Spanish and Portuguese colonial experiment are reasonably well attested, and the source populations are very distinct (so easy to pick signal out of the noise). But there are other historical questions of the same period which are also of interest. In [Albion’s Seed](https://www.amazon.com/exec/obidos/ASIN/0195069056//geneexpressio-20) David Hackett Fisher describes four Anglo-American folkways which contributed to the culture of this nation. Of these, [\~20,000 Puritans arrived between 1620-1640](https://en.wikipedia.org/wiki/Puritan_migration_to_New_England_(1620%E2%80%931640)) and became the ancestors of \~700,000 by 1970. Though 20,000 is not quite a bottleneck (in fact, they arrived from different sectors of England), I am curious if these individuals, a segment of “Old Americans,” can still be discerned in the genomic data. This is just one of many possible questions which will be with reach of answer in the near future….
 
-|               |                                                   | |---------------|---------------------------------------------------| | **Citation**: | [arXiv:1306.0558](http://arxiv.org/abs/1306.0558) |
+|               |                                                   |
+|---------------|---------------------------------------------------|
+| **Citation**: | [arXiv:1306.0558](http://arxiv.org/abs/1306.0558) |
 
 ### Related Posts:
 

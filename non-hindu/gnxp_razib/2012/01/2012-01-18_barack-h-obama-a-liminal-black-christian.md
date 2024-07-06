@@ -21,7 +21,14 @@ But after engaging the comments below I realized that his choice of [Trinity Uni
 
 To clarify the issue let’s look at some survey data. I used the [Pew Religious Landscape](https://religions.pewforum.org/comparisons#)results, and the [GSS](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss10). I selected respondents who were National Baptists, the largest historically black denomination in the nation, United Methodists, probably the most representative denomination of mainline Protestantism, and finally those who adhered to the United Church of Christ. From the GSS I also found questions which resembled some on the Pew survey, and limited them to black American respondents from the year 2000 and later, of all religious persuasions.
 
-|                                     |           |                      |                      |         | |-------------------------------------|-----------|----------------------|----------------------|---------| |                                     | **Black** | **National Baptist** | **United Methodist** | **UCC** | |                                     |           |                      |                      |         | | Certain of belief in God            | 83        | 92                   | 78                   | 65      | | Bible is Word of God                | 59        | 68                   | 25                   | 15      | | Own religion one true way to heaven | –         | 34                   | 11                   | 5       | | Homosexuality should be accepted    | –         | 35                   | 51                   | 69      |
+|                                     |           |                      |                      |         |
+|-------------------------------------|-----------|----------------------|----------------------|---------|
+|                                     | **Black** | **National Baptist** | **United Methodist** | **UCC** |
+|                                     |           |                      |                      |         |
+| Certain of belief in God            | 83        | 92                   | 78                   | 65      |
+| Bible is Word of God                | 59        | 68                   | 25                   | 15      |
+| Own religion one true way to heaven | –         | 34                   | 11                   | 5       |
+| Homosexuality should be accepted    | –         | 35                   | 51                   | 69      |
 
 On all these sorts of questions the UCC lay at the extreme end of the range for Christian denominations. Respondents are invariably the most theologically liberal, the most equivocal in assertions of their faith, and the furthest to the Left on social issues. In contrast, the black community, and historically black churches, have more in common with white evangelicals in matters of theology and social politics. President Obama’s responses are very peculiar if you expect him to be a modal black American Christian, but entirely unexceptional for a member of the United Church of Christ.
 

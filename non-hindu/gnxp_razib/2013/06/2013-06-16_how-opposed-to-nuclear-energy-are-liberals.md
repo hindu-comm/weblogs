@@ -19,15 +19,47 @@ Column: POLVIEWS(r:1-3″Liberal”;4″Moderate”;5-7″Conservative”)
 
 Selection filter(s): year(2010-\*)
 
-|                                                          |     |     |      | |----------------------------------------------------------|-----|-----|------| | **Views on nuclear energy N \~ 400**                     |     |     |      | |                                                          | Lib | Mod | Cons | | Strongly favor                                           | 16  | 13  | 12   | | Favor                                                    | 49  | 50  | 64   | | Oppose                                                   | 28  | 27  | 16   | | Strongly oppose                                          | 7   | 9   | 8    | |                                                          |     |     |      | | **Nuclear power dangerous to the environment N \~ 1300** |     |     |      | |                                                          | Lib | Mod | Cons | | Extremely dangerous                                      | 26  | 23  | 16   | | Very dangerous                                           | 25  | 29  | 23   | | Somewhat dangerous                                       | 33  | 32  | 31   | | Not very dangerous                                       | 14  | 13  | 22   | | Not dangerous                                            | 3   | 3   | 8    |
+|                                                          |     |     |      |
+|----------------------------------------------------------|-----|-----|------|
+| **Views on nuclear energy N \~ 400**                     |     |     |      |
+|                                                          | Lib | Mod | Cons |
+| Strongly favor                                           | 16  | 13  | 12   |
+| Favor                                                    | 49  | 50  | 64   |
+| Oppose                                                   | 28  | 27  | 16   |
+| Strongly oppose                                          | 7   | 9   | 8    |
+|                                                          |     |     |      |
+| **Nuclear power dangerous to the environment N \~ 1300** |     |     |      |
+|                                                          | Lib | Mod | Cons |
+| Extremely dangerous                                      | 26  | 23  | 16   |
+| Very dangerous                                           | 25  | 29  | 23   |
+| Somewhat dangerous                                       | 33  | 32  | 31   |
+| Not very dangerous                                       | 14  | 13  | 22   |
+| Not dangerous                                            | 3   | 3   | 8    |
 
 As you can see liberals do tend to be more skeptical of nuclear energy, but it is not stark. In fact, attitudes toward nuclear power seem to be as strongly, if not more so, variant on a populist vs. elite axis than conventional ideology. Here’s the second question replicated for education:
 
-|                                                          |            |         |     | |----------------------------------------------------------|------------|---------|-----| | **Nuclear power dangerous to the environment N \~ 1300** |            |         |     | |                                                          | No college | College |     | | Extremely dangerous                                      | 26         | 11      |     | | Very dangerous                                           | 27         | 21      |     | | Somewhat dangerous                                       | 31         | 34      |     | | Not very dangerous                                       | 11         | 28      |     | | Not dangerous                                            | 4          | 7       |     |
+|                                                          |            |         |     |
+|----------------------------------------------------------|------------|---------|-----|
+| **Nuclear power dangerous to the environment N \~ 1300** |            |         |     |
+|                                                          | No college | College |     |
+| Extremely dangerous                                      | 26         | 11      |     |
+| Very dangerous                                           | 27         | 21      |     |
+| Somewhat dangerous                                       | 31         | 34      |     |
+| Not very dangerous                                       | 11         | 28      |     |
+| Not dangerous                                            | 4          | 7       |     |
 
 But, when you look only at college educated individuals the ideology divide doesn’t go away. In fact, it seems*more*extreme.
 
-|                                                         |     |     |      | |---------------------------------------------------------|-----|-----|------| | **Nuclear power dangerous to the environment N \~ 370** |     |     |      | | *College educated only*                                 |     |     |      | |                                                         | Lib | Mod | Cons | | Extremely dangerous                                     | 14  | 16  | 5    | | Very dangerous                                          | 28  | 22  | 14   | | Somewhat dangerous                                      | 38  | 35  | 28   | | Not very dangerous                                      | 15  | 24  | 42   | | Not dangerous                                           | 5   | 4   | 11   |
+|                                                         |     |     |      |
+|---------------------------------------------------------|-----|-----|------|
+| **Nuclear power dangerous to the environment N \~ 370** |     |     |      |
+| *College educated only*                                 |     |     |      |
+|                                                         | Lib | Mod | Cons |
+| Extremely dangerous                                     | 14  | 16  | 5    |
+| Very dangerous                                          | 28  | 22  | 14   |
+| Somewhat dangerous                                      | 38  | 35  | 28   |
+| Not very dangerous                                      | 15  | 24  | 42   |
+| Not dangerous                                           | 5   | 4   | 11   |
 
 That’s strong circumstantial evidence that the gap here is one of cultural norms and values, and not facts.
 

@@ -98,7 +98,13 @@ First exploring the hundred-fold case, in the 4,000 years since human population
 
 Let’s take another “easy” swipe before getting to more detailed data. In a [post from a couple years back](https://dothemath.ucsd.edu/2021/03/sir-david-nails-it/) I collected the numbers presented in a “witness statement” documentary by Sir David Attenborough, in which the percentage of wild territory remaining was periodically updated throughout the program. A subset of the table rows are replicated here, after interpolating two rows of the original table to present a value situated near the epoch of peak growth rate (bold font, here).
 
-|          |            |             | |----------|------------|-------------| | Year     | Population | Wild Spaces | | 1937     | 2.3 B      | 66%         | | **1969** | 3.6 B      | **59%**     | | 1997     | 5.9 B      | 46%         | | 2020     | 7.8 B      | 35%         |
+|          |            |             |
+|----------|------------|-------------|
+| Year     | Population | Wild Spaces |
+| 1937     | 2.3 B      | 66%         |
+| **1969** | 3.6 B      | **59%**     |
+| 1997     | 5.9 B      | 46%         |
+| 2020     | 7.8 B      | 35%         |
 
 The (approximately) three decades that ramped up to peak growth therefore saw a 7% decrease in absolute terms, while the following (roughly) three decades saw a larger 13% drop. In relative terms, the first interval decreased 11%, while the second decreased 22%: double the rate. The 23 years at the end (a shorter interval) shows 11% absolute and 24% relative decline. Since the last interval is shorter and the drop larger, the relentless trend is one of *accelerating* pressure on the world, not a moderation as growth stagnated or slowed. Wild spaces, by this accounting, better follow **scale**, not growth.
 

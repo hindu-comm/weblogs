@@ -69,7 +69,21 @@ To compute the effective R-value for a composite surface like a wall with studs 
 
 Let’s now assemble a table of values for relevant building blocks. Divide R_(US) by 5.7 to get R_(SI).
 
-|                     |               |                                              |            | |---------------------|---------------|----------------------------------------------|------------| | **Structure**       | **% Framing** | **Elements**                                 | **R_(US)** | | Uninsulated Wall    | 15%           | air; drywall; stud/bay; plywood; siding; air | 4.1        | | Insulated Wall      | 15%           | replace bay with insulation                  | 13.3       | | Uninsulated Ceiling | 8%            | air; drywall; rafter/open; air               | 1.65       | | Insulated Ceiling   | 8%            | replace open with insulation                 | 13.0       | | Uninsulated Floor   | 15%           | air; tile; plywood; joists/open; air         | 2.5        | | Insulated Floor     | 15%           | replace open with insulation                 | 12.7       | | Uninsulated Roof    | 8%            | air; framing/open; plywood; shingles; air    | 1.85       | | Insulated Roof      | 8%            | replace open with insulation                 | 13.2       | | Single-Pane Window  | —             | no coatings                                  | 0.9        | | Dual-Pane Window    | —             | half-inch air space                          | 2.0        | | Best Window         | —             | suspended film, low E                        | 4.0        | | Door                | —             | wood, solid core                             | 3.0        |
+|                     |               |                                              |            |
+|---------------------|---------------|----------------------------------------------|------------|
+| **Structure**       | **% Framing** | **Elements**                                 | **R_(US)** |
+| Uninsulated Wall    | 15%           | air; drywall; stud/bay; plywood; siding; air | 4.1        |
+| Insulated Wall      | 15%           | replace bay with insulation                  | 13.3       |
+| Uninsulated Ceiling | 8%            | air; drywall; rafter/open; air               | 1.65       |
+| Insulated Ceiling   | 8%            | replace open with insulation                 | 13.0       |
+| Uninsulated Floor   | 15%           | air; tile; plywood; joists/open; air         | 2.5        |
+| Insulated Floor     | 15%           | replace open with insulation                 | 12.7       |
+| Uninsulated Roof    | 8%            | air; framing/open; plywood; shingles; air    | 1.85       |
+| Insulated Roof      | 8%            | replace open with insulation                 | 13.2       |
+| Single-Pane Window  | —             | no coatings                                  | 0.9        |
+| Dual-Pane Window    | —             | half-inch air space                          | 2.0        |
+| Best Window         | —             | suspended film, low E                        | 4.0        |
+| Door                | —             | wood, solid core                             | 3.0        |
 
 ### Our Boring House
 

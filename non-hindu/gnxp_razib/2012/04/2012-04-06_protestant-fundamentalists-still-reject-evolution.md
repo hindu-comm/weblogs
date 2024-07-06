@@ -11,7 +11,16 @@ Protestant fundamentalists still reject evolution
 
 Recently over at [bloggingheads.tv](http://bloggingheads.tv/videos/9423?in=16:35&out=23:48) [Matt Lewis](https://twitter.com/#!/mattklewis) broached the issue of science, religion, and politics. Being outside of his bailiwick Lewis seemed to be under some misimpressions. First, he seemed to think that most political liberals were not theists. This is false. In the [General Social Survey](sda.berkeley.edu/cgi-bin/hsda?harcsda+gss10) the GOD variable asks respondents about their confidence in the exist of God. Below are the proportions by ideology for the year 2000 and later who espouse the atheist or agnostic position on the existence of God:
 
-|               |                         | |---------------|-------------------------| |               | **Atheist or agnostic** | | Liberals      | 14                      | | Moderates     | 6                       | | Conservatives | 4                       | |               |                         | | Democrat      | 9                       | | Independent   | 9                       | | Republican    | 5                       |
+|               |                         |
+|---------------|-------------------------|
+|               | **Atheist or agnostic** |
+| Liberals      | 14                      |
+| Moderates     | 6                       |
+| Conservatives | 4                       |
+|               |                         |
+| Democrat      | 9                       |
+| Independent   | 9                       |
+| Republican    | 5                       |
 
 About 1 out of 7 of liberals are an atheist or agnostic. 1 out of 25 conservatives. In contrast, 50 percent of atheists or agnostics are liberal, while only 20 percent are conservatives. Among militant atheists are the proportions are probably even more skewed.
 

@@ -16,7 +16,35 @@ The above salary range seems accurate. I know newly minted PhDs in computer scie
 
 What’s striking to me is the high variation in cost of living in American urban areas:
 
-|               |                            | |:--------------|---------------------------:| |               | **Overall cost of living** | | San Francisco |                        272 | | New York City |                        180 | | Seattle       |                        177 | | Boston        |                        170 | | Los Angeles   |                        166 | | San Diego     |                        166 | | Portland      |                        140 | | Denver        |                        128 | | Miami         |                        123 | | Austin        |                        117 | | Chicago       |                        111 | | Minneapolis   |                        109 | | Houston       |                        102 | | Atlanta       |                        102 | | Raleigh       |                        102 | | Philadelphia  |                        100 | | Phoenix       |                         99 | | New Orleans   |                         96 | | Dallas        |                         95 | | Baltimore     |                         90 | | Pittsburgh    |                         88 | | Cincinnati    |                         86 | | St. Louis     |                         85 | | Des Moines    |                         83 | | Memphis       |                         74 | | Detroit       |                         73 |
+|               |                            |
+|:--------------|---------------------------:|
+|               | **Overall cost of living** |
+| San Francisco |                        272 |
+| New York City |                        180 |
+| Seattle       |                        177 |
+| Boston        |                        170 |
+| Los Angeles   |                        166 |
+| San Diego     |                        166 |
+| Portland      |                        140 |
+| Denver        |                        128 |
+| Miami         |                        123 |
+| Austin        |                        117 |
+| Chicago       |                        111 |
+| Minneapolis   |                        109 |
+| Houston       |                        102 |
+| Atlanta       |                        102 |
+| Raleigh       |                        102 |
+| Philadelphia  |                        100 |
+| Phoenix       |                         99 |
+| New Orleans   |                         96 |
+| Dallas        |                         95 |
+| Baltimore     |                         90 |
+| Pittsburgh    |                         88 |
+| Cincinnati    |                         86 |
+| St. Louis     |                         85 |
+| Des Moines    |                         83 |
+| Memphis       |                         74 |
+| Detroit       |                         73 |
 
 ### Related Posts:
 

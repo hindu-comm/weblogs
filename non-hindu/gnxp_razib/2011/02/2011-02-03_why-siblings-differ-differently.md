@@ -22,7 +22,13 @@ In the toy example above the eye color locus is on a chromosome. Specifically, [
 
 ------------------------------------------------------------------------
 
-|                                                         |          |                    |                    |     |     | |---------------------------------------------------------|----------|--------------------|--------------------|-----|-----| | **Possible outcomes of combinations from grandparents** |          |                    |                    |     |     | |                                                         |          | **Mother**         |                    |     |     | |                                                         |          | *Paternal*         | *Maternal*         |     |     | | **Father**                                              | Paternal | Paternal*Paternal* | Paternal*Maternal* |     |     | |                                                         | Maternal | Maternal*Paternal* | Maternal*Maternal* |     |     |
+|                                                         |          |                    |                    |     |     |
+|---------------------------------------------------------|----------|--------------------|--------------------|-----|-----|
+| **Possible outcomes of combinations from grandparents** |          |                    |                    |     |     |
+|                                                         |          | **Mother**         |                    |     |     |
+|                                                         |          | *Paternal*         | *Maternal*         |     |     |
+| **Father**                                              | Paternal | Paternal*Paternal* | Paternal*Maternal* |     |     |
+|                                                         | Maternal | Maternal*Paternal* | Maternal*Maternal* |     |     |
 
 ------------------------------------------------------------------------
 

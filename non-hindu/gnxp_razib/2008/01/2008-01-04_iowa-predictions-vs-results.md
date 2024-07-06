@@ -11,7 +11,26 @@ Iowa predictions vs. results
 
 How did I do? First, I got the rank order pretty much down! The only mistake was swapping Richardson and Biden. Second, I didn’t know how the Iowa Democratic Caucus was set up…otherwise, I would have been retarded to not assume it would have taken a “Winner Take All” outcome due to the 15% threshold. Below the fold, with 100% and 96% of precincts for Dems and Repubs respectively. New Hampshire predictions forthcoming!
 
-|                    |                  |                   |                | |--------------------|------------------|-------------------|----------------| | **Candidate**      | **Real Results** | **My Prediction** | **Difference** | | Barack Obama       | 37.6             | 30                | 7.6            | | John Edwards       | 29.7             | 28                | 1.7            | | Hillary Clinton    | 29.5             | 27                | 2.5            | | Bill Richardson    | 2.1              | 4                 | -1.9           | | Joe Biden          | 0.9              | 5                 | -4.1           | | Chris Dodd         | 0.1              | 3                 | -2.9           | | Mike Gravel        | 0                | 1                 | -1             | | Dennis J. Kucinich | 0                | 2                 | -2             | |                    |                  |                   | 0              | | Mike Huckabee      | 34.3             | 29                | 5.3            | | Mitt Romney        | 25.3             | 27                | -1.7           | | Fred Thompson      | 13.4             | 15                | -1.6           | | John McCain        | 13.1             | 13                | 0.1            | | Ron Paul           | 10               | 10                | 0              | | Rudy Giuliani      | 3.5              | 5                 | -1.5           | | Duncan Hunter      | 0.4              | 2                 | -1.6           | | Tom Tancredo       | 0                | 1                 | -1             |
+|                    |                  |                   |                |
+|--------------------|------------------|-------------------|----------------|
+| **Candidate**      | **Real Results** | **My Prediction** | **Difference** |
+| Barack Obama       | 37.6             | 30                | 7.6            |
+| John Edwards       | 29.7             | 28                | 1.7            |
+| Hillary Clinton    | 29.5             | 27                | 2.5            |
+| Bill Richardson    | 2.1              | 4                 | -1.9           |
+| Joe Biden          | 0.9              | 5                 | -4.1           |
+| Chris Dodd         | 0.1              | 3                 | -2.9           |
+| Mike Gravel        | 0                | 1                 | -1             |
+| Dennis J. Kucinich | 0                | 2                 | -2             |
+|                    |                  |                   | 0              |
+| Mike Huckabee      | 34.3             | 29                | 5.3            |
+| Mitt Romney        | 25.3             | 27                | -1.7           |
+| Fred Thompson      | 13.4             | 15                | -1.6           |
+| John McCain        | 13.1             | 13                | 0.1            |
+| Ron Paul           | 10               | 10                | 0              |
+| Rudy Giuliani      | 3.5              | 5                 | -1.5           |
+| Duncan Hunter      | 0.4              | 2                 | -1.6           |
+| Tom Tancredo       | 0                | 1                 | -1             |
 
 ### Related Posts:
 

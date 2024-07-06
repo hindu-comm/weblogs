@@ -9,7 +9,12 @@ Source: [here](https://www.gnxp.com/WordPress/2018/05/01/hui-have-a-lot-of-west-
 
 Hui have a lot of West Eurasian Y chromosomes
 
-|             |       |       |         |         |        |         |       |       |        |        |        |        |       |       |       |       |             | |-------------|-------|-------|---------|---------|--------|---------|-------|-------|--------|--------|--------|--------|-------|-------|-------|-------|-------------| |             | **O** | **C** | **R1a** | **R1b** | **R2** | **E1b** | **G** | **H** | **I1** | **I2** | **J1** | **J2** | **L** | **N** | **Q** | **T** | **Total N** | | **Han**     | 258   | 12    | 2       |         |        | 2       | 2     | 1     |        | 1      | 2      | 1      | 1     | 7     | 9     | 2     | 300         | | **Hui**     | 24    | 7     | 21      | 1       | 9      | 1       | 3     | 1     | 1      | 4      | 1      | 11     | 1     | 3     | 14    | 4     | 106         | | **Tibetan** | 49    | 11    | 18      | 1       | 1      | 3       |       | 3     |        |        | 3      | 3      |       | 7     | 1     |       | 100         |
+|             |       |       |         |         |        |         |       |       |        |        |        |        |       |       |       |       |             |
+|-------------|-------|-------|---------|---------|--------|---------|-------|-------|--------|--------|--------|--------|-------|-------|-------|-------|-------------|
+|             | **O** | **C** | **R1a** | **R1b** | **R2** | **E1b** | **G** | **H** | **I1** | **I2** | **J1** | **J2** | **L** | **N** | **Q** | **T** | **Total N** |
+| **Han**     | 258   | 12    | 2       |         |        | 2       | 2     | 1     |        | 1      | 2      | 1      | 1     | 7     | 9     | 2     | 300         |
+| **Hui**     | 24    | 7     | 21      | 1       | 9      | 1       | 3     | 1     | 1      | 4      | 1      | 11     | 1     | 3     | 14    | 4     | 106         |
+| **Tibetan** | 49    | 11    | 18      | 1       | 1      | 3       |       | 3     |        |        | 3      | 3      |       | 7     | 1     |       | 100         |
 
 It’s been a while since I checked in on the genetics of the [Hui people](https://en.wikipedia.org/wiki/Hui_people). I found the paper, [Analysis of 17 Y‐STR loci haplotype and Y‐chromosome haplogroup distribution in five Chinese ethnic groups](https://onlinelibrary.wiley.com/doi/abs/10.1002/elps.201500089). About 50% of the Y chromosomal haplogroups are normally classified as “West Eurasian” (R, E, G, I and J). But curious a fraction of the Han have these too, as do some Tibetans.
 

@@ -35,7 +35,13 @@ Converting the volume measure to energy units, we can express 0.44 cf/hr as 0.00
 
 The following table may help to navigate the various conversions involved in interpreting your gas dial. The first two entries are for complete turns of the two fine-scale dials. The last two entries are for turn rates; the final one expressed as how long it takes the ½cf dial to make a turn at a usage rate of 10,000Btu/hr. Many gas appliances in the U.S. (stoves, heaters, etc.) are rated in terms of Btu/hr, and 10,000Btu/hr is a convenient baseline against which to scale appliance ratings. For instance, water heaters are often in the range of 30,000–40,000Btu/hr, and home furnaces may be something like 80,000Btu/hr. So for instance, a water heater at 30,000Btu/hr would make the ½cf dial turn once per minute.
 
-|                |           |               |          | |----------------|-----------|---------------|----------| | On Dial        | Therms    | Btu           | Metric   | | 1 turn of ½ cf | 0.0051    | 510           | 0.15 kWh | | 1 turn of 2 cf | 0.0204    | 2040          | 0.60 kWh | | 1 cf/hr        | 7.5 Th/mo | 1020 Btu/hr   | 299 W    | | 184 sec/½cf    | 0.1 Th/hr | 10,000 Btu/hr | 2930 W   |
+|                |           |               |          |
+|----------------|-----------|---------------|----------|
+| On Dial        | Therms    | Btu           | Metric   |
+| 1 turn of ½ cf | 0.0051    | 510           | 0.15 kWh |
+| 1 turn of 2 cf | 0.0204    | 2040          | 0.60 kWh |
+| 1 cf/hr        | 7.5 Th/mo | 1020 Btu/hr   | 299 W    |
+| 184 sec/½cf    | 0.1 Th/hr | 10,000 Btu/hr | 2930 W   |
 
 ### My First Encounter
 

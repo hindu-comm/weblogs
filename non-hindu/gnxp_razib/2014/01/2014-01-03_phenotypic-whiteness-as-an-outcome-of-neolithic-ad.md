@@ -13,7 +13,15 @@ Phenotypic whiteness as an outcome of Neolithic admixture
 
 I want to make more concrete why this result is a pretty big deal. If you look at the [1000 Genomes data](http://browser.1000genomes.org/Homo_sapiens/Variation/Population?db=core;r=15:48425984-48426984;v=rs1426654;vdb=variation;vf=1091333) you have results for British, Finnish, Tuscan, and Spanish individuals, as well as a well characterized sample of white Utahans of Northwest European heritage. There is also a less well characterized pooled data set of “European Americans.” Here are the genotype counts by population:
 
-|                   |        |        |        | |-------------------|--------|--------|--------| | **Population**    | **AA** | **AG** | **GG** | | Utah white        | 85     | 0      | 0      | | British           | 89     | 0      | 0      | | Finnish           | 91     | 2      | 0      | | Tuscan            | 97     | 1      | 0      | | Spanish           | 14     | 0      | 0      | | European American | 4256   | 40     | 1      |
+|                   |        |        |        |
+|-------------------|--------|--------|--------|
+| **Population**    | **AA** | **AG** | **GG** |
+| Utah white        | 85     | 0      | 0      |
+| British           | 89     | 0      | 0      |
+| Finnish           | 91     | 2      | 0      |
+| Tuscan            | 97     | 1      | 0      |
+| Spanish           | 14     | 0      | 0      |
+| European American | 4256   | 40     | 1      |
 
 Yesterday on Twitter I suggested that I’d want at least 10,000 individuals of unadmixed Northern European ancestry before I might take a bet that I’d find someone with a GG genotype. I don’t think I was exaggerating. The sample size might be one, but the fact that the individual was **homozygous** for GG implies to me that the G allele was present at a far higher fraction in Northern Europe 8,000 years ago than today. In contrast the LBK farmer individual was AA on *SLC24A5*. Why this matters functionally is that no matter how you look at it, when comparing Europeans and dark skinned populations (e.g., Africans, South Indians, and Australasians) this locus is the one that explains the highest proportion of the variation on pigmentation of any gene. Comparing simply people of African ancestry and Europeans the variation at this gene accounts for on the order of \~1/3 of the difference.\*\* I myself have the “European” AA genotype, with most of my other large effect loci being of the “dark” correlated alleles. The pigmentation difference between a Sub-Saharan African and myself is probably accounted for just by this locus alone.But a twist on this story is that the hunter-gatherer also exhibited the [genotype associated with blue eyes in Europeans](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3325407/). In contrast, the farmer genotype was the one not correlated with blue eyes. On another locus which is not quite fixed for a derived light encoding variant, but very close in Europeans (and found in much lower proportions in other West Eurasians), *SLC45A2*, it looks as if both the hunter-gatherer and the farmer carry the modal European form.
 

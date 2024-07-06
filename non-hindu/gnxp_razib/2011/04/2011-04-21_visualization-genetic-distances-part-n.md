@@ -39,7 +39,32 @@ There is the conventional east-west division you see in Eurasia on PCA, but you 
 
 Finally, **the S. Asian/ANI population seems somewhat closer to “Europeans” than “SW Asians.** That is interesting. But this where you have to very careful and remember that these “pure” ancestral components can themselves fractionate into substituent elements at higher K’s or when you constrain the data set appropriately (Africans and inbred groups tend to hog clusters in ADMIXTURE). If you’ve read all the genome bloggers you will be aware that “European” and “SW Asian” components themselves break apart upon closer inspection. The “SW Asian” component usually divides into a northern and southern branch. The northern branch is often positioned closer to the other “European” groups than it is to the southern branch in terms of genetic distance. Here are a selection of West Eurasian groups sorted by their “S Asian” proportion:
 
-|                       |                   | |-----------------------|-------------------| |                       | **South Asian %** | | Iranians              | 30%               | | Lezgins (Caucasian)   | 29%               | | Georgians (Caucasian) | 26%               | | Adygei (Caucasian)    | 24%               | | Armenians             | 22%               | | Turks                 | 21%               | | Syrians               | 19%               | | Druze                 | 18%               | | Lebanese              | 17%               | | Samaritians           | 16%               | | Palestinian           | 15%               | | Cypriots              | 14%               | | Saudis                | 14%               | | Yemenese              | 14%               | | Russian               | 8%                | | Tuscans               | 7%                | | Hungarians            | 7%                | | Utah whites           | 7%                | | Orcadian              | 5%                | | British               | 5%                | | French                | 5%                | | Italian               | 5%                | | Finnish               | 4%                |
+|                       |                   |
+|-----------------------|-------------------|
+|                       | **South Asian %** |
+| Iranians              | 30%               |
+| Lezgins (Caucasian)   | 29%               |
+| Georgians (Caucasian) | 26%               |
+| Adygei (Caucasian)    | 24%               |
+| Armenians             | 22%               |
+| Turks                 | 21%               |
+| Syrians               | 19%               |
+| Druze                 | 18%               |
+| Lebanese              | 17%               |
+| Samaritians           | 16%               |
+| Palestinian           | 15%               |
+| Cypriots              | 14%               |
+| Saudis                | 14%               |
+| Yemenese              | 14%               |
+| Russian               | 8%                |
+| Tuscans               | 7%                |
+| Hungarians            | 7%                |
+| Utah whites           | 7%                |
+| Orcadian              | 5%                |
+| British               | 5%                |
+| French                | 5%                |
+| Italian               | 5%                |
+| Finnish               | 4%                |
 
 Also observe that the distance between SW Asians and Europeans is smaller than bertween Europeans and S Asians. Crunching up the K’s, or limited the data set to West Eurasian groups, would probably show more fine-grained relationships.
 

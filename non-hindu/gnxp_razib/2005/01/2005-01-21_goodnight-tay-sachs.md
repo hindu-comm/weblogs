@@ -13,7 +13,14 @@ Goodnight Tay Sachs?
 
 Additionally, if you are Jewish, and you know the carrier/non-carrier status in your family, on average, would you say the carrier(s) is/are brighter than the non-carrier(s)? If you want, submit your answer below. The one example I can think of, the carrier is definitely smarter.
 
-|                                                          |                | |----------------------------------------------------------|----------------| | Who is smarter?                                          |                | |                                                          | Non-Carriers   | |                                                          | Carriers       | |                                                          | About the same | |                                                        |                | | [Free polls from Pollhost.com](http://www.pollhost.com/) |                |
+|                                                          |                |
+|----------------------------------------------------------|----------------|
+| Who is smarter?                                          |                |
+|                                                          | Non-Carriers   |
+|                                                          | Carriers       |
+|                                                          | About the same |
+|                                                        |                |
+| [Free polls from Pollhost.com](http://www.pollhost.com/) |                |
 
 Related: [The Natural History of Ashkenazi Intelligence](http://harpend.dsl.xmission.com/Documents/Ashkenazi.IQ.pdf) (PDF). Posted by razib at [01:11 AM](https://www.gnxp.com/MT2/archives/003487.html) [](http://js-kit.com/api/static/pop_comments?ref=http://gnxp.com&path=/3487?url=http://www.gnxp.com/MT2/archives/003487.html&thetime=%20012105&MT=true)
 

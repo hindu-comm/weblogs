@@ -13,7 +13,30 @@ The inevitable rise of Amish machines
 
 ------------------------------------------------------------------------
 
-|                                 |            | |---------------------------------|------------| | ***Fertility rate, 2005-2010*** |            | | **Niger**                       | 7.19       | | **Guinea-Bissau**               | 7.07       | | **Afghanistan**                 | 7.07       | | **Burundi**                     | 6.80       | | **Liberia**                     | 6.77       | | **Congo**                       | 6.70       | | **East Timor**                  | 6.53       | | **Mali**                        | 6.52       | | **Sierra Leone**                | 6.47       | | **Uganda**                      | 6.46       | | **Angola**                      | 6.43       | | **Chad**                        | 6.20       | | ***Old Order Amish***           | ***6.20*** | | **Somalia**                     | 6.04       | | **Burkina Faso**                | 6.00       | | **Yemen**                       | 5.50       | | **Pakistan**                    | 3.43       | | **Bangladesh**                  | 2.74       | | **Mexico**                      | 2.21       | | **USA**                         | 2.05       | | **Germany**                     | 1.36       |
+|                                 |            |
+|---------------------------------|------------|
+| ***Fertility rate, 2005-2010*** |            |
+| **Niger**                       | 7.19       |
+| **Guinea-Bissau**               | 7.07       |
+| **Afghanistan**                 | 7.07       |
+| **Burundi**                     | 6.80       |
+| **Liberia**                     | 6.77       |
+| **Congo**                       | 6.70       |
+| **East Timor**                  | 6.53       |
+| **Mali**                        | 6.52       |
+| **Sierra Leone**                | 6.47       |
+| **Uganda**                      | 6.46       |
+| **Angola**                      | 6.43       |
+| **Chad**                        | 6.20       |
+| ***Old Order Amish***           | ***6.20*** |
+| **Somalia**                     | 6.04       |
+| **Burkina Faso**                | 6.00       |
+| **Yemen**                       | 5.50       |
+| **Pakistan**                    | 3.43       |
+| **Bangladesh**                  | 2.74       |
+| **Mexico**                      | 2.21       |
+| **USA**                         | 2.05       |
+| **Germany**                     | 1.36       |
 
 ------------------------------------------------------------------------
 

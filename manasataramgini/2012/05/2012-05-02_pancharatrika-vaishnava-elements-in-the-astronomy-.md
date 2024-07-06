@@ -139,7 +139,12 @@ From the results of R. Balasubramanian we may take the sUrya-siddhAnta yojana to
 Moon diameter: 480 yojana-s=3791.1552 Km; Modern value: 3474.2 Km  
 Earth diameter 5000 yojana-s = 12488.21 Km Modern value: 12742 Km
 
-|                           |          | |---------------------------|----------| | sUrya siddhAnta M/E ratio | 0.303    | | Aristarchus M/E ratio     | .317-.39 | | Ptolemy M/E ratio         | 0.292    | | Modern M/E                | 0.272    |
+|                           |          |
+|---------------------------|----------|
+| sUrya siddhAnta M/E ratio | 0.303    |
+| Aristarchus M/E ratio     | .317-.39 |
+| Ptolemy M/E ratio         | 0.292    |
+| Modern M/E                | 0.272    |
 
 The white indologists inform us that the sUrya siddhAnta has definitely borrowed its Moon/Earth values from the yavana-s because they are close. We are told that till that point the Hindus were either flat-earthers, who stuck to an enormous number as the value of the earth’s length or that they had borrowed a huge radius from the Babylonians. It was Aristarchus who first derived the ratios using eclipse observations which he correctly interpreted as shadows. But Hindus had no clue that they eclipses were due to shadows but ascribed them to rAhu and ketu. While indeed the svarbhAnu/rAhu theory was the old one with which the Hindus began, it is clear that even within the realm of the svarbhAnu theory the Hindus were coming to realize that the postulated entities were actually made of shadows. This is apparent in the statement:  
 tulyas tayo.astu svarbhAnur bhUtvAdhas tAt prasarpati \|  
@@ -150,11 +155,24 @@ Thus, the Hindus had arrived at an understanding of shadows as the basis of ecli
 
 Finally, we may consider the interesting issues of the planetary angular diameters provided by sUrya-siddhAnta and compare them to other estimates:
 
-|         |                |         |       |        | |---------|----------------|---------|-------|--------| | Planet  | sUryasiddhAnta | Ptolemy | Tycho | Modern | | Mars    | 2.0            | 1.57    | 1.67  | 0.4    | | Saturn  | 2.5            | 1.74    | 1.83  | 0.34   | | Mercury | 3.0            | 2.09    | 2.17  | 0.16   | | Jupiter | 3.5            | 2.61    | 2.75  | 0.8    | | Venus   | 4.0            | 3.13    | 3.25  | 1.05   |
+|         |                |         |       |        |
+|---------|----------------|---------|-------|--------|
+| Planet  | sUryasiddhAnta | Ptolemy | Tycho | Modern |
+| Mars    | 2.0            | 1.57    | 1.67  | 0.4    |
+| Saturn  | 2.5            | 1.74    | 1.83  | 0.34   |
+| Mercury | 3.0            | 2.09    | 2.17  | 0.16   |
+| Jupiter | 3.5            | 2.61    | 2.75  | 0.8    |
+| Venus   | 4.0            | 3.13    | 3.25  | 1.05   |
 
 What is clear is that all pre-modern observers way over-estimated their planetary diameters, illustrating the short-comings of the unaided eye. Ptolemy himself attributed these values to Hipparchus who is reputed to have said: “The sun is 30 times the apparent diameter of the smallest star and the diameter of Venus which appears to be the largest star is 1/10th the apparent diameter of the sun.” In his scheme Jupiter is 1/12, Mercury is 1/15, Saturn 1/18 and Mars 1/20 that of the sun. Now the white indologists hold that the Hindus again copied their angular diameters from the Greeks to present them in the sUryasiddhAnta. However, as we can see above the values of Ptolemy/Hipparachus, while following the same order as the Hindus, are very different. In fact the Hindu series is a far simpler one, with merely an increment of .5 per planet. We find no evidence for such planetary diameter estimates among the Babylonians or for any occurrence in the Greek world prior to Hipparchus. So just going by the sUryasiddhAnta and Ptolemy’s words either could claim priority. However, when we examine the more primitive Hindu model for planetary diameters provided in the BhP 1.24 we already see them reporting a system of planetary diameters in yojana-s:
 
-|         |        | |---------|--------| | Venus   | 1125   | | Jupiter | 843.75 | | Mars    | 632.8  | | Saturn  | 632.8  | | Mercury | 474.6  |
+|         |        |
+|---------|--------|
+| Venus   | 1125   |
+| Jupiter | 843.75 |
+| Mars    | 632.8  |
+| Saturn  | 632.8  |
+| Mercury | 474.6  |
 
 From this it is clear that the Hindus already had a tradition of planetary diameters and the new order reported in the sUryasiddhAnta could merely be an emendation of that older tradition.
 

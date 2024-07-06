@@ -25,7 +25,27 @@ Here are two results from [The genome-wide structure of the Jewish people](http:
 
 Now let’s look at a table which shows “allele sharing distance” between two pairs of populations. I’ve taken the results from the supplements, and limited the population set. Additionally, I’ve taken the value, and standardized it so that the smallest distance (Iraqi Jew to Iraqi Jew) is set to 0, and larger values indicate greater difference in allele values across two populations.\*
 
-|                |        |        |        | |----------------|--------|--------|--------| | **Population** | Ashk J | Seph J | Iraq J | | Ashk J         | 6.7    |        |        | | Seph J         | 14.6   | 14.7   |        | | Iraq J         | 23.1   | 20.1   | 0.0    | | Yemen J        | 29.0   | 25.5   | 23.3   | | Druze          | 25.4   | 23.4   | 23.1   | | Palestinian    | 31.7   | 29.2   | 29.3   | | Armenian       | 17.2   | 16.4   | 16.8   | | Turkey         | 23.4   | 23.1   | 23.0   | | Iran           | 30.8   | 30.0   | 27.6   | | Syria          | 31.2   | 29.7   | 28.9   | | Yemen          | 60.1   | 57.2   | 56.8   | | Cyprus         | 16.1   | 14.6   | 16.3   | | Russia         | 26.7   | 30.9   | 38.4   | | France         | 18.6   | 21.0   | 29.7   | | Sardinia       | 16.8   | 16.0   | 25.1   | | Tuscan         | 15.5   | 15.7   | 21.2   | | Lithuanian     | 23.5   | 28.3   | 37.1   | | Spain          | 17.7   | 18.9   | 27.1   |
+|                |        |        |        |
+|----------------|--------|--------|--------|
+| **Population** | Ashk J | Seph J | Iraq J |
+| Ashk J         | 6.7    |        |        |
+| Seph J         | 14.6   | 14.7   |        |
+| Iraq J         | 23.1   | 20.1   | 0.0    |
+| Yemen J        | 29.0   | 25.5   | 23.3   |
+| Druze          | 25.4   | 23.4   | 23.1   |
+| Palestinian    | 31.7   | 29.2   | 29.3   |
+| Armenian       | 17.2   | 16.4   | 16.8   |
+| Turkey         | 23.4   | 23.1   | 23.0   |
+| Iran           | 30.8   | 30.0   | 27.6   |
+| Syria          | 31.2   | 29.7   | 28.9   |
+| Yemen          | 60.1   | 57.2   | 56.8   |
+| Cyprus         | 16.1   | 14.6   | 16.3   |
+| Russia         | 26.7   | 30.9   | 38.4   |
+| France         | 18.6   | 21.0   | 29.7   |
+| Sardinia       | 16.8   | 16.0   | 25.1   |
+| Tuscan         | 15.5   | 15.7   | 21.2   |
+| Lithuanian     | 23.5   | 28.3   | 37.1   |
+| Spain          | 17.7   | 18.9   | 27.1   |
 
 
 

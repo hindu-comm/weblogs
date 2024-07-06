@@ -33,7 +33,22 @@ I looked to see who voted in the year 2000, variable VOTE00. Note that the quest
 
 ------------------------------------------------------------------------
 
-|                                                    |                            |                              |                               | |----------------------------------------------------|----------------------------|------------------------------|-------------------------------| |                                                    | **Voted in 2000 Election** | **Did not vote in the 2000** | **Not eligible to vote 2000** | | God Created Man                                    | 43                         | 44                           | 32                            | | Man Has Evolved, But God Guided                    | 41                         | 42                           | 45                            | | Man Has Evolved                                    | 13                         | 10                           | 16                            | |                                                    |                            |                              |                               | | **Human Beings Developed From Animals (EVOLVED)**  |                            |                              |                               | | True                                               | 50                         | 46                           | 59                            | | False                                              | 50                         | 54                           | 41                            | |                                                    |                            |                              |                               | | **Human Beings Developed From Animals (SCITESTY)** |                            |                              |                               | | Definitely True                                    | 16                         | 12                           | 21                            | | Probably True                                      | 28                         | 31                           | 38                            | | Probably Not True                                  | 15                         | 15                           | 15                            | | Definitely Not True                                | 41                         | 41                           | 27                            |
+|                                                    |                            |                              |                               |
+|----------------------------------------------------|----------------------------|------------------------------|-------------------------------|
+|                                                    | **Voted in 2000 Election** | **Did not vote in the 2000** | **Not eligible to vote 2000** |
+| God Created Man                                    | 43                         | 44                           | 32                            |
+| Man Has Evolved, But God Guided                    | 41                         | 42                           | 45                            |
+| Man Has Evolved                                    | 13                         | 10                           | 16                            |
+|                                                    |                            |                              |                               |
+| **Human Beings Developed From Animals (EVOLVED)**  |                            |                              |                               |
+| True                                               | 50                         | 46                           | 59                            |
+| False                                              | 50                         | 54                           | 41                            |
+|                                                    |                            |                              |                               |
+| **Human Beings Developed From Animals (SCITESTY)** |                            |                              |                               |
+| Definitely True                                    | 16                         | 12                           | 21                            |
+| Probably True                                      | 28                         | 31                           | 38                            |
+| Probably Not True                                  | 15                         | 15                           | 15                            |
+| Definitely Not True                                | 41                         | 41                           | 27                            |
 
 ------------------------------------------------------------------------
 
@@ -45,7 +60,28 @@ In any case, I took REGION and recombined it like so: REGION(r:1-2 â€œNortheastâ
 
 ------------------------------------------------------------------------
 
-|                                                    |               |             |           |          | |----------------------------------------------------|---------------|-------------|-----------|----------| |                                                    | **Northeast** | **Midwest** | **South** | **West** | | God Created Man                                    | 31            | 41          | 54        | 34       | | Man Has Evolved, But God Guided                    | 50            | 46          | 33        | 45       | | Man Has Evolved                                    | 15            | 11          | 9         | 16       | |                                                    |               |             |           |          | | **Human Beings Developed From Animals (EVOLVED)**  |               |             |           |          | | True                                               | 64            | 52          | 40        | 57       | | False                                              | 37            | 48          | 60        | 43       | |                                                    |               |             |           |          | | **Human Beings Developed From Animals (SCITESTY)** |               |             |           |          | | Definitely True                                    | 22            | 13          | 11        | 21       | | Probably True                                      | 40            | 34          | 23        | 30       | | Probably Not True                                  | 11            | 13          | 15        | 20       | | Definitely Not True                                | 27            | 40          | 51        | 30       | |                                                    |               |             |           |          | | **Human Beings Developed From Animals (SCITEST4)** |               |             |           |          | | Definitely True                                    | 22            | 9           | 12        | 21       | | Probably True                                      | 39            | 34          | 26        | 30       | | Probably Not True                                  | 16            | 20          | 19        | 15       | | Definitely Not True                                | 23            | 38          | 43        | 34       |
+|                                                    |               |             |           |          |
+|----------------------------------------------------|---------------|-------------|-----------|----------|
+|                                                    | **Northeast** | **Midwest** | **South** | **West** |
+| God Created Man                                    | 31            | 41          | 54        | 34       |
+| Man Has Evolved, But God Guided                    | 50            | 46          | 33        | 45       |
+| Man Has Evolved                                    | 15            | 11          | 9         | 16       |
+|                                                    |               |             |           |          |
+| **Human Beings Developed From Animals (EVOLVED)**  |               |             |           |          |
+| True                                               | 64            | 52          | 40        | 57       |
+| False                                              | 37            | 48          | 60        | 43       |
+|                                                    |               |             |           |          |
+| **Human Beings Developed From Animals (SCITESTY)** |               |             |           |          |
+| Definitely True                                    | 22            | 13          | 11        | 21       |
+| Probably True                                      | 40            | 34          | 23        | 30       |
+| Probably Not True                                  | 11            | 13          | 15        | 20       |
+| Definitely Not True                                | 27            | 40          | 51        | 30       |
+|                                                    |               |             |           |          |
+| **Human Beings Developed From Animals (SCITEST4)** |               |             |           |          |
+| Definitely True                                    | 22            | 9           | 12        | 21       |
+| Probably True                                      | 39            | 34          | 26        | 30       |
+| Probably Not True                                  | 16            | 20          | 19        | 15       |
+| Definitely Not True                                | 23            | 38          | 43        | 34       |
 
 ------------------------------------------------------------------------
 
@@ -53,7 +89,29 @@ In any case, I took REGION and recombined it like so: REGION(r:1-2 â€œNortheastâ
 
 ------------------------------------------------------------------------
 
-|                                                    |               |             |           |          | |----------------------------------------------------|---------------|-------------|-----------|----------| | ***Non-Hispanic Whites Only***                     |               |             |           |          | |                                                    | **Northeast** | **Midwest** | **South** | **West** | | God Created Man                                    | 29            | 40          | 53        | 35       | | Man Has Evolved, But God Guided                    | 42            | 46          | 34        | 40       | | Man Has Evolved                                    | 15            | 12          | 10        | 19       | |                                                    |               |             |           |          | | **Human Beings Developed From Animals (EVOLVED)**  |               |             |           |          | | True                                               | 70            | 54          | 41        | 55       | | False                                              | 30            | 46          | 59        | 45       | |                                                    |               |             |           |          | | **Human Beings Developed From Animals (SCITESTY)** |               |             |           |          | | Definitely True                                    | 24            | 13          | 12        | 24       | | Probably True                                      | 42            | 35          | 23        | 25       | | Probably Not True                                  | 11            | 14          | 16        | 20       | | Definitely Not True                                | 24            | 39          | 49        | 32       | |                                                    |               |             |           |          | | **Human Beings Developed From Animals (SCITEST4)** |               |             |           |          | | Definitely True                                    | 22            | 10          | 13        | 25       | | Probably True                                      | 46            | 32          | 25        | 32       | | Probably Not True                                  | 16            | 22          | 20        | 12       | | Definitely Not True                                | 16            | 37          | 43        | 32       |
+|                                                    |               |             |           |          |
+|----------------------------------------------------|---------------|-------------|-----------|----------|
+| ***Non-Hispanic Whites Only***                     |               |             |           |          |
+|                                                    | **Northeast** | **Midwest** | **South** | **West** |
+| God Created Man                                    | 29            | 40          | 53        | 35       |
+| Man Has Evolved, But God Guided                    | 42            | 46          | 34        | 40       |
+| Man Has Evolved                                    | 15            | 12          | 10        | 19       |
+|                                                    |               |             |           |          |
+| **Human Beings Developed From Animals (EVOLVED)**  |               |             |           |          |
+| True                                               | 70            | 54          | 41        | 55       |
+| False                                              | 30            | 46          | 59        | 45       |
+|                                                    |               |             |           |          |
+| **Human Beings Developed From Animals (SCITESTY)** |               |             |           |          |
+| Definitely True                                    | 24            | 13          | 12        | 24       |
+| Probably True                                      | 42            | 35          | 23        | 25       |
+| Probably Not True                                  | 11            | 14          | 16        | 20       |
+| Definitely Not True                                | 24            | 39          | 49        | 32       |
+|                                                    |               |             |           |          |
+| **Human Beings Developed From Animals (SCITEST4)** |               |             |           |          |
+| Definitely True                                    | 22            | 10          | 13        | 25       |
+| Probably True                                      | 46            | 32          | 25        | 32       |
+| Probably Not True                                  | 16            | 22          | 20        | 12       |
+| Definitely Not True                                | 16            | 37          | 43        | 32       |
 
 ------------------------------------------------------------------------
 

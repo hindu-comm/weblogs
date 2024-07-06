@@ -28,23 +28,45 @@ COL TOTAL
 
 color indicates T-statistic, and thus p-value
 
-|                        |                      |        |       |                     |       |       |       | |:-----------------------|:--------------------:|:------:|:-----:|:-------------------:|:-----:|:-----:|-------| | **Color coding:**      |        \<-2.0        | \<-1.0 | \<0.0 |        \>0.0        | \>1.0 | \>2.0 | **T** | | **Mean in each cell:** | Smaller than average |        |       | Larger than average |       |       |       |
+|                        |                      |        |       |                     |       |       |       |
+|:-----------------------|:--------------------:|:------:|:-----:|:-------------------:|:-----:|:-----:|-------|
+| **Color coding:**      |        \<-2.0        | \<-1.0 | \<0.0 |        \>0.0        | \>1.0 | \>2.0 | **T** |
+| **Mean in each cell:** | Smaller than average |        |       | Larger than average |       |       |       |
 
 **Analysis of Variance**
 
-|                  |           |        |     |        |        |       | |------------------|-----------|--------|-----|--------|--------|-------| |                  |           |        |     |        |        |       | |                  | SSQ       | Eta_sq | df  | MSQ    | F      | P     | | **Main effects** | 89.443    | .061   | 3   | 29.814 | 6.956  | .0002 | | **COLOR**        | 89.099    | .061   | 2   | 44.549 | 10.394 | .0000 | | **SEX**          | .691      | .000   | 1   | .691   | .161   | .6884 | | **Interaction**  | 2.569     | .002   | 2   | 1.285  | .300   | .7412 | | Residual         | 1,375.884 | .937   | 321 | 4.286  |        |       | | Total            | 1,467.896 | 1.000  | 326 |        |        |       |
+|                  |           |        |     |        |        |       |
+|------------------|-----------|--------|-----|--------|--------|-------|
+|                  |           |        |     |        |        |       |
+|                  | SSQ       | Eta_sq | df  | MSQ    | F      | P     |
+| **Main effects** | 89.443    | .061   | 3   | 29.814 | 6.956  | .0002 |
+| **COLOR**        | 89.099    | .061   | 2   | 44.549 | 10.394 | .0000 |
+| **SEX**          | .691      | .000   | 1   | .691   | .161   | .6884 |
+| **Interaction**  | 2.569     | .002   | 2   | 1.285  | .300   | .7412 |
+| Residual         | 1,375.884 | .937   | 321 | 4.286  |        |       |
+| Total            | 1,467.896 | 1.000  | 326 |        |        |       |
 
 We can quantify the effect size of each skin color class using Cohen’s d statistic, which measures the mean difference in standard deviation units. In the 1982 dataset, the overall d for the Black-White gap on WORDSUM is -0.63 (among males d=-0.51, among d=-0.74). For comparison, the 1982 male-female gap among Whites is d=-.12, favoring females.
 
 Table 2. Effect size (d) of COLOR on WORDSUM using “light” as a control group
 
-|        |       |        |       | |--------|-------|--------|-------| | Color  | Male  | Female | Total | | Dark   | -0.99 | -0.53  | -0.68 | | Medium | -0.31 | -0.20  | -0.22 | | Light  | 0.00  | 0.00   | 0.00  |
+|        |       |        |       |
+|--------|-------|--------|-------|
+| Color  | Male  | Female | Total |
+| Dark   | -0.99 | -0.53  | -0.68 |
+| Medium | -0.31 | -0.20  | -0.22 |
+| Light  | 0.00  | 0.00   | 0.00  |
 
 We can also use Whites as the control group.
 
 Table 3. Effect size (d) of COLOR on WORDSUM using Whites as a control group
 
-|        |       |        |       | |--------|-------|--------|-------| | Color  | Male  | Female | Total | | Dark   | -0.99 | -1.10  | -1.04 | | Medium | -0.35 | -0.69  | -0.54 | | Light  | -0.07 | -0.46  | -0.33 |
+|        |       |        |       |
+|--------|-------|--------|-------|
+| Color  | Male  | Female | Total |
+| Dark   | -0.99 | -1.10  | -1.04 |
+| Medium | -0.35 | -0.69  | -0.54 |
+| Light  | -0.07 | -0.46  | -0.33 |
 
 Thus, there are substantial (moderate to large effect size) differences in WORDSUM scores between the darkest and lightest Blacks in 1982.
 

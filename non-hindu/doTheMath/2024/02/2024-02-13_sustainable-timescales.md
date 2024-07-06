@@ -25,7 +25,23 @@ So, step one in assessing sustainability is to ask: what can continue without fa
 
 First, we review the temporal landscape, in approximate terms.
 
-|                                |             | |--------------------------------|-------------| | Event                          | Time        | | Big Bang                       | 13.8 Gyr    | | Sun/Earth Formation            | 4.6 Gyr     | | First Biology                  | 3.7–4.2 Gyr | | Cambrian Explosion             | 540 Myr     | | Last Mass Extinction           | 65 Myr      | | First Apes                     | 20 Myr      | | Homo Genus (Humans)            | 2.5 Myr     | | Homo Sapiens                   | 300 kyr     | | Anatomically Modern Humans     | 150 kyr     | | Agricultural Revolution        | 10 kyr      | | Writing, Cities                | 5 kyr       | | Modern Science                 | 400 yr      | | Fossil Fuels                   | 150 yr      | | Bulk of Ecological Destruction | 50 yr       |
+|                                |             |
+|--------------------------------|-------------|
+| Event                          | Time        |
+| Big Bang                       | 13.8 Gyr    |
+| Sun/Earth Formation            | 4.6 Gyr     |
+| First Biology                  | 3.7–4.2 Gyr |
+| Cambrian Explosion             | 540 Myr     |
+| Last Mass Extinction           | 65 Myr      |
+| First Apes                     | 20 Myr      |
+| Homo Genus (Humans)            | 2.5 Myr     |
+| Homo Sapiens                   | 300 kyr     |
+| Anatomically Modern Humans     | 150 kyr     |
+| Agricultural Revolution        | 10 kyr      |
+| Writing, Cities                | 5 kyr       |
+| Modern Science                 | 400 yr      |
+| Fossil Fuels                   | 150 yr      |
+| Bulk of Ecological Destruction | 50 yr       |
 
 For more perspectives on the second half of the table, I previously [compared these timescales to a human lifetime](https://dothemath.ucsd.edu/2022/12/the-simple-story/), and also framed the progression as the seemingly-inevitable [flow of a river](https://dothemath.ucsd.edu/2023/08/our-time-on-the-river/).
 

@@ -18,7 +18,20 @@ In my case I even have family which lives in a foreign country. Many of them are
 
 I’ve collected Google Analytics for the main Gene Expression domain since 2006. Below are the top ten nations in terms of accesses (the USA is 60% in 2007 and 50% in 2017, to give you a sense that the proportions haven’t changed much.
 
-|                                                           |       |       |           | |-----------------------------------------------------------|-------|-------|-----------| | **Top countries of origin for GNXP.com accesses by year** |       |       |           | | **2017**                                                  | **** | **** | **2007**  | | USA                                                       |       |       | USA       | | UK                                                        |       |       | Canada    | | Canada                                                    |       |       | UK        | | Australia                                                 |       |       | Australia | | India                                                     |       |       | Germany   | | Germany                                                   |       |       | India     | | France                                                    |       |       | Sweden    | | Sweden                                                    |       |       | Finland   | | Japan                                                     |       |       | Ireland   | | Netherlands                                               |       |       | France    |
+|                                                           |       |       |           |
+|-----------------------------------------------------------|-------|-------|-----------|
+| **Top countries of origin for GNXP.com accesses by year** |       |       |           |
+| **2017**                                                  | **** | **** | **2007**  |
+| USA                                                       |       |       | USA       |
+| UK                                                        |       |       | Canada    |
+| Canada                                                    |       |       | UK        |
+| Australia                                                 |       |       | Australia |
+| India                                                     |       |       | Germany   |
+| Germany                                                   |       |       | India     |
+| France                                                    |       |       | Sweden    |
+| Sweden                                                    |       |       | Finland   |
+| Japan                                                     |       |       | Ireland   |
+| Netherlands                                               |       |       | France    |
 
 There are many conversations out there happening in other languages and nations. I do wondre what they are.
 

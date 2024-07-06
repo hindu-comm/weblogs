@@ -35,7 +35,17 @@ I did two things:
 
 Before I go on, I will state what I found: **these methods supported the inference from 23andMe, on chromosome 10 Dr. MacArthur seems to have an affinity with South Asians**(i.e., this is his ‘curry chromosome’). Here are the average (median) values in tabular format, with MacArthur and his wife presented for comparison.
 
-|                                         |            |      |      | |-----------------------------------------|------------|------|------| | **ADMIXTURE results for chromosome 10** |            |      |      | |                                         |            |      |      | |                                         | K 1        | K 2  | K 3  | | CEU                                     | 0.04       | 0.02 | 0.93 | | GIH                                     | 0.87       | 0.05 | 0.08 | | CHD                                     | 0.01       | 0.97 | 0.01 | | Daniel MacArthur                        | ***0.29*** | 0.07 | 0.64 | | Ilana Fisher                            | 0.01       | 0.06 | 0.94 | |                                         |            |      |      |
+|                                         |            |      |      |
+|-----------------------------------------|------------|------|------|
+| **ADMIXTURE results for chromosome 10** |            |      |      |
+|                                         |            |      |      |
+|                                         | K 1        | K 2  | K 3  |
+| CEU                                     | 0.04       | 0.02 | 0.93 |
+| GIH                                     | 0.87       | 0.05 | 0.08 |
+| CHD                                     | 0.01       | 0.97 | 0.01 |
+| Daniel MacArthur                        | ***0.29*** | 0.07 | 0.64 |
+| Ilana Fisher                            | 0.01       | 0.06 | 0.94 |
+|                                         |            |      |      |
 
 You probably want a distribution. Out of the non-founder CEU sample none went above 20% South Asian. Though it did surprise me that a few were that high, making it more plausible to me that MacArthur’s results on chromosome 10 were a fluke:
 

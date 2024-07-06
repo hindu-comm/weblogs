@@ -9,7 +9,21 @@ Source: [here](https://www.gnxp.com/WordPress/2018/12/04/how-paternity-testing-i
 
 How paternity testing is like international trade
 
-|                                      |                         |       | |--------------------------------------|-------------------------|-------| |                                      | **Nonpaternity rate %** | **N** | |                                      |                         |       | | Switzerland                          | 0.83                    | 1607  | | USA, Michigan, white                 | 1.49                    | 1417  | | USA, California, white               | 2.1                     | 6960  | | USA, Hawaii                          | 2.3                     | 2839  | | UK, West London                      | 3.7                     | 2596  | |                                      |                         |       | | ***Paternity Testing Laboratories*** |                         |       | | UK                                   | 16.6                    | 1702  | | USA, Los Angeles, white              | 24.9                    | 1393  | | Sweden                               | 38.7                    | 5018  | | South Africa, Cape Coloured          | 40                      | 1156  |
+|                                      |                         |       |
+|--------------------------------------|-------------------------|-------|
+|                                      | **Nonpaternity rate %** | **N** |
+|                                      |                         |       |
+| Switzerland                          | 0.83                    | 1607  |
+| USA, Michigan, white                 | 1.49                    | 1417  |
+| USA, California, white               | 2.1                     | 6960  |
+| USA, Hawaii                          | 2.3                     | 2839  |
+| UK, West London                      | 3.7                     | 2596  |
+|                                      |                         |       |
+| ***Paternity Testing Laboratories*** |                         |       |
+| UK                                   | 16.6                    | 1702  |
+| USA, Los Angeles, white              | 24.9                    | 1393  |
+| Sweden                               | 38.7                    | 5018  |
+| South Africa, Cape Coloured          | 40                      | 1156  |
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/01/the_journey_of_man.jpeg?resize=182%2C277&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/01/the_journey_of_man.jpeg?resize=182%2C277&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B009MYAOQU/geneexpressio-20/ref=as_at?creativeASIN=B00ALWYMSI&linkCode=w61&imprToken=sX6h30Y4dVnzeiidjB688A&slotNum=4)The results above are from Kermyt Anderson’s [How Well Does Paternity Confidence Match Actual Paternity?](https://www.journals.uchicago.edu/doi/abs/10.1086/504167)This is still one of the best surveys of the field, despite being 12 years ago. A more recent paper, [Cuckolded Fathers Rare in Human Populations](https://www.ncbi.nlm.nih.gov/pubmed/27107336), uses more powerful genetic genealogy methods to come to the same conclusion as Anderson’s survey: **extrapair paternity, or nonpaternity events, are rare in Western societies**. I don’t think it is limited to Western societies. I suspect that when high throughput sequencing is applied to Chinese clan lineages and Hindu gotras, you will found that nonpaternity events are similar to those in the West.\*
 

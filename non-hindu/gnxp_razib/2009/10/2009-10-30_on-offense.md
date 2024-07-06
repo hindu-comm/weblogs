@@ -14,7 +14,62 @@ The issue and dynamic are general. In the ancient world the Jews and Christians 
 One can expand the point outside of religion. In much of pre-modern Europe a bare breast was reputedly less sexually charged than exposed shoulders or legs. Sexuality is not totally culture variant, even societies where nudity is common have norms (e.g., notice that Amazonian women in the older *National Geographic* specials never squat). But there’s enough variation that software differs from society to society. The human mind operates on autopilot much of the time, and internalizes particular cues and contexts, and fires programs which come preloaded. When put into an exotic circumstance it takes some time to adjust, and when two individuals come together when there are cultural differences confusion can often ensue (immigrants may often never become totally acculturated).  
 Back to religion. In the World Values Survey there’s a question about how much you “Trust People Of Other Religions.” There are 4 responses, trust complete, trust a little, not trust very much, and not trust at all. I created an index of trust, whereby the above response were coded as 0, 1, 2 and 3. So if 100% in a country did not trust at all, the value would be 3. Below are the responses for nations in WVS wave 5. I’ve ordered them. You might be surprised.
 
-|     |                         |           | |-----|-------------------------|----------:| |    |                         | **Index** | |    | **Sweden**              |     0.976 | |     | **New Zealand**         |     0.986 | |     | **France**              |     1.009 | |     | **Norway**              |     1.096 | |     | **Great Britain**       |     1.131 | |     | **Mali**                |      1.15 | |     | **Finland**             |     1.152 | |     | **United States**       |     1.189 | |     | **Canada**              |     1.201 | |     | **Australia**           |     1.255 | |     | **Switzerland**         |     1.286 | |     | **Andorra**             |     1.294 | |     | **South Africa**        |     1.305 | |     | **Rwanda**              |     1.329 | |     | **Argentina**           |     1.372 | |     | **Trinidad and Tobago** |     1.402 | |     | **Burkina Faso**        |     1.455 | |     | **Uruguay**             |     1.484 | |     | **Ghana**               |     1.502 | |     | **Taiwan**              |     1.583 | |     | **Serbia**              |     1.591 | |     | **Poland**              |     1.601 | |     | **Brazil**              |     1.601 | |     | **Netherlands**         |     1.617 | |     | **Spain**               |     1.629 | |     | **India**               |     1.643 | |     | **Ethiopia**            |     1.644 | |     | **South Korea**         |     1.646 | |     | **Bulgaria**            |     1.649 | |     | **Indonesia**           |     1.675 | |     | **Georgia**             |     1.689 | |     | **Germany**             |     1.702 | |     | **Ukraine**             |     1.732 | |     | **Zambia**              |      1.74 | |     | **Italy**               |     1.744 | |     | **Malaysia**            |     1.763 | |     | **Chile**               |     1.786 | |     | **Egypt**               |     1.794 | |     | **Thailand**            |     1.842 | |     | **Colombia**            |     1.848 | |     | **Russian Federation**  |     1.849 | |     | **Viet Nam**            |      1.85 | |     | **Slovenia**            |     1.891 | |     | **Romania**             |     1.907 | |     | **Jordan**              |     1.951 | |     | **Mexico**              |     1.987 | |     | **Turkey**              |     1.988 | |     | **Cyprus**              |     1.998 | |     | **Moldova**             |      2.02 | |     | **Morocco**             |     2.085 | |     | **Peru**                |     2.111 | |     | **China**               |     2.112 | |     |                        |           |
+|     |                         |           |
+|-----|-------------------------|----------:|
+|    |                         | **Index** |
+|    | **Sweden**              |     0.976 |
+|     | **New Zealand**         |     0.986 |
+|     | **France**              |     1.009 |
+|     | **Norway**              |     1.096 |
+|     | **Great Britain**       |     1.131 |
+|     | **Mali**                |      1.15 |
+|     | **Finland**             |     1.152 |
+|     | **United States**       |     1.189 |
+|     | **Canada**              |     1.201 |
+|     | **Australia**           |     1.255 |
+|     | **Switzerland**         |     1.286 |
+|     | **Andorra**             |     1.294 |
+|     | **South Africa**        |     1.305 |
+|     | **Rwanda**              |     1.329 |
+|     | **Argentina**           |     1.372 |
+|     | **Trinidad and Tobago** |     1.402 |
+|     | **Burkina Faso**        |     1.455 |
+|     | **Uruguay**             |     1.484 |
+|     | **Ghana**               |     1.502 |
+|     | **Taiwan**              |     1.583 |
+|     | **Serbia**              |     1.591 |
+|     | **Poland**              |     1.601 |
+|     | **Brazil**              |     1.601 |
+|     | **Netherlands**         |     1.617 |
+|     | **Spain**               |     1.629 |
+|     | **India**               |     1.643 |
+|     | **Ethiopia**            |     1.644 |
+|     | **South Korea**         |     1.646 |
+|     | **Bulgaria**            |     1.649 |
+|     | **Indonesia**           |     1.675 |
+|     | **Georgia**             |     1.689 |
+|     | **Germany**             |     1.702 |
+|     | **Ukraine**             |     1.732 |
+|     | **Zambia**              |      1.74 |
+|     | **Italy**               |     1.744 |
+|     | **Malaysia**            |     1.763 |
+|     | **Chile**               |     1.786 |
+|     | **Egypt**               |     1.794 |
+|     | **Thailand**            |     1.842 |
+|     | **Colombia**            |     1.848 |
+|     | **Russian Federation**  |     1.849 |
+|     | **Viet Nam**            |      1.85 |
+|     | **Slovenia**            |     1.891 |
+|     | **Romania**             |     1.907 |
+|     | **Jordan**              |     1.951 |
+|     | **Mexico**              |     1.987 |
+|     | **Turkey**              |     1.988 |
+|     | **Cyprus**              |     1.998 |
+|     | **Moldova**             |      2.02 |
+|     | **Morocco**             |     2.085 |
+|     | **Peru**                |     2.111 |
+|     | **China**               |     2.112 |
+|     |                        |           |
 
 As Muslims go the people of Mail have a reputation of being atypically chilled out. These data would support that. At the bottom of the list are nations where religion, nationalism, and their intersection are rife. No surprise. But what about Vietnam and China? East Asian nations are arguably even more secular than the Nordic countries, and unlike Sweden they don’t really have a recent history of religiosity which gave way to secularity. They think religion is weird, and Communism didn’t help change that attitude at all (both China and Korea broke the power of the Buddhist orders nearly 1,000 years ago, while [Oda Nobunaga](https://en.wikipedia.org/wiki/Oda_Nobunaga) was a great monk-slayer).
 

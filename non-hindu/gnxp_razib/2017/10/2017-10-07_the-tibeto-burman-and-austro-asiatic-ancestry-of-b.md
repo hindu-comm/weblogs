@@ -35,7 +35,25 @@ All of this ultimately goes back to the question: [how did my father get his mtD
 
 Some Austronesian data sets have come online. So I thought I’d give it another shot. Additionally, I spent several hours removing outliers and combining populations to generate a full data set. The number of markers was 195,000 SNPs.
 
-|               |       |                                           | |---------------|-------|-------------------------------------------| | **Label**     | **N** | **Notes**                                 | | AA            | 17    | Munda (outliers removed)                  | | BD            | 74    | Bangladesh, 1K BEB (outliers removed)     | | Borneo        | 31    | Orang Asli tribes (outliers removed)      | | Burmese       | 20    | Bamar ethnicity                           | | Cambodians    | 39    | Outliers removed                          | | Dai           | 40    |                                           | | Han_C         | 47    | Pooled Han from HGDP and 1K               | | Han_N         | 28    | Pooled Han from HGDP and 1K               | | Han_S         | 29    | Pooled Han from HGDP and 1K               | | Japanese      | 28    |                                           | | Malay         | 21    |                                           | | Miao          | 10    |                                           | | Phil          | 16    | Luzon and Visaya                          | | Phil_Highland | 15    | Igorot tribesman Luzon (outliers removed) | | Telugu        | 34    | 1K STU (outliers removed)                 | | Viet          | 18    |                                           |
+|               |       |                                           |
+|---------------|-------|-------------------------------------------|
+| **Label**     | **N** | **Notes**                                 |
+| AA            | 17    | Munda (outliers removed)                  |
+| BD            | 74    | Bangladesh, 1K BEB (outliers removed)     |
+| Borneo        | 31    | Orang Asli tribes (outliers removed)      |
+| Burmese       | 20    | Bamar ethnicity                           |
+| Cambodians    | 39    | Outliers removed                          |
+| Dai           | 40    |                                           |
+| Han_C         | 47    | Pooled Han from HGDP and 1K               |
+| Han_N         | 28    | Pooled Han from HGDP and 1K               |
+| Han_S         | 29    | Pooled Han from HGDP and 1K               |
+| Japanese      | 28    |                                           |
+| Malay         | 21    |                                           |
+| Miao          | 10    |                                           |
+| Phil          | 16    | Luzon and Visaya                          |
+| Phil_Highland | 15    | Igorot tribesman Luzon (outliers removed) |
+| Telugu        | 34    | 1K STU (outliers removed)                 |
+| Viet          | 18    |                                           |
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/10/BangTest.4_htm_32d5eb2f.jpg?resize=200%2C533)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/10/BangTest.4_htm_32d5eb2f.jpg?resize=200%2C533)](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/10/BangTest.4_htm_32d5eb2f.jpg)I ran ADMIXTURE at K = 4 on the full data set. Please to click on on the image if you want details, but the results are straightforward:
 
@@ -57,7 +75,25 @@ This seems to be pretty clear rejection of the model where Bangladeshis are a tw
 
 Here are the average percentages by population:
 
-|               |                    |                  |                 |                     | |---------------|--------------------|------------------|-----------------|---------------------| | **Group**     | **Austro-Asiatic** | **Austronesian** | **South Asian** | **Northeast Asian** | | AA            | 38%                | 0%               | 62%             | 0%                  | | BD            | 7%                 | 2%               | 84%             | 7%                  | | Borneo        | 61%                | 38%              | 0%              | 0%                  | | Burmese       | 29%                | 0%               | 23%             | 48%                 | | Cambodians    | 73%                | 1%               | 15%             | 11%                 | | Dai           | 49%                | 7%               | 0%              | 44%                 | | Han_C         | 16%                | 5%               | 0%              | 79%                 | | Han_N         | 1%                 | 1%               | 2%              | 96%                 | | Han_S         | 27%                | 7%               | 0%              | 66%                 | | Japanese      | 0%                 | 1%               | 2%              | 97%                 | | Malay         | 64%                | 16%              | 13%             | 7%                  | | Miao          | 24%                | 3%               | 0%              | 73%                 | | Phil          | 34%                | 37%              | 6%              | 22%                 | | Phil_Highland | 0%                 | 100%             | 0%              | 0%                  | | Telugu        | 0%                 | 3%               | 96%             | 0%                  | | Viet          | 45%                | 7%               | 0%              | 48%                 |
+|               |                    |                  |                 |                     |
+|---------------|--------------------|------------------|-----------------|---------------------|
+| **Group**     | **Austro-Asiatic** | **Austronesian** | **South Asian** | **Northeast Asian** |
+| AA            | 38%                | 0%               | 62%             | 0%                  |
+| BD            | 7%                 | 2%               | 84%             | 7%                  |
+| Borneo        | 61%                | 38%              | 0%              | 0%                  |
+| Burmese       | 29%                | 0%               | 23%             | 48%                 |
+| Cambodians    | 73%                | 1%               | 15%             | 11%                 |
+| Dai           | 49%                | 7%               | 0%              | 44%                 |
+| Han_C         | 16%                | 5%               | 0%              | 79%                 |
+| Han_N         | 1%                 | 1%               | 2%              | 96%                 |
+| Han_S         | 27%                | 7%               | 0%              | 66%                 |
+| Japanese      | 0%                 | 1%               | 2%              | 97%                 |
+| Malay         | 64%                | 16%              | 13%             | 7%                  |
+| Miao          | 24%                | 3%               | 0%              | 73%                 |
+| Phil          | 34%                | 37%              | 6%              | 22%                 |
+| Phil_Highland | 0%                 | 100%             | 0%              | 0%                  |
+| Telugu        | 0%                 | 3%               | 96%             | 0%                  |
+| Viet          | 45%                | 7%               | 0%              | 48%                 |
 
 I’m 99% sure that “South Asian” is in some of these cases a proxy for anything that’s not East Asian. But the Malay and Cambodian results are probably South Asian. And the Burmese certainly are.
 
@@ -83,7 +119,23 @@ At this point I ran a “three population test.” Basically, you take an outgro
 
 Below are results where the Bangladeshis are the outgroup, and f3 statistics are negative (sorted most negative to least).
 
-|             |          |               |              |              |             | |-------------|----------|---------------|--------------|--------------|-------------| | **Ougroup** | **Pop1** | **Pop2**      | **f3**       | **f3-error** | **Z-score** | | BD          | Telugu   | Miao          | -0.00240554  | 6.21107e-05  | -38.7298    | | BD          | Telugu   | Han_S         | -0.00238905  | 5.49332e-05  | -43.4901    | | BD          | Telugu   | Dai           | -0.00238103  | 5.73977e-05  | -41.4831    | | BD          | Telugu   | Han_C         | -0.00237904  | 5.74148e-05  | -41.4359    | | BD          | Telugu   | Viet          | -0.0023151   | 5.63663e-05  | -41.0725    | | BD          | Telugu   | Han_N         | -0.00229979  | 5.55838e-05  | -41.3752    | | BD          | Telugu   | Japanese      | -0.00225745  | 5.65642e-05  | -39.9095    | | BD          | Telugu   | Phil_Highland | -0.00225153  | 6.87595e-05  | -32.745     | | BD          | Telugu   | Borneo        | -0.00219619  | 5.91978e-05  | -37.0992    | | BD          | Telugu   | Phil          | -0.00209752  | 5.97396e-05  | -35.1111    | | BD          | Telugu   | Cambodians    | -0.00198719  | 4.88719e-05  | -40.6613    | | BD          | Telugu   | Malay         | -0.00195706  | 5.32466e-05  | -36.7547    | | BD          | Telugu   | Burmese       | -0.00183415  | 4.79121e-05  | -38.2816    | | **BD**      | **AA**   | **Telugu**    | -0.000744786 | 4.17995e-05  | -17.818     |
+|             |          |               |              |              |             |
+|-------------|----------|---------------|--------------|--------------|-------------|
+| **Ougroup** | **Pop1** | **Pop2**      | **f3**       | **f3-error** | **Z-score** |
+| BD          | Telugu   | Miao          | -0.00240554  | 6.21107e-05  | -38.7298    |
+| BD          | Telugu   | Han_S         | -0.00238905  | 5.49332e-05  | -43.4901    |
+| BD          | Telugu   | Dai           | -0.00238103  | 5.73977e-05  | -41.4831    |
+| BD          | Telugu   | Han_C         | -0.00237904  | 5.74148e-05  | -41.4359    |
+| BD          | Telugu   | Viet          | -0.0023151   | 5.63663e-05  | -41.0725    |
+| BD          | Telugu   | Han_N         | -0.00229979  | 5.55838e-05  | -41.3752    |
+| BD          | Telugu   | Japanese      | -0.00225745  | 5.65642e-05  | -39.9095    |
+| BD          | Telugu   | Phil_Highland | -0.00225153  | 6.87595e-05  | -32.745     |
+| BD          | Telugu   | Borneo        | -0.00219619  | 5.91978e-05  | -37.0992    |
+| BD          | Telugu   | Phil          | -0.00209752  | 5.97396e-05  | -35.1111    |
+| BD          | Telugu   | Cambodians    | -0.00198719  | 4.88719e-05  | -40.6613    |
+| BD          | Telugu   | Malay         | -0.00195706  | 5.32466e-05  | -36.7547    |
+| BD          | Telugu   | Burmese       | -0.00183415  | 4.79121e-05  | -38.2816    |
+| **BD**      | **AA**   | **Telugu**    | -0.000744786 | 4.17995e-05  | -17.818     |
 
 
 

@@ -15,7 +15,27 @@ Dave Munger has a [post up about discernment when it comes to wine](http://scien
 
 I’ve posted on the genetics of taste and smell. There’s a lot there. As it happens, it seems that there is some variation in the distribution of supertasters across the world. **South Asians have the lowest frequency in general of supertasters.** Some people have hypothesized that this might be due to an adaptation to spice in food; nontasters have a higher tolerance threshold for many flavors because of their insensitivity. I’m skeptical, but it’s an idea. In any case, I’ve reproduced [some data](https://books.google.com/books?id=TqOMfSJdnQoC&pg=PA102&dq=PTC+prop+hindu&ei=7S7SR4a7B5nmtQPp0oylBQ&sig=OYQ89VnfmhwJCNCb0mKKv199u4E) on taste variation between populations. I’ve also calculated the proportion of supertasters, assuming that this is a homozygous inverse of non-tasters. The data below aggregated tasters and supertasters, but a little algebra and [Hardy-Weinberg](https://en.wikipedia.org/wiki/Hardy-Weinberg_principle) assumptions can generate the proportion of supertasters.
 
-|                                   |                |                              | |-----------------------------------|----------------|------------------------------| | **PTC/PROP tasters**              |                |                              | | ***Population***                  | ***% Taster*** | ***Calculated Supertaster*** | | Brazilian Indian                  | 99             | 81                           | | Peruvian                          | 98             | 74                           | | Egyptian                          | 96             | 64                           | | Pure American Indians             | 94             | 57                           | | Ecuadorian Andean                 | 93-95          | 57                           | | Japanese                          | 93-95          | 57                           | | Kenya African                     | 92             | 51                           | | Mixed American Indian X Caucasian | 90             | 47                           | | African Americans                 | 88-91          | 46                           | | Chinese                           | 89             | 45                           | | Ashkenazic Jews                   | 72             | 22                           | | North American Caucasian          | 70             | 20                           | | Mennonites                        | 68-80          | 26                           | | Greek                             | 68             | 19                           | | Hindu                             | 66             | 17                           | | Aborigines                        | 51             | 9                            | | Indian (South)                    | 48             | 8                            |
+|                                   |                |                              |
+|-----------------------------------|----------------|------------------------------|
+| **PTC/PROP tasters**              |                |                              |
+| ***Population***                  | ***% Taster*** | ***Calculated Supertaster*** |
+| Brazilian Indian                  | 99             | 81                           |
+| Peruvian                          | 98             | 74                           |
+| Egyptian                          | 96             | 64                           |
+| Pure American Indians             | 94             | 57                           |
+| Ecuadorian Andean                 | 93-95          | 57                           |
+| Japanese                          | 93-95          | 57                           |
+| Kenya African                     | 92             | 51                           |
+| Mixed American Indian X Caucasian | 90             | 47                           |
+| African Americans                 | 88-91          | 46                           |
+| Chinese                           | 89             | 45                           |
+| Ashkenazic Jews                   | 72             | 22                           |
+| North American Caucasian          | 70             | 20                           |
+| Mennonites                        | 68-80          | 26                           |
+| Greek                             | 68             | 19                           |
+| Hindu                             | 66             | 17                           |
+| Aborigines                        | 51             | 9                            |
+| Indian (South)                    | 48             | 8                            |
 
 For the record, I’m a nontaster, and I have a crappy palette.
 

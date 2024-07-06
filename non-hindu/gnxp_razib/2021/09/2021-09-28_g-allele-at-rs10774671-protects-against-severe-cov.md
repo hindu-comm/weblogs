@@ -23,7 +23,19 @@ Here is a plot for the 1000 Genomes populations.
 
 I looked in Anders Bergstrom’s HGDP whole-genome data and found an interesting pattern in the frequencies of the G alelle:
 
-|                |          |           |        | |----------------|----------|-----------|--------| | **Population** | **Freq** | **Count** | **2N** | | Karitiana      | 0        | 0         | 22     | | Pima           | 0        | 0         | 26     | | Surui          | 0        | 0         | 16     | | Yakut          | 0        | 0         | 50     | | Maya           | 0.04762  | 2         | 42     | | Oroqen         | 0.1111   | 2         | 18     | | Tujia          | 0.1111   | 2         | 18     | | Peruvian       | 0.1118   | 19        | 170    | | She            | 0.15     | 3         | 20     | | Cambodian      | 0.1667   | 3         | 18     |
+|                |          |           |        |
+|----------------|----------|-----------|--------|
+| **Population** | **Freq** | **Count** | **2N** |
+| Karitiana      | 0        | 0         | 22     |
+| Pima           | 0        | 0         | 26     |
+| Surui          | 0        | 0         | 16     |
+| Yakut          | 0        | 0         | 50     |
+| Maya           | 0.04762  | 2         | 42     |
+| Oroqen         | 0.1111   | 2         | 18     |
+| Tujia          | 0.1111   | 2         | 18     |
+| Peruvian       | 0.1118   | 19        | 170    |
+| She            | 0.15     | 3         | 20     |
+| Cambodian      | 0.1667   | 3         | 18     |
 
 Three of the four populations with no copies of the protective G allele are indigenous to the Americas. The Maya, who are known to have European admixture, also have very low frequencies of the G allele. Now, it is true that East Asians also have low frequencies of the G allele (the Yakuts also lack it, so perhaps this was ancestral to Siberians?), but they may have other protective variants (or, suffered through an earlier coronavirus epidemic). I think OAS1 may turn out to be one of the loci that could be associated with a higher risk to severe COVD-19 in the New World.
 

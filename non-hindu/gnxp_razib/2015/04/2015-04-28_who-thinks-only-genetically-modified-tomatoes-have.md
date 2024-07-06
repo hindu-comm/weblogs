@@ -17,11 +17,59 @@ I was curious about opinions about GMO in the [General Social Survey](http://sda
 
 The correct answer is obviously false. But I was curious what proportion of the population would answer “true.” Here are some demographics….
 
-|                                  |                          |        | |:---------------------------------|:-------------------------|-------:| | ****                            |                          | True % | | **Sex**                          | Male                     |   28.3 | | ****                            | Female                   |   31.9 | | ****                            |                          |        | | **Highest level of education**   | Less than HS             |   48.6 | | ****                            | High School              |   33.4 | | ****                            | Junior College           |   36.3 | | ****                            | Bachelor                 |   18.1 | | ****                            | Graduate                 |   17.6 | | ****                            |                          |        | | **Political ideology**           | Liberal                  |   26.8 | | ****                            | Moderate                 |   33.3 | | ****                            | Conservative             |   28.3 | | ****                            |                          |        | | **Belief about nature of God**   | Atheist                  |   25.2 | | ****                            | Agnostic                 |   23.2 | | ****                            | Believe in higher power  |   20.5 | | ****                            | Believe in God sometimes |   30.1 | | ****                            | Believe with some doubts |   34.6 | | ****                            | Know God exists          |   31.8 | | ****                            |                          |        | | **Belief about nature of Bible** | Word of God              |     38 | | ****                            | Inspired word of God     |   31.3 | | ****                            | Book of fables           |   18.2 | | ****                            |                          |        | | **Age**                          | 35 and under             |   34.5 | | ****                            | 35 to 64                 |   24.7 | | ****                            | 65 and over              |   40.8 | | ****                            |                          |        | | **Correct number on vocab test** | 0 to 4                   |   59.1 | | ****                            | 5                        |   41.5 | | ****                            | 6                        |   40.7 | | ****                            | 7                        |   28.6 | | ****                            | 8                        |   13.6 | | ****                            | 9 to 10                  |    7.1 | | ****                            |                          |        |
+|                                  |                          |        |
+|:---------------------------------|:-------------------------|-------:|
+| ****                            |                          | True % |
+| **Sex**                          | Male                     |   28.3 |
+| ****                            | Female                   |   31.9 |
+| ****                            |                          |        |
+| **Highest level of education**   | Less than HS             |   48.6 |
+| ****                            | High School              |   33.4 |
+| ****                            | Junior College           |   36.3 |
+| ****                            | Bachelor                 |   18.1 |
+| ****                            | Graduate                 |   17.6 |
+| ****                            |                          |        |
+| **Political ideology**           | Liberal                  |   26.8 |
+| ****                            | Moderate                 |   33.3 |
+| ****                            | Conservative             |   28.3 |
+| ****                            |                          |        |
+| **Belief about nature of God**   | Atheist                  |   25.2 |
+| ****                            | Agnostic                 |   23.2 |
+| ****                            | Believe in higher power  |   20.5 |
+| ****                            | Believe in God sometimes |   30.1 |
+| ****                            | Believe with some doubts |   34.6 |
+| ****                            | Know God exists          |   31.8 |
+| ****                            |                          |        |
+| **Belief about nature of Bible** | Word of God              |     38 |
+| ****                            | Inspired word of God     |   31.3 |
+| ****                            | Book of fables           |   18.2 |
+| ****                            |                          |        |
+| **Age**                          | 35 and under             |   34.5 |
+| ****                            | 35 to 64                 |   24.7 |
+| ****                            | 65 and over              |   40.8 |
+| ****                            |                          |        |
+| **Correct number on vocab test** | 0 to 4                   |   59.1 |
+| ****                            | 5                        |   41.5 |
+| ****                            | 6                        |   40.7 |
+| ****                            | 7                        |   28.6 |
+| ****                            | 8                        |   13.6 |
+| ****                            | 9 to 10                  |    7.1 |
+| ****                            |                          |        |
 
 I decided to check these variables against a logit regression. The results are as so:
 
-|                                                       |        |           |            |                 |                 | |:------------------------------------------------------|:-------|:----------|:-----------|:----------------|:----------------| | **Logit Coefficients Test That Each Coefficient = 0** |        |           |            |                 |                 | | ****                                                 | **B**  | **SE(B)** | **Exp(B)** | **T-statistic** | **Probability** | | WORDSUM                                               | 0.413  | 0.099     | 1.511      | 4.173           | 0               | | DEGREE                                                | 0.226  | 0.15      | 1.254      | 1.504           | 0.134           | | SEX                                                   | -0.841 | 0.367     | 0.431      | -2.291          | 0.023           | | POLVIEWS                                              | 0.063  | 0.127     | 1.065      | 0.491           | 0.624           | | BIBLE                                                 | -0.068 | 0.242     | 0.934      | -0.28           | 0.779           | | GOD                                                   | -0.076 | 0.145     | 0.926      | -0.525          | 0.6             | | AGE                                                   | -0.003 | 0.01      | 0.997      | -0.258          | 0.796           | | Constant                                              | -0.433 | 1.406     | 0.649      | -0.308          | 0.759           |
+|                                                       |        |           |            |                 |                 |
+|:------------------------------------------------------|:-------|:----------|:-----------|:----------------|:----------------|
+| **Logit Coefficients Test That Each Coefficient = 0** |        |           |            |                 |                 |
+| ****                                                 | **B**  | **SE(B)** | **Exp(B)** | **T-statistic** | **Probability** |
+| WORDSUM                                               | 0.413  | 0.099     | 1.511      | 4.173           | 0               |
+| DEGREE                                                | 0.226  | 0.15      | 1.254      | 1.504           | 0.134           |
+| SEX                                                   | -0.841 | 0.367     | 0.431      | -2.291          | 0.023           |
+| POLVIEWS                                              | 0.063  | 0.127     | 1.065      | 0.491           | 0.624           |
+| BIBLE                                                 | -0.068 | 0.242     | 0.934      | -0.28           | 0.779           |
+| GOD                                                   | -0.076 | 0.145     | 0.926      | -0.525          | 0.6             |
+| AGE                                                   | -0.003 | 0.01      | 0.997      | -0.258          | 0.796           |
+| Constant                                              | -0.433 | 1.406     | 0.649      | -0.308          | 0.759           |
 
 The big variable here that remains very significant is WORDSUM. The score on a vocabulary test from 0 to 10 which has a correlation with [general intelligence of 0.71](http://blogs.discovermagazine.com/gnxp/2010/05/wordsum-iq/). Perhaps only the intelligent can really comprehend or understand this question? Looking at the descriptive results above it shouldn’t be surprising. The educational gap turns out to mostly be explained by WORDSUM. If your remove WORDSUM then DEGREE becomes a very big deal.
 

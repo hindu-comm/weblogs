@@ -9,7 +9,14 @@ Source: [here](https://www.gnxp.com/WordPress/2012/08/16/cultures-genes-paleolit
 
 Cultures & genes: Paleolithic to the Neolithic
 
-|             |                                  |                               |                                   |                                | |-------------|----------------------------------|-------------------------------|-----------------------------------|--------------------------------| |             | **Spatial linguistic variation** | **Spatial genetic variation** | **Temporal linguistic variation** | **Temporal genetic variation** | | Paleolithic | Very high                        | High                          | Moderate-to-high                  | Moderate-to-low                | | Neolithic   | Moderate                         | Moderate-to-low               | Moderate                          | High                           | | Bronze Age  | Moderate-to-low                  | Low                           | Moderate                          | Moderate-to-high               | | Iron Age    | Low                              | Low                           | Moderate-to-low                   | Moderate                       | | Modern Age  | Very low                         | Low                           | Low                               | Moderate-to-low                |
+|             |                                  |                               |                                   |                                |
+|-------------|----------------------------------|-------------------------------|-----------------------------------|--------------------------------|
+|             | **Spatial linguistic variation** | **Spatial genetic variation** | **Temporal linguistic variation** | **Temporal genetic variation** |
+| Paleolithic | Very high                        | High                          | Moderate-to-high                  | Moderate-to-low                |
+| Neolithic   | Moderate                         | Moderate-to-low               | Moderate                          | High                           |
+| Bronze Age  | Moderate-to-low                  | Low                           | Moderate                          | Moderate-to-high               |
+| Iron Age    | Low                              | Low                           | Moderate-to-low                   | Moderate                       |
+| Modern Age  | Very low                         | Low                           | Low                               | Moderate-to-low                |
 
 ------------------------------------------------------------------------
 

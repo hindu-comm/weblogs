@@ -27,7 +27,44 @@ First, I removed all the project samples. So basically I limited it to populatio
 
 ------------------------------------------------------------------------
 
-|                  |                   | |------------------|-------------------| | **Group**        | **Razib \# hits** | | Pathan           | 72                | | Burusho          | 58                | | Hazara           | 47                | | Han              | 26                | | Naxi             | 19                | | North Russian    | 18                | | She              | 18                | | Yizu             | 16                | | Buryat           | 15                | | Miaozu           | 14                | | Chuvash          | 13                | | Adygei           | 12                | | Altai            | 12                | | Uygur            | 12                | | Tuva             | 11                | | Tujia            | 9                 | | Mongol           | 8                 | | Xibo             | 8                 | | Daur             | 7                 | | Yakut            | 7                 | | Athabask         | 5                 | | Evenk            | 5                 | | Oroqen           | 5                 | | Hezhen           | 4                 | | Ilana Fisher     | 4                 | | Maya             | 3                 | | Chukchi          | 2                 | | Ket              | 2                 | | Nganassan        | 2                 | | Vincent Plagnol  | 2                 | | Daniel MacArthur | 1                 | | Joe Pickrell     | 1                 | | Kate Morley      | 1                 | | Komi             | 1                 | | Luke Jostins     | 1                 |
+|                  |                   |
+|------------------|-------------------|
+| **Group**        | **Razib \# hits** |
+| Pathan           | 72                |
+| Burusho          | 58                |
+| Hazara           | 47                |
+| Han              | 26                |
+| Naxi             | 19                |
+| North Russian    | 18                |
+| She              | 18                |
+| Yizu             | 16                |
+| Buryat           | 15                |
+| Miaozu           | 14                |
+| Chuvash          | 13                |
+| Adygei           | 12                |
+| Altai            | 12                |
+| Uygur            | 12                |
+| Tuva             | 11                |
+| Tujia            | 9                 |
+| Mongol           | 8                 |
+| Xibo             | 8                 |
+| Daur             | 7                 |
+| Yakut            | 7                 |
+| Athabask         | 5                 |
+| Evenk            | 5                 |
+| Oroqen           | 5                 |
+| Hezhen           | 4                 |
+| Ilana Fisher     | 4                 |
+| Maya             | 3                 |
+| Chukchi          | 2                 |
+| Ket              | 2                 |
+| Nganassan        | 2                 |
+| Vincent Plagnol  | 2                 |
+| Daniel MacArthur | 1                 |
+| Joe Pickrell     | 1                 |
+| Kate Morley      | 1                 |
+| Komi             | 1                 |
+| Luke Jostins     | 1                 |
 
 ------------------------------------------------------------------------
 
@@ -35,7 +72,26 @@ The raw number of hits isn’t really that informative. But obviously I’m goin
 
 ------------------------------------------------------------------------
 
-|               |                 | |---------------|-----------------| | **Group**     | **Me vs. Mean** | | Pathan        | 0.96            | | Burusho       | 0.69            | | Hazara        | 1.77            | | Han           | 2.04            | | **Naxi**      | **10.86**       | | North Russian | 0.77            | | **She**       | **5.4**         | | **Yizu**      | **4.27**        | | Buryat        | 3               | | Miaozu        | 2.8             | | Chuvash       | 0.85            | | Adygei        | 0.52            | | Altai         | 1.71            | | Uygur         | 1.09            | | Tuva          | 2.2             | | Tujia         | 2.4             | | Mongol        | 2.13            |
+|               |                 |
+|---------------|-----------------|
+| **Group**     | **Me vs. Mean** |
+| Pathan        | 0.96            |
+| Burusho       | 0.69            |
+| Hazara        | 1.77            |
+| Han           | 2.04            |
+| **Naxi**      | **10.86**       |
+| North Russian | 0.77            |
+| **She**       | **5.4**         |
+| **Yizu**      | **4.27**        |
+| Buryat        | 3               |
+| Miaozu        | 2.8             |
+| Chuvash       | 0.85            |
+| Adygei        | 0.52            |
+| Altai         | 1.71            |
+| Uygur         | 1.09            |
+| Tuva          | 2.2             |
+| Tujia         | 2.4             |
+| Mongol        | 2.13            |
 
 ------------------------------------------------------------------------
 

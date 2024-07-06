@@ -15,7 +15,57 @@ I went about this in a relatively straightforward manner. First, I computed the 
 
 Here’s the rank ordered list:
 
-|                |           | |----------------|-----------| | State          | Variation | | Mississippi    | 2.12      | | South Carolina | 1.76      | | Alabama        | 1.65      | | Georgia        | 1.41      | | Louisiana      | 1.28      | | Vermont        | 0.99      | | Massachusetts  | 0.98      | | Rhode Island   | 0.92      | | Texas          | 0.91      | | Utah           | 0.88      | | Arkansas       | 0.87      | | Maine          | 0.80      | | Oklahoma       | 0.71      | | Florida        | 0.71      | | Minnesota      | 0.70      | | New York       | 0.67      | | North Carolina | 0.66      | | Michigan       | 0.64      | | Connecticut    | 0.61      | | Virginia       | 0.60      | | Iowa           | 0.60      | | Pennsylvania   | 0.59      | | Wisconsin      | 0.58      | | South Dakota   | 0.58      | | Idaho          | 0.58      | | Illinois       | 0.57      | | Washington     | 0.57      | | West Virginia  | 0.56      | | Tennessee      | 0.55      | | North Dakota   | 0.54      | | Nebraska       | 0.54      | | New Jersey     | 0.54      | | California     | 0.53      | | Wyoming        | 0.53      | | New Hampshire  | 0.52      | | Arizona        | 0.50      | | Delaware       | 0.50      | | Nevada         | 0.47      | | Kentucky       | 0.47      | | Maryland       | 0.46      | | Oregon         | 0.46      | | Montana        | 0.43      | | Kansas         | 0.41      | | Colorado       | 0.39      | | Missouri       | 0.36      | | Ohio           | 0.32      | | Indiana        | 0.27      | | New Mexico     | 0.27      |
+|                |           |
+|----------------|-----------|
+| State          | Variation |
+| Mississippi    | 2.12      |
+| South Carolina | 1.76      |
+| Alabama        | 1.65      |
+| Georgia        | 1.41      |
+| Louisiana      | 1.28      |
+| Vermont        | 0.99      |
+| Massachusetts  | 0.98      |
+| Rhode Island   | 0.92      |
+| Texas          | 0.91      |
+| Utah           | 0.88      |
+| Arkansas       | 0.87      |
+| Maine          | 0.80      |
+| Oklahoma       | 0.71      |
+| Florida        | 0.71      |
+| Minnesota      | 0.70      |
+| New York       | 0.67      |
+| North Carolina | 0.66      |
+| Michigan       | 0.64      |
+| Connecticut    | 0.61      |
+| Virginia       | 0.60      |
+| Iowa           | 0.60      |
+| Pennsylvania   | 0.59      |
+| Wisconsin      | 0.58      |
+| South Dakota   | 0.58      |
+| Idaho          | 0.58      |
+| Illinois       | 0.57      |
+| Washington     | 0.57      |
+| West Virginia  | 0.56      |
+| Tennessee      | 0.55      |
+| North Dakota   | 0.54      |
+| Nebraska       | 0.54      |
+| New Jersey     | 0.54      |
+| California     | 0.53      |
+| Wyoming        | 0.53      |
+| New Hampshire  | 0.52      |
+| Arizona        | 0.50      |
+| Delaware       | 0.50      |
+| Nevada         | 0.47      |
+| Kentucky       | 0.47      |
+| Maryland       | 0.46      |
+| Oregon         | 0.46      |
+| Montana        | 0.43      |
+| Kansas         | 0.41      |
+| Colorado       | 0.39      |
+| Missouri       | 0.36      |
+| Ohio           | 0.32      |
+| Indiana        | 0.27      |
+| New Mexico     | 0.27      |
 
 And also a chart of the top nine most volatile states over the past 100 years.[![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/09/dems2_htm_m5c272a17.jpg?resize=583%2C567)![](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/09/dems2_htm_m5c272a17.jpg?resize=583%2C567)](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/2012/09/dems2_htm_m5c272a17.jpg)
 

@@ -29,7 +29,14 @@ The slide show below has all the major figures of interest. I’ve also replicat
 
 ------------------------------------------------------------------------
 
-|                                        |                      |               |         |     | |----------------------------------------|----------------------|---------------|---------|-----| | ***mtDNA pairwise Fst by population*** |                      |               |         |     | |                                        | **Hunter-Gatherers** | **Near East** | **LBK** |     | | **Near East**                          | 4.46                 | \*            | \*      |     | | **LBK**                                | 9.9                  | 3.22          | \*      |     | | **Central Europe**                     | 3.67                 | 1             | 4.22    |     | |                                        |                      |               |         |     |
+|                                        |                      |               |         |     |
+|----------------------------------------|----------------------|---------------|---------|-----|
+| ***mtDNA pairwise Fst by population*** |                      |               |         |     |
+|                                        | **Hunter-Gatherers** | **Near East** | **LBK** |     |
+| **Near East**                          | 4.46                 | \*            | \*      |     |
+| **LBK**                                | 9.9                  | 3.22          | \*      |     |
+| **Central Europe**                     | 3.67                 | 1             | 4.22    |     |
+|                                        |                      |               |         |     |
 
 The authors also had an Fst table illustrating genetic distances using mtDNA of ancient and contemporary populations. I’ve cleaned up the table a bit, and standardized the values so that the smallest distance = 1. This is mostly so you can make immediate sense of it. What you clearly see is the enormous genetic distance between Central European hunter-gatherers and LBK, who were present in Germany right before the arrival of farmers. **This comes very close to a falsification of the maximalist pots-not-people model**, whereby farming spread from its point of origin in Anatolia and the Levant through a process of cultural diffusion, just like the alphabet or the potato. The relatively large distance between ancient and modern populations shouldn’t be too surprising, genetic distances [operate across both time and space](http://blogs.discovermagazine.com/gnxp/2009/01/genetic-variation-in-space-time-iceland/). There are interesting inferences one can make about the nature of gene flow over the past 10,000 years in Eurasia when viewing the relatively small distance between the two modern populations, but really the important point for the purposes of this paper is the high wall between the two cultures who practice differing modes of production.
 

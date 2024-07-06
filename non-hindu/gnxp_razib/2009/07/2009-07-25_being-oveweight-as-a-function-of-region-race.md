@@ -23,7 +23,40 @@ Finally, there are obviously other variables. How about looking at the % in a st
 Only 17% of the variance in being overweight can be explained by the proportion who are low income when it comes to **federal criteria.** Since this doesn’t take into account huge national differences of cost of living, I suspect that these data probably exaggerate the real variance of weight explained by income. I suspect that 17% is higher than it would be if these factors were taken into account.  
 Finally, a table which shows the states where there are enough blacks to be counted for in the data, and the black-white difference in proportion who are overweight. Note that in Wisconsin the black and white overweight rates are almost matched.
 
-|                    |           |           |           |           | |--------------------|----------:|----------:|----------:|----------:| |                    | **Total** | **White** | **Black** | **Ratio** | | **Alabama**        |     67.9% |     62.2% |     75.8% |      1.22 | | **Arkansas**       |     65.6% |     62.6% |     71.1% |      1.14 | | **California**     |     61.3% |     56.9% |     68.8% |      1.21 | | **Colorado**       |     59.7% |     51.6% |     60.0% |      1.16 | | **Connecticut**    |     59.7% |     56.5% |     65.2% |      1.15 | | **Delaware**       |     63.6% |     60.9% |     72.0% |      1.18 | | **Florida**        |     60.1% |     56.0% |     73.9% |      1.32 | | **Georgia**        |     64.6% |     60.0% |     71.9% |       1.2 | | **Illinois**       |     63.2% |     58.7% |     72.6% |      1.24 | | **Indiana**        |     63.5% |     61.4% |     68.3% |      1.11 | | **Kansas**         |     65.5% |     63.2% |     74.2% |      1.18 | | **Kentucky**       |     66.6% |     64.7% |     73.7% |      1.14 | | **Louisiana**      |     63.6% |     59.4% |     65.1% |       1.1 | | **Maryland**       |     63.3% |     58.7% |     71.3% |      1.22 | | **Massachusetts**  |     58.0% |     55.2% |     63.2% |      1.15 | | **Michigan**       |     64.6% |     61.9% |     69.6% |      1.13 | | **Mississippi**    |     67.4% |     62.4% |     71.3% |      1.14 | | **Missouri**       |     65.4% |     63.3% |     73.7% |      1.16 | | **New Jersey**     |     62.0% |     57.0% |     69.9% |      1.23 | | **New York**       |     60.2% |     58.5% |     63.9% |      1.09 | | **North Carolina** |     65.7% |     61.3% |     72.3% |      1.18 | | **Ohio**           |     63.3% |     61.1% |     67.6% |      1.11 | | **Oklahoma**       |     66.4% |     63.3% |     70.0% |      1.11 | | **Pennsylvania**   |     64.2% |     61.0% |     72.8% |      1.19 | | **Rhode Island**   |     59.9% |     57.5% |     69.4% |      1.21 | | **South Carolina** |     65.8% |     60.5% |     70.5% |      1.16 | | **Tennessee**      |     67.9% |     63.5% |     73.2% |      1.15 | | **Texas**          |     66.1% |     59.7% |     68.5% |      1.15 | | **Virginia**       |     61.5% |     60.3% |     66.4% |       1.1 | | **Washington**     |     61.8% |     59.8% |     65.7% |       1.1 | | **Wisconsin**      |     63.5% |     61.3% |     62.1% |      1.01 |
+|                    |           |           |           |           |
+|--------------------|----------:|----------:|----------:|----------:|
+|                    | **Total** | **White** | **Black** | **Ratio** |
+| **Alabama**        |     67.9% |     62.2% |     75.8% |      1.22 |
+| **Arkansas**       |     65.6% |     62.6% |     71.1% |      1.14 |
+| **California**     |     61.3% |     56.9% |     68.8% |      1.21 |
+| **Colorado**       |     59.7% |     51.6% |     60.0% |      1.16 |
+| **Connecticut**    |     59.7% |     56.5% |     65.2% |      1.15 |
+| **Delaware**       |     63.6% |     60.9% |     72.0% |      1.18 |
+| **Florida**        |     60.1% |     56.0% |     73.9% |      1.32 |
+| **Georgia**        |     64.6% |     60.0% |     71.9% |       1.2 |
+| **Illinois**       |     63.2% |     58.7% |     72.6% |      1.24 |
+| **Indiana**        |     63.5% |     61.4% |     68.3% |      1.11 |
+| **Kansas**         |     65.5% |     63.2% |     74.2% |      1.18 |
+| **Kentucky**       |     66.6% |     64.7% |     73.7% |      1.14 |
+| **Louisiana**      |     63.6% |     59.4% |     65.1% |       1.1 |
+| **Maryland**       |     63.3% |     58.7% |     71.3% |      1.22 |
+| **Massachusetts**  |     58.0% |     55.2% |     63.2% |      1.15 |
+| **Michigan**       |     64.6% |     61.9% |     69.6% |      1.13 |
+| **Mississippi**    |     67.4% |     62.4% |     71.3% |      1.14 |
+| **Missouri**       |     65.4% |     63.3% |     73.7% |      1.16 |
+| **New Jersey**     |     62.0% |     57.0% |     69.9% |      1.23 |
+| **New York**       |     60.2% |     58.5% |     63.9% |      1.09 |
+| **North Carolina** |     65.7% |     61.3% |     72.3% |      1.18 |
+| **Ohio**           |     63.3% |     61.1% |     67.6% |      1.11 |
+| **Oklahoma**       |     66.4% |     63.3% |     70.0% |      1.11 |
+| **Pennsylvania**   |     64.2% |     61.0% |     72.8% |      1.19 |
+| **Rhode Island**   |     59.9% |     57.5% |     69.4% |      1.21 |
+| **South Carolina** |     65.8% |     60.5% |     70.5% |      1.16 |
+| **Tennessee**      |     67.9% |     63.5% |     73.2% |      1.15 |
+| **Texas**          |     66.1% |     59.7% |     68.5% |      1.15 |
+| **Virginia**       |     61.5% |     60.3% |     66.4% |       1.1 |
+| **Washington**     |     61.8% |     59.8% |     65.7% |       1.1 |
+| **Wisconsin**      |     63.5% |     61.3% |     62.1% |      1.01 |
 
 \* I mislabeled the as “obesity” what should have been “overweight,” just just replace appropriately.
 

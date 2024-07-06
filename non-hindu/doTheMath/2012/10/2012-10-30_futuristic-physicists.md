@@ -135,7 +135,29 @@ Meanwhile the jetpack and time travel questions have the most similar statistics
 
 The table below is organized in rank order according to median opinion among physics faculty members. Within each group sharing the same median, the mean is used as the sorting metric. Columns are given for the mean and percentage of pessimistic responses, followed by a verbal characterization of what the median expert says in response to the question. In cases where the mean is between 1–3, a timescale conversion is offered for the mean opinion.
 
-|                         |               |           |                                  | |-------------------------|---------------|-----------|----------------------------------| | Topic                   | Mean          | % pessim. | median disposition               | | 1\. Autopilot Cars      | 1.4 (125 yr)  | 4         | likely within 50 years           | | 15\. Real Robots        | 2.2 (800 yr)  | 10        | likely within 500 years          | | 13\. Fusion Power       | 2.4 (1300 yr) | 8         | likely within 500 years          | | 10\. Lunar Colony       | 3.2           | 18        | likely within 5000 years         | | 16\. Cloaking Devices   | 3.5           | 32        | likely within 5000 years         | | 20\. 200 Year Lifetime  | 3.3           | 16        | maybe within 5000 years          | | 11\. Martian Colony     | 3.4           | 22        | probably eventually (\>5000 yr)  | | 12\. Terraforming       | 4.1           | 40        | probably eventually (\> 5000 yr) | | 18\. Alien Dialog       | 4.2           | 42        | probably eventually (\> 5000 yr) | | 19\. Alien Visit        | 4.3           | 50        | on the fence                     | | 2\. Jetpack             | 4.1           | 64        | unlikely ever                    | | 14\. Synthesized Food   | 4.2           | 52        | unlikely ever                    | | 8\. Roving Astrophysics | 4.6           | 64        | unlikely ever                    | | 3\. Flying “Cars”       | 3.9           | 60        | unlikely ever                    | | 7\. Visit Black Hole    | 5.1           | 74        | forget about it                  | | 9\. Artificial Gravity  | 5.3           | 84        | forget about it                  | | 4\. Teleportation       | 5.3           | 85        | forget about it                  | | 5\. Warp Drive          | 5.5           | 92        | forget about it                  | | 6\. Wormhole Travel     | 5.5           | 96        | forget about it                  | | 17\. Time Travel        | 5.7           | 92        | forget about it                  |
+|                         |               |           |                                  |
+|-------------------------|---------------|-----------|----------------------------------|
+| Topic                   | Mean          | % pessim. | median disposition               |
+| 1\. Autopilot Cars      | 1.4 (125 yr)  | 4         | likely within 50 years           |
+| 15\. Real Robots        | 2.2 (800 yr)  | 10        | likely within 500 years          |
+| 13\. Fusion Power       | 2.4 (1300 yr) | 8         | likely within 500 years          |
+| 10\. Lunar Colony       | 3.2           | 18        | likely within 5000 years         |
+| 16\. Cloaking Devices   | 3.5           | 32        | likely within 5000 years         |
+| 20\. 200 Year Lifetime  | 3.3           | 16        | maybe within 5000 years          |
+| 11\. Martian Colony     | 3.4           | 22        | probably eventually (\>5000 yr)  |
+| 12\. Terraforming       | 4.1           | 40        | probably eventually (\> 5000 yr) |
+| 18\. Alien Dialog       | 4.2           | 42        | probably eventually (\> 5000 yr) |
+| 19\. Alien Visit        | 4.3           | 50        | on the fence                     |
+| 2\. Jetpack             | 4.1           | 64        | unlikely ever                    |
+| 14\. Synthesized Food   | 4.2           | 52        | unlikely ever                    |
+| 8\. Roving Astrophysics | 4.6           | 64        | unlikely ever                    |
+| 3\. Flying “Cars”       | 3.9           | 60        | unlikely ever                    |
+| 7\. Visit Black Hole    | 5.1           | 74        | forget about it                  |
+| 9\. Artificial Gravity  | 5.3           | 84        | forget about it                  |
+| 4\. Teleportation       | 5.3           | 85        | forget about it                  |
+| 5\. Warp Drive          | 5.5           | 92        | forget about it                  |
+| 6\. Wormhole Travel     | 5.5           | 96        | forget about it                  |
+| 17\. Time Travel        | 5.7           | 92        | forget about it                  |
 
 Note that ten out of twenty are in the trash bin, with an eleventh precariously perched on the rim. Meanwhile grad students put 7 ideas in the trash, and undergrads only managed to get two fully in the can, a third hung on the rim. Thus 3, 7, and 11 ideas are essentially written off in a steady progression of pessimism with level of experience.
 

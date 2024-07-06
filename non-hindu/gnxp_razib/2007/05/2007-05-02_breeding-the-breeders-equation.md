@@ -29,7 +29,18 @@ aaBb = 1 units
 aabb = 0 units  
 Assume that the frequency of the two alleles are the same, p (since the loci are diallelic, p = 0.5 obviously). Within the population 50% of the alleles are A & B, and another 50% are a & b, at each locus, 1 & 2. We can construct the following table of genotype frequencies that segregate within the population assuming p = 0.5 for A & a and B & b:
 
-|              |               |                          |                           | |--------------|---------------|--------------------------|---------------------------| | **Genotype** | **Frequency** | **Phenotype – additive** | **Phenotype – dominance** | | AABB         | 1/16          | 4                        | 2                         | | AABb         | 2/16          | 3                        | 2                         | | AAbb         | 1/16          | 2                        | 1                         | | AaBB         | 2/16          | 3                        | 2                         | | AaBb         | 4/16          | 2                        | 2                         | | Aabb         | 2/16          | 1                        | 1                         | | aaBB         | 1/16          | 2                        | 1                         | | aaBb         | 2/16          | 1                        | 1                         | | aabb         | 1/16          | 0                        | 0                         |
+|              |               |                          |                           |
+|--------------|---------------|--------------------------|---------------------------|
+| **Genotype** | **Frequency** | **Phenotype – additive** | **Phenotype – dominance** |
+| AABB         | 1/16          | 4                        | 2                         |
+| AABb         | 2/16          | 3                        | 2                         |
+| AAbb         | 1/16          | 2                        | 1                         |
+| AaBB         | 2/16          | 3                        | 2                         |
+| AaBb         | 4/16          | 2                        | 2                         |
+| Aabb         | 2/16          | 1                        | 1                         |
+| aaBB         | 1/16          | 2                        | 1                         |
+| aaBb         | 2/16          | 1                        | 1                         |
+| aabb         | 1/16          | 0                        | 0                         |
 
 I’ve included dominance because we’ll discuss this in a bit. In any case, intuitively the proportions should make sense. There is only one way you can obtain a genotype of all “upper case” or “lower case” alleles, so you just multiply the expectations across each slot, 1/2⁴, and you get 1/16. In contrast, there are multiple ways that you can obtain an AaBb genotype. AaBb, aABb, aAbB and AabB are equivalent, so you obtain 4 out of the 16 genotypic conformations.  
 Now, let’s assume that we are selecting a parental population from a subset of the overall population. Genotypes selected are as follows in the proportions given:  

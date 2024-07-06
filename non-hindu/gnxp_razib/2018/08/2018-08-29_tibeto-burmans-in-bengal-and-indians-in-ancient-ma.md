@@ -31,13 +31,47 @@ So can the East Asian ancestry in Bengalis be explained by the Munda? I’ve pos
 
 At K = 10 in the admixture plot above you notice that the cluster modal in Malays and Cambodians accounts for almost all the East Asian ancestry in the Austro-Asiatic Munda sample. In Bengalis that component is found, but so is the proportion modal in Tibetans, and also in Han Chinese. The same pattern is found in the Burmese, but with much higher fractions. In fact, let’s compare average fractions between Bengalis and Burmese.
 
-|             |         |             |                    | |:------------|--------:|------------:|-------------------:| |             | **Han** | **Tibetan** | **Austro-Asiatic** | | **Bengali** |      3% |          4% |                 4% | | **Burmese** |     16% |         34% |                28% |
+|             |         |             |                    |
+|:------------|--------:|------------:|-------------------:|
+|             | **Han** | **Tibetan** | **Austro-Asiatic** |
+| **Bengali** |      3% |          4% |                 4% |
+| **Burmese** |     16% |         34% |                28% |
 
 The Han-model component is kind of general. We can’t reject the possibility I think from these proportions that the East Asian ancestry in Bengalis is exactly the same as that in Burmese…though based on Y chromosomal data I do think there is some Munda ancestry in Bengalis. Additionally, Munda people are found in some numbers even today in Bengal, into Bangladesh (the Santhals).
 
 Looking at results from a three-population test the Tibetan(like) contribution to Bengalis seems likely:
 
-|               |               |             |              |              |          | |:--------------|:--------------|:------------|:-------------|:-------------|:---------| | **outgroup**  | **pop1**      | **pop2**    | **f3**       | **f3-error** | **z**    | | AustroAsiatic | Dai           | Telegu      | -0.00187497  | 0.00012171   | -15.4052 | | AustroAsiatic | Telegu        | Lahu        | -0.00182418  | 0.000124765  | -14.6209 | | AustroAsiatic | Malay         | Telegu      | -0.00135077  | 0.0001035    | -13.0508 | | AustroAsiatic | Han           | Telegu      | -0.00138827  | 0.000112488  | -12.3415 | | AustroAsiatic | Telegu        | Kinh        | -0.00158805  | 0.000130918  | -12.1301 | | AustroAsiatic | Miaozu        | Telegu      | -0.00142974  | 0.00011907   | -12.0076 | | AustroAsiatic | Telegu        | She         | -0.0015296   | 0.000127609  | -11.9866 | | AustroAsiatic | Cambodians    | Telegu      | -0.00135761  | 0.000119312  | -11.3786 | | AustroAsiatic | Telegu        | Tujia       | -0.00137567  | 0.000125184  | -10.9892 | | AustroAsiatic | Telegu        | Naxi        | -0.00106498  | 0.000123643  | -8.61336 | | AustroAsiatic | Telegu        | Japanese    | -0.000991272 | 0.000116507  | -8.50824 | | AustroAsiatic | Yizu          | Telegu      | -0.00111008  | 0.000133985  | -8.28514 | | AustroAsiatic | Telegu        | Han_N       | -0.000844919 | 0.000122055  | -6.92243 | | AustroAsiatic | Telegu        | Tibetan     | -0.000414633 | 0.000109922  | -3.77207 | | AustroAsiatic | Telegu        | Hezhen      | -0.000428829 | 0.000116739  | -3.67339 | | AustroAsiatic | Xibo          | Telegu      | -0.000504054 | 0.000138498  | -3.63943 | | AustroAsiatic | Telegu        | Burmese     | -0.000335967 | 0.000108207  | -3.10485 | | Bengali       | AustroAsiatic | Iranian     | -0.00331738  | 7.5938E-05   | -43.6853 | | Bengali       | Miaozu        | Telegu      | -0.00250784  | 6.12097E-05  | -40.9712 | | Bengali       | Han           | Telegu      | -0.00250669  | 6.11899E-05  | -40.9658 | | **Bengali**   | **Telegu**    | **Tibetan** | -0.0022997   | 5.672E-05    | -40.5448 | | Bengali       | Telegu        | Japanese    | -0.00240064  | 6.02193E-05  | -39.865  | | Bengali       | Dai           | Telegu      | -0.00253233  | 6.53283E-05  | -38.7632 | | Bengali       | Malay         | Telegu      | -0.00212941  | 5.51377E-05  | -38.6199 | | Bengali       | Xibo          | Telegu      | -0.0023685   | 6.24874E-05  | -37.9036 | | Bengali       | Telegu        | Han_N       | -0.00241445  | 6.40346E-05  | -37.7054 | | Bengali       | Telegu        | Burmese     | -0.00205009  | 5.43997E-05  | -37.6857 | | Bengali       | Telegu        | Naxi        | -0.00249315  | 6.66967E-05  | -37.3804 |
+|               |               |             |              |              |          |
+|:--------------|:--------------|:------------|:-------------|:-------------|:---------|
+| **outgroup**  | **pop1**      | **pop2**    | **f3**       | **f3-error** | **z**    |
+| AustroAsiatic | Dai           | Telegu      | -0.00187497  | 0.00012171   | -15.4052 |
+| AustroAsiatic | Telegu        | Lahu        | -0.00182418  | 0.000124765  | -14.6209 |
+| AustroAsiatic | Malay         | Telegu      | -0.00135077  | 0.0001035    | -13.0508 |
+| AustroAsiatic | Han           | Telegu      | -0.00138827  | 0.000112488  | -12.3415 |
+| AustroAsiatic | Telegu        | Kinh        | -0.00158805  | 0.000130918  | -12.1301 |
+| AustroAsiatic | Miaozu        | Telegu      | -0.00142974  | 0.00011907   | -12.0076 |
+| AustroAsiatic | Telegu        | She         | -0.0015296   | 0.000127609  | -11.9866 |
+| AustroAsiatic | Cambodians    | Telegu      | -0.00135761  | 0.000119312  | -11.3786 |
+| AustroAsiatic | Telegu        | Tujia       | -0.00137567  | 0.000125184  | -10.9892 |
+| AustroAsiatic | Telegu        | Naxi        | -0.00106498  | 0.000123643  | -8.61336 |
+| AustroAsiatic | Telegu        | Japanese    | -0.000991272 | 0.000116507  | -8.50824 |
+| AustroAsiatic | Yizu          | Telegu      | -0.00111008  | 0.000133985  | -8.28514 |
+| AustroAsiatic | Telegu        | Han_N       | -0.000844919 | 0.000122055  | -6.92243 |
+| AustroAsiatic | Telegu        | Tibetan     | -0.000414633 | 0.000109922  | -3.77207 |
+| AustroAsiatic | Telegu        | Hezhen      | -0.000428829 | 0.000116739  | -3.67339 |
+| AustroAsiatic | Xibo          | Telegu      | -0.000504054 | 0.000138498  | -3.63943 |
+| AustroAsiatic | Telegu        | Burmese     | -0.000335967 | 0.000108207  | -3.10485 |
+| Bengali       | AustroAsiatic | Iranian     | -0.00331738  | 7.5938E-05   | -43.6853 |
+| Bengali       | Miaozu        | Telegu      | -0.00250784  | 6.12097E-05  | -40.9712 |
+| Bengali       | Han           | Telegu      | -0.00250669  | 6.11899E-05  | -40.9658 |
+| **Bengali**   | **Telegu**    | **Tibetan** | -0.0022997   | 5.672E-05    | -40.5448 |
+| Bengali       | Telegu        | Japanese    | -0.00240064  | 6.02193E-05  | -39.865  |
+| Bengali       | Dai           | Telegu      | -0.00253233  | 6.53283E-05  | -38.7632 |
+| Bengali       | Malay         | Telegu      | -0.00212941  | 5.51377E-05  | -38.6199 |
+| Bengali       | Xibo          | Telegu      | -0.0023685   | 6.24874E-05  | -37.9036 |
+| Bengali       | Telegu        | Han_N       | -0.00241445  | 6.40346E-05  | -37.7054 |
+| Bengali       | Telegu        | Burmese     | -0.00205009  | 5.43997E-05  | -37.6857 |
+| Bengali       | Telegu        | Naxi        | -0.00249315  | 6.66967E-05  | -37.3804 |
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/10/landoftwo.jpeg?resize=179%2C281&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/10/landoftwo.jpeg?resize=179%2C281&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/B06XY1TRNX/geneexpressio-20/ref=as_at/?imprToken=wVVjW3OV.9bq6-KI-51sgA&slotNum=57&creativeASIN=0878933085&linkCode=w61&imprToken=QiG2bf7fc5-czG6VLZ9cSg&slotNum=164)OK, so what do we do with this, and how does it make sense? If you read a book like [Land of Two Rivers](https://www.amazon.com/exec/obidos/ASIN/B06XY1TRNX/geneexpressio-20/ref=as_at/?imprToken=wVVjW3OV.9bq6-KI-51sgA&slotNum=57&creativeASIN=0878933085&linkCode=w61&imprToken=QiG2bf7fc5-czG6VLZ9cSg&slotNum=164), you won’t have any sense that an admixture between a Tibeto-Burman people, and Indo-Aryan speakers, occurred in eastern South Asia 1,500 years ago. To a great extent this is “prehistoric,” hidden from us, even if by that period mentions of the fringes of modern Bengal exist in Classical Indian sources. It is clear that many of the people who lived in Bengal were not part of Aryan society. The later Vedic sources assert this explicitly, mentioning non-Aryan tribes beyond the march.
 

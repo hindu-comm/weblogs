@@ -21,7 +21,29 @@ And of course I’m not the only one with a deep interest in such questions. Wit
   
 But there’s [heritability](https://en.wikipedia.org/wiki/Heritability), and then there’s genes. We know that perception in some ways is heritable, **but what is perhaps more interesting is if you can peg a specific genomic location to it.** Then the evolutionary story becomes all the richer. And so it is with the locus [*TAS2R16*](http://www.ncbi.nlm.nih.gov/pubmed/16051168), where a [nonsynonymous](https://en.wikipedia.org/wiki/Nonsynonymous_substitution) mutation at location 516 seems to result in heightened sensitivity to bitter tastes. More specifically, it’s [rs846664](http://hapmap.ncbi.nlm.nih.gov/cgi-perl/snp_details_phase3?name=rs846664&source=hapmap28_B36&tmpl=snp_details_phase3), and the derived T allele is fixed outside of Africa, while the ancestral G allele still segregates at appreciable fractions within African populations. A new paper in *Molecular Biology and Evolution* puts this locus under a microscope, though it does not come up with any clear conclusions.[Origin and Differential Selection of Allelic Variation at *TAS2R16* Associated with Salicin Bitter Taste Sensitivity in Africa](http://mbe.oxfordjournals.org/content/early/2013/10/30/molbev.mst211)presents some interesting findings. First, let’s look at the distribution of the variation in their sample populations at the SNP of most particular interest:
 
-|                     |                   |           | |---------------------|-------------------|-----------| | **Region**          | **Population**    | **T516G** | |                     |                   |           | | Outside of Africa   | Non-Africans      | 0.000     | | Ethiopia            | Semitic           | 0.059     | | Tanzania            | Sandawe           | 0.083     | | Ethiopia            | Omotic            | 0.093     | | Ethiopia            | Cushitic          | 0.095     | | Tanzania            | Iraqw             | 0.111     | | West Central Africa | Fulani            | 0.114     | | Kenya               | Niger-Kordofanian | 0.133     | | Ethiopia            | Nilo-Saharan      | 0.156     | | Kenya               | Afroasiatic       | 0.162     | | West Central Africa | Niger-Kordofanian | 0.214     | | Kenya               | Nilo-Saharan      | 0.225     | | Kenya               | Luo               | 0.250     | | Central Africa      | Niger-Kordofanian | 0.329     | | Tanzania            | Hadza             | 0.333     | | Central Africa      | Bulala            | 0.361     | | Central Africa      | Nilo-Saharan      | 0.367     | | West Central Africa | Afroasiatic       | 0.462     | | West Central Africa | Nilo-Saharan      | 0.500     |
+|                     |                   |           |
+|---------------------|-------------------|-----------|
+| **Region**          | **Population**    | **T516G** |
+|                     |                   |           |
+| Outside of Africa   | Non-Africans      | 0.000     |
+| Ethiopia            | Semitic           | 0.059     |
+| Tanzania            | Sandawe           | 0.083     |
+| Ethiopia            | Omotic            | 0.093     |
+| Ethiopia            | Cushitic          | 0.095     |
+| Tanzania            | Iraqw             | 0.111     |
+| West Central Africa | Fulani            | 0.114     |
+| Kenya               | Niger-Kordofanian | 0.133     |
+| Ethiopia            | Nilo-Saharan      | 0.156     |
+| Kenya               | Afroasiatic       | 0.162     |
+| West Central Africa | Niger-Kordofanian | 0.214     |
+| Kenya               | Nilo-Saharan      | 0.225     |
+| Kenya               | Luo               | 0.250     |
+| Central Africa      | Niger-Kordofanian | 0.329     |
+| Tanzania            | Hadza             | 0.333     |
+| Central Africa      | Bulala            | 0.361     |
+| Central Africa      | Nilo-Saharan      | 0.367     |
+| West Central Africa | Afroasiatic       | 0.462     |
+| West Central Africa | Nilo-Saharan      | 0.500     |
 
 ------------------------------------------------------------------------
 

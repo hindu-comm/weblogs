@@ -13,7 +13,14 @@ Sequencing costs begin crashing again
 
 [Nathan Taylor](http://praxtime.com/) points out that [sequencing costs](http://www.genome.gov/sequencingcosts/) are crashing again. Not very surprising from what I’ve been hearing about the direction that firms like Illumina are moving. The cost of sequencing isn’t going to be the rate limiting step in the near future. Here’s some raw data for the past year:
 
-|                     |         | |---------------------|---------| | **Cost per genome** |         | | Jul-14              | \$4,905 | | Oct-14              | \$5,731 | | Jan-15              | \$3,970 | | Apr-15              | \$4,211 | | Jul-15              | \$1,363 |
+|                     |         |
+|---------------------|---------|
+| **Cost per genome** |         |
+| Jul-14              | \$4,905 |
+| Oct-14              | \$5,731 |
+| Jan-15              | \$3,970 |
+| Apr-15              | \$4,211 |
+| Jul-15              | \$1,363 |
 
 ### Related Posts:
 

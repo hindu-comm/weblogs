@@ -26,7 +26,26 @@ It’s immediately obvious that the gay rights movement has fostered more tolera
 
 The raw values are below. But observe that the **majority of conservatives and those who believe that the Bible is the Word of God would accede to a homosexual teaching in school.** Times a changin’….
 
-|                         |            |                      |                | |-------------------------|------------|----------------------|----------------| | ***Allow to teach….***  |            |                      |                | | **Demographic**         | **Racist** | **Anti-religionist** | **Homosexual** | | Male                    | 52         | 64                   | 78             | | Female                  | 45         | 62                   | 81             | | White                   | 51         | 65                   | 81             | | Black                   | 41         | 53                   | 75             | | Liberal                 | 54         | 73                   | 87             | | Moderate                | 48         | 62                   | 82             | | Conservative            | 45         | 56                   | 74             | | Protestant              | 45         | 57                   | 74             | | Catholic                | 51         | 62                   | 84             | | No Religion             | 54         | 81                   | 90             | | High School             | 46         | 60                   | 79             | | Bachelor                | 57         | 77                   | 92             | | Graduate                | 58         | 83                   | 94             | | Bible is Word of God    | 41         | 47                   | 66             | | Bible is Inspired Word  | 50         | 67                   | 85             | | Bible is Book of Fables | 59         | 80                   | 91             |
+|                         |            |                      |                |
+|-------------------------|------------|----------------------|----------------|
+| ***Allow to teach….***  |            |                      |                |
+| **Demographic**         | **Racist** | **Anti-religionist** | **Homosexual** |
+| Male                    | 52         | 64                   | 78             |
+| Female                  | 45         | 62                   | 81             |
+| White                   | 51         | 65                   | 81             |
+| Black                   | 41         | 53                   | 75             |
+| Liberal                 | 54         | 73                   | 87             |
+| Moderate                | 48         | 62                   | 82             |
+| Conservative            | 45         | 56                   | 74             |
+| Protestant              | 45         | 57                   | 74             |
+| Catholic                | 51         | 62                   | 84             |
+| No Religion             | 54         | 81                   | 90             |
+| High School             | 46         | 60                   | 79             |
+| Bachelor                | 57         | 77                   | 92             |
+| Graduate                | 58         | 83                   | 94             |
+| Bible is Word of God    | 41         | 47                   | 66             |
+| Bible is Inspired Word  | 50         | 67                   | 85             |
+| Bible is Book of Fables | 59         | 80                   | 91             |
 
 ### Related Posts:
 

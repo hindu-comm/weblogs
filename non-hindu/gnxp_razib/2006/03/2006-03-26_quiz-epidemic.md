@@ -11,7 +11,9 @@ Quiz epidemic
 
 Does my blog own me? Since [girl scientist started it](http://scienceblogs.com/grrlscientist/2006/03/how_much_of_you_does_your_blog.php), I **I*had*** to go along….
 
-|         |     | |---------|-----| | 18.75 % |     |
+|         |     |
+|---------|-----|
+| 18.75 % |     |
 
 My weblog owns 18.75 % of me.  
 [Does your weblog own you?](http://wannabegirl.org/quiz/owned/)

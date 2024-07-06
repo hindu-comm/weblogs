@@ -15,7 +15,17 @@ But there’s a bigger issue with this objection: **most Asians who identify as 
 
 The previous question as to whether someone was a “Religious person,” “Not a religious person,” or a “Convinced atheist,” can be broken down by religion. I did so. Below are the data for Buddhists alone. I also provided the sample size for Buddhists. The overall N’s were on the order of 1,000-2,000. So you can see that only a small minority (5% actually) of Chinese in the People’s Republic identify as Buddhists. The other values are obviously percentages.
 
-|             |       |               |                            |                         | |-------------|-------|---------------|----------------------------|-------------------------| | **Country** | **N** | **Religious** | **Not A Religious Person** | **A Convinced Atheist** | | Japan       | 319   | 37            | 60                         | 3                       | | S Korea     | 298   | 37            | 61                         | 3                       | | China       | 70    | 91            | 9                          | 0                       | | Taiwan      | 224   | 50            | 41                         | 8                       | | Vietnam     | 226   | 62            | 15                         | 23                      | | Hong Kong   | 160   | 100           | 0                          | 0                       | | Thailand    | 1484  | 34            | 66                         | 0                       | | Malaysia    | 240   | 78            | 20                         | 2                       |
+|             |       |               |                            |                         |
+|-------------|-------|---------------|----------------------------|-------------------------|
+| **Country** | **N** | **Religious** | **Not A Religious Person** | **A Convinced Atheist** |
+| Japan       | 319   | 37            | 60                         | 3                       |
+| S Korea     | 298   | 37            | 61                         | 3                       |
+| China       | 70    | 91            | 9                          | 0                       |
+| Taiwan      | 224   | 50            | 41                         | 8                       |
+| Vietnam     | 226   | 62            | 15                         | 23                      |
+| Hong Kong   | 160   | 100           | 0                          | 0                       |
+| Thailand    | 1484  | 34            | 66                         | 0                       |
+| Malaysia    | 240   | 78            | 20                         | 2                       |
 
 ### Related Posts:
 

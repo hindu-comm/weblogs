@@ -29,7 +29,13 @@ In the tables below each cell gives a percentage of the row in the column class.
 
 ------------------------------------------------------------------------
 
-|                    |                                                  |                  |                | |--------------------|--------------------------------------------------|------------------|----------------| |                    | *Verbal intelligence (WORDSUM vocab test score)* |                  |                | |                    | *Dull (0-5)*                                     | *Not dull (6-8)* | *Smart (9-10)* | | Natural Science    | 8                                                | 70               | 22             | | CS & Engineering   | 20                                               | 66               | 14             | | All Degree Holders | 20                                               | 57               | 24             |
+|                    |                                                  |                  |                |
+|--------------------|--------------------------------------------------|------------------|----------------|
+|                    | *Verbal intelligence (WORDSUM vocab test score)* |                  |                |
+|                    | *Dull (0-5)*                                     | *Not dull (6-8)* | *Smart (9-10)* |
+| Natural Science    | 8                                                | 70               | 22             |
+| CS & Engineering   | 20                                               | 66               | 14             |
+| All Degree Holders | 20                                               | 57               | 24             |
 
 ------------------------------------------------------------------------
 

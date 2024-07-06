@@ -27,7 +27,36 @@ I also generated a PCA plot and a Treemix plot, for the sake of comparison.
 
 It’s also useful to look at a few group comparisons and judge them in a global context.
 
-|                    |                         |          | |--------------------|-------------------------|----------| |                    |                         | **Fst**  | | Tamil              | Telugu                  | 0.0011   | | Tamil              | Tamil Scheduled Caste   | 0.0016   | | Tamil              | Bangladeshi             | 0.0024   | | Tamil              | South Indian Brahmin    | 0.0031   | | Tamil              | Uttar Pradesh Brahmin   | 0.0041   | | Tamil              | Sindhi                  | 0.0087   | | Tamil              | Vietnamese              | 0.0668   | | *Southern Chinese* | *Northern Chinese*      | *0.0033* | | *Southern Chinese* | *Vietnamese*            | *0.0034* | | *Southern Chinese* | *Korea*                 | *0.0045* | | *Southern Chinese* | *Japanese*              | *0.0087* | | *Southern Chinese* | *Tamil*                 | *0.0711* | | *Southern Chinese* | *Polish*                | *0.1141* | | Gujurati_Patel     | Telugu                  | 0.0062   | | Gujurati_Patel     | Uttar Pradesh Brahmin   | 0.0065   | | Gujurati_Patel     | Bangladeshi             | 0.0069   | | Gujurati_Patel     | Velama                  | 0.0094   | | Gujurati_Patel     | Sindhi                  | 0.0104   | | Gujurati_Patel     | Polish                  | 0.0405   | | Gujurati_Patel     | Japanese                | 0.0781   | | *GreatBritain*     | *Ireland*               | *0.0015* | | *GreatBritain*     | *Polish*                | *0.0043* | | *GreatBritain*     | *Sicily*                | *0.0077* | | *GreatBritain*     | *Uttar Pradesh Brahmin* | *0.0264* | | *GreatBritain*     | *Tamil*                 | *0.0430* | | *GreatBritain*     | *Korea*                 | *0.1130* | |                    |                         |          |
+|                    |                         |          |
+|--------------------|-------------------------|----------|
+|                    |                         | **Fst**  |
+| Tamil              | Telugu                  | 0.0011   |
+| Tamil              | Tamil Scheduled Caste   | 0.0016   |
+| Tamil              | Bangladeshi             | 0.0024   |
+| Tamil              | South Indian Brahmin    | 0.0031   |
+| Tamil              | Uttar Pradesh Brahmin   | 0.0041   |
+| Tamil              | Sindhi                  | 0.0087   |
+| Tamil              | Vietnamese              | 0.0668   |
+| *Southern Chinese* | *Northern Chinese*      | *0.0033* |
+| *Southern Chinese* | *Vietnamese*            | *0.0034* |
+| *Southern Chinese* | *Korea*                 | *0.0045* |
+| *Southern Chinese* | *Japanese*              | *0.0087* |
+| *Southern Chinese* | *Tamil*                 | *0.0711* |
+| *Southern Chinese* | *Polish*                | *0.1141* |
+| Gujurati_Patel     | Telugu                  | 0.0062   |
+| Gujurati_Patel     | Uttar Pradesh Brahmin   | 0.0065   |
+| Gujurati_Patel     | Bangladeshi             | 0.0069   |
+| Gujurati_Patel     | Velama                  | 0.0094   |
+| Gujurati_Patel     | Sindhi                  | 0.0104   |
+| Gujurati_Patel     | Polish                  | 0.0405   |
+| Gujurati_Patel     | Japanese                | 0.0781   |
+| *GreatBritain*     | *Ireland*               | *0.0015* |
+| *GreatBritain*     | *Polish*                | *0.0043* |
+| *GreatBritain*     | *Sicily*                | *0.0077* |
+| *GreatBritain*     | *Uttar Pradesh Brahmin* | *0.0264* |
+| *GreatBritain*     | *Tamil*                 | *0.0430* |
+| *GreatBritain*     | *Korea*                 | *0.1130* |
+|                    |                         |          |
 
 The non-Brahmin and non-Dalit samples in the 1000 Genomes are not much partitioned much by geography. The Tamil vs. Telugu difference is smaller than that between the British and Irish. Within Tamil Nadu Brahmins though are nearly as different from typical Tamils as Poles are from the English (most of the British sample is English). The biggest differences in Europe are between Sicilians and Northern European groups, which similar in a degree to that between South Indians and Pakistanis. The South Chinese sample is nearly as close to Vietnamese as it is to a North Chinese group, while the difference between Koreans and Chinese is relatively small when compared to the variance you see in South Asia and Europe.
 

@@ -30,7 +30,15 @@ The gene flow from the Utah whites to the Gujuratis is simply an artifact of the
 
 I also ran a three population test where A is the outgroup, and B and C are a clade. A significantly negative f3-statistic indicates admixture in population A. The negative values are listed below:
 
-|              |              |           |              |              |             | |--------------|--------------|-----------|--------------|--------------|-------------| | **A**        | **B**        | **C**     | **f3**       | **f3-error** | **Z-score** | | Gujrati      | Dai          | UtahWhite | -0.00121718  | 0.000140141  | -8.68539    | | South_Africa | EsanNigeria  | UtahWhite | -0.00127718  | 0.000147982  | -8.63059    | | South_Africa | Khoisan_SA   | UtahWhite | -0.0012928   | 0.000151416  | -8.53802    | | Gujrati      | South_Africa | Dai       | -0.000778791 | 0.000155656  | -5.00329    | | South_Africa | Dai          | UtahWhite | -0.000541974 | 0.000133262  | -4.06699    | | South_Africa | UtahWhite    | Gujrati   | -0.000103581 | 8.46193e-05  | -1.22408    |
+|              |              |           |              |              |             |
+|--------------|--------------|-----------|--------------|--------------|-------------|
+| **A**        | **B**        | **C**     | **f3**       | **f3-error** | **Z-score** |
+| Gujrati      | Dai          | UtahWhite | -0.00121718  | 0.000140141  | -8.68539    |
+| South_Africa | EsanNigeria  | UtahWhite | -0.00127718  | 0.000147982  | -8.63059    |
+| South_Africa | Khoisan_SA   | UtahWhite | -0.0012928   | 0.000151416  | -8.53802    |
+| Gujrati      | South_Africa | Dai       | -0.000778791 | 0.000155656  | -5.00329    |
+| South_Africa | Dai          | UtahWhite | -0.000541974 | 0.000133262  | -4.06699    |
+| South_Africa | UtahWhite    | Gujrati   | -0.000103581 | 8.46193e-05  | -1.22408    |
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/convenant.jpeg?resize=184%2C274)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2017/09/convenant.jpeg?resize=184%2C274)](https://www.amazon.com/exec/obidos/ASIN/B00H6JHMMM/geneexpressio-20)This aligns well with the Admixture results. **Afrikaners have both African ancestries, and, Asian ancestry**.
 

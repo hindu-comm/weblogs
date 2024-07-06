@@ -11,7 +11,30 @@ Men are religious fundamentalists
 
 The finding that men are more likely to be secular than women is a relatively robust result. You can note this in the [Pew Religious Survey](https://religions.pewforum.org/pdf/table-gender-by-tradition.pdf), to the point where 70% of self-identified atheists in the United States are male. In places as disparate as East Asia and Latin America women are stereotypically more religiously identified as well (or, religious practice is categorized as a female-identified activity). So what about the [patterns within denominations](https://religions.pewforum.org/pdf/table-gender-by-denomination.pdf)? Men, being more secular in orientation on average, would probably sort into the more liberal and less demanding denominations, right? Not really. See below the fold.
 
-|                                  |                 |                         | |----------------------------------|-----------------|-------------------------| | ***Denomination***               | ***Tradition*** | ***Female:Male Ratio*** | | Nondenominational Fundamentalist | Evangelical     | 0.59                    | | Presbyterian Church in America   | Evangelical     | 0.75                    | | Anglican                         | Mainline        | 0.96                    | | Southern Baptist                 | Evangelical     | 1.04                    | | Episcopal Church                 | Mainline        | 1.08                    | | Nondenominational Evangelical    | Evangelical     | 1.08                    | | Church of God Cleveland          | Evangelical     | 1.13                    | | Church of the Nazarene           | Evangelical     | 1.13                    | | Free Methodist                   | Evangelical     | 1.13                    | | Lutheran Church Missouri Synod   | Evangelical     | 1.13                    | | Independent Baptist              | Evangelical     | 1.17                    | | Presbyterian Church USA          | Mainline        | 1.17                    | | Church of Christ                 | Evangelical     | 1.27                    | | Evangelical Lutheran             | Mainline        | 1.27                    | | Nondenominational Charismatic    | Evangelical     | 1.27                    | | Assemblies of God                | Evangelical     | 1.33                    | | United Methodist                 | Mainline        | 1.33                    | | American Baptist                 | Mainline        | 1.38                    | | 7th-Day Adventist                | Evangelical     | 1.50                    | | United Church of Christ          | Mainline        | 1.56                    | | Disciples of Christ              | Mainline        | 1.70                    |
+|                                  |                 |                         |
+|----------------------------------|-----------------|-------------------------|
+| ***Denomination***               | ***Tradition*** | ***Female:Male Ratio*** |
+| Nondenominational Fundamentalist | Evangelical     | 0.59                    |
+| Presbyterian Church in America   | Evangelical     | 0.75                    |
+| Anglican                         | Mainline        | 0.96                    |
+| Southern Baptist                 | Evangelical     | 1.04                    |
+| Episcopal Church                 | Mainline        | 1.08                    |
+| Nondenominational Evangelical    | Evangelical     | 1.08                    |
+| Church of God Cleveland          | Evangelical     | 1.13                    |
+| Church of the Nazarene           | Evangelical     | 1.13                    |
+| Free Methodist                   | Evangelical     | 1.13                    |
+| Lutheran Church Missouri Synod   | Evangelical     | 1.13                    |
+| Independent Baptist              | Evangelical     | 1.17                    |
+| Presbyterian Church USA          | Mainline        | 1.17                    |
+| Church of Christ                 | Evangelical     | 1.27                    |
+| Evangelical Lutheran             | Mainline        | 1.27                    |
+| Nondenominational Charismatic    | Evangelical     | 1.27                    |
+| Assemblies of God                | Evangelical     | 1.33                    |
+| United Methodist                 | Mainline        | 1.33                    |
+| American Baptist                 | Mainline        | 1.38                    |
+| 7th-Day Adventist                | Evangelical     | 1.50                    |
+| United Church of Christ          | Mainline        | 1.56                    |
+| Disciples of Christ              | Mainline        | 1.70                    |
 
 [Breaking down more directly](https://religions.pewforum.org/pdf/table-gender-by-family.pdf) within each denominational family the evangelical-mainline dichotomy confirms the observation. **Males are more numerous within evangelical & fundamentalist churches, while women are more well represented within the mainline churches.** I can think of many reasons to explain this, but I’ll open up the field to comments….  
 **Note:** I don’t know if the Pew data are representative of the population numbers, but 47% of evangelical Protestants in this survey are male (in non-black denominations), vs. 43% male for mainline….  

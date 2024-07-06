@@ -77,7 +77,25 @@ And just pause to consider: do you think a poll of Peak Prosperity or Do the Mat
 
 The [Wikipedia page](http://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator "Wikipedia: Myers Briggs") has some stats on the prevalence of the 16 types in the U.S. population, as well as some temperament labels. Other sites have their own labels; the table below provides some synthesis.
 
-|         |                  |                    |                                |     | |---------|------------------|--------------------|--------------------------------|-----| | MB Type | Prevalence Range | Adopted Prevalence | labels                         |    | | ISTJ    | 11–15            | 13, 12             | inspector, logistician         |    | | ISTP    | 4–6              | 5, 5               | craftsman, virtuoso            |    | | ISFJ    | 9–15             | 12, 13             | protector, defender            |    | | ISFP    | 5–9              | 7, 9               | adventurer, composer           |    | | INTJ    | 2–4              | 3, 2               | mastermind, architect          |    | | INTP    | 3–5              | 4, 3               | architect, logician            |    | | INFJ    | 1–3              | 2, 2               | counselor, advocate            |    | | INFP    | 4–5              | 4.5, 4             | healer, mediator               |    | | ESTJ    | 8–12             | 10, 9              | supervisor, executive          |    | | ESTP    | 4–5              | 4.5, 4             | promotor, entrepreneur, dynamo |    | | ESFJ    | 9–13             | 11, 12             | provider, consul               |    | | ESFP    | 4–9              | 6.5, 9             | performer, entertainer         |    | | ENTJ    | 2–5              | 3.5, 2             | commander, field marshal       |    | | ENTP    | 2–5              | 3.5, 3             | inventor, debater, visionary   |    | | ENFJ    | 2–25             | 3.5, 3             | teacher, protagonist           |    | | ENFP    | 6–8              | 7, 8               | champion, campaigner           |    |
+|         |                  |                    |                                |     |
+|---------|------------------|--------------------|--------------------------------|-----|
+| MB Type | Prevalence Range | Adopted Prevalence | labels                         |    |
+| ISTJ    | 11–15            | 13, 12             | inspector, logistician         |    |
+| ISTP    | 4–6              | 5, 5               | craftsman, virtuoso            |    |
+| ISFJ    | 9–15             | 12, 13             | protector, defender            |    |
+| ISFP    | 5–9              | 7, 9               | adventurer, composer           |    |
+| INTJ    | 2–4              | 3, 2               | mastermind, architect          |    |
+| INTP    | 3–5              | 4, 3               | architect, logician            |    |
+| INFJ    | 1–3              | 2, 2               | counselor, advocate            |    |
+| INFP    | 4–5              | 4.5, 4             | healer, mediator               |    |
+| ESTJ    | 8–12             | 10, 9              | supervisor, executive          |    |
+| ESTP    | 4–5              | 4.5, 4             | promotor, entrepreneur, dynamo |    |
+| ESFJ    | 9–13             | 11, 12             | provider, consul               |    |
+| ESFP    | 4–9              | 6.5, 9             | performer, entertainer         |    |
+| ENTJ    | 2–5              | 3.5, 2             | commander, field marshal       |    |
+| ENTP    | 2–5              | 3.5, 3             | inventor, debater, visionary   |    |
+| ENFJ    | 2–25             | 3.5, 3             | teacher, protagonist           |    |
+| ENFP    | 6–8              | 7, 8               | champion, campaigner           |    |
 
 For full disclosure, I tweaked the high end of the ISTJ and ISFJ ranges by 1% each so that the sum of average values would come out to 100%. In the “adopted prevalence” column, I put two numbers: the first is the average of the range shown in the second column, and the other comes from the [Truity](http://www.truity.com/view/types "Truity types") site (which also has gender breakdown).
 

@@ -27,7 +27,27 @@ My own view on this is strongly libertarian. I believe that parents make the fin
 
 In 2018 the General Social Survey asked if the respondent “would want to abort fetus if there were genetic defects.” It got responses from about 1,000 people. Obviously what people tell a survey is different from what they might do, but there are some notable demographic variations.
 
-|                                        |                                                                  | |:---------------------------------------|:----------------------------------------------------------------:| |                                        | **Yes, would want to abort fetus if there were genetic defects** | | Liberal                                |                                49                                | | Moderate                               |                                32                                | | Conservative                           |                                19                                | |                                        |                                                                  | | Male                                   |                                33                                | | Female                                 |                                31                                | |                                        |                                                                  | | Supports legal abortion for any reason |                                49                                | |                                        |                                                                  | | Non-college                            |                                27                                | | College                                |                                37                                | | Graduate                               |                                55                                | |                                        |                                                                  | | Protestant                             |                                26                                | | Catholic                               |                                26                                | | Jewish                                 |                                79                                | | No Religion                            |                                45                                | |                                        |                                                                  |
+|                                        |                                                                  |
+|:---------------------------------------|:----------------------------------------------------------------:|
+|                                        | **Yes, would want to abort fetus if there were genetic defects** |
+| Liberal                                |                                49                                |
+| Moderate                               |                                32                                |
+| Conservative                           |                                19                                |
+|                                        |                                                                  |
+| Male                                   |                                33                                |
+| Female                                 |                                31                                |
+|                                        |                                                                  |
+| Supports legal abortion for any reason |                                49                                |
+|                                        |                                                                  |
+| Non-college                            |                                27                                |
+| College                                |                                37                                |
+| Graduate                               |                                55                                |
+|                                        |                                                                  |
+| Protestant                             |                                26                                |
+| Catholic                               |                                26                                |
+| Jewish                                 |                                79                                |
+| No Religion                            |                                45                                |
+|                                        |                                                                  |
 
 ### Related Posts:
 

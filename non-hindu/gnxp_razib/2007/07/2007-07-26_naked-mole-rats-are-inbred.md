@@ -18,14 +18,24 @@ Sometimes you don’t know what you’re missing until you miss it. There has be
 AaBB & AABb  
 The lowercase alleles are deleterious lethals which are fully masked by the presence of a normal copy. So in this case the parents exhibit no reduction in fitness because they both possess good copies on the genetic locus (each locus is represented by a different letter) where they are heterozygous. Now, what happens when you cross the genotypes?
 
-|     |      |      | |-----|------|------| |    | AB   | aB   | | AB  | AABB | aABB | | Ab  | AABb | aABb |
+|     |      |      |
+|-----|------|------|
+|    | AB   | aB   |
+| AB  | AABB | aABB |
+| Ab  | AABb | aABb |
 
 Since the parents have deleterious alleles one different independent loci the complementation, the masking, continues in their offspring. Most of us carry extremely deleterious loci, and these are predominantly masked. The masking is how so many extremely lethal alleles can persist at low frequencies. Recall that in a [Hardy-Weinberg Equilibrium](https://en.wikipedia.org/wiki/Hardy-Weinberg) the resulting genotypes are given diallelic frequencies are defined by:  
 p² + 2pq + q² = 1  
 So imagine that p \~ proportion of wild type and q \~ the proportion of lethals. If only homozygotes, q², is exposed to selection, then at very low frequencies of q the vast majority will be masked within heterozygotes. For example, if q = 0.01, the ratio between copies of the deleterious allele within heterozygotes where selection is not operative (e.g., Aa) to those within homozygotes where it is operative (e.g., aa) is 200 to 1. So 99% of the deleterious alleles are passed on with the same frequency as wild type alleles.  
 Back to our previous example: **but what happens if the offspring mate?** Imagine that AABb & aABb above mate. The result would be like so:
 
-|     |      |            | |-----|------|------------| |    | AB   | Ab         | | aB  | AaBB | AabB       | | ab  | AaBb | ***Aabb*** | | AB  | AABB | AAbB       | | Ab  | AABb | ***AAbb*** |
+|     |      |            |
+|-----|------|------------|
+|    | AB   | Ab         |
+| aB  | AaBB | AabB       |
+| ab  | AaBb | ***Aabb*** |
+| AB  | AABB | AAbB       |
+| Ab  | AABb | ***AAbb*** |
 
 **Now two of the eight combinations are lethal** (see the emphasized genotypes). Inbreeding brings together deleterious alleles on the same locus. This unmasking of recessively expressed alleles results in their purging from the gene pool. But, inbreeding also has the consequence of reducing long term effective population, as everyone soon has all the same ancestors in the recent past, and genetic variation is eliminated from the population very quickly as the smaller population size makes homogenizing [stochastic](https://www.google.com/search?q=stochastic&btnG=Search%21&domains=scienceblogs.com%2Fgnxp&sitesearch=scienceblogs.com%2Fgnxp) forces extremely powerful. Inbreeding is just like a population bottleneck. Exposing deleterious alleles might result in a medium term increase in fitness (note that selection would cull the initial generations extensively), but the resulting genetic architecture would be extremely homogeneous and uniform, and so vulnerable to extinction the long term as selective pressures change.  
 The cheetah is a classic case of a large organism which has gone through a population bottleneck resulting in extreme inbreeding. That is why cheetah can donate skin grafts without consideration of genetic relatedness, they are already extremely homogeneous. Now, how’s that [working out](https://en.wikipedia.org/wiki/Cheetah#Conservation_status) for the cheetah again?

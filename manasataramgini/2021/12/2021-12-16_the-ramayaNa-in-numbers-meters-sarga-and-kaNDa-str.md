@@ -19,7 +19,17 @@ verses; 5 with 4 hemistiches which are essentially agglomerations of 2 complete 
 
 **Table 1**
 
-| Syllables | Frequency | Meter                   | |:----------|----------:|:------------------------| | 32        |     16949 | Anuṣṭubh (Śloka)        | | 44        |       476 | Triṣṭubh (Upendravajrā) | | 48        |       285 | Jagati (Vaṃśastha)      | | 50        |        26 | Puṣpitāgrā              | | 45        |        22 |                         | | 47        |        20 |                         | | 46        |        16 | Aparavaktrā etc.        | | 33        |         8 |                         | | 52        |         7 | Rucirā                  |
+| Syllables | Frequency | Meter                   |
+|:----------|----------:|:------------------------|
+| 32        |     16949 | Anuṣṭubh (Śloka)        |
+| 44        |       476 | Triṣṭubh (Upendravajrā) |
+| 48        |       285 | Jagati (Vaṃśastha)      |
+| 50        |        26 | Puṣpitāgrā              |
+| 45        |        22 |                         |
+| 47        |        20 |                         |
+| 46        |        16 | Aparavaktrā etc.        |
+| 33        |         8 |                         |
+| 52        |         7 | Rucirā                  |
 
 The primary meters are given in the third column with major, specific subtypes in brackets. It should be noted that the type in the bracket is just a widespread version and not the sole version found in the epic. For example, we have triṣṭubh-s of other types like jāyā, buddhi, kīrti, etc. in addition to the common upendravajra. Likewise, with the jagati-s we have versions like kumārī in addition to the prevalent Vaṃśastha. The dominant meter is, of course, the śloka anuṣṭubh. Now, some verses do not match any meter. Since we did not individually check all of them, some may be errors in the preparation of the electronic text — indeed, we corrected several of these. However, some of the 33s are genuine hypermetrical anuṣṭubh-s, like the famous ancient statement in the second hemistich that is hypermetrical:
 

@@ -13,7 +13,24 @@ About a year ago a paper came out, [Low Levels of Genetic Divergence across Geog
 
 In any case, that’s just a preface to the fact that a provisional paper has come out from the same group, [Prevalence of common disease-associated variants in Asian Indians](http://www.biomedcentral.com/1471-2156/9/13). If you’re interested in the topic of the paper, all I have to say is that it seems that the major inference one might make is that more studies need to be done with Asian Indians because they likely have a whole lot of [population-specific](http://www.virtualrenalcentre.com/news.asp?artid=11254) disease variants which aren’t well known yet. Human biodiversity has some practical medical implications. But that’s not what I want to focus on. In Table 4 they have some data on frequency of the minor frequency allele on [SLC24A5](https://www.google.com/search?ie=UTF-8&oe=UTF-8&q=slc24a5&btnG=With+Google&domains=gnxp.com&sitesearch=gnxp.com), which in the case of South Asians is the ancestral variant. That is, the allele which is fixed in Africans and East Asians, and absent in Europeans, is the one shown in the table.
 
-|              |       |                                   | |--------------|-------|-----------------------------------| | **Language** | **N** | **Frequency of ancestral allele** | | Assamese     | 26    | 0.260                             | | Bengali      | 27    | 0.293                             | | Gujarati     | 181   | 0.208                             | | Hindi        | 29    | 0.105                             | | Kannada      | 24    | 0.268                             | | Kashmiri     | 24    | 0.020                             | | Konkani      | 43    | 0.058                             | | Malayalam    | 25    | 0.259                             | | Marathi      | 26    | 0.296                             | | Marwari      | 25    | 0.041                             | | Oriya        | 27    | 0.154                             | | Parsi        | 25    | 0.100                             | | Punjabi      | 28    | 0.052                             | | Tamil        | 29    | 0.036                             | | Telugu       | 28    | 0.000                             |
+|              |       |                                   |
+|--------------|-------|-----------------------------------|
+| **Language** | **N** | **Frequency of ancestral allele** |
+| Assamese     | 26    | 0.260                             |
+| Bengali      | 27    | 0.293                             |
+| Gujarati     | 181   | 0.208                             |
+| Hindi        | 29    | 0.105                             |
+| Kannada      | 24    | 0.268                             |
+| Kashmiri     | 24    | 0.020                             |
+| Konkani      | 43    | 0.058                             |
+| Malayalam    | 25    | 0.259                             |
+| Marathi      | 26    | 0.296                             |
+| Marwari      | 25    | 0.041                             |
+| Oriya        | 27    | 0.154                             |
+| Parsi        | 25    | 0.100                             |
+| Punjabi      | 28    | 0.052                             |
+| Tamil        | 29    | 0.036                             |
+| Telugu       | 28    | 0.000                             |
 
 There’s nothing that surprising here. I wouldn’t take some of the frequencies as scripture; I suspect that some of these linguistic groups are not representative (the frequency for the Gujaratis I can believe since I’ve seen it elsewhere, while the northwestern groups are in line with the ones from the [HGDP](http://www.stanford.edu/group/morrinst/hgdp.html) populations). It seems likely that a strong NW-SE cline on the variation of this gene exists just as it does on many genes in South Asia. There [is data](http://www.springerlink.com/content/986ptl5731n44573/) which shows that in Sri Lanka the frequency of the ancestral allele is 0.75 for Tamils, and 0.50 for Sinhalese. I wouldn’t read too much into these data either; but I’ve seen results elsewhere which would imply that you shouldn’t be surprised at seeing a ancestral allele frequency around \~0.25 for South Asians on SLC24A5. I know this is a provisional paper, and this might get yanked, but I want to point this out:
 

@@ -24,7 +24,17 @@ Bachelor’s Degree = 63
 
 I’ve crossed the ethnic groups with religion & region (RELIG & REGION):
 
-|             |                |              |                 |               |             |           |          | |-------------|----------------|--------------|-----------------|---------------|-------------|-----------|----------| |             | **Protestant** | **Catholic** | **No Religion** | **Northeast** | **Midwest** | **South** | **West** | | **German**  | 50             | 52           | 50              | 50            | 49          | 52        | 51       | | **French**  | 50             | 47           | –               | 47            | 48          | 51        | –        | | **Slavic**  | 50             | 50           | 62              | 50            | 51          | 55        | 55       | | **Nordic**  | 55             | 52           | 52              | 55            | 49          | 58        | 58       | | **Irish**   | 50             | 55           | 49              | 52            | 49          | 51        | 52       | | **Italian** | 53             | 53           | 53              | 53            | 51          | 54        | 54       | | **British** | 54             | 55           | 55              | 54            | 51          | 54        | 57       | | **Dutch**   | 46             | –            | –               | –             | 45          | –         | –        |
+|             |                |              |                 |               |             |           |          |
+|-------------|----------------|--------------|-----------------|---------------|-------------|-----------|----------|
+|             | **Protestant** | **Catholic** | **No Religion** | **Northeast** | **Midwest** | **South** | **West** |
+| **German**  | 50             | 52           | 50              | 50            | 49          | 52        | 51       |
+| **French**  | 50             | 47           | –               | 47            | 48          | 51        | –        |
+| **Slavic**  | 50             | 50           | 62              | 50            | 51          | 55        | 55       |
+| **Nordic**  | 55             | 52           | 52              | 55            | 49          | 58        | 58       |
+| **Irish**   | 50             | 55           | 49              | 52            | 49          | 51        | 52       |
+| **Italian** | 53             | 53           | 53              | 53            | 51          | 54        | 54       |
+| **British** | 54             | 55           | 55              | 54            | 51          | 54        | 57       |
+| **Dutch**   | 46             | –            | –               | –             | 45          | –         | –        |
 
 I omitted cells where the N \< 50. Additionally, “British” aggregates those of Scottish, Welsh, English, and “American” ancestry. Nordic combines those from all the Nordic countries. French includes Quebecois. I’ll let readers speculate, but I’m pretty sure that those with ancestors from Slavic countries of “No Religion” are disproportionately Jews.
 

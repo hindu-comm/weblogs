@@ -11,7 +11,17 @@ The rise of epigenomics
 
 ![Screenshot 2016-08-30 07.49.59](https://i0.wp.com/www.unz.com/wp-content/uploads/2016/08/Screenshot-2016-08-30-07.49.59.png?resize=600%2C551)![Screenshot 2016-08-30 07.49.59](https://i0.wp.com/www.unz.com/wp-content/uploads/2016/08/Screenshot-2016-08-30-07.49.59.png?resize=600%2C551)
 
-|          |                         | |----------|-------------------------| | **Year** | **Google Scholar hits** | | 2000     | 64                      | | 2005     | 271                     | | 2010     | 1670                    | | 2011     | 2210                    | | 2012     | 3200                    | | 2013     | 4020                    | | 2014     | 4380                    | | 2015     | 4820                    |
+|          |                         |
+|----------|-------------------------|
+| **Year** | **Google Scholar hits** |
+| 2000     | 64                      |
+| 2005     | 271                     |
+| 2010     | 1670                    |
+| 2011     | 2210                    |
+| 2012     | 3200                    |
+| 2013     | 4020                    |
+| 2014     | 4380                    |
+| 2015     | 4820                    |
 
 ### Related Posts:
 

@@ -15,7 +15,75 @@ Is beating a woman ever justified?
 
 I was going to cross-reference the data with the World Values Survey (which has a similar question), but I don’t have time right now, so I’ll simply pass on the raw data sorted by country. There’s a rather large gap.
 
-|                      | |:---------------------| | Jordan               | | Guinea               | | Zambia               | | Sierra Leone         | | Lao PDR              | | Ethiopia             | | Congo                | | Somalia              | | Mali                 | | Tajikistan           | | Gambia The           | | Burkina Faso         | | Maldives             | | Uganda               | | Niger                | | Uzbekistan           | | Algeria              | | Kenya                | | Senegal              | | Côte d’Ivoire        | | Nigeria              | | Vietnam              | | Tanzania             | | Liberia              | | Iraq                 | | Cameroon             | | Cambodia             | | India                | | Togo                 | | Guinea-Bissau        | | Egypt                | | Azerbaijan           | | Rwanda               | | Zimbabwe             | | Ghana                | | Benin                | | Turkey               | | Swaziland            | | Kyrgyzstan           | | Turkmenistan         | | Namibia              | | Sao Tome & Principe  | | Albania              | | Haiti                | | Malawi               | | Madagascar           | | Indonesia            | | Philippines          | | Nepal                | | Armenia              | | Moldova              | | Macedonia            | | Mongolia             | | Guyana               | | Nicaragua            | | Honduras             | | Suriname             | | Belize               | | Montenegro           | | Kazakhstan           | | Dominican Republic   | | Trinidad & Tobago    | | Georgia              | | Serbia               | | Jamaica              | | Ukraine              | | Bosnia & Herzegovina |
+|                      |
+|:---------------------|
+| Jordan               |
+| Guinea               |
+| Zambia               |
+| Sierra Leone         |
+| Lao PDR              |
+| Ethiopia             |
+| Congo                |
+| Somalia              |
+| Mali                 |
+| Tajikistan           |
+| Gambia The           |
+| Burkina Faso         |
+| Maldives             |
+| Uganda               |
+| Niger                |
+| Uzbekistan           |
+| Algeria              |
+| Kenya                |
+| Senegal              |
+| Côte d’Ivoire        |
+| Nigeria              |
+| Vietnam              |
+| Tanzania             |
+| Liberia              |
+| Iraq                 |
+| Cameroon             |
+| Cambodia             |
+| India                |
+| Togo                 |
+| Guinea-Bissau        |
+| Egypt                |
+| Azerbaijan           |
+| Rwanda               |
+| Zimbabwe             |
+| Ghana                |
+| Benin                |
+| Turkey               |
+| Swaziland            |
+| Kyrgyzstan           |
+| Turkmenistan         |
+| Namibia              |
+| Sao Tome & Principe  |
+| Albania              |
+| Haiti                |
+| Malawi               |
+| Madagascar           |
+| Indonesia            |
+| Philippines          |
+| Nepal                |
+| Armenia              |
+| Moldova              |
+| Macedonia            |
+| Mongolia             |
+| Guyana               |
+| Nicaragua            |
+| Honduras             |
+| Suriname             |
+| Belize               |
+| Montenegro           |
+| Kazakhstan           |
+| Dominican Republic   |
+| Trinidad & Tobago    |
+| Georgia              |
+| Serbia               |
+| Jamaica              |
+| Ukraine              |
+| Bosnia & Herzegovina |
 
 The gap between Tajikstan and Kyrgyzstan makes me suspicious, the data are from the same survey so there shouldn’t have been differences in the wording of the question.  
 H/T [SM](http://www.sepiamutiny.com/sepia/)

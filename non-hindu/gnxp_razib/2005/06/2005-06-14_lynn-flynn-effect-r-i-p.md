@@ -38,11 +38,24 @@ Basic Academic Subjects Examination](http://arc.missouri.edu/collegebase/) showi
 
 First, the Mathematics section was used becasue its substests load well on g:
 
-|                            |      | |----------------------------|------| | CBASE Math Skill:          | g    | | Geometrical calculations   | .711 | | 2- & 3-Dimensional figures | .687 | | Equations & Inequalities   | .658 | | Evaluating Expressions     | .636 | | Using Statistics           | .770 | | Properties & Notations     | .673 | | Practical Applications     | .736 |
+|                            |      |
+|----------------------------|------|
+| CBASE Math Skill:          | g    |
+| Geometrical calculations   | .711 |
+| 2- & 3-Dimensional figures | .687 |
+| Equations & Inequalities   | .658 |
+| Evaluating Expressions     | .636 |
+| Using Statistics           | .770 |
+| Properties & Notations     | .673 |
+| Practical Applications     | .736 |
 
 Second, from 1996-2001, there has been the same reverse LFE, using Classical Test and Item Response Theory models:
 
-|      |        |        |                                          |                                    | |:----:|:------:|:------:|------------------------------------------|------------------------------------| | Year | Means  |   SD   | CTT Standardized "True Score" Difference | IRT Scaled Latent Trait Difference | | 1996 | 36.214 | 10.219 |                                         |                                   | | 2001 | 34.393 | 10.929 | -.178                                    | -.222                              |
+|      |        |        |                                          |                                    |
+|:----:|:------:|:------:|------------------------------------------|------------------------------------|
+| Year | Means  |   SD   | CTT Standardized "True Score" Difference | IRT Scaled Latent Trait Difference |
+| 1996 | 36.214 | 10.219 |                                         |                                   |
+| 2001 | 34.393 | 10.929 | -.178                                    | -.222                              |
 
 The interpretation of the data is still up-for-grabs; I am in the Burt (1952) camp in thinking that the whole LFE (although, obviously, he didn’t call it that) is just a psychometric artifact hiding a dysgenic trend1. Still no matter if Lynn et al. are correct and there really has been true rise, the effects appear to be leveling off or perhaps dissipating, at least in developed countries (in “still developing” countries the effect [might still be going on](http://www.eldis.org/static/DOC13459.htm)).
 

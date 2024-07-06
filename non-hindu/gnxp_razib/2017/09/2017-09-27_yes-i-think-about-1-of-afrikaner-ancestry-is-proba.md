@@ -29,7 +29,23 @@ Finally, I decided to run Treemix and do a three population test.
 
 Finally, I ran a three population test, which tests gene flow by placing an admixed population as an outgroup to source populations. Negative statistics indicate “complex population history” not accounted for by the tree.
 
-|              |              |             |         |             | |--------------|--------------|-------------|---------|-------------| | **Outgroup** | **Pop 1**    | **Pop 2**   | **f3**  | **Z score** | | Af_American  | Netherlands  | EsanNigeria | -0.0103 | -89.1922    | | Af_American  | UtahWhite    | EsanNigeria | -0.0102 | -88.7189    | | Af_American  | South_Africa | EsanNigeria | -0.0099 | -87.1784    | | Af_American  | Netherlands  | Khoisan_SA  | -0.0034 | -16.6754    | | Af_American  | Khoisan_SA   | UtahWhite   | -0.0033 | -16.5408    | | Af_American  | South_Africa | Khoisan_SA  | -0.0029 | -14.6855    | | South_Africa | Netherlands  | EsanNigeria | -0.0015 | -10.9174    | | South_Africa | Netherlands  | Khoisan_SA  | -0.0015 | -10.5677    | | South_Africa | UtahWhite    | EsanNigeria | -0.0014 | -9.0416     | | South_Africa | Khoisan_SA   | UtahWhite   | -0.0014 | -8.7962     | | South_Africa | Netherlands  | Af_American | -0.0011 | -10.0158    | | South_Africa | Af_American  | UtahWhite   | -0.0010 | -8.1132     | | UtahWhite    | Netherlands  | EsanNigeria | -0.0001 | -1.6344     | | UtahWhite    | Netherlands  | Khoisan_SA  | -0.0001 | -1.6344     |
+|              |              |             |         |             |
+|--------------|--------------|-------------|---------|-------------|
+| **Outgroup** | **Pop 1**    | **Pop 2**   | **f3**  | **Z score** |
+| Af_American  | Netherlands  | EsanNigeria | -0.0103 | -89.1922    |
+| Af_American  | UtahWhite    | EsanNigeria | -0.0102 | -88.7189    |
+| Af_American  | South_Africa | EsanNigeria | -0.0099 | -87.1784    |
+| Af_American  | Netherlands  | Khoisan_SA  | -0.0034 | -16.6754    |
+| Af_American  | Khoisan_SA   | UtahWhite   | -0.0033 | -16.5408    |
+| Af_American  | South_Africa | Khoisan_SA  | -0.0029 | -14.6855    |
+| South_Africa | Netherlands  | EsanNigeria | -0.0015 | -10.9174    |
+| South_Africa | Netherlands  | Khoisan_SA  | -0.0015 | -10.5677    |
+| South_Africa | UtahWhite    | EsanNigeria | -0.0014 | -9.0416     |
+| South_Africa | Khoisan_SA   | UtahWhite   | -0.0014 | -8.7962     |
+| South_Africa | Netherlands  | Af_American | -0.0011 | -10.0158    |
+| South_Africa | Af_American  | UtahWhite   | -0.0010 | -8.1132     |
+| UtahWhite    | Netherlands  | EsanNigeria | -0.0001 | -1.6344     |
+| UtahWhite    | Netherlands  | Khoisan_SA  | -0.0001 | -1.6344     |
 
 The bottom two results can be ignored. What you see is that African Americans have the most negative f3 values with the highest z-scores. There is a drop-off from the Nigerians to the Khoisan as one of the source populations because the Nigerians are a much better fit. The values for South Africans are much lower, which makes sense in light of their lower admixture proportion. But observe that the f3 statistic for using Esan vs. Khoisan is not that different. This suggests neither group is necessarily a better proxy for the other.
 

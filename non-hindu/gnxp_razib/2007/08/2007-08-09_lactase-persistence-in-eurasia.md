@@ -15,7 +15,18 @@ At [my other blog](http://scienceblogs.com/gnxp/2007/08/lactase_persistance_in_e
 
 The Daghestani Nogais are a Turkic group in the Caucasus. None of the rest are technically Caucasian groups. Here are the populations that exhibit H87 with the percentages and N’s:
 
-|                |     |     | |----------------|----:|----:| | Hazara         |   7 |  28 | | Baluch         |   5 |  38 | | Iran           |   3 |  42 | | Kalash         |   3 |  60 | | Sindhi         |   2 |  56 | | Basque         |   2 | 170 | | Makrani Baluch |   2 |  58 | | Utah           |   2 | 184 | | Pathan         |   2 |  56 | | Brahui         |   1 |  60 |
+|                |     |     |
+|----------------|----:|----:|
+| Hazara         |   7 |  28 |
+| Baluch         |   5 |  38 |
+| Iran           |   3 |  42 |
+| Kalash         |   3 |  60 |
+| Sindhi         |   2 |  56 |
+| Basque         |   2 | 170 |
+| Makrani Baluch |   2 |  58 |
+| Utah           |   2 | 184 |
+| Pathan         |   2 |  56 |
+| Brahui         |   1 |  60 |
 
 The N’s aren’t as big as you’d like (I know, this is like saying “I’m not as rich as I wish I were!”). H87 is a haplotype one mutational set away from H98, the modal variant associated with lactase persistence throughout Eurasia. The haplotype two mutational steps away from H98 (see the chart on my other blog), H84, has high frequencies throughout Eurasia, but its center of gravity is shifted toward the east (i.e., France has a far lower proportion than China). I think that this implies that H98 and the dominant LP genetic profile arose somewhere in the heart of Eurasia, probably the north-central regions.
 
@@ -25,7 +36,19 @@ Now, one thing that I am curious about are the non-modal alleles, some of which 
 
 2\) Rather rare. Here are the percentages in the populations which exhibit the haplotypes associated with the more recent mutational event. I’ve also included to the right the percentage in the older cluster, and finally the N’s:
 
-|                |     |     |     | |----------------|----:|----:|----:| | Udmarts        |  15 |  14 |  60 | | Mokshas        |  11 |  14 |  60 | | Erzas          |   5 |  20 |  60 | | Iranian        |   5 |   2 |  42 | | Parsi          |   4 |   6 |  58 | | Baluch         |   2 |  34 |  38 | | Somali         |   2 |   1 | 158 | | Arabs          |   1 |   5 | 102 | | Southern Italy |   1 |   4 | 200 | | Basque         |   1 |  58 | 170 | | Morocco        |   1 |  13 | 180 |
+|                |     |     |     |
+|----------------|----:|----:|----:|
+| Udmarts        |  15 |  14 |  60 |
+| Mokshas        |  11 |  14 |  60 |
+| Erzas          |   5 |  20 |  60 |
+| Iranian        |   5 |   2 |  42 |
+| Parsi          |   4 |   6 |  58 |
+| Baluch         |   2 |  34 |  38 |
+| Somali         |   2 |   1 | 158 |
+| Arabs          |   1 |   5 | 102 |
+| Southern Italy |   1 |   4 | 200 |
+| Basque         |   1 |  58 | 170 |
+| Morocco        |   1 |  13 | 180 |
 
 What to say here? First, the highest frequencies are found in populations along the Urals. Iranians also seem to have high frequencies of the newer alleles. I am curious about the relative balance between the older and newer alleles in several of the higher frequency populations. If the older variant exists why would the newer one rise in frequency over the past few thousand years? If the older variant exists why did it not sweep to fixation? If the selection pressure was too weak (or various  
 balancing forces maintained polymorphism) to fix the older variant why did the newer mutational event begin to rise in frequency in the first place? Here are some thoughts:

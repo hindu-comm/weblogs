@@ -18,7 +18,11 @@ d(strategy 1)/dt = (proportion of strategy 1) X (proportion of strategy 2) X (fi
 Verbally: the change in the proportion of strategy 1 with respect to time is a function of the product of the proportion of strategy 1 and the proportion of strategy 2 and difference in fitness of the two strategies conditional upon their proportions. When the change equals 0 then you have reached an equilibrium point, which can occur when the fitnesses are equal (and so they cancel out in the equation above) or one of the strategies is extinct.  
 Get it? Well, perhaps not…which is why the models are presented in a graphical matrix format. Here is a generic 2 X 2 matrix which shows a two player game with two strategies:
 
-|     |     |     | |-----|-----|-----| |    | A   | B   | | A   | a   | b   | | B   | c   | d   |
+|     |     |     |
+|-----|-----|-----|
+|    | A   | B   |
+| A   | a   | b   |
+| B   | c   | d   |
 
 The small letters are payoffs. One can read them like so:  
 a = the payoff to A when it plays against A  
@@ -40,13 +44,21 @@ Next, let’s move to the famous [Nash Equilibrium](https://en.wikipedia.org/wik
 A mathematical point is that if there are a set of pure strategies there may not be a Nash Equilibrium amongst those pure strategies, but, there will be at least one if you included in mixed strategies (e.g., facultative switching). I take that to mean that nature is filled with Nash Equilibriums (this is true from what I know).  
 Here is a payoff matrix that illustrates the famous [Prisoner’s Dilemma](https://en.wikipedia.org/wiki/Prisoner's_dilemma):
 
-|     |     |     | |-----|-----|-----| |    | A   | B   | | A   | 3   | 0   | | B   | 5   | 1   |
+|     |     |     |
+|-----|-----|-----|
+|    | A   | B   |
+| A   | 3   | 0   |
+| B   | 5   | 1   |
 
 If both players choose “A” (A against A) then they gain a payoff of 3. But, if one player “defects” to B, then they gain 5, while the other has a sucker’s payoff of 0. So what to do? The Nash Equilibrium here is simple: both should pick B, because switching to A from this strategy is irrational. Though the payoff is lower than if they both chose A, one can not guarantee that the other player will also play A, while there is at least some payoff (1) if one chooses B, and the possibility of a larger one (5) if the other player chooses A.  
 OK, to something more explicitly biological, the famous [Evolutionarily Stable Strategy](https://en.wikipedia.org/wiki/Evolutionarily_stable_strategy) (ESS). This is a strategy which resists invasion by another strategy, e.g., A resisting the mutant B. Going back to our payoff matrix above, if either a \> c, or, a = c and b \> d, then A can resist invasion by B. Note, this holds only for infinitely large populations and infinitesimally small numbers of an invader. A strict Nash Equilibrium is an ESS by definition.  
 Finally, I want to end this with the payoff matrix of the Hawk vs. Dove game which I started out with. Here it is:
 
-|     |         |     | |-----|---------|-----| |    | H       | D   | | H   | (b-c)/2 | b   | | D   | 0       | b/2 |
+|     |         |     |
+|-----|---------|-----|
+|    | H       | D   |
+| H   | (b-c)/2 | b   |
+| D   | 0       | b/2 |
 
 This means that:  
 1) Playing Dove against Hawk results in a payoff of 0.  

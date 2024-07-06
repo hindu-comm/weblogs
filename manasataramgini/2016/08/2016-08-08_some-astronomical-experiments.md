@@ -52,7 +52,15 @@ We can then calculate the approximate surface temperature of a star from its B-V
 
 The distribution of temperatures shows 3 distinct peaks. The first and the lowest is around 3600-3700K, the second and the highest around 4600K and the 3rd is around 6400K. The Sun by this method gets T=5766K which is quite a good approximation of the typically cited T=5777K. The distribution is strongly right-skewed with a fat tail of hot stars. We can check a few other stars to see how this formula performs using the Hipparcos data with respect to commonly reported temperatures:
 
-|            |           |            | |------------|-----------|------------| | Star       | T/Formula | T/Reported | | Betelgeuse | 3793K     | 3650K      | | Aldebaran  | 3737K     | 3910K      | | Sun        | 5766K     | 5777K      | | Sirius     | 10014K    | 9940K      | | Rigel      | 10515K    | 12100K     | | Bellatrix  | 14192K    | 22000K     |
+|            |           |            |
+|------------|-----------|------------|
+| Star       | T/Formula | T/Reported |
+| Betelgeuse | 3793K     | 3650K      |
+| Aldebaran  | 3737K     | 3910K      |
+| Sun        | 5766K     | 5777K      |
+| Sirius     | 10014K    | 9940K      |
+| Rigel      | 10515K    | 12100K     |
+| Bellatrix  | 14192K    | 22000K     |
 
 The inaccuracy seems to rise with increasingly lower B-V values. Thus, the actual distribution onf the right tail is likely to be more stretched out rightwards.
 

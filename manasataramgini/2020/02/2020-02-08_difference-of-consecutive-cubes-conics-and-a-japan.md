@@ -47,7 +47,14 @@ line. We then notice the first clear pattern. There are set of regularly arrange
 
 To prove this let us consider those regularly arranged points. The first few of them are tabulated below:
 
-|   x |   y | |----:|----:| |   1 |   6 | |   2 |  17 | |   3 |  34 | |   4 |  57 | |   5 |  86 | |   6 | 121 |
+|   x |   y |
+|----:|----:|
+|   1 |   6 |
+|   2 |  17 |
+|   3 |  34 |
+|   4 |  57 |
+|   5 |  86 |
+|   6 | 121 |
 
 We observe that the
 ![x](https://s0.wp.com/latex.php?latex=x&bg=ffffff&fg=333333&s=0&c=20201002)
@@ -92,7 +99,14 @@ If we look at Figure 2, we find that among the mass of points with apparently no
 ![x](https://s0.wp.com/latex.php?latex=x&bg=ffffff&fg=333333&s=0&c=20201002)
 value and lying on a slim parabola (colored purple). It was this group of points that caught Gokai Ampon’s attention. The first few of the pairs are listed below:
 
-|   x |  y₁ |  y₂ | |----:|----:|----:| |   3 |   4 |  10 | |  12 |  19 |  31 | |  27 |  46 |  64 | |  48 |  85 | 109 | |  75 | 136 | 166 | | 108 | 199 | 235 |
+|   x |  y₁ |  y₂ |
+|----:|----:|----:|
+|   3 |   4 |  10 |
+|  12 |  19 |  31 |
+|  27 |  46 |  64 |
+|  48 |  85 | 109 |
+|  75 | 136 | 166 |
+| 108 | 199 | 235 |
 
 We observe that for these points
 ![x](https://s0.wp.com/latex.php?latex=x&bg=ffffff&fg=333333&s=0&c=20201002)

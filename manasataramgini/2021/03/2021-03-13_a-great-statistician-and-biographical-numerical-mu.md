@@ -48,7 +48,15 @@ We wondered about the precise chance of getting a combination in consecutive set
 Thus, we can reach any integer by the sum of the scores in a certain number of draws (order does not matter as only the sum matters). The draws resulting in scores adding to the first few integers are shown in Table 1.  
 Table 1
 
-| Integer | Draws                                                              | Number | |:--------|:-------------------------------------------------------------------|:-------| | 1       | L                                                                  | 1      | | 2       | D, LL                                                              | 2      | | 3       | T, DL, LLL                                                         | 3      | | 4       | K, TL, DD, DLL, LLLL                                               | 5      | | 5       | KL, TD, TLL, DDL, DLLL, LLLLL                                      | 6      | | 6       | KD, KLL, TT, TDL, TLLL, DDD, DDLL, DLLLL, LLLLLL                   | 9      | | 7       | KT, KDL, KLLL, TTL, TDD, TDLL, TLLLL, DDDL, DDLLL, DLLLLL, LLLLLLL | 11     |
+| Integer | Draws                                                              | Number |
+|:--------|:-------------------------------------------------------------------|:-------|
+| 1       | L                                                                  | 1      |
+| 2       | D, LL                                                              | 2      |
+| 3       | T, DL, LLL                                                         | 3      |
+| 4       | K, TL, DD, DLL, LLLL                                               | 5      |
+| 5       | KL, TD, TLL, DDL, DLLL, LLLLL                                      | 6      |
+| 6       | KD, KLL, TT, TDL, TLLL, DDD, DDLL, DLLLL, LLLLLL                   | 9      |
+| 7       | KT, KDL, KLLL, TTL, TDD, TDLL, TLLLL, DDDL, DDLLL, DLLLLL, LLLLLLL | 11     |
 
 Inspired by Hofstadter, after some trial and error, we were able to formulate an alternating recursion formula to obtain this sequence of the total number of ways of reaching an integer as a sum of integers from 1..4. We first manually compute the first 4 entries as above. Then the odd terms are given by the recursion:  
 ![f\[n\]=f\[n-3\]+f\[n-1\]-f\[n-4\]](https://s0.wp.com/latex.php?latex=f%5Bn%5D%3Df%5Bn-3%5D%2Bf%5Bn-1%5D-f%5Bn-4%5D&bg=ffffff&fg=333333&s=0&c=20201002)  
@@ -92,7 +100,40 @@ Here the ![\\left \\lceil x \\right\\rfloor](https://s0.wp.com/latex.php?latex=%
 is an integer ![\\left \\lceil k+ \\tfrac{1}{2} \\right\\rfloor =k+1](https://s0.wp.com/latex.php?latex=%5Cleft+%5Clceil+k%2B+%5Ctfrac%7B1%7D%7B2%7D+%5Cright%5Crfloor+%3Dk%2B1&bg=ffffff&fg=333333&s=0&c=20201002) and the rest are rounded to the nearest integer.  
 Table 2
 
-| P ≤ n | # triangles | # isosceles | # scalene | |------:|------------:|------------:|----------:| |     3 |           1 |           1 |         0 | |     4 |           1 |           1 |         0 | |     5 |           2 |           2 |         0 | |     6 |           3 |           3 |         0 | |     7 |           5 |           5 |         0 | |     8 |           6 |           6 |         0 | |     9 |           9 |           8 |         1 | |    10 |          11 |          10 |         1 | |    11 |          15 |          13 |         2 | |    12 |          18 |          15 |         3 | |    13 |          23 |          18 |         5 | |    14 |          27 |          21 |         6 | |    15 |          34 |          25 |         9 | |    16 |          39 |          28 |        11 | |    17 |          47 |          32 |        15 | |    18 |          54 |          36 |        18 | |    19 |          64 |          41 |        23 | |    20 |          72 |          45 |        27 | |    21 |          84 |          50 |        34 | |    22 |          94 |          55 |        39 | |    23 |         108 |          61 |        47 | |    24 |         120 |          66 |        54 | |    25 |         136 |          72 |        64 | |    26 |         150 |          78 |        72 | |    27 |         169 |          85 |        84 | |    28 |         185 |          91 |        94 | |    29 |         206 |          98 |       108 | |    30 |         225 |         105 |       120 | |    31 |         249 |         113 |       136 | |    32 |         270 |         120 |       150 | |    33 |         297 |         128 |       169 | |    34 |         321 |         136 |       185 |
+| P ≤ n | # triangles | # isosceles | # scalene |
+|------:|------------:|------------:|----------:|
+|     3 |           1 |           1 |         0 |
+|     4 |           1 |           1 |         0 |
+|     5 |           2 |           2 |         0 |
+|     6 |           3 |           3 |         0 |
+|     7 |           5 |           5 |         0 |
+|     8 |           6 |           6 |         0 |
+|     9 |           9 |           8 |         1 |
+|    10 |          11 |          10 |         1 |
+|    11 |          15 |          13 |         2 |
+|    12 |          18 |          15 |         3 |
+|    13 |          23 |          18 |         5 |
+|    14 |          27 |          21 |         6 |
+|    15 |          34 |          25 |         9 |
+|    16 |          39 |          28 |        11 |
+|    17 |          47 |          32 |        15 |
+|    18 |          54 |          36 |        18 |
+|    19 |          64 |          41 |        23 |
+|    20 |          72 |          45 |        27 |
+|    21 |          84 |          50 |        34 |
+|    22 |          94 |          55 |        39 |
+|    23 |         108 |          61 |        47 |
+|    24 |         120 |          66 |        54 |
+|    25 |         136 |          72 |        64 |
+|    26 |         150 |          78 |        72 |
+|    27 |         169 |          85 |        84 |
+|    28 |         185 |          91 |        94 |
+|    29 |         206 |          98 |       108 |
+|    30 |         225 |         105 |       120 |
+|    31 |         249 |         113 |       136 |
+|    32 |         270 |         120 |       150 |
+|    33 |         297 |         128 |       169 |
+|    34 |         321 |         136 |       185 |
 
 Remarkably, we find that the first scalene triangle appears at
 ![P=9](https://s0.wp.com/latex.php?latex=P%3D9&bg=ffffff&fg=333333&s=0&c=20201002)

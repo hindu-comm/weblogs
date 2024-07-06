@@ -32,7 +32,42 @@ They are displayed in tabular format in the paper. That’s fine, but I decided 
 
 ------------------------------------------------------------------------
 
-|               |                |                |               | |---------------|----------------|----------------|---------------| | **Language**  | **Group**      | **Nation**     | **Tightness** | | Urdu          | South Asian    | Pakistan       | 12.3          | | Malay         | East Asian     | Malaysia       | 11.8          | | Hindi         | South Asian    | India          | 11            | | English       | East Asian     | Singapore      | 10.4          | | Korean        | East Asian     | South Korea    | 10            | | Norwegian     | West European  | Norway         | 9.5           | | Turkish       | Mediterranean  | Turkey         | 9.2           | | Japanese      | East Asian     | Japan          | 8.6           | | Chinese       | East Asian     | China          | 7.9           | | Portuguese    | Mediterranean  | Portugal       | 7.8           | | West European | West European  | Germany (East) | 7.5           | | Spanish       | Latin American | Mexico         | 7.2           | | English       | Anglosphere    | United Kingdom | 6.9           | | West European | West European  | Austria        | 6.8           | | Italian       | Mediterranean  | Italy          | 6.8           | | West European | West European  | Germany (West) | 6.5           | | Icelandic     | West European  | Iceland        | 6.4           | | English       | West European  | France         | 6.3           | | Chinese       | East Asian     | Hong Kong      | 6.3           | | Polish        | Eastern Bloc   | Poland         | 6             | | Dutch         | West European  | Belgium        | 5.6           | | Spanish       | Mediterranean  | Spain          | 5.4           | | English       | Anglosphere    | United States  | 5.1           | | English       | Anglosphere    | Australia      | 4.4           | | Greek         | Mediterranean  | Greece         | 3.9           | | English       | Anglosphere    | New Zealand    | 3.9           | | Spanish       | Latin American | Venezuela      | 3.7           | | Portuguese    | Latin American | Brazil         | 3.5           | | Dutch         | West European  | Netherlands    | 3.3           | | Hebrew        | Mediterranean  | Israel         | 3.1           | | Hungarian     | Eastern Bloc   | Hungary        | 2.9           | | Estonian      | Eastern Bloc   | Estonia        | 2.6           | | Ukrainian     | Eastern Bloc   | Ukraine        | 1.6           |
+|               |                |                |               |
+|---------------|----------------|----------------|---------------|
+| **Language**  | **Group**      | **Nation**     | **Tightness** |
+| Urdu          | South Asian    | Pakistan       | 12.3          |
+| Malay         | East Asian     | Malaysia       | 11.8          |
+| Hindi         | South Asian    | India          | 11            |
+| English       | East Asian     | Singapore      | 10.4          |
+| Korean        | East Asian     | South Korea    | 10            |
+| Norwegian     | West European  | Norway         | 9.5           |
+| Turkish       | Mediterranean  | Turkey         | 9.2           |
+| Japanese      | East Asian     | Japan          | 8.6           |
+| Chinese       | East Asian     | China          | 7.9           |
+| Portuguese    | Mediterranean  | Portugal       | 7.8           |
+| West European | West European  | Germany (East) | 7.5           |
+| Spanish       | Latin American | Mexico         | 7.2           |
+| English       | Anglosphere    | United Kingdom | 6.9           |
+| West European | West European  | Austria        | 6.8           |
+| Italian       | Mediterranean  | Italy          | 6.8           |
+| West European | West European  | Germany (West) | 6.5           |
+| Icelandic     | West European  | Iceland        | 6.4           |
+| English       | West European  | France         | 6.3           |
+| Chinese       | East Asian     | Hong Kong      | 6.3           |
+| Polish        | Eastern Bloc   | Poland         | 6             |
+| Dutch         | West European  | Belgium        | 5.6           |
+| Spanish       | Mediterranean  | Spain          | 5.4           |
+| English       | Anglosphere    | United States  | 5.1           |
+| English       | Anglosphere    | Australia      | 4.4           |
+| Greek         | Mediterranean  | Greece         | 3.9           |
+| English       | Anglosphere    | New Zealand    | 3.9           |
+| Spanish       | Latin American | Venezuela      | 3.7           |
+| Portuguese    | Latin American | Brazil         | 3.5           |
+| Dutch         | West European  | Netherlands    | 3.3           |
+| Hebrew        | Mediterranean  | Israel         | 3.1           |
+| Hungarian     | Eastern Bloc   | Hungary        | 2.9           |
+| Estonian      | Eastern Bloc   | Estonia        | 2.6           |
+| Ukrainian     | Eastern Bloc   | Ukraine        | 1.6           |
 
 ------------------------------------------------------------------------
 
@@ -46,7 +81,22 @@ In the supplements there is a table of correlations between “tightness” and 
 
 ------------------------------------------------------------------------
 
-|                                          |       |                 |             |                 | |------------------------------------------|-------|-----------------|-------------|-----------------| | **Variable**                             | **N** | **Correlation** | **P-value** | **Effect size** | | Population density in 1500 (Log)         | 11    | 0.77            | 0.01        | 0.59            | | Population density (Log)                 | 32    | 0.31            | 0.10        | 0.10            | | Rural Population density (Log)           | 30    | 0.59            | 0.01        | 0.35            | | Food deprivation                         | 30    | 0.52            | 0.01        | 0.27            | | Fat supply                               | 30    | -0.46           | 0.01        | 0.21            | | Natural disaster vulnerability           | 30    | 0.47            | 0.01        | 0.22            | | Historical prevalence of pathogens       | 32    | 0.36            | 0.05        | 0.13            | | Death due to communicable diseases (Log) | 31    | 0.59            | 0.01        | 0.35            | | Prevalence of tuberculosis (Log)         | 31    | 0.61            | 0.01        | 0.37            | | Infant mortality rate (Log)              | 32    | 0.42            | 0.02        | 0.18            | | Openness of media                        | 29    | -0.53           | 0.01        | 0.28            | | Murder rate                              | 31    | -0.45           | 0.01        | 0.20            | | % attending religious services           | 31    | 0.54            | 0.01        | 0.29            |
+|                                          |       |                 |             |                 |
+|------------------------------------------|-------|-----------------|-------------|-----------------|
+| **Variable**                             | **N** | **Correlation** | **P-value** | **Effect size** |
+| Population density in 1500 (Log)         | 11    | 0.77            | 0.01        | 0.59            |
+| Population density (Log)                 | 32    | 0.31            | 0.10        | 0.10            |
+| Rural Population density (Log)           | 30    | 0.59            | 0.01        | 0.35            |
+| Food deprivation                         | 30    | 0.52            | 0.01        | 0.27            |
+| Fat supply                               | 30    | -0.46           | 0.01        | 0.21            |
+| Natural disaster vulnerability           | 30    | 0.47            | 0.01        | 0.22            |
+| Historical prevalence of pathogens       | 32    | 0.36            | 0.05        | 0.13            |
+| Death due to communicable diseases (Log) | 31    | 0.59            | 0.01        | 0.35            |
+| Prevalence of tuberculosis (Log)         | 31    | 0.61            | 0.01        | 0.37            |
+| Infant mortality rate (Log)              | 32    | 0.42            | 0.02        | 0.18            |
+| Openness of media                        | 29    | -0.53           | 0.01        | 0.28            |
+| Murder rate                              | 31    | -0.45           | 0.01        | 0.20            |
+| % attending religious services           | 31    | 0.54            | 0.01        | 0.29            |
 
 ------------------------------------------------------------------------
 

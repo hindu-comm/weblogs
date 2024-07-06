@@ -11,7 +11,65 @@ No surprises….
 
 This [story](http://www.nytimes.com/2005/06/26/international/europe/26turkey.html) that offers that prostitution is legal in Turkey prompted me to survey the legal status of prostitution in nations which are members of the [Organization of Islamic Conference](http://www.oic-oci.org/english/main/member-States.htm). Well, Turkey is an exception, and since I used the [The World Sex Guide](http://www.worldsexguide.com/) (not work friendly!) there was little data on many countries without much sex tourism.
 
-|                      |                     | |----------------------|---------------------| | Nation               | Prostitution Status | | Afghanistan          | \*                  | | Albania              | de jure illegal     | | Algeria              | \*                  | | AZERBAIJAN           | \*                  | | BAHRAIN              | Illegal             | | BANGLADESH           | de jure illegal     | | BENIN                | \*                  | | BRUNEI-DARUSSALAM    | \*                  | | BURKINA-FASO         | \*                  | | CAMEROON             | \*                  | | CHAD                 | \*                  | | COMOROS              | \*                  | | DJIBOUTI             | \*                  | | EGYPT                | Illegal             | | GABON                | \*                  | | GUINEA               | \*                  | | GUINEA-BISSAU        | \*                  | | GUYANA               | \*                  | | INDONESIA            | de jure illegal     | | IRAN                 | \*                  | | IRAQ                 | \*                  | | JORDAN               | \*                  | | KAZAKHSTAN           | Illegal             | | KUWAIT               | \*                  | | KYRGHYZSTAN          | \*                  | | LEBANON              | \*                  | | LIBYA                |                    | | MALAYSIA             | \*                  | | MALDIVES             | \*                  | | MALI                 | \*                  | | MAURITANIA           | \*                  | | MOROCCO              | \*                  | | MOZAMBIQUE           | \*                  | | NIGER                | \*                  | | NIGERIA              | de jure illegal     | | OMAN                 | \*                  | | PAKISTAN             | Illegal             | | QATAR                | \*                  | | SAUDI ARABIA         | \*                  | | SENEGAL              | \*                  | | SIERRA LEONE         | \*                  | | SOMALIA              | \*                  | | SUDAN                | \*                  | | SURINAME             | Legal               | | SYRIA                | \*                  | | TAJIKISTAN           | \*                  | | TOGO                 | \*                  | | TUNISIA              | \*                  | | TURKEY               | Legal               | | TURKMENISTAN         | \*                  | | UGANDA               | \*                  | | UNITED ARAB EMIRATES | \*                  | | UZBEKISTAN           | \*                  | | YEMEN                | \*                  | | COTE D’IVOIRE        | \*                  | |                     |                    |
+|                      |                     |
+|----------------------|---------------------|
+| Nation               | Prostitution Status |
+| Afghanistan          | \*                  |
+| Albania              | de jure illegal     |
+| Algeria              | \*                  |
+| AZERBAIJAN           | \*                  |
+| BAHRAIN              | Illegal             |
+| BANGLADESH           | de jure illegal     |
+| BENIN                | \*                  |
+| BRUNEI-DARUSSALAM    | \*                  |
+| BURKINA-FASO         | \*                  |
+| CAMEROON             | \*                  |
+| CHAD                 | \*                  |
+| COMOROS              | \*                  |
+| DJIBOUTI             | \*                  |
+| EGYPT                | Illegal             |
+| GABON                | \*                  |
+| GUINEA               | \*                  |
+| GUINEA-BISSAU        | \*                  |
+| GUYANA               | \*                  |
+| INDONESIA            | de jure illegal     |
+| IRAN                 | \*                  |
+| IRAQ                 | \*                  |
+| JORDAN               | \*                  |
+| KAZAKHSTAN           | Illegal             |
+| KUWAIT               | \*                  |
+| KYRGHYZSTAN          | \*                  |
+| LEBANON              | \*                  |
+| LIBYA                |                    |
+| MALAYSIA             | \*                  |
+| MALDIVES             | \*                  |
+| MALI                 | \*                  |
+| MAURITANIA           | \*                  |
+| MOROCCO              | \*                  |
+| MOZAMBIQUE           | \*                  |
+| NIGER                | \*                  |
+| NIGERIA              | de jure illegal     |
+| OMAN                 | \*                  |
+| PAKISTAN             | Illegal             |
+| QATAR                | \*                  |
+| SAUDI ARABIA         | \*                  |
+| SENEGAL              | \*                  |
+| SIERRA LEONE         | \*                  |
+| SOMALIA              | \*                  |
+| SUDAN                | \*                  |
+| SURINAME             | Legal               |
+| SYRIA                | \*                  |
+| TAJIKISTAN           | \*                  |
+| TOGO                 | \*                  |
+| TUNISIA              | \*                  |
+| TURKEY               | Legal               |
+| TURKMENISTAN         | \*                  |
+| UGANDA               | \*                  |
+| UNITED ARAB EMIRATES | \*                  |
+| UZBEKISTAN           | \*                  |
+| YEMEN                | \*                  |
+| COTE D’IVOIRE        | \*                  |
+|                     |                    |
 
 Posted by razib at [09:46 PM](https://www.gnxp.com/MT2/archives/004116.html) [](http://js-kit.com/api/static/pop_comments?ref=http://gnxp.com&path=/4116?url=http://www.gnxp.com/MT2/archives/004116.html&thetime=%20062505&MT=true)
 

@@ -16,7 +16,51 @@ How to be more ethical than the Swedes
 
 The whole thing about adopting from affluent countries only seems kind of mean really. I get Martin’s point, but there are other terms for [“small environmental footprint,”](http://img2.photographersdirect.com/img/19309/wm/pd2059320.jpg) and they wouldn’t leave Jeremy Bentham smiling. In any case, here are the [total fertility rates](https://en.wikipedia.org/wiki/List_of_countries_and_territories_by_fertility_rate) for nations below Martin’s homeland of Sweden from *Wikipedia*:
 
-|                   | |------------------:| | **TFR 2005-2010** | |               1.2 | |              1.21 | |              1.22 | |              1.23 | |              1.23 | |              1.24 | |              1.25 | |              1.26 | |              1.27 | |              1.28 | |              1.28 | |              1.29 | |               1.3 | |              1.31 | |              1.33 | |              1.34 | |              1.35 | |              1.36 | |              1.37 | |              1.38 | |              1.39 | |               1.4 | |              1.41 | |              1.41 | |              1.42 | |              1.42 | |              1.43 | |              1.46 | |              1.49 | |              1.49 | |               1.5 | |              1.53 | |              1.61 | |              1.64 | |              1.65 | |              1.66 | |              1.72 | |              1.73 | |              1.79 | |              1.79 | |               1.8 | |               1.8 |
+|                   |
+|------------------:|
+| **TFR 2005-2010** |
+|               1.2 |
+|              1.21 |
+|              1.22 |
+|              1.23 |
+|              1.23 |
+|              1.24 |
+|              1.25 |
+|              1.26 |
+|              1.27 |
+|              1.28 |
+|              1.28 |
+|              1.29 |
+|               1.3 |
+|              1.31 |
+|              1.33 |
+|              1.34 |
+|              1.35 |
+|              1.36 |
+|              1.37 |
+|              1.38 |
+|              1.39 |
+|               1.4 |
+|              1.41 |
+|              1.41 |
+|              1.42 |
+|              1.42 |
+|              1.43 |
+|              1.46 |
+|              1.49 |
+|              1.49 |
+|               1.5 |
+|              1.53 |
+|              1.61 |
+|              1.64 |
+|              1.65 |
+|              1.66 |
+|              1.72 |
+|              1.73 |
+|              1.79 |
+|              1.79 |
+|               1.8 |
+|               1.8 |
 
 Martin’s recommendation about female education is a common one, and based on robust social science. But I recall that demographers have note that in many nations fertility rates have been dropping even faster than expected when noting the levels of literacy attained (e.g., Bangladesh’s TFR is around 3). But what other insights could we learn from these nations which best Sweden?  
 \* Drink a lot, reduce male life expectancy. Slavic countries do really well on this list! I know that the Scandinavian countries have attempted to force reductions in per capita alcohol consumption through taxation, so perhaps that explains their higher fertility vis-a-vis [Russia](http://news.bbc.co.uk/2/hi/europe/5056672.stm).  

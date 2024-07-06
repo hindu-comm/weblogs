@@ -17,7 +17,27 @@ For various reasons, Narasimhan et al. propose that steppe pastoralists who flou
 
 This pattern over time is related to something you see in the geographical and communal distribution of ancestry in the “three-way admixture” you see:
 
-|                      |        |                     |           |                       |            | |----------------------|--------|---------------------|-----------|-----------------------|------------| | **Group**            | **N**  | **Region**          | ** AHG ** | ** Indus_Periphery ** | **Steppe** | | ***Kalash***         | **17** | ** Pakistan **      | **0.042** | **0.660**             | **0.298**  | | *Pathan*             | 17     |  Pakistan           | 0.067     | 0.653                 | 0.281      | | ***Lohana***         | **2**  | ** Gujarat **       | **0.095** | **0.653**             | **0.252**  | | *GujaratiA*          | 4      |  USA                | 0.128     | 0.623                 | 0.249      | | ***Khatri***         | **3**  | ** Punjab **        | **0.138** | **0.599**             | **0.263**  | | *Pandit*             | 4      |  Jammu and Kashmir  | 0.159     | 0.616                 | 0.225      | | *Yadav_Rajasthan*    | 3      |  Rajasthan          | 0.163     | 0.611                 | 0.226      | | *Dogra*              | 5      |  Jammu and Kashmir  | 0.178     | 0.601                 | 0.222      | | *Brahmin_Haryana*    | 2      |  Haryana            | 0.188     | 0.578                 | 0.234      | | *Muslim_Kashmiri*    | 9      |  Jammu and Kashmir  | 0.197     | 0.599                 | 0.204      | | *Yadav_UP*           | 3      |  Uttar Pradesh      | 0.197     | 0.585                 | 0.217      | | *Baniya*             | 4      |  Haryana            | 0.200     | 0.605                 | 0.195      | | *Rajput*             | 3      |  Haryana            | 0.205     | 0.577                 | 0.218      | | ***Bhumihar_Bihar*** | **7**  | ** Bihar **         | **0.208** | **0.518**             | **0.274**  | | *Sikh_Jatt*          | 41     |  Punjab             | 0.212     | 0.535                 | 0.252      | | *Brahmin_Tiwari*     | 16     |  Chhattisgarh       | 0.232     | 0.505                 | 0.263      | | *Bhumihar_UP*        | 8      |  Uttar Pradesh      | 0.238     | 0.523                 | 0.239      | | *Brahmin_UP*         | 7      |  Uttar Pradesh      | 0.243     | 0.503                 | 0.254      |
+|                      |        |                     |           |                       |            |
+|----------------------|--------|---------------------|-----------|-----------------------|------------|
+| **Group**            | **N**  | **Region**          | ** AHG ** | ** Indus_Periphery ** | **Steppe** |
+| ***Kalash***         | **17** | ** Pakistan **      | **0.042** | **0.660**             | **0.298**  |
+| *Pathan*             | 17     |  Pakistan           | 0.067     | 0.653                 | 0.281      |
+| ***Lohana***         | **2**  | ** Gujarat **       | **0.095** | **0.653**             | **0.252**  |
+| *GujaratiA*          | 4      |  USA                | 0.128     | 0.623                 | 0.249      |
+| ***Khatri***         | **3**  | ** Punjab **        | **0.138** | **0.599**             | **0.263**  |
+| *Pandit*             | 4      |  Jammu and Kashmir  | 0.159     | 0.616                 | 0.225      |
+| *Yadav_Rajasthan*    | 3      |  Rajasthan          | 0.163     | 0.611                 | 0.226      |
+| *Dogra*              | 5      |  Jammu and Kashmir  | 0.178     | 0.601                 | 0.222      |
+| *Brahmin_Haryana*    | 2      |  Haryana            | 0.188     | 0.578                 | 0.234      |
+| *Muslim_Kashmiri*    | 9      |  Jammu and Kashmir  | 0.197     | 0.599                 | 0.204      |
+| *Yadav_UP*           | 3      |  Uttar Pradesh      | 0.197     | 0.585                 | 0.217      |
+| *Baniya*             | 4      |  Haryana            | 0.200     | 0.605                 | 0.195      |
+| *Rajput*             | 3      |  Haryana            | 0.205     | 0.577                 | 0.218      |
+| ***Bhumihar_Bihar*** | **7**  | ** Bihar **         | **0.208** | **0.518**             | **0.274**  |
+| *Sikh_Jatt*          | 41     |  Punjab             | 0.212     | 0.535                 | 0.252      |
+| *Brahmin_Tiwari*     | 16     |  Chhattisgarh       | 0.232     | 0.505                 | 0.263      |
+| *Bhumihar_UP*        | 8      |  Uttar Pradesh      | 0.238     | 0.523                 | 0.239      |
+| *Brahmin_UP*         | 7      |  Uttar Pradesh      | 0.243     | 0.503                 | 0.254      |
 
 ![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2019/09/Screenshot-2019-09-12-23.56.32.jpg?resize=300%2C197&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2019/09/Screenshot-2019-09-12-23.56.32.jpg?resize=300%2C197&ssl=1)For those of you vague on the geography, “Bihar” is the state on the eastern edge, near Bangladesh, south of Nepal. Gujarat is in the west, near to southern Pakistan.
 

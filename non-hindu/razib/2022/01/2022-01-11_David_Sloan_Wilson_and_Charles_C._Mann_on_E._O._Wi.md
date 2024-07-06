@@ -33,7 +33,9 @@ Email
 
 Audio playback is not supported on your browser. Please upgrade.
 
-|     |                        |                                                                                                                                                                               |                        |     | |-----|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----| |    | [](javascript:void(0)) | [![](https://cdn.substack.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Faudio-player-play.png)](javascript:void(0)) | [](javascript:void(0)) |    |
+|     |                        |                                                                                                                                                                               |                        |     |
+|-----|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----|
+|    | [](javascript:void(0)) | [![](https://cdn.substack.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Faudio-player-play.png)](javascript:void(0)) | [](javascript:void(0)) |    |
 
 1x1.25x1.5x1.75x2x
 
@@ -65,5 +67,7 @@ One of the things about E. O. Wilson’s life that many have observed was his gr
 
 [Share](https://razib.substack.com/p/david-sloan-wilson-and-charles-c?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
-|                                                                             |                             | |-----------------------------------------------------------------------------|-----------------------------| | [1](https://razib.substack.com/p/david-sloan-wilson-and-charles-c/comments) | [Share](javascript:void(0)) |
+|                                                                             |                             |
+|-----------------------------------------------------------------------------|-----------------------------|
+| [1](https://razib.substack.com/p/david-sloan-wilson-and-charles-c/comments) | [Share](javascript:void(0)) |
 

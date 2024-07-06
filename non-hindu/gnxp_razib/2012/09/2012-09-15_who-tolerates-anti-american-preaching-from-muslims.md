@@ -26,7 +26,33 @@ The question was asked in 2008 and 2010. Since the sample sizes are large I’ll
 
 Now in tabular format.
 
-|                                        |                                                   | |----------------------------------------|---------------------------------------------------| | ***Non-Hispanic whites, 2008 & 2010*** |                                                   | | **Demographic**                        | **Allow Muslim clergymen to preach hatred of US** | | Male                                   | 52.6                                              | | Female                                 | 39.7                                              | | \< HS                                  | 19                                                | | High School                            | 38.2                                              | | Junior College                         | 45.3                                              | | Bachelor                               | 62.5                                              | | Graduate                               | 71.6                                              | | Stupid                                 | 28                                                | | Average                                | 43.7                                              | | Smart                                  | 73.6                                              | | Liberal                                | 59.9                                              | | Moderate                               | 40.6                                              | | Conservative                           | 43.6                                              | | 18-34 years old                        | 49.3                                              | | 35-64 years old                        | 48.5                                              | | 65-\* years old                        | 33.4                                              | | Protestant                             | 40.7                                              | | Catholic                               | 43.6                                              | | Jewish                                 | 45.7                                              | | No religion                            | 61.1                                              | | Word of God                            | 26.6                                              | | Inspired Word of God                   | 48                                                | | Book of Fables                         | 66.1                                              |
+|                                        |                                                   |
+|----------------------------------------|---------------------------------------------------|
+| ***Non-Hispanic whites, 2008 & 2010*** |                                                   |
+| **Demographic**                        | **Allow Muslim clergymen to preach hatred of US** |
+| Male                                   | 52.6                                              |
+| Female                                 | 39.7                                              |
+| \< HS                                  | 19                                                |
+| High School                            | 38.2                                              |
+| Junior College                         | 45.3                                              |
+| Bachelor                               | 62.5                                              |
+| Graduate                               | 71.6                                              |
+| Stupid                                 | 28                                                |
+| Average                                | 43.7                                              |
+| Smart                                  | 73.6                                              |
+| Liberal                                | 59.9                                              |
+| Moderate                               | 40.6                                              |
+| Conservative                           | 43.6                                              |
+| 18-34 years old                        | 49.3                                              |
+| 35-64 years old                        | 48.5                                              |
+| 65-\* years old                        | 33.4                                              |
+| Protestant                             | 40.7                                              |
+| Catholic                               | 43.6                                              |
+| Jewish                                 | 45.7                                              |
+| No religion                            | 61.1                                              |
+| Word of God                            | 26.6                                              |
+| Inspired Word of God                   | 48                                                |
+| Book of Fables                         | 66.1                                              |
 
 The exact row variables in the GSS:
 

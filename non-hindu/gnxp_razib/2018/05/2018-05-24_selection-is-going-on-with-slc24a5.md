@@ -26,7 +26,49 @@ It turns out that this mutation, the derived variant, is almost disjoint is freq
 
 To get a sense of where my intuitions come from you need **to look at allele counts within populations**. Using [1000 Genomes](http://useast.ensembl.org/Homo_sapiens/Variation/Population?db=core;r=15:48133787-48134787;v=rs1426654;vdb=variation;vf=989832), [Yale’s Alfred](https://alfred.med.yale.edu/alfred/SiteTable1A_working.asp?siteuid=SI007419V), and [Gnomad](https://gnomad.broadinstitute.org/)I assembled a representative list to give you a sense of what’s going on. Using 126,548 counted alleles in Gnomad for individuals of European (non-Finnish) descent you see that 0.38% out of the total, 486, areancestral.
 
-|                              |                       |                   |          | |------------------------------|-----------------------|-------------------|----------| | **Population**               | **Ancestral alleles** | **Total alleles** | **Freq** | | Samaritan                    | 0                     | 74                | 0%       | | Basque                       | 0                     | 216               | 0%       | | Greeks (Thrace, Athens)      | 0                     | 184               | 0%       | | Burusho                      | 0                     | 50                | 0%       | | Pandit Brahmin, Kashmir      | 0                     | 40                | 0%       | | European (Non-Finnish)       | 486                   | 126548            | 0%       | | Ashkenazi Jewish             | 47                    | 10148             | 0%       | | European (Finnish)           | 329                   | 25790             | 1%       | | Iraq Kurds                   | 1                     | 68                | 2%       | | Yemenite Jews                | 2                     | 78                | 3%       | | Havyaka Brahmin, Karnataka   | 2                     | 62                | 3%       | | Palestinian                  | 4                     | 122               | 3%       | | Gujarati                     | 10                    | 206               | 5%       | | Tunisian Berber              | 6                     | 110               | 5%       | | Andalusian                   | 14                    | 252               | 6%       | | Iranian                      | 6                     | 84                | 7%       | | Pashtun                      | 21                    | 190               | 11%      | | Uttar Pradesh Brahmin        | 4                     | 34                | 12%      | | Pandit Brahmin, Haryana      | 13                    | 78                | 17%      | | Punjabi                      | 42                    | 192               | 22%      | | South Asian                  | 6921                  | 30774             | 22%      | | Kalash                       | 14                    | 48                | 29%      | | Telugu                       | 71                    | 204               | 35%      | | Bangladeshi                  | 80                    | 172               | 47%      | | Sri Lanka Tamil              | 105                   | 204               | 51%      | | Adi-Dravida, Karnataka       | 21                    | 34                | 62%      | | Masai Kenya                  | 192                   | 286               | 67%      | | Austro-Asiatic tribe, Odisha | 43                    | 56                | 77%      | | Luhya Kenya                  | 155                   | 188               | 82%      | | Hausa                        | 68                    | 76                | 90%      | | Mende Sierra Leone           | 155                   | 170               | 91%      | | Gambian                      | 209                   | 226               | 92%      | | Ibo                          | 90                    | 94                | 96%      | | Austro-Asiatic tribe, Odisha | 92                    | 96                | 96%      | | Esan Nigeria                 | 193                   | 198               | 97%      | | Yoruba Nigeria               | 213                   | 216               | 99%      | | Biaka                        | 135                   | 136               | 99%      | | East Asian                   | 18728                 | 18856             | 99%      | | Ghana                        | 140                   | 140               | 100%     | | Mbuti                        | 74                    | 74                | 100%     |
+|                              |                       |                   |          |
+|------------------------------|-----------------------|-------------------|----------|
+| **Population**               | **Ancestral alleles** | **Total alleles** | **Freq** |
+| Samaritan                    | 0                     | 74                | 0%       |
+| Basque                       | 0                     | 216               | 0%       |
+| Greeks (Thrace, Athens)      | 0                     | 184               | 0%       |
+| Burusho                      | 0                     | 50                | 0%       |
+| Pandit Brahmin, Kashmir      | 0                     | 40                | 0%       |
+| European (Non-Finnish)       | 486                   | 126548            | 0%       |
+| Ashkenazi Jewish             | 47                    | 10148             | 0%       |
+| European (Finnish)           | 329                   | 25790             | 1%       |
+| Iraq Kurds                   | 1                     | 68                | 2%       |
+| Yemenite Jews                | 2                     | 78                | 3%       |
+| Havyaka Brahmin, Karnataka   | 2                     | 62                | 3%       |
+| Palestinian                  | 4                     | 122               | 3%       |
+| Gujarati                     | 10                    | 206               | 5%       |
+| Tunisian Berber              | 6                     | 110               | 5%       |
+| Andalusian                   | 14                    | 252               | 6%       |
+| Iranian                      | 6                     | 84                | 7%       |
+| Pashtun                      | 21                    | 190               | 11%      |
+| Uttar Pradesh Brahmin        | 4                     | 34                | 12%      |
+| Pandit Brahmin, Haryana      | 13                    | 78                | 17%      |
+| Punjabi                      | 42                    | 192               | 22%      |
+| South Asian                  | 6921                  | 30774             | 22%      |
+| Kalash                       | 14                    | 48                | 29%      |
+| Telugu                       | 71                    | 204               | 35%      |
+| Bangladeshi                  | 80                    | 172               | 47%      |
+| Sri Lanka Tamil              | 105                   | 204               | 51%      |
+| Adi-Dravida, Karnataka       | 21                    | 34                | 62%      |
+| Masai Kenya                  | 192                   | 286               | 67%      |
+| Austro-Asiatic tribe, Odisha | 43                    | 56                | 77%      |
+| Luhya Kenya                  | 155                   | 188               | 82%      |
+| Hausa                        | 68                    | 76                | 90%      |
+| Mende Sierra Leone           | 155                   | 170               | 91%      |
+| Gambian                      | 209                   | 226               | 92%      |
+| Ibo                          | 90                    | 94                | 96%      |
+| Austro-Asiatic tribe, Odisha | 92                    | 96                | 96%      |
+| Esan Nigeria                 | 193                   | 198               | 97%      |
+| Yoruba Nigeria               | 213                   | 216               | 99%      |
+| Biaka                        | 135                   | 136               | 99%      |
+| East Asian                   | 18728                 | 18856             | 99%      |
+| Ghana                        | 140                   | 140               | 100%     |
+| Mbuti                        | 74                    | 74                | 100%     |
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/01/whoweare.png?resize=183%2C276&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/01/whoweare.png?resize=183%2C276&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/110187032X/geneexpressio-20/ref=as_at/?imprToken=pZKmcNNvVeCrk0MGBsM1nQ&slotNum=12&imprToken=mpDM3JSs1wgKS4uL.99NHw&slotNum=0&creativeASIN=110187032X&linkCode=w61&imprToken=OgM73TDinq7-x8ezy5iRxg&slotNum=17)Last fall [Crawford et al.](http://science.sciencemag.org/content/early/2017/10/11/science.aan8433.full) reported thatrs1426654 is embedded in a haplotype that’s about \~30,000 years ago. Additionally, they contend that its presence within Africa is probably no earlier than the Holocene, the last \~12,000 years. [Martin et al.](https://www.cell.com/cell/pdf/S0092-8674(17)31324-7.pdf) report that KhoeSan exhibit higher frequencies of the derived allele because of Eurasian back-migration and then*in situ*natural selection. Of course, not all Eurasians. Most East Asians have the ancestral variant ofrs1426654.
 

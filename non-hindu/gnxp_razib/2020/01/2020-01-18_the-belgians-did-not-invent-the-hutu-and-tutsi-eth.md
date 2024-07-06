@@ -31,7 +31,34 @@ That being said, there are clear genetic distinctions between the two groups. [A
 
 Below you can see one of the models from [Ancient DNA Reveals a Multi-Step Spread of the First Herders into Sub-Saharan Africa](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6827346/) (table S8). I followed the same outgroup populations as the supplemental methods. I included Luhya to make sure that my answer aligned with the paper. You can see the Tutsi/Hutu/Luhya results in bold. The rest are from the paper.
 
-|                                   |             |                |            | |-----------------------------------|-------------|----------------|------------| | ***Test_Pop***                    | ***Dinka*** | ***Israel_C*** | ***Mota*** | | **Tutsi**                         | **0.617**   | **0.194**      | **0.189**  | | **Hutu**                          | **0.793**   | **-0.004**     | **0.211**  | | **Luhya**                         | **1.049**   | **-0.051**     | **0.002**  | |                                   |             |                |            | | Aari                              | 0.216       | 0.178          | 0.606      | | Agaw                              | 0.377       | 0.526          | 0.098      | | Amhara                            | 0.343       | 0.47           | 0.187      | | Iraqw                             | 0.397       | 0.303          | 0.3        | | Kikuyu                            | 0.783       | 0.106          | 0.111      | | Luhya                             | 1.024       | -0.053         | 0.029      | | Luo                               | 0.961       | -0.046         | 0.085      | | Maasai                            | 0.639       | 0.186          | 0.175      | | Mursi                             | 0.748       | 0.06           | 0.193      | | Ogiek                             | 0.574       | 0.192          | 0.234      | | Rendille                          | 0.502       | 0.36           | 0.138      | | Sengwer                           | 0.652       | 0.127          | 0.221      | | Luxmanda (\~3100 BP)              | 0.181       | 0.371          | 0.447      | | Pemba (\~600 BP)                  | 1.032       | -0.076         | 0.044      | | Kenya PN (Elmenteitan)            | 0.395       | 0.413          | 0.192      | | Kenya PN (other)                  | 0.363       | 0.402          | 0.235      | | Kenya PN (all)                    | 0.374       | 0.407          | 0.219      | | Kenya possible early pastoralists | 0.227       | 0.493          | 0.28       | | Kenya LSA                         | -0.179      | -0.049         | 1.227      | | Kenya PIA                         | 0.574       | 0.228          | 0.199      | | Kenya IA (all)                    | 0.654       | 0.166          | 0.18       |
+|                                   |             |                |            |
+|-----------------------------------|-------------|----------------|------------|
+| ***Test_Pop***                    | ***Dinka*** | ***Israel_C*** | ***Mota*** |
+| **Tutsi**                         | **0.617**   | **0.194**      | **0.189**  |
+| **Hutu**                          | **0.793**   | **-0.004**     | **0.211**  |
+| **Luhya**                         | **1.049**   | **-0.051**     | **0.002**  |
+|                                   |             |                |            |
+| Aari                              | 0.216       | 0.178          | 0.606      |
+| Agaw                              | 0.377       | 0.526          | 0.098      |
+| Amhara                            | 0.343       | 0.47           | 0.187      |
+| Iraqw                             | 0.397       | 0.303          | 0.3        |
+| Kikuyu                            | 0.783       | 0.106          | 0.111      |
+| Luhya                             | 1.024       | -0.053         | 0.029      |
+| Luo                               | 0.961       | -0.046         | 0.085      |
+| Maasai                            | 0.639       | 0.186          | 0.175      |
+| Mursi                             | 0.748       | 0.06           | 0.193      |
+| Ogiek                             | 0.574       | 0.192          | 0.234      |
+| Rendille                          | 0.502       | 0.36           | 0.138      |
+| Sengwer                           | 0.652       | 0.127          | 0.221      |
+| Luxmanda (\~3100 BP)              | 0.181       | 0.371          | 0.447      |
+| Pemba (\~600 BP)                  | 1.032       | -0.076         | 0.044      |
+| Kenya PN (Elmenteitan)            | 0.395       | 0.413          | 0.192      |
+| Kenya PN (other)                  | 0.363       | 0.402          | 0.235      |
+| Kenya PN (all)                    | 0.374       | 0.407          | 0.219      |
+| Kenya possible early pastoralists | 0.227       | 0.493          | 0.28       |
+| Kenya LSA                         | -0.179      | -0.049         | 1.227      |
+| Kenya PIA                         | 0.574       | 0.228          | 0.199      |
+| Kenya IA (all)                    | 0.654       | 0.166          | 0.18       |
 
 The Tutsis and the Hutu individual are very distinct. The Tutsis are similar to the Maasai, in keeping with my earlier analyses. Here is the [Wikipedia entry on Tutsi autosomal genetics](https://en.wikipedia.org/wiki/Tutsi#Autosomal_DNA_(overall_ancestry)):
 

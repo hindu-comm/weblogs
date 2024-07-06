@@ -27,7 +27,33 @@ That is why even with the diminishing of organized religion in the modern West t
 
 So no, in the case of Josh Duggar it isn’t a matter of “there, but for the grace of God, go I.” I’ll let others psychoanalyze his behavior, but it isn’t a normal human impulse which has to be constrained by the teachings of religion. **If religion has to teach you not to molest your sisters you’ve got a problem, son!** And it has nothing to do with your soul. This may be a boundary condition which validates the “nurture assumption.”
 
-|          |                                               |                        |                   | |:---------|:----------------------------------------------|:-----------------------|:------------------| | **Year** | **Murder and nonnegligent manslaughter rate** | **Forcible rape rate** | **% No religion** | | 1991     | 9.8                                           | 42.3                   | 6.3               | | 1992     | 9.3                                           | 42.8                   | 9                 | | 1993     | 9.5                                           | 41.1                   |                   | | 1994     | 9                                             | 39.3                   | 9                 | | 1995     | 8.2                                           | 37.1                   |                   | | 1996     | 7.4                                           | 36.3                   | 11.9              | | 1997     | 6.8                                           | 35.9                   |                   | | 1998     | 6.3                                           | 34.5                   | 13.7              | | 1999     | 5.7                                           | 32.8                   |                   | | 2000     | 5.5                                           | 32                     | 14.1              | | 2001     | 5.6                                           | 31.8                   |                   | | 2002     | 5.6                                           | 33.1                   | 13.8              | | 2003     | 5.7                                           | 32.3                   |                   | | 2004     | 5.5                                           | 32.4                   | 14.1              | | 2005     | 5.6                                           | 31.8                   |                   | | 2006     | 5.8                                           | 31.6                   | 15.9              | | 2007     | 5.7                                           | 30.6                   |                   | | 2008     | 5.4                                           | 29.8                   | 16.8              | | 2009     | 5                                             | 29.1                   |                   | | 2010     | 4.8                                           | 27.5                   | 18                | | 2011     | 4.7                                           | 27                     |                   | | 2012     | 4.7                                           | 27.1                   | 19.7              | | 2013     | 4.5                                           | 25.2                   |                   | | 2014     |                                               |                        | 20.7              |
+|          |                                               |                        |                   |
+|:---------|:----------------------------------------------|:-----------------------|:------------------|
+| **Year** | **Murder and nonnegligent manslaughter rate** | **Forcible rape rate** | **% No religion** |
+| 1991     | 9.8                                           | 42.3                   | 6.3               |
+| 1992     | 9.3                                           | 42.8                   | 9                 |
+| 1993     | 9.5                                           | 41.1                   |                   |
+| 1994     | 9                                             | 39.3                   | 9                 |
+| 1995     | 8.2                                           | 37.1                   |                   |
+| 1996     | 7.4                                           | 36.3                   | 11.9              |
+| 1997     | 6.8                                           | 35.9                   |                   |
+| 1998     | 6.3                                           | 34.5                   | 13.7              |
+| 1999     | 5.7                                           | 32.8                   |                   |
+| 2000     | 5.5                                           | 32                     | 14.1              |
+| 2001     | 5.6                                           | 31.8                   |                   |
+| 2002     | 5.6                                           | 33.1                   | 13.8              |
+| 2003     | 5.7                                           | 32.3                   |                   |
+| 2004     | 5.5                                           | 32.4                   | 14.1              |
+| 2005     | 5.6                                           | 31.8                   |                   |
+| 2006     | 5.8                                           | 31.6                   | 15.9              |
+| 2007     | 5.7                                           | 30.6                   |                   |
+| 2008     | 5.4                                           | 29.8                   | 16.8              |
+| 2009     | 5                                             | 29.1                   |                   |
+| 2010     | 4.8                                           | 27.5                   | 18                |
+| 2011     | 4.7                                           | 27                     |                   |
+| 2012     | 4.7                                           | 27.1                   | 19.7              |
+| 2013     | 4.5                                           | 25.2                   |                   |
+| 2014     |                                               |                        | 20.7              |
 
 ### Related Posts:
 

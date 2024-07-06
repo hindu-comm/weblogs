@@ -13,7 +13,21 @@ DIY admixture analysis
 
 Dienekes has already run me, but I put my parents’ genotype files through the system. Here are the results:
 
-|                   |           |            |            | |-------------------|-----------|------------|------------| | **Population**    | **Razib** | **Mother** | **Father** | | East_European     | 6.9       | 6.5        | 4.3        | | West_European     | 1.7       | 3.1        | 5.5        | | Mediterranean     | 6.3       | 5.6        | 5.9        | | Neo_African       | 0         | 0          | 0          | | West_Asian        | 0         | 2          | 3.9        | | South_Asian       | 65.9      | 59.6       | 60.4       | | Northeast_Asian   | 2.9       | 3.8        | 3.6        | | Southeast_Asian   | 15.8      | 16.6       | 15.5       | | East_African      | 0         | 0          | 0.2        | | Southwest_Asian   | 0.5       | 2.5        | 0.7        | | Northwest_African | 0         | 0          | 0          | | Palaeo_African    | 0         | 0.3        | 0          |
+|                   |           |            |            |
+|-------------------|-----------|------------|------------|
+| **Population**    | **Razib** | **Mother** | **Father** |
+| East_European     | 6.9       | 6.5        | 4.3        |
+| West_European     | 1.7       | 3.1        | 5.5        |
+| Mediterranean     | 6.3       | 5.6        | 5.9        |
+| Neo_African       | 0         | 0          | 0          |
+| West_Asian        | 0         | 2          | 3.9        |
+| South_Asian       | 65.9      | 59.6       | 60.4       |
+| Northeast_Asian   | 2.9       | 3.8        | 3.6        |
+| Southeast_Asian   | 15.8      | 16.6       | 15.5       |
+| East_African      | 0         | 0          | 0.2        |
+| Southwest_Asian   | 0.5       | 2.5        | 0.7        |
+| Northwest_African | 0         | 0          | 0          |
+| Palaeo_African    | 0         | 0.3        | 0          |
 
 The main thing to notice is that my mother has more total East Asian ancestry than my father, and, that she has a Southwest Asian component which is at a few percent. These are always consistent findings in the dozens of ADMIXTURE runs I’ve done with various parameter settings and reference population mixes, so it’s nice that DIY Dodecad replicates those findings. Though the population sets seem a bit Eurocentric to me, so I would recommend it most for those with West Eurasian ancestry.
 

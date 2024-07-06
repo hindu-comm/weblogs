@@ -19,7 +19,41 @@ In 2004 the [General Social Survey](http://sda.berkeley.edu/cgi-bin/hsda?harcsda
 
 
 
-|                                  |                           |                                 | |----------------------------------|---------------------------|---------------------------------| | **Demographic**                  | **Genes play major role** | **Experience plays major role** | | Male                             | 22                        | 78                              | | Female                           | 28                        | 72                              | | Liberal                          | 24                        | 76                              | | Moderate                         | 25                        | 75                              | | Conservative                     | 27                        | 73                              | | White                            | 25                        | 75                              | | Black                            | 28                        | 72                              | | Less than HS                     | 28                        | 72                              | | High School                      | 26                        | 74                              | | Junior College                   | 25                        | 75                              | | Bachelor                         | 22                        | 78                              | | Graduate                         | 25                        | 75                              | | WORDSUM 0-4                      | 28                        | 72                              | | WORDSUM 5-8                      | 25                        | 75                              | | WORDSUM 9-10                     | 25                        | 75                              | | Age 18-35                        | 19                        | 81                              | | Age 36-65                        | 27                        | 73                              | | Age 66-                          | 37                        | 63                              | | God created man                  | 30                        | 70                              | | Man evolved with divine guidance | 23                        | 77                              | | Man evolved                      | 24                        | 76                              | | Bible is Word of God             | 28                        | 72                              | | Bible is Inspired Word of God    | 27                        | 73                              | | Bible is Book of Fables          | 21                        | 79                              | | Protestant                       | 27                        | 73                              | | Catholic                         | 25                        | 75                              | | No religion                      | 25                        | 75                              | | No children                      | 20                        | 80                              | | 1 child                          | 25                        | 75                              | | 2 children                       | 29                        | 71                              | | 3 children                       | 25                        | 75                              | | 4 or more children               | 32                        | 68                              |
+|                                  |                           |                                 |
+|----------------------------------|---------------------------|---------------------------------|
+| **Demographic**                  | **Genes play major role** | **Experience plays major role** |
+| Male                             | 22                        | 78                              |
+| Female                           | 28                        | 72                              |
+| Liberal                          | 24                        | 76                              |
+| Moderate                         | 25                        | 75                              |
+| Conservative                     | 27                        | 73                              |
+| White                            | 25                        | 75                              |
+| Black                            | 28                        | 72                              |
+| Less than HS                     | 28                        | 72                              |
+| High School                      | 26                        | 74                              |
+| Junior College                   | 25                        | 75                              |
+| Bachelor                         | 22                        | 78                              |
+| Graduate                         | 25                        | 75                              |
+| WORDSUM 0-4                      | 28                        | 72                              |
+| WORDSUM 5-8                      | 25                        | 75                              |
+| WORDSUM 9-10                     | 25                        | 75                              |
+| Age 18-35                        | 19                        | 81                              |
+| Age 36-65                        | 27                        | 73                              |
+| Age 66-                          | 37                        | 63                              |
+| God created man                  | 30                        | 70                              |
+| Man evolved with divine guidance | 23                        | 77                              |
+| Man evolved                      | 24                        | 76                              |
+| Bible is Word of God             | 28                        | 72                              |
+| Bible is Inspired Word of God    | 27                        | 73                              |
+| Bible is Book of Fables          | 21                        | 79                              |
+| Protestant                       | 27                        | 73                              |
+| Catholic                         | 25                        | 75                              |
+| No religion                      | 25                        | 75                              |
+| No children                      | 20                        | 80                              |
+| 1 child                          | 25                        | 75                              |
+| 2 children                       | 29                        | 71                              |
+| 3 children                       | 25                        | 75                              |
+| 4 or more children               | 32                        | 68                              |
 
 ### Related Posts:
 

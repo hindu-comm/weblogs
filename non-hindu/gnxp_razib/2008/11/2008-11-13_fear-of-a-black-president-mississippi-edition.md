@@ -31,7 +31,91 @@ It looks to me that what you’re seeing are two things:
 I assume in majority black counties you’re pretty much as polarized as you can get; very few white Democrats and black Republicans. In the overwhelmingly white counties there’s less polarization because the fact that there are few black people means that white Democrats aren’t a member of the black party, at least locally. But it looks like the emergence of Obama changed things even in very white counties, where there is a discernible drop off in white support, with obviously far less compensation from the relatively small black minority turning out a higher rate. If you’re wondering about what that one outlier on the chart which is far away from the trendlines, it’s [Alcorn county](https://en.wikipedia.org/wiki/Alcorn_County,_Mississippi) in Mississippi’s far north. It’s not a data entry error, that was my first thought….  
 Here’s the raw data:
 
-|              |       |       |       | |--------------|-------|-------|-------| |              | White | Obama | Kerry | | Adams        | 43    | 59    | 55    | | Alcorn       | 87.8  | 27    | 61    | | Amite        | 56.6  | 44    | 42    | | Attala       | 52.5  | 42    | 38    | | Benton       | 65    | 48    | 53    | | Bolivar      | 33.4  | 67    | 64    | | Calhoun      | 70.1  | 35    | 35    | | Carroll      | 65.2  | 34    | 34    | | Chickasaw    | 57.5  | 50    | 49    | | Choctaw      | 68.5  | 35    | 33    | | Claiborne    | 14.6  | 85    | 82    | | Clarke       | 65.5  | 37    | 32    | | Clay         | 42.5  | 59    | 52    | | Coahoma      | 25.3  | 73    | 64    | | Copiah       | 48.4  | 53    | 43    | | Covington    | 63.2  | 41    | 38    | | Desoto       | 78.8  | 30    | 27    | | Forrest      | 62.5  | 43    | 38    | | Franklin     | 63.2  | 37    | 35    | | George       | 90.1  | 16    | 22    | | Greene       | 72.5  | 24    | 27    | | Grenada      | 57.4  | 24    | 41    | | Hancock      | 90.4  | 21.2  | 29    | | Harrison     | 71.8  | 36.6  | 36    | | Hinds        | 32.4  | 70    | 60    | | Holmes       | 18.2  | 82    | 76    | | Humphreys    | 25.6  | 71    | 64    | | Issaquena    | 39.3  | 61    | 53    | | Itawamba     | 92.5  | 21    | 29    | | Jackson      | 74.7  | 32    | 30    | | Jasper       | 46.9  | 55    | 51    | | Jeff Davis   | 41.7  | 61    | 51    | | Jefferson    | 13.5  | 87    | 81    | | Jones        | 71.6  | 30    | 28    | | Kemper       | 37.9  | 63    | 53    | | Lafayette    | 72.3  | 43    | 40    | | Lamar        | 83.5  | 21    | 19    | | Lauderdale   | 57.7  | 40    | 34    | | Lawrence     | 67.7  | 37    | 36    | | Leake County | 55.6  | 44    | 40    | | Lee          | 72.3  | 34    | 33    | | Leflore      | 28.2  | 68    | 62    | | Lincoln      | 68.9  | 34    | 31    | | Lowndes      | 54.6  | 58    | 38    | | Madison      | 60.6  | 42    | 35    | | Marion       | 66.2  | 34    | 33    | | Marshall     | 50.3  | 59    | 59    | | Monroe       | 68.4  | 41    | 40    | | Montgomery   | 53.8  | 46    | 45    | | Neshoba      | 64.2  | 26    | 25    | | Newton       | 65.2  | 32    | 27    | | Noxubee      | 29.1  | 76    | 71    | | Okitbbeha    | 58.2  | 50    | 43    | | Panola       | 51.4  | 52    | 49    | | Pearl River  | 86.3  | 19    | 23    | | Perry        | 76.3  | 27    | 25    | | Pike         | 49.3  | 51    | 47    | | Pontotoc     | 84.5  | 23    | 23    | | Prentiss     | 84.9  | 28    | 32    | | Quitman      | 30    | 67    | 60    | | Rankin       | 79.4  | 23    | 20    | | Scott        | 59.6  | 43    | 37    | | Sharkey      | 30.6  | 68    | 50    | | Simpson      | 64.6  | 39    | 32    | | Smith        | 75.8  | 24    | 21    | | Stone        | 79.5  | 27    | 27    | | Sunflower    | 27.1  | 70    | 63    | | Tallahatchie | 39    | 59    | 55    | | Tate         | 68.4  | 39    | 39    | | Tippah       | 81.3  | 27    | 33    | | Tishomingo   | 95.4  | 23    | 34    | | Tunica       | 26.6  | 76    | 69    | | Union        | 84    | 24    | 27    | | Walthall     | 54.7  | 44    | 39    | | Warren       | 51.9  | 49    | 41    | | Washington   | 31.3  | 67    | 59    | | Wayne        | 61.5  | 39    | 36    | | Webster      | 78.1  | 25    | 26    | | Wilkinson    | 30.1  | 69    | 64    | | Winston      | 54.6  | 45    | 53    | | Yalobusha    | 60.2  | 46    | 44    | | Yazoo        | 44.1  | 57    | 45    |
+|              |       |       |       |
+|--------------|-------|-------|-------|
+|              | White | Obama | Kerry |
+| Adams        | 43    | 59    | 55    |
+| Alcorn       | 87.8  | 27    | 61    |
+| Amite        | 56.6  | 44    | 42    |
+| Attala       | 52.5  | 42    | 38    |
+| Benton       | 65    | 48    | 53    |
+| Bolivar      | 33.4  | 67    | 64    |
+| Calhoun      | 70.1  | 35    | 35    |
+| Carroll      | 65.2  | 34    | 34    |
+| Chickasaw    | 57.5  | 50    | 49    |
+| Choctaw      | 68.5  | 35    | 33    |
+| Claiborne    | 14.6  | 85    | 82    |
+| Clarke       | 65.5  | 37    | 32    |
+| Clay         | 42.5  | 59    | 52    |
+| Coahoma      | 25.3  | 73    | 64    |
+| Copiah       | 48.4  | 53    | 43    |
+| Covington    | 63.2  | 41    | 38    |
+| Desoto       | 78.8  | 30    | 27    |
+| Forrest      | 62.5  | 43    | 38    |
+| Franklin     | 63.2  | 37    | 35    |
+| George       | 90.1  | 16    | 22    |
+| Greene       | 72.5  | 24    | 27    |
+| Grenada      | 57.4  | 24    | 41    |
+| Hancock      | 90.4  | 21.2  | 29    |
+| Harrison     | 71.8  | 36.6  | 36    |
+| Hinds        | 32.4  | 70    | 60    |
+| Holmes       | 18.2  | 82    | 76    |
+| Humphreys    | 25.6  | 71    | 64    |
+| Issaquena    | 39.3  | 61    | 53    |
+| Itawamba     | 92.5  | 21    | 29    |
+| Jackson      | 74.7  | 32    | 30    |
+| Jasper       | 46.9  | 55    | 51    |
+| Jeff Davis   | 41.7  | 61    | 51    |
+| Jefferson    | 13.5  | 87    | 81    |
+| Jones        | 71.6  | 30    | 28    |
+| Kemper       | 37.9  | 63    | 53    |
+| Lafayette    | 72.3  | 43    | 40    |
+| Lamar        | 83.5  | 21    | 19    |
+| Lauderdale   | 57.7  | 40    | 34    |
+| Lawrence     | 67.7  | 37    | 36    |
+| Leake County | 55.6  | 44    | 40    |
+| Lee          | 72.3  | 34    | 33    |
+| Leflore      | 28.2  | 68    | 62    |
+| Lincoln      | 68.9  | 34    | 31    |
+| Lowndes      | 54.6  | 58    | 38    |
+| Madison      | 60.6  | 42    | 35    |
+| Marion       | 66.2  | 34    | 33    |
+| Marshall     | 50.3  | 59    | 59    |
+| Monroe       | 68.4  | 41    | 40    |
+| Montgomery   | 53.8  | 46    | 45    |
+| Neshoba      | 64.2  | 26    | 25    |
+| Newton       | 65.2  | 32    | 27    |
+| Noxubee      | 29.1  | 76    | 71    |
+| Okitbbeha    | 58.2  | 50    | 43    |
+| Panola       | 51.4  | 52    | 49    |
+| Pearl River  | 86.3  | 19    | 23    |
+| Perry        | 76.3  | 27    | 25    |
+| Pike         | 49.3  | 51    | 47    |
+| Pontotoc     | 84.5  | 23    | 23    |
+| Prentiss     | 84.9  | 28    | 32    |
+| Quitman      | 30    | 67    | 60    |
+| Rankin       | 79.4  | 23    | 20    |
+| Scott        | 59.6  | 43    | 37    |
+| Sharkey      | 30.6  | 68    | 50    |
+| Simpson      | 64.6  | 39    | 32    |
+| Smith        | 75.8  | 24    | 21    |
+| Stone        | 79.5  | 27    | 27    |
+| Sunflower    | 27.1  | 70    | 63    |
+| Tallahatchie | 39    | 59    | 55    |
+| Tate         | 68.4  | 39    | 39    |
+| Tippah       | 81.3  | 27    | 33    |
+| Tishomingo   | 95.4  | 23    | 34    |
+| Tunica       | 26.6  | 76    | 69    |
+| Union        | 84    | 24    | 27    |
+| Walthall     | 54.7  | 44    | 39    |
+| Warren       | 51.9  | 49    | 41    |
+| Washington   | 31.3  | 67    | 59    |
+| Wayne        | 61.5  | 39    | 36    |
+| Webster      | 78.1  | 25    | 26    |
+| Wilkinson    | 30.1  | 69    | 64    |
+| Winston      | 54.6  | 45    | 53    |
+| Yalobusha    | 60.2  | 46    | 44    |
+| Yazoo        | 44.1  | 57    | 45    |
 
 ### Related Posts:
 

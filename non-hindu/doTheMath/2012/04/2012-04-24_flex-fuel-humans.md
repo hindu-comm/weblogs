@@ -49,7 +49,29 @@ Next, the typical American diet is broken down (calorically) as 72% plant-based,
 
 Now for the magic part. What is the output-to-input energy ratio for producing various types of food? The following table is excerpted from the Eshel & Martin paper, much of which derives from the Pimentel & Pimentel work. One caution: don’t take these numbers as absolutely authoritative. I suspect the uncertainties are quite large, but they nonetheless convey a general sense.
 
-|                  |                      | |------------------|----------------------| | Food Type        | Energy Out/Energy In | | Shrimp           | 0.009                | | Lamb             | 0.012                | | Pork             | 0.037                | | Salmon (farmed)  | 0.057                | | Tuna             | 0.058                | | Beef (grain fed) | 0.064                | | Eggs             | 0.112                | | Chicken          | 0.181                | | Milk             | 0.206                | | Tomatoes         | 0.6                  | | Herring          | 1.1                  | | Apples           | 1.1                  | | Potatoes         | 1.2                  | | Peanuts          | 1.4                  | | Dry Beans        | 1.8                  | | Rice             | 2.1                  | | Wheat            | 2.2                  | | Corn             | 2.5                  | | Soy              | 4.15                 | | Oats             | 5.1                  |
+|                  |                      |
+|------------------|----------------------|
+| Food Type        | Energy Out/Energy In |
+| Shrimp           | 0.009                |
+| Lamb             | 0.012                |
+| Pork             | 0.037                |
+| Salmon (farmed)  | 0.057                |
+| Tuna             | 0.058                |
+| Beef (grain fed) | 0.064                |
+| Eggs             | 0.112                |
+| Chicken          | 0.181                |
+| Milk             | 0.206                |
+| Tomatoes         | 0.6                  |
+| Herring          | 1.1                  |
+| Apples           | 1.1                  |
+| Potatoes         | 1.2                  |
+| Peanuts          | 1.4                  |
+| Dry Beans        | 1.8                  |
+| Rice             | 2.1                  |
+| Wheat            | 2.2                  |
+| Corn             | 2.5                  |
+| Soy              | 4.15                 |
+| Oats             | 5.1                  |
 
 Even if the uncertainties are sizable, the obvious trend is that plants and grains tend to produce more energy than is contained in the fossil fuel inputs. These numbers are for U.S. production practices, and tend to be larger by factors of two or three when manual techniques are employed.
 

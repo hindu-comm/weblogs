@@ -11,15 +11,35 @@ Denomination is rather heritable; socioeconomic status less so….
 
 I was curious about a few social variables which often associate across generations, and also within families. So I looked in the [General Social Survey](http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss06) for denomination, highest degree and socioeconomic index, which I knew were surveyed for the individual (respondent), their parents and their spouse. Below the fold are the correlation matrices generated. Remember that if you assume a linear dependency you square the correlation (e.g., 0.50 → 0.25) to find out how much of the variation in X can be accounted for by variation in Y.
 
-|                              |                  |                     |                     |                   |                   |                          | |------------------------------|------------------|---------------------|---------------------|-------------------|-------------------|--------------------------| | ***Religious denomination*** | **Denomination** | **Father’s Denom.** | **Mother’s Denom.** | **Denom. Raised** | **Spouse Denom.** | **Spouse Denom. Raised** | | **Denomination**             | –                | 0.63                | 0.59                | 0.68              | 0.80              | 0.48                     | | **Father’s Denom.**          | –                | –                   | 0.84                | 0.89              | 0.47              | 0.40                     | | **Mother’s Denom.**          | –                | –                   | –                   | 0.87              | 0.41              | 0.39                     | | **Denom. Raised**            | –                | –                   | –                   | –                 | 0.48              | 0.42                     | | **Spouse Denom.**            | –                | –                   | –                   |                  | –                 | 0.67                     | | **Spouse Denom. Raised**     | –                | –                   | –                   | –                 | –                 | –                        |
+|                              |                  |                     |                     |                   |                   |                          |
+|------------------------------|------------------|---------------------|---------------------|-------------------|-------------------|--------------------------|
+| ***Religious denomination*** | **Denomination** | **Father’s Denom.** | **Mother’s Denom.** | **Denom. Raised** | **Spouse Denom.** | **Spouse Denom. Raised** |
+| **Denomination**             | –                | 0.63                | 0.59                | 0.68              | 0.80              | 0.48                     |
+| **Father’s Denom.**          | –                | –                   | 0.84                | 0.89              | 0.47              | 0.40                     |
+| **Mother’s Denom.**          | –                | –                   | –                   | 0.87              | 0.41              | 0.39                     |
+| **Denom. Raised**            | –                | –                   | –                   | –                 | 0.48              | 0.42                     |
+| **Spouse Denom.**            | –                | –                   | –                   |                  | –                 | 0.67                     |
+| **Spouse Denom. Raised**     | –                | –                   | –                   | –                 | –                 | –                        |
 
 ------------------------------------------------------------------------
 
-|                                  |            |                     |                     |                   | |----------------------------------|------------|---------------------|---------------------|-------------------| | ***Highest level of education*** | **Degree** | **Father’s Degree** | **Mother’s Degree** | **Spouse Degree** | | **Degree**                       | –          | 0.43                | 0.41                | 0.57              | | **Father’s Degree**              | –          | –                   | 0.57                | 0.37              | | **Mother’s Degree**              | –          | –                   | –                   | 0.35              | | **Spouse Degree**                | –          | –                   | –                   | –                 |
+|                                  |            |                     |                     |                   |
+|----------------------------------|------------|---------------------|---------------------|-------------------|
+| ***Highest level of education*** | **Degree** | **Father’s Degree** | **Mother’s Degree** | **Spouse Degree** |
+| **Degree**                       | –          | 0.43                | 0.41                | 0.57              |
+| **Father’s Degree**              | –          | –                   | 0.57                | 0.37              |
+| **Mother’s Degree**              | –          | –                   | –                   | 0.35              |
+| **Spouse Degree**                | –          | –                   | –                   | –                 |
 
 ------------------------------------------------------------------------
 
-|                           |         |                  |                  |                | |---------------------------|---------|------------------|------------------|----------------| | ***Socioeconomic index*** | **SEI** | **Father’s SEI** | **Mother’s SEI** | **Spouse SEI** | | **SEI**                   | –       | 0.26             | 0.23             | 0.33           | | **Father’s SEI**          | –       | –                | 0.38             | 0.22           | | **Mother’s SEI**          | –       | –                | –                | 0.20           | | **Spouse SEI**            | –       | –                | –                | –              |
+|                           |         |                  |                  |                |
+|---------------------------|---------|------------------|------------------|----------------|
+| ***Socioeconomic index*** | **SEI** | **Father’s SEI** | **Mother’s SEI** | **Spouse SEI** |
+| **SEI**                   | –       | 0.26             | 0.23             | 0.33           |
+| **Father’s SEI**          | –       | –                | 0.38             | 0.22           |
+| **Mother’s SEI**          | –       | –                | –                | 0.20           |
+| **Spouse SEI**            | –       | –                | –                | –              |
 
 ------------------------------------------------------------------------
 

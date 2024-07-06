@@ -26,7 +26,63 @@ The authors seem to think their result has evolutionary implications:
 
 Al well and good. But we need to take a step back, as I did after reading the paper. First, **the tone-enhancing T allele is the major allele in humans, and seems to be the ancestral one.** In fact, the T allele is at a much higher frequency in Africa than it does in East Asia. You can confirm this in the [1000 Genomes Browser](http://uswest.ensembl.org/Homo_sapiens/Variation/Population?db=core;r=1:197101067-197102067;v=rs41310927;vdb=variation;vf=7035967#population_freq_EUR), but I also generated some frequencies from the HGDP:
 
-|                  |     |     |      |     |         | |:-----------------|----:|----:|-----:|----:|--------:| | CLST             |  A1 |  A2 |  MAF | MAC | NCHROBS | | Kalash           |   C |   T | 0.64 |  28 |      44 | | PapuanSepik      |   C |   T | 0.63 |  10 |      16 | | Palestinian      |   C |   T | 0.53 |  48 |      90 | | Druze            |   C |   T | 0.50 |  41 |      82 | | PapuanHighlands  |   C |   T | 0.50 |   9 |      18 | | Sardinian        |   C |   T | 0.48 |  27 |      56 | | French           |   C |   T | 0.48 |  26 |      54 | | BergamoItalian   |   C |   T | 0.42 |  10 |      24 | | Sindhi           |   C |   T | 0.42 |  20 |      48 | | Adygei           |   C |   T | 0.41 |  13 |      32 | | Orcadian         |   C |   T | 0.40 |  12 |      30 | | Russian          |   C |   T | 0.40 |  20 |      50 | | Pathan           |   C |   T | 0.40 |  19 |      48 | | Bedouin          |   C |   T | 0.39 |  36 |      92 | | Tuscan           |   C |   T | 0.38 |   6 |      16 | | Brahui           |   C |   T | 0.36 |  18 |      50 | | Makrani          |   C |   T | 0.32 |  16 |      50 | | Basque           |   C |   T | 0.32 |  14 |      44 | | Mozabite         |   C |   T | 0.31 |  17 |      54 | | Uygur            |   C |   T | 0.30 |   6 |      20 | | Balochi          |   C |   T | 0.29 |  14 |      48 | | Burusho          |   C |   T | 0.27 |  13 |      48 | | She              |   C |   T | 0.25 |   5 |      20 | | Yi               |   C |   T | 0.25 |   5 |      20 | | Han              |   C |   T | 0.24 |  16 |      66 | | Dai              |   C |   T | 0.22 |   4 |      18 | | Tu               |   C |   T | 0.22 |   4 |      18 | | Hazara           |   C |   T | 0.18 |   7 |      38 | | Maya             |   C |   T | 0.17 |   7 |      42 | | NorthernHan      |   C |   T | 0.15 |   3 |      20 | | Bougainville     |   C |   T | 0.14 |   3 |      22 | | Japanese         |   C |   T | 0.13 |   7 |      54 | | Naxi             |   C |   T | 0.13 |   2 |      16 | | Yakut            |   C |   T | 0.12 |   6 |      50 | | Tujia            |   C |   T | 0.11 |   2 |      18 | | Miao             |   C |   T | 0.10 |   2 |      20 | | Biaka            |   C |   T | 0.09 |   4 |      44 | | Mbuti            |   C |   T | 0.08 |   2 |      26 | | Lahu             |   C |   T | 0.06 |   1 |      16 | | Daur             |   C |   T | 0.06 |   1 |      18 | | Hezhen           |   C |   T | 0.06 |   1 |      18 | | Mongolian        |   C |   T | 0.06 |   1 |      18 | | Oroqen           |   C |   T | 0.06 |   1 |      18 | | BantuKenya       |   C |   T | 0.05 |   1 |      22 | | Pima             |   C |   T | 0.04 |   1 |      26 | | Mandenka         |   C |   T | 0.02 |   1 |      44 | | Yoruba           |   C |   T | 0.02 |   1 |      44 | | BantuSouthAfrica |   C |   T | 0.00 |   0 |      16 | | Cambodian        |   C |   T | 0.00 |   0 |      18 | | Colombian        |   C |   T | 0.00 |   0 |      14 | | Karitiana        |   C |   T | 0.00 |   0 |      24 | | San              |   C |   T | 0.00 |   0 |      12 | | Surui            |   C |   T | 0.00 |   0 |      16 | | Xibo             |   C |   T | 0.00 |   0 |      18 |
+|                  |     |     |      |     |         |
+|:-----------------|----:|----:|-----:|----:|--------:|
+| CLST             |  A1 |  A2 |  MAF | MAC | NCHROBS |
+| Kalash           |   C |   T | 0.64 |  28 |      44 |
+| PapuanSepik      |   C |   T | 0.63 |  10 |      16 |
+| Palestinian      |   C |   T | 0.53 |  48 |      90 |
+| Druze            |   C |   T | 0.50 |  41 |      82 |
+| PapuanHighlands  |   C |   T | 0.50 |   9 |      18 |
+| Sardinian        |   C |   T | 0.48 |  27 |      56 |
+| French           |   C |   T | 0.48 |  26 |      54 |
+| BergamoItalian   |   C |   T | 0.42 |  10 |      24 |
+| Sindhi           |   C |   T | 0.42 |  20 |      48 |
+| Adygei           |   C |   T | 0.41 |  13 |      32 |
+| Orcadian         |   C |   T | 0.40 |  12 |      30 |
+| Russian          |   C |   T | 0.40 |  20 |      50 |
+| Pathan           |   C |   T | 0.40 |  19 |      48 |
+| Bedouin          |   C |   T | 0.39 |  36 |      92 |
+| Tuscan           |   C |   T | 0.38 |   6 |      16 |
+| Brahui           |   C |   T | 0.36 |  18 |      50 |
+| Makrani          |   C |   T | 0.32 |  16 |      50 |
+| Basque           |   C |   T | 0.32 |  14 |      44 |
+| Mozabite         |   C |   T | 0.31 |  17 |      54 |
+| Uygur            |   C |   T | 0.30 |   6 |      20 |
+| Balochi          |   C |   T | 0.29 |  14 |      48 |
+| Burusho          |   C |   T | 0.27 |  13 |      48 |
+| She              |   C |   T | 0.25 |   5 |      20 |
+| Yi               |   C |   T | 0.25 |   5 |      20 |
+| Han              |   C |   T | 0.24 |  16 |      66 |
+| Dai              |   C |   T | 0.22 |   4 |      18 |
+| Tu               |   C |   T | 0.22 |   4 |      18 |
+| Hazara           |   C |   T | 0.18 |   7 |      38 |
+| Maya             |   C |   T | 0.17 |   7 |      42 |
+| NorthernHan      |   C |   T | 0.15 |   3 |      20 |
+| Bougainville     |   C |   T | 0.14 |   3 |      22 |
+| Japanese         |   C |   T | 0.13 |   7 |      54 |
+| Naxi             |   C |   T | 0.13 |   2 |      16 |
+| Yakut            |   C |   T | 0.12 |   6 |      50 |
+| Tujia            |   C |   T | 0.11 |   2 |      18 |
+| Miao             |   C |   T | 0.10 |   2 |      20 |
+| Biaka            |   C |   T | 0.09 |   4 |      44 |
+| Mbuti            |   C |   T | 0.08 |   2 |      26 |
+| Lahu             |   C |   T | 0.06 |   1 |      16 |
+| Daur             |   C |   T | 0.06 |   1 |      18 |
+| Hezhen           |   C |   T | 0.06 |   1 |      18 |
+| Mongolian        |   C |   T | 0.06 |   1 |      18 |
+| Oroqen           |   C |   T | 0.06 |   1 |      18 |
+| BantuKenya       |   C |   T | 0.05 |   1 |      22 |
+| Pima             |   C |   T | 0.04 |   1 |      26 |
+| Mandenka         |   C |   T | 0.02 |   1 |      44 |
+| Yoruba           |   C |   T | 0.02 |   1 |      44 |
+| BantuSouthAfrica |   C |   T | 0.00 |   0 |      16 |
+| Cambodian        |   C |   T | 0.00 |   0 |      18 |
+| Colombian        |   C |   T | 0.00 |   0 |      14 |
+| Karitiana        |   C |   T | 0.00 |   0 |      24 |
+| San              |   C |   T | 0.00 |   0 |      12 |
+| Surui            |   C |   T | 0.00 |   0 |      16 |
+| Xibo             |   C |   T | 0.00 |   0 |      18 |
 
 Basically, the C allele is a West/South Eurasian allele. But, it’s also found at low frequencies within Africa. It could be that the C and T allele have been “balanced” in some way in human populations for al ong time. Who knows, perhaps the C allele is benefit, or hitchhiked with something else? It’s interesting that the Karitiana and Surui don’t even carry the C allele.
 

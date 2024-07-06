@@ -17,7 +17,30 @@ My first reaction is that this is gauging to some extent the prestige & familiar
 
 
 
-|                                               | |:----------------------------------------------| | ***Characteristic***                          | | ***All adults***                              | | ***Formal education***                        | | **Less than High school**                     | | **High school graduate**                      | | **Baccalaureate**                             | | **Graduate/professional**                     | | ***Science/mathematics education***           | | **Low**                                       | | **Middle**                                    | | **High**                                      | | ***Family income (quartile)***                | | **Top**                                       | | **Second**                                    | | **Third**                                     | | **Bottom**                                    | | ***Factual knowledge of science (quartile)*** | | **Top**                                       | | **Second**                                    | | **Third**                                     | | **Bottom**                                    | |                                               |
+|                                               |
+|:----------------------------------------------|
+| ***Characteristic***                          |
+| ***All adults***                              |
+| ***Formal education***                        |
+| **Less than High school**                     |
+| **High school graduate**                      |
+| **Baccalaureate**                             |
+| **Graduate/professional**                     |
+| ***Science/mathematics education***           |
+| **Low**                                       |
+| **Middle**                                    |
+| **High**                                      |
+| ***Family income (quartile)***                |
+| **Top**                                       |
+| **Second**                                    |
+| **Third**                                     |
+| **Bottom**                                    |
+| ***Factual knowledge of science (quartile)*** |
+| **Top**                                       |
+| **Second**                                    |
+| **Third**                                     |
+| **Bottom**                                    |
+|                                               |
 
 ![perception_of_how\_\_scientific\_\_by_knowledge\_%28quartiles%29.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/perception_of_how__scientific__by_knowledge_%28quartiles%29.jpg?resize=500%2C277)![perception_of_how\_\_scientific\_\_by_knowledge\_%28quartiles%29.jpg](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/perception_of_how__scientific__by_knowledge_%28quartiles%29.jpg?resize=500%2C277)  
 The table is on a 0 to 4 scale; 4 \~ very scientific, and so forth. Notice something? **Medicine is the only field where education, scientific knowledge, and income has no effect.** Contrastingly, the higher the levels of these characteristics the more esteem non-medical fields are held in, and physics leaps to the first position. What’s going on?  

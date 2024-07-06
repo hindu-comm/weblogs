@@ -13,7 +13,21 @@ Matt Yglesias asks why [more selective colleges are more left-wing](https://twit
 
 Below is some data from the GSS. I limited the sample to non-Hispanic whites (which means it’s from the year 2000 and later), and stratified by low, average and high vocab score (0-5,6-8 and 9-10), and crossed that with political ideology. Then, I also broke it down by those with noncollege education, those with bachelor’s degrees and those with graduate degrees. There’s just a bigger pool of very verbally strong liberals (or, being verbally strong makes you liberal, I don’t know).
 
-|                   |             |              |                  | |-------------------|-------------|--------------|------------------| |                   |             | no college   |                  | |                   | **liberal** | **moderate** | **conservative** | | **low vocab**     | **33**      | **43**       | **35**           | | **average vocab** | **57**      | **51**       | **58**           | | **high vocab**    | **10**      | **6**        | **6**            | | ****             |             | bachelor’s   |                  | | **low vocab**     | **10**      | **19**       | **18**           | | **average vocab** | **58**      | **65**       | **64**           | | **high vocab**    | **32**      | **17**       | **18**           | | ****             |             | grad degree  |                  | | **low vocab**     | **6**       | **8**        | **11**           | | **average vocab** | **46**      | **57**       | **62**           | | **high vocab**    | **49**      | **35**       | **28**           |
+|                   |             |              |                  |
+|-------------------|-------------|--------------|------------------|
+|                   |             | no college   |                  |
+|                   | **liberal** | **moderate** | **conservative** |
+| **low vocab**     | **33**      | **43**       | **35**           |
+| **average vocab** | **57**      | **51**       | **58**           |
+| **high vocab**    | **10**      | **6**        | **6**            |
+| ****             |             | bachelor’s   |                  |
+| **low vocab**     | **10**      | **19**       | **18**           |
+| **average vocab** | **58**      | **65**       | **64**           |
+| **high vocab**    | **32**      | **17**       | **18**           |
+| ****             |             | grad degree  |                  |
+| **low vocab**     | **6**       | **8**        | **11**           |
+| **average vocab** | **46**      | **57**       | **62**           |
+| **high vocab**    | **49**      | **35**       | **28**           |
 
 ### Related Posts:
 

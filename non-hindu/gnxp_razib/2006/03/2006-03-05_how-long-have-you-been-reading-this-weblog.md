@@ -11,7 +11,18 @@ How long have you been reading this weblog?
 
   
 
-|                                                          |                   | |----------------------------------------------------------|-------------------| | **How long have you been reading GNXP regularly?**       |                   | |                                                          | Less than 1 month | |                                                          | 1-3 months        | |                                                          | 3-6 months        | |                                                          | 9-12 months       | |                                                          | 1-2 years         | |                                                          | 2-3 years         | |                                                          | over 3 years      | |                                                        |                   | | [Free polls from Pollhost.com](http://www.pollhost.com/) |                   |
+|                                                          |                   |
+|----------------------------------------------------------|-------------------|
+| **How long have you been reading GNXP regularly?**       |                   |
+|                                                          | Less than 1 month |
+|                                                          | 1-3 months        |
+|                                                          | 3-6 months        |
+|                                                          | 9-12 months       |
+|                                                          | 1-2 years         |
+|                                                          | 2-3 years         |
+|                                                          | over 3 years      |
+|                                                        |                   |
+| [Free polls from Pollhost.com](http://www.pollhost.com/) |                   |
 
 **Update:** Forgot to add a 7 and 8 month option. Just select 9-12. Thanks.
 

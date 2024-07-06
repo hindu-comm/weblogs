@@ -21,7 +21,20 @@ In *The Journal of Dermetological Science* I found [Functional characterisation 
 
 Here are some tables I extracted\*:
 
-|                          |              |              |        | |:------------------------:|:------------:|:------------:|:-------| | **Mean malodour scores** |              |              |        | |          ****           | **5 hours**  | **24 hours** |        | |          ****           |              |              |        | |          **TT**          |     2.59     |     2.6      |        | |          **CT**          |     3.26     |     3.4      |        | |          **CC**          |     3.21     |     3.5      |        | |                          |              |              |        | |                          | **Genotype** |              |        | |                          |    **TT**    |    **CT**    | **CC** | |    **Uses deodorant**    |     0.5      |     0.86     | 0.97   | |     **Does not use**     |     0.5      |     0.14     | 0.03   | |                          |              |              |        |
+|                          |              |              |        |
+|:------------------------:|:------------:|:------------:|:-------|
+| **Mean malodour scores** |              |              |        |
+|          ****           | **5 hours**  | **24 hours** |        |
+|          ****           |              |              |        |
+|          **TT**          |     2.59     |     2.6      |        |
+|          **CT**          |     3.26     |     3.4      |        |
+|          **CC**          |     3.21     |     3.5      |        |
+|                          |              |              |        |
+|                          | **Genotype** |              |        |
+|                          |    **TT**    |    **CT**    | **CC** |
+|    **Uses deodorant**    |     0.5      |     0.86     | 0.97   |
+|     **Does not use**     |     0.5      |     0.14     | 0.03   |
+|                          |              |              |        |
 
 I have no idea how subjective malodour scales work, but the moral is pretty straightforward. Those with the TT genotype saturate at a much lower point. This manifests in daily behavior. There is a fair amount of Japanese data that people who go to the doctor for body odor issues are much more likely to have wet earwax. This data from the Philippines illustrates that individuals with the derived genotype, TT, must be conscious enough of their lack of body odor to forgo deodorant purchases, even though I assume it is normative in the American influenced culture of the Philippines.
 

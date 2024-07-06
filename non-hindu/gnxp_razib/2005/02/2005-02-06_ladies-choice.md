@@ -49,7 +49,18 @@ Razib “Sheik Fever” Khan– “Beware of Tasp”
 
 Jeff “Special Request of Jemima” Percifield– “Ultimate Transgender Appeal”
 
-|                      |                    | |----------------------|--------------------| | Which Do You Prefer? |                    | |                      | Stephen Pinker     | |                      | Pascal Boyer       | |                      | Spencer Wells      | |                      | Steve Sailer       | |                      | Godless Capitalist | |                      | ScottM             | |                      | Razib Khan         | |                      | Jeff Percifield    | |                    |                    |
+|                      |                    |
+|----------------------|--------------------|
+| Which Do You Prefer? |                    |
+|                      | Stephen Pinker     |
+|                      | Pascal Boyer       |
+|                      | Spencer Wells      |
+|                      | Steve Sailer       |
+|                      | Godless Capitalist |
+|                      | ScottM             |
+|                      | Razib Khan         |
+|                      | Jeff Percifield    |
+|                    |                    |
 
 See Laura? It is sooo much more fun to turn them into sex-objects! Posted by jinnderella at [04:17 PM](https://www.gnxp.com/MT2/archives/003556.html) [](http://js-kit.com/api/static/pop_comments?ref=http://gnxp.com&path=/3556?url=http://www.gnxp.com/MT2/archives/003556.html&thetime=%20020605&MT=true)
 

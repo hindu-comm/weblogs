@@ -19,7 +19,23 @@ It seems pretty clear here: **the “American” group is sucking up many people
 
 Next there is some interesting data from page 38 [Ethnic Options](https://www.amazon.com/exec/obidos/ASIN/0520070836/geneexpressio-20/):
 
-|                              |                                     | |------------------------------|-------------------------------------| |                              | **Consistency between 1972 & 1971** | | **Puerto Rican**             | 96.5                                | | **Negro**                    | 94.2                                | | **Mexican**                  | 88.3                                | | **Italian**                  | 87.8                                | | **Cuban**                    | 83.3                                | | **Polish**                   | 79.2                                | | **Spanish**                  | 78.9                                | | **German**                   | 66.1                                | | **Others**                   | 62.5                                | | **Russian**                  | 62.3                                | | **French**                   | 62.1                                | | **Irish**                    | 57.1                                | | **English, Scottish, Welsh** | 44.1                                | | **Don’t know**               | 34.9                                |
+|                              |                                     |
+|------------------------------|-------------------------------------|
+|                              | **Consistency between 1972 & 1971** |
+| **Puerto Rican**             | 96.5                                |
+| **Negro**                    | 94.2                                |
+| **Mexican**                  | 88.3                                |
+| **Italian**                  | 87.8                                |
+| **Cuban**                    | 83.3                                |
+| **Polish**                   | 79.2                                |
+| **Spanish**                  | 78.9                                |
+| **German**                   | 66.1                                |
+| **Others**                   | 62.5                                |
+| **Russian**                  | 62.3                                |
+| **French**                   | 62.1                                |
+| **Irish**                    | 57.1                                |
+| **English, Scottish, Welsh** | 44.1                                |
+| **Don’t know**               | 34.9                                |
 
 As you can see, British Isles groups tend to be very inconsistent year-by-year in their ethnic affinity. I believe this suggests **very weak distinctive self-identification.** In part this is probably due to the fact that the immigrant experience is so far back for people whose forebears arrived in North America in the 1600s and 1700s, but, I also believe that it is due to the fact that Anglo-Saxon culture is to some extant the default culture of the United States. The fact that Anglo-Saxon identity is so malleable and shallow in **explicit** (if not implicit background) terms also suggests one hypothesis for the relatively robusticity of a group like German Americans vs. English Americans over the past 30 years: **German ancestry is more memorable, distinctive and “ethnic” than English ancestry.** So if someone is 1/4 German and 3/4 “American,” one might naturally give “German” as the response when queried about ethnicity because the “American” element is not coded as ethnicity at all. Checking through the Census data it also seems that “American” is tabulated **only** if no other ethnic groups are given by respondent. This suggests to me that there are many of the people bracketed into German, Irish, etc., probably listed “American” as one of their ethnicities, which itself is probably a proxy for Anglo-Saxon background.
 

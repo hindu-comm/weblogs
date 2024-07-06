@@ -11,7 +11,14 @@ Asian Buddhists believe in God
 
 A year ago I mentioned that the Religious Landscape Survey showed that a majority of American Buddhists believe in God. Some people wondered as to its generality as a finding. Does this apply in Asia? It seems likely. The [World Values Survey](http://www.worldvaluessurvey.org/) has data on Buddhists in Singapore, Taiwan and Japan in terms of God belief. Here are the data:
 
-|                                           |         |        | |-------------------------------------------|---------|--------| | ***Buddhist who believe in God, Yes/No*** |         |        | |                                          | **Yes** | **No** | | **Taiwan**                                | 83.9    | 16.1   | | **Japan**                                 | 56.7    | 43.3   | | **Singapore**                             | 86.3    | 13.7   | |                                          |        |       |
+|                                           |         |        |
+|-------------------------------------------|---------|--------|
+| ***Buddhist who believe in God, Yes/No*** |         |        |
+|                                          | **Yes** | **No** |
+| **Taiwan**                                | 83.9    | 16.1   |
+| **Japan**                                 | 56.7    | 43.3   |
+| **Singapore**                             | 86.3    | 13.7   |
+|                                          |        |       |
 
 The Japanese data are the most important. The [Japanese](https://www.gnxp.com/blog/2009/04/religion-united-states-sweden-south.php) are a secular people, so if Japanese Buddhists generally believe in God it is a rather good bet that you can generalize this. One could rebut that this only applies to Mahayana Buddhism, but there is a fair amount of [ethnographic data](https://www.amazon.com/exec/obidos/ASIN/0195335619/geneexpressio-20) that the same tendency toward theism is dominant in Sri Lanka as well.
 

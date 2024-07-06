@@ -33,7 +33,9 @@ Email
 
 Audio playback is not supported on your browser. Please upgrade.
 
-|     |                        |                                                                                                                                                                               |                        |     | |-----|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----| |    | [](javascript:void(0)) | [![](https://cdn.substack.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Faudio-player-play.png)](javascript:void(0)) | [](javascript:void(0)) |    |
+|     |                        |                                                                                                                                                                               |                        |     |
+|-----|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----|
+|    | [](javascript:void(0)) | [![](https://cdn.substack.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Faudio-player-play.png)](javascript:void(0)) | [](javascript:void(0)) |    |
 
 1x1.25x1.5x1.75x2x
 
@@ -55,5 +57,7 @@ But much of the discussion goes deeper into issues of metaphysics. What is spiri
 
 The substack is [The Noble Truths with Rav Arora](https://ravarora.substack.com/?utm_source=substack&utm_medium=web&utm_campaign=substack_profile), where he posts essays on the science of mystical experience and psychedelics. Paid subscribers can also get Rav’s post-psychedelic trip audio recordings and FaceTime podcasts with ‘IDW’ figures.
 
-|                                                                                    |                             | |------------------------------------------------------------------------------------|-----------------------------| | [8](https://razib.substack.com/p/rav-arora-psychedelics-and-spirituality/comments) | [Share](javascript:void(0)) |
+|                                                                                    |                             |
+|------------------------------------------------------------------------------------|-----------------------------|
+| [8](https://razib.substack.com/p/rav-arora-psychedelics-and-spirituality/comments) | [Share](javascript:void(0)) |
 

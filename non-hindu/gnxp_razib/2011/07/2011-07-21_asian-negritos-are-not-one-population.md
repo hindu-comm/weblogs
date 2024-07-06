@@ -22,7 +22,17 @@ I ran ADMIXTURE from K = 4 to K = 12. K = 8 seemed the most informative to me (a
 
 The distinctiveness of the two Negrito groups is rather obvious. But what makes it even more obvious are the Fst values across two inferred clusters.
 
-|                     |          |           |       |            |         |           |                |              | |---------------------|----------|-----------|-------|------------|---------|-----------|----------------|--------------| |                     | NE Asian | P Negrito | Hmong | Melanesian | S Asian | M Negrito | Austro-Asiatic | Austronesian | | NE Asian            | 0        | 0.101     | 0.046 | 0.099      | 0.095   | 0.098     | 0.07           | 0.045        | | Philippines Negrito | 0.101    | 0         | 0.11  | 0.105      | 0.113   | **0.124** | 0.108          | 0.096        | | Hmong               | 0.046    | 0.11      | 0     | 0.108      | 0.107   | 0.099     | 0.072          | 0.058        | | Melanesian          | 0.099    | 0.105     | 0.108 | 0          | 0.099   | 0.113     | 0.104          | 0.1          | | S Asian             | 0.095    | 0.113     | 0.107 | 0.099      | 0       | 0.104     | 0.103          | 0.108        | | Malaysian Negrito   | 0.098    | **0.124** | 0.099 | 0.113      | 0.104   | 0         | 0.086          | 0.098        | | Austro-Asiatic      | 0.07     | 0.108     | 0.072 | 0.104      | 0.103   | 0.086     | 0              | 0.062        | | Austronesian        | 0.045    | 0.096     | 0.058 | 0.1        | 0.108   | 0.098     | 0.062          | 0            |
+|                     |          |           |       |            |         |           |                |              |
+|---------------------|----------|-----------|-------|------------|---------|-----------|----------------|--------------|
+|                     | NE Asian | P Negrito | Hmong | Melanesian | S Asian | M Negrito | Austro-Asiatic | Austronesian |
+| NE Asian            | 0        | 0.101     | 0.046 | 0.099      | 0.095   | 0.098     | 0.07           | 0.045        |
+| Philippines Negrito | 0.101    | 0         | 0.11  | 0.105      | 0.113   | **0.124** | 0.108          | 0.096        |
+| Hmong               | 0.046    | 0.11      | 0     | 0.108      | 0.107   | 0.099     | 0.072          | 0.058        |
+| Melanesian          | 0.099    | 0.105     | 0.108 | 0          | 0.099   | 0.113     | 0.104          | 0.1          |
+| S Asian             | 0.095    | 0.113     | 0.107 | 0.099      | 0       | 0.104     | 0.103          | 0.108        |
+| Malaysian Negrito   | 0.098    | **0.124** | 0.099 | 0.113      | 0.104   | 0         | 0.086          | 0.098        |
+| Austro-Asiatic      | 0.07     | 0.108     | 0.072 | 0.104      | 0.103   | 0.086     | 0              | 0.062        |
+| Austronesian        | 0.045    | 0.096     | 0.058 | 0.1        | 0.108   | 0.098     | 0.062          | 0            |
 
 What’s clearly evident here is that **the largest genetic distance across any two inferred populations is between the Malaysian and Philippine Negrito clusters!** Let’s visualize the relationships a bit:
 

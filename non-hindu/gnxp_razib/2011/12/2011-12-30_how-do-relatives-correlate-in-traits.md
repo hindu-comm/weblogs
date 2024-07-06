@@ -30,7 +30,15 @@ Correlation (relative to relative) = r × h²
 
 Where r is simply the coefficient of relatedness across the pair of relatives. Here are some values:
 
-|           |                         | |-----------|-------------------------| | r         | relationship            | | 0.5 (½)   | parent-offspring        | | 0.25 (¼)  | grandparent-grandchild  | | 1         | identical twins; clones | | 0.5 (½)   | full siblings           | | 0.25 (¼)  | half siblings           | | 0.125 (⅛) | first cousins           |
+|           |                         |
+|-----------|-------------------------|
+| r         | relationship            |
+| 0.5 (½)   | parent-offspring        |
+| 0.25 (¼)  | grandparent-grandchild  |
+| 1         | identical twins; clones |
+| 0.5 (½)   | full siblings           |
+| 0.25 (¼)  | half siblings           |
+| 0.125 (⅛) | first cousins           |
 
 Here’s the kicker: **the correlation coefficient of the midparent value and the offspring value does not equal the slope of the line of best fit**. This is why I had second thoughts about using the term “correlation” so freely, and then switching to heritability. The formula is:
 

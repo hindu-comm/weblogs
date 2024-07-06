@@ -16,7 +16,25 @@ Andrew Gelman has a post up, [Who are the liberal Democrats and the conservative
 ![whiteind.png](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/whiteind.png?resize=475%2C479)![whiteind.png](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/whiteind.png?resize=475%2C479)  
 ![whiterepu.png](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/whiterepu.png?resize=482%2C492)![whiterepu.png](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/whiterepu.png?resize=482%2C492)
 
-|                        |             |              |                  | |------------------------|-------------|--------------|------------------| | **White Democrats**    |             |              |                  | |                        | **Liberal** | **Moderate** | **Conservative** | | Low                    | 38.4        | 57.9         | 62.8             | | Middle                 | 43.6        | 33.1         | 31.8             | | High                   | 18.1        | 9.1          | 5.4              | |                        |             |              |                  | | **White Independents** |             |              |                  | |                        | **Liberal** | **Moderate** | **Conservative** | | Low                    | 62.6        | 62           | 66.4             | | Middle                 | 32          | 30.3         | 26.8             | | High                   | 5.4         | 7.7          | 6.8              | |                        |             |              |                  | | **White Republicans**  |             |              |                  | |                        | **Liberal** | **Moderate** | **Conservative** | | Low                    | 50.1        | 50.9         | 40.2             | | Middle                 | 38.8        | 38.1         | 44.8             | | High                   | 11.1        | 11           | 15               |
+|                        |             |              |                  |
+|------------------------|-------------|--------------|------------------|
+| **White Democrats**    |             |              |                  |
+|                        | **Liberal** | **Moderate** | **Conservative** |
+| Low                    | 38.4        | 57.9         | 62.8             |
+| Middle                 | 43.6        | 33.1         | 31.8             |
+| High                   | 18.1        | 9.1          | 5.4              |
+|                        |             |              |                  |
+| **White Independents** |             |              |                  |
+|                        | **Liberal** | **Moderate** | **Conservative** |
+| Low                    | 62.6        | 62           | 66.4             |
+| Middle                 | 32          | 30.3         | 26.8             |
+| High                   | 5.4         | 7.7          | 6.8              |
+|                        |             |              |                  |
+| **White Republicans**  |             |              |                  |
+|                        | **Liberal** | **Moderate** | **Conservative** |
+| Low                    | 50.1        | 50.9         | 40.2             |
+| Middle                 | 38.8        | 38.1         | 44.8             |
+| High                   | 11.1        | 11           | 15               |
 
 The same general trend as in the data Gelman reports; conservative Democrats tend to be lower socioeconomic status, while conservative Republicans are higher status. Since the intelligent and educated are more ideological this makes sense. Over the past generation more Americans routinely have labelled themselves Democrats than Republicans and conservatives than liberal, but both Democrats and conservatives have been confused as to why they can’t always translate their numbers in polls into permanent dominance in politics. I suspect there’s some sort sentimental preference in people labeling themselves Democrats and conservatives which doesn’t really reflect much in terms of their voting or the realized preferences contingent upon their voting.
 

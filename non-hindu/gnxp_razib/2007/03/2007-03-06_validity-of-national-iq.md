@@ -29,7 +29,13 @@ Supplemental Figure 2. National IQ correlates with a L&V’s quality-of-life ind
 
 Supplemental Table 1. Correlation matrix for national IQ (IQ), national test score (Test), L&V’s quality of life index (QHC) and log per-capita GDP (logGPD) for 62 countries.
 
-|        |           |           |           |           | |--------|-----------|-----------|-----------|-----------| | r      | QHC       | logGDP    | IQ        | Test      | | QHC    | 1         | 0.898936  | 0.7933265 | 0.7803476 | | logGDP | 0.898936  | 1         | 0.760138  | 0.7565582 | | IQ     | 0.7933265 | 0.760138  | 1         | 0.9008035 | | Test   | 0.7803476 | 0.7565582 | 0.9008035 | 1         |
+|        |           |           |           |           |
+|--------|-----------|-----------|-----------|-----------|
+| r      | QHC       | logGDP    | IQ        | Test      |
+| QHC    | 1         | 0.898936  | 0.7933265 | 0.7803476 |
+| logGDP | 0.898936  | 1         | 0.760138  | 0.7565582 |
+| IQ     | 0.7933265 | 0.760138  | 1         | 0.9008035 |
+| Test   | 0.7803476 | 0.7565582 | 0.9008035 | 1         |
 
 Related papers:  
 \* Earl Hunt and Werner Wittmann, [National intelligence and national prosperity](https://dx.doi.org/10.1016/j.intell.2006.11.002), Intelligence, In Press –examines PISA scores  

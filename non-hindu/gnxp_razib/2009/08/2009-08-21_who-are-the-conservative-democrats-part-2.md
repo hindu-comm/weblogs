@@ -19,7 +19,48 @@ As for the rest of the question, that’s rather easy to explore. I simply combi
   
 ![consvadems.png](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/consvadems.png?resize=500%2C588)![consvadems.png](https://i0.wp.com/blogs.discovermagazine.com/gnxp/files/consvadems.png?resize=500%2C588)
 
-|                              |                        |                  | |-----------------------------:|-----------------------:|-----------------:| |                              | **Liberal + Moderate** | **Conservative** | |                **Northeast** |                   86.5 |             13.5 | |                  **Midwest** |                   84.5 |             15.5 | |                    **South** |                   73.8 |             26.2 | |                     **West** |                   86.8 |             13.2 | |                    **18-30** |                   87.6 |             12.4 | |                    **31-45** |                   84.6 |             15.4 | |                    **46.65** |                   80.1 |             19.9 | |                      **65-** |                   76.6 |             23.4 | |                **SEI 17-37** |                   76.7 |             23.3 | |                **SEI 37-57** |                   80.8 |             19.2 | |                **SEI 57-77** |                   86.9 |             13.1 | |                **SEI 77-97** |                   92.1 |              7.9 | |                     **Male** |                   80.7 |             19.3 | |                   **Female** |                   83.3 |             16.7 | |    **Less Than High School** |                     73 |               27 | |              **High School** |                   80.2 |             19.8 | |           **Junior College** |                   78.5 |             21.5 | |                 **Bachelor** |                   88.8 |             11.2 | |                 **Graduate** |                   93.8 |              6.2 | |       **Dumb (WORDSUM 0-4)** |                   70.1 |             29.9 | |     **Normal (WORDSUM 5-7)** |                   79.1 |             20.9 | |     **Smart (WORDSUM 8-10)** |                   88.9 |             11.1 | |         **Atheist/Agnostic** |                   94.7 |              5.3 | |             **Higher Power** |                   92.9 |              7.1 | | **Believe in God Sometimes** |                   83.4 |             16.6 | |      **Believe with Doubts** |                     85 |               15 | |          **Know God Exists** |                   78.1 |             21.9 | |               **Protestant** |                   78.3 |             21.7 | |                 **Catholic** |                   80.5 |             19.5 | |                   **Jewish** |                   92.7 |              7.3 | |              **No Religion** |                   91.9 |              8.1 | |            **Never Married** |                   87.8 |             12.2 | |                  **Married** |                   80.4 |             19.6 | |                 **Divorced** |                   82.8 |             17.2 | |       **Income \> \$25,000** |                   84.9 |             15.1 | |       **Income \< \$25,000** |                   78.8 |             21.2 | |         **Voted Clinton 96** |                   83.3 |             16.7 | |            **Voted Dole 96** |                   71.4 |             28.6 | |           **Voted Perot 96** |                   76.4 |             23.6 |
+|                              |                        |                  |
+|-----------------------------:|-----------------------:|-----------------:|
+|                              | **Liberal + Moderate** | **Conservative** |
+|                **Northeast** |                   86.5 |             13.5 |
+|                  **Midwest** |                   84.5 |             15.5 |
+|                    **South** |                   73.8 |             26.2 |
+|                     **West** |                   86.8 |             13.2 |
+|                    **18-30** |                   87.6 |             12.4 |
+|                    **31-45** |                   84.6 |             15.4 |
+|                    **46.65** |                   80.1 |             19.9 |
+|                      **65-** |                   76.6 |             23.4 |
+|                **SEI 17-37** |                   76.7 |             23.3 |
+|                **SEI 37-57** |                   80.8 |             19.2 |
+|                **SEI 57-77** |                   86.9 |             13.1 |
+|                **SEI 77-97** |                   92.1 |              7.9 |
+|                     **Male** |                   80.7 |             19.3 |
+|                   **Female** |                   83.3 |             16.7 |
+|    **Less Than High School** |                     73 |               27 |
+|              **High School** |                   80.2 |             19.8 |
+|           **Junior College** |                   78.5 |             21.5 |
+|                 **Bachelor** |                   88.8 |             11.2 |
+|                 **Graduate** |                   93.8 |              6.2 |
+|       **Dumb (WORDSUM 0-4)** |                   70.1 |             29.9 |
+|     **Normal (WORDSUM 5-7)** |                   79.1 |             20.9 |
+|     **Smart (WORDSUM 8-10)** |                   88.9 |             11.1 |
+|         **Atheist/Agnostic** |                   94.7 |              5.3 |
+|             **Higher Power** |                   92.9 |              7.1 |
+| **Believe in God Sometimes** |                   83.4 |             16.6 |
+|      **Believe with Doubts** |                     85 |               15 |
+|          **Know God Exists** |                   78.1 |             21.9 |
+|               **Protestant** |                   78.3 |             21.7 |
+|                 **Catholic** |                   80.5 |             19.5 |
+|                   **Jewish** |                   92.7 |              7.3 |
+|              **No Religion** |                   91.9 |              8.1 |
+|            **Never Married** |                   87.8 |             12.2 |
+|                  **Married** |                   80.4 |             19.6 |
+|                 **Divorced** |                   82.8 |             17.2 |
+|       **Income \> \$25,000** |                   84.9 |             15.1 |
+|       **Income \< \$25,000** |                   78.8 |             21.2 |
+|         **Voted Clinton 96** |                   83.3 |             16.7 |
+|            **Voted Dole 96** |                   71.4 |             28.6 |
+|           **Voted Perot 96** |                   76.4 |             23.6 |
 
 ### Related Posts:
 

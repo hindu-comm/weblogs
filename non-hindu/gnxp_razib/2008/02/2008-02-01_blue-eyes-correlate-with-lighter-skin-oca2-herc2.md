@@ -15,11 +15,21 @@ The story about HERC2 & OCA2 is getting a lot of press; that is, the genetics be
 
 I already [posted this](https://www.gnxp.com/blog/2007/11/oca2-blue-eyes-and-skin-color.php) before: **the SNPs which are used to predict blue eyes also track skin color variation**. In other words, [pleiotropy](https://en.wikipedia.org/wiki/Pleiotropy). This shouldn’t be a surprise, *OCA2* is a pigmentation locus which in many cases doesn’t exhibit tissue specific expression patterns; its name derives from the fact that some forms of albinism are associated with mutants on it. In any case, some concrete data about skin color and the *OCA2* SNPs can be found in a previous paper from a research group behind one of the current publications, [A Three-Single-Nucleotide Polymorphism Haplotype in Intron 1 of OCA2 Explains Most Human Eye-Color Variation](http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pubmed&pubmedid=17236130). Look at [table 1](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1785344&rendertype=table&id=TB1), and you find these data:
 
-|               |               |                 |                | |---------------|---------------|-----------------|----------------| | Genotype      | **Fair skin** | **Medium skin** | **Olive skin** | | *Blue/Blue*   | 46.5          | 46.1            | 7.4            | | *Blue/Brown*  | 31.3          | 52.2            | 16.6           | | *Brown/Brown* | 25.6          | 37.9            | 37.0           |
+|               |               |                 |                |
+|---------------|---------------|-----------------|----------------|
+| Genotype      | **Fair skin** | **Medium skin** | **Olive skin** |
+| *Blue/Blue*   | 46.5          | 46.1            | 7.4            |
+| *Blue/Brown*  | 31.3          | 52.2            | 16.6           |
+| *Brown/Brown* | 25.6          | 37.9            | 37.0           |
 
 Let’s do something with the numbers. Give fair skin a trait value of 1, medium skin 2, and olive skin 3. Then generate an average value for each genotype by weighting appropriately, and divide by the number associated with heterozygotes. This is what I get:
 
-|             |               | |-------------|---------------| | Genotype    | Average Value | | Blue/Blue   | 0.866         | | Blue/Brown  | 1             | | Brown/Brown | 1.14          |
+|             |               |
+|-------------|---------------|
+| Genotype    | Average Value |
+| Blue/Blue   | 0.866         |
+| Blue/Brown  | 1             |
+| Brown/Brown | 1.14          |
 
 Looks additive for skin color, doesn’t it? Since blue eyes as a trait seems to exhibit strong recessivity *HERC2/OCA2* derived variants are unlikely to have initially been selected for that phenotype. It could be something besides skin color, but that is the most plausible abduction at this point from where I stand (we know that selection was powerful on the locus).  
 **Related:** Genome-wide associations, HERC2 and eye color, 1 SNP to rule them & in the darkness bind them?, Why do you have blue eyes?, [HERC2 & blue eye color & Danes](https://www.gnxp.com/blog/2008/01/herc2-blue-eye-color-danes.php) and [OCA2, blue eyes and skin color](https://www.gnxp.com/blog/2007/11/oca2-blue-eyes-and-skin-color.php).
@@ -44,11 +54,21 @@ The story about HERC2 & OCA2 is getting a lot of press; that is, the genetics be
 
 I already [posted this](https://www.gnxp.com/blog/2007/11/oca2-blue-eyes-and-skin-color.php) before: **the SNPs which are used to predict blue eyes also track skin color variation**. In other words, [pleiotropy](https://en.wikipedia.org/wiki/Pleiotropy). This shouldn’t be a surprise, *OCA2* is a pigmentation locus which in many cases doesn’t exhibit tissue specific expression patterns; its name derives from the fact that some forms of albinism are associated with mutants on it. In any case, some concrete data about skin color and the *OCA2* SNPs can be found in a previous paper from a research group behind one of the current publications, [A Three-Single-Nucleotide Polymorphism Haplotype in Intron 1 of OCA2 Explains Most Human Eye-Color Variation](http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pubmed&pubmedid=17236130). Look at [table 1](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1785344&rendertype=table&id=TB1), and you find these data:
 
-|             |               |                 |                | |-------------|---------------|-----------------|----------------| | Genotype    | **Fair skin** | **Medium skin** | **Olive skin** | | Blue/Blue   | 46.5          | 46.1            | 7.4            | | Blue/Brown  | 31.3          | 52.2            | 16.6           | | Brown/Brown | 25.6          | 37.9            | 37.0           |
+|             |               |                 |                |
+|-------------|---------------|-----------------|----------------|
+| Genotype    | **Fair skin** | **Medium skin** | **Olive skin** |
+| Blue/Blue   | 46.5          | 46.1            | 7.4            |
+| Blue/Brown  | 31.3          | 52.2            | 16.6           |
+| Brown/Brown | 25.6          | 37.9            | 37.0           |
 
 Let’s do something with the numbers. Give fair skin a trait value of 1, medium skin 2, and olive skin 3. Then generate an average value for each genotype by weighting appropriately, and divide by the number associated with heterozygotes. This is what I get:
 
-|             |               | |-------------|---------------| | Genotype    | Average Value | | Blue/Blue   | 0.866         | | Blue/Brown  | 1             | | Brown/Brown | 1.14          |
+|             |               |
+|-------------|---------------|
+| Genotype    | Average Value |
+| Blue/Blue   | 0.866         |
+| Blue/Brown  | 1             |
+| Brown/Brown | 1.14          |
 
 Looks additive for skin color, doesn’t it? Since blue eyes as a trait seems to exhibit strong recessivity *HERC2/OCA2* derived variants are unlikely to have initially been selected for that phenotype. It could be something besides skin color, but that is the most plausible abduction at this point from where I stand (we know that selection was powerful on the locus).
 

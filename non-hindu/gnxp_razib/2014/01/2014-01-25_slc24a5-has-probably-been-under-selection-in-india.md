@@ -18,7 +18,21 @@ Greg Cochran has a [few](http://westhunt.wordpress.com/2014/01/22/tar-zan/) [pos
 
 Prompted by [another paper](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003912) I had stumbled upon data to answer this question a few months back. The results below are from [Polymorphisms of four pigmentation genes (SLC45A2, SLC24A5, MC1R and TYRP1) among eleven endogamous populations of India](http://ns1.ias.ac.in/jgenet/Vol92No1/135.pdf) (except for the HapMap samples).
 
-|                       |                  |                 |            |             |       | |-----------------------|------------------|-----------------|------------|-------------|-------| | Population            | **State**        | **Linguistic**  | **Status** | **SLC24A5** | **N** | | *Konkanastha Brahmin* | *Maharashtra*    | *Indo-European* | *Caste*    | *0.9789*    | *71*  | | *Gujarati*            | *Gujarat*        | *Indo-European* | *Diverse*  | *0.955*     | *100* | | *Kanyakubja Brahmin*  | *Madhya Pradesh* | *Indo-European* | *Caste*    | *0.8846*    | *78*  | | *Sakaldwipi Brahmin*  | *Jharkhand*      | *Indo-European* | *Caste*    | *0.7692*    | *65*  | | *Iyengar Brahmin*     | *Tamil Nadu*     | *Dravidian*     | *Caste*    | *0.7463*    | *66*  | | *Mahadev*             | *Maharashtra*    | *Indo-European* | *Tribe*    | *0.7231*    | *65*  | | *Balmiki*             | *Punjab*         | *Indo-European* | *Caste*    | *0.6694*    | *62*  | | *Kurumans*            | *Tamil Nadu*     | *Dravidian*     | *Tribe*    | *0.4104*    | *67*  | | Gond                  | Madhya Pradesh   | Dravidian       | Tribe      | 0.2333      | 75    | | Riang                 | Tripura          | Tibeto-Burman   | Tribe      | 0.1119      | 67    | | Munda                 | Jharkhand        | Austro-Asiatic  | Tribe      | 0.0956      | 68    | | Tripuri               | Tripura          | Tibeto-Burman   | Tribe      | 0.0923      | 65    |
+|                       |                  |                 |            |             |       |
+|-----------------------|------------------|-----------------|------------|-------------|-------|
+| Population            | **State**        | **Linguistic**  | **Status** | **SLC24A5** | **N** |
+| *Konkanastha Brahmin* | *Maharashtra*    | *Indo-European* | *Caste*    | *0.9789*    | *71*  |
+| *Gujarati*            | *Gujarat*        | *Indo-European* | *Diverse*  | *0.955*     | *100* |
+| *Kanyakubja Brahmin*  | *Madhya Pradesh* | *Indo-European* | *Caste*    | *0.8846*    | *78*  |
+| *Sakaldwipi Brahmin*  | *Jharkhand*      | *Indo-European* | *Caste*    | *0.7692*    | *65*  |
+| *Iyengar Brahmin*     | *Tamil Nadu*     | *Dravidian*     | *Caste*    | *0.7463*    | *66*  |
+| *Mahadev*             | *Maharashtra*    | *Indo-European* | *Tribe*    | *0.7231*    | *65*  |
+| *Balmiki*             | *Punjab*         | *Indo-European* | *Caste*    | *0.6694*    | *62*  |
+| *Kurumans*            | *Tamil Nadu*     | *Dravidian*     | *Tribe*    | *0.4104*    | *67*  |
+| Gond                  | Madhya Pradesh   | Dravidian       | Tribe      | 0.2333      | 75    |
+| Riang                 | Tripura          | Tibeto-Burman   | Tribe      | 0.1119      | 67    |
+| Munda                 | Jharkhand        | Austro-Asiatic  | Tribe      | 0.0956      | 68    |
+| Tripuri               | Tripura          | Tibeto-Burman   | Tribe      | 0.0923      | 65    |
 
 If you look at the [latest research](http://www.cell.com/AJHG/retrieve/pii/S0002929713003248) it seems pretty obvious that the proportion of derived*SLC24A5*in all the italicized populations is higher than their “Ancestral North Indian,” the West Eurasian element which arrived in the last 10,000 and almost certainly brought the derived variant. On the North Indian plain in Uttar Pradesh the ANI proportion for high castes like Brahmins is 60%, while for Dalit low castes like Chamars it is 40%.
 

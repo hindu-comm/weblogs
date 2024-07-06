@@ -22,7 +22,30 @@ After my [last post on law school](http://blogs.discovermagazine.com/gnxp/2012/0
 
 ------------------------------------------------------------------------
 
-|                                |                          |                                                 | |--------------------------------|--------------------------|-------------------------------------------------| | **School**                     | **Tuition in thousands** | **Proportion in law related jobs after 1 year** | | VIRGINIA, UNIVERSITY OF        | 46                       | 95%                                             | | COLUMBIA UNIVERSITY            | 51                       | 94%                                             | | STANFORD UNIVERSITY            | 47                       | 91%                                             | | NEW YORK UNIVERSITY            | 47                       | 90%                                             | | HARVARD UNIVERSITY             | 46                       | 90%                                             | | CHICAGO, UNIVERSITY OF         | 45                       | 88%                                             | | YALE UNIVERSITY                | 51                       | 88%                                             | | PENNSYLVANIA, UNIVERSITY OF    | 45                       | 84%                                             | | DUKE UNIVERSITY                | 51                       | 82%                                             | | GEORGE WASHINGTON UNIVERSITY   | 46                       | 81%                                             | | AVE MARIA                      | 35                       | 33%                                             | | UNIVERSITY OF LA VERNE         | 38                       | 33%                                             | | WESTERN STATE                  | 35                       | 32%                                             | | LIBERTY UNIVERSITY             | 27                       | 31%                                             | | APPALACHIAN SCHOOL OF LAW      | 32                       | 31%                                             | | WESTERN NEW ENGLAND UNIVERSITY | 37                       | 30%                                             | | THOMAS JEFFERSON SCHOOL OF LAW | 41                       | 27%                                             | | GOLDEN GATE UNIVERSITY         | 38                       | 22%                                             | | DISTRICT OF COLUMBIA           | 31                       | 21%                                             | | WHITTIER COLLEGE               | 38                       | 17%                                             | | PUERTO RICO, UNIVERSITY OF     | 8                        | 0%                                              |
+|                                |                          |                                                 |
+|--------------------------------|--------------------------|-------------------------------------------------|
+| **School**                     | **Tuition in thousands** | **Proportion in law related jobs after 1 year** |
+| VIRGINIA, UNIVERSITY OF        | 46                       | 95%                                             |
+| COLUMBIA UNIVERSITY            | 51                       | 94%                                             |
+| STANFORD UNIVERSITY            | 47                       | 91%                                             |
+| NEW YORK UNIVERSITY            | 47                       | 90%                                             |
+| HARVARD UNIVERSITY             | 46                       | 90%                                             |
+| CHICAGO, UNIVERSITY OF         | 45                       | 88%                                             |
+| YALE UNIVERSITY                | 51                       | 88%                                             |
+| PENNSYLVANIA, UNIVERSITY OF    | 45                       | 84%                                             |
+| DUKE UNIVERSITY                | 51                       | 82%                                             |
+| GEORGE WASHINGTON UNIVERSITY   | 46                       | 81%                                             |
+| AVE MARIA                      | 35                       | 33%                                             |
+| UNIVERSITY OF LA VERNE         | 38                       | 33%                                             |
+| WESTERN STATE                  | 35                       | 32%                                             |
+| LIBERTY UNIVERSITY             | 27                       | 31%                                             |
+| APPALACHIAN SCHOOL OF LAW      | 32                       | 31%                                             |
+| WESTERN NEW ENGLAND UNIVERSITY | 37                       | 30%                                             |
+| THOMAS JEFFERSON SCHOOL OF LAW | 41                       | 27%                                             |
+| GOLDEN GATE UNIVERSITY         | 38                       | 22%                                             |
+| DISTRICT OF COLUMBIA           | 31                       | 21%                                             |
+| WHITTIER COLLEGE               | 38                       | 17%                                             |
+| PUERTO RICO, UNIVERSITY OF     | 8                        | 0%                                              |
 
 ------------------------------------------------------------------------
 

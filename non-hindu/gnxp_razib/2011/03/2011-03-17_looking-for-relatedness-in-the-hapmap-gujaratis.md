@@ -15,7 +15,30 @@ Recently I was looking at a 3-D PCA animation which [Zack generated](http://www.
 
 Here are the relevant results:
 
-|                  |                  |        |        |        |            |         |         |           | |------------------|------------------|--------|--------|--------|------------|---------|---------|-----------| | **Individual 1** | **Individual 2** | **Z0** | **Z1** | **Z2** | **PI_HAT** | **DST** | **PPC** | **RATIO** | | Indian           | Father           | 0.768  | 0.027  | 0.205  | 0.218      | *0.760* | 0.160   | 1.940     | | Indian           | Mother           | 0.782  | 0.010  | 0.209  | 0.214      | *0.759* | 0.026   | 1.886     | | Indian           | Razib            | 0.767  | 0.032  | 0.202  | 0.218      | *0.759* | 0.500   | 2.000     | | Indian           | Sibling1         | 0.769  | 0.025  | 0.206  | 0.219      | *0.760* | 0.198   | 1.949     | | Indian           | Sibling2         | 0.766  | 0.032  | 0.203  | 0.219      | *0.760* | 0.685   | 2.030     | | Indian           | Pakistani        | 0.781  | 0.017  | 0.203  | 0.211      | *0.758* | 0.533   | 2.005     | | Father           | Mother           | 0.776  | 0.018  | 0.207  | 0.215      | *0.759* | 0.284   | 1.965     | | Father           | Razib            | 0.002  | 0.777  | 0.221  | 0.610      | *0.851* | 1.000   | 450.800   | | Father           | Sibling1         | 0.001  | 0.785  | 0.214  | 0.606      | *0.850* | 1.000   | 898.800   | | Father           | Sibling2         | 0.002  | 0.779  | 0.220  | 0.609      | *0.851* | 1.000   | 643.143   | | Father           | Pakistani        | 0.778  | 0.019  | 0.203  | 0.213      | *0.758* | 0.201   | 1.950     | | Mother           | Razib            | 0.002  | 0.788  | 0.211  | 0.605      | *0.849* | 1.000   | 639.429   | | Mother           | Sibling1         | 0.002  | 0.781  | 0.218  | 0.608      | *0.850* | 1.000   | 639.857   | | Mother           | Sibling2         | 0.002  | 0.782  | 0.216  | 0.607      | *0.850* | 1.000   | 447.900   | | Mother           | Pakistani        | 0.779  | 0.020  | 0.201  | 0.211      | *0.758* | 0.052   | 1.904     | | Razib            | Sibling1         | 0.183  | 0.408  | 0.409  | 0.613      | *0.866* | 1.000   | 11.386    | | Razib            | Sibling2         | 0.194  | 0.432  | 0.374  | 0.590      | *0.858* | 1.000   | 11.491    | | Razib            | Pakistani        | 0.781  | 0.016  | 0.203  | 0.211      | *0.758* | 0.933   | 2.095     | | Sibling1         | Sibling2         | 0.236  | 0.412  | 0.351  | 0.557      | *0.849* | 1.000   | 9.413     | | Sibling1         | Pakistani        | 0.777  | 0.024  | 0.199  | 0.211      | *0.758* | 0.327   | 1.973     | | Sibling2         | Pakistani        | 0.774  | 0.024  | 0.202  | 0.214      | *0.758* | 0.443   | 1.991     |
+|                  |                  |        |        |        |            |         |         |           |
+|------------------|------------------|--------|--------|--------|------------|---------|---------|-----------|
+| **Individual 1** | **Individual 2** | **Z0** | **Z1** | **Z2** | **PI_HAT** | **DST** | **PPC** | **RATIO** |
+| Indian           | Father           | 0.768  | 0.027  | 0.205  | 0.218      | *0.760* | 0.160   | 1.940     |
+| Indian           | Mother           | 0.782  | 0.010  | 0.209  | 0.214      | *0.759* | 0.026   | 1.886     |
+| Indian           | Razib            | 0.767  | 0.032  | 0.202  | 0.218      | *0.759* | 0.500   | 2.000     |
+| Indian           | Sibling1         | 0.769  | 0.025  | 0.206  | 0.219      | *0.760* | 0.198   | 1.949     |
+| Indian           | Sibling2         | 0.766  | 0.032  | 0.203  | 0.219      | *0.760* | 0.685   | 2.030     |
+| Indian           | Pakistani        | 0.781  | 0.017  | 0.203  | 0.211      | *0.758* | 0.533   | 2.005     |
+| Father           | Mother           | 0.776  | 0.018  | 0.207  | 0.215      | *0.759* | 0.284   | 1.965     |
+| Father           | Razib            | 0.002  | 0.777  | 0.221  | 0.610      | *0.851* | 1.000   | 450.800   |
+| Father           | Sibling1         | 0.001  | 0.785  | 0.214  | 0.606      | *0.850* | 1.000   | 898.800   |
+| Father           | Sibling2         | 0.002  | 0.779  | 0.220  | 0.609      | *0.851* | 1.000   | 643.143   |
+| Father           | Pakistani        | 0.778  | 0.019  | 0.203  | 0.213      | *0.758* | 0.201   | 1.950     |
+| Mother           | Razib            | 0.002  | 0.788  | 0.211  | 0.605      | *0.849* | 1.000   | 639.429   |
+| Mother           | Sibling1         | 0.002  | 0.781  | 0.218  | 0.608      | *0.850* | 1.000   | 639.857   |
+| Mother           | Sibling2         | 0.002  | 0.782  | 0.216  | 0.607      | *0.850* | 1.000   | 447.900   |
+| Mother           | Pakistani        | 0.779  | 0.020  | 0.201  | 0.211      | *0.758* | 0.052   | 1.904     |
+| Razib            | Sibling1         | 0.183  | 0.408  | 0.409  | 0.613      | *0.866* | 1.000   | 11.386    |
+| Razib            | Sibling2         | 0.194  | 0.432  | 0.374  | 0.590      | *0.858* | 1.000   | 11.491    |
+| Razib            | Pakistani        | 0.781  | 0.016  | 0.203  | 0.211      | *0.758* | 0.933   | 2.095     |
+| Sibling1         | Sibling2         | 0.236  | 0.412  | 0.351  | 0.557      | *0.849* | 1.000   | 9.413     |
+| Sibling1         | Pakistani        | 0.777  | 0.024  | 0.199  | 0.211      | *0.758* | 0.327   | 1.973     |
+| Sibling2         | Pakistani        | 0.774  | 0.024  | 0.202  | 0.214      | *0.758* | 0.443   | 1.991     |
 
 You can infer some things without even knowing what the columns mean. Notice that there are differences between parent-child, sibling-sibling, and unrelated comparisons. The distance measure, DST, is basically exactly the same as the genome-wide comparison in 23andMe. Either the web app is running Plink, or, it’s using the exact same algorithm. Z0 = IBD 0, Z1 = IBD 1, and Z2 = IBD 2. Notice that with my siblings I have a fair amount of IBD 2, but far less with my parents. That’s because parents give you one copy, but you can share zero, one, or two, of a gene with your siblings. In contrast, with our parents there is hardly any IBD = 0, since they’re guaranteed to give you one copy. I assume that the IBD = 2 in that case is population wide fixation of a variant. Notice in the last column that there are different values for unrelated individuals (\~2), siblings (\~10), and parent-children (\~500).
 
@@ -31,7 +54,13 @@ Mean of Gujarati_A and Gujarati_B pairs only: 0.745
 
 Gujarati_B are marginally closer to each other than Gujarati_A. I’m not sure these DST values are totally comparable to the ones from the 23andMe files. I’ll show you why. I constrained the pairs to those where the RATIO was \> 2.5. Here’s what I found:
 
-|                  |                  |        |        |        |            |         |         |           |            |            | |------------------|------------------|--------|--------|--------|------------|---------|---------|-----------|------------|------------| | **Individual 1** | **Individual 2** | **Z0** | **Z1** | **Z2** | **PI_HAT** | **DST** | **PPC** | **RATIO** | **PopX**   | **PopY**   | | NA20900          | NA20891          | 0.003  | 0.974  | 0.023  | 0.510      | 0.842   | 1.000   | 188.250   | Gujarati_A | Gujarati_A | | NA20909          | NA20910          | 0.003  | 0.970  | 0.027  | 0.512      | 0.842   | 1.000   | 140.438   | Gujarati_A | Gujarati_A | | NA20891          | NA20907          | 0.412  | 0.557  | 0.032  | 0.310      | 0.803   | 1.000   | 5.730     | Gujarati_A | Gujarati_A | | NA20900          | NA20907          | 0.684  | 0.292  | 0.024  | 0.170      | 0.775   | 1.000   | 3.251     | Gujarati_A | Gujarati_A |
+|                  |                  |        |        |        |            |         |         |           |            |            |
+|------------------|------------------|--------|--------|--------|------------|---------|---------|-----------|------------|------------|
+| **Individual 1** | **Individual 2** | **Z0** | **Z1** | **Z2** | **PI_HAT** | **DST** | **PPC** | **RATIO** | **PopX**   | **PopY**   |
+| NA20900          | NA20891          | 0.003  | 0.974  | 0.023  | 0.510      | 0.842   | 1.000   | 188.250   | Gujarati_A | Gujarati_A |
+| NA20909          | NA20910          | 0.003  | 0.970  | 0.027  | 0.512      | 0.842   | 1.000   | 140.438   | Gujarati_A | Gujarati_A |
+| NA20891          | NA20907          | 0.412  | 0.557  | 0.032  | 0.310      | 0.803   | 1.000   | 5.730     | Gujarati_A | Gujarati_A |
+| NA20900          | NA20907          | 0.684  | 0.292  | 0.024  | 0.170      | 0.775   | 1.000   | 3.251     | Gujarati_A | Gujarati_A |
 
 Notice that Z2 \~ 0, in contrast to the calculations above. I assume someone reading this knows that there’s a simple reason for this, so do tell. The IBD estimates for 23andMe always struck me as too high. In any case, to my surprise **the definitely related individuals seem to be in the Gujarati_A cluster!** What’s going on there? My first thought is that I messed up the data, or, I coded something incorrectly. I assume that this was double-checked before it got into the HapMap data set. Has anyone else seen this weird result? If not, I assume I made an error (that’s kind of my working model right now actually).
 

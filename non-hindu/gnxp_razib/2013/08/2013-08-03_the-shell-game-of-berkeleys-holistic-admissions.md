@@ -26,7 +26,15 @@ Comparing to UC Berkeley’s [student data](http://opa.berkeley.edu/statistics/e
 
 
 
-|             |            |             |       | |-------------|------------|-------------|-------| |             | California | UC Berkeley | Ratio | | Chinese     | 3.4        | 21.2        | 6.2   | | Filipino    | 3.2        | 2.6         | 0.8   | | Japanese    | 0.7        | 1.6         | 2.3   | | Korean      | 1.2        | 5.4         | 4.5   | | South Asian | 1.4        | 8.1         | 5.8   | | Vietnamese  | 1.6        | 3.4         | 2.1   |
+|             |            |             |       |
+|-------------|------------|-------------|-------|
+|             | California | UC Berkeley | Ratio |
+| Chinese     | 3.4        | 21.2        | 6.2   |
+| Filipino    | 3.2        | 2.6         | 0.8   |
+| Japanese    | 0.7        | 1.6         | 2.3   |
+| Korean      | 1.2        | 5.4         | 4.5   |
+| South Asian | 1.4        | 8.1         | 5.8   |
+| Vietnamese  | 1.6        | 3.4         | 2.1   |
 
 
 
@@ -34,7 +42,18 @@ A few notes. I assumed that Indian American is a good proxy for South Asian (in 
 
 Finally, I decided to revisit the ethnic proportions at the various [UC campuses](http://www.cpec.ca.gov/StudentData/StudentSnapshot.ASP?DataReport=UCEth). Taking all the undergraduates, and removing international students and those who refuse to provide racial information, here are the proportions on each campus:
 
-|               |       |                 |              |          |        | |---------------|-------|-----------------|--------------|----------|--------| | Institution   | Black | Native American | Asian/Pac Is | Filipino | Latino | | Berkeley      | 4     | 1               | 42           | 4        | 14     | | Davis         | 3     | 1               | 38           | 4        | 16     | | Irvine        | 3     | 1               | 49           | 8        | 17     | | Los Angeles   | 5     | 1               | 37           | 5        | 18     | | Merced        | 8     | 1               | 26           | 7        | 37     | | Riverside     | 8     | 0               | 36           | 6        | 32     | | San Diego     | 2     | 1               | 50           | 5        | 15     | | Santa Barbara | 4     | 1               | 17           | 3        | 24     | | Santa Cruz    | 3     | 1               | 21           | 4        | 22     |
+|               |       |                 |              |          |        |
+|---------------|-------|-----------------|--------------|----------|--------|
+| Institution   | Black | Native American | Asian/Pac Is | Filipino | Latino |
+| Berkeley      | 4     | 1               | 42           | 4        | 14     |
+| Davis         | 3     | 1               | 38           | 4        | 16     |
+| Irvine        | 3     | 1               | 49           | 8        | 17     |
+| Los Angeles   | 5     | 1               | 37           | 5        | 18     |
+| Merced        | 8     | 1               | 26           | 7        | 37     |
+| Riverside     | 8     | 0               | 36           | 6        | 32     |
+| San Diego     | 2     | 1               | 50           | 5        | 15     |
+| Santa Barbara | 4     | 1               | 17           | 3        | 24     |
+| Santa Cruz    | 3     | 1               | 21           | 4        | 22     |
 
 
 

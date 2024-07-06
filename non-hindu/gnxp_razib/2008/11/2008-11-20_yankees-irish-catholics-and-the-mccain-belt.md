@@ -15,15 +15,36 @@ But many of the arguments in favor of FSE are rather impressionistic. They are i
 
 What are the religious breakdowns of New Englanders?
 
-|              |       | |--------------|-------| | **Religion** | **%** | |              |       | | Protestant   | 30.2  | | Catholic     | 53.8  | | Jewish       | 3.9   | | None         | 11.9  |
+|              |       |
+|--------------|-------|
+| **Religion** | **%** |
+|              |       |
+| Protestant   | 30.2  |
+| Catholic     | 53.8  |
+| Jewish       | 3.9   |
+| None         | 11.9  |
 
 This looks about right checking with the [Pew Religious Survey](https://religions.pewforum.org/maps). I’m not totally sure about the representativeness of the GSS in terms of within New England balance, but since I’m interested in comparing New England Protestants and Catholics and McCain Belt whites I’m not too worried.
 
 Earlier I said that the proportion of people with “No Religion” in New England probably was going to be disproportionately Yankee. I’m not so sure. The two tables below have rows which add up to 100% for religion and ancestry respectively.
 
-|                 |                  |                |            | |-----------------|------------------|----------------|------------| |                 |                  |                |            | |                 | **% Protestant** | **% Catholic** | **% None** | | England & Wales | 33.6             | 4.4            | 14.9       | | Germany         | 13.7             | 3.9            | 7.0        | | Ireland         | 9                | 24.1           | 19.1       | | Italy           | 3.7              | 21.1           | 9.5        | | Scotland        | 6.9              | 1.3            | 5.7        | | French Canada   | 4.9              | 17.8           | 5.8        |
+|                 |                  |                |            |
+|-----------------|------------------|----------------|------------|
+|                 |                  |                |            |
+|                 | **% Protestant** | **% Catholic** | **% None** |
+| England & Wales | 33.6             | 4.4            | 14.9       |
+| Germany         | 13.7             | 3.9            | 7.0        |
+| Ireland         | 9                | 24.1           | 19.1       |
+| Italy           | 3.7              | 21.1           | 9.5        |
+| Scotland        | 6.9              | 1.3            | 5.7        |
+| French Canada   | 4.9              | 17.8           | 5.8        |
 
-|            |                       |               |             |                |                     | |------------|-----------------------|---------------|-------------|----------------|---------------------| |            | **% England & Wales** | **% Ireland** | **% Italy** | **% Scotland** | **% French Canada** | | Protestant | 70.8                  | 15.1          | 7.9         | 60.5           | 12.3                | | Catholic   | 17                    | 73.4          | 82.3        | 20.1           | 81.9                | | None       | 11.1                  | 11.3          | 2.7         | 17.5           | 5.2                 |
+|            |                       |               |             |                |                     |
+|------------|-----------------------|---------------|-------------|----------------|---------------------|
+|            | **% England & Wales** | **% Ireland** | **% Italy** | **% Scotland** | **% French Canada** |
+| Protestant | 70.8                  | 15.1          | 7.9         | 60.5           | 12.3                |
+| Catholic   | 17                    | 73.4          | 82.3        | 20.1           | 81.9                |
+| None       | 11.1                  | 11.3          | 2.7         | 17.5           | 5.2                 |
 
 If the Irish and English & Welsh are the canonical white ethnics vs. Yankees, it seems secularization hit them both to the same extent. Since 88% of whites in the East South Central Division are self-identified Protestant, I won’t even give a breakdown by religion for that region. From now on I’ll refer to Yankee for Protestant New Englander, and White Ethnic, for Catholic New Englander, and the McCain Belt. Remember that I’m excluding those who put religion down as “None” for New England.  
 Instead of an impression based on impressions, I went through the GSS and looked at a host of variables. Some of them might not be surprising to you (WORDSUM score), and some of them more so (# of sex partners since 18). The point was to collect a lot of disparate data, spanning explicit and implicit cultural markers. I tried excluding any question where N was smaller than 100 for any category, though some of the questions have N’s bigger than 1,000. On some characters New Englanders cluster together against McCain Belt Whites. On other characters Yankees and McCain Belt Whites custer together against White Ethnics. Finally, there are cases where White Ethnic cluster with McCain Belt whites against Yankees. In many (most it seems to me) cases the pattern seems to be McCain Belt Whites at one end, Yankees at the other, and White Ethnics in the middle, and more often than not, closer to Yankees than McCain Belt Whites.  

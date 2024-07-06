@@ -11,7 +11,28 @@ The three poles of South Asian genetic variation
 
 Zack Ajmal has posted his [K = 11 Reference 3 results](http://www.harappadna.org/2011/04/harappa-1-90-k11-admixture-ref3/) *including* Harappa Ancestry Project participants. Below are the results sorted by the East Asian, South Asian, and Onge. I limited it to those who had 5% or more East Asian. All caps = reference populations. The rest are individuals from HAP:
 
-|                |               |               |             |          |             | |----------------|---------------|---------------|-------------|----------|-------------| | **Group**      | **Subgroup**  | **Ethnicity** | **S Asian** | **Onge** | **E Asian** | | Austro-Asiatic | Khasic        | KHASI         | 21%         | 21%      | 48%         | | Austro-Asiatic | Munda         | JUANG         | 26%         | 43%      | 28%         | | Austro-Asiatic | Munda         | BONDA         | 27%         | 44%      | 27%         | | Austro-Asiatic | Munda         | GADABA        | 29%         | 42%      | 24%         | | Austro-Asiatic | Munda         | KHARIA        | 33%         | 44%      | 21%         | | Austro-Asiatic | Munda         | SAVARA        | 33%         | 44%      | 21%         | | Austro-Asiatic | Munda         | HO            | 34%         | 44%      | 20%         | | Austro-Asiatic | Munda         | MAWASI        | 38%         | 44%      | 16%         | | Austro-Asiatic | Munda         | ASUR          | 42%         | 42%      | 14%         | | Austro-Asiatic | Munda         | SANTHAL       | 40%         | 45%      | 13%         | | Indo-European  | Indo-European | SAHARIYA      | 44%         | 39%      | 12%         | |                |               | Bengali       | 51%         | 28%      | 12%         | |                |               | Bengali       | 49%         | 28%      | 11%         | | Indo-European  | Indo-European | SATNAMI       | 49%         | 36%      | 8%          | |                | Isolate       | BURUSHO       | 47%         | 10%      | 6%          | |                |               | Bengali       | 54%         | 29%      | 6%          | |                |               | Bengali/Oriya | 53%         | 29%      | 5%          | | Dravidian      | Dravidian     | MALAYAN       | 50%         | 42%      | 5%          | |                |               | UP            | 48%         | 21%      | 5%          |
+|                |               |               |             |          |             |
+|----------------|---------------|---------------|-------------|----------|-------------|
+| **Group**      | **Subgroup**  | **Ethnicity** | **S Asian** | **Onge** | **E Asian** |
+| Austro-Asiatic | Khasic        | KHASI         | 21%         | 21%      | 48%         |
+| Austro-Asiatic | Munda         | JUANG         | 26%         | 43%      | 28%         |
+| Austro-Asiatic | Munda         | BONDA         | 27%         | 44%      | 27%         |
+| Austro-Asiatic | Munda         | GADABA        | 29%         | 42%      | 24%         |
+| Austro-Asiatic | Munda         | KHARIA        | 33%         | 44%      | 21%         |
+| Austro-Asiatic | Munda         | SAVARA        | 33%         | 44%      | 21%         |
+| Austro-Asiatic | Munda         | HO            | 34%         | 44%      | 20%         |
+| Austro-Asiatic | Munda         | MAWASI        | 38%         | 44%      | 16%         |
+| Austro-Asiatic | Munda         | ASUR          | 42%         | 42%      | 14%         |
+| Austro-Asiatic | Munda         | SANTHAL       | 40%         | 45%      | 13%         |
+| Indo-European  | Indo-European | SAHARIYA      | 44%         | 39%      | 12%         |
+|                |               | Bengali       | 51%         | 28%      | 12%         |
+|                |               | Bengali       | 49%         | 28%      | 11%         |
+| Indo-European  | Indo-European | SATNAMI       | 49%         | 36%      | 8%          |
+|                | Isolate       | BURUSHO       | 47%         | 10%      | 6%          |
+|                |               | Bengali       | 54%         | 29%      | 6%          |
+|                |               | Bengali/Oriya | 53%         | 29%      | 5%          |
+| Dravidian      | Dravidian     | MALAYAN       | 50%         | 42%      | 5%          |
+|                |               | UP            | 48%         | 21%      | 5%          |
 
 That’s my parents at 12 and 11 percent East Asian. Using the new reference population Zack estimates that my “Ancestral South Indian” (ASI) is \~43%. That makes more sense to me that Dodecad’s estimate of \~34%. I think that Dodecad method was confused because I do have genuine East Asian admixture, and the estimate of “Ancestral North India” (ANI) vs. ASI is confounded by other components. I suspect that the estimates of Onge are probably less valid for groups like the Khasi because of bleeding over from the East Asian component (in other words, the regression which Zack used to predict ASI is fitted to South Asian populations *without* East Asian admixture, and isn’t fully transferable to those that have it). But the geographical breakdown of the East Asian element is pretty striking, if expected. The Bengalis have more East Asian than other Indians, as you’d expect. Here are all the HAP individuals + reference populations as points on a two dimensional plot:
 

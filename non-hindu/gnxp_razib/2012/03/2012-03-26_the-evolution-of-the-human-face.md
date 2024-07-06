@@ -17,7 +17,21 @@ Here the [top 10 SNPs which deviate](http://www.genomesunzipped.org/2012/03/iden
 
 
 
-|            |         |                  |                   | |------------|---------|------------------|-------------------| |            |         |                  |                   | | **SNP**    | **Chr** | **Nearest gene** | **Phenotype**     | | rs1834640  | 15      | SLC24A5          | skin pigmentation | | rs260690   | 2       | EDAR             | hair morphology   | | rs10882168 | 10      | CYP26A1/FER1L3   | ?                 | | rs4918664  | 10      | CYP26A1/FER1L3   | ?                 | | rs2250072  | 15      | SLC24A5          | skin pigmentation | | rs6583859  | 10      | CYP26A1/FER1L3   | ?                 | | rs2384319  | 2       | KIF3C            | ?                 | | rs6500380  | 16      | LONP2            | ?                 | | rs4497887  | 2       | CNTNAP5          | ?                 | | rs9809818  | 3       | FOXP1            | ?                 | |            |         |                  |                   |
+|            |         |                  |                   |
+|------------|---------|------------------|-------------------|
+|            |         |                  |                   |
+| **SNP**    | **Chr** | **Nearest gene** | **Phenotype**     |
+| rs1834640  | 15      | SLC24A5          | skin pigmentation |
+| rs260690   | 2       | EDAR             | hair morphology   |
+| rs10882168 | 10      | CYP26A1/FER1L3   | ?                 |
+| rs4918664  | 10      | CYP26A1/FER1L3   | ?                 |
+| rs2250072  | 15      | SLC24A5          | skin pigmentation |
+| rs6583859  | 10      | CYP26A1/FER1L3   | ?                 |
+| rs2384319  | 2       | KIF3C            | ?                 |
+| rs6500380  | 16      | LONP2            | ?                 |
+| rs4497887  | 2       | CNTNAP5          | ?                 |
+| rs9809818  | 3       | FOXP1            | ?                 |
+|            |         |                  |                   |
 
 There are two things I want to say off the bat. First, **a given SNP likely has many phenotypic effects.** So the trait that we “see” in terms of its effect may not be the same trait that natural selection “sees.” Second, it is not a surprise that out of the traits that a given variant may affect the physically salient ones stand out; sometimes you do go looking where the light is shining on a dark street. We know that the lighter complexion of East and West Eurasians seems to be due to [independent evolutionary events](http://blogs.discovermagazine.com/gnxp/2006/12/convergent-evolution-in-skin-color-part-n/). In other words, they aren’t derived from common ancestry. When it comes to hair form the *EDAR* locus seems to be responsible for the distinctive characteristics of East Asians, and has been under recent selection.
 

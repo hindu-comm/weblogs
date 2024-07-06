@@ -9,7 +9,16 @@ Source: [here](https://www.gnxp.com/WordPress/2018/07/13/tutorial-to-run-supervi
 
 Tutorial to run supervised admixture analyses
 
-|                |         |             |                 |               |           | |:---------------|:--------|:------------|:----------------|:--------------|:----------| | **ID**         | **Dai** | **Gujrati** | **Lithuanians** | **Sardinian** | **Tamil** | | razib_23andMe  | 0.14    | 0.26        | 0.02            | 0.00          | 0.58      | | razib_ancestry | 0.14    | 0.26        | 0.02            | 0.00          | 0.58      | | razib_ftdna    | 0.14    | 0.26        | 0.02            | 0.00          | 0.57      | | razib_daughter | 0.05    | 0.14        | 0.29            | 0.18          | 0.34      | | razib_son      | 0.07    | 0.17        | 0.28            | 0.19          | 0.30      | | razib_son_2    | 0.06    | 0.19        | 0.29            | 0.19          | 0.27      | | razib_wife     | 0.00    | 0.07        | 0.55            | 0.38          | 0.00      |
+|                |         |             |                 |               |           |
+|:---------------|:--------|:------------|:----------------|:--------------|:----------|
+| **ID**         | **Dai** | **Gujrati** | **Lithuanians** | **Sardinian** | **Tamil** |
+| razib_23andMe  | 0.14    | 0.26        | 0.02            | 0.00          | 0.58      |
+| razib_ancestry | 0.14    | 0.26        | 0.02            | 0.00          | 0.58      |
+| razib_ftdna    | 0.14    | 0.26        | 0.02            | 0.00          | 0.57      |
+| razib_daughter | 0.05    | 0.14        | 0.29            | 0.18          | 0.34      |
+| razib_son      | 0.07    | 0.17        | 0.28            | 0.19          | 0.30      |
+| razib_son_2    | 0.06    | 0.19        | 0.29            | 0.19          | 0.27      |
+| razib_wife     | 0.00    | 0.07        | 0.55            | 0.38          | 0.00      |
 
 [![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/04/molecularpopulationgenetics.jpeg?resize=180%2C238&ssl=1)![](https://i0.wp.com/www.gnxp.com/WordPress/wp-content/uploads/2018/04/molecularpopulationgenetics.jpeg?resize=180%2C238&ssl=1)](https://www.amazon.com/exec/obidos/ASIN/0878939652/geneexpressio-20/ref=as_at/?imprToken=GYtvccvxlp7mLzvT7EYqnQ&slotNum=0&imprToken=Ki36zn7u5lcccf4N9d1YDg&slotNum=0&creativeASIN=B00RTY0LPO&linkCode=w61&imprToken=TlKC3Z.2TonJfIX35XEb3g&slotNum=96)This is a follow-up to my earlier post, [Tutorial To Run PCA, Admixture, Treemix And Pairwise Fst In One Command](https://www.gnxp.com/WordPress/2018/07/11/tutorial-to-run-pca-admixture-treemix-and-pairwise-fst-in-one-command/). Hopefully, you’ll be able to run supervised `admixture` analysis with less hassle after reading this. Here I’m pretty much aiming for laypeople. If you are a trainee you need to write your own scripts. The main goal here is to allow people to run a lot of tests to develop an intuition for this stuff.
 
@@ -19,7 +28,12 @@ The results are not surprising. I’m about \~14% “Dai”, reflecting East Asi
 
 Now below are results for three Swedes with the same reference panel:
 
-|           |          |         |             |                 |               |           | |:----------|:---------|:--------|:------------|:----------------|:--------------|:----------| | **Group** | **ID**   | **Dai** | **Gujrati** | **Lithuanians** | **Sardinian** | **Tamil** | | Sweden    | Sweden17 | 0.00    | 0.09        | 0.63            | 0.28          | 0.00      | | Sweden    | Sweden18 | 0.00    | 0.08        | 0.62            | 0.31          | 0.00      | | Sweden    | Sweden20 | 0.00    | 0.05        | 0.72            | 0.23          | 0.00      |
+|           |          |         |             |                 |               |           |
+|:----------|:---------|:--------|:------------|:----------------|:--------------|:----------|
+| **Group** | **ID**   | **Dai** | **Gujrati** | **Lithuanians** | **Sardinian** | **Tamil** |
+| Sweden    | Sweden17 | 0.00    | 0.09        | 0.63            | 0.28          | 0.00      |
+| Sweden    | Sweden18 | 0.00    | 0.08        | 0.62            | 0.31          | 0.00      |
+| Sweden    | Sweden20 | 0.00    | 0.05        | 0.72            | 0.23          | 0.00      |
 
 All these were run on supervised admixture frameworks where I used Dai, Gujrati, Lithuanians, Sardinians, and Tamils, as the reference “ancestral” populations. Another way to think about it is: taking the genetic variation of these input groups, what fractions does a given test focal individual shake out at?
 

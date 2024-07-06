@@ -28,7 +28,45 @@ I am aware that not all of those who support GMO labeling are denalists. Some of
 
 Raw data:
 
-|            |                    |                    |                           | |------------|--------------------|--------------------|---------------------------| | **County** | **Yes, Marijuana** | **Yes, GMO label** | **Democrat for governor** | | Baker      | 41                 | 32                 | 27                        | | Benton     | 60                 | 52                 | 59                        | | Clackamas  | 51                 | 47                 | 46                        | | Clatsop    | 57                 | 50                 | 46                        | | Columbia   | 53                 | 45                 | 43                        | | Coos       | 53                 | 50                 | 42                        | | Crook      | 41                 | 31                 | 29                        | | Curry      | 56                 | 52                 | 41                        | | Deschutes  | 51                 | 46                 | 46                        | | Douglas    | 45                 | 41                 | 34                        | | Gilliam    | 41                 | 23                 | 32                        | | Grant      | 35                 | 32                 | 25                        | | Harney     | 34                 | 26                 | 24                        | | Hood River | 57                 | 54                 | 59                        | | Jackson    | 53                 | 55                 | 43                        | | Jefferson  | 44                 | 32                 | 34                        | | Josephine  | 50                 | 49                 | 35                        | | Klamath    | 44                 | 36                 | 28                        | | Lake       | 38                 | 29                 | 23                        | | Lane       | 60                 | 57                 | 57                        | | Lincoln    | 62                 | 53                 | 54                        | | Linn       | 47                 | 38                 | 35                        | | Malheur    | 31                 | 32                 | 25                        | | Marion     | 48                 | 42                 | 41                        | | Morrow     | 34                 | 27                 | 28                        | | Multnomah  | 71                 | 62                 | 70                        | | Polk       | 47                 | 42                 | 41                        | | Sherman    | 38                 | 23                 | 28                        | | Tillamook  | 58                 | 45                 | 47                        | | Umatilla   | 37                 | 32                 | 29                        | | Union      | 41                 | 33                 | 31                        | | Wallow     | 39                 | 35                 | 28                        | | Wasco      | 49                 | 40                 | 43                        | | Washington | 55                 | 48                 | 52                        | | Wheeler    | 36                 | 32                 | 29                        | | Yamhill    | 50                 | 41                 | 41                        |
+|            |                    |                    |                           |
+|------------|--------------------|--------------------|---------------------------|
+| **County** | **Yes, Marijuana** | **Yes, GMO label** | **Democrat for governor** |
+| Baker      | 41                 | 32                 | 27                        |
+| Benton     | 60                 | 52                 | 59                        |
+| Clackamas  | 51                 | 47                 | 46                        |
+| Clatsop    | 57                 | 50                 | 46                        |
+| Columbia   | 53                 | 45                 | 43                        |
+| Coos       | 53                 | 50                 | 42                        |
+| Crook      | 41                 | 31                 | 29                        |
+| Curry      | 56                 | 52                 | 41                        |
+| Deschutes  | 51                 | 46                 | 46                        |
+| Douglas    | 45                 | 41                 | 34                        |
+| Gilliam    | 41                 | 23                 | 32                        |
+| Grant      | 35                 | 32                 | 25                        |
+| Harney     | 34                 | 26                 | 24                        |
+| Hood River | 57                 | 54                 | 59                        |
+| Jackson    | 53                 | 55                 | 43                        |
+| Jefferson  | 44                 | 32                 | 34                        |
+| Josephine  | 50                 | 49                 | 35                        |
+| Klamath    | 44                 | 36                 | 28                        |
+| Lake       | 38                 | 29                 | 23                        |
+| Lane       | 60                 | 57                 | 57                        |
+| Lincoln    | 62                 | 53                 | 54                        |
+| Linn       | 47                 | 38                 | 35                        |
+| Malheur    | 31                 | 32                 | 25                        |
+| Marion     | 48                 | 42                 | 41                        |
+| Morrow     | 34                 | 27                 | 28                        |
+| Multnomah  | 71                 | 62                 | 70                        |
+| Polk       | 47                 | 42                 | 41                        |
+| Sherman    | 38                 | 23                 | 28                        |
+| Tillamook  | 58                 | 45                 | 47                        |
+| Umatilla   | 37                 | 32                 | 29                        |
+| Union      | 41                 | 33                 | 31                        |
+| Wallow     | 39                 | 35                 | 28                        |
+| Wasco      | 49                 | 40                 | 43                        |
+| Washington | 55                 | 48                 | 52                        |
+| Wheeler    | 36                 | 32                 | 29                        |
+| Yamhill    | 50                 | 41                 | 41                        |
 
 ### Related Posts:
 

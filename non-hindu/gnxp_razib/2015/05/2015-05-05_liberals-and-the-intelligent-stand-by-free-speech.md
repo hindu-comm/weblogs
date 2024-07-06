@@ -26,7 +26,39 @@ In this case, a Muslim cleric who preaches hatred of the United States. Other qu
 
 The question about Muslim clerics only began to be asked in 2008, so I didn’t put it above. But, I was curious about how it related to a question about whether to let a racist speak in your community. Below are some demographic cross-tabs:
 
-|                            |                                  |                           | |:---------------------------|---------------------------------:|--------------------------:| | **Demographic**            | **Allow Muslim cleric to speak** | **Allow racist to speak** | | **Extremely liberal**      |                               62 |                        66 | | **Liberal**                |                               52 |                        64 | | **Slightly liberal**       |                               49 |                        58 | | **Moderate**               |                               39 |                        57 | | **Slightly conservative**  |                               44 |                        61 | | **Conservative**           |                               40 |                        61 | | **Extremely conservative** |                               34 |                        60 | | **Strong Democrat**        |                               42 |                        57 | | **Democrat**               |                               38 |                        56 | | **Lean Democrat**          |                               50 |                        57 | | **Independent**            |                               37 |                        56 | | **Lean Republican**        |                               46 |                        66 | | **Republican**             |                               41 |                        62 | | **Strong Republican**      |                               40 |                        62 | | **No HS diploma**          |                               18 |                        41 | | **HS diploma**             |                               37 |                        56 | | **Junior college**         |                               45 |                        61 | | **Bachelor**               |                               60 |                        72 | | **Graduate**               |                               65 |                        74 | | **Wordsum 0**              |                               11 |                        31 | | **Wordsum 1**              |                               20 |                        43 | | **Wordsum 2**              |                               19 |                        37 | | **Wordsum 3**              |                               23 |                        49 | | **Wordsum 4**              |                               28 |                        56 | | **Wordsum 5**              |                               31 |                        54 | | **Wordsum 6**              |                               39 |                        54 | | **Wordsum 7**              |                               48 |                        62 | | **Wordsum 8**              |                               60 |                        70 | | **Wordsum 9**              |                               68 |                        81 | | **Wordsum 10**             |                               85 |                        88 |
+|                            |                                  |                           |
+|:---------------------------|---------------------------------:|--------------------------:|
+| **Demographic**            | **Allow Muslim cleric to speak** | **Allow racist to speak** |
+| **Extremely liberal**      |                               62 |                        66 |
+| **Liberal**                |                               52 |                        64 |
+| **Slightly liberal**       |                               49 |                        58 |
+| **Moderate**               |                               39 |                        57 |
+| **Slightly conservative**  |                               44 |                        61 |
+| **Conservative**           |                               40 |                        61 |
+| **Extremely conservative** |                               34 |                        60 |
+| **Strong Democrat**        |                               42 |                        57 |
+| **Democrat**               |                               38 |                        56 |
+| **Lean Democrat**          |                               50 |                        57 |
+| **Independent**            |                               37 |                        56 |
+| **Lean Republican**        |                               46 |                        66 |
+| **Republican**             |                               41 |                        62 |
+| **Strong Republican**      |                               40 |                        62 |
+| **No HS diploma**          |                               18 |                        41 |
+| **HS diploma**             |                               37 |                        56 |
+| **Junior college**         |                               45 |                        61 |
+| **Bachelor**               |                               60 |                        72 |
+| **Graduate**               |                               65 |                        74 |
+| **Wordsum 0**              |                               11 |                        31 |
+| **Wordsum 1**              |                               20 |                        43 |
+| **Wordsum 2**              |                               19 |                        37 |
+| **Wordsum 3**              |                               23 |                        49 |
+| **Wordsum 4**              |                               28 |                        56 |
+| **Wordsum 5**              |                               31 |                        54 |
+| **Wordsum 6**              |                               39 |                        54 |
+| **Wordsum 7**              |                               48 |                        62 |
+| **Wordsum 8**              |                               60 |                        70 |
+| **Wordsum 9**              |                               68 |                        81 |
+| **Wordsum 10**             |                               85 |                        88 |
 
 ![Click to enlarge](https://i0.wp.com/www.unz.com/wp-content/uploads/2015/05/correlation-300x182.png?resize=300%2C182)
 
@@ -34,7 +66,34 @@ In case you are curious the correlation between the two trends across these demo
 
 Next I wanted to relate how the two attitudes toward speech related. Below you see the first two set of cross-tabs with marginals on the rows and columns. So the first set shows what percentage of those who would allow a Muslim cleric to speak would also allow a racist to speak. The second set shows what percentage of those who would allow a racist to speak would also allow a Muslim cleric to speak. In both cases the top left and bottom right are the “consistent” positions. Finally, I decided to look at attitudes by demographic again, this time broken down by both positions on speech with the marginals for the column. That means that every row shows the percentage of those who would allow a racist to speak who would also allow a Muslim cleric to speak, and those who wouldn’t allow a racist to speak who would also allow a Muslim cleric to speak.
 
-|                                  |                               |                  |                        |           | |:---------------------------------|:------------------------------|-----------------:|-----------------------:|----------:| |                                  |                               |                  |                        |           | |                                  | ****                         | **Allow racist** | **Don’t allow racist** | **Total** | |                                  | **Allow Muslim cleric**       |               88 |                     12 |       100 | |                                  | **Don’t allow Muslim cleric** |               38 |                     62 |       100 | |                                  | ****                         |                  |                        |           | |                                  | ****                         | **Allow racist** | **Don’t allow racist** |           | |                                  | **Allow Muslim cleric**       |               63 |                     13 |           | |                                  | **Don’t allow Muslim cleric** |               37 |                     87 |           | |                                  | **Total**                     |              100 |                    100 |           | |                                  | ****                         |                  |                        |           | |                                  |                               | **Allow racist** | **Don’t allow racist** |           | | **Allow Muslim cleric to speak** | **Extremely liberal**         |               81 |                     27 |           | |                                  | **Liberal**                   |               71 |                     17 |           | |                                  | **Slightly liberal**          |               70 |                     21 |           | |                                  | **Moderate**                  |               60 |                     12 |           | |                                  | **Slightly conservative**     |               63 |                     15 |           | |                                  | **Conservative**              |               61 |                      8 |           | |                                  | **Extremely conservative**    |               53 |                      3 |           | |                                  | **Wordsum 0-4**               |               40 |                     10 |           | |                                  | **Wordsum 5**                 |               48 |                     13 |           | |                                  | **Wordsum 6**                 |               63 |                      9 |           | |                                  | **Wordsum 7**                 |               70 |                     12 |           | |                                  | **Wordsum 8**                 |               79 |                     17 |           | |                                  | **Wordsum 9**                 |               77 |                     27 |           | |                                  | **Wordsum 10**                |               92 |                     32 |           | |                                  |                               |                  |                        |           |
+|                                  |                               |                  |                        |           |
+|:---------------------------------|:------------------------------|-----------------:|-----------------------:|----------:|
+|                                  |                               |                  |                        |           |
+|                                  | ****                         | **Allow racist** | **Don’t allow racist** | **Total** |
+|                                  | **Allow Muslim cleric**       |               88 |                     12 |       100 |
+|                                  | **Don’t allow Muslim cleric** |               38 |                     62 |       100 |
+|                                  | ****                         |                  |                        |           |
+|                                  | ****                         | **Allow racist** | **Don’t allow racist** |           |
+|                                  | **Allow Muslim cleric**       |               63 |                     13 |           |
+|                                  | **Don’t allow Muslim cleric** |               37 |                     87 |           |
+|                                  | **Total**                     |              100 |                    100 |           |
+|                                  | ****                         |                  |                        |           |
+|                                  |                               | **Allow racist** | **Don’t allow racist** |           |
+| **Allow Muslim cleric to speak** | **Extremely liberal**         |               81 |                     27 |           |
+|                                  | **Liberal**                   |               71 |                     17 |           |
+|                                  | **Slightly liberal**          |               70 |                     21 |           |
+|                                  | **Moderate**                  |               60 |                     12 |           |
+|                                  | **Slightly conservative**     |               63 |                     15 |           |
+|                                  | **Conservative**              |               61 |                      8 |           |
+|                                  | **Extremely conservative**    |               53 |                      3 |           |
+|                                  | **Wordsum 0-4**               |               40 |                     10 |           |
+|                                  | **Wordsum 5**                 |               48 |                     13 |           |
+|                                  | **Wordsum 6**                 |               63 |                      9 |           |
+|                                  | **Wordsum 7**                 |               70 |                     12 |           |
+|                                  | **Wordsum 8**                 |               79 |                     17 |           |
+|                                  | **Wordsum 9**                 |               77 |                     27 |           |
+|                                  | **Wordsum 10**                |               92 |                     32 |           |
+|                                  |                               |                  |                        |           |
 
 
 

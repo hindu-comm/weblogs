@@ -10,7 +10,28 @@ The twin Aśvin-s and Rudra are both Indo-Aryan reflexes of two deity-classes wh
 
 ***Table 1. The association of various Devatā-s with Rudra in the RV***
 
-| **Devatā** | **#** | |:-----------|------:| | Marut-s    |    21 | | Vasu-s     |    18 | | Āditya-s   |    13 | | Agni       |    10 | | Ṛbhu-s     |     7 | | Indra      |     6 | | Aśvin-s    |     6 | | Soma       |     6 | | Varuṇa     |     5 | | Mitra      |     5 | | Bhaga      |     5 | | Puṣaṇ      |     4 | | Viṣṇu      |     3 | | Bṛhaspati  |     2 | | Sarasvatī  |     2 | | Tvaṣṭṛ     |     2 | | Aryaman    |     1 | | Savitṛ     |     1 | | Aditi      |     1 | | Vāyu       |     1 |
+| **Devatā** | **#** |
+|:-----------|------:|
+| Marut-s    |    21 |
+| Vasu-s     |    18 |
+| Āditya-s   |    13 |
+| Agni       |    10 |
+| Ṛbhu-s     |     7 |
+| Indra      |     6 |
+| Aśvin-s    |     6 |
+| Soma       |     6 |
+| Varuṇa     |     5 |
+| Mitra      |     5 |
+| Bhaga      |     5 |
+| Puṣaṇ      |     4 |
+| Viṣṇu      |     3 |
+| Bṛhaspati  |     2 |
+| Sarasvatī  |     2 |
+| Tvaṣṭṛ     |     2 |
+| Aryaman    |     1 |
+| Savitṛ     |     1 |
+| Aditi      |     1 |
+| Vāyu       |     1 |
 
 Not surprisingly, he is most closely associated with his sons the Marut-s who are often referred to as the plurality of Rudra-s. The other close associations come from the fact that the Rudra-s are mentioned as a group of gods along side to two other big groups of gods: the Vasu-s and the Āditya-s. He further shows notable associations with one of the archetypal deities of the Vasu-group, Agni with who he shares a duality. Beyond that his mentions along with the Aśvin-s is no more frequent than with Soma, Indra or the Ṛbhu-s (the divine craftsmen whose masters are said to be the Rudra-s: RV 8.7.12). That said a closer look reveals a deeper link between Rudra and the Aśvin-s.
 

@@ -50,7 +50,16 @@ But there’s more. These are people who *intend* to pursue a course of study, a
 
 So look at this table:
 
-|                       |                 |                  |                     |         |                     |                      |                         | |----------------------:|:----------------|:-----------------|:--------------------|:--------|:--------------------|:---------------------|:------------------------| |                      | **Verb \> 700** | **Quant \> 700** | **Writing 5.5 & 6** | ***N*** | ***N* Verb \> 700** | ***N* Quant \> 700** | ***N* Writing 5.5 & 6** | |                      |                 |                  |                     |         |                     |                      |                         | |   Biological Sciences | 3.1%            | 32.5%            | 16.5%               | 20915   | 648                 | 6797                 | 3451                    | |             Chemistry | 3.3%            | 52.7%            | 16.5%               | 4301    | 142                 | 2267                 | 710                     | |  Mathematial Sciences | 5.6%            | 76.6%            | 18.6%               | 4468    | 250                 | 3422                 | 831                     | | Physics and Astronomy | 6.9%            | 78.7%            | 22.5%               | 3592    | 248                 | 2827                 | 808                     | |                      |                 |                  |                     |         |                     |                      |                         | |           Engineering | 2.8%            | 70.8%            | 12.8%               | 28577   | 800                 | 20233                | 3658                    |
+|                       |                 |                  |                     |         |                     |                      |                         |
+|----------------------:|:----------------|:-----------------|:--------------------|:--------|:--------------------|:---------------------|:------------------------|
+|                      | **Verb \> 700** | **Quant \> 700** | **Writing 5.5 & 6** | ***N*** | ***N* Verb \> 700** | ***N* Quant \> 700** | ***N* Writing 5.5 & 6** |
+|                      |                 |                  |                     |         |                     |                      |                         |
+|   Biological Sciences | 3.1%            | 32.5%            | 16.5%               | 20915   | 648                 | 6797                 | 3451                    |
+|             Chemistry | 3.3%            | 52.7%            | 16.5%               | 4301    | 142                 | 2267                 | 710                     |
+|  Mathematial Sciences | 5.6%            | 76.6%            | 18.6%               | 4468    | 250                 | 3422                 | 831                     |
+| Physics and Astronomy | 6.9%            | 78.7%            | 22.5%               | 3592    | 248                 | 2827                 | 808                     |
+|                      |                 |                  |                     |         |                     |                      |                         |
+|           Engineering | 2.8%            | 70.8%            | 12.8%               | 28577   | 800                 | 20233                | 3658                    |
 
 As you see, the distribution is what you’d expect, a far higher % of physics people lay above the 700 threshold than biology people (actually, the overall verbal mean is rather low, so I should rescale it, but it doesn’t really add much to my point so I won’t bother). **But look at the number of people going into each field, even though few of those intending to pursue biology proportionally make it above the cut off, *there are so many biologists that in absolute numbers they still outnumber the physicists at the high ends***.
 
@@ -61,7 +70,12 @@ But back to the original quote which prompted this post. Are biologists just idi
 Prominent American Natural Scientists – N.A.S. members (1998, sample size \~ 250) and “eminent” scientists in 1914 & 1933  
 [Source](http://www.lhup.edu/%7Edsimanek/sci_relig.htm)
 
-|                          |       |       |            |     | |--------------------------|-------|-------|------------|-----| | Believe in personal God? |       |       |            |     | | *Discipline*             | *Yes* | *No*  | *Not sure* |    | | Physics                  | 7.50% | 79.0% |           |    | | Biology                  | 5.50% | 65.2% |           |    |
+|                          |       |       |            |     |
+|--------------------------|-------|-------|------------|-----|
+| Believe in personal God? |       |       |            |     |
+| *Discipline*             | *Yes* | *No*  | *Not sure* |    |
+| Physics                  | 7.50% | 79.0% |           |    |
+| Biology                  | 5.50% | 65.2% |           |    |
 
 From a [broader survey in 1996](http://www.beliefnet.com/story/1/story_193_1.html)
 

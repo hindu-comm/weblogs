@@ -35,7 +35,55 @@ No need to label, there’s just no relationship. Weird. I also drilled down for
 
 The raw data….
 
-|               |                     |                    |                        | |---------------|--------------------:|-------------------:|-----------------------:| |               | **Religious Trust** | **National Trust** | **Religion Important** | | Sweden        |                2.03 |               2.08 |                   1.09 | | France        |                1.99 |               2.01 |                   1.26 | | Great Britain |                1.87 |               1.86 |                   1.36 | | Mali          |                1.85 |                1.7 |                   2.89 | | Finland       |                1.85 |               1.77 |                   1.48 | | United States |                1.81 |               1.75 |                    2.1 | | Canada        |                 1.8 |               1.76 |                   1.76 | | Australia     |                1.74 |               1.77 |                   1.29 | | Switzerland   |                1.72 |               1.76 |                    1.4 | | Andorra       |                1.71 |                1.8 |                   0.98 | | South Africa  |                 1.7 |               1.42 |                   2.58 | | Rwanda        |                1.67 |               1.31 |                   2.35 | | Argentina     |                1.63 |               1.56 |                   1.88 | | Trinidad      |                 1.6 |               1.48 |                   2.64 | | Burkina Faso  |                1.55 |               1.42 |                    2.8 | | Ghana         |                 1.5 |               1.14 |                   2.88 | | Taiwan        |                1.42 |               1.16 |                   1.52 | | Poland        |                 1.4 |               1.37 |                   2.32 | | Brazil        |                 1.4 |               0.86 |                   2.39 | | Netherlands   |                1.38 |               1.35 |                   1.04 | | Spain         |                1.37 |               1.41 |                   1.24 | | India         |                1.36 |               1.12 |                   2.27 | | Ethiopia      |                1.36 |               1.13 |                   2.73 | | South Korea   |                1.35 |               1.11 |                    1.5 | | Bulgaria      |                1.35 |               1.34 |                   1.53 | | Indonesia     |                1.32 |                1.2 |                   2.93 | | Georgia       |                1.31 |               1.56 |                   2.77 | | Germany       |                1.29 |               1.28 |                   1.08 | | Ukraine       |                1.27 |               1.34 |                    1.6 | | Zambia        |                1.26 |               0.95 |                   2.71 | | Italy         |                1.26 |               1.31 |                   2.04 | | Malaysia      |                1.23 |               0.87 |                   2.76 | | Chile         |                1.21 |               1.09 |                   2.05 | | Thailand      |                1.16 |               1.01 |                    2.5 | | Russia        |                1.15 |               1.21 |                   1.44 | | Vietnam       |                1.15 |                  1 |                    1.2 | | Slovenia      |                1.11 |               1.12 |                   1.32 | | Romania       |                 1.1 |               1.08 |                   2.46 | | Jordan        |                1.05 |                  1 |                   2.94 | | Mexico        |                1.02 |               0.84 |                   2.41 | | Turkey        |                1.01 |                  1 |                   2.64 | | Cyprus        |                   1 |               1.03 |                   2.29 | | Moldova       |                0.98 |               1.18 |                   1.98 | | Morocco       |                0.91 |               0.91 |                   2.89 | | Peru          |                0.89 |               0.68 |                   2.21 | | China         |                0.89 |                0.8 |                   0.82 |
+|               |                     |                    |                        |
+|---------------|--------------------:|-------------------:|-----------------------:|
+|               | **Religious Trust** | **National Trust** | **Religion Important** |
+| Sweden        |                2.03 |               2.08 |                   1.09 |
+| France        |                1.99 |               2.01 |                   1.26 |
+| Great Britain |                1.87 |               1.86 |                   1.36 |
+| Mali          |                1.85 |                1.7 |                   2.89 |
+| Finland       |                1.85 |               1.77 |                   1.48 |
+| United States |                1.81 |               1.75 |                    2.1 |
+| Canada        |                 1.8 |               1.76 |                   1.76 |
+| Australia     |                1.74 |               1.77 |                   1.29 |
+| Switzerland   |                1.72 |               1.76 |                    1.4 |
+| Andorra       |                1.71 |                1.8 |                   0.98 |
+| South Africa  |                 1.7 |               1.42 |                   2.58 |
+| Rwanda        |                1.67 |               1.31 |                   2.35 |
+| Argentina     |                1.63 |               1.56 |                   1.88 |
+| Trinidad      |                 1.6 |               1.48 |                   2.64 |
+| Burkina Faso  |                1.55 |               1.42 |                    2.8 |
+| Ghana         |                 1.5 |               1.14 |                   2.88 |
+| Taiwan        |                1.42 |               1.16 |                   1.52 |
+| Poland        |                 1.4 |               1.37 |                   2.32 |
+| Brazil        |                 1.4 |               0.86 |                   2.39 |
+| Netherlands   |                1.38 |               1.35 |                   1.04 |
+| Spain         |                1.37 |               1.41 |                   1.24 |
+| India         |                1.36 |               1.12 |                   2.27 |
+| Ethiopia      |                1.36 |               1.13 |                   2.73 |
+| South Korea   |                1.35 |               1.11 |                    1.5 |
+| Bulgaria      |                1.35 |               1.34 |                   1.53 |
+| Indonesia     |                1.32 |                1.2 |                   2.93 |
+| Georgia       |                1.31 |               1.56 |                   2.77 |
+| Germany       |                1.29 |               1.28 |                   1.08 |
+| Ukraine       |                1.27 |               1.34 |                    1.6 |
+| Zambia        |                1.26 |               0.95 |                   2.71 |
+| Italy         |                1.26 |               1.31 |                   2.04 |
+| Malaysia      |                1.23 |               0.87 |                   2.76 |
+| Chile         |                1.21 |               1.09 |                   2.05 |
+| Thailand      |                1.16 |               1.01 |                    2.5 |
+| Russia        |                1.15 |               1.21 |                   1.44 |
+| Vietnam       |                1.15 |                  1 |                    1.2 |
+| Slovenia      |                1.11 |               1.12 |                   1.32 |
+| Romania       |                 1.1 |               1.08 |                   2.46 |
+| Jordan        |                1.05 |                  1 |                   2.94 |
+| Mexico        |                1.02 |               0.84 |                   2.41 |
+| Turkey        |                1.01 |                  1 |                   2.64 |
+| Cyprus        |                   1 |               1.03 |                   2.29 |
+| Moldova       |                0.98 |               1.18 |                   1.98 |
+| Morocco       |                0.91 |               0.91 |                   2.89 |
+| Peru          |                0.89 |               0.68 |                   2.21 |
+| China         |                0.89 |                0.8 |                   0.82 |
 
 ### Related Posts:
 

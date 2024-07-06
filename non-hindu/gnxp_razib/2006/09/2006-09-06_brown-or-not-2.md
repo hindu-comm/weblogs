@@ -11,11 +11,23 @@ Brown or not?
 
 Was [Vivien Leigh](https://en.wikipedia.org/wiki/Vivien_Leigh) brown? Below David B., our resident Briton, [claimed](https://en.wikipedia.org/wiki/Vivien_Leigh) that Ms. Leigh was a product of miscegenation. After cursory examination of the various facts I would bet she was not of mixed ancestry, though I suspect that the data here will always be thin on the ground (I think it best to judge that her character was white, so to speak, on this issue and allow that her claims about her ancestry were the naked and plain truth). Below the fold are some images and a poll, you vote, you decide, Europa’s own raven beauty or seed of cross-color copulation? (Leigh was born in the darkest heathen India in the age before cosmetic surgery, low mutational load I do believe I spy in that face….)
 
-|                                                          |                                   | |----------------------------------------------------------|-----------------------------------| | **Hot, yes, but brown or not?**                          |                                   | |                                                          | Vivien Leigh has a touch of brown | |                                                          | No brown is she                   | |                                                          |                                   | | [Free polls from Pollhost.com](http://www.pollhost.com/) |                                   |
+|                                                          |                                   |
+|----------------------------------------------------------|-----------------------------------|
+| **Hot, yes, but brown or not?**                          |                                   |
+|                                                          | Vivien Leigh has a touch of brown |
+|                                                          | No brown is she                   |
+|                                                          |                                   |
+| [Free polls from Pollhost.com](http://www.pollhost.com/) |                                   |
 
 …on a related matter,
 
-|                                                          |                                                                    | |----------------------------------------------------------|--------------------------------------------------------------------| | **Lower mutational load than Keira Knightley?**          |                                                                    | |                                                          | Hell yes! That bitch made it through the pathogenic bath of India! | |                                                          | Hell no! Knightley’s stomach is quite fit.                         | |                                                          |                                                                    | | [Free polls from Pollhost.com](http://www.pollhost.com/) |                                                                    |
+|                                                          |                                                                    |
+|----------------------------------------------------------|--------------------------------------------------------------------|
+| **Lower mutational load than Keira Knightley?**          |                                                                    |
+|                                                          | Hell yes! That bitch made it through the pathogenic bath of India! |
+|                                                          | Hell no! Knightley’s stomach is quite fit.                         |
+|                                                          |                                                                    |
+| [Free polls from Pollhost.com](http://www.pollhost.com/) |                                                                    |
 
 ### Related Posts:
 
